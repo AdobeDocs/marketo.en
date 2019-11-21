@@ -1,10 +1,9 @@
 ---
 cloud: experience-cloud
 product: adobe experience cloud
-sub-product: partner exchange
-archetype: partner
-user-guide-title: Experience Cloud Partner Exchange
-
+sub-product: marketo
+archetype: end-user
+user-guide-title: Marketo technical content
 ---
 
 # Table of Contents {#using}
