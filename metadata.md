@@ -7,7 +7,7 @@ getting-started-title: Label 2
 getting-started-url: 
 tutorials-title: Label 3
 tutorials-url: 
-git-repo: https://git.corp.adobe.com/AdobeDocs/partner-exchange.en
+git-repo: https://git.corp.adobe.com/AdobeDocs/marketo.en
 ---
 
 # Metadata for internal use
