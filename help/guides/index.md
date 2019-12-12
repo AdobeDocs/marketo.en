@@ -24,7 +24,7 @@ Content has historically been locked away in inaccessible stores with specialize
 
 We are taking an open source approach to self-help content, and invite all to participate. We will use industry standard mark-down language to create content, and make the content source of record a public, open-source repository on Github. This content will be synchronized and published as part of Adobe’s self-help platform.
 
-All employees, customers and partners will not only be allowed, but encouraged to enlist and contribute. 
+All employees, customers and partners will not only be allowed, but encouraged to enlist and contribute.
 
 <!-- A great backgrounder for understanding what we're doing is here in [Bill Staples blog](https://adobe.sharepoint.com/sites/BStaples/SitePages/Open%20Source%20Product%20Documentation%20and%20Self-Help.aspx) -->
 
