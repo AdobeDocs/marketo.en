@@ -4,7 +4,7 @@ description: This is a description of this page
 
 ---
 
-# Overview of this sample page
+# Overview of this Marketo sample page
 
 The SSE-CD project is about building how knowledge is created, shared and maintained with customers. Think of it as _*social co-creation*_ of content.
 
