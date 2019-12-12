@@ -9,7 +9,7 @@ uuid: 346132cb-d78d-4573-8edd-dbaa4c3bb05d
 
 # Adobe Cloud Auditor{#adobe-experience-cloud-auditor}
 
-Adobe Experience Cloud Auditor is a service of the Adobe Experience Cloud that was co-developed with ObservePoint, experts in validating digital implementations.
+The Adobe Experience Cloud Auditor is a service of the Adobe Experience Cloud that was co-developed with ObservePoint, experts in validating digital implementations.
 
 >[!NOTE]
 >
