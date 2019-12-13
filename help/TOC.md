@@ -8,5 +8,6 @@ user-guide-title: Marketo technical content
 
 # Table of Contents {#using}
 
-+ [Overview](overview.md)
++ [Overview](index.md)
 + [New Article](new-article.md)
++ [Sample Page](sample.md)
