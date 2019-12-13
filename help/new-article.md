@@ -1,11 +1,14 @@
 ---
 Title: New article
-Description: 
---- 
+Description: Description of new article
+
+---
 
 # This is a new article
 
 Welcome to the new article...
+
+Here is a tip
 
 >[!TIP]
 >
