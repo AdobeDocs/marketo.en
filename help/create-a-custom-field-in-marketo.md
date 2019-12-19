@@ -7,6 +7,8 @@ Description:
 
 If you need a new custom field in Marketo to store/capture data, here's how to create one.
 
+<br>&nbsp;
+
 1. Go to Admin and click Field Management.
 
    ![Image One](assets/create-a-custom-field-in-marketo/1.png "Image one! Yay!")
