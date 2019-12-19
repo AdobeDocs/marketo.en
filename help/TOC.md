@@ -10,11 +10,8 @@ user-guide-title: Marketo Product Docs
 
 + [Overview](index.md)
 + [New Article](new-article.md)
-<<<<<<< Updated upstream
-+ [Sample Page](sample.md)
 + [Jan '20 Release Notes](jan-20-release-notes.md)
-=======
 + Product Docs {#product-docs}
   + Field Management {#field-management}
     + [Create a Custom Field in Marketo](create-a-custom-field-in-marketo.md)
->>>>>>> Stashed changes
++ [Sample Page](sample.md)
