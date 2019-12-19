@@ -9,7 +9,7 @@ If you need a new custom field in Marketo to store/capture data, here's how to c
 
 1. Go to Admin and click Field Management.
 
-   ![Image One](assets/Create-a-Custom-Field-in-Marketo/1.png "Image one! Yay!")
+   ![Image One](assets/create-a-custom-field-in-marketo/1.png "Image one! Yay!")
 
    >[!TIP]
    >
@@ -17,11 +17,11 @@ If you need a new custom field in Marketo to store/capture data, here's how to c
 
 1. Click New Custom Field.
 
-   ![Image Two](assets/Create-a-Custom-Field-in-Marketo/2.png "Image Two! Yussss!")
+   ![Image Two](assets/create-a-custom-field-in-marketo/2.png "Image Two! Yussss!")
 
 1. Choose the field Type. This will change how it is rendered in smart lists and forms in Marketo.
 
-   ![Image Three](assets/Create-a-Custom-Field-in-Marketo/3.png "Image three!")
+   ![Image Three](assets/create-a-custom-field-in-marketo/3.png "Image three!")
 
    >[!TIP]
    >
@@ -29,7 +29,7 @@ If you need a new custom field in Marketo to store/capture data, here's how to c
 
 1. Enter the Name as you want it to appear in Marketo. The API Name is automatically generated. You can tweak it, but it cannot be renamed once set. Click Create when done.
 
-   ![Image Four](assets/Create-a-Custom-Field-in-Marketo/4.png "Image four! You are done now")
+   ![Image Four](assets/create-a-custom-field-in-marketo/4.png "Image four! You are done now")
 
 >[!CAUTION]
 >
