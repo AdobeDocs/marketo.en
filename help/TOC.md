@@ -11,3 +11,4 @@ user-guide-title: Marketo technical content
 + [Overview](index.md)
 + [New Article](new-article.md)
 + [Sample Page](sample.md)
++ [Jan '20 Release Notes](jan-20-release-notes.md)

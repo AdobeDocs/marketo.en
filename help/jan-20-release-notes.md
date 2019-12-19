@@ -34,14 +34,17 @@ The following features will be released on **January 17, 2020**.
 The following features are on a non-quarterly cycle and will be released throughout the coming months.
 
 ## Bizible*
+
 * **Marketo Engage Leads Integration:** Bring Sales and Marketing together with a unified view of leads across Bizible and Marketo Engage. With this update, Marketo Engage can now be used as an additional lead data source, so you no longer have to wait for leads to sync with the CRM to report on lead generation.
 * **Discover Enhancements**: Get more from our Discover Boards in Bizible with enhancements developed from customer feedback, like the ability to drill down to transactional records from tiles and attributes, add essential record counts and corresponding cost-per metrics, and add/remove dashboard filters for multiple dashboards. You will also be taken directly to the default dashboard upon login.
 
 ## Marketo Sky  
+
 * **Image Editing**: Access Adobe’s editing capabilities without having to leave Marketo Engage. This new functionality allows you to easily do things like enhance, crop, and add text to images directly in Design Studio.
 * **People Page Layout Enhancement**: Manage your people and groups through list imports and bulk actions in the new People page layout.
 
 ## Sales Insight 
+
 * **Salesforce Lightning Bulk Actions**: Enhance Sales efficiency and keep buyers engaged with the ability to add up to 200 contacts/leads to campaigns and send them Marketo Engage emails in bulk with Salesforce Lightning.
 * **Mobile Support for Salesforce1**: You now have on-the-go mobile access to all Sales Insight features, like Interesting Moments and Web Activities & Emails, right in the Salesforce1 app.
 * **UI Enhancements**: Updated interface with enhancements to readability and a design consistent with our Marketo Sky experience.
