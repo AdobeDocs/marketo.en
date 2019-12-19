@@ -13,11 +13,11 @@ The following features are included in the Jan '20 release. Check your Marketo e
 >
 >Features denoted by an asterisk (*) are paid add-ons. Please contact your Marketo Engage representative to learn more.
 
-## **Quarterly Releases**
+## Quarterly Releases
 
 The following features will be released on **January 17, 2020**.
 
-## Core Marketo Engage Adobe Application
+### Core Marketo Engage Adobe Application
 
 * **Adobe Experience Manager Asset Selector***: Quickly assets that align with your brand with AEM assets available directly in Marketo Engage. **Note**: While this feature is available in both our Marketo Sky and classic experiences, the administrative capabilities can be found in our Classic experience. You must be a customer of AEM Assets and have version 6.5 or higher.
 * **Microsoft Dynamics**: Sync Lead to CRM in Real Time: Real-time syncing of leads and contacts between Marketo Engage and Microsoft Dynamics. Create leads or contacts and see them in Microsoft Dynamics immediately with the "Sync Person to Microsoft" flow action.
@@ -25,7 +25,7 @@ The following features will be released on **January 17, 2020**.
 * **Email Template Dependencies API**: Get a list of assets that depend on an email template to understand scope of potential changes and address dependencies to templates can be altered and deleted faster.
 * **Multi-Instance Management Enhancements**: Navigate to the instance you need quickly with a scrollable and alphabetical dropdown menu of your subscriptions.
 
-## Account-Based Marketing*
+### Account-Based Marketing*
 
 * **New Account Discovery (BETA**): Use Account Profiling to discover net-new target accounts for your ABM strategy based on your AI-powered ideal customer profile model. View, select, and import recommended new accounts, along with their AI-based fit and intent data indicators, that do not already exist inside your Marketo Engage lead and account database for ABM targeting. Immediately available for qualifying Account Profiling customers.
 
