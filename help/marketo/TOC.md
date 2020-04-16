@@ -6,7 +6,7 @@ archetype: end-user
 user-guide-title: Marketo Product Docs
 ---
 
-# Marketo Product Docs {#using}
+# Marketo Product Docs {#using-marketo}
 
 + [Overview](home.md)
 + [New Article](new-article.md)
