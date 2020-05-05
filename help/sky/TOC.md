@@ -43,7 +43,7 @@ user-guide-title: Sky Product Documentation
   + [Understanding the Engagement Score](understanding-the-engagement-score.md)
   + [Using a Program in an Engagement Program Stream](using-a-program-in-an-engagement-program-stream.md)
 + Labels {#labels}
-  + [Add and Remove Labels](and-and-remove-labels.md)
+  + [Add and Remove Labels](add-and-remove-labels.md)
   + [Copy Labels from Original to Clone](copy-labels-from-original-to-clone.md)
   + [Copy Labels from Parent to Child](copy-labels-from-parent-to-child.md)
 + My Tokens {#my-tokens}
