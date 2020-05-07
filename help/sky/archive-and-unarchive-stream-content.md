@@ -5,7 +5,7 @@ Description: Archive and Unarchive Stream Content
 
 # Archive and Unarchive Stream Content
 
-If you no longer want to use a piece of content in a stream you can either [remove]((../../help/sky/remove-stream-content.md)) it or archive it.
+If you no longer want to use a piece of content in a stream you can either [remove](/help/sky/remove-stream-content.md) it or archive it.
 
 >[!TIP]
 >
