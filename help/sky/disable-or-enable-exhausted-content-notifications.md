@@ -5,3 +5,18 @@ Description: Disable or Enable Exhausted Content Notifications
 
 # Disable or Enable Exhausted Content Notifications
 
+When people exhaust all content in a stream, Marketo can send you a notification. You can disable/enable the notifications based on your needs.
+
+1. Select your engagement program.
+
+   ![Image One](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-1.png)
+
+1. Click the **Setup** tab.
+
+   ![Image Two](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-2.png)
+
+1. Scroll down to Settings and select **Off** (or On).
+
+   ![Image Three](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-3.png)
+
+If you enable notifications, you will see something on the stream itself as well as receive an email notification.
