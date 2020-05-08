@@ -5,3 +5,46 @@ Description: Using a Program in an Engagement Program Stream
 
 # Using a Program in an Engagement Program Stream
 
+## Why use a nested program in an engagement program stream?
+
+It's easy to add an email to a stream in an engagement program, and it works fine. However, if your business needs are more complex, it may make sense to place the email inside a program. For example, you might want to:
+
+* Send an email to a subgroup of people in the stream
+* Send _different_ emails to subgroups within the stream
+* Include landing pages, forms, or other assets in the engagement program
+* Enable multi-touch attribution
+* Add extra flow steps, like alert emails
+
+## What happens when you use a program in a stream?
+
+When using a nested program, the decision to send an email to a person is based on the program membership and program ID.
+
+* If you're not a member of the program, you will receive any emails that are part of the program one time
+* If you are a member of the program, you won't receive the email
+* If you are no longer a member but already received the email earlier through that program, you won't receive the email 
+
+When you use a program in a stream, it doesn't matter if you’ve received that specific email before. As long as the email was not sent out before _in that specific program_, you can receive it again.
+
+It can get tricky mixing emails and programs in an engagement program. You might want to use one or the other.  
+
+>[!TIP]
+>
+>Be sure to use a Member of Engagement Program filter in your
+>smart list.
+
+## What happens to people who don't meet the smart list criteria?
+
+In the event that someone is filtered out of the smart list of a nested program’s smart campaign, they do not move on to the next piece of content during the current cast. They will move on to the next piece of content in the stream for the _following_ cast.
+
+## What does a nested program contain?
+
+A well-designed nested program contains emails, reports, and smart campaigns. It makes sense to keep these together.
+
+The email you use can live in the program, in a different program, or even in the Design Studio. Where it lives depends on how you want to use it.
+
+Reporting changes with email location. So, for example, if the email is in the Design Studio, in the Email Performance Report, all metrics are shown in one line – the different casts are combined. However, in the Engagement Stream Performance Report, the different sends are displayed separately.
+
+>[!CAUTION]
+>
+>If you want to resend something, it's safest to create a new
+>program and smart campaign.
