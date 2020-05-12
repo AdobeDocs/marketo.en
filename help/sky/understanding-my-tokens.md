@@ -61,13 +61,13 @@ Deep Dive
 
 Learn more about each of the My Tokens:
 
-* [CRM Campaign](help/sky/my-token-crm-campaign.md)
-* [Date](help/sky/my-token-date.md)
-* [Calendar File](help/sky/my-token-calendar-file.md)
-* [Image](help/sky/my-token-image.md)
-* [Link](help/sky/my-token-link.md)
-* [Number](help/sky/my-token-number.md)
-* [Rich Text](help/sky/my-token-rich-text.md)
-* [Score](help/sky/my-token-score.md)
-* [Email Script](help/sky/my-token-email-script.md)
-* [Text](help/sky/my-token-text.md)
+* [CRM Campaign](/help/sky/my-token-crm-campaign.md)
+* [Date](/help/sky/my-token-date.md)
+* [Calendar File](/help/sky/my-token-calendar-file.md)
+* [Image](/help/sky/my-token-image.md)
+* [Link](/help/sky/my-token-link.md)
+* [Number](/help/sky/my-token-number.md)
+* [Rich Text](/help/sky/my-token-rich-text.md)
+* [Score](/help/sky/my-token-score.md)
+* [Email Script](/help/sky/my-token-email-script.md)
+* [Text](/help/sky/my-token-text.md)
