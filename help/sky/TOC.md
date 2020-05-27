@@ -4,6 +4,7 @@ product: adobe experience cloud
 sub-product: sky
 archetype: end-user
 user-guide-title: Sky Product Documentation
+index: n
 ---
 
 # Marketo Sky Docs {#using}
