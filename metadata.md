@@ -1,12 +1,12 @@
 ---
 cloud: experience-cloud
-solution-title: Label 1
-solution-hub-url: 
+solution-title: Legacy Docs
+solution-hub-url: https://docs.marketo.com/
 solution-image: help/assets/experience-cloud-logo-24.png
-getting-started-title: Label 2
-getting-started-url: 
-tutorials-title: Label 3
-tutorials-url: 
+getting-started-title: Community
+getting-started-url: https://nation.marketo.com/
+tutorials-title: Marketo U
+tutorials-url: https://www.marketo.com/education/
 git-repo: https://git.corp.adobe.com/AdobeDocs/marketo.en
 ---
 
