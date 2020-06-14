@@ -1,0 +1,24 @@
+---
+unique-page-id: 37357050
+description: Upgrading Your MSI Package - Marketo Docs - Product Documentation
+title: Upgrading Your MSI Package
+---
+
+# Upgrading Your MSI Package {#upgrading-your-msi-package}
+
+Upgrading Your MSI Package - Marketo Docs - Product Documentation
+
+##### 1. Navigate to [this page in the appexchange](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO). {#upgradingyourmsipackage-navigatetothispageintheappexchange.}
+
+##### 2. Log-in to your Salesforce instance (the one connected to your Marketo instance, can be sandbox or production) from the top-right corner in the page from Step One. You must have Admin privileges to install/upgrade a managed package in Salesforce. {#upgradingyourmsipackage-log-intoyoursalesforceinstance(theoneconnectedtoyourmarketoinstance-canbesandboxorproduction)fromthetop-rightcornerinthepagefromstepone.youmusthaveadminprivilegestoinstall/upgradeamanagedpackageinsalesforce.}
+
+##### 3. Click the Get It Now button. You'll be asked to choose where you’d like to install. You'll be given the option to upgrade since you already have a previous version of MSI. Choose an option based on the account you logged into during Step One. {#upgradingyourmsipackage-clickthegetitnowbutton.you'llbeaskedtochoosewhereyou’dliketoinstall.you'llbegiventheoptiontoupgradesinceyoualreadyhaveapreviousversionofmsi.chooseanoptionbasedontheaccountyouloggedintoduringstepone.}
+
+>[!TIP]
+>
+>We recommend you test this on your sandbox instance before upgrading your production instance.
+
+##### 4. You can upgrade the package by choosing “Install for Admins Only” (and provide MSI access to specific profiles later), “Install for All Users,” or, “Install for Specific Profiles.” In this example we're choosing Admins Only. When you've made your selection, click Upgrade. {#upgradingyourmsipackage-youcanupgradethepackagebychoosing“installforadminsonly”(andprovidemsiaccesstospecificprofileslater)-“installforallusers-”or-“installforspecificprofiles.”inthisexamplewe'rechoosingadminsonly.whenyou'vemadeyourselection-clickupgrade.}
+
+![](assets/four.png)
+
