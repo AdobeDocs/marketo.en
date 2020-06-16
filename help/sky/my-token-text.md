@@ -1,6 +1,6 @@
 ---
-Title: my-token-text
-Description: My Token Text
+title: my-token-text
+description: My Token Text
 ---
 
 # My Token: Text

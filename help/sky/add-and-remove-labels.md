@@ -1,6 +1,6 @@
 ---
-Title: add-and-remove-labels
-Description: Add and Remove Labels
+title: add-and-remove-labels
+description: Add and Remove Labels
 ---
 
 # Add and Remove Labels

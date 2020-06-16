@@ -1,6 +1,6 @@
 ---
-Title: run-a-batch-smart-campaign-now
-Description: Run a Batch Smart Campaign Now
+title: run-a-batch-smart-campaign-now
+description: Run a Batch Smart Campaign Now
 ---
 
 # Run a Batch Smart Campaign Now

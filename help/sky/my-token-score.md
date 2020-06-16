@@ -1,6 +1,6 @@
 ---
-Title: my-token-score
-Description: My Token Score
+title: my-token-score
+description: My Token Score
 ---
 
 # My Token: Score

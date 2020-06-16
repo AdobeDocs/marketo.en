@@ -1,6 +1,6 @@
 ---
-Title: design-studio
-Description: Design Studio home
+title: design-studio
+description: Design Studio home
 ---
 
 # Design Studio

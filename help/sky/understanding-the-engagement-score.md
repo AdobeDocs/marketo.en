@@ -1,6 +1,6 @@
 ---
-Title: understanding-the-engagement-score
-Description: Understanding the Engagement Score
+title: understanding-the-engagement-score
+description: Understanding the Engagement Score
 ---
 
 # Understanding the Engagement Score

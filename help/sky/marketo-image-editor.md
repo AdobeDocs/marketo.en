@@ -1,6 +1,6 @@
 ---
-Title: marketo-image-editor
-Description: Marketo Image Editor
+title: marketo-image-editor
+description: Marketo Image Editor
 ---
 
 # Marketo Image Editor

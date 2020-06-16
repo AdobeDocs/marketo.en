@@ -1,6 +1,6 @@
 ---
-Title: campaign-folder-overview-tab
-Description: Campaign Folder Overview Tab
+title: campaign-folder-overview-tab
+description: Campaign Folder Overview Tab
 ---
 
 # Campaign Folder: Overview Tab

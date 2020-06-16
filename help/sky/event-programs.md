@@ -1,6 +1,6 @@
 ---
-Title: event-programs
-Description: Event Programs home
+title: event-programs
+description: Event Programs home
 ---
 
 # Event Programs

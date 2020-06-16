@@ -1,6 +1,6 @@
 ---
-Title: override-person-restrictions-in-a-smart-campaign
-Description: Override Person Restrictions in a Smart Campaign
+title: override-person-restrictions-in-a-smart-campaign
+description: Override Person Restrictions in a Smart Campaign
 ---
 
 # Override Person Restrictions in a Smart Campaign

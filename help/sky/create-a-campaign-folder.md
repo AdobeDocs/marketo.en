@@ -1,6 +1,6 @@
 ---
-Title: create-a-campaign-folder
-Description: Create a Campaign Folder
+title: create-a-campaign-folder
+description: Create a Campaign Folder
 ---
 
 # Create a Campaign Folder

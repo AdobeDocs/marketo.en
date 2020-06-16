@@ -1,6 +1,6 @@
 ---
-Title: rename-a-smart-campaign
-Description: Rename a Smart Campaign
+title: rename-a-smart-campaign
+description: Rename a Smart Campaign
 ---
 
 # Rename a Smart Campaign

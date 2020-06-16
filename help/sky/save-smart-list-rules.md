@@ -1,6 +1,6 @@
 ---
-Title: save-smart-list-rules
-Description: Save Smart List Rules
+title: save-smart-list-rules
+description: Save Smart List Rules
 ---
 
 # Save Smart List Rules

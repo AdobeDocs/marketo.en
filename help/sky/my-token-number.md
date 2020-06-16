@@ -1,6 +1,6 @@
 ---
-Title: my-token-number
-Description: My Token Number
+title: my-token-number
+description: My Token Number
 ---
 
 # My Token: Number

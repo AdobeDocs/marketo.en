@@ -1,6 +1,6 @@
 ---
-Title: add-content-to-an-engagement-stream
-Description: Add Content to an Engagement Stream
+title: add-content-to-an-engagement-stream
+description: Add Content to an Engagement Stream
 ---
 
 # Add Content to an Engagement Stream

@@ -1,6 +1,6 @@
 ---
-Title: my-token-date
-Description: My Token Date
+title: my-token-date
+description: My Token Date
 ---
 
 # My Token: Date

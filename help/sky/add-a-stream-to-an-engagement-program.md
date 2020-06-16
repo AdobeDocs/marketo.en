@@ -1,6 +1,6 @@
 ---
-Title: add-a-stream-to-an-engagement-program
-Description: Add a Stream to an Engagement Program
+title: add-a-stream-to-an-engagement-program
+description: Add a Stream to an Engagement Program
 ---
 
 # Add a Stream to an Engagement Program

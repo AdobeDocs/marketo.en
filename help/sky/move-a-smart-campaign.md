@@ -1,6 +1,6 @@
 ---
-Title: move-a-smart-campaign
-Description: Move a Smart Campaign
+title: move-a-smart-campaign
+description: Move a Smart Campaign
 ---
 
 # Move a Smart Campaign

@@ -1,6 +1,6 @@
 ---
-Title: delete-a-stream
-Description: Delete a Stream
+title: delete-a-stream
+description: Delete a Stream
 ---
 
 # Delete a Stream

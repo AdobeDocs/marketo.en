@@ -1,6 +1,6 @@
 ---
-Title: setting-event-goals
-Description: How to Set up Event Goals
+title: setting-event-goals
+description: How to Set up Event Goals
 ---
 
 # Setting Event Goals

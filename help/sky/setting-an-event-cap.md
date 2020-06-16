@@ -1,6 +1,6 @@
 ---
-Title: setting-an-event-cap
-Description: How to set up an event cap
+title: setting-an-event-cap
+description: How to set up an event cap
 ---
 
 # Setting an Event Cap

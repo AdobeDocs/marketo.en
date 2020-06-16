@@ -1,6 +1,6 @@
 ---
-Title: archive-a-program
-Description: Archive a Program
+title: archive-a-program
+description: Archive a Program
 ---
 
 # Archive a Program

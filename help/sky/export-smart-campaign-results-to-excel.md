@@ -1,6 +1,6 @@
 ---
-Title: export-smart-campaign-results-to-excel
-Description: Export Smart Campaign Results to Excel
+title: export-smart-campaign-results-to-excel
+description: Export Smart Campaign Results to Excel
 ---
 
 # Export Smart Campaign Results to Excel

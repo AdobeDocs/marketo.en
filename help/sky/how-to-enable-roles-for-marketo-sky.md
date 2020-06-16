@@ -1,6 +1,6 @@
 ---
-Title: how-to-enable-roles-for-marketo-sky.md
-Description: How to Enable Roles for Marketo Sky 
+title: how-to-enable-roles-for-marketo-sky.md
+description: How to Enable Roles for Marketo Sky 
 ---
 
 # How to Enable Roles for Marketo Sky

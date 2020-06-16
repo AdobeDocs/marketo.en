@@ -1,6 +1,6 @@
 ---
-Title: delete-a-program
-Description: Delete a Program
+title: delete-a-program
+description: Delete a Program
 ---
 
 # Delete a Program

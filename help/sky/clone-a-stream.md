@@ -1,6 +1,6 @@
 ---
-Title: clone-a-stream
-Description: Clone a Stream
+title: clone-a-stream
+description: Clone a Stream
 ---
 
 # Clone a Stream

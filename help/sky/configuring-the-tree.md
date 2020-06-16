@@ -1,6 +1,6 @@
 ---
-Title: configuring-the-tree
-Description: Configuring the Tree
+title: configuring-the-tree
+description: Configuring the Tree
 ---
 
 # Configuring the Tree

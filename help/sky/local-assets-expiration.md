@@ -1,6 +1,6 @@
 ---
-Title: local-assets-expiration
-Description: Local Assets Expiration
+title: local-assets-expiration
+description: Local Assets Expiration
 ---
 
 # Local Assets: Expiration

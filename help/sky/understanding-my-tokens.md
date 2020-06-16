@@ -1,6 +1,6 @@
 ---
-Title: understanding-my-tokens
-Description: Understanding My Tokens
+title: understanding-my-tokens
+description: Understanding My Tokens
 ---
 
 # Understanding My Tokens

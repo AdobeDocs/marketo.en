@@ -1,6 +1,6 @@
 ---
-Title: prioritize-stream-content
-Description: Prioritize Stream Content
+title: prioritize-stream-content
+description: Prioritize Stream Content
 ---
 
 # Prioritize Stream Content
