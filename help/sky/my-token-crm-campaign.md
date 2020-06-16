@@ -1,6 +1,6 @@
 ---
-Title: my-token-crm-campaign
-Description: My Token CRM Campaign
+title: my-token-crm-campaign
+description: My Token CRM Campaign
 ---
 
 # My Token: CRM Campaign

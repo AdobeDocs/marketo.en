@@ -1,6 +1,6 @@
 ---
-Title: add-a-flow-step-to-a-smart-campaign
-Description: Add a Flow Step to a Smart Campaign
+title: add-a-flow-step-to-a-smart-campaign
+description: Add a Flow Step to a Smart Campaign
 ---
 
 # Add a Flow Step to a Smart Campaign

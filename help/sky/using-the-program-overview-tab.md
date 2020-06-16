@@ -1,6 +1,6 @@
 ---
-Title: using-the-program-overview-tab
-Description: Using the Program Overview Tab
+title: using-the-program-overview-tab
+description: Using the Program Overview Tab
 ---
 
 # Using the Program Overview Tab

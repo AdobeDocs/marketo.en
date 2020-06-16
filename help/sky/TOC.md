@@ -10,6 +10,9 @@ index: n
 # Marketo Sky Docs {#using}
 
 + [Overview](home.md)
++ Getting Started {#getting-started}
+  + [Marketo Sky Features](how-to-enable-roles-for-marketo-sky.md)
+  + [How to Get Started](how-to-enable-roles-for-marketo-sky.md)
 + Event Programs {#event-programs}
   + [Setting an Event Cap](setting-an-event-cap.md)
   + [Setting Event Goals](setting-event-goals.md)

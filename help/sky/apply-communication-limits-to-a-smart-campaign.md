@@ -1,6 +1,6 @@
 ---
-Title: apply-communication-limits-to-a-smart-campaign
-Description: Apply Communication Limits to a Smart Campaign
+title: apply-communication-limits-to-a-smart-campaign
+description: Apply Communication Limits to a Smart Campaign
 ---
 
 # Apply Communication Limits to a Smart Campaign

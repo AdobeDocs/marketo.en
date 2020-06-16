@@ -1,6 +1,6 @@
 ---
-Title: schedule-a-recurring-batch-campaign
-Description: Schedule a Recurring Batch Campaign
+title: schedule-a-recurring-batch-campaign
+description: Schedule a Recurring Batch Campaign
 ---
 
 # Schedule a Recurring Batch Campaign

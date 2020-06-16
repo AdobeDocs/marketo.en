@@ -1,6 +1,6 @@
 ---
-Title: priority-override-for-trigger-campaigns
-Description: Priority Override for Trigger Campaigns
+title: priority-override-for-trigger-campaigns
+description: Priority Override for Trigger Campaigns
 ---
 
 # Priority Override for Trigger Campaigns

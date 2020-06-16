@@ -1,6 +1,6 @@
 ---
-Title: my-token-link
-Description: My Token Link
+title: my-token-link
+description: My Token Link
 ---
 
 # My Token: Link

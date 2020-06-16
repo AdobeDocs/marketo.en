@@ -1,6 +1,6 @@
 ---
-Title: importing-assets-with-adobe-experience-manager
-Description: Importing Assets with Adobe Experience Manager
+title: importing-assets-with-adobe-experience-manager
+description: Importing Assets with Adobe Experience Manager
 ---
 
 # Importing Assets with Adobe Experience Manager

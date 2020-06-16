@@ -1,6 +1,6 @@
 ---
-Title: create-a-new-program
-Description: Create a New Program
+title: create-a-new-program
+description: Create a New Program
 ---
 
 # Create a New Program

@@ -1,6 +1,6 @@
 ---
-Title: edit-availability-of-stream-content
-Description: Edit Availability of Stream Content
+title: edit-availability-of-stream-content
+description: Edit Availability of Stream Content
 ---
 
 # Edit Availability of Stream Content

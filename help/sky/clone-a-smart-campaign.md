@@ -1,6 +1,6 @@
 ---
-Title: clone-a-smart-campaign
-Description: Clone a Smart Campaign
+title: clone-a-smart-campaign
+description: Clone a Smart Campaign
 ---
 
 # Clone a Smart Campaign

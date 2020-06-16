@@ -1,6 +1,6 @@
 ---
-Title: campaign-folder-my-tokens-tab
-Description: Campaign Folder My Tokens Tab
+title: campaign-folder-my-tokens-tab
+description: Campaign Folder My Tokens Tab
 ---
 
 # Campaign Folder: My Tokens Tab

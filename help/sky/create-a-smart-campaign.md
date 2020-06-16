@@ -1,6 +1,6 @@
 ---
-Title: create-a-smart-campaign
-Description: Create a Smart Campaign
+title: create-a-smart-campaign
+description: Create a Smart Campaign
 ---
 
 # Create a Smart Campaign

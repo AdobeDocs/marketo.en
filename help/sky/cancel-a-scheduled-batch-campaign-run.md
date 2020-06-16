@@ -1,6 +1,6 @@
 ---
-Title: cancel-a-scheduled-batch-campaign-run
-Description: Cancel a Scheduled Batch Campaign Run
+title: cancel-a-scheduled-batch-campaign-run
+description: Cancel a Scheduled Batch Campaign Run
 ---
 
 # Cancel a Scheduled Batch Campaign Run

@@ -1,6 +1,6 @@
 ---
-Title: override-an-inherited-my-token
-Description: Override an Inherited My Token
+title: override-an-inherited-my-token
+description: Override an Inherited My Token
 ---
 
 # Override an Inherited My Token

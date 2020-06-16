@@ -1,6 +1,6 @@
 ---
-Title: local-assets-in-a-program
-Description: Local Assets in a Program
+title: local-assets-in-a-program
+description: Local Assets in a Program
 ---
 
 # Local Assets in a Program

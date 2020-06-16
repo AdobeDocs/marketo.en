@@ -1,6 +1,6 @@
 ---
-Title: set-stream-cadence
-Description: Set Stream Cadence
+title: set-stream-cadence
+description: Set Stream Cadence
 ---
 
 # Set Stream Cadence

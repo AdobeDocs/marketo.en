@@ -1,6 +1,6 @@
 ---
-Title: my-token-image
-Description: My Token Image
+title: my-token-image
+description: My Token Image
 ---
 
 # My Token: Image

@@ -1,6 +1,6 @@
 ---
-Title: my-token-email-script
-Description: My Token Email Script
+title: my-token-email-script
+description: My Token Email Script
 ---
 
 # My Token: Email Script

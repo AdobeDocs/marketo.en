@@ -1,6 +1,6 @@
 ---
-Title: remove-stream-content
-Description: Remove Stream Content
+title: remove-stream-content
+description: Remove Stream Content
 ---
 
 # Remove Stream Content

@@ -1,6 +1,6 @@
 ---
-Title: create-an-email-program-in-program-schedule-view
-Description: Create an Email Program in Program Schedule View
+title: create-an-email-program-in-program-schedule-view
+description: Create an Email Program in Program Schedule View
 ---
 
 # Create an Email Program in Program Schedule View

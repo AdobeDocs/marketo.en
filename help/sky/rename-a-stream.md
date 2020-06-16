@@ -1,6 +1,6 @@
 ---
-Title: rename-a-stream
-Description: Rename a Stream
+title: rename-a-stream
+description: Rename a Stream
 ---
 
 # Rename a Stream
