@@ -15,10 +15,7 @@ Admins can override Marketo's determined priority for trigger campaigns to set p
 
 >[!CAUTION]
 >
->It is strongly advised that you use this feature on a limited
->set of business critical campaigns (25 is the recommended
->maximum). Using the feature loosely on a large set can
->adversely affect overall campaign execution.
+>It is strongly advised that you use this feature on a limited set of business critical campaigns (25 is the recommended maximum). Using the feature loosely on a large set can adversely affect overall campaign execution.
 
 ## Override Priority
 
@@ -35,13 +32,9 @@ Admins can override Marketo's determined priority for trigger campaigns to set p
 >[!NOTE]
 >
 >* You can view your campaign's default priority in the
->Campaign Queue under Marketing Activities. To boost execution
->rate, we recommend setting your campaign priority to one
->level higher than its default.
+Campaign Queue under Marketing Activities. To boost execution rate, we recommend setting your campaign priority to one level higher than its default.
 
->* User set priority applies only to new people who qualify for
->the campaign; people who are already in-queue will not be
->affected.
+>* User set priority applies only to new people who qualify for the campaign; people who are already in-queue will not be affected.
 
 ## Reset Priority
 

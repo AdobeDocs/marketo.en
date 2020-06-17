@@ -26,7 +26,7 @@ If you're adding a label that's already been created elsewhere, type to search f
 >[!NOTE]
 >
 >Learn how to copy labels from a parent to a child asset, or
->copy labels from an original to a cloned asset.
+copy labels from an original to a cloned asset.
 
 ## Remove Labels
 
