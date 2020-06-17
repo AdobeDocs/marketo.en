@@ -17,13 +17,8 @@ Here's how to delete a program.
 
 >[!NOTE]
 >
->You may not be able to delete a program if it contains assets
->that are being used elsewhere in the system. To fix this, you
->may need to drill down and unapprove/delete these assets; then
->try deleting your program again.
+>You may not be able to delete a program if it contains assets that are being used elsewhere in the system. To fix this, you may need to drill down and unapprove/delete these assets; then try deleting your program again.
 
 >[!CAUTION]
 >
->Deleting a program will get rid of all of its associated data.
->To preserve any data, you may want to [place the program in an
->archive folder](/help/sky/archive-a-program.md) instead.
+>Deleting a program will get rid of all of its associated data. To preserve any data, you may want to [place the program in an archive folder](/help/sky/archive-a-program.md) instead.

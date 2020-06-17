@@ -28,10 +28,11 @@ Be sure to [enable person restrictions for smart campaigns](https://docs.marketo
    ![Image Three](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-3.png)
 
 >[!NOTE]
+>
 >The smart campaign will not run if the number of people who
->qualify exceed the set limit.
+qualify exceed the set limit.
 
 >[!CAUTION]
 >
 >Be careful with this feature so that you don't accidentally
->include too many people.
+include too many people.

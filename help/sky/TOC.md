@@ -11,7 +11,7 @@ index: n
 
 + [Overview](home.md)
 + Getting Started {#getting-started}
-  + [Marketo Sky Features](how-to-enable-roles-for-marketo-sky.md)
+  + [Marketo Sky Features](marketo-sky-features.md)
   + [How to Get Started](how-to-enable-roles-for-marketo-sky.md)
 + Event Programs {#event-programs}
   + [Setting an Event Cap](setting-an-event-cap.md)
