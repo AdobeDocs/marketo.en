@@ -1,0 +1,43 @@
+---
+unique-page-id: 7512434
+description: Configure Mobile App iOS Push Access - Marketo Docs - Product Documentation
+title: Configure Mobile App iOS Push Access
+---
+
+# Configure Mobile App iOS Push Access {#configure-mobile-app-ios-push-access}
+
+Configure Mobile App iOS Push Access - Marketo Docs - Product Documentation
+
+##### 1. Click Admin. {#configuremobileappiospushaccess-clickadmin}
+
+![](assets/image2015-4-22-16-3a12-3a32.png)  
+
+##### 2. Select Mobile Apps. {#configuremobileappiospushaccess-selectmobileapps}
+
+![](assets/image2015-4-22-16-3a14-3a29.png) 
+
+##### 3. Select the desired mobile app. {#configuremobileappiospushaccess-selectthedesiredmobileapp}
+
+![](assets/image2015-4-22-16-3a33-3a19.png) 
+
+##### 4. Under Push Access Type, select iOS and click Configure. {#configuremobileappiospushaccess-underpushaccesstype-selectiosandclickconfigure}
+
+![](assets/image2016-6-10-11-3a37-3a9.png)
+
+>[!NOTE]
+>
+>You will need a **Certificate** and **Password** from your mobile apps developer. The developer receives these by logging into the Apple Developer Member Center, setting up and downloading a push notification certificate for your app, and exporting the content. The developer sets the password when making the export. **IMPORTANT**: The certificate should be appropriate for the kind of environment you're using — Sandbox or Production. Verify this with your Marketo Admin or mobile apps developer.
+
+##### 5. Select your Certificate, enter your Password, and click Save. {#configuremobileappiospushaccess-selectyourcertificate-enteryourpassword-andclicksave}
+
+![](assets/image2015-4-22-17-3a19-3a18.png)
+
+Great Job! Make sure you also configure the app with Android. 
+
+>[!NOTE]
+>
+>**Related Articles**
+>
+>* [Configure Mobile App Android Push Access](welcome-to-marketo-docs/product-docs/mobile-marketing/admin-(mobile-marketing)/configure-mobile-app-android-push-access.md)
+>
+
