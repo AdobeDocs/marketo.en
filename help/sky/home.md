@@ -9,8 +9,20 @@ description: Overview
 
 The Marketo Sky interface utilizes new designs, workflows, and features to help you get more out of Marketo.
 
-## Things to Know
+## Getting Started
 
 * [What's available in Marketo Sky](/help/sky/marketo-sky-features.md)
 
 * [How to get started](/help/sky/how-to-enable-roles-for-marketo-sky.md)
+
+## Popular Articles
+
+* [Marketo Image Editor](/help/sky/marketo-image-editor.md)
+
+* [Save Flow Actions](/help/sky/save-flow-actions.md)
+
+* [Save Smart List Rules](/help/sky/save-smart-list-rules.md)
+
+* [Setting an Event Cap](/help/sky/setting-an-event-cap.md)
+
+* [Setting Event Goals](/help/sky/setting-event-goals.md)
