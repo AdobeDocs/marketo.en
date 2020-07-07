@@ -8,5 +8,5 @@ title: Bizible
 
 Bizible - Bizible - Product Documentation
 
-# Welcome to Bizible Help {#bizible-welcometobiziblehelp}
+# Welcome to Bizible Help {#welcome-to-bizible-help}
 
