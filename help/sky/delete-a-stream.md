@@ -5,6 +5,8 @@ description: Delete a Stream
 
 # Delete a Stream
 
+<br>&nbsp;
+
 If you ever need to delete a stream from your engagement program, follow these quick and easy steps.
 
 1. Select your engagement program.

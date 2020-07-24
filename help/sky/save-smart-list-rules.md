@@ -5,6 +5,8 @@ description: Save Smart List Rules
 
 # Save Smart List Rules
 
+<br>&nbsp;
+
 Saving smart list rules is a great way to save yourself valuable time.
 
 ## Saving Smart List Rules
@@ -15,21 +17,21 @@ Saving smart list rules is a great way to save yourself valuable time.
 
 1. Click **Smart List**.
 
-   ![Image One](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
+   ![Image Two](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
 1. Add your desired filters/triggers.
 
-   ![Image One](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
+   ![Image Three](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-3.png)
 
-   ![Image One](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
+   ![Image Four](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-4.png)
 
 1. When you're done adding filters/triggers, click the **Smart Campaign Actions** drop-down and select **Save Smart List Rule**.
 
-   ![Image One](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
+   ![Image Five](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-5.png)
 
 1. Name your rule set and click **Save**.
 
-   ![Image One](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
+   ![Image Six](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-6.png)
 
 And that's it! Next time you create a smart campaign, you'll have access to the same exact set of rules. In fact, let's do that now...
 
@@ -37,25 +39,24 @@ And that's it! Next time you create a smart campaign, you'll have access to the 
 
 1. In Marketing Activities, select your smart campaign (or create a new one).
 
-   ![Image One](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
+   ![Image Seven](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 
 1. Click **Smart List**.
 
-   ![Image One](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
+   ![Image Eight](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-8.png)
 
 1. Click the **Saved Rule** drop-down.
 
-   ![Image One](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
+   ![Image Nine](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-9.png)
 
 1. Select and drag over the desired rule.
 
-   ![Image One](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
+   ![Image Ten](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-10.png)
 
 1. Your smart list auto-populates with the same set of rules. Simply follow the rest of the regular smart campaign steps after that.
 
-   ![Image One](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
+   ![Image Eleven](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-11.png)
 
 >[!CAUTION]
 >
->Bringing over a rule will not replace any existing triggers/
->filters, but add to them.
+>Bringing over a rule will not replace any existing triggers/filters, but add to them.

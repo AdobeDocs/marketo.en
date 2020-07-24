@@ -5,6 +5,8 @@ description: My Token Image
 
 # My Token: Image
 
+<br>&nbsp;
+
 Here's how to set up an Image token for use in your programs and campaign folders.
 
 1. In the My Tokens tab of your program or folder, drag an **Image** token to the Local Tokens canvas.

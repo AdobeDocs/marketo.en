@@ -5,6 +5,8 @@ description: Run a Batch Smart Campaign Now
 
 # Run a Batch Smart Campaign Now
 
+<br>&nbsp;
+
 Once you're done building your batch campaign, you can choose to run it now or later. Here's how to run it immediately.
 
 1. Select the batch smart campaign you want to run.

@@ -55,5 +55,4 @@ Once you've created your engagement program, you need to add content to the stre
 
    ![Image Ten](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-10.png)
 
-Reminder:
-The smart campaign must have the Member of Engagement Program filter in it for this to work properly.
+**Reminder**: The smart campaign must have the Member of Engagement Program filter in it for this to work properly.

@@ -5,6 +5,8 @@ description: Create a Campaign Folder
 
 # Create a Campaign Folder
 
+<br>&nbsp;
+
 Campaign folders help you keep a tidy workspace. Follow these simple steps and you're on your way to automation magic.
 
 1. Right-click the workspace globe or an existing folder and select **New Campaign Folder**.

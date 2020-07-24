@@ -5,6 +5,8 @@ description: Create My Token Folders
 
 # Create My Token Folders
 
+<br>&nbsp;
+
 Here's how to sort your My Tokens into folders.
 
 1. In the My Tokens tab of your campaign folder or program, click the Create Folder icon in the top right.

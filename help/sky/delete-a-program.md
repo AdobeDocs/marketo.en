@@ -5,6 +5,8 @@ description: Delete a Program
 
 # Delete a Program
 
+<br>&nbsp;
+
 Here's how to delete a program.
 
 1. Find the program you want to delete, then select **Delete** from the Program Actions drop-down.

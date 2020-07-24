@@ -5,6 +5,8 @@ description: Copy Labels from Original to Clone
 
 # Copy Labels from Original to Clone
 
+<br>&nbsp;
+
 When you clone an asset, you can copy all the labels from the original asset. Here's how.
 
 1. Right-click the asset you want to clone in the tree, then click **Clone** in the drop-down.
@@ -21,6 +23,4 @@ When you clone an asset, you can copy all the labels from the original asset. He
 
 >[!NOTE]
 >
->This is the only place you can copy original labels to a clone
->asset. Once the clone asset has been created, you will only be
->able to [copy labels from the parent asset](/help/sky/copy-labels-from-parent-to-child.md).
+>This is the only place you can copy original labels to a clone asset. Once the clone asset has been created, you will only be able to [copy labels from the parent asset](/help/sky/copy-labels-from-parent-to-child.md).

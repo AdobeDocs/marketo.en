@@ -5,6 +5,8 @@ description: Delete an Entry in Program Schedule View
 
 # Delete an Entry in Program Schedule View
 
+<br>&nbsp;
+
 You can delete any entry on your calendar in just a few easy steps.
 
 1. Find and click the entry you want to delete. You can do this from any calendar view.

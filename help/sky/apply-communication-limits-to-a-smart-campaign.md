@@ -7,9 +7,9 @@ description: Apply Communication Limits to a Smart Campaign
 
 It's not a good idea to email someone multiple times a day, or too many times in a week. Luckily, Marketo has communication limits to help.
 
-**Prerequisites**
-
-[Enable Communication Limits](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits)
+>[!IMPORTANT]
+>
+>Remember to [enable communication limits](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits)
 
 >[!NOTE]
 >

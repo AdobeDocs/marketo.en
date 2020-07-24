@@ -5,12 +5,13 @@ description: Understanding Engagement Programs
 
 # Understanding Engagement Programs
 
+<br>&nbsp;
+
 Engagement programs are designed to market to new people by presenting content to them in a systematic way.
 
 >[!NOTE]
 >
->There is a limit of 100 _active_ engagement programs per
->subscription.
+>There is a limit of 100 _active_ engagement programs per subscription.
 
 ## Engagement Program
 
@@ -18,8 +19,9 @@ An engagement program is a type of program that can accomplish complex nurturing
 
    ![Image One](/help/sky/assets/engagement-programs/understanding-engagement-programs/understanding-engagement-programs-1.png)
 
-Related Article
-[Create an Engagement Program](/help/sky/create-an-engagement-program.md)
+**Related Article**
+
+* [Create an Engagement Program](/help/sky/create-an-engagement-program.md)
 
 ## Stream
 
@@ -27,7 +29,7 @@ A stream is a pool of prioritized content that the engagement program will use t
 
    ![Image Two](/help/sky/assets/engagement-programs/understanding-engagement-programs/understanding-engagement-programs-2.png)
 
-Related Articles
+**Related Articles**
 
 * [Add a Stream](/help/sky/add-a-stream-to-an-engagement-program.md)
 * [Clone a Stream](/help/sky/clone-a-stream.md)
@@ -38,7 +40,7 @@ There are two types of content you can add to engagement program streams—email
 
    ![Image Three](/help/sky/assets/engagement-programs/understanding-engagement-programs/understanding-engagement-programs-3.png)
 
-Related Articles
+**Related Articles**
 
 * [Add Content to a Stream](/help/sky/add-content-to-an-engagement-stream.md)
 * [Prioritize Stream Content](/help/sky/prioritize-stream-content.md)
@@ -52,7 +54,7 @@ A cast is the event of sending emails from an Engagement Program.
 >[!NOTE]
 >
 >Engagement Programs are not designed to be used with
->operational emails.
+operational emails.
 
 ## Stream Cadence
 
@@ -60,8 +62,9 @@ You decide when a cast happens by setting up stream cadence. This is how you sch
 
    ![Image Four](/help/sky/assets/engagement-programs/understanding-engagement-programs/understanding-engagement-programs-4.png)
 
-Related Article
-[Set Stream Cadence](/help/sky/set-stream-cadence.md)
+**Related Article**
+
+* [Set Stream Cadence](/help/sky/set-stream-cadence.md)
 
 ## Person Cadence
 

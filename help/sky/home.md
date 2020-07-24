@@ -3,7 +3,7 @@ title: Overview
 description: Overview
 ---
 
-# Marketo Sky product documentation
+# Marketo Sky Product Documentation
 
 ![banner](/help/sky/assets/images/alt-sky-banner.png)
 

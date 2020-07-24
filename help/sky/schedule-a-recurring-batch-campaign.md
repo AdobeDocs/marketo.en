@@ -5,6 +5,8 @@ description: Schedule a Recurring Batch Campaign
 
 # Schedule a Recurring Batch Campaign
 
+<br>&nbsp;
+
 Recurrence allows you to run a batch smart campaign on a regular schedule.
 
 In this example we're choosing once a week, Tuesdays at 8:00 a.m.
@@ -36,6 +38,6 @@ In this example we're choosing once a week, Tuesdays at 8:00 a.m.
 >[!NOTE]
 >
 >The Schedule tab will show the next three occurrences for
->reference.
+reference.
 
 And that's it. Your batch campaign will now run every Tuesday at 8 a.m.

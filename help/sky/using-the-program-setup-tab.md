@@ -5,6 +5,8 @@ description: Using the Program Setup Tab
 
 # Using the Program Setup Tab
 
+<br>&nbsp;
+
 From the Setup tab of your program, you can select a channel, add tags and period costs, and change settings.
 
    ![Image One](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-1.png)

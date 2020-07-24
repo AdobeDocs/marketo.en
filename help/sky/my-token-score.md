@@ -5,6 +5,8 @@ description: My Token Score
 
 # My Token: Score
 
+<br>&nbsp;
+
 Here's how to set up a Score token for use in your programs and campaign folders.
 
 1. In the My Tokens tab of your program or folder, drag a **Score** token to the Local Tokens canvas.

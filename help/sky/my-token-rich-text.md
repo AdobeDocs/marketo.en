@@ -5,6 +5,8 @@ description: My Token Rich Text
 
 # My Token: Rich Text
 
+<br>&nbsp;
+
 Here's how to set up a Rich Text token for use in your programs and campaign folders.
 
 1. In the My Tokens tab of your program or folder, drag a **Rich Text** token to the Local Tokens canvas.

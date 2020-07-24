@@ -5,15 +5,18 @@ description: How to set up an event cap
 
 # Setting an Event Cap
 
+<br>&nbsp;
+
 Limit the amount of people who can register for your event with an event cap.
 
 >[!NOTE]
 >
 >Not all customers have purchased this feature. Please contact your Customer Success Manager for details.
 
-**Prerequisites**
+>[!IMPORTANT]
+>You must have at least two approved landing pages (a Registration page and a Registration Full page) in the program before you can set an event cap.
 
-You must have at least two approved landing pages (a Registration page and a Registration Full page) in the program before you can set an event cap.
+<br>&nbsp;
 
 1. Select your event program.
 

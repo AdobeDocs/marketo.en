@@ -5,6 +5,8 @@ description: Create a New Program
 
 # Create a New Program
 
+<br>&nbsp;
+
 Programs are one of the most important elements in Marketo. You'll use them a lot!
 
 1. Right-click the workspace globe at the top of the tree and select **New Program** from the drop-down.

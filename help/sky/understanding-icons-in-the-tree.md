@@ -5,6 +5,8 @@ description: Understanding Icons in the Tree
 
 # Understanding Icons in the Tree
 
+<br>&nbsp;
+
 The icons in the tree can give you a lot of information about your campaigns and assets. Here's a list of the various icons and what they mean.
 
    ![Image One](/help/sky/assets/tree/understanding-icons-in-the-tree/understanding-icons-in-the-tree-1.png)

@@ -5,6 +5,8 @@ description: Edit Availability of Stream Content
 
 # Edit Availability of Stream Content
 
+<br>&nbsp;
+
 You can set a time frame for the content to be active in your stream.
 
 1. Select your engagement program.
@@ -33,8 +35,7 @@ You can set a time frame for the content to be active in your stream.
 
 >[!TIP]
 >
->You can leave Active Through blank to make content available
->forever.
+>You can leave "Active Through" blank to make content available forever.
 
 Perfect! You will see a clock icon next to the scheduled content. It will become active and inactive according to the schedule you set.
 

@@ -5,6 +5,8 @@ description: Copy Labels from Parent to Child
 
 # Copy Labels from Parent to Child
 
+<br>&nbsp;
+
 To copy labels from a parent to a child asset, navigate to the asset's Details page under the Overview tab.
 
 Under the Labels section, click **Copy Labels From Parent**.

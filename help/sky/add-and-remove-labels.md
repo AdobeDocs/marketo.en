@@ -10,6 +10,7 @@ You can assign labels to any asset in Marketing Activities, making organizing an
 ## Add Labels
 
 To add new labels to an asset, navigate to the asset's Details page under the Overview tab.
+<br>&nbsp;
 
 Under the Labels section, click **Add New Labels**.
 

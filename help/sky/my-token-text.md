@@ -5,6 +5,8 @@ description: My Token Text
 
 # My Token: Text
 
+<br>&nbsp;
+
 Here's how to set up a Text token for use in your programs and campaign folders.
 
 1. In the My Tokens tab of your program or folder, drag a **Text** token to the Local Tokens canvas.

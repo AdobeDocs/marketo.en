@@ -5,6 +5,8 @@ description: Clone a Smart Campaign
 
 # Clone a Smart Campaign
 
+<br>&nbsp;
+
 Cloning campaigns saves you time. No need to build everything from scratch, since cloning creates an identical campaign with the exact same smart list filters and flow steps.
 
 1. Select the campaign you want to clone.

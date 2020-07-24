@@ -5,6 +5,8 @@ description: Marketo Image Editor
 
 # Marketo Image Editor
 
+<br>&nbsp;
+
 The image editor allows you to make quick, light edits to your images inside Marketo.
 
 1. In Marketo Sky,  open the Design Studio.

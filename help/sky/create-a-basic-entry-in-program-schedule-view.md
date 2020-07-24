@@ -5,6 +5,8 @@ description: Create a Basic Entry in Program Schedule View
 
 # Create a Basic Entry in Program Schedule View
 
+<br>&nbsp;
+
 You can create new basic entries directly from the program schedule view.  
 
 1. Select your program in the tree, then go to the **Schedule** tab under **Overview**.

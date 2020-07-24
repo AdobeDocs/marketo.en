@@ -5,6 +5,8 @@ description: Prioritize Stream Content
 
 # Prioritize Stream Content
 
+<br>&nbsp;
+
 After you've added content to your stream, you may want to change the priority. The content is always delivered from the top down in each cast, and no content is sent to the same person twice.
 
 1. Select your engagement program.

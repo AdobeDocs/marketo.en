@@ -15,6 +15,6 @@ To find where your My Tokens are being used, select a My Token and click the usa
 
    ![Image Three](/help/sky/assets/campaign-folders/campaign-folder-my-tokens-tab/campaign-folder-my-tokens-tab-3.png)
 
-Deep Dive
+**Deep Dive**
 
-Learn more about using My Tokens.
+Learn more about using [My Tokens](/help/sky/understanding-my-tokens.md).
