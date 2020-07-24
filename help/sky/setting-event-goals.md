@@ -5,11 +5,12 @@ description: How to Set up Event Goals
 
 # Setting Event Goals
 
+<br>&nbsp;
+
 Give your events specific goals and see how they perform.
 
 >[!IMPORTANT]
 >Not all customers have purchased this feature. Please contact your Customer Success Manager for details.
-<br>&nbsp;
 
 1. Create an event program.
 

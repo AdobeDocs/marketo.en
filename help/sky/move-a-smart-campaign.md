@@ -4,6 +4,7 @@ description: Move a Smart Campaign
 ---
 
 # Move a Smart Campaign
+
 <br>&nbsp;
 
 Move a smart campaign to a different program or folder.

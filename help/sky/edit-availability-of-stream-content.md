@@ -4,6 +4,7 @@ description: Edit Availability of Stream Content
 ---
 
 # Edit Availability of Stream Content
+
 <br>&nbsp;
 
 You can set a time frame for the content to be active in your stream.

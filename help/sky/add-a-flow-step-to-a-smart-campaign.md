@@ -5,6 +5,8 @@ description: Add a Flow Step to a Smart Campaign
 
 # Add a Flow Step to a Smart Campaign
 
+<br>&nbsp;
+
 Flow steps tell Marketo what you want to have happen to a group of people that qualify.
 
 ## Add a Flow Step

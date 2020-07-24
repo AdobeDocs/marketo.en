@@ -4,6 +4,7 @@ description: Create an Email Program in Program Schedule View
 ---
 
 # Create an Email Program in Program Schedule View
+
 <br>&nbsp;
 
 You can create new email programs directly in the program schedule view.

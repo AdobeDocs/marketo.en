@@ -4,6 +4,7 @@ description: Create a Batch Smart Campaign in Program Schedule View
 ---
 
 # Create a Batch Smart Campaign in Program Schedule View
+
 <br>&nbsp;
 
 You can create new batch smart campaigns directly in the calendar.

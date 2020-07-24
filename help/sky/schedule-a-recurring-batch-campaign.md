@@ -4,6 +4,7 @@ description: Schedule a Recurring Batch Campaign
 ---
 
 # Schedule a Recurring Batch Campaign
+
 <br>&nbsp;
 
 Recurrence allows you to run a batch smart campaign on a regular schedule.

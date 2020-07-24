@@ -4,6 +4,7 @@ description: Save Smart List Rules
 ---
 
 # Save Smart List Rules
+
 <br>&nbsp;
 
 Saving smart list rules is a great way to save yourself valuable time.

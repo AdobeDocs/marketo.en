@@ -4,6 +4,7 @@ description: Set Stream Cadence
 ---
 
 # Set Stream Cadence
+
 <br>&nbsp;
 
 You can send engagement content at any interval you want. For example: once a week, or every third Tuesday of the month.

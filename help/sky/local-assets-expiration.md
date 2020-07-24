@@ -4,6 +4,7 @@ description: Local Assets Expiration
 ---
 
 # Local Assets: Expiration
+
 <br>&nbsp;
 
 Set an expiration date/time to unpublish landing pages, deactivate trigger campaigns, or stop recurring batch campaigns. You can find this feature in the **Expiration** section under the **Assets** tab.

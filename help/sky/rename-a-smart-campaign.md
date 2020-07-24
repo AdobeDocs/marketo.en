@@ -4,6 +4,7 @@ description: Rename a Smart Campaign
 ---
 
 # Rename a Smart Campaign
+
 <br>&nbsp;
 
 You can change the name of an existing smart campaign.

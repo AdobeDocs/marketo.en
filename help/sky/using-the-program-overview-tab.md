@@ -4,6 +4,7 @@ description: Using the Program Overview Tab
 ---
 
 # Using the Program Overview Tab
+
 <br>&nbsp;
 
 There are three sections under the Program Overview tab: **Details**, **Schedule**, and **Reports**. Here's a quick look at each one.

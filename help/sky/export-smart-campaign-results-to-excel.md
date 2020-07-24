@@ -4,6 +4,7 @@ description: Export Smart Campaign Results to Excel
 ---
 
 # Export Smart Campaign Results to Excel
+
 <br>&nbsp;
 
 Export your smart campaign results to Excel for use outside of Marketo.

@@ -4,6 +4,7 @@ description: Copy Labels from Original to Clone
 ---
 
 # Copy Labels from Original to Clone
+
 <br>&nbsp;
 
 When you clone an asset, you can copy all the labels from the original asset. Here's how.

@@ -4,6 +4,7 @@ description: Cancel a Scheduled Batch Campaign Run
 ---
 
 # Cancel a Scheduled Batch Campaign Run
+
 <br>&nbsp;
 
 If you've scheduled a run for one of your batch campaigns and would like to cancel it, here's how.

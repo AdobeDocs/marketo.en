@@ -4,6 +4,7 @@ description: Local Assets Mass Actions
 ---
 
 # Local Assets: Mass Actions
+
 <br>&nbsp;
 
 You can perform bulk actions on multiple assets straight from the **Actions** section under the **Assets** tab. Here's how to find the assets you need and apply a mass action to them.

@@ -4,6 +4,7 @@ description: Schedule a Batch Smart Campaign to Run Later
 ---
 
 # Schedule a Batch Smart Campaign to Run Later
+
 <br>&nbsp;
 
 Once you are done building your batch campaign, you can choose to run it now or later. Here's how to run it later.

@@ -4,6 +4,7 @@ description: Cancel a Scheduled Recurring Batch Campaign Run
 ---
 
 # Cancel a Scheduled Recurring Batch Campaign Run
+
 <br>&nbsp;
 
 If you have a recurring batch campaign that you don't want any more, you can cancel the future runs.

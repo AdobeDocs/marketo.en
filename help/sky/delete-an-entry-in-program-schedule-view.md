@@ -4,6 +4,7 @@ description: Delete an Entry in Program Schedule View
 ---
 
 # Delete an Entry in Program Schedule View
+
 <br>&nbsp;
 
 You can delete any entry on your calendar in just a few easy steps.

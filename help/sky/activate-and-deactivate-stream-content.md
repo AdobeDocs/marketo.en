@@ -4,6 +4,7 @@ description: Activate and Deactivate Stream Content
 ---
 
 # Activate and Deactivate Stream Content
+
 <br>&nbsp;
 
 Stream content is off by default. Activate content to send it out during engagement casts.

@@ -6,7 +6,6 @@ description: Archive/Unarchive a Campaign Folder
 # Archive/Unarchive a Campaign Folder
 
 ## Convert to Archive Folder
-<br>&nbsp;
 
 Right-click any folder and select **Convert To Archive Folder**.
 

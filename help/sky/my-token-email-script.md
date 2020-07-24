@@ -4,6 +4,7 @@ description: My Token Email Script
 ---
 
 # My Token: Email Script
+
 <br>&nbsp;
 
 For advanced developers, you can use [Velocity scripts](http://velocity.apache.org/engine/1.7/user-guide.html) in your emails by setting up an Email Script token. Here's how to do it.

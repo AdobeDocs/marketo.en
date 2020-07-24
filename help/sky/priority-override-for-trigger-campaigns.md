@@ -4,6 +4,7 @@ description: Priority Override for Trigger Campaigns
 ---
 
 # Priority Override for Trigger Campaigns
+
 <br>&nbsp;
 
 Admins can override Marketo's determined priority for trigger campaigns to set priorities that better align with business objectives.

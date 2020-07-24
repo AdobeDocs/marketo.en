@@ -4,6 +4,7 @@ description: Understanding Batch and Trigger Smart Campaigns
 ---
 
 # Understanding Batch and Trigger Smart Campaigns
+
 <br>&nbsp;
 
 There are two types of smart campaigns: Batch and Trigger.

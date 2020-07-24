@@ -4,6 +4,7 @@ description: My Token Number
 ---
 
 # My Token: Number
+
 <br>&nbsp;
 
 Here's how to set up a Number token for use in your programs and campaign folders.

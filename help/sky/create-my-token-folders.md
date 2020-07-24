@@ -4,6 +4,7 @@ description: Create My Token Folders
 ---
 
 # Create My Token Folders
+
 <br>&nbsp;
 
 Here's how to sort your My Tokens into folders.

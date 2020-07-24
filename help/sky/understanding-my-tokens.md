@@ -4,6 +4,7 @@ description: Understanding My Tokens
 ---
 
 # Understanding My Tokens
+
 <br>&nbsp;
 
 My Tokens are custom variables that you can create and use in your programs or campaign folders. They look like this: `{{_my.Name of Token_}}`

@@ -4,6 +4,7 @@ description: Override an Inherited My Token
 ---
 
 # Override an Inherited My Token
+
 <br>&nbsp;
 
 Here's how to override an inherited token in a child program or campaign folder.

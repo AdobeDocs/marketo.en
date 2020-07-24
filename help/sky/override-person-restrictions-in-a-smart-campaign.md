@@ -4,6 +4,7 @@ description: Override Person Restrictions in a Smart Campaign
 ---
 
 # Override Person Restrictions in a Smart Campaign
+
 <br>&nbsp;
 
 Marketo allows you to set the maximum number of people that can qualify for a smart campaign; this helps you avoid accidentally emailing your whole database. If you want to override this limit, here's how.

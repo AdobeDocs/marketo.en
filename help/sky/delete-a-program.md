@@ -4,6 +4,7 @@ description: Delete a Program
 ---
 
 # Delete a Program
+
 <br>&nbsp;
 
 Here's how to delete a program.

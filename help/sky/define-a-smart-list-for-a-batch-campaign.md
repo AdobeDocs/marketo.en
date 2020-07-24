@@ -4,6 +4,7 @@ description: Define a Smart List for a Batch Campaign
 ---
 
 # Define a Smart List for a Batch Campaign
+
 <br>&nbsp;
 
 Smart lists are the mechanism throughout Marketo to define "who" (which people) to include, whether it's a report, a list, or a smart campaign. Here's how to define a smart list for a batch campaign.

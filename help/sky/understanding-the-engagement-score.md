@@ -4,6 +4,7 @@ description: Understanding the Engagement Score
 ---
 
 # Understanding the Engagement Score
+
 <br>&nbsp;
 
 The engagement score makes it easy to see how effective the content in your engagement program is. The score ranges from 0 to 100. Check out [the Engagement Dashboard](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard) to see how you can track your content's performance.

@@ -4,6 +4,7 @@ description: Edit an Entry in Program Schedule View
 ---
 
 # Edit an Entry in Program Schedule View
+
 <br>&nbsp;
 
 1. Double-click the entry you'd like to edit. This can be done from any calendar view.

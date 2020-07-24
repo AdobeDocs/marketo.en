@@ -4,6 +4,7 @@ description: Rename a Stream
 ---
 
 # Rename a Stream
+
 <br>&nbsp;
 
 If you like to stay organized, you can rename your streams.

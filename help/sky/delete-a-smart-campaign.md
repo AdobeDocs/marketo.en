@@ -4,6 +4,7 @@ description: Delete a Smart Campaign
 ---
 
 # Delete a Smart Campaign
+
 <br>&nbsp;
 
 If you have an old smart campaign that you don't need anymore, you can delete it.

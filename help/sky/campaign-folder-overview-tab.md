@@ -4,6 +4,7 @@ description: Campaign Folder Overview Tab
 ---
 
 # Campaign Folder: Overview Tab
+
 <br>&nbsp;
 
 There are two sections under the campaign folder Overview tab: **Details** and **Reports**.

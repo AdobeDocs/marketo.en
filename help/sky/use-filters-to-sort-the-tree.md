@@ -4,6 +4,7 @@ description: Use Filters to Sort the Tree
 ---
 
 # Use Filters to Sort the Tree
+
 <br>&nbsp;
 
 Use filters to quickly sort items in the tree and view the most relevant content.

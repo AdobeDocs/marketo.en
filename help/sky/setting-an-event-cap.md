@@ -5,8 +5,9 @@ description: How to set up an event cap
 
 # Setting an Event Cap
 
-Limit the amount of people who can register for your event with an event cap.
 <br>&nbsp;
+
+Limit the amount of people who can register for your event with an event cap.
 
 >[!NOTE]
 >
