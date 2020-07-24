@@ -4,6 +4,7 @@ description: Define a Smart List for a Trigger Campaign
 ---
 
 # Define a Smart List for a Trigger Campaign
+<br>&nbsp;
 
 Make a smart campaign run on one person at a time based on live events by adding triggers.
 

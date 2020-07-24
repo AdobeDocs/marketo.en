@@ -4,6 +4,7 @@ description: Campaign Folder Activities Tab
 ---
 
 # Campaign Folder: Activities Tab
+<br>&nbsp;
 
 Find key information about your campaigns in the **Activities** tab.
 

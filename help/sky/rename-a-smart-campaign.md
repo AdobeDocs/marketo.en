@@ -4,6 +4,7 @@ description: Rename a Smart Campaign
 ---
 
 # Rename a Smart Campaign
+<br>&nbsp;
 
 You can change the name of an existing smart campaign.
 
@@ -13,8 +14,7 @@ You can change the name of an existing smart campaign.
 
    >[!TIP]
    >
-   >Smart campaign names within programs always translate to the
-   >format 'ProgramName.CampaignName'.
+   >Smart campaign names within programs always translate to the format 'ProgramName.CampaignName'.
 
 1. Enter the new smart campaign name.
 

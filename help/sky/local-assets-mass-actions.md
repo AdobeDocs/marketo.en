@@ -4,6 +4,7 @@ description: Local Assets Mass Actions
 ---
 
 # Local Assets: Mass Actions
+<br>&nbsp;
 
 You can perform bulk actions on multiple assets straight from the **Actions** section under the **Assets** tab. Here's how to find the assets you need and apply a mass action to them.
 
@@ -19,8 +20,7 @@ Additionally, you can filter by **asset condition** by choosing one or more cond
 
 >[!NOTE]
 >
->Marketo Sky Beta currently only supports filtering for emails,
->batch campaigns, landing pages, and trigger campaigns.
+>Marketo Sky Beta currently only supports filtering for emails, batch campaigns, landing pages, and trigger campaigns.
 
 ## Apply a Mass Action
 

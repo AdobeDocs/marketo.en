@@ -4,6 +4,7 @@ description: Pause People in an Engagement Program
 ---
 
 # Pause People in an Engagement Program
+<br>&nbsp;
 
 When a person is a member of an engagement program, they will receive content until they've [exhausted all content](https://docs.marketo.com/display/DOCS/People+Who+Have+Exhausted+Content). You can use the [Change Engagement Program Cadence](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) flow step to stop people from receiving content even if they've not yet exhausted content.
 
@@ -23,6 +24,4 @@ You can set the person back to **Normal** if you want them to begin receiving co
 
 >[!NOTE]
 >
->Pausing a person will prevent them from receiving content, but
->they will still transition between streams if they meet the
->criteria.
+>Pausing a person will prevent them from receiving content, but they will still transition between streams if they meet the criteria.

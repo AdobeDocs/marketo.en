@@ -4,6 +4,7 @@ description: My Token Image
 ---
 
 # My Token: Image
+<br>&nbsp;
 
 Here's how to set up an Image token for use in your programs and campaign folders.
 

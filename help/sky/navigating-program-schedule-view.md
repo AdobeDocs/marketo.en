@@ -4,6 +4,7 @@ description: Navigating Program Schedule View
 ---
 
 # Navigating Program Schedule View
+<br>&nbsp;
 
 Here are the basics to help you navigate the program schedule view.
 

@@ -6,6 +6,7 @@ description: Archive/Unarchive a Campaign Folder
 # Archive/Unarchive a Campaign Folder
 
 ## Convert to Archive Folder
+<br>&nbsp;
 
 Right-click any folder and select **Convert To Archive Folder**.
 
@@ -40,6 +41,7 @@ Once you've archived a folder, its icon will change to a file cabinet, as shown 
 >
 
 ## Convert to Campaign Folder
+<br>&nbsp;
 
 To convert an archive folder back to a campaign folder, simply right-click the archive folder and select campaign folder from the drop-down. The icon will change back to the regular folder icon.
 

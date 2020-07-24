@@ -4,6 +4,7 @@ description: My Token Link
 ---
 
 # My Token: Link
+<br>&nbsp;
 
 Here's how to set up a Link token for use in your programs and campaign folders.
 
@@ -15,7 +16,7 @@ Here's how to set up a Link token for use in your programs and campaign folders.
 
    ![Image Two](/help/sky/assets/my-tokens/my-token-link/my-token-link-2.png)
 
-   Definition
+   **Definition**
 
    * New window: Opens the link in a different window
    * Current window: Opens the link in the same window
@@ -29,11 +30,8 @@ Here's how to set up a Link token for use in your programs and campaign folders.
    >[!NOTE]
    >
    >If Include mkt_tok is checked, Marketo displays a link
-   >preview of the branded tracking domain (e.g., http://
-   >mkto-sjqe3355.com/mn/...). If you clear this checkbox, the
-   >link is changed. If you turn off link tracking for emails or
-   >landing pages, >the URL will be shortened to its basic
-   >length (e.g., www. >examplepage.com).
+   preview of the branded tracking domain (e.g., http://
+   mkto-sjqe3355.com/mn/...). If you clear this checkbox, the link is changed. If you turn off link tracking for emails or landing pages, >the URL will be shortened to its basic length (e.g., www.examplepage.com).
 
 1. Optionally, under Advanced, you can customize your link using CSS. Click **Save**.
 

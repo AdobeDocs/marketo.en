@@ -14,7 +14,7 @@ In the My Tokens tab of your campaign folder or program, click the **Value** of 
 >[!NOTE]
 >
 >Text tokens do not have a separate editor window. Click the
->**Value** to make in-line edits.
+**Value** to make in-line edits.
 
    ![Image Two](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-2.png)
 
@@ -31,9 +31,7 @@ In the My Tokens tab of your campaign folder or program, click the **Value** of 
 >[!NOTE]
 >
 >My Tokens that are currently being used in assets cannot be
->deleted. If you try to delete them, you'll get an error message
->that lists where the token is being used. Remove the token from
->these assets and try deleting it again.
+deleted. If you try to delete them, you'll get an error message that lists where the token is being used. Remove the token from these assets and try deleting it again.
 
 ## Clone a Token
 

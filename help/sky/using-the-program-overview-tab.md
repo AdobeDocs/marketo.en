@@ -4,6 +4,7 @@ description: Using the Program Overview Tab
 ---
 
 # Using the Program Overview Tab
+<br>&nbsp;
 
 There are three sections under the Program Overview tab: **Details**, **Schedule**, and **Reports**. Here's a quick look at each one.
 
@@ -25,7 +26,7 @@ The program schedule view is a powerful feature that allows you to create, move,
 
 **Deep Dive**
 
-Learn how to [use the program schedule view](/help/sky/navigating-program-schedule-view.md).
+* Learn how to [use the program schedule view](/help/sky/navigating-program-schedule-view.md).
 
 ## Reports
 

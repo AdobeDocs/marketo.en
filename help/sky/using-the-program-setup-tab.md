@@ -4,6 +4,7 @@ description: Using the Program Setup Tab
 ---
 
 # Using the Program Setup Tab
+<br>&nbsp;
 
 From the Setup tab of your program, you can select a channel, add tags and period costs, and change settings.
 

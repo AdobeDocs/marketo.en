@@ -4,6 +4,7 @@ description: Edit an Entry in Program Schedule View
 ---
 
 # Edit an Entry in Program Schedule View
+<br>&nbsp;
 
 1. Double-click the entry you'd like to edit. This can be done from any calendar view.
 
@@ -16,9 +17,8 @@ description: Edit an Entry in Program Schedule View
 >[!NOTE]
 >
 >The names of basic entries cannot be changed once they have
->been created.
+been created.
 
 >[!NOTE]
 >
->Smart campaign and email program entries that have already run
->cannot be moved to the past.
+>Smart campaign and email program entries that have already run cannot be moved to the past.

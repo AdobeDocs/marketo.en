@@ -4,14 +4,14 @@ description: Priority Override for Trigger Campaigns
 ---
 
 # Priority Override for Trigger Campaigns
+<br>&nbsp;
 
 Admins can override Marketo's determined priority for trigger campaigns to set priorities that better align with business objectives.
 
 >[!NOTE]
 >
 >This feature is only available for trigger campaigns and to
->users who have been granted the “Edit Trigger Campaign
->Priority” permission.
+users who have been granted the “Edit Trigger Campaign Priority” permission.
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ Admins can override Marketo's determined priority for trigger campaigns to set p
 >
 >* You can view your campaign's default priority in the
 Campaign Queue under Marketing Activities. To boost execution rate, we recommend setting your campaign priority to one level higher than its default.
-
+>
 >* User set priority applies only to new people who qualify for the campaign; people who are already in-queue will not be affected.
 
 ## Reset Priority
@@ -48,16 +48,13 @@ Campaign Queue under Marketing Activities. To boost execution rate, we recommend
 
 >[!NOTE]
 >
->Priority overrides and resets are captured in Audit Trail. You
->can view the [Audit Trail](https://docs.marketo.com/x/GZ2t)
->through the Admin area in the classic experience.
+>Priority overrides and resets are captured in Audit Trail. You can view the [Audit Trail](https://docs.marketo.com/x/GZ2t) through the Admin area in the classic experience.
 
 ## Grant Priority Override Access
 
 >[!CAUTION]
 >
->Only Admins or users with admin responsibilities should have
->campaign priority override access.
+>Only Admins or users with admin responsibilities should have campaign priority override access.
 
 1. In the Admin area, click **Users & Roles**.
 
@@ -79,6 +76,4 @@ You can view campaign priority in the classic experience by clicking the **Sched
 
 >[!NOTE]
 >
->The priority in the classic experience is view-only. Changing
->or resetting campaign priority is only available through
->Marketo Sky.
+>The priority in the classic experience is view-only. Changing or resetting campaign priority is only available through Marketo Sky.

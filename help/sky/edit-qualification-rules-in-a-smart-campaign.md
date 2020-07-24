@@ -4,6 +4,7 @@ description: Edit Qualification Rules in a Smart Campaign
 ---
 
 # Edit Qualification Rules in a Smart Campaign
+<br>&nbsp;
 
 Qualification rules control how many times someone can run through the flow in a smart campaign. By default, even if someone triggers a smart campaign multiple times, they will only be sent through the flow once. Here's how to modify those settings.
 
@@ -22,15 +23,16 @@ Qualification rules control how many times someone can run through the flow in a
    >[!NOTE]
    >
    >When you set a rule for once every day, Marketo converts
-   >that to hours. For example, if you set the rule for once
-   >per day, and a person qualifies at 10 p.m. on a Sunday
-   >night, it can't qualify again until 10 p.m. Monday night.
-   >This logic also applies when using weeks or months. A month
-   >is always counted as 30 days.
+   that to hours. For example, if you set the rule for once
+   per day, and a person qualifies at 10 p.m. on a Sunday
+   night, it can't qualify again until 10 p.m. Monday night.
+   This logic also applies when using weeks or months. A month is always counted as 30 days.
 
 1. Click **Confirm** when done.
 
    ![Image Four](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-4.png)
+
+<br>&nbsp;
 
 **Reminder**
 

@@ -4,13 +4,13 @@ description: My Token CRM Campaign
 ---
 
 # My Token: CRM Campaign
+<br>&nbsp;
 
 Here's how to set up a CRM Campaign token for use in your programs and campaign folders.
 
 >[!NOTE]
 >
->CRM Campaign My Tokens are only available for Salesforce
->integrations.
+>CRM Campaign My Tokens are only available for Salesforce integrations.
 
 1. In the My Tokens tab of your program or folder, drag a **CRM Campaign** token to the Local Tokens canvas.
 
@@ -22,5 +22,4 @@ Here's how to set up a CRM Campaign token for use in your programs and campaign 
 
 >[!NOTE]
 >
->This My Token will only be available if your subscription has a
->CRM integration.
+>This My Token will only be available if your subscription has a CRM integration.
