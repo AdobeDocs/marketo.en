@@ -5,8 +5,6 @@ description: Add and Remove Labels
 
 # Add and Remove Labels
 
-<br>&nbsp;
-
 You can assign labels to any asset in Marketing Activities, making organizing and finding assets a breeze.
 
 ## Add Labels

@@ -5,8 +5,6 @@ description: Activate/Deactivate a Trigger Smart Campaign
 
 # Activate/Deactivate a Trigger Smart Campaign
 
-<br>&nbsp;
-
 Activating/deactivating a trigger smart campaign is basically turning it on or off.
 
 ## Activate a Trigger Campaign

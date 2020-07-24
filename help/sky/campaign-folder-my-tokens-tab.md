@@ -5,8 +5,6 @@ description: Campaign Folder My Tokens Tab
 
 # Campaign Folder: My Tokens Tab
 
-<br>&nbsp;
-
 The My Tokens tab lists all of your My Tokens within the campaign folder.
 
    ![Image One](/help/sky/assets/campaign-folders/campaign-folder-my-tokens-tab/campaign-folder-my-tokens-tab-1.png)

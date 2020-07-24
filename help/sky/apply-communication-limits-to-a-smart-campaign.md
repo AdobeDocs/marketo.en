@@ -5,8 +5,6 @@ description: Apply Communication Limits to a Smart Campaign
 
 # Apply Communication Limits to a Smart Campaign
 
-<br>&nbsp;
-
 It's not a good idea to email someone multiple times a day, or too many times in a week. Luckily, Marketo has communication limits to help.
 
 >[!IMPORTANT]

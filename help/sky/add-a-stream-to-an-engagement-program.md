@@ -5,8 +5,6 @@ description: Add a Stream to an Engagement Program
 
 # Add a Stream to an Engagement Program
 
-<br>&nbsp;
-
 Engagement programs can hold more than one stream.
 
 1. Select your engagement program.

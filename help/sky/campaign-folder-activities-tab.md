@@ -5,8 +5,6 @@ description: Campaign Folder Activities Tab
 
 # Campaign Folder: Activities Tab
 
-<br>&nbsp;
-
 Find key information about your campaigns in the **Activities** tab.
 
    ![Image One](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-1.png)

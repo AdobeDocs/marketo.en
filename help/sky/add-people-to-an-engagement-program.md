@@ -5,8 +5,6 @@ description: Add People to an Engagement Program
 
 # Add People to an Engagement Program
 
-<br>&nbsp;
-
 There are several ways that people can become members of an engagement program:
 
 * [Add to Engagement Program](https://docs.marketo.com/display/DOCS/Add+to+Engagement+Program)

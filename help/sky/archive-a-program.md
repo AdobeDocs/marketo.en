@@ -5,8 +5,6 @@ description: Archive a Program
 
 # Archive a Program
 
-<br>&nbsp;
-
 To archive a program, you'll need to move it to a separate archive folder.
 
 1. Create a new campaign folder by right-clicking the worksplace globe and selecting **New Campaign Folder**.

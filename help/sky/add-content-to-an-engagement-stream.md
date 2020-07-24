@@ -5,8 +5,6 @@ description: Add Content to an Engagement Stream
 
 # Add Content to an Engagement Stream
 
-<br>&nbsp;
-
 Once you've created your engagement program, you need to add content to the stream so it can be sent to your people. You can add emails or programs to a stream.
 
 ## Add an Email to a Stream
