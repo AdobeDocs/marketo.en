@@ -75,7 +75,7 @@ Complete the following steps to set up these variables in AA:
             
             1. Change Expire After field to **Visit.**
 
-1. &nbsp; Under **Edit Settings **go to **Conversion** and select ** [Success Events](http://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.&nbsp;
+1.   Under **Edit Settings **go to **Conversion** and select ** [Success Events](http://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**. 
 
     1. Select the Custom Success Events Event number (we recommend):
 

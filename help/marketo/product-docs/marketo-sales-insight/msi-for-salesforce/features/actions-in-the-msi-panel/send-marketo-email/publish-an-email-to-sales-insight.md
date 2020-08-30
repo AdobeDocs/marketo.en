@@ -8,7 +8,7 @@ title: Publish an Email to Sales Insight
 
 Enable the Publish to Sales Insight setting to make an email available to your sales team in both Sales Insight as well as the Outlook and Gmail Add-In. You can also give it an expiration date.
 
-1. Find your email, select it and click&nbsp;**Edit Draft**.
+1. Find your email, select it and click **Edit Draft**.
 
    ![](assets/one.png)
 

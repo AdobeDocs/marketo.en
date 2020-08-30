@@ -20,7 +20,7 @@ The following features were released on March 15, 2019.
 * ** [Custom Communication Limit](../../product-docs/administration/email-setup/enable-communication-limits.md)**: Admins can now set custom daily or weekly communication limits.
 * ** [Smart Campaign Asset APIs](http://developers.marketo.com/rest-api/assets/campaigns/)**: Enrich your analytics outside of Marketo with smart campaign record retrieval by updated date and ID.
 * **HTTPS Tracking Links for Email:** For customers that have purchased “Secure Domains for Tracking Links,” branded tracking links can now be displayed within your emails as HTTPS.
-* **Email Deliverability Powerpack Updates**: Ability to flag and comment on specific test results, share results with stakeholders through a URL, and track changes to see the evolution of an email as stakeholders edit content.&nbsp;
+* **Email Deliverability Powerpack Updates**: Ability to flag and comment on specific test results, share results with stakeholders through a URL, and track changes to see the evolution of an email as stakeholders edit content. 
 
 Account-Based Marketing
 ** [Account`<sup>AI</sup>`](../../product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)** Now generally available. Account`<sup>AI</sup>` uses artificial intelligence to reveal the accounts you should target for your ABM strategy. 
@@ -49,5 +49,5 @@ For more details and updates, check our [Sky release notes](https://help.marketo
 
 * **Bizible Discover Feature Enhancements**: New dashboard segmentation capabilities enable marketers to better understand performance.
 * **Multi-Currency Support**: Switch between your corporate currency and any local currency with Bizible’s new automatic currency conversion functionality built on CRM currency tables.
-* **CRM Campaign Costs**: &nbsp;Measure the spend and ROI of offline marketing activities with the ability to automatically pull cost data from the CRM campaign object.
+* **CRM Campaign Costs**:  Measure the spend and ROI of offline marketing activities with the ability to automatically pull cost data from the CRM campaign object.
 

@@ -20,7 +20,7 @@ This will show you five high-impact ways to start optimizing your site right awa
 
 >[!TIP]
 >
->You can click on&nbsp;Top Page Optimization Issues&nbsp;to see a full list.&nbsp;
+>You can click on Top Page Optimization Issues to see a full list. 
 
 ![](assets/image2014-9-17-21-3a40-3a52.png)  
 
@@ -30,7 +30,7 @@ Having reputable sites link to your content can increase your page ranking. Here
 
 >[!TIP]
 >
->You can click on&nbsp;Top Link Optimization&nbsp;to see a full list.&nbsp;
+>You can click on Top Link Optimization to see a full list. 
 
 ![](assets/image2014-9-17-21-3a41-3a17.png)
 

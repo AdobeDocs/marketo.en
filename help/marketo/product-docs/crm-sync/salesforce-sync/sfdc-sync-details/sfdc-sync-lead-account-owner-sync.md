@@ -39,6 +39,6 @@ There are lots of reasons to use this data such as
 * Send a personalized email with signature from the sales owner
 * Filter on specific sales reps for marketing or even analyzing effectiveness
 * Assignment (and re-assignment) rules in Marketo
-* Use them in the [Change Owner](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md),&nbsp; [Sync Person to SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md), and&nbsp; [Create Task](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)&nbsp;flow actions
+* Use them in the [Change Owner](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md),  [Sync Person to SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md), and  [Create Task](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) flow actions
 
 Marketo sure has an awesome Salesforce sync. No one else does it so well!

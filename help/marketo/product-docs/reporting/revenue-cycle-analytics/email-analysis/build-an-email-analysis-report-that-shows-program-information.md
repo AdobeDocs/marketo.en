@@ -6,7 +6,7 @@ title: Build an Email Analysis Report that Shows Program Information
 
 # Build an Email Analysis Report that Shows Program Information {#build-an-email-analysis-report-that-shows-program-information}
 
-Follow these steps to create an Email Analysis Report that will show email information&nbsp;grouped by program channels.
+Follow these steps to create an Email Analysis Report that will show email information grouped by program channels.
 
 >[!NOTE]
 >

@@ -6,7 +6,7 @@ title: Understanding Email Programs
 
 # Understanding Email Programs {#understanding-email-programs}
 
-Say hello to your new Marketo friend, the email program.&nbsp;Send out emails, create A/B tests, and track your results all in one place.
+Say hello to your new Marketo friend, the email program. Send out emails, create A/B tests, and track your results all in one place.
 
 ## Control Panel {#control-panel}
 

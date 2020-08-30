@@ -14,7 +14,7 @@ Landing pages are in draft mode until you approve them. Approval makes pages ava
 
    >[!TIP]
    >
-   >You can&nbsp; [approve multiple pages at once](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md)&nbsp;to make your life easier.&nbsp;
+   >You can  [approve multiple pages at once](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) to make your life easier. 
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 

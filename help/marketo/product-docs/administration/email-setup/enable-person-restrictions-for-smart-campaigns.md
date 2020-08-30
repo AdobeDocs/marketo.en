@@ -47,7 +47,7 @@ There is a feature in Marketo to limit the ***maximum ***number of people that c
    >[!CAUTION]
    >
    >
-   >This limit is applied to all the smart campaigns&nbsp;but can be overridden at campaign level. Learn how to&nbsp; [override person restrictions in a smart campaign](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+   >This limit is applied to all the smart campaigns but can be overridden at campaign level. Learn how to  [override person restrictions in a smart campaign](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 Bingo! You just turned on the safety switch. Good idea, right? 
 

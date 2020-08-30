@@ -46,7 +46,7 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 
 ## Step 2: Create an Email {#step-create-an-email}
 
-1. Select your engagement program, then click&nbsp;**New** and select **New Local Asset**.
+1. Select your engagement program, then click **New** and select **New Local Asset**.
 
    ![](assets/five-3.png)
 
@@ -110,7 +110,7 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 
 ## Step 4: Activate Stream Content {#step-activate-stream-content}
 
-1. Activate all content at once by clicking on the stream gear icon, then click&nbsp; **Activate all content** .
+1. Activate all content at once by clicking on the stream gear icon, then click  **Activate all content** .
 
    ![](assets/image2014-9-24-12-3a48-3a28.png)
 
@@ -126,7 +126,7 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 
    ![](assets/seventeen.png)
 
-1. Edit the settings to match the schedule you want and click&nbsp;**SAVE**.
+1. Edit the settings to match the schedule you want and click **SAVE**.
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 

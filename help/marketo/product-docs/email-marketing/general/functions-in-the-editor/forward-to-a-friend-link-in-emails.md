@@ -66,7 +66,7 @@ You can also add the 'Forward to Friend' link directly into an email.
 
    ![](assets/six-2.png)
 
-1. Select the&nbsp;**{{system.forwardToFriendLink}}**&nbsp;token.
+1. Select the **{{system.forwardToFriendLink}}** token.
 
    ![](assets/seven-1.png)
 
@@ -128,7 +128,7 @@ You can see who forwarded and received the emails in the person's Activity Log.
 
    >[!NOTE]
    >
-   >We will make the&nbsp;**Person ID**&nbsp;clickable and link directly to the person in an upcoming patch.
+   >We will make the **Person ID** clickable and link directly to the person in an upcoming patch.
 
    ![](assets/seventeen.png)
 

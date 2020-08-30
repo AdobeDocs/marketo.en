@@ -30,10 +30,10 @@ Some steps require help from your IT group.
 
 >[!TIP]
 >
->If you&nbsp; [print out this checklist](setup-steps/setup-checklist.md) , you can check items off as you complete them.
+>If you  [print out this checklist](setup-steps/setup-checklist.md) , you can check items off as you complete them.
 
 1. Log In and Create Additional Marketo Users
-1. Log into Marketo [here](https://app.marketo.com/)&nbsp;using the credentials you received by email.
+1. Log into Marketo [here](https://app.marketo.com/) using the credentials you received by email.
 
    ![](assets/new-login-screen-hand.jpg)
    Congratulations! You’re now inside Marketo and can start exploring. You might want to invite your colleagues on the marketing team to join you. You can do this by adding new users.
@@ -207,7 +207,7 @@ Configure your domain settings so landing pages use your company’s domain inst
 
    >[!NOTE]
    >
-   >See Steps 3 and 4 above to determine the text to replace the placeholders. Remember that&nbsp;[LandingPageCNAME]&nbsp;and&nbsp;[EmailTrackingCNAME]&nbsp;must be different.
+   >See Steps 3 and 4 above to determine the text to replace the placeholders. Remember that [LandingPageCNAME] and [EmailTrackingCNAME] must be different.
 
    Dear Awesome IT Administrator,
 
@@ -249,13 +249,13 @@ Configure your domain settings so landing pages use your company’s domain inst
 
    a. To set up SPF, please add following line to our DNS entries:
 
-   IN&nbsp; TXT **[From Domain]**:&nbsp; v=spf1 mx ip4:**[Corporate IP(s)]**** ** 
+   IN  TXT **[From Domain]**:  v=spf1 mx ip4:**[Corporate IP(s)]**** ** 
    include: mktomail.com ~all   
   
    If we already have an existing SPF record in our DNS entry, simply add the following to it:  
    include:mktomail.com
 
-   [Replace **From Domain** with your Email From Domain (ex: company.com) and **CorpIP** with the IP address of your corporate email server (ex: 255.255.255.255).&nbsp; If you are going to be sending email from multiple domains through Marketo, you should have your IT staff add this line for each domain (on one line).]
+   [Replace **From Domain** with your Email From Domain (ex: company.com) and **CorpIP** with the IP address of your corporate email server (ex: 255.255.255.255).  If you are going to be sending email from multiple domains through Marketo, you should have your IT staff add this line for each domain (on one line).]
 
    b. For DKIM, please create DNS Resource Records for each domain we'd like to setup. Below are the Host Records and TXT Values for each domain we'll be signing for:
 

@@ -69,5 +69,5 @@ Configure and delete report subscriptions.
    >    
    >
 
-   Learn more in the&nbsp; [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting)&nbsp;and&nbsp; [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics)&nbsp;deep dives.&nbsp;
+   Learn more in the  [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) and  [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) deep dives. 
 

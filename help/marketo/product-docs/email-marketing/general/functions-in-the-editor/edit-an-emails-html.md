@@ -38,7 +38,7 @@ Sometimes you may need to modify an email's underlying HTML. Sometimes you may u
 
 ## Breaking an Email From its Template {#breaking-an-email-from-its-template}
 
-These code changes **will&nbsp;not**&nbsp;break an email from its template:
+These code changes **will not** break an email from its template:
 
 * Editing the contents of any Module (including adding new Elements inside the Module)
 * Adding a new Module to the Container

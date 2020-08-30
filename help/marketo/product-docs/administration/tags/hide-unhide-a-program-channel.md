@@ -10,7 +10,7 @@ title: Hide/Unhide a Program Channel
 >
 >**Admin Permissions Required**
 
-You can [delete a program channel](delete-a-program-channel.md) if it isn't being used by any programs. &nbsp;However, once it is used, we need to keep it around. &nbsp;However, you can hide it if you no longer need it.
+You can [delete a program channel](delete-a-program-channel.md) if it isn't being used by any programs.  However, once it is used, we need to keep it around.  However, you can hide it if you no longer need it.
 
 ## Hide a Program Channel {#hide-a-program-channel}
 
@@ -30,7 +30,7 @@ Easy come, easy go!
 
 ## Unhide a Program Channel {#unhide-a-program-channel}
 
-1. Unhide a Program Channel by checking the Show Hidden&nbsp;checkbox.
+1. Unhide a Program Channel by checking the Show Hidden checkbox.
 
    ![](assets/image2014-9-24-15-3a47-3a24.png)
 

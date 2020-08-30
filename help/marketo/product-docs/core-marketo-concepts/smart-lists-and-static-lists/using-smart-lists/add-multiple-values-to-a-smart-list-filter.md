@@ -14,7 +14,7 @@ title: Add Multiple Values to a Smart List Filter
 >* [Find and Add Filters to a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 >
 
-Let's say you want to find everyone in California, but you might be storing both **California** and **CA** in your Database. To include all applicable people, you could use two&nbsp;**State**&nbsp;filters, but it's easier with one.
+Let's say you want to find everyone in California, but you might be storing both **California** and **CA** in your Database. To include all applicable people, you could use two **State** filters, but it's easier with one.
 
 1. Go to **Marketing Activities**.
 

@@ -12,7 +12,7 @@ From a [Web Page Activity report](../../../../../product-docs/reporting/basic-re
 >
 >**Prerequisites**
 >
->To capture activity from your web site in Marketo, you first need to&nbsp; [set up Munchkin on your site](../../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>To capture activity from your web site in Marketo, you first need to  [set up Munchkin on your site](../../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
 1. In your [Web Page Activity report](../../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), click the number in the Page Views column.
 
@@ -27,12 +27,12 @@ From a [Web Page Activity report](../../../../../product-docs/reporting/basic-re
    >**Related Articles**
    >
    >
-   >Create a&nbsp; [Company Web Activity report](../../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) to see which companies are visiting your site.
+   >Create a  [Company Web Activity report](../../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) to see which companies are visiting your site.
 
    >[!NOTE]
    >
    >**Deep Dive**
    >
    >
-   >Do more with reports! See the&nbsp; [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) deep dive.&nbsp;
+   >Do more with reports! See the  [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) deep dive. 
 

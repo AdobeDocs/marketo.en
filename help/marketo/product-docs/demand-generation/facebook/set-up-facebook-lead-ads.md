@@ -6,7 +6,7 @@ title: Set Up Facebook Lead Ads
 
 # Set Up Facebook Lead Ads {#set-up-facebook-lead-ads}
 
-Use&nbsp; [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads)&nbsp;to run ad campaigns in Facebook and generate leads for Marketo.
+Use  [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) to run ad campaigns in Facebook and generate leads for Marketo.
 
 >[!NOTE]
 >

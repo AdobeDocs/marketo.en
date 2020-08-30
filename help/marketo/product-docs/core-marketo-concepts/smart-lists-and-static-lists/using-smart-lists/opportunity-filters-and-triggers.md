@@ -48,7 +48,7 @@ For example, say you want to find leads who have open opportunities of at least 
 
 >[!NOTE]
 >
->When you use multiple Opportunity filters, you may get incorrect answers.&nbsp;If you built the example above with two Opportunity filters, you would get a list of leads who have any opportunity that is at least $5,000 and any opportunity that is closed, even if those are separate opportunities.
+>When you use multiple Opportunity filters, you may get incorrect answers. If you built the example above with two Opportunity filters, you would get a list of leads who have any opportunity that is at least $5,000 and any opportunity that is closed, even if those are separate opportunities.
 
 ###### Opportunity was Updated {#opportunity-was-updated}
 

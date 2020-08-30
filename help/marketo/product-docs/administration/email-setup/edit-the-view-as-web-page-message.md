@@ -14,7 +14,7 @@ If you need to edit the " [View as a Webpage](../../../product-docs/email-market
 
 ## Edit the "View as Web Page" Message {#edit-the-view-as-web-page-message-1}
 
-1. Under&nbsp;**Admin**, click **Email**.&nbsp;
+1. Under **Admin**, click **Email**. 
 
    ![](assets/image2014-9-18-17-3a13-3a2.png)
 
@@ -41,7 +41,7 @@ If you need to edit the " [View as a Webpage](../../../product-docs/email-market
 >* Putting HTML in the text version
 >
 
-There you have it. Send out test emails to ensure&nbsp;formatting.
+There you have it. Send out test emails to ensure formatting.
 
 ## Default "View as Web Page" Text {#default-view-as-web-page-text}
 

@@ -8,7 +8,7 @@ title: Filter a Program Report by Tag
 
 Focus your [program performance report](create-a-program-performance-report.md)on specific [tags](http://docs.marketo.com/display/docs/tags).
 
-1. Go to&nbsp;**Marketing** **Activities**&nbsp;(or&nbsp;**Analytics**).
+1. Go to **Marketing** **Activities** (or **Analytics**).
 
    ![](assets/login-marketing-activities.png)
 
@@ -22,7 +22,7 @@ Focus your [program performance report](create-a-program-performance-report.md)o
 
 1. Choose the tag values to include in your report.
 
-   &nbsp; ![](assets/prospect1.jpg)
+     ![](assets/prospect1.jpg)
 
 1. Click **Apply**.
 
@@ -47,5 +47,5 @@ Focus your [program performance report](create-a-program-performance-report.md)o
    >**Deep Dive**
    >
    >
-   >Learn all about reports in&nbsp; [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Learn all about reports in  [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 

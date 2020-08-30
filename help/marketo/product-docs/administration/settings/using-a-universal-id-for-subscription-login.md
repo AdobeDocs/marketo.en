@@ -46,7 +46,7 @@ With a Universal ID for multiple subscriptions, only you can change the password
 
 ## Switching Between Subscriptions {#switching-between-subscriptions}
 
-Using a Universal ID, you can see the subscription you're logged into, and select other subscriptions to which you have login access. In most cases, you can switch between them without having to log out and back in.&nbsp;
+Using a Universal ID, you can see the subscription you're logged into, and select other subscriptions to which you have login access. In most cases, you can switch between them without having to log out and back in. 
 
 ![](assets/image2016-11-3-15-3a10-3a16.png)
 
@@ -54,7 +54,7 @@ When you log out and back in, Marketo automatically logs you into the subscripti
 
 ## Community Profiles {#community-profiles}
 
-If you have multiple subscriptions, you may have multiple community profiles. We recommend that you choose the login that's linked with your most active community profile.&nbsp;
+If you have multiple subscriptions, you may have multiple community profiles. We recommend that you choose the login that's linked with your most active community profile. 
 
 ## Mobile Platform {#mobile-platform}
 

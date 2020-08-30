@@ -6,7 +6,7 @@ title: Customize Video Share Flow
 
 # Customize Video Share Flow {#customize-video-share-flow}
 
-When you&nbsp; [create a video share](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), you can customize when and where the share prompt appears.
+When you  [create a video share](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), you can customize when and where the share prompt appears.
 
 1. Go to **Marketing Activities**.
 

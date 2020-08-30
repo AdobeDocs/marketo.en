@@ -22,7 +22,7 @@ You can add things to lists when you are adding keywords, pages, page issues, or
 
    >[!TIP]
    >
-   >You can create a new list in the drop-down. Enter a title, hit the return key.&nbsp; ![--](assets/image2014-9-18-13-3a25-3a8.png)   >
+   >You can create a new list in the drop-down. Enter a title, hit the return key.  ![--](assets/image2014-9-18-13-3a25-3a8.png)   >
    >
 
 1. Click **SAVE**.

@@ -14,7 +14,7 @@ Marketo Account Based Marketing provides all of the essentials in one unified pl
 
 * **Target** - Account Discovery, Lead-to-Account Matching, and Named Account Lists
 * **Engage** - Account-based Personalization, Cross-channel engagement, and Account-specific Workflows
-* **Measure** - Account and List-level Insights, Account Engagement Score, and Pipeline & Revenue Impact &nbsp;
+* **Measure** - Account and List-level Insights, Account Engagement Score, and Pipeline & Revenue Impact  
 
 ![](assets/abm-5-acme.png)
 

@@ -18,7 +18,7 @@ Marketo syncs with Salesforce all day, every day. Each sync takes some time and 
 
 ![](assets/sync-illustration.png)
 
-The sync between Salesforce and Marketo is bidirectional only for leads, contacts, and Salesforce campaigns. In these cases, whenever you make changes in either Salesforce or Marketo, your updates will be reflected in both systems.&nbsp;All other syncs are from Salesforce to Marketo only. Click the links below for details on each one.
+The sync between Salesforce and Marketo is bidirectional only for leads, contacts, and Salesforce campaigns. In these cases, whenever you make changes in either Salesforce or Marketo, your updates will be reflected in both systems. All other syncs are from Salesforce to Marketo only. Click the links below for details on each one.
 
 ## What is Synced between Marketo and Salesforce? {#what-is-synced-between-marketo-and-salesforce}
 

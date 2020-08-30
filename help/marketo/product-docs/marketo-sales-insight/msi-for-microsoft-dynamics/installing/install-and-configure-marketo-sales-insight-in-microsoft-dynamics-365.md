@@ -26,7 +26,7 @@ Marketo Sales Insight is a fantastic tool for giving your sales team a "window" 
 
    ![](assets/image2015-3-16-16-0-10.png)
 
-1. Click the ![--](assets/image2015-5-13-10-5-8.png) menu. In the drop-down,&nbsp;select **Settings**,&nbsp;then select&nbsp;**Solutions**.
+1. Click the ![--](assets/image2015-5-13-10-5-8.png) menu. In the drop-down, select **Settings**, then select **Solutions**.
 
    ![](assets/image2015-5-13-10-4-1.png)
 

@@ -8,7 +8,7 @@ title: SEO - Add Pages
 
 You've got pages! Marketo SEO will automatically crawl your site and tracking them. In case we missed a few, get them in the SEO app like this:
 
-1. Go to the **Pages**&nbsp;section.
+1. Go to the **Pages** section.
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
@@ -22,7 +22,7 @@ You've got pages! Marketo SEO will automatically crawl your site and tracking th
 
    >[!TIP]
    >
-   >Did you know you can&nbsp; [add your page to a new or existing list](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Check it out!
+   >Did you know you can  [add your page to a new or existing list](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Check it out!
 
    It may take a moment for your page data to load. Wait for the green alert message and refresh your page to update the display. 
    ![](assets/image2014-9-18-12-3a57-3a10.png)

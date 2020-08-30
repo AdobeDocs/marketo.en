@@ -33,7 +33,7 @@ Here's how to create a new workspace.
 >
 >To learn more about Workspace best practices, please contact [Marketo Professional Services](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38).
 
-1. Under&nbsp;**Admin**, click on&nbsp;**Workspaces & Partitions**.
+1. Under **Admin**, click on **Workspaces & Partitions**.
 
    ![](assets/image2014-9-17-11-3a59-3a11.png)
 
@@ -41,7 +41,7 @@ Here's how to create a new workspace.
 
    ![](assets/two-1.png)
 
-1. Enter a** Name**, and select the **Person Partition(s)** you want to use.&nbsp;Choose a **Primary Person Partition**.
+1. Enter a** Name**, and select the **Person Partition(s)** you want to use. Choose a **Primary Person Partition**.
 
    >[!NOTE]
    >
@@ -54,24 +54,24 @@ Here's how to create a new workspace.
 
    >[!NOTE]
    >
-   >The&nbsp;**All Person Partitions****&nbsp;**checkbox means that this workspace can use all person partitions in the system.
+   >The **All Person Partitions**** **checkbox means that this workspace can use all person partitions in the system.
 
    >[!NOTE]
    >
    >**Reminder**
    >
    >
-   >The** primary person partition**&nbsp;acts as the default and is where all people will be assigned.
+   >The** primary person partition** acts as the default and is where all people will be assigned.
 
    If you enabled multiple branded domains, you must choose a primary branded domain.
 
    ![](assets/four-1.png)
 
-   Select the workspace&nbsp;language.
+   Select the workspace language.
 
    >[!NOTE]
    >
-   >Upon creation, Marketo will seed sample assets in the workspace.&nbsp;Language&nbsp;allows those seeded objects to be in a non-English language.
+   >Upon creation, Marketo will seed sample assets in the workspace. Language allows those seeded objects to be in a non-English language.
 
    ![](assets/five.png)
 

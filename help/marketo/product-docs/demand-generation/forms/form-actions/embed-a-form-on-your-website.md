@@ -23,7 +23,7 @@ Marketo allows you to embed our forms on your own website. Here's how to get acc
    >**Reminder**
    >
    >
-   >The form must be approved for the&nbsp;**Embed** **Code**&nbsp;item to be visible/usable.
+   >The form must be approved for the **Embed** **Code** item to be visible/usable.
 
    ![](assets/image2014-9-15-12-3a12-3a20.png)
 
@@ -43,6 +43,6 @@ Now simply give the embed code to your web developer and have them add it to you
 
 >[!NOTE]
 >
->If your developer wants to customize the look or access advanced API functions, show them the&nbsp; [Forms 2.0 Developers Page](http://developers.marketo.com/documentation/websites/forms-2-0/).
+>If your developer wants to customize the look or access advanced API functions, show them the  [Forms 2.0 Developers Page](http://developers.marketo.com/documentation/websites/forms-2-0/).
 
 Great job! Do you want the [embed code to include lightbox code](use-a-form-in-a-lightbox.md)? That's easy too!

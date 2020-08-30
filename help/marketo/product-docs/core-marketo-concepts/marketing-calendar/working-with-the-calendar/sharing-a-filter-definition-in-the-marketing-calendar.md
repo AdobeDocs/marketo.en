@@ -18,7 +18,7 @@ Filters can be shared amongst different users.
 
 >[!NOTE]
 >
->&nbsp;If you make a change to a saved filter, be sure to re-share it; your edits will not be reflected for other users until you do.
+> If you make a change to a saved filter, be sure to re-share it; your edits will not be reflected for other users until you do.
 
 1. Select the filter you'd like to share. 
 
@@ -34,5 +34,5 @@ Filters can be shared amongst different users.
 
    >[!NOTE]
    >
-   >User permissions will affect visibility.&nbsp;
+   >User permissions will affect visibility. 
 

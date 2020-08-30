@@ -6,7 +6,7 @@ title: Set Social Share Requirement
 
 # Set Social Share Requirement {#set-social-share-requirement}
 
-When you&nbsp; [create a referral offer](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you can require people to share the offer in order to sign up, or make it optional.
+When you  [create a referral offer](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you can require people to share the offer in order to sign up, or make it optional.
 
 >[!NOTE]
 >

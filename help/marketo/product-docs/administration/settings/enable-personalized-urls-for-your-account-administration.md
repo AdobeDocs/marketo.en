@@ -28,5 +28,5 @@ Great job! Now that you have enabled PURLs for your account, you can [enable the
 
 >[!NOTE]
 >
->If there are two people with the same First/Last name, the system will automatically append a number to&nbsp;the end.
+>If there are two people with the same First/Last name, the system will automatically append a number to the end.
 

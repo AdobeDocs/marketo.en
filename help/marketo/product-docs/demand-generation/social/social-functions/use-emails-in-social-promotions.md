@@ -10,7 +10,7 @@ When you create a [referral offer](../../../../product-docs/demand-generation/so
 
 >[!TIP]
 >
->To create an email, see&nbsp; [Send an Email Blast](../../../../getting-started/quick-wins/send-an-email.md).
+>To create an email, see  [Send an Email Blast](../../../../getting-started/quick-wins/send-an-email.md).
 
 In the emails, use these tokens:
 
@@ -22,7 +22,7 @@ In the emails, use these tokens:
 >
 >**Prerequisites**
 >
->Before you can add an email to a social app, it must be&nbsp;*operational*&nbsp;and&nbsp;*approved*.&nbsp;See&nbsp; [Edit Settings for an Email](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+>Before you can add an email to a social app, it must be *operational* and *approved*. See  [Edit Settings for an Email](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
 1. Go to **Marketing Activities**.
 
@@ -32,7 +32,7 @@ In the emails, use these tokens:
 
    ![](assets/image2014-9-19-16-3a12-3a33.png)
 
-1. In the social app editor, go to **App Settings > Offer Details**&nbsp;(or&nbsp;**Sweepstakes Details**).
+1. In the social app editor, go to **App Settings > Offer Details** (or **Sweepstakes Details**).
 
    ![](assets/image2014-9-19-16-3a12-3a41.png)
 
@@ -54,7 +54,7 @@ In the emails, use these tokens:
 
 >[!NOTE]
 >
->In a sweepstakes, the fulfillment email is always sent automatically when you&nbsp; [select the winner](../../../../product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
+>In a sweepstakes, the fulfillment email is always sent automatically when you  [select the winner](../../../../product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
 
 >[!NOTE]
 >

@@ -6,7 +6,7 @@ title: Cloning a Landing Page Test Group
 
 # Cloning a Landing Page Test Group {#cloning-a-landing-page-test-group}
 
-From the&nbsp;Design Studio, you can find and duplicate a landing page test group.
+From the Design Studio, you can find and duplicate a landing page test group.
 
 1. Right-click an unapproved page. Select **Clone**.
 

@@ -18,7 +18,7 @@ Marketo manages your Zoom registration and attendance.
 >
 >An existing subscription to Zoom and administration rights are necessary for this step. Have the email and password you use to sign in to Zoom on hand.
 
-1. Go to&nbsp;the **Admin** area and click&nbsp;**LaunchPoint**.
+1. Go to the **Admin** area and click **LaunchPoint**.
 
    ![](assets/launchpoint.png)
 

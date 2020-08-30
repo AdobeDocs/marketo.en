@@ -24,7 +24,7 @@ title: Delete an Uploaded Image or File
 
    >[!CAUTION]
    >
-   >Deleted images and files are completely removed from Marketo and cannot be recovered. &nbsp;They will no longer be displayed on any landing pages or emails where they were in use.
+   >Deleted images and files are completely removed from Marketo and cannot be recovered.  They will no longer be displayed on any landing pages or emails where they were in use.
 
 1. You'll be returned to the **Images** and **Files** page, where you'll see that your file has been deleted. 
 

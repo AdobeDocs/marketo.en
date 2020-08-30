@@ -20,7 +20,7 @@ Scoring people is easy and powerful to help your sales team prioritize.
 
    >[!TIP]
    >
-   >You can create multiple score fields. See&nbsp; [Create a Custom Field in Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md) for details.
+   >You can create multiple score fields. See  [Create a Custom Field in Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md) for details.
 
 1. Enter the score change you want.
 

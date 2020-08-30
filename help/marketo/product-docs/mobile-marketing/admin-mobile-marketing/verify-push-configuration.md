@@ -10,7 +10,7 @@ title: Verify Push Configuration
 >
 >**Prerequisites**
 >
->Your mobile developer must have added Marketo’s SDK code to&nbsp;your mobile app.
+>Your mobile developer must have added Marketo’s SDK code to your mobile app.
 
 Verify push configuration to ensure everything is synced up nicely.
 

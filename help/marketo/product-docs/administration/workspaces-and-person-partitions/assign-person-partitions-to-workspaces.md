@@ -26,9 +26,9 @@ Here's how to edit the person partition / workspace assignments:
 
 >[!CAUTION]
 >
->Workspaces and Person Partitions can be complex. Please contact&nbsp; [Marketo support](http://support.marketo.com/)&nbsp;for help in setting them up.&nbsp;
+>Workspaces and Person Partitions can be complex. Please contact  [Marketo support](http://support.marketo.com/) for help in setting them up. 
 
-1. Under&nbsp;Admin, click on&nbsp;Workspaces & Partitions.&nbsp;
+1. Under Admin, click on Workspaces & Partitions. 
 
 ![](assets/image2014-9-17-11-3a13-3a24.png)
 
@@ -40,13 +40,13 @@ Here's how to edit the person partition / workspace assignments:
 
    >[!NOTE]
    >
-   >The&nbsp;All Person Partitions&nbsp;checkbox indicates that this workspace has access to all person partitions in the system.
+   >The All Person Partitions checkbox indicates that this workspace has access to all person partitions in the system.
 
    ![](assets/three-3.png)
 
    Primary person partitions are the default where all peoples will be entered. Use [flow steps](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) or [assignment rules](assigning-person-partitions-with-assignment-rules.md) to move people around. 
 
-1. Click&nbsp;**Save**.
+1. Click **Save**.
 
    ![](assets/four-3.png)
 

@@ -6,7 +6,7 @@ title: Add Tooltip Instructions to a Form Field
 
 # Add Tooltip Instructions to a Form Field {#add-tooltip-instructions-to-a-form-field}
 
-[Hints](add-hint-text-to-a-form-field.md)&nbsp;and&nbsp;instructions&nbsp;help people fill out forms. Here's how to add tooltip instructions.  
+[Hints](add-hint-text-to-a-form-field.md) and instructions help people fill out forms. Here's how to add tooltip instructions.  
 
 >[!NOTE]
 >

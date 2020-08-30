@@ -6,7 +6,7 @@ title: Include a Calendar Event (.ics) in an Email
 
 # Include a Calendar Event (.ics) in an Email {#include-a-calendar-event-ics-in-an-email}
 
-&nbsp;A Calendar File token allows you to add a calendar event (.ics) link to your&nbsp;Marketo&nbsp;emails.
+ A Calendar File token allows you to add a calendar event (.ics) link to your Marketo emails.
 
 >[!NOTE]
 >

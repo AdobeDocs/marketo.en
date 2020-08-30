@@ -12,28 +12,28 @@ Control the password policy of your subscription. Here's how.
 >
 >**Admin Permissions Required**
 
-1. Under&nbsp;**Admin**, click&nbsp;**Login Settings**.
+1. Under **Admin**, click **Login Settings**.
 
    ![](assets/image2014-9-16-12-3a41-3a40.png)
 
-1. Under&nbsp;**Security Settings**, click&nbsp;**Edit**.
+1. Under **Security Settings**, click **Edit**.
 
    ![](assets/passwordsettings-hand.png)
 
-1. Select a&nbsp;**Template**. For advanced options, click the&nbsp;**Advanced**&nbsp;drop-down.
+1. Select a **Template**. For advanced options, click the **Advanced** drop-down.
 
    >[!NOTE]
    >
    >**Definition**
    >
    >
-   >A template is just a pre-built configuration.&nbsp;Standard&nbsp;is good.&nbsp;High Security&nbsp;is the strongest.&nbsp;Custom&nbsp;lets you make your own.
+   >A template is just a pre-built configuration. Standard is good. High Security is the strongest. Custom lets you make your own.
 
    ![](assets/passwordstrength.png)
 
    >[!TIP]
    >
-   >In&nbsp;**Custom**, check the boxes to indicate which characteristics you want users to include when they create passwords.
+   >In **Custom**, check the boxes to indicate which characteristics you want users to include when they create passwords.
 
 1. Set the **Expiration**.** **This feature automatically requires users to reset their passwords after a certain length of time. This includes the Admin user as well.
 

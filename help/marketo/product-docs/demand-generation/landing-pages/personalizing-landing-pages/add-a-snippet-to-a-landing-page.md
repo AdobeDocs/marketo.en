@@ -6,7 +6,7 @@ title: Add a Snippet to a Landing Page
 
 # Add a Snippet to a Landing Page {#add-a-snippet-to-a-landing-page}
 
-Snippets are little bits of HTML that can follow rules and hold personalized&nbsp;content.
+Snippets are little bits of HTML that can follow rules and hold personalized content.
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ Snippets are little bits of HTML that can follow rules and hold personalized&nbs
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. In the landing page editor, drag over the&nbsp;**Snippet**&nbsp;element.
+1. In the landing page editor, drag over the **Snippet** element.
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 

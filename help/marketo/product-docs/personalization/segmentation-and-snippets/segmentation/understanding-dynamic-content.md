@@ -6,7 +6,7 @@ title: Understanding Dynamic Content
 
 # Understanding Dynamic Content {#understanding-dynamic-content}
 
-There is a lot more to personalization than just "Hi&nbsp;{{First Name}}". With Marketo dynamic content, you can customize how different people see a landing page or email.
+There is a lot more to personalization than just "Hi {{First Name}}". With Marketo dynamic content, you can customize how different people see a landing page or email.
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ Once you've created different segments, you can add dynamic content blocks into 
 
 ## Snippets {#snippets}
 
-[Snippets](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) are a useful tool in Marketo. Create it once, and use it in multiple places! If you update the snippet, all the assets (landing pages or emails) using the snippet will be automatically updated.&nbsp;
+[Snippets](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) are a useful tool in Marketo. Create it once, and use it in multiple places! If you update the snippet, all the assets (landing pages or emails) using the snippet will be automatically updated. 
 
 >[!NOTE]
 >

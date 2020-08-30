@@ -6,7 +6,7 @@ title: Using Standard Smart List Rule Logic
 
 # Using Standard Smart List Rule Logic {#using-standard-smart-list-rule-logic}
 
-You may have noticed the "Use filters" option when building campaign smart lists. This setting allows you to decide if the filters need to be evaluated with an AND or an OR operator.&nbsp;
+You may have noticed the "Use filters" option when building campaign smart lists. This setting allows you to decide if the filters need to be evaluated with an AND or an OR operator. 
 
 >[!NOTE]
 >

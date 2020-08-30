@@ -13,7 +13,7 @@ To implement your RTP tag please follow the installation instructions below:
     1. If you have already received your JavaScript tag from Support - continue to step 3.  
        ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
-1. Under Domain, locate the relevant domain and click&nbsp;**Generate Tag**.  
+1. Under Domain, locate the relevant domain and click **Generate Tag**.  
    ** ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
    **
@@ -40,5 +40,5 @@ To implement your RTP tag please follow the installation instructions below:
    >    
    >Insert the script itself ONLY.
 
-1. Click&nbsp;**Update**.
+1. Click **Update**.
 

@@ -41,7 +41,7 @@ In this report, you can see how you are ranked on keywords over time.
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
-   ## Exporting Data&nbsp; {#exporting-data}
+   ## Exporting Data  {#exporting-data}
 
    >[!TIP]
    >

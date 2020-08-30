@@ -6,7 +6,7 @@ title: Group Person Reports by Segment
 
 # Group Person Reports by Segment {#group-person-reports-by-segment}
 
-You can group your&nbsp; [person reports](http://docs.marketo.com/display/docs/basic+reporting)&nbsp;by any&nbsp; [segment](http://docs.marketo.com/display/docs/basic+reporting)&nbsp;that you have&nbsp; [defined in your segmentations](create-a-segmentation.md).
+You can group your  [person reports](http://docs.marketo.com/display/docs/basic+reporting) by any  [segment](http://docs.marketo.com/display/docs/basic+reporting) that you have  [defined in your segmentations](create-a-segmentation.md).
 
 >[!NOTE]
 >

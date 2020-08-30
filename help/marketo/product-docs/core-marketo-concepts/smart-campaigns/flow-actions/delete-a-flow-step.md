@@ -42,7 +42,7 @@ First let's do the basics. Here's how to remove an unwanted flow step from a sma
     1. **Is running right now.** Changes can cause unexpected behavior depending on the timing and details of the delete. We strongly recommend NOT editing a batch campaign that's actively running. For emergency cases, learn how to [abort a running smart campaign](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
     
     1. **Already ran WITH wait steps.** Several details on this one.  
-       When a person enters a wait step, the person jots down the duration and which NUMBER STEP to return to.&nbsp;See example below.
+       When a person enters a wait step, the person jots down the duration and which NUMBER STEP to return to. See example below.
 
    **Trigger Smart Campaigns**
 
@@ -56,7 +56,7 @@ First let's do the basics. Here's how to remove an unwanted flow step from a sma
    >    
    >    
    >    1. A smart campaign has 3 steps.   
-   >       STEP 1.&nbsp;Send Email #1  
+   >       STEP 1. Send Email #1  
    >       STEP 2. Wait 1 week  
    >       STEP 3. Send Email #2
    >    

@@ -23,7 +23,7 @@ Webhooks let you interact with third party services. Send/receive information by
 >
 >**Deep Dive**
 >
->Learn about the many fascinating things that&nbsp; [Webhooks](http://developers.marketo.com/documentation/webhooks/)&nbsp;can do for you.
+>Learn about the many fascinating things that  [Webhooks](http://developers.marketo.com/documentation/webhooks/) can do for you.
 
 ## Usage {#usage}
 

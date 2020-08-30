@@ -6,7 +6,7 @@ title: Using Marketo Insights for Google Chrome
 
 # Using Marketo Insights for Google Chrome {#using-marketo-insights-for-google-chrome}
 
-Send and track any Google email with the Marketo Insights for Google Chrome.&nbsp;
+Send and track any Google email with the Marketo Insights for Google Chrome. 
 
 >[!NOTE]
 >

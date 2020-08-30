@@ -20,7 +20,7 @@ The power of Marketo is now in your hands, literally! Preview and reschedule ema
 
 ## Streams {#streams}
 
-Here are the different streams in Moments.&nbsp;
+Here are the different streams in Moments. 
 
 ![](assets/image2015-7-15-15-3a6-3a10.png)
 
@@ -50,7 +50,7 @@ Marketo Moments gives you three different cards to follow the progress of your e
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**Results** - Here's how the email did. After the email finishes running, the Results card displays the engagement score and other stats.&nbsp;
+**Results** - Here's how the email did. After the email finishes running, the Results card displays the engagement score and other stats. 
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
@@ -72,7 +72,7 @@ Tapping the three dots opens a card action menu.
 
 ![](assets/image2015-7-15-10-3a47-3a34.png)
 
-Great! Now,&nbsp;you can make something happen by tapping:
+Great! Now, you can make something happen by tapping:
 
 ![](assets/image2015-7-15-10-3a49-3a20.png)
 
@@ -99,7 +99,7 @@ The Later section shows upcoming activities.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. Tap&nbsp;**Later**.
+1. Tap **Later**.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -131,7 +131,7 @@ Analytics Moment cards show you how your emails and events are performing month-
 
 ## Smart Campaign Run Cards {#smart-campaign-run-cards}
 
-Smart campaign cards represent a single run of a &nbsp;campaign. A new card appears each time the smart campaign runs. Tap to see the smart list filters used, the campaign flow, and each of the emails used in the campaign.&nbsp;
+Smart campaign cards represent a single run of a  campaign. A new card appears each time the smart campaign runs. Tap to see the smart list filters used, the campaign flow, and each of the emails used in the campaign. 
 
 ![](assets/image2015-9-23-11-3a0-3a54.png)
 

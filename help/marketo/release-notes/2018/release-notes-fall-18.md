@@ -18,7 +18,7 @@ Web personalization now supports multiple workspaces.
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **SFDC Lightning Support**:&nbsp;Users migrating to or currently using Lightning can leverage MSE for smarter engagement across the buyer journey.
+* **SFDC Lightning Support**: Users migrating to or currently using Lightning can leverage MSE for smarter engagement across the buyer journey.
 * **Expanded support: Microsoft Office **
 
     * Outlook as a Delivery Channel: Marketers can now leverage Outlook for email engagements, improving deliverability rates and response tracking.
@@ -26,7 +26,7 @@ Web personalization now supports multiple workspaces.
 
 * **Improved admin and user login experience**
 
-    * Improved Admin Workflows: Admins will find a more efficient workflow when enabling team features through&nbsp;General Admin Settings.
+    * Improved Admin Workflows: Admins will find a more efficient workflow when enabling team features through General Admin Settings.
 
 ## Marketo Sky {#marketo-sky}
 

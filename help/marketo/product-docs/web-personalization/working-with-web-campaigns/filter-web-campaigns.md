@@ -6,7 +6,7 @@ title: Filter Web Campaigns
 
 # Filter Web Campaigns {#filter-web-campaigns}
 
-After you've created hundreds of Web Personalization campaigns, it really helps to be able to use filters to view only the ones you're interested in.&nbsp;
+After you've created hundreds of Web Personalization campaigns, it really helps to be able to use filters to view only the ones you're interested in. 
 
 1. Go to **Web Campaigns.**
 

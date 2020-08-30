@@ -23,5 +23,5 @@ title: SEO - Export Issues to CSV
 
    ![](assets/image2014-9-18-13-3a16-3a39.png)
 
-1. Perfect! You've now downloaded all the issues with this page to a CSV file. Pretty cool, huh?&nbsp;
+1. Perfect! You've now downloaded all the issues with this page to a CSV file. Pretty cool, huh? 
 

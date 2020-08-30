@@ -6,7 +6,7 @@ title: Approve a Custom Object
 
 # Approve a Custom Object {#approve-a-custom-object}
 
-You must approve a custom object before you can use it. The process is slightly different for new custom objects and ones that you've edited.&nbsp;
+You must approve a custom object before you can use it. The process is slightly different for new custom objects and ones that you've edited. 
 
 ## Approve a New Custom Object {#approve-a-new-custom-object}
 

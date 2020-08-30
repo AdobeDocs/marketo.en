@@ -33,7 +33,7 @@ A social button encourages people to share your content with their friends. Drop
 >
 >   >[!NOTE]
 >   >
->   >You can also create a social button inside a program by selecting&nbsp;**New**&nbsp;>&nbsp;**New Local Asset.** 
+>   >You can also create a social button inside a program by selecting **New** > **New Local Asset.** 
 
 >
 >1. Name your social button, select **None** from **Clone From,** and click **Insert.**
@@ -41,7 +41,7 @@ A social button encourages people to share your content with their friends. Drop
 >   ![](assets/image2014-9-17-10-3a35-3a26.png)>
 >   >[!TIP]
 >   >
->   >To save time, you can use the&nbsp;**Clone** **From**&nbsp;option to copy all settings from an existing social button. 
+>   >To save time, you can use the **Clone** **From** option to copy all settings from an existing social button. 
 
 >
 >   [publish the landing page to Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [put the social button on your website](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
@@ -51,7 +51,7 @@ A social button encourages people to share your content with their friends. Drop
 >>
 >>**Related Articles**
 >
->>You're done, but you can change the settings of your social button if necessary. Start with [customizing the button style](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)&nbsp;or&nbsp; [editing the share messages](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md)&nbsp;it presents. 
+>>You're done, but you can change the settings of your social button if necessary. Start with [customizing the button style](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) or  [editing the share messages](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) it presents. 
 
 >
 

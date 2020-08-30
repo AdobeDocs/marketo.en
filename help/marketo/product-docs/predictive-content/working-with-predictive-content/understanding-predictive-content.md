@@ -27,7 +27,7 @@ Page fields include:
 
 ##### Category {#category}
 
-You can filter content by categories you've created. Click the filter icon and under **Category**, select one or more content categories.&nbsp;
+You can filter content by categories you've created. Click the filter icon and under **Category**, select one or more content categories. 
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 

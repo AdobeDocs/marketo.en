@@ -6,7 +6,7 @@ title: Configure Re-Share Email and Prompt for a Social App
 
 # Configure Re-Share Email and Prompt for a Social App {#configure-re-share-email-and-prompt-for-a-social-app}
 
-When you create a&nbsp; [referral offer](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)&nbsp;or a&nbsp; [sweepstakes](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), you can invite participants to share your offer with more friends as part of the sign-up process, as well as provide default text for the share email.
+When you create a  [referral offer](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) or a  [sweepstakes](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), you can invite participants to share your offer with more friends as part of the sign-up process, as well as provide default text for the share email.
 
 >[!NOTE]
 >

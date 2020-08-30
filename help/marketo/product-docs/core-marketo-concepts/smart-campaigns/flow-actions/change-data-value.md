@@ -14,7 +14,7 @@ You can use Marketo to update the value of a field. For this, you will use the *
 
 >[!NOTE]
 >
->You can also block a field from being updated. See&nbsp; [Block Updates to a Field](../../../../product-docs/administration/field-management/block-updates-to-a-field.md) for details.
+>You can also block a field from being updated. See  [Block Updates to a Field](../../../../product-docs/administration/field-management/block-updates-to-a-field.md) for details.
 
 ## Usage {#usage}
 

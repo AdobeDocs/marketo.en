@@ -122,7 +122,7 @@ The right-hand panel of the Visitors page provides the following insights:
 
 ![](assets/wp-real.jpg)
 
-The Real-Time page displays visitors on your website in real-time, measuring the activity as it happens.&nbsp;
+The Real-Time page displays visitors on your website in real-time, measuring the activity as it happens. 
 
 ![](assets/image2014-11-10-19-3a49-3a55.png)
 
@@ -138,7 +138,7 @@ The Real-time page is split into 6 informative tables of onsite visitor details:
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Visitors</strong></td> 
-   <td colspan="1" rowspan="1">&nbsp;Represents the number of visitors currently on your website</td> 
+   <td colspan="1" rowspan="1"> Represents the number of visitors currently on your website</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Clicks per minute</strong></p></td> 

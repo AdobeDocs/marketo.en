@@ -14,11 +14,11 @@ See how many people filled out the `forms` in your `landing pages`, and how many
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)
 
-   Among the columns in a landing page performance report,&nbsp;Conversions&nbsp;and&nbsp;Conversion % reflect the number of times someone filled out a form.
+   Among the columns in a landing page performance report, Conversions and Conversion % reflect the number of times someone filled out a form.
 
    >[!TIP]
    >
-   >Find the pages with the highest Conversion percentage! [Sort your report](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)&nbsp;on that column and choose&nbsp;Sort Descending.
+   >Find the pages with the highest Conversion percentage! [Sort your report](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) on that column and choose Sort Descending.
 
    The AB icon in the report indicates the stats are the total for all pages in that [landing page test group](landing-page-test-groups.md).
 
@@ -34,12 +34,12 @@ See how many people filled out the `forms` in your `landing pages`, and how many
 >
 >**Deep Dive**
 >
->Learn about other interesting reports in the&nbsp; [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting)&nbsp;deep dive.&nbsp;
+>Learn about other interesting reports in the  [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) deep dive. 
 
 >[!NOTE]
 >
 >**Related Articles**
 >
->* [Filter your landing page performance report](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md)&nbsp;by local or global assets.
+>* [Filter your landing page performance report](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) by local or global assets.
 >
 

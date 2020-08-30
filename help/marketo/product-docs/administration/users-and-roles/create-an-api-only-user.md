@@ -19,7 +19,7 @@ If you want to integrate with Marketo via the [REST API](http://developers.marke
 >
 >**Admin Permissions Required**
 
-1. Under **Admin**, click **Users & Roles.**&nbsp;
+1. Under **Admin**, click **Users & Roles.** 
 
    ![](assets/image2014-9-17-9-3a31-3a31.png)
 

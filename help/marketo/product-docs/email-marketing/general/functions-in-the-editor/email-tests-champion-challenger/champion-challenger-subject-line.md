@@ -29,7 +29,7 @@ You can easily test multiple subject lines. When the test is over, send out emai
 
    >[!TIP]
    >
-   >If you want more than one challenger, click&nbsp;the plus sign&nbsp;and enter another subject line.
+   >If you want more than one challenger, click the plus sign and enter another subject line.
 
 1. Drag the slider to decide the percentage split between people who receive the champion subject line versus challenger subject line(s).
 

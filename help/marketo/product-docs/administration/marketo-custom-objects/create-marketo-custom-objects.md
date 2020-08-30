@@ -10,7 +10,7 @@ Use custom objects in Marketo to track metrics specific to your business. This c
 
 >[!NOTE]
 >
->You can set up custom objects to work on a one-to-many or many-to-many basis. You create the initial object the same way, but the steps are different when you start adding fields to the object. See&nbsp; [Understanding Marketo Custom Objects](understanding-marketo-custom-objects.md) for more information.
+>You can set up custom objects to work on a one-to-many or many-to-many basis. You create the initial object the same way, but the steps are different when you start adding fields to the object. See  [Understanding Marketo Custom Objects](understanding-marketo-custom-objects.md) for more information.
 
 >[!NOTE]
 >

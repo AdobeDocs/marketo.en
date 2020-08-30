@@ -16,7 +16,7 @@ List Import Mode is only available for users with a role that has the Advanced L
 
    ![](assets/adminhand-2.png)
 
-1. Click&nbsp;**Users & Roles**.
+1. Click **Users & Roles**.
 
    ![](assets/image2014-9-17-11-3a50-3a38.png)
 
@@ -24,7 +24,7 @@ List Import Mode is only available for users with a role that has the Advanced L
 
    ![](assets/image2014-9-17-11-3a51-3a49.png)
 
-1. Under Access Database, check **Advanced List Import**&nbsp;then click **Save**.
+1. Under Access Database, check **Advanced List Import** then click **Save**.
 
    ![](assets/four-1.png)
 

@@ -44,7 +44,7 @@ You can send engagement content at any interval you want. For example: once a we
 
    >[!TIP]
    >
-   >You can set your cadence to run every day by picking&nbsp;**Repeats: Weekly** /** Every: 1 Week** /** ****On**: all days.
+   >You can set your cadence to run every day by picking **Repeats: Weekly** /** Every: 1 Week** /** ****On**: all days.
 
    Now pick the Time. Check the box if you want to use [Recipient Time Zone](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(i.e., deliver according to local time zones), then click Save.
    ![](assets/image2017-12-5-14-3a20-3a11.png)

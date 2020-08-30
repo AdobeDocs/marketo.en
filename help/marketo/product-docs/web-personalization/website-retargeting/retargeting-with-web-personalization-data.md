@@ -59,7 +59,7 @@ Web Personalization sends the following data through to the remarketing platform
    >
    >The Retargeting Configuration is per domain or subdomain. Activate the other domains if you want to send data from those domains through to the retargeting platform.
 
-1. Activate&nbsp;Settings for&nbsp;Google Analytics&nbsp;or&nbsp;Google Universal Analytics per domain.
+1. Activate Settings for Google Analytics or Google Universal Analytics per domain.
 
    >[!NOTE]
    >

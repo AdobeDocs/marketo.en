@@ -6,7 +6,7 @@ title: Understanding Email Program Cards
 
 # Understanding Email Program Cards {#understanding-email-program-cards}
 
-Use Marketo Moments to view your Email Programs from your phone or iPad. &nbsp;
+Use Marketo Moments to view your Email Programs from your phone or iPad.  
 
 ## Email Program Cards {#email-program-cards}
 

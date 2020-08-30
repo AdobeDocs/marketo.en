@@ -14,7 +14,7 @@ Here's how to create a segment using Known Person Data values.
 >
 >[Manage Person Data](manage-person-data.md)
 
-1. Go to&nbsp;**Segments**.
+1. Go to **Segments**.
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
@@ -26,7 +26,7 @@ Here's how to create a segment using Known Person Data values.
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. In Profile Segmentation, drag **Database&nbsp;**over to the canvas.
+1. In Profile Segmentation, drag **Database **over to the canvas.
 
    ![](assets/four-1.png)
 
@@ -44,7 +44,7 @@ Here's how to create a segment using Known Person Data values.
 
 ## Selecting Multiple Person Data Fields {#selecting-multiple-person-data-fields}
 
-1. Click **+**&nbsp;to add another person data field.
+1. Click **+** to add another person data field.
 
    ![](assets/eight.png)
 

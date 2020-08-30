@@ -8,7 +8,7 @@ title: Create a Segment Using a Static List
 
 Segment known web visitors when they visit your website based on if they're in or not in one of your Marketo [static lists](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists).
 
-1. Go to&nbsp;**Segments**.
+1. Go to **Segments**.
 
    ![](assets/1.jpg)
 

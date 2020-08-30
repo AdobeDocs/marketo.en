@@ -19,7 +19,7 @@ A **Calendar File** token allows you to add a calendar event (.ics) link to your
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
 
-1. Select the **Calendar File**&nbsp;token&nbsp;and click&nbsp;**Insert**.
+1. Select the **Calendar File** token and click **Insert**.
 
    >[!CAUTION]
    >

@@ -10,7 +10,7 @@ The Engagement Dashboard is the easiest way to see how the content in your [enga
 
 >[!NOTE]
 >
->The engagement score is calculated 72 hours after each cast.&nbsp;Learn more about the [engagement score](understanding-the-engagement-score.md).
+>The engagement score is calculated 72 hours after each cast. Learn more about the [engagement score](understanding-the-engagement-score.md).
 
 ##  View the Engagement Dashboard {#view-the-engagement-dashboard}
 
@@ -20,7 +20,7 @@ Select your engagement program and click **View > Dashboard**.
 
 >[!TIP]
 >
->Check out the&nbsp; [engagement stream performance report](engagement-stream-performance-report.md)&nbsp;for more detailed statistics.
+>Check out the  [engagement stream performance report](engagement-stream-performance-report.md) for more detailed statistics.
 
 ## Understand the Exhaustion Widget {#understand-the-exhaustion-widget}
 
@@ -68,5 +68,5 @@ To change the sorting, click the gear icon, then select the sort order.
 >
 >**Deep Dive**
 >
->Learn more in the&nbsp; [Create an Engagement Program](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)&nbsp;deep dive.
+>Learn more in the  [Create an Engagement Program](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) deep dive.
 

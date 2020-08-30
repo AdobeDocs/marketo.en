@@ -54,7 +54,7 @@ Create, update, and clone programs via the REST API. This does not include the c
 
 ## [Microsoft Dynamics Enhancements](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-** [Sync Status](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md):**&nbsp;Keep tabs on the current throughput and backlog of the sync process. Break it down by the count of inserts and updates by object.
+** [Sync Status](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md):** Keep tabs on the current throughput and backlog of the sync process. Break it down by the count of inserts and updates by object.
 
 ![](assets/pending-backog-cropped.png)
 

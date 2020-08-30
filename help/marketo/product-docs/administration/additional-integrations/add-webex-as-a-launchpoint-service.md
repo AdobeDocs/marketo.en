@@ -6,7 +6,7 @@ title: Add WebEx as a LaunchPoint Service
 
 # Add WebEx as a LaunchPoint Service {#add-webex-as-a-launchpoint-service}
 
-Marketo manages&nbsp;your WebEx webinar registration and attendance.
+Marketo manages your WebEx webinar registration and attendance.
 
 >[!NOTE]
 >
@@ -26,27 +26,27 @@ Marketo manages&nbsp;your WebEx webinar registration and attendance.
 >
 >Caution: Do not enter the entire URL in this field; enter the site name only!
 
-1. Go to&nbsp;**Admin** and click&nbsp;**LaunchPoint**.
+1. Go to **Admin** and click **LaunchPoint**.
 
    ![](assets/image2015-4-23-11-3a20-3a43.png)
 
-1. Select&nbsp;**New**&nbsp;and then&nbsp;**New Service**.
+1. Select **New** and then **New Service**.
 
    ![](assets/webex-new-service.png)
 
-1. Enter a&nbsp;**Display Name**.&nbsp;Under&nbsp;**Service**, select **WebEx**.
+1. Enter a **Display Name**. Under **Service**, select **WebEx**.
 
    ![](assets/new-service-webex.png)
 
-1. Enter your&nbsp;**Username**&nbsp;and&nbsp;**Password**.
+1. Enter your **Username** and **Password**.
 
    ![](assets/image2015-4-24-18-3a56-3a56.png)
 
-1. Complete the process by entering your** Site Name**&nbsp;then click&nbsp;**Create**.
+1. Complete the process by entering your** Site Name** then click **Create**.
 
    ![](assets/image2015-4-24-18-3a58-3a43.png)  
 
-1. Phenomenal! Your **WebEx** is now synced with Marketo.&nbsp;
+1. Phenomenal! Your **WebEx** is now synced with Marketo. 
 
    ![](assets/webex.png)
 

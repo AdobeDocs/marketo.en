@@ -87,6 +87,6 @@ Here is an example of what the code should look like (this is only an example, d
 >**Example**
 >
 ><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink=" `http://www.marketo.com`">  
-><a><img&nbsp;style="border:10px&nbsp;solid&nbsp;red;"></a>  
-></div>&nbsp;
+><a><img style="border:10px solid red;"></a>  
+></div> 
 

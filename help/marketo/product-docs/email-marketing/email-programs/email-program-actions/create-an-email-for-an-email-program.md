@@ -14,7 +14,7 @@ title: Create an Email for an Email Program
 >* [Define an Audience with a Smart List](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) or [Define an Audience by Importing a List](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
 
-Once you have created your email program and defined your audience, you'll want to decide what email you're sending. You can&nbsp; [choose an existing email](choose-an-existing-email.md)&nbsp;or create one from scratch. Here's how to create a new email.
+Once you have created your email program and defined your audience, you'll want to decide what email you're sending. You can  [choose an existing email](choose-an-existing-email.md) or create one from scratch. Here's how to create a new email.
 
 1. Go to **Marketing Activities**.
 
@@ -43,7 +43,7 @@ Once you have created your email program and defined your audience, you'll want 
 
    ![](assets/five.png)
 
-Great! Now that we've created an email we want to send, let's&nbsp; [add an A/B test](email-test-a-b-test/add-an-a-b-test.md)&nbsp;or skip straight to&nbsp; [scheduling your email program](schedule-your-email-program.md).
+Great! Now that we've created an email we want to send, let's  [add an A/B test](email-test-a-b-test/add-an-a-b-test.md) or skip straight to  [scheduling your email program](schedule-your-email-program.md).
 
 >[!NOTE]
 >

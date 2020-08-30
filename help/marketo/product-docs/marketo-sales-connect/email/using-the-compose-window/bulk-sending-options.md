@@ -31,7 +31,7 @@ Group Email vs. Select and Send
   <tr> 
    <td><p><span>Group Email</span> </p></td> 
    <td><p><span>1,000</span> </p></td> 
-   <td><p><span>Select a group and click</span><span> the </span><span>“Group Actions” button</span><span>, or type the group name into the To field.&nbsp;</span> </p></td> 
+   <td><p><span>Select a group and click</span><span> the </span><span>“Group Actions” button</span><span>, or type the group name into the To field. </span> </p></td> 
    <td><p><span>Yes</span> </p></td> 
    <td><p><span>No</span> </p></td> 
    <td><p><span>Yes</span> </p></td> 

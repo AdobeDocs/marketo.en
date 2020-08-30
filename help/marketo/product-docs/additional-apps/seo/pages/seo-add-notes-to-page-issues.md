@@ -20,7 +20,7 @@ Did you know you can add notes to page issues as personal reminders or team mess
 
 ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-3. Hover over the issue you'd like to add a note to. Click&nbsp;ADD STICKY&nbsp;NOTE.&nbsp;
+3. Hover over the issue you'd like to add a note to. Click ADD STICKY NOTE. 
 
 ![](assets/image2014-9-18-13-3a12-3a6.png)
 
@@ -30,7 +30,7 @@ Did you know you can add notes to page issues as personal reminders or team mess
 
 >[!TIP]
 >
->You can delete your note by clicking the small x in the upper left hand corner.&nbsp;
+>You can delete your note by clicking the small x in the upper left hand corner. 
 
 ## Add Notes in Page Detail Drill Down {#add-notes-in-page-detail-drill-down}
 

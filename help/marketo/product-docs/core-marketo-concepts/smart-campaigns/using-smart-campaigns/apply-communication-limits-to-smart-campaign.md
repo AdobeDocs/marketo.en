@@ -33,6 +33,6 @@ It's not a good idea to email someone multiple times a day or too many times in 
 
 >[!TIP]
 >
->To make this the default, edit your&nbsp; [communication limits](../../../../product-docs/administration/email-setup/enable-communication-limits.md)&nbsp;in the Admin section.
+>To make this the default, edit your  [communication limits](../../../../product-docs/administration/email-setup/enable-communication-limits.md) in the Admin section.
 
 Sweet. Now you can be assured you aren't accidentally sending too many emails to your audience. 

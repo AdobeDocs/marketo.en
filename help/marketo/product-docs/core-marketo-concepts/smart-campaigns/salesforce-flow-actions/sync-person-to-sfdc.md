@@ -30,7 +30,7 @@ This flow step will insert Marketo-created people as leads into your Salesforce 
 
    >[!TIP]
    >
-   >Salesforce requires that the person has Company and&nbsp;Last Name fields filled out.&nbsp;Otherwise, it will reject the lead record.
+   >Salesforce requires that the person has Company and Last Name fields filled out. Otherwise, it will reject the lead record.
 
 1. You can set a specific Salesforce user or lead queue as the lead owner.
 

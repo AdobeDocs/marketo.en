@@ -6,7 +6,7 @@ title: Send a Sample Email
 
 # Send a Sample Email {#send-a-sample-email}
 
-It's quick and easy to send samples of an email. To send a dynamic content email, see&nbsp; [Preview an Email with Dynamic Content](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
+It's quick and easy to send samples of an email. To send a dynamic content email, see  [Preview an Email with Dynamic Content](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >

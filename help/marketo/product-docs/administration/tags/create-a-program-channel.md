@@ -16,7 +16,7 @@ A program is one specific marketing initiative. The channel is intended to be th
 >
 >**Deep Dive**
 >
->Learn more about&nbsp; [programs](http://docs.marketo.com/display/docs/programs), the most important element in Marketo.
+>Learn more about  [programs](http://docs.marketo.com/display/docs/programs), the most important element in Marketo.
 
 1. Under the **Admin** section, click **Tags**.
 
@@ -65,7 +65,7 @@ A program is one specific marketing initiative. The channel is intended to be th
 
    >[!NOTE]
    >
-   >Apply to what? There are several types of programs. Match the channel to the right type. If in doubt, choose&nbsp;**Default**.
+   >Apply to what? There are several types of programs. Match the channel to the right type. If in doubt, choose **Default**.
 
    >[!NOTE]
    >
@@ -80,7 +80,7 @@ A program is one specific marketing initiative. The channel is intended to be th
 
    >[!TIP]
    >
-   >The&nbsp;**Step**&nbsp;number is used for sorting of program statuses. Keep in mind that people cannot go backwards in these progression steps. They can only change status to a higher or equal value status. Use the equal values when statuses are intended to switch back and forth as opposed to a progression.
+   >The **Step** number is used for sorting of program statuses. Keep in mind that people cannot go backwards in these progression steps. They can only change status to a higher or equal value status. Use the equal values when statuses are intended to switch back and forth as opposed to a progression.
 
 1. Enter the last program **Status** and **Step** number.
 
@@ -100,14 +100,14 @@ A program is one specific marketing initiative. The channel is intended to be th
 
    >[!NOTE]
    >
-   >**Mobile Check-in Status****&nbsp;**options will only be available if the channel will be for event programs.
+   >**Mobile Check-in Status**** **options will only be available if the channel will be for event programs.
 
    >[!NOTE]
    >
    >**Reminder**
    >
    >
-   >Only people with a&nbsp;**Mobile Check-in Status****&nbsp;**of&nbsp;**Registered**&nbsp;and&nbsp;**Attended**&nbsp;will be visible in the&nbsp; [Mobile Check-in Apps](http://docs.marketo.com/display/docs/events).
+   >Only people with a **Mobile Check-in Status**** **of **Registered** and **Attended** will be visible in the  [Mobile Check-in Apps](http://docs.marketo.com/display/docs/events).
 
    >[!TIP]
    >

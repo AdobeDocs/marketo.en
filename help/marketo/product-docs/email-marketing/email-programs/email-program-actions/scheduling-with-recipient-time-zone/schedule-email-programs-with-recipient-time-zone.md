@@ -47,9 +47,9 @@ Let's consider this scenario in more detail. Say you're in San Francisco, schedu
 
 9:00am has already passed in New York and Italy, so qualified people in these two time zones will receive the email based on the **Time Zone Settings**:
 
-* **Deliver the following day in recipient’s time zone:**&nbsp;Wednesday at 9:00am in their respective time zones, **OR**
+* **Deliver the following day in recipient’s time zone:** Wednesday at 9:00am in their respective time zones, **OR**
 
-* **Deliver using the program's default set time**:&nbsp;Tuesday at 9:00am PDT (New York - 12:00pm EDT and Italy - 6:00pm CET).
+* **Deliver using the program's default set time**: Tuesday at 9:00am PDT (New York - 12:00pm EDT and Italy - 6:00pm CET).
 
 Once you approve your program, it starts running within 15 minutes.
 

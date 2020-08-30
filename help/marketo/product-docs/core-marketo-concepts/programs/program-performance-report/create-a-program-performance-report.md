@@ -16,7 +16,7 @@ See great stats on your programs with this report.
 
 >[!TIP]
 >
->To find the programs with the lowest&nbsp;*Cost per Success*, for example,&nbsp; [sort your report](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)&nbsp;on that column and choose&nbsp;**Sort Ascending**.&nbsp;
+>To find the programs with the lowest *Cost per Success*, for example,  [sort your report](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) on that column and choose **Sort Ascending**. 
 
 Columns in a Program Performance report include:
 

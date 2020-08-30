@@ -77,7 +77,7 @@ Measures that can be taken outside of the actual website in order to improve its
 >
 >**Example**
 >
->Increasing the number of inbound links from high-quality and reputable sites.&nbsp;
+>Increasing the number of inbound links from high-quality and reputable sites. 
 
 See, that wasn't so bad.  
 

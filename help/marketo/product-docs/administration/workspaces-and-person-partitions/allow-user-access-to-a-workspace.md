@@ -6,7 +6,7 @@ title: Allow User Access to a Workspace
 
 # Allow User Access to a Workspace {#allow-user-access-to-a-workspace}
 
-Workspaces can be for any reason (such as business unit or&nbsp;geography separation). They separate the assets (smart lists, programs, etc.) of each team. Here's how to give a user access to one or more workspaces.
+Workspaces can be for any reason (such as business unit or geography separation). They separate the assets (smart lists, programs, etc.) of each team. Here's how to give a user access to one or more workspaces.
 
 >[!NOTE]
 >
@@ -16,9 +16,9 @@ Workspaces can be for any reason (such as business unit or&nbsp;geography separa
 >
 >**Deep Dive**
 >
->Learn more about&nbsp; [workspaces](understanding-workspaces-and-person-partitions.md).
+>Learn more about  [workspaces](understanding-workspaces-and-person-partitions.md).
 
-1. Under&nbsp;Admin, click&nbsp;Users & Roles.
+1. Under Admin, click Users & Roles.
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 

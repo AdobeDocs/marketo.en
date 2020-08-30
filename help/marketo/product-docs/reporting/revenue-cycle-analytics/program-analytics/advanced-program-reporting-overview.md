@@ -30,9 +30,9 @@ Analysis areas each contain different data sets and metrics within Revenue Explo
 
 ## Program Analyzers {#program-analyzers}
 
-* **Program Analyzer**&nbsp;- Quickly identify programs that are successful or not, and focus your resources appropriately.
+* **Program Analyzer** - Quickly identify programs that are successful or not, and focus your resources appropriately.
 
-* **Opportunity Influence Analyzer**&nbsp;- Prove Marketing's contribution by measuring the impact of programs and key engagements that generated opportunities.
+* **Opportunity Influence Analyzer** - Prove Marketing's contribution by measuring the impact of programs and key engagements that generated opportunities.
 
 ## Report Options {#report-options}
 

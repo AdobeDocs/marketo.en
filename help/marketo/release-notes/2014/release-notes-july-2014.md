@@ -49,7 +49,7 @@ We’ve added the calls below related to list operations in ReST. See [developer
 
 ## Fast List Import {#fast-list-import}
 
-Over **50x faster**, your files will zoom into Marketo! The old “Normal” and “Optimized for New Leads” import options have been replaced with “Default (Fast Import)”.&nbsp;
+Over **50x faster**, your files will zoom into Marketo! The old “Normal” and “Optimized for New Leads” import options have been replaced with “Default (Fast Import)”. 
 
 The “Skip New Leads and Updates” option remains unchanged.
 

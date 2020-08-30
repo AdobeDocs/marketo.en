@@ -38,7 +38,7 @@ Allow your visitors to fill out the form using their social network. You automat
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Click&nbsp;**Approve and Close**. 
+1. Click **Approve and Close**. 
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

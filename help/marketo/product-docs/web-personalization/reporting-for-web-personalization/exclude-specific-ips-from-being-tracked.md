@@ -14,7 +14,7 @@ You can exclude individual IPs and all or part of a range of IPs.
 >
 >This process can take up to five minutes to complete.
 
-1. Log into Web Personalization and under your login, click&nbsp;**Account Settings**.
+1. Log into Web Personalization and under your login, click **Account Settings**.
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 

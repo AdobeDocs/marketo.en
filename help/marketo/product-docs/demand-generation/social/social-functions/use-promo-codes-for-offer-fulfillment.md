@@ -6,7 +6,7 @@ title: Use Promo Codes for Offer Fulfillment
 
 # Use Promo Codes for Offer Fulfillment {#use-promo-codes-for-offer-fulfillment}
 
-When you create a referral offer&nbsp;or a sweepstakes, you can send a promo (coupon) code to each winner. To redeem their reward, they use the code, for example, on the checkout page of a purchase on your site.
+When you create a referral offer or a sweepstakes, you can send a promo (coupon) code to each winner. To redeem their reward, they use the code, for example, on the checkout page of a purchase on your site.
 
 ### Upload Promo Codes {#upload-promo-codes}
 
@@ -47,7 +47,7 @@ Once participants start earning your offer reward, you can see which promo codes
 
 >[!NOTE]
 >
->Only Marketo users with&nbsp;*Access Awards*&nbsp;permission have access to this information. See&nbsp; [Managing User Roles and Permissions](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Only Marketo users with *Access Awards* permission have access to this information. See  [Managing User Roles and Permissions](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 1. Go to **Marketing Activities**.
 

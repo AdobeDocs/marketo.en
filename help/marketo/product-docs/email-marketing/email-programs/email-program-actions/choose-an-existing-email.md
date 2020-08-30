@@ -14,7 +14,7 @@ title: Choose an Existing Email
 >* [Define an Audience with a Smart List](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) or [Define an Audience by Importing a List](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
 
-Once you've [created an email program](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)&nbsp;and defined your audience, you will want to decide what email you're sending. You can&nbsp; [create an email for an email program](create-an-email-for-an-email-program.md)&nbsp;from scratch or pick one that already exists. Here's how to pick one that already exists.
+Once you've [created an email program](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) and defined your audience, you will want to decide what email you're sending. You can  [create an email for an email program](create-an-email-for-an-email-program.md) from scratch or pick one that already exists. Here's how to pick one that already exists.
 
 1. Go to **Marketing Activities**.
 

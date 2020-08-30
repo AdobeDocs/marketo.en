@@ -34,7 +34,7 @@ No-Draft is automatically enabled for all Administrator roles. An admin can then
 
    ![](assets/expandsnippet.png)
 
-1. Expand the **Approve Snippet** permission and check the **No-Draft** box.&nbsp;Then click **Save**.
+1. Expand the **Approve Snippet** permission and check the **No-Draft** box. Then click **Save**.
 
    ![](assets/2017-06-15-10-35-04.png)
 

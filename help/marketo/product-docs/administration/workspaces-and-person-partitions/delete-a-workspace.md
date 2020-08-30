@@ -26,7 +26,7 @@ title: Delete a Workspace
 >
 >**Reminder**
 >
->IMPORTANT:&nbsp;Don't forget, all assets under the workspace must be deleted first.
+>IMPORTANT: Don't forget, all assets under the workspace must be deleted first.
 
 3. Click Delete to confirm.
 

@@ -22,7 +22,7 @@ You can either remove or archive a piece of content. Unlike removing stream cont
 
    >[!CAUTION]
    >
-   >Remove content only if you don't care about history. If you want to preserve history,&nbsp; [archive](archive-and-unarchive-stream-content.md)&nbsp;it instead.
+   >Remove content only if you don't care about history. If you want to preserve history,  [archive](archive-and-unarchive-stream-content.md) it instead.
 
    That's it! Now you know how to remove a piece of content.
 

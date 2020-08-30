@@ -22,7 +22,7 @@ Tap an Analytics card to show:
 * A month-over month comparison
 * A bar chart of the most or top three (depending on the card)
 
-For example, let's take a look at the details for the Acquired Leads Analytics card:&nbsp;
+For example, let's take a look at the details for the Acquired Leads Analytics card: 
 
 ![](assets/image2015-7-6-14-3a5-3a25.png)
 
@@ -30,7 +30,7 @@ In this example, red indicates the value has decreased over the selected date ra
 
 ## Acquired Leads {#acquired-leads}
 
-The **Acquired Leads **card shows you a trending month-over-month report of the number of new leads.&nbsp;
+The **Acquired Leads **card shows you a trending month-over-month report of the number of new leads. 
 
 >[!NOTE]
 >
@@ -46,7 +46,7 @@ The **New Leads** card shows you a trending month-over-month report of the total
 
 ## Unsubscribes {#unsubscribes}
 
-The **Unsubscribes** card shows you a month-over-month trending report of your unsubscribe rate over the last six months.&nbsp;
+The **Unsubscribes** card shows you a month-over-month trending report of your unsubscribe rate over the last six months. 
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
@@ -61,4 +61,4 @@ Now you know.
 >* [Understanding Email Program Cards](understanding-email-program-cards.md)
 >
 
-Fun fact: The first email ever sent was by Ray Tomlinson to himself in 1971.&nbsp; 
+Fun fact: The first email ever sent was by Ray Tomlinson to himself in 1971.  

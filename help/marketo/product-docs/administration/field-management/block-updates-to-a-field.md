@@ -12,11 +12,11 @@ Blocking updates to a field allows you to write to the field once and then retai
 >
 >**Admin Permissions Required**
 
-1. Go to&nbsp;**Admin** and click **Field Management**.
+1. Go to **Admin** and click **Field Management**.
 
    ![](assets/image2014-9-24-13-3a54-3a40.png)
 
-1. Find the field, select it, then under&nbsp;**Field Actions**,&nbsp;click **Block Field Updates**.
+1. Find the field, select it, then under **Field Actions**, click **Block Field Updates**.
 
    ![](assets/two-1.png)
 

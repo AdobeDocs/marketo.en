@@ -13,7 +13,7 @@ title: Use Tokens in Flow Steps
 >* [Add a Flow Step to a Smart Campaign](add-a-flow-step-to-a-smart-campaign.md)
 >
 
-A token is a variable. You use it in&nbsp; [emails](https://docs.marketo.com/pages/viewpage.action?pageId=557076),&nbsp; [landing pages](https://docs.marketo.com/pages/viewpage.action?pageId=2359689),&nbsp;and&nbsp; [smart campaigns](https://docs.marketo.com/display/DOCS/Smart+Lists+and+Lists)&nbsp;to make your life easier. You can use&nbsp; [My Tokens](../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)&nbsp;(custom tokens) in flow steps, webhooks, emails, and landing pages.  You can use tokens to include variable content in these flow steps:
+A token is a variable. You use it in  [emails](https://docs.marketo.com/pages/viewpage.action?pageId=557076),  [landing pages](https://docs.marketo.com/pages/viewpage.action?pageId=2359689), and  [smart campaigns](https://docs.marketo.com/display/DOCS/Smart+Lists+and+Lists) to make your life easier. You can use  [My Tokens](../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (custom tokens) in flow steps, webhooks, emails, and landing pages.  You can use tokens to include variable content in these flow steps:
 
 * Change Data Value
 * Interesting Moment

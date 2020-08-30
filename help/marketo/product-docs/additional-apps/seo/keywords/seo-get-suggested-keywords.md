@@ -12,7 +12,7 @@ Marketo SEO can suggest which keywords you should be tracking. We can give sugge
 
 #### Get Keyword Suggestions Using a Keyword {#get-keyword-suggestions-using-a-keyword}
 
-1. Go to the **Keywords**&nbsp;section.
+1. Go to the **Keywords** section.
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
@@ -26,7 +26,7 @@ Marketo SEO can suggest which keywords you should be tracking. We can give sugge
 
    >[!TIP]
    >
-   >Did you know you can&nbsp; [add your keyword to a new or existing list](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)&nbsp;right here?
+   >Did you know you can  [add your keyword to a new or existing list](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) right here?
 
 1. Select suggested keyword(s). Click **ADD SELECTED**.
 
@@ -48,7 +48,7 @@ Marketo SEO can suggest which keywords you should be tracking. We can give sugge
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. Set **Suggest by**&nbsp;to **URL**.
+1. Set **Suggest by** to **URL**.
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 

@@ -22,7 +22,7 @@ Sometimes you don't want to enable the **Marketo** **Tracking** **URL** on a lin
 
    ![](assets/two-6.png)
 
-1. Click the link in question, then click the&nbsp;**Insert/Edit Link**&nbsp;button.
+1. Click the link in question, then click the **Insert/Edit Link** button.
 
    ![](assets/three-6.png)
 
@@ -38,7 +38,7 @@ Sometimes you don't want to enable the **Marketo** **Tracking** **URL** on a lin
    >
    >Unchecking just **Include mkt_tok** will still allow the link to be tracked, but after redirect, the destination URL will not include the mkt_tok query string parameter. This parameter is used by Marketo Landing Pages and Munchkin to ensure proper tracking of person activities (like when a person unsubscribes from an email). You should avoid using this feature unless you're seeing weird behavior on your website due to the parameter being present.
 
-1. Click&nbsp;**Save**.
+1. Click **Save**.
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 
@@ -48,4 +48,4 @@ Sometimes you don't want to enable the **Marketo** **Tracking** **URL** on a lin
    ><a class="mktNoTrack" href=" `http://www.mywebsite.com">This` link does not have tracking</a>  
    >If you need help implementing this, please consult your web developer.
 
-Nice! You have now disabled tracking for a link.&nbsp;
+Nice! You have now disabled tracking for a link. 

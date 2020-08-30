@@ -6,7 +6,7 @@ title: Set Google AdWords Conversions in the Revenue Model with a Manager Accoun
 
 # Set Google AdWords Conversions in the Revenue Model with a Manager Account {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
 
-Link your Google AdWords account to Marketo to automatically upload offline conversion data from Marketo to Google AdWords. Then, from the AdWords UI, you will be able to easily see which clicks resulted in qualified leads, opportunities and new customers (or whatever revenue stages you want to track)&nbsp;after you&nbsp; [add custom columns](https://support.google.com/adwords/answer/3073556) &nbsp;in AdWords.
+Link your Google AdWords account to Marketo to automatically upload offline conversion data from Marketo to Google AdWords. Then, from the AdWords UI, you will be able to easily see which clicks resulted in qualified leads, opportunities and new customers (or whatever revenue stages you want to track) after you  [add custom columns](https://support.google.com/adwords/answer/3073556)  in AdWords.
 
 If you have multiple Google Adwords accounts, you can use a [Google AdWords Manager Account](https://www.google.com/adwords/manager-accounts/) (formerly known as My Client Center) to integrate them with Marketo.
 

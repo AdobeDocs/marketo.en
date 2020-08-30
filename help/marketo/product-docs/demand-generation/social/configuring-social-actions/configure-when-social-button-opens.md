@@ -33,5 +33,5 @@ When you create a [social button](../../../../product-docs/demand-generation/lan
    >**Related Articles**
    >
    >
-   >After the person has shared, you can request their email address or present a confirmation message.&nbsp;Learn how to [configure the after-share prompts](configure-after-share-prompts.md).
+   >After the person has shared, you can request their email address or present a confirmation message. Learn how to [configure the after-share prompts](configure-after-share-prompts.md).
 

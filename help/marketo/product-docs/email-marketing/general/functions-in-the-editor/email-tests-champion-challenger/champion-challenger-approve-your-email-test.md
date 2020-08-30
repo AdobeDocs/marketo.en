@@ -28,7 +28,7 @@ The final step in setting up your email test to approve it. Here's how.
    >**Reminder**
    >
    >
-   >When approving a&nbsp;**Whole Email****&nbsp;**test, approve the challenger email first.
+   >When approving a **Whole Email**** **test, approve the challenger email first.
 
    >[!NOTE]
    >

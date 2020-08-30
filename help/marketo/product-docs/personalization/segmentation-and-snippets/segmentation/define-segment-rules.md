@@ -38,7 +38,7 @@ Defining Segment Rules allows you to categorize your people into different mutua
 
    >[!NOTE]
    >
-   >The "SFDC Type" and "Microsoft Type" filters are currently not supported in segmentation smart&nbsp;lists.
+   >The "SFDC Type" and "Microsoft Type" filters are currently not supported in segmentation smart lists.
 
 1. Fill appropriate values for the filters.
 

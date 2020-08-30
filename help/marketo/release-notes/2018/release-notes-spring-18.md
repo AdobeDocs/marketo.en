@@ -18,7 +18,7 @@ Please click the title links to view detailed articles for each feature. Note: S
 >
 >Sales Engage is an add-on product. Please contact your Marketo Customer Success Manager or Account Executive for a quote.
 
-Drive more pipeline and revenue by empowering sales with the intelligence, content, playbooks, and analytics to convert more of your leads into sales opportunities. Sales Engage&nbsp;provides sales and marketing with a unified platform for engagement across the customer journey and enables better coordination through a shared view of customer touchpoints.
+Drive more pipeline and revenue by empowering sales with the intelligence, content, playbooks, and analytics to convert more of your leads into sales opportunities. Sales Engage provides sales and marketing with a unified platform for engagement across the customer journey and enables better coordination through a shared view of customer touchpoints.
 
 **ToutApp**
 

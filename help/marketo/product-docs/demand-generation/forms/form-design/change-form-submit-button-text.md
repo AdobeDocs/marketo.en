@@ -22,7 +22,7 @@ You can quickly and easily change a forms button from "Submit" to any other word
 
    >[!TIP]
    >
-   >Notice you can also change the&nbsp;Waiting Label. This displays after the button is clicked and before the form submit action is finished.
+   >Notice you can also change the Waiting Label. This displays after the button is clicked and before the form submit action is finished.
 
 1. Click **Finish**.
 

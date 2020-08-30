@@ -16,7 +16,7 @@ Sales emails automatically put the unsubscribe footer at the bottom. However, yo
 >
 >**Definition**
 >
->**Sales emails**&nbsp;are those sent from Sales Insight. (It does not include those sent from the Marketo Outlook Plugin.)
+>**Sales emails** are those sent from Sales Insight. (It does not include those sent from the Marketo Outlook Plugin.)
 
 1. Go to the **Admin** area.
 
@@ -57,5 +57,5 @@ Whew! A little complicated, but pretty flexible, right?
 >
 >**Deep Dive**
 >
->Learn more about&nbsp; [Marketo Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight).
+>Learn more about  [Marketo Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight).
 

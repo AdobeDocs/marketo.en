@@ -6,7 +6,7 @@ title: Step 1 of 3: Install the Marketo Solution (2011 On-Premises)
 
 # Step 1 of 3: Install the Marketo Solution (2011 On-Premises) {#step-of-install-the-marketo-solution-on-premises}
 
-Before you can sync Microsoft Dynamics On-Premises and Marketo, you need to first install the Marketo solution in Dynamics.&nbsp;
+Before you can sync Microsoft Dynamics On-Premises and Marketo, you need to first install the Marketo solution in Dynamics. 
 
 >[!NOTE]
 >

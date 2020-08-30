@@ -16,7 +16,7 @@ You can use the Wait flow step to pause a person's journey through a smart campa
 
 >[!NOTE]
 >
->This only applies to trigger campaigns. You cannot use this feature in batch campaigns.&nbsp;
+>This only applies to trigger campaigns. You cannot use this feature in batch campaigns. 
 
 1. In your smart campaign **Flow** tab, drag over the **Wait** flow step.
 
@@ -53,9 +53,9 @@ You can use the Wait flow step to pause a person's journey through a smart campa
 
    >[!NOTE]
    >
-   >You can also specify the number of days using a {{lead. or {{company. token that represents an integer field, &nbsp;or a {{my. token of number type.
+   >You can also specify the number of days using a {{lead. or {{company. token that represents an integer field,  or a {{my. token of number type.
 
-   Click Save.&nbsp;
+   Click Save. 
    ![](assets/image2014-9-22-14-3a11-3a3.png)
 
    >[!NOTE]

@@ -14,7 +14,7 @@ The **SMS Progression** graph displays total sent and total delivered. The amoun
 
 ![](assets/sms-progression-hand-border.png)
 
-The **Summary** graph shows the calculated Bounce Rate as a percentage. Hover over the arching bar to view&nbsp;the delivery rate by amount and percentage. Hover over the orange Bounce Rate section of the bar to view the Soft Bounce Rate and Hard Bounce Rate amounts and percentages.
+The **Summary** graph shows the calculated Bounce Rate as a percentage. Hover over the arching bar to view the delivery rate by amount and percentage. Hover over the orange Bounce Rate section of the bar to view the Soft Bounce Rate and Hard Bounce Rate amounts and percentages.
 
 ![](assets/hover-over-summary-hands-thin-border.png)
 

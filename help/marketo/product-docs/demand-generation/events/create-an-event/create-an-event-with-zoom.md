@@ -15,9 +15,9 @@ title: Create an Event with Zoom
 >* Set the appropriate [flow actions](http://docs.marketo.com/display/DOCS/Flow+Actions)to track engagement
 >
 
-First create your webinar in Zoom. Certain settings in the creation of your Zoom are used by Marketo, and some are only used by Zoom.&nbsp;
+First create your webinar in Zoom. Certain settings in the creation of your Zoom are used by Marketo, and some are only used by Zoom. 
 
-After you create a Marketo event and associate a Zoom webinar with it, the systems will be able to share registration and attendance information. For help creating a webinar, see&nbsp; [Getting Started with Zoom Webinars](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar).
+After you create a Marketo event and associate a Zoom webinar with it, the systems will be able to share registration and attendance information. For help creating a webinar, see  [Getting Started with Zoom Webinars](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar).
 
 Enter the following information for your webinar and it will be pulled into Marketo via the adapter. If you make any changes to this information, you must click the link “Refresh from Webinar Provider” under Event Actions, in order for Marketo to see the changes.
 
@@ -79,7 +79,7 @@ Now, let's jump into Marketo!
 
    >[!TIP]
    >
-   >To populate your confirmation email with this unique URL, use the following token in your email: {{member.webinar url}}. When the confirmation URL is sent out, this token automatically resolves to the person's unique confirmation URL.&nbsp;
+   >To populate your confirmation email with this unique URL, use the following token in your email: {{member.webinar url}}. When the confirmation URL is sent out, this token automatically resolves to the person's unique confirmation URL. 
    >
    >
    >Set your confirmation email to **Operational** to ensure that people who register and may be unsubscribed still receive their confirmation information.

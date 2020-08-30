@@ -22,9 +22,9 @@ You can change the label on a form to anything - you can even use an image or er
 
    >[!TIP]
    >
-   >If you want to get fancy, you can click on the &nbsp; ![](assets/image2014-9-15-17-3a27-3a7.png)   >
+   >If you want to get fancy, you can click on the   ![](assets/image2014-9-15-17-3a27-3a7.png)   >
    >
-   >&nbsp;. This will open a rich text editor and allow you to go to town with images, links, and more!
+   > . This will open a rich text editor and allow you to go to town with images, links, and more!
 
 1. Click **Finish**.
 
@@ -38,7 +38,7 @@ You can change the label on a form to anything - you can even use an image or er
 >
 >**Reminder**
 >
->Don't forget to&nbsp; [approve the landing page draft](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)&nbsp;created by the form changes.
+>Don't forget to  [approve the landing page draft](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) created by the form changes.
 
 There you have it! Little by little you are becoming a form designer champion.
 

@@ -14,7 +14,7 @@ You can edit these columns directly in the Subscriptions tab, which appears in M
 * End Delivery
 * Format
 
-1. Select **Database**&nbsp;(we're using it in this example, but Marketing Activities works exactly the same).
+1. Select **Database** (we're using it in this example, but Marketing Activities works exactly the same).
 
    ![](assets/db-1.png)
 

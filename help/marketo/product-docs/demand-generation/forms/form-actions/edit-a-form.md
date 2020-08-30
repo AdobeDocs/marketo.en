@@ -20,5 +20,5 @@ If you want to make any changes to an existing form, here's how to get the proce
 >
 >**Deep Dive**
 >
->Learn more about editing and customizing&nbsp; [forms](http://docs.marketo.com/display/docs/forms) here.
+>Learn more about editing and customizing  [forms](http://docs.marketo.com/display/docs/forms) here.
 

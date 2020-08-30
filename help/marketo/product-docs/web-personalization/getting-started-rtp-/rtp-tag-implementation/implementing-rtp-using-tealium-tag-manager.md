@@ -35,7 +35,7 @@ To implement your RTP tag please follow the installation instructions below.
    >**Important Steps**
    >
    >
-   >Remove the <!-- RTP tag --> &nbsp;and <!-- End of RTP tag --> tags from the code you place in this file.
+   >Remove the <!-- RTP tag -->  and <!-- End of RTP tag --> tags from the code you place in this file.
    >
    >
    >Remove any <script type='text/javascript'> and </script> tags from the code you place in this file.

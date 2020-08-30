@@ -6,7 +6,7 @@ title: Add Your Privacy Policy to a Social App
 
 # Add Your Privacy Policy to a Social App {#add-your-privacy-policy-to-a-social-app}
 
-When you create a&nbsp; [social app](http://docs.marketo.com/display/docs/social), you can add a link to your company’s privacy policy.
+When you create a  [social app](http://docs.marketo.com/display/docs/social), you can add a link to your company’s privacy policy.
 
 1. Go to **Marketing Activities**.
 

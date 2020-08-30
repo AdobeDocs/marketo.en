@@ -12,7 +12,7 @@ You can customize your email preferences to determine when you'll be updated abo
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
-1. Indicate what you'd like to be alerted about via email.&nbsp;
+1. Indicate what you'd like to be alerted about via email. 
 
    ![](assets/image2014-9-17-21-3a23-3a33.png)
 

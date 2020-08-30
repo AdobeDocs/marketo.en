@@ -12,7 +12,7 @@ title: Define an Audience by Importing a List
 >
 >[Create an Email for an Email Program](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Once you've created an email program, you'll want to tell it who to send the email to. You can do this by&nbsp; [creating a smart list](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)&nbsp;or by importing a list. Here's how to accomplish this by importing a list. 
+Once you've created an email program, you'll want to tell it who to send the email to. You can do this by  [creating a smart list](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) or by importing a list. Here's how to accomplish this by importing a list. 
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ Once you've created an email program, you'll want to tell it who to send the ema
 
    ![](assets/login-marketing-activities-1.png)
 
-   Select your email program and then click&nbsp;Import List&nbsp;under the&nbsp;Audience&nbsp;tile.
+   Select your email program and then click Import List under the Audience tile.
    ![](assets/importlist.png)
 
 1. The list import window opens, click on **Browse** and select the file you want to import. Once you have selected your list of people, click Next.
@@ -32,7 +32,7 @@ Once you've created an email program, you'll want to tell it who to send the ema
 
    >[!CAUTION]
    >
-   >Make sure the list is encoded UTF-8,&nbsp;UTF-16, Shift-JIS, or EUC-JP, and does not exceed 50MB in file size.
+   >Make sure the list is encoded UTF-8, UTF-16, Shift-JIS, or EUC-JP, and does not exceed 50MB in file size.
 
    Verify that the fields in your file are mapped correctly and click Next.
    ![](assets/image2014-9-12-11-3a10-3a7.png)

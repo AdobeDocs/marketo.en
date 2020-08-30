@@ -20,7 +20,7 @@ In this example, let's find all people in California with a score over 50.
 >
 >Explore the tree on the right - filters are very powerful and have a wide variety of possible functions.
 
-1. Go to&nbsp;**Marketing Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/ma.png)  
 

@@ -47,7 +47,7 @@ You can see detailed program and channel stats in the Program Analyzer. You can 
 
    >[!NOTE]
    >
-   >Clicking a single channel switches your view to By Program, filtered to just that channel. To return to all channels, select&nbsp;**View** > **By Channel**.
+   >Clicking a single channel switches your view to By Program, filtered to just that channel. To return to all channels, select **View** > **By Channel**.
 
 1. To open the Revenue Cycle Explorer to dig even deeper into a statistic, click that number in the pop-up dialog.
 
@@ -58,5 +58,5 @@ You can see detailed program and channel stats in the Program Analyzer. You can 
    >**Deep Dive**
    >
    >
-   >Learn more about advanced analytics in&nbsp; [Revenue Explorer](http://docs.marketo.com/display/docs/revenue+explorer).
+   >Learn more about advanced analytics in  [Revenue Explorer](http://docs.marketo.com/display/docs/revenue+explorer).
 

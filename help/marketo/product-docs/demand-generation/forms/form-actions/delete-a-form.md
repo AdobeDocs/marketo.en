@@ -37,5 +37,5 @@ If you have a form that you don't need and is not being used, you can delete it.
 
 >[!CAUTION]
 >
->If you delete a form that is being used by your public website, you won't see a warning and the form will be broken. Consider&nbsp; [archiving it](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)&nbsp;instead.
+>If you delete a form that is being used by your public website, you won't see a warning and the form will be broken. Consider  [archiving it](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) instead.
 

@@ -92,4 +92,4 @@ title: Create, Delete, Edit and Change a User Role
 >
 >If you leave multiple roles selected, Marketo will default to the most restrictive permission.
 
-Awesome, now you are really are on a roll! &nbsp;(Get it?) 
+Awesome, now you are really are on a roll!  (Get it?) 

@@ -26,7 +26,7 @@ Focus your [program performance report](create-a-program-performance-report.md) 
 
    >[!TIP]
    >
-   >If you select a folder, your report will include everything that folder contains at the time the report runs.&nbsp;
+   >If you select a folder, your report will include everything that folder contains at the time the report runs. 
 
 1. That's all! Click the **Report** tab to see *just* the selected programs in your report.
 
@@ -47,5 +47,5 @@ Focus your [program performance report](create-a-program-performance-report.md) 
    >**Deep Dive**
    >
    >
-   >Learn all about reports in&nbsp; [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Learn all about reports in  [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 

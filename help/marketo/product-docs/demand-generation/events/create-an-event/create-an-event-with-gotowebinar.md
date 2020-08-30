@@ -15,9 +15,9 @@ title: Create an Event with GotoWebinar
 >* Set the appropriate [flow actions](http://docs.marketo.com/display/DOCS/Flow+Actions)to track engagement
 >
 
-First create your webinar in GoToWebinar. Certain settings in the creation of your GoToWebinar are used by Marketo and some are only used by GoToWebinar.&nbsp;
+First create your webinar in GoToWebinar. Certain settings in the creation of your GoToWebinar are used by Marketo and some are only used by GoToWebinar. 
 
-After you create a Marketo event and associate the GoToWebinar with it, the systems will be able to share registration and attendance information. For help creating a GoToWebinar, see the&nbsp; [GoToWebinar User Guide](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf).
+After you create a Marketo event and associate the GoToWebinar with it, the systems will be able to share registration and attendance information. For help creating a GoToWebinar, see the  [GoToWebinar User Guide](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf).
 
 Below is a list of the settings used by Marketo.
 
@@ -88,7 +88,7 @@ Now, let's jump into Marketo!
 
    >[!TIP]
    >
-   >To populate your confirmation email with this unique URL, use the following token in your email: {{member.webinar url}}. When the confirmation URL is sent out, this token automatically resolves to the person's unique confirmation URL.&nbsp;
+   >To populate your confirmation email with this unique URL, use the following token in your email: {{member.webinar url}}. When the confirmation URL is sent out, this token automatically resolves to the person's unique confirmation URL. 
    >
    >
    >Set your confirmation email to **Operational** to ensure that people who register and may be unsubscribed still receive their confirmation information.

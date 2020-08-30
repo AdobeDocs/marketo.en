@@ -10,7 +10,7 @@ You can see a lot of information about your pages using the page detail drill do
 
 ## Find Page Drill Down {#find-page-drill-down}
 
-1. Go to the&nbsp;Pages&nbsp;section.&nbsp;
+1. Go to the Pages section. 
 
    ![](assets/image2014-9-17-21-3a54-3a53.png)
 

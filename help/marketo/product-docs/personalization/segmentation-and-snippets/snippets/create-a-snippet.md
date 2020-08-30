@@ -6,7 +6,7 @@ title: Create a Snippet
 
 # Create a Snippet {#create-a-snippet}
 
-Snippets can be used as dynamic content blocks on **emails** and **landing pages.**&nbsp;
+Snippets can be used as dynamic content blocks on **emails** and **landing pages.** 
 
 1. Go to the **Design Studio.**
 

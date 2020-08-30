@@ -24,7 +24,7 @@ Get a visual representation of velocity and flow through your [Revenue Cycle Mod
 
 >[!NOTE]
 >
->If you receive a warning that no data was found in the specified time frame, just click **Close** to change your time frame.&nbsp;If you aren't prompted, but you want to change your time frame, go to&nbsp;**Setup** and double-click**&nbsp;****Time Frame**.
+>If you receive a warning that no data was found in the specified time frame, just click **Close** to change your time frame. If you aren't prompted, but you want to change your time frame, go to **Setup** and double-click** ****Time Frame**.
 
 3. If you had no data, or you're changing your time frame, select one from the drop-down and click Save.
 
@@ -32,7 +32,7 @@ Get a visual representation of velocity and flow through your [Revenue Cycle Mod
 
 >[!TIP]
 >
->To select a specific range, select&nbsp;**Custom**&nbsp;and use the&nbsp;**From**&nbsp;and&nbsp;**To**&nbsp;fields.&nbsp;
+>To select a specific range, select **Custom** and use the **From** and **To** fields. 
 
 4. If you have more than one Revenue Cycle Model, select the one you want from the Setup tab.
 

@@ -24,7 +24,7 @@ You can use the Wait flow step to pause a person's journey through a smart campa
 
    ![](assets/image2014-9-22-11-3a54-3a10.png)
 
-1. Optionally, specify the time. Click&nbsp;**Save**.
+1. Optionally, specify the time. Click **Save**.
 
    ![](assets/image2014-9-22-11-3a54-3a35.png)
 
@@ -40,7 +40,7 @@ You can use the Wait flow step to pause a person's journey through a smart campa
 
    >[!NOTE]
    >
-   >The duration, dates, times, and days used are all based on your subscription’s time&nbsp;zone.&nbsp;
+   >The duration, dates, times, and days used are all based on your subscription’s time zone. 
 
    >[!NOTE]
    >

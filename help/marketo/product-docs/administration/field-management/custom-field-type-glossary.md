@@ -47,23 +47,23 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 ## Date {#date}
 
-**Example&nbsp;Name:** Renewal Date - Store your customers renewal dates
+**Example Name:** Renewal Date - Store your customers renewal dates
 
-**Example&nbsp;Values:** 8/19/14
+**Example Values:** 8/19/14
 
 **Operators**: is, is not, between, in past, in past before, in future, in future after, in time frame, after, before, on or after, on or before, is empty, is not empty
 
 ## Datetime {#datetime}
 
-**Example&nbsp;Name:** Created Date - Store the date and time at which a person is created
+**Example Name:** Created Date - Store the date and time at which a person is created
 
-**Example&nbsp;Values:** 8/19/14 2:00
+**Example Values:** 8/19/14 2:00
 
 **Operators**: is, is not, between, in past, in past before, in future, in future after, in time frame, after, before, on or after, on or before, is empty, is not empty
 
 ## Email {#email}
 
-**Example&nbsp;Name:** Alternate Email - Keep an alternate email address for your people (cannot actually send emails to this field like the default email address field, that one is special)
+**Example Name:** Alternate Email - Keep an alternate email address for your people (cannot actually send emails to this field like the default email address field, that one is special)
 
 **Example Values:** [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#335d525e5673505c5e43525d4a1d505c5e)
 
@@ -71,70 +71,70 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 ## Float {#float}
 
-**Example&nbsp;Name:** Grade Point Average - Keep a person's grade point average or any other numeric value that has decimals
+**Example Name:** Grade Point Average - Keep a person's grade point average or any other numeric value that has decimals
 
-**Example&nbsp;Values:** 2.47
+**Example Values:** 2.47
 
 **Operators**: between, greater than, less than, at least, at most, is empty, is not empty
 
 ## Formula {#formula}
 
-**Example&nbsp;Name:** Salutations - use this special field in a [solution to get the right salutation](create-and-use-a-concatenated-string-formula-field.md) based on gender
+**Example Name:** Salutations - use this special field in a [solution to get the right salutation](create-and-use-a-concatenated-string-formula-field.md) based on gender
 
-**Example&nbsp;Values:** check the linked solution
+**Example Values:** check the linked solution
 
 ## Integer {#integer}
 
-**Example&nbsp;Name:** Number of Employees - store a number value that does not require decimals
+**Example Name:** Number of Employees - store a number value that does not require decimals
 
-**Example&nbsp;Values:** 600
+**Example Values:** 600
 
 **Operators**: is, is not, between, greater than, less than, at least, at most, is empty, is not empty
 
 ## Percent {#percent}
 
-**Example&nbsp;Name:** Likely To Buy - store a percentage value (perhaps calculated on the CRM side)
+**Example Name:** Likely To Buy - store a percentage value (perhaps calculated on the CRM side)
 
-**Example&nbsp;Values:** 85%
+**Example Values:** 85%
 
 **Operators**: is, is not, between, greater than, less than, at least, at most, is empty, is not empty
 
 ## Phone {#phone}
 
-**Example&nbsp;Name:** Alternate Phone - store an additional phone number for your people
+**Example Name:** Alternate Phone - store an additional phone number for your people
 
-**Example&nbsp;Value:** 650-555-5555
+**Example Value:** 650-555-5555
 
 **Operators**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
 
 ## Score {#score}
 
-**Example&nbsp;Name:** Behavioral Score / Demographic Score - create multiple score fields to keep track of different attributes.
+**Example Name:** Behavioral Score / Demographic Score - create multiple score fields to keep track of different attributes.
 
-**Example&nbsp;Value:** 14
+**Example Value:** 14
 
 **Operators**: is, is not, between, greater than, less than, at least, at most, is empty, is not empty
 
 ## String {#string}
 
-**Example&nbsp;Name:** Middle Name - store an additional text attribute
+**Example Name:** Middle Name - store an additional text attribute
 
-**Example&nbsp;Value:** Rose
+**Example Value:** Rose
 
 **Operators**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
 
 ## Text Area {#text-area}
 
-**Example&nbsp;Name:** Comments - add a comments field to your forms to allow multi-line text entry
+**Example Name:** Comments - add a comments field to your forms to allow multi-line text entry
 
-**Example&nbsp;Value:** This article is fantastic!
+**Example Value:** This article is fantastic!
 
 **Operators**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
 
 ## URL {#url}
 
-**Example&nbsp;Name:** Blog - create a field to store person blog urls
+**Example Name:** Blog - create a field to store person blog urls
 
-**Example&nbsp;Value:** www.myblog.com
+**Example Value:** www.myblog.com
 
 **Operators**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty

@@ -20,13 +20,13 @@ A web campaign is a customized reaction associated with a specific segment and c
 
 1. Select the **Widget** campaign type.
 
-   ![](assets/3.png)&nbsp;
+   ![](assets/3.png) 
 
 1. Use the multiple options to customize your widget.
 
    ![](assets/4.png)
 
-1. &nbsp;Click **Preview **to see how the web campaign will react on your site.
+1.  Click **Preview **to see how the web campaign will react on your site.
 
    ![](assets/preview.png)
 
@@ -79,8 +79,8 @@ A web campaign is a customized reaction associated with a specific segment and c
    <td colspan="1">Preview campaigns before they are launched.<br> 
     <ul> 
      <li>URL - Enter an example URL where the campaign would run to see a preview example of how the campaign would look live.</li> 
-     <li>Preview -&nbsp;Click&nbsp;<strong>Preview&nbsp;</strong>to open a new window of the example URL to see how the campaign reacts (Add the&nbsp;<a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome extension</a>&nbsp;for the best Web Campaign preview experience.). </li> 
-     <li>Share&nbsp;- Use the Share button to send an email to a colleague with a link to see the proxy&nbsp;campaign.</li> 
+     <li>Preview - Click <strong>Preview </strong>to open a new window of the example URL to see how the campaign reacts (Add the <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome extension</a> for the best Web Campaign preview experience.). </li> 
+     <li>Share - Use the Share button to send an email to a colleague with a link to see the proxy campaign.</li> 
     </ul></td> 
   </tr> 
  </tbody> 
@@ -92,7 +92,7 @@ A web campaign is a customized reaction associated with a specific segment and c
 
    ## Edit a Web Campaign {#edit-a-web-campaign}
 
-   From the Web Campaigns&nbsp;page, click **Edit** on the Campaign.
+   From the Web Campaigns page, click **Edit** on the Campaign.
 
    ![](assets/image2016-11-4-13-3a2-3a20.png)
 
@@ -106,7 +106,7 @@ A web campaign is a customized reaction associated with a specific segment and c
 
    ## Preview a Web Campaign {#preview-a-web-campaign}
 
-   From the&nbsp;Web Campaigns&nbsp;page, click **Preview** on the web campaign you wish to preview
+   From the Web Campaigns page, click **Preview** on the web campaign you wish to preview
 
    ![](assets/widget-campaign-preview-hand.png)
 

@@ -24,7 +24,7 @@ You can organize your inbound link URLs to your heart's content.
 
 >[!TIP]
 >
->You can also make a new list&nbsp;for your keyword to go. Just type your desired name in&nbsp;Create a new list.
+>You can also make a new list for your keyword to go. Just type your desired name in Create a new list.
 
 ## Remove an Inbound Link URL from a List {#remove-an-inbound-link-url-from-a-list}
 

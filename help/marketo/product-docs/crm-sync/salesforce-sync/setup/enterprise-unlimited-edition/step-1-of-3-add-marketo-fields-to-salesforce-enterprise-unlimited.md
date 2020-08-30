@@ -14,11 +14,11 @@ title: Step 1 of 3: Add Marketo Fields to Salesforce (Enterprise/Unlimited)
 
 Marketo uses a set of fields to capture certain kinds of marketing related information. If you would like this data in Salesforce, please follow the instructions below.
 
-1. Create three custom fields in Salesforce on the lead and contact objects: Score, Acquisition Program, and Acquisition Date.&nbsp;
+1. Create three custom fields in Salesforce on the lead and contact objects: Score, Acquisition Program, and Acquisition Date. 
 1. Map these custom fields between leads and contacts so that on conversion in Salesforce, the values carry over.
 1. You can create other additional fields, if necessary (see the table below).
 
-All of these custom fields are optional and are not required to sync Marketo and Salesforce. As a best practice, we recommend that you do create fields for Score,&nbsp;Acquisition Program, and Acquisition Date.
+All of these custom fields are optional and are not required to sync Marketo and Salesforce. As a best practice, we recommend that you do create fields for Score, Acquisition Program, and Acquisition Date.
 
 ## Add Marketo Fields to Salesforce {#add-marketo-fields-to-salesforce}
 
@@ -26,27 +26,27 @@ Add three custom fields on the lead and contact objects in Salesforce listed abo
 
 Perform the following steps for each of the three custom fields to add them. Start with Score.
 
-1.&nbsp;Log into Salesforce and click Setup.
+1. Log into Salesforce and click Setup.
 
 ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-2.&nbsp;In the Build menu on the left, click Customize and select Leads. Click Fields.
+2. In the Build menu on the left, click Customize and select Leads. Click Fields.
 
 ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-3.&nbsp;Click New in the Custom Fields & Relationships section at the bottom of the page.
+3. Click New in the Custom Fields & Relationships section at the bottom of the page.
 
 ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-4.&nbsp;Choose the appropriate field type (for Score — number; Acquisition Program — text; Acquisition Date — Date/Time).
+4. Choose the appropriate field type (for Score — number; Acquisition Program — text; Acquisition Date — Date/Time).
 
 ![](assets/choose-field-type-2-hand.png)
 
-5.&nbsp;Click Next.
+5. Click Next.
 
 ![](assets/image2016-5-26-14-3a51-3a14.png)
 
-6.&nbsp;Enter the Field Label, Length, and Field Name for the field, as shown in the table below.
+6. Enter the Field Label, Length, and Field Name for the field, as shown in the table below.
 
 <table> 
  <thead> 
@@ -101,11 +101,11 @@ Perform the following steps for each of the three custom fields to add them. Sta
 >
 >Text and number fields require a length, but Date/Time fields don't. A description is optional.
 
-7.&nbsp;Click Next.
+7. Click Next.
 
 ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-8.&nbsp;Specify the access settings and click Next:
+8. Specify the access settings and click Next:
 
 * Set all roles to **Visible **and **Read-Only**
 
@@ -117,19 +117,19 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
 ![](assets/image2016-6-30-9-3a25-3a4.png)
 
-9.&nbsp;Choose the page layouts that should display the field.
+9. Choose the page layouts that should display the field.
 
 ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-10.&nbsp;Click Save & New to go back and create each of the other two custom fields. Click Save with you're done with all three.
+10. Click Save & New to go back and create each of the other two custom fields. Click Save with you're done with all three.
 
 ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-11.&nbsp;In the Build menu on the left, click Customize and select Contacts. Click Fields.
+11. In the Build menu on the left, click Customize and select Contacts. Click Fields.
 
-12.&nbsp;Perform steps 3 through 10 for the Score, Acquisition Date, and Acquisition Program fields on the contact object, just as you did for the lead object.
+12. Perform steps 3 through 10 for the Score, Acquisition Date, and Acquisition Program fields on the contact object, just as you did for the lead object.
 
-13.&nbsp;Optionally, use the above procedure for any additional custom fields from this table.
+13. Optionally, use the above procedure for any additional custom fields from this table.
 
 <table> 
  <thead> 
@@ -236,7 +236,7 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
 ## Map Custom Fields for Conversions {#map-custom-fields-for-conversions}
 
-A custom field on the lead object in Salesforce should be mapped to a contact field on the contact object so that data is carried over when a conversion occurs.&nbsp;&nbsp;
+A custom field on the lead object in Salesforce should be mapped to a contact field on the contact object so that data is carried over when a conversion occurs.  
 
 1. In the top right corner, click **Setup**.
 
@@ -261,7 +261,7 @@ A custom field on the lead object in Salesforce should be mapped to a contact fi
 1. Repeat the above steps for any other fields you've created.
 1. Click **Save** when you're done.
 
-   Easy enough, right?&nbsp;
+   Easy enough, right? 
 
 >[!NOTE]
 >

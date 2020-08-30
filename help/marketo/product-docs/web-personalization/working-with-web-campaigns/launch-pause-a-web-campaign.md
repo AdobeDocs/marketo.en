@@ -32,7 +32,7 @@ You can launch or pause a web campaign in two ways from the Web Campaigns page o
 
 1. In the campaign, click **Edit**.
 
-   ![](assets/image2014-11-26-17-3a31-3a37.png)&nbsp;
+   ![](assets/image2014-11-26-17-3a31-3a37.png) 
 
 1. Click **Save** to save and pause the campaign. Click **Launch** to launch and activate the campaign.
 

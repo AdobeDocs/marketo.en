@@ -14,7 +14,7 @@ title: Export a List with Personalized URLs
 >* [Enable Personalized URLs for a Landing Page](enable-personalized-urls-for-a-landing-page.md)
 >
 
-1. Select your list or smart list, click on the **Leads** tab to get the results and then click on the excel icon. INLINE Make sure you have&nbsp;**Marketo Unique Code **and&nbsp;**Marketo Unique Name** [columns visible](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).&nbsp;
+1. Select your list or smart list, click on the **Leads** tab to get the results and then click on the excel icon. INLINE Make sure you have **Marketo Unique Code **and **Marketo Unique Name** [columns visible](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md). 
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 

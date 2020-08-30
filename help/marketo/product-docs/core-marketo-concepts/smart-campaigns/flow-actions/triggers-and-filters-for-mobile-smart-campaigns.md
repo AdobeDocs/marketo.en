@@ -52,7 +52,7 @@ Some triggers and filters offer additional constraints, such as:
 
 * Platform Version - The version of the OS
 
-* Session Length (seconds)&nbsp;-&nbsp;Session time when the app is in the foreground
+* Session Length (seconds) - Session time when the app is in the foreground
 
 * Is Push Enabled - **True** means that push notifications can be sent. **False** means that they can't; for example, the person may have opted out of receiving push notifications
 

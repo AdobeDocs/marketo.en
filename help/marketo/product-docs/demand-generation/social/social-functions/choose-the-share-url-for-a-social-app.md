@@ -6,7 +6,7 @@ title: Choose the Share URL for a Social App
 
 # Choose the Share URL for a Social App {#choose-the-share-url-for-a-social-app}
 
-When you create a social app,&nbsp;you can choose which URL will be shared in the posts from participants.
+When you create a social app, you can choose which URL will be shared in the posts from participants.
 
 1. Go to **Marketing Activities**.
 
@@ -16,7 +16,7 @@ When you create a social app,&nbsp;you can choose which URL will be shared in th
 
    ![](assets/image2015-4-21-11-3a12-3a12.png)
 
-1. In the social app editor, go to&nbsp;**App Settings** and then **Advanced Options**.
+1. In the social app editor, go to **App Settings** and then **Advanced Options**.
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 

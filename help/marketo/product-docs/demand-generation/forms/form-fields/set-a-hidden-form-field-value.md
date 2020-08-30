@@ -32,7 +32,7 @@ If you want to capture URL Parameters (Query Strings) from the page the person i
 
 >[!NOTE]
 >
->Parameters are kinda techie, aren't they? Once you get them though, they are powerful. This&nbsp; [Wikipedia page on Query Strings](http://en.wikipedia.org/wiki/Query_string)&nbsp;is somewhat helpful.
+>Parameters are kinda techie, aren't they? Once you get them though, they are powerful. This  [Wikipedia page on Query Strings](http://en.wikipedia.org/wiki/Query_string) is somewhat helpful.
 
 1. Select **URL Parameter** for **Get Value Type**.
 
@@ -44,7 +44,7 @@ If you want to capture URL Parameters (Query Strings) from the page the person i
 
 >[!TIP]
 >
->You can enter a&nbsp;Default Value&nbsp;in case the URL parameter is not found.
+>You can enter a Default Value in case the URL parameter is not found.
 
 ## Cookie Value {#cookie-value}
 
@@ -60,7 +60,7 @@ If you're storing data in cookies, you can use **Cookie** **Value** to pick up d
 
    >[!TIP]
    >
-   >You can enter a&nbsp;Default Value&nbsp;in case the parameter/cookie is not found.
+   >You can enter a Default Value in case the parameter/cookie is not found.
 
 ## Referrer Parameter {#referrer-parameter}
 

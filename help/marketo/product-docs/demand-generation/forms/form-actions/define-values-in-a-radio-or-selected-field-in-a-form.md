@@ -22,7 +22,7 @@ Once you've [set a field type](../../../../product-docs/administration/field-man
 
    >[!NOTE]
    >
-   >The first and default value is always&nbsp;"Select..."&nbsp;Feel free to edit that. If you change the default radio button to another row, "Select..." will not show up as a choice in the form.
+   >The first and default value is always "Select..." Feel free to edit that. If you change the default radio button to another row, "Select..." will not show up as a choice in the form.
 
 1. Click to add your value.
 
@@ -42,13 +42,13 @@ Once you've [set a field type](../../../../product-docs/administration/field-man
 
    >[!NOTE]
    >
-   >If you don't enter a&nbsp;Stored Value, Marketo will use the&nbsp;Display Value&nbsp;and store that.
+   >If you don't enter a Stored Value, Marketo will use the Display Value and store that.
 
    ![](assets/image2014-9-15-16-3a29-3a30.png)
 
    >[!TIP]
    >
-   >Click **Advanced Editor**&nbsp;to copy/paste a list of values if you want. It can be a real time saver.
+   >Click **Advanced Editor** to copy/paste a list of values if you want. It can be a real time saver.
 
 1. Click **Finish**. 
 

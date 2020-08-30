@@ -28,5 +28,5 @@ It's easy to create a push notification. However, before you begin, you must hav
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   Sweet! Now that the&nbsp;Push Notification is created, let's go ahead and [dress it up](configure-mobile-push-notification.md).
+   Sweet! Now that the Push Notification is created, let's go ahead and [dress it up](configure-mobile-push-notification.md).
 

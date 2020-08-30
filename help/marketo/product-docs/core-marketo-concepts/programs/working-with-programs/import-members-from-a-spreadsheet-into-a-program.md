@@ -16,11 +16,11 @@ You can import a list of people who automatically become members of a program. H
 
    >[!CAUTION]
    >
-   >When importing a date into a date field, use this format:&nbsp;9/23/13&nbsp;(Month/Day/Year).
+   >When importing a date into a date field, use this format: 9/23/13 (Month/Day/Year).
 
 ## Import Your CSV into Marketo {#import-your-csv-into-marketo}
 
-1. In your program, go to the **Members**&nbsp;section.
+1. In your program, go to the **Members** section.
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
@@ -38,7 +38,7 @@ You can import a list of people who automatically become members of a program. H
 
    >[!NOTE]
    >
-   >If there are any fields you don't want to import, select&nbsp;**IGNORE**&nbsp;in the Marketo Field drop-down menu.
+   >If there are any fields you don't want to import, select **IGNORE** in the Marketo Field drop-down menu.
 
 1. Select the **Member Status** for your list.
 

@@ -20,7 +20,7 @@ You can restrict input from your visitor using an input mask. For example, you m
 
    >[!NOTE]
    >
-   >Input masking only works with&nbsp;**Text Field Types**.
+   >Input masking only works with **Text Field Types**.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 

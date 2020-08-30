@@ -6,7 +6,7 @@ title: Send Emails from the Lead Owner
 
 # Send Emails from the Lead Owner {#send-emails-from-the-lead-owner}
 
-What if you want to send an email to a lead on behalf of the Lead Owner? &nbsp;Here's how.
+What if you want to send an email to a lead on behalf of the Lead Owner?  Here's how.
 
 1. Find your email, select it and click **Edit Draft**.
 

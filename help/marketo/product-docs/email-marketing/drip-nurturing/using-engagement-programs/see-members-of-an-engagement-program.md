@@ -14,7 +14,7 @@ You can quickly see members of an engagement program. Here's how.
 
    >[!NOTE]
    >
-   >The&nbsp; [Exhausted Content](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)&nbsp;column value is updated after every cast.
+   >The  [Exhausted Content](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) column value is updated after every cast.
 
 1. You can now see all members of your program.
 

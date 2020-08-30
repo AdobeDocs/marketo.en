@@ -14,7 +14,7 @@ Once you've created your engagement program, you need to add content to the stre
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Select your engagement program and go to the&nbsp;**Streams**&nbsp;tab.
+1. Select your engagement program and go to the **Streams** tab.
 
    ![](assets/streamstab.jpg)
 

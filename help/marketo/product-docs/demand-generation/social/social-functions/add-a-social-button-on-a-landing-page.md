@@ -40,12 +40,12 @@ A social button encourages people to share your content with their friends. Drop
 >1. Name your social button, select **None** from **Clone** **From**, and click **Insert**.
 >
 >   ![](assets/image2014-9-17-10-3a35-3a26.png)>
->Congratulations! You have added a social button to your landing page. Be sure to approve the landing page. You can also&nbsp; [publish the landing page to Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)&nbsp;or&nbsp; [put the social button on your website](deploy-social-on-your-website.md).  
+>Congratulations! You have added a social button to your landing page. Be sure to approve the landing page. You can also  [publish the landing page to Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) or  [put the social button on your website](deploy-social-on-your-website.md).  
   
 >
 >>[!TIP]
 >>
->>To save time, you can use the&nbsp;**Clone From**&nbsp;option to copy all settings from an existing social button. 
+>>To save time, you can use the **Clone From** option to copy all settings from an existing social button. 
 
 >
 >>[!NOTE]

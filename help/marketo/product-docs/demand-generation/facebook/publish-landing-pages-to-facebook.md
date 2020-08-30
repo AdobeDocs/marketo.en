@@ -52,7 +52,7 @@ Say you're launching a new book, you might reach some of your audience via email
 
    >[!NOTE]
    >
-   >To replace Marketo landing pages that you have previously published to Facebook, select&nbsp;**Replace Existing Tab**&nbsp;and choose the tab to replace from the drop-down list. Note that this will not replace non-Marketo tabs.
+   >To replace Marketo landing pages that you have previously published to Facebook, select **Replace Existing Tab** and choose the tab to replace from the drop-down list. Note that this will not replace non-Marketo tabs.
 
 1. Leads can now visit your landing page directly on your Facebook Page. Just click the tab name under your Cover image.
 

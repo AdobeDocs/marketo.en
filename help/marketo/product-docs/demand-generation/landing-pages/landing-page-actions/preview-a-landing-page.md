@@ -16,7 +16,7 @@ You probably want to see what your landing page looks like before making it live
 
    >[!NOTE]
    >
-   >The&nbsp;draft is the version you are working on, not the live one customers see.
+   >The draft is the version you are working on, not the live one customers see.
 
 1. You can also right-click your landing page and select **Preview**.
 

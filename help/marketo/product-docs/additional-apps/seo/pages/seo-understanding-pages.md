@@ -18,7 +18,7 @@ The Page Optimization Score is an overall ranking of how well your page is optim
 
 >[!TIP]
 >
->Click on the&nbsp;High Impact&nbsp;link in the&nbsp;To Do&nbsp;box, this will redirect you to the Issues tab and show you high priority problems to solve.
+>Click on the High Impact link in the To Do box, this will redirect you to the Issues tab and show you high priority problems to solve.
 
 ## Pages Tab {#pages-tab}
 

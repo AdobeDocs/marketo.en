@@ -6,7 +6,7 @@ title: Add ON24 as a LaunchPoint Service
 
 # Add ON24 as a LaunchPoint Service {#add-on-as-a-launchpoint-service}
 
-Marketo manages&nbsp;your ON24 webinar registration and attendance.
+Marketo manages your ON24 webinar registration and attendance.
 
 >[!NOTE]
 >
@@ -16,15 +16,15 @@ Marketo manages&nbsp;your ON24 webinar registration and attendance.
 >
 >An existing subscription to ON24 and administration rights are necessary for this step. Have the following settings at hand: Client Key and Client ID. You can obtain the client ID and client key directly from your ON24 Account Manager.
 
-1. Go to&nbsp;**Admin** and click&nbsp;**LaunchPoint**.
+1. Go to **Admin** and click **LaunchPoint**.
 
    ![](assets/image2015-4-23-10-3a15-3a50.png)
 
-1. Select&nbsp;**New**&nbsp;and then&nbsp;**New** **Service**.
+1. Select **New** and then **New** **Service**.
 
    ![](assets/on24-new-service.png)
 
-1. Enter a&nbsp;**Display** **Name**.&nbsp;Under&nbsp;**Service**, select **ON24**.
+1. Enter a **Display** **Name**. Under **Service**, select **ON24**.
 
    ![](assets/new-service-on24.png)
 
@@ -32,7 +32,7 @@ Marketo manages&nbsp;your ON24 webinar registration and attendance.
 
    ![](assets/image2015-4-24-18-3a48-3a29.png)
 
-1. Your **ON24** Account is now synced with Marketo.&nbsp;
+1. Your **ON24** Account is now synced with Marketo. 
 
    ![](assets/on24.png)
 

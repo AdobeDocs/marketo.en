@@ -32,7 +32,7 @@ title: Managing Tag Values
 
    ![](assets/image2014-9-24-12-3a26-3a2.png)
 
-1. Enter a **Value**&nbsp;and click **Add Another**.&nbsp;You can add as many values as you'd like.
+1. Enter a **Value** and click **Add Another**. You can add as many values as you'd like.
 
    ![](assets/image2014-9-24-12-3a26-3a27.png)
 
@@ -40,7 +40,7 @@ title: Managing Tag Values
 
    ![](assets/image2014-9-24-12-3a26-3a55.png)
 
-1. &nbsp;You should see the changes immediately!
+1.  You should see the changes immediately!
 
    ![](assets/image2014-9-24-12-3a27-3a34.png)
 
@@ -48,7 +48,7 @@ title: Managing Tag Values
 
 Tags might be used by old programs. You can deprecate them for future use by hiding the tag type.
 
-1. Select the**&nbsp;****Tag**&nbsp;and select the&nbsp;**Value**&nbsp;you want to hide.
+1. Select the** ****Tag** and select the **Value** you want to hide.
 
    ![](assets/image2014-9-24-12-3a28-3a25.png)
 

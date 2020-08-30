@@ -16,7 +16,7 @@ title: Understanding Workspaces and Person Partitions
 
 >[!CAUTION]
 >
->Workspaces can be complex to set up. &nbsp;Contact&nbsp; [Marketo Support](http://support.marketo.com/) to find out if they're right for you.
+>Workspaces can be complex to set up.  Contact  [Marketo Support](http://support.marketo.com/) to find out if they're right for you.
 
 Workspaces are separate areas in Marketo that hold marketing assets like programs, landing pages, emails and more. They can be used by multiple people. Each user has access to one or more workspaces. 
 
@@ -37,7 +37,7 @@ Workspaces are separate areas in Marketo that hold marketing assets like program
 >
 >Learn how to create [create a new workspace](create-a-new-workspace.md).
 
-## Sharing across Workspaces&nbsp;   
+## Sharing across Workspaces    
 {#sharing-across-workspaces}
 
 Here's how to share assets across workspaces. It works the same for anything you want to share; this example shows segmentations.
@@ -82,7 +82,7 @@ You can share these items across workspaces.
 
 ## Cloning across Workspaces {#cloning-across-workspaces}
 
-For assets that aren't templates, its best to clone them as local assets inside of a program.&nbsp; With the proper access level, you can drag and drop these assets into another workspace:
+For assets that aren't templates, its best to clone them as local assets inside of a program.  With the proper access level, you can drag and drop these assets into another workspace:
 
 * Programs
 * Emails
@@ -103,9 +103,9 @@ To move assets to a new workspace, put them into a folder and drag the folder ov
 
 ## Person Partitions {#person-partitions}
 
-Person partitions act like separate databases.&nbsp;Each partition has its own people that do not de-dupe or mix with other partitions. If you feel you have a business use case that may necessitate having duplicate records with the same email address, please contact [Marketo Support](http://support.marketo.com).
+Person partitions act like separate databases. Each partition has its own people that do not de-dupe or mix with other partitions. If you feel you have a business use case that may necessitate having duplicate records with the same email address, please contact [Marketo Support](http://support.marketo.com).
 
-You can assign person partitions to&nbsp; [workspaces](create-a-new-workspace.md) in the following configurations:
+You can assign person partitions to  [workspaces](create-a-new-workspace.md) in the following configurations:
 
 * one workspace to one person partition (1:1)
 * one workspace to many person partitions (1:x)
@@ -129,5 +129,5 @@ You can assign person partitions to&nbsp; [workspaces](create-a-new-workspace.md
 >
 >**Deep Dive**
 >
->&nbsp;Learn how to [create a person partition](create-a-person-partition.md).
+> Learn how to [create a person partition](create-a-person-partition.md).
 

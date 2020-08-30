@@ -6,7 +6,7 @@ title: Conversion Script for Custom Events
 
 # Conversion Script for Custom Events {#conversion-script-for-custom-events}
 
-You define the fulfillment goal when creating a referral offer.&nbsp;If the action that counts towards the goal is a specific event on your own web page, you can use a conversion script to call our JavaScript API.
+You define the fulfillment goal when creating a referral offer. If the action that counts towards the goal is a specific event on your own web page, you can use a conversion script to call our JavaScript API.
 
 ## Retrieve the Conversion Script {#retrieve-the-conversion-script}
 

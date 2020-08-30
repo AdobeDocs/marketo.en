@@ -18,7 +18,7 @@ You can manage and view your members in your programs using the Members tab.
 >
 >**Deep Dive**
 >
->&nbsp;Dive deeper into&nbsp; [program membership](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+> Dive deeper into  [program membership](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
 ## Search for a Member {#search-for-a-member}
 
@@ -76,7 +76,7 @@ You can change the status of your people inside the members grid.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Click the **Change Status**&nbsp;drop-down and select a status.
+1. Click the **Change Status** drop-down and select a status.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 

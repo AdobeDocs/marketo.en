@@ -22,13 +22,13 @@ Download Marketo Moments from the App Store or Google Play and voila! Marketo ma
 ## For Android {#for-android}
 
 1. Go to [Google Play](https://play.google.com/store?hl=en).
-1. Search for Marketo Moments and tap to download.&nbsp;  
+1. Search for Marketo Moments and tap to download.   
    ![](assets/image2015-7-14-9-3a6-3a34.png)
 
-1. Tap&nbsp;**Accept**.  
+1. Tap **Accept**.  
    ![](assets/image2015-7-7-16-3a41-3a47.png)
 
-1. Tap&nbsp;**Install**.  
+1. Tap **Install**.  
    ![](assets/image2015-7-7-16-3a43-3a21.png)
 
 Enjoy!

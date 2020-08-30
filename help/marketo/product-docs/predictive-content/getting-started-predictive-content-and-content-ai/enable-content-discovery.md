@@ -10,9 +10,9 @@ title: Enable Content Discovery
 >
 >Depending on the purchase date, your Marketo subscription may include either Marketo Predictive Content or Content`<sup>AI</sup>`. For those using Predictive Content, Marketo is enabling Content`<sup>AI</sup>` Analytics features until April 30, 2018. To keep these features beyond that date, please contact your Marketo Customer Success Manager to upgrade to Marketo Content`<sup>AI</sup>`.
 
-The Content Discovery feature automatically discovers and tags your already existing content (including case studies, blog posts, videos, press releases, etc.) from your website and tracks the number of views on these materials.  Predictive Content uses the discovered content, employing predictive analytics to determine which is your top performing content and recommends the best content to the right person.&nbsp;
+The Content Discovery feature automatically discovers and tags your already existing content (including case studies, blog posts, videos, press releases, etc.) from your website and tracks the number of views on these materials.  Predictive Content uses the discovered content, employing predictive analytics to determine which is your top performing content and recommends the best content to the right person. 
 
-1. Go to **Content Settings**.&nbsp;
+1. Go to **Content Settings**. 
 
    ![](assets/settings-dropdown-hand.png)
 

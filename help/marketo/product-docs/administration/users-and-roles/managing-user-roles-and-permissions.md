@@ -42,7 +42,7 @@ You can assign roles to a user when you [create users for the first time](http:/
 
    >[!NOTE]
    >
-   >To learn about each role, see&nbsp; [Descriptions of Role Permissions](managing-user-roles-and-permissions/descriptions-of-role-permissions.md).
+   >To learn about each role, see  [Descriptions of Role Permissions](managing-user-roles-and-permissions/descriptions-of-role-permissions.md).
 
 ## Create a New Role {#create-a-new-role}
 
@@ -112,7 +112,7 @@ If a role becomes unnecessary, you can delete it.
 >
 >**Related Articles**
 >
->Learn more about creating additional users and assigning them roles in&nbsp; [Getting Started with Marketo](../../../getting-started.md).&nbsp;
+>Learn more about creating additional users and assigning them roles in  [Getting Started with Marketo](../../../getting-started.md). 
 
 >[!NOTE]
 >

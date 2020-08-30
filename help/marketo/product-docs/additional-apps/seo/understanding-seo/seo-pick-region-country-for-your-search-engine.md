@@ -16,7 +16,7 @@ SEO Admins will be able to pick the region for the search engine that you'd like
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-2. Click on the&nbsp;Search engines&nbsp;tab.
+2. Click on the Search engines tab.
 
 ![](assets/image2014-9-17-21-3a7-3a25.png)
 

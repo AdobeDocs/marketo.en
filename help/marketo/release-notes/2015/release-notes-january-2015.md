@@ -6,7 +6,7 @@ title: Release Notes: January 2015
 
 # Release Notes: January 2015 {#release-notes-january}
 
-The following features are included in the&nbsp;January&nbsp;2015 release. Please check your Marketo Edition for feature availability. After the release, be sure to come back to find links to detailed articles for each feature!
+The following features are included in the January 2015 release. Please check your Marketo Edition for feature availability. After the release, be sure to come back to find links to detailed articles for each feature!
 
 ## Marketing Automation Updates {#marketing-automation-updates}
 

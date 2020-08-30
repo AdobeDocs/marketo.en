@@ -52,7 +52,7 @@ For improved deliverability, all outgoing emails will be DKIM (DomainKeys Identi
 
 ## Real-Time Personalization Updates {#real-time-personalization-updates}
 
-We have added&nbsp;labels&nbsp;to the campaign page so that you can tag to your hearts content.
+We have added labels to the campaign page so that you can tag to your hearts content.
 
 ![](assets/image2014-9-16-12-3a23-3a28.png)
 

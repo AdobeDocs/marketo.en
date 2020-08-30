@@ -20,7 +20,7 @@ In a smart campaign's smart list, you can trigger a flow action when a custom ob
 
 >[!NOTE]
 >
->An activity log entry is not created when a custom object record is changed.&nbsp;
+>An activity log entry is not created when a custom object record is changed. 
 
 1. In Marketo, go to **Marketing Activities.**
 

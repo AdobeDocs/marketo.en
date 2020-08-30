@@ -27,8 +27,8 @@ Use custom objects as filters and triggers in your smart campaigns. For example:
 
 You can set up custom objects in a one-to-many or a many-to-many relationship. For example:
 
-* **One-to-many**: One person owns several cars&nbsp;
-* **Many-to-many**: Multiple students are enrolled in multiple courses from a course catalog&nbsp;
+* **One-to-many**: One person owns several cars 
+* **Many-to-many**: Multiple students are enrolled in multiple courses from a course catalog 
 
 A one-to-many structure uses a single link field to connect the custom object to a person or a company.
 
@@ -36,7 +36,7 @@ Many-to-many custom objects use two link fields, part of an intermediary object.
 
 >[!TIP]
 >
->Import custom objects using comma separated values (CSV) within the user interface to test and validate a data sample. Then, upload all of your files with an API.&nbsp;
+>Import custom objects using comma separated values (CSV) within the user interface to test and validate a data sample. Then, upload all of your files with an API. 
 
 >[!CAUTION]
 >

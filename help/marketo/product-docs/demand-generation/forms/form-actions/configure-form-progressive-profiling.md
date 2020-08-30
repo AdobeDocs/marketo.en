@@ -40,7 +40,7 @@ Short forms are good! When someone comes back to a form, you can present new fie
 
    >[!NOTE]
    >
-   >The fields outside of the&nbsp;**Progressive** **Profiling**&nbsp;box will always show in the form, even if they are filled out.
+   >The fields outside of the **Progressive** **Profiling** box will always show in the form, even if they are filled out.
 
 1. Select the **Progressive** **Profiling** box.
 

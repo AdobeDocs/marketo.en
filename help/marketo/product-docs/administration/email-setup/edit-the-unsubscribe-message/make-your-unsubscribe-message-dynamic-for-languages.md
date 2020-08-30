@@ -33,7 +33,7 @@ The default unsubscribe message and link are in English. You can use dynamic con
 
 1. In the **New** drop-down, click **New Segmentation**.
 
-   ![](assets/two.png)&nbsp;
+   ![](assets/two.png) 
 
 1. Name the segmentation **Preferred Language**. Click **Add Segment**. Type in a language.
 
@@ -47,7 +47,7 @@ The default unsubscribe message and link are in English. You can use dynamic con
 
    ![](assets/image2015-3-9-8-3a38-3a5.png)
 
-1. Select a segment.&nbsp;
+1. Select a segment. 
 
    ![](assets/image2015-3-9-8-3a38-3a17.png)
 
@@ -68,7 +68,7 @@ The default unsubscribe message and link are in English. You can use dynamic con
 
    ![](assets/ds.png)
 
-1. In the **New**&nbsp;dropdown, click **New Snippet**.
+1. In the **New** dropdown, click **New Snippet**.
 
    ** ![](assets/ten.png)
 
@@ -82,11 +82,11 @@ The default unsubscribe message and link are in English. You can use dynamic con
 
    ![](assets/image2015-3-9-8-3a41-3a47.png)
 
-1. Copy and paste this&nbsp;token**:&nbsp;****{{system.unsubscribeLink}}**&nbsp;into the **Link URL** field. Click **Insert**.&nbsp;
+1. Copy and paste this token**: ****{{system.unsubscribeLink}}** into the **Link URL** field. Click **Insert**. 
 
    ![](assets/image2015-3-9-8-3a43-3a17.png)
 
-1. Select **Segment By**&nbsp;in the Segmentation&nbsp;section.
+1. Select **Segment By** in the Segmentation section.
 
    ![](assets/image2015-3-9-8-3a44-3a16.png)
 
@@ -98,18 +98,18 @@ The default unsubscribe message and link are in English. You can use dynamic con
 
    ![](assets/image2015-3-9-8-3a45-3a43.png)
 
-1. Copy and paste the same&nbsp;token:**&nbsp;****{{system.unsubscribeLink}}**&nbsp;into the Link URL field. Click**&nbsp;Insert**.&nbsp;
+1. Copy and paste the same token:** ****{{system.unsubscribeLink}}** into the Link URL field. Click** Insert**. 
 
    ![](assets/image2015-3-9-8-3a47-3a4.png)
 
-1. Repeat for all your segments. Then, go back to the Design Studio, click the&nbsp;**Snippet Actions **drop-down, and click&nbsp;**Approve**.&nbsp;
+1. Repeat for all your segments. Then, go back to the Design Studio, click the **Snippet Actions **drop-down, and click **Approve**. 
 
    ![](assets/image2015-3-9-8-3a47-3a34.png)
 
-   Awesome. Almost there.&nbsp;
+   Awesome. Almost there. 
 
 1. Use Snippet in an Email
-1. Inside the email editor, click the editable element. Then click the gear icon and select&nbsp;**Replace with Snippet**. If you're selecting an editable snippet element, click the gear icon and select **Edit**.
+1. Inside the email editor, click the editable element. Then click the gear icon and select **Replace with Snippet**. If you're selecting an editable snippet element, click the gear icon and select **Edit**.
 
    ![](assets/4.1.png)
 
@@ -141,7 +141,7 @@ The default unsubscribe message and link are in English. You can use dynamic con
 
    ![](assets/ds.png)
 
-   Type in Unsubscribe&nbsp;in the search field. You should find your Unsubscribe pages.
+   Type in Unsubscribe in the search field. You should find your Unsubscribe pages.
 
    ![](assets/image2015-3-9-8-3a51-3a53.png)
 
@@ -164,5 +164,5 @@ The default unsubscribe message and link are in English. You can use dynamic con
    >**Deep Dive**
    >
    >
-   >Learn more about&nbsp; [dynamic content](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)&nbsp;and all the cool stuff you can do.
+   >Learn more about  [dynamic content](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) and all the cool stuff you can do.
 

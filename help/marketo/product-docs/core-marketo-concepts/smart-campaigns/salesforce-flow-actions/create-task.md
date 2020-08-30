@@ -22,5 +22,5 @@ Customize all fields to create the task the way you want it.
 
 >[!TIP]
 >
->You can use {{lead.tokens}}, {{company.tokens}}, {{campaign.tokens}} and {{system.tokens}} in the&nbsp;**Subject** and&nbsp;**Description**. See&nbsp; [Tokens for Flow Steps](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) for more details.
+>You can use {{lead.tokens}}, {{company.tokens}}, {{campaign.tokens}} and {{system.tokens}} in the **Subject** and **Description**. See  [Tokens for Flow Steps](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) for more details.
 

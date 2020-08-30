@@ -10,7 +10,7 @@ The following features are included in the Spring '16 release. Please click the 
 
 ## [Email Insights](http://docs.marketo.com/display/docs/email+insights) {#email-insights}
 
-Email Insights is a brand new historical aggregate data email analytics experience —&nbsp;redesigned&nbsp;end-to-end&nbsp;for lightning fast performance as part of Project Orion. It features a completely new user interface design optimized to fit the needs and workflow of Email Marketers.&nbsp;
+Email Insights is a brand new historical aggregate data email analytics experience — redesigned end-to-end for lightning fast performance as part of Project Orion. It features a completely new user interface design optimized to fit the needs and workflow of Email Marketers. 
 
 >[!NOTE]
 >
@@ -68,7 +68,7 @@ Built atop Orion architecture, the new, high-speed dynamics connector provides s
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
-**Sync Errors Admin Tab**: &nbsp;Browse,&nbsp;search, or export leads (and other objects) that failed to synchronize with details such as operation, direction, error code and error message.
+**Sync Errors Admin Tab**:  Browse, search, or export leads (and other objects) that failed to synchronize with details such as operation, direction, error code and error message.
 
 ![](assets/sync-errors.png)
 

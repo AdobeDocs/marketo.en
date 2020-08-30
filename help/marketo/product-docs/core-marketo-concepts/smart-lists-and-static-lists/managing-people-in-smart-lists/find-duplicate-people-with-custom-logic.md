@@ -21,7 +21,7 @@ Marketo has a system smart list that finds duplicate people by matching their em
 >* [Create a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >
 
-1. Go to the&nbsp;Marketing Activities&nbsp;area.
+1. Go to the Marketing Activities area.
 
 ![](assets/ma-2.png)
 

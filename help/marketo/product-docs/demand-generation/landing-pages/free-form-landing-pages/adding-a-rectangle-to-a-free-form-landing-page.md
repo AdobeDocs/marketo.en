@@ -24,7 +24,7 @@ Rectangles on landing pages are great for highlighting an area of the text.
 
    >[!TIP]
    >
-   >You can move and resize the rectangle using drag and drop.&nbsp;Also try the arrows on the keyboard!&nbsp;Hint: Press Shift-Arrow to move the rectangle 10px at a time.
+   >You can move and resize the rectangle using drag and drop. Also try the arrows on the keyboard! Hint: Press Shift-Arrow to move the rectangle 10px at a time.
 
    ![](assets/image2015-5-21-14-3a50-3a24.png)
 

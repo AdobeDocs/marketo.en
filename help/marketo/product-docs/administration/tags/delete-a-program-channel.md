@@ -26,7 +26,7 @@ If you make one by accident or no longer need one, you can delete it.
 
    ![](assets/image2014-9-24-16-3a10-3a59.png)
 
-Bam! You can also&nbsp; [delete specific statuses from channels](delete-a-program-status-from-a-program-channel.md).
+Bam! You can also  [delete specific statuses from channels](delete-a-program-status-from-a-program-channel.md).
 
 >[!NOTE]
 >

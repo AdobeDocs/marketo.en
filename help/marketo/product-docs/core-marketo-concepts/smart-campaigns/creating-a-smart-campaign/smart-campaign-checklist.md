@@ -32,7 +32,7 @@ Follow the below steps to ensure smooth running of the smart campaign and preven
    >**Reminder**
    >
    >
-   >Using&nbsp;**Member of Smart List**&nbsp;could have errors in that other list. Check there too.
+   >Using **Member of Smart List** could have errors in that other list. Check there too.
 
 1. Get Rid of Flow Errors
 1. In your smart campaign, click on **Flow**. Get rid of any red squiggly lines you see by fixing the errors.
@@ -44,18 +44,18 @@ Follow the below steps to ensure smooth running of the smart campaign and preven
    >Hover over the red squiggly line to see details of the error.
 
 1. Review the Schedule Tab
-1. In the **Schedule**&nbsp;tab, check **Smart** **List** **Status**&nbsp;for any errors in the smart campaign that needs fixing.
+1. In the **Schedule** tab, check **Smart** **List** **Status** for any errors in the smart campaign that needs fixing.
 
    ![](assets/three.png)
 
 1. Check Person Restrictions Limit
-1. In the **Schedule**&nbsp;tab, make sure the number of qualified people does not exceed the person restriction limit.
+1. In the **Schedule** tab, make sure the number of qualified people does not exceed the person restriction limit.
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >If required, you can&nbsp; [override person restrictions in a smart campaign](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+   >If required, you can  [override person restrictions in a smart campaign](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >

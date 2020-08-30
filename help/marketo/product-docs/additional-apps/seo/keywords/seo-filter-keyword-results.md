@@ -22,7 +22,7 @@ You might have a lot of [keywords](seo-understanding-keywords.md). Here are diff
 
    >[!NOTE]
    >
-   >If you don't see any lists,&nbsp; [l](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) [earn how to make a keyword list](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
+   >If you don't see any lists,  [l](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) [earn how to make a keyword list](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
 
 Sweet! You will now only be looking at keywords on that list. 
 

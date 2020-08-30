@@ -12,11 +12,11 @@ Discover which programs and channels are giving you the biggest bang for your ma
 >
 >**Reminder**
 >
->To get good data from a program analyzer, make sure your CRM contacts have roles in the opportunities, and that your Marketo programs are fully set up, with&nbsp; [period costs](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), program statuses, and success defined.&nbsp;
+>To get good data from a program analyzer, make sure your CRM contacts have roles in the opportunities, and that your Marketo programs are fully set up, with  [period costs](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), program statuses, and success defined. 
 
 >[!TIP]
 >
->To make programs with no cost appear in the program analyzer,&nbsp; [set their period cost](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) to $0.&nbsp;
+>To make programs with no cost appear in the program analyzer,  [set their period cost](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) to $0. 
 
 1. Click the Analytics tile.
 
@@ -76,5 +76,5 @@ Discover which programs and channels are giving you the biggest bang for your ma
 >
 >**Deep Dive**
 >
->Learn more in&nbsp; [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting)&nbsp;and&nbsp; [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).&nbsp;
+>Learn more in  [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) and  [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics). 
 

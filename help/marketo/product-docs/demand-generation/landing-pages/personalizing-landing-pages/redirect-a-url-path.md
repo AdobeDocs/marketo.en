@@ -12,7 +12,7 @@ Marketo makes it easy to redirect a URL path to any page you choose. Here's how.
 >
 >**Admin Permissions Required**
 
-1. Under&nbsp;**Admin,**&nbsp;click&nbsp;**Landing Pages**.
+1. Under **Admin,** click **Landing Pages**.
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
@@ -20,7 +20,7 @@ Marketo makes it easy to redirect a URL path to any page you choose. Here's how.
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
-1. Click the first&nbsp;**Original URL**&nbsp;drop-down and select your&nbsp;Marketo CNAME.
+1. Click the first **Original URL** drop-down and select your Marketo CNAME.
 
    ![](assets/image2014-9-18-13-3a43-3a49.png)
 
@@ -31,17 +31,17 @@ Marketo makes it easy to redirect a URL path to any page you choose. Here's how.
    >
    >Remember, you can only redirect URLs that start with your Marketo [CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Type&nbsp;the URL path (or specific page) you want to redirect in&nbsp;the second&nbsp;**Original URL**&nbsp;field on the right.
+1. Type the URL path (or specific page) you want to redirect in the second **Original URL** field on the right.
 
    ![](assets/image2014-9-18-13-3a43-3a59.png)
 
-1. Click&nbsp;**Use non-Marketo Landing Page**, type the page you want to redirect visitors to in the&nbsp;**Redirect URL**&nbsp;field, and click&nbsp;**Create**.
+1. Click **Use non-Marketo Landing Page**, type the page you want to redirect visitors to in the **Redirect URL** field, and click **Create**.
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
    You can [use Marketo landing pages](https://docs.marketo.com/x/vAEk) as the destination too.
 
-Congratulations! &nbsp;You've successfully redirected your URL path.
+Congratulations!  You've successfully redirected your URL path.
 
 >[!NOTE]
 >

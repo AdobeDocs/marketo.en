@@ -10,11 +10,11 @@ title: Web Segments
 
 ![](assets/image2014-11-11-20-3a24-3a5.png)
 
-The Segments tab displays all of the custom defined segments that you set up based on various attributes.&nbsp; **A segment is a collection of visitors that meet the specified criteria defined in the ‘Set a Segment’ page.** &nbsp;A segment can be visitors from a specific industry, location or based on the visitor's onsite activity.
+The Segments tab displays all of the custom defined segments that you set up based on various attributes.  **A segment is a collection of visitors that meet the specified criteria defined in the ‘Set a Segment’ page.**  A segment can be visitors from a specific industry, location or based on the visitor's onsite activity.
 
 In Web Personalization, a visitor can match more than one segment. For example, if there is a segment for USA visitors and a segment for finance companies, a web visitor from Bank of America would match **both** the segment for USA visitor and the segment for finance companies.
 
-**GRAPH:** &nbsp;The Segments page displays a bar chart graph of the selected segments according to the number of visitors from the segment (y axis) and the segment name (x axis).
+**GRAPH:**  The Segments page displays a bar chart graph of the selected segments according to the number of visitors from the segment (y axis) and the segment name (x axis).
 
 <table> 
  <thead> 
@@ -69,7 +69,7 @@ These details include:
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
-To enable or disable a segment, select the checkbox of that Segment in the table and in the "Choose Action" drop-down&nbsp;box at the bottom of the table, select the action "Enable" or "Disable". When a segment is disabled, the word "disable" displays under the State column.
+To enable or disable a segment, select the checkbox of that Segment in the table and in the "Choose Action" drop-down box at the bottom of the table, select the action "Enable" or "Disable". When a segment is disabled, the word "disable" displays under the State column.
 
 ## Create Segments {#create-segments}
 
@@ -85,10 +85,10 @@ Define general parameters to your segment:
 
 1.
 
-    * **Name:** &nbsp;Name your segment.
-    * **Description:** &nbsp;Provide a more detailed explanation of the segment criteria.
-    * **Domains:** &nbsp;Select the domain/s you want to include in the segment.
-    * **Segment Rule Logic:** &nbsp;Select an AND / OR logic to build each segmentation attribute
+    * **Name:**  Name your segment.
+    * **Description:**  Provide a more detailed explanation of the segment criteria.
+    * **Domains:**  Select the domain/s you want to include in the segment.
+    * **Segment Rule Logic:**  Select an AND / OR logic to build each segmentation attribute
     * **Timing:** Define the level of visitor engagement you want in your campaign
 
         * **On Entry**: Engage from the visitor arrives on the website
@@ -132,9 +132,9 @@ Drag and drop **Location **into the segment editor.
 * Select from the following parameters:
 
     * **Include **- Select whether you want the campaign to include or exclude a location.
-    * **Select country to add** &nbsp;- From the drop-down box, select the country you wish to include in the segment. The country name appears to the right. You can choose multiple countries.
+    * **Select country to add**  - From the drop-down box, select the country you wish to include in the segment. The country name appears to the right. You can choose multiple countries.
 
-Once the country is added, you can specify the state, city and zip code of the segment as well.&nbsp;
+Once the country is added, you can specify the state, city and zip code of the segment as well. 
 
 * **Select State or Province to add** - From the drop-down box, select the U.S. state or Canadian Province you wish to include. You can make multiple selections.
 * **Zip Code** - Enter the zip code you wish to include in your segment.
@@ -158,7 +158,7 @@ Under the **Profile Segmentation** section, check the box next to **Organization
 * From the drop-down box, select from the following choices:
 
     * Fortune 500 - Includes only Fortune 500 companies in this segment
-    * Fortune&nbsp;1000 - Includes only Fortune 1000 companies in this segment
+    * Fortune 1000 - Includes only Fortune 1000 companies in this segment
     * Global 2000 - Includes the Global 2000 companies in this segment
     * Enterprise - Includes organizations with more than 1,000 employees and revenue greater than $250M
     * SMB - Includes only small and medium businesses in this segment
@@ -217,7 +217,7 @@ Define your segment according to a prospect’s status: known or anonymous.
 *
 
     * Known - Select this option from the drop-down box for known visitors. A visitor is known when they submit a form on your website and appear in the Web Personalization People page.
-    * Anonymous&nbsp;- Select this option from the drop-down box for anonymous visitors.
+    * Anonymous - Select this option from the drop-down box for anonymous visitors.
 
 ![](assets/image2015-5-27-17-3a23-3a2.png) 
 
@@ -241,7 +241,7 @@ Define your segment according to a prospect’s status: known or anonymous.
 
     * The visitor searched for - From the drop-down list, select the terms you want to track from your visitors search, or add your own search terms. (There is no need for the &#42; wildcard on search terms as it is set as default to include phrases that contain the search term).
 
-**Referrals** -&nbsp;Add URLs that the visitor was referred by.
+**Referrals** - Add URLs that the visitor was referred by.
 
 *
 
@@ -278,15 +278,15 @@ Drag and drop the Mobile OS into the Segment editor
     * The visitor is using this specific device/OS
     * The visitor is not using any mobile device
 
-* **Device** &nbsp;- From the drop-down list, select from one or more devices (Apple, Samsung, LG, HTC, Nexus, Blackberry etc...). The selected devices appear below.
+* **Device**  - From the drop-down list, select from one or more devices (Apple, Samsung, LG, HTC, Nexus, Blackberry etc...). The selected devices appear below.
 
-**Browser**&nbsp;
+**Browser** 
 
 Target visitor that use specific browser types and/or versions.
 
 *
 
-    * Browser&nbsp;Type - From the drop-down box, select one or more Internet browsers . The selected browsers appear below.
+    * Browser Type - From the drop-down box, select one or more Internet browsers . The selected browsers appear below.
     * Browser Version - Enter the browser version you wish to add to the segment. You can select multiple versions by separating each with a comma. (Using &#42; as a wildcard is permitted).
 
 ### API {#api}

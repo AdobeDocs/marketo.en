@@ -29,9 +29,9 @@ One of the coolest features of Marketo is the ability to let sales people partic
 
    ![](assets/image2015-5-20-16-3a3-3a25.png)
 
-1. Find and drag&nbsp;**Campaign** **is** **Requested **to the canvas.
+1. Find and drag **Campaign** **is** **Requested **to the canvas.
 
-   &nbsp; ![](assets/campaignfilterdrag.png)
+     ![](assets/campaignfilterdrag.png)
 
 1. The source choices indicate what kind of request will be honored. For Salesforce functionality, make sure to choose **Sales** **Insight**.
 

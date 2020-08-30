@@ -6,7 +6,7 @@ title: Publish a Sweepstakes
 
 # Publish a Sweepstakes {#publish-a-sweepstakes}
 
-After you&nbsp; [create a sweepstakes](create-sweepstakes.md), you can publish it on your Marketo landing pages, on your website, and your Facebook.
+After you  [create a sweepstakes](create-sweepstakes.md), you can publish it on your Marketo landing pages, on your website, and your Facebook.
 
 >[!NOTE]
 >

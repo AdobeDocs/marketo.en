@@ -26,7 +26,7 @@ You want to manage your pages? You can easily do that by creating a list. You ca
 
    >[!TIP]
    >
-   >You can also make a new list&nbsp;for your page to go. Just type your desired name in&nbsp;Create a new list.&nbsp;
+   >You can also make a new list for your page to go. Just type your desired name in Create a new list. 
 
 1. Click on the list you've just added your page to.
 

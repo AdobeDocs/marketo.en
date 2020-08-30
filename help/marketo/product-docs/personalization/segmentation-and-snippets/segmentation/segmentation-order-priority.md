@@ -33,7 +33,7 @@ It is important to understand how **order** sets the priority for evaluation of 
 
 >[!NOTE]
 >
->* The segments are mutually exclusive.&nbsp;A person can be a member of&nbsp;only one&nbsp;Segment at a time.
+>* The segments are mutually exclusive. A person can be a member of only one Segment at a time.
 >* When a person qualifies for two segments, they will belong only to the first one in the list.
 >* If a person does not qualify for any Segment, they will become a member of the Default Segment.
 >

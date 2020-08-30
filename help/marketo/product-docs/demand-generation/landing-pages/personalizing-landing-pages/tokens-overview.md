@@ -53,7 +53,7 @@ In this example, the email will say "Greetings, (first name)" or "Greetings, ear
 * {{lead.Fax Number}}
 * {{lead.First Name}}
 * {{lead.Full Name}}
-* {{lead.Id}}&nbsp;
+* {{lead.Id}} 
 * {{lead.Inferred City}}
 * {{lead.Inferred Company}}
 * {{lead.Inferred Country}}

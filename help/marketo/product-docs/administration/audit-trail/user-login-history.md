@@ -6,7 +6,7 @@ title: User Login History
 
 # User Login History {#user-login-history}
 
-The User Login History helps maintain accountability and security by&nbsp;showing you exactly who's been logging into your subscription, including failed login attempts.
+The User Login History helps maintain accountability and security by showing you exactly who's been logging into your subscription, including failed login attempts.
 
 >[!NOTE]
 >

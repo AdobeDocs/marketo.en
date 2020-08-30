@@ -8,7 +8,7 @@ title: Release Notes: Winter '17
 
 The following features are included in the Winter '17 release. Check your Marketo edition for feature availability.
 
-Please click the title links to view detailed articles for each feature**. Note:&nbsp;**If a topic has multiple subheadings, the links are placed there.&nbsp;
+Please click the title links to view detailed articles for each feature**. Note: **If a topic has multiple subheadings, the links are placed there. 
 
 ## [Advanced Matching for Facebook Custom Audiences](../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
 
@@ -50,7 +50,7 @@ Use Named Account or Account List as dimensions in Email Insights.
 
 ** [Filter by Enabled Source](../../product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-Filter Predictive Content pieces that are enabled for Email,&nbsp;Rich Media, or the Recommendation Bar.&nbsp;
+Filter Predictive Content pieces that are enabled for Email, Rich Media, or the Recommendation Bar. 
 
 ![](assets/predictive-content-enabled-source.png)
 
@@ -62,7 +62,7 @@ Filter Predictive Content analytics for specific sources — Email, Rich Media, 
 
 ** [Predictive Content Editor](http://docs.marketo.com/display/docs/edit+predictive+content)**
 
-There's an improved editing experience and layout that splits content preparation by source — Email,&nbsp;Rich Media, or Recommendation Bar.&nbsp;
+There's an improved editing experience and layout that splits content preparation by source — Email, Rich Media, or Recommendation Bar. 
 
 ![](assets/predictive-content-editor.png)
 

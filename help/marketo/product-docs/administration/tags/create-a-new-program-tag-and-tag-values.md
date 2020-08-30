@@ -10,7 +10,7 @@ title: Create a New Program Tag and Tag Values
 >
 >**Admin Permissions Required**
 
-You can create custom&nbsp; [tags](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)&nbsp;for your programs and assign values to the tag.
+You can create custom  [tags](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) for your programs and assign values to the tag.
 
 >[!NOTE]
 >
@@ -46,7 +46,7 @@ You can create custom&nbsp; [tags](../../../product-docs/core-marketo-concepts/p
 
    >[!NOTE]
    >
-   >If the tag type is&nbsp;**Required**,&nbsp;users will be required to enter a value for the tag when creating a new program.
+   >If the tag type is **Required**, users will be required to enter a value for the tag when creating a new program.
 
    ![](assets/image2014-9-24-12-3a19-3a17.png)
 

@@ -39,7 +39,7 @@ You can quickly and easily delete some/all people that are in a list or a smart 
 
    >[!NOTE]
    >
-   >If the results span over multiple pages, clicking&nbsp;**Select** **All**&nbsp;will select all people across all pages.
+   >If the results span over multiple pages, clicking **Select** **All** will select all people across all pages.
 
 1. To completely remove the people from Marketo, click **Delete** **Person**.
 

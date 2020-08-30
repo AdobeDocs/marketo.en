@@ -43,7 +43,7 @@ To A/B test your personalized campaigns, you can select two or more campaigns, a
    >Selecting **Auto-Tune** allows the Web Personalization platform to automatically recognize the better performing split test campaign, and continues with the highest converting campaign while pausing the others.
 
 1. Repeat the above process with the second campaign.
-1. Select the second campaign you want to A/B test. Click **Edit**.&nbsp;
+1. Select the second campaign you want to A/B test. Click **Edit**. 
 
    ** ![](assets/image2016-11-4-13-3a51-3a39.png)
 
@@ -53,7 +53,7 @@ To A/B test your personalized campaigns, you can select two or more campaigns, a
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
-1. **Save **or **Launch **the campaign.&nbsp;
+1. **Save **or **Launch **the campaign. 
 1. Repeat this process for a third or fourth campaign to test.
 1. In **Web** **Campaigns** you can see the split test campaigns denoted by the A/B icon.
 

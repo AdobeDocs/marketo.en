@@ -26,7 +26,7 @@ Sales Connect arms you with the ability to automatically log your prospects' rep
 
 ## Setting Type to Reply in Salesforce {#setting-type-to-reply-in-salesforce}
 
-Getting meaningful data from your Salesforce reports is important. Having the ability to have the Type field populate as 'Reply' allows you to get that data through your reports. Partner up with your `Salesforce admin` to get this setup.&nbsp;
+Getting meaningful data from your Salesforce reports is important. Having the ability to have the Type field populate as 'Reply' allows you to get that data through your reports. Partner up with your `Salesforce admin` to get this setup. 
 
 1. Go to **Setup **> **Customize **> **Activities **> **Task Fields**.
 1. Click **Type**.

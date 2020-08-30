@@ -72,7 +72,7 @@ A Target URL is located under the Set Campaign page and defines the specific URL
 
    >[!NOTE]
    >
-   >Target URL with In Zones must define a specific URL or URLs. In advanced use cases, In Zone web campaigns can use Wildcards at end of URL path. Example: [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)&nbsp;
+   >Target URL with In Zones must define a specific URL or URLs. In advanced use cases, In Zone web campaigns can use Wildcards at end of URL path. Example: [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*) 
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 

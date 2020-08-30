@@ -22,7 +22,7 @@ Hidden form fields can silently capture data without the visitor's input. Here's
 
 >[!TIP]
 >
->Keyboard shortcut!&nbsp;After selecting a form field, press Ctrl+Alt+H to make it hidden.
+>Keyboard shortcut! After selecting a form field, press Ctrl+Alt+H to make it hidden.
 
 >[!NOTE]
 >

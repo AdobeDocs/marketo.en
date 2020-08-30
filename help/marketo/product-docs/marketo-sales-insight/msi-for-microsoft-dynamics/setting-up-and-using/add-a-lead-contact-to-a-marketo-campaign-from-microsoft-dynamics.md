@@ -30,6 +30,6 @@ You can quickly and easily add leads/contacts to Marketo smart campaigns directl
 
    >[!NOTE]
    >
-   >For the campaign to appear in the drop-down, use the&nbsp; [**Campaign is Requested** trigger](http://docs.marketo.com/pages/viewpage.action?pageId=7514898), with&nbsp;Sales Insight as the source, when you set up the campaign.
+   >For the campaign to appear in the drop-down, use the  [**Campaign is Requested** trigger](http://docs.marketo.com/pages/viewpage.action?pageId=7514898), with Sales Insight as the source, when you set up the campaign.
 
 And that's all folks! You now have the power of Marketo smart campaigns in your hands directly from Dynamics.

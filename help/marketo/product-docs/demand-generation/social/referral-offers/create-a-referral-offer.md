@@ -42,7 +42,7 @@ Referral offers give people an incentive to refer their friends. Create goals an
 
    >[!NOTE]
    >
-   >On this screen, you can also add a privacy policy link. See&nbsp; [Add Your Privacy Policy to a Social App](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >On this screen, you can also add a privacy policy link. See  [Add Your Privacy Policy to a Social App](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
 1. Click **Finish.**
 
@@ -52,7 +52,7 @@ Referral offers give people an incentive to refer their friends. Create goals an
 
    >[!TIP]
    >
-   >To change any of the defaults in your referral offer, click&nbsp;**Back**. To save your work for later without approving, click&nbsp;**Close.**
+   >To change any of the defaults in your referral offer, click **Back**. To save your work for later without approving, click **Close.**
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 

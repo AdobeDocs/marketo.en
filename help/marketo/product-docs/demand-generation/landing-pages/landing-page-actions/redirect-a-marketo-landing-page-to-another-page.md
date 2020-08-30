@@ -29,7 +29,7 @@ If you ever update a page's URL and want the old URL to still work, try a redire
    >**Reminder**
    >
    >
-   >Remember, you can only redirect URLs that start with your Marketo&nbsp; [CNAME](customize-your-landing-page-urls-with-a-cname.md).
+   >Remember, you can only redirect URLs that start with your Marketo  [CNAME](customize-your-landing-page-urls-with-a-cname.md).
 
 1. Choose the landing page you want to redirect in the **second Original URL** field.
 

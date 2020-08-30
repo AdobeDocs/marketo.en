@@ -30,7 +30,7 @@ If you use Salesforce, sync error notifications look something like the one belo
 
 Engagement
 
-When leads become exhausted in a stream, we send a notification. &nbsp;The notification includes the number of leads who became exhausted and some other information.
+When leads become exhausted in a stream, we send a notification.  The notification includes the number of leads who became exhausted and some other information.
 
 ![](assets/image2014-10-14-10-3a57-3a9.png)
 
@@ -40,7 +40,7 @@ If you try to send leads to Facebook without accepting the Terms of Service, or 
 
 Idle Trigger Campaign Cleanup
 
-Deactivate triggered Smart Campaigns that no longer get any activity. Learn more about&nbsp; [automatic trigger campaign cleanup](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Deactivate triggered Smart Campaigns that no longer get any activity. Learn more about  [automatic trigger campaign cleanup](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 LinkedIn
 

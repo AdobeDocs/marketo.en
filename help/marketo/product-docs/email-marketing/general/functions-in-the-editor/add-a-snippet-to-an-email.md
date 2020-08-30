@@ -6,7 +6,7 @@ title: Add a Snippet to an Email
 
 # Add a Snippet to an Email {#add-a-snippet-to-an-email}
 
-Snippets are reusable blocks of rich text and graphics that you can use&nbsp;in your emails and landing pages.
+Snippets are reusable blocks of rich text and graphics that you can use in your emails and landing pages.
 
 >[!NOTE]
 >

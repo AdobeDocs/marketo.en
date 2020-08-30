@@ -22,7 +22,7 @@ In Marketo, finding images and files is a breeze.
 
 >[!TIP]
 >
->To start a new search, click the&nbsp;**x**&nbsp;in the&nbsp;**Quick** **Find**&nbsp;box.
+>To start a new search, click the **x** in the **Quick** **Find** box.
 
 Kick up your feet - you're done!
 

@@ -10,7 +10,7 @@ Goals are ways to track progress and motivate your team. Once created, they must
 
 Like presentations, goals are [workspace](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specific.
 
-1. Go to the&nbsp;**Calendar**.
+1. Go to the **Calendar**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 

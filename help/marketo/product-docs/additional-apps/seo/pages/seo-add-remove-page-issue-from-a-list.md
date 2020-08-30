@@ -28,7 +28,7 @@ You can organize your page issues into lists. You can also remove page issues fr
 
    >[!TIP]
    >
-   >You can also make a new list&nbsp;for your keyword to go. Just type your desired name in&nbsp;Create a new list.&nbsp;
+   >You can also make a new list for your keyword to go. Just type your desired name in Create a new list. 
 
    ## Remove Page Issue From a List {#remove-page-issue-from-a-list}
 

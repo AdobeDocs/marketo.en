@@ -11,7 +11,7 @@ Some insights into the world and language of Marketo Web Personalization.
 | Term |Definition |
 |---|---|
 | **Anonymous Visitor** |A web visitor who never filled out a form or left their details on the website.  |
-| **Web Campaign** |A customized reaction associated with a specific segment.&nbsp;With Web Personalization, web campaigns include Dialogs, In Zones and Widgets. |
+| **Web Campaign** |A customized reaction associated with a specific segment. With Web Personalization, web campaigns include Dialogs, In Zones and Widgets. |
 | **Clickstream** |The visitor's activity and URL path on the site and how long they visited each page |
 | **ISP** |Internet Service Provider |
 | **Known Visitor** |A web visitor who has completed a form and left their details (email address) on your website or clicked a link in a Marketo email. |

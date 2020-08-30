@@ -28,7 +28,7 @@ The keywords section will show you how successful your site is at achieving this
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Rank &amp; Trend</td> 
-   <td colspan="1" rowspan="1"><p>The rank of your site for this keyword. Arrows show how your keyword rank is trending from the previous week </p><p><img alt="--" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  = rank up</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">&nbsp;= rank down</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">= rank the same</p></td> 
+   <td colspan="1" rowspan="1"><p>The rank of your site for this keyword. Arrows show how your keyword rank is trending from the previous week </p><p><img alt="--" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  = rank up</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> = rank down</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">= rank the same</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Competition Level</td> 
@@ -47,7 +47,7 @@ The keywords section will show you how successful your site is at achieving this
 
 ## Keywords - Competitor View {#keywords-competitor-view}
 
-You can also view how your competitors are performing using the same metrics by clicking on the view drop-down and selecting competitors.&nbsp;
+You can also view how your competitors are performing using the same metrics by clicking on the view drop-down and selecting competitors. 
 
 ![](assets/image2014-9-17-21-3a44-3a45.png)
 

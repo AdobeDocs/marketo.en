@@ -19,7 +19,7 @@ Prioritize your web campaigns when two or more web campaigns overlap by setting 
 >
 >An In Zone campaign and a (Widget or Dialog) campaign can react on the same page.
 
-1.&nbsp;Go to Web Campaigns.
+1. Go to Web Campaigns.
 
 ![](assets/web-campaigns-hand-6.jpg)
 
@@ -27,7 +27,7 @@ Prioritize your web campaigns when two or more web campaigns overlap by setting 
 >
 >To make it easier to find the web campaign you want, use the [filter feature](filter-web-campaigns.md).
 
-2. In the&nbsp;Edit Campaign Page, set the&nbsp;Priority Score (9999 = Highest Priority &nbsp;1 = Lowest Priority).
+2. In the Edit Campaign Page, set the Priority Score (9999 = Highest Priority  1 = Lowest Priority).
 
 ![](assets/image2015-7-9-20-3a20-3a58.png)
 
@@ -41,4 +41,4 @@ Prioritize your web campaigns when two or more web campaigns overlap by setting 
 
 ![](assets/web-campaign-priority-score.jpg)
 
-**&nbsp;**
+** **

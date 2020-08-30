@@ -24,11 +24,11 @@ Once you have prepared the content title, description and image for Rich Media, 
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. For multiple pieces of content, on the **Predictive Content** page, check the boxes next to the title(s).&nbsp;
+1. For multiple pieces of content, on the **Predictive Content** page, check the boxes next to the title(s). 
 
-   &nbsp; ![](assets/image2017-10-3-10-3a0-3a42.png)
+     ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Click the&nbsp;**Content Actions**&nbsp;drop-down and select&nbsp;**Enable for Web Rich Media**.
+1. Click the **Content Actions** drop-down and select **Enable for Web Rich Media**.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 

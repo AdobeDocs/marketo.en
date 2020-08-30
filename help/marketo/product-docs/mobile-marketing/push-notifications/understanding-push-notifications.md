@@ -18,7 +18,7 @@ Marketo mobile engagement allows you to create, configure, and send a notificati
 
 ## Step 1: Admin and Developer Perform Initial Setups {#step-admin-and-developer-perform-initial-setups}
 
-The Marketo Admin and mobile apps developer work together to set you up.&nbsp;See [Before You Create Push Notifications and In-App Messages](../../../product-docs/mobile-marketing/admin-mobile-marketing/before-you-create-push-notifications-and-in-app-messages.md) for details.
+The Marketo Admin and mobile apps developer work together to set you up. See [Before You Create Push Notifications and In-App Messages](../../../product-docs/mobile-marketing/admin-mobile-marketing/before-you-create-push-notifications-and-in-app-messages.md) for details.
 
 ## Step 2: Create a Push Notification {#step-create-a-push-notification}
 

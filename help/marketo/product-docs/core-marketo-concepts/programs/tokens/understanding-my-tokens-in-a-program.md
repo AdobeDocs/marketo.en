@@ -8,7 +8,7 @@ title: Understanding My Tokens in a Program
 
 A token is a variable that you can use in [emails](../../../../product-docs/email-marketing.md), [landing pages](http://docs.marketo.com/display/docs/landing+pages), and [smart campaigns](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) to make your life easier.
 
-In addition to My Tokens, you can also use any of the built-in tokens in your programs. Check out the [Tokens Overview](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).&nbsp;
+In addition to My Tokens, you can also use any of the built-in tokens in your programs. Check out the [Tokens Overview](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md). 
 
 ## My Tokens  {#my-tokens}
 
@@ -42,7 +42,7 @@ Examples:
    <td>Use this token to execute a Velocity script in your emails. Learn more <a href="http://developers.marketo.com/documentation/email-scripting/" title="Follow link" rel="nofollow">here</a>. </td> 
   </tr> 
   <tr> 
-   <td>Number<span>&nbsp;<img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
+   <td>Number<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
    <td>Any integer. It can even be negative.</td> 
   </tr> 
   <tr> 

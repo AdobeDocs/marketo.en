@@ -22,7 +22,7 @@ Focus your [Campaign Activity Report](../../../../product-docs/reporting/basic-r
 
    >[!TIP]
    >
-   >If you select a folder, your report will include everything that folder contains at the time the report runs.&nbsp;
+   >If you select a folder, your report will include everything that folder contains at the time the report runs. 
 
 1. You're done! Click the **Report** tab to see *just* the selected smart campaigns in your report.
 

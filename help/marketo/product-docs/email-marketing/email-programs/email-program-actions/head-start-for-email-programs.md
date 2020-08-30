@@ -60,7 +60,7 @@ When you choose a date/time for an Email Program, it determines when the program
 
    ## Head Start with Recipient Time Zone {#head-start-with-recipient-time-zone}
 
-   Our existing Head Start feature requires the program to be scheduled at least 12 hours in advance. What does that mean for Recipient Time Zone? Recall that when Recipient Time Zone is active, we start running the email program at midnight in the earliest time zone (UTC +14:00). So, to enable **both** Head Start and Recipient Time Zone, programs need to be scheduled **at least 12 hours ahead of the earliest time zone (UTC&nbsp;+14:00**.)
+   Our existing Head Start feature requires the program to be scheduled at least 12 hours in advance. What does that mean for Recipient Time Zone? Recall that when Recipient Time Zone is active, we start running the email program at midnight in the earliest time zone (UTC +14:00). So, to enable **both** Head Start and Recipient Time Zone, programs need to be scheduled **at least 12 hours ahead of the earliest time zone (UTC +14:00**.)
 
    This means that if you're in America/Los Angeles and want to enable both Head Start and Recipient Time Zone, you need to schedule the program **34 hours** in advance. How did we get to this number?
 

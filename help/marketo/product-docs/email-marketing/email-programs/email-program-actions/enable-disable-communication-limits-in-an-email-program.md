@@ -6,7 +6,7 @@ title: Enable/Disable Communication Limits in an Email Program
 
 # Enable/Disable Communication Limits in an Email Program {#enable-disable-communication-limits-in-an-email-program}
 
-When running an email program, you can choose to ignore or respect the&nbsp; [admin level communication limit](../../../../product-docs/administration/email-setup/enable-communication-limits.md) [s](../../../../product-docs/administration/email-setup/enable-communication-limits.md). Here's how to do it.
+When running an email program, you can choose to ignore or respect the  [admin level communication limit](../../../../product-docs/administration/email-setup/enable-communication-limits.md) [s](../../../../product-docs/administration/email-setup/enable-communication-limits.md). Here's how to do it.
 
 >[!NOTE]
 >

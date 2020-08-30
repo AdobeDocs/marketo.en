@@ -12,7 +12,7 @@ If you ever need to delete a stream from your engagement program, follow these q
 
 ![](assets/login-marketing-activities-1.png)
 
-2. Select your engagement program and go to&nbsp;Streams.
+2. Select your engagement program and go to Streams.
 
 ![](assets/cloneasteam-2.jpg)
 
@@ -30,5 +30,5 @@ If you ever need to delete a stream from your engagement program, follow these q
 
    >[!NOTE]
    >
-   >If the stream has people in it, you will be asked to&nbsp; [move](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)&nbsp;them out first.
+   >If the stream has people in it, you will be asked to  [move](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) them out first.
 

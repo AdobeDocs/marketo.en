@@ -40,7 +40,7 @@ Here's how to set up your predictive content for emails.
 
 1. To add or edit the image URL, click **Edit Image**.
 
-   ![](assets/image2017-10-3-9-3a33-3a11.png)&nbsp;
+   ![](assets/image2017-10-3-9-3a33-3a11.png) 
 
 1. Insert the image URL and click **Add**.
 

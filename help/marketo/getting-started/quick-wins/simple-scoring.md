@@ -102,7 +102,7 @@ title: Simple Scoring
 
    ![](assets/image2014-9-24-11-3a47-3a51.png)
 
-1. Fill out the form with your first name, last name, and email address, then click&nbsp; **Submit** .
+1. Fill out the form with your first name, last name, and email address, then click  **Submit** .
 
    ![](assets/image2014-9-24-11-3a47-3a59.png)
 

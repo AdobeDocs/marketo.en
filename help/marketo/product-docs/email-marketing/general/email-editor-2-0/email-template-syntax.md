@@ -29,7 +29,7 @@ Elements are content regions that you define as editable in your email template.
 
 ## Rich Text {#rich-text}
 
-If you define a region as Rich Text, users will be able to edit its contents [using Marketo's Rich Text Editor](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). There are two ways to define a Rich Text element inside of an email template: mktEditable and mktoText. Keep in mind, a&nbsp;Rich Text element can always be converted into a snippet from within the email editor.
+If you define a region as Rich Text, users will be able to edit its contents [using Marketo's Rich Text Editor](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). There are two ways to define a Rich Text element inside of an email template: mktEditable and mktoText. Keep in mind, a Rich Text element can always be converted into a snippet from within the email editor.
 
 ###### Option 1 - mktEditable {#option-mkteditable}
 
@@ -58,7 +58,7 @@ Required attributes
 **mktoName** : String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.  
   
 Default Value   
-The content within the HTML element (if provided) with class="mktoText" will be used as the default value for the Rich Text element.&nbsp;
+The content within the HTML element (if provided) with class="mktoText" will be used as the default value for the Rich Text element. 
 
 Example:
 `<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>` 
@@ -85,7 +85,7 @@ Optional attributes
 **mktoLockImgStyle:** Used to lock the <img> element's style property (default is false).
 
 Default value (optional)  
-**<img>**:&nbsp;To be used as the <img> element that the image will be placed in. Useful if you want to add inline styling to the image. Remember to include surrounding <a> </a> tags, so if the user adds a link, your styling won't be stripped!
+**<img>**: To be used as the <img> element that the image will be placed in. Useful if you want to add inline styling to the image. Remember to include surrounding <a> </a> tags, so if the user adds a link, your styling won't be stripped!
 
 Example:
 `<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="http://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>` 
@@ -109,14 +109,14 @@ Example:
 
 ## Snippets {#snippets}
 
-If you define a region as a Snippet, end users will be able to choose which approved [Snippet](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)they'd like to insert in this region. Although Rich Text elements can be converted into Snippets from within the email editor, when you define a region specifically as a Snippet it cannot be converted to Rich Text.&nbsp;You can specify a Snippet region using a <div> with class=”mktoSnippet”
+If you define a region as a Snippet, end users will be able to choose which approved [Snippet](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)they'd like to insert in this region. Although Rich Text elements can be converted into Snippets from within the email editor, when you define a region specifically as a Snippet it cannot be converted to Rich Text. You can specify a Snippet region using a <div> with class=”mktoSnippet”
 
 Required attributes  
 **id: **ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.  
 **mktoName:** String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.
 
 Default value (optional)  
-**mktoDefaultSnippetId**:&nbsp;The numerical ID of the Marketo Snippet that should appear by default (will only work if a Snippet with that ID exists and is approved in that workspace).
+**mktoDefaultSnippetId**: The numerical ID of the Marketo Snippet that should appear by default (will only work if a Snippet with that ID exists and is approved in that workspace).
 
 Example:
 `<pre data-theme="Confluence"><div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div></pre>` 
@@ -149,7 +149,7 @@ Required attributes
 
 Optional attributes  
 **allowHTML:** Boolean. Controls if the variable's value is HTML-escaped. Defaults to False if omitted.**default**: Default value for the string. Blank if omitted.  
-**mktoModuleScope**: Boolean. Controls whether the variable is local (true) or global (false) when used in a module.&nbsp;Defaults to False if omitted.
+**mktoModuleScope**: Boolean. Controls whether the variable is local (true) or global (false) when used in a module. Defaults to False if omitted.
 
 Example Declaration:
 `<pre data-theme="Confluence"><meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me"></pre>` Example Usage:
@@ -160,7 +160,7 @@ Example Declaration:
 If you specify a variable as a List, the end user will be able to pick from a set of values you define in the email editor. You specify a List variable using <meta> with class=“mktoList”
 
 Required attributes  
-**id**:&nbsp;How you reference the variable within your email template.  
+**id**: How you reference the variable within your email template.  
 **mktoName:** String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.  
 **values:** Comma separated list of values. Must have at least one string.
 
@@ -177,7 +177,7 @@ Example Declaration:
 If you specify a variable as a Number, the end user will be able to enter a number in the email editor. You specify a Number variable using <meta> with class=”mktoNumber”
 
 Required attributes  
-**id**:&nbsp;How you reference the variable within your email template.  
+**id**: How you reference the variable within your email template.  
 **mktoName**: String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.  
 **default:** Default numeric value for the variable.
 
@@ -197,7 +197,7 @@ Example Declaration:
 If you specify a variable as a Color, the end user will be able to enter a hexadecimal color value or choose a color from the color picker within the email editor. You specify a Color variable using <meta> with class=“mktoColor”
 
 Required attributes  
-**id**:&nbsp;How you reference the variable within your email template.  
+**id**: How you reference the variable within your email template.  
 **mktoName**: String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.
 
 Optional attributes  
@@ -210,10 +210,10 @@ Example Declaration:
 
 ## Boolean {#boolean}
 
-If you specify a variable as a Boolean, the end user will be able to toggle the option on/off within the email editor. You specify a Boolean variable using&nbsp;<meta> with class=“mktoBoolean”
+If you specify a variable as a Boolean, the end user will be able to toggle the option on/off within the email editor. You specify a Boolean variable using <meta> with class=“mktoBoolean”
 
 Required attributes  
-**id**:&nbsp;How you reference the variable within your email template.  
+**id**: How you reference the variable within your email template.  
 **mktoName**: String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.
 
 Optional attributes  
@@ -233,7 +233,7 @@ Example Declaration:
 If you specify a variable as an HTML Block, the end user will be able to input verbatim HTML from within the email editor. You specify an HTML Block variable using <meta> with class=”mktoHTML”
 
 Required attributes  
-**id**:&nbsp;How you reference the variable within your email template.  
+**id**: How you reference the variable within your email template.  
 **mktoName**: String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.
 
 Optional attributes**default:** HTML encoded value to serve as the default contents of the block.  
@@ -245,15 +245,15 @@ Example Declaration:
 
 ## Image Variable {#image-variable}
 
-If you specify a variable as an Image, the end user will be able to choose an image from the image picker within the email editor. The selected image URL will be the value of the variable. You specify an Image variable using&nbsp;<meta> with class="mktoImg"
+If you specify a variable as an Image, the end user will be able to choose an image from the image picker within the email editor. The selected image URL will be the value of the variable. You specify an Image variable using <meta> with class="mktoImg"
 
 Required attributes  
-**id**:&nbsp;How you reference the variable within your email template.  
+**id**: How you reference the variable within your email template.  
 **mktoName**: String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.
 
 Optional attributes  
 **default:** Default image URL for the element.  
-**mktoModuleScope**: Boolean.&nbsp;Controls whether the variable is local (true) or global (false) when used in a module.&nbsp;Defaults to False if omitted.
+**mktoModuleScope**: Boolean. Controls whether the variable is local (true) or global (false) when used in a module. Defaults to False if omitted.
 
 Example Declaration:
 `<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="http://www.company.com/image.jpg"></pre>` Example Usage:
@@ -272,7 +272,7 @@ Specified using <tr> with class=”mktoModule”
 Specified using <table> with class="mktoModule"
 
 Required attributes  
-**id**:&nbsp;How you reference the module within your email template.  
+**id**: How you reference the module within your email template.  
 **mktoName**: String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.
 
 Optional attributes  
@@ -292,7 +292,7 @@ A container holds Modules and defines where they can be placed. When end users a
 **Specified using either <table>, <tbody>, <thead>, <tfoot> or <td> with class=”mktoContainer”**
 
 Required attributes  
-**id**:&nbsp;How you reference the module within your email template.
+**id**: How you reference the module within your email template.
 
 >[!CAUTION]
 >

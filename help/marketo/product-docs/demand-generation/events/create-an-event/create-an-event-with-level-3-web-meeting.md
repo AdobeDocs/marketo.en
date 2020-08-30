@@ -18,10 +18,10 @@ title: Create an Event with Level 3 Web Meeting
 First create your Webinar in Level 3. If you need help, check out the [Level 3 Resource Library](http://www.level3.com/en/resource-library/). You'll find it to be very similar to BrightTalk.  Marketo uses a small subset of Level 3 fields:
 
 * **Name** - The name of the webcast.
-* **Start Date**&nbsp;- The start date for the webcast.
+* **Start Date** - The start date for the webcast.
 * **End Date** - The end date for the webcast.
-* **Time Zone**&nbsp;- The time zone set for the webcast.
-* **Description**&nbsp;- The webcast description.
+* **Time Zone** - The time zone set for the webcast.
+* **Description** - The webcast description.
 
 1. Select your new event. Click **Event Actions,** then **Event Settings.**
 

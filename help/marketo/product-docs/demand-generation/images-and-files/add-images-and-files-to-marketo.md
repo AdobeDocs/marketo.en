@@ -37,7 +37,7 @@ It's easy to add multiple images and files all at once.
    >**Reminder**
    >
    >
-   >To remove any queued files before upload, click the&nbsp;x&nbsp;next to the file name.
+   >To remove any queued files before upload, click the x next to the file name.
 
    >[!TIP]
    >

@@ -6,7 +6,7 @@ title: Release Notes: March 2015
 
 # Release Notes: March 2015 {#release-notes-march}
 
-The following features are included in the March 2015 release. Please check your Marketo Edition for feature availability. After the release, be sure to come back to find links to detailed articles for each feature.&nbsp;
+The following features are included in the March 2015 release. Please check your Marketo Edition for feature availability. After the release, be sure to come back to find links to detailed articles for each feature. 
 
 ## Calendar HD {#calendar-hd}
 
@@ -18,11 +18,11 @@ The following features are included in the March 2015 release. Please check your
 
 ![](assets/image2015-3-23-11-3a39-3a15.png)  
 
-## Google Adwords Integration&nbsp; {#google-adwords-integration}
+## Google Adwords Integration  {#google-adwords-integration}
 
-Link your [Google AdWords account to Marketo](../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)&nbsp;to automatically upload offline conversion data from Marketo to Google AdWords. Then, from the AdWords UI, you will be able to easily see which clicks resulted in qualified leads, opportunities, and new customers (or whatever revenue stages you want to track).&nbsp;
+Link your [Google AdWords account to Marketo](../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) to automatically upload offline conversion data from Marketo to Google AdWords. Then, from the AdWords UI, you will be able to easily see which clicks resulted in qualified leads, opportunities, and new customers (or whatever revenue stages you want to track). 
 
-&nbsp; ![](assets/image2015-3-23-11-3a50-3a55.png)
+  ![](assets/image2015-3-23-11-3a50-3a55.png)
 
 ## Revenue Explorer Redesign {#revenue-explorer-redesign}
 
@@ -38,13 +38,13 @@ Supported with the latest installer now [accessible through the app](../../produ
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
-## RTP - Personalized Web Engagement with Lead&nbsp;Data {#rtp-personalized-web-engagement-with-lead-data}
+## RTP - Personalized Web Engagement with Lead Data {#rtp-personalized-web-engagement-with-lead-data}
 
 Leverage the [lead data fields](../../product-docs/web-personalization/using-web-segments/manage-person-data.md)you have you in your Marketo lead database to create real-time segmentation and personalized content campaigns. Manage your lead data fields in RTP and add/delete relevant lead fields.
 
 ![](https://lh5.googleusercontent.com/OnjwgUtNi6UxjovgMofQW2DcxCDRSsmyn_cupaw5qYROsDx0FqOc8Y-Un3w-TJG7OEckeDsk9qjQwnqhLJFaiuJFyuatMrXGUdMe9GtRgGojcuet4GUXpuCzbhEu_buqoidW7R4)
 
-## RTP - Personalize&nbsp;Web Content by Email or Program Campaign Name {#rtp-personalize-web-content-by-email-or-program-campaign-name}
+## RTP - Personalize Web Content by Email or Program Campaign Name {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
 Continue the conversation with your lead across channels from email to web. [Personalize inbound content based on email campaign or program](../../product-docs/web-personalization/using-web-segments/web-segments.md) name used in Marketo’s Marketing Activities.
 

@@ -57,8 +57,8 @@ Click **+New Audience**.
 ![](assets/image2015-2-10-14-3a51-3a43.png)   **Example of Audience from RTP Industry Data** ![](assets/image2015-1-15-17-3a36-3a5.png)
 
 1. Click **Sequences**.
-1. Select**&nbsp;RTP-Industry**.
-1. Enter&nbsp;**Name of Industry** (eg. Financial Services, Education...).
+1. Select** RTP-Industry**.
+1. Enter **Name of Industry** (eg. Financial Services, Education...).
 1. Click **Apply**.
 
 Enter an **Audience Name**. Click** Save**.   ![](assets/image2015-1-15-18-3a29-3a16.png)  
@@ -69,7 +69,7 @@ Login to **Google Adwords**. Click on **Campaigns**, select **Display Network on
 
 ![](assets/image2015-1-15-18-3a31-3a58.png)
 
-Enter **Campaign Name**, Select&nbsp;**Type Remarketing.**
+Enter **Campaign Name**, Select **Type Remarketing.**
 
 ![](assets/image2015-1-15-18-3a35-3a7.png)
 
@@ -77,11 +77,11 @@ Enter **Ad Group Name, **enter **Enhanced CPC**, Select** Remarketing List. **
 
 ![](assets/image2015-1-15-18-3a51-3a57.png)
 
-Click&nbsp;Save and continue.
+Click Save and continue.
 
-Add your Image or Text Ad and start your remarketing campaign.&nbsp;
+Add your Image or Text Ad and start your remarketing campaign. 
 
-**&nbsp; ![](assets/image2015-1-15-18-3a47-3a21.png)
+**  ![](assets/image2015-1-15-18-3a47-3a21.png)
 
 **
 

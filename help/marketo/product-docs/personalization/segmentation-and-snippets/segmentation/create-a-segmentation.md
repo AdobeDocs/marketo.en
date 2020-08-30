@@ -18,7 +18,7 @@ Segmentation allows you to group people into distinct profiles for reporting and
 
    ![](assets/image2017-3-28-13-3a44-3a54.png)
 
-1. Click **New **and then&nbsp;**New Segmentation**.
+1. Click **New **and then **New Segmentation**.
 
    ![](assets/image2017-3-28-13-3a56-3a57.png)
 

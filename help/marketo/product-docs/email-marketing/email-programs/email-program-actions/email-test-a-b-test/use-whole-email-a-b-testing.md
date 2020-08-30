@@ -6,7 +6,7 @@ title: Use "Whole Email" A/B Testing
 
 # Use "Whole Email" A/B Testing {#use-whole-email-a-b-testing}
 
-You can easily A/B test your emails. One great test is the&nbsp;**Whole Email**&nbsp;test. Here's how to set it up.
+You can easily A/B test your emails. One great test is the **Whole Email** test. Here's how to set it up.
 
 >[!NOTE]
 >
@@ -15,7 +15,7 @@ You can easily A/B test your emails. One great test is the&nbsp;**Whole Email**&
 >* [Add an A/B Test](add-an-a-b-test.md)
 >
 
-1. Under the&nbsp;Email&nbsp;tile, with your email selected, click Add A/B Test.
+1. Under the Email tile, with your email selected, click Add A/B Test.
 
 ` ![](assets/image2014-9-12-15-3a22-3a12.png)
 
@@ -57,7 +57,7 @@ You can easily A/B test your emails. One great test is the&nbsp;**Whole Email**&
 
    >[!NOTE]
    >
-   >The different variations will send to equal portions of the chosen&nbsp;**Test Sample Size**.
+   >The different variations will send to equal portions of the chosen **Test Sample Size**.
 
    >[!CAUTION]
    >

@@ -28,7 +28,7 @@ When you [publish a sweepstakes](publish-a-sweepstakes.md), you need to select w
 
    >[!TIP]
    >
-   >To see a list of people who have signed up for your sweepstakes, click the&nbsp;**Participants **tab.
+   >To see a list of people who have signed up for your sweepstakes, click the **Participants **tab.
 
 1. Choose the number of winners, select **I'm ready to pick**, and click **Next**.
 
@@ -36,7 +36,7 @@ When you [publish a sweepstakes](publish-a-sweepstakes.md), you need to select w
 
    >[!NOTE]
    >
-   >If you choose 0 winners for a particular drawing, that information is not displayed on the **Winners**&nbsp;tab.
+   >If you choose 0 winners for a particular drawing, that information is not displayed on the **Winners** tab.
 
 1. Click **Finalize** to send the [fulfillment email](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6) to the listed winners.
 
@@ -44,6 +44,6 @@ When you [publish a sweepstakes](publish-a-sweepstakes.md), you need to select w
 
    >[!NOTE]
    >
-   >You can disqualify winners before you click&nbsp;Finalize. If you do, they are still eligible for other drawings in this sweepstakes.
+   >You can disqualify winners before you click Finalize. If you do, they are still eligible for other drawings in this sweepstakes.
 
 Congratulations! You have completed this run of your sweepstakes offer, picked the random winners, and sent them email notifications. 

@@ -37,7 +37,7 @@ So, how do you set up a Campaign?
 
    ![](assets/four-1.png)
 
-1. Choose between:&nbsp;Email, Call, InMail, or Custom Task. In this example we're choosing [Email](http://docs.marketo.com/display/DOCS/Campaign+Step+Types#CampaignStepTypes-Email).
+1. Choose between: Email, Call, InMail, or Custom Task. In this example we're choosing [Email](http://docs.marketo.com/display/DOCS/Campaign+Step+Types#CampaignStepTypes-Email).
 
    ![](assets/five-1.png)
 

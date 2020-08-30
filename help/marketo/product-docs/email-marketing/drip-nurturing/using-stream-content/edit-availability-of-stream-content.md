@@ -22,7 +22,7 @@ You can set a time frame for the content to be active in your stream. Here's how
 
    >[!TIP]
    >
-   >You can leave&nbsp;**Active Through** blank to make content available forever.
+   >You can leave **Active Through** blank to make content available forever.
 
    Perfect! You will see the clock icon next to the scheduled content. It will become active and inactive according to the schedule you set.   ![](assets/image2014-9-15-17-3a36-3a4.png)
 

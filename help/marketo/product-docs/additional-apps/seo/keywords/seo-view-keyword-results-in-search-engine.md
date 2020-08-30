@@ -8,7 +8,7 @@ title: SEO - View Keyword Results in Search Engine
 
 If you want to see how your content looks inside a search engine, we've added a handy little short cut.
 
-1. Go to the **Keywords**&nbsp;section.
+1. Go to the **Keywords** section.
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 

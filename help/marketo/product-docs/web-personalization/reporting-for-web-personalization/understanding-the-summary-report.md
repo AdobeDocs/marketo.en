@@ -27,7 +27,7 @@ The first part of the report relates to Personalized Web Personalization campaig
 * **Clicks** - all clicks on Web Personalization campaigns
 * **Direct Conversions **- all visitors who clicked on a Web Personalization campaign during the visit and filled out a form
 * **Direct Conversion Rate** - the percentage of visitors that became a direct lead after clicking a Web Personalization campaign. Direct leads divided by clicks 
-* **Assisted Conversions** - all visitors who&nbsp;filled out a form and&nbsp;clicked a&nbsp;Web Personalization campaign in a previous visit (over the last 6 months)
+* **Assisted Conversions** - all visitors who filled out a form and clicked a Web Personalization campaign in a previous visit (over the last 6 months)
 * **Tips** - tips to optimize your Web Personalization campaign performances
 * **Top Campaigns** - the top performing campaigns during the selected time period, ordered by number of clicks
 

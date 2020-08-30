@@ -6,7 +6,7 @@ title: Email Reports
 
 # Email Reports {#email-reports}
 
-To customize which automated email report the user receives, see the&nbsp; [User Settings section](../../../product-docs/web-personalization/getting-started-rtp/user-settings.md).
+To customize which automated email report the user receives, see the  [User Settings section](../../../product-docs/web-personalization/getting-started-rtp/user-settings.md).
 
 ## Web Personalization Email Reports {#web-personalization-email-reports}
 

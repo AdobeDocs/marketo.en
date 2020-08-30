@@ -10,7 +10,7 @@ Cloning a program clones *everything*. Sometimes you just want to clone one asse
 
 >[!NOTE]
 >
->You'll need to perform additional steps to&nbsp; [clone a landing page test group](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
+>You'll need to perform additional steps to  [clone a landing page test group](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
 
 ## Clone a Local Asset {#clone-a-local-asset}
 
@@ -32,7 +32,7 @@ Cloning a program clones *everything*. Sometimes you just want to clone one asse
 
    >[!TIP]
    >
-   >You can also clone an asset to a different program. Use the&nbsp;**Program**&nbsp;drop-down to make your selection.
+   >You can also clone an asset to a different program. Use the **Program** drop-down to make your selection.
 
 1. Great! You should now see the new cloned asset. 
 

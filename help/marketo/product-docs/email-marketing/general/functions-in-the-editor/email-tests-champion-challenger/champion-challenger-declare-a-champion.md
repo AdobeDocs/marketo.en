@@ -31,15 +31,15 @@ When you're ready, you can declare a champion for your email test.
 
    >[!NOTE]
    >
-   >Until the&nbsp;**Declare Date**,&nbsp;Marketo&nbsp;will continue to send the old champion and challenger(s). Once date/time is reached, only the new champion will be sent.
+   >Until the **Declare Date**, Marketo will continue to send the old champion and challenger(s). Once date/time is reached, only the new champion will be sent.
 
    ![](assets/image2014-9-15-13-3a33-3a47.png)
 
    >[!CAUTION]
    >
-   >Notice that the default&nbsp;**Declare Date**&nbsp;is tomorrow, not today.
+   >Notice that the default **Declare Date** is tomorrow, not today.
 
-   Select a time and click&nbsp;**Save**.   ![](assets/image2014-9-15-13-3a33-3a56.png)
+   Select a time and click **Save**.   ![](assets/image2014-9-15-13-3a33-3a56.png)
 
    Rad! Now you know how to easily run an email test to improve your content without interruptions to your campaign.
 

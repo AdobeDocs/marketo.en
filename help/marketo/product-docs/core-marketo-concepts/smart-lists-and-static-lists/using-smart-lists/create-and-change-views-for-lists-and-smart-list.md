@@ -23,7 +23,7 @@ A smart list displays a default set of columns. Did you know you could edit thos
 
 >[!TIP]
 >
->To quickly search, use the&nbsp;**Find**&nbsp;box.&nbsp;
+>To quickly search, use the **Find** box. 
 
 ## Switch Views {#switch-views}
 
@@ -33,7 +33,7 @@ A smart list displays a default set of columns. Did you know you could edit thos
 
 >[!NOTE]
 >
->&nbsp;You must first create a second view, in addition to the default view, in order to switch views.
+> You must first create a second view, in addition to the default view, in order to switch views.
 
 ## Edit a View {#edit-a-view}
 
@@ -41,7 +41,7 @@ A smart list displays a default set of columns. Did you know you could edit thos
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Click the&nbsp;**Edit**&nbsp;option.
+1. Click the **Edit** option.
 
    ![](assets/smartlist-editcustomview.png)
 
@@ -49,7 +49,7 @@ A smart list displays a default set of columns. Did you know you could edit thos
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
-&nbsp; 
+  
 
 ## Delete a View {#delete-a-view}
 

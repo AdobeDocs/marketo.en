@@ -22,7 +22,7 @@ Marketo manages your GoToWebinar registration and attendance.
 >
 >GoToMeeting, GoToWebcast, and GoToTraining are not currently supported.
 
-1. Go to&nbsp;**Admin** and select&nbsp;**LaunchPoint**.
+1. Go to **Admin** and select **LaunchPoint**.
 
    ![](assets/image2015-4-22-15-3a33-3a47.png)
 

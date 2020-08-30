@@ -24,7 +24,7 @@ title: Configuring Your SOAP API Settings
 
 >[!CAUTION]
 >
->Your&nbsp;SOAP endpoint&nbsp;and&nbsp;User ID&nbsp;will be unique; do not send the screenshot in this article to your Developer.
+>Your SOAP endpoint and User ID will be unique; do not send the screenshot in this article to your Developer.
 
 >[!NOTE]
 >

@@ -6,13 +6,13 @@ title: Configure Social Recommend Flow
 
 # Configure Social Recommend Flow {#configure-social-recommend-flow}
 
-When you create a&nbsp;social app, you can configure the social network choices and prompts that a user encounters as they sign up.
+When you create a social app, you can configure the social network choices and prompts that a user encounters as they sign up.
 
 ## Select Networks for Sharing {#select-networks-for-sharing}
 
 >[!NOTE]
 >
->This is very similar to&nbsp; [configuring the social sign-up/share flow](configure-social-sign-up-share-flow.md), but&nbsp;this is for the share links&nbsp;*under*&nbsp;the social app.
+>This is very similar to  [configuring the social sign-up/share flow](configure-social-sign-up-share-flow.md), but this is for the share links *under* the social app.
 
 1. Go to **Marketing Activities**.
 
@@ -46,15 +46,15 @@ When you create a&nbsp;social app, you can configure the social network choices 
 
    >[!TIP]
    >
-   >For more information, see&nbsp; [Edit Facebook Rich Post Settings](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
+   >For more information, see  [Edit Facebook Rich Post Settings](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
 
    ![](assets/image2014-9-22-11-3a54-3a36.png)
 
    >[!NOTE]
    >
-   >The&nbsp; [share URL](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)&nbsp;is automatically added to all share messages.
+   >The  [share URL](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) is automatically added to all share messages.
 
-1. If you chose&nbsp;**Add Static** **content**&nbsp;above, edit the title, caption, and description, and upload a custom image (from your&nbsp;Marketo&nbsp;Images and Files).
+1. If you chose **Add Static** **content** above, edit the title, caption, and description, and upload a custom image (from your Marketo Images and Files).
 
    ![](assets/image2014-9-22-11-3a55-3a14.png)
 
@@ -64,7 +64,7 @@ When you create a&nbsp;social app, you can configure the social network choices 
    >
    >If you upload an image, you will not see it here until you close and reopen the social app editor.
 
-1. Click&nbsp;**Next**.
+1. Click **Next**.
 
 If you choose , the values of the page's OpenGraph tags (og:title, og:caption, and og:description) and the thumbnail are automatically added to Facebook posts. See the next step. 
 
@@ -76,9 +76,9 @@ If you choose , the values of the page's OpenGraph tags (og:title, og:caption, a
 
    >[!TIP]
    >
-   >Use&nbsp;{html_title}&nbsp;in your tweet text to display the title of the page automatically.
+   >Use {html_title} in your tweet text to display the title of the page automatically.
 
-1. Click&nbsp;**Next**.
+1. Click **Next**.
 
 ## Configure the LinkedIn Message {#configure-the-linkedin-message}
 
@@ -96,9 +96,9 @@ If you choose , the values of the page's OpenGraph tags (og:title, og:caption, a
 
    >[!TIP]
    >
-   >Use&nbsp;{html_title}&nbsp;in your post text to display the title of the page automatically.
+   >Use {html_title} in your post text to display the title of the page automatically.
 
-1. If you chose&nbsp;**Add Static** content&nbsp;above, edit the title and description, and upload a custom image (from your Mark**e**to Images and Files).
+1. If you chose **Add Static** content above, edit the title and description, and upload a custom image (from your Mark**e**to Images and Files).
 
    ![](assets/image2014-9-22-12-3a4-3a43.png)
 
@@ -108,7 +108,7 @@ If you choose , the values of the page's OpenGraph tags (og:title, og:caption, a
    >
    >If you upload an image, you will not see it here until you close and reopen the social app editor.
 
-1. Click&nbsp;**Next**.
+1. Click **Next**.
 
 ## Configure the Confirmation Message {#configure-the-confirmation-message}
 

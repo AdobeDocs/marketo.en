@@ -10,7 +10,7 @@ To implement your RTP `tag please` follow the installation instructions below.
 
 1. Log in to your Google Tag Manager account.
 
-1. Add a new Tag > Tag Configurations >&nbsp;Custom HTML Tag**.** Call it **RTP**.
+1. Add a new Tag > Tag Configurations > Custom HTML Tag**.** Call it **RTP**.
 
 1. Log in to your RTP account**.**
 
@@ -20,7 +20,7 @@ To implement your RTP `tag please` follow the installation instructions below.
   
        ![](assets/image2014-11-30-15-3a19-3a21.png)
 
-1. Under Domain, locate the relevant domain and click&nbsp;**Generate Tag**.  
+1. Under Domain, locate the relevant domain and click **Generate Tag**.  
   
    ** ![](assets/image2014-11-30-15-3a20-3a17.png)
 
@@ -28,9 +28,9 @@ To implement your RTP `tag please` follow the installation instructions below.
 
 1. Copy the RTP JavaScript tag and paste it to the new **Custom HTML Tag** you created (Step 1).
 
-1. Click **+Add Rule to Fire Tag**. Select&nbsp;**All Pages**.
+1. Click **+Add Rule to Fire Tag**. Select **All Pages**.
 
-1. Click **Save&nbsp;**and [publish the new version](https://support.google.com/tagmanager/answer/2699097?hl=en).
+1. Click **Save **and [publish the new version](https://support.google.com/tagmanager/answer/2699097?hl=en).
 
 1. Verify that it appears on all `pages, including` landing pages and sub-domains.
 

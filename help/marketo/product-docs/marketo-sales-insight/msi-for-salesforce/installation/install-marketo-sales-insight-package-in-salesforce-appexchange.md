@@ -16,7 +16,7 @@ You need to install the Marketo Sales Insight app in your Salesforce subscriptio
 >
 >Marketo Sales Insight is compatible with Salesforce Platform (Shield) Encryption.
 
-1. Go to the&nbsp; [AppExchange page for Marketo Sales Insight](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)&nbsp;and click&nbsp;**Get it Now**.
+1. Go to the  [AppExchange page for Marketo Sales Insight](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) and click **Get it Now**.
 
    ![](assets/one.png)
 

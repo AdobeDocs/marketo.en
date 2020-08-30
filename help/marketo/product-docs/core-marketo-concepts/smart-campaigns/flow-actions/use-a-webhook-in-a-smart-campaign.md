@@ -6,7 +6,7 @@ title: Use a Webhook in a Smart Campaign
 
 # Use a Webhook in a Smart Campaign {#use-a-webhook-in-a-smart-campaign}
 
-To use a&nbsp; [webhook](http://developers.marketo.com/documentation/webhooks/), add it to a&nbsp; [smart campaign](add-a-flow-step-to-a-smart-campaign.md)&nbsp;as a flow action.
+To use a  [webhook](http://developers.marketo.com/documentation/webhooks/), add it to a  [smart campaign](add-a-flow-step-to-a-smart-campaign.md) as a flow action.
 
 >[!NOTE]
 >

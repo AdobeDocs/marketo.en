@@ -46,7 +46,7 @@ Example goals:
 
 >[!NOTE]
 >
->There are new filters and triggers available in smart campaigns to monitor social activity. See&nbsp; [use triggers and filters for social activities](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
+>There are new filters and triggers available in smart campaigns to monitor social activity. See  [use triggers and filters for social activities](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
 >[!NOTE]
 >

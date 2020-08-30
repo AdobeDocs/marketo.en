@@ -37,9 +37,9 @@ Form, meet landing page. Landing page, meet form.
 
 1. You have three options when choosing your follow-up page:
 
-    * Landing Page&nbsp;- pick a Marketo landing page
-    * External URL&nbsp;- pick any URL you want
-    * Form Defined&nbsp;- use the settings defined at the form level
+    * Landing Page - pick a Marketo landing page
+    * External URL - pick any URL you want
+    * Form Defined - use the settings defined at the form level
 
    >[!NOTE]
    >

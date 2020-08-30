@@ -68,7 +68,7 @@ If a visitor is cookied (known person who provided an email address in the past)
    >**Reminder**
    >
    >
-   >Remember to&nbsp; [approve the landing page draft](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)&nbsp;created by the form changes.
+   >Remember to  [approve the landing page draft](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) created by the form changes.
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 

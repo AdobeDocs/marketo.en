@@ -41,5 +41,5 @@ These settings will impact Revenue Explorer reports under the [Program Opportuni
 
 >[!CAUTION]
 >
->When using&nbsp;**Implicit**, Marketo will always examine all contacts associated to the account regardless of role. **Marketo strongly recommends using Explicit mode.**&nbsp;Using Implicit may create false positives; i.e., people with credit for an opportunity despite having no real influence in the opportunity. Use Implicit with caution.
+>When using **Implicit**, Marketo will always examine all contacts associated to the account regardless of role. **Marketo strongly recommends using Explicit mode.** Using Implicit may create false positives; i.e., people with credit for an opportunity despite having no real influence in the opportunity. Use Implicit with caution.
 

@@ -6,7 +6,7 @@ title: Understanding Smart Campaign Cards
 
 # Understanding Smart Campaign Cards {#understanding-smart-campaign-cards}
 
-Use Marketo Moments to view each run of your smart campaigns from your smart phone or iPad. The Marketo Moments smart campaign card represents a single run of a &nbsp;campaign; a new card appears each time the smart campaign runs. Smart campaign cards are marked with a light bulb at the upper left.
+Use Marketo Moments to view each run of your smart campaigns from your smart phone or iPad. The Marketo Moments smart campaign card represents a single run of a  campaign; a new card appears each time the smart campaign runs. Smart campaign cards are marked with a light bulb at the upper left.
 
 For future smart campaigns that are scheduled but have not yet run, the Marketo Moments card doesn't display any campaign stats yet. They'll appear in a future release.
 
@@ -59,7 +59,7 @@ It's a good idea to get a look at an email before it goes out. Or, send a sample
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tap [Send Sample](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) or [Preview Email](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)&nbsp;(click these links for details).
+1. Tap [Send Sample](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) or [Preview Email](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (click these links for details).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 

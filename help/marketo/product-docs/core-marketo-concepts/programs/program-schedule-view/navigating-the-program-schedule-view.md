@@ -24,7 +24,7 @@ Here are the basics to help you navigate the program schedule view.
 
 >[!NOTE]
 >
->The program schedule view is sticky. Once you set it, all programs will default to the schedule view.&nbsp;
+>The program schedule view is sticky. Once you set it, all programs will default to the schedule view. 
 
 1. Switching Between Entries
 1. In the entry details, click the arrows to move to the next scheduled entry.
@@ -42,7 +42,7 @@ Here are the basics to help you navigate the program schedule view.
 
 ## Changing Between Modes {#changing-between-modes}
 
-1. Clicking on **3 Weeks**&nbsp;or **Month** will change the visible dates on your display.
+1. Clicking on **3 Weeks** or **Month** will change the visible dates on your display.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 

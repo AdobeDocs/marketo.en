@@ -6,7 +6,7 @@ title: Add ReadyTalk as a LaunchPoint Service
 
 # Add ReadyTalk as a LaunchPoint Service {#add-readytalk-as-a-launchpoint-service}
 
-Marketo manages&nbsp;your ReadyTalk webinar registration and attendance.
+Marketo manages your ReadyTalk webinar registration and attendance.
 
 >[!NOTE]
 >
@@ -18,23 +18,23 @@ Marketo manages&nbsp;your ReadyTalk webinar registration and attendance.
 >
 >An existing subscription to ReadyTalk and administration rights are necessary for this step. Have the following settings at hand: Access Number, Access Code, and Passcode.
 
-1. Go to&nbsp;**Admin** and click&nbsp;**ReadyTalk**.
+1. Go to **Admin** and click **ReadyTalk**.
 
    ![](assets/image2015-4-23-10-3a50-3a23.png)
 
-1. Select&nbsp;**New**&nbsp;and then&nbsp;**New** **Service**.
+1. Select **New** and then **New** **Service**.
 
    ![](assets/readytalk-new-service.png)
 
-1. Enter a&nbsp;**Display** **Name**.&nbsp;Under&nbsp;**Service**, select** ReadyTalk**.
+1. Enter a **Display** **Name**. Under **Service**, select** ReadyTalk**.
 
    ![](assets/new-service-readytalk.png)
 
-1. Enter your&nbsp;**Access Number**&nbsp;and&nbsp;**Access** **Code**.
+1. Enter your **Access Number** and **Access** **Code**.
 
    ![](assets/image2015-4-24-18-3a53-3a2.png)
 
-1. Complete the process by entering your **Passcode** and click&nbsp;**Create**.
+1. Complete the process by entering your **Passcode** and click **Create**.
 
    ![](assets/image2015-4-24-18-3a53-3a38.png)
 

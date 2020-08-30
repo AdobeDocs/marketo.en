@@ -15,15 +15,15 @@ Here's how to create a segment using an Account List.
 >* [Create a New Account List](../../../product-docs/account-based-marketing/target/account-lists.md)
 >
 
-1. Go to&nbsp;**Segments**.
+1. Go to **Segments**.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. Click&nbsp;**Create New**.
+1. Click **Create New**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Enter a name for the segment. Drag and drop&nbsp;**Account Lists** from the **Firmographics** section.
+1. Enter a name for the segment. Drag and drop **Account Lists** from the **Firmographics** section.
 
    ![](assets/set-segment-hands.jpg)
 

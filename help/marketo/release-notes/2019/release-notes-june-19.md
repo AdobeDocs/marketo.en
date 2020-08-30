@@ -23,7 +23,7 @@ The following features were released on June 14, 2019.
 
 ## Account-Based Marketing {#account-based-marketing}
 
-* **LinkedIn Account Matching`<sup>BETA</sup>`**&nbsp;:&nbsp;A new ABM capability is now available in beta, offering you the ability to send lists of known and whitespace accounts directly from Marketo into LinkedIn. This functionality is automatically included for all Marketo ABM customers.
+* **LinkedIn Account Matching`<sup>BETA</sup>`** : A new ABM capability is now available in beta, offering you the ability to send lists of known and whitespace accounts directly from Marketo into LinkedIn. This functionality is automatically included for all Marketo ABM customers.
 
 ---
 
@@ -33,7 +33,7 @@ The following features are expected to release throughout the second calendar qu
 
 ## Marketo Sky {#marketo-sky}
 
-* **Event Caps** and **Event Goals**&nbsp;are generally available in Marketo Sky under the Premium Events add-on.
+* **Event Caps** and **Event Goals** are generally available in Marketo Sky under the Premium Events add-on.
 
     * Event Caps: Optimize the customer experience for your events and webinars with registration caps, page redirects, and waitlisting functionality.
     * Event Goals: Set event registration and attendance goals and track progress in real time.

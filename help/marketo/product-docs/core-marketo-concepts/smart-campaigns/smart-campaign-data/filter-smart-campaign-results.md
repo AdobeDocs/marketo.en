@@ -17,7 +17,7 @@ Filter smart campaign results to see specific activities that matter to you.
 
 ## Filter by Saved Filters {#filter-by-saved-filters}
 
-1. In your smart campaign **Results** tab, click on **Filter**&nbsp;and select a saved filter.
+1. In your smart campaign **Results** tab, click on **Filter** and select a saved filter.
 
    ![](assets/resultsfilter-hands.png)
 
@@ -27,17 +27,17 @@ Filter smart campaign results to see specific activities that matter to you.
 
    ## Create a Custom Filter {#create-a-custom-filter}
 
-1. Click on **Filter**&nbsp;and then **Custom**.
+1. Click on **Filter** and then **Custom**.
 
    ![](assets/filterscustom-hands.png)
 
-1. Select activity types that you want to see and then click on&nbsp;**Save As** .
+1. Select activity types that you want to see and then click on **Save As** .
 
    ![](assets/activityfiltersettings-hands.png)
 
    >[!TIP]
    >
-   >Click on&nbsp;**Apply**&nbsp;to directly apply a custom filter to your results without saving it.
+   >Click on **Apply** to directly apply a custom filter to your results without saving it.
 
 1. Enter a filter name and click on **Save**.
 

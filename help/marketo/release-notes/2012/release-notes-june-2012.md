@@ -74,7 +74,7 @@ Switch your view from a list of images to a thumbnail view!
 
 ![](assets/image2014-9-23-10-3a26-3a13.png)
 
-Note: As of this release, previous sorting on smart list grids will not apply to the next smart list you view. For example, if you sort a smart list by Company Name, we will not automatically sort the next smart list viewed by this same field. &nbsp;
+Note: As of this release, previous sorting on smart list grids will not apply to the next smart list you view. For example, if you sort a smart list by Company Name, we will not automatically sort the next smart list viewed by this same field.  
 
 Reminder: Email Performance Report upgrade is in progress!
 

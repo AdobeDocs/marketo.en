@@ -18,7 +18,7 @@ We're releasing a new landing page editing mode and template syntax. Unlike our 
 
 Did you hit send before an email program was ready to go out? Pull the brakes with the new abort email program button. This will stop in-flight email programs right in their tracks.
 
-## Email&nbsp;Deliverability&nbsp; {#email-deliverability}
+## Email Deliverability  {#email-deliverability}
 
 Marketo will now run weekly automated SPF and DKIM checks on your added domains. Stay on top of this by checking your notifications.
 

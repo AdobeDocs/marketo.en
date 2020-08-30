@@ -36,7 +36,7 @@ Put videos with social sharing options on your landing pages.
 
 >[!TIP]
 >
->To save time, you can use the&nbsp;**Clone From**&nbsp;option to copy all settings from an existing video share.
+>To save time, you can use the **Clone From** option to copy all settings from an existing video share.
 
 Congratulations! You have added a video share to your landing page. Approve the landing page and your video share is live. You can also [publish the landing page to Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) or [put the video share on your web site](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md).
 

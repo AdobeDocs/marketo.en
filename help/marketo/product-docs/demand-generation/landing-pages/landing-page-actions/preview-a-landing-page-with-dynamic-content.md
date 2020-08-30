@@ -20,8 +20,8 @@ Preview your landing page after adding dynamic content to make sure everything l
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
-1. Click the drop-down and select a **Segment**&nbsp;to preview it.
+1. Click the drop-down and select a **Segment** to preview it.
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 
-Awesome! You can now ensure your landing pages work they want you want them to across segments.&nbsp; 
+Awesome! You can now ensure your landing pages work they want you want them to across segments.  

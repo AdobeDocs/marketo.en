@@ -11,7 +11,7 @@ title: SEO - Importing Keywords with a CSV
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
-1. Click&nbsp;**Import**.
+1. Click **Import**.
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 

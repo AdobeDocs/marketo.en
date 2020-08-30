@@ -26,7 +26,7 @@ title: Configure Mobile App Android Push Access
    >
    >You will need a **Server API Key** and **Project Number** from your mobile apps developer. The developer receives these by logging in to the Google Play Developer Console to register your app and enable cloud messaging.
 
-   Enter&nbsp;your&nbsp;Server API Key and Project Number.&nbsp;Click&nbsp;Save.
+   Enter your Server API Key and Project Number. Click Save.
 
    ![](assets/image2015-4-22-18-3a54-3a54.png)
 

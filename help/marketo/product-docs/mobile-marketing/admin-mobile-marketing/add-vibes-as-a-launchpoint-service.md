@@ -6,7 +6,7 @@ title: Add Vibes as a LaunchPoint Service
 
 # Add Vibes as a LaunchPoint Service {#add-vibes-as-a-launchpoint-service}
 
-You can send SMS messages to the people in your Vibes lists and use the SMS activity to trigger and filter campaigns.&nbsp;First, you need to add Vibes as a LaunchPoint service.
+You can send SMS messages to the people in your Vibes lists and use the SMS activity to trigger and filter campaigns. First, you need to add Vibes as a LaunchPoint service.
 
 >[!NOTE]
 >

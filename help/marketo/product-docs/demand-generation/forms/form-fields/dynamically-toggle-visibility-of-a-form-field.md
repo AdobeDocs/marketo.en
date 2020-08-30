@@ -19,7 +19,7 @@ One really cool feature of Marketo forms is that you can dynamically hide/show f
 >
 >**Example**
 >
->In this example, let's hide the&nbsp;**State**&nbsp;field unless&nbsp;**Country**&nbsp;is selected as "United States."
+>In this example, let's hide the **State** field unless **Country** is selected as "United States."
 
 1. Go to **Marketing** **Activities**. 
 

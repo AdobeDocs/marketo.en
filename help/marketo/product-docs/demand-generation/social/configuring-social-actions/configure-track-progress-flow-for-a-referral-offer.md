@@ -6,7 +6,7 @@ title: Configure Track Progress Flow for a Referral Offer
 
 # Configure Track Progress Flow for a Referral Offer {#configure-track-progress-flow-for-a-referral-offer}
 
-When you&nbsp; [create a referral offer](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you can configure the prompts that show participants their progress toward the reward.
+When you  [create a referral offer](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you can configure the prompts that show participants their progress toward the reward.
 
 1. Go to **Marketing Activities**. 
 

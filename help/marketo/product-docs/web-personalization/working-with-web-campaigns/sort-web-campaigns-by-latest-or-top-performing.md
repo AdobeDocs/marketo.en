@@ -6,7 +6,7 @@ title: Sort Web Campaigns by Latest or Top Performing
 
 # Sort Web Campaigns by Latest or Top Performing {#sort-web-campaigns-by-latest-or-top-performing}
 
-You can sort your web campaigns in a couple of different ways.&nbsp;
+You can sort your web campaigns in a couple of different ways. 
 
 1. Go to **Web Campaigns.**
 

@@ -6,7 +6,7 @@ title: Delete a Branding Domain
 
 # Delete a Branding Domain {#delete-a-branding-domain}
 
-1. In My Marketo, click&nbsp;**Admin&nbsp;**and then the&nbsp;**Email&nbsp;**link.
+1. In My Marketo, click **Admin **and then the **Email **link.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 

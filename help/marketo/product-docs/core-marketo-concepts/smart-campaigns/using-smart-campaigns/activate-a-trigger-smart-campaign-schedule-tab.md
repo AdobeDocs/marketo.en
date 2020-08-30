@@ -8,7 +8,7 @@ title: Activate a Trigger Smart Campaign | Schedule Tab
 
 Activating a trigger smart campaign is like turning it ON. Here's what to do.
 
-1. In the smart campaign's **Schedule**&nbsp;tab, click **Activate**.
+1. In the smart campaign's **Schedule** tab, click **Activate**.
 
    ![](assets/activateprogram-hands.png)
 

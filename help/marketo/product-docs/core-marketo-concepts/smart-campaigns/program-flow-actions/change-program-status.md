@@ -12,7 +12,7 @@ Program statuses help you keep track of how people are progressing through a pro
 
 >[!CAUTION]
 >
->Changing the program status in an engagement program will automatically add them into the first stream. They&nbsp;will begin receiving content.
+>Changing the program status in an engagement program will automatically add them into the first stream. They will begin receiving content.
 
 ## Usage {#usage}
 
@@ -20,7 +20,7 @@ Program statuses help you keep track of how people are progressing through a pro
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
-1. Select the **New Status**&nbsp;you want to set. The person will also be made a member of the program if they weren't already.
+1. Select the **New Status** you want to set. The person will also be made a member of the program if they weren't already.
 
    ![](assets/image2014-9-22-14-3a43-3a45.png)
 

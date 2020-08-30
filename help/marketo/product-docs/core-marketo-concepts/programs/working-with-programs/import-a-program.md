@@ -41,7 +41,7 @@ A program can be imported from one Marketo subscription to another. For instance
 
    >[!NOTE]
    >
-   >Make sure**&nbsp;****Use default conflict**&nbsp;rules is selected. Conflict rules are needed when you import programs into an instance that have assets of the same name.
+   >Make sure** ****Use default conflict** rules is selected. Conflict rules are needed when you import programs into an instance that have assets of the same name.
 
 1. Preview details and **Import** the program.
 

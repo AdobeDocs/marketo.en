@@ -6,7 +6,7 @@ title: People by Revenue Stage Report
 
 # People by Revenue Stage Report {#people-by-revenue-stage-report}
 
-You can create a report showing which stage of your&nbsp; [Revenue Cycle Model](http://docs.marketo.com/display/docs/revenue+cycle+models)&nbsp;your people are in. The report includes any stage from the specified model as long as there is a person balance for the given date range of the report.&nbsp;
+You can create a report showing which stage of your  [Revenue Cycle Model](http://docs.marketo.com/display/docs/revenue+cycle+models) your people are in. The report includes any stage from the specified model as long as there is a person balance for the given date range of the report. 
 
 >[!NOTE]
 >

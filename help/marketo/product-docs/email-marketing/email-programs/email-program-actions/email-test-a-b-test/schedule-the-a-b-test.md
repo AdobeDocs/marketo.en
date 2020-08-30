@@ -17,7 +17,7 @@ Once you have added an A/B test to an email program and defined the winner crite
 
 >[!NOTE]
 >
->For Date/Time&nbsp;tests, you only need to set when you receive the test results summary.
+>For Date/Time tests, you only need to set when you receive the test results summary.
 
 1. Select the Send Test date.
 
@@ -44,7 +44,7 @@ Once you have added an A/B test to an email program and defined the winner crite
 
    >[!NOTE]
    >
-   >If you chose to declare a winner manually, you will define&nbsp;**Report Send**&nbsp;date/time instead of&nbsp;**Finish Mailing**&nbsp;date/time.
+   >If you chose to declare a winner manually, you will define **Report Send** date/time instead of **Finish Mailing** date/time.
 
    Super! You're done, just review the summary and click Close.
    ![](assets/image2014-9-12-16-3a1-3a23.png)

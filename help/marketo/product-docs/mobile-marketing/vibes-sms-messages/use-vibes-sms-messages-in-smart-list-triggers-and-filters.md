@@ -22,7 +22,7 @@ There are other SMS triggers available. The SMS triggers appear only if Vibes se
 
 ![](assets/new-sms-search2.png)
 
-Here are a few examples.&nbsp;
+Here are a few examples. 
 
 The SMS Message Bounces trigger initiates a flow, such as sending an email, when an SMS message bounces.
 
@@ -38,11 +38,11 @@ The** Clicks Link in SMS Message** trigger initiates a flow when a person clicks
 
 ## SMS Filters {#sms-filters}
 
-You can also use Vibes filters in smart lists. The **Subscribed to Vibes List** filter finds&nbsp;anyone who has *ever* subscribed to Vibes. This includes both unsubscribed and deleted people, even though deleted people are omitted from the flow. This filter is best suited for reporting.
+You can also use Vibes filters in smart lists. The **Subscribed to Vibes List** filter finds anyone who has *ever* subscribed to Vibes. This includes both unsubscribed and deleted people, even though deleted people are omitted from the flow. This filter is best suited for reporting.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-By contrast, the **Member of Vibes List **filter**&nbsp;**finds**&nbsp;**anyone**&nbsp;***currently* subscribed to Vibes and is most suited for use in smart campaigns or lists.
+By contrast, the **Member of Vibes List **filter** **finds** **anyone** ***currently* subscribed to Vibes and is most suited for use in smart campaigns or lists.
 
 ![](assets/image001.png)
 

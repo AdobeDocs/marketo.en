@@ -28,7 +28,7 @@ Stream content is OFF by default. Activate content to send them out during engag
 
    >[!TIP]
    >
-   >You can also activate all content in a stream by clicking the gear icon at the top level, then clicking&nbsp;**Activate all content.**
+   >You can also activate all content in a stream by clicking the gear icon at the top level, then clicking **Activate all content.**
 
    Nice work! Now you know how to activate content in your streams.
 

@@ -48,7 +48,7 @@ If you create a chart you'd like to use again, make it a [quick chart](email-ins
 ` ![](assets/quick-chart.png)  
 `
 
-On the right side of the page, guided metrics help you discover relevant drivers.&nbsp;Click any metric to see it in the chart on the left side of the page.
+On the right side of the page, guided metrics help you discover relevant drivers. Click any metric to see it in the chart on the left side of the page.
 
 ![](assets/guided-metrics-ps.png)
 

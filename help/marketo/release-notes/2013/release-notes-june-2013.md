@@ -6,7 +6,7 @@ title: Release Notes: June 2013
 
 # Release Notes: June 2013 {#release-notes-june}
 
-The following features are included in the June release. Please check your  [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php)  for feature availability.&nbsp;
+The following features are included in the June release. Please check your  [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php)  for feature availability. 
 
 After the release, be sure to check out the [New Release](release-notes-december-2013.md) tab in the Community for detailed Knowledge Base articles for each feature!
 

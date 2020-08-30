@@ -18,7 +18,7 @@ Make a smart campaign run on one person at a time based on live events by adding
 
    >[!NOTE]
    >
-   >A smart campaign with triggers runs in&nbsp;**Trigger**&nbsp;mode. It runs on one person at a time based on events triggered and any additional filters.
+   >A smart campaign with triggers runs in **Trigger** mode. It runs on one person at a time based on events triggered and any additional filters.
 
 1. Click the drop-down and choose an operator.
 
@@ -38,7 +38,7 @@ Make a smart campaign run on one person at a time based on live events by adding
 
    >[!NOTE]
    >
-   >With multiple triggers, a person goes through the flow if&nbsp;**ANY**&nbsp;one of the triggers gets activated.
+   >With multiple triggers, a person goes through the flow if **ANY** one of the triggers gets activated.
 
    [Define Smart List for Smart Campaign | Batch](define-smart-list-for-smart-campaign-batch.md)
 

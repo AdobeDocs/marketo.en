@@ -34,7 +34,7 @@ Engage people with a poll they can vote in and share with their friends on socia
 
    >[!TIP]
    >
-   >To save time, you can use the&nbsp;**Clone From**&nbsp;option to copy all settings from an existing video share.
+   >To save time, you can use the **Clone From** option to copy all settings from an existing video share.
 
 1. Give your poll a headline (usually a short question).
 
@@ -68,7 +68,7 @@ The poll editor opens in a new window. The default settings are all good, but yo
 
 >[!TIP]
 >
->To change any of the defaults in your poll, click&nbsp;**Back**. To save your work for later without approving, click&nbsp;**Close**.
+>To change any of the defaults in your poll, click **Back**. To save your work for later without approving, click **Close**.
 
 If there are any problems in the poll, you will be prompted to address them before the poll is approved. Congratulations! You have created your poll.
 

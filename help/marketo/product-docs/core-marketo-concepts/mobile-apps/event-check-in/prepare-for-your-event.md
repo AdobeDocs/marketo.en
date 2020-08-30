@@ -16,7 +16,7 @@ There are several things you have to do to get ready for the event.
 
 ## Create a New Marketo Role {#create-a-new-marketo-role}
 
-Marketo has a special user role for the event check-in app.&nbsp; [Create a new Marketo role](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) for iPad or Android users, with permission to access the mobile application.
+Marketo has a special user role for the event check-in app.  [Create a new Marketo role](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) for iPad or Android users, with permission to access the mobile application.
 
 ## Invite New Tablet Users to the Event {#invite-new-tablet-users-to-the-event}
 
@@ -24,7 +24,7 @@ Marketo has a special user role for the event check-in app.&nbsp; [Create a new 
 
 ## Create a New Marketo Event Program {#create-a-new-marketo-event-program}
 
-[Create a new Marketo event program](../../../../product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) to capture the status of your people as they progress through different stages and get accurate measures of the ROI for your marketing initiatives.&nbsp;
+[Create a new Marketo event program](../../../../product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) to capture the status of your people as they progress through different stages and get accurate measures of the ROI for your marketing initiatives. 
 
 ## Specify the Event Dates {#specify-the-event-dates}
 
@@ -74,7 +74,7 @@ Now that you know the *when*, it's time to add the *who*.
 
    ![](assets/image2016-4-7-16-3a49-3a7.png)
 
-1. ...and indicates when the task is complete.&nbsp;
+1. ...and indicates when the task is complete. 
 
    ![](assets/ten.png)
 

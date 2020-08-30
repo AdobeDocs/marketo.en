@@ -42,7 +42,7 @@ This flow step can be used in Marketo campaigns or as a single flow step to add 
 
    >[!TIP]
    >
-   >You can use Salesforce campaign&nbsp; [My Tokens](../../../../product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) to make program cloning easier.
+   >You can use Salesforce campaign  [My Tokens](../../../../product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) to make program cloning easier.
 
 1. Select the Salesforce campaign member status you want to assign to leads when they're added.
 

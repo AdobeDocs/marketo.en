@@ -10,7 +10,7 @@ You can use Web Personalization activities in filters and triggers when you're d
 
 Use a trigger to send an email or alert, or change a value or a score based on visitors who clicked and engaged with a Web Personalization call to action. You can also filter and view those leads that clicked on a Web Personalization call to action.
 
-1. In your smart campaign, click the **Smart List**&nbsp;tab.
+1. In your smart campaign, click the **Smart List** tab.
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 
@@ -27,7 +27,7 @@ Use a trigger to send an email or alert, or change a value or a score based on v
 
    >[!NOTE]
    >
-   >A smart campaign with triggers runs in&nbsp;Trigger&nbsp;mode. It runs on one person at a time based on events triggered and the filters added.
+   >A smart campaign with triggers runs in Trigger mode. It runs on one person at a time based on events triggered and the filters added.
 
 1. Click the drop-down and choose an operator.
 

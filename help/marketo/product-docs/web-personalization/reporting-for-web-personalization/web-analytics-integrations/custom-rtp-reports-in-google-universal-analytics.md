@@ -56,7 +56,7 @@ This post explains how to setup RTP custom reports for Google Universal Analytic
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. In the&nbsp;**Dimension Drill downs** section set the relevant dimensions for each tab as below.
+1. In the **Dimension Drill downs** section set the relevant dimensions for each tab as below.
 
 <table> 
  <thead> 

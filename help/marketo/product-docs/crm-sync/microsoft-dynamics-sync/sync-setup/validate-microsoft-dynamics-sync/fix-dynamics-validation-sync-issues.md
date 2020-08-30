@@ -72,7 +72,7 @@ If you have an ![--](assets/delete.png) here, Go to Microsoft Dynamics to verify
 
    ![](assets/one.png)
 
-1. Click **Settings&nbsp;**and select **Solutions.**
+1. Click **Settings **and select **Solutions.**
 
    ![](assets/eleven.png)
 

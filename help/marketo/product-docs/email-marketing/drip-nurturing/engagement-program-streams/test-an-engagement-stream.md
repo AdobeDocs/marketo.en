@@ -36,7 +36,7 @@ Once you've added all your content to a stream, you can test them out one piece 
 
    >[!TIP]
    >
-   >If the test person you're looking for doesn't exist, use the&nbsp;**Create Person** option to create one on the fly.
+   >If the test person you're looking for doesn't exist, use the **Create Person** option to create one on the fly.
 
    Click Initial Stream, select the stream you want to test and click Run Cast.
    ![](assets/five-rubiks.png)

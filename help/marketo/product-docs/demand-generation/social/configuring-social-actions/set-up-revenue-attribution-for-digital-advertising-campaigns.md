@@ -99,7 +99,7 @@ You need a second smart campaign to change the status of people, so they can ach
 
 ## Create Your Ad {#create-your-ad}
 
-After you've set up the program and campaigns, create the new ad.&nbsp;
+After you've set up the program and campaigns, create the new ad. 
 
 1. Go to the channel; e.g., LinkedIn or Facebook.
 1. Create a new ad.

@@ -18,14 +18,14 @@ Smart lists are the mechanism throughout Marketo to define "who" (which people) 
 
    >[!NOTE]
    >
-   >A smart campaign with only filters runs in&nbsp;**Batch**&nbsp;mode. It finds people in the database that qualify based on the filters and runs all of them through the flow at once.
+   >A smart campaign with only filters runs in **Batch** mode. It finds people in the database that qualify based on the filters and runs all of them through the flow at once.
 
    >[!NOTE]
    >
    >**Reminder**
    >
    >
-   >You can make a smart campaign run on one person at a time based on live events by adding triggers, which puts the smart campaign in&nbsp;**Trigger**&nbsp;mode.
+   >You can make a smart campaign run on one person at a time based on live events by adding triggers, which puts the smart campaign in **Trigger** mode.
 
 1. Click the drop-down and choose a filter operator for the filter you chose.
 
@@ -41,7 +41,7 @@ Smart lists are the mechanism throughout Marketo to define "who" (which people) 
 
    >[!NOTE]
    >
-   >By default, people who satisfy ALL the smart list rules are qualified. This can be modified to suit your campaign needs. Check out&nbsp; [Smart List Rules for Complex Logic](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)&nbsp;to learn more.
+   >By default, people who satisfy ALL the smart list rules are qualified. This can be modified to suit your campaign needs. Check out  [Smart List Rules for Complex Logic](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md) to learn more.
 
    To trigger on live events one person at a time, learn how to [Define Smart List for Smart Campaign | Trigger](define-smart-list-for-smart-campaign-trigger.md).
 

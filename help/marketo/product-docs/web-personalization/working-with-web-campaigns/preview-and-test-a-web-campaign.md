@@ -14,11 +14,11 @@ This article shows you different ways to preview a web campaign, and also how to
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Click** Create New Web Campaign****&nbsp;**or the icon to edit an existing campaign.
+1. Click** Create New Web Campaign**** **or the icon to edit an existing campaign.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. In Preview on site, add the&nbsp;page URL&nbsp;and click&nbsp;**Preview**.&nbsp;A new window/tab opens showing the campaign preview.
+1. In Preview on site, add the page URL and click **Preview**. A new window/tab opens showing the campaign preview.
 
    ![](assets/three-1.png)
 
@@ -45,7 +45,7 @@ This article shows you different ways to preview a web campaign, and also how to
 
    ![](assets/six.png)
 
-1. Go back to Marketo. Add the&nbsp;page URL&nbsp;and click&nbsp;**Preview**.&nbsp;
+1. Go back to Marketo. Add the page URL and click **Preview**. 
 
    ![](assets/seven.png)
 
@@ -55,7 +55,7 @@ This article shows you different ways to preview a web campaign, and also how to
 
 ## Preview a Web Campaign on the Web Campaigns Page {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. While looking at the listing of your web campaigns, simply choose a campaign and click the&nbsp;**Preview**&nbsp;icon.
+1. While looking at the listing of your web campaigns, simply choose a campaign and click the **Preview** icon.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -69,12 +69,12 @@ Create a sandbox segment and campaign.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. Click&nbsp;**Create New**.
+1. Click **Create New**.
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. Name the segment. 
-1. Under Behavioral, drag Include Pages onto the canvas. Add the value &#42;sandbox=1&#42;. Click&nbsp;Save & Define Campaign.
+1. Under Behavioral, drag Include Pages onto the canvas. Add the value &#42;sandbox=1&#42;. Click Save & Define Campaign.
 
    ![](assets/segment.png)
 

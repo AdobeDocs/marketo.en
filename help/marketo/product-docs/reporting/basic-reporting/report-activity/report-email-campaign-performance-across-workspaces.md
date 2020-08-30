@@ -43,5 +43,5 @@ Turn on Global Reporting to include data from all your Marketo [workspaces](../.
    >**Deep Dive**
    >
    >
-   >Learn all about reports in&nbsp; [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting)  .
+   >Learn all about reports in  [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting)  .
 

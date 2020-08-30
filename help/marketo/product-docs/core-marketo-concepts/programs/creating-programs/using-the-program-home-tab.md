@@ -20,7 +20,7 @@ The program home tab gives you a high-level view of what's going on in your prog
 
    >[!NOTE]
    >
-   >This is your default view. It provides information about your&nbsp;Settings,&nbsp;Schedule,&nbsp;Results, and&nbsp;Members Program Status.&nbsp;
+   >This is your default view. It provides information about your Settings, Schedule, Results, and Members Program Status. 
 
    Click underlined elements to make changes or view more information.
 
@@ -36,7 +36,7 @@ The program home tab gives you a high-level view of what's going on in your prog
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Click the **View**&nbsp;drop-down. Select **Used By**.
+1. Click the **View** drop-down. Select **Used By**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -50,7 +50,7 @@ The program home tab gives you a high-level view of what's going on in your prog
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Click the&nbsp;**View** drop-down. Select **Membership**.
+1. Click the **View** drop-down. Select **Membership**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 

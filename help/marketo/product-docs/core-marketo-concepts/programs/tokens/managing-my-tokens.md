@@ -10,7 +10,7 @@ Using tokens can simplify your efforts in Marketo. You can use [My Tokens](under
 
 >[!TIP]
 >
->Learn more about what tokens are already available in [Tokens Overview](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).&nbsp;
+>Learn more about what tokens are already available in [Tokens Overview](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md). 
 
 ## Create a My Token {#create-a-my-token}
 
@@ -48,7 +48,7 @@ Using tokens can simplify your efforts in Marketo. You can use [My Tokens](under
 
 >[!CAUTION]
 >
->When you delete a My Token, make sure you aren't referencing it in any asset. A blank space will display in any place it's referenced if deleted.&nbsp;
+>When you delete a My Token, make sure you aren't referencing it in any asset. A blank space will display in any place it's referenced if deleted. 
 
 1. Right-click the **My Token.** Select **Delete Token.** 
 

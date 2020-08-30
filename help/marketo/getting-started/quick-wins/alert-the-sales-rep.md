@@ -53,7 +53,7 @@ To automatically send alert emails to sales reps, all you need is an alert email
 
    ![](assets/seven-6.png)
 
-1. Place your cursor where you want to insert the person's contact info and click&nbsp;the&nbsp;**Insert Token** icon.
+1. Place your cursor where you want to insert the person's contact info and click the **Insert Token** icon.
 
    ![](assets/eight-4.png)
 
@@ -73,7 +73,7 @@ To automatically send alert emails to sales reps, all you need is an alert email
 
    ![](assets/eleven-5.png)
 
-1. Under&nbsp;**Email Actions** click&nbsp;**Approve**.
+1. Under **Email Actions** click **Approve**.
 
    ![](assets/twelve-4.png)
 
@@ -95,7 +95,7 @@ To automatically send alert emails to sales reps, all you need is an alert email
 
    ![](assets/image2014-9-24-13-3a14-3a58.png)
 
-1. Under the&nbsp; **Flow** &nbsp;tab, find and drag the **Send Alert** flow action to the canvas.
+1. Under the  **Flow**  tab, find and drag the **Send Alert** flow action to the canvas.
 
    ![](assets/image2014-9-24-13-3a15-3a10.png)
 
@@ -103,7 +103,7 @@ To automatically send alert emails to sales reps, all you need is an alert email
 
    ![](assets/eighteen-1.png)
 
-1. Type your email address in the **To Other Emails** field. &nbsp;
+1. Type your email address in the **To Other Emails** field.  
 
    ![](assets/nineteen-2.png)
 
@@ -114,7 +114,7 @@ To automatically send alert emails to sales reps, all you need is an alert email
    >[!TIP]
    >
    >
-   >Set the **Qualification Rules** to **every time** (by editing the Smart Campaign)&nbsp; to allow the same person to trigger alerts multiple times.
+   >Set the **Qualification Rules** to **every time** (by editing the Smart Campaign)  to allow the same person to trigger alerts multiple times.
 
 1. Click **Activate** on the confirmation screen.
 

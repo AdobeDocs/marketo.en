@@ -24,7 +24,7 @@ Sometimes you need to make changes in a Workspace. It's easy.
 >
 >Brush up on workspaces with [Understanding Workspaces and Person Partitions](understanding-workspaces-and-person-partitions.md).
 
-1. Under&nbsp;**Admin**, click on&nbsp;**Workspaces & Partitions**.
+1. Under **Admin**, click on **Workspaces & Partitions**.
 
    ![](assets/image2014-9-17-11-3a59-3a11-1.png)
 
@@ -45,14 +45,14 @@ Sometimes you need to make changes in a Workspace. It's easy.
 
    >[!NOTE]
    >
-   >The&nbsp;**All Person Partitions****&nbsp;**checkbox means that this workspace can use all lead partitions in the system.
+   >The **All Person Partitions**** **checkbox means that this workspace can use all lead partitions in the system.
 
    >[!NOTE]
    >
    >**Reminder**
    >
    >
-   >The** primary person partition**&nbsp;acts as the default and is where all people will be assigned.
+   >The** primary person partition** acts as the default and is where all people will be assigned.
 
    If you enabled multiple branded domains, you can change to a different primary branded domain. Click Save.
 
@@ -60,7 +60,7 @@ Sometimes you need to make changes in a Workspace. It's easy.
 
    >[!NOTE]
    >
-   >You can't change the workspace&nbsp;language.
+   >You can't change the workspace language.
 
 >[!NOTE]
 >

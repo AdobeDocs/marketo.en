@@ -6,7 +6,7 @@ title: Interesting Moments in MSC
 
 # Interesting Moments in MSC {#interesting-moments-in-msc}
 
-Interesting moments are the key to communicating with your sales team through Marketo Sales Connect.&nbsp;
+Interesting moments are the key to communicating with your sales team through Marketo Sales Connect. 
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ That's up to you! You decide what information is relevant to your sales team. Yo
 
 ## How do I create an interesting moment? {#how-do-i-create-an-interesting-moment}
 
-1. Choose a&nbsp; [s](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [mart campaign](http://docs.marketo.com/display/docs/smart+campaigns), preferably one your sales team would find interesting if triggered.
+1. Choose a  [s](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [mart campaign](http://docs.marketo.com/display/docs/smart+campaigns), preferably one your sales team would find interesting if triggered.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 

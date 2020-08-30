@@ -22,13 +22,13 @@ Multiple subscriptions can be created on a smart list. There is limitation of 10
 
 ## [Marketo Custom Objects](http://docs.marketo.com/display/docs/marketo+custom+objects) {#marketo-custom-objects}
 
-Easily create custom objects from the admin UI. We currently support the ability to create a 1:N custom object in Marketo and connect it to a lead or company. **Note**:&nbsp;Marketo Custom Objects are not available for Spark.
+Easily create custom objects from the admin UI. We currently support the ability to create a 1:N custom object in Marketo and connect it to a lead or company. **Note**: Marketo Custom Objects are not available for Spark.
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
 ## [Marketo Insights for Google Chrome](../../product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md) {#marketo-insights-for-google-chrome}
 
-We’re excited to announce the release of an update to our Google Mail Sales Insight extension! View it in the&nbsp; [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+We’re excited to announce the release of an update to our Google Mail Sales Insight extension! View it in the  [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 This update includes many new features and functionality:
 
@@ -76,7 +76,7 @@ RTP’s Assets page is now split into Content Analytics and Content Recommendati
 * **Content Analytics: **Shows the views and direct leads of all discovered and defined web content, helping you analyze your best performing content
 * **Content Recommendations**: Shows impressions and clicks from RTP’s recommended content and associated lead attribution. You can also edit and enable content recommendations from this page for the [bar](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine) and [rich media](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine) recommendations.
 
-* All direct lead data in these two pages has been retrospectively&nbsp;updated since the start of the year (Jan 1, 2015).
+* All direct lead data in these two pages has been retrospectively updated since the start of the year (Jan 1, 2015).
 
 ## [RTP - Clone an RTP Campaign](../../product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md) {#rtp-clone-an-rtp-campaign}
 
@@ -135,7 +135,7 @@ We are making several improvements to the rich text editor. After we released th
 * Maximize/minimize button added to the HTML source editor
 * Pre-existing table properties are now identified and displayed in the Table Properties dialog
 * Both rows of buttons are now shown by default.
-* The editor will now accept&nbsp;any&nbsp;element (even deprecated or non-standard elements):  
+* The editor will now accept any element (even deprecated or non-standard elements):  
   **
 
   ```
@@ -143,7 +143,7 @@ We are making several improvements to the rich text editor. After we released th
   ```
 
   **
-* The editor will now accept&nbsp;any&nbsp;attribute (even deprecated or non-standard attributes):  
+* The editor will now accept any attribute (even deprecated or non-standard attributes):  
   **
 
   ```

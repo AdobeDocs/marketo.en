@@ -8,7 +8,7 @@ title: View Qualified People in a Smart Campaign
 
 View people who qualify to go through the flow when you run a smart campaign.
 
-1. In your smart campaign, click on&nbsp;Schedule.&nbsp;In the&nbsp;Smart List Status, click on the first link.
+1. In your smart campaign, click on Schedule. In the Smart List Status, click on the first link.
 
 ![](assets/qualifedpeople-hands.png)
 

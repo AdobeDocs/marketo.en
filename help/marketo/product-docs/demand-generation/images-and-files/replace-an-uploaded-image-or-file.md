@@ -16,7 +16,7 @@ title: Replace an Uploaded Image or File
 
    >[!TIP]
    >
-   >You can also&nbsp; [search uploaded images or files](search-uploaded-images-and-files.md).&nbsp;
+   >You can also  [search uploaded images or files](search-uploaded-images-and-files.md). 
 
 1. Click **File Actions** and select **Replace Image or File**.
 

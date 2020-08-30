@@ -40,10 +40,10 @@ A web campaign is a customized reaction associated with a specific segment. The 
    <td colspan="1" rowspan="1"><strong>Dialog Style</strong></td> 
    <td colspan="1" rowspan="1"> 
     <ul> 
-     <li>Modern Trim&nbsp;- A stylish and distinctive dialog with semi-transparent black trim and rounded corners</li> 
-     <li>Modern Trim II&nbsp;- A&nbsp;stylish and distinctive dialog with a light shadow trim and rounded corners and close button</li> 
-     <li>Transparent&nbsp;- A fully transparent dialog box, ideal for transparent (png) images for your call to actions.&nbsp;</li> 
-     <li>Basic -&nbsp;A simple style dialog, with thicker title header space fulfilling your basic dialog box needs.</li> 
+     <li>Modern Trim - A stylish and distinctive dialog with semi-transparent black trim and rounded corners</li> 
+     <li>Modern Trim II - A stylish and distinctive dialog with a light shadow trim and rounded corners and close button</li> 
+     <li>Transparent - A fully transparent dialog box, ideal for transparent (png) images for your call to actions. </li> 
+     <li>Basic - A simple style dialog, with thicker title header space fulfilling your basic dialog box needs.</li> 
     </ul></td> 
   </tr> 
   <tr> 
@@ -80,11 +80,11 @@ A web campaign is a customized reaction associated with a specific segment. The 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Header color</strong></td> 
-   <td colspan="1">Set the header bar of the dialog to your preferred color. The color can be chosen from a color chart or entered as a Hex color code.&nbsp;</td> 
+   <td colspan="1">Set the header bar of the dialog to your preferred color. The color can be chosen from a color chart or entered as a Hex color code. </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Content background color </strong></td> 
-   <td colspan="1">Set the background color of the dialog box to your preferred color. The color can be chosen from a color chart or entered as a Hex color code.&nbsp;</td> 
+   <td colspan="1">Set the background color of the dialog box to your preferred color. The color can be chosen from a color chart or entered as a Hex color code. </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Dialog title</strong></td> 
@@ -104,16 +104,16 @@ A web campaign is a customized reaction associated with a specific segment. The 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Rich Text Editor</strong></td> 
-   <td colspan="1"><p>The rich text editor allows for text formatting, linking and image insertion.&nbsp;<a href="using-the-web-personalization-rich-text-editor.md">Read more here</a>.</p></td> 
+   <td colspan="1"><p>The rich text editor allows for text formatting, linking and image insertion. <a href="using-the-web-personalization-rich-text-editor.md">Read more here</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Preview on site</strong></td> 
    <td colspan="1">Preview campaigns before they are launched.<br> 
     <ul> 
-     <li>URL -&nbsp;Enter an example URL where the campaign would run to see a preview example of how the campaign would look live.</li> 
+     <li>URL - Enter an example URL where the campaign would run to see a preview example of how the campaign would look live.</li> 
      <li>Device - Preview how your campaign will appear by device: Desktop, Mobile Portrait, Mobile Landscape, Tablet Portrait, Portrait Landscape.<br></li> 
-     <li>Preview -&nbsp;Click&nbsp;<strong>Preview&nbsp;</strong>to open a new window of the example URL to see how the campaign reacts. </li> 
-     <li>Share&nbsp;- Use the Share button to send an email to a colleague with a link to see the proxy&nbsp;campaign.</li> 
+     <li>Preview - Click <strong>Preview </strong>to open a new window of the example URL to see how the campaign reacts. </li> 
+     <li>Share - Use the Share button to send an email to a colleague with a link to see the proxy campaign.</li> 
     </ul></td> 
   </tr> 
  </tbody> 
@@ -125,7 +125,7 @@ A web campaign is a customized reaction associated with a specific segment. The 
 
    ## Edit a Web Campaign {#edit-a-web-campaign}
 
-   From the **Web** **Campaigns**&nbsp;page, click **Edit** on the web campaign.
+   From the **Web** **Campaigns** page, click **Edit** on the web campaign.
 
    ![](assets/image2016-11-4-11-3a6-3a19.png)
 
@@ -135,7 +135,7 @@ A web campaign is a customized reaction associated with a specific segment. The 
 
    ## Preview a Web Campaign {#preview-a-web-campaign}
 
-   1.&nbsp;From the&nbsp;**Web Campaigns**&nbsp;page, click **Preview** on the web campaign you wish to view.
+   1. From the **Web Campaigns** page, click **Preview** on the web campaign you wish to view.
 
    ![](assets/image2016-11-4-11-3a8-3a58.png)
 

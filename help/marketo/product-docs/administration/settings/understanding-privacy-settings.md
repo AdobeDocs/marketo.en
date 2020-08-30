@@ -8,14 +8,14 @@ title: Understanding Privacy Settings
 
 ## Overview {#overview}
 
-Marketo provides marketers with a way to get web visitors' consent to track them. There are two ways to opt out, or you can choose to be tracked by anonymized IP. &nbsp;&nbsp;
+Marketo provides marketers with a way to get web visitors' consent to track them. There are two ways to opt out, or you can choose to be tracked by anonymized IP.   
 
 * Web visitors select the Do Not Track (DNT) feature in their browser (and the marketer honors the web visitor's request for Do Not Track)
 * Web visitors use an opt out cookie provided by a marketer on a website
 
 Or, the marketer can track users, but use an anonymized IP.
 
-These methods might affect Marketo’s value and functionality in specific areas. However, if the marketer *doesn’t*&nbsp;change anything in Marketo's configuration, Marketo functionality remains the same.
+These methods might affect Marketo’s value and functionality in specific areas. However, if the marketer *doesn’t* change anything in Marketo's configuration, Marketo functionality remains the same.
 
 ## Browser Settings for Do Not Track {#browser-settings-for-do-not-track}
 

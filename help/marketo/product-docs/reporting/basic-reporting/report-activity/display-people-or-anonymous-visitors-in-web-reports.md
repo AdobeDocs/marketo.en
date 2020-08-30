@@ -12,7 +12,7 @@ title: Display People or Anonymous Visitors in Web Reports
 >
 >[Add Munchkin Tracking Code to Your Website](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-In the [Web Page Activity](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)&nbsp;and&nbsp; [Company Web Activity reports](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) you can see either [people or anonymous visitors](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) who visit your site. The anonymous visitors have inferred data, such as Metro Area.  Here's how to select whether the report displays known leads or anonymous visitors.
+In the [Web Page Activity](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) and  [Company Web Activity reports](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) you can see either [people or anonymous visitors](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) who visit your site. The anonymous visitors have inferred data, such as Metro Area.  Here's how to select whether the report displays known leads or anonymous visitors.
 
 1. In your Web Page Activity report, click **Setup**.
 

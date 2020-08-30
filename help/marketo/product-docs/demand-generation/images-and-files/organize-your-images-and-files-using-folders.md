@@ -6,7 +6,7 @@ title: Organize Your Images and Files Using Folders
 
 # Organize Your Images and Files Using Folders {#organize-your-images-and-files-using-folders}
 
-Creating folders allows you to move images and files, see just the set of images you want, and upload directly to a specific folder. &nbsp;
+Creating folders allows you to move images and files, see just the set of images you want, and upload directly to a specific folder.  
 
 1. Go to the **Design** **Studio**.
 
@@ -24,7 +24,7 @@ Creating folders allows you to move images and files, see just the set of images
 
    ![](assets/image2014-9-16-11-3a26-3a0.png)
 
-High five! You're all set for folder utopia.&nbsp;
+High five! You're all set for folder utopia. 
 
 >[!NOTE]
 >

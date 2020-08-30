@@ -6,7 +6,7 @@ title: SFDC Sync: Custom Object Sync
 
 # SFDC Sync: Custom Object Sync {#sfdc-sync-custom-object-sync}
 
-Custom Objects created in your Salesforce instance can be part of Marketo too. &nbsp;Here's how to set it up.
+Custom Objects created in your Salesforce instance can be part of Marketo too.  Here's how to set it up.
 
 >[!NOTE]
 >

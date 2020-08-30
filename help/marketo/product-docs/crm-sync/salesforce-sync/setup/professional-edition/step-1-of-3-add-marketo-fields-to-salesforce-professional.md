@@ -12,13 +12,13 @@ title: Step 1 of 3: Add Marketo Fields to Salesforce  (Professional)
 >
 >Your Salesforce instance must have access to Salesforce API's to sync data between Marketo and Salesforce.
 
-Marketo uses a set of fields to capture certain kinds of marketing related information. If you would like this data in Salesforce, please follow the instructions below.&nbsp;
+Marketo uses a set of fields to capture certain kinds of marketing related information. If you would like this data in Salesforce, please follow the instructions below. 
 
-1. Create three custom fields in Salesforce on the lead and contact objects: Score, Acquisition Program, and Acquisition Date.&nbsp;
+1. Create three custom fields in Salesforce on the lead and contact objects: Score, Acquisition Program, and Acquisition Date. 
 1. Map these custom fields between leads and contacts so that on conversion in Salesforce, the values carry over.
 1. You can create other additional fields, if necessary (see the table below).
 
-All of these custom fields are optional and are not required to sync Marketo and Salesforce. As a best practice, we recommend that you do create fields for Score,&nbsp;Acquisition Program, and Acquisition Date.
+All of these custom fields are optional and are not required to sync Marketo and Salesforce. As a best practice, we recommend that you do create fields for Score, Acquisition Program, and Acquisition Date.
 
 ## Add Marketo Fields to Salesforce {#add-marketo-fields-to-salesforce}
 
@@ -224,29 +224,29 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
 A custom field on the lead object in Salesforce should be mapped to a contact field on the contact object so that data is carried over when a conversion occurs.
 
-1.&nbsp;In the top right corner, click Setup.
+1. In the top right corner, click Setup.
 
 ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-2.&nbsp;Type "fields" into the Nav Search without pressing enter. Fields appears under different objects; Click Fields under Leads.
+2. Type "fields" into the Nav Search without pressing enter. Fields appears under different objects; Click Fields under Leads.
 
 ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-3.&nbsp;Go to the Lead Custom Fields & Relationships section and click Map Lead Fields.
+3. Go to the Lead Custom Fields & Relationships section and click Map Lead Fields.
 
 ![](assets/image2016-5-26-16-3a39-3a29.png)
 
-4.&nbsp;Click the drop-down next to the field you want to map.
+4. Click the drop-down next to the field you want to map.
 
 ![](assets/image2016-5-26-16-3a49-3a53.png)
 
-5.&nbsp;Select the corresponding contact custom field.
+5. Select the corresponding contact custom field.
 
-![](assets/image2016-5-26-16-3a56-3a23.png)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![](assets/image2016-5-26-16-3a56-3a23.png)                                                                                                                                                                                 
 
-6.&nbsp;Repeat the above steps for any other fields you've created.
+6. Repeat the above steps for any other fields you've created.
 
-7.&nbsp;Click Save when you're done.
+7. Click Save when you're done.
 
 Easy enough, right?
 

@@ -18,7 +18,7 @@ title: Configure Mobile App iOS Push Access
 
 ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-4. Under Push Access Type, select iOS and click&nbsp;Configure.
+4. Under Push Access Type, select iOS and click Configure.
 
 ![](assets/image2016-6-10-11-3a37-3a9.png)
 

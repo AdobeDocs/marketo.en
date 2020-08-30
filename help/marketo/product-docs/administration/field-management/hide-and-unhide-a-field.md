@@ -18,7 +18,7 @@ If you no longer have use for a field in Marketo, you can hide it from the UI so
 
    ![](assets/image2014-9-18-13-3a10-3a3.png)
 
-1. Find the field, select it, then under&nbsp;**Field Actions**&nbsp;click **Hide Field**.
+1. Find the field, select it, then under **Field Actions** click **Hide Field**.
 
    ![](assets/fieldmanagement-hidefield-.png)
 

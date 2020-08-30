@@ -16,7 +16,7 @@ Leverage Person Data for Web Personalization by selecting person fields to use i
 
 ## Adding a New Person field {#adding-a-new-person-field}
 
-1. Select&nbsp;**Field to add** from the drop-down to add a person data field to the list.  
+1. Select **Field to add** from the drop-down to add a person data field to the list.  
   
    ![](assets/add-a-person-field-hand.jpg)
 

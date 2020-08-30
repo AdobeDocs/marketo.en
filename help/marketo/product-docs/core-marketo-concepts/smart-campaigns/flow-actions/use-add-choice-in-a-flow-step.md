@@ -15,7 +15,7 @@ title: Use Add Choice in a Flow Step
 
 **Add Choice** lets you use a flow step and say "It depends" when you are choosing the details.
 
-1. Under the&nbsp;**Flow**&nbsp;tab of the smart campaign, add any&nbsp;flow step and then click on **Add Choice**.
+1. Under the **Flow** tab of the smart campaign, add any flow step and then click on **Add Choice**.
 
    ![](assets/image2014-9-22-11-3a58-3a20.png)
 
@@ -45,7 +45,7 @@ title: Use Add Choice in a Flow Step
 
    >[!CAUTION]
    >
-   >Only the first matching choice is applied to the flow step. Learn how to&nbsp; [reorder "Add Choice" in a flow action](reorder-add-choice-in-a-flow-step.md).
+   >Only the first matching choice is applied to the flow step. Learn how to  [reorder "Add Choice" in a flow action](reorder-add-choice-in-a-flow-step.md).
 
    >[!NOTE]
    >

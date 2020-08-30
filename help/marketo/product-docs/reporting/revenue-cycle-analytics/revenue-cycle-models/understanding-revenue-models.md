@@ -26,7 +26,7 @@ Models are generally for customers who are comfortable with smart campaigns and 
 
 ## Starting with a New Model {#starting-with-a-new-model}
 
-By default, a new model starts you off with six revenue stages. This model is actually fine all by itself, but it can be deeply customized.&nbsp;
+By default, a new model starts you off with six revenue stages. This model is actually fine all by itself, but it can be deeply customized. 
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
@@ -72,7 +72,7 @@ A Gate stage is meant for situations where you want to filter leads into one of 
 
 ## Transitions {#transitions}
 
-Clarify exactly how a lead moves from one stage to another using smart campaigns and make sure leads don't get stuck in any stage. Be sure to use trigger filters for transitions to (that's a way to evaluate).&nbsp;
+Clarify exactly how a lead moves from one stage to another using smart campaigns and make sure leads don't get stuck in any stage. Be sure to use trigger filters for transitions to (that's a way to evaluate). 
 
 >[!NOTE]
 >

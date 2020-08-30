@@ -8,19 +8,19 @@ title: Implementing RTP on Wordpress
 
 To implement your RTP tag please follow the installation instructions below:
 
-1. Open up the&nbsp;**header.php**&nbsp;file of your&nbsp;**WordPress theme**.
+1. Open up the **header.php** file of your **WordPress theme**.
 
-    1. You can either use an FTP client to access your server or edit your theme files directly from the WordPress dashboard. Your file editor is located under the **Appearance&nbsp;**tab in the sidebar menu.
+    1. You can either use an FTP client to access your server or edit your theme files directly from the WordPress dashboard. Your file editor is located under the **Appearance **tab in the sidebar menu.
 
    ![](assets/image2014-11-30-15-3a35-3a30.png)
 
-1. &nbsp;In the list of template files to the right of the text editor, find&nbsp;**header.php**&nbsp;and open it.
+1.  In the list of template files to the right of the text editor, find **header.php** and open it.
 1. Go to** Account Settings.**
 
     1. If you have already received your JavaScript tag from Support - continue to step 5.  
        ![](assets/image2014-11-30-15-3a19-3a21-1.png)
 
-1. Under Domain, locate the relevant domain and click&nbsp;**Generate Tag**.  
+1. Under Domain, locate the relevant domain and click **Generate Tag**.  
    ** ![](assets/image2014-11-30-15-3a20-3a17-1.png)
 
    **

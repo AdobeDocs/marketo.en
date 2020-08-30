@@ -10,11 +10,11 @@ Marketo Sales Insight picks your best leads and contacts based on their priority
 
 ![](assets/one.png)
 
-These are derived from the&nbsp;lead score&nbsp;-- a measure of the person's interest in your product(s). The higher the score, the more likely they will respond positively to a call from your sales team.
+These are derived from the lead score -- a measure of the person's interest in your product(s). The higher the score, the more likely they will respond positively to a call from your sales team.
 
 >[!NOTE]
 >
->You need several scoring campaigns to get the full value of priority, urgency, and relative score.&nbsp; With too few or no scoring campaigns, these fields won't be useful.
+>You need several scoring campaigns to get the full value of priority, urgency, and relative score.  With too few or no scoring campaigns, these fields won't be useful.
 
 ### Urgency {#urgency}
 

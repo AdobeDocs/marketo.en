@@ -15,7 +15,7 @@ title: Create an Event with ReadyTalk
 >* Set the appropriate [flow actions](http://docs.marketo.com/display/DOCS/Flow+Actions)to track engagement
 >
 
-First set up your event in the ReadyTalk conference center. If you need help, check out the [ReadyTalk Resource Center.](https://www.readytalk.com/resources/readytalk)  When choosing the registration type, select **pre-register before the meeting**. If you select *register at time of meeting*,&nbsp;Marketo will **not** capture a Registered status for your people and will only pull in a person status of Attended *after* the webinar concludes.
+First set up your event in the ReadyTalk conference center. If you need help, check out the [ReadyTalk Resource Center.](https://www.readytalk.com/resources/readytalk)  When choosing the registration type, select **pre-register before the meeting**. If you select *register at time of meeting*, Marketo will **not** capture a Registered status for your people and will only pull in a person status of Attended *after* the webinar concludes.
 
 Leave **notify me of new registrations via email **unchecked.
 
@@ -63,7 +63,7 @@ Now you're ready to link your event to Marketo.
 
    >[!TIP]
    >
-   >To populate your confirmation email with this unique URL, use the following token in your email: {{member.webinar url}}. When the confirmation URL is sent out, this token automatically resolves to the person's unique confirmation URL.&nbsp;
+   >To populate your confirmation email with this unique URL, use the following token in your email: {{member.webinar url}}. When the confirmation URL is sent out, this token automatically resolves to the person's unique confirmation URL. 
    >
    >
    >Set your confirmation email to Operational to ensure that people who register, who might be unsubscribed, receive their confirmation information.

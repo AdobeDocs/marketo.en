@@ -8,7 +8,7 @@ title: Download GoogleAdwords Activity Log
 
 Stuff happens. Sometimes you need to download the activity log to troubleshoot issues.
 
-1. Go to&nbsp;**Admin** and click&nbsp;**LaunchPoint**.
+1. Go to **Admin** and click **LaunchPoint**.
 
    ![](assets/image2015-4-22-15-3a33-3a47.png)
 

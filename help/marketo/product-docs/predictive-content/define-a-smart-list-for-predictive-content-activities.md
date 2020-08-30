@@ -12,7 +12,7 @@ title: Define a Smart List for Predictive Content Activities
 
 You can use predictive content activities in triggers and filters when you define a smart list in a smart campaign. You can trigger an action for anyone who clicks predictive content via the [Rich Media template](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), the [Content Recommendation Bar](enabling-predictive-content/enable-the-content-recommendation-bar.md), or in an email.
 
-1. In your smart campaign, navigate to the **Smart List**&nbsp;tab.
+1. In your smart campaign, navigate to the **Smart List** tab.
 
    ![](assets/smart-list-1.png)
 

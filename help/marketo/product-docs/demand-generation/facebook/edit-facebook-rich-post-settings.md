@@ -34,7 +34,7 @@ You can specify the types of page information to use in the Facebook rich posts 
 
    >[!NOTE]
    >
-   >These should already exist in the page source, but for more control, you can&nbsp; [add specific Facebook OG tags to your landing page](edit-facebook-rich-post-settings.md).&nbsp;
+   >These should already exist in the page source, but for more control, you can  [add specific Facebook OG tags to your landing page](edit-facebook-rich-post-settings.md). 
 
     * Don't add rich content: Limits the Facebook posts from your landing page to just the main message and link.  
       ![](assets/image2014-9-22-16-3a48-3a18.png)

@@ -6,7 +6,7 @@ title: Use Inactivity Filters in a Smart List
 
 # Use Inactivity Filters in a Smart List {#use-inactivity-filters-in-a-smart-list}
 
-Did you know you can look for people in a Smart List who&nbsp;*didn't*&nbsp;do something? Check out these inactivity filters.
+Did you know you can look for people in a Smart List who *didn't* do something? Check out these inactivity filters.
 
 1. Go to **Marketing Activities**.
 
@@ -22,7 +22,7 @@ Did you know you can look for people in a Smart List who&nbsp;*didn't*&nbsp;do s
 
    >[!TIP]
    >
-   >There are many filters in the&nbsp;**Inactivity Filters**&nbsp;folder. Search for&nbsp;**Not**&nbsp;and check them out.
+   >There are many filters in the **Inactivity Filters** folder. Search for **Not** and check them out.
 
 1. Select the **is any** operator. This will find all the people who have not visited any page in the last 30 days.
 

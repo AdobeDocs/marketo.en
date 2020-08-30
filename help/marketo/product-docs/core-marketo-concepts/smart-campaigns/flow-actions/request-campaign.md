@@ -42,5 +42,5 @@ You can place people into a specific campaign by using the **Request Campaign** 
 
 >[!TIP]
 >
->Use the&nbsp;**Campaign is Requested**&nbsp;trigger or filter to find people affected by this flow step.
+>Use the **Campaign is Requested** trigger or filter to find people affected by this flow step.
 

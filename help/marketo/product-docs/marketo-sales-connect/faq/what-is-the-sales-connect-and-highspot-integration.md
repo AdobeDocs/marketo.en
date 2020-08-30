@@ -28,9 +28,9 @@ If you are interested in enabling the Highspot Integration for your team, please
 
 ## How to Use the Integration {#how-to-use-the-integration}
 
-Once enabled, here's how to access your Highspot content in Sales Connect.&nbsp;
+Once enabled, here's how to access your Highspot content in Sales Connect. 
 
-1.&nbsp;When composing an email in Sales Connect or Outlook, choose Add Content.
+1. When composing an email in Sales Connect or Outlook, choose Add Content.
 
 2. Select Highspot.
 

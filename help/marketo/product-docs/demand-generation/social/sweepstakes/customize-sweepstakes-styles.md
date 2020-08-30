@@ -14,7 +14,7 @@ When you [create a sweepstakes](create-sweepstakes.md), you can customize how it
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
-1. Go to&nbsp;Marketing Activities.
+1. Go to Marketing Activities.
 
 ![](assets/login-marketing-activities-1.png)
 
@@ -39,7 +39,7 @@ When you [create a sweepstakes](create-sweepstakes.md), you can customize how it
 
    >[!NOTE]
    >
-   >If you use an image with text on it, remember to remove the text from the&nbsp;**Enter** **Button **field under&nbsp;Text&nbsp;above.
+   >If you use an image with text on it, remember to remove the text from the **Enter** **Button **field under Text above.
 
 1. As you make each change, the result is displayed in the View & Edit preview.
 
@@ -57,5 +57,5 @@ When you [create a sweepstakes](create-sweepstakes.md), you can customize how it
    >**Related Articles**
    >
    >
-   >The next step is to&nbsp;add [sign-up and fulfillment emails to your sweepstakes](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >The next step is to add [sign-up and fulfillment emails to your sweepstakes](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 

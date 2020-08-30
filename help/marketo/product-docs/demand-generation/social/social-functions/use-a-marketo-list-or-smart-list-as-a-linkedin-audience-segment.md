@@ -61,4 +61,4 @@ Integrate your Marketo people with your LinkedIn audiences.
 
    [LinkedIn's Marketing Solutions help center](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment)
 
-High five! Your data will now jibe with LinkedIn's audiences. For information on uploading lists to LinkedIn for Account and Contact Targeting, visit&nbsp;.&nbsp; 
+High five! Your data will now jibe with LinkedIn's audiences. For information on uploading lists to LinkedIn for Account and Contact Targeting, visit .  

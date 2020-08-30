@@ -30,7 +30,7 @@ If your team has never exchanged a sales email with the person, no activities ap
 
 ![](assets/3.png)
 
-Click the icon to collapse the pane.&nbsp;
+Click the icon to collapse the pane. 
 
 ![](assets/4.png)
 

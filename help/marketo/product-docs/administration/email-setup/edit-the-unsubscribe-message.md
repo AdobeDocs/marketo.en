@@ -34,7 +34,7 @@ When you send marketing emails (non- [operational](../../../product-docs/email-m
 
    ![](assets/image2016-8-26-13-3a40-3a55.png)
 
-   There you have it.&nbsp;**Make sure to test!**&nbsp;You don't want your marketing emails to have broken unsubscribe links.
+   There you have it. **Make sure to test!** You don't want your marketing emails to have broken unsubscribe links.
 
 >[!TIP]
 >

@@ -61,7 +61,7 @@ Use Dynamic Content in Emails to send your leads targeted information.
 
 >[!CAUTION]
 >
->Changes to Default segment content block gets applied to all segments.&nbsp;
+>Changes to Default segment content block gets applied to all segments. 
 
 Sweet! Now you can send flexible emails to your target audience. 
 

@@ -24,7 +24,7 @@ If you want to integrate with Marketo via the [REST API](http://developers.marke
 
    ![](assets/image2014-9-16-13-3a47-3a12.png)
 
-1. Enter a&nbsp;Role Name, select the API access&nbsp;Permissions&nbsp;you want to give, and click&nbsp;**Create.**
+1. Enter a Role Name, select the API access Permissions you want to give, and click **Create.**
 
    ![](assets/image2014-9-16-13-3a47-3a36.png)
 

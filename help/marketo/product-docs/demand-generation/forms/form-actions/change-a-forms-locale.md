@@ -41,7 +41,7 @@ When dealing with international forms, you will want to display dates/times in t
    >**Reminder**
    >
    >
-   >Remember to&nbsp; [approve the landing page draft](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)&nbsp;created by the form changes.
+   >Remember to  [approve the landing page draft](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) created by the form changes.
 
 1. 
 1. That's that! People can see date/time being displayed in the correct locale.

@@ -32,7 +32,7 @@ The Content Recommendation Engine uses predictive analytics and machine learning
 
    ![](assets/bar-enable.png)
 
-1. To customize a URL, select&nbsp;colors, style, format, arrows for the recommendation bar, and pages to include or exclude the bar. Customize to fit your website branding. Click&nbsp;**Save**.
+1. To customize a URL, select colors, style, format, arrows for the recommendation bar, and pages to include or exclude the bar. Customize to fit your website branding. Click **Save**.
 
    ![](assets/bar-customize-details-hands.png)
 

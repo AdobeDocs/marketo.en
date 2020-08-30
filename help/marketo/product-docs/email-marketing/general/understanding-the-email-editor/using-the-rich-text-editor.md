@@ -153,7 +153,7 @@ Here are the features you'll find in an RTE.
 
 >[!TIP]
 >
->You edit your HTML and text on separate screens. Be sure to click&nbsp;**Copy from HTML**&nbsp;on the **Text** tab&nbsp;and then **Save** so your text matches your HTML.
+>You edit your HTML and text on separate screens. Be sure to click **Copy from HTML** on the **Text** tab and then **Save** so your text matches your HTML.
 
 >[!NOTE]
 >

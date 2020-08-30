@@ -26,7 +26,7 @@ Marketo can suggest which inbound links are valuable to your [off-page optimizat
 
    >[!TIP]
    >
-   >Did you know you can&nbsp; [add your link to a new or existing list](seo-add-remove-an-inbound-link-url-from-a-list.md)? Check it out!
+   >Did you know you can  [add your link to a new or existing list](seo-add-remove-an-inbound-link-url-from-a-list.md)? Check it out!
 
 1. Awesome! These added links will now be tracked.
 

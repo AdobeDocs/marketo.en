@@ -6,7 +6,7 @@ title: Add Level 3 Web Meeting as a LaunchPoint Service
 
 # Add Level 3 Web Meeting as a LaunchPoint Service {#add-level-web-meeting-as-a-launchpoint-service}
 
-Marketo manages&nbsp;your Level 3 Web Meeting registration and attendance.
+Marketo manages your Level 3 Web Meeting registration and attendance.
 
 >[!NOTE]
 >
@@ -22,19 +22,19 @@ Marketo manages&nbsp;your Level 3 Web Meeting registration and attendance.
 
    ![](assets/image2015-4-23-10-3a5-3a12.png)
 
-1. Select&nbsp;**New**&nbsp;and then&nbsp;**New** **Service**.
+1. Select **New** and then **New** **Service**.
 
    ![](assets/level-3-web-meeting-new-service.png)
 
-1. Enter a&nbsp;**Display** **Name**.&nbsp;Under&nbsp;**Service**, select **Level 3 Web Meeting**.
+1. Enter a **Display** **Name**. Under **Service**, select **Level 3 Web Meeting**.
 
    ![](assets/new-service-level-3.png)
 
-1. Enter your&nbsp;**Access** **Number**, **Access** **Code**, and **Passcode**, then click **Create**.
+1. Enter your **Access** **Number**, **Access** **Code**, and **Passcode**, then click **Create**.
 
    ![](assets/image2015-4-23-10-3a10-3a26.png)
 
-1. Phenomenal! Your** Level 3 Web Meeting** Account is now synced with Marketo.&nbsp;
+1. Phenomenal! Your** Level 3 Web Meeting** Account is now synced with Marketo. 
 
    ![](assets/level-3-web-meeting.png)
 

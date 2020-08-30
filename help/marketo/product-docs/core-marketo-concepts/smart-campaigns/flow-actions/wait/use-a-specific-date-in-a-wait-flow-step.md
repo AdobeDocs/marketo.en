@@ -16,7 +16,7 @@ You can use the **Wait** flow step to pause a person's journey through a smart c
 
    ![](assets/image2014-9-22-11-3a50-3a59.png)
 
-   From the Type drop-down, select Date.&nbsp;
+   From the Type drop-down, select Date. 
 
    ![](assets/image2014-9-22-11-3a51-3a27.png)
 

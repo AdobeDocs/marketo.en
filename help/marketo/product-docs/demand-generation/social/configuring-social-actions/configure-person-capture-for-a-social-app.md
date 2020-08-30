@@ -6,7 +6,7 @@ title: Configure Person Capture for a Social App
 
 # Configure Person Capture for a Social App {#configure-person-capture-for-a-social-app}
 
-When you create a&nbsp; [referral offer](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)&nbsp;or a&nbsp; [sweepstakes](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), you can configure what information you request and what information you require from people in order to participate.
+When you create a  [referral offer](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) or a  [sweepstakes](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), you can configure what information you request and what information you require from people in order to participate.
 
 >[!NOTE]
 >

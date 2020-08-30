@@ -18,15 +18,15 @@ Want to see a breakdown of everything that happened in a smart campaign? It's ea
 
    >[!TIP]
    >
-   >You can see the list of people who were processed by the smart campaign by clicking&nbsp; [View Campaign Members](view-smart-campaign-members.md).
+   >You can see the list of people who were processed by the smart campaign by clicking  [View Campaign Members](view-smart-campaign-members.md).
 
    ![](assets/image2014-9-22-11-38-10.jpg)
 
    >[!TIP]
    >
-   >You can also filter the results based on activity type. Learn how to&nbsp; [filter smart campaign results](filter-smart-campaign-results.md).
+   >You can also filter the results based on activity type. Learn how to  [filter smart campaign results](filter-smart-campaign-results.md).
 
-1. Click an **ID**&nbsp;to view more detail about that particular activity.
+1. Click an **ID** to view more detail about that particular activity.
 
    ![](assets/image2014-9-22-11-39-22.jpg)
 

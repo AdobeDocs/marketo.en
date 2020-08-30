@@ -41,15 +41,15 @@ You may want to add landing page CNAMEs to allow different URLs to point to your
 
 ## Add a New CNAME {#add-a-new-cname}
 
-1. Once your IT department has created the CNAME, go to&nbsp;**Admin**&nbsp;then click **Landing Pages**.
+1. Once your IT department has created the CNAME, go to **Admin** then click **Landing Pages**.
 
    ![](assets/image2014-9-16-15-3a20-3a20.png)
 
-1. Click **New**&nbsp;then select **New Domain Alias**.
+1. Click **New** then select **New Domain Alias**.
 
    ![](assets/image2014-9-16-15-3a20-3a28.png)
 
-1. Enter your&nbsp;**Domain Alias.**&nbsp;The&nbsp;**Default Page**&nbsp;is displayed if the visitor does not put in a URL. Enter where they should go in that case.
+1. Enter your **Domain Alias.** The **Default Page** is displayed if the visitor does not put in a URL. Enter where they should go in that case.
 
    >[!NOTE]
    >
@@ -57,8 +57,8 @@ You may want to add landing page CNAMEs to allow different URLs to point to your
 
    ![](assets/image2014-9-16-15-3a20-3a36.png)
 
-1. Enter your&nbsp;**Default Page**&nbsp;and click&nbsp;**Create**.
+1. Enter your **Default Page** and click **Create**.
 
    ![](assets/image2014-9-16-15-3a20-3a43.png)
 
-Nice! Now you know what to do if you ever want to add a&nbsp;CNAME.
+Nice! Now you know what to do if you ever want to add a CNAME.

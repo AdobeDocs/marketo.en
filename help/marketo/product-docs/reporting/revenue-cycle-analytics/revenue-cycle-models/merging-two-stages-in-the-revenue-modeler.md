@@ -6,7 +6,7 @@ title: Merging Two Stages in the Revenue Modeler
 
 # Merging Two Stages in the Revenue Modeler {#merging-two-stages-in-the-revenue-modeler}
 
-After you've approved the model, you cannot delete stages when editing a draft. Instead, you can merge that stage with another.&nbsp;
+After you've approved the model, you cannot delete stages when editing a draft. Instead, you can merge that stage with another. 
 
 1. Click **Marketo Home** and select **Analytics**.
 

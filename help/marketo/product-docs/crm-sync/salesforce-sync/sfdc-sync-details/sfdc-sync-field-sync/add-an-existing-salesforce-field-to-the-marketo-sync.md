@@ -40,5 +40,5 @@ Usually, new custom fields in Salesforce sync over to Marketo automatically. If 
 
    >[!NOTE]
    >
-   >&nbsp;If the field already has values in Salesforce, those values don't sync over to Marketo until the next record update.
+   > If the field already has values in Salesforce, those values don't sync over to Marketo until the next record update.
 

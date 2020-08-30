@@ -24,7 +24,7 @@ It's pretty easy to export a full list of your users and user roles. Here's how.
 
    >[!TIP]
    >
-   >To export roles, go to the&nbsp;**Roles****&nbsp;**tab first then export.
+   >To export roles, go to the **Roles**** **tab first then export.
 
    ![](assets/image2014-9-10-9-3a25-3a49.png)
 

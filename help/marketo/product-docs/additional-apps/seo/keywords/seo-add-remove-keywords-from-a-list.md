@@ -26,7 +26,7 @@ You can keep all your keywords nice and organized by using lists. This will make
 
    >[!TIP]
    >
-   >You can also make a new list&nbsp;for your keywords. Just type the name in&nbsp;Create a new list.&nbsp;
+   >You can also make a new list for your keywords. Just type the name in Create a new list. 
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 

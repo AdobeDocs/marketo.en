@@ -6,7 +6,7 @@ title: Filtering the Marketing Calendar
 
 # Filtering the Marketing Calendar {#filtering-the-marketing-calendar}
 
-Use entry types, program tags, or workspaces to filter the information displayed on the calendar.&nbsp;
+Use entry types, program tags, or workspaces to filter the information displayed on the calendar. 
 
 1. Go to the Calendar. 
 
@@ -16,7 +16,7 @@ Use entry types, program tags, or workspaces to filter the information displayed
 
    >[!NOTE]
    >
-   >The default entry types will be&nbsp;**Email** **Programs**&nbsp;and&nbsp;**Smart** **Campaigns** **with** **Email**.
+   >The default entry types will be **Email** **Programs** and **Smart** **Campaigns** **with** **Email**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 

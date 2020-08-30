@@ -35,7 +35,7 @@ Here's how you do it.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. Enter an email address and click&nbsp;**SEND**.
+1. Enter an email address and click **SEND**.
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 

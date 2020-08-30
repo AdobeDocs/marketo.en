@@ -44,7 +44,7 @@ title: Landing Page with a Form
    >**Reminder**
    >
    >
-   >Include your initials at the end of the program&nbsp;Name&nbsp;to make it unique.
+   >Include your initials at the end of the program Name to make it unique.
 
    ![](assets/image2014-9-8-17-3a46-3a28.png)
 

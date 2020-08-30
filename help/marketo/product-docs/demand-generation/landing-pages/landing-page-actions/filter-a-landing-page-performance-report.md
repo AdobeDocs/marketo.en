@@ -30,7 +30,7 @@ Focus your [landing page performance report](../../../../product-docs/demand-gen
 
    >[!TIP]
    >
-   >If you select a folder, your report will include everything that folder contains at the time the report runs.&nbsp;
+   >If you select a folder, your report will include everything that folder contains at the time the report runs. 
 
 1. You're done! Click the **Report** tab to see your filtered report.
 

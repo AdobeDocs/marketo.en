@@ -31,7 +31,7 @@ Marketo allows you to set the maximum* *number of people that can qualify for a 
    >
    >The default limit is the one set in Admin.
 
-1. Enter a new limit&nbsp;and then click **Save.**
+1. Enter a new limit and then click **Save.**
 
    ![](assets/three.png)
 

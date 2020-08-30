@@ -6,7 +6,7 @@ title: Create a Calendar Event (.ics) File
 
 # Create a Calendar Event (.ics) File {#create-a-calendar-event-ics-file}
 
-A Calendar File token allows you to add a calendar event (.ics) link to your&nbsp;Marketo emails and landing pages.
+A Calendar File token allows you to add a calendar event (.ics) link to your Marketo emails and landing pages.
 
 1. Inside your program, go to **My Tokens** tab.
 

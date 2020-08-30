@@ -6,7 +6,7 @@ title: Define an Audience with a Smart List
 
 # Define an Audience with a Smart List {#define-an-audience-with-a-smart-list}
 
-Once you&nbsp; [create an email program](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), you will want to tell it who to send the email to. You can do this by&nbsp; [importing a list of people](define-an-audience-by-importing-a-list.md)&nbsp;or with a smart list. Here's how to accomplish this with a smart list.
+Once you  [create an email program](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), you will want to tell it who to send the email to. You can do this by  [importing a list of people](define-an-audience-by-importing-a-list.md) or with a smart list. Here's how to accomplish this with a smart list.
 
 >[!NOTE]
 >
@@ -68,7 +68,7 @@ Once you&nbsp; [create an email program](../../../../product-docs/email-marketin
 >
 >Click the number for a detailed list of people blocked from mailings. **Please note:** Operational emails will still be sent to people marked unsubscribed and marketing suspended.
 >
->Use the&nbsp; ![--](assets/image2014-10-23-16-3a32-3a36.png)&nbsp;button on the&nbsp;Audience&nbsp;tile to see how many people will receive the email.
+>Use the  ![--](assets/image2014-10-23-16-3a32-3a36.png) button on the Audience tile to see how many people will receive the email.
 
 >[!NOTE]
 >

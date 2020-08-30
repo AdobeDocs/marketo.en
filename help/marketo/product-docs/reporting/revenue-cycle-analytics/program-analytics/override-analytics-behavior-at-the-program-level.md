@@ -6,7 +6,7 @@ title: Override Analytics Behavior at the Program Level
 
 # Override Analytics Behavior at the Program Level {#override-analytics-behavior-at-the-program-level}
 
-You can set the&nbsp; [analytics behavior at the admin level on channels](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)&nbsp;but you can also override it at the program level. Here is how:
+You can set the  [analytics behavior at the admin level on channels](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) but you can also override it at the program level. Here is how:
 
 1. Go to the Marketing Activities area.
 

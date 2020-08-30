@@ -31,7 +31,7 @@ Using dynamic content in landing pages engages people with targeted information.
 
    ![](assets/image2015-5-21-12-3a31-3a20.png)
 
-   Enter the&nbsp;Segmentation name and click&nbsp;Save.
+   Enter the Segmentation name and click Save.
 
    ![](assets/image2014-9-16-14-3a50-3a5.png)
 

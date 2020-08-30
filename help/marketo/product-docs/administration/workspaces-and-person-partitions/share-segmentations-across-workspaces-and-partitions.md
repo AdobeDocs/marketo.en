@@ -30,7 +30,7 @@ Once you have these personas set up (**and** you use workspaces), you will want 
 * You can only share a Segmentation with workspaces that you have access to.
 * Make sure to create and utilize a **Default workspace that has visibility into all partitions**.
 
-* Segmentation processing only runs on the people in the workspace where the Segmentation is created.&nbsp;
+* Segmentation processing only runs on the people in the workspace where the Segmentation is created. 
 
     * Create the Segmentation you want to share inside the Default Workspace.
 

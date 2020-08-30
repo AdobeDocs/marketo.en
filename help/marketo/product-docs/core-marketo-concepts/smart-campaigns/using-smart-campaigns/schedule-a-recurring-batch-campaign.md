@@ -24,7 +24,7 @@ Recurrence allows you to run a batch smart campaign on a regular schedule. For e
 
 ![](assets/image2014-9-22-11-3a41-3a49.png)
 
-5. Leave Repeat every as 1, select Monday&nbsp;and click Save.
+5. Leave Repeat every as 1, select Monday and click Save.
 
 ![](assets/image2014-9-22-11-3a41-3a53.png)
 

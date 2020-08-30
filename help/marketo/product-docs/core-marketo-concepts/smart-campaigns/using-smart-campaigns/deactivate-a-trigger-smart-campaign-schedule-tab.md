@@ -22,5 +22,5 @@ If you have an old trigger campaign that you need to deactivate, follow these st
 
 >[!NOTE]
 >
->This will&nbsp;stop *new* people from entering the flow, but people in wait steps or any other flow step will continue to move through the flow until done.
+>This will stop *new* people from entering the flow, but people in wait steps or any other flow step will continue to move through the flow until done.
 

@@ -10,7 +10,7 @@ Guided landing page templates have two types of editable sections: elements and 
 
 ## Elements  {#elements}
 
-Elements are the different pieces of content that make up a landing page. They can be images, text, or Marketo assets.&nbsp;
+Elements are the different pieces of content that make up a landing page. They can be images, text, or Marketo assets. 
 
 ![](assets/image2015-5-20-14-3a57-3a55.png)
 
@@ -26,7 +26,7 @@ When you edit a guided landing page, elements will show up if they've been marke
 * ![--](assets/image2015-5-20-12-3a44-3a40.png)Marketo Sweepstakes
 * ![--](assets/image2015-5-20-12-3a47-3a45.png)Marketo Snippet
 
-Variables&nbsp;
+Variables 
 
 Variables are token-like attributes that can be customized from the guided landing page editor, like shown below.
 

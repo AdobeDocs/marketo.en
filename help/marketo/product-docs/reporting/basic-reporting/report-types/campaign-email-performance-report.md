@@ -48,5 +48,5 @@ To see your email performance stats grouped by [smart campaign](http://docs.mark
    >**Deep Dive**
    >
    >
-   >Learn more in&nbsp; [Basic Reporting.](http://docs.marketo.com/display/docs/basic+reporting)
+   >Learn more in  [Basic Reporting.](http://docs.marketo.com/display/docs/basic+reporting)
 

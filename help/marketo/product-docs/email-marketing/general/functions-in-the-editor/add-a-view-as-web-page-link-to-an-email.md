@@ -32,4 +32,4 @@ Here's an example of how it looks:
 >
 >You will not see the View as Web Page link until you send the email. Send yourself a test to view.
 
-To change the default text, see&nbsp; [Edit the "View as Web Page" Message](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md). 
+To change the default text, see  [Edit the "View as Web Page" Message](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md). 

@@ -8,7 +8,7 @@ title: Reorder "Add Choice" in a Flow Step
 
 Since only the first matching choice applies to a person, order matters. If you want to change the order of the conditions set in a flow step, here's how.
 
-1. Find the flow step you want to change the order of a choice for.&nbsp;
+1. Find the flow step you want to change the order of a choice for. 
 
    ![](assets/one.png)
 
@@ -16,7 +16,7 @@ Since only the first matching choice applies to a person, order matters. If you 
 
    >[!NOTE]
    >
-   >When reordering, you can&nbsp;**Move Up**,&nbsp;**Move Down**,&nbsp;or **Move To**.
+   >When reordering, you can **Move Up**, **Move Down**, or **Move To**.
 
    ![](assets/two.png) ![](assets/three.png)
 

@@ -12,7 +12,7 @@ The Email Analysis Area focuses on email metrics. This article introduces all of
 >
 >**Availability**
 >
->This is available to users with the&nbsp;Select Edition or&nbsp; [Revenue Cycle Analytics](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)&nbsp;add-on. Contact your sales rep for details.
+>This is available to users with the Select Edition or  [Revenue Cycle Analytics](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) add-on. Contact your sales rep for details.
 
 ## Email Click Activity Heat Grid {#email-click-activity-heat-grid}
 

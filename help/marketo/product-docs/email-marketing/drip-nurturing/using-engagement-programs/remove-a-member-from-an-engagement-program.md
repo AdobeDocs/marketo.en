@@ -16,7 +16,7 @@ Oops! How did those people get in there? You can remove members from an engageme
 
 >[!TIP]
 >
->Don't use this to pause content for a person. That will eliminate all attribution in analytics. &nbsp;Learn more about how to [pause people in an engagement program](pause-people-in-an-engagement-program.md).
+>Don't use this to pause content for a person. That will eliminate all attribution in analytics.  Learn more about how to [pause people in an engagement program](pause-people-in-an-engagement-program.md).
 
 ## Flow Step {#flow-step}
 

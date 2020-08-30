@@ -24,7 +24,7 @@ The first time someone visits a Marketo [l `anding page`](http://docs.marketo.co
 
 >[!NOTE]
 >
->Unlike other links in Marketo emails,&nbsp; [View as Web Page](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&nbsp;is not tracked as an email click.
+>Unlike other links in Marketo emails,  [View as Web Page](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) is not tracked as an email click.
 
 An anonymous activity is merged into a new or existing person when someone:
 

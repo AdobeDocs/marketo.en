@@ -12,7 +12,7 @@ View people who have already run through the smart campaign flow; i.e., smart ca
 
 ![](assets/login-marketing-activities.png)
 
-2. In your smart campaign, click&nbsp;View Campaign Members .
+2. In your smart campaign, click View Campaign Members .
 
 ![](assets/changescore-hands.png)
 
@@ -20,7 +20,7 @@ View people who have already run through the smart campaign flow; i.e., smart ca
 >
 >You can view campaign members from anywhere within a smart campaign.
 
-1. The **Campaign Members**&nbsp;tab shows people that have already run through the smart campaign flow.
+1. The **Campaign Members** tab shows people that have already run through the smart campaign flow.
 
    ![](assets/smartcampaignheader-complete.jpg)
 
@@ -33,7 +33,7 @@ View people who have already run through the smart campaign flow; i.e., smart ca
    >**Deep Dive**
    >
    >
-   >Learn more about what you can do with&nbsp; [lists](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+   >Learn more about what you can do with  [lists](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
    >[!NOTE]
    >

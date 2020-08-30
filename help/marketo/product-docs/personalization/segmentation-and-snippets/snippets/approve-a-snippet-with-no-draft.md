@@ -20,7 +20,7 @@ No-Draft is triggered each time a snippet is approved. This includes a snippet t
 
 1. Select an option in the Approve Snippet dialog box and click **Approve**:
 
-    * **Update all**: This option will not create drafts of the approved assets using the snippet. All assets get the updates and maintain their prior statuses. A progress module appears on the top right side of the screen; it can be closed at any time. To restore it, right-click the snippet name and select Show Approval Status.&nbsp;
+    * **Update all**: This option will not create drafts of the approved assets using the snippet. All assets get the updates and maintain their prior statuses. A progress module appears on the top right side of the screen; it can be closed at any time. To restore it, right-click the snippet name and select Show Approval Status. 
     * **Create drafts**: This option will create drafts of the approved assets using the snippet. Select this option if snippet changes need to be reviewed first. All drafts must be approved manually.
 
    ![](assets/snippet-dialog-box.png)

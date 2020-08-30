@@ -17,7 +17,7 @@ There are eight different built-in entry types that will be visible and availabl
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1">Basic Entry<span>&nbsp;<img alt="--" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td> 
+   <td colspan="1" rowspan="1">Basic Entry<span> <img alt="--" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td> 
    <td colspan="1" rowspan="1">Default entry type. Use as a placeholder or note. </td> 
   </tr> 
   <tr> 

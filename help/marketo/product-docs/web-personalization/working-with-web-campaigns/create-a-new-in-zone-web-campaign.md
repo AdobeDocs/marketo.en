@@ -6,7 +6,7 @@ title: Create a New In Zone Web Campaign
 
 # Create a New In Zone Web Campaign {#create-a-new-in-zone-web-campaign}
 
-A web campaign is a customized reaction associated with a specific segment and can be a [dialog box](create-a-new-dialog-web-campaign.md) on your website, an in zone replacement, a [widget feature](create-a-new-widget-web-campaign.md) or an email alert. An In Zone web campaign replaces an element of your website based on the Zone id with content or graphical banners.&nbsp;
+A web campaign is a customized reaction associated with a specific segment and can be a [dialog box](create-a-new-dialog-web-campaign.md) on your website, an in zone replacement, a [widget feature](create-a-new-widget-web-campaign.md) or an email alert. An In Zone web campaign replaces an element of your website based on the Zone id with content or graphical banners. 
 
 ## Create an In Zone Web Campaign {#create-an-in-zone-web-campaign}
 
@@ -61,7 +61,7 @@ A web campaign is a customized reaction associated with a specific segment and c
   </tr> 
   <tr> 
    <td colspan="1"><strong> Rich Text Editor  </strong></td> 
-   <td colspan="1">The rich text editor allows for text formatting, linking and image insertion.&nbsp;<a href="using-the-web-personalization-rich-text-editor.md">Read more here</a>&nbsp;.</td> 
+   <td colspan="1">The rich text editor allows for text formatting, linking and image insertion. <a href="using-the-web-personalization-rich-text-editor.md">Read more here</a> .</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong> Preview on site   </strong></td> 
@@ -69,8 +69,8 @@ A web campaign is a customized reaction associated with a specific segment and c
     <ul> 
      <li> URL  - Enter an example URL where the campaign would run to see a preview example of how the campaign would look live.</li> 
      <li>Device - Preview how your campaign will appear by device: Desktop, Mobile Portrait, Mobile Landscape, Tablet Portrait, Portrait Landscape.</li> 
-     <li> Preview -&nbsp;Click&nbsp;<strong>Preview</strong>&nbsp;to open a new window of the example URL to see how the campaign reacts.</li> 
-     <li> Share&nbsp;- Use the Share button to send an email to a colleague with a link to see the proxy&nbsp;campaign.</li> 
+     <li> Preview - Click <strong>Preview</strong> to open a new window of the example URL to see how the campaign reacts.</li> 
+     <li> Share - Use the Share button to send an email to a colleague with a link to see the proxy campaign.</li> 
     </ul></td> 
   </tr> 
  </tbody> 

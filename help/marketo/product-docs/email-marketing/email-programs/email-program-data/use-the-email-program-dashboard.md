@@ -6,11 +6,11 @@ title: Use the Email Program Dashboard
 
 # Use the Email Program Dashboard {#use-the-email-program-dashboard}
 
-Check out how your&nbsp; [email programs](http://docs.marketo.com/display/docs/email+programs)&nbsp;are&nbsp;performing with this dashboard view.
+Check out how your  [email programs](http://docs.marketo.com/display/docs/email+programs) are performing with this dashboard view.
 
 >[!NOTE]
 >
->If your program has an A/B test, check out the&nbsp; [Email Program Dashboard - A/B Test View](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
+>If your program has an A/B test, check out the  [Email Program Dashboard - A/B Test View](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 

@@ -31,7 +31,7 @@ The following features are included in the Feb '20 release. Check your Marketo e
 ***Releasing Throughout the Quarter***
 
 The following features are on a non-quarterly cycle and will be released throughout the coming months.
-**Bizible&nbsp; ![(star)](assets/star-yellow.svg)
+**Bizible  ![(star)](assets/star-yellow.svg)
 
 **
 

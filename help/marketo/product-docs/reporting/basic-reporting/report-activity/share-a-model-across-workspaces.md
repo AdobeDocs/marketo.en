@@ -43,4 +43,4 @@ Marketo gives you the ability to share a model(s) across workspaces. Here's how.
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 
-It's that easy! Now people from other workspaces can move through the shared model. You may want to run person assignment in that workspace, see&nbsp; [Launching Your Revenue Cycle Model](https://community.marketo.com/MarketoArticle?id=kA050000000KyvQCAS)&nbsp;for details.
+It's that easy! Now people from other workspaces can move through the shared model. You may want to run person assignment in that workspace, see  [Launching Your Revenue Cycle Model](https://community.marketo.com/MarketoArticle?id=kA050000000KyvQCAS) for details.

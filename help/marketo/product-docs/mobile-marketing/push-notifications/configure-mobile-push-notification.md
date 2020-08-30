@@ -24,7 +24,7 @@ title: Configure Mobile Push Notification
 
    If your Push message applies to only one platform (for example, cases for iPhones), then you can exclude the other platform by sliding its selector to Disabled.
 
-   &nbsp; ![](assets/image2016-8-23-16-3a41-3a48.png)
+     ![](assets/image2016-8-23-16-3a41-3a48.png)
 
    Click NEXT.
 

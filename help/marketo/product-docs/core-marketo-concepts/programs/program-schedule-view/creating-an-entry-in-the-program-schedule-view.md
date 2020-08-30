@@ -48,7 +48,7 @@ You can create entries from within the program schedule view to supplement an ex
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Select the&nbsp;**Type**&nbsp;drop-down. Choose a new entry type.&nbsp;
+1. Select the **Type** drop-down. Choose a new entry type. 
 
    >[!NOTE]
    >
@@ -62,5 +62,5 @@ You can create entries from within the program schedule view to supplement an ex
 
 >[!NOTE]
 >
->&nbsp;You can also create a [smart campaign](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) or [email program](creating-a-new-email-program-in-the-schedule-view.md) from the schedule view.
+> You can also create a [smart campaign](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) or [email program](creating-a-new-email-program-in-the-schedule-view.md) from the schedule view.
 

@@ -35,7 +35,7 @@ Continuing our example, let's define these filters to find all people in Califor
    >**Reminder**
    >
    >
-   >You may be storing both&nbsp;**California**&nbsp;and&nbsp;**CA**. In order to filter for both values and include *all *people from California, learn how to&nbsp; [add multiple values to a smart list filter](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
+   >You may be storing both **California** and **CA**. In order to filter for both values and include *all *people from California, learn how to  [add multiple values to a smart list filter](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
 
 1. Pick the **greater than** operator and enter **50**.
 
@@ -47,5 +47,5 @@ Continuing our example, let's define these filters to find all people in Califor
 >
 >**Deep Dive**
 >
->Learn more about&nbsp; [smart lists and static lists](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+>Learn more about  [smart lists and static lists](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 

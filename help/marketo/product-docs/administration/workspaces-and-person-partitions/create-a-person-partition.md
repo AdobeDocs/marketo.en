@@ -26,7 +26,7 @@ Create a new person partition following these steps.
 
 >[!CAUTION]
 >
->Person Partitions can be complex. Please contact&nbsp; [Marketo support](http://support.marketo.com/)&nbsp;for help setting them up.&nbsp;
+>Person Partitions can be complex. Please contact  [Marketo support](http://support.marketo.com/) for help setting them up. 
 
 1. Under Admin, select Workspaces & Partitions.
 

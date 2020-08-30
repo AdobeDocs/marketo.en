@@ -30,8 +30,8 @@ Include up to five CC addresses per recipient on emails sent through Marketo.
 
 **API**
 
-* **Multi-Branding Domain Support for Asset API:**&nbsp;Approving and cloning assets produce the same results within the API and UI.
-* **Email CC Support for Asset API**:&nbsp;Users cloning, approving, and processing emails via the API will maintain parity with the UI settings.
+* **Multi-Branding Domain Support for Asset API:** Approving and cloning assets produce the same results within the API and UI.
+* **Email CC Support for Asset API**: Users cloning, approving, and processing emails via the API will maintain parity with the UI settings.
 
 ** [Munchkin v155 (Beta)](http://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
@@ -57,11 +57,11 @@ Include up to five CC addresses per recipient on emails sent through Marketo.
 
 >[!NOTE]
 >
->Marketo Sky releases occur on a more frequent cadence. The following features and enhancements are expected to release during late Q4/early Q1. For more details and updates, check our&nbsp; [Sky documentation](https://help.marketo.com/hc/en-us/articles/360012858573).
+>Marketo Sky releases occur on a more frequent cadence. The following features and enhancements are expected to release during late Q4/early Q1. For more details and updates, check our  [Sky documentation](https://help.marketo.com/hc/en-us/articles/360012858573).
 
 * **Optional Default Experience**: Marketo users may set Marketo Sky as their default experience if they have been provided access by an Admin.
 
-* **Reimagined My Marketo**: Customize your experience by adding widgets that provide critical information, notifications, and links to your most frequently visited areas.&nbsp;
+* **Reimagined My Marketo**: Customize your experience by adding widgets that provide critical information, notifications, and links to your most frequently visited areas. 
 
 * **Design Studio List Views & Detail Pages**: Enjoy an increased level of organization and accuracy with filterable and searchable list views of emails, landing pages, and forms. Asset Detail Pages provide key information around each asset, including which programs the asset is used by, the number of snippets being used, and more.  
 
@@ -69,14 +69,14 @@ Include up to five CC addresses per recipient on emails sent through Marketo.
 
 * **Improved User Interface**: New icons, modals, and buttons, along with a new color palette to reflect our brand refresh and make Marketo Sky even more stunning and functional.
 
-* **Email Program Usability Enhancements**: We continue to move towards parity in Email Program functionality between our classic Marketo Lead Management platform and the new Marketo Sky experience.&nbsp;
+* **Email Program Usability Enhancements**: We continue to move towards parity in Email Program functionality between our classic Marketo Lead Management platform and the new Marketo Sky experience. 
 * **Event-With-Webinar Programs**: Event-With-Webinar programs are now available in Marketo Sky (note: only GoToWebinar will be supported in this release, with further integrations established over time).
 
 ## Account-Based Marketing {#account-based-marketing}
 
 ** [ABM Persona-Based Segmentation & Filtering](../../product-docs/account-based-marketing/using-personas.md)**
 
-Personalize your ABM campaigns for specific personas within named accounts.&nbsp;The ABM Persona feature creates a default job title based on lead segmentation and allows configuration of additional persona segmentations.
+Personalize your ABM campaigns for specific personas within named accounts. The ABM Persona feature creates a default job title based on lead segmentation and allows configuration of additional persona segmentations.
 
 ## Analytics {#analytics}
 
@@ -84,7 +84,7 @@ Personalize your ABM campaigns for specific personas within named accounts.&nbsp
 
 * **Custom Calculated Fields**: Use any Bizible attribute to build custom fields that can be used for dashboard reporting and segmentation.
 
-* **SOC II Type II Certification**: New security and privacy certification builds on Type I accreditation from earlier this year.&nbsp;
+* **SOC II Type II Certification**: New security and privacy certification builds on Type I accreditation from earlier this year. 
 
 ## Web Personalization {#web-personalization}
 
@@ -96,10 +96,10 @@ To manage domains and subdomains more efficiently, users can now add subdomains 
 
 **Updated MME Software Development Kit (SDK) for Android**
 
-We’ve updated our SDK for Android to a more modern, stable and scalable framework that contains more flexibility and new engineering features. Android app developers can now directly use Google’s [Firebase Cloud Messaging](http://firebase.google.com/docs/cloud-messaging/)&nbsp;(FCM) with this new SDK.
+We’ve updated our SDK for Android to a more modern, stable and scalable framework that contains more flexibility and new engineering features. Android app developers can now directly use Google’s [Firebase Cloud Messaging](http://firebase.google.com/docs/cloud-messaging/) (FCM) with this new SDK.
 
-* [Developer instructions](http://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)&nbsp;
-* [Developer FAQ](http://developers.marketo.com/mobile/installation/#android_fcm_faq)&nbsp;
+* [Developer instructions](http://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application) 
+* [Developer FAQ](http://developers.marketo.com/mobile/installation/#android_fcm_faq) 
 
 >[!NOTE]
 >

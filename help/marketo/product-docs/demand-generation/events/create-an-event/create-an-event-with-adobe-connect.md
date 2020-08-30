@@ -36,7 +36,7 @@ First, make sure you've created your meeting or seminar in Adobe Connect. If you
 
    **
 
-1. Select your **Login** ID and the select your&nbsp;**Event**.
+1. Select your **Login** ID and the select your **Event**.
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 

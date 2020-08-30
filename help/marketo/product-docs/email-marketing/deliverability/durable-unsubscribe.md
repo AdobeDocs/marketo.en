@@ -28,7 +28,7 @@ In Marketo, **clear** the unsubscribed box in the Info tab of the person's recor
 
 ![](assets/two.png)
 
-Run a&nbsp;**Change Data Value** flow step as shown below on one or many people.
+Run a **Change Data Value** flow step as shown below on one or many people.
 
 ![](assets/three.png)
 

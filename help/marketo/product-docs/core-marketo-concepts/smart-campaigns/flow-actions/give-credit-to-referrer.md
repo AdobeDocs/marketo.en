@@ -28,6 +28,6 @@ If you chose to use the **Smart List Trigger** option to specify a goal, you wil
    >**Reminder**
    >
    >
-   >Make sure your social app is configured to use Smart List Trigger. See&nbsp; [Specify Goal for Referral Offer](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)&nbsp;for details.
+   >Make sure your social app is configured to use Smart List Trigger. See  [Specify Goal for Referral Offer](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) for details.
 
 Excellent! Any person processed by this flow step will now give credit to its referrer. 

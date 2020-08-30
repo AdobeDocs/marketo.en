@@ -35,7 +35,7 @@ Sometimes you launch a smart campaign and immediately realize it was a mistake. 
 
    >[!NOTE]
    >
-   >Take a look at the **Results** tab of the smart campaign to see what actions took place before the abort. You will also find a&nbsp; [notification](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) with additional details.
+   >Take a look at the **Results** tab of the smart campaign to see what actions took place before the abort. You will also find a  [notification](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) with additional details.
 
    >[!TIP]
    >

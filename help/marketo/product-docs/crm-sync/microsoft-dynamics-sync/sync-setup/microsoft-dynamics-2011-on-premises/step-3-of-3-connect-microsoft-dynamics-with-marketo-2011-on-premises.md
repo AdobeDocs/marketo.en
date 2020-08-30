@@ -106,5 +106,5 @@ If you've created a custom filter, be sure to go in and select the new fields to
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
 
-   Excellent work!&nbsp;
+   Excellent work! 
 

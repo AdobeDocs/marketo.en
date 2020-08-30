@@ -8,7 +8,7 @@ title: Release Notes: Spring '17
 
 The following features are included in the Spring '17 release. Check your Marketo edition for feature availability.
 
-Please click the title links to view detailed articles for each feature. **Note**:&nbsp;If a topic has multiple subheadings, the links are placed there.
+Please click the title links to view detailed articles for each feature. **Note**: If a topic has multiple subheadings, the links are placed there.
 
 ## [LinkedIn Lead Gen Forms](https://docs.marketo.com/x/ngLG) {#linkedin-lead-gen-forms}
 

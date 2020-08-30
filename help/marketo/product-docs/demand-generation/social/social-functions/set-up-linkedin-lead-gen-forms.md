@@ -66,7 +66,7 @@ Use LinkedIn Lead Gen Forms to run ad campaigns in LinkedIn and generate leads f
 
    >[!NOTE]
    >
-   >Only LinkedIn fields that have already been saved to a&nbsp; [form template](https://www.linkedin.com/help/lms/answer/79634)&nbsp;in LinkedIn Campaign Manager will show up as LinkedIn Fields that can be mapped to Marketo fields.
+   >Only LinkedIn fields that have already been saved to a  [form template](https://www.linkedin.com/help/lms/answer/79634) in LinkedIn Campaign Manager will show up as LinkedIn Fields that can be mapped to Marketo fields.
 
    ![](assets/linkedin-installed-services.png)
 

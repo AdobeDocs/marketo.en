@@ -18,7 +18,7 @@ During the initial sync to Salesforce, Marketo automatically combines similarly 
 
 When you see a field in the Unmapped Fields folder, it means that it's not mapped to a similar field on the Lead or Contact in Salesforce. You can fix that.
 
-1. Click&nbsp;Edit Mappings.
+1. Click Edit Mappings.
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 

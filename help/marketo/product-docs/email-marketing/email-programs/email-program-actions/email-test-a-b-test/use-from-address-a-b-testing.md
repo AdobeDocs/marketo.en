@@ -6,7 +6,7 @@ title: Use "From Address" A/B Testing
 
 # Use "From Address" A/B Testing {#use-from-address-a-b-testing}
 
-You can easily A/B test your emails. One interesting test is the&nbsp;**From Address**&nbsp;test. Here's how to set it up.
+You can easily A/B test your emails. One interesting test is the **From Address** test. Here's how to set it up.
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ You can easily A/B test your emails. One interesting test is the&nbsp;**From Add
 
    >[!TIP]
    >
-   >You can click&nbsp;on the **plus sign**&nbsp;to add as many From Addresses as you'd like.&nbsp;
+   >You can click on the **plus sign** to add as many From Addresses as you'd like. 
 
 1. Use the slider to choose what percentage of the audience you want in your A/B test and click **Next**.
 

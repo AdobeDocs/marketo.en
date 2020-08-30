@@ -6,7 +6,7 @@ title: Configure After-Share Prompts
 
 # Configure After-Share Prompts {#configure-after-share-prompts}
 
-In social button, video share, and poll&nbsp;apps, you can choose what happens after a person shares your content on their social network.
+In social button, video share, and poll apps, you can choose what happens after a person shares your content on their social network.
 
 1. Go to **Marketing Activities**.
 
@@ -16,7 +16,7 @@ In social button, video share, and poll&nbsp;apps, you can choose what happens a
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. In the social app editor, go to&nbsp;**App Settings****&nbsp;**and then **Advanced Options**.
+1. In the social app editor, go to **App Settings**** **and then **Advanced Options**.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
@@ -29,9 +29,9 @@ In social button, video share, and poll&nbsp;apps, you can choose what happens a
 
    >[!NOTE]
    >
-   >If you choose&nbsp;**Email Capture**, the request is only displayed if the person has not already provided their information.
+   >If you choose **Email Capture**, the request is only displayed if the person has not already provided their information.
 
-1. If you chose&nbsp;**Confirmation Message:** Go to&nbsp;**Share Flow**&nbsp;and then&nbsp;**Confirmation Message**.
+1. If you chose **Confirmation Message:** Go to **Share Flow** and then **Confirmation Message**.
 
    ![](assets/image2015-4-21-12-3a26-3a10.png)
 

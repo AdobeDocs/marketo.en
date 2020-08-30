@@ -6,7 +6,7 @@ title: Configure Social Sign-Up/Share Flow
 
 # Configure Social Sign-Up/Share Flow {#configure-social-sign-up-share-flow}
 
-When you create a&nbsp; [social app](http://docs.marketo.com/display/docs/social), you can configure the social network choices and prompts that a user encounters as they sign up.
+When you create a  [social app](http://docs.marketo.com/display/docs/social), you can configure the social network choices and prompts that a user encounters as they sign up.
 
 ## Select Networks for Sharing {#select-networks-for-sharing}
 

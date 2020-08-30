@@ -15,7 +15,7 @@ title: Find All People in a Revenue Stage
 
 ## Find All Members of a Specific Revenue Stage {#find-all-members-of-a-specific-revenue-stage}
 
-1. In a smart list, click the **Smart List **tab, find the&nbsp;**Revenue Stage**&nbsp;filter, and drag it into the canvas.
+1. In a smart list, click the **Smart List **tab, find the **Revenue Stage** filter, and drag it into the canvas.
 
    ![](assets/draginrevenuefilter.png)
 

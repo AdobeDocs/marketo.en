@@ -10,7 +10,7 @@ title: Prepare Sales Insight for Multi-Lingual Support in Salesforce
 >
 >**Admin Permissions Required**
 
-Marketo Sales Insight is stored by language. So, if you want it to work for more than one language, you have to enter the credentials separately for each language.&nbsp;
+Marketo Sales Insight is stored by language. So, if you want it to work for more than one language, you have to enter the credentials separately for each language. 
 
 >[!NOTE]
 >
@@ -61,7 +61,7 @@ When you are finished customizing your Salesforce organization, here's how to re
 
 >[!NOTE]
 >
->The following screenshots are in French with instructions in English. &nbsp;You'll see the same screens with text in the language you selected in the previous step.
+>The following screenshots are in French with instructions in English.  You'll see the same screens with text in the language you selected in the previous step.
 
 1. Under your name, click Setup.
 

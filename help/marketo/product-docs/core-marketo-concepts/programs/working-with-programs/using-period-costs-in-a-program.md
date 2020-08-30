@@ -12,7 +12,7 @@ A [period cost](understanding-period-costs.md) is the amount you spend on a prog
 >
 >**Deep Dive**
 >
->&nbsp;Learn more about&nbsp; [Revenue Cycle Analytics](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+> Learn more about  [Revenue Cycle Analytics](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
 ## Add a Period Cost  {#add-a-period-cost}
 
@@ -28,7 +28,7 @@ A [period cost](understanding-period-costs.md) is the amount you spend on a prog
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. Enter a&nbsp;**Period Cost** (without decimals or commas). Click **Save**.
+1. Enter a **Period Cost** (without decimals or commas). Click **Save**.
 
    >[!NOTE]
    >

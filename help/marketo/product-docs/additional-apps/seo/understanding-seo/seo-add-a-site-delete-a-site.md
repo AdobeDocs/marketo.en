@@ -28,11 +28,11 @@ In order for Marketo to pull data (inbound links and recommendations) relevant t
 
    ![](assets/two.png)
 
-1. Enter the&nbsp;**Name, Website URL**&nbsp;and click&nbsp;**Save**.
+1. Enter the **Name, Website URL** and click **Save**.
 
    >[!TIP]
    >
-   >You can also add a**&nbsp;****Blog URL**&nbsp;if you have one.
+   >You can also add a** ****Blog URL** if you have one.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 

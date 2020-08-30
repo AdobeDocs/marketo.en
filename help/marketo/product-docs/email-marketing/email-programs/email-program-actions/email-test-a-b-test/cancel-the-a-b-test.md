@@ -6,7 +6,7 @@ title: Cancel the A/B Test
 
 # Cancel the A/B Test {#cancel-the-a-b-test}
 
-If you've&nbsp; [added an A/B testing](add-an-a-b-test.md) to your email program and have decided you no longer want it, it is easily undone. Here's how.
+If you've  [added an A/B testing](add-an-a-b-test.md) to your email program and have decided you no longer want it, it is easily undone. Here's how.
 
 1. Go to **Marketing Activities**.
 

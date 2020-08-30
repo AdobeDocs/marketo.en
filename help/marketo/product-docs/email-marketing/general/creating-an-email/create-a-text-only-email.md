@@ -38,7 +38,7 @@ If you ever want to send text only emails, here's how to create an email that wi
 
    >[!CAUTION]
    >
-   >Links are not automatically tracked in text only emails. See how to&nbsp; [Add Tracked Links to a Text Email](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >Links are not automatically tracked in text only emails. See how to  [Add Tracked Links to a Text Email](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >

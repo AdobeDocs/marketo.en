@@ -20,19 +20,19 @@ Track and associate lead nurturing and lead acquisition costs for a Program or E
 
 ## Define a Period Cost {#define-a-period-cost}
 
-1. Access the&nbsp;**Setup**&nbsp;tab of your Program or Event.
+1. Access the **Setup** tab of your Program or Event.
 
    ![](assets/image2015-4-24-11-3a13-3a27.png)
 
-1. Drag and drop&nbsp;**Period Cost**&nbsp;to the canvas and the&nbsp;**New Cost**&nbsp;dialog box displays.
+1. Drag and drop **Period Cost** to the canvas and the **New Cost** dialog box displays.
 
-   &nbsp; ![](assets/image2015-4-24-16-3a31-3a15.png)
+     ![](assets/image2015-4-24-16-3a31-3a15.png)
 
-1. Enter the&nbsp;**Program Month**&nbsp;you want to associate with the defined cost.
+1. Enter the **Program Month** you want to associate with the defined cost.
 
    ![](assets/image2015-4-24-16-3a11-3a30.png)
 
-1. Enter a&nbsp;**Period Cost**&nbsp;as a whole number without decimals or commas (max limit: 99999999)
+1. Enter a **Period Cost** as a whole number without decimals or commas (max limit: 99999999)
 
    ![](assets/image2015-4-24-16-3a10-3a24.png)
 
@@ -40,13 +40,13 @@ Track and associate lead nurturing and lead acquisition costs for a Program or E
    >
    >The currency (e.g. USD, EUR, etc.) is a global setting managed by a Marketo Admin
 
-1. Enter a descriptive&nbsp;**Note**&nbsp;(optional) and click **Save**.
+1. Enter a descriptive **Note** (optional) and click **Save**.
 
    ![](assets/image2015-4-24-16-3a21-3a16.png)
 
 ## Edit a Period Cost {#edit-a-period-cost}
 
-1. Right-click the Period Cost and select&nbsp;**Edit **from the pop-up menu to open the&nbsp;**Edit Cost**&nbsp;dialog box.
+1. Right-click the Period Cost and select **Edit **from the pop-up menu to open the **Edit Cost** dialog box.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -56,11 +56,11 @@ Track and associate lead nurturing and lead acquisition costs for a Program or E
 
 ## Delete a Period Cost {#delete-a-period-cost}
 
-1. Right-click the Period Cost you wish to delete and select&nbsp;**Delete **from the pop-up menu to display the&nbsp;**Delete Cost **prompt.
+1. Right-click the Period Cost you wish to delete and select **Delete **from the pop-up menu to display the **Delete Cost **prompt.
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
-1. Click&nbsp;**Delete**&nbsp;to permanently delete the Period Cost, or **Cancel** to go back.
+1. Click **Delete** to permanently delete the Period Cost, or **Cancel** to go back.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)
 

@@ -6,7 +6,7 @@ title: Delete Entries Directly In the Marketing Calendar
 
 # Delete Entries Directly In the Marketing Calendar {#delete-entries-directly-in-the-marketing-calendar}
 
-In addition to&nbsp; [creating](create-entries-directly-in-the-marketing-calendar.md)&nbsp;and&nbsp; [editing](edit-entries-directly-in-the-marketing-calendar.md)&nbsp;entries, you can delete them directly in the Marketing Calendar. Here's how.
+In addition to  [creating](create-entries-directly-in-the-marketing-calendar.md) and  [editing](edit-entries-directly-in-the-marketing-calendar.md) entries, you can delete them directly in the Marketing Calendar. Here's how.
 
 1. Go to the **Calendar**.
 

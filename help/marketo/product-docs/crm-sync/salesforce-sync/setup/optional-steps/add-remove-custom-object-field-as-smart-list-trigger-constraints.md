@@ -12,7 +12,7 @@ Marketo provides fine-grain control over the Salesforce custom object sync. This
 >
 >**Admin Permissions Required**
 
-1. Click&nbsp;**Admin.**
+1. Click **Admin.**
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 

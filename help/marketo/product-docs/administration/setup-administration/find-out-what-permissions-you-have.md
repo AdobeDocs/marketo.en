@@ -16,7 +16,7 @@ If you're wondering what permissions you have or don't have in Marketo, there's 
 
    ![](assets/image2014-9-8-17-3a45-3a13.png)
 
-1. &nbsp;You will see the permissions like so.
+1.  You will see the permissions like so.
 
    ![](assets/image2014-9-8-17-3a45-3a23.png)
 

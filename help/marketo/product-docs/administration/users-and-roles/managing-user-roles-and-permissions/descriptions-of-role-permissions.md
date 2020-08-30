@@ -30,20 +30,20 @@ When you [create or edit a role](../../../../product-docs/administration/users-a
 
 View and make changes to settings in the My Account section of Admin.
 
-* Access Audit Trail - Gives users access to both Asset Audit Trail and Admin Audit Trail&nbsp;
+* Access Audit Trail - Gives users access to both Asset Audit Trail and Admin Audit Trail 
 * Access Channels - Gives users access only to modify the Channel tag, not other custom tags
 * Access Communication Limit - Gives users access to enable a communication limit in Admin
 * Access CRM - Gives users access to the CRM, such as Salesforce or Microsoft Dynamics, in Admin
-* Access [Data.com](http://Data.com)&nbsp;- Gives users access to the Data.com flow action
+* Access [Data.com](http://Data.com) - Gives users access to the Data.com flow action
 * Access Email Admin - Gives users to Email Admin, to change default settings, such as unsubscribe and branding domains
-* Access Event Partners - Gives users access to LaunchPoint in Admin&nbsp;
+* Access Event Partners - Gives users access to LaunchPoint in Admin 
 * Access Field Management - Gives users access to Field Management in Admin
 * Access File Upload - Gives users the ability to upload images and files to the Design Studio  
-* Access Landing Pages -&nbsp;Gives users access to Landing Pages in Admin  
+* Access Landing Pages - Gives users access to Landing Pages in Admin  
 * Access Location - Gives users access to Location in Admin for setting default language, locale, time zone, and currency
 * Access Login History - Gives users access to User Login History in Audit Trail
 * Access Login Settings - Gives users access to Login Settings in Admin for Security, IP Restrictions, and Smart List Report settings
-* Access Marketo Custom Activity - Gives users access to Marketo Custom Activities in Admin&nbsp;
+* Access Marketo Custom Activity - Gives users access to Marketo Custom Activities in Admin 
 * Access Marketo Custom Object - Gives users access to Marketo Custom Objects in Admin
 * Access Munchkin - GIves users access to Munchkin in Admin, for setting tracking code, person tracking, and enabling API configuration
 * Access Revenue Cycle Analytics - Gives users access to Revenue Cycle Analytics in Admin, for setting Sync Summary and Attribution
@@ -56,11 +56,11 @@ View and make changes to settings in the My Account section of Admin.
 * Access Treasure Chest - Gives users access to the experimental features in the Treasure Chest in Admin
 * Access Users - Gives users access to edit and manage users (but not roles) in Admin
 * Access Webhooks - Gives users to Webhooks in Admin, for setting details and Response Mappings
-* Access Workspaces and Partitions - Gives users access to create, edit, and delete Workspaces and Partitions in Admin&nbsp;
+* Access Workspaces and Partitions - Gives users access to create, edit, and delete Workspaces and Partitions in Admin 
 
 ## Access API  {#access-api}
 
-Gives users with the **API Only**&nbsp;**Role**&nbsp;access to the individual APIs listed below.
+Gives users with the **API Only** **Role** access to the individual APIs listed below.
 
 * Approve Assets
 * Execute Campaign  
@@ -89,15 +89,15 @@ Access Analytics
 
 Gives users access to the Analytics tabs, Email Insights, reports, and the three items below, unless they are unchecked.
 
-* Access Revenue Explorer - Unchecking removes user's access to Revenue Explorer&nbsp;
-* Delete Report - Unchecking removes user's ability to delete reports&nbsp;  
+* Access Revenue Explorer - Unchecking removes user's access to Revenue Explorer 
+* Delete Report - Unchecking removes user's ability to delete reports   
 * Export Analytics Data - Unchecking removes user's ability to export Analytics data
 
 ## Access Calendar Presentations {#access-calendar-presentations}
 
 Gives users access to Calendar presentations ??- enables display of the Presentations button at the bottom?
 
-* Edit Calendar Presentations&nbsp;- Enables users to edit presentations in Calendar
+* Edit Calendar Presentations - Enables users to edit presentations in Calendar
 
 ## Access Design Studio {#access-design-studio}
 

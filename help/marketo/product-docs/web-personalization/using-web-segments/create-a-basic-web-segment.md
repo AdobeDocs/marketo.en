@@ -8,11 +8,11 @@ title: Create a Basic Web Segment
 
 Let's create a basic segment targeting all web visitors from the U.S., and the financial services industry.
 
-1. Go to&nbsp;**Segments**.
+1. Go to **Segments**.
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. Click&nbsp;**Create New**.
+1. Click **Create New**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -24,7 +24,7 @@ Let's create a basic segment targeting all web visitors from the U.S., and the f
 
    ![](assets/location-drag-hand.jpg)
 
-1. Select a country to add from the drop-down.&nbsp;Select the **United States**.
+1. Select a country to add from the drop-down. Select the **United States**.
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
@@ -36,13 +36,13 @@ Let's create a basic segment targeting all web visitors from the U.S., and the f
 
    ![](assets/industries-hand.jpg)
 
-1. Select Industries to add from the drop-down. Select the&nbsp;**Financial Services&nbsp;****Industry**.
+1. Select Industries to add from the drop-down. Select the **Financial Services ****Industry**.
 
    ![](assets/segment-industries.png)
 
    You have now set up a basic segment for all prospects visiting your website from the USA and the Finance Industry.
 
-1. Click** Save **to save the segment or&nbsp;**Save & Define Campaign** to go to the Campaigns page.
+1. Click** Save **to save the segment or **Save & Define Campaign** to go to the Campaigns page.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

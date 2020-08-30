@@ -29,7 +29,7 @@ When [adding an A/B test](add-an-a-b-test.md) to your email program, you will ne
 
    >[!TIP]
    >
-   >If you pick&nbsp;Engagement Score&nbsp;the test will need to run for at least 24 hours. Learn more about&nbsp; [understanding the engagement score](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+   >If you pick Engagement Score the test will need to run for at least 24 hours. Learn more about  [understanding the engagement score](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
    You can also customize your criteria by selecting Custom Conversion and clicking Edit.
    ![](assets/image2014-9-12-15-3a51-3a53.png)
@@ -71,7 +71,7 @@ When [adding an A/B test](add-an-a-b-test.md) to your email program, you will ne
    >**Reminder**
    >
    >
-   >If you are doing a&nbsp;**Date/Time**&nbsp;A/B test, you can only choose&nbsp;**Manual**.
+   >If you are doing a **Date/Time** A/B test, you can only choose **Manual**.
 
    Once the A/B test is over, Marketo can automatically send the winning email at the scheduled time, or you can review the results and decide which email goes out when.  
 
@@ -81,7 +81,7 @@ When [adding an A/B test](add-an-a-b-test.md) to your email program, you will ne
 
    >[!TIP]
    >
-   >Choosing&nbsp;**Manual**&nbsp;will send the test out and wait for you to declare a winner. You will receive a report of the results.
+   >Choosing **Manual** will send the test out and wait for you to declare a winner. You will receive a report of the results.
 
    [schedule the A/B test](schedule-the-a-b-test.md)
 

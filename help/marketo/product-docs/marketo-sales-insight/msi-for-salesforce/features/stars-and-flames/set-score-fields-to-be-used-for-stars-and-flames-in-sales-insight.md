@@ -10,7 +10,7 @@ title: Set Score Fields to be used for Stars and Flames in Sales Insight
 >
 >**Admin Permissions Required**
 
-By default, Marketo Sales Insight uses the&nbsp;**Lead Score**&nbsp;field to calculate stars and flames. But if you want to pick a different field, here's how:
+By default, Marketo Sales Insight uses the **Lead Score** field to calculate stars and flames. But if you want to pick a different field, here's how:
 
 >[!TIP]
 >
@@ -24,15 +24,15 @@ By default, Marketo Sales Insight uses the&nbsp;**Lead Score**&nbsp;field to cal
 >* **Flames**: Flames represent the urgency - how much a lead's score has changed recently. 
 >
 
-1. Under&nbsp;**Admin**, click on&nbsp;**Sales Insight**.
+1. Under **Admin**, click on **Sales Insight**.
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. Under&nbsp;**Lead Scoring Settings**, click on&nbsp;**Edit**.
+1. Under **Lead Scoring Settings**, click on **Edit**.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
-1. Select the field you want to use for&nbsp;**Stars**.
+1. Select the field you want to use for **Stars**.
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
@@ -40,7 +40,7 @@ By default, Marketo Sales Insight uses the&nbsp;**Lead Score**&nbsp;field to cal
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-   Click&nbsp;Save.
+   Click Save.
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
    >[!NOTE]

@@ -38,7 +38,7 @@ A segmentation needs to be approved before it can used.
    >
    >Approval can take a few minutes to more than a day to complete, depending on the size of the database.
 
-   Once approved, the Status&nbsp;changes from Approving to Approved.
+   Once approved, the Status changes from Approving to Approved.
    ![](assets/image2017-3-28-14-3a46-3a44.png)
 
    >[!TIP]

@@ -8,7 +8,7 @@ title: SEO - Remove/Delete a Page Issue
 
 Not all page issues might be useful to you. Here is how to remove one:
 
-1. Go to the&nbsp;**Pages**&nbsp;section.
+1. Go to the **Pages** section.
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
@@ -20,7 +20,7 @@ Not all page issues might be useful to you. Here is how to remove one:
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. Clicking **DELETE**&nbsp;will permanently remove this page issue.
+1. Clicking **DELETE** will permanently remove this page issue.
 
    >[!CAUTION]
    >

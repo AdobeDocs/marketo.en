@@ -20,15 +20,15 @@ Qualification rules control how many times someone can run through the flow in a
 
    >[!TIP]
    >
-   >You can also click&nbsp;**Edit** to the right of "Smart Campaign Settings."
+   >You can also click **Edit** to the right of "Smart Campaign Settings."
 
-1. Choose how often to run your people through the smart campaign flow:&nbsp;**only once**,&nbsp;**every time**, or&nbsp;**once every # days**/**weeks**/**months**.
+1. Choose how often to run your people through the smart campaign flow: **only once**, **every time**, or **once every # days**/**weeks**/**months**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
 
    >[!NOTE]
    >
-   >When you set a rule for once every day, Marketo converts that to hours. For example, if you set the rule for once per day, and a person qualifies at 10pm on a Sunday night, it can't qualify again until 10pm Monday night. This logic also applies when using weeks or months. A month is always counted as 30 days.&nbsp;
+   >When you set a rule for once every day, Marketo converts that to hours. For example, if you set the rule for once per day, and a person qualifies at 10pm on a Sunday night, it can't qualify again until 10pm Monday night. This logic also applies when using weeks or months. A month is always counted as 30 days. 
 
    >[!NOTE]
    >

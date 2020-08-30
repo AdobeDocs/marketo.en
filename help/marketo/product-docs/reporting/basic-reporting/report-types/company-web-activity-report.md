@@ -14,7 +14,7 @@ See which companies are visiting your web site. You can choose to display known 
 >
 >Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
-Create a&nbsp; [Web Page Activity report](web-page-activity-report.md)&nbsp;to see the individual people who are visiting your site.
+Create a  [Web Page Activity report](web-page-activity-report.md) to see the individual people who are visiting your site.
 
 >[!NOTE]
 >
