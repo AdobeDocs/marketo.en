@@ -65,8 +65,8 @@ index: y
   + [My Token: Text](my-token-text.md)
   + [Override an Inherited My Token](override-an-inherited-my-token.md)
   + [Understanding My Tokens](understanding-my-tokens.md)
-+ Predictive Content {#predictive-content}
-  + [Getting Started with Predictive Content](getting-started-with-predictive-audiences.md)
++ Predictive Audiences {#predictive-audiences}
+  + [Getting Started with Predictive Audiences](getting-started-with-predictive-audiences.md)
   + [Predictive Filters](predictive-filters.md)
   + [Expected Behavior](expected-behavior.md)
   + [Model Health and Data Validity](model-health-and-data-validity.md)
