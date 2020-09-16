@@ -68,7 +68,7 @@ index: y
 + Predictive Content {#predictive-content}
   + [Getting Started with Predictive Content](getting-started-with-predictive-audiences.md)
   + [Predictive Filters](predictive-filters.md)
-  + [Expected Behaviors](expected-behaviors.md)
+  + [Expected Behavior](expected-behavior.md)
   + [Model Health and Data Validity](model-health-and-data-validity.md)
   + [Understanding Goal Tracking and Projected Registrations](understanding-goal-tracking-and-projected-registrations.md)
 + Programs {#programs}
