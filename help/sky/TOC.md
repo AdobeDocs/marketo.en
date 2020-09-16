@@ -65,6 +65,12 @@ index: y
   + [My Token: Text](my-token-text.md)
   + [Override an Inherited My Token](override-an-inherited-my-token.md)
   + [Understanding My Tokens](understanding-my-tokens.md)
++ Predictive Content {#predictive-content}
+  + [Getting Started with Predictive Content](getting-started-with-predictive-audiences.md)
+  + [Predictive Filters](predictive-filters.md)
+  + [Expected Behaviors](expected-behaviors.md)
+  + [Model Health and Data Validity](model-health-and-data-validity.md)
+  + [Understanding Goal Tracking and Projected Registrations](understanding-goal-tracking-and-projected-registrations.md)
 + Programs {#programs}
   + [Archive a Program](archive-a-program.md)
   + [Create a New Program](create-a-new-program.md)
