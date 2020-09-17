@@ -115,3 +115,4 @@ index: y
   + [Configuring the Tree](configuring-the-tree.md)
   + [Understanding Icons in the Tree](understanding-icons-in-the-tree.md)
   + [Use Filters to Sort the Tree](use-filters-to-sort-the-tree.md)
+  
