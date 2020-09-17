@@ -31,7 +31,8 @@ This filters the audience by whether they have a high or low likelihood of unsub
 
 [!NOTE]
 >
->The Likelihood to Attend/Register/Unsubscribe filters must be >used in conjunction with other standard filters.
+>
+>The Likelihood to Attend/Register/Unsubscribe filters must be used in conjunction with other standard filters.
 
 ## Lookalike of Program Members/Lookalike of Smart List Members
 

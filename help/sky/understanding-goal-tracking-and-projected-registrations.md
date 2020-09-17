@@ -9,10 +9,10 @@ description: Understanding Goal Tracking and Projected Registrations
 
 After [setting event goals](/help/sky/setting-event-goals.md) and sending out invites through a [smart campaign](/help/sky/create-a-smart-campaign.md), here's how to track your goal progress and understand Marketo's predictions.
 
-[!NOTE]
+>[!NOTE]
 >
 >When an event program is created in the Marketo Classic experience
->the event start date currently defaults to the event creation date. Since projected registrations take into account the amount of time before an event's start date, these numbers may not be accurate if the start date and creation date are the same (unless set intentionally).
+the event start date currently defaults to the event creation date. Since projected registrations take into account the amount of time before an event's start date, these numbers may not be accurate if the start date and creation date are the same (unless set intentionally).
 
 ## Goal Tracking and Projected Registrations
 
@@ -24,10 +24,9 @@ You'll also see your **Projected** registrations. Hover over the info icon to se
 
    ![Image Two](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
-[!NOTE]
+>[!NOTE]
 >
->The Attended and Higher chart will remain empty until the day of
->the event.
+>The Attended and Higher chart will remain empty until the day of the event.
 
 1. Click the **Chart** toggle to switch to a breakdown of your members by registration likelihood. You'll see current registration percentages for each segment, compared to the average percentage for that segment in your past programs.
 
@@ -37,8 +36,7 @@ All members (registered and not yet registered) are categorized based on their r
 
    ![Image Four](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-4.png)
 
-[!NOTE]
->
+>[!NOTE]
 >
 >Prediction numbers are updated every 24 hours until the day of the event. Any members who are listed as _Processing_ will be included in the next calculation cycle.
 
@@ -69,7 +67,6 @@ Click the **Members** tab to view all your program members. Hover over the **Re
 
    ![Image Seven](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
-[!NOTE]
+>[!NOTE]
 >
->Individual likelihood takes into account 40+ lead factors, >
->including profile attributes, lead activity, and past invited/registered/attended activities.
+>Individual likelihood takes into account 40+ lead factors, including profile attributes, lead activity, and past invited/registered/attended activities.
