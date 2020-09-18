@@ -29,8 +29,7 @@ This filters the audience by whether they have a high or low likelihood of unsub
 
    ![Image Four](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-4.png)
 
-[!NOTE]
->
+>[!NOTE]
 >
 >The Likelihood to Attend/Register/Unsubscribe filters must be used in conjunction with other standard filters.
 
