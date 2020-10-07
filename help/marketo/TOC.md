@@ -1,13 +1,16 @@
 ---
 cloud: experience-cloud
 product: marketo
-archtype: end-user
-user-guide-title: Marketo Product Documentation
+audience: end-user
+user-guide-title: Marketo Guide
+user-guide-description: Marketo product documentation
 ---
 
-# Table of Contents {#table-of-contents}
+# Marketo Guide {#using}
 
-+ [Getting Started](getting-started.md)
++ [Overview](home.md)
++ Getting Started {#getting-started}
+  + [Getting Started](getting-started.md)
   + [Help! I've Inherited an Existing Marketo Instance](getting-started/help-ive-inherited-an-existing-marketo-instance.md)
     + [Items to Check Off](getting-started/help-ive-inherited-an-existing-marketo-instance/items-to-check-off.md)
     + [Things to Review: Core Skills](getting-started/help-ive-inherited-an-existing-marketo-instance/things-to-review-core-skills.md)
