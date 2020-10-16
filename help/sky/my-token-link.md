@@ -30,9 +30,7 @@ Here's how to set up a Link token for use in your programs and campaign folders.
 
    >[!NOTE]
    >
-   >If Include mkt_tok is checked, Marketo displays a link
-   preview of the branded tracking domain (e.g., http://
-   mkto-sjqe3355.com/mn/...). If you clear this checkbox, the link is changed. If you turn off link tracking for emails or landing pages, >the URL will be shortened to its basic length (e.g., www.examplepage.com).
+   >If Include mkt_tok is checked, Marketo displays a link preview of the branded tracking domain (e.g., http://mkto-sjqe3355.com/mn/...). If you clear this checkbox, the link is changed. If you turn off link tracking for emails or landing pages, >the URL will be shortened to its basic length (e.g., www.examplepage.com).
 
 1. Optionally, under Advanced, you can customize your link using CSS. Click **Save**.
 

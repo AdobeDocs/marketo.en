@@ -35,5 +35,4 @@ You can create new email programs directly in the program schedule view.
 
 >[!NOTE]
 >
->You can create email programs within the program schedule view in Marketo Sky, but the actual program setup will be in
-Marketo Classic.
+>You can create email programs within the program schedule view in Marketo Sky, but the actual program setup will be in Marketo Classic.
