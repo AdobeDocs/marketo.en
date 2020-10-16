@@ -18,8 +18,8 @@ The score is based on a proprietary algorithm that takes into account engaged be
 >[!NOTE]
 >
 >When programs are used as content in streams, the engagement score is based on program membership and success status, not email interaction (clicks, opens, unsubscribes).
-Engagement scores are universal for all customers. You can
-compare them to see who has the most engaging content.
+>
+>Engagement scores are universal for all customers. You can compare them to see who has the most engaging content.
 
 >[!NOTE]
 >

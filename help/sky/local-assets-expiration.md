@@ -31,8 +31,7 @@ Set an expiration date/time to unpublish landing pages, deactivate trigger campa
 
 >[!NOTE]
 >
->Once an asset has expired, it will no longer show up on the
-Expiration grid. The grid will only display published landing pages, active trigger campaigns, and recurring batch campaigns.
+>Once an asset has expired, it will no longer show up on the Expiration grid. The grid will only display published landing pages, active trigger campaigns, and recurring batch campaigns.
 
 ## Remove an Expiration Date
 

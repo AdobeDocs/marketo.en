@@ -19,8 +19,7 @@ Smart lists are the mechanism throughout Marketo to define "who" (which people) 
 
    >[!NOTE]
    >
-   >A smart campaign with only filters runs in Batch mode. It finds people in the database that qualify based on the
-   filters and runs all of them through the flow at once.
+   >A smart campaign with only filters runs in Batch mode. It finds people in the database that qualify based on the filters and runs all of them through the flow at once.
 
    >[!IMPORTANT]
    >
@@ -32,8 +31,7 @@ Smart lists are the mechanism throughout Marketo to define "who" (which people) 
 
    >[!CAUTION]
    >
-   >Red lines indicate errors or missing information. If not
-   corrected, the campaign will be invalid and won't run.
+   >Red lines indicate errors or missing information. If not corrected, the campaign will be invalid and won't run.
 
 1. Enter the filter value.
 

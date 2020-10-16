@@ -23,11 +23,9 @@ Qualification rules control how many times someone can run through the flow in a
 
    >[!NOTE]
    >
-   >When you set a rule for once every day, Marketo converts
-   that to hours. For example, if you set the rule for once
-   per day, and a person qualifies at 10 p.m. on a Sunday
-   night, it can't qualify again until 10 p.m. Monday night.
-   This logic also applies when using weeks or months. A month is always counted as 30 days.
+   >When you set a rule for once every day, Marketo converts that to hours. For example, if you set the rule for once per day, and a person qualifies at 10 p.m. on a Sunday night, it can't qualify again until 10 p.m. Monday night.
+   >
+   >This logic also applies when using weeks or months. A month is always counted as 30 days.
 
 1. Click **Confirm** when done.
 

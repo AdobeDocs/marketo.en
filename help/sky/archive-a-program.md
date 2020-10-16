@@ -29,14 +29,13 @@ To archive a program, you'll need to move it to a separate archive folder.
 
 The folder icon will change to a file cabinet, as shown below. Any programs you've added to this folder will be archived.
 
-   ![Image Six](/help/sky/assets/programs/archive-a-program/archive-a-program-6.png)
+![Image Six](/help/sky/assets/programs/archive-a-program/archive-a-program-6.png)
 
 >[!NOTE]
 >
 >When you archive a program:
 >
->* Assets are no longer visible in search results. If you
-search for a program or event that’s inside an archived folder, the results return a collapsed view of the archived folder.
+>* Assets are no longer visible in search results. If you search for a program or event that’s inside an archived folder, the results return a collapsed view of the archived folder.
 >* Assets no longer appear in auto-suggest.
 >* Archived templates are not available when creating an email or landing page in Design Studio.
 >* Archived pages can’t be used in landing page test groups.
@@ -45,7 +44,5 @@ search for a program or event that’s inside an archived folder, the results re
 >
 >* Global search still finds results in archived folders.
 >* An asset that’s in use will continue to work even after it’s archived.
->* You can use a filter to select archived assets for use in
-reports.
->* Archived assets are not deactivated. They must also be
-deactivated if you want them to stop run.
+>* You can use a filter to select archived assets for use in reports.
+>* Archived assets are not deactivated. They must also be deactivated if you want them to stop run.

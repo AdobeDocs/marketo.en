@@ -11,8 +11,7 @@ After [setting event goals](/help/sky/setting-event-goals.md) and sending out i
 
 >[!NOTE]
 >
->When an event program is created in the Marketo Classic experience
-the event start date currently defaults to the event creation date. Since projected registrations take into account the amount of time before an event's start date, these numbers may not be accurate if the start date and creation date are the same (unless set intentionally).
+>When an event program is created in the Marketo Classic experience the event start date currently defaults to the event creation date. Since projected registrations take into account the amount of time before an event's start date, these numbers may not be accurate if the start date and creation date are the same (unless set intentionally).
 
 ## Goal Tracking and Projected Registrations
 

@@ -27,13 +27,11 @@ Make a smart campaign run on one person at a time based on live events by adding
 
    >[!CAUTION]
    >
-   >Red lines indicate errors or missing information. If not
-   corrected, the campaign will be invalid and won't run.
+   >Red lines indicate errors or missing information. If not corrected, the campaign will be invalid and won't run.
 
    >[!TIP]
    >
-   >In a smart campaign with both triggers and filters, the
-   triggers go at the top and when triggered, only people who satisfy the filter criteria go through the flow.
+   >In a smart campaign with both triggers and filters, the triggers go at the top and when triggered, only people who satisfy the filter criteria go through the flow.
 
 1. Define the trigger.
 

@@ -23,8 +23,7 @@ If you have an old smart campaign that you don't need anymore, you can delete it
 
    >[!TIP]
    >
-   >To cancel processing of an active smart campaign without
-   deleting it, learn how to [abort a smart campaign](https://docs.marketo.com/display/DOCS/Abort+a+Smart+Campaign).
+   >To cancel processing of an active smart campaign without deleting it, learn how to [abort a smart campaign](https://docs.marketo.com/display/DOCS/Abort+a+Smart+Campaign).
 
 1. Click **Confirm**.
 

@@ -25,8 +25,7 @@ If you have a recurring batch campaign that you don't want any more, you can can
 
 >[!CAUTION]
 >
->This cancels future runs, but if a smart campaign is in
-process of running, you cannot cancel it.
+>This cancels future runs, but if a smart campaign is in process of running, you cannot cancel it.
 
 ## Cancel a Single Run
 

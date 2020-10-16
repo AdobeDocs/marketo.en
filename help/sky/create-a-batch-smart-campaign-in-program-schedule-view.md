@@ -11,8 +11,7 @@ You can create new batch smart campaigns directly in the calendar.
 
 >[!NOTE]
 >
->Only batch smart campaigns can be created in the program
-schedule view. Trigger campaigns are not supported.
+>Only batch smart campaigns can be created in the program schedule view. Trigger campaigns are not supported.
 
 1. Select your program in the tree, then go to the **Schedule** tab under **Overview**.
 

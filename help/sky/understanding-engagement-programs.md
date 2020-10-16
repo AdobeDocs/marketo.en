@@ -53,8 +53,7 @@ A cast is the event of sending emails from an Engagement Program.
 
 >[!NOTE]
 >
->Engagement Programs are not designed to be used with
-operational emails.
+>Engagement Programs are not designed to be used with operational emails.
 
 ## Stream Cadence
 

@@ -31,10 +31,8 @@ Marketo allows you to set the maximum number of people that can qualify for a sm
 
 >[!NOTE]
 >
->The smart campaign will not run if the number of people who
-qualify exceed the set limit.
+>The smart campaign will not run if the number of people who qualify exceed the set limit.
 
 >[!CAUTION]
 >
->Be careful with this feature so that you don't accidentally
-include too many people.
+>Be careful with this feature so that you don't accidentally include too many people.

@@ -17,8 +17,7 @@ description: Edit an Entry in Program Schedule View
 
 >[!NOTE]
 >
->The names of basic entries cannot be changed once they have
-been created.
+>The names of basic entries cannot be changed once they have been created.
 
 >[!NOTE]
 >
