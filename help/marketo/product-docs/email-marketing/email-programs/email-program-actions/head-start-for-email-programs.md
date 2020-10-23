@@ -58,7 +58,7 @@ When you choose a date/time for an Email Program, it determines when the program
    >
    >If you unapprove your email program with less than 12 hours before its scheduled run time, but then change your mind, you'll need to pick a new date/time that's at least 12 hours ahead of when you approve it.
 
-   ## Head Start with Recipient Time Zone {#head-start-with-recipient-time-zone}
+## Head Start with Recipient Time Zone {#head-start-with-recipient-time-zone}
 
    Our existing Head Start feature requires the program to be scheduled at least 12 hours in advance. What does that mean for Recipient Time Zone? Recall that when Recipient Time Zone is active, we start running the email program at midnight in the earliest time zone (UTC +14:00). So, to enable **both** Head Start and Recipient Time Zone, programs need to be scheduled **at least 12 hours ahead of the earliest time zone (UTC +14:00**.)
 

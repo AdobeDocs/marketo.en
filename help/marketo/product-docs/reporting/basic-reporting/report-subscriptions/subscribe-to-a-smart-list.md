@@ -75,7 +75,7 @@ Subscriptions are workspace specific. For example, this list of subscriptions is
 
    That was easy, wasn't it?
 
-   ## Email Message {#email-message}
+## Email Message {#email-message}
 
    Recipients will receive an email with an option to download the report, as well as a link directly to the list within the Marketo instance. The download link expires in four days.
 

@@ -78,7 +78,7 @@ Now you're ready to link your event to Marketo.
    >
    >It can take up to 48 hours for the data to appear in Marketo. If after waiting that long you still don't see anything, select **Refresh from Webinar Provider** from the Event Actions menu in the **Summary** tab of your event.
 
-   ## Viewing the Schedule  {#viewing-the-schedule}
+## Viewing the Schedule  {#viewing-the-schedule}
 
    In the [program schedule view](http://docs.marketo.com/display/docs/program+schedule+view), click the calendar entry for your event. You can see the schedule on the right side of the screen!
 

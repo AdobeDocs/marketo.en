@@ -37,7 +37,7 @@ To uninstall MSI from your MS Dynamics instance, you'll need to perform steps in
 
    ![](assets/eight.png)
 
-   ## The following steps take place in your MS Dynamics instance: {#the-following-steps-take-place-in-your-ms-dynamics-instance}
+## The following steps take place in your MS Dynamics instance: {#the-following-steps-take-place-in-your-ms-dynamics-instance}
 
 1. Click **Advanced Settings**.
 1. Click **Solutions**.

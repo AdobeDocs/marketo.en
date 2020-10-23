@@ -40,7 +40,7 @@ You can keep tabs on the current throughput and backlog of the sync process on t
    >
    >When you're looking at the Last Hour view, the Inserts and Updates columns display N/A. This is expected behavior.
 
-   ## Sync Errors Tab {#sync-errors-tab}
+## Sync Errors Tab {#sync-errors-tab}
 
     Browse, search, or export leads (and other objects) that failed to synchronize with details such as operation, direction, error code and error message.
 

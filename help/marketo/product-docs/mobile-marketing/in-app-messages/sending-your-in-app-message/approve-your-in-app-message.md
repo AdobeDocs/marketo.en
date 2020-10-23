@@ -60,7 +60,7 @@ You need to approve the send before the in-app message goes out.
    >
    >When you stop a program, it no longer runs and can't be resumed. If you want to run it again, you'll have to rebuild it. So, make sure you're done with a program before you click **Stop Program**!
 
-   ## In-App Dashboard {#in-app-dashboard}
+## In-App Dashboard {#in-app-dashboard}
 
    After your program runs, you can monitor its performance with the In-App Dashboard, which appears automatically after you approve the program. To return to the program, click the link in the upper right and select **Control Panel**.
 

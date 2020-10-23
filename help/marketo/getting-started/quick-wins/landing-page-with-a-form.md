@@ -198,7 +198,7 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
    ![](assets/thirty-one.png)
 
-   ### Mission Complete! {#mission-complete}
+### Mission Complete! {#mission-complete}
 
 ---
 

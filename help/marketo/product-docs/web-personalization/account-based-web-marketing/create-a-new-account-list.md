@@ -70,7 +70,7 @@ Create and upload a list of organization and domain names to target these key ac
    >![](assets/image2015-2-25-12-3a19-3a10.png)   >
    >
 
-   ## Edit an Account List {#edit-an-account-list}
+## Edit an Account List {#edit-an-account-list}
 
    On the **Account Lists** page, click the **Edit **icon on the list.
 
@@ -82,7 +82,7 @@ Create and upload a list of organization and domain names to target these key ac
 
    The CSV file will replace the existing file. The existing list will remain active until the processing of the new file is complete.
 
-   ## Delete a Named Account List {#delete-a-named-account-list}
+## Delete a Named Account List {#delete-a-named-account-list}
 
 1. On the **Account Lists **page, click the **Delete **icon of the list you wish to delete.
 

@@ -12,7 +12,7 @@ By default, reports in Revenue Explorer display as a table. You also have the op
 
    ![](assets/one-1.png)
 
-   ## Graph Examples {#graph-examples}
+## Graph Examples {#graph-examples}
 
    **Column**: Each row and column in the table is displayed as a vertical column.
 

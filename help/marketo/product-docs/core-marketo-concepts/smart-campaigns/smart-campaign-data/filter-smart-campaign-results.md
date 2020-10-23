@@ -25,7 +25,7 @@ Filter smart campaign results to see specific activities that matter to you.
    >
    >By default, there are no filters applied and results show all activities.
 
-   ## Create a Custom Filter {#create-a-custom-filter}
+## Create a Custom Filter {#create-a-custom-filter}
 
 1. Click on **Filter** and then **Custom**.
 

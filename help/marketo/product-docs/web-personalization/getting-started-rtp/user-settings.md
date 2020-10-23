@@ -36,7 +36,7 @@ Change settings like time zone or Web Personalization email reports.
    >
    >Selecting your region will only display data and send email reports related to organizations and people from the defined region.
 
-   ## Select Email Reports {#select-email-reports}
+## Select Email Reports {#select-email-reports}
 
    Select which [email report](../../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) to associate to your user, and frequency (daily, weekly or quarterly) when the report will be sent.
 

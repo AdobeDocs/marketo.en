@@ -22,7 +22,7 @@ You can see a lot of information about your pages using the page detail drill do
 
    ![](assets/image2014-9-17-21-3a55-3a2.png)
 
-   ## Page Detail Section {#page-detail-section}
+## Page Detail Section {#page-detail-section}
 
    ![](assets/image2014-9-17-21-3a55-3a46.png)
 
@@ -37,7 +37,7 @@ You can see a lot of information about your pages using the page detail drill do
    | Facebook Likes |Number of times this page share was liked on Facebook. |
    | Facebook Clicks |Number of clicks from the Facebook share. |
 
-   ## Keyword(s) that Page is Optimized For  {#keyword-s-that-page-is-optimized-for}
+## Keyword(s) that Page is Optimized For  {#keyword-s-that-page-is-optimized-for}
 
    This is where you [select which keyword you are trying to optimize your page for](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
@@ -47,7 +47,7 @@ You can see a lot of information about your pages using the page detail drill do
 
    ![](assets/image2014-9-17-21-3a56-3a35.png)
 
-   ## Page Optimization Results {#page-optimization-results}
+## Page Optimization Results {#page-optimization-results}
 
    The Page Optimization Results will tell you the exact steps you need to take in order to increase your optimization score/perform better on search for this page. 
 

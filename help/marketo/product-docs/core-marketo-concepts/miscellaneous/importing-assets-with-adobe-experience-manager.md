@@ -56,7 +56,7 @@ The Asset Picker allows Marketo customers to access, select, and import AEM asse
 
    ![](assets/seven-1.png)
 
-   ## Things to Note {#things-to-note}
+## Things to Note {#things-to-note}
 
    Marketo currently supports Adobe Experience Manager versions 6.4 and 6.5.
 

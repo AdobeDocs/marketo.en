@@ -32,7 +32,7 @@ The global overlay in the program schedule view lets you see your program in rel
 
    ![](assets/image2014-9-24-10-3a16-3a19.png)
 
-   ## Use a Saved Filter as an Overlay {#use-a-saved-filter-as-an-overlay}
+## Use a Saved Filter as an Overlay {#use-a-saved-filter-as-an-overlay}
 
    If you've [saved a filter in the Marketing Calendar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), you can use it as an overlay in the program schedule view. 
 

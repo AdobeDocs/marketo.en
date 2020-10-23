@@ -27,7 +27,7 @@ Once you've set up your test type, you need to define the champion criteria. Her
 
 1. If you picked one of the default **Champion Criteria**, go ahead and move on to [Champion/Challenger: Configure Report Alerts](champion-challenger-configure-report-alerts.md)!
 
-   ## Custom Champion Criteria {#custom-champion-criteria}
+## Custom Champion Criteria {#custom-champion-criteria}
 
 1. If you want to get fancy, you can go custom by selecting **Custom Conversion** and clicking **Edit**.
 

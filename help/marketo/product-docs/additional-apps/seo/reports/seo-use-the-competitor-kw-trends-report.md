@@ -41,7 +41,7 @@ This graph can show you what percentage of your keywords are ranked in a specifi
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
-   ## Exporting Data  {#exporting-data}
+## Exporting Data  {#exporting-data}
 
    >[!TIP]
    >

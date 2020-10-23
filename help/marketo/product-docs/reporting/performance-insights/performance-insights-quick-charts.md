@@ -32,7 +32,7 @@ Quick Charts derive from data you specify. In this example, we'll choose: **new 
 
    ![](assets/5-3.png)
 
-   ###### Your Quick Chart is now with the others. {#your-quick-chart-is-now-with-the-others}
+###### Your Quick Chart is now with the others. {#your-quick-chart-is-now-with-the-others}
 
    ![](assets/6-3.png)
 

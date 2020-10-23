@@ -123,7 +123,7 @@ A web campaign is a customized reaction associated with a specific segment. The 
    >
    >Speed up and simplify your campaign creation process by using our [built in templates](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) or by [saving your existing campaign](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) as a template for reuse.
 
-   ## Edit a Web Campaign {#edit-a-web-campaign}
+## Edit a Web Campaign {#edit-a-web-campaign}
 
    From the **Web** **Campaigns** page, click **Edit** on the web campaign.
 
@@ -133,17 +133,17 @@ A web campaign is a customized reaction associated with a specific segment. The 
    >
    >To make it easier to find the web campaign you want, use the [filter feature](filter-web-campaigns.md).
 
-   ## Preview a Web Campaign {#preview-a-web-campaign}
+## Preview a Web Campaign {#preview-a-web-campaign}
 
    1. From the **Web Campaigns** page, click **Preview** on the web campaign you wish to view.
 
    ![](assets/image2016-11-4-11-3a8-3a58.png)
 
-   ## Clone a Web Campaign {#clone-a-web-campaign}
+## Clone a Web Campaign {#clone-a-web-campaign}
 
    See [Clone a Web Campaign](clone-a-web-campaign.md).
 
-   ## Delete a Web Campaign {#delete-a-web-campaign}
+## Delete a Web Campaign {#delete-a-web-campaign}
 
 1. From the **Web Campaigns** page, click **Delete **on the web campaign you wish to delete.
 

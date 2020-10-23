@@ -1,7 +1,7 @@
 ---
 unique-page-id: 37355534
 description: Release Notes -Jan '20 - Marketo Docs - Product Documentation
-title: Release Notes -Jan '20
+title: Release Notes: Jan '20
 ---
 
 # Release Notes: Jan '20 {#release-notes-jan}
@@ -29,22 +29,21 @@ The following features are included in the Jan '20 release. Check your Marketo e
 * **Email Template Dependencies API**: Get a list of assets that depend on an email template to understand scope of potential changes and address dependencies to templates can be altered and deleted faster.
 * **Multi-Instance Management Enhancements**: Navigate to the instance you need quickly with a scrollable and alphabetical dropdown menu of your subscriptions.
 
-**Account-Based Marketing ![(star)](assets/star-yellow.svg)
-
-**
+Account-Based Marketing ![(star)](assets/star-yellow.svg)
 
 * ** [New Account Discovery (BETA)](https://docs.marketo.com/x/WQA6Ag) ** ![(star)](assets/star-yellow.svg) : Use Account Profiling to discover net-new target accounts for your ABM strategy based on your AI-powered ideal customer profile model. View, select, and import recommended new accounts, along with their AI-based fit and intent data indicators, that do not already exist inside your Marketo Engage lead and account database for ABM targeting. Immediately available for qualifying Account Profiling customers.
 
 ---
+
+## New section
 
 **
 
 ***Releasing Throughout the Quarter***
 
 The following features are on a non-quarterly cycle and will be released throughout the coming months.
-**Bizible  ![(star)](assets/star-yellow.svg)
 
-**
+Bizible  ![(star)](assets/star-yellow.svg)
 
 * **Marketo Engage Leads Integration**: Bring Sales and Marketing together with a unified view of leads across Bizible and Marketo Engage. With this update, Marketo Engage can now be used as an additional lead data source, so you no longer have to wait for leads to sync with the CRM to report on lead generation.
 * **Discover Enhancements**: Get more from our Discover Boards in Bizible with enhancements developed from customer feedback, like the ability to drill down to transactional records from tiles and attributes, add essential record counts and corresponding cost-per metrics, and add/remove dashboard filters for multiple dashboards. You will also be taken directly to the default dashboard upon login.

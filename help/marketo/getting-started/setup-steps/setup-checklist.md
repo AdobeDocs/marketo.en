@@ -13,7 +13,7 @@ Welcome to Marketo! Feel free to use the following checklist as a visual to-do l
 1. Log-in to Marketo
 1. Create additional users
 
-   ## Set up an Authorized Support Contact {#set-up-an-authorized-support-contact}
+## Set up an Authorized Support Contact {#set-up-an-authorized-support-contact}
 
 1. Set up an authorized support contact
 1. Customize Landing Page URLs 
@@ -21,7 +21,7 @@ Welcome to Marketo! Feel free to use the following checklist as a visual to-do l
 1. Ask IT to create a DNS Record for your Landing Page CNAME
 1. When IT is done, set up your landing page domain name in Marketo
 
-   ## Ensure Email Deliverability {#ensure-email-deliverability}
+## Ensure Email Deliverability {#ensure-email-deliverability}
 
 1. Select an Email CNAME for branded tracking links
 1. Ask IT to set up a DNS record for your email CNAME 
@@ -30,15 +30,15 @@ Welcome to Marketo! Feel free to use the following checklist as a visual to-do l
 1. Set up MX for [FromDomain1]
 1. When IT is done with the email CNAME, setup your email CNAME in Marketo
 
-   ## Submit a URL for Landing Page and Email Templates {#submit-a-url-for-landing-page-and-email-templates}
+## Submit a URL for Landing Page and Email Templates {#submit-a-url-for-landing-page-and-email-templates}
 
 1. Fill out form to submit a URL for new templates
 
-   ## CRM Sync {#crm-sync}
+## CRM Sync {#crm-sync}
 
 1. Work with your CRM admin to sync all CRM contacts to Marketo
 
-   ## Add Tracking Code to your Website {#add-tracking-code-to-your-website}
+## Add Tracking Code to your Website {#add-tracking-code-to-your-website}
 
 1. Work with a web developer to add tracking code to your website
 

@@ -60,7 +60,7 @@ When [adding an A/B test](add-an-a-b-test.md) to your email program, you will ne
 
    Great! Now it's time to decide how the winner is determined.
 
-   ## Declare Winner {#declare-winner}
+## Declare Winner {#declare-winner}
 
 1. Pick one of the two available options.
 

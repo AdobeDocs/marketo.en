@@ -45,7 +45,7 @@ First create your Webinar in Level 3. If you need help, check out the [Level 3 R
 
    Most excellent! You've connected your event to Level 3!
 
-   ## Viewing the Schedule  {#viewing-the-schedule}
+## Viewing the Schedule  {#viewing-the-schedule}
 
    In the [program schedule view](http://docs.marketo.com/display/docs/program+schedule+view), click the calendar entry for your event. You can see the schedule on the right side of the screen!
 

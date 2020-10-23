@@ -30,9 +30,9 @@ You can organize your page issues into lists. You can also remove page issues fr
    >
    >You can also make a new list for your keyword to go. Just type your desired name in Create a new list. 
 
-   ## Remove Page Issue From a List {#remove-page-issue-from-a-list}
+## Remove Page Issue From a List {#remove-page-issue-from-a-list}
 
-   ##### Go to the Pages section.  {#go-to-the-pages-section}
+##### Go to the Pages section.  {#go-to-the-pages-section}
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 

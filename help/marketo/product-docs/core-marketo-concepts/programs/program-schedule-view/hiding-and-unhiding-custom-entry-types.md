@@ -20,7 +20,7 @@ Custom entry types can be hidden in the Admin section. Once hidden, the entry ty
 
    Awesome. This entry type will no longer be available for use.
 
-   ## Unhide a Custom Entry Type {#unhide-a-custom-entry-type}
+## Unhide a Custom Entry Type {#unhide-a-custom-entry-type}
 
    If you want to unhide a custom entry type, that's easy, too. 
 

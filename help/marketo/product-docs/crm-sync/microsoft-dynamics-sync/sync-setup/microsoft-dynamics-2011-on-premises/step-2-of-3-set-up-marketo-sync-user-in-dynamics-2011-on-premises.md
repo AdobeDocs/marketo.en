@@ -83,7 +83,7 @@ Almost done! We just have a few last pieces of configuration before moving onto 
 
    ![](assets/publish-all-customizations1.png)
 
-   ## Before Proceeding to Step 3 {#before-proceeding-to-step}
+## Before Proceeding to Step 3 {#before-proceeding-to-step}
 
     * If you want to restrict the number of records you sync, [set up a custom sync filter](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) now.
     * Run the [Validate Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) process. It verifies that your initial setups were done correctly.

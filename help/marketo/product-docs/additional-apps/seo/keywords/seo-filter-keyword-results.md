@@ -38,7 +38,7 @@ Sweet! You will now only be looking at keywords on that list.
 
    ![](assets/image2014-9-18-12-3a0-3a15.png)
 
-   ## Filter by Search {#filter-by-search}
+## Filter by Search {#filter-by-search}
 
    You can also find the keywords you are looking for using the search field in the upper right hand corner. 
 

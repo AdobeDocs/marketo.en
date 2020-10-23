@@ -18,7 +18,7 @@ Learn how to connect your BrightTALK channel to your Marketo instance. In order 
 1. Under Advanced Marketo Connector, click **Connect**.
 1. You will come to the credentials screen, asking for: Client ID, Client Secret, Identity Service URL, and Rest Service URL. To get this information, log-in to Marketo.
 
-   ## Steps in Marketo {#steps-in-marketo}
+## Steps in Marketo {#steps-in-marketo}
 
    >[!NOTE]
    >
@@ -66,7 +66,7 @@ Learn how to connect your BrightTALK channel to your Marketo instance. In order 
 
    ![](assets/ten.png)
 
-   ## Steps in BrightTALK {#steps-in-brighttalk-1}
+## Steps in BrightTALK {#steps-in-brighttalk-1}
 
 1. Return to the BrightTALK connector set-up screen from Step 3, and enter the credentials you saved from Steps 12 and 14.
 

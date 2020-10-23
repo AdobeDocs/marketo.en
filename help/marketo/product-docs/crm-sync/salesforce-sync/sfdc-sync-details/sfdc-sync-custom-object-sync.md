@@ -77,7 +77,7 @@ Custom Objects created in your Salesforce instance can be part of Marketo too.  
    >
    >Marketo only supports custom entities that are linked to standard entities one or two levels deep.
 
-   ### What's Next: {#whats-next}
+### What's Next: {#whats-next}
 
    [Add/Remove Custom Object Field as Smart List/Trigger Constraints](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
 

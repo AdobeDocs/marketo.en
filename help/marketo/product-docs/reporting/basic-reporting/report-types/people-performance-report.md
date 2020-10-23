@@ -24,7 +24,7 @@ Use a People Performance Report to measure database growth over time. You can se
 
    ![](assets/one.png)
 
-   ## The Power of People Performance Reports {#the-power-of-people-performance-reports}
+## The Power of People Performance Reports {#the-power-of-people-performance-reports}
 
    People Performance reports are very powerful. By further grouping, filtering, and configuring them, you can learn a lot about the people in your Database, and about the effectiveness of your programs. 
    You can:

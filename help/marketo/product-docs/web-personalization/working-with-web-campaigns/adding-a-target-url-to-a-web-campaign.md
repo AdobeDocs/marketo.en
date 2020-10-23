@@ -41,7 +41,7 @@ A Target URL is located under the Set Campaign page and defines the specific URL
  </tbody> 
 </table>
 
-   ## Adding Multiple URLs to Target URL {#adding-multiple-urls-to-target-url}
+## Adding Multiple URLs to Target URL {#adding-multiple-urls-to-target-url}
 
    Clicking on the plus icon ( ![--](assets/image2015-2-18-8-3a40-3a59.png)) will open the Multiple Value Entry dialog to add multiple URLs. Add one URL per line.
 

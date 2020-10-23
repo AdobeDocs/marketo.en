@@ -42,7 +42,7 @@ Marketo automatically de-duplicates when new people enter the system. However, y
    >
    >You can also [Find Duplicate People with Custom Logic](find-duplicate-people-with-custom-logic.md).
 
-   ## Merge People Manually {#merge-people-manually}
+## Merge People Manually {#merge-people-manually}
 
    >[!CAUTION]
    >
@@ -67,7 +67,7 @@ Marketo automatically de-duplicates when new people enter the system. However, y
    >
    >Merging is better than deleting. You'll conserve all history (page visits, link clicks, email opens, form fills, etc.).
 
-   ## Effect in Salesforce {#effect-in-salesforce}
+## Effect in Salesforce {#effect-in-salesforce}
 
    If you have Salesforce integration, there are a few notes about the effect of Merge Leads in Salesforce.
 
@@ -79,7 +79,7 @@ Marketo automatically de-duplicates when new people enter the system. However, y
     * [Merging Duplicate Leads](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US)
     * [Merging Duplicate Contacts](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US)
 
-   ## Bulk Merging {#bulk-merging}
+## Bulk Merging {#bulk-merging}
 
    If you have too many duplicates to manually merge, contact your Customer Success Manager to discuss your options.
 

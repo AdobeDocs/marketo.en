@@ -30,7 +30,7 @@ Oops! How did those people get in there? You can remove members from an engageme
 
    Groovy. All the members you've defined in the [smart list](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) will no longer be in this engagement program.
 
-   ## Pause People  {#pause-people}
+## Pause People  {#pause-people}
 
    Sometimes you just want to pause people in an engagement program and not remove them. This is done with the **Change Engagement Program Cadence**.
 

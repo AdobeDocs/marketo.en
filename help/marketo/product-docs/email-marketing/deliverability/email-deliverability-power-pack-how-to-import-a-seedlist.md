@@ -48,7 +48,7 @@ A seed list is a list of email accounts at multiple mailbox providers, including
    >
    >You get a limited amount of these Inbox Informant Campaigns per month. To see how many you get, look in your 250ok **Account Settings**. To obtain more, please contact your Marketo Sales Rep.
 
-   ## Acquiring New Seedlists {#acquiring-new-seedlists}
+## Acquiring New Seedlists {#acquiring-new-seedlists}
 
    Your seedlist can change as often as every month. It's important to log in to the Email Deliverabilty Power Pack regularly and check the status of your seed list. When new addresses are added or an update is required on your end, you will be alerted through the interface on the Get Seedlist page.
 

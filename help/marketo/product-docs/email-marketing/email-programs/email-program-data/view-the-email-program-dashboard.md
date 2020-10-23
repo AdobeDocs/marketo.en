@@ -22,13 +22,13 @@ Check out how your email program (with or without an A/B test) is performing wit
    >
    >If your A/B test or email program has not started yet, you will not see a dashboard.
 
-   ## Email Program A/B Test View {#email-program-a-b-test-view}
+## Email Program A/B Test View {#email-program-a-b-test-view}
 
    If you added an A/B test to your email program and the test is currently running, you will see the following:
 
    ![](assets/image2014-9-12-14-3a2-3a25.png)
 
-   ## Email Program View {#email-program-view}
+## Email Program View {#email-program-view}
 
    Alternatively, if you did not add an A/B test *or* if the test is over, the following should be displayed:
 

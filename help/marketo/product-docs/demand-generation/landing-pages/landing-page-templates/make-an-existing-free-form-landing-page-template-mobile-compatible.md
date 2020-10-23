@@ -46,7 +46,7 @@ This can be done in two places, the Template Editor and the Landing Page Editor.
 
    ![](assets/image2015-1-22-20-3a36-3a43.png)
 
-   ## What Makes a Template Mobile Compatible? {#what-makes-a-template-mobile-compatible}
+## What Makes a Template Mobile Compatible? {#what-makes-a-template-mobile-compatible}
 
    Great questions! Your template must have have the following tags:
 

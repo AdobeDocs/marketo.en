@@ -6,7 +6,7 @@ title: Personalize an Email
 
 # Personalize an Email {#personalize-an-email}
 
-### Mission: Make your emails personal by adding data tokens {#mission-make-your-emails-personal-by-adding-data-tokens}
+## Mission: Make your emails personal by adding data tokens {#mission-make-your-emails-personal-by-adding-data-tokens}
 
 >[!NOTE]
 >
@@ -21,7 +21,6 @@ title: Personalize an Email
 >* [Get Set Up and Add a Person](get-set-up-and-add-a-person.md)
 >* [Send an Email Blast](send-an-email.md)
 >* [Drip, Drip, Nurture](drip-drip-nurture.md)
->
 
 ## Step 1: Select an Email to Personalize {#step-select-an-email-to-personalize}
 
@@ -31,7 +30,6 @@ title: Personalize an Email
 
    >[!NOTE]
    >
-   >
    >This creates a copy of the email as a draft. You must approve the draft for the changes to go live.
 
    **Edit Draft**
@@ -40,15 +38,15 @@ If you haven't enabled a pop-up blocker, the email editor will open in a new tab
 
 ## Step 2: Make the Salesperson the Sender {#step-make-the-salesperson-the-sender}
 
-1. Select the **From **field, highlight and **delete** the current name.
+1. Select the **From** field, highlight and **delete** the current name.
 
    ![](assets/two-5.png)
 
-1. Click the **Token** icon to the right of the **From **field.
+1. Click the **Token** icon to the right of the **From** field.
 
    ![](assets/three-4.png)
 
-1. Find and select the **{{****lead.Lead Owner First Name}} **token.
+1. Find and select the **`{{lead.Lead Owner First Name}}`** token.
 
    ![](assets/four-3.png)
 
@@ -56,11 +54,11 @@ If you haven't enabled a pop-up blocker, the email editor will open in a new tab
 
    ![](assets/five-4.png)
 
-1. Hit the space bar in the **From **field, making sure the cursor is flashing one space after the token you just inserted. Then click the **Token** icon again.
+1. Hit the space bar in the **From** field, making sure the cursor is flashing one space after the token you just inserted. Then click the **Token** icon again.
 
    ![](assets/six-4.png)
 
-1. Find and select the **{{****lead.Lead Owner Last Name}} **token.
+1. Find and select the **`{{lead.Lead Owner Last Name}}`** token.
 
    ![](assets/seven-5.png)
 
@@ -110,8 +108,7 @@ If you haven't enabled a pop-up blocker, the email editor will open in a new tab
 
 `<iframe width="630" height="470" src="//play.vidyard.com/iRnqxMyJg6VKyuPeuxmHFb.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` 
 
-###   
-Mission Complete {#mission-complete}
+### Mission Complete {#mission-complete}
 
 Congratulations, you've personalized your email!
 

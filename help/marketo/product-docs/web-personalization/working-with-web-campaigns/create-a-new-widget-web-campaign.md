@@ -90,7 +90,7 @@ A web campaign is a customized reaction associated with a specific segment and c
    >
    >**Want to A/B test your web campaigns?** One or more web campaigns can be [A/B tested for optimal results](ab-test-your-web-campaign.md). With the Auto-Tune feature, the platform automatically recognizes the better performing campaigns, continues with the highest converting campaigns and pauses the other ones.
 
-   ## Edit a Web Campaign {#edit-a-web-campaign}
+## Edit a Web Campaign {#edit-a-web-campaign}
 
    From the Web Campaigns page, click **Edit** on the Campaign.
 
@@ -100,17 +100,17 @@ A web campaign is a customized reaction associated with a specific segment and c
    >
    >To make it easier to find the campaign you want, use the [filter feature](filter-web-campaigns.md).
 
-   ## Clone a Web Campaign {#clone-a-web-campaign}
+## Clone a Web Campaign {#clone-a-web-campaign}
 
    See [Clone a Web Campaign](clone-a-web-campaign.md).
 
-   ## Preview a Web Campaign {#preview-a-web-campaign}
+## Preview a Web Campaign {#preview-a-web-campaign}
 
    From the Web Campaigns page, click **Preview** on the web campaign you wish to preview
 
    ![](assets/widget-campaign-preview-hand.png)
 
-   ## Delete a Web Campaign {#delete-a-web-campaign}
+## Delete a Web Campaign {#delete-a-web-campaign}
 
 1. From the Web Campaigns page, click **Delete **on the web campaign you wish to delete.
 

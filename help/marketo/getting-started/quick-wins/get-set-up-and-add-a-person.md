@@ -20,7 +20,7 @@ There are a few things to do before you begin the missions.
 
    ![](assets/one.png)
 
-   ## Step 2: Create a Learning Folder {#step-create-a-learning-folder}
+## Step 2: Create a Learning Folder {#step-create-a-learning-folder}
 
    Let's create a folder to hold everything you'll make in the missions. 
 
@@ -40,7 +40,7 @@ There are a few things to do before you begin the missions.
 
    ![](assets/image2014-9-24-10-3a54-3a9.png)
 
-   ## Step 3: Add Yourself as a Person {#step-add-yourself-as-a-person}
+## Step 3: Add Yourself as a Person {#step-add-yourself-as-a-person}
 
    Add yourself as a person in Marketo so you can send out test emails to yourself later. 
 

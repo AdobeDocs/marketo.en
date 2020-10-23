@@ -110,7 +110,7 @@ Here's how to create a link field in an intermediary object for use in a many-to
 
 1. Create any other fields that you want to use in your intermediary object, such as enrollmentID or grade.
 
-   ## Using Custom Objects {#using-custom-objects}
+## Using Custom Objects {#using-custom-objects}
 
    The next step is to use these custom objects in filters in your smart campaigns. With a many-to-many relationship, you can select multiple people/companies and multiple custom objects. In the example below, anyone in your database who matches these criteria will be listed. The coursename field comes from the course custom object and the enrollment grade comes from the intermediate object.
 
