@@ -1,24 +1,21 @@
 ---
-Title: priority-override-for-trigger-campaigns
-Description: Priority Override for Trigger Campaigns
+title: priority-override-for-trigger-campaigns
+description: Priority Override for Trigger Campaigns
 ---
 
 # Priority Override for Trigger Campaigns
+
+<br>&nbsp;
 
 Admins can override Marketo's determined priority for trigger campaigns to set priorities that better align with business objectives.
 
 >[!NOTE]
 >
->This feature is only available for trigger campaigns and to
->users who have been granted the “Edit Trigger Campaign
->Priority” permission.
+>This feature is only available for trigger campaigns and to users who have been granted the “Edit Trigger Campaign Priority” permission.
 
 >[!CAUTION]
 >
->It is strongly advised that you use this feature on a limited
->set of business critical campaigns (25 is the recommended
->maximum). Using the feature loosely on a large set can
->adversely affect overall campaign execution.
+>It is strongly advised that you use this feature on a limited set of business critical campaigns (25 is the recommended maximum). Using the feature loosely on a large set can adversely affect overall campaign execution.
 
 ## Override Priority
 
@@ -34,14 +31,8 @@ Admins can override Marketo's determined priority for trigger campaigns to set p
 
 >[!NOTE]
 >
->* You can view your campaign's default priority in the
->Campaign Queue under Marketing Activities. To boost execution
->rate, we recommend setting your campaign priority to one
->level higher than its default.
-
->* User set priority applies only to new people who qualify for
->the campaign; people who are already in-queue will not be
->affected.
+>* You can view your campaign's default priority in the Campaign Queue under Marketing Activities. To boost execution rate, we recommend setting your campaign priority to one level higher than its default.
+>* User set priority applies only to new people who qualify for the campaign; people who are already in-queue will not be affected.
 
 ## Reset Priority
 
@@ -55,16 +46,13 @@ Admins can override Marketo's determined priority for trigger campaigns to set p
 
 >[!NOTE]
 >
->Priority overrides and resets are captured in Audit Trail. You
->can view the [Audit Trail](https://docs.marketo.com/x/GZ2t)
->through the Admin area in the classic experience.
+>Priority overrides and resets are captured in Audit Trail. You can view the [Audit Trail](https://docs.marketo.com/x/GZ2t) through the Admin area in the classic experience.
 
 ## Grant Priority Override Access
 
 >[!CAUTION]
 >
->Only Admins or users with admin responsibilities should have
->campaign priority override access.
+>Only Admins or users with admin responsibilities should have campaign priority override access.
 
 1. In the Admin area, click **Users & Roles**.
 
@@ -86,6 +74,4 @@ You can view campaign priority in the classic experience by clicking the **Sched
 
 >[!NOTE]
 >
->The priority in the classic experience is view-only. Changing
->or resetting campaign priority is only available through
->Marketo Sky.
+>The priority in the classic experience is view-only. Changing or resetting campaign priority is only available through Marketo Sky.

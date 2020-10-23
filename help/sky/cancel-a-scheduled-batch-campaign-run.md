@@ -1,9 +1,11 @@
 ---
-Title: cancel-a-scheduled-batch-campaign-run
-Description: Cancel a Scheduled Batch Campaign Run
+title: cancel-a-scheduled-batch-campaign-run
+description: Cancel a Scheduled Batch Campaign Run
 ---
 
 # Cancel a Scheduled Batch Campaign Run
+
+<br>&nbsp;
 
 If you've scheduled a run for one of your batch campaigns and would like to cancel it, here's how.
 
@@ -21,5 +23,4 @@ If you've scheduled a run for one of your batch campaigns and would like to canc
 
 >[!NOTE]
 >
->Doing this will not help if the run has already started. Use
->this when you decide a future run needs to be canceled.
+>Doing this will not help if the run has already started. Use this when you decide a future run needs to be canceled.

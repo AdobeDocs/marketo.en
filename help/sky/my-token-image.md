@@ -1,9 +1,11 @@
 ---
-Title: my-token-image
-Description: My Token Image
+title: my-token-image
+description: My Token Image
 ---
 
 # My Token: Image
+
+<br>&nbsp;
 
 Here's how to set up an Image token for use in your programs and campaign folders.
 

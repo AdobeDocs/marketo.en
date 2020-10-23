@@ -1,9 +1,11 @@
 ---
-Title: create-a-smart-campaign
-Description: Create a Smart Campaign
+title: create-a-smart-campaign
+description: Create a Smart Campaign
 ---
 
 # Create a Smart Campaign
+
+<br>&nbsp;
 
 Smart campaigns are the most important tool in Marketo. They can trigger on one person and perform actions, or rollup millions of people and run a series of flow steps.
 

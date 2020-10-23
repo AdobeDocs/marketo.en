@@ -1,6 +1,6 @@
 ---
-Title: marketo-sky-features
-Description: Marketo Sky Features
+title: marketo-sky-features
+description: Marketo Sky Features
 ---
 
 # Marketo Sky Features

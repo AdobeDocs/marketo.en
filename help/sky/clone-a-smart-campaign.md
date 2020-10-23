@@ -1,9 +1,11 @@
 ---
-Title: clone-a-smart-campaign
-Description: Clone a Smart Campaign
+title: clone-a-smart-campaign
+description: Clone a Smart Campaign
 ---
 
 # Clone a Smart Campaign
+
+<br>&nbsp;
 
 Cloning campaigns saves you time. No need to build everything from scratch, since cloning creates an identical campaign with the exact same smart list filters and flow steps.
 

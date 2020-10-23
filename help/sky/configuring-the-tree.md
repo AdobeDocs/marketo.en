@@ -1,9 +1,11 @@
 ---
-Title: configuring-the-tree
-Description: Configuring the Tree
+title: configuring-the-tree
+description: Configuring the Tree
 ---
 
 # Configuring the Tree
+
+<br>&nbsp;
 
 Here's a quick look at the configuration options available for the tree in Marketo.
 

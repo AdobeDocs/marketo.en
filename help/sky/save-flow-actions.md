@@ -1,9 +1,11 @@
 ---
-Title: save-flow-actions
-Description: Save Flow Actions
+title: save-flow-actions
+description: Save Flow Actions
 ---
 
 # Save Flow Actions
+
+<br>&nbsp;
 
 Flow steps tell Marketo what you want to have happen to a group of people that qualify (the people you chose in the smart list). Saving a specific flow will save time.
 
@@ -57,5 +59,4 @@ And you're done. Next time you create a smart campaign, you'll have access to th
 
 >[!CAUTION]
 >
->Bringing over a saved flow will not replace any existing flow
->actions, but add to them.
+>Bringing over a saved flow will not replace any existing flow actions, but add to them.

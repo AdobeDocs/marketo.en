@@ -1,9 +1,11 @@
 ---
-Title: create-a-basic-entry-in-program-schedule-view
-Description: Create a Basic Entry in Program Schedule View
+title: create-a-basic-entry-in-program-schedule-view
+description: Create a Basic Entry in Program Schedule View
 ---
 
 # Create a Basic Entry in Program Schedule View
+
+<br>&nbsp;
 
 You can create new basic entries directly from the program schedule view.  
 
@@ -17,8 +19,7 @@ You can create new basic entries directly from the program schedule view.
 
    >[!NOTE]
    >
-   >You can also follow similar steps to create a basic entry
-   >from the Day, Week, or Agenda views.
+   >You can also follow similar steps to create a basic entry from the Day, Week, or Agenda views.
 
 1. Enter a name for your new basic entry, then change **Type** to Basic Entry if needed. You can also modify the **Start & End Date**, and uncheck **Open In Agenda View** if you want to stay in the calendar after creating the entry. Click **Save**.
 

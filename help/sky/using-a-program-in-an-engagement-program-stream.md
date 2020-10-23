@@ -1,6 +1,6 @@
 ---
-Title: using-a-program-in-an-engagement-program-stream
-Description: Using a Program in an Engagement Program Stream
+title: using-a-program-in-an-engagement-program-stream
+description: Using a Program in an Engagement Program Stream
 ---
 
 # Using a Program in an Engagement Program Stream
@@ -29,8 +29,7 @@ It can get tricky mixing emails and programs in an engagement program. You might
 
 >[!TIP]
 >
->Be sure to use a Member of Engagement Program filter in your
->smart list.
+>Be sure to use a Member of Engagement Program filter in your smart list.
 
 ## What happens to people who don't meet the smart list criteria?
 
@@ -46,5 +45,4 @@ Reporting changes with email location. So, for example, if the email is in the D
 
 >[!CAUTION]
 >
->If you want to resend something, it's safest to create a new
->program and smart campaign.
+>If you want to resend something, it's safest to create a new program and smart campaign.

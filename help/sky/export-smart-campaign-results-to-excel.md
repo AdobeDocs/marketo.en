@@ -1,9 +1,11 @@
 ---
-Title: export-smart-campaign-results-to-excel
-Description: Export Smart Campaign Results to Excel
+title: export-smart-campaign-results-to-excel
+description: Export Smart Campaign Results to Excel
 ---
 
 # Export Smart Campaign Results to Excel
+
+<br>&nbsp;
 
 Export your smart campaign results to Excel for use outside of Marketo.
 
@@ -17,5 +19,4 @@ Export your smart campaign results to Excel for use outside of Marketo.
 
 >[!NOTE]
 >
->The export is limited to 20,000 rows. The Excel file is saved
->in your browser's default downloads folder.
+>The export is limited to 20,000 rows. The Excel file is saved in your browser's default downloads folder.

@@ -1,17 +1,19 @@
 ---
-Title: how-to-enable-roles-for-marketo-sky.md
-Description: How to Enable Roles for Marketo Sky 
+title: how-to-enable-roles-for-marketo-sky.md
+description: How to Enable Roles for Marketo Sky 
 ---
 
 # How to Enable Roles for Marketo Sky
 
+<br>&nbsp;
+
 Marketo Admins can enable roles for Sky in the Admin area of Marketo Classic.
 
-1. In Marketo Classic, click Admin.
+1. In Marketo Classic, click **Admin**.
 
    ![Image One](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-1.png)
 
-1. In the tree, select Marketo Sky.
+1. In the tree, select **Marketo Sky**.
 
    ![Image Two](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-2.png)
 

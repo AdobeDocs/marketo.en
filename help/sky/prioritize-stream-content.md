@@ -1,9 +1,11 @@
 ---
-Title: prioritize-stream-content
-Description: Prioritize Stream Content
+title: prioritize-stream-content
+description: Prioritize Stream Content
 ---
 
 # Prioritize Stream Content
+
+<br>&nbsp;
 
 After you've added content to your stream, you may want to change the priority. The content is always delivered from the top down in each cast, and no content is sent to the same person twice.
 

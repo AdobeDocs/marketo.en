@@ -1,9 +1,11 @@
 ---
-Title: understanding-batch-and-trigger-smart-campaigns
-Description: Understanding Batch and Trigger Smart Campaigns
+title: understanding-batch-and-trigger-smart-campaigns
+description: Understanding Batch and Trigger Smart Campaigns
 ---
 
 # Understanding Batch and Trigger Smart Campaigns
+
+<br>&nbsp;
 
 There are two types of smart campaigns: Batch and Trigger.
 
@@ -23,8 +25,7 @@ Clicking the **Schedule** tab will confirm that the smart campaign is set to "Ba
 
 * Can be scheduled for recurrences, such as daily, weekly, and monthly. You can also have them run just once.
 * Are visible on the [program schedule view](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View).
-
-`Anything after a "Wait" step within the smart campaign will not be included on the view.`
+* Anything after a "Wait" step within the smart campaign will not be included on the view.
 
 ## Trigger Smart Campaign
 
@@ -45,6 +46,4 @@ Clicking the **Schedule** tab will confirm that the smart campaign is set to "Tr
 
 >[!TIP]
 >
->Use the [activity log](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) to see what occurred
->step-by-step within your smart campaigns. You can find the
->activity log in the last tab of a person's detail page.
+>Use the [activity log](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) to see what occurred step-by-step within your smart campaigns. You can find the activity log in the last tab of a person's detail page.

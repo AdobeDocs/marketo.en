@@ -1,6 +1,6 @@
 ---
-Title: add-people-to-an-engagement-program
-Description: Add People to an Engagement Program
+title: add-people-to-an-engagement-program
+description: Add People to an Engagement Program
 ---
 
 # Add People to an Engagement Program

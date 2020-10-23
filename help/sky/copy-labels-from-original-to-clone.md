@@ -1,9 +1,11 @@
 ---
-Title: copy-labels-from-original-to-clone
-Description: Copy Labels from Original to Clone
+title: copy-labels-from-original-to-clone
+description: Copy Labels from Original to Clone
 ---
 
 # Copy Labels from Original to Clone
+
+<br>&nbsp;
 
 When you clone an asset, you can copy all the labels from the original asset. Here's how.
 
@@ -21,6 +23,4 @@ When you clone an asset, you can copy all the labels from the original asset. He
 
 >[!NOTE]
 >
->This is the only place you can copy original labels to a clone
->asset. Once the clone asset has been created, you will only be
->able to [copy labels from the parent asset](/help/sky/copy-labels-from-parent-to-child.md).
+>This is the only place you can copy original labels to a clone asset. Once the clone asset has been created, you will only be able to [copy labels from the parent asset](/help/sky/copy-labels-from-parent-to-child.md).

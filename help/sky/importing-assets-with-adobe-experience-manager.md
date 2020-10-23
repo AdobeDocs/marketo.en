@@ -1,17 +1,19 @@
 ---
-Title: importing-assets-with-adobe-experience-manager
-Description: Importing Assets with Adobe Experience Manager
+title: importing-assets-with-adobe-experience-manager
+description: Importing Assets with Adobe Experience Manager
 ---
 
 # Importing Assets with Adobe Experience Manager
 
+<br>&nbsp;
+
 The Asset Picker allows Marketo customers to access, select, and import AEM assets into Marketo's Design Studio. You must be an Admin to perform these steps.
 
-Availability
-Adobe Experience Manager (AEM) is an independent product and must be purchased separately. Please contact your Customer Success Manager to learn more.
+>[!NOTE]
+>Adobe Experience Manager (AEM) is an independent product and must be purchased separately. Please contact your Customer Success Manager to learn more.
 
-Prerequisites
-Make sure you've already performed the AEM Configuration in Marketo Classic.
+>[!IMPORTANT]
+>Make sure you've already performed the [AEM Configuration](https://docs.marketo.com/x/FwPLAQ) in Marketo Classic.
 
    >[!CAUTION]
    >
@@ -54,4 +56,3 @@ And that's it! Click **Close** to return to Images and Files.
 * Marketo currently supports Adobe Experience Manager versions 6.4 and 6.5.
 * All users in your instance will be able to view/access the images you import.
 * Images are not automatically updated. If an image you imported into the Marketo Design Studio is updated in AEM, you must manually re-import it into Marketo.
-

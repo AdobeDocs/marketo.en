@@ -1,6 +1,6 @@
 ---
-Title: archive-unarchive-a-campaign-folder
-Description: Archive/Unarchive a Campaign Folder 
+title: archive-unarchive-a-campaign-folder
+description: Archive/Unarchive a Campaign Folder 
 ---
 
 # Archive/Unarchive a Campaign Folder
