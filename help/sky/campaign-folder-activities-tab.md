@@ -1,6 +1,6 @@
 ---
-Title: campaign-folder-activities-tab
-Description: Campaign Folder Activities Tab 
+title: campaign-folder-activities-tab
+description: Campaign Folder Activities Tab 
 ---
 
 # Campaign Folder: Activities Tab

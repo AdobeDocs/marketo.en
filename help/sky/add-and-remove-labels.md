@@ -1,6 +1,6 @@
 ---
-Title: add-and-remove-labels
-Description: Add and Remove Labels
+title: add-and-remove-labels
+description: Add and Remove Labels
 ---
 
 # Add and Remove Labels
@@ -10,6 +10,7 @@ You can assign labels to any asset in Marketing Activities, making organizing an
 ## Add Labels
 
 To add new labels to an asset, navigate to the asset's Details page under the Overview tab.
+<br>&nbsp;
 
 Under the Labels section, click **Add New Labels**.
 
@@ -25,8 +26,7 @@ If you're adding a label that's already been created elsewhere, type to search f
 
 >[!NOTE]
 >
->Learn how to copy labels from a parent to a child asset, or
->copy labels from an original to a cloned asset.
+>Learn how to copy labels from a parent to a child asset, or copy labels from an original to a cloned asset.
 
 ## Remove Labels
 

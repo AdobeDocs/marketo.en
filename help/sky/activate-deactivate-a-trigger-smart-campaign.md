@@ -1,6 +1,6 @@
 ---
-Title: activate-deactivate-a-trigger-smart-campaign
-Description: Activate/Deactivate a Trigger Smart Campaign
+title: activate-deactivate-a-trigger-smart-campaign
+description: Activate/Deactivate a Trigger Smart Campaign
 ---
 
 # Activate/Deactivate a Trigger Smart Campaign
@@ -39,6 +39,4 @@ From this moment forward, anyone who qualifies for the smart list will go throug
 
 >[!NOTE]
 >
->This will stop _new_ people from entering the flow, but people
->in wait steps or any other flow step will continue to move
->through the flow until done.
+>This will stop _new_ people from entering the flow, but people in wait steps or any other flow step will continue to move through the flow until done.

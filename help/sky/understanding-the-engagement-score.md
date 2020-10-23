@@ -1,9 +1,11 @@
 ---
-Title: understanding-the-engagement-score
-Description: Understanding the Engagement Score
+title: understanding-the-engagement-score
+description: Understanding the Engagement Score
 ---
 
 # Understanding the Engagement Score
+
+<br>&nbsp;
 
 The engagement score makes it easy to see how effective the content in your engagement program is. The score ranges from 0 to 100. Check out [the Engagement Dashboard](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard) to see how you can track your content's performance.
 
@@ -15,14 +17,10 @@ The score is based on a proprietary algorithm that takes into account engaged be
 
 >[!NOTE]
 >
->When programs are used as content in streams, the engagement
->score is based on program membership and success status, not
->email interaction (clicks, opens, unsubscribes).
+>When programs are used as content in streams, the engagement score is based on program membership and success status, not email interaction (clicks, opens, unsubscribes).
 >
->Engagement scores are universal for all customers. You can
->compare them to see who has the most engaging content.
+>Engagement scores are universal for all customers. You can compare them to see who has the most engaging content.
 
 >[!NOTE]
 >
->The proprietary algorithm also applies to the engagement score
->in email programs.
+>The proprietary algorithm also applies to the engagement score in email programs.

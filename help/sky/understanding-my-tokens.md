@@ -1,9 +1,11 @@
 ---
-Title: understanding-my-tokens
-Description: Understanding My Tokens
+title: understanding-my-tokens
+description: Understanding My Tokens
 ---
 
 # Understanding My Tokens
+
+<br>&nbsp;
 
 My Tokens are custom variables that you can create and use in your programs or campaign folders. They look like this: `{{_my.Name of Token_}}`
 
@@ -18,15 +20,11 @@ To access and create My Tokens, select your program or campaign folder and go to
 
 >[!CAUTION]
 >
->Names of My Tokens can't be changed after they've been saved,
->so choose carefully.
+>Names of My Tokens can't be changed after they've been saved, so choose carefully.
 
 >[!NOTE]
 >
->My Tokens will not resolve when sending an email from Sales
->Insight on either Microsoft Dynamics or Salesforce; only
->standard tokens will populate (Lead, Company, etc.). Default
->values for tokens will work, however.
+>My Tokens will not resolve when sending an email from Sales Insight on either Microsoft Dynamics or Salesforce; only standard tokens will populate (Lead, Company, etc.). Default values for tokens will work, however.
 
 >[!NOTE]
 >
@@ -44,10 +42,11 @@ You can find these three types under the **My Tokens** tab in your program or ca
 
    ![Image Two](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
- Moving programs and folders affects tokens, too. Always check to make sure that references aren't broken during the move.
- Note
+Moving programs and folders affects tokens, too. Always check to make sure that references aren't broken during the move.
 
-If the email sent from an engagement program is a child email of a default program (i.e., not local to your engagement program), any My Tokens used in the email are resolved from the default program in which the child email resides.
+>[!NOTE]
+>
+>If the email sent from an engagement program is a child email of a default program (i.e., not local to your engagement program), any My Tokens used in the email are resolved from the default program in which the child email resides.
 
 ## Token Usage
 
@@ -57,7 +56,7 @@ Select any token, then click the usage icon in the top right corner to see a lis
 
    ![Image Four](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-4.png)
 
-Deep Dive
+**Deep Dive**
 
 Learn more about each of the My Tokens:
 

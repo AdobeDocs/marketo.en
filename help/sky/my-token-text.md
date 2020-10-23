@@ -1,9 +1,11 @@
 ---
-Title: my-token-text
-Description: My Token Text
+title: my-token-text
+description: My Token Text
 ---
 
 # My Token: Text
+
+<br>&nbsp;
 
 Here's how to set up a Text token for use in your programs and campaign folders.
 

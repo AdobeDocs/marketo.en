@@ -1,6 +1,6 @@
 ---
-Title: activate-and-deactivate-stream-content
-Description: Activate and Deactivate Stream Content
+title: activate-and-deactivate-stream-content
+description: Activate and Deactivate Stream Content
 ---
 
 # Activate and Deactivate Stream Content
@@ -31,8 +31,7 @@ Stream content is off by default. Activate content to send it out during engagem
 
 >[!TIP]
 >
->You can also activate all content in a stream by clicking the
->gear icon at the top and selecting **Activate All**.
+>You can also activate all content in a stream by clicking the gear icon at the top and selecting **Activate All**.
 
 ## Deactivate Stream Content
 

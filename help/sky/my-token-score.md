@@ -1,9 +1,11 @@
 ---
-Title: my-token-score
-Description: My Token Score
+title: my-token-score
+description: My Token Score
 ---
 
 # My Token: Score
+
+<br>&nbsp;
 
 Here's how to set up a Score token for use in your programs and campaign folders.
 

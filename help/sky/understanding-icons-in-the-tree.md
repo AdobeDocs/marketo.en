@@ -1,9 +1,11 @@
 ---
-Title: understanding-icons-in-the-tree
-Description: Understanding Icons in the Tree
+title: understanding-icons-in-the-tree
+description: Understanding Icons in the Tree
 ---
 
 # Understanding Icons in the Tree
+
+<br>&nbsp;
 
 The icons in the tree can give you a lot of information about your campaigns and assets. Here's a list of the various icons and what they mean.
 

@@ -1,9 +1,11 @@
 ---
-Title: set-stream-cadence
-Description: Set Stream Cadence
+title: set-stream-cadence
+description: Set Stream Cadence
 ---
 
 # Set Stream Cadence
+
+<br>&nbsp;
 
 You can send engagement content at any interval you want. For example: once a week, or every third Tuesday of the month.
 
@@ -41,10 +43,9 @@ You can send engagement content at any interval you want. For example: once a we
 
    ![Image Six](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-6.png)
 
->[!TIP]
->
->You can set your cadence to run every day by picking **Repeats:
->Weekly** / **Every: 1 Week** / **On:** all days.
+   >[!TIP]
+   >
+   >You can set your cadence to run every day by picking **Repeats: Weekly** / **Every: 1 Week** / **On:** all days.
 
 1. Now pick the Time. Check the box if you want to use [Recipient Time Zone](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) (i.e., deliver according to local time zones), then click **Save**.
 
@@ -52,9 +53,7 @@ You can send engagement content at any interval you want. For example: once a we
 
 >[!CAUTION]
 >
->The content will go out on the date you select for the first
->cast, so make sure it coincides with the day of the week you
->choose; otherwise it will go out twice in the first week.
+>The content will go out on the date you select for the first cast, so make sure it coincides with the day of the week you choose; otherwise it will go out twice in the first week.
 
 1. Hover over the info icon. You'll see what days future casts will go out.
 
@@ -62,9 +61,7 @@ You can send engagement content at any interval you want. For example: once a we
 
 >[!NOTE]
 >
->In this example, an email will go out on Tuesday, Wednesday,
->and Thursday. We then skip a week, and send again on Tuesday,
->Wednesday, and Thursday. And then we loop again.
+>In this example, an email will go out on Tuesday, Wednesday, and Thursday. We then skip a week, and send again on Tuesday, Wednesday, and Thursday. And then we loop again.
 
 That's it! Keep reading if you want to set up a monthly cadence.
 
@@ -86,9 +83,9 @@ That's it! Keep reading if you want to set up a monthly cadence.
 
    ![Image Twelve](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-12.png)
 
->[!TIP]
->
->Alternatively, you can pick day of the week.
+   >[!TIP]
+   >
+   >Alternatively, you can pick day of the week.
 
 1. Pick a Time and click **Save**.
 
@@ -100,5 +97,4 @@ That's it! Keep reading if you want to set up a monthly cadence.
 
 >[!CAUTION]
 >
->If you decide to modify your engagement stream cadence later,
->make sure the first cast is set to a future date.
+>If you decide to modify your engagement stream cadence later, make sure the first cast is set to a future date.

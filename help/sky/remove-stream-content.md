@@ -1,9 +1,11 @@
 ---
-Title: remove-stream-content
-Description: Remove Stream Content
+title: remove-stream-content
+description: Remove Stream Content
 ---
 
 # Remove Stream Content
+
+<br>&nbsp;
 
 You can either remove or archive a piece of content. Unlike removing stream content, [archiving](/help/sky/archive-and-unarchive-stream-content.md) preserves all the history associated to the content. If you don't mind losing the historical stats of some content and just want to remove it, here's how to do it.
 

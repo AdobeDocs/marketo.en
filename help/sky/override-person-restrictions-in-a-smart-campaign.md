@@ -1,15 +1,17 @@
 ---
-Title: override-person-restrictions-in-a-smart-campaign
-Description: Override Person Restrictions in a Smart Campaign
+title: override-person-restrictions-in-a-smart-campaign
+description: Override Person Restrictions in a Smart Campaign
 ---
 
 # Override Person Restrictions in a Smart Campaign
 
+<br>&nbsp;
+
 Marketo allows you to set the maximum number of people that can qualify for a smart campaign; this helps you avoid accidentally emailing your whole database. If you want to override this limit, here's how.
 
-**Prerequisites**
-
-Be sure to [enable person restrictions for smart campaigns](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) in Marketo Admin.
+>[!IMPORTANT]
+>
+>Be sure to [enable person restrictions for smart campaigns](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) in Marketo Admin.
 
 1. Find your smart campaign and click **Schedule**.
 
@@ -28,10 +30,9 @@ Be sure to [enable person restrictions for smart campaigns](https://docs.marketo
    ![Image Three](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-3.png)
 
 >[!NOTE]
->The smart campaign will not run if the number of people who
->qualify exceed the set limit.
+>
+>The smart campaign will not run if the number of people who qualify exceed the set limit.
 
 >[!CAUTION]
 >
->Be careful with this feature so that you don't accidentally
->include too many people.
+>Be careful with this feature so that you don't accidentally include too many people.

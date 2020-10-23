@@ -4,12 +4,15 @@ product: adobe experience cloud
 sub-product: sky
 archetype: end-user
 user-guide-title: Sky Product Documentation
-index: n
+index: y
 ---
 
-# Marketo Sky Docs {#using}
+# Marketo Sky Docs {#sky}
 
 + [Overview](home.md)
++ Getting Started {#getting-started}
+  + [Marketo Sky Features](marketo-sky-features.md)
+  + [How to Get Started](how-to-enable-roles-for-marketo-sky.md)
 + Event Programs {#event-programs}
   + [Setting an Event Cap](setting-an-event-cap.md)
   + [Setting Event Goals](setting-event-goals.md)
@@ -62,6 +65,12 @@ index: n
   + [My Token: Text](my-token-text.md)
   + [Override an Inherited My Token](override-an-inherited-my-token.md)
   + [Understanding My Tokens](understanding-my-tokens.md)
++ Predictive Audiences {#predictive-audiences}
+  + [Getting Started with Predictive Audiences](getting-started-with-predictive-audiences.md)
+  + [Predictive Filters](predictive-filters.md)
+  + [Expected Behavior](expected-behavior.md)
+  + [Model Health and Data Validity](model-health-and-data-validity.md)
+  + [Understanding Goal Tracking and Projected Registrations](understanding-goal-tracking-and-projected-registrations.md)
 + Programs {#programs}
   + [Archive a Program](archive-a-program.md)
   + [Create a New Program](create-a-new-program.md)
@@ -106,3 +115,4 @@ index: n
   + [Configuring the Tree](configuring-the-tree.md)
   + [Understanding Icons in the Tree](understanding-icons-in-the-tree.md)
   + [Use Filters to Sort the Tree](use-filters-to-sort-the-tree.md)
+  

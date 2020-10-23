@@ -1,9 +1,11 @@
 ---
-Title: create-my-token-folders
-Description: Create My Token Folders
+title: create-my-token-folders
+description: Create My Token Folders
 ---
 
 # Create My Token Folders
+
+<br>&nbsp;
 
 Here's how to sort your My Tokens into folders.
 

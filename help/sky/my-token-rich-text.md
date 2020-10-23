@@ -1,9 +1,11 @@
 ---
-Title: my-token-rich-text
-Description: My Token Rich Text
+title: my-token-rich-text
+description: My Token Rich Text
 ---
 
 # My Token: Rich Text
+
+<br>&nbsp;
 
 Here's how to set up a Rich Text token for use in your programs and campaign folders.
 

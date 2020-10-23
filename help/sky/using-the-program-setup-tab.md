@@ -1,9 +1,11 @@
 ---
-Title: using-the-program-setup-tab
-Description: Using the Program Setup Tab
+title: using-the-program-setup-tab
+description: Using the Program Setup Tab
 ---
 
 # Using the Program Setup Tab
+
+<br>&nbsp;
 
 From the Setup tab of your program, you can select a channel, add tags and period costs, and change settings.
 
@@ -17,8 +19,7 @@ To change your program channel, select a different one from the drop-down at the
 
 >[!NOTE]
 >
->You won't be able to edit the channel once the program or event
->has members.
+>You won't be able to edit the channel once the program or event has members.
 
 ## Add Tags
 
@@ -36,8 +37,7 @@ To change your program channel, select a different one from the drop-down at the
 
 >[!NOTE]
 >
->Learn how to [create program tags in Marketo Classic](https://
-docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values) and make them available options in the drop-down.
+>Learn how to [create program tags in Marketo Classic](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values) and make them available options in the drop-down.
 
 ## Add Period Costs
 

@@ -1,6 +1,6 @@
 ---
-Title: add-a-flow-step-to-a-smart-campaign
-Description: Add a Flow Step to a Smart Campaign
+title: add-a-flow-step-to-a-smart-campaign
+description: Add a Flow Step to a Smart Campaign
 ---
 
 # Add a Flow Step to a Smart Campaign
@@ -35,11 +35,9 @@ Flow steps are executed in the order in which they are listed. [Reorder the flow
 
 >[!TIP]
 >
->A red line appears in case of an invalid entry. Hover over the
->line to see how to correct it.
+>A red line appears in case of an invalid entry. Hover over the line to see how to correct it.
 >
->Be sure to [review and validate the smart campaign](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist) before
->you schedule or activate it.
+>Be sure to [review and validate the smart campaign](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist) before you schedule or activate it.
 
 ## Reorder Flow Steps
 

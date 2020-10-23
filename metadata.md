@@ -7,7 +7,7 @@ getting-started-title: Community
 getting-started-url: https://nation.marketo.com/
 tutorials-title: Marketo U
 tutorials-url: https://www.marketo.com/education/
-git-repo: https://git.corp.adobe.com/AdobeDocs/marketo.en
+git-repo: https://github.com/AdobeDocs/marketo.en
 ---
 
 # Metadata for internal use
