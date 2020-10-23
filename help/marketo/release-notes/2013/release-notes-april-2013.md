@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2951099
-description: Release Notes: April 2013 - Marketo Docs - Product Documentation
-title: Release Notes: April 2013
+description: Release Notes -April 2013 - Marketo Docs - Product Documentation
+title: Release Notes -April 2013
 ---
 
 # Release Notes: April 2013 {#release-notes-april}

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147055
-description: Campaign Actions: Delete a Smart Campaign - Marketo Docs - Product Documentation
-title: Campaign Actions: Delete a Smart Campaign
+description: Campaign Actions -Delete a Smart Campaign - Marketo Docs - Product Documentation
+title: Campaign Actions -Delete a Smart Campaign
 ---
 
 # Campaign Actions: Delete a Smart Campaign {#campaign-actions-delete-a-smart-campaign}

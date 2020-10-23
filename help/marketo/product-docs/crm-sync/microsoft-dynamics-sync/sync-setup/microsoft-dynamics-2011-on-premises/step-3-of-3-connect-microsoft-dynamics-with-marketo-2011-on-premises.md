@@ -1,7 +1,7 @@
 ---
 unique-page-id: 3571809
-description: Step 3 of 3: Connect Microsoft Dynamics with Marketo (2011 On-Premises) - Marketo Docs - Product Documentation
-title: Step 3 of 3: Connect Microsoft Dynamics with Marketo (2011 On-Premises)
+description: Step 3 of 3 -Connect Microsoft Dynamics with Marketo (2011 On-Premises) - Marketo Docs - Product Documentation
+title: Step 3 of 3 -Connect Microsoft Dynamics with Marketo (2011 On-Premises)
 ---
 
 # Step 3 of 3: Connect Microsoft Dynamics with Marketo (2011 On-Premises) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}

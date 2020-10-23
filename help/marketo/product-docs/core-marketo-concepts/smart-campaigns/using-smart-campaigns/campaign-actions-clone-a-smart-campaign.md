@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1146989
-description: Campaign Actions: Clone a Smart Campaign - Marketo Docs - Product Documentation
-title: Campaign Actions: Clone a Smart Campaign
+description: Campaign Actions -Clone a Smart Campaign - Marketo Docs - Product Documentation
+title: Campaign Actions -Clone a Smart Campaign
 ---
 
 # Campaign Actions: Clone a Smart Campaign {#campaign-actions-clone-a-smart-campaign}

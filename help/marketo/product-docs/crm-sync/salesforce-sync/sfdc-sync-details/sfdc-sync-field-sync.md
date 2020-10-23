@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2953461
-description: SFDC Sync: Field Sync - Marketo Docs - Product Documentation
-title: SFDC Sync: Field Sync
+description: SFDC Sync -Field Sync - Marketo Docs - Product Documentation
+title: SFDC Sync -Field Sync
 ---
 
 # SFDC Sync: Field Sync {#sfdc-sync-field-sync}

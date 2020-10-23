@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7515131
-description: SFDC Sync: Deleting a Lead/Contact - Marketo Docs - Product Documentation
-title: SFDC Sync: Deleting a Lead/Contact
+description: SFDC Sync -Deleting a Lead/Contact - Marketo Docs - Product Documentation
+title: SFDC Sync -Deleting a Lead/Contact
 ---
 
 # SFDC Sync: Deleting a Lead/Contact {#sfdc-sync-deleting-a-lead-contact}

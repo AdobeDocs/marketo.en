@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360362
-description: Step 1 of 3: Add Marketo Fields to Salesforce (Enterprise/Unlimited) - Marketo Docs - Product Documentation
-title: Step 1 of 3: Add Marketo Fields to Salesforce (Enterprise/Unlimited)
+description: Step 1 of 3 -Add Marketo Fields to Salesforce (Enterprise/Unlimited) - Marketo Docs - Product Documentation
+title: Step 1 of 3 -Add Marketo Fields to Salesforce (Enterprise/Unlimited)
 ---
 
 # Step 1 of 3: Add Marketo Fields to Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}

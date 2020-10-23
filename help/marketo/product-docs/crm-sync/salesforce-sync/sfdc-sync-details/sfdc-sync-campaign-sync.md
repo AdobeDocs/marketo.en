@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2953469
-description: SFDC Sync: Campaign Sync - Marketo Docs - Product Documentation
-title: SFDC Sync: Campaign Sync
+description: SFDC Sync -Campaign Sync - Marketo Docs - Product Documentation
+title: SFDC Sync -Campaign Sync
 ---
 
 # SFDC Sync: Campaign Sync {#sfdc-sync-campaign-sync}

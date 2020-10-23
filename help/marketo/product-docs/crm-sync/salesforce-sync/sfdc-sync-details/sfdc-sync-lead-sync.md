@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2953455
-description: SFDC Sync: Lead Sync - Marketo Docs - Product Documentation
-title: SFDC Sync: Lead Sync
+description: SFDC Sync -Lead Sync - Marketo Docs - Product Documentation
+title: SFDC Sync -Lead Sync
 ---
 
 # SFDC Sync: Lead Sync {#sfdc-sync-lead-sync}

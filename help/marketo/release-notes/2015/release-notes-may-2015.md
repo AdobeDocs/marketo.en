@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7514821
-description: Release Notes: May 2015 - Marketo Docs - Product Documentation
-title: Release Notes: May 2015
+description: Release Notes -May 2015 - Marketo Docs - Product Documentation
+title: Release Notes -May 2015
 ---
 
 # Release Notes: May 2015 {#release-notes-may}

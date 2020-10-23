@@ -1,7 +1,7 @@
 ---
 unique-page-id: 15695939
-description: Release Notes: Fall '18 - Marketo Docs - Product Documentation
-title: Release Notes: Fall '18
+description: Release Notes -Fall '18 - Marketo Docs - Product Documentation
+title: Release Notes -Fall '18
 ---
 
 # Release Notes: Fall '18 {#release-notes-fall}

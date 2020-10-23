@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2953465
-description: SFDC Sync: Converting a Lead into a Contact in Salesforce - Marketo Docs - Product Documentation
-title: SFDC Sync: Converting a Lead into a Contact in Salesforce
+description: SFDC Sync -Converting a Lead into a Contact in Salesforce - Marketo Docs - Product Documentation
+title: SFDC Sync -Converting a Lead into a Contact in Salesforce
 ---
 
 # SFDC Sync: Converting a Lead into a Contact in Salesforce {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}

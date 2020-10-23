@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359559
-description: Champion/Challenger: From Address - Marketo Docs - Product Documentation
-title: Champion/Challenger: From Address
+description: Champion/Challenger -From Address - Marketo Docs - Product Documentation
+title: Champion/Challenger -From Address
 ---
 
 # Champion/Challenger: From Address {#champion-challenger-from-address}

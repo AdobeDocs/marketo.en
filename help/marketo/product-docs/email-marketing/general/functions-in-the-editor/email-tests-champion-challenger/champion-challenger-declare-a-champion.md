@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359584
-description: Champion/Challenger: Declare a Champion - Marketo Docs - Product Documentation
-title: Champion/Challenger: Declare a Champion
+description: Champion/Challenger -Declare a Champion - Marketo Docs - Product Documentation
+title: Champion/Challenger -Declare a Champion
 ---
 
 # Champion/Challenger: Declare a Champion {#champion-challenger-declare-a-champion}

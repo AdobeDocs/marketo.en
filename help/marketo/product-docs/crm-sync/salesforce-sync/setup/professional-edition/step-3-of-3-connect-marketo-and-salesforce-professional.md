@@ -1,7 +1,7 @@
 ---
 unique-page-id: 3571800
-description: Step 3 of 3: Connect Marketo and Salesforce (Professional) - Marketo Docs - Product Documentation
-title: Step 3 of 3: Connect Marketo and Salesforce (Professional)
+description: Step 3 of 3 -Connect Marketo and Salesforce (Professional) - Marketo Docs - Product Documentation
+title: Step 3 of 3 -Connect Marketo and Salesforce (Professional)
 ---
 
 # Step 3 of 3: Connect Marketo and Salesforce (Professional) {#step-of-connect-marketo-and-salesforce-professional}

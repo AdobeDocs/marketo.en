@@ -1,7 +1,7 @@
 ---
 unique-page-id: 3571836
-description: Microsoft Dynamics Sync: Account Sync - Marketo Docs - Product Documentation
-title: Microsoft Dynamics Sync: Account Sync
+description: Microsoft Dynamics Sync -Account Sync - Marketo Docs - Product Documentation
+title: Microsoft Dynamics Sync -Account Sync
 ---
 
 # Microsoft Dynamics Sync: Account Sync {#microsoft-dynamics-sync-account-sync}

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359557
-description: Champion/Challenger: Subject Line - Marketo Docs - Product Documentation
-title: Champion/Challenger: Subject Line
+description: Champion/Challenger -Subject Line - Marketo Docs - Product Documentation
+title: Champion/Challenger -Subject Line
 ---
 
 # Champion/Challenger: Subject Line {#champion-challenger-subject-line}

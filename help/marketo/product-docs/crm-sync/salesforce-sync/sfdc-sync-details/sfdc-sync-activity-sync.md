@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2953473
-description: SFDC Sync: Activity Sync - Marketo Docs - Product Documentation
-title: SFDC Sync: Activity Sync
+description: SFDC Sync -Activity Sync - Marketo Docs - Product Documentation
+title: SFDC Sync -Activity Sync
 ---
 
 # SFDC Sync: Activity Sync {#sfdc-sync-activity-sync}

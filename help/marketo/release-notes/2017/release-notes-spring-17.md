@@ -1,7 +1,7 @@
 ---
 unique-page-id: 12977439
-description: Release Notes: Spring '17 - Marketo Docs - Product Documentation
-title: Release Notes: Spring '17
+description: Release Notes -Spring '17 - Marketo Docs - Product Documentation
+title: Release Notes -Spring '17
 ---
 
 # Release Notes: Spring '17 {#release-notes-spring}

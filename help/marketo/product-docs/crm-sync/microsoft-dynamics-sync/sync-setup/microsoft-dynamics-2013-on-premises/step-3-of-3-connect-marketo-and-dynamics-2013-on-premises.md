@@ -1,7 +1,7 @@
 ---
 unique-page-id: 3571819
-description: Step 3 of 3: Connect Marketo and Dynamics (2013 On-Premises) - Marketo Docs - Product Documentation
-title: Step 3 of 3: Connect Marketo and Dynamics (2013 On-Premises)
+description: Step 3 of 3 -Connect Marketo and Dynamics (2013 On-Premises) - Marketo Docs - Product Documentation
+title: Step 3 of 3 -Connect Marketo and Dynamics (2013 On-Premises)
 ---
 
 # Step 3 of 3: Connect Marketo and Dynamics (2013 On-Premises) {#step-of-connect-marketo-and-dynamics-on-premises}

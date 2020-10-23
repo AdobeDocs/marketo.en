@@ -1,7 +1,7 @@
 ---
 unique-page-id: 3571846
-description: Microsoft Dynamics Sync: Custom Entity Sync - Marketo Docs - Product Documentation
-title: Microsoft Dynamics Sync: Custom Entity Sync
+description: Microsoft Dynamics Sync -Custom Entity Sync - Marketo Docs - Product Documentation
+title: Microsoft Dynamics Sync -Custom Entity Sync
 ---
 
 # Microsoft Dynamics Sync: Custom Entity Sync {#microsoft-dynamics-sync-custom-entity-sync}

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 12980785
-description: Release Notes: August '17 ABM Enhancements - Marketo Docs - Product Documentation
-title: Release Notes: August '17 ABM Enhancements
+description: Release Notes -August '17 ABM Enhancements - Marketo Docs - Product Documentation
+title: Release Notes -August '17 ABM Enhancements
 ---
 
 # Release Notes: August '17 ABM Enhancements {#release-notes-august-abm-enhancements}

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360364
-description: Step 2 of 3: Create a Salesforce User for Marketo (Enterprise/Unlimited) - Marketo Docs - Product Documentation
-title: Step 2 of 3: Create a Salesforce User for Marketo (Enterprise/Unlimited)
+description: Step 2 of 3 -Create a Salesforce User for Marketo (Enterprise/Unlimited) - Marketo Docs - Product Documentation
+title: Step 2 of 3 -Create a Salesforce User for Marketo (Enterprise/Unlimited)
 ---
 
 # Step 2 of 3: Create a Salesforce User for Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}

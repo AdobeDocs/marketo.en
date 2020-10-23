@@ -1,7 +1,7 @@
 ---
 unique-page-id: 3571822
-description: Step 1 of 3: Install the Marketo Solution (Online) - Marketo Docs - Product Documentation
-title: Step 1 of 3: Install the Marketo Solution (Online)
+description: Step 1 of 3 -Install the Marketo Solution (Online) - Marketo Docs - Product Documentation
+title: Step 1 of 3 -Install the Marketo Solution (Online)
 ---
 
 # Step 1 of 3: Install the Marketo Solution (Online) {#step-of-install-the-marketo-solution-online}

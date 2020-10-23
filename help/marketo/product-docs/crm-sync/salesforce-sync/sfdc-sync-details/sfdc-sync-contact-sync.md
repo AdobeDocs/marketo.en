@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2953457
-description: SFDC Sync: Contact Sync - Marketo Docs - Product Documentation
-title: SFDC Sync: Contact Sync
+description: SFDC Sync -Contact Sync - Marketo Docs - Product Documentation
+title: SFDC Sync -Contact Sync
 ---
 
 # SFDC Sync: Contact Sync {#sfdc-sync-contact-sync}

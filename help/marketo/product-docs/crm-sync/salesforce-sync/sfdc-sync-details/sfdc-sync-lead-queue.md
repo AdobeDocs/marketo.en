@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7516241
-description: SFDC Sync: Lead Queue - Marketo Docs - Product Documentation
-title: SFDC Sync: Lead Queue
+description: SFDC Sync -Lead Queue - Marketo Docs - Product Documentation
+title: SFDC Sync -Lead Queue
 ---
 
 # SFDC Sync: Lead Queue {#sfdc-sync-lead-queue}

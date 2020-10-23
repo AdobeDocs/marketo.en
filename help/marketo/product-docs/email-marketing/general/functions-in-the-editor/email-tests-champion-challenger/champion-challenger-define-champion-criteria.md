@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359562
-description: Champion/Challenger: Define Champion Criteria - Marketo Docs - Product Documentation
-title: Champion/Challenger: Define Champion Criteria
+description: Champion/Challenger -Define Champion Criteria - Marketo Docs - Product Documentation
+title: Champion/Challenger -Define Champion Criteria
 ---
 
 # Champion/Challenger: Define Champion Criteria {#champion-challenger-define-champion-criteria}

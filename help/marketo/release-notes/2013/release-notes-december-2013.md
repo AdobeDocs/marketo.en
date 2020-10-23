@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2951052
-description: Release Notes: December 2013 - Marketo Docs - Product Documentation
-title: Release Notes: December 2013
+description: Release Notes -December 2013 - Marketo Docs - Product Documentation
+title: Release Notes -December 2013
 ---
 
 # Release Notes: December 2013 {#release-notes-december}

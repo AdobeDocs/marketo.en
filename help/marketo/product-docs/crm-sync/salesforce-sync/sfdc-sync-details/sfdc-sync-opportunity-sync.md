@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2953467
-description: SFDC Sync: Opportunity Sync - Marketo Docs - Product Documentation
-title: SFDC Sync: Opportunity Sync
+description: SFDC Sync -Opportunity Sync - Marketo Docs - Product Documentation
+title: SFDC Sync -Opportunity Sync
 ---
 
 # SFDC Sync: Opportunity Sync {#sfdc-sync-opportunity-sync}

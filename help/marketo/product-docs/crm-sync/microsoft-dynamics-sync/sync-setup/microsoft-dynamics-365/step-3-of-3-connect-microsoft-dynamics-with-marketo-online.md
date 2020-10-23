@@ -1,7 +1,7 @@
 ---
 unique-page-id: 3571830
-description: Step 3 of 3: Connect Microsoft Dynamics with Marketo (Online) - Marketo Docs - Product Documentation
-title: Step 3 of 3: Connect Microsoft Dynamics with Marketo (Online)
+description: Step 3 of 3 -Connect Microsoft Dynamics with Marketo (Online) - Marketo Docs - Product Documentation
+title: Step 3 of 3 -Connect Microsoft Dynamics with Marketo (Online)
 ---
 
 # Step 3 of 3: Connect Microsoft Dynamics with Marketo (Online) {#step-of-connect-microsoft-dynamics-with-marketo-online}

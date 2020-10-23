@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360366
-description: Step 3 of 3: Connect Marketo and Salesforce (Enterprise/Unlimited) - Marketo Docs - Product Documentation
-title: Step 3 of 3: Connect Marketo and Salesforce (Enterprise/Unlimited)
+description: Step 3 of 3 -Connect Marketo and Salesforce (Enterprise/Unlimited) - Marketo Docs - Product Documentation
+title: Step 3 of 3 -Connect Marketo and Salesforce (Enterprise/Unlimited)
 ---
 
 # Step 3 of 3: Connect Marketo and Salesforce (Enterprise/Unlimited) {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}

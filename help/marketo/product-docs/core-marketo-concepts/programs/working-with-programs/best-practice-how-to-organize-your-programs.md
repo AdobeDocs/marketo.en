@@ -1,7 +1,7 @@
 ---
 unique-page-id: 6848705
-description: Best Practice: How to Organize your Programs - Marketo Docs - Product Documentation
-title: Best Practice: How to Organize your Programs
+description: Best Practice -How to Organize your Programs - Marketo Docs - Product Documentation
+title: Best Practice -How to Organize your Programs
 ---
 
 # Best Practice: How to Organize your Programs {#best-practice-how-to-organize-your-programs}

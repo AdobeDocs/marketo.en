@@ -1,7 +1,7 @@
 ---
 unique-page-id: 27656786
-description: Release Notes: August '19 - Marketo Docs - Product Documentation
-title: Release Notes: August '19
+description: Release Notes -August '19 - Marketo Docs - Product Documentation
+title: Release Notes -August '19
 ---
 
 # Release Notes: August '19 {#release-notes-august}

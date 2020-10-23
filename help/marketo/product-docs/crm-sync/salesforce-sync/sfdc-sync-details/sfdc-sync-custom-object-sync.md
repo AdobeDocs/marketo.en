@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2953471
-description: SFDC Sync: Custom Object Sync - Marketo Docs - Product Documentation
-title: SFDC Sync: Custom Object Sync
+description: SFDC Sync -Custom Object Sync - Marketo Docs - Product Documentation
+title: SFDC Sync -Custom Object Sync
 ---
 
 # SFDC Sync: Custom Object Sync {#sfdc-sync-custom-object-sync}

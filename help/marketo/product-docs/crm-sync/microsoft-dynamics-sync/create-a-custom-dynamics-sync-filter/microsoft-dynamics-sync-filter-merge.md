@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10092969
-description: Microsoft Dynamics Sync Filter: Merge - Marketo Docs - Product Documentation
-title: Microsoft Dynamics Sync Filter: Merge
+description: Microsoft Dynamics Sync Filter -Merge - Marketo Docs - Product Documentation
+title: Microsoft Dynamics Sync Filter -Merge
 ---
 
 # Microsoft Dynamics Sync Filter: Merge {#microsoft-dynamics-sync-filter-merge}

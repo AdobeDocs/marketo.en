@@ -1,7 +1,7 @@
 ---
 unique-page-id: 3571838
-description: Microsoft Dynamics Sync: Field Sync - Marketo Docs - Product Documentation
-title: Microsoft Dynamics Sync: Field Sync
+description: Microsoft Dynamics Sync -Field Sync - Marketo Docs - Product Documentation
+title: Microsoft Dynamics Sync -Field Sync
 ---
 
 # Microsoft Dynamics Sync: Field Sync {#microsoft-dynamics-sync-field-sync}

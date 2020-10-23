@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359555
-description: Champion/Challenger: Whole Emails - Marketo Docs - Product Documentation
-title: Champion/Challenger: Whole Emails
+description: Champion/Challenger -Whole Emails - Marketo Docs - Product Documentation
+title: Champion/Challenger -Whole Emails
 ---
 
 # Champion/Challenger: Whole Emails {#champion-challenger-whole-emails}
