@@ -25,7 +25,7 @@ The following features were released on June 14, 2019.
 
 * **LinkedIn Account Matching`<sup>BETA</sup>`** : A new ABM capability is now available in beta, offering you the ability to send lists of known and whitespace accounts directly from Marketo into LinkedIn. This functionality is automatically included for all Marketo ABM customers.
 
----
+<br>&nbsp;
 
 ***Releasing Throughout the Quarter***
 

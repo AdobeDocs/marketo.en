@@ -12,7 +12,7 @@ The Engagement Dashboard is the easiest way to see how the content in your [enga
 >
 >The engagement score is calculated 72 hours after each cast. Learn more about the [engagement score](understanding-the-engagement-score.md).
 
-##  View the Engagement Dashboard {#view-the-engagement-dashboard}
+## View the Engagement Dashboard {#view-the-engagement-dashboard}
 
 Select your engagement program and click **View > Dashboard**.
 

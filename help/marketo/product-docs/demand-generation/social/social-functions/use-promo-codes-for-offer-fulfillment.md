@@ -41,7 +41,7 @@ When you create a referral offer or a sweepstakes, you can send a promo (coupon)
 
    ![](assets/image2015-4-22-13-3a8-3a31.png)
 
-##  Review Sent Promo Codes {#review-sent-promo-codes}
+## Review Sent Promo Codes {#review-sent-promo-codes}
 
 Once participants start earning your offer reward, you can see which promo codes were sent to whom and when.
 

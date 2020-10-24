@@ -41,7 +41,7 @@ Read the following scenario and try to determine the numbers that should be in t
 >1. You can't give credit for something that happened in the past
 >
 
----
+<br>&nbsp;
 
 Try all of the examples and you will be an attribution pro!
 

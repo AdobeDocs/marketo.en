@@ -145,6 +145,6 @@ To automatically send alert emails to sales reps, all you need is an alert email
 
 ### Mission Complete! {#mission-complete}
 
----
+<br>&nbsp;
 
 [◄ Mission 7: Personalize an Email](personalize-an-email.md) [Mission 9: Update Lead Data ►](update-person-data.md) 

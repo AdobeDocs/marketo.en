@@ -42,7 +42,7 @@ The following features are included in the June '20 release. Check your Marketo 
 
     * New Account Discovery is an enhancement to our Account Profiling capability that enables you to discover net-new target accounts for your ABM strategy based on your AI-powered ideal customer profile model. View, select, and import recommended new accounts, along with their AI-based fit and intent data indicators.
 
----
+<br>&nbsp;
 
 **
 
@@ -65,7 +65,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 * ** [Insights Dashboard for Salesforce CRM](https://docs.marketo.com/x/EoGMAg)**: We're reimagining our Sales Insight capability with new visibility into upcoming marketing events and campaigns to give sellers the ability to make recommendations more relevant to customers and prospects based on their needs and interests. Sellers can also view both Contact and Account Activity within the timeline and easily access additional activity details. Find more details on how to upgrade your package [here](https://docs.marketo.com/x/F4GMAg).
 
----
+<br>&nbsp;
 
 ## Announcements {#announcements}
 

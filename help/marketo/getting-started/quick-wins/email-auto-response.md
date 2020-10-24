@@ -138,6 +138,6 @@ A rich text editor will open on top of the email editor.
 
 Within just a few minutes you should see the auto response email in your inbox. Great job!
 
----
+<br>&nbsp;
 
 [◄ Mission 3: Simple Scoring](simple-scoring.md) [Mission 5: Import a List of Leads ►](import-a-list-of-people.md) 

@@ -46,7 +46,7 @@ The flow includes the steps you want the smart campaign to perform, including Wa
 
 Finally, this controls when you run your smart campaign. You can even set up recurrence so it runs on a repeating schedule.
 
----
+<br>&nbsp;
 
 There is an enormous amount of things the smart campaign can do. Get the hang of it and you'll find everything in Marketo becomes much simpler to understand.
 

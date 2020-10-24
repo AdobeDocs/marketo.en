@@ -25,7 +25,7 @@ The following features were released on August 16, 2019.
 * **LinkedIn Account Matching**, previously in beta, is now generally available.
 * **Account`<sup>AI</sup>` **is being officially rebranded as** Account Profiling**.
 
----
+<br>&nbsp;
 
 ***Releasing Throughout the Quarter***
 

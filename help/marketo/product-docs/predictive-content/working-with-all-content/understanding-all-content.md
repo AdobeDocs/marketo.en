@@ -35,7 +35,7 @@ Filter content by selecting one or more categories. Then, set up the date or dat
 
    ![](assets/image2017-10-3-9-3a6-3a23.png)
 
-##  Display Analytics for a Date or Date Range {#display-analytics-for-a-date-or-date-range}
+## Display Analytics for a Date or Date Range {#display-analytics-for-a-date-or-date-range}
 
 1. To display data for a specific date or date range, click the calendar icon and then select from the left panel. For a custom date range, click the first and last day of the date range on the calendar (as shown). Click **Apply**.
 

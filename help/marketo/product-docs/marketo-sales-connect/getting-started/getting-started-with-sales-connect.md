@@ -14,8 +14,7 @@ If you would rather watch these steps than read them, skip straight to the [Vide
 >
 >Not all customers have purchased this functionality. Contact your Customer Success Manager for more information.
 
-##   
-Written Instructions {#written-instructions}
+## Written Instructions {#written-instructions}
 
 #### What You Need to Get Started {#what-you-need-to-get-started}
 
@@ -45,7 +44,7 @@ Optionally, you can also:
 
 * [Test Sales Connect in your Sandbox](#sandbox)
 
-##   Connect Your Sales Connect Account to Salesforce {#connect-your-sales-connect-account-to-salesforce}
+## Connect Your Sales Connect Account to Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
 To connect your Sales Connect account to your Salesforce account, as an Admin or a non-Admin, follow the steps in [this article](http://docs.marketo.com/x/JwDb).
 
@@ -53,7 +52,7 @@ To connect your Sales Connect account to your Salesforce account, as an Admin or
 >
 >The instance of Salesforce you connect to must be the same instance that is (or will be) connected to Marketo.
 
-##   Acquiring Credentials Prior to Connecting Sales Connect with Marketo   
+## Acquiring Credentials Prior to Connecting Sales Connect with Marketo   
 {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
 You'll need to get a set of credentials from within Marketo. These credentials will be used later by the Sales Connect Admin to connect Marketo with Sales Connect.
@@ -74,7 +73,7 @@ You'll need to get a set of credentials from within Marketo. These credentials w
    >
    >When you copy and paste the above info, make sure no spaces get added.
 
-##   Connect Sales Connect to Marketo {#connect-sales-connect-to-marketo}
+## Connect Sales Connect to Marketo {#connect-sales-connect-to-marketo}
 
 1. In Sales Connect, click the gear icon and select **Settings**.
 
@@ -88,7 +87,7 @@ You'll need to get a set of credentials from within Marketo. These credentials w
 
    ![](assets/credentials.png)
 
-##   Invite/Provision Users {#invite-provision-users}
+## Invite/Provision Users {#invite-provision-users}
 
 If any users already exist on your account (previously from ToutApp), they'll show up in the **Team Access** tab of the Marketo section of Sales Connect.
 
@@ -120,7 +119,7 @@ You can provision your team as a Marketo Sales Connect User from this page. If y
 
 You can additional users from the Team Management page and follow the steps above to get them connected. 
 
-##  Test Sales Connect in your Sandbox {#test-sales-connect-in-your-sandbox}
+## Test Sales Connect in your Sandbox {#test-sales-connect-in-your-sandbox}
 
 For teams who want to test Marketo Sales Connect with their Marketo Sandbox, an additional Sales Connect account can be provisioned upon request. This is only for customers who have purchased a Marketo Sandbox, or those who have it as part of their Marketo bundle. If you're interested in acquiring a Sandbox, please contact your Marketo Account Manager.
 
@@ -128,7 +127,7 @@ For teams who want to test Marketo Sales Connect with their Marketo Sandbox, an 
 >
 >You cannot provision a Sales Connect account with the same email ID to multiple instances. This means if you want to have an extra Sales Connect account to test with your Marketo Sandbox instance, you'll need to use a different email ID in each of the accounts.
 
-##  Video Instructions {#video-instructions}
+## Video Instructions {#video-instructions}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/w5RY7iMPpEfUYQ4Fp8WUKR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 

@@ -107,8 +107,7 @@ You can configure any of the available columns to be visible in the email sectio
  </tbody> 
 </table>
 
-##   
-Email Page Layout Settings {#email-page-layout-settings}
+## Email Page Layout Settings {#email-page-layout-settings}
 
 You can configure your layout by following these steps.
 

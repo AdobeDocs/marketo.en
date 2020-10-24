@@ -24,7 +24,7 @@ The following features are included in the Feb '20 release. Check your Marketo e
 * **Landing Page Redirect Rules APIs**: Automate management of landing page redirect rules. This is an enhancement to our API Calls capability.
 * **Form Descriptor Caching**: We are reducing the load time of embedded forms and enhancing overall application stability by caching forms as resources. Please note that approvals made to embedded forms may take up to four minutes to reflect on the web. This is an enhancement to our Landing Pages & Forms capability.
 
----
+<br>&nbsp;
 
 **
 
@@ -44,7 +44,7 @@ The following features are on a non-quarterly cycle and will be released through
 * **Compose Window Updates**: We've streamlined the process for selecting templates and sending emails through Sales Connect. Use the Compose window in our web client and Salesforce as a one-stop shop for sellers, with the ability to save template categories, schedule emails, send emails in bulk, and send emails with view and click tracking.
 * **Command Center Updates**: We're rebuilding the Sales Connect Command Center to give sellers insight into all of their Emails, Calls, and Tasks that have been initiated from Sales Connect. They can also view information like email engagement and deliverability all from the Command Center.
 
----
+<br>&nbsp;
 
 ## Announcements {#announcements}
 

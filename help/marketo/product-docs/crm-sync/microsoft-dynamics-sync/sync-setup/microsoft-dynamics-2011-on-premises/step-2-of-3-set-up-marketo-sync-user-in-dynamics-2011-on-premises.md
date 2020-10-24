@@ -15,7 +15,7 @@ Great job completing the previous steps, let's keep moving through this.
 >* [Step 1 of 3: Install the Marketo Solution (2011 On-Premises)](step-1-of-3-install-the-marketo-solution-2011-on-premises.md)
 >
 
-##  Assign Sync User Role {#assign-sync-user-role}
+## Assign Sync User Role {#assign-sync-user-role}
 
 Assign the Marketo Sync User role only to the Marketo sync user. You don't need to assign it to any other users.
 

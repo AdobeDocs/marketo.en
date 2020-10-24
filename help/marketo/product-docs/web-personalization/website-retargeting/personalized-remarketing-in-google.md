@@ -6,7 +6,7 @@ title: Personalized Remarketing in Google
 
 # Personalized Remarketing in Google {#personalized-remarketing-in-google}
 
-###  
+### 
 
 Personalized Remarketing lets you re-engage with your users using RTP data and the power of Google Analytics with the reach of the Google Display Network.
 

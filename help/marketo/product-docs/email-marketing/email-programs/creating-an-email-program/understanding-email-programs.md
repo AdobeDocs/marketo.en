@@ -57,7 +57,7 @@ Use an email program inside a default program to keep things organized.
 >
 >Email programs cannot be nested in [engagement programs](../../../../getting-started/quick-wins/drip-drip-nurture.md). They also can't be re-sent, and can only run one test at a time.
 
-##  Schedule Settings {#schedule-settings}
+## Schedule Settings {#schedule-settings}
 
 Now that you understand Email Programs, get started with one of the related articles below!
 

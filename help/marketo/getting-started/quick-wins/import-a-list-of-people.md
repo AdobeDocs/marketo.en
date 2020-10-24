@@ -149,6 +149,6 @@ title: Import a List of People
 
 Your tradeshow attendees are now members of your Marketo program!
 
----
+<br>&nbsp;
 
 [◄ Mission 4: Email Auto Response](email-auto-response.md) [Mission 6: Drip, Drip, Nurture ►](drip-drip-nurture.md) 

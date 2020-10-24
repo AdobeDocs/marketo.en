@@ -82,7 +82,7 @@ Email Opt Out is a standard field in Salesforce that's available to install from
 
    ![](assets/twelve.png)
 
-##  Marketo Sales Opt Out {#marketo-sales-opt-out}
+## Marketo Sales Opt Out {#marketo-sales-opt-out}
 
 The Marketo Sales Opt Out field is a custom field that is available to users that have installed the Marketo Sales Connect Customizations.
 

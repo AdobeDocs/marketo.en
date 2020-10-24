@@ -82,7 +82,7 @@ After you've created the custom object structure, when you upload the specific c
 
    ![](assets/seven.png)
 
-##  Using Custom Objects with Companies {#using-custom-objects-with-companies}
+## Using Custom Objects with Companies {#using-custom-objects-with-companies}
 
    A custom object that's linked to the company works best if you sync down companies from the CRM or if you explicitly create companies using the API. We also recommend that you use the Company ID as the link field.
 

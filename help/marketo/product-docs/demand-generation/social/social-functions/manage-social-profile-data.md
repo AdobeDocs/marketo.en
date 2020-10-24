@@ -59,7 +59,7 @@ Depending on the network's and user's privacy settings, one or more of these fie
 >
 >Data captured by social form fill overwrites matching fields unless you [block updates to those fields at the form level](../../../../product-docs/administration/field-management/block-updates-to-a-field.md).
 
-##  From Twitter: {#from-twitter-1}
+## From Twitter: {#from-twitter-1}
 
 * First Name (parsed from Display Name)
 * Last Name (parsed from Display Name)

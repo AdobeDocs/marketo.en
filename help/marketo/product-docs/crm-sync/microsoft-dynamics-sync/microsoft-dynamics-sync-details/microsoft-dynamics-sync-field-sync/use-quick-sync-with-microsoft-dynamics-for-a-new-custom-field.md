@@ -44,7 +44,7 @@ Here's how to use Quick Sync to resync for new fields.
    >
    >The sync runs side-by-side with other syncs, and depending on the size of the database, can take a long time to complete. When a field is in a queue for syncing, you can't deselect it.
 
-##  Advanced Sync Options {#advanced-sync-options}
+## Advanced Sync Options {#advanced-sync-options}
 
 What if you want to sync an existing field, but only do so for a limited set of data? Here's how.
 

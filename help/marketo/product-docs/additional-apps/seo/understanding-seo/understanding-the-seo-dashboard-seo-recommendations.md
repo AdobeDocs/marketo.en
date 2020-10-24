@@ -10,7 +10,7 @@ Use the dashboard to get a high-level view of how keyword ranks are trending and
 
 You can also find out how to improve using the Recommendations section. Let's dive in!
 
-###  
+### 
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)  
 

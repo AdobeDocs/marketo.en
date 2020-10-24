@@ -38,8 +38,7 @@ Learn how to perform bulk actions, like adding leads to a campaign, send a bulk 
 
    ![](assets/three-4.png)
 
-##   
-Add to Campaign {#add-to-campaign}
+## Add to Campaign {#add-to-campaign}
 
 1. In Salesforce, click the **Leads** tab, then the **Go** button.
 
@@ -53,8 +52,7 @@ Add to Campaign {#add-to-campaign}
 
    ![](assets/six.png)
 
-##   
-Push to Marketo Sales Connect {#push-to-marketo-sales-connect}
+## Push to Marketo Sales Connect {#push-to-marketo-sales-connect}
 
 1. In Salesforce, click the **Leads** tab, then the **Go** button.
 

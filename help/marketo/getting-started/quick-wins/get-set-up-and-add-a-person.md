@@ -68,6 +68,6 @@ There are a few things to do before you begin the missions.
 
 You're ready to begin your first mission!  
 
----
+<br>&nbsp;
 
 [Mission 1: Send an Email Blast ►](send-an-email.md) 

@@ -168,6 +168,6 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
    >
    >Learn more about [Engagement Programs](http://docs.marketo.com/display/docs/drip+nurturing).
 
----
+<br>&nbsp;
 
 [◄ Mission 5: Import a List of Leads](import-a-list-of-people.md) [Mission 7: Personalize an Email ►](personalize-an-email.md) 

@@ -15,7 +15,7 @@ Once you've set up your test type, you need to define the champion criteria. Her
 >* [Add an Email Champion/Challenger](add-an-email-champion-challenger.md)
 >
 
-##  Standard Champion Criteria {#standard-champion-criteria}
+## Standard Champion Criteria {#standard-champion-criteria}
 
 1. Pick one of the available **Champion Criteria**.
 

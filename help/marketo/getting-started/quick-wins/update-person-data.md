@@ -60,6 +60,6 @@ Double-click to open the person detail.
 
 Nice job! You've updated your person data.
 
----
+<br>&nbsp;
 
 [◄ Mission 8: Alert the Sales Rep](alert-the-sales-rep.md) [Mission 10: Redirect a Landing Page ►](redirect-a-landing-page.md) 

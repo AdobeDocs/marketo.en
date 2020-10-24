@@ -112,6 +112,6 @@ If you haven't enabled a pop-up blocker, the email editor will open in a new tab
 
 Congratulations, you've personalized your email!
 
----
+<br>&nbsp;
 
 [◄ Mission 6: Drip, Drip, Nurture](drip-drip-nurture.md) [Mission 8: Alert the Sales Rep ►](alert-the-sales-rep.md) 

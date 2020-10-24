@@ -17,7 +17,7 @@ title: Create an Event with WebEx
 
 First create a Webex Event in the WebEx Event Center. `Marketo only uses specific settings and fields for your integration, which we’ll go through shortly. Other fields that you might want to configure for WebEx are explained in the` ` [WebEx Event Center User Guide](http://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).` 
 
-###  Basic Information {#basic-information}
+### Basic Information {#basic-information}
 
 * **Event Name -** This name will be viewable in Marketo.
 * **Unlisted Checkbox **
@@ -44,7 +44,7 @@ First create a Webex Event in the WebEx Event Center. `Marketo only uses specifi
 
 These settings reside in WebEx only. They are not used by or viewable in Marketo, but they may be important for your webinar, so double-check them!
 
-###  Event Description & Options  {#event-description-options}
+### Event Description & Options  {#event-description-options}
 
 The following options are used by or viewable in Marketo. Other fields reside in WebEx only.
 

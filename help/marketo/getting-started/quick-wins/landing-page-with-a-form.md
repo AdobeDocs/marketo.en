@@ -200,6 +200,6 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
 ### Mission Complete! {#mission-complete}
 
----
+<br>&nbsp;
 
 [◄ Send an Email Blast](send-an-email.md) [Simple Scoring ►](simple-scoring.md) 

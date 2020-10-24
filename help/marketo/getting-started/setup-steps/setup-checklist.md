@@ -8,7 +8,7 @@ title: Setup Checklist
 
 Welcome to Marketo! Feel free to use the following checklist as a visual to-do list to get things started. Details can be found in [Setup Steps](../../getting-started/setup-steps.md).
 
-##  Log-in to Marketo and Create Additional Users {#log-in-to-marketo-and-create-additional-users}
+## Log-in to Marketo and Create Additional Users {#log-in-to-marketo-and-create-additional-users}
 
 1. Log-in to Marketo
 1. Create additional users

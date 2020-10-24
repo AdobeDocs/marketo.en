@@ -140,6 +140,6 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
 
 You should receive the email shortly after the scheduled day/time.
 
----
+<br>&nbsp;
 
 [◄ Get Set Up and Add a Lead](get-set-up-and-add-a-person.md) [Landing Page with a Form ►](landing-page-with-a-form.md) 

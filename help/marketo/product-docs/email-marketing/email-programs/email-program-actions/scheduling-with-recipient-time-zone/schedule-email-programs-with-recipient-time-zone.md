@@ -71,7 +71,7 @@ This means that if you're in America/Los Angeles and want to enable both Head St
 
 ![](assets/image2017-12-5-13-3a11-3a38.png)
 
----
+<br>&nbsp;
 
 In short, email programs scheduled with Recipient Time Zone need to start running at the scheduled time in the earliest time zone (i.e., where it reaches midnight first) in order to accommodate every time zone. So, if you schedule an email program...
 

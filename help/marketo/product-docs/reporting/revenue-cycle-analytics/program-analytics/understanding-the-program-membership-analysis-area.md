@@ -36,7 +36,7 @@ How many new names did each program/channel generate per month?
 | Members |Total leads in a program |
 | New Names |Total new names acquired by a program |
 
-###  Program Attributes {#program-attributes}
+### Program Attributes {#program-attributes}
 
 | Dimension |Description |
 |---|---|

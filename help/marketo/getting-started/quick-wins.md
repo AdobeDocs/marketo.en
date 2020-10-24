@@ -6,7 +6,7 @@ title: Quick Wins
 
 # Quick Wins {#quick-wins}
 
-##  Complete these missions to learn the core features of Marketo.  {#complete-these-missions-to-learn-the-core-features-of-marketo}
+## Complete these missions to learn the core features of Marketo.  {#complete-these-missions-to-learn-the-core-features-of-marketo}
 
 [![](assets/education-science-12.png)  1. Get Set Up and Add a Person](https://docs.marketo.com/pages/viewpage.action?pageId=2359351)
 

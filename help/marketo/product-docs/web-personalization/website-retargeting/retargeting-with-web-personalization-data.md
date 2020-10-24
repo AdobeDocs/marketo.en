@@ -12,7 +12,7 @@ title: Retargeting with Web Personalization Data
 >
 >Website Retargeting now falls under the Web Personalization tile. If you only purchased Retargeting, you will see this tile and access the Web Personalization product with **only** Retargeting features enabled. This gives you access to account settings, the Retargeting page, segments, and additional tracking pages.
 
-###  
+### 
 
 Remarketing targets prospects who have visited your site in the past with display advertising based on who they are and what they did. Personalized retargeting targets specific audiences with relevant ads based on industry, named accounts, and known person data.
 

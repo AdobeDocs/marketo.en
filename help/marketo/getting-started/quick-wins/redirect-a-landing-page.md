@@ -60,6 +60,6 @@ title: Redirect a Landing Page
 
 Congratulations! You've successfully redirected a landing page.  
 
----
+<br>&nbsp;
 
 [◄ Mission 9: Update Lead Data](update-person-data.md) 

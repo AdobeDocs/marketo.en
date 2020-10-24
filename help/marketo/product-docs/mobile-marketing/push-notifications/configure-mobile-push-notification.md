@@ -84,7 +84,7 @@ title: Configure Mobile Push Notification
 
 Congratulations! Now the push notification is ready to be sent.
 
-##  Deep Link URIs {#deep-link-uris}
+## Deep Link URIs {#deep-link-uris}
 
 When subscribers click on a button in a push message, it can take them either to your app’s home page or directly to a specific page within the app. A deep link is a unique reference to a specific page in your app, and looks a lot like a website link.
 

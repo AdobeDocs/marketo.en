@@ -19,7 +19,7 @@ Creating push notifications and in-app messages isn't difficult, but you need to
 >
 >It's easy for a Marketo Admin to check to see if your push configuration is verified. Just go [here](verify-push-configuration.md).
 
-##  Custom Events for In-App Messages {#custom-events-for-in-app-messages}
+## Custom Events for In-App Messages {#custom-events-for-in-app-messages}
 
 For in-app messaging, the display trigger is set to **App Open** by default. If you want to use any custom events to trigger the display of in-app messages (for example, **Clicks Add to Cart**, **Views Settings Page**), create a list of desired events and give it to your mobile apps developer. The developer will then add the custom events into the code. After they are approved, they appear as display triggers when setting up your audience. **Caution**: The custom event coding approval process may take some time to complete.
 

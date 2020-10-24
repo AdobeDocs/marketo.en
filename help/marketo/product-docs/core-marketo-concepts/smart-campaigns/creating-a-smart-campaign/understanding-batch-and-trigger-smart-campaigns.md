@@ -36,7 +36,7 @@ Clicking on the **Schedule** tab will confirm that the smart campaign is set to 
 * Are visible on the [program schedule view](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md).   
   &#42;Note that anything after a "Wait" step within the smart campaign will not be included on the view.
 
----
+<br>&nbsp;
 
 ## Trigger Smart Campaign {#trigger-smart-campaign}
 

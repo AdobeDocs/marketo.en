@@ -26,7 +26,7 @@ The following features are included in the July '20 release. Check your Marketo 
 
 * **Updated UI for Account Profiling: **Simplify the creation of your target account list in Account Profiling with streamlined steps all in a single screen.
 
----
+<br>&nbsp;
 
 **
 
@@ -49,7 +49,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 * ** [Enhanced Two-Party Consent for Sales Calls:](https://docs.marketo.com/x/dgC1Ag)** Admins now have greater control over call recording configurations. [Enable call recordings](https://docs.marketo.com/x/dAC1Ag) with confidence that you comply with the two-party consent law. Automate the notification of the call being recorded and activate audio clips to be played before the call.
 
----
+<br>&nbsp;
 
 ## Announcements & Deprecations {#announcements-deprecations}
 

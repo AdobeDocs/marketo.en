@@ -25,7 +25,7 @@ The following features were released on March 15, 2019.
 Account-Based Marketing
 ** [Account`<sup>AI</sup>`](../../product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)** Now generally available. Account`<sup>AI</sup>` uses artificial intelligence to reveal the accounts you should target for your ABM strategy. 
 
----
+<br>&nbsp;
 
 ***Non-Quarterly Releases***
 

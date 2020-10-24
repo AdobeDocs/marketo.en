@@ -122,7 +122,7 @@ Marketo Sales Insight is a fantastic tool for your sales team. Here is the step-
 
    **
 
-##  Set User Access {#set-user-access}
+## Set User Access {#set-user-access}
 
 Set up user roles to give specific users access to Sales Insight.
 
