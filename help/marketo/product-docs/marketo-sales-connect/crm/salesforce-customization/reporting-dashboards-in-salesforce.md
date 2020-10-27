@@ -26,13 +26,11 @@ Learn how to set up dashboards below.
 
 ## Template Volume Report {#template-volume-report}
 
-##### 1. Modify the Template Performance Report and include the filter, "Marketo Sales Template not equal to blank." {#modify-the-template-performance-report-and-include-the-filter-marketo-sales-template-not-equal-to-blank}
-
-##### 2. Remove the Marketo Sales Clicked field – *Save As*. {#remove-the-marketo-sales-clicked-field-save-as}
+1. Modify the Template Performance Report and include the filter, "Marketo Sales Template not equal to blank."
+1. Remove the Marketo Sales Clicked field – *Save As*.
 
 ## Trending Accounts Report {#trending-accounts-report}
 
-##### 1. Select Activities with Accounts record type. {#select-activities-with-accounts-record-type}
-
-##### 2. Setup the report parameters and fields as indicated below – *Save As.* {#setup-the-report-parameters-and-fields-as-indicated-below-save-as}
+1. Select Activities with Accounts record type.
+1. Setup the report parameters and fields as indicated below – *Save As.
 

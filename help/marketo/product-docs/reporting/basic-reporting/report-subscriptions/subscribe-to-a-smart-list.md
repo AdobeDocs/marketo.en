@@ -97,7 +97,7 @@ The email also provides additional information about the filters used to create 
 
 ## Delete a Subscription {#delete-a-subscription}
 
-##### To delete a subscription, select it in the subscriptions tab and click Delete Subscription. {#to-delete-a-subscription-select-it-in-the-subscriptions-tab-and-click-delete-subscription}
+To delete a subscription, select it in the subscriptions tab and click Delete Subscription.
 
 ![](assets/twelve.png)
 

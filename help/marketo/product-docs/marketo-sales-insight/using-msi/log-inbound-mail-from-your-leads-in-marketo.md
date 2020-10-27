@@ -10,7 +10,7 @@ You can log replies from your leads right in Outlook with the Marketo Email Add-
 
 ## From the Main Outlook Application {#from-the-main-outlook-application}
 
-##### Select the email you want to log and click Log with Marketo. {#select-the-email-you-want-to-log-and-click-log-with-marketo}
+1. Select the email you want to log and click Log with Marketo.
 
 ![](assets/image2014-9-23-17-3a12-3a44.png)
 
@@ -24,7 +24,7 @@ You should see a confirmation.
 
 ## From the Email Itself {#from-the-email-itself}
 
-##### If you have opened the email, you can simply click on the Log with Marketo button from there. {#if-you-have-opened-the-email-you-can-simply-click-on-the-log-with-marketo-button-from-there}
+If you have opened the email, you can simply click on the Log with Marketo button from there.
 
 ![](assets/image2014-9-23-17-3a14-3a14.png)
 

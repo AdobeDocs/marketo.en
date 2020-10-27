@@ -35,7 +35,7 @@ Now access custom objects associated with the Account object from within email s
 
 ## Real-Time Personalization {#real-time-personalization}
 
-##### Personalized Remarketing for Google and Facebook {#personalized-remarketing-for-google-and-facebook}
+**Personalized Remarketing for Google and Facebook**
 
 Remarketing shows ads to people who have visited your website. You can now personalize your remarketing campaigns on [Google](../../product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) and [Facebook](../../product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)using data from Real-Time Personalization. Remarket to audiences from different industries, named account lists, company sizes or any data from known leads.
 

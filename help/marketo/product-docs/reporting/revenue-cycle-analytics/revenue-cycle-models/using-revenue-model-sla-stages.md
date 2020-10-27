@@ -36,7 +36,7 @@ SLA stands for “service level agreement.” These stages are used when there i
 
 ## Edit an SLA Stage {#edit-an-sla-stage}
 
-##### When you select an SLA stage icon you may edit the Name, add a Description and adjust the Type. You may also select [Start Tracking by Account](start-tracking-by-account-in-the-revenue-modeler.md). {#when-you-select-an-sla-stage-icon-you-may-edit-the-name-add-a-description-and-adjust-the-type-you-may-also-select-start-tracking-by-account}
+When you select an SLA stage icon you may edit the Name, add a Description and adjust the Type. You may also select [Start Tracking by Account](start-tracking-by-account-in-the-revenue-modeler.md). 
 
 1. Click an SLA stage icon.
 

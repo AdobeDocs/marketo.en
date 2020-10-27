@@ -25,19 +25,19 @@ Page fields include:
 
 ## Filtering Content {#filtering-content}
 
-##### Category {#category}
+**Category**
 
 You can filter content by categories you've created. Click the filter icon and under **Category**, select one or more content categories. 
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 
-Enabled Source
+**Enabled Source**
 
 Filter by each type of enabled content: Email, Rich Media, Recommendation Bar.
 
 ![](assets/image2017-10-3-9-3a25-3a9.png)
 
-Analytics by Source
+**Analytics by Source**
 
 Filtering enabled content analytics gives you the ability to see how each source is performing.
 

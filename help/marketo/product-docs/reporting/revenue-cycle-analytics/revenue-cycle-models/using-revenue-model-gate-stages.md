@@ -44,7 +44,7 @@ A gate stage serves as a qualification check.
 
 ## Edit a Gate Stage {#edit-a-gate-stage}
 
-##### Edit the Name, Description, and adjust the Type of your Gate stage. You can also opt to [Start Tracking by Account](start-tracking-by-account-in-the-revenue-modeler.md). {#edit-the-name-description-and-adjust-the-type-of-your-gate-stage-you-can-also-opt-to-start-tracking-by-account}
+Edit the Name, Description, and adjust the Type of your Gate stage. You can also opt to [Start Tracking by Account](start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Click a **Gate** stage icon.
 

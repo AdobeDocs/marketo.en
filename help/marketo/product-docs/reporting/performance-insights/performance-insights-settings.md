@@ -16,7 +16,7 @@ Learn about the different Settings options in MPI.
 
 ## View Program Success By {#view-program-success-by}
 
-##### Engagement Dashboard - Contribution and Trend {#engagement-dashboard-contribution-and-trend}
+**Engagement Dashboard - Contribution and Trend**
 
 | **Cost Period** |When you check this, Performance Insights will aggregate all new names and successes back to the month set up as the cost period. |
 |---|---|
@@ -24,7 +24,7 @@ Learn about the different Settings options in MPI.
 
 ## Previous Period Configuration {#previous-period-configuration}
 
-##### Engagement, Pipeline, Revenue Dashboards - Contribution only {#engagement-pipeline-revenue-dashboards-contribution-only}
+**Engagement, Pipeline, Revenue Dashboards - Contribution only**
 
 | **Calendar Period** |Set the previous period to: previous calendar month, quarter, or year. |
 |---|---|
@@ -32,7 +32,7 @@ Learn about the different Settings options in MPI.
 
 ## Marketing-Influenced Opportunities {#marketing-influenced-opportunities}
 
-##### Pipeline Dashboard - Contribution and Trend {#pipeline-dashboard-contribution-and-trend}
+**Pipeline Dashboard - Contribution and Trend**
 
 <table> 
  <tbody> 
@@ -64,7 +64,7 @@ Revenue Dashboard - Contribution and Trend
 
 ## Cost Calculation {#cost-calculation}
 
-##### Pipeline and Revenue Dashboards - Contribution and Trend {#pipeline-and-revenue-dashboards-contribution-and-trend}
+**Pipeline and Revenue Dashboards - Contribution and Trend**
 
 | **Based on Investment Period** |Investment Cost is calculated simply as the sum of monthly program costs defined by the investment period filter. |
 |---|---|

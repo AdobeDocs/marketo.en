@@ -22,19 +22,18 @@ title: Creating and Deleting Contacts
 
 ## Deleting Contacts {#deleting-contacts}
 
-##### 1. In the People page, check the box of the contact you’d like to delete. {#in-the-people-page-check-the-box-of-the-contact-you-d-like-to-delete}
+1. In the People page, check the box of the contact you’d like to delete.
 
-![](assets/three-2.png)
+   ![](assets/three-2.png)
 
->[!NOTE]
->
->To delete multiple contacts, simply select multiple people. The remaining steps would be the same.
+   >[!NOTE]
+   >
+   >To delete multiple contacts, simply select multiple people. The remaining steps would be the same.
 
-2. Click the dota (three vertical dots) and select Delete.
+1. Click the dota (three vertical dots) and select Delete.
 
-![](assets/four-2.png)
+   ![](assets/four-2.png)
 
-3. Click Delete Contact to confirm.
+1. Click Delete Contact to confirm.
 
-![](assets/five-2.png)
-
+   ![](assets/five-2.png)

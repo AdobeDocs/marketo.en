@@ -19,8 +19,7 @@ If you haven't received an invite email, ask your Marketo administrator to invit
 
 ## Download Installer {#download-installer}
 
-##### 1. Identify your [Microsoft Outlook version](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c). {#identify-your-microsoft-outlook-version}
-
+1. Identify your [Microsoft Outlook version](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
 1. Click the link to download the installer appropriate for your version of Microsoft Outlook.
 
    >[!NOTE]

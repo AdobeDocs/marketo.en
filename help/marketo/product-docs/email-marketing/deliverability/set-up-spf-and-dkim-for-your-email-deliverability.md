@@ -12,11 +12,9 @@ One quick method to improve your email delivery rates is to incorporate **SPF** 
 >
 >You'll need your network administrator to make this change in your DNS record.
 
-##
+## Set up SPF {#set-up-spf}
 
-#### Set up SPF {#set-up-spf}
-
-##### If you DON'T have an SPF record on your domain {#if-you-dont-have-an-spf-record-on-your-domain}
+**If you DON'T have an SPF record on your domain**
 
 Ask your network admin to add the following line to your DNS entries. Replace [domain] with the main domain of your website (ex. "company.com") and [corpIP] with the IP address of your corporate email server (ex. "255.255.255.255"). If you send emails from multiple domains through Marketo, you should add this to each domain (on one line).
 [domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all   
@@ -28,7 +26,7 @@ include:mktomail.com
 
 ## Set up DKIM {#set-up-dkim}
 
-##### What is DKIM? Why do I want to set up DKIM? {#what-is-dkim-why-do-i-want-to-set-up-dkim}
+### What is DKIM? Why do I want to set up DKIM? {#what-is-dkim-why-do-i-want-to-set-up-dkim}
 
 DKIM is an authentication protocol that is used by email receivers to determine if an email message was sent by who it says it was sent by. DKIM often improves deliverability of emails to the inbox since a receiver can be confident that the message is not a forgery.
 

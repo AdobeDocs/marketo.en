@@ -10,7 +10,7 @@ In Email Insights, there are different ways to filter your data.
 
 ## Email Insights {#email-insights}
 
-##### Click the + to start adding filters. Add as many as you'd like. {#click-the-to-start-adding-filters-add-as-many-as-youd-like}
+Click the + to start adding filters. Add as many as you'd like.
 
 ![](assets/one-2.png)
 
@@ -56,7 +56,7 @@ Choose from common preset date ranges, select specific dates, even use the previ
 
 ## Account Based Marketing {#account-based-marketing}
 
-##### If you use [Account Based Marketing](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), there are filters specifically for you. {#if-you-use-account-based-marketing-there-are-filters-specifically-for-you}
+If you use [Account Based Marketing](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), there are filters specifically for you. 
 
 ![](assets/abm.png)
 

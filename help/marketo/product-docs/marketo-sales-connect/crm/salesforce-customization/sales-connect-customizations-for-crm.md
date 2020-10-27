@@ -127,11 +127,11 @@ Marketo will detect the creation of the new fields then do a one-time backfill o
 
 ## User Guides {#user-guides}
 
-##### [MSE Custom Reports in Salesforce](http://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx) {#mse-custom-reports-in-salesforce}
+[MSE Custom Reports in Salesforce](http://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
-##### [MSE for Salesforce](http://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf) {#mse-for-salesforce}
+[MSE for Salesforce](http://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 
-##### [MSE for Salesforce Lightning](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) {#mse-for-salesforce-lightning}
+[MSE for Salesforce Lightning](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
 
 ## Related Videos {#related-videos}
 

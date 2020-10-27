@@ -37,15 +37,17 @@ You define the fulfillment goal when creating a referral offer. If the action th
 
 ## Pasting the Scripts Onto Your Webpage {#pasting-the-scripts-onto-your-webpage}
 
-##### Paste the conversion scripts into the HTML for the body and header. Next, place the loader scripts into the HTML for the body and header. {#paste-the-conversion-scripts-into-the-html-for-the-body-and-header-next-place-the-loader-scripts-into-the-html-for-the-body-and-header}
+Paste the conversion scripts into the HTML for the body and header. Next, place the loader scripts into the HTML for the body and header. 
 
 ![](assets/image2015-4-20-21-3a0-3a16.png)
 
 ## Connecting the Conversion Script {#connecting-the-conversion-script}
 
-##### Here's where you will write a JavaScript function that uses the specific HTML id of whatever page element you want to trigger goal completion on. For example: {#heres-where-you-will-write-a-javascript-function-that-uses-the-specific-html-id-of-whatever-page-element-you-want-to-trigger-goal-completion-on-for-example}
+Here's where you will write a JavaScript function that uses the specific HTML id of whatever page element you want to trigger goal completion on. For example: 
 
-`<pre><em><!-- Referral offer conversion script --></em> <script> cf_scripts.afterload(function (){ jQuery("#myButtonId").click(function (){ CF.insight.conversion(); }); }); </script></pre>` `<pre>` In this example there is a button on the webpage with an id of "#myButtonId." When that button is clicked, the person will be registered as having completed the goal.
+`<pre><em><!-- Referral offer conversion script --></em> <script> cf_scripts.afterload(function (){ jQuery("#myButtonId").click(function (){ CF.insight.conversion(); }); }); </script></pre>` `<pre>` 
+
+In this example there is a button on the webpage with an id of "#myButtonId." When that button is clicked, the person will be registered as having completed the goal.
 
 Awesome! Your website is now capturing custom social promotion goals with Marketo.
 

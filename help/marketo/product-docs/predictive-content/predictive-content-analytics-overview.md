@@ -14,7 +14,7 @@ Use content analytics to gain further insights into your existing content, learn
 
 ## Overview {#overview}
 
-##### On the Summary page, click Analytics. {#on-the-summary-page-click-analytics}
+On the Summary page, click Analytics.
 
 ![](assets/one.png)
 
@@ -40,13 +40,13 @@ Click the calendar icon to change the dates of the reflected data. Choose a pres
 
 ## Top Content by Views {#top-content-by-views}
 
-##### Displays the top content pieces by number of views per the selected date range. {#displays-the-top-content-pieces-by-number-of-views-per-the-selected-date-range}
+Displays the top content pieces by number of views per the selected date range.
 
 ![](assets/new-6.png)
 
 ## Top Content by Conversion Rate {#top-content-by-conversion-rate}
 
-##### Displays the top converting content by conversion rate for the selected date range. {#displays-the-top-converting-content-by-conversion-rate-for-the-selected-date-range}
+Displays the top converting content by conversion rate for the selected date range.
 
 ![](assets/new-7.png)
 
@@ -58,13 +58,13 @@ Click the calendar icon to change the dates of the reflected data. Choose a pres
 
 ## Trending Content {#trending-content}
 
-##### Displays a content piece's surge in popularity by looking at the last two-week increase in views compared to the same previous period. {#displays-a-content-pieces-surge-in-popularity-by-looking-at-the-last-two-week-increase-in-views-compared-to-the-same-previous-period}
+Displays a content piece's surge in popularity by looking at the last two-week increase in views compared to the same previous period.
 
 ![](assets/new-8.png)
 
 ## Suggested Content {#suggested-content}
 
-##### Displays content we suggest you promote in your Marketing Activities based on the filter you defined. {#displays-content-we-suggest-you-promote-in-your-marketing-activities-based-on-the-filter-you-defined}
+Displays content we suggest you promote in your Marketing Activities based on the filter you defined.
 
 ![](assets/image2017-10-3-10-3a18-3a35.png)
 

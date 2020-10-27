@@ -17,13 +17,13 @@ Use Dynamic Content in Emails to send your leads targeted information.
 
 ## Add Segmentation {#add-segmentation}
 
-##### 1. Go to Marketing Activities. {#go-to-marketing-activities}
+1. Go to Marketing Activities.
 
-![](assets/login-marketing-activities.png)
+   ![](assets/login-marketing-activities.png)
 
-2. Select your Email and then click Edit Draft.
+1. Select your Email and then click Edit Draft.
 
-![](assets/1.2.png)
+   ![](assets/1.2.png)
 
 1. In this example we're making the Subject Line dynamic. Click in the Subject field, then click the **Make Dynamic** button.
 
@@ -31,7 +31,7 @@ Use Dynamic Content in Emails to send your leads targeted information.
 
    >[!NOTE]
    >
-   >You can also make an element inside the email dynamic. To do this, select the area, click the gear icon, and select **Make Dynamic** (or ** [Replace with Snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)**, depending on what you're doing).
+   >You can also make an element inside the email dynamic. To do this, select the area, click the gear icon, and select **Make Dynamic** (or [Replace with Snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), depending on what you're doing).
 
    Enter the Segmentation name, select it, and click Save.
 
