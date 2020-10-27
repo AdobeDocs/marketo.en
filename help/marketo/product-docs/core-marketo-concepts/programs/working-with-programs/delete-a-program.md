@@ -12,11 +12,11 @@ You can archive a program, but sometimes you just want to get rid of it permanen
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-2. Click Program Actions. Click Delete. 
+1. Click Program Actions. Click Delete. 
 
-![](assets/image2014-9-23-15-3a41-3a11.png)
+   ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-3. Select the Delete all option. Review the side effects of the program's deletion, then click Delete to confirm.
+1. Select the Delete all option. Review the side effects of the program's deletion, then click Delete to confirm.
 
 >[!TIP]
 >

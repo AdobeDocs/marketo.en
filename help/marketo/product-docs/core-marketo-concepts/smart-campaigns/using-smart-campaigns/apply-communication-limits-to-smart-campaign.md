@@ -23,9 +23,9 @@ It's not a good idea to email someone multiple times a day or too many times in 
 
 ![](assets/programeditsettings-hands-1.png)
 
-2. Check the Block non-operational emails checkbox, and then click Save.
+1. Check the Block non-operational emails checkbox, and then click Save.
 
-![](assets/apply-communication-limits-to-smart-campaign.png)
+   ![](assets/apply-communication-limits-to-smart-campaign.png)
 
 >[!NOTE]
 >

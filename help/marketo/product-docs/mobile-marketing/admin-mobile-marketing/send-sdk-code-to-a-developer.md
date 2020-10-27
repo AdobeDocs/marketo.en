@@ -21,15 +21,15 @@ Here's how you do it.
 
 1. Click on Admin.
 
-![](assets/image2015-4-22-16-3a12-3a32.png)
+   ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-2. Select Mobile Apps.
+1. Select Mobile Apps.
 
-![](assets/image2015-4-22-16-3a14-3a29.png)
+   ![](assets/image2015-4-22-16-3a14-3a29.png)
 
-3. Select the desired mobile app.
+1. Select the desired mobile app.
 
-![](assets/image2015-4-22-16-3a33-3a19.png)
+   ![](assets/image2015-4-22-16-3a33-3a19.png)
 
 1. Click **Mobile App Actions** and select **Send to Developer**.
 

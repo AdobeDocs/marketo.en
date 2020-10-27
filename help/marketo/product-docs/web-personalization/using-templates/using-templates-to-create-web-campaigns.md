@@ -14,45 +14,45 @@ Speed up and simplify your web campaign creation process by using our built in t
 
 1. Go to Web Campaigns.
 
-![](assets/web-campaigns-hand.jpg)
+   ![](assets/web-campaigns-hand.jpg)
 
-2. Click Create New Web Campaign.
+1. Click Create New Web Campaign.
 
-![](assets/create-new-web-campaign-create-hand.jpg)
+   ![](assets/create-new-web-campaign-create-hand.jpg)
 
-3. Name your campaign.
+1. Name your campaign.
 
-![](assets/set-web-campaign-my-campaign-hand.jpg)
+   ![](assets/set-web-campaign-my-campaign-hand.jpg)
 
-4. Select a Target Segment.
+1. Select a Target Segment.
 
-![](assets/set-web-campaign-education.jpg)
+   ![](assets/set-web-campaign-education.jpg)
 
-5. Click Templates.
+1. Click Templates.
 
-![](assets/templates.png)
+   ![](assets/templates.png)
 
-6. Select the appropriate area for your campaign to see and select a template that works for you.
+1. Select the appropriate area for your campaign to see and select a template that works for you.
 
->[!NOTE]
->
->**Reminder**
->
->There are some cool templates to choose from, and we will add more in the future.
+   >[!NOTE]
+   >
+   >**Reminder**
+   >
+   >There are some cool templates to choose from, and we will add more in the future.
 
-![](assets/select.png)
+   ![](assets/select.png)
 
->[!TIP]
->
->For mobile campaigns select a template from the **mobile** section.
+   >[!TIP]
+   >
+   >For mobile campaigns select a template from the **mobile** section.
 
-7. Customize the template.
+1. Customize the template.
 
-![](assets/customize-template.jpg)
+   ![](assets/customize-template.jpg)
 
-8. Click Save.
+1. Click Save.
 
-![](assets/click-save-hand.jpg)
+   ![](assets/click-save-hand.jpg)
 
 Nicely done! Did you see how much time you saved by using a template?
 

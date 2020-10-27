@@ -10,25 +10,25 @@ If you need a new custom field in Marketo to store/capture data, here's how to c
 
 1. Go to Admin and click Field Management.
 
-![](assets/image2014-9-24-13-3a46-3a26.png)
+    ![](assets/image2014-9-24-13-3a46-3a26.png)
 
->[!TIP]
->
->If you want the fields to be kept in sync with your CRM, create them in the CRM and they will automatically be created in Marketo.
+    >[!TIP]
+    >
+    >If you want the fields to be kept in sync with your CRM, create them in the CRM and they will automatically be created in Marketo.
 
-2. Click New Custom Field.
+1. Click New Custom Field.
 
-![](assets/two.png)
+    ![](assets/two.png)
 
-3. Choose the field Type. This will change how it's rendered in smart lists and forms in Marketo.
+1. Choose the field Type. This will change how it's rendered in smart lists and forms in Marketo.
 
->[!TIP]
->
->Check out the [Custom Field Types Glossary](custom-field-type-glossary.md).
+    >[!TIP]
+    >
+    >Check out the [Custom Field Types Glossary](custom-field-type-glossary.md).
 
-![](assets/image2014-9-24-13-3a47-3a42.png)
+    ![](assets/image2014-9-24-13-3a47-3a42.png)
 
-4. Enter the Name as you want it to appear in Marketo. The API Name is automatically generated. You can tweak it, but it cannot be renamed once set. Click Create when done.
+1. Enter the Name as you want it to appear in Marketo. The API Name is automatically generated. You can tweak it, but it cannot be renamed once set. Click Create when done.
 
 >[!CAUTION]
 >

@@ -10,15 +10,15 @@ If you've scheduled a run for one of your batch campaigns and would like to canc
 
 1. Select the campaign and go to the Schedule tab.
 
-![](assets/image2014-9-22-16-3a43-3a10.png)
+   ![](assets/image2014-9-22-16-3a43-3a10.png)
 
-2. Find the scheduled run you want to cancel and click on the x next to it.
+1. Find the scheduled run you want to cancel and click on the x next to it.
 
-![](assets/image2014-9-22-16-3a43-3a15.png)
+   ![](assets/image2014-9-22-16-3a43-3a15.png)
 
-3. Confirm the cancellation by clicking OK.
+1. Confirm the cancellation by clicking OK.
 
-![](assets/image2014-9-22-16-3a43-3a24.png)
+   ![](assets/image2014-9-22-16-3a43-3a24.png)
 
 >[!NOTE]
 >

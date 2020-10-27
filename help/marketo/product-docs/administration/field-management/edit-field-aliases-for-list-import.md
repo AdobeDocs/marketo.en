@@ -14,19 +14,19 @@ When you import a list with unknown headers, you can create field aliases to mak
 
 1. Under Admin, click Field Management.
 
-![](assets/image2014-9-19-9-3a56-3a22.png)
+   ![](assets/image2014-9-19-9-3a56-3a22.png)
 
-2. Find and select the field you want to add an alias to.
+1. Find and select the field you want to add an alias to.
 
-![](assets/fieldmanagement-findfield.png)
+   ![](assets/fieldmanagement-findfield.png)
 
-3. Under Field Actions, click Edit Import Aliases.
+1. Under Field Actions, click Edit Import Aliases.
 
-![](assets/fieldmanageemnt-editimport.png)
+   ![](assets/fieldmanageemnt-editimport.png)
 
-4. Enter an Alias and click Save.
+1. Enter an Alias and click Save.
 
-![](assets/image2014-9-19-9-3a57-3a1.png)
+   ![](assets/image2014-9-19-9-3a57-3a1.png)
 
 >[!TIP]
 >

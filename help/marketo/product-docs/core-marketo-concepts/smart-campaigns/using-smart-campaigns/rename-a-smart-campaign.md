@@ -10,22 +10,22 @@ You can change the name of an existing smart campaign. Here's how.
 
 1. Go to Marketing Activities.
 
-![](assets/login-marketing-activities.png)
+   ![](assets/login-marketing-activities.png)
 
-2. Select your Smart Campaign, then click on its name.
+1. Select your Smart Campaign, then click on its name.
 
-![](assets/renamecampaign-hands.png)
+   ![](assets/renamecampaign-hands.png)
 
->[!TIP]
->
->Smart campaign names within programs always translate to the format 'ProgramName.CampaignName'.
+   >[!TIP]
+   >
+   >Smart campaign names within programs always translate to the format 'ProgramName.CampaignName'.
 
-3. Enter the new smart campaign name and click Save.
+1. Enter the new smart campaign name and click Save.
 
-![](assets/rename-cursorandhand.png)
+   ![](assets/rename-cursorandhand.png)
 
->[!NOTE]
->
->The old name is visible in the tab and it changes upon saving.
+   >[!NOTE]
+   >
+   >The old name is visible in the tab and it changes upon saving.
 
 Quick and easy! Anywhere the smart campaign is referenced will be changed too. 

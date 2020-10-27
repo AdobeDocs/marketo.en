@@ -16,35 +16,35 @@ Get a visual representation of velocity and flow through your [Revenue Cycle Mod
 
 1. Click the Analytics tile.
 
-![](assets/one.png)
+   ![](assets/one.png)
 
-2. Click the Success Path Analyzer icon.
+1. Click the Success Path Analyzer icon.
 
-![](assets/two.png)
+   ![](assets/two.png)
 
->[!NOTE]
->
->If you receive a warning that no data was found in the specified time frame, just click **Close** to change your time frame. If you aren't prompted, but you want to change your time frame, go to **Setup** and double-click** ****Time Frame**.
+   >[!NOTE]
+   >
+   >If you receive a warning that no data was found in the specified time frame, just click **Close** to change your time frame. If you aren't prompted, but you want to change your time frame, go to **Setup** and double-click** ****Time Frame**.
 
-3. If you had no data, or you're changing your time frame, select one from the drop-down and click Save.
+1. If you had no data, or you're changing your time frame, select one from the drop-down and click Save.
 
-![](assets/timeframe.png)
+   ![](assets/timeframe.png)
 
->[!TIP]
->
->To select a specific range, select **Custom** and use the **From** and **To** fields. 
+   >[!TIP]
+   >
+   >To select a specific range, select **Custom** and use the **From** and **To** fields. 
 
-4. If you have more than one Revenue Cycle Model, select the one you want from the Setup tab.
+1. If you have more than one Revenue Cycle Model, select the one you want from the Setup tab.
 
-![](assets/four.png)
+   ![](assets/four.png)
 
-5. Pick the appropriate model and click Apply.
+1. Pick the appropriate model and click Apply.
 
-![](assets/five.png)
+   ![](assets/five.png)
 
-6. Click the Success Path Analyzer tab.
+1. Click the Success Path Analyzer tab.
 
-![](assets/success-tab.png)
+   ![](assets/success-tab.png)
 
 Now you can explore movement from each stage to the next!
 

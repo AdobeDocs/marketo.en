@@ -10,19 +10,19 @@ If you ever need to delete a stream from your engagement program, follow these q
 
 1. Go to Marketing Activities.
 
-![](assets/login-marketing-activities-1.png)
+   ![](assets/login-marketing-activities-1.png)
 
-2. Select your engagement program and go to Streams.
+1. Select your engagement program and go to Streams.
 
-![](assets/cloneasteam-2.jpg)
+   ![](assets/cloneasteam-2.jpg)
 
->[!CAUTION]
->
->Deleting a stream will result in loss of historical data for the content in that stream.
+   >[!CAUTION]
+   >
+   >Deleting a stream will result in loss of historical data for the content in that stream.
 
-3. Click on the gear icon and select Delete.
+1. Click on the gear icon and select Delete.
 
-![](assets/image2014-9-15-17-3a47-3a27.png)
+   ![](assets/image2014-9-15-17-3a47-3a27.png)
 
 1. Confirm the deletion by clicking **Delete**.
 

@@ -27,5 +27,5 @@ Multi-Touch answers a complicated business question, "Which programs are most in
 There are three rules of attribution:
 
 1. Credit is split evenly.
-2. You can't give more credit than you earned.
-3. You can't give credit for something that happened in the past.
+1. You can't give more credit than you earned.
+1. You can't give credit for something that happened in the past.

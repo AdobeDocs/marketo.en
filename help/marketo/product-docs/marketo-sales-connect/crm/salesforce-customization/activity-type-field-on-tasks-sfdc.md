@@ -24,22 +24,15 @@ With the help of Sales Connect you can have your emails and calls logged as an a
 First check that you have the correct picklist values in place. You'll need the help of your Salesforce Admin to make any changes to your picklist.
 
 1. Navigate to [Salesforce.com](http://Salesforce.com) and click on Setup in the top right corner.
-
-2. Click Customize.
-
-3. Click Activities.
-
-4. Click Task Fields.
-
-5. Click Type.
-
-6. You are now at the Task Type Picklist. Make sure there isn't a 'Default' selected.
-
-7. Make sure there's a Type value listed for Email, Call, and Reply.
+1. Click Customize.
+1. Click Activities.
+1. Click Task Fields.
+1. Click Type.
+1. You are now at the Task Type Picklist. Make sure there isn't a 'Default' selected.
+1. Make sure there's a Type value listed for Email, Call, and Reply.
 
 Now that this is in place, you will begin to see the Type field populate the corresponding value for logged Emails, Calls, and Replies. These values will **not** be populated on Sales Connect reminder tasks.
 
 >[!NOTE]
 >
->If you don't see 'Reply' as a value, add it by clicking **New*.*** 'Reply' is not a standard value in Salesforce.
-
+>If you don't see 'Reply' as a value, add it by clicking **New**. 'Reply' is not a standard value in Salesforce.

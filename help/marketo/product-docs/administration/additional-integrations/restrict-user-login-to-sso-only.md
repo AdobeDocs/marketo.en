@@ -16,11 +16,11 @@ If you're [using SSO](add-single-sign-on-to-a-portal.md) and want to ensure user
 
 ![](assets/image2014-9-24-14-3a44-3a40.png)
 
-2. Click Edit Security Settings.
+1. Click Edit Security Settings.
 
-![](assets/image2014-9-24-14-3a44-3a53.png)
+   ![](assets/image2014-9-24-14-3a44-3a53.png)
 
-3. Expand the advanced settings, check Require SSO, and click Save.
+1. Expand the advanced settings, check Require SSO, and click Save.
 
 ![](assets/image2014-9-24-14-3a45-3a6.png)
 

@@ -20,41 +20,41 @@ Discover which programs and channels are giving you the biggest bang for your ma
 
 1. Click the Analytics tile.
 
-![](assets/image2014-9-17-13-3a7-3a1.png)
+   ![](assets/image2014-9-17-13-3a7-3a1.png)
 
-2. Click the Program Analyzer tile.
+1. Click the Program Analyzer tile.
 
-![](assets/program-analyzer-icon-hand.png)
+   ![](assets/program-analyzer-icon-hand.png)
 
-3. The standard program analyzer appears. Make any changes to it you need.
+1. The standard program analyzer appears. Make any changes to it you need.
 
-![](assets/image2016-10-31-15-3a3-3a9.png)
+   ![](assets/image2016-10-31-15-3a3-3a9.png)
 
-4. Click the Setup tab to add and customize filters.
+1. Click the Setup tab to add and customize filters.
 
-![](assets/image2016-10-31-15-3a25-3a57.png)
+   ![](assets/image2016-10-31-15-3a25-3a57.png)
 
-5. For example, to customize the Period Cost filter, double-click on it.
+1. For example, to customize the Period Cost filter, double-click on it.
 
-![](assets/image2016-10-31-15-3a33-3a2.png)
+   ![](assets/image2016-10-31-15-3a33-3a2.png)
 
-6. Select the time period you wish to analyze and click Apply.
+1. Select the time period you wish to analyze and click Apply.
 
-![](assets/image2016-10-31-15-3a30-3a32.png)
+   ![](assets/image2016-10-31-15-3a30-3a32.png)
 
->[!TIP]
->
->To select a specific range, select **Custom **and use the **From **and **To **fields.
+   >[!TIP]
+   >
+   >To select a specific range, select **Custom **and use the **From **and **To **fields.
 
-7. If you want to save your new custom analyzer, in the Analyzer Actions drop-down, select Save As.
+1. If you want to save your new custom analyzer, in the Analyzer Actions drop-down, select Save As.
 
-![](assets/image2016-10-31-15-3a5-3a8.png)
+   ![](assets/image2016-10-31-15-3a5-3a8.png)
 
-8. Select the location where you want to save the custom analyzer, using the Save To and Folder drop-downs. Name the new custom analyzer. A description is optional. Click Save.
+1. Select the location where you want to save the custom analyzer, using the Save To and Folder drop-downs. Name the new custom analyzer. A description is optional. Click Save.
 
-![](assets/image2016-10-31-15-3a7-3a19.png)
+   ![](assets/image2016-10-31-15-3a7-3a19.png)
 
-9. You've done it! Click the main tab to start exploring and comparing your programs and channels.
+1. You've done it! Click the main tab to start exploring and comparing your programs and channels.
 
 ![](assets/november-custom-report.png)
 

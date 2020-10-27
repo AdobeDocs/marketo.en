@@ -22,10 +22,10 @@ Once SSO is enabled, the IdP can validate a user’s credentials. When a user wi
 
 ## How to Send the Request {#how-to-send-the-request}
 
-* Send the SSO request, which is a SAML response, to https://login.marketo.com/saml/assertion/<your-munchkin-id>
+* Send the SSO request, which is a SAML response, to `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
 * As the SP’s Audience URL. Use [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
 * If you are using the SPNameQualifier attribute, set the NameID element for Subject to [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
-* If you are federating multiple Marketo subscriptions to the same SSO provider, you can use unique SP urls for each Marketo sub with the format http://saml.marketo.com/sp/<munchkin_id>
+* If you are federating multiple Marketo subscriptions to the same SSO provider, you can use unique SP urls for each Marketo sub with the format `http://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
 >
@@ -70,7 +70,7 @@ SSO is disabled by default. Follow these steps to enable SAML and configure it.
 
    ![](assets/image2014-9-24-14-3a38-3a8.png)
 
-1. Click** Save**.
+1. Click **Save**.
 
    ![](assets/image2014-9-24-14-3a38-3a22.png)
 
@@ -88,7 +88,7 @@ SSO is disabled by default. Follow these steps to enable SAML and configure it.
 
    ![](assets/eight.png)
 
-1. Enter an **Error URL.** This is the URL you want the user to be directed to in case logging into Marketo fails. Click **Save**.
+1. Enter an **Error URL**. This is the URL you want the user to be directed to in case logging into Marketo fails. Click **Save**.
 
    ![](assets/nine.png)
 

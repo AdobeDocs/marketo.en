@@ -20,21 +20,21 @@ Some programs may need to be included even if they don't have a period cost. Alt
 
 1. Under the Admin section, click on Tags.
 
-![](assets/image2014-9-17-12-3a35-3a32.png)
+   ![](assets/image2014-9-17-12-3a35-3a32.png)
 
-2. Expand your Channels and double click the channel of your choice.
+1. Expand your Channels and double click the channel of your choice.
 
->[!NOTE]
->
->**Reminder**
->
->All programs using this channel, regardless of period cost, will become available to revenue explorer and analyzers. This change will take effect the following day.
+   >[!NOTE]
+   >
+   >**Reminder**
+   >
+   >All programs using this channel, regardless of period cost, will become available to revenue explorer and analyzers. This change will take effect the following day.
 
-![](assets/image2014-9-17-12-3a36-3a7.png)
+   ![](assets/image2014-9-17-12-3a36-3a7.png)
 
-3. Change the Analytics Behavior to Inclusive and click Save.
+1. Change the Analytics Behavior to Inclusive and click Save.
 
-![](assets/image2014-9-17-12-3a36-3a13.png)
+   ![](assets/image2014-9-17-12-3a36-3a13.png)
 
 >[!TIP]
 >

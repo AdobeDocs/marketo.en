@@ -18,7 +18,7 @@ title: Delete a Web Campaign
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 
-3. A confirmation message appears to confirm if you want to delete the web campaign. 
+1. A confirmation message appears to confirm if you want to delete the web campaign. 
 
 >[!NOTE]
 >
@@ -26,5 +26,3 @@ title: Delete a Web Campaign
 >
 >* [Edit a Web Campaign](edit-an-existing-web-campaign.md)
 >* [Launch/Pause a Web Campaign](launch-pause-a-web-campaign.md)
->
-

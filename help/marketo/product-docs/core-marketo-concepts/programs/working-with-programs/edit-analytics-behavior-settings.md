@@ -10,19 +10,19 @@ You can set the [analytics behavior at the admin level on channels](../../../../
 
 1. Go to Marketing Activities.
 
-![](assets/login-marketing-activities-2.png)
+   ![](assets/login-marketing-activities-2.png)
 
-2. Find and select your program.
+1. Find and select your program.
 
-![](assets/image2014-9-24-11-3a40-3a57.png)
+   ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-3. Under the Setup tab, drag Analytics Behavior into the canvas.
+1. Under the Setup tab, drag Analytics Behavior into the canvas.
 
-![](assets/image2014-9-24-11-3a41-3a2.png)
+   ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-4. Select the Analytics Behavior you want.
+1. Select the Analytics Behavior you want.
 
-![](assets/image2014-9-24-11-3a42-3a0.png)
+   ![](assets/image2014-9-24-11-3a42-3a0.png)
 
 >[!NOTE]
 >
@@ -36,9 +36,9 @@ You can set the [analytics behavior at the admin level on channels](../../../../
 >
 >The default behavior (if this setting is not applied) is the program would be included in Analytics ONLY if there is at least one period cost, even one with zero dollars assigned.
 
-5. Click Save.
+1. Click Save.
 
-![](assets/image2014-9-24-11-3a42-3a6.png)
+   ![](assets/image2014-9-24-11-3a42-3a6.png)
 
 Nicely done! Now you know how to override the analytics behavior at the program level.
 

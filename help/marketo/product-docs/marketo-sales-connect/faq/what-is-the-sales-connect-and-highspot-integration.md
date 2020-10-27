@@ -31,13 +31,8 @@ If you are interested in enabling the Highspot Integration for your team, please
 Once enabled, here's how to access your Highspot content in Sales Connect. 
 
 1. When composing an email in Sales Connect or Outlook, choose Add Content.
-
-2. Select Highspot.
-
-3. Enter your Highspot account email and click Continue.
-
-4. Enter your Highspot account password and click Sign In.
-
-5. Select the content from Highspot you would like to insert into the email or template and click Add Content.
-
-6. The content is inserted into the email or template.
+1. Select Highspot.
+1. Enter your Highspot account email and click Continue.
+1. Enter your Highspot account password and click Sign In.
+1. Select the content from Highspot you would like to insert into the email or template and click Add Content.
+1. The content is inserted into the email or template.

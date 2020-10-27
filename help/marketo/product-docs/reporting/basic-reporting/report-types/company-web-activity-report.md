@@ -23,9 +23,7 @@ Create a  [Web Page Activity report](web-page-activity-report.md) to see the ind
 >To capture activity from your web site in Marketo, you first need to set [up Munchkin on your site](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
 1. [Create a report](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) and select the  Company Web Activity Report  [report type](report-type-overview.md).
-
-2. Choose to [display known or anonymous people](https://docs.marketo.com/display/DOCS/Display+Known+or+Anonymous+People+in+Web+Reports) in the report.
-
+1. Choose to [display known or anonymous people](https://docs.marketo.com/display/DOCS/Display+Known+or+Anonymous+People+in+Web+Reports) in the report.
 1. [Set the time frame of your report](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) and click the **Report** tab.
 1. That's it! Review your report to see which companies are visiting your site.
 

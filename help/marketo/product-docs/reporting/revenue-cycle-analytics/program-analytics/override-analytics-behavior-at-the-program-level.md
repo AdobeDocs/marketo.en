@@ -10,35 +10,34 @@ You can set the  [analytics behavior at the admin level on channels](make-a-prog
 
 1. Go to the Marketing Activities area.
 
-![](assets/image2014-9-24-11-3a40-3a46.png)
+   ![](assets/image2014-9-24-11-3a40-3a46.png)
 
-2. Find and select your program.
+1. Find and select your program.
 
-![](assets/image2014-9-24-11-3a40-3a57.png)
+   ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-3. Under the Setup tab, drag Analytics Behavior into the canvas.
+1. Under the Setup tab, drag Analytics Behavior into the canvas.
 
-![](assets/image2014-9-24-11-3a41-3a2.png)
+   ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-4. Select the Analytics Behavior you want.
+1. Select the Analytics Behavior you want.
 
->[!NOTE]
->
->**Definition**
->
->* **Inclusive** - This option will ensure that the program is available for reporting in revenue explorer and analyzers regardless of if you have included a period cost or not.
->* **Operational** - This option results in the program not showing up in either revenue explorer or analyzers.
->
+   >[!NOTE]
+   >
+   >**Definition**
+   >
+   >* **Inclusive** - This option will ensure that the program is available for reporting in revenue explorer and analyzers regardless of if you have included a period cost or not.
+   >* **Operational** - This option results in the program not showing up in either revenue explorer or analyzers.
 
->[!NOTE]
->
->The default behavior (if this setting is not applied) is the program would be included in Analytics** ** **ONLY if there is at least one period cost** , even one with zero dollars assigned.
+   >[!NOTE]
+   >
+   >The default behavior (if this setting is not applied) is the program would be included in Analytics **ONLY if there is at least one period cost**, even one with zero dollars assigned.
 
-![](assets/image2014-9-24-11-3a42-3a0.png)
+   ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-5. Click SAVE.
+1. Click SAVE.
 
-![](assets/image2014-9-24-11-3a42-3a6.png)
+   ![](assets/image2014-9-24-11-3a42-3a6.png)
 
 Nicely done! Now you know how to override the analytics behavior at the program level.
 

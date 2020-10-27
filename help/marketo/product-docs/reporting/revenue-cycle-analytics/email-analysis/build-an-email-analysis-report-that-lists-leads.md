@@ -16,37 +16,37 @@ Follow these steps to create an Email Analysis report that will show you every l
 
 ![](assets/image2014-9-17-19-3a12-3a54.png)
 
-2. Click on New Report.
+1. Click on New Report.
 
-![](assets/image2014-9-17-19-3a13-3a1.png)
+   ![](assets/image2014-9-17-19-3a13-3a1.png)
 
-3. Select the Email Analysis area and click OK.
+1. Select the Email Analysis area and click OK.
 
-![](assets/image2014-9-17-19-3a14-3a0.png)
+   ![](assets/image2014-9-17-19-3a14-3a0.png)
 
-4. Find the Email Name yellow dot, right click it and select Filter.
+1. Find the Email Name yellow dot, right click it and select Filter.
 
-![](assets/image2014-9-17-19-3a14-3a6.png)
+   ![](assets/image2014-9-17-19-3a14-3a6.png)
 
-5. Double click the email of your choice from the list and click OK.
+1. Double click the email of your choice from the list and click OK.
 
-![](assets/image2014-9-17-19-3a14-3a11.png)
+   ![](assets/image2014-9-17-19-3a14-3a11.png)
 
-6. Drag the Email Name yellow dot onto Columns.
+1. Drag the Email Name yellow dot onto Columns.
 
-![](assets/image2014-9-17-19-3a15-3a0.png)
+   ![](assets/image2014-9-17-19-3a15-3a0.png)
 
->[!TIP]
->
->There are many lead/company attributes that you can add as columns, check them out!
+   >[!TIP]
+   >
+   >There are many lead/company attributes that you can add as columns, check them out!
 
-7. Find the Full Name yellow dot and drag it onto Rows. 
+1. Find the Full Name yellow dot and drag it onto Rows. 
 
-![](assets/image2014-9-17-19-3a15-3a32.png)
+   ![](assets/image2014-9-17-19-3a15-3a32.png)
 
-8. Now add the Measures you are interested in by double clicking them.
+1. Now add the Measures you are interested in by double clicking them.
 
-![](assets/image2014-9-17-19-3a15-3a47.png)
+   ![](assets/image2014-9-17-19-3a15-3a47.png)
 
 >[!NOTE]
 >

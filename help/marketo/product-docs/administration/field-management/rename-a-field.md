@@ -16,19 +16,19 @@ title: Rename a Field
 
 1. Go to Admin and click Field Management.
 
-![](assets/image2014-9-24-14-3a2-3a25.png)
+   ![](assets/image2014-9-24-14-3a2-3a25.png)
 
-2. Find and select the field you want to rename, then click the field name in the canvas.
+1. Find and select the field you want to rename, then click the field name in the canvas.
 
->[!TIP]
->
->Click the **Used By** link to find assets that reference this field.
+   >[!TIP]
+   >
+   >Click the **Used By** link to find assets that reference this field.
 
-![](assets/changefieldname.png)
+   ![](assets/changefieldname.png)
 
-3. Rename the field and click Save.
+1. Rename the field and click Save.
 
-![](assets/image2014-9-24-14-2-55.png)
+   ![](assets/image2014-9-24-14-2-55.png)
 
 Nice job! You now know how to rename fields in Marketo.
 

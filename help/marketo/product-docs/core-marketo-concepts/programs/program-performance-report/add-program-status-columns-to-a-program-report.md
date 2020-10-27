@@ -10,31 +10,31 @@ Add stats about program status to your [program performance report](create-a-pro
 
 1. Go to Marketing Activities (or Analytics). 
 
-![](assets/login-marketing-activities-2.png)
+   ![](assets/login-marketing-activities-2.png)
 
-2. Select your report.
+1. Select your report.
 
-![](assets/emailperformance.jpg)
+   ![](assets/emailperformance.jpg)
 
-3. Click the Setup tab and drag over the Channel tag.
+1. Click the Setup tab and drag over the Channel tag.
 
-![](assets/image2014-9-23-16-3a26-3a38.png)
+   ![](assets/image2014-9-23-16-3a26-3a38.png)
 
-4. Select a channel to filter by.
+1. Select a channel to filter by.
 
-![](assets/image2014-9-23-16-3a26-3a48.png)
+   ![](assets/image2014-9-23-16-3a26-3a48.png)
 
->[!TIP]
->
->To show program status columns, your report must be filtered by *just one* channel.
+   >[!TIP]
+   >
+   >To show program status columns, your report must be filtered by *just one* channel.
 
-5. Check the option to Show program status columns. Click Apply.
+1. Check the option to Show program status columns. Click Apply.
 
-![](assets/image2014-9-23-16-3a26-3a53.png)
+   ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-6. You did it! Click the Report tab to see your report with the program status columns.
+1. You did it! Click the Report tab to see your report with the program status columns.
 
-![](assets/programreport.jpg)
+   ![](assets/programreport.jpg)
 
 >[!NOTE]
 >

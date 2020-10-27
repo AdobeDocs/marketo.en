@@ -309,23 +309,19 @@ You can edit a segment that has been created.
 
 1. To edit a Segment, go to **Segments**.
 
-![](assets/image2014-11-12-11-3a38-3a22.png)
+   ![](assets/image2014-11-12-11-3a38-3a22.png)
 
-2. In the **Segments** table, click on the edit icon ( ![](assets/segment-edit.png)) of the segment you wish to edit. The **Set Segment** page opens with the selected segment.
-
-3. Apply any edits or changes you wish to make on the segment.
-
-4. Click **Save**.
+1. In the **Segments** table, click on the edit icon ( ![](assets/segment-edit.png)) of the segment you wish to edit. The **Set Segment** page opens with the selected segment.
+1. Apply any edits or changes you wish to make on the segment.
+1. Click **Save**.
 
 ## Delete Segments {#delete-segments}
 
 You can delete segments you have created.
 
 1. From the **Segments** page above, select a segment.
-
-2. Click the delete icon ( ![](assets/segment-delete.png) ) of the segment** **you wish to delete.
-
-3. A confirmation message appears, confirming that you are about to delete the **Segment**.
+1. Click the delete icon ( ![](assets/segment-delete.png) ) of the segment** **you wish to delete.
+1. A confirmation message appears, confirming that you are about to delete the **Segment**.
 
 >[!NOTE]
 >
@@ -340,6 +336,4 @@ Great! Now that you understand the Segments section, let's learn about campaigns
 >* [Create a Basic Web Segment](create-a-basic-web-segment.md) 
 >* [Create a New Dialog Web Campaign](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) 
 >* [Create a New In Zone Web Campaign](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md) 
->* [Create a New Widget Web Campaign](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) 
->
-
+>* [Create a New Widget Web Campaign](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

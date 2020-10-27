@@ -17,7 +17,7 @@ Here's how to set up a CRM Campaign token for use in your programs and campaign 
 
    ![Image One](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-1.png)
 
-2. Enter a name for your new token, then select a CRM campaign from the drop-down. Click **Save**.
+1. Enter a name for your new token, then select a CRM campaign from the drop-down. Click **Save**.
 
    ![Image Two](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-2.png)
 

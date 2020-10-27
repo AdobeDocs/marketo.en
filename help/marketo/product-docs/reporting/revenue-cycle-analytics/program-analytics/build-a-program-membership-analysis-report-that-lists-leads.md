@@ -16,27 +16,27 @@ Follow these steps to create a Program Membership Analysis report that will show
 
 1. Launch Revenue Explorer.
 
-![](assets/one.png)
+   ![](assets/one.png)
 
-2. Click Create New then Report.
+1. Click Create New then Report.
 
-![](assets/two.png)
+   ![](assets/two.png)
 
-3. Select Program Membership Analysis and click OK.
+1. Select Program Membership Analysis and click OK.
 
-![](assets/three.png)
+   ![](assets/three.png)
 
-4. Find and double-click the Program Name yellow dot. 
+1. Find and double-click the Program Name yellow dot. 
 
-![](assets/four.png)
+   ![](assets/four.png)
 
-5. Find and double-click the Members blue dot.
+1. Find and double-click the Members blue dot.
 
-![](assets/five.png)
+   ![](assets/five.png)
 
-6. Find and double-click the Success (Total) blue dot.
+1. Find and double-click the Success (Total) blue dot.
 
-![](assets/six.png)
+   ![](assets/six.png)
 
 See how easy that was?
 
@@ -48,9 +48,9 @@ You can quickly add a lead attribute such as **Full Name** to see who the member
 >
 >There are plenty of lead/company attributes to pick from. Check them out!
 
-7. Find and double-click the Full Name yellow dot.
+1. Find and double-click the Full Name yellow dot.
 
-![](assets/eight.png)
+   ![](assets/eight.png)
 
 There you have it!
 

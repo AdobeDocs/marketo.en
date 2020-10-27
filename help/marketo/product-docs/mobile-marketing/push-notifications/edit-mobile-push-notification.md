@@ -10,9 +10,9 @@ title: Edit Mobile Push Notification
 
 ![](assets/image2015-4-22-18-3a44-3a42.png)
 
-2. Select your Mobile App and click Edit Draft.
+1. Select your Mobile App and click Edit Draft.
 
-![](assets/image2015-4-22-18-3a45-3a13.png)
+   ![](assets/image2015-4-22-18-3a45-3a13.png)
 
 >[!NOTE]
 >

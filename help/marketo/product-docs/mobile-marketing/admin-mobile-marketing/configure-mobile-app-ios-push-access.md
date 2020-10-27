@@ -8,27 +8,27 @@ title: Configure Mobile App iOS Push Access
 
 1. Click Admin.
 
-![](assets/image2015-4-22-16-3a12-3a32.png)
+   ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-2. Select Mobile Apps.
+1. Select Mobile Apps.
 
-![](assets/image2015-4-22-16-3a14-3a29.png)
+   ![](assets/image2015-4-22-16-3a14-3a29.png)
 
-3. Select the desired mobile app.
+1. Select the desired mobile app.
 
-![](assets/image2015-4-22-16-3a33-3a19.png)
+   ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-4. Under Push Access Type, select iOS and click Configure.
+1. Under Push Access Type, select iOS and click Configure.
 
-![](assets/image2016-6-10-11-3a37-3a9.png)
+   ![](assets/image2016-6-10-11-3a37-3a9.png)
 
->[!NOTE]
->
->You will need a **Certificate** and **Password** from your mobile apps developer. The developer receives these by logging into the Apple Developer Member Center, setting up and downloading a push notification certificate for your app, and exporting the content. The developer sets the password when making the export. **IMPORTANT**: The certificate should be appropriate for the kind of environment you're using — Sandbox or Production. Verify this with your Marketo Admin or mobile apps developer.
+   >[!NOTE]
+   >
+   >You will need a **Certificate** and **Password** from your mobile apps developer. The developer receives these by logging into the Apple Developer Member Center, setting up and downloading a push notification certificate for your app, and exporting the content. The developer sets the password when making the export. **IMPORTANT**: The certificate should be appropriate for the kind of environment you're using — Sandbox or Production. Verify this with your Marketo Admin or mobile apps developer.
 
-5. Select your Certificate, enter your Password, and click Save.
+1. Select your Certificate, enter your Password, and click Save.
 
-![](assets/image2015-4-22-17-3a19-3a18.png)
+   ![](assets/image2015-4-22-17-3a19-3a18.png)
 
 Great Job! Make sure you also configure the app with Android. 
 

@@ -12,9 +12,9 @@ View people who have already run through the smart campaign flow; i.e., smart ca
 
 ![](assets/login-marketing-activities.png)
 
-2. In your smart campaign, click View Campaign Members .
+1. In your smart campaign, click View Campaign Members .
 
-![](assets/changescore-hands.png)
+   ![](assets/changescore-hands.png)
 
 >[!TIP]
 >

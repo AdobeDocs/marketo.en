@@ -226,27 +226,26 @@ A custom field on the lead object in Salesforce should be mapped to a contact fi
 
 1. In the top right corner, click Setup.
 
-![](assets/image2016-5-26-16-3a34-3a0.png)
+   ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-2. Type "fields" into the Nav Search without pressing enter. Fields appears under different objects; Click Fields under Leads.
+1. Type "fields" into the Nav Search without pressing enter. Fields appears under different objects; Click Fields under Leads.
 
-![](assets/image2016-5-26-16-3a36-3a32.png)
+   ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-3. Go to the Lead Custom Fields & Relationships section and click Map Lead Fields.
+1. Go to the Lead Custom Fields & Relationships section and click Map Lead Fields.
 
-![](assets/image2016-5-26-16-3a39-3a29.png)
+   ![](assets/image2016-5-26-16-3a39-3a29.png)
 
-4. Click the drop-down next to the field you want to map.
+1. Click the drop-down next to the field you want to map.
 
-![](assets/image2016-5-26-16-3a49-3a53.png)
+   ![](assets/image2016-5-26-16-3a49-3a53.png)
 
-5. Select the corresponding contact custom field.
+1. Select the corresponding contact custom field.
 
-![](assets/image2016-5-26-16-3a56-3a23.png)                                                                                                                                                                                 
+   ![](assets/image2016-5-26-16-3a56-3a23.png)
 
-6. Repeat the above steps for any other fields you've created.
-
-7. Click Save when you're done.
+1. Repeat the above steps for any other fields you've created.
+1. Click Save when you're done.
 
 Easy enough, right?
 

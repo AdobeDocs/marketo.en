@@ -18,31 +18,31 @@ Here's how to verify and add sync fields.
 
 1. Go to Admin and click Microsoft Dynamics.
 
-![](assets/image2015-10-9-9-3a50-3a9.png)
+   ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-2. Click Edit on Field Sync Details.
+1. Click Edit on Field Sync Details.
 
-![](assets/image2015-10-9-9-3a52-3a23.png)
+   ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-3. Under Lead, check the Priority checkbox.
+1. Under Lead, check the Priority checkbox.
 
-![](assets/image2016-6-8-13-3a33-3a50.png)
+   ![](assets/image2016-6-8-13-3a33-3a50.png)
 
-4. Now, scroll down and check the Urgency checkbox...
+1. Now, scroll down and check the Urgency checkbox...
 
-![](assets/image2016-6-8-13-3a35-3a22.png)
+   ![](assets/image2016-6-8-13-3a35-3a22.png)
 
-5. ...and the Relative Score checkbox.
+1. ...and the Relative Score checkbox.
 
-![](assets/image2016-6-8-13-3a36-3a1.png)
+   ![](assets/image2016-6-8-13-3a36-3a1.png)
 
-6. Next, check the checkboxes for Priority, Urgency, and Relative Score for Contact.
+1. Next, check the checkboxes for Priority, Urgency, and Relative Score for Contact.
 
-![](assets/image2016-6-8-13-3a36-3a36.png)
+   ![](assets/image2016-6-8-13-3a36-3a36.png)
 
-7. Click Save.
+1. Click Save.
 
-![](assets/image2016-6-8-13-3a41-3a27.png)
+   ![](assets/image2016-6-8-13-3a41-3a27.png)
 
 >[!NOTE]
 >

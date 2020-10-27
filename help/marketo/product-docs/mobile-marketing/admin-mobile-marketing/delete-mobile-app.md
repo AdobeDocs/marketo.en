@@ -8,22 +8,22 @@ title: Delete Mobile App
 
 1. Click on Admin.
 
-![](assets/image2015-4-22-16-3a12-3a32.png)
+   ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-2. Select Mobile Apps.
+1. Select Mobile Apps.
 
-![](assets/image2015-4-22-16-3a14-3a29.png)
+   ![](assets/image2015-4-22-16-3a14-3a29.png)
 
-3. Select the desired mobile app.
+1. Select the desired mobile app.
 
-![](assets/image2015-4-22-17-3a22-3a11.png)
+   ![](assets/image2015-4-22-17-3a22-3a11.png)
 
-4. Click Mobile App Actions and select Delete App.
+1. Click Mobile App Actions and select Delete App.
 
-![](assets/image2015-4-22-17-3a21-3a51.png)
+   ![](assets/image2015-4-22-17-3a21-3a51.png)
 
-5. Confirm by clicking DELETE.
+1. Confirm by clicking DELETE.
 
-![](assets/image2015-4-22-17-3a23-3a18.png)
+   ![](assets/image2015-4-22-17-3a23-3a18.png)
 
 Ta-da! Push notification can no longer be sent from this mobile app. 

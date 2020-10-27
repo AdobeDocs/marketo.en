@@ -59,29 +59,29 @@ If you're using Workspaces in your Marketo account, you probably also have separ
 
 ![](assets/image2015-8-25-16-3a28-3a41.png)
 
-2.  Select the appropriate workspace for the web pages you wish to track.
+1.  Select the appropriate workspace for the web pages you wish to track.
 
-![](assets/image2015-8-25-16-3a30-3a32.png)
+   ![](assets/image2015-8-25-16-3a30-3a32.png)
 
 >[!NOTE]
 >
 >If you don't use the special workspace Munchkin code, the people will be assigned to the default partition that was created when your account was set up. It's named "Default" initially, but you might have changed that in your own Marketo account.
 
-3. Select Asynchronous for Tracking Code Type.
+1. Select Asynchronous for Tracking Code Type.
 
-![](assets/image2015-8-25-16-3a32-3a42.png)
+   ![](assets/image2015-8-25-16-3a32-3a42.png)
 
-4.  Click and copy the JavaScript tracking code to put on your website.
+1.  Click and copy the JavaScript tracking code to put on your website.
 
-![](assets/image2015-8-25-16-3a34-3a7.png)
+   ![](assets/image2015-8-25-16-3a34-3a7.png)
 
->[!CAUTION]
->
->Don’t use the code shown in this screenshot - you must use the unique code that appears in your account!
+   >[!CAUTION]
+   >
+   >Don’t use the code shown in this screenshot - you must use the unique code that appears in your account!
 
-5.  Place the tracking code on your web pages in the <head> element. New people that visit this page will be assigned to this partition.
+1.  Place the tracking code on your web pages in the <head> element. New people that visit this page will be assigned to this partition.
 
-![](assets/image2015-8-25-16-3a5-3a20.png)
+   ![](assets/image2015-8-25-16-3a5-3a20.png)
 
 >[!CAUTION]
 >
