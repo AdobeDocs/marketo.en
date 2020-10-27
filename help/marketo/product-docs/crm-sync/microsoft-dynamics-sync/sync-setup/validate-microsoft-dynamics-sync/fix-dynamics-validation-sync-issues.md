@@ -8,13 +8,13 @@ title: Fix Dynamics Validation Sync Issues
 
 ## Validate Sync Tool Results {#validate-sync-tool-results}
 
-##### When you run the Dynamics Validate Sync, it generates this report. If there's an ![--](assets/delete.png) next to a step, see below to identify and fix the problem. Then rerun the sync validation steps until the result shows nothing but checkmarks. {#when-you-run-the-dynamics-validate-sync-it-generates-this-report-if-theres-an-next-to-a-step-see-below-to-identify-and-fix-the-problem-then-rerun-the-sync-validation-steps-until-the-result-shows-nothing-but-checkmarks}
+When you run the Dynamics Validate Sync, it generates this report. If there's an ![delete](assets/delete.png) next to a step, see below to identify and fix the problem. Then rerun the sync validation steps until the result shows nothing but checkmarks. 
 
 ![](assets/image2015-9-22-15-3a58-3a12.png)
 
 ## URL is valid {#url-is-valid}
 
-If you have an ![--](assets/delete.png) here, verify that the URL is valid. Find it here in Developer Resources and look at Organization Service. The URL could be invalid for a number of reasons.
+If you have an ![delete](assets/delete.png) here, verify that the URL is valid. Find it here in Developer Resources and look at Organization Service. The URL could be invalid for a number of reasons.
 
 1. Log-in to Dynamics. Click the Settings icon and select **Advanced Settings**.
 

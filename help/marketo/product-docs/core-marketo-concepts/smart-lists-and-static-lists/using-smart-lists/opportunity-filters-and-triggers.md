@@ -20,15 +20,15 @@ Opportunity filters let you drill into your Salesforce leads who have opportunit
 * Opportunity was Removed
 * Opportunity was Updated
 
-If you're looking for your Opportunity fields (custom or standard), use the **Has Opportunity **filter or **Opportunity was [Added/Removed/Updated]** filters or triggers.
+If you're looking for your Opportunity fields (custom or standard), use the **Has Opportunity** filter or **Opportunity was `[Added/Removed/Updated]`** filters or triggers.
 
-###### Number of Optys, Total Opty Amount, Total Opty Expected Revenue {#number-of-optys-total-opty-amount-total-opty-expected-revenue}
+**Number of Optys, Total Opty Amount, Total Opty Expected Revenue**
 
 With these filters, you can find leads based on the total number, amount, or expected revenue of all their opportunities.
 
 ![](assets/image2015-6-11-12-3a29-3a34.png)
 
-###### Has Opportunity, Was Added to Opportunity, Was Removed from Opportunity {#has-opportunity-was-added-to-opportunity-was-removed-from-opportunity}
+**Has Opportunity, Was Added to Opportunity, Was Removed from Opportunity**
 
 If you're looking for leads who have opportunities based on a combination of criteria, use the **Has Opportunity**, **Was Added to Opportunity**, or **Was Removed from Opportunity** filter. They tell you:
 
@@ -50,7 +50,7 @@ For example, say you want to find leads who have open opportunities of at least 
 >
 >When you use multiple Opportunity filters, you may get incorrect answers. If you built the example above with two Opportunity filters, you would get a list of leads who have any opportunity that is at least $5,000 and any opportunity that is closed, even if those are separate opportunities.
 
-###### Opportunity was Updated {#opportunity-was-updated}
+**Opportunity was Updated**
 
 The **Opportunity was Updated** filter looks for any opportunity when a specific opportunity field was updated. Pick the field to check with the Trigger Attribute pulldown, then use the constraints to narrow down the set of changes.
 

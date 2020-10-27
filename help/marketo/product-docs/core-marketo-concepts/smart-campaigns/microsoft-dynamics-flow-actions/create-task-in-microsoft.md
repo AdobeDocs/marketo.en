@@ -28,5 +28,5 @@ Customize all fields to create the task the way you want it.   ![](assets/msd2.p
 
 >[!TIP]
 >
->You can use {{lead.tokens}}, {{company.tokens}}, {{campaign.tokens}} and {{system.tokens}} in the **Subject** and **Description**. See  [Tokens for Flow Steps](http://docs.marketo.com/x/c4AR) for more details.
+>You can use `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` and `{{system.tokens}}` in the **Subject** and **Description**. See [Tokens for Flow Steps](http://docs.marketo.com/x/c4AR) for more details.
 

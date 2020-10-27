@@ -40,13 +40,13 @@ You can export your member list by clicking the Excel icon next to the search fi
 
 ## Manage Columns in the Members Grid {#manage-columns-in-the-members-grid}
 
-##### Drag and drop columns to change their order. The pair of blue arrows indicate where the column will go.  {#drag-and-drop-columns-to-change-their-order-the-pair-of-blue-arrows-indicate-where-the-column-will-go}
+* Drag and drop columns to change their order. The pair of blue arrows indicate where the column will go.
 
-![](assets/image2014-10-1-16-3a25-3a30.png)
+  ![](assets/image2014-10-1-16-3a25-3a30.png)
 
-Right-click the column header to sort alphabetically, either ascending or descending.
+* Right-click the column header to sort alphabetically, either ascending or descending.
 
-![](assets/image2014-10-1-17-3a3-3a28.png)
+  ![](assets/image2014-10-1-17-3a3-3a28.png)
 
 ## Choose Which Columns are Visible in the Grid {#choose-which-columns-are-visible-in-the-grid}
 

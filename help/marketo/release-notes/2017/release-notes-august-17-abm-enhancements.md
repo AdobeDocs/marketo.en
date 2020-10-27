@@ -10,10 +10,9 @@ The following features are included in the August '17 ABM enhancement release. C
 
 Please click the title links to view detailed articles for each feature.
 
-## [Account Insight](../../product-docs/account-based-marketing/setup-abm/account-insight-plug-in-overview.md)  
-{#account-insight}
+## Account Insight {#account-insight}
 
-Account Insight is a Google Chrome plug-in that surfaces actionable ABM and account insights to your sales teams, enabling them to work closely with marketing to engage accounts effectively. Sales teams will get visibility into the data and insights generated for each of the Named Accounts they own. This will include account score percentiles, a prioritized list of their Named Accounts, engaged people within those accounts, and a live activity stream of recent activities from the account.
+[Account Insight](../../product-docs/account-based-marketing/setup-abm/account-insight-plug-in-overview.md) is a Google Chrome plug-in that surfaces actionable ABM and account insights to your sales teams, enabling them to work closely with marketing to engage accounts effectively. Sales teams will get visibility into the data and insights generated for each of the Named Accounts they own. This will include account score percentiles, a prioritized list of their Named Accounts, engaged people within those accounts, and a live activity stream of recent activities from the account.
 
 ![](assets/image001.png) ![](assets/image002.png)
 

@@ -22,7 +22,7 @@ Hidden fields are usually populated dynamically. They are not shown to the perso
 
 ## Use Default Value {#use-default-value}
 
-##### By selecting Use Default Value you can hard-code a specific value to always be used when this form is submitted. Enter the Default Value and click Save. {#by-selecting-use-default-value-you-can-hard-code-a-specific-value-to-always-be-used-when-this-form-is-submitted-enter-the-default-value-and-click-save}
+By selecting Use Default Value you can hard-code a specific value to always be used when this form is submitted. Enter the Default Value and click Save.
 
 ![](assets/image2014-9-15-13-3a5-3a27.png)
 

@@ -37,8 +37,7 @@ Workspaces are separate areas in Marketo that hold marketing assets like program
 >
 >Learn how to create [create a new workspace](create-a-new-workspace.md).
 
-## Sharing across Workspaces    
-{#sharing-across-workspaces}
+## Sharing across Workspaces {#sharing-across-workspaces}
 
 Here's how to share assets across workspaces. It works the same for anything you want to share; this example shows segmentations.
 

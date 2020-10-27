@@ -14,7 +14,7 @@ If you are using [workspaces and partitions](http://docs.marketo.com/x/9QMk), yo
 
 ## Usage {#usage}
 
-##### 1. Select the Partition you want to move your people to. {#select-the-partition-you-want-to-move-your-people-to}
+1. Select the Partition you want to move your people to.
 
 ![](assets/two-3.png)
 

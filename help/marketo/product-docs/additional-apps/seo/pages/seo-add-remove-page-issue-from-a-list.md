@@ -32,12 +32,13 @@ You can organize your page issues into lists. You can also remove page issues fr
 
 ## Remove Page Issue From a List {#remove-page-issue-from-a-list}
 
-##### Go to the Pages section.  {#go-to-the-pages-section}
+1. Go to the Pages section.
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
 1. On the pages tab, click **Issues**. 
-1. ![](assets/image2014-9-18-14-3a4-3a22.png)
+
+   ![](assets/image2014-9-18-14-3a4-3a22.png)
 
 1. Click the list you'd like to organize.
 
@@ -51,5 +52,4 @@ You can organize your page issues into lists. You can also remove page issues fr
 
    ![](assets/image2014-9-18-14-3a4-3a52.png)
 
-   Excellent! Refresh your page and you will no longer see it on the list.
-
+Excellent! Refresh your page and you will no longer see it on the list.

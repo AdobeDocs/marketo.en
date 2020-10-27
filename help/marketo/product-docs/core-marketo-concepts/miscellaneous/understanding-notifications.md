@@ -10,13 +10,13 @@ Notifications keep you up-to-date on system events happening in your Marketo sub
 
 ## Overview {#overview}
 
-##### 1. New notifications appear on the top right of Marketo. {#new-notifications-appear-on-the-top-right-of-marketo}
+1. New notifications appear on the top right of Marketo.
 
-![](assets/image2014-10-10-11-3a32-3a48.png)
+   ![](assets/image2014-10-10-11-3a32-3a48.png)
 
-2.  Click Notifications to view all your notifications.
+1. Click Notifications to view all your notifications.
 
-![](assets/image2014-10-10-11-3a55-3a44.png) 
+   ![](assets/image2014-10-10-11-3a55-3a44.png) 
 
 ## Subscribe to Notifications {#subscribe-to-notifications}
 

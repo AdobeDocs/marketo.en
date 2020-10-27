@@ -10,9 +10,9 @@ You can use these system tokens to customize the position of special links in yo
 
 The following tokens can be used as links in an email or email template:
 
-* {{system.forwardToFriendLink}}
-* {{system.unsubscribeLink}}
-* {{system.viewAsWebpageLink}}
+* `{{system.forwardToFriendLink}}`
+* `{{system.unsubscribeLink}}`
+* `{{system.viewAsWebpageLink}}`
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ Here's how to add them to an email:
 
    >[!TIP]
    >
-   >Copy/Paste the token you want: **{{system.forwardToFriendLink}}** or **{{system.unsubscribeLink}}** or **{{system.viewAsWebpageLink}}**
+   >Copy/Paste the token you want: **`{{system.forwardToFriendLink}}`** or **`{{system.unsubscribeLink}}`** or **`{{system.viewAsWebpageLink}}`**
 
 1. Click **Save**.
 

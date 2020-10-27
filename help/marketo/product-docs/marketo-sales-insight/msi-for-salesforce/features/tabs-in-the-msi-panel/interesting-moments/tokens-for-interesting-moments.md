@@ -22,8 +22,8 @@ Check out [Tokens Overview](../../../../../../product-docs/demand-generation/lan
 
 Based on the trigger used in a smart campaign, additional Trigger Tokens are made available.
 
-* {{trigger.Trigger Name}} which is always the actual trigger itself. For example: Clicks Link in Email.
-* {{trigger.Name}} is the name of the asset that triggered the campaign. For example: Clicks Link on Webpage is the URL itself, subject for Salesforce triggers, etc.
+* `{{trigger.Trigger Name}}` which is always the actual trigger itself. For example: Clicks Link in Email.
+* `{{trigger.Name}}` is the name of the asset that triggered the campaign. For example: Clicks Link on Webpage is the URL itself, subject for Salesforce triggers, etc.
 * Additional triggers are available based on constraints, which are listed below:
 
 <table> 
@@ -43,16 +43,16 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
  <tbody> 
   <tr> 
    <th><br></th> 
-   <th>{{trigger.Trigger Name}}</th> 
-   <th>{{trigger.Name}}</th> 
-   <th>{{trigger.Link}}</th> 
-   <th>{{trigger.Subject}}</th> 
-   <th>{{trigger.Category}}</th> 
-   <th>{{trigger.Details}}</th> 
-   <th>{{trigger.Web Page}}</th> 
-   <th>{{trigger.Client IP Address}}</th> 
-   <th>{{trigger.Sent By}}</th> 
-   <th>{{trigger.Received By}}</th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
   </tr> 
   <tr> 
    <td>Clicks Link in Email</td> 
@@ -232,9 +232,9 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
 
 &#42;The Trigger **Visits Web Page** has a few additional tokens:
 
-* {{trigger.Referrer}}
-* {{trigger.Search Engine}} 
-* {{trigger.Search Query}}
+* `{{trigger.Referrer}}`
+* `{{trigger.Search Engine}}` 
+* `{{trigger.Search Query}}`
 
 >[!TIP]
 >

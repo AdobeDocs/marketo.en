@@ -32,10 +32,10 @@ You can use the Wait flow step to pause a person's journey through a smart campa
 
 1. Choose a Date token to specify when the Wait step should end:
 
-    * {{my._____}}
-    * {{lead.______}}
-    * {{company.______}}
-    * {{system._______}}
+    * `{{my._____}}`
+    * `{{lead.______}}`
+    * `{{company.______}}`
+    * `{{system._______}}`
 
    ![](assets/image2014-9-22-14-3a9-3a33.png)
 

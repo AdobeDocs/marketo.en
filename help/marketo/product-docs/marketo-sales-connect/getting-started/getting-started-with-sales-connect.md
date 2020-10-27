@@ -52,8 +52,7 @@ To connect your Sales Connect account to your Salesforce account, as an Admin or
 >
 >The instance of Salesforce you connect to must be the same instance that is (or will be) connected to Marketo.
 
-## Acquiring Credentials Prior to Connecting Sales Connect with Marketo   
-{#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
+## Acquiring Credentials Prior to Connecting Sales Connect with Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
 You'll need to get a set of credentials from within Marketo. These credentials will be used later by the Sales Connect Admin to connect Marketo with Sales Connect.
 

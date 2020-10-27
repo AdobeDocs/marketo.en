@@ -60,31 +60,31 @@ The new user is now listed in the Users tab and will receive an email with instr
 
 ## Delete Users {#delete-users}
 
-##### 1. Go to Admin and click Users & Roles. {#go-to-admin-and-click-users-roles}
+1. Go to Admin and click Users & Roles.
 
-![](assets/image2014-9-9-11-3a36-3a21.png)
+   ![](assets/image2014-9-9-11-3a36-3a21.png)
 
-2. Select the user you want to remove and click Delete User.
+1. Select the user you want to remove and click Delete User.
 
-![](assets/image2014-9-9-11-3a36-3a36.png)
+   ![](assets/image2014-9-9-11-3a36-3a36.png)
 
-3. Confirm by clicking OK.
+1. Confirm by clicking OK.
 
-![](assets/image2014-9-9-11-3a36-3a51.png) 
+   ![](assets/image2014-9-9-11-3a36-3a51.png) 
 
 ## Reset User Passwords {#reset-user-passwords}
 
-##### 1. Go to Admin and click Users & Roles. {#go-to-admin-and-click-users-roles-1}
+1. Go to Admin and click Users & Roles.
 
-![](assets/image2014-9-9-11-3a41-3a0.png)
+   ![](assets/image2014-9-9-11-3a41-3a0.png)
 
-2. Select a user and click Reset Password.
+1. Select a user and click Reset Password.
 
-![](assets/image2014-9-9-11-3a41-3a19.png)
+   ![](assets/image2014-9-9-11-3a41-3a19.png)
 
-3. Click Close to dismiss the prompt.
+1. Click Close to dismiss the prompt.
 
-![](assets/image2014-9-9-11-3a41-3a50.png)
+   ![](assets/image2014-9-9-11-3a41-3a50.png)
 
 The user will receive an email with password reset instructions.
 

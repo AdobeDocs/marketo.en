@@ -43,6 +43,6 @@ In the My Tokens tab of your campaign folder or program, click the **Value** of 
 
 ## Copy a Token Name
 
-To copy the name of a token to your clipboard (i.e., {{my.Event Calendar File}}), right-click the token and select **Copy Token Name**.
+To copy the name of a token to your clipboard (i.e., `{{my.Event Calendar File}}`), right-click the token and select **Copy Token Name**.
 
    ![Image Seven](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-7.png)

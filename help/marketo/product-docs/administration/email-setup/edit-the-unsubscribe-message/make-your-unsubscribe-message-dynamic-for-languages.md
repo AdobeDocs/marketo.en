@@ -82,7 +82,7 @@ The default unsubscribe message and link are in English. You can use dynamic con
 
    ![](assets/image2015-3-9-8-3a41-3a47.png)
 
-1. Copy and paste this token**: ****{{system.unsubscribeLink}}** into the **Link URL** field. Click **Insert**. 
+1. Copy and paste this token: **`{{system.unsubscribeLink}}`** into the **Link URL** field. Click **Insert**. 
 
    ![](assets/image2015-3-9-8-3a43-3a17.png)
 
@@ -98,11 +98,11 @@ The default unsubscribe message and link are in English. You can use dynamic con
 
    ![](assets/image2015-3-9-8-3a45-3a43.png)
 
-1. Copy and paste the same token:** ****{{system.unsubscribeLink}}** into the Link URL field. Click** Insert**. 
+1. Copy and paste the same token: **`{{system.unsubscribeLink}}`** into the **Link URL** field. Click **Insert**. 
 
    ![](assets/image2015-3-9-8-3a47-3a4.png)
 
-1. Repeat for all your segments. Then, go back to the Design Studio, click the **Snippet Actions **drop-down, and click **Approve**. 
+1. Repeat for all your segments. Then, go back to the Design Studio, click the **Snippet Actions** drop-down, and click **Approve**. 
 
    ![](assets/image2015-3-9-8-3a47-3a34.png)
 

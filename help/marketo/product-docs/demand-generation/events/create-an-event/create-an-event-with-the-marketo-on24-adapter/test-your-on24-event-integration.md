@@ -17,7 +17,7 @@ Make sure to test your event integration thoroughly.
 
    >[!NOTE]
    >
-   >You must use the {{member.webinar url}} token in your confirmation email in order for the unique URL to show in each registrant’s email.
+   >You must use the `{{member.webinar url}}` token in your confirmation email in order for the unique URL to show in each registrant’s email.
 
 ## After the Event {#after-the-event}
 

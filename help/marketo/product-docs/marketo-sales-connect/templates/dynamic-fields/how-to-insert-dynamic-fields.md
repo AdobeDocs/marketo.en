@@ -6,7 +6,7 @@ title: How to Insert Dynamic Fields
 
 # How to Insert Dynamic Fields {#how-to-insert-dynamic-fields}
 
-We allow you to personalize your email templates with predefined attributes like {{first_name}} or {{company}}. These fields allow you to email multiple contacts and auto-complete these fields without having to type them out separately for each contact.
+We allow you to personalize your email templates with predefined attributes like `{{first_name}}` or `{{company}}`. These fields allow you to email multiple contacts and auto-complete these fields without having to type them out separately for each contact.
 
 >[!TIP]
 >

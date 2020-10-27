@@ -48,21 +48,21 @@ You can assign roles to a user when you [create users for the first time](http:/
 
 Sometimes, your organization has employees in very specific roles that require a custom combination of permissions.  
 
-##### 1. To create a new user role, go to Admin and click Users & Roles. {#to-create-a-new-user-role-go-to-admin-and-click-users-roles}
+1. To create a new user role, go to Admin and click Users & Roles.
 
-![](assets/image2014-9-9-18-3a8-3a12.png)
+   ![](assets/image2014-9-9-18-3a8-3a12.png)
 
-2. Click the Roles tab.
+1. Click the Roles tab.
 
-![](assets/image2014-9-9-18-3a8-3a22.png)
+   ![](assets/image2014-9-9-18-3a8-3a22.png)
 
-3. Click New Role.
+1. Click New Role.
 
-![](assets/image2014-9-9-18-3a8-3a38.png)
+   ![](assets/image2014-9-9-18-3a8-3a38.png)
 
-4. Enter a Role Name, a Description (optional), and select the permissions that users in this role will need.
+1. Enter a Role Name, a Description (optional), and select the permissions that users in this role will need.
 
-![](assets/image2014-9-9-18-3a9-3a3.png) 
+   ![](assets/image2014-9-9-18-3a9-3a3.png) 
 
 ## Edit a Role {#edit-a-role}
 
@@ -92,21 +92,21 @@ If you need to change the permissions that are associated with an existing role,
 
 If a role becomes unnecessary, you can delete it.  
 
-##### 1. Go to Admin and click Users & Roles. {#go-to-admin-and-click-users-roles}
+1. Go to Admin and click Users & Roles.
 
-![](assets/image2014-9-9-18-3a10-3a15.png)
+   ![](assets/image2014-9-9-18-3a10-3a15.png)
 
-2. Click the Roles tab.
+1. Click the Roles tab.
 
-![](assets/image2014-9-9-18-3a10-3a27.png)
+   ![](assets/image2014-9-9-18-3a10-3a27.png)
 
-3. From the list, select the role you want to delete and click Delete Role.
+1. From the list, select the role you want to delete and click Delete Role.
 
-![](assets/image2014-9-9-18-3a10-3a39.png)
+   ![](assets/image2014-9-9-18-3a10-3a39.png)
 
-4. Click Delete to confirm.
+1. Click Delete to confirm.
 
-![](assets/image2014-9-9-18-3a10-3a50.png)
+   ![](assets/image2014-9-9-18-3a10-3a50.png)
 
 >[!NOTE]
 >
@@ -119,4 +119,3 @@ If a role becomes unnecessary, you can delete it.
 >**Deep Dive**
 >
 >Learn about other administrative tasks in the [Admin](http://docs.marketo.com/display/docs/administration) deep dive.
-

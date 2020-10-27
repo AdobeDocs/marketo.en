@@ -52,7 +52,7 @@ Figure 5. Check them in
 
 ## Enhanced Webinar Confirmation URL {#enhanced-webinar-confirmation-url}
 
-Now available for ON24 and Adobe Connect! Include a unique link in the confirmation email for each registered attendee using the new {{member.webinar URL}} token. Adobe Connect enhancements also include the ability to turn on/off the Adobe account information email that includes the login ID and password for the user.
+Now available for ON24 and Adobe Connect! Include a unique link in the confirmation email for each registered attendee using the new `{{member.webinar URL}}` token. Adobe Connect enhancements also include the ability to turn on/off the Adobe account information email that includes the login ID and password for the user.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 

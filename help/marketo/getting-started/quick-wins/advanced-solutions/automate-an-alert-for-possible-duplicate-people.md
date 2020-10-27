@@ -31,7 +31,7 @@ Want an alert every time possible duplicate person is created? Here is how to se
 
    >[!TIP]
    >
-   >Using the [Send Alert Info token](../../../product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token-{{sp_send_alert_info}}.md) to include a link to the person in your CRM.
+   >Using the [Send Alert Info token](../../../product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) to include a link to the person in your CRM.
 
    >[!CAUTION]
    >

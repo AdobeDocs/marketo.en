@@ -60,7 +60,7 @@ View your personas by visiting a specific Named Account.
 
 ## Persona Filters {#persona-filters}
 
-##### Use persona filters in a smart list to market to a specific group of people. {#use-persona-filters-in-a-smart-list-to-market-to-a-specific-group-of-people}
+1. Use persona filters in a smart list to market to a specific group of people.
 
 ![](assets/one-b.png)
 

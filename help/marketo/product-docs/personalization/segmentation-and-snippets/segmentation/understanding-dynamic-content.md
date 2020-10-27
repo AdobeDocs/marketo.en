@@ -6,7 +6,7 @@ title: Understanding Dynamic Content
 
 # Understanding Dynamic Content {#understanding-dynamic-content}
 
-There is a lot more to personalization than just "Hi {{First Name}}". With Marketo dynamic content, you can customize how different people see a landing page or email.
+There is a lot more to personalization than just "Hi `{{First Name}}`". With Marketo dynamic content, you can customize how different people see a landing page or email.
 
 >[!NOTE]
 >

@@ -48,11 +48,9 @@ Agenda view displays all of your entries as a list.
 
 ## Navigate Through Time {#navigate-through-time}
 
-##### Without a DeLorean! Just click the navigation buttons.  {#without-a-delorean-just-click-the-navigation-buttons}
+Without a DeLorean! Just click the navigation buttons.
 
-` ![](assets/image2014-9-26-10-3a31-3a25.png)
-
-`
+![](assets/image2014-9-26-10-3a31-3a25.png)
 
 You can also use these keyboard shortcuts.
 
@@ -69,5 +67,3 @@ Awesome! These are the basics. You can also customize your view using filters.
 >**Related Articles**
 >
 >* [Filtering the Marketing Calendar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
->
-

@@ -36,7 +36,7 @@ Use webhooks to take advantage of third-party web services to send text messages
    >
    >This often includes entering your third-party service credentials as a URL parameter, or in the POST template.
 
-    * **URL**: Enter the URL you use to POST your request to the web service. To insert a token, such as the person's email address (**{{lead.Email Address}}**), in your request, click **Insert Token**.
+    * **URL**: Enter the URL you use to POST your request to the web service. To insert a token, such as the person's email address (**`{{lead.Email Address}}`**), in your request, click **Insert Token**.
     
     * **Template**: If you wish to transmit information in the body of the POST, enter the template. Use any data format that supports HTTP POST, including XML, JSON, or SOAP. To insert a token in your template, click **Insert Token**.
     

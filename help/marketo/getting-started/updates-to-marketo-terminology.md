@@ -68,7 +68,7 @@ Lead and Person **are the same thing**.
 
 ## Tokens {#tokens}
 
-Tokens with the word lead in them **are not changing**. We apologize for any confusion; however changing all tokens to match the new terminology would break a whole lot of tokens currently in use. So you will still see tokens such as "{{lead.First Name}}." There are no person-specific tokens.
+Tokens with the word lead in them **are not changing**. We apologize for any confusion; however changing all tokens to match the new terminology would break a whole lot of tokens currently in use. So you will still see tokens such as "`{{lead.First Name}}`." There are no person-specific tokens.
 
 >[!NOTE]
 >

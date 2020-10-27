@@ -14,12 +14,12 @@ In addition to My Tokens, you can also use any of the built-in tokens in your pr
 
 My Tokens are custom variables that anyone can create. They are [created](managing-my-tokens.md) in either campaign folders or programs.
 
-My Tokens are displayed like this: {{my.Name Of Token}}
+My Tokens are displayed like this: `{{my.Name Of Token}}`
 
 Examples:
 
-* {{my.Event Date}}
-* {{my.Webinar Speaker}}
+* `{{my.Event Date}}`
+* `{{my.Webinar Speaker}}`
 
 <table> 
  <thead> 

@@ -26,29 +26,29 @@ Let's imagine that at your recent tradeshow, a person gave you some additional c
 
 ## Find the Person You Need to Update {#find-the-person-you-need-to-update}
 
-##### Go to your Database. {#go-to-your-database}
+1. Go to your Database.
 
-![](assets/db-3.png)
+   ![](assets/db-3.png)
 
-Search the person's name or email address.
+1. Search the person's name or email address.
 
->[!TIP]
->
->Using the email address to search will result in faster search.
+   >[!TIP]
+   >
+   >Using the email address to search will result in faster search.
 
-![](assets/two-rubiks.png)
+   ![](assets/two-rubiks.png)
 
-Double-click to open the person detail.
+1. Double-click to open the person detail.
 
-![](assets/three-rubiks.png)
+   ![](assets/three-rubiks.png)
 
->[!TIP]
->
->There are lots of ways to update person data in Marketo. See [Import a List of People](import-a-list-of-people.md) and [Change Data Value](../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+   >[!TIP]
+   >
+   >There are lots of ways to update person data in Marketo. See [Import a List of People](import-a-list-of-people.md) and [Change Data Value](../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
 ## Update the Person Data {#update-the-person-data}
 
-##### Type in the new info you received and then close the tab. {#type-in-the-new-info-you-received-and-then-close-the-tab}
+1. Type in the new info you received and then close the tab.
 
 ![](assets/four-rubiks.png)
 

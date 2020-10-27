@@ -10,8 +10,7 @@ You probably know by now that programs are like building blocks in Marketo. Util
 
 Tags are used to describe programs. You can make as many as you need, each with unique values. Channels identify the delivery mechanism in a program, such as webinar, sponsorship, or online ad.
 
-## Tag Type  
-{#tag-type}
+## Tag Type {#tag-type}
 
 Tag types identify the kind of information you want to sort by.
 

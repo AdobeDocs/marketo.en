@@ -58,7 +58,7 @@ Some triggers and filters offer additional constraints, such as:
 
 ## Triggers and Filters {#triggers-and-filters}
 
-##### Has Mobile App {#has-mobile-app}
+**Has Mobile App**
 
 Use this filter to find out all people who have ever had your app installed. This is available only as a filter.
 

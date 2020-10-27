@@ -10,7 +10,7 @@ Account Profiling identifies your Ideal Customer Profile (ICP), ranks companies 
 
 ## Model Results {#model-results}
 
-##### The results show you all of your known accounts broken down by grade. A is the highest grade, D is the lowest. {#the-results-show-you-all-of-your-known-accounts-broken-down-by-grade-a-is-the-highest-grade-d-is-the-lowest}
+The results show you all of your known accounts broken down by grade. A is the highest grade, D is the lowest.
 
 ![](assets/results.png)
 
@@ -51,7 +51,7 @@ While optional, we recommend selecting the Automatically promote checkbox, as it
 
 ## Model Tuning {#model-tuning}
 
-##### In the Model tab, click the Tune Model button. {#in-the-model-tab-click-the-tune-model-button}
+In the Model tab, click the Tune Model button.
 
 ![](assets/two.png)
 

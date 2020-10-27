@@ -39,7 +39,7 @@ Use Marketo to send out the confirmation email for your event. When a person reg
 >
 >**Reminder**
 >
->To populate your confirmation email with this unique URL, use the following token in your email: {{member.webinar url}}. When you send out the confirmation URL, this token automatically resolves to the person’s unique confirmation URL.
+>To populate your confirmation email with this unique URL, use the following token in your email: `{{member.webinar url}}`. When you send out the confirmation URL, this token automatically resolves to the person’s unique confirmation URL.
 >
 >Set the type of your confirmation email to **Operational** to ensure that people who register receive their confirmation information, even if they are unsubscribed.
 
@@ -80,13 +80,13 @@ This flow step is required as the FIRST FLOW STEP when setting up your child cam
 
 * **Send Email** - Confirmation email. Set this email to **Operational** so that unsubscribed people that have registered still receive it.
 
-The **Send Email** flow step MUST be the second step. The confirmation email contains the {{member.webinar url}}, which is populated with information sent back to Marketo from ON24.
+The **Send Email** flow step MUST be the second step. The confirmation email contains the `{{member.webinar url}}`, which is populated with information sent back to Marketo from ON24.
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->The order of these flow steps is important because of the order in which actions are performed in Marketo. The **Change Program Status** step sends the person to ON24 to register and a unique URL is generated. After this occurs, you can then send out the confirmation email that includes this unique URL using the {{member.webinar URL}} token.
+>The order of these flow steps is important because of the order in which actions are performed in Marketo. The **Change Program Status** step sends the person to ON24 to register and a unique URL is generated. After this occurs, you can then send out the confirmation email that includes this unique URL using the `{{member.webinar URL}}` token.
 >
 >If the person is returned with a registration error, they will not receive the email confirmation.
 

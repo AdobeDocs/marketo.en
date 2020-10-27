@@ -1008,7 +1008,7 @@ user-guide-description: Marketo product documentation
         + [Add Tokens to an Email Link](product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)
         + [Create an Email Script Token](product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)
         + [System Tokens Glossary](product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)
-        + [Use the Send Alert Info Token {{SP_Send_Alert_Info}}](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token-{{sp_send_alert_info}}.md)
+        + [Use the Send Alert Info Token](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
         + [Using URLs in My Tokens](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
       + [Email CC](product-docs/email-marketing/general/email-cc.md)
   + Marketo Sales Connect {#marketo-sales-connect}

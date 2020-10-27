@@ -12,19 +12,19 @@ Did you know you can add notes to page issues as personal reminders or team mess
 
 #### Adding Notes in Page Issues Section {#adding-notes-in-page-issues-section}
 
-##### 1. Go to the Pages section. {#go-to-the-pages-section}
+1. Go to the Pages section.
 
-![](assets/image2014-9-18-13-3a11-3a43.png)
+   ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-2. On the pages tab, click Issues.
+1. On the pages tab, click Issues.
 
-![](assets/image2014-9-18-13-3a12-3a0.png)
+   ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-3. Hover over the issue you'd like to add a note to. Click ADD STICKY NOTE. 
+1. Hover over the issue you'd like to add a note to. Click ADD STICKY NOTE. 
 
-![](assets/image2014-9-18-13-3a12-3a6.png)
+   ![](assets/image2014-9-18-13-3a12-3a6.png)
 
-4. Enter a note in the yellow text box. Clicking outside of the text box will save the note. 
+1. Enter a note in the yellow text box. Clicking outside of the text box will save the note. 
 
 ![](assets/image2014-9-18-13-3a12-3a32.png)
 

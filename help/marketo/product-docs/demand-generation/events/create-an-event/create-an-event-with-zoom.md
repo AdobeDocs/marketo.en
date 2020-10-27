@@ -79,7 +79,7 @@ Now, let's jump into Marketo!
 
    >[!TIP]
    >
-   >To populate your confirmation email with this unique URL, use the following token in your email: {{member.webinar url}}. When the confirmation URL is sent out, this token automatically resolves to the person's unique confirmation URL. 
+   >To populate your confirmation email with this unique URL, use the following token in your email: `{{member.webinar url}}`. When the confirmation URL is sent out, this token automatically resolves to the person's unique confirmation URL. 
    >
    >
    >Set your confirmation email to **Operational** to ensure that people who register and may be unsubscribed still receive their confirmation information.

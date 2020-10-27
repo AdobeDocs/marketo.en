@@ -52,7 +52,7 @@ First, make sure you've created your meeting or seminar in Adobe Connect. If you
 
    >[!TIP]
    >
-   >To insert the person’s unique URL into an email, use this token: {{member.webinar url}}. When the email is sent, this token automatically resolves the person’s unique confirmation URL from Adobe Connect. 
+   >To insert the person’s unique URL into an email, use this token: `{{member.webinar url}}`. When the email is sent, this token automatically resolves the person’s unique confirmation URL from Adobe Connect. 
    >
    >
    >Set your confirmation email to **Operational** to ensure that people who register and may be unsubscribed still receive their confirmation information.

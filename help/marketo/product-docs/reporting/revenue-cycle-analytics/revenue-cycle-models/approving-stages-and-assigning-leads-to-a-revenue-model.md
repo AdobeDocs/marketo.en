@@ -8,8 +8,7 @@ title: Approving Stages and Assigning Leads to a Revenue Model
 
 Get your **Revenue** **Model** up and running by adding existing leads, creating assignment rules for any new leads.  
 
-## Approving Stages  
-{#approving-stages}
+## Approving Stages {#approving-stages}
 
 Let's approve the stages of your model before you add any leads.
 

@@ -207,8 +207,7 @@ Access SEO
 * Administer SEO
 * Standard SEO
 
-## Targeting and Personalization  
-{#targeting-and-personalization}
+## Targeting and Personalization {#targeting-and-personalization}
 
 * Administer Web Personalization
 * CRE Campaign Editor

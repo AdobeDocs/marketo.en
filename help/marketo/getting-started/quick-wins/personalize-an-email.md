@@ -76,7 +76,7 @@ If you haven't enabled a pop-up blocker, the email editor will open in a new tab
 
    ![](assets/ten-4.png)
 
-1. Find and select the **{{lead.First Name}}** token.
+1. Find and select the **`{{lead.First Name}}`** token.
 
    ![](assets/eleven-4.png)
 

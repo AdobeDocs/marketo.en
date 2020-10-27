@@ -12,7 +12,7 @@ After the release, be sure to check out the [New Release](release-notes-december
 
 ## Marketo Calendar Files {#marketo-calendar-files}
 
-Create a calendar file as a **My Token** to be used in your event confirmation and reminder emails. This integrated calendar file (e.g. .ics file) will render all tokens, including My Tokens and the {{member.webinar URL}} token.
+Create a calendar file as a **My Token** to be used in your event confirmation and reminder emails. This integrated calendar file (e.g. .ics file) will render all tokens, including My Tokens and the `{{member.webinar URL}}` token.
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 

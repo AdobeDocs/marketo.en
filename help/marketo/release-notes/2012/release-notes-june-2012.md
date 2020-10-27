@@ -64,7 +64,7 @@ When scheduling a campaign, you can click on the link to see the list of leads t
 
 ## Wait Step - Lead Token and My Token {#wait-step-lead-token-and-my-token}
 
-In our May release, we added advanced options to the Wait flow step. With these changes, you can specify a business day, date, and time. In this release, we added the ability to use a token in the wait step. For example, you may want to use {{lead.Birthday}} to send an email on their Birthday, or use {{my.Event Date}} to send a final webinar reminder.
+In our May release, we added advanced options to the Wait flow step. With these changes, you can specify a business day, date, and time. In this release, we added the ability to use a token in the wait step. For example, you may want to use `{{lead.Birthday}}` to send an email on their Birthday, or use `{{my.Event Date}}` to send a final webinar reminder.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 

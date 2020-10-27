@@ -19,35 +19,34 @@ English isn't your first language? Don't worry, we have you covered. Here's how 
 
 ## Change User Language, Locale, and Time Zone {#change-user-language-locale-and-time-zone}
 
-##### 1. Login to Marketo and under your name select My Account. {#login-to-marketo-and-under-your-name-select-my-account}
+1. Login to Marketo and under your name select My Account.
 
-![](assets/myaccount.png)
+   ![](assets/myaccount.png)
 
-2. Under My Account, click Edit Location Settings.
+1. Under My Account, click Edit Location Settings.
 
-![](assets/image2014-9-9-11-3a9-3a47.png)
+   ![](assets/image2014-9-9-11-3a9-3a47.png)
 
-3. Change your Language.
+1. Change your Language.
 
-![](assets/image2014-9-9-11-3a10-3a4.png)
+   ![](assets/image2014-9-9-11-3a10-3a4.png)
 
->[!TIP]
->
->You also have the option of changing just your language by clicking the language drop-down at the top of the login page.
+   >[!TIP]
+   >
+   >You also have the option of changing just your language by clicking the language drop-down at the top of the login page.
 
-4. Change your Locale.
+1. Change your Locale.
 
-![](assets/image2014-9-9-11-3a10-3a29.png)
+   ![](assets/image2014-9-9-11-3a10-3a29.png)
 
-5. Change your Time zone.
+1. Change your Time zone.
 
-![](assets/image2014-9-9-11-3a10-3a56.png)
+   ![](assets/image2014-9-9-11-3a10-3a56.png)
 
-6. Click Save.
+1. Click Save.
 
-![](assets/image2014-9-9-11-3a11-3a18.png)
+   ![](assets/image2014-9-9-11-3a11-3a18.png)
 
 Nice job! Your browser will refresh and you should see the changes reflected.
 
 ![](assets/image2014-9-9-11-3a12-3a2.png)
-

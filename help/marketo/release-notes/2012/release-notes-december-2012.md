@@ -12,7 +12,7 @@ The December release includes the much anticipated **Forward to Friend** feature
 
 Enable the sharing of content with others by including a **Forward to Friend** link in your emails. The addition of new filters and triggers will help you identify your influencers, by identifying users who forwarded an email, as well as those who received the forwarded emails.
 
-To include a **Forward to Friend** invitation in your email, open it in the editor and insert the {{system.forwardToFriendLink}} token.
+To include a **Forward to Friend** invitation in your email, open it in the editor and insert the `{{system.forwardToFriendLink}}` token.
 
 ![](assets/image2014-9-23-10-3a50-3a45.png)
 

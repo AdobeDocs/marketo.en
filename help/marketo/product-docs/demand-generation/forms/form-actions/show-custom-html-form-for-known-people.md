@@ -42,10 +42,10 @@ If a visitor is cookied (known person who provided an email address in the past)
 
    | Token |Description |
    |---|---|
-   | {{lead.FirstName}} |This will display the person's first name. |
-   | {{lead.LastName}} |This will display the person's last name. |
-   | {{form.Button:default=Download}} |This will display the form button. Replace the area after the **=** to change the button text. |
-   | {{form.NotYou:default=Not you?}} |This will display a link in case the person is someone else. Replace the area after the **=** to change the link text. |
+   | `{{lead.FirstName}}` |This will display the person's first name. |
+   | `{{lead.LastName}}` |This will display the person's last name. |
+   | `{{form.Button:default=Download}}` |This will display the form button. Replace the area after the `=` to change the button text. |
+   | `{{form.NotYou:default=Not you?}}` |This will display a link in case the person is someone else. Replace the area after the `=` to change the link text. |
 
    >[!CAUTION]
    >

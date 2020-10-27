@@ -64,13 +64,13 @@ You will be controlling the invitation list, registration form, and other emails
 
   >[!TIP]
   >
-  >To populate your confirmation email with this unique URL, use the following token in your email: {{member.webinar url}}. When the confirmation URL is sent out, this token automatically resolves to the person's unique confirmation URL. 
+  >To populate your confirmation email with this unique URL, use the following token in your email: `{{member.webinar url}}`. When the confirmation URL is sent out, this token automatically resolves to the person's unique confirmation URL. 
   >
   >
   >Set your confirmation email to **Operational** to ensure that people who register and may be unsubscribed still receive their confirmation information.
 
 * **Registration Password** - (Optional) Currently not supported using the Marketo-WebEx integration.
-* **Approval Rules **- Currently not supported using the Marketo-WebEx integration. However, you can use smart campaigns in Marketo to control approvals.
+* **Approval Rules** - Currently not supported using the Marketo-WebEx integration. However, you can use smart campaigns in Marketo to control approvals.
 
 ![](assets/image2015-5-28-14-3a4-3a41.png)
 
@@ -90,7 +90,7 @@ You'll use Marketo to send out emails to your registrants, confirmation emails, 
 
 Now we're ready to jump into Marketo!
 
-1. Select the event you created. Open the **Event Actions **drop-down. Choose **Event Settings.**
+1. Select the event you created. Open the **Event Actions** drop-down. Choose **Event Settings.**
 
    ![](assets/image2015-5-14-16-3a7-3a31.png)
 
@@ -102,7 +102,7 @@ Now we're ready to jump into Marketo!
 
    ![](assets/image2015-1-30-13-3a58-3a2.png)
 
-1. Under **Login, **choose your WebEx login.
+1. Under **Login**, choose your WebEx login.
 
    ![](assets/image2015-5-18-12-3a2-3a26.png)
 

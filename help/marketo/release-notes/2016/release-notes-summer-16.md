@@ -63,7 +63,7 @@ Use new search functionality to efficiently find and replace content within your
 
 **Token Support in Image Elements**
 
-Tokens can now be used in the “External URL” area of the insert image experience! If you’ve specified images with {{my.tokens}}, you can now reference these tokens within Email Editor 2.0. Note that the image will still appear broken in the Email Editor 2.0 canvas. But, you will see them rendered within Preview and Send Sample before sending out your email.
+Tokens can now be used in the “External URL” area of the insert image experience! If you’ve specified images with `{{my.tokens}}`, you can now reference these tokens within Email Editor 2.0. Note that the image will still appear broken in the Email Editor 2.0 canvas. But, you will see them rendered within Preview and Send Sample before sending out your email.
 
 ## [Multiple Branding Domains](http://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
 

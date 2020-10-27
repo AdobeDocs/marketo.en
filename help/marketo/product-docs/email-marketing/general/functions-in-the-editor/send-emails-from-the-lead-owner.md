@@ -16,7 +16,7 @@ What if you want to send an email to a lead on behalf of the Lead Owner?  Here's
 
    ![](assets/two.png)
 
-1. Start typing "{{lead.Lead Owner" and select the **{{lead.Lead Owner First Name}}** token.
+1. Start typing "`{{lead.Lead Owner`" and select the **`{{lead.Lead Owner First Name}}`** token.
 
    ![](assets/image2014-9-11-13-3a7-3a43.png)
 
@@ -28,7 +28,7 @@ What if you want to send an email to a lead on behalf of the Lead Owner?  Here's
 
    ![](assets/five.png)
 
-1. Start typing "{{lead.Lead Owner" and select the **{{lead.Lead Owner Last Name}}** token.
+1. Start typing "`{{lead.Lead Owner`" and select the **`{{lead.Lead Owner Last Name}}`** token.
 
    ![](assets/image2014-9-11-13-3a8-3a24.png)
 
@@ -43,7 +43,7 @@ What if you want to send an email to a lead on behalf of the Lead Owner?  Here's
    Click in the From Email field (delete any existing email address), and click the Insert Token button.
    ![](assets/eight.png)
 
-1. Start typing "{{lead.Lead Owner" and select the** {{lead.Lead Owner Email Address}}** token.
+1. Start typing "`{{lead.Lead Owner`" and select the **`{{lead.Lead Owner Email Address}}`** token.
 
    ![](assets/image2014-9-11-13-3a9-3a33.png)
 

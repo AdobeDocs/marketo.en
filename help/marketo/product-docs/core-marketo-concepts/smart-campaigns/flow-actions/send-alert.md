@@ -20,37 +20,37 @@ Marketo can send an email alert with person information to anyone - the sales ow
 
 ## Usage {#usage}
 
-##### 1. Find and select the email you want to send. {#find-and-select-the-email-you-want-to-send}
+1. Find and select the email you want to send. 
 
-![](assets/two-1.png)
+    ![](assets/two-1.png)
 
->[!NOTE]
->
->**Reminder**
->
->Your email alert must contain all of the header info and be in the **Approved** state.
+    >[!NOTE]
+    >
+    >**Reminder**
+    >
+    >Your email alert must contain all of the header info and be in the **Approved** state.
 
-2. You can click the preview icon to ensure that you've selected the correct email.
+1. You can click the preview icon to ensure that you've selected the correct email.
 
-![](assets/three-1.png)
+    ![](assets/three-1.png)
 
->[!NOTE]
->
->**Reminder**
->
->Be sure to use the **Send Alert Info** token in your email.
+    >[!NOTE]
+    >
+    >**Reminder**
+    >
+    >Be sure to use the **Send Alert Info** token in your email.
 
-3. Select the alert recipient. You can pick Sales Owner or Account Owner.
+1. Select the alert recipient. You can pick Sales Owner or Account Owner.
 
-![](assets/four-2.png)
+    ![](assets/four-2.png)
 
-4. Optionally, add any other email addresses you want (separated by either a comma or a semicolon).
+1. Optionally, add any other email addresses you want (separated by either a comma or a semicolon).
 
-![](assets/five.png)
+    ![](assets/five.png)
 
->[!TIP]
->
->In trigger campaigns, you can use tokens in **To Other Emails** such as {{lead.Territory Owner}} or {{my.Alert Recipient}} as long as the values are valid email addresses. Tokens in **To Other Emails** will not work in a batch campaign.
+    >[!TIP]
+    >
+    >In trigger campaigns, you can use tokens in **To Other Emails** such as `{{lead.Territory Owner}}` or `{{my.Alert Recipient}}` as long as the values are valid email addresses. Tokens in **To Other Emails** will not work in a batch campaign.
 
 That's it! Now you know how to use the **Send Alert** flow step. 
 

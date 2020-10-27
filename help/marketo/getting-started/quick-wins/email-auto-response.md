@@ -24,45 +24,45 @@ title: Email Auto-Response
 
 ## Step 1: Create an Email {#step-create-an-email}
 
-##### 1. Go to the Marketing Activities area. {#go-to-the-marketing-activities-area}
+1. Go to the Marketing Activities area.
 
-![](assets/one-2.png)
+   ![](assets/one-2.png)
 
-2. Select My Program in the left menu, click the New drop-down, and select New Local Asset.
+1. Select My Program in the left menu, click the New drop-down, and select New Local Asset.
 
-![](assets/two-3.png)
+   ![](assets/two-3.png)
 
-3. Click Email.
+1. Click Email.
 
-![](assets/three-2.png)
+   ![](assets/three-2.png)
 
-4. Name your email "Auto Response Email," choose a template and click Create.
+1. Name your email "Auto Response Email," choose a template and click Create.
 
-![](assets/four-1.png)
+   ![](assets/four-1.png)
 
-An email editor will open in a new window or tab. If pop-ups are blocked, click** Edit Draft** on the asset summary page to access the email.
+   An email editor will open in a new window or tab. If pop-ups are blocked, click** Edit Draft** on the asset summary page to access the email.
 
-5. Enter a subject line, then double-click the editable area of the email.
+1. Enter a subject line, then double-click the editable area of the email.
 
-![](assets/five-2.png)
+   ![](assets/five-2.png)
 
-A rich text editor will open on top of the email editor.
+   A rich text editor will open on top of the email editor.
 
-6. Highlight the existing email content.
+1. Highlight the existing email content.
 
-![](assets/six-2.png)
+   ![](assets/six-2.png)
 
-7. Type your email content and click Save.
+1. Type your email content and click Save.
 
-![](assets/seven-2.png)
+   ![](assets/seven-2.png)
 
-8. Your changes are auto-saved. Close the email editor tab/window.
+1. Your changes are auto-saved. Close the email editor tab/window.
 
-![](assets/eight-1.png)
+   ![](assets/eight-1.png)
 
-9. Select your new email. Under Email Actions click Approve.
+1. Select your new email. Under Email Actions click Approve.
 
-![](assets/image2014-9-24-11-3a55-3a16.png) 
+   ![](assets/image2014-9-24-11-3a55-3a16.png) 
 
 ## Step 2: Create a Smart Campaign {#step-create-a-smart-campaign}
 

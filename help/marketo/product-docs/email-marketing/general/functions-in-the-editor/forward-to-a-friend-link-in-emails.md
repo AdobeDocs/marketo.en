@@ -28,26 +28,28 @@ For example, say Keith uses the ‘Forward to Friend’ link to forward the emai
 
 1. Paste the following HTML code where you want the 'Forward to Friend' link to appear (if you need help with this part, please confer with your web developer):
 
-   `<pre data-theme="Confluence"><a href="{{system.forwardToFriendLink}}">Forward to Friend</a></pre>`  
+   `<pre data-theme="Confluence"><a href="{{system.forwardToFriendLink}}">Forward to Friend</a></pre>`
+
    ![](assets/three-7.png)
 
    >[!TIP]
    >
    >
-   >You can add styling to the link to make it look nicer. For example:     >
-   ><a href="{{system.forwardToFriendLink}}" style="font-family:arial, sans-serif; padding:10px; position:absolute; right:0px;">Forward to Friend</a>
+   >You can add styling to the link to make it look nicer. For example:
+   >
+   >`<a href="{{system.forwardToFriendLink}}" style="font-family:arial, sans-serif; padding:10px; position:absolute; right:0px;">Forward to Friend</a>`
 
    >[!CAUTION]
    >
    >We do not recommend using the styling **position:relative** in your email template. It may create issues with the position and display of the ‘Forward to Friend’ box.
 
 1. Click **Preview Draft** to make sure the template looks the way you want it to.
-1. ![](assets/four-5.png)
+
+   ![](assets/four-5.png)
 
    >[!NOTE]
    >
    >**Reminder**
-   >
    >
    >Remember to approve the template draft to apply the changes.
 
@@ -66,7 +68,7 @@ You can also add the 'Forward to Friend' link directly into an email.
 
    ![](assets/six-2.png)
 
-1. Select the **{{system.forwardToFriendLink}}** token.
+1. Select the **`{{system.forwardToFriendLink}}`** token.
 
    ![](assets/seven-1.png)
 
@@ -78,11 +80,11 @@ You can also add the 'Forward to Friend' link directly into an email.
 
    ![](assets/seven-1.png)
 
-1. Cut the **{{system.forwardToFriendLink}}** token using Ctrl+X (Windows) or Cmd+X (Mac). Highlight “Forward to a friend” and click the **Insert/Edit Link** button.
+1. Cut the **`{{system.forwardToFriendLink}}`** token using Ctrl+X (Windows) or Cmd+X (Mac). Highlight “Forward to a friend” and click the **Insert/Edit Link** button.
 
    ![](assets/eight-1.png)
 
-1. Paste the **{{system.forwardToFriendLink}}** token into the **URL** box using Ctrl/Cmd+V, then click** Insert**.
+1. Paste the **`{{system.forwardToFriendLink}}`** token into the **URL** box using Ctrl/Cmd+V, then click** Insert**.
 
    ![](assets/nine.png)
 

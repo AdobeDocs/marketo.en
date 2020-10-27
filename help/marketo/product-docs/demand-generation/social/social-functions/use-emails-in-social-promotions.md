@@ -14,9 +14,9 @@ When you create a [referral offer](../../../../product-docs/demand-generation/so
 
 In the emails, use these tokens:
 
-* **Sign-up email**: Use **{{social.Share Url}}** to send each participating person a personalized share link.
+* **Sign-up email**: Use **`{{social.Share Url}}`** to send each participating person a personalized share link.
 
-* **Fulfillment email**: Use **{{social.Promo Code}}** to send each winner a [promo code](use-promo-codes-for-offer-fulfillment.md).
+* **Fulfillment email**: Use **`{{social.Promo Code}}`** to send each winner a [promo code](use-promo-codes-for-offer-fulfillment.md).
 
 >[!NOTE]
 >

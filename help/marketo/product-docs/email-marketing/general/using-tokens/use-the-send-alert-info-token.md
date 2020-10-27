@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2952678
 description: Use the Send Alert Info Token {{SP_Send_Alert_Info}} - Marketo Docs - Product Documentation
-title: Use the Send Alert Info Token {{SP_Send_Alert_Info}}
+title: Use the Send Alert Info Token
 ---
 
-# Use the Send Alert Info Token {{SP_Send_Alert_Info}} {#use-the-send-alert-info-token-sp-send-alert-info}
+# Use the Send Alert Info Token {#use-the-send-alert-info-token-sp-send-alert-info}
 
-The {{SP_Send_Alert_Info}} token is a special token to be used when creating alert emails for your sales team.
+The `{{SP_Send_Alert_Info}}` token is a special token to be used when creating alert emails for your sales team.
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ Example alert:   ![](assets/image2014-9-25-15-3a17-3a58.png)
 >
 >Heads up! URLs in alerts have expiration dates so make sure they have a cadence that supports these types of messages. Expiration dates are [configured by an Admin](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
 
-The following information is included as part of the {{SP_Send_Alert_Info}}:
+The following information is included as part of the `{{SP_Send_Alert_Info}}`:
 
 * First name and last name as a link to the person detail in Marketo
 * A link to the person in your CRM
@@ -35,7 +35,7 @@ The following information is included as part of the {{SP_Send_Alert_Info}}:
 >
 >The link to the CRM will only appear if the person is in the CRM system (currently not available with Dynamics CRM). The link is accessible to both Marketo and non-Marketo users.
 
-## Add the {{SP_Send_Alert_Info}} Token to an Email {#add-the-sp-send-alert-info-token-to-an-email}
+## Add the `{{SP_Send_Alert_Info}}` Token to an Email {#add-the-sp-send-alert-info-token-to-an-email}
 
 1. Select the email and click **Edit Draft**.
 
@@ -49,7 +49,7 @@ The following information is included as part of the {{SP_Send_Alert_Info}}:
 
    ![](assets/three-3.png)
 
-1. Find and select the **{{SP_Send_Alert_Info}}** token and click **Insert**.
+1. Find and select the **`{{SP_Send_Alert_Info}}`** token and click **Insert**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 

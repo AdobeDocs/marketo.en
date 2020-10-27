@@ -57,13 +57,13 @@ To automatically send alert emails to sales reps, all you need is an alert email
 
    ![](assets/eight-4.png)
 
-1. Find and select the **{{SP_Send_Alert_Info}}** **Token **and click **Insert**.
+1. Find and select the `{{SP_Send_Alert_Info}}` **Token** and click **Insert**.
 
    ![](assets/image2014-9-24-13-3a10-3a0.png)
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} is a special token for alert emails. See [Use the Send Alert Info Token](../../product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token-{{sp_send_alert_info}}.md) to learn more.
+   >{{SP_Send_Alert_Info}} is a special token for alert emails. See [Use the Send Alert Info Token](../../product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) to learn more.
 
 1. Click **Save**.
 
