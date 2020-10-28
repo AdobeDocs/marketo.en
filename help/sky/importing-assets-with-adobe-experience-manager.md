@@ -15,9 +15,9 @@ The Asset Picker allows Marketo customers to access, select, and import AEM asse
 >[!IMPORTANT]
 >Make sure you've already performed the [AEM Configuration](https://docs.marketo.com/x/FwPLAQ) in Marketo Classic.
 
-   >[!CAUTION]
-   >
-   >Currently, this feature is only fully supported in Firefox. It is not supported in Safari, and it might not work in the latest version of Chrome, depending on your SameSite cookie settings.
+>[!CAUTION]
+>
+>Currently, this feature is only fully supported in Firefox. It is not supported in Safari, and it might not work in the latest version of Chrome, depending on your SameSite cookie settings.
 
 1. In Design Studio, select **Images and Files**.
 

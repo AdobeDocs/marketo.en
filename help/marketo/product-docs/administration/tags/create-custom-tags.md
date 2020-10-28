@@ -18,7 +18,7 @@ Tags will help you organize your programs while channels will assist in gatherin
 >
 >**Admin Permissions Required**
 
-### Create a New Tag Type {#create-a-new-tag-type}
+## Create a New Tag Type {#create-a-new-tag-type}
 
 To create a new tag type:
 
@@ -30,7 +30,7 @@ To create a new tag type:
 
    ![](assets/image2015-4-23-14-3a41-3a18.png)
 
-1. Click **New **and select **New Tag Type.**
+1. Click **New** and select **New Tag Type.**
 
    ![](assets/image2015-4-23-14-3a42-3a45.png)
 
@@ -38,7 +38,7 @@ To create a new tag type:
 
    ![](assets/image2015-4-23-14-3a48-3a58.png)
 
-1. Enter the desired **Value** for the Tag Type. Click **Add Another **to enter additional tag values.
+1. Enter the desired **Value** for the Tag Type. Click **Add Another** to enter additional tag values.
 
    ![](assets/image2015-4-22-11-3a30-3a30.png)
 
@@ -48,11 +48,10 @@ To create a new tag type:
 
    >[!NOTE]
    >
-   >Select **Required for all programs **to add this tag** **any time a new program is created.
+   >Select **Required for all programs** to add this tag any time a new program is created.
 
 1. Click **Create** to save.
 
    ![](assets/image2015-4-22-11-3a38-3a34.png)
 
    That's it! Now you can create custom tags for your programs.
-

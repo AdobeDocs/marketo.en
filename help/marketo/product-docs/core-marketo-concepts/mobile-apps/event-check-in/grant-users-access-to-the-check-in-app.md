@@ -8,9 +8,7 @@ title: Grant Users Access to the Check-in App
 
 Marketo has a special user role for the event check-in app. Here's how to create a new role with permission to use the app.
 
-##
-
-#### Create a New User Role for Mobile {#create-a-new-user-role-for-mobile}
+## Create a New User Role for Mobile {#create-a-new-user-role-for-mobile}
 
 1. Click **Admin**.
 

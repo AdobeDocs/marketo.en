@@ -24,7 +24,7 @@ You can edit your domain name and fallback page, enable or disable form prefill,
 
    | Term |Definition |
    |---|---|
-   | Domain name for landing pages |This is your CNAME. A CNAME is the first part of the URL you give people for landing pages. For example, in http://go.yourCompany.com, the word "go" is the CNAME. You can have multiple, but most people just use the one. |
+   | Domain name for landing pages |This is your CNAME. A CNAME is the first part of the URL you give people for landing pages. For example, in `http://go.yourCompany.com`, the word "go" is the CNAME. You can have multiple, but most people just use the one. |
    | Fallback page |This is where to go if the landing page doesn't exist or is down. Learn more about [fallback pages](set-a-fallback-page.md). |
    | Homepage |Enter your corporate site URL. |
 
@@ -40,8 +40,7 @@ You can edit your domain name and fallback page, enable or disable form prefill,
 
    >[!NOTE]
    >
-   >If you want the prefill <script> tag to appear at the end of the <head> tag in the code, check the **Inject Prefill Script at End of Head** box. Leave unchecked if you want it to appear at the beginning.
-   >
+   >If you want the prefill `<script>` tag to appear at the end of the `<head>` tag in the code, check the **Inject Prefill Script at End of Head** box. Leave unchecked if you want it to appear at the beginning.
    >
    >Check **Remove default favicon links** to prevent Marketo from inserting any favicon links into the code.
 

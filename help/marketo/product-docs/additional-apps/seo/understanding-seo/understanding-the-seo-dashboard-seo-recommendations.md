@@ -10,8 +10,6 @@ Use the dashboard to get a high-level view of how keyword ranks are trending and
 
 You can also find out how to improve using the Recommendations section. Let's dive in!
 
-### 
-
 ![](assets/image2014-9-17-21-3a39-3a57.png)  
 
 ## Top Page Optimization Issues {#top-page-optimization-issues}
@@ -41,5 +39,3 @@ Right on! Dive deeper here.
 >**Related Articles**
 >
 >* [Page Detail Drill Down](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
->
-
