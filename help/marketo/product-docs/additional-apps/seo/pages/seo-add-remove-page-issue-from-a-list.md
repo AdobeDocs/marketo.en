@@ -8,9 +8,7 @@ title: SEO - Add/Remove Page Issue From a List
 
 You can organize your page issues into lists. You can also remove page issues from a list.
 
-###
-
-#### Add Page Issues to a List {#add-page-issues-to-a-list}
+## Add Page Issues to a List {#add-page-issues-to-a-list}
 
 1. Go to the **Pages** section.
 

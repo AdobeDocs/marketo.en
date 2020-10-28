@@ -12,7 +12,7 @@ In addition to person tokens, you can use some really cool system tokens. Here t
 >
 >Your account time zone settings affect when date and time tokens run.
 
-## `{{system.date}}` {#system-date}
+## \{\{system.date\}\} {#system-date}
 
 This token will render current date at runtime like so: **Aug 08, 2013**
 
@@ -23,7 +23,7 @@ This token will render current date at runtime like so: **Aug 08, 2013**
 * [Create Task](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) flow step
 * The body of an email or template
 
-## `{{system.time}}` {#system-time}
+## {{system.time\}\} {#system-time}
 
 This token will render the current time at runtime like so: **04:34 PM (GMT -0700)**
 
@@ -34,7 +34,7 @@ This token will render the current time at runtime like so: **04:34 PM (GMT -070
 * [Create Task](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) flow step
 * The body of an email or template
 
-## `{{system.dateTime}}` {#system-datetime}
+## \{\{system.dateTime\}\} {#system-datetime}
 
 This token will render the current date and time at runtime like so: **2013-08-08 16:36:13**
 
@@ -45,7 +45,7 @@ This token will render the current date and time at runtime like so: **2013-08-0
 * [Create Task](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) flow step
 * The body of an email or template
 
-## `{{system.forwardToFriendLink}}` {#system-forwardtofriendlink}
+## \{\{system.forwardToFriendLink\}\} {#system-forwardtofriendlink}
 
 This token allows you to control the placement of the ['Forward to a Friend Link' in Emails](../../../../product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md).
 
@@ -53,7 +53,7 @@ This token allows you to control the placement of the ['Forward to a Friend Link
 
 * [Add a System Token as a Link in an Email](add-a-system-token-as-a-link-in-an-email.md) or template
 
-## `{{system.unsubscribeLink}}` {#system-unsubscribelink}
+## `{{system.unsubscribeLink\}\} {#system-unsubscribelink}
 
 This token allows you to control the placement of the unsubscribe link in an email.
 
@@ -61,11 +61,10 @@ This token allows you to control the placement of the unsubscribe link in an ema
 
 * [Add a System Token as a Link in an Email](add-a-system-token-as-a-link-in-an-email.md) or template
 
-## `{{system.viewAsWebpageLink}}` {#system-viewaswebpagelink}
+## \{\{system.viewAsWebpageLink\}\} {#system-viewaswebpagelink}
 
 This token allows you to control the placement of the View as Web Page link in an email.
 
 **Works with:**
 
 * [Add a System Token as a Link in an Email](add-a-system-token-as-a-link-in-an-email.md) or template
-

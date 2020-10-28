@@ -19,11 +19,8 @@ title: Landing Page with a Form
 >**Prerequisites**
 >
 >* [Get Set Up and Add a Person](get-set-up-and-add-a-person.md)
->
 
-###
-
-#### STEP 1: Create a Program {#step-create-a-program}
+## STEP 1: Create a Program {#step-create-a-program}
 
 1. Go to the **Marketing Activities** area.
 

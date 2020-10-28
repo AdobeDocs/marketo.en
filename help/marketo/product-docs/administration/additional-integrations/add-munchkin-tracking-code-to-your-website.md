@@ -44,7 +44,7 @@ Marketo's custom JavaScript tracking code, called Munchkin, tracks all individua
    >
    >Put tracking code on the web pages you want to track. This may be every page for smaller sites, or only key pages on sites that have many dynamically generated Web pages, user forums, and so on.
 
-   For best results, use the asynchronous Munchkin code and place it inside the <head> elements of your pages. If you are using the simple code (not recommended), this is right before the </body> tag.
+   For best results, use the asynchronous Munchkin code and place it inside the `<head>` elements of your pages. If you are using the simple code (not recommended), this is right before the `</body>` tag.
    ![](assets/image2015-8-25-16-3a5-3a20.png)
 
 >[!TIP]
@@ -79,7 +79,7 @@ If you're using Workspaces in your Marketo account, you probably also have separ
    >
    >Don’t use the code shown in this screenshot - you must use the unique code that appears in your account!
 
-1.  Place the tracking code on your web pages in the <head> element. New people that visit this page will be assigned to this partition.
+1.  Place the tracking code on your web pages in the `<head>` element. New people that visit this page will be assigned to this partition.
 
    ![](assets/image2015-8-25-16-3a5-3a20.png)
 

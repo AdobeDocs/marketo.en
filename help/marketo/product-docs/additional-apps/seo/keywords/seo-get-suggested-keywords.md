@@ -8,9 +8,7 @@ title: SEO - Get Suggested Keywords
 
 Marketo SEO can suggest which keywords you should be tracking. We can give suggestions based on a keyword or a site's URL. Give it a go!
 
-###
-
-#### Get Keyword Suggestions Using a Keyword {#get-keyword-suggestions-using-a-keyword}
+## Get Keyword Suggestions Using a Keyword {#get-keyword-suggestions-using-a-keyword}
 
 1. Go to the **Keywords** section.
 

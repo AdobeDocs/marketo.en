@@ -14,7 +14,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **What is Happening:** User doesn't have API Access  
 **Troubleshooting Steps:** Salesforce Admin needs to grant the user API Access.
 
-** **
+<br>&nbsp;
 
 **Error:** AUTHENTICATION_FAILURE  
 **Category:** Authentication  
@@ -22,7 +22,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **What is Happening:** Authentication failed  
 **Troubleshooting Steps:** Disconnect from Salesforce and then reconnect.
 
-** **
+<br>&nbsp;
 
 **Error:** CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY  
 **Category:** Access/Validation  
@@ -37,7 +37,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 1 - Review trigger that is failing.  
 2 - Either grant write access to the user for the object OR disable the feature that is trying to write to the object.
 
-** **
+<br>&nbsp;
 
 **Error:** CANNOT_UPDATE_CONVERTED_LEAD  
 **Category:** Other  
@@ -45,7 +45,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **What is Happening:** We are trying to log to a converted lead during Most Recent Activity Logging for Contacts and Leads. Also seen a couple of these for pitches.  
 **Troubleshooting Steps:** Please report any instances of this to our [support team](http://nation.marketo.com/community/support_solutions).
 
-** **
+<br>&nbsp;
 
 **Error:** ENTITY_IS_LOCKED  
 **Category:** Access/Validation  
@@ -53,7 +53,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **What is Happening:** The record is in an approval process where it is locked from any additional edits until it is either approved or denied by a person who owns the approval.  
 **Troubleshooting Steps:** See above.
 
-** **
+<br>&nbsp;
 
 **Error:** EXPIRED_ACCESS
 **Category:** Authentication 
@@ -61,7 +61,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **What is Happening:** The access or refresh token has expired. Tokens expire based on [session settings in Salesforce](http://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
 **Troubleshooting Steps:** You'll need to re-authenticate. Disconnect the Salesforce connection and re-connect.
 
-** **
+<br>&nbsp;
 
 **Error:** FAILED_WRITE  
 **Category:** Intermittent  
@@ -69,7 +69,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **What is Happening:** Performance issue with Salesforce, likely due to sub-optimal triggers on the customer side.  
 **Troubleshooting Steps:** Retry logic should handle this. If it's still not working, work with your Salesforce admin to troubleshoot a problematic trigger.
 
-** **
+<br>&nbsp;
 
 **Error:** FIELD_CUSTOM_VALIDATION_EXCEPTION
 **Category:** Access/Validation
@@ -77,7 +77,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **What is Happening:** Failing a custom validation rule for the object.
 **Troubleshooting Steps:** Check the custom validation rule that's causing this error. Since this is a custom rule the error must be dealt with on a one-off basis.
 
-** **
+<br>&nbsp;
 
 **Error:** FIELD_FILTER_VALIDATION_EXCEPTION  
 **Category:** Access/Validation  
@@ -85,7 +85,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **What is Happening:** Existing bad data in Salesforce getting enforced upon update.  
 **Troubleshooting Steps:** See above.
 
-** **
+<br>&nbsp;
 
 **Error:** FIELD_INTEGRITY_EXCEPTION  
 **Category:** Access/Validation  
@@ -93,7 +93,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **What is Happening:** Existing bad data in Salesforce getting enforced upon update.  
 **Troubleshooting Steps:** See above.
 
-** **
+<br>&nbsp;
 
 **Error:** INACTIVE_ORGANIZATION  
 **Category:** Authentication  
@@ -119,7 +119,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **What is Happening:** No access to the parent record for a task.
 **Troubleshooting Steps:** See above.
 
-** **
+<br>&nbsp;
 
 **Error:** INSUFFICIENT_ACCESS_OR_READONLY  
 **Category:** Access/Validation** ** 

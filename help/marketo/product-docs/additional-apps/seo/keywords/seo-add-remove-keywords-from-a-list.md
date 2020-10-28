@@ -8,9 +8,7 @@ title: SEO - Add/Remove Keywords from a List
 
 You can keep all your keywords nice and organized by using lists. This will make finding data on specific keywords easy as pie.
 
-###
-
-#### Add to a List {#add-to-a-list}
+## Add to a List {#add-to-a-list}
 
 1. Go to the **Keywords** section.
 
@@ -57,10 +55,5 @@ You can also remove keywords from a list.
    >[!NOTE]
    >
    >**Related Articles**
-   >
    >    
-   >    
-   >    * [Understanding Keywords (Summary View)](seo-understanding-keywords.md)
-   >    
-   >
-
+   >* [Understanding Keywords (Summary View)](seo-understanding-keywords.md)

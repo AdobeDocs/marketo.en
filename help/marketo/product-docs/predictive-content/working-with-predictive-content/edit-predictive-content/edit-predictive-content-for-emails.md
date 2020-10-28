@@ -52,11 +52,7 @@ Here's how to set up your predictive content for emails.
 
 1. Click the arrows on the sides to scroll through and view your content in each of the email layout previews (two options are shown).
 
-   | ![](assets/sevena.png)
-
-   | ![](assets/sevenb.png)
-
-   |
+   | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
 1. Optionally, click the **Categories** field and add categories to the content. Options are from the [categories you've already set up](../../../../product-docs/predictive-content/getting-started-predictive-content-and-content-ai/set-up-categories.md).

@@ -8,9 +8,7 @@ title: SEO - Add/Remove Page from List
 
 You want to manage your pages? You can easily do that by creating a list. You can use lists to organize pages or filter data in dashboards.
 
-###
-
-#### Add Page to a List {#add-page-to-a-list}
+## Add Page to a List {#add-page-to-a-list}
 
 1. Go to the **Pages** section.
 

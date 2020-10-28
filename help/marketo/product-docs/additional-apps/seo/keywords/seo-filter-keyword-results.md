@@ -8,9 +8,7 @@ title: SEO - Filter Keyword Results
 
 You might have a lot of [keywords](seo-understanding-keywords.md). Here are different ways to filter them:
 
-###
-
-#### Filter by list {#filter-by-list}
+## Filter by list {#filter-by-list}
 
 1. Go to the **Keywords** section.
 

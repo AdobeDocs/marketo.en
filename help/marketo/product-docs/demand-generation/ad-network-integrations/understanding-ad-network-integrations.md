@@ -6,9 +6,7 @@ title: Understanding Ad Network Integrations
 
 # Understanding Ad Network Integrations {#understanding-ad-network-integrations}
 
-** ![](assets/hith-golden-gate-144833144-e.jpeg)
-
-** 
+![](assets/hith-golden-gate-144833144-e.jpeg)
 
 ## How Ad Network Integrations Work {#how-ad-network-integrations-work}
 
@@ -47,33 +45,9 @@ You can use integrations to:
 
 |   |Audience Data |Lead Ingestion |Offline Conversion |
 |---|---|---|---|
-| ![--](assets/facebook-logo-2-150.jpg)
-
-| ![--](assets/checkmark-flat-25.png)
-
-| ![--](assets/checkmark-flat-25.png)
-
-| ![--](assets/checkmark-flat-25-1.png)
-
-|
-| ![--](assets/linkedin-logo-150.jpg)
-
-| ![--](assets/checkmark-flat-25.png)
-
-| ![--](assets/checkmark-flat-25.png)
-
-| ![--](assets/x-mark-3-256-25.png)
-
-|
-| ![--](assets/google-logo-150.jpg)
-
-| ![--](assets/checkmark-flat-25.png)
-
-| ![--](assets/x-mark-3-256-25.png)
-
-| ![--](assets/checkmark-flat-25.png)
-
-|
+| ![--](assets/facebook-logo-2-150.jpg)| ![--](assets/checkmark-flat-25.png)| ![--](assets/checkmark-flat-25.png)| ![--](assets/checkmark-flat-25-1.png)|
+| ![--](assets/linkedin-logo-150.jpg)| ![--](assets/checkmark-flat-25.png)| ![--](assets/checkmark-flat-25.png)| ![--](assets/x-mark-3-256-25.png)|
+| ![--](assets/google-logo-150.jpg)| ![--](assets/checkmark-flat-25.png)| ![--](assets/x-mark-3-256-25.png)| ![--](assets/checkmark-flat-25.png)|
 
 ## Watch a Video {#watch-a-video}
 

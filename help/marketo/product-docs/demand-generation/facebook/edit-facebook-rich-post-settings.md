@@ -26,17 +26,20 @@ You can specify the types of page information to use in the Facebook rich posts 
 
 1. Select from the following options for your Facebook Message.
 
-    * Add Static Content: Select this option to enter the title, caption, and description manually.  
+    * Add Static Content: Select this option to enter the title, caption, and description manually. 
+
       ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-    * Add Dynamic Content: Your social app can use your landing page's <TITLE>, <CAPTION>, and <DESCRIPTION> tags to populate your rich post.  
+    * Add Dynamic Content: Your social app can use your landing page's `<TITLE>`, `<CAPTION>`, and `<DESCRIPTION>` tags to populate your rich post.  
+    
       ![](assets/image2014-9-22-16-3a48-3a9.png)
 
    >[!NOTE]
    >
    >These should already exist in the page source, but for more control, you can  [add specific Facebook OG tags to your landing page](edit-facebook-rich-post-settings.md). 
 
-    * Don't add rich content: Limits the Facebook posts from your landing page to just the main message and link.  
+    * Don't add rich content: Limits the Facebook posts from your landing page to just the main message and link.
+
       ![](assets/image2014-9-22-16-3a48-3a18.png)
 
 ## Add Facebook OG Tags to a Landing Page {#add-facebook-og-tags-to-a-landing-page}
@@ -55,13 +58,14 @@ To control the page elements that will be included in the Facebook shares from y
 
 1. Add the HTML that defines og:title, og:caption, and og:description. Copy and paste these lines and replace the placeholder text:
 
-   <meta property="og:title" content="My Post Title"/>  
-   <meta property="og:caption" content="My Post Caption"/>  
-   <meta property="og:description" content="This text appears in the post description"/>
+   `<meta property="og:title" content="My Post Title"/>`
+
+   `<meta property="og:caption" content="My Post Caption"/>`
+
+   `<meta property="og:description" content="This text appears in the post description"/>`
 
    ![](assets/image2014-9-22-16-3a52-3a8.png)
 
 >[!NOTE]
 >
 >Be careful to use the proper HTML syntax when adding the OG tags.
-

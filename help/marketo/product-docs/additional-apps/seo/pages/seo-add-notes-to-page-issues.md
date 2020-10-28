@@ -8,9 +8,7 @@ title: SEO - Add Notes to Page Issues
 
 Did you know you can add notes to page issues as personal reminders or team messages?
 
-###
-
-#### Adding Notes in Page Issues Section {#adding-notes-in-page-issues-section}
+## Adding Notes in Page Issues Section {#adding-notes-in-page-issues-section}
 
 1. Go to the Pages section.
 

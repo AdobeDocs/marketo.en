@@ -8,7 +8,6 @@ title: Understanding and Using the Launch Pack
 
 ![](assets/coming-soon.png) 
 
-# In Progress {#in-progress}
+The Docs Team is currently working on this article. 
 
-The Docs Team is currently working on this article.   
 We promise to publish it as soon as it’s ready.

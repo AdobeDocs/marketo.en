@@ -21,11 +21,10 @@ The report shares:
 
 ![](assets/one-4.png)
 
-### Sales Report Key {#sales-report-key}
+## Sales Report Key {#sales-report-key}
 
 | **Account Score** |Weekly trend by account score (selected in setup), followed by current account score |
 |---|---|
 | **Sales Pipeline** |Weekly trend by pipeline, followed by total current pipeline and number of open opportunities |
 | **Page Views** |Weekly trend of page views, followed by total page views and number of unique visitors |
 | **Interesting Moments** |Total number of interesting moments that occurred during the week |
-
