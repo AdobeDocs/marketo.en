@@ -40,7 +40,7 @@ The Asset Picker allows Marketo customers to access, select, and import AEM asse
 
    ![](assets/four-1.png)
 
-   5. Choose your folder. Then select your desired images by clicking on the thumbnail (you can choose up to 10). Click **Select** when done.
+1. Choose your folder. Then select your desired images by clicking on the thumbnail (you can choose up to 10). Click **Select** when done.
 
    ![](assets/five.png)
 
@@ -63,4 +63,3 @@ The Asset Picker allows Marketo customers to access, select, and import AEM asse
    All users in your instance will be able to view/access the images you import.
 
    Images are not automatically updated. If an image you imported into the Marketo Design Studio is updated in AEM, you must manually re-import it into Marketo.
-

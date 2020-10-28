@@ -14,9 +14,7 @@ If the unsubscribe flag is set from false to true, the master email status is up
 >
 >Durable Unsubscribe works across all partitions in your entire Marketo database.
 
-##
-
-#### Update the Unsubscribe Flag from True to False (e.g., Re-subscribe a Person) {#update-the-unsubscribe-flag-from-true-to-false-e-g-re-subscribe-a-person}
+## Update the Unsubscribe Flag from True to False (e.g., Re-subscribe a Person) {#update-the-unsubscribe-flag-from-true-to-false-e-g-re-subscribe-a-person}
 
 There are several ways a person can be re-subscribed.
 

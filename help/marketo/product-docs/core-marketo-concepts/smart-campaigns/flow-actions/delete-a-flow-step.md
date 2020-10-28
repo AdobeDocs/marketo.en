@@ -55,19 +55,18 @@ First let's do the basics. Here's how to remove an unwanted flow step from a sma
    >
    >    
    >    
-   >    1. A smart campaign has 3 steps.   
-   >       STEP 1. Send Email #1  
-   >       STEP 2. Wait 1 week  
-   >       STEP 3. Send Email #2
-   >    
-   >    1. People who hit **Step 2** will wait 1 week before moving on to **Step 3**.
-   >    
-   >    1. You delete **Step 2** during the week.
-   >    1. People will continue to wait the 1 week. (They do not automatically pop back into the flow.)
-   >    1. When they finally return, they will try to go to **Step 3**. They will not find it.
-   >    1. **IMPORTANT:** Since there are now only 2 steps, the *people will not receive Email #2.*
-   >    
-   >    
+   >1. A smart campaign has 3 steps.
    >
+   >   * STEP 1. Send Email #1  
+   >   * STEP 2. Wait 1 week  
+   >   * STEP 3. Send Email #2
+   >
+   >1. People who hit **Step 2** will wait 1 week before moving on to **Step 3**.
+   >1. You delete **Step 2** during the week.
+   >1. People will continue to wait the 1 week. (They do not automatically pop back into the flow.)
+   >1. When they finally return, they will try to go to **Step 3**. They will not find it.
+   >1. **IMPORTANT:** Since there are now only 2 steps, the *people will not receive Email #2.*
 
-Making Changes to an Active Campaign          Understand this feature and you'll master smart campaigns. Wooh!   
+Making Changes to an Active Campaign
+
+Understand this feature and you'll master smart campaigns. Wooh!   

@@ -20,7 +20,7 @@ You can easily create new runs of an existing smart campaign directly from the p
 
    ![](assets/image2015-4-16-14-3a42-3a0.png)
 
-   3. Select the entry type menu drop-down, and pick the smart campaign you'd like to rerun.
+1. Select the entry type menu drop-down, and pick the smart campaign you'd like to rerun.
 
    ![](assets/image2015-4-16-15-3a26-3a33.png)
 

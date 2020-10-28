@@ -12,9 +12,7 @@ Person accounts can be set up in Salesforce to fit the need of your organization
 >
 >The default Salesforce accounts are business accounts. Your Salesforce Admin needs to set up person accounts separately.
 
-##
-
-#### What is a person account? {#what-is-a-person-account}
+## What is a person account? {#what-is-a-person-account}
 
 A person account is very similar to the account object in Salesforce. However, a person account has access to both account fields and contact fields.
 

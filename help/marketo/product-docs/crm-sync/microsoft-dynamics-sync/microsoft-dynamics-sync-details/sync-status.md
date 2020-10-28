@@ -42,17 +42,12 @@ You can keep tabs on the current throughput and backlog of the sync process on t
 
 ## Sync Errors Tab {#sync-errors-tab}
 
-    Browse, search, or export leads (and other objects) that failed to synchronize with details such as operation, direction, error code and error message.
+Browse, search, or export leads (and other objects) that failed to synchronize with details such as operation, direction, error code and error message.
 
-   ![](assets/image2016-5-19-10-3a26-3a35.png)
+![](assets/image2016-5-19-10-3a26-3a35.png)
 
-   >[!NOTE]
-   >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Notification Types](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-   >    
-   >
-
+>[!NOTE]
+>
+>**Related Articles**
+>
+>* [Notification Types](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)

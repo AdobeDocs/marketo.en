@@ -8,9 +8,7 @@ title: Using the Assets Tab
 
 The asset canvas is a visual representation of your program. You can use it to add local assets as well as interact with the existing ones.
 
-##
-
-#### Adding Assets  {#adding-assets}
+## Adding Assets {#adding-assets}
 
 From the **Marketing Activities** area, click the **Assets** tab. Choose any of the assets below and add them to your program.
 

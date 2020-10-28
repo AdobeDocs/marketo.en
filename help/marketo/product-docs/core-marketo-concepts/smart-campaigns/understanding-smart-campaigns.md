@@ -12,7 +12,7 @@ If Marketo is a powerful car, the smart campaign is truly the engine. It's simpl
 
 The smart campaign has 3 main areas: The [Smart List](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Flow](http://docs.marketo.com/display/DOCS/Flow+Actions) and [Schedule](using-smart-campaigns/schedule-a-recurring-batch-campaign.md) tabs.
 
-### Smart List {#smart-list}
+## Smart List {#smart-list}
 
 The smart list is how you define WHO you want to target with your smart campaign. It has filters and triggers.
 
@@ -38,11 +38,11 @@ The smart list is how you define WHO you want to target with your smart campaign
 
 You can combine filters in various ways as well as use them in conjunction with triggers. This is a powerful tool--experiment with it.
 
-### Flow {#flow}
+## Flow {#flow}
 
 The flow includes the steps you want the smart campaign to perform, including Wait steps and split choices.
 
-### Schedule {#schedule}
+## Schedule {#schedule}
 
 Finally, this controls when you run your smart campaign. You can even set up recurrence so it runs on a repeating schedule.
 
@@ -55,5 +55,3 @@ There is an enormous amount of things the smart campaign can do. Get the hang of
 >**Related Articles**
 >
 >* [Create a New Smart Campaign](creating-a-smart-campaign/create-a-new-smart-campaign.md)
->
-

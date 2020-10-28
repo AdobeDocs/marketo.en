@@ -14,9 +14,7 @@ Interesting moments are the key to communicating with your sales team through Ma
 >
 >These are available to [Marketo Sales Insight](http://docs.marketo.com/x/2Akt) and Marketo Sales Connect customers only.
 
-##
-
-#### What is an interesting moment?  {#what-is-an-interesting-moment}
+## What is an interesting moment?  {#what-is-an-interesting-moment}
 
 That's up to you! You decide what information is relevant to your sales team. Your sales team might want to know when a lead:
 

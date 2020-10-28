@@ -8,11 +8,11 @@ title: Sharing a Moment
 
 Want to give an update to your team? You've got two choices to select sharing:
 
-1. Tap the **Share **icon on the card.
+1. Tap the **Share** icon on the card.
 
    ![](assets/image2015-6-30-15-3a13-3a13.png)
 
-1. Tap the card menu and tap **Share **on the Details screen.
+1. Tap the card menu and tap **Share** on the Details screen.
 
    ![](assets/image2015-7-15-9-3a0-3a35.png)
 
@@ -26,7 +26,7 @@ Want to give an update to your team? You've got two choices to select sharing:
 
    ![](assets/image2015-7-14-16-3a11-3a42.png)
 
-   3. Enter your recipient's address, a subject, and tap **Send**.
+1. Enter your recipient's address, a subject, and tap **Send**.
 
    ![](assets/image2015-7-14-16-3a18-3a16.png)
 

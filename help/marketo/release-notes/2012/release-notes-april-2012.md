@@ -6,9 +6,7 @@ title: Release Notes -April 2012
 
 # Release Notes: April 2012 {#release-notes-april}
 
-##
-
-#### Segmentation Filters and Triggers {#segmentation-filters-and-triggers}
+## Segmentation Filters and Triggers {#segmentation-filters-and-triggers}
 
 >[!NOTE]
 >
@@ -53,7 +51,7 @@ If you are not syncing your subscription with Salesforce, you will notice that a
 
 ## Marketo Revenue Cycle Analytics {#marketo-revenue-cycle-analytics}
 
-#### Enhanced Gate Stages in the Revenue Cycle Modeler {#enhanced-gate-stages-in-the-revenue-cycle-modeler}
+**Enhanced Gate Stages in the Revenue Cycle Modeler**
 
 Allows users to define an order for their transition rules.
 

@@ -53,19 +53,16 @@ You can use the Wait flow step to pause a person's journey through a smart campa
 
    >[!NOTE]
    >
-   >You can also specify the number of days using a {{lead. or {{company. token that represents an integer field,  or a {{my. token of number type.
+   >You can also specify the number of days using a `{{lead.` or `{{company.` token that represents an integer field,  or a `{{my.` token of number type.
 
-   Click Save. 
+1. Click Save. 
+
    ![](assets/image2014-9-22-14-3a11-3a3.png)
 
    >[!NOTE]
    >
    >**Related Articles**
    >
-   >    
-   >    
-   >    * [Use a Duration in a Wait Flow Step](use-a-duration-in-a-wait-flow-step.md)
-   >    * [Use a Specific Date in a Wait Flow Step](use-a-specific-date-in-a-wait-flow-step.md)
-   >    
-   >
-
+   >* [Use a Duration in a Wait Flow Step](use-a-duration-in-a-wait-flow-step.md)
+   >* [Use a Specific Date in a Wait Flow Step](use-a-specific-date-in-a-wait-flow-step.md)
+ 

@@ -63,7 +63,7 @@ Almost done! We just have a few last pieces of configuration before moving onto 
 
    >[!NOTE]
    >
-   >If Marketo Config is missing, try refreshing the page. If the issue persists, [publish the Marketo Solution](#) [again](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) or try logging out and back in.
+   >If Marketo Config is missing, try refreshing the page. If the issue persists, [publish the Marketo Solution](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) or try logging out and back in.
 
 1. Click **Default**.
 
@@ -83,14 +83,12 @@ Almost done! We just have a few last pieces of configuration before moving onto 
 
 ## Before Proceeding to Step 3 {#before-proceeding-to-step}
 
-    * If you want to restrict the number of records you sync, [set up a custom sync filter](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) now.
-    * Run the [Validate Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) process. It verifies that your initial setups were done correctly.
-    * Log into the Marketo Sync User in Microsoft Dynamics CRM.
+* If you want to restrict the number of records you sync, [set up a custom sync filter](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) now.
+* Run the [Validate Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) process. It verifies that your initial setups were done correctly.
+* Log into the Marketo Sync User in Microsoft Dynamics CRM.
 
-   >[!NOTE]
-   >
-   >**Related Articles**
-   >
-   >
-   >[Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 3 of 3](install-marketo-for-dynamics-2015-on-prem-and-2016-365-on-prem-step-3-of-3.md)
-
+>[!NOTE]
+>
+>**Related Articles**
+>
+>[Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 3 of 3](install-marketo-for-dynamics-2015-on-prem-and-2016-365-on-prem-step-3-of-3.md)
