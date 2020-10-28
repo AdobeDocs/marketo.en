@@ -26,62 +26,19 @@ Social apps in Marketo have their own special triggers and filters.
 
    | Triggers/Filters |Social Buttons |Polls |Videos |Referral Offers |Sweepstakes |
    |---|---|---|---|---|---|
-   | Achieved Goal in Referral |  |  |  | ![(tick)](assets/check.svg)
-
-   |  |
-   | Shares Content | ![(tick)](assets/check.svg)
-
-   | ![(tick)](assets/check.svg)
-
-   | ![(tick)](assets/check.svg)
-
-   | ![(tick)](assets/check.svg)
-
-   | ![(tick)](assets/check.svg)
-
-   |
-   | Clicks Shared Link | ![(tick)](assets/check.svg)
-
-   | ![(tick)](assets/check.svg)
-
-   | ![(tick)](assets/check.svg)
-
-   | ![(tick)](assets/check.svg)
-
-   | ![(tick)](assets/check.svg)
-
-   |
-   | Disqualifies Sweepstakes |  |  |  |  | ![(tick)](assets/check.svg)
-
-   |
-   | Earns Entry in Social App |  |  |  |  | ![(tick)](assets/check.svg)
-
-   |
-   | Enters Sweepstakes |  |  |  |  | ![(tick)](assets/check.svg)
-
-   |
-   | Refers to Social App |  |  |  | ![(tick)](assets/check.svg)
-
-   | ![(tick)](assets/check.svg)
-
-   |
-   | Signs up for Referral Offer |  |  |  | ![(tick)](assets/check.svg)
-
-   |  |
-   | Votes in Poll |  | ![(tick)](assets/check.svg)
-
-   |  |  |  |
-   | Wins Sweepstakes |  |  |  |  | ![(tick)](assets/check.svg)
-
-   |
+   | Achieved Goal in Referral |  |  |  | ![(tick)](assets/check.svg)| |
+   | Shares Content | ![(tick)](assets/check.svg) | ![(tick)](assets/check.svg)  | ![(tick)](assets/check.svg)  | ![(tick)](assets/check.svg)  | ![(tick)](assets/check.svg) |
+   | Clicks Shared Link | ![(tick)](assets/check.svg) | ![(tick)](assets/check.svg)  | ![(tick)](assets/check.svg) | ![(tick)](assets/check.svg) | ![(tick)](assets/check.svg)  |
+   | Disqualifies Sweepstakes |  |  |  |  | ![(tick)](assets/check.svg)  |
+   | Earns Entry in Social App |  |  |  |  | ![(tick)](assets/check.svg) |
+   | Enters Sweepstakes |  |  |  |  | ![(tick)](assets/check.svg)  |
+   | Refers to Social App |  |  |  | ![(tick)](assets/check.svg) | ![(tick)](assets/check.svg)  |
+   | Signs up for Referral Offer |  |  |  | ![(tick)](assets/check.svg) |  |
+   | Votes in Poll |  | ![(tick)](assets/check.svg) |  |  |  |
+   | Wins Sweepstakes |  |  |  |  | ![(tick)](assets/check.svg) |
 
    >[!NOTE]
    >
    >**Related Articles**
    >
-   >    
-   >    
-   >    * [View Social Performance](view-social-performance.md)
-   >    
-   >
-
+   >* [View Social Performance](view-social-performance.md)

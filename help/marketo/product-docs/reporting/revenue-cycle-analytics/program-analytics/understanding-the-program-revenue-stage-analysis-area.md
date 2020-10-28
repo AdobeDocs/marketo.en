@@ -149,4 +149,3 @@ To view available dimensions or measures within a category, click the right arro
 >**Related Articles**
 >
 >[Create a Revenue Explorer Report](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
-

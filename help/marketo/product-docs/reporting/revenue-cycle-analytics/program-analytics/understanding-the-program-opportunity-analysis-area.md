@@ -185,6 +185,4 @@ Whereas measures (blue dots) are calculated, and require some thought and explan
 >
 >**Related Articles**
 >
->[Create a Revenue Explorer Report  
->](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
-
+>[Create a Revenue Explorer Report](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

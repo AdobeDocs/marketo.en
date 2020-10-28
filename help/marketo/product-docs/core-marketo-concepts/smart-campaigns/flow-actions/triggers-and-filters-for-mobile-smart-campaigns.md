@@ -11,13 +11,9 @@ You can set up triggers and filters for a Mobile App smart campaign.
 For most activities, there are a trigger, a filter, and an inactivity filter. Use inactivity filters to track an action, such as tapping a push notification, that *didn’t* happen.
 
 * Mobile App Is/Was Installed
-
 * Mobile App Is/Was Opened
-
 * Has/Had Mobile App Activity
-
 * Has/Had Mobile App Session
-
 * Taps/Tapped Mobile Push Notification
 
 There are only filters for this activity:
@@ -66,7 +62,9 @@ Use this filter to find out all people who have ever had your app installed. Thi
 >
 >The filter will find both current and former installs as Marketo does not track app uninstalls.
 
-**Constraints**: Device Type, Platform, Mobile App, Mobile App Version, Device Type, Install Source, Is Push Enabled, and Locale   ![](assets/image2015-8-21-13-3a33-3a54.png)
+**Constraints**: Device Type, Platform, Mobile App, Mobile App Version, Device Type, Install Source, Is Push Enabled, and Locale
+
+![](assets/image2015-8-21-13-3a33-3a54.png)
 
 >[!TIP]
 >
@@ -126,11 +124,10 @@ The Action constraints let you use the trigger and filters to track mobile activ
 >
 >Under the action type of *Shopping*, here's a very specific action, with the other constraints defining it:
 >
->* Bought a shirt >
->    * It was red
->    * It cost $30
->    * It took 20 seconds to buy
->
+>* Bought a shirt
+>  * It was red
+>  * It cost $30
+>  * It took 20 seconds to buy
 
 Here's how the filter looks in Marketo:   ![](assets/image2015-8-17-13-3a16-3a12.png)
 
@@ -190,5 +187,3 @@ Taps/Tapped Push Notification
 >
 >* [Add a Constraint to a Smart List Filter](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
 >* [Use Inactivity Filters in a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
->
-

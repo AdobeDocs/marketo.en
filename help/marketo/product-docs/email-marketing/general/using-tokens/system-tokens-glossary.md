@@ -12,20 +12,9 @@ In addition to person tokens, you can use some really cool system tokens. Here t
 >
 >Your account time zone settings affect when date and time tokens run.
 
-## \{\{system.date\}\} {#system-date}
+## system.date {#system-date}
 
-This token will render current date at runtime like so: **Aug 08, 2013**
-
-**Works in:**
-
-* [Change Data Value](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) flow step
-* [Interesting Moment](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) flow step
-* [Create Task](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) flow step
-* The body of an email or template
-
-## {{system.time\}\} {#system-time}
-
-This token will render the current time at runtime like so: **04:34 PM (GMT -0700)**
+The `{{system.date}}` token will render current date at runtime like so: **Aug 08, 2013**
 
 **Works in:**
 
@@ -34,9 +23,9 @@ This token will render the current time at runtime like so: **04:34 PM (GMT -070
 * [Create Task](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) flow step
 * The body of an email or template
 
-## \{\{system.dateTime\}\} {#system-datetime}
+## system.time {#system-time}
 
-This token will render the current date and time at runtime like so: **2013-08-08 16:36:13**
+The `{{system.time}}` token will render the current time at runtime like so: **04:34 PM (GMT -0700)**
 
 **Works in:**
 
@@ -45,25 +34,36 @@ This token will render the current date and time at runtime like so: **2013-08-0
 * [Create Task](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) flow step
 * The body of an email or template
 
-## \{\{system.forwardToFriendLink\}\} {#system-forwardtofriendlink}
+## system.dateTime {#system-datetime}
 
-This token allows you to control the placement of the ['Forward to a Friend Link' in Emails](../../../../product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md).
+The `{{system.dateTime}}` token will render the current date and time at runtime like so: **2013-08-08 16:36:13**
+
+**Works in:**
+
+* [Change Data Value](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) flow step
+* [Interesting Moment](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) flow step
+* [Create Task](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) flow step
+* The body of an email or template
+
+## system.forwardToFriendLink {#system-forwardtofriendlink}
+
+The `{{system.forwardToFriendLink}}` token allows you to control the placement of the ['Forward to a Friend Link' in Emails](../../../../product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md).
 
 **Works in:**
 
 * [Add a System Token as a Link in an Email](add-a-system-token-as-a-link-in-an-email.md) or template
 
-## `{{system.unsubscribeLink\}\} {#system-unsubscribelink}
+## system.unsubscribeLink {#system-unsubscribelink}
 
-This token allows you to control the placement of the unsubscribe link in an email.
+The `{{system.unsubscribLink}}` token allows you to control the placement of the unsubscribe link in an email.
 
 **Works in:**
 
 * [Add a System Token as a Link in an Email](add-a-system-token-as-a-link-in-an-email.md) or template
 
-## \{\{system.viewAsWebpageLink\}\} {#system-viewaswebpagelink}
+## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
-This token allows you to control the placement of the View as Web Page link in an email.
+The `{{system.viewAsWebpageLink}}` token allows you to control the placement of the View as Web Page link in an email.
 
 **Works with:**
 
