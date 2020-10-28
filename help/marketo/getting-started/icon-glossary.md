@@ -139,7 +139,7 @@ title: Icon Glossary
  </tbody> 
 </table>
 
-### Admin Icons {#admin-icons}
+## Admin Icons {#admin-icons}
 
 <table> 
  <tbody> 

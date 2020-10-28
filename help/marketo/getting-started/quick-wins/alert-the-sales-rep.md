@@ -6,7 +6,7 @@ title: Alert the Sales Rep
 
 # Alert the Sales Rep {#alert-the-sales-rep}
 
-### Mission: Alert the sales rep when a person fills out a form on your web site {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
+## Mission: Alert the sales rep when a person fills out a form on your web site {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
 To automatically send alert emails to sales reps, all you need is an alert email and an email campaign. Here's how to do it.
 
@@ -143,7 +143,7 @@ To automatically send alert emails to sales reps, all you need is an alert email
    >
    >Click the **Person Info** tab in Marketo to see the contact info.
 
-### Mission Complete! {#mission-complete}
+## Mission Complete! {#mission-complete}
 
 <br>&nbsp;
 

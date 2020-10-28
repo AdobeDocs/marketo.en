@@ -6,7 +6,7 @@ title: Landing Page with a Form
 
 # Landing Page with a Form {#landing-page-with-a-form}
 
-### Mission: Create a landing page with a form to acquire new people. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
+## Mission: Create a landing page with a form to acquire new people. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
 >[!NOTE]
 >
@@ -198,7 +198,7 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
    ![](assets/thirty-one.png)
 
-### Mission Complete! {#mission-complete}
+## Mission Complete! {#mission-complete}
 
 <br>&nbsp;
 

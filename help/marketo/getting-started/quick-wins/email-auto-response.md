@@ -6,7 +6,7 @@ title: Email Auto-Response
 
 # Email Auto-Response {#email-auto-response}
 
-### Mission: Send out a thank-you email when a person fills out a form {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
+## Mission: Send out a thank-you email when a person fills out a form {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
 
 >[!NOTE]
 >
@@ -134,7 +134,7 @@ title: Email Auto-Response
 >
 >Make sure you use your actual email address so you can get the email.
 
-### Mission Complete {#mission-complete}
+## Mission Complete {#mission-complete}
 
 Within just a few minutes you should see the auto response email in your inbox. Great job!
 

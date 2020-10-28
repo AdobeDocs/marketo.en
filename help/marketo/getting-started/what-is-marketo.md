@@ -6,15 +6,13 @@ title: What is Marketo?
 
 # What is Marketo? {#what-is-marketo}
 
-## What is Marketo? {#what-is-marketo-1}
-
 This is marketing software, sometimes known as Marketing Automation. It’s cool.  
 
-#### Is it a mail blast tool? {#is-it-a-mail-blast-tool}
+## Is it a mail blast tool? {#is-it-a-mail-blast-tool}
 
 Well, that's one thing you can do in Marketo. But there's so much more.  
 
-#### Ok, get to the point, what's it got? {#ok-get-to-the-point-whats-it-got}
+## Ok, get to the point, what's it got? {#ok-get-to-the-point-whats-it-got}
 
 * Form Editor
 * Landing Page Editor
@@ -36,7 +34,7 @@ Well, that's one thing you can do in Marketo. But there's so much more.
 
 No, not at all. Marketo is easy to get started and will evolve with you. You can add pieces over time.  
 
-#### Do I need to do any setup? {#do-i-need-to-do-any-setup}
+## Do I need to do any setup? {#do-i-need-to-do-any-setup}
 
 Yes, we made a [checklist of stuff to do](setup-steps/setup-checklist.md).  
 
@@ -46,4 +44,4 @@ Nope! We made a [bunch of easy tutorials](quick-wins.md) to get you started. The
 
 ## Why am I still asking questions? {#why-am-i-still-asking-questions}
 
-I don’t know, but we are always happy to help. We are in this together! 
+I don’t know, but we are always happy to help. We are in this together!

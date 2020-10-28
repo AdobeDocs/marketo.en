@@ -6,7 +6,7 @@ title: Import a List of People
 
 # Import a List of People {#import-a-list-of-people}
 
-### Mission: Import a spreadsheet list of trade show attendees into your database {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
+## Mission: Import a spreadsheet list of trade show attendees into your database {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
 >[!NOTE]
 >
@@ -145,7 +145,7 @@ title: Import a List of People
 >
 >You can analyze the success of your program by tracking program membership. Learn more about [**Programs**](http://docs.marketo.com/display/docs/programs).
 
-### Mission Complete {#mission-complete}
+## Mission Complete {#mission-complete}
 
 Your tradeshow attendees are now members of your Marketo program!
 

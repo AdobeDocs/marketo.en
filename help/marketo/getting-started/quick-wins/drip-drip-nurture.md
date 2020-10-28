@@ -6,7 +6,7 @@ title: Drip, Drip, Nurture
 
 # Drip, Drip, Nurture {#drip-drip-nurture}
 
-### Mission: Nurture the people who attended your recent tradeshow {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
+## Mission: Nurture the people who attended your recent tradeshow {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
 You can easily create an advanced and sophisticated nurture system in Marketo. Here's how!
 

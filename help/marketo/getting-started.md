@@ -6,27 +6,21 @@ title: Getting Started
 
 # Getting Started {#getting-started}
 
-## STEP  1    {#step}
-
-### What is Marketo  {#what-is-marketo}
+## STEP 1 What is Marketo {#what-is-marketo}
 
 What is Marketo you ask? Great question!
 
 [Learn Marketo](getting-started/what-is-marketo.md)
 
-## STEP  2    {#step-1}
-
-### Get Set Up  {#get-set-up}
+## STEP 2 Get Set Up {#get-set-up}
 
 With a little help from your IT team, you can get it done in no time.
 
 [Start Setup](getting-started/setup-steps.md)
 
-## STEP  3    {#step-2}
+## STEP 3 Get Some Quick Wins {#get-some-quick-wins}
 
-### Get Some Quick Wins  {#get-some-quick-wins}
-
-#### Complete these missions to learn the core features of Marketo.  {#complete-these-missions-to-learn-the-core-features-of-marketo}
+Complete these missions to learn the core features of Marketo.
 
 [![](assets/education-science-12.png)  1. Get Set Up and Add a Person](https://docs.marketo.com/pages/viewpage.action?pageId=2359351)
 
@@ -48,11 +42,8 @@ With a little help from your IT team, you can get it done in no time.
 
 [![](assets/office-23.png)  10. Update Person Data](getting-started/quick-wins/update-person-data.md)
 
-## STEP  4    {#step-3}
-
-### Congrats! You're ready for the Nation  {#congrats-youre-ready-for-the-nation}
+## STEP 4 Congrats! You're ready for the Nation  {#congrats-youre-ready-for-the-nation}
 
 Time to join the Marketing Nation!
 
 [Join Nation](https://nation.marketo.com)
-

@@ -213,11 +213,11 @@ Configure your domain settings so landing pages use your company’s domain inst
 
    Our Marketing Team is now using the Marketo platform to communicate with our people. To ensure great email deliverability, we need to make the following changes:
 
-   1) For our landing pages, add a DNS Entry (CNAME) for **[LandingPageCNAME]**.**[CompanyDomain]**.com, pointing to **[AccountString]**.mktoweb.com.
+   `1)` For our landing pages, add a DNS Entry (CNAME) for **[LandingPageCNAME]**.**[CompanyDomain]**.com, pointing to **[AccountString]**.mktoweb.com.
 
-   2) For our tracking links in email, add a DNS Entry (CNAME) for **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, pointing to **[MktoTrackingLink]**.
+   `2)` For our tracking links in email, add a DNS Entry (CNAME) for **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, pointing to **[MktoTrackingLink]**.
 
-   3) Allowlist Marketo.
+   `3)` Allowlist Marketo.
 
     * If we use IP addresses in our Email Allowlist, add the IPs listed below:  
       199.15.212.0/22
@@ -236,37 +236,35 @@ Configure your domain settings so landing pages use your company’s domain inst
 
       94.236.119.0/26
 
-   >[!NOTE]
-   >
-   >Reach out to Marketo Support if you’d like an abbreviated list of IPs to allowlist specific to your environment.
+   NOTE: Reach out to Marketo Support if you’d like an abbreviated list of IPs to allowlist specific to your environment.
 
     * If our anti-spam system uses From domains, add these:
 
-   **[FromDomain1]** 
-   **[FromDomain2]**
+   **`[FromDomain1]`** 
+   **`[FromDomain2]`**
 
-   4) We need to set up SPF and DKIM so Marketo is authorized to send signed emails on our behalf.
+   `4)` We need to set up SPF and DKIM so Marketo is authorized to send signed emails on our behalf.
 
-   a. To set up SPF, please add following line to our DNS entries:
+   `a.` To set up SPF, please add following line to our DNS entries:
 
    IN  TXT **[From Domain]**:  v=spf1 mx ip4:**[Corporate IP(s)]**** ** 
    include: mktomail.com ~all   
   
-   If we already have an existing SPF record in our DNS entry, simply add the following to it:  
+   If we already have an existing SPF record in our DNS entry, simply add the following to it: 
+
    include:mktomail.com
 
-   [Replace **From Domain** with your Email From Domain (ex: company.com) and **CorpIP** with the IP address of your corporate email server (ex: 255.255.255.255).  If you are going to be sending email from multiple domains through Marketo, you should have your IT staff add this line for each domain (on one line).]
+   `[`Replace **From Domain** with your Email From Domain (ex: company.com) and **CorpIP** with the IP address of your corporate email server (ex: 255.255.255.255).  If you are going to be sending email from multiple domains through Marketo, you should have your IT staff add this line for each domain (on one line).`]`
 
-   b. For DKIM, please create DNS Resource Records for each domain we'd like to setup. Below are the Host Records and TXT Values for each domain we'll be signing for:
+   `b.` For DKIM, please create DNS Resource Records for each domain we'd like to setup. Below are the Host Records and TXT Values for each domain we'll be signing for:
 
-   **[DKIMDomain1]**: Host Record is **[HostRecord1]** and the TXT Value is **[TXTValue1]**.
+   **`[DKIMDomain1]`**: Host Record is **`[HostRecord1]`** and the TXT Value is **[TXTValue1]**.
 
-   **[DKIMDomain2]**: Host Record is **[HostRecord2]** and the TXT Value is **[TXTValue2]**.
+   **`[DKIMDomain2]`**: Host Record is **`[HostRecord2]`** and the TXT Value is **`[TXTValue2]`**.
 
-   ...  
-   [Copy the **HostRecord** and **TXTValue** for each **DKIMDomain** you've setup after following the [instructions here](../product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Don't forget to verify each domain in **Admin > Email > DKIM** after your IT staff has completed this step.]
+   `[`Copy the **HostRecord** and **TXTValue** for each **DKIMDomain** you've setup after following the [instructions here](../product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Don't forget to verify each domain in **Admin > Email > DKIM** after your IT staff has completed this step.`]`
   
-   5) We need to ensure there is a valid MX record for our FROM domains **[FromDomain1]**, **[FromDomain2]**, etc. Can you confirm? If not, please configure to map to our corporate domain MX record. This will ensure we can process replies/autoresponders to our Marketo mailings.
+   `5)` We need to ensure there is a valid MX record for our FROM domains **[FromDomain1]**, **[FromDomain2]**, etc. Can you confirm? If not, please configure to map to our corporate domain MX record. This will ensure we can process replies/autoresponders to our Marketo mailings.
 
    Let me know when you have completed these steps, so that I can complete the setup process with Marketo.
 
@@ -274,7 +272,7 @@ Configure your domain settings so landing pages use your company’s domain inst
 
    Love,
 
-   **[Your Name]**
+   **`[Your Name]`**
 
    Send the email to IT. We understand it can take some time for IT to complete these tasks. You can continue on to Step 7, but remember that you must return Step 6 to complete your Marketo setup.
 
