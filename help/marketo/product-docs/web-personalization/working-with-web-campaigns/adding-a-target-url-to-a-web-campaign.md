@@ -18,7 +18,7 @@ A Target URL is located under the Set Campaign page and defines the specific URL
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-   3. Add a** Campaign Name**. Select a **Target Segment**. Add **Target URL**.
+1. Add a **Campaign Name**. Select a **Target Segment**. Add **Target URL**.
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -43,20 +43,16 @@ A Target URL is located under the Set Campaign page and defines the specific URL
 
 ## Adding Multiple URLs to Target URL {#adding-multiple-urls-to-target-url}
 
-   Clicking on the plus icon ( ![--](assets/image2015-2-18-8-3a40-3a59.png)) will open the Multiple Value Entry dialog to add multiple URLs. Add one URL per line.
+Clicking on the plus icon (![--](assets/image2015-2-18-8-3a40-3a59.png)) will open the Multiple Value Entry dialog to add multiple URLs. Add one URL per line.
 
-   ![](assets/image2015-2-23-18-3a15-3a57.png)
+![](assets/image2015-2-23-18-3a15-3a57.png)
 
-   >[!NOTE]
-   >
-   >
-   >    
-   >    
-   >    * Dialog and Widget web campaigns can use Any Page and Wildcard (&#42;) options.
-   >    * In advanced use cases, In Zone web campaigns can use Wildcards at end of URL path. Example: [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
-   >    * URL is case sensitive
-   >    
-   >
+>[!NOTE]
+>
+>
+>* Dialog and Widget web campaigns can use Any Page and Wildcard (&#42;) options.
+>* In advanced use cases, In Zone web campaigns can use Wildcards at end of URL path. Example: [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+>* URL is case sensitive
 
 ## Adding a Target URL for In Zone Web Campaigns {#adding-a-target-url-for-in-zone-web-campaigns}
 
@@ -83,5 +79,3 @@ A Target URL is located under the Set Campaign page and defines the specific URL
 >* [Create a New Dialog Web Campaign](create-a-new-dialog-web-campaign.md)
 >* [Create a New In Zone Web Campaign](create-a-new-in-zone-web-campaign.md)
 >* [Create a New Widget Web Campaign](create-a-new-widget-web-campaign.md)
->
-

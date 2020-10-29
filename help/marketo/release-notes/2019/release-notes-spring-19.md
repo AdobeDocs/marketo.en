@@ -1,10 +1,10 @@
 ---
 unique-page-id: 17728380
-description: Release Notes -Spring '19 - Marketo Docs - Product Documentation
-title: Release Notes -Spring '19
+description: Release Notes -Spring 2019 - Marketo Docs - Product Documentation
+title: Release Notes -Spring 2019
 ---
 
-# Release Notes: Spring '19 {#release-notes-spring}
+# Release Notes: Spring 2019 {#release-notes-spring}
 
 The following features are included in the Spring '19 release. Check your Marketo edition for feature availability.
 
@@ -23,7 +23,8 @@ The following features were released on March 15, 2019.
 * **Email Deliverability Powerpack Updates**: Ability to flag and comment on specific test results, share results with stakeholders through a URL, and track changes to see the evolution of an email as stakeholders edit content. 
 
 Account-Based Marketing
-** [Account`<sup>AI</sup>`](../../product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)** Now generally available. Account`<sup>AI</sup>` uses artificial intelligence to reveal the accounts you should target for your ABM strategy. 
+
+**[Account`<sup>AI</sup>`](../../product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)** Now generally available. Account`<sup>AI</sup>` uses artificial intelligence to reveal the accounts you should target for your ABM strategy. 
 
 <br>&nbsp;
 
@@ -42,8 +43,8 @@ For more details and updates, check our [Sky release notes](https://help.marketo
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **Enhanced Auditing**: New visibility into all people, [emails](#), and [content](../../product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md) in an instance with added ability to [end existing campaigns](../../product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)created by other users.
-* ** [Unsubscribe Management](../../product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximize deliverability and compliance with the ability to [block email domains](../../product-docs/marketo-sales-connect/admin/blocked-domains.md) from being contacted. Marketo will also cross-reference the lead database for unsubscribes before sending an email.
+* **Enhanced Auditing**: New visibility into all people, emails, and [content](../../product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md) in an instance with added ability to [end existing campaigns](../../product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)created by other users.
+* **[Unsubscribe Management](../../product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximize deliverability and compliance with the ability to [block email domains](../../product-docs/marketo-sales-connect/admin/blocked-domains.md) from being contacted. Marketo will also cross-reference the lead database for unsubscribes before sending an email.
 
 ## Bizible by Marketo {#bizible-by-marketo}
 

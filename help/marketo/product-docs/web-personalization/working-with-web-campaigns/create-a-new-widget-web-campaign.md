@@ -116,7 +116,7 @@ A web campaign is a customized reaction associated with a specific segment and c
 
    ![](assets/widget-campaign-delete-hand.png)
 
-   2. A confirmation message appears to confirm if you want to delete the web campaign.
+1. A confirmation message appears to confirm if you want to delete the web campaign.
 
 >[!NOTE]
 >
@@ -124,5 +124,3 @@ A web campaign is a customized reaction associated with a specific segment and c
 >
 >* [Create a New In Zone Web Campaign](create-a-new-in-zone-web-campaign.md)
 >* [Create a New Dialog Web Campaign](create-a-new-dialog-web-campaign.md)
->
-
