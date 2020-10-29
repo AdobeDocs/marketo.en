@@ -96,7 +96,7 @@ Figure 11. Microsoft Dynamics configuration
 
 ## Marketo Sales Insight Enhancements {#marketo-sales-insight-enhancements}
 
-#### Unsubscribe Footer Options {#unsubscribe-footer-options}
+**Unsubscribe Footer Options**
 
 Configure when and if the unsubscribe footer displays for emails sent through Sales Insight.
 

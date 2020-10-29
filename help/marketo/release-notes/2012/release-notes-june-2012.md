@@ -12,9 +12,9 @@ title: Release Notes -June 2012
 >
 >For other releases, see the [Release Notes](http://docs.marketo.com/display/docs/release+notes) deep dive.
 
-### Marketo Lead Management Enhancements {#marketo-lead-management-enhancements}
+## Marketo Lead Management Enhancements {#marketo-lead-management-enhancements}
 
-#### Rename {#rename}
+### Rename {#rename}
 
 You can rename your Smart Lists, static lists, and campaigns. If you are using these assets in filters, triggers, or flows, the name will automatically update there as well. You have always been able to rename your emails, forms, and folders.
 
@@ -80,7 +80,7 @@ Reminder: Email Performance Report upgrade is in progress!
 
 ## Marketo Revenue Cycle Analytics Enhancements {#marketo-revenue-cycle-analytics-enhancements}
 
-#### New Metrics in Program Opportunity Analysis  {#new-metrics-in-program-opportunity-analysis}
+### New Metrics in Program Opportunity Analysis  {#new-metrics-in-program-opportunity-analysis}
 
 You can now get insights into the average number of marketing touches before opportunities are created or closed, as well as the average value of a marketing touch.
 
@@ -105,4 +105,3 @@ Heat Grids allow you the ability to visualize data so you can identify patterns 
 Scatter charts help you visualize data on multiple dimensions in one graph. This visualization type will plot a bubble on a graph based on the attributes used. You can then use a measure to color-code the bubble and/or use a measure to specify the size of the bubble.
 
 ![](assets/image2014-9-23-10-3a29-3a7.png)
-

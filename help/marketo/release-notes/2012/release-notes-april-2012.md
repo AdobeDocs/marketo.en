@@ -21,7 +21,7 @@ Do you target the same group of leads consistently? If so, use segmentation in y
 ## Insert External Values into Email Content, and other Flow Steps, through Expanded API Capabilities {#insert-external-values-into-email-content-and-other-flow-steps-through-expanded-api-capabilities}
 
 * The Request Campaign API now allows you to send in values for My Tokens for that particular run of the campaign - this is particularly useful for populating email content via the API
-* New Upload To List and Schedule Campaign APIs support the above for lists of leads and batch campaigns ([http://community.marketo.com/MarketoArticle?id=kA050000000Kyr5](#))
+* New Upload To List and Schedule Campaign APIs support the above for lists of leads and batch campaigns.
 
 ## Easier Confirmation Emails for GoToWebinar and WebEx (Adobe Connect and ON24 Coming Soon!) {#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
 

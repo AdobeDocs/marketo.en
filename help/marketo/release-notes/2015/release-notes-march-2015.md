@@ -18,17 +18,19 @@ The following features are included in the March 2015 release. Please check your
 
 ![](assets/image2015-3-23-11-3a39-3a15.png)  
 
-## Google Adwords Integration  {#google-adwords-integration}
+## Google Adwords Integration {#google-adwords-integration}
 
 Link your [Google AdWords account to Marketo](../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) to automatically upload offline conversion data from Marketo to Google AdWords. Then, from the AdWords UI, you will be able to easily see which clicks resulted in qualified leads, opportunities, and new customers (or whatever revenue stages you want to track). 
 
-  ![](assets/image2015-3-23-11-3a50-3a55.png)
+![](assets/image2015-3-23-11-3a50-3a55.png)
 
 ## Revenue Explorer Redesign {#revenue-explorer-redesign}
 
 [Revenue Explorer](http://docs.marketo.com/display/docs/revenue+explorer) has a brand new look and feel, as well as the new Sunburst chart type! We'll be rolling this out over the first two weeks of April.
 
-## New Asset REST APIs [](http://developers.marketo.com/) {#new-asset-rest-apis}
+## New Asset REST APIs {#new-asset-rest-apis}
+
+[New Asset REST APIs](http://developers.marketo.com/)
 
 We now have support for creating and editing emails, templates, my tokens, files, and snippets [via the API](http://developers.marketo.com/documentation/asset-api)!
 
@@ -49,4 +51,3 @@ Leverage the [lead data fields](../../product-docs/web-personalization/using-web
 Continue the conversation with your lead across channels from email to web. [Personalize inbound content based on email campaign or program](../../product-docs/web-personalization/using-web-segments/web-segments.md) name used in Marketo’s Marketing Activities.
 
 ![](https://lh6.googleusercontent.com/CyX7Kh2dvBmxVtbc44DSfhqepujOsjZxoQ44StHQjgkHbrWoNUO9Bv8g8ZUH_oU-1QRTTltIb9WutoYMO5vnjjDDUmxWKS7Hyi0OSUv6nfe7JXfC-CVhFFUYA6q5kg21D556UEQ)
-

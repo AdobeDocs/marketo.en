@@ -10,16 +10,19 @@ The following features are included in the January 2015 release. Please check yo
 
 ## Marketing Automation Updates {#marketing-automation-updates}
 
-**New Photos by Rick DeCosta! **
+**New Photos by Rick DeCosta!**
 
 Rick is a Marketo customer from SmartBear and has an [unbelievable collection of photos](https://www.flickr.com/photos/rickdecosta). Check them out!
 
-Make suggestions for future photos by emailing [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0f7f67607b607c4f626e7d646a7b60216c6062).
+Make suggestions for future photos by emailing [email protected](http://docs.marketo.com/cdn-cgi/l/email-protection#0f7f67607b607c4f626e7d646a7b60216c6062).
 
 ## Mobile Friendly Landing Pages {#mobile-friendly-landing-pages}
 
-You can now [build mobile views for landing pages](../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) from within the landing page editor. Deliver your message effectively regardless of device and increase engagement by tailoring your content for easy consumption on-the-go. This feature will rollout gradually throughout the week following the release. 
-`<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>` New ReST API Calls
+You can now [build mobile views for landing pages](../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) from within the landing page editor. Deliver your message effectively regardless of device and increase engagement by tailoring your content for easy consumption on-the-go. This feature will rollout gradually throughout the week following the release.
+
+`<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>` 
+
+**New ReST API Calls**
 
 Three new calls for the Lead & Activity ReST API:
 
@@ -29,7 +32,7 @@ Three new calls for the Lead & Activity ReST API:
 
 Also, there is a new option for Sync Lead, to write the lead change asynchronously for a faster API call. Full details will be available after the release at [developers.marketo.com](http://developers.marketo.com)
 
-Email Scripting Custom Object Support
+**Email Scripting Custom Object Support**
 
 Now access custom objects associated with the Account object from within email scripts!
 
@@ -58,7 +61,6 @@ Updated RTP Tag Options
 1. Asynchronous tag without CDN
 1. Synchronous tag without CDN
 
-For best performance, it is recommended to place the tag at the top of the header in your web page after <head>. All tags allow for use of the [RTP API](http://developers.marketo.com/documentation/websites/rtp-js-api/). For information on how to deploy the RTP Tag see [here](../../product-docs/web-personalization/getting-started-rtp-/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+For best performance, it is recommended to place the tag at the top of the header in your web page after `<head>`. All tags allow for use of the [RTP API](http://developers.marketo.com/documentation/websites/rtp-js-api/). For information on how to deploy the RTP Tag see [here](../../product-docs/web-personalization/getting-started-rtp-/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
-

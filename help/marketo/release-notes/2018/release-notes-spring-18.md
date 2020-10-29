@@ -10,7 +10,11 @@ The following features are included in the Spring '18 release. Check your Market
 
 Please click the title links to view detailed articles for each feature. Note: Some of the features included in this release do not have associated articles. If a topic has multiple subheadings, the links are placed there.
 
-## [Marketo Sales Engag](../../product-docs/marketo-sales-connect/getting-started-msc/sales-connect-overview.md) [e Launch](../../product-docs/marketo-sales-connect/getting-started-msc/sales-connect-overview.md)and ToutApp Updates {#marketo-sales-engage-launch-and-toutapp-updates}
+## Marketo Sales Engage, Launch, and ToutApp Updates {#marketo-sales-engage-launch-and-toutapp-updates}
+
+* [Marketo Sales Engage](../../product-docs/marketo-sales-connect/getting-started-msc/sales-connect-overview.md)
+* [Launch](../../product-docs/marketo-sales-connect/getting-started-msc/sales-connect-overview.md)
+* ToutApp Updates
 
 >[!NOTE]
 >
@@ -22,13 +26,13 @@ Drive more pipeline and revenue by empowering sales with the intelligence, conte
 
 **ToutApp**
 
-* **Compliance Card**:** **Ensure GDPR compliance by capturing the source of sales contacts and details of customer consent for receiving communications.
+* **Compliance Card**: Ensure GDPR compliance by capturing the source of sales contacts and details of customer consent for receiving communications.
+* **Password Policy Update**: Keep your data safer with more stringent requirements for password creation, reset, and expiration (meets Soc II - Type 1 compliance requirements).
+* **Streamlined Account Setup Experience**: Get your account set up and connected to Gmail, Outlook, and other systems faster.
 
-* **Password Policy Update**:** **Keep your data safer with more stringent requirements for password creation, reset, and expiration (meets Soc II - Type 1 compliance requirements).
+## Marketo Sky Open Beta {#marketo-sky-open-beta}
 
-* **Streamlined Account Setup Experience**:** **Get your account set up and connected to Gmail, Outlook, and other systems faster.
-
-## [Marketo Sky Open Beta](https://help.marketo.com/hc/en-us) {#marketo-sky-open-beta}
+[Marketo Sky Open Beta](https://help.marketo.com/hc/en-us)
 
 Opt into the Marketo Sky open beta to get access to 100+ new productivity-boosting capabilities, including:
 
@@ -36,7 +40,9 @@ Opt into the Marketo Sky open beta to get access to 100+ new productivity-boosti
 * In-app guides and contextual help
 * Asset labels and more flexible calendar views
 
-## [Performance Insights](../../product-docs/reporting/performance-insights/performance-insights-overview.md) {#performance-insights}
+## Performance Insights {#performance-insights}
+
+[Performance Insights](../../product-docs/reporting/performance-insights/performance-insights-overview.md)
 
 **Year-Over-Year Period Comparison**
 
@@ -58,24 +64,24 @@ Easily share your Quick Charts with other Performance Insights users.
 
 Optimized navigation and improved workflows give you visibility to Program Success criteria and access to Program details.
 
-## Content`<sup>AI</sup>`  {#contentai}
+## Content `<sup>AI</sup>`  {#contentai}
 
-** [Goal Setting](../../product-docs/predictive-content/getting-started-predictive-content-and-content-ai/algorithm-goal-settings.md)**
+[Goal Setting](../../product-docs/predictive-content/getting-started-predictive-content-and-content-ai/algorithm-goal-settings.md)
 
-Set the objective of the Content`<sup>AI</sup>` optimization algorithm to drive more views, clicks, or conversions.
+Set the objective of the Content `<sup>AI</sup>` optimization algorithm to drive more views, clicks, or conversions.
 
 ## Integration and APIs {#integration-and-apis}
 
-** [Facebook Workplace Integration](../../product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)**
+[Facebook Workplace Integration](../../product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
 
 Send system notifications and interesting moments to Facebook Workplace.
 
-** [Static List APIs](http://developers.marketo.com/rest-api/assets/static-lists/)**
+[Static List APIs](http://developers.marketo.com/rest-api/assets/static-lists/)
 
 Manage lists between Marketo and other systems more easily with new bi-directional APIs for creating, reading, updating, and deleting static lists remotely without taking any action in the Marketo UI.
 
 ## Privacy Enhancements {#privacy-enhancements}
 
-** [Web Tracking Privacy](http://developers.marketo.com/javascript-api/lead-tracking/)**
+[Web Tracking Privacy](http://developers.marketo.com/javascript-api/lead-tracking/)
 
 Enhanced Munchkin tracking complies with local and international privacy regulations by anonymizing the IP addresses of web visitors and allowing them to permanently opt-out of web tracking.
