@@ -13,5 +13,5 @@ title: Using HTML
 
 >[!NOTE]
 >
->If you see the error "Error - to remove the style/java/html tags," it means you have some styling we don't support. You should search the Source code for the word style and delete everything from <style> through </style>.
+>If you see the error "Error - to remove the style/java/html tags," it means you have some styling we don't support. You should search the Source code for the word style and delete everything from `<style>` through `</style>`.
 

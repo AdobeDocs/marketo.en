@@ -8,7 +8,6 @@ title: Never Received a Verification Email
 
 Didn't receive the verification email from us?
 
-First, make sure it's not in your spam folder. * 
-*
+First, make sure it's not in your spam folder.
 
-If you don't find the email there, please [contact Support](#).
+If you don't find the email there, please contact Support.

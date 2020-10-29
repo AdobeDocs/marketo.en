@@ -32,15 +32,10 @@ Oops! How did those people get in there? You can remove members from an engageme
 
 ## Pause People  {#pause-people}
 
-   Sometimes you just want to pause people in an engagement program and not remove them. This is done with the **Change Engagement Program Cadence**.
+Sometimes you just want to pause people in an engagement program and not remove them. This is done with the **Change Engagement Program Cadence**.
 
-   >[!NOTE]
-   >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Pause People in an Engagement Program](pause-people-in-an-engagement-program.md)
-   >    
-   >
-
+>[!NOTE]
+>
+>**Related Articles**
+>
+>* [Pause People in an Engagement Program](pause-people-in-an-engagement-program.md)

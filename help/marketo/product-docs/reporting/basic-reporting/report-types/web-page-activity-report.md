@@ -15,7 +15,6 @@ You can choose to display known people or anonymous people, but not both kinds o
 >**Prerequisites**
 >
 >* [Add Munchkin Tracking Code to Your Website](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
->
 
 1. [Create a report](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)and select the** Web Page Activity Report** [report type](report-type-overview.md).
 1. Choose to [display known or anonymous people](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) in the report.
@@ -82,17 +81,11 @@ You can choose to display known people or anonymous people, but not both kinds o
    >
    >**Related Articles**
    >
-   >    
-   >    
-   >    * [Web Pages Viewed, Web Page Activity Report](web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
-   >    * [Display People or Anonymous Visitors in Web Reports](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
-   >    
-   >
+   >* [Web Pages Viewed, Web Page Activity Report](web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
+   >* [Display People or Anonymous Visitors in Web Reports](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
 
    >[!NOTE]
    >
    >**Deep Dive**
    >
-   >
    >Learn about other interesting reports in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
-

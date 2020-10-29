@@ -47,7 +47,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
    >[!TIP]
    >
-   >If you don't see the role, go back to [step 1 of 3](#) and import the solution.
+   >If you don't see the role, go back to [step 1 of 3](step-1-of-3.md) and import the solution.
 
    >[!NOTE]
    >

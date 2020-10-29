@@ -16,7 +16,7 @@ The first time someone visits a Marketo [landing page](../../../../product-docs/
 
    >[!NOTE]
    >
-   >Unlike other links in Marketo emails,  [View as Web Page](#) is not tracked as an email click. 
+   >Unlike other links in Marketo emails, View as Web Page is not tracked as an email click. 
 
    An anonymous activity is merged into a new or existing person when someone:
 

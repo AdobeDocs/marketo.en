@@ -8,7 +8,7 @@ title: Use Promo Codes for Offer Fulfillment
 
 When you create a referral offer or a sweepstakes, you can send a promo (coupon) code to each winner. To redeem their reward, they use the code, for example, on the checkout page of a purchase on your site.
 
-### Upload Promo Codes {#upload-promo-codes}
+## Upload Promo Codes {#upload-promo-codes}
 
 1. Go to **Marketing Activities**.
 
@@ -20,9 +20,7 @@ When you create a referral offer or a sweepstakes, you can send a promo (coupon)
 
 1. In the referral offer editor, go to **App Settings** and then **Offer Details.**
 
-   ** ![](assets/image2015-4-22-11-3a23-3a39.png)
-
-   **
+   ![](assets/image2015-4-22-11-3a23-3a39.png)
 
 1. Under Emails, select **Use Promo Codes**, and under Upload Codes, click **Browse** to select the promo codes file from your system.
 
@@ -60,4 +58,3 @@ Once participants start earning your offer reward, you can see which promo codes
 1. Here you should see some entries. Click the number in the **Promo Codes** column to see the promo codes that were sent to that participant, and when.
 
    ![](assets/image2015-4-22-11-3a36-3a43.png)
-

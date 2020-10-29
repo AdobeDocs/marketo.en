@@ -20,7 +20,7 @@ Read the following scenario and try to determine the numbers that should be in t
 | (FT) Opty Won |`<pre>0</pre>` |`<pre>0</pre>` |
 | (FT) Revenue Won |`<pre>0</pre>` |`<pre>0</pre>` |
 
-[Show Answers](#)
+**Show Answers**
 
 >[!NOTE]
 >
@@ -37,7 +37,6 @@ Read the following scenario and try to determine the numbers that should be in t
 >1. Credit is split evenly
 >1. You can't give more credit than you earned
 >1. You can't give credit for something that happened in the past
->
 
 Try all of the examples and you will be an attribution pro!
 
@@ -48,5 +47,3 @@ Try all of the examples and you will be an attribution pro!
 >* [Attribution Example 2](attribution-example-2.md)
 >* [Attribution Example 3](attribution-example-3.md)
 >* [Attribution Example 4](attribution-example-4.md)
->
-

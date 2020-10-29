@@ -48,7 +48,7 @@ To prevent CRM users from editing sales templates, admins can enable the ability
 
    ![](assets/6.png)
 
-   3. Check **Publish to Marketo Sales Insight** if it's not already checked. You can now uncheck **Allow CRM user to edit email** in order to lock the template. Click **Save**.
+1. Check **Publish to Marketo Sales Insight** if it's not already checked. You can now uncheck **Allow CRM user to edit email** in order to lock the template. Click **Save**.
 
    ![](assets/7.png)
 

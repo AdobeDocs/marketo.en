@@ -16,13 +16,11 @@ Sometimes you may need to modify an email's underlying HTML. Sometimes you may u
 
 1. Click **Edit Code**.
 
-   ` ![](assets/two-4.png)  
-   `
+   ![](assets/two-4.png)
 
 1. Make any changes. Click **Save** when done.
 
-   ` ![](assets/three-3.png)  
-   `
+   ![](assets/three-3.png)
 
    >[!NOTE]
    >
@@ -34,7 +32,7 @@ Sometimes you may need to modify an email's underlying HTML. Sometimes you may u
 
    >[!NOTE]
    >
-   >The best practice for emails is to make all your styles inline. Several email clients don't support CSS within the <head> section.
+   >The best practice for emails is to make all your styles inline. Several email clients don't support CSS within the `<head>` section.
 
 ## Breaking an Email From its Template {#breaking-an-email-from-its-template}
 
@@ -47,7 +45,7 @@ These code changes **will not** break an email from its template:
 * Changing mkto-specific attributes (for example, "mktoName" or "mktoImgUrl") of any Element outside of a Module
 * Editing the contents of any Element (rich text, image, video, etc.) outside of a Module
 
-These things you can do in the code editor **will **break the email from its template:
+These things you can do in the code editor **will** break the email from its template:
 
 * Changing anything in the code outside of an Element or Module
 * Adding or changing non-mkto attributes (for example, "id" or "style") of any Element outside of a Module

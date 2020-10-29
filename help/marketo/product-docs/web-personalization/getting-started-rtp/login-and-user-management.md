@@ -8,7 +8,7 @@ title: Login and User Management
 
 ## Create a Web Personalization User Role {#create-a-web-personalization-user-role}
 
-1. Go to the **Admin **section, then click **Users & Roles**.
+1. Go to the **Admin** section, then click **Users & Roles**.
 
    ![](assets/image2015-4-28-19-3a50-3a49.png)
 
@@ -32,7 +32,7 @@ title: Login and User Management
    >
    >To give users permission to access everything in Targeting and Personalization, be sure to select *all* the checkboxes.
 
-## Web Personalization and Predictive Content User Permissions {#web-personalization-and-predictive-content-user-permissions}>
+## Web Personalization and Predictive Content User Permissions {#web-personalization-and-predictive-content-user-permissions}
 
 **Targeting and Personalization**: User has view only permissions, if this permission is only selected.
 
@@ -63,4 +63,3 @@ title: Login and User Management
 1. Newly enabled users will see the **Web Personalization** tile in My Marketo the next time they log-in.
 
    ![](assets/eight.png)
-

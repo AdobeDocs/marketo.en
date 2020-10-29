@@ -1,10 +1,10 @@
 ---
 unique-page-id: 1900581
-description: 'Forward to a Friend Link' in Emails - Marketo Docs - Product Documentation
-title: 'Forward to a Friend Link' in Emails
+description: Forward to a Friend Link in Emails - Marketo Docs - Product Documentation
+title: Forward to a Friend Link in Emails
 ---
 
-# 'Forward to a Friend Link' in Emails {#forward-to-a-friend-link-in-emails}
+# Forward to a Friend Link in Emails {#forward-to-a-friend-link-in-emails}
 
 Adding the ‘Forward to Friend’ link to your emails allows you to track people who have received a forwarded email through this link, and automatically adds them as a new person if they are not already in the database.
 

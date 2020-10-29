@@ -35,7 +35,7 @@ The following information is included as part of the `{{SP_Send_Alert_Info}}`:
 >
 >The link to the CRM will only appear if the person is in the CRM system (currently not available with Dynamics CRM). The link is accessible to both Marketo and non-Marketo users.
 
-## Add the `{{SP_Send_Alert_Info}}` Token to an Email {#add-the-sp-send-alert-info-token-to-an-email}
+## Add the SP_Send_Alert_Info Token to an Email {#add-the-sp-send-alert-info-token-to-an-email}
 
 1. Select the email and click **Edit Draft**.
 

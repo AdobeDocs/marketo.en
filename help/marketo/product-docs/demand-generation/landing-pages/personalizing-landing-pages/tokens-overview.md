@@ -160,7 +160,7 @@ In this example, the email will say "Greetings, (first name)" or "Greetings, ear
 
 ## My Tokens {#my-tokens}
 
-My Tokens are defined within a program and begin with '{{my.' followed by the name you created for the token. Learn more about [My Tokens in a program](../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+My Tokens are defined within a program and begin with `{{my.` followed by the name you created for the token. Learn more about [My Tokens in a program](../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Member Token {#member-token}
 
@@ -171,4 +171,3 @@ Member Tokens are used to insert unique values from integrated services partners
 >[!CAUTION]
 >
 >The `{{member.webinar url}}` token will only populate if the smart campaign that sends the email is a child asset of the Event Program.
-

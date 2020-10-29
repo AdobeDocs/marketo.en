@@ -20,7 +20,13 @@ On the Content Analytics page, you can:
 * Search by Content Title and Content URL
 * Sort in descending or ascending order by clicking the column title for Views, Direct Conversions, and Conversion Rate.
 
-![](assets/content-analytics-8-29-16-blur.png)   You can also export a file in CSV format by clicking the icon.   ![](assets/image2016-8-29-13-3a51-3a49.png)   The Analytics table provides the following details: 
+![](assets/content-analytics-8-29-16-blur.png)   
+
+You can also export a file in CSV format by clicking the icon. 
+
+![](assets/image2016-8-29-13-3a51-3a49.png)
+
+The Analytics table provides the following details: 
 
 <table> 
  <thead> 
@@ -77,7 +83,7 @@ The additional content analytics include:
 
 **Trends**
 
-* A** Trends **graph showing the last 30 days of views of the specific content piece. Hover over the line graph to see the number of content views from a specific day
+* A **Trends** graph showing the last 30 days of views of the specific content piece. Hover over the line graph to see the number of content views from a specific day
 
 ## Delete Content {#delete-content}
 
@@ -89,9 +95,5 @@ From the Content Analytics page, click on the delete icon of the Content you wis
 >
 >**Related Articles**
 >
->* [Understanding Content Recommendations](#)
->* [Adding Content to Content Recommendations](#)
 >* [Enable the Content Recommendation Bar](../../../product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
 >* [Enable Predictive Content for Web Rich Media](../../../product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
->
-

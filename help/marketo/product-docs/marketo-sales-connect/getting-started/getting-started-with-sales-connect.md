@@ -14,9 +14,7 @@ If you would rather watch these steps than read them, skip straight to the [Vide
 >
 >Not all customers have purchased this functionality. Contact your Customer Success Manager for more information.
 
-## Written Instructions {#written-instructions}
-
-#### What You Need to Get Started {#what-you-need-to-get-started}
+## What You Need to Get Started {#what-you-need-to-get-started}
 
 * Marketo subscription
 * Sales Connect subscription
@@ -29,7 +27,7 @@ If you would rather watch these steps than read them, skip straight to the [Vide
 * Salesforce Admin  
 * Sales Connect users
 
-## Sales Connect Admins     {#sales-connect-admins}
+## Sales Connect Admins {#sales-connect-admins}
 
 You'll receive an email from Marketo with a link to reset your password. After you create a new password, log in to Sales Connect.
 
@@ -129,4 +127,3 @@ For teams who want to test Marketo Sales Connect with their Marketo Sandbox, an 
 ## Video Instructions {#video-instructions}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/w5RY7iMPpEfUYQ4Fp8WUKR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-

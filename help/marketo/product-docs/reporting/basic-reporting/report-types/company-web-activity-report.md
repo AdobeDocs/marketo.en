@@ -70,20 +70,14 @@ Create a  [Web Page Activity report](web-page-activity-report.md) to see the ind
  </tbody> 
 </table>
 
-   >[!NOTE]
-   >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Display People or Anonymous Visitors in Web Reports](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
-   >    
-   >
+>[!NOTE]
+>
+>**Related Articles**
+>
+>* [Display People or Anonymous Visitors in Web Reports](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
 
-   >[!NOTE]
-   >
-   >**Deep Dive**
-   >
-   >
-   >Learn about other interesting reports in the [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) deep dive.
-
+>[!NOTE]
+>
+>**Deep Dive**
+>
+>Learn about other interesting reports in the [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) deep dive.

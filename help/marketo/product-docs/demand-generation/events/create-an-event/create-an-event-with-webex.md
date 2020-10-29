@@ -13,54 +13,53 @@ title: Create an Event with WebEx
 >* [Add WebEx as a LaunchPoint Service](../../../../product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [Create a New Event Program](../../../../product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Set the appropriate [flow actions](http://docs.marketo.com/display/DOCS/Flow+Actions)to track engagement
->
 
-First create a Webex Event in the WebEx Event Center. `Marketo only uses specific settings and fields for your integration, which we’ll go through shortly. Other fields that you might want to configure for WebEx are explained in the` ` [WebEx Event Center User Guide](http://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).` 
+First create a Webex Event in the WebEx Event Center. Marketo only uses specific settings and fields for your integration, which we’ll go through shortly. Other fields that you might want to configure for WebEx are explained in the [WebEx Event Center User Guide](http://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
 
-### Basic Information {#basic-information}
+## Basic Information {#basic-information}
 
 * **Event Name -** This name will be viewable in Marketo.
-* **Unlisted Checkbox **
+* **Unlisted Checkbox**
 
-    * `It's recommended that you do **not** list your event. This will ensure that all people register through your Marketo landing page. People who register through a mechanism other than Marketo will be displayed in Marketo after the event is concluded AND only if they attended the event.`
-    * `If you choose to list the event, it will appear on the List of Events page for anyone who visits your Event Center website.`
+  * It's recommended that you do **not** list your event. This will ensure that all people register through your Marketo landing page. People who register through a mechanism other than Marketo will be displayed in Marketo after the event is concluded AND only if they attended the event.
+  * If you choose to list the event, it will appear on the List of Events page for anyone who visits your Event Center website.
 
-* `**Registration -** Check this box to set to “required.” You'll use a Marketo form/landing page to capture registration information that will be pushed to WebEx. `
-* **Event Password **- (optional) If you use this field be sure to include it in your confirmation email!
+* **Registration -** Check this box to set to “required.” You'll use a Marketo form/landing page to capture registration information that will be pushed to WebEx.
+* **Event Password**- (optional) If you use this field be sure to include it in your confirmation email!
 
 ![](assets/image2015-5-28-13-3a30-3a55.png)
 
-### Date & Time {#date-time}
+## Date & Time {#date-time}
 
 * **Start date** - Enter your start date. This will be viewable in Marketo.
 * **Start time** - Enter your start time. This will be viewable in Marketo.
-* **Estimated duration **- Specify the duration of the event. This will be viewable in Marketo.
+* **Estimated duration** - Specify the duration of the event. This will be viewable in Marketo.
 
-* **Time Zones **- Enter the applicable time zones. They will be viewable in Marketo.
+* **Time Zones** - Enter the applicable time zones. They will be viewable in Marketo.
 
 ![](assets/image2015-5-28-13-3a37-3a39.png)
 
-### Audio Conference Settings {#audio-conference-settings}
+## Audio Conference Settings {#audio-conference-settings}
 
 These settings reside in WebEx only. They are not used by or viewable in Marketo, but they may be important for your webinar, so double-check them!
 
-### Event Description & Options  {#event-description-options}
+## Event Description & Options  {#event-description-options}
 
 The following options are used by or viewable in Marketo. Other fields reside in WebEx only.
 
 * **Description** - Enter a description. This will be viewable but not modifiable in Marketo.
 * **Post-event survey** - Marketo isn't able to capture the information on a WebEx post-event survey at this time.
-* `**Destination URL** - (optional) You can enter the URL of a Marketo landing page to serve as the destination URL to display after the session ends.`
+* **Destination URL** - (optional) You can enter the URL of a Marketo landing page to serve as the destination URL to display after the session ends.
 
 ![](assets/image2015-5-28-13-3a48-3a49.png)
 
-### Attendees & Registration {#attendees-registration}
+## Attendees & Registration {#attendees-registration}
 
 You will be controlling the invitation list, registration form, and other emails using a Marketo Event. Other functionality will not be supported by Marketo, including:
 
-* **Maximum number of registrants** - Currently **not** supported using the Marketo-WebEx integration.  `Manual approval of registrants is available using the Pending Approval progression status in Marketo.`
+* **Maximum number of registrants** - Currently **not** supported using the Marketo-WebEx integration.  Manual approval of registrants is available using the Pending Approval progression status in Marketo.
 
-* `**Registration ID required **- Currently supported using the Marketo-WebEx integration. You can use Marketo to send out the confirmation email for your event. When the person registers, they receive a unique URL that they use to enter the event.`
+* **Registration ID required** - Currently supported using the Marketo-WebEx integration. You can use Marketo to send out the confirmation email for your event. When the person registers, they receive a unique URL that they use to enter the event.
 
   >[!TIP]
   >

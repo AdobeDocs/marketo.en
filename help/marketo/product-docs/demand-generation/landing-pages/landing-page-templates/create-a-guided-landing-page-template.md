@@ -75,7 +75,7 @@ Example:
 
 >[!NOTE]
 >
->When using the <img> version, the rendered HTML will contain a generated div wrapper around the <img> tag. It will be set to class .”mktoImg.mktoGen,” and will be display:inline-block.
+>When using the `<img>` version, the rendered HTML will contain a generated div wrapper around the `<img>` tag. It will be set to class .”mktoImg.mktoGen,” and will be display:inline-block.
 
 ## Form {#form}
 
@@ -152,7 +152,7 @@ All variable types are used by referencing the value of their id attribute wrapp
 Example:
 `<pre data-theme="Confluence">${var1}</pre>` **Declaration:**
 
-Variables are declared as meta tags inside the <head> element of the template. There are three types of variables available for use: String, Color, and Boolean.
+Variables are declared as meta tags inside the `<head>` element of the template. There are three types of variables available for use: String, Color, and Boolean.
 
 ## String {#string}
 
@@ -198,12 +198,17 @@ Optional:
 **true_value_name**: String. The display name to be shown in the landing page editor when the value is in the ON position. "ON" if not provided.
 
 Basic Example:
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`     `<pre data-theme="Confluence"><meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable"></pre>` Example with all attributes:
+
+`<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`
+
+`<pre data-theme="Confluence"><meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable"></pre>` 
+
+Example with all attributes:
 
 This example shows a common use case where a boolean variable controls the visibility of a css element by setting the value of css display property to either "block" or "none" to show/hide an element by id with CSS. The landing page editor will use the display name Show/Hide instead of OFF/ON.
+
 `<pre data-theme="Confluence"><meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style></pre>` 
 
 >[!NOTE]
 >
 >Program tokens (my.token) can also be used anywhere in Guided or Free-form landing pages.
-

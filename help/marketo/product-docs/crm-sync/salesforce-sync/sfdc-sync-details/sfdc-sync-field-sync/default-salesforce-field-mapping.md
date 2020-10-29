@@ -8,7 +8,7 @@ title: Default Salesforce Field Mapping
 
 When you initially sync your Marketo account with Salesforce, Marketo automatically makes these associations between your built-in Salesforce and Marketo fields. Marketo will also sync your custom fields on your Leads, Accounts, Opportunities, and Contacts.
 
-### Lead Fields {#lead-fields}
+## Lead Fields {#lead-fields}
 
 | SFDC field |Marketo field |
 |---|---|
@@ -41,7 +41,7 @@ When you initially sync your Marketo account with Salesforce, Marketo automatica
 | Title |Job Title |
 | Website |Website |
 
-### Contact Fields {#contact-fields}
+## Contact Fields {#contact-fields}
 
 | SFDC field |Marketo field |
 |---|---|
@@ -66,7 +66,7 @@ When you initially sync your Marketo account with Salesforce, Marketo automatica
 | Salutation |Salutation |
 | Title |Job Title |
 
-### Account Fields {#account-fields}
+## Account Fields {#account-fields}
 
 | SFDC field |Marketo field |
 |---|---|
@@ -87,7 +87,7 @@ When you initially sync your Marketo account with Salesforce, Marketo automatica
 | Account Type |SFDC Type |
 | Website |Website |
 
-### Salesforce-Related System Fields in Marketo (Read-only) {#salesforce-related-system-fields-in-marketo-read-only}
+## Salesforce-Related System Fields in Marketo (Read-only) {#salesforce-related-system-fields-in-marketo-read-only}
 
 These fields are created in Marketo but can't be adjusted by customers.
 
@@ -97,4 +97,3 @@ These fields are created in Marketo but can't be adjusted by customers.
 | SFDC Type |Lead or Contact. If empty, the lead exists only as a person in Marketo |
 | SFDC Created Date |Date created in SFDC (can be different from Created in Marketo) |
 | SFDC is Deleted |Person used to be in SFDC but was deleted and now lives only in Marketo |
-

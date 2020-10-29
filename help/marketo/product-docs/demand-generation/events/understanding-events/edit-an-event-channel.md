@@ -12,8 +12,6 @@ You can edit the channel type from the event’s **Summary** tab or from its **S
 >
 >This option is only available for events that do not have associated members. Once an event has members, you cannot change the channel type.
 
-##
-
 >[!NOTE]
 >
 >A program is one specific marketing initiative. The **channel** is intended to be the delivery mechanism, like Webinar, Tradeshow, or Online Ad. You may see different channel options in your drop-down, depending on what's available in your own instance. You can also  [create your own channel.](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)

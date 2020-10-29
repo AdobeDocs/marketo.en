@@ -14,7 +14,7 @@ You define the fulfillment goal when creating a referral offer. If the action th
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. Copy the top script in the grey box and place it on your webpage within the <body> tags. The bottom script is placed within the <header> tags.
+1. Copy the top script in the grey box and place it on your webpage within the `<body>` tags. The bottom script is placed within the `<header>` tags.
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
@@ -58,5 +58,3 @@ Awesome! Your website is now capturing custom social promotion goals with Market
 >* [Specify Goal for Referral Offer](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
 >* [Create a Referral Offer](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 >* [Deploy Social on Your Website](deploy-social-on-your-website.md)
->
-

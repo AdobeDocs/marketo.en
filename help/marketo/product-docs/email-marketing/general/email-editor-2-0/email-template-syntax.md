@@ -18,7 +18,7 @@ Marketo email syntax only works in templates and individual emails; it does **no
 >
 >Class values containing Marketo syntax (i.e. mktoModule, mktoContainer, mktoText) are case sensitive. Custom attribute names (i.e. mktoimgwidth, mktoname) are not.
 
-# Elements {#elements}
+## Elements {#elements}
 
 Elements are content regions that you define as editable in your email template. The editing experience of an element is unique to its type and offers a simple way to work with content. The possible elements that can be included in an email template are:
 
@@ -138,7 +138,7 @@ Example:
 
 ## Video {#video}
 
-If you define a region as a Video, end users will be able to insert either a YouTube or Vimeo URL that will be displayed as a thumbnail image (with 'play' button) inside of the email. You can specify a Video region using a <div> with class=”mktoVideo"
+If you define a region as a Video, end users will be able to insert either a YouTube or Vimeo URL that will be displayed as a thumbnail image (with 'play' button) inside of the email. You can specify a Video region using a `<div>` with class=”mktoVideo"
 
 Required attributes  
 
@@ -147,7 +147,7 @@ Required attributes
 
 Optional attributes  
 
-* **mktoImgClass:** String. The value here will be added to the class attribute of the video thumbnail <img> inside the div.
+* **mktoImgClass:** String. The value here will be added to the class attribute of the video thumbnail `<img>` inside the div.
 
 Example:
 
@@ -321,7 +321,7 @@ Example Usage:
 
 `<pre data-theme="Confluence">${heroBackgroundImage}</pre>` 
 
-# Modules {#modules}
+## Modules {#modules}
 
 Modules are templatized sections defined at the template level that will show up for end users to insert into their email. Because you have pre-built these modules, you can ensure they will interact with the rest of your email content gracefully (in a fully responsive manner). You can only put a module in a container.
 
@@ -349,7 +349,7 @@ Optional attributes
 >
 >Class values containing Marketo syntax (i.e. mktoModule, mktoContainer, mktoText) are case sensitive. Custom attribute names (i.e. mktoimgwidth, mktoname) are not.
 
-# Containers {#containers}
+## Containers {#containers}
 
 A container holds Modules and defines where they can be placed. When end users are re-ordering and inserting modules into their email, the container controls where they may go.
 
@@ -362,4 +362,3 @@ Required attributes
 >[!CAUTION]
 >
 >Containers can only contain Modules-if there's anything else present, the Container is considered invalid! Only one container is allowed per template.
-

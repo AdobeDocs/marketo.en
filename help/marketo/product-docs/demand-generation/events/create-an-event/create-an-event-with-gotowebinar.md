@@ -13,7 +13,6 @@ title: Create an Event with GotoWebinar
 >* [Add GoToWebinar as a LaunchPoint service](../../../../product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md) 
 >* [Create a New Event Program](../../../../product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Set the appropriate [flow actions](http://docs.marketo.com/display/DOCS/Flow+Actions)to track engagement
->
 
 First create your webinar in GoToWebinar. Certain settings in the creation of your GoToWebinar are used by Marketo and some are only used by GoToWebinar. 
 
@@ -21,14 +20,14 @@ After you create a Marketo event and associate the GoToWebinar with it, the syst
 
 Below is a list of the settings used by Marketo.
 
-### Title and Description {#title-and-description}
+## Title and Description {#title-and-description}
 
 * `**Webinar Name** - enter the name for the webinar. This name will be viewable in Marketo.`
 * `**Description** (optional) - enter the description for the webinar. The description will be`viewable in Marketo.
 
 ![](assets/image2015-5-28-15-3a1-3a36.png)
 
-### Date & Time {#date-time}
+## Date & Time {#date-time}
 
 `Enter the following information for your webinar and it will be pulled into Marketo via the`adapter. If you make any changes to this information, you must click the link “**Refresh from Webinar Provider**” under **Event Actions**, in order for Marketo to see the changes.
 
@@ -113,4 +112,3 @@ In the [program schedule view](http://docs.marketo.com/display/docs/program+sche
 >To change your event schedule, you'll need to edit the webinar on GoToWebinar.
 
 ![](assets/image2015-5-14-15-3a3-3a13.png)
-

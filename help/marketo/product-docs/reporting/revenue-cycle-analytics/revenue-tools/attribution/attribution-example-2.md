@@ -22,7 +22,7 @@ Read the following scenario and try to determine the numbers that should be in t
 | (FT) Opty Won |`<pre>0.5</pre>` |`<pre>0.5</pre>` |
 | (FT) Revenue Won |`<pre>$3,000</pre>` |`<pre>$3,000</pre>` |
 
-[Show Answers](#)
+**Show Answers**
 
 >[!NOTE]
 >
@@ -52,5 +52,3 @@ Try all of the examples and you will be an attribution pro!
 >* [Attribution Example 1](attribution-example-1.md)
 >* [Attribution Example 3](attribution-example-3.md)
 >* [Attribution Example 4](attribution-example-4.md)
->
-

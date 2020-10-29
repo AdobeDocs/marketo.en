@@ -24,7 +24,7 @@ You can deploy social apps on your own website to engage your audience and bring
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
-1. Copy the code for your site's page header (<head>) and body (<body>).
+1. Copy the code for your site's page header (`<head>`) and body (`<body>`).
 
    ![](assets/image2015-5-12-13-3a3-3a34.png)
 
@@ -36,7 +36,7 @@ You can deploy social apps on your own website to engage your audience and bring
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. If you need to set the size of the social app to specific dimensions on your page, add the** outerHeight** and **outerWidth** options to the second code snippet. For example, you can add options='{"outerHeight":400, "outerWidth":600}', as in:
+1. If you need to set the size of the social app to specific dimensions on your page, add the **outerHeight** and **outerWidth** options to the second code snippet. For example, you can add options='{"outerHeight":400, "outerWidth":600}', as in:
 
    ![](assets/socialonsite-resizewidget2.png)
 
@@ -48,9 +48,6 @@ You can deploy social apps on your own website to engage your audience and bring
    >
    >    
    >    
-   >    * [Customize Social App Button](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
-   >    * [Set Social Share Requirement](set-social-share-requirement.md)
-   >    * [Publish Landing Pages to Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
-   >    
-   >
-
+   >* [Customize Social App Button](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
+   >* [Set Social Share Requirement](set-social-share-requirement.md)
+   >* [Publish Landing Pages to Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
