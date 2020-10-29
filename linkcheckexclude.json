@@ -49,40 +49,19 @@
             "pattern": "^.*google.com"
         },
         {
-            "pattern": "^.*your_clientcode"
-        },
-        {
-            "pattern": "^.*INSERT-DOMAIN-AND-PATH-TO-CODE-HERE"
-        },
-        {
             "pattern": "^.*flywithus.com"
         },
         {
             "pattern": "^.*flytohawaiiforfree.com"
         },
         {
-            "pattern": "^.*training.adobe.com"
-        },
-        {
-            "pattern": "^.*homedepot.com"
-        },
-        {
             "pattern": "^.*europa.eu"
         },
         {
-            "pattern": "^.*github.com"
+            "pattern": "^.*login.experiencecloud.adobe.com"
         },
         {
-            "pattern": "^.*html2canvas.hertzen.com"
-        },
-        {
-            "pattern": "^.*adobe.io"
-        },
-        {
-            "pattern": "^.*sling.apache.org"
-        },
-        {
-            "pattern": "^.*localhost.*"
-        }
+            "pattern": "^.*marketing.adobe.com"
+        }          
     ]
 }
