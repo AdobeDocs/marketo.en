@@ -1505,7 +1505,7 @@ user-guide-description: Marketo product documentation
         + [Compare Channel Effectiveness with the Program Analyzer](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
         + [Compare Program Effectiveness with the Program Analyzer](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
         + [Create a Program Analyzer](product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
-        + [Explore Program & Channel Details with the Program Analyzer](product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-&-channel-details-with-the-program-analyzer.md)
+        + [Explore Program & Channel Details with the Program Analyzer](product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
         + [Make a Program Without a Period Cost Available in Revenue Explorer and Analyzers](product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)
         + [Override Analytics Behavior at the Program Level](product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)
         + [Understanding the Program Cost Analysis Area](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-cost-analysis-area.md)

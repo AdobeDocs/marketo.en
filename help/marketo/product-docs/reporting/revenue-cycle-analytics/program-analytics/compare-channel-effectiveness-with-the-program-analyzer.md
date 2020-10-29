@@ -81,7 +81,7 @@ In our example, we see that the Tradeshow channel is both the most expensive (fu
 >
 >**Related Articles**
 >
->* [Explore Program & Channel Details with the Program Analyzer](explore-program-&-channel-details-with-the-program-analyzer.md)
+>* [Explore Program & Channel Details with the Program Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Compare Program Effectiveness with the Program Analyzer](compare-program-effectiveness-with-the-program-analyzer.md)
 >
 

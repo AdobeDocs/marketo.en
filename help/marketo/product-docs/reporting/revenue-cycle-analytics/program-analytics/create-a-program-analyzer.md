@@ -64,7 +64,7 @@ Discover which programs and channels are giving you the biggest bang for your ma
 >
 >* [Compare Channel Effectiveness with the Program Analyzer](compare-channel-effectiveness-with-the-program-analyzer.md)
 >* [Compare Program Effectiveness with the Program Analyzer](compare-program-effectiveness-with-the-program-analyzer.md)
->* [Explore Program & Channel Details with the Program Analyzer](explore-program-&-channel-details-with-the-program-analyzer.md)
+>* [Explore Program & Channel Details with the Program Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Clone a Program Analyzer](clone-a-program-analyzer.md)
 >
 

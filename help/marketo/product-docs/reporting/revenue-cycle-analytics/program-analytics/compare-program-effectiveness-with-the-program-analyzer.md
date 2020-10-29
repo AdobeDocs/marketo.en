@@ -89,7 +89,7 @@ We see that the Paper Fest 12 program not only influences more revenue (bigger b
 >
 >**Related Articles**
 >
->* [Explore Program & Channel Details with the Program Analyzer](explore-program-&-channel-details-with-the-program-analyzer.md)
+>* [Explore Program & Channel Details with the Program Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Compare Channel Effectiveness with the Program Analyzer](compare-channel-effectiveness-with-the-program-analyzer.md)
 >
 
