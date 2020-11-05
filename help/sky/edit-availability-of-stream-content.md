@@ -13,7 +13,7 @@ You can set a time frame for the content to be active in your stream.
 
    ![Image One](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-1.png)
 
-1. Click the **Streams** tab.
+1. Click the [!UICONTROL **Streams**] tab.
 
    ![Image Two](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-2.png)
 
@@ -21,7 +21,7 @@ You can set a time frame for the content to be active in your stream.
 
    ![Image Three](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-3.png)
 
-1. Select **Edit Availability**.
+1. Select [!UICONTROL **Edit Availability**].
 
    ![Image Four](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-4.png)
 
@@ -29,7 +29,7 @@ You can set a time frame for the content to be active in your stream.
 
    ![Image Five](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
-1. Click **Save**.
+1. Click [!UICONTROL **Save**].
 
    ![Image Six](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-6.png)
 

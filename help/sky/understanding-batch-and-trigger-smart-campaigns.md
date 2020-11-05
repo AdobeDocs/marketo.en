@@ -17,7 +17,7 @@ Batch smart campaigns will only have filters within the smart list section (i.e.
 
    ![Image One](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Clicking the **Schedule** tab will confirm that the smart campaign is set to "Batch."
+Clicking the [!UICONTROL **Schedule**] tab will confirm that the smart campaign is set to "Batch."
 
    ![Image Two](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
@@ -35,7 +35,7 @@ If a smart campaign uses at least one trigger within the smart list section, the
 
    ![Image Three](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Clicking the **Schedule** tab will confirm that the smart campaign is set to "Trigger."
+Clicking the [!UICONTROL **Schedule**] tab will confirm that the smart campaign is set to "Trigger."
 
    ![Image Four](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 

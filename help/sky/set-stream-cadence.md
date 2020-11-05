@@ -15,11 +15,11 @@ You can send engagement content at any interval you want. For example: once a we
 
    ![Image One](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-1.png)
 
-1. Click the **Streams** tab, then click **Set Cadence**.
+1. Click the [!UICONTROL **Streams**] tab, then click [!UICONTROL **Set Cadence**].
 
    ![Image Two](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-2.png)
 
-1. Select how often you want the cadence to recur. You can choose **Weekly**, **Monthly**, or **None**.
+1. Select how often you want the cadence to recur. You can choose [!UICONTROL **Weekly**], [!UICONTROL **Monthly**], or [!UICONTROL **None**].
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ You can send engagement content at any interval you want. For example: once a we
 
 ## Weekly
 
-1. Select **Weekly**.
+1. Select [!UICONTROL **Weekly**].
 
    ![Image Three](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-3.png)
 
@@ -45,9 +45,9 @@ You can send engagement content at any interval you want. For example: once a we
 
    >[!TIP]
    >
-   >You can set your cadence to run every day by picking **Repeats: Weekly** / **Every: 1 Week** / **On:** all days.
+   >You can set your cadence to run every day by picking [!UICONTROL **Repeats: Weekly**] / [!UICONTROL **Every: 1 Week**] / [!UICONTROL **On:**] all days.
 
-1. Now pick the Time. Check the box if you want to use [Recipient Time Zone](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) (i.e., deliver according to local time zones), then click **Save**.
+1. Now pick the Time. Check the box if you want to use [Recipient Time Zone](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) (i.e., deliver according to local time zones), then click [!UICONTROL **Save**].
 
    ![Image Seven](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-7.png)
 
@@ -67,7 +67,7 @@ That's it! Keep reading if you want to set up a monthly cadence.
 
 ## Monthly
 
-1. Select **Monthly** for how often it repeats.
+1. Select [!UICONTROL **Monthly**] for how often it repeats.
 
    ![Image Nine](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-9.png)
 
@@ -87,7 +87,7 @@ That's it! Keep reading if you want to set up a monthly cadence.
    >
    >Alternatively, you can pick day of the week.
 
-1. Pick a Time and click **Save**.
+1. Pick a Time and click [!UICONTROL **Save**].
 
    ![Image Thirteen](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-13.png)
 

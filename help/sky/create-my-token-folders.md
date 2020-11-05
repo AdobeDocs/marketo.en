@@ -13,7 +13,7 @@ Here's how to sort your My Tokens into folders.
 
    ![Image One](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. Enter a name for your new folder, then select **Local Tokens** or **Overridden Tokens** from the destination drop-down. Click **Save**.
+1. Enter a name for your new folder, then select [!UICONTROL **Local Tokens**] or [!UICONTROL **Overridden Tokens**] from the destination drop-down. Click [!UICONTROL **Save**].
 
    ![Image Two](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
@@ -31,4 +31,4 @@ Here's how to sort your My Tokens into folders.
 
 >[!TIP]
 >
->To rename a folder, right-click it and click **Rename**.
+>To rename a folder, right-click it and click [!UICONTROL **Rename**].

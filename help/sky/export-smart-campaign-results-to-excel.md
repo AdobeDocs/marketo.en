@@ -9,7 +9,7 @@ description: Export Smart Campaign Results to Excel
 
 Export your smart campaign results to Excel for use outside of Marketo.
 
-1. In the Overview tab of your smart campaign, click the **Reports** tab.
+1. In the Overview tab of your smart campaign, click the [!UICONTROL **Reports**] tab.
 
    ![Image One](/help/sky/assets/smart-campaigns/export-smart-campaign-results-to-excel/export-smart-campaign-results-to-excel-1.png)
 

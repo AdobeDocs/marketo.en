@@ -13,7 +13,7 @@ After you've added content to your stream, you may want to change the priority. 
 
    ![Image One](/help/sky/assets/engagement-programs/prioritize-stream-content/prioritize-stream-content-1.png)
 
-1. Click the **Streams** tab.
+1. Click the [!UICONTROL **Streams**] tab.
 
    ![Image Two](/help/sky/assets/engagement-programs/prioritize-stream-content/prioritize-stream-content-2.png)
 

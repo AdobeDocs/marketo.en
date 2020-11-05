@@ -13,7 +13,7 @@ You can use engagement programs in Marketo to accomplish email nurturing with ea
 
    ![Image One](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-1.png)
 
-1. Click the Folder Actions drop-down and select **New Program**.
+1. Click the Folder Actions drop-down and select [!UICONTROL **New Program**].
 
    ![Image Two](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-2.png)
 
@@ -21,10 +21,10 @@ You can use engagement programs in Marketo to accomplish email nurturing with ea
    >
    >You can also right-click on the folder and select New Program.
 
-1. Enter a **Name**, and in the Type drop-down, select **Engagement**.
+1. Enter a [!UICONTROL **Name**], and in the Type drop-down, select [!UICONTROL **Engagement**].
 
    ![Image Three](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-3.png)
 
-1. Choose a Workspace and Destination. Add optional Description and Labels. Click **Add** when done.
+1. Choose a Workspace and Destination. Add optional Description and Labels. Click [!UICONTROL **Add**] when done.
 
    ![Image Four](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-4.png)

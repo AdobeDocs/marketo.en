@@ -15,11 +15,11 @@ After [setting event goals](/help/sky/setting-event-goals.md) and sending out i
 
 ## Goal Tracking and Projected Registrations
 
-1. You can find goal tracking details in the **Reports** tab of your event program. In this particular example, there are 150 registered members so far against a goal of 200 (75%).
+1. You can find goal tracking details in the [!UICONTROL **Reports**] tab of your event program. In this particular example, there are 150 registered members so far against a goal of 200 (75%).
 
    ![Image One](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-You'll also see your **Projected** registrations. Hover over the info icon to see a breakdown of this number by Likelihood segment.
+You'll also see your [!UICONTROL **Projected**] registrations. Hover over the info icon to see a breakdown of this number by Likelihood segment.
 
    ![Image Two](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -27,7 +27,7 @@ You'll also see your **Projected** registrations. Hover over the info icon to se
 >
 >The Attended and Higher chart will remain empty until the day of the event.
 
-1. Click the **Chart** toggle to switch to a breakdown of your members by registration likelihood. You'll see current registration percentages for each segment, compared to the average percentage for that segment in your past programs.
+1. Click the [!UICONTROL **Chart**] toggle to switch to a breakdown of your members by registration likelihood. You'll see current registration percentages for each segment, compared to the average percentage for that segment in your past programs.
 
    ![Image Three](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-3.png)
 
@@ -62,7 +62,7 @@ At the top of the Reports page, you can find AI/ML-driven recommendations based 
 
 ## Lead-Level Predictions
 
-Click the **Members** tab to view all your program members. Hover over the **Registration Likelihood** or **Attendance Likelihood** bars to see exact percentages and categorizations. You can then take action on members in a particular category (e.g., everyone in the "Less Likely" to register category), and specifically target them to potentially boost your registration numbers.
+Click the [!UICONTROL **Members**] tab to view all your program members. Hover over the [!UICONTROL **Registration Likelihood**] or [!UICONTROL **Attendance Likelihood**] bars to see exact percentages and categorizations. You can then take action on members in a particular category (e.g., everyone in the "Less Likely" to register category), and specifically target them to potentially boost your registration numbers.
 
    ![Image Seven](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 

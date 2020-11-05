@@ -7,7 +7,7 @@ description: Archive/Unarchive a Campaign Folder
 
 ## Convert to Archive Folder
 
-Right-click any folder and select **Convert To Archive Folder**.
+Right-click any folder and select [!UICONTROL **Convert To Archive Folder**].
 
    ![Image One](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-1.png)
 

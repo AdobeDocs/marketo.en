@@ -11,15 +11,15 @@ If you have a recurring batch campaign that you don't want any more, you can can
 
 ## Cancel Entire Recurrence
 
-1. Select the campaign and go to the **Schedule** tab.
+1. Select the campaign and go to the [!UICONTROL **Schedule**] tab.
 
    ![Image One](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. Click **Edit Recurrence**.
+1. Click [!UICONTROL **Edit Recurrence**].
 
    ![Image Two](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
-1. Set Recurring to None and click **Confirm**.
+1. Set Recurring to None and click [!UICONTROL **Confirm**].
 
    ![Image Three](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-3.png)
 
@@ -29,15 +29,15 @@ If you have a recurring batch campaign that you don't want any more, you can can
 
 ## Cancel a Single Run
 
-1. Select the campaign and go to the **Schedule** tab.
+1. Select the campaign and go to the [!UICONTROL **Schedule**] tab.
 
    ![Image Four](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
-1. Click **Scheduled Runs**.
+1. Click [!UICONTROL **Scheduled Runs**].
 
    ![Image Five](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-5.png)
 
-1. Find the single run you want to cancel and click the **X** on the far right.
+1. Find the single run you want to cancel and click the [!UICONTROL **X**] on the far right.
 
    ![Image Six](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-6.png)
 
