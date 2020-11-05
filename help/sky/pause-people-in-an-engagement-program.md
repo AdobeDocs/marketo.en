@@ -17,11 +17,11 @@ When a person is a member of an engagement program, they will receive content un
 
    ![Image Two](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-2.png)
 
-1. Select **Paused** as the New Value to stop the person from receiving content.
+1. Select [!UICONTROL **Paused**] as the New Value to stop the person from receiving content.
 
    ![Image Three](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-3.png)
 
-You can set the person back to **Normal** if you want them to begin receiving content again. They will resume where they left off.
+You can set the person back to [!UICONTROL **Normal**] if you want them to begin receiving content again. They will resume where they left off.
 
 >[!NOTE]
 >

@@ -9,7 +9,7 @@ description: Define a Smart List for a Batch Campaign
 
 Smart lists are the mechanism throughout Marketo to define "who" (which people) to include, whether it's a report, a list, or a smart campaign. Here's how to define a smart list for a batch campaign.
 
-1. Choose a smart campaign, then click **Smart List**.
+1. Choose a smart campaign, then click [!UICONTROL **Smart List**].
 
    ![Image One](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-1.png)
 
@@ -25,7 +25,7 @@ Smart lists are the mechanism throughout Marketo to define "who" (which people) 
    >
    >You can make a smart campaign run on one person at a time based on live events by adding triggers, which puts the smart campaign in Trigger mode.
 
-1. Click the drop-down and choose a filter operator (e.g. **is**, **is not**, etc.,) for the filter you chose.
+1. Click the drop-down and choose a filter operator (e.g. [!UICONTROL **is**], [!UICONTROL **is not**], etc.,) for the filter you chose.
 
    ![Image Three](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-3.png)
 

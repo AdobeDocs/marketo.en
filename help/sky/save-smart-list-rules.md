@@ -15,7 +15,7 @@ Saving smart list rules is a great way to save yourself valuable time.
 
    ![Image One](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
 
-1. Click **Smart List**.
+1. Click [!UICONTROL **Smart List**].
 
    ![Image Two](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
@@ -25,11 +25,11 @@ Saving smart list rules is a great way to save yourself valuable time.
 
    ![Image Four](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-4.png)
 
-1. When you're done adding filters/triggers, click the **Smart Campaign Actions** drop-down and select **Save Smart List Rule**.
+1. When you're done adding filters/triggers, click the [!UICONTROL **Smart Campaign Actions**] drop-down and select [!UICONTROL **Save Smart List Rule**].
 
    ![Image Five](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-5.png)
 
-1. Name your rule set and click **Save**.
+1. Name your rule set and click [!UICONTROL **Save**].
 
    ![Image Six](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-6.png)
 
@@ -41,11 +41,11 @@ And that's it! Next time you create a smart campaign, you'll have access to the 
 
    ![Image Seven](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 
-1. Click **Smart List**.
+1. Click [!UICONTROL **Smart List**].
 
    ![Image Eight](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-8.png)
 
-1. Click the **Saved Rule** drop-down.
+1. Click the [!UICONTROL **Saved Rule**] drop-down.
 
    ![Image Nine](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-9.png)
 

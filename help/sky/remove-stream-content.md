@@ -13,7 +13,7 @@ You can either remove or archive a piece of content. Unlike removing stream cont
 
    ![Image One](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-1.png)
 
-1. Click the **Streams** tab.
+1. Click the [!UICONTROL **Streams**] tab.
 
    ![Image Two](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-2.png)
 
@@ -21,7 +21,7 @@ You can either remove or archive a piece of content. Unlike removing stream cont
 
    ![Image Three](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-3.png)
 
-1. Select **Remove**.
+1. Select [!UICONTROL **Remove**].
 
    ![Image Four](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-4.png)
 

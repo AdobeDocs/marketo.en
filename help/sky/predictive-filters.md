@@ -37,7 +37,7 @@ This filters the audience by whether they have a high or low likelihood of unsub
 
 These two filters help you expand your current audience by targeting additional leads that are similar to members of another program or Smart List. The Lookalike filters consider 50+ factors, including lead attributes, email activity, web activity, and engagement.
 
-Click **Add Constraint** to choose success criteria for members of the selected program(s).
+Click [!UICONTROL **Add Constraint**] to choose success criteria for members of the selected program(s).
 
 Click the + icon next to the program drop-down to easily add multiple programs/smart lists to one filter.
 

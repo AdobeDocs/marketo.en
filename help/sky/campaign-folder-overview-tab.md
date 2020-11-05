@@ -5,7 +5,7 @@ description: Campaign Folder Overview Tab
 
 # Campaign Folder: Overview Tab
 
-There are two sections under the campaign folder Overview tab: **Details** and **Reports**.
+There are two sections under the campaign folder Overview tab: [!UICONTROL **Details**] and [!UICONTROL **Reports**].
 
    ![Image One](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 

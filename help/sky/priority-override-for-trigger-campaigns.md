@@ -19,11 +19,11 @@ Admins can override Marketo's determined priority for trigger campaigns to set p
 
 ## Override Priority
 
-1. In your trigger campaign, click the **Schedule** tab, then click **Override Priority**.
+1. In your trigger campaign, click the [!UICONTROL **Schedule**] tab, then click [!UICONTROL **Override Priority**].
 
    ![Image One](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
-1. Choose a new priority level from the drop-down. Click **Confirm**.
+1. Choose a new priority level from the drop-down. Click [!UICONTROL **Confirm**].
 
    ![Image One](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
@@ -36,11 +36,11 @@ Admins can override Marketo's determined priority for trigger campaigns to set p
 
 ## Reset Priority
 
-1. To reset campaign priority back to the system default, go to the **Schedule** tab in your trigger campaign and click **Reset Priority**.
+1. To reset campaign priority back to the system default, go to the [!UICONTROL **Schedule**] tab in your trigger campaign and click [!UICONTROL **Reset Priority**].
 
    ![Image One](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
-1. Click **Reset** to confirm.
+1. Click [!UICONTROL **Reset**] to confirm.
 
    ![Image One](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
@@ -54,21 +54,21 @@ Admins can override Marketo's determined priority for trigger campaigns to set p
 >
 >Only Admins or users with admin responsibilities should have campaign priority override access.
 
-1. In the Admin area, click **Users & Roles**.
+1. In the Admin area, click [!UICONTROL **Users & Roles**].
 
    ![Image One](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
-1. Click the **Roles** tab, select the user you want to grant access to, then click **Edit Role**.
+1. Click the [!UICONTROL **Roles**] tab, select the user you want to grant access to, then click [!UICONTROL **Edit Role**].
 
    ![Image One](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
-1. Under Access Marketing Activities, check **Edit Trigger Campaign Priority**. Click **Save**.
+1. Under Access Marketing Activities, check [!UICONTROL **Edit Trigger Campaign Priority**]. Click [!UICONTROL **Save**].
 
    ![Image One](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
 ## View Campaign Priority in Classic
 
-You can view campaign priority in the classic experience by clicking the **Schedule** tab within a trigger campaign.
+You can view campaign priority in the classic experience by clicking the [!UICONTROL **Schedule**] tab within a trigger campaign.
 
    ![Image One](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 

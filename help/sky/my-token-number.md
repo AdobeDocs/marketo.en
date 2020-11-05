@@ -13,6 +13,6 @@ Here's how to set up a Number token for use in your programs and campaign folder
 
    ![Image One](/help/sky/assets/my-tokens/my-token-number/my-token-number-1.png)
 
-1. Enter a name and number for your new token. Click **Save**.
+1. Enter a name and number for your new token. Click [!UICONTROL **Save**].
 
    ![Image Two](/help/sky/assets/my-tokens/my-token-number/my-token-number-2.png)

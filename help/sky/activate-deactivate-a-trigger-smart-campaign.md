@@ -9,7 +9,7 @@ Activating/deactivating a trigger smart campaign is basically turning it on or o
 
 ## Activate a Trigger Campaign
 
-1. In your smart campaign, click the **Schedule** tab.
+1. In your smart campaign, click the [!UICONTROL **Schedule**] tab.
 
    ![Image One](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -17,7 +17,7 @@ Activating/deactivating a trigger smart campaign is basically turning it on or o
    >
    >Review the smart campaign before activating.
 
-1. Click **Activate**.
+1. Click [!UICONTROL **Activate**].
 
    ![Image Two](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-2.png)
 
@@ -29,11 +29,11 @@ From this moment forward, anyone who qualifies for the smart list will go throug
 
 ## Deactivate a Trigger Campaign
 
-1. In your smart campaign, click the **Schedule** tab.
+1. In your smart campaign, click the [!UICONTROL **Schedule**] tab.
 
    ![Image Three](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
-1. Click **Deactivate**.
+1. Click [!UICONTROL **Deactivate**].
 
    ![Image Four](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-4.png)
 
