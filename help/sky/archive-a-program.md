@@ -37,7 +37,7 @@ The folder icon will change to a file cabinet, as shown below. Any programs you'
 >
 >* Assets are no longer visible in search results. If you search for a program or event that’s inside an archived folder, the results return a collapsed view of the archived folder.
 >* Assets no longer appear in auto-suggest.
->* Archived templates are not available when creating an email or landing page in Design Studio.
+>* Archived templates are not available when creating an email or landing page in [!UICONTROL Design Studio].
 >* Archived pages can’t be used in landing page test groups.
 >
 >The following functionalities do **not** change when archiving:

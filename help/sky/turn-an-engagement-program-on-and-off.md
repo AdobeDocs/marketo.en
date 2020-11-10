@@ -21,7 +21,7 @@ You can turn off an engagement program with the flick of a switch. This will sto
    >
    >Engagement programs are ON by default unless you are over your subscription limit.
 
-1. There's a Program button to the right. Select [!UICONTROL **On**] or [!UICONTROL **Off**].
+1. There's a [!UICONTROL Program] button to the right. Select [!UICONTROL **On**] or [!UICONTROL **Off**].
 
    ![Image Three](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-3.png)
 

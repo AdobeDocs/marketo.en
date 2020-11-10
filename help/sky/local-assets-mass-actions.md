@@ -21,7 +21,7 @@ Additionally, you can filter by [!UICONTROL **asset condition**] by choosing one
 
 >[!NOTE]
 >
->Marketo Sky Beta currently only supports filtering for emails, batch campaigns, landing pages, and trigger campaigns.
+>[!DNL Marketo Sky] currently only supports filtering for emails, batch campaigns, landing pages, and trigger campaigns.
 
 ## Apply a Mass Action
 

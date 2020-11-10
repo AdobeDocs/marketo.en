@@ -21,7 +21,7 @@ You can create new email programs directly in the program schedule view.
    >
    >You can also follow similar steps to create an email program from the Day, Week, or Agenda views.
 
-1. Enter a name for your new smart campaign, then change [!UICONTROL **Type**] to Email Program. You can also modify the [!UICONTROL **Start Date**], and uncheck [!UICONTROL **Open In Agenda View**] if you want to stay in the calendar after creating the entry. Click [!UICONTROL **Save**].
+1. Enter a name for your new smart campaign, then change [!UICONTROL **Type**] to [!UICONTROL Email Program]. You can also modify the [!UICONTROL **Start Date**], and uncheck [!UICONTROL **Open In Agenda View**] if you want to stay in the calendar after creating the entry. Click [!UICONTROL **Save**].
 
    ![Image Three](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-3.png)
 
@@ -35,4 +35,4 @@ You can create new email programs directly in the program schedule view.
 
 >[!NOTE]
 >
->You can create email programs within the program schedule view in Marketo Sky, but the actual program setup will be in Marketo Classic.
+>You can create email programs within the program schedule view in [!DNL Marketo Sky], but the actual program setup will be in [!DNL Marketo Classic].

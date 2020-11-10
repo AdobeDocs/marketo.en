@@ -7,9 +7,9 @@ description: Create a Smart Campaign
 
 <br>&nbsp;
 
-Smart campaigns are the most important tool in Marketo. They can trigger on one person and perform actions, or rollup millions of people and run a series of flow steps.
+Smart campaigns are the most important tool in [!DNL Marketo]. They can trigger on one person and perform actions, or rollup millions of people and run a series of flow steps.
 
-1. In Marketing Activities, select the program or folder you want your smart campaign to live in.
+1. In [!UICONTROL Marketing Activities], select the program or folder you want your smart campaign to live in.
 
    ![Image One](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-1.png)
 

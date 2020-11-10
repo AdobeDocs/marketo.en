@@ -9,7 +9,7 @@ description: My Token Image
 
 Here's how to set up an Image token for use in your programs and campaign folders.
 
-1. In the My Tokens tab of your program or folder, drag an **Image** token to the Local Tokens canvas.
+1. In the [!UICONTROL My Tokens] tab of your program or folder, drag an **Image** token to the [!UICONTROL Local Tokens] canvas.
 
    ![Image One](/help/sky/assets/my-tokens/my-token-image/my-token-image-1.png)
 
@@ -17,6 +17,6 @@ Here's how to set up an Image token for use in your programs and campaign folder
 
    ![Image Two](/help/sky/assets/my-tokens/my-token-image/my-token-image-2.png)
 
-Alternatively, you can choose an existing image from the Design Studio. Click [!UICONTROL **Save**].
+Alternatively, you can choose an existing image from the [!UICONTROL Design Studio]. Click [!UICONTROL **Save**].
 
    ![Image Three](/help/sky/assets/my-tokens/my-token-image/my-token-image-3.png)

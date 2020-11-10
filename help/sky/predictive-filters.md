@@ -13,13 +13,13 @@ As part of Predictive Audiences, Marketo offers a group of AI/ML-based filters i
 
 ## Likelihood to Attend
 
-This filter is used to effectively narrow down your audience. This helps you target and invite leads who have a higher likelihood of **attending** your webinar or event. Note that your "Likelihood to attend program" will be your current event program.
+This filter is used to effectively narrow down your audience. This helps you target and invite leads who have a higher likelihood of **attending** your webinar or event. Note that your "[!UICONTROL Likelihood to attend program]" will be your current event program.
 
    ![Image Two](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-2.png)
 
 ## Likelihood to Register
 
-Similar to the _Likelihood to Attend_ filter, use this filter to narrow your audience and target leads who have a higher likelihood of **registering** for your webinar or event.
+Similar to the [!UICONTROL _Likelihood to Attend_] filter, use this filter to narrow your audience and target leads who have a higher likelihood of **registering** for your webinar or event.
 
    ![Image Three](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-3.png)
 

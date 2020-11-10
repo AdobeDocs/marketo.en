@@ -5,14 +5,14 @@ description: Add and Remove Labels
 
 # Add and Remove Labels
 
-You can assign labels to any asset in Marketing Activities, making organizing and finding assets a breeze.
+You can assign labels to any asset in [!UICONTROL Marketing Activities], making organizing and finding assets a breeze.
 
 ## Add Labels
 
-To add new labels to an asset, navigate to the asset's Details page under the Overview tab.
+To add new labels to an asset, navigate to the asset's [!UICONTROL Details] page under the [!UICONTROL Overview] tab.
 <br>&nbsp;
 
-Under the Labels section, click [!UICONTROL **Add New Labels**].
+Under the [!UICONTROL Labels] section, click [!UICONTROL **Add New Labels**].
 
    ![Image One](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-1.jpg)
 

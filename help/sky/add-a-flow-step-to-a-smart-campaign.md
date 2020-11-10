@@ -9,7 +9,7 @@ Flow steps tell Marketo what you want to have happen to a group of people that q
 
 ## Add a Flow Step
 
-1. In Marketing Activities, select your smart campaign and click [!UICONTROL **Flow**].
+1. In [!UICONTROL Marketing Activities], select your smart campaign and click [!UICONTROL **Flow**].
 
    ![Image One](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 

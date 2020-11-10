@@ -7,7 +7,7 @@ description: My Token Actions Edit, Delete, Clone, and Copy Token Names
 
 ## Edit a Token
 
-In the My Tokens tab of your campaign folder or program, click the [!UICONTROL **Value**] of the token you want to edit. This will open the editor window.
+In the [!UICONTROL My Tokens] tab of your campaign folder or program, click the [!UICONTROL **Value**] of the token you want to edit. This will open the editor window.
 
    ![Image One](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-1.png)
 

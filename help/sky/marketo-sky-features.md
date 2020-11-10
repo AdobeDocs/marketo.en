@@ -5,7 +5,7 @@ description: Marketo Sky Features
 
 # Marketo Sky Features
 
-Below you'll find what's available in Marketo Sky.
+Below you'll find what's available in [!DNL Marketo Sky].
 
 ## Navigation
 

@@ -7,7 +7,7 @@ description: Configuring the Tree
 
 <br>&nbsp;
 
-Here's a quick look at the configuration options available for the tree in Marketo.
+Here's a quick look at the configuration options available for the tree in [!DNL Marketo].
 
 ## Change Workspaces
 

@@ -25,7 +25,7 @@ You can create new batch smart campaigns directly in the calendar.
    >
    >You can also follow similar steps to create a batch smart campaign from the Day, Week, or Agenda views.
 
-1. Enter a name for your new smart campaign, then change [!UICONTROL **Type**] to Smart Campaign. You can also modify the [!UICONTROL **Start Date**], and uncheck [!UICONTROL **Open In Agenda View**] if you want to stay in the calendar after creating the entry. Click [!UICONTROL **Save**].
+1. Enter a name for your new smart campaign, then change [!UICONTROL **Type**] to [!UICONTROL Smart Campaign]. You can also modify the [!UICONTROL **Start Date**], and uncheck [!UICONTROL **Open In Agenda View**] if you want to stay in the calendar after creating the entry. Click [!UICONTROL **Save**].
 
    ![Image Three](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-3.png)
 

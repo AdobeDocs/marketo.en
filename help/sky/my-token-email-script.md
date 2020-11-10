@@ -9,7 +9,7 @@ description: My Token Email Script
 
 For advanced developers, you can use [Velocity scripts](http://velocity.apache.org/engine/1.7/user-guide.html) in your emails by setting up an Email Script token. Here's how to do it.
 
-1. In the My Tokens tab of your program or folder, drag an [!UICONTROL **Email Script**] token to the Local Tokens canvas.
+1. In the [!UICONTROL My Tokens] tab of your program or folder, drag an [!UICONTROL **Email Script**] token to the [!UICONTROL Local Tokens] canvas.
 
    ![Image One](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-1.png)
 
