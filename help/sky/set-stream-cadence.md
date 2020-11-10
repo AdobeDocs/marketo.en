@@ -87,7 +87,7 @@ That's it! Keep reading if you want to set up a monthly cadence.
    >
    >Alternatively, you can pick day of the week.
 
-1. Pick a Time and click [!UICONTROL **Save**].
+1. Pick a [!UICONTROL Time] and click [!UICONTROL **Save**].
 
    ![Image Thirteen](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-13.png)
 

@@ -11,7 +11,7 @@ Flow steps tell Marketo what you want to have happen to a group of people that q
 
 ## Saving Flow Actions
 
-1. In Marketing Activities, select your smart campaign (or create a new one).
+1. In [!UICONTROL Marketing Activities], select your smart campaign (or create a new one).
 
    ![Image One](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-1.png)
 
@@ -37,7 +37,7 @@ And you're done. Next time you create a smart campaign, you'll have access to th
 
 ## Using Saved Flow Actions
 
-1. In Marketing Activities, select your smart campaign (or create a new one).
+1. In [!UICONTROL Marketing Activities], select your smart campaign (or create a new one).
 
    ![Image Seven](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 

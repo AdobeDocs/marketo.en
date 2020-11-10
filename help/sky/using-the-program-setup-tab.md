@@ -7,7 +7,7 @@ description: Using the Program Setup Tab
 
 <br>&nbsp;
 
-From the Setup tab of your program, you can select a channel, add tags and period costs, and change settings.
+From the [!UICONTROL Setup] tab of your program, you can select a channel, add tags and period costs, and change settings.
 
    ![Image One](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-1.png)
 
@@ -23,7 +23,7 @@ To change your program channel, select a different one from the drop-down at the
 
 ## Add Tags
 
-1. Under the Tags section, Click the [!UICONTROL **Attribute**] drop-down and choose a tag attribute from the available options.
+1. Under the [!UICONTROL Tags] section, Click the [!UICONTROL **Attribute**] drop-down and choose a tag attribute from the available options.
 
    ![Image Three](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
@@ -41,7 +41,7 @@ To change your program channel, select a different one from the drop-down at the
 
 ## Add Period Costs
 
-1. Under the Period Costs section, select a month, enter a cost, and add a short name or description. Click [!UICONTROL **Add**].
+1. Under the [!UICONTROL Period Costs] section, select a month, enter a cost, and add a short name or description. Click [!UICONTROL **Add**].
 
    ![Image Six](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
@@ -51,6 +51,6 @@ To change your program channel, select a different one from the drop-down at the
 
 ## Change Settings
 
-Under the Settings section, you can choose a CRM campaign to sync to (if your subscription has CRM integration), and/or change the analytics behavior for your program.
+Under the [!UICONTROL Settings] section, you can choose a CRM campaign to sync to (if your subscription has CRM integration), and/or change the analytics behavior for your program.
 
    ![Image Eight](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-8.png)

@@ -7,7 +7,7 @@ description: Local Assets in a Program
 
 <br>&nbsp;
 
-Local assets are the content that make up your program. Assets are customizable and enable you to build automated marketing initiatives. Here's a look at most of the local assets you can create in Marketo Sky.
+Local assets are the content that make up your program. Assets are customizable and enable you to build automated marketing initiatives. Here's a look at most of the local assets you can create in [!DNL Marketo Sky].
 
    ![Image One](/help/sky/assets/programs/local-assets-in-a-program/local-assets-in-a-program-1.jpg)
 

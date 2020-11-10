@@ -9,7 +9,7 @@ description: Create My Token Folders
 
 Here's how to sort your My Tokens into folders.
 
-1. In the My Tokens tab of your campaign folder or program, click the Create Folder icon in the top right.
+1. In the [!UICONTROL My Tokens] tab of your campaign folder or program, click the [!UICONTROL Create Folder] icon in the top right.
 
    ![Image One](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 

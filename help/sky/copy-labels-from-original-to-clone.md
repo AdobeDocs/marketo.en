@@ -13,7 +13,7 @@ When you clone an asset, you can copy all the labels from the original asset. He
 
    ![Image One](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-1.jpg)
 
-1. Enter the information for your new clone asset. Then under Labels, click [!UICONTROL **Copy Labels From Original**].
+1. Enter the information for your new clone asset. Then under [!UICONTROL Labels], click [!UICONTROL **Copy Labels From Original**].
 
    ![Image Two](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-2.jpg)
 

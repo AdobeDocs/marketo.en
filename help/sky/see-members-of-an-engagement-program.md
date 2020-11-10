@@ -15,7 +15,7 @@ You can quickly see members of an engagement program.
 
 >[!NOTE]
 >
->The Exhausted Content column value is updated after every cast.
+>The [!UICONTROL Exhausted Content] column value is updated after every cast.
 
 1. Click the [!UICONTROL **Members**] tab.
 

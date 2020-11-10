@@ -21,7 +21,7 @@ Once you've created your engagement program, you need to add content to the stre
 
    ![Image Three](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-3.png)
 
-1. Leave the Type set to Email, then find/select the email you want to add.
+1. Leave the [!UICONTROL Type] set to Email, then find/select the email you want to add.
 
    ![Image Four](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-4.png)
 
@@ -43,7 +43,7 @@ Once you've created your engagement program, you need to add content to the stre
 
    ![Image Seven](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-7.png)
 
-1. Change Type to Program.
+1. Change [!UICONTROL Type] to Program.
 
    ![Image Eight](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-8.png)
 

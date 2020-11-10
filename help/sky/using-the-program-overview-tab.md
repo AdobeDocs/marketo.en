@@ -7,7 +7,7 @@ description: Using the Program Overview Tab
 
 <br>&nbsp;
 
-There are three sections under the Program Overview tab: [!UICONTROL **Details**], [!UICONTROL **Schedule**], and [!UICONTROL **Reports**]. Here's a quick look at each one.
+There are three sections under the [!UICONTROL Program Overview] tab: [!UICONTROL **Details**], [!UICONTROL **Schedule**], and [!UICONTROL **Reports**]. Here's a quick look at each one.
 
 ## Details
 
@@ -31,6 +31,6 @@ The program schedule view is a powerful feature that allows you to create, move,
 
 ## Reports
 
-The reports tab shows you key metrics about the performance of your program, including trends and membership stats.
+The [!UICONTROL Reports] tab shows you key metrics about the performance of your program, including trends and membership stats.
 
    ![Image Four](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-4.png)

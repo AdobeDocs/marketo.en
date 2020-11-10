@@ -7,9 +7,9 @@ description: My Token Calendar File
 
 <br>&nbsp;
 
-A Calendar File token allows you to add a calendar event (.ics) link to your Marketo emails and landing pages. Here's how to set one up for use in your programs and campaign folders.
+A [!UICONTROL Calendar File] token allows you to add a calendar event (.ics) link to your Marketo emails and landing pages. Here's how to set one up for use in your programs and campaign folders.
 
-1. In the My Tokens tab of your program or folder, drag a [!UICONTROL **Calendar File**] token to the Local Tokens canvas.
+1. In the [!UICONTROL My Tokens] tab of your program or folder, drag a [!UICONTROL **Calendar File**] token to the [!UICONTROL Local Tokens] canvas.
 
    ![Image One](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-1.jpg)
 

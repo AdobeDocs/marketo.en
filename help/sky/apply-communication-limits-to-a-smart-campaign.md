@@ -19,7 +19,7 @@ It's not a good idea to email someone multiple times a day, or too many times in
 
    ![Image One](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-1.png)
 
-1. Open Qualification Rules and check the [!UICONTROL **Block non-operational emails**] checkbox.
+1. Open [!UICONTROL Qualification Rules] and check the [!UICONTROL **Block non-operational emails**] checkbox.
 
    ![Image Two](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-2.png)
 

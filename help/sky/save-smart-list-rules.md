@@ -11,7 +11,7 @@ Saving smart list rules is a great way to save yourself valuable time.
 
 ## Saving Smart List Rules
 
-1. In Marketing Activities, select your smart campaign (or create a new one).
+1. In [!UICONTROL Marketing Activities], select your smart campaign (or create a new one).
 
    ![Image One](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
 
@@ -37,7 +37,7 @@ And that's it! Next time you create a smart campaign, you'll have access to the 
 
 ## Using Saved Smart List Rules
 
-1. In Marketing Activities, select your smart campaign (or create a new one).
+1. In [!UICONTROL Marketing Activities], select your smart campaign (or create a new one).
 
    ![Image Seven](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 

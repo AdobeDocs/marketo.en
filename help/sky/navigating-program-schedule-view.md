@@ -11,7 +11,7 @@ Here are the basics to help you navigate the program schedule view.
 
 ## Find the Schedule View
 
-Select your program from the tree. Under the Details tab, click Schedule.
+Select your program from the tree. Under the [!UICONTROL Details] tab, click [!UICONTROL Schedule].
 
    ![Image One](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-1.png)
 
@@ -27,6 +27,6 @@ The Agenda shows you all the entries in a particular month.
 
 ## View Settings
 
-In the top right corner of the program schedule view, click View Settings to filter your entries by Tentative, Confirmed, and/or Finished.
+In the top right corner of the program schedule view, click [!UICONTROL View Settings] to filter your entries by [!UICONTROL Tentative], [!UICONTROL Confirmed], and/or [!UICONTROL Finished].
 
    ![Image Four](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-4.png)

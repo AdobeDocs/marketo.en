@@ -3,13 +3,13 @@ cloud: experience-cloud
 product: adobe experience cloud
 sub-product: sky
 archetype: end-user
-user-guide-title: Sky Product Documentation
+user-guide-title: [!DNL Sky] Product Documentation
 index: y
 ---
 
 # Marketo Sky Docs {#sky}
 
-+ [Overview](home.md)
++ [Home](home.md)
 + Getting Started {#getting-started}
   + [Marketo Sky Features](marketo-sky-features.md)
   + [How to Get Started](how-to-enable-roles-for-marketo-sky.md)

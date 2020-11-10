@@ -14,7 +14,7 @@ My Tokens are custom variables that you can create and use in your programs or c
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
 
-To access and create My Tokens, select your program or campaign folder and go to the My Tokens tab. Drag and drop any token onto your Local Tokens canvas.
+To access and create My Tokens, select your program or campaign folder and go to the [!UICONTROL My Tokens] tab. Drag and drop any token onto your [!UICONTROL Local Tokens] canvas.
 
    ![Image One](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-1.png)
 

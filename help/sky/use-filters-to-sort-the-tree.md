@@ -9,7 +9,7 @@ description: Use Filters to Sort the Tree
 
 Use filters to quickly sort items in the tree and view the most relevant content.
 
-To access the filter panel, click the **Filters** icon at the top of the tree. Content automatically loads in the tree as you apply filters.
+To access the filter panel, click the Filters icon at the top of the tree. Content automatically loads in the tree as you apply filters.
 
    ![Image One](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-1.png)
 
@@ -27,7 +27,7 @@ Enter a label that you want to sort by and select from the available labels in y
 
    ![Image Three](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-3.png)
 
-Click the [!UICONTROL **X**] to remove a label from your filtered search.
+Click the **X** to remove a label from your filtered search.
 
    ![Image Four](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-4.png)
 

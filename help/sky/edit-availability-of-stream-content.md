@@ -25,7 +25,7 @@ You can set a time frame for the content to be active in your stream.
 
    ![Image Four](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-4.png)
 
-1. Select your Active From date and Active Through date.
+1. Select your [!UICONTROL Active From] date and [!UICONTROL Active Through] dates.
 
    ![Image Five](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
@@ -35,7 +35,7 @@ You can set a time frame for the content to be active in your stream.
 
 >[!TIP]
 >
->You can leave "Active Through" blank to make content available forever.
+>You can leave [!UICONTROL Active Through] blank to make content available forever.
 
 Perfect! You will see a clock icon next to the scheduled content. It will become active and inactive according to the schedule you set.
 

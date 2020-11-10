@@ -27,7 +27,7 @@ You'll also see your [!UICONTROL **Projected**] registrations. Hover over the in
 >
 >The Attended and Higher chart will remain empty until the day of the event.
 
-1. Click the [!UICONTROL **Chart**] toggle to switch to a breakdown of your members by registration likelihood. You'll see current registration percentages for each segment, compared to the average percentage for that segment in your past programs.
+1. Click the Chart toggle to switch to a breakdown of your members by registration likelihood. You'll see current registration percentages for each segment, compared to the average percentage for that segment in your past programs.
 
    ![Image Three](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-3.png)
 

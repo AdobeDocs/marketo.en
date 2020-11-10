@@ -17,7 +17,7 @@ If you have an old smart campaign that you don't need anymore, you can delete it
 
    ![Image One](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-1.png)
 
-1. Under the Campaign Actions drop-down select [!UICONTROL **Delete**].
+1. Under the [!UICONTROL Campaign Actions] drop-down select [!UICONTROL **Delete**].
 
    ![Image Two](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-2.png)
 
