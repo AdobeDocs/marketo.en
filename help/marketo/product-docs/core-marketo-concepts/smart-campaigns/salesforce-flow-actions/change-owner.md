@@ -20,13 +20,10 @@ If you have existing people that are already assigned to an owner, you can use t
    >
    >Salesforce does not allow contacts to be assigned to lead queues. For a record that's an SFDC contact:
    >
-   >
-   >1. Marketo will create a duplicate lead **only** when the contact is synced to Salesforce. In other words, if you use the ** [Sync Person to SFDC](sync-person-to-sfdc.md)** flow step with *AssignTo=<a lead queue>*, Marketo will create a duplicate lead in Salesforce and assign it to the lead queue.
-   >
+   >1. Marketo will create a duplicate lead **only** when the contact is synced to Salesforce. In other words, if you use the **[Sync Person to SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** flow step with `AssignTo=<a lead queue>`, Marketo will create a duplicate lead in Salesforce and assign it to the lead queue.
    >
    >2. If you attempt to use the **Change Owner** flow step on a contact, no duplicate will be created in Salesforce.
 
    >[!NOTE]
    >
    >If the record does not yet exist in your Salesforce account, we will sync it over, then assign it to the selected user.
-

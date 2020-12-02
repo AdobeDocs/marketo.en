@@ -32,10 +32,10 @@ user-guide-description: Marketo product documentation
     + [Redirect a Landing Page](getting-started/quick-wins/redirect-a-landing-page.md)
     + [Automate an Alert for Possible Duplicate People](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
   + Inheriting a Marketo Instance {#inheriting-a-marketo-instance}  
-    + [Help! I've Inherited an Existing Marketo Instance](getting-started/help-ive-inherited-an-existing-marketo-instance.md)
-    + [Items to Check Off](getting-started/help-ive-inherited-an-existing-marketo-instance/items-to-check-off.md)
-    + [Things to Review: Core Skills](getting-started/help-ive-inherited-an-existing-marketo-instance/things-to-review-core-skills.md)
-    + [Ways to Get Help](getting-started/help-ive-inherited-an-existing-marketo-instance/ways-to-get-help.md)
+    + [Help! I've Inherited an Existing Marketo Instance](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
+    + [Items to Check Off](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
+    + [Things to Review: Core Skills](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
+    + [Ways to Get Help](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
   + [Understanding and Using the Launch Pack](getting-started/understanding-and-using-the-launch-pack.md)
   + [Updates to Marketo Terminology](getting-started/updates-to-marketo-terminology.md)
 + Product Docs {#product-docs}
@@ -992,7 +992,7 @@ user-guide-description: Marketo product documentation
         + [Disable Tracking for an Email Link](product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md)
         + [Download an Email's HTML](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
         + [Edit an Email's HTML](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
-        + Email Tests - Champion-Challenger {#email-tests-champion-challenger.md)
+        + Email Tests - Champion-Challenger {#email-tests-champion-challenger}
           + [Add an Email Champion/Challenger](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
           + [Champion/Challenger: Approve Your Email Test](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
           + [Champion/Challenger: Configure Report Alerts](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
@@ -1013,14 +1013,14 @@ user-guide-description: Marketo product documentation
       + [Email CC](product-docs/email-marketing/general/email-cc.md)
   + Marketo Sales Connect {#marketo-sales-connect}
     + Getting Started {#getting-started}
-      + [Sales Connect Overview](product-docs/marketo-sales-connect/getting-started-msc/sales-connect-overview.md)
-      + [Getting Started with Sales Connect](product-docs/marketo-sales-connect/getting-started-msc/getting-started-with-sales-connect.md)
-      + [Quick Start Videos and Tutorials](product-docs/marketo-sales-connect/getting-started-msc/quick-start-videos-and-tutorials.md)
+      + [Sales Connect Overview](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+      + [Getting Started with Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+      + [Quick Start Videos and Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
       + Email Settings {#email-settings}
-        + [Add Identity](product-docs/marketo-sales-connect/getting-started-msc-/email-settings/add-identity.md)
-        + [Add Your Email Signature](product-docs/marketo-sales-connect/getting-started-msc-/email-settings/add-your-email-signature.md)
-        + [Never Received a Verification Email](product-docs/marketo-sales-connect/getting-started-msc-/email-settings/never-received-a-verification-email.md)
-        + [Verify Your Email](product-docs/marketo-sales-connect/getting-started-msc-/email-settings/verify-your-email.md)
+        + [Add Identity](product-docs/marketo-sales-connect/getting-started-/email-settings/add-identity.md)
+        + [Add Your Email Signature](product-docs/marketo-sales-connect/getting-started-/email-settings/add-your-email-signature.md)
+        + [Never Received a Verification Email](product-docs/marketo-sales-connect/getting-started-/email-settings/never-received-a-verification-email.md)
+        + [Verify Your Email](product-docs/marketo-sales-connect/getting-started-/email-settings/verify-your-email.md)
     + Admin {#admin}
       + [Additional Admins](product-docs/marketo-sales-connect/admin/additional-admins.md)
       + [Admin Settings Tab](product-docs/marketo-sales-connect/admin/admin-settings-tab.md)
