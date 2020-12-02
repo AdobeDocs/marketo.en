@@ -9,7 +9,7 @@ user-guide-description: Marketo product documentation
 # Marketo Guide {#using}
 
 + [Overview](home.md)
-+ Getting Started {#getting-started}
++ Getting Started with Marketo {#getting-started-with-marketo}
   + [Getting Started](getting-started.md)
   + [What is Marketo?](getting-started/what-is-marketo.md)
   + [Marketo Glossary](getting-started/marketo-glossary.md)
@@ -38,8 +38,8 @@ user-guide-description: Marketo product documentation
     + [Ways to Get Help](getting-started/help-ive-inherited-an-existing-marketo-instance/ways-to-get-help.md)
   + [Understanding and Using the Launch Pack](getting-started/understanding-and-using-the-launch-pack.md)
   + [Updates to Marketo Terminology](getting-started/updates-to-marketo-terminology.md)
-+ [Product Docs](product-docs.md)
-  + [Account Based Marketing](product-docs/account-based-marketing.md)
++ Product Docs {#product-docs}
+  + Account Based Marketing {#account-based-marketing}
     + Setup {#setup}
       + [Account Based Marketing Overview](product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md)
       + [Getting Started with ABM](product-docs/account-based-marketing/setup-abm/getting-started-with-abm.md)
@@ -485,7 +485,7 @@ user-guide-description: Marketo product documentation
         + [Understanding Folders](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
         + [Understanding Notifications](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
         + [Notification Types](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-  + [CRM Sync](product-docs/crm-sync.md)
+  + CRM Sync {#crm-sync}
     + Microsoft Dynamics Sync {#microsoft-dynamics}
       + [Understanding the Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
       + [Marketo Plugin Releases for Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)
@@ -969,14 +969,14 @@ user-guide-description: Marketo product documentation
         + [Edit Your Email Header](product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
         + [Send a Sample Email](product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)
         + [Undo in the Email Editor](product-docs/email-marketing/general/creating-an-email/undo-in-the-email-editor.md)
-      + Email Editor 2.0 {#email-editor-2.0}
-        + [Add Modules to your Email](product-docs/email-marketing/general/email-editor-2.0/add-modules-to-your-email.md)
-        + [Create an Email Template](product-docs/email-marketing/general/email-editor-2.0/create-an-email-template.md)
-        + [Edit Elements in an Email](product-docs/email-marketing/general/email-editor-2.0/edit-elements-in-an-email.md)
-        + [Email Editor v2.0 Overview](product-docs/email-marketing/general/email-editor-2.0/email-editor-v2.0-overview.md)
-        + [Email Template Picker Overview](product-docs/email-marketing/general/email-editor-2.0/email-template-picker-overview.md)
-        + [Email Template Syntax](product-docs/email-marketing/general/email-editor-2.0/email-template-syntax.md)
-        + [Transitioning to Email Editor 2.0](product-docs/email-marketing/general/email-editor-2.0/transitioning-to-email-editor-2.0.md)
+      + Email Editor 2 {#email-editor-2}
+        + [Add Modules to your Email](product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)
+        + [Create an Email Template](product-docs/email-marketing/general/email-editor-2/create-an-email-template.md)
+        + [Edit Elements in an Email](product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
+        + [Email Editor v2.0 Overview](product-docs/email-marketing/general/email-editor-2/email-editor-v2.0-overview.md)
+        + [Email Template Picker Overview](product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)
+        + [Email Template Syntax](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+        + [Transitioning to Email Editor 2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2.0.md)
       + Functions in the Editor {#functions-in-the-editor}
         + [Forward to a Friend Link in Emails](product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)
         + [Include a Calendar Event (.ics) in an Email](product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
@@ -992,7 +992,7 @@ user-guide-description: Marketo product documentation
         + [Disable Tracking for an Email Link](product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md)
         + [Download an Email's HTML](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
         + [Edit an Email's HTML](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
-        + Email Tests - Champion/Challenger {#email-tests-champion-challenger.md)
+        + Email Tests - Champion-Challenger {#email-tests-champion-challenger.md)
           + [Add an Email Champion/Challenger](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
           + [Champion/Challenger: Approve Your Email Test](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
           + [Champion/Challenger: Configure Report Alerts](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
@@ -1328,16 +1328,16 @@ user-guide-description: Marketo product documentation
   + Marketo Sky {#marketo-sky}
     + [Enabling Roles for Marketo Sky](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
   + Mobile Marketing {#mobile-marketing}
-    + [Admin (Mobile Marketing)](product-docs/mobile-marketing/admin-mobile-marketing.md)
-      + [Add a Mobile App](product-docs/mobile-marketing/admin-mobile-marketing/add-a-mobile-app.md)
-      + [Add Vibes as a LaunchPoint Service](product-docs/mobile-marketing/admin-mobile-marketing/add-vibes-as-a-launchpoint-service.md)
-      + [Authenticate Mobile Access Security](product-docs/mobile-marketing/admin-mobile-marketing/authenticate-mobile-access-security.md)
-      + [Before You Create Push Notifications and In-App Messages](product-docs/mobile-marketing/admin-mobile-marketing/before-you-create-push-notifications-and-in-app-messages.md)
-      + [Configure Mobile App Android Push Access](product-docs/mobile-marketing/admin-mobile-marketing/configure-mobile-app-android-push-access.md)
-      + [Configure Mobile App iOS Push Access](product-docs/mobile-marketing/admin-mobile-marketing/configure-mobile-app-ios-push-access.md)
-      + [Delete Mobile App](product-docs/mobile-marketing/admin-mobile-marketing/delete-mobile-app.md)
-      + [Send SDK Code to a Developer](product-docs/mobile-marketing/admin-mobile-marketing/send-sdk-code-to-a-developer.md)
-      + [Verify Push Configuration](product-docs/mobile-marketing/admin-mobile-marketing/verify-push-configuration.md)
+    + Admin {#admin}
+      + [Add a Mobile App](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
+      + [Add Vibes as a LaunchPoint Service](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
+      + [Authenticate Mobile Access Security](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
+      + [Before You Create Push Notifications and In-App Messages](product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)
+      + [Configure Mobile App Android Push Access](product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+      + [Configure Mobile App iOS Push Access](product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
+      + [Delete Mobile App](product-docs/mobile-marketing/admin/delete-mobile-app.md)
+      + [Send SDK Code to a Developer](product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)
+      + [Verify Push Configuration](product-docs/mobile-marketing/admin/verify-push-configuration.md)
     + In-App Messages {#in-app-messages}
       + [Understanding In-App Messages](product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
       + Creating In-App Messages {#creating-in-app-messages}
@@ -1567,22 +1567,22 @@ user-guide-description: Marketo product documentation
       + [Account-Based Web Marketing with ABM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-abm.md)
       + [Create a New Account List](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
       + [Create a Segment Using an Account List](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
-    + [Getting Started (RTP)](product-docs/web-personalization/getting-started-rtp.md)
-      + [Add Subdomains in Account Settings](product-docs/web-personalization/getting-started-rtp/add-subdomains-in-account-settings.md)
-      + [Edit Regions](product-docs/web-personalization/getting-started-rtp/edit-regions.md)
-      + [Login and User Management](product-docs/web-personalization/getting-started-rtp/login-and-user-management.md)
-    + RTP Tag Implementation {#rtp-tag-implementation}
-      + [Deploy the RTP JavaScript](product-docs/web-personalization/getting-started-rtp-/rtp-tag-implementation/deploy-the-rtp-javascript.md)
-      + [Enabling or Disabling the RTP JavaScript Tag](product-docs/web-personalization/getting-started-rtp-/rtp-tag-implementation/enabling-or-disabling-the-rtp-javascript-tag.md)
-      + [Implementing RTP on Marketo Landing Pages](product-docs/web-personalization/getting-started-rtp-/rtp-tag-implementation/implementing-rtp-on-marketo-landing-pages.md)
-      + [Implementing RTP on Wordpress Enterprise](product-docs/web-personalization/getting-started-rtp-/rtp-tag-implementation/implementing-rtp-on-wordpress-enterprise.md)
-      + [Implementing RTP on Wordpress](product-docs/web-personalization/getting-started-rtp-/rtp-tag-implementation/implementing-rtp-on-wordpress.md)
-      + [Implementing RTP using Adobe Tag Manager](product-docs/web-personalization/getting-started-rtp-/rtp-tag-implementation/implementing-rtp-using-adobe-tag-manager.md)
-      + [Implementing RTP using Google Tag Manager](product-docs/web-personalization/getting-started-rtp-/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
-      + [Implementing RTP using Tealium Tag Manager](product-docs/web-personalization/getting-started-rtp-/rtp-tag-implementation/implementing-rtp-using-tealium-tag-manager.md)
+    + Getting Started {#getting-started}
+      + [Add Subdomains in Account Settings](product-docs/web-personalization/getting-started/add-subdomains-in-account-settings.md)
+      + [Edit Regions](product-docs/web-personalization/getting-started/edit-regions.md)
+      + [Login and User Management](product-docs/web-personalization/getting-started/login-and-user-management.md)
       + [Setting Web Personalization to Do Not Track](product-docs/web-personalization/getting-started-rtp/setting-web-personalization-to-do-not-track.md)
       + [User Settings](product-docs/web-personalization/getting-started-rtp/user-settings.md)
       + [Workspaces in Web Personalization](product-docs/web-personalization/getting-started-rtp/workspaces-in-web-personalization.md)
+    + RTP Tag Implementation {#rtp-tag-implementation}
+      + [Deploy the RTP JavaScript](product-docs/web-personalization/getting-started-/rtp-tag-implementation/deploy-the-rtp-javascript.md)
+      + [Enabling or Disabling the RTP JavaScript Tag](product-docs/web-personalization/rtp-tag-implementation/rtp-tag-implementation/enabling-or-disabling-the-rtp-javascript-tag.md)
+      + [Implementing RTP on Marketo Landing Pages](product-docs/web-personalization/rtp-tag-implementation/rtp-tag-implementation/implementing-rtp-on-marketo-landing-pages.md)
+      + [Implementing RTP on Wordpress Enterprise](product-docs/web-personalization/rtp-tag-implementation/rtp-tag-implementation/implementing-rtp-on-wordpress-enterprise.md)
+      + [Implementing RTP on Wordpress](product-docs/web-personalization/rtp-tag-implementation/rtp-tag-implementation/implementing-rtp-on-wordpress.md)
+      + [Implementing RTP using Adobe Tag Manager](product-docs/web-personalization/rtp-tag-implementation/rtp-tag-implementation/implementing-rtp-using-adobe-tag-manager.md)
+      + [Implementing RTP using Google Tag Manager](product-docs/web-personalization/rtp-tag-implementation/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
+      + [Implementing RTP using Tealium Tag Manager](product-docs/web-personalization/rtp-tag-implementation/rtp-tag-implementation/implementing-rtp-using-tealium-tag-manager.md)
     + Reporting for Web Personalization {#reporting-for-web-personalization}
       + [Email Reports](product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
       + [Enable/Disable Report Subscriptions](product-docs/web-personalization/reporting-for-web-personalization/enable-disable-report-subscriptions.md)
@@ -1640,33 +1640,33 @@ user-guide-description: Marketo product documentation
       + [View Web Campaigns from a Specific Label](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + Release Notes {#release-notes}
   + [Release Schedule](release-notes/release-schedule.md)
-  + [2020](release-notes/2020.md)
+  + 2020 {#2020}
     + [Release Notes: Feb '20](release-notes/2020/release-notes-feb-20.md)
     + [Release Notes: Jan '20](release-notes/2020/release-notes-jan-20.md)
     + [Release Notes: July '20](release-notes/2020/release-notes-july-20.md)
     + [Release Notes: June '20](release-notes/2020/release-notes-june-20.md)
-  + [2019](release-notes/2019.md)
+  + 2019 {#2019}
     + [Release Notes: August '19](release-notes/2019/release-notes-august-19.md)
     + [Release Notes: June '19](release-notes/2019/release-notes-june-19.md)
     + [Release Notes: Spring '19](release-notes/2019/release-notes-spring-19.md)
     + [Release Notes: Winter '19](release-notes/2019/release-notes-winter-19.md)
-  + [2018](release-notes/2018.md)
+  + 2018 {#2018}
     + [Release Notes: Fall '18](release-notes/2018/release-notes-fall-18.md)
     + [Release Notes: Spring '18](release-notes/2018/release-notes-spring-18.md)
     + [Release Notes: Winter '18](release-notes/2018/release-notes-winter-18.md)
-  + [2017](release-notes/2017.md)
+  + 2017 {#2017}
     + [Release Notes: April '17 ABM Enhancements](release-notes/2017/release-notes-april-17-abm-enhancements.md)
     + [Release Notes: August '17 ABM Enhancements](release-notes/2017/release-notes-august-17-abm-enhancements.md)
     + [Release Notes: Fall '17](release-notes/2017/release-notes-fall-17.md)
     + [Release Notes: Spring '17](release-notes/2017/release-notes-spring-17.md)
     + [Release Notes: Summer '17](release-notes/2017/release-notes-summer-17.md)
     + [Release Notes: Winter '17](release-notes/2017/release-notes-winter-17.md)
-  + [2016](release-notes/2016.md)
+  + 2016 {#2016}
     + [Release Notes: Fall '16](release-notes/2016/release-notes-fall-16.md)
     + [Release Notes: Spring '16](release-notes/2016/release-notes-spring-16.md)
     + [Release Notes: Summer '16](release-notes/2016/release-notes-summer-16.md)
     + [Release Notes: Winter '16](release-notes/2016/release-notes-winter-16.md)
-  + [2015](release-notes/2015.md)
+  + 2015 {#2015}
     + [Release Notes: April 2015](release-notes/2015/release-notes-april-2015.md)
     + [Release Notes: Fall '15](release-notes/2015/release-notes-fall-15.md)
     + [Release Notes: February 2015](release-notes/2015/release-notes-february-2015.md)
@@ -1675,7 +1675,7 @@ user-guide-description: Marketo product documentation
     + [Release Notes: June 2015](release-notes/2015/release-notes-june-2015.md)
     + [Release Notes: March 2015](release-notes/2015/release-notes-march-2015.md)
     + [Release Notes: May 2015](release-notes/2015/release-notes-may-2015.md)
-  + [2014](release-notes/2014.md)
+  + 2014 {#2014}
     + [Release Notes: August 2014](release-notes/2014/release-notes-august-2014.md)
     + [Release Notes: December 2014](release-notes/2014/release-notes-december-2014.md)
     + [Release Notes: February 2014](release-notes/2014/release-notes-february-2014.md)
@@ -1685,7 +1685,7 @@ user-guide-description: Marketo product documentation
     + [Release Notes: March 2014](release-notes/2014/release-notes-march-2014.md)
     + [Release Notes: May 2014](release-notes/2014/release-notes-may-2014.md)
     + [Release Notes: October 2014](release-notes/2014/release-notes-october-2014.md)
-  + [2013](release-notes/2013.md)
+  + 2013 {#2013}
     + [Release Notes: April 2013](release-notes/2013/release-notes-april-2013.md)
     + [Release Notes: August 2013](release-notes/2013/release-notes-august-2013.md)
     + [Release Notes: December 2013](release-notes/2013/release-notes-december-2013.md)
@@ -1697,7 +1697,7 @@ user-guide-description: Marketo product documentation
     + [Release Notes: May 2013](release-notes/2013/release-notes-may-2013.md)
     + [Release Notes: October 2013](release-notes/2013/release-notes-october-2013.md)
     + [Release Notes: September 2013](release-notes/2013/release-notes-september-2013.md)
-  + [2012](release-notes/2012.md)
+  + 2012 {#2012}
     + [Release Notes: April 2012](release-notes/2012/release-notes-april-2012.md)
     + [Release Notes: December 2012](release-notes/2012/release-notes-december-2012.md)
     + [Release Notes: Jan/Feb 2012](release-notes/2012/release-notes-jan-feb-2012.md)
