@@ -10,15 +10,15 @@ title: Wait
 >
 >**FYI**
 >
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
+>Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](/help\marketo\getting-started\updates-to-marketo-terminology.md).
 
 ## Overview {#overview}
 
-Pause a person in a smart campaign flow with the handy** wait step**.
+Pause a person in a smart campaign flow with the handy **wait step**.
 
-![](assets/image2014-9-22-10-3a25-3a50.png)
+![](assets/wait-overview.png)
 
-Notice how you can type in natural language like "4 hours." Do **not**, however, abbreviate the words (i.e. 4 hrs). The smart campaign would still run, but the wait step would be ignored.
+Notice how you can type in natural language like "4 hours." Do **not**, however, abbreviate the words (i.e., 4 hrs). The smart campaign would still run, but the wait step would be ignored.
 
 >[!CAUTION]
 >
@@ -26,13 +26,12 @@ Notice how you can type in natural language like "4 hours." Do **not**, however,
 
 >[!TIP]
 >
->If you have someone already in a wait step and you don't want them to advance after the wait period ends, insert [`remove from flow`](remove-from-flow.md) right after the wait step. Specify who you want removed by using the [add choice](use-add-choice-in-a-flow-step.md) option.
+>If you have someone already in a wait step and you don't want them to advance after the wait period ends, insert [remove from flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) right after the wait step. Specify who you want removed by using the [add choice](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) option.
 
 ## Usage {#usage}
 
 There are three main ways to use a wait flow step:
 
-1. [Use a Duration in a Wait Flow Step](wait/use-a-duration-in-a-wait-flow-step.md)
-1. [Use a Specific Date in a Wait Flow Step](wait/use-a-specific-date-in-a-wait-flow-step.md)
-1. [Use a Date Token in a Wait Flow Step](wait/use-a-date-token-in-a-wait-flow-step.md)
-
+1. [Use a Duration in a Wait Flow Step](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
+1. [Use a Specific Date in a Wait Flow Step](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
+1. [Use a Date Token in a Wait Flow Step](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)

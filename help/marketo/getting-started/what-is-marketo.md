@@ -36,11 +36,11 @@ No, not at all. Marketo is easy to get started and will evolve with you. You can
 
 ## Do I need to do any setup? {#do-i-need-to-do-any-setup}
 
-Yes, we made a [checklist of stuff to do](setup-steps/setup-checklist.md).  
+Yes, we made a [checklist of stuff to do](/help/marketo/getting-started/setup-steps/setup-checklist.md).  
 
 ## Do I have to wait until setup is finished to learn? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-Nope! We made a [bunch of easy tutorials](quick-wins.md) to get you started. They will take about an hour. You can start right away.  
+Nope! We made a [bunch of easy tutorials](/help/marketo/getting-started/quick-wins.md) to get you started. They will take about an hour. You can start right away.  
 
 ## Why am I still asking questions? {#why-am-i-still-asking-questions}
 

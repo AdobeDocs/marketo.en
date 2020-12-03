@@ -59,7 +59,7 @@ user-guide-description: Marketo product documentation
         + [Create a Named Account](product-docs/account-based-marketing/target/named-accounts/create-a-named-account.md)
         + [Add People to a Named Account](product-docs/account-based-marketing/target/named-accounts/add-people-to-a-named-account.md)
         + [Discover Accounts](product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
-        + [Lead to Account Matching](product-docs/account-based-marketing/target/named-accounts/discover-accounts/lead-to-account-matching.md)
+        + [Lead to Account Matching](product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
         + [Filtering in Named Accounts](product-docs/account-based-marketing/target/named-accounts/filtering-in-named-accounts.md)
         + [Delete a Named Account](product-docs/account-based-marketing/target/named-accounts/delete-a-named-account.md)
         + [ABM Hierarchies](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)
@@ -454,7 +454,7 @@ user-guide-description: Marketo product documentation
         + [Launch a Presentation](product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md)
     + Mobile Apps {#mobile-apps}
       + Event Check-in {#event-check-in}
-        + [Event Check-in Overview](product-docs/core-marketo-concepts/mobile-apps/event-check-in-overview.md)
+        + [Event Check-in Overview](product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md)
         + [Check People into Your Event from Your Tablet](product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
         + [Grant Users Access to the Check-in App](product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)
         + [Prepare for Your Event](product-docs/core-marketo-concepts/mobile-apps/event-check-in/prepare-for-your-event.md)
@@ -973,10 +973,10 @@ user-guide-description: Marketo product documentation
         + [Add Modules to your Email](product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)
         + [Create an Email Template](product-docs/email-marketing/general/email-editor-2/create-an-email-template.md)
         + [Edit Elements in an Email](product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
-        + [Email Editor v2.0 Overview](product-docs/email-marketing/general/email-editor-2/email-editor-v2.0-overview.md)
+        + [Email Editor v2.0 Overview](product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
         + [Email Template Picker Overview](product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)
         + [Email Template Syntax](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
-        + [Transitioning to Email Editor 2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2.0.md)
+        + [Transitioning to Email Editor 2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
       + Functions in the Editor {#functions-in-the-editor}
         + [Forward to a Friend Link in Emails](product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)
         + [Include a Calendar Event (.ics) in an Email](product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
@@ -986,7 +986,7 @@ user-guide-description: Marketo product documentation
         + [Using Dynamic Content in an Email](product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
         + [Add a Snippet to an Email](product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
         + [Add a View as Web Page Link to an Email](product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)
-        + [Add Editable Sections to Email Templates v1.0](product-docs/email-marketing/general/functions-in-the-editor/add-editable-sections-to-email-templates-v1.0.md)
+        + [Add Editable Sections to Email Templates v1.0](product-docs/email-marketing/general/functions-in-the-editor/add-editable-sections-to-email-templates-v1-0.md)
         + [Add Tracked Links to a Text Email](product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)
         + [Create a Calendar Event (.ics) File](product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
         + [Disable Tracking for an Email Link](product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md)
@@ -1017,10 +1017,10 @@ user-guide-description: Marketo product documentation
       + [Getting Started with Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
       + [Quick Start Videos and Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
       + Email Settings {#email-settings}
-        + [Add Identity](product-docs/marketo-sales-connect/getting-started-/email-settings/add-identity.md)
-        + [Add Your Email Signature](product-docs/marketo-sales-connect/getting-started-/email-settings/add-your-email-signature.md)
-        + [Never Received a Verification Email](product-docs/marketo-sales-connect/getting-started-/email-settings/never-received-a-verification-email.md)
-        + [Verify Your Email](product-docs/marketo-sales-connect/getting-started-/email-settings/verify-your-email.md)
+        + [Add Identity](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
+        + [Add Your Email Signature](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
+        + [Never Received a Verification Email](product-docs/marketo-sales-connect/getting-started/email-settings/never-received-a-verification-email.md)
+        + [Verify Your Email](product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
     + Admin {#admin}
       + [Additional Admins](product-docs/marketo-sales-connect/admin/additional-admins.md)
       + [Admin Settings Tab](product-docs/marketo-sales-connect/admin/admin-settings-tab.md)
@@ -1028,14 +1028,14 @@ user-guide-description: Marketo product documentation
       + [Content Lockdown](product-docs/marketo-sales-connect/admin/content-lockdown.md)
       + [Create a Sub-Team](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
       + [Invite Team Members](product-docs/marketo-sales-connect/admin/invite-team-members.md)
-      + [Setting UP SSO Through SAML 2.0 in Sales Connect](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2.0-in-sales-connect.md)
+      + [Setting UP SSO Through SAML 2.0 in Sales Connect](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
       + [Sharing Settings](product-docs/marketo-sales-connect/admin/sharing-settings.md)
       + [User Access Details](product-docs/marketo-sales-connect/admin/user-access-details.md)
     + Analytics {#analytics}
-      + [Analytics Page Overview](product-docs/marketo-sales-connect/analytics-msc/analytics-page-overview.md)
-      + [Understanding the Content Tab](product-docs/marketo-sales-connect/analytics-msc/understanding-the-content-tab.md)
-      + [Understanding the Me Tab](product-docs/marketo-sales-connect/analytics-msc/understanding-the-me-tab.md)
-      + [Understanding the Team Tab](product-docs/marketo-sales-connect/analytics-msc/understanding-the-team-tab.md)
+      + [Analytics Page Overview](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
+      + [Understanding the Content Tab](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
+      + [Understanding the Me Tab](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
+      + [Understanding the Team Tab](product-docs/marketo-sales-connect/analytics/understanding-the-team-tab.md)
     + Campaigns {#campaigns}
       + [Add People to your Campaign](product-docs/marketo-sales-connect/campaigns/add-people-to-your-campaign.md)
       + [Add to Marketing Campaign](product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md)
@@ -1096,7 +1096,7 @@ user-guide-description: Marketo product documentation
         + .NET Legacy Add-in {#net-legacy-add-in}
           + [.NET Add-in Overview](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/net-add-in-overview.md)
           + [How to Uninstall Sales Connect from Outlook](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
-        + [Office 365 Add-in](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in.md)
+        + Office 365 Add-in {#office-365-add-in}
           + [Add Email to Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
           + [Installing Sales Connect for Office365 Mac OS, Windows, and Online](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
     + Email {#email}
@@ -1104,7 +1104,7 @@ user-guide-description: Marketo product documentation
         + [Command Center Overview](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
         + [Advanced Search Overview](product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
         + [Assigning Tasks to Team Members](product-docs/marketo-sales-connect/email/command-center/assigning-tasks-to-team-members.md)
-        + [Email Columns and Email Page Layout](product-docs/marketo-sales-connect/email/email-columns-and-email-page-layout.md)
+        + [Email Columns and Email Page Layout](product-docs/marketo-sales-connect/email/command-center/email-columns-and-email-page-layout.md)
         + [Using Quick Actions to Speed Up Your Workflow](product-docs/marketo-sales-connect/email/command-center/using-quick-actions-to-speed-up-your-workflow.md)
       + Common Tracking Questions {#common-tracking-questions}
         + [How Reply Tracking Works](product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md)
@@ -1166,7 +1166,7 @@ user-guide-description: Marketo product documentation
       + [Content and File Attachment FAQ](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
       + [Does Sales Connect Have an iPhone or Android App?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
       + [How Can I Allowlist Sales Connect on My Server?](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
-      + [I Got Locked out of My Account. What Do I Do?](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account.-what-do-i-do.md)
+      + [I Got Locked out of My Account. What Do I Do?](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
       + [Is Sales Connect Compatible with Salesforce Lightning?](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
       + [What are the Latest Client Versions?](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
       + [What Are the Sales Connect Terms of Service?](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
@@ -1266,7 +1266,7 @@ user-guide-description: Marketo product documentation
         + [Disable Global MS Dynamics Sync](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
         + [Uninstall MSI from your MS Dynamics Instance](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
       + Updating {#updating}
-        + [Update the Marketo Sales Insight Solution for Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating-msi-for-msd/update-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+        + [Update the Marketo Sales Insight Solution for Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/update-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
     + MSI for Salesforce {#msi-for-salesforce}
       + Installation {#installation}
         + [Install Marketo Sales Insight Package in Salesforce AppExchange](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
@@ -1302,9 +1302,9 @@ user-guide-description: Marketo product documentation
           + [Set Score Fields to be used for Stars and Flames in Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight.md)
         + Tabs in the MSI Panel {#tabs-in-the-msi-panel}
           + Interesting Moments {#interesting-moments}
-            + [Interesting Moments Overview](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments-msi/interesting-moments-overview.md)
-            + [Tokens for Interesting Moments](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments-msi/tokens-for-interesting-moments.md)
-            + [Using Interesting Moments](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments-msi/using-interesting-moments.md)
+            + [Interesting Moments Overview](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)
+            + [Tokens for Interesting Moments](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+            + [Using Interesting Moments](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
       + MSI for Mobile {#msi-for-mobile}
         + [Best Bets in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
         + [Install and Configure Marketo Sales Insight in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/install-and-configure-marketo-sales-insight-in-salesforce1.md)
@@ -1341,19 +1341,19 @@ user-guide-description: Marketo product documentation
     + In-App Messages {#in-app-messages}
       + [Understanding In-App Messages](product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
       + Creating In-App Messages {#creating-in-app-messages}
-        + [Create an In-App Message](product-docs/mobile-marketing/in-app-messages/create-an-in-app-message.md)
-        + [Add In-App Message Images](product-docs/mobile-marketing/in-app-messages/create-an-in-app-message/add-in-app-message-images.md)
-        + [Choose a Layout for Your In-App Message](product-docs/mobile-marketing/in-app-messages/create-an-in-app-message/choose-a-layout-for-your-in-app-message.md)
-        + [Create In-App Message Text](product-docs/mobile-marketing/in-app-messages/create-an-in-app-message/create-in-app-message-text.md)
-        + [Set Up the Dismiss Button and Approve the Message](product-docs/mobile-marketing/in-app-messages/create-an-in-app-message/set-up-the-dismiss-button-and-approve-the-message.md)
-        + [Set Up the In-App Message Background](product-docs/mobile-marketing/in-app-messages/create-an-in-app-message/set-up-the-in-app-message-background.md)
-        + [Set Up the In-App Message Button](product-docs/mobile-marketing/in-app-messages/create-an-in-app-message/set-up-the-in-app-message-button.md)
-      + Sending Your In-App Message {#sending-your-in-app-message.md)
-        + [Send Your In-App Message](product-docs/mobile-marketing/in-app-messages/send-your-in-app-message.md)
-        + [Approve Your In-App Message](product-docs/mobile-marketing/in-app-messages/send-your-in-app-message/approve-your-in-app-message.md)
-        + [Schedule Your In-App Message](product-docs/mobile-marketing/in-app-messages/send-your-in-app-message/schedule-your-in-app-message.md)
-        + [Select Your In-App Message](product-docs/mobile-marketing/in-app-messages/send-your-in-app-message/select-your-in-app-message.md)
-        + [Set Your In-App Message Audience](product-docs/mobile-marketing/in-app-messages/send-your-in-app-message/set-your-in-app-message-audience.md)
+        + [Create an In-App Message](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md)
+        + [Add In-App Message Images](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md)
+        + [Choose a Layout for Your In-App Message](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+        + [Create In-App Message Text](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message/create-in-app-message-text.md)
+        + [Set Up the Dismiss Button and Approve the Message](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md)
+        + [Set Up the In-App Message Background](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md)
+        + [Set Up the In-App Message Button](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)
+      + Sending Your In-App Message {#sending-your-in-app-message}
+        + [Send Your In-App Message](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
+        + [Approve Your In-App Message](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md)
+        + [Schedule Your In-App Message](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)
+        + [Select Your In-App Message](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message/select-your-in-app-message.md)
+        + [Set Your In-App Message Audience](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md)
     + Push Notifications {#push-notifications}
       + [Adding a New Test Device](product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md)
       + [Configure Mobile Push Notification](product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
@@ -1398,11 +1398,11 @@ user-guide-description: Marketo product documentation
     + [Define a Smart List for Predictive Content Activities](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
     + [Predictive Content Analytics Overview](product-docs/predictive-content/predictive-content-analytics-overview.md)
     + Getting Started {#getting-started}
-      + [Algorithm Goal Settings](product-docs/predictive-content/getting-started-predictive-content-and-content-ai/algorithm-goal-settings.md)
-      + [Create Content Patterns](product-docs/predictive-content/getting-started-predictive-content-and-content-ai/create-content-patterns.md)
-      + [Deploy the JavaScript for Content-AI](product-docs/predictive-content/getting-started-predictive-content-and-content-ai/deploy-the-javascript-for-content-ai.md)
-      + [Enable Content Discovery](product-docs/predictive-content/getting-started-predictive-content-and-content-ai/enable-content-discovery.md)
-      + [Set Up Categories](product-docs/predictive-content/getting-started-predictive-content-and-content-ai/set-up-categories.md)
+      + [Algorithm Goal Settings](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
+      + [Create Content Patterns](product-docs/predictive-content/getting-started/create-content-patterns.md)
+      + [Deploy the JavaScript for Content-AI](product-docs/predictive-content/getting-started/deploy-the-javascript-for-content-ai.md)
+      + [Enable Content Discovery](product-docs/predictive-content/getting-started/enable-content-discovery.md)
+      + [Set Up Categories](product-docs/predictive-content/getting-started/set-up-categories.md)
     + Working with All Content {#working-with-all-content}
       + [Understanding All Content](product-docs/predictive-content/working-with-all-content/understanding-all-content.md)
       + [Add New Content](product-docs/predictive-content/working-with-all-content/add-new-content.md)
@@ -1416,10 +1416,9 @@ user-guide-description: Marketo product documentation
       + [Enable the Content Recommendation Bar](product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
     + Working with Predictive Content {#working-with-predictive-content}
       + [Understanding Predictive Content](product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)
-      + [Edit Predictive Content](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content.md)
-      + [Edit Predictive Content for Emails](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content/edit-predictive-content-for-emails.md)
-      + [Edit Predictive Content for Rich Media](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content/edit-predictive-content-for-rich-media.md)
-      + [Edit Predictive Content for the Recommendation Bar](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+      + [Edit Predictive Content for Emails](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
+      + [Edit Predictive Content for Rich Media](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
+      + [Edit Predictive Content for the Recommendation Bar](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
   + Reporting {#reporting}
     + Basic Reporting {#basic-reporting}
       + Creating Reports {#creating-reports}
@@ -1554,14 +1553,14 @@ user-guide-description: Marketo product documentation
         + [Enabling Custom Field Sync for Revenue Cycle Analytics](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
         + [People by Revenue Stage Report](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
         + Attribution {#attribution}
-          + [Understanding Attribution](product-docs/reporting/revenue-cycle-analytics/revenue-tools/understanding-attribution.md)
-          + [Attribution Example 1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/understanding-attribution/attribution-example-1.md)
-          + [Attribution Example 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/understanding-attribution/attribution-example-2.md)
-          + [Attribution Example 3](product-docs/reporting/revenue-cycle-analytics/revenue-tools/understanding-attribution/attribution-example-3.md)
-          + [Attribution Example 4](product-docs/reporting/revenue-cycle-analytics/revenue-tools/understanding-attribution/attribution-example-4.md)
+          + [Understanding Attribution](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution.md)
+          + [Attribution Example 1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+          + [Attribution Example 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+          + [Attribution Example 3](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+          + [Attribution Example 4](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
         + Field Organizers {#field-organizers}
           + [Using Field Organizers](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
-          + [Create Custom Field Groups Using the Field Organizer](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers/create-custom-field-groups-using-the-field-organizer.md)
+          + [Create Custom Field Groups Using the Field Organizer](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
   + Web Personalization {#web-personalization}
     + Account-Based Web Marketing {#account-based-web-marketing}
       + [Account-Based Web Marketing with ABM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-abm.md)
@@ -1571,18 +1570,18 @@ user-guide-description: Marketo product documentation
       + [Add Subdomains in Account Settings](product-docs/web-personalization/getting-started/add-subdomains-in-account-settings.md)
       + [Edit Regions](product-docs/web-personalization/getting-started/edit-regions.md)
       + [Login and User Management](product-docs/web-personalization/getting-started/login-and-user-management.md)
-      + [Setting Web Personalization to Do Not Track](product-docs/web-personalization/getting-started-rtp/setting-web-personalization-to-do-not-track.md)
-      + [User Settings](product-docs/web-personalization/getting-started-rtp/user-settings.md)
-      + [Workspaces in Web Personalization](product-docs/web-personalization/getting-started-rtp/workspaces-in-web-personalization.md)
+      + [Setting Web Personalization to Do Not Track](product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)
+      + [User Settings](product-docs/web-personalization/getting-started/user-settings.md)
+      + [Workspaces in Web Personalization](product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)
     + RTP Tag Implementation {#rtp-tag-implementation}
-      + [Deploy the RTP JavaScript](product-docs/web-personalization/getting-started-/rtp-tag-implementation/deploy-the-rtp-javascript.md)
-      + [Enabling or Disabling the RTP JavaScript Tag](product-docs/web-personalization/rtp-tag-implementation/rtp-tag-implementation/enabling-or-disabling-the-rtp-javascript-tag.md)
-      + [Implementing RTP on Marketo Landing Pages](product-docs/web-personalization/rtp-tag-implementation/rtp-tag-implementation/implementing-rtp-on-marketo-landing-pages.md)
-      + [Implementing RTP on Wordpress Enterprise](product-docs/web-personalization/rtp-tag-implementation/rtp-tag-implementation/implementing-rtp-on-wordpress-enterprise.md)
-      + [Implementing RTP on Wordpress](product-docs/web-personalization/rtp-tag-implementation/rtp-tag-implementation/implementing-rtp-on-wordpress.md)
-      + [Implementing RTP using Adobe Tag Manager](product-docs/web-personalization/rtp-tag-implementation/rtp-tag-implementation/implementing-rtp-using-adobe-tag-manager.md)
-      + [Implementing RTP using Google Tag Manager](product-docs/web-personalization/rtp-tag-implementation/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
-      + [Implementing RTP using Tealium Tag Manager](product-docs/web-personalization/rtp-tag-implementation/rtp-tag-implementation/implementing-rtp-using-tealium-tag-manager.md)
+      + [Deploy the RTP JavaScript](product-docs/web-personalization/getting-started/rtp-tag-implementation/deploy-the-rtp-javascript.md)
+      + [Enabling or Disabling the RTP JavaScript Tag](product-docs/web-personalization/rtp-tag-implementation/enabling-or-disabling-the-rtp-javascript-tag.md)
+      + [Implementing RTP on Marketo Landing Pages](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-marketo-landing-pages.md)
+      + [Implementing RTP on Wordpress Enterprise](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress-enterprise.md)
+      + [Implementing RTP on Wordpress](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress.md)
+      + [Implementing RTP using Adobe Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-adobe-tag-manager.md)
+      + [Implementing RTP using Google Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
+      + [Implementing RTP using Tealium Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-tealium-tag-manager.md)
     + Reporting for Web Personalization {#reporting-for-web-personalization}
       + [Email Reports](product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
       + [Enable/Disable Report Subscriptions](product-docs/web-personalization/reporting-for-web-personalization/enable-disable-report-subscriptions.md)
