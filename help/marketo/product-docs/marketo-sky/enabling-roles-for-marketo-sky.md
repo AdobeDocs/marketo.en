@@ -8,7 +8,7 @@ title: Enabling Roles for Marketo Sky
 
 In order to utilize Marketo Sky, roles for desired users must be enabled.
 
->[!ADMINISTRATION]
+>[!NOTE]
 >
 >**Admin Permissions Required**
 
