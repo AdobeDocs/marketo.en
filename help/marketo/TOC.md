@@ -1352,7 +1352,7 @@ user-guide-description: Marketo product documentation
         + [Send Your In-App Message](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
         + [Approve Your In-App Message](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md)
         + [Schedule Your In-App Message](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)
-        + [Select Your In-App Message](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message/select-your-in-app-message.md)
+        + [Select Your In-App Message](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/sending-your-in-app-message/select-your-in-app-message.md)
         + [Set Your In-App Message Audience](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md)
     + Push Notifications {#push-notifications}
       + [Adding a New Test Device](product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md)

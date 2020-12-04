@@ -16,7 +16,7 @@ Here's where you choose and customize your in-app message images.
 
    >[!TIP]
    >
-   >What's the difference between the templates? See [Choose a Layout for Your In-App Message](choose-a-layout-for-your-in-app-message.md) before you get started.
+   >What's the difference between the templates? See [Choose a Layout for Your In-App Message](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) before you get started.
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
@@ -80,15 +80,9 @@ Here's where you choose and customize your in-app message images.
    >
    >For tap actions for images, buttons, or backgrounds, you can set up different actions for Apple and Android platforms. For example, deep links are handled differently for Apple and Android. If your message is going only to one platform or the other, leave the other one in the default setting or select **None**.
 
-   [create the text for your in-app message](create-in-app-message-text.md)
+Great work! Now, it's time to [create the text for your in-app message](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
 
-Great work! Now, it's time to . 
-
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Understanding In-App Messages](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Choose a Layout for Your In-App Message](choose-a-layout-for-your-in-app-message.md)
->
-
+>* [Understanding In-App Messages](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Choose a Layout for Your In-App Message](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

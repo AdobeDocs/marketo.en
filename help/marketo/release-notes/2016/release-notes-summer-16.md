@@ -40,7 +40,7 @@ Easily create SMS messages right within Marketo. Personalize and target your mes
 >
 >This feature requires that you have an existing Vibes SMS account.
 
-![](assets/vibes-sms2.png)  
+![](assets/vibes-sms2.png)
 
 ## [Email 2.0 Enhancements](../../product-docs/email-marketing/general/email-editor-2-0/email-editor-v2-0-overview.md) {#email-enhancements}
 
@@ -53,7 +53,7 @@ Previously, all variables specified in Email 2.0 Templates were “global” in 
 **Syntax Updates**
 
 * You can now use “mktoAddByDefault” on modules specified in Email 2.0 Templates in order to indicate which modules should be displayed in new emails by default. This is much more convenient if you are building an email template with large numbers of modules.
-* On image elements, you can now specify if the underlying <img> HTML element’s “height” and “width” properties should be locked down or editable to the end-user. mktoLockImgSize=“true” will cause height/width to be locked (even if the image is changed). Similarly, mktoLockImgStyle=“true” will cause the “style” property to be locked.
+* On image elements, you can now specify if the underlying `<img>` HTML element’s “height” and “width” properties should be locked down or editable to the end-user. mktoLockImgSize=“true” will cause height/width to be locked (even if the image is changed). Similarly, mktoLockImgStyle=“true” will cause the “style” property to be locked.
 
 **Code Searching**
 
@@ -75,7 +75,7 @@ Gone are the days where email tracking links could only be branded with a single
 
 We've created a new token type for programs. You now can render Program Name, Description, and ID in assets and smart campaign flow steps.
 
-![](assets/proagram-tokens.png)
+![](assets/program-tokens.png)
 
 ## [Enterprise Key](../../product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
@@ -105,4 +105,4 @@ New and improved!
 
 Marketers can use privacy settings to decide whether or not to track visitors using Munchkin and Web Personalization features. Tracking level is controlled by using the browser’s Do Not Track setting, an opt-out cookie, or a non-specific IP. These methods might affect Marketo’s value and functionality in specific areas, but if the marketer doesn’t change anything, Marketo functionality remains the same.
 
-This feature will be released to customers gradually over a period of six weeks. If you need it right away, please contact Marketo Support. 
+This feature will be released to customers gradually over a period of six weeks. If you need it right away, please contact Marketo Support.

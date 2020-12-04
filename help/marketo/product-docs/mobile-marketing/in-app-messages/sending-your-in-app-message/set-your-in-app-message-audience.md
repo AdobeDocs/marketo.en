@@ -26,13 +26,13 @@ The first step is to decide who should receive your in-app message. You need to 
 
    >[!NOTE]
    >
-   >The default trigger (App Open) and any custom triggers added to the code by your developer are automatically shown in the Action selector. If a custom event is missing, check with your developer to ensure they have added the custom events to the app. Be aware that the custom event coding and approval process may take some time to complete. See [this article](../../../../product-docs/mobile-marketing/admin-mobile-marketing/before-you-create-push-notifications-and-in-app-messages.md) for more information.
+   >The default trigger (App Open) and any custom triggers added to the code by your developer are automatically shown in the Action selector. If a custom event is missing, check with your developer to ensure they have added the custom events to the app. Be aware that the custom event coding and approval process may take some time to complete. See [this article](/help/marketo/product-docs/mobile-marketing/admin-mobile-marketing/before-you-create-push-notifications-and-in-app-messages.md) for more information.
 
 1. Constraints are available for the **Has Mobile App Activity** trigger if you need them.
 
    ![](assets/image2016-5-9-15-3a22-3a27.png)
 
-1. You can add filters to your smart list to limit who receives your in-app message. In this example,using the **Acquisition Date **filter**, **only people acquired on June 9, 2016 will be sent the in-app message.
+1. You can add filters to your smart list to limit who receives your in-app message. In this example,using the **Acquisition Date** filter, only people acquired on June 9, 2016 will be sent the in-app message.
 
    ![](assets/image2016-5-9-15-3a26-3a2.png)
 
@@ -46,6 +46,6 @@ The first step is to decide who should receive your in-app message. You need to 
 
    ![](assets/image2016-5-9-15-3a32-3a6.png)
 
-   Time to [select your in-app message](select-your-in-app-message.md)!
+Nice work! You've got your audience set. You've earned the blue bar and green check mark.
 
-Nice work! You've got your audience set. You've earned the blue bar and green check mark. 
+Time to [select your in-app message](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!

@@ -10,25 +10,24 @@ We want emailing from Sales Connect to feel like a seamless experience when send
 
 1. Click the gear icon and select **Settings**.
 
-   ![](assets/one.png)
+   ![](assets/add-your-email-signature-1.png)
 
 1. Under My Account, select **Email Settings**.
 
-   ![](assets/two.png)
+   ![](assets/add-your-email-signature-2.png)
 
 1. Click **Address and Signature** and select the email identity you want to create a signature for.
 
-   ![](assets/three.png)
+   ![](assets/add-your-email-signature-3.png)
 
 1. In the Signature card, click **Edit**.
 
-   ![](assets/four.png)
+   ![](assets/add-your-email-signature-4.png)
 
 1. Enter your desired text (or images) and click **Save**.
 
-   ![](assets/five.png)
+   ![](assets/add-your-email-signature-5.png)
 
    >[!TIP]
    >
    >Make sure your signature in the compose screen looks similar to the signature listed in your email client.
-

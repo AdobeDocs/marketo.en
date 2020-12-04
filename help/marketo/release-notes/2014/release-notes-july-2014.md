@@ -49,7 +49,7 @@ We’ve added the calls below related to list operations in ReST. See [developer
 
 ## Fast List Import {#fast-list-import}
 
-Over **50x faster**, your files will zoom into Marketo! The old “Normal” and “Optimized for New Leads” import options have been replaced with “Default (Fast Import)”. 
+Over **50x faster**, your files will zoom into Marketo! The old “Normal” and “Optimized for New Leads” import options have been replaced with “Default (Fast Import)”.
 
 The “Skip New Leads and Updates” option remains unchanged.
 
@@ -78,7 +78,3 @@ New RTP API call to get real-time visitor data such as organization, industry, l
 ## RTP: HTML5 support in Campaign Content Editor {#rtp-html-support-in-campaign-content-editor}
 
 The content WYSIWYG editor in the Set Campaigns page now has full HTML5 compatibility. Click on the “HTML” icon within the editor to insert any HTML5 code.
-
-Check out all our [previous releases](http://docs.marketo.com/display/docs/release+notes).
-[Careers](http://marketo.jobs/) [Legal](http://docs.marketo.com/display/docs/assets/legal.php) [Privacy](http://docs.marketo.com/display/docs/assets/privacy.php)   
-© 201 

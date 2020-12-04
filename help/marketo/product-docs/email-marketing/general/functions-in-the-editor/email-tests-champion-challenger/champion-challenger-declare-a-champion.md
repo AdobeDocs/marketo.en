@@ -8,12 +8,9 @@ title: Champion/Challenger -Declare a Champion
 
 When you're ready, you can declare a champion for your email test.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Champion/Challenger: Approve Your Email Test](champion-challenger-approve-your-email-test.md)
->
 
 1. Go to **Marketing Activities**.
 
@@ -39,14 +36,8 @@ When you're ready, you can declare a champion for your email test.
    >
    >Notice that the default **Declare Date** is tomorrow, not today.
 
-   Select a time and click **Save**.   ![](assets/image2014-9-15-13-3a33-3a56.png)
+   Select a time and click **Save**.
+
+   ![](assets/image2014-9-15-13-3a33-3a56.png)
 
    Rad! Now you know how to easily run an email test to improve your content without interruptions to your campaign.
-
-   >[!NOTE]
-   >
-   >**Deep Dive**
-   >
-   >
-   >Learn more about [email marketing](../../../../../product-docs/email-marketing.md).
-

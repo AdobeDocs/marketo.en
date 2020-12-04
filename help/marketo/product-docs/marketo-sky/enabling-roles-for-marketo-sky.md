@@ -8,21 +8,20 @@ title: Enabling Roles for Marketo Sky
 
 In order to utilize Marketo Sky, roles for desired users must be enabled.
 
->[!NOTE]
+>[!ADMINISTRATION]
 >
 >**Admin Permissions Required**
 
 1. In Marketo Classic, click **Admin**.
 
-   ![](/plugins/servlet/confluence/placeholder/unknown-attachment?locale=en_US&version=2)
+   ![](assets/enabling-roles-for-marketo-sky-1.png)
 
 1. In the tree, select **Marketo Sky**.
 
-   ![](/plugins/servlet/confluence/placeholder/unknown-attachment?locale=en_US&version=2)
+   ![](assets/enabling-roles-for-marketo-sky-2.png)
 
 1. Select the desired role(s).
 
-   ![](/plugins/servlet/confluence/placeholder/unknown-attachment?locale=en_US&version=2)
+   ![](assets/enabling-roles-for-marketo-sky-3.png)
 
-   The selected roles are now able to use Marketo Sky.
-
+The selected roles are now able to use Marketo Sky.
