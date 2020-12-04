@@ -1344,7 +1344,7 @@ user-guide-description: Marketo product documentation
         + [Create an In-App Message](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md)
         + [Add In-App Message Images](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md)
         + [Choose a Layout for Your In-App Message](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
-        + [Create In-App Message Text](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message/create-in-app-message-text.md)
+        + [Create In-App Message Text](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
         + [Set Up the Dismiss Button and Approve the Message](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md)
         + [Set Up the In-App Message Background](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md)
         + [Set Up the In-App Message Button](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)
@@ -1553,7 +1553,7 @@ user-guide-description: Marketo product documentation
         + [Enabling Custom Field Sync for Revenue Cycle Analytics](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
         + [People by Revenue Stage Report](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
         + Attribution {#attribution}
-          + [Understanding Attribution](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution.md)
+          + [Understanding Attribution](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
           + [Attribution Example 1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
           + [Attribution Example 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
           + [Attribution Example 3](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
@@ -1574,7 +1574,7 @@ user-guide-description: Marketo product documentation
       + [User Settings](product-docs/web-personalization/getting-started/user-settings.md)
       + [Workspaces in Web Personalization](product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)
     + RTP Tag Implementation {#rtp-tag-implementation}
-      + [Deploy the RTP JavaScript](product-docs/web-personalization/getting-started/rtp-tag-implementation/deploy-the-rtp-javascript.md)
+      + [Deploy the RTP JavaScript](product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)
       + [Enabling or Disabling the RTP JavaScript Tag](product-docs/web-personalization/rtp-tag-implementation/enabling-or-disabling-the-rtp-javascript-tag.md)
       + [Implementing RTP on Marketo Landing Pages](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-marketo-landing-pages.md)
       + [Implementing RTP on Wordpress Enterprise](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress-enterprise.md)

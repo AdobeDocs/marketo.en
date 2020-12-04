@@ -8,13 +8,11 @@ title: Create a Guided Landing Page
 
 >[!NOTE]
 >
->Landing page modes are defined by their template. [Learn more](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) about free-form and guided landing page templates.
+>Landing page modes are defined by their template. [Learn more](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) about free-form and guided landing page templates.
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**Prerequisites**
->
->To use a custom template, you must first [create a guided landing page template](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+>To use a custom template, you must first [create a guided landing page template](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
 ## Create a Guided Landing Page in a Program {#create-a-guided-landing-page-in-a-program}
 
@@ -46,11 +44,11 @@ Guided landing pages can be created as local assets of a program or in the Desig
 
 ## Create a Landing Page in Design Studio {#create-a-landing-page-in-design-studio}
 
-1. Go to **Design Studio**. 
+1. Go to **Design Studio**.
 
    ![](assets/six.png)
 
-1. Click the **New** drop-down. Select **New Landing Page**. 
+1. Click the **New** drop-down. Select **New Landing Page**.
 
    ![](assets/seven.png)
 
@@ -64,7 +62,6 @@ Guided landing pages can be created as local assets of a program or in the Desig
 
 >[!TIP]
 >
->The URL is constructed automatically from the program and landing page names. To change the URL, edit the **Page URL **field.
+>The URL is constructed automatically from the program and landing page names. To change the URL, edit the **Page URL** field.
 >
 >Clear the **Open in editor** checkbox if you don't want the editor to open immediately after clicking **Create**.
-

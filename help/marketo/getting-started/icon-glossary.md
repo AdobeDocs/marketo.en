@@ -229,7 +229,7 @@ title: Icon Glossary
     <div> 
      <img src="assets/image2015-1-8-17-3a45-3a44.png" data-linked-resource-id="5047075" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
     </div></td> 
-   <td><p><a href="../product-docs/crm-sync.md">Salesforce (SFDC)</a></p></td> 
+   <td><p><a href="../product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md">Salesforce (SFDC)</a></p></td> 
   </tr> 
   <tr> 
    <td> 
@@ -906,7 +906,7 @@ title: Icon Glossary
     <div> 
      <img src="assets/image2015-1-9-12-3a55-3a23.png" data-linked-resource-id="5047119" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
     </div></td> 
-   <td><a href="../product-docs/reporting.md">Report Actions</a></td> 
+   <td>Report Actions</td> 
   </tr> 
   <tr> 
    <td> 

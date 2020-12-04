@@ -40,7 +40,7 @@ Yes, we made a [checklist of stuff to do](/help/marketo/getting-started/setup-st
 
 ## Do I have to wait until setup is finished to learn? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-Nope! We made a [bunch of easy tutorials](/help/marketo/getting-started/quick-wins.md) to get you started. They will take about an hour. You can start right away.  
+Nope! We made a bunch of easy tutorials. [Get started here](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md). They should take about an hour. You can start any time.
 
 ## Why am I still asking questions? {#why-am-i-still-asking-questions}
 
