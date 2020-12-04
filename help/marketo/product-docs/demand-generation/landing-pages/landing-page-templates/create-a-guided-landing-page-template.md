@@ -8,9 +8,7 @@ title: Create a Guided Landing Page Template
 
 >[!NOTE]
 >
->**Deep Dive**
->
->Tired of reading? [Watch this cool video](https://youtu.be/3O7e4GdZKsM) with step-by-step instructions.
+>**Deep Dive:** Tired of reading? [Watch this cool video](https://youtu.be/3O7e4GdZKsM) with step-by-step instructions.
 
 Guided landing page templates have a special syntax. Use this syntax to specify what is customizable and where content will end up on each landing page built from your template. Only the regions or variables you specify as editable will be available for customization within the “Guided” landing page editor.
 
@@ -40,6 +38,7 @@ Optional:
 The content of an element with class mktoText (if provided) will be used as the default value for the editable region.
 
 Example:
+
 `<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
 
 ### Image {#image}
@@ -58,9 +57,10 @@ Optional:
 mktoImgClass: String. The value here will be added to the class attribute of the `<img>` element inside the div.
 
 Example:
+
 `<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image"></div></pre>`
 
-## Option 2 - Use a <img> {#option-use-a-img}
+## Option 2 - Use a `<img>` {#option-use-a-img}
 
 Required attributes:  
 class: "mktoImg"  
@@ -71,6 +71,7 @@ Optional:
 src: String URL. This will be used as the default value for the image.
 
 Example:
+
 `<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
 
 >[!NOTE]
@@ -83,6 +84,7 @@ Example:Required attributes:
 **class**: "mktoForm"  
 **id**: ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.  
 **mktoName** : String. This is the display name that will be shown in the landing page editor. Best practice is to use a descriptive name.
+
 `<pre data-theme="Confluence"><div class="mktoForm" id="exampleForm" mktoName="Example Form"></div></pre>`
 
 ## Snippet {#snippet}
@@ -93,6 +95,7 @@ Required attributes:
 **mktoName** : String. This is the display name that will be shown in the landing page editor. Best practice is to use a descriptive name.
 
 Example:
+
 `<pre data-theme="Confluence"><div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div></pre>`
 
 ## Share Button {#share-button}
@@ -103,6 +106,7 @@ Required attributes:
 **mktoName** : String. This is the display name that will be shown in the landing page editor. Best practice is to use a descriptive name.
 
 Example:
+
 `<pre data-theme="Confluence"><div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div></pre>`
 
 ## Video {#video}
@@ -114,7 +118,10 @@ Example:
 Required attributes:
 **class**: "mktoVideo"
 **id**: ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.
-**mktoName** : String. This is the display name that will be shown in the landing page editor. Best practice is to use a descriptive name.  Example:
+**mktoName** : String. This is the display name that will be shown in the landing page editor. Best practice is to use a descriptive name.  
+
+Example:
+
 `<pre data-theme="Confluence"><div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div></pre>`
 
 ## Poll {#poll}
@@ -125,6 +132,7 @@ Required attributes:
 **mktoName** : String. This is the display name that will be shown in the landing page editor. Best practice is to use a descriptive name.
 
 Example:
+
 `<pre data-theme="Confluence"><div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div></pre>`
 
 ## Referral {#referral}
@@ -135,6 +143,7 @@ Required attributes:
 **mktoName** : String. This is the display name that will be shown in the landing page editor. Best practice is to use a descriptive name.
 
 Example:
+
 `<pre data-theme="Confluence"><div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div></pre>`
 
 ## Sweepstakes {#sweepstakes}
@@ -145,6 +154,7 @@ Required attributes:
 **mktoName** : String. This is the display name that will be shown in the landing page editor. Best practice is to use a descriptive name.
 
 Example:
+
 `<pre data-theme="Confluence"><div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div></pre>`
 
 ## Editable Variables {#editable-variables}
@@ -152,7 +162,10 @@ Example:
 All variable types are used by referencing the value of their id attribute wrapped inside of a ${ } character sequence. They can be used anywhere in the document, except for inside of other variable declarations.
 
 Example:
-`<pre data-theme="Confluence">${var1}</pre>` **Declaration:**
+
+`<pre data-theme="Confluence">${var1}</pre>`
+
+**Declaration:**
 
 Variables are declared as meta tags inside the `<head>` element of the template. There are three types of variables available for use: String, Color, and Boolean.
 
@@ -168,7 +181,11 @@ Optional:
 **allowHtml**: "true" or "false". Controls if the value will be printed without being HTML escaped. Defaults to "false" if unset.
 
 Basic Example:
-`<pre data-theme="Confluence"><meta class="mktoString" id="var1" mktoName="My Variable"></pre>` Example with all attributes:
+
+`<pre data-theme="Confluence"><meta class="mktoString" id="var1" mktoName="My Variable"></pre>`
+
+Example with all attributes:
+
 `<pre data-theme="Confluence"><meta class="mktoString" id="var1" mktoName="My Variable" default="This is my default value" allowHtml="true"></pre>`
 
 ## Color {#color}
@@ -182,7 +199,11 @@ Optional:
 **default**: A 7-digit HEX character color code. Eg: "#336699"
 
 Basic Example:
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color1" mktoName="My Color Variable"></pre>` Example with all attributes:
+
+`<pre data-theme="Confluence"><meta class="mktoColor" id="color1" mktoName="My Color Variable"></pre>` 
+
+Example with all attributes:
+
 `<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`
 
 ## Boolean {#boolean}

@@ -1344,7 +1344,7 @@ user-guide-description: Marketo product documentation
         + [Create an In-App Message](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md)
         + [Add In-App Message Images](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md)
         + [Choose a Layout for Your In-App Message](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
-        + [Create In-App Message Text](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
+        + [Create In-App Message Text](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)
         + [Set Up the Dismiss Button and Approve the Message](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md)
         + [Set Up the In-App Message Background](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md)
         + [Set Up the In-App Message Button](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)
@@ -1352,7 +1352,7 @@ user-guide-description: Marketo product documentation
         + [Send Your In-App Message](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
         + [Approve Your In-App Message](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md)
         + [Schedule Your In-App Message](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)
-        + [Select Your In-App Message](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/sending-your-in-app-message/select-your-in-app-message.md)
+        + [Select Your In-App Message](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)
         + [Set Your In-App Message Audience](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md)
     + Push Notifications {#push-notifications}
       + [Adding a New Test Device](product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md)

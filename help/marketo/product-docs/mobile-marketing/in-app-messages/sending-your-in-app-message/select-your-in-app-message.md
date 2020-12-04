@@ -24,6 +24,4 @@ Here's where you select the message you created to use in the program.
    >
    >To select a different message, delete it in the In-App Message field. Then, the New In-App Message link comes back. Click it and select a different message.
 
-   [schedule the send](schedule-your-in-app-message.md)
-
-You're right on track. Time to . 
+You're right on track. Time to [schedule the send](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).

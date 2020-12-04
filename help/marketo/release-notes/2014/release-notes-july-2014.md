@@ -10,7 +10,7 @@ The following features are included in the July 2014 release. Please check your 
 
 ## Marketing Calendar {#marketing-calendar}
 
-See all of your events, emails and more across programs. [This new product](../../product-docs/core-marketo-concepts.md) will be available at no charge to customers with 10 or fewer Marketo Lead Management or Dialog users.
+See all of your events, emails and more across programs. [This new product](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) will be available at no charge to customers with 10 or fewer Marketo Lead Management or Dialog users.
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
@@ -24,7 +24,7 @@ Marketo Lead Management will be updated with a new look and feel that is modern 
 
 ## Date Operators {#date-operators}
 
-[Advanced filters](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) for “in past before”, “in future”, and “in future after”. For example, find leads that have a birth date in the next 3 months, or a contract that is expiring after 6 months.
+[Advanced filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) for “in past before”, “in future”, and “in future after”. For example, find leads that have a birth date in the next 3 months, or a contract that is expiring after 6 months.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -32,7 +32,7 @@ Marketo Lead Management will be updated with a new look and feel that is modern 
 
 ## Program Schedule View {#program-schedule-view}
 
-In addition to the marketing calendar you manage your events and default programs with, a [new schedule view](http://docs.marketo.com/display/docs/programs) right on the program.
+In addition to the marketing calendar you manage your events and default programs with, a new schedule view right on the program.
 
 * Reschedule all dates at once
 * New Tentative Dates - pencil it in!
@@ -63,7 +63,7 @@ Rollout will be staged starting in mid-July and continuing for the next several 
 
 ## RTP: Real-Time Personalization Campaign Templates {#rtp-real-time-personalization-campaign-templates}
 
-The RTP Set Campaign page now [includes ready-made templates](../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Choose from a variety of styles including webinars, case studies, ebooks.
+The RTP Set Campaign page now [includes ready-made templates](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Choose from a variety of styles including webinars, case studies, ebooks.
 
 ![](assets/image2014-9-22-14-3a25-3a13.png)
 
