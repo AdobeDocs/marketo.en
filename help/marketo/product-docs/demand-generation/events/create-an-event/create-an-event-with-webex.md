@@ -10,8 +10,8 @@ title: Create an Event with WebEx
 >
 >**Prerequisites**
 >
->* [Add WebEx as a LaunchPoint Service](../../../../product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
->* [Create a New Event Program](../../../../product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* [Add WebEx as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+>* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Set the appropriate [flow actions](http://docs.marketo.com/display/DOCS/Flow+Actions)to track engagement
 
 First create a Webex Event in the WebEx Event Center. Marketo only uses specific settings and fields for your integration, which we’ll go through shortly. Other fields that you might want to configure for WebEx are explained in the [WebEx Event Center User Guide](http://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
@@ -32,7 +32,9 @@ First create a Webex Event in the WebEx Event Center. Marketo only uses specific
 ## Date & Time {#date-time}
 
 * **Start date** - Enter your start date. This will be viewable in Marketo.
+
 * **Start time** - Enter your start time. This will be viewable in Marketo.
+
 * **Estimated duration** - Specify the duration of the event. This will be viewable in Marketo.
 
 * **Time Zones** - Enter the applicable time zones. They will be viewable in Marketo.
@@ -63,8 +65,7 @@ You will be controlling the invitation list, registration form, and other emails
 
   >[!TIP]
   >
-  >To populate your confirmation email with this unique URL, use the following token in your email: `{{member.webinar url}}`. When the confirmation URL is sent out, this token automatically resolves to the person's unique confirmation URL. 
-  >
+  >To populate your confirmation email with this unique URL, use the following token in your email: `{{member.webinar url}}`. When the confirmation URL is sent out, this token automatically resolves to the person's unique confirmation URL.
   >
   >Set your confirmation email to **Operational** to ensure that people who register and may be unsubscribed still receive their confirmation information.
 
@@ -129,7 +130,7 @@ Now we're ready to jump into Marketo!
    >
    >It can take up to 48 hours for the data to appear in Marketo. If after waiting that long you still don't see anything, select **Refresh from Webinar Provider** from the Event Actions menu in the **Summary** tab of your event.
 
-Sweet! Your WebEx event is now synced with your Marketo event.  People who sign up for your webinar will get pushed to your webinar provider via the Change Program Status flow step when the New Status is set to "Registered." No other status will push the person over. Also, be sure to make Change Program Status flow step #1, and Send Email flow step #2. 
+Sweet! Your WebEx event is now synced with your Marketo event.  People who sign up for your webinar will get pushed to your webinar provider via the Change Program Status flow step when the New Status is set to "Registered." No other status will push the person over. Also, be sure to make Change Program Status flow step #1, and Send Email flow step #2.
 
 ## Viewing the Schedule  {#viewing-the-schedule}
 
@@ -140,4 +141,3 @@ In the [program schedule view](http://docs.marketo.com/display/docs/program+sche
 >[!NOTE]
 >
 >To change your event schedule you'll need to edit the webinar on WebEx.
-

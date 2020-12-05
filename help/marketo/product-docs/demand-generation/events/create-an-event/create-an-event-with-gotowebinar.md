@@ -6,24 +6,23 @@ title: Create an Event with GotoWebinar
 
 # Create an Event with GotoWebinar {#create-an-event-with-gotowebinar}
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**Prerequisites**
->
->* [Add GoToWebinar as a LaunchPoint service](../../../../product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md) 
->* [Create a New Event Program](../../../../product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* [Add GoToWebinar as a LaunchPoint service](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
+>* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Set the appropriate [flow actions](http://docs.marketo.com/display/DOCS/Flow+Actions)to track engagement
 
-First create your webinar in GoToWebinar. Certain settings in the creation of your GoToWebinar are used by Marketo and some are only used by GoToWebinar. 
+First create your webinar in GoToWebinar. Certain settings in the creation of your GoToWebinar are used by Marketo and some are only used by GoToWebinar.
 
-After you create a Marketo event and associate the GoToWebinar with it, the systems will be able to share registration and attendance information. For help creating a GoToWebinar, see the  [GoToWebinar User Guide](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf).
+After you create a Marketo event and associate the GoToWebinar with it, the systems will be able to share registration and attendance information. For help creating a GoToWebinar, see the [GoToWebinar User Guide](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf).
 
 Below is a list of the settings used by Marketo.
 
 ## Title and Description {#title-and-description}
 
-* `**Webinar Name** - enter the name for the webinar. This name will be viewable in Marketo.`
-* `**Description** (optional) - enter the description for the webinar. The description will be`viewable in Marketo.
+**Webinar Name** - enter the name for the webinar. This name will be viewable in Marketo.
+
+**Description** (optional) - enter the description for the webinar. The description will be`viewable in Marketo.
 
 ![](assets/image2015-5-28-15-3a1-3a36.png)
 
@@ -39,7 +38,7 @@ Below is a list of the settings used by Marketo.
 
 **Time Zone** - select the applicable time zone. It will be viewable in Marketo.
 
-**Type - **set to **One Session**.
+**Type -** set to **One Session**.
 
 ![](assets/image2015-5-28-15-3a7-3a1.png)
 
@@ -101,7 +100,7 @@ Now, let's jump into Marketo!
    >
    >It can take up to 48 hours for the data to appear in Marketo. If after waiting that long you still don't see anything, select **Refresh from Webinar Provider** from the Event Actions menu in the **Summary** tab of your event.
 
-People who sign up for your webinar will get pushed to your webinar provider via the Change Program Status flow step when the New Status is set to "Registered." No other status will push the person over. Also, be sure to make Change Program Status flow step #1, and Send Email flow step #2. 
+People who sign up for your webinar will get pushed to your webinar provider via the Change Program Status flow step when the New Status is set to "Registered." No other status will push the person over. Also, be sure to make Change Program Status flow step #1, and Send Email flow step #2.
 
 ## Viewing the Schedule  {#viewing-the-schedule}
 

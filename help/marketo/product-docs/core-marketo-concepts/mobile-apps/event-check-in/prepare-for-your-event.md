@@ -10,9 +10,7 @@ There are several things you have to do to get ready for the event.
 
 >[!NOTE]
 >
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
+>Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](/help/marketo/getting-started/updates-to-marketo-terminology.md).
 
 ## Create a New Marketo Role {#create-a-new-marketo-role}
 
@@ -24,7 +22,7 @@ Marketo has a special user role for the event check-in app.  [Create a new Marke
 
 ## Create a New Marketo Event Program {#create-a-new-marketo-event-program}
 
-[Create a new Marketo event program](../../../../product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) to capture the status of your people as they progress through different stages and get accurate measures of the ROI for your marketing initiatives. 
+[Create a new Marketo event program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) to capture the status of your people as they progress through different stages and get accurate measures of the ROI for your marketing initiatives.
 
 ## Specify the Event Dates {#specify-the-event-dates}
 
@@ -58,7 +56,7 @@ Now that you know the *when*, it's time to add the *who*.
 
    ![](assets/five.png)
 
-1. Click **Person Actions**, hover over** Programs** and select **Change Program Status**.
+1. Click **Person Actions**, hover over **Programs** and select **Change Program Status**.
 
    ![](assets/six.png)
 
@@ -74,9 +72,8 @@ Now that you know the *when*, it's time to add the *who*.
 
    ![](assets/image2016-4-7-16-3a49-3a7.png)
 
-1. ...and indicates when the task is complete. 
+1. ...and indicates when the task is complete.
 
    ![](assets/ten.png)
 
    The selected people are now in your event, ready to be checked in using the tablet app on the trade show floor.
-

@@ -8,16 +8,14 @@ title: Add a Snippet to an Email
 
 Snippets are reusable blocks of rich text and graphics that you can use in your emails and landing pages.
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**Prerequisites**
->
->* [Create a Snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>[Create a Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 >
 
 >[!NOTE]
 >
->You cannot embed any [Marketo email syntax](../../../../product-docs/email-marketing/general/email-editor-2-0/email-template-syntax.md)in snippets; it will **not** work in an email. Snippets should just be body content (HTML + TEXT).
+>You cannot embed any [Marketo email syntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)in snippets; it will **not** work in an email. Snippets should just be body content (HTML + TEXT).
 
 1. Find your email, select it and click **Edit Draft**.
 
@@ -39,6 +37,6 @@ Snippets are reusable blocks of rich text and graphics that you can use in your 
 
    >[!NOTE]
    >
-   >Each time you update and approve your snippet, the changes will be reflected in the email. The email will be drafted unless you approve the snippet with [No-Draft](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
+   >Each time you update and approve your snippet, the changes will be reflected in the email. The email will be drafted unless you approve the snippet with [No-Draft](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
 
-This is a quick and easy way to re-use dynamic content. 
+This is a quick and easy way to re-use dynamic content.

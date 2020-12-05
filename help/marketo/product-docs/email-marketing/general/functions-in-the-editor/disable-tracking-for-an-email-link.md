@@ -6,13 +6,11 @@ title: Disable Tracking for an Email Link
 
 # Disable Tracking for an Email Link {#disable-tracking-for-an-email-link}
 
-Sometimes you don't want to enable the **Marketo** **Tracking** **URL** on a link in an email. This is useful when the destination page does not support URL parameters and may result in a broken link.
+Sometimes you don't want to enable the **Marketo Tracking URL** on a link in an email. This is useful when the destination page does not support URL parameters and may result in a broken link.
 
 >[!NOTE]
 >
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
+>Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](/help/marketo/getting-started/updates-to-marketo-terminology.md).
 
 1. Select your email and click **Edit** **Draft**.
 
@@ -44,8 +42,8 @@ Sometimes you don't want to enable the **Marketo** **Tracking** **URL** on a lin
 
    >[!TIP]
    >
-   >Want to disable click-tracking for a link in an email **template**? Use this format:   
-   ><a class="mktNoTrack" href=" `http://www.mywebsite.com">This` link does not have tracking</a>  
+   >Want to disable click-tracking for a link in an email **template**? Use this format:
+   >`<a class="mktNoTrack" href="http://www.mywebsite.com">This link does not have tracking</a>`  
    >If you need help implementing this, please consult your web developer.
 
-Nice! You have now disabled tracking for a link. 
+Nice! You have now disabled tracking for a link.

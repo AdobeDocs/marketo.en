@@ -100,15 +100,11 @@ Identify the right companies for targeting.
 
 >[!NOTE]
 >
->**Explanation**
->
 >If you're seeing a mismatch between CRM accounts you've selected and what's in the Discover CRM Grid, it's likely due to one or more of the following:
 >
 >* Having different CRM accounts with similar names that got de-duped
 >* The next scheduled sync hasn't occurred yet
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Lead to Account Matching](discover-accounts/lead-to-account-matching.md)
+>* [Lead to Account Matching](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)

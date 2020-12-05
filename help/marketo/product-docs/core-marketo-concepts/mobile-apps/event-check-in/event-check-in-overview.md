@@ -18,9 +18,9 @@ Have a great event!
 
 Before the event:
 
-* [Create a new Marketo role](help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) for iPad or Android users for the event
-* [Invite new tablet users to the event](help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) and assign them the new role
-* [Create a new Marketo event program](help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+* [Create a new Marketo role](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) for iPad or Android users for the event
+* [Invite new tablet users to the event](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) and assign them the new role
+* [Create a new Marketo event program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 * Specify the event dates
 * Add people to your event
 
@@ -39,5 +39,5 @@ At the event:
 
 * Log-in to the app
 * Find guests (and create new people)
-* [Check in guests](help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) (reverse check-ins, edit person records at check-in)
+* [Check in guests](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) (reverse check-ins, edit person records at check-in)
 * Sync the iPad or Android tablet app with Marketo

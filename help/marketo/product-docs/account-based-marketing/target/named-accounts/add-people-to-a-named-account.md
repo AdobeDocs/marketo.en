@@ -64,9 +64,6 @@ There are three different ways to manually add people to a named account in ABM.
 
    ![](assets/twelve.png)
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->[Lead to Account Matching](discover-accounts/lead-to-account-matching.md)
-
+>[Lead to Account Matching](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)

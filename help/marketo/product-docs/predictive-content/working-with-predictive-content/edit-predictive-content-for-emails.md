@@ -10,13 +10,11 @@ title: Edit Predictive Content for Emails
 >
 >Depending on the purchase date, your Marketo subscription may include either Marketo Predictive Content or Content`<sup>AI</sup>`. For those using Predictive Content, Marketo is enabling Content`<sup>AI</sup>` Analytics features until April 30, 2018. To keep these features beyond that date, please contact your Marketo Customer Success Manager to upgrade to Marketo Content`<sup>AI</sup>`.
 
-Here's how to set up your predictive content for emails. 
+Here's how to set up your predictive content for emails.
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**Prerequisites**
->
->Content must be [approved for predictive content](../../../../product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) on the All Content page.
+>Content must be [approved for predictive content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) on the All Content page.
 
 1. On the Predictive Content page, click a title to open the editor.
 
@@ -40,7 +38,7 @@ Here's how to set up your predictive content for emails.
 
 1. To add or edit the image URL, click **Edit Image**.
 
-   ![](assets/image2017-10-3-9-3a33-3a11.png) 
+   ![](assets/image2017-10-3-9-3a33-3a11.png)
 
 1. Insert the image URL and click **Add**.
 
@@ -69,5 +67,4 @@ Here's how to set up your predictive content for emails.
 
    >[!NOTE]
    >
-   >In Marketo Email Editor v2.0, you can also [view the layout templates](../../../../product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) you use while you're enabling the content.
-
+   >In Marketo Email Editor v2.0, you can also [view the layout templates](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) you use while you're enabling the content.

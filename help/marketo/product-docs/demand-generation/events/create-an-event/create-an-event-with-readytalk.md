@@ -6,18 +6,15 @@ title: Create an Event with ReadyTalk
 
 # Create an Event with ReadyTalk {#create-an-event-with-readytalk}
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**Prerequisites**
->
->* [Add ReadyTalk as a LaunchPoint Service](../../../../product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
->* [Create a New Event Program](../../../../product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* [Add ReadyTalk as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
+>* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Set the appropriate [flow actions](http://docs.marketo.com/display/DOCS/Flow+Actions)to track engagement
->
 
 First set up your event in the ReadyTalk conference center. If you need help, check out the [ReadyTalk Resource Center.](https://www.readytalk.com/resources/readytalk)  When choosing the registration type, select **pre-register before the meeting**. If you select *register at time of meeting*, Marketo will **not** capture a Registered status for your people and will only pull in a person status of Attended *after* the webinar concludes.
 
-Leave **notify me of new registrations via email **unchecked.
+Leave **notify me of new registrations via email** unchecked.
 
 ![](assets/image2015-5-28-21-3a18-3a39.png)
 
@@ -31,9 +28,7 @@ Now you're ready to link your event to Marketo.
 
 1. Select your event, then click **Event Actions**, and finally **Event Settings.**
 
-   ** ![](assets/image2015-5-18-12-3a46-3a47.png)
-
-   **
+   ![](assets/image2015-5-18-12-3a46-3a47.png)
 
    >[!NOTE]
    >
@@ -41,15 +36,11 @@ Now you're ready to link your event to Marketo.
 
 1. Under **Event Partner,** select **ReadyTalk**.
 
-   ** ![](assets/image2015-5-18-12-3a47-3a59.png)
+   ![](assets/image2015-5-18-12-3a47-3a59.png)
 
-   **
+1. Under **Login,** select your ReadyTalk login.
 
-1. Under** Login, **select your ReadyTalk login.
-
-   ** ![](assets/image2015-5-18-12-3a48-3a48.png)
-
-   **
+   ![](assets/image2015-5-18-12-3a48-3a48.png)
 
 1. Under **Event**, select the event you want to link then click **Save**.
 
@@ -63,8 +54,7 @@ Now you're ready to link your event to Marketo.
 
    >[!TIP]
    >
-   >To populate your confirmation email with this unique URL, use the following token in your email: `{{member.webinar url}}`. When the confirmation URL is sent out, this token automatically resolves to the person's unique confirmation URL. 
-   >
+   >To populate your confirmation email with this unique URL, use the following token in your email: `{{member.webinar url}}`. When the confirmation URL is sent out, this token automatically resolves to the person's unique confirmation URL.
    >
    >Set your confirmation email to Operational to ensure that people who register, who might be unsubscribed, receive their confirmation information.
 
@@ -84,4 +74,4 @@ Now you're ready to link your event to Marketo.
 
    ![](assets/image2015-5-18-12-9-58.png)
 
-People who sign up for your webinar will get pushed to your webinar provider via the Change Program Status flow step when the New Status is set to "Registered." No other status will push the person over. Also, be sure to make Change Program Status flow step #1, and Send Email flow step #2. 
+People who sign up for your webinar will get pushed to your webinar provider via the Change Program Status flow step when the New Status is set to "Registered." No other status will push the person over. Also, be sure to make Change Program Status flow step #1, and Send Email flow step #2.
