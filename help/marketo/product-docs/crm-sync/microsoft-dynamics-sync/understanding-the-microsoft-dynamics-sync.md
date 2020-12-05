@@ -20,7 +20,7 @@ Marketo continuously syncs data with Microsoft Dynamics all day, every day. It's
 >
 >The very first sync in your subscription takes minutes to hours, depending on the size of your database. Marketo copies the entire database from Dynamics. After that, each sync typically takes seconds or minutes and only syncs data that has changed.
 
-The sync between Marketo and Dynamics is bidirectional for leads and contacts. If you make changes in either Marketo or Dynamics, your updates will be reflected in both systems. All other fields, such as accounts and opportunities, are synced one way only, from Dynamics to Marketo. 
+The sync between Marketo and Dynamics is bidirectional for leads and contacts. If you make changes in either Marketo or Dynamics, your updates will be reflected in both systems. All other fields, such as accounts and opportunities, are synced one way only, from Dynamics to Marketo.
 
 ## What is Synced between Marketo and Microsoft Dynamics? {#what-is-synced-between-marketo-and-microsoft-dynamics}
 
@@ -34,7 +34,7 @@ The sync between Marketo and Dynamics is bidirectional for leads and contacts. I
 
 >[!NOTE]
 >
->The [credentials you enter in Marketo for Dynamics](sync-setup/microsoft-dynamics-365/step-2-of-3-set-up-marketo-sync-user-in-dynamics.md) are used to sync data over.
+>The [credentials you enter in Marketo for Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) are used to sync data over.
 
 There are many nuances and features about Dynamics sync. Check out the details in the [Microsoft Dynamics Sync Details section](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details).
 
@@ -49,5 +49,3 @@ There are many nuances and features about Dynamics sync. Check out the details i
 >* [Sync Setup](http://docs.marketo.com/display/docs/sync+setup)
 >
 >* [Microsoft Dynamics Sync Details](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details)
->
-

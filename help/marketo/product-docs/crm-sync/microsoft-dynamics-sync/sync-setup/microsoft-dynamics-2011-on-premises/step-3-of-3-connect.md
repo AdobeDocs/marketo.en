@@ -14,13 +14,10 @@ title: Step 3 of 3 -Connect Microsoft Dynamics with Marketo (2011 On-Premises)
 
 Alright! We installed the solution and configured the sync user. Next, we need to connect Marketo and Dynamics.
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**Prerequisites**
->
->* [Step 1 of 3: Install the Marketo Solution (2011 On-Premises)](step-1-of-3-install-the-marketo-solution-2011-on-premises.md)
->* [Step 2 of 3: Set Up Marketo Sync User in Dynamics (2011 On-Premises)](step-2-of-3-set-up-marketo-sync-user-in-dynamics-2011-on-premises.md)
->
+>* [Step 1 of 3: Install the Marketo Solution (2011 On-Premises)](step-1-of-3-install.md)
+>* [Step 2 of 3: Set Up Marketo Sync User in Dynamics (2011 On-Premises)](step-2-of-3-set-up.md)
 
 >[!NOTE]
 >
@@ -48,7 +45,7 @@ Alright! We installed the solution and configured the sync user. Next, we need t
    >
    >Please make sure your credentials are correct as we are unable to revert the subsequent schema changes after submission. If incorrect credentials are saved, you’ll have to obtain a new Marketo subscription.
 
-1. Enter the **Username**, **Password** and CRM **URL **then click **Save**.
+1. Enter the **Username**, **Password** and CRM **URL** then click **Save**.
 
    ![](assets/image2015-4-2-14-3a50-3a7.png)
 
@@ -90,7 +87,7 @@ If you've created a custom filter, be sure to go in and select the new fields to
 
 ## Enable Sync {#enable-sync}
 
-1. Click **Edit **in **Step 3: Enable Sync**.
+1. Click **Edit** in **Step 3: Enable Sync**.
 
    ![](assets/image2015-3-16-9-52-2b.png)
 
@@ -107,4 +104,3 @@ If you've created a custom filter, be sure to go in and select the new fields to
    ![](assets/image2014-12-11-11-3a55-3a15.png)
 
    Excellent work! 
-

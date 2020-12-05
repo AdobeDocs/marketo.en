@@ -18,9 +18,9 @@ This is the last step of the sync. We're almost there!
 >
 >**Prerequisites**
 >
->* [Step 1 of 3: Install the Marketo Solution (Online)](step-1-of-3-install-the-marketo-solution-online.md)
+>* [Step 1 of 3: Install the Marketo Solution (Online)](step-1-of-3-install.md)
 >
->* [Step 2 of 3: Set up Marketo Sync User in Dynamics](step-2-of-3-set-up-marketo-sync-user-in-dynamics.md)
+>* [Step 2 of 3: Set up Marketo Sync User in Dynamics](step-2-of-3-set-up.md)
 >
 
 >[!NOTE]
@@ -59,7 +59,7 @@ This is the last step of the sync. We're almost there!
 
 ## Select Fields to Sync {#select-fields-to-sync}
 
-1. Click **Edit **in **Step 2: Select Fields to Sync**.
+1. Click **Edit** in **Step 2: Select Fields to Sync**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -75,7 +75,7 @@ If you've created a custom filter, be sure to go in and select the new fields to
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Click **Edit **on Field Sync Details.
+1. Click **Edit** on Field Sync Details.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 

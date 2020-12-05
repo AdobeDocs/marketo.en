@@ -6,7 +6,7 @@ title: Step 1 of 3 -Install the Marketo Solution (2011 On-Premises)
 
 # Step 1 of 3: Install the Marketo Solution (2011 On-Premises) {#step-of-install-the-marketo-solution-on-premises}
 
-Before you can sync Microsoft Dynamics On-Premises and Marketo, you need to first install the Marketo solution in Dynamics. 
+Before you can sync Microsoft Dynamics On-Premises and Marketo, you need to first install the Marketo solution in Dynamics.
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ Before you can sync Microsoft Dynamics On-Premises and Marketo, you need to firs
 >
 >You need CRM administrator privileges to perform this sync.
 
-1. Login to **Dynamics**, select **Settings **in the bottom left menu.
+1. Login to **Dynamics**, select **Settings** in the bottom left menu.
 
    ![](assets/image2015-4-2-11-3a32-3a53.png)
 
@@ -80,11 +80,9 @@ Before you can sync Microsoft Dynamics On-Premises and Marketo, you need to firs
 
 1. Select Marketo Lead Management and click **Publish All Customizations.**
 
-   ** ![](assets/image2015-4-2-11-3a48-3a21.png)
+   ![](assets/image2015-4-2-11-3a48-3a21.png)
 
-   **
-
-   Wasn't too bad right? Come on, I'll keep walking you through the rest.
+Wasn't too bad right? Come on, I'll keep walking you through the rest.
 
 >[!CAUTION]
 >
@@ -94,5 +92,4 @@ Before you can sync Microsoft Dynamics On-Premises and Marketo, you need to firs
 >
 >**Related Articles**
 >
->[Step 2 of 3: Set Up Marketo Sync User in Dynamics (2011 On-Premises)](step-2-of-3-set-up-marketo-sync-user-in-dynamics-2011-on-premises.md)
-
+>[Step 2 of 3: Set Up Marketo Sync User in Dynamics (2011 On-Premises)](step-2-of-3-set-up.md)

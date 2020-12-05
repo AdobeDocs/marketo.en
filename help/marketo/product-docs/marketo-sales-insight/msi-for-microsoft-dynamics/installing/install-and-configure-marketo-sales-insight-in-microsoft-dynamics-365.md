@@ -35,7 +35,7 @@ Marketo Sales Insight is a fantastic tool for giving your sales team a "window" 
    >**Reminder**
    >
    >
-   >You should already have [installed and configured the Marketo solution](../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install-the-marketo-solution-online.md) before moving forward.
+   >You should already have [installed and configured the Marketo solution](../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md) before moving forward.
 
    Click Import.
    ![](assets/image2014-12-12-9-3a5-3a27.png)
@@ -92,16 +92,13 @@ Let's tie your Marketo instance to Sales Insight in Dynamics. Here is how:
    >
    >The following fields must be synced with Marketo for *both Lead and Contact* for Sales Insight to work:
    >
-   >    
-   >    
-   >    * Priority 
-   >    * Urgency
-   >    * Relative Score
-   >    
-   >    
+   > * Priority
+   > * Urgency
+   > * Relative Score
+   >
    >If any of these fields are missing, you will see an error message in Marketo with the name of the missing fields. To fix this, perform [this procedure](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
-1. Back in Microsoft Dynamics, click the ![](assets/image2015-5-13-15-3a49-3a19.png)icon next to Settings, then select **Marketo API Config** in the dropdown.
+1. Back in Microsoft Dynamics, click the ![](assets/image2015-5-13-15-3a49-3a19.png) icon next to Settings, then select **Marketo API Config** in the dropdown.
 
    ![](assets/image2015-5-13-16-3a4-3a1.png)
 
@@ -113,13 +110,13 @@ Let's tie your Marketo instance to Sales Insight in Dynamics. Here is how:
 
    ![](assets/image2015-5-13-16-3a7-3a6.png)
 
-1. Click the ![](assets/image2015-5-13-16-3a8-3a51.png)icon in the bottom right corner to save the changes.
+1. Click the ![](assets/image2015-5-13-16-3a8-3a51.png) icon in the bottom right corner to save the changes.
 
 ## Set User Access {#set-user-access}
 
 You need to give users permissions to use Sales Insight.
 
-1. Click the ![](assets/image2015-5-13-10-3a5-3a8.png)  menu. In the dropdown menu select **Settings**, then select **Security**.
+1. Click the ![](assets/image2015-5-13-10-3a5-3a8.png) menu. In the dropdown menu select **Settings**, then select **Security**.
 
    ![](assets/image2015-5-13-16-3a12-3a12.png)
 
@@ -146,4 +143,3 @@ You have now unlocked the power of Marketo Sales Insight for your sales team.
 >**Related Articles**
 >
 >[Setting up Stars and Flames for Lead/Contact Records](http://docs.marketo.com/x/BICMAg)
-

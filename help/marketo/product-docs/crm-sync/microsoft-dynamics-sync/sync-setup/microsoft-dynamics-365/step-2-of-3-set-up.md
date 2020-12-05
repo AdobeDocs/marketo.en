@@ -6,13 +6,13 @@ title: Step 2 of 3 -Set up Marketo Sync User in Dynamics
 
 # Step 2 of 3: Set up Marketo Sync User in Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}
 
-Let's get started by creating a user account. 
+Let's get started by creating a user account.
 
 >[!NOTE]
 >
 >**Prerequisites**
 >
->[Step 1 of 3: Install the Marketo Solution (Online)](step-1-of-3-install-the-marketo-solution-online.md)
+>[Step 1 of 3: Install the Marketo Solution (Online)](step-1-of-3-install.md)
 
 ## Create a new user {#create-a-new-user}
 
@@ -100,7 +100,7 @@ Almost there! All we have left is to inform Marketo Solution about the new user 
 
    ![](assets/fifteen.png)
 
-1. Click the search button on the **Marketo User **field and select the sync user you created.
+1. Click the search button on the **Marketo User** field and select the sync user you created.
 
    ![](assets/sixteen.png)
 
@@ -131,5 +131,4 @@ Almost there! All we have left is to inform Marketo Solution about the new user 
    >**Related Articles**
    >
    >
-   >[Step 3 of 3: Connect Microsoft Dynamics with Marketo (Online)](step-3-of-3-connect-microsoft-dynamics-with-marketo-online.md)
-
+   >[Step 3 of 3: Connect Microsoft Dynamics with Marketo (Online)](step-3-of-3-connect.md)

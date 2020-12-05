@@ -13,7 +13,6 @@ Great job completing the previous steps, let's keep moving through this.
 >**Prerequisites**
 >
 >* [Step 1 of 3: Install the Marketo Solution in Dynamics (2013 On-Premises)](step-1-of-3-install.md)
->
 
 ## Assign Sync User Role {#assign-sync-user-role}
 
@@ -23,7 +22,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 >
 >This applies to Marketo plugin version 4.0.0.14 and later. For earlier versions, all users must have the sync user role. To upgrade Marketo, see [Upgrade the Marketo Solution for Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
 
-1. Under **SETTINGS**, click **ADMINISTRATION**.
+1. Under **Settings**, click **Administration**.
 
    ![](assets/image2014-12-11-11-3a13-3a19.png)
 
@@ -71,7 +70,7 @@ Almost done! We just have a few last pieces of configuration before moving onto 
 
    ![](assets/image2015-3-26-11-3a29-3a13.png)
 
-1. Click ![](assets/image2015-3-13-15-3a10-3a11.png)in the bottom right corner to save the changes.
+1. Click ![](assets/image2015-3-13-15-3a10-3a11.png) in the bottom right corner to save the changes.
 
    ![](assets/image2014-12-11-11-3a15-3a32.png)
 
@@ -91,6 +90,4 @@ Great job!
 >
 >**Related Articles**
 >
->* [Step 3 of 3: Connect Marketo and Dynamics (2013 On-Premises)](step-3-of-3-connect-marketo-and-dynamics-2013-on-premises.md)
->
-
+>* [Step 3 of 3: Connect Marketo and Dynamics (2013 On-Premises)](step-3-of-3-connect.md)

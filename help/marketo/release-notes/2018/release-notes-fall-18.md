@@ -12,14 +12,15 @@ Please click the title links to view detailed articles for each feature, if avai
 
 ## Core Platform Enhancements {#core-platform-enhancements}
 
-**[Web Personalization](help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
+**[Web Personalization](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
 Web personalization now supports multiple workspaces.
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
 * **SFDC Lightning Support**: Users migrating to or currently using Lightning can leverage MSE for smarter engagement across the buyer journey.
-* **Expanded support: Microsoft Office **
+
+* **Expanded support: Microsoft Office**
 
     * Outlook as a Delivery Channel: Marketers can now leverage Outlook for email engagements, improving deliverability rates and response tracking.
     * Office 365 Email Support Improvements: Marketo Sales Engage is directly available in Outlook for Mac, Outlook for Windows, and the Outlook Web Application for Office 365 Email clients, making Marketo Sales Engage more readily available to all Office users.
@@ -30,7 +31,7 @@ Web personalization now supports multiple workspaces.
 
 ## Marketo Sky {#marketo-sky}
 
-For more details and updates, check our [Sky release notes](https://help.marketo.com/hc/en-us/articles/360007593093-Q3-Releases).
+For more details and updates, check our [Sky release notes](https://help.marketo.com).
 
 * **Design System Updates**
 
@@ -66,7 +67,7 @@ For more details and updates, check our [Sky release notes](https://help.marketo
 
     * Customers can now sign in to the Bizible web application using their company’s identity provider and credentials, which complies with enterprise security requirements.
 
-** [Marketo Performance Insights Enhancements](../../product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Marketo Performance Insights Enhancements](../../product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **Usability enhancements**
 
@@ -80,7 +81,7 @@ For more details and updates, check our [Sky release notes](https://help.marketo
 
 ## Ad Networks {#ad-networks}
 
-** [Refresh Token](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
+**[Refresh Token](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
 We’ve implemented a refresh token within our retargeting and LinkedIn Lead Gen Form solutions that extends access time to one year before re-authentication is required.
 
@@ -97,4 +98,3 @@ Marketo now supports the use of email-disposition fields over the Lead APIs (inc
 >[!NOTE]
 >
 >Marketo is also upgrading libraries related to identity and authentication. While the upgrade is underway, you may notice intermittent errors if you have an active session open. If you experience issues, please log out and back in to your subscription.
-

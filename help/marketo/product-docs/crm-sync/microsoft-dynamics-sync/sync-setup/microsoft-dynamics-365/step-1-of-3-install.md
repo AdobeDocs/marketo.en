@@ -88,10 +88,6 @@ Before you can sync Microsoft Dynamics 365 and Marketo, you need to first instal
 
    High five! The installation is finished.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >
-   >[Step 2 of 3: Set up Marketo Sync User in Dynamics](step-2-of-3-set-up-marketo-sync-user-in-dynamics.md)
-
+   >[Step 2 of 3: Set up Marketo Sync User in Dynamics](step-2-of-3-set-up.md)

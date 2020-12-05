@@ -10,8 +10,8 @@ title: Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 3 of 
 >
 >**Prerequisites**
 >
->* [Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 1 of 3](install-marketo-for-dynamics-2015-on-prem-and-2016-365-on-prem-step-1-of-3.md)
->* [Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 2 of 3](install-marketo-for-dynamics-2015-on-prem-and-2016-365-on-prem-step-2-of-3.md)
+>* [Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 1 of 3](step-1-of-3-install.md)
+>* [Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 2 of 3](step-2-of-3-set-up.md)
 >
 
 >[!NOTE]
@@ -40,7 +40,7 @@ title: Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 3 of 
    >
    >Please make sure your credentials are correct as we are unable to revert the subsequent schema changes after submission. If incorrect credentials are saved, you’ll have to obtain a new Marketo subscription.
 
-1. Enter the **Username**, **Password **a Microsoft Dynamics **URL**, and an *optional*** Client Id. **Click **Save** when done.
+1. Enter the **Username**, **Password** a Microsoft Dynamics **URL**, and an optional **Client Id**. Click **Save** when done.
 
    ![](assets/client-id.png)
 
@@ -70,7 +70,7 @@ If you've created a custom filter, be sure to go in and select the new fields to
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Click **Edit **on Field Sync Details.
+1. Click **Edit** on Field Sync Details.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -80,7 +80,7 @@ If you've created a custom filter, be sure to go in and select the new fields to
 
 ## Enable Sync {#enable-sync}
 
-1. Click **Edit** in** Step 3: Enable Sync**.
+1. Click **Edit** in **Step 3: Enable Sync**.
 
    ![](assets/image2015-3-16-9-52-2.png)
 
@@ -96,5 +96,4 @@ If you've created a custom filter, be sure to go in and select the new fields to
 
    ![](assets/image2015-3-16-9-59-51.png)
 
-   Excellent work!
-
+Excellent work!

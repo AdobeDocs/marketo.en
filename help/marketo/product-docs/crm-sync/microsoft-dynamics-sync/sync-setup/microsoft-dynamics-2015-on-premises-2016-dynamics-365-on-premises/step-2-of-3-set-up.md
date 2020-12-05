@@ -14,7 +14,7 @@ Great job completing the previous steps. Let's keep moving through this.
 >
 >**Prerequisites**
 >
->* [Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 1 of 3](install-marketo-for-dynamics-2015-on-prem-and-2016-365-on-prem-step-1-of-3.md)
+>* [Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 1 of 3](step-1-of-3-install.md)
 >
 
 ## Assign Sync User Role {#assign-sync-user-role}
@@ -47,7 +47,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
    >[!TIP]
    >
-   >If you don't see the role, go back to [step 1 of 3](step-1-of-3.md) and import the solution.
+   >If you don't see the role, go back to [step 1 of 3](step-1-of-3-install.md) and import the solution.
 
    >[!NOTE]
    >
@@ -69,7 +69,7 @@ Almost done! We just have a few last pieces of configuration before moving onto 
 
    ![](assets/configure2.png)
 
-1. Click the **Marketo User **field and select the sync user.
+1. Click the **Marketo User** field and select the sync user.
 
    ![](assets/configure3.png)
 
@@ -91,4 +91,4 @@ Almost done! We just have a few last pieces of configuration before moving onto 
 >
 >**Related Articles**
 >
->[Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 3 of 3](install-marketo-for-dynamics-2015-on-prem-and-2016-365-on-prem-step-3-of-3.md)
+>[Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 3 of 3](step-3-of-3-connect.md)

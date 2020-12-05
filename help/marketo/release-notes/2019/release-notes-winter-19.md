@@ -88,7 +88,7 @@ Personalize your ABM campaigns for specific personas within named accounts. The 
 
 ## Web Personalization {#web-personalization}
 
-**[Add Subdomains in Account Settings](help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
+**[Add Subdomains in Account Settings](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
 To manage domains and subdomains more efficiently, users can now add subdomains to their RTP account settings.
 
