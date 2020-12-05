@@ -9,15 +9,15 @@ description: Cancel a Scheduled Batch Campaign Run
 
 If you've scheduled a run for one of your batch campaigns and would like to cancel it, here's how.
 
-1. Select the campaign and go to the **Schedule** tab.
+1. Select the campaign and go to the [!UICONTROL **Schedule**] tab.
 
    ![Image One](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-1.png)
 
-1. Click **Scheduled Runs**.
+1. Click [!UICONTROL **Scheduled Runs**].
 
    ![Image Two](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. Find the scheduled run you want to cancel and click the **X** to the far right.
+1. Find the scheduled run you want to cancel and click the [!UICONTROL **X**] to the far right.
 
    ![Image Three](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-3.png)
 

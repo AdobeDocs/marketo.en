@@ -7,7 +7,7 @@ description: Archive/Unarchive a Campaign Folder
 
 ## Convert to Archive Folder
 
-Right-click any folder and select **Convert To Archive Folder**.
+Right-click any folder and select [!UICONTROL **Convert To Archive Folder**].
 
    ![Image One](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-1.png)
 
@@ -25,7 +25,7 @@ Once you've archived a folder, its icon will change to a file cabinet, as shown 
 >folder.
 >* The assets in the folder no longer appear in auto-suggest.
 >* Archived templates are not available when creating an email
->or landing page in Design Studio.
+>or landing page in [!UICONTROL Design Studio].
 >* Archived pages can’t be used in landing page test groups.
 >
 >The following functionalities do not change when archiving:

@@ -7,9 +7,9 @@ description: Copy Labels from Parent to Child
 
 <br>&nbsp;
 
-To copy labels from a parent to a child asset, navigate to the asset's Details page under the Overview tab.
+To copy labels from a parent to a child asset, navigate to the asset's [!UICONTROL Details] page under the [!UICONTROL Overview] tab.
 
-Under the Labels section, click **Copy Labels From Parent**.
+Under the [!UICONTROL Labels] section, click [!UICONTROL **Copy Labels From Parent**].
 
    ![Image One](/help/sky/assets/labels/copy-labels-from-parent-to-child/copy-labels-from-parent-to-child-1.jpg)
 

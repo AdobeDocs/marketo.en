@@ -13,7 +13,7 @@ Move a smart campaign to a different program or folder.
 
    ![Image One](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-1.png)
 
-1. Right-click and select **Move**.
+1. Right-click and select [!UICONTROL **Move**].
 
    ![Image Two](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-2.png)
 
@@ -21,6 +21,6 @@ Move a smart campaign to a different program or folder.
 
    ![Image Three](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-3.png)
 
-1. Click **Move**.
+1. Click [!UICONTROL **Move**].
 
    ![Image Four](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-4.png)

@@ -22,22 +22,22 @@ Limit the amount of people who can register for your event with an event cap.
 
    ![Image One](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-1.png)
 
-1. In the Overview, find Event Cap and click **Not Set**.
+1. In the Overview, find [!UICONTROL Event Cap] and click [!UICONTROL **Not Set**].
 
    ![Image Two](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-2.png)
 
-1. Enter the maximum amount of people you want to be able to register for your event and click **Next**.
+1. Enter the maximum amount of people you want to be able to register for your event and click [!UICONTROL **Next**].
 
    ![Image Three](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-3.png)
 
-1. Click the Registration Page drop-down and select the landing page that will act as your registration page.
+1. Click the [!UICONTROL Registration Page] drop-down and select the landing page that will act as your registration page.
 
    ![Image Four](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-4.png)
 
-1. Click the **Registration Full Page** drop-down and select the landing page that will act as your registration full page. Click **Set and Enable** when done.
+1. Click the [!UICONTROL **Registration Full Page**] drop-down and select the landing page that will act as your registration full page. Click [!UICONTROL **Set and Enable**] when done.
 
    ![Image Five](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-5.png)
 
-   You're all set. If you decide you want to edit the event cap details, click the blue text next to Event Cap and repeat from Step 3 on.
+   You're all set. If you decide you want to edit the event cap details, click the blue text next to [!UICONTROL Event Cap] and repeat from Step 3 on.
 
    ![Image Six](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-6.png)

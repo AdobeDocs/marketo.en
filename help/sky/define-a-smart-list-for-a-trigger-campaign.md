@@ -9,7 +9,7 @@ description: Define a Smart List for a Trigger Campaign
 
 Make a smart campaign run on one person at a time based on live events by adding triggers.
 
-1. Choose a smart campaign, then click **Smart List**.
+1. Choose a smart campaign, then click [!UICONTROL **Smart List**].
 
    ![Image One](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-1.png)
 
@@ -21,7 +21,7 @@ Make a smart campaign run on one person at a time based on live events by adding
    >
    >A smart campaign with triggers runs in Trigger mode. It runs on one person at a time based on events triggered and any additional filters.
 
-1. Click the drop-down and choose an operator (e.g. **is**, **is not**, etc.) for the trigger you chose.
+1. Click the drop-down and choose an operator (e.g. [!UICONTROL **is**], [!UICONTROL **is not**], etc.) for the trigger you chose.
 
    ![Image Three](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
 

@@ -17,11 +17,11 @@ In this article, you'll find information on expected behavior associated with Pr
 ## For Predictive Audiences, you can expect the following behavior:
 
 * PA is accessible in both Marketo Sky and the Marketo Classic experience. The availability of specific features is as follows:
-    * Predictive filters - Sky/Classic
-    * Projected registrations - Sky/Classic
-    * Lead-level likelihood predictions - Sky/Classic
-    * Goals and tracking - Sky only
-    * Insights and recommendations - Sky only
+  * Predictive filters - [!DNL Sky/Classic]
+  * Projected registrations - [!DNL Sky/Classic]
+  * Lead-level likelihood predictions - [!DNL Sky/Classic]
+  * Goals and tracking - [!DNL Sky] only
+  * Insights and recommendations - [!DNL Sky] only
 * [Initial activation](/help/sky/getting-started-with-predictive-audiences.md) takes **24-48 hours** for all processes to complete after PA has been enabled. You will see all Predictive Audiences and Predictive Filters capabilities in the interface, but it can take up to 24 hours for these features to begin working.
 * **Predictions will only be generated for new campaigns that are created after the feature is activated.**
 

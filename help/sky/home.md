@@ -7,7 +7,7 @@ description: Overview
 
 ![banner](/help/sky/assets/images/alt-sky-banner.png)
 
-The Marketo Sky interface utilizes new designs, workflows, and features to help you get more out of Marketo.
+The [!DNL Marketo Sky] interface utilizes new designs, workflows, and features to help you get more out of [!DNL Marketo].
 
 ## Getting Started
 

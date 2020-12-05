@@ -12,5 +12,5 @@ There are several ways that people can become members of an engagement program:
 * [Change Engagement Program Stream](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Stream) flow step
 * [Change Program Status](https://docs.marketo.com/display/DOCS/Change+Program+Status) flow step
 * If a person fills out a form local to an engagement program
-* Importing members into an engagement program (via Members tab within program)
+* Importing members into an engagement program (via [!UICONTROL Members] tab within program)
 * If you are using Salesforce as your CRM and have a Salesforce campaign tied to your engagement program, adding someone to the Salesforce campaign on the CRM side will also make them a member of the engagement program.

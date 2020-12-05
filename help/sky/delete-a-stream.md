@@ -13,7 +13,7 @@ If you ever need to delete a stream from your engagement program, follow these q
 
    ![Image One](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-1.png)
 
-1. Click the **Streams** tab.
+1. Click the [!UICONTROL **Streams**] tab.
 
    ![Image Two](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
@@ -22,7 +22,7 @@ If you ever need to delete a stream from your engagement program, follow these q
    >Deleting a stream will result in loss of historical data for
    >the content in that stream.
 
-1. Click on the gear icon, then select **Delete**.
+1. Click the gear icon, then select [!UICONTROL **Delete**].
 
    ![Image Three](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-3.png)
 

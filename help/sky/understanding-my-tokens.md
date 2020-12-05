@@ -14,7 +14,7 @@ My Tokens are custom variables that you can create and use in your programs or c
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
 
-To access and create My Tokens, select your program or campaign folder and go to the My Tokens tab. Drag and drop any token onto your Local Tokens canvas.
+To access and create My Tokens, select your program or campaign folder and go to the [!UICONTROL My Tokens] tab. Drag and drop any token onto your [!UICONTROL Local Tokens] canvas.
 
    ![Image One](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-1.png)
 
@@ -38,7 +38,7 @@ When you make a new token, it can be referenced by other objects in the tree. Yo
 * **[Overridden Token:](/help/sky/override-an-inherited-my-token.md)** The token was inherited, but an exception was made in this program or folder.
 * **Inherited Token:** The token was created up the tree somewhere in a higher-level program or folder.
 
-You can find these three types under the **My Tokens** tab in your program or campaign folder.
+You can find these three types under the [!UICONTROL **My Tokens**] tab in your program or campaign folder.
 
    ![Image Two](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
