@@ -92,6 +92,6 @@ Wasn't too bad right? Come on, I'll keep walking you through the rest.
 >
 >**Related Articles**
 >
->* [Step 2 of 3: Configure Sync User for Marketo (2013 On-Premises)](step-2-of-3-configure-sync-user-for-marketo-2013-on-premises.md)
+>* [Step 2 of 3: Configure Sync User for Marketo (2013 On-Premises)](step-2-of-3-configure.md)
 >
 

@@ -12,7 +12,7 @@ Great job completing the previous steps, let's keep moving through this.
 >
 >**Prerequisites**
 >
->* [Step 1 of 3: Install the Marketo Solution in Dynamics (2013 On-Premises)](step-1-of-3-install-the-marketo-solution-in-dynamics-2013-on-premises.md)
+>* [Step 1 of 3: Install the Marketo Solution in Dynamics (2013 On-Premises)](step-1-of-3-install.md)
 >
 
 ## Assign Sync User Role {#assign-sync-user-role}
@@ -45,7 +45,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
    >[!TIP]
    >
-   >If you don't see the role, go back to [step 1 of 3](step-1-of-3-install-the-marketo-solution-in-dynamics-2013-on-premises.md) and import the solution.
+   >If you don't see the role, go back to [step 1 of 3](step-1-of-3-install.md) and import the solution.
 
    >[!NOTE]
    >

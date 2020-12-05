@@ -95,5 +95,5 @@ Almost done! We just have a few last pieces of configuration before moving onto 
 >
 >**Related Articles**
 >
->[Step 3 of 3: Connect Microsoft Dynamics with Marketo (2011 On-Premises)](step-3-of-3-connect-microsoft-dynamics-with-marketo-2011-on-premises.md)
+>[Step 3 of 3: Connect Microsoft Dynamics with Marketo (2011 On-Premises)](step-3-of-3-connect.md)
 
