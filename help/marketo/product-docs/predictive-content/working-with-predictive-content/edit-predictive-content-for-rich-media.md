@@ -10,13 +10,13 @@ title: Edit Predictive Content for Rich Media
 >
 >Depending on the purchase date, your Marketo subscription may include either Marketo Predictive Content or Content`<sup>AI</sup>`. For those using Predictive Content, Marketo is enabling Content`<sup>AI</sup>` Analytics features until April 30, 2018. To keep these features beyond that date, please contact your Marketo Customer Success Manager to upgrade to Marketo Content`<sup>AI</sup>`.
 
-Here's how to set up your predictive content for Rich Media. 
+Here's how to set up your predictive content for Rich Media.
 
 >[!NOTE]
 >
 >**Prerequisites**
 >
->Content must be [approved for predictive content](../../../../product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) on the All Content page.
+>Content must be [approved for predictive content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) on the All Content page.
 
 1. On the **Predictive Content** page, click a title to open the editor.
 
@@ -34,7 +34,7 @@ Here's how to set up your predictive content for Rich Media.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Click the **Categories** box to select/add [categories you've already set up](../../../../product-docs/predictive-content/getting-started-predictive-content-and-content-ai/set-up-categories.md) (optional).
+1. Click the **Categories** box to select/add [categories you've already set up](/help/marketo/product-docs/predictive-content/getting-started-predictive-content-and-content-ai/set-up-categories.md) (optional).
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -42,9 +42,7 @@ Here's how to set up your predictive content for Rich Media.
    >
    >Use categories to group content for a specific Rich Media recommendation template. Leave the category empty to apply the content to all recommendation templates (recommended).
    >
-   >
    >However, if you want to recommend only specific content for a Rich Media template, add a category for the content and associate that category with the recommendation template.
-   >
    >
    >For example, categorize relevant content according to sections of your website (products or solutions).
 
@@ -55,4 +53,3 @@ Here's how to set up your predictive content for Rich Media.
 1. Click **Save**.
 
    ![](assets/save.png)
-

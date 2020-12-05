@@ -22,7 +22,7 @@ Use the [refresh button](/help/marketo/product-docs/email-marketing/email-progra
 
 ## Program Status Columns in Program Performance Report {#program-status-columns-in-program-performance-report}
 
-When using the [program performance report](help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md), you can now see how many people are in which program statuses.
+When using the [program performance report](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md), you can now see how many people are in which program statuses.
 
 ![](assets/image2014-9-22-11-3a36-3a13.png)
 

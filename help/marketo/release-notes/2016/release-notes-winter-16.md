@@ -40,7 +40,7 @@ To use this feature, the email program must be scheduled at least 12 hours in ad
 >
 >This feature will roll out gradually for a week following the Winter '16 Release. It is unavailable for use with smart campaigns or the API.
 
-## [Mobile Marketing Enhancements](help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
+## [Mobile Marketing Enhancements](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
 **PhoneGap Support:** We now offer PhoneGap support for your mobile app. [Learn more](http://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 

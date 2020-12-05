@@ -10,7 +10,7 @@ title: Enable Custom Field Groups for Model Performance Analysis (Leads)
 >
 >**Prerequisites**
 >
->Categorize standard or custom fields into groups for reporting via the Field Organizer in Marketo. For details, see [Create Custom Field Groups via the Field Organizer](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers/create-custom-field-groups-using-the-field-organizer.md).
+>Categorize standard or custom fields into groups for reporting via the Field Organizer in Marketo. For details, see [Create Custom Field Groups via the Field Organizer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md).
 
 <table> 
  <tbody> 
@@ -60,4 +60,3 @@ Follow these steps to enable a custom field group for reporting in the Model Per
 1. Click **Save**.
 
    ![](assets/five-1.png)
-

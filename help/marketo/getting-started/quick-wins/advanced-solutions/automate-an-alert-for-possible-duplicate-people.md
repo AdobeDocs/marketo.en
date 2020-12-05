@@ -46,10 +46,6 @@ Want an alert every time possible duplicate person is created? Here is how to se
 
 That's it! This smart campaign will trigger every time a new person with an existing full name is created in Marketo.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Find and Merge Duplicate People](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)
->
-

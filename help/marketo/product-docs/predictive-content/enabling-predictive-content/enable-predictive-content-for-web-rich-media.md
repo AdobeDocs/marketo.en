@@ -15,7 +15,7 @@ Predictive content engages your web visitors with the most relevant content, pow
 >Before enabling Predictive Content, you must:
 >
 >* [Prepare your Predictive Content](http://docs.marketo.com/display/docs/edit+predictive+content)
->* [Approve a Title for Predictive Content](../../../product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
+>* [Approve a Title for Predictive Content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 >
 
 Once you have prepared the content title, description and image for Rich Media, you can enable individual or multiple content pieces.
@@ -51,11 +51,7 @@ Here's an example of the Rich Media Recommendation Template2:
 
 ![](assets/image2015-12-20-10-3a35-3a12.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Enable the Content Recommendation Bar](enable-the-content-recommendation-bar.md)
 >* [Enable Predictive Content in Emails](http://docs.marketo.com/x/vLit)
->
-

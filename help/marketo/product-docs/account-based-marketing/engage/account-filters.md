@@ -58,9 +58,6 @@ To use this filter, click the account list drop-down...
 
    ![](assets/ten.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Account Triggers](account-triggers.md)
-

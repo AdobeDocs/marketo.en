@@ -10,14 +10,14 @@ title: Understanding Predictive Content
 >
 >Depending on the purchase date, your Marketo subscription may include either Marketo Predictive Content or Content`<sup>AI</sup>`. For those using Predictive Content, Marketo is enabling Content`<sup>AI</sup>` Analytics features until April 30, 2018. To keep these features beyond that date, please contact your Marketo Customer Success Manager to upgrade to Marketo Content`<sup>AI</sup>`.
 
-After you [approve a title for predictive content](../../../product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), you work on it here. The Predictive Content page displays all of the titles you have approved for predictive content.
+After you [approve a title for predictive content](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), you work on it here. The Predictive Content page displays all of the titles you have approved for predictive content.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
 Page fields include:
 
 * **Image and Title**: The name of the piece of content and selected image
-* **Enabled by Source**: Shows if the title is approved for Rich Media, email, or the Recommendation Bar. 
+* **Enabled by Source**: Shows if the title is approved for Rich Media, email, or the Recommendation Bar.
 * **Categories**: Created by you and used to group your predictive outcomes for web or email
 * **Clicks**: Total clicks on recommended content (including all sources)
 * **Conversion Rate**: A percentage calculated by direct conversions divided by clicks. Hover to see additional data (see below)
@@ -61,7 +61,7 @@ Hover over the bar in the Conversion Rate column to view conversion rate, direct
 
 >[!NOTE]
 >
->**Definition**
+>**Definitions**
 >
 >**Conversion Rate**: A percentage calculated by direct conversions divided by clicks
 >
@@ -69,11 +69,7 @@ Hover over the bar in the Conversion Rate column to view conversion rate, direct
 >
 >**Clicked**: Total clicks on recommended content (including all three sources)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Predictive Content](http://docs.marketo.com/display/docs/predictive+content)
 >* [Edit Predictive Content](http://docs.marketo.com/display/docs/edit+predictive+content)
->
-
