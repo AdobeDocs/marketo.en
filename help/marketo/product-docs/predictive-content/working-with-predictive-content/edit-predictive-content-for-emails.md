@@ -53,7 +53,7 @@ Here's how to set up your predictive content for emails.
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. Optionally, click the **Categories** field and add categories to the content. Options are from the [categories you've already set up](../../../../product-docs/predictive-content/getting-started-predictive-content-and-content-ai/set-up-categories.md).
+1. Optionally, click the **Categories** field and add categories to the content. Options are from the [categories you've already set up](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
    ![](assets/eight.png)
 

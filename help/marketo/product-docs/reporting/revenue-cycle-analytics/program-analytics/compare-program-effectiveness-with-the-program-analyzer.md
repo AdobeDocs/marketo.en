@@ -13,7 +13,6 @@ Use the Program Analyzer to identify your most and least effective programs, by 
 >**Prerequisites**
 >
 >* [Create a Program Analyzer](create-a-program-analyzer.md)
->
 
 1. Click on Analytics.
 
@@ -33,7 +32,7 @@ Use the Program Analyzer to identify your most and least effective programs, by 
 
    >[!TIP]
    >
-   >A quick way to filter programs to just one channel is to select **View > By Channel**, click the bubble for that channel, and then click the channel name in the pop-up dialog. 
+   >A quick way to filter programs to just one channel is to select **View > By Channel**, click the bubble for that channel, and then click the channel name in the pop-up dialog.
 
 1. Use the X Axis drop-down to choose a metric for the horizontal axis. We'll start with Program Cost.
 
@@ -49,7 +48,7 @@ Use the Program Analyzer to identify your most and least effective programs, by 
 
    >[!TIP]
    >
-   >You can also try to improve your view by changing from a linear to a logarithmic scale, or vice versa. Use the **Scale** menu at the top. 
+   >You can also try to improve your view by changing from a linear to a logarithmic scale, or vice versa. Use the **Scale** menu at the top.
 
 1. Explore the resulting graph.
 
@@ -63,13 +62,13 @@ Use the Program Analyzer to identify your most and least effective programs, by 
 
    >[!NOTE]
    >
-   >Many of the metrics you can choose in the program analyzer are available with first-touch (FT) and multi-touch (MT) calculations. It is important to understand the [difference between FT and MT attribution](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/understanding-attribution.md).
+   >Many of the metrics you can choose in the program analyzer are available with first-touch (FT) and multi-touch (MT) calculations. It is important to understand the [difference between FT and MT attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Watch the bubbles change size in your graph.
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   By adding** (FT) Revenue Won**, we see quickly that, while the Origami Expo acquired a lot of new names, it results in comparatively little revenue. Also, we see that the Paper Fest 12 program is getting fewer but better names, as it influences more revenue won (bigger bubble).
+   By adding **(FT) Revenue Won**, we see quickly that, while the Origami Expo acquired a lot of new names, it results in comparatively little revenue. Also, we see that the Paper Fest 12 program is getting fewer but better names, as it influences more revenue won (bigger bubble).
 
 1. Use the Color drop-down to add a fourth metric. We'll look at (FT) Revenue to Investment.
 
@@ -91,11 +90,7 @@ We see that the Paper Fest 12 program not only influences more revenue (bigger b
 >
 >* [Explore Program & Channel Details with the Program Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Compare Channel Effectiveness with the Program Analyzer](compare-channel-effectiveness-with-the-program-analyzer.md)
->
 
 >[!NOTE]
 >
->**Deep Dive**
->
 >Learn more about advanced analytics in [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
-

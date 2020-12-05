@@ -8,7 +8,7 @@ title: Edit Predictive Content for Rich Media
 
 >[!NOTE]
 >
->Depending on the purchase date, your Marketo subscription may include either Marketo Predictive Content or Content`<sup>AI</sup>`. For those using Predictive Content, Marketo is enabling Content`<sup>AI</sup>` Analytics features until April 30, 2018. To keep these features beyond that date, please contact your Marketo Customer Success Manager to upgrade to Marketo Content`<sup>AI</sup>`.
+>Depending on the purchase date, your Marketo subscription may include either Marketo Predictive Content or Content<sup>AI</sup>. For those using Predictive Content, Marketo is enabling Content<sup>AI</sup> Analytics features until April 30, 2018. To keep these features beyond that date, please contact your Marketo Customer Success Manager to upgrade to Marketo Content<sup>AI</sup>.
 
 Here's how to set up your predictive content for Rich Media.
 
@@ -34,7 +34,7 @@ Here's how to set up your predictive content for Rich Media.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Click the **Categories** box to select/add [categories you've already set up](/help/marketo/product-docs/predictive-content/getting-started-predictive-content-and-content-ai/set-up-categories.md) (optional).
+1. Click the **Categories** box to select/add [categories you've already set up](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (optional).
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 

@@ -62,11 +62,11 @@ Easily share your Quick Charts with other Performance Insights users.
 
 Optimized navigation and improved workflows give you visibility to Program Success criteria and access to Program details.
 
-## Content `<sup>AI</sup>`  {#contentai}
+## Content<sup>AI</sup>  {#contentai}
 
-[Goal Setting](/help/marketo/product-docs/predictive-content/getting-started-predictive-content-and-content-ai/algorithm-goal-settings.md)
+[Goal Setting](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-Set the objective of the Content `<sup>AI</sup>` optimization algorithm to drive more views, clicks, or conversions.
+Set the objective of the Content<sup>AI</sup> optimization algorithm to drive more views, clicks, or conversions.
 
 ## Integration and APIs {#integration-and-apis}
 

@@ -44,5 +44,4 @@ Create more field organizers the same way, if you need them. And there you are.
 >
 >**Related Articles**
 >
->[Create Custom Field Groups Using the Field Organizer](using-field-organizers/create-custom-field-groups-using-the-field-organizer.md)
-
+>[Create Custom Field Groups Using the Field Organizer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)

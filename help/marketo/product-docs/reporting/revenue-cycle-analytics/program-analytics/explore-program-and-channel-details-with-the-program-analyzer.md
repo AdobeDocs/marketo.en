@@ -13,7 +13,6 @@ You can see detailed program and channel stats in the Program Analyzer. You can 
 >**Prerequisites**
 >
 >* [Create a Program Analyzer](create-a-program-analyzer.md)
->
 
 >[!NOTE]
 >
@@ -35,7 +34,7 @@ You can see detailed program and channel stats in the Program Analyzer. You can 
 
    >[!NOTE]
    >
-   >Many of the metrics you can choose in the program analyzer are available with first-touch (FT) and multi-touch (MT) calculations. It is important to understand the [difference between FT and MT attribution](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/understanding-attribution.md).
+   >Many of the metrics you can choose in the program analyzer are available with first-touch (FT) and multi-touch (MT) calculations. It is important to understand the [difference between FT and MT attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. To compare all the programs within a single channel, click the channel name in the pop-up dialog.
 
@@ -55,8 +54,4 @@ You can see detailed program and channel stats in the Program Analyzer. You can 
 
    >[!NOTE]
    >
-   >**Deep Dive**
-   >
-   >
-   >Learn more about advanced analytics in  [Revenue Explorer](http://docs.marketo.com/display/docs/revenue+explorer).
-
+   >Learn more about advanced analytics in [Revenue Explorer](http://docs.marketo.com/display/docs/revenue+explorer).

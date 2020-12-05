@@ -6,7 +6,7 @@ title: Email Reports
 
 # Email Reports {#email-reports}
 
-To customize which automated email report the user receives, see the  [User Settings section](../../../product-docs/web-personalization/getting-started-rtp/user-settings.md).
+To customize which automated email report the user receives, see the  [User Settings section](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
 ## Web Personalization Email Reports {#web-personalization-email-reports}
 
@@ -52,7 +52,7 @@ The Summary report sends the user an email (monthly or quarterly) of all campaig
 
 >[!NOTE]
 >
->**Definition**
+>**Definitions**
 >
 >**Direct Conversion**: A web visitor who clicks on a personalized campaign or recommended content asset and in the same visit session proceeds to fill out any form on the website with their email address.
 >
@@ -62,4 +62,4 @@ The Summary report sends the user an email (monthly or quarterly) of all campaig
 >
 >Marketo Web Personalization captures the email address of the web visitor for any form completed on the website. This is viewed in the Web Personalization People page and is the person that is used in the Summary report.
 
-To customize which automated email report the user receives, see the [User Settings section](../../../product-docs/web-personalization/getting-started-rtp/user-settings.md).
+To customize which automated email report the user receives, see the [User Settings section](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).

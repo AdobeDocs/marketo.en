@@ -12,11 +12,11 @@ Discover which programs and channels are giving you the biggest bang for your ma
 >
 >**Reminder**
 >
->To get good data from a program analyzer, make sure your CRM contacts have roles in the opportunities, and that your Marketo programs are fully set up, with  [period costs](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), program statuses, and success defined. 
+>To get good data from a program analyzer, make sure your CRM contacts have roles in the opportunities, and that your Marketo programs are fully set up, with  [period costs](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), program statuses, and success defined.
 
 >[!TIP]
 >
->To make programs with no cost appear in the program analyzer,  [set their period cost](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) to $0. 
+>To make programs with no cost appear in the program analyzer, [set their period cost](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) to $0.
 
 1. Click the Analytics tile.
 
@@ -44,7 +44,7 @@ Discover which programs and channels are giving you the biggest bang for your ma
 
    >[!TIP]
    >
-   >To select a specific range, select **Custom **and use the **From **and **To **fields.
+   >To select a specific range, select **Custom** and use the **From** and **To** fields.
 
 1. If you want to save your new custom analyzer, in the Analyzer Actions drop-down, select Save As.
 
@@ -66,15 +66,11 @@ Discover which programs and channels are giving you the biggest bang for your ma
 >* [Compare Program Effectiveness with the Program Analyzer](compare-program-effectiveness-with-the-program-analyzer.md)
 >* [Explore Program & Channel Details with the Program Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Clone a Program Analyzer](clone-a-program-analyzer.md)
->
 
 >[!NOTE]
 >
->Many of the metrics you can choose in the program analyzer are available with first-touch (FT) and multi-touch (MT) calculations. It is important to understand the [difference between FT and MT attribution](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/understanding-attribution.md).
+>Many of the metrics you can choose in the program analyzer are available with first-touch (FT) and multi-touch (MT) calculations. It is important to understand the [difference between FT and MT attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 >[!NOTE]
 >
->**Deep Dive**
->
->Learn more in  [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) and  [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics). 
-
+>Learn more in  [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) and  [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).

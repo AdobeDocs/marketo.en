@@ -13,7 +13,6 @@ Use the Program Analyzer to compare channel costs, member acquisition, pipeline,
 >**Prerequisites**
 >
 >* [Create a Program Analyzer](create-a-program-analyzer.md)
->
 
 1. Click on **Analytics** in **My Marketo.**
 
@@ -27,7 +26,7 @@ Use the Program Analyzer to compare channel costs, member acquisition, pipeline,
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
-1. Use the** ****X Axis** drop-down to choose a metric for the horizontal axis. Let's start with **Program Cost**.
+1. Use the **X Axis** drop-down to choose a metric for the horizontal axis. Let's start with **Program Cost**.
 
    ![](assets/image2014-9-17-18-3a37-3a7.png)
 
@@ -37,9 +36,9 @@ Use the Program Analyzer to compare channel costs, member acquisition, pipeline,
 
    >[!NOTE]
    >
-   >Many of the metrics you can choose in the program analyzer are available with first-touch (FT) and multi-touch (MT) calculations. It is important to understand the [difference between FT and MT attribution](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/understanding-attribution.md).
+   >Many of the metrics you can choose in the program analyzer are available with first-touch (FT) and multi-touch (MT) calculations. It is important to understand the [difference between FT and MT attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-1. Use the **Y Axis **drop-down to choose **(MT) Pipeline Created**.
+1. Use the **Y Axis** drop-down to choose **(MT) Pipeline Created**.
 
    ![](assets/image2014-9-17-18-3a39-3a5.png)
 
@@ -67,11 +66,11 @@ Use the Program Analyzer to compare channel costs, member acquisition, pipeline,
 
    From the colors, we learn that the Tradeshow channel, the greenest bubble, has influenced the greatest revenue won, as measured by first-touch attribution.
 
-1. Now, if we change the Color metric to **(MT) Revenue Won**, we see that the Online Advertising channel, now the greenest, influenced more revenue *over time *than the Webinar and Tradeshow channels.
+1. Now, if we change the Color metric to **(MT) Revenue Won**, we see that the Online Advertising channel, now the greenest, influenced more revenue -over time_ than the Webinar and Tradeshow channels.
 
    ![](assets/image2014-9-17-18-3a41-3a40.png)
 
-In our example, we see that the Tradeshow channel is both the most expensive (furthest to the right) and most successful (highest on the Y axis) when measuring pipeline created by first touch. Now, let's consider each channel's pipeline created as measured by multi-touch attribution. 
+In our example, we see that the Tradeshow channel is both the most expensive (furthest to the right) and most successful (highest on the Y axis) when measuring pipeline created by first touch. Now, let's consider each channel's pipeline created as measured by multi-touch attribution.
 
 >[!TIP]
 >
@@ -87,7 +86,4 @@ In our example, we see that the Tradeshow channel is both the most expensive (fu
 
 >[!NOTE]
 >
->**Deep Dive**
->
 >Learn more about advanced analytics in [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
-

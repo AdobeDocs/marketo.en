@@ -16,7 +16,7 @@ Rick is a Marketo customer from SmartBear and has an [unbelievable collection of
 
 ## Mobile Friendly Landing Pages {#mobile-friendly-landing-pages}
 
-You can now [build mobile views for landing pages](../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) from within the landing page editor. Deliver your message effectively regardless of device and increase engagement by tailoring your content for easy consumption on-the-go. This feature will rollout gradually throughout the week following the release.
+You can now [build mobile views for landing pages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) from within the landing page editor. Deliver your message effectively regardless of device and increase engagement by tailoring your content for easy consumption on-the-go. This feature will rollout gradually throughout the week following the release.
 
 `<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>`
 
@@ -38,9 +38,9 @@ Now access custom objects associated with the Account object from within email s
 
 **Personalized Remarketing for Google and Facebook**
 
-Remarketing shows ads to people who have visited your website. You can now personalize your remarketing campaigns on [Google](../../product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) and [Facebook](../../product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)using data from Real-Time Personalization. Remarket to audiences from different industries, named account lists, company sizes or any data from known leads.
+Remarketing shows ads to people who have visited your website. You can now personalize your remarketing campaigns on [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) and [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)using data from Real-Time Personalization. Remarket to audiences from different industries, named account lists, company sizes or any data from known leads.
 
-[Named Account List Module](../../product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
+[Named Account List Module](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
 Enhancements to the Named Accounts module will improve the match rates and validations for users. Additions include:
 
@@ -59,6 +59,6 @@ Updated RTP Tag Options
 1. Asynchronous tag without CDN
 1. Synchronous tag without CDN
 
-For best performance, it is recommended to place the tag at the top of the header in your web page after `<head>`. All tags allow for use of the [RTP API](http://developers.marketo.com/documentation/websites/rtp-js-api/). For information on how to deploy the RTP Tag see [here](/help/marketo/product-docs/web-personalization/getting-started-rtp-/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+For best performance, it is recommended to place the tag at the top of the header in your web page after `<head>`. All tags allow for use of the [RTP API](http://developers.marketo.com/documentation/websites/rtp-js-api/). For information on how to deploy the RTP Tag see [here](/help/marketo/product-docs/web-personalization/getting-started/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
