@@ -26,7 +26,7 @@ If you have [Marketo Sales Insight](http://docs.marketo.com/display/docs/assets/
    >
    >**Less is more**. Work with your sales team to make sure interesting moments are actually interesting.
 
-   [tokens in interesting moments](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments-msi/tokens-for-interesting-moments.md)
+   [tokens in interesting moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
 
    >[!NOTE]
    >
@@ -34,8 +34,8 @@ If you have [Marketo Sales Insight](http://docs.marketo.com/display/docs/assets/
    >
    >    
    >    
-   >    * [Using Interesting Moments](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments-msi/using-interesting-moments.md)
-   >    * [Tokens for Interesting Moments](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments-msi/tokens-for-interesting-moments.md)
+   >    * [Using Interesting Moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
+   >    * [Tokens for Interesting Moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
    >    
    >
 

@@ -22,7 +22,7 @@ There are two main ways to create an email in Marketo. Let's look at both.
    >
    >When you create an email in the Design Studio, it can be found in the tree under "Emails."
 
-Simple! Now for the other way... 
+Simple! Now for the other way...
 
 ## Create an Email in Marketing Activities {#create-an-email-in-marketing-activities}
 
@@ -52,14 +52,12 @@ Whichever method you choose brings you to the template picker.
 
 1. Enter a subject line. There's a counter on the right to let you know if you're under the recommended 50 character max.
 
-   ![](assets/seven-1.png)  
-   Depending on the template you've chosen, you'll have different options in which to edit your email. For emails with modules, check out [Add Modules to your Email](../../../../product-docs/email-marketing/general/email-editor-2-0/add-modules-to-your-email.md).
+   ![](assets/seven-1.png)
+
+   Depending on the template you've chosen, you'll have different options in which to edit your email. For emails with modules, check out [Add Modules to your Email](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 Your email is now created, so edit away!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Edit Your Email Header](edit-your-email-header.md)
-

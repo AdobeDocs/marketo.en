@@ -42,7 +42,7 @@ Easily create SMS messages right within Marketo. Personalize and target your mes
 
 ![](assets/vibes-sms2.png)
 
-## [Email 2.0 Enhancements](../../product-docs/email-marketing/general/email-editor-2-0/email-editor-v2-0-overview.md) {#email-enhancements}
+## [Email 2.0 Enhancements](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-enhancements}
 
 **Module-level Variables**
 
@@ -71,25 +71,25 @@ Gone are the days where email tracking links could only be branded with a single
 
 ![](assets/multiple-branding-domains.png)
 
-## [Program Tokens](../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) {#program-tokens}
+## [Program Tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) {#program-tokens}
 
 We've created a new token type for programs. You now can render Program Name, Description, and ID in assets and smart campaign flow steps.
 
 ![](assets/program-tokens.png)
 
-## [Enterprise Key](../../product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
+## [Enterprise Key](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
 Requiring each person on your sales team to install our Sales Insight Plugin for Outlook can be tedious. We have introduced a new way to install the plugin for Outlook remotely using an enterprise key. Send your IT team your unique key found in the Marketo Sales Insight section of Admin and let them do the rest.
 
 ![](assets/enterprise-key.png)
 
-## [Web Personalization Campaigns](../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) {#web-personalization-campaigns}
+## [Web Personalization Campaigns](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) {#web-personalization-campaigns}
 
 Specify a time delay for web campaigns to react on your website.
 
 ![](assets/dialog-campaign-delay.png)
 
-## [Content Analytics and Recommendations Export](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
+## [Content Analytics and Recommendations Export](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
 
 View content analytics and recommendations data offline.
 
@@ -101,7 +101,7 @@ Pre-existing Asset APIs, previously only compatible with v1.0 emails and templat
 
 New and improved!
 
-## [Privacy Settings](../../product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
+## [Privacy Settings](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
 Marketers can use privacy settings to decide whether or not to track visitors using Munchkin and Web Personalization features. Tracking level is controlled by using the browser’s Do Not Track setting, an opt-out cookie, or a non-specific IP. These methods might affect Marketo’s value and functionality in specific areas, but if the marketer doesn’t change anything, Marketo functionality remains the same.
 

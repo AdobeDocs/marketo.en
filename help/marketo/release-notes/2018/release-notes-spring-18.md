@@ -12,13 +12,11 @@ Please click the title links to view detailed articles for each feature. Note: S
 
 ## Marketo Sales Engage, Launch, and ToutApp Updates {#marketo-sales-engage-launch-and-toutapp-updates}
 
-* [Marketo Sales Engage](../../product-docs/marketo-sales-connect/getting-started-msc/sales-connect-overview.md)
-* [Launch](../../product-docs/marketo-sales-connect/getting-started-msc/sales-connect-overview.md)
+* [Marketo Sales Engage](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+* [Launch](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * ToutApp Updates
 
->[!NOTE]
->
->**Availability**
+>[!AVAILABILITY]
 >
 >Sales Engage is an add-on product. Please contact your Marketo Customer Success Manager or Account Executive for a quote.
 
@@ -42,7 +40,7 @@ Opt into the Marketo Sky open beta to get access to 100+ new productivity-boosti
 
 ## Performance Insights {#performance-insights}
 
-[Performance Insights](../../product-docs/reporting/performance-insights/performance-insights-overview.md)
+[Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
 **Year-Over-Year Period Comparison**
 
@@ -66,13 +64,13 @@ Optimized navigation and improved workflows give you visibility to Program Succe
 
 ## Content `<sup>AI</sup>`  {#contentai}
 
-[Goal Setting](../../product-docs/predictive-content/getting-started-predictive-content-and-content-ai/algorithm-goal-settings.md)
+[Goal Setting](/help/marketo/product-docs/predictive-content/getting-started-predictive-content-and-content-ai/algorithm-goal-settings.md)
 
 Set the objective of the Content `<sup>AI</sup>` optimization algorithm to drive more views, clicks, or conversions.
 
 ## Integration and APIs {#integration-and-apis}
 
-[Facebook Workplace Integration](../../product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
+[Facebook Workplace Integration](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
 
 Send system notifications and interesting moments to Facebook Workplace.
 

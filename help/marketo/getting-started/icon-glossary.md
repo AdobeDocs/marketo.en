@@ -941,7 +941,7 @@ title: Icon Glossary
     <div> 
      <img src="assets/image2015-1-9-15-3a46-3a10.png" data-linked-resource-id="5047154" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4720476"> 
     </div></td> 
-   <td><a href="../product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments-msi/interesting-moments-overview.md">Interesting Moments Overview</a></td> 
+   <td><a href="../product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md">Interesting Moments Overview</a></td> 
   </tr> 
   <tr> 
    <td> 

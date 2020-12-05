@@ -26,7 +26,7 @@ The first step is to decide who should receive your in-app message. You need to 
 
    >[!NOTE]
    >
-   >The default trigger (App Open) and any custom triggers added to the code by your developer are automatically shown in the Action selector. If a custom event is missing, check with your developer to ensure they have added the custom events to the app. Be aware that the custom event coding and approval process may take some time to complete. See [this article](/help/marketo/product-docs/mobile-marketing/admin-mobile-marketing/before-you-create-push-notifications-and-in-app-messages.md) for more information.
+   >The default trigger (App Open) and any custom triggers added to the code by your developer are automatically shown in the Action selector. If a custom event is missing, check with your developer to ensure they have added the custom events to the app. Be aware that the custom event coding and approval process may take some time to complete. See [this article](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) for more information.
 
 1. Constraints are available for the **Has Mobile App Activity** trigger if you need them.
 

@@ -28,4 +28,4 @@ After you've created your in-app message, it's time to send it out. Here are the
 
    ![Image Four](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 
-Ready? Start with [setting the audience](help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).
+Ready? Start with [setting the audience](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).

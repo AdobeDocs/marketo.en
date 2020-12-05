@@ -121,7 +121,7 @@ In this example, the email will say "Greetings, (first name)" or "Greetings, ear
 
 >[!NOTE]
 >
->Learn more about these tokens in the [System Tokens Glossary](../../../../product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>Learn more about these tokens in the [System Tokens Glossary](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -148,7 +148,7 @@ In this example, the email will say "Greetings, (first name)" or "Greetings, ear
 
 >[!NOTE]
 >
->Find more details about [tokens for interesting moments](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments-msi/tokens-for-interesting-moments.md) based on triggers used in a smart campaign.
+>Find more details about [tokens for interesting moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) based on triggers used in a smart campaign.
 
 ## Program Tokens {#program-tokens}
 
@@ -160,7 +160,7 @@ In this example, the email will say "Greetings, (first name)" or "Greetings, ear
 
 ## My Tokens {#my-tokens}
 
-My Tokens are defined within a program and begin with `{{my.` followed by the name you created for the token. Learn more about [My Tokens in a program](../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+My Tokens are defined within a program and begin with `{{my.` followed by the name you created for the token. Learn more about [My Tokens in a program](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Member Token {#member-token}
 

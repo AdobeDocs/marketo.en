@@ -23,7 +23,7 @@ Web visitors can set their browser to prevent tracking by any website by choosin
 
 In Munchkin, a marketer can [decide whether to support or ignore the browser's DNT setting](edit-do-not-track-browser-support-settings.md).
 
-In Web Personalization, a marketer can decide whether to [support or ignore the browser's DNT setting](help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).
+In Web Personalization, a marketer can decide whether to [support or ignore the browser's DNT setting](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).
 
 ## Opt Out from a Specific Website {#opt-out-from-a-specific-website}
 

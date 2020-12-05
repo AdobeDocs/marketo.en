@@ -14,8 +14,6 @@ Use in-app messages to engage directly with your customers while they're using y
 
 >[!NOTE]
 >
->**Example**
->
 >Example 1: "Summer Sale" promo appears when opening the app.
 >
 >Example 2: While watching a medical video, schedule a doctor visit, and it triggers a $40 off coupon.
@@ -24,7 +22,7 @@ Before you can create and send in-app messages for your mobile app, you'll need 
 
 ## Step 1: Admin and Developer Perform Initial Setups {#step-admin-and-developer-perform-initial-setups}
 
-The Marketo Admin and mobile apps developer work together to set you up. See [Before You Create Push Notifications and In-App Messages](../../../product-docs/mobile-marketing/admin-mobile-marketing/before-you-create-push-notifications-and-in-app-messages.md) for details.
+The Marketo Admin and mobile apps developer work together to set you up. See [Before You Create Push Notifications and In-App Messages](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) for details.
 
 ## Step 2: Create an In-App Message {#step-create-an-in-app-message}
 
@@ -36,12 +34,8 @@ You create a program to [send the message](http://docs.marketo.com/display/docs/
 
 You're on your way.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create an In-App Message](http://docs.marketo.com/display/docs/create+an+in-app+message)
 >
 >* [Send Your In-App Message](http://docs.marketo.com/display/docs/send+your+in-app+message)
->
-

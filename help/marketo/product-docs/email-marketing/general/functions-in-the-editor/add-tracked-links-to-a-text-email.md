@@ -6,12 +6,10 @@ title: Add Tracked Links to a Text Email
 
 # Add Tracked Links to a Text Email {#add-tracked-links-to-a-text-email}
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**Prerequisites**
->
->* [Create a Text Only Email](../../../../product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
->* [Edit Elements in an Email](../../../../product-docs/email-marketing/general/email-editor-2-0/edit-elements-in-an-email.md)
+>* [Create a Text Only Email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
+>* [Edit Elements in an Email](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
 
 Text email links can be tracked in Marketo. Let's see how it works. 1. Select your email and click Edit Draft.
 
@@ -21,7 +19,7 @@ Text email links can be tracked in Marketo. Let's see how it works. 1. Select yo
 
    ![](assets/two-8.png)
 
-1. Enter the URL with double brackets, like this: [[www.domain.com/path/page.html]].
+1. Enter the URL with double brackets, like this: `[[www.domain.com/path/page.html]]`.
 
    ![](assets/three-8.png)
 
@@ -38,4 +36,3 @@ Text email links can be tracked in Marketo. Let's see how it works. 1. Select yo
 >Test it out to double-check. Make sure you entered the brackets correctly.
 
 Nice work!  
-
