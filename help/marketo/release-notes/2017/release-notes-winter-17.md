@@ -8,7 +8,11 @@ title: Release Notes -Winter '17
 
 The following features are included in the Winter '17 release. Check your Marketo edition for feature availability.
 
-Please click the title links to view detailed articles for each feature**. Note: **If a topic has multiple subheadings, the links are placed there. 
+Please click the title links to view detailed articles for each feature.
+
+>[!NOTE]
+>
+>If a topic has multiple subheadings, the links are placed there.
 
 ## [Advanced Matching for Facebook Custom Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
 

@@ -8,7 +8,7 @@ user-guide-description: Marketo product documentation
 
 # Marketo Guide {#using}
 
-+ [Overview](home.md)
++ [Home](home.md)
 + Getting Started with Marketo {#getting-started-with-marketo}
   + [Getting Started](getting-started.md)
   + [What is Marketo?](getting-started/what-is-marketo.md)
@@ -497,21 +497,21 @@ user-guide-description: Marketo product documentation
         + [Upgrade the Marketo Solution for Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md)
         + [View the Organization Service URL](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
         + Microsoft Dynamics 2011 On-Premises {#microsoft-dynamics-2011-on-premises}
-          + [Step 1 of 3: Install the Marketo Solution (2011 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install-the-marketo-solution-2011-on-premises.md)
-          + [Step 2 of 3: Set Up Marketo Sync User in Dynamics (2011 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up-marketo-sync-user-in-dynamics-2011-on-premises.md)
-          + [Step 3 of 3: Connect Microsoft Dynamics with Marketo (2011 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect-microsoft-dynamics-with-marketo-2011-on-premises.md)
+          + [Step 1 of 3: Install the Marketo Solution (2011 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
+          + [Step 2 of 3: Set Up Marketo Sync User in Dynamics (2011 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
+          + [Step 3 of 3: Connect Microsoft Dynamics with Marketo (2011 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
         + Microsoft Dynamics 2013 On-Premises {#microsoft-dynamics-2013-on-premises}
-          + [Step 1 of 3: Install the Marketo Solution in Dynamics (2013 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install-the-marketo-solution-in-dynamics-2013-on-premises.md)
-          + [Step 2 of 3: Configure Sync User for Marketo (2013 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure-sync-user-for-marketo-2013-on-premises.md)
-          + [Step 3 of 3: Connect Marketo and Dynamics (2013 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect-marketo-and-dynamics-2013-on-premises.md)
+          + [Step 1 of 3: Install the Marketo Solution in Dynamics (2013 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
+          + [Step 2 of 3: Configure Sync User for Marketo (2013 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
+          + [Step 3 of 3: Connect Marketo and Dynamics (2013 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
         + Microsoft Dynamics 2015 On-Premises/2016 Dynamics 365 On-Premises {#microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises}
-          + [Step 1 of 3: Install the Marketo Solution - 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install-the-marketo-solution-2015-on-premises-2016-dynamics-365-on-premises.md)
-          + [Step 2 of 3: Set Up Marketo Sync User in Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up-marketo-sync-user-in-dynamics-2015-on-premises-2016-dynamics-365-on-premises.md)
-          + [Step 3 of 3: Connect Marketo and Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect-marketo-and-dynamics-2015-on-premises-2016-dynamics-365-on-premises.md)
+          + [Step 1 of 3: Install the Marketo Solution - 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+          + [Step 2 of 3: Set Up Marketo Sync User in Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+          + [Step 3 of 3: Connect Marketo and Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
         + Microsoft Dynamics 365 {#microsoft-dynamics-365}
-          + [Step 1 of 3: Install the Marketo Solution (Online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install-the-marketo-solution-online.md)
-          + [Step 2 of 3: Set up Marketo Sync User in Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up-marketo-sync-user-in-dynamics.md)
-          + [Step 3 of 3: Connect Microsoft Dynamics with Marketo (Online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect-microsoft-dynamics-with-marketo-online.md)
+          + [Step 1 of 3: Install the Marketo Solution (Online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
+          + [Step 2 of 3: Set up Marketo Sync User in Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
+          + [Step 3 of 3: Connect Microsoft Dynamics with Marketo (Online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
       + Microsoft Dynamics Sync Details {#microsoft-dynamics-sync-details}
         + [Microsoft Dynamics Sync: Account Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
         + [Microsoft Dynamics Sync: Contact Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)

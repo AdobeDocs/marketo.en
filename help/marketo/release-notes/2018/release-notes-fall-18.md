@@ -12,7 +12,7 @@ Please click the title links to view detailed articles for each feature, if avai
 
 ## Core Platform Enhancements {#core-platform-enhancements}
 
-** [Web Personalization](../../product-docs/web-personalization/getting-started-rtp/workspaces-in-web-personalization.md)**
+**[Web Personalization](help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
 Web personalization now supports multiple workspaces.
 
