@@ -83,16 +83,14 @@ From the **Segments** page, click **Create New** under the graph. The following 
 
 Define general parameters to your segment:
 
-1.
+* **Name:**  Name your segment.
+* **Description:**  Provide a more detailed explanation of the segment criteria.
+* **Domains:**  Select the domain/s you want to include in the segment.
+* **Segment Rule Logic:**  Select an AND / OR logic to build each segmentation attribute
+* **Timing:** Define the level of visitor engagement you want in your campaign
 
-    * **Name:**  Name your segment.
-    * **Description:**  Provide a more detailed explanation of the segment criteria.
-    * **Domains:**  Select the domain/s you want to include in the segment.
-    * **Segment Rule Logic:**  Select an AND / OR logic to build each segmentation attribute
-    * **Timing:** Define the level of visitor engagement you want in your campaign
-
-        * **On Entry**: Engage from the visitor arrives on the website
-        * **After 1st - 9th Click**: Engage the visitor after a specific amount of clicks on the website
+   * **On Entry**: Engage from the visitor arrives on the website
+   * **After 1st - 9th Click**: Engage the visitor after a specific amount of clicks on the website
 
 >[!TIP]
 >
@@ -102,21 +100,24 @@ Define general parameters to your segment:
 >
 >1. Use All Filters (1 and 2 and 3...)
 >1. Use Any Filters (1 or 2 or 3...)
->1. Advanced Filters (using and / or expressions) >
->    1. >    
->       Advanced filters allows you to control the segment condition. Enter the filter numbers separated by "and" and "or".  >
->        * 1 and 2 and 3
->        * 1 or 2 or 3
+>1. Advanced Filters (using and / or expressions)
 >
->       Mixing "and" and "or" requires parenthesis to clarify logic intention. e.g. "1 or 2 and 3" must be written as one of the following:  >
->        * 1 and (2 or 3)
->        * (1 and 2) or 3
+>    Advanced filters allows you to control the segment condition. Enter the filter numbers separated by "and" and "or".
 >
->       Nested parenthesis are accepted for more complicated logic.e.g.  >
->        * (1 and 2) or (3 and 4)
->        * 1 and (2 or (3 and 4))
+>     * 1 and 2 and 3
+>     * 1 or 2 or 3
 >
->       Check your logic after any insert, delete or reorder. 
+>    Mixing "and" and "or" requires parenthesis to clarify logic intention. e.g. "1 or 2 and 3" must be written as one of the following:
+>
+>     * 1 and (2 or 3)
+>     * (1 and 2) or 3
+>
+>    Nested parenthesis are accepted for more complicated logic.e.g.
+>
+>     * (1 and 2) or (3 and 4)
+>     * 1 and (2 or (3 and 4))
+>
+>    Check your logic after any insert, delete or reorder. 
 >
 
 Drag and drop Segment attributes from the right hand side column into the segment editor on the left side:
@@ -127,12 +128,12 @@ Drag and drop Segment attributes from the right hand side column into the segmen
 
 **Location**
 
-Drag and drop **Location **into the segment editor.
+Drag and drop **Location** into the segment editor.
 
 * Select from the following parameters:
 
-    * **Include **- Select whether you want the campaign to include or exclude a location.
-    * **Select country to add**  - From the drop-down box, select the country you wish to include in the segment. The country name appears to the right. You can choose multiple countries.
+    * **Include** - Select whether you want the campaign to include or exclude a location.
+    * **Select country to add** - From the drop-down box, select the country you wish to include in the segment. The country name appears to the right. You can choose multiple countries.
 
 Once the country is added, you can specify the state, city and zip code of the segment as well. 
 
@@ -142,7 +143,7 @@ Once the country is added, you can specify the state, city and zip code of the s
 
 >[!TIP]
 >
->**What segment conditions do I choose? ‘AND’ or ‘OR’? **OR functions as an additional option within each field. Prospects need only fulfill one criteria of the multiple criteria selected within each field in order to qualify for the segment. (For example, prospects can either be from the U,S. *or* from the Defense industry). AND functions as an additional mandatory parameter which must be met for this segment. (For example, prospects must both be from the U.S. and from the Defense industry). Within each segmentation profile, each separate field can function as both, either an “AND” or “OR” depending on the Segment Condition selected.
+>**What segment conditions do I choose? ‘AND’ or ‘OR’?** OR functions as an additional option within each field. Prospects need only fulfill one criteria of the multiple criteria selected within each field in order to qualify for the segment. (For example, prospects can either be from the U,S. *or* from the Defense industry). AND functions as an additional mandatory parameter which must be met for this segment. (For example, prospects must both be from the U.S. and from the Defense industry). Within each segmentation profile, each separate field can function as both, either an “AND” or “OR” depending on the Segment Condition selected.
 
 **Industries** Under the **Profile Segmentation** section, check the box next to **Industry**.
 
@@ -167,12 +168,10 @@ Under the **Profile Segmentation** section, check the box next to **Organization
 
 **Organizations**
 
-*
+* **Is from these companies (specific names)**
 
-    * **Is from these companies (specific names)**
-
-        * Select company to target from the 'Select company to add' drop-down.
-        * You can type the exact organization name you wish to target. *It is *always *recommended to use Named Account Lists instead of typing the names manually for better matches (see below).*
+    * Select company to target from the 'Select company to add' drop-down.
+    * You can type the exact organization name you wish to target. *It is *always *recommended to use Named Account Lists instead of typing the names manually for better matches (see below).*
 
 **Named Account List**
 
@@ -214,10 +213,8 @@ You can add or remove person data fields from Account Settings > Database
 
 Define your segment according to a prospect’s status: known or anonymous.
 
-*
-
-    * Known - Select this option from the drop-down box for known visitors. A visitor is known when they submit a form on your website and appear in the Web Personalization People page.
-    * Anonymous - Select this option from the drop-down box for anonymous visitors.
+* Known - Select this option from the drop-down box for known visitors. A visitor is known when they submit a form on your website and appear in the Web Personalization People page.
+* Anonymous - Select this option from the drop-down box for anonymous visitors.
 
 ![](assets/image2015-5-27-17-3a23-3a2.png) 
 
@@ -225,41 +222,29 @@ Define your segment according to a prospect’s status: known or anonymous.
 
 **Visits -** Define your segment according to visitor behavior or identify.
 
-*
+* Number of Visits - Select this option from the drop-down box to specify the number of visits for prospects on the website.
 
-    * Number of Visits - Select this option from the drop-down box to specify the number of visits for prospects on the website.
+    * Select Equals, Equals or Greater Than, or Equals or Less Than from the drop-down box.
 
-        * Select Equals, Equals or Greater Than, or Equals or Less Than from the drop-down box.
+* Specific Visits - Select this option from the drop-down box to specify a specific visitor.
 
-    * Specific Visits - Select this option from the drop-down box to specify a specific visitor.
-
-        * In the text box to the right, enter the visitor number you wish to track. The unique Web Personalization visitor identification number can be found when clicking on a visitor (in the visitors page) and the Set Campaign on the right side panel. The Visitor ID is located in the Advanced Settings section. The visitor ID can also be found in the URL (e.g. VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
+    * In the text box to the right, enter the visitor number you wish to track. The unique Web Personalization visitor identification number can be found when clicking on a visitor (in the visitors page) and the Set Campaign on the right side panel. The Visitor ID is located in the Advanced Settings section. The visitor ID can also be found in the URL (e.g. VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
 **Search Terms** - Define a segment according to a prospect’s search terms.
 
-*
-
-    * The visitor searched for - From the drop-down list, select the terms you want to track from your visitors search, or add your own search terms. (There is no need for the &#42; wildcard on search terms as it is set as default to include phrases that contain the search term).
+* The visitor searched for - From the drop-down list, select the terms you want to track from your visitors search, or add your own search terms. (There is no need for the &#42; wildcard on search terms as it is set as default to include phrases that contain the search term).
 
 **Referrals** - Add URLs that the visitor was referred by.
 
-*
-
-    * Select referrals to add - From the drop-down list, select the referral sites you wish to track or add your own referral. Once selected, the referrals will appear in the box below. (Using &#42; as a wildcard is permitted)
+* Select referrals to add - From the drop-down list, select the referral sites you wish to track or add your own referral. Once selected, the referrals will appear in the box below. (Using &#42; as a wildcard is permitted)
 
 **Include Pages** - Track specific pages prospects visited on your website.
 
-*
-
-    * URL matches - Add the URL of specific web pages you wish to track. You can add multiple URLs by separating them with a semicolon. (Using &#42; as a wildcard is permitted).
+* URL matches - Add the URL of specific web pages you wish to track. You can add multiple URLs by separating them with a semicolon. (Using &#42; as a wildcard is permitted).
 
 **Exclude Pages** - Exclude specific pages that you do not want to match in the segment. (Using &#42; as a wildcard is permitted).
 
-*
-
-    *
-
-        * URL does not match - Add the URL of specific web pages you wish to exclude from tracking. You can add multiple URLs by separating them with a semicolon
+* URL does not match - Add the URL of specific web pages you wish to exclude from tracking. You can add multiple URLs by separating them with a semicolon
 
 ![](assets/segment-extra.png)
 
@@ -271,10 +256,10 @@ Drag and drop the Mobile OS into the Segment editor
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
-* **Visitor type ** 
+* **Visitor type** 
   **Mobile OS** - From the drop-down box, select from one or more mobile OS listed. The selected mobile OS appear below.
 
-    * The visitor is using any mobile device ** **
+    * The visitor is using any mobile device
     * The visitor is using this specific device/OS
     * The visitor is not using any mobile device
 
@@ -284,10 +269,8 @@ Drag and drop the Mobile OS into the Segment editor
 
 Target visitor that use specific browser types and/or versions.
 
-*
-
-    * Browser Type - From the drop-down box, select one or more Internet browsers . The selected browsers appear below.
-    * Browser Version - Enter the browser version you wish to add to the segment. You can select multiple versions by separating each with a comma. (Using &#42; as a wildcard is permitted).
+* Browser Type - From the drop-down box, select one or more Internet browsers . The selected browsers appear below.
+* Browser Version - Enter the browser version you wish to add to the segment. You can select multiple versions by separating each with a comma. (Using &#42; as a wildcard is permitted).
 
 ### API {#api}
 
@@ -301,7 +284,7 @@ Web Personalization API call  [read more about it here.](http://developers.marke
 
 >[!TIP]
 >
->**Using Wildcards - **When you would like to include any search term or URL that contains something within it i.e. “ [google.com](http://google.com)” or “search term product”, we call this a wildcard and it should be inputted with an asterisk - this little guy&#42; - on each end. So anything coming from [google.com](http://google.com) should be inputted as &#42; [google.com](http://google.com)&#42;
+>**Using Wildcards -** When you would like to include any search term or URL that contains something within it i.e. “[google.com](http://google.com)” or “search term product”, we call this a wildcard and it should be inputted with an asterisk - this little guy&#42; - on each end. So anything coming from [google.com](http://google.com) should be inputted as &#42; [google.com](http://google.com)&#42;
 
 ## Edit Segments {#edit-segments}
 
@@ -320,7 +303,7 @@ You can edit a segment that has been created.
 You can delete segments you have created.
 
 1. From the **Segments** page above, select a segment.
-1. Click the delete icon ( ![](assets/segment-delete.png) ) of the segment** **you wish to delete.
+1. Click the delete icon ( ![](assets/segment-delete.png) ) of the segment you wish to delete.
 1. A confirmation message appears, confirming that you are about to delete the **Segment**.
 
 >[!NOTE]
