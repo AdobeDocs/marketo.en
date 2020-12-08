@@ -41,13 +41,16 @@ In Marketing Activities, you should use folders to organize your programs. The s
 >    * Scoring
 >    * Data Management
 >
->* Sales Insight >
+>* Sales Insight
+>
 >    * Interesting Moments
 >    * Sales Emails
 >    * Sales Requested Campaigns
 >
->* **Archive** >
->    * Archive Events >
+>* **Archive**
+>
+>    * Archive Events
+>
 >        * Archive 2012
 >        * Archive 2013
 >
