@@ -1,13 +1,5 @@
 # Contribute article
 
-| Production | Stage |
-|---|---|
-| [![Build Status](https://docs.ci.corp.adobe.com/job/document-cloud-learn.en_production/badge/icon)](https://docs.ci.corp.adobe.com/job/document-cloud-learn.en_production/lastBuild) | [![Build Status](https://docs.ci.corp.adobe.com/job/document-cloud-learn.en_stage/badge/icon)](https://docs.ci.corp.adobe.com/job/document-cloud-learn.en_stage/lastBuild) |
-
-<!--
-|[Output Prod](https://docs.adobe.com/content/help/en/document-cloud-learn/tutorials/overview.html)|[Output Stg](https://docs-stg.corp.adobe.com/content/help/en/document-cloud-learn/tutorials/overview.html)|
--->
-
 We welcome contributions from our community as well as from Adobe employees from outside the documentation teams.
 
 ## Adobe Open Source Code of Conduct
