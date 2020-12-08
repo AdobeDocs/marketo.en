@@ -104,18 +104,18 @@ Define general parameters to your segment:
 >
 >    Advanced filters allows you to control the segment condition. Enter the filter numbers separated by "and" and "or".
 >
->     * 1 and 2 and 3
->     * 1 or 2 or 3
+>    * 1 and 2 and 3
+>    * 1 or 2 or 3
 >
 >    Mixing "and" and "or" requires parenthesis to clarify logic intention. e.g. "1 or 2 and 3" must be written as one of the following:
 >
->     * 1 and (2 or 3)
->     * (1 and 2) or 3
+>    * 1 and (2 or 3)
+>    * (1 and 2) or 3
 >
 >    Nested parenthesis are accepted for more complicated logic.e.g.
 >
->     * (1 and 2) or (3 and 4)
->     * 1 and (2 or (3 and 4))
+>    * (1 and 2) or (3 and 4)
+>    * 1 and (2 or (3 and 4))
 >
 >    Check your logic after any insert, delete or reorder. 
 >
