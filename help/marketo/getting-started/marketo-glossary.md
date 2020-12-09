@@ -467,7 +467,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
     <div> 
      <p><strong>Landing Page</strong></p> 
     </div></td> 
-   <td>A Marketo-hosted page that allows you to display <strong>content</strong> and track visitors. There are two different types: Free-form and Guided. <a href="help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">Free-form landing pages</a> allow you to drag and drop whatever content you want, wherever you want. <a href="help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">Guided landing pages</a> are more strict, with a predefined layout/structure determined by the <strong>template</strong>.</td> 
+   <td>A Marketo-hosted page that allows you to display <strong>content</strong> and track visitors. There are two different types: Free-form and Guided. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">Free-form landing pages</a> allow you to drag and drop whatever content you want, wherever you want. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">Guided landing pages</a> are more strict, with a predefined layout/structure determined by the <strong>template</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="https://launchpoint.marketo.com/" rel="nofollow">LaunchPoint</a></strong></td> 
