@@ -654,7 +654,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   <tr> 
    <td> 
     <div> 
-     <p><strong> <a name="predictivecontent">Predictive Content</a></strong></p> 
+     <p><strong>Predictive Content</strong></p> 
     </div></td> 
    <td>(formerly known as ContentAI) An add-on feature that helps Marketo users better engage web visitors and email recipients with the most relevant <strong>content</strong>, using recommendations powered by machine learning and predictive analytics.</td> 
   </tr> 
