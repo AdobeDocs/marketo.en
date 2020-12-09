@@ -8,9 +8,7 @@ title: Use "Subject Line" A/B Testing
 
 You can easily A/B test your emails. One of the most common tests is the **Subject Line** test.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add an A/B Test](add-an-a-b-test.md)
 >

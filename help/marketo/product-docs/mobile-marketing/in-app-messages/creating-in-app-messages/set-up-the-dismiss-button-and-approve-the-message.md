@@ -66,9 +66,7 @@ So many choices, but now you've got a great-looking in-app message, ready to go!
 
 Now it's time to [send your message](http://docs.marketo.com/display/docs/send+your+in-app+message).
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding In-App Messages](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Send Your In-App Message](http://docs.marketo.com/display/docs/send+your+in-app+message)

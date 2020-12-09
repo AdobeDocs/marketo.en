@@ -72,9 +72,7 @@ Click the text area to work on your text style and content.
 
 You're golden. Next, you need to [set up your in-app message button](set-up-the-in-app-message-button.md).
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding In-App Messages](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Choose a Layout for Your In-App Message](choose-a-layout-for-your-in-app-message.md)

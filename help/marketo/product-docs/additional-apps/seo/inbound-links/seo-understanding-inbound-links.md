@@ -23,9 +23,7 @@ Inbound links indicate to search engines that your site is worth referencing. Th
 
 Sweet! Now that you understand inbound links, we can suggest more inbound link opportunities for your site.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Get Inbound Link Suggestions](seo-get-inbound-link-suggestions.md)
 >

@@ -103,9 +103,7 @@ Many fields are editable. To update a person's information, type in a new value 
 >
 >Learn more about [System Managed Fields](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Creating a Custom Tab for the Person Detail Page](../../../../product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
 >

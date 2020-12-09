@@ -8,9 +8,7 @@ title: Step 2 of 3 -Configure Sync User for Marketo (2013 On-Premises)
 
 Great job completing the previous steps, let's keep moving through this.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Step 1 of 3: Install the Marketo Solution in Dynamics (2013 On-Premises)](step-1-of-3-install.md)
 

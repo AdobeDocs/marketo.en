@@ -83,9 +83,7 @@ In short, email programs scheduled with Recipient Time Zone need to start runnin
 >
 >Anyone who unsubscribes between the time you start your email send and when it's actually delivered will still receive the email. We recommend adjusting your unsubscribe notification to reflect that unsubscribes may take 1-2 business days to process.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Recipient Time Zone](understanding-recipient-time-zone.md)
 >* [Head Start for Email Programs](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)

@@ -43,9 +43,7 @@ Anyone who wants to use the Marketo Email Outlook Add-in must first be issued a 
    >
    >If your sales reps have admin access to their computers, check the box and you're done!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Install the Marketo Add-in for Outlook with an Enterprise Key](install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
 >* [Install the Marketo Email Add-in for Outlook with a Registration Code](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)

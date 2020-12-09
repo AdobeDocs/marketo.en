@@ -40,9 +40,7 @@ You can [select fields to sync](https://docs.marketo.com/pages/viewpage.action?p
 
 You can add fields at any time and expect the data to be refreshed from Dynamics to Marketo. See [Use Quick Sync with Microsoft Dynamics for a New Custom Field](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) for details.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Use Quick Sync with Microsoft Dynamics for a New Custom Field](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
 >

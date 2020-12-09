@@ -15,9 +15,7 @@ There are two notification types included in the Slack integration:
 >
 >**Admin Permissions Required**
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >If you don't have Slack System Notifications already enabled, please [contact Support](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270).
 

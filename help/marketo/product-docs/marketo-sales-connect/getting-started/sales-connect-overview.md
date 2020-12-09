@@ -81,9 +81,7 @@ Create a simple smart campaign to give your sales users access to [Marketo campa
 
 Ready to get started? For setup instructions, click the link below.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Getting Started with Sales Connect](http://docs.marketo.com/x/coTS)
 >

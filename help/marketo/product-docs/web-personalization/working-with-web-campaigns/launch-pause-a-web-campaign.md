@@ -38,9 +38,7 @@ You can launch or pause a web campaign in two ways from the Web Campaigns page o
 
    ![](assets/image2014-11-26-17-3a32-3a48.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a New Dialog Web Campaign](create-a-new-dialog-web-campaign.md)
 >* [Create a New In Zone Web Campaign](create-a-new-in-zone-web-campaign.md)

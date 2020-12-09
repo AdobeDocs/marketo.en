@@ -6,9 +6,7 @@ title: Using Dynamic Content in an Email
 
 # Using Dynamic Content in an Email {#using-dynamic-content-in-an-email}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Segmentation](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >

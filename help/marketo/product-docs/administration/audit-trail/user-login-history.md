@@ -8,9 +8,7 @@ title: User Login History
 
 The User Login History helps maintain accountability and security by showing you exactly who's been logging into your subscription, including failed login attempts.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >You must have a role with the Access Login History permission enabled to view the User Login History.
 

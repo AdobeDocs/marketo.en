@@ -26,9 +26,7 @@ Here’s how data is updated after the event takes place:
 * Marketo retrieves attendee data from ON24 every night.
 * Once the attendee data syncs between Marketo and ON24, Marketo updates the membership status to Attended, Attended On-demand, or No Show. In the event's **Summary** tab, the event status is updated to **Event Complete**.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Example ON24 Event Integration](example-on24-event-integration.md)
 >* [Understanding Marketo ON24 Adapter Events](understanding-marketo-on24-adapter-events.md)

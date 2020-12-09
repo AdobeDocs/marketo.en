@@ -48,9 +48,7 @@ Here's how to verify and add sync fields.
 >
 >Be sure to wait at least 10 minutes for a sync to run before verifying that you've fixed the issue.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Setting up Stars and Flames for Lead/Contact Records](http://docs.marketo.com/x/BICMAg)
 

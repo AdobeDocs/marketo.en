@@ -8,9 +8,7 @@ title: Test Facebook Lead Ads for Desktop Integration with Marketo
 
 After you create your Lead Ad, you should test it! Here's how to do it on your desktop.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >You must [Set up the Facebook Lead Ads Integration](set-up-facebook-lead-ads.md).
 

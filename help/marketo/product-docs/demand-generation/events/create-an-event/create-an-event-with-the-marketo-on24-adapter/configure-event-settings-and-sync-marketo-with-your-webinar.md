@@ -50,9 +50,7 @@ When you set up an event that is associated with an ON24 Webinar, the event sche
 
 Now you can move on to the next step: . 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Marketo On24 Adapter Events](understanding-marketo-on24-adapter-events.md)
 >* [Create Child Campaigns and Local Assets](create-child-campaigns-and-local-assets.md)

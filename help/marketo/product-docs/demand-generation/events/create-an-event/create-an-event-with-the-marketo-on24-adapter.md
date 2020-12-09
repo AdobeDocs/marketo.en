@@ -43,9 +43,7 @@ Follow these steps to create an Event with the Marketo On24 Adapter:
 1. [Understanding Webinar Program Statuses](create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
 1. [ON24 Event Registration Updates](create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Marketo ON24 Adapter Events](create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
 >

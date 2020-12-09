@@ -8,9 +8,7 @@ title: Send a Push Notification Sample
 
 You can send a sample to verify that your push notification is working correctly!
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Make sure the app is installed on the device you're sending the sample to.
 

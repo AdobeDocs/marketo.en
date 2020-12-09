@@ -8,9 +8,7 @@ title: Step 3 of 3 -Connect Marketo and Salesforce (Professional)
 
 In this article, you will configure Marketo to sync with your configured Salesforce instance.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Step 1 of 3: Add Marketo Fields to Salesforce (Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 >* [Step 2 of 3: Create a Salesforce User for Marketo (Professional)](step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)

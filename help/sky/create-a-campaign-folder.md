@@ -9,7 +9,7 @@ description: Create a Campaign Folder
 
 Campaign folders help you keep a tidy workspace. Follow these simple steps and you're on your way to automation magic.
 
-1. Right-click the workspace globe or an existing folder and select [!UICONTROL **New Campaign Folder**].
+1. Right-click the workspace globe or an existing folder and select **[!UICONTROL New Campaign Folder]**.
 
    ![Image One](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-1.png)
 
@@ -17,7 +17,7 @@ Campaign folders help you keep a tidy workspace. Follow these simple steps and y
 
    ![Image One](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-2.png)
 
-1. Optionally, you can add a description and/or add labels to your campaign folder. If you're creating your campaign folder within an existing folder, you can also copy the labels from the parent asset. Click [!UICONTROL **Create**].
+1. Optionally, you can add a description and/or add labels to your campaign folder. If you're creating your campaign folder within an existing folder, you can also copy the labels from the parent asset. Click **[!UICONTROL Create]**.
 
    ![Image One](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-3.png)
 

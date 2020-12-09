@@ -8,9 +8,7 @@ title: Send Referral Offer Fulfillment Email
 
 Reward your customers with coupons and discount codes using the offer fulfillment email.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Use Emails in Social Promotions](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
 >* [Create a Referral Offer](create-a-referral-offer.md)

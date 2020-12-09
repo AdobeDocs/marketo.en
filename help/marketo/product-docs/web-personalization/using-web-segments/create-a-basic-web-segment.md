@@ -48,9 +48,7 @@ Let's create a basic segment targeting all web visitors from the U.S., and the f
 
 Now you have segmented your visitors from the United States, go ahead and add the financial services industry. 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Web Segments](http://docs.marketo.com/x/9QFI)
 >

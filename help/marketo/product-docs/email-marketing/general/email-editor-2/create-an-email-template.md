@@ -62,9 +62,7 @@ If you created an email you'd like to save as a template for future use, follow 
 
 To customize your email template, check out the article below.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Email Template Syntax](email-template-syntax.md)
 

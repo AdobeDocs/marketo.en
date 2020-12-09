@@ -8,9 +8,7 @@ title: Create an API Only User
 
 If you want to integrate with Marketo via the [REST API](http://developers.marketo.com/documentation/rest/), you'll need to create an API only user. Here's how.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create an API Only User Role](create-an-api-only-user-role.md)
 >

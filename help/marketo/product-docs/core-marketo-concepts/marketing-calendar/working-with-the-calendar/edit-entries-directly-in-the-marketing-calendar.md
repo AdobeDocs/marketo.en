@@ -60,9 +60,7 @@ You can quickly get access to different areas of your entries for editing.
 
 That's it! As you can see there are a lot of things you can do directly from the Marketing Calendar.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Delete Entries Directly In the Marketing Calendar](https://community.marketo.com/MarketoArticle?id=kA050000000LPDyCAO)
 >

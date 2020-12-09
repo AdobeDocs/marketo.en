@@ -8,9 +8,7 @@ title: Enable the Content Recommendation Bar
 
 The Content Recommendation Engine uses predictive analytics and machine learning algorithms to deliver relevant content to each web visitor. The recommendation engine predicts which content would perform best per visitor. The content for the engine is monitored and controlled under the Recommendations page, helping you optimize your content ROI.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Before enabling predictive content, you must:
 >

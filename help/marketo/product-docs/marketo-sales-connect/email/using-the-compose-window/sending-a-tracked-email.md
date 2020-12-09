@@ -8,9 +8,7 @@ title: Sending a Tracked Email
 
 When sending an email with Marketo Sales Connect, views (email opens) and clicks (clicked links) will be tracked.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >You'll need to have an identity verified and an email delivery channel set up before sending a tracked email.
 >

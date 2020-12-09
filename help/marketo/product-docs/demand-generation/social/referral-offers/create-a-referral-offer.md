@@ -60,9 +60,7 @@ If there are any problems in the referral offer, you'll be prompted to address t
 
 Congratulations! You've created your referral offer.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >The next step is to [publish your referral offer](publish-a-referral-offer.md) on a landing page, on your website, or on Facebook.
 

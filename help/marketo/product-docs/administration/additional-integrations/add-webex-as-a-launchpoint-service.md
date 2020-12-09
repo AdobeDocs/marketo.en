@@ -50,9 +50,7 @@ Marketo manages your WebEx webinar registration and attendance.
 
    ![](assets/webex.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >Learn how to [create an event with WebEx](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md).
 

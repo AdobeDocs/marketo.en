@@ -8,9 +8,7 @@ title: Group Email Reports by Segmentations
 
 Segmentations are not just for Dynamic Content. You can group your  [email performance report](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) by  [segmentations](http://docs.marketo.com/display/docs/segmentation+and+snippets), too.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Approve a Segmentation](approve-a-segmentation.md)
 >

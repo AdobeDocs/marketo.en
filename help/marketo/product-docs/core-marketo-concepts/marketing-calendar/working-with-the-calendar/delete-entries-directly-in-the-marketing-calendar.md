@@ -22,9 +22,7 @@ In addition to  [creating](create-entries-directly-in-the-marketing-calendar.md)
 
 Depending on the entry, you may have to confirm the deletion. But that's it! Easy peasy.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Confirm Entries Directly In the Marketing Calendar](confirm-entries-directly-in-the-marketing-calendar.md)
 >

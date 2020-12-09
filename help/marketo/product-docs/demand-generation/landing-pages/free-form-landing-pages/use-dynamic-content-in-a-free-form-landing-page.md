@@ -8,9 +8,7 @@ title: Use Dynamic Content in a Free-form Landing Page
 
 Using Dynamic Content in Landing Pages engages your audience with targeted information.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Segmentation](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Create a Free-Form Landing Page](create-a-free-form-landing-page.md)

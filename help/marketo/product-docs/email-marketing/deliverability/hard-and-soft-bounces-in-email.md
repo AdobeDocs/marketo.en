@@ -30,9 +30,7 @@ There are 5 person strings in Marketo that are related to troubled email deliver
 >
 >When a person is marked as **email invalid**, they can only be reset manually (which we recommend you only do if you know for certain their email is valid) by unchecking the "Email Invalid" box in the Person Info tab of their record.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Follow [these steps](../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) to create an Email Performance Report, which will generate bounce data.
 

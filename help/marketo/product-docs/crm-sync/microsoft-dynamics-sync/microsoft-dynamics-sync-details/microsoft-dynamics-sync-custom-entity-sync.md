@@ -12,9 +12,7 @@ If you need to enable the initial custom entity sync to make data from Dynamics 
 >
 >**Admin Permissions Required**
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >To use a custom object, it must be associated to a [lead](microsoft-dynamics-sync-lead-sync.md), [contact](microsoft-dynamics-sync-contact-sync.md), or [account](microsoft-dynamics-sync-account-sync.md)object in Dynamics.
 

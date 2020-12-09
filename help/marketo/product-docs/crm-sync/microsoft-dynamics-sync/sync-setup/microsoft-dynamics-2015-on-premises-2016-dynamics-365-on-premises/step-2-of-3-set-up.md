@@ -10,9 +10,7 @@ title: Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 2 of 
 
 Great job completing the previous steps. Let's keep moving through this.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 1 of 3](step-1-of-3-install.md)
 >

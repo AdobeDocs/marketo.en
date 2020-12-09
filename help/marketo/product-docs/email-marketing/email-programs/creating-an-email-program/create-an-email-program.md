@@ -32,9 +32,7 @@ Nice! Notice the program is now in the tree and ready to be used. The next step 
 
 `<iframe width="630" height="470" src="//play.vidyard.com/3ySE7FAnFR9btywiWgt4sW.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`  
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Define an Audience with a Smart List](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
 >* [Define an Audience by Importing a List](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)

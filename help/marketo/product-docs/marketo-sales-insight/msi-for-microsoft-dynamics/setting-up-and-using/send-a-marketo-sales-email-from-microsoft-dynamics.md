@@ -36,9 +36,7 @@ Your sales team can send emails and have them tracked for opens and clicks direc
 
 Nicely done! Now you know how to send Marketo tracked emails directly from within Microsoft Dynamics.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Add a Lead/Contact to a Marketo Campaign from Microsoft Dynamics](add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
 >

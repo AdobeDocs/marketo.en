@@ -58,9 +58,7 @@ You can also right-click on a template thumbnail for more options.
 
 Pretty neat!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Email Template Syntax](email-template-syntax.md)
 >* [Create an Email](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)

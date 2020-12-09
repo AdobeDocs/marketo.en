@@ -24,9 +24,7 @@ You can use the interesting moment flow step to give your sales team visibility 
 
 You can also use tokens in interesting moments to make really useful dynamic descriptions.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Using Interesting Moments](using-interesting-moments.md)
 >* [Tokens for Interesting Moments](tokens-for-interesting-moments.md)

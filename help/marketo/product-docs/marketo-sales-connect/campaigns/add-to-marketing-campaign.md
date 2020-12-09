@@ -6,9 +6,7 @@ title: Add to Marketing Campaign
 
 # Add to Marketing Campaign {#add-to-marketing-campaign}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Make a Campaign Visible to Sales Users](http://docs.marketo.com/x/NwDh)
 

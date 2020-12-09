@@ -8,9 +8,7 @@ title: Using Advanced Smart List Rule Logic
 
 You can find the exact people you need by applying smart list rule logic to multiple filters within a smart list. Here's how.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Find and Add Filters to a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 >* [Define Smart List Filters](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)

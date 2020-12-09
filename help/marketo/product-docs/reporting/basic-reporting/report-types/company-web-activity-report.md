@@ -16,9 +16,7 @@ See which companies are visiting your web site. You can choose to display known 
 
 Create a  [Web Page Activity report](web-page-activity-report.md) to see the individual people who are visiting your site.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >To capture activity from your web site in Marketo, you first need to set [up Munchkin on your site](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 

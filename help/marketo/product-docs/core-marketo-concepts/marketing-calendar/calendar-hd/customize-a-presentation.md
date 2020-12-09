@@ -14,9 +14,7 @@ Set up your calendar presentation to reflect the goals and activities that matte
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create Custom Goals](create-a-custom-goal.md) or [Smart List Goals](create-a-smart-list-goal.md)
 >

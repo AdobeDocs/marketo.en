@@ -56,9 +56,7 @@ Speed up and simplify your web campaign creation process by using our built in t
 
 Nicely done! Did you see how much time you saved by using a template?
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Save a Campaign as a Template](save-your-campaign-as-a-template.md)
 >

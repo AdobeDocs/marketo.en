@@ -36,9 +36,7 @@ If you want to view your email's stats in Analytics, hover next to Score and cli
 
 Cool stuff!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Email Insights Analytics Overview](email-insights-analytics-overview.md)
 

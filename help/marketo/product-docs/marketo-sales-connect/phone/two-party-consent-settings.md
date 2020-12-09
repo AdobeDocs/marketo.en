@@ -8,9 +8,7 @@ title: Two-Party Consent Settings
 
 In order to ensure compliance with U.S. two-party consent laws when recording calls, as an Admin you can enable a prerecorded message of your choice to play at the beginning of your calls when it's being recorded.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Before following the steps below, you must first [enable call recording.](http://docs.marketo.com/x/dAC1Ag)
 

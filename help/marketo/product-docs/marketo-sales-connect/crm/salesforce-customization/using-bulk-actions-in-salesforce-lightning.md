@@ -8,9 +8,7 @@ title: Using Bulk Actions in Salesforce Lightning
 
 Learn how to perform bulk actions, like adding leads to a campaign, send a bulk email, or pushing leads from Salesforce to Sales Connect.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Update to the latest version of the Sales Connect package and install the bulk action buttons in your lead/contact view. [Click here for instructions](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
 

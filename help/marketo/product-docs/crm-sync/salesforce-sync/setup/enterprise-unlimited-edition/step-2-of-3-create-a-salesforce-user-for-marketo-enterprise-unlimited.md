@@ -10,9 +10,7 @@ title: Step 2 of 3 -Create a Salesforce User for Marketo (Enterprise/Unlimited)
 >
 >These steps must be completed by a Salesforce administrator
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Step 1 of 3: Add Marketo Fields to Salesforce (Enterprise/Unlimited)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 >

@@ -39,9 +39,7 @@ Enjoy!
 >
 >Single sign-on with Security Assertion Markup Language (SAML) is not supported for Marketo Moments.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Understanding Marketo Moments](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 

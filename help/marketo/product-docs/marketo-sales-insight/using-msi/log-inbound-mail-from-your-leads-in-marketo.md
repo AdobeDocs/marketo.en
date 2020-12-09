@@ -34,9 +34,7 @@ You should see the same confirmation as the other method.
 
 Log your lead's replies to add them to their history in Marketo.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Send and Track an Email with the Marketo Email Add-in for Outlook](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Send and Track from Outlook Using a Marketo Template](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

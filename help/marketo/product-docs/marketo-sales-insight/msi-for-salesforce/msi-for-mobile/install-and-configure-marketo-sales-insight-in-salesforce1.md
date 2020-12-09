@@ -12,9 +12,7 @@ title: Install and Configure Marketo Sales Insight in Salesforce1
 >
 >Existing customers, please [Upgrade Your MSI Package](http://docs.marketo.com/x/_gU6Ag) before you continue!
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >If you have Salesforce Enterprise/Unlimited:
 >

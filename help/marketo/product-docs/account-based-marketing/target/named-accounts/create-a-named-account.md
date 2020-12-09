@@ -20,9 +20,7 @@ Follow these steps to manually create a named account.
    >
    >Click directly on a named account to see its dashboard.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Add People to a Named Account](add-people-to-a-named-account.md)
 >

@@ -8,9 +8,7 @@ title: Find all Leads in a Revenue Cycle Model
 
 By using smart lists, you can easily find all members of revenue cycle model.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Create a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 

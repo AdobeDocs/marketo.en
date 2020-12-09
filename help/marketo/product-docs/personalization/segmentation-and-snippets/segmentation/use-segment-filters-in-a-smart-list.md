@@ -6,9 +6,7 @@ title: Use Segment Filters in a Smart List
 
 # Use Segment Filters in a Smart List {#use-segment-filters-in-a-smart-list}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [Create a Segmentation](create-a-segmentation.md)

@@ -28,9 +28,7 @@ This option allows Marketo to sync its program membership and statuses with Sale
 
 There you have it. Just give the sync some time to pull the data from Salesforce and you are good to go.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [SFDC Sync: Campaign Sync](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
 >* [Set Default Lead Last Name and Company Values](set-default-person-last-name-and-company-name.md)

@@ -8,9 +8,7 @@ title: Step 3 of 3 -Connect Marketo and Salesforce (Enterprise/Unlimited)
 
 In this article, you will configure Marketo to sync with your configured Salesforce instance.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Step 1 of 3: Add Marketo Fields to Salesforce (Enterprise/Unlimited)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 >* [Step 2 of 3: Create a Salesforce User for Marketo (Enterprise/Unlimited)](../../../../../product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) [](https://community.marketo.com/MarketoTutorial?id=kA250000000Kz5rCAC)

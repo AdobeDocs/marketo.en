@@ -35,9 +35,7 @@ You can [set up Facebook Offline Conversions](set-up-facebook-offline-conversion
 1. Map stages in your Revenue Cycle Model to offline conversion stages on Facebook.
 1. When a Facebook Lead is generated from a Facebook Lead Ad and reaches a mapped stage, Marketo sends offline conversion data back to Facebook several times a day via a secure, automated API. The data appears in the Facebook Ads Manager Report.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Set Up Facebook Offline Conversions](set-up-facebook-offline-conversions.md)
 >

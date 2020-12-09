@@ -15,7 +15,7 @@ Flow steps tell Marketo what you want to have happen to a group of people that q
 
    ![Image One](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-1.png)
 
-1. After you set your smart list, click [!UICONTROL **Flow**].
+1. After you set your smart list, click **[!UICONTROL Flow]**.
 
    ![Image Two](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-2.png)
 
@@ -25,11 +25,11 @@ Flow steps tell Marketo what you want to have happen to a group of people that q
 
    ![Image Four](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-4.png)
 
-1. When you're done adding filters/triggers, click the [!UICONTROL **Smart Campaign Actions**] drop-down and select [!UICONTROL **Save New Flow**].
+1. When you're done adding filters/triggers, click the **[!UICONTROL Smart Campaign Actions]** drop-down and select **[!UICONTROL Save New Flow]**.
 
    ![Image Five](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-5.png)
 
-1. Name your flow and click [!UICONTROL **Save**].
+1. Name your flow and click **[!UICONTROL Save]**.
 
    ![Image Six](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-6.png)
 
@@ -41,11 +41,11 @@ And you're done. Next time you create a smart campaign, you'll have access to th
 
    ![Image Seven](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
-1. Click [!UICONTROL **Flow**].
+1. Click **[!UICONTROL Flow]**.
 
    ![Image Eight](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-8.png)
 
-1. Click the [!UICONTROL **Saved Flows**] drop-down.
+1. Click the **[!UICONTROL Saved Flows]** drop-down.
 
    ![Image Nine](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-9.png)
 

@@ -8,9 +8,7 @@ title: Install the Marketo Add-in for Outlook with an Enterprise Key
 
 Many times, sales reps don't have administrative privileges on their laptops, and their IT teams are responsible for installing all software remotely. The Marketo Add-in for Outlook can be installed this way using your Enterprise Key, which can be found in the Sales Insight section of Admin.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >The admin must have [issued a Marketo Email Add-In License](issue-a-marketo-email-add-in-license.md).
 

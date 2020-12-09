@@ -33,9 +33,7 @@ If your marketing team has made templates available to you, here's how you can u
 
    And there you go! You were able to save a bunch of time by using templates that your super awesome marketing team made for you.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Log Inbound Mail From Your Leads in Marketo](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
 >

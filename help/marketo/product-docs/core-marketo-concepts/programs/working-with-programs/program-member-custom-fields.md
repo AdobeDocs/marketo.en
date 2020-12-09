@@ -64,9 +64,7 @@ You can leverage this program-specific data in smart lists via [triggers](http:/
 * Import and export via [list](http://docs.marketo.com/x/egAk)and [API](http://developers.marketo.com/)are supported.
 * When you merge two people, the winner’s Program Member custom field data will be used. But if the winner has none, the loser’s value will be used.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Create a Custom Field in Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 

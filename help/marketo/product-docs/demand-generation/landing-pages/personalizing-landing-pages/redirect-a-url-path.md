@@ -43,9 +43,7 @@ Marketo makes it easy to redirect a URL path to any page you choose. Here's how.
 
 Congratulations!  You've successfully redirected your URL path.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Redirect a Marketo Landing Page to Another Page](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
 >

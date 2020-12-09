@@ -6,9 +6,7 @@ title: Custom RTP Reports in Google Universal Analytics
 
 # Custom RTP Reports in Google Universal Analytics {#custom-rtp-reports-in-google-universal-analytics}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Integrate RTP with Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
 

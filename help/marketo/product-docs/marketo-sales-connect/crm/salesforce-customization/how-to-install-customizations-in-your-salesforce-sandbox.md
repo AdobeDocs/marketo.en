@@ -10,9 +10,7 @@ title: How to Install Customizations in Your Salesforce Sandbox
 >
 >**Admin Permissions Required**
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Connect Sales Connect to Your Salesforce Sandbox](http://docs.marketo.com/x/DYDq)
 

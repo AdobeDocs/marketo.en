@@ -44,9 +44,7 @@ We made a bunch of nice themes for your forms. Which do you like best?
 
 How easy was that?! You can let your HTML/CSS book collect some dust now.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Edit the CSS of a Form Theme](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Add a Field to a Form](add-a-field-to-a-form.md)

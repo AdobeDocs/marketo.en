@@ -85,9 +85,7 @@ For example, if you add 100 people to a campaign in MSC, you may want to re-targ
 
 Bonus: If you save your advanced search, it will work as a dynamic list and add emails that meet the engagement criteria once the recipient views or clicks your email.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Tasks](http://docs.marketo.com/x/qwDb)
 >* [Advanced Search Overview](http://docs.marketo.com/x/KQM6Ag)

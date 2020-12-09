@@ -8,9 +8,7 @@ title: Add a Form to a Guided Landing Page
 
 Form, meet landing page. Landing page, meet form.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Guided Landing Page](create-a-guided-landing-page.md)
 >

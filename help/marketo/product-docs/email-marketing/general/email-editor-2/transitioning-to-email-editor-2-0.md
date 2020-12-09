@@ -53,9 +53,7 @@ Things to Note
 
 * In a few **rare** cases, a v1.0 Email can't be opened in Email Editor 2.0. If this occurs, discard the draft and contact Marketo Support.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Email Editor 2.0 Overview](email-editor-v2-0-overview.md)
 >* [Email Template Syntax](email-template-syntax.md)

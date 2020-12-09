@@ -61,9 +61,7 @@ Use an email program inside a default program to keep things organized.
 
 Now that you understand Email Programs, get started with one of the related articles below!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create an Email Program](create-an-email-program.md)
 >

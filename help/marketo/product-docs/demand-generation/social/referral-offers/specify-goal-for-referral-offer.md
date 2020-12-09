@@ -48,9 +48,7 @@ Example goals:
 >
 >There are new filters and triggers available in smart campaigns to monitor social activity. See  [use triggers and filters for social activities](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >Next, you can [select the sign-up and fulfillment emails](send-referral-offer-fulfillment-email.md) to send from your referral offer.
 

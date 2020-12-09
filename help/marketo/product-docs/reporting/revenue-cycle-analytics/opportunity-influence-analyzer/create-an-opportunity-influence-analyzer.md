@@ -55,9 +55,7 @@ Use the Opportunity Influence Analyzer to show marketing's contribution to an im
 >
 >You can also watch a video about the Opportunity Influence Analyzer in [Marketo University](https://learn.marketo.com). (It looks a little different now, but there's still a lot to learn!)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Tell the Marketing Story with an Opportunity Influence Analyzer](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Configure an Opportunity Influence Analyzer](configure-an-opportunity-influence-analyzer.md)

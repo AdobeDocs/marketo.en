@@ -93,10 +93,6 @@ The table below displays the latest versions.
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Download the Marketo Lead Management Solution](sync-setup/download-the-marketo-lead-management-solution.md)
->
-

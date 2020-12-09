@@ -61,9 +61,7 @@ Marketo provides fine-grain control over the Salesforce custom object sync. This
 
 Wow! Now your smart lists and smart campaigns have even more power.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Enable/Disable Custom Object Sync](enable-disable-custom-object-sync.md)
 >

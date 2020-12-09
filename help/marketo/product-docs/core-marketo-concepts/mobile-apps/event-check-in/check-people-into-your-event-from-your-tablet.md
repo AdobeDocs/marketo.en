@@ -16,9 +16,7 @@ The app works the same on both iPad and Android, except for minor layout and des
 >
 >Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* Create an event in Marketo and populate it with Invited and Registered people.
 >* Download the tablet app for [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&hl=en) or [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)

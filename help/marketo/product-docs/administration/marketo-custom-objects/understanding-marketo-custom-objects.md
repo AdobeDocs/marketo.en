@@ -92,9 +92,7 @@ After you've created the custom object structure, when you upload the specific c
 
    See [Import Custom Object Data](import-custom-object-data.md) for more information.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create Marketo Custom Objects](create-marketo-custom-objects.md)
 >* [Approve a Custom Object](approve-a-custom-object.md)

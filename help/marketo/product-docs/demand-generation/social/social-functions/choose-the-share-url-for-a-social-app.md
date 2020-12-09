@@ -39,9 +39,7 @@ When you create a social app, you can choose which URL will be shared in the pos
    >    
    >
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Add Your Privacy Policy to a Social App](add-your-privacy-policy-to-a-social-app.md)
 >

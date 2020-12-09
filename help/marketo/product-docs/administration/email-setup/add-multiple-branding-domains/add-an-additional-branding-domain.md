@@ -8,9 +8,7 @@ title: Add an Additional Branding Domain
 
 Add an additional branding domain when you're running multiple brands out of a single Marketo instance and want them each to have their own branded tracking links.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >You must [replace the generic tracking link](edit-your-default-branding-domain.md) with a branded domain before adding additional branded domains.
 

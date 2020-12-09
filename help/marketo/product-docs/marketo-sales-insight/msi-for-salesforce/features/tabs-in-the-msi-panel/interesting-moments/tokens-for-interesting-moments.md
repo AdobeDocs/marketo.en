@@ -6,9 +6,7 @@ title: Tokens for Interesting Moments
 
 # Tokens for Interesting Moments {#tokens-for-interesting-moments}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* Learn to use the [Interesting Moment flow step](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 >* Learn more about [tokens](http://docs.marketo.com/display/docs/tokens).

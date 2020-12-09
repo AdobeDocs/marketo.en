@@ -76,9 +76,7 @@ Nicely done! People who submit LinkedIn Lead Gen forms will start flowing into M
 >
 >You can only authorize a single LinkedIn user account. If you have multiple Business Accounts that you would like to link to Marketo, make sure that the user's LinkedIn account that's being authorized has Lead Gen Form Manager Permissions to the Business Account in LinkedIn.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Use LinkedIn Lead Gen Form Filters and Triggers in a Smart Campaign](use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
 >

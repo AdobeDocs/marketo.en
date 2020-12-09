@@ -26,9 +26,7 @@ Creating folders allows you to move images and files, see just the set of images
 
 High five! You're all set for folder utopia. 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Search Uploaded Images and Files](search-uploaded-images-and-files.md)
 >

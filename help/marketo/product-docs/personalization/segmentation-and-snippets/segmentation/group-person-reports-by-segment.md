@@ -51,9 +51,7 @@ You can group your  [person reports](http://docs.marketo.com/display/docs/basic+
 >
 >To learn more about segments and how to create and manage them, see the [Segmentation](http://docs.marketo.com/display/docs/segmentation+and+snippets) deep dive.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Add Custom Columns to a Person Report](../../../../product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
 >

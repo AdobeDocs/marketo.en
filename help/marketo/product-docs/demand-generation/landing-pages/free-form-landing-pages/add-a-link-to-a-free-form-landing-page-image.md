@@ -6,9 +6,7 @@ title: Add a Link to a Free-Form Landing Page Image
 
 # Add a Link to a Free-Form Landing Page Image {#add-a-link-to-a-free-form-landing-page-image}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add an Image to a Free-Form Landing Page](add-an-image-to-a-free-form-landing-page.md)
 >

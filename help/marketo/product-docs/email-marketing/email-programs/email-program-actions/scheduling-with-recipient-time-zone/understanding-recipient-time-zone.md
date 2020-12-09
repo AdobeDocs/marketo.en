@@ -40,9 +40,7 @@ If we're still unable to determine someone's time zone from any combination of t
 >
 >Marketo automatically re-calculates a person's time zone when any of the above input fields change.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Schedule Email Programs with Recipient Time Zone](schedule-email-programs-with-recipient-time-zone.md)
 >* [Head Start for Email Programs](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)

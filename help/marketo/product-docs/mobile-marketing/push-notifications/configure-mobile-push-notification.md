@@ -94,9 +94,7 @@ A deep link URI is made up of three parts: scheme name, path, and identifier. In
 
 That said, your app’s deep link structure may be different from the above example. Your developer has many options in defining deep link URI’s, so ask your developer to send you the URIs (links) for the pages you are interested in using. This will ensure that the URIs you enter in push messages point to the right places. Your developer can [find more information here](http://developers.marketo.com/mobile/enabling-deep-links-in-your-app/).
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Send a Mobile Push Notification](send-a-mobile-push-notification.md)
 >

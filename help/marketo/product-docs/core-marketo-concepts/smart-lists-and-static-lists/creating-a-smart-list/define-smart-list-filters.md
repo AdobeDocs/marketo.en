@@ -6,9 +6,7 @@ title: Define Smart List Filters
 
 # Define Smart List Filters {#define-smart-list-filters}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Smart List](create-a-smart-list.md)
 >* [Find and Add Filters to Smart Lists](find-and-add-filters-to-a-smart-list.md)

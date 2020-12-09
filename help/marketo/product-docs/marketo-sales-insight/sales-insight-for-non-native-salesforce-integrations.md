@@ -8,9 +8,7 @@ title: Sales Insight for Non-Native Salesforce Integrations
 
 If your Marketo account is connected to Salesforce through a customized or non-native integration, use this document to configure Sales Insight.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* Reach out to your Customer Success Manager to enable the “MSI Non-Native” feature for your Marketo instance.
 >* A Salesforce account with MSI Package set-up.

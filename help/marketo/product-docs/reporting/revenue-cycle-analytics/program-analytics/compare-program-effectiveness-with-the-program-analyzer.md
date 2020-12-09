@@ -8,9 +8,7 @@ title: Compare Program Effectiveness with the Program Analyzer
 
 Use the Program Analyzer to identify your most and least effective programs, by comparing program costs, member acquisition, pipeline, and revenue.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Program Analyzer](create-a-program-analyzer.md)
 

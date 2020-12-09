@@ -32,9 +32,7 @@ Excellent work. You will now see keyword ranks for the country or city of your c
 
 ![](assets/image2014-9-17-21-3a8-3a15.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding the Dashboard: SEO Snapshot](understanding-the-seo-dashboard-seo-snapshot.md)
 >* [Understanding the Dashboard: SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)

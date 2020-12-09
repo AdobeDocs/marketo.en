@@ -18,9 +18,7 @@ title: Navigating the Analytics Home Page
 
    Great! You know how to navigate through the Analytics Home!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Understanding My Reports and Group Reports](understanding-my-reports-and-group-reports.md)
 

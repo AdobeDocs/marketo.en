@@ -47,9 +47,7 @@ Hints and [instructions](add-tooltip-instructions-to-a-form-field.md) help peopl
 
 Check it out! Let's go ahead and add some [instructions](add-tooltip-instructions-to-a-form-field.md) now.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Add Tooltip Instructions to a Form Field](add-tooltip-instructions-to-a-form-field.md)
 >

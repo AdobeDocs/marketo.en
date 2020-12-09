@@ -8,9 +8,7 @@ title: Champion/Challenger -From Address
 
 Want to try out a different From Address with no fuss? Here's how.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add an Email Champion/Challenger](add-an-email-champion-challenger.md)
 >

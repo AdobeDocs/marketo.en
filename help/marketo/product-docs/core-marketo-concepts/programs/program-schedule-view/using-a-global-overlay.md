@@ -8,9 +8,7 @@ title: Using a Global Overlay
 
 The global overlay in the program schedule view lets you see your program in relation to other scheduled assets.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >You must have a [Marketing Calendar license](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) to utilize this feature.
 

@@ -40,9 +40,7 @@ Read the following scenario and try to determine the numbers that should be in t
 
 Try all of the examples and you will be an attribution pro!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Attribution Example 2](attribution-example-2.md)
 >* [Attribution Example 3](attribution-example-3.md)

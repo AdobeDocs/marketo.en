@@ -8,9 +8,7 @@ title: Champion/Challenger -Define Champion Criteria
 
 Once you've set up your test type, you need to define the champion criteria. Here's how.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add an Email Champion/Challenger](add-an-email-champion-challenger.md)
 >

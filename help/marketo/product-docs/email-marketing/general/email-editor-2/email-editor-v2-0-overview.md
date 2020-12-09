@@ -100,9 +100,7 @@ Lots of great new features! Have fun!
 >
 >If you want to delve even deeper, check out this [helpful video](https://nation.marketo.com/videos/1463).
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Email Template Syntax](email-template-syntax.md)
 >

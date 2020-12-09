@@ -34,8 +34,6 @@ title: Edit Your Default Branding Domain with Workspaces
 
 Now, you can [add additional branding domains](add-an-additional-branding-domain-with-workspaces.md) you need for the workspaces. 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Add an Additional Branding Domain with Workspaces](add-an-additional-branding-domain-with-workspaces.md)

@@ -142,9 +142,7 @@ Opportunity Analysis gives you access to all lead, company and opportunity relat
    | Opportunity Amount (Open) |Total amount for open opportunities. If more than one lead is associated with an opportunity, allocation amount is based on lead score. |
    | Opportunity Amount (Won) |Total amount for won opportunities. If more than one lead is associated with an opportunity, allocation amount is based on lead score. |
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a Revenue Explorer Report](create-a-revenue-explorer-report.md)
 >* [Adding Fields to a Revenue Explorer Report](adding-fields-to-a-revenue-explorer-report.md)

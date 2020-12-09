@@ -60,9 +60,7 @@ For advanced developers, you can use  [Velocity scripts](http://velocity.apache.
 
 Now you can use this token in your emails. It will run the script every time an email is sent.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Add an Email Script Token to Your Email](add-an-email-script-token-to-your-email.md)
 >

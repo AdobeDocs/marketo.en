@@ -52,9 +52,7 @@ If you are changing the default locale for your users, you may also want to chan
 
    Congratulations! You have changed your location settings for the subscription.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Select Your Language, Locale and Time Zone](select-your-language-locale-and-time-zone.md)
 >

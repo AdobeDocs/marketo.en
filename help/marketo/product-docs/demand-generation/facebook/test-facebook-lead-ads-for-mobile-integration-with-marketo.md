@@ -8,9 +8,7 @@ title: Test Facebook Lead Ads for Mobile Integration with Marketo
 
 After you create your Lead Ad, you should test it!
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >You must [Set up the Facebook Lead Ads Integration](set-up-facebook-lead-ads.md).
 

@@ -19,15 +19,15 @@ The Asset Picker allows [!DNL Marketo] customers to access, select, and import A
 >
 >Currently, this feature is only fully supported in Firefox. It is not supported in Safari, and it might not work in the latest version of Chrome, depending on your SameSite cookie settings.
 
-1. In [!UICONTROL Design Studio], select [!UICONTROL **Images and Files**].
+1. In [!UICONTROL Design Studio], select **[!UICONTROL Images and Files]**.
 
    ![Image One](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-1.png)
 
-1. Click the [!UICONTROL Images and Files] drop-down and select [!UICONTROL **Import Image or File**].
+1. Click the [!UICONTROL Images and Files] drop-down and select **[!UICONTROL Import Image or File]**.
 
    ![Image Two](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-2.png)
 
-1. Click the radio button next to [!DNL Adobe Experience Manager] and click [!UICONTROL **Next**].
+1. Click the radio button next to [!DNL Adobe Experience Manager] and click **[!UICONTROL Next]**.
 
    ![Image Three](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-3.png)
 
@@ -35,7 +35,7 @@ The Asset Picker allows [!DNL Marketo] customers to access, select, and import A
 
    ![Image Four](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-4.png)
 
-1. Choose your folder. Select your desired images (you can choose up to 10) and click [!UICONTROL **Select**].
+1. Choose your folder. Select your desired images (you can choose up to 10) and click **[!UICONTROL Select]**.
 
    ![Image Five](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -43,11 +43,11 @@ The Asset Picker allows [!DNL Marketo] customers to access, select, and import A
    >
    >Images cannot exceed 100MB in size.
 
-1. Verify the images you've chosen, select the destination folder ([!UICONTROL Images and Files] is the default) and click [!UICONTROL **Next**].
+1. Verify the images you've chosen, select the destination folder ([!UICONTROL Images and Files] is the default) and click **[!UICONTROL Next]**.
 
    ![Image Six](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-6.png)
 
-And that's it! Click [!UICONTROL **Close**] to return to Images and Files.
+And that's it! Click **[!UICONTROL Close]** to return to Images and Files.
 
    ![Image Seven](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-7.png)
 

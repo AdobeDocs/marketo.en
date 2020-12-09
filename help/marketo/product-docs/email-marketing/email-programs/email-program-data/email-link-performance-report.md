@@ -69,9 +69,7 @@ Create an Email Link Performance report to see how well the links in your emails
 >
 >If you want to know exactly what an individual person did, you can open up the [Activity Log](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) in the [Person Detail](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) page from the Members tab in the program.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Email Performance Report](email-performance-report.md)
 >* [Filter Assets in an Email Report](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

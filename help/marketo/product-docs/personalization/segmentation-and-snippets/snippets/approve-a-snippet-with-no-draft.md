@@ -33,9 +33,7 @@ No-Draft is triggered each time a snippet is approved. This includes a snippet t
 >
 >This feature is designed to save time with the snippet approval workflow. However, there are a few limitations to be aware of. Please see [this document](https://nation.marketo.com/docs/DOC-4415) for details. The document also contains error handling and troubleshooting information.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Enable No-Draft for Snippets](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
 

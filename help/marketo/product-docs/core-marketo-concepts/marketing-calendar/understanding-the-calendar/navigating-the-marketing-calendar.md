@@ -8,9 +8,7 @@ title: Navigating the Marketing Calendar
 
 Navigating around the Marketing Calendar is easy as one, two, three!
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Make sure you have a [Marketing Calendar license](issue-revoke-a-marketing-calendar-license.md) - otherwise the Marketing Calendar tile won't show up in My Marketo.
 

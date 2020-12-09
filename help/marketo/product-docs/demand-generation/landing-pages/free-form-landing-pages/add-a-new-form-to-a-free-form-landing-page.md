@@ -8,9 +8,7 @@ title: Add a New Form to a Free-Form Landing Page
 
 Form, meet landing page. Landing page, meet form.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Form](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [Create a Free-Form Landing Page](create-a-free-form-landing-page.md)

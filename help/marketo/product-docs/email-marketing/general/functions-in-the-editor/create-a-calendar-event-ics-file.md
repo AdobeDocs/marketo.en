@@ -26,9 +26,7 @@ A Calendar File token allows you to add a calendar event (.ics) link to your Mar
 
 Mission accomplished! Make sure to test it out.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Include a Calendar Event (.ics) in an Email](include-a-calendar-event-ics-in-an-email.md)
 >* [Include a Calendar Event ICS File in a Landing Page](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)

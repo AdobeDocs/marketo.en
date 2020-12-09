@@ -13,11 +13,11 @@ Here's how to set up a CRM Campaign token for use in your programs and campaign 
 >
 >CRM Campaign My Tokens are only available for Salesforce integrations.
 
-1. In the My Tokens tab of your program or folder, drag a [!UICONTROL **CRM Campaign**] token to the Local Tokens canvas.
+1. In the My Tokens tab of your program or folder, drag a **[!UICONTROL CRM Campaign]** token to the Local Tokens canvas.
 
    ![Image One](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-1.png)
 
-2. Enter a name for your new token, then select a CRM campaign from the drop-down. Click [!UICONTROL **Save**].
+2. Enter a name for your new token, then select a CRM campaign from the drop-down. Click **[!UICONTROL Save]**.
 
    ![Image Two](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-2.png)
 

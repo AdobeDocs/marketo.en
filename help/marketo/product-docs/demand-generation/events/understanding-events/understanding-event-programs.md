@@ -32,9 +32,7 @@ Events can automatically connect to your [webinar provider](launchpoint-event-pa
 
 `<iframe width="630" height="470" src="//play.vidyard.com/rvsNpqTUpsPd7KxCovVVva.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`  
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >Get started today with these helpful links:
 >

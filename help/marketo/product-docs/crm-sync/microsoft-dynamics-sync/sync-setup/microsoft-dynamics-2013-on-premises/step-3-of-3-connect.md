@@ -14,9 +14,7 @@ title: Step 3 of 3 -Connect Marketo and Dynamics (2013 On-Premises)
 
 Alright! We installed the solution and configured the sync user. Next, we need to connect Marketo and Dynamics.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Step 1 of 3: Install the Marketo Solution in Dynamics (2013 On-Premises)](step-1-of-3-install.md)
 >* [Step 2 of 3: Configure Sync User for Marketo (2013 On-Premises)](step-2-of-3-configure.md)

@@ -5,7 +5,7 @@ description: Campaign Folder Overview Tab
 
 # Campaign Folder: Overview Tab
 
-There are two sections under the campaign folder [!UICONTROL Overview] tab: [!UICONTROL **Details**] and [!UICONTROL **Reports**].
+There are two sections under the campaign folder [!UICONTROL Overview] tab: **[!UICONTROL Details]** and **[!UICONTROL Reports]**.
 
    ![Image One](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
@@ -15,7 +15,7 @@ The main [!UICONTROL Details] page displays general information about your campa
 
    ![Image One](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-2.png)
 
-[!UICONTROL **Folder Actions**]
+**[!UICONTROL Folder Actions]**
 
 Click the Folder Actions drop-down in the top right for quick access to basic functions.
 

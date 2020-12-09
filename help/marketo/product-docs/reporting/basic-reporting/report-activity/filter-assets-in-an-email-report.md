@@ -36,9 +36,7 @@ Focus your [Email Performance](../../../../product-docs/email-marketing/email-pr
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Filter Assets in a Campaign Email Reports](filter-assets-in-a-campaign-email-reports.md)
 >

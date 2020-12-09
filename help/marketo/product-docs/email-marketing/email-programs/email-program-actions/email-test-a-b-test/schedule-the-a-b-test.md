@@ -8,9 +8,7 @@ title: Schedule the A/B Test
 
 Once you have added an A/B test to an email program and defined the winner criteria you will need to schedule when the test begins. Here's how.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add an A/B Test](add-an-a-b-test.md)
 >

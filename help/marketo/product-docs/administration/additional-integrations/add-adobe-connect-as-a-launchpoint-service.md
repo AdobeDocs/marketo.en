@@ -59,9 +59,7 @@ Marketo manages your Adobe Connect webinar registration and attendance.
 
    ![](assets/adobe-connect-service.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >Learn how to [create an event with Adobe Connect](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
 

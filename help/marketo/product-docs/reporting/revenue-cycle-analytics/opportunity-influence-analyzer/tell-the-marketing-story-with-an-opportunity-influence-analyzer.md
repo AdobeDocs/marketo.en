@@ -8,9 +8,7 @@ title: Tell the Marketing Story with an Opportunity Influence Analyzer
 
 Use an Opportunity Influence Analyzer to illustrate marketing's role in important opportunities. Show how marketing influenced an opportunity, from first touch to opportunity creation and win, and beyond.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create an Opportunity Influence Analyzer](create-an-opportunity-influence-analyzer.md)
 >

@@ -43,9 +43,7 @@ Filter content by selecting one or more categories. Then, set up the date or dat
 
 1. Now, analytics displays for content in the selected date range.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Add New Content](add-new-content.md)
 >* [Delete Content](delete-content.md)

@@ -8,9 +8,7 @@ title: Set up Account Insight
 
 Here's how to set up Account Insight.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >ABM account score [must be configured](http://docs.marketo.com/display/DOCS/Account+Score) first.
 

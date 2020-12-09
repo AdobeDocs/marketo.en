@@ -8,9 +8,7 @@ title: Step 2 of 3 -Set up Marketo Sync User in Dynamics
 
 Let's get started by creating a user account.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Step 1 of 3: Install the Marketo Solution (Online)](step-1-of-3-install.md)
 

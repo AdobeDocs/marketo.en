@@ -105,9 +105,7 @@ Right click on an email card to preview it.
 
 And that's the scoop on viewing your email campaigns. Now, you're a pro!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Marketo Moments](understanding-marketo-moments.md)
 >* [Understanding Event Cards](understanding-event-cards.md)

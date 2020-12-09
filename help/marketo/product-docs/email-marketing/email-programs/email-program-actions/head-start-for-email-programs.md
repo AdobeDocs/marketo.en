@@ -6,9 +6,7 @@ title: Head Start for Email Programs
 
 # Head Start for Email Programs {#head-start-for-email-programs}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create an Email Program](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >

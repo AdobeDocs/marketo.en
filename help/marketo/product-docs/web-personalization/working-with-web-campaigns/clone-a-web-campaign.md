@@ -30,9 +30,7 @@ Use the clone feature on the Web Campaigns page to copy the campaign settings an
    >
    >All content in the web campaign is copied into the clone campaign except split testing, so don't forget to add a split test group to the cloned campaign if you want to test it against others.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a New In Zone Web Campaign](create-a-new-in-zone-web-campaign.md)
 >* [Create a New Widget Web Campaign](create-a-new-widget-web-campaign.md)

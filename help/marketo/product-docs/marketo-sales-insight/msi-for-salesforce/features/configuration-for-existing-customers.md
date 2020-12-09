@@ -8,9 +8,7 @@ title: Configuration for Existing Customers
 
 Please set up the following configuration in order to begin using the new Insights Dashboard.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Please make sure you have upgraded your Salesforce package to the latest version
 

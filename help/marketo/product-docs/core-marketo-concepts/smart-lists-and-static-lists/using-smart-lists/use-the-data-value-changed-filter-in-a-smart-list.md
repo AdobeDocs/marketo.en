@@ -8,9 +8,7 @@ title: Use the Data Value Changed Filter in a Smart List
 
 Values are constantly changing and being updated in your Marketo database. Sometimes instead of looking for a specific value, you want to look for people that have had a change in value. Here's how.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >

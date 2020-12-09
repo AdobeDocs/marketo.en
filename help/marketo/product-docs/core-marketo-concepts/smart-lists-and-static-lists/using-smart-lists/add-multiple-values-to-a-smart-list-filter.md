@@ -6,9 +6,7 @@ title: Add Multiple Values to a Smart List Filter
 
 # Add Multiple Values to a Smart List Filter {#add-multiple-values-to-a-smart-list-filter}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [Find and Add Filters to a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)

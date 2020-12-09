@@ -14,9 +14,7 @@ The Asset Picker allows Marketo customers to access, select, and import AEM asse
 >
 >Not all customers have purchased this feature. Please contact your Customer Success Manager for details.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Make sure you've already performed the [AEM Configuration](https://docs.marketo.com/x/FwPLAQ).
 

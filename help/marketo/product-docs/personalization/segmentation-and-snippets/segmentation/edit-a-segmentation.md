@@ -63,9 +63,7 @@ Making changes to your existing segmentations is easy. Here's the low down.
 
 Feel free to experiment on segmentations that are not used in dynamic content.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Delete a Segmentation](delete-a-segmentation.md)
 >

@@ -28,9 +28,7 @@ If you make one by accident or no longer need one, you can delete it.
 
 Bam! You can also  [delete specific statuses from channels](delete-a-program-status-from-a-program-channel.md).
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Delete a Program Status From a Program Channel](delete-a-program-status-from-a-program-channel.md)
 >

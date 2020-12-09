@@ -8,9 +8,7 @@ title: Add a Background Image to a Presentation
 
 Customize a presentation by selecting a background image.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Presentation](create-a-presentation.md)
 >

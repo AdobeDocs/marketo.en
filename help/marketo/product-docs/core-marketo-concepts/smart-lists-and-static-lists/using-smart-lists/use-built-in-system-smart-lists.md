@@ -43,9 +43,7 @@ Here's a summary of what the built-in smart lists do:
 >
 >System smart lists can't be deleted. With the exception of the Possible Duplicates list, they cannot be edited, either.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >

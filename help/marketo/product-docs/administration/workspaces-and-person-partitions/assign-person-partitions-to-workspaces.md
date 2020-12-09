@@ -18,9 +18,7 @@ Here's how to edit the person partition / workspace assignments:
 >
 >**Admin Permissions Required**
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Create a New Workspace](create-a-new-workspace.md)
 

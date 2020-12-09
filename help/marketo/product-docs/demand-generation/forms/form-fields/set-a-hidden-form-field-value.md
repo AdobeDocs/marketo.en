@@ -8,9 +8,7 @@ title: Set a Hidden Form Field Value
 
 Hidden fields are usually populated dynamically. They are not shown to the person filling out the form. Here's how to set the value.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Set a Form Field as Hidden](set-a-form-field-as-hidden.md)
 

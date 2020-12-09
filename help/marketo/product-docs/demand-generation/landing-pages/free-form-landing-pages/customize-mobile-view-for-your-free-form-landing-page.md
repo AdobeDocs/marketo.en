@@ -6,9 +6,7 @@ title: Customize Mobile View for Your Free-Form Landing Page
 
 # Customize Mobile View for Your Free-Form Landing Page {#customize-mobile-view-for-your-free-form-landing-page}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add a Mobile View for Your Free-Form Landing Page](add-a-mobile-view-for-your-free-form-landing-page.md)
 >

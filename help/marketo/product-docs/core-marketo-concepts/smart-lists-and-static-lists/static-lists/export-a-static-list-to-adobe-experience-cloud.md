@@ -10,9 +10,7 @@ title: Export a Static List to Adobe Experience Cloud
 >
 >A HIPAA-ready deployment of a Marketo instance cannot use this feature.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Set Up Adobe Experience Cloud Audience Sharing](http://docs.marketo.com/x/D4GMAg)
 

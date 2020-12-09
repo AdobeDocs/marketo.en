@@ -46,9 +46,7 @@ The important icons in the rich text editor include:
 >
 >Web Tokens use [people data](http://docs.marketo.com/display/DOCS/Manage+Person+Data) from your Marketo Database that is managed in Web Personalization under Account Settings > Database. If the web token is a new database field not yet in Account Settings > Database, it will automatically be added and can take up to 24 hours to activate.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Using the Rich Text Editor](http://docs.marketo.com/display/docs/using+the+rich+text+editor#usingtherichtexteditor-features)
 

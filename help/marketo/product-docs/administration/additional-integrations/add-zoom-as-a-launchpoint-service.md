@@ -48,9 +48,7 @@ Marketo manages your Zoom registration and attendance.
 >
 >When you update your password in Zoom, you must update your password in Marketo as well.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >Learn how to [create an event with Zoom](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
 

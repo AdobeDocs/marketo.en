@@ -18,9 +18,7 @@ Want to reschedule a batch smart campaign run? Drag and drop them into the futur
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Rescheduling an Entire Program from the Schedule View](rescheduling-an-entire-program-from-the-schedule-view.md)
 

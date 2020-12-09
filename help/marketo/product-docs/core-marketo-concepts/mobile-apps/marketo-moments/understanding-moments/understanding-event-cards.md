@@ -19,9 +19,7 @@ There are two event cards. The On-Deck card, sent a few hours before the event, 
 
 You're good!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Marketo Moments](understanding-marketo-moments.md)
 >* [Understanding Email Program Cards](understanding-email-program-cards.md)

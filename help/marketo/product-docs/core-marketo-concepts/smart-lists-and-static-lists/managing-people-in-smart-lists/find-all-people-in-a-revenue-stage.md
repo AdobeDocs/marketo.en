@@ -6,9 +6,7 @@ title: Find All People in a Revenue Stage
 
 # Find All People in a Revenue Stage {#find-all-people-in-a-revenue-stage}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >

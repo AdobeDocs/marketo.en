@@ -84,9 +84,7 @@ Here's a sample event, including campaigns, for an ON24 webinar. When you build 
 
 ![](assets/ten.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Marketo ON24 Adapter Events](understanding-marketo-on24-adapter-events.md)
 >

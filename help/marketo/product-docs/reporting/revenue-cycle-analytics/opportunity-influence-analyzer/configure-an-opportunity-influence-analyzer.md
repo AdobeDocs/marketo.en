@@ -8,9 +8,7 @@ title: Configure an Opportunity Influence Analyzer
 
 Once you  [create an Opportunity Influence Analyzer](create-an-opportunity-influence-analyzer.md), you can configure the types of [interesting moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) that are included.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create an Opportunity Influence Analyzer](create-an-opportunity-influence-analyzer.md)
 

@@ -44,4 +44,4 @@ Nope! We made a bunch of easy tutorials. [Get started here](/help/marketo/gettin
 
 ## Why am I still asking questions? {#why-am-i-still-asking-questions}
 
-I don’t know, but we are always happy to help. We are in this together!
+I don’t know, but we're always happy to help. We're in this together!

@@ -109,9 +109,7 @@ Once you've created your engagement program, you need to add content to the stre
 
 Great job! You now know different ways of adding content to your program streams. Add as many as you need for your nurture. See the related article below for more details.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Adding a Program to an Engagement Program Stream](adding-a-program-to-an-engagement-program-stream.md)
 >

@@ -8,9 +8,7 @@ title: Add a Snippet to a Landing Page
 
 Snippets are little bits of HTML that can follow rules and hold personalized content.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 >

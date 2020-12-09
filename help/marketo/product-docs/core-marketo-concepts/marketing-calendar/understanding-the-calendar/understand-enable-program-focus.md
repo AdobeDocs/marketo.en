@@ -30,9 +30,7 @@ The Marketing Calendar gives you a bird's-eye view of things, but it also allows
 
 Awesome! Now go ahead and learn to interact with entries.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create Entries Directly In the Marketing Calendar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
 >* [Edit Entries Directly In the Marketing Calendar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)

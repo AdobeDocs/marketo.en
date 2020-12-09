@@ -67,9 +67,7 @@ You need to install the Marketo Sales Insight app in your Salesforce subscriptio
 
 Great job! Now you've installed and deployed Marketo Sales Insight. Go ahead and configure it for your sales team and watch the sales skyrocket.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Configure Marketo Sales Insight in Salesforce Professional Edition](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >

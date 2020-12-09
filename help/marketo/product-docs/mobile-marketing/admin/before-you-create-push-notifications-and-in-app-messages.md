@@ -25,9 +25,7 @@ For in-app messaging, the display trigger is set to **App Open** by default. If 
 
 After you've got all of your preparation done for in-app messages and push notifications, it's time to get started!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create an In-App Message](http://docs.marketo.com/display/docs/create+an+in-app+message)
 >

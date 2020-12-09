@@ -54,9 +54,7 @@ The Keyword Rank Trends graph pulls your keywords with the five highest monthly 
 
 Easy, right? Now let's check out the Recommendations section of this dashboard.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding the Dashboard: SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
 >

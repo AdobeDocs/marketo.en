@@ -6,9 +6,7 @@ title: Step 1 of 3 -Add Marketo Fields to Salesforce (Enterprise/Unlimited)
 
 # Step 1 of 3: Add Marketo Fields to Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >You must have access to Salesforce API's to sync between Marketo and Salesforce.
 

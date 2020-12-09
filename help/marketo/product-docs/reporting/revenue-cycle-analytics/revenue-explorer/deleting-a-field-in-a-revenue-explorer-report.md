@@ -16,9 +16,7 @@ Sometimes, you might drag a wrong field into the report. Here's how to remove it
    >
    >The trash can is hidden until you start dragging a field.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Saving a Revenue Explorer Report](saving-a-revenue-explorer-report.md)
 >

@@ -32,9 +32,7 @@ If a person ends up not being registered but rather set to the status Registrati
 
 Marketo automatically pulls in the attendance information at approximately 11pm Pacific each night. To manually update attendance information, click **Refresh from Webinar Provider** under **Event Actions**.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Marketo ON24 Adapter Events](understanding-marketo-on24-adapter-events.md)
 >
