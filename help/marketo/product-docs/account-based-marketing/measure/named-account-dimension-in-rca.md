@@ -49,9 +49,7 @@ Coverage of quality leads and engagement within named accounts
 
 ![](assets/five-2.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Revenue Cycle Analytics](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
 >

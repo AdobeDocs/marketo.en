@@ -58,9 +58,7 @@ Discover which programs and channels are giving you the biggest bang for your ma
 
 ![](assets/november-custom-report.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Compare Channel Effectiveness with the Program Analyzer](compare-channel-effectiveness-with-the-program-analyzer.md)
 >* [Compare Program Effectiveness with the Program Analyzer](compare-program-effectiveness-with-the-program-analyzer.md)

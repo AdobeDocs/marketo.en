@@ -8,9 +8,7 @@ title: Using the Success Path Analyzer
 
 Use a Success Path Analyzer to explore the specific details that reflect both flow (amount) and velocity (speed, in terms of days) of people through the stages of your [Revenue Cycle Model](understanding-revenue-models.md).
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Create a Success Path Analyzer](create-a-success-path-analyzer.md)
 

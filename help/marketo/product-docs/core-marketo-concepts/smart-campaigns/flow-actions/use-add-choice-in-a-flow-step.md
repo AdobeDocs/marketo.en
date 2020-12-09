@@ -6,9 +6,7 @@ title: Use Add Choice in a Flow Step
 
 # Use Add Choice in a Flow Step {#use-add-choice-in-a-flow-step}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add a Flow Step to a Smart Campaign](add-a-flow-step-to-a-smart-campaign.md)
 >

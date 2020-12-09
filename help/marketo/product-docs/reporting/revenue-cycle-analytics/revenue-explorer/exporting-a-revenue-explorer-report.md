@@ -30,9 +30,7 @@ You can export any revenue explorer report and share it with anyone.
 
    Sweet! Send this file around and impress your peers with your ninja-like marketing skills.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Subscribe to a Revenue Explorer Report](subscribe-to-a-revenue-explorer-report.md)
 >

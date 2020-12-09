@@ -22,8 +22,6 @@ In [User Settings](/help/marketo/product-docs/web-personalization/getting-starte
 >
 >We recommended that you set up sales executives with view-only permission in Marketo Web Personalization. This means they can view all pages, but not create, edit, or delete any features.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Email Reports](email-reports.md)

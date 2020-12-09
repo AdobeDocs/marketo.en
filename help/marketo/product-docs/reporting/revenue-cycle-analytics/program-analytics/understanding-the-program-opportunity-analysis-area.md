@@ -181,8 +181,6 @@ Whereas measures (blue dots) are calculated, and require some thought and explan
 
 *&#42;All of the Opportunities that gave any type of attribution credit to a Program. Opportunities can be influenced by one or more leads and by one or more Programs.*
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Create a Revenue Explorer Report](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

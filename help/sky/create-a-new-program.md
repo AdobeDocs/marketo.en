@@ -9,7 +9,7 @@ description: Create a New Program
 
 Programs are one of the most important elements in [!DNL Marketo]. You'll use them a lot!
 
-1. Right-click the workspace globe at the top of the tree and select [!UICONTROL **New Program**] from the drop-down.
+1. Right-click the workspace globe at the top of the tree and select **[!UICONTROL New Program]** from the drop-down.
 
    ![Image One](/help/sky/assets/programs/create-a-new-program/create-a-new-program-1.png)
 
@@ -17,6 +17,6 @@ Programs are one of the most important elements in [!DNL Marketo]. You'll use th
 
    ![Image Two](/help/sky/assets/programs/create-a-new-program/create-a-new-program-2.png)
 
-1. Optionally, you can enter a [!UICONTROL Description] and/or add [!UICONTROL Labels] to your program. Click [!UICONTROL **Add**] to finish creating the program.
+1. Optionally, you can enter a [!UICONTROL Description] and/or add [!UICONTROL Labels] to your program. Click **[!UICONTROL Add]** to finish creating the program.
 
    ![Image Three](/help/sky/assets/programs/create-a-new-program/create-a-new-program-3.png)

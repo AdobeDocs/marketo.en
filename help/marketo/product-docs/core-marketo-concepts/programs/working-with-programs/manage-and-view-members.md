@@ -86,9 +86,7 @@ You can change the status of your people inside the members grid.
 
 So many features, but they're all pretty straightforward. Enjoy!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a Program Performance Report](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
 >

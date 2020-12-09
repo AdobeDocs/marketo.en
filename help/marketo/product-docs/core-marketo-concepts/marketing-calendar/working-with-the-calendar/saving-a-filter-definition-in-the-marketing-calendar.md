@@ -8,9 +8,7 @@ title: Saving a Filter Definition in the Marketing Calendar
 
 Saving a filter lets you switch back and forth between different filter definitions.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Filtering the Marketing Calendar](filtering-the-marketing-calendar.md)
 >

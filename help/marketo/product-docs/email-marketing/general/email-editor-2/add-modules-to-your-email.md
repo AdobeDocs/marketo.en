@@ -58,9 +58,7 @@ There are two ways to move a module.
 
 That's all there is to it.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Email Template Syntax](email-template-syntax.md)
 

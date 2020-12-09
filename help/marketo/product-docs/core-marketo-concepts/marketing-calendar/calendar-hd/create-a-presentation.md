@@ -32,9 +32,7 @@ Create a presentation to project your team's calendar views and goals on an HDTV
 
    Nice job! Now you're ready to customize your presentation.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Customize a Presentation](customize-a-presentation.md)
 >

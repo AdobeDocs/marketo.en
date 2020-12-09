@@ -38,9 +38,7 @@ Apps normally start out in a sandbox environment, where initial development and 
 
    Nice! Now let's configure your app to work with Android and iOS devices.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Configure Mobile App Android Push Access](configure-mobile-app-android-push-access.md)
 >* [Configure Mobile App iOS Push Access](configure-mobile-app-ios-push-access.md)

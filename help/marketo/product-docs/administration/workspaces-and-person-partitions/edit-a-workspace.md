@@ -62,9 +62,7 @@ Sometimes you need to make changes in a Workspace. It's easy.
    >
    >You can't change the workspace language.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a New Workspace](create-a-new-workspace.md)
 >* [Understanding Workspaces and Person Partitions](understanding-workspaces-and-person-partitions.md)

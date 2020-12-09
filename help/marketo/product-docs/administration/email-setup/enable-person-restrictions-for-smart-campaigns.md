@@ -51,9 +51,7 @@ There is a feature in Marketo to limit the ***maximum ***number of people that c
 
 Bingo! You just turned on the safety switch. Good idea, right? 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Override Person Restrictions in a Smart Campaign](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
 >

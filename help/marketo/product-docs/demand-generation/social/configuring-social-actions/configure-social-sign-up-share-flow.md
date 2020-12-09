@@ -106,9 +106,7 @@ If you choose  the values of the page’s  tags (og:title, og:caption, and og:de
 >
 >If you upload an image, you will not see it here until you close and reopen the social app editor.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >Next, you can click **Finish > Approve and Close** and put your social app on a landing page. You can also configure [person capture](configure-person-capture-for-a-social-app.md) or the [re-share prompt](configure-re-share-email-and-prompt-for-a-social-app.md).
 

@@ -27,9 +27,7 @@ The template you choose determines what landing page editing mode you'll be work
 
 ![](assets/two-1.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Free-form Landing Pages](http://docs.marketo.com/display/public/DOCS/Free-Form+Landing+Pages)
 >* [Guided Landing Pages](http://docs.marketo.com/display/DOCS/Guided+Landing+Pages)

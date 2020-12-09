@@ -8,9 +8,7 @@ title: Sharing a Filter Definition in the Marketing Calendar
 
 Filters can be shared amongst different users.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Filter in the Marketing Calendar](filtering-the-marketing-calendar.md)
 >* [Saving a Filter Definition in the Marketing Calendar](saving-a-filter-definition-in-the-marketing-calendar.md)

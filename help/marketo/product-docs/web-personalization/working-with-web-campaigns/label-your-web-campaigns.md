@@ -42,9 +42,7 @@ Cool! You now know how to create labels and assign them to campaigns.
 
    ![](assets/web-campaigns-label-showing.jpg)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [L](create-a-new-in-zone-web-campaign.md) [abel a Segment](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
 >

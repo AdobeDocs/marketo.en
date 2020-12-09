@@ -34,8 +34,6 @@ Having reputable sites link to your content can increase your page ranking. Here
 
 Right on! Dive deeper here.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Page Detail Drill Down](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)

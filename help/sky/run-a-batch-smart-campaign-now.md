@@ -13,11 +13,11 @@ Once you're done building your batch campaign, you can choose to run it now or l
 
    ![Image One](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-1.png)
 
-1. Go to the [!UICONTROL **Schedule**] tab and click [!UICONTROL **Add Run**].
+1. Go to the **[!UICONTROL Schedule]** tab and click **[!UICONTROL Add Run]**.
 
    ![Image Two](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-2.png)
 
-1. Make sure [!UICONTROL **Run Now**] is selected and click [!UICONTROL **Confirm**].
+1. Make sure **[!UICONTROL Run Now]** is selected and click **[!UICONTROL Confirm]**.
 
    ![Image Three](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-3.png)
 

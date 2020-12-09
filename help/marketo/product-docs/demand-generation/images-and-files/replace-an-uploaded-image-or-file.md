@@ -40,9 +40,7 @@ title: Replace an Uploaded Image or File
 
 You did it! 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Search Uploaded Images and Files](search-uploaded-images-and-files.md)
 >* [Find the URL of an Uploaded Image or File](find-the-url-of-an-uploaded-image-or-file.md)

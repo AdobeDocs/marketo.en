@@ -10,9 +10,7 @@ It's a good idea to test any emails that you use frequently to make sure they're
 The existing email you are testing is considered the champion. Any variants you create within a test are considered the challengers. You determine the percentage of people that receive either the champion content or the challenger content. If you've defined multiple challengers, they will be equally distributed amongst the challenger group.    
 Here's how to get started.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Program](../../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [Create an Email](../../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)

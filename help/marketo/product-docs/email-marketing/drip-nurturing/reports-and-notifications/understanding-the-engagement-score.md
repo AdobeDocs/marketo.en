@@ -24,9 +24,7 @@ Engagement scores are universal for all customers. You can compare them to see w
 >
 >The proprietary algorithm also applies to the engagement score in email programs.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Engagement Programs](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
 >

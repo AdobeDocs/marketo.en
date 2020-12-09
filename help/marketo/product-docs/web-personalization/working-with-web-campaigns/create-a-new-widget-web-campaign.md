@@ -118,9 +118,7 @@ A web campaign is a customized reaction associated with a specific segment and c
 
 1. A confirmation message appears to confirm if you want to delete the web campaign.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a New In Zone Web Campaign](create-a-new-in-zone-web-campaign.md)
 >* [Create a New Dialog Web Campaign](create-a-new-dialog-web-campaign.md)

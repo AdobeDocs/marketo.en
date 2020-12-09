@@ -38,9 +38,7 @@ In this example, let's find all people in California with a score over 50.
 
 Perfect! Let's go ahead and define these filters.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a Smart List](create-a-smart-list.md)
 >* [Define Smart List Filters](define-smart-list-filters.md)

@@ -48,9 +48,7 @@ Once you've created different segments, you can add dynamic content blocks into 
 
 Try it out and tell us your success story!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a Segmentation](create-a-segmentation.md)
 >* [Create a Snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)

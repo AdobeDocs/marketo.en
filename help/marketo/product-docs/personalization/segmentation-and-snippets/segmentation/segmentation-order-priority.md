@@ -8,9 +8,7 @@ title: Segmentation Order Priority
 
 It is important to understand how **order** sets the priority for evaluation of your people in a segmentation.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Segmentation](create-a-segmentation.md)
 >* [Define Segment Rules](define-segment-rules.md)

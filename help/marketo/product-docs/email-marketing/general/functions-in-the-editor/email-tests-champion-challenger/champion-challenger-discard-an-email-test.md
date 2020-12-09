@@ -8,9 +8,7 @@ title: Champion/Challenger -Discard an Email Test
 
 If, at any point, you decide you don't want to continue running your email test, you can discard it. Here's how.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Champion/Challenger: Approve Your Email Test](champion-challenger-approve-your-email-test.md)
 >

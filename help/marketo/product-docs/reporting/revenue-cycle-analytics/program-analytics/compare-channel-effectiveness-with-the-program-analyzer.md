@@ -8,9 +8,7 @@ title: Compare Channel Effectiveness with the Program Analyzer
 
 Use the Program Analyzer to compare channel costs, member acquisition, pipeline, revenue and more, to identify your most and least effective channels.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Program Analyzer](create-a-program-analyzer.md)
 

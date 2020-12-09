@@ -36,9 +36,7 @@ See how many people filled out the `forms` in your `landing pages`, and how many
 >
 >Learn about other interesting reports in the  [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) deep dive. 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Filter your landing page performance report](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) by local or global assets.
 >

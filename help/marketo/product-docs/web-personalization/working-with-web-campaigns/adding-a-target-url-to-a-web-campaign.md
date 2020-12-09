@@ -72,9 +72,7 @@ Clicking on the plus icon (![--](assets/image2015-2-18-8-3a40-3a59.png)) will op
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a New Dialog Web Campaign](create-a-new-dialog-web-campaign.md)
 >* [Create a New In Zone Web Campaign](create-a-new-in-zone-web-campaign.md)

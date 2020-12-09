@@ -6,9 +6,7 @@ title: Preview a Snippet
 
 # Preview a Snippet {#preview-a-snippet}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add Content to a Snippet](add-content-to-a-snippet.md)
 >

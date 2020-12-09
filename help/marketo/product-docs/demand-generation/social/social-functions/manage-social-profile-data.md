@@ -78,9 +78,7 @@ Depending on the network's and user's privacy settings, one or more of these fie
 >
 >Social form fill captures the email address *only* if the person enters it in the form. If you need the email address, you should [make it a required field in your form](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >To capture this information from forms, enable [social form fill](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md).
 

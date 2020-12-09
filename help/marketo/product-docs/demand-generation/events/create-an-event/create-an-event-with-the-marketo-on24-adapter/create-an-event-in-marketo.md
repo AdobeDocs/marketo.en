@@ -16,9 +16,7 @@ When you create the Marketo event, select **Webinar** as the Channel type. You c
 
 Your next step is to [configure event settings and sync Marketo with your webinar](https://docs.marketo.com/x/IRCa).
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Marketo ON24 Adapter Events](understanding-marketo-on24-adapter-events.md)
 >

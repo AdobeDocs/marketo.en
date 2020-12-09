@@ -6,9 +6,7 @@ title: Edit Snippets with Dynamic Content
 
 # Edit Snippets with Dynamic Content {#edit-snippets-with-dynamic-content}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Segmentation](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Create a Snippet](create-a-snippet.md)

@@ -181,9 +181,7 @@ Taps/Tapped Push Notification
 
 ![](assets/image2015-8-21-14-3a3-3a50.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Add a Constraint to a Smart List Filter](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
 >* [Use Inactivity Filters in a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)

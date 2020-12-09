@@ -8,9 +8,7 @@ title: New Account Discovery
 
 New Account Discovery can help you find new accounts to target by using AI-powered recommendations from your ideal customer profile.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Set up Account Profiling](http://docs.marketo.com/x/FgAKAQ)
 

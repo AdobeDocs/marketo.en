@@ -63,9 +63,7 @@ A smart list displays a default set of columns. Did you know you could edit thos
 
 Only you can see the custom views you create in the View drop-down, so tell your friends they need to create their own! 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Use Built-in/System Smart Lists](use-built-in-system-smart-lists.md)
 >* [Create a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)

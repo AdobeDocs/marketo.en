@@ -55,9 +55,7 @@ You can see a lot of information about your pages using the page detail drill do
 
    Pretty sweet, right? Learn more about Pages over here.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Optimize Specific Pages with Targeted Keywords](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
 >

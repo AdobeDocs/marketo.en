@@ -8,9 +8,7 @@ title: Create a Matched Audience on LinkedIn
 
 Create matched audiences from your ABM Account Lists for LinkedIn Ad Targeting.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Add LinkedIn Matched Audiences as a LaunchPoint Service](http://docs.marketo.com/x/I4Fy)
 

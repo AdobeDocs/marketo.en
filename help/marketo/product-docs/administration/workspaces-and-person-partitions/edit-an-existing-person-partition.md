@@ -18,9 +18,7 @@ A person partition is like having a second (or third) database. A partition can 
 >
 >**Admin Permissions Required**
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Person Partition](create-a-person-partition.md)
 >

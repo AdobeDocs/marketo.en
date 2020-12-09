@@ -54,9 +54,7 @@ Marketo can send an email alert with person information to anyone - the sales ow
 
 That's it! Now you know how to use the **Send Alert** flow step. 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Create an Email](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 

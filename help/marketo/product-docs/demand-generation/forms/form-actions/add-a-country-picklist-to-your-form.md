@@ -66,9 +66,7 @@ Follow these instructions to convert the country field to a drop-down with a lis
 
 Since that was so easy, why not do more? How about dynamically showing the State field when a user selects United States as the country in the list? Check out the related article below to find out how to do it.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Dynamically Toggle Visibility of a Form Field](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
 >

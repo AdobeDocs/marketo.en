@@ -13,7 +13,7 @@ Stream content is off by default. Activate content to send it out during engagem
 
    ![Image One](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-1.png)
 
-1. Click the [!UICONTROL **Streams**] tab.
+1. Click the **[!UICONTROL Streams]** tab.
 
    ![Image Two](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-2.png)
 
@@ -21,7 +21,7 @@ Stream content is off by default. Activate content to send it out during engagem
 
    ![Image Three](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-3.png)
 
-1. Select [!UICONTROL **Activate**].
+1. Select **[!UICONTROL Activate]**.
 
    ![Image Four](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-4.png)
 
@@ -31,7 +31,7 @@ Stream content is off by default. Activate content to send it out during engagem
 
 >[!TIP]
 >
->You can also activate all content in a stream by clicking the gear icon at the top and selecting [!UICONTROL **Activate All**].
+>You can also activate all content in a stream by clicking the gear icon at the top and selecting **[!UICONTROL Activate All]**.
 
 ## Deactivate Stream Content
 
@@ -39,7 +39,7 @@ Stream content is off by default. Activate content to send it out during engagem
 
    ![Image Five](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-5.png)
 
-1. Click the [!UICONTROL **Streams**] tab.
+1. Click the **[!UICONTROL Streams]** tab.
 
    ![Image Six](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-6.png)
 
@@ -47,6 +47,6 @@ Stream content is off by default. Activate content to send it out during engagem
 
    ![Image Seven](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-7.png)
 
-1. Select [!UICONTROL **Deactivate**].
+1. Select **[!UICONTROL Deactivate]**.
 
    ![Image Eight](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-8.png)

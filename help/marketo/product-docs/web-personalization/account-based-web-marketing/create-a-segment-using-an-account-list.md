@@ -8,9 +8,7 @@ title: Create a Segment Using an Account List
 
 Here's how to create a segment using an Account List.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a New Account List](../../../product-docs/account-based-marketing/target/account-lists.md)
 >

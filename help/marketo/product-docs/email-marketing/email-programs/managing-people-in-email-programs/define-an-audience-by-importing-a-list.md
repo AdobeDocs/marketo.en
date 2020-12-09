@@ -6,9 +6,7 @@ title: Define an Audience by Importing a List
 
 # Define an Audience by Importing a List {#define-an-audience-by-importing-a-list}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Create an Email for an Email Program](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 

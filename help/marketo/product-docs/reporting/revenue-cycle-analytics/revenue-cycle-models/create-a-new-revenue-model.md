@@ -28,9 +28,7 @@ title: Create a New Revenue Model
 
 Looking sharp! You've just entered the wonderful world of modeling.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >Learn more about [Using Revenue Model Inventory Stages](using-revenue-model-inventory-stages.md).
 

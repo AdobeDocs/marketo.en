@@ -99,9 +99,7 @@ That's it! Keep reading if you want to setup a monthly cadence.
 
 Now you know how to set up a stream cadence!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Recipient Time Zone](../../../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [Schedule Engagement Programs with Recipient Time Zone](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)

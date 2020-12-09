@@ -6,9 +6,7 @@ title: Export a List with Personalized URLs
 
 # Export a List with Personalized URLs {#export-a-list-with-personalized-urls}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Enable Personalized URLs for Your Account](enable-personalized-urls-for-your-account.md)
 >* [Enable Personalized URLs for a Landing Page](enable-personalized-urls-for-a-landing-page.md)

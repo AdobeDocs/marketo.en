@@ -22,9 +22,7 @@ There are certain settings in the creation of your ON24 webinar that are used by
 
 Your next step is to [create an event in Marketo](create-an-event-in-marketo.md).
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Marketo ON24 Adapter Events](understanding-marketo-on24-adapter-events.md)
 >

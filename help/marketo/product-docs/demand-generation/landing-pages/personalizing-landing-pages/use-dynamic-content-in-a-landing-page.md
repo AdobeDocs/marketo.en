@@ -6,9 +6,7 @@ title: Use Dynamic Content in a Landing Page
 
 # Use Dynamic Content in a Landing Page {#use-dynamic-content-in-a-landing-page}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Segmentation](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Create a Free-Form Landing Page](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)

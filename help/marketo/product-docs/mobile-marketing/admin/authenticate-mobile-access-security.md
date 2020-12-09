@@ -10,9 +10,7 @@ To improve security for Mobile users, Marketo provides two new IDs: the Access K
 
 To enable the IDs, you need to acquire the codes and provide them to your IT department so they can set up a secure match.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >To enable this feature, contact Support and request "Vespa Secure Mode."
 

@@ -18,9 +18,7 @@ After you set up your first ad program in Marketo, you can clone and update it f
 
 With separate programs, you then can track the number of conversions from each one and see your programs in Program Analyzer, Opportunity Influence Analyzer, and other Marketo Analytics features.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* Set up a channel tag with status values and program success (for example, Digital Advertising or Social Paid and PPC)
 >* Create or edit a form to pass a query string through with the person

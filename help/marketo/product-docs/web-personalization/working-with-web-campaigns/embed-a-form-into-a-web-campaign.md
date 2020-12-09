@@ -77,9 +77,7 @@ To add CSS code to the script:
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Edit the CSS of a Form Theme](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
 >* [Show Thank You Message Without a Follow-Up Landing Page](http://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)

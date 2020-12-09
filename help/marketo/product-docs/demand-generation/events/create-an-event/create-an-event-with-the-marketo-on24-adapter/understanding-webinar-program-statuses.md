@@ -46,9 +46,7 @@ Here's a brief description of the program statuses associated to the Webinar cha
 >
 >In order for Marketo to pull the No Show status, the people must have been registered *in Marketo*. We are not able to capture No Shows that come from the On24 data feed.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Marketo ON24 Adapter Events](understanding-marketo-on24-adapter-events.md)
 >

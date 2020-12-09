@@ -6,9 +6,7 @@ title: Verify Push Configuration
 
 # Verify Push Configuration {#verify-push-configuration}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Your mobile developer must have added Marketo’s SDK code to your mobile app.
 

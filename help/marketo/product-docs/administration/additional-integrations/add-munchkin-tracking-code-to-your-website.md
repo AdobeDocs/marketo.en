@@ -8,9 +8,7 @@ title: Add Munchkin Tracking Code to Your Website
 
 Marketo's custom JavaScript tracking code, called Munchkin, tracks all individuals who visit your website so you can react to their visits with automated marketing campaigns. Even anonymous visitors are tracked along with their IP addresses and other information. ** Without this tracking code, you will not be able to track visits or other activity on your website!**
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Please ensure that you have access to an experienced JavaScript developer. Marketo Technical Support is not set up to assist with troubleshooting custom JavaScript.
 

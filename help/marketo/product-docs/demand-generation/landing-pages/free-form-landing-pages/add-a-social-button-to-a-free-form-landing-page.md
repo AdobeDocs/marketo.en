@@ -48,8 +48,6 @@ A social button encourages people to share your content with their friends. Drop
 
 Congratulations! You have added a social button to your landing page. Be sure to approve the landing page.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >You're done, but you can change the settings of your social button if necessary. Start with [customizing the button style](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) or  [editing the share messages](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) it presents. 

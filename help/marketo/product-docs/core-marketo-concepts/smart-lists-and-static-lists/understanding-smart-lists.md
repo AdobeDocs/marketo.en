@@ -39,9 +39,7 @@ You add and define the filters to see a specific group of people in the People t
 
 OK, let's get started!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Use Built-in/System Smart Lists](using-smart-lists/use-built-in-system-smart-lists.md)
 >* [Create a Smart List](creating-a-smart-list/create-a-smart-list.md)

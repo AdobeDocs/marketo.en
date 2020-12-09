@@ -26,9 +26,7 @@ Adding a named account to an account list is simple.
 
    That's it!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a Named Account](create-a-named-account.md)
 >

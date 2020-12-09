@@ -8,9 +8,7 @@ title: Install Salesforce Customization for Professional Edition Customers
 
 Customers with Salesforce Professional Edition will have to follow these steps to install customization.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* Sales Connect Admin needs to connect their Salesforce and Sales Connect accounts.
 >* Salesforce Instance used needs to have space to install thirteen Custom Activity Fields.

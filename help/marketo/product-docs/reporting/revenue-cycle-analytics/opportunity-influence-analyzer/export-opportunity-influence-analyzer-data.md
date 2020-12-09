@@ -36,9 +36,7 @@ To receive updates from your [Revenue Cycle Explorer](http://docs.marketo.com/di
 
    ![](assets/image2014-9-17-12-3a42-3a53.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >Learn how to [manage all your report subscriptions](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) in one place.
 

@@ -13,11 +13,11 @@ When people exhaust all content in a stream, [!DNL Marketo] can send you a notif
 
    ![Image One](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-1.png)
 
-1. Click the [!UICONTROL **Setup**] tab.
+1. Click the **[!UICONTROL Setup]** tab.
 
    ![Image Two](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-2.png)
 
-1. Scroll down to [!UICONTROL Settings] and select [!UICONTROL **Off**] (or [!UICONTROL On]).
+1. Scroll down to [!UICONTROL Settings] and select **[!UICONTROL Off]** (or [!UICONTROL On]).
 
    ![Image Three](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-3.png)
 

@@ -55,9 +55,7 @@ Fields define the specific information used by a custom object. Link fields have
    >
    >If you're building a one-to-many structure, you need to add a Link field to your custom object. For a many-to-many structure, you don't need a link field in the custom object, but you must add two link fields in the intermediary object. See [Add Marketo Custom Object Link Fields](add-marketo-custom-object-link-fields.md) to create the link fields, and [Understanding Marketo Custom Objects](understanding-marketo-custom-objects.md) for more information about types of custom objects.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Add Marketo Custom Object Link Fields](add-marketo-custom-object-link-fields.md)
 >* [Edit and Delete a Marketo Custom Object](edit-and-delete-a-marketo-custom-object.md)

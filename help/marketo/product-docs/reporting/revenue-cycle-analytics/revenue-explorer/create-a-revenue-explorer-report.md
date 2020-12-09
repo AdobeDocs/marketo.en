@@ -30,9 +30,7 @@ The Revenue Explorer report allows you to track the ROI on your marketing initia
 
    ![](assets/image2015-3-24-13-3a26-3a8.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Adding Fields to a Revenue Explorer Report](adding-fields-to-a-revenue-explorer-report.md)
 >* [Adding Custom Measures to a Revenue Explorer Report](adding-custom-measures-to-a-revenue-explorer-report.md)

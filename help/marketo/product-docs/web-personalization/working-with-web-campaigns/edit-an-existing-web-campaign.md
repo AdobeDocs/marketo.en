@@ -18,9 +18,7 @@ title: Edit an Existing Web Campaign
    >
    >To make it easier to find the web campaign you want, use the [filter feature](filter-web-campaigns.md).
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Delete a Web Campaign](delete-a-web-campaign.md)
 >* [Launch/Pause a](launch-pause-a-web-campaign.md) [Campaign](launch-pause-a-web-campaign.md)

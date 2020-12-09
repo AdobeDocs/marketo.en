@@ -6,9 +6,7 @@ title: How to Connect Sales Connect to Your Salesforce Sandbox
 
 # How to Connect Sales Connect to Your Salesforce Sandbox {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Your Sales Connect account cannot already be connected to Salesforce when establishing a connection to the sandbox. If it is, [make sure you disconnect](http://docs.marketo.com/x/FoDq) before following the steps in this article.
 

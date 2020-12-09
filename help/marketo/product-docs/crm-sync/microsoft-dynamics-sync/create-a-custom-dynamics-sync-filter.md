@@ -32,9 +32,7 @@ Marketo looks for this field during the automatic background sync and determines
 >
 >The only way to tell Marketo to skip a record is to set the field value explicitly to be **No**. Marketo still syncs records over even if the field values are empty.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Install the latest version of the Marketo Plug-in (3.0.0.1 or later). Go to Marketo > Admin > Microsoft Dynamics > Download Marketo Solution.
 

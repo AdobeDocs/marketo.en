@@ -58,9 +58,7 @@ On the Notification Center screen, it's up near the top,
 
 So, with push notification preview, you always know what your customers are going to see!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a Push Notification](create-a-push-notification.md)
 >* [Configure Mobile Push Notification](configure-mobile-push-notification.md)

@@ -15,9 +15,7 @@ There are two notification types included in the Workplace integration:
 >
 >**Admin Permissions Required**
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >If you don't have Workplace Notifications already enabled, please [contact Support](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436).
 

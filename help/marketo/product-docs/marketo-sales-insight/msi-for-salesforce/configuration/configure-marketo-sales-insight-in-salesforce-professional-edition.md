@@ -8,9 +8,7 @@ title: Configure Marketo Sales Insight in Salesforce Professional Edition
 
 Here are the steps you need to take to configure Marketo Sales Insight in Salesforce Professional Edition. Let's get started.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Install Marketo in your Salesforce Professional Edition](http://docs.marketo.com/display/docs/professional+edition)
 >

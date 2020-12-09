@@ -38,9 +38,7 @@ Marketo manages your Level 3 Web Meeting registration and attendance.
 
    ![](assets/level-3-web-meeting.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >Learn how to [create an event with a Level 3 Web Meeting](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md).
 

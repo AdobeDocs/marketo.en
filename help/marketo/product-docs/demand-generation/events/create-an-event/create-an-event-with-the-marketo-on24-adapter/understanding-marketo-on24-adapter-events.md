@@ -18,9 +18,7 @@ The graphic below depicts the integration process.
 
 Ready to begin? Start with [Create an Event with the ON24 Adapter](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md).
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create an Event with the Marketo ON24 Adapter](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
 >

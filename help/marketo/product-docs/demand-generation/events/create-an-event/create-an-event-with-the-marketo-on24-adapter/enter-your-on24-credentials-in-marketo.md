@@ -62,9 +62,7 @@ You can edit your credentials if your password expires or you need to make a cha
 
 Your next step is to [create your webinar event in ON24](create-your-webinar-event-in-on24.md).
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Marketo ON24 Adapter Events](understanding-marketo-on24-adapter-events.md)
 >

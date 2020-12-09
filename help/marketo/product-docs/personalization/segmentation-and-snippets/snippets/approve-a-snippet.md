@@ -6,9 +6,7 @@ title: Approve a Snippet
 
 # Approve a Snippet {#approve-a-snippet}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add Content to a Snippet](add-content-to-a-snippet.md)
 >

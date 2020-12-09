@@ -14,9 +14,7 @@ title: Step 3 of 3 -Connect Microsoft Dynamics with Marketo (Online)
 
 This is the last step of the sync. We're almost there!
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Step 1 of 3: Install the Marketo Solution (Online)](step-1-of-3-install.md)
 >

@@ -22,9 +22,7 @@ Looking for the web address (URL) of an image or file you uploaded? Marketo's go
 
 Give yourself a pat on the back for a job well done!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Replace an Uploaded Image or File](replace-an-uploaded-image-or-file.md)
 >

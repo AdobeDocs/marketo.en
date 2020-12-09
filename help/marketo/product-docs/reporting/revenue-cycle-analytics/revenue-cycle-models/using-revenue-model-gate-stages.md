@@ -74,9 +74,7 @@ Edit the Name, Description, and adjust the Type of your Gate stage. You can also
 
 Congrats! Now you understand the wonderful world of Gate Stages.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Using Revenue Model Inventory Stages](using-revenue-model-inventory-stages.md)
 >* [Using Revenue Model SLA Stages](using-revenue-model-sla-stages.md)

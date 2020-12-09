@@ -8,9 +8,7 @@ title: Using Marketo Insights for Google Chrome
 
 Send and track any Google email with the Marketo Insights for Google Chrome. 
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Install Marketo Insights for Google Chrome](install-marketo-insights-for-google-chrome.md)
 >

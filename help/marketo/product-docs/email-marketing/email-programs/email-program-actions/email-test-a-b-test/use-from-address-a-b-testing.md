@@ -8,9 +8,7 @@ title: Use "From Address" A/B Testing
 
 You can easily A/B test your emails. One interesting test is the **From Address** test. Here's how to set it up.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add an A/B Test](add-an-a-b-test.md)
 >

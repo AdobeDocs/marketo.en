@@ -9,7 +9,7 @@ description: Model Health and Data Validity
 
 The performance of your models depends on the quality and completeness of the input data. Here's how to assess your model health.
 
-Navigate to the [!UICONTROL **Models and Data Health**] section under [!UICONTROL **Predictive Audiences**] in the [!UICONTROL **Admin**] area of Marketo Classic. Here you will see all of your models and their statuses.
+Navigate to the **[!UICONTROL Models and Data Health]** section under **[!UICONTROL Predictive Audiences]** in the **[!UICONTROL Admin]** area of Marketo Classic. Here you will see all of your models and their statuses.
 
    ![Image One](/help/sky/assets/predictive-audiences/model-health-and-data-validity/model-health-and-data-validity-1.png)
 

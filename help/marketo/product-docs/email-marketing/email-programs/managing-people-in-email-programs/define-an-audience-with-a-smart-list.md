@@ -8,9 +8,7 @@ title: Define an Audience with a Smart List
 
 Once you  [create an email program](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), you will want to tell it who to send the email to. You can do this by  [importing a list of people](define-an-audience-by-importing-a-list.md) or with a smart list. Here's how to accomplish this with a smart list.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create an Email Program](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >

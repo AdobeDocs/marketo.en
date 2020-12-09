@@ -8,9 +8,7 @@ title: Enable Personalized URLs for a Landing Page
 
 Personalized URLs are great for print mail campaigns.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Enable Personalized URLs for Your Account](enable-personalized-urls-for-your-account.md)
 >

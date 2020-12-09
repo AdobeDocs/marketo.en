@@ -46,9 +46,7 @@ Click the Marketo icon to open the pane.
 
 ![](assets/image2015-10-6-15-3a32-3a52.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Using Marketo Insights for Google Chrome](using-marketo-insights-for-google-chrome.md)
 

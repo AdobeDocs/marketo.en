@@ -34,9 +34,7 @@ When you create a  [referral offer](../../../../product-docs/demand-generation/s
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >Next, you can configure the [track progress flow in a referral offer](configure-track-progress-flow-for-a-referral-offer.md), or click **Finish > Approve and Close** to [publish your referral offer](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) or [sweepstakes](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).
 

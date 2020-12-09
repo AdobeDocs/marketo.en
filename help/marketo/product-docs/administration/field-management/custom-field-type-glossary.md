@@ -14,9 +14,7 @@ title: Custom Field Type Glossary
 
 When you create a custom field in Marketo you have a list of types to choose from.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Custom Field in Marketo](create-a-custom-field-in-marketo.md)
 >

@@ -8,9 +8,7 @@ title: Champion/Challenger -Configure Report Alerts
 
 Marketo will send you reports on how the email test is going. Here's how to schedule it.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Champion/Challenger: Define Champion Criteria](champion-challenger-define-champion-criteria.md)
 >

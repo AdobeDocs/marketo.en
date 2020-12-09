@@ -151,9 +151,7 @@ See [Clone a Web Campaign](clone-a-web-campaign.md).
 
 1. A confirmation message appears to confirm if you want to delete the web campaign.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a New In Zone Web Campaign](create-a-new-in-zone-web-campaign.md)
 >* [Create a New Widget Web Campaign](create-a-new-widget-web-campaign.md)

@@ -54,9 +54,7 @@ Here are the basics to help you navigate the program schedule view.
 
 Great! Now that you know how to view your program, let's learn the other cool things it can do.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Creating an Entry in the Program Schedule View](creating-an-entry-in-the-program-schedule-view.md)
 >

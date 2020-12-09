@@ -792,9 +792,7 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Filtering in Audit Trail](filtering-in-audit-trail.md)
 >

@@ -17,11 +17,11 @@ Once you are done building your batch campaign, you can choose to run it now or 
 
    ![Image One](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-1.png)
 
-1. Go to the [!UICONTROL **Schedule**] tab and click [!UICONTROL **Add Run**].
+1. Go to the **[!UICONTROL Schedule]** tab and click **[!UICONTROL Add Run]**.
 
    ![Image Two](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
-1. Select [!UICONTROL **Set Run Date/Time**], then click the calendar icon and select the date you want the smart campaign to run.
+1. Select **[!UICONTROL Set Run Date/Time]**, then click the calendar icon and select the date you want the smart campaign to run.
 
    ![Image Three](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
@@ -29,6 +29,6 @@ Once you are done building your batch campaign, you can choose to run it now or 
 
    ![Image Four](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-4.png)
 
-1. Click [!UICONTROL **Confirm**].
+1. Click **[!UICONTROL Confirm]**.
 
    ![Image Five](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-5.png)

@@ -46,8 +46,6 @@ Browse, search, or export leads (and other objects) that failed to synchronize w
 
 ![](assets/image2016-5-19-10-3a26-3a35.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Notification Types](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)

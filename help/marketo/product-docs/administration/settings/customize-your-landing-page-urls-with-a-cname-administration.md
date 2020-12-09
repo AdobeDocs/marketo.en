@@ -10,15 +10,13 @@ Even though Marketo hosts your landing pages, the URL should be customized for y
 
 >[!NOTE]
 >
->**Example**
->
 >No CNAME:
 >
->http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html
+>https://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html
 >
 >Branded CNAME:
 >
->http://go.**YourCompany**.com/UnsuscribePage.html
+>https://go.**YourCompany**.com/UnsuscribePage.html
 
 >[!NOTE]
 >
@@ -26,7 +24,7 @@ Even though Marketo hosts your landing pages, the URL should be customized for y
 
 Let's get you set up!
 
-1. Choose a CNAME
+1. Choose a CNAME.
 
    It's the front part of the URL. Examples:
 
@@ -36,22 +34,26 @@ Let's get you set up!
 
    The one word (plus YourCompany.com) is called a CNAME. You will need this later so make a note of it.
 
-1. Find your Account String
+1. Find your Account String.
+
 1. Go to the **Admin** area and click on **Landing Pages**.
 
    ![](assets/image2014-9-16-13-3a9-3a44.png)
 
-1. Under the **Landing Pages **tab, copy the Account String from the Settings section.
+1. Under the **Landing Pages** tab, copy the Account String from the Settings section.
 
    ![](assets/image2014-9-16-13-3a9-3a57.png)
 
 1. You will also need this later, so make a note of it.
-1. Send Request to IT
+
+1. Send Request to IT.
+
 1. Ask your IT staff to setup the following CNAME (replace the word [CNAME] and [ACCOUNT STRING] with the text from the previous step):
 
    [CNAME].YourCompany.com > [ACCOUNT STRING].mktoweb.com
 
-1. Complete CNAME Setup
+1. Complete CNAME Setup.
+
 1. Once your IT has created the CNAME, go to **Admin** and click on **Landing Pages**.
 
    ![](assets/image2014-9-16-13-3a10-3a14.png)
@@ -64,6 +66,6 @@ Let's get you set up!
 
    ![](assets/image2014-9-16-13-3a10-3a45.png)
 
-   Your fallback page is where people will be redirected if your Marketo landing page is unavailable.
-   Nice job! Your landing pages are now branded with your company domain.
+Your fallback page is where people will be redirected if your Marketo landing page is unavailable.
 
+Nice job! Your landing pages are now branded with your company domain.

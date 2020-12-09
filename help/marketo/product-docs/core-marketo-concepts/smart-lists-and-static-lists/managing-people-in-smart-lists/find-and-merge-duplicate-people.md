@@ -18,9 +18,7 @@ Marketo automatically de-duplicates when new people enter the system. However, y
 >
 >Marketo will not automatically de-dupe against a Salesforce or Microsoft Dynamics sync, or when you manually enter people.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Finding and merging duplicates will involve the use of [built-in / system smart lists](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 

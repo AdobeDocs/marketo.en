@@ -8,9 +8,7 @@ title: Authorize the Marketo Outlook Plugin
 
 To use the Marketo MSI plugin in Outlook, you need to authorize it.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >The plugin must already be installed and you must be authorized as a plugin user by your Marketo Admin.
 

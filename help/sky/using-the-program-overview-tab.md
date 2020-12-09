@@ -7,7 +7,7 @@ description: Using the Program Overview Tab
 
 <br>&nbsp;
 
-There are three sections under the [!UICONTROL Program Overview] tab: [!UICONTROL **Details**], [!UICONTROL **Schedule**], and [!UICONTROL **Reports**]. Here's a quick look at each one.
+There are three sections under the [!UICONTROL Program Overview] tab: **[!UICONTROL Details]**, **[!UICONTROL Schedule]**, and **[!UICONTROL Reports]**. Here's a quick look at each one.
 
 ## Details
 
@@ -15,7 +15,7 @@ The main details page displays general information about your program.
 
    ![Image One](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-At the bottom of the page are two sections: [!UICONTROL **Program Stats**] and [!UICONTROL **Used By**]. [!UICONTROL **Program Stats**] shows you key metrics about program performance, and [!UICONTROL **Used By**] is an easy way to see where your program is being used in Marketo.
+At the bottom of the page are two sections: **[!UICONTROL Program Stats]** and **[!UICONTROL Used By]**. **[!UICONTROL Program Stats]** shows you key metrics about program performance, and **[!UICONTROL Used By]** is an easy way to see where your program is being used in Marketo.
 
    ![Image Two](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 

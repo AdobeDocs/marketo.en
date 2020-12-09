@@ -42,9 +42,7 @@ There are many nuances and features about Dynamics sync. Check out the details i
 >
 >We do not currently support sandbox refresh for Marketo Dynamics Sync. If you need to refresh your Dynamics CRM sandbox, a new Marketo sandbox will be required. Please contact your Customer Success Manager for additional details.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Sync Setup](http://docs.marketo.com/display/docs/sync+setup)
 >

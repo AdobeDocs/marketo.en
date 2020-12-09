@@ -30,9 +30,7 @@ View people who qualify to go through the flow when you run a smart campaign.
 
 Sweet! You can use this list to check which people might go through the flow before you run a smart campaign. 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [View Smart Campaign Members](view-smart-campaign-members.md)
 >* [View Blocked People in a Smart Campaign](view-blocked-people-in-a-smart-campaign.md)

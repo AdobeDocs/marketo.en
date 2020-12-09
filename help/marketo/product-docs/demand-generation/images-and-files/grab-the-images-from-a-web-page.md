@@ -38,9 +38,7 @@ To add images from a web page, copy the web address (URL) of the page that has t
 
 Nice work, image master!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Add Images and Files to Marketo](add-images-and-files-to-marketo.md)
 >* [Organize Your Images and Files Using Folders](organize-your-images-and-files-using-folders.md)

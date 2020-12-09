@@ -329,9 +329,7 @@ You can delete segments you have created.
 
 Great! Now that you understand the Segments section, let's learn about campaigns. 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a Basic Web Segment](create-a-basic-web-segment.md) 
 >* [Create a New Dialog Web Campaign](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) 

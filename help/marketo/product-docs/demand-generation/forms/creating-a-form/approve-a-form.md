@@ -38,9 +38,7 @@ Here's how to approve an existing form that's ready to go.
 
 If you are making changes to a form, you can approve the page directly from the editor.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Edit a Form](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 >

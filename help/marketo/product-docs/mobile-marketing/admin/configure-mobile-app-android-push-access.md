@@ -32,9 +32,7 @@ title: Configure Mobile App Android Push Access
 
    Sweet. Make sure you configure the app with iOS.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Configure Mobile App iOS Push Access](configure-mobile-app-ios-push-access.md)
 >

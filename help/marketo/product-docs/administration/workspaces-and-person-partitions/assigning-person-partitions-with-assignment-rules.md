@@ -16,9 +16,7 @@ title: Assigning Person Partitions with Assignment Rules
 >
 >**Admin Permissions Required**
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Person Partition](create-a-person-partition.md)
 >

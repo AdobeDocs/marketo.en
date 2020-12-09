@@ -38,9 +38,7 @@ Here's how.
 
    ![](assets/image2014-10-20-13-3a8-3a29.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Edit Entries Directly In the Marketing Calendar](edit-entries-directly-in-the-marketing-calendar.md)
 >

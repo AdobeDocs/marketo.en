@@ -10,9 +10,7 @@ In this report, you can see who's visiting your website and even subscribe to an
 
 You can choose to display known people or anonymous people, but not both kinds on the same report.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add Munchkin Tracking Code to Your Website](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 

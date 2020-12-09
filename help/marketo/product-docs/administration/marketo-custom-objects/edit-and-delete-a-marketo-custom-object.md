@@ -72,9 +72,7 @@ It's easy to delete a custom object, but you need to be careful. Custom objects 
    >
    >If the custom object is linked to an intermediary object, you must delete the intermediary object first.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Approve a Custom Object](approve-a-custom-object.md)
 

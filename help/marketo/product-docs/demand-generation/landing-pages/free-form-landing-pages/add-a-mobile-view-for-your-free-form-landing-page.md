@@ -44,9 +44,7 @@ It's easy to make your free-form landing pages look great on a smartphone.
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Customize Mobile View for Your Free-Form Landing Page](customize-mobile-view-for-your-free-form-landing-page.md)
 >

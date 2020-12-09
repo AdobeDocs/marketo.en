@@ -12,9 +12,7 @@ title: Redirect a Landing Page
 >
 >**Admin Permissions Required**
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Get Set Up and Add a Person](get-set-up-and-add-a-person.md)
 >* [Landing Page with a Form](landing-page-with-a-form.md)

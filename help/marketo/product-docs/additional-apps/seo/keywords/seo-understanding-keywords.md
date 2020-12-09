@@ -53,9 +53,7 @@ You can also view how your competitors are performing using the same metrics by 
 
 Great! Now that you understand the keywords section, let's learn about pages and inbound links.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Pages](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
 >* [Understanding Inbound Links](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)

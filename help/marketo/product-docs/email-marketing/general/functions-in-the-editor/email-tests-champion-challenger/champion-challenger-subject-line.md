@@ -8,9 +8,7 @@ title: Champion/Challenger -Subject Line
 
 You can easily test multiple subject lines. When the test is over, send out emails with the most effective one. Here's how to do it.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add an Email Champion/Challenger](add-an-email-champion-challenger.md)
 >

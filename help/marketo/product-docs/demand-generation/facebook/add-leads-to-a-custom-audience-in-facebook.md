@@ -8,9 +8,7 @@ title: Add Leads to a Custom Audience in Facebook
 
 Already have a custom audience in Facebook and want to add more leads to it? Here's how.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Custom Audience in Facebook](create-a-custom-audience-in-facebook.md)
 >* [Accept Facebook's custom audiences terms](https://www.facebook.com/ads/manage/customaudiences/tos.php) within your Facebook account.

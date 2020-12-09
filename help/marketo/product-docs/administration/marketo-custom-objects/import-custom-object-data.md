@@ -62,9 +62,7 @@ It's easy to import custom object data into your database. If you're using custo
 
    Yay!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Marketo Custom Objects](understanding-marketo-custom-objects.md)
 >

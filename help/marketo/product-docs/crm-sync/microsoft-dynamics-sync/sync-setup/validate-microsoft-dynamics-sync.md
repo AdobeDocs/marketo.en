@@ -44,9 +44,7 @@ It's very important to run the Validate Sync tool to make sure your Microsoft Dy
    >
    >We do not currently support sandbox refresh for Marketo Dynamics Sync. If you need to refresh your Dynamics CRM sandbox, a new Marketo sandbox will be required. Please contact your Customer Success Manager for additional details.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Fix Dynamics Validation Sync Issues](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
 

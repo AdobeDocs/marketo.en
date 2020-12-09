@@ -16,9 +16,7 @@ title: Change the Name of a Workspace
 >
 >**Admin Permissions Required**
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Create a New Workspace](create-a-new-workspace.md)
 

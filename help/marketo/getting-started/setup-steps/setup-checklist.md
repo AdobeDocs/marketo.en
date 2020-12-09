@@ -42,9 +42,7 @@ Welcome to Marketo! Feel free to use the following checklist as a visual to-do l
 
 1. Work with a web developer to add tracking code to your website
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Setup Steps](../../getting-started/setup-steps.md)
 

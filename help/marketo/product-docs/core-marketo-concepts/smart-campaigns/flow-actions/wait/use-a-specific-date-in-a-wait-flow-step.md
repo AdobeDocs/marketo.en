@@ -27,9 +27,7 @@ You can use the **Wait** flow step to pause a person's journey through a smart c
    Specify the time (optional) and click Save.
    ![](assets/image2014-9-22-11-3a51-3a13.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Use a Duration in a Wait Flow Step](use-a-duration-in-a-wait-flow-step.md)
 >* [Use a Date Token in a Wait Flow Step](use-a-date-token-in-a-wait-flow-step.md)

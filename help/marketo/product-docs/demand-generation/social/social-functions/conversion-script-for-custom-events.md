@@ -51,9 +51,7 @@ In this example there is a button on the webpage with an id of "#myButtonId." Wh
 
 Awesome! Your website is now capturing custom social promotion goals with Marketo.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Specify Goal for Referral Offer](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
 >* [Create a Referral Offer](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)

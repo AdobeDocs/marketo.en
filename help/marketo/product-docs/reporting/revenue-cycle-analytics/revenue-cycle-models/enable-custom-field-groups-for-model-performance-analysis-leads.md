@@ -6,9 +6,7 @@ title: Enable Custom Field Groups for Model Performance Analysis (Leads)
 
 # Enable Custom Field Groups for Model Performance Analysis (Leads) {#enable-custom-field-groups-for-model-performance-analysis-leads}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Categorize standard or custom fields into groups for reporting via the Field Organizer in Marketo. For details, see [Create Custom Field Groups via the Field Organizer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md).
 

@@ -46,8 +46,6 @@ Congratulations! You have added a social button to your landing page. Be sure to
 >
 >To save time, you can use the **Clone From** option to copy all settings from an existing social button. 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >You're done, but you can change the settings of your social button if necessary. Start with [customizing the button style](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) and [editing the share messages](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) it presents. 

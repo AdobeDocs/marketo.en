@@ -62,9 +62,7 @@ It's quick and easy to send samples of an email. To send a dynamic content email
 
 ## Send a Sample Email Based on a Segment {#send-a-sample-email-based-on-a-segment}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Apply segmentation to your email](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email).
 

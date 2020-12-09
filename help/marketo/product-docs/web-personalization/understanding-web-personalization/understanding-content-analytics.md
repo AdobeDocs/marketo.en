@@ -91,9 +91,7 @@ The additional content analytics include:
 
 From the Content Analytics page, click on the delete icon of the Content you wish to delete. A message appears to confirm that you want to delete the Content.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Enable the Content Recommendation Bar](../../../product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
 >* [Enable Predictive Content for Web Rich Media](../../../product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

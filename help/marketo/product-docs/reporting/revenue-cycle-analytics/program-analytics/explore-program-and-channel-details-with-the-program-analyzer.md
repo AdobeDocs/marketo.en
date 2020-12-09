@@ -8,9 +8,7 @@ title: Explore Program & Channel Details with the Program Analyzer
 
 You can see detailed program and channel stats in the Program Analyzer. You can also open them in Revenue Cycle Explorer.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Program Analyzer](create-a-program-analyzer.md)
 

@@ -82,9 +82,7 @@ In addition to account lists, you can also create dynamic account lists that are
 
    ![](assets/six.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Add an Existing Named Account to an Account List](named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [Account List Insights](../../../product-docs/account-based-marketing/measure/account-list-insights.md)

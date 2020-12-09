@@ -50,9 +50,7 @@ title: Editing Your Approved Model
 
 You can only have one approved model at a time. If you want to approve a model but already have one approved, you'll need to unapprove your current model first. If possible, try editing your model instead of creating a new one.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Create a New Revenue Model](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 

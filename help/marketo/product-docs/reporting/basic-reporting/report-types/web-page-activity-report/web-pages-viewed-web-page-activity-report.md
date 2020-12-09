@@ -8,9 +8,7 @@ title: Web Pages Viewed, Web Page Activity Report
 
 From a [Web Page Activity report](../../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), you can see the specific pages that were viewed by the people in the report.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >To capture activity from your web site in Marketo, you first need to  [set up Munchkin on your site](../../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 

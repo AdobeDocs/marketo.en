@@ -40,9 +40,7 @@ How do I set up DKIM?
 
 Please refer to [Set up a Custom DKIM Signature](set-up-a-custom-dkim-signature.md).
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Learn More About SPF and How it Works](http://www.open-spf.org/Introduction/)
 >* [Marketo's Email Deliverability Tools](https://www.marketo.com/software/email-marketing/email-deliverability/)

@@ -24,9 +24,7 @@ The Lead Feed is an up-to-the-minute list of interesting events done by your lea
 
    ![](assets/image2015-4-23-17-3a20-3a12.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Interesting Moments in Salesforce1](interesting-moments-in-salesforce1.md)
 >* [Send Marketo Email and Campaign and Watchlist Actions in Salesforce1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)

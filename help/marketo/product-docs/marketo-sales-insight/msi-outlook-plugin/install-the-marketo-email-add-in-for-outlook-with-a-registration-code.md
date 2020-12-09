@@ -10,9 +10,7 @@ If users can access the admin settings on their laptops, you can send a registra
 
 If you haven't received an invite email, ask your Marketo administrator to invite you.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* You must be [issued a Marketo Email Add-in License](issue-a-marketo-email-add-in-license.md).
 >

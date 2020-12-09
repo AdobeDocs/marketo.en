@@ -59,9 +59,7 @@ It's very important to not over-communicate with your people. Setting communicat
    >
    >Communication limits automatically apply to all email and engagement programs.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Apply Communication Limits to Smart Campaign](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 

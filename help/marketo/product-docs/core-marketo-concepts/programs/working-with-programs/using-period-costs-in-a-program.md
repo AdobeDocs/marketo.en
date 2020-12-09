@@ -73,9 +73,7 @@ A [period cost](understanding-period-costs.md) is the amount you spend on a prog
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Period Costs](understanding-period-costs.md)
 >* [Revenue Cycle Analytics](http://docs.marketo.com/display/docs/revenue+cycle+analytics)

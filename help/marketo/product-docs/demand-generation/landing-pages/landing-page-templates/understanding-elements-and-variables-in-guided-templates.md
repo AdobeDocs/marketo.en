@@ -51,9 +51,7 @@ There are three types of variables: string variables, color variables, and Boole
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Create a Guided Landing Page Template](create-a-guided-landing-page-template.md)
 

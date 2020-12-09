@@ -13,7 +13,7 @@ Here's how to override an inherited token in a child program or campaign folder.
 
    ![Image One](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-1.png)
 
-1. Click the token [!UICONTROL **Value**] and change it. Changing the value for this token will automatically move it to the [!UICONTROL Overridden Tokens] section.
+1. Click the token **[!UICONTROL Value]** and change it. Changing the value for this token will automatically move it to the [!UICONTROL Overridden Tokens] section.
 
    ![Image Two](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-2.png)
 

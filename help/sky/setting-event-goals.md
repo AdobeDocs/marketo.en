@@ -20,7 +20,7 @@ Give your events specific goals and see how they perform.
 
    ![Image Two](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-2.png)
 
-1. Enter the goal for [!UICONTROL Registered] and [!UICONTROL Attended], then click [!UICONTROL **Create**] ([!UICONTROL Description] and [!UICONTROL Labels] are optional).
+1. Enter the goal for [!UICONTROL Registered] and [!UICONTROL Attended], then click **[!UICONTROL Create]** ([!UICONTROL Description] and [!UICONTROL Labels] are optional).
 
    ![Image One](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-3.png)
 

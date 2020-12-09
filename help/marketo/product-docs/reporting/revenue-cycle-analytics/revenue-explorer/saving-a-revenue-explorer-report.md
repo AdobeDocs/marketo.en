@@ -24,9 +24,7 @@ Revenue Explorer reports can be saved to the file of your choice.
 
    ![](assets/image2015-3-27-11-3a32-3a51.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Subscribe to a Revenue Explorer Report](subscribe-to-a-revenue-explorer-report.md)
 >

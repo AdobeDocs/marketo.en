@@ -8,9 +8,7 @@ title: How Reply Tracking Works
 
 Reply Tracking is done by looking at a message ID that's in every email you send. Every email contains a unique message ID that allows us to have some of the best reply tracking around.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >**Connection with Email Server:** Sales Connect must be connected with your inbox so we know when a new reply has arrived. You'll need to have your Sales Connect account [connected to Gmail](http://docs.marketo.com/x/kYMOAQ). If you're using Outlook, we'll need to integrate with your [exchange server](http://toutapp.com/next#settings/exchange_settings).
 

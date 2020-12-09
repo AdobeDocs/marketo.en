@@ -52,9 +52,7 @@ The **Unsubscribes** card shows you a month-over-month trending report of your u
 
 Now you know.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Marketo Moments](understanding-marketo-moments.md)
 >* [Understanding Event Cards](understanding-event-cards.md)

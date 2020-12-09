@@ -8,9 +8,7 @@ title: Create a Success Path Analyzer
 
 Get a visual representation of velocity and flow through your [Revenue Cycle Model](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Create a New Revenue Model](create-a-new-revenue-model.md)
 

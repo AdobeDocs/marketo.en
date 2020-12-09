@@ -12,9 +12,7 @@ Custom Objects created in your Salesforce instance can be part of Marketo too.  
 >
 >**Admin Permissions Required**
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >To use a custom object, it must be associated to a [lead](sfdc-sync-lead-sync.md), [contact](sfdc-sync-contact-sync.md)or [account](sfdc-sync-account-sync.md)object in Salesforce.
 

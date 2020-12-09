@@ -8,9 +8,7 @@ title: Personalized Remarketing in Google
 
 Personalized Remarketing lets you re-engage with your users using RTP data and the power of Google Analytics with the reach of the Google Display Network.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* Complete the [Retargeting with Web Personalization Data](retargeting-with-web-personalization-data.md) configuration
 >* Review [Remarketing with Google Analytics Help](https://support.google.com/analytics/topic/2611283?hl=en&ref_topic=3413645) documentation

@@ -47,9 +47,7 @@ When you create a  [referral offer](../../../../product-docs/demand-generation/s
 
    ![](assets/image2014-9-22-11-3a2-3a56.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >Now you can [configure the social sign-up flow](configure-social-sign-up-share-flow.md) and edit the share messages that will be posted to each social network.
 

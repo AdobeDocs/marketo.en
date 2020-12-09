@@ -49,9 +49,7 @@ Here's how to send/edit emails using the Group Email option.
    >
    >You can make bulk edits to the email/template when sending a group email out, but you cannot make unique edits for specific recipients in the list.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Bulk Sending Options](http://docs.marketo.com/x/HwQ6Ag)
 >* [Using a Template in the Compose Window](http://docs.marketo.com/x/MQQ6Ag)

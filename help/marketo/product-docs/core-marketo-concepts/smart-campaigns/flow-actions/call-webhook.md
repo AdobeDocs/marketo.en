@@ -6,9 +6,7 @@ title: Call Webhook
 
 # Call Webhook {#call-webhook}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Webhook](../../../../product-docs/administration/additional-integrations/create-a-webhook.md)
 >

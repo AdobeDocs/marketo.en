@@ -28,9 +28,7 @@ If you've run a smart list and a few minutes have passed, the results could be d
 >
 >Sometimes when you run a smart list and come back to it later, you might see the word "About" in front of the person count in the bottom right-hand corner. This indicates that the number is approximate - click the count itself to refresh it and obtain an updated, accurate count.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Export People to Excel from a List or Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
 >

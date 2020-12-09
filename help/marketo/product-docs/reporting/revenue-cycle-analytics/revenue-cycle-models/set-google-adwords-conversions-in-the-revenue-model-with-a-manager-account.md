@@ -16,9 +16,7 @@ You can map AdWords offline conversions to one or more stages in a Revenue model
   Stage Action 
 * AdWords Mapping
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add Google AdWords as a Launchpoint Service with a Manager Account](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 >

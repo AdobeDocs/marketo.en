@@ -101,9 +101,7 @@ To delete a subscription, select it in the subscriptions tab and click Delete Su
 
 ![](assets/twelve.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Edit a Smart List Subscription](edit-a-smart-list-subscription.md)
 >* [Secure the Subscription Admin Setting](secure-the-subscription-admin-setting.md)

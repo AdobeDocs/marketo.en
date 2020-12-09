@@ -22,9 +22,7 @@ Looking to view and filter your campaigns according to a specific label?
 
    ![](assets/web-campaigns-label-showing-1.jpg)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Label Your Web Campaigns](label-your-web-campaigns.md)
 >* [View Segments from a Specific Label](../../../product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)

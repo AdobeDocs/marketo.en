@@ -45,9 +45,7 @@ The difference between a Static and Smart List is crucial to understand.
 
 Enjoy the power of the LIST!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Create a Static List](https://docs.marketo.com/x/ecKt)
 

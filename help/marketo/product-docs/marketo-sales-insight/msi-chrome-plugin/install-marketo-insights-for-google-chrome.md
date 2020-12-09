@@ -36,9 +36,7 @@ Follow these steps to begin using the powerful Chrome add-in.
 
    ![](assets/image2015-10-5-10-3a34-3a1.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Using Marketo Insights for Google Chrome](using-marketo-insights-for-google-chrome.md)
 

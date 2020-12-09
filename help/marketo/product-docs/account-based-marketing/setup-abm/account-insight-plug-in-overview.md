@@ -73,9 +73,7 @@ Several items are clickable. Click the named account to see its details. Click t
 
 Pretty cool stuff!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Set up Account Insight](set-up-account-insight.md)
 >
