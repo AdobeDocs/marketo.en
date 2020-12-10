@@ -6,17 +6,17 @@ title: Setup Checklist
 
 # Setup Checklist {#setup-checklist}
 
-Welcome to Marketo! Feel free to use the following checklist as a visual to-do list to get things started. Details can be found in [Setup Steps](../../getting-started/setup-steps.md).
+Welcome to Marketo! Feel free to use the following checklist as a visual to-do list to get things started. Details can be found in [Setup Steps](/help/marketo/getting-started/setup-steps.md).
 
 ## Log-in to Marketo and Create Additional Users {#log-in-to-marketo-and-create-additional-users}
 
-1. Log-in to Marketo
+1. Log in to Marketo
 1. Create additional users
 
 ## Set up an Authorized Support Contact {#set-up-an-authorized-support-contact}
 
 1. Set up an authorized support contact
-1. Customize Landing Page URLs 
+1. Customize Landing Page URLs
 1. Select a Landing Page CNAME
 1. Ask IT to create a DNS Record for your Landing Page CNAME
 1. When IT is done, set up your landing page domain name in Marketo
@@ -24,10 +24,10 @@ Welcome to Marketo! Feel free to use the following checklist as a visual to-do l
 ## Ensure Email Deliverability {#ensure-email-deliverability}
 
 1. Select an Email CNAME for branded tracking links
-1. Ask IT to set up a DNS record for your email CNAME 
+1. Ask IT to set up a DNS record for your email CNAME
 1. Ask IT to allowlist Marketo
 1. Set up DKIM and SPF in the Admin area
-1. Set up MX for [FromDomain1]
+1. Set up MX for `[FromDomain1]`
 1. When IT is done with the email CNAME, setup your email CNAME in Marketo
 
 ## Submit a URL for Landing Page and Email Templates {#submit-a-url-for-landing-page-and-email-templates}
@@ -44,5 +44,4 @@ Welcome to Marketo! Feel free to use the following checklist as a visual to-do l
 
 >[!MORELIKETHIS]
 >
->[Setup Steps](../../getting-started/setup-steps.md)
-
+>[Setup Steps](/help/marketo/getting-started/setup-steps.md)
