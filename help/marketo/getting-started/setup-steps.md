@@ -208,7 +208,7 @@ Configure your domain settings so landing pages use your company’s domain inst
    >
    >See Steps 3 and 4 above to determine the text to replace the placeholders. Remember that `[LandingPageCNAME]` and `[EmailTrackingCNAME]` must be different.
 
---------------------------------
+_________________________
 
    Dear Awesome IT Administrator,
 
@@ -275,7 +275,7 @@ Configure your domain settings so landing pages use your company’s domain inst
 
    **`[Your Name]`**
 
-   --------------------------------
+_________________________
 
    Send the email to IT. We understand it can take some time for IT to complete these tasks. You can continue on to Step 7, but remember that you must return Step 6 to complete your Marketo setup.
 
