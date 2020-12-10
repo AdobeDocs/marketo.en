@@ -25,7 +25,7 @@ Some steps require help from your IT team.
 
 >[!TIP]
 >
->If you [print out this checklist](setup-steps/setup-checklist.md), you can check items off as you complete them.
+>If you [print out this checklist](/help/marketo/getting-started/setup-steps/setup-checklist.md), you can check items off as you complete them.
 
 1. Log in and create additional Marketo Users
 
@@ -263,7 +263,7 @@ Configure your domain settings so landing pages use your company’s domain inst
 
    **`[DKIMDomain2]`**: Host Record is **`[HostRecord2]`** and the TXT Value is **`[TXTValue2]`**.
 
-   `[`Copy the **HostRecord** and **TXTValue** for each **DKIMDomain** you've setup after following the [instructions here](../product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Don't forget to verify each domain in **Admin > Email > DKIM** after your IT staff has completed this step.`]`
+   `[`Copy the **HostRecord** and **TXTValue** for each **DKIMDomain** you've setup after following the [instructions here](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Don't forget to verify each domain in **Admin > Email > DKIM** after your IT staff has completed this step.`]`
   
    `5)` We need to ensure there is a valid MX record for our FROM domains **[FromDomain1]**, **[FromDomain2]**, etc. Can you confirm? If not, please configure to map to our corporate domain MX record. This will ensure we can process replies/autoresponders to our Marketo mailings.
 
