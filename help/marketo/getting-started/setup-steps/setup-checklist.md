@@ -44,4 +44,4 @@ Welcome to Marketo! Feel free to use the following checklist as a visual to-do l
 
 >[!MORELIKETHIS]
 >
->[Setup Steps](help/marketo/getting-started/setup-steps.md)
+>[Setup Steps](/help/marketo/getting-started/setup-steps.md)
