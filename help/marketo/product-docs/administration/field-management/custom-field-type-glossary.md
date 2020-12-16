@@ -6,12 +6,6 @@ title: Custom Field Type Glossary
 
 # Custom Field Type Glossary {#custom-field-type-glossary}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 When you create a custom field in Marketo you have a list of types to choose from.
 
 >[!PREREQUISITES]

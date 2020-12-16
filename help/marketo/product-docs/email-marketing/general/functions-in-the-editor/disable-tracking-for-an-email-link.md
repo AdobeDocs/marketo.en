@@ -8,10 +8,6 @@ title: Disable Tracking for an Email Link
 
 Sometimes you don't want to enable the **Marketo Tracking URL** on a link in an email. This is useful when the destination page does not support URL parameters and may result in a broken link.
 
->[!NOTE]
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](/help/marketo/getting-started/updates-to-marketo-terminology.md).
-
 1. Select your email and click **Edit** **Draft**.
 
    ![](assets/one-7.png)

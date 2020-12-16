@@ -8,15 +8,9 @@ title: Landing Page with a Form
 
 ## Mission: Create a landing page with a form to acquire new people. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Get Set Up and Add a Person](get-set-up-and-add-a-person.md)
+>[Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## STEP 1: Create a Program {#step-create-a-program}
 
@@ -24,7 +18,7 @@ title: Landing Page with a Form
 
    ![](assets/ma.png)
 
-1. Select the** Learning** folder created in the [previous quick win](send-an-email.md).
+1. Select the **Learning** folder created in the [previous quick win](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
    ![](assets/image2014-9-8-17-3a45-3a34.png)
 
@@ -32,12 +26,9 @@ title: Landing Page with a Form
 
    ![](assets/image2014-9-8-17-3a45-3a49.png)
 
-1. Enter a program **Name**, select a** Channel** and click** Create**.
+1. Enter a program **Name**, select a **Channel** and click **Create**.
 
    >[!NOTE]
-   >
-   >**Reminder**
-   >
    >
    >Include your initials at the end of the program Name to make it unique.
 
@@ -45,18 +36,15 @@ title: Landing Page with a Form
 
    >[!NOTE]
    >
-   >**Definition**
-   >
-   >
-   >A program is one specific marketing initiative. The **channel** is intended to be the delivery mechanism, like Webinar, Sponsorship, or Online Ad. You may see different channel options in your drop-down, depending on what's available in your own instance. You can also [create your own channel.](../../product-docs/administration/tags/create-a-program-channel.md)
+   >A program is one specific marketing initiative. The **channel** is intended to be the delivery mechanism, like Webinar, Sponsorship, or Online Ad. You may see different channel options in your drop-down, depending on what's available in your own instance. You can also [create your own channel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
    ![](assets/image2014-9-8-17-3a46-3a47.png)
 
-Nicely done! Now that we have created a program, let's move on and create some content. 
+Nicely done! Now that we have created a program, let's move on and create some content.
 
 ## STEP 2: Create a Form {#step-create-a-form}
 
-1. With your program selected, click on **New** then** New Local Asset**.
+1. With your program selected, click on **New** then **New Local Asset**.
 
    ![](assets/image2014-9-24-11-3a4-3a29.png)
 
@@ -70,13 +58,13 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
    >[!NOTE]
    >
-   >Be sure the **Open in editor** box is checked. If it's not, you'll need to click the **Edit Form **tab**.**
+   >Be sure the **Open in editor** box is checked. If it's not, you'll need to click the **Edit Form** tab.
 
    >[!TIP]
    >
-   >Don't see the form editor? Your browser probably blocked the window. Enable pop-ups from [app.marketo.com](http://app.marketo.com/) in your browser and click Edit Draft in the top menu bar.
+   >Don't see the form editor? Your browser probably blocked the window. Enable pop-ups from [app.marketo.com](https://app.marketo.com/) in your browser and click Edit Draft in the top menu bar.
 
-1. Select the** Email Address** field and check Is **Required**.
+1. Select the **Email Address** field and check **Is Required**.
 
    ![](assets/image2014-9-24-11-3a5-3a27.png)
 
@@ -88,7 +76,7 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
    ![](assets/image2014-9-24-11-3a6-3a0.png)
 
-1. Click** Next**.
+1. Click **Next**.
 
    ![](assets/image2014-9-24-11-3a6-3a19.png)
 
@@ -102,9 +90,7 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
    >[!NOTE]
    >
-   >**Definition**
-   >
-   >The Follow Up Page is where the visitor is re-directed after filling out the form. External URL is one option but there are more. See [Set a Form Thank You Page](../../product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md).
+   >The Follow Up Page is where the visitor is re-directed after filling out the form. External URL is one option but there are more. See [Set a Form Thank You Page](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md).
 
 1. Click **Finish**.
 
@@ -128,11 +114,11 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
    ![](assets/image2014-9-24-11-3a8-3a5.png)
 
-1. Enter a page** Name**, select a template and click **Create**.
+1. Enter a page **Name**, select a template and click **Create**.
 
    >[!NOTE]
    >
-   >You may have a different template than the one in our screenshot, it's ok, just pick one and keep going.
+   >You may have a different template than the one in our screenshot, it's okay, just pick one and keep going.
 
    ![](assets/image2014-9-24-11-3a8-3a23.png)
 
@@ -160,9 +146,6 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
    >[!NOTE]
    >
-   >**Definition**
-   >
-   >
    >Approving the landing page will make it live and available to access on the internet.
 
    ![](assets/image2014-9-24-11-3a9-3a37.png)
@@ -173,7 +156,7 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
 ## STEP 5: Test Your Form {#step-test-your-form}
 
-1. Select your landing page and click** View Approved Page**.
+1. Select your landing page and click **View Approved Page**.
 
    ![](assets/image2014-9-24-11-3a10-3a9.png)
 
@@ -197,4 +180,6 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
 <br>&nbsp;
 
-[◄ Send an Email Blast](send-an-email.md) [Simple Scoring ►](simple-scoring.md) 
+[◄ Send an Email Blast](/help/marketo/getting-started/quick-wins/send-an-email.md)
+
+[Simple Scoring ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)

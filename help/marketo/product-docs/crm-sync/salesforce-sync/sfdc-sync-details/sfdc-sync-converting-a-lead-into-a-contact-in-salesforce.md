@@ -6,12 +6,6 @@ title: SFDC Sync -Converting a Lead into a Contact in Salesforce
 
 # SFDC Sync: Converting a Lead into a Contact in Salesforce {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 Imagine three different scenarios in Salesforce: (not using the [Convert Person flow step](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) in Marketo)
 
 1. Converting a Lead into a **new contact and new account**

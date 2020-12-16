@@ -6,12 +6,6 @@ title: People Who Have Exhausted Content
 
 # People Who Have Exhausted Content {#people-who-have-exhausted-content}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 When a person has received every piece of content in a stream, it has exhausted all possibilities and will wait idle until more is added. You can find people that are "exhausted" in several ways.
 
 ## Member of Engagement Program filter {#member-of-engagement-program-filter}

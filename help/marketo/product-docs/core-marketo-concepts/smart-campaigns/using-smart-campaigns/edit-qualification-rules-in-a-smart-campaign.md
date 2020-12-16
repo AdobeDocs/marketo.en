@@ -8,12 +8,6 @@ title: Edit Qualification Rules in a Smart Campaign
 
 Qualification rules control how many times someone can run through the flow in a smart campaign. By default, even if someone triggers a smart campaign multiple times, they will only be sent through the flow once. Here's how to modify these settings.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 1. In your smart campaign, click the **Schedule** tab and then **Edit Settings**.
 
    ![](assets/programeditsettings-hands.png)

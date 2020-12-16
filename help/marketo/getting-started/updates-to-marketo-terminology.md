@@ -143,4 +143,3 @@ In addition to the name change, it now consists of four separate apps:
 >The tiles visible on your home screen will reflect modules purchased.
 
 Thank you for your patience during this update.
-

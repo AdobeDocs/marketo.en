@@ -8,12 +8,6 @@ title: Campaign Activity Report
 
 See how your [smart campaigns](http://docs.marketo.com/display/docs/smart+campaigns) are performing.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 1. [Create a report](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) and select the **Campaign Activity** [report type](report-type-overview.md).
 1. [Set the time frame of your report](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) and click the **Report** tab.
 1. Great! Explore your report to identify your most effective campaigns, grouped by campaign type.

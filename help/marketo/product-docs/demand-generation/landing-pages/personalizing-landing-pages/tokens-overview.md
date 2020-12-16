@@ -8,12 +8,6 @@ title: Tokens Overview
 
 A token is a variable that can be used in Marketo [smart campaign](http://docs.marketo.com/display/DOCS/Smart+Campaigns) flow steps, [emails](http://docs.marketo.com/display/DOCS/General), [landing pages](http://docs.marketo.com/display/DOCS/Landing+Pages), [snippets](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets), and [web campaigns](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor).
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 ## Understanding Default Values {#understanding-default-values}
 
 When you use a token, you also want to provide a default value. This is the text that shows if a person doesn't have a value for the field you're referencing.

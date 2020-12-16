@@ -6,12 +6,6 @@ title: Refresh a List or Smart List
 
 # Refresh a List or Smart List {#refresh-a-list-or-smart-list}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 If you've run a smart list and a few minutes have passed, the results could be different now - refresh to find out.
 
 ## Refresh Results {#refresh-results}

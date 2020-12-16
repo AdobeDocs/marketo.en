@@ -8,12 +8,6 @@ title: Next Generation Munchkin Tracking FAQ
 
 We are excited to announce that we will soon begin a phased rollout of our next-generation web tracking technology.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 Here are the most important things to know:
 
 * We are removing the “Is Anonymous” Smart List filter with our Q1 release (already done)

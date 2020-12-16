@@ -8,12 +8,6 @@ title: Remove a Member from an Engagement Program
 
 Oops! How did those people get in there? You can remove members from an engagement program with the **Change Program Status** flow step.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!TIP]
 >
 >Don't use this to pause content for a person. That will eliminate all attribution in analytics.  Learn more about how to [pause people in an engagement program](pause-people-in-an-engagement-program.md).

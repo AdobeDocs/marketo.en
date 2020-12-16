@@ -6,12 +6,6 @@ title: Change Engagement Program Stream
 
 # Change Engagement Program Stream {#change-engagement-program-stream}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 ## Overview {#overview}
 
 Normally you would use [stream transition rules](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) to achieve this, but if you want to manually move people from one stream to another, this is the flow step to use.

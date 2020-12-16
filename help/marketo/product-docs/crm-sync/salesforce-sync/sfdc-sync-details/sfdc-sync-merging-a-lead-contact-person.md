@@ -6,12 +6,6 @@ title: SFDC Sync -Merging a Lead/Contact/Person
 
 # SFDC Sync: Merging a Lead/Contact/Person {#sfdc-sync-merging-a-lead-contact-person}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 Sometimes it's best to just list the rules. Here we go:
 
 * When you merge two leads in **Salesforce**, the normal sync tells Marketo and the leads are merged automatically as people in Marketo.

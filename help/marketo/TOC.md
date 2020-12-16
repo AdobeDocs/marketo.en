@@ -36,8 +36,6 @@ user-guide-description: Marketo product documentation
     + [Items to Check Off](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
     + [Things to Review: Core Skills](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
     + [Ways to Get Help](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-  + [Understanding and Using the Launch Pack](getting-started/understanding-and-using-the-launch-pack.md)
-  + [Updates to Marketo Terminology](getting-started/updates-to-marketo-terminology.md)
 + Product Docs {#product-docs}
   + Account Based Marketing {#account-based-marketing}
     + Setup {#setup}

@@ -8,12 +8,6 @@ title: Approve/Unapprove a Revenue Model
 
 You may only have one approved model at any given time.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!CAUTION]
 >
 >[Individual stages must be approved](approving-stages-and-assigning-leads-to-a-revenue-model.md) and people added before you approve an entire model.

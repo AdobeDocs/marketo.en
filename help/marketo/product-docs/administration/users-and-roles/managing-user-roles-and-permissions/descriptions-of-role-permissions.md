@@ -6,12 +6,6 @@ title: Descriptions of Role Permissions
 
 # Descriptions of Role Permissions {#descriptions-of-role-permissions}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 Below is a list of all available permissions that you can assign to your roles. Permissions are generally associated with specific functional areas inside Marketo and can help you control what areas and functionality different users have access to.
 
 Some additional information about permissions:

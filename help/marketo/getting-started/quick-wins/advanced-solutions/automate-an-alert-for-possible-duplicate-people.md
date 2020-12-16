@@ -8,16 +8,10 @@ title: Automate an Alert for Possible Duplicate People
 
 Want an alert every time possible duplicate person is created? Here is how to set up a Smart Campaign to do it.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
+1. [Create a new smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md). Define the following smart list:
 
-1. [Create a new smart campaign](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md). Define the following smart list:
-
-    * Trigger: **Person is Created**
-    * Filter: **Duplicate Fields. **Field Name **is** **Full Name**.
+* Trigger: **Person is Created**
+* Filter: **Duplicate Fields.** Field Name **is Full Name**
 
    ![](assets/image2017-3-27-8-3a22-3a4.png)
 
@@ -25,18 +19,17 @@ Want an alert every time possible duplicate person is created? Here is how to se
    >
    >Be creative. Experiment with different fields to get better filtering results.
 
-1. In the flow step, choose [Send Alert](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) flow action.
+1. In the flow step, choose [Send Alert](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) flow action.
 
    ![](assets/image2017-3-27-8-3a24-3a8.png)
 
    >[!TIP]
    >
-   >Using the [Send Alert Info token](../../../product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) to include a link to the person in your CRM.
+   >Using the [Send Alert Info token](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) to include a link to the person in your CRM.
 
    >[!CAUTION]
    >
    >If you import a large list, you may get a bunch of these alerts all at once!
-   >
    >
    >Also, two people with the same name doesn't automatically mean they are the same person.
 
@@ -48,4 +41,4 @@ That's it! This smart campaign will trigger every time a new person with an exis
 
 >[!MORELIKETHIS]
 >
->* [Find and Merge Duplicate People](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)
+>[Find and Merge Duplicate People](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)

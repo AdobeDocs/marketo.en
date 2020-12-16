@@ -6,12 +6,6 @@ title: Make Your Unsubscribe Message Dynamic for Languages
 
 # Make Your Unsubscribe Message Dynamic for Languages {#make-your-unsubscribe-message-dynamic-for-languages}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 The default unsubscribe message and link are in English. You can use dynamic content to display it in different languages.
 
 >[!NOTE]
