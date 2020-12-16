@@ -8,12 +8,6 @@ title: Create a Segmentation
 
 Segmentation allows you to group people into distinct profiles for reporting and dynamic content. Here's how to create them.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 1. Go to **Database**.
 
    ![](assets/image2017-3-28-13-3a44-3a54.png)

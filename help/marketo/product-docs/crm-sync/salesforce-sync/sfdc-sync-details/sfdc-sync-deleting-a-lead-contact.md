@@ -6,12 +6,6 @@ title: SFDC Sync -Deleting a Lead/Contact
 
 # SFDC Sync: Deleting a Lead/Contact {#sfdc-sync-deleting-a-lead-contact}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 Here are some of the details:
 
 * Marketo doesn't automatically delete people just because leads were deleted in Salesforce. Rather a field “SFDC Is Deleted” flag is set to true. You can trigger off this field to delete in Marketo if desired.

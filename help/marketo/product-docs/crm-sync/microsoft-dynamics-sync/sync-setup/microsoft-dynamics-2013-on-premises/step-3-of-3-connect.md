@@ -6,12 +6,6 @@ title: Step 3 of 3 -Connect Marketo and Dynamics (2013 On-Premises)
 
 # Step 3 of 3: Connect Marketo and Dynamics (2013 On-Premises) {#step-of-connect-marketo-and-dynamics-on-premises}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 Alright! We installed the solution and configured the sync user. Next, we need to connect Marketo and Dynamics.
 
 >[!PREREQUISITES]

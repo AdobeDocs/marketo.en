@@ -8,12 +8,6 @@ title: Using the URL Builder
 
 The URL Builder helps you construct URLs that can populate Marketo hidden form fields.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
 >Learn how to create hidden fields in forms and edit their settings in [Set a Form Field as Hidden](../../../../product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).

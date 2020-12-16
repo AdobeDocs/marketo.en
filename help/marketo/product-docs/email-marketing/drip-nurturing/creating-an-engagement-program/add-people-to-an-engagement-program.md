@@ -6,12 +6,6 @@ title: Add People to an Engagement Program
 
 # Add People to an Engagement Program {#add-people-to-an-engagement-program}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 There are several ways that people can become members of an engagement program:
 
 * [Add to Engagement Program](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)

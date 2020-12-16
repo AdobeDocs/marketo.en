@@ -10,8 +10,8 @@ title: Ways to Get Help
 
 Still can't find what you need? Don't know what you don't know? Connect with us! We can help.
 
-![--](assets/seo-29.png) For technical assistance with something that's not working, contact **[Marketo Customer Support](https://nation.marketo.com/t5/Support/ct-p/Support)**.
+![--](assets/seo-29.png) For technical assistance with something that's not working, contact [**Marketo Customer Support**](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 ![--](assets/seo-30.png) To connect with our professional services team, reach out to **marketoservices@adobe.com**.
 
-![--](assets/education-science-08.png) To build your Marketo skills, visit **[Marketo University](https://learn.marketo.com).**
+![--](assets/education-science-08.png) To build your Marketo skills, visit [**Marketo University**](https://learn.marketo.com).

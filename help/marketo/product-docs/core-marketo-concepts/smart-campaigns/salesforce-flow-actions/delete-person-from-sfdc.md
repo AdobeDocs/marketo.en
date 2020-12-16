@@ -10,12 +10,6 @@ If you need to remove a specific set of leads from Salesforce but leave them as 
 
 >[!NOTE]
 >
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
->[!NOTE]
->
 >Only available when integrated with Salesforce.
 
 1. In the Database, click the person you want to remove from Salesforce. Then click **Person Actions** and select **Salesforce**.

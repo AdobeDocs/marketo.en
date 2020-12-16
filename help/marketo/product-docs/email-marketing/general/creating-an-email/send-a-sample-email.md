@@ -10,12 +10,6 @@ It's quick and easy to send samples of an email. To send a dynamic content email
 
 >[!NOTE]
 >
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
->[!NOTE]
->
 >You must have the **Access Database - Run Single Flow Actions** permission to send sample emails.
 
 ## Send a Sample Email {#send-a-sample-email-1}

@@ -8,21 +8,15 @@ title: Personalize an Email
 
 ## Mission: Make your emails personal by adding data tokens {#mission-make-your-emails-personal-by-adding-data-tokens}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Get Set Up and Add a Person](get-set-up-and-add-a-person.md)
->* [Send an Email Blast](send-an-email.md)
->* [Drip, Drip, Nurture](drip-drip-nurture.md)
+>* [Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Send an Email Blast](/help/marketo/getting-started/quick-wins/send-an-email.md)
+>* [Drip, Drip, Nurture](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
 ## Step 1: Select an Email to Personalize {#step-select-an-email-to-personalize}
 
-1. Select one of the nurture emails created in the [previous quick win](drip-drip-nurture.md) and click **Edit Draft**.
+1. Select one of the nurture emails created in the [previous quick win](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) and click **Edit Draft**.
 
    ![](assets/one-4.png)
 
@@ -30,9 +24,7 @@ title: Personalize an Email
    >
    >This creates a copy of the email as a draft. You must approve the draft for the changes to go live.
 
-   **Edit Draft**
-
-If you haven't enabled a pop-up blocker, the email editor will open in a new tab/window. Otherwise, click  twice. 
+If you haven't enabled a pop-up blocker, the email editor will open in a new tab/window. Otherwise, click **Edit Draft** twice.
 
 ## Step 2: Make the Salesperson the Sender {#step-make-the-salesperson-the-sender}
 
@@ -100,11 +92,7 @@ If you haven't enabled a pop-up blocker, the email editor will open in a new tab
 
 >[!TIP]
 >
->Need a quick refresher on how to send yourself the email? See [Send an Email Blast](send-an-email.md).
-
-### Watch a Video {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/iRnqxMyJg6VKyuPeuxmHFb.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` 
+>Need a quick refresher on how to send yourself the email? See [Send an Email Blast](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
 ### Mission Complete {#mission-complete}
 
@@ -112,4 +100,6 @@ Congratulations, you've personalized your email!
 
 <br>&nbsp;
 
-[◄ Mission 6: Drip, Drip, Nurture](drip-drip-nurture.md) [Mission 8: Alert the Sales Rep ►](alert-the-sales-rep.md) 
+[◄ Mission 6: Drip, Drip, Nurture](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+
+[Mission 8: Alert the Sales Rep ►](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)

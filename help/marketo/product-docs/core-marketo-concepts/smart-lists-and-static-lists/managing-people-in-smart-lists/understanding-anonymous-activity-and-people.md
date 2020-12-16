@@ -8,12 +8,6 @@ title: Understanding Anonymous Activity and People
 
 The first time someone visits a Marketo [l `anding page`](http://docs.marketo.com/display/DOCS/Personalizing+Landing+Pages)  (or a page on your website that has the [Munchkin Tracking Code](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)), Marketo creates an *anonymous **activity* and uses a browser cookie to track it. Once it's identified, it becomes a person and the history associated with their browser cookie is merged in.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 **An Anonymous** activity is created when someone:
 
 * Visits your Marketo landing page the first time.

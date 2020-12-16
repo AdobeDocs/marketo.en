@@ -8,12 +8,6 @@ title: Use the Send Alert Info Token
 
 The `{{SP_Send_Alert_Info}}` token is a special token to be used when creating alert emails for your sales team.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!TIP]
 >
 >This token only works as intended when sending the email containing it with the [Send Alert](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) flow step. It will not work when used in a Send Email flow step.

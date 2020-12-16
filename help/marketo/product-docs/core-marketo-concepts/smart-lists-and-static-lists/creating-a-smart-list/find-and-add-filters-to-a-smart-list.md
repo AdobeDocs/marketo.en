@@ -10,12 +10,6 @@ Once you've [created a smart list](create-a-smart-list.md), you need to add and 
 
 In this example, let's find all people in California with a score over 50.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!TIP]
 >
 >Explore the tree on the right - filters are very powerful and have a wide variety of possible functions.

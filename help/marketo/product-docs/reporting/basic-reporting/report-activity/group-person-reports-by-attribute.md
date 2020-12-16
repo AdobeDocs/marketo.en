@@ -8,12 +8,6 @@ title: Group Person Reports by Attribute
 
 You can group your [person reports](http://docs.marketo.com/display/docs/basic+reporting) by any person or company attribute.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 1. Go to the **Marketing Activities** (or **Analytics**) area.
 
    ![](assets/image2017-3-28-10-3a22-3a53.png)

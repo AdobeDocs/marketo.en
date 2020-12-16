@@ -8,12 +8,6 @@ title: Using the Person Detail Page
 
 The person detail page contains all the information Marketo knows about a person. You can edit data directly from this page.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 ## Getting to Person Detail Page {#getting-to-person-detail-page}
 
 There are lots of ways to open specific people. Some examples are listed below.

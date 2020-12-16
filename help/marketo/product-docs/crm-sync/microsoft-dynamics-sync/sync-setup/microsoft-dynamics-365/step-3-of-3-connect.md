@@ -6,12 +6,6 @@ title: Step 3 of 3 -Connect Microsoft Dynamics with Marketo (Online)
 
 # Step 3 of 3: Connect Microsoft Dynamics with Marketo (Online) {#step-of-connect-microsoft-dynamics-with-marketo-online}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 This is the last step of the sync. We're almost there!
 
 >[!PREREQUISITES]

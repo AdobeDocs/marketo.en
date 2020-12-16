@@ -6,12 +6,6 @@ title: SFDC Sync -Lead Sync
 
 # SFDC Sync: Lead Sync {#sfdc-sync-lead-sync}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 Did you know Marketo syncs from your Salesforce database? It syncs, waits 5 minutes, then syncs again. All day, every day. Here are some details about how Marketo treats Salesforce leads specifically.
 
 ## Sync Direction {#sync-direction}

@@ -10,12 +10,6 @@ When people show up at your event, you can find their information on the app. Af
 
 The app works the same on both iPad and Android, except for minor layout and design differences.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
 >* Create an event in Marketo and populate it with Invited and Registered people.

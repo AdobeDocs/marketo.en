@@ -8,12 +8,6 @@ title: Understanding System Managed Fields
 
 You might have noticed that the [person detail page](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) has a series of non-editable fields created by Marketo. This data comes from various sources, and there are countless values that could display.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 ## Field Types {#field-types}
 
 | **Field Name** |**Definition** |

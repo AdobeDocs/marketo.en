@@ -10,12 +10,6 @@ You can create a report showing which stage of your  [Revenue Cycle Model](http:
 
 >[!NOTE]
 >
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
->[!NOTE]
->
 >**Availability**
 >
 >Not all Marketo editions include this functionality. Contact your Account Manager for more detail.
