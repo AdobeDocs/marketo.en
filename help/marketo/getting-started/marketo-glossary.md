@@ -475,7 +475,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr> 
   <tr> 
    <td><strong>Lead</strong></td> 
-   <td>In <strong>Marketo Engage</strong>, lead is the previous term (<a href="/help/marketo/getting-started/updates-to-marketo-terminology.md" rel="nofollow">replaced by <strong>person</strong></a>) used to describe an individual in your Marketo <strong>database</strong> that you're engaging with through your marketing campaigns. In your <strong>CRM</strong>, a lead may represent a different concept (i.e., an individual associated with an <strong>opportunity</strong>) independent of Marketo's functionality.</td> 
+   <td>In <strong>Marketo Engage</strong>, lead is the previous term (replaced by <strong>person</strong>) used to describe an individual in your Marketo <strong>database</strong> that you're engaging with through your marketing campaigns. In your <strong>CRM</strong>, a lead may represent a different concept (i.e., an individual associated with an <strong>opportunity</strong>) independent of Marketo's functionality.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Lead Database</strong></td> 
