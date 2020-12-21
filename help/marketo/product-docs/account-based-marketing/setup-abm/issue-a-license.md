@@ -26,5 +26,4 @@ You'll need to set users up with a license to use ABM. Here's how to do that.
 
    >[!NOTE]
    >
-   >To remove a user's license, follow step 1, then *un*check the checkbox and click **Save**.
-
+   >To remove a user's license, follow step 1, then uncheck the checkbox and click **Save**.
