@@ -61,7 +61,7 @@ user-guide-description: Marketo product documentation
         + [Filtering in Named Accounts](product-docs/account-based-marketing/target/named-accounts/filtering-in-named-accounts.md)
         + [Delete a Named Account](product-docs/account-based-marketing/target/named-accounts/delete-a-named-account.md)
         + [ABM Hierarchies](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)
-        + [Create a Hierarchy](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies/create-a-hierarchy.md)
+        + [Create a Hierarchy](product-docs/account-based-marketing/target/named-accounts/create-a-hierarchy.md)
       + [Account Lists](product-docs/account-based-marketing/target/account-lists.md)
       + [Create a Matched Audience on LinkedIn](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
     + Engage {#engage}
