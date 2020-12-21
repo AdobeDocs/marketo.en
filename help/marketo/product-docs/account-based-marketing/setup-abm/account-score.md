@@ -25,9 +25,7 @@ In the complex world of B2B buying processes, it’s rare that a single individu
 
 >[!NOTE]
 >
->**Explanation**
->
->To calculate account scores, you first need to create lead scores. Marketo ABM automatically aggregates lead scores to account scores. As an example, we'll take two of the above examples (*Account **Product Interest Score *and* Account Web Engagement Score*).
+>To calculate account scores, you first need to create lead scores. Marketo ABM automatically aggregates lead scores to account scores. As an example, we'll take two of the above examples (_Account Product Interest Score_ and _Account Web Engagement Score_).
 >
 >First, create lead score fields that capture relevant details from each lead of a target account.  
 >Then assign those lead scores to their respective account scores:  
@@ -54,17 +52,16 @@ Once you've configured the lead score, proceed by following the steps below.
 
    >[!NOTE]
    >
-   >You can choose up to **five **fields to calculate the Account Score.
+   >You can choose up to **five** fields to calculate the Account Score.
 
 1. Enter the Account Score name, click the **Select Person Score** drop-down and select the corresponding score.
 
    ![](assets/four.png)
 
-1. Click **+Add **to add more scores.
+1. Click **+Add** to add more scores.
 
    ![](assets/five.png)
 
 1. Add all desired scores. Click **Save** when done.
 
    ![](assets/six.png)
-

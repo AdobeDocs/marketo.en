@@ -18,7 +18,7 @@ Filtering is a great way to narrow down data quickly.
 
    >[!NOTE]
    >
-   >There are a several search parameter combinations. In this example we locate: *Industry = Banking, Country = United States, Max Employees = 10000*.
+   >There are a several search parameter combinations. In this example we locate: _Industry = Banking, Country = United States, Max Employees = 10000_.
 
 1. Click the **Industry** drop-down and select **Banking**.
 
@@ -37,4 +37,3 @@ Filtering is a great way to narrow down data quickly.
    >[!NOTE]
    >
    >To add more filters to choose from, click **Add Filter** at the bottom left of the form.
-

@@ -50,7 +50,7 @@ To use this filter, click the account list drop-down...
 
    ![](assets/eight.png)
 
-1. If you use the "is any" qualifier, you may want to utilize [constraints](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter) to narrow your search results. Add as many as you'd like!
+1. If you use the "is any" qualifier, you may want to utilize [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) to narrow your search results. Add as many as you'd like!
 
    ![](assets/nine.png)
 
@@ -60,4 +60,4 @@ To use this filter, click the account list drop-down...
 
 >[!MORELIKETHIS]
 >
->* [Account Triggers](account-triggers.md)
+>[Account Triggers](/help/marketo/product-docs/account-based-marketing/engage/account-triggers.md)

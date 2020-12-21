@@ -28,7 +28,6 @@ Using Hierarchy
 >
 >The Marketo interface will only show up to 10 levels down (child and grandchild accounts of the parent account), however there is no limit to the number of child accounts you can create.
 
-Target and report on entire hierarchies with [one click](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount).
+Target and report on entire hierarchies with [one click](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)
-

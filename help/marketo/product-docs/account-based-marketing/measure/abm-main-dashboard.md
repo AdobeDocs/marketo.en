@@ -18,7 +18,7 @@ To filter by account list, click the View drop-down...
 
 ![](assets/three.png)
 
-To view the [Account List Dashboard](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard), click the name of the account list you selected...
+To view the [Account List Dashboard](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md#account-list-dashboard), click the name of the account list you selected...
 
 ![](assets/four.png)
 
@@ -30,7 +30,6 @@ If instead of viewing the Account List Dashboard you want to drill-down into a n
 
 ![](assets/six.png)
 
-...and view the [named account's insights](http://docs.marketo.com/display/DOCS/Named+Account+Insights).
+...and view the [named account's insights](/help/marketo/product-docs/account-based-marketing/measure/named-account-insights.md).
 
 ![](assets/seven.png)
-

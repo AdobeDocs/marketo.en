@@ -14,7 +14,7 @@ The results show you all of your known accounts broken down by grade. A is the h
 
 ![](assets/results.png)
 
-While optional, we recommend selecting the Automatically promote checkbox, as it will save you a ton of time. However, if you'd like to go through each account and [add them manually](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts), simply leave the box unchecked.
+While optional, we recommend selecting the Automatically promote checkbox, as it will save you a ton of time. However, if you'd like to go through each account and [add them manually](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md#discover-crm-accounts), simply leave the box unchecked.
 
 <table> 
  <tbody> 
@@ -59,20 +59,89 @@ There are several tabs to choose from, allowing for in-depth customization.
 
 ![](assets/tuning-page.png)
 
-Indicator Categories
+**Indicator Categories**
 
-| **Compliance** |Certifications, compliance-related positions/hiring. |
-|---|---|
-| **Operations** |Operations-related positions/hiring. |
-| **HR** |HR or Payroll software, HR-related positions/hiring. |
-| **Engineering** |Technologies, frameworks, engineering-related positions/hiring. |
-| **Sales** |Solutions and software for sales, sales-related positions/hiring. |
-| **Intent** |Intent indicators. |
-| **IT** |Hardware and software solutions, technologies, IT-related positions/hiring. |
-| **Finance** |Finance software, finance-related positions/hiring. |
-| **Marketing** |Marketing technologies and software, marketing-related positions/hiring. |
-| **Business** |Forbes or Inc listings or business partnerships. |
-| **Customer Experience & Relations** |Customer success and customer relations positions/hiring. |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Compliance</strong></td> 
+   <td> 
+    <div>
+      Certifications, compliance-related positions/hiring. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Operations</strong></td> 
+   <td> 
+    <div>
+      Operations-related positions/hiring. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>HR</strong></td> 
+   <td> 
+    <div>
+      HR or Payroll software, HR-related positions/hiring.
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Engineering</strong></td> 
+   <td> 
+    <div>
+      Technologies, frameworks, engineering-related positions/hiring. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Sales</strong></td> 
+   <td> 
+    <div>
+      Solutions and software for sales, sales-related positions/hiring. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Intent</strong></td> 
+   <td> 
+    <div>
+      Intent indicators. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>IT</strong></td> 
+   <td> 
+    <div>
+      Hardware and software solutions, technologies, IT-related positions/hiring.
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Finance</strong></td> 
+   <td> 
+    <div>
+      Finance software, finance-related positions/hiring. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Marketing</strong></td> 
+   <td> 
+    <div>
+      Marketing technologies and software, marketing-related positions/hiring. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Business</strong></td> 
+   <td> 
+    <div>
+      Forbes or Inc listings or business partnerships. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Customer Experience & Relations</strong></td> 
+   <td> 
+    <div>
+      Customer success and customer relations positions/hiring.
+    </div></td> 
+  </tr> 
+ </tbody> 
+</table>
 
 Hover over the tool tips for a description of each column.
 
@@ -82,7 +151,7 @@ Click the Add ICP Indicator drop-down to insert additional indicators into your 
 
 ![](assets/add-icp.png)
 
-Checking the Export box allows you to see the ICP indicator on the Named Account details page, as well as use the selected ICP indicator as constraints in [named account filters](http://docs.marketo.com/display/DOCS/Account+Filters).
+Checking the Export box allows you to see the ICP indicator on the Named Account details page, as well as use the selected ICP indicator as constraints in [named account filters](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md).
 
 ![](assets/export.png)
 
@@ -101,4 +170,3 @@ Click Refresh Model in order for those changes to take effect.
 When you're done tuning your model (after you refresh it), go back to the Model Results tab and click **Save & Apply Ranks**.
 
 ![](assets/ranks.png)
-

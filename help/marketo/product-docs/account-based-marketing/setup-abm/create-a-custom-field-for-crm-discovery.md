@@ -39,4 +39,3 @@ Add custom fields to accounts, map them to your CRM, and use them for CRM Accoun
    Once synced, your new field will appear on the far right in your Discover CRM grid.
 
    ![](assets/eight.png)
-

@@ -58,7 +58,7 @@ There are three different ways to manually add people to a named account in ABM.
 
 1. Map your desired fields. Make sure the **Named Account** field is mapped.
 
-   ![](assets/eleven.png)  
+   ![](assets/eleven.png)
 
 1. Choose your desired settings, then click **Import**.
 

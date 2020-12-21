@@ -42,7 +42,7 @@ The ABM Sales Report is a weekly, personalized email sent to the account team.
 
    ![](assets/seven-2.png)
 
-And that's it! 
+And that's it!
 
 ## How to Unsubscribe {#how-to-unsubscribe}
 
@@ -71,4 +71,3 @@ Each report comes with the option to opt out. To do so simply click **Unsubscrib
 1. Select the user you want to receive emails again and click **Resubscribe**.
 
    ![](assets/eleven.png)
-

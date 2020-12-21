@@ -42,7 +42,6 @@ Follow these steps to provide users access to Account Insight.
 
    ![](assets/six-3.png)
 
-1. Look over the send message, make any desired changes (optional), and click **Send**.
+1. Look over the send message, make any desired changes (optional) and click **Send**.
 
    ![](assets/seven-2.png)
-
