@@ -22,6 +22,4 @@ Follow these steps to manually create a named account.
 
 >[!MORELIKETHIS]
 >
->* [Add People to a Named Account](add-people-to-a-named-account.md)
->
-
+>[Add People to a Named Account](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-people-to-a-named-account.md)

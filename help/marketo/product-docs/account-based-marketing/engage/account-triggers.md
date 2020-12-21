@@ -36,4 +36,4 @@ That's it! After you finish the rest of your smart campaign, remember to activat
 
 >[!MORELIKETHIS]
 >
->* [Account Filters](account-filters.md)
+>[Account Filters](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md)

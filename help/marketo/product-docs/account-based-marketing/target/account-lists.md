@@ -14,7 +14,7 @@ In addition to account lists, you can also create dynamic account lists that are
 
 >[!NOTE]
 >
->Account lists created in Marketo Account Based Marketing are automatically available when building smart lists and web campaigns in [Web Personalization](http://docs.marketo.com/display/DOCS/RTP+Segments).
+>Account lists created in Marketo Account Based Marketing are automatically available when building smart lists and web campaigns in [Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
 ## Create a New Account List {#create-a-new-account-list}
 
@@ -26,7 +26,7 @@ In addition to account lists, you can also create dynamic account lists that are
 
    ![](assets/three-0.png)
 
-1. After you create your account list, get started on [adding named accounts to it](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)!
+1. After you create your account list, get started on [adding named accounts to it](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)!
 
    >[!NOTE]
    >
@@ -54,7 +54,7 @@ In addition to account lists, you can also create dynamic account lists that are
 
 >[!NOTE]
 >
->These steps apply only to account lists. *Dynamic* account lists use the name of their associated CRM Account Views.
+>These steps apply only to account lists. _Dynamic_ account lists use the name of their associated CRM Account Views.
 
 1. Select the account you want to rename, click the **Account List Actions** drop-down and select **Rename Account List**.
 
@@ -84,7 +84,5 @@ In addition to account lists, you can also create dynamic account lists that are
 
 >[!MORELIKETHIS]
 >
->* [Add an Existing Named Account to an Account List](named-accounts/add-an-existing-named-account-to-an-account-list.md)
->* [Account List Insights](../../../product-docs/account-based-marketing/measure/account-list-insights.md)
->
-
+>* [Add an Existing Named Account to an Account List](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [Account List Insights](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md)

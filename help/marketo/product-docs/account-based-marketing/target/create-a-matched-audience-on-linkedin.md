@@ -10,7 +10,7 @@ Create matched audiences from your ABM Account Lists for LinkedIn Ad Targeting.
 
 >[!PREREQUISITES]
 >
->[Add LinkedIn Matched Audiences as a LaunchPoint Service](http://docs.marketo.com/x/I4Fy)
+>[Add LinkedIn Matched Audiences as a LaunchPoint Service](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
 1. In ABM, click the **Account Lists** tab.
 
@@ -42,10 +42,6 @@ Create matched audiences from your ABM Account Lists for LinkedIn Ad Targeting.
 
    And that's it. Your audience has been pushed over to LinkedIn.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Use a Marketo List or Smart List as a LinkedIn Audience Segment](http://docs.marketo.com/x/NIFy)
->
-
+>[Use a Marketo List or Smart List as a LinkedIn Audience Segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)

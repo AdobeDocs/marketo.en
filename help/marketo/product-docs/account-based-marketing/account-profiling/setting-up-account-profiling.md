@@ -38,5 +38,4 @@ Follow these steps to start using Account Profiling.
 
    >[!TIP]
    >
-   >Now that your model is created, learn how to tune it in the [Account Profiling Overview](http://docs.marketo.com/x/NIDv).
-
+   >Now that your model is created, [learn how to tune it](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md).

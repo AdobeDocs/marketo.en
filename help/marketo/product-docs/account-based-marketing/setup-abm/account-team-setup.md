@@ -42,12 +42,6 @@ An account team is a group of stakeholders who work together on a named account.
 
    >[!NOTE]
    >
-   >**Explanation**
+   >When Multiple CRM Accounts with different account owners are merged into a Named Account, Marketo will pick one "Account Owner" and add other account owners as "Account Co-Owners"
    >
-   >    
-   >    
-   >    * When Multiple CRM Accounts with different account owners are merged into a Named Account, Marketo will pick one "Account Owner" and add other account owners as "Account Co-Owners"
-   >    * If a CRM "Role" field is later renamed or deleted, Marketo ABM will stop syncing the updated values until the user manually updates the setup in ABM
-   >    
-   >
-
+   >If a CRM "Role" field is later renamed or deleted, Marketo ABM will stop syncing the updated values until the user manually updates the setup in ABM

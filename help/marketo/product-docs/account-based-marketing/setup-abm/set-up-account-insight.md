@@ -10,7 +10,7 @@ Here's how to set up Account Insight.
 
 >[!PREREQUISITES]
 >
->ABM account score [must be configured](http://docs.marketo.com/display/DOCS/Account+Score) first.
+>ABM account score [must be configured](/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md) first.
 
 1. Click **Admin**.
 
@@ -30,9 +30,8 @@ Here's how to set up Account Insight.
 
    >[!NOTE]
    >
-   >If the [Account Score settings](http://docs.marketo.com/display/DOCS/Account+Score) are updated at any point, the configuration under ABM Sales needs to be updated by an Admin to make sure the scores accurately reflect the user's preferences. The user needs to log out and log back in to see the changes.
+   >If the [Account Score settings](/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md) are updated at any point, the configuration under ABM Sales needs to be updated by an Admin to make sure the scores accurately reflect the user's preferences. The user needs to log out and log back in to see the changes.
 
 1. Click **Save**.
 
    ![](assets/five-4.png)
-

@@ -10,22 +10,19 @@ Hierarchies are meant to be created in CRMs. However if you don't have a CRM, fo
 
 1. In Named Accounts, click the **Group by Hierarchy** checkbox.
 
-   ![](assets/one.png)
+   ![](assets/create-a-hierarchy-1.png)
 
    >[!NOTE]
-   >
-   >**Reminder**
-   >
    >
    >Only non-CRM accounts can be used to manually create a hierarchy. CRM-linked accounts need to have their hierarchies created in the CRM.
 
 1. Using ctrl+click (Windows) or Cmd+click (Mac), select all of the accounts you want to group together in a hierarchy.
 
-   ![](assets/two.png)
+   ![](assets/create-a-hierarchy-2.png)
 
 1. Click the **Named Account Actions** drop-down and select **Link to Named Account**.
 
-   ![](assets/three.png)
+   ![](assets/create-a-hierarchy-3.png)
 
    >[!NOTE]
    >
@@ -33,9 +30,8 @@ Hierarchies are meant to be created in CRMs. However if you don't have a CRM, fo
 
 1. Select a Parent Named Account from the drop-down and click **Link**.
 
-   ![](assets/four.png)
+   ![](assets/create-a-hierarchy-4.png)
 
 1. Your named accounts are now part of a hierarchy. Click the arrow to the left to see all of its child accounts.
 
-   ![](assets/five.png)
-
+   ![](assets/create-a-hierarchy-5.png)

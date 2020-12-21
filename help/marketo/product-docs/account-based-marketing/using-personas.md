@@ -63,4 +63,3 @@ View your personas by visiting a specific Named Account.
 1. Use persona filters in a smart list to market to a specific group of people.
 
 ![](assets/one-b.png)
-
