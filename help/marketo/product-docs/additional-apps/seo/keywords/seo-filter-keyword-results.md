@@ -6,7 +6,7 @@ title: SEO - Filter Keyword Results
 
 # SEO - Filter Keyword Results {#seo-filter-keyword-results}
 
-You might have a lot of [keywords](seo-understanding-keywords.md). Here are different ways to filter them:
+You might have a lot of [keywords](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). Here are different ways to filter them:
 
 ## Filter by list {#filter-by-list}
 
@@ -20,9 +20,9 @@ You might have a lot of [keywords](seo-understanding-keywords.md). Here are diff
 
    >[!NOTE]
    >
-   >If you don't see any lists,  [l](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) [earn how to make a keyword list](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
+   >If you don't see any lists, [learn how to make a keyword list](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
 
-Sweet! You will now only be looking at keywords on that list. 
+Sweet! You will now only be looking at keywords on that list.
 
 ## Filter by SERP Rank {#filter-by-serp-rank}
 
@@ -30,7 +30,7 @@ Sweet! You will now only be looking at keywords on that list.
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   The orange squares define your upper (left) and lower (right) limits. The filter works on the keyword's [SERP rank](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+   The orange squares define your upper (left) and lower (right) limits. The filter works on the keyword's [SERP rank](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
 1. Slide the orange squares left/right to filter the results.
 
@@ -38,7 +38,7 @@ Sweet! You will now only be looking at keywords on that list.
 
 ## Filter by Search {#filter-by-search}
 
-   You can also find the keywords you are looking for using the search field in the upper right hand corner. 
+   You can also find the keywords you are looking for using the search field in the upper right hand corner.
 
 1. Go to the **Keywords** section.
 
@@ -47,6 +47,3 @@ Sweet! You will now only be looking at keywords on that list.
 1. Enter your keyword into the search field.
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)
-
-   Congratulations! You are now a keyword filtering samurai warrior!
-

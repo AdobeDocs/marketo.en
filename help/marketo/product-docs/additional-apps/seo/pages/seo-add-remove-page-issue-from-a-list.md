@@ -14,19 +14,21 @@ You can organize your page issues into lists. You can also remove page issues fr
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. On the pages tab, click **Issues**. 
-1. ![](assets/image2014-9-18-14-3a3-3a18.png)
+1. On the Pages tab, click **Issues**.
 
-1. Hover over the page issue you want to add. Click **ADD/REMOVE FROM LIST**.
+   ![](assets/image2014-9-18-14-3a3-3a18.png)
+
+1. Hover over the page issue you want to add. Click **Add/Remove From List**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
-   Click on the list you'd like to add your page issue to. 
+   Click on the list you'd like to add your page issue to.
+
    ![](assets/image2014-9-18-14-3a3-3a44.png)
 
    >[!TIP]
    >
-   >You can also make a new list for your keyword to go. Just type your desired name in Create a new list. 
+   >You can also make a new list for your keyword to go. Just type your desired name in Create a new list.
 
 ## Remove Page Issue From a List {#remove-page-issue-from-a-list}
 
@@ -34,7 +36,7 @@ You can organize your page issues into lists. You can also remove page issues fr
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. On the pages tab, click **Issues**. 
+1. On the pages tab, click **Issues**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
@@ -42,7 +44,7 @@ You can organize your page issues into lists. You can also remove page issues fr
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Hover over the page issue you want to remove. Click **ADD/REMOVE FROM LIST**.
+1. Hover over the page issue you want to remove. Click **Add/Remove From List**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 
@@ -50,4 +52,4 @@ You can organize your page issues into lists. You can also remove page issues fr
 
    ![](assets/image2014-9-18-14-3a4-3a52.png)
 
-Excellent! Refresh your page and you will no longer see it on the list.
+Excellent! Refresh your page and you'll no longer see it on the list.

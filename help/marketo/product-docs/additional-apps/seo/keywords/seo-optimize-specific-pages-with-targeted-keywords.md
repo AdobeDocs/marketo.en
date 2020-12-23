@@ -16,7 +16,7 @@ Some keywords go really well with certain pages. This is how you match the perfe
 
    ![](assets/image2014-9-18-12-3a52-3a41.png)
 
-1. Select which keyword you are trying to optimize your page for. Click **UPDATE**.
+1. Select which keyword you are trying to optimize your page for. Click **Update**.
 
    >[!TIP]
    >
@@ -25,4 +25,3 @@ Some keywords go really well with certain pages. This is how you match the perfe
    ![](assets/image2014-9-18-12-3a52-3a46.png)
 
    Right on! Do this for as many pages and keywords as possible.
-

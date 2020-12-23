@@ -8,13 +8,10 @@ title: SEO - Set Your Email Alert Preferences
 
 You can customize your email preferences to determine when you'll be updated about your SEO efforts.
 
-1. In the top navigation bar, click your user name. Click **Email Preferences**. 
+1. In the top navigation bar, click your user name. Click **Email Preferences**.
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
-1. Indicate what you'd like to be alerted about via email. 
+1. Indicate what you'd like to be alerted about via email and click **Save**.
 
    ![](assets/image2014-9-17-21-3a23-3a33.png)
-
-   Groovy. Your preferences will autosave.
-

@@ -6,7 +6,8 @@ title: SEO - Importing Keywords with a CSV
 
 # SEO - Importing Keywords with a CSV {#seo-importing-keywords-with-a-csv}
 
-1. You can [add keywords](seo-add-keywords.md) manually, [get keyword suggestions](seo-get-suggested-keywords.md) and even import keywords from a CSV file. Here is how to do the import.
+1. You can [add keywords](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manually, [get keyword suggestions](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) and even import keywords from a CSV file. Here is how to do the import.
+
 1. Go to the **Keywords** section.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
@@ -27,7 +28,7 @@ title: SEO - Importing Keywords with a CSV
    >
    >Import limits vary depending on your subscription. Contact your sales rep for more information.
 
-1. Click **IMPORT**.
+1. Click **Import**.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 
@@ -37,14 +38,7 @@ title: SEO - Importing Keywords with a CSV
 
    It may take a few minutes to load all the data associated with each keyword. Meditate on the meaning of life.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Understanding Keywords (Summary View)](seo-understanding-keywords.md)
-   >    * [Add/Remove Keywords from a List](seo-add-remove-keywords-from-a-list.md)
-   >    
-   >
-
+   >* [Understanding Keywords (Summary View)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [Add/Remove Keywords from a List](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)

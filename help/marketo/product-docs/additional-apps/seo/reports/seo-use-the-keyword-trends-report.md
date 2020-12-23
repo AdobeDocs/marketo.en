@@ -41,7 +41,7 @@ In this report, you can see how you are ranked on keywords over time.
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
-## Exporting Data  {#exporting-data}
+## Exporting Data {#exporting-data}
 
    >[!TIP]
    >
@@ -55,11 +55,5 @@ In this report, you can see how you are ranked on keywords over time.
 
    >[!NOTE]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Using the Competitive KW Rank Trends Report](seo-use-the-competitor-kw-trends-report.md)
-   >    
-   >
-
+   >[Using the Competitive KW Rank Trends Report](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+  

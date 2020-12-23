@@ -8,15 +8,16 @@ title: SEO - Remove/Delete an Inbound Link URL
 
 Sometimes you're gonna want to remove inbound links. Here's how:
 
-1. Go to the **Inbound Links** section. 
+1. Go to the **Inbound Links** section.
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
-1. Hover over the inbound link URL you want to delete. 
+1. Hover over the inbound link URL you want to delete.
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
-   Click REMOVE.
+
+1. Click **Remove**.
+
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 
-   Level up! You've now deleted this inbound link.
-
+You've now deleted this inbound link.

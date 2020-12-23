@@ -14,13 +14,13 @@ You can adjust your keyword view to display the data you are most interested in.
 
    These are the default columns:
 
-1. ![](assets/image2014-9-18-13-3a37-3a36.png)
+   ![](assets/image2014-9-18-13-3a37-3a36.png)
 
 1. Click the gear icon.
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. Select or unselect the columns you'd like to see. Click **SAVE**.
+1. Select or unselect the columns you'd like to see. Click **Save**.
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
@@ -28,13 +28,6 @@ You can adjust your keyword view to display the data you are most interested in.
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Understanding Keywords - Summary View](seo-understanding-keywords.md)
-   >    
-   >
-
+   >[Understanding Keywords - Summary View](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

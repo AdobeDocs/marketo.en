@@ -33,7 +33,7 @@ This graph can show you what percentage of your keywords are ranked in a specifi
 
 ## Filtering Data {#filtering-data}
 
-1. Click the drop-down and select your desired time period. 
+1. Click the drop-down and select your desired time period.
 
    ![](assets/image2014-9-18-14-3a7-3a17.png)
 
@@ -52,4 +52,3 @@ This graph can show you what percentage of your keywords are ranked in a specifi
    ![](assets/image2014-9-18-14-3a9-3a49.png)
 
    A+ work!
-
