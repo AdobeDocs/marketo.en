@@ -6,7 +6,7 @@ title: SEO - Remove/Delete a Page Issue
 
 # SEO - Remove/Delete a Page Issue {#seo-remove-delete-a-page-issue}
 
-Not all page issues might be useful to you. Here is how to remove one:
+Not all page issues might be useful to you. Here's how to remove one.
 
 1. Go to the **Pages** section.
 
@@ -16,11 +16,11 @@ Not all page issues might be useful to you. Here is how to remove one:
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
-1. Hover over the page issue you want to remove. Click **REMOVE**.
+1. Hover over the page issue you want to remove. Click **Remove**.
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. Clicking **DELETE** will permanently remove this page issue.
+1. Clicking **Delete** will permanently remove this page issue.
 
    >[!CAUTION]
    >
@@ -28,5 +28,4 @@ Not all page issues might be useful to you. Here is how to remove one:
 
    ![](assets/image2014-9-18-14-3a1-3a28.png)
 
-   Sweet! Your page issue is now removed.
-
+Sweet! Your page issue is now removed.

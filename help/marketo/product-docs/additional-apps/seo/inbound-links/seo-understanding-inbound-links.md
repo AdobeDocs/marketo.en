@@ -25,6 +25,4 @@ Sweet! Now that you understand inbound links, we can suggest more inbound link o
 
 >[!MORELIKETHIS]
 >
->* [Get Inbound Link Suggestions](seo-get-inbound-link-suggestions.md)
->
-
+>[Get Inbound Link Suggestions](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)

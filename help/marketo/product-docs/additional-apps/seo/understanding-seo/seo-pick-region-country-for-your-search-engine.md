@@ -12,15 +12,15 @@ SEO Admins will be able to pick the region for the search engine that you'd like
 >
 >**Admin Permissions Required**
 
-1. Go to the Admin section.
+1. Go to the **Admin** section.
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. Click on the Search engines tab.
+1. Click the **Search engines** tab.
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. Pick which country/city you want to optimize for and click SAVE.
+1. Pick which country/city you want to optimize for and click **Save**.
 
 >[!NOTE]
 >
@@ -34,7 +34,5 @@ Excellent work. You will now see keyword ranks for the country or city of your c
 
 >[!MORELIKETHIS]
 >
->* [Understanding the Dashboard: SEO Snapshot](understanding-the-seo-dashboard-seo-snapshot.md)
->* [Understanding the Dashboard: SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
->
-
+>* [Understanding the Dashboard: SEO Snapshot](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
+>* [Understanding the Dashboard: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
