@@ -94,31 +94,30 @@ Define general parameters to your segment:
 
 >[!TIP]
 >
->**Segment Rule Logic**
+>**Segmentregellogik**
 >
->There are three filter options:
+>Es gibt drei Filteroptionen:
 >
->1. Use All Filters (1 and 2 and 3...)
->1. Use Any Filters (1 or 2 or 3...)
->1. Advanced Filters (using and / or expressions)
+>1. Alle Filter verwenden (1, 2 und 3...)
+>1. Alle Filter verwenden (1 oder 2 oder 3...)
+>1. Erweiterte Filter (mit und/oder Ausdrücken)
 >
->    Advanced filters allows you to control the segment condition. Enter the filter numbers separated by "and" and "or".
+>    Mit erweiterten Filtern können Sie die Segmentbedingung steuern. Geben Sie die Filternummern getrennt durch &quot;und&quot;und &quot;oder&quot;ein.
 >
->    * 1 and 2 and 3
->    * 1 or 2 or 3
+>    * 1 und 2 und 3
+>    * 1 oder 2 oder 3
 >
->    Mixing "and" and "or" requires parenthesis to clarify logic intention. e.g. "1 or 2 and 3" must be written as one of the following:
+>    Das Mischen von &quot;and&quot;und &quot;or&quot;erfordert Klammern, um die Logikabsicht zu verdeutlichen. z. B. &quot;1 oder 2 und 3&quot; muss wie folgt geschrieben sein:
 >
->    * 1 and (2 or 3)
->    * (1 and 2) or 3
+>    * 1 und (2 oder 3)
+>    * (1 und 2) oder 3
 >
->    Nested parenthesis are accepted for more complicated logic.e.g.
+>    Verschachtelte Klammern werden für eine kompliziertere Logik, z.
 >
->    * (1 and 2) or (3 and 4)
->    * 1 and (2 or (3 and 4))
+>    * (1 und 2) oder (3 und 4)
+>    * 1 und 2 oder 3 und 4)
 >
->    Check your logic after any insert, delete or reorder. 
->
+>    Überprüfen Sie Ihre Logik nach Einfügen, Löschen oder Neuanordnen.
 
 Drag and drop Segment attributes from the right hand side column into the segment editor on the left side:
 
