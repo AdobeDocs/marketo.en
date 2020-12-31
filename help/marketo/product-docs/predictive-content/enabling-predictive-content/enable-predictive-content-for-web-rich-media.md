@@ -8,9 +8,7 @@ title: Enable Predictive Content for Web Rich Media
 
 Predictive content engages your web visitors with the most relevant content, powered by machine learning and predictive analytics. With Web Rich Media, you can enhance your content with text descriptions and images and embed multiple predictive content recommendations on your website.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Before enabling Predictive Content, you must:
 >

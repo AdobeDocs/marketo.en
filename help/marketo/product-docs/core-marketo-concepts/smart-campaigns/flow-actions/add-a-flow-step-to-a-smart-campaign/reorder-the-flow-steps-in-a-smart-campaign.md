@@ -8,9 +8,7 @@ title: Reorder the Flow Steps in a Smart Campaign
 
 The flow steps execute from top to bottom. Here's how to reorder the flow steps to suit your needs.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add a Flow Step to a Smart Campaign](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 >

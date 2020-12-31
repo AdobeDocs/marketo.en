@@ -46,9 +46,7 @@ Change settings like time zone or Web Personalization email reports.
    >
    >Clicking **Save** won't exit you out of User Settings. To exit out, click the Marketo logo on the upper-left and select your destination.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Edit Regions](edit-regions.md)
 >

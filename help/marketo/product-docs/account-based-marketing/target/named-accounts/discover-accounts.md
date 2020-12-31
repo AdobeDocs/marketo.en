@@ -16,9 +16,11 @@ Identify potential target accounts from your CRM.
 >
 >After you connect your CRM to Marketo ABM, **Discover CRM Accounts** will show all the CRM accounts and relevant information to help you choose the right named accounts. Marketo adds additional information on top of what's received from the CRM.
 
-**People** (In Discover CRM Accounts & Discover Marketo Companies): Includes both Contacts and Leads. Leads can be discovered using Marketo's [lead-to-account matching](http://docs.marketo.com/display/DOCS/Lead+to+Account+Matching). **Potential People** (In Discover CRM Accounts & Discover Marketo Companies): Shows how many leads Marketo found that could possibly belong to a CRM account.
+**People** (In Discover CRM Accounts & Discover Marketo Companies): Includes both Contacts and Leads. Leads can be discovered using Marketo's [lead-to-account matching](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md).
 
-**Custom CRM field** (In Discover CRM Accounts only): This will help you align your sales and marketing organization for selection of correct target accounts. Once you [map the custom CRM field](http://docs.marketo.com/x/1wnG) with Marketo ABM, we’ll show you the mapped data to help you identify your target accounts.
+**Potential People** (In Discover CRM Accounts & Discover Marketo Companies): Shows how many leads Marketo found that could possibly belong to a CRM account.
+
+**Custom CRM field** (In Discover CRM Accounts only): This will help you align your sales and marketing organization for selection of correct target accounts. Once you [map the custom CRM field](/help/marketo/product-docs/account-based-marketing/setup-abm/create-a-custom-field-for-crm-discovery.md) with Marketo ABM, we’ll show you the mapped data to help you identify your target accounts.
 
 1. In Named Accounts, click the **New** drop-down and select **Discover CRM Accounts**.
 
@@ -56,17 +58,17 @@ Identify the right companies for targeting.
    >
    >In Discover Marketo Companies and Discover CRM, Marketo automatically:
    >
-   > * Finds people from your Marketo database that have that company listed in their record. If you see multiple values for some of the attributes (e.g. Industry), it's because Marketo found different values listed for those individual people. The attribute with the most hits wins
+   >* Finds people from your Marketo database that have that company listed in their record. If you see multiple values for some of the attributes (e.g., Industry), it's because Marketo found different values listed for those individual people. The attribute with the most hits wins
    >
    >In **Discover CRM** only, Marketo automatically:
    >
-   > * Syncs and associates CRM Contacts with the Named Account
+   >* Syncs and associates CRM Contacts with the Named Account
    >
    >In **Discover Marketo Companies** only, Marketo automatically:
    >
-   > * Filters out most Internet Service Providers and Public Domains (e.g. [Yahoo.com](https://yahoo.com), [Gmail.com](https://gmail.com)) as company names
+   >* Filters out most Internet Service Providers and Public Domains (e.g., yahoo.com, gmail.com) as company names
    >
-   > * Dedupes CRM accounts. If you have "Acme" in one record and "Acme Inc" (or any of the following suffixes: Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), we will merge them in ABM as just "Acme"
+   >* Dedupes CRM accounts. If you have "Acme" in one record and "Acme Inc" (or any of the following suffixes: Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), we will merge them in ABM as just "Acme"
    >
    >If you'd like Marketo to de-dupe accounts by CRM ID or Account Owner instead of by Company Name, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
@@ -107,4 +109,4 @@ Identify the right companies for targeting.
 
 >[!MORELIKETHIS]
 >
->* [Lead to Account Matching](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
+>[Lead to Account Matching](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)

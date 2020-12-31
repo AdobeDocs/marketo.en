@@ -6,9 +6,7 @@ title: Filter Smart Campaign Results
 
 # Filter Smart Campaign Results {#filter-smart-campaign-results}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [View Smart Campaign Results](view-smart-campaign-results.md)
 >

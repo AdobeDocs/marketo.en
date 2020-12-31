@@ -10,17 +10,9 @@ A person partition is like having a second (or third) database. A partition can 
 
 >[!NOTE]
 >
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
->[!NOTE]
->
 >**Admin Permissions Required**
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Person Partition](create-a-person-partition.md)
 >

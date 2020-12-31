@@ -14,9 +14,7 @@ Once you've set the views and rotation frequency for your presentation, it's tim
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Presentation](create-a-presentation.md)
 >* [Customize a Presentation](customize-a-presentation.md)

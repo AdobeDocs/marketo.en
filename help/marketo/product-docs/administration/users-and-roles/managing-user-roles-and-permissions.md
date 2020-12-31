@@ -108,9 +108,7 @@ If a role becomes unnecessary, you can delete it.
 
    ![](assets/image2014-9-9-18-3a10-3a50.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >Learn more about creating additional users and assigning them roles in  [Getting Started with Marketo](../../../getting-started.md). 
 

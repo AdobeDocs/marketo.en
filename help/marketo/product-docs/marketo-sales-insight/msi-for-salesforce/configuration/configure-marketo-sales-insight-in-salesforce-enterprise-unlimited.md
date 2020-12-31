@@ -8,9 +8,7 @@ title: Configure Marketo Sales Insight in Salesforce Enterprise/Unlimited
 
 Here are the steps you need to take to configure Marketo Sales Insight in Salesforce Enterprise/Unlimited Editions. Let's get started.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Configure Marketo field sync in your Salesforce Enterprise/Unlimited Edition](http://docs.marketo.com/pages/viewpage.action?pageid=2360372)
 >* [Install Marketo Sales Insight Package in Salesforce AppExchange](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)

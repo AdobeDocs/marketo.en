@@ -8,9 +8,7 @@ title: Personalized Remarketing in Facebook
 
 Personalized Remarketing lets you re-engage with your users using RTP Data and the power of Facebook Remarketing.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* Complete the [Retargeting with Web Personalization Data](retargeting-with-web-personalization-data.md) setup
 >* Review the [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook documentation on Custom Audiences](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)and Remarketing

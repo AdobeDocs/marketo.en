@@ -55,9 +55,7 @@ Using Select and Send
 
 By default, you will be editing for all recipients. But you can also select each individual email to make custom edits for. This can be great for adding one or more unique line(s) of customization to recipients you want to take a more personalized approach with.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Composing Bulk Emails with Select and Send](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
 >* [Sending Emails via Group Email](http://docs.marketo.com/x/KAQ6Ag)

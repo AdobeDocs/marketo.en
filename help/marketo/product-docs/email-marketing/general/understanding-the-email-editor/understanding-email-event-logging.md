@@ -8,12 +8,6 @@ title: Understanding Email Event Logging
 
 When sending emails, Marketo logs different data points to the person's activity logs. Here are the basic ones.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 | Event |Description |
 |---|---|
 | Sent |Is logged every time an email is sent from the Marketo servers regardless of if it is actually delivered. Bounced emails are still logged as "Sent." |

@@ -52,9 +52,7 @@ By contrast, the **Member of Vibes List **filter** **finds** **anyone** ***curre
 
 After you set up Vibes triggers and filters in your smart list, you can [define the flow](add-a-flow-step-for-sms.md). 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Define Smart List for Smart Campaign | Trigger](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [Find and Add Filters to a Smart List](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)

@@ -55,9 +55,7 @@ Google Fonts are awesome, and we built them right into the form editor. Check it
 
 See how easy it was to change the font family on a form? Cool, now that that's done, let's learn how to change the form font size.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Change the Form Font Size](change-the-form-font-size.md)
 >

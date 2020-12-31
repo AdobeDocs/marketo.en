@@ -6,12 +6,6 @@ title: Understanding Static Lists
 
 # Understanding Static Lists {#understanding-static-lists}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 Static lists are one of the most simple and useful features of Marketo. They are simply a list of names from your Database. You will find plenty of reasons to use them.
 
 >[!NOTE]
@@ -45,9 +39,7 @@ The difference between a Static and Smart List is crucial to understand.
 
 Enjoy the power of the LIST!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Create a Static List](https://docs.marketo.com/x/ecKt)
 

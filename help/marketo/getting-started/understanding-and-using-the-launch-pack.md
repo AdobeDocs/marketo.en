@@ -6,8 +6,8 @@ title: Understanding and Using the Launch Pack
 
 # Understanding and Using the Launch Pack {#understanding-and-using-the-launch-pack}
 
-![](assets/coming-soon.png) 
+![](assets/coming-soon.png)
 
-The Docs Team is currently working on this article. 
+The Docs Team is currently working on this article.
 
 We promise to publish it as soon as it’s ready.

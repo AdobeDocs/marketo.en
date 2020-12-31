@@ -48,8 +48,6 @@ As scores change, urgency, priority, and relative score values are immediately r
 >
 >The Relative Urgency (flames) and Relative Score (stars) count are integers in Marketo. Possible values for each are 0-3.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Marketo Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight)

@@ -6,9 +6,7 @@ title: Create a Custom Audience in Facebook
 
 # Create a Custom Audience in Facebook {#create-a-custom-audience-in-facebook}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add Facebook Custom Audiences as a LaunchPoint Service](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) in the Admin section.
 >* [Accept Facebook's Custom Audiences Terms](https://www.facebook.com/ads/manage/customaudiences/tos.php) within your Facebook account.

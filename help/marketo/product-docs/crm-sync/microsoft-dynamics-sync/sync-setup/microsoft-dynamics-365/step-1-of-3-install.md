@@ -18,9 +18,7 @@ Before you can sync Microsoft Dynamics 365 and Marketo, you need to first instal
 >
 >After you sync Marketo to a CRM, you cannot perform a new sync without replacing the instance.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Download the Marketo Lead Management Solution](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 

@@ -10,12 +10,6 @@ Adding the ‘Forward to Friend’ link to your emails allows you to track peopl
 
 For example, say Keith uses the ‘Forward to Friend’ link to forward the email to an unknown person, Mark. Mark is automatically added as a new person, gets assigned his own cookie, and any of his email and web activity is linked to him. However, if Keith uses the forward button in his email client, Mark gets incorrectly cookied as Keith, and his activity gets logged as Keith's.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 ## Add the Link to an Email Template {#add-the-link-to-an-email-template}
 
 1. Go to the **Design Studio**.

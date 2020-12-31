@@ -78,9 +78,7 @@ When you're editing a landing page and you click on the mobile tab, you'll somet
 
 Awesome! You can now [customize the mobile view](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) of all your landing pages that use this template.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Customize Mobile View for Your Free-Form Landing Page](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
 >

@@ -6,9 +6,7 @@ title: Apply Communication Limits to Smart Campaign
 
 # Apply Communication Limits to Smart Campaign {#apply-communication-limits-to-smart-campaign}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Enable Communication Limits](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
 >

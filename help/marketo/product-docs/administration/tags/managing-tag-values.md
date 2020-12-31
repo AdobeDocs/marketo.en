@@ -12,9 +12,7 @@ title: Managing Tag Values
 >
 >**Admin Permissions Required**
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Create a New Program Tag and Tag Values](create-a-new-program-tag-and-tag-values.md)
 

@@ -92,9 +92,7 @@ The **Send Email** flow step MUST be the second step. The confirmation email con
 
 Your next step is to [test Your ON24 event integration](test-your-on24-event-integration.md). 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Marketo ON24 Adapter Events](understanding-marketo-on24-adapter-events.md)
 >* [Example ON24 Event Integration](example-on24-event-integration.md)

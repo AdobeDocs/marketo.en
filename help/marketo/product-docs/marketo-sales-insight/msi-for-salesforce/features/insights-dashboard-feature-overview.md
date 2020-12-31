@@ -8,9 +8,7 @@ title: Insights Dashboard Feature Overview
 
 Learn more about the features available in your Sales Insights dashboard.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >You must have the latest MSI SFDC package and [configuration](http://docs.marketo.com/x/F4GMAg).
 

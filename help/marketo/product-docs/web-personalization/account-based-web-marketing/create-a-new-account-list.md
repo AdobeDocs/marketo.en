@@ -80,9 +80,7 @@ The CSV file will replace the existing file. The existing list will remain activ
 
    ![](assets/delete-notification-hand.jpg)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a Segment Using an Account List](create-a-segment-using-an-account-list.md)
 >* [View a Named Account List](http://docs.marketo.com/pages/viewpage.action?pageid=4720244)

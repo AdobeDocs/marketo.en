@@ -10,12 +10,6 @@ You can manage and view your members in your programs using the Members tab.
 
 >[!NOTE]
 >
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
->[!NOTE]
->
 >**Deep Dive**
 >
 > Dive deeper into  [program membership](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
@@ -86,9 +80,7 @@ You can change the status of your people inside the members grid.
 
 So many features, but they're all pretty straightforward. Enjoy!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a Program Performance Report](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
 >

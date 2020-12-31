@@ -42,9 +42,7 @@ Marketo manages your ReadyTalk webinar registration and attendance.
 
    ![](assets/readytalk.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >Learn how to [create an event with ReadyTalk](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
 

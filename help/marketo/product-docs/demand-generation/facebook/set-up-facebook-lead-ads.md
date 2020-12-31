@@ -74,9 +74,7 @@ Use  [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) to run ad
 
    ![](assets/image2016-11-29-12-3a32-3a54.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Use Lead Ads Filters and Triggers in a Smart Campaign](use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
 >* [Map Custom Fields to Marketo](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)

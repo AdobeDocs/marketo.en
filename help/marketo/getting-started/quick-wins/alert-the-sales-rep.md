@@ -10,18 +10,9 @@ title: Alert the Sales Rep
 
 To automatically send alert emails to sales reps, all you need is an alert email and an email campaign. Here's how to do it.
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
->[!NOTE]
->
->**Prerequisites**
->
->* [Landing Page with a Form](landing-page-with-a-form.md) 
->
+>[Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 ## Step 1: Create an Alert Email {#step-create-an-alert-email}
 
@@ -29,7 +20,7 @@ To automatically send alert emails to sales reps, all you need is an alert email
 
    ![](assets/one-5.png)
 
-1. Select **My Program** which you created in the [Landing Page with a Form](landing-page-with-a-form.md) quick win, then under **New** click **New Local Asset**.
+1. Select **My Program** which you created in the [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) quick win, then under **New** click **New Local Asset**.
 
    ![](assets/two-6.png)
 
@@ -63,7 +54,7 @@ To automatically send alert emails to sales reps, all you need is an alert email
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} is a special token for alert emails. See [Use the Send Alert Info Token](../../product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) to learn more.
+   >{{SP_Send_Alert_Info}} is a special token for alert emails. See [Use the Send Alert Info Token](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) to learn more.
 
 1. Click **Save**.
 
@@ -79,7 +70,7 @@ To automatically send alert emails to sales reps, all you need is an alert email
 
 ## Step 2: Create an Alert Trigger Campaign {#step-create-an-alert-trigger-campaign}
 
-1. Select **My Program** created previously, then under **New **click **New Smart Campaign**.
+1. Select **My Program** created previously, then under **New** click **New Smart Campaign**.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
@@ -95,7 +86,7 @@ To automatically send alert emails to sales reps, all you need is an alert email
 
    ![](assets/image2014-9-24-13-3a14-3a58.png)
 
-1. Under the  **Flow**  tab, find and drag the **Send Alert** flow action to the canvas.
+1. Under the **Flow** tab, find and drag the **Send Alert** flow action to the canvas.
 
    ![](assets/image2014-9-24-13-3a15-3a10.png)
 
@@ -107,12 +98,11 @@ To automatically send alert emails to sales reps, all you need is an alert email
 
    ![](assets/nineteen-2.png)
 
-1. Go to the **Schedule** tab and click the **Activate **button.
+1. Go to the **Schedule** tab and click the **Activate** button.
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
-   >
    >
    >Set the **Qualification Rules** to **every time** (by editing the Smart Campaign)  to allow the same person to trigger alerts multiple times.
 
@@ -127,9 +117,6 @@ To automatically send alert emails to sales reps, all you need is an alert email
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
    >[!NOTE]
-   >
-   >**Reminder**
-   >
    >
    >Don't forget to approve landing pages; they don't go live until approved.
 
@@ -147,4 +134,6 @@ To automatically send alert emails to sales reps, all you need is an alert email
 
 <br>&nbsp;
 
-[◄ Mission 7: Personalize an Email](personalize-an-email.md) [Mission 9: Update Lead Data ►](update-person-data.md) 
+[◄ Mission 7: Personalize an Email](personalize-an-email.md)
+
+[Mission 9: Update Lead Data ►](update-person-data.md)

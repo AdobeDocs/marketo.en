@@ -24,9 +24,7 @@ Hidden form fields can silently capture data without the visitor's input. Here's
 >
 >Keyboard shortcut! After selecting a form field, press Ctrl+Alt+H to make it hidden.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Set a Hidden Form Field Value](set-a-hidden-form-field-value.md)
 

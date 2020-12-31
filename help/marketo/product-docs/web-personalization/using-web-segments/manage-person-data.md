@@ -101,9 +101,7 @@ Leverage Person Data for Web Personalization by selecting person fields to use i
 
 The following lead fields are provided out of the box for new Web Personalization accounts: 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a Segment Using Known Person Data](create-a-segment-using-known-person-data.md)
 >

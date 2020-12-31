@@ -10,7 +10,7 @@ You can see a lot of information about your pages using the page detail drill do
 
 ## Find Page Drill Down {#find-page-drill-down}
 
-1. Go to the Pages section. 
+1. Go to the Pages section.
 
    ![](assets/image2014-9-17-21-3a54-3a53.png)
 
@@ -39,7 +39,7 @@ You can see a lot of information about your pages using the page detail drill do
 
 ## Keyword(s) that Page is Optimized For  {#keyword-s-that-page-is-optimized-for}
 
-   This is where you [select which keyword you are trying to optimize your page for](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+   This is where you [select which keyword you are trying to optimize your page for](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
    >[!NOTE]
    >
@@ -49,16 +49,12 @@ You can see a lot of information about your pages using the page detail drill do
 
 ## Page Optimization Results {#page-optimization-results}
 
-   The Page Optimization Results will tell you the exact steps you need to take in order to increase your optimization score/perform better on search for this page. 
+   The Page Optimization Results will tell you the exact steps you need to take in order to increase your optimization score/perform better on search for this page.
 
    ![](assets/image2014-9-17-21-3a56-3a41.png)
 
    Pretty sweet, right? Learn more about Pages over here.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Optimize Specific Pages with Targeted Keywords](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
->
-
+>[Optimize Specific Pages with Targeted Keywords](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)

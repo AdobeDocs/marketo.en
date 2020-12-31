@@ -26,9 +26,7 @@ title: Configuring Your SOAP API Settings
 >
 >Your SOAP endpoint and User ID will be unique; do not send the screenshot in this article to your Developer.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[SOAP API Documentation](http://developers.marketo.com/documentation/soap/)
 

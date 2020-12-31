@@ -20,19 +20,19 @@ Marketo unifies ABM and lead management in one solution, making it easy for mark
   
 Marketo ABM consists of three components:
 
-**1) [Target](http://docs.marketo.com/display/docs/target)**
+**1) Target**
 
 * Account Discovery
 * Lead-to-Account Matching
 * Named Account Lists
 
-**2) [Engage](http://docs.marketo.com/display/docs/engage)**
+**2) Engage**
 
 * Account-based Personalization
 * Cross-Channel Engagement
 * Account-specific Workflows
 
-**3) [Measure](http://docs.marketo.com/display/docs/measure)**
+**3) Measure**
 
 * Account and List-level Insights
 * Account Engagement Score
@@ -40,18 +40,18 @@ Marketo ABM consists of three components:
 
 Marketo Account Based Marketing also offers various tools to personalize the named account experience across channels.
 
-* Email & Landing Page [Personalization](http://docs.marketo.com/display/DOCS/Personalization)
-* Web [Personalization](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
-* URL [Personalization](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
-* Ad [Personalization](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
-* [Personalized](http://docs.marketo.com/display/DOCS/Website+Retargeting) Remarketing
+* Email & Landing Page Personalization
+* Web Personalization
+* URL [Personalization](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+* Ad [Personalization](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [Personalized](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) Remarketing
 
 I'm in! How do I get started?
 
-We thought you'd never ask! ABM is available as an add-on to your Marketo subscription, so please contact your Sales Rep to have it implemented. Once you have it, check out this article: [Getting Started with ABM](getting-started-with-abm.md).
+We thought you'd never ask! ABM is available as an add-on to your Marketo subscription, so please contact your Sales Rep to have it implemented. Once you have it, check out this article: [Getting Started with ABM](/help/marketo/product-docs/account-based-marketing/setup-abm/getting-started-with-abm.md).
 
 >[!NOTE]
 >
->Named Accounts managed in Marketo ABM can be accessed directly from Web ABM for web personalization needs. Learn more [here](http://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM).
+>Named Accounts managed in Marketo ABM can be accessed directly from Web ABM for web personalization needs. Learn more [here](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-abm.md).
 
 Welcome to Marketo ABM, and enjoy targeted marketing!

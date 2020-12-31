@@ -61,9 +61,7 @@ You can also specify what you see (left to right): All, Audience, Content, and P
 `  ` ![](assets/guided-bar.png)  
 `
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Email Insights Sends Overview](email-insights-sends-overview.md)
 

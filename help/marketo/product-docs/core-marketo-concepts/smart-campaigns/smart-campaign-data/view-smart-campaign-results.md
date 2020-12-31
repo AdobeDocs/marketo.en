@@ -8,12 +8,6 @@ title: View Smart Campaign Results
 
 Want to see a breakdown of everything that happened in a smart campaign? It's easy, here's how.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 1. In your smart campaign, click **Results**.
 
    >[!TIP]

@@ -20,9 +20,7 @@ When you [schedule an engagement program stream](https://docs.marketo.com/displa
 
    ![](assets/image2017-12-5-13-3a56-3a21.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Recipient Time Zone](../../../../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [Set Stream Cadence](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

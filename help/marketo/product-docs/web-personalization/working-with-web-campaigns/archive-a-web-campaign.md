@@ -18,9 +18,7 @@ title: Archive a Web Campaign
    >
    >Archived web campaigns will not show in the default filter. To see them click the Filter icon and under **Status**, select the **Archived** checkbox and click **Apply**.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Delete a Web Campaign](delete-a-web-campaign.md)
 >

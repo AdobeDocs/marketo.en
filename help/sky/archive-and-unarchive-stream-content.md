@@ -18,7 +18,7 @@ If you no longer want to use a piece of content in a stream you can either [remo
 
    ![Image One](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-1.png)
 
-1. Click the [!UICONTROL **Streams**] tab
+1. Click the **[!UICONTROL Streams]** tab
 
    ![Image Two](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-2.png)
 
@@ -26,7 +26,7 @@ If you no longer want to use a piece of content in a stream you can either [remo
 
    ![Image Three](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-3.png)
 
-1. Select [!UICONTROL **Archive**].
+1. Select **[!UICONTROL Archive]**.
 
    ![Image Four](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-4.png)
 
@@ -38,11 +38,11 @@ That's it! Remember, archive if you want to preserve history.
 
    ![Image Five](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-5.png)
 
-1. Click the [!UICONTROL **Streams**] tab.
+1. Click the **[!UICONTROL Streams]** tab.
 
    ![Image Six](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-6.png)
 
-1. Click on the gear icon for your stream then click [!UICONTROL **Show Archived Content**].
+1. Click on the gear icon for your stream then click **[!UICONTROL Show Archived Content]**.
 
    ![Image Seven](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-7.png)
 
@@ -50,7 +50,7 @@ That's it! Remember, archive if you want to preserve history.
 
    ![Image Eight](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-8.png)
 
-1. Select [!UICONTROL **Unarchive**].
+1. Select **[!UICONTROL Unarchive]**.
 
    ![Image Nine](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-9.png)
 

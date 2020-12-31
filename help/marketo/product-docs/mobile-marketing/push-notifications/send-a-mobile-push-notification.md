@@ -8,9 +8,7 @@ title: Send a Mobile Push Notification
 
 Send a push notification to people using your mobile app. 
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a New Smart Campaign](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [Create a Push Notification](create-a-push-notification.md)

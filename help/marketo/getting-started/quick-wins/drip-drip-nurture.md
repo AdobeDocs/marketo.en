@@ -10,19 +10,10 @@ title: Drip, Drip, Nurture
 
 You can easily create an advanced and sophisticated nurture system in Marketo. Here's how!
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
->[!NOTE]
->
->**Prerequisites**
->
->* [Get Set Up and Add a Person](get-set-up-and-add-a-person.md)
->* [Import a List of People](import-a-list-of-people.md)
->
+>* [Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Import a List of People](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 ## Step 1: Create an Engagement Program {#step-create-an-engagement-program}
 
@@ -60,7 +51,7 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 
    >[!NOTE]
    >
-   >Don't see the email editor? Your browser probably blocked the window. Enable pop-ups from [app.marketo.com](http://app.marketo.com) in your browser and click **Edit Draft** in the top menu bar.
+   >Don't see the email editor? Your browser probably blocked the window. Enable pop-ups from [app.marketo.com](https://app.marketo.com) in your browser and click **Edit Draft** in the top menu bar.
 
 1. Enter a subject.
 
@@ -84,9 +75,6 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >Don't forget to approve your emails or you won't be able to activate them later.
 
 1. Now create another email by repeating the Step 2 actions.
@@ -96,6 +84,7 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 ## Step 3: Add Content to Your Stream {#step-add-content-to-your-stream}
 
 1. Now it's time to create a stream of content for your engagement program using the emails you created.
+
 1. Select your engagement program, and click on the **Streams** tab.
 
    ![](assets/fourteen-2.png)
@@ -106,11 +95,11 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 
    >[!TIP]
    >
-   >You can also use the **Add Content** button or the stream **+ ** icon.
+   >You can also use the **Add Content** button or the stream **+** icon.
 
 ## Step 4: Activate Stream Content {#step-activate-stream-content}
 
-1. Activate all content at once by clicking on the stream gear icon, then click  **Activate all content** .
+1. Activate all content at once by clicking on the stream gear icon, then click **Activate all content**.
 
    ![](assets/image2014-9-24-12-3a48-3a28.png)
 
@@ -126,7 +115,7 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 
    ![](assets/seventeen.png)
 
-1. Edit the settings to match the schedule you want and click **SAVE**.
+1. Edit the settings to match the schedule you want and click **Save**.
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
@@ -159,15 +148,15 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
    ![](assets/twenty-two.png)
 
 1. Mission Complete!
+
 1. You should receive email at the time and cadence you specified.
 
    >[!NOTE]
    >
-   >**Deep Dive**
-   >
-   >
-   >Learn more about [Engagement Programs](http://docs.marketo.com/display/docs/drip+nurturing).
+   >Learn more about [Engagement Programs](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md).
 
 <br>&nbsp;
 
-[◄ Mission 5: Import a List of Leads](import-a-list-of-people.md) [Mission 7: Personalize an Email ►](personalize-an-email.md) 
+[◄ Mission 5: Import a List of Leads](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+
+[Mission 7: Personalize an Email ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)

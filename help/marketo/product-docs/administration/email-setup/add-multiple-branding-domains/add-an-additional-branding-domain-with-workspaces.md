@@ -8,9 +8,7 @@ title: Add an Additional Branding Domain with Workspaces
 
 If you have workspaces, you can add additional branding domains.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >You must [edit your default branding domain](edit-your-default-branding-domain.md) first.
 >

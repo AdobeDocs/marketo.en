@@ -126,9 +126,7 @@ Use an intermediary object to connect a custom object to people or companies. In
 
    The next step is for you to [add link fields](add-marketo-custom-object-link-fields.md) to connect your intermediary object to a person/company and a custom object.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Add Marketo Custom Object Fields](add-marketo-custom-object-fields.md)
 >* [Add Marketo Custom Object Link Fields](add-marketo-custom-object-link-fields.md)

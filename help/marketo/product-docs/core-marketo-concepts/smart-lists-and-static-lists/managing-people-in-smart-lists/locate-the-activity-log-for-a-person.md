@@ -8,12 +8,6 @@ title: Locate the Activity Log for a Person
 
 The activity log is the ultimate source of truth. This is the complete story of a person's journey in Marketo.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 1. Go to the** Database**.
 
    ![](assets/db-2.png)

@@ -6,19 +6,10 @@ title: Simple Scoring
 
 # Simple Scoring {#simple-scoring}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Get Set Up and Add a Person](get-set-up-and-add-a-person.md)
 >* [Landing Page with a Form](landing-page-with-a-form.md)
->
 
 ## Step 1: Create a Scoring Campaign {#step-create-a-scoring-campaign}
 
@@ -46,7 +37,7 @@ title: Simple Scoring
 
    ![](assets/five-1.png)
 
-1. Click the **Smart List** tab. 
+1. Click the **Smart List** tab.
 
    ![](assets/six-1.png)
 
@@ -60,11 +51,11 @@ title: Simple Scoring
 
    >[!NOTE]
    >
-   >If you completed the [Landing Page with a Form](landing-page-with-a-form.md) quick win you should have the form. If you used a different name for your form, select that one.
+   >If you completed the [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) quick win you should have the form. If you used a different name for your form, select that one.
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
-1. Click the **Flow **tab.
+1. Click the **Flow** tab.
 
    ![](assets/image2014-9-24-11-3a44-3a33.png)
 
@@ -78,7 +69,7 @@ title: Simple Scoring
 
    >[!TIP]
    >
-   >Good scoring campaigns are key to delivering high-quality people to Sales. Read [**The Definitive Guide to Lead Scoring**](http://www.marketo.com/definitive-guides/lead-scoring/).
+   >Good scoring campaigns are key to delivering high-quality people to Sales. Read [**The Definitive Guide to Lead Scoring**](https://www.marketo.com/definitive-guides/lead-scoring/).
 
 1. Click the **Schedule** tab and the **Activate** button.
 
@@ -94,7 +85,7 @@ title: Simple Scoring
 
 ## Step 2: Fill Out the Form {#step-fill-out-the-form}
 
-1. Select the landing page you created in the [Landing Page with a Form](landing-page-with-a-form.md) quick win.
+1. Select the landing page you created in the [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) quick win.
 
    ![](assets/fourteen-1.png)
 
@@ -102,7 +93,7 @@ title: Simple Scoring
 
    ![](assets/image2014-9-24-11-3a47-3a51.png)
 
-1. Fill out the form with your first name, last name, and email address, then click  **Submit** .
+1. Fill out the form with your first name, last name, and email address, then click **Submit**.
 
    ![](assets/image2014-9-24-11-3a47-3a59.png)
 
@@ -129,4 +120,6 @@ Your person details will open in a new tab or window. See how your score increas
 ![](assets/twenty.png)
 
 **Congratulations!** You've created a scoring campaign.
-[◄ Mission 2: Landing Page with a Form](landing-page-with-a-form.md) [Mission 4: Email Auto-Response ►](email-auto-response.md) 
+[◄ Mission 2: Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+
+[Mission 4: Email Auto-Response ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)

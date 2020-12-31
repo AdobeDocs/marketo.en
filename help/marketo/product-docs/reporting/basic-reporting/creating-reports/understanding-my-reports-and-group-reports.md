@@ -18,9 +18,7 @@ You can create **My Reports **and **Group Reports **from the [Analytics Home](na
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Save a Report](save-a-report.md)
 >* [Clone a Report to Group Reports](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)

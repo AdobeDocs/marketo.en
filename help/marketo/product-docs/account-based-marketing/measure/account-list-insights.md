@@ -50,4 +50,3 @@ Click the **Named Accounts** tab to see which named accounts belong to that Acco
 Click the **Used By** tab to see which assets are referencing that Account List.
 
 ![](assets/four-2.png)
-

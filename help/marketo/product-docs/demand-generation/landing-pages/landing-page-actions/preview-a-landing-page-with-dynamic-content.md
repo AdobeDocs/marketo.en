@@ -8,9 +8,7 @@ title: Preview a Landing Page with Dynamic Content
 
 Preview your landing page after adding dynamic content to make sure everything looks the way it should.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Use Dynamic Content in a Landing Page](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
 >* [Preview a Landing Page](preview-a-landing-page.md)

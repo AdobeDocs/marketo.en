@@ -23,4 +23,3 @@ If you want to see how your content looks inside a search engine, we've added a 
 1. Awesome! You should now see the search results for your keyword in a new window.
 
    ![](assets/image2014-9-18-13-3a34-3a24.png)
-

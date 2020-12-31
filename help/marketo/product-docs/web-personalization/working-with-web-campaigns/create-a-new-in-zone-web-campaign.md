@@ -112,9 +112,7 @@ From the **Web Campaigns** page, click **Edit** on the Campaign.
 
 1. A confirmation message appears to confirm if you want to delete the Campaign.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a New Widget Web Campaign](create-a-new-widget-web-campaign.md)
 >* [Create a New Dialog Web Campaign](create-a-new-dialog-web-campaign.md)

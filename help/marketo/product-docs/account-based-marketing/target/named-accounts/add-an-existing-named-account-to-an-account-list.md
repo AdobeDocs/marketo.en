@@ -26,10 +26,6 @@ Adding a named account to an account list is simple.
 
    That's it!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Create a Named Account](create-a-named-account.md)
->
-
+>[Create a Named Account](/help/marketo/product-docs/account-based-marketing/target/named-accounts/create-a-named-account.md)

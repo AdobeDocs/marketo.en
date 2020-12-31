@@ -24,9 +24,7 @@ When you  [create a video share](../../../../product-docs/demand-generation/land
 
    ![](assets/image2014-9-22-16-3a41-3a20.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >The next step is to [configure what happens after video share](configure-after-share-prompts.md).
 

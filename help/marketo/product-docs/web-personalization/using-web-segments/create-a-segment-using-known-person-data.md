@@ -8,9 +8,7 @@ title: Create a Segment Using Known Person Data
 
 Here's how to create a segment using Known Person Data values.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Manage Person Data](manage-person-data.md)
 

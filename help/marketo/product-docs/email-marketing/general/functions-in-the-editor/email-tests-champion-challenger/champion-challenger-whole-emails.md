@@ -8,9 +8,7 @@ title: Champion/Challenger -Whole Emails
 
 Test whole emails against each other. When the test is over, send out the top performer.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add an Email Champion/Challenger](add-an-email-champion-challenger.md)
 >

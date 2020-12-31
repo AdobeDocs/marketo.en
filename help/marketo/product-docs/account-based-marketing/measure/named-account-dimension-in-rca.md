@@ -10,9 +10,7 @@ Build revenue-based reports using the ABM-specific Named Account dimension in Re
 
 >[!NOTE]
 >
->**Definition**
->
->**Dimensions **- attributes (represented by yellow dots) that give different views of the measures.
+>**Dimensions** - attributes (represented by yellow dots) that give different views of the measures.
 
 ![](assets/one-2.png)
 
@@ -28,8 +26,6 @@ The following reports have access to the Named Account dimension:
 * Program Membership Analysis
 
 >[!NOTE]
->
->**Example**
 >
 >Below are are some examples of Marketo ABM in Revenue Cycle Analytics.
 
@@ -48,11 +44,3 @@ Program effectiveness and impact on bottom line
 Coverage of quality leads and engagement within named accounts
 
 ![](assets/five-2.png)
-
->[!NOTE]
->
->**Related Articles**
->
->* [Revenue Cycle Analytics](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
->
-

@@ -12,9 +12,7 @@ Before you can sync Microsoft Dynamics On-Premises and Marketo, you need to firs
 >
 >After you sync Marketo to a CRM, you cannot perform a new sync without replacing the instance.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >You must have [Internet Facing Deployment](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 or 3.0 (ADFS) configured. **Note**: The IFD document downloads automatically when you click the link.
 >

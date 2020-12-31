@@ -50,8 +50,6 @@ Finally, this controls when you run your smart campaign. You can even set up rec
 
 There is an enormous amount of things the smart campaign can do. Get the hang of it and you'll find everything in Marketo becomes much simpler to understand.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a New Smart Campaign](creating-a-smart-campaign/create-a-new-smart-campaign.md)

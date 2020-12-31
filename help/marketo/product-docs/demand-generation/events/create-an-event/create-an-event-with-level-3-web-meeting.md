@@ -6,9 +6,7 @@ title: Create an Event with Level 3 Web Meeting
 
 # Create an Event with Level 3 Web Meeting {#create-an-event-with-level-web-meeting}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add Level 3 Web Meeting as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)

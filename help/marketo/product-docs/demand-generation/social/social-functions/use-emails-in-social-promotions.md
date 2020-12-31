@@ -18,9 +18,7 @@ In the emails, use these tokens:
 
 * **Fulfillment email**: Use **`{{social.Promo Code}}`** to send each winner a [promo code](use-promo-codes-for-offer-fulfillment.md).
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Before you can add an email to a social app, it must be *operational* and *approved*. See  [Edit Settings for an Email](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 

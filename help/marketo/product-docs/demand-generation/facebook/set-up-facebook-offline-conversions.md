@@ -8,9 +8,7 @@ title: Set Up Facebook Offline Conversions
 
 By sending offline conversion data back to Facebook for people created via Lead Ads, your advertising team can optimize their ad spend better than ever. Here's how to set it up.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* You must [set up Facebook Lead Ads](set-up-facebook-lead-ads.md).
 >* You must have an approved model in [Revenue Cycle Modeler](http://docs.marketo.com/display/docs/revenue+cycle+models).

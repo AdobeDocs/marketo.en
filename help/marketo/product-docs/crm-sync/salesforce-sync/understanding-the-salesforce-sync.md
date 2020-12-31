@@ -37,9 +37,7 @@ The sync between Salesforce and Marketo is bidirectional only for leads, contact
 
 There are many nuances and features about Salesforce sync. Check out the details in the [SFDC sync details section](http://docs.marketo.com/display/docs/sfdc+sync+details).
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Salesforce Sync Setup](http://docs.marketo.com/display/docs/setup)
 >* [SFDC Sync Details](http://docs.marketo.com/display/docs/sfdc+sync+details)

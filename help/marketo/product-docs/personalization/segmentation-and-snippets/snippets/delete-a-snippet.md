@@ -6,9 +6,7 @@ title: Delete a Snippet
 
 # Delete a Snippet {#delete-a-snippet}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Unapprove a Snippet](unapprove-a-snippet.md)
 >

@@ -8,9 +8,7 @@ title: Use a Marketo List or Smart List as a LinkedIn Audience Segment
 
 Integrate your Marketo people with your LinkedIn audiences.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add LinkedIn Matched Audiences as a LaunchPoint Service](../../../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 >

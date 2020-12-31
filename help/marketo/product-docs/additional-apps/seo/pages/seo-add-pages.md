@@ -12,20 +12,20 @@ You've got pages! Marketo SEO will automatically crawl your site and tracking th
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. Click **ADD PAGES**. 
+1. Click **Add Pages**.
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. Type in the URLs you'd like to add. Click **ADD**.
+1. Type in the URLs you'd like to add. Click **Add**.
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 
    >[!TIP]
    >
-   >Did you know you can  [add your page to a new or existing list](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Check it out!
+   >Did you know you can [add your page to a new or existing list](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Check it out!
 
-   It may take a moment for your page data to load. Wait for the green alert message and refresh your page to update the display. 
+   It may take a moment for your page data to load. Wait for the green alert message and refresh your page to update the display.
+
    ![](assets/image2014-9-18-12-3a57-3a10.png)
 
-   Easy peasy lemon squeezy! You can now track how this page is performing in search.
-
+   You can now track how this page is performing in search.

@@ -8,13 +8,13 @@ title: Understanding the SEO Dashboard -SEO Snapshot
 
 Use the dashboard to get a high-level view of how keyword rank is trending and how well your site is optimized for SEO.
 
-To find out what to focus on to improve your SEO efforts, use the [Recommendations](understanding-the-seo-dashboard-seo-recommendations.md) section of this dashboard.
+To find out what to focus on to improve your SEO efforts, use the [Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) section of this dashboard.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## Keyword Rank Summary {#keyword-rank-summary}
 
-This section shows you how your site is ranked for the [keywords you're targeting](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+This section shows you how your site is ranked for the [keywords you're targeting](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -26,7 +26,7 @@ This section shows you how your site is ranked for the [keywords you're targetin
 
 >[!TIP]
 >
->You can also view how a [specific list](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) of keywords is performing. Click the drop-down and select which one interests you.
+>You can also view how a [specific list](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) of keywords is performing. Click the drop-down and select which one interests you.
 
 Rock on! Let's keep movin'.  
 
@@ -54,10 +54,6 @@ The Keyword Rank Trends graph pulls your keywords with the five highest monthly 
 
 Easy, right? Now let's check out the Recommendations section of this dashboard.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Understanding the Dashboard: SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
->
-
+>[Understanding the Dashboard: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)

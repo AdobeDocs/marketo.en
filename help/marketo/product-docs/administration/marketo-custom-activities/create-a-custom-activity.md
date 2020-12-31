@@ -42,9 +42,7 @@ Follow these steps to create a new custom activity.
 
    And that's it!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Custom Activities](understanding-custom-activities.md)
 >

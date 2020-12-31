@@ -6,12 +6,6 @@ title: View Person and Account Information and Activities in Google Mail
 
 # View Person and Account Information and Activities in Google Mail {#view-person-and-account-information-and-activities-in-google-mail}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 ## View Activities in Google Mail {#view-activities-in-google-mail}
 
 Use the contextual Marketo Insights pane to see account information and recent activities.
@@ -46,9 +40,7 @@ Click the Marketo icon to open the pane.
 
 ![](assets/image2015-10-6-15-3a32-3a52.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Using Marketo Insights for Google Chrome](using-marketo-insights-for-google-chrome.md)
 

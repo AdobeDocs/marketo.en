@@ -58,9 +58,7 @@ Marketo manages your GoToWebinar registration and attendance.
 >
 >When you update your password in GoToWebinar, you must update your password in Marketo as well.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >Learn how to [create an event with GotoWebinar](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md).
 

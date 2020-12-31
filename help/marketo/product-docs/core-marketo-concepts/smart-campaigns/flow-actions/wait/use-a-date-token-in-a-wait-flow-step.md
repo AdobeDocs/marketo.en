@@ -10,12 +10,6 @@ You can use the Wait flow step to pause a person's journey through a smart campa
 
 >[!NOTE]
 >
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
->[!NOTE]
->
 >This only applies to trigger campaigns. You cannot use this feature in batch campaigns. 
 
 1. In your smart campaign **Flow** tab, drag over the **Wait** flow step.

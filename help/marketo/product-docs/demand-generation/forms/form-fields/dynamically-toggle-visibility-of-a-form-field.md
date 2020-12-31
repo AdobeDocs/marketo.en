@@ -6,9 +6,7 @@ title: Dynamically Toggle Visibility of a Form Field
 
 # Dynamically Toggle Visibility of a Form Field {#dynamically-toggle-visibility-of-a-form-field}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add a Country Picklist to your Form](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 >

@@ -96,9 +96,7 @@ A Segmented Audience allows you to select an existing Segment as an audience to 
 
    You have now completed the Retargeting Setup in Web Personalization, login to your retargeting platforms and create your audiences based on this data and set up your retargeting ad campaigns.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Personalized Remarketing in Google](personalized-remarketing-in-google.md)
 >* [Personalized Remarketing in Facebook](personalized-remarketing-in-facebook.md)

@@ -40,9 +40,7 @@ When you  [create a referral offer](../../../../product-docs/demand-generation/s
 
    ![](assets/image2014-9-22-14-3a36-3a43.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >Next, click **Finish > Approve and Close** and [publish your referral offer](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
 

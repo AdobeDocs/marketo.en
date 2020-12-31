@@ -82,9 +82,7 @@ Clarify exactly how a lead moves from one stage to another using smart campaigns
 
 Here are some links that may be helpfully hopeful. (or hopefully helpful - take your pick!)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Create a New Revenue Model](create-a-new-revenue-model.md)
 >
@@ -98,9 +96,7 @@ Adding a Stage off the happy success path   ![](assets/image2015-6-12-10-3a10-3a
 
 Lost is a good one to add, but notice it is not on the green path. That is because it is not a "success".
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Report on Your Revenue Model](report-on-your-revenue-model.md)
 >

@@ -48,9 +48,7 @@ Reporting changes with email location. So, for example, if the email is in the D
 >
 >If you want to resend something, it's safest to create a new program and smart campaign.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Add Content to a Stream](add-content-to-a-stream.md)
 >* [Understanding Programs](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)

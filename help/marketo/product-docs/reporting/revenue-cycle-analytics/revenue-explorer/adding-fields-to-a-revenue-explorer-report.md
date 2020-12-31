@@ -41,9 +41,7 @@ Customize revenue explorer reports by dragging and dropping dimension and metric
 
    ![](assets/image2015-3-24-15-3a55-3a7.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Deleting a Field in a Revenue Explorer Report](deleting-a-field-in-a-revenue-explorer-report.md)
 >

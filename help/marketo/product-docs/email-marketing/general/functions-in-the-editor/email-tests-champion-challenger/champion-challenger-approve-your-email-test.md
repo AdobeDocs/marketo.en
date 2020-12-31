@@ -8,9 +8,7 @@ title: Champion/Challenger -Approve Your Email Test
 
 The final step in setting up your email test to approve it. Here's how.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Champion/Challenger: Configure Report Alerts](champion-challenger-configure-report-alerts.md)
 >

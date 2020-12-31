@@ -8,9 +8,7 @@ title: Marketo Outlook Plugin Installation by IT
 
 Sometimes corporate policies require that their IT Team installs all software on their employees’ computers. In these cases, IT often does this remotely using their own deployment software. This doc provides the command lines you would use as inputs during the deployment process to remotely install the outlook plug-in.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Set up](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) the Enterprise Key.
 

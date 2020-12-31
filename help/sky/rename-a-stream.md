@@ -13,7 +13,7 @@ If you like to stay organized, you can rename your streams.
 
    ![Image One](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-1.png)
 
-1. Click the [!UICONTROL **Streams**] tab.
+1. Click the **[!UICONTROL Streams]** tab.
 
    ![Image Two](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-2.png)
 

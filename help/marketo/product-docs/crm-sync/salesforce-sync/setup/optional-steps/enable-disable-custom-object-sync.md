@@ -74,9 +74,7 @@ Custom Objects created in your Salesforce instance can be part of Marketo too. H
 
    Excellent! You can now use this custom object's data in smart campaigns and smart lists.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Add/Remove Custom Object Field as Smart List/Trigger Constraints](add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
 >

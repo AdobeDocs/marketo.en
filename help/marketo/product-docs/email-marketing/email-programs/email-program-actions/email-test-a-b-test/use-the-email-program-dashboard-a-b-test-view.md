@@ -36,9 +36,7 @@ Here you can see a breakdown of clicks and unsubscribes by variants for easy com
 
 Cool dashboard, don't you think?
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Use the Email Program Dashboard](../../../../../product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
 >

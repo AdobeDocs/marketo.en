@@ -28,9 +28,7 @@ Focus your [Campaign Activity Report](../../../../product-docs/reporting/basic-r
 
    ![](assets/image2014-9-16-16-3a14-3a32.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Campaign Email Performance Report](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
 >

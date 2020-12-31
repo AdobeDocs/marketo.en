@@ -10,9 +10,7 @@ Sometimes, you want a custom measure in a report. It's easy to create your own.
 
 In the example below, you are creating a calculated measure for soft bounces, which takes metrics already in the report and uses basic math to create a new metric. You can create other types of measures, too.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >You need at least one metric in your report, but it doesn't have to be one of the measures you use to define your custom measure.
 

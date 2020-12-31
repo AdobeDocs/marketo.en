@@ -6,9 +6,7 @@ title: Step 1 of 3 -Add Marketo Fields to Salesforce  (Professional)
 
 # Step 1 of 3: Add Marketo Fields to Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Your Salesforce instance must have access to Salesforce API's to sync data between Marketo and Salesforce.
 

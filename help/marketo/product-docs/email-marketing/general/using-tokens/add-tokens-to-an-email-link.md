@@ -30,9 +30,7 @@ To insert extra and person-specific parameters into your links, you can use toke
 
    And that's it!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Using URLs in My Tokens](using-urls-in-my-tokens.md)
 >

@@ -31,9 +31,7 @@ Sometimes, you may need to save a default report to view again later. Here's how
 
    ![](assets/image2015-4-21-11-3a12-3a40.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >Learn how to [clone a report to group reports](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
 

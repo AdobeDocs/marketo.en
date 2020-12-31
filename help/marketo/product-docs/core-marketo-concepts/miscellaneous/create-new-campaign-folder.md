@@ -38,9 +38,7 @@ Campaign folders help you keep a tidy workspace. Follow these simple steps and y
 
    Now when [creating a new program](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), you'll see this campaign folder as an option.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a Program](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [Create a New Smart Campaign](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)

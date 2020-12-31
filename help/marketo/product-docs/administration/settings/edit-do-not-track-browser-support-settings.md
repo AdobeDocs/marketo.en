@@ -6,12 +6,6 @@ title: Edit "Do Not Track" Browser Support Settings
 
 # Edit "Do Not Track" Browser Support Settings {#edit-do-not-track-browser-support-settings}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 "Do Not Track" is a browser request to not be tracked in systems like Marketo. You can honor that request with the following steps.
 
 >[!NOTE]

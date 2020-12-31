@@ -144,8 +144,6 @@ To view available dimensions or measures within a category, click the right arro
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Create a Revenue Explorer Report](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

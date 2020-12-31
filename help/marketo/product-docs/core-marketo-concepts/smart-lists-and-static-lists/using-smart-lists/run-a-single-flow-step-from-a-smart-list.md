@@ -8,9 +8,7 @@ title: Run a Single Flow Step from a Smart List
 
 If you want to run a one-time only flow step, you can use a single flow step within a smart list instead of creating an entire smart campaign.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >

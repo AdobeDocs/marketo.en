@@ -58,9 +58,7 @@ With this integration you can send audience data from Marketo static and smart l
    >
    >Oh, before you go, be sure to [Accept Facebook's Custom Audiences Terms](https://www.facebook.com/ads/manage/customaudiences/tos.php) within your Facebook account! Without doing this, the audience updates will fail.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a Custom Audience in Facebook](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >

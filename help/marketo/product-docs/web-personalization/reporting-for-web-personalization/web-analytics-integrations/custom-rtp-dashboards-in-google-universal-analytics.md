@@ -6,9 +6,7 @@ title: Custom RTP Dashboards in Google Universal Analytics
 
 # Custom RTP Dashboards in Google Universal Analytics {#custom-rtp-dashboards-in-google-universal-analytics}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Integrate RTP with Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
 

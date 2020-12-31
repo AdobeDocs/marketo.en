@@ -62,9 +62,7 @@ Here's how to create a link field in a custom object for a one-to-many structure
 
 Here's how to create a link field in an intermediary object for use in a many-to-many structure.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >You must have already created the intermediary object and any custom objects you intend to link it to.
 

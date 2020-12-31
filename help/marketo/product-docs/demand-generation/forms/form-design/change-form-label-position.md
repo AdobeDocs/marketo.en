@@ -50,9 +50,7 @@ When [creating a form](../../../../product-docs/demand-generation/forms/creating
 
 Well done! See how easy it was to change the label positions on a form? OK, let's see what we can do about changing the font of the form labels.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Change the Form Font Family](change-the-form-font-family.md)
 >

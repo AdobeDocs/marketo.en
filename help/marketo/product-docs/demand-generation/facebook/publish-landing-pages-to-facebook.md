@@ -14,9 +14,7 @@ You can publish your landing pages to Facebook, meeting your audience where they
 >
 >SMB Spark, Standard & Select. Enterprise with separately licensed feature.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Your page must have at least 2,000 likes before you're able to publish to Facebook.
 

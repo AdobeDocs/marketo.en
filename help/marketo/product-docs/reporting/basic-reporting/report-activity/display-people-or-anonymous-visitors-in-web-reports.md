@@ -6,9 +6,7 @@ title: Display People or Anonymous Visitors in Web Reports
 
 # Display People or Anonymous Visitors in Web Reports {#display-people-or-anonymous-visitors-in-web-reports}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Add Munchkin Tracking Code to Your Website](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 

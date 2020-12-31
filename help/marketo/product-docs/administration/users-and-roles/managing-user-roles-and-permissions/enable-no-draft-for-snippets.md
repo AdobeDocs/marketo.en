@@ -42,9 +42,7 @@ No-Draft is automatically enabled for all Administrator roles. An admin can then
 >
 >To disable No-Draft, follow steps 1-4 above, clear the No-Draft checkbox, and click **Save**.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Approve a Snippet with No-Draft](../../../../product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
 

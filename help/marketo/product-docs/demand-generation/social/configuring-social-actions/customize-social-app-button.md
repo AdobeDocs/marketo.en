@@ -52,9 +52,7 @@ When you create a [social button](../../../../product-docs/demand-generation/lan
 >
 >In a referral offer, you can also customize the **Track Progress** button. Go to **App Settings** > **Track Progress Style** and follow the same steps as above.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >For a social button, [configure when it opens](configure-when-social-button-opens.md). For a referral offer, [specify the offer goal](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
 

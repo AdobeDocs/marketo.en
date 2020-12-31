@@ -6,21 +6,13 @@ title: Set Up Revenue Attribution for Digital Advertising Campaigns
 
 # Set Up Revenue Attribution for Digital Advertising Campaigns {#set-up-revenue-attribution-for-digital-advertising-campaigns}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 Here's how to set up revenue attribution for digital advertising channels and campaigns. After you've set it up, you can do first-touch and multi-touch revenue attribution for digital ads the same as in other Marketo programs.
 
 After you set up your first ad program in Marketo, you can clone and update it for other channels. For example, clone a LinkedIn program to a Facebook one.
 
 With separate programs, you then can track the number of conversions from each one and see your programs in Program Analyzer, Opportunity Influence Analyzer, and other Marketo Analytics features.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* Set up a channel tag with status values and program success (for example, Digital Advertising or Social Paid and PPC)
 >* Create or edit a form to pass a query string through with the person

@@ -8,18 +8,9 @@ title: Send an Email
 
 It's the first thing everyone wants to do. Let's send an email out of Marketo!
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
->[!NOTE]
->
->**Prerequisites**
->
->* [Get Set Up and Add a Person](get-set-up-and-add-a-person.md)
->
+>[Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## Create an Email Program {#create-an-email-program}
 
@@ -31,7 +22,7 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
 
    ![](assets/two-1.png)
 
-1. Enter a **Name **and select **Email** for **Program Type.**
+1. Enter a **Name** and select **Email** for **Program Type.**
 
    >[!TIP]
    >
@@ -39,11 +30,9 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
 
    ![](assets/three.png)
 
-1. Under **Channel, **select **Email Send** and click **Create**.** **
+1. Under **Channel**, select **Email Send** and click **Create**.
 
-   ** ![](assets/image2015-3-2-16-3a25-3a18.png)
-
-   **
+   ![](assets/image2015-3-2-16-3a25-3a18.png)
 
 ## Define your Audience {#define-your-audience}
 
@@ -65,10 +54,7 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >If your email doesn't auto-populate, you may have forgotten to [Get Set Up and Add a Lead.](get-set-up-and-add-a-person.md)
+   >If your email doesn't auto-populate, you may have forgotten to [Get Set Up and Add a Lead.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
    >[!NOTE]
    >
@@ -86,7 +72,7 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
 
    ![](assets/image2014-9-8-15-3a10-3a47.png)
 
-1. Enter a **Name**, select a **Template**, and click** Create**.
+1. Enter a **Name**, select a **Template**, and click **Create**.
 
    ![](assets/ten-1.png)
 
@@ -98,7 +84,7 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
    >
    >If you have a pop-up blocker, click **Edit Draft** to enter the email editor.
 
-1. Select the area you want to edit, click the gear icon on the right, then select **Edit **(you can also double-click the editable section to edit).
+1. Select the area you want to edit, click the gear icon on the right, then select **Edit** (you can also double-click the editable section to edit).
 
    ![](assets/twelve.png)
 
@@ -116,7 +102,7 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
 
    >[!TIP]
    >
-   >Want to send yourself a quick sample to see how your email looks prior to launching? Select **Send Sample** in the menu above, or click **Email Actions** then [**Send Sample**](../../product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
+   >Want to send yourself a quick sample to see how your email looks prior to launching? Select **Send Sample** in the menu above, or click **Email Actions** then [**Send Sample**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
 
 1. Select the Email Program in the left tree.
 
@@ -132,7 +118,7 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
 
    >[!TIP]
    >
-   >Is the default time zone not yours? Learn how to [update it here](https://docs.marketo.com/display/DOCS/Select+Your+Language,+Locale+and+Time+Zone#SelectYourLanguage,LocaleandTimeZone-ChangeUserLanguage,Locale&Timezone).
+   >Is the default time zone not yours? Learn how to [update it here](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md).
 
 1. Click **Approve Program** under the Approval tile and you're done!
 
@@ -142,4 +128,6 @@ You should receive the email shortly after the scheduled day/time.
 
 <br>&nbsp;
 
-[◄ Get Set Up and Add a Lead](get-set-up-and-add-a-person.md) [Landing Page with a Form ►](landing-page-with-a-form.md) 
+[◄ Get Set Up and Add a Lead](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+
+[Landing Page with a Form ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)

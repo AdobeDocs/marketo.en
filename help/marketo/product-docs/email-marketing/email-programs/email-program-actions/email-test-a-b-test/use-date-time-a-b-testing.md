@@ -8,9 +8,7 @@ title: Use "Date/Time" A/B Testing
 
 You can easily A/B test your emails. One test is the **Date/Time **test. This tests what time of day or day of week is best to send emails. Here's how to set it up.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add an A/B Test](add-an-a-b-test.md)
 >

@@ -8,9 +8,7 @@ title: Landing Page Test Groups
 
 Marketo tracks the number of page views and form completions on each tested page within a Test Group. You can use test group results to decide which Landing Page is the most compelling. Here's how to create a test group.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Build two or more landing pages](../../../../getting-started/quick-wins/landing-page-with-a-form.md), preferably with a form.
 

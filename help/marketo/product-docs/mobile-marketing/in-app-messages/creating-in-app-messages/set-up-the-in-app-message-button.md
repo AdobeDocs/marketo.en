@@ -71,9 +71,7 @@ You can use the default button design, modify it, or upload your own custom butt
 
 Almost there. Your last step is to . 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding In-App Messages](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Choose a Layout for Your In-App Message](choose-a-layout-for-your-in-app-message.md)

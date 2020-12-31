@@ -40,9 +40,7 @@ Put videos with social sharing options on your landing pages.
 
 Congratulations! You have added a video share to your free-form landing page. Approve the landing page and your video share is live. You can also [publish the landing page to Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) or [put the video share on your web site](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >You're done, but you can change the settings of your video share if necessary. Start with  [customizing the share flow](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (when and where the share prompt opens).
 

@@ -22,9 +22,7 @@ Learn more about  [Google’s offline conversion import feature](https://support
 
 You can create a new AdWords offline conversion from Marketo if you use Stage Action.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add Google AdWords as a LaunchPoint Service](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 >

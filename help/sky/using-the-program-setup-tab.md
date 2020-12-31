@@ -23,11 +23,11 @@ To change your program channel, select a different one from the drop-down at the
 
 ## Add Tags
 
-1. Under the [!UICONTROL Tags] section, Click the [!UICONTROL **Attribute**] drop-down and choose a tag attribute from the available options.
+1. Under the [!UICONTROL Tags] section, Click the **[!UICONTROL Attribute]** drop-down and choose a tag attribute from the available options.
 
    ![Image Three](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. Click the [!UICONTROL **Value**] drop-down and choose a tag value from the available options. Click [!UICONTROL **Add**].
+1. Click the **[!UICONTROL Value]** drop-down and choose a tag value from the available options. Click **[!UICONTROL Add]**.
 
    ![Image Four](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -41,7 +41,7 @@ To change your program channel, select a different one from the drop-down at the
 
 ## Add Period Costs
 
-1. Under the [!UICONTROL Period Costs] section, select a month, enter a cost, and add a short name or description. Click [!UICONTROL **Add**].
+1. Under the [!UICONTROL Period Costs] section, select a month, enter a cost, and add a short name or description. Click **[!UICONTROL Add]**.
 
    ![Image Six](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 

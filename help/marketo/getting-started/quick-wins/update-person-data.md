@@ -8,19 +8,10 @@ title: Update Person Data
 
 ## Mission: Update a person's contact info or other data {#mission-update-a-persons-contact-info-or-other-data}
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
->[!NOTE]
->
->**Prerequisites**
->
->* [Get Set Up and Add a Person](get-set-up-and-add-a-person.md)
->* [Import a List of People](import-a-list-of-people.md)
->
+>* [Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Import a List of People](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 Let's imagine that at your recent tradeshow, a person gave you some additional contact info. Here's how to update person data.  
 
@@ -44,7 +35,7 @@ Let's imagine that at your recent tradeshow, a person gave you some additional c
 
    >[!TIP]
    >
-   >There are lots of ways to update person data in Marketo. See [Import a List of People](import-a-list-of-people.md) and [Change Data Value](../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+   >There are lots of ways to update person data in Marketo. See [Import a List of People](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) and [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
 ## Update the Person Data {#update-the-person-data}
 
@@ -62,4 +53,6 @@ Nice job! You've updated your person data.
 
 <br>&nbsp;
 
-[◄ Mission 8: Alert the Sales Rep](alert-the-sales-rep.md) [Mission 10: Redirect a Landing Page ►](redirect-a-landing-page.md) 
+[◄ Mission 8: Alert the Sales Rep](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+
+[Mission 10: Redirect a Landing Page ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)

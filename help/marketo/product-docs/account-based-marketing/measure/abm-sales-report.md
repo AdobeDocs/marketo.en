@@ -10,7 +10,7 @@ Receive a weekly email containing your top accounts and their weekly trends.
 
 >[!NOTE]
 >
->Learn how to set up this report [here](https://docs.marketo.com/x/drat).
+>Learn how to set up this report [here](/help/marketo/product-docs/account-based-marketing/measure/abm-report-setup.md).
 
 The report shares:
 
@@ -23,8 +23,35 @@ The report shares:
 
 ## Sales Report Key {#sales-report-key}
 
-| **Account Score** |Weekly trend by account score (selected in setup), followed by current account score |
-|---|---|
-| **Sales Pipeline** |Weekly trend by pipeline, followed by total current pipeline and number of open opportunities |
-| **Page Views** |Weekly trend of page views, followed by total page views and number of unique visitors |
-| **Interesting Moments** |Total number of interesting moments that occurred during the week |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Account Score</strong></td> 
+   <td> 
+    <div>
+      Weekly trend by account score (selected in setup), followed by current account score 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Sales Pipeline</strong></td> 
+   <td> 
+    <div>
+      Weekly trend by pipeline, followed by total current pipeline and number of open opportunities 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Page Views</strong></td> 
+   <td> 
+    <div>
+      Weekly trend of page views, followed by total page views and number of unique visitors 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Interesting Moments</strong></td> 
+   <td> 
+    <div>
+      Total number of interesting moments that occurred during the week 
+    </div></td> 
+  </tr> 
+ </tbody> 
+</table>

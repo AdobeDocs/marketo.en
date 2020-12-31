@@ -46,9 +46,7 @@ Audit Trail is available to all customers and controlled by two admin permission
 
 ## Assign Audit Trail Role to a User {#assign-audit-trail-role-to-a-user}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Create](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) or [enable](#Enable) an existing role, giving it Audit Trail permissions.
 

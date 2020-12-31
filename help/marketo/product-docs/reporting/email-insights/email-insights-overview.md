@@ -52,9 +52,7 @@ Click on Metrics bars to translate the colors into numbers.
 
 All of the standard Marketo dimensions are included, but you have the option of adding up to 10 custom dimensions. [Custom dimensions](custom-dimensions-for-email-insights.md) consist of segmentations and program tags.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Email Insights Analytics Overview](email-insights-analytics-overview.md)
 >* [Email Insights Sends Overview](email-insights-sends-overview.md)

@@ -17,6 +17,6 @@ You can delete any entry on your calendar in just a few easy steps.
 
    ![Image Two](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-2.png)
 
-1. Click [!UICONTROL **Confirm**] to delete the entry.
+1. Click **[!UICONTROL Confirm]** to delete the entry.
 
    ![Image Three](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-3.png)

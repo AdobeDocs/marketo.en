@@ -24,9 +24,7 @@ As an admin you can enable call recording for your Sales Connect calls. Recordin
 
    ![](assets/four.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Two Party Consent Settings](http://docs.marketo.com/x/dgC1Ag)
 

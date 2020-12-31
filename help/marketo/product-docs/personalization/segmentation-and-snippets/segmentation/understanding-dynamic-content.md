@@ -8,12 +8,6 @@ title: Understanding Dynamic Content
 
 There is a lot more to personalization than just "Hi `{{First Name}}`". With Marketo dynamic content, you can customize how different people see a landing page or email.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 ![](assets/artboard-1.png)
 
 ## Segmentation {#segmentation}
@@ -48,9 +42,7 @@ Once you've created different segments, you can add dynamic content blocks into 
 
 Try it out and tell us your success story!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a Segmentation](create-a-segmentation.md)
 >* [Create a Snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)

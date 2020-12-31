@@ -8,12 +8,6 @@ title: Subscribe to a Smart List
 
 Subscribing to smart lists is a great way to keep track of people, with reports sent right to your inbox.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 You can create a smart list subscription in two separate places:
 
 * Marketing Activities
@@ -101,9 +95,7 @@ To delete a subscription, select it in the subscriptions tab and click Delete Su
 
 ![](assets/twelve.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Edit a Smart List Subscription](edit-a-smart-list-subscription.md)
 >* [Secure the Subscription Admin Setting](secure-the-subscription-admin-setting.md)

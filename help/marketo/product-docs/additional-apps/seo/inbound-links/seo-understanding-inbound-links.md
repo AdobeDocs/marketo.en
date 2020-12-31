@@ -23,10 +23,6 @@ Inbound links indicate to search engines that your site is worth referencing. Th
 
 Sweet! Now that you understand inbound links, we can suggest more inbound link opportunities for your site.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Get Inbound Link Suggestions](seo-get-inbound-link-suggestions.md)
->
-
+>[Get Inbound Link Suggestions](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)

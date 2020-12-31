@@ -8,9 +8,7 @@ title: Create a Custom Service for Use with ReST API
 
 If you want to integrate with Marketo via the ReST API, you'll want to create a custom service. Here's how.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create an API Only User Role](../../../product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 >* [Create an API Only User](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)

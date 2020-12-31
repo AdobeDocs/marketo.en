@@ -40,9 +40,7 @@ Add stats about program status to your [program performance report](create-a-pro
 >
 >If you do not see a column for each status in the program, make sure you have [selected the columns to show](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) in the report.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Filter a Program Report by Tag](filter-a-program-report-by-tag.md)
 >

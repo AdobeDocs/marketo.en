@@ -10,12 +10,6 @@ Engagement programs are designed to market to new people by presenting content t
 
 >[!NOTE]
 >
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
->[!NOTE]
->
 >There is a limit of 100 **active** engagement programs per subscription.
 
 ## Engagement Program {#engagement-program}
@@ -87,9 +81,7 @@ Once a person has received every piece of content in a stream, we call the perso
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [People Who Have Exhausted Content](../../../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 >
@@ -98,9 +90,7 @@ Once a person has received every piece of content in a stream, we call the perso
 
 Content Engagement Level is a 0 to 100 point score that Marketo will give your content. This number is determined by a sophisticated formula using opens, clicks, unsubscribes, program success, and other factors.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding the Engagement Score](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
 >

@@ -10,12 +10,6 @@ Use custom objects to track metrics specific to your business.
 
 >[!NOTE]
 >
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
->[!NOTE]
->
 >**Availability**
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
@@ -92,9 +86,7 @@ After you've created the custom object structure, when you upload the specific c
 
    See [Import Custom Object Data](import-custom-object-data.md) for more information.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create Marketo Custom Objects](create-marketo-custom-objects.md)
 >* [Approve a Custom Object](approve-a-custom-object.md)

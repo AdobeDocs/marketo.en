@@ -68,9 +68,7 @@ To see the most up-to-date data, simply click the refresh icon on the dashboard.
 
 ![](assets/refreshicon.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Use the Email Program Dashboard - A/B Test View](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
 >

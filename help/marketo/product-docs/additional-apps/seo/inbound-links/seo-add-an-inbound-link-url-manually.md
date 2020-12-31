@@ -12,18 +12,19 @@ You can add Inbound Links manually. Here's how:
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. Click **ADD URLS**.
+1. Click **Add URLs**.
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. Type in the URL. Click **ADD**.
+1. Type in the URL. Click **Add**.
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 
    >[!TIP]
    >
-   >Did you know you can  [add your inbound link to a new or existing list](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Check it out!
+   >Did you know you can [add your inbound link to a new or existing list](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Check it out!
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
-Rock on! You should now see your new URL added to the list. It may take some time to gather all the data. Patience is a virtue. 
+Rock on! You should now see your new URL added to the list. It may take some time to gather all the data.
+

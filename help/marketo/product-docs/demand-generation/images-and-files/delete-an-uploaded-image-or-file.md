@@ -32,9 +32,7 @@ title: Delete an Uploaded Image or File
 
 Nicely done!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Replace an Uploaded Image or File](replace-an-uploaded-image-or-file.md)
 >* [Search Uploaded Images and Files](search-uploaded-images-and-files.md)

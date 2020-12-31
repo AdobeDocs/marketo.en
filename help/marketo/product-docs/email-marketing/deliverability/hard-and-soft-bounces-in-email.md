@@ -8,12 +8,6 @@ title: Hard and Soft Bounces in Email
 
 A hard bounce can render a person's email address invalid when a mail server tells Marketo that the person's email can't be delivered. A soft bounce means something went wrong in delivering the email to the person; this automatically gets resolved and can sometimes takes days. Both hard and soft bounces consist of [multiple categories](http://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 ## Bounce Classification {#bounce-classification}
 
 There are 5 person strings in Marketo that are related to troubled email delivery.
@@ -30,9 +24,7 @@ There are 5 person strings in Marketo that are related to troubled email deliver
 >
 >When a person is marked as **email invalid**, they can only be reset manually (which we recommend you only do if you know for certain their email is valid) by unchecking the "Email Invalid" box in the Person Info tab of their record.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Follow [these steps](../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) to create an Email Performance Report, which will generate bounce data.
 

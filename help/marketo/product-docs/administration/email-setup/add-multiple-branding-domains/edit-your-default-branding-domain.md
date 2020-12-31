@@ -8,9 +8,7 @@ title: Edit Your Default Branding Domain
 
 Editing your default branding domain is the first step in working with branding domains.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Make sure you've [set up a CNAME in your DNS](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) before you add your branding domains in Marketo.
 

@@ -28,7 +28,7 @@ You'll need to set-up permissions for your users to be able to use ABM. Here's h
 
    ![](assets/four-1.png)
 
-1. To select *all* permissions, simply check the **Access Account Based Marketing** checkbox.
+1. To select _all_ permissions, simply check the **Access Account Based Marketing** checkbox.
 
    ![](assets/five-1.png)
 
@@ -38,8 +38,8 @@ You'll need to set-up permissions for your users to be able to use ABM. Here's h
 
 1. Click the **+** to open the Access Admin menu. Check the **Access ABM Admin** checkbox.
 
-   ![](assets/six-1.png)  
-   Your new ABM role is now ready to be [assigned to a user](http://docs.marketo.com/display/public/DOCS/Managing+User+Roles+and+Permissions#ManagingUserRolesandPermissions-AssignRolestoaUser)!
+   ![](assets/six-1.png)
+
+   Your new ABM role is now ready to be [assigned to a user](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)!
 
    ![](assets/seven.png)
-

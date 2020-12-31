@@ -10,12 +10,6 @@ Sometimes you need to make changes in a Workspace. It's easy.
 
 >[!NOTE]
 >
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
->[!NOTE]
->
 >**Admin Permissions Required**
 
 >[!NOTE]
@@ -62,9 +56,7 @@ Sometimes you need to make changes in a Workspace. It's easy.
    >
    >You can't change the workspace language.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a New Workspace](create-a-new-workspace.md)
 >* [Understanding Workspaces and Person Partitions](understanding-workspaces-and-person-partitions.md)

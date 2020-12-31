@@ -14,21 +14,21 @@ Did you know you can add notes to page issues as personal reminders or team mess
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. On the pages tab, click Issues.
+1. On the pages tab, click **Issues**.
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. Hover over the issue you'd like to add a note to. Click ADD STICKY NOTE. 
+1. Hover over the issue you'd like to add a note to. Click **Add Sticky Note**.
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
-1. Enter a note in the yellow text box. Clicking outside of the text box will save the note. 
+1. Enter a note in the yellow text box. Clicking outside of the text box will save the note.
 
 ![](assets/image2014-9-18-13-3a12-3a32.png)
 
 >[!TIP]
 >
->You can delete your note by clicking the small x in the upper left hand corner. 
+>You can delete your note by clicking the small **x** in the upper left hand corner.
 
 ## Add Notes in Page Detail Drill Down {#add-notes-in-page-detail-drill-down}
 
@@ -40,15 +40,14 @@ Did you know you can add notes to page issues as personal reminders or team mess
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Hover over the page issue you'd like to add a note to and click **ADD NOTE**.
+1. Hover over the page issue you'd like to add a note to and click **Add Note**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. Enter your note. Click **SAVE**.
+1. Enter your note. Click **Save**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 
-   Groovy. Your note has been added.
+   Your note has been added!
 
    ![](assets/image2014-9-18-13-3a14-3a20.png)
-

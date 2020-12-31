@@ -8,12 +8,6 @@ title: Build a People Performance Report with Mobile Platform Columns
 
 Follow these steps to create a People Performance Report with mobile platform (iOS/Android) columns.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 ## Create Mobile Smart Lists {#create-mobile-smart-lists}
 
 1. Go to **Marketing Activities**.

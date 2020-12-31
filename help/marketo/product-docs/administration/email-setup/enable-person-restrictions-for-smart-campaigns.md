@@ -6,12 +6,6 @@ title: Enable Person Restrictions for Smart Campaigns
 
 # Enable Person Restrictions for Smart Campaigns {#enable-person-restrictions-for-smart-campaigns}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 There is a feature in Marketo to limit the ***maximum ***number of people that can qualify for a smart campaign. This avoids accidentally emailing your whole database.
 
 >[!NOTE]
@@ -51,9 +45,7 @@ There is a feature in Marketo to limit the ***maximum ***number of people that c
 
 Bingo! You just turned on the safety switch. Good idea, right? 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Override Person Restrictions in a Smart Campaign](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
 >

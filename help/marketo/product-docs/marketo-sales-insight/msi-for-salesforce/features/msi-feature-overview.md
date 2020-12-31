@@ -161,9 +161,7 @@ Salesforce Classic: Add to Watchlist, Add to Marketo Campaign, and Send Marketo 
 * MSI Configuration: Includes configuration of Marketo tab and MSI visualforce panel
 * Reset Marketo Sales Insight: Includes ability to wipe out all configurations
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Marketo Sales Insight Configuration tab in Salesforce](http://docs.marketo.com/x/UoCMAg)
 

@@ -26,9 +26,7 @@ In Marketo, finding images and files is a breeze.
 
 Kick up your feet - you're done!
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Replace an Uploaded Image or File](replace-an-uploaded-image-or-file.md)
 >* [Organize Your Images and Files Using Folders](organize-your-images-and-files-using-folders.md)

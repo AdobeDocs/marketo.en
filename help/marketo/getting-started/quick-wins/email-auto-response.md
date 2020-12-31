@@ -8,19 +8,10 @@ title: Email Auto-Response
 
 ## Mission: Send out a thank-you email when a person fills out a form {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
->[!NOTE]
->
->**Prerequisites**
->
->* [Get Set Up and Add a Person](get-set-up-and-add-a-person.md)
->* [Landing Page with a Form](landing-page-with-a-form.md)
->
+>* [Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 ## Step 1: Create an Email {#step-create-an-email}
 
@@ -40,13 +31,13 @@ title: Email Auto-Response
 
    ![](assets/four-1.png)
 
-   An email editor will open in a new window or tab. If pop-ups are blocked, click** Edit Draft** on the asset summary page to access the email.
+   An email editor will open in a new window or tab. If pop-ups are blocked, click **Edit Draft** on the asset summary page to access the email.
 
 1. Enter a subject line, then double-click the editable area of the email.
 
    ![](assets/five-2.png)
 
-   A rich text editor will open on top of the email editor.
+   _A rich text editor will open on top of the email editor._
 
 1. Highlight the existing email content.
 
@@ -62,7 +53,7 @@ title: Email Auto-Response
 
 1. Select your new email. Under Email Actions click Approve.
 
-   ![](assets/image2014-9-24-11-3a55-3a16.png) 
+   ![](assets/image2014-9-24-11-3a55-3a16.png)
 
 ## Step 2: Create a Smart Campaign {#step-create-a-smart-campaign}
 
@@ -74,39 +65,41 @@ title: Email Auto-Response
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Go to the **Smart List **tab.
+1. Go to the **Smart List** tab.
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   We're setting up this campaign to run whenever a person fills out the form you created in [**Landing Page with a Form**](landing-page-with-a-form.md).
+   We're setting up this campaign to run whenever a person fills out the form you created in [**Landing Page with a Form**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
 1. Find and drag the **Fills Out Form** trigger to the left canvas.
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. Select **My Form** in the drop-down. Click the **Flow **tab.
+1. Select **My Form** in the drop-down. Click the **Flow** tab.
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
-1. Drag the **Send Email **flow action to the left canvas.
+1. Drag the **Send Email** flow action to the left canvas.
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. Select your **Auto Response Email** and go to the **Schedule **tab.
+1. Select your **Auto Response Email** and go to the **Schedule** tab.
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
 1. Click **Edit**.
 
    ![](assets/8.png)
-   Select every time and click Save .
+
+1. Select **every time** and click **Save**.
+
    ![](assets/9.png)
 
 1. Click **Activate**.
 
    ![](assets/10.png)
 
-1. Click **Activate **on the confirmation screen.
+1. Click **Activate** on the confirmation screen.
 
    ![](assets/11.png)
 
@@ -116,7 +109,7 @@ title: Email Auto-Response
 
 ## Step 3: Fill Out the Form {#step-fill-out-the-form}
 
-1. Select **My Page**. This was created in the [Landing Page with a Form](landing-page-with-a-form.md) quick win.
+1. Select **My Page**. This was created in the [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) quick win.
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
@@ -140,4 +133,6 @@ Within just a few minutes you should see the auto response email in your inbox. 
 
 <br>&nbsp;
 
-[◄ Mission 3: Simple Scoring](simple-scoring.md) [Mission 5: Import a List of Leads ►](import-a-list-of-people.md) 
+[◄ Mission 3: Simple Scoring](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+
+[Mission 5: Import a List of Leads ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)

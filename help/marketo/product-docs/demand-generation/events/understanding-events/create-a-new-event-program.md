@@ -42,9 +42,7 @@ Events allow you to automate online and offline events! Capture the status of yo
 
 Ta-da! Your new event will now appear in the tree. Once your event is created, build the [landing pages](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [forms](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md), and [emails](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) to invite your guests! You'll also want to get familiar with the [program schedule view](http://docs.marketo.com/display/docs/program+schedule+view).
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Marketing Calendar](http://docs.marketo.com/display/docs/marketing+calendar)
 >* [Using Period Costs in a Program](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)

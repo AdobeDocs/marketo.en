@@ -8,7 +8,7 @@ title: SEO - Understanding Keywords
 
 Keywords are the backbone of your SEO strategy. Your goal is to be on the first page, as close to #1 as possible for keywords relevant to your business.
 
-The keywords section will show you how successful your site is at achieving this and how you stack up to [your competition.](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
+The keywords section will show you how successful your site is at achieving this and how you stack up to [your competition](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
 
 ## Keywords - Summary View {#keywords-summary-view}
 
@@ -47,17 +47,13 @@ The keywords section will show you how successful your site is at achieving this
 
 ## Keywords - Competitor View {#keywords-competitor-view}
 
-You can also view how your competitors are performing using the same metrics by clicking on the view drop-down and selecting competitors. 
+You can also view how your competitors are performing using the same metrics by clicking on the view drop-down and selecting competitors.
 
 ![](assets/image2014-9-17-21-3a44-3a45.png)
 
 Great! Now that you understand the keywords section, let's learn about pages and inbound links.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Understanding Pages](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
->* [Understanding Inbound Links](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
->
-
+>* [Understanding Pages](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
+>* [Understanding Inbound Links](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)

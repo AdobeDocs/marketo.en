@@ -13,11 +13,11 @@ Clone a stream for various reasons, including testing different orders and diffe
 
    ![Image One](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-1.png)
 
-1. Click the [!UICONTROL **Streams**] tab.
+1. Click the **[!UICONTROL Streams]** tab.
 
    ![Image Two](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-2.png)
 
-1. Click on the stream's gear icon and select [!UICONTROL **Clone**].
+1. Click on the stream's gear icon and select **[!UICONTROL Clone]**.
 
    ![Image Three](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-3.png)
 

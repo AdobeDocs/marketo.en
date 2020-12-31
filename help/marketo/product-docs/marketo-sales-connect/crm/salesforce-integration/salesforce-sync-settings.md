@@ -10,9 +10,7 @@ title: Salesforce Sync Settings
 
 This functionality requires you to be on the Enterprise/Unlimited edition of Salesforce, or the Professional edition if you've purchased Integration via Web Services API.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Salesforce and Sales Engage must be connected.
 
@@ -40,9 +38,7 @@ This functionality requires you to be on the Enterprise/Unlimited edition of Sal
 
 Once you activate “Email to Salesforce (BCC)”, you'll receive a BCC of your sales emails and your emails will be logged as activities on opportunities, leads and contacts.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Salesforce and Sales Engage must be connected.
 

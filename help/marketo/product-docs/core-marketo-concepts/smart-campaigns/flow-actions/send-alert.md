@@ -6,12 +6,6 @@ title: Send Alert
 
 # Send Alert {#send-alert}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 ## Overview {#overview}
 
 Marketo can send an email alert with person information to anyone - the sales owner, a partner, or someone else. Use the **Send Alert** flow step.
@@ -54,9 +48,7 @@ Marketo can send an email alert with person information to anyone - the sales ow
 
 That's it! Now you know how to use the **Send Alert** flow step. 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Create an Email](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 

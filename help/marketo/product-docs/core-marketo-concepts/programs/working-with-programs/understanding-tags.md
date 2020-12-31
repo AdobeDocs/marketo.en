@@ -56,9 +56,7 @@ Channels are used to report on how your [members](../../../../product-docs/core-
 
 ![](assets/image2015-2-5-16-3a57-3a59.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create Custom Tags](../../../../product-docs/administration/tags/create-custom-tags.md)
 >* [Create a Program Channel](../../../../product-docs/administration/tags/create-a-program-channel.md)

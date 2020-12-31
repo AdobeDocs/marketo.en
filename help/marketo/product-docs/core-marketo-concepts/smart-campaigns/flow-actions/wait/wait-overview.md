@@ -6,12 +6,6 @@ title: Wait
 
 # Wait {#wait}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](/help/marketo/getting-started/updates-to-marketo-terminology.md).
-
 ## Overview {#overview}
 
 Pause a person in a smart campaign flow with the handy **wait step**.

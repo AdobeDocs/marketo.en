@@ -12,9 +12,8 @@ You can export your keyword results to share with your team or to create a repor
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
-1. Click Export.
+1. Click **Export**.
 
    ![](assets/image2014-9-18-12-3a51-3a25.png)
 
-   Yup, it's really that easy.
-
+   Yep, it really is that easy.

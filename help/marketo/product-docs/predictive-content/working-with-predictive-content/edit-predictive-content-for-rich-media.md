@@ -12,9 +12,7 @@ title: Edit Predictive Content for Rich Media
 
 Here's how to set up your predictive content for Rich Media.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >Content must be [approved for predictive content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) on the All Content page.
 

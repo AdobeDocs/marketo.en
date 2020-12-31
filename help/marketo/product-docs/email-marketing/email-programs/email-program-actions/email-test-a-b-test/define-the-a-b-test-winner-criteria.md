@@ -8,9 +8,7 @@ title: Define the A/B Test Winner Criteria
 
 When [adding an A/B test](add-an-a-b-test.md) to your email program, you will need to pick a test type, [schedule the A/B test](schedule-the-a-b-test.md), then define the winner criteria. Here's how to decide which email wins.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add an A/B Test](add-an-a-b-test.md)
 >

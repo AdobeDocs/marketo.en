@@ -120,9 +120,7 @@ If you choose , the values of the page's OpenGraph tags (og:title, og:caption, a
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >The next step is to [add your video share](customize-video-share-flow.md) or [poll](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) to a landing page, Facebook, or your own website.
 

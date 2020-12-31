@@ -8,9 +8,7 @@ title: Use "Whole Email" A/B Testing
 
 You can easily A/B test your emails. One great test is the **Whole Email** test. Here's how to set it up.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add an A/B Test](add-an-a-b-test.md)
 >

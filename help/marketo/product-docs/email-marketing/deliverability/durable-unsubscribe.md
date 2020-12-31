@@ -50,9 +50,7 @@ Just as an unsubscribe would cause all people with the same email address to bec
 
 Data Value Change definitions for *updateLeadEmailStatus* and *resetLeadEmailStatus* can be found in [this Community article](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Understanding Unsubscribe](understanding-unsubscribe.md)
 

@@ -8,9 +8,7 @@ title: Send and Track an Email with the Email Add-In for Outlook
 
 You can send and track emails with Marketo directly from Outlook.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >If you haven't yet, install the [Marketo email add-in for Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 

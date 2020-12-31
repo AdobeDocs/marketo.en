@@ -85,9 +85,7 @@ Create a Lead Score rule to assign the new leads with a minimum score to an appr
 
    ![](assets/image2015-4-29-14-3a4-3a23.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >To approve your model, read our help page on ** [Approving and Unapproving a Revenue Model](approve-unapprove-a-revenue-model.md)**.
 

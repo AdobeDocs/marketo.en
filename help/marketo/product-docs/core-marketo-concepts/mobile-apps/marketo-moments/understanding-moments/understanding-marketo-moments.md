@@ -143,9 +143,7 @@ Every step of the way, you can confirm or cancel an action. If you change your m
 
 Ready to learn more?
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Email Program Cards](understanding-email-program-cards.md)
 >* [Understanding Event Cards](understanding-event-cards.md)

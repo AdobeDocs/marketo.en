@@ -8,11 +8,9 @@ title: New Account Discovery
 
 New Account Discovery can help you find new accounts to target by using AI-powered recommendations from your ideal customer profile.
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**Prerequisites**
->
->[Set up Account Profiling](http://docs.marketo.com/x/FgAKAQ)
+>[Set up Account Profiling](/help/marketo/product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
 
 >[!TIP]
 >
@@ -68,5 +66,4 @@ New Account Discovery can help you find new accounts to target by using AI-power
 
    >[!TIP]
    >
-   >After your accounts are saved, you can use a [matched audience on LinkedIn](http://docs.marketo.com/x/rYGZAQ) to target them.
-
+   >After your accounts are saved, you can use a [matched audience on LinkedIn](/help/marketo/product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md) to target them.

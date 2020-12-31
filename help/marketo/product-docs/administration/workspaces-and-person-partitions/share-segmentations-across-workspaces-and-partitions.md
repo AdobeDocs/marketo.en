@@ -6,9 +6,7 @@ title: Share Segmentations Across Workspaces and Partitions
 
 # Share Segmentations Across Workspaces and Partitions {#share-segmentations-across-workspaces-and-partitions}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >This article is only for customers who have Workspaces and Partitions
 

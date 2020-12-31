@@ -14,7 +14,7 @@ You can keep all your keywords nice and organized by using lists. This will make
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Hover over the keyword you want to add to a list. Click **ADD/REMOVE FROM LIST**.
+1. Hover over the keyword you want to add to a list. Click **Add/Remove from list**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -24,11 +24,11 @@ You can keep all your keywords nice and organized by using lists. This will make
 
    >[!TIP]
    >
-   >You can also make a new list for your keywords. Just type the name in Create a new list. 
+   >You can also make a new list for your keywords. Just type the name in Create a new list.
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
-Woohoo! Select your list to see the new keywords. 
+Woo hoo! Select your list to see the new keywords.
 
 ## Remove Keyword from List {#remove-keyword-from-list}
 
@@ -38,7 +38,7 @@ You can also remove keywords from a list.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Hover over the keyword you want to remove from a list. Click **ADD/REMOVE FROM LIST**.
+1. Hover over the keyword you want to remove from a list. Click **Add/Remove from list**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
@@ -46,14 +46,12 @@ You can also remove keywords from a list.
 
    >[!NOTE]
    >
-   >All lists that the keyword belongs to currently will have a check mark. Once removed from the list, the check disappears. Magic!
+   >All lists that the keyword belongs to currently will have a check mark. Once removed from the list, the check disappears.
 
    ![](assets/image2014-9-18-11-3a50-3a41.png)
 
    Perfect, the keyword is no longer on this list. Refresh your page to update the display.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >    
-   >* [Understanding Keywords (Summary View)](seo-understanding-keywords.md)
+   >[Understanding Keywords (Summary View)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

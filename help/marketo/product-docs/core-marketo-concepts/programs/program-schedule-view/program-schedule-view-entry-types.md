@@ -51,9 +51,7 @@ There are eight different built-in entry types that will be visible and availabl
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a Custom Entry Type](create-custom-entry-types.md)
 >

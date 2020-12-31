@@ -42,9 +42,7 @@ Some programs may need to be included even if they don't have a period cost. Alt
 
 Nice job! Now any program using the modified channel will be included in revenue explorer and analyzers without the need for a period cost. 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Override Analytics Behavior at the Program Level](override-analytics-behavior-at-the-program-level.md)
 >

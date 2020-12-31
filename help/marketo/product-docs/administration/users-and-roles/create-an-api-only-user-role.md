@@ -32,9 +32,7 @@ If you want to integrate with Marketo via the [REST API](http://developers.marke
 >
 >It's always a good idea to only grant the minimum permissions required.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >Okay, well done! Now let's [create an API Only user](create-an-api-only-user.md).
 

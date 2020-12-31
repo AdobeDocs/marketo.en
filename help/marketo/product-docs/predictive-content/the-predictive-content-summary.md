@@ -46,9 +46,7 @@ Which categories of content are most engaging? See it in this graph.
 >
 >If you click a category link (examples in the above image: leadgen, email, etc,.) it opens the All content page with the category you clicked on added to the filter, displaying the content analytics in that category.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Working with All Content](http://docs.marketo.com/display/docs/working+with+all+content)
 >* [Working with Predictive Content](http://docs.marketo.com/display/docs/working+with+predictive+content)

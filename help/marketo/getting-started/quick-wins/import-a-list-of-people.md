@@ -8,40 +8,27 @@ title: Import a List of People
 
 ## Mission: Import a spreadsheet list of trade show attendees into your database {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
+>[Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
->[!NOTE]
->
->**Prerequisites**
->
->* [Get Set Up and Add a Person](get-set-up-and-add-a-person.md) 
->
-
-`   
-`  In this tutorial, you'll learn how to import people from a spreadsheet file into Marketo.
+In this tutorial, you'll learn how to import people from a spreadsheet file into Marketo.
 
 ## Step 1: Download and Edit a Spreadsheet {#step-download-and-edit-a-spreadsheet}
 
-1. To start, download our practice spreadsheet file (** [tradeshow-attendees.csv](http://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)**) to your computer.
+1. To start, download our practice spreadsheet file ([**tradeshow-attendees.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)) to your computer.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >When importing a date, use this format: **9/21/15** (Month/Day/Year).
+   >When importing a date, use this format: **9/21/20** (Month/Day/Year).
 
    >[!NOTE]
    >
    >Any date/time fields being imported are treated as Central Time. If you have date/time fields in a different time zone, you can use an Excel formula to transform it to Central Time (America/Chicago).
 
-1. Add your own first name, last name, email address, and job title, then save the file on your computer. 
+1. Add your own first name, last name, email address, and job title, then save the file on your computer.
 
    ![](assets/image2014-9-24-12-3a5-3a30.png)
 
@@ -59,7 +46,7 @@ title: Import a List of People
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **Name** the program "My Tradeshow Program" and select "Event" for the **Program Type.**
+1. **Name** the program "My Tradeshow Program" and select "Event" for the **Program Type**.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
@@ -69,9 +56,7 @@ title: Import a List of People
 
 >[!NOTE]
 >
->**Deep Dive**
->
->Event programs occur on specific dates. Learn more about [**Events**](http://docs.marketo.com/display/docs/events).
+>Event programs occur on specific dates. Learn more about [**Events**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
 
 ## Step 3: Import Your Spreadsheet into Marketo {#step-import-your-spreadsheet-into-marketo}
 
@@ -105,15 +90,11 @@ title: Import a List of People
 
    >[!NOTE]
    >
-   >In List Import Mode, choosing **Skip new people and updates** means you will not impact existing person records or log any activities. Use this mode if you want a quick, pre-filtered static list of existing people for use in your marketing activities. Selecting this mode will: 
+   >In List Import Mode, choosing **Skip new people and updates** means you will not impact existing person records or log any activities. Use this mode if you want a quick, pre-filtered static list of existing people for use in your marketing activities. Selecting this mode will:
    >
-   >    
-   >    
-   >    * Skip new person creation
-   >    * Skip person field updates
-   >    * Skip activity logging
-   >    
-   >
+   > * Skip new person creation
+   > * Skip person field updates
+   > * Skip activity logging
 
 1. Map your List Column fields to their respective Marketo Field and click **Next**.
 
@@ -121,7 +102,7 @@ title: Import a List of People
 
    >[!TIP]
    >
-   >Column headers should always match the field exactly (case sensitive) in order to achieve the best auto-mapping results. If you're using custom fields and don't see them in the drop-down, go back and [create them](http://docs.marketo.com/display/DOCS/Create+a+Custom+Field+in+Marketo) so they can become options.
+   >Column headers should always match the field exactly (case sensitive) in order to achieve the best auto-mapping results. If you're using custom fields and don't see them in the drop-down, go back and [create them](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) so they can become options.
 
    >[!NOTE]
    >
@@ -141,9 +122,7 @@ title: Import a List of People
 
 >[!NOTE]
 >
->**Deep Dive**
->
->You can analyze the success of your program by tracking program membership. Learn more about [**Programs**](http://docs.marketo.com/display/docs/programs).
+>You can analyze the success of your program by tracking program membership. Learn more about [**Programs**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
 
 ## Mission Complete {#mission-complete}
 
@@ -151,4 +130,6 @@ Your tradeshow attendees are now members of your Marketo program!
 
 <br>&nbsp;
 
-[◄ Mission 4: Email Auto Response](email-auto-response.md) [Mission 6: Drip, Drip, Nurture ►](drip-drip-nurture.md) 
+[◄ Mission 4: Email Auto Response](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+
+[Mission 6: Drip, Drip, Nurture ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)

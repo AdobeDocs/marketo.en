@@ -48,9 +48,7 @@ If you want to collaborate with other team members, assigning tasks can be a gre
 
    ![](assets/nine.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[How to Share a Group](http://docs.marketo.com/x/fwDb)
 

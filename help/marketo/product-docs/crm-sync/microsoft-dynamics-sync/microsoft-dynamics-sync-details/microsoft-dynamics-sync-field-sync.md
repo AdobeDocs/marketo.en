@@ -6,12 +6,6 @@ title: Microsoft Dynamics Sync -Field Sync
 
 # Microsoft Dynamics Sync: Field Sync {#microsoft-dynamics-sync-field-sync}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 Marketo to Dynamics sync is super powerful. Here are the details.
 
 ## How are field details kept in sync between the two systems? {#how-are-field-details-kept-in-sync-between-the-two-systems}
@@ -40,9 +34,7 @@ You can [select fields to sync](https://docs.marketo.com/pages/viewpage.action?p
 
 You can add fields at any time and expect the data to be refreshed from Dynamics to Marketo. See [Use Quick Sync with Microsoft Dynamics for a New Custom Field](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) for details.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Use Quick Sync with Microsoft Dynamics for a New Custom Field](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
 >

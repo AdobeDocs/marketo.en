@@ -8,12 +8,6 @@ title: Set Social Share Requirement
 
 When you  [create a referral offer](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you can require people to share the offer in order to sign up, or make it optional.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 1. Go to **Marketing Activities**.
 
    ![](assets/ma-1.png)

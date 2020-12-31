@@ -55,9 +55,7 @@ In general, we try to use common sense to record these statistics. For example, 
 >
 >Multiple sends from the same campaign to the same person are counted only once.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Filter Assets in Campaign Email Reports](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
 >* [Email Link Performance Report](email-link-performance-report.md)

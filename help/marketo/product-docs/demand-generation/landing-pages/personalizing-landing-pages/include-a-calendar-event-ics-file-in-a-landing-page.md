@@ -8,9 +8,7 @@ title: Include a Calendar Event ICS File in a Landing Page
 
 A **Calendar File** token allows you to add a calendar event (.ics) link to your Marketo landing pages.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Create a Calendar Event (.ics) File](../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 >

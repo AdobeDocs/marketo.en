@@ -14,19 +14,19 @@ Marketo SEO can suggest which keywords you should be tracking. We can give sugge
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. Click **GET SUGGESTIONS**.
+1. Click **Get Suggestions**.
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. Enter a **Keyword**. Click **SUGGEST KEYWORDS**. 
+1. Enter a **Keyword**. Click **Suggest Keywords**.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >Did you know you can  [add your keyword to a new or existing list](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) right here?
+   >Did you know you can  [add your keyword to a new or existing list](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) right here?
 
-1. Select suggested keyword(s). Click **ADD SELECTED**.
+1. Select suggested keyword(s). Click **Add Selected**.
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
@@ -34,7 +34,7 @@ Marketo SEO can suggest which keywords you should be tracking. We can give sugge
 
    ![](assets/image2014-9-18-10-3a54-3a16.png)
 
-   Yeeeeehaw! Now that you know how to get keyword suggestions based on a keyword, try getting suggestions based on a URL.
+   Yeehaw! Now that you know how to get keyword suggestions based on a keyword, try getting suggestions based on a URL.
 
 ## Get Keyword Suggestions From a URL  {#get-keyword-suggestions-from-a-url}
 
@@ -42,7 +42,7 @@ Marketo SEO can suggest which keywords you should be tracking. We can give sugge
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. Click **GET SUGGESTIONS**.
+1. Click **Get Suggestions**.
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
@@ -50,15 +50,15 @@ Marketo SEO can suggest which keywords you should be tracking. We can give sugge
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. Enter a **URL** and click **SUGGEST KEYWORDS**. 
+1. Enter a **URL** and click **Suggest Keywords**.
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >Did you know you can [add your keyword to a new or existing list](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) right here?
+   >Did you know you can [add your keyword to a new or existing list](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) right here?
 
-1. Select suggested keyword(s). Click **ADD SELECTED**.
+1. Select suggested keyword(s). Click **Add Selected**.
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
@@ -68,14 +68,7 @@ Marketo SEO can suggest which keywords you should be tracking. We can give sugge
 
    OK, you are rockin' this thing. Carry on!
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Understanding Keywords (Summary View)](seo-understanding-keywords.md)
-   >    * [Add/Remove Keywords from a List](seo-add-remove-keywords-from-a-list.md)
-   >    
-   >
-
+   >* [Understanding Keywords (Summary View)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [Add/Remove Keywords from a List](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)

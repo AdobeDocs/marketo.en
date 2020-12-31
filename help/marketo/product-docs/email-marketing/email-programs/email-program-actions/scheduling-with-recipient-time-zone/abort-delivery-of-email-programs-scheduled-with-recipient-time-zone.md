@@ -30,9 +30,7 @@ Since email programs scheduled with Recipient Time Zone can run for up to 24 hou
 
    ![](assets/image2018-2-23-11-3a30-3a46.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Understanding Recipient Time Zone](understanding-recipient-time-zone.md)
 >* [Schedule Email Programs with Recipient Time Zone](schedule-email-programs-with-recipient-time-zone.md)

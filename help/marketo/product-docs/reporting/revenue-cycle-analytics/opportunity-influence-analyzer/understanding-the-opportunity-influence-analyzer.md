@@ -32,9 +32,7 @@ If you want to retain this behavior, please consider deduplicating your data in 
 >
 >Every time you close a deal, find it in this analyzer the next day. Share it with the sales rep. They will realize all the hard work you do - plus, you can ask why certain people "look" influential but don't have a role assigned in the CRM.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Tell the Marketing Story with an Opportunity Influence Analyzer](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Create an Opportunity Influence Analyzer](create-an-opportunity-influence-analyzer.md)

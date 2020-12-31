@@ -6,9 +6,7 @@ title: Use Tokens in Flow Steps
 
 # Use Tokens in Flow Steps {#use-tokens-in-flow-steps}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >* [Add a Flow Step to a Smart Campaign](add-a-flow-step-to-a-smart-campaign.md)
 

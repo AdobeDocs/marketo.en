@@ -6,11 +6,9 @@ title: Using Interesting Moments
 
 # Using Interesting Moments {#using-interesting-moments}
 
-Interesting moments are the key to communicating with your sales team through the Marketo Sales Insight app. 
+Interesting moments are the key to communicating with your sales team through the Marketo Sales Insight app.
 
->[!NOTE]
->
->**Availability**
+>[!AVAILABILITY]
 >
 >These are available to Marketo Sales Insight and [Marketo Sales Connect](http://docs.marketo.com/x/fgTLAQ) customers only.
 
@@ -24,7 +22,7 @@ That's up to you! You decide what information is relevant to your sales team. Yo
 
 ## How do I create an interesting moment?  {#how-do-i-create-an-interesting-moment}
 
-1. Choose a  [s](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [mart campaign](http://docs.marketo.com/display/docs/smart+campaigns), preferably one your sales team would find interesting if triggered.
+1. Choose a [smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), preferably one your sales team would find interesting if triggered.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
@@ -69,4 +67,3 @@ Once you've [installed the Marketo Sales Insight App](../../../../../../product-
 After you've installed or updated Marketo Sales Insight for Salesforce1, interesting moments will display under the lead's related links.
 
 ![](assets/seven.png)
-

@@ -60,9 +60,7 @@ Nicely done!
 
 `<iframe width="630" height="470" src="//play.vidyard.com/ZWBeQ5oiXRKG2QAP5E7g6Q.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`  
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Organize Your Images and Files Using Folders](organize-your-images-and-files-using-folders.md)
 >

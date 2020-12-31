@@ -20,7 +20,7 @@ Adding competitors will allow you to track how they are performing for the same 
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. Click **ADD COMPETITOR**.
+1. Click **Add Competitor**.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
@@ -34,14 +34,7 @@ Adding competitors will allow you to track how they are performing for the same 
 
    Congrats! You are one step closer to totally crushing it.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Add Keywords](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-   >    * [Understanding Keywords (Competitor View)](../../../../product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-   >    
-   >
-
+   >* [Add Keywords](/help/marketo//product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
+   >* [Understanding Keywords (Competitor View)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

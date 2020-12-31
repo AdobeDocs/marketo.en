@@ -22,9 +22,7 @@ Clone a snippet to create a copy of it that you can modify to your needs.
 
 Awesome! Now you can modify the cloned snippet to suit your needs.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Edit Snippets with Dynamic Content](edit-snippets-with-dynamic-content.md)
 >

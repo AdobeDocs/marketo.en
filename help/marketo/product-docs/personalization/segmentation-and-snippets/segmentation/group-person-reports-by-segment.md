@@ -8,12 +8,6 @@ title: Group Person Reports by Segment
 
 You can group your  [person reports](http://docs.marketo.com/display/docs/basic+reporting) by any  [segment](http://docs.marketo.com/display/docs/basic+reporting) that you have  [defined in your segmentations](create-a-segmentation.md).
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 1. Go to **Marketing Activities** (or **Analytics**) section.
 
    ![](assets/image2017-3-28-8-3a43-3a9.png)
@@ -51,9 +45,7 @@ You can group your  [person reports](http://docs.marketo.com/display/docs/basic+
 >
 >To learn more about segments and how to create and manage them, see the [Segmentation](http://docs.marketo.com/display/docs/segmentation+and+snippets) deep dive.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Add Custom Columns to a Person Report](../../../../product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
 >

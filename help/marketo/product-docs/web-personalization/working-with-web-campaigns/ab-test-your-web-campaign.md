@@ -67,9 +67,7 @@ To A/B test your personalized campaigns, you can select two or more campaigns, a
 >1. Optimize and enjoy your personalized content!
 >
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a Dialog Campaign](create-a-new-dialog-web-campaign.md)
 >* [Create a RTP In Zone Campaign](create-a-new-in-zone-web-campaign.md)

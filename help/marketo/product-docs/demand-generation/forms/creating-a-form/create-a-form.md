@@ -38,9 +38,7 @@ Create and use a form on a landing page to generate new names. It's really easy 
 
 Sweet! Now that the form is created, let's go ahead and dress it up. 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Select a Form Theme](select-a-form-theme.md)
 >* [Add a FieldSet to a Form](../../../../product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)

@@ -36,9 +36,7 @@ Marketo manages your ON24 webinar registration and attendance.
 
    ![](assets/on24.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >Learn how to [create your webinar event in ON24](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
 

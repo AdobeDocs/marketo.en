@@ -8,12 +8,6 @@ title: Smart Campaign Checklist
 
 Follow the below steps to ensure smooth running of the smart campaign and prevent errors as much as possible.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 1. Get Rid of Smart List Errors
 
    In your smart campaign, click on **Smart List**. Get rid of any red squiggly lines that you see by fixing the errors.

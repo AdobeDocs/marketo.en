@@ -6,9 +6,7 @@ title: Using Revenue Model Transitions
 
 # Using Revenue Model Transitions {#using-revenue-model-transitions}
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Create a New Revenue Model](create-a-new-revenue-model.md)
 

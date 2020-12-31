@@ -8,9 +8,7 @@ title: Uninstall MSI from your MS Dynamics Instance
 
 To uninstall MSI from your MS Dynamics instance, you'll need to perform steps in both Marketo and MS Dynamics.
 
->[!NOTE]
->
->**Prerequisites**
+>[!PREREQUISITES]
 >
 >[Disable Global MS Dynamics Sync](http://docs.marketo.com/x/TAA6Ag)
 

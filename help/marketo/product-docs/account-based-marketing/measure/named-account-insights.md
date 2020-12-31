@@ -12,7 +12,7 @@ The Named Account Dashboard provides a 360-degree view of a target account.
 
 ## Dashboard {#dashboard}
 
-The dashboard aggregates key insights at an account level from all the people within a named account, thus avoiding the need of going to each person to evaluate their progress. You can drill down deeper into email activity using [Email Insights](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing).
+The dashboard aggregates key insights at an account level from all the people within a named account, thus avoiding the need of going to each person to evaluate their progress. You can drill down deeper into email activity using [Email Insights](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
@@ -45,13 +45,13 @@ The dashboard aggregates key insights at an account level from all the people wi
 
 **Interesting Moments**
 
-Available to users of [Marketo Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), see the interesting moments rolled-up at an account level.
+Available to users of Marketo Sales Insight, see the interesting moments rolled-up at an account level.
 
 ![](assets/int-mom.png)
 
 **Top People**
 
-These people are calculated based on priorities that are based on recency or urgency showed by people of named accounts (same as [Best Bets](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets) in Sales Insight), or Scores defined by the user. **Priority** is only available to users of Marketo Sales Insight.
+These people are calculated based on priorities that are based on recency or urgency showed by people of named accounts (same as [Best Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) in Sales Insight), or Scores defined by the user. **Priority** is only available to users of Marketo Sales Insight.
 
 ![](assets/top-ten.png)
 
@@ -105,7 +105,6 @@ View account team members, add/remove members, even assign an account owner in t
 
 ## ICP Indicators {#icp-indicators}
 
-View the ICP Indicators you selected to export when you [tuned your model](http://docs.marketo.com/display/DOCS/Account+AI+Overview#AccountAIOverview-ModelTuning).
+View the ICP Indicators you selected to export when you [tuned your model](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
 
 ![](assets/eight.png)
-
