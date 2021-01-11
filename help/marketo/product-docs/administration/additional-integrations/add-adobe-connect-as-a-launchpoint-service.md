@@ -14,8 +14,6 @@ Marketo manages your Adobe Connect webinar registration and attendance.
 
 >[!NOTE]
 >
->**Reminder**
->
 >An existing subscription to Adobe Connect and administration rights are necessary for this step. Have the following settings at hand: username, password, participant password, and meeting folder URL.
 
 >[!NOTE]
@@ -38,11 +36,9 @@ Marketo manages your Adobe Connect webinar registration and attendance.
 
    ![](assets/image2015-4-22-11-3a50-3a6.png)
 
-1. Complete the process by entering your **Meeting Folder URL** and **Participant** **Password**,** **then click** Create.**
+1. Complete the process by entering your **Meeting Folder URL** and **Participant Password**,then click **Create**.
 
-   ** ![](assets/image2015-4-22-11-3a55-3a36.png)
-
-   **
+   ![](assets/image2015-4-22-11-3a55-3a36.png)
 
    >[!TIP]
    >
@@ -50,16 +46,12 @@ Marketo manages your Adobe Connect webinar registration and attendance.
 
    >[!NOTE]
    >
-   >**Example**
-   >
-   >
-   >Once you've logged into your Adobe Connect account, select the **Seminars** tab. Without drilling down into any specific seminar, copy the URL from your browser bar into the **Meeting Folder URL **setting**.**
+   >Once you've logged into your Adobe Connect account, select the **Seminars** tab. Without drilling down into any specific seminar, copy the URL from your browser bar into the **Meeting Folder URL** setting.
 
-1. Phenomenal! Your **Adobe Connect Service** is now synced with Marketo.
+Your Adobe Connect Service is now synced with Marketo!
 
    ![](assets/adobe-connect-service.png)
 
 >[!MORELIKETHIS]
 >
->Learn how to [create an event with Adobe Connect](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
-
+>Learn how to [create an event with Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).

@@ -17,7 +17,7 @@ There are two notification types included in the Workplace integration:
 
 >[!PREREQUISITES]
 >
->If you don't have Workplace Notifications already enabled, please [contact Support](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436).
+>If you don't have Workplace Notifications already enabled, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Go to **LaunchPoint**, then under **New** click **New Service**.
 
@@ -58,4 +58,3 @@ There are two notification types included in the Workplace integration:
    Notifications will now begin posting to the Facebook group you selected in step 7. They'll look something like this:
 
    ![](assets/example.png)
-

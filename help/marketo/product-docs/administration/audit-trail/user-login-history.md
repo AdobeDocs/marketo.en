@@ -42,11 +42,9 @@ To view the User Login History:
 
    ![](assets/filter-select-from-dropdown.jpg)
 
-1. Select users from the **Users** drop-down.** **
+1. Select the users from the **Users** drop-down.
 
-   ** ![](assets/user-dropdown.jpg)
-
-   **
+   ![](assets/user-dropdown.jpg)
 
 1. Check the **Only Failed Logins** box to display only failed logins in your search.
 
@@ -62,11 +60,4 @@ To view the User Login History:
 
    >[!NOTE]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Audit Trail Overview](audit-trail-overview.md)
-   >    
-   >
-
+   >[Audit Trail Overview](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)

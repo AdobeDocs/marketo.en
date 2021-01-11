@@ -14,8 +14,6 @@ Marketo manages your GoToWebinar registration and attendance.
 
 >[!NOTE]
 >
->**Reminder**
->
 >An existing subscription to GoToWebinar and administration rights are necessary for this step. Have the email and password you use to sign on to GoToWebinar at hand.
 
 >[!NOTE]
@@ -30,11 +28,11 @@ Marketo manages your GoToWebinar registration and attendance.
 
    ![](assets/new-service-gotowebinar.png)
 
-1. `Enter a **Display Name**. Under **Service**, select`**GoToWebinar**.
+1. Enter a **Display Name**. Under **Service**, select **GoToWebinar**.
 
    ![](assets/new-service-goto-webinar1.png)
 
-1. Next, click **Log Into** **GoToWebinar**.
+1. Next, click **Log Into GoToWebinar**.
 
    ![](assets/image2015-4-22-15-3a57-3a59.png)
 
@@ -60,5 +58,4 @@ Marketo manages your GoToWebinar registration and attendance.
 
 >[!MORELIKETHIS]
 >
->Learn how to [create an event with GotoWebinar](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md).
-
+>Learn how to [create an event with GotoWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md).

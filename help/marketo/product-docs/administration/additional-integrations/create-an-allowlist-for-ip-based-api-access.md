@@ -16,7 +16,7 @@ Sometimes, you want to give API access only to a specific IP address or a range 
 
    ![](assets/image2016-2-25-9-3a12-3a48.png)
 
-1. In the IP Restrictions area, click **Edit, **or click** Edit IP Restrictions **in the upper left.
+1. In the IP Restrictions area, click **Edit,** or click **Edit IP Restrictions** in the upper left.
 
    ![](assets/image2016-2-25-9-3a15-3a30.png)
 
@@ -35,4 +35,3 @@ Sometimes, you want to give API access only to a specific IP address or a range 
 1. Click **Save**.
 
    ![](assets/image2016-2-25-9-3a28-3a21.png)
-

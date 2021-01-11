@@ -8,7 +8,7 @@ title: Find Out What Permissions You Have
 
 If you're wondering what permissions you have or don't have in Marketo, there's an easy way for you to find out.
 
-1. Go to** Marketing Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -16,9 +16,8 @@ If you're wondering what permissions you have or don't have in Marketo, there's 
 
    ![](assets/image2014-9-8-17-3a45-3a13.png)
 
-1.  You will see the permissions like so.
+You'll see the permissions listed out.
 
    ![](assets/image2014-9-8-17-3a45-3a23.png)
 
    If you need any of the permissions enabled for you, speak to your Marketo administrator.
-

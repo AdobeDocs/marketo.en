@@ -33,7 +33,7 @@ Once SSO is enabled, the IdP can validate a user’s credentials. When a user wi
 
 ## Additional Notes {#additional-notes}
 
-* **Sync-up time** - For a new user, there is about a 10 minute delay before an initial SSO request is processed. 
+* **Sync-up time** - For a new user, there is about a 10 minute delay before an initial SSO request is processed.
 * **User Provisioning** - Users are provisioned manually by Marketo.
 * **Authorization** - User permissions are maintained within Marketo.
 * **OAuth support** - Marketo does not currently support OAuth.
@@ -46,13 +46,13 @@ Once SSO is enabled, the IdP can validate a user’s credentials. When a user wi
 
 SSO is disabled by default. Follow these steps to enable SAML and configure it.
 
-1. Go to **Admin **and click **Single Sign-On**.
+1. Go to **Admin** and click **Single Sign-On**.
 
    ![](assets/image2014-9-24-14-3a36-3a50.png)
 
    >[!NOTE]
    >
-   >If you don't see **Single Sign-On** under **Admin**, contact [`[email protected]`](http://mailto:support@marketo.com).
+   >If you don't see **Single Sign-On** under **Admin**, contact [[Marketo Support]](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Under the **SAML Settings** section, click on **Edit**.
 
@@ -95,4 +95,3 @@ SSO is disabled by default. Follow these steps to enable SAML and configure it.
    >[!NOTE]
    >
    >Both these pages must be publicly available.
-

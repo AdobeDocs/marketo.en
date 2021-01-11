@@ -14,19 +14,17 @@ Marketo manages your Zoom registration and attendance.
 
 >[!NOTE]
 >
->**Reminder**
->
 >An existing subscription to Zoom and administration rights are necessary for this step. Have the email and password you use to sign in to Zoom on hand.
 
 1. Go to the **Admin** area and click **LaunchPoint**.
 
    ![](assets/launchpoint.png)
 
-1. Click the **New **drop-down and select **New Service**.
+1. Click the **New** drop-down and select **New Service**.
 
    ![](assets/newservicelp.png)
 
-1. `Enter a **Display Name**. Under **Service**, select`**Zoom**.
+1. Enter a **Display Name**. Under **Service**, select **Zoom**.
 
    ![](assets/newservice-1.png)
 
@@ -50,5 +48,4 @@ Marketo manages your Zoom registration and attendance.
 
 >[!MORELIKETHIS]
 >
->Learn how to [create an event with Zoom](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
-
+>Learn how to [create an event with Zoom](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).

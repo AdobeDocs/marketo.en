@@ -16,7 +16,7 @@ Learn more about [Google’s offline conversion import feature](https://support.
 
 >[!NOTE]
 >
->You can also integrate a [Google AdWords as a Launchpoint service with a manager account](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
+>You can also integrate a [Google AdWords as a Launchpoint service with a manager account](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
 
 1. Go to the **Admin** section.
 
@@ -54,7 +54,7 @@ Learn more about [Google’s offline conversion import feature](https://support.
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Upload your offline conversions from Marketo to Google AdWords **Weekly **or **Daily**.
+1. Upload your offline conversions from Marketo to Google AdWords **Weekly** or **Daily**.
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
@@ -79,14 +79,8 @@ Learn more about [Google’s offline conversion import feature](https://support.
    >
    >[Auto-tagging](https://support.google.com/adwords/answer/1752125?hl=en) must be selected for this feature to work. Deactivation must be done inside AdWords.
 
-   >[!NOTE]
-   >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Set Google AdWords Conversions in the Revenue Model](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
-   >    
-   >
+Great! Now see the Related Article below to learn how to map AdWords offline conversions in your revenue model.
 
-Great! Now see the Related Article below to learn how to map AdWords offline conversions in your revenue model. 
+   >[!MORELIKETHIS]
+   >
+   >[Set Google AdWords Conversions in the Revenue Model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)

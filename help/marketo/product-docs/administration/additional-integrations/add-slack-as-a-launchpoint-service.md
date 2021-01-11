@@ -17,7 +17,7 @@ There are two notification types included in the Slack integration:
 
 >[!PREREQUISITES]
 >
->If you don't have Slack System Notifications already enabled, please [contact Support](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270).
+>If you don't have Slack System Notifications already enabled, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Go to **LaunchPoint**, then under **New** click **New Service**.
 
@@ -54,4 +54,3 @@ There are two notification types included in the Slack integration:
    Notifications will now begin posting to the channel you selected in step 6. They'll look something like this:
 
    ![](assets/samplenotification.png)
-

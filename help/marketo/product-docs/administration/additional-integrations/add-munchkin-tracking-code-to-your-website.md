@@ -6,7 +6,7 @@ title: Add Munchkin Tracking Code to Your Website
 
 # Add Munchkin Tracking Code to Your Website {#add-munchkin-tracking-code-to-your-website}
 
-Marketo's custom JavaScript tracking code, called Munchkin, tracks all individuals who visit your website so you can react to their visits with automated marketing campaigns. Even anonymous visitors are tracked along with their IP addresses and other information. ** Without this tracking code, you will not be able to track visits or other activity on your website!**
+Marketo's custom JavaScript tracking code, called Munchkin, tracks all individuals who visit your website so you can react to their visits with automated marketing campaigns. Even anonymous visitors are tracked along with their IP addresses and other information. **Without this tracking code, you will not be able to track visits or other activity on your website**!
 
 >[!PREREQUISITES]
 >
@@ -47,17 +47,17 @@ Marketo's custom JavaScript tracking code, called Munchkin, tracks all individua
 
 >[!TIP]
 >
->For sites that see a high volume of traffic (i.e., hundreds of thousands of visits per month), we recommend you opt not to track anonymous people. [Learn more.](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)
+>For sites that see a high volume of traffic (i.e., hundreds of thousands of visits per month), we recommend you opt not to track anonymous people. [Learn more](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
 
 ## Add Tracking Code When Using Multiple Workspaces {#add-tracking-code-when-using-multiple-workspaces}
 
 If you're using Workspaces in your Marketo account, you probably also have separate web presences that correspond to your workspaces. In that case, you can use the Munchkin tracking Javascript to assign your anonymous people to the correct workspace and partition.
 
-1. Go to Admin and click Munchkin in the tree on the left.
+1. Go to **Admin** and click **Munchkin** in the tree on the left.
 
 ![](assets/image2015-8-25-16-3a28-3a41.png)
 
-1.  Select the appropriate workspace for the web pages you wish to track.
+1. Select the appropriate workspace for the web pages you wish to track.
 
    ![](assets/image2015-8-25-16-3a30-3a32.png)
 
@@ -65,11 +65,11 @@ If you're using Workspaces in your Marketo account, you probably also have separ
 >
 >If you don't use the special workspace Munchkin code, the people will be assigned to the default partition that was created when your account was set up. It's named "Default" initially, but you might have changed that in your own Marketo account.
 
-1. Select Asynchronous for Tracking Code Type.
+1. Select **Asynchronous** for Tracking Code Type.
 
    ![](assets/image2015-8-25-16-3a32-3a42.png)
 
-1.  Click and copy the JavaScript tracking code to put on your website.
+1. Click and copy the JavaScript tracking code to put on your website.
 
    ![](assets/image2015-8-25-16-3a34-3a7.png)
 
@@ -77,7 +77,7 @@ If you're using Workspaces in your Marketo account, you probably also have separ
    >
    >Don’t use the code shown in this screenshot - you must use the unique code that appears in your account!
 
-1.  Place the tracking code on your web pages in the `<head>` element. New people that visit this page will be assigned to this partition.
+1. Place the tracking code on your web pages in the `<head>` element. New people that visit this page will be assigned to this partition.
 
    ![](assets/image2015-8-25-16-3a5-3a20.png)
 
@@ -91,7 +91,7 @@ If you're using Workspaces in your Marketo account, you probably also have separ
 
 ## Types of Munchkin Tracking Codes {#types-of-munchkin-tracking-codes}
 
-There are 3 types of Munchkin tracking codes you can choose from. Each impact the webpage load times differently.
+There are three types of Munchkin tracking codes you can choose from. Each impact the webpage load times differently.
 
 1. **Simple**: has the fewest lines of code, but does not optimize for webpage loading time. This code loads the jQuery library each time a webpage is loaded.
 1. **Asynchronous**: reduces webpage loading time.
@@ -102,6 +102,7 @@ There are 3 types of Munchkin tracking codes you can choose from. Each impact th
 To check that your Munchkin code is working after you've added it:
 
 1. Visit your web page.
+
 1. Go to **Analytics**.
 
    ![](assets/mainnav-analytics-hand.png)
@@ -117,4 +118,3 @@ To check that your Munchkin code is working after you've added it:
    ![](assets/activitysource.png)
 
 1. Click the **Report** tab. If you don't see any data, wait a few minutes, then click the refresh icon at the bottom.
-

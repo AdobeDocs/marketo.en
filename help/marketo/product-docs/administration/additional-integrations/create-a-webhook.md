@@ -8,13 +8,11 @@ title: Create a Webhook
 
 Use webhooks to take advantage of third-party web services to send text messages, expand person data, and more.
 
->[!NOTE]
->
->**Availability**
+>[!AVAILABILITY]
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
-1. Go to **Admin **and click **Webhooks**.
+1. Go to **Admin** and click **Webhooks**.
 
    ![](assets/image2014-9-24-14-3a52-3a57.png)
 
@@ -31,11 +29,11 @@ Use webhooks to take advantage of third-party web services to send text messages
    >This often includes entering your third-party service credentials as a URL parameter, or in the POST template.
 
     * **URL**: Enter the URL you use to POST your request to the web service. To insert a token, such as the person's email address (**`{{lead.Email Address}}`**), in your request, click **Insert Token**.
-    
+
     * **Template**: If you wish to transmit information in the body of the POST, enter the template. Use any data format that supports HTTP POST, including XML, JSON, or SOAP. To insert a token in your template, click **Insert Token**.
-    
+
     * **Request Token Encoding**: If the token values include special characters (such as an ampersand, '&'), indicate the format of your request (**JSON** or **Form/Url**).
-    
+
     * **Response type**: Select the format of the response you receive from the service (**JSON** or **XML**).
 
    Click Create.
@@ -44,7 +42,4 @@ Use webhooks to take advantage of third-party web services to send text messages
 
 >[!NOTE]
 >
->**Deep Dive**
->
 >Learn more in the [webhooks](http://developers.marketo.com/documentation/webhooks/) deep dive.
-

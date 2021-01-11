@@ -17,4 +17,3 @@ Stuff happens. Sometimes you need to download the activity log to troubleshoot i
    ![](assets/image2015-4-22-17-3a49-3a49.png)
 
 1. A .zip file will be downloaded to your computer.
-

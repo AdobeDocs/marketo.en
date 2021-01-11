@@ -10,17 +10,15 @@ If you want to integrate with Marketo via the ReST API, you'll want to create a 
 
 >[!PREREQUISITES]
 >
->* [Create an API Only User Role](../../../product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
->* [Create an API Only User](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)
+>* [Create an API Only User Role](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+>* [Create an API Only User](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 >
 
 >[!NOTE]
 >
 >**Admin Permissions Required**
 
->[!NOTE]
->
->**Deep Dive**
+>[!TIP]
 >
 >Check out our developers documentation for details on the [ReST API](http://developers.marketo.com/documentation/rest/). We also have the [SOAP API](http://developers.marketo.com/documentation/soap/) if that's what you need.
 
@@ -38,11 +36,9 @@ If you want to integrate with Marketo via the ReST API, you'll want to create a 
 
    ![](assets/image2014-9-19-10-3a38-3a22.png)
 
-1. Enter a **Display Name** for the service. Select the **API Only User** [previously created](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Enter a **Display Name** for the service. Select the **API Only User** [previously created](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    >[!NOTE]
-   >
-   >**Reminder**
    >
    >Notice that we already have native integration for popular webinar services.
 
@@ -68,11 +64,10 @@ If you want to integrate with Marketo via the ReST API, you'll want to create a 
 
    ![](assets/image2014-9-19-10-3a42-3a24.png)
 
-1. Provide the** Client Id**, **Client Secret**, **Authorized User**, and **Token** to the person in charge of establishing the connection.
+1. Provide the **Client Id**, **Client Secret**, **Authorized User**, and **Token** to the person in charge of establishing the connection.
 
    ![](assets/image2014-9-19-10-3a42-3a38.png)
 
 >[!CAUTION]
 >
 >Don't share this information; it's the backdoor to your data. Keep it safe!
-
