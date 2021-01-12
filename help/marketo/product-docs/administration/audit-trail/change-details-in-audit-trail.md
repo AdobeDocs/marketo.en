@@ -94,11 +94,11 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
   </tr> 
   <tr> 
    <td>Edit</td> 
-   <td>Updated "From Email" to "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a>"</td> 
+   <td>Updated "From Email" to "newemail@name.com"</td> 
   </tr> 
   <tr> 
    <td>Edit</td> 
-   <td>Updated "Reply To" to "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a>"</td> 
+   <td>Updated "Reply To" to "newreplytoemail@name.com"</td> 
   </tr> 
   <tr> 
    <td>Edit</td> 
@@ -794,6 +794,5 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
 
 >[!MORELIKETHIS]
 >
->* [Filtering in Audit Trail](filtering-in-audit-trail.md)
->
+>[Filtering in Audit Trail](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
 

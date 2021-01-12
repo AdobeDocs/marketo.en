@@ -6,9 +6,9 @@ title: Add Google AdWords as a Launchpoint Service with a Manager Account
 
 # Add Google AdWords as a Launchpoint Service with a Manager Account {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Link your Google AdWords account to Marketo to automatically upload offline conversion data from Marketo to Google AdWords. Then, from the AdWords UI, you will be able to easily see which clicks resulted in qualified leads, opportunities and new customers (or whatever revenue stages you want to track) after you  [add custom columns](https://support.google.com/adwords/answer/3073556) in AdWords. This information does not appear in the Marketo UI..
+Link your Google AdWords account to Marketo to automatically upload offline conversion data from Marketo to Google AdWords. Then, from the AdWords UI, you will be able to easily see which clicks resulted in qualified leads, opportunities and new customers (or whatever revenue stages you want to track) after you  [add custom columns](https://support.google.com/adwords/answer/3073556) in AdWords. This information does not appear in the Marketo UI.
 
-If you have multiple Google Adwords accounts, you can use a  [Google AdWords Manager Account](https://www.google.com/adwords/manager-accounts/) (formerly known as My Client Center) to integrate them with Marketo.
+If you have multiple Google Adwords accounts, you can use a [Google AdWords Manager Account](https://www.google.com/adwords/manager-accounts/) (formerly known as My Client Center) to integrate them with Marketo.
 
 Learn more about [Google’s offline conversion import feature](https://support.google.com/adwords/answer/2998031?hl=en).
 
@@ -18,7 +18,7 @@ Learn more about [Google’s offline conversion import feature](https://support.
 
 >[!NOTE]
 >
->You can also integrate a [stand-alone Google AdWords account as a Launchpoint service](add-google-adwords-as-a-launchpoint-service.md).
+>You can also integrate a [stand-alone Google AdWords account as a Launchpoint service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md).
 
 1. Go to the **Admin** section.
 
@@ -56,7 +56,7 @@ Learn more about [Google’s offline conversion import feature](https://support.
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Upload your offline conversions from Marketo to Google AdWords **Weekly **or **Daily**.
+1. Upload your offline conversions from Marketo to Google AdWords **Weekly** or **Daily**.
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
@@ -81,15 +81,8 @@ Learn more about [Google’s offline conversion import feature](https://support.
 
    ![](assets/image2015-3-27-14-3a12-3a51.png)
 
-   Yippee! Now see the Related Article below for how to map AdWords offline conversions in your revenue model.
+   Now see the Related Article below for how to map AdWords offline conversions in your revenue model.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Set Google AdWords Conversions in the Revenue Model with a Manager Account](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
-   >    
-   >
-
+   >[Set Google AdWords Conversions in the Revenue Model with a Manager Account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)

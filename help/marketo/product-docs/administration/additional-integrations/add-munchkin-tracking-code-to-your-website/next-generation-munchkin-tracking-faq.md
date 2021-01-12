@@ -36,10 +36,9 @@ If you are already using this filter in a Smart List (for example, in a Smart Ca
 
 >[!NOTE]
 >
->**Example**
->
 >**Trigger**: Visits Web Page, Web Page is Pricing Page  
->**Flow**: Change Score +10 and Interesting Moment, **Web**: Viewed Pricing Page
+>**Flow**: Change Score +10 and Interesting Moment
+>**Web**: Viewed Pricing Page
 >
 >With Munchkin V2, if an anonymous person visits the pricing page, she does not enter the campaign immediately. At the time the anonymous person becomes known, we'll run this campaign on her. She will:
 >
@@ -50,7 +49,6 @@ If you are already using this filter in a Smart List (for example, in a Smart Ca
 >* Have an Interesting Moment logged for her (with the date she actually visited the page, not when she became known)
 >
 >* Have a “New Person” activity logged, as it is today
->
 
 ## What happens to my Smart Lists that already have the “Is Anonymous” filter? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
 
@@ -85,4 +83,4 @@ Check out these links:
 
 ## I have more questions! How do I get them answered? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Please reach out on the [community](https://nation.marketo.com/welcome). You can also send an email to [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162) They'll be happy to answer your questions.
+Please reach out on the [community](https://nation.marketo.com/welcome). You can also contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). They'll be happy to answer your questions.

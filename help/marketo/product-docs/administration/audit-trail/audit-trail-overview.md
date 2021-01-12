@@ -26,7 +26,7 @@ Who is logging into our account?
 
 ## What We Audit {#what-we-audit}
 
-Marketo will audit the [create, edit and delete](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail) actions for:
+Marketo will audit the [create, edit and delete](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) actions for:
 
 * Design studio assets
 * All Marketo programs
@@ -39,27 +39,27 @@ Marketo will audit the [create, edit and delete](http://docs.marketo.com/display
 
 >[!NOTE]
 >
->Marketo is **not** auditing changes made within Web Personalization, Predictive Content, or Sales Insight at this time.
+>Marketo is _not_ auditing changes made within Web Personalization, Predictive Content, or Sales Insight at this time.
 
 ## Audit Trail Components {#audit-trail-components}
 
 Audit Trail consists of three components.
 
-**1) [Asset Audit Trail](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AssetAuditTrail)**
+**1) [Asset Audit Trail](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
 See activity done to specific assets.
 
-**2) [Admin Audit Trail](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AdminAuditTrail)**
+**2) [Admin Audit Trail](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
 
 Monitor user-based details.
 
-**3) [User Login History](http://docs.marketo.com/display/DOCS/User+Login+History)**
+**3) [User Login History](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
 See who's been logging into your subscription and when. Also includes failed login attempts.
 
 >[!TIP]
 >
->There's so much you can audit using Audit Trail, be sure to utilize [Filtering](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)!
+>There's so much you can audit using Audit Trail, be sure to utilize [Filtering](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
 
 ## Exporting Data {#exporting-data}
 
@@ -75,6 +75,4 @@ You can only view 30 days' worth of data in your instance. To obtain (up to) six
 
 >[!MORELIKETHIS]
 >
->* [Enable Audit Trail](enable-audit-trail.md)
->
-
+>[Enable Audit Trail](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)

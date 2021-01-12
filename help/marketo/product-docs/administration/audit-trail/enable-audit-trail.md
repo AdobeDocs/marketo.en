@@ -38,17 +38,15 @@ Audit Trail is available to all customers and controlled by two admin permission
    >
    >**Definition**
    >
-   >
    >**Access Audit Trail:** Gives users access to both Asset Audit Trail and Admin Audit Trail.
    >
-   >
-   >**Access Login History:** Gives users access to [User Login History](user-login-history.md).
+   >**Access Login History:** Gives users access to [User Login History](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
 
 ## Assign Audit Trail Role to a User {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
->[Create](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) or [enable](#Enable) an existing role, giving it Audit Trail permissions.
+>[Create](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) or [enable](#enable-audit-trail) an existing role, giving it Audit Trail permissions.
 
 1. In **Users & Roles**, click **Users**.
 
@@ -68,9 +66,8 @@ Audit Trail is available to all customers and controlled by two admin permission
 
    >[!CAUTION]
    >
-   >If you have workspaces enabled, make sure to check the role's checkbox, which selects all workspaces. Deselecting an individual workspace will hide Audit Trail. This means you will see Audit Trail data for every workspace. You do have the option of hiding workspaces when [filtering](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail).
+   >If you have workspaces enabled, make sure to check the role's checkbox, which selects all workspaces. Deselecting an individual workspace will hide Audit Trail. This means you will see Audit Trail data for every workspace. You do have the option of hiding workspaces when [filtering](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
 1. Click **Save**.
 
    ![](assets/eight-1.png)
-

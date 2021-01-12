@@ -14,23 +14,21 @@ Marketo manages your ReadyTalk webinar registration and attendance.
 
 >[!NOTE]
 >
->**Reminder**
->
 >An existing subscription to ReadyTalk and administration rights are necessary for this step. Have the following settings at hand: Access Number, Access Code, and Passcode.
 
 1. Go to **Admin** and click **ReadyTalk**.
 
    ![](assets/image2015-4-23-10-3a50-3a23.png)
 
-1. Select **New** and then **New** **Service**.
+1. Select **New** and then **New Service**.
 
    ![](assets/readytalk-new-service.png)
 
-1. Enter a **Display** **Name**. Under **Service**, select** ReadyTalk**.
+1. Enter a **Display Name**. Under **Service**, select **ReadyTalk**.
 
    ![](assets/new-service-readytalk.png)
 
-1. Enter your **Access Number** and **Access** **Code**.
+1. Enter your **Access Number** and **Access Code**.
 
    ![](assets/image2015-4-24-18-3a53-3a2.png)
 
@@ -38,11 +36,10 @@ Marketo manages your ReadyTalk webinar registration and attendance.
 
    ![](assets/image2015-4-24-18-3a53-3a38.png)
 
-1. Phenomenal! Your **ReadyTalk** account is now synced with Marketo.
+Your **ReadyTalk** account is now synced with Marketo.
 
    ![](assets/readytalk.png)
 
 >[!MORELIKETHIS]
 >
->Learn how to [create an event with ReadyTalk](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
-
+>Learn how to [create an event with ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).

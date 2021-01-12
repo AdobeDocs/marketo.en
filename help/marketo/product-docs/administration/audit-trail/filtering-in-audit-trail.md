@@ -22,7 +22,7 @@ Filter by time frame, asset type, users, action taken, and more.
 
    >[!NOTE]
    >
-   >There are a multitude of possible search parameter combinations. In this example we locate: *all emails - edited by anyone - in the previous seven days*.
+   >There are a multitude of possible search parameter combinations. In this example we locate: _all emails - edited by anyone - in the previous seven days_.
 
 1. Click the **Period** drop-down and select **Last 7 Days**.
 
@@ -50,13 +50,6 @@ Filter by time frame, asset type, users, action taken, and more.
    >
    >If you have workspaces enabled, you will see audit data for all workspaces. If you apply a workspace filter, Marketo remembers the previous workspace value each time you use audit trail. Workspace permissions at the asset level are enforced.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Change Details in Audit Trail](change-details-in-audit-trail.md)
-   >    
-   >
-
+   >[Change Details in Audit Trail](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
