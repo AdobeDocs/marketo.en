@@ -44,6 +44,4 @@ Follow these steps to create a new custom activity.
 
 >[!MORELIKETHIS]
 >
->* [Understanding Custom Activities](understanding-custom-activities.md)
->
-
+>[Understanding Custom Activities](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)

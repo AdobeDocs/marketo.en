@@ -14,7 +14,7 @@ title: Rename a Field
 >
 >**Admin Permissions Required**
 
-1. Go to Admin and click Field Management.
+1. Go to Admin and click **Field Management**.
 
    ![](assets/image2014-9-24-14-3a2-3a25.png)
 
@@ -26,7 +26,7 @@ title: Rename a Field
 
    ![](assets/changefieldname.png)
 
-1. Rename the field and click Save.
+1. Rename the field and click **Save**.
 
    ![](assets/image2014-9-24-14-2-55.png)
 
@@ -35,4 +35,3 @@ Nice job! You now know how to rename fields in Marketo.
 >[!CAUTION]
 >
 >If you rename the API name in Salesforce, Marketo will create a brand new field and leave the old one behind!
-

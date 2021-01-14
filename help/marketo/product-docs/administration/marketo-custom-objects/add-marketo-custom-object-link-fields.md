@@ -43,7 +43,6 @@ Here's how to create a link field in a custom object for a one-to-many structure
    >
    >If you choose lead, you'll see Id, email Address, and any custom fields in the list.
    >
-   >
    >If you choose company, you'll see Id and any custom fields in the list.
 
 1. Select the link field you want to connect to as the parent of the new field.
@@ -74,7 +73,7 @@ Here's how to create a link field in an intermediary object for use in a many-to
 
    ![](assets/image2016-1-18-9-3a10-3a29.png)
 
-1. In the **Fields **tab, click **New Field**.
+1. In the **Fields** tab, click **New Field**.
 
    ![](assets/image2016-1-18-9-3a31-3a43.png)
 
@@ -114,13 +113,9 @@ Here's how to create a link field in an intermediary object for use in a many-to
 
    ![](assets/image2016-1-14-15-3a57-3a59.png)
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Add Marketo Custom Object Fields](add-marketo-custom-object-fields.md)
->* [Edit and Delete a Marketo Custom Object](edit-and-delete-a-marketo-custom-object.md)
->* [Understanding Marketo Custom Objects](understanding-marketo-custom-objects.md)
->* [Edit and Delete Marketo Custom Object Fields](edit-and-delete-marketo-custom-object-fields.md)
->
-
+>* [Add Marketo Custom Object Fields](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Edit and Delete a Marketo Custom Object](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Understanding Marketo Custom Objects](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [Edit and Delete Marketo Custom Object Fields](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)

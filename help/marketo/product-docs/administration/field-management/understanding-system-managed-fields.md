@@ -6,7 +6,7 @@ title: Understanding System Managed Fields
 
 # Understanding System Managed Fields {#understanding-system-managed-fields}
 
-You might have noticed that the [person detail page](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) has a series of non-editable fields created by Marketo. This data comes from various sources, and there are countless values that could display.
+You might have noticed that the [person detail page](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) has a series of non-editable fields created by Marketo. This data comes from various sources, and there are countless values that could display.
 
 ## Field Types {#field-types}
 
@@ -60,4 +60,3 @@ Below are some possible values and what they mean.
 | Munchkin API |Became a person through Marketo's Munchkin API |
 | Social App |Became a person through a social widget |
 | Event Partner |Became a person through a linked webinar service |
-

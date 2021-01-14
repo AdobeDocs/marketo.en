@@ -35,4 +35,3 @@ As an Admin, you have the ability to export related assets of a field so you can
    >[!TIP]
    >
    >Each related asset is a link that can be clicked on and will open in Marketo.
-

@@ -28,7 +28,7 @@ You may need to add, change, or even get rid of a custom activity field. Here's 
 
    >[!TIP]
    >
-   >Not sure what to select? We've got you covered! All of the available data types are defined in [this article](../../../product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Not sure what to select? We've got you covered! All of the available data types are defined in [this article](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
 1. Name the field. The Api Name auto-populates. When you're done, click **Save**.
 
@@ -70,7 +70,7 @@ You may need to add, change, or even get rid of a custom activity field. Here's 
    >
    >If you want to change which field is Primary, you must first deselect the existing one.
 
-Your field is now edited! 
+Your field is now edited!
 
 ## Delete a Custom Activity Field {#delete-a-custom-activity-field}
 
@@ -87,4 +87,3 @@ Your field is now edited!
    ![](assets/thirteen.png)
 
    It's just that easy!
-

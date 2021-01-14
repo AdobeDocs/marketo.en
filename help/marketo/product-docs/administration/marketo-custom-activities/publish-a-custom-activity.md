@@ -33,4 +33,3 @@ You have your custom activity exactly as you want it. Now, it's time to publish 
    ![](assets/six-2.png)
 
    Nicely done!
-

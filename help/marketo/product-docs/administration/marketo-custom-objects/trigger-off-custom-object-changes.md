@@ -14,13 +14,13 @@ title: Trigger Off Custom Object Changes
 >* For use only with Marketo custom objects, not custom objects synced through the native Salesforce or Microsoft Dynamics integration
 >* As a trigger, not a filter
 >
->Please contact [Marketo Support](http://support.marketo.com) to have Custom Object Change Triggers enabled.
+>Please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) to have Custom Object Change Triggers enabled.
 
-In a smart campaign's smart list, you can trigger a flow action when a custom object is added to a person or company. You can also create a smart list that uses a *change* in a custom object as a trigger. For example, use it to send an email when a course name is updated. 
+In a smart campaign's smart list, you can trigger a flow action when a custom object is added to a person or company. You can also create a smart list that uses a *change* in a custom object as a trigger. For example, use it to send an email when a course name is updated.
 
 >[!NOTE]
 >
->An activity log entry is not created when a custom object record is changed. 
+>An activity log entry is not created when a custom object record is changed.
 
 1. In Marketo, go to **Marketing Activities.**
 
@@ -48,12 +48,5 @@ In a smart campaign's smart list, you can trigger a flow action when a custom ob
 
    >[!NOTE]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Create a Smart List](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-   >    * [Understanding Marketo Custom Objects](understanding-marketo-custom-objects.md)
-   >    
-   >
-
+   >* [Create a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+   >* [Understanding Marketo Custom Objects](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)

@@ -6,7 +6,7 @@ title: Import Custom Object Data
 
 # Import Custom Object Data {#import-custom-object-data}
 
-It's easy to import custom object data into your database. If you're using custom objects with companies, see [Using Custom Objects with Companies](http://docs.marketo.com/display/DOCS/Understanding+Marketo+Custom+Objects#UnderstandingMarketoCustomObjects-customcompanyUsingCustomObjectswithCompanies) for more information.
+It's easy to import custom object data into your database. If you're using custom objects with companies, see [Using Custom Objects with Companies](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) for more information.
 
 1. In My Marketo, go to **Database**.
 
@@ -64,6 +64,4 @@ It's easy to import custom object data into your database. If you're using custo
 
 >[!MORELIKETHIS]
 >
->* [Understanding Marketo Custom Objects](understanding-marketo-custom-objects.md)
->
-
+>[Understanding Marketo Custom Objects](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
