@@ -6,7 +6,7 @@ title: Approve a Custom Object
 
 # Approve a Custom Object {#approve-a-custom-object}
 
-You must approve a custom object before you can use it. The process is slightly different for new custom objects and ones that you've edited. 
+You must approve a custom object before you can use it. The process is slightly different for new custom objects and ones that you've edited.
 
 ## Approve a New Custom Object {#approve-a-new-custom-object}
 
@@ -26,18 +26,15 @@ You've created a brand new custom object. Here's how to approve it.
 
    >[!NOTE]
    >
-   >A custom object used in a *one-to-many structure* must have at least one dedupe field, a link field, a linked object name, and a linked field name to be approved.
+   >A custom object used in a _one-to-many structure_ must have at least one dedupe field, a link field, a linked object name, and a linked field name to be approved.
    >
+   >A custom object used in a _many-to-many structure_ **doesn't** need a link field, linked object name, or a linked field name when you approve it (because they live in the intermediary object).
    >
-   >A custom object used in a *many-to-many structure* **doesn't** need a link field, linked object name, or a linked field name when you approve it (because they live in the intermediary object).
+   >A custom object used as an _intermediary object_ requires a link field, linked object name, and linked field name but **doesn't** require a dedupe field.
    >
-   >
-   >A custom object used as an *intermediary object* requires a link field, linked object name, and linked field name but **doesn't** require a dedupe field.
-   >
-   >
-   >See [Understanding Marketo Custom Objects](understanding-marketo-custom-objects.md) for more information.
+   >See [Understanding Marketo Custom Objects](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) for more information.
 
-That's it! Now, you can select your custom object in the constraints of your filters and triggers to use in your campaigns. 
+That's it! Now, you can select your custom object in the constraints of your filters and triggers to use in your campaigns.
 
 ## Approve an Edited Custom Object {#approve-an-edited-custom-object}
 
@@ -54,4 +51,3 @@ After you edit an approved custom object, you must approve the draft to return t
 1. A preview displays the items that were changed in the draft. Click **Approve**.
 
    ![](assets/six-1.png)
-

@@ -37,4 +37,3 @@ Need to make changes to a custom activity you've already created? Here's how.
    >[!NOTE]
    >
    >If your activity was a draft at the time of editing, it remains a draft. If it was published, the status changes to Published with Draft.
-

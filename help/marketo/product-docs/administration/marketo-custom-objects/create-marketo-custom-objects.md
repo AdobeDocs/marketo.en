@@ -10,7 +10,7 @@ Use custom objects in Marketo to track metrics specific to your business. This c
 
 >[!NOTE]
 >
->You can set up custom objects to work on a one-to-many or many-to-many basis. You create the initial object the same way, but the steps are different when you start adding fields to the object. See  [Understanding Marketo Custom Objects](understanding-marketo-custom-objects.md) for more information.
+>You can set up custom objects to work on a one-to-many or many-to-many basis. You create the initial object the same way, but the steps are different when you start adding fields to the object. See  [Understanding Marketo Custom Objects](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) for more information.
 
 >[!NOTE]
 >
@@ -22,9 +22,7 @@ This example shows a Car custom object, for use in a one-to-many structure. Late
 
 1. Click **Admin**, and in **Database Management** select **Marketo Custom Objects**.
 
-   ** ![](assets/image2016-1-18-13-3a12-3a19.png)
-
-   **
+   ![](assets/image2016-1-18-13-3a12-3a19.png)
 
 1. Click **New Custom Object**.
 
@@ -42,7 +40,7 @@ This example shows a Car custom object, for use in a one-to-many structure. Late
    >
    >You can edit these fields when you're creating them, but after they're saved, you can only edit the Plural Name field and the **Show in Lead Detail** slider.
 
-1. Pull the **Show in Lead Detail **slider over to display **Show** if you want to view custom object data on the Lead Database page. Click **Save**.
+1. Pull the **Show in Lead Detail** slider over to display **Show** if you want to view custom object data on the Lead Database page. Click **Save**.
 
    ![](assets/image2015-9-15-16-3a32-3a2.png)
 
@@ -50,11 +48,11 @@ This example shows a Car custom object, for use in a one-to-many structure. Late
 
    ![](assets/image2015-9-15-16-3a38-3a22.png)
 
-   The next step is to add fields to [build out your custom object](add-marketo-custom-object-fields.md).
+   The next step is to add fields to [build out your custom object](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
    >[!NOTE]
    >
-   >You can only populate Marketo Custom Objects via a list import, or the [API](http://developers.marketo.com/documentation/rest/).
+   >You can only populate Marketo Custom Objects via a list import, or the [API](https://developers.marketo.com/documentation/rest/).
 
 ## Create a Custom Object for a Many-to-Many Structure {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -80,7 +78,7 @@ This example shows a course custom object, which you'll use for creating a many-
    >
    >You can edit these fields when you're creating them, but after they're saved, you can only edit the Plural Name field and the **Show in Lead Detail** slider.
 
-1. Pull the **Show in Lead Detail **slider over to display Show if you want to view custom object data on the Lead Database page. Click **Save**.
+1. Pull the **Show in Lead Detail** slider over to display **Show** if you want to view custom object data on the Lead Database page. Click **Save**.
 
    ![](assets/image2016-1-14-13-3a42-3a56.png)
 
@@ -90,7 +88,7 @@ This example shows a course custom object, which you'll use for creating a many-
 
    >[!NOTE]
    >
-   >You can only populate Marketo Custom Objects via a list import, or the [API](http://developers.marketo.com/documentation/rest/).
+   >You can only populate Marketo Custom Objects via a list import, or the [API](https://developers.marketo.com/documentation/rest/).
 
 The next step is for you create your intermediary object (see below). But before that, you need to create a field to link to with it.
 
@@ -118,18 +116,16 @@ Use an intermediary object to connect a custom object to people or companies. In
    >
    >You can edit these fields when you're creating them, but after they're saved, you can only edit the Plural Name field and the Show in Lead Detail slider.
 
-1. Pull the **Show in Lead Detail** slider over to display Show if you want to view custom object data on the Lead Database page. Click **Save**.
+1. Pull the **Show in Lead Detail** slider over to display **Show** if you want to view custom object data on the Lead Database page. Click **Save**.
 
    ![](assets/image2016-1-14-14-3a12-3a49.png)
 
 1. The custom object information displays the content you entered. Notice that it's in a Draft state.
 
-   The next step is for you to [add link fields](add-marketo-custom-object-link-fields.md) to connect your intermediary object to a person/company and a custom object.
+   The next step is for you to [add link fields](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) to connect your intermediary object to a person/company and a custom object.
 
 >[!MORELIKETHIS]
 >
->* [Add Marketo Custom Object Fields](add-marketo-custom-object-fields.md)
->* [Add Marketo Custom Object Link Fields](add-marketo-custom-object-link-fields.md)
->* [Understanding Marketo Custom Objects](understanding-marketo-custom-objects.md)
->
-
+>* [Add Marketo Custom Object Fields](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Add Marketo Custom Object Link Fields](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [Understanding Marketo Custom Objects](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)

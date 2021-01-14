@@ -8,9 +8,7 @@ title: Understanding Marketo Custom Objects
 
 Use custom objects to track metrics specific to your business.
 
->[!NOTE]
->
->**Availability**
+>[!AVAILABILITY]
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
@@ -21,8 +19,8 @@ Use custom objects as filters and triggers in your smart campaigns. For example:
 
 You can set up custom objects in a one-to-many or a many-to-many relationship. For example:
 
-* **One-to-many**: One person owns several cars 
-* **Many-to-many**: Multiple students are enrolled in multiple courses from a course catalog 
+* **One-to-many**: One person owns several cars
+* **Many-to-many**: Multiple students are enrolled in multiple courses from a course catalog
 
 A one-to-many structure uses a single link field to connect the custom object to a person or a company.
 
@@ -30,7 +28,7 @@ Many-to-many custom objects use two link fields, part of an intermediary object.
 
 >[!TIP]
 >
->Import custom objects using comma separated values (CSV) within the user interface to test and validate a data sample. Then, upload all of your files with an API. 
+>Import custom objects using comma separated values (CSV) within the user interface to test and validate a data sample. Then, upload all of your files with an API.
 
 >[!CAUTION]
 >
@@ -38,7 +36,7 @@ Many-to-many custom objects use two link fields, part of an intermediary object.
 
 ## Accessing Marketo Custom Objects {#accessing-marketo-custom-objects}
 
-1. To create or edit Marketo custom objects, click **Admin **and then the **Marketo Custom Object**s link.
+1. To create or edit Marketo custom objects, click **Admin** and then the **Marketo Custom Objects** link.
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
@@ -84,15 +82,13 @@ After you've created the custom object structure, when you upload the specific c
 
    Custom Objects can only directly link to a single record. This means that when your custom object type is linked by company field, you should ensure that your person records are associated to a company either using contact conversion in your CRM, or using the externalCompanyId field, if you manage companies using Marketo’s REST APIs. For person records that aren't linked explicitly to company records, custom objects linked using company will be randomly linked to a single record, even if the value of the company field is shared across many people.
 
-   See [Import Custom Object Data](import-custom-object-data.md) for more information.
+   See [Import Custom Object Data](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) for more information.
 
 >[!MORELIKETHIS]
 >
->* [Create Marketo Custom Objects](create-marketo-custom-objects.md)
->* [Approve a Custom Object](approve-a-custom-object.md)
->* [Edit and Delete a Marketo Custom Object](edit-and-delete-a-marketo-custom-object.md)
->* [Add Marketo Custom Object Fields](add-marketo-custom-object-fields.md)
->* [Edit and Delete Marketo Custom Object Fields](edit-and-delete-marketo-custom-object-fields.md)
->* [Import Custom Object Data](import-custom-object-data.md)
->
-
+>* [Create Marketo Custom Objects](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
+>* [Approve a Custom Object](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
+>* [Edit and Delete a Marketo Custom Object](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Add Marketo Custom Object Fields](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Edit and Delete Marketo Custom Object Fields](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Import Custom Object Data](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)

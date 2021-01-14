@@ -10,12 +10,11 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 >[!PREREQUISITES]
 >
->* [Create a Custom Field in Marketo](create-a-custom-field-in-marketo.md)
->
+>[Create a Custom Field in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
->Depending on field type, filter/trigger [operators](https://docs.marketo.com/display/public/DOCS/Smart+List+Filter+Operators+Glossary) will be different.
+>Depending on field type, filter/trigger [operators](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) will be different.
 
 >[!NOTE]
 >
@@ -57,7 +56,7 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 **Example Name:** Alternate Email - Keep an alternate email address for your people (cannot actually send emails to this field like the default email address field, that one is special)
 
-**Example Values:** [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#335d525e5673505c5e43525d4a1d505c5e)
+**Example Values:** name@company.com
 
 **Operators**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
 
@@ -71,7 +70,7 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 ## Formula {#formula}
 
-**Example Name:** Salutations - use this special field in a [solution to get the right salutation](create-and-use-a-concatenated-string-formula-field.md) based on gender
+**Example Name:** Salutations - use this special field in a [solution to get the right salutation](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) based on gender
 
 **Example Values:** check the linked solution
 

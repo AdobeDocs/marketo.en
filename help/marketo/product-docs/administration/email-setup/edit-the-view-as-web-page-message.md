@@ -6,7 +6,7 @@ title: Edit the "View as Web Page" Message
 
 # Edit the "View as Web Page" Message {#edit-the-view-as-web-page-message}
 
-If you need to edit the " [View as a Webpage](../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)" text, here's how.
+If you need to edit the "[View as a Webpage](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)" text, here's how.
 
 >[!NOTE]
 >
@@ -14,7 +14,7 @@ If you need to edit the " [View as a Webpage](../../../product-docs/email-market
 
 ## Edit the "View as Web Page" Message {#edit-the-view-as-web-page-message-1}
 
-1. Under **Admin**, click **Email**. 
+1. Under **Admin**, click **Email**.
 
    ![](assets/image2014-9-18-17-3a13-3a2.png)
 
@@ -22,14 +22,11 @@ If you need to edit the " [View as a Webpage](../../../product-docs/email-market
    >
    >The following variables are critical. Don't delete them!
    >
-   >    
-   >    
-   >    * %mkt_webview_url%?mkt_tok=##MKT_TOK##
-   >    
-   >    
-   >The second part ##MKT_TOK## is the munchkin cookie of that person. It makes sure they get cookied appropriately when they click the link.
+   >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
+   >
+   >The second part `##MKT_TOK##` is the munchkin cookie of that person. It makes sure they get cookied appropriately when they click the link.
 
-1. Edit the **View as Web Page HTML** and **View as Web Page Text **versions to your liking and click **Save Changes**.
+1. Edit the **View as Web Page HTML** and **View as Web Page Text** versions to your liking and click **Save Changes**.
 
    ![](assets/image2016-8-26-14-3a40-3a29.png)
 
@@ -39,7 +36,6 @@ If you need to edit the " [View as a Webpage](../../../product-docs/email-market
 >
 >* Adding additional URLs to either of the HTML boxes
 >* Putting HTML in the text version
->
 
 There you have it. Send out test emails to ensure formatting.
 
@@ -48,7 +44,10 @@ There you have it. Send out test emails to ensure formatting.
 If you ever need to revert to default system "View as Web Page", copy/paste the following:
 
 **View as Web Page HTML:**
-`<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>` **View as Web Page Text:**
+
+`<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>`
+
+**View as Web Page Text:**
 
 To view this email as a web page, go to the following address:
 `<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>` Boom! You're done.

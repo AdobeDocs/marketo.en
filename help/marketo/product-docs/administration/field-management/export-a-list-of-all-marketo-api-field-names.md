@@ -27,4 +27,3 @@ Nice! You now have a spreadsheet with a list of all your fields and their API Na
 >[!NOTE]
 >
 >The character limit for MLM API Names is 255.
-

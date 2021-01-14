@@ -42,14 +42,10 @@ When you don't need a field in a custom object anymore, you can delete it.
 
    ![](assets/image2015-10-2-11-3a14-3a5.png)
 
-1. It's gone!
+   It's gone!
 
    ![](assets/image2015-10-2-11-3a15-3a48.png)
 
    >[!NOTE]
    >
-   >**Related Articles**
-   >
-   >
-   >[Add Marketo Custom Object Fields](add-marketo-custom-object-fields.md)
-
+   >[Add Marketo Custom Object Fields](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)

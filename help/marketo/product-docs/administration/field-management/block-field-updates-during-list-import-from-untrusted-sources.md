@@ -30,14 +30,14 @@ You can trust the data in some lists more than others. Sometimes you have questi
 >
 >You can keep fields safe from all lists, trusted and untrusted, by also checking **List Import trusted source**.
 
-Repeat the above steps for any other fields you want to keep safe from untrusted lists. 
+Repeat the above steps for any other fields you want to keep safe from untrusted lists.
 
 ## Running an Untrusted List Import {#running-an-untrusted-list-import}
 
-1. When running your list import, be sure to select **Untrusted **if you want all fields you set up in the previous step to be safe.
+1. When running your list import, be sure to select **Untrusted** if you want all fields you set up in the previous step to be safe.
 
    ![](assets/importpersondetails.jpg)
 
-For detailed instructions on importing lists, see [Import a List of People](../../../getting-started/quick-wins/import-a-list-of-people.md).
+For detailed instructions on importing lists, see [Import a List of People](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
 Nice work! Now you know how to keep key fields safe from untrusted lists.

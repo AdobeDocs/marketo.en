@@ -23,4 +23,3 @@ You can overwrite the primary branded domain on a per email basis. This will cha
    >[!NOTE]
    >
    >Not all users have permissions to set the branded domain on a per-email basis. Contact your admin if you don't see the Branded Domains drop-down.
-

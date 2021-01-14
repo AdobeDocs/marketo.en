@@ -15,11 +15,12 @@ It's very important to not over-communicate with your people. Setting communicat
 1. Under **Admin**, click **Communication Limits**.
 
    ![](assets/image2014-9-18-15-3a53-3a37.png)
-   Click Edit.
+
+1. Click **Edit**.
+
    ![](assets/image2014-9-18-15-3a53-3a47.png)
 
    >[!NOTE]
-   >
    >
    >Per Day is based on the calendar day in the subscription time zone (midnight-midnight).
 
@@ -41,7 +42,7 @@ It's very important to not over-communicate with your people. Setting communicat
 
    >[!NOTE]
    >
-   >Learn more about what [operational emails](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational) are.
+   >Learn more about what [operational emails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) are.
 
 1. Click **Save**.
 
@@ -51,15 +52,12 @@ It's very important to not over-communicate with your people. Setting communicat
    >
    >**Example**
    >
-   >
    >The above settings mean that people won't receive more than **1 email per day** or more than **5 in any seven-day period**.
 
    >[!NOTE]
-   >
    >
    >Communication limits automatically apply to all email and engagement programs.
 
 >[!MORELIKETHIS]
 >
->[Apply Communication Limits to Smart Campaign](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
-
+>[Apply Communication Limits to Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)

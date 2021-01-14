@@ -34,7 +34,7 @@ Use the Custom Object Actions menu to edit or delete a custom object.
 
    ![](assets/image2015-9-15-16-3a48-3a39.png)
 
-1. Be sure to approve [the edited object](approve-a-custom-object.md).
+1. Be sure to approve [the edited object](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
 
 ## Delete a Custom Object {#delete-a-custom-object}
 
@@ -74,5 +74,4 @@ It's easy to delete a custom object, but you need to be careful. Custom objects 
 
 >[!MORELIKETHIS]
 >
->[Approve a Custom Object](approve-a-custom-object.md)
-
+>[Approve a Custom Object](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)

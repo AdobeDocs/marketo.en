@@ -20,14 +20,14 @@ Custom activities help you track an activity that isn't related to a Marketo for
 >
 >Custom activities differ from custom objects. Use custom objects when the value can change (i.e. "car color" changes from blue to red). Use custom activities when tracking moments that occurred, and their details cannot change (i.e. "purchased car").
 
-**Fields** You may add [additional fields](https://docs.marketo.com/x/Mx6a) that you wish to associate with your activity. Like the primary field, they can be used as filtering criteria in a smart list.
+**Fields** You may add [additional fields](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) that you wish to associate with your activity. Like the primary field, they can be used as filtering criteria in a smart list.
 
 **Getting Started**
 
 Custom activities function just like standard activities. Setting them up however is a two-part process.
 
-Step 1: [Create a custom activity](create-a-custom-activity.md) in your Marketo account
+Step 1: [Create a custom activity](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) in your Marketo account
 
-Step 2: The employee in your organization who works with our API can then begin the implementation. More information can be found here: [Custom Activity API](http://developers.marketo.com/documentation/rest/add-custom-activities/)
+Step 2: The employee in your organization who works with our API can then begin the implementation. More information can be found here: [Custom Activity API](https://developers.marketo.com/documentation/rest/add-custom-activities/)
 
 Have fun!

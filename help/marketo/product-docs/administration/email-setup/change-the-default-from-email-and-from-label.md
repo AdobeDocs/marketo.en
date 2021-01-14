@@ -28,4 +28,4 @@ Each Admin user has the ability to change the default values for **From Email** 
 >
 >The change is only applicable to you and not to other Marketo users.
 
-Good job! Every time you create a new email the default values you set will be used. 
+Good job! Every time you create a new email the default values you set will be used.
