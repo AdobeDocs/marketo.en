@@ -8,7 +8,7 @@ title: Understanding Privacy Settings
 
 ## Overview {#overview}
 
-Marketo provides marketers with a way to get web visitors' consent to track them. There are two ways to opt out, or you can choose to be tracked by anonymized IP.   
+Marketo provides marketers with a way to get web visitors' consent to track them. There are two ways to opt out, or you can choose to be tracked by anonymized IP.
 
 * Web visitors select the Do Not Track (DNT) feature in their browser (and the marketer honors the web visitor's request for Do Not Track)
 * Web visitors use an opt out cookie provided by a marketer on a website
@@ -21,7 +21,7 @@ These methods might affect Marketo’s value and functionality in specific areas
 
 Web visitors can set their browser to prevent tracking by any website by choosing "Do Not Track" (DNT). This prevents tracking for this particular browser and device. See the browser's privacy settings for complete details.
 
-In Munchkin, a marketer can [decide whether to support or ignore the browser's DNT setting](edit-do-not-track-browser-support-settings.md).
+In Munchkin, a marketer can [decide whether to support or ignore the browser's DNT setting](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
 
 In Web Personalization, a marketer can decide whether to [support or ignore the browser's DNT setting](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).
 
@@ -69,5 +69,4 @@ Marketers can preserve privacy by tracking users with an anonymized IP address. 
 
 * For Web Personalization (RTP), add this to the javascript:
 
-anonymize IP : before calling rtp('send','view'); add rtp('set', 'settings', {'anonymizeIP' : true});
-
+`anonymize IP : before calling rtp('send','view'); add rtp('set', 'settings', {'anonymizeIP' : true});`

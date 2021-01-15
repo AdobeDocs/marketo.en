@@ -44,5 +44,4 @@ No-Draft is automatically enabled for all Administrator roles. An admin can then
 
 >[!MORELIKETHIS]
 >
->[Approve a Snippet with No-Draft](../../../../product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
-
+>[Approve a Snippet with No-Draft](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)

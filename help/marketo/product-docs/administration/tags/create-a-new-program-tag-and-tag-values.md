@@ -10,7 +10,7 @@ title: Create a New Program Tag and Tag Values
 >
 >**Admin Permissions Required**
 
-You can create custom  [tags](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) for your programs and assign values to the tag.
+You can create custom [tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) for your programs and assign values to the tag.
 
 >[!NOTE]
 >
@@ -20,7 +20,7 @@ You can create custom  [tags](../../../product-docs/core-marketo-concepts/progra
 >
 >Program Tag Value: SMB, Enterprise, Mid-Market
 
-1. Under **Admin**, click **Tags**. 
+1. Under **Admin**, click **Tags**.
 
    ![](assets/image2014-9-24-12-3a10-3a32.png)
 
@@ -50,4 +50,4 @@ You can create custom  [tags](../../../product-docs/core-marketo-concepts/progra
 
    ![](assets/image2014-9-24-12-3a19-3a17.png)
 
-Now when your users create a program, they will have to set the custom value for the tag created. 
+Now when your users create a program, they will have to set the custom value for the tag created.

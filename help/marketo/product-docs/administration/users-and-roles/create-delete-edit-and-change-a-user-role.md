@@ -14,11 +14,11 @@ title: Create, Delete, Edit and Change a User Role
 
 ## Create a Role {#create-a-role}
 
-1. Go to **Admin **and click **Users & Roles**.
+1. Go to **Admin** and click **Users & Roles**.
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. Go to the** Roles tab** and click **New Role**.
+1. Go to the **Roles tab** and click **New Role**.
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
@@ -28,11 +28,11 @@ title: Create, Delete, Edit and Change a User Role
 
 ## Delete a Role {#delete-a-role}
 
-1. Under Admin,** **click **Users & Roles**.
+1. Under **Admin**, click **Users & Roles**.
 
    ![](assets/image2014-9-16-13-3a31-3a42.png)
 
-1. Under the **Roles **tab, select a role and click **Delete Role**.
+1. Under the **Roles** tab, select a role and click **Delete Role**.
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
@@ -54,11 +54,11 @@ title: Create, Delete, Edit and Change a User Role
 
    ![](assets/image2014-9-16-13-3a34-3a2.png)
 
-1. Click the **Roles **tab.
+1. Click the **Roles** tab.
 
    ![](assets/image2014-9-16-13-3a34-3a22.png)
 
-1. Select the role you want to edit and click** Edit Role**.
+1. Select the role you want to edit and click **Edit Role**.
 
    ![](assets/image2014-9-16-13-3a34-3a37.png)
 
@@ -72,7 +72,7 @@ title: Create, Delete, Edit and Change a User Role
 
    >[!TIP]
    >
-   >Are you looking to update the account email address? [Learn how here](http://docs.marketo.com/x/3wFI).
+   >Are you looking to update the account email address? [Learn how here](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Change a User's Role {#change-a-users-role}
 
@@ -91,5 +91,3 @@ title: Create, Delete, Edit and Change a User Role
 >[!NOTE]
 >
 >If you leave multiple roles selected, Marketo will default to the most restrictive permission.
-
-Awesome, now you are really are on a roll!  (Get it?) 

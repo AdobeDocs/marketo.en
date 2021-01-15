@@ -24,26 +24,20 @@ You can restrict or enable users from accessing Marketo based on their IP addres
 
    ![](assets/image2014-9-16-12-3a58-3a13.png)
 
-1. Choose whether you want to **Allow **or **Block** specific addresses, enter the address(es), then click **Save**.
+1. Choose whether you want to **Allow** or **Block** specific addresses, enter the address(es), then click **Save**.
 
    >[!NOTE]
    >
    >**Definition**
    >
-   >    
-   >    
-   >    * **Allowed IP addresses**: Adding allowed IP addresses is inclusionary. It will include all of the IP addresses specified and exclude everything else.
-   >    * **Block IP addresses**: Prevents specific IPs from accessing Marketo.
-   >    * **Disable IP Restrictions**: Checking this will stop any/all restriction rules from working. Use this for testing purposes.
-   >    
-   >
+   >* **Allowed IP addresses**: Adding allowed IP addresses is inclusionary. It will include all of the IP addresses specified and exclude everything else.
+   >* **Block IP addresses**: Prevents specific IPs from accessing Marketo.
+   >* **Disable IP Restrictions**: Checking this will stop any/all restriction rules from working. Use this for testing purposes.
 
    >[!NOTE]
-   >
    >
    >You can add multiple restrictions, but they can only be ALL allowed or ALL blocked. You cannot mix and match allowed and blocked.
 
    ![](assets/image2014-9-16-13-3a9-3a40.png)
 
    Nicely done, your marketing data is now safer than it ever was!
-

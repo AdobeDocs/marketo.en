@@ -25,7 +25,7 @@ You can edit your domain name and fallback page, enable or disable form prefill,
    | Term |Definition |
    |---|---|
    | Domain name for landing pages |This is your CNAME. A CNAME is the first part of the URL you give people for landing pages. For example, in `http://go.yourCompany.com`, the word "go" is the CNAME. You can have multiple, but most people just use the one. |
-   | Fallback page |This is where to go if the landing page doesn't exist or is down. Learn more about [fallback pages](set-a-fallback-page.md). |
+   | Fallback page |This is where to go if the landing page doesn't exist or is down. Learn more about [fallback pages](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | Homepage |Enter your corporate site URL. |
 
    ![](assets/three.png)
@@ -49,4 +49,3 @@ You can edit your domain name and fallback page, enable or disable form prefill,
    ![](assets/six.png)
 
    Great job! Your landing pages now have the right information and should start working right away.
-

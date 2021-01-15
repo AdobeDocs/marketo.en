@@ -19,13 +19,11 @@ Here's how to create a new workspace.
 
 >[!NOTE]
 >
->**Deep Dive**
->
->Understand first with [Understanding Workspaces and Person Partitions](understanding-workspaces-and-person-partitions.md).
+>Understand first with [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 >[!NOTE]
 >
->To learn more about Workspace best practices, please contact [Marketo Professional Services](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38).
+>To learn more about Workspace best practices, please contact [Marketo Professional Services](mailto:services@marketo.com).
 
 1. Under **Admin**, click on **Workspaces & Partitions**.
 
@@ -35,33 +33,25 @@ Here's how to create a new workspace.
 
    ![](assets/two-1.png)
 
-1. Enter a** Name**, and select the **Person Partition(s)** you want to use. Choose a **Primary Person Partition**.
+1. Enter a **Name**, and select the **Person Partition(s)** you want to use. Choose a **Primary Person Partition**.
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >Make sure to [create person partitions](create-a-person-partition.md) if you haven't already.
+   >Make sure to [create person partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) if you haven't already.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >The **All Person Partitions**** **checkbox means that this workspace can use all person partitions in the system.
-
-   >[!NOTE]
+   >The **All Person Partitions** checkbox means that this workspace can use all person partitions in the system.
    >
-   >**Reminder**
-   >
-   >
-   >The** primary person partition** acts as the default and is where all people will be assigned.
+   >The **primary person partition** acts as the default and is where all people will be assigned.
 
    If you enabled multiple branded domains, you must choose a primary branded domain.
 
    ![](assets/four-1.png)
 
-   Select the workspace language.
+1. Select the workspace language.
 
    >[!NOTE]
    >
@@ -78,4 +68,3 @@ Here's how to create a new workspace.
    After creating your workspace, you should see the update!
 
    ![](assets/image2014-9-17-15-3a39-3a10.png)
-

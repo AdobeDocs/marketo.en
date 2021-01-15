@@ -12,7 +12,7 @@ The Treasure Chest holds fun experimental features that are not fully supported.
 >
 >**Admin Permissions Required**
 
-1. Under **Admin **click **Treasure Chest**.
+1. Under **Admin** click **Treasure Chest**.
 
    ![](assets/image2014-9-16-17-3a0-3a36.png)
 
@@ -26,6 +26,4 @@ The Treasure Chest holds fun experimental features that are not fully supported.
 
    >[!TIP]
    >
-   >
    >You may need to log out then back into Marketo to see the changes take effect.
-

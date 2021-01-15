@@ -14,9 +14,7 @@ A program is one specific marketing initiative. The channel is intended to be th
 
 >[!NOTE]
 >
->**Deep Dive**
->
->Learn more about  [programs](http://docs.marketo.com/display/docs/programs), the most important element in Marketo.
+>Learn more about [programs](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), the most important element in Marketo.
 
 1. Under the **Admin** section, click **Tags**.
 
@@ -38,25 +36,18 @@ A program is one specific marketing initiative. The channel is intended to be th
    >
    >**Example**
    >
-   >
    >Channel: Billboard
    >
-   >    
-   >    
-   >    * Apply to: Default
-   >    * Progression: Member, Engaged (If in doubt, these work fine)
-   >    * Success: Engaged
-   >    
-   >    
+   >* Apply to: Default
+   >* Progression: Member, Engaged (If in doubt, these work fine)
+   >* Success: Engaged
+   >
    >Channel: Party
    >
-   >    
-   >    
-   >    * Apply to: Event
-   >    * Progression: Invited, Registered, No Show and Attended
-   >    * Success: Attended
-   >    
-   >    
+   >* Apply to: Event
+   >* Progression: Invited, Registered, No Show and Attended
+   >* Success: Attended
+   >
    >Check out the Progressions of existing channels to get an idea of how to use them.
 
 1. Let's go with the Party channel example. Name your new **Channel** and select the program type it will apply to.
@@ -104,10 +95,7 @@ A program is one specific marketing initiative. The channel is intended to be th
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >Only people with a **Mobile Check-in Status**** **of **Registered** and **Attended** will be visible in the  [Mobile Check-in Apps](http://docs.marketo.com/display/docs/events).
+   >Only people with a **Mobile Check-in Status** of **Registered** and **Attended** will be visible in the [Mobile Check-in Apps](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
 
    >[!TIP]
    >
@@ -118,4 +106,3 @@ A program is one specific marketing initiative. The channel is intended to be th
    ![](assets/image2014-9-24-15-3a42-3a54.png)
 
    Nicely done! When you make a new program of that type, this new channel will be one of the choices.
-

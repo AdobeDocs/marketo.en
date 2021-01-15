@@ -6,7 +6,7 @@ title: Managing Tag Values
 
 # Managing Tag Values {#managing-tag-values}
 
-[Tags](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) are used to describe programs. You can make as many as you need, each with unique values. Here's how to manage those values.
+[Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) are used to describe programs. You can make as many as you need, each with unique values. Here's how to manage those values.
 
 >[!NOTE]
 >
@@ -14,15 +14,15 @@ title: Managing Tag Values
 
 >[!PREREQUISITES]
 >
->[Create a New Program Tag and Tag Values](create-a-new-program-tag-and-tag-values.md)
+>[Create a New Program Tag and Tag Values](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
 
 ## Adding Tag Values {#adding-tag-values}
 
-1. Under **Admin**, click **Tags**. 
+1. Under **Admin**, click **Tags**.
 
    ![](assets/image2014-9-24-12-3a24-3a55.png)
 
-1. Click** New**, then **New Tag Value**.
+1. Click **New**, then **New Tag Value**.
 
    ![](assets/image2014-9-24-12-3a25-3a23.png)
 
@@ -38,7 +38,7 @@ title: Managing Tag Values
 
    ![](assets/image2014-9-24-12-3a26-3a55.png)
 
-1.  You should see the changes immediately!
+1. You should see the changes immediately!
 
    ![](assets/image2014-9-24-12-3a27-3a34.png)
 
@@ -46,7 +46,7 @@ title: Managing Tag Values
 
 Tags might be used by old programs. You can deprecate them for future use by hiding the tag type.
 
-1. Select the** ****Tag** and select the **Value** you want to hide.
+1. Select the **Tag** and select the **Value** you want to hide.
 
    ![](assets/image2014-9-24-12-3a28-3a25.png)
 
@@ -62,5 +62,4 @@ If you want to see your hidden values again, do the following:
 
    ![](assets/image2014-9-24-12-3a29-3a58.png)
 
-   You can then unhide the values you would like to use in the future.
-
+You can then unhide the values you would like to use in the future.

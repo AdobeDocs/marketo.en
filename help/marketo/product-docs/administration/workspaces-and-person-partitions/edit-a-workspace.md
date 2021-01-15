@@ -14,15 +14,13 @@ Sometimes you need to make changes in a Workspace. It's easy.
 
 >[!NOTE]
 >
->**Deep Dive**
->
->Brush up on workspaces with [Understanding Workspaces and Person Partitions](understanding-workspaces-and-person-partitions.md).
+>Brush up on workspaces with [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Under **Admin**, click on **Workspaces & Partitions**.
 
    ![](assets/image2014-9-17-11-3a59-3a11-1.png)
 
-1. Select the workspace you want to edit and click on **Edit Workspace**.
+1. Select the workspace you want to edit and click **Edit Workspace**.
 
    ![](assets/two-7.png)
 
@@ -30,25 +28,19 @@ Sometimes you need to make changes in a Workspace. It's easy.
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >You can [create more person partitions](create-a-person-partition.md) if you need them.
+   >You can [create more person partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) if you need them.
 
    ![](assets/three-7.png)
 
    >[!NOTE]
    >
-   >The **All Person Partitions**** **checkbox means that this workspace can use all lead partitions in the system.
+   >The **All Person Partitions** checkbox means that this workspace can use all lead partitions in the system.
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >The** primary person partition** acts as the default and is where all people will be assigned.
+   >The **primary person partition** acts as the default and is where all people will be assigned.
 
-   If you enabled multiple branded domains, you can change to a different primary branded domain. Click Save.
+   If you enabled multiple branded domains, you can change to a different primary branded domain. Click **Save**.
 
    ![](assets/four-6.png)
 
@@ -58,7 +50,5 @@ Sometimes you need to make changes in a Workspace. It's easy.
 
 >[!MORELIKETHIS]
 >
->* [Create a New Workspace](create-a-new-workspace.md)
->* [Understanding Workspaces and Person Partitions](understanding-workspaces-and-person-partitions.md)
->
-
+>* [Create a New Workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+>* [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)

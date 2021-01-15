@@ -6,18 +6,18 @@ title: Create an API Only User
 
 # Create an API Only User {#create-an-api-only-user}
 
-If you want to integrate with Marketo via the [REST API](http://developers.marketo.com/documentation/rest/), you'll need to create an API only user. Here's how.
+If you want to integrate with Marketo via the [REST API](https://developers.marketo.com/documentation/rest/), you'll need to create an API only user. Here's how.
 
 >[!PREREQUISITES]
 >
->* [Create an API Only User Role](create-an-api-only-user-role.md)
+>[Create an API Only User Role](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 >
 
 >[!NOTE]
 >
 >**Admin Permissions Required**
 
-1. Under **Admin**, click **Users & Roles.** 
+1. Under **Admin**, click **Users & Roles.**
 
    ![](assets/image2014-9-17-9-3a31-3a31.png)
 
@@ -45,12 +45,8 @@ If you want to integrate with Marketo via the [REST API](http://developers.marke
 >
 >The pop-up says, "An invitation is not required for API only," but that doesn't mean you've done something wrong. It just means we'll create the role without an invite email having to be sent.
 
-Alrighty then! Now let's go ahead and create the custom service. 
+Alrighty then! Now let's go ahead and create the custom service.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Create a Custom Service for Use with ReST API](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
->
-
+>[Create a Custom Service for Use with ReST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)

@@ -14,13 +14,13 @@ Here's how to edit the person partition / workspace assignments:
 
 >[!PREREQUISITES]
 >
->[Create a New Workspace](create-a-new-workspace.md)
+>[Create a New Workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 >[!CAUTION]
 >
->Workspaces and Person Partitions can be complex. Please contact  [Marketo support](http://support.marketo.com/) for help in setting them up. 
+>Workspaces and Person Partitions can be complex. Please contact  [Marketo support](https://nation.marketo.com/t5/Support/ct-p/Support) for help in setting them up.
 
-1. Under Admin, click on Workspaces & Partitions. 
+1. Under Admin, click on **Workspaces & Partitions**.
 
 ![](assets/image2014-9-17-11-3a13-3a24.png)
 
@@ -36,7 +36,7 @@ Here's how to edit the person partition / workspace assignments:
 
    ![](assets/three-3.png)
 
-   Primary person partitions are the default where all peoples will be entered. Use [flow steps](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) or [assignment rules](assigning-person-partitions-with-assignment-rules.md) to move people around. 
+   Primary person partitions are the default where all peoples will be entered. Use [flow steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) or [assignment rules](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) to move people around.
 
 1. Click **Save**.
 
@@ -46,11 +46,8 @@ Here's how to edit the person partition / workspace assignments:
 
    ![](assets/image2014-9-17-11-3a14-3a53.png)
 
-   Congratulations! You have successfully edited your workspace!
+Congratulations! You have successfully edited your workspace!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Deep Dive**
->
->[Understanding Workspaces and Person Partitions](understanding-workspaces-and-person-partitions.md).
-
+>[Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).

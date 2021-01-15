@@ -16,7 +16,7 @@ Change your Marketo password with these simple steps.
 
    ![](assets/image2014-9-10-9-3a43-3a47.png)
 
-1. Enter the Old Password and New Password, then click **Save **when your new password fits all the requirements.
+1. Enter the Old Password and New Password, then click **Save** when your new password fits all the requirements.
 
    ![](assets/image2014-9-10-9-3a44-3a2.png)
 
@@ -24,5 +24,4 @@ Change your Marketo password with these simple steps.
 
    >[!TIP]
    >
-   >What's a good password? Something long with lots of letters, numbers and symbols like " [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection)". Except, not that one. Be creative and make your own.
-
+   >What's a good password? Something long with lots of letters, numbers and symbols like "M@rk3to !$ Gre@t". Except, not that one. Be creative and make your own.

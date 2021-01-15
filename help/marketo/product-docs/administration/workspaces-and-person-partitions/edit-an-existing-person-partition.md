@@ -14,8 +14,7 @@ A person partition is like having a second (or third) database. A partition can 
 
 >[!PREREQUISITES]
 >
->* [Create a Person Partition](create-a-person-partition.md)
->
+>[Create a Person Partition](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
 1. Under **Admin**, click **Workspaces & Partitions**.
 
@@ -25,7 +24,7 @@ A person partition is like having a second (or third) database. A partition can 
 
    ![](assets/two-5.png)
 
-1. Enter the Person Partition **Name**, the **Workspaces **they belong to, and click **Save**.
+1. Enter the Person Partition **Name**, the **Workspaces** they belong to, and click **Save**.
 
    ![](assets/three-5.png)
 
@@ -33,9 +32,8 @@ A person partition is like having a second (or third) database. A partition can 
 
    ![](assets/four-4.png)
 
-   That's it. It seems like such a powerful feature should be complex, but it's not.
+That's it. It seems like such a powerful feature should be complex, but it's not.
 
    >[!CAUTION]
    >
    >Measure twice, cut once. You don't want to assign a partition to the wrong workspace.
-
