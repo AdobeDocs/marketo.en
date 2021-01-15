@@ -14,9 +14,9 @@ This article describes how an Admin would view and edit the default location set
 
 ## Set Default Location Settings for a Subscription {#set-default-location-settings-for-a-subscription-1}
 
-When an Admin changes the default location settings, newly created users inherit these settings. Users can always [change their language, locale, and time zone preferences](select-your-language-locale-and-time-zone.md) in their individual accounts.
+When an Admin changes the default location settings, newly created users inherit these settings. Users can always [change their language, locale, and time zone preferences](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) in their individual accounts.
 
-1. Under **Admin**,** **click **Location**.
+1. Under **Admin**, click **Location**.
 
    ![](assets/image2014-11-7-11-3a39-3a17.png)
 
@@ -36,7 +36,7 @@ When an Admin changes the default location settings, newly created users inherit
 
    >[!NOTE]
    >
-   >Marketo Sales Insight for [Salesforce.com](http://salesforce.com/) supports French, German, Japanese, Portuguese, and Spanish.
+   >Marketo Sales Insight for [Salesforce.com](https://salesforce.com/) supports French, German, Japanese, Portuguese, and Spanish.
 
 ## Set the Default Currency Settings for a Subscription {#set-the-default-currency-settings-for-a-subscription}
 
@@ -54,6 +54,4 @@ If you are changing the default locale for your users, you may also want to chan
 
 >[!MORELIKETHIS]
 >
->* [Select Your Language, Locale and Time Zone](select-your-language-locale-and-time-zone.md)
->
-
+>* [Select Your Language, Locale and Time Zone](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)

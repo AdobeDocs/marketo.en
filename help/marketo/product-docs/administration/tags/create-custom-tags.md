@@ -10,9 +10,7 @@ Tags will help you organize your programs while channels will assist in gatherin
 
 >[!NOTE]
 >
->**Deep Dive**
->
->Check out [Understanding Tags](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) for more information.
+>Check out [Understanding Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) for more information.
 
 >[!NOTE]
 >

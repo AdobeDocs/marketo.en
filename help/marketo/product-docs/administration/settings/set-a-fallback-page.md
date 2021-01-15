@@ -24,4 +24,4 @@ Fallback pages are the last line of defense if your landing page is offline or n
 
    ![](assets/image2014-9-10-12-3a6-3a2.png)
 
-Voilà! You've just added a fallback page! No more 404 pages. 
+Voilà! You've just added a fallback page! No more 404 pages.

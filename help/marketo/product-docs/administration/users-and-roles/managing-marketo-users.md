@@ -16,11 +16,9 @@ title: Managing Marketo Users
 
    ![](assets/image2014-9-9-11-3a35-3a15.png)
 
-1. Enter the **Email address**, **First Name**, and **Last Name. **
+1. Enter the **Email address**, **First Name**, and **Last Name**.
 
-   ** ![](assets/image2016-5-24-9-3a45-3a30.png)
-
-   **
+   ![](assets/image2016-5-24-9-3a45-3a30.png)
 
 1. Optionally, enter a reason for the invitation and select an expiration date in the **Access Expires** field using the date picker.
 
@@ -38,7 +36,7 @@ title: Managing Marketo Users
    >
    >When the expiration date arrives, the user receives an expiration notification and their account is locked.
 
-1. Select the **Role **of your choice and click **Next**.
+1. Select the **Role** of your choice and click **Next**.
 
    ![](assets/image2016-5-24-10-3a1-3a33.png)
 
@@ -56,33 +54,33 @@ title: Managing Marketo Users
    >
    >Invitations expire three days after a new user is added.
 
-The new user is now listed in the Users tab and will receive an email with instructions on how to activate their account. 
+The new user is now listed in the Users tab and will receive an email with instructions on how to activate their account.
 
 ## Delete Users {#delete-users}
 
-1. Go to Admin and click Users & Roles.
+1. Go to Admin and click **Users & Roles**.
 
    ![](assets/image2014-9-9-11-3a36-3a21.png)
 
-1. Select the user you want to remove and click Delete User.
+1. Select the user you want to remove and click **Delete User**.
 
    ![](assets/image2014-9-9-11-3a36-3a36.png)
 
-1. Confirm by clicking OK.
+1. Confirm by clicking **OK**.
 
-   ![](assets/image2014-9-9-11-3a36-3a51.png) 
+   ![](assets/image2014-9-9-11-3a36-3a51.png)
 
 ## Reset User Passwords {#reset-user-passwords}
 
-1. Go to Admin and click Users & Roles.
+1. Go to Admin and click **Users & Roles**.
 
    ![](assets/image2014-9-9-11-3a41-3a0.png)
 
-1. Select a user and click Reset Password.
+1. Select a user and click **Reset Password**.
 
    ![](assets/image2014-9-9-11-3a41-3a19.png)
 
-1. Click Close to dismiss the prompt.
+1. Click **Close** to dismiss the prompt.
 
    ![](assets/image2014-9-9-11-3a41-3a50.png)
 

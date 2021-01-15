@@ -20,7 +20,7 @@ Program statuses are the checkpoints through a programs path (channel). If you m
 
    ![](assets/image2014-9-24-15-3a51-3a45.png)
 
-1. Click ![--](assets/image2014-9-24-15-3a52-3a39.png) to remove the status, then click **SAVE**.
+1. Click ![X icon](assets/image2014-9-24-15-3a52-3a39.png) to remove the status, then click **Save**.
 
    >[!TIP]
    >
@@ -28,4 +28,4 @@ Program statuses are the checkpoints through a programs path (channel). If you m
 
    ![](assets/image2014-9-24-15-3a57-3a53.png)
 
-Nicely done! You can also [delete an entire channel](delete-a-program-channel.md) if you need to.
+Nicely done! You can also [delete an entire channel](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) if you need to.

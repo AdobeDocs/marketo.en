@@ -24,9 +24,6 @@ Control the password policy of your subscription. Here's how.
 
    >[!NOTE]
    >
-   >**Definition**
-   >
-   >
    >A template is just a pre-built configuration. Standard is good. High Security is the strongest. Custom lets you make your own.
 
    ![](assets/passwordstrength.png)
@@ -35,11 +32,11 @@ Control the password policy of your subscription. Here's how.
    >
    >In **Custom**, check the boxes to indicate which characteristics you want users to include when they create passwords.
 
-1. Set the **Expiration**.** **This feature automatically requires users to reset their passwords after a certain length of time. This includes the Admin user as well.
+1. Set the **Expiration**. This feature automatically requires users to reset their passwords after a certain length of time. This includes the Admin user as well.
 
    >[!CAUTION]
    >
-   >Existing users will not be notified of the changes. Set **Expiration **to 30 days first to ensure everyone has updated to the new settings, then change this back to your original cadence.
+   >Existing users will not be notified of the changes. Set **Expiration** to 30 days first to ensure everyone has updated to the new settings, then change this back to your original cadence.
 
    ![](assets/expiration.png)
 
@@ -48,4 +45,3 @@ Control the password policy of your subscription. Here's how.
    ![](assets/inactivesession.png)
 
    Security is serious business. We got your back.
-

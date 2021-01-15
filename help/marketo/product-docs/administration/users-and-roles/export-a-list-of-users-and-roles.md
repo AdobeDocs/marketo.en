@@ -28,11 +28,10 @@ It's pretty easy to export a full list of your users and user roles. Here's how.
 
    ![](assets/image2014-9-10-9-3a25-3a49.png)
 
-1. Click the **Export **icon.
+1. Click the **Export** icon.
 
    ![](assets/image2014-9-10-9-3a26-3a3.png)
 
    And that's all folks! You should be downloading the new Excel file.
 
    ![](assets/image2014-9-10-9-3a26-3a17.png)
-

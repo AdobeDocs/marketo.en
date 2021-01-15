@@ -14,15 +14,13 @@ Create a new person partition following these steps.
 
 >[!NOTE]
 >
->**Deep Dive**
->
->Understand first with [Understanding Workspaces and Person Partitions](understanding-workspaces-and-person-partitions.md).
+>Understand first with [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 >[!CAUTION]
 >
->Person Partitions can be complex. Please contact  [Marketo support](http://support.marketo.com/) for help setting them up. 
+>Person Partitions can be complex. Please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) for help setting them up.
 
-1. Under Admin, select Workspaces & Partitions.
+1. Under Admin, select **Workspaces & Partitions**.
 
 ![](assets/image2014-9-17-11-3a32-3a12.png)
 
@@ -30,7 +28,7 @@ Create a new person partition following these steps.
 
    ![](assets/two-2.png)
 
-1. Name your partition, choose the **Workspace(s) **where it will appear, and click** Create.** 
+1. Name your partition, choose the **Workspace(s)** where it will appear, and click **Create**.
 
    ![](assets/three-2.png)
 
@@ -39,4 +37,3 @@ Create a new person partition following these steps.
    ![](assets/four-2.png)
 
    There you have it! You now know how to create a Person Partition.
-

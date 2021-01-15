@@ -1113,7 +1113,6 @@ user-guide-description: Marketo product documentation
         + [Test Email Not Showed as Viewed](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
       + Email Delivery {#email-delivery}
         + [Delivery Channel Overview](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
-        + [How to Set up Your Outlook365 SMTP Server with Sales Connect](product-docs/marketo-sales-connect/email/email-delivery/how-to-set-up-your-outlook365-smtp-server-with-sales-connect.md)
         + [Setting up an SMTP Server](product-docs/marketo-sales-connect/email/email-delivery/setting-up-an-smtp-server.md)
         + [Setting up Your Delivery Channel](product-docs/marketo-sales-connect/email/email-delivery/setting-up-your-delivery-channel.md)
       + Send A Sales Email {#send-a-sales-email}

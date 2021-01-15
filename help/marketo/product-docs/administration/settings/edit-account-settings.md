@@ -29,4 +29,3 @@ Need to change the account email address, name, or phone number? Learn how below
    ![](assets/image2015-6-23-15-3a20-3a16.png)
 
    Ta-da! Info updated.
-

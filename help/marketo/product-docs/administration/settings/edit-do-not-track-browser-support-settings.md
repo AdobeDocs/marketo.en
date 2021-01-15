@@ -16,7 +16,7 @@ title: Edit "Do Not Track" Browser Support Settings
 >
 >"Do Not Track" will be set to Ignore by default, so if that's what you want, you won't need to take any steps.
 
-1. Click** Admin**.
+1. Click **Admin**.
 
    ![](assets/one.png)
 
@@ -29,9 +29,10 @@ title: Edit "Do Not Track" Browser Support Settings
    ![](assets/three-2.png)
 
 1. Select **Support** and click **Save**.
-1. ![](assets/four-1.png)
 
-   After saving the changes, you will see the update.
+   ![](assets/four-1.png)
+
+   After saving the changes, you'll see the update.
 
    ![](assets/five-1.png)
 
@@ -42,4 +43,3 @@ title: Edit "Do Not Track" Browser Support Settings
    >[!TIP]
    >
    >To learn more about "Do Not Track" and how it works, please visit [this page](https://en.wikipedia.org/wiki/Do_Not_Track).
-

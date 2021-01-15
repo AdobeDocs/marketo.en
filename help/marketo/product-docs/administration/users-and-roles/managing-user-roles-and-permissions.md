@@ -16,17 +16,17 @@ For example, a marketing user typically needs broad access across the applicatio
 
 Marketo provides several built-in roles, with different levels of access:
 
-* **Admin **- all parts of the application, including the Admin section
-* **Standard User **- all parts of the application, except the Admin section
+* **Admin** - all parts of the application, including the Admin section
+* **Standard User** - all parts of the application, except the Admin section
 * **Marketing User** - all parts of the application, except the Admin section
-* **Web Designer **- only the Design Studio
-* **Analytics User **- only the Analytics section
+* **Web Designer** - only the Design Studio
+* **Analytics User** - only the Analytics section
 
-You cannot edit the Admin and Standard User roles, but you can edit the others. You can also create new custom roles to match the particular organizational structures in your company. 
+You cannot edit the Admin and Standard User roles, but you can edit the others. You can also create new custom roles to match the particular organizational structures in your company.
 
 ## Assign Roles to a User {#assign-roles-to-a-user}
 
-You can assign roles to a user when you [create users for the first time](http://docs.marketo.com/display/DOCS/Create%2C+Delete%2C+Edit+and+Change+a+User+Role) or by [editing an existing user](managing-marketo-users.md).
+You can assign roles to a user when you [create users for the first time](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) or by [editing an existing user](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
 1. To edit an existing user, go to **Admin** and click **Users & Roles**.
 
@@ -42,27 +42,27 @@ You can assign roles to a user when you [create users for the first time](http:/
 
    >[!NOTE]
    >
-   >To learn about each role, see  [Descriptions of Role Permissions](managing-user-roles-and-permissions/descriptions-of-role-permissions.md).
+   >To learn about each role, see  [Descriptions of Role Permissions](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md).
 
 ## Create a New Role {#create-a-new-role}
 
 Sometimes, your organization has employees in very specific roles that require a custom combination of permissions.  
 
-1. To create a new user role, go to Admin and click Users & Roles.
+1. To create a new user role, go to Admin and click **Users & Roles**.
 
    ![](assets/image2014-9-9-18-3a8-3a12.png)
 
-1. Click the Roles tab.
+1. Click the **Roles** tab.
 
    ![](assets/image2014-9-9-18-3a8-3a22.png)
 
-1. Click New Role.
+1. Click **New Role**.
 
    ![](assets/image2014-9-9-18-3a8-3a38.png)
 
-1. Enter a Role Name, a Description (optional), and select the permissions that users in this role will need.
+1. Enter a **Role Name**, a **Description** (optional), and select the permissions that users in this role will need.
 
-   ![](assets/image2014-9-9-18-3a9-3a3.png) 
+   ![](assets/image2014-9-9-18-3a9-3a3.png)
 
 ## Edit a Role {#edit-a-role}
 
@@ -72,7 +72,7 @@ If you need to change the permissions that are associated with an existing role,
 
    ![](assets/image2014-9-9-18-3a9-3a15.png)
 
-1. Click the **Roles **tab.
+1. Click the **Roles** tab.
 
    ![](assets/image2014-9-9-18-3a9-3a26.png)
 
@@ -80,7 +80,7 @@ If you need to change the permissions that are associated with an existing role,
 
    ![](assets/image2014-9-9-18-3a9-3a40.png)
 
-1. Change the **Role Name** and **Description **if necessary, and then change the selection of associated **Permissions**.
+1. Change the **Role Name** and **Description** if necessary, and then change the selection of associated **Permissions**.
 
    ![](assets/image2014-9-9-18-3a10-3a3.png)
 
@@ -92,28 +92,18 @@ If you need to change the permissions that are associated with an existing role,
 
 If a role becomes unnecessary, you can delete it.  
 
-1. Go to Admin and click Users & Roles.
+1. Go to Admin and click **Users & Roles**.
 
    ![](assets/image2014-9-9-18-3a10-3a15.png)
 
-1. Click the Roles tab.
+1. Click the **Roles** tab.
 
    ![](assets/image2014-9-9-18-3a10-3a27.png)
 
-1. From the list, select the role you want to delete and click Delete Role.
+1. From the list, select the role you want to delete and click **Delete Role**.
 
    ![](assets/image2014-9-9-18-3a10-3a39.png)
 
-1. Click Delete to confirm.
+1. Click **Delete** to confirm.
 
    ![](assets/image2014-9-9-18-3a10-3a50.png)
-
->[!MORELIKETHIS]
->
->Learn more about creating additional users and assigning them roles in  [Getting Started with Marketo](../../../getting-started.md). 
-
->[!NOTE]
->
->**Deep Dive**
->
->Learn about other administrative tasks in the [Admin](http://docs.marketo.com/display/docs/administration) deep dive.

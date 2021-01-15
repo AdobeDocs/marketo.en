@@ -28,10 +28,10 @@ If you find yourself looking for a specific set of fields in the person detail o
    >
    >You have two columns to work with.
 
-   If you decide you want to remove a field, right-click the field you want to remove and click Delete.
+   If you decide you want to remove a field, right-click the field you want to remove and click **Delete**.
+
    ![](assets/image2014-9-16-16-3a43-3a56.png)
 
    Awesome work! Now when you load a person's details, you can use your custom layout to access the information important to you.
 
    ![](assets/six-1.png)
-

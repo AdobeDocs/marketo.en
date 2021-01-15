@@ -10,7 +10,7 @@ Program channels are a collection of statuses or checkpoints leads should go thr
 
 If you make one by accident or no longer need one, you can delete it.
 
-1. Go to the** Admin** section.
+1. Go to the **Admin** section.
 
    ![](assets/image2014-9-24-16-3a6-3a41.png)
 
@@ -26,10 +26,4 @@ If you make one by accident or no longer need one, you can delete it.
 
    ![](assets/image2014-9-24-16-3a10-3a59.png)
 
-Bam! You can also  [delete specific statuses from channels](delete-a-program-status-from-a-program-channel.md).
-
->[!MORELIKETHIS]
->
->* [Delete a Program Status From a Program Channel](delete-a-program-status-from-a-program-channel.md)
->
-
+Bam! You can also [delete specific statuses from channels](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).

@@ -16,7 +16,7 @@ Some additional information about permissions:
 
 ## Available Permissions {#available-permissions}
 
-When you [create or edit a role](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), you can select which of the following permissions to allow for that role by checking the appropriate boxes.
+When you [create or edit a role](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), you can select which of the following permissions to allow for that role by checking the appropriate boxes.
 
 ![](assets/createnewrole.png)
 
@@ -28,7 +28,7 @@ View and make changes to settings in the My Account section of Admin.
 * Access Channels - Gives users access only to modify the Channel tag, not other custom tags
 * Access Communication Limit - Gives users access to enable a communication limit in Admin
 * Access CRM - Gives users access to the CRM, such as Salesforce or Microsoft Dynamics, in Admin
-* Access [Data.com](http://Data.com) - Gives users access to the Data.com flow action
+* Access [Data.com](https://Data.com) - Gives users access to the Data.com flow action
 * Access Email Admin - Gives users to Email Admin, to change default settings, such as unsubscribe and branding domains
 * Access Event Partners - Gives users access to LaunchPoint in Admin 
 * Access Field Management - Gives users access to Field Management in Admin
@@ -37,7 +37,7 @@ View and make changes to settings in the My Account section of Admin.
 * Access Location - Gives users access to Location in Admin for setting default language, locale, time zone, and currency
 * Access Login History - Gives users access to User Login History in Audit Trail
 * Access Login Settings - Gives users access to Login Settings in Admin for Security, IP Restrictions, and Smart List Report settings
-* Access Marketo Custom Activity - Gives users access to Marketo Custom Activities in Admin 
+* Access Marketo Custom Activity - Gives users access to Marketo Custom Activities in Admin
 * Access Marketo Custom Object - Gives users access to Marketo Custom Objects in Admin
 * Access Munchkin - GIves users access to Munchkin in Admin, for setting tracking code, person tracking, and enabling API configuration
 * Access Revenue Cycle Analytics - Gives users access to Revenue Cycle Analytics in Admin, for setting Sync Summary and Attribution
@@ -83,8 +83,8 @@ Access Analytics
 
 Gives users access to the Analytics tabs, Email Insights, reports, and the three items below, unless they are unchecked.
 
-* Access Revenue Explorer - Unchecking removes user's access to Revenue Explorer 
-* Delete Report - Unchecking removes user's ability to delete reports   
+* Access Revenue Explorer - Unchecking removes user's access to Revenue Explorer
+* Delete Report - Unchecking removes user's ability to delete reports
 * Export Analytics Data - Unchecking removes user's ability to export Analytics data
 
 ## Access Calendar Presentations {#access-calendar-presentations}
@@ -98,54 +98,52 @@ Gives users access to Calendar presentations ??- enables display of the Presenta
 Gives users access to the Design Studio tab and view of the tree, but not to details.
 
 * Access Email
-
-    * Edit Email - Gives users permission to edit, create, and clone emails
-
-        * Make Email Operational - Gives users permission to make an email operational. See: [Make an Email Operational](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+  * Edit Email - Gives users permission to edit, create, and clone emails
+    * Make Email Operational - Gives users permission to make an email operational. See: [Make an Email Operational](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
     * Approve Email - Enables users to approve emails.
     * Delete Email - Enables users to delete emails.
-    * Set Branded Domain - Enables users to work with branding domains. See: [Add Multiple Branding Domains](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
+    * Set Branded Domain - Enables users to work with branding domains. See: [Add an Additional Branding Domain](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * Access Email Template
 
-    * Approve Email Template
-    * Delete Email Template
-    * Edit Email Template - Edit, create, and clone email templates
+  * Approve Email Template
+  * Delete Email Template
+  * Edit Email Template - Edit, create, and clone email templates
 
 * Access Form
 
-    * Delete Form
-    * Edit Form - Edit, create, and clone forms
+  * Delete Form
+  * Edit Form - Edit, create, and clone forms
 
 * Access Image
 
-    * Delete Image
-    * Upload Image
+  * Delete Image
+  * Upload Image
 
 * Access Landing Page
 
-    * Approve Landing Page
-    * Delete Landing Page
-    * Edit Landing Page - Edit, create, and clone landing pages
+  * Approve Landing Page
+  * Delete Landing Page
+  * Edit Landing Page - Edit, create, and clone landing pages
 
 * Access Landing Page Template
 
-    * Approve Landing Page Template
-    * Delete Landing Page Template
-    * Edit Landing Page Template - Edit, create, and clone landing page templates
+  * Approve Landing Page Template
+  * Delete Landing Page Template
+  * Edit Landing Page Template - Edit, create, and clone landing page templates
 
 * Access Snippet
 
-    * Approve Snippet
-    * Delete Snippet
-    * Edit Snippet
+  * Approve Snippet
+  * Delete Snippet
+  * Edit Snippet
 
 * Access Social App
 
-    * Approve Social App
-    * Delete Social App
-    * Edit Social App
+  * Approve Social App
+  * Delete Social App
+  * Edit Social App
 
 ## Access Database {#access-database}
 
@@ -153,9 +151,9 @@ View the database as well as view and edit smart/static lists.
 
 * Access Segmentation
 
-    * Approve Segmentation
-    * Delete Segmentation
-    * Edit Segmentation
+  * Approve Segmentation
+  * Delete Segmentation
+  * Edit Segmentation
 
 * Advanced List Import
 * Delete Person
@@ -175,15 +173,15 @@ View the Marketing Activities tab, campaigns, and campaign folders.
 
 * Access SMS Message
 
-    * Approve SMS Message
-    * Delete SMS Message
-    * Edit SMS Message
+  * Approve SMS Message
+  * Delete SMS Message
+  * Edit SMS Message
 
 * Access Push Notification
 
-    * Approve Push Notification
-    * Delete Push Notification
-    * Edit Push Notification
+  * Approve Push Notification
+  * Delete Push Notification
+  * Edit Push Notification
 
 * Access Awards
 * Activate Trigger Campaign
@@ -213,5 +211,3 @@ Workspace Administration
 
 * Admin access for a specific Workspace (only if you have Workspaces enabled)
 * Move assets between Workspaces (only if you have Workspaces enabled)
-
-Access Mobile Application

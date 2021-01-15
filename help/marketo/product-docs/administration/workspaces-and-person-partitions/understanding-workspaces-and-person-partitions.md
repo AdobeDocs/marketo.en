@@ -10,9 +10,9 @@ title: Understanding Workspaces and Person Partitions
 
 >[!CAUTION]
 >
->Workspaces can be complex to set up.  Contact  [Marketo Support](http://support.marketo.com/) to find out if they're right for you.
+>Workspaces can be complex to set up. Contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) to find out if they're right for you.
 
-Workspaces are separate areas in Marketo that hold marketing assets like programs, landing pages, emails and more. They can be used by multiple people. Each user has access to one or more workspaces. 
+Workspaces are separate areas in Marketo that hold marketing assets like programs, landing pages, emails and more. They can be used by multiple people. Each user has access to one or more workspaces.
 
 >[!NOTE]
 >
@@ -27,9 +27,7 @@ Workspaces are separate areas in Marketo that hold marketing assets like program
 
 >[!NOTE]
 >
->**Deep Dive**
->
->Learn how to create [create a new workspace](create-a-new-workspace.md).
+>Learn how to create [create a new workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Sharing across Workspaces {#sharing-across-workspaces}
 
@@ -69,8 +67,8 @@ You can share these items across workspaces.
 * Landing page templates
 * Models
 * Smart campaigns
-* [Smart lists](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
-* [Segmentations](share-segmentations-across-workspaces-and-partitions.md)
+* [Smart lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
+* [Segmentations](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
 * Snippets
 
 ## Cloning across Workspaces {#cloning-across-workspaces}
@@ -96,7 +94,7 @@ To move assets to a new workspace, put them into a folder and drag the folder ov
 
 ## Person Partitions {#person-partitions}
 
-Person partitions act like separate databases. Each partition has its own people that do not de-dupe or mix with other partitions. If you feel you have a business use case that may necessitate having duplicate records with the same email address, please contact [Marketo Support](http://support.marketo.com).
+Person partitions act like separate databases. Each partition has its own people that do not de-dupe or mix with other partitions. If you feel you have a business use case that may necessitate having duplicate records with the same email address, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 You can assign person partitions to  [workspaces](create-a-new-workspace.md) in the following configurations:
 
@@ -106,13 +104,10 @@ You can assign person partitions to  [workspaces](create-a-new-workspace.md) in 
 
 >[!NOTE]
 >
->**Example**
->
 >Reasons you would use a person partition:
 >
 >* Your workspaces not only have different assets, but also don't share any people
 >* You want duplicates for other business reasons
->
 
 >[!CAUTION]
 >
@@ -120,7 +115,4 @@ You can assign person partitions to  [workspaces](create-a-new-workspace.md) in 
 
 >[!NOTE]
 >
->**Deep Dive**
->
-> Learn how to [create a person partition](create-a-person-partition.md).
-
+>Learn how to [create a person partition](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).

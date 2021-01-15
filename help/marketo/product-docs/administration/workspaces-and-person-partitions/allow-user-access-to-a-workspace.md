@@ -14,15 +14,13 @@ Workspaces can be for any reason (such as business unit or geography separation)
 
 >[!NOTE]
 >
->**Deep Dive**
->
->Learn more about  [workspaces](understanding-workspaces-and-person-partitions.md).
+>Learn more about [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Under Admin, click Users & Roles.
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. Under the **Users **tab, select the user and click **Edit User**.
+1. Under the **Users** tab, select the user and click **Edit User**.
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
@@ -38,5 +36,4 @@ Workspaces can be for any reason (such as business unit or geography separation)
 
    ![](assets/image2014-9-17-11-3a3-3a31.png)
 
-   Great! Now when they log in, they will see all of the workspaces you gave them access to.
-
+Great! Now when they log in, they will see all of the workspaces you gave them access to.

@@ -29,4 +29,3 @@ For example, if you work in both production and sandbox instances, you can name 
    ![](assets/image2016-5-24-10-3a40-3a6.png)
 
    Ta-da! Your subscription has a new name.
-
