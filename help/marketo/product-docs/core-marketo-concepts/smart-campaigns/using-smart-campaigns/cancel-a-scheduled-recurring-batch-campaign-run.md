@@ -12,13 +12,13 @@ If you have a recurring batch campaign that you don't want any more, you can can
 
    ![](assets/image2014-9-22-16-3a44-3a51.png)
 
-1. Click on **Schedule** **Recurrence**.
+1. Click **Schedule Recurrence**.
 
    ![](assets/image2014-9-22-16-3a44-3a55.png)
 
    >[!TIP]
    >
-   >You can cancel a single run by clicking on  ![--](assets/image2014-9-22-16-3a45-3a42.png) next to it. Learn how to [cancel a scheduled batch campaign run](cancel-a-scheduled-batch-campaign-run.md).
+   >You can cancel a single run by clicking on ![red x](assets/image2014-9-22-16-3a45-3a42.png) next to it. Learn how to [cancel a scheduled batch campaign run](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md).
 
 1. Set Schedule to **None** and then **Save**.
 
@@ -30,13 +30,6 @@ If you have a recurring batch campaign that you don't want any more, you can can
    >
    >This cancels future runs, but if a smart campaign is in process of running, you cannot cancel it.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Cancel a Scheduled Batch Campaign Run](cancel-a-scheduled-batch-campaign-run.md)
-   >    
-   >
-
+   >[Cancel a Scheduled Batch Campaign Run](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)

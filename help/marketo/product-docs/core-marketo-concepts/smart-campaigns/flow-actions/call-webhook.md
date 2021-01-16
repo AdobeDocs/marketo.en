@@ -8,8 +8,7 @@ title: Call Webhook
 
 >[!PREREQUISITES]
 >
->* [Create a Webhook](../../../../product-docs/administration/additional-integrations/create-a-webhook.md)
->
+>[Create a Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
 
 ## Overview {#overview}
 
@@ -19,9 +18,7 @@ Webhooks let you interact with third party services. Send/receive information by
 
 >[!NOTE]
 >
->**Deep Dive**
->
->Learn about the many fascinating things that  [Webhooks](http://developers.marketo.com/documentation/webhooks/) can do for you.
+>Learn about the many fascinating things that [Webhooks](https://developers.marketo.com/documentation/webhooks/) can do for you.
 
 ## Usage {#usage}
 
@@ -31,10 +28,6 @@ Select a **Webhook** from the drop-down.
 
 That's all! Your webhook will now be invoked whenever people enter the smart campaign flow.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Use a Webhook in a Smart Campaign](use-a-webhook-in-a-smart-campaign.md)
->
-
+>[Use a Webhook in a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)

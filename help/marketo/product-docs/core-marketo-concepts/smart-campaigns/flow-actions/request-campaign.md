@@ -10,7 +10,7 @@ You can place people into a specific campaign by using the **Request Campaign** 
 
 >[!NOTE]
 >
->The campaign you are placing the person into must be active and have the ** [Campaign is Requested](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)** trigger.
+>The campaign you are placing the person into must be active and have the **[Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)** trigger.
 
 1. In the **Database**, find and select the desired person/people.
 
@@ -37,4 +37,3 @@ You can place people into a specific campaign by using the **Request Campaign** 
 >[!TIP]
 >
 >Use the **Campaign is Requested** trigger or filter to find people affected by this flow step.
-

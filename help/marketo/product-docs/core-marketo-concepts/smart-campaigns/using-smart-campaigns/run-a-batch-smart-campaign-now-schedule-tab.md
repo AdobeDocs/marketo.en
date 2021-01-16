@@ -12,7 +12,7 @@ Once you are done building your batch campaign, you can choose to run it now or 
 
    ![](assets/runcampaignnow-hands.png)
 
-1. Make sure **Run Now **is selected and click **Run**.
+1. Make sure **Run Now** is selected and click **Run**.
 
    ![](assets/image2014-9-19-15-3a57-3a4.png)
 
@@ -20,16 +20,9 @@ Once you are done building your batch campaign, you can choose to run it now or 
 
    ![](assets/image2014-9-19-15-3a57-3a19.png)
 
-   Easy peasy! You can also [schedule runs for later](schedule-a-batch-smart-campaign-to-run-later.md) if you prefer.
+   Easy peasy! You can also [schedule runs for later](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md) if you prefer.
 
    >[!NOTE]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Schedule a Batch Smart Campaign to Run Later](schedule-a-batch-smart-campaign-to-run-later.md)
-   >    * [Schedule a Recurring Batch Campaign](schedule-a-recurring-batch-campaign.md)
-   >    
-   >
-
+   >* [Schedule a Batch Smart Campaign to Run Later](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
+   >* [Schedule a Recurring Batch Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)

@@ -8,7 +8,7 @@ title: Interesting Moment
 
 ## Overview {#overview}
 
-If you have [Marketo Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php), you can use the **Interesting Moment** flow step to give your sales team visibility into the cool things your people are doing.
+If you have Marketo Sales Insight, you can use the **Interesting Moment** flow step to give your sales team visibility into the cool things your people are doing.
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
@@ -26,17 +26,9 @@ If you have [Marketo Sales Insight](http://docs.marketo.com/display/docs/assets/
    >
    >**Less is more**. Work with your sales team to make sure interesting moments are actually interesting.
 
-   [tokens in interesting moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+You can also use [tokens in interesting moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) to make really useful dynamic descriptions.
 
-   >[!NOTE]
-   >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Using Interesting Moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
-   >    * [Tokens for Interesting Moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
-   >    
-   >
-
-You can also use  to make really useful dynamic descriptions. 
+>[!MORELIKETHIS]
+>
+>* [Using Interesting Moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
+>* [Tokens for Interesting Moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)

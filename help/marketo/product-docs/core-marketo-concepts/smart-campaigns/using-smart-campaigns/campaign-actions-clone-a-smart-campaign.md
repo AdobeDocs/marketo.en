@@ -12,7 +12,7 @@ Cloning campaigns can save you time. No need to build everything from scratch - 
 
    ![](assets/image2014-9-22-13-3a56-3a34.png)
 
-1. Choose the appropriate **Clone To **option. In this example, let's choose **Programs**.
+1. Choose the appropriate **Clone To** option. In this example, let's choose **Programs**.
 
    ![](assets/image2014-9-22-13-3a56-3a56.png)
 
@@ -20,5 +20,4 @@ Cloning campaigns can save you time. No need to build everything from scratch - 
 
    ![](assets/image2014-9-22-13-3a57-3a9.png)
 
-   And done! Don't work hard, work smart.
-
+And done!

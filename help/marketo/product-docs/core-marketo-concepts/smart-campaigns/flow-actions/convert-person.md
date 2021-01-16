@@ -34,5 +34,4 @@ Use this flow step to convert a person to a contact in Salesforce. You can decid
 
    ![](assets/four-3.png)
 
-   And there you go!
-
+And there you go!

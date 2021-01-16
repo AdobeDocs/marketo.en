@@ -10,8 +10,6 @@ One of the coolest features of Marketo is the ability to let sales people partic
 
 >[!NOTE]
 >
->**Example**
->
 >Examples of smart campaigns to request:
 >
 >1. **Long term nurture** - when they don't have a budget this year and you just want to stay on the radar
@@ -23,7 +21,7 @@ One of the coolest features of Marketo is the ability to let sales people partic
 
    ![](assets/image2015-5-20-16-3a3-3a25.png)
 
-1. Find and drag **Campaign** **is** **Requested **to the canvas.
+1. Find and drag **Campaign is Requested** to the canvas.
 
      ![](assets/campaignfilterdrag.png)
 
@@ -32,7 +30,6 @@ One of the coolest features of Marketo is the ability to let sales people partic
    >[!TIP]
    >
    >The source operators are for security. You can restrict the campaign to requests made only by specific sources, like other smart campaigns or developers. Choose **Is Any** in the first box if you want to allow requests from all sources.
-   >
    >
    >**Remember**, by choosing Sales Insight, it will magically show up in the box for sales. Don't overdo it. Too many will get ignored by them.
 
@@ -43,4 +40,3 @@ This is a great way to extend your marketing reach into other departments. Set u
 >[!TIP]
 >
 >Don't forget to name your smart campaigns clearly. They will show up in Sales Insight exactly how you name them.
-

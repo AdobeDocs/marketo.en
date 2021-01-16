@@ -10,8 +10,7 @@ The flow steps execute from top to bottom. Here's how to reorder the flow steps 
 
 >[!PREREQUISITES]
 >
->* [Add a Flow Step to a Smart Campaign](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
->
+>[Add a Flow Step to a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
 1. In your smart campaign Flow tab, drag and drop the flow step to where you want it.
 
@@ -19,8 +18,6 @@ The flow steps execute from top to bottom. Here's how to reorder the flow steps 
 
 >[!NOTE]
 >
->**Reminder**
->
 >The flow steps run in the order in which they appear in the flow.
 
-Some things are just kinda simple. Drag n' drop away! 
+Some things are just kinda simple. Drag n' drop away!

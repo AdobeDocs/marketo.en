@@ -10,7 +10,7 @@ If you want to set a batch smart campaign to run at some point in the future, he
 
 >[!TIP]
 >
->You can also [reschedule a batch smart campaign in the program schedule view](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md).
+>You can also [reschedule a batch smart campaign in the program schedule view](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md).
 
 1. Select the batch smart campaign you want to run, go to the **Schedule** tab, and click **Run Once**.
 
@@ -34,11 +34,4 @@ If you want to set a batch smart campaign to run at some point in the future, he
 
    >[!NOTE]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Schedule a Recurring Batch Campaign](schedule-a-recurring-batch-campaign.md)
-   >    
-   >
-
+   >[Schedule a Recurring Batch Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)

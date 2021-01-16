@@ -8,7 +8,7 @@ title: Change Person Partition
 
 ## Overview {#overview}
 
-If you are using [workspaces and partitions](http://docs.marketo.com/x/9QMk), you will want to build smart campaigns to move people from one partition to another.
+If you are using [workspaces and partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md), you will want to build smart campaigns to move people from one partition to another.
 
 ![](assets/one-3.png)
 

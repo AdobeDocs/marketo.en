@@ -96,7 +96,7 @@ Mobile App Is/Was Opened
 
 Has/Had Mobile App Activity
 
-These provide a powerful way to track custom mobile activity. You'll need to work with your developer to set up tracking [for Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android) and [for iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+These provide a powerful way to track custom mobile activity. You'll need to work with your developer to set up tracking [for Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) and [for iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
 
 * Has Mobile App Activity - trigger
 
@@ -125,11 +125,13 @@ The Action constraints let you use the trigger and filters to track mobile activ
 >Under the action type of *Shopping*, here's a very specific action, with the other constraints defining it:
 >
 >* Bought a shirt
->  * It was red
->  * It cost $30
->  * It took 20 seconds to buy
+>   * It was red
+>   * It cost $30
+>   * It took 20 seconds to buy
 
-Here's how the filter looks in Marketo:   ![](assets/image2015-8-17-13-3a16-3a12.png)
+Here's how the filter looks in Marketo:
+
+   ![](assets/image2015-8-17-13-3a16-3a12.png)
 
 >[!NOTE]
 >
@@ -183,5 +185,5 @@ Taps/Tapped Push Notification
 
 >[!MORELIKETHIS]
 >
->* [Add a Constraint to a Smart List Filter](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [Use Inactivity Filters in a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [Add a Constraint to a Smart List Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
+>* [Use Inactivity Filters in a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)

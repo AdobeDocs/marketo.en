@@ -10,9 +10,7 @@ Smart campaigns are the most important tool in Marketo. They can trigger on one 
 
 >[!NOTE]
 >
->**Deep Dive**
->
->Smart campaigns are super cool. Learn more about them [here](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+>Smart campaigns are super cool. Learn more about them [here](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Go to **Marketing Activities**.
 
@@ -36,14 +34,7 @@ Smart campaigns are the most important tool in Marketo. They can trigger on one 
 
    Cool! Next up, learn how to define which people to run through the smart campaign with a smart list.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Define Smart List for Smart Campaign | Batch](define-smart-list-for-smart-campaign-batch.md)
-   >    * [Define Smart List for Smart Campaign | Trigger](define-smart-list-for-smart-campaign-trigger.md)
-   >    
-   >
-
+   >* [Define Smart List for Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Define Smart List for Smart Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)

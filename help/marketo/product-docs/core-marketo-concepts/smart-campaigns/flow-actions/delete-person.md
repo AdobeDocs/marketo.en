@@ -31,4 +31,3 @@ You can delete from Marketo and not from your CRM, like so:
 >[!NOTE]
 >
 >Removing the person from your CRM **only works with Salesforce**. If you delete a person from Marketo and choose to keep them in Salesforce, they will be recreated in Marketo if their Salesforce record ever gets updated.
-

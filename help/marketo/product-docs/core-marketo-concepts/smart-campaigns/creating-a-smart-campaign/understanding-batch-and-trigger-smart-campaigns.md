@@ -27,8 +27,7 @@ Clicking on the **Schedule** tab will confirm that the smart campaign is set to 
 **Batch Smart Campaigns**
 
 * Can be scheduled for recurrences, such as daily, weekly, and monthly. You can also have them run just once.
-* Are visible on the [program schedule view](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md).   
-  &#42;Note that anything after a "Wait" step within the smart campaign will not be included on the view.
+* Are visible on the [program schedule view](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md). Anything after a "Wait" step within the smart campaign will not be included on the view.
 
 <br>&nbsp;
 
@@ -53,11 +52,6 @@ Clicking on the **Schedule** tab will confirm that the smart campaign is set to 
 * Cannot be scheduled for recurrences. They can only be set to active or inactive.
 * You can set more than one trigger. However, if any trigger is fired the campaign actions will run.
 
-## Watch a Video on Creating Triggered Email Campaigns {#watch-a-video-on-creating-triggered-email-campaigns}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/6zNazwTgt2LNeCjPAt3W9K.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` 
-
 >[!TIP]
 >
->Use the [activity log](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) to see what occurred step-by-step within your smart campaigns. You can find the activity log in the last tab of a person's detail page.
-
+>Use the [activity log](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) to see what occurred step-by-step within your smart campaigns. You can find the activity log in the last tab of a person's detail page.
