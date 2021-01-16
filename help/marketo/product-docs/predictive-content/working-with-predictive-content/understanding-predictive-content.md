@@ -10,7 +10,7 @@ title: Understanding Predictive Content
 >
 >Depending on the purchase date, your Marketo subscription may include either Marketo Predictive Content or Content`<sup>AI</sup>`. For those using Predictive Content, Marketo is enabling Content`<sup>AI</sup>` Analytics features until April 30, 2018. To keep these features beyond that date, please contact your Marketo Customer Success Manager to upgrade to Marketo Content`<sup>AI</sup>`.
 
-After you [approve a title for predictive content](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), you work on it here. The Predictive Content page displays all of the titles you have approved for predictive content.
+After you [approve a title for predictive content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), you work on it here. The Predictive Content page displays all of the titles you have approved for predictive content.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 

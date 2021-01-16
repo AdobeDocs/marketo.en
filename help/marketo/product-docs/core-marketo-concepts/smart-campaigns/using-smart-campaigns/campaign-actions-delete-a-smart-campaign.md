@@ -12,7 +12,7 @@ If you have an old smart campaign that you don't need anymore, you can delete it
 >
 >Be sure before you delete. Once you delete a smart campaign it cannot be restored.
 
-1. Go to the **Marketing Activities** area. 
+1. Go to the **Marketing Activities** area.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -20,7 +20,7 @@ If you have an old smart campaign that you don't need anymore, you can delete it
 
    >[!TIP]
    >
-   >To cancel processing of an active smart campaign without deleting it altogether, learn how to  [abort a smart campaign](abort-a-smart-campaign.md).
+   >To cancel processing of an active smart campaign without deleting it altogether, learn how to [abort a smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
    ![](assets/image2014-9-22-16-3a41-3a55.png)
 
@@ -31,5 +31,3 @@ If you have an old smart campaign that you don't need anymore, you can delete it
    >[!CAUTION]
    >
    >Do **NOT** delete an active smart campaign with people in the flow steps. The campaign will likely still execute.
-
-Nice! 

@@ -24,4 +24,4 @@ Activating a trigger smart campaign is like turning it ON. Here's what to do.
    >
    >Be sure the campaign is ready before you click Activate!
 
-From this moment forward, anyone who qualifies for the smart list will go through the flow defined by your smart campaign. 
+From this moment forward, anyone who qualifies for the smart list will go through the flow defined by your smart campaign.

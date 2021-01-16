@@ -8,11 +8,11 @@ title: Schedule a Recurring Batch Campaign
 
 Recurrence allows you to run a batch smart campaign on a regular schedule. For example - once a week, Mondays at 12:00 PM.
 
-1. Select the campaign, go to the Schedule tab, and click Schedule Recurrence.
+1. Select the campaign, go to the Schedule tab, and click **Schedule Recurrence**.
 
    ![](assets/recurrencehands-sendemail.png)
 
-1. Click the Schedule drop-down and select Weekly.
+1. Click the Schedule drop-down and select **Weekly**.
 
    ![](assets/image2014-9-22-11-3a41-3a42.png)
 
@@ -24,7 +24,7 @@ Recurrence allows you to run a batch smart campaign on a regular schedule. For e
 
    ![](assets/image2014-9-22-11-3a41-3a49.png)
 
-1. Leave Repeat every as 1, select Monday and click Save.
+1. Leave Repeat every as 1, select Monday and click **Save**.
 
    ![](assets/image2014-9-22-11-3a41-3a53.png)
 
@@ -36,4 +36,4 @@ Recurrence allows you to run a batch smart campaign on a regular schedule. For e
 >
 >The Schedule tab will show the next three occurrences for reference.
 
-And that's it! Your batch campaign will now run every Monday at noon. 
+And that's it! Your batch campaign will now run every Monday at noon.

@@ -36,5 +36,5 @@ Adding competitors will allow you to track how they are performing for the same 
 
    >[!MORELIKETHIS]
    >
-   >* [Add Keywords](/help/marketo//product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
+   >* [Add Keywords](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
    >* [Understanding Keywords (Competitor View)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

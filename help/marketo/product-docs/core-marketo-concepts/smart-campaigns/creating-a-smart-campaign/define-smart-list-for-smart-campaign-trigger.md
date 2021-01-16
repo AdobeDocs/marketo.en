@@ -8,7 +8,7 @@ title: Define Smart List for Smart Campaign | Trigger
 
 Make a smart campaign run on one person at a time based on live events by adding triggers.
 
-1. In your smart campaign, click the **Smart List **tab.
+1. In your smart campaign, click the **Smart List** tab.
 
    ![](assets/image2014-9-19-16-3a22-3a55.png)
 
@@ -40,17 +40,8 @@ Make a smart campaign run on one person at a time based on live events by adding
    >
    >With multiple triggers, a person goes through the flow if **ANY** one of the triggers gets activated.
 
-   [Define Smart List for Smart Campaign | Batch](define-smart-list-for-smart-campaign-batch.md)
+To run the campaign on a set of people all at the same time, learn how to [Define Smart List for Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Define Smart List for Smart Campaign | Batch](define-smart-list-for-smart-campaign-batch.md)
-   >    * [Add a Flow Step to a Smart Campaign](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >    
-   >
-
-To run the campaign on a set of people all at the same time, learn how to . 
+   >[Add a Flow Step to a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)

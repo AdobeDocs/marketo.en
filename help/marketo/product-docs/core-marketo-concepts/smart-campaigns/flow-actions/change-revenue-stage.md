@@ -25,4 +25,3 @@ If you're using Revenue Cycle Modeler and have an approved model, you may decide
    >[!CAUTION]
    >
    >The data warehouse pays close attention to when leads move between stages. This can create bad data if used incorrectly.
-

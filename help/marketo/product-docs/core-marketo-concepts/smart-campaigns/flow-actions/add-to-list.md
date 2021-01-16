@@ -10,7 +10,7 @@ title: Add to List
 
 This flow step is used to add people to lists.
 
-![](assets/image2014-9-22-10-3a41-3a33.png)  
+![](assets/image2014-9-22-10-3a41-3a33.png)
 
 ## Usage {#usage}
 

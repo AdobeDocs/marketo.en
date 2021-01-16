@@ -22,23 +22,14 @@ Qualification rules control how many times someone can run through the flow in a
 
    >[!NOTE]
    >
-   >When you set a rule for once every day, Marketo converts that to hours. For example, if you set the rule for once per day, and a person qualifies at 10pm on a Sunday night, it can't qualify again until 10pm Monday night. This logic also applies when using weeks or months. A month is always counted as 30 days. 
+   >When you set a rule for once every day, Marketo converts that to hours. For example, if you set the rule for once per day, and a person qualifies at 10pm on a Sunday night, it can't qualify again until 10pm Monday night. This logic also applies when using weeks or months. A month is always counted as 30 days.
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >Communication limits are not applied to smart campaigns by default. Learn how to [apply communication limits to a smart campaign](apply-communication-limits-to-smart-campaign.md).
+   >Communication limits are not applied to smart campaigns by default. Learn how to [apply communication limits to a smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
 
    >[!NOTE]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Apply Communication Limits to Smart Campaigns](apply-communication-limits-to-smart-campaign.md)
-   >    
-   >
+   >[Apply Communication Limits to Smart Campaigns](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
-Mission accomplished! You now know how to control qualification rules in a smart campaign. 
+Mission accomplished! You now know how to control qualification rules in a smart campaign.

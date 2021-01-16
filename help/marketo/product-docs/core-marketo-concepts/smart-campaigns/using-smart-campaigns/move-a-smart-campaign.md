@@ -30,7 +30,7 @@ Smart campaigns can also be moved using the move feature in the tree.
 
 1. Right-click the smart campaign. Select **Move**.
 
-   ![](assets/rockclimbing2.jpg)  
+   ![](assets/rockclimbing2.jpg)
 
 1. Choose between moving to a **Program** or a **Folder**.
 
@@ -47,4 +47,3 @@ Smart campaigns can also be moved using the move feature in the tree.
    High five! This smart campaign has been moved.
 
    ![](assets/image2015-2-25-13-39-51-copy-281-29.png)
-

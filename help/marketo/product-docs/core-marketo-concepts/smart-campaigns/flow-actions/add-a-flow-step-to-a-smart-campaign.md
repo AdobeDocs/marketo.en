@@ -12,7 +12,7 @@ Flow steps tell Marketo what you want to have happen to a group of people that q
 
    ![](assets/login-marketing-activities.png)
 
-1.  Select your smart campaign and click **Flow**.
+1. Select your smart campaign and click **Flow**.
 
    ![](assets/image2014-9-19-16-3a27-3a1.png)
 
@@ -20,43 +20,25 @@ Flow steps tell Marketo what you want to have happen to a group of people that q
 
    ![](assets/image2014-9-19-16-3a27-3a7.png)
 
-   >[!NOTE]
-   >
-   >**Deep Dive**
-   >
-   >
-   >Learn more about the different  [flow steps](http://docs.marketo.com/display/DOCS/Flow+Actions).
-
 1. Click the drop-down and choose an appropriate option.
 
    ![](assets/four-1.png)
 
-   Enter the value.
+1. Enter the value.
 
    ![](assets/changescorevalue-cursor.png)
 
-   >[!NOTE]
-   >
-   >**Reminder**
-   >
-   >
-   >Flow steps are executed in the order in which they are listed.  [Reorder the flow steps](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) to ensure they're in the right sequence.
+>[!NOTE]
+>
+>Flow steps are executed in the order in which they are listed.  [Reorder the flow steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) to ensure they're in the right sequence.
 
-   >[!TIP]
-   >
-   >A red squiggly line appears in case of an invalid entry. Hover over the line to see how to correct it.
+>[!TIP]
+>
+>A red squiggly line appears in case of an invalid entry. Hover over the line to see how to correct it.
 
-   [review and validate the smart campaign](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md)
+Awesome! Be sure to [review and validate the smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) before you schedule or activate it.
 
-   >[!NOTE]
-   >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Use Add Choice in a Flow Step](use-add-choice-in-a-flow-step.md)
-   >    * [Reorder the Flow Steps in a Smart Campaign](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
-   >    
-   >
-
-Awesome! Be sure to  before you schedule or activate it. 
+>[!MORELIKETHIS]
+>
+>* [Use Add Choice in a Flow Step](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
+>* [Reorder the Flow Steps in a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)

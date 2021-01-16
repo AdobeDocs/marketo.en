@@ -10,7 +10,7 @@ title: Understanding Smart Campaigns
 
 If Marketo is a powerful car, the smart campaign is truly the engine. It's simple to get started but can do almost anything you ask of it.
 
-The smart campaign has 3 main areas: The [Smart List](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Flow](http://docs.marketo.com/display/DOCS/Flow+Actions) and [Schedule](using-smart-campaigns/schedule-a-recurring-batch-campaign.md) tabs.
+The smart campaign has 3 main areas: The [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md) tabs.
 
 ## Smart List {#smart-list}
 
@@ -46,10 +46,8 @@ The flow includes the steps you want the smart campaign to perform, including Wa
 
 Finally, this controls when you run your smart campaign. You can even set up recurrence so it runs on a repeating schedule.
 
-<br>&nbsp;
-
 There is an enormous amount of things the smart campaign can do. Get the hang of it and you'll find everything in Marketo becomes much simpler to understand.
 
 >[!MORELIKETHIS]
 >
->* [Create a New Smart Campaign](creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>[Create a New Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)

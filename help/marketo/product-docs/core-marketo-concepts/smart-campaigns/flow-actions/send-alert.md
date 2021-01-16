@@ -14,13 +14,11 @@ Marketo can send an email alert with person information to anyone - the sales ow
 
 ## Usage {#usage}
 
-1. Find and select the email you want to send. 
+1. Find and select the email you want to send.
 
     ![](assets/two-1.png)
 
     >[!NOTE]
-    >
-    >**Reminder**
     >
     >Your email alert must contain all of the header info and be in the **Approved** state.
 
@@ -29,8 +27,6 @@ Marketo can send an email alert with person information to anyone - the sales ow
     ![](assets/three-1.png)
 
     >[!NOTE]
-    >
-    >**Reminder**
     >
     >Be sure to use the **Send Alert Info** token in your email.
 
@@ -46,9 +42,8 @@ Marketo can send an email alert with person information to anyone - the sales ow
     >
     >In trigger campaigns, you can use tokens in **To Other Emails** such as `{{lead.Territory Owner}}` or `{{my.Alert Recipient}}` as long as the values are valid email addresses. Tokens in **To Other Emails** will not work in a batch campaign.
 
-That's it! Now you know how to use the **Send Alert** flow step. 
+That's it! Now you know how to use the **Send Alert** flow step.
 
 >[!MORELIKETHIS]
 >
->[Create an Email](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
+>[Create an Email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)

@@ -30,7 +30,4 @@ Find and select the smart campaign you want to remove people from.
 
 >[!NOTE]
 >
->**Reminder**
->
 >This functionality is meant to be used within the flow steps of a smart campaign.
-

@@ -10,8 +10,7 @@ There's an easy way to append data to a field. Here's how.
 
 >[!PREREQUISITES]
 >
->* [Create a Campaign](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
->
+>[Create a Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
 1. Under the **Flow** tab, drag in the **Change Data Value** flow step.
 
@@ -29,5 +28,4 @@ There's an easy way to append data to a field. Here's how.
 
    ![](assets/image2014-9-22-16-3a5-3a12.png)
 
-   That's it! You can get creative and add multiple tokens in there.
-
+That's it! You can get creative and add multiple tokens in there.

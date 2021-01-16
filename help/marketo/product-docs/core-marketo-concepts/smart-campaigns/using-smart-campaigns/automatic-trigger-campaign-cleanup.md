@@ -20,7 +20,7 @@ Of course! Once a quarter, you will receive a notification one week in advance s
 
    ![](assets/notifications.png)
 
-1. Click **Idle Trigger Campaign Cleanup Scheduled**. Then click the **These Idle Trigger Campaigns will be deactivated **link.** **
+1. Click **Idle Trigger Campaign Cleanup Scheduled**. Then click the **These Idle Trigger Campaigns will be deactivated** link.
 
    ![](assets/image2015-4-27-20-3a48-3a35.png)
 
@@ -45,11 +45,10 @@ Either will reset the 6-month counter.
 
 Absolutely - one week after the original notification, we will deactivate the listed campaigns (minus any that qualified at least one person or were deactivated/reactivated) and post a confirmation notification.
 
-1. Select the **Idle Trigger Campaign Cleanup Scheduled **notification. Click the **These Idle Trigger Campaigns** link. 
+1. Select the **Idle Trigger Campaign Cleanup Scheduled** notification. Click the **These Idle Trigger Campaigns** link.
 
    ![](assets/image2015-4-27-20-3a56-3a41.png)
 
 1. You will see a list of deactivated campaigns.
 
    ![](assets/image2015-4-27-20-3a58-3a38.png)
-
