@@ -12,7 +12,7 @@ Marketo has some very useful built-in smart lists. Let's check them out!
 >
 >Marketo is in the process of changing terms such as Blacklist and Whitelist to Blocklist and Allowlist in our product. During this update, you may see the old terms in our UI and documentation screenshots, and the new terms in our documentation text. We apologize for any confusion.
 
-1. Go to the** Database**.
+1. Go to the **Database**.
 
    ![](assets/db.png)
 
@@ -20,13 +20,15 @@ Marketo has some very useful built-in smart lists. Let's check them out!
 
    ![](assets/two.png)
 
-1. To see one example: Select **All People**, then click the **People** tab. 
+1. To see one example: Select **All People**, then click the **People** tab.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
    >The filters in system smart lists do not need to be applied to each smart list/campaign. Their contents are automatically recognized.
+
+Here's a summary of what the built-in smart lists do:
 
    | List Name |Description |
    |---|---|
@@ -37,14 +39,10 @@ Marketo has some very useful built-in smart lists. Let's check them out!
    | Bounced Email Addresses |People with an undeliverable email address or that reject your email. |
    | Possible Duplicates |People that might be duplicated in the Marketo database. |
 
-Here's a summary of what the built-in smart lists do: 
-
 >[!NOTE]
 >
 >System smart lists can't be deleted. With the exception of the Possible Duplicates list, they cannot be edited, either.
 
 >[!MORELIKETHIS]
 >
->* [Create a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->
-
+>[Create a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)

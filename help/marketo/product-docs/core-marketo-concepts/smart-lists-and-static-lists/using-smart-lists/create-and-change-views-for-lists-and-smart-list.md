@@ -6,24 +6,25 @@ title: Create and Change Views for Lists and Smart List
 
 # Create and Change Views for Lists and Smart List {#create-and-change-views-for-lists-and-smart-list}
 
-A smart list displays a default set of columns. Did you know you could edit those columns to your heart's content? Here's how. 
+A smart list displays a default set of columns. Did you know you could edit those columns to your heart's content? Here's how.
 
 ## Create a View {#create-a-view}
 
 1. Go to a list or smart list, click the **People** tab, and click **Create** **View** under the **View** drop-down.
-1. ![](assets/smartlist-createview.png)
 
-1. Name the view and find the column you want to add or remove. 
+   ![](assets/smartlist-createview.png)
+
+1. Name the view and find the column you want to add or remove.
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
-   Add/Remove your desired columns, then click Create.
+1. Add/Remove your desired columns, then click **Create**.
 
    ![](assets/image2014-9-12-11-3a24-3a7.png)
 
 >[!TIP]
 >
->To quickly search, use the **Find** box. 
+>To quickly search, use the **Find** box.
 
 ## Switch Views {#switch-views}
 
@@ -49,8 +50,6 @@ A smart list displays a default set of columns. Did you know you could edit thos
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
-  
-
 ## Delete a View {#delete-a-view}
 
 1. Select the **Edit** option for the view you want to delete from the **View** drop-down.
@@ -61,11 +60,9 @@ A smart list displays a default set of columns. Did you know you could edit thos
 
    ![](assets/image2014-9-12-11-3a27-3a39.png)
 
-Only you can see the custom views you create in the View drop-down, so tell your friends they need to create their own! 
+Only you can see the custom views you create in the View drop-down, so tell your friends they need to create their own!
 
 >[!MORELIKETHIS]
 >
->* [Use Built-in/System Smart Lists](use-built-in-system-smart-lists.md)
->* [Create a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->
-
+>* [Use Built-in/System Smart Lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
+>* [Create a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)

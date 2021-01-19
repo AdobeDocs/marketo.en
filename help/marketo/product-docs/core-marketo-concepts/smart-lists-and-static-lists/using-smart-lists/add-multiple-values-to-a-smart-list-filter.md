@@ -8,9 +8,8 @@ title: Add Multiple Values to a Smart List Filter
 
 >[!PREREQUISITES]
 >
->* [Create a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [Find and Add Filters to a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->
+>* [Create a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Find and Add Filters to a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 
 Let's say you want to find everyone in California, but you might be storing both **California** and **CA** in your Database. To include all applicable people, you could use two **State** filters, but it's easier with one.
 
@@ -22,7 +21,7 @@ Let's say you want to find everyone in California, but you might be storing both
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Click the **plus sign** on the filter. 
+1. Click the **+** on the filter.
 
    ![](assets/smartlist-plussignhand-.png)
 
@@ -30,13 +29,9 @@ Let's say you want to find everyone in California, but you might be storing both
 
    ![](assets/image2014-9-11-17-3a51-3a39.png)
 
-   Quick work!
+Quick work!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Add a Constraint to a Smart List Filter](add-a-constraint-to-a-smart-list-filter.md)
->* [Use Advanced Filters in a Smart List](using-advanced-smart-list-rule-logic.md)
->
-
+>* [Add a Constraint to a Smart List Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
+>* [Use Advanced Filters in a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)

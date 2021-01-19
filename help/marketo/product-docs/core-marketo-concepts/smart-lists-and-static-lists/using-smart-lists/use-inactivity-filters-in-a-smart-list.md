@@ -27,6 +27,3 @@ Did you know you can look for people in a Smart List who *didn't* do something? 
 1. Select the **is any** operator. This will find all the people who have not visited any page in the last 30 days.
 
    ![](assets/mysmartlist-people.jpg)
-
-   Wasn't that easy?
-

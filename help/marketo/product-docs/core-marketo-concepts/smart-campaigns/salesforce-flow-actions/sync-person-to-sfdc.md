@@ -35,4 +35,3 @@ This flow step will insert Marketo-created people as leads into your Salesforce 
    >[!CAUTION]
    >
    >Salesforce does not allow "Contacts" to be assigned to lead queues. In this case Marketo will create a duplicate "Lead" in Salesforce.
-

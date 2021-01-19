@@ -29,4 +29,3 @@ If you need to remove a specific set of leads from Salesforce but leave them as 
    >[!CAUTION]
    >
    >If you set **Delete in Marketo** to **true** and delete the people from Marketo and the leads from Salesforce, they are gone forever. This can't be undone.
-

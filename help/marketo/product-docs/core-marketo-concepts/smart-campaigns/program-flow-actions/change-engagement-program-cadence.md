@@ -26,5 +26,4 @@ title: Change Engagement Program Cadence
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   You can set the person back to **Normal** if you want them to begin receiving content again.
-
+  You can set the person back to **Normal** if you want them to begin receiving content again.

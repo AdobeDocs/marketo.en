@@ -10,14 +10,13 @@ If you want to run a one-time only flow step, you can use a single flow step wit
 
 >[!PREREQUISITES]
 >
->* [Create a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->
+>[Create a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Go to **Marketing Activities**. 
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Select a list or smart list with people in it, then go to the **People** tab. 
+1. Select a list or smart list with people in it, then go to the **People** tab.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -25,7 +24,7 @@ If you want to run a one-time only flow step, you can use a single flow step wit
    >
    >Both static lists as well as smart lists have this functionality.
 
-1. Click **Select All**. You can also use** Ctrl/Cmd** and click to select a few records manually.
+1. Click **Select All**. You can also use **Ctrl/Cmd** and click to select a few records manually.
 
    ![](assets/smartlist-selectallhand.png)
 
@@ -33,7 +32,7 @@ If you want to run a one-time only flow step, you can use a single flow step wit
    >
    >If the results span over multiple pages, clicking **Select All** will select all people across all pages.
 
-1. Under **Person** **Actions**, select the flow step of your choice. In this example we will use [Change Data Value](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+1. Under **Person** **Actions**, select the flow step of your choice. In this example we will use [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
@@ -45,7 +44,7 @@ If you want to run a one-time only flow step, you can use a single flow step wit
 
    ![](assets/runactionnewvalue-hands.png)
 
-1. If you're changing data values for a large number of people, you may need to confirm the change by typing in the number. Click **Go For It**. 
+1. If you're changing data values for a large number of people, you may need to confirm the change by typing in the number. Click **Go For It**.
 
    ![](assets/changedatavalue.jpg)
 

@@ -13,7 +13,8 @@ Smart lists allow you to find specific groups of people using simple filters. He
    ![](assets/login-marketing-activities.png)
 
 1. Select the program you want to create the smart list in.
-1. ![This is a test](assets/image2014-8-11-10-3a17-3a8.png)
+
+   ![](assets/image2014-8-11-10-3a17-3a8.png)
 
 1. Under **New**, click **New Local Asset**.
 
@@ -27,14 +28,8 @@ Smart lists allow you to find specific groups of people using simple filters. He
 
    ![](assets/image2014-9-9-16-3a27-3a39.png)
 
-   >[!NOTE]
-   >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Find and Add Filters to a Smart List](find-and-add-filters-to-a-smart-list.md)
-   >    
-   >
+   Ta-da, great job! Now let's add and define some filters.
 
-Ta-da, great job! Now let's add and define some filters. 
+   >[!MORELIKETHIS]
+   >
+   >[Find and Add Filters to a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)

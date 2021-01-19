@@ -6,7 +6,7 @@ title: Inferred Filters
 
 # Inferred Filters {#inferred-filters}
 
-When someone visits your website, [Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies them and puts them into the system. We look up their IP in a special database and infer all kinds of good info. Check it out.
+When someone visits your website, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies them and puts them into the system. We look up their IP in a special database and infer all kinds of good info. Check it out.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -28,13 +28,9 @@ When you use any of these filters in a smart list, the results will yield people
 >
 >* Visited Web Page - Last 24 hours
 >* Inferred State is [select their territory]
->
 
-These anonymous visitors are automatically converted into people when they click on an email link or fill out a form. However, they keep all of the inferred information. 
+These anonymous visitors are automatically converted into people when they click on an email link or fill out a form. However, they keep all of the inferred information.
 
 >[!NOTE]
 >
->**Deep Dive**
->
->Learn more about [anonymous activity and leads](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
-
+>Learn more about [anonymous activity and leads](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).

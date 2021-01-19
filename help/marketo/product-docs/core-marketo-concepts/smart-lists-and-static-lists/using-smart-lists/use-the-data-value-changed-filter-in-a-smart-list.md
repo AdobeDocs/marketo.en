@@ -10,10 +10,9 @@ Values are constantly changing and being updated in your Marketo database. Somet
 
 >[!PREREQUISITES]
 >
->* [Create a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->
+>[Create a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Go to the **Marketing Activities **area.
+1. Go to the **Marketing Activities** area.
 
    ![](assets/ma.png)
 
@@ -29,12 +28,4 @@ Values are constantly changing and being updated in your Marketo database. Somet
 
    ![](assets/four.png)
 
-This filter will look for all people that had a change (any change) to their Status. If you want to get even fancier, try [adding a constraint to a smart list filter](add-a-constraint-to-a-smart-list-filter.md).
-
->[!NOTE]
->
->**Related Articles**
->
->* [Add a Constraint to a Smart List Filter](add-a-constraint-to-a-smart-list-filter.md)
->
-
+This filter will look for all people that had a change (any change) to their Status. If you want to get even fancier, try [adding a constraint to a smart list filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md).

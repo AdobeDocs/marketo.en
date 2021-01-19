@@ -10,7 +10,7 @@ title: Change Program Success
 
 If you ever have a group of people that are marked with Program Success accidentally, you can use this flow step to set success to true or false.
 
-![](assets/image2014-9-22-14-3a45-3a8.png)  
+![](assets/image2014-9-22-14-3a45-3a8.png)
 
 ## Usage {#usage}
 
@@ -22,7 +22,7 @@ If you ever have a group of people that are marked with Program Success accident
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. Select **Success** or** Success Date** as the Attribute.
+1. Select **Success** or **Success Date** as the Attribute.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
@@ -38,4 +38,4 @@ If you ever have a group of people that are marked with Program Success accident
    >
    >You can use the flow step twice to set both the Success flag as well as the date.
 
-Great! Now you know how to undo and force success. 
+Great! Now you know how to undo and force success.

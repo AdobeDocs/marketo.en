@@ -23,4 +23,3 @@ If you have existing people that are already assigned to an owner, you can use t
    >[!NOTE]
    >
    >If the record does not yet exist in your Dynamics account, we will sync it over, then assign it to the selected user.
-

@@ -14,13 +14,17 @@ Create Task in Microsoft creates a task under Activities related with the Person
 >
 >This flow step will **only work when used with triggers**, not filters, in your smart campaign.
 
-By default, the flow step will look like this:   ![](assets/msd1.png)
+By default, the flow step will look like this:
+
+![](assets/msd1.png)
 
 >[!NOTE]
 >
->When the Marketo Sync User is creating tasks, **Due In **is a required field for the task to be created in Microsoft. Marketo will input five days by default if no value is entered.
+>When the Marketo Sync User is creating tasks, **Due In** is a required field for the task to be created in Microsoft. Marketo will input five days by default if no value is entered.
 
-Customize all fields to create the task the way you want it.   ![](assets/msd2.png)
+Customize all fields to create the task the way you want it.
+
+![](assets/msd2.png)
 
 >[!NOTE]
 >
@@ -28,5 +32,4 @@ Customize all fields to create the task the way you want it.   ![](assets/msd2.p
 
 >[!TIP]
 >
->You can use `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` and `{{system.tokens}}` in the **Subject** and **Description**. See [Tokens for Flow Steps](http://docs.marketo.com/x/c4AR) for more details.
-
+>You can use `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` and `{{system.tokens}}` in the **Subject** and **Description**. See [Tokens for Flow Steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) for more details.
