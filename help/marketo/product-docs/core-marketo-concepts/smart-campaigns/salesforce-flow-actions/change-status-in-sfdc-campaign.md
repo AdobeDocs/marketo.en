@@ -24,7 +24,6 @@ If a lead does not exist in Salesforce or is not a member of the campaign yet, i
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. Then select the **New** **Status** you want to set and you're done!
+1. Then select the **New Status** you want to set and you're done!
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
-

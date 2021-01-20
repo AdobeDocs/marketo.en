@@ -25,4 +25,3 @@ The smart campaign that you build with this flow step will be the gateway to you
    >[!NOTE]
    >
    >You cannot add a person to multiple streams within the same program.
-

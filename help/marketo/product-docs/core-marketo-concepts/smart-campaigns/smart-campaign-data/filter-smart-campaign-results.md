@@ -8,8 +8,7 @@ title: Filter Smart Campaign Results
 
 >[!PREREQUISITES]
 >
->* [View Smart Campaign Results](view-smart-campaign-results.md)
->
+>[View Smart Campaign Results](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
 
 Filter smart campaign results to see specific activities that matter to you.
 
@@ -41,9 +40,8 @@ Filter smart campaign results to see specific activities that matter to you.
 
    ![](assets/saveasfilter-hands.png)
 
-1. The custom filter will be applied to your results and is now available in the drop-down. (You may have to refresh the page to see it in the drop-down.)
+1. The custom filter will be applied to your results and is now available in the drop-down (you may have to refresh the page to see it in the drop-down.)
 
    ![](assets/customfilter-hands.png)
 
    Isn't that cool? Your custom filter is now available for use in all activity logs.
-

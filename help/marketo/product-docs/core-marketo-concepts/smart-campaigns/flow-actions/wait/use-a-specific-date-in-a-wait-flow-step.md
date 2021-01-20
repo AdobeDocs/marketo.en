@@ -12,24 +12,23 @@ You can use the **Wait** flow step to pause a person's journey through a smart c
 
    ![](assets/image2014-9-22-11-3a50-3a55.png)
 
-   Click the gear icon to the right.
+1. Click the gear icon to the right.
 
    ![](assets/image2014-9-22-11-3a50-3a59.png)
 
-   From the Type drop-down, select Date. 
+1. From the **Type** drop-down, select **Date**.
 
    ![](assets/image2014-9-22-11-3a51-3a27.png)
 
-   Select the specific date when you want to resume.
+1. Select the specific date when you want to resume.
 
    ![](assets/image2014-9-22-11-3a51-3a20.png)
 
-   Specify the time (optional) and click Save.
+1. Specify the time (optional) and click **Save**.
+
    ![](assets/image2014-9-22-11-3a51-3a13.png)
 
 >[!MORELIKETHIS]
 >
->* [Use a Duration in a Wait Flow Step](use-a-duration-in-a-wait-flow-step.md)
->* [Use a Date Token in a Wait Flow Step](use-a-date-token-in-a-wait-flow-step.md)
->
-
+>* [Use a Duration in a Wait Flow Step](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
+>* [Use a Date Token in a Wait Flow Step](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)

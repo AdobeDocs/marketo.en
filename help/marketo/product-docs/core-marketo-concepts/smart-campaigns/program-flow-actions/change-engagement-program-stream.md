@@ -8,7 +8,7 @@ title: Change Engagement Program Stream
 
 ## Overview {#overview}
 
-Normally you would use [stream transition rules](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) to achieve this, but if you want to manually move people from one stream to another, this is the flow step to use.
+Normally you would use [stream transition rules](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) to achieve this, but if you want to manually move people from one stream to another, this is the flow step to use.
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 
@@ -22,9 +22,8 @@ Normally you would use [stream transition rules](../../../../product-docs/email-
 
    ![](assets/image2014-9-22-14-3a52-3a50.png)
 
-1. Then select the stream you want to add your people to.
+1. Select the stream you want to add your people to.
 
    ![](assets/image2014-9-22-14-3a52-3a59.png)
 
-   And that's it!
-
+And that's it!

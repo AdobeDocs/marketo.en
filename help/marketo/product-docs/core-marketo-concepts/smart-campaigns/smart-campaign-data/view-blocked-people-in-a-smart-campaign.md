@@ -18,7 +18,7 @@ Blocked people in the Marketo database are marked blocklisted, unsubscribed, mar
 
    >[!NOTE]
    >
-   >People who have reached their communication limits may also be blocked from receiving mails. Learn how to [edit communication limits](../../../../product-docs/administration/email-setup/enable-communication-limits.md) in the Admin section.
+   >People who have reached their communication limits may also be blocked from receiving mails. Learn how to [edit communication limits](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) in the Admin section.
 
    The Blocked People tab shows people who might not receive mailings.
 
@@ -28,17 +28,11 @@ Blocked people in the Marketo database are marked blocklisted, unsubscribed, mar
    >
    >Operational emails will be sent to people marked unsubscribed and marketing suspended.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Edit Qualification Rules](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
-   >    * [Enable Communication Limits](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
-   >    * [View Smart Campaign Members](view-smart-campaign-members.md)
-   >    * [View Qualified People in a Smart Campaign](view-qualified-people-in-a-smart-campaign.md)
-   >    
-   >
+   >* [Edit Qualification Rules](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
+   >* [Enable Communication Limits](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
+   >* [View Smart Campaign Members](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+   >* [View Qualified People in a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
 
-There you go! Now you can be aware of who might not be receiving the mailings. 
+There you go! Now you can be aware of who might not be receiving the mailings.

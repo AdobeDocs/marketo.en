@@ -17,4 +17,3 @@ Export your smart campaign results to Excel for use outside of Marketo.
    >[!NOTE]
    >
    >The export is limited to 20,000 rows. The Excel file is saved in your browser's default downloads folder.
-

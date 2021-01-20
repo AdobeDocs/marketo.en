@@ -24,6 +24,4 @@ If you've run a smart list and a few minutes have passed, the results could be d
 
 >[!MORELIKETHIS]
 >
->* [Export People to Excel from a List or Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
->
-
+>[Export People to Excel from a List or Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)

@@ -34,7 +34,7 @@ Lists and smart lists can be shared and referenced across workspaces for easy re
 
    ![](assets/four-3.png)
 
-1. Choose a **Workspace **to share with. Select **Save**.
+1. Choose a **Workspace** to share with. Select **Save**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
@@ -43,4 +43,3 @@ Lists and smart lists can be shared and referenced across workspaces for easy re
    >[!NOTE]
    >
    >In Marketing Activities, you can only share top-level folders. In Database, you can share top-level folders as well as one level down.
-

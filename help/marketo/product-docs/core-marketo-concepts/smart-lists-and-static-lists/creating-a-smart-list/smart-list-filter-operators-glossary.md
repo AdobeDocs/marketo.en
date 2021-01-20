@@ -6,7 +6,8 @@ title: Smart List Filter Operators Glossary
 
 # Smart List Filter Operators Glossary {#smart-list-filter-operators-glossary}
 
-An operator is a part of the [smart list](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) that helps you get specific. It lets you describe your filter or trigger in straightforward language. The available operators are different for each type of field.   
+An operator is a part of the smart list that helps you get specific. It lets you describe your filter or trigger in straightforward language. The available operators are different for each type of field.
+
 Here's a glossary describing each set of operators.
 
 ## Date Fields {#date-fields}
@@ -44,7 +45,7 @@ Just type the number and unit together and it'll work!
 
 >[!NOTE]
 >
->In past **does** include the day (up until the time, not after) you create your smart list.
+>"In past" **does** include the day (up until the time, not after) you create your smart list.
 
 >[!CAUTION]
 >
@@ -95,7 +96,7 @@ Use the following diagram to understand the difference between the date operator
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">Operator</th> 
-   <th colspan="1" rowspan="1"><p>Description</p></th> 
+   <th colspan="1" rowspan="1">Description</th> 
   </tr> 
  </thead> 
  <tbody> 

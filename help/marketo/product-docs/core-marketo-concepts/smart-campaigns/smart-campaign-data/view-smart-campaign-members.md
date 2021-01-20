@@ -8,11 +8,11 @@ title: View Smart Campaign Members
 
 View people who have already run through the smart campaign flow; i.e., smart campaign members.
 
-1. Go to Marketing Activities.
+1. Go to **Marketing Activities**.
 
 ![](assets/login-marketing-activities.png)
 
-1. In your smart campaign, click View Campaign Members .
+1. In your smart campaign, click **View Campaign Members**.
 
    ![](assets/changescore-hands.png)
 
@@ -28,20 +28,6 @@ View people who have already run through the smart campaign flow; i.e., smart ca
    >
    >The Campaign Members list will initially be empty when the smart campaign has not run on any people.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Deep Dive**
-   >
-   >
-   >Learn more about what you can do with  [lists](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
-
-   >[!NOTE]
-   >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [View Blocked People in a Smart Campaign](view-blocked-people-in-a-smart-campaign.md)
-   >    
-   >
-
+   >[View Blocked People in a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)

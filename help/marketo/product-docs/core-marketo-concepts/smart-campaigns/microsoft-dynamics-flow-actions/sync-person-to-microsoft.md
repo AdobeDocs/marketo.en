@@ -23,4 +23,3 @@ You can set a Dynamics user as the person owner.
 >[!NOTE]
 >
 >When using the “Sync Person to Microsoft” flow action (in a trigger campaign only), the lead/contact will be created in real-time in Dynamics.
-

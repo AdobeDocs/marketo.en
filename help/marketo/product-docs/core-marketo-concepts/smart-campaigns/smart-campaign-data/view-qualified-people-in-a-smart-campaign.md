@@ -26,14 +26,12 @@ View people who qualify to go through the flow when you run a smart campaign.
 
    >[!NOTE]
    >
-   >The number of qualified people also depends on the smart campaign qualification rules. Learn how to [edit qualification rules](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
+   >The number of qualified people also depends on the smart campaign qualification rules. Learn how to [edit qualification rules](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
 
-Sweet! You can use this list to check which people might go through the flow before you run a smart campaign. 
+Sweet! You can use this list to check which people might go through the flow before you run a smart campaign.
 
 >[!MORELIKETHIS]
 >
->* [View Smart Campaign Members](view-smart-campaign-members.md)
->* [View Blocked People in a Smart Campaign](view-blocked-people-in-a-smart-campaign.md)
->* [Add a Flow Step to a Smart Campaign](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
->
-
+>* [View Smart Campaign Members](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+>* [View Blocked People in a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
+>* [Add a Flow Step to a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)

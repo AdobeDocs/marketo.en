@@ -73,4 +73,3 @@ For example, you could use this Smart List to trigger when any lead is added to 
 To trigger off your opportunity custom fields, use the **Opportunity is Updated** trigger and pick the field in the pulldown:
 
 ![](assets/image2015-6-11-12-3a33-3a34.png)
-

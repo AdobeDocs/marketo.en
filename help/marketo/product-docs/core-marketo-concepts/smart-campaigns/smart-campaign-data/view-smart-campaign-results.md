@@ -12,13 +12,13 @@ Want to see a breakdown of everything that happened in a smart campaign? It's ea
 
    >[!TIP]
    >
-   >You can see the list of people who were processed by the smart campaign by clicking  [View Campaign Members](view-smart-campaign-members.md).
+   >You can see the list of people who were processed by the smart campaign by clicking [View Campaign Members](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md).
 
    ![](assets/image2014-9-22-11-38-10.jpg)
 
    >[!TIP]
    >
-   >You can also filter the results based on activity type. Learn how to  [filter smart campaign results](filter-smart-campaign-results.md).
+   >You can also filter the results based on activity type. Learn how to [filter smart campaign results](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md).
 
 1. Click an **ID** to view more detail about that particular activity.
 
@@ -28,17 +28,8 @@ Want to see a breakdown of everything that happened in a smart campaign? It's ea
    >
    >View person details by clicking the person's name.
 
-   [export smart campaign results to Excel](export-smart-campaign-results-to-excel.md)
+   Dig into the results to see what your campaign actually did, or simply [export smart campaign results to Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Filter Smart Campaign Results](filter-smart-campaign-results.md)
-   >    * [Export Smart Campaign Results to Excel](export-smart-campaign-results-to-excel.md)
-   >    
-   >
-
-Dig into the results to see what your campaign actually did, or simply . 
+   >[Filter Smart Campaign Results](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
