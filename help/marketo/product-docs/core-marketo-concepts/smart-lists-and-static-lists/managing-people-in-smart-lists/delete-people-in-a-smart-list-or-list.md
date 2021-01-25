@@ -10,10 +10,9 @@ You can quickly and easily delete some/all people that are in a list or a smart 
 
 >[!PREREQUISITES]
 >
->* [Create a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->
+>[Create a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/ma-1.png)
 
@@ -25,19 +24,19 @@ You can quickly and easily delete some/all people that are in a list or a smart 
    >
    >When you delete a person, you are not just removing them from the list - they will be completely removed from the database.
 
-1. Click **Select** **All**. You can also hand pick a few records by using Ctrl/Cmd and clicking.
+1. Click **Select All**. You can also hand pick a few records by using Ctrl/Cmd and clicking.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >If the results span over multiple pages, clicking **Select** **All** will select all people across all pages.
+   >If the results span over multiple pages, clicking **Select All** will select all people across all pages.
 
-1. To completely remove the people from Marketo, click **Delete** **Person**.
+1. To completely remove the people from Marketo, click **Delete Person**.
 
    ![](assets/four-1.png)
 
-1. Set **Remove** **from** **CRM** to **true** if you want to delete the records from your CRM as well.
+1. Set **Remove from CRM** to **true** if you want to delete the records from your CRM as well.
 
    ![](assets/five.png)
 
@@ -49,7 +48,7 @@ You can quickly and easily delete some/all people that are in a list or a smart 
    >
    >If your Marketo is not tied to your CRM the option is grayed out like in the screenshot.
 
-1. Click **Run** **Now**.
+1. Click **Run Now**.
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
@@ -62,4 +61,3 @@ You can quickly and easily delete some/all people that are in a list or a smart 
    >To view the results of the mass deletion, click **View Results** in the Single Flow Action pop-up box in the upper-right corner of the screen. Deletion times can vary greatly, depending on multiple factors.
 
    This is a great feature, just be really careful when using it!
-

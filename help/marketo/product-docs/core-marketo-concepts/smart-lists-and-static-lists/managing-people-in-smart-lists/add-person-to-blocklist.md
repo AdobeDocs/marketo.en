@@ -12,7 +12,8 @@ Adding people to your Blocklist prevents them from receiving your correspondence
 >
 >Marketo is in the process of changing terms such as Blacklist and Whitelist to Blocklist and Allowlist in our product. During this update, you may see the old terms in our UI and documentation screenshots, and the new terms in our documentation text. We apologize for any confusion.
 
-1. [Create a new default program](../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) and name it **Add to Blocklist**.
+1. [Create a new default program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) and name it **Add to Blocklist**.
+
 1. Click **New** and select **New Local Asset**.
 
    ![](assets/image2015-8-14-11-3a0-3a46.png)
@@ -65,5 +66,4 @@ Adding people to your Blocklist prevents them from receiving your correspondence
 
    >[!TIP]
    >
-   >Create a [trigger smart campaign](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) using **Change Data Value** with **Block Listed is true** for all people in the future that have blocklist-able attributes.
-
+   >Create a [trigger smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) using **Change Data Value** with **Block Listed is true** for all people in the future that have blocklist-able attributes.

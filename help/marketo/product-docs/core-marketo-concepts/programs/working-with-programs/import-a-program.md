@@ -14,16 +14,15 @@ A program can be imported from one Marketo subscription to another. For instance
 
    ![](assets/ma.png)
 
-1. Click **New **drop down. Select **Import Program**.
+1. Click **New** drop down. Select **Import Program**.
 
    ![](assets/image2014-9-17-12-3a15-3a4.png)
 
    >[!NOTE]
    >
-   >Program Import is only available for users that have roles with Import Program permission enabled. Learn more about [managing user roles and permissions](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >Program Import is only available for users that have roles with Import Program permission enabled. Learn more about [managing user roles and permissions](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
-   >
-   >To connect a sandbox account to your live subscription, contact [Marketo Support](http://www.marketo.com/services/support/).
+   >To connect a sandbox account to your live subscription, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Select a Marketo **Subscription** and a program to import. Click **Next**.
 
@@ -35,7 +34,7 @@ A program can be imported from one Marketo subscription to another. For instance
 
    >[!NOTE]
    >
-   >Make sure** ****Use default conflict** rules is selected. Conflict rules are needed when you import programs into an instance that have assets of the same name.
+   >Make sure **Use default conflict** rules is selected. Conflict rules are needed when you import programs into an instance that have assets of the same name.
 
 1. Preview details and **Import** the program.
 
@@ -70,7 +69,7 @@ The Marketo Program Library contains pre-built, tested programs that you can imp
 1. **Sync New People to CRM.** The campaign which syncs new people to your CRM system. It assigns a person status such that it is recognized as not being sales-ready.
 1. **Webinar with Event Adapter.** A full set of emails - such as invites and reminders - plus landing pages with forms and campaigns for moving people through the program. This program gets updates about registration, attendance, etc. from online events providers such as WebEx.
 1. **Webinar without Event Adapter.** Same as above, but with manual processes for recording registration, attendance, etc.
-1. **Sirius Decisions Scoring Program**. This program is built to support the standard Sirius Decisions Scoring Model, including the implicit and explicit scoring rules and matrixed person assignment. View [this PDF](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)for details.
+1. **Sirius Decisions Scoring Program**. This program is built to support the standard Sirius Decisions Scoring Model, including the implicit and explicit scoring rules and matrixed person assignment.
 
 >[!CAUTION]
 >
@@ -80,24 +79,20 @@ The Marketo Program Library contains pre-built, tested programs that you can imp
 
 Programs use external assets like email templates, landing page templates, images, forms, tokens, and program tags. You have the ability to configure how landing page templates and program tags are handled, and Marketo automatically manages the rest.
 
-**Email Templates: **Email templates are automatically imported and created unless one with the same name exists.
+**Email Templates:** Email templates are automatically imported and created unless one with the same name exists.
 
-**Landing Page Templates: **Landing page templates are imported into the design studio. You can use conflict rules to configure behavior when a template with the same name exists. Using the default rule, a number will be appended to a landing page template if one with the same name exists. For example, a landing page template named Standard Template 1 will be created if one named Standard Template exists.
+**Landing Page Templates:** Landing page templates are imported into the design studio. You can use conflict rules to configure behavior when a template with the same name exists. Using the default rule, a number will be appended to a landing page template if one with the same name exists. For example, a landing page template named Standard Template 1 will be created if one named Standard Template exists.
 
-**Images: **Images used by landing pages are imported into the design studio unless one with the same name exists.
+**Images:** Images used by landing pages are imported into the design studio unless one with the same name exists.
 
-**Tokens: **Tokens that live outside of a program will be converted to local tokens during the import process.
-
->[!CAUTION]
->
->Image type my tokens are not supported for program imports. If a program that has image type my tokens is imported, **no **tokens will come through.
-
-**Program Tags: **You can use conflict rules to control how program tags that do not exist in the destination account will be treated. Using the default rule will create the program tags, or you can choose to ignore the tags.  **Forms: **External forms will automatically be imported into the design studio unless one with the same name exists.
+**Tokens:** Tokens that live outside of a program will be converted to local tokens during the import process.
 
 >[!CAUTION]
 >
->When importing a program, landing pages/emails that contain [dynamic content](http://docs.marketo.com/x/yRAt) will be skipped.
+>Image type my tokens are not supported for program imports. If a program that has image type my tokens is imported, **no** tokens will come through.
 
-## Watch a Video {#watch-a-video}
+**Program Tags:** You can use conflict rules to control how program tags that do not exist in the destination account will be treated. Using the default rule will create the program tags, or you can choose to ignore the tags. **Forms:** External forms will automatically be imported into the design studio unless one with the same name exists.
 
-`<iframe width="630" height="470" src="//play.vidyard.com/KgvZssZ9WRkZgDsY1yZfms.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`  
+>[!CAUTION]
+>
+>When importing a program, landing pages/emails that contain [dynamic content](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) will be skipped.

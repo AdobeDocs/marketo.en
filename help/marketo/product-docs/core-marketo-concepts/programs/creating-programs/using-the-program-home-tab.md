@@ -20,13 +20,13 @@ The program home tab gives you a high-level view of what's going on in your prog
 
    >[!NOTE]
    >
-   >This is your default view. It provides information about your Settings, Schedule, Results, and Members Program Status. 
+   >This is your default view. It provides information about your Settings, Schedule, Results, and Members Program Status.
 
-   Click underlined elements to make changes or view more information.
+1. Click underlined elements to make changes or view more information.
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-   Click Export at the bottom of the Summary to download report.
+1. Click **Export** at the bottom of the Summary to download report.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
@@ -62,13 +62,6 @@ The program home tab gives you a high-level view of what's going on in your prog
    >
    >**Historical** signifies anyone who ever went through the program, while **Current** only includes people currently in the program.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Understanding Program Membership](understanding-program-membership.md)
-   >    
-   >
-
+   >[Understanding Program Membership](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)

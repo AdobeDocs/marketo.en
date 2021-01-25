@@ -8,7 +8,7 @@ title: Use Members of List in a Smart List
 
 >[!TIP]
 >
->You can add people to a list using [Import](../../../../getting-started/quick-wins/import-a-list-of-people.md) or the [Add to List flow step](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
+>You can add people to a list using [Import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) or the [Add to List flow step](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
 
 With this filter, you can pull members from another list by referring to it in your smart list rules. Here's how.
 
@@ -24,5 +24,4 @@ With this filter, you can pull members from another list by referring to it in y
 
    ![](assets/memberoflist.png)
 
-   **Done!** In this example, the smart list will now target only members of that list and evaluate them based on any other rules you include.
-
+   Done! In this example, the smart list will now target only members of that list and evaluate them based on any other rules you include.

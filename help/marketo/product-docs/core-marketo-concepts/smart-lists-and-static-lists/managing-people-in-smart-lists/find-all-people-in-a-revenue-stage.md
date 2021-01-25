@@ -8,12 +8,11 @@ title: Find All People in a Revenue Stage
 
 >[!PREREQUISITES]
 >
->* [Create a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->
+>[Create a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 ## Find All Members of a Specific Revenue Stage {#find-all-members-of-a-specific-revenue-stage}
 
-1. In a smart list, click the **Smart List **tab, find the **Revenue Stage** filter, and drag it into the canvas.
+1. In a smart list, click the **Smart List** tab, find the **Revenue Stage** filter, and drag it into the canvas.
 
    ![](assets/draginrevenuefilter.png)
 
@@ -34,4 +33,3 @@ Now that you know which people are in which revenue stages, you can market direc
    ![](assets/six.png)
 
    From there you can choose which members are affected by which aspect of the flow step. Fun!
-

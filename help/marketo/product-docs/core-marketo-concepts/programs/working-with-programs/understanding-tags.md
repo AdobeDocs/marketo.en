@@ -16,16 +16,15 @@ Tag types identify the kind of information you want to sort by.
 
 >[!TIP]
 >
->Talk to your [Marketo Admin](http://docs.marketo.com/display/DOCS/Create+Custom+Tags) if you'd like to create custom tags.
+>Talk to your [Marketo Admin](/help/marketo/product-docs/administration/tags/create-custom-tags.md) if you'd like to create custom tags.
 
 >[!NOTE]
 >
 >**Example**
 >
 >* Tag Type = Program Owner
->
 
-![](assets/image2014-9-17-15-3a12-3a46.png) 
+![](assets/image2014-9-17-15-3a12-3a46.png)
 
 ## Tag Value {#tag-value}
 
@@ -36,29 +35,24 @@ Each tag type will have values to choose from.
 >**Example**
 >
 >* Tag Values = Anna, Arun, Reza
->
 
-![](assets/image2014-9-17-15-3a16-3a8.png)  
+![](assets/image2014-9-17-15-3a16-3a8.png)
 
 ## Channel {#channel}
 
-Channels are used to report on how your [members](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) moved through your program. Each channel has a set of progression statuses and one status that is set to equal success.
+Channels are used to report on how your [members](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) moved through your program. Each channel has a set of progression statuses and one status that is set to equal success.
 
 >[!NOTE]
 >
 >**Example**
 >
 >* Channel = Roadshow
->
 >* Progression status = Invited, Registered, Attended, No Show
 >* Success = Attended
->
 
 ![](assets/image2015-2-5-16-3a57-3a59.png)
 
 >[!MORELIKETHIS]
 >
->* [Create Custom Tags](../../../../product-docs/administration/tags/create-custom-tags.md)
->* [Create a Program Channel](../../../../product-docs/administration/tags/create-a-program-channel.md)
->
-
+>* [Create Custom Tags](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
+>* [Create a Program Channel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)

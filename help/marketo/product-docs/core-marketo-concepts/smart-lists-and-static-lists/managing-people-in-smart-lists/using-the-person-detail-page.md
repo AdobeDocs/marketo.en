@@ -10,18 +10,14 @@ The person detail page contains all the information Marketo knows about a person
 
 ## Getting to Person Detail Page {#getting-to-person-detail-page}
 
-There are lots of ways to open specific people. Some examples are listed below.
+There are lots of ways to open specific people. Some examples are:
 
->[!NOTE]
->
->**Example**
->
->* From the **Database**, you can search in the Quick Find
->* Any smart **list** or list
->* **Members** tab of a program
->* **View Campaign Members** in a Smart Campaign
->* Some **reports**
->
+* From the **Database**, you can search in the Quick Find
+* Any smart **list** or list
+* **Members** tab of a program
+* **View Campaign Members** in a Smart Campaign
+* Some **reports**
+<br>&nbsp;
 
 1. Either double-click on any person or single-click the ID on the left.
 
@@ -86,19 +82,15 @@ Many fields are editable. To update a person's information, type in a new value 
 
 >[!NOTE]
 >
->**Deep Dive**
->
->Some fields are *not* editable:
+>Some fields are _not_ editable:
 >
 >* Company Information
 >* Opportunities for SFDC Contacts
 >* Certain Marketo-specific fields, such as Created Date and Original Source Type.
 >* Activity Log
 >
->Learn more about [System Managed Fields](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
+>Learn more about [System Managed Fields](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >
->* [Creating a Custom Tab for the Person Detail Page](../../../../product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
->
-
+>[Creating a Custom Tab for the Person Detail Page](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
