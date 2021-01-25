@@ -10,18 +10,17 @@ Marketo has a system smart list that finds duplicate people by matching their em
 
 >[!PREREQUISITES]
 >
->* [Create a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->
+>[Create a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Go to the Marketing Activities area.
+1. Go to the **Marketing Activities** area.
 
 ![](assets/ma-2.png)
 
-1. Select your smart list, click on the Smart List tab.
+1. Select your smart list, click on the **Smart List** tab.
 
    ![](assets/two-4.png)
 
-1. Find and drag the Duplicate Fields filter into the canvas.
+1. Find and drag the **Duplicate Fields** filter onto the canvas.
 
    ![](assets/three-4.png)
 
@@ -35,4 +34,3 @@ Marketo has a system smart list that finds duplicate people by matching their em
    ![](assets/four-2.png)
 
    Done! Run the smart list to find people with the same value in the previously selected field.
-

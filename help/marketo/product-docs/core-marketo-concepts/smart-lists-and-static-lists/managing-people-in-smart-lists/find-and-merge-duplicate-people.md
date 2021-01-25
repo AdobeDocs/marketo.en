@@ -14,7 +14,7 @@ Marketo automatically de-duplicates when new people enter the system. However, y
 
 >[!PREREQUISITES]
 >
->Finding and merging duplicates will involve the use of [built-in / system smart lists](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>Finding and merging duplicates will involve the use of [built-in / system smart lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
 ## Find Duplicates {#find-duplicates}
 
@@ -26,13 +26,13 @@ Marketo automatically de-duplicates when new people enter the system. However, y
    >
    >Merging people in Marketo may not work if you use a Salesforce Person Account. Please merge the records in Salesforce if possible.
 
-1. Select the **Possible** **Duplicates** system smart list and click on the **People** tab.
+1. Select the **Possible Duplicates** system smart list and click on the **People** tab.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >You can also [Find Duplicate People with Custom Logic](find-duplicate-people-with-custom-logic.md).
+   >You can also [Find Duplicate People with Custom Logic](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
 
 ## Merge People Manually {#merge-people-manually}
 
@@ -40,14 +40,15 @@ Marketo automatically de-duplicates when new people enter the system. However, y
    >
    >When merging people, if the losing person has a Marketo custom object, it will **not** get re-associated to the winning person. Please re-parent the custom object prior to performing the merge.
 
-   Select the duplicates by holding Ctrl/Cmd and clicking, then click Merge People.
+1. Select the duplicates by holding Ctrl/Cmd and clicking, then click **Merge People**.
+
    ![](assets/three.png)
 
    >[!TIP]
    >
    >You could have two or more duplicates for the same person - select them all at once.
 
-1. You will see the values between the records that *don't* match. Select the value you want to keep for each field. Click **Merge** when done. If you don't want either value, you can check **Custom** and enter a value of your choice.
+1. You will see the values between the records that _don't_ match. Select the value you want to keep for each field. Click **Merge** when done. If you don't want either value, you can check **Custom** and enter a value of your choice.
 
    ![](assets/four.png)
 
@@ -61,18 +62,18 @@ Marketo automatically de-duplicates when new people enter the system. However, y
 
 ## Effect in Salesforce {#effect-in-salesforce}
 
-   If you have Salesforce integration, there are a few notes about the effect of Merge Leads in Salesforce.
+If you have Salesforce integration, there are a few notes about the effect of Merge Leads in Salesforce.
 
-    * When merging only Leads or only Contacts, they merge per normal Salesforce rules.
-    * When merging Leads and Contacts together, all Leads are converted to Contacts prior to merging per normal Salesforce rules.
+* When merging only Leads or only Contacts, they merge per normal Salesforce rules.
+* When merging Leads and Contacts together, all Leads are converted to Contacts prior to merging per normal Salesforce rules.
 
-   For specifics of Salesforce behavior when merging Leads or Contacts, please check the following Salesforce documents:
+For specifics of Salesforce behavior when merging Leads or Contacts, please check the following Salesforce documents:
 
-    * [Merging Duplicate Leads](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US)
-    * [Merging Duplicate Contacts](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US)
+* [Merging Duplicate Leads](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US)
+* [Merging Duplicate Contacts](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US)
 
 ## Bulk Merging {#bulk-merging}
 
-   If you have too many duplicates to manually merge, contact your Customer Success Manager to discuss your options.
+If you have too many duplicates to manually merge, contact your Customer Success Manager to discuss your options.
 
-Super! If you are connected to a CRM the records will merge there according to the rules below. 
+Super! If you are connected to a CRM the records will merge there according to the rules below.

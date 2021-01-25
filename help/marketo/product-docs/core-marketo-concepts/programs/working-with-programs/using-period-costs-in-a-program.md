@@ -6,13 +6,7 @@ title: Using Period Costs in a Program
 
 # Using Period Costs in a Program {#using-period-costs-in-a-program}
 
-A [period cost](understanding-period-costs.md) is the amount you spend on a program. It can be for one or more months and is used for reporting ROI.
-
->[!NOTE]
->
->**Deep Dive**
->
-> Learn more about  [Revenue Cycle Analytics](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+A [period cost](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md) is the amount you spend on a program. It can be for one or more months and is used for reporting ROI.
 
 ## Add a Period Cost  {#add-a-period-cost}
 
@@ -46,8 +40,9 @@ A [period cost](understanding-period-costs.md) is the amount you spend on a prog
 
 ## Edit a Period Cost {#edit-a-period-cost}
 
-1. If you spend more or less money than originally projected, you can edit the period cost. 
-1. Go to the **Setup **tab of your program.
+1. If you spend more or less money than originally projected, you can edit the period cost.
+
+1. Go to the **Setup** tab of your program.
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
@@ -69,14 +64,11 @@ A [period cost](understanding-period-costs.md) is the amount you spend on a prog
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. Click **Delete **to confirm.
+1. Click **Delete** to confirm.
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 
 >[!MORELIKETHIS]
 >
->* [Understanding Period Costs](understanding-period-costs.md)
->* [Revenue Cycle Analytics](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
->* [Filter a Program Report by Period Cost](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
->
-
+>* [Understanding Period Costs](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
+>* [Filter a Program Report by Period Cost](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)

@@ -16,13 +16,13 @@ From the **Marketing Activities** area, click the **Assets** tab. Choose any of 
 
 ## Manage Your Program  {#manage-your-program}
 
-When there are assets in your program, you'll see them listed here. 
+When there are assets in your program, you'll see them listed here.
 
 | Orange |Trigger Campaign |
 |---|---|
 | Green |Batch Campaign |
 
-You can right click on the header if you'd like to interact with that asset.
+You can right-click on the header if you'd like to interact with that asset.
 
 ![](assets/assetsprefilled.png)
 
@@ -30,6 +30,8 @@ You can right click on the header if you'd like to interact with that asset.
 >
 >Drag and drop to rearrange the asset columns.
 
-Assets that are not local to your program will look like this:  ![](assets/image2014-9-18-16-3a30-3a33.png)
+Assets that are not local to your program will look like this:
+
+![](assets/image2014-9-18-16-3a30-3a33.png)
 
 The assets tab is a great little dashboard for everything inside and referenced in the program.

@@ -8,7 +8,7 @@ title: Locate the Activity Log for a Person
 
 The activity log is the ultimate source of truth. This is the complete story of a person's journey in Marketo.
 
-1. Go to the** Database**.
+1. Go to the **Database**.
 
    ![](assets/db-2.png)
 
@@ -28,10 +28,6 @@ The activity log is the ultimate source of truth. This is the complete story of 
 
    ![](assets/five-2.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >
-   >Learn more about [filtering the activity log](filter-activity-types-in-the-activity-log-of-a-person.md)to see specific person activities.
-
+   >Learn more about [filtering the activity log](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)to see specific person activities.

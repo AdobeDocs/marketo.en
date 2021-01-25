@@ -20,11 +20,9 @@ Period costs refer to the money you spend in a specific month on a program.
 
 >[!NOTE]
 >
->**Deep Dive**
+>[Understanding Programs](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[Understanding Programs](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
->
->[Understanding Program Membership](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[Understanding Program Membership](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## How Period Costs are Calculated {#how-period-costs-are-calculated}
 
@@ -56,19 +54,9 @@ Imagine an event, like a webinar, that occurs in March. New people are acquired 
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >In summary - months with no defined period costs will roll "backwards" to the last one that was defined. If there is no prior period cost, the months will be rolled "forward" to the next one that has been defined. If a period cost has not been defined for *any* months, reporting in RCE will not be available for the program.
+   >In summary - months with no defined period costs will roll "backwards" to the last one that was defined. If there is no prior period cost, the months will be rolled "forward" to the next one that has been defined. If a period cost has not been defined for _any_ months, reporting in RCE will not be available for the program.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Using Period Costs in a Program](using-period-costs-in-a-program.md)
-   >    * [Filter a Program Report by Period Cost](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-   >    
-   >
-
+   >* [Using Period Costs in a Program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+   >* [Filter a Program Report by Period Cost](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)

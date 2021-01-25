@@ -47,4 +47,3 @@ If you need list or smart list results outside of Marketo, you can easily export
    >[!TIP]
    >
    >You can undo the caching of the list simply by pressing the list's refresh button.
-

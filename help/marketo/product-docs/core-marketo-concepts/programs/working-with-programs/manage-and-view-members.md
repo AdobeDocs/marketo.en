@@ -10,9 +10,7 @@ You can manage and view your members in your programs using the Members tab.
 
 >[!NOTE]
 >
->**Deep Dive**
->
-> Dive deeper into  [program membership](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+>Dive deeper into [program membership](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
 ## Search for a Member {#search-for-a-member}
 
@@ -34,21 +32,21 @@ You can export your member list by clicking the Excel icon next to the search fi
 
 ## Manage Columns in the Members Grid {#manage-columns-in-the-members-grid}
 
-* Drag and drop columns to change their order. The pair of blue arrows indicate where the column will go.
+Drag and drop columns to change their order. The pair of blue arrows indicate where the column will go.
 
   ![](assets/image2014-10-1-16-3a25-3a30.png)
 
-* Right-click the column header to sort alphabetically, either ascending or descending.
+Right-click the column header to sort alphabetically, either ascending or descending.
 
   ![](assets/image2014-10-1-17-3a3-3a28.png)
 
 ## Choose Which Columns are Visible in the Grid {#choose-which-columns-are-visible-in-the-grid}
 
-1. Click the **View **drop-down and select **Create View**.
+1. Click the **View** drop-down and select **Create View**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Name your custom view. Select column titles. Click** Add **and** Remove **to move columns and create a view.
+1. Name your custom view. Select column titles. Click **Add** and **Remove** to move columns and create a view.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -74,7 +72,7 @@ You can change the status of your people inside the members grid.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
-   This may take a moment. You'll see the message below when it's all done! 
+   This may take a moment. You'll see the message below when it's all done!
 
    ![](assets/changestatusconfirm.png)
 
@@ -82,6 +80,4 @@ So many features, but they're all pretty straightforward. Enjoy!
 
 >[!MORELIKETHIS]
 >
->* [Create a Program Performance Report](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
->
-
+>[Create a Program Performance Report](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)

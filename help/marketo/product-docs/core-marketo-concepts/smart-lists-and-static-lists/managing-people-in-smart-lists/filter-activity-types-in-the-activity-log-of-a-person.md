@@ -10,9 +10,7 @@ Search for activities that matter most to you in the activity log.
 
 >[!NOTE]
 >
->**Deep Dive**
->
->Learn more about [the activity log](locate-the-activity-log-for-a-person.md).
+>Learn more about [the activity log](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md).
 
 1. Go to the **Person Detail** page. Click the **Activity Log** tab.
 
@@ -51,4 +49,3 @@ Saved filters can be accessed from the **Filter** drop-down.
 1. Click **Saved Filters**. Saved filters are listed below.
 
    ![](assets/eight.png)
-

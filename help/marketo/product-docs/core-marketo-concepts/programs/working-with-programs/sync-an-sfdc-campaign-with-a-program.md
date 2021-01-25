@@ -10,7 +10,7 @@ Marketo allows you to sync your programs with Salesforce campaigns to maintain t
 
 >[!PREREQUISITES]
 >
->You will need to [enable Salesforce campaign sync](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) first.
+>You will need to [enable Salesforce campaign sync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) first.
 
 >[!CAUTION]
 >
@@ -28,11 +28,11 @@ Marketo allows you to sync your programs with Salesforce campaigns to maintain t
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. Select **Create New **or choose an existing Salesforce campaign.
+1. Select **Create New** or choose an existing Salesforce campaign.
 
    >[!TIP]
    >
-   >If you select an existing Salesforce campaign, make sure to [match the program statuses of the Salesforce campaign and the Marketo program](../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+   >If you select an existing Salesforce campaign, make sure to [match the program statuses of the Salesforce campaign and the Marketo program](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
 1. Enter a name for the new campaign and click **Save**.
 
@@ -43,4 +43,3 @@ Marketo allows you to sync your programs with Salesforce campaigns to maintain t
    ![](assets/image2015-7-22-8-3a59-3a33.png)
 
    Excellent! Now any program status changes in Marketo are synced to the SFDC campaign and vice versa.
-

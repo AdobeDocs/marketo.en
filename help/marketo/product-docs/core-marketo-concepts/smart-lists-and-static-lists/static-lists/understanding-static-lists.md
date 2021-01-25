@@ -12,7 +12,7 @@ Static lists are one of the most simple and useful features of Marketo. They are
 >
 >A single person in the database can be in many different static lists.
 
-The difference between a Static and Smart List is crucial to understand. 
+The difference between a Static and Smart List is crucial to understand.
 
 | Type |Logic |
 |---|---|
@@ -21,15 +21,15 @@ The difference between a Static and Smart List is crucial to understand.
 
 >[!CAUTION]
 >
->One of the most common mistakes is thinking you can remove a person from a list by simply "deleting the person." **This is wrong.** Deleting the person will delete them from **the entire database**, not just the list.
+>One of the most common mistakes is thinking you can remove a person from a list by simply "deleting the person." **This is wrong**. Deleting the person will delete them from **the entire database**, not just the list.
 
 ## Ways to Add/Remove People from a List {#ways-to-add-remove-people-from-a-list}
 
-1. Smart campaign flow step ([Add to List](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [Remove from List](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
+1. Smart campaign flow step ([Add to List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [Remove from List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
 
-1. [Single action flow step](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
+1. [Single action flow step](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
 1. Dragging people into a list in the tree
-1. [List import](../../../../getting-started/quick-wins/import-a-list-of-people.md)
+1. [List import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 ## Some Uses of a Static List {#some-uses-of-a-static-list}
 
@@ -41,5 +41,4 @@ Enjoy the power of the LIST!
 
 >[!MORELIKETHIS]
 >
->[Create a Static List](https://docs.marketo.com/x/ecKt)
-
+>[Create a Static List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)

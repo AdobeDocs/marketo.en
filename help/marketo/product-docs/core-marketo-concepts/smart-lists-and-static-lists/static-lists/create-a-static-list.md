@@ -20,9 +20,8 @@ Static lists are a group of people already in your Database. Here's how to creat
 
    ![](assets/three.png)
 
-   You now have an empty list ready to be filled. Learn how to add people [here](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList).
+   You now have an empty list ready to be filled. Learn how to add people [here](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list).
 
    >[!NOTE]
    >
    >You can add a person to your list as many times as you like, but they'll only appear once. People remain in the list until you remove them.
-

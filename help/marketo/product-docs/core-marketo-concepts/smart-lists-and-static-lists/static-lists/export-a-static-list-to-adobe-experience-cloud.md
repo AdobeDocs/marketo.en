@@ -12,7 +12,7 @@ title: Export a Static List to Adobe Experience Cloud
 
 >[!PREREQUISITES]
 >
->[Set Up Adobe Experience Cloud Audience Sharing](http://docs.marketo.com/x/D4GMAg)
+>[Set Up Adobe Experience Cloud Audience Sharing](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
 
 ## Supported Destination Applications {#supported-destination-applications}
 
@@ -53,7 +53,7 @@ title: Export a Static List to Adobe Experience Cloud
 
 **Sharing to Adobe Analytics**
 
-For customers that own both Adobe Audience Manager and Adobe Analytics, this integration will enable audiences to be shared from Marketo to your Adobe Analytics Report Suites, however there are some additional configurations steps that need to be taken in Adobe Audience Manager to enable this. Please review Adobe Audience Manager’s documentation for more information on how to set this up: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](http://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
+For customers that own both Adobe Audience Manager and Adobe Analytics, this integration will enable audiences to be shared from Marketo to your Adobe Analytics Report Suites, however there are some additional configurations steps that need to be taken in Adobe Audience Manager to enable this. Please review Adobe Audience Manager’s documentation for more information on how to set this up: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 **Trait Usage for Adobe Audience Manager Customers**
 
@@ -73,4 +73,4 @@ Under the hood, the audience integration works by syncing Marketo Munchkin cooki
 
 When the cookie sync is enabled for your Marketo Subscription, Marketo’s munchkin.js will attempt to capture and store Adobe ECIDs for the Adobe IMS Org you specified during the integration setup and match these ECIDs to the corresponding Marketo cookie identifier. This enables Marketo’s anonymous user profiles to become enriched with Adobe ECIDs.
 
-A further step is required to associate the anonymous user profile to a Lead Profile, which is identified using a plain text email. Exactly how this works is described here: [https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](http://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
+A further step is required to associate the anonymous user profile to a Lead Profile, which is identified using a plain text email. Exactly how this works is described here: [https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
