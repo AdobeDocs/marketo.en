@@ -22,7 +22,7 @@ You can create entries from within the program schedule view to supplement an ex
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. Name the entry. Press **Enter **to confirm the name.
+1. Name the entry. Press **Enter** to confirm the name.
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -48,11 +48,11 @@ You can create entries from within the program schedule view to supplement an ex
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Select the **Type** drop-down. Choose a new entry type. 
+1. Select the **Type** drop-down. Choose a new entry type.
 
    >[!NOTE]
    >
-   >To-do is a [custom entry](create-custom-entry-types.md). You can make a to-do and other custom entries to help keep track of non-Marketo agenda items.
+   >To-do is a [custom entry](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). You can make a to-do and other custom entries to help keep track of non-Marketo agenda items.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -62,5 +62,4 @@ You can create entries from within the program schedule view to supplement an ex
 
 >[!NOTE]
 >
-> You can also create a [smart campaign](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) or [email program](creating-a-new-email-program-in-the-schedule-view.md) from the schedule view.
-
+> You can also create a [smart campaign](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) or [email program](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) from the schedule view.

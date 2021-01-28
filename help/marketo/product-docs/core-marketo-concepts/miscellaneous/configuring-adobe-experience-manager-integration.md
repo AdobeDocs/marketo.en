@@ -36,7 +36,7 @@ Configure AEM so you can access, select, and import AEM assets into Marketo's De
 
    ![](assets/four.png)
 
-1. In the **Allowed Origins (Regexp)** text box, type in "https://.&#42;\.marketo\.com" (without the quotes) and click **Save**.
+1. In the **Allowed Origins (Regexp)** text box, type in `https://.*\.marketo\.com` and click **Save**.
 
    ![](assets/five-psd.png)
 
@@ -68,5 +68,4 @@ Configure AEM so you can access, select, and import AEM assets into Marketo's De
 
    ![](assets/twelve.png)
 
-   You're all set! You can now [import AEM assets into the Design Studio in Marketo Sky](http://help.marketo.com/hc/en-us/articles/360036765993).
-
+   You're all set! You can now [import AEM assets into the Design Studio in Marketo Sky](https://help.marketo.com/hc/en-us/articles/360036765993).

@@ -10,11 +10,11 @@ There are several things you have to do to get ready for the event.
 
 ## Create a New Marketo Role {#create-a-new-marketo-role}
 
-Marketo has a special user role for the event check-in app.  [Create a new Marketo role](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) for iPad or Android users, with permission to access the mobile application.
+Marketo has a special user role for the event check-in app. [Create a new Marketo role](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) for iPad or Android users, with permission to access the mobile application.
 
 ## Invite New Tablet Users to the Event {#invite-new-tablet-users-to-the-event}
 
-[Invite new tablet users to the event](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) and assign them the new role.
+[Invite new tablet users to the event](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) and assign them the new role.
 
 ## Create a New Marketo Event Program {#create-a-new-marketo-event-program}
 

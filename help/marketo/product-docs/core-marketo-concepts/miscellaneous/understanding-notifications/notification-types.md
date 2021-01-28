@@ -40,7 +40,7 @@ If you try to send leads to Facebook without accepting the Terms of Service, or 
 
 Idle Trigger Campaign Cleanup
 
-Deactivate triggered Smart Campaigns that no longer get any activity. Learn more about  [automatic trigger campaign cleanup](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Deactivate triggered Smart Campaigns that no longer get any activity. Learn more about  [automatic trigger campaign cleanup](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 LinkedIn
 
@@ -54,5 +54,4 @@ You will be notified when you reach your daily quota. The quota resets each nigh
 
 >[!NOTE]
 >
->Some of the error codes you may receive are outlined in our [Developer Documentation](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
-
+>Some of the error codes you may receive are outlined in our [Developer Documentation](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).

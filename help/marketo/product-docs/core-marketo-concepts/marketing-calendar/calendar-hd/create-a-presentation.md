@@ -14,7 +14,7 @@ Create a presentation to project your team's calendar views and goals on an HDTV
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
-1. Go to the** Calendar**.
+1. Go to the **Calendar**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -34,6 +34,4 @@ Create a presentation to project your team's calendar views and goals on an HDTV
 
 >[!MORELIKETHIS]
 >
->* [Customize a Presentation](customize-a-presentation.md)
->
-
+>[Customize a Presentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)

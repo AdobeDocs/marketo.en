@@ -37,4 +37,3 @@ Are you a keyboard shortcuts person? We've got you covered!
 | ESC |Close pop-up |
 | Return/Enter |Submit pop-up |
 | Ctrl + Alt/Opt + H |Hide/Unhide a field in the form editor |
-

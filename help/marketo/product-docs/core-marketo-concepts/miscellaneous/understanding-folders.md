@@ -6,7 +6,7 @@ title: Understanding Folders
 
 # Understanding Folders {#understanding-folders}
 
-Folders inside a program can be used to organize your smart campaigns and assets. These are different from [campaign folders](create-new-campaign-folder.md).
+Folders inside a program can be used to organize your smart campaigns and assets. These are different from [campaign folders](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Create a Folder {#create-a-folder}
 
@@ -69,4 +69,3 @@ Functionality that will **not** change when archiving:
 * An asset that’s in use will continue to work even after it’s archived
 * You can use a filter to select archived assets for use in reports
 * Archived assets are not deactivated. They must also be deactivated if you want them to stop running
-

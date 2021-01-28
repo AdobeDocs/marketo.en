@@ -8,7 +8,7 @@ title: Create a Custom Goal
 
 Goals are ways to track progress and motivate your team. Once created, they must be manually updated.
 
-Like presentations, goals are [workspace](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specific.
+Like presentations, goals are [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specific.
 
 1. Go to the **Calendar**.
 
@@ -18,7 +18,7 @@ Like presentations, goals are [workspace](../../../../product-docs/administratio
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Select the** Goals** tab.
+1. Select the **Goals** tab.
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 
@@ -41,4 +41,3 @@ Like presentations, goals are [workspace](../../../../product-docs/administratio
    Your custom goal has been created!
 
    ![](assets/image2015-3-24-12-3a41-3a43.png)
-

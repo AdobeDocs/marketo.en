@@ -24,7 +24,7 @@ In order to share audience data to your Adobe applications, you must first enter
 
    ![](assets/three-2.png)
 
-1. Enter your Adobe IMS Org ID (learn how to find that [here](http://docs.adobe.com/content/help/en/control-panel/using/faq.html)) and click **OK**.
+1. Enter your Adobe IMS Org ID (learn how to find that [here](https://docs.adobe.com/content/help/en/control-panel/using/faq.html)) and click **OK**.
 
    ![](assets/four-2.png)
 
@@ -40,7 +40,6 @@ In order to share audience data to your Adobe applications, you must first enter
    >
    >For security reasons, you must be an Org Admin for the Adobe Organization that you want to map to. If you're not, the action will fail.
 
-1. If you're *not* already logged in, a pop-up will appear in a new tab/window. Log-in to your Adobe org (this action validates the org access).
+1. If you're _not_ already logged in, a pop-up will appear in a new tab/window. Log-in to your Adobe org (this action validates the org access).
 
-   And that's it! You can now begin [sharing audience data](http://docs.marketo.com/x/ogI6Ag).
-
+   And that's it! You can now begin [sharing audience data](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md).

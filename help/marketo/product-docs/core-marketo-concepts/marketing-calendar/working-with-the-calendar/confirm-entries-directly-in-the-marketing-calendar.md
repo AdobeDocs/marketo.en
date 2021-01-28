@@ -23,4 +23,3 @@ Smart campaigns and email programs can be created as tentative entries and must 
    Confirming runs a series of validation processes and if everything checks out, the entry will be confirmed.
 
    ![](assets/image2014-10-20-13-3a22-3a36.png)
-

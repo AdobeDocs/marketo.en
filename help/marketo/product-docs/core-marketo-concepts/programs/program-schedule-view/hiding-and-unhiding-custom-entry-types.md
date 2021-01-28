@@ -10,11 +10,11 @@ Custom entry types can be hidden in the Admin section. Once hidden, the entry ty
 
 ## Hide a Custom Entry Type {#hide-a-custom-entry-type}
 
-1. Go to the **Admin** section and click **Calendar** **Entry** **Types**. 
+1. Go to the **Admin** section and click **Calendar Entry** **Types**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
-1. Right-click your custom entry and click **Hide**. 
+1. Right-click your custom entry and click **Hide**.
 
    ![](assets/image2014-9-24-10-3a11-3a54.png)
 
@@ -22,13 +22,12 @@ Custom entry types can be hidden in the Admin section. Once hidden, the entry ty
 
 ## Unhide a Custom Entry Type {#unhide-a-custom-entry-type}
 
-   If you want to unhide a custom entry type, that's easy, too. 
+   If you want to unhide a custom entry type, that's easy, too.
 
-1. Right-click your entry and select **Unhide**. 
+1. Right-click your entry and select **Unhide**.
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 
-   Ta-da! Your custom entry type is now unhidden. 
+   Ta-da! Your custom entry type is now unhidden.
 
    ![](assets/image2014-9-24-10-3a12-3a19.png)
-

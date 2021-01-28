@@ -16,9 +16,8 @@ Once you've set the views and rotation frequency for your presentation, it's tim
 
 >[!PREREQUISITES]
 >
->* [Create a Presentation](create-a-presentation.md)
->* [Customize a Presentation](customize-a-presentation.md)
->
+>* [Create a Presentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>* [Customize a Presentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
 
 >[!TIP]
 >
@@ -34,5 +33,4 @@ Once you've set the views and rotation frequency for your presentation, it's tim
 
    >[!TIP]
    >
-   >Your presentation will launch in a new tab. If needed, move the tab to an external monitor or TV for display and click **Fullscreen** (or press **F11 **on your keyboard if you're using Internet Explorer).
-
+   >Your presentation will launch in a new tab. If needed, move the tab to an external monitor or TV for display and click **Fullscreen** (or press **F11** on your keyboard if you're using Internet Explorer).

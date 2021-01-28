@@ -8,7 +8,7 @@ title: Create a Program Performance Report
 
 See great stats on your programs with this report.
 
-1. [Create a report in a program](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) and select the **Program Performance** [report type](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Create a report in a program](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) and select the **Program Performance** [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. Click the **Report** tab.
 1. You're there! Explore your report to see how your programs are doing.
 
@@ -16,7 +16,7 @@ See great stats on your programs with this report.
 
 >[!TIP]
 >
->To find the programs with the lowest *Cost per Success*, for example,  [sort your report](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) on that column and choose **Sort Ascending**. 
+>To find the programs with the lowest *Cost per Success*, for example, [sort your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) on that column and choose **Sort Ascending**.
 
 Columns in a Program Performance report include:
 
@@ -46,10 +46,3 @@ Columns in a Program Performance report include:
   </tr> 
  </tbody> 
 </table>
-
->[!NOTE]
->
->**Deep Dive**
->
->Learn more in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
-

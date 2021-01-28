@@ -10,13 +10,13 @@ Navigating around the Marketing Calendar is easy as one, two, three!
 
 >[!PREREQUISITES]
 >
->Make sure you have a [Marketing Calendar license](issue-revoke-a-marketing-calendar-license.md) - otherwise the Marketing Calendar tile won't show up in My Marketo.
+>Make sure you have a [Marketing Calendar license](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - otherwise the Marketing Calendar tile won't show up in My Marketo.
 
 1. Go to the **Marketing Calendar**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. This is a bird's-eye view of assets scheduled in your Marketo instance. 
+1. This is a bird's-eye view of assets scheduled in your Marketo instance.
 
    ![](assets/image2014-9-15-16-3a44-3a22.png)
 
@@ -32,9 +32,7 @@ Agenda view displays all of your entries as a list.
 
 1. Click the **Filter drop-down**.
 
-   ` ![](assets/image2014-9-26-10-3a29-3a6.png)
-
-   `
+   ![](assets/image2014-9-26-10-3a29-3a6.png)
 
 1. Select the **Agenda** view.
 
@@ -60,8 +58,6 @@ You can also use these keyboard shortcuts.
 
 Awesome! These are the basics. You can also customize your view using filters.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Filtering the Marketing Calendar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
+>[Filtering the Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)

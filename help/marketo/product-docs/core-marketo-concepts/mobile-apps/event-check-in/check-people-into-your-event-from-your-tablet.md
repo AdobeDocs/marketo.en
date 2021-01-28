@@ -14,11 +14,11 @@ The app works the same on both iPad and Android, except for minor layout and des
 >
 >* Create an event in Marketo and populate it with Invited and Registered people.
 >* Download the tablet app for [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&hl=en) or [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
->
 
 ## Check in Registered Guests {#check-in-registered-guests}
 
 1. Tap the app icon on your iPad or Android tablet.
+
 1. Tap **Login** to launch the Marketo Event app.
 
    ![](assets/1.jpg)
@@ -47,7 +47,9 @@ The app works the same on both iPad and Android, except for minor layout and des
    >
    >The process is the same on iPad and Android, but the screens differ, and items may be in different locations. This article features the iPad interface. Compare the Android screen in this section for reference.
 
-   **iPad** ![](assets/image2016-4-15-11-3a55-3a11.png)
+   **iPad** 
+
+   ![](assets/image2016-4-15-11-3a55-3a11.png)
 
    **Android**
 
@@ -97,11 +99,11 @@ You can manually add guests who aren't existing people in your Marketo database.
    >
    >Double-check the email address. Other fields can be corrected later, but the email address is the primary method for contacting the guest.
 
-The new person is registered as checked in to your event, and will be added to the Marketo database with Attended status when you sync to Marketo. 
+The new person is registered as checked in to your event, and will be added to the Marketo database with Attended status when you sync to Marketo.
 
 ## Reverse a Check-In {#reverse-a-check-in}
 
-If you checked in a person by mistake, *before you synced with Marketo*, you can reverse the Attended status.
+If you checked in a person by mistake, _before you synced with Marketo_, you can reverse the Attended status.
 
 1. Tap the name in the list, and in the person record, tap **Undo**.
 
@@ -125,7 +127,7 @@ You can add and modify guest information, right at the event!
    >
    >In Android, the **Done** button may be hidden. Scroll down to find it.
 
-The information will be updated when you sync the app with Marketo. 
+The information will be updated when you sync the app with Marketo.
 
 ## Sync the App with Marketo {#sync-the-app-with-marketo}
 
@@ -136,6 +138,7 @@ The Marketo Events app works independently until you sync your activity back to 
 >After you sync, you can't reverse a check-in from the app.
 
 1. On your tablet, open the app and navigate to your event.
+
 1. Tap **Sync**.
 
    Your event is updated with new check-ins in the Marketo database. The red counter on the Sync button clears, until you check someone else in.
@@ -160,4 +163,3 @@ If you're concerned about Internet access at the venue, you may want to log in t
 >[!NOTE]
 >
 >The app automatically logs you out after eight hours of inactivity.
-

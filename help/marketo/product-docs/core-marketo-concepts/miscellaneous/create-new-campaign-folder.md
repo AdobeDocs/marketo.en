@@ -24,7 +24,7 @@ Campaign folders help you keep a tidy workspace. Follow these simple steps and y
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Optional: Enter a **Description** and click** Create. **
+1. Optional: Enter a **Description** and click **Create**.
 
    >[!TIP]
    >
@@ -36,11 +36,9 @@ Campaign folders help you keep a tidy workspace. Follow these simple steps and y
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Now when [creating a new program](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), you'll see this campaign folder as an option.
+   Now when [creating a new program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), you'll see this campaign folder as an option.
 
 >[!MORELIKETHIS]
 >
->* [Create a Program](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [Create a New Smart Campaign](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
->
-
+>* [Create a Program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [Create a New Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)

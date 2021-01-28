@@ -10,13 +10,13 @@ title: Issue/Revoke a Marketing Calendar License
 >
 >**Admin Permissions Required**
 
-To make use of your [Marketing Calendar](http://docs.marketo.com/display/docs/marketing+calendar) seats, you need to issue licenses to users who need access. Here's how.
+To make use of your [Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) seats, you need to issue licenses to users who need access. Here's how.
 
 1. Go to the **Admin** section.
 
    ![](assets/adminhand.png)
 
-1. Click on **Users & Roles**.
+1. Click **Users & Roles**.
 
    ![](assets/2.png)
 
@@ -36,7 +36,7 @@ To make use of your [Marketing Calendar](http://docs.marketo.com/display/docs/ma
 
    ![](assets/4.png)
 
-   Nicely done! See the green checkmark under **Calendar**?
+   Nicely done! See the green checkmark under 'Calendar?'
 
    ![](assets/5.png)
 

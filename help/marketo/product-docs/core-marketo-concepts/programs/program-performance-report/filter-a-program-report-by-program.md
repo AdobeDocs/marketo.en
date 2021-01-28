@@ -6,7 +6,7 @@ title: Filter a Program Report by Program
 
 # Filter a Program Report by Program {#filter-a-program-report-by-program}
 
-Focus your [program performance report](create-a-program-performance-report.md) on specific programs to compare their performance.
+Focus your [program performance report](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) on specific programs to compare their performance.
 
 1. Go to **Marketing** **Activities** (or **Analytics**).
 
@@ -26,26 +26,12 @@ Focus your [program performance report](create-a-program-performance-report.md) 
 
    >[!TIP]
    >
-   >If you select a folder, your report will include everything that folder contains at the time the report runs. 
+   >If you select a folder, your report will include everything that folder contains at the time the report runs.
 
-1. That's all! Click the **Report** tab to see *just* the selected programs in your report.
+1. That's all! Click the **Report** tab to see _just_ the selected programs in your report.
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
    >[!NOTE]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Filter a Program Report by Tag](filter-a-program-report-by-tag.md)
-   >    
-   >
-
-   >[!NOTE]
-   >
-   >**Deep Dive**
-   >
-   >
-   >Learn all about reports in  [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Filter a Program Report by Tag](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)

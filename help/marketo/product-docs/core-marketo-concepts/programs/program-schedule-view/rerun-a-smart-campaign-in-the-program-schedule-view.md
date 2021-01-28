@@ -12,7 +12,7 @@ You can easily create new runs of an existing smart campaign directly from the p
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Select a program that contains your smart campaign. 
+1. Select a program that contains your smart campaign.
 
    ![](assets/image2015-4-16-14-3a40-3a11.png)
 
@@ -26,6 +26,6 @@ You can easily create new runs of an existing smart campaign directly from the p
 
    >[!TIP]
    >
-   >You can also do this from the [program focus](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
+   >You can also do this from the [program focus](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
-Boom! Just like that, you've scheduled another run for that smart campaign. If that smart campaign contained send email steps, you'll see those too! 
+Boom! Just like that, you've scheduled another run for that smart campaign. If that smart campaign contained send email steps, you'll see those too!

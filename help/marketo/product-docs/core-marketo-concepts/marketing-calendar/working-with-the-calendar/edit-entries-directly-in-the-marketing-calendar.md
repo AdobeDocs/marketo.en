@@ -38,9 +38,7 @@ Once in program focus mode, you can quickly make changes to calendar entries. He
    >
    >You can also edit the description.
    >
-   >
-   >![--](assets/image2014-10-20-13-3a16-3a56.png)   >
-   >
+   >![](assets/image2014-10-20-13-3a16-3a56.png)
 
 ## Convert Entry Type {#convert-entry-type}
 
@@ -62,6 +60,4 @@ That's it! As you can see there are a lot of things you can do directly from the
 
 >[!MORELIKETHIS]
 >
->* [Delete Entries Directly In the Marketing Calendar](https://community.marketo.com/MarketoArticle?id=kA050000000LPDyCAO)
->
-
+>[Delete Entries Directly In the Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
