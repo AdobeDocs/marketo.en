@@ -375,7 +375,7 @@ user-guide-description: Marketo product documentation
         + [Using the Person Detail Page](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)
       + Static Lists {#static-lists}
         + [Create a Static List](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
-        + [Export a Static List to Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/export-a-static-list-to-adobe-experience-cloud.md)
+        + [Send a List to Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
         + [Understanding Static Lists](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
     + Programs {#programs}
       + Creating Programs {#creating-programs}

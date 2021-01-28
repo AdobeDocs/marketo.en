@@ -15,4 +15,3 @@ Enable **Show only my moments** to display only your own email programs and smar
 Or, disable **Show only my moments** to view all smart campaigns and email programs you have access to.
 
 ![](assets/image2015-7-16-15-3a55-3a29.png)
-

@@ -19,4 +19,3 @@ Folders, programs, and local assets can all be easily renamed.
    >[!NOTE]
    >
    >You cannot rename files and images that have been uploaded, or an asset that's currently being referenced in a Smart List or Smart Campaign (in filters, triggers, flow steps, etc.).
-

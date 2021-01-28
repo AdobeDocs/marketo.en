@@ -16,10 +16,6 @@ When you view entry details in the Marketing Calendar, you can see all sorts of 
 
    ![](assets/image2014-9-26-10-3a31-3a1.png)
 
-   `  
-   `
-
 >[!TIP]
 >
 >Try right-clicking on the details on the right. You can see menus to navigate or pop up the editors. Nice, right?
-

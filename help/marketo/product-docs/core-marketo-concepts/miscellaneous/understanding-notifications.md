@@ -26,7 +26,7 @@ You can subscribe to notifications to receive them in your email.
 
 ![](assets/image2014-10-10-12-3a3-3a29.png)
 
-1.  Select the Notification Type and enter the email address(es) you want notifications sent to.
+1. Select the Notification Type and enter the email address(es) you want notifications sent to.
 
    ![](assets/image2014-10-10-13-3a0-3a37.png)
 
@@ -37,4 +37,3 @@ You can subscribe to notifications to receive them in your email.
 >[!TIP]
 >
 >Want to unsubscribe from notification emails? No problem. Simply click the **unsubscribe from Notifications** link at the bottom of the email.
-

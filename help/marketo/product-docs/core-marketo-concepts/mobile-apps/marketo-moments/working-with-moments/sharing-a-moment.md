@@ -31,4 +31,3 @@ Want to give an update to your team? You've got two choices to select sharing:
    ![](assets/image2015-7-14-16-3a18-3a16.png)
 
    Great job!
-

@@ -6,9 +6,9 @@ title: Filter a Program Report by Period Cost
 
 # Filter a Program Report by Period Cost {#filter-a-program-report-by-period-cost}
 
-Focus your [program performance report](create-a-program-performance-report.md) on a specific period cost timeframe.
+Focus your [program performance report](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) on a specific period cost timeframe.
 
-1. Go to **Marketing** **Activities** (or **Analytics**).
+1. Go to **Marketing Activities** (or **Analytics**).
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -30,18 +30,4 @@ Focus your [program performance report](create-a-program-performance-report.md) 
 
    >[!NOTE]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Filter a Program Report by Program](filter-a-program-report-by-program.md)
-   >    
-   >
-
-   >[!NOTE]
-   >
-   >**Deep Dive**
-   >
-   >
-   >Learn all about reports in  [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Filter a Program Report by Program](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)

@@ -1,10 +1,10 @@
 ---
 unique-page-id: 37356194
-description: Export a Static List to Adobe Experience Cloud - Marketo Docs - Product Documentation
-title: Export a Static List to Adobe Experience Cloud
+description: Send a List to Adobe Experience Cloud - Marketo Docs - Product Documentation
+title: Send a List to Adobe Experience Cloud
 ---
 
-# Export a Static List to Adobe Experience Cloud {#export-a-static-list-to-adobe-experience-cloud}
+# Send a List to Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
 
 >[!NOTE]
 >

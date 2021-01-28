@@ -19,7 +19,8 @@ Here's how.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-   Select a previous entry and click Show Program Focus.
+1. Select a previous entry and click **Show Program Focus**.
+
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
 1. Once in program focus mode, select the day of your choice to add an entry.
@@ -40,6 +41,4 @@ Here's how.
 
 >[!MORELIKETHIS]
 >
->* [Edit Entries Directly In the Marketing Calendar](edit-entries-directly-in-the-marketing-calendar.md)
->
-
+>[Edit Entries Directly In the Marketing Calendar](edit-entries-directly-in-the-marketing-calendar.md)

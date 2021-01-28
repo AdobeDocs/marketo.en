@@ -10,11 +10,11 @@ Use Marketo Moments to view your Email Programs from your phone or iPad.
 
 ## Email Program Cards {#email-program-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/n8JTSZI22Do" frameborder="0" allowfullscreen></iframe>` When you tap any Email Program card you can:
+When you tap any Email Program card you can:
 
-* [Make an email a favorite](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Mark an email as done](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Share an email moment card](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Make an email a favorite](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Mark an email as done](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Share an email moment card](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 On an email program card for an email that's not sent yet, you'll find information about that email program's status and audience.
 
@@ -34,7 +34,7 @@ After the email has been sent, the card displays other valuable information, inc
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tap **Confirm **to finish the job, or **Never Mind** if you had second thoughts.
+1. Tap **Confirm** to finish the job, or **Never Mind** if you had second thoughts.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -98,7 +98,8 @@ Right click on an email card to preview it.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   This way, you know your email's perfect before you pull the trigger!   
+   This way, you know your email's perfect before you pull the trigger!
+
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 
    Excellent!
@@ -107,9 +108,6 @@ And that's the scoop on viewing your email campaigns. Now, you're a pro!
 
 >[!MORELIKETHIS]
 >
->* [Understanding Marketo Moments](understanding-marketo-moments.md)
->* [Understanding Event Cards](understanding-event-cards.md)
->* [Understanding Analytics Cards](understanding-analytics-cards.md)
->* [Email Programs](http://docs.marketo.com/display/docs/email+programs)
->
-
+>* [Understanding Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Understanding Event Cards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Understanding Analytics Cards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)

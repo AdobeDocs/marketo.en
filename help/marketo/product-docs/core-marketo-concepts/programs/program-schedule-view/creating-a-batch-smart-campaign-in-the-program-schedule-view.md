@@ -6,7 +6,7 @@ title: Creating a Batch Smart Campaign in the Program Schedule View
 
 # Creating a Batch Smart Campaign in the Program Schedule View {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-You can create new smart campaigns and [rerun existing ones](rerun-a-smart-campaign-in-the-program-schedule-view.md) inside your program from the program schedule view.
+You can create new smart campaigns and [rerun existing ones](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md) inside your program from the program schedule view.
 
 >[!NOTE]
 >
@@ -20,7 +20,7 @@ You can create new smart campaigns and [rerun existing ones](rerun-a-smart-campa
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. Click the **Type** drop-down and choose **Smart** **Campaign**. 
+1. Click the **Type** drop-down and choose **Smart Campaign**.
 
    ![](assets/typechoose.png)
 
@@ -30,12 +30,12 @@ You can create new smart campaigns and [rerun existing ones](rerun-a-smart-campa
 
    ![](assets/four.png)
 
-1. Choose your [smart campaign](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) rules. 
+1. Choose your [smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) rules.
 
    ![](assets/changeprogramstatus-hands.png)
 
-1. You'll now see this smart campaign as confirmed in the schedule view and in the entry details. 
+1. You'll now see this smart campaign as confirmed in the schedule view and in the entry details.
 
    ![](assets/image2014-9-23-15-3a29-3a57.png)
 
-This will create a new smart campaign run in your program. 
+This will create a new smart campaign run in your program.

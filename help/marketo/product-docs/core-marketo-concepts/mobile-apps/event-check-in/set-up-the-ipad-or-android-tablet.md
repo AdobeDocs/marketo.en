@@ -36,7 +36,7 @@ If your iPad doesn't already have the Marketo Events app installed, here's how t
 
 If your Android tablet doesn't have the Marketo Events app installed yet, here's how to get it.
 
-1. Open your tablet and tap the** Google Play Store** app.
+1. Open your tablet and tap the **Google Play Store** app.
 1. In the Search box, enter **Marketo** and tap **Return**.
 1. In the Search results, tap the **Marketo Events** app.
 
@@ -62,7 +62,7 @@ Before you assign iPads or tablets to trade show staff, confirm that the login c
 Sync to be sure the people you've added are there.
 
 1. Open your event in the iPad or Android app.
-1. Look for the people. If you don't see them, tap **Sync **to sync the app and reload the Events people list.
+1. Look for the people. If you don't see them, tap **Sync** to sync the app and reload the Events people list.
 
    **iPad**
 
@@ -76,7 +76,7 @@ Sync to be sure the people you've added are there.
 
 Be sure to confirm that check-ins are working from the iPad or tablet before the event.
 
-1. In the app, [check a test lead in](check-people-into-your-event-from-your-tablet.md).
+1. In the app, [check a test lead in](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. Tap the **Sync** icon to sync the app.
 1. In Marketo, open your event and click **Members**.
 
@@ -89,4 +89,3 @@ Be sure to confirm that check-ins are working from the iPad or tablet before the
    >[!TIP]
    >
    >Use yourself as the test person.
-

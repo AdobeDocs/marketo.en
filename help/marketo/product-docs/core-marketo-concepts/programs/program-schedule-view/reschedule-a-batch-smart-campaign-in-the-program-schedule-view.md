@@ -12,7 +12,9 @@ Want to reschedule a batch smart campaign run? Drag and drop them into the futur
 
    ![](assets/image2015-5-19-12-3a8-3a28.png)
 
-1. Drag and drop to the new date on which you want the campaign to run. ![](assets/image2015-5-19-12-3a12-3a1.png)
+1. Drag and drop to the new date on which you want the campaign to run.
+
+  ![](assets/image2015-5-19-12-3a12-3a1.png)
 
 1. Great! The smart campaign has been rescheduled. The time can also be changed from the **Date** drop-down in the entry details.
 
@@ -20,5 +22,4 @@ Want to reschedule a batch smart campaign run? Drag and drop them into the futur
 
 >[!MORELIKETHIS]
 >
->[Rescheduling an Entire Program from the Schedule View](rescheduling-an-entire-program-from-the-schedule-view.md)
-
+>[Rescheduling an Entire Program from the Schedule View](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md)

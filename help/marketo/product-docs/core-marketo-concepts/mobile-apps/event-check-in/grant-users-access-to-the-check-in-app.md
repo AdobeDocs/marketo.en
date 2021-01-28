@@ -34,7 +34,7 @@ Marketo has a special user role for the event check-in app. Here's how to create
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. Click** Invite New User**.
+1. Click **Invite New User**.
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
@@ -50,4 +50,4 @@ Marketo has a special user role for the event check-in app. Here's how to create
    >
    >For existing users, you may either create a new role or add the Access Mobile Application permission to the current role.
 
-The user will receive an email telling them they have access to the check-in app. 
+The user will receive an email telling them they have access to the check-in app.

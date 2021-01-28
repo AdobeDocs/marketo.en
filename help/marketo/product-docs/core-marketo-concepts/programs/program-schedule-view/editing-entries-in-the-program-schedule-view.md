@@ -46,5 +46,4 @@ You rock! Now the date of your entry has been moved to a new date.
 
 >[!NOTE]
 >
-> Smart campaign and email program entries that have already run cannot be moved to the past. 
-
+> Smart campaign and email program entries that have already run cannot be moved to the past.

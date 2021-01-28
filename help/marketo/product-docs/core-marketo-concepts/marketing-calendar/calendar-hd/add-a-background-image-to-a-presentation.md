@@ -10,8 +10,7 @@ Customize a presentation by selecting a background image.
 
 >[!PREREQUISITES]
 >
->* [Create a Presentation](create-a-presentation.md)
->
+>[Create a Presentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 1. Right-click a presentation and select **View Setup**.
 
@@ -21,7 +20,7 @@ Customize a presentation by selecting a background image.
 
    ![](assets/image2015-3-24-14-3a36-3a52.png)
 
-1. Drag and drop **Background Image **from the right tree into the canvas.
+1. Drag and drop **Background Image** from the right tree into the canvas.
 
    ![](assets/image2015-3-24-14-3a39-3a40.png)
 
@@ -38,4 +37,3 @@ Customize a presentation by selecting a background image.
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 
    And that's it!
-

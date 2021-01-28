@@ -24,4 +24,4 @@ Mark an email program, event, or analytics card as Done to remove it from your s
    >
    >Marking a card as Done doesn't delete the email, event, or smart campaign. It only moves it from the Moments/Later stream into the Done stream.
 
-Piece of cake! 
+Piece of cake!

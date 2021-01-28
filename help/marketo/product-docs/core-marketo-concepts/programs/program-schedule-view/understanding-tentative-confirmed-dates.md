@@ -10,7 +10,7 @@ Smart campaigns and email programs have a powerful capability to be marked as **
 
 ## Tentative {#tentative}
 
-Tentative dates convey intent. Think of this as *penciling *something in the calendar. Tentative entries will not run - they are placeholders only.
+Tentative dates convey intent. Think of this as _penciling_ something in the calendar. Tentative entries will not run - they are placeholders only.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -22,17 +22,21 @@ Tentative dates convey intent. Think of this as *penciling *something in the cal
 
 This is just like approving an asset, so entries need to been fully set up before you can confirm them. Once all your ducks are in a row, you can confirm entries by sliding the tentative tab to the right.
 
-![](assets/image2014-9-23-15-3a23-3a2.png)  ![](assets/image2014-9-23-15-3a23-3a8.png) ![](assets/image2014-9-23-15-3a23-3a12.png)
+![](assets/image2014-9-23-15-3a23-3a2.png)
+
+![](assets/image2014-9-23-15-3a23-3a8.png)
+
+![](assets/image2014-9-23-15-3a23-3a12.png)
 
 >[!NOTE]
 >
->Why the dog? He's a Golden Retriever. He's fetching your data.
+>Why the dog? He's a Retriever. He's fetching your data.
 
 ## Confirmed {#confirmed}
 
 Confirmed entries will definitely run. They have rules, approved assets, and a confirmed date and time.
 
-![](assets/image2014-9-23-15-3a23-3a30.png)  
+![](assets/image2014-9-23-15-3a23-3a30.png)
 
 ## Finished  {#finished}
 

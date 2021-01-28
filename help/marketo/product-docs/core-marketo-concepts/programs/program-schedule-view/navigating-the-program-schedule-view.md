@@ -18,15 +18,16 @@ Here are the basics to help you navigate the program schedule view.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
-   Groovy. Now you'll be looking at the schedule view of your program.
+   Now you'll be looking at the schedule view of your program.
 
    ![](assets/image2014-9-17-11-3a38-3a14.png)
 
 >[!NOTE]
 >
->The program schedule view is sticky. Once you set it, all programs will default to the schedule view. 
+>The program schedule view is sticky. Once you set it, all programs will default to the schedule view.
 
-1. Switching Between Entries
+## Switching Between Entries {#switching-between-entries}
+
 1. In the entry details, click the arrows to move to the next scheduled entry.
 
    ![](assets/image2014-9-17-11-3a38-3a54.png)
@@ -35,7 +36,8 @@ Here are the basics to help you navigate the program schedule view.
 
    ![](assets/image2014-9-17-11-3a39-3a10.png)
 
-1. View Context Menu
+## View Context Menu {#view-context-menu}
+
 1. Right-click on any program to make edits to the Program, Smart List, Setup, My Tokens, or Members.
 
    ![](assets/image2014-9-17-11-3a39-3a59.png)
@@ -56,6 +58,4 @@ Great! Now that you know how to view your program, let's learn the other cool th
 
 >[!MORELIKETHIS]
 >
->* [Creating an Entry in the Program Schedule View](creating-an-entry-in-the-program-schedule-view.md)
->
-
+>[Creating an Entry in the Program Schedule View](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)

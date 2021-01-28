@@ -16,14 +16,13 @@ Set up your calendar presentation to reflect the goals and activities that matte
 
 >[!PREREQUISITES]
 >
->* [Create Custom Goals](create-a-custom-goal.md) or [Smart List Goals](create-a-smart-list-goal.md)
+>* [Create Custom Goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) or [Smart List Goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)
 >
->* [Create a Presentation](create-a-presentation.md)
->
+>* [Create a Presentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 ## Choosing the Views {#choosing-the-views}
 
-Presentations cycle through different [filter definitions](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) you choose. Pull in as many views as you like and customize the frequency.
+Presentations cycle through different [filter definitions](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) you choose. Pull in as many views as you like and customize the frequency.
 
 1. From the right tree, drag in the different views you want rotated through in your presentation.
 
@@ -31,7 +30,7 @@ Presentations cycle through different [filter definitions](../../../../product-d
 
 ## Add a Goal {#add-a-goal}
 
-Presentations are the most awesome when they display your team goals. Just drag over different [custom goals](create-a-custom-goal.md) or [smart list goals](create-a-smart-list-goal.md). You can use up to 10.
+Presentations are the most awesome when they display your team goals. Just drag over different [custom goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) or [smart list goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md). You can use up to 10.
 
 1. From the right tree, drag in different goals you want displayed in your presentation.
 
@@ -41,7 +40,7 @@ Presentations are the most awesome when they display your team goals. Just drag 
 
 Once you've pulled in the views you want in the presentation, set the frequency at which it rotates between the different views.
 
-1. Click** 5 minutes** (this is the default cadence).
+1. Click **5 minutes** (this is the default cadence).
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
@@ -65,7 +64,7 @@ The calendar display can be changed to a 3-week or monthly view.
 
 >[!TIP]
 >
->Set a [background image](add-a-background-image-to-a-presentation.md) for your presentation. We suggest kittens or rainbows.
+>Set a [background image](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md) for your presentation. We suggest kittens or rainbows.
 
 ## Preview a Presentation {#preview-a-presentation}
 
@@ -81,11 +80,7 @@ Once the presentation has been configured, it's ready to be previewed and launch
 
    Don't like what you see? Go back and use different filter definitions to create the view you like.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Add a Background Image to a Presentation](add-a-background-image-to-a-presentation.md)
->* [Launch a Presentation](launch-a-presentation.md)
->
-
+>* [Add a Background Image to a Presentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)
+>* [Launch a Presentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md)

@@ -19,6 +19,7 @@ For future smart campaigns that are scheduled but have not yet run, the Marketo 
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
 1. The details card gives you access to information on the Smart List filters, Flow, and Email Summary.
+
 1. Tap **Smart List**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
@@ -59,7 +60,7 @@ It's a good idea to get a look at an email before it goes out. Or, send a sample
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tap [Send Sample](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) or [Preview Email](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (click these links for details).
+1. Tap [Send Sample](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) or [Preview Email](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (click these links for details).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -121,9 +122,9 @@ You can reschedule a confirmed smart campaign that hasn't run yet.
 
 As with other Marketo Moments cards, you can tap the three dots on any Smart Campaign card or details card to:
 
-* [Make it a favorite](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Mark it done](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Share it](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Make it a favorite](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Mark it done](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Share it](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 ![](assets/image2015-9-21-14-3a38-3a19.png)
 

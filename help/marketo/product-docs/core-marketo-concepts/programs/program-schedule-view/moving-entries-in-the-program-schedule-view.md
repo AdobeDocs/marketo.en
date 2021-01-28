@@ -20,7 +20,6 @@ Moving entries in the schedule view will automatically reschedule them.
 
    ![](assets/image2014-9-18-17-3a47-3a35.png)
 
-   Woof woof! Your entry will now be rescheduled.
+   Your entry will now be rescheduled.
 
    ![](assets/image2014-9-18-17-3a49-3a19.png)
-

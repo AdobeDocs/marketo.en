@@ -21,4 +21,3 @@ Sometimes you can have too much of a good thing. Delete old presentations to mak
    ![](assets/image2015-3-20-16-3a21-3a10.png)
 
    Poof! Out of sight, out of mind.
-

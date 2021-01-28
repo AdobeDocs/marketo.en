@@ -24,7 +24,8 @@ You can share a sample of an email moment directly with someone. There are two w
 
 ## The Quick Way {#the-quick-way}
 
-1. Tap the paper airplane icon on the Email Preview screen to send a sample directly from the preview.   
+1. Tap the paper airplane icon on the Email Preview screen to send a sample directly from the preview.
+
    ![](assets/image2015-9-25-10-3a28-3a47.png)
 
 Mission Accomplished!

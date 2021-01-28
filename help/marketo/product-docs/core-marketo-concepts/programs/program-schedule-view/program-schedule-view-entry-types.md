@@ -6,7 +6,7 @@ title: Program Schedule View Entry Types
 
 # Program Schedule View Entry Types {#program-schedule-view-entry-types}
 
-There are eight different built-in entry types that will be visible and available for use in your program schedule view. You can also [create custom entry types](create-custom-entry-types.md) in the Admin section. 
+There are eight different built-in entry types that will be visible and available for use in your program schedule view. You can also [create custom entry types](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) in the Admin section.
 
 <table> 
  <thead> 
@@ -50,9 +50,3 @@ There are eight different built-in entry types that will be visible and availabl
   </tr> 
  </tbody> 
 </table>
-
->[!MORELIKETHIS]
->
->* [Create a Custom Entry Type](create-custom-entry-types.md)
->
-

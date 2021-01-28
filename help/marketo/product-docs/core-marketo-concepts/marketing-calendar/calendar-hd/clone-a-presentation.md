@@ -21,4 +21,3 @@ Clone a presentation for reuse in different places.
    ![](assets/image2015-3-20-16-3a14-3a44.png)
 
    Great! An exact copy of your presentation now exists.
-

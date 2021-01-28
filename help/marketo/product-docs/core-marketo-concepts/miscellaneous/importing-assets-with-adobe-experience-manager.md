@@ -16,7 +16,7 @@ The Asset Picker allows Marketo customers to access, select, and import AEM asse
 
 >[!PREREQUISITES]
 >
->Make sure you've already performed the [AEM Configuration](https://docs.marketo.com/x/FwPLAQ).
+>Make sure you've already performed the [AEM Configuration](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
 >[!CAUTION]
 >
@@ -34,7 +34,7 @@ The Asset Picker allows Marketo customers to access, select, and import AEM asse
 
    ![](assets/three-1.png)
 
-1. Log-in to Adobe Experience Manager (if you haven't already).
+1. Log in to Adobe Experience Manager (if you haven't already).
 
    ![](assets/four-1.png)
 

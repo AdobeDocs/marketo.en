@@ -12,15 +12,11 @@ The power of Marketo is now in your hands, literally! Preview and reschedule ema
 >
 >**Availability**
 >
->Access Mobile Apps permission is required. Contact your Marketo Admin to [update your role](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
-
-## Introducing Moments {#introducing-moments}
-
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/IJfpzE8l73E" frameborder="0" allowfullscreen></iframe>` 
+>Access Mobile Apps permission is required. Contact your Marketo Admin to [update your role](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Streams {#streams}
 
-Here are the different streams in Moments. 
+Here are the different streams in Moments.
 
 ![](assets/image2015-7-15-15-3a6-3a10.png)
 
@@ -28,13 +24,10 @@ Here are the different streams in Moments.
 >
 >**Definition**
 >
->Moments- Anything that just ran, or is about to run goes here.
->
->Favorites - Anything you make a favorite goes in here. 
->
->Later - Anything taking place later than this moment goes in here.
->
->Done - Anything that finished running or you marked as done goes here.
+>* Moments: Anything that just ran, or is about to run goes here.
+>* Favorites: Anything you make a favorite goes in here.
+>* Later: Anything taking place later than this moment goes in here.
+>* Done: Anything that finished running or you marked as done goes here.
 
 OK, now that we've got that out of the way, let's take a peek at Marketo Moments on a phone!
 
@@ -46,11 +39,11 @@ Marketo Moments gives you three different cards to follow the progress of your e
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**heart-beat** - Hey - this email is being delivered now! And here are stats, too. Go ahead and share it.
+**Heart-beat** - Hey - this email is being delivered now! And here are stats, too. Go ahead and share it.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**Results** - Here's how the email did. After the email finishes running, the Results card displays the engagement score and other stats. 
+**Results** - Here's how the email did. After the email finishes running, the Results card displays the engagement score and other stats.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
@@ -81,21 +74,16 @@ Great! Now, you can make something happen by tapping:
 >**Definition**
 >
 >* Favorite: It's easy to pay attention to the stuff that's most timely and important if you make them favorites.
->* Done: Done gets it off your Marketo Moments view (but leaves it in Marketo, safe and sound). 
+>* Done: Done gets it off your Marketo Moments view (but leaves it in Marketo, safe and sound).
 >* Share: Send an image to motivate or congratulate your team.
 >* Send Sample (email only): Use this to let others check out how your emails look before you send them out.
 >* Preview Email (emails only): It's always a good idea to check out your emails in advance.
->
 
 ## Later Moments {#later-moments}
 
 The Later section shows upcoming activities.
 
 1. Start by tapping the hamburger menu.
-
-   >[!NOTE]
-   >
-   >According to the [Guinness Book of World Records](http://www.guinnessworldrecords.com/world-records/largest-hamburger), the world's largest hamburger weighed 2,014 lbs.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
@@ -131,7 +119,7 @@ Analytics Moment cards show you how your emails and events are performing month-
 
 ## Smart Campaign Run Cards {#smart-campaign-run-cards}
 
-Smart campaign cards represent a single run of a  campaign. A new card appears each time the smart campaign runs. Tap to see the smart list filters used, the campaign flow, and each of the emails used in the campaign. 
+Smart campaign cards represent a single run of a  campaign. A new card appears each time the smart campaign runs. Tap to see the smart list filters used, the campaign flow, and each of the emails used in the campaign.
 
 ![](assets/image2015-9-23-11-3a0-3a54.png)
 
@@ -141,16 +129,6 @@ Every step of the way, you can confirm or cancel an action. If you change your m
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-Ready to learn more?
-
->[!MORELIKETHIS]
->
->* [Understanding Email Program Cards](understanding-email-program-cards.md)
->* [Understanding Event Cards](understanding-event-cards.md)
->* [Understanding Analytics Cards](understanding-analytics-cards.md)
->* [Understanding Smart Campaign Cards](understanding-smart-campaign-cards.md)
->
-
 ## Supported Versions  {#supported-versions}
 
 Marketo Moments supports these operating system versions:
@@ -158,3 +136,11 @@ Marketo Moments supports these operating system versions:
 * Apple iOS 8.0 and higher.
 * Android version 4.1 and higher (basically Jellybean and up).
 
+Ready to learn more?
+
+>[!MORELIKETHIS]
+>
+>* [Understanding Email Program Cards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Understanding Event Cards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Understanding Analytics Cards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [Understanding Smart Campaign Cards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)

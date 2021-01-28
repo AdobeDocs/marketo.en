@@ -37,4 +37,3 @@ Great! Now when you create a new entry in your schedule view, this type will be 
 >[!NOTE]
 >
 >You can create up to 100 custom entry types.
-
