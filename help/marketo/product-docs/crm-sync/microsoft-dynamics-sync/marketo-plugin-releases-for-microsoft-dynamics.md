@@ -8,7 +8,7 @@ title: Marketo Plugin Releases for Microsoft Dynamics
 
 When you first sync to Microsoft Dynamics, you download the latest version of the the plugins for Marketo. Periodically, Marketo updates these plugins, so you can return to the same place to download the new version.
 
-[Download the latest plugin](sync-setup/download-the-marketo-lead-management-solution.md) corresponding to your Dynamics release.
+[Download the latest plugin](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) corresponding to your Dynamics release.
 
 ![](assets/lead-management-solution.png)
 
@@ -95,4 +95,4 @@ The table below displays the latest versions.
 
 >[!MORELIKETHIS]
 >
->* [Download the Marketo Lead Management Solution](sync-setup/download-the-marketo-lead-management-solution.md)
+>[Download the Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)

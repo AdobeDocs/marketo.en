@@ -24,26 +24,18 @@ The sync between Marketo and Dynamics is bidirectional for leads and contacts. I
 
 ## What is Synced between Marketo and Microsoft Dynamics? {#what-is-synced-between-marketo-and-microsoft-dynamics}
 
-* [Leads](microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
-* [Contacts](microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
-* [Accounts](microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
-* [Users](microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
+* [Leads](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
+* [Contacts](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
+* [Accounts](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
+* [Users](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
 * Teams (groups of SystemUsers)
-* [Opportunities](microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
-* [Custom entities](microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
+* [Opportunities](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
+* [Custom entities](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
 
 >[!NOTE]
 >
 >The [credentials you enter in Marketo for Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) are used to sync data over.
 
-There are many nuances and features about Dynamics sync. Check out the details in the [Microsoft Dynamics Sync Details section](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details).
-
 >[!CAUTION]
 >
 >We do not currently support sandbox refresh for Marketo Dynamics Sync. If you need to refresh your Dynamics CRM sandbox, a new Marketo sandbox will be required. Please contact your Customer Success Manager for additional details.
-
->[!MORELIKETHIS]
->
->* [Sync Setup](http://docs.marketo.com/display/docs/sync+setup)
->
->* [Microsoft Dynamics Sync Details](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details)

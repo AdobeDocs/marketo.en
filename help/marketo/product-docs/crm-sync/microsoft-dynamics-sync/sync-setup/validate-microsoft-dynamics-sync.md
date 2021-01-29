@@ -8,7 +8,7 @@ title: Validate Microsoft Dynamics Sync
 
 >[!CAUTION]
 >
->If you have Multi-Factor Authentication (MFA) enabled for your Dynamics Sync, you must disable it in order for Dynamics to properly sync with Marketo. For additional information, please contact [Marketo Support](http://nation.marketo.com/community/support_solutions).
+>If you have Multi-Factor Authentication (MFA) enabled for your Dynamics Sync, you must disable it in order for Dynamics to properly sync with Marketo. For additional information, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 ## Run Validate Sync in Marketo {#run-validate-sync-in-marketo}
 
@@ -38,7 +38,7 @@ It's very important to run the Validate Sync tool to make sure your Microsoft Dy
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. If you see an ![--](assets/delete.png), then that step has an issue. See [Fix Dynamics Validation Sync Issues](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) to identify and fix the problem. Then rerun the sync validation steps until the result looks like the image above.
+1. If you see an ![--](assets/delete.png), then that step has an issue. See [Fix Dynamics Validation Sync Issues](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) to identify and fix the problem. Then rerun the sync validation steps until the result looks like the image above.
 
    >[!CAUTION]
    >
@@ -46,5 +46,4 @@ It's very important to run the Validate Sync tool to make sure your Microsoft Dy
 
 >[!MORELIKETHIS]
 >
->[Fix Dynamics Validation Sync Issues](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
-
+>[Fix Dynamics Validation Sync Issues](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
