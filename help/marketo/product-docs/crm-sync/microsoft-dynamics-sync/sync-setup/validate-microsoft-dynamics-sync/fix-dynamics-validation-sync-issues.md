@@ -8,7 +8,7 @@ title: Fix Dynamics Validation Sync Issues
 
 ## Validate Sync Tool Results {#validate-sync-tool-results}
 
-When you run the Dynamics Validate Sync, it generates this report. If there's an ![delete](assets/delete.png) next to a step, see below to identify and fix the problem. Then rerun the sync validation steps until the result shows nothing but checkmarks. 
+When you run the Dynamics Validate Sync, it generates this report. If there's an ![delete](assets/delete.png) next to a step, see below to identify and fix the problem. Then rerun the sync validation steps until the result shows nothing but checkmarks.
 
 ![](assets/image2015-9-22-15-3a58-3a12.png)
 
@@ -72,7 +72,7 @@ If you have an ![--](assets/delete.png) here, Go to Microsoft Dynamics to verify
 
    ![](assets/one.png)
 
-1. Click **Settings **and select **Solutions.**
+1. Click **Settings** and select **Solutions.**
 
    ![](assets/eleven.png)
 
@@ -92,7 +92,7 @@ If you have an ![--](assets/delete.png) here, make sure the Sync user is assigne
 
    ![](assets/one.png)
 
-1. Click **Settings **and select **Marketo Config**.
+1. Click **Settings** and select **Marketo Config**.
 
    ![](assets/thirteen.png)
 
@@ -106,5 +106,4 @@ If you have an ![--](assets/delete.png) here, be sure to assign the proper sync 
 
 >[!MORELIKETHIS]
 >
->[Validate Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
-
+>[Validate Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)

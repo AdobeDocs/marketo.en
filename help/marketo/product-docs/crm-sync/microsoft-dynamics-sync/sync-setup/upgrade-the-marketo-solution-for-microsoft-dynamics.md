@@ -14,9 +14,9 @@ When a new Microsoft Dynamics solutions is released, you can download the upgrad
 
 >[!CAUTION]
 >
->It is imperative you download the latest Marketo Solution *before* performing any upgrade.
+>It is imperative you download the latest Marketo Solution _before_ performing any upgrade.
 
-1. Go to the **Admin **area.
+1. Go to the **Admin** area.
 
    ![](assets/admin.png)
 
@@ -33,4 +33,3 @@ When a new Microsoft Dynamics solutions is released, you can download the upgrad
    ![](assets/msd-online.png)
 
    Awesome! A zip file of the solution will now be downloaded to your device. If you are unfamiliar with the install steps, please contact your Dynamics Admin.
-

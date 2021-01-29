@@ -14,7 +14,7 @@ You will need to download and install a Marketo Solution into your Microsoft Dyn
 
 >[!CAUTION]
 >
->It is imperative you download the latest Marketo Solution *before* performing any upgrade.
+>It is imperative you download the latest Marketo Solution _before_ performing any upgrade.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ You will need to download and install a Marketo Solution into your Microsoft Dyn
 
 1. Go to the **Admin** area.
 
-   ![](assets/admin.png)
+   ![](assets/admin-1.png)
 
 1. Click on **CRM**.
 
@@ -38,7 +38,6 @@ You will need to download and install a Marketo Solution into your Microsoft Dyn
 
 1. Select the appropriate solution for your Microsoft Dynamics version.
 
-   ![](assets/msd-online.png)
+   ![](assets/msd-online-1.png)
 
    Awesome! A zip file of the solution will now be downloaded to your device.
-

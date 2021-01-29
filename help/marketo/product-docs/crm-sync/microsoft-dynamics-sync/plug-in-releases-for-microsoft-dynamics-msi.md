@@ -8,7 +8,7 @@ title: Plug-In Releases for Microsoft Dynamics MSI
 
 When you first sync to Microsoft Dynamics, you download and install the latest version of the plug-ins for Marketo Sales Insight (MSI). Periodically, Marketo updates these plug-ins, so you can return to the same place to download the new version.
 
-Please [download the latest plug-in](http://docs.marketo.com/x/LoJo) corresponding to your Dynamics release.
+Please [download the latest plug-in](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) corresponding to your Dynamics release.
 
 >[!NOTE]
 >
@@ -16,7 +16,7 @@ Please [download the latest plug-in](http://docs.marketo.com/x/LoJo) correspondi
 
 ## Updating your MSI Solution {#updating-your-msi-solution}
 
-1. Import the latest version of the solution over the existing version of your Dynamics CRM (ex: if your Dynamics CRM has version 1.4 and the latest version is 1.5, you would import *over* version 1.4).
+1. Import the latest version of the solution over the existing version of your Dynamics CRM (ex: if your Dynamics CRM has version 1.4 and the latest version is 1.5, you would import _over_ version 1.4).
 1. You will see the following pop-up. Select the **Update** and **Overwrite customization** options, then click **Import**.
 
    ![](assets/one.png)
@@ -62,4 +62,3 @@ Please [download the latest plug-in](http://docs.marketo.com/x/LoJo) correspondi
   </tr> 
  </tbody> 
 </table>
-
