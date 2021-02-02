@@ -10,7 +10,7 @@ title: Create a Contact in Microsoft Dynamics
 
    ![](assets/one.png)
 
-1. Click **Person Actions **and** Microsoft,** and select **Sync Person to Microsoft**.
+1. Click **Person Actions** and **Microsoft**, and select **Sync Person to Microsoft**.
 
    ![](assets/two.png)
 
@@ -29,4 +29,3 @@ title: Create a Contact in Microsoft Dynamics
 1. Now, you can select **Contact** when you use the Sync As constraint in a smart campaign filter.
 
    ![](assets/five.png)
-

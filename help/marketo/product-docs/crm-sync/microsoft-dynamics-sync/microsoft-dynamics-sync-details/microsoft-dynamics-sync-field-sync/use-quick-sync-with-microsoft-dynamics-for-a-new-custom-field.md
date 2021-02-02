@@ -20,7 +20,7 @@ Here's how to use Quick Sync to resync for new fields.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. Click** Microsoft Dynamics**.
+1. Click **Microsoft Dynamics**.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
@@ -60,7 +60,7 @@ What if you want to sync an existing field, but only do so for a limited set of 
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. Choose **Updated **and select a date range using the date pickers. Click **Save**.
+1. Choose **Updated** and select a date range using the date pickers. Click **Save**.
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
@@ -79,4 +79,3 @@ In the rare case where a Dynamics and Marketo field are out of sync, there's a q
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 
    That should fix it!
-

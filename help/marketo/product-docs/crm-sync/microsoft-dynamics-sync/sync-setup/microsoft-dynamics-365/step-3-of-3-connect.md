@@ -10,10 +10,9 @@ This is the last step of the sync. We're almost there!
 
 >[!PREREQUISITES]
 >
->* [Step 1 of 3: Install the Marketo Solution (Online)](step-1-of-3-install.md)
+>* [Step 1 of 3: Install the Marketo Solution (Online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
 >
->* [Step 2 of 3: Set up Marketo Sync User in Dynamics](step-2-of-3-set-up.md)
->
+>* [Step 2 of 3: Set up Marketo Sync User in Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
 
 >[!NOTE]
 >
@@ -47,7 +46,7 @@ This is the last step of the sync. We're almost there!
 
    >[!NOTE]
    >
-   >The Username in Marketo must match the User Name for the sync user in CRM. The format can be [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#bcc9cfd9cefcd8d3d1ddd5d292dfd3d1) or DOMAIN\user.
+   >The Username in Marketo must match the User Name for the sync user in CRM. The format can be user@domain.com or DOMAIN\user.
 
 ## Select Fields to Sync {#select-fields-to-sync}
 

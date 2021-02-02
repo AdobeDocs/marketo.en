@@ -10,7 +10,7 @@ Azure Active Directory extends your on-premises directories into the cloud, prov
 
 ## Registering a New App {#registering-a-new-app}
 
-1. [Log-in](http://manage.windowsazure.com/) to the Microsoft Azure management portal using an account with admin permissions. You can also access the Microsoft Azure portal through the Office 365 Admin Center by expanding the **Admin** item in the left navigation pane and selecting **Azure AD**.
+1. [Log in](http://manage.windowsazure.com/) to the Microsoft Azure management portal using an account with admin permissions. You can also access the Microsoft Azure portal through the Office 365 Admin Center by expanding the **Admin** item in the left navigation pane and selecting **Azure AD**.
 
    >[!CAUTION]
    >
@@ -31,7 +31,7 @@ Azure Active Directory extends your on-premises directories into the cloud, prov
 
    ![](assets/three.png)
 
-1. Click **New registration **at the top of the page.
+1. Click **New registration** at the top of the page.
 
    ![](assets/four.png)
 

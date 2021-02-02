@@ -14,4 +14,3 @@ To prevent syncing of records that don't have an email address, follow these rul
 
 * When the contact’s Company Name (parentcustomerid) field is updated, check if the contact’s Sync to Mkto field is true. If it is, change Sync to Mkto on the account to **True** also
 * When the opportunity’s Potential Customer (customerid) field or Contact (parentcontactid) is updated, check if the account’s Sync to Mkto field is true or if the contact’s Sync to Mkto field is true. If it is, change Sync to Mkto on the opportunity to **True** also
-

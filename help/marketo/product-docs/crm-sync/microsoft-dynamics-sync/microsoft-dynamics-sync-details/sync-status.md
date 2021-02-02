@@ -28,7 +28,7 @@ You can keep tabs on the current throughput and backlog of the sync process on t
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Click the **View: **dropdown** **and select **Last Hour **to view throughput information.
+1. Click the **View:** drop-down and select **Last Hour** to view throughput information.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -48,4 +48,4 @@ Browse, search, or export leads (and other objects) that failed to synchronize w
 
 >[!MORELIKETHIS]
 >
->* [Notification Types](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+>[Notification Types](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)

@@ -12,8 +12,7 @@ title: Step 2 of 3 -Create a Salesforce User for Marketo (Professional)
 
 >[!PREREQUISITES]
 >
->* [Step 1 of 3: Add Marketo Fields to Salesforce (Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
->
+>[Step 1 of 3: Add Marketo Fields to Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
 In this article, you will customize field permissions with a Salesforce Page Layout and create a Marketo-Salesforce sync user.
 
@@ -82,9 +81,6 @@ Salesforce Professional sets field level accessibility with Page Layouts, as opp
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >Make sure that the **All-Day Event** field has been added to the **Event Page Layout**.
 
 ## Create Sync User {#create-sync-user}
@@ -113,10 +109,6 @@ Marketo requires credentials to access Salesforce. This is best done with a dedi
 
 Excellent! Now you have an account that Marketo can use to connect to Salesforce. Let's do it.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Step 3 of 3: Connect Marketo and Salesforce (Professional)](step-3-of-3-connect-marketo-and-salesforce-professional.md)
->
-
+>[Step 3 of 3: Connect Marketo and Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)

@@ -14,7 +14,7 @@ If you need to enable the initial custom entity sync to make data from Dynamics 
 
 >[!PREREQUISITES]
 >
->To use a custom object, it must be associated to a [lead](microsoft-dynamics-sync-lead-sync.md), [contact](microsoft-dynamics-sync-contact-sync.md), or [account](microsoft-dynamics-sync-account-sync.md)object in Dynamics.
+>To use a custom object, it must be associated to a [lead](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md), [contact](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md), or [account](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)object in Dynamics.
 
 >[!CAUTION]
 >
@@ -28,9 +28,11 @@ If you need to enable the initial custom entity sync to make data from Dynamics 
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. Install a version of Microsoft Dynamics that supports custom entity sync (after 2_0_0_2). See [Marketo Plugin Releases for MIcrosoft Dynamics](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+1. Install a version of Microsoft Dynamics that supports custom entity sync (after 2_0_0_2). See [Marketo Plugin Releases for MIcrosoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+
 1. Give the Marketo Sync User read access to any entities you plan to sync.
-1. Under Database Management, click the** Dynamics Entities Sync** link.
+
+1. Under Database Management, click the **Dynamics Entities Sync** link.
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
@@ -38,7 +40,7 @@ If you need to enable the initial custom entity sync to make data from Dynamics 
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. After the list syncs, select the fields you want to sync and ones you want to use as [constraints](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) and/or triggers in smart lists. When done, click **Enable Sync**.
+1. After the list syncs, select the fields you want to sync and ones you want to use as [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) and/or triggers in smart lists. When done, click **Enable Sync**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
@@ -52,6 +54,6 @@ If you need to enable the initial custom entity sync to make data from Dynamics 
 
    >[!NOTE]
    >
-   >Entity names can have a maximum of** 33 characters**.
+   >Entity names can have a maximum of **33 characters**.
 
-You're good! 
+You're good!

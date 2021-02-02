@@ -54,15 +54,10 @@ Marketo provides fine-grain control over the Salesforce custom object sync. This
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >Don't forget to re-enable your global sync!
 
 Wow! Now your smart lists and smart campaigns have even more power.
 
 >[!MORELIKETHIS]
 >
->* [Enable/Disable Custom Object Sync](enable-disable-custom-object-sync.md)
->
-
+>[Enable/Disable Custom Object Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md)

@@ -10,7 +10,7 @@ title: Step 1 of 3 -Add Marketo Fields to Salesforce  (Professional)
 >
 >Your Salesforce instance must have access to Salesforce API's to sync data between Marketo and Salesforce.
 
-Marketo uses a set of fields to capture certain kinds of marketing related information. If you would like this data in Salesforce, please follow the instructions below. 
+Marketo uses a set of fields to capture certain kinds of marketing related information. If you would like this data in Salesforce, please follow the instructions below.
 
 1. Create three custom fields in Salesforce on the lead and contact objects: Score, Acquisition Program, and Acquisition Date. 
 1. Map these custom fields between leads and contacts so that on conversion in Salesforce, the values carry over.
@@ -26,9 +26,7 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
 1. Log into Salesforce and click **Setup.**
 
-   ** ![](assets/image2016-5-23-13-3a15-3a21.png)
-
-   **
+   ![](assets/image2016-5-23-13-3a15-3a21.png)
 
 1. In the Build menu on the left, click **Customize** and select **Leads**. Click **Fields**.
 
@@ -107,13 +105,13 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
 1. Specify the access settings and click **Next**:
 
-    * Set all roles to **Visible **and **Read-Only**
-    
+    * Set all roles to **Visible** and **Read-Only**
+
     * Clear the **Read-Only** checkbox for the profile of your sync user:
 
-        * If you have a user with the profile of a *System Administrator* as the sync user, clear the **Read-Only** checkbox for the System Administrator profile (as shown below)
-        
-        * If you created a *custom profile* for the sync user, clear the **Read-Only** checkbox for that custom profile
+        * If you have a user with the profile of a _System Administrator_ as the sync user, clear the **Read-Only** checkbox for the System Administrator profile (as shown below)
+
+        * If you created a _custom profile_ for the sync user, clear the **Read-Only** checkbox for that custom profile
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -125,7 +123,7 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. In the Build menu on the left, click **Customize **and select **Contacts**. Click **Fields**.
+1. In the Build menu on the left, click **Customize** and select **Contacts**. Click **Fields**.
 1. Perform steps 3 through 10 for the Score, Acquisition Date, and Acquisition Program fields on the contact object, just as you did for the lead object.
 1. Optionally, use the above procedure for any additional custom fields from this table.
 
@@ -249,14 +247,8 @@ Easy enough, right?
 
 >[!NOTE]
 >
->**Deep Dive**
->
 >Here's a [video of the entire process](https://nation.marketo.com/videos/1475) that should make it crystal clear!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Step 2 of 3: Create a Salesforce User for Marketo (Professional)](step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
->
-
+>[Step 2 of 3: Create a Salesforce User for Marketo (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)

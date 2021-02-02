@@ -22,25 +22,17 @@ The sync between Salesforce and Marketo is bidirectional only for leads, contact
 
 ## What is Synced between Marketo and Salesforce? {#what-is-synced-between-marketo-and-salesforce}
 
-* [Leads](sfdc-sync-details/sfdc-sync-lead-sync.md)
-* [Contacts](sfdc-sync-details/sfdc-sync-contact-sync.md)
-* [Accounts](sfdc-sync-details/sfdc-sync-account-sync.md)
-* [Users](sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
-* [Opportunities](sfdc-sync-details/sfdc-sync-opportunity-sync.md)
-* [Salesforce campaigns](sfdc-sync-details/sfdc-sync-campaign-sync.md)
-* [Custom objects](sfdc-sync-details/sfdc-sync-custom-object-sync.md)
-* [Activity](sfdc-sync-details/sfdc-sync-activity-sync.md)
+* [Leads](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
+* [Contacts](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
+* [Accounts](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
+* [Users](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
+* [Opportunities](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
+* [Salesforce campaigns](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+* [Custom objects](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
+* [Activity](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
 
 >[!NOTE]
 >
->The [credentials you enter in Marketo for Salesforce](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) are used to sync data over. Only data those credentials have access to will be included.
+>The [credentials you enter in Marketo for Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) are used to sync data over. Only data those credentials have access to will be included.
 
-There are many nuances and features about Salesforce sync. Check out the details in the [SFDC sync details section](http://docs.marketo.com/display/docs/sfdc+sync+details).
-
->[!MORELIKETHIS]
->
->* [Salesforce Sync Setup](http://docs.marketo.com/display/docs/setup)
->* [SFDC Sync Details](http://docs.marketo.com/display/docs/sfdc+sync+details)
->
-
-Marketo's sync with Salesforce is the most powerful of its kind in the world. It feels like magic - a change is made and the other system is soon up-to-date. 
+Marketo's sync with Salesforce is the most powerful of its kind in the world. It feels like magic; a change is made and the other system is soon up-to-date.

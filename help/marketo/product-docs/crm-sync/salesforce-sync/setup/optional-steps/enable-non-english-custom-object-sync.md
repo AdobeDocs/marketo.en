@@ -14,7 +14,7 @@ If your Marketo sync user is set to a language other than English you may run in
 
 ## Getting Around It {#getting-around-it}
 
-1. Log into Salesforce using the marketo sync user.
+1. Log in to Salesforce using the marketo sync user.
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
@@ -54,7 +54,4 @@ If your Marketo sync user is set to a language other than English you may run in
 
 >[!NOTE]
 >
->**Reminder**
->
 >Don't forget to Refresh Schema one last time to pull the objects back in your language.
-

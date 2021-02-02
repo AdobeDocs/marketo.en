@@ -16,7 +16,7 @@ Salesforce requires (minimum) last name and company name for its Leads and Conta
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Enter a **Default person last name** and a **Default ****person company** then click **Save**.
+1. Enter a **Default person last name** and a **Default person company** then click **Save**.
 
    ![](assets/sync-options-hands.png)
 

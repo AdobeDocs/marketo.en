@@ -23,4 +23,3 @@ You can disable the automatic email notifications that are sent to Lead Owners i
 1. Uncheck the **Send email notification to owner in Salesforce upon lead assignment** box. Click **Save**.
 
    ![](assets/new-screen.png)
-
