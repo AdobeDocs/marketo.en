@@ -12,8 +12,7 @@ title: Step 2 of 3 -Create a Salesforce User for Marketo (Enterprise/Unlimited)
 
 >[!PREREQUISITES]
 >
->* [Step 1 of 3: Add Marketo Fields to Salesforce (Enterprise/Unlimited)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->
+>[Step 1 of 3: Add Marketo Fields to Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
 In this article, you will set up user permissions in Salesforce profile, and create a Marketo-Salesforce integration account.
 
@@ -90,10 +89,10 @@ In this article, you will set up user permissions in Salesforce profile, and cre
 
 1. In the profile detail page, go to **Field-Level Security** section. Click **View** to edit the accessibility for the objects:
 
-    * `Lead`
-    * `Contact`
-    * `Account`
-    * `Opportunity`
+    * Lead
+    * Contact
+    * Account
+    * Opportunity
 
    >[!TIP]
    >
@@ -105,18 +104,15 @@ In this article, you will set up user permissions in Salesforce profile, and cre
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Locate the unneeded fields, make sure that **Read Access **and** Edit Access **are unchecked. Click **Save** when you’re done.
+1. Locate the unneeded fields, make sure that **Read Access** and **Edit Access** are unchecked. Click **Save** when you’re done.
 
    >[!NOTE]
-   >
-   >**Reminder**
-   >
    >
    >Only edit the accessibility for the custom fields.
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. After you finish disabling all unneeded fields, you must check **Read Access and Edit Access **for the following object fields. Click **Save** when you’re done.
+1. After you finish disabling all unneeded fields, you must check **Read Access and Edit Access** for the following object fields. Click **Save** when you’re done.
 
 <table> 
  <tbody> 
@@ -145,7 +141,7 @@ In this article, you will set up user permissions in Salesforce profile, and cre
 
 >[!TIP]
 >
->Create a dedicated Salesforce account (e.g. [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#89e4e8fbe2ecfde6c9f0e6fcfbeae6e4f9e8e7f0a7eae6e4)) to distinguish the changes made by Marketo versus other Salesforce users.
+>Create a dedicated Salesforce account (e.g., marketo@yourcompany.com) to distinguish the changes made by Marketo versus other Salesforce users.
 
 1. Type "Manage users" into the Nav search bar, then click on **Users**. Click on **New User**.
 
@@ -159,8 +155,4 @@ Step 2 of 2 is completed.
 
 >[!NOTE]
 >
->**Related Articles**
->
->* [Step 3 of 3: Connect Marketo and Salesforce (Enterprise/Unlimited)](step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
->
-
+>[Step 3 of 3: Connect Marketo and Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)

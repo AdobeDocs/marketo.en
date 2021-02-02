@@ -10,9 +10,8 @@ In this article, you will configure Marketo to sync with your configured Salesfo
 
 >[!PREREQUISITES]
 >
->* [Step 1 of 3: Add Marketo Fields to Salesforce (Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
->* [Step 2 of 3: Create a Salesforce User for Marketo (Professional)](step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
->
+>* [Step 1 of 3: Add Marketo Fields to Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
+>* [Step 2 of 3: Create a Salesforce User for Marketo (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
 
 ## Retrieve Sync User Security Token {#retrieve-sync-user-security-token}
 
@@ -36,18 +35,15 @@ In this article, you will configure Marketo to sync with your configured Salesfo
 
 ## Set Sync User Credentials {#set-sync-user-credentials}
 
-1. In Marketo, go to **Admin**, select **CRM**, and click **Sync with [Salesforce.com](http://Salesforce.com)**
+1. In Marketo, go to **Admin**, select **CRM**, and click **Sync with [Salesforce.com](https://Salesforce.com)**.
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >Be sure to [hide all fields you do not need](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo from the sync user before clicking **Sync Fields**. Once you click Sync Fields all fields the user can see will be created in Marketo permanently and cannot be deleted.
+   >Be sure to [hide all fields you do not need](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo from the sync user before clicking **Sync Fields**. Once you click Sync Fields all fields the user can see will be created in Marketo permanently and cannot be deleted.
 
-1. Enter the Salesforce Sync User credentials created in part 2 of the Salesforce configuration ([Professional](https://community.marketo.com/MarketoArticle?id=kA050000000LJ3QCAW), [Enterprise](https://community.marketo.com/MarketoArticle?id=kA050000000LIwKCAW)) and click **Sync Fields**.
+1. Enter the Salesforce Sync User credentials created in part 2 of the Salesforce configuration ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) and click **Sync Fields**.
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
@@ -61,7 +57,7 @@ In this article, you will configure Marketo to sync with your configured Salesfo
 
    >[!CAUTION]
    >
-   >If you want to look over the [mappings and customize them](../../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md), this is your only chance to do so! Once you click Start Salesforce Sync, it's done.
+   >If you want to look over the [mappings and customize them](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md), this is your only chance to do so! Once you click Start Salesforce Sync, it's done.
 
 ## Start Salesforce Sync {#start-salesforce-sync}
 
@@ -73,7 +69,7 @@ In this article, you will configure Marketo to sync with your configured Salesfo
    >
    >Marketo will not automatically de-dupe against a Salesforce sync, or when you manually enter leads.
 
-1. Click **START SYNC**.
+1. Click **Start Sync**.
 
    ![](assets/image2014-12-9-9-3a53-3a32.png)
 
@@ -99,12 +95,7 @@ Marketo provides status messages for the Salesforce sync in the Admin area. You 
 
 Wow, you just finished configuring one of the most powerful features of Marketo, go you!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Install Marketo Sales Insight Package in Salesforce AppExchange](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
->* [Configure Marketo Sales Insight in Salesforce Professional Edition](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
->* [Optional Steps](http://docs.marketo.com/display/docs/optional+steps)
->
-
+>* [Install Marketo Sales Insight Package in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [Configure Marketo Sales Insight in Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)

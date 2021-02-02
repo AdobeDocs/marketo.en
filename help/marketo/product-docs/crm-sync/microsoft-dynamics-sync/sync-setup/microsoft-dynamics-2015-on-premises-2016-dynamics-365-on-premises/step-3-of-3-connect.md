@@ -4,13 +4,12 @@ description: Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step
 title: Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 3 of 3
 ---
 
-# Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 3 of 3 {#install-marketo-for-dynamics-on-prem-and-on-prem-step-of}
+# Step 3 of 3: Connect Marketo Dynamics (2015 On-Prem and 2016 365 On-Prem) {#step-of-connect-marketo-dynamics-on-premises-and-365}
 
 >[!PREREQUISITES]
 >
->* [Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 1 of 3](step-1-of-3-install.md)
->* [Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 2 of 3](step-2-of-3-set-up.md)
->
+>* [Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>* [Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 2 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
 
 >[!NOTE]
 >
@@ -18,7 +17,7 @@ title: Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 3 of 
 
 ## Enter Dynamics Sync User information {#enter-dynamics-sync-user-information}
 
-1. Log into Marketo and click **Admin**.
+1. Log in to Marketo and click **Admin**.
 
    ![](assets/login-admin.png)
 
@@ -44,11 +43,11 @@ title: Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 3 of 
 
    >[!NOTE]
    >
-   >The Username in Marketo must match the User Name for the sync user in CRM. The format can be [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#8cf9ffe9fecce8e3e1ede5e2a2efe3e1) or DOMAIN\user.
+   >The Username in Marketo must match the User Name for the sync user in CRM. The format can be user@domain.com or DOMAIN\user.
 
    >[!TIP]
    >
-   >Don't know the URL? We will show you how to find your [Dynamics Organization Service URL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) here.
+   >Don't know the URL? We will show you how to find your [Dynamics Organization Service URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) here.
 
 ## Select Fields to Sync {#select-fields-to-sync}
 

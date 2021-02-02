@@ -10,8 +10,8 @@ Alright! We installed the solution and configured the sync user. Next, we need t
 
 >[!PREREQUISITES]
 >
->* [Step 1 of 3: Install the Marketo Solution (2011 On-Premises)](step-1-of-3-install.md)
->* [Step 2 of 3: Set Up Marketo Sync User in Dynamics (2011 On-Premises)](step-2-of-3-set-up.md)
+>* [Step 1 of 3: Install the Marketo Solution (2011 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
+>* [Step 2 of 3: Set Up Marketo Sync User in Dynamics (2011 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
 
 >[!NOTE]
 >
@@ -45,17 +45,17 @@ Alright! We installed the solution and configured the sync user. Next, we need t
 
    >[!NOTE]
    >
-   >The Username in Marketo must match the User Name for the sync user in CRM. The format can be [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#a0d5d3c5d2e0c4cfcdc1c9ce8ec3cfcd) or DOMAIN\user.
+   >The Username in Marketo must match the User Name for the sync user in CRM. The format can be user@domain.com or DOMAIN\user.
 
    >[!TIP]
    >
-   >Don't know the URL? We'll show you how to find the [Dynamics Organization Service URL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) here.
+   >Don't know the URL? We'll show you how to find the [Dynamics Organization Service URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) here.
 
 ## Select Fields to Sync {#select-fields-to-sync}
 
 Now we need to select the fields we want to sync over.
 
-1. Click **Edit **in** Step 2: Select Fields to Sync.**
+1. Click **Edit** in **Step 2: Select Fields to Sync.**
 
    ![](assets/image2015-3-16-9-51-28a.png)
 
@@ -97,4 +97,4 @@ If you've created a custom filter, be sure to go in and select the new fields to
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
 
-   Excellent work! 
+   Excellent work!

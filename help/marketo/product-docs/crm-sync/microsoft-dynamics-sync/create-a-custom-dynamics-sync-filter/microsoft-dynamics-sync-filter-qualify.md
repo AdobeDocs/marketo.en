@@ -21,5 +21,4 @@ Here's how the filters work during the conversion process.
 
 >[!CAUTION]
 >
->We only support the out-of-the-box Qualify conversion process. 
-
+>We only support the out-of-the-box Qualify conversion process.

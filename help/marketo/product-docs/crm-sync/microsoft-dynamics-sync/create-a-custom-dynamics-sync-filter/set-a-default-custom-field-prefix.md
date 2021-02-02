@@ -10,9 +10,7 @@ Your default Microsoft Dynamics prefix for custom fields must be **new** in orde
 
 1. Go to Settings and select **Customizations.**
 
-   ** ![](assets/image2015-10-9-11-3a18-3a8.png)
-
-   **
+   ![](assets/image2015-10-9-11-3a18-3a8.png)
 
 1. Click **Publishers**.
 
@@ -35,4 +33,3 @@ Your default Microsoft Dynamics prefix for custom fields must be **new** in orde
    ![](assets/image2015-10-9-11-3a14-3a42.png)
 
 1. Now, create your custom fields. After you complete them, revert the prefix to the original one.
-

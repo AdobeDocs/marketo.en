@@ -4,9 +4,7 @@ description: Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step
 title: Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 1 of 3
 ---
 
-# Step 1 of 3
-
-<!--Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 1 of 3-->
+# Step 1 of 3: Configure Sync User for Marketo (2015 On-Prem and 2016 365 On-Prem) {#step-of-configure-sync-user-for-marketo-on-premises-and-365}
 
 Before you can sync Microsoft Dynamics 2015 On-Premises or 2016 (Dynamics 365) with Marketo, you need to first install the Marketo solution in Dynamics.
 
@@ -16,9 +14,9 @@ Before you can sync Microsoft Dynamics 2015 On-Premises or 2016 (Dynamics 365) w
 
 >[!PREREQUISITES]
 >
->If you're using Microsoft Dynamics On-Premise, you must have [Internet Facing Deployment](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS) configured. Note: The IFD document downloads automatically when you click the link.
+>If you're using Microsoft Dynamics On-Premise, you must have [Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS) configured. Note: The IFD document downloads automatically when you click the link.
 >
->[Download the Marketo Lead Management Solution](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) before you start.
+>[Download the Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) before you start.
 
 >[!NOTE]
 >
@@ -38,7 +36,7 @@ Before you can sync Microsoft Dynamics 2015 On-Premises or 2016 (Dynamics 365) w
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. Click **Browse** and select the solution you [downloaded](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Click **Next**.
+1. Click **Browse** and select the solution you [downloaded](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Click **Next**.
 
    ![](assets/image2015-3-19-9-20-56.png)
 
@@ -88,9 +86,6 @@ Before you can sync Microsoft Dynamics 2015 On-Premises or 2016 (Dynamics 365) w
    >
    >Disabling any of the Marketo SDK Messaging Processes will result in a broken install!
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >
-   >[Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 2 of 3](step-2-of-3-set-up.md)
+   >[Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 2 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)

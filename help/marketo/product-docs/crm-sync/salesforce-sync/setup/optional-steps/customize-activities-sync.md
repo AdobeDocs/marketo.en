@@ -6,9 +6,9 @@ title: Customize Activities Sync
 
 # Customize Activities Sync {#customize-activities-sync}
 
-If you don't use [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), Marketo can create Salesforce Activity History Records for certain events. Here's how to enable them.
+If you don't use Marketo Sales Insight, Marketo can create Salesforce Activity History Records for certain events. Here's how to enable them.
 
-1. Go to **Admin. **
+1. Go to **Admin**.
 
    ![](assets/admin.png)
 
@@ -22,7 +22,7 @@ If you don't use [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sa
 
    >[!NOTE]
    >
-   >Once enabled, Marketo will push three months' worth of activity history. Depending on the amount of data, *this could take several days to complete*. Updates that occur during the initial Activities push may be delayed until after the initial Activities sync is complete.
+   >Once enabled, Marketo will push three months' worth of activity history. Depending on the amount of data, _this could take several days to complete_. Updates that occur during the initial Activities push may be delayed until after the initial Activities sync is complete.
 
 <table> 
  <colgroup> 
@@ -89,12 +89,8 @@ If you don't use [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sa
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >"Sales email received" does **not** mean delivered. Delivered status is not captured for emails sent via Sales Insight.
 
    >[!TIP]
    >
-   >If you're interested in getting more Marketo information into Salesforce, check out our [Marketo Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) product.
-
+   >If you're interested in getting more Marketo information into Salesforce, check out our [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) product.

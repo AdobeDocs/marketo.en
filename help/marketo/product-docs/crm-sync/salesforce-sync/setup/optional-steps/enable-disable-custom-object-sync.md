@@ -16,11 +16,9 @@ Custom Objects created in your Salesforce instance can be part of Marketo too. H
 
 1. Click **Admin**.
 
-   ** ![](assets/one.png)
+   ![](assets/one.png)
 
-   **
-
-1. In the Database Management menu, click **Salesforce** **Objects Sync**.
+1. In the Database Management menu, click **Salesforce Objects Sync**.
 
    ![](assets/two-2.png)
 
@@ -50,9 +48,7 @@ Custom Objects created in your Salesforce instance can be part of Marketo too. H
 
 1. Click **Enable Sync** again.
 
-   ** ![](assets/image2014-12-10-10-3a15-3a40.png)
-
-   **
+   ![](assets/image2014-12-10-10-3a15-3a40.png)
 
 1. Go back to the **Salesforce** tab and click **Enable Sync**.
 
@@ -64,7 +60,7 @@ Custom Objects created in your Salesforce instance can be part of Marketo too. H
 >
 >You cannot use custom objects in smart campaigns with triggers.
 
-1. In your smart list, drag over the **Has Opportunity **filter and set to** true**.
+1. In your smart list, drag over the **Has Opportunity** filter and set to **true**.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
@@ -76,6 +72,4 @@ Custom Objects created in your Salesforce instance can be part of Marketo too. H
 
 >[!MORELIKETHIS]
 >
->* [Add/Remove Custom Object Field as Smart List/Trigger Constraints](add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
->
-
+>[Add/Remove Custom Object Field as Smart List/Trigger Constraints](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)

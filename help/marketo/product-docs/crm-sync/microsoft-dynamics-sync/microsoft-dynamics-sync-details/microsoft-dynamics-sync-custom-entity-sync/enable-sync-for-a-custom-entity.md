@@ -19,9 +19,10 @@ If you need custom entity data from Dynamics to be available in Marketo, here's 
 1. Select **Microsoft Dynamics** and click **Disable Sync**.
 
    You must disable the global sync temporarily in order to enable or disable a custom entity.
+
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. Under Database Management, click the** Dynamics Entities Sync** link.
+1. Under Database Management, click the **Dynamics Entities Sync** link.
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
@@ -33,7 +34,7 @@ If you need custom entity data from Dynamics to be available in Marketo, here's 
 
    ![](assets/image2015-11-10-9-3a44-3a35.png)
 
-1. Select the fields you want to sync or use as [constraints](../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) and/or triggers in smart lists. When done, click **Enable Sync**.
+1. Select the fields you want to sync or use as [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) and/or triggers in smart lists. When done, click **Enable Sync**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 

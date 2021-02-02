@@ -8,15 +8,13 @@ title: Enable/Disable Campaign Sync
 
 >[!NOTE]
 >
->Admin rights required.
+>**Admin permissions required**
 
 This option allows Marketo to sync its program membership and statuses with Salesforce campaigns and vice versa.
 
-1. Go to **Admin, **click **Salesforce.**
+1. Go to **Admin**, click **Salesforce**.
 
-   ** ![](assets/image2014-12-9-13-3a36-3a49.png)
-
-   **
+   ![](assets/image2014-12-9-13-3a36-3a49.png)
 
 1. Click **Edit Sync Settings**.
 
@@ -30,8 +28,6 @@ There you have it. Just give the sync some time to pull the data from Salesforce
 
 >[!MORELIKETHIS]
 >
->* [SFDC Sync: Campaign Sync](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
->* [Set Default Lead Last Name and Company Values](set-default-person-last-name-and-company-name.md)
->* [Customize Activities Sync](customize-activities-sync.md)
->
-
+>* [SFDC Sync: Campaign Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+>* [Set Default Lead Last Name and Company Values](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
+>* [Customize Activities Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)

@@ -24,15 +24,15 @@ Add three custom fields on the lead and contact objects in Salesforce listed abo
 
 Perform the following steps for each of the three custom fields to add them. Start with Score.
 
-1. Log into Salesforce and click Setup.
+1. Log in to Salesforce and click **Setup**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. In the Build menu on the left, click Customize and select Leads. Click Fields.
+1. In the Build menu on the left, click **Customize** and select **Leads**. Click **Fields**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Click New in the Custom Fields & Relationships section at the bottom of the page.
+1. Click **New** in the Custom Fields & Relationships section at the bottom of the page.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
@@ -40,7 +40,7 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Click Next.
+1. Click **Next**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -99,18 +99,18 @@ Perform the following steps for each of the three custom fields to add them. Sta
 >
 >Text and number fields require a length, but Date/Time fields don't. A description is optional.
 
-1. Click Next.
+1. Click **Next**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Specify the access settings and click Next:
+1. Specify the access settings and click **Next**:
 
-   * Set all roles to **Visible **and **Read-Only**
+   * Set all roles to **Visible** and **Read-Only**
 
    * Clear the **Read-Only** checkbox for the profile of your sync user:
 
-      * If you have a user with the profile of a *System Administrator* as the sync user, clear the **Read-Only** checkbox for the System Administrator profile (as shown below)
-      * If you created a *custom profile* for the sync user, clear the **Read-Only** checkbox for that custom profile
+      * If you have a user with the profile of a _System Administrator_ as the sync user, clear the **Read-Only** checkbox for the System Administrator profile (as shown below)
+      * If you created a _custom profile_ for the sync user, clear the **Read-Only** checkbox for that custom profile
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -118,11 +118,11 @@ Perform the following steps for each of the three custom fields to add them. Sta
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Click Save & New to go back and create each of the other two custom fields. Click Save with you're done with all three.
+1. Click **Save & New** to go back and create each of the other two custom fields. Click **Save** with you're done with all three.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. In the Build menu on the left, click Customize and select Contacts. Click Fields.
+1. In the Build menu on the left, click **Customize** and select Contacts. Click Fields.
 1. Perform steps 3 through 10 for the Score, Acquisition Date, and Acquisition Program fields on the contact object, just as you did for the lead object.
 1. Optionally, use the above procedure for any additional custom fields from this table.
 
@@ -254,20 +254,15 @@ A custom field on the lead object in Salesforce should be mapped to a contact fi
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Repeat the above steps for any other fields you've created.
+
 1. Click **Save** when you're done.
 
-   Easy enough, right? 
+   Easy enough, right?
 
 >[!NOTE]
->
->**Deep Dive**
 >
 >Here's a link to a [video of the entire procedure](https://nation.marketo.com/videos/1475) that should make it crystal clear!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Step 2 of 3: Create a Salesforce User for Marketo (Enterprise/Unlimited)](step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
->
-
+>[Step 2 of 3: Create a Salesforce User for Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)

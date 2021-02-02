@@ -12,7 +12,7 @@ Marketo needs the Organization Service URL to sync with Dynamics On-Premises ins
 
    ![](assets/one.png)
 
-1. Click** Settings** and select **Customizations**.
+1. Click **Settings** and select **Customizations**.
 
    ![](assets/two.png)
 
@@ -20,9 +20,8 @@ Marketo needs the Organization Service URL to sync with Dynamics On-Premises ins
 
    ![](assets/three.png)
 
-1. The Organization Service URL can be found under** Service Endpoints**.
+1. The Organization Service URL can be found under **Service Endpoints**.
 
    ![](assets/four.png)
 
 1. Copy and paste this URL to Marketo, and enjoy the rest of the sync.
-

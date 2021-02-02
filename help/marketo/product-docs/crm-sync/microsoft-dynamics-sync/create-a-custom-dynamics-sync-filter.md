@@ -50,7 +50,7 @@ Marketo looks for this field during the automatic background sync and determines
 
    ![](assets/image2015-8-10-21-3a43-3a39.png)
 
-1. Click ![](assets/image2015-8-10-21-3a44-3a23.png) next to **Lead **and select **Fields**. Then click **New**.
+1. Click ![](assets/image2015-8-10-21-3a44-3a23.png) next to **Lead** and select **Fields**. Then click **New**.
 
    ![](assets/image2015-8-10-21-3a49-3a49.png)
 
@@ -60,7 +60,7 @@ Marketo looks for this field during the automatic background sync and determines
 
    >[!NOTE]
    >
-   >Choose any display name for this field, but the Name field must be exactly **new_synctomkto**. You must use **new** as the default prefix. If you've changed the default, go here to [reset the default prefix for the custom field names](create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md). You can change it back after you've created the new fields.
+   >Choose any display name for this field, but the Name field must be exactly **new_synctomkto**. You must use **new** as the default prefix. If you've changed the default, go here to [reset the default prefix for the custom field names](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md). You can change it back after you've created the new fields.
 
    >[!NOTE]
    >
@@ -122,7 +122,7 @@ You can always manually assign a value to the SyncToMkto fields for your records
 
    >[!TIP]
    >
-   >See [Custom Sync Filter Rules for an Email Address](create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md) to set up rules to sync only records for people with email addresses.
+   >See [Custom Sync Filter Rules for an Email Address](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md) to set up rules to sync only records for people with email addresses.
 
 ## Sync Filter Details {#sync-filter-details}
 
@@ -134,18 +134,14 @@ Here are some implementation details we thought you should know:
 
    >[!TIP]
    >
-   >A **Create [StartSync]** operation is added to the Marketo Log when this happens.
+   >A `Create [StartSync]` operation is added to the Marketo Log when this happens.
 
 1. Stop a Sync Operation
 
    When a record changes its SyncToMkto value from Yes to No, Marketo is notified to stop syncing this record. However the record is not deleted, instead, it stops getting updates and becomes stale.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Microsoft Dynamics Sync Filter: Qualify](create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
->* [Microsoft Dynamics Sync Filter: Merge](create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
->* [Custom Sync Filter Rules for an Email Address](create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
->
-
+>* [Microsoft Dynamics Sync Filter: Qualify](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
+>* [Microsoft Dynamics Sync Filter: Merge](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
+>* [Custom Sync Filter Rules for an Email Address](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
