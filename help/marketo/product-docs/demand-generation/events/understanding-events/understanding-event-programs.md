@@ -6,9 +6,7 @@ title: Understanding Event Programs
 
 # Understanding Event Programs {#understanding-event-programs}
 
->[!NOTE]
->
->**Availability**
+>[!AVAILABILITY]
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
@@ -24,20 +22,11 @@ An event program is a type of program that can be used to automate your offline 
 >* Parties
 >* Tradeshows
 >* Meetups
->
 
-Events can automatically connect to your [webinar provider](launchpoint-event-partners.md) as well as sync with an [iPad check-in app](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).  
-
-## Watch a Video {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/rvsNpqTUpsPd7KxCovVVva.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`  
+Events can automatically connect to your [webinar provider](launchpoint-event-partners.md) as well as sync with an [iPad check-in app](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).  
 
 >[!MORELIKETHIS]
 >
->Get started today with these helpful links:
+>* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >
->* [Create a New Event Program](create-a-new-event-program.md)
->
->* [LaunchPoint Event Partners](launchpoint-event-partners.md)
->
-
+>* [LaunchPoint Event Partners](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)

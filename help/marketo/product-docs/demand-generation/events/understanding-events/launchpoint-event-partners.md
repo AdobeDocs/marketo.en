@@ -15,9 +15,8 @@ Connect Marketo to a LaunchPoint Event Partner to automate your online events. W
 
 See the instructions on integrating your online Marketo Events with your LaunchPoint Event Partner:
 
-* [WebEx](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-* [Adobe Connect](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
-* [ON24](http://docs.marketo.com/pages/viewpage.action?pageid=2949868)
-* [ReadyTalk](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
-* [GoToWebinar](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
-
+* [WebEx](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+* [Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
+* [ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
+* [ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
+* [GoToWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)

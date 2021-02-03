@@ -6,15 +6,13 @@ title: Set Up Facebook Lead Ads
 
 # Set Up Facebook Lead Ads {#set-up-facebook-lead-ads}
 
-Use  [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) to run ad campaigns in Facebook and generate leads for Marketo.
+Use [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) to run ad campaigns in Facebook and generate leads for Marketo.
 
 >[!NOTE]
 >
 >**Admin Permissions Required**
 
->[!NOTE]
->
->**Availability**
+>[!AVAILABILITY]
 >
 >To get Facebook Lead Ads added to your instance, please contact your Customer Success Manager.
 
@@ -30,7 +28,7 @@ Use  [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) to run ad
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. Open a new tab in the same browser and go to [www.facebook.com.](http://www.facebook.com.) Log into Facebook using the account you want to use for the integration.
+1. Open a new tab in the same browser and go to [facebook.com](http://www.facebook.com). Log in to Facebook using the account you want to use for the integration.
 
    >[!NOTE]
    >
@@ -42,7 +40,7 @@ Use  [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) to run ad
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. If prompted, click **Ok** to accept the Marketo app installation into Facebook.
+1. If prompted, click **OK** to accept the Marketo app installation into Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -62,7 +60,7 @@ Use  [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) to run ad
 
    >[!TIP]
    >
-   >By modifying the mappings, you can customize where the lead ads data is stored in Marketo. You can also [pull in data from Lead Ads Custom Questions](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
+   >By modifying the mappings, you can customize where the lead ads data is stored in Marketo. You can also [pull in data from Lead Ads Custom Questions](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >
@@ -76,7 +74,5 @@ Use  [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) to run ad
 
 >[!MORELIKETHIS]
 >
->* [Use Lead Ads Filters and Triggers in a Smart Campaign](use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
->* [Map Custom Fields to Marketo](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
->
-
+>* [Use Lead Ads Filters and Triggers in a Smart Campaign](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
+>* [Map Custom Fields to Marketo](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)

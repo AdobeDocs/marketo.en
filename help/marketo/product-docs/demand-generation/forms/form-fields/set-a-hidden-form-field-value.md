@@ -10,7 +10,7 @@ Hidden fields are usually populated dynamically. They are not shown to the perso
 
 >[!PREREQUISITES]
 >
->[Set a Form Field as Hidden](set-a-form-field-as-hidden.md)
+>[Set a Form Field as Hidden](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
 
 ## Select the Field {#select-the-field}
 
@@ -26,11 +26,11 @@ By selecting Use Default Value you can hard-code a specific value to always be u
 
 ## URL Parameter {#url-parameter}
 
-If you want to capture URL Parameters (Query Strings) from the page the person is on when filling out the form, you can use **URL** **Parameters** to populate your hidden field.
+If you want to capture URL Parameters (Query Strings) from the page the person is on when filling out the form, you can use **URL Parameters** to populate your hidden field.
 
 >[!NOTE]
 >
->Parameters are kinda techie, aren't they? Once you get them though, they are powerful. This  [Wikipedia page on Query Strings](http://en.wikipedia.org/wiki/Query_string) is somewhat helpful.
+>Parameters are kinda techie, aren't they? Once you get them though, they are powerful. This [Wikipedia page on Query Strings](https://en.wikipedia.org/wiki/Query_string) is somewhat helpful.
 
 1. Select **URL Parameter** for **Get Value Type**.
 
@@ -46,9 +46,9 @@ If you want to capture URL Parameters (Query Strings) from the page the person i
 
 ## Cookie Value {#cookie-value}
 
-If you're storing data in cookies, you can use **Cookie** **Value** to pick up data when the form is submitted.
+If you're storing data in cookies, you can use **Cookie Value** to pick up data when the form is submitted.
 
-1. Select **Cookie** **Value** for **Get** **Value** **From**.
+1. Select **Cookie Value** for **Get Value From**.
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
@@ -62,9 +62,9 @@ If you're storing data in cookies, you can use **Cookie** **Value** to pick up d
 
 ## Referrer Parameter {#referrer-parameter}
 
-If you want to capture data from the page the visitor came from before filling out the form, you can use **Referrer** **Parameter**.
+If you want to capture data from the page the visitor came from before filling out the form, you can use **Referrer Parameter**.
 
-1. Set **Get** **Value** **From** to **Referrer** **Parameter**.
+1. Set **Get Value From** to **Referrer Parameter**.
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
@@ -74,7 +74,7 @@ If you want to capture data from the page the visitor came from before filling o
 
    >[!TIP]
    >
-   >You can enter a **Default** **Value** in case the referrer parameter is not found.
+   >You can enter a **Default Value** in case the referrer parameter is not found.
 
 1. Click **Finish**.
 
@@ -83,5 +83,3 @@ If you want to capture data from the page the visitor came from before filling o
 1. Click **Approve and Close**.
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)
-
-Sweet! You're doing pretty well. There's more to learn about [forms](http://docs.marketo.com/display/docs/forms).

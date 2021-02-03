@@ -12,15 +12,15 @@ Google Fonts are awesome, and we built them right into the form editor. Check it
 >
 >This setting impacts the form label, the input text, and any rich text.
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Select your form and click **Edit** **Form**.
+1. Select your form and click **Edit Form**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Under **Form** **Settings**, select **Settings**.
+1. Under **Form Settings**, select **Settings**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
@@ -28,7 +28,7 @@ Google Fonts are awesome, and we built them right into the form editor. Check it
 
    >[!TIP]
    >
-   >A bunch of [Google Fonts](http://www.google.com/fonts) are available for use.
+   >A bunch of [Google Fonts](https://www.google.com/fonts) are available for use.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
@@ -46,9 +46,6 @@ Google Fonts are awesome, and we built them right into the form editor. Check it
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >Remember to approve the landing page draft created by the form changes.
 
    ![](assets/image2014-9-15-16-3a2-3a1.png)
@@ -57,6 +54,4 @@ See how easy it was to change the font family on a form? Cool, now that that's d
 
 >[!MORELIKETHIS]
 >
->* [Change the Form Font Size](change-the-form-font-size.md)
->
-
+>[Change the Form Font Size](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)

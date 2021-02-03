@@ -34,7 +34,7 @@ Activities related to person accounts are displayed in the **Account** panel.
 
 >[!NOTE]
 >
->Marketo Sales Insight's **Add to Marketo Campaign **and **Send Email **options are not currently available for person accounts.
+>Marketo Sales Insight's **Add to Marketo Campaign** and **Send Email** options are not currently available for person accounts.
 
 ## How do I associate opportunities to a person account? {#how-do-i-associate-opportunities-to-a-person-account}
 

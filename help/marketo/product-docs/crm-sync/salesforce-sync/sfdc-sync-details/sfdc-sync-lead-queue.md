@@ -12,8 +12,8 @@ Marketo allows you to add people to [Salesforce lead queues](https://help.salesf
 
 You can assign a person to a Salesforce lead queue using either of these flow actions:
 
-* [Sync Person to SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
-* [Change Owner](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
+* [Sync Person to SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
+* [Change Owner](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
 
 >[!NOTE]
 >
@@ -25,7 +25,6 @@ If a lead is owned by a queue in Salesforce, these sales owner fields are kept e
 
 * Sales Owner First Name
 * Sales Owner Last Name
-* Sales Owner Title 
+* Sales Owner Title
 * Sales Owner Phone Number
 * Sales Owner Email Address
-

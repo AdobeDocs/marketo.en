@@ -22,11 +22,11 @@ Here's a sample event, including campaigns, for an ON24 webinar. When you build 
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. Select **Event **as the **Program Type**.
+1. Select **Event** as the **Program Type**.
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. Select **Webinar **as the **Channel **for the event.
+1. Select **Webinar** as the **Channel** for the event.
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
@@ -58,8 +58,8 @@ Here's a sample event, including campaigns, for an ON24 webinar. When you build 
 
 * **Flow**
 
-    * **Change Status in Progression** - Set to Webinar > Registered. **CAUTION**: This flow step is required when setting up your child campaign. When a person’s progression status changes to **Registered**, Marketo pushes the registration information to ON24. 
-    
+    * **Change Status in Progression** - Set to Webinar > Registered. **CAUTION**: This flow step is required when setting up your child campaign. When a person’s progression status changes to **Registered**, Marketo pushes the registration information to ON24.
+
     * **Send Email** - Confirmation email (set to **Operational** so that unsubscribed people that have registered still receive it).
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
@@ -86,6 +86,4 @@ Here's a sample event, including campaigns, for an ON24 webinar. When you build 
 
 >[!MORELIKETHIS]
 >
->* [Understanding Marketo ON24 Adapter Events](understanding-marketo-on24-adapter-events.md)
->
-
+>[Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)

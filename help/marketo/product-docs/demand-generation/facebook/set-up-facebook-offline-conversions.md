@@ -10,9 +10,8 @@ By sending offline conversion data back to Facebook for people created via Lead 
 
 >[!PREREQUISITES]
 >
->* You must [set up Facebook Lead Ads](set-up-facebook-lead-ads.md).
->* You must have an approved model in [Revenue Cycle Modeler](http://docs.marketo.com/display/docs/revenue+cycle+models).
->
+>* You must [set up Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>* You must have an approved model in [Revenue Cycle Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 ## Admin Configuration {#admin-configuration}
 
@@ -24,7 +23,7 @@ By sending offline conversion data back to Facebook for people created via Lead 
 
    >[!NOTE]
    >
-   >If you haven't done that, go ahead and [Set Up Facebook Lead Ads](set-up-facebook-lead-ads.md), then come back here.
+   >If you haven't done that, go ahead and [Set Up Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md), then come back here.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
@@ -62,20 +61,16 @@ By sending offline conversion data back to Facebook for people created via Lead 
    >
    >Currently, there are 10 Facebook events you can map Revenue Cycle Stages to:
    >
-   >    
-   >    
-   >    * Adds of Payment Info
-   >    * Adds to Cart
-   >    * Adds to Wish List
-   >    * Registrations Completed
-   >    * Checkouts Initiated
-   >    * Person
-   >    * Other
-   >    * Purchase
-   >    * Searches
-   >    * Content Views
-   >    
-   >
+   >* Adds of Payment Info
+   >* Adds to Cart
+   >* Adds to Wish List
+   >* Registrations Completed
+   >* Checkouts Initiated
+   >* Person
+   >* Other
+   >* Purchase
+   >* Searches
+   >* Content Views
 
 1. Select the stage you want to map, then from the **Facebook Conversion** drop-down, select the Facebook Event you want to map it to. Repeat this step to map all the stages in your RCM to offline conversion stages on Facebook.
 
@@ -99,10 +94,6 @@ By sending offline conversion data back to Facebook for people created via Lead 
    >
    >Offline Conversion Data is sent from Marketo to Facebook several times daily.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Understanding Facebook Offline Conversions](understanding-facebook-offline-conversions.md)
->
-
+>[Understanding Facebook Offline Conversions](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)

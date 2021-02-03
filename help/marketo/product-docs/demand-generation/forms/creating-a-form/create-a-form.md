@@ -10,9 +10,9 @@ Create and use a form on a landing page to generate new names. It's really easy 
 
 >[!NOTE]
 >
->Learn what Marketo is doing to [keep your forms safe](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Learn what Marketo is doing to [keep your forms safe](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -36,11 +36,9 @@ Create and use a form on a landing page to generate new names. It's really easy 
 >
 >Most customers create a new form for each landing page, but you can also create one form to be used with multiple landing pages. It's entirely up to you!
 
-Sweet! Now that the form is created, let's go ahead and dress it up. 
+Sweet! Now that the form is created, let's go ahead and dress it up.
 
 >[!MORELIKETHIS]
 >
->* [Select a Form Theme](select-a-form-theme.md)
->* [Add a FieldSet to a Form](../../../../product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
->
-
+>* [Select a Form Theme](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
+>* [Add a FieldSet to a Form](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)

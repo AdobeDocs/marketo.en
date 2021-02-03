@@ -10,10 +10,9 @@ title: Create an Event with Level 3 Web Meeting
 >
 >* [Add Level 3 Web Meeting as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Set the appropriate [flow actions](https://docs.marketo.com/x/k8Kt)to track engagement
->
+>* Set the appropriate [flow actions](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)to track engagement
 
-First create your Webinar in Level 3. If you need help, check out the [Level 3 Resource Library](http://www.level3.com/en/resource-library/). You'll find it to be very similar to BrightTalk.  Marketo uses a small subset of Level 3 fields:
+First create your Webinar in Level 3. If you need help, check out the [Level 3 Resource Library](https://www.level3.com/en/resource-library/). You'll find it to be very similar to BrightTalk.  Marketo uses a small subset of Level 3 fields:
 
 * **Name** - The name of the webcast.
 * **Start Date** - The start date for the webcast.
@@ -45,6 +44,6 @@ First create your Webinar in Level 3. If you need help, check out the [Level 3 R
 
 ## Viewing the Schedule  {#viewing-the-schedule}
 
-   In the [program schedule view](http://docs.marketo.com/display/docs/program+schedule+view), click the calendar entry for your event. You can see the schedule on the right side of the screen!
+   In the program schedule view, click the calendar entry for your event. You can see the schedule on the right side of the screen!
 
    ![](assets/image2016-3-24-15-3a51-3a7.png)

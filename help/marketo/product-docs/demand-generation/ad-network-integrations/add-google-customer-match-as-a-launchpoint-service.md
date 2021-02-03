@@ -20,11 +20,11 @@ With this integration, you can send a Marketo audience to Google to be targeted 
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Select **New** then** New Service**.
+1. Select **New** then **New Service**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Enter a **Display Name **and select** Google Customer Match **from the **Service** drop-down. Click **Create**.
+1. Enter a **Display Name** and select **Google Customer Match** from the **Service** drop-down. Click **Create**.
 
    ![](assets/chooseservice.png)
 
@@ -36,7 +36,7 @@ With this integration, you can send a Marketo audience to Google to be targeted 
 
    >[!CAUTION]
    >
-   >In order for Marketo to send audiences across multiple AdWords Accounts, the Google user you authorize in the following steps needs to have access to *all* of these accounts.
+   >In order for Marketo to send audiences across multiple AdWords Accounts, the Google user you authorize in the following steps needs to have access to _all_ of these accounts.
 
    ![](assets/chooseaccount.png)
 
@@ -49,4 +49,3 @@ With this integration, you can send a Marketo audience to Google to be targeted 
    ![](assets/authorizesuccess.png)
 
    Awesome! You'll now see Google Matched Audiences listed as a LaunchPoint service in the Installed Services tab.
-

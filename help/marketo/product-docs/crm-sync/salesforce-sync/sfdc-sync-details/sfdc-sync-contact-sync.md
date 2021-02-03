@@ -18,7 +18,7 @@ We are nice and let Salesforce win. It's rare that this sort of collision of dat
 
 ## Can I convert a person into a contact in Marketo? {#can-i-convert-a-person-into-a-contact-in-marketo}
 
-Yes, use the ** [Convert Person](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)** flow action.
+Yes, use the **[Convert Person](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)** flow action.
 
 >[!CAUTION]
 >
@@ -26,7 +26,7 @@ Yes, use the ** [Convert Person](../../../../product-docs/core-marketo-concepts/
 
 ## Can I manually force a sync of a contact? {#can-i-manually-force-a-sync-of-a-contact}
 
-Yes, use the ** [Sync Person to SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) **flow action and it will sync in real-time.
+Yes, use the **[Sync Person to SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** flow action and it will sync in real-time.
 
 ## Does every single standard field sync to Marketo? {#does-every-single-standard-field-sync-to-marketo}
 

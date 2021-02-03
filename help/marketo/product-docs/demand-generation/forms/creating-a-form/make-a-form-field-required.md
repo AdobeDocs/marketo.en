@@ -6,13 +6,13 @@ title: Make a Form Field Required
 
 # Make a Form Field Required {#make-a-form-field-required}
 
-When [adding fields to a form](add-a-field-to-a-form.md) you may want to make a few of them required to the person filling them out. Here's how.
+When [adding fields to a form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) you may want to make a few of them required to the person filling them out. Here's how.
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Select your form and click **Edit** **Form**.
+1. Select your form and click **Edit Form**.
 
    ![](assets/editform-2.png)
 
@@ -30,8 +30,6 @@ When [adding fields to a form](add-a-field-to-a-form.md) you may want to make a 
 
 >[!NOTE]
 >
->**Reminder**
->
->Don't forget to [approve any landing pages](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) this form lives on for the changes to go live.
+>Don't forget to [approve any landing pages](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) this form lives on for the changes to go live.
 
-Do you need to [reorder the fields you added to your form](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)? 
+Do you need to [reorder the fields you added to your form](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?

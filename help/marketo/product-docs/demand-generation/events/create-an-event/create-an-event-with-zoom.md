@@ -10,7 +10,7 @@ title: Create an Event with Zoom
 >
 >* [Add Zoom as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Set the appropriate [flow actions](http://docs.marketo.com/display/DOCS/Flow+Actions)to track engagement
+>* Set the appropriate [flow actions](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)to track engagement
 
 First create your webinar in Zoom. Certain settings in the creation of your Zoom are used by Marketo, and some are only used by Zoom.
 

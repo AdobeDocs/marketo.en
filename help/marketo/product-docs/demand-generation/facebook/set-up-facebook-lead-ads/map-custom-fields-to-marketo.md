@@ -8,7 +8,7 @@ title: Map Custom Fields to Marketo
 
 You may want to collect more than the standard information Facebook stores by default, such as how often someone uses your online delivery service. You can accomplish this by [creating custom questions](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) in your Facebook lead ads.
 
-However, **Marketo will not automatically start gathering this data**.** **In order for Marketo to start capturing custom field values, you **must** map those custom fields to a field in Marketo.
+However, **Marketo will not automatically start gathering this data**. In order for Marketo to start capturing custom field values, you **must** map those custom fields to a field in Marketo.
 
 Here's how to set this up in the LaunchPoint area of Admin.
 
@@ -34,9 +34,7 @@ Here's how to set this up in the LaunchPoint area of Admin.
 
 1. Here's where you map the custom Facebook field to your Marketo field. Click **Add.**
 
-   ** ![](assets/image2017-10-24-9-3a33-3a49.png)
-
-   **
+   ![](assets/image2017-10-24-9-3a33-3a49.png)
 
 1. In the new row, enter the name of your Facebook custom field.
 
@@ -52,9 +50,8 @@ Here's how to set this up in the LaunchPoint area of Admin.
 
    >[!NOTE]
    >
-   >If you don't already have a field in Marketo to map the Facebook field to, learn how to [create custom fields](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >If you don't already have a field in Marketo to map the Facebook field to, learn how to [create custom fields](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 >[!CAUTION]
 >
 >You **must** go through this process for any new Facebook field in order for Marketo to gather the data.
-

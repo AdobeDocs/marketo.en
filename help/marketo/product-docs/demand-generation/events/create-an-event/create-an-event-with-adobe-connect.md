@@ -63,7 +63,7 @@ First, make sure you've created your meeting or seminar in Adobe Connect. If you
 
    >[!MORELIKETHIS]
    >
-   > * [Add Adobe Connect as a LaunchPoint Service](../../../../product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
-   > * [Edit an Event Channel](../../../../product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
+   > * [Add Adobe Connect as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   > * [Edit an Event Channel](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
 
 People who sign up for your webinar will get pushed to your webinar provider via the Change Program Status flow step when the New Status is set to "Registered." No other status will push the person over. Also, be sure to make Change Program Status flow step #1, and Send Email flow step #2.

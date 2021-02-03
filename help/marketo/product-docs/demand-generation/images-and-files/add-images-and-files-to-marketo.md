@@ -8,11 +8,11 @@ title: Add Images and Files to Marketo
 
 It's easy to add multiple images and files all at once.
 
-1. Go to the **Design** **Studio**.
+1. Go to the **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Under **New**, click** Upload Image** **or** **File**.
+1. Under **New**, click **Upload Image** or **File**.
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
@@ -34,16 +34,14 @@ It's easy to add multiple images and files all at once.
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >To remove any queued files before upload, click the x next to the file name.
 
    >[!TIP]
    >
    >Marketo will scan all files before uploading; infected files will be skipped.
 
-   When the upload completes, click Finish.
+1. When the upload completes, click **Finish**.
+
    ![](assets/image2014-9-15-18-3a8-3a34.png)
 
 1. Your images are now available to use in campaign emails and landing pages.
@@ -56,12 +54,6 @@ Nicely done!
 >
 >While Marketo accepts all file types for upload, only the major image types (JPG, PNG, GIF, etc.) will work in our email editor.
 
-## Watch a Video {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/ZWBeQ5oiXRKG2QAP5E7g6Q.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`  
-
 >[!MORELIKETHIS]
 >
->* [Organize Your Images and Files Using Folders](organize-your-images-and-files-using-folders.md)
->
-
+>[Organize Your Images and Files Using Folders](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)

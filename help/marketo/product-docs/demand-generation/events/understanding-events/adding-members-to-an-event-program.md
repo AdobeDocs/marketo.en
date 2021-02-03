@@ -12,17 +12,21 @@ This article only applies to users who utilize Event Cap or Event Goals.
 >
 >Importing a list of people directly into an Event Program will prevent those records from being counted in actual registrations in the Goal Tracking report, and the Event Cap Progression report. Follow the instructions below to ensure your records are counted.
 
-1. Create and [add people to a static list](http://docs.marketo.com/x/ecKt).
-1. [Create a smart campaign](http://docs.marketo.com/x/M4AR).
+1. Create and [add people to a static list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
+
+1. [Create a smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+
 1. In the Smart List of the Smart Campaign you created in Step Two, find and add the **Member of List** filter.
 
    ![](assets/three.png)
 
 1. Find and select the list you created in Step One.
-1. ![](assets/four.png)
+
+   ![](assets/four.png)
 
 1. In the Flow, find and add the **Change Program Status** flow step.
-1. ![](assets/five.png)
+
+   ![](assets/five.png)
 
 1. Find and select your Event Program.
 
@@ -33,10 +37,11 @@ This article only applies to users who utilize Event Cap or Event Goals.
    ![](assets/seven.png)
 
 1. In the Schedule tab, click **Run Once**.
-1. ![](assets/eight.png)
+
+   ![](assets/eight.png)
 
 1. Select **Run Now** and click **Run**.
-1. ![](assets/nine.png)
+
+   ![](assets/nine.png)
 
 1. After the smart campaign runs, the members get added to the program and will count in Goal Tracking and Event Cap Progression calculations.
-

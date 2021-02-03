@@ -24,7 +24,7 @@ With this integration you can send audience data from Marketo static and smart l
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Open a new tab in the same browser and go to [www.facebook.com.](http://www.facebook.com./) Log into Facebook using the account you want to use for the integration.
+1. Open a new tab in the same browser and go to [facebook.com](http://www.facebook.com/). Log in to Facebook using the account you want to use for the integration.
 
    >[!CAUTION]
    >
@@ -38,9 +38,9 @@ With this integration you can send audience data from Marketo static and smart l
 
    >[!NOTE]
    >
-   >You *must* use a Facebook Business Manager account in order for your Custom Audiences integration to work. To learn how to set up a Business Manager account, refer to [Facebook Help](https://www.facebook.com/business/help/1710077379203657).
+   >You _must_ use a Facebook Business Manager account in order for your Custom Audiences integration to work. To learn how to set up a Business Manager account, refer to [Facebook Help](https://www.facebook.com/business/help/1710077379203657).
 
-1. If prompted, click **OK **to accept the Marketo app installation into Facebook.
+1. If prompted, click **OK** to accept the Marketo app installation into Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -48,7 +48,7 @@ With this integration you can send audience data from Marketo static and smart l
 
    >[!NOTE]
    >
-   >**Basic Matching **uses only email addresses.** Advanced Matching** uses seven additional fields, which increases the match rate, for more conversion. However, if your company's privacy policy doesn't permit sharing additional fields, or if your data doesn't include them, select Basic Matching.
+   >**Basic Matching** uses only email addresses. **Advanced Matching** uses seven additional fields, which increases the match rate, for more conversion. However, if your company's privacy policy doesn't permit sharing additional fields, or if your data doesn't include them, select Basic Matching.
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -60,8 +60,6 @@ With this integration you can send audience data from Marketo static and smart l
 
 >[!MORELIKETHIS]
 >
->* [Create a Custom Audience in Facebook](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [Create a Custom Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >
->* [Set Up Facebook Lead Ads](../../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
->
-
+>* [Set Up Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

@@ -10,7 +10,7 @@ LinkedIn's revised API policy required us to remove LinkedIn Social Form Fill fr
 
 ## Important Things to Know {#important-things-to-know}
 
-* LinkedIn Social Form Fill buttons are no longer an option to add to Marketo as of April 28, 2016
+* LinkedIn Social Form Fill buttons were no longer an option to add to Marketo back on April 28, 2016
 
 * We have removed the LinkedIn Social Form Fill button from all forms that had it enabled
 

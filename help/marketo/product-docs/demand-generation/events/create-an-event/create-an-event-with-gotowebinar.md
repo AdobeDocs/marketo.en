@@ -10,11 +10,11 @@ title: Create an Event with GotoWebinar
 >
 >* [Add GoToWebinar as a LaunchPoint service](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
 >* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Set the appropriate [flow actions](http://docs.marketo.com/display/DOCS/Flow+Actions)to track engagement
+>* Set the appropriate [flow actions](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)to track engagement
 
 First create your webinar in GoToWebinar. Certain settings in the creation of your GoToWebinar are used by Marketo and some are only used by GoToWebinar.
 
-After you create a Marketo event and associate the GoToWebinar with it, the systems will be able to share registration and attendance information. For help creating a GoToWebinar, see the [GoToWebinar User Guide](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf).
+After you create a Marketo event and associate the GoToWebinar with it, the systems will be able to share registration and attendance information.
 
 Below is a list of the settings used by Marketo.
 
@@ -28,7 +28,7 @@ Below is a list of the settings used by Marketo.
 
 ## Date & Time {#date-time}
 
-`Enter the following information for your webinar and it will be pulled into Marketo via the`adapter. If you make any changes to this information, you must click the link “**Refresh from Webinar Provider**” under **Event Actions**, in order for Marketo to see the changes.
+Enter the following information for your webinar and it will be pulled into Marketo via the adapter. If you make any changes to this information, you must click the link “**Refresh from Webinar Provider**” under **Event Actions**, in order for Marketo to see the changes.
 
 **Start date** - enter your start date. This will be viewable in Marketo.
 
@@ -48,7 +48,7 @@ Below is a list of the settings used by Marketo.
 
 >[!TIP]
 >
->There are additional fields that you will configure in GoToWebinar that will NOT affect the integration. Please refer to the [GoToWebinar User Guide](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf) for additional information on those fields, as they will not be covered in this article. If you need additional GoToWebinar help, please visit their [Help Site](http://support.logmeininc.com/gotowebinar).
+>If you need additional GoToWebinar help, please visit their [Help Site](https://support.logmeininc.com/gotowebinar).
 
 Now, let's jump into Marketo!
 
@@ -60,7 +60,7 @@ Now, let's jump into Marketo!
    >
    >The channel type of the event selected must be **webinar**.
 
-1. Choose **GoToWebinar** from the **Event** **Partner** List.
+1. Choose **GoToWebinar** from the **Event Partner** List.
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -104,7 +104,7 @@ People who sign up for your webinar will get pushed to your webinar provider via
 
 ## Viewing the Schedule  {#viewing-the-schedule}
 
-In the [program schedule view](http://docs.marketo.com/display/docs/program+schedule+view), click the calendar entry for your event. You can see the schedule on the right side of the screen.
+In the program schedule view, click the calendar entry for your event. You can see the schedule on the right side of the screen.
 
 >[!NOTE]
 >

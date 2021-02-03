@@ -20,9 +20,9 @@ Here's a brief description of the program statuses associated to the Webinar cha
 
 **Not in Program** - Use this status to remove people from the event.
 
-** Invited** - Use this status to add people to the event.
+**Invited** - Use this status to add people to the event.
 
-**Pending Approval** - Use this status to hold off on sending your people a confirmation email. See "Manually Approving Registrants" in [ON24 Event Registration Updates](on24-event-registration-updates.md) for more information.
+**Pending Approval** - Use this status to hold off on sending your people a confirmation email. See "Manually Approving Registrants" in [ON24 Event Registration Updates](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) for more information.
 
 **Wait Listed** - Use this status to keep some people waiting until additional seats become available.
 
@@ -36,7 +36,7 @@ Here's a brief description of the program statuses associated to the Webinar cha
 >
 >If a registration error occurs, you can get additional information for that person by looking at the Status Reason column in the Members tab of your program. After the error is fixed, you can manually change the user’s program status to Registered within Marketo.
 
-**Attended**- At the conclusion of the webinar, ON24 returns a list of people who attended. This status is pulled into Marketo automatically.
+**Attended** - At the conclusion of the webinar, ON24 returns a list of people who attended. This status is pulled into Marketo automatically.
 
 **Attended On-demand** - People who attended the archived version of the webinar receive this status.
 
@@ -48,6 +48,4 @@ Here's a brief description of the program statuses associated to the Webinar cha
 
 >[!MORELIKETHIS]
 >
->* [Understanding Marketo ON24 Adapter Events](understanding-marketo-on24-adapter-events.md)
->
-
+>[Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)

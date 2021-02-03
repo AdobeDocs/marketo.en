@@ -8,11 +8,11 @@ title: Add Rich Text to a Form
 
 Use Rich Text in a Form to add instructions or other information in between fields. Check it out.
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Select your form and click **Edit** **Form**.
+1. Select your form and click **Edit Form**.
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
@@ -48,10 +48,6 @@ Use Rich Text in a Form to add instructions or other information in between fiel
 
    ![](assets/image2014-9-15-16-3a48-3a58.png)
 
->[!NOTE]
+>[!TIP]
 >
->**Deep Dive**
->
->Learn more about [forms](http://docs.marketo.com/display/docs/forms).
-
-Did you know you can also [add visibility rules](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) to a rich text block? 
+>Did you know you can also [add visibility rules](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) to a rich text block?

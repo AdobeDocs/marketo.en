@@ -12,13 +12,13 @@ Create your child campaigns and local assets using the Design Studio.
 
 To ensure that people are properly registered with ON24, the following fields must be included in your Marketo form:
 
-* First Name 
-* Last Name 
+* First Name
+* Last Name
 * Email Address
 
 You can also push the following fields to ON24:
 
-* Company Name 
+* Company Name
 * Job Title
 
 With the proper flow step added to the registration campaign, the people will get pushed to ON24 and be marked as registered. You can add other fields to the form and the information will get captured in Marketo as part of the person detail record.
@@ -37,15 +37,13 @@ Use Marketo to send out the confirmation email for your event. When a person reg
 
 >[!NOTE]
 >
->**Reminder**
->
 >To populate your confirmation email with this unique URL, use the following token in your email: `{{member.webinar url}}`. When you send out the confirmation URL, this token automatically resolves to the person’s unique confirmation URL.
 >
 >Set the type of your confirmation email to **Operational** to ensure that people who register receive their confirmation information, even if they are unsubscribed.
 
 >[!TIP]
 >
->You can configure ON24 to send out confirmation, reminder, or follow-up emails. See the [ON24 Help Site](http://webcastelitehelp.on24.com) for more information.
+>You can configure ON24 to send out confirmation, reminder, or follow-up emails. See the [ON24 Help Site](https://webcastelitehelp.on24.com) for more information.
 
 ## Registration Child Campaign Requirements {#registration-child-campaign-requirements}
 
@@ -90,13 +88,10 @@ The **Send Email** flow step MUST be the second step. The confirmation email con
 >
 >If the person is returned with a registration error, they will not receive the email confirmation.
 
-Your next step is to [test Your ON24 event integration](test-your-on24-event-integration.md). 
+Your next step is to [test Your ON24 event integration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md).
 
 >[!MORELIKETHIS]
 >
->* [Understanding Marketo ON24 Adapter Events](understanding-marketo-on24-adapter-events.md)
->* [Example ON24 Event Integration](example-on24-event-integration.md)
->* [Understanding Webinar Program Statuses](understanding-webinar-program-statuses.md)
->* [Test Your ON24 Event Integration](test-your-on24-event-integration.md)
->
-
+>* [Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>* [Example ON24 Event Integration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+>* [Understanding Webinar Program Statuses](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)

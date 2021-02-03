@@ -24,7 +24,7 @@ Connect your Marketo account with LinkedIn Matched Audiences to use a Marketo st
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Enter a **Display Name **and choose** LinkedIn Matched Audiences**. Click **Create**.
+1. Enter a **Display Name** and choose **LinkedIn Matched Audiences**. Click **Create**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
@@ -54,6 +54,4 @@ Connect your Marketo account with LinkedIn Matched Audiences to use a Marketo st
 
 >[!MORELIKETHIS]
 >
->* [Use a Marketo List or Smart List as a LinkedIn Audience Segment](../../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
->
-
+>[Use a Marketo List or Smart List as a LinkedIn Audience Segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)

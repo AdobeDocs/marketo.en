@@ -6,21 +6,21 @@ title: Edit the CSS of a Form Theme
 
 # Edit the CSS of a Form Theme {#edit-the-css-of-a-form-theme}
 
-You have a few pre-built [themes you can just choose from](../../../../product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). But if you love editing CSS, you can make any changes you want. Here's how.
+You have a few pre-built [themes you can just choose from](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). But if you love editing CSS, you can make any changes you want. Here's how.
 
 >[!NOTE]
 >
 >Make sure you know CSS if you want to try this, as Marketo Support is not set up to assist with custom coding. Also, any changes made will apply only to the form you're currently editing.
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Select your form and click **Edit** **Form**. 
+1. Select your form and click **Edit Form**.
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. Go to **Form** **Settings**. 
+1. Go to **Form Settings**.
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
@@ -40,7 +40,7 @@ You have a few pre-built [themes you can just choose from](../../../../product-d
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. Under the gear icon, click **Edit** **Custom** **CSS**.
+1. Under the gear icon, click **Edit Custom CSS**.
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
@@ -52,7 +52,7 @@ You have a few pre-built [themes you can just choose from](../../../../product-d
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. To see your customized form, click **Preview** **Draft**.
+1. To see your customized form, click **Preview Draft**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 

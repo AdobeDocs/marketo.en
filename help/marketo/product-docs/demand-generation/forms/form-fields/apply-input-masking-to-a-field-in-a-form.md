@@ -8,15 +8,15 @@ title: Apply Input Masking to a Field in a Form
 
 You can restrict input from your visitor using an input mask. For example, you may want visitors to enter phone numbers only in a specific format.
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Select your form and click **Edit** **Form**.
+1. Select your form and click **Edit Form**.
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Select your field and make sure the **Field** **Type** is set to **Text**.
+1. Select your field and make sure the **Field Type** is set to **Text**.
 
    >[!NOTE]
    >
@@ -24,7 +24,7 @@ You can restrict input from your visitor using an input mask. For example, you m
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Click the **Mask** **Input** link.
+1. Click the **Mask Input** link.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 

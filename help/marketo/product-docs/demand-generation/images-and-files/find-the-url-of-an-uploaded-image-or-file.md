@@ -12,11 +12,11 @@ Looking for the web address (URL) of an image or file you uploaded? Marketo's go
 
    ![](assets/designstudio-4.png)
 
-1. Click **Images** **and** **Files** in the left menu and then select the file you want the URL for.
+1. Click **Images and Files** in the left menu and then select the file you want the URL for.
 
    ![](assets/image2014-9-25-14-3a47-3a53.png)
 
-1. The **URL** is displayed on the details page. Right-click the **URL** and click **Copy** in the menu that appears. 
+1. The **URL** is displayed on the details page. Right-click the **URL** and click **Copy** in the menu that appears.
 
    ![](assets/image2014-9-25-14-3a48-3a16.png)
 
@@ -24,6 +24,4 @@ Give yourself a pat on the back for a job well done!
 
 >[!MORELIKETHIS]
 >
->* [Replace an Uploaded Image or File](replace-an-uploaded-image-or-file.md)
->
-
+>[Replace an Uploaded Image or File](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)

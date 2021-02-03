@@ -6,17 +6,17 @@ title: Add a Field to a Form
 
 # Add a Field to a Form {#add-a-field-to-a-form}
 
-Once you've [created your form](create-a-form.md) and [selected a theme](select-a-form-theme.md), you may want to add additional fields for people to fill out. Here's how.
+Once you've [created your form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) and [selected a theme](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md), you may want to add additional fields for people to fill out. Here's how.
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Select your form and click **Edit** **Form**. 
+1. Select your form and click **Edit Form**.
 
    ![](assets/editform-1.png)
 
-1. Click the **+** sign. 
+1. Click the **+** sign.
 
    ![](assets/image2014-9-15-17-18-17.png)
 
@@ -32,14 +32,12 @@ Once you've [created your form](create-a-form.md) and [selected a theme](select-
 
    ![](assets/image2014-9-15-17-3a18-3a35.png)
 
-1. Now click** Approve and Close**.
+1. Now click **Approve and Close**.
 
    ![](assets/image2014-9-15-17-3a18-3a43.png)
 
 >[!NOTE]
 >
->**Reminder**
->
 >Be sure to approve any landing page drafts created due to the form changes.
 
-Not bad at all. Keep up the good work! How about we learn how to [make a form field required](make-a-form-field-required.md) next? 
+Not bad at all. Keep up the good work! How about we learn how to [make a form field required](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) next?

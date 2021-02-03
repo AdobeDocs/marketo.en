@@ -8,15 +8,15 @@ title: Change Form Submit Button Text
 
 You can quickly and easily change a forms button from "Submit" to any other word. Here's how.
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Select your form and click **Edit** **Form**. 
+1. Select your form and click **Edit Form**.
 
    ![](assets/image2014-9-15-12-3a42-3a14.png)
 
-1. Select the button and change the **Label**. 
+1. Select the button and change the **Label**.
 
    ![](assets/image2014-9-15-12-3a42-3a41.png)
 
@@ -35,4 +35,3 @@ You can quickly and easily change a forms button from "Submit" to any other word
    Bam!
 
    ![](assets/image2014-9-15-12-3a44-3a7.png)
-

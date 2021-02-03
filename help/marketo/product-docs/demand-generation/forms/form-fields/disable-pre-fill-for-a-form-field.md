@@ -12,13 +12,13 @@ When a web visitor is known (cookied), Marketo forms will pre-fill fields with t
 >
 >**Form Pre-fill** is enabled by default. Landing page level pre-fill settings and admin level pre-fill settings trump the form level setting:
 >
->Form < Landing Page < Admin
+>Form > Landing Page > Admin
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Select your form and click **Edit** **Form**. 
+1. Select your form and click **Edit Form**.
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -26,7 +26,7 @@ When a web visitor is known (cookied), Marketo forms will pre-fill fields with t
    >
    >Form Pre-fill does not work when embedding a form on your own pages. It only works on Marketo landing pages.
 
-1. Select one of the fields and set **Form** **Pre**-**fill** to **Disabled**.
+1. Select one of the fields and set **Form Pre-fill** to **Disabled**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -43,10 +43,3 @@ When a web visitor is known (cookied), Marketo forms will pre-fill fields with t
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
 Nice job!
-
->[!NOTE]
->
->**Deep Dive**
->
->Want to learn more about [forms](http://docs.marketo.com/display/docs/forms)?
-

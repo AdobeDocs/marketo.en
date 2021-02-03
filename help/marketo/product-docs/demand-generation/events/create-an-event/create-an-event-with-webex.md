@@ -10,9 +10,9 @@ title: Create an Event with WebEx
 >
 >* [Add WebEx as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Set the appropriate [flow actions](http://docs.marketo.com/display/DOCS/Flow+Actions)to track engagement
+>* Set the appropriate [flow actions](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)to track engagement
 
-First create a Webex Event in the WebEx Event Center. Marketo only uses specific settings and fields for your integration, which we’ll go through shortly. Other fields that you might want to configure for WebEx are explained in the [WebEx Event Center User Guide](http://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
+First create a Webex Event in the WebEx Event Center. Marketo only uses specific settings and fields for your integration, which we’ll go through shortly. Other fields that you might want to configure for WebEx are explained in the [WebEx Event Center User Guide](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
 
 ## Basic Information {#basic-information}
 
@@ -132,7 +132,7 @@ Sweet! Your WebEx event is now synced with your Marketo event.  People who sign 
 
 ## Viewing the Schedule  {#viewing-the-schedule}
 
-In the [program schedule view](http://docs.marketo.com/display/docs/program+schedule+view), click the calendar entry for your event. You can see the schedule on the right side of the screen!
+In the program schedule view, click the calendar entry for your event. You can see the schedule on the right side of the screen!
 
 ![](assets/image2015-5-14-16-3a21-3a41.png)
 

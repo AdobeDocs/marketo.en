@@ -15,4 +15,3 @@ When you've enabled Facebook Lead Ads, you can use them in your smart campaigns 
 1. Add constraints to customize it.
 
    ![](assets/image2016-8-5-11-3a19-3a27.png)
-

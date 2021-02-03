@@ -10,7 +10,7 @@ Let's get started on your ON24 event integration. If you ever need to edit or de
 
 ## Enter Credentials {#enter-credentials}
 
-1. Log into Marketo and click **Admin**.
+1. Log in to Marketo and click **Admin**.
 
    ![](assets/admin.png)
 
@@ -26,7 +26,6 @@ Let's get started on your ON24 event integration. If you ever need to edit or de
 
     * **Display Name** - Enter a name for use in Marketo. This could be your name or the name of your group if you share credentials.
     * **Service** - Select **On24** from the drop-down menu.
-    
     * **Client Key** - Enter the ON24 Client Key you use for sign-in. The client key is a 32-digit string containing a mixture of letters and numbers.
     * **Client ID** - Enter the 4-digit ON24 client ID you use for sign-in. You can obtain the client ID and client key directly from your ON24 Account Manager.
 
@@ -60,10 +59,8 @@ You can edit your credentials if your password expires or you need to make a cha
 
    ![](assets/nine.png)
 
-Your next step is to [create your webinar event in ON24](create-your-webinar-event-in-on24.md).
+Your next step is to [create your webinar event in ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
 
 >[!MORELIKETHIS]
 >
->* [Understanding Marketo ON24 Adapter Events](understanding-marketo-on24-adapter-events.md)
->
-
+>[Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
