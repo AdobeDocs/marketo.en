@@ -46,13 +46,8 @@ When you set up an event that is associated with an ON24 Webinar, the event sche
    >
    >If you update any event information in ON24, you must click **Refresh from Webinar Provider** in the Event Actions menu to see the new data populate.
 
-   [creating child campaigns and local assets](create-child-campaigns-and-local-assets.md)
-
-Now you can move on to the next step: . 
+Now you can move on to the next step: [creating child campaigns and local assets](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md).
 
 >[!MORELIKETHIS]
 >
->* [Understanding Marketo On24 Adapter Events](understanding-marketo-on24-adapter-events.md)
->* [Create Child Campaigns and Local Assets](create-child-campaigns-and-local-assets.md)
->
-
+>[Understanding Marketo On24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)

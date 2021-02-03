@@ -8,11 +8,11 @@ title: Reorder Fields in a Form
 
 It's easy to re-order fields on a Marketo form. Here's how.
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Select your form and click **Edit** **Form**. 
+1. Select your form and click **Edit Form**.
 
    ![](assets/editform.png)
 
@@ -24,11 +24,4 @@ It's easy to re-order fields on a Marketo form. Here's how.
 >
 >You can also drag and drop the fields next to each other. This allows you make columns!
 
-Great job! You are rockin' this thing. 
-
->[!NOTE]
->
->**Deep Dive**
->
->Want to learn more about [forms](http://docs.marketo.com/display/docs/forms)?
-
+Great job! You are rockin' this thing.

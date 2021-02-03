@@ -8,7 +8,7 @@ title: Create a Custom Audience in Facebook
 
 >[!PREREQUISITES]
 >
->* [Add Facebook Custom Audiences as a LaunchPoint Service](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) in the Admin section.
+>* [Add Facebook Custom Audiences as a LaunchPoint Service](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) in the Admin section.
 >* [Accept Facebook's Custom Audiences Terms](https://www.facebook.com/ads/manage/customaudiences/tos.php) within your Facebook account.
 >
 
@@ -20,11 +20,11 @@ title: Create a Custom Audience in Facebook
 
    ![](assets/1.png)
 
-1. Select the **Leads** tab, then click on the **Send Via Ad Bridge **icon at the bottom.
+1. Select the **Leads** tab, then click on the **Send Via Ad Bridge** icon at the bottom.
 
    ![](assets/222.png)
 
-1. Select **Facebook **and click **Next**.
+1. Select **Facebook** and click **Next**.
 
    ![](assets/two.png)
 
@@ -62,11 +62,4 @@ title: Create a Custom Audience in Facebook
 
    >[!NOTE]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Add Leads to a Custom Audience in Facebook](add-leads-to-a-custom-audience-in-facebook.md)
-   >    
-   >
-
+   >[Add Leads to a Custom Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)

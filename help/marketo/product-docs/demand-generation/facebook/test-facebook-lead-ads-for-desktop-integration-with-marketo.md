@@ -10,9 +10,10 @@ After you create your Lead Ad, you should test it! Here's how to do it on your d
 
 >[!PREREQUISITES]
 >
->You must [Set up the Facebook Lead Ads Integration](set-up-facebook-lead-ads.md).
+>You must [Set up the Facebook Lead Ads Integration](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. In the Facebook Power Editor, select a campaign, an ad, and click **Edit**.
+
 1. Under **Links**, click the **View in News Feed** link.
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
@@ -33,7 +34,7 @@ After you create your Lead Ad, you should test it! Here's how to do it on your d
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. This is where the magic happens! Once you've submitted your form, [build a smart list in Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) as part of a program or in the database that uses the Filled Out Facebook Lead Ads Form filter. Insert the Lead Ad Form Name of the form you just submitted.
+1. This is where the magic happens! Once you've submitted your form, [build a smart list in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) as part of a program or in the database that uses the Filled Out Facebook Lead Ads Form filter. Insert the Lead Ad Form Name of the form you just submitted.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
@@ -43,10 +44,6 @@ After you create your Lead Ad, you should test it! Here's how to do it on your d
 
    Is that cool or what?
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Set Up Facebook Lead Ads](set-up-facebook-lead-ads.md)
->
-
+>[Set Up Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

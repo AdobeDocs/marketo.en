@@ -42,13 +42,6 @@ Not every field in Salesforce is useful for Marketing. You can optimize the sync
 
    That's it! You will no longer see this field in Marketo after the next sync is finished.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Hide and Unhide a Field](../../../../../product-docs/administration/field-management/hide-and-unhide-a-field.md)
-   >    
-   >
-
+   >[Hide and Unhide a Field](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md)

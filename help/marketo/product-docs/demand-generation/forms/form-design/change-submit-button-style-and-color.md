@@ -8,11 +8,11 @@ title: Change Submit Button Style and Color
 
 If you find the standard submit button dull, or if you need something more fancy, feel free to choose from a wide range of ready-to-use button styles.
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Select your form and click **Edit** **Form**.
+1. Select your form and click **Edit Form**.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
@@ -24,7 +24,7 @@ If you find the standard submit button dull, or if you need something more fancy
    >
    >Did you know you can drag the submit button to the left or right to change its position? It's that easy. Try it out!
 
-1. Pick a button style you like (scroll up/down). 
+1. Pick a button style you like (scroll up/down).
 
    ![](assets/image2014-9-15-16-3a55-3a30.png)
 
@@ -44,7 +44,7 @@ If you find the standard submit button dull, or if you need something more fancy
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Click **Approve and Close**. 
+1. Click **Approve and Close**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 
@@ -55,4 +55,3 @@ If you find the standard submit button dull, or if you need something more fancy
    >[!NOTE]
    >
    >Like many graphical elements, the button may look different depending on which browser you're using.
-

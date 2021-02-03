@@ -10,9 +10,7 @@ When making major changes to your sync or field settings, you should disable the
 
 1. Go to the **Admin** section.
 
-   ** ![](assets/image2014-12-10-13-3a24-3a35.png)
-
-   **
+   ![](assets/image2014-12-10-13-3a24-3a35.png)
 
 1. Under **Salesforce**, click **Disable Sync**.
 
@@ -23,4 +21,3 @@ When making major changes to your sync or field settings, you should disable the
    ![](assets/image2014-12-10-13-3a24-3a58.png)
 
 1. Make your changes and re-enable the sync. It's the same button.
-

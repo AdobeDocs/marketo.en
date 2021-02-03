@@ -6,7 +6,7 @@ title: Add Hint Text to a Form Field
 
 # Add Hint Text to a Form Field {#add-hint-text-to-a-form-field}
 
-Hints and [instructions](add-tooltip-instructions-to-a-form-field.md) help people fill out forms. Here's how to add a hint.
+Hints and [instructions](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) help people fill out forms. Here's how to add a hint.
 
 >[!NOTE]
 >
@@ -16,15 +16,15 @@ Hints and [instructions](add-tooltip-instructions-to-a-form-field.md) help peopl
 >
 >Form **Instructions** are little tooltips that show when the visitor hovers over the field.
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Select your form and click **Edit** **Form**.
+1. Select your form and click **Edit Form**.
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. Select the field and enter your **Hint** **Text**. 
+1. Select the field and enter your **Hint Text**.
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
@@ -38,17 +38,8 @@ Hints and [instructions](add-tooltip-instructions-to-a-form-field.md) help peopl
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >Don't forget to [approve the landing page draft](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) created by the form changes.
+   >Don't forget to [approve the landing page draft](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) created by the form changes.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
 Check it out! Let's go ahead and add some [instructions](add-tooltip-instructions-to-a-form-field.md) now.
-
->[!MORELIKETHIS]
->
->* [Add Tooltip Instructions to a Form Field](add-tooltip-instructions-to-a-form-field.md)
->
-

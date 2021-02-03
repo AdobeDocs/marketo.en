@@ -12,12 +12,10 @@ Here's how the data is exchanged:
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-When you create the Marketo event, select **Webinar** as the Channel type. You can edit this channel in Admin, as well as create a new channel. If you create a new channel, it must be of the type **Event with Webinar** for the integration to work. See [Create a Program Channel](../../../../../product-docs/administration/tags/create-a-program-channel.md) for more information.
+When you create the Marketo event, select **Webinar** as the Channel type. You can edit this channel in Admin, as well as create a new channel. If you create a new channel, it must be of the type **Event with Webinar** for the integration to work. See [Create a Program Channel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md) for more information.
 
-Your next step is to [configure event settings and sync Marketo with your webinar](https://docs.marketo.com/x/IRCa).
+Your next step is to [configure event settings and sync Marketo with your webinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md).
 
 >[!MORELIKETHIS]
 >
->* [Understanding Marketo ON24 Adapter Events](understanding-marketo-on24-adapter-events.md)
->
-
+>[Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)

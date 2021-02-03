@@ -8,7 +8,7 @@ title: Implied Salesforce Actions
 
 When a Salesforce-specific flow step runs, sometimes extra steps are performed automatically. Here are the rules, so you know:
 
-These rules will apply *when the person is not currently in [Salesforce.com](http://Salesforce.com)* as a contact or lead.
+These rules will apply _when the person is not currently in [Salesforce.com](http://Salesforce.com)_ as a contact or lead.
 
 <table> 
  <thead> 
@@ -43,6 +43,4 @@ These rules will apply *when the person is not currently in [Salesforce.com](htt
 
 You can filter out SFDC records in a Smart List using the **SFDC Type** Filter with the operator set to "is not empty". All SFDC records have a value in this field.
 
-Remember, these automatic actions only happen if the lead is not currently in [Salesforce.com](http://Salesforce.com)
-
-The Salesforce sync is cool, right?
+Remember, these automatic actions only happen if the lead is not currently in [Salesforce.com](https://salesforce.com)

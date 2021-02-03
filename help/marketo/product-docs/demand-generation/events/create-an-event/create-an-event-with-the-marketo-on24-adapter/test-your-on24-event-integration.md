@@ -28,7 +28,5 @@ Here’s how data is updated after the event takes place:
 
 >[!MORELIKETHIS]
 >
->* [Example ON24 Event Integration](example-on24-event-integration.md)
->* [Understanding Marketo ON24 Adapter Events](understanding-marketo-on24-adapter-events.md)
->
-
+>* [Example ON24 Event Integration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+>* [Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)

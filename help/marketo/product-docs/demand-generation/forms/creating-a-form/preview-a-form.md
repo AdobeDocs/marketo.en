@@ -8,15 +8,15 @@ title: Preview a Form
 
 Before you publish, you can see the form in this quick and simple form previewer.
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Find and select your form. 
+1. Find and select your form.
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. Under **Form** **Actions**, click **Preview**.
+1. Under **Form Actions**, click **Preview**.
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
@@ -24,19 +24,12 @@ Before you publish, you can see the form in this quick and simple form previewer
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Click **Edit** **Draft** to go back to **edit** mode.
+1. Click **Edit Draft** to go back to **edit** mode.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
-   >[!NOTE]
-   >
-   >**Deep Dive**
-   >
-   >
-   >Learn more about [forms](http://docs.marketo.com/display/docs/forms).
-
-1. Switch back easily by clicking **Preview** **Draft**.
+1. Switch back easily by clicking **Preview Draft**.
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 
-Wasn't that super easy? Now you know how to preview your form as you are making changes.
+Wasn't that easy? Now you know how to preview your form as you are making changes.

@@ -10,7 +10,7 @@ Already have a custom audience in Facebook and want to add more leads to it? Her
 
 >[!PREREQUISITES]
 >
->* [Create a Custom Audience in Facebook](create-a-custom-audience-in-facebook.md)
+>* [Create a Custom Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >* [Accept Facebook's custom audiences terms](https://www.facebook.com/ads/manage/customaudiences/tos.php) within your Facebook account.
 >
 
@@ -18,11 +18,11 @@ Already have a custom audience in Facebook and want to add more leads to it? Her
 
    ![](assets/one.png)
 
-1. Select the **Leads** tab, then click on the **Send Via Ad Bridge **icon at the bottom.
+1. Select the **Leads** tab, then click on the **Send Via Ad Bridge** icon at the bottom.
 
    ![](assets/two-1.png)
 
-1. Select **Facebook **and click **Next**.
+1. Select **Facebook** and click **Next**.
 
    ![](assets/three.png)
 
@@ -32,7 +32,7 @@ Already have a custom audience in Facebook and want to add more leads to it? Her
 
    >[!NOTE]
    >
-   >**Add leads to audience:** only Facebook audiences with a custom sub-type will be available.  
+   >**Add leads to audience**: only Facebook audiences with a custom sub-type will be available.  
    >**Remove leads from audience**: removes the leads in your static or smart list from a Facebook audience.
 
 1. When done, the status will update.
@@ -43,11 +43,4 @@ Already have a custom audience in Facebook and want to add more leads to it? Her
 
    >[!NOTE]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Create a Custom Audience in Facebook](create-a-custom-audience-in-facebook.md)
-   >    
-   >
-
+   >[Create a Custom Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)

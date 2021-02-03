@@ -18,11 +18,11 @@ Marketo wins. It's rare that this sort of collision of data occurs.
 
 ## Can I create a lead in Salesforce using Marketo? {#can-i-create-a-lead-in-salesforce-using-marketo}
 
-Yes, use the [Sync Person to SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) flow action. This will create a lead in Salesforce if the lead doesn't exist.
+Yes, use the [Sync Person to SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) flow action. This will create a lead in Salesforce if the lead doesn't exist.
 
 ## Can I manually force a sync of a person in Marketo to a lead in Salesforce? {#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
-Yes, use the [Sync Person to SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) flow action and it will sync in real-time.
+Yes, use the [Sync Person to SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) flow action and it will sync in real-time.
 
 ## Does every single standard field sync to Marketo? {#does-every-single-standard-field-sync-to-marketo}
 

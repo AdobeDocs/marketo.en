@@ -8,23 +8,23 @@ title: Show Custom HTML Form for Known People
 
 If a visitor is cookied (known person who provided an email address in the past), then why bother with the form? Just give them the download button. Here's how.
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Under **Marketing** **Activities**, select your form and click **Edit** **Form**.
+1. Under **Marketing Activities**, select your form and click **Edit Form**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Under **Form** **Settings**, click on **Settings**. 
+1. Under **Form Settings**, click on **Settings**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Set If **Known** **Visitor, Show**: to **Custom** **HTML**.
+1. Set If **Known Visitor, Show**: to **Custom HTML**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Click the ![--](assets/image2014-9-25-14-3a1-3a26.png) to edit the **Custom** **HTML** that will be shown to known people.
+1. Click the ![--](assets/image2014-9-25-14-3a1-3a26.png) to edit the **Custom HTML** that will be shown to known people.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -59,15 +59,12 @@ If a visitor is cookied (known person who provided an email address in the past)
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >Remember to  [approve the landing page draft](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) created by the form changes.
+   >Remember to [approve the landing page draft](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) created by the form changes.
+
+   Piece of cake! Check out what a person would see if they came back to the same form:
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 
    >[!TIP]
    >
    >You can direct the click of the button to the asset by setting the form follow-up page to the file's URL.
-
-Piece of cake! Check out what a person would see if they came back to the same form: 

@@ -24,8 +24,8 @@ You can manually approve your registrants before sending them a confirmation ema
 
 If a person ends up not being registered but rather set to the status Registration Error, it's not too late to recover.
 
-1. From the Members tab, filter the list of people with the status **Registration Error**. 
-1. Before continuing, make sure you have determined and fixed the issue with integration (check to make sure there are no errors under **Event Partners** in Admin). 
+1. From the Members tab, filter the list of people with the status **Registration Error**.
+1. Before continuing, make sure you have determined and fixed the issue with integration (check to make sure there are no errors under **Event Partners** in Admin).
 1. After the issue is resolved, select all the people with the Registration Error status and change their status to **Registered**. This will attempt to register them again with ON24.
 
 ## Updating Member Status from ON24 {#updating-member-status-from-on}
@@ -34,6 +34,4 @@ Marketo automatically pulls in the attendance information at approximately 11pm 
 
 >[!MORELIKETHIS]
 >
->* [Understanding Marketo ON24 Adapter Events](understanding-marketo-on24-adapter-events.md)
->
-
+>[Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)

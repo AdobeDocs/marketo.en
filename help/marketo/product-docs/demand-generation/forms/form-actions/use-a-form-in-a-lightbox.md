@@ -8,7 +8,7 @@ title: Use a Form in a Lightbox
 
 A Lightbox is a technique that opens a form in front of your content when you want it to show. Here's how.
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -16,18 +16,15 @@ A Lightbox is a technique that opens a form in front of your content when you wa
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. Under **Form** **Actions**, click **Embed** **Code**.
+1. Under **Form Actions**, click **Embed Code**.
 
    >[!NOTE]
-   >
-   >**Reminder**
-   >
    >
    >The form must be approved for the embed code item to be visible/useable.
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Set **Code** **Type** to **Lightbox**. 
+1. Set **Code Type** to **Lightbox**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 

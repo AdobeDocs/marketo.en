@@ -10,9 +10,10 @@ After you create your Lead Ad, you should test it!
 
 >[!PREREQUISITES]
 >
->You must [Set up the Facebook Lead Ads Integration](set-up-facebook-lead-ads.md).
+>You must [Set up the Facebook Lead Ads Integration](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. In the Facebook Power Editor, select a campaign, an ad, and click **Edit**.
+
 1. Under **Links**, click the **View on mobile app** link.
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
@@ -37,7 +38,7 @@ After you create your Lead Ad, you should test it!
    >
    >This is just an example, which uses a Learn More Call To Action. Your Lead Ad unit Call To Action might be different.
 
-1. This is where the magic happens! Once you have submitted your form, [build a smart list in Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) as part of a program or in the lead database that uses the **Filled Out Facebook Lead Ads Form** filter. Insert the Lead Ad Form Name of the form you just submitted.
+1. This is where the magic happens! Once you have submitted your form, [build a smart list in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) as part of a program or in the lead database that uses the **Filled Out Facebook Lead Ads Form** filter. Insert the Lead Ad Form Name of the form you just submitted.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
@@ -45,12 +46,8 @@ After you create your Lead Ad, you should test it!
 
    ![](assets/image2016-3-11-15-3a27-3a54.png)
 
-   Is that cool or what?
+ Is that cool or what?
 
 >[!NOTE]
 >
->**Related Articles**
->
->* [Enable/Disable Facebook Lead Ads](set-up-facebook-lead-ads.md)
->
-
+>[Enable/Disable Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

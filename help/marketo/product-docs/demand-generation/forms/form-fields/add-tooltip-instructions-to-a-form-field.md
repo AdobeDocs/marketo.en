@@ -6,7 +6,7 @@ title: Add Tooltip Instructions to a Form Field
 
 # Add Tooltip Instructions to a Form Field {#add-tooltip-instructions-to-a-form-field}
 
-[Hints](add-hint-text-to-a-form-field.md) and instructions help people fill out forms. Here's how to add tooltip instructions.  
+[Hints](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) and instructions help people fill out forms. Here's how to add tooltip instructions.  
 
 >[!NOTE]
 >
@@ -38,18 +38,8 @@ title: Add Tooltip Instructions to a Form Field
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >Don't forget to [approve the landing page draft](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) created by the form changes.
+   >Don't forget to [approve the landing page draft](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) created by the form changes.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
-Awesome work! The tooltip will show up when a visitor hovers over the field. 
-
->[!NOTE]
->
->**Deep Dive**
->
->There's so much that you can do with [forms](http://docs.marketo.com/display/docs/forms).
-
+Awesome work! The tooltip will show up when a visitor hovers over the field.

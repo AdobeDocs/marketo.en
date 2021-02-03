@@ -6,13 +6,13 @@ title: Define Values in a Radio or Selected Field in a Form
 
 # Define Values in a Radio or Selected Field in a Form {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Once you've [set a field type](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) to be a radio button or select type, you'll want to define the values the user can pick from. Here's how.
+Once you've [set a field type](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) to be a radio button or select type, you'll want to define the values the user can pick from. Here's how.
 
-1. Go to **Marketing** **Activities**. 
+1. Go to **Marketing Activities**.
 
    ![](assets/ma.png)
 
-1. Select your form and click **Edit** **Form**.
+1. Select your form and click **Edit Form**.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
@@ -32,9 +32,7 @@ Once you've [set a field type](../../../../product-docs/administration/field-man
    >
    >**Definition**
    >
-   >
    >**Display Value:** What is shown to the visitor.
-   >
    >
    >**Stored Value:** What is recorded in Marketo.
 
@@ -50,7 +48,7 @@ Once you've [set a field type](../../../../product-docs/administration/field-man
    >
    >Click **Advanced Editor** to copy/paste a list of values if you want. It can be a real time saver.
 
-1. Click **Finish**. 
+1. Click **Finish**.
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
@@ -58,4 +56,4 @@ Once you've [set a field type](../../../../product-docs/administration/field-man
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
-Super work! You're doing really well. Learn more about [forms](http://docs.marketo.com/display/docs/forms).
+Super work! You're doing really well.

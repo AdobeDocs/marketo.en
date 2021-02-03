@@ -12,19 +12,19 @@ Did you know you can customize the form to give messages in another language? Ch
 >
 >This also changes the submit button language.
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Select your form and click **Edit Form.**
+1. Select your form and click **Edit Form**.
 
    ![](assets/image2014-9-15-12-3a47-3a46.png)
 
-1. Under **Form Settings,** click **Settings**.
+1. Under **Form Settings**, click **Settings**.
 
    ![](assets/image2014-9-15-12-3a48-3a5.png)
 
-1. Select the **Error** **Language** you need.
+1. Select the **Error Language** you need.
 
    ![](assets/image2014-9-15-12-3a48-3a26.png)
 
@@ -42,11 +42,8 @@ Did you know you can customize the form to give messages in another language? Ch
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >Remember to [approve the landing page](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) draft created by the form changes.
+   >Remember to [approve the landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) draft created by the form changes.
 
    ![](assets/image2014-9-15-12-3a50-3a11.png)
 
-And voila! The form validation and error messages will now be displayed in your preferred language. 
+And voila! The form validation and error messages will now be displayed in your preferred language.

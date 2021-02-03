@@ -8,9 +8,7 @@ title: Publish Landing Pages to Facebook
 
 You can publish your landing pages to Facebook, meeting your audience where they already hang out and generating more traffic to your programs.
 
->[!NOTE]
->
->**Availability**
+>[!AVAILABILITY]
 >
 >SMB Spark, Standard & Select. Enterprise with separately licensed feature.
 
@@ -58,8 +56,4 @@ Say you're launching a new book, you might reach some of your audience via email
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >To remove the landing page from Facebook, unapprove it in Marketo and, when prompted, select the option to remove the Facebook tab.
-

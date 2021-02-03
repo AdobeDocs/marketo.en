@@ -10,7 +10,7 @@ There are two ways to resize both the field label width as well as the field wid
 
 ## Drag and Drop the Width {#drag-and-drop-the-width}
 
-1. In the [form editor](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md), select the field you want to resize.
+1. In the [form editor](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md), select the field you want to resize.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 

@@ -22,7 +22,7 @@ No. An Account can have many contacts, a contact can have only one account.
 
 ## Can I create Accounts from Marketo? {#can-i-create-accounts-from-marketo}
 
-Mostly, no. However, if you use the [Convert Person](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) flow step on a person, it will create a new Contact, a new Account, and a new Opportunity.
+Mostly, no. However, if you use the [Convert Person](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) flow step on a person, it will create a new Contact, a new Account, and a new Opportunity.
 
 >[!CAUTION]
 >

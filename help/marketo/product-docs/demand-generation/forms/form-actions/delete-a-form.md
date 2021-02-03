@@ -8,7 +8,7 @@ title: Delete a Form
 
 If you have a form that you don't need and is not being used, you can delete it. Here's how.
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -16,14 +16,11 @@ If you have a form that you don't need and is not being used, you can delete it.
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. Under **Form** **Actions**, click **Delete** **Form**.
+1. Under **Form Actions**, click **Delete Form**.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
    >[!NOTE]
-   >
-   >**Reminder**
-   >
    >
    >Remember to remove the form from any/all landing pages using it. Also, confirm that the form isn't being used on a public website.
 
@@ -37,5 +34,4 @@ If you have a form that you don't need and is not being used, you can delete it.
 
 >[!CAUTION]
 >
->If you delete a form that is being used by your public website, you won't see a warning and the form will be broken. Consider  [archiving it](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) instead.
-
+>If you delete a form that is being used by your public website, you won't see a warning and the form will be broken. Consider  [archiving it](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) instead.

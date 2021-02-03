@@ -10,9 +10,9 @@ title: Create an Event with ReadyTalk
 >
 >* [Add ReadyTalk as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
 >* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Set the appropriate [flow actions](http://docs.marketo.com/display/DOCS/Flow+Actions)to track engagement
+>* Set the appropriate [flow actions](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)to track engagement
 
-First set up your event in the ReadyTalk conference center. If you need help, check out the [ReadyTalk Resource Center.](https://www.readytalk.com/resources/readytalk)  When choosing the registration type, select **pre-register before the meeting**. If you select *register at time of meeting*, Marketo will **not** capture a Registered status for your people and will only pull in a person status of Attended *after* the webinar concludes.
+First set up your event in the ReadyTalk conference center. If you need help, check out the [ReadyTalk Resource Center](https://www.readytalk.com/resources/readytalk). When choosing the registration type, select **pre-register before the meeting**. If you select _register at time of meeting_, Marketo will **not** capture a Registered status for your people and will only pull in a person status of Attended _after_ the webinar concludes.
 
 Leave **notify me of new registrations via email** unchecked.
 
@@ -68,9 +68,9 @@ Now you're ready to link your event to Marketo.
    >
    >It can take up to 48 hours for the data to appear in Marketo. If after waiting that long you still don't see anything, select **Refresh from Webinar Provider** from the Event Actions menu in the **Summary** tab of your event.
 
-## Viewing the Schedule  {#viewing-the-schedule}
+## Viewing the Schedule {#viewing-the-schedule}
 
-   In the [program schedule view](http://docs.marketo.com/display/docs/program+schedule+view), click the calendar entry for your event. You can see the schedule on the right side of the screen!
+   In the program schedule view, click the calendar entry for your event. You can see the schedule on the right side of the screen!
 
    ![](assets/image2015-5-18-12-9-58.png)
 

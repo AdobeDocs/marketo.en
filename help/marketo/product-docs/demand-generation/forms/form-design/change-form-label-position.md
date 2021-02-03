@@ -6,21 +6,21 @@ title: Change Form Label Position
 
 # Change Form Label Position {#change-form-label-position}
 
-When [creating a form](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md), you can change the positioning of the form field labels very easily. Here's how.
+When [creating a form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), you can change the positioning of the form field labels very easily. Here's how.
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Select your form and click **Edit** **Form**.
+1. Select your form and click **Edit Form**.
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. Select **Settings**. 
+1. Select **Settings**.
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Select the **Label** **Position** you want. 
+1. Select the **Label Position** you want.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
@@ -43,15 +43,10 @@ When [creating a form](../../../../product-docs/demand-generation/forms/creating
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >Remember to approve the landing page draft created by the form changes.
 
 Well done! See how easy it was to change the label positions on a form? OK, let's see what we can do about changing the font of the form labels.
 
 >[!MORELIKETHIS]
 >
->* [Change the Form Font Family](change-the-form-font-family.md)
->
-
+>[Change the Form Font Family](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)
