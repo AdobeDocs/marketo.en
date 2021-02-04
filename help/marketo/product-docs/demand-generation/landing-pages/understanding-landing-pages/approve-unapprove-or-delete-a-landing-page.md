@@ -14,22 +14,20 @@ Landing pages are in draft mode until you approve them. Approval makes pages ava
 
    >[!TIP]
    >
-   >You can  [approve multiple pages at once](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) to make your life easier. 
+   >You can [approve multiple pages at once](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) to make your life easier.
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
-1. You can also right click your landing page and click **Approve**. 
+1. You can also right click your landing page and click **Approve**.
 
    ![](assets/image2014-9-16-15-3a30-3a4.png)
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >Once approved, your landing page icon will have a green checkmark on it.
 
-1. Unapprove a Landing Page
+## Unapprove a Landing Page {#unapprove-a-landing-page}
+
 1. Select a landing page, go to **Landing Page Actions** and click **Unapprove**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
@@ -40,7 +38,7 @@ Landing pages are in draft mode until you approve them. Approval makes pages ava
 
 >[!NOTE]
 >
->Your unapproved landing page is no longer published on the web and will generate no additional activity. Visitors to unapproved landing pages and their Facebook Tabs will see the [Fallback Page](../../../../product-docs/administration/settings/set-a-fallback-page.md).
+>Your unapproved landing page is no longer published on the web and will generate no additional activity. Visitors to unapproved landing pages and their Facebook Tabs will see the [Fallback Page](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Delete a Landing Page {#delete-a-landing-page}
 

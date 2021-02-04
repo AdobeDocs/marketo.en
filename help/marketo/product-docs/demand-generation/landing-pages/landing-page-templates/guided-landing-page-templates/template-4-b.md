@@ -20,6 +20,6 @@ This template includes the following content:
 * Five body sections (optional)
 * Footer (optional)
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
 [Template4-B.html](http://docs.marketo.com/download/attachments/8783903/template-4b.html?version=1&modificationdate=1437692370000&api=v2)

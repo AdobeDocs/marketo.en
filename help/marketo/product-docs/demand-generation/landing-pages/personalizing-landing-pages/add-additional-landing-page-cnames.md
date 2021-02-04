@@ -14,8 +14,9 @@ You may want to add landing page CNAMEs to allow different URLs to point to your
 
 >[!TIP]
 >
->**Same top level domain - Good! Cookies are shared.go**.mycompany.com > **info**.mycompany.com**Different top level domains - Bad! Cookies are not shared.** 
->go.**mycompany**.com > go.**mynewcompany**.com
+>**Same top level domain - Good! Cookies are shared**.<br/> **go**.mycompany.com > **info**.mycompany.com
+>
+>**Different top level domains - Bad! Cookies are _not_ shared**.<br/> go.**mycompany**.com > go.**mynewcompany**.com
 
 >[!NOTE]
 >

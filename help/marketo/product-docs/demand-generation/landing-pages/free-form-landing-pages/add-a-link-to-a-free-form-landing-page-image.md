@@ -8,12 +8,11 @@ title: Add a Link to a Free-Form Landing Page Image
 
 >[!PREREQUISITES]
 >
->* [Add an Image to a Free-Form Landing Page](add-an-image-to-a-free-form-landing-page.md)
->
+>[Add an Image to a Free-Form Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 >[!NOTE]
 >
->This applies only to free-form landing pages.
+>This only applies to free-form landing pages.
 
 1. Select the image you added to your landing page and expand the **Property Sheet.**
 
@@ -26,4 +25,3 @@ title: Add a Link to a Free-Form Landing Page Image
    Great work! You now have an image as a mailto link on your Marketo landing page.
 
    ![](assets/image2014-9-18-15-3a29-3a38.png)
-

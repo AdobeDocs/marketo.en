@@ -8,11 +8,10 @@ title: Export a List with Personalized URLs
 
 >[!PREREQUISITES]
 >
->* [Enable Personalized URLs for Your Account](enable-personalized-urls-for-your-account.md)
->* [Enable Personalized URLs for a Landing Page](enable-personalized-urls-for-a-landing-page.md)
->
+>* [Enable Personalized URLs for Your Account](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>* [Enable Personalized URLs for a Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
-1. Select your list or smart list, click on the **Leads** tab to get the results and then click on the excel icon. INLINE Make sure you have **Marketo Unique Code **and **Marketo Unique Name** [columns visible](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md). 
+1. Select your list or smart list, click on the **Leads** tab to get the results and then click on the excel icon. INLINE Make sure you have **Marketo Unique Code** and **Marketo Unique Name** [columns visible](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -36,11 +35,10 @@ title: Export a List with Personalized URLs
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
 
-   And you are done! You now have a list of leads and personalized URLs.
+   And you're done! You now have a list of leads and personalized URLs.
 
    ![](assets/image2014-9-18-13-3a37-3a36.png)
 
    >[!NOTE]
    >
    >If there are leads with the same first and last name, numbers will be appended automatically to ensure the URLs remain unique.
-

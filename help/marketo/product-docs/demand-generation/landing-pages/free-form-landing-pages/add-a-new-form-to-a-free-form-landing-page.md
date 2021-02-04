@@ -10,15 +10,14 @@ Form, meet landing page. Landing page, meet form.
 
 >[!PREREQUISITES]
 >
->* [Create a Form](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
->* [Create a Free-Form Landing Page](create-a-free-form-landing-page.md)
->
+>* [Create a Form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
+>* [Create a Free-Form Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
-1. Go to **Marketing** **Activities**.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Find your landing page and click **Edit** **Draft**.
+1. Find your landing page and click **Edit Draft**.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
@@ -33,14 +32,12 @@ Form, meet landing page. Landing page, meet form.
 1. You have three options when choosing your follow-up page:
 
     * **Landing Page** - to pick a Marketo landing page
-    * **External**** URL** - to pick any URL you want
-    
-    * **Form**** Defined** - to use the settings defined at the form level
+    * **External URL** - to pick any URL you want
+    * **Form Defined** - to use the settings defined at the form level
 
    >[!NOTE]
    >
    >**Definition**
-   >
    >
    >The follow-up page is the page people will see after they submit the form.
 
@@ -50,4 +47,4 @@ Form, meet landing page. Landing page, meet form.
 
    Nicely done!
 
-Just close the landing page editor and [approve the landing page draft](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Just close the landing page editor and [approve the landing page draft](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

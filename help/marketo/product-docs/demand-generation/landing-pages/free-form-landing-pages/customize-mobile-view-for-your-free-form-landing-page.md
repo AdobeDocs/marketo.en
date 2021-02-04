@@ -8,8 +8,7 @@ title: Customize Mobile View for Your Free-Form Landing Page
 
 >[!PREREQUISITES]
 >
->* [Add a Mobile View for Your Free-Form Landing Page](add-a-mobile-view-for-your-free-form-landing-page.md)
->
+>[Add a Mobile View for Your Free-Form Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
 The mobile view of your free-form landing page is mostly automatic, but you can customize it. Here's how.
 
@@ -37,13 +36,14 @@ By default, everything on the desktop view is shown on the mobile view.
 >
 >Rectangles aren't shown on the mobile view.
 
-![](assets/image2015-5-21-15-3a12-3a2.png)  
+![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## Important Things to Know:  {#important-things-to-know}
+## Important Things to Know: {#important-things-to-know}
 
 * Images will expand to the width of your mobile device. If you want smaller images, pull in the rich-text element and add your image from there.
-* Only use Forms 2.0 forms. They are responsive and will adjust automatically. 
-* Only one template element is editable, BODY#bodyid (Mobile). You can use this to change the background color.   
+* Only use Forms 2.0 forms. They are responsive and will adjust automatically.
+* Only one template element is editable, BODY#bodyid (Mobile). You can use this to change the background color.
+
   ![](assets/image2015-5-21-15-3a15-3a47.png)
 
 ## Hide an Element from the Mobile View {#hide-an-element-from-the-mobile-view}
@@ -100,12 +100,8 @@ By default, everything on the desktop view is shown on the mobile view.
    >
    >The preview is not interactive. Every smartphone displays things a bit differently. We recommend previewing your landing page on a few devices to see exactly how the landing page will behave.
 
-Have fun! 
+Have fun!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Make an Existing Free-form Landing Page Template Mobile Compatible](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
->
-
+>[Make an Existing Free-form Landing Page Template Mobile Compatible](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)

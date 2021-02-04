@@ -8,10 +8,9 @@ title: Add an Image to a Free-Form Landing Page
 
 >[!PREREQUISITES]
 >
->* [Add Images and Files to Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
->
+>[Add Images and Files to Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
-1. Select your free-form landing page and click **Edit** **Draft**. 
+1. Select your free-form landing page and click **Edit** **Draft**.
 
    ![](assets/landingpageeditdraft.jpg)
 
@@ -30,4 +29,3 @@ title: Add an Image to a Free-Form Landing Page
    Great job! You just added an image to your free-form landing page.
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)
-

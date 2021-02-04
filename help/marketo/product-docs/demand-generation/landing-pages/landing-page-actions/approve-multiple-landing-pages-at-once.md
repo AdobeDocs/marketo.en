@@ -6,11 +6,11 @@ title: Approve Multiple Landing Pages at Once
 
 # Approve Multiple Landing Pages at Once {#approve-multiple-landing-pages-at-once}
 
-1. Go to **Design Studio.**
+1. Go to **Design Studio**.
 
    ![](assets/image2014-9-17-11-3a35-3a5.png)
 
-1. Click **Landing Pages.**
+1. Click **Landing Pages**.
 
    ![](assets/image2014-9-17-11-3a35-3a11.png)
 
@@ -22,7 +22,7 @@ title: Approve Multiple Landing Pages at Once
    >
    >Do not click the actual landing page name, those are links and will take you to the page itself.
 
-1. With your landing pages selected, go to **Landing Page Actions** and click on **Approve.**
+1. With your landing pages selected, go to **Landing Page Actions** and click on **Approve**.
 
    ![](assets/image2014-9-17-11-3a35-3a27.png)
 
@@ -33,4 +33,3 @@ title: Approve Multiple Landing Pages at Once
    >[!TIP]
    >
    >You can also use the steps above for other bulk options, such as unapprove or delete.
-

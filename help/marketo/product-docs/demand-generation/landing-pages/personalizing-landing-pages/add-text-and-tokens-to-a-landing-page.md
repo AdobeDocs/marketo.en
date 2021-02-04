@@ -46,7 +46,7 @@ Tokens are dynamic bits of text that can personalize your landing page.
    >
    >The landing page designer opens in a new window.
 
-1. Double click the rich text box you want to add the token to.
+1. Double-click the rich text box you want to add the token to.
 
    ![](assets/image2015-5-21-12-3a30-3a5.png)
 
@@ -66,5 +66,4 @@ Tokens are dynamic bits of text that can personalize your landing page.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
-   Mission Complete! You now have a token on your landing page.
-
+   Mission Completed! You now have a token on your landing page.

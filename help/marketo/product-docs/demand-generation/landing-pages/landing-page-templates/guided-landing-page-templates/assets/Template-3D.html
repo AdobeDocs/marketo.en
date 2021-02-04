@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <title></title>
+  
+  <!-- Meta Tags-->
+    <meta charset="utf-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+  <!-- End Meta Tags-->
+
+  <!-- Marketo Variables -->
+    <meta class="mktoBoolean" id="showHeader" mktoName="Show Header?" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show">
+    <meta class="mktoBoolean" id="showHero" mktoName="Show Hero?" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show">
+    <meta class="mktoBoolean" id="showSection1" mktoName="Show Section 1?" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show">
+    <meta class="mktoBoolean" id="showSection2" mktoName="Show Section 2?" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show">
+    <meta class="mktoBoolean" id="showSection3" mktoName="Show Section 3?" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show">
+    <meta class="mktoBoolean" id="showFinalSection" mktoName="Show Section 4?" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show">
+    <meta class="mktoBoolean" id="showFooter" mktoName="Show Footer?" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show">
+    <meta class="mktoColor" id="gradient1" mktoName="Hero Gradient 1" default="#4ec5f4">
+    <meta class="mktoColor" id="gradient2" mktoName="Hero Gradient 2" default="#207ce5">
+    <meta class="mktoColor" id="headersColor" mktoName="Heading Text Color" default="#9C9C9C" >
+    <meta class="mktoColor" id="section2BgColor" mktoName="Sec. 2 Background" default="#f2f2f2">
+    <meta class="mktoColor" id="section3BgColor" mktoName="Sec. 3 Background" default="#f2f2f2">
+    <meta class="mktoColor" id="section4BgColor" mktoName="Sec. 4 Background" default="#122929">
+    <meta class="mktoColor" id="footerBgColor" mktoName="Footer Background" default="#000000">
+    <meta class="mktoString" id="bodyFontFamily" mktoName="Body Font" default="'Open Sans', 'Lucida Sans Unicode', verdana, 'Lucida Grande', sans-serif" >
+    <meta class="mktoString" id="bodyFontSize" mktoName="Body Font Size" default="16px" >
+    <meta class="mktoColor" id="paraTextColor" mktoName="Paragraph Text Color" default="#A2A2A2" >
+    <meta class="mktoString" id="paraFontSize" mktoName="Paragraph Font Size" default="16px" >
+    <meta class="mktoString" id="footerLabel" mktoName="Footer Label" default='The Brothers Grimm'>
+    <meta class="mktoString" id="headerButton1Url" mktoName="Header Button 1 URL" default="#" >
+    <meta class="mktoString" id="headerButton2Url" mktoName="Header Button 2 URL" default="#" >
+    <meta class="mktoString" id="headerButton3Url" mktoName="Header Button 3 URL" default="#" >
+    <meta class="mktoString" id="headerButton1Label" mktoName="Header Button 1 Label" default="Home" >
+    <meta class="mktoString" id="headerButton2Label" mktoName="Header Button 2 Label" default="About Us" >
+    <meta class="mktoString" id="headerButton3Label" mktoName="Header Button 3 Label" default="Contact" >
+    <meta class="mktoString" id="footerUrl" mktoName="Footer URL" default="#" >
+
+  <!-- End Marketo Variables -->
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+  <!-- Google Font-->
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,800,700,300" />
+  <!-- End Google Font-->
+
+  <!-- Styesheets-->
+    <link rel="stylesheet" type="text/css" media="screen" href="//templates.marketo.net/template3/css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" media="screen" href="//templates.marketo.net/template3/css/flexslider.css"/>
+    <link rel="stylesheet" type="text/css" media="screen" href="//templates.marketo.net/template3/css/fancybox.css"/>
+  <!-- End Stylesheets-->
+
+  <style>
+    body {
+      font-family: ${bodyFontFamily};
+      font-size: ${bodyFontSize};
+    }
+
+    section {
+      clear:both;
+      padding: 35px 0;
+    }
+
+    p {
+      font-size: ${paraFontSize};
+      color: ${paraTextColor};
+      line-height: 24px;
+      margin-bottom: 10px;
+    }
+
+    h1, h2, h3, h4, h5, h6{
+      color: ${headersColor};
+      margin-bottom:5px;
+      margin-top:0;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 36px;
+      font-weight: bold;
+      line-height: 40px;
+    }
+
+    h2 {
+      font-size: 26px;
+      text-transform: uppercase;
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom:15px;
+    }
+
+    h3 {
+      font-size: 20px;
+    }
+
+    h4 {
+      font-size: 13px;
+      text-transform: uppercase;
+    }
+
+    ul {
+      margin-left: 0;
+    }
+
+    ul li {
+      list-style: none;
+      margin-left: 0;
+      line-height: 26px;
+    }
+
+    .wrapper {
+      width:960px;
+      margin:0 auto;
+    }
+        
+    .divider {
+      clear: both;
+      height:1px;
+      margin:30px 0;
+    }
+
+    .left-icon {
+      margin-bottom: 10px;
+    }
+
+    .left-icon img {
+      margin: 20px;
+      margin-left: 0;
+      float: left;
+    }
+
+    .left-icon p {
+      text-align: left;
+      line-height: 22px;
+    }
+      
+    .float-left {
+      float: left;
+      margin-right: 20px;
+    }
+
+    .float-right {
+      float: right;
+      margin-left: 20px;
+    }
+
+    /* ---------------------------------------------------------------------- */
+    /*	Headline
+    /* ---------------------------------------------------------------------- */
+    .headline {
+      text-align:center;
+      margin-bottom:30px;
+    }
+
+
+    /* ---------------------------------------------------------------------- */
+    /*	Header
+    /* ---------------------------------------------------------------------- */
+
+    header {
+      padding: 10px 0;
+    }
+
+    .logo {
+      float: left;
+    }
+
+    .logo h1 {
+      text-transform: uppercase;
+      font-size: 30px;
+      letter-spacing: -1px;
+    }
+    
+    .logo h1 a {
+      color: #464646;
+    }
+    
+    .navbar .nav > li > a {
+      font-size: 13px;
+      text-transform: uppercase;
+      text-shadow: none;
+      font-weight: bold;
+      color: #919191;
+    }
+
+    .navbar .nav > .active > a, .navbar .nav > .active > a:hover {
+      background: none;
+      -webkit-box-shadow: none;
+      -moz-box-shadow: none;
+      box-shadow: none;
+    }
+
+
+    /* ---------------------------------------------------------------------- */
+    /*	Banner Content
+    /* ---------------------------------------------------------------------- */		
+
+    #banner-area {
+      padding-bottom:30px;
+      background: -moz-linear-gradient(top, ${gradient1} 0%, ${gradient2} 100%);
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,${gradient1}), color-stop(100%,${gradient2}));
+      background: -webkit-linear-gradient(top, ${gradient1} 0%,${gradient2} 100%);
+      background: -o-linear-gradient(top, ${gradient1} 0%,${gradient2} 100%);
+      background: -ms-linear-gradient(top, ${gradient1} 0%,${gradient2} 100%);
+      background: linear-gradient(to bottom, ${gradient1} 0%,${gradient2} 100%);
+    }
+
+    .banner {
+      color: #FFF;
+      text-shadow:1px 1px 1px rgba(0,0,0,0.3);
+      min-height: 130px !important;
+    }
+
+
+    /* ---------------------------------------------------------------------- */
+    /*	Intro
+    /* ---------------------------------------------------------------------- */
+
+    #intro {
+      padding-bottom:0;
+      background-color: ${section2BgColor};
+    }
+
+    .headlinePoint {
+      min-height: 100px;
+    }
+
+    #section3 {
+      background-color: ${section3BgColor};
+    }
+
+    /* ---------------------------------------------------------------------- */
+    /*	Final Part
+    /* ---------------------------------------------------------------------- */
+
+    #final-part {
+      padding:60px 0;
+      background-color: ${section4BgColor};
+    }
+
+    /* ---------------------------------------------------------------------- */
+    /*	Footer
+    /* ---------------------------------------------------------------------- */
+
+    #footer {
+      padding-top: 25px;
+      clear:both;
+      background-color: ${footerBgColor};
+    }
+    #footer .boxed {
+      padding-right:15px;
+    }
+      
+    
+    /* ---------------------------------------------------------------------- */
+    /*	Footer Bottom Part
+    /* ---------------------------------------------------------------------- */
+    .footer-bottom {
+      margin-top: 25px;
+      padding:15px 0;
+      text-align: center;
+    }
+
+    .footer-bottom p {
+      color: #FFF;
+      margin-bottom: 0;
+    }
+    
+    /* ---------------------------------------------------------------------- */
+    /*	Media Query cusomization for responsiveness
+    /* ---------------------------------------------------------------------- */
+    @media(min-width: 768px) and (max-width: 979px) {  
+      .wrapper { 
+        width:735px; 
+        margin:0 auto;
+      }
+      
+     }
+   
+   
+     @media(min-width: 480px) and (max-width: 767px) {
+      body {
+        padding:0;
+      }
+      
+      .wrapper {
+        width:480px;
+        margin:0 auto;
+      }
+      
+      .navbar .nav > .active > a, .navbar .nav > .active > a:hover {
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+      }
+
+      .left-icon {
+        clear: both;
+      }
+      
+      .left-icon img {
+        margin-top: 0;
+        margin-right: 25px;
+      }
+      
+      .banner h1 {
+        text-align: center;
+      }
+
+      .footer-bottom p, .footer-menu {
+        float:none;
+        text-align: center;
+      }
+      
+     }
+
+     @media(max-width:480px) {
+     
+      body {
+        padding:0;
+      }
+      
+      .wrapper { 
+        width:300px; 
+        margin:0 auto;
+      }
+      
+      .navbar .nav > .active > a, .navbar .nav > .active > a:hover {
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+      }
+
+      .banner {
+        margin-bottom: 30px;
+      }
+
+      .left-icon {
+        clear: both;
+      }
+      
+      .footer-bottom p {
+        float:none;
+        text-align: center;
+      }
+      
+     }
+
+
+  </style>
+
+  
+  </head>
+
+  <body>
+  
+  <!-- Header -->
+  <header class="header" style="display: ${showHeader};">  
+    <div class="wrapper">
+    
+      <div class="row-fluid">
+        <!-- Logo -->
+        <div class="logo">
+          <div class="mktoImg centered" id="logoImage1" mktoName="Header Logo" mktoImgClass="expandToFit" style="min-height:75px;min-width:120px;display:inline-block;margin:10px;"></div>         
+        </div>
+        <!-- End Logo -->
+        
+        <!-- Navigation -->
+        <div class="navbar">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          
+          <nav class="nav-collapse">
+            <ul class="nav pull-right">
+              <li class="active"><a href="${headerButton1Url}">${headerButton1Label}</a></li>
+              <li><a href="${headerButton2Url}">${headerButton2Label}</a></li>
+              <li><a href="${headerButton3Url}">${headerButton3Label}</a></li>
+            </ul>
+          </nav>
+        </div>
+        <!-- End Navigation -->
+        
+      </div>
+      
+    </div>
+  </header>
+  <!-- End Header -->
+  
+  <!-- Banner -->
+  <section id="banner-area" style="display: ${showHero};">
+    <div class="wrapper">
+    
+      <div class="row-fluid">
+				<!-- Banner Content-->
+        <div class="mktoText span8 banner" id="bannerText" mktoName="Hero Text">
+					<h1>Hansel and Gretel</h1>
+					<span>
+            Hard by a great forest dwelt a poor wood-cutter with his
+            wife and his two children. The boy was called Hansel and the
+            girl Gretel. He had little to bite and to break, and once,
+            when great dearth fell on the land, he could no longer procure even daily bread.
+					</span>
+				</div>
+				<!-- End Banner Content-->
+
+        <!-- Download / Sign Up Form -->
+        <div class="span4">
+          <div class="mktoText" id="mainText" mktoName="Hero Text">
+            "I'll tell you what, husband," answered the woman, "early tomorrow morning we will take the children out into the forest to where it is the thickest. There we will light a fire for them, and give each of them one more piece of bread, and then we will go to our work and leave them alone. They will not find the way home again, and we shall be rid of them."
+          </div>
+        </div>
+        <!-- End Download / Sign Up Form -->
+        
+      </div>
+      
+    </div>
+  </section>
+  <!-- End Banner -->
+  
+  <!-- Intro -->
+  <section id="intro" style="display: ${showSection2};">
+		<div class="wrapper">	
+		
+			<!-- Headline -->
+      <div class="mktoText headline" id="headlineText" mktoName="Section 2 Header">
+				<h2>Section 2: The Moon Shone Brightly</h2>
+			</div>	
+			<!-- End Headline -->
+			
+			<div class="row-fluid">
+				<!-- Main Point 1 -->
+				<div class="span4 left-icon">
+          <div class="mktoImg centered" id="introImage1" mktoName="Section 2 Image 1" mktoImgClass="expandToFit" style="min-height:66px;min-width:66px;display:inline-block;margin:10px;"></div>         
+          <div class="mktoText" id="introText1" mktoName="Section 2 Text 1">
+            <h4>The House</h4>
+            <p>The two children had also not been able to sleep for hunger, and had heard what their step-mother had said to their father.</p>
+          </div>
+				</div>
+				<!-- End Main Point 1 -->
+				
+				<!-- Main Point 2 -->
+				<div class="span4 left-icon">
+          <div class="mktoImg centered" id="introImage2" mktoName="Section 2 Image 2" mktoImgClass="expandToFit" style="min-height:66px;min-width:66px;display:inline-block;margin:10px;"></div>         
+          <div class="mktoText" id="introText2" mktoName="Section 2 Text 2">
+            <h4>The Woods</h4>
+            <p>The moon shone brightly, and the white pebbles which lay in front of the house glittered like real silver pennies.</p>
+          </div>
+				</div>
+				<!-- End Main Point 2 -->
+				
+				<!-- Main Point 3 -->
+				<div class="span4 left-icon">
+          <div class="mktoImg centered" id="introImage3" mktoName="Section 2 Image 3" mktoImgClass="expandToFit" style="min-height:66px;min-width:66px;display:inline-block;margin:10px;"></div>         
+          <div class="mktoText" id="introText3" mktoName="Section 2 Text 3">
+            <h4>The Old Woman's House</h4>
+            <p>And when they approached the little house they saw that it was built of bread and covered with cakes, but that the windows were of clear sugar.</p>
+          </div>
+				</div>	
+				<!-- Main Point 3 -->
+				
+			</div>	
+			
+		</div>
+	</section>
+  <!-- End Intro -->
+  
+	<!-- Start Features -->
+  <section id="section3" style="display: ${showSection3};">
+		<div class="wrapper">
+			
+      <div class="mktoText" id="section3Header" mktoName="Section 3 Header">
+        <h2>Section 3: The Players</h2>				
+      </div>
+
+      <div class="row-fluid">
+			
+				<!-- Start Feature Listing -->
+				<div class="span8">
+					
+					<div class="row">
+						<!-- Start Feature -->
+						<div class="span6 left-icon">
+              <div class="mktoImg centered" id="section3Image1" mktoName="Section 3 Image 1" mktoImgClass="expandToFit" style="min-height:66px;min-width:66px;display:inline-block;margin:10px;"/>         
+              <div class="mktoText" id="section3Text1" mktoName="Section 3 Text 1">
+                <h4>Mother</h4>
+                <p>"I'll tell you what, husband," answered the woman, "early tomorrow morning we will take the children out into the forest to where it is the thickest.</p>
+              </div>
+						</div>
+						<!-- End Feature -->
+						
+						<!-- Start Feature -->
+						<div class="span6 left-icon">
+              <div class="mktoImg centered" id="section3Image2" mktoName="Section 3 Image 2" mktoImgClass="expandToFit" style="min-height:66px;min-width:66px;display:inline-block;margin:10px;"/>         
+              <div class="mktoText" id="section3Text2" mktoName="Section 3 Text 2">
+                <h4>Father</h4>
+                <p>When they had reached the middle of the forest, the father said, "Now, children, pile up some wood, and I will light a fire that you may not be cold."</p>
+              </div>
+						</div>
+						<!-- Start Feature -->
+					</div>
+					
+					<div class="row">
+						<!-- Start Feature -->
+						<div class="span6 left-icon">
+              <div class="mktoImg centered" id="section3Image3" mktoName="Section 3 Image 3" mktoImgClass="expandToFit" style="min-height:66px;min-width:66px;display:inline-block;margin:10px;"/>         
+              <div class="mktoText" id="section3Text3" mktoName="Section 3 Text 3">
+                <h4>Hansel</h4>
+                <p>"We will set to work on that," said Hansel, "and have a good meal. I will eat a bit of the roof, and you Gretel, can eat some of the window, it will taste sweet."</p>
+              </div>
+						</div>
+						<!-- End Feature -->
+						
+						<!-- Start Feature -->
+						<div class="span6 left-icon">
+              <div class="mktoImg centered" id="section3Image4" mktoName="Section 3 Image 4" mktoImgClass="expandToFit" style="min-height:66px;min-width:66px;display:inline-block;margin:10px;"/>         
+              <div class="mktoText" id="section3Text4" mktoName="Section 3 Text 4">
+                <h4>Gretel</h4>
+                <p>Early in the morning, Gretel had to go out and hang up the cauldron with the water, and light the fire.</p>
+              </div>
+						</div>
+						<!-- Start Feature -->
+					</div>
+					
+					<div class="row">
+						<!-- Start Feature -->
+						<div class="span6 left-icon">
+              <div class="mktoImg centered" id="section3Image5" mktoName="Section 3 Image 5" mktoImgClass="expandToFit" style="min-height:66px;min-width:66px;display:inline-block;margin:10px;"/>         
+              <div class="mktoText" id="section3Text5" mktoName="Section 3 Text 5">
+                <h4>Old Woman</h4>
+                <p>"Oh, you dear children, who has brought you here? Do come in, and stay with me. No harm shall happen to you."</p>
+              </div>
+						</div>
+						<!-- End Feature -->
+						
+						<!-- Start Feature -->
+						<div class="span6 left-icon">
+              <div class="mktoImg centered" id="section3Image6" mktoName="Section 3 Image 6" mktoImgClass="expandToFit" style="min-height:66px;min-width:66px;display:inline-block;margin:10px;"/>         
+              <div class="mktoText" id="section3Text6" mktoName="Section 3 Text 6">
+                <h4>Bird</h4>
+                <p>When it was mid-day, they saw a beautiful snow-white bird sitting on a bough, which sang so delightfully that they stood still and listened to it.</p>
+              </div>
+						</div>
+						<!-- Start Feature -->
+					</div>
+				</div>
+				<!-- End Feature Listing -->
+				
+				<!-- Testimonials -->
+				<div class="span4">
+					<div id="testimonials" >
+						<ul class="slides">
+							<li>
+                <div class="mktoImg centered" id="slideShowImage1" mktoName="Slide Show Image 1" mktoImgClass="expandToFit" style="min-height:90px;min-width:90px;display:inline-block;margin:10px;"/>         
+                <div class="mktoText" id="slideshowText1" mktoName="Slide Show Text 1">
+                  <p>A classic!</p>
+                  <span class="author"><strong>Queen Victoria</strong> - England</span>
+                </div>
+							</li>
+							<li>
+                <div class="mktoImg centered" id="slideShowImage2" mktoName="Slide Show Image 2" mktoImgClass="expandToFit" style="min-height:90px;min-width:90px;display:inline-block;margin:10px;"/>         
+                <div class="mktoText" id="slideshowText2" mktoName="Slide Show Text 2">
+                  <p>Guaranteed to give you nightmares!</p>
+                  <span class="author"><strong>Sister Grimm</strong> - Germany</span>
+                </div>
+							</li>
+							<li class="flex-active-slide">
+                <div class="mktoImg centered" id="slideShowImage3" mktoName="Slide Show Image 3" mktoImgClass="expandToFit" style="min-height:90px;min-width:90px;display:inline-block;margin:10px;"/>         
+                <div class="mktoText" id="slideshowText3" mktoName="Slide Show Text 3">
+                  <p>Messed me up for life!</p>
+                  <span class="author"><strong>Anonymous</strong> - Earth</span>
+                </div>
+							</li>
+						</ul>
+					</div>
+					<!-- End Testiomnials -->
+				</div>				
+      </div>				
+    </div>
+	</section>
+
+
+
+  <!-- Final Part -->  
+  <section id="final-part" style="display: ${showFinalSection};">
+    <div class="row-fluid" class="mktoText row-fluid wrapper" id="section4" mktoName="Section 4 Text">
+      <p>Section 4: Then Hansel sprang like a bird from its cage when the door is opened. How they did rejoice and embrace each other, and dance about and kiss each other. And as they had no longer any need to fear her, they went into the witch's house, and in every corner there stood chests full of pearls and jewels.</p>
+    </div>
+  </section>
+  <!-- End Final Part -->
+
+  <!-- Footer -->
+  <footer id="footer" style="display: ${showFooter};">
+  
+    <!-- Footer Bottom-->
+    <div class="footer-bottom">  
+      <div class="wrapper">    
+        <div class="mktoText row-fluid wrapper" id="footerText" mktoName="Footer Text">
+          <p>Footer: My tale is done, there runs a mouse, whosoever catches it, may make himself a big fur cap out of it. </p>
+        </div>
+        <a href="${footerUrl}">${footerLabel}</a>
+      </div>
+    </div>
+    <!-- End Footer Bottom-->
+    
+  </footer>
+  <!-- Footer -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+  <script type="text/javascript">window.jQuery || document.write('<script src="//templates.marketo.net/template3/js/jquery.min.js"><\/script>')</script>
+  <script type="text/javascript" src="//templates.marketo.net/template3/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="//templates.marketo.net/template3/js/modernizr-2.0.6.min.js"></script>
+  <script type="text/javascript" src="//templates.marketo.net/template3/js/respond.min.js"></script>
+  <script type="text/javascript" src="//templates.marketo.net/template3/js/jquery.flexslider.js"></script>
+  <script type="text/javascript" src="//templates.marketo.net/template3/js/jquery.fancybox-1.3.4.js"></script>
+  <script type="text/javascript" src="//templates.marketo.net/template3/js/custom.js"></script>
+
+  </body>
+</html>
+

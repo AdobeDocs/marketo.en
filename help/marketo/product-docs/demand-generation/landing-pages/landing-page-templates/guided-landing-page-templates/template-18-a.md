@@ -6,7 +6,7 @@ title: Template 18-A
 
 # Template 18-A {#template-a}
 
-[Download Template 18-A](http://docs.marketo.com/download/attachments/9438206/template-18a.html?version=1&modificationdate=1439843149000&api=v2)
+Right-click to [Download Template 18-A](http://docs.marketo.com/download/attachments/9438206/template-18a.html?version=1&modificationdate=1439843149000&api=v2)
 
 ![](assets/image2015-8-17-17-3a57-3a23.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Five body sections (optional)
 * Footer (optional)
 
-Click below to download this template:
+Right-click below to download this template:
 
 [Template18-A.html](http://docs.marketo.com/download/attachments/9438206/template-18a.html?version=1&modificationdate=1439843149000&api=v2)

@@ -8,9 +8,9 @@ title: Understanding Elements and Variables in Guided Templates
 
 Guided landing page templates have two types of editable sections: elements and variables.
 
-## Elements  {#elements}
+## Elements {#elements}
 
-Elements are the different pieces of content that make up a landing page. They can be images, text, or Marketo assets. 
+Elements are the different pieces of content that make up a landing page. They can be images, text, or Marketo assets.
 
 ![](assets/image2015-5-20-14-3a57-3a55.png)
 
@@ -26,13 +26,13 @@ When you edit a guided landing page, elements will show up if they've been marke
 * ![--](assets/image2015-5-20-12-3a44-3a40.png)Marketo Sweepstakes
 * ![--](assets/image2015-5-20-12-3a47-3a45.png)Marketo Snippet
 
-Variables 
+## Variables {#variables}
 
 Variables are token-like attributes that can be customized from the guided landing page editor, like shown below.
 
 ![](assets/image2015-5-20-15-3a0-3a2.png)
 
-There are three types of variables: string variables, color variables, and Boolean variables. 
+There are three types of variables: string variables, color variables, and Boolean variables.
 
 <table> 
  <tbody> 
@@ -53,5 +53,4 @@ There are three types of variables: string variables, color variables, and Boole
 
 >[!MORELIKETHIS]
 >
->[Create a Guided Landing Page Template](create-a-guided-landing-page-template.md)
-
+>[Create a Guided Landing Page Template](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)

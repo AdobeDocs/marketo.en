@@ -16,7 +16,7 @@ You can edit any landing page template within Marketo.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Select the **Template** you wish to edit. Click on** Edit Draft**.
+1. Select the **Template** you wish to edit. Click **Edit Draft**.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
@@ -25,4 +25,3 @@ You can edit any landing page template within Marketo.
    >[!NOTE]
    >
    >When you edit a landing page template, it will create a draft of any landing page asset using that template.
-

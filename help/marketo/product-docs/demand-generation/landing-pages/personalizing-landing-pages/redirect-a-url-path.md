@@ -12,11 +12,11 @@ Marketo makes it easy to redirect a URL path to any page you choose. Here's how.
 >
 >**Admin Permissions Required**
 
-1. Under **Admin,** click **Landing Pages**.
+1. Under **Admin**, click **Landing Pages**.
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. Click the **Rules** tab, then click **New **and **New Redirect Rule**.
+1. Click the **Rules** tab, then click **New** and **New Redirect Rule**.
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
@@ -26,10 +26,7 @@ Marketo makes it easy to redirect a URL path to any page you choose. Here's how.
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >Remember, you can only redirect URLs that start with your Marketo [CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >Remember, you can only redirect URLs that start with your Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
 1. Type the URL path (or specific page) you want to redirect in the second **Original URL** field on the right.
 
@@ -39,12 +36,10 @@ Marketo makes it easy to redirect a URL path to any page you choose. Here's how.
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   You can [use Marketo landing pages](https://docs.marketo.com/x/vAEk) as the destination too.
+   You can [use Marketo landing pages](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) as the destination too.
 
-Congratulations!  You've successfully redirected your URL path.
+Congratulations! You've successfully redirected your URL path.
 
 >[!MORELIKETHIS]
 >
->* [Redirect a Marketo Landing Page to Another Page](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
->
-
+>[Redirect a Marketo Landing Page to Another Page](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)

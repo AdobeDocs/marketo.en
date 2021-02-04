@@ -10,7 +10,7 @@ Free-form landing pages can be created as local assets of a program or in the De
 
 >[!NOTE]
 >
->Landing page modes are defined by their template. [Learn more](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) about free-form and guided landing page templates.
+>Landing page modes are defined by their template. [Learn more](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) about free-form and guided landing page templates.
 
 ## Create a Free-Form Landing Page in a Program {#create-a-free-form-landing-page-in-a-program}
 
@@ -48,11 +48,11 @@ Free-form landing pages can be created as local assets of a program or in the De
 
 ## Create a Free-Form Landing Page in Design Studio {#create-a-free-form-landing-page-in-design-studio}
 
-1. Go to the **Design** **Studio**. 
+1. Go to the **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Click **New**, then **New Landing Page.** 
+1. Click **New**, then **New Landing Page**.
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -67,4 +67,3 @@ Free-form landing pages can be created as local assets of a program or in the De
 >[!TIP]
 >
 >Uncheck "Open landing page editor for new page" if you don't want the editor to open immediately after clicking **Create**.
-

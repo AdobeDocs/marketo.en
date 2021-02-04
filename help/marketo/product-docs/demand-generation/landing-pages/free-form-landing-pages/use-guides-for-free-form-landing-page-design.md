@@ -10,13 +10,13 @@ When designing a free-form landing page, you can use guides to help with alignin
 
 >[!NOTE]
 >
->Guides are only available on the **Free**-**form** landing page editor.
+>Guides are only available on the **Free-form** landing page editor.
 
 1. Select a **Landing Page** and click **Edit Draft**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Click **Landing Page Actions **and select **Show Guides**.
+1. Click **Landing Page Actions** and select **Show Guides**.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 
@@ -29,4 +29,3 @@ When designing a free-form landing page, you can use guides to help with alignin
    ![](assets/image2015-5-20-14-3a17-3a24.png)
 
    Aligned objects are easy on the eyes!
-

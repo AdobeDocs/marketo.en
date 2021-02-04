@@ -6,10 +6,6 @@ title: Make an Existing Free-form Landing Page Template Mobile Compatible
 
 # Make an Existing Free-form Landing Page Template Mobile Compatible {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
->[!NOTE]
->
->Landing pages templates that were created before the [January 2015 release](../../../../release-notes/2015/release-notes-january-2015.md)need to be upgraded to be mobile compatible.
-
 This can be done in two places, the Template Editor and the Landing Page Editor.  
 
 ## Upgrade from the Template Editor {#upgrade-from-the-template-editor}
@@ -50,7 +46,9 @@ This can be done in two places, the Template Editor and the Landing Page Editor.
 
    Great questions! Your template must have have the following tags:
 
-   `<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`  If everything looks good, you'll see this message.
+   `<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`  
+
+   If everything looks good, you'll see this message.
 
    ![](assets/image2015-1-22-20-3a41-3a31.png)
 
@@ -58,7 +56,7 @@ This can be done in two places, the Template Editor and the Landing Page Editor.
 
    ![](assets/image2015-1-22-20-3a43-3a20.png)
 
-If you make any changes to the template, Click Template Actions and select Validate Mobile Compatibility. 
+If you make any changes to the template, Click Template Actions and select Validate Mobile Compatibility.
 
 ## Upgrading a Template from the Free-form Landing Page Editor {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
@@ -76,10 +74,4 @@ When you're editing a landing page and you click on the mobile tab, you'll somet
    >
    >Activating the mobile version of a template will create drafts of any landing pages that use it.
 
-Awesome! You can now [customize the mobile view](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) of all your landing pages that use this template.
-
->[!MORELIKETHIS]
->
->* [Customize Mobile View for Your Free-Form Landing Page](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
->
-
+Awesome! You can now [customize the mobile view](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) of all your landing pages that use this template.

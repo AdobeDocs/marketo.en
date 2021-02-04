@@ -28,7 +28,7 @@ From the Design Studio, you can find and duplicate a landing page test group.
 
    ![](assets/image2015-4-27-16-3a3-3a22.png)
 
-1. When you're done, click **Create.**
+1. When you're done, click **Create**.
 
    ![](assets/image2015-4-27-16-3a7-3a50.png)
 
@@ -37,4 +37,3 @@ From the Design Studio, you can find and duplicate a landing page test group.
    ![](assets/image2015-4-27-16-3a19-3a10.png)
 
    The group will now be actively tracking visits and form completions so that you can see which landing page is performing best.
-

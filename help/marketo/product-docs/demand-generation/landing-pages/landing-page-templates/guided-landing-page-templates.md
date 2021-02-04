@@ -6,7 +6,7 @@ title: Guided Landing Page Templates
 
 # Guided Landing Page Templates {#guided-landing-page-templates}
 
-Browse our collection of example templates, for use with the [Guided Landing Page Editor](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Each template is fully responsive and based off of the Bootstrap framework.
+Browse our collection of example templates, for use with the [Guided Landing Page Editor](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Each template is fully responsive and based off of the Bootstrap framework.
 
 >[!NOTE]
 >

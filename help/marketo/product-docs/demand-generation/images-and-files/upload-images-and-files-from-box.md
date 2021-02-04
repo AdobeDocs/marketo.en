@@ -8,15 +8,15 @@ title: Upload Images and Files from Box
 
 You can upload files from Box to use on landing pages and emails.
 
-1. Go to **Design** **Studio**.
+1. Go to **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
-1. Go to** Images and Files**. Click **File Actions** and select **Grab Images from Web**.
+1. Go to **Images and Files**. Click **File Actions** and select **Grab Images from Web**.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
-1. Click **Box**. 
+1. Click **Box**.
 
    ![](assets/image2014-9-16-12-3a50-3a56.png)
 
@@ -36,4 +36,4 @@ You can upload files from Box to use on landing pages and emails.
 
    ![](assets/image2014-9-16-12-3a52-3a15.png)
 
-Your files are now ready to be used on your landing pages and emails! 
+Your files are now ready to be used on your landing pages and emails!

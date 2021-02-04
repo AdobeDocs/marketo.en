@@ -6,7 +6,7 @@ title: Template 15-A
 
 # Template 15-A {#template-a}
 
-[Download Template 15-A](http://docs.marketo.com/download/attachments/9437816/template-15a.html?version=1&modificationdate=1438980388000&api=v2)
+Right-click to [Download Template 15-A](http://docs.marketo.com/download/attachments/9437816/template-15a.html?version=1&modificationdate=1438980388000&api=v2)
 
 ![](assets/image2015-8-13-13-3a58-3a55.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 * Five body sections (optional)
 * Footer (optional)
 
-Click below to download this template:
+Right-click below to download this template:
 
 [Template15-A.html](http://docs.marketo.com/download/attachments/9437816/template-15a.html?version=1&modificationdate=1438980388000&api=v2)

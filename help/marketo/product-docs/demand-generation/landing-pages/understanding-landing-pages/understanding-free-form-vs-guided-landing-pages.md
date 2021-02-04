@@ -6,7 +6,7 @@ title: Understanding Free-form vs Guided Landing Pages
 
 # Understanding Free-form vs Guided Landing Pages {#understanding-free-form-vs-guided-landing-pages}
 
-The template you choose determines what landing page editing mode you'll be working in. There are two possible paths: [free-form](http://docs.marketo.com/display/docs/free-form+landing+pages) and [guided](http://docs.marketo.com/display/docs/guided+landing+pages). Below you'll find a quick summary of the important differences.
+The template you choose determines what landing page editing mode you'll be working in. There are two possible paths: [free-form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) and [guided](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Below you'll find a quick summary of the important differences.
 
 ## Free-form Pages {#free-form-pages}
 
@@ -20,16 +20,9 @@ The template you choose determines what landing page editing mode you'll be work
 ## Guided Pages {#guided-pages}
 
 * Predefined layout/structure driven by the template.
-* Only regions or variables defined as editable in the template can be customized in the editor. 
+* Only regions or variables defined as editable in the template can be customized in the editor.
 * Code changes required to modify layout and add additional assets.
-* Look and feel across device determined by rules built into the template. 
+* Look and feel across device determined by rules built into the template.
 * Best used if you've coded or purchased responsive templates or wish to modify a pre-built Marketo template.
 
 ![](assets/two-1.png)
-
->[!MORELIKETHIS]
->
->* [Free-form Landing Pages](http://docs.marketo.com/display/public/DOCS/Free-Form+Landing+Pages)
->* [Guided Landing Pages](http://docs.marketo.com/display/DOCS/Guided+Landing+Pages)
->
-
