@@ -6,7 +6,7 @@ title: Template 1-E
 
 # Template 1-E {#template-e}
 
-Right-click to [Download Template 1-E](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/assets/Template-1E.html)
+Right-click to [Download Template 1-E](https://docs.marketo.com/download/attachments/7516017/Template1-E.html?version=1&modificationDate=1432845818000&api=v2)
 
 ![](assets/image2015-5-29-9-3a14-3a40.png)
 
@@ -21,4 +21,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template1-E.html](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/assets/Template-1E.html)
+[Template1-E.html](https://docs.marketo.com/download/attachments/7516017/Template1-E.html?version=1&modificationDate=1432845818000&api=v2)

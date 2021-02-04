@@ -6,7 +6,7 @@ title: Template 1-A
 
 # Template 1-A {#template-a}
 
-Right-click to [Download Template 1-A](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/assets/Template-1A.html)
+Right-click to [Download Template 1-A](https://docs.marketo.com/download/attachments/7515620/Template1-A.html?version=3&modificationDate=1432834576000&api=v2)
 
 ![](assets/image2015-5-28-10-3a1-3a40.png)
 
@@ -21,4 +21,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template1-A.html](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/assets/Template-1A.html)
+[Template1-A.html](https://docs.marketo.com/download/attachments/7515620/Template1-A.html?version=3&modificationDate=1432834576000&api=v2)

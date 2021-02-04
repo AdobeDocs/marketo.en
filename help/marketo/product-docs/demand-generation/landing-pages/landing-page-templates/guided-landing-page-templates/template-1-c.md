@@ -6,7 +6,7 @@ title: Template 1-C
 
 # Template 1-C {#template-c}
 
-Right-click to [Download Template 1-C](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/assets/Template-1C.html)
+Right-click to [Download Template 1-C](https://docs.marketo.com/download/attachments/7515993/Template1-C.html?version=1&modificationDate=1432836776000&api=v2)
 
 ![](assets/image2015-5-28-13-3a18-3a56.png)
 
@@ -21,4 +21,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template1-C.html](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/assets/Template-1C.html)
+[Template1-C.html](https://docs.marketo.com/download/attachments/7515993/Template1-C.html?version=1&modificationDate=1432836776000&api=v2)
