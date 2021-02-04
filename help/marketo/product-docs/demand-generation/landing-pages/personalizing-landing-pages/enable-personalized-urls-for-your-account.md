@@ -35,5 +35,3 @@ Great job! Now that you have enabled PURLs for your account, you can enable it f
 >1. AnnaJones
 >1. AnnaJones2
 >1. AnnaJones3
->
-

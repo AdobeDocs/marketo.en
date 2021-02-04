@@ -8,7 +8,7 @@ title: Create a Guided Landing Page Template
 
 >[!NOTE]
 >
->**Deep Dive:** Tired of reading? [Watch this cool video](https://youtu.be/3O7e4GdZKsM) with step-by-step instructions.
+>Tired of reading? [Watch this cool video](https://youtu.be/3O7e4GdZKsM) with step-by-step instructions.
 
 Guided landing page templates have a special syntax. Use this syntax to specify what is customizable and where content will end up on each landing page built from your template. Only the regions or variables you specify as editable will be available for customization within the “Guided” landing page editor.
 
@@ -39,13 +39,13 @@ The content of an element with class mktoText (if provided) will be used as the 
 
 Example:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
 
 ### Image {#image}
 
 You have two options for defining editable Image Elements. You may use either a `<div>`, which specifies a container that the image will be inserted into, or an `<img>` tag.
 
-## Option 1 - Use a <div> {#option-use-a-div}
+## Option 1 - Use a `<div>` {#option-use-a-div}
 
 Required attributes:
 

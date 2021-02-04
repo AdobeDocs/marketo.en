@@ -10,7 +10,7 @@ It's easy to make your free-form landing pages look great on a smartphone.
 
 >[!NOTE]
 >
->The mobile view works on screens that are 480px wide (or less). In other words, smartphones. Here's more [info on device resolutions](http://mydevice.io/devices/.).
+>The mobile view works on screens that are 480px wide (or less). In other words, smartphones. Here's more [info on device resolutions](https://mydevice.io/devices/).
 
 1. Go to **Marketing Activities**.
 
@@ -34,18 +34,12 @@ It's easy to make your free-form landing pages look great on a smartphone.
 
    >[!CAUTION]
    >
-   >The free-form template may need to be upgraded. If you see that message, quickly read about how to [make an existing free-form landing page template mobile compatible](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
+   >The free-form template may need to be upgraded. If you see that message, quickly read about how to [make an existing free-form landing page template mobile compatible](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
-1. Great! You have now activated the mobile version of your landing page. Click **Close. **
+1. Great! You have now activated the mobile version of your landing page. Click **Close**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 
-   You can now [customize your mobile view](customize-mobile-view-for-your-free-form-landing-page.md).
+   You can now [customize your mobile view](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md).
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)
-
->[!MORELIKETHIS]
->
->* [Customize Mobile View for Your Free-Form Landing Page](customize-mobile-view-for-your-free-form-landing-page.md)
->
-

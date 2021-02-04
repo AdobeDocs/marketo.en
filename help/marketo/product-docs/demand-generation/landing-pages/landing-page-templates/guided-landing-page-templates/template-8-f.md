@@ -6,7 +6,7 @@ title: Template 8-F
 
 # Template 8-F {#template-f}
 
-[Download Template 8-F](http://docs.marketo.com/download/attachments/8783975/template-8f.html?version=1&modificationdate=1482175174000&api=v2)
+Right-click to [Download Template 8-F](http://docs.marketo.com/download/attachments/8783975/template-8f.html?version=1&modificationdate=1482175174000&api=v2)
 
 ![](assets/image2015-7-29-14-3a45-3a45.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Five body sections (optional)
 * A footer (optional)
 
-Click below to download this template:
+Right-click below to download this template:
 
 [Template8-F.html](http://docs.marketo.com/download/attachments/8783975/template-8f.html?version=1&modificationdate=1482175174000&api=v2)

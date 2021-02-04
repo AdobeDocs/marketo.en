@@ -6,7 +6,7 @@ title: Template 1-B
 
 # Template 1-B {#template-b}
 
-[Download Template 1-B](http://docs.marketo.com/download/attachments/7515886/template1-b.html?version=1&modificationdate=1432796605000&api=v2)
+Right-click to [Download Template 1-B](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/assets/Template-1B.html)
 
 ![](assets/image2015-5-28-13-3a6-3a5.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 * Three body sections (optional)
 * Footer (optional)
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
-[Template1-B.html](http://docs.marketo.com/download/attachments/7515886/template1-b.html?version=1&modificationdate=1432796605000&api=v2)
+[Template1-B.html](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/assets/Template-1B.html)

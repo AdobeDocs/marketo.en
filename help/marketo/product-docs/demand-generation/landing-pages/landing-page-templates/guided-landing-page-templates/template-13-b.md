@@ -6,7 +6,7 @@ title: Template 13-B
 
 # Template 13-B {#template-b}
 
-[Download Template 13-B](http://docs.marketo.com/download/attachments/9437789/template-13b.html?version=1&modificationdate=1438979980000&api=v2)
+Right-click to [Download Template 13-B](http://docs.marketo.com/download/attachments/9437789/template-13b.html?version=1&modificationdate=1438979980000&api=v2)
 
 ![](assets/image2015-8-11-10-3a48-3a42.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 * Five body sections (optional)
 * Footer (optional)
 
-Click below to download this template:
+Right-click below to download this template:
 
 [Template13-B.html](http://docs.marketo.com/download/attachments/9437789/template-13b.html?version=1&modificationdate=1438979980000&api=v2)

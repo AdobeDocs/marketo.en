@@ -6,7 +6,7 @@ title: Template 19-B
 
 # Template 19-B {#template-b}
 
-[Download Template 19-B](http://docs.marketo.com/download/attachments/10092893/template-19b.html?version=1&modificationdate=1441750370000&api=v2)
+Right-click to [Download Template 19-B](http://docs.marketo.com/download/attachments/10092893/template-19b.html?version=1&modificationdate=1441750370000&api=v2)
 
 ![](assets/image2015-9-16-16-3a49-3a50.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 * Five body sections (optional)
 * Footer (optional)
 
-Click below to download this template:
+Right-click below to download this template:
 
 [Template19-B.html](http://docs.marketo.com/download/attachments/10092893/template-19b.html?version=1&modificationdate=1441750370000&api=v2)

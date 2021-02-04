@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta class='mktoColor' id='headerBgColor' mktoName='Header Background' default='#000000'>
+    <meta class='mktoColor' id='formBgColor' mktoName='Form Background' default='#ffffff'>
+    <meta class='mktoColor' id='headerFontColor' mktoName='Header Font Color' default='#cccccc'>
+    <meta class='mktoColor' id='heroFontColor' mktoName='Hero Font Color' default='#cccccc'>
+    <meta class='mktoColor' id='heroHeadlineColor' mktoName='Hero Headline Color' default='#ffffff'>
+    <meta class='mktoColor' id='accentColor1' mktoName='Accent Color 1' default='#f3ae73'>
+    <meta class='mktoColor' id='accentColor2' mktoName='Accent Color 2' default='#da955a'>
+    <meta class='mktoColor' id='accentColor3' mktoName='Accent Color 3' default='#e6a166'>
+    <meta class='mktoBoolean' id='showDescription' mktoName='Show Section 2?' true_value='block' false_value='none' default='true'>
+    <meta class='mktoBoolean' id='showFooter' mktoName='Show Footer?' true_value='block' false_value='none' default='true'>
+    <meta class='mktoBoolean' id='showHero' mktoName="Show Hero Section?" true_value='block' false_value='none' default='true'>
+    <meta class='mktoBoolean' id='showHeader' mktoName='Show Header?' true_value='block' false_value='none' default='true'>
+    <meta class='mktoBoolean' id='showIconListImg' mktoName='Show Hero List Icons?' true_value='block' false_value='none' default='true'>
+    <meta class='mktoBoolean' id='enablePreloader' mktoName='Show Loading Animation?' true_value='enable-preloader' false_value='' default='true'>
+    <meta class='mktoString' id="sectionHeading" mktoName='Section 2 Header' default="Section 2: Spin Straw into Gold" allow_html="true">
+    <meta class="mktoString" id="actionButtonText" mktoName="Header Button Label" default="Reserve Spin" allow_html="true">
+    <meta class='mktoBoolean' id='showCTAButton' mktoName='Show Header Button?' true_value='block' false_value='none' default='true'>
+    <meta class='mktoString' id="actionButtonHref" mktoName='Header Button Link' default="#">
+    <meta class="mktoString" id="heroTagline" mktoName="Hero Tagline" default="Overnight results, guaranteed." allow_html="true">
+    <meta class="mktoString" id="heroTitleText" mktoName="Hero Header" default="Rumpelstiltskin Straw Spinners" allow_html="true">
+    
+    <!-- BASIC INFO -->
+    <title></title>
+
+    <!-- GOOGLE FONTS -->
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+    <!-- LIBRARIES CSS -->
+    <link rel="stylesheet" href="//templates.marketo.net/template2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//templates.marketo.net/template2/css/animate.min.css">
+
+    <!-- SPECIFIC CSS -->
+    <link rel="stylesheet" href="//templates.marketo.net/template2/css/style.css">
+
+    <style>
+      .header-section, .header-section.floating { 
+        background-color: ${headerBgColor};
+        color:${headerFontColor};
+      }
+      #heroForm, #heroForm form { 
+        background-color: ${formBgColor};
+      }
+      #heroTitle h1 {
+        color: ${heroHeadlineColor};
+      }
+      #heroTitle p {
+        color: ${heroFontColor};
+      }
+      #headerLogo{
+        display:inline-block;
+        vertical-align:middle;
+      	min-height:40px;
+        min-width:60px;
+      }
+      #footerImage{
+      	min-height:60px;
+        min-width:60px;
+      }
+      #descriptionImage{
+      	min-height:300px;
+      }
+      .cf_widget, .cf_widget * {
+        box-sizing:initial;
+      }
+      
+      a {
+        color: ${accentColor1};
+      }
+      a:focus, a:hover {
+        color: ${accentColor2};
+      }
+      .text-primary {
+        color: ${accentColor1};
+      }
+      a.text-primary:hover {
+        color: ${accentColor2};
+      }
+      .bg-primary {
+        background-color: ${accentColor1};
+      }
+      a.bg-primary:hover {
+        background-color: ${accentColor2};
+      }
+      .btn {
+        background-color: ${accentColor2};
+        border-color: ${accentColor1};
+      }
+      .btn-primary:hover,
+      .btn-primary:focus,
+      .btn-primary.focus,
+      .btn-primary:active,
+      .btn-primary.active,
+      .open > .dropdown-toggle.btn-primary {
+        background-color: ${accentColor3};
+        border-color: ${accentColor1};
+      }
+      .btn-primary .badge {
+        color: ${accentColor1};
+      }
+      .btn-link {
+        color: ${accentColor1};
+      }
+      .btn-link:hover,
+      .btn-link:focus {
+        color: ${accentColor2};
+      }
+      .dropdown-menu > .active > a,
+      .dropdown-menu > .active > a:hover,
+      .dropdown-menu > .active > a:focus {
+        background-color: ${accentColor1};
+      }
+      .nav .open > a,
+      .nav .open > a:hover,
+      .nav .open > a:focus {
+        border-color: ${accentColor1};
+      }
+
+      .progress-bar {
+        background-color: ${accentColor1};
+      }
+      .list-group-item.active,
+      .list-group-item.active:hover,
+      .list-group-item.active:focus {
+        background-color: ${accentColor1};
+        border-color: ${accentColor1};
+      }
+      .icon-list-icon {
+        background-color: ${accentColor1};
+      }
+      .navbar-nav > li.header-action-button > a.btn-primary:hover, .navbar-nav > li.header-action-button > a.btn-primary:focus {
+        background-color: ${accentColor3};
+      }
+      .benefit-icon {
+        color: ${accentColor1};
+      }
+      #jpreBar {
+        background-color: ${accentColor1};
+      }
+      .mktoForm * {
+        box-sizing:initial;
+      }
+      #header {
+        display:${showHeader};
+      }
+      #hero {
+        display:${showHero};
+      }
+      #about {
+        display:${showDescription};
+      }
+      #footer{
+        display:${showFooter};
+      }
+      li.header-action-button{
+        display:${showCTAButton};
+      }
+      .icon-list li {
+        position: relative;
+        padding: 20px 0 20px 0;
+      }
+      .icon-list .icon-list-img {
+        display:${showIconListImg};
+        float:left;
+      	width:70px;
+        height:70px;
+        margin:20px 15px 0 0;
+      }
+      .icon-list .icon-list-img img{
+        width:70px;
+        height:70px;
+      }
+      #poll{
+        text-align:center;
+        max-width:550px;
+        margin:auto;
+      }
+      #textBeforePoll, #textAfterPoll{
+        max-width:550px;
+        margin:auto;
+        text-align:center;
+      }
+      #poll .cf_widget_insightpoll .cf_vote_title{
+        height:auto;
+      }
+      #poll .cf_widget_insightpoll .cf_vote_button{
+        line-height: normal;
+      }
+    </style>
+    
+  </head>
+  <body class="enable-animations ${enablePreloader}">
+
+    <div id="document" class="document">
+
+      <!-- HEADER
+      ================================= -->
+      <header id="header" class="header-section section section-dark navbar navbar-fixed-top">
+
+        <div class="container-fluid">
+
+          <div class="navbar-header navbar-left">
+
+            <!-- HEADER LOGO -->
+            <a class="navbar-logo navbar-brand anchor-link" href="#hero">
+              <div class='mktoImg' id='headerLogo' mktoName='Header Logo (40px height)' ></div>
+            </a>
+
+          </div>
+
+          <nav id="navigation" class=" navigation navbar-collapse collapse navbar-right">
+            <!-- NAVIGATION LINKS -->
+            <ul id="header-nav" class="nav navbar-nav">
+              <li>
+                <div class='mktoText' id='headerText' mktoName='Header Text'>
+                  <a href="#">Click Here</a> for straw spinning support
+                </div>
+              </li>
+              <!-- HEADER ACTION BUTTON -->
+              <li class="header-action-button">
+                <a href="${actionButtonHref}" class="btn btn-primary">${actionButtonText}</a></li>
+            </ul>
+          </nav>
+    	</div>
+      </header>
+
+      <!-- HERO
+      ================================= -->
+      <section id="hero" class="hero-section hero-layout-classic hero-layout-features-and-form section section-dark">
+        
+        <div class="section-background">
+		  <!-- IMAGE BACKGROUND -->
+          <div class='section-background-image parallax' data-stellar-ratio="0.4">
+            <img class='mktoImg' id='heroImg' mktoName="Hero BG Image (1600x1066)" src='//templates.marketo.net/template2/images/backgrounds/hero-bg.jpg' style='opacity:0.2'>
+          </div>
+		</div>
+       <div class="container">
+
+          <div class="hero-content">
+            <div class="hero-content-inner">
+
+              <div class="hero-heading text-center row" data-animation="fadeIn">
+                <div class="col-md-10 col-md-offset-1" id='heroTitle'>
+                  <h1 class='hero-title'>${heroTitleText}</h1>
+                  <p class='hero-tagline'>${heroTagline}</p>
+                </div>
+              </div>
+
+              <div class="hero-features row">
+                <div class='hero-features-left col-md-7'>
+                  <div class="mktoText lead" id='heroText' mktoName='Hero Text'>
+                    <p>You'll be glad you know our name. </p>
+                  </div>
+                    <ul class="icon-list">
+                      <li>
+                        <div class='mktoImg icon-list-img' id='heroBullet1Img' mktoName='Hero Bullet 1 Icon (70x70)'></div>
+                        <h4 class="icon-list-title">
+                          <span class='mktoText' id='heroBullet1Title' mktoName="Hero Bullet 1 Label">No Job too Large</span>
+                        </h4>
+                        <div class="mktoText" id='heroBullet1Text' mktoName="Hero Bullet 1 Text">
+                          <p>If you've got just a small tower room filled with straw, or a whole gigantic hall, we can convert it all to gold.</p>
+                        </div>
+                      </li>
+                      <li>
+                        <div class='mktoImg icon-list-img' id='heroBullet2Img' mktoName='Hero Bullet 2 Icon (70x70)'></div>
+                        <h4 class="icon-list-title">
+                          <span class='mktoText' id='heroBullet2Title' mktoName="Hero Bullet 2 Label">Overnight Results</span>
+                        </h4>
+                        <div class="mktoText" id='heroBullet2Text' mktoName="Hero Bullet 2 Text">
+                          <p>Rumpelstiltskin works around the clock to get you the results you need.  We make the impossible, possible.</p>
+                        </div>
+                      </li>
+                      <li>
+                        <div class='mktoImg icon-list-img' id='heroBullet3Img' mktoName='Hero Bullet 3 Icon (70x70)'></div>
+                        <h4 class="icon-list-title">
+                          <span class='mktoText' id='heroBullet3Title' mktoName="Hero Bullet 3 Label">Flexible Payment Terms</span>
+                        </h4>
+                        <div class='mktoText' id='heroBullet3Text' mktoName="Hero Bullet 3 Text">
+                          <p>Even if you don't have the money to pay, Rumpelstiltskin is always flexible with alternative forms of payment.  Rings, necklaces, future children, we'll accept any form of payment. </p>  
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                  <div class="hero-features-right col-md-5" data-animation="fadeIn">
+                    <div class='mktoForm' id='heroForm' mktoName='Hero Section Form'></div> 
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+      </section>
+
+      <section id="about" class="about-section section">
+
+          <h2 class='section-heading text-center'>${sectionHeading}</h2>
+
+          <div class="about-row row">
+            <div class='mktoText' id='textBeforePoll' mktoName='Text Above Poll'></div>
+            <div class='mktoPoll' id='poll' mktoName='Social Poll'></div>
+            <div class='mktoText' id='textAfterPoll' mktoName='Text Below Poll'></div>
+          </div>
+      </section>
+
+      <!-- FOOTER
+      ================================= -->
+      <section id="footer" class="footer-section section">
+
+        <div class="container">
+
+          <h3 class="footer-logo">
+            <div class='mktoImg' id='footerImage' mktoName='Footer Image (60px height)' ></div>
+          </h3>
+    
+          <div class="mktoText footer-copyright" id='footerText' mktoName='Footer Text'>
+            &copy; 2015 Your Footer Text Here
+          </div>
+        </div>
+      </section>
+    
+    </div>
+
+    <!-- LIBRARIES JS
+    ================================= -->
+    <script src="//templates.marketo.net/template2/js/jquery-1.11.2.min.js"></script>
+    <script src="//templates.marketo.net/template2/js/bootstrap.min.js"></script>
+    <script src="//templates.marketo.net/template2/js/respimage.min.js"></script>
+    <script src="//templates.marketo.net/template2/js/jpreloader.min.js"></script>
+    <script src="//templates.marketo.net/template2/js/smoothscroll.min.js"></script>
+    <script src="//templates.marketo.net/template2/js/jquery.inview.min.js"></script>
+    <script src="//templates.marketo.net/template2/js/jquery.stellar.min.js"></script>
+
+    <!-- MAIN SCRIPT
+    ================================= -->
+    <script src="//templates.marketo.net/template2/js/script.js"></script>
+
+  </body>
+
+</html>

@@ -10,8 +10,7 @@ Personalized URLs are great for print mail campaigns.
 
 >[!PREREQUISITES]
 >
->* [Enable Personalized URLs for Your Account](enable-personalized-urls-for-your-account.md)
->
+>[Enable Personalized URLs for Your Account](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 
 1. Select a landing page and click on settings for **Personalized URL**.
 

@@ -6,7 +6,7 @@ title: Template 3-A
 
 # Template 3-A {#template-a}
 
-[Download Template 3-A](http://docs.marketo.com/download/attachments/8159309/template3-a.html?version=1&modificationdate=1434057345000&api=v2)
+Right-click to [Download Template 3-A](http://docs.marketo.com/download/attachments/8159309/template3-a.html?version=1&modificationdate=1434057345000&api=v2)
 
 ![](assets/image2015-6-12-9-3a2-3a8.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Three body sections (optional)
 * Footer (optional)
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
 [Template3-A.html](http://docs.marketo.com/download/attachments/8159309/template3-a.html?version=1&modificationdate=1434057345000&api=v2)

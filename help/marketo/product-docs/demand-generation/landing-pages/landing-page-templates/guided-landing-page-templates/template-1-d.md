@@ -6,7 +6,7 @@ title: Template 1-D
 
 # Template 1-D {#template-d}
 
-[Download Template 1-D](http://docs.marketo.com/download/attachments/7516002/template1-d.html?version=1&modificationdate=1432838102000&api=v2)
+Right-click to [Download Template 1-D](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/assets/Template-1D.html)
 
 ![](assets/image2015-5-28-13-3a36-3a44.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 * Three body sections (optional)
 * Footer (optional)
 
-Click below to download this template:
+Right-click below to download this template:
 
-[Template1-D.html](http://docs.marketo.com/download/attachments/7516002/template1-d.html?version=1&modificationdate=1432838102000&api=v2)
+[Template1-D.html](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/assets/Template-1D.html)

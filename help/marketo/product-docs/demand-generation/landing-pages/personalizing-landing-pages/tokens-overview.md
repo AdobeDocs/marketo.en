@@ -6,7 +6,7 @@ title: Tokens Overview
 
 # Tokens Overview {#tokens-overview}
 
-A token is a variable that can be used in Marketo [smart campaign](http://docs.marketo.com/display/DOCS/Smart+Campaigns) flow steps, [emails](http://docs.marketo.com/display/DOCS/General), [landing pages](http://docs.marketo.com/display/DOCS/Landing+Pages), [snippets](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets), and [web campaigns](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor).
+A token is a variable that can be used in Marketo smart campaign flow steps, emails, landing pages, snippets, and web campaigns.
 
 ## Understanding Default Values {#understanding-default-values}
 
@@ -147,9 +147,7 @@ In this example, the email will say "Greetings, (first name)" or "Greetings, ear
 ## Program Tokens {#program-tokens}
 
 * `{{program.Name}}`
-
 * `{{program.Description}}`
-
 * `{{program.id}}`
 
 ## My Tokens {#my-tokens}

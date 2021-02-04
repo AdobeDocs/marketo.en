@@ -10,7 +10,7 @@ Marketo tracks the number of page views and form completions on each tested page
 
 >[!PREREQUISITES]
 >
->[Build two or more landing pages](../../../../getting-started/quick-wins/landing-page-with-a-form.md), preferably with a form.
+>[Build two or more landing pages](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), preferably with a form.
 
 1. In the Design Studio, click **New**. In the dropdown, select **New Test Group**.
 
@@ -20,13 +20,8 @@ Marketo tracks the number of page views and form completions on each tested page
    >
    >The other ways to create a Test Group are:
    >
-   >    
-   >    
-   >    * Right-click a landing page in the tree and select **Convert to Test Group**
-   >    * Create a Landing Page Test Group in a program by choosing **AB Test Group** in the **New Local Asset** menu
-   >    
-   >    
-   >
+   >* Right-click a landing page in the tree and select **Convert to Test Group**
+   >* Create a Landing Page Test Group in a program by choosing **AB Test Group** in the **New Local Asset** menu
 
 1. Enter a name and an optional description. Select the Landing Pages you want to test and click **Create**.
 
@@ -51,4 +46,3 @@ Marketo tracks the number of page views and form completions on each tested page
    >[!TIP]
    >
    >If you ever want to delete the Test Group, simply click **Test Group Actions** and select **Delete test group**.
-

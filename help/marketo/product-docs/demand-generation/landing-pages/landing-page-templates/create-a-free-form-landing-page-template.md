@@ -39,15 +39,8 @@ Free-form landing pages require less technical knowledge than their guided count
    >Select **Disable Munchkin Tracking** if you want to prevent forms from pre-populating, or you just don't want to track web behavior on a specific page.  
    >Select **Validate Mobile Compatibility** to make sure your code is compatible with mobile devices.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >    
-   >    
-   >    * [Create a Free-Form Landing Page](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
-   >    * [Create a Guided Landing Page Template](create-a-guided-landing-page-template.md)
-   >    * [Understanding Free-form vs Guided Landing Pages](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-   >    
-   >
-
+   >* [Create a Free-Form Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+   >* [Create a Guided Landing Page Template](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+   >* [Understanding Free-form vs Guided Landing Pages](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)

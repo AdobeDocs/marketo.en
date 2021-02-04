@@ -10,8 +10,7 @@ A **Calendar File** token allows you to add a calendar event (.ics) link to your
 
 >[!PREREQUISITES]
 >
->* [Create a Calendar Event (.ics) File](../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
->
+>* [Create a Calendar Event (.ics) File](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
 1. In your landing page editor, click **{...}** to insert a token.
 
@@ -23,24 +22,18 @@ A **Calendar File** token allows you to add a calendar event (.ics) link to your
    >
    >The following tokens are not supported on landing pages:
    >
-   >    
-   >    
-   >    * member.webinar URL
-   >    
-   >
+   >* member.webinar URL
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 
 1. Click **Save**.
 
-   People will see a landing page that looks like this:   ![](assets/image2015-1-6-16-3a42-3a51.png)
+   People will see a landing page that looks like this:
+
+   ![](assets/image2015-1-6-16-3a42-3a51.png)
 
 Sweet! Everything should be working great now. Make sure to test.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Include a Calendar Event (.ics) in an Email](../../../../product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
->
-
+>[Include a Calendar Event (.ics) in an Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)

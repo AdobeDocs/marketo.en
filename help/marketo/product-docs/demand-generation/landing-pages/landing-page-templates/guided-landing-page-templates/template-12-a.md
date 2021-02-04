@@ -6,7 +6,7 @@ title: Template 12-A
 
 # Template 12-A {#template-a}
 
-[Download Template 12-A](http://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&modificationdate=1438211507000&api=v2)
+Right-click to [Download Template 12-A](http://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&modificationdate=1438211507000&api=v2)
 
 ![](assets/image2015-8-4-14-3a23-3a23.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Six body sections (optional)
 * Footer (optional)
 
-Click below to download this template:
+Right-click below to download this template:
 
 [Template12-A.html](http://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&modificationdate=1438211507000&api=v2)

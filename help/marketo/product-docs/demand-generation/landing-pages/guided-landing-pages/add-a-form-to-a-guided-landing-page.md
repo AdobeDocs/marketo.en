@@ -10,8 +10,7 @@ Form, meet landing page. Landing page, meet form.
 
 >[!PREREQUISITES]
 >
->* [Create a Guided Landing Page](create-a-guided-landing-page.md)
->
+>[Create a Guided Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
 1. Go to the **Marketing Activities** area.
 
@@ -47,8 +46,8 @@ Form, meet landing page. Landing page, meet form.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
-   Nicely done! 
+   Nicely done!
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Now just close the landing page editor and [approve the landing page draft](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Now just close the landing page editor and [approve the landing page draft](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

@@ -6,7 +6,7 @@ title: Template 12-C
 
 # Template 12-C {#template-c}
 
-[Download Template 12-C](http://docs.marketo.com/download/attachments/9437580/template-12c.html?version=1&modificationdate=1438211583000&api=v2)
+Right-click to [Download Template 12-C](http://docs.marketo.com/download/attachments/9437580/template-12c.html?version=1&modificationdate=1438211583000&api=v2)
 
 ![](assets/image2015-8-4-14-3a36-3a13.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Six body sections (optional)
 * Footer (optional)
 
-Click below to download this template:
+Right-click below to download this template:
 
 [Template12-C.html](http://docs.marketo.com/download/attachments/9437580/template-12c.html?version=1&modificationdate=1438211583000&api=v2)

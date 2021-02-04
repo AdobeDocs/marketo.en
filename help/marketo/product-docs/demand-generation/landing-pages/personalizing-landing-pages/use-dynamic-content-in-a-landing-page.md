@@ -8,12 +8,11 @@ title: Use Dynamic Content in a Landing Page
 
 >[!PREREQUISITES]
 >
->* [Create a Segmentation](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Create a Free-Form Landing Page](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [Add a New Form to a Free-Form Landing Page](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
->
+>* [Create a Segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Create a Free-Form Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [Add a New Form to a Free-Form Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
-Using dynamic content in landing pages engages people with targeted information. 
+Using dynamic content in landing pages engages people with targeted information.
 
 ## Add Segmentation {#add-segmentation}
 
@@ -71,11 +70,7 @@ Using dynamic content in landing pages engages people with targeted information.
 
 Voila! You can now send targeted content.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->* [Preview a Landing Page with Dynamic Content](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [Using Dynamic Content in an Email](../../../../product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
->
-
+>* [Preview a Landing Page with Dynamic Content](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [Using Dynamic Content in an Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)

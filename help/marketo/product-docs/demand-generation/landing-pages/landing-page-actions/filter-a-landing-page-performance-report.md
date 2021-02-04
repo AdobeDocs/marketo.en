@@ -6,7 +6,7 @@ title: Filter a Landing Page Performance Report
 
 # Filter a Landing Page Performance Report {#filter-a-landing-page-performance-report}
 
-Focus your [landing page performance report](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) on landing pages in your programs (local assets), on those in Design Studio (global assets), or on those that have been archived.
+Focus your [landing page performance report](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) on landing pages in your programs (local assets), on those in Design Studio (global assets), or on those that have been archived.
 
 1. Go to **Analytics** (or **Marketing Activities**).
 
@@ -30,15 +30,8 @@ Focus your [landing page performance report](../../../../product-docs/demand-gen
 
    >[!TIP]
    >
-   >If you select a folder, your report will include everything that folder contains at the time the report runs. 
+   >If you select a folder, your report will include everything that folder contains at the time the report runs.
 
 1. You're done! Click the **Report** tab to see your filtered report.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)
-
->[!NOTE]
->
->**Deep Dive**
->
->Learn all about reports in [basic reporting](http://docs.marketo.com/display/docs/basic+reporting).
-

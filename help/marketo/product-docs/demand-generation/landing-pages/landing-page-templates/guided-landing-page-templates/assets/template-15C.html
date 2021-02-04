@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta class="mktoColor" id="heroBG" mktoName="Hero BG Color" default="#2f2f2f">
+<meta class="mktoColor" id="section3BG" mktoName="Sec. 3 BG Color" default="#59abe3">
+<meta class="mktoColor" id="section4BG" mktoName="Sec. 4 BG Color" default="#3498db">
+<meta class="mktoColor" id="section5BG" mktoName="Sec. 5 BG Color" default="#6bb9f0">
+<meta class="mktoColor" id="section6BG" mktoName="Sec. 6 BG Color" default="#2574a9">
+<meta class="mktoColor" id="section7BG" mktoName="Sec. 7 BG Color" default="#2f2f2f">
+<meta class="mktoColor" id="footerBG" mktoName="Footer BG Color" default="#000000">
+<meta class="mktoString" id="heroButtonLabel" mktoName="Hero Button Label" default="Register">
+<meta class="mktoString" id="heroButtonLink" mktoName="Hero Button Link" default="#">
+<meta class="mktoString" id="section2ButtonLabel" mktoName="Section 2 Button Label" default="Sign Up Now | 14 Days Free">
+<meta class="mktoString" id="section2ButtonLink" mktoName="Section 2 Button Link" default="#">
+<meta class="mktoString" id="section3ButtonLabel" mktoName="Section 3 Button Label" default="Sign Up Now | 14 Days Free">
+<meta class="mktoString" id="section3ButtonLink" mktoName="Section 3 Button Link" default="#">
+<meta class="mktoString" id="section4ButtonLabel" mktoName="Section 4 Button Label" default="Sign Up Now | 14 Days Free">
+<meta class="mktoString" id="section4ButtonLink" mktoName="Section 4 Button Link" default="#">
+<meta class="mktoString" id="section5ButtonLabel" mktoName="Section 5 Button Label" default="Sign Up Now | 14 Days Free">
+<meta class="mktoString" id="section5ButtonLink" mktoName="Section 5 Button Link" default="#">
+<meta class="mktoString" id="section6ButtonLabel" mktoName="Section 6 Button Label" default="Sign Up Now | 14 Days Free">
+<meta class="mktoString" id="section6ButtonLink" mktoName="Section 6 Button Link" default="#">
+<meta class="mktoBoolean" id="showHero" mktoName="Show Hero?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showSection2" mktoName="Show Sec. 2?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showSection3" mktoName="Show Sec. 3?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showSection4" mktoName="Show Sec. 4?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showSection5" mktoName="Show Sec. 5?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showSection6" mktoName="Show Sec. 6?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showSection7" mktoName="Show Sec. 7?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showFooter" mktoName="Show Footer?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<!-- Other Meta Tags -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title></title>
+<!-- Bootstrap core CSS -->
+<link href="//templates.marketo.net/template15/css/bootstrap.css" rel="stylesheet">
+<style>
+@import url(http://fonts.googleapis.com/css?family=Raleway:900,700,400);
+ .cf_widget, .cf_widget * {box-sizing:initial;}
+* { 
+	margin: 0;
+	padding: 0px;
+    font-family: 'Raleway', sans-serif;
+} 
+body { 
+	background: #fff; 
+	margin: 0; 
+	color: #5a5a5a;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Raleway', sans-serif;
+	font-weight: 700;
+}
+
+
+p { 
+	padding: 0; 
+	margin-bottom: 12px; 
+    font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	font-size: 18px; 
+	line-height: 28px;
+	color: #666; 
+	margin-top: 10px; 
+}
+
+html,
+body {
+	height: 100%;
+}
+
+.alignleft img{ float: left; }
+.alignright img { float: right; }
+.aligncenter img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	clear: both;
+}
+.centered {text-align: center}
+.mt {margin-top: 50px;}
+.mb {margin-bottom: 50px;}
+.mtb {margin-top: 50px; margin-bottom: 50px;}
+.mtb2 { margin-top: 100px; margin-bottom: 100px;}
+.ptb {padding-top: 80px; padding-bottom: 80px;}
+
+.clear {
+	clear: both;
+	display: block;
+	font-size: 0;
+	height: 0;
+	line-height: 0;
+	width:100%;
+}
+::-moz-selection  {
+	color: #fff;
+	text-shadow:none;
+	background:#2B2E31;
+}
+::selection {
+	color: #fff;
+	text-shadow:none;
+	background:#2B2E31;
+}
+*,
+*:after,
+*:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+a { 
+	padding: 0;
+	margin: 0;
+	text-decoration: none; 
+	-webkit-transition: background-color .4s linear, color .4s linear;
+	-moz-transition: background-color .4s linear, color .4s linear;
+	-o-transition: background-color .4s linear, color .4s linear;
+	-ms-transition: background-color .4s linear, color .4s linear;
+	transition: background-color .4s linear, color .4s linear;
+	color: #1abc9c;
+}
+a:hover,
+a:focus {
+  text-decoration: none;
+  color:#696E74;
+}
+
+.nopadding {
+	padding: 0px !important;
+	margin: 0px;
+}
+
+/* Bootstrap Modification */
+
+.navbar-inverse {
+	background: transparent;
+	border: transparent;
+}
+
+img {
+	padding-bottom: 10px;
+}
+
+/* FORM CONFIGURATION */
+
+input {
+	font-size: 16px;
+	min-height: 40px;
+	border-radius: 2px;
+	line-height: 20px;
+	padding: 11px 30px 12px;
+	border: 1px solid #b9b9af;
+	margin-bottom: 10px;
+	background-color: #fff;
+	-webkit-transition: background-color 0.2s;
+	transition: background-color 0.2s;
+}
+
+.subscribe-input {
+	float: left;
+	width: 65%;
+	text-align: left;
+	margin-right: 2px;
+}
+
+.subscribe-submit {
+	right: 0;
+}
+
+
+.btn-register {
+	margin-top: 15px;
+	border-radius: 50px;
+	margin-right: 10px;
+	top: 0px;
+	float: right;
+	font-size: 16px;
+}
+
+.btn-sub {
+	border-radius: 50px;
+}
+
+/* Overall Buttons*/
+.btn-theme {
+	border-radius: 50px;
+	font-size: 14px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.btn-white {
+	background: white;
+	color: #2f2f2f;
+}
+
+.btn-white:hover {
+	background: #2f2f2f;
+	color: white;
+}
+
+/* HEADER SECTION */
+#h {
+	background: ${heroBG};
+	padding-top: 10px;
+	text-align:center;
+	width: 100%;
+	padding-bottom:50px;
+}
+
+#h h1 {
+	color: white;
+	font-weight: 900;
+	font-size: 70px;
+	letter-spacing: 5px;
+}
+
+#h h3 {
+	color: white;
+	font-weight: 400;
+}
+
+#h img {
+	padding-bottom: 0px;
+}
+
+/* White Section */
+#w {
+	background: white;
+	width: 100%;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+#w .col-md-6 {
+	padding-right: 0px;
+}
+
+#w p {
+	color: #9f9f9f;
+	font-size: 16px;
+}
+
+
+/* Blue Section - Picton */
+#picton {
+	background: ${section3BG};
+	width: 100%;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	color: white;
+}
+
+#picton .col-md-6 {
+	padding-left: 0px;
+}
+
+#picton p {
+	color: #e9e9e9;
+	font-size: 16px;
+}
+
+/* Blue Section - Curious */
+#curious {
+	background: ${section4BG};
+	width: 100%;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	color: white;
+}
+
+#curious .col-md-6 {
+	padding-right: 0px;
+}
+
+#curious p {
+	color: #e9e9e9;
+	font-size: 16px;
+}
+
+/* Blue Section - Malibu */
+#malibu {
+	background: ${section5BG};
+	width: 100%;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	color: white;
+}
+
+#malibu .col-md-6 {
+	padding-left: 0px;
+}
+
+#malibu p {
+	color: #e9e9e9;
+	font-size: 16px;
+}
+
+/* Blue Section - Jelly */
+#jelly {
+	background: ${section6BG};
+	width: 100%;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	color: white;
+}
+
+#jelly p {
+	color: #e9e9e9;
+	font-size: 16px;
+}
+
+#jelly h1 {
+	font-size: 200px;
+}
+
+#jelly h3 {
+	margin-top: 10px;
+}
+
+/* FOOTER */
+#f {
+	background:${section7BG};
+	width: 100%;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	color: white;
+}
+
+#f p {
+	color: white;
+}
+
+#f h4 {
+	font-weight: 400;
+	text-align: center;
+	font-size: 24px;
+}
+
+/* CREDIT */
+#c {
+	background: ${footerBG};
+	padding: 20px;
+}
+
+#c p {
+	color: white;
+	font-size: 13px;
+}
+
+/* OVERFLOW */
+.of {
+	overflow: hidden;
+}
+img{
+	 display: block;
+    height: auto;
+    max-width: 100%;
+}
+.heroSection{
+	display:${showHero};
+}
+.section2{
+	display:${showSection2};
+}
+.section3{
+	display:${showSection3};
+}
+.section4{
+	display:${showSection4};
+}
+.section5{
+	display:${showSection5};
+}
+.section6{
+	display:${showSection6};
+}
+.section7{
+	display:${showSection7};
+}
+.footer{
+	display:${showFooter};
+}
+  #Section7Form{
+	max-width:350px;
+	width:100% !important;
+	margin:0 auto;
+}
+</style>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="//templates.marketo.net/template15/js/ie10-viewport-bug-workaround.js"></script>
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+    <body>
+<!-- ********** HEADER ********** -->
+<div id="h" class="heroSection">
+      <div class="container">
+    <div class="row">
+          <li><a href="${heroButtonLink}">
+            <button class="btn btn-lg btn-info btn-register">${heroButtonLabel}</button>
+            </a></li>
+          <div class="col-md-10 col-md-offset-1 mt">
+        <div class="mktoText" id="heroHeader1" mktoName="Hero Header 1">
+              <h3>WE HAVE ALL THE PROPER TOOLS TO HELP YOU</h3>
+            </div>
+        <div class="mktoText" id="heroHeader2" mktoName="Hero Header 2">
+              <h1 class="mb">BUILD GREAT SITES</h1>
+            </div>
+      </div>
+          <div class="col-md-12 mt hidden-xs">
+        <div class="mktoPoll" id="heroPoll" mktoName="Hero Poll"></div>
+      </div>
+        </div>
+  </div>
+      <!--/container --> 
+    </div>
+<!--/h --> 
+<!-- ********** FIRST ********** -->
+<div class="section2">
+      <div id="w">
+    <div class="row nopadding">
+          <div class="col-md-5 col-sm-5 col-lg-5 col-md-offset-1">
+        <div class="mktoText" id="section2CaptionTitle" mktoName="Section 2 Caption Title">
+              <h4>Handsome Analytics</h4>
+            </div>
+        <div class="mktoText" id="section2Text" mktoName="Section 2 Text">
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+              <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+            </div>
+        <p class="mt"><a href="${section2ButtonLink}">
+          <button class="btn btn-info btn-theme">${section2ButtonLabel}</button>
+          </a></p>
+      </div>
+          <div class="col-md-6 col-sm-6 col-lg-6 pull-right of">
+        <div class="mktoImg alignright" id="section2Image" mktoName="Section 2 Image" mktoImgClass="expandToFit" style="max-width:466px; min-width:466px;"></div>
+      </div>
+        </div>
+    <!--/row --> 
+  </div>
+      <!--/container --> 
+    </div>
+<!-- /Section 2 --> 
+<!-- ********** BLUE SECTION - PICTON ********** -->
+<div class="section3">
+      <div id="picton">
+    <div class="row nopadding">
+          <div class="col-md-6 col-sm-6 col-lg-6 pull-left of">
+        <div class="mktoImg alignleft" id="section3Image" mktoName="Section 3 Image" mktoImgClass="expandToFit" style="max-width:466px; min-width:466px;"></div>
+      </div>
+          <div class="col-md-5 col-lg-5 col-sm-5">
+        <div class="mktoText" id="section3CaptionTitle" mktoName="Section 3 Caption Title">
+              <h4>Multiple Templates Options</h4>
+            </div>
+        <div class="mktoText" id="section3Text" mktoName="Section 3 Text">
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+              <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+            </div>
+        <p class="mt"><a href="${section3ButtonLink}">
+          <button class="btn btn-white btn-theme">${section3ButtonLabel}</button>
+          </a></p>
+      </div>
+        </div>
+    <!--row --> 
+  </div>
+      <!--/Picton --> 
+    </div>
+<!-- /Section 3 --> 
+<!-- ********** BLUE SECTION - CURIOUS ********** -->
+<div class="section4">
+      <div id="curious">
+    <div class="row nopadding">
+          <div class="col-md-5 col-lg-5 col-sm-5 col-md-offset-1">
+        <div class="mktoText" id="section4CaptionTitle" mktoName="Section 4 Caption Title">
+              <h4>Important Tools Provided</h4>
+            </div>
+        <div class="mktoText" id="section4Text" mktoName="Section 4 Text">
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+              <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+            </div>
+        <p class="mt"><a href="${section4ButtonLink}">
+          <button class="btn btn-white btn-theme">${section4ButtonLabel}</button>
+          </a></p>
+      </div>
+          <div class="col-md-6 col-sm-6 col-lg-6 pull-right of">
+        <div class="mktoImg alignright" id="section4Image" mktoName="Section 4 Image" mktoImgClass="expandToFit" style="max-width:466px; min-width:466px;"></div>
+      </div>
+        </div>
+    <!--/row --> 
+  </div>
+      <!--/curious --> 
+    </div>
+<!-- /Section 4 --> 
+<!-- ********** BLUE SECTION - MALIBU ********** -->
+<div class="section5">
+      <div id="malibu">
+    <div class="row nopadding">
+          <div class="col-md-6 col-sm-6 col-lg-6 pull-left of">
+        <div class="mktoImg alignleft" id="section5Image" mktoName="Section 5 Image" mktoImgClass="expandToFit" style="max-width:466px;"></div>
+      </div>
+          <div class="col-md-5 col-lg-5 col-sm-5">
+        <div class="mktoText" id="section5CaptionTitle" mktoName="Section 5 Caption Title">
+              <h4>Try Us For Free</h4>
+            </div>
+        <div class="mktoText" id="section5Text" mktoName="Section 5 Text">
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+              <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+            </div>
+        <p class="mt"><a href="${section5ButtonLink}">
+          <button class="btn btn-white btn-theme">${section5ButtonLabel}</button>
+          </a></p>
+      </div>
+        </div>
+    <!--row --> 
+  </div>
+      <!--/Malibu --> 
+    </div>
+<!-- /Section 5 --> 
+<!-- ********** BLUE SECTION - JELLY ********** -->
+<div class="section6">
+      <div id="jelly">
+    <div class="row nopadding">
+          <div class="col-md-5 col-md-offset-1 mt">
+        <div class="mktoText" id="section6CaptionTitle1" mktoName="Section 6 Caption Title 1">
+              <h4>Don't Wait, Try Us Now</h4>
+            </div>
+        <div class="mktoText" id="section6Text" mktoName="Section 6 Text">
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+              <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+            </div>
+        <p class="mt"><a href="${section6ButtonLink}">
+          <button class="btn btn-white btn-theme">${section6ButtonLabel}</button>
+          </a></p>
+      </div>
+          <div class="col-md-6 mt centered">
+        <div class="mktoText" id="section6Header" mktoName="Section 6 Header">
+              <h1 data-effect="slide-bottom">24</h1>
+            </div>
+        <div class="mktoText" id="section6CaptionTitle2" mktoName="Section 6 Caption Title 2">
+              <h3>$ per month</h3>
+            </div>
+      </div>
+        </div>
+    <!--/row --> 
+  </div>
+      <!--/Jelly --> 
+    </div>
+<!-- /Section 6 --> 
+<!-- ********** Section 7 ********** -->
+<div id="f" class="section7">
+      <div class="container">
+    <div class="row">
+          <div class="col-md-6 col-md-offset-3 centered">
+        <div class="mktoText" id="section7CaptionTitle" mktoName="Section 7 Caption Title">
+              <h4 class="mb">Grab Our Offer Now. Try Us For 14 Days Totally Free.</h4>
+            </div>
+        <div class="mktoForm" id="Section7Form" mktoName="Section 7 Form" style="min-height:80px;"></div>
+      </div>
+        </div>
+    <!--/row --> 
+  </div>
+      <!--/container --> 
+    </div>
+<!--/F --> 
+<!-- ********** CREDITS ********** -->
+<div id="c" class="footer">
+      <div class="container">
+    <div class="row">
+          <div class="col-md-6 col-md-offset-3 centered">
+        <div class="mktoText" id="footerText" mktoName="Footer Text">
+              <p>Copyright 2015 | LandingSumo.com</p>
+            </div>
+      </div>
+        </div>
+  </div>
+      <!--/container --> 
+    </div>
+<!--/C -->
+</body>
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="//templates.marketo.net/template15/js/jquery.min.js"></script> 
+<script src="//templates.marketo.net/template15/js/bootstrap.min.js"></script> 
+<script src="//templates.marketo.net/template15/js/retina-1.1.0.js"></script>
+</body>
+</html>

@@ -24,11 +24,10 @@ Unlike the free-form landing pages, guided landing pages have predefined, locked
 
    >[!NOTE]
    >
-   >How the image resizes is dependent on the template. Learn more about [Guided Landing Page Templates](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >How the image resizes is dependent on the template. Learn more about [Guided Landing Page Templates](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
    >[!TIP]
    >
    >Specifying a link for an image in the editor is not currently supported. Use a rich text element instead.
-

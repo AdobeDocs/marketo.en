@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta class="mktoColor" id="heroBGColor" mktoName="Hero BG Color" default="#333333">
+<meta class="mktoColor" id="section2BGColor" mktoName="Sec. 2 BG Color" default="#181818">
+<meta class="mktoColor" id="section3BGColor" mktoName="Sec. 3 BG Color" default="#f3f3f3">
+<meta class="mktoColor" id="section4BGColor" mktoName="Sec. 4 BG Color" default="#ffffff">
+<meta class="mktoColor" id="section6BGColor" mktoName="Sec. 6 BG Color" default="#181818">
+<meta class="mktoColor" id="section7BGColor" mktoName="Sec. 7 BG Color" default="#383838">
+<meta class="mktoColor" id="footerBGColor" mktoName="Footer BG Color" default="#f3f3f3">
+<meta class="mktoString" id="heroButtonLabel" mktoName="Hero Button Label" default="Learn More">
+<meta class="mktoString" id="heroButtonLink" mktoName="Hero Button Link" default="#">
+<meta class="mktoString" id="section4ButtonLabel" mktoName="Sec. 4 Button Label" default="Read Full Article">
+<meta class="mktoString" id="section4ButtonLink" mktoName="Sec. 4 Button Link" default="#">
+<meta class="mktoBoolean" id="showHero" mktoName="Show Hero?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showSection2" mktoName="Show Sec. 2?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showSection3" mktoName="Show Sec. 3?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showSection4" mktoName="Show Sec. 4?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showSection5" mktoName="Show Sec. 5?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showSection6" mktoName="Show Sec. 6?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showSection7" mktoName="Show Sec. 7?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showFooter" mktoName="Show Footer?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title></title>
+<!-- Bootstrap core CSS -->
+<link href="//templates.marketo.net/template19/css/bootstrap.css" rel="stylesheet">
+<style>
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900);
+
+* { 
+	margin: 0;
+	padding: 0px;
+    font-family: 'Lato', sans-serif;
+} 
+body { 
+	background: #fff; 
+	margin: 0; 
+	color: #5a5a5a;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', sans-serif;
+	font-weight: 400;
+}
+
+
+p { 
+	padding: 0; 
+	margin-bottom: 12px; 
+    font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 16px; 
+	line-height: 26px;
+	color: #666; 
+	margin-top: 10px; 
+}
+
+html,
+body {
+	height: 100%;
+}
+
+.alignleft { float: left; }
+.alignright { float: right; }
+.aligncenter, .aligncenter img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	clear: both;
+}
+.centered {text-align: center}
+.mt {margin-top: 50px;}
+.mb {margin-bottom: 50px;}
+.mtb {margin-top: 50px; margin-bottom: 50px;}
+.mtb2 { margin-top: 100px; margin-bottom: 100px;}
+.ptb {padding-top: 80px; padding-bottom: 80px;}
+.mr {margin-right: 15px;}
+
+.clear {
+	clear: both;
+	display: block;
+	font-size: 0;
+	height: 0;
+	line-height: 0;
+	width:100%;
+}
+::-moz-selection  {
+	color: #fff;
+	text-shadow:none;
+	background:#2B2E31;
+}
+::selection {
+	color: #fff;
+	text-shadow:none;
+	background:#2B2E31;
+}
+*,
+*:after,
+*:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+a { 
+	padding: 0;
+	margin: 0;
+	text-decoration: none; 
+	-webkit-transition: background-color .4s linear, color .4s linear;
+	-moz-transition: background-color .4s linear, color .4s linear;
+	-o-transition: background-color .4s linear, color .4s linear;
+	-ms-transition: background-color .4s linear, color .4s linear;
+	transition: background-color .4s linear, color .4s linear;
+	color: #1abc9c;
+}
+a:hover,
+a:focus {
+  text-decoration: none;
+  color:#696E74;
+}
+
+.nopadding {
+	padding: 0px !important;
+	margin: 0px;
+}
+
+
+/* FORM CONFIGURATION */
+
+input {
+	font-size: 16px;
+	min-height: 40px;
+	border-radius: 2px;
+	line-height: 20px;
+	padding: 8px 30px 9px;
+	border: 1px solid #b9b9af;
+	margin-bottom: 10px;
+	background-color: #fff;
+	-webkit-transition: background-color 0.2s;
+	transition: background-color 0.2s;
+}
+
+.subscribe-input {
+	float: left;
+	width: 65%;
+	text-align: left;
+	margin-right: 2px;
+}
+
+.subscribe-submit {
+	right: 0;
+}
+
+.btn-subscribe {
+	background: #f7ca18;
+	color: white;
+	border-radius: 50px;
+	margin-left: 15px;
+	font-size: 11px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	padding: 11px 28px 10px 28px;
+}
+
+
+/* Buttons Configuration */
+.btn-conf {
+	border-radius: 50px;
+	margin-right: 15px;
+	font-size: 11px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	padding: 11px 28px 10px 28px;
+	}
+
+.btn-theme {
+	background: #f7ca18;
+	color: white
+}
+
+/* Bootstrap Modification */
+
+hr {
+	border: 1px solid #5a5a5a;
+	width: 70px;
+}
+
+/* HEADER CONFIGURATION - CREATED BY CODROPS */
+.large-header {
+	position: relative;
+	width: 100%;
+	background: #333;
+	overflow: hidden;
+	background-size: cover;
+	background-position: center center;
+	z-index: 1;
+}
+
+.main-title {
+	margin: 0;
+	padding: 0;
+	color: #f9f1e9;
+	text-align: center;
+}
+
+.main-tagline {
+	margin-top: 10px;
+	padding: 0;
+	color: #f9f1e9;
+	text-align: center;
+	font-size: 18px;
+}
+
+.demo-1 .main-title {
+	text-transform: uppercase;
+	font-size: 42px;
+	letter-spacing: 4px;
+}
+.main-title .thin {
+	font-weight: 100;
+}
+
+
+@media only screen and (max-width : 768px) {
+	.demo-1 .main-title {
+		font-size: 30px;
+	}
+}
+
+/* BLACK SECTION */
+#blk {
+	background: ${section2BGColor};
+	padding-bottom: 80px;
+	padding-top: 80px;
+}
+#blk2{
+	background: ${section6BGColor};
+	padding-bottom: 80px;
+	padding-top: 80px;
+}
+
+#blk h5 {
+	color: #f7ca18;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+#blk hr {
+	border: 1px solid #f7ca18;
+	width: 100px;
+}
+#blk2 h5 {
+	color: #f7ca18;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+#blk2 hr {
+	border: 1px solid #f7ca18;
+	width: 100px;
+}
+/* Grey Section */
+#grey {
+	background: ${section3BGColor};
+	padding-bottom: 80px;
+	padding-top: 80px;
+}
+
+.icon {
+	font-size: 40px;
+}
+
+#grey h5 {
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+/* News Section */
+.news {
+	background: ${section4BGColor};
+}
+
+.news .container {
+	width: 100%
+}
+
+.section-bg-color {
+	background-color: #fff;
+	height: 100%;
+	padding-top: 40px;
+	padding-bottom: 80px;
+}
+
+.section-bg-color h3, .section-bg-color h1, .section-bg-color p {
+	margin-left: 25px;
+	margin-right: 25px
+}
+
+.section-bg-color h3 {
+	font-weight: 300;
+}
+
+.section-bg-color h1 {
+	font-weight: 900;
+	text-transform: uppercase;
+}
+
+.section-bg-color hr{
+	border-bottom: 1px solid #e5e6ec;
+	border-top: transparent;
+	width: 100%; 
+}
+
+.section-bg-color hr.blog {
+	border: 2px solid #5a5a5a;
+	width: 70px;
+	margin-left: 25px;
+}
+
+nm {
+	font-size: 12px;
+	color: #939399;
+	font-weight: 400;
+}
+
+/*PORTFOLIO SECTION*/
+#portfolio {
+    position: relative;
+    padding-bottom: 0;
+    display: block;
+    width: 100%;
+}
+.cbp-item-wrapper {
+    background: #1D1D25;
+}
+.cbp-item-wrapper a img {
+    display: block;
+    width: 100%;
+    height: auto;
+    opacity: 0.4;
+    -webkit-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
+.cbp-item-wrapper a:hover img {
+    opacity: 0.8;
+}
+.cbp-l-caption-title {
+	color: #fff;
+	font: 400 16px/18px sans-serif;
+	letter-spacing: 1px;
+	margin-bottom: 5px;
+}
+
+@media (min-width: 1580px) {
+	.cbp-l-grid-fullScreen .cbp-item {
+    /* @editable properties */
+    min-width: 400px;
+    max-height: 600px;
+}
+}
+
+/* FEATURED SECTION */
+#featured {
+	padding-bottom: 0;
+	background:${section7BGColor} ;
+	color: #b9b9b9;
+	text-align: center;
+}
+
+#featured .overlay {
+	padding-bottom: 0;
+	background: none repeat scroll 0 0 rgba(40, 40, 40, 0.9);
+	padding-top: 100px;
+	width: 100%;
+	height: 100%;
+}
+
+#featured h5 {
+	color: #f7ca18;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+#featured p {
+	color: #b9b9b9;
+}
+
+#featured hr {
+	border: 1px solid #f7ca18;
+	width: 100px;
+}
+.hero{
+	background:${heroBGColor};
+	padding:80px 0;
+	display: ${showHero};
+}
+.section2{
+	display: ${showSection2};
+}
+.section3{
+	display: ${showSection3};
+}
+#Section4Image {
+  display: block;
+  max-width: 644px;
+  height: 562px;
+  text-align: center;
+  line-height: 550px;
+  width: 100%;
+}
+.img-circle img{
+    border-radius: 50%;
+}
+.section4{
+	display: ${showSection4};
+}
+.padd{
+	padding:0px;
+}
+.section5{
+	display: ${showSection5};
+}
+.section6{
+	display: ${showSection6};
+	    clear: both;
+}
+img{
+	max-width:100%;
+	height:auto;
+}
+.section7{
+	display: ${showSection7};
+}
+.footer{
+	background: ${footerBGColor};
+    padding-bottom: 80px;
+    padding-top: 80px;
+	display: ${showFooter};
+}
+ #footerForm{
+	max-width:350px;
+	width:100% !important;
+	margin:0 auto;
+}
+#mktoEditorPlaceholder .mktoPlaceholder .mktoVerticalWrap
+{
+	line-height:20px;
+}
+</style>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="//templates.marketo.net/template19/js/ie10-viewport-bug-workaround.js"></script>
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<!-- Header Starts -->
+</head>
+<body>
+<!-- ********** HERO ********** -->
+<div class="hero">
+	<div class="demo-1">
+		<div class="container">
+			<div class="row centered">
+				<div class="mktoImg" id="heroImage" mktoName="Hero Image" mktoImgClass="expandToFit"></div>
+				<p class="mt"><a href="${heroButtonLink}"><button class="btn btn-lg btn-white btn-design">${heroButtonLabel}</button></a></p>
+			</div>
+		</div><!-- /.container -->
+	</div><!-- /demo-1 -->
+</div>	<!-- /Hero -->
+<!-- ********** Section 2 ********** -->
+<div class="section2">	
+	<div id="blk">
+		<div class="container">
+			<div class="row">
+				<div class="mktoText" id="section2Header" mktoName="Section 2 Header">
+					<h5 class="centered">Theme Information</h5>
+					<hr class="aligncenter mb">
+				</div>
+				<div class="col-md-4 col-md-offset-2">
+					<div class="mktoText" id="section2Text1" mktoName="Section 2 Text 1">
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="mktoText" id="section2Text2" mktoName="Section 2 Text 2">
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+					</div>
+				</div>
+			</div>
+		</div><!--/container-->
+	</div><!--/blk section -->
+</div><!-- /section2 -->
+<!-- ********** Section 3 ********** -->	
+<div class="section3">
+  	<div id="grey">
+  		<div class="container">
+			<div class="row">
+				<div class="col-md-1 centered">
+					<div class="mktoImg" id="section3Image1" mktoName="Section 3 Image 1" mktoImgClass="expandToFit" style="max-width:40px; max-height:50px;"></div>
+				</div>
+				<div class="col-md-3">
+					<div class="mktoText" id="section3CaptionTitle1" mktoName="Section 3 Caption Title 1">
+						<h5>Responsive Design</h5>
+						<hr>
+					</div>
+					<div class="mktoText" id="section3CaptionText1" mktoName="Section 3 Caption Text 1">
+						<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.</p>
+					</div>
+				</div>
+				<div class="col-md-1 centered">
+					<div class="mktoImg" id="section3Image2" mktoName="Section 3 Image 2" mktoImgClass="expandToFit" style="max-width:40px; max-height:50px;"></div>
+				</div>            
+				<div class="col-md-3">
+					<div class="mktoText" id="section3CaptionTitle2" mktoName="Section 3 Caption Title 2">
+						<h5>Detailed Documentation</h5>
+						<hr>
+					</div>
+					<div class="mktoText" id="section3CaptionText2" mktoName="Section 3 Caption Text 2">
+						<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.</p>
+					</div>
+				</div>
+				<div class="col-md-1 centered">
+					<div class="mktoImg" id="section3Image3" mktoName="Section 3 Image 3" mktoImgClass="expandToFit" style="max-width:40px; max-height:50px;"></div>
+				</div>            
+				<div class="col-md-3">
+					<div class="mktoText" id="section3CaptionTitle3" mktoName="Section 3 Caption Title 3">
+						<h5>Working Forms</h5>
+						<hr>
+					</div>
+					<div class="mktoText" id="section3CaptionText3" mktoName="Section 3 Caption Text 3">
+					<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.</p>
+					</div>
+				</div>                        
+			</div><!--/row-->
+  		</div><!--/container -->
+  	</div><!-- /grey -->
+</div><!-- /Section3 -->
+<!--- Section4 -->
+<div class="section4">
+	<section class="news">
+		  <div class="container">
+			<div class="row">
+				<div class="col-sm-6">
+				<div class="mktoImg" id="Section4Image" mktoName="Section 4 Image" mktoImgClass="expandToFit"></div>
+				</div>
+			  <div class="col-sm-6 section-bg-color">
+				<div class="mktoImg img-circle mr" id="Section4CaptionImage" mktoName="Section 4 Caption Image" mktoImgClass="expandToFit" style="width:40px; height:50px; display:inline-block;"></div><div class="mktoText" id="section4CaptionText1" mktoName="Section 4 Caption Text 1" style="display:inline-block;"><nm>Rob Anderson</nm></div>
+				<div class="mktoText" id="section4Header" mktoName="Section 4 Header">
+				<hr>
+				<h1>Is Lorem Ipsum Really Important?</h1>
+				</div>
+				<div class="mktoText" id="section4CaptionTitle" mktoName="Section 4 Caption Title">
+				<h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+				<hr class="blog">
+				</div>
+				<div class="mktoText" id="section4Text" mktoName="Section 4 Text">
+				<p class="hidden-sm">Dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since, when an unknown ristique senectus et netus.</p>
+				<p class="hidden-sm">Mellentesque habitant morbi tristique senectus et netus et malesuada famesac turpis egestas. Ut non enim eleifend felis pretium feugiat.</p>
+				<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+				</div>
+				<p class="mt"><a href="${section4ButtonLink}"><button class="btn btn-conf btn-theme">${section4ButtonLabel}</button></a></p>
+			  </div>
+			</div><!--/row -->
+		  </div><!--/container -->
+		</section><!--/NEWS -->
+</div>
+<!-- /Section4 -->
+<!-- Section 5 -->
+<div class="section5">
+  <div id="grid-container" class="cbp-l-grid-fullScreen">
+    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 padd">
+      <div class="mktoImg aligncenter" id="section5Image1" mktoName="Section 5 Image 1" mktoImgClass="expandToFit" style="max-width:337px; max-height:337px; min-height: 200px;"></div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 padd">
+      <div class="mktoImg aligncenter" id="section5Image2" mktoName="Section 5 Image 2" mktoImgClass="expandToFit" style="max-width:337px; max-height:337px; min-height: 200px;"></div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 padd">
+      <div class="mktoImg aligncenter" id="section5Image3" mktoName="Section 5 Image 3" mktoImgClass="expandToFit"  style="max-width:337px; max-height:337px; min-height: 200px;"></div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 padd">
+      <div class="mktoImg aligncenter" id="section5Image4" mktoName="Section 5 Image 4" mktoImgClass="expandToFit"  style="max-width:337px; max-height:337px; min-height: 200px;"></div>
+    </div>
+  </div>
+  <!--/grid-container--> 
+</div>
+<!-- /Section5 -->
+<!-- Section 6 -->
+<div class="section6">
+	<div id="blk2">
+		<div class="container">
+			<div class="row">
+				<div class="mktoText" id="section6Header" mktoName="Section 6 Header">
+					<h5 class="centered">The Creators</h5>
+					<hr class="aligncenter mb">
+				</div>
+				<div class="col-md-1 col-md-offset-1 centered">
+					<div class="mktoImg img-circle" id="Section6CaptionImage1" mktoName="Section 6 Caption Image 1" mktoImgClass="expandToFit" style="max-width:60px; max-height:60px; margin: 0 auto;"></div><div class="mktoText" id="section6CaptionText1" mktoName="Section 6 Caption Text 1"><nm>Rob</nm></div>
+				</div>
+				<div class="col-md-4">
+					<div class="mktoText" id="section6Text1" mktoName="Section 6 Text 1">
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+						<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+					</div>
+				</div>
+				<div class="col-md-1 centered">
+					<div class="mktoImg img-circle" id="Section6CaptionImage2" mktoName="Section 6 Caption Image 2" mktoImgClass="expandToFit" style="max-width:60px; max-height:60px; margin: 0 auto;"></div><div class="mktoText" id="section6CaptionText2" mktoName="Section 6 Caption Text 2" ><nm>Mia</nm></div>
+				</div>        
+				<div class="col-md-4">
+					<div class="mktoText" id="section6Text2" mktoName="Section 6 Text 2">
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+						<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+					</div>
+				</div>
+			</div>
+		</div><!--/container-->
+	</div><!--/blk section -->
+</div>
+<!-- /Section 6 -->
+<!-- Section 7 -->
+<div class="section7">
+  <section id="featured">
+    <div class="overlay">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-10 col-md-offset-1 centered">
+			<div class="mktoText" id="section7Header" mktoName="Section 7 Header">
+				<h5>THE LANDING SUMO BUNDLE</h5>
+				<hr class="aligncenter">
+			</div>
+			<div class="mktoText" id="section7Text" mktoName="Section 7 Text">
+				<p class="mb">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+			</div>
+            <div class="mktoImg aligncenter" id="section7Image" mktoName="Section 7 Image" mktoImgClass="expandToFit"></div>
+          </div>
+        </div><!--/row-->
+      </div><!--/container -->
+    </div><!--/overlay -->
+  </section><!--/Featured Section -->
+</div>
+<!-- /Section 7 -->
+<!-- Footer -->
+<!-- ********** GREY SECTION ********** -->  
+<div class="footer">
+    <div class="container">
+        <div class="row">
+			<div class="col-md-6 col-md-offset-3">
+				<div class="mktoForm" id="footerForm" mktoName="Footer Form" style="min-height:80px;"></div>
+			</div>
+        </div>
+        <div class="row mt">
+            <div class="col-md-1 centered">
+				<div class="mktoImg" id="footerImage1" mktoName="Footer Image 1" mktoImgClass="expandToFit" style="max-width:40px; max-height:50px;"></div>
+            </div>
+            <div class="col-md-3">
+				<div class="mktoText" id="FooterCaptionTitle1" mktoName="Footer Caption Title 1">
+					<h5>Address</h5>
+					<hr>
+				</div>
+				<div class="mktoText" id="FooterCaptionText1" mktoName="Footer Caption Text 1">
+					<p>Some Ave, 978<br/>Postal 47384,<br/>Madrid, Spain.</p>
+				</div>
+            </div>
+            <div class="col-md-1 centered">
+				<div class="mktoImg" id="footerImage2" mktoName="Footer Image 2" mktoImgClass="expandToFit" style="max-width:40px; max-height:50px;"></div>
+            </div>            
+            <div class="col-md-3">
+				<div class="mktoText" id="FooterCaptionTitle2" mktoName="Footer Caption Title 2">
+					<h5>Contact Us</h5>
+					<hr>
+				</div>
+				<div class="mktoText" id="FooterCaptionText2" mktoName="Footer Caption Text 2">
+					<p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="dbb3beb7b7b49bb7bab5bfb2b5bca8aeb6b4f5b8b4b6">[email&#160;protected]</a><br/>+34 8954-4944</p>
+				</div>
+            </div>
+            <div class="col-md-1 centered">
+				<div class="mktoImg" id="footerImage3" mktoName="Footer Image 3" mktoImgClass="expandToFit" style="max-width:40px; max-height:50px;"></div>
+            </div>            
+            <div class="col-md-3">
+				<div class="mktoText" id="FooterCaptionTitle3" mktoName="Footer Caption Title 3">
+					<h5>About Us</h5>
+					<hr>
+				</div>
+				<div class="mktoText" id="FooterCaptionText3" mktoName="Footer Caption Text 3">
+					<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.</p>
+				</div>
+            </div>                        
+        </div><!--/row-->
+    </div><!--/container -->
+</div><!-- /grey -->
+<!-- /Footer -->
+<!-- Bootstrap core JavaScript 
+================================================== --> 
+<!-- Placed at the end of the document so the pages load faster --> 
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="//templates.marketo.net/template19/js/jquery.min.js"></script> 
+<script src="//templates.marketo.net/template19/js/bootstrap.min.js"></script> 
+<script src="//templates.marketo.net/template19/js/retina-1.1.0.js"></script>
+</body>
+</html>

@@ -8,11 +8,11 @@ title: Organize Your Images and Files Using Folders
 
 Creating folders allows you to move images and files, see just the set of images you want, and upload directly to a specific folder.  
 
-1. Go to the **Design** **Studio**.
+1. Go to the **Design Studio**.
 
    ![](assets/designstudio-7.png)
 
-1. Right-click on** Images and Files** in the left menu, then select **New Folder**.
+1. Right-click on **Images and Files** in the left menu, then select **New Folder**.
 
    ![](assets/image2014-9-16-11-3a25-3a45.png)
 
@@ -24,10 +24,8 @@ Creating folders allows you to move images and files, see just the set of images
 
    ![](assets/image2014-9-16-11-3a26-3a0.png)
 
-High five! You're all set for folder utopia. 
+High five! You're all set for folder utopia.
 
 >[!MORELIKETHIS]
 >
->* [Search Uploaded Images and Files](search-uploaded-images-and-files.md)
->
-
+>[Search Uploaded Images and Files](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)

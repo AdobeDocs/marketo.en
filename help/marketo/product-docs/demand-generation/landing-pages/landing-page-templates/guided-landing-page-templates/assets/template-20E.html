@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta class="mktoColor" id="heroBGColor" mktoName="Hero BG Color" default="#181a19">
+<meta class="mktoColor" id="section2BGColor" mktoName="Sec. 2 BG Color" default="#efede0">
+<meta class="mktoColor" id="section4BGColor" mktoName="Sec. 4 BG Color" default="#efede0">
+<meta class="mktoColor" id="section6BGColor" mktoName="Sec. 6 BG Color" default="#273639">
+<meta class="mktoColor" id="section6InnerBGColor" mktoName="Sec. 6 Inner BG Color" default="#ffffff">
+<meta class="mktoColor" id="footerBGColor" mktoName="Footer BG Color" default="#1e2827">
+<meta class="mktoString" id="heroButtonLabel" mktoName="Hero Button Label" default="Learn More">
+<meta class="mktoString" id="heroButtonLink" mktoName="Hero Button Link" default="#">
+<meta class="mktoString" id="section6ButtonLabel" mktoName="Sec. 6 Button Label" default="TRY US NOW">
+<meta class="mktoString" id="section6ButtonLink" mktoName="Sec. 6 Button Link" default="#">
+<meta class="mktoBoolean" id="showHero" mktoName="Show Hero?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showSection2" mktoName="Show Sec. 2?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showSection3" mktoName="Show Sec. 3?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showSection4" mktoName="Show Sec. 4?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showSection5" mktoName="Show Sec. 5?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showSection6" mktoName="Show Sec. 6?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta class="mktoBoolean" id="showFooter" mktoName="Show Footer?" default="true" false_value="none" true_value="block" false_value_name="Hide" true_value_name="Show">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title></title>
+<!-- Bootstrap core CSS -->
+<link href="//templates.marketo.net/template20/css/bootstrap.css" rel="stylesheet">
+<style>
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
+
+* { 
+	margin: 0;
+	padding: 0px;
+    font-family: 'Lato', sans-serif;
+} 
+body { 
+	background: #fff; 
+	margin: 0; 
+	color: #5a5a5a;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', sans-serif;
+	font-weight: 300;
+}
+
+
+p { 
+	padding: 0; 
+	margin-bottom: 12px; 
+    font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 18px; 
+	line-height: 28px;
+	color: #666; 
+	margin-top: 10px; 
+}
+
+html,
+body {
+	height: 100%;
+}
+
+.alignleft { float: left; }
+.alignright { float: right; }
+.aligncenter, .aligncenter img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	clear: both;
+}
+.centered {text-align: center}
+.mt {margin-top: 50px;}
+.mb {margin-bottom: 50px;}
+.mtb {margin-top: 50px; margin-bottom: 50px;}
+.mtb2 { margin-top: 100px; margin-bottom: 100px;}
+.ptb {padding-top: 80px; padding-bottom: 80px;}
+
+.clear {
+	clear: both;
+	display: block;
+	font-size: 0;
+	height: 0;
+	line-height: 0;
+	width:100%;
+}
+::-moz-selection  {
+	color: #fff;
+	text-shadow:none;
+	background:#2B2E31;
+}
+::selection {
+	color: #fff;
+	text-shadow:none;
+	background:#2B2E31;
+}
+*,
+*:after,
+*:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+a { 
+	padding: 0;
+	margin: 0;
+	text-decoration: none; 
+	-webkit-transition: background-color .4s linear, color .4s linear;
+	-moz-transition: background-color .4s linear, color .4s linear;
+	-o-transition: background-color .4s linear, color .4s linear;
+	-ms-transition: background-color .4s linear, color .4s linear;
+	transition: background-color .4s linear, color .4s linear;
+	color: #1abc9c;
+}
+a:hover,
+a:focus {
+  text-decoration: none;
+  color:#696E74;
+}
+
+/* No padding bottom */
+.npbottom {
+	padding-bottom: 0px !important;
+	margin-bottom: 0px;
+}
+
+/* Bootstrap Modifications */
+h4 {
+	line-height: 30px;
+}
+
+h3 {
+	font-weight: 700;
+}
+
+hr {
+	border: 1px solid #5a5a5a;
+	width: 80px;
+}
+
+h4.black {
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+
+/* FORM CONFIGURATION */
+
+input {
+	font-size: 16px;
+	min-height: 40px;
+	border-radius: 2px;
+	line-height: 20px;
+	padding: 11px 30px 12px;
+	border: 1px solid #b9b9af;
+	margin-bottom: 10px;
+	background-color: #fff;
+	-webkit-transition: background-color 0.2s;
+	transition: background-color 0.2s;
+}
+
+.subscribe-input {
+	float: left;
+	width: 65%;
+	text-align: left;
+	margin-right: 2px;
+}
+
+.subscribe-submit {
+	right: 0;
+}
+
+.btn-download {
+	background: #FDE3A7;
+}
+
+/* HEADER SECTION */
+#subheaderone {
+    width:100%;
+   padding:30px 0 100px;
+    background:${heroBGColor};
+    position: relative;
+    overflow: hidden;
+    }     
+
+#subheaderone h1 {
+	font-weight: 900;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+	margin-top: 80px;
+}
+
+#subheaderone h2 {
+	font-weight: 300;
+	color: white;
+	text-align: center;
+}
+
+/* YELLOW SECTION */
+#y {
+	padding-top: 80px;
+	padding-bottom: 80px;
+	background: ${section2BGColor};
+}
+#y2{
+	padding-top: 80px;
+	padding-bottom: 80px;
+	background: ${section4BGColor};
+}
+.circle-icon {
+	width: 120px;
+	height: 120px;
+	margin: 0 auto;
+	border-radius: 50%;
+	background-color: #1e2827;
+	position: relative;
+}
+
+.circle-icon .icon {
+	color: #fff;
+	line-height: 120px;
+	text-align: center;
+}
+
+.icon {
+	font-size: 50px;
+}
+
+.circle-icon-sm {
+	width: 70px;
+	height: 70px;
+	margin: 0 auto;
+	border-radius: 50%;
+	background-color: #1e2827;
+	position: relative;
+}
+
+.circle-icon-sm .icon-sm {
+	color: #fff;
+	line-height: 70px;
+	text-align: center;
+}
+
+.icon-sm {
+	font-size: 30px;
+}
+
+
+#b {
+	padding: 140px 0;
+	text-align:center;
+	width: 100%;
+	color: #ffffff;
+}
+
+#b .price-table {
+	background: ${section6InnerBGColor};
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-left: 20px;
+	padding-right: 20px; 
+}
+
+#b black{
+	font-weight: 700;
+	color: #5a5a5a
+} 
+
+.price-icon {
+	width: 180px;
+	height: 180px;
+	margin: 0 auto;
+	border-radius: 50%;
+	background-color: #1e2827;
+	position: relative;
+}
+
+.price-icon .tag {
+	color: #fff;
+	line-height: 50px;
+	text-align: center;
+}
+
+h1.tag {
+	font-size: 50px;
+	font-weight: 700;
+}
+
+h5.tag {
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 10px;
+	letter-spacing: 1px;
+}
+
+/* FOOTER COPYRIGHT */
+#f {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	background:${footerBGColor};
+	color: white;
+}
+.hero{
+display: ${showHero};
+}
+.section2{
+display:${showSection2};
+}
+.section3{
+display:${showSection3};
+}
+img{
+max-width:100%;
+height:auto;
+}
+.section4{
+display:${showSection4};
+}
+.section5{
+display:${showSection5};
+}
+.section6{
+display:${showSection6};
+background: ${section6BGColor};
+}
+.footer{
+	display: ${showFooter};
+}
+</style>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="//templates.marketo.net/template20/js/ie10-viewport-bug-workaround.js"></script>
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body>
+<!-- Hero Starts -->
+<div class="hero">
+	<section id="subheaderone" class="clearfix">
+	<div class="container">
+		<div class="row centered">
+			<div class="mktoImg" id="heroImage" mktoName="Hero Image" mktoImgClass="expandToFit"></div>
+			<p class="mt">
+			   <button href="${heroButtonLink}" class="btn btn-lg btn-success">${heroButtonLabel}</button>
+			</p>
+		</div>	
+		</div>
+	</section><!-- END Subheader-->
+</div>
+<!-- Section 2 Starts -->
+<div class="section2">
+<div id="y">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2 centered">
+			<div class="mktoText" id="section2Header" mktoName="Section 2 Header"> 
+				<h3>WELCOME</h3>
+				<hr class="aligncenter">
+			</div>
+			<div class="mktoText" id="section2Text" mktoName="Section 2 Text">
+				<h4>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</h4>
+			</div>
+        </div>
+      </div>
+    </div><!--/container -->
+  </div><!-- /Y -->
+</div>
+<!-- /Section 2 -->
+<!-- Section 3 Starts -->
+<div class="section3">
+	<div class="container ptb">
+    <div class="row centered">
+		<div class="mktoText" id="section3Header" mktoName="Section 3 Header"> 
+			<h3>HOW IT WORKS</h3>
+			<hr class="aligncenter mb">
+		</div>
+		<div class="col-md-4">
+			<div class="mktoImg" id="section3Image1" mktoName="Section 3 Image 1" mktoImgClass="expandToFit" style="max-width:120px; max-height:120px; margin:0 auto;"></div>
+			<div class="mktoText" id="section3CaptionTitle1" mktoName="Section 3 Caption Title 1">
+				<h4 class="black">DESIGN</h4>
+			</div>
+			<div class="mktoText" id="section3CaptionText1" mktoName="Section 3 Caption Text 1">
+				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+			</div>
+		</div>
+		<div class="col-md-4">
+			<div class="mktoImg" id="section3Image2" mktoName="Section 3 Image 2" mktoImgClass="expandToFit" style="max-width:120px; max-height:120px; margin:0 auto;"></div>
+			<div class="mktoText" id="section3CaptionTitle2" mktoName="Section 3 Caption Title 2">
+				<h4 class="black">DEVELOP</h4>
+			</div>
+			<div class="mktoText" id="section3CaptionText2" mktoName="Section 3 Caption Text 2">
+				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+			</div>
+		</div>
+		<div class="col-md-4">
+			<div class="mktoImg" id="section3Image3" mktoName="Section 3 Image 3" mktoImgClass="expandToFit" style="max-width:120px; max-height:120px; margin:0 auto;"></div>
+			<div class="mktoText" id="section3CaptionTitle3" mktoName="Section 3 Caption Title 3">
+				<h4 class="black">LAUNCH</h4>
+			</div>
+			<div class="mktoText" id="section3CaptionText3" mktoName="Section 3 Caption Text 3">
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+			</div>
+		</div>
+    </div><!--/row centered-->
+  </div><!--/container -->
+</div>
+<!-- /Section 3 -->
+<!-- Section 4 -->
+<div class="section4">
+	<div id="y2" class="npbottom">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2 centered">
+			<div class="mktoText" id="section4Header" mktoName="Section 4 Header"> 
+				<h3>TAKE A LOOK OF OUR PRODUCT</h3>
+				<hr class="aligncenter">
+			</div>
+			<div class="mktoText" id="section4Text" mktoName="Section 4 Text"> 
+				<h4>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</h4>
+			</div>
+        </div>
+      </div><!--/row -->
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+          <div class="mktoImg aligncenter" id="section4Image" mktoName="Section 4 Image" mktoImgClass="expandToFit"></div>
+        </div>
+      </div>  
+    </div><!--/container -->
+  </div><!-- /Y -->
+</div>
+<!-- /Section 4 -->
+<!-- Section 5 -->
+<div class="section5">
+	<div class="container ptb">
+    <div class="row">
+		<div class="mktoText" id="section5Header" mktoName="Section 5 Header">
+			<h3 class="centered mb">IMPORTANT FEATURES</h3>
+		</div>
+      <!-- Feature Item -->
+      <div class="col-md-1 centered">
+        <div class="mktoImg mt" id="section5Image1" mktoName="Section 5 Image 1" mktoImgClass="expandToFit" style="max-width:70px; max-height:70px;"></div>
+      </div>
+      <div class="col-md-3">
+		<div class="mktoText" id="section5CaptionTitle1" mktoName="Section 5 Caption Title 1">
+			<h4 class="black">Bootstrap Grid</h4>
+		</div>
+		<div class="mktoText" id="section5CaptionText1" mktoName="Section 5 Caption Text 1">
+			<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+		</div>
+      </div>
+      <!--/End Feature Item -->
+      <!-- Feature Item -->
+      <div class="col-md-1 centered">
+        <div class="mktoImg mt" id="section5Image2" mktoName="Section 5 Image 2" mktoImgClass="expandToFit" style="max-width:70px; max-height:70px;"></div>
+      </div>
+      <div class="col-md-3">
+		<div class="mktoText" id="section5CaptionTitle2" mktoName="Section 5 Caption Title 2">
+			<h4 class="black">Responsive Design</h4>
+		</div>
+		<div class="mktoText" id="section5CaptionText2" mktoName="Section 5 Caption Text 2">
+			<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+		</div>
+      </div>
+      <!--/End Feature Item -->
+      <!-- Feature Item -->
+      <div class="col-md-1 centered">
+        <div class="mktoImg mt" id="section5Image3" mktoName="Section 5 Image 3" mktoImgClass="expandToFit" style="max-width:70px; max-height:70px;"></div>
+      </div>
+      <div class="col-md-3">
+		<div class="mktoText" id="section5CaptionTitle3" mktoName="Section 5 Caption Title 3">
+			<h4 class="black">Retina Ready</h4>
+		</div>
+        <div class="mktoText" id="section5CaptionText3" mktoName="Section 5 Caption Text 3">
+			<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+		</div>
+      </div>
+      <!--/End Feature Item -->
+    </div><!--/ROW -->
+    <div class="row mt">
+      <!-- Feature Item -->
+      <div class="col-md-1 centered">
+        <div class="mktoImg mt" id="section5Image4" mktoName="Section 5 Image 4" mktoImgClass="expandToFit" style="max-width:70px; max-height:70px;"></div>
+      </div>
+      <div class="col-md-3">
+		<div class="mktoText" id="section5CaptionTitle4" mktoName="Section 5 Caption Title 4">
+			<h4 class="black">Detailed Documentation</h4>
+		</div>
+		<div class="mktoText" id="section5CaptionText4" mktoName="Section 5 Caption Text 4">
+			<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+		</div>
+      </div>
+      <!--/End Feature Item -->
+      <!-- Feature Item -->
+      <div class="col-md-1 centered">
+        <div class="mktoImg mt" id="section5Image5" mktoName="Section 5 Image 5" mktoImgClass="expandToFit" style="max-width:70px; max-height:70px;"></div>
+      </div>
+      <div class="col-md-3">
+		<div class="mktoText" id="section5CaptionTitle5" mktoName="Section 5 Caption Title 5">
+			<h4 class="black">Free Support</h4>
+		</div>
+        <div class="mktoText" id="section5CaptionText5" mktoName="Section 5 Caption Text 5">
+			<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+		</div>
+      </div>
+      <!--/End Feature Item -->
+      <!-- Feature Item -->
+      <div class="col-md-1 centered">
+        <div class="mktoImg mt" id="section5Image6" mktoName="Section 5 Image 6" mktoImgClass="expandToFit" style="max-width:70px; max-height:70px;"></div>
+      </div>
+      <div class="col-md-3">
+		<div class="mktoText" id="section5CaptionTitle6" mktoName="Section 5 Caption Title 6">
+			<h4 class="black">Affordable Price</h4>
+		</div>
+        <div class="mktoText" id="section5CaptionText6" mktoName="Section 5 Caption Text 6">
+			<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+		</div>
+      </div>
+      <!--/End Feature Item -->
+    </div>
+    <div class="row mt">
+      <!-- Feature Item -->
+      <div class="col-md-1 centered">
+        <div class="mktoImg mt" id="section5Image7" mktoName="Section 5 Image 7" mktoImgClass="expandToFit" style="max-width:70px; max-height:70px;"></div>
+      </div>
+      <div class="col-md-3">
+		<div class="mktoText" id="section5CaptionTitle7" mktoName="Section 5 Caption Title 7">
+			<h4 class="black">Award Design</h4>
+		</div>
+        <div class="mktoText" id="section5CaptionText7" mktoName="Section 5 Caption Text 7">
+			<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+		</div>
+      </div>
+      <!--/End Feature Item -->
+      <!-- Feature Item -->
+      <div class="col-md-1 centered">
+        <div class="mktoImg mt" id="section5Image8" mktoName="Section 5 Image 8" mktoImgClass="expandToFit" style="max-width:70px; max-height:70px;"></div>
+      </div>
+      <div class="col-md-3">
+		<div class="mktoText" id="section5CaptionTitle8" mktoName="Section 5 Caption Title 8">
+			<h4 class="black">Crafted Bundle</h4>
+		</div>
+        <div class="mktoText" id="section5CaptionText8" mktoName="Section 5 Caption Text 8">
+			<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+		</div>
+      </div>
+      <!--/End Feature Item -->
+      <!-- Feature Item -->
+      <div class="col-md-1 centered">
+        <div class="mktoImg mt" id="section5Image9" mktoName="Section 5 Image 9" mktoImgClass="expandToFit" style="max-width:70px; max-height:70px;"></div>
+      </div>
+      <div class="col-md-3">
+		<div class="mktoText" id="section5CaptionTitle9" mktoName="Section 5 Caption Title 9">
+			<h4 class="black">Designed With Love</h4>
+		</div>
+        <div class="mktoText" id="section5CaptionText9" mktoName="Section 5 Caption Text 9">
+			<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+		</div>
+      </div>
+      <!--/End Feature Item -->
+    </div><!--/row -->
+  </div><!--/container -->
+</div>
+<!-- /Section 5 -->
+<!-- Section 6 Starts -->
+<div class="section6">
+	<div id="b">
+		<div class="container">
+		  <div class="row">
+			<div class="col-md-6 col-md-offset-3 mb">
+
+			  <div class="price-table">
+				<div class="row">
+				  <div class="col-md-6">
+					<div class="price-icon">
+					<div class="mktoText" id="section6CaptionText1" mktoName="Section 6 Caption Text 1">
+					  <h5 class="tag">Per Month</h5>
+					</div>
+					<div class="mktoText" id="section6CaptionText2" mktoName="Section 6 Caption Text 2">
+					  <h1 class="tag">$7.99</h1>
+					</div>
+					</div>
+				  </div><!--/col-md-6-->
+				  <div class="col-md-6 centered">
+				  <div class="mktoText" id="section6Header" mktoName="Section 6 Header">
+					<h4><black>READY FOR US</black></h4>
+				  </div>
+				  <div class="mktoText" id="section6Text" mktoName="Section 6 Text">
+					<p>
+					  15 Days Free Trial<br/>
+					  No Credit Card Needed<br/>
+					</p>
+				   </div>
+					<p><button href="${section6ButtonLink}" class="btn btn-lg btn-success">${section6ButtonLabel}</button></p>
+				  </div><!--/col-md-6-->
+				</div><!--/row -->
+			  </div><!--/price-table-->
+
+			</div><!--/col-md-6-->
+		  </div><!--/row -->
+		</div><!--/container -->
+	</div><!--/B -->
+</div>
+<!-- /Section 6 -->
+<!-- Footer Starts -->
+<div class="footer">
+	 <div id="f">
+    <div class="container">
+      <div class="row centered">
+		<div class="mktoText" id="FooterText" mktoName="Footer Text">
+			<h5>Handsomely Crafted by LandingSumo.com</h5>
+		</div>
+      </div>
+    </div>
+  </div><!--/F -->
+</div>
+<!-- Footer Ends -->
+<!-- Bootstrap core JavaScript 
+================================================== --> 
+<!-- Placed at the end of the document so the pages load faster --> 
+<script src="//templates.marketo.net/template20/js/jquery.min.js"></script> 
+<script src="//templates.marketo.net/template20/js/bootstrap.min.js"></script> 
+<script src="//templates.marketo.net/template20/js/retina-1.1.0.js"></script>
+</body>
+</html>

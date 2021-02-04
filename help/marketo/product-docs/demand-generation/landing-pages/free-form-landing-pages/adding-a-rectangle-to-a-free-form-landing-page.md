@@ -8,7 +8,7 @@ title: Adding a Rectangle to a Free-Form Landing Page
 
 Rectangles on landing pages are great for highlighting an area of the text.
 
-1. Select a free-form landing page and click on **Edit** **Draft**.
+1. Select a free-form landing page and click on **Edit Draft**.
 
    ![](assets/image2014-9-16-14-3a50-3a51.png)
 
@@ -20,7 +20,7 @@ Rectangles on landing pages are great for highlighting an area of the text.
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. Select your rectangle and use the **Property** **Sheet** to make any changes needed.
+1. Select your rectangle and use the **Property Sheet** to make any changes needed.
 
    >[!TIP]
    >
