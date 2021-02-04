@@ -6,7 +6,7 @@ title: Template 1-F
 
 # Template 1-F {#template-f}
 
-Right-click to [Download Template 1-F](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/assets/Template-1F.html)
+Right-click to [Download Template 1-F](https://docs.marketo.com/download/attachments/7516061/Template1-F.html?version=1&modificationDate=1432856900000&api=v2)
 
 ![](assets/image2015-5-29-9-3a9-3a19.png)
 
@@ -21,4 +21,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template1-F.html](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/assets/Template-1F.html)
+[Template1-F.html](https://docs.marketo.com/download/attachments/7516061/Template1-F.html?version=1&modificationDate=1432856900000&api=v2)
