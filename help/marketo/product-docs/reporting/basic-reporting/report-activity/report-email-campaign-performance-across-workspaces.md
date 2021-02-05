@@ -28,9 +28,8 @@ Turn on Global Reporting to include data from all your Marketo [workspaces](../.
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

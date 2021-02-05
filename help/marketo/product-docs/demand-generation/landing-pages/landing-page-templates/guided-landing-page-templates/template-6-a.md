@@ -6,7 +6,7 @@ title: Template 6-A
 
 # Template 6-A {#template-a}
 
-Right-click to [Download Template 6-A](http://docs.marketo.com/download/attachments/8162246/template-6a.html?version=1&modificationdate=1437692839000&api=v2)
+[Download Template 6-A](https://docs.marketo.com/download/attachments/8162246/template-6a.html?version=1&modificationdate=1437692839000&api=v2)
 
 ![](assets/image2015-6-29-16-3a14-3a11.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 * Four body sections (optional)
 * Footer (optional)
 
-**Right-click below to download this template:**
+**Click below to download this template:**
 
-[Template6-A.html](http://docs.marketo.com/download/attachments/8162246/template-6a.html?version=1&modificationdate=1437692839000&api=v2)
+[Template6-A.html](https://docs.marketo.com/download/attachments/8162246/template-6a.html?version=1&modificationdate=1437692839000&api=v2)

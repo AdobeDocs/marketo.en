@@ -22,9 +22,8 @@ You can export any report to an Excel file, to work with the data in other softw
 
    That's all! Your browser prompts you to save the Excel file to your system.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >
    >If the downloaded file is too big, you can [change the report size](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) .

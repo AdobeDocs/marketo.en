@@ -32,9 +32,7 @@ Verify push configuration to ensure everything is synced up nicely.
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)   All set! Now you can start sending push notifications ![(smile)](assets/smile.svg)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Create a Push Notification](../../../product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 >

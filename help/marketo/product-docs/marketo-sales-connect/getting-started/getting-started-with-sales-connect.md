@@ -8,9 +8,8 @@ title: Getting Started with Sales Connect
 
 If you would rather watch these steps than read them, skip straight to the [Video Instructions below](#video).
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Not all customers have purchased this functionality. Contact your Customer Success Manager for more information.
 

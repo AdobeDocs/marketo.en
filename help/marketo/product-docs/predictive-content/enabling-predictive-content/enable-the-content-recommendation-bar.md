@@ -51,8 +51,6 @@ The Content Recommendation Engine uses predictive analytics and machine learning
 * The more content running in the recommendation engine the better for the algorithm to test and learn which content works best. We recommend starting with 10 to 20 content pieces running and active and to keep adding new ones.
 * The content piece you enable for recommendation should include the RTP Javascript tag. This helps the algorithm track and optimize recommended content.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Enable Predictive Content for Web Rich Media](enable-predictive-content-for-web-rich-media.md)

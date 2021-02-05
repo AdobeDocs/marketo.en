@@ -6,17 +6,17 @@ title: Add Your Privacy Policy to a Social App
 
 # Add Your Privacy Policy to a Social App {#add-your-privacy-policy-to-a-social-app}
 
-When you create a  [social app](http://docs.marketo.com/display/docs/social), you can add a link to your company’s privacy policy.
+When you create a social app, you can add a link to your company’s privacy policy.
 
 1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Select the app, and click **Edit Draft****.**
+1. Select the app, and click **Edit Draft**.
 
    ![](assets/image2014-9-22-10-3a50-3a22.png)
 
-1. In the social app editor, go to **App Settings** > **Advanced Options****.**
+1. In the social app editor, go to **App Settings** > **Advanced Options**.
 
    ![](assets/image2014-9-22-10-3a50-3a38.png)
 
@@ -26,10 +26,10 @@ When you create a  [social app](http://docs.marketo.com/display/docs/social), yo
 
    >[!NOTE]
    >
-   >On this screen, you can also add a link to the rules (terms and conditions) of your offer. See [Create a Referral Offer](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
+   >On this screen, you can also add a link to the rules (terms and conditions) of your offer. See [Create a Referral Offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
 
 1. The privacy policy link (and the rules link) will appear in the bottom of share message screens. For example:
 
    ![](assets/image2014-9-22-10-3a52-3a16.png)
 
-Next, you can [configure the social sign-up and share flow](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) of your app.
+Next, you can [configure the social sign-up and share flow](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) of your app.

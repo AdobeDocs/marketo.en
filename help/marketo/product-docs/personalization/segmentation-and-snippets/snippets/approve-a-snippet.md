@@ -23,9 +23,7 @@ A Snippet needs to be approved before use.
 
 That's it! Your snippet's status changes from Draft to Approved.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Approve a Snippet with No-Draft](approve-a-snippet-with-no-draft.md)
 >

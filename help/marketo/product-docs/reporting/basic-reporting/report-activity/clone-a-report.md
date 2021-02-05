@@ -26,9 +26,8 @@ Create a duplicate of your report to customize it further without changing the o
 
    That's it - you're ready to start customizing your clone!
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

@@ -6,7 +6,7 @@ title: Template 9-A
 
 # Template 9-A {#template-a}
 
-Right-click to [Download Template 9-A](http://docs.marketo.com/download/attachments/8783981/template-9a.html?version=2&modificationdate=1438210648000&api=v2)
+[Download Template 9-A](https://docs.marketo.com/download/attachments/8783981/template-9a.html?version=2&modificationdate=1438210648000&api=v2)
 
 ![](assets/image2015-7-28-15-3a9-3a26.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 * Eight body sections (optional)
 * A footer (optional)
 
-**Right-click below to download this template:**
+**Click below to download this template:**
 
-[Template9-A.html](http://docs.marketo.com/download/attachments/8783981/template-9a.html?version=2&modificationdate=1438210648000&api=v2)
+[Template9-A.html](https://docs.marketo.com/download/attachments/8783981/template-9a.html?version=2&modificationdate=1438210648000&api=v2)

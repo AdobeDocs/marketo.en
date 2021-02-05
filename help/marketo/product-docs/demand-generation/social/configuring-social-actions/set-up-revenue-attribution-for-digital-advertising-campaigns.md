@@ -17,7 +17,6 @@ With separate programs, you then can track the number of conversions from each o
 >* Set up a channel tag with status values and program success (for example, Digital Advertising or Social Paid and PPC)
 >* Create or edit a form to pass a query string through with the person
 >* Be sure you have access to some Revenue Cycle Analytics capabilities to report on your ad channels and campaigns
->
 
 ## Create a Default Program {#create-a-default-program}
 
@@ -31,7 +30,7 @@ Unlike some programs (such as email) which may run periodically for a specific p
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. If you already have a program in place, you can [clone it](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
+1. If you already have a program in place, you can [clone it](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
 
    >[!TIP]
    >
@@ -43,15 +42,11 @@ Unlike some programs (such as email) which may run periodically for a specific p
    >
    >**Example**
    >
-   >
    >A query string passed through the URL helps Marketo know which ad campaign someone clicked on when they became a person in Marketo.
-   >
    >
    >You can create a query string methodology that includes all the variables you want to measure. Marketo uses these variables to add people to your different programs.
    >
-   >
    >For example, you could use Channel type_Channel__Asset__Region. That might look like: SP_FB_NewGuide_US. **Note**: abbreviations save space.
-   >
    >
    >Or, set it up as Channel_Adsource_AssetName_Region_UniqueIdNumber. That could look like: Social-Paid_Facebook_NewGuide_NA_123.
 
@@ -85,13 +80,13 @@ You need a second smart campaign to change the status of people, so they can ach
 
    >[!NOTE]
    >
-   >The example above shows **Converted, **but this depends on your status/success values.
+   >The example above shows **Converted**, but this depends on your status/success values.
 
 1. Schedule and activate the campaign.
 
 ## Create Your Ad {#create-your-ad}
 
-After you've set up the program and campaigns, create the new ad. 
+After you've set up the program and campaigns, create the new ad.
 
 1. Go to the channel; e.g., LinkedIn or Facebook.
 1. Create a new ad.
@@ -102,20 +97,15 @@ After you've set up the program and campaigns, create the new ad.
    >
    >**Example**
    >
-   >
    >Here's how you can add all the information you set up into an actual URL. The items are separated by an ampersand (&):
    >
+   >`www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz`
    >
-   >[www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz](http://www.marketo.com?source=Social-Paid&comment=Social-Paid_Facebook_NewGUide_NA&camp=abc&kk+xyz)
+   >* **source** is the Person Source used as a channel identifier
+   >* **comment** is the unique identifier created for each program
+   >* **camp** is the campaign in Facebook, LinkedIn, or Google
+   >* **kk** is the keyword or asset name you want to capture
    >
-   >    
-   >    
-   >    * **source** is the Person Source used as a channel identifier
-   >    * **comment** is the unique identifier created for each program
-   >    * **camp** is the campaign in Facebook, LinkedIn, or Google
-   >    * **kk** is the keyword or asset name you want to capture
-   >    
-   >    
    >**These four terms must be all lowercase and there can't be any spaces in the URL for this information to be captured.**
 
 ## Best Practices {#best-practices}

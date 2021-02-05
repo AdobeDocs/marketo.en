@@ -8,25 +8,23 @@ title: Create a Poll
 
 Engage people with a poll they can vote in and share with their friends on social networks. You can add it to places like your landing pages, your website, and Facebook.  
 
->[!NOTE]
->
->**Availability**
+>[!AVAILABILITY]
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
 >[!PREREQUISITES]
 >
->If you want to use images in your poll, add them to your Marketo Images and Files library before you begin. Add a 60x60px image for each poll entry. See [Add Images and Files to Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+>If you want to use images in your poll, add them to your Marketo Images and Files library before you begin. Add a 60x60px image for each poll entry. See [Add Images and Files to Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Inside your program, select **New** > **New Local Asset.**
+1. Inside your program, select **New** > **New Local Asset**.
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. In the **Local Asset Gallery,** click **Poll.**
+1. In the **Local Asset Gallery**, click **Poll**.
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
-1. Name your poll. 
+1. Name your poll.
 
    ![](assets/image2014-9-18-18-3a18-3a55.png)
 
@@ -50,11 +48,11 @@ Engage people with a poll they can vote in and share with their friends on socia
 
    ![](assets/image2014-9-18-18-3a19-3a37.png)
 
-1. Select the image you need, then click **Select.**
+1. Select the image you need, then click **Select**.
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
-1. When you have set the thumbnail, title, and description for all entries, click **Finish.**
+1. When you have set the thumbnail, title, and description for all entries, click **Finish**.
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
@@ -62,7 +60,7 @@ Engage people with a poll they can vote in and share with their friends on socia
 
    ![](assets/image2014-9-18-18-3a19-3a57.png)
 
-The poll editor opens in a new window. The default settings are all good, but you still need to add your poll entries. We'll show you how in the next steps. 
+The poll editor opens in a new window. The default settings are all good, but you still need to add your poll entries. We'll show you how in the next steps.
 
 >[!TIP]
 >
@@ -70,9 +68,6 @@ The poll editor opens in a new window. The default settings are all good, but yo
 
 If there are any problems in the poll, you will be prompted to address them before the poll is approved. Congratulations! You have created your poll.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->The next step is to [publish your poll](publish-a-poll.md), but you can change the settings of your poll if necessary. Start with [customizing the poll settings](customize-poll-settings.md).
-
+>The next step is to [publish your poll](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), but you can change the settings of your poll if necessary. Start with [customizing the poll settings](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md).

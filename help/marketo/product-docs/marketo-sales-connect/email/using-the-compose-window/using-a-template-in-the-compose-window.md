@@ -62,9 +62,8 @@ Favorite **up to five** specific template categories to gain quick access to you
    >
    >**Favorites** is there by default. It holds favorite email templates, not categories.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

@@ -39,9 +39,8 @@ See how your [smart campaigns](http://docs.marketo.com/display/docs/smart+campai
    | Triggered (Active) |Current triggered campaigns in the **Marketing Activities** tab. |
    | Triggered (Inactive) |Inactive triggered campaigns in the **Marketing Activities** tab. |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

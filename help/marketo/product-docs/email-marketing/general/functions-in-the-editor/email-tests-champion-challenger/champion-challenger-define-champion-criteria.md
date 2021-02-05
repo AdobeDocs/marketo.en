@@ -51,9 +51,8 @@ Once you've set up your test type, you need to define the champion criteria. Her
 
    Great! Now it's time to schedule the report.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

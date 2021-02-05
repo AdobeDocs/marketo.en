@@ -34,9 +34,7 @@ title: How to Connect Sales Connect to Your Salesforce Sandbox
 
    ![](assets/five-2.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[How to Install Customizations in Your Salesforce Sandbox](http://docs.marketo.com/x/EIDq)
 

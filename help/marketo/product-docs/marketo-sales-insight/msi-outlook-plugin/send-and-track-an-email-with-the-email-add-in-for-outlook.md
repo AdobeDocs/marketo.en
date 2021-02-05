@@ -46,9 +46,7 @@ You can send and track emails with Marketo directly from Outlook.
 
 It's that easy! Even though this email was sent by a salesperson's Outlook, it will be tracked in Marketo. 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Log Inbound Mail From Your Leads in Marketo](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
 >

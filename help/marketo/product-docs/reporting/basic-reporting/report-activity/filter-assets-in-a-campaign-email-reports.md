@@ -35,9 +35,8 @@ Focus your [Campaign Email Performance](../../../../product-docs/reporting/basic
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

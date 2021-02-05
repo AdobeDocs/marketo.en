@@ -51,9 +51,8 @@ You can easily A/B test your emails. One test is the **Date/Time **test. This te
 
    [define the A/B test winner criteria](define-the-a-b-test-winner-criteria.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

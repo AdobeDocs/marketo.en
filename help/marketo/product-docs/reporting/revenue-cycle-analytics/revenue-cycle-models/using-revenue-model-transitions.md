@@ -53,8 +53,6 @@ When you create your model and select and organize your inventory stages, it's t
 
 Well done! You have successfully modified your model transitions.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Approve/Unapprove a Revenue Model](approve-unapprove-a-revenue-model.md)

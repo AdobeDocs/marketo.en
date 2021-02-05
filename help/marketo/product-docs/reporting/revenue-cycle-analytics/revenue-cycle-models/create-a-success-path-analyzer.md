@@ -50,9 +50,7 @@ Now you can explore movement from each stage to the next!
 >
 >Wanna save your report? Click the **Analyzer Actions** drop-down and select **Save As**.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Using the Success Path Analyzer](using-the-success-path-analyzer.md)
 >

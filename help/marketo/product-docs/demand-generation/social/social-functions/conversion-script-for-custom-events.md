@@ -10,7 +10,7 @@ You define the fulfillment goal when creating a referral offer. If the action th
 
 ## Retrieve the Conversion Script {#retrieve-the-conversion-script}
 
-1. Within the referral offer editor, click **Offer Details** and then select **Customer JavaScript Event** from the fulfillment goal drop down.
+1. Within the referral offer editor, click **Offer Details** and then select **Customer JavaScript Event** from the fulfillment goal drop-down.
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
@@ -19,9 +19,6 @@ You define the fulfillment goal when creating a referral offer. If the action th
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
    >[!NOTE]
-   >
-   >**Reminder**
-   >
    >
    >Remember to copy and paste both scripts if they are going on a non-Marketo website.
 
@@ -37,15 +34,15 @@ You define the fulfillment goal when creating a referral offer. If the action th
 
 ## Pasting the Scripts Onto Your Webpage {#pasting-the-scripts-onto-your-webpage}
 
-Paste the conversion scripts into the HTML for the body and header. Next, place the loader scripts into the HTML for the body and header. 
+Paste the conversion scripts into the HTML for the body and header. Next, place the loader scripts into the HTML for the body and header.
 
 ![](assets/image2015-4-20-21-3a0-3a16.png)
 
 ## Connecting the Conversion Script {#connecting-the-conversion-script}
 
-Here's where you will write a JavaScript function that uses the specific HTML id of whatever page element you want to trigger goal completion on. For example: 
+Here's where you will write a JavaScript function that uses the specific HTML id of whatever page element you want to trigger goal completion on. For example:
 
-`<pre><em><!-- Referral offer conversion script --></em> <script> cf_scripts.afterload(function (){ jQuery("#myButtonId").click(function (){ CF.insight.conversion(); }); }); </script></pre>` `<pre>` 
+`<pre><em><!-- Referral offer conversion script --></em> <script> cf_scripts.afterload(function (){ jQuery("#myButtonId").click(function (){ CF.insight.conversion(); }); }); </script></pre>` `<pre>`
 
 In this example there is a button on the webpage with an id of "#myButtonId." When that button is clicked, the person will be registered as having completed the goal.
 
@@ -53,6 +50,6 @@ Awesome! Your website is now capturing custom social promotion goals with Market
 
 >[!MORELIKETHIS]
 >
->* [Specify Goal for Referral Offer](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
->* [Create a Referral Offer](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
->* [Deploy Social on Your Website](deploy-social-on-your-website.md)
+>* [Specify Goal for Referral Offer](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
+>* [Create a Referral Offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [Deploy Social on Your Website](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)

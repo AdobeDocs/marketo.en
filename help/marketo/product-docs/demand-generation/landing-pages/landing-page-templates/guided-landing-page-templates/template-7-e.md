@@ -6,7 +6,7 @@ title: Template 7-E
 
 # Template 7-E {#template-e}
 
-Right-click to [Download Template 7-E](http://docs.marketo.com/download/attachments/8783954/template-7e.html?version=1&modificationdate=1437693434000&api=v2)
+[Download Template 7-E](https://docs.marketo.com/download/attachments/8783954/template-7e.html?version=1&modificationdate=1437693434000&api=v2)
 
 ![](assets/image2015-7-29-15-3a11-3a34.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Four body sections (optional)
 * A footer (optional)
 
-Right-click below to download this template:
+**Click below to download this template:**
 
-[Template7-E.html](http://docs.marketo.com/download/attachments/8783954/template-7e.html?version=1&modificationdate=1437693434000&api=v2)
+[Template7-E.html](https://docs.marketo.com/download/attachments/8783954/template-7e.html?version=1&modificationdate=1437693434000&api=v2)

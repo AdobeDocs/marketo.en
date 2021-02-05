@@ -8,13 +8,11 @@ title: Use Your Dedicated IP Addresses to Send Emails
 
 Sending from one or more dedicated IP gives you complete control over your sending reputation.
 
->[!NOTE]
->
->**Availability**
+>[!AVAILABILITY]
 >
 >A dedicated IP is an add-on product. Not everyone will be eligible to add a dedicated IP to their program. You would need to send more than 100,000 emails per month and have a stable campaign cadence to maintain a dedicated IP. Reach out to your CSM for more information on how to add a dedicated IP to your Marketo program.
 >
->If you send less than 100,000 emails per month, and/or have variable campaign volumes, and/or are a seasonal sender, you will be unable to maintain a dedicated IP. Marketo does maintain a separate Trusted IP shared pool for customers that abide by strict best practices. If interested, please fill out [this questionnaire](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) to apply to Marketo’s Trusted IP Program.
+>If you send less than 100,000 emails per month, and/or have variable campaign volumes, and/or are a seasonal sender, you will be unable to maintain a dedicated IP. Marketo does maintain a separate Trusted IP shared pool for customers that abide by strict best practices. If interested, please fill out [this questionnaire](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) to apply to Marketo’s Trusted IP Program.
 
 All Marketo accounts start on a shared IP, enabling you to start mailing immediately. If you add a dedicated IP, you'll work with deliverability consultants to schedule the IP's provisioning.
 
@@ -33,9 +31,8 @@ To maximize long-term deliverability, the Deliverability Consultants offer custo
 
 >[!TIP]
 >
->Keep your database clean to keep your deliverability high. [Adobe requires](http://www.adobe.com/legal/terms/aup.html) that customers only send marketing communications to people who have opted in/requested to receive email. Don't spam.
+>Keep your database clean to keep your deliverability high. [Adobe requires](https://www.adobe.com/legal/terms/aup.html) that customers only send marketing communications to people who have opted in/requested to receive email. Don't spam.
 
 >[!CAUTION]
 >
->If you see a high number of bounces, or any other problems, contact [Marketo Support](http://nation.marketo.com/t5/Support/ct-p/Support). If you’d like more focused support to learn about how to maintain a clean database and increase engagement with your program, Marketo’s Email Deliverability Consultants can be engaged for a Custom Services package.
-
+>If you see a high number of bounces, or any other problems, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). If you’d like more focused support to learn about how to maintain a clean database and increase engagement with your program, Marketo’s Email Deliverability Consultants can be engaged for a Custom Services package.

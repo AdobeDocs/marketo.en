@@ -8,9 +8,8 @@ title: Release Notes -Feb '20
 
 The following features are included in the Feb '20 release. Check your Marketo edition for feature availability.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Features denoted by a star ( ![(star)](assets/star-yellow.svg)) are paid add-ons. Please contact your Marketo Engage representative to learn more.
 

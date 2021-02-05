@@ -8,9 +8,8 @@ title: Launch a Presentation
 
 Once you've set the views and rotation frequency for your presentation, it's time for blast off!
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 

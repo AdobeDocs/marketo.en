@@ -47,9 +47,8 @@ By default, Marketo Sales Insight uses the **Lead Score** field to calculate sta
    >
    >Sales insight will take some time to re-calculate. You can check your CRM later to see the stars and flames.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >
    >[Priority, Urgency, Relative Score, and Best Bets](priority-urgency-relative-score-and-best-bets.md)

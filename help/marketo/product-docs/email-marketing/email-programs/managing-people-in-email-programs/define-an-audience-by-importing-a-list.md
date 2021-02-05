@@ -69,9 +69,7 @@ Once you've created an email program, you'll want to tell it who to send the ema
 
 Fantastic! Now it's time to choose an already existing email or to create a new email to send to these people. 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Choose an Existing Email](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
 >* [Create an Email for an Email Program](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)

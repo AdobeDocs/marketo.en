@@ -48,9 +48,8 @@ When sending an email with Marketo Sales Connect, views (email opens) and clicks
 
    ![](assets/five.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

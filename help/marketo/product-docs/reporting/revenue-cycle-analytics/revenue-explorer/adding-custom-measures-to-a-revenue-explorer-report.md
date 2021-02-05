@@ -39,9 +39,8 @@ In the example below, you are creating a calculated measure for soft bounces, wh
 
    ![](assets/image2016-1-26-11-3a29-3a16.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

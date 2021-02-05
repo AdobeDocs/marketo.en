@@ -11,9 +11,8 @@ Anyone who wants to use the Marketo Email Outlook Add-in must first be issued a 
 * **[Enterprise Key Installation](install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)**: Use this method when the sales reps don't have admin rights to their corporate laptops and can't install plugins, software, etc. on it. In this case, the Marketo Admin issues licenses to a list of authorized users. Next, the IT team remotely deploys the plugin to all authorized users' computers using the Enterprise Key. The plugin user then authorizes it. 
 * **[Registration Code Installation](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)**: Use this method when sales reps do have admin rights to their corporate laptop and can install plugins, software, etc. on it. For this process, the Marketo admin issues licenses to a list of authorized users and sends them registration emails directly with download links. The sales rep receives an email with a plugin download link and a unique registration URL.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details. 
 

@@ -26,9 +26,8 @@ These improvements will roll out over 2018.
 
 ## [Marketo Performance Insights](../../product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Performance Insights is an add-on product. Please contact your Marketo Customer Success Manager or Account Executive for a quote.
 

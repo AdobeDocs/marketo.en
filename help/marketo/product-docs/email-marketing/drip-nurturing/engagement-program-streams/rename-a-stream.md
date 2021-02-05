@@ -21,4 +21,3 @@ If you like to stay organized, you can rename your streams. Here's how to do it.
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 
    And voila! You now know how to rename streams.
-

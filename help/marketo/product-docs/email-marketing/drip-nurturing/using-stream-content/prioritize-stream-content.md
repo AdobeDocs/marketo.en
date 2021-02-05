@@ -25,4 +25,3 @@ After you've added content to your stream, you may want to change the priority. 
    >Priority will always be read from top to bottom at time of cast.
 
    It's that easy! Now you know how to prioritize your stream content.
-

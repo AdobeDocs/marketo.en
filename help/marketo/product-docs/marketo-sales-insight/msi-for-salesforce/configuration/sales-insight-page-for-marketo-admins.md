@@ -56,9 +56,8 @@ By default, Marketo Sales Insight uses the Lead Score field to calculate stars a
    >
    >If you don't already have your custom score fields, here's how to [create them](http://docs.marketo.com/x/3wMk).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >
    >[Stars and Flames](http://docs.marketo.com/x/qgU6Ag)

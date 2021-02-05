@@ -93,9 +93,7 @@ If you haven't received an invite email, ask your Marketo administrator to invit
 
 Learn more about using the Marketo Message and Log With Marketo actions.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Send and Track an Email with the Marketo Email Add-in for Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Send and Track from Outlook Using a Marketo Template](send-and-track-from-outlook-using-a-marketo-template.md)

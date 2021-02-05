@@ -6,7 +6,7 @@ title: Template 7-D
 
 # Template 7-D {#template-d}
 
-Right-click to [Download Template 7-D](http://docs.marketo.com/download/attachments/8783950/template-7d.html?version=1&modificationdate=1437693396000&api=v2)
+[Download Template 7-D](https://docs.marketo.com/download/attachments/8783950/template-7d.html?version=1&modificationdate=1437693396000&api=v2)
 
 ![](assets/image2015-7-29-15-3a5-3a39.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Four body sections (optional)
 * A footer (optional)
 
-Right-click below to download this template:
+**Click below to download this template:**
 
-[Template7-D.html](http://docs.marketo.com/download/attachments/8783950/template-7d.html?version=1&modificationdate=1437693396000&api=v2)
+[Template7-D.html](https://docs.marketo.com/download/attachments/8783950/template-7d.html?version=1&modificationdate=1437693396000&api=v2)

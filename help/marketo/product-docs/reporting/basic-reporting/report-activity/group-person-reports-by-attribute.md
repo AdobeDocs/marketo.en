@@ -43,9 +43,8 @@ You can group your [person reports](http://docs.marketo.com/display/docs/basic+r
    >
    >Learn more about person reports and other report types in the [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting)deep dive.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

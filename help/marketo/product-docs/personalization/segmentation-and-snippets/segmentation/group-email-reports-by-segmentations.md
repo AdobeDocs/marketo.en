@@ -37,9 +37,7 @@ Segmentations are not just for Dynamic Content. You can group your  [email perfo
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Filter Assets in an Email Report](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
 >

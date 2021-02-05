@@ -53,4 +53,3 @@ When a person has received every piece of content in a stream, it has exhausted 
    >[!NOTE]
    >
    >This number will update immediately after each cast.
-

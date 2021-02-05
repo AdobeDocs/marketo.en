@@ -8,9 +8,8 @@ title: Understanding the Email Analysis Area
 
 The Email Analysis Area focuses on email metrics. This article introduces all of the reports available within it.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >This is available to users with the Select Edition or  [Revenue Cycle Analytics](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) add-on. Contact your sales rep for details.
 

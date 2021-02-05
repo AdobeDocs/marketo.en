@@ -177,9 +177,7 @@ Finally, you have to give specific users access to use Marketo Sales Insight.
 
    ![](assets/image2015-4-29-15-3a2-3a27-1.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Setting up Stars and Flames for Lead/Contact Records](http://docs.marketo.com/x/BICMAg)
 

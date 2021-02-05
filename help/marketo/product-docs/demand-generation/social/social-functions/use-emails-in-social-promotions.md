@@ -6,21 +6,21 @@ title: Use Emails in Social Promotions
 
 # Use Emails in Social Promotions {#use-emails-in-social-promotions}
 
-When you create a [referral offer](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) or a [sweepstakes](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), you can include emails to send when the person signs up, and again when the person has won the reward.
+When you create a [referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) or a [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), you can include emails to send when the person signs up, and again when the person has won the reward.
 
 >[!TIP]
 >
->To create an email, see  [Send an Email Blast](../../../../getting-started/quick-wins/send-an-email.md).
+>To create an email, see [Send an Email Blast](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
 In the emails, use these tokens:
 
 * **Sign-up email**: Use **`{{social.Share Url}}`** to send each participating person a personalized share link.
 
-* **Fulfillment email**: Use **`{{social.Promo Code}}`** to send each winner a [promo code](use-promo-codes-for-offer-fulfillment.md).
+* **Fulfillment email**: Use **`{{social.Promo Code}}`** to send each winner a [promo code](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md).
 
 >[!PREREQUISITES]
 >
->Before you can add an email to a social app, it must be *operational* and *approved*. See  [Edit Settings for an Email](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+>Before you can add an email to a social app, it must be _operational_ and _approved_. See [Edit Settings for an Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
 1. Go to **Marketing Activities**.
 
@@ -52,19 +52,16 @@ In the emails, use these tokens:
 
 >[!NOTE]
 >
->In a sweepstakes, the fulfillment email is always sent automatically when you  [select the winner](../../../../product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
+>In a sweepstakes, the fulfillment email is always sent automatically when you [select the winner](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
 
 >[!NOTE]
 >
 >**Definition**
 >
 >* **auto on goal**: The fulfillment email is sent automatically as each participant meets the goal.
->* **manually send**: Once people start meeting the goal, return to your referral offer to manually [send the fulfillment email](../../../../product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
+>* **manually send**: Once people start meeting the goal, return to your referral offer to manually [send the fulfillment email](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
 >
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Related Articles**
->
->Next, you can [choose the share URL](choose-the-share-url-for-a-social-app.md) or, in your referral offer, you can [upload the promo codes](use-promo-codes-for-offer-fulfillment.md) you will send out.
-
+>Next, you can [choose the share URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) or, in your referral offer, you can [upload the promo codes](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md) you will send out.

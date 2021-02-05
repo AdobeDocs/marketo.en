@@ -55,9 +55,8 @@ Use a trigger to send an email or alert, or change a value or a score based on v
 
    [Define Smart List for Smart Campaign | Batch](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

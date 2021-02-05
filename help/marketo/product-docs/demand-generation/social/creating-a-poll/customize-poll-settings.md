@@ -6,17 +6,17 @@ title: Customize Poll Settings
 
 # Customize Poll Settings {#customize-poll-settings}
 
-When you [create a poll](create-a-poll.md), you can limit the number of votes allowed per social profile.
+When you [create a poll](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), you can limit the number of votes allowed per social profile.
 
-1. Go to **Marketing Activities**. 
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Select the poll, and click **Edit Draft.**
+1. Select the poll, and click **Edit Draft**.
 
    ![](assets/image2014-9-19-10-3a56-3a37.png)
 
-1. In the poll editor, go to **App Settings** > **Advanced Options.**
+1. In the poll editor, go to **App Settings** > **Advanced Options**.
 
    ![](assets/image2014-9-19-10-3a56-3a44.png)
 
@@ -26,5 +26,4 @@ When you [create a poll](create-a-poll.md), you can limit the number of votes al
 
 >[!TIP]
 >
->You can click **Finish > Approve and Close** to [publish your poll](publish-a-poll.md), or you can continue customizing it. For example, try [configuring the after-share prompts](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
-
+>You can click **Finish** > **Approve and Close** to [publish your poll](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), or you can continue customizing it. For example, try [configuring the after-share prompts](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

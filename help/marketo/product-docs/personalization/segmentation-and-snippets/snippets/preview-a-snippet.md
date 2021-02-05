@@ -23,9 +23,7 @@ Snippets are blocks of dynamic content that change based on segmentation rules.
 
 Preview is great to make sure your content looks right for each segment.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Approve a Snippet](approve-a-snippet.md)
 >

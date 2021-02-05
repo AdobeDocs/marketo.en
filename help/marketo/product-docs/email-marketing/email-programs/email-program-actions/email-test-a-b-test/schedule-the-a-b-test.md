@@ -57,9 +57,8 @@ Once you have added an A/B test to an email program and defined the winner crite
 
    Assuming you already defined your audience and picked an email, the only step left is to approve the program.  
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

@@ -14,19 +14,16 @@ Clone a stream for various reasons, including testing different orders and diffe
 
 1. Click on the stream gear icon then click **Clone**.
 
-   ` ![](assets/image2014-9-15-17-3a0-3a23.png)
-
-   `
+   ![](assets/image2014-9-15-17-3a0-3a23.png)
 
    >[!NOTE]
    >
    >You can have up to 25 streams per engagement program.
 
-   Nicely done! Don't you love things that make your life easier?  ` ![](assets/image2014-9-15-17-3a1-3a20.png)
+   Nicely done! Don't you love things that make your life easier?  
 
-   `
+   ![](assets/image2014-9-15-17-3a1-3a20.png)
 
    >[!CAUTION]
    >
    >Everything in the stream is cloned except for the Cadence. Remember to set it.
-

@@ -74,9 +74,7 @@ In our example, we see that the Tradeshow channel is both the most expensive (fu
 >
 >The examples in these steps measure effectiveness based on pipeline created. Use theY Axis drop-down to select other ways to measure channel effectiveness, like New Names, Members, Cost per Success, etc.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Explore Program & Channel Details with the Program Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Compare Program Effectiveness with the Program Analyzer](compare-program-effectiveness-with-the-program-analyzer.md)

@@ -82,9 +82,7 @@ We see that the Paper Fest 12 program not only influences more revenue (bigger b
 >
 >You can quickly compare the programs in one channel with those in another. Just use the **Channel Filter** at the top of the window to add more channels.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Explore Program & Channel Details with the Program Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Compare Channel Effectiveness with the Program Analyzer](compare-channel-effectiveness-with-the-program-analyzer.md)

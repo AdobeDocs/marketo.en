@@ -8,9 +8,8 @@ title: Build an Email Analysis Report that Shows Program Information
 
 Follow these steps to create an Email Analysis Report that will show email information grouped by program channels.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 

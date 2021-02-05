@@ -38,9 +38,7 @@ With your email program created, audience defined, and email selected, you will 
 
    How easy was that? The only thing left is to [approve an email program](approve-unapprove-an-email-program.md) and you're good to go.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Schedule Email Programs with Recipient Time Zone](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [Head Start for Email Programs](head-start-for-email-programs.md)

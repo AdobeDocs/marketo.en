@@ -38,9 +38,7 @@ Testing is a great way to optimize your emails for better engagement. Here's how
    >
    >If you have duplicate records in your database, those records will receive **both** the test and winning emails. To prevent this from happening, make sure you [find and merge duplicate people](http://docs.marketo.com/x/G4EI) in your database.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Use "Subject Line" A/B Testing](use-subject-line-a-b-testing.md)
 >* [Use "Whole Email" A/B Testing](use-whole-email-a-b-testing.md)

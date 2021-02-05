@@ -6,9 +6,8 @@ title: Retargeting with Web Personalization Data
 
 # Retargeting with Web Personalization Data {#retargeting-with-web-personalization-data}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Website Retargeting now falls under the Web Personalization tile. If you only purchased Retargeting, you will see this tile and access the Web Personalization product with **only** Retargeting features enabled. This gives you access to account settings, the Retargeting page, segments, and additional tracking pages.
 

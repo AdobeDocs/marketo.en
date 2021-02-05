@@ -6,7 +6,7 @@ title: Template 8-B
 
 # Template 8-B {#template-b}
 
-Right-click to [Download Template 8-B](http://docs.marketo.com/download/attachments/8783963/template-8b.html?version=1&modificationdate=1482174993000&api=v2)
+[Download Template 8-B](https://docs.marketo.com/download/attachments/8783963/template-8b.html?version=1&modificationdate=1482174993000&api=v2)
 
 ![](assets/image2015-7-29-13-3a56-3a13.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Five body sections (optional)
 * A footer (optional)
 
-Right-click below to download this template:
+**Click below to download this template:**
 
-[Template8-B.html](http://docs.marketo.com/download/attachments/8783963/template-8b.html?version=1&modificationdate=1482174993000&api=v2)
+[Template8-B.html](https://docs.marketo.com/download/attachments/8783963/template-8b.html?version=1&modificationdate=1482174993000&api=v2)

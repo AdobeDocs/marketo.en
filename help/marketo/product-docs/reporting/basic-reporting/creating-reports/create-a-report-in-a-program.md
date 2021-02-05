@@ -63,9 +63,8 @@ Run a report to analyze people, your programs, landing pages, emails, and social
    >
    >You can quickly end up with a lot of reports. Remember to [delete a report](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) you no longer need.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >
    >You can [change a report time frame](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [subscribe to a basic report](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [export a report to Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filter people in a report with a smart list](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md), and [more](http://docs.marketo.com/display/docs/basic+reporting).

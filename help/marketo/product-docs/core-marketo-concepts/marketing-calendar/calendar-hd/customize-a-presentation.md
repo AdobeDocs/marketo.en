@@ -8,9 +8,8 @@ title: Customize a Presentation
 
 Set up your calendar presentation to reflect the goals and activities that matter most to your team.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 

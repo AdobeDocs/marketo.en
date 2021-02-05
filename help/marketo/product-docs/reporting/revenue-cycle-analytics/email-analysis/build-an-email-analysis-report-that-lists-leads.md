@@ -6,9 +6,8 @@ title: Build an Email Analysis Report that Lists Leads
 
 # Build an Email Analysis Report that Lists Leads {#build-an-email-analysis-report-that-lists-leads}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 

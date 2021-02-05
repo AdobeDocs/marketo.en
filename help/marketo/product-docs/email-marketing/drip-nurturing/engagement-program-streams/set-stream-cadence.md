@@ -14,11 +14,11 @@ You can send engagement content at any interval you want. For example: once a we
 
    ![](assets/login-marketing-activities.png)
 
-1. Find and select your engagement program, click the **Streams **tab, then click **Set Stream Cadence**.
+1. Find and select your engagement program, click the **Streams** tab, then click **Set Stream Cadence**.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. Select how often you want the cadence to recur. You can choose** Weekly** or **Monthly**.
+1. Select how often you want the cadence to recur. You can choose **Weekly** or **Monthly**.
 
 ## Weekly {#weekly}
 
@@ -28,7 +28,7 @@ You can send engagement content at any interval you want. For example: once a we
 
    >[!NOTE]
    >
-   >Selecting **None **will shut off the stream.
+   >Selecting **None** will shut off the stream.
 
 1. Pick the date of the first cast.
 
@@ -44,9 +44,10 @@ You can send engagement content at any interval you want. For example: once a we
 
    >[!TIP]
    >
-   >You can set your cadence to run every day by picking **Repeats: Weekly** /** Every: 1 Week** /** ****On**: all days.
+   >You can set your cadence to run every day by picking **Repeats: Weekly** / **Every: 1 Week** / **On**: all days.
 
-   Now pick the Time. Check the box if you want to use [Recipient Time Zone](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(i.e., deliver according to local time zones), then click Save.
+   Now pick the Time. Check the box if you want to use [Recipient Time Zone](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(i.e., deliver according to local time zones), then click **Save**.
+
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
@@ -65,7 +66,7 @@ That's it! Keep reading if you want to setup a monthly cadence.
 
 ## Monthly {#monthly}
 
-1. Select **Monthly **for how often it repeats.
+1. Select **Monthly** for how often it repeats.
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -101,7 +102,5 @@ Now you know how to set up a stream cadence!
 
 >[!MORELIKETHIS]
 >
->* [Understanding Recipient Time Zone](../../../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [Schedule Engagement Programs with Recipient Time Zone](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
->
-
+>* [Understanding Recipient Time Zone](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [Schedule Engagement Programs with Recipient Time Zone](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)

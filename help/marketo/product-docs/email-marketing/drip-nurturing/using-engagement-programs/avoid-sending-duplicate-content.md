@@ -12,7 +12,7 @@ Here are seven possible scenarios and results to be aware of to prevent sending 
 
 ## Scenarios {#scenarios}
 
-A person receives an email that is sent from the Customer Engagement Engine. 
+A person receives an email that is sent from the Customer Engagement Engine.
 
 | The email is sent from |The person is |Person gets email |
 |---|---|---|
@@ -23,4 +23,3 @@ A person receives an email that is sent from the Customer Engagement Engine.
 | A campaign within a default program that's triggered from a cast within a **different** CEE program |A member of the default program |No |
 | A campaign within a default program that's triggered from a cast within a **different** CEE program |Not a member of the default program |Yes |
 | A **different** CEE program using a smart stream |A member of both CEE programs |No |
-

@@ -36,9 +36,8 @@ Follow these easy steps to schedule an email.
    >
    >Scheduled emails can be viewed/edited in the scheduled folders section of the Command Center.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >
    >[Command Center Overview](http://docs.marketo.com/x/kgDb)

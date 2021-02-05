@@ -8,9 +8,8 @@ title: Build a Program Membership Analysis Report that Lists Leads
 
 Follow these steps to create a Program Membership Analysis report that will show you all program member names.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 

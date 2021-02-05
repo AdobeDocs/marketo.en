@@ -74,9 +74,7 @@ Good work! These segments are going to come in handy in lots of places in Market
 >
 >The People (Draft) screen shows all people that qualify to be a member and is not always the final list of people. Approve your segment to see the final list.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Approve a Segmentation](approve-a-segmentation.md)
 >

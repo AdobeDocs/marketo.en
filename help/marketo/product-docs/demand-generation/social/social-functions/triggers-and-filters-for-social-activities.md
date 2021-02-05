@@ -8,17 +8,15 @@ title: Triggers and Filters for Social Activities
 
 Social apps in Marketo have their own special triggers and filters.
 
->[!NOTE]
->
->**Availability**
+>[!AVAILABILITY]
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
-1. To use social *triggers*, select your smart campaign and click the **Smart List** tab. On the right, click the + to expand **Triggers**, then **Social**.
+1. To use social _triggers_, select your smart campaign and click the **Smart List** tab. On the right, click the + to expand **Triggers**, then **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. To use social *filters*, click the **+** to expand the **Filters**.
+1. To use social _filters_, click the **+** to expand the **Filters**.
 
    ![](assets/two-282-29.png)
 
@@ -37,8 +35,6 @@ Social apps in Marketo have their own special triggers and filters.
    | Votes in Poll |  | ![(tick)](assets/check.svg) |  |  |  |
    | Wins Sweepstakes |  |  |  |  | ![(tick)](assets/check.svg) |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >* [View Social Performance](view-social-performance.md)
+   >[View Social Performance](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)

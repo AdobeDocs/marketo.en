@@ -6,7 +6,7 @@ title: Template 18-D
 
 # Template 18-D {#template-d}
 
-Right-click to [Download Template 18-D](http://docs.marketo.com/download/attachments/9438215/template-18d.html?version=1&modificationdate=1439843287000&api=v2)
+[Download Template 18-D](https://docs.marketo.com/download/attachments/9438215/template-18d.html?version=1&modificationdate=1439843287000&api=v2)
 
 ![](assets/image2015-8-17-18-3a21-3a27.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Five body sections (optional)
 * Footer (optional)
 
-Right-click below to download this template:
+**Click below to download this template:**
 
-[Template18-D.html](http://docs.marketo.com/download/attachments/9438215/template-18d.html?version=1&modificationdate=1439843287000&api=v2)
+[Template18-D.html](https://docs.marketo.com/download/attachments/9438215/template-18d.html?version=1&modificationdate=1439843287000&api=v2)

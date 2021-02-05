@@ -41,9 +41,8 @@ Here's how to get started.
 
 1. A new window opens with different test type options. Read the Related Articles below to learn about each.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

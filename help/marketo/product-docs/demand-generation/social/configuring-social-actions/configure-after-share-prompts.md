@@ -16,7 +16,7 @@ In social button, video share, and poll apps, you can choose what happens after 
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. In the social app editor, go to **App Settings**** **and then **Advanced Options**.
+1. In the social app editor, go to **App Settings** and then **Advanced Options**.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
@@ -50,4 +50,3 @@ In social button, video share, and poll apps, you can choose what happens after 
 1. Edit the request for email address and the marketing prompt (if you included it).
 
    ![](assets/image2015-4-21-12-3a52-3a49.png)
-

@@ -63,9 +63,7 @@ Use Dynamic Content in Emails to send your leads targeted information.
 
 Sweet! Now you can send flexible emails to your target audience. 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Preview an Email with Dynamic Content](preview-an-email-with-dynamic-content.md)
 >* [Use Dynamic Content in a Landing Page](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)

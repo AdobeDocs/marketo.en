@@ -255,9 +255,7 @@ Create a new dashboard called **RTP Engagement Dashboard** and define the follow
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Integrate RTP with Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
 >

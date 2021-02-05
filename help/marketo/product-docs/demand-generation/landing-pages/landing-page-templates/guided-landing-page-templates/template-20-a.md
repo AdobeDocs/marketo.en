@@ -6,7 +6,7 @@ title: Template 20-A
 
 # Template 20-A {#template-a}
 
-Right-click to [Download Template 20-A](http://docs.marketo.com/download/attachments/10092905/template-20a.html?version=1&modificationdate=1441750550000&api=v2)
+[Download Template 20-A](https://docs.marketo.com/download/attachments/10092905/template-20a.html?version=1&modificationdate=1441750550000&api=v2)
 
 ![](assets/image2015-9-18-9-3a1-3a49.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 * Four body sections (optional)
 * Footer (optional)
 
-Right-click below to download this template:
+**Click below to download this template:**
 
-[Template20-A.html](http://docs.marketo.com/download/attachments/10092905/template-20a.html?version=1&modificationdate=1441750550000&api=v2)
+[Template20-A.html](https://docs.marketo.com/download/attachments/10092905/template-20a.html?version=1&modificationdate=1441750550000&api=v2)

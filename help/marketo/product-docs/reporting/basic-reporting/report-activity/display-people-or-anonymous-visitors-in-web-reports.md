@@ -32,9 +32,7 @@ In the [Web Page Activity](../../../../product-docs/reporting/basic-reporting/re
 
    ![](assets/image2015-3-10-11-3a48-3a36.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Tracking Anonymous Activity and People](tracking-anonymous-activity-and-people.md)
 >

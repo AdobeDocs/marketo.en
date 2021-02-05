@@ -35,9 +35,8 @@ Marketo will send you reports on how the email test is going. Here's how to sche
 
    The report will include helpful details, such as: test type, winner criteria, number of email opens, and more. There will also be a direct link to the test itself, allowing you to declare the winner! Cool stuff.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

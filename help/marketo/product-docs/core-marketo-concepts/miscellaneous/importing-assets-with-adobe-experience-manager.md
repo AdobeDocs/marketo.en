@@ -8,9 +8,8 @@ title: Importing Assets with Adobe Experience Manager
 
 The Asset Picker allows Marketo customers to access, select, and import AEM assets into Marketo's Design Studio. **Admin permissions are required**.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Not all customers have purchased this feature. Please contact your Customer Success Manager for details.
 

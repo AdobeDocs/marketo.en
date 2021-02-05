@@ -10,9 +10,8 @@ Send push notifications to your customer base by connecting your mobile app with
 
 Apps normally start out in a sandbox environment, where initial development and testing are performed. Developers then use a production environment to build the final app that will be used by customers. You must select the appropriate notification certificate when adding a mobile app (see step 4 below).
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 

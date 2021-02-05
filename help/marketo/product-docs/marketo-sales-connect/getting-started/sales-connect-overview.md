@@ -8,9 +8,8 @@ title: Sales Connect Overview
 
 Marketo Sales Connect is a multi-faceted sales support solution with a variety of functions, helping you drive engagement throughout the sales cycle.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Not all customers have purchased this functionality. Contact your Customer Success Manager for more information.
 

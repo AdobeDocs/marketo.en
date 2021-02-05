@@ -6,7 +6,7 @@ title: Template 8-D
 
 # Template 8-D {#template-d}
 
-Right-click to [Download Template 8-D](http://docs.marketo.com/download/attachments/8783969/template-8d.html?version=1&modificationdate=1482175093000&api=v2)
+[Download Template 8-D](https://docs.marketo.com/download/attachments/8783969/template-8d.html?version=1&modificationdate=1482175093000&api=v2)
 
 ![](assets/image2015-7-29-14-3a28-3a56.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Five body sections (optional)
 * A footer (optional)
 
-Right-click below to download this template:
+**Click below to download this template:**
 
-[Template8-D.html](http://docs.marketo.com/download/attachments/8783969/template-8d.html?version=1&modificationdate=1482175093000&api=v2)
+[Template8-D.html](https://docs.marketo.com/download/attachments/8783969/template-8d.html?version=1&modificationdate=1482175093000&api=v2)

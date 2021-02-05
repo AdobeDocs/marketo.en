@@ -48,9 +48,8 @@ Want to try out a different From Address with no fuss? Here's how.
 
    Progress! Let's keep on it.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

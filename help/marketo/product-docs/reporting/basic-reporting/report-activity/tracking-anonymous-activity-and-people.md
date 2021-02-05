@@ -30,9 +30,8 @@ The first time someone visits a Marketo [landing page](../../../../product-docs/
    >
    >When anonymous records are merged into a new or existing person record, custom field values will **not** transfer over.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

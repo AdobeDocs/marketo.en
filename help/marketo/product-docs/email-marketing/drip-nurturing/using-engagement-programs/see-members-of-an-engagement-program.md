@@ -8,15 +8,14 @@ title: See Members of an Engagement Program
 
 You can quickly see members of an engagement program. Here's how.
 
-1. From your engagement program, right-click and select **View Members.**
+1. From your engagement program, right-click and select **View Members**.
 
    ![](assets/membersofengagement.jpg)
 
    >[!NOTE]
    >
-   >The  [Exhausted Content](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) column value is updated after every cast.
+   >The  [Exhausted Content](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) column value is updated after every cast.
 
 1. You can now see all members of your program.
 
    ![](assets/image2014-9-15-17-3a17-3a26.png)
-

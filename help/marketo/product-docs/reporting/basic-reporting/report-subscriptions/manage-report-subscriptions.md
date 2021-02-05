@@ -58,9 +58,8 @@ Configure and delete report subscriptions.
 
    ![](assets/image2014-9-16-10-3a36-3a43.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    
