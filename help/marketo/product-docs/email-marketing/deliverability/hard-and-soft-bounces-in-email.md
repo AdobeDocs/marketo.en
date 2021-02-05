@@ -26,7 +26,7 @@ There are 5 person strings in Marketo that are related to troubled email deliver
 
 >[!PREREQUISITES]
 >
->Follow [these steps](/help/marketooduct-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) to create an Email Performance Report, which will generate bounce data.
+>Follow [these steps](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) to create an Email Performance Report, which will generate bounce data.
 
 After creating your Email Performance Report, your screen should look something like this:
 
