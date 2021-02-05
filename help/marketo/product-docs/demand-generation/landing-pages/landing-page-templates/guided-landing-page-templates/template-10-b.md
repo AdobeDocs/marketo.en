@@ -6,7 +6,7 @@ title: Template 10-B
 
 # Template 10-B {#template-b}
 
-Right-click to [Download Template 10-B](http://docs.marketo.com/download/attachments/8784002/template-10b.html?version=2&modificationdate=1438210889000&api=v2)
+[Download Template 10-B](https://docs.marketo.com/download/attachments/8784002/template-10b.html?version=2&modificationdate=1438210889000&api=v2)
 
 ![](assets/image2015-7-27-10-3a48-3a23.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 * Three body sections (optional)
 * A footer (optional)
 
-**Right-click below to download this template:**
+**Click below to download this template:**
 
-[Template10-B.html](http://docs.marketo.com/download/attachments/8784002/template-10b.html?version=2&modificationdate=1438210889000&api=v2)
+[Template10-B.html](https://docs.marketo.com/download/attachments/8784002/template-10b.html?version=2&modificationdate=1438210889000&api=v2)

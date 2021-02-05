@@ -24,13 +24,13 @@ As usual, there are pros and cons to both options.
 
 **Pros and Cons of a Dedicated IP**
 
-*Pros*
+_Pros_
 
 **Reputation** - You wholly own your reputation and deliverability.  
 **Monitoring** - Monitoring your deliverability reporting enables you to respond quickly to changes in your delivery metrics.  
 **Issue resolution** - It's easier to research, understand, and resolve delivery issues.
 
-*Cons*
+_Cons_
 
 **Volume changes** - Spikes in volume can negatively affect your reputation and need to be managed.  
 **IP warm-up process** - Reputation is is built over time. Some Internet Service Providers (ISPs) throttle IP addresses with no volume history, so you will have to build a reputation over the first few weeks (Marketo can help guide you).  
@@ -38,20 +38,20 @@ As usual, there are pros and cons to both options.
 
 **Pros and Cons of a Shared IP**
 
-*Pros*
+_Pros_
 
-**Good roommates **- If the folks you're sharing your IP with follow best sending practices, you would benefit.  
-**Mailing frequency **- There is no minimum mailing frequency needed to qualify for a shared IP, unlike with Dedicated IPs.  
-**Cost **- There is never an additional charge to send from a Shared IP.
+**Good roommates** - If the folks you're sharing your IP with follow best sending practices, you would benefit.  
+**Mailing frequency** - There is no minimum mailing frequency needed to qualify for a shared IP, unlike with Dedicated IPs.  
+**Cost** - There is never an additional charge to send from a Shared IP.
 
-*Cons*
+_Cons_
 
 **Bad roommates** - If the folks you're sharing your IP with engage in poor sending practices, your email campaigns could be adversely affected.  
-**Control **- You have much less control over your sender reputation.  
-**Issue Resolution **- It can often be more difficult to resolve an issue when sending from Shared IPs.
+**Control** - You have much less control over your sender reputation.  
+**Issue Resolution** - It can often be more difficult to resolve an issue when sending from Shared IPs.
 
 >[!NOTE]
 >
 >When making a decision, there's another important factor to consider: sending volume. If you plan to send less than 100,000 emails a month, or less than two mailings in a month, you probably wouldn't benefit from a Dedicated IP. Sending numbers like that are considered low, and it would be difficult to keep your Dedicated IP "warm" enough to be considered safe by the main ISPs. Basically, if you don't mail frequently enough, the ISPs will see a mailing as a sudden "surge" of activity, and may end up blocking it as suspected spam.
 
-If you have any questions, or are interested in setting up a Dedicated IP, please contact your Marketo sales rep. 
+If you have any questions, or are interested in setting up a Dedicated IP, please contact your Marketo sales rep.

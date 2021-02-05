@@ -20,9 +20,8 @@ From a [Web Page Activity report](../../../../../product-docs/reporting/basic-re
 
    ![](assets/image2014-9-16-14-3a54-3a12.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >
    >Create a  [Company Web Activity report](../../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) to see which companies are visiting your site.

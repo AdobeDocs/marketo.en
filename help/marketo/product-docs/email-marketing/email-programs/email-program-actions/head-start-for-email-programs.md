@@ -66,9 +66,7 @@ When you choose a date/time for an Email Program, it determines when the program
 
    [Learn more](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) about how to schedule email programs with Recipient Time Zone.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Schedule Your Email Program](schedule-your-email-program.md)
 >* [Schedule Email Programs with Recipient Time Zone](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)

@@ -8,9 +8,8 @@ title: Marketo Sandbox
 
 A Marketo sandbox is an additional instance used for testing purposes before implementation in the production environment.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Not all customers have purchased this feature. Please contact your Customer Success Manager for details.
 

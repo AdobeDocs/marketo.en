@@ -65,9 +65,8 @@ You can use predictive content activities in triggers and filters when you defin
 
    [define a smart list for a batch smart campaign](../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

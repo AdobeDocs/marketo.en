@@ -6,9 +6,8 @@ title: Add an Attachment
 
 # Add an Attachment {#add-an-attachment}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Adding attachments is available if you're using Marketo Sales Connect. It is not available in Marketo's standard email editor.
 

@@ -20,7 +20,6 @@ You can personalize the DKIM signature to reflect the domain(s) of your choice. 
 
    >[!NOTE]
    >
-   >
    >If you set up a custom DKIM signature the old-fashioned way, it will continue to work and should show up here.
 
 1. Click **Email**, then the **DKIM** tab, and finally **Add Domain**.
@@ -30,7 +29,6 @@ You can personalize the DKIM signature to reflect the domain(s) of your choice. 
 1. Enter the domain you will be using in Marketo emails as the From Address and click **Add**.
 
    >[!TIP]
-   >
    >
    >If you use a different domain in your From Address, we will use the Marketo shared DKIM signature.
 
@@ -46,14 +44,10 @@ You can personalize the DKIM signature to reflect the domain(s) of your choice. 
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
    >If the confirmation fails and your IT has created the record correctly, it may be a matter of DNS propagation. Try again later.
 
    >[!CAUTION]
    >
-   >
    >Modifying/removing the corresponding DNS record will result in harmed deliverability. Make sure to delete the entry in Marketo before making DNS changes.
 
    This will absolutely help with your email deliverability. You should get validation that the record is there and correct.
-

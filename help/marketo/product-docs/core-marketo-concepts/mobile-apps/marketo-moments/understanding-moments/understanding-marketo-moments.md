@@ -8,9 +8,8 @@ title: Understanding Marketo Moments
 
 The power of Marketo is now in your hands, literally! Preview and reschedule emails right from your phone or iPad.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Access Mobile Apps permission is required. Contact your Marketo Admin to [update your role](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 

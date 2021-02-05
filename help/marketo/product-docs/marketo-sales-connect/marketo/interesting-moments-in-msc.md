@@ -8,9 +8,8 @@ title: Interesting Moments in MSC
 
 Interesting moments are the key to communicating with your sales team through Marketo Sales Connect. 
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >These are available to [Marketo Sales Insight](http://docs.marketo.com/x/2Akt) and Marketo Sales Connect customers only.
 

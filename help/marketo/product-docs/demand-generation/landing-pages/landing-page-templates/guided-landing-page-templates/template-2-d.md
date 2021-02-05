@@ -6,7 +6,7 @@ title: Template 2-D
 
 # Template 2-D {#template-d}
 
-Right-click to [Download Template 2-D](http://docs.marketo.com/download/attachments/7516478/template2-d.html?version=1&modificationdate=1433229358000&api=v2)
+[Download Template 2-D](https://docs.marketo.com/download/attachments/7516478/template2-d.html?version=1&modificationdate=1433229358000&api=v2)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * One body section with text and poll (optional)
 * Footer (optional)
 
-**Right-click below to download this template:**
+**Click below to download this template:**
 
-[Template2-D.html](http://docs.marketo.com/download/attachments/7516478/template2-d.html?version=1&modificationdate=1433229358000&api=v2)
+[Template2-D.html](https://docs.marketo.com/download/attachments/7516478/template2-d.html?version=1&modificationdate=1433229358000&api=v2)

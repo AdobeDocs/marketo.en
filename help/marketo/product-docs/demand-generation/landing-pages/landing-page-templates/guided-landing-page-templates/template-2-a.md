@@ -6,7 +6,7 @@ title: Template 2-A
 
 # Template 2-A {#template-a}
 
-Right-click to [Download Template 2-A](http://docs.marketo.com/download/attachments/7516467/template2-a.html?version=1&modificationdate=1433228945000&api=v2)
+[Download Template 2-A](https://docs.marketo.com/download/attachments/7516467/template2-a.html?version=1&modificationdate=1433228945000&api=v2)
 
 ![](assets/image2015-6-2-15-3a17-3a17.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * One body section (optional)
 * Footer (optional)
 
-**Right-click below to download this template:**
+**Click below to download this template:**
 
-[Template2-A.html](http://docs.marketo.com/download/attachments/7516467/template2-a.html?version=1&modificationdate=1433228945000&api=v2)
+[Template2-A.html](https://docs.marketo.com/download/attachments/7516467/template2-a.html?version=1&modificationdate=1433228945000&api=v2)

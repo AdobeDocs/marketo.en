@@ -24,9 +24,8 @@ Use columns to sort the data in your report and make the most important figures 
 
    ![](assets/image2014-9-16-10-3a47-3a50.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

@@ -28,5 +28,4 @@ You can turn off an engagement program with the flick of a switch. This will sto
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 
-   There you go! You can turn it back on using the same steps.
-
+There you go! You can turn it back on using the same steps.

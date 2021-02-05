@@ -32,9 +32,8 @@ After you've saved an analyzer, it's easy to clone it to create a new one. Then,
 
    ![](assets/image2016-10-31-16-3a17-3a11.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

@@ -12,9 +12,8 @@ You can see detailed program and channel stats in the Program Analyzer. You can 
 >
 >* [Create a Program Analyzer](create-a-program-analyzer.md)
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Not all Marketo editions include this functionality. Contact your account manager for more detail.
 

@@ -24,5 +24,6 @@ Engagement programs can hold more than one stream. Here's how to add a new one.
    >
    >You can add up to 25 streams per engagement program.
 
-   And... done!   ![](assets/image2014-9-15-16-3a56-3a27.png)
+   And... done!
 
+   ![](assets/image2014-9-15-16-3a56-3a27.png)

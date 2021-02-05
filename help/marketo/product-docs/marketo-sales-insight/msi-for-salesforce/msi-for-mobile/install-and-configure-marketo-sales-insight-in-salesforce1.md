@@ -156,9 +156,7 @@ title: Install and Configure Marketo Sales Insight in Salesforce1
 
 Phew! You're finally done installing Marketo Sales Insight for Salesforce1! Go ahead and give yourself a pat on the back.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Best Bets in Salesforce1](best-bets-in-salesforce1.md)
 >* [Interesting Moments in Salesforce1](interesting-moments-in-salesforce1.md)

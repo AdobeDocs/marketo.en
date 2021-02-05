@@ -6,7 +6,7 @@ title: Template 5-E
 
 # Template 5-E {#template-e}
 
-Right-click to [Download Template 5-E](http://docs.marketo.com/download/attachments/8783926/template-5e.html?version=1&modificationdate=1437693060000&api=v2)
+[Download Template 5-E](https://docs.marketo.com/download/attachments/8783926/template-5e.html?version=1&modificationdate=1437693060000&api=v2)
 
 ![](assets/image2015-7-29-15-3a24-3a40.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Three body sections (optional)
 * Footer (optional)
 
-Right-click below to download this template:
+**Click below to download this template:**
 
-[Template5-E.html](http://docs.marketo.com/download/attachments/8783926/template-5e.html?version=1&modificationdate=1437693060000&api=v2)
+[Template5-E.html](https://docs.marketo.com/download/attachments/8783926/template-5e.html?version=1&modificationdate=1437693060000&api=v2)

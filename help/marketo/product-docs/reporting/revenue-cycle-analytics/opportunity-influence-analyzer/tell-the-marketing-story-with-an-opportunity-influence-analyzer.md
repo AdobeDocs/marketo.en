@@ -53,9 +53,8 @@ Use an Opportunity Influence Analyzer to illustrate marketing's role in importan
 
    Click more orange dots along the timeline to fill out the story of the events, programs, and interesting moments that helped create and close the opportunity.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >
    >    

@@ -34,9 +34,8 @@ The final step in setting up your email test to approve it. Here's how.
 
    Wasn't that easy? Once you receive a few reports you will want to declare a champion.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

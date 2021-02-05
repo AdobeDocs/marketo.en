@@ -8,9 +8,7 @@ title: Email Deliverability Power Pack -How to Import a Seedlist
 
 A seed list is a list of email accounts at multiple mailbox providers, including Google Apps, Hotmail, Yahoo!, etc., that are used to approximate the rate of inbox versus spam folder deliverability. Here’s how to get that list into your Marketo instance.
 
->[!NOTE]
->
->**Availability**
+>[!AVAILABILITY]
 >
 >Not all customers have purchased this functionality. Contact your Sales Rep for details.
 
@@ -34,9 +32,9 @@ A seed list is a list of email accounts at multiple mailbox providers, including
 
    >[!NOTE]
    >
-   >Choose **Optimize List** if you want 250ok to [optimize your list](http://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) for you. Choose** Customize List** if you want to select the seedlist regions you'd like to include.
+   >Choose **Optimize List** if you want 250ok to [optimize your list](https://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) for you. Choose **Customize List** if you want to select the seedlist regions you'd like to include.
 
-1. After export, the list will appear as a .txt file in your browser’s downloads folder. Retrieve it, and [import](../../../getting-started/quick-wins/import-a-list-of-people.md) it into your Marketo instance as a static list.
+1. After export, the list will appear as a .txt file in your browser’s downloads folder. Retrieve it, and [import](/help/marketotting-started/quick-wins/import-a-list-of-people.md) it into your Marketo instance as a static list.
 
    ![](assets/five.png)
 
@@ -52,4 +50,4 @@ A seed list is a list of email accounts at multiple mailbox providers, including
 
    Your seedlist can change as often as every month. It's important to log in to the Email Deliverabilty Power Pack regularly and check the status of your seed list. When new addresses are added or an update is required on your end, you will be alerted through the interface on the Get Seedlist page.
 
-After your static list in Marketo is created, you can begin sending to it to test your email’s inbox placement. 
+After your static list in Marketo is created, you can begin sending to it to test your email’s inbox placement.

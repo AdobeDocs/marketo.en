@@ -39,9 +39,7 @@ To specify a location of the log files, you can specify the file path in the com
 
 Please refer to [Microsoft’s complete list of switches](https://support.microsoft.com/en-us/kb/227091) if you would like to try different logging levels or user interface levels. 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Marketo Outlook Plugin Uninstall by IT](marketo-outlook-plugin-uninstall-by-it.md)
 

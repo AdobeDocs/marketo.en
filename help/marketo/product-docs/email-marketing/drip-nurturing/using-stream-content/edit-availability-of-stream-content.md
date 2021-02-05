@@ -16,7 +16,7 @@ You can set a time frame for the content to be active in your stream. Here's how
 
    ![](assets/image2014-9-15-17-3a35-3a56.png)
 
-1. Select your **Active From** date, then the **Active Through **date and click **Save**.
+1. Select your **Active From** date, then the **Active Through** date and click **Save**.
 
    ![](assets/image2014-9-15-17-3a36-3a0.png)
 
@@ -24,5 +24,6 @@ You can set a time frame for the content to be active in your stream. Here's how
    >
    >You can leave **Active Through** blank to make content available forever.
 
-   Perfect! You will see the clock icon next to the scheduled content. It will become active and inactive according to the schedule you set.   ![](assets/image2014-9-15-17-3a36-3a4.png)
+   Perfect! You will see the clock icon next to the scheduled content. It will become active and inactive according to the schedule you set.
 
+   ![](assets/image2014-9-15-17-3a36-3a4.png)

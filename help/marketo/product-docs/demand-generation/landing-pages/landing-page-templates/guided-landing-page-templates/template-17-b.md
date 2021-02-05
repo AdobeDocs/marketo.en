@@ -6,7 +6,7 @@ title: Template 17-B
 
 # Template 17-B {#template-b}
 
-Right-click to [Download Template 17-B](http://docs.marketo.com/download/attachments/9438194/template-17b.html?version=1&modificationdate=1439842984000&api=v2)
+[Download Template 17-B](https://docs.marketo.com/download/attachments/9438194/template-17b.html?version=1&modificationdate=1439842984000&api=v2)
 
 ![](assets/image2015-8-17-16-3a50-3a15.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 * Six body sections (optional)
 * Footer (optional)
 
-Right-click below to download this template:
+**Click below to download this template:**
 
-[Template17-B.html](http://docs.marketo.com/download/attachments/9438194/template-17b.html?version=1&modificationdate=1439842984000&api=v2)
+[Template17-B.html](https://docs.marketo.com/download/attachments/9438194/template-17b.html?version=1&modificationdate=1439842984000&api=v2)

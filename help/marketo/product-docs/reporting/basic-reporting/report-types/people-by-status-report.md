@@ -20,9 +20,8 @@ Review how well you're moving people through the process by checking how many of
    >
    >Click the plus (+) to expand each month and see the specific numbers for each person status.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >
    >[Use a smart list to filter your report](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) to specific people.

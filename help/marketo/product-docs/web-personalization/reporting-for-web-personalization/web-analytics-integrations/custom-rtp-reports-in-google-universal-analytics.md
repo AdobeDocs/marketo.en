@@ -213,9 +213,7 @@ This post explains how to setup RTP custom reports for Google Universal Analytic
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Integrate RTP with Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
 >

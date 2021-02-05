@@ -34,9 +34,8 @@ The following features are on a non-quarterly cycle and will be released through
 * **Onboarding:** Step-by-step walkthrough makes onboarding easier and more efficient by guiding new users through instance setup.
 * **People Page Layout Enhancement:** Manage your people and groups through list imports and bulk actions in the new people page layout.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Features denoted by a star ( ![(star)](assets/star-yellow.svg)) are paid add-ons. Please contact your Marketo representative to learn more.
 

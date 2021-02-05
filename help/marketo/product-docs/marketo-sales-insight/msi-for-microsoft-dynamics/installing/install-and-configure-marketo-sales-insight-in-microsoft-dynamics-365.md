@@ -136,8 +136,6 @@ You need to give users permissions to use Sales Insight.
 
 You have now unlocked the power of Marketo Sales Insight for your sales team.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Setting up Stars and Flames for Lead/Contact Records](http://docs.marketo.com/x/BICMAg)

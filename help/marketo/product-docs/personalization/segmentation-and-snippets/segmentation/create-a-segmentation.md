@@ -54,9 +54,8 @@ Segmentation allows you to group people into distinct profiles for reporting and
    >
    >You need to define segment rules before you can use your Segmentation.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

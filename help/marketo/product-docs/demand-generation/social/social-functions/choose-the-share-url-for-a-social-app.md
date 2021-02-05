@@ -28,19 +28,12 @@ When you create a social app, you can choose which URL will be shared in the pos
    >
    >**Definition**
    >
-   >
    >Share Posts can link to three places:
    >
-   >    
-   >    
-   >    * **Referring Page**: The page that contains the app.
-   >    * **Other Landing Page**: A different Marketo landing page from the ones in the drop-down.
-   >    * **External URL**: A non-Marketo landing page.
-   >    
-   >
+   >* **Referring Page**: The page that contains the app.
+   >* **Other Landing Page**: A different Marketo landing page from the ones in the drop-down.
+   >* **External URL**: A non-Marketo landing page.
 
 >[!MORELIKETHIS]
 >
->* [Add Your Privacy Policy to a Social App](add-your-privacy-policy-to-a-social-app.md)
->
-
+>[Add Your Privacy Policy to a Social App](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)

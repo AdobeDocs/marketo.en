@@ -6,7 +6,7 @@ title: Template 12-F
 
 # Template 12-F {#template-f}
 
-Right-click to [Download Template 12-F](http://docs.marketo.com/download/attachments/9437589/template-12f.html?version=1&modificationdate=1438211692000&api=v2)
+[Download Template 12-F](https://docs.marketo.com/download/attachments/9437589/template-12f.html?version=1&modificationdate=1438211692000&api=v2)
 
 ![](assets/image2015-8-4-14-3a51-3a6.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Six body sections (optional)
 * Footer (optional)
 
-Right-click below to download this template:
+**Click below to download this template:**
 
-[Template12-F.html](http://docs.marketo.com/download/attachments/9437589/template-12f.html?version=1&modificationdate=1438211692000&api=v2)
+[Template12-F.html](https://docs.marketo.com/download/attachments/9437589/template-12f.html?version=1&modificationdate=1438211692000&api=v2)

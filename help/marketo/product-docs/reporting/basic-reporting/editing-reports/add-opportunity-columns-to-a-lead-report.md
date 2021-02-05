@@ -59,9 +59,8 @@ To see the statistics on opportunities in your [person reports](http://docs.mark
    | Days to Close |Average number of days to close opportunities. |
    | Days in Sales |Average length of the sales cycle (Days Until Opportunity + Days to Close). |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >
    >Learn how to [manage the size of your report](configure-report-size.md).

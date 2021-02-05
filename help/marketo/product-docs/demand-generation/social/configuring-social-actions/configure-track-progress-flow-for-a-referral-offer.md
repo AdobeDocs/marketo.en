@@ -6,9 +6,9 @@ title: Configure Track Progress Flow for a Referral Offer
 
 # Configure Track Progress Flow for a Referral Offer {#configure-track-progress-flow-for-a-referral-offer}
 
-When you  [create a referral offer](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you can configure the prompts that show participants their progress toward the reward.
+When you [create a referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you can configure the prompts that show participants their progress toward the reward.
 
-1. Go to **Marketing Activities**. 
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -20,7 +20,7 @@ When you  [create a referral offer](../../../../product-docs/demand-generation/s
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. In the **View** **&** **Edit** window, edit the prompt that reminds participants to sign in to the same social network they used to sign up for your offer.
+1. In the **View & Edit** window, edit the prompt that reminds participants to sign in to the same social network they used to sign up for your offer.
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
@@ -42,5 +42,4 @@ When you  [create a referral offer](../../../../product-docs/demand-generation/s
 
 >[!MORELIKETHIS]
 >
->Next, click **Finish > Approve and Close** and [publish your referral offer](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
-
+>Next, click **Finish** > **Approve and Close** and [publish your referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).

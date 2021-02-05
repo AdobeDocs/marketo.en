@@ -34,9 +34,8 @@ Many times, sales reps don't have administrative privileges on their laptops, an
 
    That's all! Next, the sales rep will go through the [registration process](authorize-the-marketo-outlook-plugin.md). You can send them a link to the instructions (see **Marketo Related Articles**).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

@@ -12,11 +12,11 @@ There are actually several different types of built-in unsubscribes in Marketo. 
 >
 >Marketo is in the process of changing terms such as Blacklist and Whitelist to Blocklist and Allowlist in our product. During this update, you may see the old terms in our UI and documentation screenshots, and the new terms in our documentation text. We apologize for any confusion.
 
-All of these fields are built-in to your Marketo subscription. They are all boolean (checkbox) type. They can be used in Forms or [Change Data Value](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) flow steps.
+All of these fields are built-in to your Marketo subscription. They are all boolean (checkbox) type. They can be used in Forms or [Change Data Value](/help/marketooduct-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) flow steps.
 
 ## Unsubscribed {#unsubscribed}
 
-This is used on the standard unsubscribe page. If a person checks this box, or clicks the unsubscribe link in an email, they will no longer receive marketing emails. They will, however, receive [operational emails](../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+This is used on the standard unsubscribe page. If a person checks this box, or clicks the unsubscribe link in an email, they will no longer receive marketing emails. They will, however, receive [operational emails](/help/marketooduct-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
 ## Marketing Suspended {#marketing-suspended}
 
@@ -32,7 +32,6 @@ This status blocks a person from mailings for 24 hours after a hard bounce occur
 
 ## Blocklisted {#blocklisted}
 
-[Use this for people like competitors](http://docs.marketo.com/x/uwOQ). Anyone you want receiving **no** emails—operational, marketing, etc. They get nothing!
+[Use this for people like competitors](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Anyone you want receiving **no** emails—operational, marketing, etc. They get nothing!
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)
-

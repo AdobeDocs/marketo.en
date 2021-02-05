@@ -19,4 +19,3 @@ When you've enabled LinkedIn Lead Gen Forms, you can use them as filters and tri
 1. Add constraints to further confine your results.
 
    ![](assets/lead-gen-constraints.png)
-

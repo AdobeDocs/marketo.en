@@ -16,11 +16,11 @@ Once you've added all your content to a stream, you can test them out one piece 
 
    ![](assets/two.png)
 
-1. Click** Program Actions** and select **Test Stream**.
+1. Click **Program Actions** and select **Test Stream**.
 
    ![](assets/three.png)
 
-1. Select your person from the **Test Person **drop-down. Remember, content will actually go out, so keep that in mind when choosing.
+1. Select your person from the **Test Person** drop-down. Remember, content will actually go out, so keep that in mind when choosing.
 
    ![](assets/four-rubix.png)
 
@@ -35,7 +35,7 @@ Once you've added all your content to a stream, you can test them out one piece 
    Click Initial Stream, select the stream you want to test and click Run Cast.
    ![](assets/five-rubiks.png)
 
-1. After the person goes through the [transition rules](transition-people-between-engagement-streams.md) you previously set up, click the Refresh icon.
+1. After the person goes through the [transition rules](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) you previously set up, click the Refresh icon.
 
    ![](assets/six-rubiks.png)
 
@@ -47,5 +47,4 @@ Once you've added all your content to a stream, you can test them out one piece 
 
    >[!NOTE]
    >
-   >No other content will be sent unless you click **Run Cast **again.
-
+   >No other content will be sent unless you click **Run Cast again**.

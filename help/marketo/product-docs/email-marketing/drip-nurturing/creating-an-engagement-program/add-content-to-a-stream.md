@@ -78,9 +78,6 @@ Once you've created your engagement program, you need to add content to the stre
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >The smart campaign must have the **Member of Engagement Program** filter in it for this to work properly.
 
 **Stream + Icon**
@@ -111,6 +108,4 @@ Great job! You now know different ways of adding content to your program streams
 
 >[!MORELIKETHIS]
 >
->* [Adding a Program to an Engagement Program Stream](adding-a-program-to-an-engagement-program-stream.md)
->
-
+>[Adding a Program to an Engagement Program Stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)

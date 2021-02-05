@@ -6,7 +6,7 @@ title: Template 8-A
 
 # Template 8-A {#template-a}
 
-Right-click to [Download Template 8-A](http://docs.marketo.com/download/attachments/8783960/template-8a.html?version=1&modificationdate=1482174907000&api=v2)
+[Download Template 8-A](https://docs.marketo.com/download/attachments/8783960/template-8a.html?version=1&modificationdate=1482174907000&api=v2)
 
 ![](assets/image2015-7-29-9-3a53-3a6.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Five body sections (optional)
 * A footer (optional)
 
-Right-click below to download this template:
+**Click below to download this template:**
 
-[Template8-A.html](http://docs.marketo.com/download/attachments/8783960/template-8a.html?version=1&modificationdate=1482174907000&api=v2)
+[Template8-A.html](https://docs.marketo.com/download/attachments/8783960/template-8a.html?version=1&modificationdate=1482174907000&api=v2)

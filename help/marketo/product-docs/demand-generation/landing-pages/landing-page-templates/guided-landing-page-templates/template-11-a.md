@@ -6,7 +6,7 @@ title: Template 11-A
 
 # Template 11-A {#template-a}
 
-Right-click to [Download Template 11-A](http://docs.marketo.com/download/attachments/9437556/template-11a.html?version=1&modificationdate=1438211253000&api=v2)
+[Download Template 11-A](https://docs.marketo.com/download/attachments/9437556/template-11a.html?version=1&modificationdate=1438211253000&api=v2)
 
 ![](assets/image2015-8-4-9-3a56-3a23.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Four body sections (optional)
 * Footer (optional)
 
-Right-click below to download this template:
+**Click below to download this template:**
 
-[Template11-A.html](http://docs.marketo.com/download/attachments/9437556/template-11a.html?version=1&modificationdate=1438211253000&api=v2)
+[Template11-A.html](https://docs.marketo.com/download/attachments/9437556/template-11a.html?version=1&modificationdate=1438211253000&api=v2)

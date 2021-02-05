@@ -68,9 +68,7 @@ Once you  [create an email program](../../../../product-docs/email-marketing/ema
 >
 >Use the  ![--](assets/image2014-10-23-16-3a32-3a36.png) button on the Audience tile to see how many people will receive the email.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Choose an Existing Email](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
 >* [Create an Email for an Email Program](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)

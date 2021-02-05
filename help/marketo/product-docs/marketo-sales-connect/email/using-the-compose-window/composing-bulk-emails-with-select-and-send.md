@@ -86,9 +86,8 @@ Complete Bulk Updates before customizing each email, as making a bulk update ove
 
    ![](assets/each-four.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

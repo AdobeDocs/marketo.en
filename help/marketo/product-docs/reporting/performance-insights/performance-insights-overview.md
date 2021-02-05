@@ -8,9 +8,8 @@ title: Performance Insights Overview
 
 Marketo Performance Insights helps you optimize your channel mix for maximum effectiveness, as well as uncover long-term trends to spot consistent winning strategies.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Not all customers have the Performance Insights feature. Please contact your Customer Success Manager for more information.
 

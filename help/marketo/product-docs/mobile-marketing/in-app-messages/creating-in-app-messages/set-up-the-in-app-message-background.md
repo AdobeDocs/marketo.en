@@ -62,9 +62,8 @@ Selecting a message background is an important step in finishing up your in-app 
 
    [set up the Dismiss button](set-up-the-dismiss-button-and-approve-the-message.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

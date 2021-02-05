@@ -62,9 +62,7 @@ Create a  [Web Page Activity report](web-page-activity-report.md) to see the ind
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Display People or Anonymous Visitors in Web Reports](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
 

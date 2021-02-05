@@ -120,9 +120,7 @@ For additional details, see [Facebook's documentation](https://developers.facebo
 
 1. You are now all set up with a personalized remarketing campaign in Facebook.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Retargeting with Web Personalization Data](retargeting-with-web-personalization-data.md)
 >* [Personalized Remarketing in Google](personalized-remarketing-in-google.md)

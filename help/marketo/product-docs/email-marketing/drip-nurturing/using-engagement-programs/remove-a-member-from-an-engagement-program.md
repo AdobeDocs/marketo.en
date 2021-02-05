@@ -10,7 +10,7 @@ Oops! How did those people get in there? You can remove members from an engageme
 
 >[!TIP]
 >
->Don't use this to pause content for a person. That will eliminate all attribution in analytics.  Learn more about how to [pause people in an engagement program](pause-people-in-an-engagement-program.md).
+>Don't use this to pause content for a person. That will eliminate all attribution in analytics. Learn more about how to [pause people in an engagement program](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
 
 ## Flow Step {#flow-step}
 
@@ -22,7 +22,7 @@ Oops! How did those people get in there? You can remove members from an engageme
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   Groovy. All the members you've defined in the [smart list](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) will no longer be in this engagement program.
+   Groovy. All the members you've defined in the [smart list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) will no longer be in this engagement program.
 
 ## Pause People  {#pause-people}
 
@@ -30,4 +30,4 @@ Sometimes you just want to pause people in an engagement program and not remove 
 
 >[!MORELIKETHIS]
 >
->* [Pause People in an Engagement Program](pause-people-in-an-engagement-program.md)
+>[Pause People in an Engagement Program](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)

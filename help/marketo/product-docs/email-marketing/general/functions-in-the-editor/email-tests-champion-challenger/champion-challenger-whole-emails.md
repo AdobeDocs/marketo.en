@@ -48,9 +48,8 @@ Test whole emails against each other. When the test is over, send out the top pe
 
 1. Progress! Let's keep on it.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

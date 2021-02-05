@@ -43,9 +43,8 @@ You can easily A/B test your emails. One of the most common tests is the **Subje
 
    Okay, we're almost there. Now we need to [define the A/B test winner criteria](define-the-a-b-test-winner-criteria.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

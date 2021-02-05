@@ -20,9 +20,8 @@ You can choose which columns are and are not included in your report.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

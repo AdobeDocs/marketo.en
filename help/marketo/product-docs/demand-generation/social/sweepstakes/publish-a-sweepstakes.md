@@ -6,17 +6,13 @@ title: Publish a Sweepstakes
 
 # Publish a Sweepstakes {#publish-a-sweepstakes}
 
-After you  [create a sweepstakes](create-sweepstakes.md), you can publish it on your Marketo landing pages, on your website, and your Facebook.
+After you [create a sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), you can publish it on your Marketo landing pages, on your website, and your Facebook.
 
->[!NOTE]
->
->**Availability**
+>[!AVAILABILITY]
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
 >[!NOTE]
->
->**Reminder**
 >
 >Before you publish your offer, confirm that it complies with all applicable laws, rules, and regulations.
 
@@ -34,12 +30,9 @@ After you  [create a sweepstakes](create-sweepstakes.md), you can publish it on 
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >You need to approve your sweepstakes in order to make it available here.
 
-   [publish the landing page to Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [put the sweepstakes on your website](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   Congratulations! Approve the landing page and your sweepstakes is live. You can also [publish the landing page to Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) or [put the sweepstakes on your website](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
    >[!TIP]
    >
@@ -47,6 +40,4 @@ After you  [create a sweepstakes](create-sweepstakes.md), you can publish it on 
 
    >[!NOTE]
    >
-   >Once people start signing up, remember to return to the app to [select the sweepstakes winners](select-sweepstakes-winners.md)!
-
-Congratulations! Approve the landing page and your sweepstakes is live. You can also  or . 
+   >Once people start signing up, remember to return to the app to [select the sweepstakes winners](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)!

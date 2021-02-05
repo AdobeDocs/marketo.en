@@ -6,21 +6,21 @@ title: The Engagement Dashboard
 
 # The Engagement Dashboard {#the-engagement-dashboard}
 
-The Engagement Dashboard is the easiest way to see how the content in your [engagement programs](http://docs.marketo.com/display/docs/drip+nurturing) is performing.
+The Engagement Dashboard is the easiest way to see how the content in your engagement program is performing.
 
 >[!NOTE]
 >
->The engagement score is calculated 72 hours after each cast. Learn more about the [engagement score](understanding-the-engagement-score.md).
+>The engagement score is calculated 72 hours after each cast. Learn more about the [engagement score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ## View the Engagement Dashboard {#view-the-engagement-dashboard}
 
-Select your engagement program and click **View > Dashboard**.
+Select your engagement program and click **View** > **Dashboard**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->Check out the  [engagement stream performance report](engagement-stream-performance-report.md) for more detailed statistics.
+>Check out the [engagement stream performance report](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) for more detailed statistics.
 
 ## Understand the Exhaustion Widget {#understand-the-exhaustion-widget}
 
@@ -40,9 +40,7 @@ This widget helps you anticipate when leads will have exhausted all content. The
 
 Shows the average engagement score over time and the impact of content edits.
 
->[!NOTE]
->
->**Availability**
+>[!AVAILABILITY]
 >
 >This feature is available as an add-on for customers who utilize Marketo's Revenue Cycle Explorer. Please contact your Customer Success Manager for additional details.
 
@@ -62,11 +60,8 @@ To change the sorting, click the gear icon, then select the sort order.
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-*Newest* and *Oldest* are based on time of last approval.
+_Newest_ and _Oldest_ are based on time of last approval.
 
 >[!NOTE]
 >
->**Deep Dive**
->
->Learn more in the  [Create an Engagement Program](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) deep dive.
-
+>Learn more in the [Create an Engagement Program](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) deep dive.

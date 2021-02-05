@@ -75,9 +75,8 @@ You can choose to display known people or anonymous people, but not both kinds o
    >
    >Thrill your sales reps! [Filter the report](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)for their territory and [subscribe them to it](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >* [Web Pages Viewed, Web Page Activity Report](web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
    >* [Display People or Anonymous Visitors in Web Reports](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)

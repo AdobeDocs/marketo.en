@@ -8,9 +8,8 @@ title: Release Notes -July '20
 
 The following features are included in the July '20 release. Check your Marketo edition for feature availability.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Please note that, depending on your current package, items with a star ( ![(star)](assets/star-yellow.svg)) may require the purchase of a value add-on. Please contact your Marketo Engage representative to learn more.
 

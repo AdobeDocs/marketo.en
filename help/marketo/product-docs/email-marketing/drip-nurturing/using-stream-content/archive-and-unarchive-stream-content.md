@@ -6,7 +6,7 @@ title: Archive and Unarchive Stream Content
 
 # Archive and Unarchive Stream Content {#archive-and-unarchive-stream-content}
 
-If you no longer want to use a piece of content in a stream you can either [remove](remove-stream-content.md) it or archive it. Here's how to archive content.
+If you no longer want to use a piece of content in a stream you can either [remove](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) it or archive it. Here's how to archive content.
 
 >[!TIP]
 >
@@ -26,11 +26,11 @@ If you no longer want to use a piece of content in a stream you can either [remo
 
 ## Unarchive Stream Content {#unarchive-stream-content}
 
-1. Select your engagement program and go to the Streams tab.
+1. Select your engagement program and go to the **Streams** tab.
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. Click on the gear icon for your stream then click on Show archived content.
+1. Click on the gear icon for your stream then click **Show archived content**.
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
@@ -39,4 +39,3 @@ If you no longer want to use a piece of content in a stream you can either [remo
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
    Perfect! Now this content is available to be prioritized and activated.
-

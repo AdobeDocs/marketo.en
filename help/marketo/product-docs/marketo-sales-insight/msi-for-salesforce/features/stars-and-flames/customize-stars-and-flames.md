@@ -8,9 +8,8 @@ title: Customize Stars and Flames
 
 Marketo Sales Insight uses stars and flames to prioritize leads. Marketo automatically decides who gets 1-2-3 stars/flames. However, you can modify the formula. Here's how:
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 

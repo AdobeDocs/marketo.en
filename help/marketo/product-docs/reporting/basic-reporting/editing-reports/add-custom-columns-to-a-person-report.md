@@ -35,9 +35,8 @@ You can further filter the metrics in your [person reports](http://docs.marketo.
 
    ![](assets/five-1.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >
    >You can also [Add Opportunity Columns to a Lead Report](add-opportunity-columns-to-a-lead-report.md).

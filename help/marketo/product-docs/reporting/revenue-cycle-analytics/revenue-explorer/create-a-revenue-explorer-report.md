@@ -8,9 +8,8 @@ title: Create a Revenue Explorer Report
 
 The Revenue Explorer report allows you to track the ROI on your marketing initiatives.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 

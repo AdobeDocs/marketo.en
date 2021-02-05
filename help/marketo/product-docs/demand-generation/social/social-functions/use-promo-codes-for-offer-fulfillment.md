@@ -18,7 +18,7 @@ When you create a referral offer or a sweepstakes, you can send a promo (coupon)
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. In the referral offer editor, go to **App Settings** and then **Offer Details.**
+1. In the referral offer editor, go to **App Settings** and then **Offer Details**.
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
@@ -32,7 +32,6 @@ When you create a referral offer or a sweepstakes, you can send a promo (coupon)
 
    >[!CAUTION]
    >
-   >
    >Any white space in the promo codes file is treated as part of the code on that line. Be especially careful to avoid trailing spaces at the end of each line.
 
 1. When the upload is complete, the total number of uploaded codes is displayed.
@@ -45,7 +44,7 @@ Once participants start earning your offer reward, you can see which promo codes
 
 >[!NOTE]
 >
->Only Marketo users with *Access Awards* permission have access to this information. See  [Managing User Roles and Permissions](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Only Marketo users with _Access Awards_ permission have access to this information. See  [Managing User Roles and Permissions](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 1. Go to **Marketing Activities**.
 

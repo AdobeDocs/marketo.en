@@ -75,9 +75,7 @@ Learn how to perform bulk actions, like adding leads to a campaign, send a bulk 
 >
 >You can follow the same steps to use bulk actions in Contact List View as well.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Sending Emails via Group Email](http://docs.marketo.com/x/KAQ6Ag)
 >* [Composing Bulk Emails with Select and Send](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)

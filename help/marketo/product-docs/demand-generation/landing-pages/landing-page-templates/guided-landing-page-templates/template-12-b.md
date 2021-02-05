@@ -6,7 +6,7 @@ title: Template 12-B
 
 # Template 12-B {#template-b}
 
-Right-click to [Download Template 12-B](http://docs.marketo.com/download/attachments/9437577/template-12b.html?version=1&modificationdate=1438211540000&api=v2)
+[Download Template 12-B](https://docs.marketo.com/download/attachments/9437577/template-12b.html?version=1&modificationdate=1438211540000&api=v2)
 
 ![](assets/image2015-8-4-14-3a32-3a21.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Six body sections (optional)
 * Footer (optional)
 
-Right-click below to download this template:
+**Click below to download this template:**
 
-[Template12-B.html](http://docs.marketo.com/download/attachments/9437577/template-12b.html?version=1&modificationdate=1438211540000&api=v2)
+[Template12-B.html](https://docs.marketo.com/download/attachments/9437577/template-12b.html?version=1&modificationdate=1438211540000&api=v2)

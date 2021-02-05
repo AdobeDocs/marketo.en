@@ -47,9 +47,7 @@ A segmentation needs to be approved before it can used.
 >
 >If you get an error message during approval and require assistance in reducing the complexity of your segmentation, please contact [Marketo Support](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe).
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Use Segment Filters in a Smart List](use-segment-filters-in-a-smart-list.md)
 >

@@ -6,7 +6,7 @@ title: Template 11-F
 
 # Template 11-F {#template-f}
 
-Right-click to [Download Template 11-F](http://docs.marketo.com/download/attachments/9437571/template-11f.html?version=1&modificationdate=1438211465000&api=v2)
+[Download Template 11-F](https://docs.marketo.com/download/attachments/9437571/template-11f.html?version=1&modificationdate=1438211465000&api=v2)
 
 ![](assets/image2015-8-4-13-3a57-3a13.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Four body sections (optional)
 * Footer (optional)
 
-Right-click below to download this template:
+**Click below to download this template:**
 
-[Template11-F.html](http://docs.marketo.com/download/attachments/9437571/template-11f.html?version=1&modificationdate=1438211465000&api=v2)
+[Template11-F.html](https://docs.marketo.com/download/attachments/9437571/template-11f.html?version=1&modificationdate=1438211465000&api=v2)

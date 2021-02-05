@@ -50,7 +50,5 @@ Reporting changes with email location. So, for example, if the email is in the D
 
 >[!MORELIKETHIS]
 >
->* [Add Content to a Stream](add-content-to-a-stream.md)
->* [Understanding Programs](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
->
-
+>* [Add Content to a Stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [Understanding Programs](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)

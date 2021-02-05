@@ -26,9 +26,8 @@ You can change the order of the columns in a report.
 
    You can repeat these steps until the columns appear in the order that works best for you.  
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

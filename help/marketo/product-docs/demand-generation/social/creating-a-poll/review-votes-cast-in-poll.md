@@ -20,10 +20,6 @@ Who voted for what in your poll? Let's find out.
 
    ![](assets/image2015-5-12-14-3a37-3a24.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
-   >
-   >
-   >Learn more about the social reach and impact of your apps in [View Social Performance](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md).
-
+   >Learn more about the social reach and impact of your apps in [View Social Performance](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).

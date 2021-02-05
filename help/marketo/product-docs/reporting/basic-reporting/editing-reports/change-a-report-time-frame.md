@@ -39,9 +39,8 @@ Change the time period covered by your report, to focus on a specific time of ac
    Click the **Report** tab to see your report for the selected time frame.  
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >
    >To narrow your report by specific person attributes, you can [Filter People in a Report with a Smart List](filter-people-in-a-report-with-a-smart-list.md).

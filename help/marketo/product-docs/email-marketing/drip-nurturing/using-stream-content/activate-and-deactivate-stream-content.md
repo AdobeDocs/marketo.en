@@ -28,7 +28,7 @@ Stream content is OFF by default. Activate content to send them out during engag
 
    >[!TIP]
    >
-   >You can also activate all content in a stream by clicking the gear icon at the top level, then clicking **Activate all content.**
+   >You can also activate all content in a stream by clicking the gear icon at the top level, then clicking **Activate all content**.
 
    Nice work! Now you know how to activate content in your streams.
 
@@ -38,7 +38,6 @@ Stream content is OFF by default. Activate content to send them out during engag
 
    ![](assets/cloneasteam.jpg)
 
-1. Hover over the content you want to deactivate, click the gear icon, then click **Deactivate.**
+1. Hover over the content you want to deactivate, click the gear icon, then click **Deactivate**.
 
    ![](assets/image2014-9-15-16-3a34-3a25.png)
-

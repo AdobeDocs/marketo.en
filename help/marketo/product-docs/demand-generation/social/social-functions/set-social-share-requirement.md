@@ -6,7 +6,7 @@ title: Set Social Share Requirement
 
 # Set Social Share Requirement {#set-social-share-requirement}
 
-When you  [create a referral offer](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you can require people to share the offer in order to sign up, or make it optional.
+When you [create a referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you can require people to share the offer in order to sign up, or make it optional.
 
 1. Go to **Marketing Activities**.
 
@@ -24,10 +24,9 @@ When you  [create a referral offer](../../../../product-docs/demand-generation/s
 
    ![](assets/four.png)
 
-    * **Person Capture > Share**: Person can skip sharing and just sign up.
-    * **Share > Person Capture**: Person must share in order to sign up.
+    * **Person Capture** > **Share**: Person can skip sharing and just sign up.
+    * **Share** > **Person Capture**: Person must share in order to sign up.
 
 1. For each option, see the preview in the **View & Edit** window.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)
-

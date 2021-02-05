@@ -150,9 +150,7 @@ Set up user roles to give specific users access to Sales Insight.
 
    Congrats. You have now unleashed the power of Marketo Sales Insight.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >[Setting up Stars and Flames for Lead/Contact Records](http://docs.marketo.com/x/BICMAg)
 

@@ -28,9 +28,8 @@ It's easy to see how your push notifications are doing.
    >
    >The **Sent** metric may reflect more sends than the exact number of people to whom the the push notification was sent. That's because it's calculated based on the *number of devices* that qualify to receive your push. For example, if a single person has three devices, the dashboard registers three sends, not one.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

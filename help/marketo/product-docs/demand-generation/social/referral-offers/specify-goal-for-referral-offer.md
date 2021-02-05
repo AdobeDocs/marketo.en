@@ -6,9 +6,9 @@ title: Specify Goal for Referral Offer
 
 # Specify Goal for Referral Offer {#specify-goal-for-referral-offer}
 
-When you [create a referral offer](create-a-referral-offer.md), you need to define the fulfillment goal. The goal can be defined by person activity on the web page, such as page visits or sign-ups. You can even use a [custom JavaScript event](../../../../product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md).
+When you [create a referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you need to define the fulfillment goal. The goal can be defined by person activity on the web page, such as page visits or sign-ups. You can even use a [custom JavaScript event](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md).
 
-Alternatively, you can use a [smart list trigger](specify-goal-for-referral-offer.md) in Marketo to wait for any milestone, such as an opportunity being created for the referred person.
+Alternatively, you can use a smart list trigger in Marketo to wait for any milestone, such as an opportunity being created for the referred person.
 
 Example goals:
 
@@ -22,11 +22,11 @@ Example goals:
 
    ![](assets/ma.png)
 
-1. Select the referral offer, and click **Edit Draft.**
+1. Select the referral offer, and click **Edit Draft**.
 
    ![](assets/image2014-9-19-15-3a6-3a35.png)
 
-1. In the referral offer editor, go to **App Settings** > **Offer Details.**
+1. In the referral offer editor, go to **App Settings** > **Offer Details**.
 
    ![](assets/image2014-9-19-15-3a6-3a44.png)
 
@@ -40,15 +40,14 @@ Example goals:
 
 * Referred Visits: Offer participants get credit for each visit from a friend to the page hosting your offer.
 * Referred Sign-Ups: Offer participants get credit for each friend who signs up for the offer.
-* Smart List Trigger: Offer participants get credit for each friend who meets the conditions of a [smart list](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) trigger in a [smart campaign](http://docs.marketo.com/display/docs/smart+campaigns). For example, you can use a trigger that fires when a referred prospect signs up for a webinar.
+* Smart List Trigger: Offer participants get credit for each friend who meets the conditions of a [smart list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) trigger in a [smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). For example, you can use a trigger that fires when a referred prospect signs up for a webinar.
 
-* Custom JavaScript Event: Offer participants get credit for each friend who triggers a defined JavaScript event on your page. See [Conversion Script for Custom Events](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
+* Custom JavaScript Event: Offer participants get credit for each friend who triggers a defined JavaScript event on your page. See [Conversion Script for Custom Events](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
 >[!NOTE]
 >
->There are new filters and triggers available in smart campaigns to monitor social activity. See  [use triggers and filters for social activities](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
+>There are new filters and triggers available in smart campaigns to monitor social activity. See [use triggers and filters for social activities](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
 >[!MORELIKETHIS]
 >
->Next, you can [select the sign-up and fulfillment emails](send-referral-offer-fulfillment-email.md) to send from your referral offer.
-
+>Next, you can [select the sign-up and fulfillment emails](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) to send from your referral offer.

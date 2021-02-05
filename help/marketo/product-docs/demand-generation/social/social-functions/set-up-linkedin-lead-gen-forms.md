@@ -20,11 +20,11 @@ Use LinkedIn Lead Gen Forms to run ad campaigns in LinkedIn and generate leads f
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Enter a **Display Name** for your service, select the **LinkedIn Lead Gen **service from the drop-down, and click **Next**.
+1. Enter a **Display Name** for your service, select the **LinkedIn Lead Gen** service from the drop-down, and click **Next**.
 
    ![](assets/linkedin-lead-gen.png)
 
-1. Marketo opens a new tab in the same browser to [www.linkedin.com](http://www.linkedin.com). Log into LinkedIn using the account you want to use for the integration.
+1. Marketo opens a new tab in the same browser to [linkedin.com](https://www.linkedin.com). Log in to LinkedIn using the account you want to use for the integration.
 
    >[!NOTE]
    >
@@ -36,7 +36,7 @@ Use LinkedIn Lead Gen Forms to run ad campaigns in LinkedIn and generate leads f
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
-1. When prompted, click **Allow **to accept the Marketo app installation into LinkedIn.
+1. When prompted, click **Allow** to accept the Marketo app installation into LinkedIn.
 
    ![](assets/linkedin-marketo-allow.png)
 
@@ -66,11 +66,11 @@ Use LinkedIn Lead Gen Forms to run ad campaigns in LinkedIn and generate leads f
 
    >[!NOTE]
    >
-   >Only LinkedIn fields that have already been saved to a  [form template](https://www.linkedin.com/help/lms/answer/79634) in LinkedIn Campaign Manager will show up as LinkedIn Fields that can be mapped to Marketo fields.
+   >Only LinkedIn fields that have already been saved to a [form template](https://www.linkedin.com/help/lms/answer/79634) in LinkedIn Campaign Manager will show up as LinkedIn Fields that can be mapped to Marketo fields.
 
    ![](assets/linkedin-installed-services.png)
 
-Nicely done! People who submit LinkedIn Lead Gen forms will start flowing into Marketo as you run successful campaigns on the LinkedIn side. 
+Nicely done! People who submit LinkedIn Lead Gen forms will start flowing into Marketo as you run successful campaigns on the LinkedIn side.
 
 >[!NOTE]
 >
@@ -78,6 +78,4 @@ Nicely done! People who submit LinkedIn Lead Gen forms will start flowing into M
 
 >[!MORELIKETHIS]
 >
->* [Use LinkedIn Lead Gen Form Filters and Triggers in a Smart Campaign](use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
->
-
+>[Use LinkedIn Lead Gen Form Filters and Triggers in a Smart Campaign](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)

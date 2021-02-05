@@ -6,7 +6,7 @@ title: Template 2-B
 
 # Template 2-B {#template-b}
 
-Right-click to [Download Template 2-B](http://docs.marketo.com/download/attachments/7516470/template2-b.html?version=1&modificationdate=1433229058000&api=v2)
+[Download Template 2-B](https://docs.marketo.com/download/attachments/7516470/template2-b.html?version=1&modificationdate=1433229058000&api=v2)
 
 ![](assets/image2015-6-2-15-3a32-3a38.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * One body section with video and text (optional)
 * Footer (optional)
 
-**Right-click below to download this template:**
+**Click below to download this template:**
 
-[Template2-B.html](http://docs.marketo.com/download/attachments/7516470/template2-b.html?version=1&modificationdate=1433229058000&api=v2)
+[Template2-B.html](https://docs.marketo.com/download/attachments/7516470/template2-b.html?version=1&modificationdate=1433229058000&api=v2)

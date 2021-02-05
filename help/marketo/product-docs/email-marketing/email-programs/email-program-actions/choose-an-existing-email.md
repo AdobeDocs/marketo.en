@@ -36,9 +36,7 @@ Once you've [created an email program](../../../../product-docs/email-marketing/
 
 Now that we've decided what email to send, we can set up an A/B Test, or skip that and schedule the email program.
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Add an A/B Test](email-test-a-b-test/add-an-a-b-test.md)
 >* [Schedule Your Email Program](schedule-your-email-program.md)

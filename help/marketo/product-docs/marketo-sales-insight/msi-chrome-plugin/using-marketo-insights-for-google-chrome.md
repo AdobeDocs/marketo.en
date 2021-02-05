@@ -63,9 +63,8 @@ You can log replies and old activity in a lead's activity history.
 
    ![](assets/image2015-4-23-17-3a1-3a26.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

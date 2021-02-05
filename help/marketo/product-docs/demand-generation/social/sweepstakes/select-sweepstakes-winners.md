@@ -6,11 +6,9 @@ title: Select Sweepstakes Winners
 
 # Select Sweepstakes Winners {#select-sweepstakes-winners}
 
-When you [publish a sweepstakes](publish-a-sweepstakes.md), you need to select winners for each drawing. When you do, your [fulfillment email](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) is automatically sent to them.
+When you [publish a sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), you need to select winners for each drawing. When you do, your [fulfillment email](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) is automatically sent to them.
 
->[!NOTE]
->
->**Availability**
+>[!AVAILABILITY]
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
@@ -22,13 +20,13 @@ When you [publish a sweepstakes](publish-a-sweepstakes.md), you need to select w
 
    ![](assets/image2014-9-25-17-3a47-3a37.png)
 
-1. Click **Pick** **Winners**.
+1. Click **Pick Winners**.
 
    ![](assets/image2014-9-25-17-3a47-3a49.png)
 
    >[!TIP]
    >
-   >To see a list of people who have signed up for your sweepstakes, click the **Participants **tab.
+   >To see a list of people who have signed up for your sweepstakes, click the **Participants** tab.
 
 1. Choose the number of winners, select **I'm ready to pick**, and click **Next**.
 
@@ -38,7 +36,7 @@ When you [publish a sweepstakes](publish-a-sweepstakes.md), you need to select w
    >
    >If you choose 0 winners for a particular drawing, that information is not displayed on the **Winners** tab.
 
-1. Click **Finalize** to send the [fulfillment email](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6) to the listed winners.
+1. Click **Finalize** to send the [fulfillment email](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) to the listed winners.
 
    ![](assets/image2014-9-25-17-3a49-3a48.png)
 
@@ -46,4 +44,4 @@ When you [publish a sweepstakes](publish-a-sweepstakes.md), you need to select w
    >
    >You can disqualify winners before you click Finalize. If you do, they are still eligible for other drawings in this sweepstakes.
 
-Congratulations! You have completed this run of your sweepstakes offer, picked the random winners, and sent them email notifications. 
+Congratulations! You have completed this run of your sweepstakes offer, picked the random winners, and sent them email notifications.

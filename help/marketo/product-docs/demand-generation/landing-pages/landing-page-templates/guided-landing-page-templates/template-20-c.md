@@ -6,7 +6,7 @@ title: Template 20-C
 
 # Template 20-C {#template-c}
 
-Right-click to [Download Template 20-C](http://docs.marketo.com/download/attachments/10092916/template-20c.html?version=1&modificationdate=1441750739000&api=v2)
+[Download Template 20-C](https://docs.marketo.com/download/attachments/10092916/template-20c.html?version=1&modificationdate=1441750739000&api=v2)
 
 ![](assets/template-20c.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 * Four body sections (optional)
 * Footer (optional)
 
-Right-click below to download this template:
+**Click below to download this template:**
 
-[Template20-C.html](http://docs.marketo.com/download/attachments/10092916/template-20c.html?version=1&modificationdate=1441750739000&api=v2)
+[Template20-C.html](https://docs.marketo.com/download/attachments/10092916/template-20c.html?version=1&modificationdate=1441750739000&api=v2)

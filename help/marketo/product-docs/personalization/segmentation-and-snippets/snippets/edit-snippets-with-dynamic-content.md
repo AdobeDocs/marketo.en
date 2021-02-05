@@ -46,9 +46,7 @@ Use Segmentation in Snippets to easily manage dynamic content on your emails and
 
 Wasn't that simple? You are now all set to use these snippets on Emails and Landing Pages. 
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Add a Snippet to an Email](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
 >* [Add a Snippet to a Landing Page](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)

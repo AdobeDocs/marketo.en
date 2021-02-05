@@ -8,9 +8,8 @@ title: People by Revenue Stage Report
 
 You can create a report showing which stage of your  [Revenue Cycle Model](http://docs.marketo.com/display/docs/revenue+cycle+models) your people are in. The report includes any stage from the specified model as long as there is a person balance for the given date range of the report. 
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Not all Marketo editions include this functionality. Contact your Account Manager for more detail.
 

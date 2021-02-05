@@ -53,8 +53,6 @@ Want to know how your engagement content is performing? Try the engagement strea
 
    >[!TIP]
    >
-   >
-   >Although not illustrated, Engagement Score is a column in this report. See [Understanding the Engagement Score](understanding-the-engagement-score.md) for details on what it is.
+   >Although not illustrated, Engagement Score is a column in this report. See [Understanding the Engagement Score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) for details on what it is.
 
    Great job! Notice that the report is grouped by engagement program.
-

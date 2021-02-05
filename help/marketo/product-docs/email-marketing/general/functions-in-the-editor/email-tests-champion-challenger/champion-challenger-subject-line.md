@@ -48,9 +48,8 @@ You can easily test multiple subject lines. When the test is over, send out emai
 
    Progress! Let's keep on it.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >
    >[Champion/Challenger: Define Champion Criteria](champion-challenger-define-champion-criteria.md)

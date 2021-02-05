@@ -6,7 +6,7 @@ title: Template 20-E
 
 # Template 20-E {#template-e}
 
-Right-click to [Download Template 20-E](http://docs.marketo.com/download/attachments/10092922/template-20e.html?version=1&modificationdate=1441750814000&api=v2)
+[Download Template 20-E](https://docs.marketo.com/download/attachments/10092922/template-20e.html?version=1&modificationdate=1441750814000&api=v2)
 
 ![](assets/template-20e.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 * Four body sections (optional)
 * Footer (optional)
 
-Right-click below to download this template:
+**Click below to download this template:**
 
-[Template20-E.html](http://docs.marketo.com/download/attachments/10092922/template-20e.html?version=1&modificationdate=1441750814000&api=v2)
+[Template20-E.html](https://docs.marketo.com/download/attachments/10092922/template-20e.html?version=1&modificationdate=1441750814000&api=v2)

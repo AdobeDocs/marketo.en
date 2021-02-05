@@ -8,9 +8,8 @@ title: Create a Presentation
 
 Create a presentation to project your team's calendar views and goals on an HDTV. Presentations are Workspace-specific.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Availability**
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 

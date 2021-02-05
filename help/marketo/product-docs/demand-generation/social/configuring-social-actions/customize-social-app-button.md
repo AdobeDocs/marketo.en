@@ -6,13 +6,13 @@ title: Customize Social App Button
 
 # Customize Social App Button {#customize-social-app-button}
 
-When you create a [social button](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) or a [referral offer](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you can customize the appearance of the buttons.
+When you create a [social button](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) or a [referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you can customize the appearance of the buttons.
 
 1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Select the app, and click **Edit Draft.**
+1. Select the app, and click **Edit Draft**.
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
@@ -54,5 +54,4 @@ When you create a [social button](../../../../product-docs/demand-generation/lan
 
 >[!MORELIKETHIS]
 >
->For a social button, [configure when it opens](configure-when-social-button-opens.md). For a referral offer, [specify the offer goal](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
-
+>For a social button, [configure when it opens](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md). For a referral offer, [specify the offer goal](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).

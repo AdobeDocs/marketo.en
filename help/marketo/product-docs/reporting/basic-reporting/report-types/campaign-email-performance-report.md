@@ -32,9 +32,8 @@ To see your email performance stats grouped by [smart campaign](http://docs.mark
    >
    >In general, we try to use common sense to record these statistics. For example, if someone clicked a link in an email, they obviously opened it first. For the specific rules we follow, see the [Email Performance Report](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >    
    >    

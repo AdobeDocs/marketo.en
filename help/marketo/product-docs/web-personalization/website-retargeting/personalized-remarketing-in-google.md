@@ -88,9 +88,7 @@ Personalized Remarketing lets you re-engage with your users using RTP data and t
 
    ![](assets/image2015-1-15-18-3a47-3a21.png)
 
->[!NOTE]
->
->**Related Articles**
+>[!MORELIKETHIS]
 >
 >* [Retargeting with Web Personalization Data](retargeting-with-web-personalization-data.md)
 >* [Personalized Remarketing in Facebook](personalized-remarketing-in-facebook.md)

@@ -10,9 +10,8 @@ Reward your customers with coupons and discount codes using the offer fulfillmen
 
 >[!PREREQUISITES]
 >
->* [Use Emails in Social Promotions](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
->* [Create a Referral Offer](create-a-referral-offer.md)
->
+>* [Use Emails in Social Promotions](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
+>* [Create a Referral Offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 
 ## Set Up Fulfillment Delivery {#set-up-fulfillment-delivery}
 
@@ -20,11 +19,9 @@ Reward your customers with coupons and discount codes using the offer fulfillmen
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. Under **App Settings**, select **Offer Details.**
+1. Under **App Settings**, select **Offer Details**.
 
-   ** ![](assets/image2015-4-23-12-3a53-3a16.png)
-
-   **
+   ![](assets/image2015-4-23-12-3a53-3a16.png)
 
 1. Select a **Sign-Up Email**.
 
@@ -36,10 +33,7 @@ Reward your customers with coupons and discount codes using the offer fulfillmen
 
    >[!NOTE]
    >
-   >**Deep Dive**
-   >
-   >
-   >Learn more about [using emails in social promotions](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >Learn more about [using emails in social promotions](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
 1. Click the **Fulfillment Delivery** drop-down and select **auto on goal**.
 
@@ -55,7 +49,7 @@ You can send a fulfillment email manually to a person once they've met the goal.
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. Click the **Filter By **option and select **Goal**.
+1. Click the **Filter By** option and select **Goal**.
 
    >[!NOTE]
    >
@@ -71,4 +65,4 @@ You can send a fulfillment email manually to a person once they've met the goal.
 
    ![](assets/2015-04-20-15-54-13.png)
 
-Awesome! Those people will now receive the fulfillment email and be stoked about their reward. 
+Awesome! Those people will now receive the fulfillment email and be stoked about their reward.

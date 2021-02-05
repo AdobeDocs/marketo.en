@@ -40,9 +40,8 @@ To receive automatic updates of a [basic report](http://docs.marketo.com/display
 
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Related Articles**
    >
    >
    >Learn how to [manage all your report subscriptions](manage-report-subscriptions.md) in one place.

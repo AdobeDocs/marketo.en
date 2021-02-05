@@ -6,13 +6,13 @@ title: Template 4-C
 
 # Template 4-C {#template-c}
 
-Right-click to [Download Template 4C](http://docs.marketo.com/download/attachments/8783906/template-4c.html?version=1&modificationdate=1437692414000&api=v2)
+[Download Template 4C](https://docs.marketo.com/download/attachments/8783906/template-4c.html?version=1&modificationdate=1437692414000&api=v2)
 
 ![](assets/image2015-7-28-16-3a32-3a2.png)
 
 This template includes the following content:
 
-* A header (optional) 
+* A header (optional)
 * A primary section
 
     * includes a hero header and a video
@@ -20,6 +20,6 @@ This template includes the following content:
 * Five body sections (optional)
 * A footer (optional)
 
-**Right-click below to download this template:**
+**Click below to download this template:**
 
-[Template4-C.html](http://docs.marketo.com/download/attachments/8783906/template-4c.html?version=1&modificationdate=1437692414000&api=v2)
+[Template4-C.html](https://docs.marketo.com/download/attachments/8783906/template-4c.html?version=1&modificationdate=1437692414000&api=v2)
