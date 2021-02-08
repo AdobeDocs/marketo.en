@@ -6,11 +6,11 @@ title: Use "Date/Time" A/B Testing
 
 # Use "Date/Time" A/B Testing {#use-date-time-a-b-testing}
 
-You can easily A/B test your emails. One test is the **Date/Time **test. This tests what time of day or day of week is best to send emails. Here's how to set it up.
+You can easily A/B test your emails. One test is the **Date/Time** test. This tests what time of day or day of week is best to send emails. Here's how to set it up.
 
 >[!PREREQUISITES]
 >
->* [Add an A/B Test](add-an-a-b-test.md)
+>[Add an A/B Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 >
 
 1. Under the **Email** tile, click **Add A/B Test**.
@@ -47,17 +47,6 @@ You can easily A/B test your emails. One test is the **Date/Time **test. This te
 
    >[!CAUTION]
    >
-   >**We recommend you avoid setting the sample size to 100%**. If you're using a static list, setting the sample size to 100% sends the email to everyone in the audience and the winner goes to no one. If you're using a **smart** list, setting the sample size to 100% sends the email to everyone in the audience *at that time. *When the email program runs again at a later date, any new people who qualify for the smart list will also receive the email since they're now included in the audience.
+   >**We recommend you avoid setting the sample size to 100%**. If you're using a static list, setting the sample size to 100% sends the email to everyone in the audience and the winner goes to no one. If you're using a **smart** list, setting the sample size to 100% sends the email to everyone in the audience _at that time_. When the email program runs again at a later date, any new people who qualify for the smart list will also receive the email since they're now included in the audience.
 
-   [define the A/B test winner criteria](define-the-a-b-test-winner-criteria.md)
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Define the A/B Test Winner Criteria](define-the-a-b-test-winner-criteria.md)
-   >    
-   >
-
-Okay, we're one step closer. Now we need to . 
+   Okay, we're one step closer. Now we need to [define the A/B test winner criteria](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md).

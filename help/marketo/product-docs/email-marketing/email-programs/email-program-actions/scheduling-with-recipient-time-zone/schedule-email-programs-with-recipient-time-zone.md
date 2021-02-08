@@ -29,12 +29,11 @@ This gives you two options:
 >
 >* **Deliver the following day in recipient’s time zone**: if the email is scheduled to go out on Tuesday at 9:00am, qualified people who live in time zones where the scheduled time has already passed will receive the email on *Wednesday* at 9:00am.
 >
->* **Deliver using the program's default set time**: if the email is scheduled to go out on Tuesday at 9:00am, qualified people who live in time zones where the scheduled time has already passed will receive the email *based on your subscription time zone settings*. So, if your [s](../../../../../product-docs/administration/settings/select-your-language-locale-and-time-zone.md) [ubscription time zone settings](../../../../../product-docs/administration/settings/set-default-location-settings-for-a-subscription.md) are set to PDT America/Los Angeles, these recipients will still receive the email on Tuesday at 9:00am PDT (whatever time that may be in their own time zones).
->
+>* **Deliver using the program's default set time**: if the email is scheduled to go out on Tuesday at 9:00am, qualified people who live in time zones where the scheduled time has already passed will receive the email _based on your subscription time zone settings_. So, if your [subscription time zone settings](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) are set to PDT America/Los Angeles, these recipients will still receive the email on Tuesday at 9:00am PDT (whatever time that may be in their own time zones).
 
 >[!NOTE]
 >
->[Learn more](https://docs.marketo.com/display/DOCS/Understanding+Recipient+Time+Zone#UnderstandingRecipientTimeZone-CalculatingTimeZone) about how Marketo calculates time zones for recipients.
+>[Learn more](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) about how Marketo calculates time zones for recipients.
 
 Let's consider this scenario in more detail. Say you're in San Francisco, scheduling an email at 7:00am for a **9:00am** send. In your smart list, there are people from the following regions:
 
@@ -57,15 +56,15 @@ Once you approve your program, it starts running within 15 minutes.
 
 >[!NOTE]
 >
->Although the program will start the *process* of sending emails in 15 minutes, emails won't be *delivered* at that time. Recipients will still receive emails based on the **Time Zone Settings** you choose.
+>Although the program will start the _process_ of sending emails in 15 minutes, emails won't be _delivered_ at that time. Recipients will still receive emails based on the **Time Zone Settings** you choose.
 
 ## Scenario 2: More than 25 Hours {#scenario-more-than-hours}
 
 In this second scenario, you approve an email program with **Recipient Time Zone** enabled and a scheduled delivery time that's more than 25 hours in the future. In this case, the program will start running at the scheduled time in the **earliest** time zone in the world (UTC + 14:00). There may be people who qualify for your smart list in every time zone across the globe, so starting in the earliest time zone allows us to deliver the email at the scheduled date/time to all recipients in their respective time zones.
 
-Head Start
+**Head Start**
 
-Now, let's talk about how [Head Start](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) works with **Recipient Time Zone**. Our existing Head Start feature requires the program to be scheduled at least 12 hours in advance. So what does that mean for Recipient Time Zone? Recall that when Recipient Time Zone is enabled, we start running the email program at the scheduled time in the earliest time zone (UTC +14:00). So, to enable **both** Head Start and Recipient Time Zone, email programs need to be scheduled **at least 12 hours ahead of the scheduled time in UTC +14:00.**
+Now, let's talk about how [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) works with **Recipient Time Zone**. Our existing Head Start feature requires the program to be scheduled at least 12 hours in advance. So what does that mean for Recipient Time Zone? Recall that when Recipient Time Zone is enabled, we start running the email program at the scheduled time in the earliest time zone (UTC +14:00). So, to enable **both** Head Start and Recipient Time Zone, email programs need to be scheduled **at least 12 hours ahead of the scheduled time in UTC +14:00.**
 
 This means that if you're in America/Los Angeles and want to enable both Head Start and Recipient Time Zone, you need to schedule the program **34 hours** in advance. How did we get to this number?
 
@@ -75,8 +74,8 @@ This means that if you're in America/Los Angeles and want to enable both Head St
 
 In short, email programs scheduled with Recipient Time Zone need to start running at the scheduled time in the earliest time zone (i.e., where it reaches midnight first) in order to accommodate every time zone. So, if you schedule an email program...
 
-* **with a delivery time *within* 25 hours**, the program starts running within 15 minutes. Recipients who have already passed the scheduled time will receive the email based on the time zone settings you've chosen.
-* **with a delivery time *more* *than* 25 hours in the future**, the program starts running at the scheduled time in the earliest time zone (UTC +14:00).
+* **with a delivery time _within_ 25 hours**, the program starts running within 15 minutes. Recipients who have already passed the scheduled time will receive the email based on the time zone settings you've chosen.
+* **with a delivery time _more than_ 25 hours in the future**, the program starts running at the scheduled time in the earliest time zone (UTC +14:00).
 * **with Head Start**, the program starts processing 12 hours prior to the scheduled time in the earliest time zone (UTC +14:00).
 
 >[!CAUTION]
@@ -85,8 +84,6 @@ In short, email programs scheduled with Recipient Time Zone need to start runnin
 
 >[!MORELIKETHIS]
 >
->* [Understanding Recipient Time Zone](understanding-recipient-time-zone.md)
->* [Head Start for Email Programs](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
->* [Abort Delivery of Email Programs Scheduled with Recipient Time Zone](abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
->
-
+>* [Understanding Recipient Time Zone](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [Head Start for Email Programs](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>* [Abort Delivery of Email Programs Scheduled with Recipient Time Zone](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)

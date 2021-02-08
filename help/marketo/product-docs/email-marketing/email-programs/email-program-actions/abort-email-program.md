@@ -12,11 +12,11 @@ Oops! Hit the brakes! This email program should not go out.
 >
 >This article is meant to help you prevent emails from going out before they send. There is no way to recall sent emails.
 
-1. In an email program, click **Abort Program.**
+1. In an email program, click **Abort Program**.
 
    ![](assets/dashboardleads.jpg)
 
-1. Click **Abort **for full confirmation.
+1. Click **Abort** for full confirmation.
 
    ![](assets/image2015-5-20-15-3a24-3a35.png)
 

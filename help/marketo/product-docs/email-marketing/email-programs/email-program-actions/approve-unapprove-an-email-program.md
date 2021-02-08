@@ -8,13 +8,12 @@ title: Approve/Unapprove an Email Program
 
 >[!PREREQUISITES]
 >
->* [Create an Email Program](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Define an Audience with a Smart List](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) or by [Define an Audience by Importing a List](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Create an Email Program](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Define an Audience with a Smart List](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) or [Define an Audience by Importing a List](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
->* [Choose an Existing Email](choose-an-existing-email.md) or [Create an Email for an Email Program](create-an-email-for-an-email-program.md)
+>* [Choose an Existing Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) or [Create an Email for an Email Program](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 >
->* [Schedule Your Email Program](schedule-your-email-program.md)
->
+>* [Schedule Your Email Program](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
 ## Approve your Email Program {#approve-your-email-program}
 

@@ -20,10 +20,10 @@ A/B testing allows you to prove which email is best.
 
 Learn about the following A/B tests:
 
-* ["Subject Line" A/B Testing](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
-* ["Whole Email" A/B Testing](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
-* ["From Address" A/B Testing](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
-* ["Date/Time" A/B Testing](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
+* ["Subject Line" A/B Testing](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
+* ["Whole Email" A/B Testing](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
+* ["From Address" A/B Testing](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
+* ["Date/Time" A/B Testing](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
 
 ![](assets/abtesthighlight.png)
 
@@ -33,7 +33,9 @@ Learn about the following A/B tests:
 >
 >Some prefer using email programs over sending an email via a smart campaign because of the program's detailed reporting dashboard.
 
-Enjoy the fruits of your labor. Dashboards show you email program and A/B test performance at a glance.   ![](assets/image2015-4-27-11-3a38-3a41.png)
+Enjoy the fruits of your labor. Dashboards show you email program and A/B test performance at a glance.
+
+![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
 
@@ -55,7 +57,7 @@ Use an email program inside a default program to keep things organized.
 
 >[!NOTE]
 >
->Email programs cannot be nested in [engagement programs](../../../../getting-started/quick-wins/drip-drip-nurture.md). They also can't be re-sent, and can only run one test at a time.
+>Email programs cannot be nested in [engagement programs](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). They also can't be re-sent, and can only run one test at a time.
 
 ## Schedule Settings {#schedule-settings}
 
@@ -63,10 +65,8 @@ Now that you understand Email Programs, get started with one of the related arti
 
 >[!MORELIKETHIS]
 >
->* [Create an Email Program](create-an-email-program.md)
+>* [Create an Email Program](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >
->* [Define an Audience with a Smart List](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [Create an Email for an Email Program](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
->* [Schedule Your Email Program](../../../../product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
->
-
+>* [Define an Audience with a Smart List](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [Create an Email for an Email Program](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Schedule Your Email Program](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)

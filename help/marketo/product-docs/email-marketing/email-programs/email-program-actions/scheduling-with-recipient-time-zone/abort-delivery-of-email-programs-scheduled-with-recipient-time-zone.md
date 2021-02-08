@@ -32,7 +32,5 @@ Since email programs scheduled with Recipient Time Zone can run for up to 24 hou
 
 >[!MORELIKETHIS]
 >
->* [Understanding Recipient Time Zone](understanding-recipient-time-zone.md)
->* [Schedule Email Programs with Recipient Time Zone](schedule-email-programs-with-recipient-time-zone.md)
->
-
+>* [Understanding Recipient Time Zone](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [Schedule Email Programs with Recipient Time Zone](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)

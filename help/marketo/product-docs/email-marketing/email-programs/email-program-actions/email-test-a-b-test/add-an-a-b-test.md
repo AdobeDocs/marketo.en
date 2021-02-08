@@ -8,11 +8,10 @@ title: Add an A/B Test
 
 >[!PREREQUISITES]
 >
->* [Create an Email Program](../../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Define an Audience with a Smart List](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) or by [Define an Audience by Importing a List](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Create an Email Program](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Define an Audience with a Smart List](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) or [Define an Audience by Importing a List](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
->* [Choose an Existing Email](../../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) or [Create an Email for an Email Program](../../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
->
+>* [Choose an Existing Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) or [Create an Email for an Email Program](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
 Testing is a great way to optimize your emails for better engagement. Here's how to get it started.
 
@@ -36,13 +35,11 @@ Testing is a great way to optimize your emails for better engagement. Here's how
 
    >[!CAUTION]
    >
-   >If you have duplicate records in your database, those records will receive **both** the test and winning emails. To prevent this from happening, make sure you [find and merge duplicate people](http://docs.marketo.com/x/G4EI) in your database.
+   >If you have duplicate records in your database, those records will receive **both** the test and winning emails. To prevent this from happening, make sure you [find and merge duplicate people](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) in your database.
 
 >[!MORELIKETHIS]
 >
->* [Use "Subject Line" A/B Testing](use-subject-line-a-b-testing.md)
->* [Use "Whole Email" A/B Testing](use-whole-email-a-b-testing.md)
->* [Use "From Address" A/B Testing](use-from-address-a-b-testing.md)
->* [Use "Date/Time" A/B Testing](use-date-time-a-b-testing.md)
->
-
+>* [Use "Subject Line" A/B Testing](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
+>* [Use "Whole Email" A/B Testing](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
+>* [Use "From Address" A/B Testing](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
+>* [Use "Date/Time" A/B Testing](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)

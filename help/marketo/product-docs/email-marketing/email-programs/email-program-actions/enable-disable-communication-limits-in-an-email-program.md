@@ -6,13 +6,11 @@ title: Enable/Disable Communication Limits in an Email Program
 
 # Enable/Disable Communication Limits in an Email Program {#enable-disable-communication-limits-in-an-email-program}
 
-When running an email program, you can choose to ignore or respect the  [admin level communication limit](../../../../product-docs/administration/email-setup/enable-communication-limits.md) [s](../../../../product-docs/administration/email-setup/enable-communication-limits.md). Here's how to do it.
+When running an email program, you can choose to ignore or respect the [admin level communication limits](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Here's how to do it.
 
 >[!NOTE]
 >
->**Definition**
->
->Communication limits are [set in the Admin section](../../../../product-docs/administration/email-setup/enable-communication-limits.md) and help you avoid sending one person too many emails.
+>Communication limits are [set in the Admin section](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) and help you avoid sending one person too many emails.
 
 1. Go to **Marketing Activities**.
 
@@ -31,4 +29,3 @@ When running an email program, you can choose to ignore or respect the  [admin l
    ![](assets/ifaperson.jpg)
 
    Leaving **Block non-operational emails** checked will prevent sending the email to anyone who has received more emails than your admin settings allow.
-

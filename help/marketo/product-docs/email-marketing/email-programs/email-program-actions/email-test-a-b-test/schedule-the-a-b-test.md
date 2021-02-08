@@ -10,14 +10,13 @@ Once you have added an A/B test to an email program and defined the winner crite
 
 >[!PREREQUISITES]
 >
->* [Add an A/B Test](add-an-a-b-test.md)
->
+>[Add an A/B Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 >[!NOTE]
 >
 >For Date/Time tests, you only need to set when you receive the test results summary.
 
-1. Select the Send Test date.
+1. Select the **Send Test** date.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
@@ -33,9 +32,6 @@ Once you have added an A/B test to an email program and defined the winner crite
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >Only the test group will receive the test variants.
 
    ![](assets/image2014-9-12-16-3a0-3a12.png)
@@ -45,6 +41,7 @@ Once you have added an A/B test to an email program and defined the winner crite
    >If you chose to declare a winner manually, you will define **Report Send** date/time instead of **Finish Mailing** date/time.
 
    Super! You're done, just review the summary and click Close.
+
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
    You'll notice the **Schedule** tile is now updated.
@@ -59,10 +56,4 @@ Once you have added an A/B test to an email program and defined the winner crite
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Approve/Unapprove an Email Program](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
-   >    
-   >
-
+   >[Approve/Unapprove an Email Program](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
