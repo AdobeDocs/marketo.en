@@ -8,10 +8,9 @@ title: Head Start for Email Programs
 
 >[!PREREQUISITES]
 >
->* [Create an Email Program](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->
+>[Create an Email Program](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
-When you choose a date/time for an Email Program, it determines when the program will begin processing. If you want your emails to launch at the selected time, Head Start gives you that option by processing the program in advance. 
+When you choose a date/time for an Email Program, it determines when the program will begin processing. If you want your emails to launch at the selected time, Head Start gives you that option by processing the program in advance.
 
 ## Standard Head Start {#standard-head-start}
 
@@ -64,12 +63,10 @@ When you choose a date/time for an Email Program, it determines when the program
 
    ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-   [Learn more](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) about how to schedule email programs with Recipient Time Zone.
+   [Learn more](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) about how to schedule email programs with Recipient Time Zone.
 
 >[!MORELIKETHIS]
 >
->* [Schedule Your Email Program](schedule-your-email-program.md)
->* [Schedule Email Programs with Recipient Time Zone](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [Understanding Recipient Time Zone](scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->
-
+>* [Schedule Your Email Program](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [Schedule Email Programs with Recipient Time Zone](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Understanding Recipient Time Zone](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)

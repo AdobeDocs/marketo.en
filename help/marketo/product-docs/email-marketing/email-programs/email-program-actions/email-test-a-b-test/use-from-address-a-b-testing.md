@@ -10,8 +10,7 @@ You can easily A/B test your emails. One interesting test is the **From Address*
 
 >[!PREREQUISITES]
 >
->* [Add an A/B Test](add-an-a-b-test.md)
->
+>[Add an A/B Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 1. Under the **Email** tile, with your email selected, click on **Add A/B Test**.
 
@@ -35,7 +34,7 @@ You can easily A/B test your emails. One interesting test is the **From Address*
 
    >[!TIP]
    >
-   >You can click on the **plus sign** to add as many From Addresses as you'd like. 
+   >You can click on the **+** to add as many From Addresses as you'd like.
 
 1. Use the slider to choose what percentage of the audience you want in your A/B test and click **Next**.
 
@@ -47,16 +46,6 @@ You can easily A/B test your emails. One interesting test is the **From Address*
 
    >[!CAUTION]
    >
-   >**We recommend you avoid setting the sample size to 100%**. If you're using a static list, setting the sample size to 100% sends the email to everyone in the audience and the winner goes to no one. If you're using a **smart** list, setting the sample size to 100% sends the email to everyone in the audience *at that time. *When the email program runs again at a later date, any new people who qualify for the smart list will also receive the email since they're now included in the audience.
+   >**We recommend you avoid setting the sample size to 100%**. If you're using a static list, setting the sample size to 100% sends the email to everyone in the audience and the winner goes to no one. If you're using a **smart** list, setting the sample size to 100% sends the email to everyone in the audience _at that time_. When the email program runs again at a later date, any new people who qualify for the smart list will also receive the email since they're now included in the audience.
 
-   OK, we're almost there. Now we need to [define the A/B test winner criteria](define-the-a-b-test-winner-criteria.md). 
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Define the A/B Test Winner Criteria](define-the-a-b-test-winner-criteria.md)
-   >    
-   >
-
+   OK, we're almost there. Now we need to [define the A/B test winner criteria](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md).

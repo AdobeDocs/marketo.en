@@ -33,4 +33,3 @@ Need to move an email from one program to another? Here's how.
    ![](assets/leadperformance2.jpg)
 
    Pretty nifty!
-

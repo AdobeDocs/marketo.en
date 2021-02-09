@@ -10,10 +10,10 @@ Test your emails to improve their engagement score. There are two kinds of email
 
 ## A/B Testing {#a-b-testing}
 
-This is for one-time emails using [email programs](http://docs.marketo.com/display/docs/email+programs). Add [A/B testing](add-an-a-b-test.md) and a small group will get the test and the rest will get the winner.
+This is for one-time emails using email programs. Add [A/B testing](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) and a small group will get the test and the rest will get the winner.
 
 ## Email Champion/Challenger {#email-champion-challenger}
 
-For ongoing emails used in trigger smart campaigns or [engagement programs](http://docs.marketo.com/display/docs/drip+nurturing), you can add [email champion/challenger](http://docs.marketo.com/pages/viewpage.action?pageid=2359551) testing. This will introduce variations to an ongoing percentage of the recipients.
+For ongoing emails used in trigger smart campaigns or engagement programs, you can add [email champion/challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) testing. This will introduce variations to an ongoing percentage of the recipients.
 
 Happy Testing!

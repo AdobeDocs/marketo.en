@@ -6,9 +6,9 @@ title: Use the Email Program Dashboard - A/B Test View
 
 # Use the Email Program Dashboard - A/B Test View {#use-the-email-program-dashboard-a-b-test-view}
 
-Check out how your [email program A/B test](http://docs.marketo.com/pages/viewpage.action?pageid=2359480) is performing with this dashboard.
+Check out how your [email program A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) is performing with this dashboard.
 
-![](assets/image2014-9-12-16-3a14-3a28.png) 
+![](assets/image2014-9-12-16-3a14-3a28.png)
 
 ## Send Test {#send-test}
 
@@ -38,6 +38,4 @@ Cool dashboard, don't you think?
 
 >[!MORELIKETHIS]
 >
->* [Use the Email Program Dashboard](../../../../../product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
->
-
+>[Use the Email Program Dashboard](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

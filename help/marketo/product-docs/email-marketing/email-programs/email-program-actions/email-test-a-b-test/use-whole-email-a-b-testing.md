@@ -10,14 +10,11 @@ You can easily A/B test your emails. One great test is the **Whole Email** test.
 
 >[!PREREQUISITES]
 >
->* [Add an A/B Test](add-an-a-b-test.md)
->
+>[Add an A/B Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. Under the Email tile, with your email selected, click Add A/B Test.
+1. Under the Email tile, with your email selected, click **Add A/B Test**.
 
-` ![](assets/image2014-9-12-15-3a22-3a12.png)
-
-`
+  ![](assets/image2014-9-12-15-3a22-3a12.png)
 
 1. A new window opens. Click the **Test Type** drop-down and select **Whole Emails**.
 
@@ -33,9 +30,7 @@ You can easily A/B test your emails. One great test is the **Whole Email** test.
 
 1. Click **Add** to apply the email.
 
-   ` ![](assets/image2014-9-12-15-3a23-3a20.png)
-
-   `
+    ![](assets/image2014-9-12-15-3a23-3a20.png)
 
    >[!TIP]
    >
@@ -43,15 +38,11 @@ You can easily A/B test your emails. One great test is the **Whole Email** test.
 
 1. Select your second email.
 
-   ` ![](assets/image2014-9-12-15-3a23-3a49.png)
-
-   ` 
+    [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. Click **Add** to apply the second email. Drag the slider to choose what percentage of the audience you want to receive your A/B test and click **Next**.
 
-   ` ![](assets/image2014-9-12-15-3a24-3a1.png)
-
-   `
+    [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >
@@ -59,16 +50,6 @@ You can easily A/B test your emails. One great test is the **Whole Email** test.
 
    >[!CAUTION]
    >
-   >**We recommend you avoid setting the sample size to 100%**. If you're using a static list, setting the sample size to 100% sends the email to everyone in the audience and the winner goes to no one. If you're using a **smart** list, setting the sample size to 100% sends the email to everyone in the audience *at that time. *When the email program runs again at a later date, any new people who qualify for the smart list will also receive the email since they're now included in the audience.
+   >**We recommend you avoid setting the sample size to 100%**. If you're using a static list, setting the sample size to 100% sends the email to everyone in the audience and the winner goes to no one. If you're using a **smart** list, setting the sample size to 100% sends the email to everyone in the audience _at that time_. When the email program runs again at a later date, any new people who qualify for the smart list will also receive the email since they're now included in the audience.
 
-   Okay, we're almost there. Now we need to [define the A/B test winner criteria](define-the-a-b-test-winner-criteria.md). 
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Define the A/B Test Winner Criteria](define-the-a-b-test-winner-criteria.md)
-   >    
-   >
-
+   Okay, we're almost there. Now we need to [define the A/B test winner criteria](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md).
