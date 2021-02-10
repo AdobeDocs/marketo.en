@@ -16,7 +16,7 @@ Help your sales team achieve success by preventing them from accidentally emaili
 
    ![](assets/one-3.png)
 
-1. Under Admin Settings, click **General.**
+1. Under Admin Settings, click **General**.
 
    ![](assets/two-3.png)
 
@@ -26,5 +26,4 @@ Help your sales team achieve success by preventing them from accidentally emaili
 
    >[!NOTE]
    >
-   >Emails that are part of a [Group Email](http://docs.marketo.com/x/KAQ6Ag) send that fails due to being sent to a blocked email domain will fail silently and not appear in the failed email folder.
-
+   >Emails that are part of a [Group Email](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) send that fails due to being sent to a blocked email domain will fail silently and not appear in the failed email folder.

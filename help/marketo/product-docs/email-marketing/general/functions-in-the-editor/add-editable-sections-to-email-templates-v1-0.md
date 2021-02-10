@@ -11,6 +11,7 @@ If you're creating a template in the Email Template Editor v1.0, you can make an
 >[!NOTE]
 >
 >**Example**
+>
 >`<pre> <div class="mktEditable" id="UNIQUE_ID">This part is editable</div></pre>`
 
 Rules:

@@ -10,8 +10,7 @@ title: Include a Calendar Event (.ics) in an Email
 
 >[!PREREQUISITES]
 >
->* [Create a Calendar Event (.ics) File](create-a-calendar-event-ics-file.md)
->
+>[Create a Calendar Event (.ics) File](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
 1. While editing your program's email, click where you want the token to go, then click the Insert Token button.
 
@@ -21,7 +20,7 @@ title: Include a Calendar Event (.ics) in an Email
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
-   Click Save.
+1. Click **Save**.
 
    ![](assets/three-5.png)
 

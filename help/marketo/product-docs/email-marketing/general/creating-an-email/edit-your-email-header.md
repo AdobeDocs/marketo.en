@@ -43,4 +43,4 @@ If you exceed 50 characters, the counter turns red to alert you.
 
 >[!MORELIKETHIS]
 >
->* [Email Editor v2.0 Overview](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>[Email Editor v2.0 Overview](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)

@@ -10,8 +10,7 @@ Once you've set up your test type, you need to define the champion criteria. Her
 
 >[!PREREQUISITES]
 >
->* [Add an Email Champion/Challenger](add-an-email-champion-challenger.md)
->
+>[Add an Email Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
 ## Standard Champion Criteria {#standard-champion-criteria}
 
@@ -23,7 +22,7 @@ Once you've set up your test type, you need to define the champion criteria. Her
    >
    >We'll track this metric and send you a report with the data by email.
 
-1. If you picked one of the default **Champion Criteria**, go ahead and move on to [Champion/Challenger: Configure Report Alerts](champion-challenger-configure-report-alerts.md)!
+1. If you picked one of the default **Champion Criteria**, go ahead and move on to [Champion/Challenger: Configure Report Alerts](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
 
 ## Custom Champion Criteria {#custom-champion-criteria}
 
@@ -53,10 +52,4 @@ Once you've set up your test type, you need to define the champion criteria. Her
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: Configure Report Alerts](champion-challenger-configure-report-alerts.md)
-   >    
-   >
-
+   >[Champion/Challenger: Configure Report Alerts](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)

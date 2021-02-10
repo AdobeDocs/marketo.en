@@ -10,10 +10,9 @@ Want to try out a different From Address with no fuss? Here's how.
 
 >[!PREREQUISITES]
 >
->* [Add an Email Champion/Challenger](add-an-email-champion-challenger.md)
->
+>[Add an Email Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. In the email test editor, select **From Address** in the **Test Type **drop-down.
+1. In the email test editor, select **From Address** in the **Test Type** drop-down.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
@@ -21,7 +20,7 @@ Want to try out a different From Address with no fuss? Here's how.
    >
    >The first From Address is designated as the **Champion**. Subsequent from addresses are called **Challengers**.
 
-1. Enter the From Name (left) and From Address** **(right) for the challengers.
+1. Enter the **From Name** (left) and **From Address** (right) for the challengers.
 
    ![](assets/image2014-9-15-12-3a52-3a50.png)
 
@@ -37,10 +36,9 @@ Want to try out a different From Address with no fuss? Here's how.
    >
    >**Example**
    >
-   >
    >In the distribution shown above, 15% of the total audience specified in the smart list gets one of the emails with a challenger From Address and 85% receive the email with the champion From Address. Emails for multiple challenger From Addresses share the 15% equally. When the test is over, you can declare a winner manually. From then on, all future people receive the better performing content.
 
-   To gain statistical confidence, be sure you choose a percentage that includes enough people that your test is valid. Don't be fooled by inconclusive results.  [More information than you ever wanted about statistical confidence](http://en.wikipedia.org/wiki/Confidence_interval).
+   To gain statistical confidence, be sure you choose a percentage that includes enough people that your test is valid. Don't be fooled by inconclusive results. [More information than you ever wanted about statistical confidence](https://en.wikipedia.org/wiki/Confidence_interval).
 
 1. Click **Next**.
 
@@ -50,10 +48,4 @@ Want to try out a different From Address with no fuss? Here's how.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: Define Champion Criteria](champion-challenger-define-champion-criteria.md)
-   >    
-   >
-
+   >[Champion/Challenger: Define Champion Criteria](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

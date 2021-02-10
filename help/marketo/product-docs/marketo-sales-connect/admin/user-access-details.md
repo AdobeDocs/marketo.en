@@ -10,15 +10,15 @@ What do Admins and non-Admins have access to?
 
 ## Admin User Permissions {#admin-user-permissions}
 
-Admins can [view all templates](http://docs.marketo.com/x/OYAXAQ).
+Admins can [view all templates](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
 
 ![](assets/templates.jpg)
 
-Admins can [view all campaigns](http://docs.marketo.com/x/N4AXAQ).
+Admins can [view all campaigns](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
 
 ![](assets/campaigns.jpg)
 
-Admins can [view all email activity](http://docs.marketo.com/x/SYAXAQ).
+Admins can view all email activity.
 
 ![](assets/email-activity.png)
 
@@ -63,4 +63,3 @@ Admins can stop campaigns on behalf of users.
     * Users can share templates in categories their Admins allow them to
     * When a user is removed from a team, their templates are unshared with that team
     * When a user is deleted from a team their templates transfer ownership to the Master Admin who deleted the user
-

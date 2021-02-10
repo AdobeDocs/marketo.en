@@ -31,10 +31,3 @@ Just like the Results tab in smart campaigns, you can see the same information i
    There you have it!
 
    ![](assets/image2014-9-22-11-3a15-3a49.png)
-
->[!NOTE]
->
->**Deep Dive**
->
->Want to learn more about [Email Programs](http://docs.marketo.com/display/docs/email+program+actions)?
-

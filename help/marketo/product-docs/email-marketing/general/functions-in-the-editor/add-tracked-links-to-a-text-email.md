@@ -35,4 +35,4 @@ Text email links can be tracked in Marketo. Let's see how it works. 1. Select yo
 >
 >Test it out to double-check. Make sure you entered the brackets correctly.
 
-Nice work!  
+Nice work!

@@ -18,9 +18,6 @@ Once you've run an email program and have some data in the dashboard, you can ex
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >If your email program hasn't started yet, you will not see a dashboard because there is no data to see.
 
 1. Simply click the Excel icon and your export will begin.
@@ -28,10 +25,3 @@ Once you've run an email program and have some data in the dashboard, you can ex
    ![](assets/lifecycle.jpg)
 
    Pretty easy, right?
-
->[!NOTE]
->
->**Deep Dive**
->
->Want to lean more about [Email Programs](http://docs.marketo.com/display/docs/email+programs)?
-

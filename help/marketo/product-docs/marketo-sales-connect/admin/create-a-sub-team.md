@@ -49,4 +49,3 @@ title: Create a Sub-Team
 1. Click **Add To Teams** when done.
 
    ![](assets/nine.png)
-

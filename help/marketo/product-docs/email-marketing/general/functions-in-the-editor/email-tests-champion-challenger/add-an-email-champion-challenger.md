@@ -6,19 +6,20 @@ title: Add an Email Champion/Challenger
 
 # Add an Email Champion/Challenger {#add-an-email-champion-challenger}
 
-It's a good idea to test any emails that you use frequently to make sure they're working. One way is to compare an email's effectiveness with other versions, or challengers. In a champion/challenger test, you can test the whole email, the subject line, or the from address.    
-The existing email you are testing is considered the champion. Any variants you create within a test are considered the challengers. You determine the percentage of people that receive either the champion content or the challenger content. If you've defined multiple challengers, they will be equally distributed amongst the challenger group.    
+It's a good idea to test any emails that you use frequently to make sure they're working. One way is to compare an email's effectiveness with other versions, or challengers. In a champion/challenger test, you can test the whole email, the subject line, or the from address.
+
+The existing email you are testing is considered the champion. Any variants you create within a test are considered the challengers. You determine the percentage of people that receive either the champion content or the challenger content. If you've defined multiple challengers, they will be equally distributed amongst the challenger group.
+
 Here's how to get started.
 
 >[!PREREQUISITES]
 >
->* [Create a Program](../../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [Create an Email](../../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
->
+>* [Create a Program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [Create an Email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
 >[!CAUTION]
 >
->Champion/Challenger emails only work with trigger campaigns and engagement program streams. For batch mailings, use the email program's [A/B testing functionality](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
+>Champion/Challenger emails only work with trigger campaigns and engagement program streams. For batch mailings, use the email program's [A/B testing functionality](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
 
 1. Go to **Marketing Activities**.
 
@@ -30,10 +31,7 @@ Here's how to get started.
 
    >[!NOTE]
    >
-   >**Deep Dive**
-   >
-   >
-   >For one-time mail blasts, learn more about [email programs](http://docs.marketo.com/display/docs/email+programs).
+   >For one-time mail blasts, learn more about [email programs](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
 
 1. Under **Email Actions**, click **New Test**.
 
@@ -43,12 +41,6 @@ Here's how to get started.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: Whole Emails](champion-challenger-whole-emails.md)
-   >    * [Champion/Challenger: Subject Line](champion-challenger-subject-line.md)
-   >    * [Champion/Challenger: From Address](champion-challenger-from-address.md)
-   >    
-   >
-
+   >* [Champion/Challenger: Whole Emails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
+   >* [Champion/Challenger: Subject Line](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
+   >* [Champion/Challenger: From Address](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)

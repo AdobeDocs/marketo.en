@@ -6,13 +6,13 @@ title: Create an Email Script Token
 
 # Create an Email Script Token {#create-an-email-script-token}
 
-For advanced developers, you can use  [Velocity scripts](http://velocity.apache.org/engine/1.7/user-guide.html) in your emails. Here's how to do it.
+For advanced developers, you can use [Velocity scripts](https://velocity.apache.org/engine/1.7/user-guide.html) in your emails. Here's how to do it.
 
 1. Go to **Marketing Activities**.
 
    ![](assets/ma.png)
 
-1. Find and select any program (Event, Default, or Engagement, etc).
+1. Find and select any program (Event, Default, or Engagement, etc.).
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
@@ -38,17 +38,14 @@ For advanced developers, you can use  [Velocity scripts](http://velocity.apache.
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >If you are typing in tokens free-form ensure to check/activate all corresponding tokens in the tree or they will be treated as plain text and won't work.
 
 1. Write your script in Velocity. Here are some useful resources:
 
-    * [Marketo Developers Email Scripting Documentation](http://developers.marketo.com/email-scripting/)
-    * [Velocity User Guide](http://velocity.apache.org/engine/devel/user-guide.html)
-    * [Velocity Reference Guide](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-    * [Velocity Tools Javadoc](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+    * [Marketo Developers Email Scripting Documentation](https://developers.marketo.com/email-scripting/)
+    * [Velocity User Guide](https://velocity.apache.org/engine/devel/user-guide.html)
+    * [Velocity Reference Guide](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+    * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
 1. Once your script is completed, click **Save**.
 
@@ -62,6 +59,4 @@ Now you can use this token in your emails. It will run the script every time an 
 
 >[!MORELIKETHIS]
 >
->* [Add an Email Script Token to Your Email](add-an-email-script-token-to-your-email.md)
->
-
+>[Add an Email Script Token to Your Email](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)

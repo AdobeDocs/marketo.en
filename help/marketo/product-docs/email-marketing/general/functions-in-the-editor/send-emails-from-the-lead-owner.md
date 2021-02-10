@@ -40,7 +40,8 @@ What if you want to send an email to a lead on behalf of the Lead Owner?  Here's
    >
    >Make sure you added a space between the first and last name tokens.
 
-   Click in the From Email field (delete any existing email address), and click the Insert Token button.
+1. Click in the From Email field (delete any existing email address), and click the Insert Token button.
+
    ![](assets/eight.png)
 
 1. Start typing "`{{lead.Lead Owner`" and select the **`{{lead.Lead Owner Email Address}}`** token.
@@ -54,4 +55,3 @@ What if you want to send an email to a lead on behalf of the Lead Owner?  Here's
 1. Make sure the **Reply-to** and **Subject** fields are populated, and you're done!
 
    ![](assets/eleven.png)
-

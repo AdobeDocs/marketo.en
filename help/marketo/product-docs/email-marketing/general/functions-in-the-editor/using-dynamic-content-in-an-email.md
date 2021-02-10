@@ -8,10 +8,9 @@ title: Using Dynamic Content in an Email
 
 >[!PREREQUISITES]
 >
->* [Create a Segmentation](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->
+>[Create a Segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
-Use Dynamic Content in Emails to send your leads targeted information. 
+Use Dynamic Content in Emails to send your leads targeted information.
 
 ## Add Segmentation {#add-segmentation}
 
@@ -29,9 +28,9 @@ Use Dynamic Content in Emails to send your leads targeted information.
 
    >[!NOTE]
    >
-   >You can also make an element inside the email dynamic. To do this, select the area, click the gear icon, and select **Make Dynamic** (or [Replace with Snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), depending on what you're doing).
+   >You can also make an element inside the email dynamic. To do this, select the area, click the gear icon, and select **Make Dynamic** (or [Replace with Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), depending on what you're doing).
 
-   Enter the Segmentation name, select it, and click Save.
+1. Enter the Segmentation name, select it, and click **Save**.
 
    ![](assets/1.4.png)
 
@@ -45,7 +44,7 @@ Use Dynamic Content in Emails to send your leads targeted information.
 >
 >The number of dynamic content elements allowed is not unlimited. While there is no specific number limit (it can vary based on the combination of content), overusing dynamic content can negatively affect the email's performance. We recommend keeping the amount of dynamic content elements used to under 20 per email.
 
-1. Click your segments and add your subject line. 
+1. Click your segments and add your subject line.
 
 ![](assets/2.1.png)
 
@@ -59,13 +58,11 @@ Use Dynamic Content in Emails to send your leads targeted information.
 
 >[!CAUTION]
 >
->Changes to Default segment content block gets applied to all segments. 
+>Changes to Default segment content block gets applied to all segments.
 
-Sweet! Now you can send flexible emails to your target audience. 
+Sweet! Now you can send flexible emails to your target audience.
 
 >[!MORELIKETHIS]
 >
->* [Preview an Email with Dynamic Content](preview-an-email-with-dynamic-content.md)
->* [Use Dynamic Content in a Landing Page](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
->
-
+>* [Preview an Email with Dynamic Content](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
+>* [Use Dynamic Content in a Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)

@@ -69,6 +69,6 @@ Use the Search Code functionality to efficiently find and replace content within
 
    >[!NOTE]
    >
-   >Search Code is also available in the [Email Template editor](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template).
+   >Search Code is also available in the [Email Template editor](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md).
 
 We recommend that you continue to edit your emails using Marketo's built-in functionality, but this code editor does provide flexibility if you need it.

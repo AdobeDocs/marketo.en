@@ -10,18 +10,17 @@ Marketo Sales Connect is a multi-faceted sales support solution with a variety o
 
 >[!AVAILABILITY]
 >
->
 >Not all customers have purchased this functionality. Contact your Customer Success Manager for more information.
 
 ## The Live Feed {#the-live-feed}
 
-Sales reps can view [real-time engagement](http://docs.marketo.com/x/d4TS) of both marketing and sales content.
+Sales reps can view [real-time engagement](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) of both marketing and sales content.
 
 ![](assets/engagement.jpg)
 
 ## Person Detail View {#person-detail-view}
 
-Access [detailed people stats](http://docs.marketo.com/x/e4TS).
+Access [detailed people stats](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -55,7 +54,7 @@ See how your prospects are engaging with your sales efforts.
   </tr> 
   <tr> 
    <td colspan="1"><p>Receive Sales Call</p></td> 
-   <td colspan="1"><p>Lead received a call from a salesperson using the <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">Sales Phone</a>.</p></td> 
+   <td colspan="1"><p>Lead received a call from a salesperson using the <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Sales Phone</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Add to Sales Campaign</p></td> 
@@ -74,7 +73,7 @@ See how your prospects are engaging with your sales efforts.
 
 ## Share Marketing Campaigns {#share-marketing-campaigns}
 
-Create a simple smart campaign to give your sales users access to [Marketo campaign data](http://docs.marketo.com/x/NwDh).
+Create a simple smart campaign to give your sales users access to [Marketo campaign data](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 
@@ -82,6 +81,4 @@ Ready to get started? For setup instructions, click the link below.
 
 >[!MORELIKETHIS]
 >
->* [Getting Started with Sales Connect](http://docs.marketo.com/x/coTS)
->
-
+>[Getting Started with Sales Connect](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)

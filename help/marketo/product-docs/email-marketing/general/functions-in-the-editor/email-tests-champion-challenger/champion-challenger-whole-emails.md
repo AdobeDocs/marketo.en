@@ -10,10 +10,9 @@ Test whole emails against each other. When the test is over, send out the top pe
 
 >[!PREREQUISITES]
 >
->* [Add an Email Champion/Challenger](add-an-email-champion-challenger.md)
->
+>[Add an Email Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. In the email test editor, select **Whole Emails** in the **Test Type **dropdown.
+1. In the email test editor, select **Whole Emails** in the **Test Type** drop-down.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -37,10 +36,11 @@ Test whole emails against each other. When the test is over, send out the top pe
    >
    >**Example**
    >
-   >
    >In the distribution shown above, 15% of the total audience specified in the smart list gets one of the challenger emails and 85% receive the champion email. Multiple challenger emails share the 15% equally. When the test is over, you can declare a winner manually. From then on, all future people receive the better performing content.
 
-   [More information than you ever wanted about statistical confidence](http://en.wikipedia.org/wiki/Confidence_interval).
+   To gain statistical confidence, be sure that the percentage you assign to challengers includes enough people that your test is valid. Don't be fooled by inconclusive results.
+
+   [More information than you ever wanted about statistical confidence](https://en.wikipedia.org/wiki/Confidence_interval).
 
 1. Click **Next**.
 
@@ -50,11 +50,4 @@ Test whole emails against each other. When the test is over, send out the top pe
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: Define Champion Criteria](champion-challenger-define-champion-criteria.md)
-   >    
-   >
-
-To gain statistical confidence, be sure that the percentage you assign to challengers includes enough people that your test is valid. Don't be fooled by inconclusive results. 
+   >[Champion/Challenger: Define Champion Criteria](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

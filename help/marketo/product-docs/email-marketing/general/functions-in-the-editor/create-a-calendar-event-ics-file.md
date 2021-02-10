@@ -28,7 +28,5 @@ Mission accomplished! Make sure to test it out.
 
 >[!MORELIKETHIS]
 >
->* [Include a Calendar Event (.ics) in an Email](include-a-calendar-event-ics-in-an-email.md)
->* [Include a Calendar Event ICS File in a Landing Page](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
->
-
+>* [Include a Calendar Event (.ics) in an Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+>* [Include a Calendar Event ICS File in a Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)

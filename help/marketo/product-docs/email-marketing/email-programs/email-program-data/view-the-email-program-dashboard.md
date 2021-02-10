@@ -40,7 +40,5 @@ Check out how your email program (with or without an A/B test) is performing wit
 
 >[!MORELIKETHIS]
 >
->* [Use the Email Program Dashboard - A/B Test View](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [Use the Email Program Dashboard](use-the-email-program-dashboard.md)
->
-
+>* [Use the Email Program Dashboard - A/B Test View](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [Use the Email Program Dashboard](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

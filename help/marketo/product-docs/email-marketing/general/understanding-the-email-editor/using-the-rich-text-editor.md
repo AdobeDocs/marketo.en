@@ -10,7 +10,7 @@ The Rich Text Editor (RTE) appears throughout Marketo and is available whenever 
 
 ## Editor Settings {#editor-settings}
 
-The root block element setting defines which tags wrap your content. By default, the email root block element utilizes <p> tags. You have the option to change that by following the steps below.
+The root block element setting defines which tags wrap your content. By default, the email root block element utilizes `<p>` tags. You have the option to change that by following the steps below.
 
 >[!TIP]
 >
@@ -28,11 +28,11 @@ The root block element setting defines which tags wrap your content. By default,
 
    ![](assets/three.png)
 
-1. In the **Email / Snippet Editor** drop-down, select <div> or None and click **Save**. <div> is used in this example.
+1. In the **Email / Snippet Editor** drop-down, select `<div>` or None and click **Save**. `<div>` is used in this example.
 
    ![](assets/four.png)
 
-   If you have <div class=“mktEditable”></div> in an Email Template, you will see the following HTML Source behavior when you open the section and type “Text Goes Here” in the editor:
+   If you have `<div class=“mktEditable”></div>` in an Email Template, you will see the following HTML Source behavior when you open the section and type “Text Goes Here” in the editor:
 
 <table> 
  <tbody> 
@@ -55,7 +55,7 @@ The root block element setting defines which tags wrap your content. By default,
 
    >[!NOTE]
    >
-   >The root block element is always <p> for rich-text program tokens.
+   >The root block element is always `<p>` for rich-text program tokens.
 
 ## Features {#features}
 
@@ -102,7 +102,7 @@ Here are the features you'll find in an RTE.
 
 ## Landing Pages {#landing-pages}
 
-The root block element setting defines which tags wrap your content. By default, the landing page root block element utilizes <div> tags. You have the option to change that, by following the steps below.
+The root block element setting defines which tags wrap your content. By default, the landing page root block element utilizes `<div>` tags. You have the option to change that, by following the steps below.
 
 >[!TIP]
 >
@@ -120,9 +120,8 @@ The root block element setting defines which tags wrap your content. By default,
 
    ![](assets/three.png)
 
-1. In the **Landing Page Editor** drop-down, select <p> or None and click **Save**. <p> is used in this example.
+1. In the **Landing Page Editor** drop-down, select `<p>` or None and click **Save**. `<p>` is used in this example.
 
    ![](assets/five.png)
 
    And that's it!
-

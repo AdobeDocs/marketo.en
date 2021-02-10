@@ -29,7 +29,7 @@ Elements are content regions that you define as editable in your email template.
 
 ## Rich Text {#rich-text}
 
-If you define a region as Rich Text, users will be able to edit its contents [using Marketo's Rich Text Editor](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). There are two ways to define a Rich Text element inside of an email template: mktEditable and mktoText. Keep in mind, a Rich Text element can always be converted into a snippet from within the email editor.
+If you define a region as Rich Text, users will be able to edit its contents [using Marketo's Rich Text Editor](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). There are two ways to define a Rich Text element inside of an email template: mktEditable and mktoText. Keep in mind, a Rich Text element can always be converted into a snippet from within the email editor.
 
 ### Option 1 - mktEditable {#option-mkteditable}
 
@@ -44,13 +44,13 @@ Optional attributes
 
 * **mktoName** : String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.  
   
-Default value   
+Default value
 
 The content within the HTML element (if provided) with class="mktEditable" will be used as the default value for the Rich Text element.
 
 Example:
 
-`<pre data-theme="Confluence"><div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>` 
+`<pre data-theme="Confluence"><div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
 
 ### Option 2 - mktoText {#option-mktotext}
 
@@ -62,19 +62,19 @@ Required attributes
 * **id**: ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.  
 * **mktoName** : String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.  
   
-Default Value   
+Default Value
 
-The content within the HTML element (if provided) with class="mktoText" will be used as the default value for the Rich Text element. 
+The content within the HTML element (if provided) with class="mktoText" will be used as the default value for the Rich Text element.
 
 Example:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>` 
+`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
 
 ## Images {#images}
 
 You have two options for defining editable Image elements. You may use either a `<div>`, which specifies a container that the `<img>` will be inserted into, or an `<img>` tag. If you intend for the end user to simply pick an image that will return the image URL (as opposed to the DOM), please refer to "image variables" in the section below. The following two options will insert an HTML `<img>` element.
 
-### Option 1 - Use a \<div\> {#option-use-a-div}
+### Option 1 - Use a `<div>` {#option-use-a-div}
 
 Required attributes  
 
@@ -99,7 +99,7 @@ Default value (optional)
 
 Example:
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="http://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>` 
+`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="http://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
 
 ### Option 2 - Use an \<img\> {#option-use-an-img}
 
@@ -107,21 +107,21 @@ Example:
 >
 >This option does not allow end users to add a link to their image. Use Option 1 if this is important to your template.
 
-Required attributes   
+Required attributes
 
-* **class:** "mktoImg".   
-* **id:** ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.   
+* **class:** "mktoImg".
+* **id:** ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.
 * **mktoName:** String. This is the display name that will be shown in Email Editor 2.0. Best practice is to use a descriptive name.  Default value (optional)  
 * **src:** To be used as the default value for the image. A placeholder is used if this is omitted.  
 * **mktoLockImgSize:** Used to unlock the `<img>` element's height and width property so that the end user can modify (default is true if omitted).  
 * **mktoLockImgStyle:** Used to lock the `<img>` element's style property (default is false).
 
 Example:
-`<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>` 
+`<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
 
 ## Snippets {#snippets}
 
-If you define a region as a Snippet, end users will be able to choose which approved [Snippet](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)they'd like to insert in this region. Although Rich Text elements can be converted into Snippets from within the email editor, when you define a region specifically as a Snippet it cannot be converted to Rich Text. You can specify a Snippet region using a `<div>` with class=”mktoSnippet”
+If you define a region as a Snippet, end users will be able to choose which approved [Snippet](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)they'd like to insert in this region. Although Rich Text elements can be converted into Snippets from within the email editor, when you define a region specifically as a Snippet it cannot be converted to Rich Text. You can specify a Snippet region using a `<div>` with class=”mktoSnippet”
 
 Required attributes
 
@@ -134,7 +134,7 @@ Default value (optional)
 
 Example:
 
-`<pre data-theme="Confluence"><div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div></pre>` 
+`<pre data-theme="Confluence"><div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div></pre>`
 
 ## Video {#video}
 
@@ -151,7 +151,7 @@ Optional attributes
 
 Example:
 
-`<pre data-theme="Confluence"><div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div></pre>` 
+`<pre data-theme="Confluence"><div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div></pre>`
 
 ## Variables {#variables}
 
@@ -174,11 +174,11 @@ Optional attributes
 
 Example Declaration:
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me"></pre>` 
+`<pre data-theme="Confluence"><meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me"></pre>`
 
 Example Usage:
 
-`<pre data-theme="Confluence">${textHeader}</pre>` 
+`<pre data-theme="Confluence">${textHeader}</pre>`
 
 ## List {#list}
 
@@ -197,11 +197,11 @@ Optional attributes
 
 Example Declaration:
 
-`<pre data-theme="Confluence"><meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman"></pre>` 
+`<pre data-theme="Confluence"><meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman"></pre>`
 
 Example Usage:
 
-`<pre data-theme="Confluence">${textFontFamily}</pre>` 
+`<pre data-theme="Confluence">${textFontFamily}</pre>`
 
 ## Number {#number}
 
@@ -223,11 +223,11 @@ Optional attributes
 
 Example Declaration:
 
-`<pre data-theme="Confluence"><meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> </pre>` 
+`<pre data-theme="Confluence"><meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> </pre>`
 
 Example Usage:
 
-`<pre data-theme="Confluence">${textFontSize}</pre>` 
+`<pre data-theme="Confluence">${textFontSize}</pre>`
 
 ## Color {#color}
 
@@ -245,11 +245,11 @@ Optional attributes
 
 Example Declaration:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF"></pre>` 
+`<pre data-theme="Confluence"><meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF"></pre>`
 
 Example Usage:
 
-`<pre data-theme="Confluence">${textColor}</pre>` 
+`<pre data-theme="Confluence">${textColor}</pre>`
 
 ## Boolean {#boolean}
 
@@ -271,11 +271,11 @@ Optional attributes
 
 Example Declaration:
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES"></pre>` 
+`<pre data-theme="Confluence"><meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES"></pre>`
 
 Example Usage:
 
-`<pre data-theme="Confluence">${showFooter}</pre>` 
+`<pre data-theme="Confluence">${showFooter}</pre>`
 
 ## HTML Block {#html-block}
 
@@ -293,11 +293,11 @@ Optional attributes
 
 Example Declaration:
 
-`<pre data-theme="Confluence"><meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel"></pre>` 
+`<pre data-theme="Confluence"><meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel"></pre>`
 
 Example Usage:
 
-`<pre data-theme="Confluence">${trackingPixel}</pre>` 
+`<pre data-theme="Confluence">${trackingPixel}</pre>`
 
 ## Image Variable {#image-variable}
 
@@ -315,11 +315,11 @@ Optional attributes
 
 Example Declaration:
 
-`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="http://www.company.com/image.jpg"></pre>` 
+`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="http://www.company.com/image.jpg"></pre>`
 
 Example Usage:
 
-`<pre data-theme="Confluence">${heroBackgroundImage}</pre>` 
+`<pre data-theme="Confluence">${heroBackgroundImage}</pre>`
 
 ## Modules {#modules}
 
@@ -340,12 +340,10 @@ Required attributes
 
 Optional attributes  
 
-* **mktoActive:** Determines whether this module appears in the list of modules within the email editor. Defaults to true. If false, the module cannot be added by an end user to an email.   
+* **mktoActive:** Determines whether this module appears in the list of modules within the email editor. Defaults to true. If false, the module cannot be added by an end user to an email.
 * **mktoAddByDefault:** Determines whether this module will be in the canvas of a new email that uses this template upon creation. Defaults to true (if mktoActive is false, this value is ignored).
 
 >[!NOTE]
->
->**Reminder**
 >
 >Class values containing Marketo syntax (i.e. mktoModule, mktoContainer, mktoText) are case sensitive. Custom attribute names (i.e. mktoimgwidth, mktoname) are not.
 

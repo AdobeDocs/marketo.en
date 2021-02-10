@@ -10,8 +10,7 @@ The final step in setting up your email test to approve it. Here's how.
 
 >[!PREREQUISITES]
 >
->* [Champion/Challenger: Configure Report Alerts](champion-challenger-configure-report-alerts.md)
->
+>[Champion/Challenger: Configure Report Alerts](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
 
 1. Go to **Marketing Activities**.
 
@@ -23,10 +22,7 @@ The final step in setting up your email test to approve it. Here's how.
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >When approving a **Whole Email**** **test, approve the challenger email first.
+   >When approving a **Whole Email** test, approve the challenger email first.
 
    >[!NOTE]
    >
@@ -36,11 +32,5 @@ The final step in setting up your email test to approve it. Here's how.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: Declare a Champion](champion-challenger-declare-a-champion.md)
-   >    * [Champion/Challenger: Discard an Email Test](champion-challenger-discard-an-email-test.md)
-   >    
-   >
-
+   >* [Champion/Challenger: Declare a Champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
+   >* [Champion/Challenger: Discard an Email Test](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)

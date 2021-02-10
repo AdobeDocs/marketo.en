@@ -64,5 +64,4 @@ To customize your email template, check out the article below.
 
 >[!MORELIKETHIS]
 >
->[Email Template Syntax](email-template-syntax.md)
-
+>[Email Template Syntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

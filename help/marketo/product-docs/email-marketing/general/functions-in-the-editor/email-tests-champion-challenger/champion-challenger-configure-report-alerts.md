@@ -10,8 +10,7 @@ Marketo will send you reports on how the email test is going. Here's how to sche
 
 >[!PREREQUISITES]
 >
->* [Champion/Challenger: Define Champion Criteria](champion-challenger-define-champion-criteria.md)
->
+>[Champion/Challenger: Define Champion Criteria](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
 1. Let's schedule the report to send once a week on Friday at 9 AM.
 
@@ -37,10 +36,4 @@ Marketo will send you reports on how the email test is going. Here's how to sche
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: Approve Your Email Test](champion-challenger-approve-your-email-test.md)
-   >    
-   >
-
+   >[Champion/Challenger: Approve Your Email Test](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)

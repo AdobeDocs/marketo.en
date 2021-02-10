@@ -43,11 +43,10 @@ For example, say Keith uses the ‘Forward to Friend’ link to forward the emai
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
    >Remember to approve the template draft to apply the changes.
 
    Now all emails that use that template will have the 'Forward to Friend' link. When the email recipient clicks it, they will be taken to a web version of the email with the ‘Forward to a Friend’ box:
+
    ![](assets/f2afbox.png)
 
 ## Add the Link to an Individual Email {#add-the-link-to-an-individual-email}
@@ -78,7 +77,7 @@ You can also add the 'Forward to Friend' link directly into an email.
 
    ![](assets/eight-1.png)
 
-1. Paste the **`{{system.forwardToFriendLink}}`** token into the **URL** box using Ctrl/Cmd+V, then click** Insert**.
+1. Paste the **`{{system.forwardToFriendLink}}`** token into the **URL** box using Ctrl/Cmd+V, then click **Insert**.
 
    ![](assets/nine.png)
 
@@ -110,15 +109,13 @@ You can see who forwarded and received the emails in the person's Activity Log.
    >
    >**Definition**
    >
-   >
    >For Received Forward to Friend Email, the Person ID is the person who forwarded the email.
-   >
    >
    >For Sent Forward to Friend Email, the Person ID is the person who received the email.
 
    ![](assets/sixteen.png)
 
-1. To view a person by ID, copy and paste the** Person ID** to the end of the URL (the beginning of said URL will depend on your Marketo instance):
+1. To view a person by ID, copy and paste the **Person ID** to the end of the URL (the beginning of said URL will depend on your Marketo instance):
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
@@ -130,7 +127,7 @@ You can see who forwarded and received the emails in the person's Activity Log.
 
    >[!NOTE]
    >
-   >If the friend receiving the forward is an unknown person, a new person is created with ‘Forward to Friend’ marked as the person’s **Source**.   
+   >If the friend receiving the forward is an unknown person, a new person is created with ‘Forward to Friend’ marked as the person’s **Source**.
    >If the email is a local asset of a program, the program is marked as the person’s **Acquisition Program**.
 
 ## Trigger or Filter using Forwarding Activity {#trigger-or-filter-using-forwarding-activity}
