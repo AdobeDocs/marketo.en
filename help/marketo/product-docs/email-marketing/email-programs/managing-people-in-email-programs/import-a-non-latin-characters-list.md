@@ -64,4 +64,4 @@ This is because the file is not saved properly for Marketo to recognize all the 
    >
    >Any date/time fields being imported are treated as Central Time. If you have date/time fields in a different time zone, you can use an Excel formula to transform it to Central Time (America/Chicago).
 
-We know this is weird, but it works. Happy Importing! 
+We know this is weird, but it works. Happy Importing!

@@ -8,8 +8,7 @@ title: Undo in the Email Editor
 
 1. To undo a change, click the Left arrow.
 
-` ![](assets/one-2.png)  
-`
+  ![](assets/one-2.png)
 
 >[!TIP]
 >
@@ -17,12 +16,10 @@ title: Undo in the Email Editor
 
 1. To redo a change, click the Right arrow.
 
-   ` ![](assets/two-2.png)  
-   `
+   ![](assets/two-2.png)
 
    >[!NOTE]
    >
    >You cannot undo while editing text. Once done, you can undo all changes from first edit to save.
 
    Nice! Now you can undo and redo like a pro.
-

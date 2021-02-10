@@ -46,8 +46,6 @@ Here's how to add them to an email:
 
 >[!NOTE]
 >
->**Reminder**
->
->Don't forget to [approve your email](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md) when done.
+>Don't forget to [approve your email](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) when done.
 
-Nicely done! Now you know how to add a system token as a link in an email. 
+Nicely done! Now you know how to add a system token as a link in an email.

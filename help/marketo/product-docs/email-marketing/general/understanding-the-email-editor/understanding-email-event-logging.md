@@ -21,4 +21,3 @@ When sending emails, Marketo logs different data points to the person's activity
 >[!CAUTION]
 >
 >If the same email is sent to the same person twice from the same campaign, the **Opened** event will be logged a maximum of 1 time.
-

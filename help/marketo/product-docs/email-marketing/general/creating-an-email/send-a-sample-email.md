@@ -6,7 +6,7 @@ title: Send a Sample Email
 
 # Send a Sample Email {#send-a-sample-email}
 
-It's quick and easy to send samples of an email. To send a dynamic content email, see  [Preview an Email with Dynamic Content](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
+It's quick and easy to send samples of an email. To send a dynamic content email, see [Preview an Email with Dynamic Content](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >
@@ -26,9 +26,6 @@ It's quick and easy to send samples of an email. To send a dynamic content email
    ![](assets/two.png)
 
    >[!NOTE]
-   >
-   >**Reminder**
-   >
    >
    >To enter multiple email addresses, use commas to separate them.
 
@@ -52,13 +49,13 @@ It's quick and easy to send samples of an email. To send a dynamic content email
 
    >[!NOTE]
    >
-   >The trigger field is only applicable for those utilizing [email scripting](http://developers.marketo.com/documentation/velocity-script/).
+   >The trigger field is only applicable for those utilizing [email scripting](https://developers.marketo.com/documentation/velocity-script/).
 
 ## Send a Sample Email Based on a Segment {#send-a-sample-email-based-on-a-segment}
 
 >[!PREREQUISITES]
 >
->[Apply segmentation to your email](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email).
+>[Apply segmentation to your email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
 
 1. Find your email, select it and click the **Edit Draft** tab.
 

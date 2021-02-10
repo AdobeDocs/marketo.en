@@ -8,7 +8,7 @@ title: Disable Tracking for an Email Link
 
 Sometimes you don't want to enable the **Marketo Tracking URL** on a link in an email. This is useful when the destination page does not support URL parameters and may result in a broken link.
 
-1. Select your email and click **Edit** **Draft**.
+1. Select your email and click **Edit Draft**.
 
    ![](assets/one-7.png)
 

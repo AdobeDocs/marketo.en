@@ -8,9 +8,9 @@ title: Define an Audience by Importing a List
 
 >[!PREREQUISITES]
 >
->[Create an Email for an Email Program](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>[Create an Email for an Email Program](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Once you've created an email program, you'll want to tell it who to send the email to. You can do this by  [creating a smart list](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) or by importing a list. Here's how to accomplish this by importing a list. 
+Once you've created an email program, you'll want to tell it who to send the email to. You can do this by [creating a smart list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) or by importing a list. Here's how to accomplish this by importing a list.
 
 >[!NOTE]
 >
@@ -22,17 +22,20 @@ Once you've created an email program, you'll want to tell it who to send the ema
 
    ![](assets/login-marketing-activities-1.png)
 
-   Select your email program and then click Import List under the Audience tile.
+1. Select your email program and then click Import List under the Audience tile.
+
    ![](assets/importlist.png)
 
-1. The list import window opens, click on **Browse** and select the file you want to import. Once you have selected your list of people, click Next.
-1. ![](assets/importlist1.png)
+1. The list import window opens, click on **Browse** and select the file you want to import. Once you have selected your list of people, click **Next**.
+
+   ![](assets/importlist1.png)
 
    >[!CAUTION]
    >
    >Make sure the list is encoded UTF-8, UTF-16, Shift-JIS, or EUC-JP, and does not exceed 50MB in file size.
 
-   Verify that the fields in your file are mapped correctly and click Next.
+1. Verify that the fields in your file are mapped correctly and click **Next**.
+
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
    >[!TIP]
@@ -67,11 +70,9 @@ Once you've created an email program, you'll want to tell it who to send the ema
 >
 >You don't have to wait for the list import to finish. You can keep working if you'd like.
 
-Fantastic! Now it's time to choose an already existing email or to create a new email to send to these people. 
+Fantastic! Now it's time to choose an already existing email or to create a new email to send to these people.
 
 >[!MORELIKETHIS]
 >
->* [Choose an Existing Email](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [Create an Email for an Email Program](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
->
-
+>* [Choose an Existing Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [Create an Email for an Email Program](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)

@@ -31,4 +31,3 @@ Adding team members is quick and easy!
 1. Click **OK**.
 
    ![](assets/five.png)
-

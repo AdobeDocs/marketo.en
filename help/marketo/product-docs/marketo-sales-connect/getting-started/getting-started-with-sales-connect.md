@@ -10,7 +10,6 @@ If you would rather watch these steps than read them, skip straight to the [Vide
 
 >[!AVAILABILITY]
 >
->
 >Not all customers have purchased this functionality. Contact your Customer Success Manager for more information.
 
 ## What You Need to Get Started {#what-you-need-to-get-started}
@@ -32,9 +31,9 @@ You'll receive an email from Marketo with a link to reset your password. After y
 
 To complete setup, you must do the following:
 
-* [Connect Sales Connect and Salesforce](#sfdc) 
-* [Acquire Credentials Prior to Connecting Sales Connect with Marketo](#acquire) 
-* [Connect Sales Connect with Marketo](#mkto) 
+* [Connect Sales Connect and Salesforce](#sfdc)
+* [Acquire Credentials Prior to Connecting Sales Connect with Marketo](#acquire)
+* [Connect Sales Connect with Marketo](#mkto)
 * [Invite/Provision Users](#IPU)
 
 Optionally, you can also:
@@ -113,7 +112,7 @@ You can provision your team as a Marketo Sales Connect User from this page. If y
    >
    >If you want to add new users, go to the Team Management section of Admin Settings and click the **Invite Users** button.
 
-You can additional users from the Team Management page and follow the steps above to get them connected. 
+You can additional users from the Team Management page and follow the steps above to get them connected.
 
 ## Test Sales Connect in your Sandbox {#test-sales-connect-in-your-sandbox}
 
@@ -122,7 +121,3 @@ For teams who want to test Marketo Sales Connect with their Marketo Sandbox, an 
 >[!NOTE]
 >
 >You cannot provision a Sales Connect account with the same email ID to multiple instances. This means if you want to have an extra Sales Connect account to test with your Marketo Sandbox instance, you'll need to use a different email ID in each of the accounts.
-
-## Video Instructions {#video-instructions}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/w5RY7iMPpEfUYQ4Fp8WUKR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`

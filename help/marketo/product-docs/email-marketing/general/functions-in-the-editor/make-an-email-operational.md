@@ -12,13 +12,11 @@ Operational emails ignore Unsubscribed and Marketing Suspended statuses. They se
 >
 >Operational emails are not subject to communication limits.
 
-1. Find your email, select it and click Edit Draft.
+1. Find your email, select it and click **Edit Draft**.
 
 ![](assets/one-1.png)
 
 >[!NOTE]
->
->**Reminder**
 >
 >You should only use Operational emails for critical emails and auto-responders. They are not meant for marketing emails.
 
@@ -34,4 +32,4 @@ Operational emails ignore Unsubscribed and Marketing Suspended statuses. They se
 >
 >Operational emails weren't designed to work with engagement programs. Thus, an engagement program will ignore an email's operational status. Please keep that in mind when working with them.
 
-Don't forget to approve this email in order for the changes to take effect. Learn how to  [approve an email](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md). 
+Don't forget to approve this email in order for the changes to take effect. Learn how to  [approve an email](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).

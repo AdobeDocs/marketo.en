@@ -12,8 +12,7 @@ Emails start in draft state. They are generally unavailable in the system until 
 
 1. Find and select your email, click the **Email Actions** drop-down and select **Approve**.
 
-   ` ![](assets/one.png)  
-   `
+   ![](assets/one.png)
 
 ## Approve It Directly in the Tree {#approve-it-directly-in-the-tree}
 

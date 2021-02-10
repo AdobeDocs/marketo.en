@@ -10,7 +10,7 @@ When you're ready, you can declare a champion for your email test.
 
 >[!MORELIKETHIS]
 >
->* [Champion/Challenger: Approve Your Email Test](champion-challenger-approve-your-email-test.md)
+>[Champion/Challenger: Approve Your Email Test](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
 1. Go to **Marketing Activities**.
 
@@ -36,7 +36,7 @@ When you're ready, you can declare a champion for your email test.
    >
    >Notice that the default **Declare Date** is tomorrow, not today.
 
-   Select a time and click **Save**.
+1. Select a time and click **Save**.
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 

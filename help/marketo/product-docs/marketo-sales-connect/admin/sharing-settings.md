@@ -16,7 +16,7 @@ When Sharing Settings are enabled, only admins will be able to share into catego
 
 ## Configure Your Sharing Settings {#configure-your-sharing-settings}
 
-1. In the the [web application](http://toutapp.com/login), go to the Settings page.
+1. In the the [web application](https://toutapp.com/login), go to the Settings page.
 
    ![](assets/one-2.png)
 
@@ -51,4 +51,3 @@ When Sharing Settings are enabled, only admins will be able to share into catego
 1. Now that your team has been added you can select to allow only team admins to share or all users on that team. In this example we gave all users on the SDR team sharing access.
 
    ![](assets/eight-1.png)
-

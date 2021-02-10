@@ -10,7 +10,7 @@ When you decide to activate the Email Editor v2.0, you'll notice several new fea
 
 **Email Template Picker**
 
-When you create a new email, you're taken to the [Email Template Picker](email-template-picker-overview.md).
+When you create a new email, you're taken to the [Email Template Picker](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/starter-templates-1.png)
 
@@ -22,19 +22,19 @@ When you start editing your email, you'll notice the editor has a whole new look
 
 **Modules**
 
-Those things on the right side of the editor are called modules. Learn how to [add modules to your email](add-modules-to-your-email.md).
+Those things on the right side of the editor are called modules. Learn how to [add modules to your email](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 ![](assets/three-4.png)
 
 **Text Version**
 
-Switching between the HTML version and Text versions of your email is now in a handy tab at the bottom. Learn how to [edit the text version of an email](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+Switching between the HTML version and Text versions of your email is now in a handy tab at the bottom. Learn how to [edit the text version of an email](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/four-3.png)
 
 **Email Header**
 
-Want more design space? The email header can be hidden after you're done [editing it](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Simply click on this icon...
+Want more design space? The email header can be hidden after you're done [editing it](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Simply click on this icon...
 
 ![](assets/five-4.png)
 
@@ -62,7 +62,7 @@ The default view there is desktop...
 
 ...but you can also see how it will look on a mobile device. You can preview the text version, too! Simply click **Edit Draft** in the upper-right to resume editing.
 
-[![](assets/preview3.png)](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
+![](assets/preview3.png)
 
 **Email Actions**
 
@@ -76,7 +76,7 @@ Under **Email Actions**, you'll notice some new features. **Upload an Image or F
 
 >[!NOTE]
 >
->** [Grab Images from Web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** works just like it does in the Design Studio.
+>**[Grab Images from Web](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** works just like it does in the Design Studio.
 
 **Disable Open Tracking** Under **Email Settings**, you can disable open tracking if necessary.
 
@@ -92,16 +92,12 @@ You have the option of adding a Preheader. A Preheader is the short summary text
 >
 >Tokens do not work in the Preheader when using the email editor. To use a token in the Preheader, it must be via your own HTML in an email template.
 
-Lots of great new features! Have fun! 
+Lots of great new features! Have fun!
 
 >[!NOTE]
->
->**Deep Dive**
 >
 >If you want to delve even deeper, check out this [helpful video](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >
->* [Email Template Syntax](email-template-syntax.md)
->
-
+>[Email Template Syntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

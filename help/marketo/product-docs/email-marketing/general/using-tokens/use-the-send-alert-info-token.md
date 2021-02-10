@@ -10,13 +10,15 @@ The `{{SP_Send_Alert_Info}}` token is a special token to be used when creating a
 
 >[!TIP]
 >
->This token only works as intended when sending the email containing it with the [Send Alert](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) flow step. It will not work when used in a Send Email flow step.
+>This token only works as intended when sending the email containing it with the [Send Alert](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) flow step. It will not work when used in a Send Email flow step.
 
-Example alert:   ![](assets/image2014-9-25-15-3a17-3a58.png)
+Example alert:
+
+![](assets/image2014-9-25-15-3a17-3a58.png)
 
 >[!NOTE]
 >
->Heads up! URLs in alerts have expiration dates so make sure they have a cadence that supports these types of messages. Expiration dates are [configured by an Admin](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
+>Heads up! URLs in alerts have expiration dates so make sure they have a cadence that supports these types of messages. Expiration dates are [configured by an Admin](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
 
 The following information is included as part of the `{{SP_Send_Alert_Info}}`:
 
@@ -53,8 +55,6 @@ The following information is included as part of the `{{SP_Send_Alert_Info}}`:
 
 >[!NOTE]
 >
->**Reminder**
->
 >Don't forget to approve your email.
 
-Good stuff! This token is very useful and you should use it in all alerts you create for your sales team. 
+Good stuff! This token is very useful and you should use it in all alerts you create for your sales team.

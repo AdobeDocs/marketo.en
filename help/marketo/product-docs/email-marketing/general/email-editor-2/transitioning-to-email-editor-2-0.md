@@ -6,7 +6,7 @@ title: Transitioning to Email Editor 2.0
 
 # Transitioning to Email Editor 2.0 {#transitioning-to-email-editor}
 
-As of the [June '19 release](../../../../release-notes/2016/release-notes-spring-16.md), all Marketo subscriptions have been transitioned to Email Editor 2.0. [Learn more](https://nation.marketo.com/docs/DOC-7038) about the Email Editor 1.0 deprecation.
+As of the [June '19 release](/help/marketo/release-notes/2016/release-notes-spring-16.md), all Marketo subscriptions have been transitioned to Email Editor 2.0. [Learn more](https://nation.marketo.com/docs/DOC-7038) about the Email Editor 1.0 deprecation.
 
 Emails and email templates within your subscription should have a version number. The version can be found in the asset’s summary page.
 
@@ -14,19 +14,19 @@ Emails and email templates within your subscription should have a version number
 
 By default, all of your existing emails and email templates will be marked as v1.0 if they were created either prior to the Spring ’16 Release, or after the release when Email Editor 2.0 is disabled. With Email Editor 2.0 now automatically enabled, you will see the following behavior:
 
-* When you create a new email, the [Email Template Picker](email-template-picker-overview.md) will display and you'll be able to choose a v2.0 email template. 
+* When you create a new email, the [Email Template Picker](email-template-picker-overview.md) will display and you'll be able to choose a v2.0 email template.
 * Whenever you create or edit an email with Email Editor 2.0, the resulting email will **always** be marked as v2.0 (even if you used a v1.0 email template).
 
 If your subscription has v1.0 emails before the move to Email Editor 2.0, you will experience the following behavior based on the asset's current state:
 
 **Approved** - Clicking “Edit Draft” will create a v2.0 draft of the approved email. If you then approve the v2.0 draft, the approved state of the email becomes v2.0 and there is no way to revert back to v1.0.  
-**Draft** - Clicking “Edit Draft” will automatically mark that draft as v2.0. At this point, it will not be possible to discard and revert to v1.0 because there is no approved version of the asset.   
+**Draft** - Clicking “Edit Draft” will automatically mark that draft as v2.0. At this point, it will not be possible to discard and revert to v1.0 because there is no approved version of the asset.
 **Approved with Draft** - Clicking “Edit Draft” will then automatically mark that draft as v2.0. Because of this, there is also no way to revert the draft back to v1.0.
 
 If your subscription has v1.0 email templates before the move to Email Editor 2.0, you will experience the following behavior:
 
-**Approved** - Clicking “Edit Draft” will create a v2.0 draft of the existing email template.   
-**Draft** - Clicking “Edit Draft” will automatically mark that draft as v2.0. At this point, it would not be possible to discard and revert to v1.0 because there is no approved version of the asset.   
+**Approved** - Clicking “Edit Draft” will create a v2.0 draft of the existing email template.
+**Draft** - Clicking “Edit Draft” will automatically mark that draft as v2.0. At this point, it would not be possible to discard and revert to v1.0 because there is no approved version of the asset.
 **Approved with Draft** - Clicking “Edit Draft” will automatically mark that draft as v2.0. Because of this, there is also no way to revert the draft back to v1.0.
 
 If you approve an email template that was previously v1.0 (in any of the above states), you will see the following behavior:
@@ -55,7 +55,5 @@ Things to Note
 
 >[!MORELIKETHIS]
 >
->* [Email Editor 2.0 Overview](email-editor-v2-0-overview.md)
->* [Email Template Syntax](email-template-syntax.md)
->
-
+>* [Email Editor 2.0 Overview](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>* [Email Template Syntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

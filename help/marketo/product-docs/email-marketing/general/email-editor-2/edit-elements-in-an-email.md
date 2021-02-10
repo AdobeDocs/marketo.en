@@ -28,10 +28,7 @@ Emails can contain four different elements: Rich text, Images, Snippets, and Vid
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >You can also add images, tokens, tables and other elements. See [Using the Rich Text Editor](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >You can also add images, tokens, tables and other elements. See [Using the Rich Text Editor](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
@@ -63,7 +60,9 @@ Emails can contain four different elements: Rich text, Images, Snippets, and Vid
    >
    >If you want to use a Marketo token, use this option. Keep in mind that when you use a token, the image will appear broken in the editor, but will render in Preview mode and the Send Sample email.
 
-   **Swap** ![](assets/eight.png)
+   To use an external URL, paste in the image's URL first. Alter the dimensions to suit your needs, and add some Alt Text (optional). Then press **Swap**.
+
+   ![](assets/eight.png)
 
    **My Computer**
 
@@ -83,14 +82,15 @@ Emails can contain four different elements: Rich text, Images, Snippets, and Vid
    >
    >If you're replacing an image, you'll need to check the **Overwrite existing image** box that appears below the Image URL/name.
 
-   **Design Studio**To insert an image from the Design Studio, simply locate it...
+   **Design Studio**
+
+   To insert an image from the Design Studio, simply locate it...
 
    ![](assets/twelve.png)
 
-   **Swap** 
-   ![](assets/thirteen.png)
+   ...and insert it. Alter the dimensions to suit your needs, change the Alt Text (optional), then press **Swap**.
 
-To use an external URL, paste in the image's URL first. Alter the dimensions to suit your needs, and add some Alt Text (optional). Then press .               ...and insert it. Alter the dimensions to suit your needs, change the Alt Text (optional), then press . 
+   ![](assets/thirteen.png)
 
 ## How to Edit the Snippet Element {#how-to-edit-the-snippet-element}
 

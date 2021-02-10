@@ -6,7 +6,7 @@ title: Email Template Picker Overview
 
 # Email Template Picker Overview {#email-template-picker-overview}
 
-When you [create an email](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md), you have several free templates to choose from. You can also create your own template and save it for future use.
+When you [create an email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), you have several free templates to choose from. You can also create your own template and save it for future use.
 
 ![](assets/starter-templates.png)
 
@@ -14,7 +14,7 @@ When you [create an email](../../../../product-docs/email-marketing/general/crea
 
 ![](assets/two-2.png)
 
-If your email is critical and you want it to circumvent Communication Limits, [make it operational](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) by checking the box. **Open in editor** is selected by default, and simply means you want to start editing your new email right away. **Create** means, create!
+If your email is critical and you want it to circumvent Communication Limits, [make it operational](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) by checking the box. **Open in editor** is selected by default, and simply means you want to start editing your new email right away. **Create** means, create!
 
 ![](assets/three-2.png)
 
@@ -24,9 +24,11 @@ If your email is critical and you want it to circumvent Communication Limits, [m
 
 >[!NOTE]
 >
->Marketo’s Starter Templates are offered to all customers free of charge. While they will be updated continuously and optimized for major email clients (and mobile devices), you should always evaluate whether they satisfy your needs. Marketo’s [Email Deliverability Tool](http://docs.marketo.com/display/DOCS/Email+Deliverability+Tool) can show you renderings of templates on different email clients. Unfortunately, Marketo cannot take design requests outside of paid service engagements.
+>Marketo’s Starter Templates are offered to all customers free of charge. While they will be updated continuously and optimized for major email clients (and mobile devices), you should always evaluate whether they satisfy your needs. Marketo’s [Email Deliverability Tool](/help/marketo/product-docs/email-marketing/deliverability/email-deliverability-tool.md) can show you renderings of templates on different email clients. Unfortunately, Marketo cannot take design requests outside of paid service engagements.
 
-**My Templates** consists of all the templates you've created. You may also have folders.   ![](assets/five-2.png)
+**My Templates** consists of all the templates you've created. You may also have folders.
+
+![](assets/five-2.png)
 
 All folders that appear under Emails > Templates in your Design Studio tree will be available in **My Templates**.
 
@@ -60,7 +62,5 @@ Pretty neat!
 
 >[!MORELIKETHIS]
 >
->* [Email Template Syntax](email-template-syntax.md)
->* [Create an Email](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
->
-
+>* [Email Template Syntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>* [Create an Email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)

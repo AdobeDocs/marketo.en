@@ -60,4 +60,4 @@ Your email is now created, so edit away!
 
 >[!MORELIKETHIS]
 >
->[Edit Your Email Header](edit-your-email-header.md)
+>[Edit Your Email Header](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)

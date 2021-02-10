@@ -10,8 +10,7 @@ If, at any point, you decide you don't want to continue running your email test,
 
 >[!PREREQUISITES]
 >
->* [Champion/Challenger: Approve Your Email Test](champion-challenger-approve-your-email-test.md)
->
+>[Champion/Challenger: Approve Your Email Test](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
 1. Go to **Marketing Activities**.
 
@@ -23,9 +22,6 @@ If, at any point, you decide you don't want to continue running your email test,
 
 1. Click **Delete** to confirm.
 
-   ` ![](assets/image2014-9-15-14-3a17-3a11.png)
+   ![](assets/image2014-9-15-14-3a17-3a11.png)
 
-   `
-
-   You're done! If you ever decide you want to set up a test again, go ahead and [add an email champion/challenger](add-an-email-champion-challenger.md).
-
+   You're done! If you ever decide you want to set up a test again, go ahead and [add an email champion/challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).

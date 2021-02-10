@@ -12,7 +12,8 @@ Preview your email after adding dynamic content in order to verify it.
 
    ![](assets/one-3.png)
 
-   Click the View By drop-down and select the type of dynamic content you want to preview.
+1. Click the View By drop-down and select the type of dynamic content you want to preview.
+
    ![](assets/two-3.png)
 
 1. A new drop-down appears. Click it and choose the specific content.

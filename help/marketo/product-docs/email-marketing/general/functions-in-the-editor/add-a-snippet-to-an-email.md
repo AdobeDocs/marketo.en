@@ -11,7 +11,6 @@ Snippets are reusable blocks of rich text and graphics that you can use in your 
 >[!PREREQUISITES]
 >
 >[Create a Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
->
 
 >[!NOTE]
 >

@@ -14,7 +14,7 @@ In Email Editor 2.0, a module is a section of your email that is defined in the 
 
    >[!NOTE]
    >
-   >Most of the Marketo Starter Templates contain Modules. You may also [create your own](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules).
+   >Most of the Marketo Starter Templates contain Modules. You may also [create your own](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
 1. On the far right of the email, click **Modules**.
 
@@ -60,5 +60,4 @@ That's all there is to it.
 
 >[!MORELIKETHIS]
 >
->[Email Template Syntax](email-template-syntax.md)
-
+>[Email Template Syntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

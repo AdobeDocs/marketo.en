@@ -6,16 +6,13 @@ title: Define an Audience with a Smart List
 
 # Define an Audience with a Smart List {#define-an-audience-with-a-smart-list}
 
-Once you  [create an email program](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), you will want to tell it who to send the email to. You can do this by  [importing a list of people](define-an-audience-by-importing-a-list.md) or with a smart list. Here's how to accomplish this with a smart list.
+Once you [create an email program](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), you will want to tell it who to send the email to. You can do this by [importing a list of people](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) or with a smart list. Here's how to accomplish this with a smart list.
 
 >[!PREREQUISITES]
 >
->* [Create an Email Program](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->
+>[Create an Email Program](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 >[!NOTE]
->
->**Reminder**
 >
 >Defining your audience will only work when the email program is not approved.
 
@@ -39,18 +36,11 @@ Once you  [create an email program](../../../../product-docs/email-marketing/ema
 
    ![](assets/image2014-9-12-11-3a1-3a14.png)
 
-   >[!NOTE]
-   >
-   >**Deep Dive**
-   >
-   >
-   >Check out [smart lists and static lists](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) to learn more about using and defining filters.
-
 1. When you are done adding and defining filters, go back to the main program tab. You will see how many people qualify.
 
    ![](assets/myemailprogram.jpg)
 
-   Excellent work! Now it's time to [choose an existing email](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) or to [create an email](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) to send to these people.
+   Excellent work! Now it's time to [choose an existing email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) or [create an email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) to send to these people.
 
 >[!NOTE]
 >
@@ -66,11 +56,9 @@ Once you  [create an email program](../../../../product-docs/email-marketing/ema
 >
 >Click the number for a detailed list of people blocked from mailings. **Please note:** Operational emails will still be sent to people marked unsubscribed and marketing suspended.
 >
->Use the  ![--](assets/image2014-10-23-16-3a32-3a36.png) button on the Audience tile to see how many people will receive the email.
+>Use the ![--](assets/image2014-10-23-16-3a32-3a36.png) button on the Audience tile to see how many people will receive the email.
 
 >[!MORELIKETHIS]
 >
->* [Choose an Existing Email](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [Create an Email for an Email Program](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
->
-
+>* [Choose an Existing Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [Create an Email for an Email Program](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)

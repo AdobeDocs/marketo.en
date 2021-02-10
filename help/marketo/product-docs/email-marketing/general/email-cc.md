@@ -8,7 +8,7 @@ title: Email CC
 
 Email CC allows specified emails being sent through Marketo to include CC recipients.
 
-This feature is available on all Marketo email assets, regardless of how the email is sent (batch or trigger campaign). The CC recipient will receive an exact copy of the email sent to the chosen Marketo person. As such, any engagement activity (opens, clicks, etc.) will be logged to the activity log of the Marketo Person in the "To" line of the email. However, delivery activity (sent, delivered, hard bounce, etc.) *other than “soft bounce”* will **not** register, as Marketo is not able to distinguish delivery events for the Marketo Person from the CC recipients'. Marketo will only CC up to 100k People at a time. If your smart list exceeds 100k and it's imperative every person on it gets CC'd, we recommend breaking your list up.
+This feature is available on all Marketo email assets, regardless of how the email is sent (batch or trigger campaign). The CC recipient will receive an exact copy of the email sent to the chosen Marketo person. As such, any engagement activity (opens, clicks, etc.) will be logged to the activity log of the Marketo Person in the "To" line of the email. However, delivery activity (sent, delivered, hard bounce, etc.) _other than “soft bounce”_ will **not** register, as Marketo is not able to distinguish delivery events for the Marketo Person from the CC recipients'. Marketo will only CC up to 100k People at a time. If your smart list exceeds 100k and it's imperative every person on it gets CC'd, we recommend breaking your list up.
 
 >[!NOTE]
 >
@@ -50,10 +50,11 @@ This feature is available on all Marketo email assets, regardless of how the ema
 
    >[!NOTE]
    >
-   >
    >If an invalid email address is in a CC field, it will be skipped.
 
-   For quick identification, the Email Summary view shows you if/which Email CC fields were selected.  ![](assets/eight.png)
+   For quick identification, the Email Summary view shows you if/which Email CC fields were selected.  
+
+   ![](assets/eight.png)
 
    If the email is approved, but the Marketo Admin disables one or more of the CC fields before the email is sent, **those people will not receive an email**. In that scenario, the Email Summary view will gray out any fields that were disabled post-approval but pre-send:
 
@@ -69,9 +70,8 @@ This feature is available on all Marketo email assets, regardless of how the ema
 
 >[!TIP]
 >
->You have the option of [disabling some or all tracking links](http://docs.marketo.com/x/IwAd) in an email.
+>You have the option of [disabling some or all tracking links](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md) in an email.
 
 * After an email campaign is executed, Send Email activity will include a list of all CC addresses that were included for each recipient of the mailing. If any CC addresses were skipped due to unsubscribe, it will be noted in the activity as well.
 * Unsubscribe links and pages function normally in CC'd emails. This allows CC recipients to successfully unsubscribe if they wish (complying with anti-spam regulations), and a record of this action will be stored in the Marketo Database.
 * People who are listed as unsubscribed in your Marketo Database will **not** receive emails via CC.
-

@@ -10,10 +10,9 @@ You can easily test multiple subject lines. When the test is over, send out emai
 
 >[!PREREQUISITES]
 >
->* [Add an Email Champion/Challenger](add-an-email-champion-challenger.md)
->
+>[Add an Email Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. In the email test editor, select **Subject Line** in the **Test Type **drop-down.
+1. In the email test editor, select **Subject Line** in the **Test Type** drop-down.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
@@ -37,10 +36,9 @@ You can easily test multiple subject lines. When the test is over, send out emai
    >
    >**Example**
    >
-   >
    >In the distribution shown above, 10% of the total audience specified in the smart list gets one of the emails with the challenger subject line and 90% receive emails with the champion subject line. Emails with multiple challenger subject lines share the 10% equally. When the test is over, you can declare a winner manually. From then on, all future people receive the better performing content.
 
-   To gain statistical confidence, make sure the percentage you choose includes enough people, so that your test is valid. Don't be fooled by inconclusive results.  [More information than you ever wanted about statistical confidence](http://en.wikipedia.org/wiki/Confidence_interval).
+   To gain statistical confidence, make sure the percentage you choose includes enough people, so that your test is valid. Don't be fooled by inconclusive results. [More information than you ever wanted about statistical confidence](http://en.wikipedia.org/wiki/Confidence_interval).
 
 1. Click **Next**.
 
@@ -50,7 +48,4 @@ You can easily test multiple subject lines. When the test is over, send out emai
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Champion/Challenger: Define Champion Criteria](champion-challenger-define-champion-criteria.md)
-
+   >[Champion/Challenger: Define Champion Criteria](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

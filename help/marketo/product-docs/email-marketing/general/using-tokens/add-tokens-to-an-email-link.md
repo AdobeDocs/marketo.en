@@ -32,6 +32,4 @@ To insert extra and person-specific parameters into your links, you can use toke
 
 >[!MORELIKETHIS]
 >
->* [Using URLs in My Tokens](using-urls-in-my-tokens.md)
->
-
+>[Using URLs in My Tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)

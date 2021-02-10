@@ -65,4 +65,3 @@ Follow the steps below to use My Tokens to insert URLs into your emails.
    ![](assets/twelve.png)
 
    And you're done! Your URL will populate after sending, and thanks to you putting http:// in front of the token, it will produce a trackable link.
-
