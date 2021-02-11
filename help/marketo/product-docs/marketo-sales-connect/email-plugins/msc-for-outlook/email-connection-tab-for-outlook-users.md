@@ -56,7 +56,7 @@ Connecting to Outlook means you'll receive reply tracking, access to the Outlook
 
    ![](assets/nine-a.png)
 
-   You can use this connection to track emails and also [as a delivery channel](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
+   You can use this connection to track emails and also as a delivery channel.
 
    >[!NOTE]
    >
@@ -90,9 +90,10 @@ Connecting to Exchange On-Premise means you'll receive reply tracking, access to
 
    ![](assets/six-b.png)
 
-   | **Outlook Online** |Also known as Office Online |
+   | Version | Description |
    |---|---|
-   | **Exchange On-premise** |Includes Exchange 2013 and 2016 |
+   | **Outlook Online** | Also known as Office Online |
+   | **Exchange On-premise** | Includes Exchange 2013 and 2016 |
 
 1. Enter your credentials and click **Connect**.
 
@@ -102,10 +103,8 @@ Connecting to Exchange On-Premise means you'll receive reply tracking, access to
    >
    >If you turn off Autodiscover in the Exchange Version drop-down, you'll need to ask your IT department for the Exchange URL.
 
-   [as a delivery channel](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)
+   You can use this connection to track emails and also as a delivery channel.
 
    >[!NOTE]
    >
    >When using Outlook as a delivery channel, you cannot send more than 300 bulk emails at a time.
-
-You can use this connection to track emails and also . 

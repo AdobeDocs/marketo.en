@@ -6,7 +6,7 @@ title: Sales Connect Customizations for CRM
 
 # Sales Connect Customizations for CRM {#sales-connect-customizations-for-crm}
 
-The fields and buttons below are created by the Metadata API in Salesforce CRM. Once the fields are created, admins must configure the page layouts in their CRM to expose them. Instructions can be found [here](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
+The fields and buttons below are created by the Metadata API in Salesforce CRM. Once the fields are created, admins must configure the page layouts in their CRM to expose them. Instructions can be found [here](https://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
 
 >[!NOTE]
 >
@@ -127,14 +127,8 @@ Marketo will detect the creation of the new fields then do a one-time backfill o
 
 ## User Guides {#user-guides}
 
-[MSE Custom Reports in Salesforce](http://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+[MSE Custom Reports in Salesforce](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
-[MSE for Salesforce](http://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
+[MSE for Salesforce](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 
-[MSE for Salesforce Lightning](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
-
-## Related Videos {#related-videos}
-
-**How to install customizations in Salesforce**
-`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` ** The benefit of using customizations in Salesforce**
-`<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`  
+[MSE for Salesforce Lightning](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)

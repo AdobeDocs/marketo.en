@@ -9,8 +9,9 @@ title: Unexpected Error in Gmail
 If you are receiving an "Unexpected Error" in Gmail when trying to send an email, you probably need to perform a reset on your Gmail connection.
 
 1. Go to **Settings** > **Email Tracking** > **Manage**.
+
 1. Click **Disconnect from Gmail**.
+
 1. After disconnecting, click **Connect to Google**.
 
-   Once you are reconnected, go back to Gmail and refresh your page and try sending your email again. If it still doesn't work, please [submit a ticket](http://nation.marketo.com/community/support_solutions) to our Support Team.
-
+   Once you are reconnected, go back to Gmail and refresh your page and try sending your email again. If it still doesn't work, please [submit a ticket](https://nation.marketo.com/t5/Support/ct-p/Support) to our Support Team.

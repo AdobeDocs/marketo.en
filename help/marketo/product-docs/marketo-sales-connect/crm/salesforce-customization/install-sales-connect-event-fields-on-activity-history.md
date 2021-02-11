@@ -28,4 +28,3 @@ Make sure you team up with your Salesforce Admin when performing these steps. In
 1. Click **Save**.
 
    Your users can now see valuable information and updates about their emails in Salesforce!
-

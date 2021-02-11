@@ -14,10 +14,10 @@ From our experience, here are some things to try if your toolbar is not appearin
 
 - This may be obvious, but try exiting out of your browser and opening an entirely new window.
 
-- Head over to the [web application](http://toutapp.com/login) and make sure you're logged in there.
+- Head over to the [web application](https://toutapp.com/login) and make sure you're logged in there.
 
 - Make sure you have cookies enabled. If you're using Chrome, go to Settings > Show advanced settings > Content settings > Uncheck "Block third-party cookies and site data."
 
 - Try disconnecting then reconnecting the Sales Connect browser extension.
 
-If none of the tips above helped, please [submit a case](http://nation.marketo.com/community/support_solutions) to Support.
+If none of the tips above helped, please [submit a case](https://nation.marketo.com/community/support_solutions) to Support.

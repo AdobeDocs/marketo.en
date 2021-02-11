@@ -14,4 +14,4 @@ Typically, any file over 20MB will be too large to be delivered. The size of an 
 >
 >When using Tout as your email delivery channel, we recommend files of 19MB or less when sending emails.
 
-If you absolutely need to send a large file, try zipping it first or upload it as a [trackable attachment](http://docs.marketo.com/x/3oPS) in the [web application](http://toutapp.com/login).
+If you absolutely need to send a large file, try zipping it first or upload it as a [trackable attachment](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-track-your-email-attachments.md) in the [web application](https://toutapp.com/login).

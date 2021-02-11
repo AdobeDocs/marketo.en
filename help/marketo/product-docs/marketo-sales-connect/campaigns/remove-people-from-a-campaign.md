@@ -65,4 +65,3 @@ Additionally, you can remove people from the campaign itself, remove people from
 1. Click **Actions** and choose **Remove Selected From Campaign**.
 
    ![](assets/four-b.png)
-

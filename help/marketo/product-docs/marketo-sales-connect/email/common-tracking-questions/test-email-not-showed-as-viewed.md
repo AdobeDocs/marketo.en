@@ -12,7 +12,8 @@ The reason? Sales Connect is smart, and our active users would never forgive us 
 
 Here's how to get to the only place we'll show self-tracking.
 
-1. Go to the [Command Center](http://toutapp.com/next#emails/command_center).
-1. Find the email you sent yourself in the Sent folder and select it.
-1. Click the **Details** button. You should see your own views showing up there.
+1. Go to the [Command Center](https://toutapp.com/).
 
+1. Find the email you sent yourself in the Sent folder and select it.
+
+1. Click the **Details** button. You should see your own views showing up there.

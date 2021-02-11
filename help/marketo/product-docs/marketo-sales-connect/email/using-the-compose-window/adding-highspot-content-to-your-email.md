@@ -34,4 +34,4 @@ If you're a Highspot customer, you can easily insert Highspot content into your 
 
    ![](assets/six.png)
 
-The content appears as a link in your email. The recipient can click the link to view/download the content. 
+The content appears as a link in your email. The recipient can click the link to view/download the content.

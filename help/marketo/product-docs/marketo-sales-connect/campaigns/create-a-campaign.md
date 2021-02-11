@@ -27,7 +27,7 @@ So, how do you set up a Campaign?
 
    >[!NOTE]
    >
-   >Create a new category by clicking the** +** next to **Categories**.
+   >Create a new category by clicking the **+** next to **Categories**.
 
 1. The category you chose will be selected. If you change your mind, click the drop-down and select a different one. When you're done, click **Continue**.
 
@@ -37,7 +37,7 @@ So, how do you set up a Campaign?
 
    ![](assets/four-1.png)
 
-1. Choose between: Email, Call, InMail, or Custom Task. In this example we're choosing [Email](http://docs.marketo.com/display/DOCS/Campaign+Step+Types#CampaignStepTypes-Email).
+1. Choose between: Email, Call, InMail, or Custom Task. In this example we're choosing [Email](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email).
 
    ![](assets/five-1.png)
 
@@ -47,11 +47,10 @@ So, how do you set up a Campaign?
 
    >[!NOTE]
    >
-   >"Days" are not the number of days between actions, but the day within the sequence. For example, if your campaign is going to last 7 days, entering '3' means the action will go out on day 3 of 7, **not **3 days later.
+   >"Days" are not the number of days between actions, but the day within the sequence. For example, if your campaign is going to last 7 days, entering '3' means the action will go out on day 3 of 7, **not** 3 days later.
 
 1. Make sure you customize scheduling and reply options, such as skipping weekends (which is awesome) by visiting the **Settings Tab** for your Campaign.
 
    ![](assets/seven.png)
 
    Now it's time to start Adding People to your Campaign!
-

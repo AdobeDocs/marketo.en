@@ -34,4 +34,3 @@ The Unsubscribe History Card helps admins and users get contextual information a
   </tr> 
  </tbody> 
 </table>
-

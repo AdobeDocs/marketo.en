@@ -11,4 +11,3 @@ Add trackable content by clicking the **Content** button and uploading a file. A
 >[!NOTE]
 >
 >In order to track your email attachments, you'll have to add them via this button.
-

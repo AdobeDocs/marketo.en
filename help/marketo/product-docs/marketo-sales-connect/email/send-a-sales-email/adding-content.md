@@ -13,4 +13,3 @@ If you previously added content, you'll see those files. If not, click **Upload*
 >[!NOTE]
 >
 >The file will be placed where your cursor is within the email, and you must click "Tout It" when sending the email in order to track the content within your live feed.
-

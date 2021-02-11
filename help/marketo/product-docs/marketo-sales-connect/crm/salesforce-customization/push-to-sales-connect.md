@@ -10,9 +10,9 @@ Our Push to Tout button will take a list of your leads/contacts in Salesforce an
 
 ## Requirements {#requirements}
 
-* Sales Connect [Salesforce package](http://docs.marketo.com/x/C4PS) installed by `Salesforce Admin`
+* Sales Connect Salesforce package installed by Salesforce Admin
 
-* `Push to Sales Connect`button installed to list view by `Salesforce Admin`
+* Push to Sales Connect button installed to list view by Salesforce Admin
 
 * Salesforce Connection made with Sales Connect for user making the Push
 
@@ -23,11 +23,10 @@ Our Push to Tout button will take a list of your leads/contacts in Salesforce an
 1. Click **Go**.
 1. Select all the leads/contacts you want to be pushed to tout.
 1. Select **Push to MSE**.
-1. A new window will appear verifying the number of leads/contacts you'd like to push over. Select **Proceed to Group**. Sales Connect `will not push over` any contacts marked as `Email Opt Out` in Salesforce or `Unsubscribed` in Sales Connect.
+1. A new window will appear verifying the number of leads/contacts you'd like to push over. Select **Proceed to Group**. Sales Connect will not push over any contacts marked as Email Opt Out in Salesforce or Unsubscribed in Sales Connect.
 
    >[!NOTE]
    >
    >Sales Connect will add this group titled "SFDC-..." to the Relationships page on the [web application](http://toutapp.com/login).
 
 1. Select **Email Entire Group** to send out this group email.
-

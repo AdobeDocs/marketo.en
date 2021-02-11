@@ -65,4 +65,3 @@ Views are tracked by downloading a small invisible image pixel in your email cli
 1. Under Security, click the **Never** radio button.
 
    ![](assets/mac-3.png)
-

@@ -8,8 +8,8 @@ title: Import a Salesforce ID into Sales Connect
 
 Sales Connect uses the Contact or Lead ID (also known as Salesforce ID), to help log information properly to Salesforce. There are a few ways that you can attach your Salesforce ID to your contacts in Sales Connect.
 
-[Push to Sales Connect](http://docs.marketo.com/x/F4PS): Using Push to Sales Connect will create a contact in Sales Connect with all the key contact information, including the lead/contact's Salesforce ID.
+[Push to Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md): Using Push to Sales Connect will create a contact in Sales Connect with all the key contact information, including the lead/contact's Salesforce ID.
 
-[Send Marketo Sales Email, Add to Campaign, and Click to Call Buttons in SFDC](http://docs.marketo.com/x/DYPS): When you use any of these three buttons in Salesforce, we will push the contact to Sales Connect with the Salesforce ID.
+[Send Marketo Sales Email, Add to Campaign, and Click to Call Buttons in SFDC](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md): When you use any of these three buttons in Salesforce, we will push the contact to Sales Connect with the Salesforce ID.
 
-[Import CSV](http://docs.marketo.com/x/HIPS): If you export a list of leads/contacts from Salesforce and you include a column with the Salesforce ID, you can map the field to Sales Connect on import.
+[Import CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md): If you export a list of leads/contacts from Salesforce and you include a column with the Salesforce ID, you can map the field to Sales Connect on import.

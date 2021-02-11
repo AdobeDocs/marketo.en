@@ -16,21 +16,20 @@ Learn how to set up dashboards below.
 1. Select the **Summary** report format.
 1. Add the Subject, Assigned, and Marketo Sales Clicked/Marketo Sales Viewed fields to the report.
 1. Double-click on **Add Formula** within the Fields pane.
-1. Add a name to the formula, select **Percent **in the format, and select **Grouping 1*.***
-1. Select **Marketo Sales Clicked/Marketo Sales Viewed, **then** Sum** in the Summary Fields.
-1. Add a divide sign to the formula, and then select **Record Count** in the Summary fields – *Save As*.
+1. Add a name to the formula, select **Percent** in the format, and select **Grouping 1**.
+1. Select **Marketo Sales Clicked/Marketo Sales Viewed,** then **Sum** in the Summary Fields.
+1. Add a divide sign to the formula, and then select **Record Count** in the Summary fields – _Save As_.
 
 ## Template Performance Report {#template-performance-report}
 
-1. Customize the Open and Click report to include the following fields – *Save As.*
+1. Customize the Open and Click report to include the following fields – _Save As_.
 
 ## Template Volume Report {#template-volume-report}
 
 1. Modify the Template Performance Report and include the filter, "Marketo Sales Template not equal to blank."
-1. Remove the Marketo Sales Clicked field – *Save As*.
+1. Remove the Marketo Sales Clicked field – _Save As_.
 
 ## Trending Accounts Report {#trending-accounts-report}
 
 1. Select Activities with Accounts record type.
-1. Setup the report parameters and fields as indicated below – *Save As.
-
+1. Setup the report parameters and fields as indicated below – _Save As_.

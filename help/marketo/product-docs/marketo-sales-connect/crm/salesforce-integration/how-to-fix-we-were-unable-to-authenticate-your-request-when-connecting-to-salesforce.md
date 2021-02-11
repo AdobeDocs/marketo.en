@@ -24,4 +24,3 @@ If you receive the error message "We were unable to authenticate your request" w
 1. Select **Manage Apps**.
 1. Select **Connected Apps OAuth Usage**.
 1. Make sure that Sales Connect shows "Block" next to it. If you see "Unblock", click the button to unblock Sales Connect's access to Salesforce.
-

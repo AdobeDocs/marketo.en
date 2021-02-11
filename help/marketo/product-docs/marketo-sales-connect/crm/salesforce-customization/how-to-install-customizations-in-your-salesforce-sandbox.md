@@ -12,7 +12,7 @@ title: How to Install Customizations in Your Salesforce Sandbox
 
 >[!PREREQUISITES]
 >
->[Connect Sales Connect to Your Salesforce Sandbox](http://docs.marketo.com/x/DYDq)
+>[Connect Sales Connect to Your Salesforce Sandbox](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
 1. In Sales Connect, click the gear icon on the upper-right and select **Settings**.
 
@@ -26,5 +26,4 @@ title: How to Install Customizations in Your Salesforce Sandbox
 
    ![](assets/three-3.png)
 
-   Next, simply go through the steps of installing the customization as you would on a regular Salesforce account. Skip to the one-minute mark of [this video](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce) for additional information.
-
+   Next, simply go through the steps of installing the customization as you would on a regular Salesforce account.

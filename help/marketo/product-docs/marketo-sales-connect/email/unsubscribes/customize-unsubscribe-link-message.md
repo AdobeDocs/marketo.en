@@ -14,7 +14,7 @@ We have always allowed teams to customize their unsubscribe link messaging, but 
 
 ## Customize Messaging for Yourself {#customize-messaging-for-yourself}
 
-1. Log-in to the [web application](http://toutapp.com/login), click the gear icon on the top right and choose **Settings**.
+1. Log in to the [web application](https://toutapp.com/login), click the gear icon on the top right and choose **Settings**.
 
    ![](assets/one.png)
 
@@ -40,7 +40,7 @@ We have always allowed teams to customize their unsubscribe link messaging, but 
 
 ## Set Unsubscribe Messaging for Your Team {#set-unsubscribe-messaging-for-your-team}
 
-1. Log-in to the [web application](http://toutapp.com/login), click the gear icon on the top right and choose **Settings**.
+1. Log in to the [web application](https://toutapp.com/login), click the gear icon on the top right and choose **Settings**.
 
    ![](assets/six.png)
 
@@ -55,4 +55,3 @@ We have always allowed teams to customize their unsubscribe link messaging, but 
 1. Select **I am setting the default messaging for my team** to have the messaging apply to all users.
 
    ![](assets/eleven.png)
-

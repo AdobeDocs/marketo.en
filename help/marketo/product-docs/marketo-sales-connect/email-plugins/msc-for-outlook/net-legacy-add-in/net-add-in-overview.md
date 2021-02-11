@@ -8,7 +8,7 @@ title: .NET Add-in Overview
 
 >[!NOTE]
 >
->This is our old add-in. If you already have it installed, it will continue to work until 2020. If you are a new user, please install our new [Office 365 add-in](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
+>This is our old add-in. If you already have it installed, it will continue to work until 2020. If you are a new user, please install our new [Office 365 add-in](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
 ## Attaching a Piece of Content {#attaching-a-piece-of-content}
 
@@ -26,7 +26,7 @@ This pulls in your Outlook calendar and allows you to add specific dates and tim
 
 Pull in a pre-made Tout template to the Outlook message by pressing the **Templates** button.  
   
-We `sync with all of your personal templates and any shared templates` among the team. We also automatically pull in the last used template and the most frequently used template for easy access.
+We sync with all of your personal templates and any shared templates among the team. We also automatically pull in the last used template and the most frequently used template for easy access.
 
 ## The Tout It Button {#the-tout-it-button}
 

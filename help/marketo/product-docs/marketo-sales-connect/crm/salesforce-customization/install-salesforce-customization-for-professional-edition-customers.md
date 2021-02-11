@@ -12,7 +12,6 @@ Customers with Salesforce Professional Edition will have to follow these steps t
 >
 >* Sales Connect Admin needs to connect their Salesforce and Sales Connect accounts.
 >* Salesforce Instance used needs to have space to install thirteen Custom Activity Fields.
->
 
 ## Installation {#installation}
 
@@ -30,7 +29,7 @@ Customers with Salesforce Professional Edition will have to follow these steps t
    >
    >If you are connected, you'll see a green "Install" button. **DO NOT** click this button, proceed to step 4 instead.
 
-1. Log-in to the Salesforce account you are connected to and then click [this link](http://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
+1. Log in to the Salesforce account you are connected to and then click [this link](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
 1. You'll be sent to the Sales Connect Installation page.
 
    ![](assets/install-package.png)
@@ -48,7 +47,8 @@ Customers with Salesforce Professional Edition will have to follow these steps t
    >
    >Sales Engage is the previous name for Sales Connect.
 
+## Guides {#guides}
+
    [Installation Guide for Salesforce Classic](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)  
   
    [Installation Guide for Salesforce Lightning](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
-

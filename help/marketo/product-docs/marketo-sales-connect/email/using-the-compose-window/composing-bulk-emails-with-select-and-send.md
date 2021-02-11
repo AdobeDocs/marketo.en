@@ -26,7 +26,7 @@ Here's how to send/edit emails using the Select and Send option.
 
    ![](assets/three-2.png)
 
-1. Enter a subject line, select a template (or compose the email from scratch), and send/ [schedule](http://docs.marketo.com/x/GAQ6Ag)the email.
+1. Enter a subject line, select a template (or compose the email from scratch), and send/[schedule](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) the email.
 
    ![](assets/four-2.png)
 
@@ -38,7 +38,7 @@ Here's how to send/edit emails using the Select and Send option.
 
 **Bulk Edits**
 
-1. Follow Steps 1-3 from the [Sending Emails section](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails).
+1. Follow Steps 1-3 from the [Sending Emails section](#sending-emails).
 
    >[!NOTE]
    >
@@ -52,7 +52,7 @@ Here's how to send/edit emails using the Select and Send option.
    >
    >You can click on a specific email recipient to see the changes propagated to that email.
 
-1. Click **Send** (or [Schedule](http://docs.marketo.com/x/GAQ6Ag)) to send to all recipients with the bulk email updates you made.
+1. Click **Send** (or [Schedule](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) to send to all recipients with the bulk email updates you made.
 
    ![](assets/bulk-four.png)
 
@@ -60,7 +60,7 @@ Here's how to send/edit emails using the Select and Send option.
 
 Complete Bulk Updates before customizing each email, as making a bulk update overwrites changes to every email in the bulk compose sidebar.
 
-1. Follow Steps 1-4 from the [Sending Emails section.](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
+1. Follow Steps 1-4 from the [Sending Emails section](#sending-emails).
 
    >[!NOTE]
    >
@@ -82,18 +82,12 @@ Complete Bulk Updates before customizing each email, as making a bulk update ove
    >
    >You can click on other recipients to see that the changes you made to the previously selected recipient are not showing.
 
-1. Click **Send** (or [Schedule](http://docs.marketo.com/x/GAQ6Ag)) to send to all recipients with the bulk email updates you made.
+1. Click **Send** (or [Schedule](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) to send to all recipients with the bulk email updates you made.
 
    ![](assets/each-four.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Bulk Sending Options](http://docs.marketo.com/x/HwQ6Ag)
-   >    * [Using a Template in the Compose Window](http://docs.marketo.com/x/MQQ6Ag)
-   >    * [Dynamic Fields](http://docs.marketo.com/x/wwDb)
-   >    
-   >
-
+   >* [Bulk Sending Options](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+   >* [Using a Template in the Compose Window](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+   >* [Dynamic Fields](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)

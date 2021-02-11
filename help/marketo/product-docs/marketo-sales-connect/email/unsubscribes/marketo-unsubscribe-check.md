@@ -38,4 +38,3 @@ The Marketo Unsubscribe check...
 * Requires a Marketo connection be established
 * Is a global setting
 * Blocks emails sent from the web application, email clients, and Salesforce
-

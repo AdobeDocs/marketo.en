@@ -8,7 +8,7 @@ title: How to Connect Sales Connect to Your Salesforce Sandbox
 
 >[!PREREQUISITES]
 >
->Your Sales Connect account cannot already be connected to Salesforce when establishing a connection to the sandbox. If it is, [make sure you disconnect](http://docs.marketo.com/x/FoDq) before following the steps in this article.
+>Your Sales Connect account cannot already be connected to Salesforce when establishing a connection to the sandbox. If it is, [make sure you disconnect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) before following the steps in this article.
 
 1. In Sales Connect, click the gear icon on the upper-right and select **Settings**.
 
@@ -36,5 +36,4 @@ title: How to Connect Sales Connect to Your Salesforce Sandbox
 
 >[!MORELIKETHIS]
 >
->[How to Install Customizations in Your Salesforce Sandbox](http://docs.marketo.com/x/EIDq)
-
+>[How to Install Customizations in Your Salesforce Sandbox](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)

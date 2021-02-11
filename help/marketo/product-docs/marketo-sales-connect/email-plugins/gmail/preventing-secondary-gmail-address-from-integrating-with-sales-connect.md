@@ -16,7 +16,7 @@ Sales Connect integrates with Gmail through an extension installed in the Chrome
 
 Sign In As Another Chrome User (Recommended)
 
-Click [this link](http://support.google.com/chrome/answer/2364824?hl=en) to read how to create another Chrome Profile.
+Click [this link](https://support.google.com/chrome/answer/2364824?hl=en) to read how to create another Chrome Profile.
 
 **Pros**: Signing in as another user will open a new instance of Chrome. This instance is a brand new window of Chrome, and none of your old extensions will exist in this one. It also keeps cookies so you won't have to sign in to your Gmail every time.
 

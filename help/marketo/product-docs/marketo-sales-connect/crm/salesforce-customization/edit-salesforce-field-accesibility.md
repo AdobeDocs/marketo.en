@@ -13,4 +13,3 @@ If you are not seeing email activity log to Salesforce, it might be due to restr
 * Work with your Salesforce Admin to ensure these security settings are not interfering with Sales Connect.
 
 * If you are a Salesforce admin, you can see your Field Accessibility under the Security Controls tab. The main fields that Sales Connect will interact with are: Account, Contacts, Opportunity, Lead, and Task.
-

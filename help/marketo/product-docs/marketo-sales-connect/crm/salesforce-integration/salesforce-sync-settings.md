@@ -62,7 +62,7 @@ Once you activate “Email to Salesforce (BCC)”, you'll receive a BCC of your 
 
 If for some reason your Email to Salesforce address does not pull in, follow these steps to activate the BCC feature in your Salesforce account:
 
-1. Log-in to your Salesforce instance.
+1. Log in to your Salesforce instance.
 1. Find your user name in the upper-right corner and select the drop-down bar.
 1. Select **My Settings**.
 1. Select **Email**.
@@ -79,12 +79,12 @@ If you don't see My Email to Salesforce under your Settings, your Admin may not 
 >
 >You will need Admin privileges to set this up.
 
-1. Click **Setup*.* **
-1. Click **Email Administration*.* **
-1. Click **Email to Salesforce*.* **
+1. Click **Setup**.
+1. Click **Email Administration**.
+1. Click **Email to Salesforce**.
 1. Click **Edit**.
-1. Check the box next to "Active*."*
-1. Click **Save*.* **
+1. Check the box next to "Active."
+1. Click **Save**.
 
 ## Sync Sales Engage Tasks/Reminders to Salesforce Tasks {#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
 
@@ -107,4 +107,3 @@ If you don't see My Email to Salesforce under your Settings, your Admin may not 
 1. Choose the desired option ("Do not sync to Salesforce tasks" is selected by default).
 
    ![](assets/eight.png)
-

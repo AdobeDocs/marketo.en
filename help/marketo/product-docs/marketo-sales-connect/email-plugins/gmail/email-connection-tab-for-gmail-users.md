@@ -44,5 +44,4 @@ Connecting to Gmail means you'll receive reply tracking, access to the Gmail del
 
    ![](assets/nine.png)
 
-   You can use this connection to track emails and also [as a delivery channel](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
-
+   You can use this connection to track emails and also as a delivery channel.

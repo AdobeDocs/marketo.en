@@ -124,4 +124,3 @@ You can configure your layout by following these steps.
    ![](assets/email-columns-and-email-grid-layout-3.png)
 
 1. Simply click outside of the configuration when done.
-

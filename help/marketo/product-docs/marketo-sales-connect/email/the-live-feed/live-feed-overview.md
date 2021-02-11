@@ -26,7 +26,6 @@ People marked with a blue line represent engagement with emails sent through MSE
 >
 >* If your recipient was logged-in to the wireless network for a company that has its IT headquarters in another city or country, we'd log that location rather than the recipient's current locale.
 >* If your email was forwarded or opened by someone in the CC/BCC field, we try to accurately display the location of those people.
->
 
 ## Tasks Tab {#tasks-tab}
 
@@ -42,7 +41,7 @@ Filter on today, tomorrow, today *and* tomorrow, or next 7 days.
 >
 >You cannot use the custom date filter in the Live Feed, but you can in the web application.
 
-Use quick action buttons to quickly make a call, send an email, or navigate to a person's Linkedin profile. 
+Use quick action buttons to quickly make a call, send an email, or navigate to a person's Linkedin profile.
 
 ## Target Tab {#target-tab}
 
@@ -96,4 +95,3 @@ See your top people (ordered from highest to lowest) ranked by lead score. The l
 >[!NOTE]
 >
 >If you're seeing someone view your email over and over in your Live Feed, they could have forwarded the email to additional recipients. This is most likely the case if you notice the location start to change for those views.
-

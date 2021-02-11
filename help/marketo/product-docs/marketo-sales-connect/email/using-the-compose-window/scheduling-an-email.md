@@ -38,7 +38,4 @@ Follow these easy steps to schedule an email.
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Command Center Overview](http://docs.marketo.com/x/kgDb)
-
+   >[Command Center Overview](/help/marketo/product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
