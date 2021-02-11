@@ -28,7 +28,8 @@ Here's how to send/edit emails using the Group Email option.
 
 ## Editing a Group Email {#editing-a-group-email}
 
-1. Create a group email using [Steps 1-3 above](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail).
+1. Create a group email using [Steps 1-3 above](#sending-a-group-email).
+
 1. Choose a template, or fill out your email.
 
    ![](assets/edit-two.png)
@@ -51,8 +52,5 @@ Here's how to send/edit emails using the Group Email option.
 
 >[!MORELIKETHIS]
 >
->* [Bulk Sending Options](http://docs.marketo.com/x/HwQ6Ag)
->* [Using a Template in the Compose Window](http://docs.marketo.com/x/MQQ6Ag)
->* [Dynamic Fields](http://docs.marketo.com/x/wwDb)
->
-
+>* [Bulk Sending Options](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+>* [Using a Template in the Compose Window](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)

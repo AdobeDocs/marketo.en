@@ -10,7 +10,7 @@ Learn how to perform bulk actions, like adding leads to a campaign, send a bulk 
 
 >[!PREREQUISITES]
 >
->Update to the latest version of the Sales Connect package and install the bulk action buttons in your lead/contact view. [Click here for instructions](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
+>Update to the latest version of the Sales Connect package and install the bulk action buttons in your lead/contact view. [Click here for instructions](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
 
 >[!NOTE]
 >
@@ -74,7 +74,5 @@ Learn how to perform bulk actions, like adding leads to a campaign, send a bulk 
 
 >[!MORELIKETHIS]
 >
->* [Sending Emails via Group Email](http://docs.marketo.com/x/KAQ6Ag)
->* [Composing Bulk Emails with Select and Send](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
->
-
+>* [Sending Emails via Group Email](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [Composing Bulk Emails with Select and Send](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)

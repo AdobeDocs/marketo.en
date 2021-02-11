@@ -8,13 +8,13 @@ title: Add to Marketing Campaign
 
 >[!PREREQUISITES]
 >
->[Make a Campaign Visible to Sales Users](http://docs.marketo.com/x/NwDh)
+>[Make a Campaign Visible to Sales Users](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
 ## Add Individuals to a Campaign {#add-individuals-to-a-campaign}
 
 >[!NOTE]
 >
->In order to add a person to a Marketo Campaign from Sales Connect, Sales Connect must have the person's Marketo lead ID. [Learn how to capture Marketo IDs here](http://docs.marketo.com/x/CQXLAQ).
+>In order to add a person to a Marketo Campaign from Sales Connect, Sales Connect must have the person's Marketo lead ID. [Learn how to capture Marketo IDs here](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
 
 1. Click the **People** Tab.
 
@@ -80,7 +80,7 @@ title: Add to Marketing Campaign
 
    >[!NOTE]
    >
-   >In order to add a person to a Marketo Campaign from Sales Connect, Sales Connect must have the person's Marketo lead ID. [Learn how to capture Marketo IDs here](http://docs.marketo.com/x/CQXLAQ).
+   >In order to add a person to a Marketo Campaign from Sales Connect, Sales Connect must have the person's Marketo lead ID. [Learn how to capture Marketo IDs here](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
 
 1. Click the Workspaces drop-down and choose the workspace that contains the campaign you want the group added to.
 
@@ -97,4 +97,3 @@ title: Add to Marketing Campaign
 1. You're shown the contacts that qualify. Click **Start** to get them added.
 
    ![](assets/nine.png)
-

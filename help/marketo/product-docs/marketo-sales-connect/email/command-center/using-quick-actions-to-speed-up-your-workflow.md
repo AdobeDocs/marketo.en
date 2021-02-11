@@ -14,8 +14,9 @@ Email quick actions are dynamic and update depending on the most relevant action
 
 **Delivered**
 
-| Archive |Will add the email to the archived folder and stop all disable view and click tracking for that email. |
+| Status | Description |
 |---|---|
+| Archive |Will add the email to the archived folder and stop all disable view and click tracking for that email. |
 | Success |Will mark the email as successful to be reported on in template analytics. |
 
 **Archived**
@@ -77,13 +78,11 @@ Email quick actions are dynamic and update depending on the most relevant action
 
 **Follow-up Actions**
 
-** ![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
+![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
 
-**
-
-| Send Follow Up Email |Opens the compose window with the selected inline email body appended and ready to be sent to the recipient. |
+| Function | Description |
 |---|---|
+| Send Follow Up Email |Opens the compose window with the selected inline email body appended and ready to be sent to the recipient. |
 | Make Call |Opens the sales phone to make a call to the email recipient. |
 | Send InMail |Redirects to LinkedIn to send the person an InMail message. |
 | Create Task |Opens the create task pop-up to create a reminder task. |
-

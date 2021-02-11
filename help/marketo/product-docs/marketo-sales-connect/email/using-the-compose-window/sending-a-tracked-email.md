@@ -12,9 +12,8 @@ When sending an email with Marketo Sales Connect, views (email opens) and clicks
 >
 >You'll need to have an identity verified and an email delivery channel set up before sending a tracked email.
 >
->* [Verify your email address](http://docs.marketo.com/x/ewPh)
->* Set up a Delivery Channel for [Outlook](http://docs.marketo.com/x/Z4AOAQ) or [Gmail](http://docs.marketo.com/x/kYMOAQ)
->
+>* [Verify your email address](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
+>* Set up a Delivery Channel for [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md) or [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)
 
 1. Create your email draft (there are multiple ways to do this, in this example we're choosing **Compose** in the header).
 
@@ -44,18 +43,11 @@ When sending an email with Marketo Sales Connect, views (email opens) and clicks
    >
    >A subject line and recipient is required to send the email. We will **automatically save your draft** once a subject line and recipient have been added.
 
-1. Compose your email using the editor. Click **Send** (or [Schedule](http://docs.marketo.com/x/GAQ6Ag), if you prefer) when done.
+1. Compose your email using the editor. Click **Send** (or [Schedule](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), if you prefer) when done.
 
    ![](assets/five.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Scheduling an Email](http://docs.marketo.com/x/GAQ6Ag)
-   >    * [Dynamic Fields](http://docs.marketo.com/x/wwDb)
-   >    * [Using Templates](http://docs.marketo.com/display/DOCS/Templates)
-   >    
-   >
-
+   >* [Scheduling an Email](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
+   >* [Templates](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)

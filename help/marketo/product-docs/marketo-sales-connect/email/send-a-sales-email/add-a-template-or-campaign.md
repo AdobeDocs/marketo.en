@@ -12,4 +12,4 @@ To add a template, click **Template** and select the template you would like to 
 
 If adding a campaign, click the **Campaign** tab instead.
 
-If you just added/edited your messaging in the [web application](http://toutapp.com/login), make sure to click the **Refresh** button to ensure you're pulling in the most recent version.
+If you just added/edited your messaging in the [web application](https://toutapp.com/login), make sure to click the **Refresh** button to ensure you're pulling in the most recent version.

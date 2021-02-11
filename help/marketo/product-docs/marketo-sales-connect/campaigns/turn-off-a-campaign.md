@@ -10,7 +10,7 @@ Need to automatically end a Campaign when a recipient replies? Here's how.
 
 >[!NOTE]
 >
->This is only available for customers who are integrated with [Gmail or Exchange](https://toutapp.com/next#settings/email-tracking) and have reply tracking enabled.
+>This is only available for customers who are integrated with Gmail or Exchange and have reply tracking enabled.
 
 ## Turn off a Campaign for One Person {#turn-off-a-campaign-for-one-person}
 

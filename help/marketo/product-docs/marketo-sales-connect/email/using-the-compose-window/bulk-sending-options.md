@@ -8,7 +8,7 @@ title: Bulk Sending Options
 
 Sending emails in bulk is a great way to accelerate your prospect engagement. Sales Connect offers two ways to send emails in bulk: **Group Emails** and **Select and Send**. Group emails are a great way to quickly send hundreds of emails to a targeted group. Using Select and Send means lower email limits, but it offers more customization opportunities to the user.
 
-Group Email vs. Select and Send
+**Group Email vs. Select and Send**
 
 <table> 
  <colgroup> 
@@ -47,17 +47,15 @@ Group Email vs. Select and Send
  </tbody> 
 </table>
 
-Using Group Email
+**Using Group Email**
 
 You can preview each email in the list to see if the dynamic fields are populating correctly and you can bulk edit the template you want to send out. You cannot, however, make unique "per user" edits.
 
-Using Select and Send
+**Using Select and Send**
 
 By default, you will be editing for all recipients. But you can also select each individual email to make custom edits for. This can be great for adding one or more unique line(s) of customization to recipients you want to take a more personalized approach with.
 
 >[!MORELIKETHIS]
 >
->* [Composing Bulk Emails with Select and Send](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
->* [Sending Emails via Group Email](http://docs.marketo.com/x/KAQ6Ag)
->
-
+>* [Composing Bulk Emails with Select and Send](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [Sending Emails via Group Email](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)

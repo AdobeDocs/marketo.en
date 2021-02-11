@@ -32,7 +32,7 @@ When sending an email through Sales Connect, you have the option of adding a fil
 
    ![](assets/attach-five.png)
 
-The attachment appears at the bottom of your email. 
+The attachment appears at the bottom of your email.
 
 ## Add Trackable Content {#add-trackable-content}
 
@@ -63,4 +63,3 @@ The attachment appears at the bottom of your email.
    >[!NOTE]
    >
    >Users will be notified in the Live Feed when people are viewing their tracked content. Users can also see the highest performing content in the content section of the Analytics page.
-

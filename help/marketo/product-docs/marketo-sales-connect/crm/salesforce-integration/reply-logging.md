@@ -11,14 +11,13 @@ Sales Connect arms you with the ability to automatically log your prospects' rep
 ## Requirements {#requirements}
 
 * Must be logging emails via API logging
-* Must be able to [track a reply](http://docs.marketo.com/x/BYPS)
+* Must be able to [track a reply](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md)
 * Must be connected with Salesforce
-* Must have Salesforce [API calls](http://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) available
+* Must have Salesforce [API calls](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) available
 
 ## Enable Reply Logging {#enable-reply-logging}
 
-1. To enable reply logging you can head over to your [Salesforce settings](http://docs.marketo.com/pages/assets/external-link.jspa) page. Once API logging is checked off you will see the option to check *Log Replies.  
-   *
+1. To enable reply logging you can head over to your Salesforce settings page. Once API logging is checked off you will see the option to check _Log Replies_.
 
    >[!NOTE]
    >
@@ -26,9 +25,9 @@ Sales Connect arms you with the ability to automatically log your prospects' rep
 
 ## Setting Type to Reply in Salesforce {#setting-type-to-reply-in-salesforce}
 
-Getting meaningful data from your Salesforce reports is important. Having the ability to have the Type field populate as 'Reply' allows you to get that data through your reports. Partner up with your `Salesforce admin` to get this setup. 
+Getting meaningful data from your Salesforce reports is important. Having the ability to have the Type field populate as 'Reply' allows you to get that data through your reports. Partner up with your `Salesforce admin` to get this setup.
 
-1. Go to **Setup **> **Customize **> **Activities **> **Task Fields**.
+1. Go to **Setup** > **Customize** > **Activities** > **Task Fields**.
 1. Click **Type**.
 1. Under Task Type Picklist Values, click **New**.
 1. Type "Reply" into the empty box. Make sure you capitalize the 'R' and click **Save**.
@@ -36,4 +35,3 @@ Getting meaningful data from your Salesforce reports is important. Having the ab
    >[!NOTE]
    >
    >You will not need to select a Default under the Type picklist. Sales Connect will see that this Activity Type is available in your Salesforce instance and populate the task field on your incoming activities accordingly.
-

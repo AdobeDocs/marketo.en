@@ -40,8 +40,9 @@ Filter by email recipient/sender in the Who section.
 
 ![](assets/who.png)
 
-| **View As** |Filter by a specific sender in your Sales Connect instance (this option is available to Admins only). |
+| Drop-down | Description |
 |---|---|
+| **View As** |Filter by a specific sender in your Sales Connect instance (this option is available to Admins only). |
 | **By Group** |Filter emails by a specific group of recipients. |
 | **By Person** |Filter by a specific recipient. |
 
@@ -75,8 +76,9 @@ Filters by your sent email activity. You can choose views/no views, clicks/no cl
 
 Filters by all pending emails.
 
-| **Scheduled** |Emails that have been scheduled from the compose window (Salesforce or the Web App), email plug-ins, or a campaign. |
+| Status | Description |
 |---|---|
+| **Scheduled** |Emails that have been scheduled from the compose window (Salesforce or the Web App), email plug-ins, or a campaign. |
 | **Drafts** |Emails that are currently in draft state. Emails require a subject line and a recipient in order to be saved as a draft. |
 | **In Progress** |Emails that are in the process of being sent. Emails should not remain in this state for more than a few seconds. |
 
@@ -86,8 +88,9 @@ Filters by all pending emails.
 
 Filters by emails that were never delivered.
 
-| **Failed** |When an email fails to send from Sales Connect (common reasons include: emails being sent to unsubscribed/blocked contacts, or if there was an issue populating the dynamic fields). |
+| Status | Description |
 |---|---|
+| **Failed** |When an email fails to send from Sales Connect (common reasons include: emails being sent to unsubscribed/blocked contacts, or if there was an issue populating the dynamic fields). |
 | **Bounced** |An email is marked as bounced when it is rejected by the recipient's server. Only emails that were sent via Sales Connect servers will be shown here. |
 | **Spam** |When the email was marked as spam (common term for unsolicited email) by the recipient. Only emails that were sent via Sales Connect servers will be shown here. |
 
@@ -106,4 +109,3 @@ Here's how to create a saved search.
    Your saved searches will be in the sidebar on the left.
 
    ![](assets/advanced-search-overview-15.png)
-

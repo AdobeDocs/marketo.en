@@ -8,11 +8,10 @@ title: How View Tracking Works
 
 We track email opens by placing an invisible image inside the emails you send.
 
-If someone responds to your email but Sales Connect is saying it wasn't viewed, odds are the recipient did `not enable images within their email client (i.e. click on the "click here to download images" message in the email).`
+If someone responds to your email but Sales Connect is saying it wasn't viewed, odds are the recipient did not enable images within their email client (i.e., click on the "click here to download images" message in the email).
 
 Some tips for getting better tracking stats on your emails:
 
-* `Include an image` in your emails (like a logo) so the recipient is encouraged to enable images to see your message.
+* Include an image in your emails (like a logo) so the recipient is encouraged to enable images to see your message.
 
-* `Include a link` as a call to action in the email.
-
+* Include a link as a call to action in the email.

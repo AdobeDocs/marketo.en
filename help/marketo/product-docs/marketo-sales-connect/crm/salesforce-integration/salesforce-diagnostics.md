@@ -27,7 +27,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **Error:** CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY  
 **Category:** Access/Validation  
 **Message:** {"errorCode":"INVALID_SESSION_ID","message":"Session expired or invalid"}  
-**What is Happening:** 
+**What is Happening:**
 
 1 - Trigger code is causing update to fail.  
 2 - User does not have object level write permissions on the given object.  
@@ -43,7 +43,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **Category:** Other  
 **Message:** cannot reference converted lead  
 **What is Happening:** We are trying to log to a converted lead during Most Recent Activity Logging for Contacts and Leads. Also seen a couple of these for pitches.  
-**Troubleshooting Steps:** Please report any instances of this to our [support team](http://nation.marketo.com/community/support_solutions).
+**Troubleshooting Steps:** Please report any instances of this to our [support team](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 <br>&nbsp;
 
@@ -56,9 +56,9 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 <br>&nbsp;
 
 **Error:** EXPIRED_ACCESS
-**Category:** Authentication 
+**Category:** Authentication
 **Message:** invalid_grant: expired access/refresh token
-**What is Happening:** The access or refresh token has expired. Tokens expire based on [session settings in Salesforce](http://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
+**What is Happening:** The access or refresh token has expired. Tokens expire based on [session settings in Salesforce](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
 **Troubleshooting Steps:** You'll need to re-authenticate. Disconnect the Salesforce connection and re-connect.
 
 <br>&nbsp;
@@ -122,8 +122,8 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 <br>&nbsp;
 
 **Error:** INSUFFICIENT_ACCESS_OR_READONLY  
-**Category:** Access/Validation** ** 
-**Message:** insufficient access rights on object id** ** 
+**Category:** Access/Validation
+**Message:** insufficient access rights on object id
 **What is Happening:** Most Recent Activity logging can't edit the specific record because the user doesn't have write-to access.  
 **Troubleshooting Steps:** Grant the user access in Salesforce OR disable Most Recent Activity logging for that object for that user.
 
@@ -135,7 +135,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 
 **Error:** INVALID_FIELD_FOR_INSERT_UPDATE  
 **Category:** Access/Validation  
-**Message:** Unable to create/update fields: ToutApp__Tout_Last_Replied__c. Please check the security settings of this field.   
+**Message:** Unable to create/update fields: ToutApp__Tout_Last_Replied__c. Please check the security settings of this field.
 **What is Happening:** Users don't have write access to the Tout custom fields needed to perform the Most Recent Activity logging transaction. Team may have installed package but has not enabled the correct fields for the users.  
 **Troubleshooting Steps:** Salesforce Admin needs to grant access to the custom fields OR turn off Most Recent Activity logging.
 
@@ -147,7 +147,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 
 **Error:** INVALID_TYPE  
 **Category:** Access/Validation  
-**Message:** CreatedDate, (SELECT Id FROM Tasks) FROM Lead WHERE Email='emailid'^ERROR at Row:1:Column:53sObject type 'Lead' is not supported. If you are attempting to use a custom object, be sure to append the '__c' after the entity name. Please reference your WSDL or the describe call for the appropriate names   
+**Message:** CreatedDate, (SELECT Id FROM Tasks) FROM Lead WHERE Email='emailid'^ERROR at Row:1:Column:53sObject type 'Lead' is not supported. If you are attempting to use a custom object, be sure to append the '__c' after the entity name. Please reference your WSDL or the describe call for the appropriate names
 **What is Happening:** We are trying to query an object type from Salesforce that the user doesn't have access to. This is most likely related to the user has not having the right access to the Lead Object.  
 **Troubleshooting Steps:** Either grant Read and Update access to the Lead object in Salesforce, or turn off email logging and Most Recent Activity logging to lead records.
 
@@ -159,20 +159,20 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 
 **Error:** REQUEST_LIMIT_EXCEEDED  
 **Category:** Intermittent  
-**Message:** 
+**Message:**
 1 - ConcurrentPerOrgLongTxn Limit exceeded  
 2 - TotalRequests Limit exceeded  
 3 - ConcurrentRequest  
-**What is Happening:** 
+**What is Happening:**
 1 - Concurrent request limit exceeded, likely due to inefficient trigger code.  
 2 - Too many integrations put the org past the 24-hour rolling window.  
-**Troubleshooting Steps:** 
+**Troubleshooting Steps:**
 1 - Review existing triggers on the impacted objects. Potentially disable roll-up logging for one or more objects.  
 2 - Buy more API calls from Salesforce. Potentially disable roll-up logging for one or more objects.
 
 **Error:** REQUIRED_FIELD_MISSING  
 **Category:** Access/Validation  
-**Message:** Required fields are missing: [Amount_Committed_Private_Capital__c]  
+**Message:** Required fields are missing: `[Amount_Committed_Private_Capital__c]`
 **What is Happening:** This generally happens for Most Recent Activity logging. Custom fields were set up to be required but have empty values in them. This can happen if the record was created with an empty value of the custom field, and was then made to be required. Requiredness is enforced when we are trying to update the record, even though we aren't touching the custom field.  
 **Troubleshooting Steps:** Manually update the values of the missing fields. You can then retry the message from ToutApp.
 
@@ -184,8 +184,8 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 
 **Error:** TXN_SECURITY_NO_ACCESS  
 **Category:** Access/Validation  
-**Message:** The operation you requested isn't allowed due to a security policy in your organization. Contact your administrator.   
-**What is Happening:** Some kind of security restriction has been set up - see `https://developer.salesforce.com/forums/?id="record` ID"  
+**Message:** The operation you requested isn't allowed due to a security policy in your organization. Contact your administrator.<br/>
+**What is Happening:** Some kind of security restriction has been set up - see https://developer.salesforce.com/forums/?id="record ID"  
 **Troubleshooting Steps:** Talk to your Salesforce Admin and see what the specific restriction might be.
 
 **Error:** UNABLE_TO_LOCK_ROW  
@@ -194,7 +194,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **What is Happening:** Likely there is a trigger that is causing multiple attempts to access the same record, possibly in the case of a group email.  
 **Troubleshooting Steps:** Retry logic should handle this. If it's still not working, work with your Salesforce Admin to troubleshoot a problematic trigger.
 
-**Error:** UNKNOWN_EXCEPTION   
+**Error:** UNKNOWN_EXCEPTION
 **Category:** Other  
 **Message:** Unknown Exception occurred  
 **What is Happening:** Unhandled exception in Salesforce.  

@@ -17,13 +17,13 @@ With the help of Sales Connect you can have your emails and calls logged as an a
 * Connection with Salesforce
 * No Default Type value selected on Task Type picklist
 * Call, Reply, and Email must all exist under the Task Type picklist (capitalization matters)
-* No `Workflows` or `Triggers` taking action on the value of the Type field
+* No Workflows or Triggers taking action on the value of the Type field
 
 ## Setup {#setup}
 
 First check that you have the correct picklist values in place. You'll need the help of your Salesforce Admin to make any changes to your picklist.
 
-1. Navigate to [Salesforce.com](http://Salesforce.com) and click on Setup in the top right corner.
+1. Navigate to [Salesforce.com](https://salesforce.com) and click on Setup in the top right corner.
 1. Click Customize.
 1. Click Activities.
 1. Click Task Fields.

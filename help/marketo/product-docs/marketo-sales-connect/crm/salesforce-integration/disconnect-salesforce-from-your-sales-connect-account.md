@@ -35,4 +35,3 @@ Sometimes you may need to disconnect your Salesforce account from your Sales Con
 1. In the Connections & Customizations tab, click **Disconnect**.
 
    ![](assets/3333.png)
-

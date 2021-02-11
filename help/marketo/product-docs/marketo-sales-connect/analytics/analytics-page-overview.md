@@ -14,9 +14,9 @@ The analytics page updates every ten minutes.
 
 ## What Do the Numbers Mean? {#what-do-the-numbers-mean}
 
-The numbers within the `radials` are calculating the total number of events on all emails sent. So if a `single same email is viewed five times, it will add five views`to this number. The same idea is applied to the clicks and replies counted inside the circle.
+The numbers within the radials are calculating the total number of events on all emails sent. So if a single same email is viewed five times, it will add five views to this number. The same idea is applied to the clicks and replies counted inside the circle.
 
-All of our stats kept inside the `table` will be calculated by looking at the unique views, clicks, and replies to your emails. If `one email is viewed five times, we will count that as one view.` That's why you may see a big difference in the numbers in the tables versus the numbers in the radial.
+All of our stats kept inside the table will be calculated by looking at the unique views, clicks, and replies to your emails. If one email is viewed five times, we will count that as one view. That's why you may see a big difference in the numbers in the tables versus the numbers in the radial.
 
 ## Analytic Tabs {#analytic-tabs}
 
@@ -38,6 +38,6 @@ Here you can see stats and rankings of your whole team. You can also filter by a
 
 The content tab contains stats on templates, content, and links. You can either filter by everyone, or by teams your admins have created.
 
-If you see blue text under the subject column, it means the template is `shared`. You can click the blue text to be taken to that template. View its usage by clicking **Template Analytics**.
+If you see blue text under the subject column, it means the template is shared. You can click the blue text to be taken to that template. View its usage by clicking **Template Analytics**.
 
 "Clicks on content" are counted when a recipient clicks a link in your email.

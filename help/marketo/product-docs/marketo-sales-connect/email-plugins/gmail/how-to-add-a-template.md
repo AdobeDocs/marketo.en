@@ -7,6 +7,7 @@ title: How to Add a Template
 # How to Add a Template {#how-to-add-a-template}
 
 1. In a new message, click **Templates**.
+
 1. By default, we will show your recently used templates.
 
    >[!TIP]
@@ -14,4 +15,3 @@ title: How to Add a Template
    >Feel free to search for your favorite templates as well.
 
 1. Grab a template, and customize it prior to sending out.
-

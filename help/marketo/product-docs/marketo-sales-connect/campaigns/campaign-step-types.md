@@ -24,7 +24,7 @@ Compose a new email, or use a pre-existing template.
 
 >[!TIP]
 >
->Learn the details about your [sending options](http://docs.marketo.com/x/7QDb).
+>Learn the details about your [sending options](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
 ## Call {#call}
 
@@ -43,4 +43,3 @@ Following up on multiple channels is a great way to connect with leads. With InM
 Utilize custom tasks when the above options are not applicable. For example, you can invite a colleague to follow up with a lead via email.
 
 ![](assets/custom.png)
-

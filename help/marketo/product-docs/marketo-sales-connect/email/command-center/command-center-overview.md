@@ -87,8 +87,6 @@ Bonus: If you save your advanced search, it will work as a dynamic list and add 
 
 >[!MORELIKETHIS]
 >
->* [Tasks](http://docs.marketo.com/x/qwDb)
->* [Advanced Search Overview](http://docs.marketo.com/x/KQM6Ag)
->* [Composing Bulk Emails with Select and Send](http://docs.marketo.com/x/IgQ6Ag)
->
-
+>* [Tasks](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
+>* [Advanced Search Overview](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
+>* [Composing Bulk Emails with Select and Send](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)

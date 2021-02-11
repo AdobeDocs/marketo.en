@@ -94,4 +94,3 @@ Below are the recommended names of the workflow rules and description of each. T
    ![](assets/thirteen.png)
 
    After the last step, you can choose to clone the workflow rule for the other fields listed in the Getting Started section: Desc, Type, Source, Date. After you complete the four workflow rules in the Contact object, repeat the same for the Lead object.
-

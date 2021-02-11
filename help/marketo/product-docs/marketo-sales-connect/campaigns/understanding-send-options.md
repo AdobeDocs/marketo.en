@@ -33,12 +33,12 @@ For any subsequent days/steps in your Campaign, you will have the following opti
 
 Send this email at the same time as the previous email in this Campaign
 
-* This option will send the email at the same time as the email directly before it. 
+* This option will send the email at the same time as the email directly before it.
 * It will still send on the day it is associated with.
 
 Send this email at the following time
 
-* When you kick off your Campaign by adding people to it, we will schedule the email for this time. 
+* When you kick off your Campaign by adding people to it, we will schedule the email for this time.
 * You always have the option to choose a new "send at" time when you are kicking off your Campaign.
 
 Create a task; I will send this email myself
@@ -52,4 +52,3 @@ Create a task; I will send this email myself
 Thread this email to the previous email
 
 * This send option will be a 'follow up' to your previous email and will append the previous email body to the bottom of this email.
-

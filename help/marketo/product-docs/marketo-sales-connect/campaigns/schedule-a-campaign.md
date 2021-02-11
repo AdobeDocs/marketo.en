@@ -16,4 +16,4 @@ Open up the Add to Campaign modal, either by adding individuals, a group, or sel
 
 After you click **Next**, you can preview the first email.
 
-After clicking **Next **again, you'll be taken to an option for when you want your campaign to go out. You can either have it start now, or schedule a time for later to begin the campaign.
+After clicking **Next** again, you'll be taken to an option for when you want your campaign to go out. You can either have it start now, or schedule a time for later to begin the campaign.

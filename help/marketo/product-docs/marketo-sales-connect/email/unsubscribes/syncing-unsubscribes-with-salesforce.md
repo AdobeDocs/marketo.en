@@ -24,7 +24,7 @@ When you've enabled the unsubscribe sync (Step 3 below) you will be turning on t
 
 Users can decide whether they want to sync their unsubscribes with the standard Email Opt Out field that Marketo can also sync with, or they can sync with the Marketo Sales Opt Out field so that Sales unsubscribes and Marketing unsubscribes can be differentiated.
 
-1. Go to the [web application](http://toutapp.com/login), click the gear icon and select **Settings**.
+1. Go to the [web application](https://toutapp.com/login), click the gear icon and select **Settings**.
 
    ![](assets/one-1.png)
 
@@ -40,8 +40,9 @@ Users can decide whether they want to sync their unsubscribes with the standard 
 
    ![](assets/4.png)
 
-   | **Sync to Salesforce Opt Out field** |Selected by default, only updates Salesforce Opt Out field. |
+   | Field | Description |
    |---|---|
+   | **Sync to Salesforce Opt Out field** |Selected by default, only updates Salesforce Opt Out field. |
    | **Sync to Marketo Sales Opt Out field** |If you want to separate Sales and Marketing unsubscribes, choose this option to update additional [Marketo Sales Opt Out field.](#msoo) |
 
 ## Installing the Opt Out field in the Page Layout {#installing-the-opt-out-field-in-the-page-layout}
@@ -50,7 +51,7 @@ Users can decide whether they want to sync their unsubscribes with the standard 
   
 Email Opt Out is a standard field in Salesforce that's available to install from Salesforce. You need to be a Salesforce Admin to install it.
 
-1. Go to [Salesforce.com](http://Salesforce.com) and sign in.
+1. Go to [Salesforce.com](https://salesforce.com) and sign in.
 
    ![](assets/five-1.png)
 

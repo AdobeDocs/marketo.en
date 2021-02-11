@@ -12,4 +12,4 @@ If we got the location wrong for your recipients, here's three possibilities for
 
 -If your email was forwarded or opened by someone in the CC or BCC field, we try to accurately display the location of those people.
 
-Overall, we'll determine locations as accurately as we can based on IP tracking, but unfortunately it `isn't an exact science`.
+Overall, we'll determine locations as accurately as we can based on IP tracking, but unfortunately it isn't an exact science.

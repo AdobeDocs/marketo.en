@@ -62,14 +62,4 @@ Favorite **up to five** specific template categories to gain quick access to you
    >
    >**Favorites** is there by default. It holds favorite email templates, not categories.
 
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Dynamic Fields](http://docs.marketo.com/x/wwDb)
-   >    * [Using Templates](http://docs.marketo.com/display/DOCS/Templates)
-   >    
-   >
-
-Your selected category is now pinned. 
+   Your selected category is now pinned.

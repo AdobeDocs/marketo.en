@@ -10,13 +10,13 @@ We’ll break down the three different channels you can leverage, how to select 
 
 >[!NOTE]
 >
->This information is only relevant if you are sending your emails from the [web application](http://toutapp.com/login). If you are using Sales Connect in Gmail or Outlook, your emails will be delivered via those email servers.
+>This information is only relevant if you are sending your emails from the [web application](https://toutapp.com/login). If you are using Sales Connect in Gmail or Outlook, your emails will be delivered via those email servers.
 
 ## MSC Email Servers (default) {#msc-email-servers-default}
 
-By default, this method will be selected for the delivery of your emails. MSC email servers are a great option for users who don’t use Gmail or Outlook. Additionally, because they are our servers, we have the ability to take any error messages regarding bounces or failed deliveries and surface them up to you in the “Failed Deliveries” section of the Conversations tab.   
+By default, this method will be selected for the delivery of your emails. MSC email servers are a great option for users who don’t use Gmail or Outlook. Additionally, because they are our servers, we have the ability to take any error messages regarding bounces or failed deliveries and surface them up to you in the “Failed Deliveries” section of the Conversations tab.
   
-Another benefit of using the MSC servers is, when using an [Email Identity](https://help.toutapp.com/hc/en-us/articles/215371427), the recipient will see the email address of the identity you've created.
+Another benefit of using the MSC servers is, when using an [Email Identity](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md), the recipient will see the email address of the identity you've created.
 
 When using MSC servers, your recipients may see a "via toutapp.com" tag. This is their email client letting them know the email was sent using Sales Connect.
 
@@ -41,4 +41,3 @@ In the web application, your identity will appear as you have created it (above)
 ## Custom SMTP Server  {#custom-smtp-server}
 
 Pay for your own server? Use a Microsoft Exchange environment? This is an option for you. Check out [these instructions](http://docs.marketo.com/x/zYTS) on getting set up. Like Gmail Servers, since Sales Connect does not directly manage your server, we do not record bounced email events in the web application.
-

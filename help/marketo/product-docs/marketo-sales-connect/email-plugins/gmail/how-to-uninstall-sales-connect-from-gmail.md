@@ -9,7 +9,9 @@ title: How to Uninstall Sales Connect from Gmail
 The Sales Connect plugin for Gmail runs through a browser extension. You need to remove that to delete Sales Connect in Gmail.
 
 1. In **Chrome**, click the three lines in the in the top-right hand corner of the browser window.
-1. Click **More Tools**.
-1. Click **Extensions**.
-1. Click the trash can icon next to **ToutApp for Chrome**.
 
+1. Click **More Tools**.
+
+1. Click **Extensions**.
+
+1. Click the trash can icon next to **ToutApp for Chrome**.
