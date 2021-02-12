@@ -6,7 +6,7 @@ title: Filter a Campaign Activity Report
 
 # Filter a Campaign Activity Report {#filter-a-campaign-activity-report}
 
-Focus your [Campaign Activity Report](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)on specific [smart campaigns](http://docs.marketo.com/display/docs/smart+campaigns).
+Focus your [Campaign Activity Report](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)on specific [smart campaigns](https://docs.marketo.com/display/docs/smart+campaigns).
 
 1. Go to **Marketing Activities** (or **Analytics**) and select your campaign activity report.
 
@@ -37,5 +37,5 @@ Focus your [Campaign Activity Report](../../../../product-docs/reporting/basic-r
 >
 >**Deep Dive**
 >
->Learn all about reports in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+>Learn all about reports in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 

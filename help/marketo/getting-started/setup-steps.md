@@ -323,7 +323,7 @@ Configure your domain settings so landing pages use your company’s domain inst
    >
    >These custom templates are available for Launch Pack customers only.
 
-   Go to the [Marketo Template Design and Build](http://pages2.marketo.com/CESubmit-URL-ForTemplates.html) form. Fill out your company information.
+   Go to the [Marketo Template Design and Build](https://pages2.marketo.com/CESubmit-URL-ForTemplates.html) form. Fill out your company information.
 
    ![](assets/image2014-9-12-11-3a4-3a55.png)
 

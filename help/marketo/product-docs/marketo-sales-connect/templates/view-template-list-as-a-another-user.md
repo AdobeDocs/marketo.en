@@ -27,4 +27,3 @@ As an Admin, you can view templates as any user.
    >[!NOTE]
    >
    >You can also use filters or the search function along with View As to view what is most relevant to you.
-

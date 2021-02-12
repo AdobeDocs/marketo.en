@@ -12,7 +12,7 @@ The following features are included in the Jan/Feb Release. Check your Marketo e
 >
 >**Deep Dive**
 >
->For other releases, see the [Release Notes](http://docs.marketo.com/display/docs/release+notes) deep dive.
+>For other releases, see the [Release Notes](https://docs.marketo.com/display/docs/release+notes) deep dive.
 
 ## Advanced Dynamic Content {#advanced-dynamic-content}
 

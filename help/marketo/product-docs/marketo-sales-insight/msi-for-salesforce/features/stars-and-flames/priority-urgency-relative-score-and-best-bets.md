@@ -50,4 +50,4 @@ As scores change, urgency, priority, and relative score values are immediately r
 
 >[!MORELIKETHIS]
 >
->* [Marketo Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight)
+>* [Marketo Sales Insight](https://docs.marketo.com/display/docs/marketo+sales+insight)

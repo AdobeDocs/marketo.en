@@ -70,4 +70,4 @@ Create a  [Web Page Activity report](web-page-activity-report.md) to see the ind
 >
 >**Deep Dive**
 >
->Learn about other interesting reports in the [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) deep dive.
+>Learn about other interesting reports in the [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) deep dive.

@@ -10,9 +10,9 @@ Marketo Sales Insight is a fantastic tool for your sales team. Here is the step-
 
 >[!PREREQUISITES]
 >
->Complete your [Marketo-Microsoft integration](http://docs.marketo.com/x/DoA2).
+>Complete your Marketo-Microsoft integration.
 >
->[Download the correct solution](http://docs.marketo.com/x/LoJo) for your version of Microsoft Dynamics CRM.
+>[Download the correct solution](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) for your version of Microsoft Dynamics CRM.
 
 ## Import Solution {#import-solution}
 
@@ -30,12 +30,9 @@ Marketo Sales Insight is a fantastic tool for your sales team. Here is the step-
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >You should already have [installed and configured](install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) the Marketo solution before moving forward.
+   >You should already have [installed and configured](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) the Marketo solution before moving forward.
 
-1. Click **Browse**. Select the Marketo Sales Insight solution you [downloaded](download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Click **Next**.
+1. Click **Browse**. Select the Marketo Sales Insight solution you [downloaded](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Click **Next**.
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
@@ -73,11 +70,11 @@ Marketo Sales Insight is a fantastic tool for your sales team. Here is the step-
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. Under the **Sales Insight **section click **Edit API Configuration**.
+1. Under the **Sales Insight** section click **Edit API Configuration**.
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Copy the **Marketo Host**, **API URL**, and **API User Id** for use in a later step. Enter an **API Secret Key** of your choice and click **SAVE**.
+1. Copy the **Marketo Host**, **API URL**, and **API User Id** for use in a later step. Enter an **API Secret Key** of your choice and click **Save**.
 
    >[!CAUTION]
    >
@@ -87,16 +84,13 @@ Marketo Sales Insight is a fantastic tool for your sales team. Here is the step-
 
    >[!NOTE]
    >
-   >The following fields must be synced with Marketo for *both Lead and Contact* for Sales Insight to work:
+   >The following fields must be synced with Marketo for _both Lead and Contact_ for Sales Insight to work:
    >
-   >    
-   >    
-   >    * Priority 
-   >    * Urgency
-   >    * Relative Score
-   >    
-   >    
-   >If any of these fields are missing, you will see an error message in Marketo with the name of the missing fields. To fix this, perform [this procedure](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
+   >* Priority
+   >* Urgency
+   >* Relative Score
+   >
+   >If any of these fields are missing, you will see an error message in Marketo with the name of the missing fields. To fix this, perform [this procedure](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
 1. Go back to Dynamics, select **Settings**.
 
@@ -114,11 +108,9 @@ Marketo Sales Insight is a fantastic tool for your sales team. Here is the step-
 
    ![](assets/image2015-5-4-11-3a27-3a16.png)
 
-1. Click **Save.**
+1. Click **Save**.
 
-   ** ![](assets/image2015-5-4-11-3a28-3a13.png)
-
-   **
+   ![](assets/image2015-5-4-11-3a28-3a13.png)
 
 ## Set User Access {#set-user-access}
 
@@ -152,5 +144,4 @@ Set up user roles to give specific users access to Sales Insight.
 
 >[!MORELIKETHIS]
 >
->[Setting up Stars and Flames for Lead/Contact Records](http://docs.marketo.com/x/BICMAg)
-
+>[Setting up Stars and Flames for Lead/Contact Records](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)

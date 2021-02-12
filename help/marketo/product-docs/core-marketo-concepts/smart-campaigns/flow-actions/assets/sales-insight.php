@@ -129,7 +129,7 @@
     </script>
     <script type="application/ld+json">
         {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "WebPage",
         "name":"Award-Winning Marketing Automation Software - Marketo",
         "description": "Marketo&#039;s marketing automation software gives you the tools to easily create, automate, and measure engaging campaigns across all your marketing channels.",
@@ -159,7 +159,7 @@
     
 
     
-<meta name="generator" content="SilverStripe - http://silverstripe.org" />
+<meta name="generator" content="SilverStripe - https://silverstripe.org" />
 <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 <meta name="description" content="Marketo&#039;s marketing automation software gives you the tools to easily create, automate, and measure engaging campaigns across all your marketing channels." />
 <meta name="twitter:card" content="summary_large_image">
@@ -239,7 +239,7 @@
         <div class="desktop-nav-container">
             <div class="adobe-home-wrapper">
                 <a href="/" title="Home - Marketo.com">
-                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 200 24" style="enable-background:new 0 0 200 24;" xml:space="preserve">
+                    <svg version="1.1" id="Layer_1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 200 24" style="enable-background:new 0 0 200 24;" xml:space="preserve">
     <style type="text/css">
         .st0{display:none;}
         .st1{display:inline;fill:#333333;}
@@ -1122,7 +1122,7 @@
         <section class="mobile-main-nav-container">
             <div class="adobe-home-wrapper">
                 <a href="/" title="Home - Marketo.com">
-                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 200 24" style="enable-background:new 0 0 200 24;" xml:space="preserve">
+                    <svg version="1.1" id="Layer_1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 200 24" style="enable-background:new 0 0 200 24;" xml:space="preserve">
     <style type="text/css">
         .st0{display:none;}
         .st1{display:inline;fill:#333333;}
@@ -1977,7 +1977,7 @@
                     <a href="software/marketing-automation/" class="icon-link">
                         <i class="circle purple level-two">
                             <svg id="" class="marketing-automation" data-name="marketing-automation"
-                                 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45.6 45.6">
+                                 xmlns="https://www.w3.org/2000/svg" viewBox="0 0 45.6 45.6">
                                 <path style="fill:#5B4B9E;" d="M26.1,45.6l-1.8-4.2c-1.1,0.1-2.3,0.1-3.4,0l-1.9,4.1l-4.7-1.3l0.5-4.5c-1-0.5-2-1.1-2.9-1.7l-3.7,2.6
 		l-3.4-3.5l2.7-3.7c-0.6-0.9-1.2-2-1.7-3l-4.5,0.4L0,26.1l4.2-1.8c-0.1-1.1-0.1-2.3,0-3.4l-4.1-2l1.3-4.7l4.5,0.5
 		c0.5-1,1.1-2,1.7-2.9L5.1,8.1l3.5-3.4l3.7,2.7c0.9-0.6,2-1.2,3-1.7l-0.4-4.5L19.6,0l1.8,4.2c1.1-0.1,2.3-0.1,3.4,0L26.7,0l4.7,1.3
@@ -2008,7 +2008,7 @@
                     <a href="software/account-insights-and-profiling/" class="icon-link">
                         <i class="circle purple level-two">
                             <svg id="" class="account-based-marketing" data-name="account-based-marketing"
-                                 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+                                 xmlns="https://www.w3.org/2000/svg" viewBox="0 0 300 300">
                                 <path class="cls-1" style="fill:#5944B0;"
                                       d="M121.82 223.46h-46v-91.65h46zM78 221.3h41.66V134H78zM223.54 223.46h-44.71v-80.93h44.71zM181 221.3h40.39v-76.61H181z"/>
                                 <path class="cls-1" style="fill:#5944B0;"
@@ -2031,7 +2031,7 @@
                 <div>
                     <a href="software/email-marketing/" class="icon-link">
                         <i class="circle purple level-two">
-                            <svg id="" class="email" data-name="email" xmlns="http://www.w3.org/2000/svg"
+                            <svg id="" class="email" data-name="email" xmlns="https://www.w3.org/2000/svg"
                                  viewBox="0 0 32.77 36.54">
                                 <polygon
                                     points="32.77 36.54 0 36.54 0 16.13 4.26 16.13 4.26 16.63 0.5 16.63 0.5 36.04 32.27 36.04 32.27 16.63 28.53 16.63 28.53 16.13 32.77 16.13 32.77 36.54"
@@ -2064,7 +2064,7 @@
                 <div>
                     <a href="software/mobile-marketing/" class="icon-link">
                         <i class="circle purple level-two">
-                            <svg id="" class="mobile" data-name="mobile" xmlns="http://www.w3.org/2000/svg"
+                            <svg id="" class="mobile" data-name="mobile" xmlns="https://www.w3.org/2000/svg"
                                  viewBox="0 0 30.97 36.67">
                                 <path d="M302.52,415.3H290.84V395.4h11.68v19.9Zm-11.18-.5H302V395.9H291.34v18.9Z"
                                       transform="translate(-290.84 -378.63)" style="fill:#5944B0;"/>
@@ -2095,7 +2095,7 @@
                 <div>
                     <a href="software/social-marketing/" class="icon-link">
                         <i class="circle purple level-two">
-                            <svg id="" class="social" data-name="social" xmlns="http://www.w3.org/2000/svg"
+                            <svg id="" class="social" data-name="social" xmlns="https://www.w3.org/2000/svg"
                                  viewBox="0 0 37.95 33.75">
                                 <polygon
                                     points="0.07 25.7 0 0 25.1 0 25.1 8.28 24.6 8.28 24.6 0.5 0.5 0.5 0.56 24.25 5.56 17.82 12.86 17.82 12.86 18.32 5.8 18.32 0.07 25.7"
@@ -2123,7 +2123,7 @@
                 <div>
                     <a href="software/digital-advertising/" class="icon-link">
                         <i class="circle purple level-two">
-                            <svg id="" class="digital-ads" data-name="Digital Ads" xmlns="http://www.w3.org/2000/svg"
+                            <svg id="" class="digital-ads" data-name="Digital Ads" xmlns="https://www.w3.org/2000/svg"
                                  viewBox="0 0 43.5 28.63">
                                 <path d="M328.19,411.8h-43.5V383.18h43.5V411.8Zm-43-.5h42.5V383.68h-42.5V411.3Z"
                                       transform="translate(-284.69 -383.18)" style="fill:#5944B0;"/>
@@ -2159,7 +2159,7 @@
                     <a href="software/marketing-analytics/" class="icon-link">
                         <i class="circle purple level-two">
                             <svg id="" class="marketing-analytics" data-name="marketing-analytics"
-                                 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35.22 32.51">
+                                 xmlns="https://www.w3.org/2000/svg" viewBox="0 0 35.22 32.51">
                                 <path d="M308.3,387.7H290.37v-6.94H308.3v6.94Zm-17.43-.5H307.8v-5.94H290.87v5.94Z"
                                       transform="translate(-290.37 -380.75)" style="fill:#5944B0;"/>
                                 <path d="M303.75,404.74H290.37V397.8h13.38v6.94Zm-12.88-.5h12.38V398.3H290.87v5.94Z"
@@ -2192,7 +2192,7 @@
                 <div>
                     <a href="software/marketo-sales-connect/" class="icon-link">
                         <i class="circle purple level-two">
-                            <svg id="" class="engage .st0" data-name="engage" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                            <svg id="" class="engage .st0" data-name="engage" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px"
                              viewBox="0 0 113.3 113.3" style="enable-background:new 0 0 113.3 113.3;" xml:space="preserve">
                                 <style type="text/css">
                                     .st0{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}

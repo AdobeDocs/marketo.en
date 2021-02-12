@@ -48,7 +48,7 @@ Which categories of content are most engaging? See it in this graph.
 
 >[!MORELIKETHIS]
 >
->* [Working with All Content](http://docs.marketo.com/display/docs/working+with+all+content)
->* [Working with Predictive Content](http://docs.marketo.com/display/docs/working+with+predictive+content)
+>* [Working with All Content](https://docs.marketo.com/display/docs/working+with+all+content)
+>* [Working with Predictive Content](https://docs.marketo.com/display/docs/working+with+predictive+content)
 >
 

@@ -50,6 +50,6 @@ Now you have segmented your visitors from the United States, go ahead and add th
 
 >[!MORELIKETHIS]
 >
->* [Web Segments](http://docs.marketo.com/x/9QFI)
+>* [Web Segments](https://docs.marketo.com/x/9QFI)
 >
 

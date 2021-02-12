@@ -14,7 +14,7 @@ Click the + to start adding filters.
 
 >[!NOTE]
 >
->At this time, Custom Attributes are available in filters only to customers who have [RCA](http://docs.marketo.com/x/lwIk) enabled.
+>At this time, Custom Attributes are available in filters only to customers who have [RCA](https://docs.marketo.com/x/lwIk) enabled.
 
 Clicking a category reveals multiple sub-categories.
 
@@ -46,11 +46,11 @@ You can remove a filter at any time by clicking the X next to it. Remove all fil
   </tr> 
   <tr> 
    <td colspan="1"><strong>ABM Named Account</strong></td> 
-   <td colspan="1">If you're using Marketo ABM, all of your named accounts will be synced to MPI and be visible via the ‘ABM Named Account’ filter. You can select a named account to filter results to those accounts.<a href="http://docs.marketo.com/x/eaCt" rel="nofollow">Learn more about ABM named accounts.</a></td> 
+   <td colspan="1">If you're using Marketo ABM, all of your named accounts will be synced to MPI and be visible via the ‘ABM Named Account’ filter. You can select a named account to filter results to those accounts.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Learn more about ABM named accounts.</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Custom Attributes</strong></td> 
-   <td colspan="1"><p>These are determined by you. All the fields <a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">you enable</a> for the opportunity analysis can be filtered on in Performance Insights.</p></td> 
+   <td colspan="1"><p>These are determined by you. All the fields <a href="https://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">you enable</a> for the opportunity analysis can be filtered on in Performance Insights.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Investment Period</strong></p></td> 

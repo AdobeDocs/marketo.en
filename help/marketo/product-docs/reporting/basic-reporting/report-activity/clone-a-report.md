@@ -35,5 +35,5 @@ Create a duplicate of your report to customize it further without changing the o
    >    
    >
 
-   Do much more to customize your report! See  [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   Do much more to customize your report! See  [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 

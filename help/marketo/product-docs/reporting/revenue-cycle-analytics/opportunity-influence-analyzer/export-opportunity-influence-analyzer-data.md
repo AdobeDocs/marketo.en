@@ -6,7 +6,7 @@ title: Export Opportunity Influence Analyzer Data
 
 # Export Opportunity Influence Analyzer Data {#export-opportunity-influence-analyzer-data}
 
-To receive updates from your [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) reports, and to share them, you can subscribe any email address to an existing report.
+To receive updates from your [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) reports, and to share them, you can subscribe any email address to an existing report.
 
 1. Go to **Analytics** and select **New** **>** **New** **Report** **Subscription**.
 
@@ -44,5 +44,5 @@ To receive updates from your [Revenue Cycle Explorer](http://docs.marketo.com/di
 >
 >**Deep Dive**
 >
->See more of the things you can do with Marketo's advanced analytics in the [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) deep dive.
+>See more of the things you can do with Marketo's advanced analytics in the [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) deep dive.
 

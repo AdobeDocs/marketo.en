@@ -18,7 +18,7 @@ No, local presence only works for Outbound calls. The caller cannot call you bac
 
 We offer all Sales Phone functionality for calls in the U.S. only.
 
-**Is the local presence number always the same when I call an area code? **
+**Is the local presence number always the same when I call an area code?**
 
 The number will likely always be the same when you are calling into an area code.
 

@@ -21,8 +21,8 @@ The first time someone visits a Marketo [landing page](../../../../product-docs/
    An anonymous activity is merged into a new or existing person when someone:
 
     * Clicks a [link in a Marketo email](../../../../product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
-    * Fills out a Marketo [form](http://docs.marketo.com/display/docs/forms).
-    * Uses Marketo's [REST API](http://developers.marketo.com/rest-api/lead-database/leads/) or [Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) API (for developers) to associate an anonymous activity with a known record.
+    * Fills out a Marketo [form](https://docs.marketo.com/display/docs/forms).
+    * Uses Marketo's [REST API](https://developers.marketo.com/rest-api/lead-database/leads/) or [Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) API (for developers) to associate an anonymous activity with a known record.
 
    One name in the database might be tied to many cookies because people often use different devices and browsers to visit your site.
 
@@ -44,5 +44,5 @@ The first time someone visits a Marketo [landing page](../../../../product-docs/
    >**Deep Dive**
    >
    >
-   >Learn more about  [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Learn more about  [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 

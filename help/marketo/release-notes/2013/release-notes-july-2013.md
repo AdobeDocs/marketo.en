@@ -6,7 +6,7 @@ title: Release Notes -July 2013
 
 # Release Notes: July 2013 {#release-notes-july}
 
-The following features are included in the July release which is scheduled for a Friday, July 26 rollout.  Please check your  [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) for feature availability. 
+The following features are included in the July release which is scheduled for a Friday, July 26 rollout.  Please check your  [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) for feature availability. 
 
 After the release, be sure to check out the [New Release](release-notes-december-2013.md) tab in the Community for detailed Help Articles for each feature!
 

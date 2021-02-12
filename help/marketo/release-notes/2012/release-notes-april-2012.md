@@ -12,7 +12,7 @@ title: Release Notes -April 2012
 >
 >**Deep Dive**
 >
->For other releases, see the [Release Notes](http://docs.marketo.com/display/docs/release+notes) deep dive.
+>For other releases, see the [Release Notes](https://docs.marketo.com/display/docs/release+notes) deep dive.
 
 Do you target the same group of leads consistently? If so, use segmentation in your smart lists for targeting leads. With segmentation, your entire lead database is always segmented and it can be re-used across your programs for consistency. Segmentation results are pulled quickly because they do not require the smart list to run at the time of the request.
 

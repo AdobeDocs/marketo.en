@@ -8,7 +8,7 @@ title: Configuring Your SOAP API Settings
 
 >[!NOTE]
 >
->We suggest using the REST API. Learn more on [developers.marketo.com](http://developers.marketo.com/documentation/rest/).
+>We suggest using the REST API. Learn more on [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
 
 >[!NOTE]
 >
@@ -28,4 +28,4 @@ title: Configuring Your SOAP API Settings
 
 >[!MORELIKETHIS]
 >
->[SOAP API Documentation](http://developers.marketo.com/documentation/soap/)
+>[SOAP API Documentation](https://developers.marketo.com/documentation/soap/)

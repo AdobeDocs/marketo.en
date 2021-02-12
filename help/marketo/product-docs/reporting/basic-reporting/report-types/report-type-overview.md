@@ -40,7 +40,7 @@ When you [create a report in a program](../../../../product-docs/reporting/basic
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">People by Revenue Stage Report</a>  </strong></td> 
-   <td>Basic reporting for your <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Revenue Model</a>. See <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Revenue Cycle Analytics</a> for deeper reporting.</td> 
+   <td>Basic reporting for your <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Revenue Model</a>. See <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Revenue Cycle Analytics</a> for deeper reporting.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Landing Page Performance</a>  </strong></td> 
@@ -48,7 +48,7 @@ When you [create a report in a program](../../../../product-docs/reporting/basic
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Program Performance</a>  </strong></td> 
-   <td>Basic program metrics like members and success. See <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Revenue Cycle Analytics</a> for deeper reporting.</td> 
+   <td>Basic program metrics like members and success. See <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Revenue Cycle Analytics</a> for deeper reporting.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="company-web-activity-report.md">Company Web Activity</a>  </strong></td> 
@@ -64,7 +64,7 @@ When you [create a report in a program](../../../../product-docs/reporting/basic
   </tr> 
   <tr> 
    <td><strong> <a href="../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Engagement Stream Performance Report</a> </strong></td> 
-   <td><p>See how well your <a href="http://docs.marketo.com/display/docs/drip+nurturing">engagement program</a> is working.</p></td> 
+   <td><p>See how well your <a href="https://docs.marketo.com/display/docs/drip+nurturing">engagement program</a> is working.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -82,5 +82,5 @@ Not as useful as the report types above, but still available.
 >
 >**Deep Dive**
 >
->To see all the things you can do with these reports, see the [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) deep dive.
+>To see all the things you can do with these reports, see the [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) deep dive.
 

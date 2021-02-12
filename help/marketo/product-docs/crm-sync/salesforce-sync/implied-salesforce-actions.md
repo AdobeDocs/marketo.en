@@ -8,7 +8,7 @@ title: Implied Salesforce Actions
 
 When a Salesforce-specific flow step runs, sometimes extra steps are performed automatically. Here are the rules, so you know:
 
-These rules will apply _when the person is not currently in [Salesforce.com](http://Salesforce.com)_ as a contact or lead.
+These rules will apply _when the person is not currently in [Salesforce.com](https://Salesforce.com)_ as a contact or lead.
 
 <table> 
  <thead> 

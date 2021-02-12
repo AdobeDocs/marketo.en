@@ -12,7 +12,7 @@ The Content Recommendation Engine uses predictive analytics and machine learning
 >
 >Before enabling predictive content, you must:
 >
->* [Prepare your Predictive Content](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Prepare your Predictive Content](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [Approve a Title for Predictive Content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 ## Enable and Customize the Content Recommendation Bar {#enable-and-customize-the-content-recommendation-bar}
@@ -38,7 +38,7 @@ The Content Recommendation Engine uses predictive analytics and machine learning
    >**Include / Exclude Display URL**
    >
    >    * Display URL should be the path of the domain
-   >    * Do not include http:// or https://
+   >    * Do not include https:// or https://
    >    * Use &#42; for wildcards
    >    * Use a semicolon as a separator
    >    * Example: /contact_us&#42;; &#42;action=logout&#42;

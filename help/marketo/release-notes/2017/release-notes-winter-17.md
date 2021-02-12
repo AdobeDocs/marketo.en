@@ -20,7 +20,7 @@ Basic Matching uses email addresses only, but new Advanced Matching uses an addi
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [Custom Object Import API](http://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [Custom Object Import API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
 This API provides a faster interface to synchronize custom objects into Marketo. You can import CSV, TSV, or SSV spreadsheet files into Marketo as custom objects.
 
@@ -30,7 +30,7 @@ Export all of your Web Campaign details and analytics in a CSV format. You then 
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [Localization](http://docs.marketo.com/display/docs/web+personalization) {#localization}
+## [Localization](https://docs.marketo.com/display/docs/web+personalization) {#localization}
 
 The Web Personalization, Predictive Content, and Email Insights apps are now available in Japanese, German, and Spanish. You [select your language and locale](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) to view your content in these languages.
 
@@ -64,7 +64,7 @@ Filter Predictive Content analytics for specific sources — Email, Rich Media, 
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[Predictive Content Editor](http://docs.marketo.com/display/docs/edit+predictive+content)**
+**[Predictive Content Editor](https://docs.marketo.com/display/docs/edit+predictive+content)**
 
 There's an improved editing experience and layout that splits content preparation by source — Email, Rich Media, or Recommendation Bar.
 
@@ -74,7 +74,7 @@ There's an improved editing experience and layout that splits content preparatio
 
 Image URL and metadata are now used in the content auto-discovery process.
 
-## [SDK Enhancements](http://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [SDK Enhancements](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
 Developers now have additional control over the delivery of Push Notifications with the addition of a new SDK API call that allows developers to remove push tokens.
 

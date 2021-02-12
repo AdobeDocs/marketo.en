@@ -51,4 +51,4 @@ You can see detailed program and channel stats in the Program Analyzer. You can 
 
    >[!NOTE]
    >
-   >Learn more about advanced analytics in [Revenue Explorer](http://docs.marketo.com/display/docs/revenue+explorer).
+   >Learn more about advanced analytics in [Revenue Explorer](https://docs.marketo.com/display/docs/revenue+explorer).

@@ -45,5 +45,5 @@ Focus your [Email Performance](../../../../product-docs/email-marketing/email-pr
 >
 >**Deep Dive**
 >
->Learn all about reports in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+>Learn all about reports in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 

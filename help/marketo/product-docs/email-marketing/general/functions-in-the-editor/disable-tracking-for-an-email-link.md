@@ -39,7 +39,7 @@ Sometimes you don't want to enable the **Marketo Tracking URL** on a link in an 
    >[!TIP]
    >
    >Want to disable click-tracking for a link in an email **template**? Use this format:
-   >`<a class="mktNoTrack" href="http://www.mywebsite.com">This link does not have tracking</a>`  
+   >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`  
    >If you need help implementing this, please consult your web developer.
 
 Nice! You have now disabled tracking for a link.

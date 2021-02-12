@@ -10,7 +10,7 @@ In order to ensure compliance with U.S. two-party consent laws when recording ca
 
 >[!PREREQUISITES]
 >
->Before following the steps below, you must first [enable call recording.](http://docs.marketo.com/x/dAC1Ag)
+>Before following the steps below, you must first [enable call recording](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
 1. Click the Settings icon and select **Settings**.
 
@@ -43,4 +43,3 @@ In order to ensure compliance with U.S. two-party consent laws when recording ca
 1. Click the toggle to enable the selected message be played at the beginning of your recorded calls.
 
    ![](assets/seven.png)
-

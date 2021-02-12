@@ -14,7 +14,7 @@ MSI Visualforce Panel includes the following functionalities:
 
 * Tabs
 
-    * [Insights Dashboard](http://docs.marketo.com/x/EoGMAg)
+    * [Insights Dashboard](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
     * Interesting Moment
     * Web Activity
     * Email
@@ -163,7 +163,7 @@ Salesforce Classic: Add to Watchlist, Add to Marketo Campaign, and Send Marketo 
 
 >[!MORELIKETHIS]
 >
->[Marketo Sales Insight Configuration tab in Salesforce](http://docs.marketo.com/x/UoCMAg)
+>[Marketo Sales Insight Configuration tab in Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
 ## Sales Insight Performance Reports {#sales-insight-performance-reports}
 

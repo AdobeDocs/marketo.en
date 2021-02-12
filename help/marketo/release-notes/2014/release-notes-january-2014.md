@@ -6,13 +6,13 @@ title: Release Notes -January 2014
 
 # Release Notes: January 2014 {#release-notes-january}
 
-The following features are included in the January 2014 release. Please check your [Marketo Edition](http://www.marketo.com/pricing/) for feature availability.
+The following features are included in the January 2014 release. Please check your [Marketo Edition](https://www.marketo.com/pricing/) for feature availability.
 
 ## Forms 2.0 {#forms}
 
-Heads up: Documentation for Forms 2.0 is coming soon. In the meantime, learn more below, and in the [intro video](http://docs.marketo.com/display/docs/forms)!
+Heads up: Documentation for Forms 2.0 is coming soon. In the meantime, learn more below, and in the [intro video](https://docs.marketo.com/display/docs/forms)!
 
-Take control of the form creation process and give your web developers a break. [Forms](http://docs.marketo.com/display/docs/forms) 2.0 are designed to empower Marketers to create both visually and functionally robust forms without needing programming knowledge.
+Take control of the form creation process and give your web developers a break. [Forms](https://docs.marketo.com/display/docs/forms) 2.0 are designed to empower Marketers to create both visually and functionally robust forms without needing programming knowledge.
 
 **Give Your Forms the Visual Makeover They Deserve:**
 
@@ -31,7 +31,7 @@ Gone are the days of lifting html code from forms placed on Marketo landing page
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
-Learn more from the [Forms 2.0 intro video](http://docs.marketo.com/display/docs/forms). (Documentation coming to the [Forms](http://docs.marketo.com/display/docs/forms) deep dive soon!)
+Learn more from the [Forms 2.0 intro video](https://docs.marketo.com/display/docs/forms). (Documentation coming to the [Forms](https://docs.marketo.com/display/docs/forms) deep dive soon!)
 
 ## Communication Limits for Email Program {#communication-limits-for-email-program}
 

@@ -16,7 +16,7 @@ Programs are one of the most important elements in Marketo. You'll be using them
 
    ![](assets/leadlifecycle.jpg)
 
-1. Enter a **Name**, select a **[Channel](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** in the drop-down, and click **Create**.
+1. Enter a **Name**, select a **[Channel](https://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** in the drop-down, and click **Create**.
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 

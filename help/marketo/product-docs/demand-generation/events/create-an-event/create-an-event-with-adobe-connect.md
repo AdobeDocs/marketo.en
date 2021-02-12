@@ -13,7 +13,7 @@ Syncing with Adobe Connect allows you to manage your webinar registration and at
 >* [Link Adobe Connect and Marketo](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
-First, make sure you've created your meeting or seminar in Adobe Connect. If you need help, check out the [Adobe Connect User Guide](http://help.adobe.com/en_US/connect/9.0/using/index.html). The meetings and seminars that you create in Adobe Connect must be created under the folder that you specified when you entered your credentials in Marketo. After you create your meeting or seminar, make note of any relevant logistical information (such as the phone number), to use in your confirmation email and ICS file.
+First, make sure you've created your meeting or seminar in Adobe Connect. If you need help, check out the [Adobe Connect User Guide](https://help.adobe.com/en_US/connect/9.0/using/index.html). The meetings and seminars that you create in Adobe Connect must be created under the folder that you specified when you entered your credentials in Marketo. After you create your meeting or seminar, make note of any relevant logistical information (such as the phone number), to use in your confirmation email and ICS file.
 
 >[!NOTE]
 >

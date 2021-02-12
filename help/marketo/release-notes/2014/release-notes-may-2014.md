@@ -32,7 +32,7 @@ Now everyone gets multiple programs, streams and communication limits.
 >
 >**Example**
 >
->[[[http://www.marketo.com](http://www.marketo.com)]]
+>[[[https://www.marketo.com](https://www.marketo.com)]]
 
 By default, no links will be tracked in the text version of emails. Add this new syntax to indicate when a link should be converted into a tracking link. The behavior of HTML links is unchanged.  To add tracked links to your emails:
 
@@ -78,5 +78,5 @@ Revenue Cycle Modeler and Success Path Analyzer are now included in MA Standard 
 
 >[!NOTE]
 >
->Check out Previous [Marketo Release Notes](http://docs.marketo.com/display/docs/release+notes)
+>Check out Previous [Marketo Release Notes](https://docs.marketo.com/display/docs/release+notes)
 

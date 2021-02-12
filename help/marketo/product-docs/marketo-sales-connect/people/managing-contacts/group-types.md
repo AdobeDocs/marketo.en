@@ -38,4 +38,3 @@ Learn about the different group types in Sales Connect.
   </tr> 
  </tbody> 
 </table>
-

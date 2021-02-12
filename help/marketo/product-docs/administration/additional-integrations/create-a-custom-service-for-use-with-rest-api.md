@@ -20,7 +20,7 @@ If you want to integrate with Marketo via the ReST API, you'll want to create a 
 
 >[!TIP]
 >
->Check out our developers documentation for details on the [ReST API](http://developers.marketo.com/documentation/rest/). We also have the [SOAP API](http://developers.marketo.com/documentation/soap/) if that's what you need.
+>Check out our developers documentation for details on the [ReST API](https://developers.marketo.com/documentation/rest/). We also have the [SOAP API](https://developers.marketo.com/documentation/soap/) if that's what you need.
 
 >[!NOTE]
 >

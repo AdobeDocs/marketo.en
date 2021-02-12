@@ -29,4 +29,3 @@ When a new Microsoft Dynamics solutions is released for Sales Insight, you can d
    ![](assets/image2015-3-16-16-3a29-3a32.png)
 
    Awesome! A zip file of the solution will now be downloaded to your device.
-

@@ -24,6 +24,6 @@ The metadata.xml from your team's SSO instance should contain the issuer URL, th
 
 We will also need the SSO Location for your company's SSO account to be a unique domain. For example, we require a unique subdomain like `toutapp.pingidentity.com` or similar. Without this type of unique identifier, we will not be able to set up SAML from the dashboard.
 
-One Login and Okta do not always provide unique identifiers when assigning a URL. If you are using Okta or One Login it means we will not be able to set up one login from the dashboard button. We will still be able to set it up from the Single Sign On button on the [web application](http://toutapp.com/login).
+One Login and Okta do not always provide unique identifiers when assigning a URL. If you are using Okta or One Login it means we will not be able to set up one login from the dashboard button. We will still be able to set it up from the Single Sign On button on the [web application](https://toutapp.com/login).
 
 Once we have that information, we will work with our engineering team to set this up for your subscription.

@@ -38,5 +38,5 @@ Use columns to sort the data in your report and make the most important figures 
    >**Deep Dive**
    >
    >
-   >Learn all the power of working with reports in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Learn all the power of working with reports in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 

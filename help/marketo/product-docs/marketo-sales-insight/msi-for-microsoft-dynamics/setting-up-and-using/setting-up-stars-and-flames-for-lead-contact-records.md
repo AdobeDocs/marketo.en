@@ -9,7 +9,9 @@ title: Setting up Stars and Flames for Lead/Contact Records
 Stars and Flames on lead/contact records are dependent upon: Lead Score, Relative Score, Urgency, and Priority fields. These fields are available by default after you install and configure the MSI solution. If you don't have Stars and Flames, a prior setup/customization could have resulted in them being removed. Follow the steps below to add them.
 
 1. In Microsoft Dynamics, click the Sales drop-down and select **Settings**. Click **Customizations**, then **Customize the System**.
+
 1. In the left-side panel, click **Entities**.
+
 1. Find and click **Lead**, then **Forms**, then select the form you want to edit.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-1.png)
@@ -19,5 +21,5 @@ Stars and Flames on lead/contact records are dependent upon: Lead Score, Relativ
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-2.png)
 
 1. Drag and drop the following: Lead Score, Relative Score, Urgency, and Priority fields. Arrange them in a manner that works best for you. You can also format any field by double-clicking on it.
-1. When you're done, click **Save and Close**.
 
+1. When you're done, click **Save and Close**.

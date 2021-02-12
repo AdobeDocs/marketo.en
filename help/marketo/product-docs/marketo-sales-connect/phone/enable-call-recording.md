@@ -20,11 +20,10 @@ As an admin you can enable call recording for your Sales Connect calls. Recordin
 
    ![](assets/three.png)
 
-1. If you want to give your sellers the ability to enable or disable call recording for themselves, click** Optional recording for all team members. **If you want all calls recorded automatically, click** Record all calls.**
+1. If you want to give your sellers the ability to enable or disable call recording for themselves, click **Optional recording for all team members**. If you want all calls recorded automatically, click **Record all calls**.
 
    ![](assets/four.png)
 
 >[!MORELIKETHIS]
 >
->[Two Party Consent Settings](http://docs.marketo.com/x/dgC1Ag)
-
+>[Two Party Consent Settings](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)

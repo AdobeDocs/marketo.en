@@ -40,4 +40,4 @@ In the web application, your identity will appear as you have created it (above)
 
 ## Custom SMTP Server  {#custom-smtp-server}
 
-Pay for your own server? Use a Microsoft Exchange environment? This is an option for you. Check out [these instructions](http://docs.marketo.com/x/zYTS) on getting set up. Like Gmail Servers, since Sales Connect does not directly manage your server, we do not record bounced email events in the web application.
+Pay for your own server? Use a Microsoft Exchange environment? This is an option for you. Check out [these instructions](https://docs.marketo.com/x/zYTS) on getting set up. Like Gmail Servers, since Sales Connect does not directly manage your server, we do not record bounced email events in the web application.

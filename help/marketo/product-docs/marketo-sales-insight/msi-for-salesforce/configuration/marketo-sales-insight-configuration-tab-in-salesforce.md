@@ -51,4 +51,3 @@ Configurations are applicable to all MSI users and are not specific to profiles.
 Choosing to do so will wipe all your configurations in SFDC and they cannot be restored. You will have to re-configure everything again.
 
 ![](assets/three.png)
-

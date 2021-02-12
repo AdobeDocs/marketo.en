@@ -10,18 +10,19 @@ We allow you to personalize your email templates with predefined attributes like
 
 >[!TIP]
 >
->The "first_name" and "company" field are the `only fields that will look to both Sales Connect and Salesforce.` That means if a contact does not exist in the [web application](http://toutapp.com/login), we look in Salesforce to see if we can find a contact/lead record with a matching email address. We then use information from that record to populate the field.
+>The "first_name" and "company" field are the only fields that will look to both Sales Connect and Salesforce. That means if a contact does not exist in the [web application](https://toutapp.com/login), we look in Salesforce to see if we can find a contact/lead record with a matching email address. We then use information from that record to populate the field.
 
 ## Insert a Dynamic Field into a Template {#insert-a-dynamic-field-into-a-template}
 
 1. In **Templates & Campaigns**, find the template you want to edit and click **Edit Template**.
+
 1. Click **Tout Dynamic Fields**.
 
    >[!NOTE]
    >
    >When emailing contacts who exist in Sales Connect, you can use the basic dynamic fields. These will pull directly from the contact.
 
-If you're emailing contacts who exist in Salesforce, you can take advantage of the Salesforce dynamic fields. These all begin with "sfdc". As long as you have a connection to Salesforce, these fields will call directly to the lead/contact in Salesforce to populate information in the template. 
+If you're emailing contacts who exist in Salesforce, you can take advantage of the Salesforce dynamic fields. These all begin with "sfdc". As long as you have a connection to Salesforce, these fields will call directly to the lead/contact in Salesforce to populate information in the template.
 
 ## Insert Dynamic Fields in a Subject Line {#insert-dynamic-fields-in-a-subject-line}
 

@@ -10,7 +10,7 @@ You can add custom Marketo Sales Insight tab and buttons to your Salesforce view
 
 ## Adding the Marketo Tab  {#adding-the-marketo-tab}
 
-1. Click** + **and click **Customize My Tabs**.
+1. Click **+** and click **Customize My Tabs**.
 
    ![](assets/image2014-9-24-17-3a38-3a25.png)
 
@@ -36,7 +36,7 @@ You can add Marketo buttons to your Salesforce Layouts. Here's an example:
 
    ![](assets/image2015-5-26-14-3a59-3a53.png)
 
-1. Click **Edit** in the **Leads List View **row.
+1. Click **Edit** in the **Leads List View** row.
 
    ![](assets/image2015-5-26-16-3a7-3a24.png)
 

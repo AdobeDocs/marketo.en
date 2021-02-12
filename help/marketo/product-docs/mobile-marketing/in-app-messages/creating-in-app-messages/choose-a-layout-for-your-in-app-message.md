@@ -55,7 +55,7 @@ Now that you know about the templates, it time to choose one when you [create yo
 
 >[!MORELIKETHIS]
 >
->* [Create an In-App Message](http://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [Create an In-App Message](https://docs.marketo.com/display/docs/create+an+in-app+message)
 >* [Understanding In-App Messages](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >
 

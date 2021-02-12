@@ -34,12 +34,12 @@ Use a People Performance Report to measure database growth over time. You can se
 
    >[!TIP]
    >
-   >Remember that reports are easy to [create](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [configure](http://docs.marketo.com/display/docs/basic+reporting), and [delete](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Go ahead and play with the many ways you can manipulate them, to learn the best ways to focus on key data.
+   >Remember that reports are easy to [create](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [configure](https://docs.marketo.com/display/docs/basic+reporting), and [delete](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Go ahead and play with the many ways you can manipulate them, to learn the best ways to focus on key data.
 
    >[!NOTE]
    >
    >**Deep Dive**
    >
    >
-   >Learn more in the [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting)deep dive.
+   >Learn more in the [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting)deep dive.
 

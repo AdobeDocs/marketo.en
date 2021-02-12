@@ -14,7 +14,7 @@ Many times, sales reps don't have administrative privileges on their laptops, an
 
 >[!NOTE]
 >
->If you don't see the View Enterprise Key button, contact [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371) to enable it.
+>If you don't see the View Enterprise Key button, contact [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371) to enable it.
 
 1. In My Marketo, click **Admin **and then** Sales Insight.**
 

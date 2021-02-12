@@ -16,13 +16,13 @@ Sales emails automatically put the unsubscribe footer at the bottom. However, yo
 >
 >**Definition**
 >
->**Sales emails** are those sent from Sales Insight. (It does not include those sent from the Marketo Outlook Plugin.)
+>**Sales emails** are those sent from Sales Insight (it does not include those sent from the Marketo Outlook Plugin).
 
 1. Go to the **Admin** area.
 
    ![](assets/one-1.png)
 
-1. Click **Sales Insight, **then **Edit Settings**.
+1. Click **Sales Insight**, then **Edit Settings**.
 
    ![](assets/two-1.png)
 
@@ -30,7 +30,7 @@ Sales emails automatically put the unsubscribe footer at the bottom. However, yo
 
    ![](assets/three-1.png)
 
-    * **No Template **- Manually composed by sales user.
+    * **No Template** - Manually composed by sales user.
     * **Standard Email** - Emails based on a template.
     * **Operational Email** - Emails that ignore Unsubscribed, Marketing Suspended, and Communication Limits (they send no matter what).
 
@@ -38,12 +38,11 @@ Sales emails automatically put the unsubscribe footer at the bottom. However, yo
 
    >[!CAUTION]
    >
-   >**Respect Unsubscribe Settings: **unsubscribed leads will NOT receive the email even if the published email is "operational"
+   >**Respect Unsubscribe Settings**: unsubscribed leads will NOT receive the email even if the published email is "operational"
    >
-   >
-   >**Ignore Unsubscribe Settings:** unsubscribed leads WILL receive the email
+   >**Ignore Unsubscribe Settings**: unsubscribed leads WILL receive the email
 
-   Make the changes you want, then click Save.
+1. Make the changes you want, then click **Save**.
 
    >[!TIP]
    >
@@ -52,10 +51,3 @@ Sales emails automatically put the unsubscribe footer at the bottom. However, yo
    ![](assets/four-1.png)
 
 Whew! A little complicated, but pretty flexible, right?
-
->[!NOTE]
->
->**Deep Dive**
->
->Learn more about  [Marketo Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight).
-

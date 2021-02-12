@@ -6,7 +6,7 @@ title: Make a Program Without a Period Cost Available in Revenue Explorer and An
 
 # Make a Program Without a Period Cost Available in Revenue Explorer and Analyzers {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-Program Period Costs allows you to define "How much money" and "When" for a program. This shows up in  [revenue cycle explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) and  [analyzers](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md). 
+Program Period Costs allows you to define "How much money" and "When" for a program. This shows up in  [revenue cycle explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) and  [analyzers](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md). 
 
 >[!NOTE]
 >

@@ -27,4 +27,3 @@ Content can be uploaded to the Sales Connect repository by any user with the abi
 Users are able to create their own templates and they can be organized by the team. To do this, create a team via the Team Management page. Then, when your team goes to share templates/playbooks/groups, they'll be able to share with just those groups as opposed to the entire subscription of users.
 
 Content can be shared across the organization.
-

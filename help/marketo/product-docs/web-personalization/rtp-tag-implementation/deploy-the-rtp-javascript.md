@@ -38,4 +38,4 @@ To generate and set up your RTP tag please follow the installation instructions 
 
 >[!MORELIKETHIS]
 >
->* [RTP Tag Implementation](http://docs.marketo.com/display/docs/rtp+tag+implementation)
+>* [RTP Tag Implementation](https://docs.marketo.com/display/docs/rtp+tag+implementation)

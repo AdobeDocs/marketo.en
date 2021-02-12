@@ -33,5 +33,5 @@ You can export any report to an Excel file, to work with the data in other softw
    >**Deep Dive**
    >
    >
-   >See all the other useful things you can do with reports in the [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) deep dive.
+   >See all the other useful things you can do with reports in the [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) deep dive.
 

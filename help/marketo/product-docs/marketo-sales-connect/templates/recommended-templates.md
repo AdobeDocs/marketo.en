@@ -9,7 +9,9 @@ title: Recommended Templates
 Sales Connect’s Recommended Templates help you get the right messaging while saving you time. This gives you greater flow when sending emails and reduces uncertainty when trying to find the right email for the right person.
 
 1. Go to your Templates tab.
-1. Select the template you would like to recommend and click **Edit**. 
+
+1. Select the template you would like to recommend and click **Edit**.
+
 1. To enable the Recommended Template functionality on your template check **Auto-Suggest this template when**.
 
 ## All vs. Any {#all-vs-any}
@@ -18,7 +20,7 @@ Now it’s time to select your criteria settings. Select **All** if you'd like y
 
 ## Setting Criteria {#setting-criteria}
 
-Your criteria is going to set the conditions for which templates will be recommended. You can set a maximum of 3 pieces of criteria. First select the [Dynamic Fields](https://nation.marketo.com/hc/en-us/articles/203348440-What-Are-Dynamic-Fields-) you would like to be pointed at in your template.
+Your criteria is going to set the conditions for which templates will be recommended. You can set a maximum of 3 pieces of criteria. First select the Dynamic Fields you would like to be pointed at in your template.
 
 ## Conditions {#conditions}
 
@@ -34,6 +36,6 @@ Now, select your condition. When your conditions for your dynamic field are met,
 
 ## What A Recommended Template Looks Like {#what-a-recommended-template-looks-like}
 
-Now that your Criteria is set, save the template. From here, Sales Connect will work its magic to surface the best templates for you.   
-Now that you've mapped out your first template, it’s time to map out the rest. Go through your most successful templates and recommend them. Don’t forget to share the template with your team as well. Your recommended settings for any templates will also be shared among your team.
+Now that your Criteria is set, save the template. From here, Sales Connect will work its magic to surface the best templates for you.
 
+Now that you've mapped out your first template, it’s time to map out the rest. Go through your most successful templates and recommend them. Don’t forget to share the template with your team as well. Your recommended settings for any templates will also be shared among your team.

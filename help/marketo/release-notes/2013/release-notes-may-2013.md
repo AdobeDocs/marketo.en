@@ -6,7 +6,7 @@ title: Release Notes -May 2013
 
 # Release Notes: May 2013 {#release-notes-may}
 
-The following features are included in the May release. Please check your [Marketo](http://docs.marketo.com/display/docs/assets/pricing.php) [Edition](http://docs.marketo.com/display/docs/assets/pricing.php) for feature availability.
+The following features are included in the May release. Please check your [Marketo](https://docs.marketo.com/display/docs/assets/pricing.php) [Edition](https://docs.marketo.com/display/docs/assets/pricing.php) for feature availability.
 
 After the release, be sure to check out the [New Release](release-notes-december-2013.md) tab in the Community for detailed Knowledge Base articles for each feature!
 

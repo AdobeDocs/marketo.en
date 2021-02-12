@@ -36,5 +36,5 @@ It is important to understand how **order** sets the priority for evaluation of 
 >* If a person does not qualify for any Segment, they will become a member of the Default Segment.
 >
 
-Cool, huh? You can use segments for dynamic content, [reporting](http://docs.marketo.com/display/docs/basic+reporting) and even in [smart lists](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).    
+Cool, huh? You can use segments for dynamic content, [reporting](https://docs.marketo.com/display/docs/basic+reporting) and even in [smart lists](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).    
 

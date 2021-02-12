@@ -132,11 +132,11 @@ Fields that contained the term Lead have either been substituted with Person, or
 
 In addition to the name change, it now consists of four separate apps:
 
-| ** [Web Personalization](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** |Has own tile on home screen |
+| ** [Web Personalization](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** |Has own tile on home screen |
 |---|---|
-| ** [Account-Based Web Marketing](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** |Accessible via Web Personalization tile |
-| ** [Personalized Retargeting](http://docs.marketo.com/display/DOCS/Website+Retargeting)** |Accessible via Web Personalization tile |
-| ** [Predictive Content](http://docs.marketo.com/display/DOCS/Predictive+Content)** |Has own tile on home screen |
+| ** [Account-Based Web Marketing](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** |Accessible via Web Personalization tile |
+| ** [Personalized Retargeting](https://docs.marketo.com/display/DOCS/Website+Retargeting)** |Accessible via Web Personalization tile |
+| ** [Predictive Content](https://docs.marketo.com/display/DOCS/Predictive+Content)** |Has own tile on home screen |
 
 >[!NOTE]
 >

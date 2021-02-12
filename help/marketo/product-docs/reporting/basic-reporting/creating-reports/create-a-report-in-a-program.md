@@ -33,7 +33,7 @@ Run a report to analyze people, your programs, landing pages, emails, and social
 
    >[!TIP]
    >
-   >See [`Report Type Overview`](http://docs.marketo.com/display/DOCS/Report+Type+Overview) for a short description of each.
+   >See [`Report Type Overview`](https://docs.marketo.com/display/DOCS/Report+Type+Overview) for a short description of each.
 
    Name your report.
 
@@ -54,7 +54,7 @@ Run a report to analyze people, your programs, landing pages, emails, and social
    >**Deep Dive**
    >
    >
-   >By default, reports cover all the activity in your account, across programs. To learn the many ways you can filter your report, see the [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) deep dive.
+   >By default, reports cover all the activity in your account, across programs. To learn the many ways you can filter your report, see the [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) deep dive.
 
    >[!NOTE]
    >
@@ -67,5 +67,5 @@ Run a report to analyze people, your programs, landing pages, emails, and social
    >
    >
    >
-   >You can [change a report time frame](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [subscribe to a basic report](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [export a report to Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filter people in a report with a smart list](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md), and [more](http://docs.marketo.com/display/docs/basic+reporting).
+   >You can [change a report time frame](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [subscribe to a basic report](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [export a report to Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filter people in a report with a smart list](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md), and [more](https://docs.marketo.com/display/docs/basic+reporting).
 

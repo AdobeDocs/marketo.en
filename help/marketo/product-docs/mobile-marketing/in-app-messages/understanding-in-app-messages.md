@@ -26,16 +26,16 @@ The Marketo Admin and mobile apps developer work together to set you up. See [Be
 
 ## Step 2: Create an In-App Message {#step-create-an-in-app-message}
 
-You [create an in-app message](http://docs.marketo.com/display/docs/create+an+in-app+message) using the online editor.
+You [create an in-app message](https://docs.marketo.com/display/docs/create+an+in-app+message) using the online editor.
 
 ## Step 3: Send! {#step-send}
 
-You create a program to [send the message](http://docs.marketo.com/display/docs/send+your+in-app+message).
+You create a program to [send the message](https://docs.marketo.com/display/docs/send+your+in-app+message).
 
 You're on your way.
 
 >[!MORELIKETHIS]
 >
->* [Create an In-App Message](http://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [Create an In-App Message](https://docs.marketo.com/display/docs/create+an+in-app+message)
 >
->* [Send Your In-App Message](http://docs.marketo.com/display/docs/send+your+in-app+message)
+>* [Send Your In-App Message](https://docs.marketo.com/display/docs/send+your+in-app+message)

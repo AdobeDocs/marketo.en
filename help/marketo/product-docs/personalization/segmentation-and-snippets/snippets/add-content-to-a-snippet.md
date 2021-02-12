@@ -44,7 +44,7 @@ You can add three types of content to a snippet.
 
    >[!NOTE]
    >
-   >You can add your own images or files to Marketo. Learn more about [images and files](http://docs.marketo.com/display/docs/images+and+files).
+   >You can add your own images or files to Marketo. Learn more about [images and files](https://docs.marketo.com/display/docs/images+and+files).
 
 1. Select the **Image** to be used and click **Insert**.
 

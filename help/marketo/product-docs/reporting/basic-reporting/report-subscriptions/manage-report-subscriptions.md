@@ -16,7 +16,7 @@ Configure and delete report subscriptions.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   This page displays the subscriptions to all the reports in your account, grouped by [report type](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md). This includes [subscriptions to basic reports](subscribe-to-a-basic-report.md) and to [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) reports.
+   This page displays the subscriptions to all the reports in your account, grouped by [report type](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md). This includes [subscriptions to basic reports](subscribe-to-a-basic-report.md) and to [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) reports.
 
    >[!TIP]
    >
@@ -68,5 +68,5 @@ Configure and delete report subscriptions.
    >    
    >
 
-   Learn more in the  [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) and  [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) deep dives. 
+   Learn more in the  [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) and  [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) deep dives. 
 

@@ -24,7 +24,7 @@ Multiple subscriptions can be created on a smart list. There is limitation of 10
 
 ## Marketo Custom Objects {#marketo-custom-objects}
 
-[Marketo Custom Objects](http://docs.marketo.com/display/docs/marketo+custom+objects)
+[Marketo Custom Objects](https://docs.marketo.com/display/docs/marketo+custom+objects)
 
 Easily create custom objects from the admin UI. We currently support the ability to create a 1:N custom object in Marketo and connect it to a lead or company. 
 
@@ -114,7 +114,7 @@ We are making several improvements to the rich text editor. After we released th
   ```
 
   ```
-  <v:fill type="tile" src="<a href="http://i.imgur.com/YJOX1PC.png" rel="nofollow">http://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
+  <v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
   ```
 
   ```

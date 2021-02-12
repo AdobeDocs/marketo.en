@@ -8,7 +8,8 @@ title: How to Create Your Priority Call List in Sales Connect
 
 Learn how to create a priority report/call list using ToutApp email engagement data to focus your time on the people or opportunities with momentum.
 
-1. Go to your Account in the [web application](http://toutapp.com/login). Once you complete the steps below you will have a ‘Priority Call List’ saved in your Sales Connect to prioritize your warmest leads/ accounts, reengage leads/ accounts that have gone dark, capture the low hanging fruit, decrease the time to connect between your campaign touches.
+1. Go to your Account in the [web application](https://toutapp.com/login). Once you complete the steps below you will have a ‘Priority Call List’ saved in your Sales Connect to prioritize your warmest leads/ accounts, reengage leads/ accounts that have gone dark, capture the low hanging fruit, decrease the time to connect between your campaign touches.
+
 1. Complete the following steps.
 
     * Click ‘View Options’
@@ -24,4 +25,3 @@ Learn how to create a priority report/call list using ToutApp email engagement d
    >[!NOTE]
    >
    >We will automatically pull in your phone number, your lead/contact’s phone number from Sales Connect or Salesforce, automatically log your call and notes to Salesforce (if you are using Salesforce as your CRM). You will also have the option to use local presence and call recording.
-

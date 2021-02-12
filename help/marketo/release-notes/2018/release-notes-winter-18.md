@@ -79,7 +79,7 @@ Content recommended via Marketo's optimized Content`<sup>AI </sup>`algorithms ge
 
 ## Integration {#integration}
 
-** [Activate/Deactivate Campaign API](http://developers.marketo.com/rest-api/assets/campaigns/)**
+** [Activate/Deactivate Campaign API](https://developers.marketo.com/rest-api/assets/campaigns/)**
 
 This new API allows you to remotely activate and deactivate trigger campaigns, so you can now create fully automated program templates. Create a program template once, then automate cloning, marketing collateral updates, and now activation/scheduling of smart campaigns.
 
@@ -87,7 +87,7 @@ This new API allows you to remotely activate and deactivate trigger campaigns, s
 
 **Unsubscribe Update**
 
-Beginning March 1, 2018, all emails sent from [ToutApp.com](http://ToutApp.com) (and by using the “Email with Tout” button in Salesforce) will have an unsubscribe link appended to the bottom.
+Beginning March 1, 2018, all emails sent from [ToutApp.com](https://ToutApp.com) (and by using the “Email with Tout” button in Salesforce) will have an unsubscribe link appended to the bottom.
 
 **Live Feed Update**
 

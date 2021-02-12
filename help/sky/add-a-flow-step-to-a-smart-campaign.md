@@ -19,7 +19,7 @@ Flow steps tell Marketo what you want to have happen to a group of people that q
 
 **Deep Dive**
 
-Learn more about the different [flow steps](http://docs.marketo.com/display/DOCS/Flow+Actions).
+Learn more about the different [flow steps](https://docs.marketo.com/display/DOCS/Flow+Actions).
 
 1. Click the drop-down and choose an appropriate option.
 

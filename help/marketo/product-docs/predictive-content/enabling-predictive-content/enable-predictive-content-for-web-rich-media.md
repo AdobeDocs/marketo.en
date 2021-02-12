@@ -12,7 +12,7 @@ Predictive content engages your web visitors with the most relevant content, pow
 >
 >Before enabling Predictive Content, you must:
 >
->* [Prepare your Predictive Content](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Prepare your Predictive Content](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [Approve a Title for Predictive Content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 >
 
@@ -32,7 +32,7 @@ Once you have prepared the content title, description and image for Rich Media, 
 
 ## Customize the Javascript Code and Embed it into your Website  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Refer to the documentation for the Rich Media Recommendation template [on the Marketo Developers site.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)This explains how to customize the template for your website.
+Refer to the documentation for the Rich Media Recommendation template [on the Marketo Developers site.](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)This explains how to customize the template for your website.
 
 Paste the JavaScript code into your website in the location where you want the template to appear.
 
@@ -52,4 +52,4 @@ Here's an example of the Rich Media Recommendation Template2:
 >[!MORELIKETHIS]
 >
 >* [Enable the Content Recommendation Bar](enable-the-content-recommendation-bar.md)
->* [Enable Predictive Content in Emails](http://docs.marketo.com/x/vLit)
+>* [Enable Predictive Content in Emails](https://docs.marketo.com/x/vLit)

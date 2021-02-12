@@ -10,7 +10,7 @@ Create and upload a list of organization and domain names to target these key ac
 
 >[!NOTE]
 >
->This article applies legacy Web ABM customers only. If you acquired Web ABM after September of 2016, please follow the steps in [this article](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) instead.
+>This article applies legacy Web ABM customers only. If you acquired Web ABM after September of 2016, please follow the steps in [this article](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) instead.
 
 ## Create a New Account List {#create-a-new-account-list-1}
 
@@ -83,4 +83,4 @@ The CSV file will replace the existing file. The existing list will remain activ
 >[!MORELIKETHIS]
 >
 >* [Create a Segment Using an Account List](create-a-segment-using-an-account-list.md)
->* [View a Named Account List](http://docs.marketo.com/pages/viewpage.action?pageid=4720244)
+>* [View a Named Account List](https://docs.marketo.com/pages/viewpage.action?pageid=4720244)

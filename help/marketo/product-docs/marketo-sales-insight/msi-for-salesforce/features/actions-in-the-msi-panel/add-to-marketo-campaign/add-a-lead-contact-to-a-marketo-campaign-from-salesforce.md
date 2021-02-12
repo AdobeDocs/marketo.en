@@ -8,7 +8,7 @@ title: Add a Lead/Contact to a Marketo Campaign from Salesforce
 
 You can easily add leads or contacts to Marketo smart campaigns from within Salesforce. Here's how, using leads.
 
-1. In Salesforce, click the **Leads **tab.
+1. In Salesforce, click the **Leads** tab.
 
    ![](assets/image2016-3-22-9-3a18-3a36.png)
 
@@ -24,7 +24,7 @@ You can easily add leads or contacts to Marketo smart campaigns from within Sale
 
    ![](assets/three.png)
 
-1. In the record, scroll down to the Marketo Sales Insight area, click the **Actions** drop-down, select **Add to Marketo Campaign, **and click** Go.**
+1. In the record, scroll down to the Marketo Sales Insight area, click the **Actions** drop-down, select **Add to Marketo Campaign**, and click **Go**.
 
    ![](assets/four.png)
 
@@ -34,6 +34,6 @@ You can easily add leads or contacts to Marketo smart campaigns from within Sale
 
    >[!NOTE]
    >
-   >For the campaign to appear in the drop-down, use the [**Campaign is Requested** trigger](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), with **Sales Insight** as the source, when you set up the campaign.
+   >For the campaign to appear in the drop-down, use the [**Campaign is Requested** trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), with **Sales Insight** as the source, when you set up the campaign.
 
-And that's it! The person is added to your Marketo campaign. 
+And that's it! The person is added to your Marketo campaign.

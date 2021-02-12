@@ -66,7 +66,7 @@ Use an Opportunity Influence Analyzer to illustrate marketing's role in importan
    >
    >    
    >    
-   >    * [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting)
+   >    * [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting)
    >    
    >
 

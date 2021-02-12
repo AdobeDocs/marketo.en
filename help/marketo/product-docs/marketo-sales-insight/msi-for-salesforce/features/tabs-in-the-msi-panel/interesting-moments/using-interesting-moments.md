@@ -10,7 +10,7 @@ Interesting moments are the key to communicating with your sales team through th
 
 >[!AVAILABILITY]
 >
->These are available to Marketo Sales Insight and [Marketo Sales Connect](http://docs.marketo.com/x/fgTLAQ) customers only.
+>These are available to Marketo Sales Insight and [Marketo Sales Connect](https://docs.marketo.com/x/fgTLAQ) customers only.
 
 ## What is an interesting moment?  {#what-is-an-interesting-moment}
 

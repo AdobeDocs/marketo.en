@@ -10,11 +10,11 @@ If your CRM provides you with a BCC address, you can use the "other" CRM section
 
 ## CRMs We Integrate With {#crms-we-integrate-with}
 
-**`Almost every CRM`**:
+**Almost every CRM**:
 
-* Our `auto-BCC`* *feature works with nearly all CRMs record emails you've sent with Sales Connect to your leads. Just make sure your CRM of choice provides you with a BCC address to take advantage of this.
+* Our auto-BCC feature works with nearly all CRMs record emails you've sent with Sales Connect to your leads. Just make sure your CRM of choice provides you with a BCC address to take advantage of this.
 
-**`Salesforce`**:
+**Salesforce**:
 
 * We do all the above and more!
 
@@ -27,4 +27,3 @@ If your CRM provides you with a BCC address, you can use the "other" CRM section
 1. Click **Save** and your BCC address will be saved to Sales Connect.
 
    Emails will now be logged to your CRM via BCC.
-

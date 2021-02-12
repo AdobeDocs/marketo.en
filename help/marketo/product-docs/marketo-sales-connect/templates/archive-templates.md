@@ -14,5 +14,4 @@ Check the box next to a template and click **Archive**.
 >
 >Once a template is archived, it cannot be edited or used. To use it again, move the template out of Archive and into any other category.
 
-You can also select the Unused filter to view and archive templates that haven't been used in over 90 days.    
-
+You can also select the Unused filter to view and archive templates that haven't been used in over 90 days.

@@ -181,7 +181,7 @@ Select from a [Named Account List](../../../product-docs/web-personalization/acc
 
 >[!NOTE]
 >
->The number in the brackets next to the Named Account List name is used as an index reference for the list for Web Personalization [Read API](http://developers.marketo.com/documentation/websites/rtp-js-api/).
+>The number in the brackets next to the Named Account List name is used as an index reference for the list for Web Personalization [Read API](https://developers.marketo.com/documentation/websites/rtp-js-api/).
 
 **Exclude ISP**
 
@@ -280,11 +280,11 @@ Add the Event value you want to target. E.g. from third party data sources.
 
 **User Context API**
 
-Web Personalization API call  [read more about it here.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Web Personalization API call  [read more about it here.](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
 >
->**Using Wildcards -** When you would like to include any search term or URL that contains something within it i.e. “[google.com](http://google.com)” or “search term product”, we call this a wildcard and it should be inputted with an asterisk - this little guy&#42; - on each end. So anything coming from [google.com](http://google.com) should be inputted as &#42; [google.com](http://google.com)&#42;
+>**Using Wildcards -** When you would like to include any search term or URL that contains something within it i.e. “[google.com](https://google.com)” or “search term product”, we call this a wildcard and it should be inputted with an asterisk - this little guy&#42; - on each end. So anything coming from [google.com](https://google.com) should be inputted as &#42; [google.com](https://google.com)&#42;
 
 ## Edit Segments {#edit-segments}
 

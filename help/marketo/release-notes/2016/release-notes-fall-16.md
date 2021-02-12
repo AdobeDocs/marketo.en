@@ -8,7 +8,7 @@ title: Release Notes -Fall '16
 
 The following features are included in the Fall '16 release. Check your Marketo edition for feature availability. Please click the title links to view detailed articles for each feature.
 
-## [Predictive Content in Email](http://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
+## [Predictive Content in Email](https://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
 
 There's a new user experience for our Predictive Content application to track, manage, and recommend your content through our machine learning and predictive algorithms across the web and email channels.
 
@@ -38,7 +38,7 @@ A Universal ID lets you access multiple Marketo subscriptions with a single logi
 >
 >Please contact Marketo Support to enable this feature.
 
-## [Marketo Account Based Marketing Enhancements](http://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
+## [Marketo Account Based Marketing Enhancements](https://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
 
 Now, you can assign account teams to named accounts in Account Based Marketing (ABM), for example, account owner, sales development representative, business development representative, and customer success manager. You also can build account-owner-specific account lists and send personalized weekly ABM reports to the account team.
 
@@ -46,7 +46,7 @@ Now, you can assign account teams to named accounts in Account Based Marketing (
 
 **REST API**
 
-This release also enables you to manage named account attributes and accounts scores in ABM using the Marketo REST API. For more details on the API operations, please visit the [Marketo Developers website](http://developers.marketo.com/rest-api/lead-database/named-accounts).
+This release also enables you to manage named account attributes and accounts scores in ABM using the Marketo REST API. For more details on the API operations, please visit the [Marketo Developers website](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Audit Trail Enhancements](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -60,7 +60,7 @@ Gone are the days when you had to worry about users sending transactional emails
 
 **Edit Campaign Restrictions**
 
-Why set [campaign restrictions](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) if you can't enforce them? When you set Campaign Limit Settings to restrict the number of people in your database who can be targeted with a single campaign, you now have the ability to restrict which users can override these settings when scheduling a campaign.
+Why set [campaign restrictions](https://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) if you can't enforce them? When you set Campaign Limit Settings to restrict the number of people in your database who can be targeted with a single campaign, you now have the ability to restrict which users can override these settings when scheduling a campaign.
 
 ## [Sound for Mobile Push Notifications](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -78,11 +78,11 @@ Give your iOS Push Notification added richness by enabling sound. This new featu
 
 Market Sales Insight is now compatible with Salesforce Shield Encryption. All Sales Insight customers should upgrade to this latest managed package (version 1.4359.2), which is [available on the Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [Named Accounts APIs](http://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## [Named Accounts APIs](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
 With this release, Marketo ABM users can manage named accounts via the Named Accounts API. Users can create, update, and delete named accounts, as well as read and update ABM named account scores.
 
-## [Email Editor v2.0 API Support](http://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## [Email Editor v2.0 API Support](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
 Manage variables and modules for emails in v2.0 format using the Marketo REST API.
 

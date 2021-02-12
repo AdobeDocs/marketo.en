@@ -24,7 +24,7 @@ With this integration you can send audience data from Marketo static and smart l
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Open a new tab in the same browser and go to [facebook.com](http://www.facebook.com/). Log in to Facebook using the account you want to use for the integration.
+1. Open a new tab in the same browser and go to [facebook.com](https://www.facebook.com/). Log in to Facebook using the account you want to use for the integration.
 
    >[!CAUTION]
    >

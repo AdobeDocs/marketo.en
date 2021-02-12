@@ -6,11 +6,11 @@ title: Subscribe to a Basic Report
 
 # Subscribe to a Basic Report {#subscribe-to-a-basic-report}
 
-To receive automatic updates of a [basic report](http://docs.marketo.com/display/docs/basic+reporting), or to share them, you can subscribe any email address to an existing report.
+To receive automatic updates of a [basic report](https://docs.marketo.com/display/docs/basic+reporting), or to share them, you can subscribe any email address to an existing report.
 
 >[!NOTE]
 >
->For [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) report subscriptions, see [Subscribe to a Revenue Explorer Report](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>For [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) report subscriptions, see [Subscribe to a Revenue Explorer Report](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
 1. Go to the **Marketing Activities **area.
 
@@ -51,5 +51,5 @@ To receive automatic updates of a [basic report](http://docs.marketo.com/display
    >**Deep Dive**
    >
    >
-   >See what else you can do with reports in the [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) deep dive.
+   >See what else you can do with reports in the [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) deep dive.
 

@@ -39,7 +39,7 @@ Examples:
   </tr> 
   <tr> 
    <td>Email Script <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Use this token to execute a Velocity script in your emails. Learn more <a href="http://developers.marketo.com/documentation/email-scripting/" title="Follow link" rel="nofollow">here</a>. </td> 
+   <td>Use this token to execute a Velocity script in your emails. Learn more <a href="https://developers.marketo.com/documentation/email-scripting/" title="Follow link" rel="nofollow">here</a>. </td> 
   </tr> 
   <tr> 
    <td>Number<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 

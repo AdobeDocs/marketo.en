@@ -82,7 +82,7 @@ Here is an example of what the code should look like (this is only an example, d
 **Example**
 
 ```example
-<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="http://www.marketo.com">  
+<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com">  
 <a><img style="border:10px solid red;"></a>  
 </div>
 ```

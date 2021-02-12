@@ -26,17 +26,16 @@ It's super easy to send a Marketo email to multiple people using Marketo Sales I
 
    >[!TIP]
    >
-   >Don't see the button? Make sure you've [added the Marketo Buttons to the list view](add-marketo-sales-insight-tab-and-buttons-to-salesforce.md).
+   >Don't see the button? Make sure you've [added the Marketo Buttons to the list view](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md).
 
-1. Go ahead and compose your email. Click **Send with Marketo **when finished.
+1. Go ahead and compose your email. Click **Send with Marketo** when finished.
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >You can [publish email to Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) and choose from those emails.
+   >You can [publish email to Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) and choose from those emails.
 
    >[!NOTE]
    >
    >You can send up to 200 Marketo emails at a time.
-

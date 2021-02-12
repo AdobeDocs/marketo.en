@@ -29,5 +29,5 @@ You can choose which columns are and are not included in your report.
    >    
    >
 
-   Do more with reports! See  [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   Do more with reports! See  [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 

@@ -16,7 +16,7 @@ Sharing a group of leads or contacts with your team is pretty simple in Sales Co
 
    ![](assets/two-1.png)
 
-1. Click the** Group Actions** button and select **Share Group**.
+1. Click the **Group Actions** button and select **Share Group**.
 
    ![](assets/three-1.png)
 
@@ -27,4 +27,3 @@ Sharing a group of leads or contacts with your team is pretty simple in Sales Co
 1. Click **Share**.
 
    ![](assets/five-1.png)
-

@@ -16,7 +16,7 @@ Follow these steps to begin using the powerful Chrome add-in.
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
-1. Right-click on the Marketo logo in Chrome and select** Options**.
+1. Right-click on the Marketo logo in Chrome and select **Options**.
 
    ![](assets/two.png)
 
@@ -30,13 +30,12 @@ Follow these steps to begin using the powerful Chrome add-in.
 
    >[!NOTE]
    >
-   >The Reg code will be in the email sent after a Marketo Admin [i](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) [ssues you a Marketo Email Add-in License](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **It expires after 14 days.**
+   >The Reg code will be in the email sent after a Marketo Admin [issues you a Marketo Email Add-in License](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](https://docs.marketo.com/pages/viewpage.action?pageid=7510848) **It expires after 14 days**.
 
-1. Click** Allow **to allow offline access.
+1. Click **Allow** to allow offline access.
 
    ![](assets/image2015-10-5-10-3a34-3a1.png)
 
 >[!MORELIKETHIS]
 >
->[Using Marketo Insights for Google Chrome](using-marketo-insights-for-google-chrome.md)
-
+>[Using Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)

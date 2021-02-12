@@ -74,12 +74,12 @@ Set the objective of the Content<sup>AI</sup> optimization algorithm to drive mo
 
 Send system notifications and interesting moments to Facebook Workplace.
 
-[Static List APIs](http://developers.marketo.com/rest-api/assets/static-lists/)
+[Static List APIs](https://developers.marketo.com/rest-api/assets/static-lists/)
 
 Manage lists between Marketo and other systems more easily with new bi-directional APIs for creating, reading, updating, and deleting static lists remotely without taking any action in the Marketo UI.
 
 ## Privacy Enhancements {#privacy-enhancements}
 
-[Web Tracking Privacy](http://developers.marketo.com/javascript-api/lead-tracking/)
+[Web Tracking Privacy](https://developers.marketo.com/javascript-api/lead-tracking/)
 
 Enhanced Munchkin tracking complies with local and international privacy regulations by anonymizing the IP addresses of web visitors and allowing them to permanently opt-out of web tracking.

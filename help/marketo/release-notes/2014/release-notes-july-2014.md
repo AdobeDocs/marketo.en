@@ -40,7 +40,7 @@ In addition to the marketing calendar you manage your events and default program
 
 ## List Operations in the ReST API {#list-operations-in-the-rest-api}
 
-We’ve added the calls below related to list operations in ReST. See [developers.marketo.com](http://developers.marketo.com/documentation/rest/) for the full documentation.
+We’ve added the calls below related to list operations in ReST. See [developers.marketo.com](https://developers.marketo.com/documentation/rest/) for the full documentation.
 
 * Get List By ID
 * Get Multiple Lists
@@ -71,7 +71,7 @@ The RTP Set Campaign page now [includes ready-made templates](/help/marketo/prod
 
 ## RTP: JavaScript API Enhancements {#rtp-javascript-api-enhancements}
 
-New RTP API call to get real-time visitor data such as organization, industry, location and segment code match. In addition, hovering over a segment name in the Segments page will reveal a tooltip showing the segment code. See our [developers site](http://developers.marketo.com/documentation/websites/rtp-js-api/) for full documentation.
+New RTP API call to get real-time visitor data such as organization, industry, location and segment code match. In addition, hovering over a segment name in the Segments page will reveal a tooltip showing the segment code. See our [developers site](https://developers.marketo.com/documentation/websites/rtp-js-api/) for full documentation.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

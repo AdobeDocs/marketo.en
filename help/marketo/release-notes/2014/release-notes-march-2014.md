@@ -50,6 +50,6 @@ Select Your [Marketo Application Language](/help/marketo/product-docs/administra
 
 ## Marketo Developer Blog {#marketo-developer-blog}
 
-The [Marketo Developer blog](http://developers.marketo.com/blog/) is dedicated to those web developers and software engineers who support the rapidly evolving needs of the modern marketer. You can subscribe to announcements on new integration options, API version updates, and a new series of how-to articles that include code samples and best practices on integration with the Marketo platform.
+The [Marketo Developer blog](https://developers.marketo.com/blog/) is dedicated to those web developers and software engineers who support the rapidly evolving needs of the modern marketer. You can subscribe to announcements on new integration options, API version updates, and a new series of how-to articles that include code samples and best practices on integration with the Marketo platform.
 
-The [first article](http://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) in this series will walk you through how to efficiently retrieve information on the people (customers/contacts/leads) that are stored within Marketo using the API.
+The [first article](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) in this series will walk you through how to efficiently retrieve information on the people (customers/contacts/leads) that are stored within Marketo using the API.

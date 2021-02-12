@@ -58,7 +58,7 @@ Three new calls for the Lead & Activity ReST API:
 
 · Merge Lead
 
-Full details will be available after the release at [developers.marketo.com](http://developers.marketo.com/)
+Full details will be available after the release at [developers.marketo.com](https://developers.marketo.com/)
 
 ## Munchkin Javascript Compatibility Enhancements {#munchkin-javascript-compatibility-enhancements}
 

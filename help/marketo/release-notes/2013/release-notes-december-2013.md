@@ -6,13 +6,13 @@ title: Release Notes -December 2013
 
 # Release Notes: December 2013 {#release-notes-december}
 
-The following features are included in the December release. Please check your [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) for feature availability.
+The following features are included in the December release. Please check your [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) for feature availability.
 
 After the release, be sure to check out the New Release tab in the Community for detailed Knowledge Base articles for each feature!
 
 ## Sweet Background Photos {#sweet-background-photos}
 
-We have started to express our creative flair in the application. Each quarter, a new artist will be featured. To kick us off, we selected [Trey Ratcliff](http://stuckincustoms.smugmug.com/).
+We have started to express our creative flair in the application. Each quarter, a new artist will be featured. To kick us off, we selected [Trey Ratcliff](https://stuckincustoms.smugmug.com/).
 
 ## Email Program {#email-program}
 

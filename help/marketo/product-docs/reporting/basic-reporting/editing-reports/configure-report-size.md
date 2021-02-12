@@ -40,5 +40,5 @@ By default, Marketo reports are limited to a maximum of 5,000 rows, but you can 
    >
    >Now you can [export your report](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) with the new limit.
 
-   See more ways to configure your reports in the [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) deep dive.
+   See more ways to configure your reports in the [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) deep dive.
 

@@ -6,15 +6,15 @@ title: Release Notes -October 2013
 
 # Release Notes: October 2013 {#release-notes-october}
 
-The following features are included in the October 2013 release. Check your [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) for feature availability.
+The following features are included in the October 2013 release. Check your [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) for feature availability.
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Templates.marketo.com](http://templates.marketo.com) showcases email and landing page templates (including responsive mobile email templates) which you can download from the Marketo Program Library. We will add templates monthly, check back often!
+[Templates.marketo.com](https://templates.marketo.com) showcases email and landing page templates (including responsive mobile email templates) which you can download from the Marketo Program Library. We will add templates monthly, check back often!
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.com](http://developers.marketo.com) is for developers who want to build integrations into Marketo. You can reference different integration options, including Munchkin JavaScript APIs, SOAP API code examples, Webhooks and email scripting. A Java SDK is also available on [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developers.marketo.com](https://developers.marketo.com) is for developers who want to build integrations into Marketo. You can reference different integration options, including Munchkin JavaScript APIs, SOAP API code examples, Webhooks and email scripting. A Java SDK is also available on [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## Updated BrightTALK Event Adapter {#updated-brighttalk-event-adapter}
 

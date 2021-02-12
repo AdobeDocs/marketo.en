@@ -46,7 +46,7 @@ Making changes to your existing segmentations is easy. Here's the low down.
 
 ## Edit Segment Rules {#edit-segment-rules}
 
-1. In your Draft **Segment**, go to **Smart List**. Apply rules similar to [Defining Segment Rules](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
+1. In your Draft **Segment**, go to **Smart List**. Apply rules similar to [Defining Segment Rules](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 

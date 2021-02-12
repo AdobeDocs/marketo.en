@@ -8,7 +8,7 @@ title: Import Contacts via CSV
 
 Having contacts in the People page is important because it's where we pull from to auto-fill personalized information in the dynamic fields in your templates. Make sure you have at least a name and an email address for each contact in your CSV and that you map to those fields.
 
-1. Select your group (or create a new one) in the People tab. 
+1. Select your group (or create a new one) in the People tab.
 
    ![](assets/one.png)
 
@@ -33,4 +33,3 @@ Having contacts in the People page is important because it's where we pull from 
 1. Map the columns in your CSV to their respective fields in Sales Connect. Click **Next** when done.
 
    ![](assets/five.png)
-

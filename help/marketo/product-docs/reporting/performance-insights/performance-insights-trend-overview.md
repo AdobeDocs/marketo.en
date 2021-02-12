@@ -16,7 +16,7 @@ Click the **Trend** tab to access this view.
 
 ![](assets/2-1.png)
 
-Select the metric you want to view the performance by. In this example we'll look at opportunities won via [First Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+Select the metric you want to view the performance by. In this example we'll look at opportunities won via [First Touch](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 ![](assets/3-2.png)
 

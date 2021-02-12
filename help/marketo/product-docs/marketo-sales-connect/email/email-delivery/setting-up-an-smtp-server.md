@@ -18,7 +18,7 @@ It allows you to utilize the reputation of your company's domain and deliverabil
 
 **How does Sales Connect send with my SMTP server?**
 
-By following [these steps](http://docs.marketo.com/x/ZgPh).
+By following [these steps](https://docs.marketo.com/x/ZgPh).
 
 ![](assets/1.png)
 
@@ -45,7 +45,7 @@ Cons
 * Each user must set this up themselves
 * Changing a user’s O365 password will lead to a broken connection
 
-If you're using Office365 or Exchange Online, you can connect to your SMTP server using a standard set of credentials. Keep in mind that Office365 is not a bulk email delivery service, although this will work well for sending one-off emails. When sending bulk emails Office365 may throttle your emails, which can lead to failed delivery. To learn more about this check out Microsoft's article on [how to set up SMTP client submission](http://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4).
+If you're using Office365 or Exchange Online, you can connect to your SMTP server using a standard set of credentials. Keep in mind that Office365 is not a bulk email delivery service, although this will work well for sending one-off emails. When sending bulk emails Office365 may throttle your emails, which can lead to failed delivery. To learn more about this check out Microsoft's article on [how to set up SMTP client submission](https://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4).
 
 “You can only send from one email address unless your device can store login credentials for multiple Office 365 mailboxes. Office 365 imposes a limit of 30 messages sent per minute, and a limit of 10,000 recipients per day.”
 

@@ -18,7 +18,7 @@ title: Creating and Deleting Contacts
 
    >[!TIP]
    >
-   >Want to add multiple contacts at once? [Click here](http://docs.marketo.com/x/VADb) to learn how to import contacts via CSV.
+   >Want to add multiple contacts at once? [Click here](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) to learn how to import contacts via CSV.
 
 ## Deleting Contacts {#deleting-contacts}
 
@@ -30,10 +30,10 @@ title: Creating and Deleting Contacts
    >
    >To delete multiple contacts, simply select multiple people. The remaining steps would be the same.
 
-1. Click the dota (three vertical dots) and select Delete.
+1. Click the dota (three vertical dots) and select **Delete**.
 
    ![](assets/four-2.png)
 
-1. Click Delete Contact to confirm.
+1. Click **Delete Contact** to confirm.
 
    ![](assets/five-2.png)

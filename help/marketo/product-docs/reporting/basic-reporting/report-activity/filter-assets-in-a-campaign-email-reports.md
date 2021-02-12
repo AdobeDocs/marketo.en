@@ -6,7 +6,7 @@ title: Filter Assets in a Campaign Email Reports
 
 # Filter Assets in a Campaign Email Reports {#filter-assets-in-a-campaign-email-reports}
 
-Focus your [Campaign Email Performance](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) report on specific [smart campaigns](http://docs.marketo.com/display/docs/smart+campaigns) in your programs ('local assets') or on those that have been archived.
+Focus your [Campaign Email Performance](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) report on specific [smart campaigns](https://docs.marketo.com/display/docs/smart+campaigns) in your programs ('local assets') or on those that have been archived.
 
 1. Go to **Analytics **(or **Marketing Activities**) area.
 
@@ -50,5 +50,5 @@ Focus your [Campaign Email Performance](../../../../product-docs/reporting/basic
    >**Deep Dive**
    >
    >
-   >Learn all about reports in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Learn all about reports in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 
