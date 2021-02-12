@@ -16,13 +16,13 @@ Follow the steps below to use My Tokens to insert URLs into your emails.
 
    ![](assets/two-4.png)
 
-1. Give the token a unique name, enter a URL (without the http://) and click **Save**.
+1. Give the token a unique name, enter a URL (without the https://) and click **Save**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >To make sure clicks are tracked in your email, do **not** enter http:// inside the token's value.
+   >To make sure clicks are tracked in your email, do **not** enter https:// inside the token's value.
 
 1. Select the email in your program.
 
@@ -36,7 +36,7 @@ Follow the steps below to use My Tokens to insert URLs into your emails.
 
    ![](assets/six-1.png)
 
-1. Anywhere in your email, type "http://" (without leaving a space after) and click the Insert Token icon.
+1. Anywhere in your email, type "https://" (without leaving a space after) and click the Insert Token icon.
 
    ![](assets/seven.png)
 
@@ -48,7 +48,7 @@ Follow the steps below to use My Tokens to insert URLs into your emails.
 
    ![](assets/eight.png)
 
-1. Highlight the http:// and token, then press Ctrl/Cmd+X (Ctrl = Windows/Cmd = Mac) to cut the text.
+1. Highlight the https:// and token, then press Ctrl/Cmd+X (Ctrl = Windows/Cmd = Mac) to cut the text.
 
    ![](assets/nine.png)
 
@@ -64,4 +64,4 @@ Follow the steps below to use My Tokens to insert URLs into your emails.
 
    ![](assets/twelve.png)
 
-   And you're done! Your URL will populate after sending, and thanks to you putting http:// in front of the token, it will produce a trackable link.
+   And you're done! Your URL will populate after sending, and thanks to you putting https:// in front of the token, it will produce a trackable link.

@@ -14,7 +14,7 @@ Learn how to connect your BrightTALK channel to your Marketo instance. In order 
 
 ## Steps in BrightTALK {#steps-in-brighttalk}
 
-1. Log in to [business.brighttalk.com/demandcentral](http://business.brighttalk.com/demandcentral/login) and click **Connect Now**.
+1. Log in to [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login) and click **Connect Now**.
 1. Under Advanced Marketo Connector, click **Connect**.
 1. You will come to the credentials screen, asking for: Client ID, Client Secret, Identity Service URL, and Rest Service URL. To get this information, log-in to Marketo.
 
@@ -70,4 +70,4 @@ Learn how to connect your BrightTALK channel to your Marketo instance. In order 
 
 1. Return to the BrightTALK connector set-up screen from Step 3, and enter the credentials you saved from Steps 12 and 14.
 
-   After the credentials are authenticated, you've officially connected BrightTALK to Marketo. The next step is to determine [which data fields you'd like to sync](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).
+   After the credentials are authenticated, you've officially connected BrightTALK to Marketo. The next step is to determine [which data fields you'd like to sync](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).

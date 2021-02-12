@@ -13,6 +13,7 @@ Follow these simple steps to delete a template.
 >Deleting a template will also delete ALL tracking and analytics associated with it.
 
 1. Select the template you'd like to remove.
-1. Click the menu drop-down in the top right, then click **Delete**. 
-1. Click **Delete** to confirm.
 
+1. Click the menu drop-down in the top right, then click **Delete**.
+
+1. Click **Delete** to confirm.

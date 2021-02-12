@@ -26,7 +26,7 @@ Your sales team can send emails and have them tracked for opens and clicks direc
 
    >[!TIP]
    >
-   >You can [publish emails as templates](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) for your sales team to use.
+   >You can [publish emails as templates](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) for your sales team to use.
 
 1. Add a subject, compose your email and click **Send Email**. (Pick a template if you need one.)
 
@@ -38,6 +38,4 @@ Nicely done! Now you know how to send Marketo tracked emails directly from withi
 
 >[!MORELIKETHIS]
 >
->* [Add a Lead/Contact to a Marketo Campaign from Microsoft Dynamics](add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
->
-
+>[Add a Lead/Contact to a Marketo Campaign from Microsoft Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)

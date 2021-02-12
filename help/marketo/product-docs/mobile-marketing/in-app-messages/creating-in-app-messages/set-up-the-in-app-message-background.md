@@ -68,7 +68,7 @@ Selecting a message background is an important step in finishing up your in-app 
    >    
    >    
    >    * [Understanding In-App Messages](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >    * [Send an In-App Message](http://docs.marketo.com/pages/viewpage.action?pageid=10617378)
+   >    * [Send an In-App Message](https://docs.marketo.com/pages/viewpage.action?pageid=10617378)
    >    * [Choose a Layout for Your In-App Message](choose-a-layout-for-your-in-app-message.md)
    >    
    >

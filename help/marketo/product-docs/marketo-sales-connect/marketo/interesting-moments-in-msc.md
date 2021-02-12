@@ -6,14 +6,13 @@ title: Interesting Moments in MSC
 
 # Interesting Moments in MSC {#interesting-moments-in-msc}
 
-Interesting moments are the key to communicating with your sales team through Marketo Sales Connect. 
+Interesting moments are the key to communicating with your sales team through Marketo Sales Connect.
 
 >[!AVAILABILITY]
 >
->
->These are available to [Marketo Sales Insight](http://docs.marketo.com/x/2Akt) and Marketo Sales Connect customers only.
+>These are available to [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) and Marketo Sales Connect customers only.
 
-## What is an interesting moment?  {#what-is-an-interesting-moment}
+## What is an interesting moment? {#what-is-an-interesting-moment}
 
 That's up to you! You decide what information is relevant to your sales team. Your sales team might want to know when a lead:
 
@@ -23,7 +22,7 @@ That's up to you! You decide what information is relevant to your sales team. Yo
 
 ## How do I create an interesting moment? {#how-do-i-create-an-interesting-moment}
 
-1. Choose a  [s](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [mart campaign](http://docs.marketo.com/display/docs/smart+campaigns), preferably one your sales team would find interesting if triggered.
+1. Choose a [smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), preferably one your sales team would find interesting if triggered.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
@@ -45,7 +44,7 @@ That's up to you! You decide what information is relevant to your sales team. Yo
 
 ## What does an interesting moment look like in Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Interesting moments will be displayed in a [lead's activity log](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+Interesting moments will be displayed in a [lead's activity log](/help/marketoproduct-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
@@ -54,4 +53,3 @@ Interesting moments will be displayed in a [lead's activity log](../../../produc
 Interesting Moments will be displayed in real time in a user's Live Feed. We utilize the lead owner ID in Salesforce to show users' interesting moments of relevant leads that they're the owner of. Users can quickly follow up with leads via email/phone/sales campaign by clicking the drop-down next to the lead's name.
 
 ![](assets/engagement.jpg)
-

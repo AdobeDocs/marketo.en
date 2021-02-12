@@ -6,7 +6,7 @@ title: Campaign Email Performance Report
 
 # Campaign Email Performance Report {#campaign-email-performance-report}
 
-To see your email performance stats grouped by [smart campaign](http://docs.marketo.com/display/docs/smart+campaigns), run a Campaign Email Performance report.
+To see your email performance stats grouped by [smart campaign](https://docs.marketo.com/display/docs/smart+campaigns), run a Campaign Email Performance report.
 
 1. [Create a report](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) and select the **Campaign Email Performance** [report type](report-type-overview.md).
 1. [Set the time frame of your report](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) and click the **Report** tab.
@@ -47,5 +47,5 @@ To see your email performance stats grouped by [smart campaign](http://docs.mark
    >**Deep Dive**
    >
    >
-   >Learn more in  [Basic Reporting.](http://docs.marketo.com/display/docs/basic+reporting)
+   >Learn more in  [Basic Reporting.](https://docs.marketo.com/display/docs/basic+reporting)
 

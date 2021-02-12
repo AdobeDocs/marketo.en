@@ -10,9 +10,9 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
 
 >[!PREREQUISITES]
 >
->[Install Marketo in your Salesforce Professional Edition](http://docs.marketo.com/display/docs/professional+edition)
+>* Install Marketo in your Salesforce Professional Edition.
 >
->[Install Marketo Sales Insight Package in Salesforce AppExchange](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [Install Marketo Sales Insight Package in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
 
    ![](assets/login-admin-1.png)
 
-1. Click** Sales Insight**.
+1. Click **Sales Insight**.
 
    ![](assets/image2015-5-22-15-3a12-3a33-1.png)
 
@@ -125,7 +125,7 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
 
    ![](assets/image2015-5-28-14-3a58-3a39-1.png)
 
-1. Click **Visualforce Pages **on the left. Drag **Section** to the layout underneath Custom Links section.
+1. Click **Visualforce Pages** on the left. Drag **Section** to the layout underneath Custom Links section.
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
@@ -153,7 +153,7 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
    >
    >We recommend a height of 410 pixels for the Accounts and Opportunities objects.
 
-1. Click on **Fields **on the left. Then search and drag the **Engagement** label into the **Marketo Sales Insight** layout.
+1. Click on **Fields** on the left. Then search and drag the **Engagement** label into the **Marketo Sales Insight** layout.
 
    ![](assets/image2015-5-22-16-3a32-3a46-1.png)
 
@@ -206,15 +206,13 @@ Marketo person fields need to be mapped to Salesforce contact fields to ensure t
 
 1. Click **Map Lead Fields**.
 
-   ** ![](assets/image2015-6-1-9-3a58-3a48-1.png)
-
-   **
+   ![](assets/image2015-6-1-9-3a58-3a48-1.png)
 
 1. Click on the dropdown on the right for **Engagement**.
 
    ![](assets/image2015-6-1-10-3a9-3a53-1.png)
 
-1. Select **Contact.Engagement **in the list.
+1. Select **Contact.Engagement** in the list.
 
    ![](assets/image2015-6-1-10-3a12-3a11-1.png)
 
@@ -257,23 +255,23 @@ Marketo person fields need to be mapped to Salesforce contact fields to ensure t
  </tbody> 
 </table>
 
-1. Click **Save **when you’re done.
+1. Click **Save** when you’re done.
 
    ![](assets/image2014-9-24-17-3a37-3a17.png)
 
 ## Marketo Sales Insight Config {#marketo-sales-insight-config}
 
-1. Click **+ **and then select **Marketo Sales Insight Config**.
+1. Click **+** and then select **Marketo Sales Insight Config**.
 
    ![](assets/image2014-9-24-17-3a37-3a45.png)
 
-1. Check **Enable Marketo API**. Then fill in the [API Configuration info in Marketo Admin](http://docs.marketo.com/display/DOCS/Configure+Marketo+Sales+Insight+in+Salesforce+Professional+Edition#ConfigureMarketoSalesInsightinSalesforceProfessionalEdition-SetupMarketoSalesInsight). Click **Save Changes **when you are done.
+1. Check **Enable Marketo API**. Then fill in the [API Configuration info in Marketo Admin](#set-up-marketo-sales-insight). Click **Save Changes** when you are done.
 
    ![](assets/image2014-9-24-17-3a38-3a0.png)
 
    >[!NOTE]
    >
-   >If the diagnostics test failed, you might need to [add more fields to your page layout](http://nation.marketo.com/docs/DOC-1115).
+   >If the diagnostics test failed, you might need to [add more fields to your page layout](https://nation.marketo.com/docs/DOC-1115).
 
 And that's it! You should be able to see the Marketo Sales Insight fields for Leads, Contacts, Accounts and Opportunities.
 
@@ -286,16 +284,16 @@ And that's it! You should be able to see the Marketo Sales Insight fields for Le
 ## Access Marketo Sales Insight {#access-marketo-sales-insight}
 
 1. In Salesforce, click the **+** at the end of the tab bar and click **Marketo Sales Insight Config**.
+
 1. Select the **Enable Marketo API** checkbox.
+
 1. Copy the credentials from the Soap API panel in Marketo’s Sales Insight Admin page and paste them into the Soap API section of the Salesforce Sales Insight Configuration page.
+
 1. Copy the credentials from the Rest API panel in Marketo’s Sales Insight Admin page and paste them into the Rest API section of the Salesforce Sales Insight Configuration page.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
 >[!MORELIKETHIS]
 >
->* [Priority, Urgency, Relative Score, and Best Bets](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Add Marketo Sales Insight Tab and Buttons to Salesforce](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
->
-
-hhh 
+>* [Priority, Urgency, Relative Score, and Best Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+>* [Add Marketo Sales Insight Tab and Buttons to Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)

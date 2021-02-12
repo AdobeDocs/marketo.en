@@ -31,5 +31,5 @@ Review how well you're moving people through the process by checking how many of
    >**Deep Dive**
    >
    >
-   >Learn how to add columns and more in the [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) deep dive.
+   >Learn how to add columns and more in the [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) deep dive.
 

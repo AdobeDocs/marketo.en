@@ -10,7 +10,7 @@ title: Release Notes -March 2012
 >
 >**Deep Dive**
 >
->For other releases, see the [Release Notes](http://docs.marketo.com/display/docs/release+notes) deep dive. 
+>For other releases, see the [Release Notes](https://docs.marketo.com/display/docs/release+notes) deep dive. 
 >
 >## Resolve My Tokens {#resolve-my-tokens}>
 

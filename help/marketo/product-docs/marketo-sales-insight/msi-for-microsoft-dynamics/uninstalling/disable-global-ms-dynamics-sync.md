@@ -22,5 +22,4 @@ Follow these simple steps to disable your MS Dynamics sync.
 
    >[!NOTE]
    >
-   >If you do not see a Disable Sync button in your instance, please contact [Marketo Support](http://nation.marketo.com/community/support_solutions).
-
+   >If you do not see a Disable Sync button in your instance, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).

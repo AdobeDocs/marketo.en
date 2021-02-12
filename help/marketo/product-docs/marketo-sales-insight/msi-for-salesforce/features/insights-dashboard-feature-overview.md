@@ -10,7 +10,7 @@ Learn more about the features available in your Sales Insights dashboard.
 
 >[!PREREQUISITES]
 >
->You must have the latest MSI SFDC package and [configuration](http://docs.marketo.com/x/F4GMAg).
+>You must have the latest MSI SFDC package and [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
 
 ![](assets/one.png)
 
@@ -165,4 +165,3 @@ Event tab:
 * Selecting all events will show list of events scheduled within the next 90 days
 * Activity details card in this section has preview option
 * Filter includes “Search”, “Show only invited events”, and “Date Range”
-

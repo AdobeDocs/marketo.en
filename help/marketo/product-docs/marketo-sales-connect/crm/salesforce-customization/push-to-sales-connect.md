@@ -27,6 +27,6 @@ Our Push to Tout button will take a list of your leads/contacts in Salesforce an
 
    >[!NOTE]
    >
-   >Sales Connect will add this group titled "SFDC-..." to the Relationships page on the [web application](http://toutapp.com/login).
+   >Sales Connect will add this group titled "SFDC-..." to the Relationships page on the [web application](https://toutapp.com/login).
 
 1. Select **Email Entire Group** to send out this group email.

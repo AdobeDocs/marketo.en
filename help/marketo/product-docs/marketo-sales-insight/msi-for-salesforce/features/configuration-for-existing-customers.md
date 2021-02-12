@@ -15,6 +15,7 @@ Please set up the following configuration in order to begin using the new Insigh
 ## Configure Sales Insight in Marketo {#configure-sales-insight-in-marketo}
 
 1. Open a new tab in your browser to get the Marketo Sales Insights credentials from your Marketo account.
+
 1. Go to the **Admin** area.
 
    ![](assets/configure-1.png)
@@ -56,7 +57,7 @@ Please set up the following configuration in order to begin using the new Insigh
 ## Access Marketo Sales Insight {#access-marketo-sales-insight}
 
 1. Copy the credentials from the Rest API panel in Marketo’s Sales Insight Admin page. Paste them in the Rest API section in Salesforce’s Sales Insight Configuration page.
+
 1. Enter the API Secret Key.
 
    ![](assets/config.png)
-

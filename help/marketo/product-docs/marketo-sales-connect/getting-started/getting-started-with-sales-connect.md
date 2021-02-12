@@ -42,7 +42,7 @@ Optionally, you can also:
 
 ## Connect Your Sales Connect Account to Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
-To connect your Sales Connect account to your Salesforce account, as an Admin or a non-Admin, follow the steps in [this article](http://docs.marketo.com/x/JwDb).
+To connect your Sales Connect account to your Salesforce account, as an Admin or a non-Admin, follow the steps in [this article](https://docs.marketo.com/x/JwDb).
 
 >[!NOTE]
 >
@@ -86,7 +86,7 @@ You'll need to get a set of credentials from within Marketo. These credentials w
 
 If any users already exist on your account (previously from ToutApp), they'll show up in the **Team Access** tab of the Marketo section of Sales Connect.
 
-You can provision your team as a Marketo Sales Connect User from this page. If you've never used ToutApp, or have yet to invite users, follow the steps in [this article](http://docs.marketo.com/display/TOUT/Invite+Team+Members).
+You can provision your team as a Marketo Sales Connect User from this page. If you've never used ToutApp, or have yet to invite users, follow the steps in [this article](https://docs.marketo.com/display/TOUT/Invite+Team+Members).
 
 >[!CAUTION]
 >

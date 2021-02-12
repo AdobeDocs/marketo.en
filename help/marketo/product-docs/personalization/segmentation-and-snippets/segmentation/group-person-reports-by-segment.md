@@ -6,7 +6,7 @@ title: Group Person Reports by Segment
 
 # Group Person Reports by Segment {#group-person-reports-by-segment}
 
-You can group your  [person reports](http://docs.marketo.com/display/docs/basic+reporting) by any  [segment](http://docs.marketo.com/display/docs/basic+reporting) that you have  [defined in your segmentations](create-a-segmentation.md).
+You can group your  [person reports](https://docs.marketo.com/display/docs/basic+reporting) by any  [segment](https://docs.marketo.com/display/docs/basic+reporting) that you have  [defined in your segmentations](create-a-segmentation.md).
 
 1. Go to **Marketing Activities** (or **Analytics**) section.
 
@@ -21,7 +21,7 @@ You can group your  [person reports](http://docs.marketo.com/display/docs/basic+
    >**Deep Dive**
    >
    >
-   >Learn more about person reports and other report types in the [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) deep dive.
+   >Learn more about person reports and other report types in the [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) deep dive.
 
 1. Click the **Setup** tab and double-click **Group People by**.
 
@@ -29,7 +29,7 @@ You can group your  [person reports](http://docs.marketo.com/display/docs/basic+
 
    >[!NOTE]
    >
-   >You can also [group your person reports by person or company attribute](http://docs.marketo.com/display/DOCS/Group+Person+Reports+by+Attribute).
+   >You can also [group your person reports by person or company attribute](https://docs.marketo.com/display/DOCS/Group+Person+Reports+by+Attribute).
 
 1. In the **Group People by** dialog, start typing 'Segmentation' in the text box. When the **Segmentations** heading appears, select one from the list below the heading.
 
@@ -43,7 +43,7 @@ You can group your  [person reports](http://docs.marketo.com/display/docs/basic+
 >
 >**Deep Dive**
 >
->To learn more about segments and how to create and manage them, see the [Segmentation](http://docs.marketo.com/display/docs/segmentation+and+snippets) deep dive.
+>To learn more about segments and how to create and manage them, see the [Segmentation](https://docs.marketo.com/display/docs/segmentation+and+snippets) deep dive.
 
 >[!MORELIKETHIS]
 >

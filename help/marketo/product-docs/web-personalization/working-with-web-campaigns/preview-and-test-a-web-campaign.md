@@ -28,7 +28,7 @@ This article shows you different ways to preview a web campaign, and also how to
 
    >[!NOTE]
    >
-   >You also have the option of installing a browser plug-in (either [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) or [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) for the best experience previewing your campaign. See the section below.
+   >You also have the option of installing a browser plug-in (either [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) or [Firefox](https://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) for the best experience previewing your campaign. See the section below.
 
 ## Preview a Web Campaign on the Creation Page Using the Browser Plug-In {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
@@ -85,7 +85,7 @@ Create a sandbox segment and campaign.
 1. Complete the campaign creative and Click **Launch**.  
    ![](assets/click-launch.jpg)
 
-1. Go to your website, add the URL parameter "?sandbox=1" at the end of the URL. Example: [www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
+1. Go to your website, add the URL parameter "?sandbox=1" at the end of the URL. Example: [www.marketo.com?sandbox=1](https://www.marketo.com/?sandbox=1)
 1. See the campaign react on your website.
 
 >[!NOTE]

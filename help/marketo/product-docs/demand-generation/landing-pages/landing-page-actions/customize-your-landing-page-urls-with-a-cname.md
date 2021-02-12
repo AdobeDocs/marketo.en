@@ -8,11 +8,11 @@ title: Customize Your Landing Page URLs with a CNAME
 
 Even though Marketo hosts your landing pages, the URL can be totally customized. What it looks like without a CNAME:
 
-`http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
+`https://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
 
 The way it should look:
 
-`http://go.YourCompany.com/UnsubscribePage.html`
+`https://go.YourCompany.com/UnsubscribePage.html`
 
 ## Choose a CNAME {#choose-a-cname}
 

@@ -26,9 +26,8 @@ You can choose to remove Rest API credentials in SFDC and use only Soap APIs. Th
 
 ## Person Score Settings {#person-score-settings}
 
-| **Stars:** |Stars represent total lead score compared to other leads. |
-|---|---|
-| **Flames:** |Flames represent urgency - how much a lead's score has changed recently. |
+* **Stars**: Stars represent total lead score compared to other leads.
+* **Flames**: Flames represent urgency - how much a lead's score has changed recently.
 
 By default, Marketo Sales Insight uses the Lead Score field to calculate stars and flames. But if you want to pick a different field, here's how:
 
@@ -54,19 +53,17 @@ By default, Marketo Sales Insight uses the Lead Score field to calculate stars a
 
    >[!TIP]
    >
-   >If you don't already have your custom score fields, here's how to [create them](http://docs.marketo.com/x/3wMk).
+   >If you don't already have your custom score fields, here's how to [create them](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Stars and Flames](http://docs.marketo.com/x/qgU6Ag)
+   >[Stars and Flames](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
 
 ## Settings {#settings}
 
 ![](assets/nine.png)
 
-**Unsubscribe Settings: **
+**Unsubscribe Settings:**
 
 You can choose the from following unsubscribe settings for No Template, Standard Emails & Operational emails
 
@@ -75,10 +72,10 @@ You can choose the from following unsubscribe settings for No Template, Standard
 * Respect Unsubscribe Settings when more than 5 recipients
 * Ignore Unsubscribe Settings
 
-**Enable ability to lock templates: **
+**Enable ability to lock templates:**
 
 When enabled, MSI users will not be able to edit templates while sending emails from Salesforce
 
 **Enable RSS Feed:**
 
-When enabled, MSI users can view their Lead Feed in an RSS feed (in addition to the Lead Feed in Salesforce)**.**
+When enabled, MSI users can view their Lead Feed in an RSS feed (in addition to the Lead Feed in Salesforce).

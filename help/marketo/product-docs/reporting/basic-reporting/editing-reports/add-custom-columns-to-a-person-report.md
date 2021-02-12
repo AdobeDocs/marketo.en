@@ -6,7 +6,7 @@ title: Add Custom Columns to a Person Report
 
 # Add Custom Columns to a Person Report {#add-custom-columns-to-a-person-report}
 
-You can further filter the metrics in your [person reports](http://docs.marketo.com/display/docs/basic+reporting) by using your [smart lists](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) as custom columns.
+You can further filter the metrics in your [person reports](https://docs.marketo.com/display/docs/basic+reporting) by using your [smart lists](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) as custom columns.
 
 1. Go to the **Marketing Activities** (or **Analytics**) area.
 
@@ -29,7 +29,7 @@ You can further filter the metrics in your [person reports](http://docs.marketo.
    >**Deep Dive**
    >
    >
-   >Learn how to create and configure smart lists in the [Smart Lists and Static Lists](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) deep dive.
+   >Learn how to create and configure smart lists in the [Smart Lists and Static Lists](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) deep dive.
 
 1. You've done it! Click the **Report** tab to see your report with the new columns.
 
@@ -46,5 +46,5 @@ You can further filter the metrics in your [person reports](http://docs.marketo.
    >**Deep Dive**
    >
    >
-   >Learn more of the many things you can do with reports in the [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) deep dive.
+   >Learn more of the many things you can do with reports in the [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) deep dive.
 

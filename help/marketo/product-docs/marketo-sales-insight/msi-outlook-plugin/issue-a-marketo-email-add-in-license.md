@@ -38,7 +38,7 @@ Anyone who wants to use the Marketo Email Outlook Add-in must first be issued a 
 
    >[!NOTE]
    >
-   >To install the plugin remotely, leave the checkbox unchecked and send your IT team your [Enterprise Key](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key).
+   >To install the plugin remotely, leave the checkbox unchecked and send your IT team your [Enterprise Key](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key).
    >
    >If your sales reps have admin access to their computers, check the box and you're done!
 

@@ -6,7 +6,7 @@ title: Group Person Reports by Attribute
 
 # Group Person Reports by Attribute {#group-person-reports-by-attribute}
 
-You can group your [person reports](http://docs.marketo.com/display/docs/basic+reporting) by any person or company attribute.
+You can group your [person reports](https://docs.marketo.com/display/docs/basic+reporting) by any person or company attribute.
 
 1. Go to the **Marketing Activities** (or **Analytics**) area.
 
@@ -41,7 +41,7 @@ You can group your [person reports](http://docs.marketo.com/display/docs/basic+r
    >**Deep Dive**
    >
    >
-   >Learn more about person reports and other report types in the [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting)deep dive.
+   >Learn more about person reports and other report types in the [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting)deep dive.
 
    >[!MORELIKETHIS]
    >

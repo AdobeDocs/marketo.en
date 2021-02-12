@@ -58,5 +58,5 @@ Follow these steps to create an Email Analysis Report that will show email infor
    >**Deep Dive**
    >
    >
-   >Want to learn more about [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics)?
+   >Want to learn more about [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics)?
 

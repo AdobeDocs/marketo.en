@@ -6,4 +6,4 @@ title: Why Aren't Any of My Contacts Getting Pushed to Sales Connect?
 
 # Why Aren't Any of My Contacts Getting Pushed to Sales Connect? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-connect}
 
-If no contacts were pushed over, it's possible you have an invalid Salesforce connection. Go to your [Salesforce settings](http://toutapp.com/next#settings/crm/salesforce/configure) and disconnect then reconnect. Give it about 20 minutes to fully reset. If it's still zero after that, please [submit a case](http://nation.marketo.com/community/support_solutions) to Support.
+If no contacts were pushed over, it's possible you have an invalid Salesforce connection. Go to your [Salesforce settings](https://toutapp.com/login) and disconnect then reconnect. Give it about 20 minutes to fully reset. If it's still zero after that, please [submit a case](https://nation.marketo.com/t5/Support/ct-p/Support#) to Support.

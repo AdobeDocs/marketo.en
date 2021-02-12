@@ -10,9 +10,12 @@ Sales Phone gives you the ability to record and save your call recordings. If yo
 
 ## Copy Recording Link from the Person Details in the Web Application {#copy-recording-link-from-the-person-details-in-the-web-application}
 
-1. Navigate to the [web application](http://toutapp.com/login).
+1. Navigate to the [web application](https://toutapp.com/login).
+
 1. Open up the person details.
+
 1. Find the Call Activity under the activity list.
+
 1. Right-click on the call recording and copy the link URL.
 
 ## Copy Recording Link from the Salesforce Task {#copy-recording-link-from-the-salesforce-task}
@@ -22,9 +25,9 @@ Sales Phone gives you the ability to record and save your call recordings. If yo
 >You will need to have your calls logging to Salesforce in order to get this link.
 
 1. Navigate to the task created in Salesforce for the call.
+
 1. Copy the link listed in the Sales Call Recording field.
 
 >[!CAUTION]
 >
 >Do not copy the URL from the call recording. This recording link has an expiration date and will lead to an error page after about 10 minutes.
-

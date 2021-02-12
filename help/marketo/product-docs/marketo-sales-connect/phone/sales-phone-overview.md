@@ -18,7 +18,7 @@ title: Sales Phone Overview
 
 **Local Presence:** You will only need to check "use local presence" and record the call for your first call. Sales Connect will remember your settings for all future calls.
 
-If you want Sales Connect to automatically create a call activity in Salesforce, check out [this article](http://docs.marketo.com/x/joLS).
+If you want Sales Connect to automatically create a call activity in Salesforce, check out [this article](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md).
 
 ## How do I make a call with Sales Phone? {#how-do-i-make-a-call-with-sales-phone}
 
@@ -30,6 +30,6 @@ In Command Center, you can use your “call list” from the sent tab.
 
 Once you hit call or make a call, Sales Connect will pull in your lead/contact's phone number from Salesforce. If no number is listed in Salesforce, Sales Connect will pull in the phone number on the account record.
 
-For teams using other CRMS, Sales Connect will pull the phone number from the number on the record in Sales Connect. This data can easily be available through a [CSV upload](http://docs.marketo.com/x/HIPS).
+For teams using other CRMS, Sales Connect will pull the phone number from the number on the record in Sales Connect. This data can easily be available through a [CSV upload](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
 Hit the big green **Call** button. Your phone will then start ringing. Pick up your phone and Sales Connect will automatically call the lead/contact.

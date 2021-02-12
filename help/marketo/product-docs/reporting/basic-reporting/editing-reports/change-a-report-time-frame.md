@@ -50,5 +50,5 @@ Change the time period covered by your report, to focus on a specific time of ac
    >**Deep Dive**
    >
    >
-   >For more ways to use reports, see the [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) deep dive.
+   >For more ways to use reports, see the [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) deep dive.
 

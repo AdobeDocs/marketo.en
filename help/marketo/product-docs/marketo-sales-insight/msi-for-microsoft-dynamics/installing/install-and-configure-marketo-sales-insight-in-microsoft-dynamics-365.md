@@ -10,9 +10,9 @@ Marketo Sales Insight is a fantastic tool for giving your sales team a "window" 
 
 >[!PREREQUISITES]
 >
->Complete your [Marketo-Microsoft integration](http://docs.marketo.com/x/E4A2).
+>Complete your Marketo-Microsoft integration.
 >
->[Download the correct solution](http://docs.marketo.com/x/LoJo) for your version of Microsoft Dynamics CRM.
+>[Download the correct solution](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) for your version of Microsoft Dynamics CRM.
 
 ## Import Solution {#import-solution}
 
@@ -30,12 +30,10 @@ Marketo Sales Insight is a fantastic tool for giving your sales team a "window" 
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >You should already have [installed and configured the Marketo solution](../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md) before moving forward.
+   >You should already have [installed and configured the Marketo solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md) before moving forward.
 
-   Click Import.
+1. Click **Import**.
+
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
 1. In the new window, click **Browse**. Choose the [Marketo Sales Insight solution you downloaded in step 1](#msi). Click **Next**.
@@ -78,7 +76,7 @@ Let's tie your Marketo instance to Sales Insight in Dynamics. Here is how:
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Copy the **Marketo Host**, **API URL** and **API User Id** for use in a later step. Enter an **API Secret Key** of your choice and click **SAVE**.
+1. Copy the **Marketo Host**, **API URL** and **API User Id** for use in a later step. Enter an **API Secret Key** of your choice and click **Save**.
 
    >[!CAUTION]
    >
@@ -88,13 +86,13 @@ Let's tie your Marketo instance to Sales Insight in Dynamics. Here is how:
 
    >[!NOTE]
    >
-   >The following fields must be synced with Marketo for *both Lead and Contact* for Sales Insight to work:
+   >The following fields must be synced with Marketo for _both Lead and Contact_ for Sales Insight to work:
    >
    > * Priority
    > * Urgency
    > * Relative Score
    >
-   >If any of these fields are missing, you will see an error message in Marketo with the name of the missing fields. To fix this, perform [this procedure](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
+   >If any of these fields are missing, you will see an error message in Marketo with the name of the missing fields. To fix this, perform [this procedure](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
 1. Back in Microsoft Dynamics, click the ![](assets/image2015-5-13-15-3a49-3a19.png) icon next to Settings, then select **Marketo API Config** in the dropdown.
 
@@ -138,4 +136,4 @@ You have now unlocked the power of Marketo Sales Insight for your sales team.
 
 >[!MORELIKETHIS]
 >
->[Setting up Stars and Flames for Lead/Contact Records](http://docs.marketo.com/x/BICMAg)
+>[Setting up Stars and Flames for Lead/Contact Records](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)

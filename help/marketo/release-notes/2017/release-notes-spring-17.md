@@ -38,11 +38,11 @@ Easily transfer large amounts of person and activity data from Marketo to your e
 
 Marketo ABM now allows you to create up to 10 custom fields on your Named Accounts. You can map these Custom Fields to fields in your CRM Account object and Marketo ABM will sync the data, allowing you to extend your ABM Named Accounts and help drive your marketing.
 
-** [Percentile Scoring on ABM Named Accounts](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+** [Percentile Scoring on ABM Named Accounts](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 Named Account scores can vary greatly. Marketo ABM now automatically calculates a percentile for each of your scores, so you can see at a glance where each Named Account ranks among your other Named Accounts.
 
-** [ABM Account List APIs](http://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+** [ABM Account List APIs](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Take advantage of rich and robust ABM partner integrations with enhanced API support for Named Account Lists.
 

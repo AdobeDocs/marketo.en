@@ -41,4 +41,3 @@ Here's how to set up bulk actions in Salesforce Lightning.
    >[!NOTE]
    >
    >Repeat the same steps to add bulk actions in your Contact list view.
-

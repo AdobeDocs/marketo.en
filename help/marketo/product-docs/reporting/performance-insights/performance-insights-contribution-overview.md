@@ -16,7 +16,7 @@ Select the metric you want to view the performance by. In this example we'll loo
 
 >[!NOTE]
 >
->Learn about [First-Touch and Multi-Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+>Learn about [First-Touch and Multi-Touch](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 Choose which period you'd like to see metrics for. In this example we're looking at the current year (year-to-date).   ![](assets/3-1.png)
 

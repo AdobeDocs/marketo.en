@@ -10,7 +10,7 @@ Campaigns can only be shared if they're made visible. Here's how to do that.
 
 1. Select (or create) the Campaign you want shared.
 
-   ![](assets/one.png)  
+   ![](assets/one.png)
 
 1. Click the **Smart List** tab.
 
@@ -43,4 +43,3 @@ Campaigns can only be shared if they're made visible. Here's how to do that.
 1. Click the **Schedule** tab and **Activate** the campaign.
 
    ![](assets/nine.png)
-

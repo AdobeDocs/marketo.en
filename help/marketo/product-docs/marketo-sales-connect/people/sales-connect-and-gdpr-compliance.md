@@ -10,7 +10,7 @@ The General Data Protection Regulation (GDPR) is European Union legislation that
 
 ## Overview {#overview}
 
-Its aim is to strengthen the rights of data subjects within the European Union (EU) and European Economic Area (EEA) with regard to how their personal data is used and protected. “Personal data” refers to any information that relates to an identified or identifiable natural person.   
+Its aim is to strengthen the rights of data subjects within the European Union (EU) and European Economic Area (EEA) with regard to how their personal data is used and protected. “Personal data” refers to any information that relates to an identified or identifiable natural person.
   
 The GDPR is structured around six key principles (detailed in Article 5 of the legislation):
 
@@ -31,10 +31,11 @@ The GDPR applies to any organization inside or outside the EU who is marketing g
 
 Marketers aim to create customer experiences that feel personal and human, founded on trust and delivered with care. Though the GDPR doesn’t use these terms, the goals are the same—to respect the rights of customers and to earn their trust. To build and maintain that trust, marketers must be attuned to the how, when, and why their customers want to be engaged. It's critical that customer preferences are respected, not only as a legal requirement, but as the foundation of customer-focused engagement practices.  
   
-How marketers address these higher expectations around the collection, use, and security of the personal data that are routinely used in the course of their work is key, and Marketo can help with meeting those expectations.   
+How marketers address these higher expectations around the collection, use, and security of the personal data that are routinely used in the course of their work is key, and Marketo can help with meeting those expectations.
+
 There are two key aspects of the GDPR where marketers needs to review past, current, and future practices. The first is consent by the individual to process their personal data, and the second is accountability, namely being able to demonstrate how the principles of the GDPR are being followed.  
   
-We provide extensive information around consent and accountability within the Marketo platform in our e-book, [GDPR and The Marketer](http://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In this article, however, we will focus specifically on the new features in Marketo Sales Connect that will help your organization adhere to GDPR rules.
+We provide extensive information around consent and accountability within the Marketo platform in our e-book, [GDPR and The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In this article, however, we will focus specifically on the new features in Marketo Sales Connect that will help your organization adhere to GDPR rules.
 
 ## GDPR Compliance in Marketo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
 
@@ -76,18 +77,19 @@ Editing the Compliance Card
 
 When the Person Detail View is open, click **Edit** in the Compliance Card.
 
-![](assets/four.png)  
+![](assets/four.png)
   
 You will see two drop-downs: Authorization Type and Source Type.  
   
-![](assets/5.png)  
+![](assets/5.png)
   
 If you choose “Consent” as the Authorization Type, two mandatory fields: “Date of Consent” and “Purpose of Processing” will appear. These two fields are not applicable to other options.
 
-![](assets/6.png)  
+![](assets/6.png)
   
 If “Other” is chosen for either Authorization Type or Source Type, you may enter text to describe the Source Type.
-** ![](assets/7.png)  
+
+![](assets/7.png)
   
 Bulk Actions** Marketo Sales Connect also allows for updating a contact’s Authorization and Source types in bulk, saving valuable time in the compliance process.  
   
@@ -159,7 +161,9 @@ You have the ability to export contact information from the Person Detail View. 
 >
 >This can only be done one contact at a time. There is currently no functionality allowing bulk exports of contacts.
 
-To export contact information, click the three vertical dots in the Person Detail View Header and select **Export**. The .CSV file will automatically download.   ![](assets/thirteen.png)
+To export contact information, click the three vertical dots in the Person Detail View Header and select **Export**. The .CSV file will automatically download.
+
+![](assets/thirteen.png)
 
 >[!NOTE]
 >
@@ -176,6 +180,6 @@ One commonly misunderstood area of GDPR involves contacts that unsubscribe from 
 
 ## Future Updates {#future-updates}
 
-As an enthusiastic advocate of the power and customer-centricity of the engagement economy, Marketo understands the importance of putting privacy and data protection in the hands of the data subject. As with other data protection laws, GDPR compliance requires commitment from both Marketo and our customers. This article is intended to help you use Marketo in an appropriate way to support your organization’s GDPR compliance.   
+As an enthusiastic advocate of the power and customer-centricity of the engagement economy, Marketo understands the importance of putting privacy and data protection in the hands of the data subject. As with other data protection laws, GDPR compliance requires commitment from both Marketo and our customers. This article is intended to help you use Marketo in an appropriate way to support your organization’s GDPR compliance.
   
-We will continue to closely track applicable GDPR guidance issued by regulatory authorities and related legislation. Updates will be posted to our Trust Center at [trust.marketo.com](http://trust.marketo.com).
+We will continue to closely track applicable GDPR guidance issued by regulatory authorities and related legislation. Updates will be posted to our Trust Center at [trust.marketo.com](https://trust.marketo.com).

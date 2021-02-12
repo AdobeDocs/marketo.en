@@ -124,4 +124,3 @@ You have the option of customizing what contact information you see by choosing 
   </tr> 
  </tbody> 
 </table>
-

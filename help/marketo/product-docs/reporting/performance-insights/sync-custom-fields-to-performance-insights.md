@@ -14,7 +14,7 @@ MPI Revenue and Pipeline dashboards can filter on custom Marketo fields. in orde
 
 >[!NOTE]
 >
->This article is only for users who do **not** have [RCA](http://docs.marketo.com/x/lwIk). If you do have RCA, please follow the steps in [this article](http://docs.marketo.com/x/FQQk).
+>This article is only for users who do **not** have [RCA](https://docs.marketo.com/x/lwIk). If you do have RCA, please follow the steps in [this article](https://docs.marketo.com/x/FQQk).
 
 1. Go to the **Admin** section.
 

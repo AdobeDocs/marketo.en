@@ -31,5 +31,5 @@ From a [Web Page Activity report](../../../../../product-docs/reporting/basic-re
    >**Deep Dive**
    >
    >
-   >Do more with reports! See the  [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) deep dive. 
+   >Do more with reports! See the  [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) deep dive. 
 

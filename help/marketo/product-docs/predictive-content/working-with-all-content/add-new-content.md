@@ -32,5 +32,5 @@ You can easily add content manually to the All Content page.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)  
 
-1. Here's how to add it to [Predictive Content](http://docs.marketo.com/x/Vbet).
+1. Here's how to add it to [Predictive Content](https://docs.marketo.com/x/Vbet).
 

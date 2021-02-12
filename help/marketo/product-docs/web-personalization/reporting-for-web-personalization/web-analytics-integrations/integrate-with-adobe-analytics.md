@@ -57,8 +57,8 @@ Complete the following steps to set up these variables in AA:
 
 1. Go to **Admin Tools** in your AA account.
 1. Select the **Report Suite** to be used with the integration.
-1. Under **Edit Settings,** go to **Conversion** and select ** [Conversion Variables](http://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.  
-   Select the [Conversion Variable](http://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) number (we recommend):
+1. Under **Edit Settings,** go to **Conversion** and select ** [Conversion Variables](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.  
+   Select the [Conversion Variable](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) number (we recommend):
 
     1.
 
@@ -75,7 +75,7 @@ Complete the following steps to set up these variables in AA:
             
             1. Change Expire After field to **Visit.**
 
-1.   Under **Edit Settings **go to **Conversion** and select ** [Success Events](http://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**. 
+1.   Under **Edit Settings **go to **Conversion** and select ** [Success Events](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**. 
 
     1. Select the Custom Success Events Event number (we recommend):
 
@@ -90,7 +90,7 @@ Complete the following steps to set up these variables in AA:
 
     1. Select the Type* *field to be **Counter (no subrelations)**
 
-1. Under **Edit Settings** go to ** [Traffic](http://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **and select ** [Traffic Variables](http://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+1. Under **Edit Settings** go to ** [Traffic](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **and select ** [Traffic Variables](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
     1. Select the Traffic Variable Property # (we recommend):
 
@@ -170,13 +170,13 @@ Examples of customized reports and dashboards in AA include:
 
 **Creating the RTP Dashboard**
 
-Create a [new dashboard](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), called **RTP Dashboard**. This dashboard will help understand the breakdown of your visitors according to verticals and RTP segments.
+Create a [new dashboard](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), called **RTP Dashboard**. This dashboard will help understand the breakdown of your visitors according to verticals and RTP segments.
 
 1. Click **Dashboard,** click** Add Dashboard**
 
 1. Name the Dashboard **RTP Dashboard**
 1. Select the **dashboard size** 3 x 2, 2 x 2
-1. Create the [reportlet](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) and add [content to the dashboard](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
+1. Create the [reportlet](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) and add [content to the dashboard](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
 
 Adding the Industries Reportlet to the Dashboard
 

@@ -6,7 +6,7 @@ title: Campaign Activity Report
 
 # Campaign Activity Report {#campaign-activity-report}
 
-See how your [smart campaigns](http://docs.marketo.com/display/docs/smart+campaigns) are performing.
+See how your [smart campaigns](https://docs.marketo.com/display/docs/smart+campaigns) are performing.
 
 1. [Create a report](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) and select the **Campaign Activity** [report type](report-type-overview.md).
 1. [Set the time frame of your report](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) and click the **Report** tab.
@@ -48,5 +48,5 @@ See how your [smart campaigns](http://docs.marketo.com/display/docs/smart+campai
    >    
    >
 
-   See more reports in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   See more reports in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 

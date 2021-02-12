@@ -21,7 +21,7 @@ To access Performance Insights, click its icon on the Analytics home screen.
 
 ## Contribution {#contribution}
 
-Evaluate Marketing's [contribution to revenue](http://docs.marketo.com/x/QAvG)as a function of customer acquisition, influence, conversion, even installed base growth. 
+Evaluate Marketing's [contribution to revenue](https://docs.marketo.com/x/QAvG)as a function of customer acquisition, influence, conversion, even installed base growth. 
 
 ![](assets/two.png)
 
@@ -31,13 +31,13 @@ By default, the data displayed reflects performance by Engagement. You can switc
 
 ## Trend {#trend}
 
-Uncover [long-term trends](http://docs.marketo.com/x/QgvG) to spot consistent winning strategies.
+Uncover [long-term trends](https://docs.marketo.com/x/QgvG) to spot consistent winning strategies.
 
 ![](assets/4.png)
 
 ## Settings {#settings}
 
-In the Revenue and Pipeline dashboards, click the [Settings](http://docs.marketo.com/x/pIDS) icon to set additional parameters.
+In the Revenue and Pipeline dashboards, click the [Settings](https://docs.marketo.com/x/pIDS) icon to set additional parameters.
 
 ![](assets/5.png)
 

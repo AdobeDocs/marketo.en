@@ -14,7 +14,7 @@ The following features are included in the February 2015 release. Please check y
 
 Rejoice! Now you can move smart campaigns in and out of programs using drag and drop or the Move feature in the tree.
 
-** [Dynamics 2015 (Online)](http://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) **- supported!
+** [Dynamics 2015 (Online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) **- supported!
 
 **HTTPS Certificate Changes**
 
@@ -22,11 +22,11 @@ To protect confidentiality and integrity of customer data and SaaS services, Mar
 
 and will replace currently used security protocols (SHA-1 and SSL) with more secure versions (SHA-2 (a.k.a. SHA-256) and TLS) for the following domains:
 
-`·` [marketo.net](http://marketo.net) (encrypted Munchkin traffic)
+`·` [marketo.net](https://marketo.net) (encrypted Munchkin traffic)
 
-`·` [marketo.com](http://marketo.com) (main SaaS applications)
+`·` [marketo.com](https://marketo.com) (main SaaS applications)
 
-This will happen shortly after this release. SHA-1 protocol will be temporally supported on [mktoapi.com](http://mktoapi.com) domain until December, 2015 to allow owners of legacy systems and applications to update their systems with SHA-2 compatibility.
+This will happen shortly after this release. SHA-1 protocol will be temporally supported on [mktoapi.com](https://mktoapi.com) domain until December, 2015 to allow owners of legacy systems and applications to update their systems with SHA-2 compatibility.
 
 **Secure Munchkin**
 

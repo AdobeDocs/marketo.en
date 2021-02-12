@@ -36,4 +36,3 @@ Below are the latest versions for all Sales Connect clients.
 >[!NOTE]
 >
 >We are not currently optimized for any browsers other than Chrome. This is something our product team is aware of and hoping to address in the future.
-

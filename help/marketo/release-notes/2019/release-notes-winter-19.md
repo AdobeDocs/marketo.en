@@ -33,11 +33,11 @@ Include up to five CC addresses per recipient on emails sent through Marketo.
 * **Multi-Branding Domain Support for Asset API:** Approving and cloning assets produce the same results within the API and UI.
 * **Email CC Support for Asset API**: Users cloning, approving, and processing emails via the API will maintain parity with the UI settings.
 
-** [Munchkin v155 (Beta)](http://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+** [Munchkin v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **API-Only Mode**: Users can now determine when and how to track members of their database by allowing single-page web apps to explicitly call when they want to record a webpage visit instead of relying on Marketo's automatic tracking. 
 * **Opt-Out Management**: Easily manage opt-outs by matching the opt-out cookie domain with the Munchkin tracking cookie domain. 
-* **Domain-Level Decider Parameter**: Two-letter domains (i.e. " [website.io](http://website.io)") will automatically track in Marketo without additional setup requirements.
+* **Domain-Level Decider Parameter**: Two-letter domains (i.e. " [website.io](https://website.io)") will automatically track in Marketo without additional setup requirements.
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
@@ -96,10 +96,10 @@ To manage domains and subdomains more efficiently, users can now add subdomains 
 
 **Updated MME Software Development Kit (SDK) for Android**
 
-We’ve updated our SDK for Android to a more modern, stable and scalable framework that contains more flexibility and new engineering features. Android app developers can now directly use Google’s [Firebase Cloud Messaging](http://firebase.google.com/docs/cloud-messaging/) (FCM) with this new SDK.
+We’ve updated our SDK for Android to a more modern, stable and scalable framework that contains more flexibility and new engineering features. Android app developers can now directly use Google’s [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) with this new SDK.
 
-* [Developer instructions](http://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application) 
-* [Developer FAQ](http://developers.marketo.com/mobile/installation/#android_fcm_faq) 
+* [Developer instructions](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application) 
+* [Developer FAQ](https://developers.marketo.com/mobile/installation/#android_fcm_faq) 
 
 >[!NOTE]
 >

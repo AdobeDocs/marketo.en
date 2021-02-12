@@ -10,7 +10,7 @@ Sometimes corporate policies require that their IT Team installs all software on
 
 >[!PREREQUISITES]
 >
->[Set up](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) the Enterprise Key.
+>[Set up](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) the Enterprise Key.
 
 Run the following command line as the as ‘System’ or an Administrative user account with the /i switch to install.  `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`  
 

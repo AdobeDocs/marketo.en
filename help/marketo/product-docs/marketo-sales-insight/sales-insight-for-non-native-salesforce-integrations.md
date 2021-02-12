@@ -12,8 +12,8 @@ If your Marketo account is connected to Salesforce through a customized or non-n
 >
 >* Reach out to your Customer Success Manager to enable the “MSI Non-Native” feature for your Marketo instance.
 >* A Salesforce account with MSI Package set-up.
->* Marketo REST API [successfully set up](http://developers.marketo.com/rest-api/). The exposed CRUD APIs will be the basis of performing the non-native sync.
->* Read [this blog post](http://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) in order to get an understanding of the object and relationships.
+>* Marketo REST API [successfully set up](https://developers.marketo.com/rest-api/). The exposed CRUD APIs will be the basis of performing the non-native sync.
+>* Read [this blog post](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) in order to get an understanding of the object and relationships.
 >* Set up Salesforce objects to display the 18 character case-insensitive globally unique identifier rather than the 15 character case-sensitive globally unique identifier.
 >
 
@@ -47,8 +47,8 @@ If your Marketo account is connected to Salesforce through a customized or non-n
  </tbody> 
 </table>
 
-   API documentation for Sales Person: [https://developers.marketo.com/rest-api/lead-database/sales-persons/](http://developers.marketo.com/rest-api/lead-database/sales-persons/)  
-   API documentation for syncing the Sales Person: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST)
+   API documentation for Sales Person: [https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/)  
+   API documentation for syncing the Sales Person: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST)
 
 1. Sync the Salesforce Accounts to Marketo.
 
@@ -79,8 +79,8 @@ If your Marketo account is connected to Salesforce through a customized or non-n
  </tbody> 
 </table>
 
-   API documentation for Companies: [https://developers.marketo.com/rest-api/lead-database/companies/](http://developers.marketo.com/rest-api/lead-database/companies/)  
-   `API documentation for syncing Companies:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST)`
+   API documentation for Companies: [https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/)  
+   `API documentation for syncing Companies:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST)`
 
 1. Sync the Salesforce Leads/Contacts to Marketo.
 
@@ -116,8 +116,8 @@ If your Marketo account is connected to Salesforce through a customized or non-n
  </tbody> 
 </table>
 
-   API documentation for Leads: [`https://developers.marketo.com/rest-api/lead-database/leads/`](http://developers.marketo.com/rest-api/lead-database/leads/)  
-   API documentation for syncing Leads:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
+   API documentation for Leads: [`https://developers.marketo.com/rest-api/lead-database/leads/`](https://developers.marketo.com/rest-api/lead-database/leads/)  
+   API documentation for syncing Leads:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
 
 1. Sync Salesforce Opportunities to Marketo.
 
@@ -153,8 +153,8 @@ If your Marketo account is connected to Salesforce through a customized or non-n
  </tbody> 
 </table>
 
-   API documentation for Opportunity: [`https://developers.marketo.com/rest-api/lead-database/opportunities/`](http://developers.marketo.com/rest-api/lead-database/opportunities/)  
-   `API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
+   API documentation for Opportunity: [`https://developers.marketo.com/rest-api/lead-database/opportunities/`](https://developers.marketo.com/rest-api/lead-database/opportunities/)  
+   `API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
 
 1. Sync Salesforce Contact Roles to Marketo.
 
@@ -190,8 +190,8 @@ If your Marketo account is connected to Salesforce through a customized or non-n
  </tbody> 
 </table>
 
-   API documentation for Opportunity: [`https://developers.marketo.com/rest-api/lead-database/opportunities/`](http://developers.marketo.com/rest-api/lead-database/opportunities/)  
-   `API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
+   API documentation for Opportunity: [`https://developers.marketo.com/rest-api/lead-database/opportunities/`](https://developers.marketo.com/rest-api/lead-database/opportunities/)  
+   `API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
 
 1. Sync Last Interesting Moment/MSI Scoring fields to SFDC.
 
@@ -254,7 +254,7 @@ If your Marketo account is connected to Salesforce through a customized or non-n
  </tbody> 
 </table>
 
-   Documentation for the Lead REST API:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
+   Documentation for the Lead REST API:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
 
    Proper use of the external fields is key to a successful non-native sync. If you fail to see data in some of the views, it is likely that a certain field was not correctly synced. For example, if a lead’s activities and interesting moments don’t show up when looking in the MSI widget under their Account, it is likely that either the lead’s company or the Account was not correctly synced. Performing a GET request for this lead while specifying the external fields will help you verify whether the lead was correctly synced. Moreover, the email for the external sales person in Marketo must match the email for that user in Salesforce. Data may not show in the Marketo tab in Salesforce if the emails do not match.
 

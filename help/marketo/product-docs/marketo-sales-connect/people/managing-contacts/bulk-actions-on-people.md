@@ -30,7 +30,7 @@ We automatically assign a source to every contact that enters the database. Use 
 
 ## Authorization {#authorization}
 
-In compliance with [GDPR](http://eugdpr.org/), use authorization to indicate how you received permission to engage with these contacts.
+In compliance with [GDPR](https://eugdpr.org/), use authorization to indicate how you received permission to engage with these contacts.
 
 ![](assets/authorization.png)
 
@@ -42,7 +42,6 @@ Perform a bulk unsubscribe on contacts who no longer wish to receive corresponde
 
 ## Delete {#delete}
 
-Delete contacts in bulk. Full steps can be found [here](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts).
+Delete contacts in bulk. Full steps can be found [here](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
 
 ![](assets/delete.png)
-

@@ -36,9 +36,8 @@ Nice job! Now you know how to make emails available for your sales team to send 
 
 >[!NOTE]
 >
->[My Tokens](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) will not resolve when sending an email from Sales Insight on either Microsoft Dynamics or Salesforce; only standard tokens will populate (Lead, Company, etc.). Default values for tokens will work, however.
+>[My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) will not resolve when sending an email from Sales Insight on either Microsoft Dynamics or Salesforce; only standard tokens will populate (Lead, Company, etc.). Default values for tokens will work, however.
 
 >[!TIP]
 >
->Don't forget to approve this email in order for the changes to take effect. Learn how to [Approve an Email](../../../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
-
+>Don't forget to approve this email in order for the changes to take effect. Learn how to [Approve an Email](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).

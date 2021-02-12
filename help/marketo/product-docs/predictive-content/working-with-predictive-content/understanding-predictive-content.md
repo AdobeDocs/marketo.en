@@ -51,7 +51,7 @@ Filtering enabled content analytics gives you the ability to see how each source
 
 ## View Table Data for Predictive Content {#view-table-data-for-predictive-content}
 
-In the table, you can view which sources are enabled for predictive content, from left to right: Recommendation Bar, email, and Rich Media. Enabled sources are shown in green. You enable these when you [edit the content](http://docs.marketo.com/display/docs/edit+predictive+content).
+In the table, you can view which sources are enabled for predictive content, from left to right: Recommendation Bar, email, and Rich Media. Enabled sources are shown in green. You enable these when you [edit the content](https://docs.marketo.com/display/docs/edit+predictive+content).
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
@@ -71,5 +71,5 @@ Hover over the bar in the Conversion Rate column to view conversion rate, direct
 
 >[!MORELIKETHIS]
 >
->* [Predictive Content](http://docs.marketo.com/display/docs/predictive+content)
->* [Edit Predictive Content](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Predictive Content](https://docs.marketo.com/display/docs/predictive+content)
+>* [Edit Predictive Content](https://docs.marketo.com/display/docs/edit+predictive+content)

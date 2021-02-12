@@ -16,7 +16,7 @@ You’ll need the following in order to use the Sales Connect integration with H
 
 In addition to working in Sales Connect in a browser, the Highspot integration is available in our Outlook .Net email client. The requirements are as follows:
 
-* **Outlook .Net & Exchange **- Sales Connect supported version of Outlook .Net, Exchange Online, Exchange 2016
+* **Outlook .Net & Exchange** - Sales Connect supported version of Outlook .Net, Exchange Online, Exchange 2016
 
 >[!NOTE]
 >
@@ -24,15 +24,20 @@ In addition to working in Sales Connect in a browser, the Highspot integration i
 
 ## Enabling the Sales Connect and Highspot Integration {#enabling-the-sales-connect-and-highspot-integration}
 
-If you are interested in enabling the Highspot Integration for your team, please contact [Marketo Support](http://support.marketo.com).
+If you are interested in enabling the Highspot Integration for your team, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support#).
 
 ## How to Use the Integration {#how-to-use-the-integration}
 
-Once enabled, here's how to access your Highspot content in Sales Connect. 
+Once enabled, here's how to access your Highspot content in Sales Connect.
 
-1. When composing an email in Sales Connect or Outlook, choose Add Content.
-1. Select Highspot.
-1. Enter your Highspot account email and click Continue.
-1. Enter your Highspot account password and click Sign In.
-1. Select the content from Highspot you would like to insert into the email or template and click Add Content.
+1. When composing an email in Sales Connect or Outlook, choose **Add Content**.
+
+1. Select **Highspot**.
+
+1. Enter your Highspot account email and click **Continue**.
+
+1. Enter your Highspot account password and click **Sign In**.
+
+1. Select the content from Highspot you would like to insert into the email or template and click **Add Content**.
+
 1. The content is inserted into the email or template.

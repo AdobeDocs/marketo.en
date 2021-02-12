@@ -55,4 +55,3 @@ To prevent CRM users from editing sales templates, admins can enable the ability
    >[!NOTE]
    >
    >By default, this box is checked and CRM users are allowed to edit emails.
-

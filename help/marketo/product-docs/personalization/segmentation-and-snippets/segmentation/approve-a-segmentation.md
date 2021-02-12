@@ -45,7 +45,7 @@ A segmentation needs to be approved before it can used.
 >
 >The total number of segments you can create in a segmentation depends on the number and type of filters used and also on how complex the logic of your segments is. While you can create up to 100 segments using standard fields, using other types of filters can increase the complexity, and your segmentation might fail to approve. Some examples are: custom fields, member of list, lead owner fields, and revenue stages.
 >
->If you get an error message during approval and require assistance in reducing the complexity of your segmentation, please contact [Marketo Support](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe).
+>If you get an error message during approval and require assistance in reducing the complexity of your segmentation, please contact [Marketo Support](https://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe).
 
 >[!MORELIKETHIS]
 >

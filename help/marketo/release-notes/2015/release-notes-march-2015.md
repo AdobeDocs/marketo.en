@@ -10,7 +10,7 @@ The following features are included in the March 2015 release. Please check your
 
 ## Calendar HD {#calendar-hd}
 
-[Display your team’s marketing actives](http://docs.marketo.com/display/docs/calendar+hd) with the calendar’s new presentation mode. These are great for TVs or giant monitors around the office! Set and displays goals based on a smart list or custom metrics.
+[Display your team’s marketing actives](https://docs.marketo.com/display/docs/calendar+hd) with the calendar’s new presentation mode. These are great for TVs or giant monitors around the office! Set and displays goals based on a smart list or custom metrics.
 
 >[!NOTE]
 >
@@ -26,13 +26,13 @@ Link your [Google AdWords account to Marketo](../../product-docs/administration/
 
 ## Revenue Explorer Redesign {#revenue-explorer-redesign}
 
-[Revenue Explorer](http://docs.marketo.com/display/docs/revenue+explorer) has a brand new look and feel, as well as the new Sunburst chart type! We'll be rolling this out over the first two weeks of April.
+[Revenue Explorer](https://docs.marketo.com/display/docs/revenue+explorer) has a brand new look and feel, as well as the new Sunburst chart type! We'll be rolling this out over the first two weeks of April.
 
 ## New Asset REST APIs {#new-asset-rest-apis}
 
-[New Asset REST APIs](http://developers.marketo.com/)
+[New Asset REST APIs](https://developers.marketo.com/)
 
-We now have support for creating and editing emails, templates, my tokens, files, and snippets [via the API](http://developers.marketo.com/documentation/asset-api)!
+We now have support for creating and editing emails, templates, my tokens, files, and snippets [via the API](https://developers.marketo.com/documentation/asset-api)!
 
 ## Microsoft Dynamics 2015 On Premise {#microsoft-dynamics-on-premise}
 

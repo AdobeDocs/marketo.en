@@ -18,7 +18,7 @@ The following features were released on March 15, 2019.
 
 * **Waitlisted:** New program/event status for waitlisting a member when you want to [put them on hold](../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) until a vacancy opens. This applies to channels associated with Event programs in Marketo Classic, and both Event and Event with Webinar programs in Marketo Sky. By default, Waitlisted has the same step value as Registered.
 * ** [Custom Communication Limit](../../product-docs/administration/email-setup/enable-communication-limits.md)**: Admins can now set custom daily or weekly communication limits.
-* ** [Smart Campaign Asset APIs](http://developers.marketo.com/rest-api/assets/campaigns/)**: Enrich your analytics outside of Marketo with smart campaign record retrieval by updated date and ID.
+* ** [Smart Campaign Asset APIs](https://developers.marketo.com/rest-api/assets/campaigns/)**: Enrich your analytics outside of Marketo with smart campaign record retrieval by updated date and ID.
 * **HTTPS Tracking Links for Email:** For customers that have purchased “Secure Domains for Tracking Links,” branded tracking links can now be displayed within your emails as HTTPS.
 * **Email Deliverability Powerpack Updates**: Ability to flag and comment on specific test results, share results with stakeholders through a URL, and track changes to see the evolution of an email as stakeholders edit content. 
 

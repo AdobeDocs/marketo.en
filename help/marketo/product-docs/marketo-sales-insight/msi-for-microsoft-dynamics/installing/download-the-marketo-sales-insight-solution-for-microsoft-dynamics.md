@@ -32,4 +32,4 @@ You will need to download and install a Marketo Solution for Sales Insight into 
 
    ![](assets/msd-online.png)
 
-Great! A zip file of the solution will be downloaded to your device. 
+Great! A zip file of the solution will be downloaded to your device.

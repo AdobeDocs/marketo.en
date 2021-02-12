@@ -65,5 +65,5 @@ Use the Opportunity Influence Analyzer to show marketing's contribution to an im
 >
 >**Deep Dive**
 >
->For other analyzers, see [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+>For other analyzers, see [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 

@@ -19,7 +19,7 @@ The following features were released on June 14, 2019.
 
 >[!CAUTION]
 >
->As of June 18, 2019, Email 1.0 is no longer available. You can learn more about Email 2.0 and the deprecation of Email 1.0 [here](http://nation.marketo.com/docs/DOC-7038).
+>As of June 18, 2019, Email 1.0 is no longer available. You can learn more about Email 2.0 and the deprecation of Email 1.0 [here](https://nation.marketo.com/docs/DOC-7038).
 
 ## Account-Based Marketing {#account-based-marketing}
 

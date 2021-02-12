@@ -6,12 +6,11 @@ title: Using Marketo Insights for Google Chrome
 
 # Using Marketo Insights for Google Chrome {#using-marketo-insights-for-google-chrome}
 
-Send and track any Google email with the Marketo Insights for Google Chrome. 
+Send and track any Google email with the Marketo Insights for Google Chrome.
 
 >[!PREREQUISITES]
 >
->* [Install Marketo Insights for Google Chrome](install-marketo-insights-for-google-chrome.md)
->
+>[Install Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
 ## Send an Email with Marketo Insights {#send-an-email-with-marketo-insights}
 
@@ -31,11 +30,11 @@ Send and track any Google email with the Marketo Insights for Google Chrome.
    >
    >Optionally, click the double arrow to expand to a full screen view.
 
-1. If you want to prefill your email with a published Marketo template, click **More Options **and select** Load Marketo Template.**
+1. If you want to prefill your email with a published Marketo template, click **More Options** and select **Load Marketo Template**.
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Select an **Available template** and click **Ok.**
+1. Select an **Available template** and click **Ok**.
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
@@ -65,11 +64,5 @@ You can log replies and old activity in a lead's activity history.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Install Marketo Insights for Google Chrome](install-marketo-insights-for-google-chrome.md) 
-   >    * [View Person and Account Information and Activities in Google Mail](view-person-and-account-information-and-activities-in-google-mail.md)
-   >    
-   >
-
+   >* [Install Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+   >* [View Person and Account Information and Activities in Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)

@@ -40,5 +40,5 @@ You can change the order of the columns in a report.
    >**Deep Dive**
    >
    >
-   >Learn all the power of working with reports in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Learn all the power of working with reports in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 

@@ -10,7 +10,7 @@ title: Prepare Sales Insight for Multi-Lingual Support in Salesforce
 >
 >**Admin Permissions Required**
 
-Marketo Sales Insight is stored by language. So, if you want it to work for more than one language, you have to enter the credentials separately for each language. 
+Marketo Sales Insight is stored by language. So, if you want it to work for more than one language, you have to enter the credentials separately for each language.
 
 >[!NOTE]
 >
@@ -22,12 +22,13 @@ Marketo Sales Insight is stored by language. So, if you want it to work for more
 >
 >Any other language defaults to English.
 
-1. Adding a New Language for Marketo Sales Insight
+## Adding a New Language for Marketo Sales Insight {#adding-a-new-language-for-marketo-sales-insight}
+
 1. Log in to Salesforce. In the drop-down under your name in the top right-hand corner, click **Setup**.
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Under** My Personal Information**, click **Personal Information**.
+1. Under **My Personal Information**, click **Personal Information**.
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
@@ -43,11 +44,11 @@ Marketo Sales Insight is stored by language. So, if you want it to work for more
 
    ![](assets/image2015-7-6-16-3a6-3a10.png)
 
-1. Click **Configure Marketo Sales Insight **(in the selected language).
+1. Click **Configure Marketo Sales Insight** (in the selected language).
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Go to Marketo. Locate your [Marketo Sales Insight **API configuration** details](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight) .
+1. Go to Marketo. Locate your [Marketo Sales Insight **API configuration** details](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
@@ -63,7 +64,7 @@ When you are finished customizing your Salesforce organization, here's how to re
 >
 >The following screenshots are in French with instructions in English.  You'll see the same screens with text in the language you selected in the previous step.
 
-1. Under your name, click Setup.
+1. Under your name, click **Setup**.
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
@@ -80,4 +81,3 @@ When you are finished customizing your Salesforce organization, here's how to re
    ![](assets/image2015-7-6-16-3a8-3a31.png)
 
    Now your Salesforce is back in English!
-

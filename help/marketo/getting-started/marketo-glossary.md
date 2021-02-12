@@ -449,7 +449,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Known Person</strong></a></td> 
-   <td><p>Any person data in the Marketo <strong>database</strong> is considered known person data. There are a variety of ways for someone to enter your database, including: CRM sync, filling out a form, list import/manual entry, programmatic (rest API/partner integrations), and more. Web visitors are initially <strong>cookied</strong> (and are anonymous) via Marketo's <strong>Munchkin</strong> web-tracking and are then subsequently mapped to the corresponding known person record when identifiable action occurs (e.g., clicked a tracked link in a Marketo email, filled out a form with their email address, or are mapped manually through the Marketo associate lead APIs in both <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> and <a href="http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a></p></td> 
+   <td><p>Any person data in the Marketo <strong>database</strong> is considered known person data. There are a variety of ways for someone to enter your database, including: CRM sync, filling out a form, list import/manual entry, programmatic (rest API/partner integrations), and more. Web visitors are initially <strong>cookied</strong> (and are anonymous) via Marketo's <strong>Munchkin</strong> web-tracking and are then subsequently mapped to the corresponding known person record when identifiable action occurs (e.g., clicked a tracked link in a Marketo email, filled out a form with their email address, or are mapped manually through the Marketo associate lead APIs in both <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> and <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -548,7 +548,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
    <td>Also known as MSD. One of the two CRMs Marketo has a native integration with (see <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="http://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
    <td>Marketo's custom JavaScript tracking code. It tracks all individuals who visit your website. This includes anonymous visitors (along with their IP addresses and other information). </td> 
   </tr> 
   <tr> 
@@ -752,7 +752,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
    <td colspan="1"><p>An authentication mechanism that identifies the email servers allowed to send mail for a specific domain.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="http://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Smart Campaign</strong></a></td> 
+   <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Smart Campaign</strong></a></td> 
    <td colspan="1">One of the most important tools in Marketo. They perform actions you designate based on criteria you determine. (see also <strong><a href="#b">Batch Campaign</a></strong> and <strong><a href="#t">Trigger Campaign</a></strong>)</td> 
   </tr> 
   <tr> 

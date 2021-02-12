@@ -28,7 +28,7 @@ Three new calls for the Lead & Activity ReST API:
 * Get Leads by Program ID
 * Get Deleted Leads
 
-Also, there is a new option for Sync Lead, to write the lead change asynchronously for a faster API call. Full details will be available after the release at [developers.marketo.com](http://developers.marketo.com)
+Also, there is a new option for Sync Lead, to write the lead change asynchronously for a faster API call. Full details will be available after the release at [developers.marketo.com](https://developers.marketo.com)
 
 **Email Scripting Custom Object Support**
 
@@ -52,13 +52,13 @@ Enhancements to the Named Accounts module will improve the match rates and valid
 
 Updated RTP Tag Options
 
-[RTP Tag](http://docs.marketo.com/display/docs/rtp+tag+implementation) options under Account Settings have been updated to include:
+[RTP Tag](https://docs.marketo.com/display/docs/rtp+tag+implementation) options under Account Settings have been updated to include:
 
 1. CDN and Asynchronous (Recommended tag)
 1. CDN and Synchronous (High Speed)
 1. Asynchronous tag without CDN
 1. Synchronous tag without CDN
 
-For best performance, it is recommended to place the tag at the top of the header in your web page after `<head>`. All tags allow for use of the [RTP API](http://developers.marketo.com/documentation/websites/rtp-js-api/). For information on how to deploy the RTP Tag see [here](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+For best performance, it is recommended to place the tag at the top of the header in your web page after `<head>`. All tags allow for use of the [RTP API](https://developers.marketo.com/documentation/websites/rtp-js-api/). For information on how to deploy the RTP Tag see [here](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

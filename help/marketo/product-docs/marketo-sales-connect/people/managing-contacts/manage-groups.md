@@ -10,7 +10,7 @@ Learn how to manage your groups in Sales Connect.
 
 ## Create a Group {#create-a-group}
 
-1. In the People page, click the **plus sign** next to Groups.
+1. In the People page, click the **+** next to Groups.
 
    ![](assets/one-4.png)
 
@@ -32,7 +32,7 @@ Learn how to manage your groups in Sales Connect.
 
    >[!NOTE]
    >
-   >This will add one contact at a time. To add multiple contacts at the same time, follow [these steps](http://docs.marketo.com/x/VADb).
+   >This will add one contact at a time. To add multiple contacts at the same time, follow [these steps](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
 1. Fill out the contact's information and click **Create** (or **Create and Add New** to add another).
 
@@ -107,4 +107,3 @@ Learn how to manage your groups in Sales Connect.
 1. Click **Delete** to confirm.
 
    ![](assets/seventeen.png)
-

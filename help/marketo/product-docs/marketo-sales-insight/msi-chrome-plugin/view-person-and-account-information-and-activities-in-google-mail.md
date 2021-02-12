@@ -24,7 +24,7 @@ If your team has never exchanged a sales email with the person, no activities ap
 
 ![](assets/3.png)
 
-Click the icon to collapse the pane. 
+Click the icon to collapse the pane.
 
 ![](assets/4.png)
 
@@ -42,5 +42,4 @@ Click the Marketo icon to open the pane.
 
 >[!MORELIKETHIS]
 >
->[Using Marketo Insights for Google Chrome](using-marketo-insights-for-google-chrome.md)
-
+>[Using Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)

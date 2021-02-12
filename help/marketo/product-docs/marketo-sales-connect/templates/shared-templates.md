@@ -12,9 +12,8 @@ If you're using one of our team accounts, all of your templates are still privat
 
 ## How to Find Shared Templates  {#how-to-find-shared-templates}
 
-Templates that have been shared with you will show up under the **Team Templates **header on the left hand side of the Templates page.
+Templates that have been shared with you will show up under the **Team Templates** header on the left hand side of the Templates page.
 
 >[!NOTE]
 >
 >Teams are only available for Premium users.
-

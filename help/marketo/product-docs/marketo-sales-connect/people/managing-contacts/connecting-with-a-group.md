@@ -40,7 +40,7 @@ Learn how to send an email to an entire group, or add a group to a campaign.
 
    >[!NOTE]
    >
-   >You may see an option to add to a Marketo Campaign. [That's a different article](http://docs.marketo.com/x/CwDh).
+   >You may see an option to add to a Marketo Campaign. [That's a different article](/help/marketo/product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md).
 
 1. Select a campaign (you can select a category to narrow your results) and click **Next**.
 
@@ -53,4 +53,3 @@ Learn how to send an email to an entire group, or add a group to a campaign.
 1. Schedule the campaign and click **Start**.
 
    ![](assets/nine-1.png)
-

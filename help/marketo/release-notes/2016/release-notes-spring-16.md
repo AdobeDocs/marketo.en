@@ -8,7 +8,7 @@ title: Release Notes -Spring '16
 
 The following features are included in the Spring '16 release. Please click the title links to view detailed articles for each feature.
 
-## [Email Insights](http://docs.marketo.com/display/docs/email+insights) {#email-insights}
+## [Email Insights](https://docs.marketo.com/display/docs/email+insights) {#email-insights}
 
 Email Insights is a brand new historical aggregate data email analytics experience — redesigned end-to-end for lightning fast performance as part of Project Orion. It features a completely new user interface design optimized to fit the needs and workflow of Email Marketers.
 
@@ -46,11 +46,11 @@ Gone are the days where you have to re-approve everything each time a snippet is
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [Custom Activities](http://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
+## [Custom Activities](https://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
 
 Marketo admins can now define and manage their custom activity types via the Marketo Custom Activity Definition modeler. Similar to (and in conjunction with) the Marketo Custom Object Modeler, admins can now extend the data model to suit their exact business needs. Details on how to use this functionality is available on the [Marketo documentation site](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities).
 
-## [Landing Page, Landing Page Template, and Form APIs](http://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
+## [Landing Page, Landing Page Template, and Form APIs](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
 The Marketo REST APIs now support control over Marketo landing pages, landing page templates, and forms. Users can now create, update content, approve, and delete these assets directly via the Marketo REST API.
 
