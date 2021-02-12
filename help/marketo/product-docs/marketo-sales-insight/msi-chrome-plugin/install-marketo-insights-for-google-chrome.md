@@ -30,7 +30,7 @@ Follow these steps to begin using the powerful Chrome add-in.
 
    >[!NOTE]
    >
-   >The Reg code will be in the email sent after a Marketo Admin [issues you a Marketo Email Add-in License](/help/marketoproduct-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](https://docs.marketo.com/pages/viewpage.action?pageid=7510848) **It expires after 14 days**.
+   >The Reg code will be in the email sent after a Marketo Admin [issues you a Marketo Email Add-in License](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](https://docs.marketo.com/pages/viewpage.action?pageid=7510848) **It expires after 14 days**.
 
 1. Click **Allow** to allow offline access.
 

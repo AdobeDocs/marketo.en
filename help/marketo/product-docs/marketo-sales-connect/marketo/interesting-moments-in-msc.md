@@ -44,7 +44,7 @@ That's up to you! You decide what information is relevant to your sales team. Yo
 
 ## What does an interesting moment look like in Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Interesting moments will be displayed in a [lead's activity log](/help/marketoproduct-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+Interesting moments will be displayed in a [lead's activity log](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
