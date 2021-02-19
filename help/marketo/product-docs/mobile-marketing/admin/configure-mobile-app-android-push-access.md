@@ -14,7 +14,7 @@ title: Configure Mobile App Android Push Access
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
-   Select the desired mobile app.
+1. Select the desired mobile app.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
@@ -26,7 +26,7 @@ title: Configure Mobile App Android Push Access
    >
    >You will need a **Server API Key** and **Project Number** from your mobile apps developer. The developer receives these by logging in to the Google Play Developer Console to register your app and enable cloud messaging.
 
-   Enter your Server API Key and Project Number. Click Save.
+1. Enter your Server API Key and Project Number. Click **Save**.
 
    ![](assets/image2015-4-22-18-3a54-3a54.png)
 
@@ -34,6 +34,4 @@ title: Configure Mobile App Android Push Access
 
 >[!MORELIKETHIS]
 >
->* [Configure Mobile App iOS Push Access](configure-mobile-app-ios-push-access.md)
->
-
+>[Configure Mobile App iOS Push Access](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)

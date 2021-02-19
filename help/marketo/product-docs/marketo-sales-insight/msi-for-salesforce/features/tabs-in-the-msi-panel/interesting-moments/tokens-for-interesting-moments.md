@@ -8,13 +8,11 @@ title: Tokens for Interesting Moments
 
 >[!PREREQUISITES]
 >
->* Learn to use the [Interesting Moment flow step](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
->* Learn more about [tokens](https://docs.marketo.com/display/docs/tokens).
->
+>Learn to use the [Interesting Moment flow step](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Available Tokens {#available-tokens}
 
-Check out [Tokens Overview](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) to see all the tokens you can put into an interesting moment.
+Check out [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) to see all the tokens you can put into an interesting moment.
 
 ## Trigger Tokens {#trigger-tokens}
 
@@ -231,7 +229,7 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
 &#42;The Trigger **Visits Web Page** has a few additional tokens:
 
 * `{{trigger.Referrer}}`
-* `{{trigger.Search Engine}}` 
+* `{{trigger.Search Engine}}`
 * `{{trigger.Search Query}}`
 
 >[!TIP]
@@ -239,4 +237,3 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
 >Always test out your interesting moments to ensure they render the way you intend.
 >
 >Also, make sure it's interesting to the Sales person, not just to you. ![(wink)](assets/wink.svg)>
-

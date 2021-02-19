@@ -35,4 +35,3 @@ You can send SMS messages to the people in your Vibes lists and use the SMS acti
    The new SMS service now appears in the Installed Services list.
 
    ![](assets/image2016-7-27-9-3a45-3a1.png)
-

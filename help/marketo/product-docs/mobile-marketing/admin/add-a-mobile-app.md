@@ -19,11 +19,11 @@ Apps normally start out in a sandbox environment, where initial development and 
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Click** Mobile Apps & Devices**.
+1. Click **Mobile Apps & Devices**.
 
    ![](assets/image2016-1-12-15-3a42-3a30.png)
 
-   Click New Mobile App.
+1. Click **New Mobile App**.
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
@@ -39,7 +39,5 @@ Apps normally start out in a sandbox environment, where initial development and 
 
 >[!MORELIKETHIS]
 >
->* [Configure Mobile App Android Push Access](configure-mobile-app-android-push-access.md)
->* [Configure Mobile App iOS Push Access](configure-mobile-app-ios-push-access.md)
->
-
+>* [Configure Mobile App Android Push Access](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+>* [Configure Mobile App iOS Push Access](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)

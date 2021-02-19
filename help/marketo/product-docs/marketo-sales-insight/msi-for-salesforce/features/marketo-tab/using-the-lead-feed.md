@@ -14,7 +14,8 @@ The Lead Feed is an up-to-the-minute list of interesting events done by your lea
 
 ## What's in the Lead Feed? {#whats-in-the-lead-feed}
 
-![](assets/one.png)   
+![](assets/one.png)
+
 Each item in the lead feed is an interesting moment - a noteworthy activity or event in this lead's marketing history.
 
 When viewing it in Salesforce, each item has:
@@ -66,17 +67,19 @@ When viewing it in Salesforce, each item has:
 
 You can also get Lead Feed updates by RSS feed.  An RSS feed lets you receive updates on your leads even if you're not connected to Salesforce. The feed has the same information as the Lead Feed in Salesforce as well as the following (when available):
 
-* `email address`
-* `phone number`
-* `mobile number`
-* `fax number`
-* `company address`
-* `company URL`
+* email address
+* phone number
+* mobile number
+* fax number
+* company address
+* company URL
 
 >[!NOTE]
 >
->Your company's Marketo administrator must [enable RSS feeds](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) for this to work.
+>Your company's Marketo administrator must [enable RSS feeds](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) for this to work.
 
-To get RSS updates, you'll need two things: the RSS link and an RSS feed reader. You can get the RSS link by clicking the RSS icon in the lead feed:   ![](assets/three.png)
+To get RSS updates, you'll need two things: the RSS link and an RSS feed reader. You can get the RSS link by clicking the RSS icon in the lead feed:
+
+![](assets/three.png)
 
 The RSS feed will appear in a new window. You can then copy the URL for your RSS feed and use it in an RSS reader. Most browsers have a built-in RSS reader, or you can use an RSS reader specific to your platform.

@@ -20,20 +20,20 @@ Verify push configuration to ensure everything is synced up nicely.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
-   Select the desired mobile app.
+1. Select the desired mobile app.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-   Click Mobile App Actions and select Verify Push Configuration.
+1. Click **Mobile App Actions** and select **Verify Push Configuration**.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-   Confirm the desired platforms read verified and click CLOSE.
+1. Confirm the desired platforms read verified and click **Close**.
 
-   ![](assets/image2015-4-22-18-3a52-3a38.png)   All set! Now you can start sending push notifications ![(smile)](assets/smile.svg)
+   ![](assets/image2015-4-22-18-3a52-3a38.png)
+
+All set! Now you can start sending push notifications.
 
 >[!MORELIKETHIS]
 >
->* [Create a Push Notification](../../../product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
->
-
+>[Create a Push Notification](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)

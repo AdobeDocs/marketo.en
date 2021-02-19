@@ -6,7 +6,7 @@ title: Upgrade your Marketo Email Add-In for Outlook
 
 # Upgrade your Marketo Email Add-In for Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
 
-When a new version of the Marketo Email Add-in for Outlook is available, follow these instructions to upgrade. 
+When a new version of the Marketo Email Add-in for Outlook is available, follow these instructions to upgrade.
 
 ## Download Installer {#download-installer}
 
@@ -112,7 +112,8 @@ Download the installer appropriate for your version of Microsoft Outlook.
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-   Click Next.
+1. Click **Next**.
+
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
    >[!NOTE]
@@ -131,7 +132,7 @@ Download the installer appropriate for your version of Microsoft Outlook.
    >
    >If the install fails, work with your IT department to ensure that HTTPS traffic is not blocked. The installer requires HTTPS traffic to be open.
 
-   Click Next to install in the default location.
+1. Click **Next** to install in the default location.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
@@ -149,7 +150,5 @@ Download the installer appropriate for your version of Microsoft Outlook.
 
 >[!MORELIKETHIS]
 >
->* [Send and Track an Email with the Marketo Email Add-in for Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Send and Track from Outlook Using a Marketo Template](send-and-track-from-outlook-using-a-marketo-template.md)
->
-
+>* [Send and Track an Email with the Marketo Email Add-in for Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Send and Track from Outlook Using a Marketo Template](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

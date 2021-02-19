@@ -57,4 +57,3 @@ You can view this report grouped by Sales rep by changing your settings.
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
    Pretty cool, huh? Now you can see the performance of emails grouped by sales rep.
-

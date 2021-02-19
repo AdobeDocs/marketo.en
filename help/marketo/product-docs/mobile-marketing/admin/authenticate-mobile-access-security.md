@@ -14,7 +14,7 @@ To enable the IDs, you need to acquire the codes and provide them to your IT dep
 >
 >To enable this feature, contact Support and request "Vespa Secure Mode."
 
-1. In Marketo, select **Admin **and click **Mobile Apps and Devices**.
+1. In Marketo, select **Admin** and click **Mobile Apps and Devices**.
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
@@ -26,11 +26,10 @@ To enable the IDs, you need to acquire the codes and provide them to your IT dep
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. Check the** Enable Security** checkbox. Click **Save**.
+1. Check the **Enable Security** checkbox. Click **Save**.
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 
 1. The Access Security area now displays the two new codes. Be sure to send these to your IT department.
 
    ![](assets/image2015-12-1-14-3a57-3a34.png)
-

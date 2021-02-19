@@ -20,7 +20,7 @@ If Marketo users want to view their lead feed not only in Salesforce, but also i
 
    ![](assets/rss-settings-tab.png)
 
-   In the Edit Settings dialog box, check the **RSS feed** checkbox and click **Save**.
+1. In the Edit Settings dialog box, check the **RSS feed** checkbox and click **Save**.
 
    ![](assets/rss-edit-settings-2-hands.png)
 
@@ -29,4 +29,3 @@ If Marketo users want to view their lead feed not only in Salesforce, but also i
    ![](assets/rss-final-box.png)
 
    Piece of cake!
-

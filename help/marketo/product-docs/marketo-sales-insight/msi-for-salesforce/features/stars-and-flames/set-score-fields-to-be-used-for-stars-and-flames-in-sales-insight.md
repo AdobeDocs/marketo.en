@@ -14,17 +14,17 @@ By default, Marketo Sales Insight uses the **Lead Score** field to calculate sta
 
 >[!TIP]
 >
->If you don't already have your custom score fields, here's how to [create](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)them.
+>If you don't already have your custom score fields, here's how to [create](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) them.
 
 >[!NOTE]
 >
 >**Definition**
 >
->* **Stars: **Stars represent total lead score compared with other leads.
->* **Flames**: Flames represent the urgency - how much a lead's score has changed recently. 
+>* **Stars**: Stars represent total lead score compared with other leads.
+>* **Flames**: Flames represent the urgency - how much a lead's score has changed recently.
 >
 
-1. Under **Admin**, click on **Sales Insight**.
+1. Under **Admin**, click **Sales Insight**.
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
@@ -40,7 +40,8 @@ By default, Marketo Sales Insight uses the **Lead Score** field to calculate sta
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-   Click Save.
+1. Click **Save**.
+
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
    >[!NOTE]
@@ -49,7 +50,4 @@ By default, Marketo Sales Insight uses the **Lead Score** field to calculate sta
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Priority, Urgency, Relative Score, and Best Bets](priority-urgency-relative-score-and-best-bets.md)
-
+   >[Priority, Urgency, Relative Score, and Best Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)

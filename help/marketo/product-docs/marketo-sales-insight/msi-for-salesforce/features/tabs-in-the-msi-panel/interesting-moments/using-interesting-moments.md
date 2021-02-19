@@ -10,9 +10,9 @@ Interesting moments are the key to communicating with your sales team through th
 
 >[!AVAILABILITY]
 >
->These are available to Marketo Sales Insight and [Marketo Sales Connect](https://docs.marketo.com/x/fgTLAQ) customers only.
+>These are available to Marketo Sales Insight and [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) customers only.
 
-## What is an interesting moment?  {#what-is-an-interesting-moment}
+## What is an interesting moment? {#what-is-an-interesting-moment}
 
 That's up to you! You decide what information is relevant to your sales team. Your sales team might want to know when a lead:
 
@@ -44,7 +44,7 @@ That's up to you! You decide what information is relevant to your sales team. Yo
 
 ## How can this get even more interesting?  {#how-can-this-get-even-more-interesting}
 
-Tokens! Add them in the description field to provide your sales team with more specific information like the subject line of the email the lead opened, or who was it sent by. Check out which tokens are available for use in the [Tokens for Interesting Moments](tokens-for-interesting-moments.md) glossary.
+Tokens! Add them in the description field to provide your sales team with more specific information like the subject line of the email the lead opened, or who was it sent by. Check out which tokens are available for use in the [Tokens for Interesting Moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) glossary.
 
 >[!TIP]
 >
@@ -52,13 +52,13 @@ Tokens! Add them in the description field to provide your sales team with more s
 
 ## What does an interesting moment look like in Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Interesting moments will be displayed in a [lead's activity log](../../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+Interesting moments will be displayed in a [lead's activity log](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
 ## What does an interesting moment look like in Salesforce?  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-Once you've [installed the Marketo Sales Insight App](../../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), interesting moments will display on the lead, contact, account, or opportunity pages. They also appear in the Sales Insight dashboard in the Lead Feed, Best Bets, and Watch List.
+Once you've [installed the Marketo Sales Insight App](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), interesting moments will display on the lead, contact, account, or opportunity pages. They also appear in the Sales Insight dashboard in the Lead Feed, Best Bets, and Watch List.
 
 ![](assets/six.png)
 

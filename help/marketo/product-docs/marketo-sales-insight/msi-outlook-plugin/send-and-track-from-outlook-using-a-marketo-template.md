@@ -22,9 +22,6 @@ If your marketing team has made templates available to you, here's how you can u
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >Tokens are not supported with the add-in. Remove any that might be in the template.
 
 1. Check out the preview, make sure it looks good, then click **Send**.
@@ -35,6 +32,4 @@ If your marketing team has made templates available to you, here's how you can u
 
 >[!MORELIKETHIS]
 >
->* [Log Inbound Mail From Your Leads in Marketo](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
->
-
+>[Log Inbound Mail From Your Leads in Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
