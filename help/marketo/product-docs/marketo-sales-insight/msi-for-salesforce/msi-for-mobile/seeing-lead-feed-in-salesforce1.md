@@ -26,8 +26,6 @@ The Lead Feed is an up-to-the-minute list of interesting events done by your lea
 
 >[!MORELIKETHIS]
 >
->* [Interesting Moments in Salesforce1](interesting-moments-in-salesforce1.md)
->* [Send Marketo Email and Campaign and Watchlist Actions in Salesforce1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Best Bets in Salesforce1](best-bets-in-salesforce1.md)
->
-
+>* [Interesting Moments in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Send Marketo Email and Campaign and Watchlist Actions in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Best Bets in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)

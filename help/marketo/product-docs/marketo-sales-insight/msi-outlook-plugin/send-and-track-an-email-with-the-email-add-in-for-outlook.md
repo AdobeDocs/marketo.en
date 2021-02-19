@@ -10,7 +10,7 @@ You can send and track emails with Marketo directly from Outlook.
 
 >[!PREREQUISITES]
 >
->If you haven't yet, install the [Marketo email add-in for Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>If you haven't yet, install the [Marketo email add-in for Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 1. Open Microsoft Outlook and create a new email.
 
@@ -30,7 +30,7 @@ You can send and track emails with Marketo directly from Outlook.
 
    >[!TIP]
    >
-   >If you want to use a Marketo template, see [Send and Track from Outlook Using a Template](send-and-track-from-outlook-using-a-marketo-template.md).
+   >If you want to use a Marketo template, see [Send and Track from Outlook Using a Template](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
 1. Take a look at the preview and click **Send**.
 
@@ -44,10 +44,8 @@ You can send and track emails with Marketo directly from Outlook.
 
    ![](assets/was-sent-sales-email.png)
 
-It's that easy! Even though this email was sent by a salesperson's Outlook, it will be tracked in Marketo. 
+It's that easy! Even though this email was sent by a salesperson's Outlook, it will be tracked in Marketo.
 
 >[!MORELIKETHIS]
 >
->* [Log Inbound Mail From Your Leads in Marketo](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
->
-
+>[Log Inbound Mail From Your Leads in Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

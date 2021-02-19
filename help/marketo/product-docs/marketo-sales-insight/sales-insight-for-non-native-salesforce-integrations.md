@@ -15,7 +15,6 @@ If your Marketo account is connected to Salesforce through a customized or non-n
 >* Marketo REST API [successfully set up](https://developers.marketo.com/rest-api/). The exposed CRUD APIs will be the basis of performing the non-native sync.
 >* Read [this blog post](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) in order to get an understanding of the object and relationships.
 >* Set up Salesforce objects to display the 18 character case-insensitive globally unique identifier rather than the 15 character case-sensitive globally unique identifier.
->
 
 >[!NOTE]
 >
@@ -52,7 +51,7 @@ If your Marketo account is connected to Salesforce through a customized or non-n
 
 1. Sync the Salesforce Accounts to Marketo.
 
-   A Marketo Company will need to be upserted for the Salesforce Account. The *externalCompanyId* and *externalSalesPersonId* fields are mandated for the upsert of the Company.
+   A Marketo Company will need to be upserted for the Salesforce Account. The _externalCompanyId_ and _externalSalesPersonId_ fields are mandated for the upsert of the Company.
 
 <table> 
  <colgroup> 
@@ -84,7 +83,7 @@ If your Marketo account is connected to Salesforce through a customized or non-n
 
 1. Sync the Salesforce Leads/Contacts to Marketo.
 
-   You will need to upsert a Marketo Lead for the Salesforce Lead/Contact. The *externalPersonId*, *externalSalesPersonId*, and *externalCompanyId* fields are mandated for the upsert of the Lead.
+   You will need to upsert a Marketo Lead for the Salesforce Lead/Contact. The _externalPersonId_, _externalSalesPersonId_, and _externalCompanyId_ fields are mandated for the upsert of the Lead.
 
 <table> 
  <colgroup> 
@@ -121,7 +120,7 @@ If your Marketo account is connected to Salesforce through a customized or non-n
 
 1. Sync Salesforce Opportunities to Marketo.
 
-   You will need to upsert a Marketo Opportunity for the Salesforce Opportunity. The *externalOpportunityId*, *externalCompanyId*, and *externalSalesPersonId* fields are mandated for the upsert of the Opportunity.
+   You will need to upsert a Marketo Opportunity for the Salesforce Opportunity. The _externalOpportunityId_, _externalCompanyId_, and _externalSalesPersonId_ fields are mandated for the upsert of the Opportunity.
 
 <table> 
  <colgroup> 
@@ -158,7 +157,7 @@ If your Marketo account is connected to Salesforce through a customized or non-n
 
 1. Sync Salesforce Contact Roles to Marketo.
 
-   Salesforce Contact Roles for a Salesforce Opportunity can be then synced via the Marketo Opportunity Role. The Opportunity Role record mandates the *externalOpportunityId*, *role*, and *leadId* fields.
+   Salesforce Contact Roles for a Salesforce Opportunity can be then synced via the Marketo Opportunity Role. The Opportunity Role record mandates the _externalOpportunityId_, _role_, and _leadId_ fields.
 
 <table> 
  <colgroup> 
@@ -197,7 +196,7 @@ If your Marketo account is connected to Salesforce through a customized or non-n
 
    Once your Salesforce objects are correctly synced to Marketo, you can then take advantage of the MSI features. The MSI Last Interesting Moment/Scoring fields will be exposed in the REST API for Leads. These fields are calculated by MSI and are read-only.  
   
-   The Last Interesting Moment/Scoring fields of a Marketo Lead will need to be regularly synced to Salesforce by using the REST API Lead endpoint. Query this endpoint for a Marketo Lead using the *externalPersonId* as the filterType and passing in the Salesforce Lead GUID as the filterValue.
+   The Last Interesting Moment/Scoring fields of a Marketo Lead will need to be regularly synced to Salesforce by using the REST API Lead endpoint. Query this endpoint for a Marketo Lead using the _externalPersonId_ as the filterType and passing in the Salesforce Lead GUID as the filterValue.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&filterValues=salesforceLeadId1,salesforceLeadId2  |
    |---|
@@ -254,7 +253,6 @@ If your Marketo account is connected to Salesforce through a customized or non-n
  </tbody> 
 </table>
 
-   Documentation for the Lead REST API:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
+   Documentation for the Lead REST API: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
 
    Proper use of the external fields is key to a successful non-native sync. If you fail to see data in some of the views, it is likely that a certain field was not correctly synced. For example, if a lead’s activities and interesting moments don’t show up when looking in the MSI widget under their Account, it is likely that either the lead’s company or the Account was not correctly synced. Performing a GET request for this lead while specifying the external fields will help you verify whether the lead was correctly synced. Moreover, the email for the external sales person in Marketo must match the email for that user in Salesforce. Data may not show in the Marketo tab in Salesforce if the emails do not match.
-

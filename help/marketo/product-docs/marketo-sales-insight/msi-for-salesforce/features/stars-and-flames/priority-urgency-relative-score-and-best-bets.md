@@ -36,7 +36,7 @@ Your Best Bets are your leads and contacts with the highest urgency and relative
 
 >[!NOTE]
 >
->If your best bets don't match the best leads and contacts you own, talk with someone at your company who has access to Marketo about updating your [Scoring Rules](../../../../../getting-started/quick-wins/simple-scoring.md).
+>If your best bets don't match the best leads and contacts you own, talk with someone at your company who has access to Marketo about updating your [Scoring Rules](/help/marketo/getting-started/quick-wins/simple-scoring.md).
 
 ### How Urgency and Relative Score are Calculated
 
@@ -47,7 +47,3 @@ As scores change, urgency, priority, and relative score values are immediately r
 >[!NOTE]
 >
 >The Relative Urgency (flames) and Relative Score (stars) count are integers in Marketo. Possible values for each are 0-3.
-
->[!MORELIKETHIS]
->
->* [Marketo Sales Insight](https://docs.marketo.com/display/docs/marketo+sales+insight)

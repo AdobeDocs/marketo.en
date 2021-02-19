@@ -10,13 +10,13 @@ Many times, sales reps don't have administrative privileges on their laptops, an
 
 >[!PREREQUISITES]
 >
->The admin must have [issued a Marketo Email Add-In License](issue-a-marketo-email-add-in-license.md).
+>The admin must have [issued a Marketo Email Add-In License](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
 >[!NOTE]
 >
->If you don't see the View Enterprise Key button, contact [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371) to enable it.
+>If you don't see the View Enterprise Key button, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) to enable it.
 
-1. In My Marketo, click **Admin **and then** Sales Insight.**
+1. In My Marketo, click **Admin** and then **Sales Insight**.
 
    ![](assets/image2016-7-25-14-3a22-3a12.png)
 
@@ -28,18 +28,8 @@ Many times, sales reps don't have administrative privileges on their laptops, an
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 
-1. Copy the Outlook Enterprise License Key and paste it into an email, along with [this link](marketo-outlook-plugin-installation-by-it.md), and send it to your IT department for remote installation.
+1. Copy the Outlook Enterprise License Key and paste it into an email, along with [this link](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md), and send it to your IT department for remote installation.
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 
-   That's all! Next, the sales rep will go through the [registration process](authorize-the-marketo-outlook-plugin.md). You can send them a link to the instructions (see **Marketo Related Articles**).
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Authorize the Marketo Outlook Plugin](authorize-the-marketo-outlook-plugin.md)
-   >    
-   >
-
+   That's all! Next, the sales rep will go through the [registration process](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md).

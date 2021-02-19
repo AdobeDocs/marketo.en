@@ -8,7 +8,7 @@ title: Specify Marketo Sales Insight Plugin Admins
 
 You can specify which contacts you want to appear in the email notice you send to users when you invite them to set up MSI on Outlook.
 
-1. In My Marketo, click **Admin **and then** Sales Insight.**
+1. In My Marketo, click **Admin** and then **Sales Insight**.
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
@@ -33,4 +33,3 @@ You can specify which contacts you want to appear in the email notice you send t
    ![](assets/image2016-8-25-11-3a33-3a33.png)
 
    Perfect!
-

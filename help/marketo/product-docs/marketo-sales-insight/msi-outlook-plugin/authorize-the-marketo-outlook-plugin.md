@@ -35,4 +35,3 @@ To use the Marketo MSI plugin in Outlook, you need to authorize it.
 1. If the email address is not authorized, you'll receive this less happy email. Contact your Marketo Admin to resolve the problem.
 
    ![](assets/image2016-8-24-16-3a25-3a27.png)
-

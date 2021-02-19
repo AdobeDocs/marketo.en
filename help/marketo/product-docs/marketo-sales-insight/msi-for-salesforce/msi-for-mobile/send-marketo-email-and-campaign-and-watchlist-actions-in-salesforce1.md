@@ -16,7 +16,7 @@ title: Send Marketo Email and Campaign and Watchlist Actions in Salesforce1
 
    >[!NOTE]
    >
-   >Which smart campaigns show up? The ones with "Campaign is Requested" triggers. Learn how to set up a [triggered campaign using "Campaign is Requested](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)".
+   >Which smart campaigns show up? The ones with "Campaign is Requested" triggers. Learn how to set up a [triggered campaign using "Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)".
 
 Cool, now your salespeople can actively participate in the marketing effort.
 
@@ -30,4 +30,3 @@ Cool, now your salespeople can actively participate in the marketing effort.
 >1. Active sales cycle - when the salesperson doesn't want any messages to the lead except their own (use the marketing suspended flag to temporarily unsubscribe them)
 >
 >Be creative. What would the salesperson like to automate? Just ask them and wire it up!
-

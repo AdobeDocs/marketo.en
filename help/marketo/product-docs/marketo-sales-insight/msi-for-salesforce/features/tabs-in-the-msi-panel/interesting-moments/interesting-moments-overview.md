@@ -26,7 +26,5 @@ You can also use tokens in interesting moments to make really useful dynamic des
 
 >[!MORELIKETHIS]
 >
->* [Using Interesting Moments](using-interesting-moments.md)
->* [Tokens for Interesting Moments](tokens-for-interesting-moments.md)
->
-
+>* [Using Interesting Moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
+>* [Tokens for Interesting Moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
