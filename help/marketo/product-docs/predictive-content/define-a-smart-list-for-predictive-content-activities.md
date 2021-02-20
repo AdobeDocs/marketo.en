@@ -6,7 +6,7 @@ title: Define a Smart List for Predictive Content Activities
 
 # Define a Smart List for Predictive Content Activities {#define-a-smart-list-for-predictive-content-activities}
 
-You can use predictive content activities in triggers and filters when you define a smart list in a smart campaign. You can trigger an action for anyone who clicks predictive content via the [Rich Media template](/help/marketo/product-docs/predictive-content/enabling-predictive-content), the [Content Recommendation Bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md), or in an email.
+You can use predictive content activities in triggers and filters when you define a smart list in a smart campaign. You can trigger an action for anyone who clicks predictive content via the [Rich Media template](/help/marketo/product-docs/predictive-content/enabling-predictive-content.md), the [Content Recommendation Bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md), or in an email.
 
 1. In your smart campaign, navigate to the **Smart List** tab.
 
