@@ -6,10 +6,6 @@ title: Understanding Predictive Content
 
 # Understanding Predictive Content {#understanding-predictive-content}
 
->[!NOTE]
->
->Depending on the purchase date, your Marketo subscription may include either Marketo Predictive Content or Content`<sup>AI</sup>`. For those using Predictive Content, Marketo is enabling Content`<sup>AI</sup>` Analytics features until April 30, 2018. To keep these features beyond that date, please contact your Marketo Customer Success Manager to upgrade to Marketo Content`<sup>AI</sup>`.
-
 After you [approve a title for predictive content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), you work on it here. The Predictive Content page displays all of the titles you have approved for predictive content.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
@@ -27,7 +23,7 @@ Page fields include:
 
 **Category**
 
-You can filter content by categories you've created. Click the filter icon and under **Category**, select one or more content categories. 
+You can filter content by categories you've created. Click the filter icon and under **Category**, select one or more content categories.
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 
@@ -51,7 +47,7 @@ Filtering enabled content analytics gives you the ability to see how each source
 
 ## View Table Data for Predictive Content {#view-table-data-for-predictive-content}
 
-In the table, you can view which sources are enabled for predictive content, from left to right: Recommendation Bar, email, and Rich Media. Enabled sources are shown in green. You enable these when you [edit the content](https://docs.marketo.com/display/docs/edit+predictive+content).
+In the table, you can view which sources are enabled for predictive content, from left to right: Recommendation Bar, email, and Rich Media. Enabled sources are shown in green. You enable these when you edit the content.
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
@@ -68,8 +64,3 @@ Hover over the bar in the Conversion Rate column to view conversion rate, direct
 >**Direct Conversion**: Visitors who clicked on recommended content and completed a form in the same visit
 >
 >**Clicked**: Total clicks on recommended content (including all three sources)
-
->[!MORELIKETHIS]
->
->* [Predictive Content](https://docs.marketo.com/display/docs/predictive+content)
->* [Edit Predictive Content](https://docs.marketo.com/display/docs/edit+predictive+content)

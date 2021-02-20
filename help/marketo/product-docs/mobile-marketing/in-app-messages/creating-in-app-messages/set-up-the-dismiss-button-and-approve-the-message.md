@@ -64,12 +64,9 @@ All of your selections for the graphics, text, and buttons have been auto saved.
 
 So many choices, but now you've got a great-looking in-app message, ready to go!
 
-Now it's time to [send your message](https://docs.marketo.com/display/docs/send+your+in-app+message).
+Now it's time to [send your message](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 >[!MORELIKETHIS]
 >
->* [Understanding In-App Messages](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Send Your In-App Message](https://docs.marketo.com/display/docs/send+your+in-app+message)
->* [Choose a Layout for Your In-App Message](choose-a-layout-for-your-in-app-message.md)
->
-
+>* [Understanding In-App Messages](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Choose a Layout for Your In-App Message](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

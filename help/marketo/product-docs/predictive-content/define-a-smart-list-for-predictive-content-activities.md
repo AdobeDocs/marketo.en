@@ -6,11 +6,7 @@ title: Define a Smart List for Predictive Content Activities
 
 # Define a Smart List for Predictive Content Activities {#define-a-smart-list-for-predictive-content-activities}
 
->[!NOTE]
->
->Depending on the purchase date, your Marketo subscription may include either Marketo Predictive Content or Content`<sup>AI</sup>`. For those using Predictive Content, Marketo is enabling Content`<sup>AI</sup>` Analytics features until April 30, 2018. To keep these features beyond that date, please contact your Marketo Customer Success Manager to upgrade to Marketo Content`<sup>AI</sup>`.
-
-You can use predictive content activities in triggers and filters when you define a smart list in a smart campaign. You can trigger an action for anyone who clicks predictive content via the [Rich Media template](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), the [Content Recommendation Bar](enabling-predictive-content/enable-the-content-recommendation-bar.md), or in an email.
+You can use predictive content activities in triggers and filters when you define a smart list in a smart campaign. You can trigger an action for anyone who clicks predictive content via the [Rich Media template](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), the [Content Recommendation Bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md), or in an [email](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md).
 
 1. In your smart campaign, navigate to the **Smart List** tab.
 
@@ -18,10 +14,7 @@ You can use predictive content activities in triggers and filters when you defin
 
    >[!NOTE]
    >
-   >**Deep Dive**
-   >
-   >
-   >Smart lists can do amazing things. Learn more in the [smart list deep dive](../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Smart lists can do amazing things. Learn more in the [smart list deep dive](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Search for the trigger and then drag and drop it onto the canvas.
 
@@ -47,7 +40,7 @@ You can use predictive content activities in triggers and filters when you defin
 
    ![](assets/pc-add-constraint.png)
 
-1. If you're using the email source for your predictive content, add the **Clicks Link in Email **trigger. Select your email and add the **Is Predictive** constraint, defined as **true**.
+1. If you're using the email source for your predictive content, add the **Clicks Link in Email** trigger. Select your email and add the **Is Predictive** constraint, defined as **true**.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 
@@ -63,19 +56,12 @@ You can use predictive content activities in triggers and filters when you defin
    >
    >With multiple triggers, a person goes through to the flow if ANY one of the triggers get activated.
 
-   [define a smart list for a batch smart campaign](../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   To run the campaign on a set of people all at the same time, learn how to [define a smart list for a batch smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Define Smart List for Smart Campaign | Batch](../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >    * [Add a Flow Step to a Smart Campaign](../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >    * [Define a Smart List for Web Personalization Activities](../../product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
-   >    * [Enable Predictive Content for Web Rich Media](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
-   >    * [Enable the Content Recommendation Bar](enabling-predictive-content/enable-the-content-recommendation-bar.md)
-   >    
-   >
-
-To run the campaign on a set of people all at the same time, learn how to . 
+   >* [Define Smart List for Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Add a Flow Step to a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [Define a Smart List for Web Personalization Activities](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
+   >* [Enable Predictive Content for Web Rich Media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+   >* [Enable the Content Recommendation Bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)

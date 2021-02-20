@@ -26,7 +26,7 @@ A segmentation can be deleted by following the steps below.
    >
    >You can remove associations by deleting or creating alternatives for the assets that use the segmentation.
 
-   Once unapproved, click on Segmentation Actions and Delete the segmentation.
+1. Once unapproved, click **Segmentation Actions** and Delete the segmentation.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
 

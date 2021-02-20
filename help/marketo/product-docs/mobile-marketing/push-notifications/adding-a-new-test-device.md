@@ -12,7 +12,8 @@ It's easy to add a new test device to push notifications to.
 >
 >**Admin Permissions Required**
 
-1. Click **Admin **and then the **Mobile Apps** link.   
+1. Click **Admin** and then the **Mobile Apps** link.
+
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
 1. Click the **Test Devices** tab and **New Test Device**.
@@ -44,4 +45,3 @@ It's easy to add a new test device to push notifications to.
 1. The Status updates to show the device is added. Congratulations!
 
    ![](assets/image2015-7-17-17-3a14-3a32.png)
-

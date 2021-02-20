@@ -8,12 +8,11 @@ title: Delete a Snippet
 
 >[!PREREQUISITES]
 >
->* [Unapprove a Snippet](unapprove-a-snippet.md)
->
+>[Unapprove a Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/unapprove-a-snippet.md)
 
 Delete a snippet that you don't need anymore.
 
-1. Go to the **Design Studio.**
+1. Go to the **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
@@ -21,14 +20,11 @@ Delete a snippet that you don't need anymore.
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
-1. Click on **Delete **to confirm or just **Cancel**.
+1. Click on **Delete** to confirm or just **Cancel**.
 
    ![](assets/image2014-9-16-10-3a44-3a8.png)
 
    >[!NOTE]
-   >
-   >**Reminder**
-   >
    >
    >You can only delete a snippet that is unapproved and not used by any assets.
 

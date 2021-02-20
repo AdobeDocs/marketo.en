@@ -10,9 +10,8 @@ It is important to understand how **order** sets the priority for evaluation of 
 
 >[!PREREQUISITES]
 >
->* [Create a Segmentation](create-a-segmentation.md)
->* [Define Segment Rules](define-segment-rules.md)
->
+>[Create a Segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[Define Segment Rules](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 1. Go to the **Database**.
 
@@ -27,6 +26,7 @@ It is important to understand how **order** sets the priority for evaluation of 
    >You can only edit a draft of your segmentation.
 
    You can check or edit the order of your segments from this screen.
+
    ![](assets/image2014-9-16-10-3a12-3a3.png)
 
 >[!NOTE]
@@ -34,7 +34,5 @@ It is important to understand how **order** sets the priority for evaluation of 
 >* The segments are mutually exclusive. A person can be a member of only one Segment at a time.
 >* When a person qualifies for two segments, they will belong only to the first one in the list.
 >* If a person does not qualify for any Segment, they will become a member of the Default Segment.
->
 
-Cool, huh? You can use segments for dynamic content, [reporting](https://docs.marketo.com/display/docs/basic+reporting) and even in [smart lists](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).    
-
+Cool, huh? You can use segments for dynamic content, reporting, and even in smart lists.

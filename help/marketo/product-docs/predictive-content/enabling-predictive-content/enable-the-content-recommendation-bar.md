@@ -10,9 +10,14 @@ The Content Recommendation Engine uses predictive analytics and machine learning
 
 >[!PREREQUISITES]
 >
->Before enabling predictive content, you must:
+>Before enabling Predictive Content, you must:
 >
->* [Prepare your Predictive Content](https://docs.marketo.com/display/docs/edit+predictive+content)
+>* **Prepare your Predictive Content**
+>
+>   * [Edit Predictive Content for Emails](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) or
+>   * [Edit Predictive Content for Rich Media](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) or
+>   * [Edit Predictive Content for the Recommendation Bar](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [Approve a Title for Predictive Content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 ## Enable and Customize the Content Recommendation Bar {#enable-and-customize-the-content-recommendation-bar}
@@ -37,12 +42,12 @@ The Content Recommendation Engine uses predictive analytics and machine learning
    >
    >**Include / Exclude Display URL**
    >
-   >    * Display URL should be the path of the domain
-   >    * Do not include https:// or https://
-   >    * Use &#42; for wildcards
-   >    * Use a semicolon as a separator
-   >    * Example: /contact_us&#42;; &#42;action=logout&#42;
-   >    * This field is case sensitive
+   >* Display URL should be the path of the domain
+   >* Do not include https:// or https://
+   >* Use &#42; for wildcards
+   >* Use a semicolon as a separator
+   >* Example: /contact_us&#42;; &#42;action=logout&#42;
+   >* This field is case sensitive
 
 ## Recommendation Bar Considerations {#recommendation-bar-considerations}
 
@@ -53,4 +58,4 @@ The Content Recommendation Engine uses predictive analytics and machine learning
 
 >[!MORELIKETHIS]
 >
->* [Enable Predictive Content for Web Rich Media](enable-predictive-content-for-web-rich-media.md)
+>[Enable Predictive Content for Web Rich Media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

@@ -6,11 +6,7 @@ title: Unapprove a Title for Predictive Content
 
 # Unapprove a Title for Predictive Content {#unapprove-a-title-for-predictive-content}
 
->[!NOTE]
->
->Depending on the purchase date, your Marketo subscription may include either Marketo Predictive Content or Content`<sup>AI</sup>`. For those using Predictive Content, Marketo is enabling Content`<sup>AI</sup>` Analytics features until April 30, 2018. To keep these features beyond that date, please contact your Marketo Customer Success Manager to upgrade to Marketo Content`<sup>AI</sup>`.
-
-You can unapprove any title for predictive content on your All Content page or on the Edit Content pop-up. 
+You can unapprove any title for predictive content on your All Content page or on the Edit Content pop-up.
 
 ## All Content Page {#all-content-page}
 
@@ -37,4 +33,3 @@ You can unapprove a title while you're editing it.
 No matter which method you use, the approve icon is gone on the All Content page, and the title disappears from the Predictive Content page.
 
 ![](assets/unapprove-content-no-icon.png)
-

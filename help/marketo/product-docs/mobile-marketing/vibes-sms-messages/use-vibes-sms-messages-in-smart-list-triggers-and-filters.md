@@ -6,7 +6,7 @@ title: Use Vibes SMS Messages in Smart List Triggers and Filters
 
 # Use Vibes SMS Messages in Smart List Triggers and Filters {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-After you [create a Vibes SMS message](create-a-vibes-sms-message.md), you'll want to use smart list triggers and filters within a smart campaign to get the benefits. Here's how.
+After you [create a Vibes SMS message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md), you'll want to use smart list triggers and filters within a smart campaign to get the benefits. Here's how.
 
 1. In My Marketo, click **Marketing Activities**.
 
@@ -22,7 +22,7 @@ There are other SMS triggers available. The SMS triggers appear only if Vibes se
 
 ![](assets/new-sms-search2.png)
 
-Here are a few examples. 
+Here are a few examples:
 
 The SMS Message Bounces trigger initiates a flow, such as sending an email, when an SMS message bounces.
 
@@ -32,7 +32,7 @@ The **Subscribes to Vibes List** trigger initiates a flow when a person subscrib
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-The** Clicks Link in SMS Message** trigger initiates a flow when a person clicks on a link in the SMS message.
+The **Clicks Link in SMS Message** trigger initiates a flow when a person clicks on a link in the SMS message.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
@@ -42,7 +42,7 @@ You can also use Vibes filters in smart lists. The **Subscribed to Vibes List** 
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-By contrast, the **Member of Vibes List **filter** **finds** **anyone** ***currently* subscribed to Vibes and is most suited for use in smart campaigns or lists.
+By contrast, the **Member of Vibes List** filter finds _anyone_ currently subscribed to Vibes and is most suited for use in smart campaigns or lists.
 
 ![](assets/image001.png)
 
@@ -50,12 +50,9 @@ By contrast, the **Member of Vibes List **filter** **finds** **anyone** ***curre
 >
 >All SMS filters includes the **Date of Activity** constraint by default.
 
-After you set up Vibes triggers and filters in your smart list, you can [define the flow](add-a-flow-step-for-sms.md). 
+After you set up Vibes triggers and filters in your smart list, you can [define the flow](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
 
 >[!MORELIKETHIS]
 >
->* [Define Smart List for Smart Campaign | Trigger](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [Find and Add Filters to a Smart List](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [Add a Flow Step for SMS](add-a-flow-step-for-sms.md)
->
-
+>* [Define Smart List for Smart Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [Find and Add Filters to a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)

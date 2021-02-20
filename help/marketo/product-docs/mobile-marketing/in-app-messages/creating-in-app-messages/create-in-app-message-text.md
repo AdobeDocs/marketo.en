@@ -24,7 +24,7 @@ Click the text area to work on your text style and content.
    >
    >Too large a text size may push your content past the maximum three visible lines of text.
 
-1. Choose an optional type style, for emphasis: **Bold**, *Italic*, or Underline.
+1. Choose an optional type style, for emphasis: **Bold**, _Italic_, or Underline.
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -70,11 +70,9 @@ Click the text area to work on your text style and content.
 
    Any changes you make to tokens used in an approved in-app message program will not take effect in the in-app message until the program is paused and then resumed.
 
-You're golden. Next, you need to [set up your in-app message button](set-up-the-in-app-message-button.md).
+You're golden. Next, you need to [set up your in-app message button](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >
->* [Understanding In-App Messages](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Choose a Layout for Your In-App Message](choose-a-layout-for-your-in-app-message.md)
->
-
+>* [Understanding In-App Messages](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Choose a Layout for Your In-App Message](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

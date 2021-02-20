@@ -6,10 +6,6 @@ title: Edit Predictive Content for the Recommendation Bar
 
 # Edit Predictive Content for the Recommendation Bar {#edit-predictive-content-for-the-recommendation-bar}
 
->[!NOTE]
->
->Depending on the purchase date, your Marketo subscription may include either Marketo Predictive Content or Content<sup>AI</sup>. For those using Predictive Content, Marketo is enabling Content<sup>AI</sup> Analytics features until April 30, 2018. To keep these features beyond that date, please contact your Marketo Customer Success Manager to upgrade to Marketo Content<sup>AI</sup>.
-
 Here's how to set up your predictive content for the Recommendation Bar.
 
 >[!PREREQUISITES]

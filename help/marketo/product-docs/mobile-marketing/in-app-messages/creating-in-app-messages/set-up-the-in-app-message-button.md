@@ -44,7 +44,7 @@ You can use the default button design, modify it, or upload your own custom butt
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. Choose font style for emphasis: **Bold**, *Italic*, or Underline.
+1. Choose font style for emphasis: **Bold**, _Italic_, or Underline.
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
@@ -56,24 +56,17 @@ You can use the default button design, modify it, or upload your own custom butt
 
    ![](assets/image2016-5-6-16-3a47-3a54.png)
 
-   Click the drop-down for each platform and select a tap action.
+1. Click the drop-down for each platform and select a tap action.
 
    ![](assets/image2016-5-6-16-3a49-3a40.png)
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >The button always has a tap action, so the Tap Action checkbox is automatically selected, with the default message "Dismiss Message."
 
-   [configure your in-app message background and dismiss button](set-up-the-in-app-message-background.md)
-
-Almost there. Your last step is to . 
+Almost there. Your last step is to [configure your in-app message background and dismiss button](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >
->* [Understanding In-App Messages](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Choose a Layout for Your In-App Message](choose-a-layout-for-your-in-app-message.md)
->
-
+>* [Understanding In-App Messages](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Choose a Layout for Your In-App Message](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

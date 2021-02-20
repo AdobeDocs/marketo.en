@@ -60,17 +60,10 @@ Selecting a message background is an important step in finishing up your in-app 
    >
    >For tap actions for backgrounds, you can set up different actions for Apple and Android platforms. For example, deep links are handled differently for Apple and Android. If your message is going only to one platform or the other, leave the other one in the default setting or select **None**.
 
-   [set up the Dismiss button](set-up-the-dismiss-button-and-approve-the-message.md)
+   To finish the job, your last step is to [set up the Dismiss button](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Understanding In-App Messages](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >    * [Send an In-App Message](https://docs.marketo.com/pages/viewpage.action?pageid=10617378)
-   >    * [Choose a Layout for Your In-App Message](choose-a-layout-for-your-in-app-message.md)
-   >    
-   >
-
-To finish the job, your last step is to . 
+   >* [Understanding In-App Messages](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+   >* [Send an In-App Message](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
+   >* [Choose a Layout for Your In-App Message](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

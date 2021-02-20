@@ -8,7 +8,7 @@ title: Add Content to a Snippet
 
 >[!PREREQUISITES]
 >
->[Create a Snippet](create-a-snippet.md)
+>[Create a Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 You can add tokens, images, files or rich text to a snippet.
 
@@ -16,7 +16,7 @@ You can add tokens, images, files or rich text to a snippet.
 >
 >You cannot embed any [Marketo email syntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) in snippets; it will **not** work in an email. Snippets should just be body content (HTML + TEXT).
 
-1. Go to the **Design Studio.**
+1. Go to the **Design Studio**.
 
    ![](assets/designstudio-2.png)
 
@@ -44,7 +44,7 @@ You can add three types of content to a snippet.
 
    >[!NOTE]
    >
-   >You can add your own images or files to Marketo. Learn more about [images and files](https://docs.marketo.com/display/docs/images+and+files).
+   >You can add your own images or files to Marketo. Learn more about [images and files](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
 1. Select the **Image** to be used and click **Insert**.
 
@@ -80,5 +80,5 @@ Cool! Now you can create a variety of content for your Snippet.
 
 >[!MORELIKETHIS]
 >
->* [Preview a Snippet](preview-a-snippet.md)
->* [Approve a Snippet](approve-a-snippet.md)
+>* [Preview a Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
+>* [Approve a Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)

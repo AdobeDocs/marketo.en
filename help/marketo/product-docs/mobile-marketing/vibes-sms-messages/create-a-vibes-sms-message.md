@@ -8,7 +8,7 @@ title: Create a Vibes SMS Message
 
 Here's how to create a Vibes SMS message.
 
-1. Go to Marketing Activities and right-click on a program.
+1. Go to **Marketing Activities** and right-click on a program.
 
    ![](assets/mobile-right-click-hand.jpg)
 
@@ -78,4 +78,4 @@ Here's how to create a Vibes SMS message.
    >
    >Character count reflects only the characters contained in the lowest message.
 
-If you insert more than the US limit, the editor breaks your message into sections. There is an absolute total limit of 900 characters. After reaching that limit, the message will be automatically truncated when it's sent to its audience. 
+If you insert more than the US limit, the editor breaks your message into sections. There is an absolute total limit of 900 characters. After reaching that limit, the message will be automatically truncated when it's sent to its audience.

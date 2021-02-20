@@ -26,15 +26,9 @@ It's easy to see how your push notifications are doing.
 
    >[!NOTE]
    >
-   >The **Sent** metric may reflect more sends than the exact number of people to whom the the push notification was sent. That's because it's calculated based on the *number of devices* that qualify to receive your push. For example, if a single person has three devices, the dashboard registers three sends, not one.
+   >The _Sent_ metric may reflect more sends than the exact number of people to whom the the push notification was sent. That's because it's calculated based on the *number of devices* that qualify to receive your push. For example, if a single person has three devices, the dashboard registers three sends, not one.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Understanding Push Notifications](understanding-push-notifications.md)
-   >    * [Send a Mobile Push Notification](send-a-mobile-push-notification.md)
-   >    
-   >
-
+   >* [Understanding Push Notifications](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
+   >* [Send a Mobile Push Notification](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
