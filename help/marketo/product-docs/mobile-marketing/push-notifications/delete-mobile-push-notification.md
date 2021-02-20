@@ -6,7 +6,7 @@ title: Delete Mobile Push Notification
 
 # Delete Mobile Push Notification {#delete-mobile-push-notification}
 
-1. Go to the Marketing Activities area.
+1. Go to the **Marketing Activities** area.
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 
@@ -18,11 +18,10 @@ title: Delete Mobile Push Notification
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
-   Confirm by clicking DELETE.
+1. Confirm by clicking **Delete**.
 
    ![](assets/image2015-4-22-18-3a43-3a51.png)
 
    >[!NOTE]
    >
    >If the Mobile Push Notification is being used by other assets you won't be allowed to delete it. You have to go and remove it from the assets.
-

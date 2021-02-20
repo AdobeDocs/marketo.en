@@ -8,16 +8,15 @@ title: Approve a Snippet
 
 >[!PREREQUISITES]
 >
->* [Add Content to a Snippet](add-content-to-a-snippet.md)
->
+>[Add Content to a Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 A Snippet needs to be approved before use.
 
-1. Go to the** Design Studio.**
+1. Go to the **Design Studio**.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Click on your **Snippet **and then under** Snippet Actions** click **Approve**.
+1. Click on your **Snippet**. Under **Snippet Actions**, click **Approve**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
@@ -25,6 +24,4 @@ That's it! Your snippet's status changes from Draft to Approved.
 
 >[!MORELIKETHIS]
 >
->* [Approve a Snippet with No-Draft](approve-a-snippet-with-no-draft.md)
->
-
+>[Approve a Snippet with No-Draft](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)

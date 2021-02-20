@@ -51,11 +51,8 @@ The third Full Screen layout is the same as the second, except for its second bu
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Now that you know about the templates, it time to choose one when you [create your in-app message images](add-in-app-message-images.md).
+Now that you know about the templates, it time to choose one when you [create your in-app message images](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
 
 >[!MORELIKETHIS]
 >
->* [Create an In-App Message](https://docs.marketo.com/display/docs/create+an+in-app+message)
->* [Understanding In-App Messages](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->
-
+>[Understanding In-App Messages](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)

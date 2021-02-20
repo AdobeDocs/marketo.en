@@ -20,11 +20,10 @@ Algorithm Goal Settings allows you to set the end goal of the Predictive Content
 
    ![](assets/three-new.png)
 
-   | **`Clicks`** |Display the content most likely to make the person viewing the content click on it |
+   | **Clicks** |Display the content most likely to make the person viewing the content click on it |
    |---|---|
-   | **`Conversions`** |Display the content most likely to make the person viewing the content submit a form |
+   | **Conversions** |Display the content most likely to make the person viewing the content submit a form |
 
 1. Click **Save** when done.
 
    ![](assets/four.png)
-

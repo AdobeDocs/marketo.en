@@ -6,11 +6,9 @@ title: Understanding All Content
 
 # Understanding All Content {#understanding-all-content}
 
->[!NOTE]
->
->Depending on the purchase date, your Marketo subscription may include either Marketo Predictive Content or Content`<sup>AI</sup>`. For those using Predictive Content, Marketo is enabling Content`<sup>AI</sup>` Analytics features until April 30, 2018. To keep these features beyond that date, please contact your Marketo Customer Success Manager to upgrade to Marketo Content`<sup>AI</sup>`.
+The All Content page displays all content that has been discovered or added manually.
 
-The All Content page displays all content that has been discovered or added manually.   ![](assets/image2017-10-3-9-3a4-3a56.png)
+![](assets/image2017-10-3-9-3a4-3a56.png)
 
 The page fields include:
 
@@ -45,9 +43,7 @@ Filter content by selecting one or more categories. Then, set up the date or dat
 
 >[!MORELIKETHIS]
 >
->* [Add New Content](add-new-content.md)
->* [Delete Content](delete-content.md)
->* [Approve a Title for Predictive Content](approve-a-title-for-predictive-content.md)
->* [Unapprove a Title for Predictive Content](unapprove-a-title-for-predictive-content.md)
->
-
+>* [Add New Content](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
+>* [Delete Content](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
+>* [Approve a Title for Predictive Content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
+>* [Unapprove a Title for Predictive Content](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)

@@ -6,10 +6,6 @@ title: Add New Content
 
 # Add New Content {#add-new-content}
 
->[!NOTE]
->
->Depending on the purchase date, your Marketo subscription may include either Marketo Predictive Content or Content`<sup>AI</sup>`. For those using Predictive Content, Marketo is enabling Content`<sup>AI</sup>` Analytics features until April 30, 2018. To keep these features beyond that date, please contact your Marketo Customer Success Manager to upgrade to Marketo Content`<sup>AI</sup>`.
-
 You can easily add content manually to the All Content page.
 
 1. Click the **Add Content** drop-down and select **Add Content**.
@@ -30,7 +26,6 @@ You can easily add content manually to the All Content page.
 
 1. The new title now appears on the **All Content** page. Note that it's not approved for predictive content yet.
 
-   ![](assets/image2017-10-3-8-3a55-3a21.png)  
+   ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. Here's how to add it to [Predictive Content](https://docs.marketo.com/x/Vbet).
-
+1. Here's how to add it to [Predictive Content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md).

@@ -21,4 +21,3 @@ After viewing a report, Marketo stores it in your database so that it loads quic
    ![](assets/three.png)
 
    Voilà!
-

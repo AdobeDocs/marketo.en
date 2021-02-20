@@ -24,4 +24,4 @@ Send your message now or schedule it for later.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-Easy! Last but not least is the [Approval](approve-your-in-app-message.md) step.
+Easy! Last but not least is the [Approval](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md) step.

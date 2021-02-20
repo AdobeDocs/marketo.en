@@ -14,7 +14,7 @@ Use content analytics to gain further insights into your existing content, learn
 
 ## Overview {#overview}
 
-On the Summary page, click Analytics.
+On the Summary page, click **Analytics**.
 
 ![](assets/one.png)
 
@@ -74,8 +74,6 @@ Hover over an image in Suggested Content to reveal available options.
 
 >[!NOTE]
 >
->**Explanation**
->
 >See those icons at the bottom? Left to right they are: View Content, Export to CSV, Approve Content.
 
 ## Content {#content}
@@ -89,4 +87,3 @@ Search for the desired content piece and click it to see additional details, inc
 >[!NOTE]
 >
 >Similar content is based on the selected content piece and is calculated by an association rules algorithm. The results represent content pieces that visitors will most likely click, depending on the selected piece and past visitor behavior. It does not take the filter or date range into account.
-

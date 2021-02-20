@@ -9,7 +9,8 @@ title: Create a Report in a Program
 Run a report to analyze people, your programs, landing pages, emails, and social assets.
 
 1. Go to **Marketing Activities**.
-1. ![](assets/login-marketing-activities.png)
+
+   ![](assets/login-marketing-activities.png)
 
 1. Select a program.
 
@@ -19,7 +20,7 @@ Run a report to analyze people, your programs, landing pages, emails, and social
    >
    >You can also create reports from the **Analytics** tab.
 
-   Right-click the program and select New Local Asset.
+1. Right-click the program and select **New Local Asset**.
 
    ![](assets/programrightclick-asset.png)
 
@@ -33,9 +34,9 @@ Run a report to analyze people, your programs, landing pages, emails, and social
 
    >[!TIP]
    >
-   >See [`Report Type Overview`](https://docs.marketo.com/display/DOCS/Report+Type+Overview) for a short description of each.
+   >See [Report Type Overview](https://docs.marketo.com/display/DOCS/Report+Type+Overview) for a short description of each.
 
-   Name your report.
+1. Name your report.
 
    ![](assets/namereport.png)
 
@@ -43,7 +44,7 @@ Run a report to analyze people, your programs, landing pages, emails, and social
    >
    >To make navigating your reports later much easier, include a reference to the report type in the name.
 
-   Set the time frame of your report. See [Change a Report Time Frame](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) for more details.
+1. Set the time frame of your report. See [Change a Report Time Frame](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) for more details.
 
 1. Click the **Report** tab to see your statistics.
 
@@ -51,21 +52,12 @@ Run a report to analyze people, your programs, landing pages, emails, and social
 
    >[!NOTE]
    >
-   >**Deep Dive**
-   >
-   >
-   >By default, reports cover all the activity in your account, across programs. To learn the many ways you can filter your report, see the [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) deep dive.
+   >By default, reports cover all the activity in your account, across programs.
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >You can quickly end up with a lot of reports. Remember to [delete a report](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) you no longer need.
+   >You can quickly end up with a lot of reports. Remember to [delete a report](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) you no longer need.
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >You can [change a report time frame](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [subscribe to a basic report](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [export a report to Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filter people in a report with a smart list](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md), and [more](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >You can [change a report time frame](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [subscribe to a basic report](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [export a report to Excel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filter people in a report with a smart list](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md), and more.

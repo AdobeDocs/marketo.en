@@ -12,17 +12,21 @@ Predictive content engages your web visitors with the most relevant content, pow
 >
 >Before enabling Predictive Content, you must:
 >
->* [Prepare your Predictive Content](https://docs.marketo.com/display/docs/edit+predictive+content)
->* [Approve a Title for Predictive Content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
+>* **Prepare your Predictive Content**
 >
+>   * [Edit Predictive Content for Emails](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) or
+>   * [Edit Predictive Content for Rich Media](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) or
+>   * [Edit Predictive Content for the Recommendation Bar](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
+>* [Approve a Title for Predictive Content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
-Once you have prepared the content title, description and image for Rich Media, you can enable individual or multiple content pieces.
+Once you've prepared the content title, description and image for Rich Media, you can enable individual or multiple content pieces.
 
 1. To enable an individual title, click a title to open the editor. Click Rich Media, then check the **Enabled for Predictive Content in Rich Media** box and click **Save**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. For multiple pieces of content, on the **Predictive Content** page, check the boxes next to the title(s). 
+1. For multiple pieces of content, on the **Predictive Content** page, check the boxes next to the title(s).
 
      ![](assets/image2017-10-3-10-3a0-3a42.png)
 
@@ -48,8 +52,3 @@ Here's an example of the Rich Media Recommendation Template1:
 Here's an example of the Rich Media Recommendation Template2:
 
 ![](assets/image2015-12-20-10-3a35-3a12.png)
-
->[!MORELIKETHIS]
->
->* [Enable the Content Recommendation Bar](enable-the-content-recommendation-bar.md)
->* [Enable Predictive Content in Emails](https://docs.marketo.com/x/vLit)

@@ -6,11 +6,7 @@ title: Create Content Patterns
 
 # Create Content Patterns {#create-content-patterns}
 
->[!NOTE]
->
->Depending on the purchase date, your Marketo subscription may include either Marketo Predictive Content or Content`<sup>AI</sup>`. For those using Predictive Content, Marketo is enabling Content`<sup>AI</sup>` Analytics features until April 30, 2018. To keep these features beyond that date, please contact your Marketo Customer Success Manager to upgrade to Marketo Content`<sup>AI</sup>`.
-
-When you set content patterns, content is auto-discovered when a web visitor clicks on the HTML web page relevant to the content pattern. It's used to add HTML pages (blog posts, press releases, news articles) as content pieces to the All Content page. When auto-discovering is based on content patterns, it discovers and tracks HTML pages that are related to the defined URL pattern when a web visitor views or clicks a link to the page. This content piece (the URL, page name and meta data-including the image URL and description) is added to the All Content page to prepare predictive content. For auto-discovering other content, such as PDFs and embedded video, you need to [enable content discovery](enable-content-discovery.md).
+When you set content patterns, content is auto-discovered when a web visitor clicks on the HTML web page relevant to the content pattern. It's used to add HTML pages (blog posts, press releases, news articles) as content pieces to the All Content page. When auto-discovering is based on content patterns, it discovers and tracks HTML pages that are related to the defined URL pattern when a web visitor views or clicks a link to the page. This content piece (the URL, page name and meta data-including the image URL and description) is added to the All Content page to prepare predictive content. For auto-discovering other content, such as PDFs and embedded video, you need to [enable content discovery](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
 1. Go to **Content Settings**.
 
@@ -20,7 +16,7 @@ When you set content patterns, content is auto-discovered when a web visitor cli
 
    ![](assets/click-url-patterns-hand.png)
 
-1. Click the **+ **to open up a row where you can enter your information.
+1. Click the **+** to open up a row where you can enter your information.
 
    ![](assets/content-settings-create-patterns-hand.png)
 
@@ -30,9 +26,9 @@ When you set content patterns, content is auto-discovered when a web visitor cli
 
    >[!NOTE]
    >
-   >Items in the drop-down list on the right reflect the categories you set up when you [created categories](set-up-categories.md).
+   >Items in the drop-down list on the right reflect the categories you set up when you [created categories](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
-1. Click **+ **to add another path.
+1. Click **+** to add another path.
 
    ![](assets/url-patterns-add2.png)
 
@@ -42,16 +38,16 @@ When you set content patterns, content is auto-discovered when a web visitor cli
 
 ## Content Pattern Rules {#content-pattern-rules}
 
-* You can use a wildcard anywhere in an expression (Example: *domain.com/&#42;*, *domain.com/&#42;blog&#42;*)
+* You can use a wildcard anywhere in an expression (Example: _domain.com/&#42;_, _domain.com/&#42;blog&#42;_)
 
-* We recommend using /&#42; at the end of an expression to continue pattern discovery (Example: *domain.com/blog/&#42;* discovers all posts in the Blog folder)
-* Content patterns are not case sensitive (Example: *domain.com/Blog/&#42;* discovers all html pages on *domain.com/Blog* and *domain.com/blog*)
+* We recommend using /&#42; at the end of an expression to continue pattern discovery (Example: _domain.com/blog/&#42;_ discovers all posts in the Blog folder)
+* Content patterns are not case sensitive (Example: _domain.com/Blog/&#42;_ discovers all html pages on _domain.com/Blog_ and _domain.com/blog_)
 
 * URL parameters are not discovered (this avoids discovering multiple items with the same content URL but different parameters)
 
 ## Examples {#examples}
 
-For *domain.com*:
+For _domain.com_:
 
 <table> 
  <tbody> 
@@ -81,4 +77,3 @@ For *domain.com*:
   </tr> 
  </tbody> 
 </table>
-

@@ -42,7 +42,7 @@ You need to approve the send before the in-app message goes out.
    >
    >Reasons for pausing could be just to stop it for a while, or if you want to modify the message or adjust the schedule. However, you can't change to a different message, only edit the existing one.
 
-1. When you want the paused program to continue running, click **Resume** **Program**.
+1. When you want the paused program to continue running, click **Resume Program**.
 
    ![](assets/image2016-5-24-13-3a26-3a43.png)
 
@@ -52,9 +52,7 @@ You need to approve the send before the in-app message goes out.
 
 1. If you're sure you want to stop the program, click **Stop**.
 
-   ** ![](assets/image2016-5-24-13-3a31-3a22.png)
-
-   **
+   ![](assets/image2016-5-24-13-3a31-3a22.png)
 
    >[!NOTE]
    >
@@ -65,4 +63,3 @@ You need to approve the send before the in-app message goes out.
    After your program runs, you can monitor its performance with the In-App Dashboard, which appears automatically after you approve the program. To return to the program, click the link in the upper right and select **Control Panel**.
 
    That's all, folks!
-

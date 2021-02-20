@@ -23,4 +23,3 @@ You can make some edits to listings on the All Content Page.
 1. Check the **Approve for Predictive Content** box to approve, or uncheck the box to unapprove. Click **Save** when done.
 
    ![](assets/edit-content-4.png)
-

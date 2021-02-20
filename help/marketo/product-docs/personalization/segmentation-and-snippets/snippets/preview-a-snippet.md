@@ -8,12 +8,11 @@ title: Preview a Snippet
 
 >[!PREREQUISITES]
 >
->* [Add Content to a Snippet](add-content-to-a-snippet.md)
->
+>[Add Content to a Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 Snippets are blocks of dynamic content that change based on segmentation rules.
 
-1. Go to the **Design Studio.**
+1. Go to the **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
@@ -25,6 +24,4 @@ Preview is great to make sure your content looks right for each segment.
 
 >[!MORELIKETHIS]
 >
->* [Approve a Snippet](approve-a-snippet.md)
->
-
+>[Approve a Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)

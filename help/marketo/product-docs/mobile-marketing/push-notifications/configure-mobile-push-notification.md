@@ -6,7 +6,7 @@ title: Configure Mobile Push Notification
 
 # Configure Mobile Push Notification {#configure-mobile-push-notification}
 
-1. Go to the Marketing Activities area.
+1. Go to the **Marketing Activities** area.
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
@@ -22,11 +22,11 @@ title: Configure Mobile Push Notification
 
    ![](assets/image2016-8-23-16-3a53-3a33.png)
 
-   If your Push message applies to only one platform (for example, cases for iPhones), then you can exclude the other platform by sliding its selector to Disabled.
+1. If your Push message applies to only one platform (for example, cases for iPhones), then you can exclude the other platform by sliding its selector to Disabled.
 
      ![](assets/image2016-8-23-16-3a41-3a48.png)
 
-   Click NEXT.
+1. Click **Next**.
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
@@ -40,25 +40,19 @@ title: Configure Mobile Push Notification
 
    >[!NOTE]
    >
-   >**Definition**
-   >
-   >
-   >There are three types of** Tap Actions:**
-   >
+   >There are three types of Tap Actions:
    >
    >**Launch App** - **This App** opens the home page of your app when the notification is tapped. **Custom** uses a deep link to open other areas of your app or any other app to which you have the link (see [Deep Link URIs](#Deeplink) below for details).
    >
-   >
    >**Landing Page** - takes you to a specified Marketo landing page.
-   >
    >
    >**External URL** - takes you to a non-Marketo landing page.
 
-   To insert a deep link for a custom tap action, click Custom and enter the [deep link URI](#Deeplink) in the field.
+1. To insert a deep link for a custom tap action, click Custom and enter the [deep link URI](#Deeplink) in the field.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
-   To insert tokens, select a token, enter a default value, and click Insert.
+1. To insert tokens, select a token, enter a default value, and click Insert.
 
    >[!NOTE]
    >
@@ -70,15 +64,15 @@ title: Configure Mobile Push Notification
    >
    >Messages and Tap Actions will look the same on both platforms.
 
-   For iOS only, check the checkbox to tell the app to play a sound when the message arrives. Android plays the sound automatically.
+1. For iOS only, check the checkbox to tell the app to play a sound when the message arrives. Android plays the sound automatically.
 
    ![](assets/ios-tap-and-notification-hand.png)
 
-   Preview the other platform and click FINISH.
+1. Preview the other platform and click **Finish**.
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
-1. Click **APPROVE AND CLOSE**.
+1. Click **Approve and Close**.
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
@@ -96,6 +90,4 @@ That said, your app’s deep link structure may be different from the above exam
 
 >[!MORELIKETHIS]
 >
->* [Send a Mobile Push Notification](send-a-mobile-push-notification.md)
->
-
+>[Send a Mobile Push Notification](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)

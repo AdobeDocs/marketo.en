@@ -6,7 +6,7 @@ title: Create a Push Notification
 
 # Create a Push Notification {#create-a-push-notification}
 
-It's easy to create a push notification. However, before you begin, you must have your Marketo Admin and Mobile Apps Developer set up some things you'll need while you're doing it. See [Understanding Push Notifications](understanding-push-notifications.md) for details.
+It's easy to create a push notification. However, before you begin, you must have your Marketo Admin and Mobile Apps Developer set up some things you'll need while you're doing it. See [Understanding Push Notifications](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md) for details.
 
 1. Go to the **Marketing Activities** area.
 
@@ -28,5 +28,4 @@ It's easy to create a push notification. However, before you begin, you must hav
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   Sweet! Now that the Push Notification is created, let's go ahead and [dress it up](configure-mobile-push-notification.md).
-
+   Sweet! Now that the Push Notification is created, let's go ahead and [dress it up](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).

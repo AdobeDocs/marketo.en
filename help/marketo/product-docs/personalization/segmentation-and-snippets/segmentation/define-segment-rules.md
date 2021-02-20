@@ -10,13 +10,13 @@ Defining Segment Rules allows you to categorize your people into different mutua
 
 >[!PREREQUISITES]
 >
->[Create a Segmentation](create-a-segmentation.md)
+>[Create a Segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 1. Go to the **Database.**
 
    ![](assets/image2017-3-28-14-3a7-3a42.png)
 
-1. Click on the **Segmentation **from the tree, then click a particular **Segment**.
+1. Click on the **Segmentation** from the tree, then click a particular **Segment**.
 
    ![](assets/image2017-3-28-14-3a11-3a15.png)
 
@@ -26,7 +26,7 @@ Defining Segment Rules allows you to categorize your people into different mutua
 
    >[!CAUTION]
    >
-   >Segments currently do not support *In Past* and *In Timeframe *operators on filters. That's because segmentations only check for updates when a change data value is logged. These values are *not* logged for things that change automatically, such as formula fields and dates. Additionally, date operators with relative date ranges are not supported as they are calculated at the time of segmentation approval, not at the time of a Change Data Value activity.
+   >Segments currently do not support _In Past_ and _In Timeframe_  operators on filters. That's because segmentations only check for updates when a change data value is logged. These values are _not_ logged for things that change automatically, such as formula fields and dates. Additionally, date operators with relative date ranges are not supported as they are calculated at the time of segmentation approval, not at the time of a Change Data Value activity.
 
    >[!NOTE]
    >
@@ -38,12 +38,9 @@ Defining Segment Rules allows you to categorize your people into different mutua
 
    >[!NOTE]
    >
-   >**Deep Dive**
-   >
-   >
-   >Smart Lists are awesome. Learn all you can do with [Smart Lists and Static Lists](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+   >Smart Lists are awesome. [Learn more about them](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md).
 
-1. Click on the **People (Draft)** tab to view the people that may qualify to be a member of this segment.
+1. Click the **People (Draft)** tab to view the people that may qualify to be a member of this segment.
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
@@ -55,7 +52,6 @@ Defining Segment Rules allows you to categorize your people into different mutua
    >
    >The total number of segments you can create in a segmentation depends on the number and type of filters used and also on how complex the logic of your segments is. While you can create up to 100 segments using standard fields, using other types of filters can increase the complexity, and your segmentation might fail to approve. Some examples are: custom fields, member of list, lead owner fields, and revenue stages.
    >
-   >
    >If you get an error message during approval and require assistance in reducing the complexity of your segmentation, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Check out the dashboard for a quick overview of your segments in a pie chart, as well as the rules applied.
@@ -66,16 +62,12 @@ Good work! These segments are going to come in handy in lots of places in Market
 
 >[!NOTE]
 >
->A person might qualify for different segments, but eventually belongs to just one which depends on the [priority order of the segments](segmentation-order-priority.md).
+>A person might qualify for different segments, but eventually belongs to just one which depends on the [priority order of the segments](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md).
 
 >[!NOTE]
->
->**Reminder**
 >
 >The People (Draft) screen shows all people that qualify to be a member and is not always the final list of people. Approve your segment to see the final list.
 
 >[!MORELIKETHIS]
 >
->* [Approve a Segmentation](approve-a-segmentation.md)
->
-
+>[Approve a Segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)

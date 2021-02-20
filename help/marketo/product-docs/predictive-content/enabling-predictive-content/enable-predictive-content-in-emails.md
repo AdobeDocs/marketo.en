@@ -14,9 +14,14 @@ Make one or more images in your email predictive, tailoring the experience for e
 
 >[!PREREQUISITES]
 >
->Before enabling Predictive Content. you must:
+>Before enabling Predictive Content, you must:
 >
->* [Prepare your Predictive Content](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
+>* **Prepare your Predictive Content**
+>
+>   * [Edit Predictive Content for Emails](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) or
+>   * [Edit Predictive Content for Rich Media](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) or
+>   * [Edit Predictive Content for the Recommendation Bar](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [Approve a Title for Predictive Content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 ## Adding Predictive Content Using the Email 2.0 Editor {#adding-predictive-content-using-the-email-editor}
@@ -29,7 +34,7 @@ Make one or more images in your email predictive, tailoring the experience for e
 
    ![](assets/two.png)
 
-1. Click the image you want to make predictive. When the gear icon appears, click it and select **Enable Content`AI`** (Content`AI` is the former name for Predictive Content).
+1. Click the image you want to make predictive. When the gear icon appears, click it and select **Enable ContentAI** (ContentAI is the former name for Predictive Content).
 
    ![](assets/three.png)
 

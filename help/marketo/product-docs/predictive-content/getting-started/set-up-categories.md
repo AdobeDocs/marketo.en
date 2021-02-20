@@ -6,10 +6,6 @@ title: Set Up Categories
 
 # Set Up Categories {#set-up-categories}
 
->[!NOTE]
->
->Depending on the purchase date, your Marketo subscription may include either Marketo Predictive Content or Content`<sup>AI</sup>`. For those using Predictive Content, Marketo is enabling Content`<sup>AI</sup>` Analytics features until April 30, 2018. To keep these features beyond that date, please contact your Marketo Customer Success Manager to upgrade to Marketo Content`<sup>AI</sup>`.
-
 Create categories in Predictive Content to group your predictive outcomes on web or email. For example, you can work only with blogs, or with content in a particular language. It also lets you search and filter your page view.  Categories are displayed on the All Content and Predictive Content pages for easy reference.
 
 ![](assets/image2017-10-3-9-3a3-3a44.png)
@@ -47,4 +43,3 @@ Here's how to create category tags.
    ![](assets/save-new.png)
 
    Pretty simple.
-

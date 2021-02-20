@@ -16,7 +16,7 @@ In the navigation tree, right-click the file for the notification you want to pr
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-Or, on the Push Notification view page, click **Push Notifications Actions** and then **Preview**. Or, click **Preview **on the far right.** **
+Or, on the Push Notification view page, click **Push Notifications Actions** and then **Preview**. Or, click **Preview** on the far right.
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
@@ -60,7 +60,5 @@ So, with push notification preview, you always know what your customers are goin
 
 >[!MORELIKETHIS]
 >
->* [Create a Push Notification](create-a-push-notification.md)
->* [Configure Mobile Push Notification](configure-mobile-push-notification.md)
->
-
+>* [Create a Push Notification](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [Configure Mobile Push Notification](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)

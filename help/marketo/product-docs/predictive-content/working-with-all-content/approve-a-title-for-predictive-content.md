@@ -6,11 +6,7 @@ title: Approve a Title for Predictive Content
 
 # Approve a Title for Predictive Content {#approve-a-title-for-predictive-content}
 
->[!NOTE]
->
->Depending on the purchase date, your Marketo subscription may include either Marketo Predictive Content or Content`<sup>AI</sup>`. For those using Predictive Content, Marketo is enabling Content`<sup>AI</sup>` Analytics features until April 30, 2018. To keep these features beyond that date, please contact your Marketo Customer Success Manager to upgrade to Marketo Content`<sup>AI</sup>`.
-
-You can add any title on your All Content page to predictive content by approving it on the All Content page or the Edit Content pop-up. 
+You can add any title on your All Content page to predictive content by approving it on the All Content page or the Edit Content pop-up.
 
 ## All Content Page {#all-content-page}
 
@@ -41,4 +37,3 @@ Whichever way you use, the Approve for Predictive Content icon now appears in th
 And you now can see the title displayed on the Predictive Content page.
 
 ![](assets/image2017-10-3-9-3a16-3a45.png)
-

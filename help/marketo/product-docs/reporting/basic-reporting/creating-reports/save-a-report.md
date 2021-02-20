@@ -9,13 +9,14 @@ title: Save a Report
 Sometimes, you may need to save a default report to view again later. Here's how you can do that:
 
 1. Go to the **Analytics** area.
-1. ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. Select a [report type](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+   ![](assets/image2015-4-30-11-3a50-3a5.png)
+
+1. Select a [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
-1. Click **Report Actions **and select **Save As**.
+1. Click **Report Actions** and select **Save As**.
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
@@ -33,5 +34,4 @@ Sometimes, you may need to save a default report to view again later. Here's how
 
 >[!MORELIKETHIS]
 >
->Learn how to [clone a report to group reports](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
-
+>Learn how to [clone a report to group reports](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).

@@ -6,10 +6,6 @@ title: The Predictive Content Summary
 
 # The Predictive Content Summary {#the-predictive-content-summary}
 
->[!NOTE]
->
->Depending on the purchase date, your Marketo subscription may include either Marketo Predictive Content or Content`<sup>AI</sup>`. For those using Predictive Content, Marketo is enabling Content`<sup>AI</sup>` Analytics features until April 30, 2018. To keep these features beyond that date, please contact your Marketo Customer Success Manager to upgrade to Marketo Content`<sup>AI</sup>`.
-
 The Predictive Content Summary displays the information you need about about your predictive content at a glance, with tables, graphs, and current numbers.  
 
 ## Top Bar {#top-bar}
@@ -45,10 +41,3 @@ Which categories of content are most engaging? See it in this graph.
 >[!NOTE]
 >
 >If you click a category link (examples in the above image: leadgen, email, etc,.) it opens the All content page with the category you clicked on added to the filter, displaying the content analytics in that category.
-
->[!MORELIKETHIS]
->
->* [Working with All Content](https://docs.marketo.com/display/docs/working+with+all+content)
->* [Working with Predictive Content](https://docs.marketo.com/display/docs/working+with+predictive+content)
->
-

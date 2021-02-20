@@ -18,7 +18,7 @@ Making changes to your existing segmentations is easy. Here's the low down.
 
    ![](assets/two.png)
 
-1. The **Status **changes to Approved with Draft. A **Draft **folder is created in your segmentation.
+1. The **Status** changes to Approved with Draft. A **Draft** folder is created in your segmentation.
 
    ![](assets/three.png)
 
@@ -32,7 +32,7 @@ Making changes to your existing segmentations is easy. Here's the low down.
    >
    >You can only Edit Segments of a Draft and not the Approved Segmentation.
 
-1. **Add Segment**, **Edit **existing (rename or change the order) or **Delete **any Segments.
+1. **Add Segment**, **Edit** existing (rename or change the order) or **Delete** any Segments.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -46,7 +46,7 @@ Making changes to your existing segmentations is easy. Here's the low down.
 
 ## Edit Segment Rules {#edit-segment-rules}
 
-1. In your Draft **Segment**, go to **Smart List**. Apply rules similar to [Defining Segment Rules](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
+1. In your Draft **Segment**, go to **Smart List**. Apply rules similar to [Defining Segment Rules](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
@@ -56,15 +56,10 @@ Making changes to your existing segmentations is easy. Here's the low down.
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >Remember to Approve your Segmentation Draft.
 
 Feel free to experiment on segmentations that are not used in dynamic content.
 
 >[!MORELIKETHIS]
 >
->* [Delete a Segmentation](delete-a-segmentation.md)
->
-
+>[Delete a Segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
