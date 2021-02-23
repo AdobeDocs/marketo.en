@@ -99,4 +99,3 @@ Follow these steps to create a People Performance Report with mobile platform (i
    ![](assets/seventeen.png)
 
    Pretty cool, right? Nicely done!
-

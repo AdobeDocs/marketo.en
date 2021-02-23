@@ -6,7 +6,7 @@ title: Report Email, Campaign Performance Across Workspaces
 
 # Report Email, Campaign Performance Across Workspaces {#report-email-campaign-performance-across-workspaces}
 
-Turn on Global Reporting to include data from all your Marketo [workspaces](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in your [Email Performance](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Email Link performance](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md), and [Campaign Activity](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) reports.
+Turn on Global Reporting to include data from all your Marketo [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in your [Email Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Email Link performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md), and [Campaign Activity](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) reports.
 
 1. Go to **Analytics** (or **Marketing Activities**) area.
 
@@ -30,17 +30,4 @@ Turn on Global Reporting to include data from all your Marketo [workspaces](../.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Filter Assets in an Email Report](filter-assets-in-an-email-report.md)
-   >    
-   >
-
-   >[!NOTE]
-   >
-   >**Deep Dive**
-   >
-   >
-   >Learn all about reports in  [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting)  .
-
+   >[Filter Assets in an Email Report](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

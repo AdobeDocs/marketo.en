@@ -8,7 +8,7 @@ title: Configure Report Size
 
 By default, Marketo reports are limited to a maximum of 5,000 rows, but you can change that limit.
 
-1. Go to the **Marketing Activities **area.
+1. Go to the **Marketing Activities** area.
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
@@ -16,7 +16,7 @@ By default, Marketo reports are limited to a maximum of 5,000 rows, but you can 
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-   Double-click **Export Rows Available**.
+1. Double-click **Export Rows Available**.
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -36,9 +36,4 @@ By default, Marketo reports are limited to a maximum of 5,000 rows, but you can 
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Now you can [export your report](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) with the new limit.
-
-   See more ways to configure your reports in the [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) deep dive.
-
+   >You can [export your report](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) with the new limit.

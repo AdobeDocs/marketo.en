@@ -6,21 +6,21 @@ title: Campaign Activity Report
 
 # Campaign Activity Report {#campaign-activity-report}
 
-See how your [smart campaigns](https://docs.marketo.com/display/docs/smart+campaigns) are performing.
+See how your [smart campaigns](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) are performing.
 
-1. [Create a report](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) and select the **Campaign Activity** [report type](report-type-overview.md).
-1. [Set the time frame of your report](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) and click the **Report** tab.
+1. [Create a report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) and select the **Campaign Activity** [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+
+1. [Set the time frame of your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) and click the **Report** tab.
+
 1. Great! Explore your report to identify your most effective campaigns, grouped by campaign type.
 
-   ` ![](assets/image2014-9-16-16-3a8-3a45.png)
-
-   `
+   ![](assets/image2014-9-16-16-3a8-3a45.png)
 
    >[!TIP]
    >
-   >To find the campaigns that processed the most people, for example,  [sort your report](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)on *Total People Processed* and choose **Sort Descending**. 
+   >To find the campaigns that processed the most people, for example, [sort your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) on _Total People Processed_ and choose **Sort Descending**.
 
-   Click the name of a smart campaign to open it.  [Columns that you can select](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) for a Campaign Activity report include:
+   Click the name of a smart campaign to open it.  [Columns that you can select](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) for a Campaign Activity report include:
 
    | Column |Description |
    |---|---|
@@ -41,12 +41,4 @@ See how your [smart campaigns](https://docs.marketo.com/display/docs/smart+campa
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Filter a Campaign Activity Report](../../../../product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
-   >    
-   >
-
-   See more reports in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Filter a Campaign Activity Report](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)

@@ -29,11 +29,11 @@ Subscriptions are workspace specific. For example, this list of subscriptions is
 
 ## Create a Smart List Subscription {#create-a-smart-list-subscription}
 
-1. Go to the **Database **or** Marketing Activities**.
+1. Go to the **Database** or **Marketing Activities**.
 
    ![](assets/db.png)
 
-1. Select the smart list you wish to create a subscription for. Click **List Actions** and select** New Smart List Subscription**.
+1. Select the smart list you wish to create a subscription for. Click **List Actions** and select **New Smart List Subscription**.
 
    ![](assets/three.png)
 
@@ -43,11 +43,9 @@ Subscriptions are workspace specific. For example, this list of subscriptions is
 
 1. Click the **Frequency** list and select a frequency.
 
-   ** ![](assets/image2015-9-14-13-3a21-3a21.png)
+   ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-   **
-
-1. Set the **End Delivery **date. You can select **Never** or a calendar date.
+1. Set the **End Delivery** date. You can select **Never** or a calendar date.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
@@ -75,7 +73,7 @@ Subscriptions are workspace specific. For example, this list of subscriptions is
 
    >[!NOTE]
    >
-   >If the [Secure Subscription Admin](secure-the-subscription-admin-setting.md) setting is set to **Yes**, only people with access to the Marketo instance will be able to download the report.
+   >If the [Secure Subscription Admin](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) setting is set to **Yes**, only people with access to the Marketo instance will be able to download the report.
 
    ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -87,7 +85,7 @@ Subscriptions are workspace specific. For example, this list of subscriptions is
    >
    >When you modify a smart list filter you've based a subscription on, it updates the report as well.
 
-The email also provides additional information about the filters used to create the list. 
+The email also provides additional information about the filters used to create the list.
 
 ## Delete a Subscription {#delete-a-subscription}
 
@@ -97,7 +95,5 @@ To delete a subscription, select it in the subscriptions tab and click Delete Su
 
 >[!MORELIKETHIS]
 >
->* [Edit a Smart List Subscription](edit-a-smart-list-subscription.md)
->* [Secure the Subscription Admin Setting](secure-the-subscription-admin-setting.md)
->
-
+>* [Edit a Smart List Subscription](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
+>* [Secure the Subscription Admin Setting](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)

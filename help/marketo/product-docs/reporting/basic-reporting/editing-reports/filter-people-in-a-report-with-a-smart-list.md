@@ -10,16 +10,16 @@ Use smart lists to filter your reports by specific person attributes.
 
 You can use smart lists with these report types:
 
-* [People Performance](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
-* [People by Status](../../../../product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [People by Revenue Stage](https://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
-* [Email Performance](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
-* [Email Link Performance](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
-* [Engagement Stream Performance](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
-* [Campaign Activity](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
-* [Campaign Email Performance](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-* [Company Web Activity](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
-* [Web Page Activity](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
+* [People Performance](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
+* [People by Status](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
+* [People by Revenue Stage](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
+* [Email Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+* [Email Link Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+* [Engagement Stream Performance](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
+* [Campaign Activity](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
+* [Campaign Email Performance](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+* [Company Web Activity](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+* [Web Page Activity](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
 1. Go to the **Marketing Activities** area.
 
@@ -42,11 +42,3 @@ You can use smart lists with these report types:
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 
    Great! Now your report shows you data for just the people that match the smart list.
-
-   >[!NOTE]
-   >
-   >**Deep Dive**
-   >
-   >
-   >For more ways to use reports, see the [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) deep dive.
-

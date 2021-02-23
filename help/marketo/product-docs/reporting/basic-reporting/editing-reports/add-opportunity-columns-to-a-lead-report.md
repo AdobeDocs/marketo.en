@@ -6,7 +6,7 @@ title: Add Opportunity Columns to a Lead Report
 
 # Add Opportunity Columns to a Lead Report {#add-opportunity-columns-to-a-lead-report}
 
-To see the statistics on opportunities in your [person reports](https://docs.marketo.com/display/docs/basic+reporting), you can add opportunity columns.
+To see the statistics on opportunities in your person reports, you can add opportunity columns.
 
 1. Go to the **Marketing Activities** area.
 
@@ -32,7 +32,7 @@ To see the statistics on opportunities in your [person reports](https://docs.mar
    >
    >Scroll right to see more columns.
 
-1. To [add or remove columns from the report](select-report-columns.md), click any column heading and select **Columns**.
+1. To [add or remove columns from the report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), click any column heading and select **Columns**.
 
    ![](assets/six.png)
 
@@ -61,14 +61,4 @@ To see the statistics on opportunities in your [person reports](https://docs.mar
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Learn how to [manage the size of your report](configure-report-size.md).
-
-   >[!NOTE]
-   >
-   >**Deep Dive**
-   >
-   >
-   >See what else you can do with reports in the [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) deep dive.
-
+   >Learn how to [manage the size of your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).

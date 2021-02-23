@@ -16,7 +16,7 @@ Configure and delete report subscriptions.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   This page displays the subscriptions to all the reports in your account, grouped by [report type](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md). This includes [subscriptions to basic reports](subscribe-to-a-basic-report.md) and to [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) reports.
+   This page displays the subscriptions to all the reports in your account, grouped by [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). This includes [subscriptions to basic reports](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) and to Revenue Cycle Explorer reports.
 
    >[!TIP]
    >
@@ -32,23 +32,16 @@ Configure and delete report subscriptions.
 
    >[!TIP]
    >
-   >
-   >    
-   >    
-   >    * Use commas between email addresses.
-   >    * To save your edits, click in an area *outside* the subscriptions list.
-   >    
-   >
+   >* Use commas between email addresses.
+   >* To save your edits, click in an area _outside_ the subscriptions list.
 
    You can also:
 
-    * 
-      Click the **View** button to open a report. 
+    * Click the **View** button to open a report.
     * Deselect the **Active** checkbox to deactivate the subscription.
     * Click and edit the **Summary** field to change how many preview rows appear in the email.
     * Deselect the **Excel** checkbox to send report summaries without the spreadsheet attachment.
-    * 
-      Click the **Send** button to send the report email immediately.
+    * Click the **Send** button to send the report email immediately.
 
 1. To delete a subscription altogether, select the row and click **Delete Subscription**.
 
@@ -60,13 +53,5 @@ Configure and delete report subscriptions.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Subscribe to a Basic Report](subscribe-to-a-basic-report.md)
-   >    * [Subscribe to a Revenue Explorer Report](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-   >    
-   >
-
-   Learn more in the  [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) and  [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) deep dives. 
-
+   >* [Subscribe to a Basic Report](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >* [Subscribe to a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

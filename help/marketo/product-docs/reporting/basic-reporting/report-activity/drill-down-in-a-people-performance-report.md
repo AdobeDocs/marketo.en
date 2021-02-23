@@ -20,7 +20,7 @@ Drill down in a People Performance Report to see additional person information.
 
    ![](assets/three.png)
 
-1. In the **Drill-Down** pop-up, select the attribute you would like to drill down to. Then click** Drill-Down**.
+1. In the **Drill-Down** pop-up, select the attribute you would like to drill down to. Then click **Drill-Down**.
 
    ![](assets/four.png)
 
@@ -35,4 +35,3 @@ Drill down in a People Performance Report to see additional person information.
 1. To save your results (optional), click the **Export** icon on the bottom-left.
 
    ![](assets/six.png)
-

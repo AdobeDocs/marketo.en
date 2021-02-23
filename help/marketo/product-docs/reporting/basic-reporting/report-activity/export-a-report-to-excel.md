@@ -24,14 +24,4 @@ You can export any report to an Excel file, to work with the data in other softw
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >If the downloaded file is too big, you can [change the report size](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) .
-
-   >[!NOTE]
-   >
-   >**Deep Dive**
-   >
-   >
-   >See all the other useful things you can do with reports in the [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) deep dive.
-
+   >If the downloaded file is too big, you can [change the report size](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).

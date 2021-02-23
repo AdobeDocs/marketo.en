@@ -6,7 +6,7 @@ title: Add Custom Columns to a Person Report
 
 # Add Custom Columns to a Person Report {#add-custom-columns-to-a-person-report}
 
-You can further filter the metrics in your [person reports](https://docs.marketo.com/display/docs/basic+reporting) by using your [smart lists](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) as custom columns.
+You can further filter the metrics in your person reports by using your [smart lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) as custom columns.
 
 1. Go to the **Marketing Activities** (or **Analytics**) area.
 
@@ -24,27 +24,10 @@ You can further filter the metrics in your [person reports](https://docs.marketo
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-   >[!NOTE]
-   >
-   >**Deep Dive**
-   >
-   >
-   >Learn how to create and configure smart lists in the [Smart Lists and Static Lists](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) deep dive.
-
 1. You've done it! Click the **Report** tab to see your report with the new columns.
 
    ![](assets/five-1.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >You can also [Add Opportunity Columns to a Lead Report](add-opportunity-columns-to-a-lead-report.md).
-
-   >[!NOTE]
-   >
-   >**Deep Dive**
-   >
-   >
-   >Learn more of the many things you can do with reports in the [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) deep dive.
-
+   >You can also [Add Opportunity Columns to a Lead Report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).
