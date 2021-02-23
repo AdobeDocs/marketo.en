@@ -27,4 +27,3 @@ An admin can choose to require login in order to view a report.
    >[!CAUTION]
    >
    >When a login is required to download reports, if you don't have access to Marketo, you will not receive smart list report emails. This applies to existing and future subscriptions.
-

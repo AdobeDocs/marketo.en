@@ -26,17 +26,4 @@ Use columns to sort the data in your report and make the most important figures 
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Select Report Columns](select-report-columns.md)
-   >    
-   >
-
-   >[!NOTE]
-   >
-   >**Deep Dive**
-   >
-   >
-   >Learn all the power of working with reports in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Select Report Columns](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)

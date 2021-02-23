@@ -45,4 +45,3 @@ You can edit these columns directly in the Subscriptions tab, which appears in M
 1. The last piece of the puzzle is the format. Click the **Format** column and select the one you want. CSV is the default.
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)
-

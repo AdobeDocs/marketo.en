@@ -8,9 +8,9 @@ title: Display People or Anonymous Visitors in Web Reports
 
 >[!PREREQUISITES]
 >
->[Add Munchkin Tracking Code to Your Website](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>[Add Munchkin Tracking Code to Your Website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-In the [Web Page Activity](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) and  [Company Web Activity reports](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) you can see either [people or anonymous visitors](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) who visit your site. The anonymous visitors have inferred data, such as Metro Area.  Here's how to select whether the report displays known leads or anonymous visitors.
+In the [Web Page Activity](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) and  [Company Web Activity reports](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) you can see either [people or anonymous visitors](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) who visit your site. The anonymous visitors have inferred data, such as Metro Area.  Here's how to select whether the report displays known leads or anonymous visitors.
 
 1. In your Web Page Activity report, click **Setup**.
 
@@ -20,7 +20,7 @@ In the [Web Page Activity](../../../../product-docs/reporting/basic-reporting/re
 
    ![](assets/image2016-2-2-14-3a5-3a59.png)
 
-1. In the popup, select **Known Leads **(people) or** Anonymous Visitors **from the drop-down.
+1. In the popup, select **Known Leads** (people) or **Anonymous Visitors** from the drop-down.
 
    ![](assets/image2016-2-2-14-3a7-3a8.png)
 
@@ -34,6 +34,4 @@ In the [Web Page Activity](../../../../product-docs/reporting/basic-reporting/re
 
 >[!MORELIKETHIS]
 >
->* [Tracking Anonymous Activity and People](tracking-anonymous-activity-and-people.md)
->
-
+>[Tracking Anonymous Activity and People](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)

@@ -16,7 +16,7 @@ Links in your report subscription emails expire after three days. In order to ch
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Click on the **Edit URL Expiration **button.
+1. Click on the **Edit URL Expiration** button.
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
@@ -28,8 +28,4 @@ Links in your report subscription emails expire after three days. In order to ch
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >Remember, these only apply to links in reports and alerts, not marketing emails.
-

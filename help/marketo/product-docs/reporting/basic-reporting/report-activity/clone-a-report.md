@@ -12,7 +12,7 @@ Create a duplicate of your report to customize it further without changing the o
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. Select your report. Select **Report Actions > Clone a Report**.
+1. Select your report. Select **Report Actions** > **Clone a Report**.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 
@@ -28,12 +28,4 @@ Create a duplicate of your report to customize it further without changing the o
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Filter People in a Report with a Smart List](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
-   >    
-   >
-
-   Do much more to customize your report! See  [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Filter People in a Report with a Smart List](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)

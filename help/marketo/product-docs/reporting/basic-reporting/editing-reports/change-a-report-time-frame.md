@@ -41,14 +41,4 @@ Change the time period covered by your report, to focus on a specific time of ac
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >To narrow your report by specific person attributes, you can [Filter People in a Report with a Smart List](filter-people-in-a-report-with-a-smart-list.md).
-
-   >[!NOTE]
-   >
-   >**Deep Dive**
-   >
-   >
-   >For more ways to use reports, see the [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) deep dive.
-
+   >To narrow your report by specific person attributes, you can [Filter People in a Report with a Smart List](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md).

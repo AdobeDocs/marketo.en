@@ -6,9 +6,9 @@ title: Filter Assets in a Campaign Email Reports
 
 # Filter Assets in a Campaign Email Reports {#filter-assets-in-a-campaign-email-reports}
 
-Focus your [Campaign Email Performance](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) report on specific [smart campaigns](https://docs.marketo.com/display/docs/smart+campaigns) in your programs ('local assets') or on those that have been archived.
+Focus your [Campaign Email Performance](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) report on specific [smart campaigns](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) in your programs ('local assets') or on those that have been archived.
 
-1. Go to **Analytics **(or **Marketing Activities**) area.
+1. Go to **Analytics** (or **Marketing Activities**) area.
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 
@@ -37,18 +37,5 @@ Focus your [Campaign Email Performance](../../../../product-docs/reporting/basic
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Campaign Email Performance Report](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-   >    * [Filter Assets in an Email Report](filter-assets-in-an-email-report.md) 
-   >    
-   >
-
-   >[!NOTE]
-   >
-   >**Deep Dive**
-   >
-   >
-   >Learn all about reports in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Campaign Email Performance Report](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+   >[Filter Assets in an Email Report](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

@@ -8,7 +8,7 @@ title: Select Report Columns
 
 You can choose which columns are and are not included in your report.
 
-1. Go to the **Analytics **(or **Marketing Activities**) area.
+1. Go to the **Analytics** (or **Marketing Activities**) area.
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -22,12 +22,4 @@ You can choose which columns are and are not included in your report.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Sort Report on Columns](sort-report-on-columns.md)
-   >    
-   >
-
-   Do more with reports! See  [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Sort Report on Columns](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
