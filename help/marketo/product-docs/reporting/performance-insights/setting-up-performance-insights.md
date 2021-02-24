@@ -38,16 +38,12 @@ Follow the steps below to set up MPI.
    >
    >Ensure all of the opportunities have the appropriate fields populated:
    >
-   >    
-   >    
-   >    * Opportunity Amount
-   >    * Is Closed
-   >    * Is Won
-   >    * Creation Date (this may not be set in your case)
-   >    * Closed Date (this may not be set in your case)
-   >    * Opportunity Type
-   >    
-   >
+   >* Opportunity Amount
+   >* Is Closed
+   >* Is Won
+   >* Creation Date (this may not be set in your case)
+   >* Closed Date (this may not be set in your case)
+   >* Opportunity Type
 
 ## Program Setup {#program-setup}
 
@@ -115,4 +111,3 @@ Next, review the analytics behavior to indicate whether particular channel shoul
 >[!NOTE]
 >
 >Changes made are not instantaneous. An overnight period is required before changes go into effect.
-

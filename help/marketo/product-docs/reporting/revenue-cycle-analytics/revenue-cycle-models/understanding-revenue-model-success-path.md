@@ -41,4 +41,4 @@ Recognizing that not all leads follow a linear “success path”, you should al
 >
 >These are not on the green path. These stages won't be shown in the Success Path Analyzer.
 
-Seeing how leads will flow in the future will be that much easier! Say hello to your new little friend. 
+Seeing how leads will flow in the future will be that much easier! Say hello to your new little friend.

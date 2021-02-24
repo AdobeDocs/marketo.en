@@ -12,7 +12,7 @@ title: Define Period Costs
 >
 >A period cost is the amount you spend on a program. It can be for one or more months and is used for reporting ROI.
 
-Track and associate lead nurturing and lead acquisition costs for a Program or Event by defining when and where you want to take costs for leads. 
+Track and associate lead nurturing and lead acquisition costs for a Program or Event by defining when and where you want to take costs for leads.
 
 >[!NOTE]
 >
@@ -46,7 +46,7 @@ Track and associate lead nurturing and lead acquisition costs for a Program or E
 
 ## Edit a Period Cost {#edit-a-period-cost}
 
-1. Right-click the Period Cost and select **Edit **from the pop-up menu to open the **Edit Cost** dialog box.
+1. Right-click the Period Cost and select **Edit** from the pop-up menu to open the **Edit Cost** dialog box.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -56,11 +56,10 @@ Track and associate lead nurturing and lead acquisition costs for a Program or E
 
 ## Delete a Period Cost {#delete-a-period-cost}
 
-1. Right-click the Period Cost you wish to delete and select **Delete **from the pop-up menu to display the **Delete Cost **prompt.
+1. Right-click the Period Cost you wish to delete and select **Delete** from the pop-up menu to display the **Delete Cost** prompt.
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
 1. Click **Delete** to permanently delete the Period Cost, or **Cancel** to go back.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)
-

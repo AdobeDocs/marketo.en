@@ -69,4 +69,3 @@ By default, reports in Revenue Explorer display as a table. You also have the op
 1. To switch back to table view, click the table button.
 
    ![](assets/two-1.png)
-

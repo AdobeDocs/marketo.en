@@ -61,4 +61,3 @@ How many new names did each program/channel generate per month?
 | % Success (Total) |Percentage of leads who achieved success in the progression of a program |
 | Success (New Names) |Total number of new names who achieved success in the progression of a program |
 | Success (Total) |Total number of leads who achieved success in the progression of a program |
-

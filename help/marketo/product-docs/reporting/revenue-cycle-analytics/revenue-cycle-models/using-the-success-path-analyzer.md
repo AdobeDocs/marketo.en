@@ -6,11 +6,11 @@ title: Using the Success Path Analyzer
 
 # Using the Success Path Analyzer {#using-the-success-path-analyzer}
 
-Use a Success Path Analyzer to explore the specific details that reflect both flow (amount) and velocity (speed, in terms of days) of people through the stages of your [Revenue Cycle Model](understanding-revenue-models.md).
+Use a Success Path Analyzer to explore the specific details that reflect both flow (amount) and velocity (speed, in terms of days) of people through the stages of your [Revenue Cycle Model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 >[!PREREQUISITES]
 >
->[Create a Success Path Analyzer](create-a-success-path-analyzer.md)
+>[Create a Success Path Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
 1. Go to **Analytics** and select your **Success Path Analyzer**.
 
@@ -48,7 +48,7 @@ Use a Success Path Analyzer to explore the specific details that reflect both fl
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. For stages with SLAs (Service-Level Agreements), click **Chart Actions** >** Show SLA Due** to show every person that ever missed an SLA target within the specified time frame.
+1. For stages with SLAs (Service-Level Agreements), click **Chart Actions** > **Show SLA Due** to show every person that ever missed an SLA target within the specified time frame.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -56,9 +56,9 @@ Use a Success Path Analyzer to explore the specific details that reflect both fl
 
    ![](assets/image2015-6-12-17-3a50-3a16.png)
 
-   The people shown in orange might *or might not* still be in the SLA stage. 
+   The people shown in orange might *or might not* still be in the SLA stage.
 
-1. Click **Chart Actions** >** Show SLA Past Due** to show all people with expired SLA targets who are still in the SLA stage at the end of the specified time period.
+1. Click **Chart Actions** > **Show SLA Past Due** to show all people with expired SLA targets who are still in the SLA stage at the end of the specified time period.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -70,7 +70,7 @@ Use a Success Path Analyzer to explore the specific details that reflect both fl
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. To print the chart, click** ****Chart Actions** > **Print Chart**.
+1. To print the chart, click **Chart Actions** > **Print Chart**.
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 

@@ -10,7 +10,6 @@ Marketo Performance Insights helps you optimize your channel mix for maximum eff
 
 >[!AVAILABILITY]
 >
->
 >Not all customers have the Performance Insights feature. Please contact your Customer Success Manager for more information.
 
 Performance Insights loads data from (up to) the previous 24 months. This includes current year-to-date data, as well as the previous year's. So for example, on January 31, 2019 , MPI will load data from that month, and every month from 2018. On December 31, 2019, MPI will load data from every month of 2019 and 2018.
@@ -21,7 +20,7 @@ To access Performance Insights, click its icon on the Analytics home screen.
 
 ## Contribution {#contribution}
 
-Evaluate Marketing's [contribution to revenue](https://docs.marketo.com/x/QAvG)as a function of customer acquisition, influence, conversion, even installed base growth. 
+Evaluate Marketing's [contribution to revenue](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md) as a function of customer acquisition, influence, conversion, even installed base growth.
 
 ![](assets/two.png)
 
@@ -31,23 +30,22 @@ By default, the data displayed reflects performance by Engagement. You can switc
 
 ## Trend {#trend}
 
-Uncover [long-term trends](https://docs.marketo.com/x/QgvG) to spot consistent winning strategies.
+Uncover [long-term trends](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) to spot consistent winning strategies.
 
 ![](assets/4.png)
 
 ## Settings {#settings}
 
-In the Revenue and Pipeline dashboards, click the [Settings](https://docs.marketo.com/x/pIDS) icon to set additional parameters.
+In the Revenue and Pipeline dashboards, click the [Settings](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) icon to set additional parameters.
 
 ![](assets/5.png)
 
 ## Export Data {#export-data}
 
-You can export the data and charts in either PowerPoint or Excel. You can also save them as a [Quick Chart](https://docs.marketo.com/x/iRLG).
+You can export the data and charts in either PowerPoint or Excel. You can also save them as a [Quick Chart](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
 
 ![](assets/6.png)
 
 >[!NOTE]
 >
 >Export data to Excel to see data available for all channels (not just the top ten). PPT export will be WYSIWYG (output will mimic what you see on the screen).
-

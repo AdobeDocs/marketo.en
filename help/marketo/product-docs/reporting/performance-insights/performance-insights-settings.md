@@ -18,17 +18,35 @@ Learn about the different Settings options in MPI.
 
 **Engagement Dashboard - Contribution and Trend**
 
-| **Cost Period** |When you check this, Performance Insights will aggregate all new names and successes back to the month set up as the cost period. |
-|---|---|
-| **Activity Period** |When you check this, Performance Insights will aggregate all new names, successes, and membership by activity date, regardless of the program cost period. |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Cost Period</strong></td> 
+   <td>When you check this, Performance Insights will aggregate all new names and successes back to the month set up as the cost period.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Activity Period</strong></td> 
+   <td>When you check this, Performance Insights will aggregate all new names, successes, and membership by activity date, regardless of the program cost period.</td> 
+  </tr> 
+ </tbody> 
+</table>
 
 ## Previous Period Configuration {#previous-period-configuration}
 
 **Engagement, Pipeline, Revenue Dashboards - Contribution only**
 
-| **Calendar Period** |Set the previous period to: previous calendar month, quarter, or year. |
-|---|---|
-| **YOY Period** |Set the previous period to the same month or quarter in the previous year. |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Calendar Period</strong></td> 
+   <td>Set the previous period to: previous calendar month, quarter, or year.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>YOY Period</strong></td> 
+   <td>Set the previous period to the same month or quarter in the previous year.</td> 
+  </tr> 
+ </tbody> 
+</table>
 
 ## Marketing-Influenced Opportunities {#marketing-influenced-opportunities}
 
@@ -47,7 +65,7 @@ Learn about the different Settings options in MPI.
  </tbody> 
 </table>
 
-Revenue Dashboard - Contribution and Trend
+**Revenue Dashboard - Contribution and Trend**
 
 <table> 
  <tbody> 
@@ -66,7 +84,15 @@ Revenue Dashboard - Contribution and Trend
 
 **Pipeline and Revenue Dashboards - Contribution and Trend**
 
-| **Based on Investment Period** |Investment Cost is calculated simply as the sum of monthly program costs defined by the investment period filter. |
-|---|---|
-| **Based on Program Attribution** |Attributed Cost is based on a portion of program cost determined by leads or contacts that were acquired, or achieved success, in the program and ultimately resulted in a won opportunity. |
-
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Based on Investment Period</strong></td> 
+   <td>Investment Cost is calculated simply as the sum of monthly program costs defined by the investment period filter.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Based on Program Attribution</strong></td> 
+   <td>Attributed Cost is based on a portion of program cost determined by leads or contacts that were acquired, or achieved success, in the program and ultimately resulted in a won opportunity.</td> 
+  </tr> 
+ </tbody> 
+</table>

@@ -18,11 +18,11 @@ A gate stage serves as a qualification check.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. Select an existing model, or [create a new one](create-a-new-revenue-model.md).
+1. Select an existing model, or [create a new one](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Click **Edit** **Draft**.
+1. Click **Edit Draft**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -30,11 +30,11 @@ A gate stage serves as a qualification check.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
-1. Edit the **Name **and select a **Type**.
+1. Edit the **Name** and select a **Type**.
 
    >[!NOTE]
    >
-   >Select [Start Tracking by Account](start-tracking-by-account-in-the-revenue-modeler.md) at this time to gain insight into the performance of your accounts as they progress through your model.
+   >Select [Start Tracking by Account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) at this time to gain insight into the performance of your accounts as they progress through your model.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
@@ -44,7 +44,7 @@ A gate stage serves as a qualification check.
 
 ## Edit a Gate Stage {#edit-a-gate-stage}
 
-Edit the Name, Description, and adjust the Type of your Gate stage. You can also opt to [Start Tracking by Account](start-tracking-by-account-in-the-revenue-modeler.md).
+Edit the Name, Description, and adjust the Type of your Gate stage. You can also opt to [Start Tracking by Account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Click a **Gate** stage icon.
 
@@ -76,8 +76,6 @@ Congrats! Now you understand the wonderful world of Gate Stages.
 
 >[!MORELIKETHIS]
 >
->* [Using Revenue Model Inventory Stages](using-revenue-model-inventory-stages.md)
->* [Using Revenue Model SLA Stages](using-revenue-model-sla-stages.md)
->* [Create a New Revenue Model](create-a-new-revenue-model.md).
->
-
+>* [Using Revenue Model Inventory Stages](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Using Revenue Model SLA Stages](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Create a New Revenue Model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).

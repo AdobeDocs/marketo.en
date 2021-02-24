@@ -10,7 +10,7 @@ In Analytics, explore aggregate data for email delivery and engagement. Use the 
 
 ![](assets/emailanalytics-1.jpg)
 
-[Filtering](filtering-in-email-insights.md) is available to help you drill down for specific metrics.
+[Filtering](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) is available to help you drill down for specific metrics.
 
 ![](assets/filter-field.png)
 
@@ -20,14 +20,11 @@ Key Points of Interest (KPI) tiles give you a quick look at the more popular met
 
 Hover over the KPI tiles for details...
 
-` ![](assets/kpi-hover.png)  
-`
+![](assets/kpi-hover.png)
 
 ...or see details without having to hover by expanding your browser window (on larger screens).
 
-` ![](assets/kpi-wide.png)
-
-`
+![](assets/kpi-wide.png)
 
 >[!TIP]
 >
@@ -35,18 +32,15 @@ Hover over the KPI tiles for details...
 
 The chart displays your filtered criteria. To hide one of your filters, simply click its color bar...
 
-` ![](assets/chart1.png)  
-`
+![](assets/chart1.png)
 
 ...and the metric disappears from the chart. Click the color bar again to make it reappear.
 
-` ![](assets/chart2.png)  
-`
+![](assets/chart2.png)
 
-If you create a chart you'd like to use again, make it a [quick chart](email-insights-quick-charts.md).
+If you create a chart you'd like to use again, make it a [quick chart](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
 
-` ![](assets/quick-chart.png)  
-`
+![](assets/quick-chart.png)
 
 On the right side of the page, guided metrics help you discover relevant drivers. Click any metric to see it in the chart on the left side of the page.
 
@@ -56,12 +50,10 @@ On the right side of the page, guided metrics help you discover relevant drivers
 >
 >See that Refresh on the upper right? When you see it, you'll need to manually click it to refresh the Insights module. We only show it when you have made a change to filters that would invalidate the current values.
 
-`  
 You can also specify what you see (left to right): All, Audience, Content, and Platform.  
-`  ` ![](assets/guided-bar.png)  
-`
+
+![](assets/guided-bar.png)
 
 >[!MORELIKETHIS]
 >
->[Email Insights Sends Overview](email-insights-sends-overview.md)
-
+>[Email Insights Sends Overview](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

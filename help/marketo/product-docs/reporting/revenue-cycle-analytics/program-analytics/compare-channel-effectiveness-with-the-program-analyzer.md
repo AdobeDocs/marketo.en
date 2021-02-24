@@ -10,17 +10,17 @@ Use the Program Analyzer to compare channel costs, member acquisition, pipeline,
 
 >[!PREREQUISITES]
 >
->* [Create a Program Analyzer](create-a-program-analyzer.md)
+>[Create a Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-1. Click on **Analytics** in **My Marketo.**
+1. Click on **Analytics** in **My Marketo**.
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. Select your **Program Analyzer.**
+1. Select your **Program Analyzer**.
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. Change the View to **By** **Channel**.
+1. Change the View to **By Channel**.
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
@@ -54,7 +54,7 @@ Use the Program Analyzer to compare channel costs, member acquisition, pipeline,
 
    We see that the Webinar channel shrinks, as measured by **New Names**. We can conclude that, while it has many members, it is less effective at generating new leads than the Tradeshow channel.
 
-1. Finally, use the Color drop-down to add the fourth dimension. Let's select **(FT) Revenue** **Won**.
+1. Finally, use the Color drop-down to add the fourth dimension. Let's select **(FT) Revenue Won**.
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
@@ -76,10 +76,5 @@ In our example, we see that the Tradeshow channel is both the most expensive (fu
 
 >[!MORELIKETHIS]
 >
->* [Explore Program & Channel Details with the Program Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Compare Program Effectiveness with the Program Analyzer](compare-program-effectiveness-with-the-program-analyzer.md)
->
-
->[!NOTE]
->
->Learn more about advanced analytics in [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>* [Explore Program & Channel Details with the Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Compare Program Effectiveness with the Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)

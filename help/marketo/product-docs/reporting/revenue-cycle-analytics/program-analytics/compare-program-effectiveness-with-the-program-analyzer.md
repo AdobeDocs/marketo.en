@@ -10,9 +10,9 @@ Use the Program Analyzer to identify your most and least effective programs, by 
 
 >[!PREREQUISITES]
 >
->* [Create a Program Analyzer](create-a-program-analyzer.md)
+>[Create a Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-1. Click on Analytics.
+1. Click **Analytics**.
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 
@@ -30,7 +30,7 @@ Use the Program Analyzer to identify your most and least effective programs, by 
 
    >[!TIP]
    >
-   >A quick way to filter programs to just one channel is to select **View > By Channel**, click the bubble for that channel, and then click the channel name in the pop-up dialog.
+   >A quick way to filter programs to just one channel is to select **View** > **By Channel**, click the bubble for that channel, and then click the channel name in the pop-up dialog.
 
 1. Use the X Axis drop-down to choose a metric for the horizontal axis. We'll start with Program Cost.
 
@@ -84,9 +84,5 @@ We see that the Paper Fest 12 program not only influences more revenue (bigger b
 
 >[!MORELIKETHIS]
 >
->* [Explore Program & Channel Details with the Program Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Compare Channel Effectiveness with the Program Analyzer](compare-channel-effectiveness-with-the-program-analyzer.md)
-
->[!NOTE]
->
->Learn more about advanced analytics in [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>* [Explore Program & Channel Details with the Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Compare Channel Effectiveness with the Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)

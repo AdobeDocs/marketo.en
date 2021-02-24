@@ -12,9 +12,8 @@ A heat grid visually represents your data in a colored grid so that you can iden
 
    ![](assets/image2015-5-4-15-3a2-3a17.png)
 
-1. To make changes to your **Heat Grid**, go to the **Properties **area.
+1. To make changes to your **Heat Grid**, go to the **Properties** area.
 
    ![](assets/image2015-5-4-16-3a7-3a9.png)
 
    Awesome! You now have your **Heat Grid**!
-

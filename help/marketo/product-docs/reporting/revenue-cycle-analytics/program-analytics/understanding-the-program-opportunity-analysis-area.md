@@ -10,7 +10,7 @@ title: Understanding the Program Opportunity Analysis Area
 
 The Program Opportunity Analysis area allows you to analyze the effectiveness of individual Programs or to see summarized results by Program Channel.
 
-**Example business questions you can answer using this analysis area include:**
+**Example business questions you can answer using this analysis area include**:
 
 How many Opportunities were associated to a given Program and how many of those have we won?
 
@@ -60,11 +60,11 @@ As with acquisition, the value of contributing toward the sales made to a lead c
   </tr> 
   <tr> 
    <td>Cost of Opportunity</td> 
-   <td><p>The portion of the cost of the program that influenced the opportunity. The cost may be split if there were multiple leads involved.</p></td> 
+   <td>The portion of the cost of the program that influenced the opportunity. The cost may be split if there were multiple leads involved.</td> 
   </tr> 
   <tr> 
    <td>Opportunities Created</td> 
-   <td><p>The portion of credit the program received for influencing the creation of the opportunity. It may be a fraction if there were multiple leads involved.</p></td> 
+   <td>The portion of credit the program received for influencing the creation of the opportunity. It may be a fraction if there were multiple leads involved.</td> 
   </tr> 
   <tr> 
    <td>Opportunities Won</td> 
@@ -72,28 +72,28 @@ As with acquisition, the value of contributing toward the sales made to a lead c
   </tr> 
   <tr> 
    <td>Pipeline Created</td> 
-   <td><p>The portion of credit (in monetary value) the program received for influencing the creation of the opportunity. It may be a fraction if there were multiple leads involved.</p></td> 
+   <td>The portion of credit (in monetary value) the program received for influencing the creation of the opportunity. It may be a fraction if there were multiple leads involved.</td> 
   </tr> 
   <tr> 
    <td>Pipeline Created - Still Open</td> 
    <td>The portion of credit (in monetary value) the program received for influencing creation of the currently open opportunity. It may be a fraction if there were multiple leads involved.</td> 
   </tr> 
   <tr> 
-   <td><p>Revenue Expected</p></td> 
+   <td>Revenue Expected</td> 
    <td>The portion of credit (in monetary value) the program received for influencing the creation of the opportunity. Expected Revenue is the opportunity probability multiplied by the opportunity value. It may be a fraction if there were multiple leads involved.</td> 
   </tr> 
   <tr> 
-   <td><p>Revenue To Investment</p></td> 
-   <td><p>This is the ratio of the portion of credit (in monetary value) the program received for influencing won opportunities and the cost of the program.</p></td> 
+   <td>Revenue To Investment</td> 
+   <td>This is the ratio of the portion of credit (in monetary value) the program received for influencing won opportunities and the cost of the program.</td> 
   </tr> 
   <tr> 
    <td>Revenue Won</td> 
-   <td><p>The portion of credit (in monetary value) the program received for influencing won opportunity. It may be a fraction if there were multiple leads involved.</p></td> 
+   <td>The portion of credit (in monetary value) the program received for influencing won opportunity. It may be a fraction if there were multiple leads involved.</td> 
   </tr> 
  </tbody> 
 </table>
 
-*&#42; (FT) = First-Touch Attribution, used for measures of lead acquisition; (MT) = Multi-Touch Attribution, used for measures of lead success*
+_&#42; (FT) = First-Touch Attribution, used for measures of lead acquisition; (MT) = Multi-Touch Attribution, used for measures of lead success_
 
 Below is a scenario that describes how Opportunity Units are calculated when there are two Programs that generated leads, but those leads led to one Opportunity from the same account.
 
@@ -158,19 +158,19 @@ Whereas measures (blue dots) are calculated, and require some thought and explan
  <tbody> 
   <tr> 
    <th>Category</th> 
-   <th><p>Display Label</p></th> 
+   <th>Display Label</th> 
   </tr> 
   <tr> 
    <td>Opportunity Attributes</td> 
-   <td><p>Opportunity Closed<br>Opportunity Name*<br>Opportunity Owner Name<br>Opportunity Stage<br>Opportunity Type</p></td> 
+   <td>Opportunity Closed<br>Opportunity Name*<br>Opportunity Owner Name<br>Opportunity Stage<br>Opportunity Type</td> 
   </tr> 
   <tr> 
    <td>Opportunity Timeframe</td> 
-   <td><p>Opportunity Closed Year/Quarter/Month<br>Opportunity Created Year/Quarter/Month</p></td> 
+   <td>Opportunity Closed Year/Quarter/Month<br>Opportunity Created Year/Quarter/Month</td> 
   </tr> 
   <tr> 
    <td>Program Attributes</td> 
-   <td><p>Program Channel<br>Program Name</p></td> 
+   <td>Program Channel<br>Program Name</td> 
   </tr> 
   <tr> 
    <td>Program Cost Timeframe</td> 
@@ -183,4 +183,4 @@ Whereas measures (blue dots) are calculated, and require some thought and explan
 
 >[!MORELIKETHIS]
 >
->[Create a Revenue Explorer Report](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Create a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

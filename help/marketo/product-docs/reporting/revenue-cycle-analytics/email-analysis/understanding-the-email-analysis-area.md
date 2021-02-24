@@ -10,8 +10,7 @@ The Email Analysis Area focuses on email metrics. This article introduces all of
 
 >[!AVAILABILITY]
 >
->
->This is available to users with the Select Edition or  [Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) add-on. Contact your sales rep for details.
+>This is available to users with the Select Edition or [Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) add-on. Contact your sales rep for details.
 
 ## Email Click Activity Heat Grid {#email-click-activity-heat-grid}
 
@@ -53,5 +52,4 @@ This report shows you the percentage of total email opens for each time of the d
 
 This report shows you what day of the week and time of the day you are sending your emails. The greener the box the more sent emails in that specific day and time. The current filter includes all emails sent in the last 7 days. Time is in CST.
 
-![](assets/seven.png)  
-
+![](assets/seven.png)

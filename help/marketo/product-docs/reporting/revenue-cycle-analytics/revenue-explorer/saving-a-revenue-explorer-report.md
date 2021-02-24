@@ -8,7 +8,7 @@ title: Saving a Revenue Explorer Report
 
 Revenue Explorer reports can be saved to the file of your choice.
 
-1. Click on the **Save **icon.
+1. Click on the Save icon.
 
    ![](assets/image2015-3-25-17-3a8-3a49.png)
 
@@ -26,6 +26,4 @@ Revenue Explorer reports can be saved to the file of your choice.
 
 >[!MORELIKETHIS]
 >
->* [Subscribe to a Revenue Explorer Report](subscribe-to-a-revenue-explorer-report.md)
->
-
+>[Subscribe to a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

@@ -61,4 +61,3 @@ If you need to delete a Quick Chart, follow these simple steps.
 1. Click **Delete**.
 
    ![](assets/10-1.png)
-

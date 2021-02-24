@@ -10,14 +10,13 @@ You can see detailed program and channel stats in the Program Analyzer. You can 
 
 >[!PREREQUISITES]
 >
->* [Create a Program Analyzer](create-a-program-analyzer.md)
+>[Create a Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
 >
->
 >Not all Marketo editions include this functionality. Contact your account manager for more detail.
 
-1. Click on **Analytics**.
+1. Click **Analytics**.
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
@@ -48,7 +47,3 @@ You can see detailed program and channel stats in the Program Analyzer. You can 
 1. To open the Revenue Cycle Explorer to dig even deeper into a statistic, click that number in the pop-up dialog.
 
    ![](assets/image2015-4-28-13-3a1-3a35.png)
-
-   >[!NOTE]
-   >
-   >Learn more about advanced analytics in [Revenue Explorer](https://docs.marketo.com/display/docs/revenue+explorer).

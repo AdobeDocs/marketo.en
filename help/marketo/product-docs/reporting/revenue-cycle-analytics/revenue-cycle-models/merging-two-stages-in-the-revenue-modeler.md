@@ -6,7 +6,7 @@ title: Merging Two Stages in the Revenue Modeler
 
 # Merging Two Stages in the Revenue Modeler {#merging-two-stages-in-the-revenue-modeler}
 
-After you've approved the model, you cannot delete stages when editing a draft. Instead, you can merge that stage with another. 
+After you've approved the model, you cannot delete stages when editing a draft. Instead, you can merge that stage with another.
 
 1. Click **Marketo Home** and select **Analytics**.
 
@@ -20,7 +20,7 @@ After you've approved the model, you cannot delete stages when editing a draft. 
 
    ![](assets/image2015-4-29-15-3a7-3a3.png)
 
-1. `Right click the stage you want to merge and select`**`Merge Stage`** `in the menu.`
+1. Right-click the stage you want to merge and select **Merge Stage** in the menu.
 
    ![](assets/image2015-4-29-15-3a10-3a6.png)
 
@@ -28,13 +28,10 @@ After you've approved the model, you cannot delete stages when editing a draft. 
 
    ![](assets/image2015-4-29-15-3a52-3a5.png)
 
-1. `You can re-approve the model by selecting`**`Approve Model Draft`** ` in the **Model Actions** menu.`
+1. You can re-approve the model by selecting **Approve Model Draft** in the **Model Actions** menu.
 
-   ` ![](assets/image2015-4-29-16-3a5-3a53.png)
-
-   `
+   ![](assets/image2015-4-29-16-3a5-3a53.png)
 
 >[!NOTE]
 >
 >Pick **None** in the Merge Stage pull down to remove the leads from your model
-

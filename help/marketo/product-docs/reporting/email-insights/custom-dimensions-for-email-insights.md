@@ -14,7 +14,7 @@ All of the standard Marketo dimensions are included, but you have the option of 
 
 >[!CAUTION]
 >
->Custom dimensions **CANNOT** be deleted or replaced, so choose your 10 carefully.
+>Custom dimensions **cannot** be deleted or replaced, so choose your 10 carefully.
 
 1. In Email Insights, click the gear icon in the upper-right of the page.
 
@@ -36,6 +36,4 @@ All of the standard Marketo dimensions are included, but you have the option of 
    >
    >**By Audience**: Displays all approved Segmentations (from within the Database)
    >
-   >
    >**By Content**: Displays all Program Tags
-

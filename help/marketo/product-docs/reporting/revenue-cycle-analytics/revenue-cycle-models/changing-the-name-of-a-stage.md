@@ -20,8 +20,8 @@ Change your mind? Not a problem. Renaming a stage in the revenue cycle modeler i
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
-   Click Close.
+1. Click **Close**.
+
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   See? Easy! Remember to [Approve your Model](approve-unapprove-a-revenue-model.md).
-
+   See? Easy! Remember to [Approve your Model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md).

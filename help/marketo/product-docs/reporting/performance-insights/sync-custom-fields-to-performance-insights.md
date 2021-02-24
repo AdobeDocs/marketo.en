@@ -14,7 +14,7 @@ MPI Revenue and Pipeline dashboards can filter on custom Marketo fields. in orde
 
 >[!NOTE]
 >
->This article is only for users who do **not** have [RCA](https://docs.marketo.com/x/lwIk). If you do have RCA, please follow the steps in [this article](https://docs.marketo.com/x/FQQk).
+>This article is only for users who do **not** have Revenue Cycle Analytics. If you do have RCA, please follow the steps in [this article](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md).
 
 1. Go to the **Admin** section.
 
@@ -43,4 +43,3 @@ MPI Revenue and Pipeline dashboards can filter on custom Marketo fields. in orde
    >[!NOTE]
    >
    >Once enabled, the fields will be available in MPI the following day.
-

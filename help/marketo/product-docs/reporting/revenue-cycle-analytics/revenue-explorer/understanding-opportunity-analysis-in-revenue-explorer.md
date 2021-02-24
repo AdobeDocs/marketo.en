@@ -18,13 +18,15 @@ Here are a few reports you can create in the Opportunity Analysis area.
 
    ![](assets/image2015-7-21-16-3a21-3a4.png)
 
-1. Marketing Influence on Opportunities Closed and Won
-1. This report shows how much revenue was acquired and influenced by marketing, by number and amount.
+1. Marketing Influence on Opportunities Closed and Won.
+
+   This report shows how much revenue was acquired and influenced by marketing, by number and amount.
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
 1. Opportunity Closed by Lead Source
-1. This report breaks down all the opportunities closed by lead source and gives you a clear overview of which sources are working and which aren't.
+
+   This report breaks down all the opportunities closed by lead source and gives you a clear overview of which sources are working and which aren't.
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
@@ -144,8 +146,6 @@ Opportunity Analysis gives you access to all lead, company and opportunity relat
 
 >[!MORELIKETHIS]
 >
->* [Create a Revenue Explorer Report](create-a-revenue-explorer-report.md)
->* [Adding Fields to a Revenue Explorer Report](adding-fields-to-a-revenue-explorer-report.md)
->* [Subscribe to a Revenue Explorer Report](subscribe-to-a-revenue-explorer-report.md)
->
-
+>* [Create a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [Adding Fields to a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [Subscribe to a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

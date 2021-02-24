@@ -10,8 +10,7 @@ Use an Opportunity Influence Analyzer to illustrate marketing's role in importan
 
 >[!PREREQUISITES]
 >
->* [Create an Opportunity Influence Analyzer](create-an-opportunity-influence-analyzer.md)
->
+>[Create an Opportunity Influence Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
 1. Go to **Analytics** and select the **Opportunity Influence Analyzer**.
 
@@ -19,20 +18,20 @@ Use an Opportunity Influence Analyzer to illustrate marketing's role in importan
 
    The Opportunity Influence Analyzer is a visual representation of the interactions and program and event successes involved in that opportunity. Let's explore the graph:
 
-    * ![--](assets/image2014-10-3-13-3a43-3a21.png)**Orange dots** represent [interesting moments](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) in the opportunity (emails opened, tradeshow booth visits, whitepaper downloads, etc.). Bigger dots indicate more interactions.
-    
-    * ` ![--](assets/image2014-10-3-13-3a44-3a9.png)    
-    
-      ` **Binder icons** indicate [program](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM) successes.
-    
-    * ** ![--](assets/image2014-10-3-13-3a44-3a40.png) Calendar icons** indicate [event](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM) successes.
-    
-    * **Opportunity period**. The green area represents the opportunity itself, from opportunity creation to opportunity close (won or lost). 
+    * ![--](assets/image2014-10-3-13-3a43-3a21.png) **Orange dots** represent [interesting moments](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) in the opportunity (emails opened, tradeshow booth visits, whitepaper downloads, etc.). Bigger dots indicate more interactions.
+
+    * ![--](assets/image2014-10-3-13-3a44-3a9.png) **Binder icons** indicate program successes.
+
+    * ![--](assets/image2014-10-3-13-3a44-3a40.png) **Calendar icons** indicate event successes.
+
+    * **Opportunity period**. The green area represents the opportunity itself, from opportunity creation to opportunity close (won or lost).
+
     * **Opportunity life cycle**. The gray areas before and after the green opportunity period show the interactions that led to and followed the opportunity.
 
    The **Settings** panel lists the people from the account:
 
     * The **number in parentheses** is the number of interactions with that contact.
+
     * ![--](assets/image2014-10-3-13-3a45-3a9.png)The **yellow star** indicates the primary contact.
 
 1. Hover over a name to see that person's job title and the source of their involvement with the opportunity.
@@ -55,18 +54,4 @@ Use an Opportunity Influence Analyzer to illustrate marketing's role in importan
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >    
-   >    
-   >    * [Configure an Opportunity Influence Analyzer](configure-an-opportunity-influence-analyzer.md)
-   >    
-   >    
-   >
-   >
-   >    
-   >    
-   >    * [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting)
-   >    
-   >
-
+   >[Configure an Opportunity Influence Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

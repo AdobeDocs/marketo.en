@@ -14,7 +14,8 @@ In the example below, you are creating a calculated measure for soft bounces, wh
 >
 >You need at least one metric in your report, but it doesn't have to be one of the measures you use to define your custom measure.
 
-1. Pull over the fields you need for your report. See [Adding Fields to a Revenue Explorer Report](adding-fields-to-a-revenue-explorer-report.md) for details.
+1. Pull over the fields you need for your report. See [Adding Fields to a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) for details.
+
 1. Right-click an existing metric (blue cell), click **User Defined Measure** and select **Calculated Measure**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
@@ -41,10 +42,4 @@ In the example below, you are creating a calculated measure for soft bounces, wh
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Adding Fields to a Revenue Explorer Report](adding-fields-to-a-revenue-explorer-report.md)
-   >    
-   >
-
+   >[Adding Fields to a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)

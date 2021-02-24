@@ -10,7 +10,6 @@ Follow these steps to create an Email Analysis Report that will show email infor
 
 >[!AVAILABILITY]
 >
->
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
 1. Launch **Revenue Explorer**.
@@ -21,7 +20,7 @@ Follow these steps to create an Email Analysis Report that will show email infor
 
    ![](assets/image2014-9-17-19-3a42-3a32.png)
 
-1. Select** Email Analysis** area and click **OK**.
+1. Select **Email Analysis** area and click **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
@@ -37,7 +36,7 @@ Follow these steps to create an Email Analysis Report that will show email infor
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. Find and double click the** Program Channel** yellow dot.
+1. Find and double click the **Program Channel** yellow dot.
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
@@ -52,11 +51,3 @@ Follow these steps to create an Email Analysis Report that will show email infor
    Great job! You should have a report that looks something like this:
 
    ![](assets/image2014-9-17-19-3a45-3a1.png)
-
-   >[!NOTE]
-   >
-   >**Deep Dive**
-   >
-   >
-   >Want to learn more about [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics)?
-
