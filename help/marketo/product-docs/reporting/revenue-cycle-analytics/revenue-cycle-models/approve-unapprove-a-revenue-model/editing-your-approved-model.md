@@ -16,7 +16,7 @@ title: Editing Your Approved Model
 
    ![](assets/two.png)
 
-1. Choose the new stage for leads currently in the one selected, or select **None **to remove the leads from your model. When you're done, click **Merge**.
+1. Choose the new stage for leads currently in the one selected, or select **None** to remove the leads from your model. When you're done, click **Merge**.
 
    ![](assets/three.png)
 
@@ -52,5 +52,4 @@ You can only have one approved model at a time. If you want to approve a model b
 
 >[!MORELIKETHIS]
 >
->[Create a New Revenue Model](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
-
+>[Create a New Revenue Model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)

@@ -8,7 +8,7 @@ title: Clone a Program Analyzer
 
 After you've saved an analyzer, it's easy to clone it to create a new one. Then, go in and edit the new one if it needs any changes.
 
-1. Click the **Analytics **tile.
+1. Click the **Analytics** tile.
 
    ![](assets/2017-05-01-08-20-37.png)
 
@@ -34,10 +34,4 @@ After you've saved an analyzer, it's easy to clone it to create a new one. Then,
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Create a Program Analyzer](create-a-program-analyzer.md)
-   >    
-   >
-
+   >[Create a Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)

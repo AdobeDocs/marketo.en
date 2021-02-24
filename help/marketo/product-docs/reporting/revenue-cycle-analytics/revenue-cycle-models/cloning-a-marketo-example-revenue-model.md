@@ -12,7 +12,7 @@ Marketo has example revenue modelers to help inspire you. Clone these modelers a
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. Select **Revenue Cycle Modeler **folder, and click **Marketo Examples**.
+1. Select **Revenue Cycle Modeler** folder, and click **Marketo Examples**.
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
@@ -20,12 +20,12 @@ Marketo has example revenue modelers to help inspire you. Clone these modelers a
 
    ![](assets/image2015-4-27-17-3a33-3a11.png)
 
-   From Model Actions,  select Clone Model.
+1. From Model Actions, select **Clone Model**.
+
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
-1. Enter a **Name **and click **CLONE**.
+1. Enter a **Name** and click **Clone**.
 
    ![](assets/image2015-4-27-17-3a20-3a22.png)
 
    If only generating revenue was this easy!
-

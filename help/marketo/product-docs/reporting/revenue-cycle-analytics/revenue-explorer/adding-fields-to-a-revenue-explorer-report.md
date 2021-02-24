@@ -6,7 +6,7 @@ title: Adding Fields to a Revenue Explorer Report
 
 # Adding Fields to a Revenue Explorer Report {#adding-fields-to-a-revenue-explorer-report}
 
-Customize revenue explorer reports by dragging and dropping dimension and metric fields into the canvas. 
+Customize revenue explorer reports by dragging and dropping dimension and metric fields into the canvas.
 
 <table> 
  <tbody> 
@@ -43,6 +43,4 @@ Customize revenue explorer reports by dragging and dropping dimension and metric
 
 >[!MORELIKETHIS]
 >
->* [Deleting a Field in a Revenue Explorer Report](deleting-a-field-in-a-revenue-explorer-report.md)
->
-
+>[Deleting a Field in a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)

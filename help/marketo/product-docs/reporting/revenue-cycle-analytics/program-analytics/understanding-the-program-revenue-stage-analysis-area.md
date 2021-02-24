@@ -8,7 +8,7 @@ title: Understanding the Program Revenue Stage Analysis Area
 
 This analysis area allows you to analyze the effectiveness of individual programs or to see summarized results by channel. It provides insights into how many of the new names generated have reached particular success path stages within your revenue cycle model.  
   
-**Example business questions you can answer using this analysis area include:**
+**Example business questions you can answer using this analysis area include**:
 
 How many new names from a given program have ever reached a specific stage in my model?
 
@@ -146,4 +146,4 @@ To view available dimensions or measures within a category, click the right arro
 
 >[!MORELIKETHIS]
 >
->[Create a Revenue Explorer Report](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Create a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

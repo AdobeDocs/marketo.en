@@ -6,20 +6,18 @@ title: Set Google AdWords Conversions in the Revenue Model with a Manager Accoun
 
 # Set Google AdWords Conversions in the Revenue Model with a Manager Account {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
 
-Link your Google AdWords account to Marketo to automatically upload offline conversion data from Marketo to Google AdWords. Then, from the AdWords UI, you will be able to easily see which clicks resulted in qualified leads, opportunities and new customers (or whatever revenue stages you want to track) after you  [add custom columns](https://support.google.com/adwords/answer/3073556)  in AdWords.
+Link your Google AdWords account to Marketo to automatically upload offline conversion data from Marketo to Google AdWords. Then, from the AdWords UI, you will be able to easily see which clicks resulted in qualified leads, opportunities and new customers (or whatever revenue stages you want to track) after you [add custom columns](https://support.google.com/adwords/answer/3073556) in AdWords.
 
 If you have multiple Google Adwords accounts, you can use a [Google AdWords Manager Account](https://www.google.com/adwords/manager-accounts/) (formerly known as My Client Center) to integrate them with Marketo.
 
 You can map AdWords offline conversions to one or more stages in a Revenue model. There are two ways:
 
-* 
-  Stage Action 
+* Stage Action
 * AdWords Mapping
 
 >[!PREREQUISITES]
 >
->* [Add Google AdWords as a Launchpoint Service with a Manager Account](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
->
+>[Add Google AdWords as a Launchpoint Service with a Manager Account](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
 ## Use Stage Action {#use-stage-action}
 
@@ -67,9 +65,7 @@ Pro tip! A new AdWords offline conversion can be created from Marketo.
 
 1. Select **New Conversion**.
 
-   ** ![](assets/image2015-3-27-17-3a23-3a13.png)
-
-   **
+   ![](assets/image2015-3-27-17-3a23-3a13.png)
 
 1. Enter a **Conversion Name**. Click **Save**.
 

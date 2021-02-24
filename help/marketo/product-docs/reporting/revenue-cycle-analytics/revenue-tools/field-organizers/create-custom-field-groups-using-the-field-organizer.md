@@ -7,7 +7,7 @@ title: Create Custom Field Groups Using the Field Organizer
 # Create Custom Field Groups Using the Field Organizer {#create-custom-field-groups-using-the-field-organizer}
 
 Before you can enable custom field groups for reporting in the Model Performance Analysis (Leads) Area of Revenue Cycle Explorer, you must categorize standard or custom fields into groups for reporting via the Field Organizer in Marketo Lead Management. This only applies to lead and company attributes.
-When you select a standard or custom field from the Field drop-down in the New Field Organizer dialog box, the system maps the Marketo Lead Management data type associated with the field you want to group with one of three available editors in the Field Organizer: string, integer, or date. 
+When you select a standard or custom field from the Field drop-down in the New Field Organizer dialog box, the system maps the Marketo Lead Management data type associated with the field you want to group with one of three available editors in the Field Organizer: string, integer, or date.
 
 | Marketo Lead Management Data Type |Field Organizer Editor Data Type |
 |---|---|
@@ -173,8 +173,8 @@ The next three sections describe how to create a custom field group for a string
    >
    >You can add up to ten sub-groups to categorize the data values. Each Group Range entry builds upon the previous entry. If you leave the last Group Range entry blank for the last custom sub-group you create, an end date value is not set.
 
+   The example below shows an entry for Q1 2015 leads through Q3.
+
    ![](assets/16.5.png)
 
    And that's it! Good job.
-
-The example below shows an entry for Q1 2015 leads through Q3. 

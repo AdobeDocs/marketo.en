@@ -54,4 +54,3 @@ The following are the types of reports you'll encounter if you utilize Revenue C
   </tr> 
  </tbody> 
 </table>
-

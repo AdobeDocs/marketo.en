@@ -71,4 +71,3 @@ Want to delete one of your Quick Charts? It's easy!
    ![](assets/eleven.png)
 
    Your Quick Chart is now deleted. Told you it was easy.
-

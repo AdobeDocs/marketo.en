@@ -20,13 +20,13 @@ Analysis areas each contain different data sets and metrics within Revenue Explo
 
 ## Program Analysis Areas {#program-analysis-areas}
 
-* ** [Program Cost Analysis](understanding-the-program-cost-analysis-area.md) **- See the ROI for all of your programs.
+* **[Program Cost Analysis](understanding-the-program-cost-analysis-area.md)** - See the ROI for all of your programs.
 
-* ** [Program Membership Analysis](understanding-the-program-membership-analysis-area.md) **- See results by channel, participation, success criteria, etc.
+* **[Program Membership Analysis](understanding-the-program-membership-analysis-area.md)** - See results by channel, participation, success criteria, etc.
 
-* ** [Program Opportunity Analysis](understanding-the-program-opportunity-analysis-area.md) **- Opportunities generated based on distribution, their revenue, and ROI.
+* **[Program Opportunity Analysis](understanding-the-program-opportunity-analysis-area.md)** - Opportunities generated based on distribution, their revenue, and ROI.
 
-* ** [Program Revenue Stage Analysis](understanding-the-program-revenue-stage-analysis-area.md) **- New names that have reached particular success stages within your revenue cycle model.
+* **[Program Revenue Stage Analysis](understanding-the-program-revenue-stage-analysis-area.md)** - New names that have reached particular success stages within your revenue cycle model.
 
 ## Program Analyzers {#program-analyzers}
 
@@ -48,4 +48,4 @@ In each report there are several options available to help you customize the exp
 >
 >The data in Revenue Cycle Explorer updates nightly from your instance of Marketo. Therefore, any changes in your person and account activity inside of Marketo will be reflected the following business day in Revenue Cycle Explorer.
 
-Familiarizing yourself with Revenue Analytics will give you full insight into your programs and their impact. 
+Familiarizing yourself with Revenue Analytics will give you full insight into your programs and their impact.

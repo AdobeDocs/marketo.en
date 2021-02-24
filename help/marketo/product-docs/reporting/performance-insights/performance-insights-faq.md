@@ -12,8 +12,6 @@ Success is a measure of meaningful interaction in Marketo. The purpose of a prog
 
 >[!NOTE]
 >
->**Example**
->
 >In a webinar program, there can be multiple statuses, such as: Invited, Registered, and Attended. Invited or Registered aren't meaningful interactions because people don't actually watch the webinar. Attended is considered success in this case.
 
 ## Will MPI work with any CRM? {#will-mpi-work-with-any-crm}
@@ -34,7 +32,7 @@ You can control the visibility of your programs by setting the Analytics behavio
 
 >[!NOTE]
 >
->Learn more about setting analytics behavior [here](https://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings).
+>Learn more about setting analytics behavior [here](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md).
 
 ## I am running a multi-channel campaign for a new product launch. How can I view the performance for this campaign across all the different channels in one place? {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -51,8 +49,10 @@ MPI calculates whether or not all your opportunities are being included in analy
 You may also be missing opportunities due to Program Cost missing in your programs. Please review the Analytics behavior of your programs. They can be:
 
 1. Default - The default behavior is the program would be included in MPI ONLY if there is at least one period cost, even one with zero dollars assigned.
+
 1. Inclusive - This option will ensure that the program is available in MPI regardless of whether or not you've included a period cost.
-1. [Operational](https://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms) - This option results in the program not showing up in MPI.
+
+1. [Operational](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs) - This option results in the program not showing up in MPI.
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ Custom Fields, Opportunity Type and ABM Filters are all attributes related to an
 
 ## I want to use a custom Salesforce Opportunity field for revenue reporting instead of the standard Salesforce Opportunity Amount field. Will MPI allow me to do that? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Yes. [Marketo Support](https://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) is able to remap Marketo’s Opportunity Amount field to a custom Salesforce Opportunity field as long as the field type is currency. Since MPI points to the Marketo Opportunity amount field, MPI can use the data from the remapped custom Salesforce field.
+Yes. [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) is able to remap Marketo’s Opportunity Amount field to a custom Salesforce Opportunity field as long as the field type is currency. Since MPI points to the Marketo Opportunity amount field, MPI can use the data from the remapped custom Salesforce field.
 
 >[!NOTE]
 >
@@ -93,11 +93,11 @@ MPI is designed to allow you to measure program performance from the top of the 
 
 ## Can I measure the success of account-based strategies in MPI? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-Yes. MPI integrates with [Marketo ABM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) to pull ABM account lists into MPI seamlessly. You can use the ABM Account List filter to choose the desired ABM list to filter data by.
+Yes. MPI integrates with [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) to pull ABM account lists into MPI seamlessly. You can use the ABM Account List filter to choose the desired ABM list to filter data by.
 
 ## Is attribution instantly available when I purchase MPI? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-The Marketo Attribution capabilities are available to our customers when they purchase MPI. However, [proper setup](https://docs.marketo.com/x/mRPG) is required to ensure that opportunities and program data flow correctly into MPI.
+The Marketo Attribution capabilities are available to our customers when they purchase MPI. However, [proper setup](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) is required to ensure that opportunities and program data flow correctly into MPI.
 
 ## What do I have to do to set up attribution? {#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -118,7 +118,7 @@ The Marketo Attribution capabilities are available to our customers when they pu
 
 >[!TIP]
 >
->All setup steps required are detailed in [this article](https://docs.marketo.com/x/mRPG).
+>All setup steps required are detailed in [this article](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md).
 
 ## What's the difference between MPI and the Program Analyzer? {#whats-the-difference-between-mpi-and-the-program-analyzer}
 

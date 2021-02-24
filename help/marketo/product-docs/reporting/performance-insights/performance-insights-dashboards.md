@@ -26,8 +26,6 @@ The purpose of a program is to create a meaningful interaction with the person o
 
 >[!NOTE]
 >
->**Example**
->
 >In a webinar program, there can be multiple statuses, such as: Invited, Registered, and Attended. Invited or Registered aren't meaningful interactions because people don't actually watch the webinar. Attended is considered success in this case.
 
 Measuring New Name Acquisition
@@ -101,4 +99,3 @@ The Revenue dashboard shows channel performance by first-touch and multi-touch m
   </tr> 
  </tbody> 
 </table>
-

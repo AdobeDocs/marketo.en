@@ -16,7 +16,7 @@ With the Revenue Stage Modeler and Revenue Explorer, you gain insight into the p
 
    ![](assets/image2015-4-29-16-3a36-3a2.png)
 
-1. To create a new report, click **File** and select **New **then** Report**.
+1. To create a new report, click **File** and select **New** then **Report**.
 
    ![](assets/image2015-4-29-16-3a38-3a44.png)
 
@@ -37,4 +37,3 @@ With the Revenue Stage Modeler and Revenue Explorer, you gain insight into the p
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 
 1. Your report should now show only those stages you're tracking by account. Make sure to save your report so you can use it in the future. Now you can use this as another measure of the success of your marketing efforts.
-

@@ -16,13 +16,9 @@ You can export any revenue explorer report and share it with anyone.
    >
    >You can export a report to the following three formats:
    >
-   >    
-   >    
-   >    * PDF
-   >    * Excel
-   >    * CSV
-   >    
-   >
+   >* PDF
+   >* Excel
+   >* CSV
 
 1. Select the desired **Page Format** and **Orientation**, and click **Export**.
 
@@ -32,6 +28,4 @@ You can export any revenue explorer report and share it with anyone.
 
 >[!MORELIKETHIS]
 >
->* [Subscribe to a Revenue Explorer Report](subscribe-to-a-revenue-explorer-report.md)
->
-
+>[Subscribe to a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

@@ -6,9 +6,9 @@ title: Override Analytics Behavior at the Program Level
 
 # Override Analytics Behavior at the Program Level {#override-analytics-behavior-at-the-program-level}
 
-You can set the  [analytics behavior at the admin level on channels](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) but you can also override it at the program level. Here is how:
+You can set the [analytics behavior at the admin level on channels](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) but you can also override it at the program level. Here is how:
 
-1. Go to the Marketing Activities area.
+1. Go to the **Marketing Activities** area.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -16,7 +16,7 @@ You can set the  [analytics behavior at the admin level on channels](make-a-prog
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Under the Setup tab, drag Analytics Behavior into the canvas.
+1. Under the **Setup** tab, drag Analytics Behavior into the canvas.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -35,7 +35,7 @@ You can set the  [analytics behavior at the admin level on channels](make-a-prog
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. Click SAVE.
+1. Click **Save**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
@@ -43,7 +43,4 @@ Nicely done! Now you know how to override the analytics behavior at the program 
 
 >[!NOTE]
 >
->**Reminder**
->
 >The changes will take affect the next day and either be made available or pulled out of revenue explorer and analyzers.
-

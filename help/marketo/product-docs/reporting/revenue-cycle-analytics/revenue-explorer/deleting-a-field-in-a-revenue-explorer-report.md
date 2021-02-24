@@ -18,6 +18,4 @@ Sometimes, you might drag a wrong field into the report. Here's how to remove it
 
 >[!MORELIKETHIS]
 >
->* [Saving a Revenue Explorer Report](saving-a-revenue-explorer-report.md)
->
-
+>[Saving a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

@@ -12,7 +12,7 @@ The Opportunity Influence Analyzer lets you see the whole story. It's even avail
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**Notice the green checks.** They indicate program success for one of the names checked on the right. The green area indicates the beginning and end of the opportunity.
+**Notice the green checks**. They indicate program success for one of the names checked on the right. The green area indicates the beginning and end of the opportunity.
 
 >[!NOTE]
 >
@@ -34,7 +34,5 @@ If you want to retain this behavior, please consider deduplicating your data in 
 
 >[!MORELIKETHIS]
 >
->* [Tell the Marketing Story with an Opportunity Influence Analyzer](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [Create an Opportunity Influence Analyzer](create-an-opportunity-influence-analyzer.md)
->
-
+>* [Tell the Marketing Story with an Opportunity Influence Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Create an Opportunity Influence Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)

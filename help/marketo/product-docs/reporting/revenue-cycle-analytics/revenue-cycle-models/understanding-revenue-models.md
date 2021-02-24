@@ -30,11 +30,11 @@ By default, a new model starts you off with six revenue stages. This model is ac
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Notice they are all on a green background. This is called the **Success Path**. Understand more about the success path [here](understanding-revenue-model-success-path.md).
+Notice they are all on a green background. This is called the **Success Path**. Understand more about the success path [here](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
 **Stages** are the milestones on a leads progressions towards their goals.
 
-**Transitions **are shown as arrows and they control how leads move between stages.
+**Transitions** are shown as arrows and they control how leads move between stages.
 
 >[!NOTE]
 >
@@ -72,33 +72,30 @@ A Gate stage is meant for situations where you want to filter leads into one of 
 
 ## Transitions {#transitions}
 
-Clarify exactly how a lead moves from one stage to another using smart campaigns and make sure leads don't get stuck in any stage. Be sure to use trigger filters for transitions to (that's a way to evaluate). 
+Clarify exactly how a lead moves from one stage to another using smart campaigns and make sure leads don't get stuck in any stage. Be sure to use trigger filters for transitions to (that's a way to evaluate).
 
 >[!NOTE]
 >
 >**Example**
 >
->A transition could be defined by a lead **filling out a form. **
+>A transition could be defined by a lead filling out a form.
 
-Here are some links that may be helpfully hopeful. (or hopefully helpful - take your pick!)
+Adding a Stage off the happy success path
 
->[!MORELIKETHIS]
->
->[Create a New Revenue Model](create-a-new-revenue-model.md)
->
->[Using Revenue Model Inventory Stages](using-revenue-model-inventory-stages.md)
->
->[Using Revenue Model Gate Stages](using-revenue-model-gate-stages.md)
->
->[Using Revenue Model SLA Stages](using-revenue-model-sla-stages.md)
-
-Adding a Stage off the happy success path   ![](assets/image2015-6-12-10-3a10-3a26.png)
+![](assets/image2015-6-12-10-3a10-3a26.png)
 
 Lost is a good one to add, but notice it is not on the green path. That is because it is not a "success".
 
 >[!MORELIKETHIS]
 >
->[Report on Your Revenue Model](report-on-your-revenue-model.md)
+>* [Create a New Revenue Model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 >
->[Approve/Unapprove a Revenue Model](approve-unapprove-a-revenue-model.md)
-
+>* [Using Revenue Model Inventory Stages](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>
+>* [Using Revenue Model Gate Stages](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+>
+>* [Using Revenue Model SLA Stages](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>
+>* [Report on Your Revenue Model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+>
+>* [Approve/Unapprove a Revenue Model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

@@ -51,7 +51,7 @@ How much did I spend per program per month?
    <th>Description</th> 
   </tr> 
   <tr> 
-   <td><p>% New Names</p></td> 
+   <td>% New Names</td> 
    <td>Percentage of leads who were acquired by a program</td> 
   </tr> 
   <tr> 
@@ -97,4 +97,3 @@ How much did I spend per program per month?
 | % Success (Total) |Percentage of leads who achieved success in the progression of a program |
 | Success (New Names) |Total number of new names who achieved success in the progression of a program |
 | Success (Total) |Total number of leads who achieved success in the progression of a program |
-

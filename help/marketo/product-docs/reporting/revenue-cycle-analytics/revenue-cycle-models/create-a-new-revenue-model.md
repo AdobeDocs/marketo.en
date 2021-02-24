@@ -30,5 +30,4 @@ Looking sharp! You've just entered the wonderful world of modeling.
 
 >[!MORELIKETHIS]
 >
->Learn more about [Using Revenue Model Inventory Stages](using-revenue-model-inventory-stages.md).
-
+>Learn more about [Using Revenue Model Inventory Stages](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md).

@@ -18,7 +18,7 @@ All known leads and accounts initially reside in the Inventory Stage. This prosp
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. In the **Analytics** section, select your existing model, or [create a new one](create-a-new-revenue-model.md).
+1. In the **Analytics** section, select your existing model, or [create a new one](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
@@ -30,13 +30,13 @@ All known leads and accounts initially reside in the Inventory Stage. This prosp
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. You are free to edit the Name, add a Description and adjust the Type after adding a stage. You may also select ** [Start Tracking by Account](start-tracking-by-account-in-the-revenue-modeler.md)** at this time.
+1. You are free to edit the Name, add a Description and adjust the Type after adding a stage. You may also select **[Start Tracking by Account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** at this time.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## Edit an Inventory Stage {#edit-an-inventory-stage}
 
-When you select an Inventory icon you may edit the **Name**, add a **Description** or adjust the **Type**. You may also select [Start Tracking by Account](start-tracking-by-account-in-the-revenue-modeler.md).
+When you select an Inventory icon you may edit the **Name**, add a **Description** or adjust the **Type**. You may also select [Start Tracking by Account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Click an Inventory icon.
 

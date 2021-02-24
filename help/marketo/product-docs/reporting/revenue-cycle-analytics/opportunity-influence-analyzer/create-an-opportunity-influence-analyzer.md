@@ -10,8 +10,6 @@ Use the Opportunity Influence Analyzer to show marketing's contribution to an im
 
 >[!NOTE]
 >
->**Reminder**
->
 >To get good intel from an Opportunity Influence Analyzer, ensure that your contacts are attached to the opportunities in your CRM.
 
 1. Click **Analytics**.
@@ -57,13 +55,5 @@ Use the Opportunity Influence Analyzer to show marketing's contribution to an im
 
 >[!MORELIKETHIS]
 >
->* [Tell the Marketing Story with an Opportunity Influence Analyzer](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [Configure an Opportunity Influence Analyzer](configure-an-opportunity-influence-analyzer.md)
->
-
->[!NOTE]
->
->**Deep Dive**
->
->For other analyzers, see [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
-
+>* [Tell the Marketing Story with an Opportunity Influence Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Configure an Opportunity Influence Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

@@ -10,7 +10,7 @@ You may only have one approved model at any given time.
 
 >[!CAUTION]
 >
->[Individual stages must be approved](approving-stages-and-assigning-leads-to-a-revenue-model.md) and people added before you approve an entire model.
+>[Individual stages must be approved](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) and people added before you approve an entire model.
 
 ## Approve {#approve}
 
@@ -30,7 +30,7 @@ You may only have one approved model at any given time.
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
-Your model is now live! 
+Your model is now live!
 
 ## Unapprove {#unapprove}
 
@@ -59,4 +59,3 @@ Congrats! Your model is now unapproved.
 >[!CAUTION]
 >
 >Unapproving a model removes all your people from the model, and removes their history in the model from the database.
-

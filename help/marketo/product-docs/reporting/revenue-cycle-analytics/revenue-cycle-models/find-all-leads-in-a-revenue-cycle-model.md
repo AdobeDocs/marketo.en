@@ -10,7 +10,7 @@ By using smart lists, you can easily find all members of revenue cycle model.
 
 >[!PREREQUISITES]
 >
->[Create a Smart List](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Create a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. With the smart listed selected, click on the **Smart List** tab.
 
@@ -26,11 +26,11 @@ By using smart lists, you can easily find all members of revenue cycle model.
 
    This would get you all the leads in that model, regardless of stage. Usually you will want a specific stage. Use the following filter instead.
 
-1. Find the **Revenue Stage **filter and drag it into the canvas.
+1. Find the **Revenue Stage** filter and drag it into the canvas.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Select a **Stage.**
+1. Select a **Stage**.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
@@ -40,10 +40,8 @@ By using smart lists, you can easily find all members of revenue cycle model.
 
    >[!TIP]
    >
-   >You don't need both filters, just choose the one you need. We are just showing you both to be thorough. ![(smile)](assets/smile.svg)   >
-   >
+   >You don't need both filters, just choose the one you need. We are just showing you both to be thorough. ![(smile)](assets/smile.svg)
 
    >[!CAUTION]
    >
    >If the stage of a lead is changed by an external campaign during the initial creation of the lead, then an activity is not logged in the database. This means that the lead won’t be included by the smart list filter.
-

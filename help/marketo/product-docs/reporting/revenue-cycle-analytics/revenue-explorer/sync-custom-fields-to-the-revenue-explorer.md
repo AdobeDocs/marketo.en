@@ -41,4 +41,3 @@ Revenue Cycle Analytics can report on custom Marketo fields, in order to do so y
    >Once enabled, the data will be available in Revenue Cycle Analytics the following day.
 
    Nice job! Now you know how to add custom fields to RCA.
-

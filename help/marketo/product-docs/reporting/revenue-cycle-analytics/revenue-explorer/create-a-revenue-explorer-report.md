@@ -10,10 +10,9 @@ The Revenue Explorer report allows you to track the ROI on your marketing initia
 
 >[!AVAILABILITY]
 >
->
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
-1. Go to the **Revenue Explorer **area.
+1. Go to the **Revenue Explorer** area.
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
@@ -31,7 +30,5 @@ The Revenue Explorer report allows you to track the ROI on your marketing initia
 
 >[!MORELIKETHIS]
 >
->* [Adding Fields to a Revenue Explorer Report](adding-fields-to-a-revenue-explorer-report.md)
->* [Adding Custom Measures to a Revenue Explorer Report](adding-custom-measures-to-a-revenue-explorer-report.md)
->
-
+>[Adding Fields to a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>[Adding Custom Measures to a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)

@@ -33,4 +33,3 @@ The following steps will allow you to utilize custom fields in RCA reports.
    >[!NOTE]
    >
    >After the field is enabled, the data will be available in Revenue Cycle Analytics the next day.
-

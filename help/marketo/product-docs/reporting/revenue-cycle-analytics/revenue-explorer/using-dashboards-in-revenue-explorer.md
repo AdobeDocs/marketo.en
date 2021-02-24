@@ -50,7 +50,7 @@ A dashboard is a combination of Revenue Explorer reports to get a quick overview
 
    ![](assets/nine.png)
 
-1. To rename a section, click on it to select it, type the desired name under Title, and click** Apply**. Repeat for each section.
+1. To rename a section, click on it to select it, type the desired name under Title, and click **Apply**. Repeat for each section.
 
    ![](assets/ten.png)
 
@@ -85,4 +85,3 @@ A dashboard is a combination of Revenue Explorer reports to get a quick overview
 1. Select the dashboard you wish to delete, then click **Move to Trash**.
 
    ![](assets/fifteen.png)
-

@@ -8,7 +8,7 @@ title: Using Revenue Model Transitions
 
 >[!PREREQUISITES]
 >
->[Create a New Revenue Model](create-a-new-revenue-model.md)
+>[Create a New Revenue Model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
 When you create your model and select and organize your inventory stages, it's time to set the transitions.
 
@@ -22,7 +22,10 @@ When you create your model and select and organize your inventory stages, it's t
    >
    >'Anonymous ⇒ Known' transition rules cannot be edited.
 
-1. A new tab will open for the transition you selected.   ![](assets/three-1.png)
+1. A new tab will open for the transition you selected.
+
+   ![](assets/three-1.png)
+
 1. Transitions control how leads move between stages. Drag the trigger (or filter) of your choice from the right, and release anywhere onto the canvas. In this example, we'll select the Fills Out Form trigger.
 
    >[!TIP]
@@ -55,4 +58,4 @@ Well done! You have successfully modified your model transitions.
 
 >[!MORELIKETHIS]
 >
->[Approve/Unapprove a Revenue Model](approve-unapprove-a-revenue-model.md)
+>[Approve/Unapprove a Revenue Model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

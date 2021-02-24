@@ -16,7 +16,7 @@ Click the **Trend** tab to access this view.
 
 ![](assets/2-1.png)
 
-Select the metric you want to view the performance by. In this example we'll look at opportunities won via [First Touch](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
+Select the metric you want to view the performance by. In this example we'll look at opportunities won via [First Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 
@@ -47,4 +47,3 @@ Expand a channel to see its top ten programs, with the remaining programs combin
 >[!NOTE]
 >
 >Clicking the checkbox next to a channel activate/deactivates it in the doughnut chart.
-
