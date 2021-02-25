@@ -10,7 +10,7 @@ Here's how to create a segment using Known Person Data values.
 
 >[!PREREQUISITES]
 >
->[Manage Person Data](manage-person-data.md)
+>[Manage Person Data](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
 1. Go to **Segments**.
 
@@ -24,7 +24,7 @@ Here's how to create a segment using Known Person Data values.
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. In Profile Segmentation, drag **Database **over to the canvas.
+1. In Profile Segmentation, drag **Database** over to the canvas.
 
    ![](assets/four-1.png)
 
@@ -46,13 +46,12 @@ Here's how to create a segment using Known Person Data values.
 
    ![](assets/eight.png)
 
-1. Select the AND / OR operator. Select the field to add. Select a Person Data Field. Enter Person Data Value.
+1. Select the AND/OR operator. Select the field to add. Select a Person Data Field. Enter Person Data Value.
 
    ![](assets/nine.png)
 
-1. Click **Save** to save the segment or **Save & Define Campaign **to save and go to the Campaigns page.
+1. Click **Save** to save the segment or **Save & Define Campaign** to save and go to the Campaigns page.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 
    You have now set up a segment targeting Known Person data.
-

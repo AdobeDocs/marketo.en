@@ -47,7 +47,7 @@ In Web Personalization, a visitor can match more than one segment. For example, 
  </tbody> 
 </table>
 
-See [how to create and view segment labels](label-your-segment.md)
+See [how to create and view segment labels](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 **Segments - Right-hand Panel**
 
@@ -117,8 +117,7 @@ Define general parameters to your segment:
 >    * (1 and 2) or (3 and 4)
 >    * 1 and (2 or (3 and 4))
 >
->    Check your logic after any insert, delete or reorder. 
->
+>    Check your logic after any insert, delete or reorder.
 
 Drag and drop Segment attributes from the right hand side column into the segment editor on the left side:
 
@@ -135,7 +134,7 @@ Drag and drop **Location** into the segment editor.
     * **Include** - Select whether you want the campaign to include or exclude a location.
     * **Select country to add** - From the drop-down box, select the country you wish to include in the segment. The country name appears to the right. You can choose multiple countries.
 
-Once the country is added, you can specify the state, city and zip code of the segment as well. 
+Once the country is added, you can specify the state, city and zip code of the segment as well.
 
 * **Select State or Province to add** - From the drop-down box, select the U.S. state or Canadian Province you wish to include. You can make multiple selections.
 * **Zip Code** - Enter the zip code you wish to include in your segment.
@@ -164,18 +163,18 @@ Under the **Profile Segmentation** section, check the box next to **Organization
     * Enterprise - Includes organizations with more than 1,000 employees and revenue greater than $250M
     * SMB - Includes only small and medium businesses in this segment
 
-**Named Accounts**
+**-Named Accounts-**
 
 **Organizations**
 
 * **Is from these companies (specific names)**
 
     * Select company to target from the 'Select company to add' drop-down.
-    * You can type the exact organization name you wish to target. *It is *always *recommended to use Named Account Lists instead of typing the names manually for better matches (see below).*
+    * You can type the exact organization name you wish to target. *It is _always_ recommended to use Named Account Lists instead of typing the names manually for better matches (see below).
 
 **Named Account List**
 
-Select from a [Named Account List](../../../product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) to segment key targeted accounts
+Select from a [Named Account List](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) to segment key targeted accounts.
 
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
@@ -193,7 +192,7 @@ Excludes Internet Service Providers (ISPs) from the segment.
 
 Web Personalization integrates with your Marketo Database, allowing you to segment and personalize campaigns by known person attributes and data.
 
-Select Database, and select a person data field from the drop-down. Select the   **+** to add fields from the drop-down.
+Select Database, and select a person data field from the drop-down. Select the **+** to add fields from the drop-down.
 
 ![](assets/seven.png)
 
@@ -256,7 +255,7 @@ Drag and drop the Mobile OS into the Segment editor
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
-* **Visitor type** 
+* **Visitor type**<br />
   **Mobile OS** - From the drop-down box, select from one or more mobile OS listed. The selected mobile OS appear below.
 
     * The visitor is using any mobile device
@@ -310,11 +309,11 @@ You can delete segments you have created.
 >
 >You cannot delete a segment that is associated with a campaign. First you need to delete the campaign and then the segment.
 
-Great! Now that you understand the Segments section, let's learn about campaigns. 
+Great! Now that you understand the Segments section, let's learn about campaigns.
 
 >[!MORELIKETHIS]
 >
->* [Create a Basic Web Segment](create-a-basic-web-segment.md) 
->* [Create a New Dialog Web Campaign](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) 
->* [Create a New In Zone Web Campaign](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md) 
->* [Create a New Widget Web Campaign](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Create a Basic Web Segment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+>* [Create a New Dialog Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) 
+>* [Create a New In Zone Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md) 
+>* [Create a New Widget Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

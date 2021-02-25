@@ -10,7 +10,7 @@ Change settings like time zone or Web Personalization email reports.
 
 ## User Profile / Passwords / Time Zones {#user-profile-passwords-time-zones}
 
-1. Click your name and select **User Settings.**
+1. Click your name and select **User Settings**.
 
    ![](assets/one.png)
 
@@ -20,15 +20,13 @@ Change settings like time zone or Web Personalization email reports.
 
    On the User Settings page you can:
 
-    *
-
-        * Change your email address
-        * Add personal details (first and last name, mobile number and time zone)
-        * Select the number of rows you would like to export when exporting tables in the platform. See field: "Max # of rows in Excel export (limited to 10,000)"
-        * Select your Mobile Notifications for a new person or watch list related to the mobile application
-        * Adjust Personal Region settings by clicking **Edit Regions**.
-        * Change your password
-        * Select your Email Report notification settings for email reports on Organizations, People, Campaign and Asset Performance
+    * Change your email address
+    * Add personal details (first and last name, mobile number and time zone)
+    * Select the number of rows you would like to export when exporting tables in the platform. See field: "Max # of rows in Excel export (limited to 10,000)"
+    * Select your Mobile Notifications for a new person or watch list related to the mobile application
+    * Adjust Personal Region settings by clicking **Edit Regions**.
+    * Change your password
+    * Select your Email Report notification settings for email reports on Organizations, People, Campaign and Asset Performance
 
    Click **Save** after making any changes.
 
@@ -38,7 +36,7 @@ Change settings like time zone or Web Personalization email reports.
 
 ## Select Email Reports {#select-email-reports}
 
-   Select which [email report](../../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) to associate to your user, and frequency (daily, weekly or quarterly) when the report will be sent.
+   Select which [email report](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) to associate to your user, and frequency (daily, weekly or quarterly) when the report will be sent.
 
    ![](assets/three.png)
 
@@ -48,6 +46,4 @@ Change settings like time zone or Web Personalization email reports.
 
 >[!MORELIKETHIS]
 >
->* [Edit Regions](edit-regions.md)
->
-
+>[Edit Regions](/help/marketo/product-docs/web-personalization/getting-started/edit-regions.md)

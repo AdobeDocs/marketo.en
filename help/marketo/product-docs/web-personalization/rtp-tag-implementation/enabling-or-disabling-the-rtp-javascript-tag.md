@@ -27,4 +27,3 @@ The RTP JavaScript tag controls whether or not Web Personalization tracks web ac
 1. To enable the RTP tag, in Domain and Domain Configuration, under Tag, select the **On** toggle.
 
    Easy.
-

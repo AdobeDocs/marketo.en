@@ -28,5 +28,4 @@ To switch between workspaces in web personalization, click the globe icon in the
 
 >[!NOTE]
 >
->Users will only be able to see web campaigns and segments associated with the workspaces that they have access to. Here's how to [give a user access to one or more workspaces](../../../product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
-
+>Users will only be able to see web campaigns and segments associated with the workspaces that they have access to. Here's how to [give a user access to one or more workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).

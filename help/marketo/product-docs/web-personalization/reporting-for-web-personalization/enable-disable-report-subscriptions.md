@@ -17,4 +17,3 @@ Web Personalization has a several useful reports which are sent via email. Here'
    ![](assets/email-settings.png)
 
    That's it! To unsubscribe from the report simply uncheck and click **Save**.
-

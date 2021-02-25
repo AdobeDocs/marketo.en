@@ -15,9 +15,10 @@ To implement your RTP tag please follow the installation instructions below:
    ![](assets/image2014-11-30-15-3a35-3a30.png)
 
 1. In the list of template files to the right of the text editor, find **header.php** and open it.
-1. Go to **Account Settings.**
 
-   If you have already received your JavaScript tag from Support - continue to step 5.  
+1. Go to **Account Settings**.
+
+   a. If you have already received your JavaScript tag from Support - continue to step 5.  
 
    ![](assets/image2014-11-30-15-3a19-3a21-1.png)
 
@@ -27,11 +28,12 @@ To implement your RTP tag please follow the installation instructions below:
 
 1. Copy the RTP JavaScript tag and paste it to your website templates.
 
-   Make sure it’s the first script at the header of the page - between the **`<head> </head>`** tags.
+   a. Make sure it’s the first script at the header of the page - between the **`<head> </head>`** tags.
 
    ![](assets/image2014-11-30-15-3a36-3a31.png)
 
 1. Click on **Update File** for the header.php file.
-1. Verify that it appears on all `pages including` landing pages and sub-domains.
 
-   You can do this by right-clicking on you `website’s` page. Go to **View Page Source.** Search for **RTP** to locate the tag.
+1. Verify that it appears on all pages including landing pages and sub-domains.
+
+   a. You can do this by right-clicking on you website’s page. Go to **View Page Source.** Search for **RTP** to locate the tag.

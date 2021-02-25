@@ -8,20 +8,22 @@ title: Implementing RTP on Wordpress Enterprise
 
 To implement your RTP tag please follow the installation instructions below:
 
-1. Go to** Account Settings.**
+1. Go to **Account Settings**.
 
-    1. If you have already received your JavaScript tag from Support - continue to step 3.  
-       ![](assets/image2014-11-30-15-3a19-3a21-3.png)
+   a. If you have already received your JavaScript tag from Support - continue to step 3.
+
+   ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
 1. Under Domain, locate the relevant domain and click **Generate Tag**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
 1. Copy the RTP JavaScript tag.
-1. Login to your WordPress account as Admin User
 
-   1. Under **Appearance**, go to **Custom JavaScript**.
-   1. Paste the RTP Javascript tag right after the existing code.  
+1. Log in to your WordPress account as Admin User
+
+   a. Under **Appearance**, go to **Custom JavaScript**.
+   b. Paste the RTP Javascript tag right after the existing code.  
 
       ![](assets/image2014-12-3-17-3a51-3a46.png)
 
@@ -33,7 +35,7 @@ To implement your RTP tag please follow the installation instructions below:
    >* `<script type='text/javascript'>`
    >* `</script>`
    >* `<!-- End of RTP tag -->`
-   >    
+   >
    >Insert the script itself ONLY.
 
 1. Click **Update**.

@@ -30,7 +30,6 @@ Create and upload a list of organization and domain names to target these key ac
    >
    >**What is the format for the CSV File?**
    >
-   >
    >Make sure the named account CSV file meets the following requirements:
    >
    >* Saved as a CSV format
@@ -42,8 +41,6 @@ Create and upload a list of organization and domain names to target these key ac
 
    >[!NOTE]
    >
-   >**Example**
-   >
    >**Example of the CSV file**
    >
    >* Row 1 Column A value = Organization
@@ -53,14 +50,14 @@ Create and upload a list of organization and domain names to target these key ac
    >* One of the column values is mandatory. However, providing both Organization and Domain names improves the match rates of the Account List.
    >* Country and State are optional values.
    >
-   >  * For country name, use full country name or abbreviation code. Eg. United States or US.
-   >  * For a U.S. State, use the 2-letter abbreviation code, i.e. CA. Only U.S. states are recognized.
-   >    
+   >   * For country name, use full country name or abbreviation code. Eg. United States or US.
+   >   * For a U.S. State, use the 2-letter abbreviation code, i.e. CA. Only U.S. states are recognized.
+   >
    >![](assets/image2015-2-25-12-3a19-3a10.png)
 
 ## Edit an Account List {#edit-an-account-list}
 
-On the **Account Lists** page, click the **Edit **icon on the list.
+On the **Account Lists** page, click the **Edit** icon on the list.
 
 ![](assets/create-new-account-list-edit.jpg)
 
@@ -72,7 +69,7 @@ The CSV file will replace the existing file. The existing list will remain activ
 
 ## Delete a Named Account List {#delete-a-named-account-list}
 
-1. On the **Account Lists **page, click the **Delete **icon of the list you wish to delete.
+1. On the **Account Lists** page, click the Delete icon of the list you wish to delete.
 
    ![](assets/create-new-account-list-delete.jpg)
 
@@ -82,5 +79,4 @@ The CSV file will replace the existing file. The existing list will remain activ
 
 >[!MORELIKETHIS]
 >
->* [Create a Segment Using an Account List](create-a-segment-using-an-account-list.md)
->* [View a Named Account List](https://docs.marketo.com/pages/viewpage.action?pageid=4720244)
+>[Create a Segment Using an Account List](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)

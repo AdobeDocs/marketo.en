@@ -8,15 +8,14 @@ title: Retargeting with Web Personalization Data
 
 >[!AVAILABILITY]
 >
->
 >Website Retargeting now falls under the Web Personalization tile. If you only purchased Retargeting, you will see this tile and access the Web Personalization product with **only** Retargeting features enabled. This gives you access to account settings, the Retargeting page, segments, and additional tracking pages.
 
 Remarketing targets prospects who have visited your site in the past with display advertising based on who they are and what they did. Personalized retargeting targets specific audiences with relevant ads based on industry, named accounts, and known person data.
 
 Web Personalization currently appends data to the following remarketing platforms:
 
-* [Google](personalized-remarketing-in-google.md)
-* [Facebook](personalized-remarketing-in-facebook.md)
+* [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+* [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
 Web Personalization sends the following data through to the remarketing platforms to create audiences and run remarketing ad campaigns:
 
@@ -60,14 +59,13 @@ Web Personalization sends the following data through to the remarketing platform
 
    >[!NOTE]
    >
-   >You need to have the Google Retargeting Tag implemented on your website. 
-   >
+   >You need to have the Google Retargeting Tag implemented on your website.
    >
    >If you already setup your Integration with Web Personalization and Google Analytics, you do not need to edit this part as it is the same configuration under Account Settings.
 
    ![](assets/two.png)
 
-1. Activate the configuration for Facebook. Click and expand the Facebook accordion, Click **On **to send the respective Event and data through to Facebook Audience Manager. Click **Save**.
+1. Activate the configuration for Facebook. Click and expand the Facebook accordion, Click **On** to send the respective Event and data through to Facebook Audience Manager. Click **Save**.
 
    >[!NOTE]
    >
@@ -91,11 +89,6 @@ A Segmented Audience allows you to select an existing Segment as an audience to 
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. Click **SAVE**.
+1. Click **Save**.
 
    You have now completed the Retargeting Setup in Web Personalization, login to your retargeting platforms and create your audiences based on this data and set up your retargeting ad campaigns.
-
->[!MORELIKETHIS]
->
->* [Personalized Remarketing in Google](personalized-remarketing-in-google.md)
->* [Personalized Remarketing in Facebook](personalized-remarketing-in-facebook.md)

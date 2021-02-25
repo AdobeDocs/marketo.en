@@ -10,8 +10,7 @@ Here's how to create a segment using an Account List.
 
 >[!PREREQUISITES]
 >
->* [Create a New Account List](../../../product-docs/account-based-marketing/target/account-lists.md)
->
+>[Create a New Account List](/help/marketo/product-docs/account-based-marketing/target/account-lists.md)
 
 1. Go to **Segments**.
 
@@ -34,6 +33,7 @@ Here's how to create a segment using an Account List.
    >Account Lists are synced from ABM to Web Personalization for use in Segmentation. Select them from the drop-down. The sync can take up to five minutes. It will only sync if there are one or more Named Accounts in the Account List.
 
 1. Click **Save**, or click **Save & Define Campaign** to go to the Campaigns page.  
+
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
 Congratulations! You've now set up a segment targeting an Account List.

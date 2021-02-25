@@ -16,7 +16,7 @@ Some insights into the world and language of Marketo Web Personalization.
 | **ISP** |Internet Service Provider |
 | **Known Visitor** |A web visitor who has completed a form and left their details (email address) on your website or clicked a link in a Marketo email. |
 | **Account List** |A list of key account / organization names. Also known as an Account-Based Marketing (ABM) list. |
-| **Segments** |A collection of visitors that meet the specified criteria defined in the [‘Set a Segment’ page](../../../product-docs/web-personalization/using-web-segments/web-segments.md). |
+| **Segments** |A collection of visitors that meet the specified criteria defined in the [‘Set a Segment’ page](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md). |
 | **Split Testing** |A testing experiment with two or more variants to measure the difference in results. The goal is to identify changes to web pages that increase or maximize an outcome of interest. |
 | **Wildcard** |A wildcard character (&#42; is used) that is used before or after a string to substitute for any other character or characters in a string. See the examples below. |
 
@@ -35,4 +35,3 @@ Match all visitors on page URLs that start with https:// (for example, [https://
 Match all visitors on page URLs that include the word backup (for example, [https://www.marketo.com/backup/pricing.html):](https://www.marketo.com/backup/pricing.html):)
 
 ![](assets/wildcard-example-3.png)
-

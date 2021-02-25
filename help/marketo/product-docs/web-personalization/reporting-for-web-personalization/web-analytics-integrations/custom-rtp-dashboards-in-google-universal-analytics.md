@@ -8,21 +8,23 @@ title: Custom RTP Dashboards in Google Universal Analytics
 
 >[!PREREQUISITES]
 >
->[Integrate RTP with Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Integrate RTP with Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-This post explains how to setup RTP dashboards in Google Universal Analytics (GUA).  The data sent from RTP to GUA can be set up as two separate custom dashboards called:
+This post explains how to setup RTP dashboards in Google Universal Analytics (GUA). The data sent from RTP to GUA can be set up as two separate custom dashboards called:
 
 * RTP B2B
 * RTP Engagement
 
 ## Setting up a Custom Dashboard {#setting-up-a-custom-dashboard}
 
-1. Login to Google Analytics. Click on **Reporting **in the top menu. Click **Dashboards **and **+New Custom Dashboard.** 
+1. Log in to Google Analytics. Click on **Reporting** in the top menu. Click **Dashboards** and **+New Custom Dashboard**.
+
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
 1. Select **Blank Canvas**, add a **Dashboard Name** and click **Create Dashboard**.
 
-1. Click **Add Widget** to create a new widget.  
+1. Click **Add Widget** to create a new widget.
+
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
 ## RTP B2B Dashboard {#rtp-b-b-dashboard}
@@ -37,7 +39,7 @@ The dashboard consists of 3 columns
 * Segmentation
 * Firmographic drill down
 
-1. Create a new dashboard called **RTP B2B Dashboard **and define the following widgets:
+1. Create a new dashboard called **RTP B2B Dashboard** and define the following widgets:
 
 ![](assets/image2015-3-22-16-3a50-3a3.png)
 
@@ -46,7 +48,7 @@ The dashboard consists of 3 columns
   <tr> 
    <th> 
     <div>
-      Column 1 - Traffic Sources 
+      Column 1 - Traffic Sources
     </div></th> 
    <th> 
     <div> <strong>Column 2 - Segmentation</strong> 
@@ -143,11 +145,9 @@ The dashboard consists of 3 columns
 
 This dashboard allows users to analyze their RTP campaign performance and recommendation engine engagements. It provides comparison of avg. session duration and pages per session between:
 
-*
-
-    * Unengaged
-    * Engaged (impressions and clicks on a personalized campaign)
-    * Clicks on the Recommendation Engine and top recommended content
+* Unengaged
+* Engaged (impressions and clicks on a personalized campaign)
+* Clicks on the Recommendation Engine and top recommended content
 
 Create a new dashboard called **RTP Engagement Dashboard** and define the following widgets:
 
@@ -257,7 +257,6 @@ Create a new dashboard called **RTP Engagement Dashboard** and define the follow
 
 >[!MORELIKETHIS]
 >
->[Integrate RTP with Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Integrate RTP with Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
 >
->[Custom RTP Reports in Google Universal Analytics](custom-rtp-reports-in-google-universal-analytics.md)
-
+>[Custom RTP Reports in Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)

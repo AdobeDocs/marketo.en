@@ -57,40 +57,38 @@ Complete the following steps to set up these variables in AA:
 
 1. Go to **Admin Tools** in your AA account.
 1. Select the **Report Suite** to be used with the integration.
-1. Under **Edit Settings,** go to **Conversion** and select ** [Conversion Variables](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.  
+1. Under **Edit Settings**, go to **Conversion** and select **[Conversion Variables](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.  
    Select the [Conversion Variable](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) number (we recommend):
 
-    1.
+    1. Evar # 20 for Industry Custom Conversions
+    1. Evar # 21 for Organization Custom Conversions
 
-        1. Evar # 20 for Industry Custom Conversions
-        1. Evar # 21 for Organization Custom Conversions
+    >[!NOTE]
+    >
+    >If these # are taken select another available number. Align this number with the slot number in RTP Account Settings.
 
-           >[!NOTE]
-           >
-           >If these # are taken select another available number. Align this number with the slot number in RTP Account Settings.
+    1. Change Status to _Enabled_.
 
-        1. Change Status to* Enabled*
+       1. Change Name to **Industry** and **Organization**. (This is how it will appear in the Report Suite.)
 
-            1. Change Name to **Industry** and **Organization**. (This is how it will appear in the Report Suite.)
-            
-            1. Change Expire After field to **Visit.**
+       1. Change Expire After field to **Visit**.
 
-1.   Under **Edit Settings **go to **Conversion** and select ** [Success Events](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**. 
+1. Under **Edit Settings** go to **Conversion** and select **[Success Events](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
     1. Select the Custom Success Events Event number (we recommend):
 
         1. event20 for RTP Campaigns
         1. event21 for RTP Segments
 
-           >[!NOTE]
-           >
-           >If these # are taken select another available number. Align this number with the slot number in RTP Account Settings.
+        >[!NOTE]
+        >
+        >If these # are taken select another available number. Align this number with the slot number in RTP Account Settings.
 
         1. Change the two events names to **RTP Campaigns** and **RTP Segments**. This is the name that will appear in the Report Suite.
 
-    1. Select the Type* *field to be **Counter (no subrelations)**
+    1. Select the Type field to be **Counter (no subrelations)**
 
-1. Under **Edit Settings** go to ** [Traffic](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **and select ** [Traffic Variables](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+1. Under **Edit Settings** go to **[Traffic](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** and select **[Traffic Variables](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
     1. Select the Traffic Variable Property # (we recommend):
 
@@ -99,14 +97,15 @@ Complete the following steps to set up these variables in AA:
         1. Property # 25 - Name: Campaign Organization
         1. Property # 26 - Name: RTP Campaign Industry
 
-           >[!NOTE]
-           >
-           >If these # are taken select another available number. Align this number with the slot number in RTP Account Settings)
+        >[!NOTE]
+        >
+        >If these # are taken select another available number. Align this number with the slot number in RTP Account Settings)
 
         1. Change the 4 property names. This is the name that will appear in the Report Suite.
 
-    1. Select Enabled field to **Enabled**
-    1. Select Path Reports field to **Enabled**
+    1. Select Enabled field to **Enabled**.
+
+    1. Select Path Reports field to **Enabled**.
 
 ## Set up in Marketo Real-Time Personalization (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
 
@@ -116,9 +115,9 @@ Complete the following steps to set up these variables in AA:
 
 1. Under **Account Settings**, click **Domain**.
 1. Under **Analytics, click** **Adobe Analytics**.
-1. Turn **On **the Conversion, Custom and Traffic variable toggles.
+1. Turn **On** the Conversion, Custom and Traffic variable toggles.
 1. Assign the Conversion, Event and Traffic Variables **slot numbers** to match the slot numbers created in AA
-1. Click **SAVE**.
+1. Click **Save**.
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
 
@@ -156,13 +155,11 @@ Examples of customized reports and dashboards in AA include:
 * Pages viewed per organization
 * Marketing channel performance according to Organization, Industry, Segments
 
-**Report Examples**
+**-Report Examples-**
 
 **Top Industries Report**
 
-** ![](assets/top-industries-report.png)
-
-**
+   ![](assets/top-industries-report.png)
 
 **Organizations Report**
 
@@ -172,39 +169,47 @@ Examples of customized reports and dashboards in AA include:
 
 Create a [new dashboard](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), called **RTP Dashboard**. This dashboard will help understand the breakdown of your visitors according to verticals and RTP segments.
 
-1. Click **Dashboard,** click** Add Dashboard**
+1. Click **Dashboard,** click **Add Dashboard**.
 
-1. Name the Dashboard **RTP Dashboard**
-1. Select the **dashboard size** 3 x 2, 2 x 2
-1. Create the [reportlet](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) and add [content to the dashboard](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
+1. Name the Dashboard **RTP Dashboard**.
+
+1. Select the **dashboard size** 3 x 2, 2 x 2.
+
+1. Create the [reportlet](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) and add [content to the dashboard](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard).
 
 Adding the Industries Reportlet to the Dashboard
 
-1. Go to **Custom Conversions**, click on **Industry**
+1. Go to **Custom Conversions**, click on **Industry**.
 
-1. Configure Graph to **Pie Chart**
-1. Click on **Dashboard**, add **Reportlet**
+1. Configure Graph to **Pie Chart**.
 
-1. Name the report **Top Industries**
-1. Place in Dashboard **RTP Dashboard**
+1. Click on **Dashboard**, add **Reportlet**.
+
+1. Name the report **Top Industries**.
+
+1. Place in Dashboard **RTP Dashboard**.
+
 1. Create **New**.
 
 Adding the Segments Reportlet to the Dashboard
 
-1. Go to **Site Metrics, **Click on **Custom Events, Segments**
+1. Go to **Site Metrics**. Click on **Custom Events**, **Segments**.
 
-1. Configure Graph to **Vertical Bar**
-1. Click on **Dashboard**, add **Reportlet**
+1. Configure Graph to **Vertical Bar**.
 
-1. Name the report **Top Segments**
-1. Place in Dashboard **RTP Dashboard**
-1. Create **New.**
+1. Click on **Dashboard**, add **Reportlet**.
+
+1. Name the report **Top Segments**.
+
+1. Place in Dashboard **RTP Dashboard**.
+
+1. Create **New**.
 
 Your reportlets will be displayed in the dashboard.
 
 ## View Impressions and Clicks (Conversions) in Adobe Analytics {#view-impressions-and-clicks-conversions-in-adobe-analytics}
 
-1. Click Custom Links.
+1. Click **Custom Links**.
 
    ![](assets/sitecatalyst1-1.png)
 
@@ -214,4 +219,3 @@ Your reportlets will be displayed in the dashboard.
 1. Search for Conversion to view Segment and Campaign names representing the number of clicks for the campaign.
 
    ![](assets/sitecatalyst2.png)
-

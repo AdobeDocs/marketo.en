@@ -6,7 +6,7 @@ title: Create a Segment Using a Static List
 
 # Create a Segment Using a Static List {#create-a-segment-using-a-static-list}
 
-Segment known web visitors when they visit your website based on if they're in or not in one of your Marketo [static lists](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists).
+Segment known web visitors when they visit your website based on if they're in or not in one of your Marketo [static lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md).
 
 1. Go to **Segments**.
 
@@ -20,7 +20,7 @@ Segment known web visitors when they visit your website based on if they're in o
 
    ![](assets/three.png)
 
-1. In Known Leads, drag **Static Lists **over to the canvas.
+1. In Known Leads, drag **Static Lists** over to the canvas.
 
    ![](assets/four-2.png)
 
@@ -40,7 +40,6 @@ Segment known web visitors when they visit your website based on if they're in o
    >
    >The and/or drop-down is just that. Click it to select **and**, **or**, or **and/or**.
 
-1. Click **Save** to save the segment or **Save & Define Campaign **to save and go to the Campaigns page.
+1. Click **Save** to save the segment or **Save & Define Campaign** to save and go to the Campaigns page.
 
    ![](assets/eight-1.png)
-

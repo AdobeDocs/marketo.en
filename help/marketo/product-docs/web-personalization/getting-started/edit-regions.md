@@ -21,4 +21,3 @@ Looking to change your user regional settings to only see data for your specific
 >[!NOTE]
 >
 >Selecting the United States, will open up at the bottom of the page all the US States options to select.
-

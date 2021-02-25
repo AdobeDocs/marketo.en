@@ -12,11 +12,11 @@ Speed up and simplify your web campaign creation process by using our built in t
 >
 >Templates are optimized for all devices and browsing experiences for both desktop and mobile.
 
-1. Go to Web Campaigns.
+1. Go to **Web Campaigns**.
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Click Create New Web Campaign.
+1. Click **Create New Web Campaign**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -28,15 +28,13 @@ Speed up and simplify your web campaign creation process by using our built in t
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Click Templates.
+1. Click **Templates**.
 
    ![](assets/templates.png)
 
 1. Select the appropriate area for your campaign to see and select a template that works for you.
 
    >[!NOTE]
-   >
-   >**Reminder**
    >
    >There are some cool templates to choose from, and we will add more in the future.
 
@@ -50,7 +48,7 @@ Speed up and simplify your web campaign creation process by using our built in t
 
    ![](assets/customize-template.jpg)
 
-1. Click Save.
+1. Click **Save**.
 
    ![](assets/click-save-hand.jpg)
 
@@ -58,6 +56,4 @@ Nicely done! Did you see how much time you saved by using a template?
 
 >[!MORELIKETHIS]
 >
->* [Save a Campaign as a Template](save-your-campaign-as-a-template.md)
->
-
+>[Save a Campaign as a Template](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
