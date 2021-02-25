@@ -8,10 +8,12 @@ title: Manage Person Data
 
 Leverage Person Data for Web Personalization by selecting person fields to use in your segmentation.
 
-1. Go to **Account Settings**.  
+1. Go to **Account Settings**.
+
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Go to **Database**.  
+1. Go to **Database**.
+
    ![](assets/account-settings-dropdown-database.jpg)
 
 ## Adding a New Person field {#adding-a-new-person-field}
@@ -22,12 +24,7 @@ Leverage Person Data for Web Personalization by selecting person fields to use i
 
    >[!NOTE]
    >
-   >
-   >    
-   >    
-   >    * A new field is added in a pending state and can take up to 24 hours to activate.
-   >    
-   >
+   >A new field is added in a pending state and can take up to 24 hours to activate.
 
 ## Deleting a Person Field {#deleting-a-person-field}
 
@@ -39,15 +36,11 @@ Leverage Person Data for Web Personalization by selecting person fields to use i
    >
    >**Managing your Person Data fields**
    >
-   >    
-   >    
-   >    * Only Person Data Fields can be included
-   >    * You may add up to 30 Person Data Fields
-   >    * Adding New Fields can take up to 24 hours to activate
-   >    * Maximum length of string types are 255 characters
-   >    * Hidden fields will be removed automatically
-   >    
-   >
+   >* Only Person Data Fields can be included
+   >* You may add up to 30 Person Data Fields
+   >* Adding New Fields can take up to 24 hours to activate
+   >* Maximum length of string types are 255 characters
+   >* Hidden fields will be removed automatically
 
 <table> 
  <tbody> 
@@ -99,10 +92,8 @@ Leverage Person Data for Web Personalization by selecting person fields to use i
  </tbody> 
 </table>
 
-The following lead fields are provided out of the box for new Web Personalization accounts: 
+The following lead fields are provided out of the box for new Web Personalization accounts:
 
 >[!MORELIKETHIS]
 >
->* [Create a Segment Using Known Person Data](create-a-segment-using-known-person-data.md)
->
-
+>[Create a Segment Using Known Person Data](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)

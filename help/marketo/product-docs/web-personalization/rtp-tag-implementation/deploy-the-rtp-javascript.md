@@ -14,7 +14,7 @@ To generate and set up your RTP tag please follow the installation instructions 
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. In **Domain** and **Domain Configuration**, locate the relevant domain and click **Generate Tag.**
+1. In **Domain** and **Domain Configuration**, locate the relevant domain and click **Generate Tag**.
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
@@ -35,7 +35,3 @@ To generate and set up your RTP tag please follow the installation instructions 
    You are now set up with the RTP tag and ready to start [creating segments](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) and real-time campaigns!
 
 1. Verify tag is on all pages.
-
->[!MORELIKETHIS]
->
->* [RTP Tag Implementation](https://docs.marketo.com/display/docs/rtp+tag+implementation)

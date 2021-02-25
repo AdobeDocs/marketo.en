@@ -8,9 +8,9 @@ title: Custom RTP Reports in Google Universal Analytics
 
 >[!PREREQUISITES]
 >
->[Integrate RTP with Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Integrate RTP with Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-This post explains how to setup RTP custom reports for Google Universal Analytics (GUA).  The data sent from RTP to GUA can be set up as two separate custom reports called:
+This article explains how to setup RTP custom reports for Google Universal Analytics (GUA).  The data sent from RTP to GUA can be set up as two separate custom reports called:
 
 * RTP B2B
 * RTP Engagement
@@ -18,31 +18,32 @@ This post explains how to setup RTP custom reports for Google Universal Analytic
 ## Setting up a Custom Report {#setting-up-a-custom-report}
 
 1. Log in to Google Analytics.
-1. Click on **Customization **in the top menu.
-1. Click **+New Custom Report.**
 
-** ![](assets/image2015-3-22-16-3a10-3a48.png)
+1. Click on **Customization** in the top menu.
 
-**
+1. Click **+New Custom Report**.
+
+![](assets/image2015-3-22-16-3a10-3a48.png)
 
 ## RTP B2B Report {#rtp-b-b-report}
 
 1. Name the report **RTP B2B Report**.
-1. Name the 1st tab **Industry **
 
-    1. (Note: you will **Duplicate this tab** and create additional similar ones - step 5)
+1. Name the 1st tab **Industry**.
 
-1. Select the** Explorer** report type.  
-   ** ![](assets/image2015-3-22-16-3a15-3a25.png)
+>[!NOTE]
+>
+>You will **Duplicate this tab** and create additional similar ones - step 5)
 
-   **
+1. Select the **Explorer** report type.
+
+   ![](assets/image2015-3-22-16-3a15-3a25.png)
 
 1. In the **Metric Groups** section, select the metrics that are relevant for your business.
 
-    1. We recommend the following:  
-       ** ![](assets/image2015-3-22-16-3a16-3a40.png)    
-    
-       **
+    a. We recommend the following:
+
+   ![](assets/image2015-3-22-16-3a16-3a40.png)
 
 1. Duplicate this tab 4 times and name them:
 
@@ -65,7 +66,7 @@ This post explains how to setup RTP custom reports for Google Universal Analytic
     </div></th> 
    <th> 
     <div>
-      Dimension Drill downs 
+      Dimension Drill downs
     </div></th> 
   </tr> 
  </thead> 
@@ -93,21 +94,28 @@ This post explains how to setup RTP custom reports for Google Universal Analytic
  </tbody> 
 </table>
 
-1. Do not set any filters and set this report to be available for **All Web Site Data **(or change if relevant to specific Analytics account).
-1. Click **Save**.  
+1. Do not set any filters and set this report to be available for **All Web Site Data** (or change if relevant to specific Analytics account).
+
+1. Click **Save**.
+
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
 ## RTP Engagement Report {#rtp-engagement-report}
 
-1. Name the report **RTP Engagement Report.**
-1. Set the 1st tab name to **All Engagement**
+1. Name the report **RTP Engagement Report**.
 
-    1. (Note: you will Duplicate this tab and create additional similar ones - step 5)
+1. Set the 1st tab name to **All Engagement**.
 
-1. Select the **Explorer** report type.  
+>[!NOTE]
+>
+>You will Duplicate this tab and create additional similar ones - step 5)
+
+1. Select the **Explorer** report type.
+
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. In the Metric Groups section, select the metrics that are relevant for your business. Here is a recommendation:  
+1. In the Metric Groups section, select the metrics that are relevant for your business. Here is a recommendation:
+
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
 1. Duplicate this tab 4 times and name them:
@@ -118,7 +126,7 @@ This post explains how to setup RTP custom reports for Google Universal Analytic
     1. **Engagement by Category**
     1. **Engagement by ABM**
 
-   ** ![](assets/image2015-3-22-16-3a26-3a21.png)\**
+   ![](assets/image2015-3-22-16-3a26-3a21.png)
 
 1. In the **Dimension Drill downs** section set the relevant dimensions for each tab as below:
 
@@ -160,7 +168,6 @@ This post explains how to setup RTP custom reports for Google Universal Analytic
 </table>
 
 1. Set the following filters:
-1. 
 
 <table> 
  <thead> 
@@ -205,7 +212,7 @@ This post explains how to setup RTP custom reports for Google Universal Analytic
  </tbody> 
 </table>
 
-1. Set this report to be available for **All Web Site Data **(or change if necessary)
+1. Set this report to be available for **All Web Site Data** (or change if necessary).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
@@ -215,7 +222,6 @@ This post explains how to setup RTP custom reports for Google Universal Analytic
 
 >[!MORELIKETHIS]
 >
->[Integrate RTP with Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Integrate RTP with Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 >
->[Custom RTP Dashboards in Google Universal Analytics](custom-rtp-dashboards-in-google-universal-analytics.md)
-
+>[Custom RTP Dashboards in Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)

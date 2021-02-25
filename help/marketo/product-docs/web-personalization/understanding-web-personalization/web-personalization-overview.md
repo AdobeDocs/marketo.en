@@ -8,34 +8,34 @@ title: Web Personalization Overview
 
 ## Introduction {#introduction}
 
-For new Marketo customers, Real-Time Personalization is divided into four apps, accessed using these two tiles: Web Personalization and Content`<sup>AI</sup>`.
+For new Marketo customers, Real-Time Personalization is divided into four apps, accessed using these two tiles: Web Personalization and ContentAI.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->Web Personalization and Content`<sup>AI</sup>` are available in all Marketo-supported languages (English, French, German, Japanese, Portuguese, Spanish).
+>Web Personalization and ContentAI are available in all Marketo-supported languages (English, French, German, Japanese, Portuguese, Spanish).
 
 Existing customers continue to access the apps through the Real-Time Personalization tile until renewal, at which time they will use the login above.
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-When you click the Web Personalization tile, the Dashboard page appears. Click the Content`<sup>AI</sup>` tile and you go directly to the Content Recommendations page.
+When you click the Web Personalization tile, the Dashboard page appears. Click the ContentAI tile and you go directly to the Content Recommendations page.
 
 The four apps are:
 
 * Web Personalization
 * Account-Based Web Marketing
 * Website Retargeting
-* Content`<sup>AI</sup>`
+* ContentAI
 
-The** Web Personalization **tile is your access point for** **creating personalized web campaigns.** **Account-Based Web Marketing and Web Retargeting. You can add content on the Content Analytics page.
+The **Web Personalization** tile is your access point for creating personalized web campaigns. Account-Based Web Marketing and Web Retargeting. You can add content on the Content Analytics page.
 
 **Account-Based Web Marketing** works with Web Personalization and features Named Accounts. The Named Accounts page provides graphical information on existing customers, total engagements, and organizational trends, as well as a list of the accounts. You can create new named accounts there as well.
 
 **Website Retargeting** gives you the power to remarket to segmented audiences. You can set segments, but can’t use Named Accounts in the filter.
 
-**Content`<sup>AI</sup>`** is the place to give content recommendations. You can add content easily to the Content Recommendations page.
+**ContentAI** is the place to give content recommendations. You can add content easily to the Content Recommendations page.
 
 >[!NOTE]
 >
@@ -54,7 +54,6 @@ The Organizations tab displays all the details (name, location, activity and tim
 >* Most Active: the most active organizations in the table, based on number of page views
 >* Latest: the most recent organizations in the table (default)
 >* For valuable insights, filter according to most active
->
 
 **Organizations - Right-hand Panel**
 
@@ -122,7 +121,7 @@ The right-hand panel of the Visitors page provides the following insights:
 
 ![](assets/wp-real.jpg)
 
-The Real-Time page displays visitors on your website in real-time, measuring the activity as it happens. 
+The Real-Time page displays visitors on your website in real-time, measuring the activity as it happens.
 
 ![](assets/image2014-11-10-19-3a49-3a55.png)
 
@@ -162,4 +161,3 @@ The Real-time page is split into 6 informative tables of onsite visitor details:
   </tr> 
  </tbody> 
 </table>
-

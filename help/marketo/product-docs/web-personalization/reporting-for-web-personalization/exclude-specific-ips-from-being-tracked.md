@@ -35,4 +35,3 @@ You can exclude individual IPs and all or part of a range of IPs.
    ![](assets/exclude-ips-after.png)
 
    Did you see how easy that was? Now you can exclude all data from the IPs added, either individually or by range.
-

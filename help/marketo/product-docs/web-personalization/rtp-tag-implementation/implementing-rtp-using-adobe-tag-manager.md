@@ -8,10 +8,11 @@ title: Implementing RTP using Adobe Tag Manager
 
 To implement your RTP tag please follow the installation instructions below:
 
-1. Login to your RTP account.
-1. Go to **Account Settings.**
+1. Log in to your RTP account.
 
-   If you have already received your JavaScript tag from Support - continue to step 4.
+1. Go to **Account Settings**.
+
+   a. If you have already received your JavaScript tag from Support - continue to step 4.
 
    ![](assets/image2014-11-30-15-3a19-3a21-4.png)
 
@@ -20,11 +21,12 @@ To implement your RTP tag please follow the installation instructions below:
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 
 1. Login to your Dynamic Tag Manager account ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
+
 1. Go to **Dashboard.** Click on the relevant web property.
 
-   ![](assets/image2014-12-3-17-3a58-3a17.png)  
+   ![](assets/image2014-12-3-17-3a58-3a17.png)
 
-1. Go to **Rules,** click **Create New Rule.**
+1. Go to **Rules**, click **Create New Rule**.
 
 1. Fill out the following
 
@@ -34,7 +36,8 @@ To implement your RTP tag please follow the installation instructions below:
 
    ![](assets/image2014-12-3-17-3a59-3a40.png)
 
-1. Call the new tag: **Marketo RTP Tag** 
+1. Call the new tag: **Marketo RTP Tag**
+
 1. Remove the following code from the RTP tag
 
    * `<script type='text/javascript'>`
@@ -54,6 +57,6 @@ To implement your RTP tag please follow the installation instructions below:
 
    ![](assets/image2014-12-3-18-3a4-3a14.png)
 
-1.  **Verify** that it appears on all pages including landing pages and sub-domains.
+1. **Verify** that it appears on all pages including landing pages and sub-domains.
 
-    You can do it by right-clicking on your website’s pages. Go to **Inspect Element**, click on **Network, **Search: **RTP**.
+    You can do it by right-clicking on your website’s pages. Go to **Inspect Element**, click on **Network**, Search: **RTP**.

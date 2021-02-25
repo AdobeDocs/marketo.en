@@ -10,13 +10,13 @@ Personalized Remarketing lets you re-engage with your users using RTP Data and t
 
 >[!PREREQUISITES]
 >
->* Complete the [Retargeting with Web Personalization Data](retargeting-with-web-personalization-data.md) setup
->* Review the [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook documentation on Custom Audiences](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)and Remarketing
->
+>* Complete the [Retargeting with Web Personalization Data](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) setup
+>* Review the [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook documentation on Custom Audiences](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) and Remarketing.
 
 ## Creating an Audience in Facebook {#creating-an-audience-in-facebook}
 
 1. In Facebook, go to your [Audience tab](https://www.facebook.com/ads/audience_manager) in Ads Manager.
+
 1. Click **Tools** and select **Audiences**.
 
    ![](assets/one-1.png)
@@ -29,7 +29,7 @@ Personalized Remarketing lets you re-engage with your users using RTP Data and t
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. In the Website traffic list, select** Custom Combination**.
+1. In the Website traffic list, select **Custom Combination**.
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
@@ -37,7 +37,7 @@ Personalized Remarketing lets you re-engage with your users using RTP Data and t
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. In the Event list, select **RTP Remarketing **and select a parameter.
+1. In the Event list, select **RTP Remarketing** and select a parameter.
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
@@ -122,7 +122,5 @@ For additional details, see [Facebook's documentation](https://developers.facebo
 
 >[!MORELIKETHIS]
 >
->* [Retargeting with Web Personalization Data](retargeting-with-web-personalization-data.md)
->* [Personalized Remarketing in Google](personalized-remarketing-in-google.md)
->
-
+>* [Retargeting with Web Personalization Data](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Personalized Remarketing in Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)

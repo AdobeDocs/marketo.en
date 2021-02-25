@@ -24,13 +24,13 @@ title: Login and User Management
 
    ![](assets/three-1.png)
 
-1. Enter a Role Name and select Permissions. Click **Create** (this role must [apply to all workspaces](https://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
+1. Enter a Role Name and select Permissions. Click **Create** (this role must [apply to all workspaces](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)).
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >To give users permission to access everything in Targeting and Personalization, be sure to select *all* the checkboxes.
+   >To give users permission to access everything in Targeting and Personalization, be sure to select _all_ the checkboxes.
 
 ## Web Personalization and Predictive Content User Permissions {#web-personalization-and-predictive-content-user-permissions}
 

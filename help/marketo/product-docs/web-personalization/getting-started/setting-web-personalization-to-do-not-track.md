@@ -27,4 +27,3 @@ In Web Personalization and Predictive Content, a marketer can set a toggle to in
    >Setting the toggle to On might affect Marketo’s value and functionality in specific areas.
 
 1. To disable the Honor DNT toggle and ignore the browser’s Do No Track (DNT) setting, select **Off** under Honor DNT.
-

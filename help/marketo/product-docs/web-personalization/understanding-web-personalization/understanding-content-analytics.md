@@ -20,13 +20,13 @@ On the Content Analytics page, you can:
 * Search by Content Title and Content URL
 * Sort in descending or ascending order by clicking the column title for Views, Direct Conversions, and Conversion Rate.
 
-![](assets/content-analytics-8-29-16-blur.png)   
+![](assets/content-analytics-8-29-16-blur.png)
 
-You can also export a file in CSV format by clicking the icon. 
+You can also export a file in CSV format by clicking the icon.
 
 ![](assets/image2016-8-29-13-3a51-3a49.png)
 
-The Analytics table provides the following details: 
+The Analytics table provides the following details:
 
 <table> 
  <thead> 
@@ -93,5 +93,5 @@ From the Content Analytics page, click on the delete icon of the Content you wis
 
 >[!MORELIKETHIS]
 >
->* [Enable the Content Recommendation Bar](../../../product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
->* [Enable Predictive Content for Web Rich Media](../../../product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>* [Enable the Content Recommendation Bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
+>* [Enable Predictive Content for Web Rich Media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

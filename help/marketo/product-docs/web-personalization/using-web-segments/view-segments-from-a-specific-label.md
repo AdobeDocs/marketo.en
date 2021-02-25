@@ -10,7 +10,7 @@ Looking to view and filter your segments according to a specific label?
 
 ## Filter by Existing Labels {#filter-by-existing-labels}
 
-Under the labels drop-down select the label of your choice. 
+Under the labels drop-down select the label of your choice.
 
 ![](assets/image2014-11-26-13-3a44-3a23.png)
 

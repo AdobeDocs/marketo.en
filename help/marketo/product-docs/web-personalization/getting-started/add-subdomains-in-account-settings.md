@@ -30,5 +30,4 @@ Here's how to add subdomains to your primary domains in Account Settings. This w
 
    >[!NOTE]
    >
-   >If you want to add *primary* domains to your account, please contact [Marketo Support](https://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133).
-
+   >If you want to add _primary_ domains to your account, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).

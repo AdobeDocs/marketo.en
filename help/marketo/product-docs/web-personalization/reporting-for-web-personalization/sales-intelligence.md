@@ -24,4 +24,4 @@ In [User Settings](/help/marketo/product-docs/web-personalization/getting-starte
 
 >[!MORELIKETHIS]
 >
->* [Email Reports](email-reports.md)
+>[Email Reports](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)

@@ -21,7 +21,7 @@ title: Integrate RTP with Google Analytics
 >* Custom variables
 >* User defined variables
 >
->See how to integrate [Web Personalization with Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>See how to integrate [Web Personalization with Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 ## Introduction {#introduction}
 
@@ -57,19 +57,23 @@ Measure your RTP campaigns and correlate them with your overall site average. Le
 
 ## Setting up RTP with Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Add the email [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b), as a Read & Analyze user to your GA account. For more details, see [here](https://support.google.com/analytics/answer/2884495?hl=en).
+1. Add the email rtp.ga2@gmail.com as a Read & Analyze user to your GA account. For more details, see [here](https://support.google.com/analytics/answer/2884495?hl=en).
+
 1. In your RTP account. Go to **Account Settings**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. Under **Account Settings**, **Domain** and **Analytics**
-1. Click on** Google Analytics.**
+1. Under **Account Settings**, **Domain** and **Analytics**.
+
+1. Click on **Google Analytics**.
+
 1. Turn on the relevant **Custom Variables** and **Events** to append this data from RTP to Google Analytics.
+
 1. Enter the **Slot** number to send custom variable data (default is 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-Click **SAVE**.
+1. Click **Save**.
 
 >[!NOTE]
 >
