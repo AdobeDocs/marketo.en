@@ -709,7 +709,7 @@ user-guide-description: Marketo product documentation
         + [Edit a Marketo Landing Page Template](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
         + [Make an Existing Free-form Landing Page Template Mobile Compatible](product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
         + [Understanding Elements and Variables in Guided Templates](product-docs/demand-generation/landing-pages/landing-page-templates/understanding-elements-and-variables-in-guided-templates.md)
-        + [Guided Landing Page Template List](guided-landing-page-template-list.md)
+        + [Guided Landing Page Template List](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md)
         + Guided Landing Page Templates {#guided-landing-page-templates}
           + [Template 1-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1-a.md)
           + [Template 1-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1-b.md)
