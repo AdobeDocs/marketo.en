@@ -92,4 +92,4 @@ Now, you can view the number of records and fields for all published custom obje
 
 ## Custom Activities {#custom-activities}
 
-Marketo admins can now define and manage their custom activity types via the Marketo Custom Activity Definition modeler. Similar to (and in conjunction with) the Marketo Custom Object Modeler, admins can now extend the data model to suit their exact business needs. Details on how to use this functionality is available on the [Marketo documentation site](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md) {#custom-activities).
+Marketo admins can now define and manage their custom activity types via the Marketo Custom Activity Definition modeler. Similar to (and in conjunction with) the Marketo Custom Object Modeler, admins can now extend the data model to suit their exact business needs. Details on how to use this functionality is available on the [Marketo documentation site](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
