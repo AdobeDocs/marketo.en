@@ -10,13 +10,13 @@ Do you have so many campaigns that scrolling is becoming cumbersome? Use labels 
 
 ## Add a Label to a Web Campaign {#add-a-label-to-a-web-campaign}
 
-1. Log into Web Personalization and go to the Web Campaigns area. 
+1. Log in to Web Personalization and go to the Web Campaigns area.
 
    ![](assets/web-campaigns-hand.jpg)
 
    >[!NOTE]
    >
-   >To make it easier to find the campaign you want, use the [filter feature](filter-web-campaigns.md).
+   >To make it easier to find the campaign you want, use the [filter feature](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Select the campaigns you want to tag with a label.
 
@@ -24,11 +24,11 @@ Do you have so many campaigns that scrolling is becoming cumbersome? Use labels 
 
 1. Enter the desired label name and click Create New.
 
->[!TIP]
->
->If the label already exists, select it, and don't create a new one.
+   >[!TIP]
+   >
+   >If the label already exists, select it, and don't create a new one.
 
-![](assets/web-campaigns-set-label.jpg)
+   ![](assets/web-campaigns-set-label.jpg)
 
 Cool! You now know how to create labels and assign them to campaigns.
 
@@ -44,6 +44,4 @@ Cool! You now know how to create labels and assign them to campaigns.
 
 >[!MORELIKETHIS]
 >
->* [L](create-a-new-in-zone-web-campaign.md) [abel a Segment](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
->
-
+>[Label a Segment](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

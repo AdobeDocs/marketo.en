@@ -6,7 +6,7 @@ title: Create a New In Zone Web Campaign
 
 # Create a New In Zone Web Campaign {#create-a-new-in-zone-web-campaign}
 
-A web campaign is a customized reaction associated with a specific segment and can be a [dialog box](create-a-new-dialog-web-campaign.md) on your website, an in zone replacement, a [widget feature](create-a-new-widget-web-campaign.md) or an email alert. An In Zone web campaign replaces an element of your website based on the Zone id with content or graphical banners. 
+A web campaign is a customized reaction associated with a specific segment and can be a [dialog box](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) on your website, an in zone replacement, a [widget feature](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) or an email alert. An In Zone web campaign replaces an element of your website based on the Zone id with content or graphical banners.
 
 ## Create an In Zone Web Campaign {#create-an-in-zone-web-campaign}
 
@@ -24,14 +24,9 @@ A web campaign is a customized reaction associated with a specific segment and c
 
    >[!NOTE]
    >
-   >**Definition**
-   >
-   >
    >**What is a Zone ID?**
    >
-   >
    >A Zone ID is where you would like your "In Zone" web campaign to be located onsite. To find a "Zone ID", simply go to your website select the area you would like to replace with a web campaign and right-click. In Chrome, the option is “Inspect Element”, in other browsers it may vary.
-   >
    >
    >Then, you want to find the "id" associated with this section of the website, which is highlighted because you are inspecting that element. For example, if once you right-click in Chrome the highlighted text says `<div id="featured-slider">` then "featured-slider" is what you should type in the "zone id" section. Typically "div id" is used, but any ID can be used as well, such as h1 id, p id, etc.
 
@@ -61,7 +56,7 @@ A web campaign is a customized reaction associated with a specific segment and c
   </tr> 
   <tr> 
    <td colspan="1"><strong> Rich Text Editor  </strong></td> 
-   <td colspan="1">The rich text editor allows for text formatting, linking and image insertion. <a href="using-the-web-personalization-rich-text-editor.md">Read more here</a> .</td> 
+   <td colspan="1">The rich text editor allows for text formatting, linking and image insertion. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Read more here</a> .</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong> Preview on site   </strong></td> 
@@ -78,11 +73,11 @@ A web campaign is a customized reaction associated with a specific segment and c
 
 >[!TIP]
 >
->Speed up and simplify your campaign creation process by using our [built in templates](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) or by [saving your existing campaign](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) as a template for reuse.
+>Speed up and simplify your campaign creation process by using our [built in templates](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) or by [saving your existing campaign](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) as a template for reuse.
 
 >[!NOTE]
 >
->**Want to A/B Test your web campaigns?** One or more web campaigns can be [A/B tested for optimal results](ab-test-your-web-campaign.md). With the Auto-Tune feature, the platform automatically recognizes the better performing campaigns, continues with the highest converting campaigns and pauses the other ones.
+>**Want to A/B Test your web campaigns?** One or more web campaigns can be [A/B tested for optimal results](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). With the Auto-Tune feature, the platform automatically recognizes the better performing campaigns, continues with the highest converting campaigns and pauses the other ones.
 
 ## Edit a Web Campaign {#edit-a-web-campaign}
 
@@ -92,21 +87,21 @@ From the **Web Campaigns** page, click **Edit** on the Campaign.
 
 >[!NOTE]
 >
->To make it easier to find the campaign you want, use the [filter feature](filter-web-campaigns.md).
+>To make it easier to find the campaign you want, use the [filter feature](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 ## Preview a Web Campaign {#preview-a-web-campaign}
 
-1. From the Web Campaigns page, click **Preview **on the web campaign you wish to view.
+1. From the Web Campaigns page, click **Preview** on the web campaign you wish to view.
 
    ![](assets/in-zone-web-campaign-preview.png)
 
 ## Clone a Web Campaign {#clone-a-web-campaign}
 
-   See [Clone a Web Campaign](clone-a-web-campaign.md).
+   See [Clone a Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
 ## Delete a Web Campaign {#delete-a-web-campaign}
 
-1. From the Web Campaigns page, click **Delete **on the Campaign you wish to delete.
+1. From the Web Campaigns page, click **Delete** on the Campaign you wish to delete.
 
    ![](assets/in-zone-web-campaign-delete.png)
 
@@ -114,5 +109,5 @@ From the **Web Campaigns** page, click **Edit** on the Campaign.
 
 >[!MORELIKETHIS]
 >
->* [Create a New Widget Web Campaign](create-a-new-widget-web-campaign.md)
->* [Create a New Dialog Web Campaign](create-a-new-dialog-web-campaign.md)
+>* [Create a New Widget Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Create a New Dialog Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)

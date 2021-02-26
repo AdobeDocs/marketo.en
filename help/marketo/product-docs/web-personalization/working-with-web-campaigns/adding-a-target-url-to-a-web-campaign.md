@@ -49,7 +49,6 @@ Clicking on the plus icon (![--](assets/image2015-2-18-8-3a40-3a59.png)) will op
 
 >[!NOTE]
 >
->
 >* Dialog and Widget web campaigns can use Any Page and Wildcard (&#42;) options.
 >* In advanced use cases, In Zone web campaigns can use Wildcards at end of URL path. Example: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 >* URL is case sensitive
@@ -64,16 +63,16 @@ Clicking on the plus icon (![--](assets/image2015-2-18-8-3a40-3a59.png)) will op
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Add a** Campaign Name**. Select a **Target Segment**. Add **Target URL**.
+1. Add a **Campaign Name**. Select a **Target Segment**. Add **Target URL**.
 
    >[!NOTE]
    >
-   >Target URL with In Zones must define a specific URL or URLs. In advanced use cases, In Zone web campaigns can use Wildcards at end of URL path. Example: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*) 
+   >Target URL with In Zones must define a specific URL or URLs. In advanced use cases, In Zone web campaigns can use Wildcards at end of URL path. Example: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
 >
->* [Create a New Dialog Web Campaign](create-a-new-dialog-web-campaign.md)
->* [Create a New In Zone Web Campaign](create-a-new-in-zone-web-campaign.md)
->* [Create a New Widget Web Campaign](create-a-new-widget-web-campaign.md)
+>* [Create a Dialog Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Create a RTP In Zone Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Create a RTP Widget Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

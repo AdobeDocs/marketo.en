@@ -6,9 +6,9 @@ title: Filter Web Campaigns
 
 # Filter Web Campaigns {#filter-web-campaigns}
 
-After you've created hundreds of Web Personalization campaigns, it really helps to be able to use filters to view only the ones you're interested in. 
+After you've created hundreds of Web Personalization campaigns, it really helps to be able to use filters to view only the ones you're interested in.
 
-1. Go to **Web Campaigns.**
+1. Go to **Web Campaigns**.
 
    ![](assets/web-campaigns-hand-8.jpg)
 
@@ -16,7 +16,7 @@ After you've created hundreds of Web Personalization campaigns, it really helps 
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. Check the checkbox for the Status and/or Type of campaign you want to filter for, for example, **Paused **or** Dialog**. Click **Apply**.
+1. Check the checkbox for the Status and/or Type of campaign you want to filter for, for example, **Paused** or **Dialog**. Click **Apply**.
 
    ![](assets/web-campaigns-filters-hands.jpg)
 
@@ -29,4 +29,3 @@ After you've created hundreds of Web Personalization campaigns, it really helps 
    ![](assets/web-campaigns-filter-only-paused.jpg)
 
    Piece of cake!
-

@@ -23,4 +23,3 @@ Follow these simple steps to export your web campaign data.
 1. View your file to look at helpful statistics.
 
    ![](assets/four-1.png)
-

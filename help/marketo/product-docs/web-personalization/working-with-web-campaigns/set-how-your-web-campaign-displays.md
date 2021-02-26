@@ -67,5 +67,4 @@ Exit intent will display the web campaign upon mouse cursor exit of the browser.
 
 >[!TIP]
 >
->Wanna see how your chosen effects will look ahead of time? Check them out via an [Web Campaign Preview](preview-and-test-a-web-campaign.md).
-
+>Wanna see how your chosen effects will look ahead of time? Check them out via an [Web Campaign Preview](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).

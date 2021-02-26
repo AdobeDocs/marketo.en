@@ -10,9 +10,7 @@ See how you can embed a Marketo form into a web campaign (Dialog, In Zone or Wid
 
 1. Right-click on an approved form. Select **Embed Code**.
 
-   ** ![](assets/image2015-12-16-10-3a58-3a39.png)
-
-   **
+   ![](assets/image2015-12-16-10-3a58-3a39.png)
 
 1. Copy the Code.
 
@@ -24,9 +22,7 @@ See how you can embed a Marketo form into a web campaign (Dialog, In Zone or Wid
 
 1. Click **Create New Campaign**.
 
-   ** ![](assets/create-new-web-campaign-hand-1.jpg)
-
-   **
+   ![](assets/create-new-web-campaign-hand-1.jpg)
 
 1. In the Rich Text Editor, click the HTML icon.
 
@@ -37,6 +33,7 @@ See how you can embed a Marketo form into a web campaign (Dialog, In Zone or Wid
    ![](assets/six-1.png)
 
 1. The form will not display in the editor view, but you can preview it to see how it will render in a campaign.
+
 1. Click **Launch** to start the campaign.
 
    >[!NOTE]
@@ -51,7 +48,7 @@ To add a background image to your form you can:
 * Change the dialog or widget colors in Set Campaign
 * Add CSS code to the script
 
-To edit the CSS of a Form Theme, see [this article](../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+To edit the CSS of a Form Theme, see [this article](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
 To change the dialog or widget colors in Set Campaign:
 
@@ -79,8 +76,6 @@ To add CSS code to the script:
 
 >[!MORELIKETHIS]
 >
->* [Edit the CSS of a Form Theme](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
+>* [Edit the CSS of a Form Theme](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Show Thank You Message Without a Follow-Up Landing Page](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
 >* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
->
-

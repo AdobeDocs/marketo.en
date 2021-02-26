@@ -22,12 +22,12 @@ Web personalization now supports multiple workspaces.
 
 * **Expanded support: Microsoft Office**
 
-    * Outlook as a Delivery Channel: Marketers can now leverage Outlook for email engagements, improving deliverability rates and response tracking.
-    * Office 365 Email Support Improvements: Marketo Sales Engage is directly available in Outlook for Mac, Outlook for Windows, and the Outlook Web Application for Office 365 Email clients, making Marketo Sales Engage more readily available to all Office users.
+   * Outlook as a Delivery Channel: Marketers can now leverage Outlook for email engagements, improving deliverability rates and response tracking.
+   * Office 365 Email Support Improvements: Marketo Sales Engage is directly available in Outlook for Mac, Outlook for Windows, and the Outlook Web Application for Office 365 Email clients, making Marketo Sales Engage more readily available to all Office users.
 
 * **Improved admin and user login experience**
 
-    * Improved Admin Workflows: Admins will find a more efficient workflow when enabling team features through General Admin Settings.
+   * Improved Admin Workflows: Admins will find a more efficient workflow when enabling team features through General Admin Settings.
 
 ## Marketo Sky {#marketo-sky}
 
@@ -42,7 +42,7 @@ For more details and updates, check our [Sky release notes](https://help.marketo
 
 * **Marketing Activities Homepage**: Quickly access common functions right from the Marketing Activities homepage.
 
-    * Take specific actions (i.e., start new programs and smart campaigns) and see important information around current programs, like programs and campaigns scheduled to run today, recently updated programs and assets, and total number of active trigger campaigns.
+   * Take specific actions (i.e., start new programs and smart campaigns) and see important information around current programs, like programs and campaigns scheduled to run today, recently updated programs and assets, and total number of active trigger campaigns.
 
 * **Design Studio Updates**: We've reimagined the Design Studio experience to help you move faster and be more productive.
 * Design Studio Homepage: Create new assets, drag and drop images and files, and manage all existing assets.
@@ -57,31 +57,31 @@ For more details and updates, check our [Sky release notes](https://help.marketo
 
 * **Reduce Required Dependency on CRM**
 
-    * With the new option of defining Campaign rules within the Bizible settings, customers no longer need to jump through the hoops of installing a package or solution inside of their CRM to get started with Bizible. It’s now as easy as setting up an account, setting up the ad and CRM connections, then going through the standard settings and configurations. We expect that this will significantly improve onboarding times for our Sales Engineering team.
+   * With the new option of defining Campaign rules within the Bizible settings, customers no longer need to jump through the hoops of installing a package or solution inside of their CRM to get started with Bizible. It’s now as easy as setting up an account, setting up the ad and CRM connections, then going through the standard settings and configurations. We expect that this will significantly improve onboarding times for our Sales Engineering team.
 
 * **Discover GA**
 
-    * Discover is out of beta and has started rolling out to new customers. We’re also migrating our current customer base from Bizible Measure to Bizible Discover. With the shift from beta to GA, we’ve made updates to the database schema to allow for more efficient and complex queries.
+   * Discover is out of beta and has started rolling out to new customers. We’re also migrating our current customer base from Bizible Measure to Bizible Discover. With the shift from beta to GA, we’ve made updates to the database schema to allow for more efficient and complex queries.
 
 * **Single Sign-On**
 
-    * Customers can now sign in to the Bizible web application using their company’s identity provider and credentials, which complies with enterprise security requirements.
+   * Customers can now sign in to the Bizible web application using their company’s identity provider and credentials, which complies with enterprise security requirements.
 
-**[Marketo Performance Insights Enhancements](../../product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Marketo Performance Insights Enhancements](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **Usability enhancements**
 
-    * Missing Acquisition Date Alert: To most accurately capture First- and Multi-Touch attribution insights, marketers are alerted when acquisition dates are missing from contact records so they can find and correct any issues.
-    * Trend Chart Time Range Improvements: Users can now go back 24 months to compare program performance.
-    * Scale-to-Fit Setting: The main dashboard bar chart is more easily readable to help compare program performance over time.
-    * Alerts Icon: The new alerts icon displays all active alerts regarding data quality issues and setup notifications.
+   * Missing Acquisition Date Alert: To most accurately capture First- and Multi-Touch attribution insights, marketers are alerted when acquisition dates are missing from contact records so they can find and correct any issues.
+   * Trend Chart Time Range Improvements: Users can now go back 24 months to compare program performance.
+   * Scale-to-Fit Setting: The main dashboard bar chart is more easily readable to help compare program performance over time.
+   * Alerts Icon: The new alerts icon displays all active alerts regarding data quality issues and setup notifications.
 
 * **Engagement by Activity Date**: Users can select to view Engagement metrics by activity date or cost period.
 * **ABM Named Account Filters**: Filter the Pipeline and Revenue dashboards by specific Named Accounts.
 
 ## Ad Networks {#ad-networks}
 
-**[Refresh Token](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
+**[Refresh Token](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
 We’ve implemented a refresh token within our retargeting and LinkedIn Lead Gen Form solutions that extends access time to one year before re-authentication is required.
 

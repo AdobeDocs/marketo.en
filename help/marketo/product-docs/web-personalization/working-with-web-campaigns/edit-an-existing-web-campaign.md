@@ -10,17 +10,15 @@ title: Edit an Existing Web Campaign
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. On the **Web Campaigns** page, click **Edit **on the campaign you want to edit.
+1. On the **Web Campaigns** page, click **Edit** on the campaign you want to edit.
 
    ![](assets/web-campaigns-1-edit-hand.png)
 
    >[!NOTE]
    >
-   >To make it easier to find the web campaign you want, use the [filter feature](filter-web-campaigns.md).
+   >To make it easier to find the web campaign you want, use the [filter feature](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 >[!MORELIKETHIS]
 >
->* [Delete a Web Campaign](delete-a-web-campaign.md)
->* [Launch/Pause a](launch-pause-a-web-campaign.md) [Campaign](launch-pause-a-web-campaign.md)
->
-
+>* [Delete a Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
+>* [Launch/Pause a Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md).

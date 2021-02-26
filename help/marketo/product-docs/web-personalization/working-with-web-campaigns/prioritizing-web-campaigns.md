@@ -25,7 +25,7 @@ Prioritize your web campaigns when two or more web campaigns overlap by setting 
 
    >[!NOTE]
    >
-   >To make it easier to find the web campaign you want, use the [filter feature](filter-web-campaigns.md).
+   >To make it easier to find the web campaign you want, use the [filter feature](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. In the Edit Campaign Page, set the Priority Score (9999 = Highest Priority  1 = Lowest Priority).
 
