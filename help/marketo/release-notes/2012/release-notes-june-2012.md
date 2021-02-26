@@ -6,12 +6,6 @@ title: Release Notes -June 2012
 
 # Release Notes: June 2012 {#release-notes-june}
 
->[!NOTE]
->
->**Deep Dive**
->
->For other releases, see the [Release Notes](https://docs.marketo.com/display/docs/release+notes) deep dive.
-
 ## Marketo Lead Management Enhancements {#marketo-lead-management-enhancements}
 
 ### Rename {#rename}

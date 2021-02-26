@@ -6,7 +6,7 @@ title: Release Notes -February 2013
 
 # Release Notes: February 2013 {#release-notes-february}
 
-The February release includes a highly requested feature, support for Apple Safari and other small enhancements. 
+The February release includes a highly requested feature, support for Apple Safari and other small enhancements.
 
 ## Official Support for Apple Safari {#official-support-for-apple-safari}
 
@@ -26,4 +26,4 @@ Facebook tabs published from Marketo will detect mobile devices and route them t
 
 ## Coming Soon: Support for Multiple Models {#coming-soon-support-for-multiple-models}
 
-We’re laying the groundwork to support multiple revenue cycle models, voted #1 idea for RCA in the Community, in a future release. In this release, you will notice some changes including [Smart List filters and Add Choices in Flow Steps](../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) to support the selection of a model and stage. We’re also moving the Lead Revenue Stage and Lead Revenue Cycle Model fields out of the Smart List Lead grid tab.
+We’re laying the groundwork to support multiple revenue cycle models, voted #1 idea for RCA in the Community, in a future release. In this release, you will notice some changes including [Smart List filters and Add Choices in Flow Steps](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) to support the selection of a model and stage. We’re also moving the Lead Revenue Stage and Lead Revenue Cycle Model fields out of the Smart List Lead grid tab.

@@ -6,13 +6,7 @@ title: Release Notes -March 2012
 
 # Release Notes: March 2012 {#release-notes-march}
 
->[!NOTE]
->
->**Deep Dive**
->
->For other releases, see the [Release Notes](https://docs.marketo.com/display/docs/release+notes) deep dive. 
->
->## Resolve My Tokens {#resolve-my-tokens}>
+## Resolve My Tokens {#resolve-my-tokens}
 
 My Tokens (Program Tokens) will resolve when previewing an email, when sending a test email, and when sending a local email via a single flow action. No longer will you have to create a smart campaign inside the program to test your My Tokens!
 

@@ -8,12 +8,6 @@ title: Release Notes -April 2012
 
 ## Segmentation Filters and Triggers {#segmentation-filters-and-triggers}
 
->[!NOTE]
->
->**Deep Dive**
->
->For other releases, see the [Release Notes](https://docs.marketo.com/display/docs/release+notes) deep dive.
-
 Do you target the same group of leads consistently? If so, use segmentation in your smart lists for targeting leads. With segmentation, your entire lead database is always segmented and it can be re-used across your programs for consistency. Segmentation results are pulled quickly because they do not require the smart list to run at the time of the request.
 
 ![](assets/image2014-9-23-10-3a3-3a57.png)
@@ -56,4 +50,3 @@ If you are not syncing your subscription with Salesforce, you will notice that a
 Allows users to define an order for their transition rules.
 
 ![](assets/image2014-9-23-10-3a5-3a17.png)
-

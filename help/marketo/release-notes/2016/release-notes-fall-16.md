@@ -8,7 +8,7 @@ title: Release Notes -Fall '16
 
 The following features are included in the Fall '16 release. Check your Marketo edition for feature availability. Please click the title links to view detailed articles for each feature.
 
-## [Predictive Content in Email](https://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
+## Predictive Content in Email {#predictive-content-in-email}
 
 There's a new user experience for our Predictive Content application to track, manage, and recommend your content through our machine learning and predictive algorithms across the web and email channels.
 
@@ -22,13 +22,13 @@ You can now add predictive content to your email. When the email is opened, the 
 
 ![](assets/predictive.png)
 
-## [Facebook Offline Conversions](../../product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)  {#facebook-offline-conversions}
+## [Facebook Offline Conversions](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
 With Facebook Offline Conversions integration, conversion data in Marketo (for Lead Ad leads) is automatically sent back to Facebook so that your advertising team can better optimize its ad spend. In this Facebook Ad Manager Report, the offline conversions are highlighted.
 
 ![](assets/facebook.png)
 
-## [Universal ID](../../product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
+## [Universal ID](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
 
 A Universal ID lets you access multiple Marketo subscriptions with a single login and switch between subscriptions quickly. You can use a single community profile for all of your subscriptions.
 
@@ -38,7 +38,7 @@ A Universal ID lets you access multiple Marketo subscriptions with a single logi
 >
 >Please contact Marketo Support to enable this feature.
 
-## [Marketo Account Based Marketing Enhancements](https://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
+## Marketo Account Based Marketing Enhancements {#marketo-account-based-marketing-enhancements}
 
 Now, you can assign account teams to named accounts in Account Based Marketing (ABM), for example, account owner, sales development representative, business development representative, and customer success manager. You also can build account-owner-specific account lists and send personalized weekly ABM reports to the account team.
 
@@ -48,11 +48,11 @@ Now, you can assign account teams to named accounts in Account Based Marketing (
 
 This release also enables you to manage named account attributes and accounts scores in ABM using the Marketo REST API. For more details on the API operations, please visit the [Marketo Developers website](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
-## [Audit Trail Enhancements](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
+## [Audit Trail Enhancements](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
 Audit trail provides a comprehensive history of the changes made within your Marketo subscription. We have added additional tracking capabilities for programs as well as surfacing important change details for smart campaigns, smart lists, and changes made to users and roles.
 
-## [New Permissions](../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
+## [New Permissions](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
 
 **Make Email Operational**
 
@@ -60,9 +60,9 @@ Gone are the days when you had to worry about users sending transactional emails
 
 **Edit Campaign Restrictions**
 
-Why set [campaign restrictions](https://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) if you can't enforce them? When you set Campaign Limit Settings to restrict the number of people in your database who can be targeted with a single campaign, you now have the ability to restrict which users can override these settings when scheduling a campaign.
+Why set [campaign restrictions](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) if you can't enforce them? When you set Campaign Limit Settings to restrict the number of people in your database who can be targeted with a single campaign, you now have the ability to restrict which users can override these settings when scheduling a campaign.
 
-## [Sound for Mobile Push Notifications](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
+## [Sound for Mobile Push Notifications](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
 Give your iOS Push Notification added richness by enabling sound. This new feature allows you to trigger a sound when you Push Notification is displayed on the mobile device.
 
@@ -70,11 +70,10 @@ Give your iOS Push Notification added richness by enabling sound. This new featu
 >
 >* Device owners can choose to prevent sounds from being played in the device settings, and app developers can give device owners options within the app to prevent sounds from being played.
 >* Sounds are automatically played when a Push Notification is displayed on an Android device.
->
 
-![](assets/sound-for-push-notifications.png)  
+![](assets/sound-for-push-notifications.png)
 
-## [Sales Insight Compatible with Salesforce Encryption](../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
+## [Sales Insight Compatible with Salesforce Encryption](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
 Market Sales Insight is now compatible with Salesforce Shield Encryption. All Sales Insight customers should upgrade to this latest managed package (version 1.4359.2), which is [available on the Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
@@ -89,4 +88,3 @@ Manage variables and modules for emails in v2.0 format using the Marketo REST AP
 ## [Changes to Marketo Salesforce Sync](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
 Marketo’s Salesforce integration is evolving to improve the way that Marketo fields are synced with Salesforce. Now, instead of having to sync a large group of fields that you may or may not need, you can pick and choose which fields you’d like to have included. Check out our documentation here for more information: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
-  

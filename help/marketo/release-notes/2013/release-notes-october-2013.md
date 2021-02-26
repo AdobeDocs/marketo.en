@@ -1,16 +1,16 @@
 ---
 unique-page-id: 2951054
-description: Release Notes -October 2013 - Marketo Docs - Product Documentation
-title: Release Notes -October 2013
+description: Release Notes - October 2013 - Marketo Docs - Product Documentation
+title: Release Notes - October 2013
 ---
 
 # Release Notes: October 2013 {#release-notes-october}
 
-The following features are included in the October 2013 release. Check your [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) for feature availability.
+The following features are included in the October 2013 release.
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Templates.marketo.com](https://templates.marketo.com) showcases email and landing page templates (including responsive mobile email templates) which you can download from the Marketo Program Library. We will add templates monthly, check back often!
+[Templates.marketo.com](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates.md) showcases email and landing page templates (including responsive mobile email templates) which you can download from the Marketo Program Library. We will add templates monthly, check back often!
 
 ## developers.marketo.com {#developers-marketo-com}
 
@@ -22,4 +22,4 @@ Sync additional fields from BrightTALK to Marketo, including Company Name, Job T
 
 ## Android Tablet Event Check-In App {#android-tablet-event-check-in-app}
 
-Check registrants into your event using our new [Android-based check in app](../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) available on [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&hl=en).
+Check registrants into your event using our new [Android-based check in app](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) available on [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&hl=en).

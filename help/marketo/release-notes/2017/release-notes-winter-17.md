@@ -30,7 +30,7 @@ Export all of your Web Campaign details and analytics in a CSV format. You then 
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [Localization](https://docs.marketo.com/display/docs/web+personalization) {#localization}
+## Localization {#localization}
 
 The Web Personalization, Predictive Content, and Email Insights apps are now available in Japanese, German, and Spanish. You [select your language and locale](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) to view your content in these languages.
 
@@ -64,7 +64,7 @@ Filter Predictive Content analytics for specific sources — Email, Rich Media, 
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[Predictive Content Editor](https://docs.marketo.com/display/docs/edit+predictive+content)**
+**Predictive Content Editor**
 
 There's an improved editing experience and layout that splits content preparation by source — Email, Rich Media, or Recommendation Bar.
 

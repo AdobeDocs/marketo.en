@@ -6,9 +6,7 @@ title: Release Notes -May 2013
 
 # Release Notes: May 2013 {#release-notes-may}
 
-The following features are included in the May release. Please check your [Marketo](https://docs.marketo.com/display/docs/assets/pricing.php) [Edition](https://docs.marketo.com/display/docs/assets/pricing.php) for feature availability.
-
-After the release, be sure to check out the [New Release](release-notes-december-2013.md) tab in the Community for detailed Knowledge Base articles for each feature!
+The following features are included in the May release.
 
 ## Calendar Files for Landing Pages {#calendar-files-for-landing-pages}
 
@@ -33,4 +31,3 @@ Find flow actions faster with the newly reorganized flow action tree.
 Change Progression Status is now Change Program Status. Change Program Data is now Change Program Success
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)
-

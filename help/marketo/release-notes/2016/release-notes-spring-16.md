@@ -8,7 +8,7 @@ title: Release Notes -Spring '16
 
 The following features are included in the Spring '16 release. Please click the title links to view detailed articles for each feature.
 
-## [Email Insights](https://docs.marketo.com/display/docs/email+insights) {#email-insights}
+## [Email Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
 Email Insights is a brand new historical aggregate data email analytics experience — redesigned end-to-end for lightning fast performance as part of Project Orion. It features a completely new user interface design optimized to fit the needs and workflow of Email Marketers.
 
@@ -24,7 +24,7 @@ Create beautiful emails using our new Starter Templates! Also, quickly locate yo
 
 >[!NOTE]
 >
->Email Editor 2.0 (with the Template Picker) will gradually be rolled out beginning June 3rd. We will complete the rollout by June 30th. Unlike Email Insights, you will not be notified when you have access. To see if you do, please follow the steps in [this article](https://docs.marketo.com/pages/viewpage.action?pageId=11373011).
+>Email Editor 2.0 (with the Template Picker) will gradually be rolled out beginning June 3rd. We will complete the rollout by June 30th. Unlike Email Insights, you will not be notified when you have access. To see if you do, please follow the steps in [this article](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
 
 ![](assets/5-29-home-starter-templates.png)
 
@@ -46,9 +46,9 @@ Gone are the days where you have to re-approve everything each time a snippet is
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [Custom Activities](https://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
+## [Custom Activities] {#custom-activities}
 
-Marketo admins can now define and manage their custom activity types via the Marketo Custom Activity Definition modeler. Similar to (and in conjunction with) the Marketo Custom Object Modeler, admins can now extend the data model to suit their exact business needs. Details on how to use this functionality is available on the [Marketo documentation site](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities).
+Marketo admins can now define and manage their custom activity types via the Marketo Custom Activity Definition modeler. Similar to (and in conjunction with) the Marketo Custom Object Modeler, admins can now extend the data model to suit their exact business needs. Details on how to use this functionality is available on the [Marketo documentation site](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md) {#custom-activities).
 
 ## [Landing Page, Landing Page Template, and Form APIs](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
@@ -56,7 +56,7 @@ The Marketo REST APIs now support control over Marketo landing pages, landing pa
 
 ## [IP Allowlisting for API Access](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Similar to the IP allowlisting feature for Marketo user logins, Marketo admins can now set up a allowlist of IP addresses that can access the Marketo SOAP and REST APIs, thereby blocking access from non-authorized IP addresses. This provides an added layer of security to your Marketo instance, and ensures that API access can only occur from within your organization’s network. Details on how to set this up are available on the [Marketo documentation site](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access).
+Similar to the IP allowlisting feature for Marketo user logins, Marketo admins can now set up a allowlist of IP addresses that can access the Marketo SOAP and REST APIs, thereby blocking access from non-authorized IP addresses. This provides an added layer of security to your Marketo instance, and ensures that API access can only occur from within your organization’s network. Details on how to set this up are available on the [Marketo documentation site](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
 ## [New High-Speed Microsoft Dynamics Sync Connector](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2951107
-description: Release Notes -December 2012 - Marketo Docs - Product Documentation
-title: Release Notes -December 2012
+description: Release Notes - December 2012 - Marketo Docs - Product Documentation
+title: Release Notes - December 2012
 ---
 
 # Release Notes: December 2012 {#release-notes-december}
@@ -63,7 +63,6 @@ Add custom opportunity fields to enrich your Program Opportunity Analysis report
 
 Have you ever wondered which campaigns are using a specific flow action, such as Change Score or Request Campaign? Or where a certain filter is being used? The new Campaign Inspector (available from the Treasure Chest) enables you to identify these campaigns, as well as active campaigns and campaigns with errors.
 
-Go to **Admin** > **Treasure Chest** to enable the** Campaign Inspector**.
+Go to **Admin** > **Treasure Chest** to enable the **Campaign Inspector**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)
-

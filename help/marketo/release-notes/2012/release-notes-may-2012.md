@@ -6,12 +6,6 @@ title: Release Notes -May 2012
 
 # Release Notes: May 2012 {#release-notes-may}
 
->[!NOTE]
->
->**Deep Dive**
->
->For other releases, see the [Release Notes](https://docs.marketo.com/display/docs/release+notes) deep dive.
-
 ## Email Performance Report Redesign {#email-performance-report-redesign}
 
 Note: this will be a staged roll-out, beginning with the May release
@@ -40,7 +34,9 @@ Simplify your event check-in process using our new iPad app! The Event Check-in 
 
 Requires iOS 5.1 or later; iPad only.
 
-![](assets/image2014-9-23-10-3a14-3a46.png)Figure 3. Event Check-In Home Page
+![](assets/image2014-9-23-10-3a14-3a46.png)
+
+Figure 3. Event Check-In Home Page
 
 ![](assets/image2014-9-23-10-3a15-3a6.png)
 
@@ -135,4 +131,3 @@ Figure 15. See Anonymous web activity
 ## Enhanced Lead and Contact Subscribe {#enhanced-lead-and-contact-subscribe}
 
 Follow a lead or contact any time using the new Subscribe button on the record detail page.
-

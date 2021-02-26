@@ -10,11 +10,11 @@ The following features are included in the May 2014 release. Please check your M
 
 ## Delete Workspace {#delete-workspace}
 
-Now you can [delete an unused workspace](../../product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Be sure to move all assets into another workspace before attempting to delete the workspace.
+Now you can [delete an unused workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Be sure to move all assets into another workspace before attempting to delete the workspace.
 
 ## Schedule First Cast {#schedule-first-cast}
 
-In engagement programs, you can schedule the date for the [first cast to run](../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). For example, specify the cadence to be every 2 weeks and select the date of the first cast.
+In engagement programs, you can schedule the date for the [first cast to run](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). For example, specify the cadence to be every 2 weeks and select the date of the first cast.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -26,13 +26,13 @@ Now everyone gets multiple programs, streams and communication limits.
 
 ## Link Tracking in Text Emails {#link-tracking-in-text-emails}
 
-[Add double square brackets](../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) around URLs in the text version of your emails to indicate when links should be converted into re-directed Marketo tracking links
+[Add double square brackets](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) around URLs in the text version of your emails to indicate when links should be converted into re-directed Marketo tracking links
 
 >[!NOTE]
 >
 >**Example**
 >
->[[[https://www.marketo.com](https://www.marketo.com)]]
+>`[[https://www.marketo.com]]`
 
 By default, no links will be tracked in the text version of emails. Add this new syntax to indicate when a link should be converted into a tracking link. The behavior of HTML links is unchanged.  To add tracked links to your emails:
 
@@ -52,7 +52,7 @@ See how your links will behave in emails ahead of time. Sample emails now displa
 
 ## Abort Campaign {#abort-campaign}
 
-Don’t panic! If you find a mistake, use the new [abort campaign](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) button to immediately stop campaigns in their tracks. You’ll receive a notification outlining how many leads were pending in each flow step when the campaign was stopped.
+Don’t panic! If you find a mistake, use the new [abort campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) button to immediately stop campaigns in their tracks. You’ll receive a notification outlining how many leads were pending in each flow step when the campaign was stopped.
 
 ## Sales Insight in Japanese, Portuguese and Spanish {#sales-insight-in-japanese-portuguese-and-spanish}
 
@@ -62,11 +62,11 @@ Download the latest version of Sales Insight from AppExchange so your Japanese, 
 
 ## Program Status and Success Timeframe in Program Membership Analysis {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-View how many [members are in each Program Status](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) and when they changed to each status, including the date when they achieved Program Success.
+View how many [members are in each Program Status](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) and when they changed to each status, including the date when they achieved Program Success.
 
 ## A/B Test Emails in Email Analysis {#a-b-test-emails-in-email-analysis}
 
-Report on each of your [A/B test email variants](../../product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in Email Analysis.
+Report on each of your [A/B test email variants](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in Email Analysis.
 
 ## Analytics Packaging Changes {#analytics-packaging-changes}
 
@@ -74,9 +74,4 @@ Revenue Cycle Modeler and Success Path Analyzer are now included in MA Standard 
 
 ## Mobile Platform Info {#mobile-platform-info}
 
-[Segment and trigger](../../product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) off of leads opening and clicking emails from their mobile devices.
-
->[!NOTE]
->
->Check out Previous [Marketo Release Notes](https://docs.marketo.com/display/docs/release+notes)
-
+[Segment and trigger](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) off of leads opening and clicking emails from their mobile devices.

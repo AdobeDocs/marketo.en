@@ -6,9 +6,7 @@ title: Release Notes -June 2013
 
 # Release Notes: June 2013 {#release-notes-june}
 
-The following features are included in the June release. Please check your  [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php)  for feature availability. 
-
-After the release, be sure to check out the [New Release](release-notes-december-2013.md) tab in the Community for detailed Knowledge Base articles for each feature!
+The following features are included in the June release.
 
 ## Additional User Languages {#additional-user-languages}
 
@@ -35,4 +33,3 @@ A top idea for Revenue Cycle Analytics (RCA) in the Community, this feature allo
 By default, two models are available for Select SMB Edition and fifteen models for Enterprise Edition. You may purchase additional models also.
 
 ![](assets/image2014-9-22-16-3a26-3a59.png)
-

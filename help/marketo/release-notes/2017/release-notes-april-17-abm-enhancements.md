@@ -23,4 +23,3 @@ You now can add custom fields to accounts, map them to your CRM, and use them fo
 You now can easily filter your named accounts based on an Account List.
 
 ![](assets/named-account-filters.png)
-

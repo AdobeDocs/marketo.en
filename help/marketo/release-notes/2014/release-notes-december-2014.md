@@ -10,7 +10,7 @@ The following features are included in the December 2014 release. Please check y
 
 ## Sales Insight Reports {#sales-insight-reports}
 
-The [Sales Insight Email Performance Report](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) allows you to see email metrics by email and Sales Representative. It supports emails sent out through Salesforce, Microsoft Dynamics, the Outlook plug-in and the Gmail plug-in.
+The [Sales Insight Email Performance Report](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) allows you to see email metrics by email and Sales Representative. It supports emails sent out through Salesforce, Microsoft Dynamics, the Outlook plug-in and the Gmail plug-in.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -18,13 +18,13 @@ The [Sales Insight Email Performance Report](../../product-docs/marketo-sales-in
 
 ## Facebook Custom Audiences {#facebook-custom-audiences}
 
-Once your Marketo admin has added [Facebook via Admin > Launchpoint](../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), you can easily create, update or [replace a Facebook Custom Audience with leads from a Marketo static or smart list](../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Look for the new Facebook icon along the bottom of the lead grid of any static or smart list.
+Once your Marketo admin has added [Facebook via Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), you can easily create, update or [replace a Facebook Custom Audience with leads from a Marketo static or smart list](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Look for the new Facebook icon along the bottom of the lead grid of any static or smart list.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## Improved Cloning Across Workspaces  {#improved-cloning-across-workspaces}
 
-[Cloning a program](../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) to another workspace has never been easier! When you click clone, you select the destination workspace. No more cloning into a folder and then moving the folder!
+[Cloning a program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) to another workspace has never been easier! When you click clone, you select the destination workspace. No more cloning into a folder and then moving the folder!
 
 >[!NOTE]
 >
@@ -34,11 +34,11 @@ Once your Marketo admin has added [Facebook via Admin > Launchpoint](../../produ
 
 ## Reference Smart List {#reference-smart-list}
 
-[Smart lists that are shared with another workspace can be referenced](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)when building a smart list or flow.
+[Smart lists that are shared with another workspace can be referenced](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) when building a smart list or flow.
 
 ## List Import Improvements {#list-import-improvements}
 
-[Import files](../../getting-started/quick-wins/import-a-list-of-people.md) encoded in UTF-16, Shift-JIS, or EUC-JP. We continue to support UTF-8 encoded files.
+[Import files](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) encoded in UTF-16, Shift-JIS, or EUC-JP. We continue to support UTF-8 encoded files.
 
 ## Link Tracking in Email Scripting {#link-tracking-in-email-scripting}
 
@@ -87,4 +87,3 @@ Manage and monitor your key high-yield accounts in the new Named Accounts page. 
 We’ve added a new Sliding effect for In Zone campaigns to allow for your personalized content to slide into place upon page load.
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)
-

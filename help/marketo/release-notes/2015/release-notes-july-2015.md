@@ -15,7 +15,7 @@ Out at lunch but need to reschedule an email? The Marketo Moments app, available
 ## Rich Text Editor Update {#rich-text-editor-update}
 
 Updated text editor with modern look and feel, including streamlined text formatting, image editing, link insertion, and HTML editing. The HTML editor now features minimal validation, allowing for less restrictive code editing.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` This update will automatically roll out within a few days of the July release. Afterwards, you’ll be able to toggle between the New and Legacy versions of the editor from **Admin > Email > Edit Editor Settings**. If you notice issues with the new version of the text editor, we want to know! Please send a brief description to [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd).
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` This update will automatically roll out within a few days of the July release. Afterwards, you’ll be able to toggle between the New and Legacy versions of the editor from **Admin > Email > Edit Editor Settings**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -47,4 +47,4 @@ Learn [more](https://developers.marketo.com/documentation/company-api/) in our r
 
 ## Access Email Deliverability {#access-email-deliverability}
 
-**Access Email Deliverability Tool: **This new permission allows admins to grant users access to the Email Deliverability tool.
+**Access Email Deliverability Tool**: This new permission allows admins to grant users access to the Email Deliverability tool.

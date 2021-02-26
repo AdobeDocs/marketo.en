@@ -53,4 +53,3 @@ We’ve added new filtering criteria to the getMultipleLeads API call. In additi
 * Date Ranges
 * Static List Names
 * Arrays of Lead Keys
-

@@ -10,17 +10,13 @@ The following features are included in the January 2015 release. Please check yo
 
 ## Marketing Automation Updates {#marketing-automation-updates}
 
-**New Photos by Rick DeCosta!**
-
-Rick is a Marketo customer from SmartBear and has an [unbelievable collection of photos](https://www.flickr.com/photos/rickdecosta). Check them out!
-
-## Mobile Friendly Landing Pages {#mobile-friendly-landing-pages}
+**Mobile Friendly Landing Pages**
 
 You can now [build mobile views for landing pages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) from within the landing page editor. Deliver your message effectively regardless of device and increase engagement by tailoring your content for easy consumption on-the-go. This feature will rollout gradually throughout the week following the release.
 
-`<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>`
+[-Landing Page Walkthrough Video-](https://youtu.be/aPQHlG2X6c0)
 
-**New ReST API Calls**
+**New Rest API Calls**
 
 Three new calls for the Lead & Activity ReST API:
 
@@ -50,9 +46,9 @@ Enhancements to the Named Accounts module will improve the match rates and valid
 
 ![](assets/image2015-1-14-11-3a12-3a16.png)
 
-Updated RTP Tag Options
+**Updated RTP Tag Options**
 
-[RTP Tag](https://docs.marketo.com/display/docs/rtp+tag+implementation) options under Account Settings have been updated to include:
+RTP Tag options under Account Settings have been updated to include:
 
 1. CDN and Asynchronous (Recommended tag)
 1. CDN and Synchronous (High Speed)

@@ -48,11 +48,10 @@ If your Salesforce language preference is set to either French or German, Market
 
 Field Display Names can display text in different languages (e.g. multi-byte characters are supported).
 
-![](assets/image2014-9-22-15-3a22-3a56.png) 
+![](assets/image2014-9-22-15-3a22-3a56.png)
 
 ## Change Program Data {#change-program-data}
 
 The Change Program Data flow step allows you to change the Success status and Success Date of a program member manually through a campaign. You can use this flow step to correct a mistake, or to manually change a member who may not have participated in the program as intended.
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)
-

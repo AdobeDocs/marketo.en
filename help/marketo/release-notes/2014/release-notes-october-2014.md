@@ -10,7 +10,7 @@ Check your Marketo edition for feature availability. Documentation will come at 
 
 ## Program Focus in Marketing Calendar {#program-focus-in-marketing-calendar}
 
-[Create and edit entries](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) directly from the marketing calendar.
+[Create and edit entries](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) directly from the marketing calendar.
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
@@ -27,17 +27,17 @@ Full details will be available after the release at [developers.marketo.com](htt
 
 ## MSI - Send Marketo Email for Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
-[Send and track sales emails](../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) to leads and contacts from Microsoft Dynamics.
+[Send and track sales emails](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) to leads and contacts from Microsoft Dynamics.
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
 ## MSI - Add to Marketo Campaigns for Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[Add leads and contacts to Marketo smart campaigns](../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) directly from within Microsoft Dynamics. Marketing can choose which Marketo campaigns are available to sales.
+[Add leads and contacts to Marketo smart campaigns](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) directly from within Microsoft Dynamics. Marketing can choose which Marketo campaigns are available to sales.
 
 ## Custom Entity Support for Microsoft Dynamics Sync {#custom-entity-support-for-microsoft-dynamics-sync}
 
-[Use custom object data](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md) from Microsoft Dynamics for filtering and triggering in smart lists, smart campaigns, programs...
+[Use custom object data](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md) from Microsoft Dynamics for filtering and triggering in smart lists, smart campaigns, programs...
 
 ## Shareholder Support for Microsoft Dynamics Sync {#shareholder-support-for-microsoft-dynamics-sync}
 
@@ -53,7 +53,7 @@ The dashboard is now enhanced to include more at-a-glance data:
 
 ## RTP - New Mobile Templates for Campaigns {#rtp-new-mobile-templates-for-campaigns}
 
-Quickly and easily [create mobile campaigns](../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) with these new templates.
+Quickly and easily [create mobile campaigns](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) with these new templates.
 
 ## RTP - User Context API {#rtp-user-context-api}
 
@@ -64,4 +64,3 @@ Use a new call that tracks visitor's past visit history. Personalize campaigns b
 * What RTP campaigns they have seen
 
 Visit [developers.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/) for full details.
-

@@ -22,7 +22,7 @@ Marketo Account Based Marketing provides all of the essentials in one unified pl
 >
 >ABM is available as an add-on to your Marketo subscription, so please contact your sales rep to have it implemented.
 
-## [Audit Trail](https://docs.marketo.com/display/docs/audit+trail) {#audit-trail}
+## [Audit Trail](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
 
 Audit trail provides a comprehensive history of the changes made within your Marketo subscription. It will create accountability among users and admins, help identify the cause of unexpected behavior, and provide the security of knowing who's doing what and when. This information will be available at any point in time and can be used to answer questions such as:
 
@@ -32,7 +32,7 @@ Audit trail provides a comprehensive history of the changes made within your Mar
 
 ![](assets/audit-trail.png)
 
-## [Marketo-Vibes SMS LaunchPoint Integration](https://docs.marketo.com/display/docs/vibes+sms+messages) {#marketo-vibes-sms-launchpoint-integration}
+## [Marketo-Vibes SMS LaunchPoint Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
 Easily create SMS messages right within Marketo. Personalize and target your message using your rich Marketo data, and easily monitor its performance using the SMS message dashboard.
 
@@ -65,7 +65,7 @@ Use new search functionality to efficiently find and replace content within your
 
 Tokens can now be used in the “External URL” area of the insert image experience! If you’ve specified images with `{{my.tokens}}`, you can now reference these tokens within Email Editor 2.0. Note that the image will still appear broken in the Email Editor 2.0 canvas. But, you will see them rendered within Preview and Send Sample before sending out your email.
 
-## [Multiple Branding Domains](https://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
+## Multiple Branding Domains {#multiple-branding-domains}
 
 Gone are the days where email tracking links could only be branded with a single branding domain. You can now add multiple branding domains to inspire consumer confidence, create a more streamlined look to focus on brand, improve email deliverability, and choose, on a per email basis, which branding domain to use for each email’s tracking links.
 

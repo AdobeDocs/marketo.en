@@ -10,7 +10,7 @@ The following features are included in the August 2014 Release. Check your Marke
 
 ## Marketing Calendar Licenses {#marketing-calendar-licenses}
 
-After September 5th, 2014 only 5 users can have free access to the marketing calendar. Be sure to [Issue/Revoke a Marketing Calendar License](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) to the users of your choice before then for un-interrupted access.
+After September 5th, 2014 only 5 users can have free access to the marketing calendar. Be sure to [Issue/Revoke a Marketing Calendar License](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) to the users of your choice before then for un-interrupted access.
 
 ![--](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -28,7 +28,7 @@ The following new user permissions were added:
 
 ## Export Users and Roles from Admin {#export-users-and-roles-from-admin}
 
-You can now [Export a List of Users and Roles](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) from Marketo. You can also include a "Last Login" time stamp to be included with the export.
+You can now [Export a List of Users and Roles](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) from Marketo. You can also include a "Last Login" time stamp to be included with the export.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -89,4 +89,3 @@ Admin users can now lock users due to multiple failed login attempts. You can al
 You can now exclude specific IPs from all tracking and reporting in Real-Time Personalization.
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)
-
