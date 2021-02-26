@@ -12,15 +12,15 @@ title: Delete a Web Campaign
 
    >[!NOTE]
    >
-   >To make it easier to find the web campaign you want, use the [filter feature](filter-web-campaigns.md).
+   >To make it easier to find the web campaign you want, use the [filter feature](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. On the Web Campaigns page, click **Delete **on the campaign you want to delete.
+1. On the Web Campaigns page, click **Delete** on the campaign you want to delete.
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 
-1. A confirmation message appears to confirm if you want to delete the web campaign. 
+1. A confirmation message appears to confirm if you want to delete the web campaign.
 
 >[!MORELIKETHIS]
 >
->* [Edit a Web Campaign](edit-an-existing-web-campaign.md)
->* [Launch/Pause a Web Campaign](launch-pause-a-web-campaign.md)
+>* [Edit a Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/edit-an-existing-web-campaign.md)
+>* [Launch/Pause a Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md)

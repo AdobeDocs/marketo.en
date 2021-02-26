@@ -16,10 +16,7 @@ Use a trigger to send an email or alert, or change a value or a score based on v
 
    >[!NOTE]
    >
-   >**Deep Dive**
-   >
-   >
-   >Smart Lists can do amazing things. Learn more in the [Smart List Deep Dive](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Smart Lists can do amazing things. Learn more in the [Smart List Deep Dive](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Search for the trigger and then drag and drop the trigger onto the canvas.
 
@@ -53,17 +50,10 @@ Use a trigger to send an email or alert, or change a value or a score based on v
    >
    >With multiple triggers, a person goes through to the flow if ANY one of the triggers gets activated.
 
-   [Define Smart List for Smart Campaign | Batch](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   To run the campaign on a set of people all at the same time, learn how to [Define Smart List for Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Define Smart List for Smart Campaign | Batch](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >    * [Add a Flow Step to a Smart Campaign](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >    * [Define a Smart List for Predictive Content Activities](../../../product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
-   >    
-   >
-
-To run the campaign on a set of people all at the same time, learn how to . 
+   >* [Define Smart List for Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Add a Flow Step to a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [Define a Smart List for Predictive Content Activities](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)

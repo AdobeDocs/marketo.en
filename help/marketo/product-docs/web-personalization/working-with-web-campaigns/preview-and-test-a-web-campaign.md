@@ -10,11 +10,11 @@ This article shows you different ways to preview a web campaign, and also how to
 
 ## Preview a Web Campaign on the Creation Page {#preview-a-web-campaign-on-the-creation-page}
 
-1. Go to **Web** **Campaigns**.
+1. Go to **Web Campaigns**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Click** Create New Web Campaign**** **or the icon to edit an existing campaign.
+1. Click **Create New Web Campaign** or the icon to edit an existing campaign.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
@@ -28,11 +28,12 @@ This article shows you different ways to preview a web campaign, and also how to
 
    >[!NOTE]
    >
-   >You also have the option of installing a browser plug-in (either [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) or [Firefox](https://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) for the best experience previewing your campaign. See the section below.
+   >You also have the option of installing a browser plug-in (either [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) or [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) for the best experience previewing your campaign. See the section below.
 
 ## Preview a Web Campaign on the Creation Page Using the Browser Plug-In {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
-1. Follow steps 1 & 2 from the `section above`.
+1. Follow steps 1 & 2 from the section above.
+
 1. Click the link to the browser plug-in (in this case we're using Chrome).
 
    ![](assets/4-1.png)
@@ -45,7 +46,7 @@ This article shows you different ways to preview a web campaign, and also how to
 
    ![](assets/six.png)
 
-1. Go back to Marketo. Add the page URL and click **Preview**. 
+1. Go back to Marketo. Add the page URL and click **Preview**.
 
    ![](assets/seven.png)
 
@@ -73,8 +74,9 @@ Create a sandbox segment and campaign.
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
-1. Name the segment. 
-1. Under Behavioral, drag Include Pages onto the canvas. Add the value &#42;sandbox=1&#42;. Click Save & Define Campaign.
+1. Name the segment.
+
+1. Under Behavioral, drag Include Pages onto the canvas. Add the value &#42;sandbox=1&#42;. Click **Save & Define Campaign**.
 
    ![](assets/segment.png)
 
@@ -82,10 +84,12 @@ Create a sandbox segment and campaign.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Complete the campaign creative and Click **Launch**.  
+1. Complete the campaign creative and Click **Launch**.
+
    ![](assets/click-launch.jpg)
 
-1. Go to your website, add the URL parameter "?sandbox=1" at the end of the URL. Example: [www.marketo.com?sandbox=1](https://www.marketo.com/?sandbox=1)
+1. Go to your website, add the URL parameter "?sandbox=1" at the end of the URL. Example: `www.marketo.com?sandbox=1`.
+
 1. See the campaign react on your website.
 
 >[!NOTE]
@@ -94,5 +98,4 @@ Create a sandbox segment and campaign.
 
 >[!NOTE]
 >
->Redirect campaigns cannot be previewed. The only way to test them is by using a sandbox segment (that targets by specific pages - &#42;sandbox=redirect&#42; )
-
+>Redirect campaigns cannot be previewed. The only way to test them is by using a sandbox segment (that targets by specific pages - &#42;sandbox=redirect&#42;)

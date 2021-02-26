@@ -20,6 +20,4 @@ title: Archive a Web Campaign
 
 >[!MORELIKETHIS]
 >
->* [Delete a Web Campaign](delete-a-web-campaign.md)
->
-
+>[Delete a Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)

@@ -8,14 +8,14 @@ title: Release Notes -June '19
 
 The following features are included in the June '19 release. Check your Marketo edition for feature availability.
 
-***Quarterly Releases***
+**_Quarterly Releases_**
 
 The following features were released on June 14, 2019.
 
 ## Marketo Core Services {#marketo-core-services}
 
-* **Bulk Extract File Checksum**: Verify that a complete file was retrieved by comparing your file hash to the checksum string of your completed extract jobs. 
-* **Automated Migration from Email 1.0 to Email 2.0:** Email 2.0 is fully compatible with Email 1.0 emails and templates. Enjoy new capabilities, such as the ability to group content elements (images, text, etc.) into modules, define variables like String, Color, Image, etc. within templates, and leverage fully responsive starter templates. Also includes a visual Email Template Picker.
+* **Bulk Extract File Checksum**: Verify that a complete file was retrieved by comparing your file hash to the checksum string of your completed extract jobs.
+* **Automated Migration from Email 1.0 to Email 2.0**: Email 2.0 is fully compatible with Email 1.0 emails and templates. Enjoy new capabilities, such as the ability to group content elements (images, text, etc.) into modules, define variables like String, Color, Image, etc. within templates, and leverage fully responsive starter templates. Also includes a visual Email Template Picker.
 
 >[!CAUTION]
 >
@@ -23,11 +23,11 @@ The following features were released on June 14, 2019.
 
 ## Account-Based Marketing {#account-based-marketing}
 
-* **LinkedIn Account Matching`<sup>BETA</sup>`** : A new ABM capability is now available in beta, offering you the ability to send lists of known and whitespace accounts directly from Marketo into LinkedIn. This functionality is automatically included for all Marketo ABM customers.
+* **LinkedIn Account Matching (BETA)** : A new ABM capability is now available in beta, offering you the ability to send lists of known and whitespace accounts directly from Marketo into LinkedIn. This functionality is automatically included for all Marketo ABM customers.
 
 <br>&nbsp;
 
-***Releasing Throughout the Quarter***
+**_Releasing Throughout the Quarter_**
 
 The following features are expected to release throughout the second calendar quarter and into the beginning of the third quarter of 2019.
 
@@ -35,18 +35,18 @@ The following features are expected to release throughout the second calendar qu
 
 * **Event Caps** and **Event Goals** are generally available in Marketo Sky under the Premium Events add-on.
 
-    * Event Caps: Optimize the customer experience for your events and webinars with registration caps, page redirects, and waitlisting functionality.
-    * Event Goals: Set event registration and attendance goals and track progress in real time.
+   * Event Caps: Optimize the customer experience for your events and webinars with registration caps, page redirects, and waitlisting functionality.
+   * Event Goals: Set event registration and attendance goals and track progress in real time.
 
 * **Full Navigation Links**: We've enabled navigation to all permissioned applications, such as Hootsuite, Calendar, and more.
 * **Email, Landing Page, Snippet, Form, Image, and File List Views**: View, search, and take mass actions on any of your assets in Design Studio.
-* **Image, File, and Snippet Details Page**: Get quick details about your assets with metadata like *created at/by* and actions like *delete* and *approve*.
+* **Image, File, and Snippet Details Page**: Get quick details about your assets with metadata like _created at/by_ and actions like _delete_ and _approve_.
 * **Community Blog Posts Widget**: Access recent posts from the Community within My Marketo.
-* **Expiring Soon Widget**: Add the “Expiring Soon” widget to your My Marketo dashboard to see which campaigns and landing pages are set to expire next. 
+* **Expiring Soon Widget**: Add the “Expiring Soon” widget to your My Marketo dashboard to see which campaigns and landing pages are set to expire next.
 * **More Smart List Cards**: Segment and target appropriately with additional smart list cards, including “Create Task” flow step, CRM smart list rules, and more.
 * **Email Champion/Challenger Details Page**: See data like winning criteria, created at, etc. from your email champion/challenger tests.
 
-Marketo Sales Connect
+## Marketo Sales Connect {#marketo-sales-connect}
 
 * **Bulk Actions in Salesforce Customization**: Maximize productivity by sending emails and adding contacts to campaigns in bulk with Salesforce Customization.
 * **Select, Drag & Drop**: Easily organize your Sales Connect instance with the ability to drag and drop templates into intuitive categories.

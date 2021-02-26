@@ -22,7 +22,7 @@ You can schedule the web campaign based on the web visitor's time or a selected 
 
    >[!NOTE]
    >
-   >To make it easier to find the campaign you want, use the [filter feature](filter-web-campaigns.md).
+   >To make it easier to find the campaign you want, use the [filter feature](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Open the Campaign Status menu and select **Schedule**.
 
@@ -52,11 +52,10 @@ You can schedule the web campaign based on the web visitor's time or a selected 
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
-1. The status of the campaign on the Campaigns page changes to **Scheduled **and the clock/calendar icon displays. Click this icon to edit the campaign schedule.
+1. The status of the campaign on the Campaigns page changes to **Scheduled** and the clock/calendar icon displays. Click this icon to edit the campaign schedule.
 
    ![](assets/image2016-1-14-8-3a27-3a32.png)
 
    >[!NOTE]
    >
    >The campaign status remains as **Scheduled** even when the campaign is running during the selected scheduled times. When a scheduled end date has passed, the campaign status changes to **Paused**.
-

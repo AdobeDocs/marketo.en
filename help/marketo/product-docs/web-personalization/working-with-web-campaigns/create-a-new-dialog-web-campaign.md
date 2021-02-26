@@ -10,7 +10,7 @@ title: Create a New Dialog Web Campaign
 
 Create a web campaign to personalize your web content in real-time and provide the right message, to the right user at the right time.
 
-A web campaign is a customized reaction associated with a specific segment. The reaction can be a dialog box on your website, an [in zone replacement](create-a-new-in-zone-web-campaign.md), a [widget feature](create-a-new-widget-web-campaign.md)or an email alert.
+A web campaign is a customized reaction associated with a specific segment. The reaction can be a dialog box on your website, an [in zone replacement](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), a [widget feature](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) or an email alert.
 
 1. Go to **Web Campaigns**.
 
@@ -34,7 +34,7 @@ A web campaign is a customized reaction associated with a specific segment. The 
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Display On</strong></td> 
-   <td colspan="1">Allows you to <a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">customize when and how</a> your web campaign displays.</td> 
+   <td colspan="1">Allows you to <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">customize when and how</a> your web campaign displays.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Dialog Style</strong></td> 
@@ -104,7 +104,7 @@ A web campaign is a customized reaction associated with a specific segment. The 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Rich Text Editor</strong></td> 
-   <td colspan="1"><p>The rich text editor allows for text formatting, linking and image insertion. <a href="using-the-web-personalization-rich-text-editor.md">Read more here</a>.</p></td> 
+   <td colspan="1"><p>The rich text editor allows for text formatting, linking and image insertion. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Read more here</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Preview on site</strong></td> 
@@ -121,17 +121,17 @@ A web campaign is a customized reaction associated with a specific segment. The 
 
    >[!TIP]
    >
-   >Speed up and simplify your campaign creation process by using our [built in templates](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) or by [saving your existing campaign](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) as a template for reuse.
+   >Speed up and simplify your campaign creation process by using our [built in templates](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) or by [saving your existing campaign](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) as a template for reuse.
 
 ## Edit a Web Campaign {#edit-a-web-campaign}
 
-1. From the **Web** **Campaigns** page, click **Edit** on the web campaign.
+1. From the **Web Campaigns** page, click **Edit** on the web campaign.
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->To make it easier to find the web campaign you want, use the [filter feature](filter-web-campaigns.md).
+>To make it easier to find the web campaign you want, use the [filter feature](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 ## Preview a Web Campaign {#preview-a-web-campaign}
 
@@ -141,11 +141,11 @@ A web campaign is a customized reaction associated with a specific segment. The 
 
 ## Clone a Web Campaign {#clone-a-web-campaign}
 
-See [Clone a Web Campaign](clone-a-web-campaign.md).
+See [Clone a Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
 ## Delete a Web Campaign {#delete-a-web-campaign}
 
-1. From the **Web Campaigns** page, click **Delete **on the web campaign you wish to delete.
+1. From the **Web Campaigns** page, click **Delete** on the web campaign you wish to delete.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
@@ -153,5 +153,5 @@ See [Clone a Web Campaign](clone-a-web-campaign.md).
 
 >[!MORELIKETHIS]
 >
->* [Create a New In Zone Web Campaign](create-a-new-in-zone-web-campaign.md)
->* [Create a New Widget Web Campaign](create-a-new-widget-web-campaign.md)
+>* [Create a RTP In Zone Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Create a RTP Widget Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

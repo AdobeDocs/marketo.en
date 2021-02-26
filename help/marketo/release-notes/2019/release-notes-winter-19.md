@@ -16,7 +16,7 @@ Please click the title links to view detailed articles for each feature, if avai
 
 >[!NOTE]
 >
->Microsoft is pushing all online customers to upgrade to the latest version of Microsoft Dynamics. If you are integrating your Marketo instance with Dynamics Online, you will need to [upgrade to the latest version of the Marketo Solution](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) before **January 31, 2019** to ensure that your integration will continue working.
+>Microsoft is pushing all online customers to upgrade to the latest version of Microsoft Dynamics. If you are integrating your Marketo instance with Dynamics Online, you will need to [upgrade to the latest version of the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) before **January 31, 2019** to ensure that your integration will continue working.
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ Please click the title links to view detailed articles for each feature, if avai
 
 ## Core Platform Enhancements {#core-platform-enhancements}
 
-** [Email CC for Marketo Emails](../../product-docs/email-marketing/general/email-cc.md)**
+**[Email CC for Marketo Emails](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
 
 Include up to five CC addresses per recipient on emails sent through Marketo.
 
@@ -33,10 +33,10 @@ Include up to five CC addresses per recipient on emails sent through Marketo.
 * **Multi-Branding Domain Support for Asset API:** Approving and cloning assets produce the same results within the API and UI.
 * **Email CC Support for Asset API**: Users cloning, approving, and processing emails via the API will maintain parity with the UI settings.
 
-** [Munchkin v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+**[Munchkin v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
-* **API-Only Mode**: Users can now determine when and how to track members of their database by allowing single-page web apps to explicitly call when they want to record a webpage visit instead of relying on Marketo's automatic tracking. 
-* **Opt-Out Management**: Easily manage opt-outs by matching the opt-out cookie domain with the Munchkin tracking cookie domain. 
+* **API-Only Mode**: Users can now determine when and how to track members of their database by allowing single-page web apps to explicitly call when they want to record a webpage visit instead of relying on Marketo's automatic tracking.
+* **Opt-Out Management**: Easily manage opt-outs by matching the opt-out cookie domain with the Munchkin tracking cookie domain.
 * **Domain-Level Decider Parameter**: Two-letter domains (i.e. " [website.io](https://website.io)") will automatically track in Marketo without additional setup requirements.
 
 ## Marketo Sales Engage {#marketo-sales-engage}
@@ -47,8 +47,8 @@ Include up to five CC addresses per recipient on emails sent through Marketo.
 * **Email Service**: Enjoy better deliverability plus improved Reply Tracking, Scheduled Email functionality, and bulk email functionality by connecting to Microsoft Outlook (either through Office365 or On-Prem through the Email Connection tab).
 * **New Admin Settings**: Two admin pages have been added to optimize your Sales Engage instance
 
-    * *Team Management* supports a seamless account set-up process by allowing admins to edit subscriptions and teams.
-    * *Salesforce Admin Settings* helps teams set up their SFDC sync faster and easier than ever before.
+   * _Team Management_ supports a seamless account set-up process by allowing admins to edit subscriptions and teams.
+   * _Salesforce Admin Settings_ helps teams set up their SFDC sync faster and easier than ever before.
 
 * **OWA Plugin for Windows**: With one single add-in, all Windows Office365 clients will be supported in Sales Engage, providing the ability to use Live Feed in Outlook. The new plugin will be available in the Microsoft Store.
 * **Activities Pusher**: Sync Sales Engage to the core Marketo platform to leverage real-time marketing insights.
@@ -57,11 +57,11 @@ Include up to five CC addresses per recipient on emails sent through Marketo.
 
 >[!NOTE]
 >
->Marketo Sky releases occur on a more frequent cadence. The following features and enhancements are expected to release during late Q4/early Q1. For more details and updates, check our  [Sky documentation](https://help.marketo.com/hc/en-us/articles/360012858573).
+>Marketo Sky releases occur on a more frequent cadence. The following features and enhancements are expected to release during late Q4/early Q1. For more details and updates, check our [Sky documentation](https://help.marketo.com/).
 
 * **Optional Default Experience**: Marketo users may set Marketo Sky as their default experience if they have been provided access by an Admin.
 
-* **Reimagined My Marketo**: Customize your experience by adding widgets that provide critical information, notifications, and links to your most frequently visited areas. 
+* **Reimagined My Marketo**: Customize your experience by adding widgets that provide critical information, notifications, and links to your most frequently visited areas.
 
 * **Design Studio List Views & Detail Pages**: Enjoy an increased level of organization and accuracy with filterable and searchable list views of emails, landing pages, and forms. Asset Detail Pages provide key information around each asset, including which programs the asset is used by, the number of snippets being used, and more.  
 
@@ -74,7 +74,7 @@ Include up to five CC addresses per recipient on emails sent through Marketo.
 
 ## Account-Based Marketing {#account-based-marketing}
 
-** [ABM Persona-Based Segmentation & Filtering](../../product-docs/account-based-marketing/using-personas.md)**
+**[ABM Persona-Based Segmentation & Filtering](/help/marketo/product-docs/account-based-marketing/using-personas.md)**
 
 Personalize your ABM campaigns for specific personas within named accounts. The ABM Persona feature creates a default job title based on lead segmentation and allows configuration of additional persona segmentations.
 
@@ -98,8 +98,8 @@ To manage domains and subdomains more efficiently, users can now add subdomains 
 
 We’ve updated our SDK for Android to a more modern, stable and scalable framework that contains more flexibility and new engineering features. Android app developers can now directly use Google’s [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) with this new SDK.
 
-* [Developer instructions](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application) 
-* [Developer FAQ](https://developers.marketo.com/mobile/installation/#android_fcm_faq) 
+* [Developer instructions](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
+* [Developer FAQ](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
 
 >[!NOTE]
 >

@@ -31,40 +31,24 @@ Release dates are subject to change.
    <th width="250px">Progress</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-jan-20.md">January '20</a></td> 
-   <td colspan="1">January 17, 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">January '21</td> 
+   <td colspan="1">January 15, 2021</td> 
+   <td colspan="1">Shipped</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-feb-20.md">February '20</a></td> 
-   <td colspan="1">February 21, 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">May '21</td> 
+   <td colspan="1">May 7, 2021</td> 
+   <td colspan="1">In Progress</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-june-20.md">June '20</a></td> 
-   <td colspan="1">June 5, 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">August '21</td> 
+   <td colspan="1">August 13, 2021</td> 
+   <td colspan="1">On Schedule</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-july-20.md">July '20</a></td> 
-   <td colspan="1">July 31, 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">October '20</td> 
-   <td colspan="1">October 16, 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">October '21</td> 
+   <td colspan="1">October 15, 2021</td> 
+   <td colspan="1">On Schedule</td> 
   </tr> 
  </tbody> 
 </table>
-

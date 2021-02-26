@@ -16,7 +16,7 @@ Use the clone feature on the Web Campaigns page to copy the campaign settings an
 
    >[!NOTE]
    >
-   >To make it easier to find the web campaign you want, use the [filter feature](filter-web-campaigns.md).
+   >To make it easier to find the web campaign you want, use the [filter feature](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. For the web campaign, click **Clone**.
 
@@ -32,8 +32,6 @@ Use the clone feature on the Web Campaigns page to copy the campaign settings an
 
 >[!MORELIKETHIS]
 >
->* [Create a New In Zone Web Campaign](create-a-new-in-zone-web-campaign.md)
->* [Create a New Widget Web Campaign](create-a-new-widget-web-campaign.md)
->* [Create a New Dialog Web Campaign](create-a-new-dialog-web-campaign.md)
->
-
+>* [Create a Dialog Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Create a RTP In Zone Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Create a RTP Widget Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
