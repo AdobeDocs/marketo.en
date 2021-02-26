@@ -46,10 +46,6 @@ Gone are the days where you have to re-approve everything each time a snippet is
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## Custom Activities {#custom-activities}
-
-Marketo admins can now define and manage their custom activity types via the Marketo Custom Activity Definition modeler. Similar to (and in conjunction with) the Marketo Custom Object Modeler, admins can now extend the data model to suit their exact business needs. Details on how to use this functionality is available on the [Marketo documentation site](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md) {#custom-activities).
-
 ## [Landing Page, Landing Page Template, and Form APIs](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
 The Marketo REST APIs now support control over Marketo landing pages, landing page templates, and forms. Users can now create, update content, approve, and delete these assets directly via the Marketo REST API.
@@ -93,3 +89,7 @@ Today, users are invited to Marketo subscription for an indefinite period of tim
 Now, you can view the number of records and fields for all published custom objects.
 
 ![](assets/custom-objects-grid.png)
+
+## Custom Activities {#custom-activities}
+
+Marketo admins can now define and manage their custom activity types via the Marketo Custom Activity Definition modeler. Similar to (and in conjunction with) the Marketo Custom Object Modeler, admins can now extend the data model to suit their exact business needs. Details on how to use this functionality is available on the [Marketo documentation site](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md) {#custom-activities).
