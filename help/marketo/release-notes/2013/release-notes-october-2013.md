@@ -10,7 +10,7 @@ The following features are included in the October 2013 release.
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Templates.marketo.com](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates.md) showcases email and landing page templates (including responsive mobile email templates) which you can download from the Marketo Program Library. We will add templates monthly, check back often!
+[Templates.marketo.com](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) showcases email and landing page templates (including responsive mobile email templates) which you can download from the Marketo Program Library. We will add templates monthly, check back often!
 
 ## developers.marketo.com {#developers-marketo-com}
 
