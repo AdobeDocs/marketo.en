@@ -10,7 +10,7 @@ The following features are included in the Fall '15 release. Please check your M
 
 ## Subscribe to a Smart List {#subscribe-to-a-smart-list}
 
-[Subscribe to a Smart List](../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
+[Subscribe to a Smart List](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
 Subscribe to Smart List allows marketers to export a smart list and email it to the stakeholders that are not using Marketo, for example, Sales or Telemarketing teams.
 
@@ -24,20 +24,19 @@ Multiple subscriptions can be created on a smart list. There is limitation of 10
 
 ## Marketo Custom Objects {#marketo-custom-objects}
 
-[Marketo Custom Objects](https://docs.marketo.com/display/docs/marketo+custom+objects)
+[Marketo Custom Objects](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
-Easily create custom objects from the admin UI. We currently support the ability to create a 1:N custom object in Marketo and connect it to a lead or company. 
+Easily create custom objects from the admin UI. We currently support the ability to create a 1:N custom object in Marketo and connect it to a lead or company.
 
 >[!NOTE]
 >
 >Marketo Custom Objects are not available for Spark.
 
-
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
 ## Marketo Insights for Google Chrome {#marketo-insights-for-google-chrome}
 
-[Marketo Insights for Google Chrome](../../product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 We’re excited to announce the release of an update to our Google Mail Sales Insight extension! View it in the  [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
@@ -51,15 +50,15 @@ This update includes many new features and functionality:
 
 ## Marketo Mobile Engagement - Tokens, Send Sample, and Preview {#marketo-mobile-engagement-tokens-send-sample-preview}
 
-* [Tokens](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
-* [Send Sample](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
-* [Preview](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
+* [Tokens](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
+* [Send Sample](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
+* [Preview](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-Easily personalize push notifications with [tokens](https://docs.marketo.com/pages/viewpage.action?pageId=7512454).
+Easily personalize push notifications with [tokens](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-You can also [preview](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) or send out a [sample](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) push notification before you deploy it to customers.
+You can also [preview](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) or send out a [sample](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) push notification before you deploy it to customers.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -67,7 +66,7 @@ You can also [preview](../../product-docs/mobile-marketing/push-notifications/pr
 
 ## Smart Campaigns in Moments {#smart-campaigns-in-moments}
 
-[Smart Campaigns in Moments](../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+[Smart Campaigns in Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
 Stats on Emails sent through Smart Campaigns are now available in Moments. Other features in this upgrade include:
 
@@ -80,7 +79,7 @@ Stats on Emails sent through Smart Campaigns are now available in Moments. Other
 
 ## RTP - Content Analytics and Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Content Analytics](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) and Recommendations
+[Content Analytics](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) and Recommendations
 
 RTP Content Analytics shows you the performance of your web content assets from regular web visits and also visits generated from RTP’s content recommendation engine.
 
@@ -91,13 +90,13 @@ RTP Content Analytics shows you the performance of your web content assets from 
 RTP’s Assets page is now split into Content Analytics and Content Recommendations.
 
 * **Content Analytics:** Shows the views and direct leads of all discovered and defined web content, helping you analyze your best performing content
-* **Content Recommendations**: Shows impressions and clicks from RTP’s recommended content and associated lead attribution. You can also edit and enable content recommendations from this page for the [bar](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine) and [rich media](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine) recommendations.
+* **Content Recommendations**: Shows impressions and clicks from RTP’s recommended content and associated lead attribution. You can also edit and enable content recommendations from this page for the [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) and [rich media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) recommendations.
 
 * All direct lead data in these two pages has been retrospectively updated since the start of the year (Jan 1, 2015).
 
 ## RTP - Clone an RTP Campaign {#rtp-clone-an-rtp-campaign}
 
-[RTP - Clone an RTP Campaign](../../product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
+[RTP - Clone an RTP Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
 
 Cloning an RTP campaign makes it quicker and more efficient to create more personalized web campaigns. Use the clone feature in RTP’s campaign page to copy the campaign settings and change the content for split testing optimization, or clone a campaign with the same content and target it towards a different segment. Create campaigns in seconds!
 
@@ -109,52 +108,35 @@ We are making several improvements to the rich text editor. After we released th
 
 * VML is now supported within your HTML code:  
 
-  ```
-  <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
-  ```
-
-  ```
-  <v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
-  ```
-
-  ```
-  </v:background>
-  ```
+```
+<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+<v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
+</v:background>
+```
 
 * Anything can now be inserted in a valid HTML comment (certain syntaxes like seen below were previously stripped):  
 
-  ```
-  <!--[if gte mso 9]> 
-  ```
+`<!--[if gte mso 9]> <![endif]-->`
 
-  ```
-  <![endif]-->
-  ```
-
-* Do not pad empty table cells with `**`
+* Do not pad empty table cells with `&nbsp;`
 
 * Maximize/minimize button added to the HTML source editor
 * Pre-existing table properties are now identified and displayed in the Table Properties dialog
 * Both rows of buttons are now shown by default.
 * The editor will now accept any element (even deprecated or non-standard elements):  
 
-  ```
-  <myCustomElement>Hello World!</myCustomElement>
-  ```
+`<myCustomElement>Hello World!</myCustomElement>`
 
 * The editor will now accept any attribute (even deprecated or non-standard attributes):  
 
-  ```
-  <myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
-  ```
-
-  ```
-  <td background="someImage.png"> 
-  ```
+```
+<myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
+<td background="someImage.png"> 
+```
 
 ## Microsoft Dynamics - Validate Sync {#microsoft-dynamics-validate-sync}
 
-[Microsoft Dynamics - Validate Sync](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+[Microsoft Dynamics - Validate Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
 This new admin tool runs a series of checks to see if your sync configurations have been set up correctly.
 
@@ -185,4 +167,4 @@ This new plug-in runs various actions in an asynchronous mode to help increase p
 
 ## Search by URL of Landing Page in Design Studio {#search-by-url-of-landing-page-in-design-studio}
 
-In the Design Studio Landing page grid, you can now search by page URL to find your landing pages. This is also exportable. 
+In the Design Studio Landing page grid, you can now search by page URL to find your landing pages. This is also exportable.

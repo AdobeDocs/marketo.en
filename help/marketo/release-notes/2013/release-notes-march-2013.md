@@ -1,18 +1,16 @@
 ---
 unique-page-id: 2951101
-description: Release Notes -March 2013 - Marketo Docs - Product Documentation
-title: Release Notes -March 2013
+description: Release Notes - March 2013 - Marketo Docs - Product Documentation
+title: Release Notes - March 2013
 ---
 
 # Release Notes: March 2013 {#release-notes-march}
 
-The following features are included in the March release. Please check your [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) for feature availability.
-
-After the release, be sure to check out the [New Release](release-notes-december-2013.md) tab in the Community for detailed Knowledge Base articles for each feature!
+The following features are included in the March release.
 
 ## Marketo Calendar Files {#marketo-calendar-files}
 
-Create a calendar file as a **My Token** to be used in your event confirmation and reminder emails. This integrated calendar file (e.g. .ics file) will render all tokens, including My Tokens and the `{{member.webinar URL}}` token.
+Create a calendar file as a **My Token** to be used in your event confirmation and reminder emails. This integrated calendar file (e.g., .ics file) will render all tokens, including My Tokens and the `{{member.webinar URL}}` token.
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 

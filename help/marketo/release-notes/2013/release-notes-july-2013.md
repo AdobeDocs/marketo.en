@@ -6,9 +6,7 @@ title: Release Notes -July 2013
 
 # Release Notes: July 2013 {#release-notes-july}
 
-The following features are included in the July release which is scheduled for a Friday, July 26 rollout.  Please check your  [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) for feature availability. 
-
-After the release, be sure to check out the [New Release](release-notes-december-2013.md) tab in the Community for detailed Help Articles for each feature!
+The following features are included in the July release which is scheduled for a Friday, July 26 rollout.
 
 ## Exhausted Content Widget on the Dashboard {#exhausted-content-widget-on-the-dashboard}
 
@@ -36,5 +34,4 @@ View and sort the member grid by the date that the lead was added.
 
 ## Changes to Spell Check in WYSIWYG Editor {#changes-to-spell-check-in-wysiwyg-editor}
 
-The service utilized by the WYSIWYG editor for spell check was discontinued. We removed the Spell Check button from the editor until we find a replacement.   
-
+The service utilized by the WYSIWYG editor for spell check was discontinued. We removed the Spell Check button from the editor until we find a replacement.

@@ -1,10 +1,10 @@
 ---
 unique-page-id: 7515616
-description: Guided Landing Page Templates - Marketo Docs - Product Documentation
-title: Guided Landing Page Templates
+description: Guided Landing Page Template List - Marketo Docs - Product Documentation
+title: Guided Landing Page Template List
 ---
 
-# Guided Landing Page Templates {#guided-landing-page-templates}
+# Guided Landing Page Template List {#guided-landing-page-template-list}
 
 Browse our collection of example templates, for use with the [Guided Landing Page Editor](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Each template is fully responsive and based off of the Bootstrap framework.
 

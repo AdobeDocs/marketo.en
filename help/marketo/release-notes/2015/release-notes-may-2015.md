@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7514821
-description: Release Notes -May 2015 - Marketo Docs - Product Documentation
-title: Release Notes -May 2015
+description: Release Notes - May 2015 - Marketo Docs - Product Documentation
+title: Release Notes - May 2015
 ---
 
 # Release Notes: May 2015 {#release-notes-may}
@@ -10,7 +10,7 @@ The following features are included in the May 2015 release. Please check your M
 
 ## Fully Responsive Landing Pages
 
-[Fully Responsive Landing Pages](../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
+[Fully Responsive Landing Pages](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
 We're releasing a new landing page editing mode and template syntax. Unlike our "Free-form" landing page editor, the new "Guided" landing page editor will provide a structured editing experience for fully responsive landing pages.
 
@@ -18,7 +18,7 @@ We're releasing a new landing page editing mode and template syntax. Unlike our 
 
 ## Abort Email Program
 
-[Abort Email Program](../../product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
+[Abort Email Program](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
 
 Did you hit send before an email program was ready to go out? Pull the brakes with the new abort email program button. This will stop in-flight email programs right in their tracks.
 
@@ -32,15 +32,12 @@ As of this release, valid HTML comments are now allowed and not stripped out whe
 
 ## RTP: Drag and Drop Segment Editor {#rtp-drag-and-drop-segment-editor}
 
-RTP: [Drag and Drop Segment Editor](https://docs.marketo.com/display/public/DOCS/RTP+Segments)
+RTP: [Drag and Drop Segment Editor](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 Drag and drop your criteria into the segment builder, define the value, and you’re well on your way to creating a real-time segment.
 
 ## RTP: Predictive Content Recommendations {#rtp-predictive-content-recommendations}
 
-[Predictive Content Recommendations](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine)
+[Predictive Content Recommendations](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
 Use RTP’s machine learning and predictive analytics algorithms to recommend the right content to the right prospect. Enhance your content assets visually with images and text descriptions and recommend more than one content asset.
-
-![](https://lh6.googleusercontent.com/yZhSkWzW3BES9hSTUirKxM5BENG6c1kuYoclQaSY49UZpjF0s4llnshW4DV-vp4myucgOH9IJ3SqyNdy-nc38Xgy-43IY3QblAS1jY5N8GcP4xgTD1Nbp7ibfZV4yc4PM6AHqt4)
-

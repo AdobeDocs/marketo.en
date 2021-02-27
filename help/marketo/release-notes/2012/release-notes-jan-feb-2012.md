@@ -8,15 +8,9 @@ title: Release Notes -Jan/Feb 2012
 
 The following features are included in the Jan/Feb Release. Check your Marketo edition for feature availability. Come back after the release for links to detailed feature documentation.
 
->[!NOTE]
->
->**Deep Dive**
->
->For other releases, see the [Release Notes](https://docs.marketo.com/display/docs/release+notes) deep dive.
-
 ## Advanced Dynamic Content {#advanced-dynamic-content}
 
-*Available for Pro and Enterprise Versions*
+_Available for Pro and Enterprise Versions_
 
 With advanced dynamic content you can create engaging email communications and landing pages relevant to your audience without having to create multiple assets for the same message. Upgraded Previewers allow you to view each unique version in a single screen.
 
@@ -24,7 +18,7 @@ With advanced dynamic content you can create engaging email communications and l
 
 ## Segmentation  {#segmentation}
 
-*Available for Pro and Enterprise Versions*
+_Available for Pro and Enterprise Versions_
 
 Segmentation is a group of segments, which are a targeted group of individuals to whom you market. Segments are defined by rules that are driven by filter criteria similar to smart lists. Your segments can be based on demographic data, such as job title or industry, or based on behaviors such as web pages visited or clicked links.
 
@@ -32,7 +26,7 @@ Segmentation is a group of segments, which are a targeted group of individuals t
 
 ## Snippets {#snippets}
 
-*Available for Pro and Enterprise Versions*
+_Available for Pro and Enterprise Versions_
 
 Store rich content that can be used over and over again to create static or dynamic emails and landing pages.
 
@@ -40,7 +34,7 @@ Store rich content that can be used over and over again to create static or dyna
 
 ## PURLs {#purls}
 
-*Available for Pro and Enterprise Versions*
+_Available for Pro and Enterprise Versions_
 
 Using Personalized URLs (PURLs) marketers can now create contact-specific URLs, to drive personalization, measurability and lift responses in multi-touch marketing programs for both direct mail and email campaigns.
 
@@ -98,4 +92,3 @@ Understand marketing contribution to individual opportunity revenue
 Gain insight into program lead velocity by understanding which programs acquired the fast movers
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)
-

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2951109
-description: Release Notes -October 2012 - Marketo Docs - Product Documentation
-title: Release Notes -October 2012
+description: Release Notes - October 2012 - Marketo Docs - Product Documentation
+title: Release Notes - October 2012
 ---
 
 # Release Notes: October 2012 {#release-notes-october}
@@ -16,7 +16,7 @@ A program can be imported from one Marketo subscription to another. For instance
 
 >[!NOTE]
 >
->Only Marketo users who have been granted permission by a Marketo admin user can import programs. 
+>Only Marketo users who have been granted permission by a Marketo admin user can import programs.
 >
 >Contact Marketo Support to connect a sandbox account your live subscription.
 
@@ -51,4 +51,3 @@ Create report subscriptions and send Revenue Explorer reports on a periodic basi
 >[!NOTE]
 >
 >Only available for users who have Revenue Explorer by purchasing Revenue Cycle Analytics with the Enterprise or the Select Edition.
-
