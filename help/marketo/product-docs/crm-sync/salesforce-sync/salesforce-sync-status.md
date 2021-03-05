@@ -45,7 +45,7 @@ By default, stats will be sorted by most recently started. You can sort by Start
 
    ![](assets/salesforce-sync-status-7.png)
 
-## Sync Status Fields
+## Sync Status Fields {#sync-status-fields}
 
 <table> 
  <colgroup> 
