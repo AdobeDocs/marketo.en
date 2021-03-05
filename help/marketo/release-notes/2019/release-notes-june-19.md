@@ -49,7 +49,6 @@ The following features are expected to release throughout the second calendar qu
 ## Marketo Sales Connect {#marketo-sales-connect}
 
 * **Bulk Actions in Salesforce Customization**: Maximize productivity by sending emails and adding contacts to campaigns in bulk with Salesforce Customization.
-* **Select, Drag & Drop**: Easily organize your Sales Connect instance with the ability to drag and drop templates into intuitive categories.
 * **Settings - Salesforce Page for Admin and Non-Admin**: Manage your Sales Connect instance with a clear view of the Salesforce instance connected to Sales Connect as well as My Email to Salesforce updates. Enhanced sync settings for Admins, Non-Admins, and Team Wide Sync are releasing in the coming months.
 * **Settings - Integration Page**: A one-stop shop for all of your integrations, so you can get the most out of our open ecosystem.
 * **Settings - Profile Page**: View and update your account details, change your password, and check the status of your instance’s implementation on this new profile page.

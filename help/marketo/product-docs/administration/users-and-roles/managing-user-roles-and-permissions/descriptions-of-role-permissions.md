@@ -24,7 +24,7 @@ When you [create or edit a role](/help/marketo/product-docs/administration/users
 
 View and make changes to settings in the My Account section of Admin.
 
-* Access Audit Trail - Gives users access to both Asset Audit Trail and Admin Audit Trail 
+* Access Audit Trail - Gives users access to both Asset Audit Trail and Admin Audit Trail
 * Access Channels - Gives users access only to modify the Channel tag, not other custom tags
 * Access Communication Limit - Gives users access to enable a communication limit in Admin
 * Access CRM - Gives users access to the CRM, such as Salesforce or Microsoft Dynamics, in Admin
@@ -50,7 +50,7 @@ View and make changes to settings in the My Account section of Admin.
 * Access Treasure Chest - Gives users access to the experimental features in the Treasure Chest in Admin
 * Access Users - Gives users access to edit and manage users (but not roles) in Admin
 * Access Webhooks - Gives users to Webhooks in Admin, for setting details and Response Mappings
-* Access Workspaces and Partitions - Gives users access to create, edit, and delete Workspaces and Partitions in Admin 
+* Access Workspaces and Partitions - Gives users access to create, edit, and delete Workspaces and Partitions in Admin
 
 ## Access API  {#access-api}
 
@@ -79,7 +79,7 @@ Gives users with the **API Only** **Role** access to the individual APIs listed 
 * Read-Write Opportunity
 * Read-Write Sales Person
 
-Access Analytics
+## Access Analytics {#access-analytics}
 
 Gives users access to the Analytics tabs, Email Insights, reports, and the three items below, unless they are unchecked.
 
@@ -89,7 +89,7 @@ Gives users access to the Analytics tabs, Email Insights, reports, and the three
 
 ## Access Calendar Presentations {#access-calendar-presentations}
 
-Gives users access to Calendar presentations ??- enables display of the Presentations button at the bottom?
+Gives users access to Calendar presentations - enables display of the Presentations button at the bottom.
 
 * Edit Calendar Presentations - Enables users to edit presentations in Calendar
 

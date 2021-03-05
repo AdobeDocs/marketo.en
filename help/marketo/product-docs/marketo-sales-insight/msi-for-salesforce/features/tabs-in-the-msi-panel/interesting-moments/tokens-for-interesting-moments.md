@@ -20,7 +20,9 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
 
 * `{{trigger.Trigger Name}}` which is always the actual trigger itself. For example: Clicks Link in Email.
 * `{{trigger.Name}}` is the name of the asset that triggered the campaign. For example: Clicks Link on Webpage is the URL itself, subject for Salesforce triggers, etc.
-* Additional triggers are available based on constraints, which are listed below:
+* Additional triggers are available based on constraints, which are listed below.
+
+**Email Triggers**
 
 <table> 
  <colgroup> 
@@ -34,6 +36,9 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   <col> 
   <col> 
   <col> 
+  <col>
+  <col>
+  <col>
   <col> 
  </colgroup> 
  <tbody> 
@@ -49,6 +54,10 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
    <th><code>{{trigger.Client IP Address}}</code></th> 
    <th><code>{{trigger.Sent By}}</code></th> 
    <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
    <td>Clicks Link in Email</td> 
@@ -62,6 +71,10 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>Email Bounces Hard</td> 
@@ -75,6 +88,10 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>Email Bounces Soft</td> 
@@ -88,6 +105,10 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>Email Is Delivered</td> 
@@ -101,6 +122,10 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>Opens Email</td> 
@@ -114,6 +139,44 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Received Forward to Friend Email</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Sent Forward to Friend Email</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td>
   </tr> 
   <tr> 
    <td>Unsubscribes from Email</td> 
@@ -123,10 +186,54 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
    <td><img src="assets/check.svg" alt="(tick)"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
    <td><img src="assets/check.svg" alt="(tick)"></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**Salesforce Triggers**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
    <td>Clicks Link in Sales Email</td> 
@@ -134,64 +241,505 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
    <td><img src="assets/check.svg" alt="(tick)"></td> 
    <td><img src="assets/check.svg" alt="(tick)"></td> 
    <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><br></td> 
+   <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>Sent Sales Email</td> 
+   <td>Is Sent Sales Email</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
    <td><img src="assets/check.svg" alt="(tick)"></td> 
    <td><img src="assets/check.svg" alt="(tick)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>Opens Sales Email</td> 
    <td><img src="assets/check.svg" alt="(tick)"></td> 
    <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td>
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
    <td><img src="assets/check.svg" alt="(tick)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>Sales Email Received</td> 
+   <td>Sales Email Bounces</td> 
    <td><img src="assets/check.svg" alt="(tick)"></td> 
    <td><img src="assets/check.svg" alt="(tick)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td colspan="1">Sales Email Bounced</td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(tick)"></td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(tick)"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>Sales Email is Received</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Opportunity is Updated</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Owner Changes</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Person is Converted</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Person is Deleted from SFDC</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Person is Synced to SFDC</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Removed from Opportunity</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Removed from SFDC Campaign</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Activity is Logged</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Activity is Updated</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Added to Opportunity</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Added to SFDC Campaign</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Status is Changed in SFDC Campaign</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**Sales Connect Triggers**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
+  </tr> 
+  <tr> 
+   <td>Clicks Link in Sales Email</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Is Sent Sales Email</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Opens Sales Email</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Sales Email Bounces</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Sales Email is Received</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Is Added to Sales Campaign</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr>
+   <td>Owner Changes</td> 
+   <td>Is Removed From Sales Campaign</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Received Sales Call</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**Miscellaneous**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
    <td>Fills Out Form</td> 
@@ -204,20 +752,45 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
    <td><img src="assets/check.svg" alt="(tick)"></td> 
    <td><img src="assets/check.svg" alt="(tick)"></td> 
    <td><br></td> 
-   <td><p><br></p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td colspan="1">Visits Web Page*</td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(tick)"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(tick)"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>Visits Web Page</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Clicks Link on Web Page</td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
  </tbody> 
 </table>
