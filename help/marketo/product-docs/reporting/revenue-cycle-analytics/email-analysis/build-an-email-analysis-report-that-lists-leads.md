@@ -10,48 +10,46 @@ title: Build an Email Analysis Report that Lists Leads
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
-Follow these steps to create an Email Analysis report that will show you every lead that was sent a specific Email, this report will also include Click and Open stats. 1. Launch Revenue Explorer.
+Follow these steps to create an Email Analysis report that will show you every lead that was sent a specific Email, this report will also include Click and Open stats.
 
-![](assets/image2014-9-17-19-3a12-3a54.png)
+1. Launch **Revenue Explorer**.
 
-1. Click **New Report**.
+   ![](assets/report-that-lists-leads-1.png)
 
-   ![](assets/image2014-9-17-19-3a13-3a1.png)
+1. Click **Create New** then **Report**.
 
-1. Select the Email Analysis area and click **OK**.
+   ![](assets/report-that-lists-leads-2.png)
 
-   ![](assets/image2014-9-17-19-3a14-3a0.png)
+1. Select Email Analysis and click **OK**.
+
+   ![](assets/report-that-lists-leads-3.png)
 
 1. Find the Email Name yellow dot, right-click it and select **Filter**.
 
-   ![](assets/image2014-9-17-19-3a14-3a6.png)
+   ![](assets/report-that-lists-leads-4.png)
 
 1. Double-click the email of your choice from the list and click **OK**.
 
-   ![](assets/image2014-9-17-19-3a14-3a11.png)
+   ![](assets/report-that-lists-leads-5.png)
 
-1. Drag the Email Name yellow dot onto Columns.
+1. Drag the **Email Name** yellow dot onto **Columns**.
 
-   ![](assets/image2014-9-17-19-3a15-3a0.png)
+   ![](assets/report-that-lists-leads-6.png)
 
    >[!TIP]
    >
    >There are many lead/company attributes that you can add as columns, check them out!
 
-1. Find the Full Name yellow dot and drag it onto Rows.
+1. Find the **Full Name** yellow dot and drag it onto **Rows**.
 
-   ![](assets/image2014-9-17-19-3a15-3a32.png)
+   ![](assets/report-that-lists-leads-7.png)
 
-1. Now add the Measures you are interested in by double-clicking them.
+1. Now add the **Measures** you are interested in by double-clicking them.
 
-   ![](assets/image2014-9-17-19-3a15-3a47.png)
+   ![](assets/report-that-lists-leads-8.png)
 
 >[!NOTE]
 >
 >Depending on the amount of data you have this report might take a while to refresh.
-
-Now that you are done your report should look something like this:
-
-![](assets/image2014-9-17-19-3a16-3a39.png)
 
 Mission complete!

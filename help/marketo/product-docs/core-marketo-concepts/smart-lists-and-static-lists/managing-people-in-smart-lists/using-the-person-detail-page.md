@@ -51,6 +51,10 @@ Person information is categorized into the following tabs:
 | Microsoft Lead Field |Built-in Microsoft fields. |
 | Activity Log |All activities related to the person. |
 
+>[!NOTE]
+>
+>You can also see Opportunity info [inserted via API](http://developers.marketo.com/rest-api/lead-database/opportunities/) for instances that are not synced with a CRM.
+
 ## Editing a Field {#editing-a-field}
 
 Many fields are editable. To update a person's information, type in a new value and click outside the field to save.
@@ -84,10 +88,10 @@ Many fields are editable. To update a person's information, type in a new value 
 >
 >Some fields are _not_ editable:
 >
+>* Activity Log
 >* Company Information
 >* Opportunities for SFDC Contacts
 >* Certain Marketo-specific fields, such as Created Date and Original Source Type.
->* Activity Log
 >
 >Learn more about [System Managed Fields](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
 

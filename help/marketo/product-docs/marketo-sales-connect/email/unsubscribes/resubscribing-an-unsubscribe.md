@@ -33,3 +33,7 @@ Sometimes people want to opt back into receiving emails. Here's how to make unsu
 1. Select the reason why the person is being opted back in to receive emails, then click **Remove Unsubscribe**.
 
    ![](assets/four.png)
+
+>[!NOTE]
+>
+>If you have the unsubscribe sync turned on, you must uncheck the opt out box on the record in Salesforce as well or the nightly sync will re-unsubscribe the person in Sales Connect, as it will detect the person is opted out in Salesforce. If either of the records are opt out/unsubscribed, the sync will mark the linked record as such.

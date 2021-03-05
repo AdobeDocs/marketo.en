@@ -203,6 +203,7 @@ user-guide-description: Marketo product documentation
       + [Edit and Delete Marketo Custom Object Fields](product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
       + [Import Custom Object Data](product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
       + [Trigger Off Custom Object Changes](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
+      + [Custom Object Metadata Export](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
     + Settings {#settings}
       + [Change Attribution Settings for Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
       + [Change Your Marketo Password](product-docs/administration/settings/change-your-marketo-password.md)
@@ -318,6 +319,7 @@ user-guide-description: Marketo product documentation
         + [Change Program Status](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
         + [Change Program Success](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)  
       + Microsoft Dynamics Flow Actions {#microsoft-dynamics-flow-actions}
+        + [Add or Remove People from your Dynamics Campaign](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
         + [Change Owner in Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
         + [Create Task in Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
         + [Sync Person to Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
@@ -522,6 +524,8 @@ user-guide-description: Marketo product documentation
         + [Microsoft Dynamics Sync: Opportunity Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
         + [Microsoft Dynamics Sync: User Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
         + [Sync Status](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
+        + [Campaign Sync Overview](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
+        + [Enable Campaign Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
       + Custom Dynamics Sync Filter Details {#custom-dynmaics-sync-filter-details}
         + [Create a Custom Dynamics Sync Filter](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
         + [Custom Sync Filter Rules for an Email Address](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
@@ -573,6 +577,7 @@ user-guide-description: Marketo product documentation
       + [Add/Remove Picklist Values](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
       + [Enable/Disable the Salesforce Sync](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
       + [Implied Salesforce Actions](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+      + [Salesforce Sync Status](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
   + Demand Generation {#demand-generation}
     + Ad Network Integrations {#ad-network-integrations}
       + [Add Facebook Custom Audiences as a LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
@@ -1638,10 +1643,11 @@ user-guide-description: Marketo product documentation
 + Release Notes {#release-notes}
   + [Release Schedule](release-notes/release-schedule.md)
   + 2020 {#2020}
-    + [Release Notes: Feb '20](release-notes/2020/release-notes-feb-20.md)
     + [Release Notes: Jan '20](release-notes/2020/release-notes-jan-20.md)
-    + [Release Notes: July '20](release-notes/2020/release-notes-july-20.md)
+    + [Release Notes: Feb '20](release-notes/2020/release-notes-feb-20.md)
     + [Release Notes: June '20](release-notes/2020/release-notes-june-20.md)
+    + [Release Notes: July '20](release-notes/2020/release-notes-july-20.md)
+    + [Release Notes: Oct '20](release-notes/2020/release-notes-oct-20.md)
   + 2019 {#2019}
     + [Release Notes: August '19](release-notes/2019/release-notes-august-19.md)
     + [Release Notes: June '19](release-notes/2019/release-notes-june-19.md)
