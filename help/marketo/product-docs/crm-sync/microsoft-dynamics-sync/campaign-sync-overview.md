@@ -30,7 +30,6 @@ The triggers will execute based on actions from the Marketo Flow Action “Add t
 >[!NOTE]
 >
 >Make sure the Campaign Sync is functional and the campaign is not inactive in Microsoft Dynamics.
-Related Articles
 
 >[!MORELIKETHIS]
 >
