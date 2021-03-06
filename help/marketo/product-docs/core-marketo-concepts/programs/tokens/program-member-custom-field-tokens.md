@@ -104,7 +104,7 @@ You can insert Program Member Custom Fields Tokens into emails, Landing Pages, S
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. Click on the message in the editor and click the {{ button to get the token selector.
+1. Click on the message in the editor and click the `{{` button to get the token selector.
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
