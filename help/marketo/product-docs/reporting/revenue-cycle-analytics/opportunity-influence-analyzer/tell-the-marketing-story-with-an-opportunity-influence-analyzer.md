@@ -18,7 +18,7 @@ Use an Opportunity Influence Analyzer to illustrate marketing's role in importan
 
    The Opportunity Influence Analyzer is a visual representation of the interactions and program and event successes involved in that opportunity. Let's explore the graph:
 
-    * ![--](assets/image2014-10-3-13-3a43-3a21.png) **Orange dots** represent [interesting moments](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) in the opportunity (emails opened, tradeshow booth visits, whitepaper downloads, etc.). Bigger dots indicate more interactions.
+    * ![--](assets/image2014-10-3-13-3a43-3a21.png) **Orange dots** represent interesting moments in the opportunity (emails opened, tradeshow booth visits, whitepaper downloads, etc.). Bigger dots indicate more interactions.
 
     * ![--](assets/image2014-10-3-13-3a44-3a9.png) **Binder icons** indicate program successes.
 

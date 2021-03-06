@@ -180,6 +180,7 @@ user-guide-description: Marketo product documentation
       + [Custom Field Type Glossary](product-docs/administration/field-management/custom-field-type-glossary.md)
       + [Delete a Custom Field in Marketo](product-docs/administration/field-management/delete-a-custom-field-in-marketo.md)
       + [Edit Field Aliases for List Import](product-docs/administration/field-management/edit-field-aliases-for-list-import.md)
+      + [Export All Object Metadata](product-docs/administration/field-management/export-all-object-metadata.md)
       + [Export a List of All Marketo API Field Names](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
       + [Export Used By Data for a Field](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
       + [Hide and Unhide a Field](product-docs/administration/field-management/hide-and-unhide-a-field.md)
@@ -239,6 +240,7 @@ user-guide-description: Marketo product documentation
       + [Export a List of Users and Roles](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
       + [Managing Marketo Users](product-docs/administration/users-and-roles/managing-marketo-users.md)
       + [Managing User Roles and Permissions](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
+      + [Export Roles and Permissions](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
       + [Descriptions of Role Permissions](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
       + [Enable No-Draft for Snippets](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
     + Workspaces and Person Partitions {#workspaces-and-person-partitions}
@@ -427,6 +429,7 @@ user-guide-description: Marketo product documentation
       + Tokens {#tokens}
         + [Managing My Tokens](product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
         + [Understanding My Tokens in a Program](product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+        + [Program Member Custom Field Tokens](product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)
     + Marketing Calendar {#marketing-calendar}
       + Understanding the Calendar {#understanding-the-calendar}
         + [Issue/Revoke a Marketing Calendar License](product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)
@@ -1020,6 +1023,7 @@ user-guide-description: Marketo product documentation
       + [Sales Connect Overview](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
       + [Getting Started with Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
       + [Quick Start Videos and Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
+      + [Change Your Sales Connect Password](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
       + Email Settings {#email-settings}
         + [Add Identity](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
         + [Add Your Email Signature](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
