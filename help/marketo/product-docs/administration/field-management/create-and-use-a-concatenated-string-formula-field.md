@@ -32,14 +32,16 @@ You can combine values from multiple fields or build a conditional value using a
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   Learn more about [tokens for flow steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   >[!TIP]
+   >
+   >Learn more about [tokens for flow steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Now you can add the formula field as a token in an email.
 
    ![](assets/seven.png)
 
-Good work! Now you have a smart field that knows what salutation to include based on gender. Have fun with this and get creative.
-
 >[!NOTE]
 >
->Formula fields can be used in landing pages, emails and smart list columns; they are not exported. Emails with formula fields cannot be sent via batch campaigns
+>Formula fields can be used in landing pages, emails and smart list columns (they are not exported). Emails with formula fields can **not** be sent using a batch campaign. Please use an [email script token](help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in this scenario.
+
+Good work! Now you have a smart field that knows what salutation to include based on gender. Have fun with this and get creative.

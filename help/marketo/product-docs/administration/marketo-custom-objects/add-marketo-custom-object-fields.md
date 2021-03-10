@@ -44,7 +44,7 @@ Fields define the specific information used by a custom object. Link fields have
 
    >[!TIP]
    >
-   >When you create a dedupe field, you can use it to remove duplicate fields in your database.
+   >Dedupe fields can be used to retrieve, update, or delete custom objects. Every custom object definition must contain at least one (and no more than three) dedupe fields.
 
 1. Add any other fields you need.
 
@@ -56,5 +56,5 @@ Fields define the specific information used by a custom object. Link fields have
 >
 >* [Add Marketo Custom Object Link Fields](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
 >* [Edit and Delete a Marketo Custom Object](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [Understanding Marketo Custom Objects](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 >* [Edit and Delete Marketo Custom Object Fields](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Understanding Marketo Custom Objects](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
