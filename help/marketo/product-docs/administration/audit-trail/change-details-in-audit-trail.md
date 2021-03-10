@@ -23,7 +23,7 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
    <th colspan="1">Change Details</th> 
   </tr> 
   <tr> 
-   <td rowspan="15">Default Program<br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="15"><strong>Default Program</strong><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Create</td> 
    <td>Channel type "channel type"<br>or<br>Cloned from "program name"</td> 
   </tr> 
@@ -84,7 +84,7 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
    <td>N/A</td> 
   </tr> 
   <tr> 
-   <td rowspan="18">Email<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="19"><strong>Email</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Create</td> 
    <td>Created using template "template name" <br>or <br>Cloned from "asset name"</td> 
   </tr> 
@@ -125,16 +125,20 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
    <td>Edits broke email from template "template_name" (NOTE: this happens today if you edit the code directly)</td> 
   </tr> 
   <tr> 
+   <td>Edit</td> 
+   <td>New description "new description" Old description "old description"</td> 
+  </tr> 
+  <tr> 
+   <td>Edit</td> 
+   <td>Edit module <code>"<module name>" <attribute></code> to "value"</td> 
+  </tr> 
+  <tr> 
    <td>Delete</td> 
    <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Rename</td> 
    <td>New name "new name", previous name "previous name"</td> 
-  </tr> 
-  <tr> 
-   <td>Edit</td> 
-   <td>New description "new description" Old description "old description"</td> 
   </tr> 
   <tr> 
    <td>Clone</td> 
@@ -156,7 +160,6 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
    <td>Draft</td> 
    <td>Email was drafted because snippet "snippet name" was approved<br>or<br>Email was drafted because template "template name" was approved</td> 
   </tr> 
-  <tr> 
    <td rowspan="17">Email Program</td> 
    <td>Create</td> 
    <td>Channel type "channel type"<br>or<br>Cloned from "program name"</td> 
@@ -499,6 +502,14 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
   <tr> 
    <td>Edit</td> 
    <td>New description "new description" Previous "previous description"</td> 
+  </tr> 
+  <tr> 
+   <td>Edit</td> 
+   <td>Added "Image", Removed "Image", Edited Image Component</td> 
+  </tr> 
+  <tr> 
+   <td>Edit</td> 
+   <td>Added "Rich Text", Removed "Rich Text", Edited Rich Text Component</td> 
   </tr> 
   <tr> 
    <td>Clone</td> 

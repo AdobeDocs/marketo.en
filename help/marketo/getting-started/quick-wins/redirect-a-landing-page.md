@@ -14,7 +14,6 @@ title: Redirect a Landing Page
 
 >[!PREREQUISITES]
 >
->* [Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 >* [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 >* [Customize Your Landing Page URL with a CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
 
