@@ -11,7 +11,7 @@ title: Sync an Audience From Adobe Experience Cloud
 
 >[!PREREQUISITES]
 >
->[Set Up Adobe Experience Cloud Audience Sharing](help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+>[Set Up Adobe Experience Cloud Audience Sharing](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
 
 ## How to Sync an Audience {#how-to-sync-an-audience}
 
