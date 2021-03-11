@@ -6,7 +6,7 @@ title: Restrict User Login to SSO Only
 
 # Restrict User Login to SSO Only {#restrict-user-login-to-sso-only}
 
-If you're [using SSO](add-single-sign-on-to-a-portal.md) and want to ensure users cannot bypass the SSO security, follow these instructions.
+If you're [using SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) and want to ensure users cannot bypass the SSO security, follow these instructions.
 
 >[!NOTE]
 >
@@ -14,7 +14,7 @@ If you're [using SSO](add-single-sign-on-to-a-portal.md) and want to ensure user
 
 1. Go to **Admin** and click **Login Settings**.
 
-![](assets/image2014-9-24-14-3a44-3a40.png)
+   ![](assets/image2014-9-24-14-3a44-3a40.png)
 
 1. Click **Edit Security Settings**.
 
@@ -23,6 +23,10 @@ If you're [using SSO](add-single-sign-on-to-a-portal.md) and want to ensure user
 1. Expand the Advanced settings, check **Require SSO**, and click **Save**.
 
 ![](assets/image2014-9-24-14-3a45-3a6.png)
+
+>[!NOTE]
+>
+>Best practice is for the user(s) to be invited and accept the invite. _After_ the invite is accepted, Admins should then set them to "Require SSO."
 
 >[!TIP]
 >
@@ -33,3 +37,9 @@ If you're [using SSO](add-single-sign-on-to-a-portal.md) and want to ensure user
 >When new users are invited, they receive invite emails. However, if **Require SSO** is selected, they won't receive these emails, unless they are assigned to a role which is set to **Bypass Single Sign-On**.
 
 That's it! Now all users (except users with permission to bypass single sign-on) will be restricted to using SSO login only.
+
+>[!MORELIKETHIS]
+>
+>* [Add Single Sign-On to a Portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
+>* [Using a Universal ID for Subscription Login](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
+>* [Inviting Marketo Users to Two Instances with Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)

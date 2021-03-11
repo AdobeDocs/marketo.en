@@ -59,3 +59,9 @@ If you have multiple subscriptions, you may have multiple community profiles. We
 ## Mobile Platform {#mobile-platform}
 
 Users with Universal ID can see their data on Marketo Moments and the iPad event check-in application from the subscription that they have last logged into. You can't change subscriptions from the Mobile platform itself.
+
+>[!MORELIKETHIS]
+>
+>* [Add Single Sign-On to a Portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
+>* [Restrict User Login to SSO Only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+>* [Inviting Marketo Users to Two Instances with Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)

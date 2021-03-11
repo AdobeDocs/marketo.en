@@ -6,7 +6,7 @@ title: View the Organization Service URL
 
 # View the Organization Service URL {#view-the-organization-service-url}
 
-Marketo needs the Organization Service URL to sync with Dynamics On-Premises instances. Here is how to find it in Dynamics.
+Marketo needs the Organization Service URL to sync with Dynamics instances. Here is how to find it in Dynamics.
 
 1. Log in to Dynamics. Click the Settings icon and select **Advanced Settings**.
 
@@ -24,4 +24,4 @@ Marketo needs the Organization Service URL to sync with Dynamics On-Premises ins
 
    ![](assets/four.png)
 
-1. Copy and paste this URL to Marketo, and enjoy the rest of the sync.
+1. Copy and paste that URL to Marketo, and enjoy the rest of the sync.
