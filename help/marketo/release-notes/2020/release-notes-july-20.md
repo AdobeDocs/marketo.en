@@ -31,6 +31,11 @@ The following features are included in the July '20 release. Check your Marketo 
 The following features are on a non-quarterly cycle and will be released throughout the coming months.
 
 * **Forms Service**: We are introducing stronger form field syntax validation and the ability to block common bot patterns with new Secured Domains for Landing Pages capabilities. Blocking bot patterns can reduce spam form submissions and improve your database quality.
+
+>[!NOTE]
+>
+>Full rollout of enhanced form field syntax validation has been postponed until after our Jan 2021 release.
+
 * **Increased Asset API URI Size Limit**: The uniform resource identifier (URI) size limit is being increased from 8KB to 65KB in advance of the removal of “_method” parameter. When performing long query strings, this size limit increase will allow the data to to pass more easily. The removal of the "_method" parameter is part of an upcoming security upgrade.
 
 ## Sales Insight {#sales-insight}

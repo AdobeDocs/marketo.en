@@ -12,6 +12,6 @@ When you fill out a web form or visit a landing page that's hosted by Marketo, b
 
 Marketo tracks “Visited Web Page” and “Click Link on Web Page” by default over non-secure HTTP protocol. If you want to have your tracking links secured with their own certificate, you need to have Marketo build a separate non-shared server to enable it. To secure all aspects of a contact's interaction with you typically means securing both landing pages and tracking links.
 
-For FAQs on adding SSL to your landing pages, see [this article](https://nation.marketo.com/docs/DOC-5612).
+For FAQs on adding SSL to your landing pages, see [this article](https://nation.marketo.com/t5/Knowledgebase/Overview-amp-FAQ-Secured-Domains/ta-p/300900).
 
 If you would like SSL for your Marketo landing pages, please contact your Marketo sales rep.

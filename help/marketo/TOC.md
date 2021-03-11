@@ -517,6 +517,7 @@ user-guide-description: Marketo product documentation
           + [Step 2 of 3: Set up Marketo Sync User in Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
           + [Step 3 of 3: Connect Microsoft Dynamics with Marketo (Online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
       + Microsoft Dynamics Sync Details {#microsoft-dynamics-sync-details}
+        + [Default Dynamics Field Mapping](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
         + [Microsoft Dynamics Sync: Account Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
         + [Microsoft Dynamics Sync: Contact Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
         + [Microsoft Dynamics Sync: Custom Entity Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)

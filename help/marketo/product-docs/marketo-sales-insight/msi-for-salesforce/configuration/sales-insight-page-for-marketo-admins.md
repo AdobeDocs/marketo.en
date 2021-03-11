@@ -78,4 +78,14 @@ When enabled, MSI users will not be able to edit templates while sending emails 
 
 **Enable RSS Feed:**
 
-When enabled, MSI users can view their Lead Feed in an RSS feed (in addition to the Lead Feed in Salesforce).
+When enabled, MSI users can view their Lead Feed in an RSS feed (in addition to the Lead Feed in Salesforce). RSS feed can only function if the “Token Expiration” feature is disabled.
+
+**Token Expiration:**
+
+Token Expiration is controlled in the Feature Manager. To have it enabled/disabled, reach out to [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). When enabled, all Marketo tokens expire within 10 minutes. When disabled, Marketo tokens will not expire.
+
+Tokens generated before enabling Token Expiration will not have an expiration time to validate against, so they won't expire even if the feature is currently enabled.
+
+Tokens generated after enabling Token Expiration will have an expiration time of 10 minutes, so they'll still expire in 10 minutes even after the feature is disabled.
+
+Token behavior will be based on when it was generated (when the Token Expiration feature was enabled/disabled, rather than its current feature status).

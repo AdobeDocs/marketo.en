@@ -26,7 +26,7 @@ Here's how to change the field type of a Custom Field.
    >
    >Score and formula fields cannot be changed.
 
-   ![](assets/image2015-4-22-9-3a39-3a3.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
 1. Read the warning, then click **Change** to confirm.
 

@@ -23,8 +23,8 @@ Once SSO is enabled, the IdP can validate a user’s credentials. When a user wi
 ## How to Send the Request {#how-to-send-the-request}
 
 * Send the SSO request, which is a SAML response, to `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* As the SP’s Audience URL. Use [https://saml.marketo.com/sp](https://saml.marketo.com/sp)
-* If you are using the SPNameQualifier attribute, set the NameID element for Subject to [https://saml.marketo.com/sp](https://saml.marketo.com/sp)
+* As the SP’s Audience URL. Use `https://saml.marketo.com/sp`
+* If you are using the SPNameQualifier attribute, set the NameID element for Subject to `https://saml.marketo.com/sp`
 * If you are federating multiple Marketo subscriptions to the same SSO provider, you can use unique SP urls for each Marketo sub with the format `https://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
@@ -37,6 +37,8 @@ Once SSO is enabled, the IdP can validate a user’s credentials. When a user wi
 * **User Provisioning** - Users are provisioned manually by Marketo.
 * **Authorization** - User permissions are maintained within Marketo.
 * **OAuth support** - Marketo does not currently support OAuth.
+* **Automatic User Propagation** - Also known as "Just in Time Provisioning," this is when a user's first SAML login is capable of creating the user in whatever web application they're accessing (e.g., Marketo) and no manual admin action is required. This is not supported by Marketo at this time.
+* **Encryption** - Marketo does not currently support encryption.
 
 >[!NOTE]
 >
@@ -52,7 +54,7 @@ SSO is disabled by default. Follow these steps to enable SAML and configure it.
 
    >[!NOTE]
    >
-   >If you don't see **Single Sign-On** under **Admin**, contact [[Marketo Support]](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >If you don't see **Single Sign-On** under **Admin**, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Under the **SAML Settings** section, click on **Edit**.
 
@@ -94,4 +96,10 @@ SSO is disabled by default. Follow these steps to enable SAML and configure it.
 
    >[!NOTE]
    >
-   >Both these pages must be publicly available.
+   >Both of these pages must be publicly available.
+
+>[!MORELIKETHIS]
+>
+>* [Using a Universal ID for Subscription Login](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
+>* [Restrict User Login to SSO Only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+>* [Inviting Marketo Users to Two Instances with Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
