@@ -68,4 +68,4 @@ Configure AEM so you can access, select, and import AEM assets into Marketo's De
 
    ![](assets/twelve.png)
 
-   You're all set! You can now [import AEM assets into the Design Studio in Marketo Sky](https://help.marketo.com/hc/en-us/articles/360036765993).
+   You're all set! You can now [import AEM assets into the Design Studio in Marketo Sky](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/importing-assets-with-adobe-experience-manager.html?lang=en#design-studio).

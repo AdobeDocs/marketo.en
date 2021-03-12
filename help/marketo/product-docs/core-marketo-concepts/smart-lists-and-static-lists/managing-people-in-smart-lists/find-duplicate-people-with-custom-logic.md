@@ -31,6 +31,10 @@ Marketo has a system smart list that finds duplicate people by matching their em
     * Last Name
     * Updated At
 
+    >[!NOTE]
+    >
+    >All fields, with the exception of Email Address, are case-sensitive. So using "john doe" in the Full Name field would _not_ return results for John Doe.
+
    ![](assets/four-2.png)
 
    Done! Run the smart list to find people with the same value in the previously selected field.
