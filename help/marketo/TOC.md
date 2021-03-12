@@ -164,6 +164,7 @@ user-guide-description: Marketo product documentation
         + [Edit Your Default Branding Domain with Workspaces](product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)
         + [Edit Your Default Branding Domain](product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
         + [Overwrite Primary Domain for Emails](product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md)
+      + [Change Custom Object Retrieval Limits in Velocity Scripting](product-docs/administration/email-setup/change-custom-object-retrieval-limits-in-velocity-scripting.md)
       + [Change the Default From Email and From Label](product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)
       + [Edit the Unsubscribe Message](product-docs/administration/email-setup/edit-the-unsubscribe-message.md)
       + [Make Your Unsubscribe Message Dynamic for Languages](product-docs/administration/email-setup/edit-the-unsubscribe-message/make-your-unsubscribe-message-dynamic-for-languages.md)
@@ -319,7 +320,8 @@ user-guide-description: Marketo product documentation
         + [Change Engagement Program Cadence](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)
         + [Change Engagement Program Stream](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)
         + [Change Program Status](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
-        + [Change Program Success](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)  
+        + [Change Program Success](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)
+        + [Change Program Member Data](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)
       + Microsoft Dynamics Flow Actions {#microsoft-dynamics-flow-actions}
         + [Add or Remove People from your Dynamics Campaign](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
         + [Change Owner in Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
@@ -516,6 +518,9 @@ user-guide-description: Marketo product documentation
           + [Step 1 of 3: Install the Marketo Solution (Online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
           + [Step 2 of 3: Set up Marketo Sync User in Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
           + [Step 3 of 3: Connect Microsoft Dynamics with Marketo (Online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
+        + Set up OAuth Authentication for Dynamics {#set-up-oauth-authentication-for-dynamics}
+          + [Grant Consent for Client Id and App Registration](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
+          + [Set up Microsoft Dynamics CRM App for On-prem](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
       + Microsoft Dynamics Sync Details {#microsoft-dynamics-sync-details}
         + [Default Dynamics Field Mapping](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
         + [Microsoft Dynamics Sync: Account Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
