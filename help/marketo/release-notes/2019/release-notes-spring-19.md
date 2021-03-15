@@ -24,7 +24,7 @@ The following features were released on March 15, 2019.
 
 Account-Based Marketing
 
-**[AccountAI](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)** Now generally available. AccountAI uses artificial intelligence to reveal the accounts you should target for your ABM strategy.
+**[AccountAI](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** Now generally available. AccountAI uses artificial intelligence to reveal the accounts you should target for your ABM strategy.
 
 <br>&nbsp;
 

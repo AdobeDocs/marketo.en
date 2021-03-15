@@ -12,6 +12,10 @@ There's an easy way to append data to a field. Here's how.
 >
 >[Create a Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
+>[!NOTE]
+>
+>The steps below also apply to [Change Program Member Data](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
+
 1. Under the **Flow** tab, drag in the **Change Data Value** flow step.
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)

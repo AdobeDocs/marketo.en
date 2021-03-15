@@ -29,7 +29,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
    <td colspan="1">This term can have different meanings:<br>-Your Marketo instance itself can be referred to as your Marketo account.<br>-In <strong>ABM</strong>, a <strong>Named Account</strong> is an account that the user has determined is a target account they want to pursue.<br>-In ABM, a CRM Account is an account mapped from your linked <strong>CRM</strong> (account in <strong>Salesforce</strong>, <strong>MS Dynamics</strong> or <strong>API</strong>).<br>-In your CRM, accounts are the business/company that leads and contacts are associated to.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md" rel="nofollow">Account-based Marketing</a> (ABM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-based-marketing-overview.md" rel="nofollow">Account-based Marketing</a> (ABM)</strong></td> 
    <td colspan="1">An add-on feature that allows you to target and engage key accounts in a highly coordinated fashion.</td> 
   </tr> 
   <tr> 
@@ -41,7 +41,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
    <td colspan="1">(formerly AccountAI) In <strong>ABM</strong>, using your Ideal Customer Profile (ICP), existing companies in your database will be ranked, and the rankings are added as scores on your accounts.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md" rel="nofollow">Account Score</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Account Score</a></strong></td> 
    <td colspan="1">In <strong>ABM</strong>, it's a score assigned to an account to help you determine its level of engagement.</td> 
   </tr> 
   <tr> 
@@ -644,7 +644,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
    <td colspan="1">Person partitions act like separate <strong>databases</strong>. Each partition has its own people that do not de-dupe or mix with other partitions.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/account-based-marketing/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
    <td colspan="1">In Marketo's <strong>Account-based Marketing</strong>, personas are a subset of an audience, allowing for more specific targeting.</td> 
   </tr> 
   <tr> 

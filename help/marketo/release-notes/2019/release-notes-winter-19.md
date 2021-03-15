@@ -74,7 +74,7 @@ Include up to five CC addresses per recipient on emails sent through Marketo.
 
 ## Account-Based Marketing {#account-based-marketing}
 
-**[ABM Persona-Based Segmentation & Filtering](/help/marketo/product-docs/account-based-marketing/using-personas.md)**
+**[ABM Persona-Based Segmentation & Filtering](/help/marketo/product-docs/target-account-management/using-personas.md)**
 
 Personalize your ABM campaigns for specific personas within named accounts. The ABM Persona feature creates a default job title based on lead segmentation and allows configuration of additional persona segmentations.
 

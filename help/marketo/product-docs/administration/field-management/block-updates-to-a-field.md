@@ -20,6 +20,10 @@ Blocking updates to a field allows you to write to the field once and then retai
 
    ![](assets/two-1.png)
 
+   >[!NOTE]
+   >
+   >You can block updates to [Program Member Custom Fields](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md) as well.
+
 1. Select the **Input Sources** you want to block and click **Apply**.
 
    ![](assets/image2014-9-24-13-3a55-3a16.png)

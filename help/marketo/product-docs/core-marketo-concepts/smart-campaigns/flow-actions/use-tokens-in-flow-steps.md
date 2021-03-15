@@ -12,11 +12,12 @@ title: Use Tokens in Flow Steps
 
 >[!PREREQUISITES]
 >
->* [Add a Flow Step to a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[Add a Flow Step to a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
 A token is a variable. You use it in emails, landing pages, and smart campaigns to make your life easier. You can use [My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (custom tokens) in flow steps, webhooks, emails, and landing pages. You can use tokens to include variable content in these flow steps:
 
 * Change Data Value
+* Change Program Member Data
 * Interesting Moment
 * Salesforce Campaign Steps (add, remove, change status)
 * Create Task
@@ -35,6 +36,10 @@ A token is a variable. You use it in emails, landing pages, and smart campaigns 
    >[!TIP]
    >
    >Multiple tokens can be used in Interesting Moment, Create Task, and Send Alert flow steps.
+
+   >[!NOTE]
+   >
+   >Program Member Custom Field Tokens can be used in: Create Task, Create Task in Microsoft, Interesting Moments, Change Data Value Flow Actions, and Webhooks.
 
    Cool! The data will be pulled from the token when the smart campaign runs.
 
