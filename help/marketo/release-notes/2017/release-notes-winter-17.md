@@ -38,7 +38,7 @@ The Web Personalization, Predictive Content, and Email Insights apps are now ava
 
 ## Account Based Marketing Enhancements {#account-based-marketing-enhancements}
 
-**[Import Named Accounts](/help/marketo/product-docs/account-based-marketing/target/named-accounts/import-named-accounts.md)**
+**[Import Named Accounts](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
 With the Named Account Import option, create or update multiple records at once via CSV upload.
 

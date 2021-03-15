@@ -10,7 +10,7 @@ Here's how to create a segment using an Account List.
 
 >[!PREREQUISITES]
 >
->[Create a New Account List](/help/marketo/product-docs/account-based-marketing/target/account-lists.md)
+>[Create a New Account List](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
 1. Go to **Segments**.
 

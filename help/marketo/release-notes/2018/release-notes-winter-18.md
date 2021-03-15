@@ -36,7 +36,7 @@ Explore how your campaigns and channels are impacting business results with attr
 
 ## Account Based Marketing Enhancements {#account-based-marketing-enhancements}
 
-**[ABM Hierarchies](/help/marketo/product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)**
+**[ABM Hierarchies](/help/marketo/product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)**
 
 For ABM customers with Salesforce or Microsoft Dynamics, ABM will now automatically inherit (and display) the parent-child relationships established in the CRM. You'll be able to use these relationships in both roll-up reporting and campaign execution.
 
