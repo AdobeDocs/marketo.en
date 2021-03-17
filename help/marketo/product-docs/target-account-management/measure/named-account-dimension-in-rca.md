@@ -6,7 +6,7 @@ title: Named Account Dimension in RCA
 
 # Named Account Dimension in RCA {#named-account-dimension-in-rca}
 
-Build revenue-based reports using the ABM-specific Named Account dimension in Revenue Cycle Analytics.
+Build revenue-based reports using the TAM-specific Named Account dimension in Revenue Cycle Analytics.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ The following reports have access to the Named Account dimension:
 
 >[!NOTE]
 >
->Below are are some examples of Marketo ABM in Revenue Cycle Analytics.
+>Below are are some examples of Marketo TAM in Revenue Cycle Analytics.
 
 Pipeline acceleration within named accounts
 

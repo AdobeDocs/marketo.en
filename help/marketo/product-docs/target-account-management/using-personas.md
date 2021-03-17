@@ -14,9 +14,9 @@ Personas are a great way to segment your ABM audience and market to a specific s
 
    ![](assets/one.png)
 
-1. In the tree, select **ABM**.
+1. In the tree, select **Target Account Management**.
 
-   ![](assets/two.png)
+   ![](assets/using-personas-2.png)
 
 1. Click **Edit**.
 

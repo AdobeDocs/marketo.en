@@ -48,7 +48,7 @@ Marketo Account Based Marketing also offers various tools to personalize the nam
 
 I'm in! How do I get started?
 
-We thought you'd never ask! ABM is available as an add-on to your Marketo subscription, so please contact your Sales Rep to have it implemented. Once you have it, check out this article: [Getting Started with ABM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-abm.md).
+We thought you'd never ask! ABM is available as an add-on to your Marketo subscription, so please contact your Sales Rep to have it implemented. Once you have it, check out this article: [Getting Started with ABM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
 
 >[!NOTE]
 >

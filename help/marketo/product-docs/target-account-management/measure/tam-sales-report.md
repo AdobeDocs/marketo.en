@@ -1,16 +1,16 @@
 ---
 unique-page-id: 11385183
-description: ABM Sales Report - Marketo Docs - Product Documentation
-title: ABM Sales Report
+description: TAM Sales Report - Marketo Docs - Product Documentation
+title: TAM Sales Report
 ---
 
-# ABM Sales Report {#abm-sales-report}
+# TAM Sales Report {#tam-sales-report}
 
 Receive a weekly email containing your top accounts and their weekly trends.
 
 >[!NOTE]
 >
->Learn how to set up this report [here](/help/marketo/product-docs/target-account-management/measure/abm-report-setup.md).
+>Learn how to set up this report [here](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
 
 The report shares:
 
@@ -19,7 +19,7 @@ The report shares:
 * Key trends and interesting moments
 * A link to download a CSV file containing additional details
 
-![](assets/one-4.png)
+![](assets/tam-sales-report-1.png)
 
 ## Sales Report Key {#sales-report-key}
 

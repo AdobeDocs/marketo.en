@@ -40,7 +40,7 @@ user-guide-description: Marketo product documentation
   + Target Account Management {#target-account-management}
     + Setup {#setup}
       + [Account Based Marketing Overview](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
-      + [Getting Started with ABM](product-docs/target-account-management/setup-tam/getting-started-with-abm.md)
+      + [Getting Started with TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
       + [Issue a License](product-docs/target-account-management/setup-tam/issue-a-license.md)
       + [Permissions](product-docs/target-account-management/setup-tam/permissions.md)
       + [Account Score](product-docs/target-account-management/setup-tam/account-score.md)
@@ -60,17 +60,18 @@ user-guide-description: Marketo product documentation
         + [Lead to Account Matching](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
         + [Filtering in Named Accounts](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
         + [Delete a Named Account](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
-        + [ABM Hierarchies](product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)
+        + [TAM Hierarchies](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
         + [Create a Hierarchy](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
       + [Account Lists](product-docs/target-account-management/target/account-lists.md)
+      + [Account Smart Lists](product-docs/target-account-management/target/account-smart-lists.md)
       + [Create a Matched Audience on LinkedIn](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
     + Engage {#engage}
       + [Account Filters](product-docs/target-account-management/engage/account-filters.md)
       + [Account Triggers](product-docs/target-account-management/engage/account-triggers.md)
     + Measure {#measure}
-      + [ABM Main Dashboard](product-docs/target-account-management/measure/abm-main-dashboard.md)
-      + [ABM Report Setup](product-docs/target-account-management/measure/abm-report-setup.md)
-      + [ABM Sales Report](product-docs/target-account-management/measure/abm-sales-report.md)
+      + [TAM Main Dashboard](product-docs/target-account-management/measure/tam-main-dashboard.md)
+      + [TAM Report Setup](product-docs/target-account-management/measure/tam-report-setup.md)
+      + [TAM Sales Report](product-docs/target-account-management/measure/tam-sales-report.md)
       + [Account List Insights](product-docs/target-account-management/measure/account-list-insights.md)
       + [Named Account Dimension in RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
       + [Named Account Insights](product-docs/target-account-management/measure/named-account-insights.md)

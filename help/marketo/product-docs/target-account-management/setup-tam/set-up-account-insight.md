@@ -10,19 +10,19 @@ Here's how to set up Account Insight.
 
 >[!PREREQUISITES]
 >
->ABM account score [must be configured](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) first.
+>TAM account score [must be configured](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) first.
 
 1. Click **Admin**.
 
    ![](assets/admin-1.png)
 
-1. Click **ABM** in the tree, then the **ABM Sales** tab.
+1. Click **Target Account Management** in the tree, then the **Sales** tab.
 
-   ![](assets/two-5.png)
+   ![](assets/set-up-account-insight-2.png)
 
 1. Click **Edit**.
 
-   ![](assets/three-4.png)
+   ![](assets/set-up-account-insight-3.png)
 
 1. Click the drop-downs to choose how Account Insight prioritizes named accounts and engaged people.
 
@@ -30,7 +30,7 @@ Here's how to set up Account Insight.
 
    >[!NOTE]
    >
-   >If the [Account Score settings](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) are updated at any point, the configuration under ABM Sales needs to be updated by an Admin to make sure the scores accurately reflect the user's preferences. The user needs to log out and log back in to see the changes.
+   >If the [Account Score settings](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) are updated at any point, the configuration under Sales needs to be updated by an Admin to make sure the scores accurately reflect the user's preferences. The user needs to log out and log back in to see the changes.
 
 1. Click **Save**.
 

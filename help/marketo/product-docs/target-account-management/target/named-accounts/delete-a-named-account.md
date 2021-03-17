@@ -26,4 +26,4 @@ Follow these quick steps to delete a named account.
 
    >[!NOTE]
    >
-   >Accounts which have synced to your CRM cannot be deleted in ABM. If the delete option is not available, or if you receive a "These accounts can't be deleted because one or more CRM accounts is selected" message, they must be deleted directly in the CRM.
+   >Accounts which have synced to your CRM cannot be deleted in TAM. If the delete option is not available, or if you receive a "These accounts can't be deleted because one or more CRM accounts is selected" message, they must be deleted directly in the CRM.

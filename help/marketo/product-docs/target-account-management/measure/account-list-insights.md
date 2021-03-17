@@ -10,7 +10,7 @@ The Account List dashboard offers a view of aggregated insights from all of the 
 
 >[!NOTE]
 >
->Marketo ABM automatically determines the top named accounts within an account list based on pipeline generated or account engagement scores.
+>Marketo TAM automatically determines the top named accounts within an account list based on pipeline generated or account engagement scores.
 
 ## Account List Dashboard {#account-list-dashboard}
 

@@ -14,7 +14,7 @@ In addition to account lists, you can also create dynamic account lists that are
 
 >[!NOTE]
 >
->Account lists created in Marketo Account Based Marketing are automatically available when building smart lists and web campaigns in [Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
+>Account lists created in Marketo Target Account Management are automatically available when building smart lists and web campaigns in [Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
 ## Create a New Account List {#create-a-new-account-list}
 

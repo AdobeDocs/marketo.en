@@ -8,7 +8,7 @@ title: Account Filters
 
 Identify and engage Named Accounts and the personas within them using new account-centric filters.
 
-## ABM Filters {#abm-filters}
+## TAM Filters {#tam-filters}
 
 1. Select your smart campaign and click **Smart List**.
 
@@ -38,23 +38,23 @@ To use this filter, click the account list drop-down...
 
 ## Member of Named Account {#member-of-named-account}
 
-1. Choose a qualifier. Is for a specific named account(s) or is any for any named account.
+First, choose a qualifier. **Is** for a specific named account(s) or **is any** for any named account.
 
    ![](assets/six.png)
 
-1. Click the named account drop-down.
+Click the named account drop-down...
 
    ![](assets/seven.png)
 
-1. Choose your desired named account(s).
+...and choose your desired named account(s).
 
    ![](assets/eight.png)
 
-1. If you use the "is any" qualifier, you may want to utilize [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) to narrow your search results. Add as many as you'd like!
+If you use the "is any" qualifier, you may want to utilize [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) to narrow your search results. Add as many as you'd like!
 
    ![](assets/nine.png)
 
-1. Set "Include Children" to false if you only want members from the single, top-level account. Select true if you want members from all child accounts.
+Set "Include Children" to false if you only want members from the single, top-level account. Select true if you want members from all child accounts.
 
    ![](assets/ten.png)
 
