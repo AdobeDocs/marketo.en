@@ -6,7 +6,7 @@ title: Add People to a Named Account
 
 # Add People to a Named Account {#add-people-to-a-named-account}
 
-There are three different ways to manually add people to a named account in ABM.
+There are three different ways to manually add people to a named account in TAM.
 
 ## Single Flow Action {#single-flow-action}
 

@@ -12,9 +12,9 @@ An account team is a group of stakeholders who work together on a named account.
 
    ![](assets/one-3.png)
 
-1. Click **ABM**.
+1. Click **Target Account Management**.
 
-   ![](assets/two-3.png)
+   ![](assets/account-team-setup-2.png)
 
 1. Under Account Team Members, click **Edit**.
 
@@ -38,10 +38,10 @@ An account team is a group of stakeholders who work together on a named account.
 
    >[!CAUTION]
    >
-   >If you make an update, it may take some time for the changes to reflect in ABM.
+   >If you make an update, it may take some time for the changes to reflect in TAM.
 
    >[!NOTE]
    >
-   >When Multiple CRM Accounts with different account owners are merged into a Named Account, Marketo will pick one "Account Owner" and add other account owners as "Account Co-Owners"
+   >* When Multiple CRM Accounts with different account owners are merged into a Named Account, Marketo will pick one "Account Owner" and add other account owners as "Account Co-Owners"
    >
-   >If a CRM "Role" field is later renamed or deleted, Marketo ABM will stop syncing the updated values until the user manually updates the setup in ABM
+   >* If a CRM "Role" field is later renamed or deleted, Marketo TAM will stop syncing the updated values until the user manually updates the setup in TAM

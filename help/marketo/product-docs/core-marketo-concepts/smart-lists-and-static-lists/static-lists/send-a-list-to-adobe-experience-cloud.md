@@ -23,31 +23,77 @@ title: Send a List to Adobe Experience Cloud
 * Adobe Real-Time Customer Data Platform
 * Adobe Target
 
-## How to Export a List {#how-to-export-a-list}
+## How to Send a Static List {#how-to-send-a-static-list}
+
+A static list is just that, static. No changes will occur to the list in Adobe Experience Cloud unless you manually make them.
 
 1. In Marketo, find and select the list you want to export.
 
-   ![](assets/one.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
 1. Click the **List Actions** drop-down and select **Send to Experience Cloud**.
 
-   ![](assets/two-1.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
 1. Click the **Audience Manager Folder** drop-down and select the desired destination folder in the Experience Cloud.
 
-   ![](assets/three-1.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-3.png)
 
 1. Choose whether to create a new audience or overwrite an existing one (in this example we're creating a new one). Enter the new audience name and click **Send**.
 
-   ![](assets/four.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-4.png)
 
 1. Click **OK**.
 
-   ![](assets/five.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
 
    >[!NOTE]
    >
    >It can take up to 6-8 hours for audience membership to fully populate in Adobe.
+
+## How to Send a Synced List {#how-to-send-a-synced-list}
+
+Syncing a list means any time you update a list in Marketo, that change automatically syncs over to its audience in Adobe Experience Cloud.
+
+1. In Marketo, find and select the list you want to sync.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
+
+1. Click the **List Actions** drop-down and select **Send to Experience Cloud**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
+
+1. Click the **Audience Library Folder** drop-down and select the desired destination folder in the Experience Cloud.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
+
+1. Choose whether to create a new audience or overwrite an existing one (in this example we're creating a new one). Enter the new audience name, check the **Keep Audience Membership in Sync** box, and click **Send**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
+
+1. Click **OK**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
+
+## How to Stop a List Sync {#how-to-stop-a-list-sync}
+
+You can stop your list from syncing at any time.
+
+1. In Marketo, find and select the list you want to stop syncing.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
+
+1. Click the **List Actions** drop-down and select **Stop List Sync**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-12.png)
+
+1. Select the audience(s) you want to stop being synced and click **Stop**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-13.png)
+
+1. Click **Stop** to confirm.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-14.png)
 
 ## Things to Note {#things-to-note}
 
@@ -73,4 +119,8 @@ Under the hood, the audience integration works by syncing Marketo Munchkin cooki
 
 When the cookie sync is enabled for your Marketo Subscription, Marketo’s munchkin.js will attempt to capture and store Adobe ECIDs for the Adobe IMS Org you specified during the integration setup and match these ECIDs to the corresponding Marketo cookie identifier. This enables Marketo’s anonymous user profiles to become enriched with Adobe ECIDs.
 
-A further step is required to associate the anonymous user profile to a Lead Profile, which is identified using a plain text email. Exactly how this works is described here: [https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
+A further step is required to associate the anonymous user profile to a Lead Profile, which is identified using a plain text email. Exactly how this works is [described here](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
+
+**What information is shared?**
+
+This integration only shares list membership information from Marketo to Adobe (e.g., the knowledge that Lead X is a member of List Y). No additional Lead Attributes are shared to Adobe via this integration.

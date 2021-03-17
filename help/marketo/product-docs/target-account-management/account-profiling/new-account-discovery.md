@@ -16,9 +16,9 @@ New Account Discovery can help you find new accounts to target by using AI-power
 >
 >It's recommended to press the **Update Existing Accounts** button before performing a new account search to ensure you are looking at the most recent data. This update can take up to 24 hours.
 
-1. In My Marketo, click **ABM**.
+1. In My Marketo, click **Target Account Management**.
 
-   ![](assets/one-1.png)
+   ![](assets/new-account-discovery-1.png)
 
 1. Click the **Account Profiling** tab.
 
@@ -30,7 +30,7 @@ New Account Discovery can help you find new accounts to target by using AI-power
 
    >[!NOTE]
    >
-   >New Accounts shows a list of accounts that are not yours in ABM, yet. They are accounts that have the potential to be new for you based on filters you select.
+   >New Accounts shows a list of accounts that are not yours in TAM, yet. They are accounts that have the potential to be new for you based on filters you select.
 
 1. Select all applicable filters (this part is highly customizable, the following is just one example to demonstrate filtering).
 

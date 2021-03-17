@@ -8,11 +8,11 @@ title: Setting up Account Profiling
 
 Follow these steps to start using Account Profiling.
 
-1. In My Marketo, open **Account Based Marketing**.
+1. In My Marketo, open **Target Account Management**.
 
-   ![](assets/one.png)
+   ![](assets/setting-up-account-profiling-1.png)
 
-1. Click the Account Profiling tab.
+1. Click the **Account Profiling** tab.
 
    ![](assets/two-1.png)
 

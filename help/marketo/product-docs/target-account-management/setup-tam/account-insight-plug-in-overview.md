@@ -6,11 +6,11 @@ title: Account Insight Plug-in Overview
 
 # Account Insight Plug-in Overview {#account-insight-plug-in-overview}
 
-Account Insight is a Chrome plug-in that surfaces actionable ABM and account insights to your sales teams, allowing them to engage accounts more effectively.
+Account Insight is a Chrome plug-in that surfaces actionable TAM and account insights to your sales teams, allowing them to engage accounts more effectively.
 
 >[!AVAILABILITY]
 >
->Account Insight is included for all customers who have both ABM and Marketo Sales Insight. For customers who only have ABM, Account Insight is available as a purchased add-on. Each customer is limited to 250 Account Insight seats. Please contact your sales rep for details. It is not available to customers who do not have ABM.
+>Account Insight is included for all customers who have both TAM and Marketo Sales Insight. For customers who only have TAM, Account Insight is available as a purchased add-on. Each customer is limited to 250 Account Insight seats. Please contact your sales rep for details. It is not available to customers who do not have TAM.
 
 >[!CAUTION]
 >

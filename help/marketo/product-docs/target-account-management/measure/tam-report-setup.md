@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384438
-description: ABM Report Setup - Marketo Docs - Product Documentation
-title: ABM Report Setup
+description: TAM Report Setup - Marketo Docs - Product Documentation
+title: TAM Report Setup
 ---
 
-# ABM Report Setup {#abm-report-setup}
+# TAM Report Setup {#tam-report-setup}
 
-The ABM Sales Report is a weekly, personalized email sent to the account team.
+The TAM Sales Report is a weekly, personalized email sent to the account team.
 
 ## Report Setup {#report-setup}
 
@@ -14,9 +14,9 @@ The ABM Sales Report is a weekly, personalized email sent to the account team.
 
    ![](assets/one-3.png)
 
-1. Click **ABM**.
+1. Click **Target Account Management**.
 
-   ![](assets/two-2.png)
+   ![](assets/tam-report-setup-2.png)
 
 1. Under Weekly Report, click **Edit**.
 
@@ -56,15 +56,15 @@ Each report comes with the option to opt out. To do so simply click **Unsubscrib
 
    ![](assets/one-3.png)
 
-1. Click **ABM**.
+1. Click **Target Account Management**.
 
-   ![](assets/two-2.png)
+   ![](assets/tam-report-setup-10.png)
 
 1. Under Weekly Report, click the number listed as Unsubscribed.
 
    ![](assets/nine.png)
 
-1. Click the Users drop-down.
+1. Click the **Users** drop-down.
 
    ![](assets/ten.png)
 
