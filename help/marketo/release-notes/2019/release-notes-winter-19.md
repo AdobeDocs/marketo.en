@@ -16,7 +16,7 @@ Please click the title links to view detailed articles for each feature, if avai
 
 >[!NOTE]
 >
->Microsoft is pushing all online customers to upgrade to the latest version of Microsoft Dynamics. If you are integrating your Marketo instance with Dynamics Online, you will need to [upgrade to the latest version of the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) before **January 31, 2019** to ensure that your integration will continue working.
+>Microsoft is pushing all online customers to upgrade to the latest version of Microsoft Dynamics. If you are integrating your Marketo instance with Dynamics Online, you will need to [upgrade to the latest version of the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) before **January 31, 2019** to ensure that your integration will continue working.
 
 >[!NOTE]
 >
