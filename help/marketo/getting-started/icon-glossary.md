@@ -6,6 +6,8 @@ title: Icon Glossary
 
 # Icon Glossary {#icon-glossary}
 
+Below are the icons for the Marketo Classic. If you've been switched to the new Marketo Engage interface, your icon glossary [can be found here](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
+
 **General Icons**
 
 <table> 

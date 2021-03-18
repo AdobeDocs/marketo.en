@@ -4,7 +4,7 @@ description: Upgrade the Marketo Solution for Microsoft Dynamics - Marketo Docs 
 title: Upgrade the Marketo Solution for Microsoft Dynamics
 ---
 
-# Upgrade the Marketo Solution for Microsoft Dynamics {#upgrade-the-marketo-solution-for-microsoft-dynamics}
+# Update the Marketo Solution for Microsoft Dynamics {#update-the-marketo-solution-for-microsoft-dynamics}
 
 When a new Microsoft Dynamics solutions is released, you can download the upgrade from the Admin area in your account.
 
@@ -14,7 +14,7 @@ When a new Microsoft Dynamics solutions is released, you can download the upgrad
 
 >[!CAUTION]
 >
->It is imperative you download the latest Marketo Solution _before_ performing any upgrade.
+>It's imperative you download the latest Marketo Solution _before_ performing any upgrade.
 
 1. Go to the **Admin** area.
 
@@ -33,3 +33,15 @@ When a new Microsoft Dynamics solutions is released, you can download the upgrad
    ![](assets/msd-online.png)
 
    Awesome! A zip file of the solution will now be downloaded to your device. If you are unfamiliar with the install steps, please contact your Dynamics Admin.
+
+## Performing the Update {#performing-the-update}
+
+1. Import the latest version of the solution over the existing version of your Dynamics CRM (ex: if your Dynamics CRM has version 1.4 and the latest version is 1.5, you would import _over_ version 1.4).
+
+1. You will see the following pop-up. Select **Update** and **Maintain customizations**, then click **Import**.
+
+   ![](assets/update-the-marketo-solution-for-microsoft-dynamics-5.png)
+
+>[!CAUTION]
+>
+>Selecting Upgrade instead of Update could result in data corruption in your Dynamics environment. **Be sure to choose Update** under Import Options.

@@ -12,7 +12,15 @@ When you first sync to Microsoft Dynamics, you download the latest version of th
 
 ![](assets/lead-management-solution.png)
 
-The table below displays the latest versions.
+## Updating your Dynamics Solution {#updating-your-dynamics-solution}
+
+1. Import the latest version of the solution over the existing version of your Dynamics CRM (ex: if your Dynamics CRM has version 1.4 and the latest version is 1.5, you would import _over_ version 1.4).
+
+1. You will see the following pop-up. Select **Update** and **Maintain customizations**, then click **Import**.
+
+![](assets/marketo-plugin-releases-for-microsoft-dynamics-2.png)
+
+## Latest Versions {#latest-versions}
 
 >[!NOTE]
 >
@@ -24,6 +32,11 @@ The table below displays the latest versions.
    <th colspan="1">Version</th> 
    <th colspan="1">Release Date</th> 
    <th>Notes</th> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.0</td> 
+   <td colspan="1">10/16/20</td> 
+   <td colspan="1">Added Support for Campaign Sync with MS Dynamics.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.24</td> 
