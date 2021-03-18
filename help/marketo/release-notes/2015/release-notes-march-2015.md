@@ -36,7 +36,7 @@ We now have support for creating and editing emails, templates, my tokens, files
 
 ## Microsoft Dynamics 2015 On Premise {#microsoft-dynamics-on-premise}
 
-Supported with the latest installer now [accessible through the app](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+Supported with the latest installer now [accessible through the app](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 

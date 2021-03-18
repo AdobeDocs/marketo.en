@@ -500,7 +500,7 @@ user-guide-description: Marketo product documentation
       + [Fix Dynamics Validation Sync Issues](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
       + Sync Setup {#sync-setup}
         + [Download the Marketo Lead Management Solution](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
-        + [Upgrade the Marketo Solution for Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)
+        + [Update the Marketo Solution for Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
         + [Validate Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
         + [View the Organization Service URL](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
         + Microsoft Dynamics 2011 On-Premises {#microsoft-dynamics-2011-on-premises}
@@ -1029,6 +1029,11 @@ user-guide-description: Marketo product documentation
         + [Use the Send Alert Info Token](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
         + [Using URLs in My Tokens](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
       + [Email CC](product-docs/email-marketing/general/email-cc.md)
+  + Marketo Engage Next Generation Experience {#marketo-engage-next-generation-experience}
+    + [Overview](product-docs/marketo-engage-next-generation-experience/overview.md)
+    + [New Icon Glossary](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
+    + [Moving Assets](product-docs/marketo-engage-next-generation-experience/moving-assets.md)
+    + [Using the Global Search](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
   + Marketo Sales Connect {#marketo-sales-connect}
     + Getting Started {#getting-started}
       + [Sales Connect Overview](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -1285,7 +1290,7 @@ user-guide-description: Marketo product documentation
         + [Disable Global MS Dynamics Sync](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
         + [Uninstall MSI from your MS Dynamics Instance](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
       + Updating {#updating}
-        + [Update the Marketo Sales Insight Solution for Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/update-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+        + [Upgrade the Marketo Sales Insight Solution for Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
     + MSI for Salesforce {#msi-for-salesforce}
       + Installation {#installation}
         + [Install Marketo Sales Insight Package in Salesforce AppExchange](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
@@ -1385,8 +1390,8 @@ user-guide-description: Marketo product documentation
       + [Understanding Push Notifications](product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
       + [View the Push Notification Dashboard](product-docs/mobile-marketing/push-notifications/view-the-push-notification-dashboard.md)
     + Vibes SMS Messages {#vibes-sms-messages}
-      + [Add a Flow Step for SMS](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
       + [Create a Vibes SMS Message](product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
+      + [Add a Flow Step for SMS](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
       + [The SMS Message Dashboard](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
       + [Use Vibes SMS Messages in Smart List Triggers and Filters](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
   + Personalization {#personalization}

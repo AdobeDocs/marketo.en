@@ -8,6 +8,14 @@ title: Create a Vibes SMS Message
 
 Here's how to create a Vibes SMS message.
 
+>[!AVAILABILITY]
+>
+>This feature is available as an add-on for your Marketo Engage Account. In order for it to be provisioned properly, it must purchased through Adobe. Please contact your Adobe Customer Success Manager for details.
+
+>[!NOTE]
+>
+>SMS text messaging is not HIPAA compliant.
+
 1. Go to **Marketing Activities** and right-click on a program.
 
    ![](assets/mobile-right-click-hand.jpg)
