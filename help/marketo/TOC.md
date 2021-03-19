@@ -39,7 +39,7 @@ user-guide-description: Marketo product documentation
 + Product Docs {#product-docs}
   + Target Account Management {#target-account-management}
     + Setup {#setup}
-      + [Target Account Management Overview](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
+      + [Target Account Management Overview](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
       + [Getting Started with TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
       + [Issue a License](product-docs/target-account-management/setup-tam/issue-a-license.md)
       + [Permissions](product-docs/target-account-management/setup-tam/permissions.md)
