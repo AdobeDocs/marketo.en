@@ -90,9 +90,14 @@ Fields:
 
 * Sales Insight - Opens contact full list page
 
+Actions:
+
+* Add to Marketo Campaign
+* Send Marketo Email
+* Add/Remove from Watch List
+
 The following features are **not available** in the Account Layout page:
 
-* Actions: Add to Marketo Campaign, Send Marketo Email, Add/Remove from Watch List
 * Stars & Flames
 
 ## Opportunity Layout {#opportunity-layout}
@@ -108,9 +113,14 @@ Fields:
 * Sales Insight - Opens contact full list page
 * Marketo Opportunity Analysis – Opens Opportunity Influence Analyzer in Marketo
 
+Actions:
+
+* Add to Marketo Campaign
+* Send Marketo Email
+* Add/Remove from Watch List
+
 The following features are **not available** in the Opportunity Layout page:
 
-* Actions: Add to Marketo Campaign, Send Marketo Email, Add/Remove from Watch List
 * Stars & Flames
 
 ## Lead and Contact List view (Bulk Actions) {#lead-and-contact-list-view-bulk-actions}
