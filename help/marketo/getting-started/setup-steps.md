@@ -27,7 +27,7 @@ Some steps require help from your IT team.
 >
 >If you [print out this checklist](/help/marketo/getting-started/setup-steps/setup-checklist.md), you can check items off as you complete them.
 
-1. Log in and create additional Marketo Users
+## Log in and create additional Marketo Users {#log-in-and-create-additional-marketo-users}
 
 1. Log in to Marketo [here](https://app.marketo.com/) using the credentials you received by email.
 
@@ -91,7 +91,7 @@ Go to the **Admin** area.
 
    ![](assets/image2016-5-24-10-3a23-3a10.png)
 
-1. Set Up Your Authorized Support Contacts
+## Set Up Your Authorized Support Contacts {#set-up-your-authorized-support-contacts}
 
    You might have received an email from Marketo Support stating that you are the Marketo Customer Support Administrator for your company. If so, you can set up **authorized support contacts** for your team. Only authorized support contacts can contact Marketo Customer Support directly through the [Marketo Support Portal](https://support.marketo.com).
 
@@ -105,7 +105,7 @@ Go to the **Admin** area.
    >
    >Only people who have logged in to the Marketo Community appear in the list. If you cannot find the person, make sure they log in to the Community first.
 
-1. Customize Your Landing Page URLs with a CNAME
+## Customize Your Landing Page URLs with a CNAME {#customize-your-landing-page-urls-with-a-cname}
 
    >[!NOTE]
    >
@@ -143,7 +143,7 @@ Go to the **Admin** area.
 
 Configure your domain settings so landing pages use your company’s domain instead of Marketo’s (where they are hosted).
 
-1. Ensure Email Deliverability
+## Ensure Email Deliverability {#ensure-email-deliverability}
 
    >[!NOTE]
    >
@@ -192,7 +192,7 @@ Configure your domain settings so landing pages use your company’s domain inst
 
    You now have all the information you need to send your request to IT!
 
-1. Ask IT to Configure Protocols
+## Ask IT to Configure Protocols {#ask-it-to-configure-protocols}
 
    >[!NOTE]
    >
@@ -279,7 +279,7 @@ Configure your domain settings so landing pages use your company’s domain inst
 
    Send the email to IT. We understand it can take some time for IT to complete these tasks. You can continue on to Step 7, but remember that you must return Step 6 to complete your Marketo setup.
 
-1. Complete Your Marketo Setup After IT Finishes
+## Complete Your Marketo Setup After IT Finishes {#complete-your-marketo-setup-after-it-finishes}
 
    Once IT has completed their tasks, follow these steps to add your landing page and email CNAMEs, and to activate DKIM signing.
 
@@ -315,33 +315,7 @@ Configure your domain settings so landing pages use your company’s domain inst
 
    ![](assets/new-branding-domain-9-1.png)
 
-1. Submit a URL for Landing Page and Email Templates
-
-   Our creative designers can provide you with customized email and landing page templates that make it quick and easy to launch your marketing programs. You need to provide them with some information so that they can match the templates to your company website and logo.
-
-   >[!NOTE]
-   >
-   >These custom templates are available for Launch Pack customers only.
-
-   Go to the [Marketo Template Design and Build](https://pages2.marketo.com/CESubmit-URL-ForTemplates.html) form. Fill out your company information.
-
-   ![](assets/image2014-9-12-11-3a4-3a55.png)
-
-   For Your Landing Page URL, enter a sample URL from your company’s website that shows your company’s colors, logo and style. Most customers use a Contact Us page that includes a form.
-
-   ![](assets/image2014-9-12-11-3a5-3a7.png)
-
-   For CNAME, enter the landing page CNAME that you selected in Step 3 (`[LandingPageCNAME]`). Submit your request.
-
-   ![](assets/image2014-9-12-11-3a5-3a17.png)
-
-   >[!NOTE]
-   >
-   >Your templates cannot be completed until your IT creates a DNS record for your landing page CNAME.
-
-   That’s it! You should see your new templates in the Marketo Design Studio in 3-5 business days.
-
-1. Integrate Your CRM
+## Integrate Your CRM {#integrate-your-crm}
 
    This is probably the most exciting step of your setup - it’s time to fill up Marketo with all those leads and contacts you have stored in your CRM!
 
@@ -354,7 +328,7 @@ Configure your domain settings so landing pages use your company’s domain inst
    >
    >You need the assistance of your company’s CRM administrator to complete these steps.
 
-## 9. Add Tracking Code to Your Website {#add-tracking-code-to-your-website}
+## Add Tracking Code to Your Website {#add-tracking-code-to-your-website}
 
 >[!NOTE]
 >

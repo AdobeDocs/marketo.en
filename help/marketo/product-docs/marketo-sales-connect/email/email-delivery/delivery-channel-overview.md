@@ -6,38 +6,47 @@ title: Delivery Channel Overview
 
 # Delivery Channel Overview {#delivery-channel-overview}
 
-We’ll break down the three different channels you can leverage, how to select them, when to pick one over another, and the nuances around them.
+Marketo Sales Connect gives you multiple options to deliver emails. This article will review the delivery channels you can leverage, how to select them, and when to pick one over another.
+
+## Recommended: Gmail or Exchange via Email Connection {#recommended-gmail-or-exchange-via-email-connection}
+
+Sales Connect allows for a streamlined setup and the enhanced deliverability through our Email Connection service. The Email Connection allows each user to connect to their [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) or [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) account to Sales Connect to be utilized as the delivery channel of choice for all Sales Connect emails.
+
+Utilizing Gmail or Exchange comes with some distinct advantages over other delivery channel options:
+
+* This is a proven delivery channel with an established reputation which helps to keep deliverability high.
+* Authentication methods such as SPF and DKIM are already configured and managed by your IT team, so there is no additional setup.
+* Sending emails within a given email network (i.e., sending an email as an Exchange user to a company that receives emails through Exchange) can help further increase deliverability.
+
+It's important to note that these delivery channels have their own sending limits which are enforced by Microsoft and Google. To combat this, we utilize a throttling mechanism to help users stay within those limits. Learn more about [email throttling here](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 >[!NOTE]
 >
->This information is only relevant if you are sending your emails from the [web application](https://toutapp.com/login). If you are using Sales Connect in Gmail or Outlook, your emails will be delivered via those email servers.
+>By default, the O365 plugin will always use your exchange delivery channel and the Gmail plugin will always utilize your Gmail delivery channel to deliver emails from the plugins.
 
-## MSC Email Servers (default) {#msc-email-servers-default}
+**Bounce Tracking**: MSC can detect bounces for Exchange Online or Gmail users by detecting the bounce message that is sent to the sender's inbox. These bounce notifications will be rolled up into Template analytics, Campaign analytics, and Live Feed notifications for users. Bounce tracking is not supported for Exchange On-Prem customers.
 
-By default, this method will be selected for the delivery of your emails. MSC email servers are a great option for users who don’t use Gmail or Outlook. Additionally, because they are our servers, we have the ability to take any error messages regarding bounces or failed deliveries and surface them up to you in the “Failed Deliveries” section of the Conversations tab.
-  
-Another benefit of using the MSC servers is, when using an [Email Identity](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md), the recipient will see the email address of the identity you've created.
+## Custom Delivery Channel via SMTP {#custom-delivery-channel-via-smtp}
 
-When using MSC servers, your recipients may see a "via toutapp.com" tag. This is their email client letting them know the email was sent using Sales Connect.
+Sales Connect offers the additional option of connecting a third-party SMTP server to be used as your sales team's preferred delivery channel.
 
-For more details, check out this [Gmail Help article](https://support.google.com/mail/answer/1311182?hl=en).
+Utilizing a third-party SMTP provider is a great option for sales teams in which email volume is the number one priority. SMTP providers such as Sendgrid and Sparkpost are optimized to service the needs of bulk email delivery and can scale to meet the needs of those looking to deploy high volumes of email.
 
->[!NOTE]
+Additionally, third party SMTP providers offer a plethora of features to help support your team's deliverability needs (such as email delivery reports and dedicated IP addresses), making this a great option for those looking for more granular controls and visibility around their sales email delivery channel.
+
+## MSC Servers (Legacy) {#msc-servers-legacy}
+
+MSC servers are only available for some Legacy ToutApp customers. Those customers will see MSC servers available in their email settings. All non-legacy customers will not see MSC as an option and should connect their Gmail or Outlook account to Sales Connect to unlock a delivery channel.
+
+MSC servers do not support DKIM and SPF authentication methods, which can lower the deliverability rate. Due to this we recommend that all customers connect to Gmail or Outlook for the best deliverability.
+
+## Marketo Servers {#marketo-servers}
+
+Marketo email servers do not integrate with Sales Connect. Marketo servers are optimized for bulk delivery to allow them to scale with the needs of marketers. However, Gmail and Exchange have a higher success rate for 1:1 sales communication, which is why we recommend using these servers for your sales communication.
+
+>[!MORELIKETHIS]
 >
->Our MSC servers do not have a [DMARC record](https://dmarc.org/) that is made available. They cannot be whitelisted on your own servers.
-
-## Gmail Server {#gmail-server}
-
-If your company's email provider is Gmail, you can leverage your existing account to send your Sales Connect emails. This is a great option if you want to avoid the "via toutapp.com" information, and if you'd prefer to rely on the reputation of your company's domain and deliverability. An additional benefit of using a Gmail server is that anything you send out of the web application will automatically be added to your Gmail sent folder.
-
-We can only properly connect with a single Gmail account (one email address) that will deliver your Sales Connect emails. This means if you use multiple Email identities, only the address of the account that we're connected to will appear when looking at the details.
-
-In the web application, your identity will appear as you have created it (above). However, sending through Gmail servers will show the address of the connected account.
-
->[!NOTE]
->
->Since Sales Connect does not directly manage your Gmail servers, we do not record bounced email events in the web application.
-
-## Custom SMTP Server  {#custom-smtp-server}
-
-Pay for your own server? Use a Microsoft Exchange environment? This is an option for you. Check out [these instructions](https://docs.marketo.com/x/zYTS) on getting set up. Like Gmail Servers, since Sales Connect does not directly manage your server, we do not record bounced email events in the web application.
+>* [Email Connection for Gmail Users](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [Email Connection for Outlook Users](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [Setting up a Custom Delivery Channel](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
+>* [Email Connection Throttling](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)

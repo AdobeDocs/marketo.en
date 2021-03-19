@@ -259,10 +259,6 @@ A custom field on the lead object in Salesforce should be mapped to a contact fi
 
    Easy enough, right?
 
->[!NOTE]
->
->Here's a link to a [video of the entire procedure](https://nation.marketo.com/videos/1475) that should make it crystal clear!
-
 >[!MORELIKETHIS]
 >
 >[Step 2 of 3: Create a Salesforce User for Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
