@@ -13,7 +13,7 @@ When sending an email with Marketo Sales Connect, views (email opens) and clicks
 >You'll need to have an identity verified and an email delivery channel set up before sending a tracked email.
 >
 >* [Verify your email address](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
->* Set up a Delivery Channel for [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md) or [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)
+>* Set up a Delivery Channel for [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) or [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 
 1. Create your email draft (there are multiple ways to do this, in this example we're choosing **Compose** in the header).
 
