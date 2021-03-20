@@ -10,8 +10,8 @@ If your Marketo account is connected to Salesforce through a customized or non-n
 
 >[!PREREQUISITES]
 >
->* Reach out to your Customer Success Manager to enable the “MSI Non-Native” feature for your Marketo instance.
->* A Salesforce account with MSI Package set-up.
+>* The “MSI Non-Native” feature flag enabled for your Marketo instance before you start setting up MSI (if it isn't, contact your Customer Success Manager).
+>* A Salesforce account with [MSI Package set up](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
 >* Marketo REST API [successfully set up](https://developers.marketo.com/rest-api/). The exposed CRUD APIs will be the basis of performing the non-native sync.
 >* Read [this blog post](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) in order to get an understanding of the object and relationships.
 >* Set up Salesforce objects to display the 18 character case-insensitive globally unique identifier rather than the 15 character case-sensitive globally unique identifier.

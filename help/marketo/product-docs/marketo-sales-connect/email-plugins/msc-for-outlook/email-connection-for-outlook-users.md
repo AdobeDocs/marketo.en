@@ -1,10 +1,10 @@
 ---
 unique-page-id: 17727591
-description: Email Connection Tab for Outlook Users - Marketo Docs - Product Documentation
-title: Email Connection Tab for Outlook Users
+description: Email Connection for Outlook Users - Marketo Docs - Product Documentation
+title: Email Connection for Outlook Users
 ---
 
-# Email Connection Tab for Outlook Users {#email-connection-tab-for-outlook-users}
+# Email Connection for Outlook Users {#email-connection-for-outlook-users}
 
 Learn how to connect your Sales Connect account with Outlook.
 

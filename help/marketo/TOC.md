@@ -592,12 +592,14 @@ user-guide-description: Marketo product documentation
       + [Implied Salesforce Actions](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
       + [Salesforce Sync Errors](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
       + [Salesforce Sync Status](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
+      + [Setting up OAuth 2.0](product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md)
   + Demand Generation {#demand-generation}
     + Ad Network Integrations {#ad-network-integrations}
+      + [Understanding Ad Network Integrations](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
       + [Add Facebook Custom Audiences as a LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
       + [Add Google Customer Match as a LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
       + [Add LinkedIn Matched Audiences as a LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
-      + [Understanding Ad Network Integrations](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
+      + [Send a List to an Ad Network](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
     + Events {#events}
       + Understanding Events {#understanding-events}
         + [Adding Members to an Event Program](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
@@ -1105,7 +1107,7 @@ user-guide-description: Marketo product documentation
         + [Add Email to Salesforce](product-docs/marketo-sales-connect/email-plugins/gmail/add-email-to-salesforce.md)
         + [Attaching a Piece of Content](product-docs/marketo-sales-connect/email-plugins/gmail/attaching-a-piece-of-content.md)
         + [Calendar Functionality](product-docs/marketo-sales-connect/email-plugins/gmail/calendar-functionality.md)
-        + [Email Connection Tab for Gmail Users](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)
+        + [Email Connection for Gmail Users](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
         + [Gmail Not Pulling In Sales Connect Signature](product-docs/marketo-sales-connect/email-plugins/gmail/gmail-not-pulling-in-sales-connect-signature.md)
         + [How to Add a Template](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-add-a-template.md)
         + [How to Install the ToutApp Browser Extension](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-install-the-toutapp-browser-extension.md)
@@ -1117,7 +1119,7 @@ user-guide-description: Marketo product documentation
         + [The Sales Connect Tool Bar](product-docs/marketo-sales-connect/email-plugins/gmail/the-sales-connect-tool-bar.md)
         + [Unexpected Error in Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/unexpected-error-in-gmail.md)
       + MSC for Outlook {#msc-for-outlook}
-        + [Email Connection Tab for Outlook Users](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md)
+        + [Email Connection for Outlook Users](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
         + .NET Legacy Add-in {#net-legacy-add-in}
           + [.NET Add-in Overview](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/net-add-in-overview.md)
           + [How to Uninstall Sales Connect from Outlook](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
@@ -1140,8 +1142,8 @@ user-guide-description: Marketo product documentation
         + [Test Email Not Showed as Viewed](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
       + Email Delivery {#email-delivery}
         + [Delivery Channel Overview](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
-        + [Setting up an SMTP Server](product-docs/marketo-sales-connect/email/email-delivery/setting-up-an-smtp-server.md)
-        + [Setting up Your Delivery Channel](product-docs/marketo-sales-connect/email/email-delivery/setting-up-your-delivery-channel.md)
+        + [Email Connection Throttling](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
+        + [Setting up a Custom Delivery Channel](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
       + Send A Sales Email {#send-a-sales-email}
         + [Add a Template or Campaign](product-docs/marketo-sales-connect/email/send-a-sales-email/add-a-template-or-campaign.md)
         + [Add Email to Salesforce from Gmail](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-from-gmail.md)
@@ -1306,6 +1308,7 @@ user-guide-description: Marketo product documentation
           + [Configure Unsubscribe Footers in Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
           + [Lock Sales Template](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
           + [Publish an Email to Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
+          + [Send a Test Email](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
         + Bulk Actions {#bulk-actions}
           + [Add Marketo Sales Insight Tab and Buttons to Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
           + [Bulk Actions in Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
@@ -1665,6 +1668,8 @@ user-guide-description: Marketo product documentation
       + [View Web Campaigns from a Specific Label](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + Release Notes {#release-notes}
   + [Release Schedule](release-notes/release-schedule.md)
+  + 2021 {#2021}
+    + [Release Notes: Jan '21](release-notes/2021/release-notes-jan-21.md)
   + 2020 {#2020}
     + [Release Notes: Jan '20](release-notes/2020/release-notes-jan-20.md)
     + [Release Notes: Feb '20](release-notes/2020/release-notes-feb-20.md)

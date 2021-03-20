@@ -1,10 +1,10 @@
 ---
 unique-page-id: 17728401
-description: Email Connection Tab for Gmail Users - Marketo Docs - Product Documentation
-title: Email Connection Tab for Gmail Users
+description: Email Connection for Gmail Users - Marketo Docs - Product Documentation
+title: Email Connection for Gmail Users
 ---
 
-# Email Connection Tab for Gmail Users {#email-connection-tab-for-gmail-users}
+# Email Connection for Gmail Users {#email-connection-for-gmail-users}
 
 Connecting to Gmail means you'll receive reply tracking, access to the Gmail delivery channel, the ability to schedule emails in Gmail, and send compliance.
 
@@ -45,3 +45,7 @@ Connecting to Gmail means you'll receive reply tracking, access to the Gmail del
    ![](assets/nine.png)
 
    You can use this connection to track emails and also as a delivery channel.
+
+>[!NOTE]
+>
+>Gmail enforces its own sending limits. [Learn more here](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).

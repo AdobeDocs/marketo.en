@@ -12,7 +12,9 @@ The following features are included in the Jan '20 release. Check your Marketo e
 >
 >Features denoted by a star ( ![(star)](assets/star-yellow.svg)) are paid add-ons. Please contact your Marketo Engage representative to learn more.
 
-**_Quarterly Releases_** The following features will be released on **January 17, 2020**.
+**_Quarterly Releases_**
+
+The following features will be released on **January 17, 2020**.
 
 ## Core Marketo Engage Adobe Application {#core-marketo-engage-adobe-application}
 
