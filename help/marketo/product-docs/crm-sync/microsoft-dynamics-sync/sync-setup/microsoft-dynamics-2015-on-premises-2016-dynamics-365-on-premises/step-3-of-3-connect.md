@@ -37,13 +37,15 @@ title: Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 3 of 
    >
    >Please make sure your credentials are correct as we are unable to revert the subsequent schema changes after submission. If incorrect credentials are saved, you’ll have to obtain a new Marketo subscription.
 
-1. Enter the **Username**, **Password** a Microsoft Dynamics **URL**, and an optional **Client Id**. Click **Save** when done.
+1. Enter the **Username**, **Password** a Microsoft Dynamics **URL**, and a **Client Id/Secret**. Click **Save** when done.
 
-   ![](assets/client-id.png)
+   ![](assets/step-3-of-3-5.png)
 
    >[!NOTE]
    >
-   >The Username in Marketo must match the User Name for the sync user in CRM. The format can be user@domain.com or DOMAIN\user.
+   >* If your Marketo was provisioned prior to October 2020, Client ID and Secret are optional fields. Otherwise, they're mandatory. Obtaining this information will depend on what version of MSD you're using.
+   >* The Username in Marketo must match the User Name for the sync user in CRM. The format can be `user@domain.com` or DOMAIN\user.
+   >* If you don't know the URL, [learn how to find it here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
    >[!TIP]
    >
@@ -58,6 +60,10 @@ title: Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 3 of 
 1. Select the fields that you want to sync to Marketo, so they will be pre-selected. Click **Save**.
 
    ![](assets/image2016-8-25-15-3a14-3a28.png)
+
+>[!NOTE]
+>
+>Marketo stores a reference to the fields to sync. If you delete a field in Dynamics, we recommended doing so with the [sync disabled](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Then refresh the schema in Marketo by editing and saving the [Select Fields to Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Sync Fields for a Custom Filter {#sync-fields-for-a-custom-filter}
 

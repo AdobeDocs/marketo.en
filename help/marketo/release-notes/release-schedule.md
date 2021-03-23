@@ -16,7 +16,7 @@ title: Release Schedule
 * In Progress - We're developing and documenting the content now for release on the indicated date
 * Shipped - The release is complete
 
-Release dates are subject to change.
+_Release dates are subject to change_
 
 <table> 
  <colgroup> 

@@ -26,10 +26,14 @@ No, this is not currently supported.
 
 Yes, you can [sync the field](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) as long as your sync user has access to it in Dynamics.
 
-What fields will sync to Marketo?
+## What fields will sync to Marketo? {#what-fields-will-sync-to-marketo}
 
 You can [select fields to sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) during setup.
 
 ## What if I need to add a custom field after Marketo and Dynamics are synced? {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 
 You can add fields at any time and expect the data to be refreshed from Dynamics to Marketo. See [Use Quick Sync with Microsoft Dynamics for a New Custom Field](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) for details.
+
+## What if I want to delete a field in Dynamics after the field has been added to sync? {#what-if-i-want-to-delete-a-field-in-dynamics-after-the-field-has-been-added-to-sync}
+
+Marketo stores a reference to the fields to sync. If you delete a field in Dynamics, we recommended doing so with the [sync disabled](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Then refresh the schema in Marketo by editing and saving the [Select Fields to Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).

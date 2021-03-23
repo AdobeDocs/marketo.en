@@ -532,6 +532,7 @@ user-guide-description: Marketo product documentation
         + [Enable Sync for a Custom Entity](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md)
         + [Microsoft Dynamics Sync: Field Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync.md)
         + [Use Quick Sync with Microsoft Dynamics for a New Custom Field](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
+        + [Editing Fields to Sync Before Deleting Them in Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)
         + [Microsoft Dynamics Sync: Lead Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
         + [Create a Contact in Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md)
         + [Microsoft Dynamics Sync: Opportunity Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
@@ -1301,6 +1302,7 @@ user-guide-description: Marketo product documentation
         + [Configure Marketo Sales Insight in Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
         + [Marketo Sales Insight Configuration Tab in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
         + [Sales Insight Page for Marketo Admins](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
+        + [Setting up Sales Insight for your Team](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
       + Features {#features}
         + [MSI Feature Overview](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
         + Actions in the MSI Panel {#actions-in-the-msi-panel}

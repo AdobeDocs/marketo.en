@@ -19,3 +19,7 @@ title: Upgrading Your MSI Package
 1. You can upgrade the package by choosing “Install for Admins Only” (and provide MSI access to specific profiles later), “Install for All Users,” or, “Install for Specific Profiles.” In this example we're choosing Admins Only. When you've made your selection, click **Upgrade**.
 
    ![](assets/four.png)
+
+>[!NOTE]
+>
+>It is recommended you update the package for Admins only and then [provide access to specific users](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md) based on the number of MSI seats purchased. Alternatively, you can create a specific Salesforce profile for MSI users and install or upgrade the package for those users only.

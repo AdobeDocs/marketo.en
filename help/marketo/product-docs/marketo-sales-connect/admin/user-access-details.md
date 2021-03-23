@@ -20,7 +20,7 @@ Admins can [view all campaigns](/help/marketo/product-docs/marketo-sales-connect
 
 Admins can view all email activity.
 
-![](assets/email-activity.png)
+![](assets/user-access-details-3.png)
 
 Admins can see all of the people on a running campaign.
 

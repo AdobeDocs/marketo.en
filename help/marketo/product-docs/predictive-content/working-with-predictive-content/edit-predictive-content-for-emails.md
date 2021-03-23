@@ -36,6 +36,10 @@ Here's how to set up your predictive content for emails.
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
 
+   >[!CAUTION]
+   >
+   >To ensure best quality, your image must be 400x400 pixels or smaller.
+
 1. Insert the image URL and click **Add**.
 
    ![](assets/five.png)
