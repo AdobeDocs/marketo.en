@@ -6,7 +6,11 @@ title: Program Member Custom Fields
 
 # Program Member Custom Fields {#program-member-custom-fields}
 
-Program member custom fields allow you to collect program-specific data for each member. They can be used in: Marketo forms, Smart List filters and triggers, and Smart Campaign flow actions. The data is viewable in the program's Members tab.
+Program Member custom fields allow you to collect program-specific data for each member. They can be used in: Marketo forms, Smart List filters and triggers, and Smart Campaign flow actions. The data is viewable in the program's Members tab.
+
+>[!NOTE]
+>
+>Program Member custom fields do not have an integration with Salesforce Campaign Member fields at this time.
 
 ## Create a Program Member Custom Field {#create-a-program-member-custom-field}
 
@@ -57,11 +61,10 @@ You can leverage this program-specific data in smart lists via [triggers](/help/
 
 * Program Member custom fields are available in local assets only. They are not supported in Design Studio because there's no way to tie it to a specific program.
 * You cannot clone/move a form (or a landing page with a form) that contains Program Member custom fields to the Design Studio.
-* Program Member custom fields cannot be used as tokens.
 * The Program Member object can have up to 20 custom fields. Those fields are available to any program.
 * When you remove a member of a program, if they have any data in their Program Member custom field, the data will be scrubbed from that field.
 * To view the data, click the Members tab in the program and create a custom view that includes said field(s).
-* Import and export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)and [API](https://developers.marketo.com/) are supported.
+* Import and export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) and [API](https://developers.marketo.com/) are supported.
 * When you merge two people, the winner’s Program Member custom field data will be used. But if the winner has none, the loser’s value will be used.
 
 >[!MORELIKETHIS]
