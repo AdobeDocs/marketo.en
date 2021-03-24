@@ -45,11 +45,8 @@ Alright! We installed the solution and configured the sync user. Next, we need t
 
    >[!NOTE]
    >
-   >The Username in Marketo must match the User Name for the sync user in CRM. The format can be user@domain.com or DOMAIN\user.
-
-   >[!TIP]
-   >
-   >Don't know the URL? We'll show you how to find the [Dynamics Organization Service URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) here.
+   >* The Username in Marketo must match the User Name for the sync user in CRM. The format can be `user@domain.com` or DOMAIN\user.
+   >* If you don't know the URL, [learn how to find it here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
 ## Select Fields to Sync {#select-fields-to-sync}
 
@@ -62,6 +59,10 @@ Now we need to select the fields we want to sync over.
 1. There are preselected fields that will be synced. Add more if you want, and click **Save**.
 
    ![](assets/image2016-8-25-13-3a26-3a14.png)
+
+   >[!NOTE]
+   >
+   >Marketo stores a reference to the fields to sync. If you delete a field in Dynamics, we recommended doing so with the [sync disabled](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Then refresh the schema in Marketo by editing and saving the [Select Fields to Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Sync Fields for a Custom Filter {#sync-fields-for-a-custom-filter}
 

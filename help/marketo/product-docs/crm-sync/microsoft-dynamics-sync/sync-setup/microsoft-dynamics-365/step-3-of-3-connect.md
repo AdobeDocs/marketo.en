@@ -11,7 +11,6 @@ This is the last step of the sync. We're almost there!
 >[!PREREQUISITES]
 >
 >* [Step 1 of 3: Install the Marketo Solution (Online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
->
 >* [Step 2 of 3: Set up Marketo Sync User in Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
 
 >[!NOTE]
@@ -40,13 +39,15 @@ This is the last step of the sync. We're almost there!
    >
    >Please make sure your credentials are correct as we are unable to revert the subsequent schema changes after submission. If incorrect credentials are saved, you’ll have to obtain a new Marketo subscription.
 
-1. Enter the **Username**, **Password**, and Microsoft Dynamics **URL** (Client ID and Client Secret are optional). Click **Save** when done.
+1. Enter the **Username**, **Password**, and Microsoft Dynamics **URL**. Click **Save** when done.
 
    ![](assets/five-1.png)
 
    >[!NOTE]
    >
-   >The Username in Marketo must match the User Name for the sync user in CRM. The format can be user@domain.com or DOMAIN\user.
+   >* If your Marketo was provisioned prior to October 2020, Client ID and Secret are optional fields. Otherwise, they're mandatory. Obtaining this information will depend on what version of MSD you're using.
+   >* The Username in Marketo must match the User Name for the sync user in CRM. The format can be `user@domain.com` or DOMAIN\user.
+   >* If you don't know the URL, [learn how to find it here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
 ## Select Fields to Sync {#select-fields-to-sync}
 
@@ -57,6 +58,10 @@ This is the last step of the sync. We're almost there!
 1. Select the fields that you want to sync to Marketo, so they will be pre-selected. Click **Save**.
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
+
+>[!NOTE]
+>
+>Marketo stores a reference to the fields to sync. If you delete a field in Dynamics, we recommended doing so with the [sync disabled](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Then refresh the schema in Marketo by editing and saving the [Select Fields to Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Sync Fields for a Custom Filter {#sync-fields-for-a-custom-filter}
 

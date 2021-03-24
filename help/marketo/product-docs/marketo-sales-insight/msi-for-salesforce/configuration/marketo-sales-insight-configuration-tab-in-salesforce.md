@@ -37,6 +37,7 @@ Configurations are applicable to all MSI users and are not specific to profiles.
 
 * Upcoming events: Ability to show invited events, all events to users or completely hide this tab
 * Upcoming campaigns: Ability to show all email campaigns or completely hide this tab
+* Load Upcoming Campaigns and Events: Ability to reduce number of Rest API calls made by users by placing events and campaigns tab behind an on-demand “Load Upcoming Items” button
 * Tab Settings - All 5 tabs will be available by default. All 5 tabs will be available by default. You can choose the order of tabs in Sales Insight panel. The same order will be applicable to all layout (Lead, Contact, Account, Opportunity)
 
 ![](assets/two.png)
@@ -51,3 +52,7 @@ Configurations are applicable to all MSI users and are not specific to profiles.
 Choosing to do so will wipe all your configurations in SFDC and they cannot be restored. You will have to re-configure everything again.
 
 ![](assets/three.png)
+
+>[!MORELIKETHIS]
+>
+>[Setting up Sales Insight for your Team](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)

@@ -12,23 +12,23 @@ Below are the latest versions for all Sales Connect clients.
  <tbody> 
   <tr> 
    <td><strong>Gmail</strong></td> 
-   <td><p>8.6.19</p></td> 
+   <td>8.6.33</td> 
   </tr> 
   <tr> 
    <td><strong>Chrome</strong></td> 
-   <td><p>8.6.19</p></td> 
+   <td>8.6.33</td> 
   </tr> 
   <tr> 
    <td><strong>Outlook Windows</strong></td> 
-   <td>7.5.0.0 and 7.5.1.0</td> 
+   <td>2.1.3</td> 
   </tr> 
   <tr> 
    <td><strong>Outlook Mac</strong></td> 
-   <td>2.0.0.0</td> 
+   <td>2.1.3</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Outlook 365</strong></td> 
-   <td colspan="1">2.0.0.0</td> 
+   <td><strong>Outlook 365</strong></td> 
+   <td>2.1.3</td> 
   </tr> 
  </tbody> 
 </table>

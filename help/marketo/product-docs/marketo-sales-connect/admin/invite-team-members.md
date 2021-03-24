@@ -12,13 +12,13 @@ Adding team members is quick and easy!
 
    ![](assets/one.png)
 
-1. Under Admin Settings, select **Team Management**.
+1. Under Admin Settings, select **User Management**.
 
-   ![](assets/two.png)
+   ![](assets/invite-team-members-2.png)
 
-1. Click **Invite New User**.
+1. Click **Invite Users**.
 
-   ![](assets/three.png)
+   ![](assets/invite-team-members-3.png)
 
 1. Enter the email addresses of the individuals you'd like to add and click **Next**.
 
