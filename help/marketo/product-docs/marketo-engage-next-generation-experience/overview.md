@@ -37,7 +37,7 @@ The new interface features improved and expanded iconography. Learn about them h
 
 **Tree**
 
-The tree has been upgraded, too. But at this time, dragging and dropping is not available. You can still move assets, however. Learn how: [Moving Assets](/help/marketo/product-docs/marketo-engage-next-generation-experience/moving-assets.md).
+The tree has been upgraded, too.
 
 ![](assets/overview-4.png)
 
@@ -89,12 +89,12 @@ There are a ton of new tree features available.
   <tr>
    <td>Drag-and-drop from tree to engagement stream</td> 
    <td><strong>X</strong></td> 
-   <td>hhhhhhhhh</td> 
+   <td></td> 
   </tr>
   <tr>
    <td>Drag-and-drop inside the tree</td> 
    <td><strong>X</strong></td> 
-   <td></td> 
+   <td><strong>X</strong></td> 
   </tr>
   <tr>
    <td>Filter by asset type and states</td> 

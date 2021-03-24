@@ -8,6 +8,10 @@ title: Upgrade your Marketo Email Add-In for Outlook
 
 When a new version of the Marketo Email Add-in for Outlook is available, follow these instructions to upgrade.
 
+>[!NOTE]
+>
+>As of 10/1/20, the latest version of the Outlook plug-in no longer supports offline mode. This will take effect after installing/upgrading on or after 10/1.
+
 ## Download Installer {#download-installer}
 
 Download the installer appropriate for your version of Microsoft Outlook.
@@ -83,13 +87,6 @@ Download the installer appropriate for your version of Microsoft Outlook.
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Outlook O365 (Windows only)</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
-  </tr> 
-  <tr> 
    <td>Outlook for Mac</td> 
    <td>Not Supported</td> 
    <td>Not Supported</td> 
@@ -103,10 +100,23 @@ Download the installer appropriate for your version of Microsoft Outlook.
    <td colspan="1">Not Supported</td> 
    <td colspan="1">Not Supported</td> 
   </tr> 
+  <tr> 
+   <td colspan="1">Office 365&#42;</td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
+  </tr> 
  </tbody> 
 </table>
 
+&#42;Office 365 version: Windows client only (on Windows 10, Enterprise or Pro).
+
 ## Upgrade {#upgrade}
+
+1. Identify your [Microsoft Outlook version](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us).
+
+1. Select your version from the list above.
 
 1. Run the installer.
 
