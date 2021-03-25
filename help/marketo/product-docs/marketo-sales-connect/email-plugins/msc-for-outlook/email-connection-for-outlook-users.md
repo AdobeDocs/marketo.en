@@ -40,9 +40,22 @@ Connecting to Outlook means you'll receive reply tracking, access to the Outlook
 
    ![](assets/six-a.png)
 
-   | **Outlook Online** |Also known as Office Online |
-   |---|---|
-   | **Exchange On-premise** |Includes Exchange 2013 and 2016 |
+      <table> 
+    <tbody>
+     <tr>
+      <td><strong>Outlook Online</strong></td> 
+      <td>Also known as Exchange Online</td> 
+     </tr>
+     <tr>
+      <td><strong>Exchange On-premise</strong></td> 
+      <td>Includes Exchange 2013 and 2016</td> 
+     </tr>
+    </tbody>
+   </table>
+
+   >[!NOTE]
+   >
+   >Marketo does not support Exchange Hybrid accounts at this time.
 
 1. Click **OK**.
 
@@ -60,7 +73,7 @@ Connecting to Outlook means you'll receive reply tracking, access to the Outlook
 
    >[!NOTE]
    >
-   >When using Outlook as a delivery channel, you cannot send more than 300 bulk emails at a time.
+   >Outlook Online (Office365) enforces its own sending limits. [Learn more here](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
 ## Connecting to Exchange On-Premise {#connecting-to-exchange-on-premise}
 
@@ -90,10 +103,18 @@ Connecting to Exchange On-Premise means you'll receive reply tracking, access to
 
    ![](assets/six-b.png)
 
-   | Version | Description |
-   |---|---|
-   | **Outlook Online** | Also known as Office Online |
-   | **Exchange On-premise** | Includes Exchange 2013 and 2016 |
+      <table> 
+    <tbody>
+     <tr>
+      <td><strong>Outlook Online</strong></td> 
+      <td>Also known as Exchange Online</td> 
+     </tr>
+     <tr>
+      <td><strong>Exchange On-premise</strong></td> 
+      <td>Includes Exchange 2013 and 2016</td> 
+     </tr>
+    </tbody>
+   </table>
 
 1. Enter your credentials and click **Connect**.
 
@@ -107,4 +128,4 @@ Connecting to Exchange On-Premise means you'll receive reply tracking, access to
 
    >[!NOTE]
    >
-   >When using Outlook as a delivery channel, you cannot send more than 300 bulk emails at a time.
+   >When using Exchange On-prem, your IT Team will establish your email sending limit.

@@ -14,6 +14,10 @@ If you haven't received an invite email, ask your Marketo administrator to invit
 >
 >You must be [issued a Marketo Email Add-in License](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
+>[!NOTE]
+>
+>As of 10/1/20, the latest version of the Outlook plug-in no longer supports offline mode. This will take effect after installing/upgrading on or after 10/1.
+
 ## Download Installer {#download-installer}
 
 1. Identify your [Microsoft Outlook version](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
@@ -22,7 +26,7 @@ If you haven't received an invite email, ask your Marketo administrator to invit
 
    >[!NOTE]
    >
-   >The links below are currently only working in Chrome. Sorry for any inconvenience.
+   >At this time, the links below are only working in Microsoft Edge, or by right-clicking in Chrome. Sorry for any inconvenience.
 
    | Outlook Version |32-bit Outlook |64-bit Outlook |
    |---|---|---|
@@ -33,9 +37,11 @@ If you haven't received an invite email, ask your Marketo administrator to invit
    | Outlook 2013 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook 2016 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook 2019 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook O365 (Windows only) | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook for Mac |Not Supported |Not Supported |
    | Outlook Web App |Not Supported |Not Supported |
+   | Office 365* | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+
+   *Office 365 version: Windows client only (on Windows 10, Enterprise or Pro).
 
 ## Copy Your Registration Code {#copy-your-registration-code}
 
