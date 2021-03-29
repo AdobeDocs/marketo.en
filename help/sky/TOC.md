@@ -1,9 +1,7 @@
 ---
-cloud: experience-cloud
-product: adobe experience cloud
-sub-product: sky
 archetype: end-user
 user-guide-title: [!DNL Sky] Product Documentation
+feature-set: Marketo Sky
 index: y
 ---
 

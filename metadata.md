@@ -1,10 +1,10 @@
 ---
-cloud: experience-cloud
-solution: Experience Cloud
-product: experience cloud
+cloud: Experience Cloud
+solution: Marketo Engage
+product: marketo
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/template.en
+git-repo: https://github.com/AdobeDocs/marketo.en
 index: no
 ---
 

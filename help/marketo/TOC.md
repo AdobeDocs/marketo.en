@@ -1,9 +1,8 @@
 ---
-cloud: experience-cloud
-product: marketo
 audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo product documentation
+feature-set: Marketo Engage
 ---
 
 # Marketo Guide {#using}
