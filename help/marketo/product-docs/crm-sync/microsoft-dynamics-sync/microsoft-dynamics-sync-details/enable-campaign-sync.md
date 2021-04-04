@@ -1,8 +1,8 @@
 ---
 description: Enable Campaign Sync - Marketo Docs - Product Documentation
 title: Enable Campaign Sync
+exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 ---
-
 # Enable Campaign Sync {#enable-campaign-sync}
 
 This option allows Marketo to add and remove members from MS Dynamics Campaign.

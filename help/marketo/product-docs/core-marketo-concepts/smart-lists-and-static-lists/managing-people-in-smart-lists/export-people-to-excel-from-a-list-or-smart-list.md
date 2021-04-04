@@ -2,8 +2,8 @@
 unique-page-id: 557329
 description: Export People to Excel from a List or Smart List - Marketo Docs - Product Documentation
 title: Export People to Excel from a List or Smart List
+exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 ---
-
 # Export People to Excel from a List or Smart List {#export-people-to-excel-from-a-list-or-smart-list}
 
 If you need list or smart list results outside of Marketo, you can easily export to Excel. Here's how.

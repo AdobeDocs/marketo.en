@@ -2,8 +2,8 @@
 unique-page-id: 8783944
 description: Template 7-B - Marketo Docs - Product Documentation
 title: Template 7-B
+exl-id: 80df3bd3-878a-4de1-a804-98ec062c533c
 ---
-
 # Template 7-B {#template-b}
 
 [Download Template 7-B](https://docs.marketo.com/download/attachments/8783944/template-7b.html?version=1&modificationdate=1437693320000&api=v2)

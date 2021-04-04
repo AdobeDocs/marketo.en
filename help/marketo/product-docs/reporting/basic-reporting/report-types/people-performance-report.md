@@ -2,8 +2,8 @@
 unique-page-id: 2360014
 description: People Performance Report - Marketo Docs - Product Documentation
 title: People Performance Report
+exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 ---
-
 # People Performance Report {#people-performance-report}
 
 Use a People Performance Report to measure database growth over time. You can see how many people you added, and when. Learn more about the people and assess your programs. Group the results by any person or company attribute, or by [segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).

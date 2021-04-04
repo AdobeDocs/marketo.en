@@ -1,8 +1,8 @@
 ---
 title: run-a-batch-smart-campaign-now
 description: Run a Batch Smart Campaign Now
+exl-id: 2e6b24fc-db7a-4bed-ac41-bd26fea3e8f7
 ---
-
 # Run a Batch Smart Campaign Now
 
 <br>&nbsp;

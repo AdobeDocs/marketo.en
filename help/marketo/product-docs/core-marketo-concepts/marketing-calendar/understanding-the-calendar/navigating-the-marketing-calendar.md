@@ -2,8 +2,8 @@
 unique-page-id: 1147257
 description: Navigating the Marketing Calendar - Marketo Docs - Product Documentation
 title: Navigating the Marketing Calendar
+exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 ---
-
 # Navigating the Marketing Calendar {#navigating-the-marketing-calendar}
 
 Navigating around the Marketing Calendar is easy as one, two, three!

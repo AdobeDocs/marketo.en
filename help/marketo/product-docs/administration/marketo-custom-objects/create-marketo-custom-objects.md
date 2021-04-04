@@ -2,8 +2,8 @@
 unique-page-id: 10093192
 description: Create Marketo Custom Objects - Marketo Docs - Product Documentation
 title: Create Marketo Custom Objects
+exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 ---
-
 # Create Marketo Custom Objects {#create-marketo-custom-objects}
 
 Use custom objects in Marketo to track metrics specific to your business. This could be anything from cars, to courses--whatever you would like to model in Marketo to run your campaigns.

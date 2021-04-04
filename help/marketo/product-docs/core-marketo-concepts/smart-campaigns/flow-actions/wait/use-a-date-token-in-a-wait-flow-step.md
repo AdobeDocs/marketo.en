@@ -2,8 +2,8 @@
 unique-page-id: 1146997
 description: Use a Date Token in a Wait Flow Step - Marketo Docs - Product Documentation
 title: Use a Date Token in a Wait Flow Step
+exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 ---
-
 # Use a Date Token in a Wait Flow Step {#use-a-date-token-in-a-wait-flow-step}
 
 You can use the Wait flow step to pause a person's journey through a smart campaign until a particular date that uses a date token. You can also modify the end date by some number of days.

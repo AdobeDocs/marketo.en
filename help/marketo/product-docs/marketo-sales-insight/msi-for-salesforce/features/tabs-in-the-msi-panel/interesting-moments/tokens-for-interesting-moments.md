@@ -2,8 +2,8 @@
 unique-page-id: 1146999
 description: Tokens for Interesting Moments - Marketo Docs - Product Documentation
 title: Tokens for Interesting Moments
+exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 ---
-
 # Tokens for Interesting Moments {#tokens-for-interesting-moments}
 
 >[!PREREQUISITES]

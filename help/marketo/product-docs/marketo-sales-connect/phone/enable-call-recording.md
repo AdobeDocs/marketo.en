@@ -2,8 +2,8 @@
 unique-page-id: 45416564
 description: Enable Call Recording - Marketo Docs - Product Documentation
 title: Enable Call Recording
+exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 ---
-
 # Enable Call Recording {#enable-call-recording}
 
 As an admin you can enable call recording for your Sales Connect calls. Recording your team's calls can be a great way to coach your sales reps on the best calling practices.

@@ -2,8 +2,8 @@
 unique-page-id: 7512289
 description: Add GoToWebinar as a LaunchPoint Service - Marketo Docs - Product Documentation
 title: Add GoToWebinar as a LaunchPoint Service
+exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 ---
-
 # Add GoToWebinar as a LaunchPoint Service {#add-gotowebinar-as-a-launchpoint-service}
 
 Marketo manages your GoToWebinar registration and attendance.

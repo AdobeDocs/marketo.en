@@ -2,8 +2,8 @@
 unique-page-id: 2359646
 description: Configure Form Progressive Profiling - Marketo Docs - Product Documentation
 title: Configure Form Progressive Profiling
+exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 ---
-
 # Configure Form Progressive Profiling {#configure-form-progressive-profiling}
 
 Short forms are good! When someone comes back to a form, you can present new fields and progressively fill out the profile of the visitor. Here's how.

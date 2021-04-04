@@ -2,8 +2,8 @@
 unique-page-id: 3571838
 description: Microsoft Dynamics Sync -Field Sync - Marketo Docs - Product Documentation
 title: Microsoft Dynamics Sync -Field Sync
+exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 ---
-
 # Microsoft Dynamics Sync: Field Sync {#microsoft-dynamics-sync-field-sync}
 
 Marketo to Dynamics sync is super powerful. Here are the details.

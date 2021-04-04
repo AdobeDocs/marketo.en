@@ -2,8 +2,8 @@
 unique-page-id: 8783954
 description: Template 7-E - Marketo Docs - Product Documentation
 title: Template 7-E
+exl-id: 5f15e2c5-8206-4de1-b952-0e85f8864715
 ---
-
 # Template 7-E {#template-e}
 
 [Download Template 7-E](https://docs.marketo.com/download/attachments/8783954/template-7e.html?version=1&modificationdate=1437693434000&api=v2)

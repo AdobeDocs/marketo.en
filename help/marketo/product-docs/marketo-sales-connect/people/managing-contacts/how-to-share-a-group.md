@@ -2,8 +2,8 @@
 unique-page-id: 14352511
 description: How to Share a Group - Marketo Docs - Product Documentation
 title: How to Share a Group
+exl-id: 4ad92645-aaf6-401e-9d6f-87c70586ed6e
 ---
-
 # How to Share a Group {#how-to-share-a-group}
 
 Sharing a group of leads or contacts with your team is pretty simple in Sales Connect.

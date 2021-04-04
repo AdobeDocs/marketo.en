@@ -1,8 +1,8 @@
 ---
 description: Editing Fields to Sync Before Deleting Them in Dynamics - Marketo Docs - Product Documentation
 title: Editing Fields to Sync Before Deleting Them in Dynamics
+exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 ---
-
 # Editing Fields to Sync Before Deleting Them in Dynamics {#editing-fields-to-sync-before-deleting-them-in-dynamics}
 
 Sometimes you may want to delete fields in Dynamics. Marketo keeps the field list as a reference to base the sync on. If a field is deleted in Dynamics while the sync is on, the sync might encounter errors. Before deleting any fields, follow the steps below.

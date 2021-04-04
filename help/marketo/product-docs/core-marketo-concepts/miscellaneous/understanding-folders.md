@@ -2,8 +2,8 @@
 unique-page-id: 4720779
 description: Understanding Folders - Marketo Docs - Product Documentation
 title: Understanding Folders
+exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
 ---
-
 # Understanding Folders {#understanding-folders}
 
 Folders inside a program can be used to organize your smart campaigns and assets. These are different from [campaign folders](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).

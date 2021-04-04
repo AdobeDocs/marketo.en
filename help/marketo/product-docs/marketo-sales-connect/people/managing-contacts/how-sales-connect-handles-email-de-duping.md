@@ -2,8 +2,8 @@
 unique-page-id: 14352514
 description: How Sales Connect Handles Email De-Duping - Marketo Docs - Product Documentation
 title: How Sales Connect Handles Email De-Duping
+exl-id: 1f57d943-8439-4653-a4e7-6dac65b3312d
 ---
-
 # How Sales Connect Handles Email De-Duping {#how-sales-connect-handles-email-de-duping}
 
 When you're [uploading a CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) file into Sales Connect, we merge all like contacts in the CSV before the import takes place.

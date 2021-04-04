@@ -2,8 +2,8 @@
 unique-page-id: 7514985
 description: Reschedule a Batch Smart Campaign in the Program Schedule View - Marketo Docs - Product Documentation
 title: Reschedule a Batch Smart Campaign in the Program Schedule View
+exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 ---
-
 # Reschedule a Batch Smart Campaign in the Program Schedule View {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
 
 Want to reschedule a batch smart campaign run? Drag and drop them into the future in the program schedule view.

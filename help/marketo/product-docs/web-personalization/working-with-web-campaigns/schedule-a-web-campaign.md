@@ -2,8 +2,8 @@
 unique-page-id: 10097100
 description: Schedule a Web Campaign - Marketo Docs - Product Documentation
 title: Schedule a Web Campaign
+exl-id: 53ad93ef-b1a8-42fd-8aff-923e02946527
 ---
-
 # Schedule a Web Campaign {#schedule-a-web-campaign}
 
 If you know when you want your web campaign to run, you can schedule it in advance. It's easy to set up start and stop dates, repeats, and multiple days.

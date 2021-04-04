@@ -2,8 +2,8 @@
 unique-page-id: 11384438
 description: TAM Report Setup - Marketo Docs - Product Documentation
 title: TAM Report Setup
+exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 ---
-
 # TAM Report Setup {#tam-report-setup}
 
 The TAM Sales Report is a weekly, personalized email sent to the account team.

@@ -2,8 +2,8 @@
 unique-page-id: 37357050
 description: Upgrading Your MSI Package - Marketo Docs - Product Documentation
 title: Upgrading Your MSI Package
+exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 ---
-
 # Upgrading Your MSI Package {#upgrading-your-msi-package}
 
 1. Navigate to [this page in the appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).

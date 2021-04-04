@@ -2,8 +2,8 @@
 unique-page-id: 11383945
 description: Understanding Facebook Offline Conversions - Marketo Docs - Product Documentation
 title: Understanding Facebook Offline Conversions
+exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 ---
-
 # Understanding Facebook Offline Conversions {#understanding-facebook-offline-conversions}
 
 Facebook Lead Ads campaigns generate leads and send them to Marketo for use in marketing campaigns. However, without visibility into offline conversions, the Facebook advertiser can't know which ads are most effective. Here's an example.

@@ -2,8 +2,8 @@
 unique-page-id: 2949180
 description: Understanding the SEO Dashboard -SEO Recommendations - Marketo Docs - Product Documentation
 title: Understanding the SEO Dashboard -SEO Recommendations
+exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
 ---
-
 # Understanding the SEO Dashboard: SEO Recommendations {#understanding-the-seo-dashboard-seo-recommendations}
 
 Use the dashboard to get a high-level view of how keyword ranks are trending and how well your site is optimized for SEO.

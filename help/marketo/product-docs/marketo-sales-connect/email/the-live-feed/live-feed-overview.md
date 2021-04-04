@@ -2,8 +2,8 @@
 unique-page-id: 13796471
 description: Live Feed Overview - Marketo Docs - Product Documentation
 title: Live Feed Overview
+exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 ---
-
 # Live Feed Overview {#live-feed-overview}
 
 The Live Feed is a floating window that can be launched from the web application or the Gmail plug-in, and offers a real-time look at prospect engagement.

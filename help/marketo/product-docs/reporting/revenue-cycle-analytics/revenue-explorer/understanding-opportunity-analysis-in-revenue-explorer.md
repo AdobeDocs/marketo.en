@@ -2,8 +2,8 @@
 unique-page-id: 2951884
 description: Understanding Opportunity Analysis in Revenue Explorer - Marketo Docs - Product Documentation
 title: Understanding Opportunity Analysis in Revenue Explorer
+exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 ---
-
 # Understanding Opportunity Analysis in Revenue Explorer {#understanding-opportunity-analysis-in-revenue-explorer}
 
 Opportunity Analysis in the Revenue Explorer allows you to examine your opportunities at a deeper level. Slice and dice the data based on any lead/company attributes, such as lead source, industry or geography. Analyze opportunity creation and close based on name, stage or probability. Find out marketing contributions to the pipeline.

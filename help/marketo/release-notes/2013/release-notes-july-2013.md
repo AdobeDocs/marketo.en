@@ -2,8 +2,8 @@
 unique-page-id: 2951093
 description: Release Notes -July 2013 - Marketo Docs - Product Documentation
 title: Release Notes -July 2013
+exl-id: efff413f-99fe-4db6-839b-1a922f8581d9
 ---
-
 # Release Notes: July 2013 {#release-notes-july}
 
 The following features are included in the July release which is scheduled for a Friday, July 26 rollout.

@@ -2,8 +2,8 @@
 unique-page-id: 14745982
 description: Add Workplace By Facebook as a LaunchPoint Service - Marketo Docs - Product Documentation
 title: Add Workplace By Facebook as a LaunchPoint Service
+exl-id: afcc1eca-8927-4a25-af9b-c18cef24b0ae
 ---
-
 # Add Workplace By Facebook as a LaunchPoint Service {#add-workplace-by-facebook-as-a-launchpoint-service}
 
 There are two notification types included in the Workplace integration:

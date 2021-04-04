@@ -2,8 +2,8 @@
 unique-page-id: 7514898
 description: Setting Up a Trigger Smart Campaign for Sales Using "Campaign is Requested" - Marketo Docs - Product Documentation
 title: Setting Up a Trigger Smart Campaign for Sales Using "Campaign is Requested"
+exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 ---
-
 # Setting Up a Trigger Smart Campaign for Sales Using "Campaign is Requested" {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
 One of the coolest features of Marketo is the ability to let sales people participate in the marketing effort. They're on the front lines, interacting with people. Sales reps should have the ability to steer marketing in the right direction.

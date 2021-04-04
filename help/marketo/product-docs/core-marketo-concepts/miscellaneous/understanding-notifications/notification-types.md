@@ -2,8 +2,8 @@
 unique-page-id: 2953243
 description: Notification Types - Marketo Docs - Product Documentation
 title: Notification Types
+exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
 ---
-
 # Notification Types {#notification-types}
 
 There are several notification types.

@@ -2,8 +2,8 @@
 unique-page-id: 14352468
 description: Import Contacts via CSV - Marketo Docs - Product Documentation
 title: Import Contacts via CSV
+exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 ---
-
 # Import Contacts via CSV {#import-contacts-via-csv}
 
 Having contacts in the People page is important because it's where we pull from to auto-fill personalized information in the dynamic fields in your templates. Make sure you have at least a name and an email address for each contact in your CSV and that you map to those fields.

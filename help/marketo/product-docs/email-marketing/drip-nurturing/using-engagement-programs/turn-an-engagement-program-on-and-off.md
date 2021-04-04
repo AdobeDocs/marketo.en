@@ -2,8 +2,8 @@
 unique-page-id: 2359856
 description: Turn an Engagement Program On and Off - Marketo Docs - Product Documentation
 title: Turn an Engagement Program On and Off
+exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
 ---
-
 # Turn an Engagement Program On and Off {#turn-an-engagement-program-on-and-off}
 
 You can turn off an engagement program with the flick of a switch. This will stop any content from being sent out. Here's how.

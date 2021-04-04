@@ -2,8 +2,8 @@
 unique-page-id: 11384659
 description: Delete Content - Marketo Docs - Product Documentation
 title: Delete Content
+exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 ---
-
 # Delete Content {#delete-content}
 
 When you don't need a piece of content anymore, it's easy to get rid of it.

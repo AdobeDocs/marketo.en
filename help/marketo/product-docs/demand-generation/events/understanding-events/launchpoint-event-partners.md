@@ -2,8 +2,8 @@
 unique-page-id: 2949777
 description: LaunchPoint Event Partners - Marketo Docs - Product Documentation
 title: LaunchPoint Event Partners
+exl-id: 3d6c523f-a1ee-4b0c-8e3c-1724f3b7800e
 ---
-
 # LaunchPoint Event Partners {#launchpoint-event-partners}
 
 Connect Marketo to a LaunchPoint Event Partner to automate your online events. When you connect them, you can:

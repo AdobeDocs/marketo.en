@@ -2,8 +2,8 @@
 unique-page-id: 9437819
 description: Template 15-B - Marketo Docs - Product Documentation
 title: Template 15-B
+exl-id: ad55baf3-9670-42c2-8590-af0d4cf934a6
 ---
-
 # Template 15-B {#template-b}
 
 [Download Template 15-B](https://docs.marketo.com/download/attachments/9437819/template-15b.html?version=1&modificationdate=1438980430000&api=v2)

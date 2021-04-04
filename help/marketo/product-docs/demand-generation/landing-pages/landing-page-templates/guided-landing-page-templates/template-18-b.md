@@ -2,8 +2,8 @@
 unique-page-id: 9438209
 description: Template 18-B - Marketo Docs - Product Documentation
 title: Template 18-B
+exl-id: a0bb1104-a905-4285-895b-df515449db89
 ---
-
 # Template 18-B {#template-b}
 
 [Download Template 18-B](https://docs.marketo.com/download/attachments/9438209/template-18b.html?version=1&modificationdate=1439843194000&api=v2)

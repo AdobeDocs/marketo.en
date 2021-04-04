@@ -2,8 +2,8 @@
 unique-page-id: 7504047
 description: Create a Revenue Explorer Report - Marketo Docs - Product Documentation
 title: Create a Revenue Explorer Report
+exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 ---
-
 # Create a Revenue Explorer Report {#create-a-revenue-explorer-report}
 
 The Revenue Explorer report allows you to track the ROI on your marketing initiatives.

@@ -2,8 +2,8 @@
 unique-page-id: 45417460
 description: Assigning Tasks to Team Members - Marketo Docs - Product Documentation
 title: Assigning Tasks to Team Members
+exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 ---
-
 # Assigning Tasks to Team Members {#assigning-tasks-to-team-members}
 
 If you want to collaborate with other team members, assigning tasks can be a great way to coordinate your prospecting efforts.

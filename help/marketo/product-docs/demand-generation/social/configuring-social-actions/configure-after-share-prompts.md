@@ -2,8 +2,8 @@
 unique-page-id: 2359813
 description: Configure After-Share Prompts - Marketo Docs - Product Documentation
 title: Configure After-Share Prompts
+exl-id: bfa6063b-24f3-4abf-b149-989780dfc448
 ---
-
 # Configure After-Share Prompts {#configure-after-share-prompts}
 
 In social button, video share, and poll apps, you can choose what happens after a person shares your content on their social network.

@@ -2,8 +2,8 @@
 unique-page-id: 3571888
 description: Enabling Custom Field Sync for Revenue Cycle Analytics - Marketo Docs - Product Documentation
 title: Enabling Custom Field Sync for Revenue Cycle Analytics
+exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 ---
-
 # Enabling Custom Field Sync for Revenue Cycle Analytics {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
 The following steps will allow you to utilize custom fields in RCA reports.

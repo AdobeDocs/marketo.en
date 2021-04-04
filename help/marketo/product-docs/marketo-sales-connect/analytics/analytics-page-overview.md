@@ -2,8 +2,8 @@
 unique-page-id: 14352416
 description: Analytics Page Overview - Marketo Docs - Product Documentation
 title: Analytics Page Overview
+exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
 ---
-
 # Analytics Page Overview {#analytics-page-overview}
 
 The Analytics tab is where you see data regarding your emails' engagement. Both individual and team data are displayed. Admins can also filter by the user on the Me tab.

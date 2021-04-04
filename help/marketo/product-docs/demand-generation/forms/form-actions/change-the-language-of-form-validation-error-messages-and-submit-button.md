@@ -2,8 +2,8 @@
 unique-page-id: 2359654
 description: Change the Language of Form Validation/Error Messages and Submit Button - Marketo Docs - Product Documentation
 title: Change the Language of Form Validation/Error Messages and Submit Button
+exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 ---
-
 # Change the Language of Form Validation/Error Messages and Submit Button {#change-the-language-of-form-validation-error-messages-and-submit-button}
 
 Did you know you can customize the form to give messages in another language? Check this out.

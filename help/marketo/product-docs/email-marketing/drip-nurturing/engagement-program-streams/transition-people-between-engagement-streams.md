@@ -2,8 +2,8 @@
 unique-page-id: 2359947
 description: Transition People Between Engagement Streams - Marketo Docs - Product Documentation
 title: Transition People Between Engagement Streams
+exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
 ---
-
 # Transition People Between Engagement Streams {#transition-people-between-engagement-streams}
 
 Engagement programs can have more than one stream. If you [add a stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), you'll want to define a way for people to move from one stream to another. These are called **transition rules.**

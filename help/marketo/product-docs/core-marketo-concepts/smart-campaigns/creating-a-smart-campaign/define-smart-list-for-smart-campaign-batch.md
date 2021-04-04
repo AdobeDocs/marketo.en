@@ -2,8 +2,8 @@
 unique-page-id: 1146940
 description: Define Smart List for Smart Campaign | Batch - Marketo Docs - Product Documentation
 title: Define Smart List for Smart Campaign | Batch
+exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 ---
-
 # Define Smart List for Smart Campaign | Batch {#define-smart-list-for-smart-campaign-batch}
 
 Smart lists are the mechanism throughout Marketo to define "who" (which people) to include, whether it's a report, a list, or a smart campaign. Here's how to define a smart list for a batch campaign.

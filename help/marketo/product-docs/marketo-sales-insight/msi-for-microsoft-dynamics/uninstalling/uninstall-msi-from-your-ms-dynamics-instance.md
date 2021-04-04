@@ -2,8 +2,8 @@
 unique-page-id: 37355600
 description: Uninstall MSI from your MS Dynamics Instance - Marketo Docs - Product Documentation
 title: Uninstall MSI from your MS Dynamics Instance
+exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
 ---
-
 # Uninstall MSI from your MS Dynamics Instance {#uninstall-msi-from-your-ms-dynamics-instance}
 
 To uninstall MSI from your MS Dynamics instance, you'll need to perform steps in both Marketo and MS Dynamics.

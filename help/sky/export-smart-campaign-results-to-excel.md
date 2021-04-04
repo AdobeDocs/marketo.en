@@ -1,8 +1,8 @@
 ---
 title: export-smart-campaign-results-to-excel
 description: Export Smart Campaign Results to Excel
+exl-id: f8297090-ae57-46cd-97b5-1297d50486e0
 ---
-
 # Export Smart Campaign Results to Excel
 
 <br>&nbsp;

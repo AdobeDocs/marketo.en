@@ -2,8 +2,8 @@
 unique-page-id: 1147245
 description: Create Custom Entry Types - Marketo Docs - Product Documentation
 title: Create Custom Entry Types
+exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 ---
-
 # Create Custom Entry Types {#create-custom-entry-types}
 
 You can create custom entry types to use in your Program Schedule View. This will allow you to keep track of all your non-Marketo agenda items that affect your program.

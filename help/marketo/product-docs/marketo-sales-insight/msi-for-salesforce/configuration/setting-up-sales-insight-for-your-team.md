@@ -1,8 +1,8 @@
 ---
 description: Setting up Sales Insight for your Team - Marketo Docs - Product Documentation
 title: Setting up Sales Insight for your Team
+exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 ---
-
 # Setting up Sales Insight for your Team {#setting-up-sales-insight-for-your-team}
 
 Here's how to create a profile with access to Sales Insight while removing access for your other profiles. This is for users who have already installed the [Sales Insight AppExchange package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).

@@ -2,8 +2,8 @@
 unique-page-id: 2360002
 description: Configure Report Size - Marketo Docs - Product Documentation
 title: Configure Report Size
+exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 ---
-
 # Configure Report Size {#configure-report-size}
 
 By default, Marketo reports are limited to a maximum of 5,000 rows, but you can change that limit.

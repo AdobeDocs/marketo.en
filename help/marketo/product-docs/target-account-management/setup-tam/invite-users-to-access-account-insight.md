@@ -2,8 +2,8 @@
 unique-page-id: 12980105
 description: Invite Users to Access Account Insight - Marketo Docs - Product Documentation
 title: Invite Users to Access Account Insight
+exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 ---
-
 # Invite Users to Access Account Insight {#invite-users-to-access-account-insight}
 
 Follow these steps to provide users access to Account Insight.

@@ -2,8 +2,8 @@
 unique-page-id: 6849029
 description: Upgrade the Marketo Solution for Microsoft Dynamics - Marketo Docs - Product Documentation
 title: Upgrade the Marketo Solution for Microsoft Dynamics
+exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 ---
-
 # Update the Marketo Solution for Microsoft Dynamics {#update-the-marketo-solution-for-microsoft-dynamics}
 
 When a new Microsoft Dynamics solutions is released, you can download the upgrade from the Admin area in your account.

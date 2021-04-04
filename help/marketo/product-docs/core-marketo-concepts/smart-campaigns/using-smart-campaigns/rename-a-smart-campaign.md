@@ -2,8 +2,8 @@
 unique-page-id: 1147049
 description: Rename a Smart Campaign - Marketo Docs - Product Documentation
 title: Rename a Smart Campaign
+exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 ---
-
 # Rename a Smart Campaign {#rename-a-smart-campaign}
 
 You can change the name of an existing smart campaign. Here's how.

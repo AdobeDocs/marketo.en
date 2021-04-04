@@ -2,8 +2,8 @@
 unique-page-id: 2949222
 description: SEO - Export Issues to CSV - Marketo Docs - Product Documentation
 title: SEO - Export Issues to CSV
+exl-id: a3012408-eeb4-4f09-af01-5c0e5dec4625
 ---
-
 # SEO - Export Issues to CSV {#seo-export-issues-to-csv}
 
 You can export your [page issue](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) data to a CSV file if you'd like to share that information with people outside of Marketo. Here's how.

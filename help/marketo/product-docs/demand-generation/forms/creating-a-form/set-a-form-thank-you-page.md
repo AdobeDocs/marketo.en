@@ -2,8 +2,8 @@
 unique-page-id: 2359573
 description: Set a Form Thank You Page - Marketo Docs - Product Documentation
 title: Set a Form Thank You Page
+exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 ---
-
 # Set a Form Thank You Page {#set-a-form-thank-you-page}
 
 What happens when someone fills out a form? Where are they forwarded to? Here's how to configure it.
@@ -133,4 +133,3 @@ You can add multiple options and build in choices to show people different follo
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
 Great job!
-

@@ -2,8 +2,8 @@
 unique-page-id: 2360327
 description: Assigning Person Partitions with Assignment Rules - Marketo Docs - Product Documentation
 title: Assigning Person Partitions with Assignment Rules
+exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 ---
-
 # Assigning Person Partitions with Assignment Rules {#assigning-person-partitions-with-assignment-rules}
 
 >[!NOTE]

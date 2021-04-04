@@ -2,8 +2,8 @@
 unique-page-id: 7503973
 description: Customize a Presentation - Marketo Docs - Product Documentation
 title: Customize a Presentation
+exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 ---
-
 # Customize a Presentation {#customize-a-presentation}
 
 Set up your calendar presentation to reflect the goals and activities that matter most to your team.

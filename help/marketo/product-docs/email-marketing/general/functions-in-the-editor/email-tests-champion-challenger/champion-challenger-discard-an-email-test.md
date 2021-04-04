@@ -2,8 +2,8 @@
 unique-page-id: 2359587
 description: Champion/Challenger -Discard an Email Test - Marketo Docs - Product Documentation
 title: Champion/Challenger -Discard an Email Test
+exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 ---
-
 # Champion/Challenger: Discard an Email Test {#champion-challenger-discard-an-email-test}
 
 If, at any point, you decide you don't want to continue running your email test, you can discard it. Here's how.

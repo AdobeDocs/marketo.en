@@ -2,8 +2,8 @@
 unique-page-id: 10094576
 description: Durable Unsubscribe - Marketo Docs - Product Documentation
 title: Durable Unsubscribe
+exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 ---
-
 # Durable Unsubscribe {#durable-unsubscribe}
 
 Marketo has enhanced the behavior of the unsubscribe functionality to make it “durable." We've added a master email status, which is separate from the unsubscribe flag visible on the person detail record.

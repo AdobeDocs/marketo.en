@@ -2,8 +2,8 @@
 unique-page-id: 2359718
 description: Add a Social Button to a Free-form Landing Page - Marketo Docs - Product Documentation
 title: Add a Social Button to a Free-form Landing Page
+exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 ---
-
 # Add a Social Button to a Free-form Landing Page {#add-a-social-button-to-a-free-form-landing-page}
 
 A social button encourages people to share your content with their friends. Drop it on free-form landing pages, Facebook, and your website.

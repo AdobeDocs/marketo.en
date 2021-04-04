@@ -1,8 +1,8 @@
 ---
 description: Best Bets - Marketo Docs - Product Documentation
 title: Best Bets
+exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 ---
-
 # Best Bets {#best-bets}
 
 The Best Bets tab includes a list of all of your hot leads based on their priority, calculated using urgency and relative score.

@@ -2,8 +2,8 @@
 unique-page-id: 2359398
 description: Create a Form - Marketo Docs - Product Documentation
 title: Create a Form
+exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 ---
-
 # Create a Form {#create-a-form}
 
 Create and use a form on a landing page to generate new names. It's really easy - here's how to get started.

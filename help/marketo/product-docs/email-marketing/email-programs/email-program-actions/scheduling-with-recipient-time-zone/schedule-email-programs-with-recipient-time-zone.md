@@ -2,8 +2,8 @@
 unique-page-id: 12982903
 description: Schedule Email Programs with Recipient Time Zone - Marketo Docs - Product Documentation
 title: Schedule Email Programs with Recipient Time Zone
+exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 ---
-
 # Schedule Email Programs with Recipient Time Zone {#schedule-email-programs-with-recipient-time-zone}
 
 There are two potential scenarios when scheduling an email program while Recipient Time Zone is enabled:

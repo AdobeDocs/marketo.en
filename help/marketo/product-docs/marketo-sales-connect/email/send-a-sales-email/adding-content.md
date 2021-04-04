@@ -2,8 +2,8 @@
 unique-page-id: 14352591
 description: Adding Content - Marketo Docs - Product Documentation
 title: Adding Content
+exl-id: d312ec11-ceea-4081-93a2-ba7a7f9afbc5
 ---
-
 # Adding Content {#adding-content}
 
 In order to add trackable content to your emails, open a new Compose window. Click **Content**.

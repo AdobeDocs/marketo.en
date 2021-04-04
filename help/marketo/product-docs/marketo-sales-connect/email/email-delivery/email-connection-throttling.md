@@ -1,8 +1,8 @@
 ---
 description: Email Connection Throttling - Marketo Docs - Product Documentation
 title: Email Connection Throttling
+exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 ---
-
 # Email Connection Throttling {#email-connection-throttling}
 
 Integrating your Sales Connect account to send through Exchange or Gmail email providers offers a streamlined setup and optimizes email deliverability for 1:1 sales communication. However, to keep systems healthy and accounts safe, Gmail and Exchange enforce email send limits. These limits are open to be increased or decreased at the providers' discretion.

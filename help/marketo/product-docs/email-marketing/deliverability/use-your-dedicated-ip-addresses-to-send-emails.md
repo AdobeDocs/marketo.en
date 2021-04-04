@@ -2,8 +2,8 @@
 unique-page-id: 1900587
 description: Use Your Dedicated IP Addresses to Send Emails - Marketo Docs - Product Documentation
 title: Use Your Dedicated IP Addresses to Send Emails
+exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 ---
-
 # Use Your Dedicated IP Addresses to Send Emails {#use-your-dedicated-ip-addresses-to-send-emails}
 
 Sending from one or more dedicated IP gives you complete control over your sending reputation.

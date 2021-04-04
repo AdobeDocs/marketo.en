@@ -2,8 +2,8 @@
 unique-page-id: 7514146
 description: Attribution Example 2 - Marketo Docs - Product Documentation
 title: Attribution Example 2
+exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
 ---
-
 # Attribution Example 2 {#attribution-example}
 
 Read the following scenario and try to determine the numbers that should be in the grid.

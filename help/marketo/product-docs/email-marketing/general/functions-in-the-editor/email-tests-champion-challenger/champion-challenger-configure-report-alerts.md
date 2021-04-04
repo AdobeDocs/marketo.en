@@ -2,8 +2,8 @@
 unique-page-id: 2359567
 description: Champion/Challenger -Configure Report Alerts - Marketo Docs - Product Documentation
 title: Champion/Challenger -Configure Report Alerts
+exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 ---
-
 # Champion/Challenger: Configure Report Alerts {#champion-challenger-configure-report-alerts}
 
 Marketo will send you reports on how the email test is going. Here's how to schedule it.

@@ -1,8 +1,8 @@
 ---
 title: schedule-a-recurring-batch-campaign
 description: Schedule a Recurring Batch Campaign
+exl-id: 94d468a8-c024-4103-a71d-e6ef3783d43d
 ---
-
 # Schedule a Recurring Batch Campaign
 
 <br>&nbsp;

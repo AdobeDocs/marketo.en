@@ -1,8 +1,8 @@
 ---
 title: activate-and-deactivate-stream-content
 description: Activate and Deactivate Stream Content
+exl-id: 5f8c52d6-ea10-42dd-a2e3-e25f88f35e3d
 ---
-
 # Activate and Deactivate Stream Content
 
 Stream content is off by default. Activate content to send it out during engagement casts.

@@ -2,8 +2,8 @@
 unique-page-id: 2949870
 description: Create an Event with ReadyTalk - Marketo Docs - Product Documentation
 title: Create an Event with ReadyTalk
+exl-id: 69967aba-d354-45f9-a25b-77f733a50225
 ---
-
 # Create an Event with ReadyTalk {#create-an-event-with-readytalk}
 
 >[!PREREQUISITES]

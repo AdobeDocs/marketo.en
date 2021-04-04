@@ -2,8 +2,8 @@
 unique-page-id: 8784002
 description: Template 10-B - Marketo Docs - Product Documentation
 title: Template 10-B
+exl-id: 6c99a6cd-6c6f-45a3-aed0-b7a0c198dffe
 ---
-
 # Template 10-B {#template-b}
 
 [Download Template 10-B](https://docs.marketo.com/download/attachments/8784002/template-10b.html?version=2&modificationdate=1438210889000&api=v2)

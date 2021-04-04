@@ -2,8 +2,8 @@
 unique-page-id: 3571827
 description: Step 2 of 3 -Set up Marketo Sync User in Dynamics - Marketo Docs - Product Documentation
 title: Step 2 of 3 -Set up Marketo Sync User in Dynamics
+exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 ---
-
 # Step 2 of 3: Set up Marketo Sync User in Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}
 
 Let's get started by creating a user account.

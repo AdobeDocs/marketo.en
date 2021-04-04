@@ -2,8 +2,8 @@
 unique-page-id: 1147122
 description: Manage and View Members - Marketo Docs - Product Documentation
 title: Manage and View Members
+exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 ---
-
 # Manage and View Members {#manage-and-view-members}
 
 You can manage and view your members in your programs using the Members tab.

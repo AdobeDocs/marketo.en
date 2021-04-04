@@ -2,8 +2,8 @@
 unique-page-id: 2359722
 description: Add a Video to a Free-form Landing Page - Marketo Docs - Product Documentation
 title: Add a Video to a Free-form Landing Page
+exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 ---
-
 # Add a Video to a Free-form Landing Page {#add-a-video-to-a-free-form-landing-page}
 
 Put videos with social sharing options on your landing pages.

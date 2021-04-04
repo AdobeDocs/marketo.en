@@ -2,8 +2,8 @@
 unique-page-id: 2359569
 description: Make a Form Field Required - Marketo Docs - Product Documentation
 title: Make a Form Field Required
+exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 ---
-
 # Make a Form Field Required {#make-a-form-field-required}
 
 When [adding fields to a form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) you may want to make a few of them required to the person filling them out. Here's how.

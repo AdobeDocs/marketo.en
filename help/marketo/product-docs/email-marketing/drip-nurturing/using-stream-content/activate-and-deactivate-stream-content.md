@@ -2,8 +2,8 @@
 unique-page-id: 2359669
 description: Activate and Deactivate Stream Content - Marketo Docs - Product Documentation
 title: Activate and Deactivate Stream Content
+exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 ---
-
 # Activate and Deactivate Stream Content {#activate-and-deactivate-stream-content}
 
 Stream content is OFF by default. Activate content to send them out during engagement casts.

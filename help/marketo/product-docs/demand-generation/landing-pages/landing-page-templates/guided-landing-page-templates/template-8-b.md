@@ -2,8 +2,8 @@
 unique-page-id: 8783963
 description: Template 8-B - Marketo Docs - Product Documentation
 title: Template 8-B
+exl-id: fd194747-2465-4685-a0de-bea7a294726d
 ---
-
 # Template 8-B {#template-b}
 
 [Download Template 8-B](https://docs.marketo.com/download/attachments/8783963/template-8b.html?version=1&modificationdate=1482174993000&api=v2)

@@ -2,8 +2,8 @@
 unique-page-id: 14352612
 description: Schedule a Campaign - Marketo Docs - Product Documentation
 title: Schedule a Campaign
+exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
 ---
-
 # Schedule a Campaign {#schedule-a-campaign}
 
 You can either schedule each individual email step of your Campaign to go out at a specific time, or choose each subsequent email step to go out at the same time as the first email in your Campaign.

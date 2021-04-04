@@ -2,8 +2,8 @@
 unique-page-id: 14352519
 description: Email Selected and Email Group - Marketo Docs - Product Documentation
 title: Email Selected and Email Group
+exl-id: b477b93e-1b49-4cae-9145-5f5350aa6541
 ---
-
 # Email Selected and Email Group {#email-selected-and-email-group}
 
 Once a group is created and contacts are added, you have two options when sending a targeted group email.

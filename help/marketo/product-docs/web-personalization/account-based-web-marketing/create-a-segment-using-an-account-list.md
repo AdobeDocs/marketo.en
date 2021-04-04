@@ -2,8 +2,8 @@
 unique-page-id: 4720236
 description: Create a Segment Using an Account List - Marketo Docs - Product Documentation
 title: Create a Segment Using an Account List
+exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 ---
-
 # Create a Segment Using an Account List {#create-a-segment-using-an-account-list}
 
 Here's how to create a segment using an Account List.

@@ -2,8 +2,8 @@
 unique-page-id: 11384433
 description: Account Team Setup - Marketo Docs - Product Documentation
 title: Account Team Setup
+exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 ---
-
 # Account Team Setup {#account-team-setup}
 
 An account team is a group of stakeholders who work together on a named account. Follow these steps to choose which CRM account roles should be added.

@@ -1,8 +1,8 @@
 ---
 title: my-token-email-script
 description: My Token Email Script
+exl-id: 8dd28274-578a-4184-b7bb-b46b59ebe410
 ---
-
 # My Token: Email Script
 
 <br>&nbsp;

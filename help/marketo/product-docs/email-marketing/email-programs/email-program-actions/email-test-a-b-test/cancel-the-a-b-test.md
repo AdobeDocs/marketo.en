@@ -2,8 +2,8 @@
 unique-page-id: 2359600
 description: Cancel the A/B Test - Marketo Docs - Product Documentation
 title: Cancel the A/B Test
+exl-id: 7fc79e67-01db-4b6e-818e-fe61e720ad92
 ---
-
 # Cancel the A/B Test {#cancel-the-a-b-test}
 
 If you've  [added an A/B testing](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) to your email program and have decided you no longer want it, it is easily undone. Here's how.

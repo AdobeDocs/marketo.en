@@ -2,8 +2,8 @@
 unique-page-id: 7505310
 description: Subscribe to a Smart List - Marketo Docs - Product Documentation
 title: Subscribe to a Smart List
+exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 ---
-
 # Subscribe to a Smart List {#subscribe-to-a-smart-list}
 
 Subscribing to smart lists is a great way to keep track of people, with reports sent right to your inbox.

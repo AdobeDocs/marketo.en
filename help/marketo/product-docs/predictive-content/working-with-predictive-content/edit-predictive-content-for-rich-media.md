@@ -2,8 +2,8 @@
 unique-page-id: 11385940
 description: Edit Predictive Content for Rich Media - Marketo Docs - Product Documentation
 title: Edit Predictive Content for Rich Media
+exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 ---
-
 # Edit Predictive Content for Rich Media {#edit-predictive-content-for-rich-media}
 
 Here's how to set up your predictive content for Rich Media.

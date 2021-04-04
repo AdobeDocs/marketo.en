@@ -2,8 +2,8 @@
 unique-page-id: 7512105
 description: Clone a Report to Group Reports - Marketo Docs - Product Documentation
 title: Clone a Report to Group Reports
+exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 ---
-
 # Clone a Report to Group Reports {#clone-a-report-to-group-reports}
 
 Any report in **My Reports **is only visible to you. What if you wanted to make the report accessible all others? Here's how you can do that:

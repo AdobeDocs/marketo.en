@@ -2,8 +2,8 @@
 unique-page-id: 2359612
 description: Change Form Label Position - Marketo Docs - Product Documentation
 title: Change Form Label Position
+exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 ---
-
 # Change Form Label Position {#change-form-label-position}
 
 When [creating a form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), you can change the positioning of the form field labels very easily. Here's how.

@@ -2,8 +2,8 @@
 unique-page-id: 18317669
 description: Salesforce Sync Settings - Marketo Docs - Product Documentation
 title: Salesforce Sync Settings
+exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 ---
-
 # Salesforce Sync Settings {#salesforce-sync-settings}
 
 ## Logging Email Activity to Salesforce via API {#logging-email-activity-to-salesforce-via-api}

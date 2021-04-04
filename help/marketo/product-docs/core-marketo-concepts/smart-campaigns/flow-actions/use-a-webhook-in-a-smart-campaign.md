@@ -2,8 +2,8 @@
 unique-page-id: 1147025
 description: Use a Webhook in a Smart Campaign - Marketo Docs - Product Documentation
 title: Use a Webhook in a Smart Campaign
+exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 ---
-
 # Use a Webhook in a Smart Campaign {#use-a-webhook-in-a-smart-campaign}
 
 To use a [webhook](https://developers.marketo.com/documentation/webhooks/), add it to a [smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) as a flow action.

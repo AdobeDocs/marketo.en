@@ -2,8 +2,8 @@
 unique-page-id: 14352406
 description: Create a Sub-Team - Marketo Docs - Product Documentation
 title: Create a Sub-Team
+exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 ---
-
 # Create a Sub-Team {#create-a-sub-team}
 
 ## Create a Sub-Team {#create-a-sub-team-1}

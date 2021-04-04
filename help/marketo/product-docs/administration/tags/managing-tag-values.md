@@ -2,8 +2,8 @@
 unique-page-id: 2360274
 description: Managing Tag Values - Marketo Docs - Product Documentation
 title: Managing Tag Values
+exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 ---
-
 # Managing Tag Values {#managing-tag-values}
 
 [Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) are used to describe programs. You can make as many as you need, each with unique values. Here's how to manage those values.

@@ -2,8 +2,8 @@
 unique-page-id: 8783972
 description: Template 8-E - Marketo Docs - Product Documentation
 title: Template 8-E
+exl-id: 4e3c3b18-0a4f-4d5c-8535-77ca063b98b9
 ---
-
 # Template 8-E {#template-e}
 
 [Download Template 8-E](https://docs.marketo.com/download/attachments/8783972/template-8e.html?version=1&modificationdate=1482175134000&api=v2)

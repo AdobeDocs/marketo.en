@@ -2,8 +2,8 @@
 unique-page-id: 4719398
 description: Create a New Dialog Web Campaign - Marketo Docs - Product Documentation
 title: Create a New Dialog Web Campaign
+exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 ---
-
 # Create a New Dialog Web Campaign {#create-a-new-dialog-web-campaign}
 
 ## Create a Dialog Web Campaign {#create-a-dialog-web-campaign}

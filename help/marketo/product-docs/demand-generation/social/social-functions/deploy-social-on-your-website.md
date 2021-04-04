@@ -2,8 +2,8 @@
 unique-page-id: 2950524
 description: Deploy Social on Your Website - Marketo Docs - Product Documentation
 title: Deploy Social on Your Website
+exl-id: bccfa461-29c1-4cf1-8e6a-2186c36bdf7e
 ---
-
 # Deploy Social on Your Website {#deploy-social-on-your-website}
 
 Embed social apps on your non-Marketo pages.

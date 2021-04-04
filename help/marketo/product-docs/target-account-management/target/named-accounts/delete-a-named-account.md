@@ -2,8 +2,8 @@
 unique-page-id: 12615802
 description: Delete a Named Account - Marketo Docs - Product Documentation
 title: Delete a Named Account
+exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 ---
-
 # Delete a Named Account {#delete-a-named-account}
 
 Follow these quick steps to delete a named account.

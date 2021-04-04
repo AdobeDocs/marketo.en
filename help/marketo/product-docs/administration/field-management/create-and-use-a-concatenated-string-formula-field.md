@@ -2,8 +2,8 @@
 unique-page-id: 2360337
 description: Create and Use a Concatenated String (Formula) Field - Marketo Docs - Product Documentation
 title: Create and Use a Concatenated String (Formula) Field
+exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 ---
-
 # Create and Use a Concatenated String (Formula) Field {#create-and-use-a-concatenated-string-formula-field}
 
 You can combine values from multiple fields or build a conditional value using a Marketo Formula field.

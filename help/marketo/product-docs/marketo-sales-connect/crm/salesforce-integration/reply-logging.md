@@ -2,8 +2,8 @@
 unique-page-id: 14352480
 description: Reply Logging (SFDC) - Marketo Docs - Product Documentation
 title: Reply Logging (SFDC)
+exl-id: 11f84157-55b7-42a7-81d0-f5848adbb9f4
 ---
-
 # Reply Logging (SFDC) {#reply-logging-sfdc}
 
 Sales Connect arms you with the ability to automatically log your prospects' replies to Salesforce. The structure that allows you to do this is based on our email reply tracking. If we can track a prospect's reply, we can log that reply to Salesforce.

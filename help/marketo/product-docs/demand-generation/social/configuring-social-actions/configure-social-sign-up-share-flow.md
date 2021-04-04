@@ -2,8 +2,8 @@
 unique-page-id: 2950530
 description: Configure Social Sign-Up/Share Flow - Marketo Docs - Product Documentation
 title: Configure Social Sign-Up/Share Flow
+exl-id: 521187d1-2228-42e7-a87b-3b20a45adb03
 ---
-
 # Configure Social Sign-Up/Share Flow {#configure-social-sign-up-share-flow}
 
 When you create a social app, you can configure the social network choices and prompts that a user encounters as they sign up.

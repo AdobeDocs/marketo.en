@@ -2,8 +2,8 @@
 unique-page-id: 2359671
 description: Add Hint Text to a Form Field - Marketo Docs - Product Documentation
 title: Add Hint Text to a Form Field
+exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 ---
-
 # Add Hint Text to a Form Field {#add-hint-text-to-a-form-field}
 
 Hints and [instructions](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) help people fill out forms. Here's how to add a hint.

@@ -2,8 +2,8 @@
 unique-page-id: 1146962
 description: Change Score - Marketo Docs - Product Documentation
 title: Change Score
+exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 ---
-
 # Change Score {#change-score}
 
 ## Overview {#overview}

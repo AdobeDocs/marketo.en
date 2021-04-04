@@ -2,8 +2,8 @@
 unique-page-id: 2359488
 description: Group Email Reports by Segmentations - Marketo Docs - Product Documentation
 title: Group Email Reports by Segmentations
+exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 ---
-
 # Group Email Reports by Segmentations {#group-email-reports-by-segmentations}
 
 Segmentations are not just for Dynamic Content. You can group your email performance report by segmentations, too.

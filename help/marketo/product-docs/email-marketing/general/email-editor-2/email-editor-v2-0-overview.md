@@ -2,8 +2,8 @@
 unique-page-id: 11372299
 description: Email Editor v2.0 Overview - Marketo Docs - Product Documentation
 title: Email Editor v2.0 Overview
+exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 ---
-
 # Email Editor v2.0 Overview {#email-editor-v-overview}
 
 When you decide to activate the Email Editor v2.0, you'll notice several new features.

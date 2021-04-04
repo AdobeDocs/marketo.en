@@ -2,8 +2,8 @@
 unique-page-id: 14352469
 description: Import a Salesforce ID into Sales Connect - Marketo Docs - Product Documentation
 title: Import a Salesforce ID into Sales Connect
+exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
 ---
-
 # Import a Salesforce ID into Sales Connect {#import-a-salesforce-id-into-sales-connect}
 
 Sales Connect uses the Contact or Lead ID (also known as Salesforce ID), to help log information properly to Salesforce. There are a few ways that you can attach your Salesforce ID to your contacts in Sales Connect.

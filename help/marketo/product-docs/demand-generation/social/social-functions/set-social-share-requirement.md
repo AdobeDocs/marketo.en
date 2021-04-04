@@ -2,8 +2,8 @@
 unique-page-id: 2359821
 description: Set Social Share Requirement - Marketo Docs - Product Documentation
 title: Set Social Share Requirement
+exl-id: 5aa8f245-f122-44eb-bec4-0a41c2509706
 ---
-
 # Set Social Share Requirement {#set-social-share-requirement}
 
 When you [create a referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you can require people to share the offer in order to sign up, or make it optional.

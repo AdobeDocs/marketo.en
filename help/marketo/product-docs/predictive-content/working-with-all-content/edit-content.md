@@ -2,8 +2,8 @@
 unique-page-id: 11384653
 description: Edit Content - Marketo Docs - Product Documentation
 title: Edit Content
+exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
 ---
-
 # Edit Content {#edit-content}
 
 You can make some edits to listings on the All Content Page.

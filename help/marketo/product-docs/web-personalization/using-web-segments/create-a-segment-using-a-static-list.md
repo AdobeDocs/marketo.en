@@ -2,8 +2,8 @@
 unique-page-id: 13795536
 description: Create a Segment Using a Static List - Marketo Docs - Product Documentation
 title: Create a Segment Using a Static List
+exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 ---
-
 # Create a Segment Using a Static List {#create-a-segment-using-a-static-list}
 
 Segment known web visitors when they visit your website based on if they're in or not in one of your Marketo [static lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md).

@@ -2,8 +2,8 @@
 unique-page-id: 1147051
 description: Smart Campaign Checklist - Marketo Docs - Product Documentation
 title: Smart Campaign Checklist
+exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 ---
-
 # Smart Campaign Checklist {#smart-campaign-checklist}
 
 Follow the below steps to ensure smooth running of the smart campaign and prevent errors as much as possible.
@@ -56,4 +56,4 @@ In the **Schedule** tab, make sure the number of qualified people does not excee
 >
 >If your smart campaign still fails, learn how to [understand notifications](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) to figure out what went wrong and how to fix it.
 
-Great job! Keep this checklist handy before running a smart campaign. 
+Great job! Keep this checklist handy before running a smart campaign.

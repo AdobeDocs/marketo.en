@@ -2,8 +2,8 @@
 unique-page-id: 2360366
 description: Step 3 of 3 -Connect Marketo and Salesforce (Enterprise/Unlimited) - Marketo Docs - Product Documentation
 title: Step 3 of 3 -Connect Marketo and Salesforce (Enterprise/Unlimited)
+exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 ---
-
 # Step 3 of 3: Connect Marketo and Salesforce (Enterprise/Unlimited) {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
 
 In this article, you will configure Marketo to sync with your configured Salesforce instance.

@@ -2,8 +2,8 @@
 unique-page-id: 14352509
 description: Dynamic Fields Glossary - Marketo Docs - Product Documentation
 title: Dynamic Fields Glossary
+exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 ---
-
 # Dynamic Fields Glossary {#dynamic-fields-glossary}
 
 When creating a template in Sales Connect, we always recommend integrating dynamic fields, using the **MSE Dynamic Fields** button.

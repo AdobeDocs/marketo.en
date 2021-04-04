@@ -2,8 +2,8 @@
 unique-page-id: 2359930
 description: Archive and Unarchive Stream Content - Marketo Docs - Product Documentation
 title: Archive and Unarchive Stream Content
+exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 ---
-
 # Archive and Unarchive Stream Content {#archive-and-unarchive-stream-content}
 
 If you no longer want to use a piece of content in a stream you can either [remove](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) it or archive it. Here's how to archive content.

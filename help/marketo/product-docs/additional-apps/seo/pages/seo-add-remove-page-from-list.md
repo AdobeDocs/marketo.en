@@ -2,8 +2,8 @@
 unique-page-id: 2949218
 description: SEO - Add/Remove Page from List - Marketo Docs - Product Documentation
 title: SEO - Add/Remove Page from List
+exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
 ---
-
 # SEO - Add/Remove Page from List {#seo-add-remove-page-from-list}
 
 You want to manage your pages? You can easily do that by creating a list. You can use lists to organize pages or filter data in dashboards.

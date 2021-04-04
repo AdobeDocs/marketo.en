@@ -2,8 +2,8 @@
 unique-page-id: 2951124
 description: Release Notes -Jan/Feb 2012 - Marketo Docs - Product Documentation
 title: Release Notes -Jan/Feb 2012
+exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 ---
-
 # Release Notes: Jan/Feb 2012 {#release-notes-jan-feb}
 
 The following features are included in the Jan/Feb Release. Check your Marketo edition for feature availability. Come back after the release for links to detailed feature documentation.

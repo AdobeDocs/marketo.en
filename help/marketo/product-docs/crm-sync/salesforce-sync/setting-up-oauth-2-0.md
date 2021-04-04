@@ -1,8 +1,8 @@
 ---
 description: Setting up OAuth 2.0 - Marketo Docs - Product Documentation
 title: Setting up OAuth 2.0
+exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 ---
-
 # Setting up OAuth 2.0 {#setting-up-oauth-2-0}
 
 Salesforce uses the OAuth protocol to allow users of applications to securely access (authenticate the application using OAuth 2.0) data via REST API calls without having to reveal login credentials. Below are the steps to be performed to securely connect and sync Marketo with Salesforce.

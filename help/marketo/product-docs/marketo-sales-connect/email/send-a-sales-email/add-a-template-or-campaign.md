@@ -2,8 +2,8 @@
 unique-page-id: 14352589
 description: Add a Template or Campaign - Marketo Docs - Product Documentation
 title: Add a Template or Campaign
+exl-id: 75070305-7699-4b0f-bf77-c64bc9fdbcfa
 ---
-
 # Add a Template or Campaign {#add-a-template-or-campaign}
 
 In order to add a Template or Campaign to an email, open a new Compose window. Templates and Campaigns are on the right hand side. Click the **Categories** drop-down.

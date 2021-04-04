@@ -2,8 +2,8 @@
 unique-page-id: 2953459
 description: SFDC Sync -Account Sync - Marketo Docs - Product Documentation
 title: SFDC Sync -Account Sync
+exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 ---
-
 # SFDC Sync: Account Sync {#sfdc-sync-account-sync}
 
 Marketo also syncs your account information with Salesforce. Here's a few specific things you should know!

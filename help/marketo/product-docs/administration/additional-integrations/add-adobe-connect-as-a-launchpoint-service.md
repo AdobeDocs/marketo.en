@@ -2,8 +2,8 @@
 unique-page-id: 7512270
 description: Add Adobe Connect as a LaunchPoint Service - Marketo Docs - Product Documentation
 title: Add Adobe Connect as a LaunchPoint Service
+exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 ---
-
 # Add Adobe Connect as a LaunchPoint Service {#add-adobe-connect-as-a-launchpoint-service}
 
 Marketo manages your Adobe Connect webinar registration and attendance.

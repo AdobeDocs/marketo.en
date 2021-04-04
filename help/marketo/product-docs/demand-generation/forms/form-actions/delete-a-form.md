@@ -2,8 +2,8 @@
 unique-page-id: 2359637
 description: Delete a Form - Marketo Docs - Product Documentation
 title: Delete a Form
+exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 ---
-
 # Delete a Form {#delete-a-form}
 
 If you have a form that you don't need and is not being used, you can delete it. Here's how.

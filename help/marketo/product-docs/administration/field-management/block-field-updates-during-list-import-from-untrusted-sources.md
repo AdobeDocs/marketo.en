@@ -2,8 +2,8 @@
 unique-page-id: 2360335
 description: Block Field Updates During List Import from Untrusted Sources - Marketo Docs - Product Documentation
 title: Block Field Updates During List Import from Untrusted Sources
+exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 ---
-
 # Block Field Updates During List Import from Untrusted Sources {#block-field-updates-during-list-import-from-untrusted-sources}
 
 You can trust the data in some lists more than others. Sometimes you have questionable data and want to take it if the field is blank, but not if there is an existing value. You can accomplish this by blocking field updates on key fields.

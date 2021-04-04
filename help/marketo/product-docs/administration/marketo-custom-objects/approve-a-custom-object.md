@@ -2,8 +2,8 @@
 unique-page-id: 10094188
 description: Approve a Custom Object - Marketo Docs - Product Documentation
 title: Approve a Custom Object
+exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 ---
-
 # Approve a Custom Object {#approve-a-custom-object}
 
 You must approve a custom object before you can use it. The process is slightly different for new custom objects and ones that you've edited.

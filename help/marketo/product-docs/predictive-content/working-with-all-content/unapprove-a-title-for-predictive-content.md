@@ -2,8 +2,8 @@
 unique-page-id: 11384663
 description: Unapprove a Title for Predictive Content - Marketo Docs - Product Documentation
 title: Unapprove a Title for Predictive Content
+exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 ---
-
 # Unapprove a Title for Predictive Content {#unapprove-a-title-for-predictive-content}
 
 You can unapprove any title for predictive content on your All Content page or on the Edit Content pop-up.

@@ -2,8 +2,8 @@
 unique-page-id: 1146968
 description: View Smart Campaign Results - Marketo Docs - Product Documentation
 title: View Smart Campaign Results
+exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 ---
-
 # View Smart Campaign Results {#view-smart-campaign-results}
 
 Want to see a breakdown of everything that happened in a smart campaign? It's easy, here's how.

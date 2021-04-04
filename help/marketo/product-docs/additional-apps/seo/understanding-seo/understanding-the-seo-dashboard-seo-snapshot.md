@@ -2,8 +2,8 @@
 unique-page-id: 2949178
 description: Understanding the SEO Dashboard -SEO Snapshot - Marketo Docs - Product Documentation
 title: Understanding the SEO Dashboard -SEO Snapshot
+exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 ---
-
 # Understanding the SEO Dashboard: SEO Snapshot {#understanding-the-seo-dashboard-seo-snapshot}
 
 Use the dashboard to get a high-level view of how keyword rank is trending and how well your site is optimized for SEO.

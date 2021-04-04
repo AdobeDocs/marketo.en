@@ -2,8 +2,8 @@
 unique-page-id: 9438258
 description: Understanding the Summary Report - Marketo Docs - Product Documentation
 title: Understanding the Summary Report
+exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 ---
-
 # Understanding the Summary Report {#understanding-the-summary-report}
 
 The Summary report is a monthly view of all campaigns and recommended content performance. It is based on number of clicks and number of leads (direct or assisted) that engaged with the personalized campaign or recommended content and then became a known lead. The report compares the results to the previous month.

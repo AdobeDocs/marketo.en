@@ -2,8 +2,8 @@
 unique-page-id: 37357276
 description: Release Notes -June '20 - Marketo Docs - Product Documentation
 title: Release Notes -June '20
+exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 ---
-
 # Release Notes: June '20 {#release-notes-june}
 
 The following features are included in the June '20 release. Check your Marketo edition for feature availability.

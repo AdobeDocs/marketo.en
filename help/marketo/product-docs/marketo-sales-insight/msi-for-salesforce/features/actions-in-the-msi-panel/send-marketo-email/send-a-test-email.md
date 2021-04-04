@@ -1,8 +1,8 @@
 ---
 description: Send a Test Email - Marketo Docs - Product Documentation
 title: Send a Test Email
+exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
 ---
-
 # Send a Test Email {#send-a-test-email}
 
 Before sending an email, you can test the email format and tokens by sending a test email to yourself at any email address.

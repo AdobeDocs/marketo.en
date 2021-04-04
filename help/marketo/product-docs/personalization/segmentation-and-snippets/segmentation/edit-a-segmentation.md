@@ -2,8 +2,8 @@
 unique-page-id: 2359474
 description: Edit a Segmentation - Marketo Docs - Product Documentation
 title: Edit a Segmentation
+exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
 ---
-
 # Edit a Segmentation {#edit-a-segmentation}
 
 Making changes to your existing segmentations is easy. Here's the low down.

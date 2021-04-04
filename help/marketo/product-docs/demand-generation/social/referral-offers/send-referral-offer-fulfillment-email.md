@@ -2,8 +2,8 @@
 unique-page-id: 2359785
 description: Send Referral Offer Fulfillment Email - Marketo Docs - Product Documentation
 title: Send Referral Offer Fulfillment Email
+exl-id: ed5e3dbf-1e48-49c6-b859-01872d1305e2
 ---
-
 # Send Referral Offer Fulfillment Email {#send-referral-offer-fulfillment-email}
 
 Reward your customers with coupons and discount codes using the offer fulfillment email.

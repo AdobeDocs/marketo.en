@@ -2,8 +2,8 @@
 unique-page-id: 2953364
 description: Understand/Enable Program Focus - Marketo Docs - Product Documentation
 title: Understand/Enable Program Focus
+exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 ---
-
 # Understand/Enable Program Focus {#understand-enable-program-focus}
 
 The Marketing Calendar gives you a bird's-eye view of things, but it also allows some interactions. You can [create](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [edit](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [delete](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md), and [confirm](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) entries. In order to interact with entries, you must focus on a program first.

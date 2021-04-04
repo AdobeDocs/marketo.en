@@ -2,8 +2,8 @@
 unique-page-id: 4719283
 description: Understanding the Salesforce Sync - Marketo Docs - Product Documentation
 title: Understanding the Salesforce Sync
+exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 ---
-
 # Understanding the Salesforce Sync {#understanding-the-salesforce-sync}
 
 Marketo and Salesforce go together like peas and carrots. We keep your sales and marketing data in sync.

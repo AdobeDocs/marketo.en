@@ -2,8 +2,8 @@
 unique-page-id: 557331
 description: Find All People in a Revenue Stage - Marketo Docs - Product Documentation
 title: Find All People in a Revenue Stage
+exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 ---
-
 # Find All People in a Revenue Stage {#find-all-people-in-a-revenue-stage}
 
 >[!PREREQUISITES]

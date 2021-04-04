@@ -2,8 +2,8 @@
 unique-page-id: 10097163
 description: Enabling or Disabling the RTP JavaScript Tag - Marketo Docs - Product Documentation
 title: Enabling or Disabling the RTP JavaScript Tag
+exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 ---
-
 # Enabling or Disabling the RTP JavaScript Tag {#enabling-or-disabling-the-rtp-javascript-tag}
 
 The RTP JavaScript tag controls whether or not Web Personalization tracks web activity or runs campaigns or content recommendations on your website.

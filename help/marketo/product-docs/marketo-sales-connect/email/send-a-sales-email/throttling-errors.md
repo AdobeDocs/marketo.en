@@ -2,8 +2,8 @@
 unique-page-id: 14352581
 description: Throttling Errors - Marketo Docs - Product Documentation
 title: Throttling Errors
+exl-id: d0abb42a-731f-401c-bf2b-590493cfae80
 ---
-
 # Throttling Errors {#throttling-errors}
 
 ## File Limit Reached {#file-limit-reached}

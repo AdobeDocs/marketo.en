@@ -2,8 +2,8 @@
 unique-page-id: 2359614
 description: Define Values in a Radio or Selected Field in a Form - Marketo Docs - Product Documentation
 title: Define Values in a Radio or Selected Field in a Form
+exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 ---
-
 # Define Values in a Radio or Selected Field in a Form {#define-values-in-a-radio-or-selected-field-in-a-form}
 
 Once you've [set a field type](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) to be a radio button or select type, you'll want to define the values the user can pick from. Here's how.

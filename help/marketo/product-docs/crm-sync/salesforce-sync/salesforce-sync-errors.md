@@ -1,8 +1,8 @@
 ---
 description: Salesforce Sync Errors - Marketo Docs - Product Documentation
 title: Salesforce Sync Errors
+exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 ---
-
 # Salesforce Sync Errors {#salesforce-sync-errors}
 
 View a summary of the errors faced during the sync process. This includes errors caused by failures to sync incompatible data.

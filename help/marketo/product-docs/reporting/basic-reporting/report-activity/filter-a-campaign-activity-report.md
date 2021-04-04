@@ -2,8 +2,8 @@
 unique-page-id: 2360184
 description: Filter a Campaign Activity Report - Marketo Docs - Product Documentation
 title: Filter a Campaign Activity Report
+exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 ---
-
 # Filter a Campaign Activity Report {#filter-a-campaign-activity-report}
 
 Focus your [Campaign Activity Report](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)on specific [smart campaigns](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).

@@ -2,8 +2,8 @@
 unique-page-id: 10099360
 description: Prepare for Your Event - Marketo Docs - Product Documentation
 title: Prepare for Your Event
+exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 ---
-
 # Prepare for Your Event {#prepare-for-your-event}
 
 There are several things you have to do to get ready for the event.

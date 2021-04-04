@@ -2,8 +2,8 @@
 unique-page-id: 7503971
 description: Create a Presentation - Marketo Docs - Product Documentation
 title: Create a Presentation
+exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 ---
-
 # Create a Presentation {#create-a-presentation}
 
 Create a presentation to project your team's calendar views and goals on an HDTV. Presentations are Workspace-specific.

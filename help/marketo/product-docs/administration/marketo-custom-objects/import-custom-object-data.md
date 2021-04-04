@@ -2,8 +2,8 @@
 unique-page-id: 10099680
 description: Import Custom Object Data - Marketo Docs - Product Documentation
 title: Import Custom Object Data
+exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 ---
-
 # Import Custom Object Data {#import-custom-object-data}
 
 It's easy to import custom object data into your database. If you're using custom objects with companies, see [Using Custom Objects with Companies](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) for more information.

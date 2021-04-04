@@ -2,8 +2,8 @@
 unique-page-id: 27656786
 description: Release Notes -August '19 - Marketo Docs - Product Documentation
 title: Release Notes -August '19
+exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 ---
-
 # Release Notes: August '19 {#release-notes-august}
 
 The following features are included in the August '19 release. Check your Marketo edition for feature availability.

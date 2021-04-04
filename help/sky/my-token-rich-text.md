@@ -1,8 +1,8 @@
 ---
 title: my-token-rich-text
 description: My Token Rich Text
+exl-id: eaf26cd0-6774-4a13-b5c6-1e501fa8154a
 ---
-
 # My Token: Rich Text
 
 <br>&nbsp;

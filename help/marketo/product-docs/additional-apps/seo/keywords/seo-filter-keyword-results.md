@@ -2,8 +2,8 @@
 unique-page-id: 2949208
 description: SEO - Filter Keyword Results - Marketo Docs - Product Documentation
 title: SEO - Filter Keyword Results
+exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
 ---
-
 # SEO - Filter Keyword Results {#seo-filter-keyword-results}
 
 You might have a lot of [keywords](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). Here are different ways to filter them:

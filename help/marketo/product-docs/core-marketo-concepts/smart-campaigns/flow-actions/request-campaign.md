@@ -2,8 +2,8 @@
 unique-page-id: 2951703
 description: Request Campaign - Marketo Docs - Product Documentation
 title: Request Campaign
+exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 ---
-
 # Request Campaign {#request-campaign}
 
 You can place people into a specific campaign by using the **Request Campaign** single flow step.

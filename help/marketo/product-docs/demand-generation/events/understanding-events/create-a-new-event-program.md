@@ -2,8 +2,8 @@
 unique-page-id: 2949844
 description: Create a New Event Program - Marketo Docs - Product Documentation
 title: Create a New Event Program
+exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 ---
-
 # Create a New Event Program {#create-a-new-event-program}
 
 Events allow you to automate online and offline events! Capture the status of your people as they progress through different stages and get accurate measures of the ROI for your marketing initiatives.

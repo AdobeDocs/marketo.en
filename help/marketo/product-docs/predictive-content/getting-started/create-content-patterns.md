@@ -2,8 +2,8 @@
 unique-page-id: 11385579
 description: Create Content Patterns - Marketo Docs - Product Documentation
 title: Create Content Patterns
+exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 ---
-
 # Create Content Patterns {#create-content-patterns}
 
 When you set content patterns, content is auto-discovered when a web visitor clicks on the HTML web page relevant to the content pattern. It's used to add HTML pages (blog posts, press releases, news articles) as content pieces to the All Content page. When auto-discovering is based on content patterns, it discovers and tracks HTML pages that are related to the defined URL pattern when a web visitor views or clicks a link to the page. This content piece (the URL, page name and meta data-including the image URL and description) is added to the All Content page to prepare predictive content. For auto-discovering other content, such as PDFs and embedded video, you need to [enable content discovery](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).

@@ -2,8 +2,8 @@
 unique-page-id: 14352541
 description: Syncing Sales Connect Tasks with Salesforce for the First Time - Marketo Docs - Product Documentation
 title: Syncing Sales Connect Tasks with Salesforce for the First Time
+exl-id: 42ac6b4f-76ac-40d7-9e10-7e0d3886a638
 ---
-
 # Syncing Sales Connect Tasks with Salesforce for the First Time {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
 When you first turn on the sync between Sales Connect and Salesforce tasks, we import your Salesforce tasks. We will **not** push over any current tasks you have in Sales Connect to Salesforce. To reduce clutter and duplicates, the only tasks that get synced from Sales Connect into Salesforce are tasks created *after* you sync Sales Connect with SFDC.

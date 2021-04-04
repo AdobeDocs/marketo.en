@@ -2,8 +2,8 @@
 unique-page-id: 2951114
 description: Release Notes -June 2012 - Marketo Docs - Product Documentation
 title: Release Notes -June 2012
+exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 ---
-
 # Release Notes: June 2012 {#release-notes-june}
 
 ## Marketo Lead Management Enhancements {#marketo-lead-management-enhancements}

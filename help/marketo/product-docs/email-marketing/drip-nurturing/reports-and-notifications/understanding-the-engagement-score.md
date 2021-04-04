@@ -2,8 +2,8 @@
 unique-page-id: 2359890
 description: Understanding the Engagement Score - Marketo Docs - Product Documentation
 title: Understanding the Engagement Score
+exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 ---
-
 # Understanding the Engagement Score {#understanding-the-engagement-score}
 
 The engagement score makes it easy to see how effective the content in your engagement program is. The score ranges from 0 to 100. Check out [the Engagement Dashboard](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md) to see how you can track your content's performance.

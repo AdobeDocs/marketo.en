@@ -2,8 +2,8 @@
 unique-page-id: 1147089
 description: Understanding Programs - Marketo Docs - Product Documentation
 title: Understanding Programs
+exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 ---
-
 # Understanding Programs {#understanding-programs}
 
 Programs represent a single marketing initiative. You can think of it as a container with all the stuff that you need to make the program work - these are called local assets and include **landing pages**, **email**, **smart campaigns**, and more. Programs do a lot, but it's easy to get started.

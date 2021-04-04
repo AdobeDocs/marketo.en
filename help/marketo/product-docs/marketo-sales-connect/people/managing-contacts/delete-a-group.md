@@ -2,8 +2,8 @@
 unique-page-id: 14352513
 description: Delete a Group - Marketo Docs - Product Documentation
 title: Delete a Group
+exl-id: 370454c3-3c3d-4c5d-a2fc-800bf1cb228a
 ---
-
 # Delete a Group {#delete-a-group}
 
 1. Go into the group you want to delete and click **Actions**.

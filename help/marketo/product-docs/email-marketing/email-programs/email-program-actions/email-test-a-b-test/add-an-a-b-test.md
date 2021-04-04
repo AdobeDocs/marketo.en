@@ -2,8 +2,8 @@
 unique-page-id: 2359491
 description: Add an A/B Test - Marketo Docs - Product Documentation
 title: Add an A/B Test
+exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 ---
-
 # Add an A/B Test {#add-an-a-b-test}
 
 >[!PREREQUISITES]

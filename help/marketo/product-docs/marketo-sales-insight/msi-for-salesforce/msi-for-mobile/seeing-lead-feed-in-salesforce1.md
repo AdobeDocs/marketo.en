@@ -2,8 +2,8 @@
 unique-page-id: 7512654
 description: Seeing Lead Feed in Salesforce1 - Marketo Docs - Product Documentation
 title: Seeing Lead Feed in Salesforce1
+exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 ---
-
 # Seeing Lead Feed in Salesforce1 {#seeing-lead-feed-in-salesforce}
 
 The Lead Feed is an up-to-the-minute list of interesting events done by your leads.

@@ -2,8 +2,8 @@
 unique-page-id: 14352410
 description: Add Your Email Signature - Marketo Docs - Product Documentation
 title: Add Your Email Signature
+exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
 ---
-
 # Add Your Email Signature {#add-your-email-signature}
 
 We want emailing from Sales Connect to feel like a seamless experience when sending from your own email client. A great way to do this is to add your email signature.

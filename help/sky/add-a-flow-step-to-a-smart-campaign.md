@@ -1,8 +1,8 @@
 ---
 title: add-a-flow-step-to-a-smart-campaign
 description: Add a Flow Step to a Smart Campaign
+exl-id: 4f8fbe72-0471-41e1-9ef6-156a21fadb6e
 ---
-
 # Add a Flow Step to a Smart Campaign
 
 Flow steps tell Marketo what you want to have happen to a group of people that qualify.

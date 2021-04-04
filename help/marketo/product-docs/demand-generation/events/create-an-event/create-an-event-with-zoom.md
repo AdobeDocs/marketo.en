@@ -2,8 +2,8 @@
 unique-page-id: 17728023
 description: Create an Event with Zoom - Marketo Docs - Product Documentation
 title: Create an Event with Zoom
+exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 ---
-
 # Create an Event with Zoom {#create-an-event-with-zoom}
 
 >[!PREREQUISITES]

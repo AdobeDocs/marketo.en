@@ -2,8 +2,8 @@
 unique-page-id: 7514918
 description: Understanding Unsubscribe - Marketo Docs - Product Documentation
 title: Understanding Unsubscribe
+exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 ---
-
 # Understanding Unsubscribe {#understanding-unsubscribe}
 
 There are actually several different types of built-in unsubscribes in Marketo. They're all represented by fields on the person object, just like First Name.

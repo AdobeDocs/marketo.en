@@ -2,8 +2,8 @@
 unique-page-id: 1147114
 description: Understanding My Tokens in a Program - Marketo Docs - Product Documentation
 title: Understanding My Tokens in a Program
+exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 ---
-
 # Understanding My Tokens in a Program {#understanding-my-tokens-in-a-program}
 
 A token is a variable that you can use in emails, landing pages, and smart campaigns to make your life easier.

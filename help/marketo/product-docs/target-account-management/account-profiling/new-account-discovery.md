@@ -2,8 +2,8 @@
 unique-page-id: 37355609
 description: New Account Discovery - Marketo Docs - Product Documentation
 title: New Account Discovery
+exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 ---
-
 # New Account Discovery {#new-account-discovery}
 
 New Account Discovery can help you find new accounts to target by using AI-powered recommendations from your ideal customer profile.

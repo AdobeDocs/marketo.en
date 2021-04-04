@@ -1,8 +1,8 @@
 ---
 description: Salesforce Sync Status - Marketo Docs - Product Documentation
 title: Salesforce Sync Status
+exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 ---
-
 # Salesforce Sync Status {#salesforce-sync-status}
 
 Use the Sync Status Dashboard to view sync stats as part of the sync steps and its success status.

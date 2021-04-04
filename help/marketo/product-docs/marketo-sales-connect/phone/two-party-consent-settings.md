@@ -2,8 +2,8 @@
 unique-page-id: 45416566
 description: Two-Party Consent Settings - Marketo Docs - Product Documentation
 title: Two-Party Consent Settings
+exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 ---
-
 # Two-Party Consent Settings {#two-party-consent-settings}
 
 In order to ensure compliance with U.S. two-party consent laws when recording calls, as an Admin you can enable a prerecorded message of your choice to play at the beginning of your calls when it's being recorded.

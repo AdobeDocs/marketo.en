@@ -2,8 +2,8 @@
 unique-page-id: 2953348
 description: Create Entries Directly in the Marketing Calendar - Marketo Docs - Product Documentation
 title: Create Entries Directly in the Marketing Calendar
+exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 ---
-
 # Create Entries Directly in the Marketing Calendar {#create-entries-directly-in-the-marketing-calendar}
 
 Marketo allows you to create entries directly in your Marketing Calendar by using the program focus mode. You can create the following entry types:

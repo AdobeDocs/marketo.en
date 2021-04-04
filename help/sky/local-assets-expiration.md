@@ -1,8 +1,8 @@
 ---
 title: local-assets-expiration
 description: Local Assets Expiration
+exl-id: 9a115a96-9cb6-4cd7-ab33-b737d27bc439
 ---
-
 # Local Assets: Expiration
 
 <br>&nbsp;

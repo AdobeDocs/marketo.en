@@ -2,8 +2,8 @@
 unique-page-id: 37355826
 description: Release Notes -Feb '20 - Marketo Docs - Product Documentation
 title: Release Notes -Feb '20
+exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 ---
-
 # Release Notes: Feb '20 {#release-notes-feb}
 
 The following features are included in the Feb '20 release. Check your Marketo edition for feature availability.

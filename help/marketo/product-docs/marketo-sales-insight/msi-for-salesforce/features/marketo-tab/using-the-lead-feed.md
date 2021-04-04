@@ -2,8 +2,8 @@
 unique-page-id: 7512979
 description: Using the Lead Feed - Marketo Docs - Product Documentation
 title: Using the Lead Feed
+exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 ---
-
 # Using the Lead Feed {#using-the-lead-feed}
 
 The Lead Feed is an up-to-the-minute list of interesting events done by your leads. You'll find it on the right-hand side when you click the Marketo tab. It's like an RSS or Twitter feed - the most recent updates are at the top of the list. Use this to jump on leads while you're still fresh in their minds.

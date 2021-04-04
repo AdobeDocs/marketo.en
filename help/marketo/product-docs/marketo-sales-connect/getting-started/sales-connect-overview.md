@@ -2,8 +2,8 @@
 unique-page-id: 13796464
 description: Sales Connect Overview - Marketo Docs - Product Documentation
 title: Sales Connect Overview
+exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 ---
-
 # Sales Connect Overview {#sales-connect-overview}
 
 Marketo Sales Connect is a multi-faceted sales support solution with a variety of functions, helping you drive engagement throughout the sales cycle.

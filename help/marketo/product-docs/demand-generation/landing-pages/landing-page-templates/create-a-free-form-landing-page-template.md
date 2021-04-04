@@ -2,8 +2,8 @@
 unique-page-id: 10097969
 description: Create a Free-form Landing Page Template - Marketo Docs - Product Documentation
 title: Create a Free-form Landing Page Template
+exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 ---
-
 # Create a Free-form Landing Page Template {#create-a-free-form-landing-page-template}
 
 Free-form landing pages require less technical knowledge than their guided counterparts. To create a template for future landing pages, follow the steps below.

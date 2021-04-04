@@ -2,8 +2,8 @@
 unique-page-id: 10099411
 description: Email Insights Analytics Overview - Marketo Docs - Product Documentation
 title: Email Insights Analytics Overview
+exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 ---
-
 # Email Insights Analytics Overview {#email-insights-analytics-overview}
 
 In Analytics, explore aggregate data for email delivery and engagement. Use the chart on the left to explore data, the insights on the right for a more guided experience.

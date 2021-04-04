@@ -2,8 +2,8 @@
 unique-page-id: 7511815
 description: Release Notes -April 2015 - Marketo Docs - Product Documentation
 title: Release Notes -April 2015
+exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 ---
-
 # Release Notes: April 2015 {#release-notes-april}
 
 The following features are included in the April 2015 release. Please check your Marketo Edition for feature availability. After the release, be sure to come back to find links to detailed articles for each feature!

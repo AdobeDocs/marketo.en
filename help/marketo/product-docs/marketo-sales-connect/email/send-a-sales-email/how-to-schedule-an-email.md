@@ -2,8 +2,8 @@
 unique-page-id: 14352529
 description: How to Schedule an Email - Marketo Docs - Product Documentation
 title: How to Schedule an Email
+exl-id: 040e9520-c424-4779-94e8-5ce11c242dc6
 ---
-
 # How to Schedule an Email {#how-to-schedule-an-email}
 
 ## Schedule an Email {#schedule-an-email}

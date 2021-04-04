@@ -1,8 +1,8 @@
 ---
 title: marketo-image-editor
 description: Marketo Image Editor
+exl-id: 9e1beffc-c89a-4673-a349-2311a7b90706
 ---
-
 # Marketo Image Editor
 
 <br>&nbsp;

@@ -2,8 +2,8 @@
 unique-page-id: 1147093
 description: Understanding Local Assets in a Program - Marketo Docs - Product Documentation
 title: Understanding Local Assets in a Program
+exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 ---
-
 # Understanding Local Assets in a Program {#understanding-local-assets-in-a-program}
 
 Local assets are the content that make up your program. Assets are customizable and enable you to build automated marketing initiatives. Here's a look at most of the local assets you can create in a program:

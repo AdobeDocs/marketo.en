@@ -1,8 +1,8 @@
 ---
 title: marketo-sky-features
 description: Marketo Sky Features
+exl-id: 6e210eab-a96d-4f1e-918b-db8c095f906c
 ---
-
 # Marketo Sky Features
 
 Below you'll find what's available in [!DNL Marketo Sky].

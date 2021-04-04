@@ -2,8 +2,8 @@
 unique-page-id: 2359500
 description: Segmentation Order Priority - Marketo Docs - Product Documentation
 title: Segmentation Order Priority
+exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 ---
-
 # Segmentation Order Priority {#segmentation-order-priority}
 
 It is important to understand how **order** sets the priority for evaluation of your people in a segmentation.

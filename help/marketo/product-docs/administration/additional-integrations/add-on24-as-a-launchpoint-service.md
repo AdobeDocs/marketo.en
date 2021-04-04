@@ -2,8 +2,8 @@
 unique-page-id: 7512276
 description: Add ON24 as a LaunchPoint Service - Marketo Docs - Product Documentation
 title: Add ON24 as a LaunchPoint Service
+exl-id: 562d6091-8a24-4625-b728-ada52d869f0c
 ---
-
 # Add ON24 as a LaunchPoint Service {#add-on-as-a-launchpoint-service}
 
 Marketo manages your ON24 webinar registration and attendance.

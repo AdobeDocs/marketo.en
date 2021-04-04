@@ -2,8 +2,8 @@
 unique-page-id: 11378871
 description: Use Vibes SMS Messages in Smart List Triggers and Filters - Marketo Docs - Product Documentation
 title: Use Vibes SMS Messages in Smart List Triggers and Filters
+exl-id: 9a629a39-fddc-4ec5-b1c5-d5053d676594
 ---
-
 # Use Vibes SMS Messages in Smart List Triggers and Filters {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
 After you [create a Vibes SMS message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md), you'll want to use smart list triggers and filters within a smart campaign to get the benefits. Here's how.

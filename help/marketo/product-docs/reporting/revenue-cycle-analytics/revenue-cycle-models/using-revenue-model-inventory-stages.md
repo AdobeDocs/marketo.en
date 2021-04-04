@@ -2,8 +2,8 @@
 unique-page-id: 4718666
 description: Using Revenue Model Inventory Stages - Marketo Docs - Product Documentation
 title: Using Revenue Model Inventory Stages
+exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 ---
-
 # Using Revenue Model Inventory Stages {#using-revenue-model-inventory-stages}
 
 All known leads and accounts initially reside in the Inventory Stage. This prospect pool is where leads are nurtured until sales-ready. There is no time limit on an inventory stage.

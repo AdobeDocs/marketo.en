@@ -2,8 +2,8 @@
 unique-page-id: 8783561
 description: Sending a Sample - Marketo Docs - Product Documentation
 title: Sending a Sample
+exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 ---
-
 # Sending a Sample {#sending-a-sample}
 
 You can share a sample of an email moment directly with someone. There are two ways to do it.

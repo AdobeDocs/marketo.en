@@ -2,8 +2,8 @@
 unique-page-id: 2359667
 description: Apply Input Masking to a Field in a Form - Marketo Docs - Product Documentation
 title: Apply Input Masking to a Field in a Form
+exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 ---
-
 # Apply Input Masking to a Field in a Form {#apply-input-masking-to-a-field-in-a-form}
 
 You can restrict input from your visitor using an input mask. For example, you may want visitors to enter phone numbers only in a specific format.

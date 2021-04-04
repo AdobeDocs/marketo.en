@@ -2,8 +2,8 @@
 unique-page-id: 11377640
 description: Authorize the Marketo Outlook Plugin - Marketo Docs - Product Documentation
 title: Authorize the Marketo Outlook Plugin
+exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 ---
-
 # Authorize the Marketo Outlook Plugin {#authorize-the-marketo-outlook-plugin}
 
 To use the Marketo MSI plugin in Outlook, you need to authorize it.

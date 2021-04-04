@@ -1,8 +1,8 @@
 ---
 description: Email Tab - Marketo Docs - Product Documentation
 title: Email Tab
+exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 ---
-
 # Email Tab {#email-tab}
 
 The email tab shows you a list of all the emails sent to a contact or lead. It includes the following columns:

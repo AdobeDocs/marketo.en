@@ -1,8 +1,8 @@
 ---
 title: activate-deactivate-a-trigger-smart-campaign
 description: Activate/Deactivate a Trigger Smart Campaign
+exl-id: 5579aad6-42bf-41e2-8baa-a14da14702da
 ---
-
 # Activate/Deactivate a Trigger Smart Campaign
 
 Activating/deactivating a trigger smart campaign is basically turning it on or off.

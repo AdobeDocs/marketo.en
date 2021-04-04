@@ -2,8 +2,8 @@
 unique-page-id: 2359793
 description: Use Emails in Social Promotions - Marketo Docs - Product Documentation
 title: Use Emails in Social Promotions
+exl-id: 633ad86e-d085-420f-8e28-9b722e345852
 ---
-
 # Use Emails in Social Promotions {#use-emails-in-social-promotions}
 
 When you create a [referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) or a [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), you can include emails to send when the person signs up, and again when the person has won the reward.

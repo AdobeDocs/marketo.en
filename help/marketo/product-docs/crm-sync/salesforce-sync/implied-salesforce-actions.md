@@ -2,8 +2,8 @@
 unique-page-id: 4719304
 description: Implied Salesforce Actions - Marketo Docs - Product Documentation
 title: Implied Salesforce Actions
+exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 ---
-
 # Implied Salesforce Actions {#implied-salesforce-actions}
 
 When a Salesforce-specific flow step runs, sometimes extra steps are performed automatically. Here are the rules, so you know:

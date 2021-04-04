@@ -2,8 +2,8 @@
 unique-page-id: 1147118
 description: Using Period Costs in a Program - Marketo Docs - Product Documentation
 title: Using Period Costs in a Program
+exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 ---
-
 # Using Period Costs in a Program {#using-period-costs-in-a-program}
 
 A [period cost](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md) is the amount you spend on a program. It can be for one or more months and is used for reporting ROI.

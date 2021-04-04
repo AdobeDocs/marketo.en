@@ -2,8 +2,8 @@
 unique-page-id: 2359736
 description: Add a Link to a Free-Form Landing Page Image - Marketo Docs - Product Documentation
 title: Add a Link to a Free-Form Landing Page Image
+exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 ---
-
 # Add a Link to a Free-Form Landing Page Image {#add-a-link-to-a-free-form-landing-page-image}
 
 >[!PREREQUISITES]

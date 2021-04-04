@@ -2,8 +2,8 @@
 unique-page-id: 7516002
 description: Template 1-D - Marketo Docs - Product Documentation
 title: Template 1-D
+exl-id: ae46a81e-fd40-459c-937e-cdc58add7838
 ---
-
 # Template 1-D {#template-d}
 
 [Download Template 1-D](https://docs.marketo.com/download/attachments/7516002/Template1-D.html?version=1&modificationDate=1432838102000&api=v2)

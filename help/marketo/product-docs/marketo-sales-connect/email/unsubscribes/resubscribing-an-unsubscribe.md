@@ -2,8 +2,8 @@
 unique-page-id: 14746177
 description: Resubscribing an Unsubscribe - Marketo Docs - Product Documentation
 title: Resubscribing an Unsubscribe
+exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 ---
-
 # Resubscribing an Unsubscribe {#resubscribing-an-unsubscribe}
 
 Sometimes people want to opt back into receiving emails. Here's how to make unsubscribes mailable again.

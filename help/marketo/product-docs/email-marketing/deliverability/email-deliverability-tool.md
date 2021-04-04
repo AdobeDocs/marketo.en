@@ -2,8 +2,8 @@
 unique-page-id: 6848986
 description: Email Deliverability Tool - Marketo Docs - Product Documentation
 title: Email Deliverability Tool
+exl-id: 18b7d772-abd2-40f0-8485-69fb0d75cb3c
 ---
-
 # Email Deliverability Tool {#email-deliverability-tool}
 
 Marketo’s Email Deliverability Tool provides a single application to evaluate an email's deliverability before you send it.

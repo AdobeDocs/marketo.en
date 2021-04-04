@@ -2,8 +2,8 @@
 unique-page-id: 10093159
 description: Understanding Content Analytics - Marketo Docs - Product Documentation
 title: Understanding Content Analytics
+exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 ---
-
 # Understanding Content Analytics {#understanding-content-analytics}
 
 The Content Analytics page displays your discovered existing content (case studies, blog posts, videos, press releases, and so on) from your website. It also displays the performance of your content and people generated when visitors engage with them.

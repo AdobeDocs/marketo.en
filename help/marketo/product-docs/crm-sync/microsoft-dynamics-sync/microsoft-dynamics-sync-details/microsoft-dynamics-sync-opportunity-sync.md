@@ -2,8 +2,8 @@
 unique-page-id: 3571844
 description: Microsoft Dynamics Sync -Opportunity Sync - Marketo Docs - Product Documentation
 title: Microsoft Dynamics Sync -Opportunity Sync
+exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 ---
-
 # Microsoft Dynamics Sync: Opportunity Sync {#microsoft-dynamics-sync-opportunity-sync}
 
 Marketo to Dynamics sync is super powerful. Here are all the details for opportunity sync:
@@ -19,4 +19,3 @@ No, you must create the opportunity in Dynamics and it will automatically sync t
 ## What fields will sync to Marketo? {#what-fields-will-sync-to-marketo}
 
 You can [select fields to sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) during setup.
-

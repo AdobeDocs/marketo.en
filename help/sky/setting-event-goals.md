@@ -1,8 +1,8 @@
 ---
 title: setting-event-goals
 description: How to Set up Event Goals
+exl-id: ab0a32ff-8bec-4309-890a-18a69d0902d6
 ---
-
 # Setting Event Goals
 
 <br>&nbsp;

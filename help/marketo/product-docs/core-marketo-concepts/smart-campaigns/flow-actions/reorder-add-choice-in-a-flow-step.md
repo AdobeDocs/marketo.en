@@ -2,8 +2,8 @@
 unique-page-id: 557333
 description: Reorder Add Choice in a Flow Step - Marketo Docs - Product Documentation
 title: Reorder Add Choice in a Flow Step
+exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 ---
-
 # Reorder Add Choice in a Flow Step {#reorder-add-choice-in-a-flow-step}
 
 Since only the first matching choice applies to a person, order matters. If you want to change the order of the conditions set in a flow step, here's how.

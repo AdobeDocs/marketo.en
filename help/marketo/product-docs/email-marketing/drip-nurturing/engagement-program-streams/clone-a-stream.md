@@ -2,8 +2,8 @@
 unique-page-id: 2359789
 description: Clone a Stream - Marketo Docs - Product Documentation
 title: Clone a Stream
+exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 ---
-
 # Clone a Stream {#clone-a-stream}
 
 Clone a stream for various reasons, including testing different orders and different cadences.

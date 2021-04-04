@@ -2,8 +2,8 @@
 unique-page-id: 2359877
 description: Disable and Enable Exhausted Content Notifications - Marketo Docs - Product Documentation
 title: Disable and Enable Exhausted Content Notifications
+exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 ---
-
 # Disable and Enable Exhausted Content Notifications {#disable-and-enable-exhausted-content-notifications}
 
 When people exhaust all content in a stream, Marketo can send you a notification. You can disable/enable the notifications based on your needs. Here's how.

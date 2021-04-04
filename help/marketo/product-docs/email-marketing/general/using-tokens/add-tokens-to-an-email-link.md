@@ -2,8 +2,8 @@
 unique-page-id: 1147360
 description: Add Tokens to an Email Link - Marketo Docs - Product Documentation
 title: Add Tokens to an Email Link
+exl-id: b04d279a-b71a-4975-9992-23a51d075856
 ---
-
 # Add Tokens to an Email Link {#add-tokens-to-an-email-link}
 
 To insert extra and person-specific parameters into your links, you can use tokens. Here's how.

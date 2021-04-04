@@ -2,8 +2,8 @@
 unique-page-id: 1147255
 description: Issue/Revoke a Marketing Calendar License - Marketo Docs - Product Documentation
 title: Issue/Revoke a Marketing Calendar License
+exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 ---
-
 # Issue/Revoke a Marketing Calendar License {#issue-revoke-a-marketing-calendar-license}
 
 >[!NOTE]

@@ -2,8 +2,8 @@
 unique-page-id: 7515993
 description: Template 1-C - Marketo Docs - Product Documentation
 title: Template 1-C
+exl-id: 1a4e0a7a-6bf4-4688-be0b-91aa07f900df
 ---
-
 # Template 1-C {#template-c}
 
 [Download Template 1-C](https://docs.marketo.com/download/attachments/7515993/Template1-C.html?version=1&modificationDate=1432836776000&api=v2)

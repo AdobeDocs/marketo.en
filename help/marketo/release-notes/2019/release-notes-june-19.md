@@ -2,8 +2,8 @@
 unique-page-id: 18874822
 description: Release Notes -June '19 - Marketo Docs - Product Documentation
 title: Release Notes -June '19
+exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 ---
-
 # Release Notes: June '19 {#release-notes-june}
 
 The following features are included in the June '19 release. Check your Marketo edition for feature availability.

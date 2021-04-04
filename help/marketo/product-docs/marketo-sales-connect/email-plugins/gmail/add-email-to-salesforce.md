@@ -2,8 +2,8 @@
 unique-page-id: 14352483
 description: Add Email to Salesforce - Marketo Docs - Product Documentation
 title: Add Email to Salesforce
+exl-id: bb2e964d-e5f8-495f-969b-9f75822a6211
 ---
-
 # Add Email to Salesforce {#add-email-to-salesforce}
 
 Add Email to Salesforce allows you to push any emails you receive in Outlook or Gmail to your Salesforce account. We do the look up based on the sender of the email, so we can currently only use this button for emails you received, not emails you sent.

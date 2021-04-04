@@ -2,8 +2,8 @@
 unique-page-id: 14352639
 description: Create a New Template - Marketo Docs - Product Documentation
 title: Create a New Template
+exl-id: 9f597aa6-587d-4b23-a6ab-958f17caeecb
 ---
-
 # Create a New Template {#create-a-new-template}
 
 1. Navigate to the **Templates** tab and click **Create Template**.

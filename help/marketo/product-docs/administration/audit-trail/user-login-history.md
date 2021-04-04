@@ -2,8 +2,8 @@
 unique-page-id: 11377958
 description: User Login History - Marketo Docs - Product Documentation
 title: User Login History
+exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 ---
-
 # User Login History {#user-login-history}
 
 The User Login History helps maintain accountability and security by showing you exactly who's been logging into your subscription, including failed login attempts.

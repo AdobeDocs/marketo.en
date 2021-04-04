@@ -2,8 +2,8 @@
 unique-page-id: 11377945
 description: Audit Trail Overview - Marketo Docs - Product Documentation
 title: Audit Trail Overview
+exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 ---
-
 # Audit Trail Overview {#audit-trail-overview}
 
 Audit Trail gives you the ability to obtain a complete history (six months' worth) of changes made within your Marketo instance.

@@ -2,8 +2,8 @@
 unique-page-id: 1147102
 description: Creating an Entry in the Program Schedule View - Marketo Docs - Product Documentation
 title: Creating an Entry in the Program Schedule View
+exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 ---
-
 # Creating an Entry in the Program Schedule View {#creating-an-entry-in-the-program-schedule-view}
 
 You can create entries from within the program schedule view to supplement an existing program.

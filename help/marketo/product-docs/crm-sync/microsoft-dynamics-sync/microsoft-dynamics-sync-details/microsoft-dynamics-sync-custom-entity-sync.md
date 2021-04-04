@@ -2,8 +2,8 @@
 unique-page-id: 3571846
 description: Microsoft Dynamics Sync -Custom Entity Sync - Marketo Docs - Product Documentation
 title: Microsoft Dynamics Sync -Custom Entity Sync
+exl-id: 1e175bd4-509f-4c1f-a41d-456629e4a8fb
 ---
-
 # Microsoft Dynamics Sync: Custom Entity Sync {#microsoft-dynamics-sync-custom-entity-sync}
 
 If you need to enable the initial custom entity sync to make data from Dynamics available in Marketo, here's how to do it.

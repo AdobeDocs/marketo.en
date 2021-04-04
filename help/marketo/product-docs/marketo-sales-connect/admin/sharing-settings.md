@@ -2,8 +2,8 @@
 unique-page-id: 14746143
 description: Sharing Settings - Marketo Docs - Product Documentation
 title: Sharing Settings
+exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 ---
-
 # Sharing Settings {#sharing-settings}
 
 Better manage your templates by restricting what users can share and with which categories.

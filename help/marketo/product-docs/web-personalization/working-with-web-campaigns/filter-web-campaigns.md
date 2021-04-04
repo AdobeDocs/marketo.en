@@ -2,8 +2,8 @@
 unique-page-id: 10098884
 description: Filter Web Campaigns - Marketo Docs - Product Documentation
 title: Filter Web Campaigns
+exl-id: 07237fff-02d7-4974-9651-09a328d27365
 ---
-
 # Filter Web Campaigns {#filter-web-campaigns}
 
 After you've created hundreds of Web Personalization campaigns, it really helps to be able to use filters to view only the ones you're interested in.

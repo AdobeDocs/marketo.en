@@ -2,8 +2,8 @@
 unique-page-id: 14352523
 description: Sending File Attachments in Your Email - Marketo Docs - Product Documentation
 title: Sending File Attachments in Your Email
+exl-id: 6115b692-169b-457c-af58-437651bc48cc
 ---
-
 # Sending File Attachments in Your Email {#sending-file-attachments-in-your-email}
 
 Sending an attachment is a great way to keep your email short and let your marketing team do the talking. However, sending an email with a large file could prevent your recipient from it.

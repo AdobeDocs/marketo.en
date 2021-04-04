@@ -2,8 +2,8 @@
 unique-page-id: 37357306
 description: Using Quick Actions to Speed Up Your Workflow - Marketo Docs - Product Documentation
 title: Using Quick Actions to Speed Up Your Workflow
+exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 ---
-
 # Using Quick Actions to Speed Up Your Workflow {#using-quick-actions-to-speed-up-your-workflow}
 
 There are two types of quick action columns that exist in the email grid. Email Actions, which allows you to take action on the email, and Follow Up Actions, which allows you to take engagement actions with a few quick clicks.

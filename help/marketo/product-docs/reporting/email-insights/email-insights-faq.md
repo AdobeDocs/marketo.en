@@ -2,8 +2,8 @@
 unique-page-id: 10100257
 description: Email Insights FAQ - Marketo Docs - Product Documentation
 title: Email Insights FAQ
+exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 ---
-
 # Email Insights FAQ {#email-insights-faq}
 
 ## Are there any differences between ratio metrics with Email Insights and other Marketo Email reporting? {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}

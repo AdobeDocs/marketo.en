@@ -2,8 +2,8 @@
 unique-page-id: 2949190
 description: SEO - Pick Region/Country for Your Search Engine - Marketo Docs - Product Documentation
 title: SEO - Pick Region/Country for Your Search Engine
+exl-id: dc53415c-eb11-41f9-b992-172a32359cef
 ---
-
 # SEO - Pick Region/Country for Your Search Engine {#seo-pick-region-country-for-your-search-engine}
 
 SEO Admins will be able to pick the region for the search engine that you'd like to get keyword rank information.

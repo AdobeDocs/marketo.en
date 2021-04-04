@@ -2,8 +2,8 @@
 unique-page-id: 45416698
 description: Release Notes - Oct '20 - Marketo Docs - Product Documentation
 title: Release Notes - Oct '20
+exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 ---
-
 # Release Notes: Oct '20 {#release-notes-oct}
 
 The following features are included in the October '20 release. Check your Marketo edition for feature availability.

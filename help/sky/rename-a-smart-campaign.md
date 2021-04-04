@@ -1,8 +1,8 @@
 ---
 title: rename-a-smart-campaign
 description: Rename a Smart Campaign
+exl-id: e22f6d7a-0ffd-4d11-a7d2-fec9aeb10545
 ---
-
 # Rename a Smart Campaign
 
 <br>&nbsp;

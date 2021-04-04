@@ -2,8 +2,8 @@
 unique-page-id: 14352592
 description: How to Insert Dynamic Fields - Marketo Docs - Product Documentation
 title: How to Insert Dynamic Fields
+exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 ---
-
 # How to Insert Dynamic Fields {#how-to-insert-dynamic-fields}
 
 We allow you to personalize your email templates with predefined attributes like `{{first_name}}` or `{{company}}`. These fields allow you to email multiple contacts and auto-complete these fields without having to type them out separately for each contact.

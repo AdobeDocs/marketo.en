@@ -2,8 +2,8 @@
 unique-page-id: 2949206
 description: SEO - Importing Keywords with a CSV - Marketo Docs - Product Documentation
 title: SEO - Importing Keywords with a CSV
+exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 ---
-
 # SEO - Importing Keywords with a CSV {#seo-importing-keywords-with-a-csv}
 
 1. You can [add keywords](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manually, [get keyword suggestions](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) and even import keywords from a CSV file. Here is how to do the import.

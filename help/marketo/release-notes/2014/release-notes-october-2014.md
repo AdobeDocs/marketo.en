@@ -2,8 +2,8 @@
 unique-page-id: 2953334
 description: Release Notes -October 2014 - Marketo Docs - Product Documentation
 title: Release Notes -October 2014
+exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 ---
-
 # Release Notes: October 2014 {#release-notes-october}
 
 Check your Marketo edition for feature availability. Documentation will come at time of release.

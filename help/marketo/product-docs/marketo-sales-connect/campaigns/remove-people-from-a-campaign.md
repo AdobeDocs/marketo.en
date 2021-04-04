@@ -2,8 +2,8 @@
 unique-page-id: 14352608
 description: Remove People from a Campaign - Marketo Docs - Product Documentation
 title: Remove People from a Campaign
+exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 ---
-
 # Remove People from a Campaign {#remove-people-from-a-campaign}
 
 You can automatically end a Campaign when a recipient replies. And, you can choose to have that mark the Campaign as a 'success' for that recipient.

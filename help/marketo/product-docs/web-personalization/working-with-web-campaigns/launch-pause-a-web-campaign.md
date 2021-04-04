@@ -2,8 +2,8 @@
 unique-page-id: 4719406
 description: Launch/Pause a Web Campaign - Marketo Docs - Product Documentation
 title: Launch/Pause a Web Campaign
+exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 ---
-
 # Launch/Pause a Web Campaign {#launch-pause-a-web-campaign}
 
 A web campaign is a customized reaction associated with a specific segment and can be a [dialog box](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) on your website, an [in zone replacement](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), a widget feature, or an email alert.

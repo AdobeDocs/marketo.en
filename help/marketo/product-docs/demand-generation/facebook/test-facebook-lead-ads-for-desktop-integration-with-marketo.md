@@ -2,8 +2,8 @@
 unique-page-id: 11370892
 description: Test Facebook Lead Ads for Desktop Integration with Marketo - Marketo Docs - Product Documentation
 title: Test Facebook Lead Ads for Desktop Integration with Marketo
+exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 ---
-
 # Test Facebook Lead Ads for Desktop Integration with Marketo {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
 
 After you create your Lead Ad, you should test it! Here's how to do it on your desktop.

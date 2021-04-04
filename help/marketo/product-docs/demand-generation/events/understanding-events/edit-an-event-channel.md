@@ -2,8 +2,8 @@
 unique-page-id: 2949857
 description: Edit an Event Channel - Marketo Docs - Product Documentation
 title: Edit an Event Channel
+exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
 ---
-
 # Edit an Event Channel {#edit-an-event-channel}
 
 You can edit the channel type from the event’s **Summary** tab or from its **Setup** tab.

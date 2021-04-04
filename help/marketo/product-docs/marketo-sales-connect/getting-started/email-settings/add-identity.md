@@ -2,8 +2,8 @@
 unique-page-id: 14352412
 description: Add Identity - Marketo Docs - Product Documentation
 title: Add Identity
+exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
 ---
-
 # Add Identity {#add-identity}
 
 Add an identity when you have multiple email addresses to send from.

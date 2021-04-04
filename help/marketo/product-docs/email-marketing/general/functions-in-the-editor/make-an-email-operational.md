@@ -2,8 +2,8 @@
 unique-page-id: 1147354
 description: Make an Email Operational - Marketo Docs - Product Documentation
 title: Make an Email Operational
+exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 ---
-
 # Make an Email Operational {#make-an-email-operational}
 
 Operational emails ignore Unsubscribed and Marketing Suspended statuses. They send no matter what.

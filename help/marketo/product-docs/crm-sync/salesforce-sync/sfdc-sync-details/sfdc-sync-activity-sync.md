@@ -2,8 +2,8 @@
 unique-page-id: 2953473
 description: SFDC Sync -Activity Sync - Marketo Docs - Product Documentation
 title: SFDC Sync -Activity Sync
+exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 ---
-
 # SFDC Sync: Activity Sync {#sfdc-sync-activity-sync}
 
 Marketo also syncs over the Salesforce activities data. Here are some questions and answers.

@@ -2,8 +2,8 @@
 unique-page-id: 1147144
 description: Creating a New Email Program in the Schedule View - Marketo Docs - Product Documentation
 title: Creating a New Email Program in the Schedule View
+exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 ---
-
 # Creating a New Email Program in the Schedule View {#creating-a-new-email-program-in-the-schedule-view}
 
 You can build an email program from within the program schedule view. Here's how.

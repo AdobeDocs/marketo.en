@@ -2,8 +2,8 @@
 unique-page-id: 2359803
 description: Enable Personalized URLs for a Landing Page - Marketo Docs - Product Documentation
 title: Enable Personalized URLs for a Landing Page
+exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 ---
-
 # Enable Personalized URLs for a Landing Page {#enable-personalized-urls-for-a-landing-page}
 
 Personalized URLs are great for print mail campaigns.

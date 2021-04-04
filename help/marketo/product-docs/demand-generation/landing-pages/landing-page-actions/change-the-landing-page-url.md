@@ -2,8 +2,8 @@
 unique-page-id: 2359738
 description: Change the Landing Page URL - Marketo Docs - Product Documentation
 title: Change the Landing Page URL
+exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 ---
-
 # Change the Landing Page URL {#change-the-landing-page-url}
 
 You can modify a landing page's URL. This can help make the URL easier to remember, and improve SEO.

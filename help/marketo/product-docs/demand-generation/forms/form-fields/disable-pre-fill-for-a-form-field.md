@@ -2,8 +2,8 @@
 unique-page-id: 2359675
 description: Disable Pre-fill for a Form Field - Marketo Docs - Product Documentation
 title: Disable Pre-fill for a Form Field
+exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 ---
-
 # Disable Pre-fill for a Form Field {#disable-pre-fill-for-a-form-field}
 
 When a web visitor is known (cookied), Marketo forms will pre-fill fields with their information by default. If you want to turn this off, here's how to do it.

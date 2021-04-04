@@ -2,8 +2,8 @@
 unique-page-id: 2360057
 description: Campaign Activity Report - Marketo Docs - Product Documentation
 title: Campaign Activity Report
+exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 ---
-
 # Campaign Activity Report {#campaign-activity-report}
 
 See how your [smart campaigns](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) are performing.

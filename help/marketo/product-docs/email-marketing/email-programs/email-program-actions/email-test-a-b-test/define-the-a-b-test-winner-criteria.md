@@ -2,8 +2,8 @@
 unique-page-id: 2359545
 description: Define the A/B Test Winner Criteria - Marketo Docs - Product Documentation
 title: Define the A/B Test Winner Criteria
+exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 ---
-
 # Define the A/B Test Winner Criteria {#define-the-a-b-test-winner-criteria}
 
 When [adding an A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) to your email program, you will need to pick a test type, [schedule the A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md), then define the winner criteria. Here's how to decide which email wins.

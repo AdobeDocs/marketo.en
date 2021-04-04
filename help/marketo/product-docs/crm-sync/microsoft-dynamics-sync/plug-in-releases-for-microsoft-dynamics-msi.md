@@ -2,8 +2,8 @@
 unique-page-id: 10099102
 description: Plug-In Releases for Microsoft Dynamics MSI - Marketo Docs - Product Documentation
 title: Plug-In Releases for Microsoft Dynamics MSI
+exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 ---
-
 # Plug-In Releases for Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
 
 When you first sync to Microsoft Dynamics, you download and install the latest version of the plug-ins for Marketo Sales Insight (MSI). Periodically, Marketo updates these plug-ins, so you can return to the same place to download the new version.

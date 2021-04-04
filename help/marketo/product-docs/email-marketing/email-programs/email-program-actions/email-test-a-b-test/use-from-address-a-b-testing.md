@@ -2,8 +2,8 @@
 unique-page-id: 2359504
 description: Use "From Address" A/B Testing - Marketo Docs - Product Documentation
 title: Use "From Address" A/B Testing
+exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
 ---
-
 # Use "From Address" A/B Testing {#use-from-address-a-b-testing}
 
 You can easily A/B test your emails. One interesting test is the **From Address** test. Here's how to set it up.

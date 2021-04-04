@@ -2,8 +2,8 @@
 unique-page-id: 1147328
 description: Hard and Soft Bounces in Email - Marketo Docs - Product Documentation
 title: Hard and Soft Bounces in Email
+exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 ---
-
 # Hard and Soft Bounces in Email {#hard-and-soft-bounces-in-email}
 
 A hard bounce can render a person's email address invalid when a mail server tells Marketo that the person's email can't be delivered. A soft bounce means something went wrong in delivering the email to the person; this automatically gets resolved and can sometimes takes days. Both hard and soft bounces consist of [multiple categories](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).

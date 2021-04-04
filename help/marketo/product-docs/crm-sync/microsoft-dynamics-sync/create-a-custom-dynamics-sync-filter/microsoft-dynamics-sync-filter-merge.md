@@ -2,8 +2,8 @@
 unique-page-id: 10092969
 description: Microsoft Dynamics Sync Filter -Merge - Marketo Docs - Product Documentation
 title: Microsoft Dynamics Sync Filter -Merge
+exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 ---
-
 # Microsoft Dynamics Sync Filter: Merge {#microsoft-dynamics-sync-filter-merge}
 
 Merging leads in Microsoft Dynamics uses the Two Options type - Sync filter = Yes (TRUE) and Sync filter = No (FALSE). When you merge two records, the result varies, depending on which record is True and which is False.

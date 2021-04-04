@@ -2,8 +2,8 @@
 unique-page-id: 12980661
 description: Add Google Customer Match as a LaunchPoint Service - Marketo Docs - Product Documentation
 title: Add Google Customer Match as a LaunchPoint Service
+exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 ---
-
 # Add Google Customer Match as a LaunchPoint Service {#add-google-customer-match-as-a-launchpoint-service}
 
 With this integration, you can send a Marketo audience to Google to be targeted using Google AdWords, as well as re-target audiences across YouTube, Search, and Gmail.

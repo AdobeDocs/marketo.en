@@ -2,8 +2,8 @@
 unique-page-id: 11381917
 description: Target Account Management - Marketo Docs - Product Documentation
 title: Target Account Management
+exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 ---
-
 # Target Account Management {#target-account-management-overview}
 
 Marketer, meet Target Account Management. Target Account Management, meet marketer.

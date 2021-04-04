@@ -2,8 +2,8 @@
 unique-page-id: 9438218
 description: Template 18-E - Marketo Docs - Product Documentation
 title: Template 18-E
+exl-id: 0677e0a8-0385-4f8b-a77c-de64da40cd38
 ---
-
 # Template 18-E {#template-e}
 
 [Download Template 18-E](https://docs.marketo.com/download/attachments/9438218/template-18e.html?version=1&modificationdate=1439843329000&api=v2)

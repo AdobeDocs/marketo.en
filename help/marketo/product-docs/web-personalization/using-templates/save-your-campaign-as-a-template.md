@@ -2,8 +2,8 @@
 unique-page-id: 2949170
 description: Save your Campaign as a Template - Marketo Docs - Product Documentation
 title: Save your Campaign as a Template
+exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 ---
-
 # Save your Campaign as a Template {#save-your-campaign-as-a-template}
 
 Have you ever spent time creating the perfect web campaign? You can now save it as a template for easy re-use in the future.

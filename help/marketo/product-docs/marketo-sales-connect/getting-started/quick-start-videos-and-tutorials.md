@@ -2,8 +2,8 @@
 unique-page-id: 14746396
 description: Quick Start Videos and Tutorials - Marketo Docs - Product Documentation
 title: Quick Start Videos and Tutorials
+exl-id: dd0df689-bcde-4568-aeb2-29b69e07d989
 ---
-
 # Quick Start Videos and Tutorials {#quick-start-videos-and-tutorials}
 
 >[!NOTE]

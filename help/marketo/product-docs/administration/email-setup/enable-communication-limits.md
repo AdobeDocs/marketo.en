@@ -2,8 +2,8 @@
 unique-page-id: 2360222
 description: Enable Communication Limits - Marketo Docs - Product Documentation
 title: Enable Communication Limits
+exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 ---
-
 # Enable Communication Limits {#enable-communication-limits}
 
 It's very important to not over-communicate with your people. Setting communication limits will help prevent your organization from sending too many emails.

@@ -2,8 +2,8 @@
 unique-page-id: 5472402
 description: Editing Your Approved Model - Marketo Docs - Product Documentation
 title: Editing Your Approved Model
+exl-id: 5f31b9bd-b008-4b97-ba5d-930488dd3da9
 ---
-
 # Editing Your Approved Model {#editing-your-approved-model}
 
 ## Editing Your Model {#editing-your-model}

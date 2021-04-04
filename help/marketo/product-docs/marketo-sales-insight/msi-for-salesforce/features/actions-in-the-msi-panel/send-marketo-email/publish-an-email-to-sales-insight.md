@@ -2,8 +2,8 @@
 unique-page-id: 2949718
 description: Publish an Email to Sales Insight - Marketo Docs - Product Documentation
 title: Publish an Email to Sales Insight
+exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 ---
-
 # Publish an Email to Sales Insight {#publish-an-email-to-sales-insight}
 
 Enable the Publish to Sales Insight setting to make an email available to your sales team in both Sales Insight as well as the Outlook and Gmail Add-In. You can also give it an expiration date.

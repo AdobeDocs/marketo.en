@@ -2,8 +2,8 @@
 unique-page-id: 2951877
 description: Understanding the Program Opportunity Analysis Area - Marketo Docs - Product Documentation
 title: Understanding the Program Opportunity Analysis Area
+exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 ---
-
 # Understanding the Program Opportunity Analysis Area {#understanding-the-program-opportunity-analysis-area}
 
 ## Overview {#overview}

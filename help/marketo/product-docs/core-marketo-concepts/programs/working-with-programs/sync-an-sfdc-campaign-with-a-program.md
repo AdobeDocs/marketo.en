@@ -2,8 +2,8 @@
 unique-page-id: 1147154
 description: Sync an SFDC Campaign with a Program - Marketo Docs - Product Documentation
 title: Sync an SFDC Campaign with a Program
+exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 ---
-
 # Sync an SFDC Campaign with a Program {#sync-an-sfdc-campaign-with-a-program}
 
 Marketo allows you to sync your programs with Salesforce campaigns to maintain the same list of people in both systems, including their statuses. Let's get started!  

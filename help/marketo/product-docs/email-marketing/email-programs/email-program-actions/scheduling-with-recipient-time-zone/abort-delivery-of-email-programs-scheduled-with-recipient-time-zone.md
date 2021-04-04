@@ -2,8 +2,8 @@
 unique-page-id: 13795727
 description: Abort Delivery of Email Programs Scheduled with Recipient Time Zone - Marketo Docs - Product Documentation
 title: Abort Delivery of Email Programs Scheduled with Recipient Time Zone
+exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 ---
-
 # Abort Delivery of Email Programs Scheduled with Recipient Time Zone {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone}
 
 In emergency cases, you can abort the delivery of an email program that has already started running with Recipient Time Zone enabled.

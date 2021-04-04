@@ -2,8 +2,8 @@
 unique-page-id: 2359823
 description: Publish Landing Pages to Facebook - Marketo Docs - Product Documentation
 title: Publish Landing Pages to Facebook
+exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 ---
-
 # Publish Landing Pages to Facebook {#publish-landing-pages-to-facebook}
 
 You can publish your landing pages to Facebook, meeting your audience where they already hang out and generating more traffic to your programs.

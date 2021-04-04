@@ -2,8 +2,8 @@
 unique-page-id: 4720151
 description: Implementing RTP on Marketo Landing Pages - Marketo Docs - Product Documentation
 title: Implementing RTP on Marketo Landing Pages
+exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
 ---
-
 # Implementing RTP on Marketo Landing Pages {#implementing-rtp-on-marketo-landing-pages}
 
 To implement your RTP tag please follow the installation instructions below:

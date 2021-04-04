@@ -2,8 +2,8 @@
 unique-page-id: 1147021
 description: Change Owner - Marketo Docs - Product Documentation
 title: Change Owner
+exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
 ---
-
 # Change Owner {#change-owner}
 
 If you have existing people that are already assigned to an owner, you can use this flow step to re-assign them to another owner.

@@ -1,8 +1,8 @@
 ---
 title: add-content-to-an-engagement-stream
 description: Add Content to an Engagement Stream
+exl-id: c3e5fcf9-bdbd-4a24-8d70-b12c3246c348
 ---
-
 # Add Content to an Engagement Stream
 
 Once you've created your engagement program, you need to add content to the stream so it can be sent to your people. You can add emails or programs to a stream.

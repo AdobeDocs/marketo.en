@@ -2,8 +2,8 @@
 unique-page-id: 10097584
 description: Sync Status - Marketo Docs - Product Documentation
 title: Sync Status
+exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 ---
-
 # Sync Status {#sync-status}
 
 You can keep tabs on the current throughput and backlog of the sync process on the Sync Status and Sync Errors tabs.

@@ -1,8 +1,8 @@
 ---
 description: Event Check-in Overview
 title: Event Check-in Overview
+exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 ---
-
 # Event Check-in Overview {#event-check-in-overview}
 
 The Marketo Events app for iPad or Android tablet makes it easy to check people in immediately when they arrive at your event.

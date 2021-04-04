@@ -2,8 +2,8 @@
 unique-page-id: 8783938
 description: Template 6-E - Marketo Docs - Product Documentation
 title: Template 6-E
+exl-id: 5b02bc9e-9c8c-4255-a339-81d90cf116aa
 ---
-
 # Template 6-E {#template-e}
 
 [Download Template 6-E](https://docs.marketo.com/download/attachments/8783938/template-6e.html?version=1&modificationdate=1437693231000&api=v2)

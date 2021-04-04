@@ -2,8 +2,8 @@
 unique-page-id: 14352613
 description: Add People to your Campaign - Marketo Docs - Product Documentation
 title: Add People to your Campaign
+exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 ---
-
 # Add People to your Campaign {#add-people-to-your-campaign}
 
 There are multiple ways to add someone to a Campaign.

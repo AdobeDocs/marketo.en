@@ -2,8 +2,8 @@
 unique-page-id: 42762519
 description: Configuration for Existing Customers - Marketo Docs - Product Documentation
 title: Configuration for Existing Customers
+exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 ---
-
 # Configuration for Existing Customers {#configuration-for-existing-customers}
 
 Please set up the following configuration in order to begin using the new Insights Dashboard.

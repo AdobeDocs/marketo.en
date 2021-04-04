@@ -1,8 +1,8 @@
 ---
 title: setting-an-event-cap
 description: How to set up an event cap
+exl-id: 05bf3cc7-8a4c-4827-b3dd-60a7c918e8aa
 ---
-
 # Setting an Event Cap
 
 <br>&nbsp;

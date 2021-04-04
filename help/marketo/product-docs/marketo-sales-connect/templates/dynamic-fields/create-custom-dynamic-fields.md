@@ -2,8 +2,8 @@
 unique-page-id: 14352508
 description: Create Custom Dynamic Fields - Marketo Docs - Product Documentation
 title: Create Custom Dynamic Fields
+exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 ---
-
 # Create Custom Dynamic Fields {#create-custom-dynamic-fields}
 
 There are two ways to create custom dynamic fields.

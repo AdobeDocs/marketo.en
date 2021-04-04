@@ -2,8 +2,8 @@
 unique-page-id: 2359730
 description: Adding Custom HTML to a Free-Form Landing Page - Marketo Docs - Product Documentation
 title: Adding Custom HTML to a Free-Form Landing Page
+exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 ---
-
 # Adding Custom HTML to a Free-Form Landing Page {#adding-custom-html-to-a-free-form-landing-page}
 
 You can add custom scripts, CSS, or other HTML to landing pages.

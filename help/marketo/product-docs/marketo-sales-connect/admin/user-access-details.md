@@ -2,8 +2,8 @@
 unique-page-id: 14352623
 description: User Access Details - Marketo Docs - Product Documentation
 title: User Access Details
+exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
 ---
-
 # User Access Details {#user-access-details}
 
 What do Admins and non-Admins have access to?

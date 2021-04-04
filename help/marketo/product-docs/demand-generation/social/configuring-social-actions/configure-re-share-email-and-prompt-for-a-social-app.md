@@ -2,8 +2,8 @@
 unique-page-id: 2950559
 description: Configure Re-Share Email and Prompt for a Social App - Marketo Docs - Product Documentation
 title: Configure Re-Share Email and Prompt for a Social App
+exl-id: 169cd423-d9e3-4dba-bce5-d6bd329d5afa
 ---
-
 # Configure Re-Share Email and Prompt for a Social App {#configure-re-share-email-and-prompt-for-a-social-app}
 
 When you create a [referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) or a [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), you can invite participants to share your offer with more friends as part of the sign-up process, as well as provide default text for the share email.

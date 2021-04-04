@@ -2,8 +2,8 @@
 unique-page-id: 14352433
 description: How to Create Your Priority Call List in Sales Connect - Marketo Docs - Product Documentation
 title: How to Create Your Priority Call List in Sales Connect
+exl-id: 55d3b87d-600c-405c-9425-2abc57e1483e
 ---
-
 # How to Create Your Priority Call List in Sales Connect {#how-to-create-your-priority-call-list-in-sales-connect}
 
 Learn how to create a priority report/call list using ToutApp email engagement data to focus your time on the people or opportunities with momentum.

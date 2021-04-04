@@ -2,8 +2,8 @@
 unique-page-id: 1900575
 description: Add an Email Script Token to Your Email - Marketo Docs - Product Documentation
 title: Add an Email Script Token to Your Email
+exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 ---
-
 # Add an Email Script Token to Your Email {#add-an-email-script-token-to-your-email}
 
 After you've [created your email script](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md), you'll want to add it to an email to see it in action. Here's how.

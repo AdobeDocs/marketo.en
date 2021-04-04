@@ -2,8 +2,8 @@
 unique-page-id: 9437556
 description: Template 11-A - Marketo Docs - Product Documentation
 title: Template 11-A
+exl-id: 5c8956d3-35e5-448a-bb5d-c18c9a82664e
 ---
-
 # Template 11-A {#template-a}
 
 [Download Template 11-A](https://docs.marketo.com/download/attachments/9437556/template-11a.html?version=1&modificationdate=1438211253000&api=v2)

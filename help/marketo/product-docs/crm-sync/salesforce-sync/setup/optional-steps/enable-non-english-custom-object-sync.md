@@ -2,8 +2,8 @@
 unique-page-id: 4719302
 description: Enable Non-English Custom Object Sync - Marketo Docs - Product Documentation
 title: Enable Non-English Custom Object Sync
+exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 ---
-
 # Enable Non-English Custom Object Sync {#enable-non-english-custom-object-sync}
 
 If your Marketo sync user is set to a language other than English you may run into an error when trying to enable a custom object sync.

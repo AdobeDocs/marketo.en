@@ -2,8 +2,8 @@
 unique-page-id: 14352543
 description: Incorrect Recipient Location - Marketo Docs - Product Documentation
 title: Incorrect Recipient Location
+exl-id: bb605522-367c-4a64-a547-e5b7b60e9a4c
 ---
-
 # Incorrect Recipient Location {#incorrect-recipient-location}
 
 If we got the location wrong for your recipients, here's three possibilities for what may have happened:

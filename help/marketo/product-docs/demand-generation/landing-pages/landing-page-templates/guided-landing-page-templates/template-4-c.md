@@ -2,8 +2,8 @@
 unique-page-id: 8783906
 description: Template 4-C - Marketo Docs - Product Documentation
 title: Template 4-C
+exl-id: 95e8b4db-6bd8-4937-bf1b-3e680969aab4
 ---
-
 # Template 4-C {#template-c}
 
 [Download Template 4C](https://docs.marketo.com/download/attachments/8783906/template-4c.html?version=1&modificationdate=1437692414000&api=v2)

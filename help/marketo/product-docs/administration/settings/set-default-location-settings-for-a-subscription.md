@@ -2,8 +2,8 @@
 unique-page-id: 2359902
 description: Set Default Location Settings for a Subscription - Marketo Docs - Product Documentation
 title: Set Default Location Settings for a Subscription
+exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 ---
-
 # Set Default Location Settings for a Subscription {#set-default-location-settings-for-a-subscription}
 
 This article describes how an Admin would view and edit the default location settings for a subscription, including language, locale, and time zone.

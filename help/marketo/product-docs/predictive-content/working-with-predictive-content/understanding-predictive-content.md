@@ -2,8 +2,8 @@
 unique-page-id: 11384665
 description: Understanding Predictive Content - Marketo Docs - Product Documentation
 title: Understanding Predictive Content
+exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 ---
-
 # Understanding Predictive Content {#understanding-predictive-content}
 
 After you [approve a title for predictive content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), you work on it here. The Predictive Content page displays all of the titles you have approved for predictive content.

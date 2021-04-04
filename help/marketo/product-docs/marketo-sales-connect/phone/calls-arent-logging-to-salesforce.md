@@ -2,8 +2,8 @@
 unique-page-id: 14352435
 description: Calls Aren't Logging to Salesforce - Marketo Docs - Product Documentation
 title: Calls Aren't Logging to Salesforce
+exl-id: 99528c1a-7398-442b-81d1-9b5908e35e2f
 ---
-
 # Calls Aren't Logging to Salesforce {#calls-arent-logging-to-salesforce}
 
 If you want your calls from Sales Phone to be automatically logged to Salesforce, make sure the following is in place.

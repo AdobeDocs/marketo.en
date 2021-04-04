@@ -2,8 +2,8 @@
 unique-page-id: 2949279
 description: Upgrade your Marketo Email Add-In for Outlook - Marketo Docs - Product Documentation
 title: Upgrade your Marketo Email Add-In for Outlook
+exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 ---
-
 # Upgrade your Marketo Email Add-In for Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
 
 When a new version of the Marketo Email Add-in for Outlook is available, follow these instructions to upgrade.

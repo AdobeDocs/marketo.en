@@ -2,8 +2,8 @@
 unique-page-id: 1147294
 description: Filtering the Marketing Calendar - Marketo Docs - Product Documentation
 title: Filtering the Marketing Calendar
+exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 ---
-
 # Filtering the Marketing Calendar {#filtering-the-marketing-calendar}
 
 Use entry types, program tags, or workspaces to filter the information displayed on the calendar.

@@ -2,8 +2,8 @@
 unique-page-id: 14745655
 description: Make a Campaign Visible to Sales Connect Users - Marketo Docs - Product Documentation
 title: Make a Campaign Visible to Sales Connect Users
+exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 ---
-
 # Make a Campaign Visible to Sales Connect Users {#make-a-campaign-visible-to-sales-connect-users}
 
 Campaigns can only be shared if they're made visible. Here's how to do that.

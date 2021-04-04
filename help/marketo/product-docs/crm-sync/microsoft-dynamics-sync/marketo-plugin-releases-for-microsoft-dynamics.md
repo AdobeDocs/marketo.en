@@ -2,8 +2,8 @@
 unique-page-id: 10099389
 description: Marketo Plugin Releases for Microsoft Dynamics - Marketo Docs - Product Documentation
 title: Marketo Plugin Releases for Microsoft Dynamics
+exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 ---
-
 # Marketo Plugin Releases for Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
 
 When you first sync to Microsoft Dynamics, you download the latest version of the the plugins for Marketo. Periodically, Marketo updates these plugins, so you can return to the same place to download the new version.

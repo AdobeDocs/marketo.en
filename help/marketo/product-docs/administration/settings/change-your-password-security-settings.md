@@ -2,8 +2,8 @@
 unique-page-id: 2360185
 description: Change your Password Security Settings - Marketo Docs - Product Documentation
 title: Change your Password Security Settings
+exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 ---
-
 # Change your Password Security Settings {#change-your-password-security-settings}
 
 Control the password policy of your subscription. Here's how.

@@ -2,8 +2,8 @@
 unique-page-id: 4720710
 description: Set up SPF and DKIM for your Email Deliverability - Marketo Docs - Product Documentation
 title: Set up SPF and DKIM for your Email Deliverability
+exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 ---
-
 # Set up SPF and DKIM for your Email Deliverability {#set-up-spf-and-dkim-for-your-email-deliverability}
 
 One quick method to improve your email delivery rates is to incorporate **SPF** (Sender Policy Framework) and **DKIM** (Domain Keys Identified Mail) into your DNS settings. With this addition to your DNS entries, you're telling recipients that you've authorized Marketo to send emails on your behalf. Without this change, your email has a higher chance of being marked as spam since the email was addressed from your domain, but sent from an IP address with a Marketo domain.

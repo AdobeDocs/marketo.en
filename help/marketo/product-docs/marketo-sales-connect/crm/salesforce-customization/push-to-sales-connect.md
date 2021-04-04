@@ -2,8 +2,8 @@
 unique-page-id: 14352477
 description: Push to Sales Connect - Marketo Docs - Product Documentation
 title: Push to Sales Connect
+exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 ---
-
 # Push to Sales Connect {#push-to-sales-connect}
 
 Our Push to Tout button will take a list of your leads/contacts in Salesforce and push them into a group in Sales Connect. You can then quickly send a customizable group email with Tout tracking attached.

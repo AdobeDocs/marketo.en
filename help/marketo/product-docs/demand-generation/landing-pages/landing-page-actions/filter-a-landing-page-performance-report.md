@@ -2,8 +2,8 @@
 unique-page-id: 2359742
 description: Filter a Landing Page Performance Report - Marketo Docs - Product Documentation
 title: Filter a Landing Page Performance Report
+exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 ---
-
 # Filter a Landing Page Performance Report {#filter-a-landing-page-performance-report}
 
 Focus your [landing page performance report](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) on landing pages in your programs (local assets), on those in Design Studio (global assets), or on those that have been archived.

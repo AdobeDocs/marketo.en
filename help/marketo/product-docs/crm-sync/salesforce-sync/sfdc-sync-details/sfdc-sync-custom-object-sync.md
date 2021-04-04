@@ -2,8 +2,8 @@
 unique-page-id: 2953471
 description: SFDC Sync -Custom Object Sync - Marketo Docs - Product Documentation
 title: SFDC Sync -Custom Object Sync
+exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 ---
-
 # SFDC Sync: Custom Object Sync {#sfdc-sync-custom-object-sync}
 
 Custom Objects created in your Salesforce instance can be part of Marketo too.  Here's how to set it up.

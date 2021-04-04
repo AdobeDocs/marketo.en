@@ -2,8 +2,8 @@
 unique-page-id: 18317338
 description: Blocked Domains - Marketo Docs - Product Documentation
 title: Blocked Domains
+exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
 ---
-
 # Blocked Domains {#blocked-domains}
 
 Help your sales team achieve success by preventing them from accidentally emailing competitors, known spam traps, or any other domain you don't want contacted.

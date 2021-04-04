@@ -2,8 +2,8 @@
 unique-page-id: 3571816
 description: Step 2 of 3 -Configure Sync User for Marketo (2013 On-Premises) - Marketo Docs - Product Documentation
 title: Step 2 of 3 -Configure Sync User for Marketo (2013 On-Premises)
+exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 ---
-
 # Step 2 of 3: Configure Sync User for Marketo (2013 On-Premises) {#step-of-configure-sync-user-for-marketo-on-premises}
 
 Great job completing the previous steps, let's keep moving through this.

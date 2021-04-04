@@ -2,8 +2,8 @@
 unique-page-id: 14352482
 description: How Reply Tracking Works - Marketo Docs - Product Documentation
 title: How Reply Tracking Works
+exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 ---
-
 # How Reply Tracking Works {#how-reply-tracking-works}
 
 Reply Tracking is done by looking at a message ID that's in every email you send. Every email contains a unique message ID that allows us to have some of the best reply tracking around.

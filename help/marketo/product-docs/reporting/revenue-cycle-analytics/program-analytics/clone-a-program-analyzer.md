@@ -2,8 +2,8 @@
 unique-page-id: 11383877
 description: Clone a Program Analyzer - Marketo Docs - Product Documentation
 title: Clone a Program Analyzer
+exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
 ---
-
 # Clone a Program Analyzer {#clone-a-program-analyzer}
 
 After you've saved an analyzer, it's easy to clone it to create a new one. Then, go in and edit the new one if it needs any changes.

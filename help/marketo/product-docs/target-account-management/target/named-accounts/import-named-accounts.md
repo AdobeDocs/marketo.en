@@ -2,8 +2,8 @@
 unique-page-id: 12615800
 description: Import Named Accounts - Marketo Docs - Product Documentation
 title: Import Named Accounts
+exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 ---
-
 # Import Named Accounts {#import-named-accounts}
 
 Already have a CSV full of potential target accounts? Import them directly into TAM!

@@ -2,8 +2,8 @@
 unique-page-id: 2360409
 description: Build an Email Analysis Report that Shows Program Information - Marketo Docs - Product Documentation
 title: Build an Email Analysis Report that Shows Program Information
+exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 ---
-
 # Build an Email Analysis Report that Shows Program Information {#build-an-email-analysis-report-that-shows-program-information}
 
 Follow these steps to create an Email Analysis Report that will show email information grouped by program channels.

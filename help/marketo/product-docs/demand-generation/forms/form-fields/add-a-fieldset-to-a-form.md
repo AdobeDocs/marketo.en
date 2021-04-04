@@ -2,8 +2,8 @@
 unique-page-id: 2359594
 description: Add a FieldSet to a Form - Marketo Docs - Product Documentation
 title: Add a FieldSet to a Form
+exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 ---
-
 # Add a FieldSet to a Form {#add-a-fieldset-to-a-form}
 
 Fieldsets are cool. They group a bunch of fields together. You can control a whole block at once too!

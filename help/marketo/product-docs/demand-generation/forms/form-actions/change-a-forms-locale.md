@@ -2,8 +2,8 @@
 unique-page-id: 2359657
 description: Change a Form's Locale - Marketo Docs - Product Documentation
 title: Change a Form's Locale
+exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 ---
-
 # Change a Form's Locale {#change-a-forms-locale}
 
 When dealing with international forms, you will want to display dates/times in the correct formats. Marketo will do this automatically for you, all you have to do is set the form's locale and we take care of the rest.

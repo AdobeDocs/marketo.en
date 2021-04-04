@@ -2,8 +2,8 @@
 unique-page-id: 14352503
 description: Shared Templates - Marketo Docs - Product Documentation
 title: Shared Templates
+exl-id: 9640c9a6-00fc-4a7d-8366-f04f2b2483e4
 ---
-
 # Shared Templates {#shared-templates}
 
 ## How to Share a Template {#how-to-share-a-template}

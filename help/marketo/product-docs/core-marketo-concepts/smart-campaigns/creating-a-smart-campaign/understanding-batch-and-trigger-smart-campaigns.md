@@ -2,8 +2,8 @@
 unique-page-id: 2953132
 description: Understanding Batch and Trigger Smart Campaigns - Marketo Docs - Product Documentation
 title: Understanding Batch and Trigger Smart Campaigns
+exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 ---
-
 # Understanding Batch and Trigger Smart Campaigns {#understanding-batch-and-trigger-smart-campaigns}
 
 There are two types of smart campaigns: Batch and Trigger.

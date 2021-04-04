@@ -2,8 +2,8 @@
 unique-page-id: 2951220
 description: Build a People Performance Report with Mobile Platform Columns - Marketo Docs - Product Documentation
 title: Build a People Performance Report with Mobile Platform Columns
+exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 ---
-
 # Build a People Performance Report with Mobile Platform Columns {#build-a-people-performance-report-with-mobile-platform-columns}
 
 Follow these steps to create a People Performance Report with mobile platform (iOS/Android) columns.

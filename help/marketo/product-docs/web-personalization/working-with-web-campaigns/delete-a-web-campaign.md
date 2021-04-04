@@ -2,8 +2,8 @@
 unique-page-id: 4719410
 description: Delete a Web Campaign - Marketo Docs - Product Documentation
 title: Delete a Web Campaign
+exl-id: ec81c3c0-5822-4df4-b9ff-5635f44bc3c6
 ---
-
 # Delete a Web Campaign {#delete-a-web-campaign}
 
 1. Go to **Web Campaigns**.

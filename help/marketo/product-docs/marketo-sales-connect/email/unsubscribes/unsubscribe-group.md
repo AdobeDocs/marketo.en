@@ -2,8 +2,8 @@
 unique-page-id: 14746167
 description: Unsubscribe Group - Marketo Docs - Product Documentation
 title: Unsubscribe Group
+exl-id: 43e7dc75-1a78-4f87-8054-7ed4b5a883db
 ---
-
 # Unsubscribe Group {#unsubscribe-group}
 
 See and manage all of your unsubscribed people in one place.

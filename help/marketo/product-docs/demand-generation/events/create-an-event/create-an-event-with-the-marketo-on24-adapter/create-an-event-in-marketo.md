@@ -2,8 +2,8 @@
 unique-page-id: 10096725
 description: Create an Event in Marketo - Marketo Docs - Product Documentation
 title: Create an Event in Marketo
+exl-id: c55116b7-dd65-439f-b7d4-63892fb940cb
 ---
-
 # Create an Event in Marketo {#create-an-event-in-marketo}
 
 A Marketo event tracks the progression of your people through a program. It pushes registration information and pulls attendance information using the ON24 adapter. The event captures the status of your people as they progress through it.

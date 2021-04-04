@@ -2,8 +2,8 @@
 unique-page-id: 2953373
 description: Configure Unsubscribe Footers in Marketo Sales Insight - Marketo Docs - Product Documentation
 title: Configure Unsubscribe Footers in Marketo Sales Insight
+exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 ---
-
 # Configure Unsubscribe Footers in Marketo Sales Insight {#configure-unsubscribe-footers-in-marketo-sales-insight}
 
 Sales emails automatically put the unsubscribe footer at the bottom. However, you can adjust the settings to meet your needs.

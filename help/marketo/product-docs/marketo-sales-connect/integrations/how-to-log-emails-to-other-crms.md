@@ -2,8 +2,8 @@
 unique-page-id: 14352430
 description: How to Log Emails to Other CRMs - Marketo Docs - Product Documentation
 title: How to Log Emails to Other CRMs
+exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 ---
-
 # How to Log Emails to Other CRMs {#how-to-log-emails-to-other-crms}
 
 If your CRM provides you with a BCC address, you can use the "other" CRM section to set up email logging. Once the configuration is set up, emails that you send will automatically be logged to your CRM.

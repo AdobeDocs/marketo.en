@@ -2,8 +2,8 @@
 unique-page-id: 18317340
 description: Marketo Unsubscribe Check - Marketo Docs - Product Documentation
 title: Marketo Unsubscribe Check
+exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 ---
-
 # Marketo Unsubscribe Check {#marketo-unsubscribe-check}
 
 The Marketo Unsubscribe Check uses your team's connection to Marketo to prevent emails from going to people who are unsubscribed in Marketo's Lead Management system. When a sales user sends an email with Sales Connect, an API call will be made to Marketo to check if the email ID is unsubscribed. If it is, we will block the email from being sent.

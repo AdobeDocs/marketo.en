@@ -2,8 +2,8 @@
 unique-page-id: 1146901
 description: Using Advanced Smart List Rule Logic - Marketo Docs - Product Documentation
 title: Using Advanced Smart List Rule Logic
+exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 ---
-
 # Using Advanced Smart List Rule Logic {#using-advanced-smart-list-rule-logic}
 
 You can find the exact people you need by applying smart list rule logic to multiple filters within a smart list. Here's how.

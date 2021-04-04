@@ -2,8 +2,8 @@
 unique-page-id: 14746491
 description: Verify Your Email - Marketo Docs - Product Documentation
 title: Verify Your Email
+exl-id: 43aa286c-c7af-40c6-a9ea-7ab3c6544733
 ---
-
 # Verify Your Email {#verify-your-email}
 
 If you have an email identity that isn't verified, follow the steps below.

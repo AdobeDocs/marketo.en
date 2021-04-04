@@ -2,8 +2,8 @@
 unique-page-id: 8159286
 description: Opportunity Filters and Triggers - Marketo Docs - Product Documentation
 title: Opportunity Filters and Triggers
+exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 ---
-
 # Opportunity Filters and Triggers {#opportunity-filters-and-triggers}
 
 Opportunity filters and triggers let you track opportunity events from Salesforce. They're a little different compared to other filters and triggers.

@@ -1,8 +1,8 @@
 ---
 title: local-assets-in-a-program
 description: Local Assets in a Program
+exl-id: ea7326a8-3892-4bab-95e3-2ad9e1054e41
 ---
-
 # Local Assets in a Program
 
 <br>&nbsp;

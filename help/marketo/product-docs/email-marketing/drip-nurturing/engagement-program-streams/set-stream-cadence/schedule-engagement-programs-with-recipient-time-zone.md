@@ -2,8 +2,8 @@
 unique-page-id: 12982909
 description: Schedule Engagement Programs with Recipient Time Zone - Marketo Docs - Product Documentation
 title: Schedule Engagement Programs with Recipient Time Zone
+exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 ---
-
 # Schedule Engagement Programs with Recipient Time Zone {#schedule-engagement-programs-with-recipient-time-zone}
 
 When you schedule an engagement program stream and recipient time zone is active, the program cast will start running at midnight in the first time zone (UTC +14:00). We require you to schedule the first cast **at least 25 hours** in the future because there may be people who qualify for the cast in every time zone across the globe. Starting processing at this time in the first time zone guarantees that we will deliver the email at the scheduled date and time for every recipient.

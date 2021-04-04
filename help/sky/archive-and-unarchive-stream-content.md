@@ -1,8 +1,8 @@
 ---
 title: archive-and-unarchive-stream-content
 description: Archive and Unarchive Stream Content
+exl-id: ea73af6e-51cf-456b-b07e-478480791580
 ---
-
 # Archive and Unarchive Stream Content
 
 If you no longer want to use a piece of content in a stream you can either [remove](/help/sky/remove-stream-content.md) it or archive it.

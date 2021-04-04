@@ -2,8 +2,8 @@
 unique-page-id: 557326
 description: Use Quick Find in a List or Smart List - Marketo Docs - Product Documentation
 title: Use Quick Find in a List or Smart List
+exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 ---
-
 # Use Quick Find in a List or Smart List {#use-quick-find-in-a-list-or-smart-list}
 
 Find a person from the results of a list or smart list using the quick find.

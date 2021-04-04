@@ -2,8 +2,8 @@
 unique-page-id: 10094404
 description: Create Custom Field Groups Using the Field Organizer - Marketo Docs - Product Documentation
 title: Create Custom Field Groups Using the Field Organizer
+exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 ---
-
 # Create Custom Field Groups Using the Field Organizer {#create-custom-field-groups-using-the-field-organizer}
 
 Before you can enable custom field groups for reporting in the Model Performance Analysis (Leads) Area of Revenue Cycle Explorer, you must categorize standard or custom fields into groups for reporting via the Field Organizer in Marketo Lead Management. This only applies to lead and company attributes.

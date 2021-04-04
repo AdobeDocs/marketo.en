@@ -1,8 +1,8 @@
 ---
 title: edit-qualification-rules-in-a-smart-campaign
 description: Edit Qualification Rules in a Smart Campaign
+exl-id: a76c1fbb-9f12-40be-bf88-4c194231f5a8
 ---
-
 # Edit Qualification Rules in a Smart Campaign
 
 <br>&nbsp;

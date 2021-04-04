@@ -2,8 +2,8 @@
 unique-page-id: 10095636
 description: Enable No-Draft for Snippets - Marketo Docs - Product Documentation
 title: Enable No-Draft for Snippets
+exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 ---
-
 # Enable No-Draft for Snippets {#enable-no-draft-for-snippets}
 
 No-Draft for Snippets allows you to distribute snippet changes without drafting approved assets using it. All assets using the edited snippet get the updates and maintain their respective statuses:

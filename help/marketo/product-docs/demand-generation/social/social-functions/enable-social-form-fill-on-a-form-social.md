@@ -2,8 +2,8 @@
 unique-page-id: 2359829
 description: Enable Social Form Fill on a Form(Social) - Marketo Docs - Product Documentation
 title: Enable Social Form Fill on a Form(Social)
+exl-id: 675d0499-b127-40fa-84ef-1c6ecfae8e2e
 ---
-
 # Enable Social Form Fill on a Form(Social) {#enable-social-form-fill-on-a-form-social}
 
 Allow your visitors to fill out the form using their social network. You automatically get extra data and they get a quicker experience. Here's how.

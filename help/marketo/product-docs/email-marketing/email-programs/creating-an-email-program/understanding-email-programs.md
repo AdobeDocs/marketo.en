@@ -2,8 +2,8 @@
 unique-page-id: 2953572
 description: Understanding Email Programs - Marketo Docs - Product Documentation
 title: Understanding Email Programs
+exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 ---
-
 # Understanding Email Programs {#understanding-email-programs}
 
 Say hello to your new Marketo friend, the email program. Send out emails, create A/B tests, and track your results all in one place.

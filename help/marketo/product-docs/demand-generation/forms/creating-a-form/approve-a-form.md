@@ -2,8 +2,8 @@
 unique-page-id: 2359578
 description: Approve a Form - Marketo Docs - Product Documentation
 title: Approve a Form
+exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 ---
-
 # Approve a Form {#approve-a-form}
 
 In order to add a form to one of your landing pages, it must be approved. Here's how to do it.

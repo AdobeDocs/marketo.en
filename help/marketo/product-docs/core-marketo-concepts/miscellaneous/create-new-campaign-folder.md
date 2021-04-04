@@ -2,8 +2,8 @@
 unique-page-id: 2953207
 description: Create New Campaign Folder - Marketo Docs - Product Documentation
 title: Create New Campaign Folder
+exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
 ---
-
 # Create New Campaign Folder {#create-new-campaign-folder}
 
 Campaign folders help you keep a tidy workspace. Follow these simple steps and you're on your way to automation magic.

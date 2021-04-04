@@ -2,8 +2,8 @@
 unique-page-id: 2950660
 description: Create Custom Tags - Marketo Docs - Product Documentation
 title: Create Custom Tags
+exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 ---
-
 # Create Custom Tags {#create-custom-tags}
 
 Tags will help you organize your programs while channels will assist in gathering data for reporting purposes.

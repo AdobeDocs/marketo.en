@@ -1,8 +1,8 @@
 ---
 description: Send Your In-App Message - Marketo Docs - Product Documentation
 title: Send Your In-App Message
+exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 ---
-
 # Send Your In-App Message {#send-your-in-app-message}
 
 After you've created your in-app message, it's time to send it out. Here are the steps:

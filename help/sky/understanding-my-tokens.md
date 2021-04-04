@@ -1,8 +1,8 @@
 ---
 title: understanding-my-tokens
 description: Understanding My Tokens
+exl-id: d56748e2-d742-45dd-96a8-dd80e30d9d8b
 ---
-
 # Understanding My Tokens
 
 <br>&nbsp;

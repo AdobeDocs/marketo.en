@@ -2,8 +2,8 @@
 unique-page-id: 4720433
 description: Configure Protocols for Marketo - Marketo Docs - Product Documentation
 title: Configure Protocols for Marketo
+exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 ---
-
 # Configure Protocols for Marketo {#configure-protocols-for-marketo}
 
 Your marketing group is using Marketo to create branded campaign landing pages and emails. To ensure that those landing pages and emails work, they need a little help from IT. Please set up the following protocols, with the information that your marketing group should have sent you in email.

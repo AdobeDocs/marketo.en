@@ -2,8 +2,8 @@
 unique-page-id: 12981050
 description: Lock Sales Template - Marketo Docs - Product Documentation
 title: Lock Sales Template
+exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
 ---
-
 # Lock Sales Template {#lock-sales-template}
 
 To prevent CRM users from editing sales templates, admins can enable the ability to lock templates, which then allows users to lock templates individually from the email editor.

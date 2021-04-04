@@ -1,8 +1,8 @@
 ---
 title: add-and-remove-labels
 description: Add and Remove Labels
+exl-id: 9a1664ac-d346-4c0d-badc-0cbca767e740
 ---
-
 # Add and Remove Labels
 
 You can assign labels to any asset in [!UICONTROL Marketing Activities], making organizing and finding assets a breeze.

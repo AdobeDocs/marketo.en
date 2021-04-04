@@ -1,8 +1,8 @@
 ---
 title: archive-unarchive-a-campaign-folder
-description: Archive/Unarchive a Campaign Folder 
+description: Archive/Unarchive a Campaign Folder
+exl-id: eaf688da-2f85-4019-9103-a763438f4892
 ---
-
 # Archive/Unarchive a Campaign Folder
 
 ## Convert to Archive Folder

@@ -2,8 +2,8 @@
 unique-page-id: 2953419
 description: Using the Rich Text Editor - Marketo Docs - Product Documentation
 title: Using the Rich Text Editor
+exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 ---
-
 # Using the Rich Text Editor {#using-the-rich-text-editor}
 
 The Rich Text Editor (RTE) appears throughout Marketo and is available whenever you want to add or edit content. You'll see a version of it on landing pages, programs, emails, forms, and snippets. Just click **Edit Draft**, and it'll pop up to serve you.

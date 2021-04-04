@@ -2,8 +2,8 @@
 unique-page-id: 10096658
 description: Understanding Marketo On24 Adapter Events - Marketo Docs - Product Documentation
 title: Understanding Marketo On24 Adapter Events
+exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 ---
-
 # Understanding Marketo On24 Adapter Events {#understanding-marketo-on-adapter-events}
 
 If your ON24 webinar isn't connected to Marketo, you have to take attendee information that’s already in Marketo and enter it into ON24. After the webinar, you have to take attendance information that’s already in ON24 and enter it back into Marketo.

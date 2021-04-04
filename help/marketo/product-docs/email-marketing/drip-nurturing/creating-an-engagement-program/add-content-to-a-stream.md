@@ -2,8 +2,8 @@
 unique-page-id: 2359659
 description: Add Content to a Stream - Marketo Docs - Product Documentation
 title: Add Content to a Stream
+exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 ---
-
 # Add Content to a Stream {#add-content-to-a-stream}
 
 Once you've created your engagement program, you need to add content to the stream(s). You can add emails or programs to a stream.

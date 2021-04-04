@@ -2,8 +2,8 @@
 unique-page-id: 8784014
 description: Template 10-F - Marketo Docs - Product Documentation
 title: Template 10-F
+exl-id: 9f983388-725b-4ac0-bf39-5af56035b200
 ---
-
 # Template 10-F {#template-f}
 
 [Download Template 10-F](https://docs.marketo.com/download/attachments/8784014/template-10f.html?version=2&modificationdate=1438210996000&api=v2)

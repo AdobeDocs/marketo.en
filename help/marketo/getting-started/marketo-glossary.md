@@ -2,8 +2,8 @@
 unique-page-id: 12980733
 description: Marketo Glossary - Marketo Docs - Product Documentation
 title: Marketo Glossary
+exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 ---
-
 # Marketo Glossary {#marketo-glossary}
 
 Below are definitions for many of the terms you may encounter when using Marketo. To request a term be added, please [send us an email](mailto:GRP-Marketo-articlefeedback@adobe.com).
@@ -907,5 +907,3 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr>  
  </tbody> 
 </table>
-
-

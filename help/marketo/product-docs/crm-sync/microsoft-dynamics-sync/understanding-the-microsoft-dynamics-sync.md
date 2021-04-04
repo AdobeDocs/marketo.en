@@ -2,8 +2,8 @@
 unique-page-id: 10098625
 description: Understanding the Microsoft Dynamics Sync - Marketo Docs - Product Documentation
 title: Understanding the Microsoft Dynamics Sync
+exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 ---
-
 # Understanding the Microsoft Dynamics Sync {#understanding-the-microsoft-dynamics-sync}
 
 Marketo and Microsoft Dynamics go together. We keep your sales and marketing data in sync.

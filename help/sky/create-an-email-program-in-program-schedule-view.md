@@ -1,8 +1,8 @@
 ---
 title: create-an-email-program-in-program-schedule-view
 description: Create an Email Program in Program Schedule View
+exl-id: f3538412-8ece-411c-a1ac-6c082088190a
 ---
-
 # Create an Email Program in Program Schedule View
 
 <br>&nbsp;

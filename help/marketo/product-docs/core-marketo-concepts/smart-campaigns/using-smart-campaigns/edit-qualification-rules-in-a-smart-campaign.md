@@ -2,8 +2,8 @@
 unique-page-id: 1146974
 description: Edit Qualification Rules in a Smart Campaign - Marketo Docs - Product Documentation
 title: Edit Qualification Rules in a Smart Campaign
+exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 ---
-
 # Edit Qualification Rules in a Smart Campaign {#edit-qualification-rules-in-a-smart-campaign}
 
 Qualification rules control how many times someone can run through the flow in a smart campaign. By default, even if someone triggers a smart campaign multiple times, they will only be sent through the flow once. Here's how to modify these settings.

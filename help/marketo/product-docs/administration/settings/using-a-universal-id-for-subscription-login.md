@@ -2,8 +2,8 @@
 unique-page-id: 10100311
 description: Using a Universal ID for Subscription Login - Marketo Docs - Product Documentation
 title: Using a Universal ID for Subscription Login
+exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 ---
-
 # Using a Universal ID for Subscription Login {#using-a-universal-id-for-subscription-login}
 
 A Universal ID lets you access multiple Marketo subscriptions with a single login, and switch between subscriptions quickly. However, you can use different logins for your subscriptions if you'd like.

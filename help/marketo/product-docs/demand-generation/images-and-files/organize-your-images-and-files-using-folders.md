@@ -2,8 +2,8 @@
 unique-page-id: 2359880
 description: Organize Your Images and Files Using Folders - Marketo Docs - Product Documentation
 title: Organize Your Images and Files Using Folders
+exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 ---
-
 # Organize Your Images and Files Using Folders {#organize-your-images-and-files-using-folders}
 
 Creating folders allows you to move images and files, see just the set of images you want, and upload directly to a specific folder.  

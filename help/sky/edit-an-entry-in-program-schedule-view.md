@@ -1,8 +1,8 @@
 ---
 title: edit-an-entry-in-program-schedule-view
 description: Edit an Entry in Program Schedule View
+exl-id: fb599dc9-f7d9-492e-9841-4b8fcf216824
 ---
-
 # Edit an Entry in Program Schedule View
 
 <br>&nbsp;

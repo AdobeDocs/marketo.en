@@ -1,8 +1,8 @@
 ---
 title: understanding-batch-and-trigger-smart-campaigns
 description: Understanding Batch and Trigger Smart Campaigns
+exl-id: 54f38ecc-1b4c-4944-9f42-d8c1190c99d0
 ---
-
 # Understanding Batch and Trigger Smart Campaigns
 
 <br>&nbsp;

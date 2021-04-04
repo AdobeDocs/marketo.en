@@ -2,8 +2,8 @@
 unique-page-id: 2951122
 description: Release Notes -March 2012 - Marketo Docs - Product Documentation
 title: Release Notes -March 2012
+exl-id: 8dce59bf-6349-4e47-b07b-8302b5039739
 ---
-
 # Release Notes: March 2012 {#release-notes-march}
 
 ## Resolve My Tokens {#resolve-my-tokens}

@@ -2,8 +2,8 @@
 unique-page-id: 1147152
 description: Clone an Asset in a Program - Marketo Docs - Product Documentation
 title: Clone an Asset in a Program
+exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 ---
-
 # Clone an Asset in a Program {#clone-an-asset-in-a-program}
 
 Cloning a program clones _everything_. Sometimes you just want to clone one asset. Here's how.

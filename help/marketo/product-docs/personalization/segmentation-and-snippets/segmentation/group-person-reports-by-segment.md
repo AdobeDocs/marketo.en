@@ -2,8 +2,8 @@
 unique-page-id: 2359492
 description: Group Person Reports by Segment - Marketo Docs - Product Documentation
 title: Group Person Reports by Segment
+exl-id: 38c77548-3bfd-484e-ba0a-ccedc2ed6205
 ---
-
 # Group Person Reports by Segment {#group-person-reports-by-segment}
 
 You can group your person reports by any segment that you have  defined in your segmentations.

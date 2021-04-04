@@ -2,8 +2,8 @@
 unique-page-id: 7515886
 description: Template 1-B - Marketo Docs - Product Documentation
 title: Template 1-B
+exl-id: b6085e44-b40c-4f09-a301-057179f5fe0b
 ---
-
 # Template 1-B {#template-b}
 
 [Download Template 1-B](https://docs.marketo.com/download/attachments/7515886/Template1-B.html?version=1&modificationDate=1432796605000&api=v2)

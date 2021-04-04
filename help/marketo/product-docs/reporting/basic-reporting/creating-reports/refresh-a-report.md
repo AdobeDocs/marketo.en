@@ -2,8 +2,8 @@
 unique-page-id: 5472328
 description: Refresh a Report - Marketo Docs - Product Documentation
 title: Refresh a Report
+exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 ---
-
 # Refresh a Report {#refresh-a-report}
 
 After viewing a report, Marketo stores it in your database so that it loads quickly upon your next viewing. Following your first view, reports automatically refresh every 24 hours so that they're always up-to-date. But you can refresh them manually any time you want.

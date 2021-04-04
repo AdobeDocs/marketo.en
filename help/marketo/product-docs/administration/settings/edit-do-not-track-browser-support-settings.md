@@ -2,8 +2,8 @@
 unique-page-id: 6095047
 description: Edit "Do Not Track" Browser Support Settings - Marketo Docs - Product Documentation
 title: Edit "Do Not Track" Browser Support Settings
+exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 ---
-
 # Edit "Do Not Track" Browser Support Settings {#edit-do-not-track-browser-support-settings}
 
 "Do Not Track" is a browser request to not be tracked in systems like Marketo. You can honor that request with the following steps.

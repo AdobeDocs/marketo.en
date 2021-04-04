@@ -2,8 +2,8 @@
 unique-page-id: 14352525
 description: Email Marked as Spam - Marketo Docs - Product Documentation
 title: Email Marked as Spam
+exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 ---
-
 # Email Marked as Spam {#email-marked-as-spam}
 
 As a company, we work hard to ensure that our deliverability rates remain high. Still, there are certain user behaviors and settings that can trigger your sent emails being routed to the spam folder.

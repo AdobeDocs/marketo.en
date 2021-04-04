@@ -2,8 +2,8 @@
 unique-page-id: 4719314
 description: Default Salesforce Field Mapping - Marketo Docs - Product Documentation
 title: Default Salesforce Field Mapping
+exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 ---
-
 # Default Salesforce Field Mapping {#default-salesforce-field-mapping}
 
 When you initially sync your Marketo account with Salesforce, Marketo automatically makes these associations between your built-in Salesforce and Marketo fields. Marketo will also sync your custom fields on your Leads, Accounts, Opportunities, and Contacts.

@@ -2,8 +2,8 @@
 unique-page-id: 7504128
 description: Create a Smart List Goal - Marketo Docs - Product Documentation
 title: Create a Smart List Goal
+exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 ---
-
 # Create a Smart List Goal {#create-a-smart-list-goal}
 
 Goals are ways to track progress and motivate your team. They can be combined with smart lists to track all sorts of things in Marketo. Plus, after you've set up a smart list goal, it'll automatically update every 2 hours when it's used in a presentation.

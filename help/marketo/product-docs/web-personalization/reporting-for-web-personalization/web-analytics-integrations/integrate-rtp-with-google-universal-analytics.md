@@ -2,8 +2,8 @@
 unique-page-id: 4720125
 description: Integrate RTP with Google Universal Analytics - Marketo Docs - Product Documentation
 title: Integrate RTP with Google Universal Analytics
+exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 ---
-
 # Integrate RTP with Google Universal Analytics {#integrate-rtp-with-google-universal-analytics}
 
 ## Intro {#intro}

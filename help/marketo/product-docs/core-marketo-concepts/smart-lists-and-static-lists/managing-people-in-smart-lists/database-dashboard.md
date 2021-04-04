@@ -2,8 +2,8 @@
 unique-page-id: 10097447
 description: Database Dashboard - Marketo Docs - Product Documentation
 title: Database Dashboard
+exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 ---
-
 # Database Dashboard {#database-dashboard}
 
 The Database Dashboard serves as a snapshot to help you quickly determine key attributes about your people within a workspace.

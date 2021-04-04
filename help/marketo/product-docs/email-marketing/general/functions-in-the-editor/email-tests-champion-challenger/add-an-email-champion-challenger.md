@@ -2,8 +2,8 @@
 unique-page-id: 2359553
 description: Add an Email Champion/Challenger - Marketo Docs - Product Documentation
 title: Add an Email Champion/Challenger
+exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 ---
-
 # Add an Email Champion/Challenger {#add-an-email-champion-challenger}
 
 It's a good idea to test any emails that you use frequently to make sure they're working. One way is to compare an email's effectiveness with other versions, or challengers. In a champion/challenger test, you can test the whole email, the subject line, or the from address.

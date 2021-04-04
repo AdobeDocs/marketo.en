@@ -2,8 +2,8 @@
 unique-page-id: 2950551
 description: Configure When Social Button Opens - Marketo Docs - Product Documentation
 title: Configure When Social Button Opens
+exl-id: 3acb6656-35ab-486e-ba91-d52c434a1b90
 ---
-
 # Configure When Social Button Opens {#configure-when-social-button-opens}
 
 When you create a [social button](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md), you can configure when the button presents the share prompt.

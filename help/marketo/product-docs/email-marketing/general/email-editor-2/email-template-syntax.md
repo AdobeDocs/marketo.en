@@ -2,8 +2,8 @@
 unique-page-id: 11371040
 description: Email Template Syntax - Marketo Docs - Product Documentation
 title: Email Template Syntax
+exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 ---
-
 # Email Template Syntax {#email-template-syntax}
 
 In Marketo's new Email 2.0 Experience, email templates are composed of any combination of Elements, Variables, Modules, or Containers. Each is defined by adding Marketo-specific syntax to your HTML. Old (v1.0) email templates are supported in Email Editor 2.0; however, they will not include all of the new Editor's features.

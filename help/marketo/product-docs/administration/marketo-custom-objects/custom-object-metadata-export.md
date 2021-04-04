@@ -1,8 +1,8 @@
 ---
 description: Custom Object Metadata Export - Marketo Docs - Product Documentation
 title: Custom Object Metadata Export
+exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 ---
-
 # Custom Object Metadata Export {#custom-object-metadata-export}
 
 If you're using our SOAP API or Munchkin API, Custom Object Metadata Schema can be exported. Here's how to get it.

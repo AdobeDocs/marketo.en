@@ -2,8 +2,8 @@
 unique-page-id: 7516470
 description: Template 2-B - Marketo Docs - Product Documentation
 title: Template 2-B
+exl-id: 8ccf9758-e1c4-41e2-8266-44f69f3a9c67
 ---
-
 # Template 2-B {#template-b}
 
 [Download Template 2-B](https://docs.marketo.com/download/attachments/7516470/template2-b.html?version=1&modificationdate=1433229058000&api=v2)

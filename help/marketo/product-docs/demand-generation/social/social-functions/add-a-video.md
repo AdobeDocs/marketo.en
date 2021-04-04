@@ -2,8 +2,8 @@
 unique-page-id: 2359761
 description: Add a Video - Marketo Docs - Product Documentation
 title: Add a Video
+exl-id: e704ec2c-07d7-430f-9514-3ee2a4ab66d9
 ---
-
 # Add a Video {#add-a-video}
 
 Put videos with social sharing options on your landing pages.

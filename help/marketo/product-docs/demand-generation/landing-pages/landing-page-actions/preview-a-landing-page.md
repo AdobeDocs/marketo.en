@@ -2,8 +2,8 @@
 unique-page-id: 2359716
 description: Preview a Landing Page - Marketo Docs - Product Documentation
 title: Preview a Landing Page
+exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 ---
-
 # Preview a Landing Page {#preview-a-landing-page}
 
 You probably want to see what your landing page looks like before making it live.

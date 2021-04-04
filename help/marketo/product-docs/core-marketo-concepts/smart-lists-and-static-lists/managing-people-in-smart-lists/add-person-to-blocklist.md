@@ -2,8 +2,8 @@
 unique-page-id: 9438139
 description: Add Person to Blocklist - Marketo Docs - Product Documentation
 title: Add Person to Blocklist
+exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 ---
-
 # Add Person to Blocklist {#add-person-to-blocklist}
 
 Adding people to your Blocklist prevents them from receiving your correspondence.

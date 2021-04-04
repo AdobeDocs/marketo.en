@@ -2,8 +2,8 @@
 unique-page-id: 4719297
 description: Enable/Disable Custom Object Sync - Marketo Docs - Product Documentation
 title: Enable/Disable Custom Object Sync
+exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 ---
-
 # Enable/Disable Custom Object Sync {#enable-disable-custom-object-sync}
 
 Custom Objects created in your Salesforce instance can be part of Marketo too. Here's how to set it up.

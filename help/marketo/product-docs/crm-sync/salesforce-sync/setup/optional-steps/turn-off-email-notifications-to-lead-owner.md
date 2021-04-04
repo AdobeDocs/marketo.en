@@ -2,8 +2,8 @@
 unique-page-id: 13795802
 description: Turn Off Email Notifications to Lead Owner - Marketo Docs - Product Documentation
 title: Turn Off Email Notifications to Lead Owner
+exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
 ---
-
 # Turn Off Email Notifications to Lead Owner {#turn-off-email-notifications-to-lead-owner}
 
 You can disable the automatic email notifications that are sent to Lead Owners in Salesforce upon Lead Assignment. Here's how.

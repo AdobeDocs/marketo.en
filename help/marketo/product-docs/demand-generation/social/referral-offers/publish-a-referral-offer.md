@@ -2,8 +2,8 @@
 unique-page-id: 2359845
 description: Publish a Referral Offer - Marketo Docs - Product Documentation
 title: Publish a Referral Offer
+exl-id: 48335902-cb43-44ea-9f19-2fe49105bb45
 ---
-
 # Publish a Referral Offer {#publish-a-referral-offer}
 
 After you [create a referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you can publish it on your Marketo landing pages, on Facebook, and on your website.

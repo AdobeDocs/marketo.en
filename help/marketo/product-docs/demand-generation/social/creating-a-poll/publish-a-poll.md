@@ -2,8 +2,8 @@
 unique-page-id: 2359770
 description: Publish a Poll - Marketo Docs - Product Documentation
 title: Publish a Poll
+exl-id: 5c603b84-5cd7-4604-9301-e6f277af8dc0
 ---
-
 # Publish a Poll {#publish-a-poll}
 
 After you [create a poll](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), you can publish it on your Marketo landing pages, on Facebook, and on your website.

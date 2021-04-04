@@ -2,8 +2,8 @@
 unique-page-id: 4718685
 description: Merging Two Stages in the Revenue Modeler - Marketo Docs - Product Documentation
 title: Merging Two Stages in the Revenue Modeler
+exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 ---
-
 # Merging Two Stages in the Revenue Modeler {#merging-two-stages-in-the-revenue-modeler}
 
 After you've approved the model, you cannot delete stages when editing a draft. Instead, you can merge that stage with another.

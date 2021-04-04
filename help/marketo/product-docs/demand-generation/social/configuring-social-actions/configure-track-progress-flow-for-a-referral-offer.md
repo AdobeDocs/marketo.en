@@ -2,8 +2,8 @@
 unique-page-id: 2950573
 description: Configure Track Progress Flow for a Referral Offer - Marketo Docs - Product Documentation
 title: Configure Track Progress Flow for a Referral Offer
+exl-id: ea73176e-414e-4a90-a17d-083a6eb0a752
 ---
-
 # Configure Track Progress Flow for a Referral Offer {#configure-track-progress-flow-for-a-referral-offer}
 
 When you [create a referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you can configure the prompts that show participants their progress toward the reward.

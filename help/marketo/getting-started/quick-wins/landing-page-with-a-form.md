@@ -2,8 +2,8 @@
 unique-page-id: 2359412
 description: Landing Page with a Form - Marketo Docs - Product Documentation
 title: Landing Page with a Form
+exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 ---
-
 # Landing Page with a Form {#landing-page-with-a-form}
 
 ## Mission: Create a landing page with a form to acquire new people. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}

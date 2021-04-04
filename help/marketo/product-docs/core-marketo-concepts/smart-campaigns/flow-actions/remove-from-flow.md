@@ -2,8 +2,8 @@
 unique-page-id: 1147084
 description: Remove from Flow - Marketo Docs - Product Documentation
 title: Remove from Flow
+exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 ---
-
 # Remove from Flow {#remove-from-flow}
 
 Imagine you have a smart campaign flow that uses "Send Alert" to remind a sales rep to call a hot prospect. It sends one message every day until the rep makes the call. You could use "Remove from Flow" in a trigger campaign once the prospect has been contacted to stop further alerts. It's like a smart campaign ejector seat for a person.

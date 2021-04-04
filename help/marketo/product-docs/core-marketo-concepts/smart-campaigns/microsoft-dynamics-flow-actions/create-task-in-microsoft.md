@@ -2,8 +2,8 @@
 unique-page-id: 37356429
 description: Create Task in Microsoft - Marketo Docs - Product Documentation
 title: Create Task in Microsoft
+exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 ---
-
 # Create Task in Microsoft {#create-task-in-microsoft}
 
 As a marketer, you have information that can assist sales in closing deals. You can create tasks to let them know what they should do and when they should do it.

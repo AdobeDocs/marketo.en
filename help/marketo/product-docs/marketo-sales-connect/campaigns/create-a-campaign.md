@@ -2,8 +2,8 @@
 unique-page-id: 14352618
 description: Create a Campaign - Marketo Docs - Product Documentation
 title: Create a Campaign
+exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 ---
-
 # Create a Campaign {#create-a-campaign}
 
 Campaigns are a series of multi-channel steps including: emails, phone calls, InMail, and custom tasks. They allow you to streamline your communications with your potential and existing customers.

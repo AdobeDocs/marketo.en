@@ -2,8 +2,8 @@
 unique-page-id: 2949251
 description: SEO - Add/Remove an Inbound Link URL From a List - Marketo Docs - Product Documentation
 title: SEO - Add/Remove an Inbound Link URL From a List
+exl-id: 8079387f-633b-4982-a31d-837dcc374601
 ---
-
 # SEO - Add/Remove an Inbound Link URL From a List {#seo-add-remove-an-inbound-link-url-from-a-list}
 
 You can organize your inbound link URLs to your heart's content.

@@ -2,8 +2,8 @@
 unique-page-id: 42762794
 description: Using Bulk Actions in Salesforce Classic - Marketo Docs - Product Documentation
 title: Using Bulk Actions in Salesforce Classic
+exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 ---
-
 # Using Bulk Actions in Salesforce Classic {#using-bulk-actions-in-salesforce-classic}
 
 Learn how to perform bulk actions, like adding leads to a campaign, send a bulk email, or pushing leads from Salesforce to Sales Connect.

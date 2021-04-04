@@ -2,8 +2,8 @@
 unique-page-id: 2360181
 description: Tracking Anonymous Activity and People - Marketo Docs - Product Documentation
 title: Tracking Anonymous Activity and People
+exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 ---
-
 # Tracking Anonymous Activity and People {#tracking-anonymous-activity-and-people}
 
 The first time someone visits a Marketo [landing page](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) (or a page on your website that has the [Munchkin tracking code](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)), Marketo creates an _anonymous activity_ and uses a browser cookie to track it. Once the visitor is identified, it becomes a person and the history associated with the browser cookie is merged in.

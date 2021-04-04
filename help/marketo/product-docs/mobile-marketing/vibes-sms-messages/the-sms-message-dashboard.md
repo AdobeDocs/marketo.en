@@ -2,8 +2,8 @@
 unique-page-id: 11379060
 description: The SMS Message Dashboard - Marketo Docs - Product Documentation
 title: The SMS Message Dashboard
+exl-id: a08fb3d9-f2fa-40d4-9cba-5c404e8574b8
 ---
-
 # The SMS Message Dashboard {#the-sms-message-dashboard}
 
 The SMS Message Dashboard displays useful information about your SMS message.

@@ -2,8 +2,8 @@
 unique-page-id: 1147074
 description: Automatic Trigger Campaign Cleanup - Marketo Docs - Product Documentation
 title: Automatic Trigger Campaign Cleanup
+exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 ---
-
 # Automatic Trigger Campaign Cleanup {#automatic-trigger-campaign-cleanup}
 
 Marketo has a nice/free service to deactivate triggered smart campaigns that no longer get activity. This speeds up overall system performance and saves you time.

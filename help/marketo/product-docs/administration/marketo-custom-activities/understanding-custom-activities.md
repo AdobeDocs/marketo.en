@@ -2,8 +2,8 @@
 unique-page-id: 10100266
 description: Understanding Custom Activities - Marketo Docs - Product Documentation
 title: Understanding Custom Activities
+exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 ---
-
 # Understanding Custom Activities {#understanding-custom-activities}
 
 Track an action a person has taken specific to your business with custom activities.

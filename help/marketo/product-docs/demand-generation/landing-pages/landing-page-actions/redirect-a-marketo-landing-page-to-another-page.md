@@ -2,8 +2,8 @@
 unique-page-id: 2359740
 description: Redirect a Marketo Landing Page to Another Page - Marketo Docs - Product Documentation
 title: Redirect a Marketo Landing Page to Another Page
+exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 ---
-
 # Redirect a Marketo Landing Page to Another Page {#redirect-a-marketo-landing-page-to-another-page}
 
 If you ever update a page's URL and want the old URL to still work, try a redirect! Setting it up is easy.

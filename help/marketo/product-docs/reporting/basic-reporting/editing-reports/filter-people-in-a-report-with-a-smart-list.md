@@ -2,8 +2,8 @@
 unique-page-id: 2360016
 description: Filter People in a Report with a Smart List - Marketo Docs - Product Documentation
 title: Filter People in a Report with a Smart List
+exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 ---
-
 # Filter People in a Report with a Smart List {#filter-people-in-a-report-with-a-smart-list}
 
 Use smart lists to filter your reports by specific person attributes.

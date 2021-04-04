@@ -2,8 +2,8 @@
 unique-page-id: 557130
 description: Understanding Smart Lists - Marketo Docs - Product Documentation
 title: Understanding Smart Lists
+exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 ---
-
 # Understanding Smart Lists {#understanding-smart-lists}
 
 Smart lists allow you to find specific groups of people using simple filters. They are used all over Marketo, such as in smart campaigns, programs, reports, segmentations, business models, engagement programs, dynamic content, and more. Depending on your needs, smart lists can be created in two places within Marketo:

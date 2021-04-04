@@ -2,8 +2,8 @@
 unique-page-id: 1147142
 description: Creating a Batch Smart Campaign in the Program Schedule View - Marketo Docs - Product Documentation
 title: Creating a Batch Smart Campaign in the Program Schedule View
+exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 ---
-
 # Creating a Batch Smart Campaign in the Program Schedule View {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
 You can create new smart campaigns and [rerun existing ones](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md) inside your program from the program schedule view.

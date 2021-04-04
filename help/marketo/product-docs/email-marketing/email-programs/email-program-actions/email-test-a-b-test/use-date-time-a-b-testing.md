@@ -2,8 +2,8 @@
 unique-page-id: 2359520
 description: Use "Date/Time" A/B Testing - Marketo Docs - Product Documentation
 title: Use "Date/Time" A/B Testing
+exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 ---
-
 # Use "Date/Time" A/B Testing {#use-date-time-a-b-testing}
 
 You can easily A/B test your emails. One test is the **Date/Time** test. This tests what time of day or day of week is best to send emails. Here's how to set it up.

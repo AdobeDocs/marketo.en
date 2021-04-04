@@ -2,8 +2,8 @@
 unique-page-id: 4720917
 description: Personalized Remarketing in Facebook - Marketo Docs - Product Documentation
 title: Personalized Remarketing in Facebook
+exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 ---
-
 # Personalized Remarketing in Facebook {#personalized-remarketing-in-facebook}
 
 Personalized Remarketing lets you re-engage with your users using RTP Data and the power of Facebook Remarketing.

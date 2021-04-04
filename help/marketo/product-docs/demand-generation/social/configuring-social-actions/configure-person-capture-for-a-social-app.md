@@ -2,8 +2,8 @@
 unique-page-id: 2950547
 description: Configure Person Capture for a Social App - Marketo Docs - Product Documentation
 title: Configure Person Capture for a Social App
+exl-id: bad8db26-bb1b-4d04-a80f-4d5ee3200335
 ---
-
 # Configure Person Capture for a Social App {#configure-person-capture-for-a-social-app}
 
 When you create a [referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) or a [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), you can configure what information you request and what information you require from people in order to participate.

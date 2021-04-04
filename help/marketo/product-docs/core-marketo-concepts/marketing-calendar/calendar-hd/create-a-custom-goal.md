@@ -2,8 +2,8 @@
 unique-page-id: 7504130
 description: Create a Custom Goal - Marketo Docs - Product Documentation
 title: Create a Custom Goal
+exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 ---
-
 # Create a Custom Goal {#create-a-custom-goal}
 
 Goals are ways to track progress and motivate your team. Once created, they must be manually updated.

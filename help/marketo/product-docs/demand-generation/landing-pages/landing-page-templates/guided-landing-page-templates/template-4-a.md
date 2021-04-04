@@ -2,8 +2,8 @@
 unique-page-id: 8162237
 description: Template 4-A - Marketo Docs - Product Documentation
 title: Template 4-A
+exl-id: a20817e4-dbdd-4f08-9b4e-602da6b75d70
 ---
-
 # Template 4-A {#template-a}
 
 [Download Template 4-A](https://docs.marketo.com/download/attachments/8162237/template-4a.html?version=1&modificationdate=1435255108000&api=v2)

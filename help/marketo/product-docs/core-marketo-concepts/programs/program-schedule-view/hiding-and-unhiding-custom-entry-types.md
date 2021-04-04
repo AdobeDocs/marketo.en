@@ -2,8 +2,8 @@
 unique-page-id: 1147247
 description: Hiding and Unhiding Custom Entry Types - Marketo Docs - Product Documentation
 title: Hiding and Unhiding Custom Entry Types
+exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 ---
-
 # Hiding and Unhiding Custom Entry Types {#hiding-and-unhiding-custom-entry-types}
 
 Custom entry types can be hidden in the Admin section. Once hidden, the entry type will no longer be displayed as an option.

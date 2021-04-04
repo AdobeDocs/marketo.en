@@ -2,8 +2,8 @@
 unique-page-id: 4719338
 description: Email Reports - Marketo Docs - Product Documentation
 title: Email Reports
+exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 ---
-
 # Email Reports {#email-reports}
 
 To customize which automated email report the user receives, see the  [User Settings section](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).

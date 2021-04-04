@@ -2,8 +2,8 @@
 unique-page-id: 7515133
 description: SFDC Sync - Merging a Lead/Contact/Person - Marketo Docs - Product Documentation
 title: SFDC Sync - Merging a Lead/Contact/Person
+exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 ---
-
 # SFDC Sync: Merging a Lead/Contact/Person {#sfdc-sync-merging-a-lead-contact-person}
 
 Sometimes it's best to just list the rules. Here we go:

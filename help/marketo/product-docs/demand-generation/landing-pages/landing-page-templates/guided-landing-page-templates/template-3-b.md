@@ -2,8 +2,8 @@
 unique-page-id: 8159325
 description: Template 3-B - Marketo Docs - Product Documentation
 title: Template 3-B
+exl-id: 28cd87fa-8ded-449a-8a5d-0e7c7241b49e
 ---
-
 # Template 3-B {#template-b}
 
 [Download Template 3-B](https://docs.marketo.com/download/attachments/8159325/template3-b.html?version=1&modificationdate=1434063541000&api=v2)

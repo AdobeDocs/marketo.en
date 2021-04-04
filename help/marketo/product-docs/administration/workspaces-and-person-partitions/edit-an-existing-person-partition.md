@@ -2,8 +2,8 @@
 unique-page-id: 2360323
 description: Edit an Existing Person Partition - Marketo Docs - Product Documentation
 title: Edit an Existing Person Partition
+exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 ---
-
 # Edit an Existing Person Partition {#edit-an-existing-person-partition}
 
 A person partition is like having a second (or third) database. A partition can be hooked up to one or more workspaces. Here's how to edit the partition details.

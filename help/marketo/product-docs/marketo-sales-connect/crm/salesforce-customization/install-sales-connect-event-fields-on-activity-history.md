@@ -2,8 +2,8 @@
 unique-page-id: 14352475
 description: Install Sales Connect Event Fields on Activity History - Marketo Docs - Product Documentation
 title: Install Sales Connect Event Fields on Activity History
+exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 ---
-
 # Install Sales Connect Event Fields on Activity History {#install-sales-connect-event-fields-on-activity-history}
 
 Once you have installed the Enterprise package into Salesforce you can install Sales Connect event fields into your activity history section. Sales Connect event fields include information such as views, clicks, and campaigns. This allows you to have information about your emails directly imported into Salesforce.

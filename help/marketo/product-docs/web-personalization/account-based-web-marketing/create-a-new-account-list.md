@@ -2,8 +2,8 @@
 unique-page-id: 4720232
 description: Create a New Account List - Marketo Docs - Product Documentation
 title: Create a New Account List
+exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 ---
-
 # Create a New Account List {#create-a-new-account-list}
 
 Create and upload a list of organization and domain names to target these key accounts with personalized campaigns.

@@ -2,8 +2,8 @@
 unique-page-id: 2360201
 description: Add Custom Columns to a Person Report - Marketo Docs - Product Documentation
 title: Add Custom Columns to a Person Report
+exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 ---
-
 # Add Custom Columns to a Person Report {#add-custom-columns-to-a-person-report}
 
 You can further filter the metrics in your person reports by using your [smart lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) as custom columns.

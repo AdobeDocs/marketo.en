@@ -2,8 +2,8 @@
 unique-page-id: 2951640
 description: Using Interesting Moments - Marketo Docs - Product Documentation
 title: Using Interesting Moments
+exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 ---
-
 # Using Interesting Moments {#using-interesting-moments}
 
 Interesting moments are the key to communicating with your sales team through the Marketo Sales Insight app.

@@ -2,8 +2,8 @@
 unique-page-id: 2949966
 description: Add a Country Picklist to your Form - Marketo Docs - Product Documentation
 title: Add a Country Picklist to your Form
+exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 ---
-
 # Add a Country Picklist to your Form {#add-a-country-picklist-to-your-form}
 
 Follow these instructions to convert the country field to a drop-down with a list of all the countries.

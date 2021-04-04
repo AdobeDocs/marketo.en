@@ -2,8 +2,8 @@
 unique-page-id: 2359459
 description: Create a Snippet - Marketo Docs - Product Documentation
 title: Create a Snippet
+exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 ---
-
 # Create a Snippet {#create-a-snippet}
 
 Snippets can be used as dynamic content blocks on **emails** and **landing pages**.

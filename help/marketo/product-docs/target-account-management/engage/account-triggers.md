@@ -2,8 +2,8 @@
 unique-page-id: 11380734
 description: Account Triggers - Marketo Docs - Product Documentation
 title: Account Triggers
+exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 ---
-
 # Account Triggers {#account-triggers}
 
 Listen and act on important account-level behavioral activities across different channels (e.g., email, web, ads) using account-level triggers.

@@ -2,8 +2,8 @@
 unique-page-id: 2950578
 description: Manage Social Profile Data - Marketo Docs - Product Documentation
 title: Manage Social Profile Data
+exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 ---
-
 # Manage Social Profile Data {#manage-social-profile-data}
 
 When someone interacts with a Marketo [social app](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md), or authorizes their social network to prefill a Marketo form with [social form fill](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), Marketo captures all the data available from their social profile. You can view this information on the [Person Details page](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md), or add it as a column in a [custom view of a smart list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).

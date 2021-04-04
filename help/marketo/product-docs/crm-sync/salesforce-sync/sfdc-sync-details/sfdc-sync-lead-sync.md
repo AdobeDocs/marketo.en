@@ -2,8 +2,8 @@
 unique-page-id: 2953455
 description: SFDC Sync -Lead Sync - Marketo Docs - Product Documentation
 title: SFDC Sync -Lead Sync
+exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 ---
-
 # SFDC Sync: Lead Sync {#sfdc-sync-lead-sync}
 
 Did you know Marketo syncs from your Salesforce database? It syncs, waits 5 minutes, then syncs again. All day, every day. Here are some details about how Marketo treats Salesforce leads specifically.

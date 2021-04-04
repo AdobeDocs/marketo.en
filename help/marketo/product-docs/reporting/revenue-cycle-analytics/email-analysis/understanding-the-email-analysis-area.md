@@ -2,8 +2,8 @@
 unique-page-id: 4718651
 description: Understanding the Email Analysis Area - Marketo Docs - Product Documentation
 title: Understanding the Email Analysis Area
+exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 ---
-
 # Understanding the Email Analysis Area {#understanding-the-email-analysis-area}
 
 The Email Analysis Area focuses on email metrics. This article introduces all of the reports available within it.

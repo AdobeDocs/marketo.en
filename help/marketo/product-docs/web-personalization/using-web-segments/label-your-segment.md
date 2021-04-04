@@ -2,8 +2,8 @@
 unique-page-id: 4719348
 description: Label Your Segment - Marketo Docs - Product Documentation
 title: Label Your Segment
+exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 ---
-
 # Label Your Segment {#label-your-segment}
 
 Do you have so many segments that scrolling is becoming cumbersome? Use labels to tag your segments so you can find them quickly.

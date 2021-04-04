@@ -2,8 +2,8 @@
 unique-page-id: 37356590
 description: Adding Highspot Content to Your Email - Marketo Docs - Product Documentation
 title: Adding Highspot Content to Your Email
+exl-id: a069d29a-46b6-4347-b474-df17b7595436
 ---
-
 # Adding Highspot Content to Your Email {#adding-highspot-content-to-your-email}
 
 If you're a Highspot customer, you can easily insert Highspot content into your Sales Connect emails.

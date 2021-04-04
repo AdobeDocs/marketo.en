@@ -2,8 +2,8 @@
 unique-page-id: 2359620
 description: Change Submit Button Style and Color - Marketo Docs - Product Documentation
 title: Change Submit Button Style and Color
+exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 ---
-
 # Change Submit Button Style and Color {#change-submit-button-style-and-color}
 
 If you find the standard submit button dull, or if you need something more fancy, feel free to choose from a wide range of ready-to-use button styles.

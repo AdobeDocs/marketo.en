@@ -2,8 +2,8 @@
 unique-page-id: 14352407
 description: Delivery Channel Overview - Marketo Docs - Product Documentation
 title: Delivery Channel Overview
+exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 ---
-
 # Delivery Channel Overview {#delivery-channel-overview}
 
 Marketo Sales Connect gives you multiple options to deliver emails. This article will review the delivery channels you can leverage, how to select them, and when to pick one over another.

@@ -2,8 +2,8 @@
 unique-page-id: 14352537
 description: How to Track Your Email Attachments - Marketo Docs - Product Documentation
 title: How to Track Your Email Attachments
+exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 ---
-
 # How to Track Your Email Attachments {#how-to-track-your-email-attachments}
 
 Sales Connect offers tracking on your attachments (.doc, .ppt, .pdf) so you can see when they've been opened/downloaded, and see what pages your recipient is looking through. We'll allow you to use our trackable attachments feature from both the [web application](https://toutapp.com/login) and Gmail (or Google Apps).

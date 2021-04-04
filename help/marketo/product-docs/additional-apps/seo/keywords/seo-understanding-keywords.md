@@ -2,8 +2,8 @@
 unique-page-id: 2949182
 description: SEO - Understanding Keywords - Marketo Docs - Product Documentation
 title: SEO - Understanding Keywords
+exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 ---
-
 # SEO - Understanding Keywords {#seo-understanding-keywords}
 
 Keywords are the backbone of your SEO strategy. Your goal is to be on the first page, as close to #1 as possible for keywords relevant to your business.

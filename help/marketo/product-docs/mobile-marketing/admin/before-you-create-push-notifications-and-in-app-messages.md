@@ -2,8 +2,8 @@
 unique-page-id: 11376159
 description: Before You Create Push Notifications and In-App Messages - Marketo Docs - Product Documentation
 title: Before You Create Push Notifications and In-App Messages
+exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 ---
-
 # Before You Create Push Notifications and In-App Messages {#before-you-create-push-notifications-and-in-app-messages}
 
 Creating push notifications and in-app messages isn't difficult, but you need to have everything ready before you can start. The Marketo Admin and mobile app developer should follow the steps below to prepare the necessary integrations.

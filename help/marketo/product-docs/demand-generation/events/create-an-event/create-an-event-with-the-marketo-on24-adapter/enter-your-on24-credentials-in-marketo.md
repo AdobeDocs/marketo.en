@@ -2,8 +2,8 @@
 unique-page-id: 10096671
 description: Enter your ON24 Credentials in Marketo - Marketo Docs - Product Documentation
 title: Enter your ON24 Credentials in Marketo
+exl-id: a9615ac7-febd-4f16-b81a-53e39356cb80
 ---
-
 # Enter your ON24 Credentials in Marketo {#enter-your-on-credentials-in-marketo}
 
 Let's get started on your ON24 event integration. If you ever need to edit or delete your credentials, those steps are also included below.

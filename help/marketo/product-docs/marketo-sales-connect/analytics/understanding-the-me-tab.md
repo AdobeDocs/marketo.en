@@ -2,8 +2,8 @@
 unique-page-id: 14352614
 description: Understanding the Me Tab - Marketo Docs - Product Documentation
 title: Understanding the Me Tab
+exl-id: 5ae0e091-e315-4182-81d3-134113c8288f
 ---
-
 # Understanding the Me Tab {#understanding-the-me-tab}
 
 In the Me Tab we show you the number of emails sent, as well as how many emails were sent using a template with the emailing activity.

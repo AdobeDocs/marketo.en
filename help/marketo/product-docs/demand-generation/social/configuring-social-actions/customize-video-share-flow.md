@@ -2,8 +2,8 @@
 unique-page-id: 2950553
 description: Customize Video Share Flow - Marketo Docs - Product Documentation
 title: Customize Video Share Flow
+exl-id: 7dd97f67-7255-483a-a30d-926faab8a3c1
 ---
-
 # Customize Video Share Flow {#customize-video-share-flow}
 
 When you [create a video share](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), you can customize when and where the share prompt appears.

@@ -2,8 +2,8 @@
 unique-page-id: 14352520
 description: How to Send a Group Email - Marketo Docs - Product Documentation
 title: How to Send a Group Email
+exl-id: 3f213b6f-0208-4c6a-a3d8-481faba6fb5b
 ---
-
 # How to Send a Group Email {#how-to-send-a-group-email}
 
 Sending a group email with Sales Connect enables you to contact multiple recipients at once with the same message. This eliminates the tedious task of copying and pasting the same information over and over into multiple emails.

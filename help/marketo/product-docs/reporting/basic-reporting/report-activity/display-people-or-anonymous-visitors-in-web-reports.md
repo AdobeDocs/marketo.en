@@ -2,8 +2,8 @@
 unique-page-id: 2360008
 description: Display People or Anonymous Visitors in Web Reports - Marketo Docs - Product Documentation
 title: Display People or Anonymous Visitors in Web Reports
+exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 ---
-
 # Display People or Anonymous Visitors in Web Reports {#display-people-or-anonymous-visitors-in-web-reports}
 
 >[!PREREQUISITES]

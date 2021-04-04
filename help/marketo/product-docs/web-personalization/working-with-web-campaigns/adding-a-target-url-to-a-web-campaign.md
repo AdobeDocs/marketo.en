@@ -2,8 +2,8 @@
 unique-page-id: 6094879
 description: Adding a Target URL to a Web Campaign - Marketo Docs - Product Documentation
 title: Adding a Target URL to a Web Campaign
+exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 ---
-
 # Adding a Target URL to a Web Campaign {#adding-a-target-url-to-a-web-campaign}
 
 A Target URL is located under the Set Campaign page and defines the specific URL or URLs that a web campaign will appear on.

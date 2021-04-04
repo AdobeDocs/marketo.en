@@ -2,8 +2,8 @@
 unique-page-id: 7512445
 description: Verify Push Configuration - Marketo Docs - Product Documentation
 title: Verify Push Configuration
+exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 ---
-
 # Verify Push Configuration {#verify-push-configuration}
 
 >[!PREREQUISITES]

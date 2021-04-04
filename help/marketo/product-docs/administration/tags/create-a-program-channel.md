@@ -2,8 +2,8 @@
 unique-page-id: 2950682
 description: Create a Program Channel - Marketo Docs - Product Documentation
 title: Create a Program Channel
+exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 ---
-
 # Create a Program Channel {#create-a-program-channel}
 
 A program is one specific marketing initiative. The channel is intended to be the delivery mechanism, like Webinar or Sponsorship or Online Ad.

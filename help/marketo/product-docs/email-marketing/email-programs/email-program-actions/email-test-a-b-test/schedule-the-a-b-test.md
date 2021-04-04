@@ -2,8 +2,8 @@
 unique-page-id: 2359547
 description: Schedule the A/B Test - Marketo Docs - Product Documentation
 title: Schedule the A/B Test
+exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 ---
-
 # Schedule the A/B Test {#schedule-the-a-b-test}
 
 Once you have added an A/B test to an email program and defined the winner criteria you will need to schedule when the test begins. Here's how.

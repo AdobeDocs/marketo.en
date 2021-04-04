@@ -2,8 +2,8 @@
 unique-page-id: 37356565
 description: Sending a Tracked Email - Marketo Docs - Product Documentation
 title: Sending a Tracked Email
+exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 ---
-
 # Sending a Tracked Email {#sending-a-tracked-email}
 
 When sending an email with Marketo Sales Connect, views (email opens) and clicks (clicked links) will be tracked.

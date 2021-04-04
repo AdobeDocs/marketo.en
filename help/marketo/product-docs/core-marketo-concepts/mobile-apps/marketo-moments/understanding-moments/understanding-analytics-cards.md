@@ -2,8 +2,8 @@
 unique-page-id: 8781988
 description: Understanding Analytics Cards - Marketo Docs - Product Documentation
 title: Understanding Analytics Cards
+exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 ---
-
 # Understanding Analytics Cards {#understanding-analytics-cards}
 
 At the beginning of each month, Marketo Moments provides three different report cards: Acquired Leads, New Leads, and Unsubscribes. Each one shows you monthly performance and the trend over a six-month period.

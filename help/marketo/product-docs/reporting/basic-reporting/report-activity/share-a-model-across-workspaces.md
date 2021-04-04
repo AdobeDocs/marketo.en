@@ -2,8 +2,8 @@
 unique-page-id: 2360205
 description: Share a Model Across Workspaces - Marketo Docs - Product Documentation
 title: Share a Model Across Workspaces
+exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 ---
-
 # Share a Model Across Workspaces {#share-a-model-across-workspaces}
 
 Marketo gives you the ability to share a model(s) across workspaces. Here's how.

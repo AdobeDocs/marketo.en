@@ -2,8 +2,8 @@
 unique-page-id: 13795534
 description: Performance Insights Dashboards - Marketo Docs - Product Documentation
 title: Performance Insights Dashboards
+exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 ---
-
 # Performance Insights Dashboards {#performance-insights-dashboards}
 
 Learn more about the available dashboards in MPI.

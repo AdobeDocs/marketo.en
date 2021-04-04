@@ -2,8 +2,8 @@
 unique-page-id: 37356282
 description: Bulk Actions in Salesforce Lightning - Marketo Docs - Product Documentation
 title: Bulk Actions in Salesforce Lightning
+exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 ---
-
 # Bulk Actions in Salesforce Lightning {#bulk-actions-in-salesforce-lightning}
 
 Here's how to set up bulk actions in Salesforce Lightning.

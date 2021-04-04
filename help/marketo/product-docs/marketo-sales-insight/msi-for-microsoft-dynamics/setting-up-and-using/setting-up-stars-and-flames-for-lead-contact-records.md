@@ -2,8 +2,8 @@
 unique-page-id: 42762244
 description: Setting up Stars and Flames for Lead/Contact Records - Marketo Docs - Product Documentation
 title: Setting up Stars and Flames for Lead/Contact Records
+exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 ---
-
 # Setting up Stars and Flames for Lead/Contact Records {#setting-up-stars-and-flames-for-lead-contact-records}
 
 Stars and Flames on lead/contact records are dependent upon: Lead Score, Relative Score, Urgency, and Priority fields. These fields are available by default after you install and configure the MSI solution. If you don't have Stars and Flames, a prior setup/customization could have resulted in them being removed. Follow the steps below to add them.

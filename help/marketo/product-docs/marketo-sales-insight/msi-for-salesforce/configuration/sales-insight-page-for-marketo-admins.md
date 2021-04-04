@@ -2,8 +2,8 @@
 unique-page-id: 42762409
 description: Sales Insight Page for Marketo Admins - Marketo Docs - Product Documentation
 title: Sales Insight Page for Marketo Admins
+exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 ---
-
 # Sales Insight Page for Marketo Admins {#sales-insight-page-for-marketo-admins}
 
 Marketo Admins have certain privileges in Sales Insight. Learn what they are below.

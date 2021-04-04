@@ -1,8 +1,8 @@
 ---
 description: Campaign Sync Overview - Marketo Docs - Product Documentation
 title: Campaign Sync Overview
+exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 ---
-
 # Campaign Sync Overview {#campaign-sync-overview}
 
 As part of Campaign Sync, users can set up automation to operate on membership of a Dynamics campaign. Leads qualified to specific behaviors or demographics can be made part of Microsoft campaigns.

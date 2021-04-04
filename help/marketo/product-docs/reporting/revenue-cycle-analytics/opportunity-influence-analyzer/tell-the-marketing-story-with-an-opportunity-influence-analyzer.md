@@ -2,8 +2,8 @@
 unique-page-id: 2360237
 description: Tell the Marketing Story with an Opportunity Influence Analyzer - Marketo Docs - Product Documentation
 title: Tell the Marketing Story with an Opportunity Influence Analyzer
+exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 ---
-
 # Tell the Marketing Story with an Opportunity Influence Analyzer {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
 Use an Opportunity Influence Analyzer to illustrate marketing's role in important opportunities. Show how marketing influenced an opportunity, from first touch to opportunity creation and win, and beyond.

@@ -2,8 +2,8 @@
 unique-page-id: 14352595
 description: Add Video Content - Marketo Docs - Product Documentation
 title: Add Video Content
+exl-id: e82e9f8b-fdeb-4698-937c-a95a930355a7
 ---
-
 # Add Video Content {#add-video-content}
 
 Unfortunately, adding video content to a template and having it play in-line in the sent message is not available at this time.

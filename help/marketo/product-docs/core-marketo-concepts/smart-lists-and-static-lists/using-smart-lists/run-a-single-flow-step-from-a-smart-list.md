@@ -2,8 +2,8 @@
 unique-page-id: 557322
 description: Run a Single Flow Step from a Smart List - Marketo Docs - Product Documentation
 title: Run a Single Flow Step from a Smart List
+exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 ---
-
 # Run a Single Flow Step from a Smart List {#run-a-single-flow-step-from-a-smart-list}
 
 If you want to run a one-time only flow step, you can use a single flow step within a smart list instead of creating an entire smart campaign.

@@ -2,8 +2,8 @@
 unique-page-id: 12983101
 description: Map Custom Fields to Marketo - Marketo Docs - Product Documentation
 title: Map Custom Fields to Marketo
+exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 ---
-
 # Map Custom Fields to Marketo {#map-custom-fields-to-marketo}
 
 You may want to collect more than the standard information Facebook stores by default, such as how often someone uses your online delivery service. You can accomplish this by [creating custom questions](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) in your Facebook lead ads.

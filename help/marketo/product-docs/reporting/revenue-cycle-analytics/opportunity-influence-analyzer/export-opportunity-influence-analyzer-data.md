@@ -2,8 +2,8 @@
 unique-page-id: 2360394
 description: Export Opportunity Influence Analyzer Data - Marketo Docs - Product Documentation
 title: Export Opportunity Influence Analyzer Data
+exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 ---
-
 # Export Opportunity Influence Analyzer Data {#export-opportunity-influence-analyzer-data}
 
 To receive updates from your Revenue Cycle Explorer reports, and to share them, you can subscribe any email address to an existing report.

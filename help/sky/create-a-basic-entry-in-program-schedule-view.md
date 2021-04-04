@@ -1,8 +1,8 @@
 ---
 title: create-a-basic-entry-in-program-schedule-view
 description: Create a Basic Entry in Program Schedule View
+exl-id: c4b089f0-aaaa-42e8-8eb9-8b53dbd6a2d5
 ---
-
 # Create a Basic Entry in Program Schedule View
 
 <br>&nbsp;

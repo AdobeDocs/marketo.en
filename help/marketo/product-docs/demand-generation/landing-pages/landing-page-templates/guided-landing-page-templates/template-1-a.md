@@ -2,8 +2,8 @@
 unique-page-id: 7515620
 description: Template 1-A - Marketo Docs - Product Documentation
 title: Template 1-A
+exl-id: e2dd3c0a-405b-414a-bdbc-bd1cb85d6d13
 ---
-
 # Template 1-A {#template-a}
 
 [Download Template 1-A](https://docs.marketo.com/download/attachments/7515620/Template1-A.html?version=3&modificationDate=1432834576000&api=v2)

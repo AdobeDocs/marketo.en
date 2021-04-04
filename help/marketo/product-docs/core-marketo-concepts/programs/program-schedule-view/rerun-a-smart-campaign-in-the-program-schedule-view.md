@@ -2,8 +2,8 @@
 unique-page-id: 2953331
 description: Rerun a Smart Campaign in the Program Schedule View - Marketo Docs - Product Documentation
 title: Rerun a Smart Campaign in the Program Schedule View
+exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 ---
-
 # Rerun a Smart Campaign in the Program Schedule View {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
 You can easily create new runs of an existing smart campaign directly from the program schedule view.

@@ -2,8 +2,8 @@
 unique-page-id: 6094890
 description: Release Notes -February 2015 - Marketo Docs - Product Documentation
 title: Release Notes -February 2015
+exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 ---
-
 # Release Notes: February 2015 {#release-notes-february}
 
 The following features are included in the February 2015 release. Please check your Marketo Edition for feature availability. After the release, be sure to come back to find links to detailed articles for each feature. Drum roll...

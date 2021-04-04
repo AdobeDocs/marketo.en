@@ -2,8 +2,8 @@
 unique-page-id: 8783984
 description: Template 9-B - Marketo Docs - Product Documentation
 title: Template 9-B
+exl-id: 51e3d572-ab7d-44cb-b372-aacb856199d3
 ---
-
 # Template 9-B {#template-b}
 
 [Download Template 9-B](https://docs.marketo.com/download/attachments/8783984/template-9b.html?version=2&modificationdate=1438210694000&api=v2)

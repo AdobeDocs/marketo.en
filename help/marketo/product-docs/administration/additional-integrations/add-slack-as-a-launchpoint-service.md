@@ -2,8 +2,8 @@
 unique-page-id: 12983619
 description: Add Slack as a LaunchPoint Service - Marketo Docs - Product Documentation
 title: Add Slack as a LaunchPoint Service
+exl-id: 38c1501d-27ac-4c6c-967d-4decd10e0cb3
 ---
-
 # Add Slack as a LaunchPoint Service {#add-slack-as-a-launchpoint-service}
 
 There are two notification types included in the Slack integration:

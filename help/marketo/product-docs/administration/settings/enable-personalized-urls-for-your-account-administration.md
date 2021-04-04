@@ -2,8 +2,8 @@
 unique-page-id: 2360215
 description: Enable Personalized URLs for Your Account (Administration) - Marketo Docs - Product Documentation
 title: Enable Personalized URLs for Your Account (Administration)
+exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 ---
-
 # Enable Personalized URLs for Your Account (Administration) {#enable-personalized-urls-for-your-account-administration}
 
 Personalized URLs are great for print mail campaigns.

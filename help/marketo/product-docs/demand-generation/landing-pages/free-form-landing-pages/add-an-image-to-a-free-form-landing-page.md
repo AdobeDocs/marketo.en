@@ -2,8 +2,8 @@
 unique-page-id: 2359703
 description: Add an Image to a Free-Form Landing Page - Marketo Docs - Product Documentation
 title: Add an Image to a Free-Form Landing Page
+exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
 ---
-
 # Add an Image to a Free-Form Landing Page {#add-an-image-to-a-free-form-landing-page}
 
 >[!PREREQUISITES]

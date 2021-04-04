@@ -2,8 +2,8 @@
 unique-page-id: 2359451
 description: Choose an Existing Email - Marketo Docs - Product Documentation
 title: Choose an Existing Email
+exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 ---
-
 # Choose an Existing Email {#choose-an-existing-email}
 
 >[!PREREQUISITES]

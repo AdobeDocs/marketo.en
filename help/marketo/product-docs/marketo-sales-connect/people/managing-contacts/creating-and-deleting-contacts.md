@@ -2,8 +2,8 @@
 unique-page-id: 14352516
 description: Creating and Deleting Contacts - Marketo Docs - Product Documentation
 title: Creating and Deleting Contacts
+exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 ---
-
 # Creating and Deleting Contacts {#creating-and-deleting-contacts}
 
 ## Creating Contacts {#creating-contacts}

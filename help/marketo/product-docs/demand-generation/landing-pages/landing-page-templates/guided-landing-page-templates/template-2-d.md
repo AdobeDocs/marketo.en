@@ -2,8 +2,8 @@
 unique-page-id: 7516478
 description: Template 2-D - Marketo Docs - Product Documentation
 title: Template 2-D
+exl-id: 365cc108-ed50-4229-b267-9688ed31056e
 ---
-
 # Template 2-D {#template-d}
 
 [Download Template 2-D](https://docs.marketo.com/download/attachments/7516478/template2-d.html?version=1&modificationdate=1433229358000&api=v2)

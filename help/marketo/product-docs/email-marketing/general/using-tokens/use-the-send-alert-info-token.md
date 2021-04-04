@@ -2,8 +2,8 @@
 unique-page-id: 2952678
 description: Use the Send Alert Info Token {{SP_Send_Alert_Info}} - Marketo Docs - Product Documentation
 title: Use the Send Alert Info Token
+exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 ---
-
 # Use the Send Alert Info Token {#use-the-send-alert-info-token-sp-send-alert-info}
 
 The `{{SP_Send_Alert_Info}}` token is a special token to be used when creating alert emails for your sales team.

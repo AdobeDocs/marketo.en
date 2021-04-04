@@ -2,8 +2,8 @@
 unique-page-id: 37355758
 description: Adding Members to an Event Program - Marketo Docs - Product Documentation
 title: Adding Members to an Event Program
+exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 ---
-
 # Adding Members to an Event Program {#adding-members-to-an-event-program}
 
 This article only applies to users who utilize Event Cap or Event Goals.

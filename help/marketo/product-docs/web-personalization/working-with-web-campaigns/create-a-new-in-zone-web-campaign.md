@@ -2,8 +2,8 @@
 unique-page-id: 4719400
 description: Create a New In Zone Web Campaign - Marketo Docs - Product Documentation
 title: Create a New In Zone Web Campaign
+exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 ---
-
 # Create a New In Zone Web Campaign {#create-a-new-in-zone-web-campaign}
 
 A web campaign is a customized reaction associated with a specific segment and can be a [dialog box](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) on your website, an in zone replacement, a [widget feature](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) or an email alert. An In Zone web campaign replaces an element of your website based on the Zone id with content or graphical banners.

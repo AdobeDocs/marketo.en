@@ -2,8 +2,8 @@
 unique-page-id: 2949680
 description: SEO - Keyword Trends Chart - Marketo Docs - Product Documentation
 title: SEO - Keyword Trends Chart
+exl-id: 093f713b-e9f1-48d6-b4d8-7c5ef349a2ae
 ---
-
 # SEO - Keyword Trends Chart {#seo-keyword-trends-chart}
 
 It's important to monitor how your keyword [SERP Ranks](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) are trending over time. Check this cool chart to monitor progress.

@@ -1,8 +1,8 @@
 ---
 title: clone-a-smart-campaign
 description: Clone a Smart Campaign
+exl-id: bec4dfc3-e25a-4c8e-a9aa-67f346bff1ed
 ---
-
 # Clone a Smart Campaign
 
 <br>&nbsp;

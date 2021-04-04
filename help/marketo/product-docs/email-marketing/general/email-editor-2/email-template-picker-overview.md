@@ -2,8 +2,8 @@
 unique-page-id: 10912237
 description: Email Template Picker Overview - Marketo Docs - Product Documentation
 title: Email Template Picker Overview
+exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 ---
-
 # Email Template Picker Overview {#email-template-picker-overview}
 
 When you [create an email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), you have several free templates to choose from. You can also create your own template and save it for future use.

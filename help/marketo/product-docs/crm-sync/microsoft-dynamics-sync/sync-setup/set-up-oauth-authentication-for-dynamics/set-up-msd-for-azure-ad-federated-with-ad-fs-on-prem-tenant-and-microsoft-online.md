@@ -1,8 +1,8 @@
 ---
 description: Set up MSD for Azure AD Federated with AD FS On-prem, Tenant and Microsoft Online - Marketo Docs - Product Documentation
 title: Set up MSD for Azure AD Federated with AD FS On-prem, Tenant and Microsoft Online
+exl-id: b6c10048-d27e-4135-beef-232deddc2984
 ---
-
 # Set up MSD for Azure AD Federated with AD FS On-prem, Tenant and Microsoft Online {#set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online}
 
 ## Set up Microsoft Dynamics CRM App {#set-up-microsoft-dynamics-crm-app}

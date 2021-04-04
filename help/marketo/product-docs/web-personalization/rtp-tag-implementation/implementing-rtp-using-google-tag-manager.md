@@ -2,8 +2,8 @@
 unique-page-id: 4720145
 description: Implementing RTP using Google Tag Manager - Marketo Docs - Product Documentation
 title: Implementing RTP using Google Tag Manager
+exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 ---
-
 # Implementing RTP using Google Tag Manager {#implementing-rtp-using-google-tag-manager}
 
 To implement your RTP tag please follow the installation instructions below.

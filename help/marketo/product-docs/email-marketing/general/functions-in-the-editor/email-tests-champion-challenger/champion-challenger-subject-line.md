@@ -2,8 +2,8 @@
 unique-page-id: 2359557
 description: Champion/Challenger -Subject Line - Marketo Docs - Product Documentation
 title: Champion/Challenger -Subject Line
+exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 ---
-
 # Champion/Challenger: Subject Line {#champion-challenger-subject-line}
 
 You can easily test multiple subject lines. When the test is over, send out emails with the most effective one. Here's how to do it.

@@ -2,8 +2,8 @@
 unique-page-id: 2359661
 description: Set a Form Field as Hidden - Marketo Docs - Product Documentation
 title: Set a Form Field as Hidden
+exl-id: 6f293477-69ec-4f56-9800-cc1baaf80f94
 ---
-
 # Set a Form Field as Hidden {#set-a-form-field-as-hidden}
 
 Hidden form fields can silently capture data without the visitor's input. Here's how it works.

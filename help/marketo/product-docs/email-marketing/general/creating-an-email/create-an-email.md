@@ -2,8 +2,8 @@
 unique-page-id: 10912163
 description: Create an Email - Marketo Docs - Product Documentation
 title: Create an Email
+exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 ---
-
 # Create an Email {#create-an-email}
 
 There are two main ways to create an email in Marketo. Let's look at both.

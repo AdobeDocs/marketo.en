@@ -2,8 +2,8 @@
 unique-page-id: 2360052
 description: Web Pages Viewed, Web Page Activity Report - Marketo Docs - Product Documentation
 title: Web Pages Viewed, Web Page Activity Report
+exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 ---
-
 # Web Pages Viewed, Web Page Activity Report {#web-pages-viewed-web-page-activity-report}
 
 From a [Web Page Activity report](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), you can see the specific pages that were viewed by the people in the report.

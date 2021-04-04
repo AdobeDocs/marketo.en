@@ -2,8 +2,8 @@
 unique-page-id: 7504238
 description: Custom RTP Dashboards in Google Universal Analytics - Marketo Docs - Product Documentation
 title: Custom RTP Dashboards in Google Universal Analytics
+exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 ---
-
 # Custom RTP Dashboards in Google Universal Analytics {#custom-rtp-dashboards-in-google-universal-analytics}
 
 >[!PREREQUISITES]

@@ -2,8 +2,8 @@
 unique-page-id: 11378845
 description: Add Vibes as a LaunchPoint Service - Marketo Docs - Product Documentation
 title: Add Vibes as a LaunchPoint Service
+exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 ---
-
 # Add Vibes as a LaunchPoint Service {#add-vibes-as-a-launchpoint-service}
 
 You can send SMS messages to the people in your Vibes lists and use the SMS activity to trigger and filter campaigns. First, you need to add Vibes as a LaunchPoint service.

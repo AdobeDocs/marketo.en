@@ -2,8 +2,8 @@
 unique-page-id: 2360276
 description: Hide/Unhide a Program Channel - Marketo Docs - Product Documentation
 title: Hide/Unhide a Program Channel
+exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 ---
-
 # Hide/Unhide a Program Channel {#hide-unhide-a-program-channel}
 
 >[!NOTE]
@@ -33,4 +33,3 @@ Easy come, easy go!
 1. Unhide a Program Channel by checking the Show Hidden checkbox.
 
    ![](assets/image2014-9-24-15-3a47-3a24.png)
-

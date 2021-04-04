@@ -2,8 +2,8 @@
 unique-page-id: 4719287
 description: Edit Initial Field Mappings - Marketo Docs - Product Documentation
 title: Edit Initial Field Mappings
+exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 ---
-
 # Edit Initial Field Mappings {#edit-initial-field-mappings}
 
 >[!NOTE]

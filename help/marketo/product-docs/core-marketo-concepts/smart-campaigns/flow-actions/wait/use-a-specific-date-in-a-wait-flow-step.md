@@ -2,8 +2,8 @@
 unique-page-id: 1146976
 description: Use a Specific Date in a Wait Flow Step - Marketo Docs - Product Documentation
 title: Use a Specific Date in a Wait Flow Step
+exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 ---
-
 # Use a Specific Date in a Wait Flow Step {#use-a-specific-date-in-a-wait-flow-step}
 
 You can use the **Wait** flow step to pause a person's journey through a smart campaign until a particular date.

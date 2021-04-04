@@ -2,8 +2,8 @@
 unique-page-id: 2359608
 description: Change the Form Font Family - Marketo Docs - Product Documentation
 title: Change the Form Font Family
+exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 ---
-
 # Change the Form Font Family {#change-the-form-font-family}
 
 Google Fonts are awesome, and we built them right into the form editor. Check it out!

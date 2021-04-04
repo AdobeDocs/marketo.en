@@ -2,8 +2,8 @@
 unique-page-id: 11380774
 description: Account Score - Marketo Docs - Product Documentation
 title: Account Score
+exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 ---
-
 # Account Score {#account-score}
 
 Account Scoring is a vital part of Target Account Management. It helps you determine the level of engagement of your accounts.

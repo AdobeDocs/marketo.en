@@ -2,8 +2,8 @@
 unique-page-id: 2360211
 description: Enable the Advanced List Import Permission on a Role - Marketo Docs - Product Documentation
 title: Enable the Advanced List Import Permission on a Role
+exl-id: 8bbdd2ee-881f-4fc7-93bc-624b9f636f95
 ---
-
 # Enable the Advanced List Import Permission on a Role {#enable-the-advanced-list-import-permission-on-a-role}
 
 List Import Mode is only available for users with a role that has the Advanced List Import permission enabled. All other users won’t see the List Import Mode drop-down when importing a list of people and any list they import defaults to the Normal import mode.

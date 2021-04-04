@@ -2,8 +2,8 @@
 unique-page-id: 1147150
 description: Use Tags in a Program - Marketo Docs - Product Documentation
 title: Use Tags in a Program
+exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 ---
-
 # Use Tags in a Program {#use-tags-in-a-program}
 
 Tags are attributes that describe your programs and are used to group program types in reporting.

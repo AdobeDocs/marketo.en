@@ -2,8 +2,8 @@
 unique-page-id: 14352472
 description: Edit Salesforce Field Accesibility - Marketo Docs - Product Documentation
 title: Edit Salesforce Field Accesibility
+exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 ---
-
 # Edit Salesforce Field Accesibility {#edit-salesforce-field-accesibility}
 
 If you are not seeing email activity log to Salesforce, it might be due to restrictions on your team's Field Accessibility.

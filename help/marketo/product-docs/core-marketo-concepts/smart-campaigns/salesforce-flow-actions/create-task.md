@@ -2,8 +2,8 @@
 unique-page-id: 1147017
 description: Create Task - Marketo Docs - Product Documentation
 title: Create Task
+exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 ---
-
 # Create Task {#create-task}
 
 As a marketer, you have information that can assist sales in closing deals. You can create tasks to let them know what they should do and when they should do it.

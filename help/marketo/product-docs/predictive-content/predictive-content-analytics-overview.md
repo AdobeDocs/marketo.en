@@ -2,8 +2,8 @@
 unique-page-id: 12981204
 description: Predictive Content Analytics Overview - Marketo Docs - Product Documentation
 title: Predictive Content Analytics Overview
+exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 ---
-
 # Predictive Content Analytics Overview {#predictive-content-analytics-overview}
 
 Use content analytics to gain further insights into your existing content, learn (based on AI and Predictive algorithms) what content works for your audiences, and increase ROI from your marketing efforts.

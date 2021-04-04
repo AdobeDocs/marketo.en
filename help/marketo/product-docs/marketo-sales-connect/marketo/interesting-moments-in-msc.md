@@ -2,8 +2,8 @@
 unique-page-id: 30082174
 description: Interesting Moments in MSC - Marketo Docs - Product Documentation
 title: Interesting Moments in MSC
+exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 ---
-
 # Interesting Moments in MSC {#interesting-moments-in-msc}
 
 Interesting moments are the key to communicating with your sales team through Marketo Sales Connect.

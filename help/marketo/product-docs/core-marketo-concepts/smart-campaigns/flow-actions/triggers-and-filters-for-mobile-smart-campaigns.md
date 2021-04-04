@@ -2,8 +2,8 @@
 unique-page-id: 9437991
 description: Triggers and Filters for Mobile Smart Campaigns - Marketo Docs - Product Documentation
 title: Triggers and Filters for Mobile Smart Campaigns
+exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 ---
-
 # Triggers and Filters for Mobile Smart Campaigns {#triggers-and-filters-for-mobile-smart-campaigns}
 
 You can set up triggers and filters for a Mobile App smart campaign.

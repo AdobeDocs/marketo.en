@@ -2,8 +2,8 @@
 unique-page-id: 7516419
 description: Add Marketo Sales Insight Tab and Buttons to Salesforce - Marketo Docs - Product Documentation
 title: Add Marketo Sales Insight Tab and Buttons to Salesforce
+exl-id: 9d76d4c8-ecb4-4159-84d1-9cdd3ec02221
 ---
-
 # Add Marketo Sales Insight Tab and Buttons to Salesforce {#add-marketo-sales-insight-tab-and-buttons-to-salesforce}
 
 You can add custom Marketo Sales Insight tab and buttons to your Salesforce view for easy access. Interested? Here's how.

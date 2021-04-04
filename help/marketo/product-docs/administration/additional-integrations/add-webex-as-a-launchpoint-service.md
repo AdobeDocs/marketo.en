@@ -2,8 +2,8 @@
 unique-page-id: 7512272
 description: Add WebEx as a LaunchPoint Service - Marketo Docs - Product Documentation
 title: Add WebEx as a LaunchPoint Service
+exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 ---
-
 # Add WebEx as a LaunchPoint Service {#add-webex-as-a-launchpoint-service}
 
 Marketo manages your WebEx webinar registration and attendance.

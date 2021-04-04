@@ -2,8 +2,8 @@
 unique-page-id: 2949232
 description: SEO - Managing Lists - Marketo Docs - Product Documentation
 title: SEO - Managing Lists
+exl-id: 6b78f8be-fc42-4431-a9c7-703612ec448f
 ---
-
 # SEO - Managing Lists {#seo-managing-lists}
 
 You can add things to lists when you are adding keywords, pages, page issues, or inbound links. Lists help you stay organized and let you filter reports to only see data on that list. Here's how to make them:

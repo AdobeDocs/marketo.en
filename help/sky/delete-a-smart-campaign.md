@@ -1,8 +1,8 @@
 ---
 title: delete-a-smart-campaign
 description: Delete a Smart Campaign
+exl-id: f4647927-5542-439b-984e-4bce43c990e9
 ---
-
 # Delete a Smart Campaign
 
 <br>&nbsp;

@@ -2,8 +2,8 @@
 unique-page-id: 9437822
 description: Template 15-C - Marketo Docs - Product Documentation
 title: Template 15-C
+exl-id: 63850bd7-1e63-4fcb-b420-d4528c17a914
 ---
-
 # Template 15-C {#template-c}
 
 [Download Template 15-C](https://docs.marketo.com/download/attachments/9437822/template-15c.html?version=1&modificationdate=1438980471000&api=v2)

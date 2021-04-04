@@ -2,8 +2,8 @@
 unique-page-id: 14352586
 description: Emails Going to Spam - Marketo Docs - Product Documentation
 title: Emails Going to Spam
+exl-id: c3826a48-cb02-41a2-a37a-309777942501
 ---
-
 # Emails Going to Spam {#emails-going-to-spam}
 
 We work very hard to ensure that our deliverability rates remain high. Still, there are certain user behaviors that can get emails routed to the Spam folder.

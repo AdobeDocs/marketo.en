@@ -2,8 +2,8 @@
 unique-page-id: 2360411
 description: Create a Success Path Analyzer - Marketo Docs - Product Documentation
 title: Create a Success Path Analyzer
+exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 ---
-
 # Create a Success Path Analyzer {#create-a-success-path-analyzer}
 
 Get a visual representation of velocity and flow through your Revenue Cycle Model.

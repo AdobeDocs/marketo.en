@@ -2,8 +2,8 @@
 unique-page-id: 2359799
 description: Publish a Sweepstakes - Marketo Docs - Product Documentation
 title: Publish a Sweepstakes
+exl-id: c02d213c-a965-4737-817a-ce8bd7491853
 ---
-
 # Publish a Sweepstakes {#publish-a-sweepstakes}
 
 After you [create a sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), you can publish it on your Marketo landing pages, on your website, and your Facebook.

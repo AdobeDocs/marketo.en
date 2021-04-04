@@ -2,8 +2,8 @@
 unique-page-id: 11378809
 description: Named Account Overview - Marketo Docs - Product Documentation
 title: Named Account Overview
+exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 ---
-
 # Named Account Overview {#named-account-overview}
 
 Named Accounts hold the people from the companies you're targeting. The dashboard provides current data of each attribute for all your named accounts.

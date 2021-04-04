@@ -2,8 +2,8 @@
 unique-page-id: 2360331
 description: Change the Type of a Marketo Custom Field - Marketo Docs - Product Documentation
 title: Change the Type of a Marketo Custom Field
+exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 ---
-
 # Change the Type of a Marketo Custom Field {#change-the-type-of-a-marketo-custom-field}
 
 Here's how to change the field type of a Custom Field.

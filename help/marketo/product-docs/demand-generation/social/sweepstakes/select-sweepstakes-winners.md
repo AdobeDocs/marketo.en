@@ -2,8 +2,8 @@
 unique-page-id: 2359805
 description: Select Sweepstakes Winners - Marketo Docs - Product Documentation
 title: Select Sweepstakes Winners
+exl-id: 4f6d0b39-86c6-468f-97ad-d65ef3f13b9c
 ---
-
 # Select Sweepstakes Winners {#select-sweepstakes-winners}
 
 When you [publish a sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), you need to select winners for each drawing. When you do, your [fulfillment email](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) is automatically sent to them.

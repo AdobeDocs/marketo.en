@@ -2,8 +2,8 @@
 unique-page-id: 8783929
 description: Template 6-B - Marketo Docs - Product Documentation
 title: Template 6-B
+exl-id: dea92a6b-d2ba-4b64-86e5-5a4366e164fd
 ---
-
 # Template 6-B {#template-b}
 
 [Download Template 6-B](https://docs.marketo.com/download/attachments/8783929/template-6b.html?version=1&modificationdate=1437693110000&api=v2)

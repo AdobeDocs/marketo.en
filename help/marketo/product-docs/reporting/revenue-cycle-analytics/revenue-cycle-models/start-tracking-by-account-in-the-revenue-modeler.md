@@ -2,8 +2,8 @@
 unique-page-id: 4718681
 description: Start Tracking by Account in the Revenue Modeler - Marketo Docs - Product Documentation
 title: Start Tracking by Account in the Revenue Modeler
+exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 ---
-
 # Start Tracking by Account in the Revenue Modeler {#start-tracking-by-account-in-the-revenue-modeler}
 
 With the Revenue Stage Modeler and Revenue Explorer, you gain insight into the performance of your leads and accounts as they progress through your model.

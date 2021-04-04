@@ -1,8 +1,8 @@
 ---
 title: rename-a-stream
 description: Rename a Stream
+exl-id: 01d710bf-b1ea-455e-a17e-251794ab39db
 ---
-
 # Rename a Stream
 
 <br>&nbsp;

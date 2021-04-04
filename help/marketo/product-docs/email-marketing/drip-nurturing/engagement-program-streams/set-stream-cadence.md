@@ -2,8 +2,8 @@
 unique-page-id: 2359665
 description: Set Stream Cadence - Marketo Docs - Product Documentation
 title: Set Stream Cadence
+exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 ---
-
 # Set Stream Cadence {#set-stream-cadence}
 
 You can send engagement content at any interval you want. For example: once a week, or every third Tuesday of the month.

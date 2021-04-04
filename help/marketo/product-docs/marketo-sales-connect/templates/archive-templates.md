@@ -2,8 +2,8 @@
 unique-page-id: 14352640
 description: Archive Templates - Marketo Docs - Product Documentation
 title: Archive Templates
+exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
 ---
-
 # Archive Templates {#archive-templates}
 
 Archive content to clean up your Sales Content account without losing any template data.

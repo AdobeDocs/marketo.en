@@ -2,8 +2,8 @@
 unique-page-id: 2359447
 description: Create a Segmentation - Marketo Docs - Product Documentation
 title: Create a Segmentation
+exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 ---
-
 # Create a Segmentation {#create-a-segmentation}
 
 Segmentation allows you to group people into distinct profiles for reporting and dynamic content. Here's how to create them.

@@ -2,8 +2,8 @@
 unique-page-id: 3571743
 description: Configure Marketo Sales Insight in Salesforce Professional Edition - Marketo Docs - Product Documentation
 title: Configure Marketo Sales Insight in Salesforce Professional Edition
+exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 ---
-
 # Configure Marketo Sales Insight in Salesforce Professional Edition {#configure-marketo-sales-insight-in-salesforce-professional-edition}
 
 Here are the steps you need to take to configure Marketo Sales Insight in Salesforce Professional Edition. Let's get started.

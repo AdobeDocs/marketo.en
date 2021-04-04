@@ -2,8 +2,8 @@
 unique-page-id: 2953469
 description: SFDC Sync -Campaign Sync - Marketo Docs - Product Documentation
 title: SFDC Sync -Campaign Sync
+exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
 ---
-
 # SFDC Sync: Campaign Sync {#sfdc-sync-campaign-sync}
 
 Marketo Programs can be synced with Salesforce Campaigns. Here is an overview of how this works.

@@ -1,8 +1,8 @@
 ---
 title: delete-an-entry-in-program-schedule-view
 description: Delete an Entry in Program Schedule View
+exl-id: edae7223-7add-41cd-b059-4cadbb27c86d
 ---
-
 # Delete an Entry in Program Schedule View
 
 <br>&nbsp;

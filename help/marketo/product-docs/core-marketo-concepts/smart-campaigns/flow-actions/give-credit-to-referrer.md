@@ -2,8 +2,8 @@
 unique-page-id: 1147040
 description: Give Credit to Referrer - Marketo Docs - Product Documentation
 title: Give Credit to Referrer
+exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 ---
-
 # Give Credit to Referrer {#give-credit-to-referrer}
 
 ## Overview {#overview}

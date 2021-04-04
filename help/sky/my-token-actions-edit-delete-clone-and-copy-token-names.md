@@ -1,8 +1,8 @@
 ---
 title: my-token-actions-edit-delete-clone-and-copy-token-names
 description: My Token Actions Edit, Delete, Clone, and Copy Token Names
+exl-id: 5ef1ac8b-a7a3-4106-a72f-ce6de8b1bc0d
 ---
-
 # My Token Actions: Edit, Delete, Clone, and Copy Token Names
 
 ## Edit a Token

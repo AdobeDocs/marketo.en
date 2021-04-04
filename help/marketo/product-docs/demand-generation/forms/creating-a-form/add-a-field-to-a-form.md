@@ -2,8 +2,8 @@
 unique-page-id: 2359543
 description: Add a Field to a Form - Marketo Docs - Product Documentation
 title: Add a Field to a Form
+exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 ---
-
 # Add a Field to a Form {#add-a-field-to-a-form}
 
 Once you've [created your form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) and [selected a theme](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md), you may want to add additional fields for people to fill out. Here's how.

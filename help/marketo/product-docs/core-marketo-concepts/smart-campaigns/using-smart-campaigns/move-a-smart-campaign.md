@@ -2,8 +2,8 @@
 unique-page-id: 6094949
 description: Move a Smart Campaign - Marketo Docs - Product Documentation
 title: Move a Smart Campaign
+exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 ---
-
 # Move a Smart Campaign {#move-a-smart-campaign}
 
 Move a smart campaign between different programs or folders by using drag-and-drop or the move feature in the tree.

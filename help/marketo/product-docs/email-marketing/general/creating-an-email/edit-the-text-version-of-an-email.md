@@ -2,8 +2,8 @@
 unique-page-id: 11372054
 description: Edit the Text Version of an Email - Marketo Docs - Product Documentation
 title: Edit the Text Version of an Email
+exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 ---
-
 # Edit the Text Version of an Email {#edit-the-text-version-of-an-email}
 
 When you create an email, you may want its text version to be worded differently than the HTML version. By default, Marketo automatically copies the text content of any rich text element that's in your email over to the Text version. Here's how to edit it.

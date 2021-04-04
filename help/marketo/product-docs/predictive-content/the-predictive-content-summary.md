@@ -2,8 +2,8 @@
 unique-page-id: 11384634
 description: The Predictive Content Summary - Marketo Docs - Product Documentation
 title: The Predictive Content Summary
+exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 ---
-
 # The Predictive Content Summary {#the-predictive-content-summary}
 
 The Predictive Content Summary displays the information you need about about your predictive content at a glance, with tables, graphs, and current numbers.  

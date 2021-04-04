@@ -2,8 +2,8 @@
 unique-page-id: 2951259
 description: Custom Field Type Glossary - Marketo Docs - Product Documentation
 title: Custom Field Type Glossary
+exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 ---
-
 # Custom Field Type Glossary {#custom-field-type-glossary}
 
 When you create a custom field in Marketo you have a list of types to choose from.

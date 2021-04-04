@@ -2,8 +2,8 @@
 unique-page-id: 2359710
 description: Approve, Unapprove, or Delete a Landing Page - Marketo Docs - Product Documentation
 title: Approve, Unapprove, or Delete a Landing Page
+exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 ---
-
 # Approve, Unapprove, or Delete a Landing Page {#approve-unapprove-or-delete-a-landing-page}
 
 Landing pages are in draft mode until you approve them. Approval makes pages available in the rest of the system. When you edit an approved landing page, Marketo saves the draft, but continues to use the approved version until you approve the draft.

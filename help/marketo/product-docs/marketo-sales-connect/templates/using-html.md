@@ -2,8 +2,8 @@
 unique-page-id: 14352594
 description: Using HTML - Marketo Docs - Product Documentation
 title: Using HTML
+exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
 ---
-
 # Using HTML {#using-html}
 
 1. Copy the source code from your emails in the tool you use to create emails in HTML (e.g. Marketo's Email Editor).

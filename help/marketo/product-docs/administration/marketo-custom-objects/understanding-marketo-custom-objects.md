@@ -2,8 +2,8 @@
 unique-page-id: 10093188
 description: Understanding Marketo Custom Objects - Marketo Docs - Product Documentation
 title: Understanding Marketo Custom Objects
+exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 ---
-
 # Understanding Marketo Custom Objects {#understanding-marketo-custom-objects}
 
 Use custom objects to track metrics specific to your business.

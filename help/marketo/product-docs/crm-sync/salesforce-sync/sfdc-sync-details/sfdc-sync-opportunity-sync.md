@@ -2,8 +2,8 @@
 unique-page-id: 2953467
 description: SFDC Sync -Opportunity Sync - Marketo Docs - Product Documentation
 title: SFDC Sync -Opportunity Sync
+exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 ---
-
 # SFDC Sync: Opportunity Sync {#sfdc-sync-opportunity-sync}
 
 ## How are opportunity details kept in sync between the two systems? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}

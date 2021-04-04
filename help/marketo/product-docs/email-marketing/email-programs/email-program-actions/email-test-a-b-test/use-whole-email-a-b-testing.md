@@ -2,8 +2,8 @@
 unique-page-id: 2359502
 description: Use "Whole Email" A/B Testing - Marketo Docs - Product Documentation
 title: Use "Whole Email" A/B Testing
+exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 ---
-
 # Use "Whole Email" A/B Testing {#use-whole-email-a-b-testing}
 
 You can easily A/B test your emails. One great test is the **Whole Email** test. Here's how to set it up.

@@ -2,8 +2,8 @@
 unique-page-id: 2359610
 description: Change the Form Font Size - Marketo Docs - Product Documentation
 title: Change the Form Font Size
+exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 ---
-
 # Change the Form Font Size {#change-the-form-font-size}
 
 Marketo makes it easy for you to customize the look and feel of your forms. One thing you may want to do is change the font size. Here's how.

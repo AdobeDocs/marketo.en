@@ -2,8 +2,8 @@
 unique-page-id: 13795492
 description: Performance Insights Settings - Marketo Docs - Product Documentation
 title: Performance Insights Settings
+exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 ---
-
 # Performance Insights Settings {#performance-insights-settings}
 
 Learn about the different Settings options in MPI.

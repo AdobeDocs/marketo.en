@@ -1,8 +1,8 @@
 ---
 title: schedule-a-batch-smart-campaign-to-run-later
 description: Schedule a Batch Smart Campaign to Run Later
+exl-id: 66730a0b-a0d2-45e6-ad66-e99b03ee89d2
 ---
-
 # Schedule a Batch Smart Campaign to Run Later
 
 <br>&nbsp;

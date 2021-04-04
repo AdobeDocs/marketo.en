@@ -1,8 +1,8 @@
 ---
 title: importing-assets-with-adobe-experience-manager
 description: Importing Assets with Adobe Experience Manager
+exl-id: f22be520-c1ea-4e7e-9fc4-cdbee34d27a4
 ---
-
 # Importing Assets with Adobe Experience Manager
 
 <br>&nbsp;

@@ -2,8 +2,8 @@
 unique-page-id: 2360358
 description: Restrict User Login to SSO Only - Marketo Docs - Product Documentation
 title: Restrict User Login to SSO Only
+exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 ---
-
 # Restrict User Login to SSO Only {#restrict-user-login-to-sso-only}
 
 If you're [using SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) and want to ensure users cannot bypass the SSO security, follow these instructions.

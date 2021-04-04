@@ -2,8 +2,8 @@
 unique-page-id: 11382829
 description: Marketo Outlook Plugin Uninstall by IT - Marketo Docs - Product Documentation
 title: Marketo Outlook Plugin Uninstall by IT
+exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 ---
-
 # Marketo Outlook Plugin Uninstall by IT {#marketo-outlook-plugin-uninstall-by-it}
 
 Here's how IT can uninstall the Marketo Outlook Plugin remotely.

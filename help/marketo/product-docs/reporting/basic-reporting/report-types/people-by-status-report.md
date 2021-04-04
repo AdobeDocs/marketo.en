@@ -2,8 +2,8 @@
 unique-page-id: 2360012
 description: People by Status Report - Marketo Docs - Product Documentation
 title: People by Status Report
+exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 ---
-
 # People by Status Report {#people-by-status-report}
 
 Review how well you're moving people through the process by checking how many of them appear in each _Person Status_ value every month.

@@ -2,8 +2,8 @@
 unique-page-id: 7504725
 description: Saving a Revenue Explorer Report - Marketo Docs - Product Documentation
 title: Saving a Revenue Explorer Report
+exl-id: 9c63d714-0bd3-42d7-844a-921201bf53bc
 ---
-
 # Saving a Revenue Explorer Report {#saving-a-revenue-explorer-report}
 
 Revenue Explorer reports can be saved to the file of your choice.

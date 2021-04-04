@@ -2,8 +2,8 @@
 unique-page-id: 2359759
 description: Customize Social App Button - Marketo Docs - Product Documentation
 title: Customize Social App Button
+exl-id: 0c5baefe-8339-4f7e-9d4f-a34704685b11
 ---
-
 # Customize Social App Button {#customize-social-app-button}
 
 When you create a [social button](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) or a [referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you can customize the appearance of the buttons.

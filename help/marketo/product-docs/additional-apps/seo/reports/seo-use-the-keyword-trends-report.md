@@ -2,8 +2,8 @@
 unique-page-id: 2949273
 description: SEO - Use the Keyword Trends Report - Marketo Docs - Product Documentation
 title: SEO - Use the Keyword Trends Report
+exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 ---
-
 # SEO - Use the Keyword Trends Report {#seo-use-the-keyword-trends-report}
 
 In this report, you can see how you are ranked on keywords over time.
@@ -56,4 +56,3 @@ In this report, you can see how you are ranked on keywords over time.
    >[!NOTE]
    >
    >[Using the Competitive KW Rank Trends Report](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
-  

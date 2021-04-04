@@ -2,8 +2,8 @@
 unique-page-id: 14352404
 description: Admin Settings Tab - Marketo Docs - Product Documentation
 title: Admin Settings Tab
+exl-id: 26601f09-e454-4111-9406-157e52e48802
 ---
-
 # Admin Settings Tab {#admin-settings-tab}
 
 The Admin Settings tab will allow the Admin on any account to both see their team's settings (in regards to plan limits), as well as mass control the way their team's emails are logged in Salesforce.

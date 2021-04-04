@@ -2,8 +2,8 @@
 unique-page-id: 14352422
 description: What are the Latest Client Versions? - Marketo Docs - Product Documentation
 title: What are the Latest Client Versions?
+exl-id: 00f3537e-358d-4540-b569-085674c360a4
 ---
-
 # What are the Latest Client Versions? {#what-are-the-latest-client-versions}
 
 Below are the latest versions for all Sales Connect clients.

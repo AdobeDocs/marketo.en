@@ -2,8 +2,8 @@
 unique-page-id: 7514009
 description: Understanding the Program Revenue Stage Analysis Area - Marketo Docs - Product Documentation
 title: Understanding the Program Revenue Stage Analysis Area
+exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
 ---
-
 # Understanding the Program Revenue Stage Analysis Area {#understanding-the-program-revenue-stage-analysis-area}
 
 This analysis area allows you to analyze the effectiveness of individual programs or to see summarized results by channel. It provides insights into how many of the new names generated have reached particular success path stages within your revenue cycle model.  

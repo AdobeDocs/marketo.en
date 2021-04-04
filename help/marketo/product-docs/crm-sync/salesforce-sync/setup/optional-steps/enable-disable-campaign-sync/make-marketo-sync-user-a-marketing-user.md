@@ -2,8 +2,8 @@
 unique-page-id: 8782944
 description: Make Marketo Sync User a Marketing User - Marketo Docs - Product Documentation
 title: Make Marketo Sync User a Marketing User
+exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 ---
-
 # Make Marketo Sync User a Marketing User {#make-marketo-sync-user-a-marketing-user}
 
 The [Marketo sync user](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) needs to be a Marketing user for the Salesforce campaign sync to work properly. Here is how to make the user a Marketing user in Salesforce.

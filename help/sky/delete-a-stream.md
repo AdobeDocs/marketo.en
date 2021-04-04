@@ -1,8 +1,8 @@
 ---
 title: delete-a-stream
 description: Delete a Stream
+exl-id: 813e1ba6-96a0-4359-a146-6c7a46ceb4c8
 ---
-
 # Delete a Stream
 
 <br>&nbsp;

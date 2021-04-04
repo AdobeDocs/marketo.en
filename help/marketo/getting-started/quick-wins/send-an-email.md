@@ -2,8 +2,8 @@
 unique-page-id: 2359410
 description: Send an Email - Marketo Docs - Product Documentation
 title: Send an Email
+exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 ---
-
 # Send an Email {#send-an-email}
 
 It's the first thing everyone wants to do. Let's send an email out of Marketo!

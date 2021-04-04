@@ -2,8 +2,8 @@
 unique-page-id: 2359996
 description: Sort Report on Columns - Marketo Docs - Product Documentation
 title: Sort Report on Columns
+exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 ---
-
 # Sort Report on Columns {#sort-report-on-columns}
 
 Use columns to sort the data in your report and make the most important figures easy to find.

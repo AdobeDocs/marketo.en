@@ -2,8 +2,8 @@
 unique-page-id: 42762825
 description: Using Bulk Actions in Salesforce Lightning - Marketo Docs - Product Documentation
 title: Using Bulk Actions in Salesforce Lightning
+exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 ---
-
 # Using Bulk Actions in Salesforce Lightning {#using-bulk-actions-in-salesforce-lightning}
 
 Learn how to perform bulk actions, like adding leads to a campaign, send a bulk email, or pushing leads from Salesforce to Sales Connect.

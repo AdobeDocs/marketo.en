@@ -2,8 +2,8 @@
 unique-page-id: 14746470
 description: Setting up a Custom Delivery Channel - Marketo Docs - Product Documentation
 title: Setting up a Custom Delivery Channel
+exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 ---
-
 # Setting up a Custom Delivery Channel {#setting-up-a-custom-delivery-channel}
 
 Marketo Sales Connect allows you to integrate with a custom SMTP server for the delivery of your emails. This is a great option for those who don't want to send bulk emails out of their Gmail or Exchange delivery channel.

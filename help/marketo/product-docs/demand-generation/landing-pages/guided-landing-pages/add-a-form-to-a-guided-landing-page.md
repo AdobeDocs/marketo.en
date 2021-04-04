@@ -2,8 +2,8 @@
 unique-page-id: 7515107
 description: Add a Form to a Guided Landing Page - Marketo Docs - Product Documentation
 title: Add a Form to a Guided Landing Page
+exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 ---
-
 # Add a Form to a Guided Landing Page {#add-a-form-to-a-guided-landing-page}
 
 Form, meet landing page. Landing page, meet form.

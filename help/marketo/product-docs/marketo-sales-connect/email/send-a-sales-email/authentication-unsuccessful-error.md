@@ -2,8 +2,8 @@
 unique-page-id: 14352522
 description: Authentication Unsuccessful Error - Marketo Docs - Product Documentation
 title: Authentication Unsuccessful Error
+exl-id: 62280471-8d2d-49b8-b4f3-fc331cef3ac3
 ---
-
 # Authentication Unsuccessful Error {#authentication-unsuccessful-error}
 
 Do you see your emails in Failed Delivery with an "Authentication Unsuccessful" error? This means that we were unable to authenticate the connection to your SMTP server. Most likely, your password changed recently and you need to authenticate your new credentials.

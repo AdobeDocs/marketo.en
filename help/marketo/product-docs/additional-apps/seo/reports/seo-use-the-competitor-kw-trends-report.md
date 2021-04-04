@@ -2,8 +2,8 @@
 unique-page-id: 2949270
 description: SEO - Use the Competitor KW Trends Report - Marketo Docs - Product Documentation
 title: SEO - Use the Competitor KW Trends Report
+exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 ---
-
 # SEO - Use the Competitor KW Trends Report {#seo-use-the-competitor-kw-trends-report}
 
 In this report, you can see how you and your competitors are ranked on keywords over time.

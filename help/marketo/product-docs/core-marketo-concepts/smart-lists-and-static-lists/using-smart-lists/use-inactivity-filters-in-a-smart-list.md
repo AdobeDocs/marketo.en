@@ -2,8 +2,8 @@
 unique-page-id: 7511477
 description: Use Inactivity Filters in a Smart List - Marketo Docs - Product Documentation
 title: Use Inactivity Filters in a Smart List
+exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 ---
-
 # Use Inactivity Filters in a Smart List {#use-inactivity-filters-in-a-smart-list}
 
 Did you know you can look for people in a Smart List who *didn't* do something? Check out these inactivity filters.

@@ -2,8 +2,8 @@
 unique-page-id: 8781845
 description: Understanding Marketo Moments - Marketo Docs - Product Documentation
 title: Understanding Marketo Moments
+exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 ---
-
 # Understanding Marketo Moments {#understanding-marketo-moments}
 
 The power of Marketo is now in your hands, literally! Preview and reschedule emails right from your phone or iPad.

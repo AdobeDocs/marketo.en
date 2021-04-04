@@ -2,8 +2,8 @@
 unique-page-id: 30081321
 description: Group Types - Marketo Docs - Product Documentation
 title: Group Types
+exl-id: 70b59c5d-f753-4b0d-b861-b2de379839a2
 ---
-
 # Group Types {#group-types}
 
 Learn about the different group types in Sales Connect.

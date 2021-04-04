@@ -2,8 +2,8 @@
 unique-page-id: 2953417
 description: Understanding Dynamic Content - Marketo Docs - Product Documentation
 title: Understanding Dynamic Content
+exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
 ---
-
 # Understanding Dynamic Content {#understanding-dynamic-content}
 
 There is a lot more to personalization than just "Hi `{{First_Name}}`". With Marketo dynamic content, you can customize how different people see a landing page or email.

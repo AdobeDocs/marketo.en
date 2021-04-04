@@ -1,8 +1,8 @@
 ---
 description: Change Custom Object Retrieval Limits in Velocity Scripting - Marketo Docs - Product Documentation
 title: Change Custom Object Retrieval Limits in Velocity Scripting
+exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 ---
-
 # Change Custom Object Retrieval Limits in Velocity Scripting {#change-custom-object-retrieval-limits-in-velocity-scripting}
 
 If you use Velocity Script to display Custom Object data in emails, this feature might be for you. By default, you're allowed access to 10 parent custom objects from Velocity Script. If you need to access more, read on.

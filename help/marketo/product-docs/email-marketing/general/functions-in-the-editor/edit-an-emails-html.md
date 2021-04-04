@@ -2,8 +2,8 @@
 unique-page-id: 1900554
 description: Edit an Email's HTML - Marketo Docs - Product Documentation
 title: Edit an Email's HTML
+exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 ---
-
 # Edit an Email's HTML {#edit-an-emails-html}
 
 Sometimes you may need to modify an email's underlying HTML. Sometimes you may use an external system to design and build your email's code. Either way, you can easily import and/or edit code from within the email editor.

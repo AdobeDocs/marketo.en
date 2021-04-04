@@ -2,8 +2,8 @@
 unique-page-id: 2951099
 description: Release Notes -April 2013 - Marketo Docs - Product Documentation
 title: Release Notes -April 2013
+exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 ---
-
 # Release Notes: April 2013 {#release-notes-april}
 
 The following features are included in the April release.

@@ -2,8 +2,8 @@
 unique-page-id: 7511980
 description: Save a Report - Marketo Docs - Product Documentation
 title: Save a Report
+exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 ---
-
 # Save a Report {#save-a-report}
 
 Sometimes, you may need to save a default report to view again later. Here's how you can do that:

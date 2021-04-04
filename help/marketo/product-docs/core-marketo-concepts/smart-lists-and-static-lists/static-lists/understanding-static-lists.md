@@ -2,8 +2,8 @@
 unique-page-id: 2949891
 description: Understanding Static Lists - Marketo Docs - Product Documentation
 title: Understanding Static Lists
+exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 ---
-
 # Understanding Static Lists {#understanding-static-lists}
 
 Static lists are one of the most simple and useful features of Marketo. They are simply a list of names from your Database. You will find plenty of reasons to use them.

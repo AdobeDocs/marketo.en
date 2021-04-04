@@ -2,8 +2,8 @@
 unique-page-id: 2359834
 description: Prioritize Stream Content - Marketo Docs - Product Documentation
 title: Prioritize Stream Content
+exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 ---
-
 # Prioritize Stream Content {#prioritize-stream-content}
 
 After you've added content to your stream, you may want to change the priority. The content is always delivered from the top down in each cast, and no content is sent to the same person twice.

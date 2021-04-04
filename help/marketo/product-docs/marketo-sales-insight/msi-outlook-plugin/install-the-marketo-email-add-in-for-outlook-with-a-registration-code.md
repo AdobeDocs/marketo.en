@@ -2,8 +2,8 @@
 unique-page-id: 2949711
 description: Install the Marketo Email Add-in for Outlook with a Registration Code - Marketo Docs - Product Documentation
 title: Install the Marketo Email Add-in for Outlook with a Registration Code
+exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 ---
-
 # Install the Marketo Email Add-in for Outlook with a Registration Code {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 If users can access the admin settings on their laptops, you can send a registration code to them directly.

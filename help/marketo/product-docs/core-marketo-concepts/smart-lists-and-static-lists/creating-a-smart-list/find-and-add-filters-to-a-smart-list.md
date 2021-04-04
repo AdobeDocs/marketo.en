@@ -2,8 +2,8 @@
 unique-page-id: 557273
 description: Find and Add Filters to a Smart List - Marketo Docs - Product Documentation
 title: Find and Add Filters to a Smart List
+exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 ---
-
 # Find and Add Filters to a Smart List {#find-and-add-filters-to-a-smart-list}
 
 Once you've [created a smart list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md), you need to add and [define](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md) filters. Here's how to find and add filters.

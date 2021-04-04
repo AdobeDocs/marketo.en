@@ -2,8 +2,8 @@
 unique-page-id: 1147001
 description: Using Standard Smart List Rule Logic - Marketo Docs - Product Documentation
 title: Using Standard Smart List Rule Logic
+exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 ---
-
 # Using Standard Smart List Rule Logic {#using-standard-smart-list-rule-logic}
 
 You may have noticed the "Use filters" option when building campaign smart lists. This setting allows you to decide if the filters need to be evaluated with an AND or an OR operator.

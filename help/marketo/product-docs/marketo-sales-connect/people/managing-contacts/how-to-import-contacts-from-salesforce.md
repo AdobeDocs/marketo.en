@@ -2,8 +2,8 @@
 unique-page-id: 14352518
 description: How to Import Contacts from Salesforce - Marketo Docs - Product Documentation
 title: How to Import Contacts from Salesforce
+exl-id: 41d7f0b1-d8ba-4c09-89aa-ee2d9934e824
 ---
-
 # How to Import Contacts from Salesforce {#how-to-import-contacts-from-salesforce}
 
 Our "Push to Sales Connect" button will take a list of your Leads/Contacts in Salesforce and push them into a group in Sales Connect. You can then quickly send a customizable group email with Sales Connect tracking attached.

@@ -2,8 +2,8 @@
 unique-page-id: 2953384
 description: Enable Sync for a Custom Entity - Marketo Docs - Product Documentation
 title: Enable Sync for a Custom Entity
+exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 ---
-
 # Enable Sync for a Custom Entity {#enable-sync-for-a-custom-entity}
 
 If you need custom entity data from Dynamics to be available in Marketo, here's how to enable the sync for it:

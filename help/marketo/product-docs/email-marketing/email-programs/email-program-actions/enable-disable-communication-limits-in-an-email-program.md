@@ -2,8 +2,8 @@
 unique-page-id: 2359596
 description: Enable/Disable Communication Limits in an Email Program - Marketo Docs - Product Documentation
 title: Enable/Disable Communication Limits in an Email Program
+exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 ---
-
 # Enable/Disable Communication Limits in an Email Program {#enable-disable-communication-limits-in-an-email-program}
 
 When running an email program, you can choose to ignore or respect the [admin level communication limits](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Here's how to do it.

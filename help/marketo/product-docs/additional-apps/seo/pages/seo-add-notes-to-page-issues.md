@@ -2,8 +2,8 @@
 unique-page-id: 2949220
 description: SEO - Add Notes to Page Issues - Marketo Docs - Product Documentation
 title: SEO - Add Notes to Page Issues
+exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
 ---
-
 # SEO - Add Notes to Page Issues {#seo-add-notes-to-page-issues}
 
 Did you know you can add notes to page issues as personal reminders or team messages?

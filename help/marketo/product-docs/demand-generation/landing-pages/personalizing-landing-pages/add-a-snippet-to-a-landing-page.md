@@ -2,8 +2,8 @@
 unique-page-id: 2359537
 description: Add a Snippet to a Landing Page - Marketo Docs - Product Documentation
 title: Add a Snippet to a Landing Page
+exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 ---
-
 # Add a Snippet to a Landing Page {#add-a-snippet-to-a-landing-page}
 
 Snippets are little bits of HTML that can follow rules and hold personalized content.

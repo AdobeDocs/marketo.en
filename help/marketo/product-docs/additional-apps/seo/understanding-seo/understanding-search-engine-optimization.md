@@ -2,8 +2,8 @@
 unique-page-id: 2949176
 description: Understanding Search Engine Optimization - Marketo Docs - Product Documentation
 title: Understanding Search Engine Optimization
+exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 ---
-
 # Understanding Search Engine Optimization {#understanding-search-engine-optimization}
 
 Search Engine Optimization (SEO) is a collection of best practices to help you get your pages in front of people using search engines. Marketo's SEO app will help you improve.

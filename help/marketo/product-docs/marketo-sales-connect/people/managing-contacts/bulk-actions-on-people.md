@@ -2,8 +2,8 @@
 unique-page-id: 30081230
 description: Bulk Actions on People - Marketo Docs - Product Documentation
 title: Bulk Actions on People
+exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 ---
-
 # Bulk Actions on People {#bulk-actions-on-people}
 
 There are a few things you can do with your contacts in bulk to save time.

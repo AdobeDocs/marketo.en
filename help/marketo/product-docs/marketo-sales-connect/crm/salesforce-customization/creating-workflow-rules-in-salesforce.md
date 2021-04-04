@@ -2,8 +2,8 @@
 unique-page-id: 14745823
 description: Creating Workflow Rules in Salesforce - Marketo Docs - Product Documentation
 title: Creating Workflow Rules in Salesforce
+exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 ---
-
 # Creating Workflow Rules in Salesforce {#creating-workflow-rules-in-salesforce}
 
 When using Marketo Sales Insight (MSI) and Marketo Sales Connect (MSC) in parallel, the MSI Best Bets feature in Salesforce will not get updated. All other MSI features work as usual (viewing interesting moments in the iFrame, sending email, adding to campaigns, etc.). This article offers a workaround to get Best Bets working again.

@@ -2,8 +2,8 @@
 unique-page-id: 2953358
 description: Delete Entries Directly In the Marketing Calendar - Marketo Docs - Product Documentation
 title: Delete Entries Directly In the Marketing Calendar
+exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
 ---
-
 # Delete Entries Directly In the Marketing Calendar {#delete-entries-directly-in-the-marketing-calendar}
 
 In addition to [creating](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md) and [editing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md) entries, you can delete them directly in the Marketing Calendar. Here's how.

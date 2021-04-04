@@ -2,8 +2,8 @@
 unique-page-id: 1900595
 description: Define an Audience with a Smart List - Marketo Docs - Product Documentation
 title: Define an Audience with a Smart List
+exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 ---
-
 # Define an Audience with a Smart List {#define-an-audience-with-a-smart-list}
 
 Once you [create an email program](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), you will want to tell it who to send the email to. You can do this by [importing a list of people](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) or with a smart list. Here's how to accomplish this with a smart list.

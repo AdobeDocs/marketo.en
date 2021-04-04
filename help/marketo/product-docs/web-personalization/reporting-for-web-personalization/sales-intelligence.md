@@ -2,8 +2,8 @@
 unique-page-id: 10096420
 description: Sales Intelligence - Marketo Docs - Product Documentation
 title: Sales Intelligence
+exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 ---
-
 # Sales Intelligence {#sales-intelligence}
 
 Marketo Web Personalization provides valuable information about the anonymous and known web visitors and organizations that visit your website. Sales executives can use it to track, monitor and receive alerts on key organizations and accounts according to specific region.

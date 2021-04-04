@@ -2,8 +2,8 @@
 unique-page-id: 42762511
 description: Set Up Adobe Experience Cloud Audience Sharing - Marketo Docs - Product Documentation
 title: Set Up Adobe Experience Cloud Audience Sharing
+exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 ---
-
 # Set Up Adobe Experience Cloud Audience Sharing {#set-up-adobe-experience-cloud-audience-sharing}
 
 In order to share audience data to your Adobe applications, you must first enter your Adobe IMS Org credentials in Marketo. Here's how.

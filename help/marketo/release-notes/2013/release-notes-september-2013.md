@@ -2,8 +2,8 @@
 unique-page-id: 2951056
 description: Release Notes -September 2013 - Marketo Docs - Product Documentation
 title: Release Notes -September 2013
+exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
 ---
-
 # Release Notes: September 2013 {#release-notes-september}
 
 The following features are included in the September release.

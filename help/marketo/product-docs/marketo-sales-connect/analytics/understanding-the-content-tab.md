@@ -2,8 +2,8 @@
 unique-page-id: 14352615
 description: Understanding the Content Tab - Marketo Docs - Product Documentation
 title: Understanding the Content Tab
+exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
 ---
-
 # Understanding the Content Tab {#understanding-the-content-tab}
 
 The Content Tab is all about your team's email engagement when using a template. We automatically bubble up three metrics that we believe to be important.

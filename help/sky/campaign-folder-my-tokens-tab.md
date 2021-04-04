@@ -1,8 +1,8 @@
 ---
 title: campaign-folder-my-tokens-tab
 description: Campaign Folder My Tokens Tab
+exl-id: 41ea3c52-4864-4148-ba3b-21cb6f8b6b66
 ---
-
 # Campaign Folder: My Tokens Tab
 
 The [!UICONTROL My Tokens] tab lists all of your My Tokens within the campaign folder.

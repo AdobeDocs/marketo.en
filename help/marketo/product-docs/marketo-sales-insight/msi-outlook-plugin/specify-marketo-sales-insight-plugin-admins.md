@@ -2,8 +2,8 @@
 unique-page-id: 11377552
 description: Specify Marketo Sales Insight Plugin Admins - Marketo Docs - Product Documentation
 title: Specify Marketo Sales Insight Plugin Admins
+exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
 ---
-
 # Specify Marketo Sales Insight Plugin Admins {#specify-marketo-sales-insight-plugin-admins}
 
 You can specify which contacts you want to appear in the email notice you send to users when you invite them to set up MSI on Outlook.

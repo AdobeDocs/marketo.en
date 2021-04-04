@@ -2,8 +2,8 @@
 unique-page-id: 2949904
 description: Landing Page Test Groups - Marketo Docs - Product Documentation
 title: Landing Page Test Groups
+exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 ---
-
 # Landing Page Test Groups {#landing-page-test-groups}
 
 Marketo tracks the number of page views and form completions on each tested page within a Test Group. You can use test group results to decide which Landing Page is the most compelling. Here's how to create a test group.

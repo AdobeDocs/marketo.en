@@ -2,8 +2,8 @@
 unique-page-id: 7512451
 description: Create a Push Notification - Marketo Docs - Product Documentation
 title: Create a Push Notification
+exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 ---
-
 # Create a Push Notification {#create-a-push-notification}
 
 It's easy to create a push notification. However, before you begin, you must have your Marketo Admin and Mobile Apps Developer set up some things you'll need while you're doing it. See [Understanding Push Notifications](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md) for details.

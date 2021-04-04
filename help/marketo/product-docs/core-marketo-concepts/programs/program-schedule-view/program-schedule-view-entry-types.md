@@ -2,8 +2,8 @@
 unique-page-id: 1147243
 description: Program Schedule View Entry Types - Marketo Docs - Product Documentation
 title: Program Schedule View Entry Types
+exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 ---
-
 # Program Schedule View Entry Types {#program-schedule-view-entry-types}
 
 There are eight different built-in entry types that will be visible and available for use in your program schedule view. You can also [create custom entry types](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) in the Admin section.

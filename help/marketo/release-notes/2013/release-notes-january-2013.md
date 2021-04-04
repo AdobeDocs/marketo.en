@@ -2,8 +2,8 @@
 unique-page-id: 2951105
 description: Release Notes -January 2013 - Marketo Docs - Product Documentation
 title: Release Notes -January 2013
+exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 ---
-
 # Release Notes: January 2013 {#release-notes-january}
 
 The January release expands our social offering with **Referral Offers**. In addition, Marketo Lead Management users can set their time zone, language, and locale preference. Please note that features marked with an &#42; are available only in the Select Edition.

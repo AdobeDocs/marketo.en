@@ -2,8 +2,8 @@
 unique-page-id: 1147226
 description: Getting Started - Marketo Docs - Product Documentation
 title: Getting Started
+exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 ---
-
 # Getting Started {#getting-started}
 
 ## STEP 1 What is Marketo {#what-is-marketo}

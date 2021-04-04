@@ -2,8 +2,8 @@
 unique-page-id: 14352436
 description: Sales Phone Local Presence - Marketo Docs - Product Documentation
 title: Sales Phone Local Presence
+exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 ---
-
 # Sales Phone Local Presence {#sales-phone-local-presence}
 
 When you want to look like you are calling from someone's same area code, simply check the **Local Presence** box before making the call.

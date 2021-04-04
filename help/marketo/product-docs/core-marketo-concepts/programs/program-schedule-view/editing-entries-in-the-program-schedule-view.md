@@ -2,8 +2,8 @@
 unique-page-id: 1147136
 description: Editing Entries in the Program Schedule View - Marketo Docs - Product Documentation
 title: Editing Entries in the Program Schedule View
+exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 ---
-
 # Editing Entries in the Program Schedule View {#editing-entries-in-the-program-schedule-view}
 
 You can make edits to the different elements of your program in the schedule view.

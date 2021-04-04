@@ -2,8 +2,8 @@
 unique-page-id: 3571886
 description: Using the Success Path Analyzer - Marketo Docs - Product Documentation
 title: Using the Success Path Analyzer
+exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 ---
-
 # Using the Success Path Analyzer {#using-the-success-path-analyzer}
 
 Use a Success Path Analyzer to explore the specific details that reflect both flow (amount) and velocity (speed, in terms of days) of people through the stages of your [Revenue Cycle Model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).

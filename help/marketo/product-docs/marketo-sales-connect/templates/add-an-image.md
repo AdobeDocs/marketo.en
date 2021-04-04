@@ -2,8 +2,8 @@
 unique-page-id: 14352636
 description: Add an Image - Marketo Docs - Product Documentation
 title: Add an Image
+exl-id: 1c3a2aef-1494-4af3-b30a-4e73c659a803
 ---
-
 # Add an Image {#add-an-image}
 
 If you want to add an image or GIF to your email, follow these steps.

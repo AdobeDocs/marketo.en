@@ -1,8 +1,8 @@
 ---
 title: define-a-smart-list-for-a-trigger-campaign
 description: Define a Smart List for a Trigger Campaign
+exl-id: d5231df9-2b5b-40cc-b4f3-a43100abdc1e
 ---
-
 # Define a Smart List for a Trigger Campaign
 
 <br>&nbsp;

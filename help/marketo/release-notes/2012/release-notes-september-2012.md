@@ -2,8 +2,8 @@
 unique-page-id: 2951111
 description: Release Notes -September 2012 - Marketo Docs - Product Documentation
 title: Release Notes -September 2012
+exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 ---
-
 # Release Notes: September 2012 {#release-notes-september}
 
 This release includes highly anticipated, integrated social features and lead management goodies! Note: social features are available as an add-on or as part of selected bundles.

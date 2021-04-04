@@ -2,8 +2,8 @@
 unique-page-id: 4718677
 description: Cloning a Marketo Example Revenue Model - Marketo Docs - Product Documentation
 title: Cloning a Marketo Example Revenue Model
+exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 ---
-
 # Cloning a Marketo Example Revenue Model {#cloning-a-marketo-example-revenue-model}
 
 Marketo has example revenue modelers to help inspire you. Clone these modelers and make them your own. Here is how:

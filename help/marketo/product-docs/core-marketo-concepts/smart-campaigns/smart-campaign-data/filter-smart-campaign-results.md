@@ -2,8 +2,8 @@
 unique-page-id: 1147068
 description: Filter Smart Campaign Results - Marketo Docs - Product Documentation
 title: Filter Smart Campaign Results
+exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 ---
-
 # Filter Smart Campaign Results {#filter-smart-campaign-results}
 
 >[!PREREQUISITES]

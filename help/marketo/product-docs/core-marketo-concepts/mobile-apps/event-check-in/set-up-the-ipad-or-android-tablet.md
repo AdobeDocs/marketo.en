@@ -2,8 +2,8 @@
 unique-page-id: 10099363
 description: Set Up the iPad or Android Tablet - Marketo Docs - Product Documentation
 title: Set Up the iPad or Android Tablet
+exl-id: ccfd48dc-ca8d-442f-87fd-f16b34d1a76c
 ---
-
 # Set Up the iPad or Android Tablet {#set-up-the-ipad-or-android-tablet}
 
 For a smooth experience on event day, prepare your iPad or Android tablet and test the Marketo Events app before the event.

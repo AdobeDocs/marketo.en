@@ -2,8 +2,8 @@
 unique-page-id: 2359768
 description: Create a Poll - Marketo Docs - Product Documentation
 title: Create a Poll
+exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
 ---
-
 # Create a Poll {#create-a-poll}
 
 Engage people with a poll they can vote in and share with their friends on social networks. You can add it to places like your landing pages, your website, and Facebook.  

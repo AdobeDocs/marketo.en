@@ -2,8 +2,8 @@
 unique-page-id: 14352432
 description: How to Customize the Call Outcome in Sales Phone - Marketo Docs - Product Documentation
 title: How to Customize the Call Outcome in Sales Phone
+exl-id: 8c6a2663-0c36-4c73-9afc-4ff1f664fe7b
 ---
-
 # How to Customize the Call Outcome in Sales Phone {#how-to-customize-the-call-outcome-in-sales-phone}
 
 1. Go to your Setup page in Salesforce.

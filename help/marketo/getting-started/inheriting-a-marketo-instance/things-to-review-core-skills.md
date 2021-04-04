@@ -2,8 +2,8 @@
 unique-page-id: 7516607
 description: Things to Review - Core Skills - Marketo Docs - Product Documentation
 title: Things to Review - Core Skills
+exl-id: 37dfb6e7-b850-45fe-bbf4-15eb58a7bc1d
 ---
-
 # Things to Review: Core Skills {#things-to-review-core-skills}
 
 Need to fill some gaps in your marketing automation know-how? If you have limited time to brush up on core skills, here's what we recommend:

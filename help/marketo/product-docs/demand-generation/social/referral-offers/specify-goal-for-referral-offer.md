@@ -2,8 +2,8 @@
 unique-page-id: 2359791
 description: Specify Goal for Referral Offer - Marketo Docs - Product Documentation
 title: Specify Goal for Referral Offer
+exl-id: 9869eb66-53df-4ea8-903f-e6650add8da2
 ---
-
 # Specify Goal for Referral Offer {#specify-goal-for-referral-offer}
 
 When you [create a referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you need to define the fulfillment goal. The goal can be defined by person activity on the web page, such as page visits or sign-ups. You can even use a [custom JavaScript event](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md).

@@ -2,8 +2,8 @@
 unique-page-id: 2359575
 description: Preview a Form - Marketo Docs - Product Documentation
 title: Preview a Form
+exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 ---
-
 # Preview a Form {#preview-a-form}
 
 Before you publish, you can see the form in this quick and simple form previewer.

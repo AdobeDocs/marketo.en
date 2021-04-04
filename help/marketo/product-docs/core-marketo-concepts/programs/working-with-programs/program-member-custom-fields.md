@@ -2,8 +2,8 @@
 unique-page-id: 37355569
 description: Program Member Custom Fields - Marketo Docs - Product Documentation
 title: Program Member Custom Fields
+exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 ---
-
 # Program Member Custom Fields {#program-member-custom-fields}
 
 Program Member custom fields allow you to collect program-specific data for each member. They can be used in: Marketo forms, Smart List filters and triggers, and Smart Campaign flow actions. The data is viewable in the program's Members tab.

@@ -2,8 +2,8 @@
 unique-page-id: 557275
 description: Use Built-in/System Smart Lists - Marketo Docs - Product Documentation
 title: Use Built-in/System Smart Lists
+exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 ---
-
 # Use Built-in/System Smart Lists {#use-built-in-system-smart-lists}
 
 Marketo has some very useful built-in smart lists. Let's check them out!

@@ -2,8 +2,8 @@
 unique-page-id: 4720377
 description: Reference a List or Smart List Across Workspaces - Marketo Docs - Product Documentation
 title: Reference a List or Smart List Across Workspaces
+exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 ---
-
 # Reference a List or Smart List Across Workspaces {#reference-a-list-or-smart-list-across-workspaces}
 
 Lists and smart lists can be shared and referenced across workspaces for easy reuse from the Database.

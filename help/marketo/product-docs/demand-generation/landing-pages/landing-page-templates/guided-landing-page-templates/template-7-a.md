@@ -2,8 +2,8 @@
 unique-page-id: 8783941
 description: Template 7-A - Marketo Docs - Product Documentation
 title: Template 7-A
+exl-id: f27b481a-6fae-4908-9488-b7fe456af071
 ---
-
 # Template 7-A {#template-a}
 
 [Download Template 7-A](https://docs.marketo.com/download/attachments/8783941/template-7a.html?version=1&modificationdate=1437693282000&api=v2)

@@ -2,8 +2,8 @@
 unique-page-id: 11380778
 description: Permissions - Marketo Docs - Product Documentation
 title: Permissions
+exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 ---
-
 # Permissions {#permissions}
 
 You'll need to set-up permissions for your users to be able to use TAM. Here's how.

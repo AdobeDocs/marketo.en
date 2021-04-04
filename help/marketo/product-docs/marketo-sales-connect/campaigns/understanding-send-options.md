@@ -2,8 +2,8 @@
 unique-page-id: 14352621
 description: Understanding Send Options - Marketo Docs - Product Documentation
 title: Understanding Send Options
+exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 ---
-
 # Understanding Send Options {#understanding-send-options}
 
 When you are creating a Campaign, you have several options on how your email steps get created in Sales Connect. And, depending on where your email falls in your Campaign, your options also differ.  

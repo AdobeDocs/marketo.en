@@ -2,8 +2,8 @@
 unique-page-id: 10092896
 description: Template 19-C - Marketo Docs - Product Documentation
 title: Template 19-C
+exl-id: 9f518caf-2270-46d8-b9ce-3b11b10af338
 ---
-
 # Template 19-C {#template-c}
 
 [Download Template 19-C](https://docs.marketo.com/download/attachments/10092896/template-19c.html?version=1&modificationdate=1441750440000&api=v2)

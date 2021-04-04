@@ -2,8 +2,8 @@
 unique-page-id: 12255606
 description: Release Notes -Winter '17 - Marketo Docs - Product Documentation
 title: Release Notes -Winter '17
+exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 ---
-
 # Release Notes: Winter '17 {#release-notes-winter}
 
 The following features are included in the Winter '17 release. Check your Marketo edition for feature availability.

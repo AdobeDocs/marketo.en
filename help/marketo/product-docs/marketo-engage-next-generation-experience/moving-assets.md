@@ -1,8 +1,8 @@
 ---
 description: Moving Assets - Marketo Docs - Product Documentation
 title: Moving Assets
+exl-id: 3d4bd3ef-1889-4f44-abe0-6e78c757fc7e
 ---
-
 # Moving Assets {#moving-assets}
 
 Drag and drop is not currently available, but you can still easily relocate assets.

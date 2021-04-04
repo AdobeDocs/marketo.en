@@ -2,8 +2,8 @@
 unique-page-id: 14352609
 description: Turn off a Campaign - Marketo Docs - Product Documentation
 title: Turn off a Campaign
+exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
 ---
-
 # Turn off a Campaign {#turn-off-a-campaign}
 
 Need to automatically end a Campaign when a recipient replies? Here's how.

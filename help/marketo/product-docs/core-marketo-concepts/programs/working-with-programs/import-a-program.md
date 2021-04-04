@@ -2,8 +2,8 @@
 unique-page-id: 1147108
 description: Import a Program - Marketo Docs - Product Documentation
 title: Import a Program
+exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 ---
-
 # Import a Program {#import-a-program}
 
 A program can be imported from one Marketo subscription to another. For instance, you can create a program in a sandbox and then import it into your live subscription. Also, you can import a pre-built program from the Marketo Program Library.

@@ -2,8 +2,8 @@
 unique-page-id: 2949212
 description: SEO - Optimize Specific Pages with Targeted Keywords - Marketo Docs - Product Documentation
 title: SEO - Optimize Specific Pages with Targeted Keywords
+exl-id: 5f36c1c5-be76-419e-a9e0-c180ce7bf2ed
 ---
-
 # SEO - Optimize Specific Pages with Targeted Keywords {#seo-optimize-specific-pages-with-targeted-keywords}
 
 Some keywords go really well with certain pages. This is how you match the perfect keyword to its perfect page. This will provide the most accurate data and the best recommendations for improvement.

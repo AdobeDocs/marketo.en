@@ -2,8 +2,8 @@
 unique-page-id: 1146948
 description: Send Email - Marketo Docs - Product Documentation
 title: Send Email
+exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 ---
-
 # Send Email {#send-email}
 
 ## Overview {#overview}

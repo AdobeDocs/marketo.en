@@ -2,8 +2,8 @@
 unique-page-id: 1147318
 description: Keyboard Shortcuts Glossary - Marketo Docs - Product Documentation
 title: Keyboard Shortcuts Glossary
+exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
 ---
-
 # Keyboard Shortcuts Glossary {#keyboard-shortcuts-glossary}
 
 Are you a keyboard shortcuts person? We've got you covered!

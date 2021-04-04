@@ -2,8 +2,8 @@
 unique-page-id: 12983390
 description: Register an App with Azure to Acquire Your Client ID/App ID - Marketo Docs - Product Documentation
 title: Register an App with Azure to Acquire Your Client ID/App ID
+exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 ---
-
 # Register an App with Azure to Acquire Your Client ID/App ID {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
 Azure Active Directory extends your on-premises directories into the cloud, providing support for MS Dynamics 365 CRM with on-premise ADFS authentication.
@@ -80,4 +80,3 @@ Azure Active Directory extends your on-premises directories into the cloud, prov
    And you're done!
 
    ![](assets/fifteen.png)
-

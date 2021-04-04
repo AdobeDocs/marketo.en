@@ -2,8 +2,8 @@
 unique-page-id: 11380218
 description: Release Notes -Summer '16 - Marketo Docs - Product Documentation
 title: Release Notes -Summer '16
+exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 ---
-
 # Release Notes: Summer '16 {#release-notes-summer}
 
 The following features are included in the Summer '16 release. Check your Marketo edition for feature availability. Please click the title links to view detailed articles for each feature.

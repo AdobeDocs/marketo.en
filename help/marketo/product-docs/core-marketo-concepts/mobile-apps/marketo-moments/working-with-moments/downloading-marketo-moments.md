@@ -2,8 +2,8 @@
 unique-page-id: 8782024
 description: Downloading Marketo Moments - Marketo Docs - Product Documentation
 title: Downloading Marketo Moments
+exl-id: ccd8cb58-f2ae-478d-a3c4-fbc713e3c22a
 ---
-
 # Downloading Marketo Moments {#downloading-marketo-moments}
 
 Download Marketo Moments from the App Store or Google Play and voila! Marketo magic in the palm of your hand.

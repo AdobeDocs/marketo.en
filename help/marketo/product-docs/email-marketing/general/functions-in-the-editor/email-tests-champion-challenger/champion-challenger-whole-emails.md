@@ -2,8 +2,8 @@
 unique-page-id: 2359555
 description: Champion/Challenger -Whole Emails - Marketo Docs - Product Documentation
 title: Champion/Challenger -Whole Emails
+exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 ---
-
 # Champion/Challenger: Whole Emails {#champion-challenger-whole-emails}
 
 Test whole emails against each other. When the test is over, send out the top performer.

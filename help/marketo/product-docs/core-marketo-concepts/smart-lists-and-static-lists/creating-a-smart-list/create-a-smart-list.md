@@ -2,8 +2,8 @@
 unique-page-id: 557154
 description: Create a Smart List - Marketo Docs - Product Documentation
 title: Create a Smart List
+exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 ---
-
 # Create a Smart List {#create-a-smart-list}
 
 Smart lists allow you to find specific groups of people using simple filters. Here's how to create one.

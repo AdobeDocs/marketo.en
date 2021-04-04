@@ -2,8 +2,8 @@
 unique-page-id: 14352619
 description: Using Tasks in Campaigns - Marketo Docs - Product Documentation
 title: Using Tasks in Campaigns
+exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 ---
-
 # Using Tasks in Campaigns {#using-tasks-in-campaigns}
 
 Tasks are a powerful tool when sending a campaign to a contact, especially if your sales process is multi-channel/touch.

@@ -2,8 +2,8 @@
 unique-page-id: 12615804
 description: Filtering in Named Accounts - Marketo Docs - Product Documentation
 title: Filtering in Named Accounts
+exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 ---
-
 # Filtering in Named Accounts {#filtering-in-named-accounts}
 
 Filtering is a great way to narrow down data quickly.

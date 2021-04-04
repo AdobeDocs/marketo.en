@@ -2,8 +2,8 @@
 unique-page-id: 2359498
 description: Preview a Snippet - Marketo Docs - Product Documentation
 title: Preview a Snippet
+exl-id: 757e14ef-af7b-44d8-9c73-89b281df3d42
 ---
-
 # Preview a Snippet {#preview-a-snippet}
 
 >[!PREREQUISITES]

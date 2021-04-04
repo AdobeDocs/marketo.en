@@ -2,8 +2,8 @@
 unique-page-id: 37357302
 description: Email Columns and Email Page Layout - Marketo Docs - Product Documentation
 title: Email Columns and Email Page Layout
+exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 ---
-
 # Email Columns and Email Page Layout {#email-columns-and-email-page-layout}
 
 You can configure any of the available columns to be visible in the email section of the Command Center. Your configuration settings will be saved for each email subfolder (e.g., Delivered, Failed, Scheduled, etc,).

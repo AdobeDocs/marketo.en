@@ -2,8 +2,8 @@
 unique-page-id: 2949471
 description: Setup Checklist - Marketo Docs - Product Documentation
 title: Setup Checklist
+exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 ---
-
 # Setup Checklist {#setup-checklist}
 
 Welcome to Marketo! Feel free to use the following checklist as a visual to-do list to get things started. Details can be found in [Setup Steps](/help/marketo/getting-started/setup-steps.md).

@@ -2,8 +2,8 @@
 unique-page-id: 11384645
 description: Understanding All Content - Marketo Docs - Product Documentation
 title: Understanding All Content
+exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 ---
-
 # Understanding All Content {#understanding-all-content}
 
 The All Content page displays all content that has been discovered or added manually.

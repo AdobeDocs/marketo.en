@@ -2,8 +2,8 @@
 unique-page-id: 10099167
 description: Add a Lead/Contact to a Marketo Campaign from Salesforce - Marketo Docs - Product Documentation
 title: Add a Lead/Contact to a Marketo Campaign from Salesforce
+exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 ---
-
 # Add a Lead/Contact to a Marketo Campaign from Salesforce {#add-a-lead-contact-to-a-marketo-campaign-from-salesforce}
 
 You can easily add leads or contacts to Marketo smart campaigns from within Salesforce. Here's how, using leads.

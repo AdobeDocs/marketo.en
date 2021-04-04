@@ -2,8 +2,8 @@
 unique-page-id: 10094647
 description: Set a Default Custom Field Prefix - Marketo Docs - Product Documentation
 title: Set a Default Custom Field Prefix
+exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 ---
-
 # Set a Default Custom Field Prefix {#set-a-default-custom-field-prefix}
 
 Your default Microsoft Dynamics prefix for custom fields must be **new** in order for Marketo proprietary fields to sync correctly. Here's how to change the default prefix.

@@ -2,8 +2,8 @@
 unique-page-id: 4719310
 description: Enable/Disable the Salesforce Sync - Marketo Docs - Product Documentation
 title: Enable/Disable the Salesforce Sync
+exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 ---
-
 # Enable/Disable the Salesforce Sync {#enable-disable-the-salesforce-sync}
 
 When making major changes to your sync or field settings, you should disable the sync while you configure. Here is how:

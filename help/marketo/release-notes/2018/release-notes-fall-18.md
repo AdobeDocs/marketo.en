@@ -2,8 +2,8 @@
 unique-page-id: 15695939
 description: Release Notes -Fall '18 - Marketo Docs - Product Documentation
 title: Release Notes -Fall '18
+exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 ---
-
 # Release Notes: Fall '18 {#release-notes-fall}
 
 The following features are included in the Fall '18 release. Check your Marketo edition for feature availability.

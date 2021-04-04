@@ -2,8 +2,8 @@
 unique-page-id: 11380771
 description: Issue a License - Marketo Docs - Product Documentation
 title: Issue a License
+exl-id: 5cf3b23a-ab86-4707-8538-97583e4f267b
 ---
-
 # Issue a License {#issue-a-license}
 
 You'll need to set users up with a license to use TAM. Here's how to do that.

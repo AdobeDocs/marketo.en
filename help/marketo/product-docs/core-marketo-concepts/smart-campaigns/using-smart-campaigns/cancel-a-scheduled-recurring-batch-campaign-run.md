@@ -2,8 +2,8 @@
 unique-page-id: 1147060
 description: Cancel a Scheduled Recurring Batch Campaign Run - Marketo Docs - Product Documentation
 title: Cancel a Scheduled Recurring Batch Campaign Run
+exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 ---
-
 # Cancel a Scheduled Recurring Batch Campaign Run {#cancel-a-scheduled-recurring-batch-campaign-run}
 
 If you have a recurring batch campaign that you don't want any more, you can cancel the future runs. Here's how.

@@ -2,8 +2,8 @@
 unique-page-id: 7504893
 description: Add Google AdWords as a Launchpoint Service with a Manager Account - Marketo Docs - Product Documentation
 title: Add Google AdWords as a Launchpoint Service with a Manager Account
+exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 ---
-
 # Add Google AdWords as a Launchpoint Service with a Manager Account {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
 Link your Google AdWords account to Marketo to automatically upload offline conversion data from Marketo to Google AdWords. Then, from the AdWords UI, you will be able to easily see which clicks resulted in qualified leads, opportunities and new customers (or whatever revenue stages you want to track) after you  [add custom columns](https://support.google.com/adwords/answer/3073556) in AdWords. This information does not appear in the Marketo UI.

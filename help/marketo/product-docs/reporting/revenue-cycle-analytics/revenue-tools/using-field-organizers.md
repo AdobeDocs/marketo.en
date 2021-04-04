@@ -2,8 +2,8 @@
 unique-page-id: 3571892
 description: Using Field Organizers - Marketo Docs - Product Documentation
 title: Using Field Organizers
+exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 ---
-
 # Using Field Organizers {#using-field-organizers}
 
 Field organizers help you to specify certain fields out of all possible values. For example, you can create meaningful groupings, such as West Coast and East Coast, for the Territory field. This helps reports run more quickly.

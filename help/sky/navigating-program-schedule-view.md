@@ -1,8 +1,8 @@
 ---
 title: navigating-program-schedule-view
 description: Navigating Program Schedule View
+exl-id: b921f460-c0f1-49f3-8a6a-6c4c66a0606f
 ---
-
 # Navigating Program Schedule View
 
 <br>&nbsp;

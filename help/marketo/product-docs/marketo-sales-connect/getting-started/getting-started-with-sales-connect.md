@@ -2,8 +2,8 @@
 unique-page-id: 13796466
 description: Getting Started with Sales Connect - Marketo Docs - Product Documentation
 title: Getting Started with Sales Connect
+exl-id: 8c5b1f65-449c-4304-b904-fc6442a47e5a
 ---
-
 # Getting Started with Sales Connect {#getting-started-with-sales-connect}
 
 If you would rather watch these steps than read them, skip straight to the [Video Instructions below](#video).

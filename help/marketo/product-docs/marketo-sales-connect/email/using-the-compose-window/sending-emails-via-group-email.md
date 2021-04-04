@@ -2,8 +2,8 @@
 unique-page-id: 37356584
 description: Sending Emails via Group Email - Marketo Docs - Product Documentation
 title: Sending Emails via Group Email
+exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 ---
-
 # Sending Emails via Group Email {#sending-emails-via-group-email}
 
 Here's how to send/edit emails using the Group Email option.

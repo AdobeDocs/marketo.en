@@ -2,8 +2,8 @@
 unique-page-id: 2949184
 description: SEO - Understanding Pages - Marketo Docs - Product Documentation
 title: SEO - Understanding Pages
+exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 ---
-
 # SEO - Understanding Pages {#seo-understanding-pages}
 
 ## Page Optimization Score / To Do Widget {#page-optimization-score-to-do-widget}

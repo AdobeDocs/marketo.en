@@ -2,8 +2,8 @@
 unique-page-id: 6095029
 description: Set Google AdWords Conversions in the Revenue Model - Marketo Docs - Product Documentation
 title: Set Google AdWords Conversions in the Revenue Model
+exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 ---
-
 # Set Google AdWords Conversions in the Revenue Model {#set-google-adwords-conversions-in-the-revenue-model}
 
 Link your Google AdWords account to Marketo to automatically upload offline conversion data from Marketo to Google AdWords. Then, from the AdWords UI, you will be able to easily see which clicks resulted in qualified leads, opportunities and new customers (or whatever revenue stages you want to track) after you [add custom columns](https://support.google.com/adwords/answer/3073556) in AdWords.

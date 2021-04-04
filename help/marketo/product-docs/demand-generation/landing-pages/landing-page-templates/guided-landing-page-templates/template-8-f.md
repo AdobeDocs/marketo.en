@@ -2,8 +2,8 @@
 unique-page-id: 8783975
 description: Template 8-F - Marketo Docs - Product Documentation
 title: Template 8-F
+exl-id: aaabe488-80a8-4cc6-a76f-8e1845921bc9
 ---
-
 # Template 8-F {#template-f}
 
 [Download Template 8-F](https://docs.marketo.com/download/attachments/8783975/template-8f.html?version=1&modificationdate=1482175174000&api=v2)

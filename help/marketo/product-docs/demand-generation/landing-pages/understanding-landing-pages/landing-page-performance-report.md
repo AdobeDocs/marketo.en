@@ -2,8 +2,8 @@
 unique-page-id: 2359713
 description: Landing Page Performance Report - Marketo Docs - Product Documentation
 title: Landing Page Performance Report
+exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 ---
-
 # Landing Page Performance Report {#landing-page-performance-report}
 
 See how many people filled out the forms in your landing pages, and how many of them were new.

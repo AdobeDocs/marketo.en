@@ -2,8 +2,8 @@
 unique-page-id: 1146931
 description: Create a New Smart Campaign - Marketo Docs - Product Documentation
 title: Create a New Smart Campaign
+exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 ---
-
 # Create a New Smart Campaign {#create-a-new-smart-campaign}
 
 Smart campaigns are the most important tool in Marketo. They can trigger on one person and perform actions, or rollup millions of people and run a series of flow steps.

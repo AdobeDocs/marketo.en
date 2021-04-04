@@ -2,8 +2,8 @@
 unique-page-id: 14352437
 description: Share Call Recordings with Your Team - Marketo Docs - Product Documentation
 title: Share Call Recordings with Your Team
+exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 ---
-
 # Share Call Recordings with Your Team {#share-call-recordings-with-your-team}
 
 Sales Phone gives you the ability to record and save your call recordings. If you would like to share a call recording with another member of your team, there are two places you can copy the link from.

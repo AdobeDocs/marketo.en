@@ -2,8 +2,8 @@
 unique-page-id: 1146942
 description: Define Smart List for Smart Campaign | Trigger - Marketo Docs - Product Documentation
 title: Define Smart List for Smart Campaign | Trigger
+exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 ---
-
 # Define Smart List for Smart Campaign | Trigger {#define-smart-list-for-smart-campaign-trigger}
 
 Make a smart campaign run on one person at a time based on live events by adding triggers.

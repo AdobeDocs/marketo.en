@@ -1,8 +1,8 @@
 ---
 title: understanding-goal-tracking-and-projected-registrations
 description: Understanding Goal Tracking and Projected Registrations
+exl-id: 65064cbd-2ed7-45d5-aab9-4fc865e2bed6
 ---
-
 # Understanding Goal Tracking and Projected Registrations
 
 <br>&nbsp;

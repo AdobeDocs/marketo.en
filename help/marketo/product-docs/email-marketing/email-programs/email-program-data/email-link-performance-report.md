@@ -2,8 +2,8 @@
 unique-page-id: 2359478
 description: Email Link Performance Report - Marketo Docs - Product Documentation
 title: Email Link Performance Report
+exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 ---
-
 # Email Link Performance Report {#email-link-performance-report}
 
 Create an Email Link Performance report to see how well the links in your emails are performing.

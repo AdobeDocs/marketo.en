@@ -2,8 +2,8 @@
 unique-page-id: 10098379
 description: Use Quick Sync with Microsoft Dynamics for a New Custom Field - Marketo Docs - Product Documentation
 title: Use Quick Sync with Microsoft Dynamics for a New Custom Field
+exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 ---
-
 # Use Quick Sync with Microsoft Dynamics for a New Custom Field {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
 
 Marketing or Sales wants a new field. Or, maybe you forgot one in your initial field selection. Or, your needs changed. In any case, you can use Quick Sync to resync specific fields.

@@ -2,8 +2,8 @@
 unique-page-id: 14352476
 description: Activity Type Field on Tasks (SFDC) - Marketo Docs - Product Documentation
 title: Activity Type Field on Tasks (SFDC)
+exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 ---
-
 # Activity Type Field on Tasks (SFDC) {#activity-type-field-on-tasks-sfdc}
 
 With the help of Sales Connect you can have your emails and calls logged as an activity in Salesforce. A key part to having valuable data in Salesforce is having the Type field populate the correct value.

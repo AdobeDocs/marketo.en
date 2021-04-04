@@ -2,8 +2,8 @@
 unique-page-id: 2949228
 description: SEO - Get Inbound Link Suggestions - Marketo Docs - Product Documentation
 title: SEO - Get Inbound Link Suggestions
+exl-id: 6de60d4b-1e34-4394-97aa-4294b9787025
 ---
-
 # SEO - Get Inbound Link Suggestions {#seo-get-inbound-link-suggestions}
 
 Marketo can suggest which inbound links are valuable to your [off-page optimization](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).

@@ -2,8 +2,8 @@
 unique-page-id: 4719404
 description: AB Test Your Web Campaign - Marketo Docs - Product Documentation
 title: AB Test Your Web Campaign
+exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 ---
-
 # AB Test Your Web Campaign {#ab-test-your-web-campaign}
 
 Testing is a great way to optimize your web campaigns for better engagement. Here's how to get started.

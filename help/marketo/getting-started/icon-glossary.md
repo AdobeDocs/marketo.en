@@ -2,8 +2,8 @@
 unique-page-id: 4720476
 description: Icon Glossary - Marketo Docs - Product Documentation
 title: Icon Glossary
+exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 ---
-
 # Icon Glossary {#icon-glossary}
 
 Below are the icons for the Marketo Classic. If you've been switched to the new Marketo Engage interface, your icon glossary [can be found here](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
@@ -1198,4 +1198,3 @@ Below are the icons for the Marketo Classic. If you've been switched to the new 
   </tr> 
  </tbody> 
 </table>
-

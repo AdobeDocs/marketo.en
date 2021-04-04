@@ -2,8 +2,8 @@
 unique-page-id: 9438212
 description: Template 18-C - Marketo Docs - Product Documentation
 title: Template 18-C
+exl-id: 0f70ec63-0621-42d8-8229-4b32de27ce8b
 ---
-
 # Template 18-C {#template-c}
 
 [Download Template 18-C](https://docs.marketo.com/download/attachments/9438212/template-18c.html?version=1&modificationdate=1439843246000&api=v2)

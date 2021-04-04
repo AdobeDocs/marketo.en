@@ -2,8 +2,8 @@
 unique-page-id: 9437903
 description: Create a Custom Dynamics Sync Filter - Marketo Docs - Product Documentation
 title: Create a Custom Dynamics Sync Filter
+exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 ---
-
 # Create a Custom Dynamics Sync Filter {#create-a-custom-dynamics-sync-filter}
 
 Don't want to sync everything in your Dynamics CRM into Marketo? Don't worry! Marketo allows you to set up a sync filter and sync only part of your records.

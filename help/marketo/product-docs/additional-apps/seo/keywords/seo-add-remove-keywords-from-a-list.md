@@ -2,8 +2,8 @@
 unique-page-id: 2949678
 description: SEO - Add/Remove Keywords from a List - Marketo Docs - Product Documentation
 title: SEO - Add/Remove Keywords from a List
+exl-id: c03416b6-796b-4255-8f19-2087b215be05
 ---
-
 # SEO - Add/Remove Keywords from a List {#seo-add-remove-keywords-from-a-list}
 
 You can keep all your keywords nice and organized by using lists. This will make finding data on specific keywords easy as pie.

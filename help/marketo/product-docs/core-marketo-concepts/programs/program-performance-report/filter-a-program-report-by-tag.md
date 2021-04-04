@@ -2,8 +2,8 @@
 unique-page-id: 1147235
 description: Filter a Program Report by Tag - Marketo Docs - Product Documentation
 title: Filter a Program Report by Tag
+exl-id: 6517cceb-c809-487a-a40f-2b24f3f3510e
 ---
-
 # Filter a Program Report by Tag {#filter-a-program-report-by-tag}
 
 Focus your [program performance report](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) on specific [tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md).

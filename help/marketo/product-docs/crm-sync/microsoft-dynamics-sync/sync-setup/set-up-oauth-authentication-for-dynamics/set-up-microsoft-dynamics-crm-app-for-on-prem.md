@@ -1,8 +1,8 @@
 ---
 description: Set up Microsoft Dynamics CRM App for On-prem - Marketo Docs - Product Documentation
 title: Set up Microsoft Dynamics CRM App for On-prem
+exl-id: 50d41d0a-0c3b-43b8-8117-d91903e74699
 ---
-
 # Set up Microsoft Dynamics CRM App for On-prem {#set-up-microsoft-dynamics-crm-app-for-on-prem}
 
 The Client ID/Client Secret-based setup in Marketo can be done for On-prem with AD FS (ver. 2016 or later). For older versions of On-prem, please reach out to [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) to get the authentication method changed to be based only on User ID and Password.

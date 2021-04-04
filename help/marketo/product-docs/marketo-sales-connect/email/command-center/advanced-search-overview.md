@@ -2,8 +2,8 @@
 unique-page-id: 37356329
 description: Advanced Search Overview - Marketo Docs - Product Documentation
 title: Advanced Search Overview
+exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 ---
-
 # Advanced Search Overview {#advanced-search-overview}
 
 By utilizing the advanced search to target prospects who have viewed, clicked, or replied to emails, you can create a targeted list of your most engaged prospects.

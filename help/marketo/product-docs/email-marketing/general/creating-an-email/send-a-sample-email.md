@@ -2,8 +2,8 @@
 unique-page-id: 1147352
 description: Send a Sample Email - Marketo Docs - Product Documentation
 title: Send a Sample Email
+exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 ---
-
 # Send a Sample Email {#send-a-sample-email}
 
 It's quick and easy to send samples of an email. To send a dynamic content email, see [Preview an Email with Dynamic Content](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).

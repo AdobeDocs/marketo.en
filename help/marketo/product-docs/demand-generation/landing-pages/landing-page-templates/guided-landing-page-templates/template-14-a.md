@@ -2,8 +2,8 @@
 unique-page-id: 9437801
 description: Template 14-A - Marketo Docs - Product Documentation
 title: Template 14-A
+exl-id: bf096c89-b583-4618-aba9-8bfb7653af16
 ---
-
 # Template 14-A {#template-a}
 
 [Download Template 14-A](https://docs.marketo.com/download/attachments/9437801/template-14a.html?version=1&modificationdate=1438980173000&api=v2)

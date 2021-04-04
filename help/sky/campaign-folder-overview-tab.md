@@ -1,8 +1,8 @@
 ---
 title: campaign-folder-overview-tab
 description: Campaign Folder Overview Tab
+exl-id: 3098658d-1345-4974-a81c-1b639af02b62
 ---
-
 # Campaign Folder: Overview Tab
 
 There are two sections under the campaign folder [!UICONTROL Overview] tab: **[!UICONTROL Details]** and **[!UICONTROL Reports]**.

@@ -2,8 +2,8 @@
 unique-page-id: 4719316
 description: Using Person Accounts - Marketo Docs - Product Documentation
 title: Using Person Accounts
+exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 ---
-
 # Using Person Accounts {#using-person-accounts}
 
 Person accounts can be set up in Salesforce to fit the need of your organization. Here's how Marketo treats person accounts.

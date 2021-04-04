@@ -2,8 +2,8 @@
 unique-page-id: 4719190
 description: Enable Content Discovery - Marketo Docs - Product Documentation
 title: Enable Content Discovery
+exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 ---
-
 # Enable Content Discovery {#enable-content-discovery}
 
 The Content Discovery feature automatically discovers and tags your already existing content (including case studies, blog posts, videos, press releases, etc.) from your website and tracks the number of views on these materials.  Predictive Content uses the discovered content, employing predictive analytics to determine which is your top performing content and recommends the best content to the right person.

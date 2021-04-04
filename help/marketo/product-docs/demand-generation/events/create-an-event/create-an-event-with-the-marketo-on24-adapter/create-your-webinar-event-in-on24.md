@@ -2,8 +2,8 @@
 unique-page-id: 10096712
 description: Create Your Webinar Event in ON24 - Marketo Docs - Product Documentation
 title: Create Your Webinar Event in ON24
+exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
 ---
-
 # Create Your Webinar Event in ON24 {#create-your-webinar-event-in-on}
 
 After creating your webinar in ON24, you can create a Marketo event and associate it with the ON24 webinar. This allows the systems to share registration and attendance information. Make note of the URL and other information for use in your confirmation email and ICS file.

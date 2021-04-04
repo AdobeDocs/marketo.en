@@ -2,8 +2,8 @@
 unique-page-id: 8783322
 description: Validate Microsoft Dynamics Sync - Marketo Docs - Product Documentation
 title: Validate Microsoft Dynamics Sync
+exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 ---
-
 # Validate Microsoft Dynamics Sync {#validate-microsoft-dynamics-sync}
 
 >[!CAUTION]

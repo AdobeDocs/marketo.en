@@ -1,8 +1,8 @@
 ---
 title: save-smart-list-rules
 description: Save Smart List Rules
+exl-id: dabfcba3-a3fb-4d25-8ace-b569c4952eab
 ---
-
 # Save Smart List Rules
 
 <br>&nbsp;

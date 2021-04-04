@@ -2,8 +2,8 @@
 unique-page-id: 11378814
 description: Account Lists - Marketo Docs - Product Documentation
 title: Account Lists
+exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 ---
-
 # Account Lists {#account-lists}
 
 An account list is a collection of named accounts that can be targeted together. Account lists allow you to target named accounts by industry, location, or size of the company.

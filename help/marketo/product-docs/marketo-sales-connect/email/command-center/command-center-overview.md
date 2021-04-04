@@ -2,8 +2,8 @@
 unique-page-id: 14352530
 description: Command Center Overview - Marketo Docs - Product Documentation
 title: Command Center Overview
+exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 ---
-
 # Command Center Overview {#command-center-overview}
 
 The Commend Center is a single, unified view that helps you figure out your next step, while making sure nothing falls through the cracks.

@@ -2,8 +2,8 @@
 unique-page-id: 1147064
 description: Apply Communication Limits to Smart Campaign - Marketo Docs - Product Documentation
 title: Apply Communication Limits to Smart Campaign
+exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 ---
-
 # Apply Communication Limits to Smart Campaign {#apply-communication-limits-to-smart-campaign}
 
 >[!PREREQUISITES]

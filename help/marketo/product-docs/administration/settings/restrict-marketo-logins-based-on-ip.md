@@ -2,8 +2,8 @@
 unique-page-id: 2360297
 description: Restrict Marketo Logins Based on IP - Marketo Docs - Product Documentation
 title: Restrict Marketo Logins Based on IP
+exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 ---
-
 # Restrict Marketo Logins Based on IP {#restrict-marketo-logins-based-on-ip}
 
 You can restrict or enable users from accessing Marketo based on their IP addresses. Here's how.

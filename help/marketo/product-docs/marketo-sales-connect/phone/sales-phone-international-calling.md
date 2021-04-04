@@ -2,8 +2,8 @@
 unique-page-id: 14352434
 description: Sales Phone International Calling - Marketo Docs - Product Documentation
 title: Sales Phone International Calling
+exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 ---
-
 # Sales Phone International Calling {#sales-phone-international-calling}
 
 Sales Phone makes it easy for you to communicate internationally. For customers calling from within the United States, Sales Phone can be used for outbound calls to international countries. For customers outside of the United States, we support calling from international countries.

@@ -2,8 +2,8 @@
 unique-page-id: 4718636
 description: Understanding the Program Cost Analysis Area - Marketo Docs - Product Documentation
 title: Understanding the Program Cost Analysis Area
+exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 ---
-
 # Understanding the Program Cost Analysis Area {#understanding-the-program-cost-analysis-area}
 
 The Program Cost Analysis area allows you to analyze the effectiveness of individual programs, or to see summarized results by channel for a given period of time.

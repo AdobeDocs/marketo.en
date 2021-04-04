@@ -2,8 +2,8 @@
 unique-page-id: 10096681
 description: Understanding Webinar Program Statuses - Marketo Docs - Product Documentation
 title: Understanding Webinar Program Statuses
+exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 ---
-
 # Understanding Webinar Program Statuses {#understanding-webinar-program-statuses}
 
 Program statuses represent the different event statuses that a person progresses through as a member of the event. They are associated to a channel type. Marketo has a built-in channel type called **Webinar**. Statuses can be used in both batch and trigger campaigns.

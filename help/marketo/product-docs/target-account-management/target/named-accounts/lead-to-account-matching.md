@@ -2,8 +2,8 @@
 unique-page-id: 11381156
 description: Lead to Account Matching - Marketo Docs - Product Documentation
 title: Lead to Account Matching
+exl-id: 676ae500-7691-492d-abec-0cac708216b7
 ---
-
 # Lead to Account Matching {#lead-to-account-matching}
 
 Match right leads to right named accounts using Marketo Lead-to-Account matching.

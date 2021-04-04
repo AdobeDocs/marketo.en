@@ -2,8 +2,8 @@
 unique-page-id: 11382122
 description: Enable Audit Trail - Marketo Docs - Product Documentation
 title: Enable Audit Trail
+exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 ---
-
 # Enable Audit Trail {#enable-audit-trail}
 
 Audit Trail is available to all customers and controlled by two admin permissions.

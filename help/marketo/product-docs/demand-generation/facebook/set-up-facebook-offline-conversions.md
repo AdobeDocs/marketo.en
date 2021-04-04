@@ -2,8 +2,8 @@
 unique-page-id: 11383953
 description: Set Up Facebook Offline Conversions - Marketo Docs - Product Documentation
 title: Set Up Facebook Offline Conversions
+exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 ---
-
 # Set Up Facebook Offline Conversions {#set-up-facebook-offline-conversions}
 
 By sending offline conversion data back to Facebook for people created via Lead Ads, your advertising team can optimize their ad spend better than ever. Here's how to set it up.

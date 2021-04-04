@@ -2,8 +2,8 @@
 unique-page-id: 2359781
 description: Create a Referral Offer - Marketo Docs - Product Documentation
 title: Create a Referral Offer
+exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 ---
-
 # Create a Referral Offer {#create-a-referral-offer}
 
 Referral offers give people an incentive to refer their friends. Create goals and rewards for successful referrals. You can drop it on landing pages, your website, and even Facebook.

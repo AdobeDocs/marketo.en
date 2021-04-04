@@ -1,8 +1,8 @@
 ---
 title: set-stream-cadence
 description: Set Stream Cadence
+exl-id: 1a52162f-ec1e-4f20-a640-68c16779456a
 ---
-
 # Set Stream Cadence
 
 <br>&nbsp;

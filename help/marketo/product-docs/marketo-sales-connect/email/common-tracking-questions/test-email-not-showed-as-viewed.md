@@ -2,8 +2,8 @@
 unique-page-id: 14352538
 description: Test Email Not Showed as Viewed - Marketo Docs - Product Documentation
 title: Test Email Not Showed as Viewed
+exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 ---
-
 # Test Email Not Showed as Viewed {#test-email-not-showed-as-viewed}
 
 Even if you sent your message to another email address, we won't log you viewing any emails you’ve sent to yourself in the Live Feed. Our tracking is device-based; as long as you're using a computer you've logged into Sales Connect with, we'll filter out that activity.

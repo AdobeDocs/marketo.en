@@ -2,8 +2,8 @@
 unique-page-id: 14746432
 description: Sync Custom Fields to Performance Insights - Marketo Docs - Product Documentation
 title: Sync Custom Fields to Performance Insights
+exl-id: 90b7cd29-b8f3-4f52-aa15-5c1a0e50b590
 ---
-
 # Sync Custom Fields to Performance Insights {#sync-custom-fields-to-performance-insights}
 
 MPI Revenue and Pipeline dashboards can filter on custom Marketo fields. in order to do so you need to set the custom fields to be synced.

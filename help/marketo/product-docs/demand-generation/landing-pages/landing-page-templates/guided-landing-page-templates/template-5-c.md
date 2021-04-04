@@ -2,8 +2,8 @@
 unique-page-id: 8783920
 description: Template 5-C - Marketo Docs - Product Documentation
 title: Template 5-C
+exl-id: b0e6d27e-676a-4162-a34f-65ace83f27c9
 ---
-
 # Template 5-C {#template-c}
 
 [Download Template 5-C](https://docs.marketo.com/download/attachments/8783920/template-5c.html?version=1&modificationdate=1437692983000&api=v2)

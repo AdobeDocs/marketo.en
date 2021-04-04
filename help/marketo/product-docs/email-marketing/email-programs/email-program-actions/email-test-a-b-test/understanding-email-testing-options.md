@@ -2,8 +2,8 @@
 unique-page-id: 2359483
 description: Understanding Email Testing Options - Marketo Docs - Product Documentation
 title: Understanding Email Testing Options
+exl-id: 8e5b0298-4a4b-4c3a-bee1-712e77abadee
 ---
-
 # Understanding Email Testing Options {#understanding-email-testing-options}
 
 Test your emails to improve their engagement score. There are two kinds of email testing in Marketo.

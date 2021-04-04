@@ -2,8 +2,8 @@
 unique-page-id: 2360346
 description: Edit Field Aliases for List Import - Marketo Docs - Product Documentation
 title: Edit Field Aliases for List Import
+exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 ---
-
 # Edit Field Aliases for List Import {#edit-field-aliases-for-list-import}
 
 When you import a list with unknown headers, you can create field aliases to make it easier. You can also edit those aliases in field management. Check it out.

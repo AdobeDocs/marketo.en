@@ -1,8 +1,8 @@
 ---
 title: delete-a-program
 description: Delete a Program
+exl-id: 1ef0b6d8-5a3e-4dff-a3ad-26874906e2bf
 ---
-
 # Delete a Program
 
 <br>&nbsp;

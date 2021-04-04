@@ -2,8 +2,8 @@
 unique-page-id: 8784011
 description: Template 10-E - Marketo Docs - Product Documentation
 title: Template 10-E
+exl-id: 81a61057-fe24-4dcb-9a9c-73eca9528b4b
 ---
-
 # Template 10-E {#template-e}
 
 [Download Template 10-E](https://docs.marketo.com/download/attachments/8784011/template-10e.html?version=2&modificationdate=1438210974000&api=v2)

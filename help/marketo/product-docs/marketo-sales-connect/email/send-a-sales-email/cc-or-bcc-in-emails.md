@@ -2,8 +2,8 @@
 unique-page-id: 14352521
 description: CC or BCC in Emails - Marketo Docs - Product Documentation
 title: CC or BCC in Emails
+exl-id: c4136fec-a85a-4927-9e1f-1e82274232a9
 ---
-
 # CC or BCC in Emails {#cc-or-bcc-in-emails}
 
 You can CC and BCC individuals like you normally would on your emails.

@@ -2,8 +2,8 @@
 unique-page-id: 7516061
 description: Template 1-F - Marketo Docs - Product Documentation
 title: Template 1-F
+exl-id: eaad3b04-abf7-469a-aedf-e2c4fee1419f
 ---
-
 # Template 1-F {#template-f}
 
 [Download Template 1-F](https://docs.marketo.com/download/attachments/7516061/Template1-F.html?version=1&modificationDate=1432856900000&api=v2)

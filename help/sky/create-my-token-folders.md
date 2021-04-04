@@ -1,8 +1,8 @@
 ---
 title: create-my-token-folders
 description: Create My Token Folders
+exl-id: 52e18c74-613a-4964-9005-2375e249cdbb
 ---
-
 # Create My Token Folders
 
 <br>&nbsp;

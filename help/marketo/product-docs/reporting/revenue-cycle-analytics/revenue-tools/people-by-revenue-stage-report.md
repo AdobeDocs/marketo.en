@@ -2,8 +2,8 @@
 unique-page-id: 2360418
 description: People by Revenue Stage Report - Marketo Docs - Product Documentation
 title: People by Revenue Stage Report
+exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 ---
-
 # People by Revenue Stage Report {#people-by-revenue-stage-report}
 
 You can create a report showing which stage of your Revenue Cycle Model your people are in. The report includes any stage from the specified model as long as there is a person balance for the given date range of the report.

@@ -2,8 +2,8 @@
 unique-page-id: 2359494
 description: Use "Subject Line" A/B Testing - Marketo Docs - Product Documentation
 title: Use "Subject Line" A/B Testing
+exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 ---
-
 # Use "Subject Line" A/B Testing {#use-subject-line-a-b-testing}
 
 You can easily A/B test your emails. One of the most common tests is the **Subject Line** test.

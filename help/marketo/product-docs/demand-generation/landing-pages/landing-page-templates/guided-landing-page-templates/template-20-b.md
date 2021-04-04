@@ -2,8 +2,8 @@
 unique-page-id: 10092913
 description: Template 20-B - Marketo Docs - Product Documentation
 title: Template 20-B
+exl-id: 53a993ae-934d-47b0-98c1-f4e88d4f1b1e
 ---
-
 # Template 20-B {#template-b}
 
 [Download Template 20-B](https://docs.marketo.com/download/attachments/10092913/template-20b.html?version=1&modificationdate=1441750700000&api=v2)

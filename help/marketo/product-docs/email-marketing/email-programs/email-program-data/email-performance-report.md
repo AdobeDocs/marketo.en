@@ -2,8 +2,8 @@
 unique-page-id: 2359467
 description: Email Performance Report - Marketo Docs - Product Documentation
 title: Email Performance Report
+exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 ---
-
 # Email Performance Report {#email-performance-report}
 
 To see how well your emails are performing with stats like delivered, opened, clicked, etc., create an Email Performance Report.

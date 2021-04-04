@@ -2,8 +2,8 @@
 unique-page-id: 7511959
 description: Best Bets in Salesforce1 - Marketo Docs - Product Documentation
 title: Best Bets in Salesforce1
+exl-id: 5b1c9f26-7896-4d38-b458-1a43352ec036
 ---
-
 # Best Bets in Salesforce1 {#best-bets-in-salesforce}
 
 Your [Best Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) are your leads and contacts with the highest urgency and relative score. Only the leads you own are visible in that list, and the list is updated as lead scores change.

@@ -2,8 +2,8 @@
 unique-page-id: 4718656
 description: Create a New Revenue Model - Marketo Docs - Product Documentation
 title: Create a New Revenue Model
+exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 ---
-
 # Create a New Revenue Model {#create-a-new-revenue-model}
 
 1. To create a new Revenue Cycle Model click the **Analytics** button in the My Marketo home screen.

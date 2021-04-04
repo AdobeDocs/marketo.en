@@ -2,8 +2,8 @@
 unique-page-id: 30081318
 description: Connecting with a Group - Marketo Docs - Product Documentation
 title: Connecting with a Group
+exl-id: 8f11868c-9185-4070-881e-07dd1230bfef
 ---
-
 # Connecting with a Group {#connecting-with-a-group}
 
 Learn how to send an email to an entire group, or add a group to a campaign.

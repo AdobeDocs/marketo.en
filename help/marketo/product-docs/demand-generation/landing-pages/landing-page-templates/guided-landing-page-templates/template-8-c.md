@@ -2,8 +2,8 @@
 unique-page-id: 8783966
 description: Template 8-C - Marketo Docs - Product Documentation
 title: Template 8-C
+exl-id: 45f0defc-6554-459c-a862-731d18f9ed6b
 ---
-
 # Template 8-C {#template-c}
 
 [Download Template 8-C](https://docs.marketo.com/download/attachments/8783966/template-8c.html?version=1&modificationdate=1482175053000&api=v2)

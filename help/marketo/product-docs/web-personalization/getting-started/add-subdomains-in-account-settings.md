@@ -2,8 +2,8 @@
 unique-page-id: 17727870
 description: Add Subdomains in Account Settings - Marketo Docs - Product Documentation
 title: Add Subdomains in Account Settings
+exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 ---
-
 # Add Subdomains in Account Settings {#add-subdomains-in-account-settings}
 
 Here's how to add subdomains to your primary domains in Account Settings. This will allow you to manage subdomains related to the specific RTP Javascript of your primary domain. It is recommended to deploy the Javascript tag to any added subdomains.

@@ -2,8 +2,8 @@
 unique-page-id: 17728028
 description: Add Zoom as a LaunchPoint Service - Marketo Docs - Product Documentation
 title: Add Zoom as a LaunchPoint Service
+exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 ---
-
 # Add Zoom as a LaunchPoint Service {#add-zoom-as-a-launchpoint-service}
 
 Marketo manages your Zoom registration and attendance.

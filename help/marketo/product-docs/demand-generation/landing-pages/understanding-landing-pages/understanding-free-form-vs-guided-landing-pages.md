@@ -2,8 +2,8 @@
 unique-page-id: 7515207
 description: Understanding Free-form vs Guided Landing Pages - Marketo Docs - Product Documentation
 title: Understanding Free-form vs Guided Landing Pages
+exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 ---
-
 # Understanding Free-form vs Guided Landing Pages {#understanding-free-form-vs-guided-landing-pages}
 
 The template you choose determines what landing page editing mode you'll be working in. There are two possible paths: [free-form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) and [guided](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Below you'll find a quick summary of the important differences.

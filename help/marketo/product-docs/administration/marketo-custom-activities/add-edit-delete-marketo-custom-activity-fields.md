@@ -2,8 +2,8 @@
 unique-page-id: 10100275
 description: Add/Edit/Delete Marketo Custom Activity Fields - Marketo Docs - Product Documentation
 title: Add/Edit/Delete Marketo Custom Activity Fields
+exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 ---
-
 # Add/Edit/Delete Marketo Custom Activity Fields {#add-edit-delete-marketo-custom-activity-fields}
 
 You may need to add, change, or even get rid of a custom activity field. Here's how.

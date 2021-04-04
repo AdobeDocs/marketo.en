@@ -2,8 +2,8 @@
 unique-page-id: 4719291
 description: Set Default Person Last Name and Company Name - Marketo Docs - Product Documentation
 title: Set Default Person Last Name and Company Name
+exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 ---
-
 # Set Default Person Last Name and Company Name {#set-default-person-last-name-and-company-name}
 
 Salesforce requires (minimum) last name and company name for its Leads and Contacts. Incomplete records will not sync to Salesforce. If you wish to sync partial records, you must set default values for Marketo to use with Salesforce.

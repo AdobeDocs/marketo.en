@@ -2,8 +2,8 @@
 unique-page-id: 7512944
 description: Using Marketo Insights for Google Chrome - Marketo Docs - Product Documentation
 title: Using Marketo Insights for Google Chrome
+exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
 ---
-
 # Using Marketo Insights for Google Chrome {#using-marketo-insights-for-google-chrome}
 
 Send and track any Google email with the Marketo Insights for Google Chrome.

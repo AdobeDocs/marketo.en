@@ -2,8 +2,8 @@
 unique-page-id: 10096583
 description: Next Generation Munchkin Tracking FAQ - Marketo Docs - Product Documentation
 title: Next Generation Munchkin Tracking FAQ
+exl-id: 283189ac-c817-479a-b896-91233980608c
 ---
-
 # Next Generation Munchkin Tracking FAQ {#next-generation-munchkin-tracking-faq}
 
 We are excited to announce that we will soon begin a phased rollout of our next-generation web tracking technology.

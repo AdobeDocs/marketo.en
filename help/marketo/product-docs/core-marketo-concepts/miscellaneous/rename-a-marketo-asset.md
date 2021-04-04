@@ -2,8 +2,8 @@
 unique-page-id: 2952484
 description: Rename a Marketo Asset - Marketo Docs - Product Documentation
 title: Rename a Marketo Asset
+exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
 ---
-
 # Rename a Marketo Asset {#rename-a-marketo-asset}
 
 Folders, programs, and local assets can all be easily renamed.

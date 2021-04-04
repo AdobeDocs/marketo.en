@@ -2,8 +2,8 @@
 unique-page-id: 7511877
 description: Interesting Moments in Salesforce1 - Marketo Docs - Product Documentation
 title: Interesting Moments in Salesforce1
+exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
 ---
-
 # Interesting Moments in Salesforce1 {#interesting-moments-in-salesforce}
 
 [Using Interesting Moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) is the key to communicating with your sales team through the Marketo Sales Insight app. Now, with Marketo Sales Insight for Salesforce1, you can do the same with your smartphone!

@@ -2,8 +2,8 @@
 unique-page-id: 2949413
 description: Add a Constraint to a Smart List Filter - Marketo Docs - Product Documentation
 title: Add a Constraint to a Smart List Filter
+exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 ---
-
 # Add a Constraint to a Smart List Filter {#add-a-constraint-to-a-smart-list-filter}
 
 When creating smart lists, some filters have advanced options called "constraints." These are extra conditions that you can add to filters and triggers to help narrow your search even further.

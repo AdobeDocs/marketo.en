@@ -2,8 +2,8 @@
 unique-page-id: 15695874
 description: Connect BrightTALK to Marketo - Marketo Docs - Product Documentation
 title: Connect BrightTALK to Marketo
+exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 ---
-
 # Connect BrightTALK to Marketo {#connect-brighttalk-to-marketo}
 
 Learn how to connect your BrightTALK channel to your Marketo instance. In order to do this, you must be an Admin for both.

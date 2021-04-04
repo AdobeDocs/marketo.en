@@ -2,8 +2,8 @@
 unique-page-id: 3571836
 description: Microsoft Dynamics Sync -Account Sync - Marketo Docs - Product Documentation
 title: Microsoft Dynamics Sync -Account Sync
+exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
 ---
-
 # Microsoft Dynamics Sync: Account Sync {#microsoft-dynamics-sync-account-sync}
 
 Did you know Marketo syncs your entire database with Dynamics? It syncs, then waits 5 minutes and then syncs again, all day, every day. Here are some details about how Marketo treats Dynamics Accounts specifically.

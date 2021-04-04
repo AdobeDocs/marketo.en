@@ -1,8 +1,8 @@
 ---
 title: cancel-a-scheduled-recurring-batch-campaign-run
 description: Cancel a Scheduled Recurring Batch Campaign Run
+exl-id: 64f1aba4-1a37-45b6-a4e8-b1d57365cdb7
 ---
-
 # Cancel a Scheduled Recurring Batch Campaign Run
 
 <br>&nbsp;

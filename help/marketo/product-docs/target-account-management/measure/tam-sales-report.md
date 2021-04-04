@@ -2,8 +2,8 @@
 unique-page-id: 11385183
 description: TAM Sales Report - Marketo Docs - Product Documentation
 title: TAM Sales Report
+exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 ---
-
 # TAM Sales Report {#tam-sales-report}
 
 Receive a weekly email containing your top accounts and their weekly trends.

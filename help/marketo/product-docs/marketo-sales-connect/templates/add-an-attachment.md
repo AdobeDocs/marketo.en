@@ -2,8 +2,8 @@
 unique-page-id: 14352634
 description: Add an Attachment - Marketo Docs - Product Documentation
 title: Add an Attachment
+exl-id: 67e53ac8-0f23-4125-997b-d3decf17bc7e
 ---
-
 # Add an Attachment {#add-an-attachment}
 
 >[!AVAILABILITY]

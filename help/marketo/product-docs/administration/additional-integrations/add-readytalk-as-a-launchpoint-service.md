@@ -2,8 +2,8 @@
 unique-page-id: 7512278
 description: Add ReadyTalk as a LaunchPoint Service - Marketo Docs - Product Documentation
 title: Add ReadyTalk as a LaunchPoint Service
+exl-id: 936735b5-913e-43ee-bdc2-d65ef37d93a3
 ---
-
 # Add ReadyTalk as a LaunchPoint Service {#add-readytalk-as-a-launchpoint-service}
 
 Marketo manages your ReadyTalk webinar registration and attendance.

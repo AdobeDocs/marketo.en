@@ -2,8 +2,8 @@
 unique-page-id: 2359418
 description: Import a List of People - Marketo Docs - Product Documentation
 title: Import a List of People
+exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 ---
-
 # Import a List of People {#import-a-list-of-people}
 
 ## Mission: Import a spreadsheet list of trade show attendees into your database {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}

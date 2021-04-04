@@ -2,8 +2,8 @@
 unique-page-id: 4718660
 description: Understanding Revenue Model Phases - Marketo Docs - Product Documentation
 title: Understanding Revenue Model Phases
+exl-id: 036559ff-b576-4490-ab76-54092e909178
 ---
-
 # Understanding Revenue Model Phases {#understanding-revenue-model-phases}
 
 Phases are a way to group a number of stages. Sometimes multiple stages in a model reflect one phase of a funnel.

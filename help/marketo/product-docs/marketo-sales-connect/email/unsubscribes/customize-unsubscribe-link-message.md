@@ -2,8 +2,8 @@
 unique-page-id: 14746186
 description: Customize Unsubscribe Link Message - Marketo Docs - Product Documentation
 title: Customize Unsubscribe Link Message
+exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 ---
-
 # Customize Unsubscribe Link Message {#customize-unsubscribe-link-message}
 
 We have always allowed teams to customize their unsubscribe link messaging, but now admins can set the unsubscribe link messaging for their entire team to ensure consistent messaging.

@@ -2,8 +2,8 @@
 unique-page-id: 2359953
 description: People Who Have Exhausted Content - Marketo Docs - Product Documentation
 title: People Who Have Exhausted Content
+exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 ---
-
 # People Who Have Exhausted Content {#people-who-have-exhausted-content}
 
 When a person has received every piece of content in a stream, it has exhausted all possibilities and will wait idle until more is added. You can find people that are "exhausted" in several ways.

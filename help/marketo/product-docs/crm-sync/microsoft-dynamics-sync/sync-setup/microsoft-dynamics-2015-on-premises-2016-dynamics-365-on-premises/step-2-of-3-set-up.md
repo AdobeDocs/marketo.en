@@ -2,8 +2,8 @@
 unique-page-id: 7504739
 description: Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 2 of 3 - Marketo Docs - Product Documentation
 title: Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 2 of 3
+exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 ---
-
 # Step 2 of 3 Set up Marketo for Dynamics (2015 On-Prem and 2016 365 On-Prem){#step-of-set-up-for-marketo-on-premises-and-365}
 
 Great job completing the previous steps. Let's keep moving through this.

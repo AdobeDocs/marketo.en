@@ -2,8 +2,8 @@
 unique-page-id: 4719402
 description: Create a New Widget Web Campaign - Marketo Docs - Product Documentation
 title: Create a New Widget Web Campaign
+exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 ---
-
 # Create a New Widget Web Campaign {#create-a-new-widget-web-campaign}
 
 A web campaign is a customized reaction associated with a specific segment and can be a [dialog box](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) on your website, an [in zone replacement](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), a widget feature, or an email alert. The Widget web campaign is a text or banner that appears on the vertical side of your web page with the ability to expand and contract, while remaining fixed on the website page throughout the visit.

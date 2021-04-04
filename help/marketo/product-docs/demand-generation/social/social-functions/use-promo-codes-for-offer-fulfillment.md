@@ -2,8 +2,8 @@
 unique-page-id: 2359819
 description: Use Promo Codes for Offer Fulfillment - Marketo Docs - Product Documentation
 title: Use Promo Codes for Offer Fulfillment
+exl-id: 71cfc1c5-ecd3-435f-8c8c-1a93478fe80c
 ---
-
 # Use Promo Codes for Offer Fulfillment {#use-promo-codes-for-offer-fulfillment}
 
 When you create a referral offer or a sweepstakes, you can send a promo (coupon) code to each winner. To redeem their reward, they use the code, for example, on the checkout page of a purchase on your site.

@@ -2,8 +2,8 @@
 unique-page-id: 1147138
 description: Rescheduling an Entire Program from the Schedule View - Marketo Docs - Product Documentation
 title: Rescheduling an Entire Program from the Schedule View
+exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 ---
-
 # Rescheduling an Entire Program from the Schedule View {#rescheduling-an-entire-program-from-the-schedule-view}
 
 When you clone a program or event with dates, you will likely want to reschedule all of the dates at once. Here's how.

@@ -2,8 +2,8 @@
 unique-page-id: 8159309
 description: Template 3-A - Marketo Docs - Product Documentation
 title: Template 3-A
+exl-id: ec664f4b-b82d-408b-8657-d41056a9eb16
 ---
-
 # Template 3-A {#template-a}
 
 [Download Template 3-A](https://docs.marketo.com/download/attachments/8159309/template3-a.html?version=1&modificationdate=1434057345000&api=v2)

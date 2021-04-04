@@ -2,8 +2,8 @@
 unique-page-id: 1146944
 description: Add a Flow Step to a Smart Campaign - Marketo Docs - Product Documentation
 title: Add a Flow Step to a Smart Campaign
+exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 ---
-
 # Add a Flow Step to a Smart Campaign {#add-a-flow-step-to-a-smart-campaign}
 
 Flow steps tell Marketo what you want to have happen to a group of people that qualify. They are your instructions, and the smart campaign will do your bidding!

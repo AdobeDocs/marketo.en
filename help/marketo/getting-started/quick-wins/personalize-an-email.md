@@ -2,8 +2,8 @@
 unique-page-id: 2359422
 description: Personalize an Email - Marketo Docs - Product Documentation
 title: Personalize an Email
+exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 ---
-
 # Personalize an Email {#personalize-an-email}
 
 ## Mission: Make your emails personal by adding data tokens {#mission-make-your-emails-personal-by-adding-data-tokens}

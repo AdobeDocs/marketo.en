@@ -2,8 +2,8 @@
 unique-page-id: 10094959
 description: Using Dashboards in Revenue Explorer - Marketo Docs - Product Documentation
 title: Using Dashboards in Revenue Explorer
+exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 ---
-
 # Using Dashboards in Revenue Explorer {#using-dashboards-in-revenue-explorer}
 
 A dashboard is a combination of Revenue Explorer reports to get a quick overview of your leads, campaigns, opportunities, and/or models.

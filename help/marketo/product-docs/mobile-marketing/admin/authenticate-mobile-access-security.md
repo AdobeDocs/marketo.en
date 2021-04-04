@@ -2,8 +2,8 @@
 unique-page-id: 10096158
 description: Authenticate Mobile Access Security - Marketo Docs - Product Documentation
 title: Authenticate Mobile Access Security
+exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 ---
-
 # Authenticate Mobile Access Security {#authenticate-mobile-access-security}
 
 To improve security for Mobile users, Marketo provides two new IDs: the Access Key and the Access Secret. These help to ensure that users logging into your app actually are who they appear to be.

@@ -1,8 +1,8 @@
 ---
 title: copy-labels-from-parent-to-child
 description: Copy Labels from Parent to Child
+exl-id: dab0f694-f42b-484d-8428-8ea6d2a00d92
 ---
-
 # Copy Labels from Parent to Child
 
 <br>&nbsp;

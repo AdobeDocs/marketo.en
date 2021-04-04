@@ -2,8 +2,8 @@
 unique-page-id: 2360188
 description: Campaign Email Performance Report - Marketo Docs - Product Documentation
 title: Campaign Email Performance Report
+exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 ---
-
 # Campaign Email Performance Report {#campaign-email-performance-report}
 
 To see your email performance stats grouped by [smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), run a Campaign Email Performance report.

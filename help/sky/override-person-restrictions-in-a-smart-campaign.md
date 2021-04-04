@@ -1,8 +1,8 @@
 ---
 title: override-person-restrictions-in-a-smart-campaign
 description: Override Person Restrictions in a Smart Campaign
+exl-id: efdd6c68-a95e-4b2a-9249-e2e1f550b628
 ---
-
 # Override Person Restrictions in a Smart Campaign
 
 <br>&nbsp;

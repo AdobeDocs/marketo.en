@@ -2,8 +2,8 @@
 unique-page-id: 2360198
 description: Create, Delete, Edit and Change a User Role - Marketo Docs - Product Documentation
 title: Create, Delete, Edit and Change a User Role
+exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 ---
-
 # Create, Delete, Edit and Change a User Role {#create-delete-edit-and-change-a-user-role}
 
 **Roles** group together a bunch of permissions. **Permissions** allow you to do stuff in Marketo. You assign a **role** to a user. Easy as pie.

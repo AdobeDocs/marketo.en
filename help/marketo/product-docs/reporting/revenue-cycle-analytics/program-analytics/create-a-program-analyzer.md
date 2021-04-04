@@ -2,8 +2,8 @@
 unique-page-id: 2360399
 description: Create a Program Analyzer - Marketo Docs - Product Documentation
 title: Create a Program Analyzer
+exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 ---
-
 # Create a Program Analyzer {#create-a-program-analyzer}
 
 Discover which programs and channels are giving you the biggest bang for your marketing buck. Use the program analyzer to scrutinize and compare every cost and return in detail, by program or by channel.

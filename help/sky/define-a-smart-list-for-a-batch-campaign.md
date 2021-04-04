@@ -1,8 +1,8 @@
 ---
 title: define-a-smart-list-for-a-batch-campaign
 description: Define a Smart List for a Batch Campaign
+exl-id: 35130f40-cce5-4677-8eaf-f9d73c995ba3
 ---
-
 # Define a Smart List for a Batch Campaign
 
 <br>&nbsp;

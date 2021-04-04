@@ -2,8 +2,8 @@
 unique-page-id: 11385053
 description: Deploy the JavaScript for Content-AI - Marketo Docs - Product Documentation
 title: Deploy the JavaScript for Content-AI
+exl-id: d48bfd1b-73e8-4013-88d6-8750e4ef532b
 ---
-
 # Deploy the JavaScript for Content-AI {#deploy-the-javascript-for-content-ai}
 
 To use Predictive Content, you need to generate and set up your the RTP (Web Personalization) tag.

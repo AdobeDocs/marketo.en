@@ -2,8 +2,8 @@
 unique-page-id: 10099408
 description: Email Insights Overview - Marketo Docs - Product Documentation
 title: Email Insights Overview
+exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 ---
-
 # Email Insights Overview {#email-insights-overview}
 
 Email Insights provides powerful insights from historical data for Email Marketers. It consists of two separate but associated sections: Analytics and Sends.

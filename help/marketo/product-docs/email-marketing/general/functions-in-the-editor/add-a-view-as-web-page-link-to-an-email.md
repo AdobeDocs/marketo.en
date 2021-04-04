@@ -2,8 +2,8 @@
 unique-page-id: 1900560
 description: Add a View as Web Page Link to an Email - Marketo Docs - Product Documentation
 title: Add a View as Web Page Link to an Email
+exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 ---
-
 # Add a View as Web Page Link to an Email {#add-a-view-as-web-page-link-to-an-email}
 
 Emails have limited capabilities (limited CSS and no JavaScript or forms). Use View as Web Page to provide a link to show your email in a browser. This will cookie the recipient using the Munchkin.

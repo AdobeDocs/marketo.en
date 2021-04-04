@@ -2,8 +2,8 @@
 unique-page-id: 14352524
 description: Hard Bounces - Marketo Docs - Product Documentation
 title: Hard Bounces
+exl-id: 903c8548-4d2e-469e-a147-25232fc8ed3e
 ---
-
 # Hard Bounces {#hard-bounces}
 
 A hard bounce occurs when an email has failed due to an invalid email address.

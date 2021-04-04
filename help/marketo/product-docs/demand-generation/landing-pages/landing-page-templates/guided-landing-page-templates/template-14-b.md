@@ -2,8 +2,8 @@
 unique-page-id: 9437804
 description: Template 14-B - Marketo Docs - Product Documentation
 title: Template 14-B
+exl-id: 04ec95f6-a657-4cb4-96dd-a65ad3720441
 ---
-
 # Template 14-B {#template-b}
 
 [Download Template 14-B](https://docs.marketo.com/download/attachments/9437804/template-14b.html?version=1&modificationdate=1438980216000&api=v2)

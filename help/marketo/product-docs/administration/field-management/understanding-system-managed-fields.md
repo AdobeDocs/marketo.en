@@ -2,8 +2,8 @@
 unique-page-id: 5472615
 description: Understanding System Managed Fields - Marketo Docs - Product Documentation
 title: Understanding System Managed Fields
+exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 ---
-
 # Understanding System Managed Fields {#understanding-system-managed-fields}
 
 You might have noticed that the [person detail page](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) has a series of non-editable fields created by Marketo. This data comes from various sources, and there are countless values that could display.

@@ -2,8 +2,8 @@
 unique-page-id: 26837421
 description: Create a Matched Audience on LinkedIn - Marketo Docs - Product Documentation
 title: Create a Matched Audience on LinkedIn
+exl-id: 55f2106d-6078-4a47-ab00-6b6dc950a206
 ---
-
 # Create a Matched Audience on LinkedIn {#create-a-matched-audience-on-linkedin}
 
 Create matched audiences from your TAM Account Lists for LinkedIn Ad Targeting.

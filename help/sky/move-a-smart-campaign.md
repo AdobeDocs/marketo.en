@@ -1,8 +1,8 @@
 ---
 title: move-a-smart-campaign
 description: Move a Smart Campaign
+exl-id: e06f188d-1b65-4167-868f-d33fbffb6b74
 ---
-
 # Move a Smart Campaign
 
 <br>&nbsp;

@@ -2,8 +2,8 @@
 unique-page-id: 9437586
 description: Template 12-E - Marketo Docs - Product Documentation
 title: Template 12-E
+exl-id: fc330e23-9247-4565-a607-0c10d3ef89c6
 ---
-
 # Template 12-E {#template-e}
 
 [Download Template 12-E](https://docs.marketo.com/download/attachments/9437586/template-12e.html?version=1&modificationdate=1438211652000&api=v2)

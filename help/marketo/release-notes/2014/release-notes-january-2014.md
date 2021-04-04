@@ -2,8 +2,8 @@
 unique-page-id: 2951050
 description: Release Notes -January 2014 - Marketo Docs - Product Documentation
 title: Release Notes -January 2014
+exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 ---
-
 # Release Notes: January 2014 {#release-notes-january}
 
 The following features are included in the January 2014 release. Please check your [Marketo Edition](https://www.marketo.com/pricing/) for feature availability.

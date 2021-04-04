@@ -2,8 +2,8 @@
 unique-page-id: 8783141
 description: Send a Push Notification Sample - Marketo Docs - Product Documentation
 title: Send a Push Notification Sample
+exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 ---
-
 # Send a Push Notification Sample {#send-a-push-notification-sample}
 
 You can send a sample to verify that your push notification is working correctly!

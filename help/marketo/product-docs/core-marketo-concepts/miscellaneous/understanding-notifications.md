@@ -2,8 +2,8 @@
 unique-page-id: 2952292
 description: Understanding Notifications - Marketo Docs - Product Documentation
 title: Understanding Notifications
+exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 ---
-
 # Understanding Notifications {#understanding-notifications}
 
 Notifications keep you up-to-date on system events happening in your Marketo subscription. For example, Campaign failure notifications inform you about errors in your smart campaigns, and CRM sync notifications alert you to critical issues found with the CRM sync, such as incorrect permissions or the sync being down.

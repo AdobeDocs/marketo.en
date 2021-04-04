@@ -1,8 +1,8 @@
 ---
 title: create-a-batch-smart-campaign-in-program-schedule-view
 description: Create a Batch Smart Campaign in Program Schedule View
+exl-id: 1454d306-77cb-4bc5-9ae0-8a4382637e63
 ---
-
 # Create a Batch Smart Campaign in Program Schedule View
 
 <br>&nbsp;

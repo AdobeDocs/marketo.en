@@ -2,8 +2,8 @@
 unique-page-id: 1147055
 description: Campaign Actions -Delete a Smart Campaign - Marketo Docs - Product Documentation
 title: Campaign Actions -Delete a Smart Campaign
+exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 ---
-
 # Campaign Actions: Delete a Smart Campaign {#campaign-actions-delete-a-smart-campaign}
 
 If you have an old smart campaign that you don't need anymore, you can delete it. Here's how.

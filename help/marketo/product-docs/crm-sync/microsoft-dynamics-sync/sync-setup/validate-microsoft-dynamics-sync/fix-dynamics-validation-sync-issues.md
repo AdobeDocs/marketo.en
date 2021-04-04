@@ -2,8 +2,8 @@
 unique-page-id: 10095429
 description: Fix Dynamics Validation Sync Issues - Marketo Docs - Product Documentation
 title: Fix Dynamics Validation Sync Issues
+exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 ---
-
 # Fix Dynamics Validation Sync Issues {#fix-dynamics-validation-sync-issues}
 
 ## Validate Sync Tool Results {#validate-sync-tool-results}

@@ -2,8 +2,8 @@
 unique-page-id: 2359496
 description: Add Content to a Snippet - Marketo Docs - Product Documentation
 title: Add Content to a Snippet
+exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 ---
-
 # Add Content to a Snippet {#add-content-to-a-snippet}
 
 >[!PREREQUISITES]

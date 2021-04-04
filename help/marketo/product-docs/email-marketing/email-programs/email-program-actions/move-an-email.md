@@ -2,8 +2,8 @@
 unique-page-id: 10098691
 description: Move an Email - Marketo Docs - Product Documentation
 title: Move an Email
+exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
 ---
-
 # Move an Email {#move-an-email}
 
 Need to move an email from one program to another? Here's how.

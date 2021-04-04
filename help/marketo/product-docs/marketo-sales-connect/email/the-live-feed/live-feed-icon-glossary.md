@@ -2,8 +2,8 @@
 unique-page-id: 14352542
 description: Live Feed Icon Glossary - Marketo Docs - Product Documentation
 title: Live Feed Icon Glossary
+exl-id: 3d051af2-c962-4145-afc3-2d4fe03598b7
 ---
-
 # Live Feed Icon Glossary {#live-feed-icon-glossary}
 
 | ![--](assets/1.png)|Someone viewed your email. |

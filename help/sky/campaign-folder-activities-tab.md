@@ -1,8 +1,8 @@
 ---
 title: campaign-folder-activities-tab
-description: Campaign Folder Activities Tab 
+description: Campaign Folder Activities Tab
+exl-id: 8ac1d940-fe79-48ca-a5c4-a65a8867590a
 ---
-
 # Campaign Folder: Activities Tab
 
 Find key information about your campaigns in the **[!UICONTROL Activities]** tab.

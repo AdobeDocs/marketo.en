@@ -2,8 +2,8 @@
 unique-page-id: 14352602
 description: My Dynamic Fields Aren't Filling Out - Marketo Docs - Product Documentation
 title: My Dynamic Fields Aren't Filling Out
+exl-id: fb3e8b56-506a-41f8-a84f-41370381c058
 ---
-
 # My Dynamic Fields Aren't Filling Out {#my-dynamic-fields-arent-filling-out}
 
 Dynamic fields will only work when you're using a template. Individual one-off emails that you write won't fill these out.

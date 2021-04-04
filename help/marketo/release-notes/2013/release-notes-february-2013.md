@@ -2,8 +2,8 @@
 unique-page-id: 2951103
 description: Release Notes -February 2013 - Marketo Docs - Product Documentation
 title: Release Notes -February 2013
+exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 ---
-
 # Release Notes: February 2013 {#release-notes-february}
 
 The February release includes a highly requested feature, support for Apple Safari and other small enhancements.

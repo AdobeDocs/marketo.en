@@ -2,8 +2,8 @@
 unique-page-id: 1147237
 description: Filter a Program Report by Period Cost - Marketo Docs - Product Documentation
 title: Filter a Program Report by Period Cost
+exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 ---
-
 # Filter a Program Report by Period Cost {#filter-a-program-report-by-period-cost}
 
 Focus your [program performance report](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) on a specific period cost timeframe.

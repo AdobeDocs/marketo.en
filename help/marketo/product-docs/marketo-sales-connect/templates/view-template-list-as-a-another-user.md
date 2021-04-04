@@ -2,8 +2,8 @@
 unique-page-id: 18317369
 description: View Template List as a Another User - Marketo Docs - Product Documentation
 title: View Template List as a Another User
+exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
 ---
-
 # View Template List as a Another User {#view-template-list-as-a-another-user}
 
 As an Admin, you can view templates as any user.

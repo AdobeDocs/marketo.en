@@ -2,8 +2,8 @@
 unique-page-id: 1146935
 description: Activate a Trigger Smart Campaign | Schedule Tab - Marketo Docs - Product Documentation
 title: Activate a Trigger Smart Campaign | Schedule Tab
+exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 ---
-
 # Activate a Trigger Smart Campaign | Schedule Tab {#activate-a-trigger-smart-campaign-schedule-tab}
 
 Activating a trigger smart campaign is like turning it ON. Here's what to do.

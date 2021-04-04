@@ -1,8 +1,8 @@
 ---
 title: create-a-smart-campaign
 description: Create a Smart Campaign
+exl-id: be71702c-3e8a-4f54-b8bd-b46b5bd12a3b
 ---
-
 # Create a Smart Campaign
 
 <br>&nbsp;

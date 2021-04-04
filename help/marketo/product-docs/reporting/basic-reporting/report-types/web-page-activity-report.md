@@ -2,8 +2,8 @@
 unique-page-id: 2359971
 description: Web Page Activity Report - Marketo Docs - Product Documentation
 title: Web Page Activity Report
+exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 ---
-
 # Web Page Activity Report {#web-page-activity-report}
 
 In this report, you can see who's visiting your website and even subscribe to an email version of the report.

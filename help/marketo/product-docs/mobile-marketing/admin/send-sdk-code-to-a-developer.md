@@ -2,8 +2,8 @@
 unique-page-id: 7512448
 description: Send SDK Code to a Developer - Marketo Docs - Product Documentation
 title: Send SDK Code to a Developer
+exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 ---
-
 # Send SDK Code to a Developer {#send-sdk-code-to-a-developer}
 
 Before you can create in-app messages or push notifications, you must have your developer set up and initialize the Mobile App SDK for the Android and iOS platforms.

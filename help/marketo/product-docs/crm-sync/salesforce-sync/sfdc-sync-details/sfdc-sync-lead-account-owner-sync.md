@@ -2,8 +2,8 @@
 unique-page-id: 2953463
 description: SFDC Sync -Lead/Account Owner Sync - Marketo Docs - Product Documentation
 title: SFDC Sync -Lead/Account Owner Sync
+exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 ---
-
 # SFDC Sync: Lead/Account Owner Sync {#sfdc-sync-lead-account-owner-sync}
 
 These are technically syncing the "user" table in Salesforce, however we will refer to it as Lead/Account Owner fields.

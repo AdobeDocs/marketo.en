@@ -2,8 +2,8 @@
 unique-page-id: 2949874
 description: Create an Event with GotoWebinar - Marketo Docs - Product Documentation
 title: Create an Event with GotoWebinar
+exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 ---
-
 # Create an Event with GotoWebinar {#create-an-event-with-gotowebinar}
 
 >[!PREREQUISITES]

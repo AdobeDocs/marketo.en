@@ -2,8 +2,8 @@
 unique-page-id: 2359795
 description: Create Sweepstakes - Marketo Docs - Product Documentation
 title: Create Sweepstakes
+exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
 ---
-
 # Create Sweepstakes {#create-sweepstakes}
 
 A sweepstakes gives people a chance to win a prize in return for telling their friends about you. You can drop it on landing pages, your website, and even Facebook.

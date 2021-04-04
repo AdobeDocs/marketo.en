@@ -2,8 +2,8 @@
 unique-page-id: 8783981
 description: Template 9-A - Marketo Docs - Product Documentation
 title: Template 9-A
+exl-id: cc729eee-224b-4acd-87d8-7fb9155d73fb
 ---
-
 # Template 9-A {#template-a}
 
 [Download Template 9-A](https://docs.marketo.com/download/attachments/8783981/template-9a.html?version=2&modificationdate=1438210648000&api=v2)

@@ -2,8 +2,8 @@
 unique-page-id: 10617187
 description: Understanding Privacy Settings - Marketo Docs - Product Documentation
 title: Understanding Privacy Settings
+exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 ---
-
 # Understanding Privacy Settings {#understanding-privacy-settings}
 
 ## Overview {#overview}

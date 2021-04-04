@@ -2,8 +2,8 @@
 unique-page-id: 2359866
 description: Grab the Images from a Web Page - Marketo Docs - Product Documentation
 title: Grab the Images from a Web Page
+exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 ---
-
 # Grab the Images from a Web Page {#grab-the-images-from-a-web-page}
 
 To add images from a web page, copy the web address (URL) of the page that has the images you want, then follow these easy steps.

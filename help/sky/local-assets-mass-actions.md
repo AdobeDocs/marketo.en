@@ -1,8 +1,8 @@
 ---
 title: local-assets-mass-actions
 description: Local Assets Mass Actions
+exl-id: e11d4019-56d6-47e0-bdd5-d61f558158f5
 ---
-
 # Local Assets: Mass Actions
 
 <br>&nbsp;

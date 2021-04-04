@@ -2,8 +2,8 @@
 unique-page-id: 2953342
 description: Add a Lead/Contact to a Marketo Campaign from Microsoft Dynamics - Marketo Docs - Product Documentation
 title: Add a Lead/Contact to a Marketo Campaign from Microsoft Dynamics
+exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 ---
-
 # Add a Lead/Contact to a Marketo Campaign from Microsoft Dynamics {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
 
 You can quickly and easily add leads/contacts to Marketo smart campaigns directly from within Microsoft Dynamics. Here's how.

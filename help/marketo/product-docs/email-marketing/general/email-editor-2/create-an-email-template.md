@@ -2,8 +2,8 @@
 unique-page-id: 10096400
 description: Create an Email Template - Marketo Docs - Product Documentation
 title: Create an Email Template
+exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 ---
-
 # Create an Email Template {#create-an-email-template}
 
 Follow these steps to create a new email template.

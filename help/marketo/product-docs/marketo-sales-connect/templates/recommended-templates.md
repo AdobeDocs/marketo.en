@@ -2,8 +2,8 @@
 unique-page-id: 14352510
 description: Recommended Templates - Marketo Docs - Product Documentation
 title: Recommended Templates
+exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
 ---
-
 # Recommended Templates {#recommended-templates}
 
 Sales Connect’s Recommended Templates help you get the right messaging while saving you time. This gives you greater flow when sending emails and reduces uncertainty when trying to find the right email for the right person.

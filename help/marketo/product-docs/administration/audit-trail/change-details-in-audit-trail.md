@@ -2,8 +2,8 @@
 unique-page-id: 11379928
 description: Change Details in Audit Trail - Marketo Docs - Product Documentation
 title: Change Details in Audit Trail
+exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 ---
-
 # Change Details in Audit Trail {#change-details-in-audit-trail}
 
 Audit Trail offers a great deal of insight into who's doing what in your Marketo subscription. Here are the details.
@@ -806,4 +806,3 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
 >[!MORELIKETHIS]
 >
 >[Filtering in Audit Trail](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
-

@@ -2,8 +2,8 @@
 unique-page-id: 11379045
 description: Add a Flow Step for SMS - Marketo Docs - Product Documentation
 title: Add a Flow Step for SMS
+exl-id: 8e96f6ad-43c9-4d64-8cb6-241664956d72
 ---
-
 # Add a Flow Step for SMS {#add-a-flow-step-for-sms}
 
 Marketo has three flow steps you can use in your SMS smart campaigns:

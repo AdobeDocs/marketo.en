@@ -2,8 +2,8 @@
 unique-page-id: 2359757
 description: Add a Social Button on a Landing Page - Marketo Docs - Product Documentation
 title: Add a Social Button on a Landing Page
+exl-id: a47aec5a-435d-479f-856c-5fa2e0f9c6e8
 ---
-
 # Add a Social Button on a Landing Page {#add-a-social-button-on-a-landing-page}
 
 A social button encourages people to share your content with their friends. Drop it on landing pages, Facebook, and your website.
@@ -47,4 +47,3 @@ Congratulations! You have added a social button to your landing page. Be sure to
 >[!MORELIKETHIS]
 >
 >You're done, but you can change the settings of your social button if necessary. Start with [customizing the button style](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) and [editing the share messages](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) it presents.
-

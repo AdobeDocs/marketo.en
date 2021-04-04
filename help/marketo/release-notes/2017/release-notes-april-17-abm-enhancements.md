@@ -2,8 +2,8 @@
 unique-page-id: 12977326
 description: Release Notes -April '17 ABM Enhancements - Marketo Docs - Product Documentation
 title: Release Notes -April '17 ABM Enhancements
+exl-id: 2b8b1ed2-de57-42c2-a3f5-3b49895d7595
 ---
-
 # Release Notes: April '17 ABM Enhancements {#release-notes-april-abm-enhancements}
 
 The following features are included in the April '17 ABM enhancement release. Check your Marketo edition for feature availability.

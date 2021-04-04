@@ -2,8 +2,8 @@
 unique-page-id: 2949839
 description: Check People into Your Event from Your Tablet - Marketo Docs - Product Documentation
 title: Check People into Your Event from Your Tablet
+exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 ---
-
 # Check People into Your Event from Your Tablet {#check-people-into-your-event-from-your-tablet}
 
 When people show up at your event, you can find their information on the app. After check-in, they're promoted to Attended status when you sync to Marketo.

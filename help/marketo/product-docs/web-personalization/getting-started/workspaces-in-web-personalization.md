@@ -2,8 +2,8 @@
 unique-page-id: 17727499
 description: Workspaces in Web Personalization - Marketo Docs - Product Documentation
 title: Workspaces in Web Personalization
+exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 ---
-
 # Workspaces in Web Personalization {#workspaces-in-web-personalization}
 
 Web Personalization supports multiple workspaces for web campaigns and web segments.

@@ -2,8 +2,8 @@
 unique-page-id: 1147116
 description: Managing My Tokens - Marketo Docs - Product Documentation
 title: Managing My Tokens
+exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 ---
-
 # Managing My Tokens {#managing-my-tokens}
 
 Using tokens can simplify your efforts in Marketo. You can use [My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (custom tokens) in flow steps, webhooks, emails, and landing pages. Here's how to make them.

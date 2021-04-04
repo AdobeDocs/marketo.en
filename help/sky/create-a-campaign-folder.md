@@ -1,8 +1,8 @@
 ---
 title: create-a-campaign-folder
 description: Create a Campaign Folder
+exl-id: b6687385-2f45-4946-98d2-88138e1e2875
 ---
-
 # Create a Campaign Folder
 
 <br>&nbsp;

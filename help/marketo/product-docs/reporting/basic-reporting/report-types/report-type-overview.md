@@ -2,8 +2,8 @@
 unique-page-id: 2359965
 description: Report Type Overview - Marketo Docs - Product Documentation
 title: Report Type Overview
+exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 ---
-
 # Report Type Overview {#report-type-overview}
 
 When you [create a report in a program](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), choose what type of report you want.

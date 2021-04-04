@@ -1,8 +1,8 @@
 ---
 title: copy-labels-from-original-to-clone
 description: Copy Labels from Original to Clone
+exl-id: 30366a53-bdcf-45dc-8371-d510de60c432
 ---
-
 # Copy Labels from Original to Clone
 
 <br>&nbsp;

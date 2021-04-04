@@ -2,8 +2,8 @@
 unique-page-id: 7513680
 description: Automate an Alert for Possible Duplicate People - Marketo Docs - Product Documentation
 title: Automate an Alert for Possible Duplicate People
+exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 ---
-
 # Automate an Alert for Possible Duplicate People {#automate-an-alert-for-possible-duplicate-people}
 
 Want an alert every time possible duplicate person is created? Here is how to set up a Smart Campaign to do it.

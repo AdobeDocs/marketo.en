@@ -2,8 +2,8 @@
 unique-page-id: 4718648
 description: Understanding the Opportunity Influence Analyzer - Marketo Docs - Product Documentation
 title: Understanding the Opportunity Influence Analyzer
+exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 ---
-
 # Understanding the Opportunity Influence Analyzer {#understanding-the-opportunity-influence-analyzer}
 
 Each opportunity is a story. Where did you meet the lead? What marketing opportunities affected them during the marketing/sales process?

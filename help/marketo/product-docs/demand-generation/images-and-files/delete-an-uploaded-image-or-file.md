@@ -2,8 +2,8 @@
 unique-page-id: 2359873
 description: Delete an Uploaded Image or File - Marketo Docs - Product Documentation
 title: Delete an Uploaded Image or File
+exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 ---
-
 # Delete an Uploaded Image or File {#delete-an-uploaded-image-or-file}
 
 1. Go to the **Design** **Studio**.

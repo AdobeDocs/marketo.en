@@ -2,8 +2,8 @@
 unique-page-id: 7512607
 description: Download GoogleAdwords Activity Log - Marketo Docs - Product Documentation
 title: Download GoogleAdwords Activity Log
+exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
 ---
-
 # Download GoogleAdwords Activity Log {#download-googleadwords-activity-log}
 
 Stuff happens. Sometimes you need to download the activity log to troubleshoot issues.

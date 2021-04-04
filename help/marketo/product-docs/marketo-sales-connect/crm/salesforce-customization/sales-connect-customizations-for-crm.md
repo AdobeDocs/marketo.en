@@ -2,8 +2,8 @@
 unique-page-id: 14745793
 description: Sales Connect Customizations for CRM - Marketo Docs - Product Documentation
 title: Sales Connect Customizations for CRM
+exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 ---
-
 # Sales Connect Customizations for CRM {#sales-connect-customizations-for-crm}
 
 The fields and buttons below are created by the Metadata API in Salesforce CRM. Once the fields are created, admins must configure the page layouts in their CRM to expose them. Instructions can be found [here](https://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).

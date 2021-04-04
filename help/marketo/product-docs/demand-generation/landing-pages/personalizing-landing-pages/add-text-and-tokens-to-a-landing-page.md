@@ -2,8 +2,8 @@
 unique-page-id: 2359530
 description: Add Text and Tokens to a Landing Page - Marketo Docs - Product Documentation
 title: Add Text and Tokens to a Landing Page
+exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 ---
-
 # Add Text and Tokens to a Landing Page {#add-text-and-tokens-to-a-landing-page}
 
 >[!NOTE]

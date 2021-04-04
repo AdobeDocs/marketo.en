@@ -2,8 +2,8 @@
 unique-page-id: 7504770
 description: View the Organization Service URL - Marketo Docs - Product Documentation
 title: View the Organization Service URL
+exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
 ---
-
 # View the Organization Service URL {#view-the-organization-service-url}
 
 Marketo needs the Organization Service URL to sync with Dynamics instances. Here is how to find it in Dynamics.

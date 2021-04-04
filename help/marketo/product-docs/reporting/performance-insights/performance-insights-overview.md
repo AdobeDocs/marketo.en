@@ -2,8 +2,8 @@
 unique-page-id: 12979006
 description: Performance Insights Overview - Marketo Docs - Product Documentation
 title: Performance Insights Overview
+exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 ---
-
 # Performance Insights Overview {#performance-insights-overview}
 
 Marketo Performance Insights helps you optimize your channel mix for maximum effectiveness, as well as uncover long-term trends to spot consistent winning strategies.

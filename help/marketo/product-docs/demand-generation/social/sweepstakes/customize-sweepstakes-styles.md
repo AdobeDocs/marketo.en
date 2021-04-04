@@ -2,8 +2,8 @@
 unique-page-id: 2359807
 description: Customize Sweepstakes Styles - Marketo Docs - Product Documentation
 title: Customize Sweepstakes Styles
+exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
 ---
-
 # Customize Sweepstakes Styles {#customize-sweepstakes-styles}
 
 When you [create a sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), you can customize how it looks on your landing page.

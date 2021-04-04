@@ -2,8 +2,8 @@
 unique-page-id: 4718668
 description: Using Revenue Model SLA Stages - Marketo Docs - Product Documentation
 title: Using Revenue Model SLA Stages
+exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
 ---
-
 # Using Revenue Model SLA Stages {#using-revenue-model-sla-stages}
 
 SLA stands for “service level agreement.” These stages are used when there is a defined maximum time in which a lead needs to be evaluated or processed before moving forward or out of the process.
