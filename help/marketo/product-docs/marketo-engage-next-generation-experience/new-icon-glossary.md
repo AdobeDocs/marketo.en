@@ -5,7 +5,7 @@ exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 ---
 # New Icon Glossary {#new-icon-glossary}
 
-Below are all the new icons for the new Adobe Marketo Engage interface. If you're still running Marketo Classic, your icon glossary [can be found here](/help/marketo/getting-started/icon-glossary.md).
+Below are all the new icons for the new Adobe Marketo Engage interface. If you're still running Marketo Classic, your icon glossary can be [found here](/help/marketo/getting-started/icon-glossary.md).
 
 ## General Icons {#general-icons}
 
