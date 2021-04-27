@@ -92,7 +92,7 @@ Below are all the new icons for the new Adobe Marketo Engage interface. If you'r
    <td>Folder - archived</td> 
   </tr>
   <tr>
-   <td><img src="assets/classic-folder-locked.png"></td> 
+   <td><img src="assets/classic-locked-folder.jpg"></td> 
    <td><img src="assets/folder-locked.png"></td> 
    <td>Folder - locked</td> 
   </tr>
