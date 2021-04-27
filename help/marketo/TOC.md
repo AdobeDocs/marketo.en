@@ -593,7 +593,7 @@ hide: yes
       + [Implied Salesforce Actions](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
       + [Salesforce Sync Errors](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
       + [Salesforce Sync Status](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
-      + [Setting up OAuth 2.0](product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md)
+      + [Log in Using OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
   + Demand Generation {#demand-generation}
     + Ad Network Integrations {#ad-network-integrations}
       + [Understanding Ad Network Integrations](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
