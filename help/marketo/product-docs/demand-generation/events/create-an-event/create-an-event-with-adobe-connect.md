@@ -13,11 +13,17 @@ Syncing with Adobe Connect allows you to manage your webinar registration and at
 >* [Link Adobe Connect and Marketo](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
-First, make sure you've created your meeting or seminar in Adobe Connect. If you need help, check out the [Adobe Connect User Guide](https://help.adobe.com/en_US/connect/9.0/using/index.html). The meetings and seminars that you create in Adobe Connect must be created under the folder that you specified when you entered your credentials in Marketo. After you create your meeting or seminar, make note of any relevant logistical information (such as the phone number), to use in your confirmation email and ICS file.
+First, make sure you've created your meeting or seminar in Adobe Connect. If you need help, check out the [Adobe Connect User Guide](https://help.adobe.com/en_US/connect/9.0/using/index.html).
+
+The meetings and seminars that you create in Adobe Connect must be created under the folder that you specified when you entered your credentials in Marketo. After you create your meeting or seminar, make note of any relevant logistical information (such as the phone number), to use in your confirmation email and ICS file.
+
+>[!CAUTION]
+>
+>As the event host, be sure to join from within the app and **not** via the link sent to attendees.
 
 >[!NOTE]
 >
->We **do not** support Adobe Connect On-Site at this time.
+>We do not support Adobe Connect On-Site at this time.
 
 1. On the home of a new event, select **Event Actions**, and then **Event Settings**.
 
@@ -51,6 +57,8 @@ First, make sure you've created your meeting or seminar in Adobe Connect. If you
    >
    >Set your confirmation email to **Operational** to ensure that people who register and may be unsubscribed still receive their confirmation information.
 
+   People who sign up for your webinar will get pushed to your webinar provider via the Change Program Status flow step when the New Status is set to "Registered." No other status will push the person over. Also, be sure to make Change Program Status flow step #1, and Send Email flow step #2.
+
    ![](assets/adobe.png)
 
    >[!CAUTION]
@@ -63,7 +71,5 @@ First, make sure you've created your meeting or seminar in Adobe Connect. If you
 
    >[!MORELIKETHIS]
    >
-   > * [Add Adobe Connect as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
-   > * [Edit an Event Channel](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
-
-People who sign up for your webinar will get pushed to your webinar provider via the Change Program Status flow step when the New Status is set to "Registered." No other status will push the person over. Also, be sure to make Change Program Status flow step #1, and Send Email flow step #2.
+   >* [Add Adobe Connect as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   >* [Edit an Event Channel](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)

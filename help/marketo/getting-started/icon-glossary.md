@@ -23,7 +23,7 @@ Below are the icons for the Marketo Classic. If you've been switched to the new 
   <tr> 
    <td> 
     <div> 
-     <img alt="--" src="assets/image2016-2-24-11-3a16-3a17.png"> 
+     <img src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
    <td><span>Folder</span></td> 
   </tr> 

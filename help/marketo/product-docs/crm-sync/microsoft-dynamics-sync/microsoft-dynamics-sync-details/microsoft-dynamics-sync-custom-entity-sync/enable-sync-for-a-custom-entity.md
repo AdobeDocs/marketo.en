@@ -12,6 +12,10 @@ If you need custom entity data from Dynamics to be available in Marketo, here's 
 >
 >**Admin Permissions Required**
 
+>[!NOTE]
+>
+>When you enable the sync for a custom entity, Marketo performs an initial sync to bring in all the data for the Custom Object.
+
 1. Go to the **Admin** section.
 
    ![](assets/image2014-10-20-14-3a32-3a16.png)
