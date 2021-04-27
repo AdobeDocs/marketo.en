@@ -177,12 +177,12 @@ Below are all the new icons for the new Adobe Marketo Engage interface. If you'r
    <td>SMS Message</td> 
   </tr>
   <tr>
-   <td><img src="assets/-----.png"></td> 
+   <td><img src="assets/classic-snippet.png"></td> 
    <td><img src="assets/snippets.png"></td> 
    <td>Snippets</td> 
   </tr>
   <tr>
-   <td><img src="assets/classic-snippet.png"></td> 
+   <td><img src="assets/classic-social-button.png"></td> 
    <td><img src="assets/social-button.png"></td> 
    <td>Social Button</td> 
   </tr>
