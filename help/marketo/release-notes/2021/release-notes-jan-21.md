@@ -36,7 +36,7 @@ The following features will be released on **January 15, 2021**.
 
 ## Salesforce CRM Integration {#salesforce-crm-integration}
 
-* [Salesforce CRM Authentication](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md): OAuth 2.0 protocol is available for syncing operations between Marketo Engage and Salesforce CRM. For new subscribers, this option is enabled by default. Current subscribers can request this feature by contacting Marketo Support.
+* [Salesforce CRM Authentication](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md): OAuth 2.0 protocol is available for syncing operations between Marketo Engage and Salesforce CRM. For new subscribers, this option is enabled by default. Current subscribers can request this feature by contacting Marketo Support.
 * [Salesforce CRM Syncing Dashboard](/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md): Admins can quickly review Salesforce CRM syncing status from the dashboard. Syncing performance report timespan has been increased from 2 hours to 5 days.
 * **Metadata Export**: Enhanced to support opportunity object attributes, named accounts, program member’s standard and custom fields.
 
