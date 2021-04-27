@@ -33,13 +33,7 @@ There's a lot of new functionality in this next-gen experience, all of which is 
 
 The new interface features improved and expanded iconography. Learn about them here: [New Icon Glossary](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
 
-![](assets/overview-3.png)
-
-**Tree**
-
-The tree has been upgraded, too.
-
-![](assets/overview-4.png)
+![](assets/overview-new-icons.png)
 
 **Global Navigation**
 
