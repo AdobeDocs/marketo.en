@@ -44,7 +44,7 @@ That's up to you! You decide what information is relevant to your sales team. Yo
 
 ## How can this get even more interesting?  {#how-can-this-get-even-more-interesting}
 
-Tokens! Add them in the description field to provide your sales team with more specific information like the subject line of the email the lead opened, or who was it sent by. Check out which tokens are available for use in the [Tokens for Interesting Moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) glossary.
+Tokens! Add them in the description field to provide your sales team with more specific information like the subject line of the email the lead opened, or who was it sent by. Check out which tokens are available for use in the [Tokens for Interesting Moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) glossary.
 
 >[!TIP]
 >

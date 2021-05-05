@@ -299,6 +299,7 @@ hide: yes
         + [Convert Person](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)
         + [Delete a Flow Step](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-a-flow-step.md)
         + [Delete Person](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
+        + [Execute Campaign](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
         + [Give Credit to Referrer](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
         + [Interesting Moment](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
         + [Remove from Flow](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
@@ -1334,7 +1335,7 @@ hide: yes
           + [Email Tab](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
           + Interesting Moments {#interesting-moments}
             + [Interesting Moments Overview](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)
-            + [Tokens for Interesting Moments](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+            + [Trigger Tokens for Interesting Moments](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
             + [Using Interesting Moments](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
       + MSI for Mobile {#msi-for-mobile}
         + [Best Bets in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
