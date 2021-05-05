@@ -142,7 +142,7 @@ In this example, the email will say "Greetings, (first name)" or "Greetings, ear
 
 >[!NOTE]
 >
->Find more details about [tokens for interesting moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) based on triggers used in a smart campaign.
+>Find more details about [tokens for interesting moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) based on triggers used in a smart campaign.
 
 ## Program Tokens {#program-tokens}
 
