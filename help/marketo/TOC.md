@@ -172,6 +172,7 @@ hide: yes
       + [Edit the "View as Web Page" Message](product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
       + [Enable Communication Limits](product-docs/administration/email-setup/enable-communication-limits.md)
       + [Enable Person Restrictions for Smart Campaigns](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
+      + [Filtering Email Bot Activity](product-docs/administration/email-setup/filtering-email-bot-activity.md)
       + [Remove Unsubscribe Text From the "Admin -> Email" Section](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
     + Field Management {#field-management}
       + [Block Field Updates During List Import from Untrusted Sources](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
@@ -187,6 +188,7 @@ hide: yes
       + [Export Used By Data for a Field](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
       + [Hide and Unhide a Field](product-docs/administration/field-management/hide-and-unhide-a-field.md)
       + [HTML Encode Tokens in Emails](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
+      + [Mark a Field as Sensitive](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
       + [Rename a Field](product-docs/administration/field-management/rename-a-field.md)
       + [Understanding System Managed Fields](product-docs/administration/field-management/understanding-system-managed-fields.md)
       + [View Field Mappings Between Marketo and Salesforce](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
@@ -220,6 +222,7 @@ hide: yes
       + [Edit Subscription Settings](product-docs/administration/settings/edit-subscription-settings.md)
       + [Enable or Disable Treasure Chest Features](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
       + [Enable Personalized URLs for Your Account (Administration)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
+      + [How to Block Spam Form Submissions](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
       + [Restrict Marketo Logins Based on IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
       + [Select Your Language, Locale and Time Zone](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
       + [Set a Fallback Page](product-docs/administration/settings/set-a-fallback-page.md)
