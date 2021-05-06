@@ -10,7 +10,7 @@ Below are the icons for the Marketo Classic. If you've been switched to the new 
 
 **General Icons**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -137,7 +137,7 @@ Below are the icons for the Marketo Classic. If you've been switched to the new 
 
 ## Admin Icons {#admin-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icon</th> 
@@ -309,7 +309,7 @@ Below are the icons for the Marketo Classic. If you've been switched to the new 
 
 ### Marketing Activities Icons {#marketing-activities-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icon</th> 
@@ -677,7 +677,7 @@ Below are the icons for the Marketo Classic. If you've been switched to the new 
 
 ### Design Studio Icons {#design-studio-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icon</th> 
@@ -863,7 +863,7 @@ Below are the icons for the Marketo Classic. If you've been switched to the new 
 
 ### Analytics Icons {#analytics-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icon</th> 
@@ -972,7 +972,7 @@ Below are the icons for the Marketo Classic. If you've been switched to the new 
 
 ### My Tokens Icons {#my-tokens-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icon</th> 
@@ -1039,7 +1039,7 @@ Below are the icons for the Marketo Classic. If you've been switched to the new 
 
 ### Campaign Menus {#campaign-menus}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icon</th> 
@@ -1113,7 +1113,7 @@ Below are the icons for the Marketo Classic. If you've been switched to the new 
 
 ### Database Icons {#database-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icon</th> 
