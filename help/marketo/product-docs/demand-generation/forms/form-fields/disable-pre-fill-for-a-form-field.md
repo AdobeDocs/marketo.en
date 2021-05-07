@@ -14,6 +14,8 @@ When a web visitor is known (cookied), Marketo forms will pre-fill fields with t
 >
 >Form > Landing Page > Admin
 
+## How to Disable Pre-fill {#how-to-disable-pre-fill}
+
 1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities-7.png)
@@ -42,4 +44,8 @@ When a web visitor is known (cookied), Marketo forms will pre-fill fields with t
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
-Nice job!
+## Sensitive Fields {#sensitive-fields}
+
+When you [mark a field as sensitive](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md), preventing its values from being pre-filled in forms, you will see this on the Pre-fill option.
+
+   ![](assets/disable-pre-fill.png)

@@ -10,7 +10,11 @@ Here's how to quickly and accurately identify your high value accounts.
 
 >[!NOTE]
 >
->This feature is in an Open Beta, and is available to anyone who has both TAM and the Marketo Next-Gen user experience enabled. Please contact your CSM if you'd like to participate in the Beta.
+>This feature will be enabled for all qualifying Marketo instances on the evening of Tuesday, May 11.
+
+>[!NOTE]
+>
+>This feature is only available to those with both TAM and the Adobe Marketo Engage Next-Gen user experience enabled.
 
 ## Create an Account Smart List {#create-an-account-smart-list}
 
