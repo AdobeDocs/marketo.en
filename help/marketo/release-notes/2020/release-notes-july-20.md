@@ -10,7 +10,7 @@ The following features are included in the July '20 release. Check your Marketo 
 
 >[!AVAILABILITY]
 >
->Please note that, depending on your current package, items with a star ( ![(star)](assets/star-yellow.svg)) may require the purchase of a value add-on. Please contact your Marketo Engage representative to learn more.
+>Please note that, depending on your current package, items with a star ( ![(star)](assets/yellow-star.png)) may require the purchase of a value add-on. Please contact your Marketo Engage representative to learn more.
 
 **_Quarterly Releases_** The following features will be released on **July 31, 2020**.
 
@@ -20,7 +20,7 @@ The following features are included in the July '20 release. Check your Marketo 
 
 ## Account-Based Marketing {#account-based-marketing}
 
-![(star)](assets/star-yellow.svg)
+![(star)](assets/yellow-star.png)
 
 * **Updated UI for Account Profiling**: Simplify the creation of your target account list in Account Profiling with streamlined steps all in a single screen.
 
@@ -40,13 +40,13 @@ The following features are on a non-quarterly cycle and will be released through
 
 ## Sales Insight {#sales-insight}
 
-![(star)](assets/star-yellow.svg)
+![(star)](assets/yellow-star.png)
 
 * **[Sales Insight Enabled for Customers with Non-Native Salesforce CRM Integration](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md) (Beta)**: Marketo Engage customers with non-native Salesforce CRM integrations can now use Sales Insight to help their sales teams understand, prioritize, and interact with the most engaged leads and opportunities to enable smart selling and faster deals.
 
 ## Sales Connect {#sales-connect}
 
-![(star)](assets/star-yellow.svg)
+![(star)](assets/yellow-star.png)
 
 * **[Enhanced Two-Party Consent for Sales Calls:](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)** Admins now have greater control over call recording configurations. [Enable call recordings](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) with confidence that you comply with the two-party consent law. Automate the notification of the call being recorded and activate audio clips to be played before the call.
 

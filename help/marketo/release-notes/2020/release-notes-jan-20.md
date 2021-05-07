@@ -10,7 +10,7 @@ The following features are included in the Jan '20 release. Check your Marketo e
 
 >[!AVAILABILITY]
 >
->Features denoted by a star ( ![(star)](assets/star-yellow.svg)) are paid add-ons. Please contact your Marketo Engage representative to learn more.
+>Features denoted by a star ( ![(star)](assets/yellow-star.png)) are paid add-ons. Please contact your Marketo Engage representative to learn more.
 
 **_Quarterly Releases_**
 
@@ -31,9 +31,9 @@ The following features will be released on **January 17, 2020**.
 
 ## Account-Based Marketing {#account-based-marketing}
 
-![(star)](assets/star-yellow.svg)
+![(star)](assets/yellow-star.png)
 
-* **[New Account Discovery (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(star)](assets/star-yellow.svg)**: Use Account Profiling to discover net-new target accounts for your ABM strategy based on your AI-powered ideal customer profile model. View, select, and import recommended new accounts, along with their AI-based fit and intent data indicators, that do not already exist inside your Marketo Engage lead and account database for ABM targeting. Immediately available for qualifying Account Profiling customers.
+* **[New Account Discovery (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(star)](assets/yellow-star.png)**: Use Account Profiling to discover net-new target accounts for your ABM strategy based on your AI-powered ideal customer profile model. View, select, and import recommended new accounts, along with their AI-based fit and intent data indicators, that do not already exist inside your Marketo Engage lead and account database for ABM targeting. Immediately available for qualifying Account Profiling customers.
 
 <br>&nbsp;
 
@@ -43,7 +43,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 ## Bizible {#bizible}
 
-![(star)](assets/star-yellow.svg)
+![(star)](assets/yellow-star.png)
 
 * **Marketo Engage Leads Integration**: Bring Sales and Marketing together with a unified view of leads across Bizible and Marketo Engage. With this update, Marketo Engage can now be used as an additional lead data source, so you no longer have to wait for leads to sync with the CRM to report on lead generation.
 * **Discover Enhancements**: Get more from our Discover Boards in Bizible with enhancements developed from customer feedback, like the ability to drill down to transactional records from tiles and attributes, add essential record counts and corresponding cost-per metrics, and add/remove dashboard filters for multiple dashboards. You will also be taken directly to the default dashboard upon login.

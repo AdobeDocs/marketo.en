@@ -10,19 +10,19 @@ The following features are included in the October '20 release. Check your Marke
 
 >[!AVAILABILITY]
 >
->Features denoted by a star ( ![(star)](assets/star-yellow.svg)) may be paid add-ons. Please contact your Marketo Engage representative to learn more.
+>Features denoted by a star (![](assets/yellow-star.png)) are paid add-ons. Please contact your Marketo Engage representative to learn more.
 
 **_Quarterly Releases_** The following features will be released on **October 16, 2020**.
 
 ## Target Account Management {#target-account-management}
 
-![(star)](assets/star-yellow.svg)
+![(star)](assets/yellow-star.png)
 
 * **Account Smart List (Beta)**: Supercharge your ABM strategy with the new Account Smart List capability. Dynamically identify accounts with desired account and person attributes to run cross-channel campaigns and send timely alerts to Sales to close deals faster. Note: this is available only to Target Account Management customers who have been onboarded to the [next-generation user experience](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205).
 
 ## Email Marketing {#email-marketing}
 
-* **Batch Email Boost ![(star)](assets/star-yellow.svg)**: Send more emails with an increased throughput of up to 5 million batch emails per hour. Expansive email deliverability options eliminates the need to wait between email batches - send all emails on time and on your schedule.
+* **Batch Email Boost ![(star)](assets/yellow-star.png)**: Send more emails with an increased throughput of up to 5 million batch emails per hour. Expansive email deliverability options eliminates the need to wait between email batches - send all emails on time and on your schedule.
 
 ## Website Marketing {#website-marketing}
 
@@ -60,7 +60,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 ## Sales Insight {#sales-insight}
 
-![(star)](assets/star-yellow.svg)
+![(star)](assets/yellow-star.png)
 
 * **API Optimization and New Governance Configuration Options**: Improve the Sales Insight user experience through enhanced API optimization and added governance features. Configuration settings enable admins to define how campaigns and events are loaded to the Sales Insight dashboard. Flexible calendar activities display options reduce API usage and improve the overall experience.
 

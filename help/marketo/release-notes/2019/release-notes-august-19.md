@@ -18,7 +18,7 @@ The following features were released on August 16, 2019.
 * **Smart Campaign API Update**: Manage smart campaign lifecycle capabilities as we round out the CRUD (create, read, update, delete) interface.
 * **Update Email Headers API Change**: The Update Email Header API no longer requires an email to have an attached template to update header fields, such as subject line.
 
-**Account-Based Marketing** ![(star)](assets/star-yellow.svg)
+**Account-Based Marketing** ![(star)](assets/yellow-star.png)
 
 * **LinkedIn Account Matching**, previously in beta, is now generally available.
 * **AccountAI** is being officially rebranded as **Account Profiling**.
@@ -29,13 +29,13 @@ The following features were released on August 16, 2019.
 
 The following features are on a non-quarterly cycle and will be released throughout the third calendar quarter and into the beginning of Q4 2019.
 
-**Marketo Sales Connect** ![(star)](assets/star-yellow.svg)
+**Marketo Sales Connect** ![(star)](assets/yellow-star.png)
 
 * **People Page Layout Enhancement:** Manage your people and groups through list imports and bulk actions in the new people page layout.
 
 >[!AVAILABILITY]
 >
->Features denoted by a star ( ![(star)](assets/star-yellow.svg)) are paid add-ons. Please contact your Marketo representative to learn more.
+>Features denoted by a star ( ![(star)](assets/yellow-star.png)) are paid add-ons. Please contact your Marketo representative to learn more.
 
 >[!NOTE]
 >

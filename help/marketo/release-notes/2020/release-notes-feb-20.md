@@ -10,7 +10,7 @@ The following features are included in the Feb '20 release. Check your Marketo e
 
 >[!AVAILABILITY]
 >
->Features denoted by a star ( ![(star)](assets/star-yellow.svg)) are paid add-ons. Please contact your Marketo Engage representative to learn more.
+>Features denoted by a star ( ![(star)](assets/yellow-star.png)) are paid add-ons. Please contact your Marketo Engage representative to learn more.
 
 **_Quarterly Releases_** The following features were released on **February 21, 2020**.
 
@@ -30,7 +30,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 ## Bizible {#bizible}
 
-![(star)](assets/star-yellow.svg)
+![(star)](assets/yellow-star.png)
 
 * **Account-Based Segmentation**: Analyze attribution at the Account level with the ability to create segments and filters for Discover boards based on Account attributes. Use these segments to drill down into your account-based marketing performance.
 * **Saving Filters**: Save dashboard-specific filters unique to each user to analyze your dashboards quickly and consistently.

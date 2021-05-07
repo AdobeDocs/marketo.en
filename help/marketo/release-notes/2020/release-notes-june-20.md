@@ -10,14 +10,14 @@ The following features are included in the June '20 release. Check your Marketo 
 
 >[!AVAILABILITY]
 >
->Features denoted by a star ( ![(star)](assets/star-yellow.svg)) may be paid add-ons. Please contact your Marketo Engage representative to learn more.
+>Features denoted by a star (![](assets/yellow-star.png)) are paid add-ons. Please contact your Marketo Engage representative to learn more.
 
 **_Quarterly Releases_** The following features will be released on **June 5, 2020**.
 
 ## Core Marketo Engage {#core-marketo-engage}
 
-* **[Predictive Audiences](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(star)](assets/star-yellow.svg): New Smart List and Smart Campaign filters powered by Adobe Sensei allow you to create AI-powered audience segments for email, event, and webinar marketing programs. Use AI to help you segment audiences based on lead likelihood to register for an event, attend an event, or unsubscribe. Build lookalike audiences based on past programs to efficiently replicate previous success. Achieve conversion goals with predictive goal-tracking and get recommendations for how to refine your audience segments for event programs.
-* **Batch Email Boost** ![(star)](assets/star-yellow.svg): Enhancement to our email marketing capability that allows you to send up to 3 million batch emails per hour. We have re-architected our batch campaign and email report processing to enhance performance of email programs and batch email campaigns. This results in shorter lead time to send, as well as improved completion time. Set up your email sends as you normally would, there is no added complexity. This enhancement is available as a product add-on which also includes a Delivery Services Launch Pack, Email Delivery Tools, and multiple Dedicated IP addresses.
+* **[Predictive Audiences](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(star)](assets/yellow-star.png): New Smart List and Smart Campaign filters powered by Adobe Sensei allow you to create AI-powered audience segments for email, event, and webinar marketing programs. Use AI to help you segment audiences based on lead likelihood to register for an event, attend an event, or unsubscribe. Build lookalike audiences based on past programs to efficiently replicate previous success. Achieve conversion goals with predictive goal-tracking and get recommendations for how to refine your audience segments for event programs.
+* **Batch Email Boost** ![(star)](assets/yellow-star.png): Enhancement to our email marketing capability that allows you to send up to 3 million batch emails per hour. We have re-architected our batch campaign and email report processing to enhance performance of email programs and batch email campaigns. This results in shorter lead time to send, as well as improved completion time. Set up your email sends as you normally would, there is no added complexity. This enhancement is available as a product add-on which also includes a Delivery Services Launch Pack, Email Delivery Tools, and multiple Dedicated IP addresses.
 * **[Audience Integration with Adobe Experience Cloud (AEC)](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**: New Adobe Experience Cloud (AEC) integration that allows you to sync static lists of known leads from Marketo Engage with multiple AEC applications to enhance existing programs, unlock new use cases, and orchestrate multi-channel campaigns. This integration includes Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager and Adobe Advertising Cloud.
 * **[Program Member Custom Fields](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)**: Capture and utilize custom fields about a program member. Use these new fields in your Marketo Engage forms, view them in a program’s member list, leverage them in Smart List filters and triggers, and include them in a new Smart Campaign Flow Action for enhanced automation and more granular personalization. These can also be imported and exported via the UI and APIs. Enhancement to our custom data objects and fields capability.
 * **Describe Program Member**: Retrieve Program Member metadata, giving you the ability to import and export Program Member Custom Field data using REST API. Enhancement to our API.
@@ -28,7 +28,7 @@ The following features are included in the June '20 release. Check your Marketo 
 
 ## Account-Based Marketing {#account-based-marketing}
 
-![(star)](assets/star-yellow.svg)
+![(star)](assets/yellow-star.png)
 
 * **New Account Discovery Generally Available**
 
@@ -42,7 +42,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 ## Bizible {#bizible}
 
-![(star)](assets/star-yellow.svg)
+![(star)](assets/yellow-star.png)
 
 * **Marketo Engage Programs Integration**: Pull program data directly from Marketo Engage to create touchpoints along the attribution journey in Bizible to appropriately credit email and engagement programs. Enhancement to our Marketo Engage integration.
 * **Marketo Engage Activities Integration (BETA)**: Bring Marketo Engage activity data directly into Bizible to create touchpoints across the customer journey and all attribution models. Examples include lead score changes, interesting moments, email click, or any custom activities. Enhancement to our Marketo Engage integration.
@@ -52,7 +52,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 ## Sales Insight {#sales-insight}
 
-![(star)](assets/star-yellow.svg)
+![(star)](assets/yellow-star.png)
 
 * **[Insights Dashboard for Salesforce CRM](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**: We're reimagining our Sales Insight capability with new visibility into upcoming marketing events and campaigns to give sellers the ability to make recommendations more relevant to customers and prospects based on their needs and interests. Sellers can also view both Contact and Account Activity within the timeline and easily access additional activity details. Find more details on how to upgrade your package [here](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
 

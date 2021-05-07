@@ -9,7 +9,7 @@ The following features are included in the Jan '21 release. Check your Marketo e
 
 >[!AVAILABILITY]
 >
->Features denoted by a star ( ![(star)](assets/star-yellow.svg)) are paid add-ons. Please contact your Marketo Engage representative to learn more.
+>Features denoted by a star ( ![(star)](assets/yellow-star.png)) are paid add-ons. Please contact your Marketo Engage representative to learn more.
 
 **_Quarterly Releases_**
 
@@ -50,7 +50,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 ## Sales Insight {#sales-insight}
 
-![(star)](assets/star-yellow.svg)
+![(star)](assets/yellow-star.png)
 
 * **[Enhanced Test Email Workflows (Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)**: Increase your sales team’s efficiency with enhanced Sales Insight test email workflows. Sellers can send test email to chosen email addresses before sending bulk emails to up to 200 recipients.
 * **[Insights into Email Status (Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**: Users see a warning message when they are trying to send an email to an invalid email ID or an unsubscribed email address prior to sending an email.  Emails delivery statuses can be reviewed in the email tab of Sales Insight.
@@ -60,7 +60,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 ## Sales Connect {#sales-connect}
 
-![(star)](assets/star-yellow.svg)
+![(star)](assets/yellow-star.png)
 
 * **Email Connection Throttling (BETA)**: Improve your email deliverability and scale your 1:1 sales communication with Email Connection Throttling for Sales Connect. Our new throttling technology automatically manages email send timing to create seamless experiences for Exchange and Gmail users. Decrease or eliminate the usage of third-party bulk email send applications.
 * **Email Connection Bounce Tracking**: Gain insight into lead quality and email template performance with the new email bounce report. Exchange and Gmail users may choose to receive bounce notifications that will roll up to the Live Feed, Email Folders, Template Analytics, and Campaign Analytics.
