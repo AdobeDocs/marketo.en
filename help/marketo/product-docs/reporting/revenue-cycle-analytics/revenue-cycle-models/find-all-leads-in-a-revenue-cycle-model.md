@@ -40,7 +40,7 @@ By using smart lists, you can easily find all members of revenue cycle model.
 
    >[!TIP]
    >
-   >You don't need both filters, just choose the one you need. We are just showing you both to be thorough. ![(smile)](assets/smile.svg)
+   >You don't need both filters, just choose the one you need. We are just showing you both to be thorough.
 
    >[!CAUTION]
    >

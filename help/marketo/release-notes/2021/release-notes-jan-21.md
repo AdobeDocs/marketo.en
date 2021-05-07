@@ -9,7 +9,7 @@ The following features are included in the Jan '21 release. Check your Marketo e
 
 >[!AVAILABILITY]
 >
->Features denoted by a star ( ![(star)](assets/yellow-star.png)) are paid add-ons. Please contact your Marketo Engage representative to learn more.
+>Features denoted by a star (![(star)](assets/yellow-star.png)) are paid add-ons. Please contact your Marketo Engage representative to learn more.
 
 **_Quarterly Releases_**
 

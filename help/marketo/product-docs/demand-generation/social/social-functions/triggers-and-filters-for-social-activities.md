@@ -24,16 +24,16 @@ Social apps in Marketo have their own special triggers and filters.
 
    | Triggers/Filters |Social Buttons |Polls |Videos |Referral Offers |Sweepstakes |
    |---|---|---|---|---|---|
-   | Achieved Goal in Referral |  |  |  | ![(tick)](assets/check.svg)| |
-   | Shares Content | ![(tick)](assets/check.svg) | ![(tick)](assets/check.svg)  | ![(tick)](assets/check.svg)  | ![(tick)](assets/check.svg)  | ![(tick)](assets/check.svg) |
-   | Clicks Shared Link | ![(tick)](assets/check.svg) | ![(tick)](assets/check.svg)  | ![(tick)](assets/check.svg) | ![(tick)](assets/check.svg) | ![(tick)](assets/check.svg)  |
-   | Disqualifies Sweepstakes |  |  |  |  | ![(tick)](assets/check.svg)  |
-   | Earns Entry in Social App |  |  |  |  | ![(tick)](assets/check.svg) |
-   | Enters Sweepstakes |  |  |  |  | ![(tick)](assets/check.svg)  |
-   | Refers to Social App |  |  |  | ![(tick)](assets/check.svg) | ![(tick)](assets/check.svg)  |
-   | Signs up for Referral Offer |  |  |  | ![(tick)](assets/check.svg) |  |
-   | Votes in Poll |  | ![(tick)](assets/check.svg) |  |  |  |
-   | Wins Sweepstakes |  |  |  |  | ![(tick)](assets/check.svg) |
+   | Achieved Goal in Referral |  |  |  | ![(tick)](assets/check.png)| |
+   | Shares Content | ![(tick)](assets/check.png) | ![(tick)](assets/check.png)  | ![(tick)](assets/check.png)  | ![(tick)](assets/check.png)  | ![(tick)](assets/check.png) |
+   | Clicks Shared Link | ![(tick)](assets/check.png) | ![(tick)](assets/check.png)  | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png)  |
+   | Disqualifies Sweepstakes |  |  |  |  | ![(tick)](assets/check.png)  |
+   | Earns Entry in Social App |  |  |  |  | ![(tick)](assets/check.png) |
+   | Enters Sweepstakes |  |  |  |  | ![(tick)](assets/check.png)  |
+   | Refers to Social App |  |  |  | ![(tick)](assets/check.png) | ![(tick)](assets/check.png)  |
+   | Signs up for Referral Offer |  |  |  | ![(tick)](assets/check.png) |  |
+   | Votes in Poll |  | ![(tick)](assets/check.png) |  |  |  |
+   | Wins Sweepstakes |  |  |  |  | ![(tick)](assets/check.png) |
 
    >[!MORELIKETHIS]
    >

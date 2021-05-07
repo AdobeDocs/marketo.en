@@ -61,10 +61,10 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Clicks Link in Email</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -78,12 +78,12 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Email Bounces Hard</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -95,12 +95,12 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Email Bounces Soft</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -112,10 +112,10 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Email Is Delivered</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -129,10 +129,10 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Opens Email</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -146,8 +146,8 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
     <tr> 
    <td>Received Forward to Friend Email</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -163,8 +163,8 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
     <tr> 
    <td>Sent Forward to Friend Email</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -173,21 +173,21 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td>
+   <td><img src="assets/check.png" alt="check"></td>
   </tr> 
   <tr> 
    <td>Unsubscribes from Email</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -237,16 +237,16 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Clicks Link in Sales Email</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -254,16 +254,16 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Is Sent Sales Email</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -271,16 +271,16 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Opens Sales Email</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -288,8 +288,8 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Sales Email Bounces</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -305,16 +305,16 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Sales Email is Received</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -322,8 +322,8 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
     <tr> 
    <td>Opportunity is Updated</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -339,8 +339,8 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
     <tr> 
    <td>Owner Changes</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -356,8 +356,8 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Person is Converted</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -373,8 +373,8 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Person is Deleted from SFDC</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -390,8 +390,8 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Person is Synced to SFDC</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -407,8 +407,8 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Removed from Opportunity</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -424,8 +424,8 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Removed from SFDC Campaign</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -441,8 +441,8 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Activity is Logged</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -458,8 +458,8 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Activity is Updated</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -475,8 +475,8 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Added to Opportunity</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -492,8 +492,8 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Added to SFDC Campaign</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -566,16 +566,16 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Clicks Link in Sales Email</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -583,16 +583,16 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Is Sent Sales Email</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -600,16 +600,16 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Opens Sales Email</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -617,8 +617,8 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Sales Email Bounces</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -634,16 +634,16 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Sales Email is Received</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -651,8 +651,8 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Is Added to Sales Campaign</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -669,8 +669,8 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   <tr>
    <td>Owner Changes</td> 
    <td>Is Removed From Sales Campaign</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -686,8 +686,8 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Received Sales Call</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -743,14 +743,14 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Fills Out Form</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -760,34 +760,34 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
   </tr> 
   <tr> 
    <td>Visits Web Page</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
   </tr> 
   <tr> 
    <td>Clicks Link on Web Page</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td>
@@ -797,7 +797,7 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
 
 >[!NOTE]
 >
->If it doesn't have a check ![(tick)](assets/check.svg) then it would return an empty string (nothing) in the interesting moment.
+>If it doesn't have a check ![(tick)](assets/) then it would return an empty string (nothing) in the interesting moment.
 
 &#42;The Trigger **Visits Web Page** has a few additional tokens:
 
@@ -809,4 +809,4 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
 >
 >Always test out your interesting moments to ensure they render the way you intend.
 >
->Also, make sure it's interesting to the Sales person, not just to you. ![(wink)](assets/wink.svg)>
+>Also, make sure it's interesting to the Sales person, not just to you!
