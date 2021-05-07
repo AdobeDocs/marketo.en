@@ -797,7 +797,7 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
 
 >[!NOTE]
 >
->If it doesn't have a check ![(tick)](assets/) then it would return an empty string (nothing) in the interesting moment.
+>If it doesn't have a check ![(tick)](assets/check.png) then it would return an empty string (nothing) in the interesting moment.
 
 &#42;The Trigger **Visits Web Page** has a few additional tokens:
 
