@@ -5,7 +5,7 @@ exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
 ---
 # Marketo Product Docs
 
-banner
+![](assets/marketo-docs-banner.jpg)
 
 ## Getting Started
 
@@ -26,3 +26,7 @@ banner
 * [Understanding Smart Campaigns](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 
 * [Adobe Marketo Engage Next Gen UX Experience Overview](/help/marketo/product-docs/marketo-engage-next-generation-experience/overview.md)
+
+## Current Release Notes
+
+* [May 2021](/help/marketo/release-notes/2021/release-notes-may-21.md)
