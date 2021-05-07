@@ -42,7 +42,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Account Score</a></strong></td> 
-   <td colspan="1">In <strong>ABM</strong>, it's a score assigned to an account to help you determine its level of engagement.</td> 
+   <td colspan="1">In <strong>TAM</strong>, it's a score assigned to an account to help you determine its level of engagement.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Acquisition Date</strong></td> 
@@ -55,6 +55,10 @@ Below are definitions for many of the terms you may encounter when using Marketo
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>Ad Network Integrations </strong></a></td> 
    <td colspan="1">(formerly Ad Bridge) A way to connect Marketo's unique audience data to your paid media systems so you can run more targeted, personalized digital ad campaigns.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1"><strong>Adobe Marketo Engage</strong></td> 
+   <td colspan="1">The official brand name for the aggregate of all Marketo's product offerings within the Adobe Experience Cloud.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" rel="nofollow">Alert</a></strong></td> 
@@ -235,7 +239,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
     <div> 
      <p><strong> Database</strong></p> 
     </div></td> 
-   <td>One of the core sections of <strong>Marketo Engage</strong>. The database is home to all of your <strong>person</strong> records.</td> 
+   <td>One of the core sections of <strong>Adobe Marketo Engage</strong>. The database is home to all of your <strong>person</strong> records.</td> 
   </tr> 
   <tr> 
    <td><strong>De-Dupe</strong></td> 
@@ -262,7 +266,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr> 
   <tr> 
    <td colspan="1"><strong>Design Studio</strong></td> 
-   <td colspan="1">One of the core sections of <strong>Marketo Engage</strong>. Design Studio is home to your <strong>assets</strong>, such as: <strong>landing pages</strong>, forms, <strong>emails</strong>, <strong>snippets</strong>, and images/files.</td> 
+   <td colspan="1">One of the core sections of <strong>Adobe Marketo Engage</strong>. Design Studio is home to your <strong>assets</strong>, such as: <strong>landing pages</strong>, forms, <strong>emails</strong>, <strong>snippets</strong>, and images/files.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Docs</strong></td> 
@@ -475,7 +479,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr> 
   <tr> 
    <td><strong>Lead</strong></td> 
-   <td>In <strong>Marketo Engage</strong>, lead is the previous term (replaced by <strong>person</strong>) used to describe an individual in your Marketo <strong>database</strong> that you're engaging with through your marketing campaigns. In your <strong>CRM</strong>, a lead may represent a different concept (i.e., an individual associated with an <strong>opportunity</strong>) independent of Marketo's functionality.</td> 
+   <td>In <strong>Adobe Marketo Engage</strong>, lead is the previous term (replaced by <strong>person</strong>) used to describe an individual in your Marketo <strong>database</strong> that you're engaging with through your marketing campaigns. In your <strong>CRM</strong>, a lead may represent a different concept (i.e., an individual associated with an <strong>opportunity</strong>) independent of Marketo's functionality.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Lead Database</strong></td> 
@@ -505,7 +509,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
  <tbody> 
   <tr> 
    <td><strong>Marketing Activities</strong></td> 
-   <td><p>One of the core sections of Marketo Engage. This is where your <strong>campaign</strong> orchestration occurs. All of your <strong>programs</strong>, campaigns, and <strong>campaign folders</strong> (as well as their <strong>local assets</strong>) live here.</p></td> 
+   <td><p>One of the core sections of Adobe Marketo Engage. This is where your <strong>campaign</strong> orchestration occurs. All of your <strong>programs</strong>, campaigns, and <strong>campaign folders</strong> (as well as their <strong>local assets</strong>) live here.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>Marketing Automation</strong></a></td> 
@@ -518,10 +522,6 @@ Below are definitions for many of the terms you may encounter when using Marketo
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>Marketing Suspended</strong></a></td> 
    <td colspan="1">This field is manually set by the <strong>user</strong> to make someone in their Marketo <strong>database</strong> temporarily unmailable.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Marketo Engage</strong></td> 
-   <td colspan="1">The official brand name for the aggregate of all Marketo's product offerings within the Adobe Experience Cloud.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo Lead Management (MLM)</strong></td> 
@@ -553,7 +553,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr> 
   <tr> 
    <td colspan="1"><strong>My Marketo</strong></td> 
-   <td colspan="1">One of the standard sections of Marketo Engage. Acts as your Marketo "homepage," displaying tiles for all of the sections of Marketo you have access to.</td> 
+   <td colspan="1">One of the standard sections of Adobe Marketo Engage. Acts as your Marketo "homepage," displaying tiles for all of the sections of Marketo you have access to.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>My Tokens</strong></a></td> 

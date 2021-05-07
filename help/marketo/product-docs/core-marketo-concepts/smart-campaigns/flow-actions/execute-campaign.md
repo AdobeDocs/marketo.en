@@ -8,6 +8,10 @@ An Executable Campaign, like other campaigns, contains a Smart List, Flow, and S
 
 >[!NOTE]
 >
+>This feature will be enabled for all Marketo instances on the evening of Tuesday, May 11.
+
+>[!NOTE]
+>
 >Executable Campaigns are always children of the (parent) campaign that calls them.
 
 ## When to use Execute Campaign {#when-to-use-execute-campaign}

@@ -8,15 +8,23 @@ The following features are included in the May '21 release. Check your Marketo e
 
 >[!AVAILABILITY]
 >
->Features denoted by a star (![(star)](assets/star-yellow.svg)) are paid add-ons. Please contact your Marketo Engage representative to learn more.
+>Features denoted by a star ![](assets/star.png) are paid add-ons. Please contact your Marketo Engage representative to learn more.
 
 **_Quarterly Releases_**
 
 The following features will be released on **May 7, 2021**.
 
+>[!NOTE]
+>
+>These three features will be available by the evening of Tuesday, May 11:
+
+* **Account Smart Lists**
+* **Execute Campaign Flow Steps**
+* **Filter-out Email Bots Activity**
+
 ## Account-Based Experiences {#Account-based-eaperiences}
 
-* **Account Smart Lists (general availability)** (![(star)](assets/star-yellow.svg)): Dynamically identify and qualify accounts with desired account and person attributes to target in cross-channel marketing campaigns and send timely alerts to Sales to close deals faster. This new capability allows for robust automation of account-based marketing strategies. Account Smart Lists are available for customers with Target Account Management that are on the next-generation user experience.
+* **Account Smart Lists (general availability)** ![](assets/star.png): Dynamically identify and qualify accounts with desired account and person attributes to target in cross-channel marketing campaigns and send timely alerts to Sales to close deals faster. This new capability allows for robust automation of account-based marketing strategies. Account Smart Lists are available for customers with Target Account Management that are on the next-generation user experience.
 
 ## Next-Generation User Experience {#next-generation-user-experience}
 
@@ -68,7 +76,7 @@ Several critical updates to Bulk and Lead APIs, including the ability to export 
 
 ## Bizible {#bizible}
 
-(![(star)](assets/star-yellow.svg))
+![](assets/star.png)
 
 * **Integration with LinkedIn Lead Gen Forms (Beta)**: Gain deep visibility into your LinkedIn channel spend and ROI with Bizible premium attribution solution. Through the latest integration with LinkedIn’s Lead Gen Forms, Bizible gains insight into forms that have been submitted within the LinkedIn platform. These form fills are matched against leads from your CRM (Customer Relationship Management) or Adobe Marketo Engage instance so that they’re eligible for attribution and can be tracked against your other marketing engagements.
 
