@@ -24,7 +24,7 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
 
 **Email Triggers**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -200,7 +200,7 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
 
 **Salesforce Triggers**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -529,7 +529,7 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
 
 **Sales Connect Triggers**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -706,7 +706,7 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
 
 **Miscellaneous**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
