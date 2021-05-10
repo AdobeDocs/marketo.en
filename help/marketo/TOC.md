@@ -1043,8 +1043,8 @@ feature-set: Marketo Engage
   + Marketo Sales Connect {#marketo-sales-connect}
     + Getting Started {#getting-started}
       + [Sales Connect Overview](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-      + [Getting Started with Sales Connect](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
-      + [My Profile Page](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+      + [Getting Started with Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+      + [My Profile Page](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
       + [Quick Start Videos and Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
       + [Change Your Sales Connect Password](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
       + Email Settings {#email-settings}
