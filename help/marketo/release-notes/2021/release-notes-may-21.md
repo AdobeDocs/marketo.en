@@ -82,6 +82,10 @@ Several critical updates to Bulk and Lead APIs, including the ability to export 
 
 ## Announcements {#announcements}
 
-* **Marketo Product Docs Switching Platforms**: We’re excited to announce that the Marketo Product Docs will be joining the Adobe Experience League on Friday, May 7. You’ll still be able to use the URL: docs.marketo.com, and if you have any existing articles bookmarked, you’ll be redirected. All current product docs will be available on the new platform, with enhancements planned for later this year.
+* **Marketo Product Docs Switching Platforms**: We’re excited to announce that the Marketo Product Docs has joined the Adobe Experience League as of Friday, May 7. You’ll still be able to use the URL: docs.marketo.com, and if you have any existing articles bookmarked, you’ll be redirected. All product docs are available on the new platform, with enhancements planned for later this year.
 
 * **Streamlined User Administration and Single Sign-on Powered by Adobe Identity System**: Beginning July 2021, the new Adobe Marketo Engage customers will be onboarded using Adobe user credentials. Migration of current customers to the integrated identity system will not occur until mid-2022 and no customer action is required until further notice. Single sign-on enables IT/Security admins to manage multiple Adobe Marketo Engage product instances along with other Experience Cloud solutions as well as configure SSO (Shared Services Organization) through a common console. Admins can conveniently manage user groups and user entitlements through a common Admin Console.
+
+**_Product Release Webinar_**
+
+Want to learn more about these features and enhancements? Be sure to [register now](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html) to join us on May 13 at 9:00 AM PT / 12:00 PM ET for a live webinar with our product team to take a deeper dive into these innovations.

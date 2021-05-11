@@ -1058,7 +1058,7 @@ feature-set: Marketo Engage
       + [Blocked Domains](product-docs/marketo-sales-connect/admin/blocked-domains.md)
       + [Content Lockdown](product-docs/marketo-sales-connect/admin/content-lockdown.md)
       + [Create a Sub-Team](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
-      + [Invite Team Members](product-docs/marketo-sales-connect/admin/invite-team-members.md)
+      + [Invite Users](product-docs/marketo-sales-connect/admin/invite-users.md)
       + [Setting UP SSO Through SAML 2.0 in Sales Connect](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
       + [Sharing Settings](product-docs/marketo-sales-connect/admin/sharing-settings.md)
       + [User Access Details](product-docs/marketo-sales-connect/admin/user-access-details.md)

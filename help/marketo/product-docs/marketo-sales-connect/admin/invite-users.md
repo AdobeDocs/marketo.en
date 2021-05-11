@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352402
-description: Invite Team Members - Marketo Docs - Product Documentation
-title: Invite Team Members
+description: Invite Users - Marketo Docs - Product Documentation
+title: Invite Users
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
 ---
-# Invite Team Members {#invite-team-members}
+# Invite Users {#invite-users}
 
-Adding team members is quick and easy!
+Adding users is quick and easy!
 
 1. Click the gear icon and select **Settings**.
 

@@ -31,18 +31,18 @@ You'll receive an email from Marketo with a link to reset your password. After y
 
 To complete setup, you must do the following:
 
-* [Connect Sales Connect and Salesforce](#sfdc)
-* [Acquire Credentials Prior to Connecting Sales Connect with Marketo](#acquire)
-* [Connect Sales Connect with Marketo](#mkto)
-* [Invite/Provision Users](#IPU)
+* [Connect Sales Connect and Salesforce](#connect-your-sales-connect-account-to-salesforce)
+* [Acquire Credentials Prior to Connecting Sales Connect with Marketo](#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo)
+* [Connect Sales Connect with Marketo](#connect-sales-connect-to-marketo)
+* [Invite/Provision Users](#invite-provision-users)
 
 Optionally, you can also:
 
-* [Test Sales Connect in your Sandbox](#sandbox)
+* [Test Sales Connect in your Sandbox](#test-sales-connect-in-your-sandbox)
 
 ## Connect Your Sales Connect Account to Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
-To connect your Sales Connect account to your Salesforce account, as an Admin or a non-Admin, follow the steps in [this article](https://docs.marketo.com/x/JwDb).
+To connect your Sales Connect account to your Salesforce account, as an Admin or a non-Admin, follow the steps in [this article](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md).
 
 >[!NOTE]
 >
@@ -86,7 +86,7 @@ You'll need to get a set of credentials from within Marketo. These credentials w
 
 If any users already exist on your account (previously from ToutApp), they'll show up in the **Team Access** tab of the Marketo section of Sales Connect.
 
-You can provision your team as a Marketo Sales Connect User from this page. If you've never used ToutApp, or have yet to invite users, follow the steps in [this article](https://docs.marketo.com/display/TOUT/Invite+Team+Members).
+You can provision your team as a Marketo Sales Connect User from this page. If you've never used ToutApp, or have yet to invite users, follow the steps in [this article](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md).
 
 >[!CAUTION]
 >
