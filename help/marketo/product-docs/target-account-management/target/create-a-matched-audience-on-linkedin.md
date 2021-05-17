@@ -14,31 +14,31 @@ Create matched audiences from your TAM Account Lists for LinkedIn Ad Targeting.
 
 1. In TAM, click the **Account Lists** tab.
 
-   ![](assets/one-1.png)
+   ![](assets/create-a-matched-audience-on-linkedin-1.png)
 
 1. Choose your desired account list.
 
-   ![](assets/two.png)
+   ![](assets/create-a-matched-audience-on-linkedin-2.png)
 
 1. Click the **Account List Actions** drop-down and select **Send via AdBridge**.
 
-   ![](assets/three-1.png)
+   ![](assets/create-a-matched-audience-on-linkedin-3.png)
 
 1. Choose **LinkedIn** and click **Next**.
 
-   ![](assets/four-1.png)
+   ![](assets/create-a-matched-audience-on-linkedin-4.png)
 
 1. Click the **Audience** drop-down. You can select an existing audience or create a new one. In this example, we'll create a new one (if you select an existing audience, skip to Step 7).
 
-   ![](assets/five-1.png)
+   ![](assets/create-a-matched-audience-on-linkedin-5.png)
 
 1. Click the **Ad Account** drop-down and select the target ad account.
 
-   ![](assets/six-1.png)
+   ![](assets/create-a-matched-audience-on-linkedin-6.png)
 
 1. Name your audience and click **Update**.
 
-   ![](assets/seven.png)
+   ![](assets/create-a-matched-audience-on-linkedin-7.png)
 
    And that's it. Your audience has been pushed over to LinkedIn.
 
