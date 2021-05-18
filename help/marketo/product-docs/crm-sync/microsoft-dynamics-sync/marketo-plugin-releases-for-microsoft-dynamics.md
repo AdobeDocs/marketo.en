@@ -34,7 +34,7 @@ When you first sync to Microsoft Dynamics, you download the latest version of th
    <th>Notes</th> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.0</td> 
+   <td colspan="1">4.2.0.0</td> 
    <td colspan="1">10/16/20</td> 
    <td colspan="1">Added Support for Campaign Sync with MS Dynamics.</td> 
   </tr> 

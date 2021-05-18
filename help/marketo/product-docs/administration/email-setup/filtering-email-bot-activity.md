@@ -8,10 +8,6 @@ Sometimes, email bot activity can erroneously inflate your email opens and click
 
 >[!NOTE]
 >
->This feature will be enabled for all Marketo instances on the evening of Tuesday, May 11.
-
->[!NOTE]
->
 >Using the [IAB/ABC International Spiders and Bots List](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/), all open/click activity with an IP or User agent that matches anything from that list will be identified as bot activity and not get logged in Marketo.
 
 1. Click **Admin**.
