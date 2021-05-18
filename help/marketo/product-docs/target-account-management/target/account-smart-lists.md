@@ -10,10 +10,6 @@ Here's how to quickly and accurately identify your high value accounts.
 
 >[!NOTE]
 >
->This feature will be enabled for all qualifying Marketo instances on the evening of Tuesday, May 11.
-
->[!NOTE]
->
 >This feature is only available to those with both TAM and the Adobe Marketo Engage Next-Gen user experience enabled.
 
 ## Create an Account Smart List {#create-an-account-smart-list}

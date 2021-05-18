@@ -14,14 +14,6 @@ The following features are included in the May '21 release. Check your Marketo e
 
 The following features will be released on **May 7, 2021**.
 
->[!NOTE]
->
->These three features will be available by the evening of Tuesday, May 11:
->
->* **Account Smart Lists**
->* **Execute Campaign Flow Steps**
->* **Filter-out Email Bots Activity**
-
 ## Account-Based Experiences {#Account-based-eaperiences}
 
 * **Account Smart Lists (general availability)** ![](assets/yellow-star.png): Dynamically identify and qualify accounts with desired account and person attributes to target in cross-channel marketing campaigns and send timely alerts to Sales to close deals faster. This new capability allows for robust automation of account-based marketing strategies. Account Smart Lists are available for customers with Target Account Management that are on the next-generation user experience.

@@ -1043,7 +1043,8 @@ feature-set: Marketo Engage
   + Marketo Sales Connect {#marketo-sales-connect}
     + Getting Started {#getting-started}
       + [Sales Connect Overview](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-      + [Getting Started with Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+      + [Accessing Your New Sales Connect Instance](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
+      + [Set up Sales Connect](product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)
       + [My Profile Page](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
       + [Quick Start Videos and Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
       + [Change Your Sales Connect Password](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
@@ -1207,6 +1208,8 @@ feature-set: Marketo Engage
     + Integrations {#integrations}
       + [How to Log Emails to Other CRMs](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
     + Marketo {#marketo}
+      + [Manually Set up Your Marketo Connection](product-docs/marketo-sales-connect/marketo/manually-set-up-your-marketo-connection.md)
+      + [Granting Access to Users](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
       + [Interesting Moments in MSC](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
       + [Make a Campaign Visible to Sales Connect Users](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
     + People {#people}
