@@ -1,12 +1,12 @@
 ---
-description: Manually Set up Your Marketo Connection - Marketo Docs - Product Documentation
-title: Manually Set up Your Marketo Connection
+description: Set up Your Marketo Connection - Marketo Docs - Product Documentation
+title: Set up Your Marketo Connection
 ---
-# Manually Set up Your Marketo Connection {#manually-set-up-your-marketo-connection}
+# Set up Your Marketo Connection {#set-up-your-marketo-connection}
 
 >[!NOTE]
 >
->When you provision MSC, Marketo will automatically send your credentials to Sales Connect and connect your instance to Marketo. This step is required **only** if you are not seeing the connection established after your Sales Connect instance is provisioned. If your connection is established you will see your credentials entered on the Marketo Admin Settings page.
+>When you provision MSC, Marketo will automatically send your credentials to Sales Connect and connect your instance to Marketo. This step is required **only if you are not seeing the connection established** after your Sales Connect instance is provisioned. If your connection is established you will see your credentials entered on the Marketo Admin Settings page.
 
 ## Acquiring Credentials Prior to Connecting Sales Connect with Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 

@@ -4,11 +4,15 @@ title: Set up Sales Connect
 ---
 # Set up Sales Connect {#set-up-sales-connect}
 
-This document will take you through the initial steps for setting up your new Sales Connect instance. Some of these steps will require access as a Marketo admin, Salesforce admin, and Sales Connect admin. Follow our guides below to complete your instance setup.  
+This document will take you through the initial steps for setting up your new Sales Connect instance. Some of these steps will require access as a Marketo admin, Salesforce admin, and Sales Connect admin. Follow our guides below to complete your instance setup.
+
+>[!NOTE]
+>
+>**Admin permissions required.**
 
 ## Accessing your new Marketo Sales Connect Account {#accessing-your-new-marketo-sales-connect-account}
 
-If you have purchased Marketo Sales Connect, access to your instance will be provisioned from Marketo’s admin section. Click here to see instructions on how a Marketo admin can provision access to your new instance.  
+If you have purchased Marketo Sales Connect, access to your instance will be provisioned from Marketo’s admin section. [Click here](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md) to see instructions on how a Marketo admin can provision access to your new instance.  
 
 ![](assets/set-up-sales-connect-1.png)
 
