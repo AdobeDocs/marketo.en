@@ -6,7 +6,7 @@ title: Granting Access to Users
 
 Follow the steps in this article to grant your Sales Connect users access to the Marketo connection. This will unlock features such as Interesting Moments in the Live Feed and access to Marketing Campaigns.
 
-You will need to invite users to Sales Connect here, before they are visible in the Marketo – Team Access page, where access to the Marketo connection is granted.
+You will need to invite users to Sales Connect [here](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), before they are visible in the Marketo > Team Access page (in Sales Connect), where access to the Marketo connection is granted.
 
 >[!CAUTION]
 >
@@ -16,7 +16,7 @@ You will need to invite users to Sales Connect here, before they are visible in 
 
    >[!NOTE]
    >
-   >You can only do the workspace assignment once at the time of inviting users. After it's set, you'll have to disconnect the user in order to change it.
+   >You can only do the workspace assignment once at the time of granting access to users. After it's set, you'll have to disconnect the user in order to change it.
 
    ![](assets/granting-access-to-users-1.png)
 
@@ -27,9 +27,5 @@ You will need to invite users to Sales Connect here, before they are visible in 
 1. Click the Workspace drop-down, select your desired workspace(s), and click **Connect**.
 
    ![](assets/granting-access-to-users-3.png)
-
-   >[!NOTE]
-   >
-   >If you want to add new users, go to the Team Management section of Admin Settings and click the **Invite Users** button.
 
 You can additional users from the Team Management page and follow the steps above to get them connected.

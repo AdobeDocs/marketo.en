@@ -1208,7 +1208,7 @@ feature-set: Marketo Engage
     + Integrations {#integrations}
       + [How to Log Emails to Other CRMs](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
     + Marketo {#marketo}
-      + [Manually Set up Your Marketo Connection](product-docs/marketo-sales-connect/marketo/manually-set-up-your-marketo-connection.md)
+      + [Set up Your Marketo Connection](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
       + [Granting Access to Users](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
       + [Interesting Moments in MSC](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
       + [Make a Campaign Visible to Sales Connect Users](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
