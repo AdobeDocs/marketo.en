@@ -5,7 +5,7 @@ exl-id: ec3123c9-e484-4736-9831-9559cc393bd9
 ---
 # Set up Microsoft Dynamics CRM App for Online {#set-up-microsoft-dynamics-crm-app-for-online}
 
-## Set up Microsoft Dynamics CRM App for Online{#set-up-microsoft-dynamics-crm-app-for-online}
+## Set up Microsoft Dynamics CRM App for Online {#set-up-microsoft-dynamics-crm-app-for-online}
 
 1. Navigate to https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration.
 
