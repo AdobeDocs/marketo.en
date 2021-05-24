@@ -14,27 +14,27 @@ In order to share audience data to your Adobe applications, you must first enter
 
 1. In Marketo, click **Admin**.
 
-   ![](assets/one-2.png)
+   ![](assets/set-up-adobe-experience-cloud-audience-sharing-1.png)
 
-1. Under Integration, click **Experience Cloud Audience Sharing**.
+1. Under Integration, click **Adobe Organization Mapping**.
 
-   ![](assets/two-2.png)
+   ![](assets/set-up-adobe-experience-cloud-audience-sharing-2.png)
 
 1. Click **Edit**.
 
-   ![](assets/three-2.png)
+   ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
 1. Enter your Adobe IMS Org ID (learn how to find that [here](https://docs.adobe.com/content/help/en/control-panel/using/faq.html)) and click **OK**.
 
-   ![](assets/four-2.png)
+   ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
 1. Click **Confirm**.
 
-   ![](assets/five-1.png)
+   ![](assets/set-up-adobe-experience-cloud-audience-sharing-5.png)
 
 1. Click **Close**.
 
-   ![](assets/six-2.png)
+   ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 
    >[!NOTE]
    >
