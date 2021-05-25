@@ -20,6 +20,10 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 >
 >This applies to Marketo plugin version 4.0.0.14 and later. For earlier versions, all users must have the sync user role. To upgrade Marketo, see [Upgrade the Marketo Solution for Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
+>[!IMPORTANT]
+>
+>The language setting of the Sync User [should be set to English](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
+
 1. In the bottom left menu, select **Settings**.
 
    ![](assets/image2015-4-2-14-3a2-3a40.png)
