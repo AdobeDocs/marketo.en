@@ -1,8 +1,8 @@
 ---
-description: Set up Sales Connect - Marketo Docs - Product Documentation
-title: Set up Sales Connect
+description: Getting Started Guide for Sales Connect Admins - Marketo Docs - Product Documentation
+title: Getting Started Guide for Sales Connect Admins
 ---
-# Set up Sales Connect {#set-up-sales-connect}
+# Getting Started Guide for Sales Connect Admins {#getting-started-guide-for-sales-connect-admins}
 
 This document will take you through the initial steps for setting up your new Sales Connect instance. Some of these steps will require access as a Marketo admin, Salesforce admin, and Sales Connect admin. Follow our guides below to complete your instance setup.
 
@@ -14,13 +14,13 @@ This document will take you through the initial steps for setting up your new Sa
 
 If you have purchased Marketo Sales Connect, access to your instance will be provisioned from Marketo’s admin section. [Click here](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md) to see instructions on how a Marketo admin can provision access to your new instance.  
 
-![](assets/set-up-sales-connect-1.png)
+![](assets/getting-started-guide-for-sales-connect-admins-1.png)
 
 ## Inviting and Managing Users {#inviting-and-managing-users}
 
 Once you have provisioned your Marketo Sales Connect account from Marketo and invited your first admin user, that admin user can invite additional users from the Marketo Sales Connect user management page. [Click here](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) to see how to invite users from the user management page.
 
-![](assets/set-up-sales-connect-2.png)
+![](assets/getting-started-guide-for-sales-connect-admins-2.png)
 
 ## Connecting to Salesforce {#connecting-to-salesforce}
 
@@ -28,7 +28,7 @@ All users will individually need to connect to Salesforce in order to enable log
 
 To connect your Sales Connect instance to your Salesforce instance, as an Admin or a non-Admin, follow the steps in [this article](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md).
 
-![](assets/set-up-sales-connect-3.png)
+![](assets/getting-started-guide-for-sales-connect-admins-3.png)
 
 ## Connecting to Marketo {#connecting-to-marketo}
 

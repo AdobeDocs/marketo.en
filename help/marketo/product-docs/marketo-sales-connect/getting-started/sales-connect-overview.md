@@ -81,4 +81,4 @@ Ready to get started? For setup instructions, click the link below.
 
 >[!MORELIKETHIS]
 >
->[Set up Sales Connect](/help/marketo/product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)
+>[Getting Started Guide for Sales Connect Admins](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)

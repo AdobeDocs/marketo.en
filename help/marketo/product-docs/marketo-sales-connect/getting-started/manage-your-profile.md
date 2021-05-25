@@ -1,9 +1,9 @@
 ---
-description: My Profile Page - Marketo Docs - Product Documentation
-title: My Profile Page
+description: Manage Your Profile - Marketo Docs - Product Documentation
+title: Manage Your Profile
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 ---
-# My Profile Page {#my-profile-page}
+# Manage Your Profile {#manage-your-profile}
 
 In your My Profile page you can update your name, your account's language/locale/time zone, and also change your password.
 
@@ -13,11 +13,11 @@ Here's where you can update your name and/or password.
 
 1. Click the gear icon and select **Settings**.
 
-   ![](assets/my-profile-page-1.png)
+   ![](assets/manage-your-profile-1.png)
 
 1. Your My Profile page opens by default. To update your name, simply type in the changes and click **Save**.
 
-   ![](assets/my-profile-page-2.png)
+   ![](assets/manage-your-profile-2.png)
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ You can also change your password in this section. The steps are outlined in thi
 
 On the right side of the page, the Your Integrations section provides the status of all of your account's connections.
 
-   ![](assets/my-profile-page-3.png)
+   ![](assets/manage-your-profile-3.png)
 
 >[!NOTE]
 >
@@ -45,22 +45,22 @@ Here's how to change your account's language, locale, and/or time zone.
 
 1. Click the gear icon and select **Settings**.
 
-   ![](assets/my-profile-page-4.png)
+   ![](assets/manage-your-profile-4.png)
 
 1. To change your language, click the **Language** drop-down and make your choice.
 
-   ![](assets/my-profile-page-5.png)
+   ![](assets/manage-your-profile-5.png)
 
 1. Locale here refers to the region in which that language is spoken. Click the **Locale** drop-down and make your choice.
 
-   ![](assets/my-profile-page-6.png)
+   ![](assets/manage-your-profile-6.png)
 
 1. Click the **Your Timezone** drop-down and make your choice.
 
-   ![](assets/my-profile-page-7.png)
+   ![](assets/manage-your-profile-7.png)
 
 1. Click **Save** when done.
 
-   ![](assets/my-profile-page-8.png)
+   ![](assets/manage-your-profile-8.png)
 
 Et voilà!
