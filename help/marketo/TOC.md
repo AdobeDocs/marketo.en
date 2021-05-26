@@ -75,10 +75,10 @@ feature-set: Marketo Engage
       + [Named Account Dimension in RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
       + [Named Account Insights](product-docs/target-account-management/measure/named-account-insights.md)
       + [Using Personas](product-docs/target-account-management/using-personas.md)
-  + Account Profiling {#account-profiling}
-    + [Setting up Account Profiling](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
-    + [Account Profiling Ranking and Tuning](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
-    + [New Account Discovery](product-docs/target-account-management/account-profiling/new-account-discovery.md)
+    + Account Profiling {#account-profiling}
+      + [Setting up Account Profiling](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+      + [Account Profiling Ranking and Tuning](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
+      + [New Account Discovery](product-docs/target-account-management/account-profiling/new-account-discovery.md)
   + Additional Apps {#additional-apps}
     + SEO {#seo}
       + Understanding SEO {#understanding-seo}

@@ -8,6 +8,17 @@ exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 
 Follow these steps to start using Account Profiling.
 
+>[!CAUTION]
+>
+>The following fields must **not** be hidden in order for Account Profiling to function properly.
+>
+>* Website
+>* Company
+>* Email
+>* Country
+>
+>Learn how to [unhide a field here](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
+
 1. In My Marketo, open **Target Account Management**.
 
    ![](assets/setting-up-account-profiling-1.png)
