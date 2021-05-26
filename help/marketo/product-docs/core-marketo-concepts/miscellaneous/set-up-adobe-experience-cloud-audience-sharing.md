@@ -24,7 +24,7 @@ In order to share audience data to your Adobe applications, you must first enter
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Enter your Adobe IMS Org ID (learn how to find that [here](https://docs.adobe.com/content/help/en/control-panel/using/faq.html)) and click **OK**.
+1. Enter your Adobe IMS Org ID (learn how to find that [here](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)) and click **OK**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
