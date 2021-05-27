@@ -33,4 +33,4 @@ Scoring people is easy and powerful to help your sales team prioritize.
     * **=5** will make the score that exact number
     * **=-5** will make the score that exact negative number
 
-   Get some basic scoring in place quickly and then tweak the results over time. That's what we did!
+Get some basic scoring in place quickly and then tweak the results over time. That's what we did!
