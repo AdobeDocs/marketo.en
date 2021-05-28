@@ -1038,7 +1038,6 @@ feature-set: Marketo Engage
   + Marketo Engage Next Generation Experience {#marketo-engage-next-generation-experience}
     + [Overview](product-docs/marketo-engage-next-generation-experience/overview.md)
     + [New Icon Glossary](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
-    + [Moving Assets](product-docs/marketo-engage-next-generation-experience/moving-assets.md)
     + [Using the Global Search](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
   + Marketo Sales Connect {#marketo-sales-connect}
     + Getting Started {#getting-started}
