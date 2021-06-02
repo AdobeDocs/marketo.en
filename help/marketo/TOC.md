@@ -1045,7 +1045,6 @@ feature-set: Marketo Engage
       + [Accessing Your New Sales Connect Instance](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
       + [Getting Started Guide for Sales Connect Admins](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
       + [Manage Your Profile](product-docs/marketo-sales-connect/getting-started/manage-your-profile.md)
-      + [Quick Start Videos and Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
       + [Change Your Sales Connect Password](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
       + Email Settings {#email-settings}
         + [Add Identity](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
