@@ -34,8 +34,6 @@ With global search preview, marketers can quickly see where a shared asset exist
 
 * **Email Program Approval Warning**: Prevent sending erroneous emails when the new edits were made to a previously approved program.  The warning acts as a guardrail when a marketer applies changes to an email that is already approved, but then forgets to approve the latest changes, and sends the email out to a large audience with no content, bad content, or old content.
 
-* **Single Flow Action in Lead Detail Page**: Allow users to execute flow actions like sending email, change lead owner, or any other smart campaign action on individual leads from the lead detail page using the flow action menu. Marketers can execute flow actions on leads without switching to the lead database grid view.  
-
 * **Filter-out Email Bots Activity**: Prevent unintended sales alerts and inaccurate email reporting through the new email bot activity filtering capability. Identify and filter out opens and clicks that can be associated with email bots inspecting links leading to false triggers and sales alerts, or incorrect reporting.  
 
 ## API Enhancements {#api-enhancements}
