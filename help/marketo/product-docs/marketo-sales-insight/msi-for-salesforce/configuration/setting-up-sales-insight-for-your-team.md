@@ -31,13 +31,11 @@ If you have a dedicated profile for your Sales Insight users, you can skip this 
 
    **For profiles that are allowed access Sales Insight**:
 
-   * In Custom App Settings, check Marketo to make the Marketo app visible
    * In Tab Settings, change the Marketo tabs to Default On
    * In Custom Object Permissions, check Read, Create, Edit, and Delete on Marketo Sales Insight Config (if the user should have access to the config settings - typically used for Admins)
 
    **For profiles that are not allowed access to Sales Insight**:
 
-   * In Custom App Settings, uncheck Marketo to hide the Marketo app
    * In Tab Settings, change the Marketo tabs to Tab Hidden
    * In Custom Object Permissions, uncheck Read, Create, Edit, and Delete on Marketo Sales Insight Config
 
