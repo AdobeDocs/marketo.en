@@ -44,6 +44,10 @@ Here's how to add them to an email:
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 
+>[!IMPORTANT]
+>
+>If you're using this approach to add the “viewAsWebpageLink” system token, you can **not** override it using tokens. Instead, use [Add a View as Web Page Link to an Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) approach which allows you to override "viewAsWebPageLink" using tokens.
+
 >[!NOTE]
 >
 >Don't forget to [approve your email](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) when done.
