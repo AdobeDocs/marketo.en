@@ -616,6 +616,8 @@ feature-set: Marketo Engage
         + [Create an Event with GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
         + [Create an Event with Level 3 Web Meeting](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
         + [Create an Event with ReadyTalk](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
+        + [Create an Event with WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+        + [Create an Event with Zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
         + Create an Event with the Marketo ON24 Adapter {#create-an-event-with-the-marketo-on24-adapter}
           + [Create an Event with the Marketo ON24 Adapter](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
           + [Configure Event Settings and Sync Marketo with Your Webinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
@@ -628,8 +630,6 @@ feature-set: Marketo Engage
           + [Test Your ON24 Event Integration](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
           + [Understanding Marketo On24 Adapter Events](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
           + [Understanding Webinar Program Statuses](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
-        + [Create an Event with WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-        + [Create an Event with Zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
     + Facebook {#facebook}
       + [Add Leads to a Custom Audience in Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
       + [Create a Custom Audience in Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
