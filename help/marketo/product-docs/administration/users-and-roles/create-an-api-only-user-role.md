@@ -34,4 +34,4 @@ If you want to integrate with Marketo via the [REST API](https://developers.mark
 
 >[!MORELIKETHIS]
 >
->Okay, well done! Now let's [create an API Only user](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
+>Okay, well done! Now let's [create an API Only user](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).

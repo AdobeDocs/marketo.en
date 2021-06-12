@@ -1,0 +1,111 @@
+---
+description: Push an Adobe Experience Cloud Segment to a Marketo Static List - Marketo Docs - Product Documentation
+title: Push an Adobe Experience Cloud Segment to a Marketo Static List
+---
+# Push an Adobe Experience Cloud Segment to a Marketo Static List {#push-an-adobe-experience-cloud-segment-to-a-marketo-static-list}
+
+This feature allows you to push segments located in your Adobe Experience Platform over to Marketo in the form of a static list.
+
+>[!PREREQUISITES]
+>
+>* [Create an API User](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) in Marketo.
+>* Then, go to **Admin** > **Launchpoint**. Find the name of the role you just created and click **View Details**. Copy and save the info in **Client ID** and **Client Secret**, as you'll need it for this feature.
+
+1. Log in to [Adobe Experience Platform](https://experience.adobe.com/).
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-1.png)
+
+1. Click the grid icon and select **Experience Platform**.
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-2.png)
+
+1. In the left nav, click **Destinations**.
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-3.png)
+
+1. Click **Catalog**.
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-4.png)
+
+1. Find the Marketo Engage tile and click **Activate**.
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-5.png)
+
+1. Under Account Type, click the **New Account** radio button. Enter your Marketo credentials and click **Connect to Destination**.
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-6.png)
+
+   >[!NOTE]
+   >
+   >You can find your Munchkin ID by going to **Admin** > **Munchkin** (it's also part of your Marketo URL once logged in). Client ID/Secret you should have from following the prerequisites at the top of this article.
+
+1. "Connected" should appear below your credentials. Click **Next** in the upper right-hand corner.
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-7.png)
+
+1. Enter a **Name** and an _optional_ Description. Click **Create Destination**.
+
+   >[!NOTE]
+   >
+   >Choosing something from Marketing Actions is also optional. Marketo doesn't leverage that information at this time, but likely will soon.
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-8.png)
+
+1. Click **Next**.
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-9.png)
+
+1. Choose your desired segment and click **Next**.
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-10.png)
+
+   >[!NOTE]
+   >
+   >Segments to static lists are 1:1. If you choose multiple segments here, you'll have to map each segment to a specified static list in the Segment Schedule tab.
+
+1. Click **Add New Mapping**.
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-11.png)
+
+1. Click the cursor icon.
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-12.png)
+
+1. Choose the relevant field that contains the email address that identifies the user. Click **Select** when done.
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-13.png)
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-14.png)
+
+
+   >[!NOTE]
+   >
+   >The example we've chosen may look much different than your selection.
+
+1. Click the mapping icon.
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-15.png)
+
+1. Choose your Target Field and click **Select**.
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-16.png)
+
+1. Click **Next**.
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-17.png)
+
+1. _In Marketo_, create a static list, or find and select one you've already created. Copy the mapping ID from the end of the URL.
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-18.png)
+
+   >[!NOTE]
+   >
+   >For best results, make sure the list you reference in Marketo is empty.
+
+1. Back in Adobe Experience Platform, enter the ID you just copied. Choose your Start Date. People will continuously sync until the chosen end date. For an indefinite sync, leave the end date blank. Click **Next** when done.
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-19.png)
+
+1. Confirm changes and click **Finish**.
+
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-20.png)
