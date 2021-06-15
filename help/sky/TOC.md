@@ -1,5 +1,5 @@
 ---
-archetype: end-user
+solution: Marketo, Marketo Engage, Marketo Sky
 user-guide-title: [!DNL Sky] Product Documentation
 feature-set: Marketo Sky
 index: y
