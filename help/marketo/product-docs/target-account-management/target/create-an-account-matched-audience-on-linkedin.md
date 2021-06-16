@@ -1,12 +1,12 @@
 ---
 unique-page-id: 26837421
-description: Create a Matched Audience on LinkedIn - Marketo Docs - Product Documentation
-title: Create a Matched Audience on LinkedIn
+description: Create an Account Matched Audience on LinkedIn - Marketo Docs - Product Documentation
+title: Create an Account Matched Audience on LinkedIn
 exl-id: 55f2106d-6078-4a47-ab00-6b6dc950a206
 ---
-# Create a Matched Audience on LinkedIn {#create-a-matched-audience-on-linkedin}
+# Create an Account Matched Audience on LinkedIn {#create-an-account-matched-audience-on-linkedin}
 
-Create matched audiences from your TAM Account Lists for LinkedIn Ad Targeting.
+Create account matched audiences from your TAM Account Lists for [LinkedIn Ad Targeting](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting). LinkedIn will match the list to Accounts in their system, and you can create a LinkedIn Audience based on that Account List to activate across LinkedIn channels. This enables marketers to target people in or outside of their database.
 
 >[!PREREQUISITES]
 >
@@ -40,7 +40,7 @@ Create matched audiences from your TAM Account Lists for LinkedIn Ad Targeting.
 
    ![](assets/create-a-matched-audience-on-linkedin-7.png)
 
-   And that's it. Your audience has been pushed over to LinkedIn.
+   And that’s it. Your list of accounts has been pushed over to LinkedIn
 
 >[!MORELIKETHIS]
 >

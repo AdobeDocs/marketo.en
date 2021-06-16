@@ -63,7 +63,7 @@ feature-set: Marketo Engage
         + [Create a Hierarchy](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
       + [Account Lists](product-docs/target-account-management/target/account-lists.md)
       + [Account Smart Lists](product-docs/target-account-management/target/account-smart-lists.md)
-      + [Create a Matched Audience on LinkedIn](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
+      + [Create an Account Matched Audience on LinkedIn](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
     + Engage {#engage}
       + [Account Filters](product-docs/target-account-management/engage/account-filters.md)
       + [Account Triggers](product-docs/target-account-management/engage/account-triggers.md)

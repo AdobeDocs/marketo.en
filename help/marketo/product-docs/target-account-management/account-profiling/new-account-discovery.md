@@ -66,4 +66,4 @@ New Account Discovery can help you find new accounts to target by using AI-power
 
    >[!TIP]
    >
-   >After your accounts are saved, you can use a [matched audience on LinkedIn](/help/marketo/product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md) to target them.
+   >After your accounts are saved, you can use a [matched audience on LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) to target them.

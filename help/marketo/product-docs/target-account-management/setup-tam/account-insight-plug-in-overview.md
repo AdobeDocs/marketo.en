@@ -15,6 +15,8 @@ Account Insight is a Chrome plug-in that surfaces actionable TAM and account ins
 >[!CAUTION]
 >
 >The Account Insight plug-in will not work in subscriptions that have [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (single sign-on) enabled.
+
+>[!CAUTION]
 >
 >CRM context works for Salesforce when launching the plug-in from an Account, Lead or Contact. CRM context will not work for Dynamics when launching the plug-in from an Account, Lead or Contact. For Dynamics users, we recommend using the Account Insight plug-in.
 
