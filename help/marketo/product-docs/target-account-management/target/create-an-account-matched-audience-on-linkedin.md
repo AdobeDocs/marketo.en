@@ -40,7 +40,7 @@ Create account matched audiences from your TAM Account Lists for [LinkedIn Ad Ta
 
    ![](assets/create-a-matched-audience-on-linkedin-7.png)
 
-   And that’s it. Your list of accounts has been pushed over to LinkedIn
+And that’s it. Your list of accounts has been pushed over to LinkedIn
 
 >[!MORELIKETHIS]
 >
