@@ -18,15 +18,15 @@ Please set up the following configuration in order to begin using the new Insigh
 
 1. Go to the **Admin** area.
 
-   ![](assets/configure-1.png)
+   ![](assets/configuration-for-existing-customers-1.png)
 
 1. Click **Sales Insight**.
 
-   ![](assets/configure-2.png)
+   ![](assets/configuration-for-existing-customers-2.png)
 
 1. Click **View** to populate Rest API credentials.
 
-   ![](assets/configure-3.png)
+   ![](assets/configuration-for-existing-customers-3.png)
 
 1. You'll see a confirmation pop-up. Click **OK**.
 
@@ -34,23 +34,23 @@ Please set up the following configuration in order to begin using the new Insigh
 
 1. In Salesforce, click **Setup**.
 
-   ![](assets/sfdc-1.png)
+   ![](assets/configuration-for-existing-customers-4.png)
 
 1. Search for and select **Remote Site Settings**.
 
-   ![](assets/sfdc-2.png)
+   ![](assets/configuration-for-existing-customers-5.png)
 
 1. Click **New Remote Site**.
 
-   ![](assets/sfdc-3.png)
+   ![](assets/configuration-for-existing-customers-6.png)
 
 1. Enter the Remote Site Name (it can be something like “MarketoRestAPI”), and the Remote Site URL (your API URL from Rest API Configuration panel in Marketo).
 
-   ![](assets/sfdc-4.png)
+   ![](assets/configuration-for-existing-customers-7.png)
 
 1. Click **Save**.
 
-   ![](assets/sfdc-5.png)
+   ![](assets/configuration-for-existing-customers-8.png)
 
    You have now created remote site setting for Rest API.
 
@@ -60,4 +60,4 @@ Please set up the following configuration in order to begin using the new Insigh
 
 1. Enter the API Secret Key.
 
-   ![](assets/config.png)
+   ![](assets/configuration-for-existing-customers-9.png)

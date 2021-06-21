@@ -1305,6 +1305,7 @@ feature-set: Marketo Engage
       + Configuration {#configuration}
         + [Configure Marketo Sales Insight in Salesforce Enterprise/Unlimited](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
         + [Configure Marketo Sales Insight in Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+        + [Configuration for Existing Customers](product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md)
         + [Marketo Sales Insight Configuration Tab in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
         + [Sales Insight Page for Marketo Admins](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
         + [Setting up Sales Insight for your Team](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
@@ -1320,7 +1321,6 @@ feature-set: Marketo Engage
           + [Add Marketo Sales Insight Tab and Buttons to Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
           + [Bulk Actions in Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
           + [Send an Email to Multiple Records in Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
-          + [Configuration for Existing Customers](product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md)
           + [Insights Dashboard Feature Overview](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
         + Language Support {#language-support}
           + [Prepare Sales Insight for Multi-Lingual Support in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
