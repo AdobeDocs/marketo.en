@@ -22,7 +22,7 @@ Below is a list of the settings used by Marketo.
 
 **Webinar Name** - enter the name for the webinar. This name will be viewable in Marketo.
 
-**Description** (optional) - enter the description for the webinar. The description will be`viewable in Marketo.
+**Description** (optional) - enter the description for the webinar. The description will be viewable in Marketo.
 
 ![](assets/image2015-5-28-15-3a1-3a36.png)
 

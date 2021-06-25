@@ -22,7 +22,7 @@ Enter the following information for your webinar and it will be pulled into Mark
 
 * **Webinar Name** - Enter the name for the webinar. This name will be viewable in Marketo.
 
-* **Description** (optional) - Enter the description for the webinar. The description will be`viewable in Marketo.
+* **Description** (optional) - Enter the description for the webinar. The description will be viewable in Marketo.
 
 **Date & Time**
 
