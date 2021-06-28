@@ -10,7 +10,6 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
 
 >[!PREREQUISITES]
 >
->* [Configure Marketo field sync in your Salesforce Enterprise/Unlimited Edition](https://docs.marketo.com/pages/viewpage.action?pageid=2360372)
 >* [Install Marketo Sales Insight Package in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 >[!NOTE]
@@ -159,31 +158,31 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
 
 1. Repeat the above step for these fields as well.
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1">Engagement</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Relative Score Value</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Urgency Value</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Last Interesting Moment Date</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Last Interesting Moment Desc</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Last Interesting Moment Source</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Last Interesting Moment Type</p></td> 
-  </tr> 
- </tbody> 
-</table>
+   <table> 
+    <tbody> 
+     <tr> 
+      <td colspan="1">Engagement</td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Relative Score Value</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Urgency Value</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Last Interesting Moment Date</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Last Interesting Moment Desc</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Last Interesting Moment Source</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Last Interesting Moment Type</p></td> 
+     </tr> 
+    </tbody> 
+   </table>
 
 1. Click **Save** when finished.
   
@@ -219,42 +218,42 @@ Marketo person fields need to be mapped to Salesforce contact fields to ensure t
 
 1. Repeat and map these fields as well.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th colspan="1" rowspan="1">Marketo Person Custom Field</th> 
-   <th colspan="1" rowspan="1">Salesforce Contact Custom Field</th> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Engagement</p></td> 
-   <td colspan="1" rowspan="1"><p>Contact.Engagement</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Relative Score Value</p></td> 
-   <td colspan="1" rowspan="1"><p>Contact.Relative Score Value</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Urgency Value</p></td> 
-   <td colspan="1" rowspan="1"><p>Contact.Urgency Value</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Last Interesting Moment Date</p></td> 
-   <td colspan="1" rowspan="1"><p>Contact.Last Interesting Moment Date</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Last Interesting Moment Desc</p></td> 
-   <td colspan="1" rowspan="1"><p>Contact.Last Interesting Moment Desc</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Last Interesting Moment Source</p></td> 
-   <td colspan="1" rowspan="1"><p>Contact.Last Interesting Moment Source</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Last Interesting Moment Type</p></td> 
-   <td colspan="1" rowspan="1"><p>Contact.Last Interesting Moment Type</p></td> 
-  </tr> 
- </tbody> 
-</table>
+   <table> 
+    <tbody> 
+     <tr> 
+      <th colspan="1" rowspan="1">Marketo Person Custom Field</th> 
+      <th colspan="1" rowspan="1">Salesforce Contact Custom Field</th> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Engagement</p></td> 
+      <td colspan="1" rowspan="1"><p>Contact.Engagement</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Relative Score Value</p></td> 
+      <td colspan="1" rowspan="1"><p>Contact.Relative Score Value</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Urgency Value</p></td> 
+      <td colspan="1" rowspan="1"><p>Contact.Urgency Value</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Last Interesting Moment Date</p></td> 
+      <td colspan="1" rowspan="1"><p>Contact.Last Interesting Moment Date</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Last Interesting Moment Desc</p></td> 
+      <td colspan="1" rowspan="1"><p>Contact.Last Interesting Moment Desc</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Last Interesting Moment Source</p></td> 
+      <td colspan="1" rowspan="1"><p>Contact.Last Interesting Moment Source</p></td> 
+     </tr> 
+     <tr> 
+      <td colspan="1" rowspan="1"><p>Last Interesting Moment Type</p></td> 
+      <td colspan="1" rowspan="1"><p>Contact.Last Interesting Moment Type</p></td> 
+     </tr> 
+    </tbody> 
+   </table>
 
 1. Click **Save** when you’re done.
 
