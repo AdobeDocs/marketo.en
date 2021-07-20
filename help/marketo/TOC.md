@@ -1675,6 +1675,7 @@ feature-set: Marketo Engage
       + [View Web Campaigns from a Specific Label](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + Release Notes {#release-notes}
   + [Release Schedule](release-notes/release-schedule.md)
+  + [Current Release](release-notes/current.md)
   + 2021 {#2021}
     + [Release Notes: Jan '21](release-notes/2021/release-notes-jan-21.md)
     + [Release Notes: May '21](release-notes/2021/release-notes-may-21.md)
