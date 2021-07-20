@@ -70,7 +70,7 @@ The following features are on a non-quarterly cycle and will be released through
 * **New Cohort Waterfall Journey Dashboard**: This will enable marketers to view the progression of a selected cohort through a classic “demand waterfall” set of stages, providing a quick understanding of conversion rates and implied stage conversion causality on a stage-by-stage basis.
 
 ## Bizible Integration with Adobe Experience Cloud {#bizible-integration-with-adobe-experience-cloud}
-  
+
 This section includes new features for Bizible users that have completed their Adobe Identity Management System (IMS) migration. If you have been migrated, you’ll see your new Adobe ID in Bizible Settings under the Adobe ID tab. All accounts ahould be migrated by the end of 2021.
 
 * **Bizible Integration with Adobe Privacy Service**: Bizible’s integration with the Adobe Privacy Service centralizes compliance with critical data privacy regulations (such as GDPR) across Adobe Experience Cloud applications. You can now take advantage of this service and manage all privacy requests centrally so that change requests coming into Bizible and other Adobe products are reflected across applications.
