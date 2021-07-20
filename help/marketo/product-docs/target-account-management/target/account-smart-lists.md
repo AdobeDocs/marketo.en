@@ -10,7 +10,7 @@ Here's how to quickly and accurately identify your high value accounts.
 
 >[!NOTE]
 >
->This feature is only available to those with both TAM and the Adobe Marketo Engage Next-Gen user experience enabled.
+>This feature is only available to those with both the Target Account Management add-on and a TAM licensed issued.
 
 ## Create an Account Smart List {#create-an-account-smart-list}
 

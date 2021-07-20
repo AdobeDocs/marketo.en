@@ -4,7 +4,7 @@ title: Current Release Notes
 ---
 # Release Notes: August 2021 {#release-notes-aug-21}
 
-The following features are included in the August '21 release. Check your Marketo edition for feature availability.
+The following features are included in the August '21 release. Check your Marketo Engage edition for feature availability.
 
 >[!AVAILABILITY]
 >

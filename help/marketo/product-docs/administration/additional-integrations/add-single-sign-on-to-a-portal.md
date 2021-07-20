@@ -23,9 +23,9 @@ Once SSO is enabled, the IdP can validate a user’s credentials. When a user wi
 ## How to Send the Request {#how-to-send-the-request}
 
 * Send the SSO request, which is a SAML response, to `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* As the SP’s Audience URL. Use `https://saml.marketo.com/sp`
-* If you are using the SPNameQualifier attribute, set the NameID element for Subject to `https://saml.marketo.com/sp`
-* If you are federating multiple Marketo subscriptions to the same SSO provider, you can use unique SP urls for each Marketo sub with the format `https://saml.marketo.com/sp/<munchkin_id>`
+* As the SP’s Audience URL. Use `http://saml.marketo.com/sp`
+* If you are using the SPNameQualifier attribute, set the NameID element for Subject to `http://saml.marketo.com/sp`
+* If you are federating multiple Marketo subscriptions to the same SSO provider, you can use unique SP urls for each Marketo sub with the format `http://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
 >
