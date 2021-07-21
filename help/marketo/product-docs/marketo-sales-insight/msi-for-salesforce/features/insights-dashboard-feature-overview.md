@@ -10,7 +10,7 @@ Learn more about the features available in your Sales Insights dashboard.
 
 >[!PREREQUISITES]
 >
->You must have the latest MSI SFDC package and [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
+>You must have the latest MSI SFDC package and [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 ![](assets/one.png)
 

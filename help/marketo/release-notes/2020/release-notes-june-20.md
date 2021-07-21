@@ -54,7 +54,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 ![(star)](assets/yellow-star.png)
 
-* **[Insights Dashboard for Salesforce CRM](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**: We're reimagining our Sales Insight capability with new visibility into upcoming marketing events and campaigns to give sellers the ability to make recommendations more relevant to customers and prospects based on their needs and interests. Sellers can also view both Contact and Account Activity within the timeline and easily access additional activity details. Find more details on how to upgrade your package [here](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
+* **[Insights Dashboard for Salesforce CRM](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**: We're reimagining our Sales Insight capability with new visibility into upcoming marketing events and campaigns to give sellers the ability to make recommendations more relevant to customers and prospects based on their needs and interests. Sellers can also view both Contact and Account Activity within the timeline and easily access additional activity details. Find more details on how to upgrade your package [here](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 <br>&nbsp;
 
