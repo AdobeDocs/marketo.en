@@ -51,6 +51,10 @@ You also have quick access to your munchkin ID, which is now reflected in your i
 
 There are a ton of new tree features available.
 
+>[!NOTE]
+>
+>Performing a search in the tree will only display the first 250 results. If after a search you are unable to locate your asset, please use the [Global Search](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md) function.
+
 **Marketo Classic vs. the New Marketo**
 
 <table> 
