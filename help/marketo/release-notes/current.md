@@ -71,9 +71,9 @@ The following features are on a non-quarterly cycle and will be released through
 
 ## Bizible Integration with Adobe Experience Cloud {#bizible-integration-with-adobe-experience-cloud}
 
-This section includes new features for Bizible users that have completed their Adobe Identity Management System (IMS) migration. If you have been migrated, you’ll see your new Adobe ID in Bizible Settings under the Adobe ID tab. All accounts ahould be migrated by the end of 2021.
+This section includes new features for Bizible users that have completed their Adobe Identity Management System (IMS) migration. If you have been migrated, you’ll see your new Adobe ID in Bizible Settings under the Adobe ID tab. All accounts should be migrated by the end of 2021.
 
-* **Bizible Integration with Adobe Privacy Service**: Bizible’s integration with the Adobe Privacy Service centralizes compliance with critical data privacy regulations (such as GDPR) across Adobe Experience Cloud applications. You can now take advantage of this service and manage all privacy requests centrally so that change requests coming into Bizible and other Adobe products are reflected across applications.
+* **Bizible Integration with Adobe Privacy Service** (available September 2021): Bizible’s integration with the Adobe Privacy Service centralizes compliance with critical data privacy regulations (such as GDPR) across Adobe Experience Cloud applications. You can now take advantage of this service and manage all privacy requests centrally so that change requests coming into Bizible and other Adobe products are reflected across applications.
 
 * **Bizible on Adobe Unified Shell**: Bizible’s adoption of Adobe Unified Shell gives users new capabilities that will appear in the Bizible application header bar and include better access to support resources and application switching. Adobe Unified Shell helps create a consistent experience between Bizible and other Adobe Experience Cloud applications.
 
