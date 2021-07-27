@@ -12,6 +12,10 @@ Marketo and Microsoft Dynamics go together. We keep your sales and marketing dat
 >
 >Marketo only supports SSL certs that are compatible with Java 7 at this time.
 
+>[!CAUTION]
+>
+>We do not currently support sandbox refresh for Marketo Dynamics Sync. If you need to refresh your Dynamics CRM sandbox, a new Marketo sandbox will be required. Please contact your Customer Success Manager for additional details.
+
 ## How Sync Works {#how-sync-works}
 
 Marketo continuously syncs data with Microsoft Dynamics all day, every day. It's done using background sync, in batches, not in real time.
@@ -32,10 +36,8 @@ The sync between Marketo and Dynamics is bidirectional for leads and contacts. I
 * [Opportunities](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [Custom entities](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
 
+The [credentials you enter in Marketo for Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) are used to sync data over.
+
 >[!NOTE]
 >
->The [credentials you enter in Marketo for Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) are used to sync data over.
-
->[!CAUTION]
->
->We do not currently support sandbox refresh for Marketo Dynamics Sync. If you need to refresh your Dynamics CRM sandbox, a new Marketo sandbox will be required. Please contact your Customer Success Manager for additional details.
+>Instance copy is not supported if the source instance is integrated with Microsoft Dynamics.
