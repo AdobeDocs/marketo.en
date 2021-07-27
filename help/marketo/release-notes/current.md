@@ -16,8 +16,6 @@ The following features will be released on **August 20, 2021**.
 
 ## Adobe Experience Platform Integration {#adobe-experience-platform-integration}
 
-* **Native Adobe Experience Platform Connector for Sharing Audiences to Marketo Engage**: Enable multi-channel campaign orchestration in Marketo Engage for audience segments created in Adobe Experience Cloud via native destination connector. The connector uses email addresses to match Adobe Experience Platform profiles to Marketo Engage lead profiles resulting in highly accurate segment sharing between applications. Static Marketo Engage lists are automatically created and enable marketers to reach target audiences with highly personalized messaging or initiate workflows. Activate people audiences leveraging their account and opportunity context and more complete and real-time data in Experience Platform.
-
 * **Marketo Engage User Authentication via Adobe Identity**: Beginning September 2021, new Marketo Engage users with Enterprise packages will be onboarded using Adobe ID user credentials. Migration of current users to the integrated identity system will not occur until mid-2022 and no action is required until further notice. Adobe identity user authentication allows IT/Security admins to manage multiple Marketo Engage product instances along with other Experience Cloud solutions, as well as configuring SSO through a common console. Admins can conveniently manage user groups and user entitlements in one place.
 
 ## Experience Automation {#experience-automation}
