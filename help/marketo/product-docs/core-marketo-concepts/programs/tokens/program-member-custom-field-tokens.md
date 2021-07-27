@@ -17,7 +17,7 @@ Member Tokens are used for fields under the scope of Program Member. As of curre
 >[!NOTE]
 >
 >* Program Member Custom Fields can be used only in the context of a program.
->* Program Member Custom Fields Tokens cannot be used in: email scripts, email preheader, Date Tokens in Wait Steps, or Snippets.
+>* Program Member Custom Fields Tokens cannot be used in: email preheader, Date Tokens in Wait Steps, or Snippets.
 >* Program Member Status is not supported in Member Tokens.
 
 ## Using Program Member Custom Field Tokens in Assets {#using-program-member-custom-field-tokens-in-assets}
