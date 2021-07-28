@@ -53,7 +53,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 ![(star)](assets/yellow-star.png)
 
-* **Email Connection Throttling (GA)**: Improve email deliverability and scale personalized sales communication with the email connection throttling for Sales Connect. This new technology automatically manages email send timing to create seamless experiences for Exchange and Gmail users. Decrease or eliminate the usage of third-party bulk email send applications and send all your emails from Sales Connect with confidence.
+* **[Email Connection Throttling (Beta)](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)**: Improve email deliverability and scale personalized sales communication with the email connection throttling for Sales Connect. This new technology automatically manages email send timing to create seamless experiences for Exchange and Gmail users. Decrease or eliminate the usage of third-party bulk email send applications and send all your emails from Sales Connect with confidence.
 
 * **Enhanced Sales Activity Insights**: Capture and activate personalized engagement based on your sales team’s prior activities. New attributes such as Sales Call Recording Link, Sales Campaign Name, and Sales Email Subject can be used in Marketo Engage smart lists.  These activities can be exported and reported through the Marketo Engage REST API or Bulk Export and are available on filters and triggers as additional constraints for smart lists.  
 
