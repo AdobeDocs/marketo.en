@@ -12,6 +12,8 @@ Match right leads to right named accounts using Marketo Lead-to-Account matching
 >
 >**Lead-to-Account Matching** is a built-in feature of Marketo Target Account Management. It uses fuzzy logic to automatically match leads to the right named accounts in near real-time. These named accounts could be CRM accounts or Marketo companies.
 
+## Overview {#overview}
+
 Marketo Lead-to-Account Matching follows a 4 step process:
 
 **Step 1 -** Our matching process begins by using key information on the lead records, such as:
@@ -32,7 +34,33 @@ Since Marketo Lead-to-Account matching is a built-in feature of Marketo Target A
 
 >[!NOTE]
 >
->If you use LeanData in Salesforce to do Lead-to-Account matching, Marketo has an integration that will sync those matches to your Marketo instance. To have that feature enabled, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>If you use LeanData in Salesforce to do Lead-to-Account matching, Marketo has an integration that will sync those matches to your Marketo instance. To have that feature enabled, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) Learn how to set up LeanData below.
+
+## Using LeanData for Lead to Account Matching {#using-leandata-for-lead-to-account-matching}
+
+After [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) has enabled LeanData for your account, follow the steps below to set it up.
+
+1. In Salesforce, click **Setup Home** in the left nav.
+
+1. Still in the left nav, under Administration, click **Users** then **Profiles**.
+
+1. Locate and select the **Marketo Sync** profile.
+
+1. Scroll down to the Field Level Security section and locate the Lead object. Select **View**.
+
+1. For the field name "Reporting Matched Account," make sure the checkbox in the **Read Access** column is selected.
+
+1. In Marketo, go to the **Admin** section.
+
+   ![](assets/lead-to-account-matching-1.png)
+
+1. Select **Field Management**.
+
+   ![](assets/lead-to-account-matching-2.png)
+
+1. Confirm the field is there by searching “Reporting Matched Account.”
+
+   ![](assets/lead-to-account-matching-3.png)
 
 >[!MORELIKETHIS]
 >
