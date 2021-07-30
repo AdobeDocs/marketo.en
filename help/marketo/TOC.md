@@ -1210,7 +1210,7 @@ feature-set: Marketo Engage
     + Marketo {#marketo}
       + [Set up Your Marketo Connection](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
       + [Granting Access to Users](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
-      + [Interesting Moments in MSC](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
+      + [Interesting Moments in Sales Connect](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
       + [Make a Campaign Visible to Sales Connect Users](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
     + People {#people}
       + [Person Detail View](product-docs/marketo-sales-connect/people/person-detail-view.md)

@@ -35,7 +35,7 @@ To connect your Sales Connect instance to your Salesforce instance, as an Admin 
 Connecting to Marketo will enable your sellers to harness the power of marketing automation and marketing insights in their prospecting efforts. The following features require you to setup an integration with Marketo.
 
 * Share [marketing campaigns](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md) with sellers
-* Push [Interesting Moments](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) to the Live Feed
+* Push [Interesting Moments](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) to the Live Feed
 * Logging sales activities to Marketo
 
 To learn more about how to connect to Marketo and grant sales users access to the connection, click here.  
