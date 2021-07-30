@@ -10,7 +10,7 @@ feature-set: Marketo Engage
 + [Home](home.md)
 + Getting Started with Marketo {#getting-started-with-marketo}
   + [Getting Started](getting-started.md)
-  + [What is Marketo?](getting-started/what-is-marketo.md)
+  + [What is Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
   + [Marketo Glossary](getting-started/marketo-glossary.md)
   + [Icon Glossary](getting-started/icon-glossary.md)
   + Setup {#setup}
