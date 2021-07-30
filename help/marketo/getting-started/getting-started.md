@@ -10,7 +10,7 @@ exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 
 What is Marketo you ask? Great question!
 
-[Learn Marketo](/help/marketo/getting-started/what-is-marketo.md)
+[Learn Marketo](/help/marketo/getting-started/what-is-adobe-marketo-engage.md)
 
 ## STEP 2 Get Set Up {#get-set-up}
 
