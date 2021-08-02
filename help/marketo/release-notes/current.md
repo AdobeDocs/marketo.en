@@ -30,11 +30,9 @@ The following features will be released on **August 20, 2021**.
 
 * **Custom Fields Metadata API**: Streamline creation and management of custom fields in Marketo Engage for partner integrations. Create new fields on a lead object automatically, and make field updates in multiple Marketo Engage instances immediately and simultaneously.
 
-* **Enhanced Filtering**: Several APIs now support more filtering, such as adding a date range filter to email assets and program member fields.
-
 * **Submit Form API**: When an email address is duplicated in two or more Lead records, we update “last updated” record instead of skipping altogether. Provides parity with Forms 2.0 API.
 
-* **Email API**: Retrieve champion or challenger email assets.  
+* **Email API**: Retrieve champion or challenger email assets. Retrieve email assets using date range filter.
 
 **_Releasing Throughout the Quarter_**
 
