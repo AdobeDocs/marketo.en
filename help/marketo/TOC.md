@@ -128,6 +128,7 @@ feature-set: Marketo Engage
       + [Minimum System Requirements](product-docs/administration/setup-administration/minimum-system-requirements.md)
       + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
       + [Supported Browsers](product-docs/administration/setup-administration/supported-browsers.md)
+      + [Global Form Validation Rule](product-docs/administration/setup-administration/global-form-validation-rule.md)
     + Additional Integrations {#additional-integrations}
       + [Add Adobe Connect as a LaunchPoint Service](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
       + [Add Google AdWords as a Launchpoint Service with a Manager Account](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
