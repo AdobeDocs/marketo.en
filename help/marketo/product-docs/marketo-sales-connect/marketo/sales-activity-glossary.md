@@ -54,7 +54,7 @@ The activities below will be logged to Marketo from Sales Connect.
  <tr>
   <td>Template ID</td>
  </tr>
- <tr>
+<tr>
   <th rowspan="2">Received Sales Email</th>
   <td>Received By</td>
  </tr>
@@ -144,6 +144,74 @@ The activities below will be logged to Marketo from Sales Connect.
   <th>Description</th>
  </tr>
  <tbody> 
+ <tr> 
+   <td><strong>Details</strong></td> 
+   <td>Bounce error message detail.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Email</strong></td> 
+   <td>Email address that bounced.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Link</strong></td> 
+   <td>URL that was clicked.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Received By</strong></td> 
+   <td>Email address of the person who sent the email.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Sales Call Answered By</strong></td> 
+   <td>Name of person who answered the call.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Sales Call Duration</strong></td> 
+   <td>Length of call in seconds.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Sales Call Made By</strong></td> 
+   <td>Email address of sales person who made the call.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Sales Call Recording URL</strong></td> 
+   <td>URL of call recording.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Sales Call Status</strong></td> 
+   <td>Will save the final call status of the call which includes: completed, no answer, cancelled, failed.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Sales Call Subject</strong></td> 
+   <td>Call outcome that's selected by a sales user in the dialer.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Sales Campaign ID</strong></td> 
+   <td>Unique ID for Sales Campaign asset in Sales Connect.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Sales Campaign Name</strong></td> 
+   <td>Name of Sales Campaign.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Sales Campaign URL</strong></td> 
+   <td>Sales Connect URL for Sales Campaign.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Sales Email Subject</strong></td> 
+   <td>Subject line of email.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Sales Phone Number Called</strong></td> 
+   <td>Phone number called by Sales.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Sales Template Name</strong></td> 
+   <td>Name of email template in Sales Connect.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Sales Template URL</strong></td> 
+   <td>Sales Connect URL for email template.</td> 
+  </tr>
   <tr> 
    <td><strong>Sent By</strong></td>
    <td>Email address of the person who sent the email.</td> 
@@ -156,18 +224,6 @@ The activities below will be logged to Marketo from Sales Connect.
    <td><strong>Template ID</strong></td> 
    <td>When the source is Tout, the Template ID will be the Marketo Sales Connect Template ID. Use this to target a specific template instead of subject line, which could exist in multiple templates.
 </td> 
-  </tr> 
-  <tr> 
-   <td><strong>Received By</strong></td> 
-   <td>Email address of the person who sent the email.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Details</strong></td> 
-   <td>Bounce error message detail.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Email</strong></td> 
-   <td>Email address that bounced.</td> 
   </tr> 
  </tbody> 
 </table>

@@ -6,7 +6,7 @@ hidefromtoc: yes
 ---
 # Custom Activity Metadata Export {#custom-activity-metadata-export}
 
-If you're using our SOAP API or Munchkin API, Custom Activity Metadata Schema can be exported. Here's how to get it.
+Follow the steps below to export your Custom Activity Metadata Schema.
 
 1. In My Marketo, click **Admin**.
 
