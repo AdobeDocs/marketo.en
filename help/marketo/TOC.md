@@ -198,7 +198,7 @@ feature-set: Marketo Engage
       + [Create a Custom Activity](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
       + [Edit a Custom Activity](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
       + [Publish a Custom Activity](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
-      + [Custom Activity Metadata Export](product-docs/administration/marketo-custom-objects/custom-activity-metadata-export.md)
+      + [Custom Activity Metadata Export](product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)
     + Marketo Custom Objects {#marketo-custom-objects}
       + [Understanding Marketo Custom Objects](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
       + [Add Marketo Custom Object Fields](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
