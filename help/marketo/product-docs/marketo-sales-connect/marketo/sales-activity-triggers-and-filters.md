@@ -26,6 +26,6 @@ Follow the steps below to learn how to utilize sales activity filters and trigge
 
    ![](assets/sales-activity-triggers-and-filters-4.png)
 
->[!NOTE
+>[!NOTE]
 >
 >For a full list of activities, constraints, and definitions check out our [Sales Activity Glossary](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).

@@ -198,6 +198,7 @@ feature-set: Marketo Engage
       + [Create a Custom Activity](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
       + [Edit a Custom Activity](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
       + [Publish a Custom Activity](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
+      + [Custom Activity Metadata Export](product-docs/administration/marketo-custom-objects/custom-activity-metadata-export.md)
     + Marketo Custom Objects {#marketo-custom-objects}
       + [Understanding Marketo Custom Objects](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
       + [Add Marketo Custom Object Fields](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
@@ -1213,6 +1214,8 @@ feature-set: Marketo Engage
       + [Granting Access to Users](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
       + [Interesting Moments in Sales Connect](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
       + [Make a Campaign Visible to Sales Connect Users](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+      + [Sales Activity Glossary](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
+      + [Sales Activity Triggers and Filters](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
     + People {#people}
       + [Person Detail View](product-docs/marketo-sales-connect/people/person-detail-view.md)
       + [Sales Connect and GDPR Compliance](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
