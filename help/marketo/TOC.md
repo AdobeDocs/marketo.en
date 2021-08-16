@@ -312,6 +312,7 @@ feature-set: Marketo Engage
         + [Request Campaign](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
         + [Send Alert](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
         + [Send Email](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)
+        + [Single Flow Actions from Person Detail Page](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/single-flow-actions-from-person-detail-page.md)
         + [Triggers and Filters for Mobile Smart Campaigns](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
         + [Use a Webhook in a Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
         + [Use Add Choice in a Flow Step](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
