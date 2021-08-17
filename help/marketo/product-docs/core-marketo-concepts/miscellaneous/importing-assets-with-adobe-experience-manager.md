@@ -6,10 +6,9 @@ exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 ---
 # Importing Assets with Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
-The Asset Picker allows Marketo customers to access, select, and import AEM assets into Marketo's Design Studio. **Admin permissions are required**.
+The Asset Selector allows Marketo customers to access, select, and import AEM assets into Marketo's Design Studio. **Admin permissions are required**.
 
 >[!AVAILABILITY]
->
 >
 >Not all customers have purchased this feature. Please contact your Customer Success Manager for details.
 
@@ -17,9 +16,9 @@ The Asset Picker allows Marketo customers to access, select, and import AEM asse
 >
 >Make sure you've already performed the [AEM Configuration](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->Currently, this feature is only fully supported in Firefox. It is not supported in Safari, and it might not work in the latest version of Chrome (v. 80), depending on your SameSite cookie settings.
+>This feature is fully supported in the current versions of Firefox, Chrome, and Edge. It is not supported in Safari.
 
 1. Click **Design Studio**.
 
