@@ -1,8 +1,6 @@
 ---
 description: Sales Activity Glossary - Marketo Docs - Product Documentation
 title: Sales Activity Glossary
-hide: yes
-hidefromtoc: yes
 ---
 # Sales Activity Glossary {#sales-activity-glossary}
 

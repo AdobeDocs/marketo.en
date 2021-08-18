@@ -54,8 +54,8 @@ The Asset Selector allows Marketo customers to access, select, and import AEM as
 
 ## Things to Note {#things-to-note}
 
-   Marketo currently supports Adobe Experience Manager versions 6.4 and 6.5.
+* Marketo currently supports Adobe Experience Manager versions 6.4 and 6.5.
 
-   All users in your instance will be able to view/access the images you import.
+* All users in your instance will be able to view/access the images you import.
 
-   Images are not automatically updated. If an image you imported into the Marketo Design Studio is updated in AEM, you must manually re-import it into Marketo.
+* Images are not automatically updated. If an image you imported into the Marketo Design Studio is updated in AEM, you must manually re-import it into Marketo.

@@ -61,11 +61,11 @@ When using Schedule or Request Campaign [in the API](https://developers.marketo.
 * Executable Campaigns cannot be called across workspaces
 * If you use the [Remove from Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) flow action targeting an Executable Campaign, it will target both the child and parent
 * Taking advantage of token inheritance - For example, if you have a single common scoring flow that's triggered by multiple different assets, you can define a default My Token score in the child campaign and in the parent campaign so that you can override the child score campaign value for your parent campaigns (see below for visual example)
-* Nesting Executable Campaigns is not available at this time, but will be in an upcoming release
+* Executable Campaigns can be called up to three levels deep (e.g., Parent campaign > Child > Child > Child)
 
 >[!CAUTION]
 >
->Never leave your smart lists for executable campaigns invalid, otherwise **no one** will qualify for it. Best practice is to create separate smart list assets, define them completely, and make sure they're valid. Then, use the "Member of Smart List" filter in the Executable Campaign so you can swap your smart list definition.
+>Never leave your smart lists for Executable Campaigns invalid, otherwise **no one** will qualify for it. Best practice is to create separate smart list assets, define them completely, and make sure they're valid. Then, use the "Member of Smart List" filter in the Executable Campaign so you can swap your smart list definition.
 
 ## Token Inheritance Example {#token-inheritance-example}
 

@@ -1,8 +1,6 @@
 ---
 description: Sales Activity Triggers and Filters - Marketo Docs - Product Documentation
 title: Sales Activity Triggers and Filters
-hide: yes
-hidefromtoc: yes
 ---
 # Sales Activity Triggers and Filters {#sales-activity-triggers-and-filters}
 

@@ -1,8 +1,6 @@
 ---
 description: Custom Activity Metadata Export - Marketo Docs - Product Documentation
 title: Custom Activity Metadata Export
-hide: yes
-hidefromtoc: yes
 ---
 # Custom Activity Metadata Export {#custom-activity-metadata-export}
 
