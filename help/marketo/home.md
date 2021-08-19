@@ -27,6 +27,6 @@ exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
 
 * [Adobe Marketo Engage Next Gen UX Experience Overview](/help/marketo/product-docs/marketo-engage-next-generation-experience/overview.md)
 
-## Current Release Notes
+## Release Notes
 
-* [May 2021](/help/marketo/release-notes/2021/release-notes-may-21.md)
+* [Current Release](/help/marketo/release-notes/current.md)
