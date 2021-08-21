@@ -22,7 +22,7 @@ The following features will be released on **August 20, 2021**.
 
 * **Executable Campaign Nesting**: Executable campaigns may now also call other executable campaigns allowing you to nest them up to three levels deep. This enables further consolidation of common operational flows and improves Smart Campaign management.
 
-* **Single Flow Action in Person Detail Page**: Execute flow actions like sending email, change person owner, or any other smart campaign action on individual people from the person detail page using the flow action menu without switching to the database grid view.
+* **Single Flow Action in Person Detail Page** (Available by August 30): Execute flow actions like sending email, change person owner, or any other smart campaign action on individual people from the person detail page using the flow action menu without switching to the database grid view.
 
 * **Custom Activities Export**: Metadata export now supports all objects and respective metadata which can be used to share, analyze and design your subscription data model.
 

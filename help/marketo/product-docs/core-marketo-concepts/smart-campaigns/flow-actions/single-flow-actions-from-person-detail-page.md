@@ -1,6 +1,8 @@
 ---
 description: Single Flow Actions from Person Detail Page - Marketo Docs - Product Documentation
 title: Single Flow Actions from Person Detail Page
+hide: yes
+hidefromtoc: yes
 ---
 # Single Flow Actions from Person Detail Page {#single-flow-actions-from-person-detail-page}
 
