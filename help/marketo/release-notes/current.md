@@ -24,11 +24,9 @@ The following features will be released on **August 20, 2021**.
 
 * **Single Flow Action in Person Detail Page** (Available by August 30): Execute flow actions like sending email, change person owner, or any other smart campaign action on individual people from the person detail page using the flow action menu without switching to the database grid view.
 
-* **Custom Activities Export**: Metadata export now supports all objects and respective metadata which can be used to share, analyze and design your subscription data model.
+* **[Custom Activities Export](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)**: Metadata export now supports all objects and respective metadata which can be used to share, analyze and design your subscription data model.
 
 ## API Enhancements {#api-enhancements}
-
-* **Custom Fields Metadata API**: Streamline creation and management of custom fields in Marketo Engage for partner integrations. Create new fields on a lead object automatically, and make field updates in multiple Marketo Engage instances immediately and simultaneously.
 
 * **Submit Form API**: When an email address is duplicated in two or more Lead records, we update “last updated” record instead of skipping altogether. Provides parity with Forms 2.0 API.
 
