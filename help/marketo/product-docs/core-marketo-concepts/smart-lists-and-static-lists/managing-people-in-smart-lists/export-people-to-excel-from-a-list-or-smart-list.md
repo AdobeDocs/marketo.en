@@ -39,11 +39,3 @@ If you need list or smart list results outside of Marketo, you can easily export
    >[!TIP]
    >
    >If the export is taking a while, you can always log out and come back to it later. The **Download now** link can be accessed by selecting **Show Export Status** in the **List Actions** menu, and is valid for one week.
-
-   After you export a smart list to Excel, Marketo will automatically cache the list. You'll notice a little paper clip and sticky note on the smart list icon the next time you log-in or refresh your browser.
-
-   ![](assets/cached.png)
-
-   >[!TIP]
-   >
-   >You can undo the caching of the list simply by pressing the list's refresh button.
