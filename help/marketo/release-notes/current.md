@@ -14,11 +14,9 @@ The following features are included in the August '21 release. Check your Market
 
 The following features will be released on **August 20, 2021**.
 
-## Adobe Experience Platform Integration {#adobe-experience-platform-integration}
+## Experience Automation {#experience-automation}
 
 * **Marketo Engage User Authentication via Adobe Identity**: Beginning September 2021, new Marketo Engage users with Enterprise packages will be onboarded using Adobe ID user credentials. Migration of current users to the integrated identity system will not occur until mid-2022 and no action is required until further notice. Adobe identity user authentication allows IT/Security admins to manage multiple Marketo Engage product instances along with other Experience Cloud solutions, as well as configuring SSO through a common console. Admins can conveniently manage user groups and user entitlements in one place.
-
-## Experience Automation {#experience-automation}
 
 * **Executable Campaign Nesting**: Executable campaigns may now also call other executable campaigns allowing you to nest them up to three levels deep. This enables further consolidation of common operational flows and improves Smart Campaign management.
 
