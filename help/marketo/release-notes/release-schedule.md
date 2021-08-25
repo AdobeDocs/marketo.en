@@ -43,12 +43,12 @@ _Release dates are subject to change_
   <tr> 
    <td colspan="1">August '21</td> 
    <td colspan="1">August 20, 2021</td> 
-   <td colspan="1">In Progress</td> 
+   <td colspan="1">Shipped</td> 
   </tr> 
   <tr> 
    <td colspan="1">October '21</td> 
    <td colspan="1">October 15, 2021</td> 
-   <td colspan="1">On Schedule</td> 
+   <td colspan="1">In Progress</td> 
   </tr> 
  </tbody> 
 </table>
