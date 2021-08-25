@@ -47,7 +47,7 @@ _Release dates are subject to change_
   </tr> 
   <tr> 
    <td colspan="1">October '21</td> 
-   <td colspan="1">October 15, 2021</td> 
+   <td colspan="1">October 22, 2021</td> 
    <td colspan="1">In Progress</td> 
   </tr> 
  </tbody> 
