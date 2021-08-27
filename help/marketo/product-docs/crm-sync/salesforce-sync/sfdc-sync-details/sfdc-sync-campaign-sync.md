@@ -61,7 +61,7 @@ Here are things you can check:
 
 >[!NOTE]
 >
->If your Salesforce campaign and the mapped Marketo program have incompatible program statuses, you may receive an error message. We recommend that you [match the program statuses prior to the sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+>If your Salesforce campaign and the mapped Marketo program have incompatible program statuses, you may receive an error message. We recommend that you [match the program statuses prior to the sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
 >[!MORELIKETHIS]
 >
