@@ -41,7 +41,7 @@ In this article, you will configure Marketo to sync with your configured Salesfo
 
    >[!NOTE]
    >
-   >Be sure to [hide all fields you do not need](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo from the sync user before clicking **Sync Fields**. Once you click Sync Fields all fields the user can see will be created in Marketo permanently and cannot be deleted.
+   >Be sure to [hide all fields you do not need](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo from the sync user before clicking **Sync Fields**. Once you click Sync Fields all fields the user can see will be created in Marketo permanently and cannot be deleted.
 
 1. Enter the Salesforce Sync User credentials created in part 2 of the Salesforce configuration ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) and click **Sync Fields**.
 
