@@ -74,5 +74,6 @@ Use [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) to run ad 
 
 >[!MORELIKETHIS]
 >
+>* [Assign/Remove Permissions in Leads Access Manager (Facebook)](https://www.facebook.com/business/help/540596413257598?id=735435806665862)
 >* [Use Lead Ads Filters and Triggers in a Smart Campaign](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
 >* [Map Custom Fields to Marketo](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
