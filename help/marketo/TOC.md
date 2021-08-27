@@ -579,7 +579,7 @@ feature-set: Marketo Engage
         + SFDC Sync Details {#sfdc-sync-details}
           + [How to Match Program Statuses and Salesforce Campaign Statuses Prior to Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
           + [SFDC Sync: Account Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
-          + [Using Person Accounts](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync/using-person-accounts.md)
+          + [Using Person Accounts](product-docs/crm-sync/salesforce-sync/setup/sfdc-sync-details/sfdc-sync-account-sync/using-person-accounts.md)
           + [SFDC Sync: Activity Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
           + [SFDC Sync: Campaign Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
           + [SFDC Sync: Contact Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
