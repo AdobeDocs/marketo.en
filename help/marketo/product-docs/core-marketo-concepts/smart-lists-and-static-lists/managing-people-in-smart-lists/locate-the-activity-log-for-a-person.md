@@ -10,24 +10,36 @@ The activity log is the ultimate source of truth. This is the complete story of 
 
 1. Go to the **Database**.
 
-   ![](assets/db-2.png)
+   ![](assets/locate-the-activity-log-for-a-person-1.png)
 
 1. Select **All People**.
 
-   ![](assets/two-6.png)
+   ![](assets/locate-the-activity-log-for-a-person-2.png)
 
 1. Click the **People** tab. Select a person **Id** number.
 
-   ![](assets/three-5.png)
+   ![](assets/locate-the-activity-log-for-a-person-3.png)
 
 1. Click **Activity Log**.
 
-   ![](assets/four-3.png)
+   ![](assets/locate-the-activity-log-for-a-person-4.png)
 
-   Behold. The activity log! This is a collection of all the information that happens over time for a person.
+   You now have a collection of all the information that happens over time for a person.
 
-   ![](assets/five-2.png)
+   ![](assets/locate-the-activity-log-for-a-person-5.png)
+
+## Export Activity Log {#export-activity-log}
+
+Need to export a person's activity log to Excel?
+
+1. After following the steps above, scroll to the bottom of the page and select the Export icon.
+
+   ![](assets/locate-the-activity-log-for-a-person-6.png)
+
+1. An Excel file downloads to your browser.
+
+   ![](assets/locate-the-activity-log-for-a-person-7.png)
 
    >[!MORELIKETHIS]
    >
-   >Learn more about [filtering the activity log](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)to see specific person activities.
+   >Learn more about [filtering the activity log](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) to see specific person activities.
