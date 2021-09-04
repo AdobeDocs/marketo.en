@@ -1,6 +1,7 @@
 ---
 description: Set up Your Marketo Connection - Marketo Docs - Product Documentation
 title: Set up Your Marketo Connection
+exl-id: 5b499c73-1319-4a58-ac49-61ae5558c05f
 ---
 # Set up Your Marketo Connection {#set-up-your-marketo-connection}
 

@@ -1,6 +1,7 @@
 ---
 description: Release Notes - May 2021 - Marketo Docs - Product Documentation
 title: Release Notes - May 2021
+exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
 ---
 # Release Notes: May 2021 {#release-notes-may-21}
 

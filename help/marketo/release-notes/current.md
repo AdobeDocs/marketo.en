@@ -1,6 +1,7 @@
 ---
 description: Current Release Notes - Marketo Docs - Product Documentation
 title: Current Release Notes
+exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 ---
 # Release Notes: August 2021 {#release-notes-aug-21}
 
@@ -74,4 +75,4 @@ This section includes new features for Bizible users that have completed their A
 
 ## Announcements {#announcements}
 
-* **Update to Subscription Universal ID Settings**: To support the upcoming Marketo Engage and Adobe Identity integration for existing users, all Marketo Engage subscriptions will be unified in the enablement of Universal ID support.  
+* **Update to Subscription Universal ID Settings**: To support the upcoming Marketo Engage and Adobe Identity integration for existing users, all Marketo Engage subscriptions will be unified in the enablement of Universal ID support.

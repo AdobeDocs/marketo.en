@@ -1,6 +1,7 @@
 ---
 description: Execute Campaign - Marketo Docs - Product Documentation
 title: Execute Campaign
+exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 ---
 # Execute Campaign {#execute-campaign}
 

@@ -2,6 +2,7 @@
 description: Push an Adobe Experience Cloud Segment to a Marketo Static List - Marketo Docs - Product Documentation
 title: Push an Adobe Experience Cloud Segment to a Marketo Static List
 hidefromtoc: yes
+exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 ---
 # Push an Adobe Experience Cloud Segment to a Marketo Static List {#push-an-adobe-experience-cloud-segment-to-a-marketo-static-list}
 

@@ -1,6 +1,7 @@
 ---
 description: Getting Started Guide for Sales Connect Admins - Marketo Docs - Product Documentation
 title: Getting Started Guide for Sales Connect Admins
+exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 ---
 # Getting Started Guide for Sales Connect Admins {#getting-started-guide-for-sales-connect-admins}
 

@@ -1,6 +1,7 @@
 ---
 description: Filtering Email Bot Activity - Marketo Docs - Product Documentation
 title: Filtering Email Bot Activity
+exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 ---
 # Filtering Email Bot Activity {#filtering-email-bot-activity}
 
