@@ -22,7 +22,7 @@ With a little help from your IT team, you can get it done in no time.
 
 Complete these missions to learn the core features of Marketo.
 
-[![](/help/marketo/getting-started/assets/getting-started-1.png) 1. Get Set Up and Add a Person](https://docs.marketo.com/pages/viewpage.action?pageId=2359351)
+[![](/help/marketo/getting-started/assets/getting-started-1.png) 1. Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 [![](/help/marketo/getting-started/assets/getting-started-2.png) 2. Send an Email](getting-started/quick-wins/send-an-email.md)
 
