@@ -210,6 +210,8 @@ feature-set: Marketo Engage
       + [Import Custom Object Data](product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
       + [Trigger Off Custom Object Changes](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
       + [Custom Object Metadata Export](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
+    + Marketo with Adobe Identity {#marketo-with-adobe-identity}
+      + [Overview](product-docs/administration/marketo-with-adobe-identity/overview.md)
     + Settings {#settings}
       + [Change Attribution Settings for Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
       + [Change Your Marketo Password](product-docs/administration/settings/change-your-marketo-password.md)
