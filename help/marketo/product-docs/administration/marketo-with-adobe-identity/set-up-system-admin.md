@@ -6,15 +6,17 @@ hidefromtoc: yes
 ---
 # Set up System Admin {#set-up-system-admin}
 
+## Create a Product Profile {#create-a-product-profile}
+
 Text
 
-Once you're added as a Marketo System Admin to the (the? an?) Adobe org, there are a few steps you need to take to complete the setup.
+Once you're added as a Marketo System Admin to an Adobe org, there are a few steps you need to take to complete the setup.
 
-1. In the email you receive (how do they receive this?), click **Get Started**.
+1. After your Adobe org is established, the designated System Admin will receive a welcome email. In that email, click **Get Started**.
 
 PICC
 
-1. Enter Adobe Identy?
+1. Enter Adobe Identy? LINK TO EXISTING DOC - IF SET UP SKIP TO STEP ?
 
 PICC
 
@@ -26,7 +28,7 @@ PICC
 
 PICC
 
-1. text.
+1. (choose subscription - these steps must be followed for every sub)
 
 PICC
 
@@ -38,6 +40,8 @@ PICC
 
 PICC
 
+(if you set up multiple product profiles, regardless of which one a user is added to, they will have the same access to Marketo)
+
 ## Add a Product Admin {#add-a-product-admin}
 
 1. After following the steps above, click the **Admins** tab.
@@ -48,4 +52,6 @@ PICC
 
 PICC
 
-1. Locate the user you'd like to add. First and last name are optional.
+1. Locate the user you'd like to add. First and last name are optional. DO NOT BOTHER PREFILL
+
+PICC
