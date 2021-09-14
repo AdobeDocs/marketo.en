@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7516467
-description: Template 2-A - Marketo Docs - Product Documentation
-title: Template 2-A
+description: Template 2A - Marketo Docs - Product Documentation
+title: Template 2A
 exl-id: dcffaab5-8944-425b-aac3-2906ce3718b1
 ---
-# Template 2-A {#template-a}
+# Template 2A {#template-2a}
 
-[Download Template 2-A](https://docs.marketo.com/download/attachments/7516467/template2-a.html?version=1&modificationdate=1433228945000&api=v2)
+[Download Template 2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
 
 ![](assets/image2015-6-2-15-3a17-3a17.png)
 
@@ -22,4 +22,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template2-A.html](https://docs.marketo.com/download/attachments/7516467/template2-a.html?version=1&modificationdate=1433228945000&api=v2)
+[Template 2A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
