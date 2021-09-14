@@ -71,7 +71,7 @@ While there will be a product card in AC for Sales Connect, AC should not be use
 
 **Do I still go to the Admin section in Marketo to make account changes?**
 
-No, you would need to navigate to [account.adobe.com](account.adobe.com).
+No, you would need to navigate to [account.adobe.com](https://account.adobe.com).
 
 **How does this work with Marketo's Universal ID?**
 
