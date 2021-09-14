@@ -8,7 +8,7 @@ exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 
 **Release**: Marketo uses a quarterly major release schedule. Once available, each of the release notes will be linked in the table below.
 
-**Release Date**: Rollout typically begins on Wednesday of release week, with the bulk of the upgrade happening on Friday evening. An email is sent out with specific dates and release details. The date listed is for the Friday update.
+**Release Date**: Rollout typically begins on Tuesday of release week, with the bulk of the upgrade happening Friday evening. An email is sent out with specific dates and release details. The date listed is for the Friday update.
 
 **Progress**:
 
