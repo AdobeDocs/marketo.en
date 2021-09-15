@@ -1,14 +1,14 @@
 ---
 unique-page-id: 8783917
-description: Template 5-B - Marketo Docs - Product Documentation
-title: Template 5-B
+description: Template 5B - Marketo Docs - Product Documentation
+title: Template 5B
 exl-id: 738323ac-89bf-483a-ad63-2020bacc85cf
 ---
-# Template 5-B {#template-b}
+# Template 5B {#template-5b}
 
-[Download Template 5-B](https://docs.marketo.com/download/attachments/8783917/template-5b.html?version=1&modificationdate=1437692940000&api=v2)
+[Download Template 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
 
-![](assets/template5-b1.png)
+![](assets/template5B1.png)
 
 This template includes the following content:
 
@@ -22,4 +22,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template5-B.html](https://docs.marketo.com/download/attachments/8783917/template-5b.html?version=1&modificationdate=1437692940000&api=v2)
+[Template 5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)

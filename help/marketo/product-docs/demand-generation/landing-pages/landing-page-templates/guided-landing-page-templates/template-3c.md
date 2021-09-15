@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8160086
-description: Template 3-C - Marketo Docs - Product Documentation
-title: Template 3-C
+description: Template 3C - Marketo Docs - Product Documentation
+title: Template 3C
 exl-id: 0bf7cb43-607e-4c9b-a860-511837925a1e
 ---
-# Template 3-C {#template-c}
+# Template 3C {#template-3c}
 
-[Download Template 3-C](https://docs.marketo.com/download/attachments/8160086/template3-c.html?version=1&modificationdate=1434390549000&api=v2)
+[Download Template 3C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
 
 ![](assets/image2015-6-15-11-3a20-3a37.png)
 
@@ -22,4 +22,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template3-C.html](https://docs.marketo.com/download/attachments/8160086/template3-c.html?version=1&modificationdate=1434390549000&api=v2)
+[Template 3C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)

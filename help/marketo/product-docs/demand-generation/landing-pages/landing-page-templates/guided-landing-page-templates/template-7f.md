@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8783957
-description: Template 7-F - Marketo Docs - Product Documentation
-title: Template 7-F
+description: Template 7F - Marketo Docs - Product Documentation
+title: Template 7F
 exl-id: 3fe4fb0b-7118-4b88-b2ca-f9ad04bf4129
 ---
-# Template 7-F {#template-f}
+# Template 7F {#template-7f}
 
-[Download Template 7-F](https://docs.marketo.com/download/attachments/8783957/template-7f.html?version=1&modificationdate=1437693477000&api=v2)
+[Download Template 7F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html)
 
 ![](assets/image2015-7-29-14-3a52-3a10.png)
 
@@ -22,4 +22,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template7-F.html](https://docs.marketo.com/download/attachments/8783957/template-7f.html?version=1&modificationdate=1437693477000&api=v2)
+[Template 7F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html)

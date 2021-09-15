@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9437571
-description: Template 11-F - Marketo Docs - Product Documentation
-title: Template 11-F
+description: Template 11F - Marketo Docs - Product Documentation
+title: Template 11F
 exl-id: db5aa680-3fe1-408c-adaf-0e16e64f0032
 ---
-# Template 11-F {#template-f}
+# Template 11F {#template-11f}
 
-[Download Template 11-F](https://docs.marketo.com/download/attachments/9437571/template-11f.html?version=1&modificationdate=1438211465000&api=v2)
+[Download Template 11F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)
 
 ![](assets/image2015-8-4-13-3a57-3a13.png)
 
@@ -22,4 +22,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template11-F.html](https://docs.marketo.com/download/attachments/9437571/template-11f.html?version=1&modificationdate=1438211465000&api=v2)
+[Template 11F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)

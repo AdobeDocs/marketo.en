@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8783963
-description: Template 8-B - Marketo Docs - Product Documentation
-title: Template 8-B
+description: Template 8B - Marketo Docs - Product Documentation
+title: Template 8B
 exl-id: fd194747-2465-4685-a0de-bea7a294726d
 ---
-# Template 8-B {#template-b}
+# Template 8B {#template-8b}
 
-[Download Template 8-B](https://docs.marketo.com/download/attachments/8783963/template-8b.html?version=1&modificationdate=1482174993000&api=v2)
+[Download Template 8B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)
 
 ![](assets/image2015-7-29-13-3a56-3a13.png)
 
@@ -22,4 +22,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template8-B.html](https://docs.marketo.com/download/attachments/8783963/template-8b.html?version=1&modificationdate=1482174993000&api=v2)
+[Template 8B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)

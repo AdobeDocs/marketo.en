@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8783993
-description: Template 9-E - Marketo Docs - Product Documentation
-title: Template 9-E
+description: Template 9E - Marketo Docs - Product Documentation
+title: Template 9E
 exl-id: 72daaf52-a829-404d-a5ef-6a81abafa8c3
 ---
-# Template 9-E {#template-e}
+# Template 9E {#template-9e}
 
-[Download Template 9-E](https://docs.marketo.com/download/attachments/8783993/template-9e.html?version=2&modificationdate=1438210788000&api=v2)
+[Download Template 9E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)
 
 ![](assets/image2015-7-28-15-3a33-3a3.png)
 
@@ -21,4 +21,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template9-E.html](https://docs.marketo.com/download/attachments/8783993/template-9e.html?version=2&modificationdate=1438210788000&api=v2)
+[Template 9E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)

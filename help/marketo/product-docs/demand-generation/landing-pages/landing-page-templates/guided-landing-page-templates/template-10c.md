@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8784005
-description: Template 10-C - Marketo Docs - Product Documentation
-title: Template 10-C
+description: Template 10C - Marketo Docs - Product Documentation
+title: Template 10C
 exl-id: e7146ecc-b3c0-4262-bcc4-521bd61acffa
 ---
-# Template 10-C {#template-c}
+# Template 10C {#template-10c}
 
-[Download Template 10-C](https://docs.marketo.com/download/attachments/8784005/template-10c.html?version=2&modificationdate=1438210917000&api=v2)
+[Download Template 10C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)
 
 ![](assets/image2015-7-27-10-3a57-3a9.png)
 
@@ -21,4 +21,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template10-C.html](https://docs.marketo.com/download/attachments/8784005/template-10c.html?version=2&modificationdate=1438210917000&api=v2)
+[Template 10C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8783932
-description: Template 6-C - Marketo Docs - Product Documentation
-title: Template 6-C
+description: Template 6C - Marketo Docs - Product Documentation
+title: Template 6C
 exl-id: f8111083-24f5-42c9-82b5-290360d72e5a
 ---
-# Template 6-C {#template-c}
+# Template 6C {#template-6c}
 
-[Download Template 6-C](https://docs.marketo.com/download/attachments/8783932/template-6c.html?version=1&modificationdate=1437693151000&api=v2)
+[Download Template 6C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html)
 
 ![](assets/image2015-7-29-11-3a52-3a22.png)
 
@@ -21,4 +21,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template6-C.html](https://docs.marketo.com/download/attachments/8783932/template-6c.html?version=1&modificationdate=1437693151000&api=v2)
+[Template 6C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html)

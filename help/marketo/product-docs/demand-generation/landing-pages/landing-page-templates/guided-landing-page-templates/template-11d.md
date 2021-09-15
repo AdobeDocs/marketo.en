@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9437565
-description: Template 11-D - Marketo Docs - Product Documentation
-title: Template 11-D
+description: Template 11D - Marketo Docs - Product Documentation
+title: Template 11D
 exl-id: ca4ab098-6fc6-48a6-b2b2-0e1f075ea168
 ---
-# Template 11-D {#template-d}
+# Template 11D {#template-11d}
 
-[Download Template 11-D](https://docs.marketo.com/download/attachments/9437565/template-11d.html?version=1&modificationdate=1438211392000&api=v2)
+[Download Template 11D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html)
 
 ![](assets/template-11d.png)
 
@@ -22,4 +22,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template11-D.html](https://docs.marketo.com/download/attachments/9437565/template-11d.html?version=1&modificationdate=1438211392000&api=v2)
+[Template 11D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html)

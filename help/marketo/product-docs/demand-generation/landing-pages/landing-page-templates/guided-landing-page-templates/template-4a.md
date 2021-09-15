@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8162237
-description: Template 4-A - Marketo Docs - Product Documentation
-title: Template 4-A
+description: Template 4A - Marketo Docs - Product Documentation
+title: Template 4A
 exl-id: a20817e4-dbdd-4f08-9b4e-602da6b75d70
 ---
-# Template 4-A {#template-a}
+# Template 4A {#template-4a}
 
-[Download Template 4-A](https://docs.marketo.com/download/attachments/8162237/template-4a.html?version=1&modificationdate=1435255108000&api=v2)
+[Download Template 4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
 
 ![](assets/image2015-6-29-16-3a2-3a6.png)
 
@@ -22,4 +22,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template4-A.html](https://docs.marketo.com/download/attachments/8162237/template-4a.html?version=1&modificationdate=1435255108000&api=v2)
+[Template 4A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9437574
-description: Template 12-A - Marketo Docs - Product Documentation
-title: Template 12-A
+description: Template 12A - Marketo Docs - Product Documentation
+title: Template 12A
 exl-id: 761d7849-9137-4c6b-b9f2-96d380beb55d
 ---
-# Template 12-A {#template-a}
+# Template 12A {#template-12a}
 
-[Download Template 12-A](https://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&modificationdate=1438211507000&api=v2)
+[Download Template 12A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html)
 
 ![](assets/image2015-8-4-14-3a23-3a23.png)
 
@@ -22,4 +22,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template12-A.html](https://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&modificationdate=1438211507000&api=v2)
+[Template 12A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html)

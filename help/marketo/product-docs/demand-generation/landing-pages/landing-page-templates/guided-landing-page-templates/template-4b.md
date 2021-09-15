@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8783903
-description: Template 4-B - Marketo Docs - Product Documentation
-title: Template 4-B
+description: Template 4B - Marketo Docs - Product Documentation
+title: Template 4B
 exl-id: cb4b3632-de12-4f99-a2ce-e52f286f6a35
 ---
-# Template 4-B {#template-b}
+# Template 4B {#template-4b}
 
-[Template4-B.html](https://docs.marketo.com/download/attachments/8783903/template-4b.html?version=1&modificationdate=1437692370000&api=v2)
+[Download Template 4B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)
 
 ![](assets/image2015-7-24-10-3a22-3a15.png)
 
@@ -22,4 +22,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template4-B.html](https://docs.marketo.com/download/attachments/8783903/template-4b.html?version=1&modificationdate=1437692370000&api=v2)
+[Template 4B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)
