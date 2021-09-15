@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9437843
-description: Template 16-D - Marketo Docs - Product Documentation
-title: Template 16-D
+description: Template 16D - Marketo Docs - Product Documentation
+title: Template 16D
 exl-id: 02e2cf8d-b993-44f7-8da3-469dfa39881e
 ---
-# Template 16-D {#template-d}
+# Template 16D {#template-16d}
 
-[Download Template 16-D](https://docs.marketo.com/download/attachments/9437843/template-16d.html?version=1&modificationdate=1438980772000&api=v2)
+[Download Template 16D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html)
 
 ![](assets/image2015-8-14-13-3a12-3a25.png)
 
@@ -22,4 +22,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template16-D.html](https://docs.marketo.com/download/attachments/9437843/template-16d.html?version=1&modificationdate=1438980772000&api=v2)
+[Template 16D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092916
-description: Template 20-C - Marketo Docs - Product Documentation
-title: Template 20-C
+description: Template 20C - Marketo Docs - Product Documentation
+title: Template 20C
 exl-id: 204c00f7-d0a4-4edc-a738-9ec29f442a6a
 ---
-# Template 20-C {#template-c}
+# Template 20C {#template-20c}
 
-[Download Template 20-C](https://docs.marketo.com/download/attachments/10092916/template-20c.html?version=1&modificationdate=1441750739000&api=v2)
+[Download Template 20C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
 
 ![](assets/template-20c.png)
 
@@ -21,4 +21,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template20-C.html](https://docs.marketo.com/download/attachments/10092916/template-20c.html?version=1&modificationdate=1441750739000&api=v2)
+[Template 20C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)

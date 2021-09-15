@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9437807
-description: Template 14-C - Marketo Docs - Product Documentation
-title: Template 14-C
+description: Template 14C - Marketo Docs - Product Documentation
+title: Template 14C
 exl-id: d8a66bbc-9795-42d3-81fc-d70039856f92
 ---
-# Template 14-C {#template-c}
+# Template 14C {#template-14c}
 
-[Download Template 14-C](https://docs.marketo.com/download/attachments/9437807/template-14c.html?version=1&modificationdate=1438980264000&api=v2)
+[Download Template 14C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)
 
 ![](assets/image2015-8-11-17-3a23-3a54.png)
 
@@ -22,4 +22,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template14-C.html](https://docs.marketo.com/download/attachments/9437807/template-14c.html?version=1&modificationdate=1438980264000&api=v2)
+[Template 14C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)

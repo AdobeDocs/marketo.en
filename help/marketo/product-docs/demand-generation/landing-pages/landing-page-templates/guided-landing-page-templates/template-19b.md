@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092893
-description: Template 19-B - Marketo Docs - Product Documentation
-title: Template 19-B
+description: Template 19B - Marketo Docs - Product Documentation
+title: Template 19B
 exl-id: 8224c9ad-b732-4a75-9966-446980db55ef
 ---
-# Template 19-B {#template-b}
+# Template 19B {#template-19b}
 
-[Download Template 19-B](https://docs.marketo.com/download/attachments/10092893/template-19b.html?version=1&modificationdate=1441750370000&api=v2)
+[Download Template 19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
 
 ![](assets/image2015-9-16-16-3a49-3a50.png)
 
@@ -21,4 +21,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template19-B.html](https://docs.marketo.com/download/attachments/10092893/template-19b.html?version=1&modificationdate=1441750370000&api=v2)
+[Template 19B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)

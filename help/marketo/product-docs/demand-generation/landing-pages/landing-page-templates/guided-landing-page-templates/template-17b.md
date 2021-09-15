@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9438194
-description: Template 17-B - Marketo Docs - Product Documentation
-title: Template 17-B
+description: Template 17B - Marketo Docs - Product Documentation
+title: Template 17B
 exl-id: f1483278-0f4a-40a4-b652-1df2be5abfa4
 ---
-# Template 17-B {#template-b}
+# Template 17B {#template-17b}
 
-[Download Template 17-B](https://docs.marketo.com/download/attachments/9438194/template-17b.html?version=1&modificationdate=1439842984000&api=v2)
+[Download Template 17B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)
 
 ![](assets/image2015-8-17-16-3a50-3a15.png)
 
@@ -21,4 +21,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template17-B.html](https://docs.marketo.com/download/attachments/9438194/template-17b.html?version=1&modificationdate=1439842984000&api=v2)
+[Template 17B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)

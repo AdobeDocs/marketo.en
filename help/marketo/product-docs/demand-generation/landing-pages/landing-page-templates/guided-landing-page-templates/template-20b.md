@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092913
-description: Template 20-B - Marketo Docs - Product Documentation
-title: Template 20-B
+description: Template 20B - Marketo Docs - Product Documentation
+title: Template 20B
 exl-id: 53a993ae-934d-47b0-98c1-f4e88d4f1b1e
 ---
-# Template 20-B {#template-b}
+# Template 20B {#template-20b}
 
-[Download Template 20-B](https://docs.marketo.com/download/attachments/10092913/template-20b.html?version=1&modificationdate=1441750700000&api=v2)
+[Download Template 20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
 
 ![](assets/template-20b.png)
 
@@ -21,4 +21,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template20-B.html](https://docs.marketo.com/download/attachments/10092913/template-20b.html?version=1&modificationdate=1441750700000&api=v2)
+[Template 20B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)

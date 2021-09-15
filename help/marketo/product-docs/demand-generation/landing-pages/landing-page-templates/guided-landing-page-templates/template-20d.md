@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092919
-description: Template 20-D - Marketo Docs - Product Documentation
-title: Template 20-D
+description: Template 20D - Marketo Docs - Product Documentation
+title: Template 20D
 exl-id: b6fdc927-a469-463a-808e-a08a52c6cfa2
 ---
-# Template 20-D {#template-d}
+# Template 20D {#template-20d}
 
-[Download Template 20-D](https://docs.marketo.com/download/attachments/10092919/template-20d.html?version=1&modificationdate=1441750777000&api=v2)
+[Download Template 20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
 
 ![](assets/template-20d.png)
 
@@ -21,4 +21,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template20-D.html](https://docs.marketo.com/download/attachments/10092919/template-20d.html?version=1&modificationdate=1441750777000&api=v2)
+[Template 20D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)

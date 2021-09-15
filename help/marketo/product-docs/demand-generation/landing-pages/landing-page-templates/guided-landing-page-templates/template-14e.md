@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9437813
-description: Template 14-E - Marketo Docs - Product Documentation
-title: Template 14-E
+description: Template 14E - Marketo Docs - Product Documentation
+title: Template 14E
 exl-id: e45e2277-2d15-44fb-b48d-107e80f849b7
 ---
-# Template 14-E {#template-e}
+# Template 14E {#template-14e}
 
-[Download Template 14-E](https://docs.marketo.com/download/attachments/9437813/template-14e.html?version=1&modificationdate=1438980353000&api=v2)
+[Download Template 14E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)
 
 ![](assets/image2015-8-13-10-3a48-3a0.png)
 
@@ -22,4 +22,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template14-E.html](https://docs.marketo.com/download/attachments/9437813/template-14e.html?version=1&modificationdate=1438980353000&api=v2)
+[Template 14E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9437837
-description: Template 16-B - Marketo Docs - Product Documentation
-title: Template 16-B
+description: Template 16B - Marketo Docs - Product Documentation
+title: Template 16B
 exl-id: 99bdd484-e2c2-412d-b309-1681d27025e1
 ---
-# Template 16-B {#template-b}
+# Template 16B {#template-16b}
 
-[Download Template 16-B](https://docs.marketo.com/download/attachments/9437837/template-16b.html?version=1&modificationdate=1438980690000&api=v2)
+[Download Template 16B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)
 
 ![](assets/image2015-8-14-11-3a2-3a51.png)
 
@@ -21,4 +21,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template16-B.html](https://docs.marketo.com/download/attachments/9437837/template-16b.html?version=1&modificationdate=1438980690000&api=v2)
+[Template 16B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)

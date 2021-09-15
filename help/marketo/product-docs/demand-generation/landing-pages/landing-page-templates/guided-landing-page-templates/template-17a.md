@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9438191
-description: Template 17-A - Marketo Docs - Product Documentation
-title: Template 17-A
+description: Template 17A - Marketo Docs - Product Documentation
+title: Template 17A
 exl-id: 279fcad2-7c91-4898-9d5d-e83fcb8492af
 ---
-# Template 17-A {#template-a}
+# Template 17A {#template-17a}
 
-[Download Template 17-A](https://docs.marketo.com/download/attachments/9438191/template-17a.html?version=1&modificationdate=1439842942000&api=v2)
+[Download Template 17A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html)
 
 ![](assets/image2015-8-17-15-3a13-3a9.png)
 
@@ -21,4 +21,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template17-A.html](https://docs.marketo.com/download/attachments/9438191/template-17a.html?version=1&modificationdate=1439842942000&api=v2)
+[Template 17A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html)

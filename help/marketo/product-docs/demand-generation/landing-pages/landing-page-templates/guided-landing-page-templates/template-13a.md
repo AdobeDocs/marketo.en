@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9437783
-description: Template 13-A - Marketo Docs - Product Documentation
-title: Template 13-A
+description: Template 13A - Marketo Docs - Product Documentation
+title: Template 13A
 exl-id: 4a6bc6ec-cb81-4b2f-8b0f-43f3f907142d
 ---
-# Template 13-A {#template-a}
+# Template 13A {#template-13a}
 
-[Download Template 13-A](https://docs.marketo.com/download/attachments/9437783/template-13a.html?version=1&modificationdate=1438979525000&api=v2)
+[Download Template 13A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
 
 ![](assets/image2015-8-11-10-3a15-3a39.png)
 
@@ -21,4 +21,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template13-A.html](https://docs.marketo.com/download/attachments/9437783/template-13a.html?version=1&modificationdate=1438979525000&api=v2)
+[Template 13A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)

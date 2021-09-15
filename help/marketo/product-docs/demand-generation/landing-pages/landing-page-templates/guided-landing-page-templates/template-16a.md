@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9437834
-description: Template 16-A - Marketo Docs - Product Documentation
-title: Template 16-A
+description: Template 16A - Marketo Docs - Product Documentation
+title: Template 16A
 exl-id: c55e4f9c-7aca-4cb6-b79a-5b25fd70ac3e
 ---
-# Template 16-A {#template-a}
+# Template 16A {#template-16a}
 
-[Download Template 16-A](https://docs.marketo.com/download/attachments/9437834/template-16a.html?version=1&modificationdate=1438980648000&api=v2)
+[Download Template 16A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16a.html)
 
 ![](assets/image2015-8-14-10-3a19-3a21.png)
 
@@ -22,4 +22,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template16-A.html](https://docs.marketo.com/download/attachments/9437834/template-16a.html?version=1&modificationdate=1438980648000&api=v2)
+[Template 16A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16a.html)

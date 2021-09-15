@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092890
-description: Template 19-A - Marketo Docs - Product Documentation
-title: Template 19-A
+description: Template 19A - Marketo Docs - Product Documentation
+title: Template 19A
 exl-id: 365b4442-da1b-4346-b0a4-2512b46f8677
 ---
-# Template 19-A {#template-a}
+# Template 19A {#template-19a}
 
-[Download Template 19-A](https://docs.marketo.com/download/attachments/10092890/template-19a.html?version=1&modificationdate=1441750318000&api=v2)
+[Download Template 19A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
 
 ![](assets/image2015-9-16-16-3a46-3a31.png)
 
@@ -21,4 +21,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template19-A.html](https://docs.marketo.com/download/attachments/10092890/template-19a.html?version=1&modificationdate=1441750318000&api=v2)
+[Template 19A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)

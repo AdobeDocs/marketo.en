@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9437816
-description: Template 15-A - Marketo Docs - Product Documentation
-title: Template 15-A
+description: Template 15A - Marketo Docs - Product Documentation
+title: Template 15A
 exl-id: 64aeaa61-cd39-487c-9ca5-9b2185dc04a3
 ---
-# Template 15-A {#template-a}
+# Template 15A {#template-15a}
 
-[Download Template 15-A](https://docs.marketo.com/download/attachments/9437816/template-15a.html?version=1&modificationdate=1438980388000&api=v2)
+[Download Template 15A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)
 
 ![](assets/image2015-8-13-13-3a58-3a55.png)
 
@@ -21,4 +21,4 @@ This template includes the following content:
 
 **Click below to download this template:**
 
-[Template15-A.html](https://docs.marketo.com/download/attachments/9437816/template-15a.html?version=1&modificationdate=1438980388000&api=v2)
+[Template 15A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)
