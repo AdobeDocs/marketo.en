@@ -40,7 +40,7 @@ Marketo has a new option to pick a segment when sending sample emails for review
 
 Customize your LinkedIn Lead Gen forms to collect custom lead attributes. You can now ask up to three custom questions per form, choose from single line text input or multiple-choice questions, and map back to Marketo lead fields.
 
-## [Slack Integration](/help/marketo/product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
+## Slack Integration {#slack-integration}
 
 We released two features as part of our new Slack integration:
 
