@@ -16,7 +16,7 @@ There are several different customization options.
 
 PICC (of whole chatbox)
 
-## Style Tab {#style tab}
+## Style Tab {#style-tab}
 
 **Style**
 
