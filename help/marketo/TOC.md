@@ -140,7 +140,6 @@ feature-set: Marketo Engage
       + [Add ON24 as a LaunchPoint Service](product-docs/administration/additional-integrations/add-on24-as-a-launchpoint-service.md)
       + [Add ReadyTalk as a LaunchPoint Service](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
       + [Add Single Sign-On to a Portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
-      + [Add Slack as a LaunchPoint Service](product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md)
       + [Add WebEx as a LaunchPoint Service](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
       + [Add Workplace By Facebook as a LaunchPoint Service](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
       + [Add Zoom as a LaunchPoint Service](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
