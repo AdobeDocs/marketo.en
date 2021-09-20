@@ -50,8 +50,6 @@ Complete these missions to learn the core features of Marketo.
     </div>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="getting-started/quick-wins/simple-scoring.md">
       <img alt="Connect" src="getting-started/assets/getting-started-4.png"/>
@@ -69,6 +67,8 @@ Complete these missions to learn the core features of Marketo.
     </div>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="getting-started/quick-wins/import-a-list-of-people.md">
       <img alt="Email" src="getting-started/assets/getting-started-6.png" />
@@ -78,8 +78,6 @@ Complete these missions to learn the core features of Marketo.
     </div>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="getting-started/quick-wins/drip-drip-nurture.md">
       <img alt="Connect" src="getting-started/assets/getting-started-7.png"/>
@@ -106,8 +104,6 @@ Complete these missions to learn the core features of Marketo.
     </div>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="getting-started/quick-wins/update-person-data.md">
       <img alt="Connect" src="getting-started/assets/getting-started-10.png"/>
@@ -116,9 +112,6 @@ Complete these missions to learn the core features of Marketo.
     <a href="getting-started/quick-wins/update-person-data.md">10. Update Person Data</a>
     </div>
     <br>
-  </td>
-  <td>  </td>
-  <td>
   </td>
 </tr>
 </table>
