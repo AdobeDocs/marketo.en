@@ -34,7 +34,7 @@ PICC of padding
 
 **Agent Settings**
 
-In Agent Settings, assign a name specific to the chatbot (it will appear at the top). You can also determine the response delay (in seconds), and change your chat avatar.
+In Agent Settings, you can add a label to your chatbox (ex: "Adobe Bot") that will appear at the top. You can also determine the response delay (in seconds), and change your chat avatar.
 
 PICC of setting name
 
