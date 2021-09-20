@@ -22,7 +22,7 @@ With a little help from your IT team, you can get it done in no time.
 
 Complete these missions to learn the core features of Marketo.
 
-<table>
+<table style="table-layout:fixed">
 <tr>
   <td>
     <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">
@@ -122,8 +122,6 @@ Complete these missions to learn the core features of Marketo.
   </td>
 </tr>
 </table>
-
-{style="table-layout:fixed"}
 
 ## STEP 4 Congrats! You're ready for the Nation  {#congrats-youre-ready-for-the-nation}
 
