@@ -22,25 +22,106 @@ With a little help from your IT team, you can get it done in no time.
 
 Complete these missions to learn the core features of Marketo.
 
-[![](/help/marketo/getting-started/assets/getting-started-1.png) 1. Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
-
-[![](/help/marketo/getting-started/assets/getting-started-2.png) 2. Send an Email](getting-started/quick-wins/send-an-email.md)
-
-[![](/help/marketo/getting-started/assets/getting-started-3.png) 3. Landing Page with a Form](getting-started/quick-wins/landing-page-with-a-form.md)
-
-[![](/help/marketo/getting-started/assets/getting-started-4.png) 4. Simple Scoring](getting-started/quick-wins/simple-scoring.md)
-
-[![](/help/marketo/getting-started/assets/getting-started-5.png) 5. Email Auto-Response](getting-started/quick-wins/email-auto-response.md)
-
-[![](/help/marketo/getting-started/assets/getting-started-6.png) 6. Import a List of People](getting-started/quick-wins/import-a-list-of-people.md)
-
-[![](/help/marketo/getting-started/assets/getting-started-7.png) 7. Drip Drip Nurture](getting-started/quick-wins/drip-drip-nurture.md)
-
-[![](/help/marketo/getting-started/assets/getting-started-8.png) 8. Personalize an Email](getting-started/quick-wins/personalize-an-email.md)
-
-[![](/help/marketo/getting-started/assets/getting-started-9.png) 9. Alert the Sales Rep](getting-started/quick-wins/alert-the-sales-rep.md)
-
-[![](/help/marketo/getting-started/assets/getting-started-10.png) 10. Update Person Data](getting-started/quick-wins/update-person-data.md)
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">
+      <img alt="Connect" src="getting-started/assets/getting-started-1.png"/>
+    </a>
+    <div>
+    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. Get Set Up and Add a Person</a>
+    </div>
+    <br>
+  </td>
+  <td>
+      <a href="getting-started/quick-wins/send-an-email.md">
+       <img alt="Import" src="getting-started/assets/getting-started-2.png" />
+       </a>
+    <div><a href="getting-started/quick-wins/send-an-email.md">2. Send an Email</a>
+    </div>
+    <br>
+  </td>
+  <td>
+    <a href="getting-started/quick-wins/landing-page-with-a-form.md">
+      <img alt="Email" src="getting-started/assets/getting-started-3.png" />
+    </a>
+    <div>
+    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. Landing Page with a Form</a>
+    </div>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="getting-started/quick-wins/simple-scoring.md">
+      <img alt="Connect" src="getting-started/assets/getting-started-4.png"/>
+    </a>
+    <div>
+    <a href="getting-started/quick-wins/simple-scoring.md">4. Simple Scoring</a>
+    </div>
+    <br>
+  </td>
+  <td>
+      <a href="getting-started/quick-wins/email-auto-response.md">
+       <img alt="Import" src="getting-started/assets/getting-started-5.png" />
+       </a>
+    <div><a href="getting-started/quick-wins/email-auto-response.md">5. Email Auto-Response</a>
+    </div>
+    <br>
+  </td>
+  <td>
+    <a href="getting-started/quick-wins/import-a-list-of-people.md">
+      <img alt="Email" src="getting-started/assets/getting-started-6.png" />
+    </a>
+    <div>
+    <a href="getting-started/quick-wins/import-a-list-of-people.md">6. Import a List of People</a>
+    </div>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">
+      <img alt="Connect" src="getting-started/assets/getting-started-7.png"/>
+    </a>
+    <div>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Drip Drip Nurture</a>
+    </div>
+    <br>
+  </td>
+  <td>
+      <a href="getting-started/quick-wins/personalize-an-email.md">
+       <img alt="Import" src="getting-started/assets/getting-started-8.png" />
+       </a>
+    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. Personalize an Email</a>
+    </div>
+    <br>
+  </td>
+  <td>
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">
+      <img alt="Email" src="getting-started/assets/getting-started-9.png" />
+    </a>
+    <div>
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Alert the Sales Rep</a>
+    </div>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="getting-started/quick-wins/update-person-data.md">
+      <img alt="Connect" src="getting-started/assets/getting-started-10.png"/>
+    </a>
+    <div>
+    <a href="getting-started/quick-wins/update-person-data.md">10. Update Person Data</a>
+    </div>
+    <br>
+  </td>
+  <td>  </td>
+  <td>
+  </td>
+</tr>
+</table>
 
 ## STEP 4 Congrats! You're ready for the Nation  {#congrats-youre-ready-for-the-nation}
 
