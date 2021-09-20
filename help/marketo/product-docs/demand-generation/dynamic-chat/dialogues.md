@@ -89,7 +89,7 @@ Question: Use when you want to ask a multiple choice question, of which you supp
 
 Information Capture: Use when you want to collect information. The  three fields to choose from are Email Address, Phone Number, and Text (which allows the visitor to write their own message).
 
-Appointment Scheduler: Provides the visitor with a calendar of available dates to schedule a follow-up. Calendar availability reflects [the next agent in line](help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
+Appointment Scheduler: Provides the visitor with a calendar of available dates to schedule a follow-up. Calendar availability reflects [the next agent in line](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
 
 Goal: This is the only card the visitors won't see. It's for you to determine at which point a goal is achieved within the specific chat (ex: if collecting the visitor's email is your goal, place the Goal card after Info Capture in the Stream.)
 
