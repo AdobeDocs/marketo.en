@@ -8,9 +8,13 @@ hidefromtoc: yes
 
 intro text
 
+   >[!NOTE]
+   >
+   >Dynamic Chat is in the process of being rolled out, with all subscriptions having access by DATE.
+
 ## Set up Dynamic Chat {#access-dynamic-chat}
 
-text
+Follow these steps for the initial setup.
 
 1. In My Marketo, click the **Dynamic Chat** tile.
 
@@ -18,7 +22,7 @@ text
 
    >[!NOTE]
    >
-   >If your Marketo Admin hasn't turned on the tile for you yet, you can also [access Dynamic Chat here](https://experience.adobe.com/dynamic-chat/).
+   >If you don't see...contact your Marketo Admin).
 
 1. If you've previously accessed an application with an Adobe ID, you'll be taken straight to Dynamic Chat. If not, [set up your Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
@@ -26,11 +30,11 @@ text
 
 1. To connect your Marketo instance, select **Integrations**.
 
-PICC
+   PICC  
 
 1. Click ?INSERT TEXT HERE?.
 
-PICC
+   PICC
 
    >[!NOTE]
    >
@@ -38,7 +42,7 @@ PICC
 
 ## Integrations {#integrations}
 
-Integrations is the first tab you'll want to visit upon accessing Dynamic Chat. It's where you sync your Marketo Subscription(s), allowing you to utilize your Database data to identify site/chat visitors ([see Step 3 above](#access-dynamic-chat)).
+Integrations is the first tab you'll want to visit upon accessing Dynamic Chat. It's where you sync your Marketo Subscription(s), allowing you to utilize your Marketo Database data to identify site/chat visitors ([see Step 3 above](#access-dynamic-chat)).
 
 ## Dialogues {#dialogues}
 
