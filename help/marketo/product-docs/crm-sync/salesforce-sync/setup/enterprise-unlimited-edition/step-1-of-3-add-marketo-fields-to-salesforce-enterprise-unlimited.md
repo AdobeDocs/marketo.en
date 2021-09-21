@@ -229,6 +229,10 @@ Perform the following steps for each of the three custom fields to add them. Sta
  </tbody> 
 </table>
 
+>[!NOTE]
+>
+>Values in the fields automatically assigned by Marketo will not immediately be available in Salesforce when the new field has been created. Marketo will sync the data to Salesforce upon the next update to the record on either system (i.e., an update to any of the fields in sync between Marketo and Salesforce).
+
 ## Map Custom Fields for Conversions {#map-custom-fields-for-conversions}
 
 A custom field on the lead object in Salesforce should be mapped to a contact field on the contact object so that data is carried over when a conversion occurs.  
