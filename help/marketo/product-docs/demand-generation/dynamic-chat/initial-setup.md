@@ -14,11 +14,11 @@ intro text
 
 1. After Dynamic Chat is enabled for your Marketo Instance, the designated System Admin will receive a welcome email. In that email, click **Get Started**.
 
-   ![](assets/picture.png)
+   PICC
 
 1. If you've previously accessed an application with an Adobe ID, you'll be taken straight to the Adobe Admin Console. If not, [set up your Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
-   ![](assets/picture.png)
+   PICC
 
 1. Add users (steps to follow)
 
