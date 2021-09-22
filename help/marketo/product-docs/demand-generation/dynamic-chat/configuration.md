@@ -20,7 +20,7 @@ PICC (of whole chatbox)
 
 **Style**
 
-Style lets you pick your desired colors, chatbox anchor position/padding, and font type/size.
+This is where you'll define the look and feel of the chatbot where your Dialogues will be shown, including: colors, fonts, placement of the bot widget, and the chatbot’s name/avatar.
 
 Each category's color is determined by a [hexadecimal color value](https://color.adobe.com/create/color-wheel) (e.g., white = #ffffff, red = #bf1932, etc.).
 
@@ -44,13 +44,13 @@ PICC of choosing avatar
 
 ## Privacy Tab {#privacy-tab}
 
-Click the **Privacy** tab to add/edit the URL of your site's privacy policy.
+Click the **Privacy** tab to add/edit the URL of your site's privacy policy (optional).
 
 PICC
 
 ## Installation Tab {#installation-tab}
 
-Click the **Installation** tab to grab the script your Web Dev team will need to place on your website.
+In order for the chatbot to show up on your website, you’ll first need to install the Dynamic Chat JavaScript snippet. Click this tab to find/copy the necessary code. If you're not familiar with this operation, please contact your web team or IT department for assistance.
 
 PICC
 

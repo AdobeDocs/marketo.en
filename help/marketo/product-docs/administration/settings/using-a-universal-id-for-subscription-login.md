@@ -14,7 +14,7 @@ Subscription level settings are honored for users who are using Universal ID, fo
 
 ## Setting Up a Universal ID {#setting-up-a-universal-id}
 
-From each individual instance, your Marketo admin must invite you to each of your different subscriptions with the same login. Marketo can't merge your existing logins automatically. Once you enable Universal ID, **your Marketo instance will be unavailable** for up to 30 minutes. If you have a larger user base, it could be a bit longer.
+All Marketo subscriptions come with the optional Universal ID feature. From each individual instance, your Marketo admin must invite you to each of your different subscriptions with the same login. Marketo can’t merge your existing logins automatically.
 
 >[!NOTE]
 >

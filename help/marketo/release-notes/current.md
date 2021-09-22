@@ -75,4 +75,4 @@ This section includes new features for Bizible users that have completed their A
 
 ## Announcements {#announcements}
 
-* **Update to Subscription Universal ID Settings**: To support the upcoming Marketo Engage and Adobe Identity integration for existing users, all Marketo Engage subscriptions will be unified in the enablement of Universal ID support.
+* **Update to Subscription Universal ID Settings**: To support the upcoming Marketo Engage and Adobe Identity integration for existing users, all Marketo Engage subscriptions will be unified in the enablement of Universal ID support. More information [can be found here](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md).

@@ -6,7 +6,7 @@ hidefromtoc: yes
 ---
 # Dialogues {#dialogues}
 
-Dialogues are the specific chat conversations you set up. They can be customized by look, as well as what is said and who sees it.
+Dialogues are the individual chat conversations you'll set up. Learn how to customize them visually, determine what pages they appear on, and decide what is said as well as who sees it.
 
 ## Create a New Dialogue {#create-a-new-dialogue}
 
@@ -28,9 +28,9 @@ PICC
 
 ## Audience Criteria {#audience-criteria}
 
-Similar to Marketo Smart Lists, Audience Criteria attributes allow you to define your target audience.
+Similar to Marketo Smart Lists, Audience Criteria attributes allow you to define your target audience. You can target known or unknown leads using inferred, lead, or company attributes (or a combination thereof).
 
-There are several attributes to choose from. In this example we're targeting all known leads in California who work at a company with more than 50 employees.
+There are _many_ attribute combinations to choose from. In this example we're targeting all known leads in California who work at a company with more than 50 employees.
 
 1. Grab the Lead State attribute and drag it to the right.
 
@@ -81,17 +81,29 @@ Acceptable formats:
 
 The stream designer contains different cards you can add to shape the chat conversation.
 
-TABLE
-
-Message: Use when you want to make a statement with no response necessary (ex: "Hi! All items are 25% off today with code SAVE25.")
-
-Question: Use when you want to ask a multiple choice question, of which you supply the available responses (ex: What type of vehicle are you interested in? Responses = SUV, Compact, Truck, etc.)
-
-Information Capture: Use when you want to collect information. The  three fields to choose from are Email Address, Phone Number, and Text (which allows the visitor to write their own message).
-
-Appointment Scheduler: Provides the visitor with a calendar of available dates to schedule a follow-up. Calendar availability reflects [the next agent in line](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
-
-Goal: This is the only card the visitors won't see. It's for you to determine at which point a goal is achieved within the specific chat (ex: if collecting the visitor's email is your goal, place the Goal card after Info Capture in the Stream.)
+<table>
+ <tr>
+  <td><strong>Message</strong></td>
+  <td>Use when you want to make a statement with no response necessary (ex: "Hi! All items are 25% off today with code SAVE25").
+</td>
+ </tr>
+ <tr>
+  <td><strong>Question</strong></td>
+  <td>Use when you want to ask a multiple choice question, of which you supply the available responses (ex: What type of vehicle are you interested in? Responses = SUV, Compact, Truck, etc.).</td>
+ </tr>
+ <tr>
+  <td><strong>Information Capture</strong></td>
+  <td>Use when you want to collect information. The  three fields to choose from are Email Address, Phone Number, and Text (which allows the visitor to write their own message).</td>
+ </tr>
+ <tr>
+  <td><strong>Appointment Scheduler</strong></td>
+  <td>Provides the visitor with a calendar of available dates to schedule a follow-up. Calendar availability reflects [the next agent in line](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).</td>
+ </tr>
+ <tr>
+  <td><strong>Goal</strong></td>
+  <td>This is the only card the visitors won't see. It's for you to determine at which point a goal is achieved within the specific chat (ex: if collecting the visitor's email is your goal, place the Goal card after Info Capture in the Stream).</td>
+ </tr>
+</table>
 
 POSSIBLE OWN SECTION
 
