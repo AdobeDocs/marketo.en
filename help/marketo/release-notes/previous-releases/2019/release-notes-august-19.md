@@ -14,7 +14,7 @@ The following features were released on August 16, 2019.
 
 ## Core Marketo Engage {#core-marketo-engage}
 
-* **Extensible Webinar Framework**: Save time with Marketo's new out-of-the-box webinar framework (introduced in the [Winter ‘19 release notes](/help/marketo/release-notes/2019/release-notes-winter-19.md) that seamlessly passes data from webinar providers into Marketo and vice versa. Cvent and Zoom are now available in this new framework.
+* **Extensible Webinar Framework**: Save time with Marketo's new out-of-the-box webinar framework (introduced in the Winter ‘19 release notes) that seamlessly passes data from webinar providers into Marketo and vice versa. Cvent and Zoom are now available in this new framework.
 * **Smart Campaign API Update**: Manage smart campaign lifecycle capabilities as we round out the CRUD (create, read, update, delete) interface.
 * **Update Email Headers API Change**: The Update Email Header API no longer requires an email to have an attached template to update header fields, such as subject line.
 
