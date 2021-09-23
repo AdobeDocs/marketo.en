@@ -31,17 +31,17 @@ _Release dates are subject to change_
    <th width="250px">Progress</th> 
   </tr> 
   <tr> 
-   <td colspan="1">January '21</td> 
+   <td colspan="1"><a href="/help/marketo/release-notes/previous-releases/2021/release-notes-jan-21.md">January '21</a></td> 
    <td colspan="1">January 15, 2021</td> 
    <td colspan="1">Shipped</td> 
   </tr> 
   <tr> 
-   <td colspan="1">May '21</td> 
+   <td colspan="1"><a href="/help/marketo/release-notes/previous-releases/2021/release-notes-may-21.md">May '21</a></td> 
    <td colspan="1">May 7, 2021</td> 
    <td colspan="1">Shipped</td> 
   </tr> 
   <tr> 
-   <td colspan="1">August '21</td> 
+   <td colspan="1"><a href="/help/marketo/release-notes/current.md">August '21</a></td> 
    <td colspan="1">August 20, 2021</td> 
    <td colspan="1">Shipped</td> 
   </tr> 

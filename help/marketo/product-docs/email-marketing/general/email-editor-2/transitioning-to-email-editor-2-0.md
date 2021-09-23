@@ -6,7 +6,7 @@ exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 ---
 # Transitioning to Email Editor 2.0 {#transitioning-to-email-editor}
 
-As of the [June '19 release](/help/marketo/release-notes/2016/release-notes-spring-16.md), all Marketo subscriptions have been transitioned to Email Editor 2.0. [Learn more](https://nation.marketo.com/docs/DOC-7038) about the Email Editor 1.0 deprecation.
+As of the June '19 release, all Marketo subscriptions have been transitioned to Email Editor 2.0. [Learn more](https://nation.marketo.com/docs/DOC-7038) about the Email Editor 1.0 deprecation.
 
 Emails and email templates within your subscription should have a version number. The version can be found in the asset’s summary page.
 
