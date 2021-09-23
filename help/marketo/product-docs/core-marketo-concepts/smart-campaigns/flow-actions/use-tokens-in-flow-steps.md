@@ -6,10 +6,6 @@ exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 ---
 # Use Tokens in Flow Steps {#use-tokens-in-flow-steps}
 
->[!AVAILABILITY]
->
->Not all customers have purchased this functionality. Contact your sales rep for details.
-
 >[!PREREQUISITES]
 >
 >[Add a Flow Step to a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
@@ -23,7 +19,9 @@ A token is a variable. You use it in emails, landing pages, and smart campaigns 
 * Create Task
 * Send Alert (in trigger campaigns only)
 
-1. In the flow step, start typing `{{` to get token categories. ![](assets/image2014-9-22-14-3a3-3a17.png)
+1. In the flow step, start typing `{{` to get token categories.
+
+   ![](assets/image2014-9-22-14-3a3-3a17.png)
 
    >[!NOTE]
    >

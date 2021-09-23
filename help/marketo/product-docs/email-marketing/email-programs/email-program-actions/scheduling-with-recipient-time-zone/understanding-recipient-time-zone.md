@@ -23,7 +23,7 @@ In order to accommodate every time zone, email programs scheduled with Recipient
 
 ## Engagement Programs {#engagement-programs}
 
-When you [schedule an engagement program stream](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) and Recipient Time Zone is active, the program cast will start running at midnight in UTC +14:00. We require you to schedule the first cast at least 25 hours in the future (24 hours + some time to get the campaign started) because people may qualify for the cast in every time zone across the globe. Starting processing at this time in UTC +14:00 guarantees that we'll deliver the email at the scheduled date and time for every person who qualifies for this cast.
+When you [schedule an engagement program stream](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) and Recipient Time Zone is active, the program cast will start running at midnight in UTC +14:00. We require you to schedule the first cast at least 25 hours in the future (24 hours + some time to get the campaign started) because people may qualify for the cast in every time zone across the globe. Starting processing at this time in UTC +14:00 guarantees that we'll send the email at the scheduled date and time for every person who qualifies for this cast.
 
 ## Calculating Time Zone {#calculating-time-zone}
 
@@ -34,7 +34,7 @@ In cases where we have **only** Country or **only** State available:
 * For countries with three or fewer time zones, we select the middle time zone.
 * For states with two time zones, we select the earlier of the two.
 
-If we're still unable to determine someone's time zone from any combination of these fields, we will **not** assign a time zone and the email will be delivered based on your Marketo subscription time zone. So, if your program is scheduled for 9:00am PDT, people with no assigned time zone will receive the email at 9:00am PDT.
+If we're still unable to determine someone's time zone from any combination of these fields, we will **not** assign a time zone and the email will be sent based on your Marketo subscription time zone. So, if your program is scheduled for 9:00am PDT, people with no assigned time zone will be sent the email at 9:00am PDT.
 
 >[!NOTE]
 >
