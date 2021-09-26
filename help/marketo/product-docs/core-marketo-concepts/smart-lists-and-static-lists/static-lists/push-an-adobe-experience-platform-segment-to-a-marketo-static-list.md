@@ -1,10 +1,10 @@
 ---
-description: Push an Adobe Experience Cloud Segment to a Marketo Static List - Marketo Docs - Product Documentation
-title: Push an Adobe Experience Cloud Segment to a Marketo Static List
+description: Push an Adobe Experience Platform Segment to a Marketo Static List - Marketo Docs - Product Documentation
+title: Push an Adobe Experience Platform Segment to a Marketo Static List
 hidefromtoc: yes
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 ---
-# Push an Adobe Experience Cloud Segment to a Marketo Static List {#push-an-adobe-experience-cloud-segment-to-a-marketo-static-list}
+# Push an Adobe Experience Platform Segment to a Marketo Static List {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
 
 This feature allows you to push segments located in your Adobe Experience Platform over to Marketo in the form of a static list.
 
@@ -15,27 +15,31 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
 1. Log in to [Adobe Experience Platform](https://experience.adobe.com/).
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-1.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-1.png)
 
 1. Click the grid icon and select **Experience Platform**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-2.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-2.png)
 
 1. In the left nav, click **Destinations**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-3.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-3.png)
 
 1. Click **Catalog**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-4.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-4.png)
 
-1. Find the Marketo Engage tile and click **Activate**.
+1. Find the Marketo Engage tile and click **Activate Segments**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-5.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-5.png)
+
+1. Click **Configure New Destination**.
+
+   PICC
 
 1. Under Account Type, click the **New Account** radio button. Enter your Marketo credentials and click **Connect to Destination**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-6.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-6.png)
 
    >[!NOTE]
    >
@@ -43,7 +47,7 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
 1. "Connected" should appear below your credentials. Click **Next** in the upper right-hand corner.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-7.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-7.png)
 
 1. Enter a **Name** and an _optional_ Description. Click **Create Destination**.
 
@@ -51,15 +55,15 @@ This feature allows you to push segments located in your Adobe Experience Platfo
    >
    >Choosing something from Marketing Actions is also optional. Marketo doesn't leverage that information at this time, but likely will soon.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-8.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-8.png)
 
 1. Click **Next**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-9.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-9.png)
 
 1. Choose your desired segment and click **Next**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-10.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-10.png)
 
    >[!NOTE]
    >
@@ -67,15 +71,15 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
 1. Click **Add New Mapping**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-11.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-11.png)
 
 1. Click the cursor icon.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-12.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-12.png)
 
 1. Choose either the **Select Attributes** or **Select Identity Namespace** radio button (in this example, we're choosing Attributes).
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-13.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-13.png)
 
    >[!NOTE]
    >
@@ -83,9 +87,9 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
 1. Choose the relevant field that contains the email address that identifies the user. Click **Select** when done.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-14.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-14.png)
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-15.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-15.png)
 
    >[!NOTE]
    >
@@ -93,19 +97,23 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
 1. Click the mapping icon.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-16.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-16.png)
 
 1. Choose your Target Field and click **Select**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-17.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-17.png)
 
 1. Click **Next**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-18.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-18.png)
+
+   >[!NOTE]
+   >
+   >Identities are used to look for matches in Marketo. If a match is found, the person is added to the static List. If a match is not found, those people are dropped (i.e., not created in Marketo).
 
 1. _In Marketo_, create a static list, or find and select one you've already created. Copy the mapping ID from the end of the URL.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-19.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-19.png)
 
    >[!NOTE]
    >
@@ -113,8 +121,8 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
 1. Back in Adobe Experience Platform, enter the ID you just copied. Choose your Start Date. People will continuously sync until the chosen end date. For an indefinite sync, leave the end date blank. Click **Next** when done.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-20.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-20.png)
 
 1. Confirm your changes and click **Finish**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-21.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-21.png)

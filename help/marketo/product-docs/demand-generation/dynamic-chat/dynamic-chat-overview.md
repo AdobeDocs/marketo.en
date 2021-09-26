@@ -72,17 +72,9 @@ This is where you can see a list of all of the agents that have connected their 
 
 ----------ANY YESES? LOL----------
 
-**Can chatbot be styled with CSS?**
-
-The chatbot cannot be styled with CSS at this time.
-
-**Can I use custom font options?**
-
-Only the preset font options are available at this time.
-
 **Does Dynamic Chat allow for live chat?**
 
-No, only pre-determined responses.
+No, it only utilizes pre-determined responses.
 
 **Do you support AI/NLP functionality?**
 
