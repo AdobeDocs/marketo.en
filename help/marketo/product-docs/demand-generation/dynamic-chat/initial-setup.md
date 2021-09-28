@@ -40,4 +40,4 @@ After adding users in the in Admin Console, you must grant permissions in Market
 >
 >Be sure to follow steps in the order listed above. If someone is granted permission in Marketo first, they will see the Dynamic Chat tile but have no user access.
 
-Next up, [accessing Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#access-dynamic-chat).
+Next up, [accessing Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md).

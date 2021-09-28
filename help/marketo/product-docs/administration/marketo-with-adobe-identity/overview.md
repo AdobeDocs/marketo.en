@@ -92,3 +92,9 @@ No. The User Invite workflow is no longer active when a subscription is IMS-enab
 **For Adobe IMS, do we have the option to use Adobe ID, Enterprise ID, or Federated ID?**
 
 Yes, you determine the type of identity to have your organization support. More info [here](https://helpx.adobe.com/enterprise/using/identity.html) and [here](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+
+>[!MORELIKETHIS]
+>
+>* [Admin Setup](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
+>* [Add or Remove a Product Admin](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
+>* [Add or Remove a User](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)

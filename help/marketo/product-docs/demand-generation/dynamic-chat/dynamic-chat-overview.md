@@ -12,37 +12,9 @@ Dynamic Chat allows you to leverage an easy-to-use interface to target both lead
    >
    >Dynamic Chat is currently in the process of being rolled out, with all subscriptions due to have access by DATE.
 
-## Access Dynamic Chat {#access-dynamic-chat}
-
-ONCE THE TILE HAS BEEN ADDED... follow these steps to get started.
-
-1. In My Marketo, click the **Dynamic Chat** tile.
-
-   ![](assets/dynamic-chat-overview-1.png)
-
-   >[!NOTE]
-   >
-   >If you don't see...contact your Marketo Admin).
-
-1. If you've previously accessed an application with an Adobe ID, you'll be taken straight to Dynamic Chat. If not, [set up your Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
-
-   PICC (screenshot when left nav is fixed)
-
-1. To connect your Marketo instance, select **Integrations**.
-
-   ![](assets/dynamic-chat-overview-3.png)
-
-1. Click ?INSERT TEXT HERE?.
-
-   PICC (screenshot when I get fresh subscription)
-
-   >[!NOTE]
-   >
-   >It can take anywhere from 5 minutes to 8 hours for the sync to complete, depending on the size of your database. The average sync time is 60 minutes.
-
 ## Integrations {#integrations}
 
-Integrations is the first tab you'll want to visit upon accessing Dynamic Chat. It's where you sync your Marketo Subscription(s), allowing you to utilize your Marketo Database data to identify site/chat visitors ([see Step 3 above](#access-dynamic-chat)).
+A key component of Dynamic Chat is its ability to natively interface with your Marketo subscription. In order to leverage the full capability of this integration, you’ll first need to initiate the data sync. It can take up to 24 hours for the initial, [one-time sync](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md) to complete.
 
 ## Dialogues {#dialogues}
 
