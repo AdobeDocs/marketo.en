@@ -6,7 +6,9 @@ hidefromtoc: yes
 ---
 # Initial Setup {#initial-setup}
 
-intro text
+## Access Admin Console {#access-admin-console}
+
+Follow the steps below to set up Dynamic Chat.
 
 >[!NOTE]
 >
@@ -14,16 +16,28 @@ intro text
 
 1. After Dynamic Chat is enabled for your Marketo Instance, the designated System Admin will receive a welcome email. In that email, click **Get Started**.
 
-   PICC
+   ![](assets/initial-setup-1.png)
 
 1. If you've previously accessed an application with an Adobe ID, you'll be taken straight to the Adobe Admin Console. If not, [set up your Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
-   PICC
+   ![](assets/initial-setup-2.png)
 
-1. Add users (steps to follow)
+## Add Users {#add-users}
 
-Second action step – is in Marketo - After you add user in Admin Console, they go back to Marketo (users & roles) and add DC permission to all agents [COMING LATE OCT, no screenshot]
+1. After logging in to the Admin Console, the next thing to do is add users. We have that process [documented here](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
 
->[!NOTE]
+## Add Permissions in Marketo {#add-permissions-in-marketo}
+
+After adding users in the in Admin Console, you must grant permissions in Marketo.
+
+1. In Marketo, click **Admin**.
+
+1. Find and double-click on the desired user.
+
+1. Add the **Dynamic Chat** access and click **Save**.
+
+>[!IMPORTANT]
 >
->Be sure to follow steps in the order listed. If someone is granted permission in Marketo first, they will see the Dynamic Chat tile but have no user access.
+>Be sure to follow steps in the order listed above. If someone is granted permission in Marketo first, they will see the Dynamic Chat tile but have no user access.
+
+Next up, [accessing Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#access-dynamic-chat).

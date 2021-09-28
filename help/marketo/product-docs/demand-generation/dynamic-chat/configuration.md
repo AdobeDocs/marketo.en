@@ -10,11 +10,11 @@ Learn how to customize the look and feel of your chatbot dialogue window.
 
 To get started, click **Configuration**.
 
-PICC
+   ![](assets/configuration-1.png)
 
 There are several different customization options.
 
-PICC (of whole chatbox)
+   ![](assets/configuration-2.png)
 
 ## Style Tab {#style-tab}
 
@@ -24,35 +24,33 @@ This is where you'll define the look and feel of the chatbot where your Dialogue
 
 Each category's color is determined by a [hexadecimal color value](https://color.adobe.com/create/color-wheel) (e.g., white = #ffffff, red = #bf1932, etc.).
 
-PICC
+   ![](assets/configuration-3.png)
 
-The Anchor allows your site visitor to open/close the chatbox. You can choose whether you want that icon to appear on the bottom right or bottom left. You can also increase/decrease padding (the amount of space between the chatbox and the icon).
+The Anchor allows your site visitor to open/close the chatbox. You can choose whether you want that icon to appear on the bottom right or bottom left. You can also increase/decrease padding (the amount of space between the icon and the bottom of the webpage).
 
-PICC of anchor pos
-
-PICC of padding
+   ![](assets/configuration-4.png)
 
 **Agent Settings**
 
 In Agent Settings, you can add a label to your chatbox (ex: "Adobe Bot") that will appear at the top. You can also determine the response delay (in seconds), and change your chat avatar.
 
-PICC of setting name
+   ![](assets/configuration-5.png)
 
-PICC of setting delay
+When you're done making changes, remember to click **Save**.
 
-PICC of choosing avatar
+   ![](assets/configuration-6.png)
 
 ## Privacy Tab {#privacy-tab}
 
 Click the **Privacy** tab to add/edit the URL of your site's privacy policy (optional).
 
-PICC
+   ![](assets/configuration-7.png)
 
 ## Installation Tab {#installation-tab}
 
 In order for the chatbot to show up on your website, you’ll first need to install the Dynamic Chat JavaScript snippet. Click this tab to find/copy the necessary code. If you're not familiar with this operation, please contact your web team or IT department for assistance.
 
-PICC
+   ![](assets/configuration-8.png)
 
 >[!NOTE]
 >

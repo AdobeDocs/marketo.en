@@ -12,13 +12,13 @@ Dynamic Chat allows you to leverage an easy-to-use interface to target both lead
    >
    >Dynamic Chat is currently in the process of being rolled out, with all subscriptions due to have access by DATE.
 
-## Set up Dynamic Chat {#access-dynamic-chat}
+## Access Dynamic Chat {#access-dynamic-chat}
 
 ONCE THE TILE HAS BEEN ADDED... follow these steps to get started.
 
 1. In My Marketo, click the **Dynamic Chat** tile.
 
-   PICC
+   ![](assets/dynamic-chat-overview-1.png)
 
    >[!NOTE]
    >
@@ -26,15 +26,15 @@ ONCE THE TILE HAS BEEN ADDED... follow these steps to get started.
 
 1. If you've previously accessed an application with an Adobe ID, you'll be taken straight to Dynamic Chat. If not, [set up your Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
-   PICC
+   PICC (screenshot when left nav is fixed)
 
 1. To connect your Marketo instance, select **Integrations**.
 
-   PICC  
+   ![](assets/dynamic-chat-overview-3.png)
 
 1. Click ?INSERT TEXT HERE?.
 
-   PICC
+   PICC (screenshot when I get fresh subscription)
 
    >[!NOTE]
    >
@@ -62,23 +62,27 @@ You can also customize the body of the invite EMAIL? that is sent to the visitor
 
 This is where you'll see all of the appointments that have been scheduled by website visitors through your various Dialogues. Here you’ll find the email address of the lead that booked the appointment, which agent they booked the appointment with, when the appointment is scheduled to occur, and whether the meeting has happened or not.
 
-PICC?
-
 ## Routing {#routing}
 
 This is where you can see a list of all of the agents that have connected their calendars as well as what order they will be presented to website visitors Meetings go round robin style, so if you have five agents and agent three took the last meeting, agent four will get the next one, followed by five, then back to agent one.
 
 ## FAQ {#faq}
 
-----------ANY YESES? LOL----------
-
 **Does Dynamic Chat allow for live chat?**
 
 No, it only utilizes pre-determined responses.
 
+**How can I target anonymous leads?**
+
+In your dialogue, you would need to use the _Lead Email is Empty_ attribute.
+
 **Do you support AI/NLP functionality?**
 
 We do not support AI/NLP functionality.
+
+**How long is data stored for reporting?**
+
+90 days.
 
 **Does Dynamic Chat offer any languages besides English?**
 
