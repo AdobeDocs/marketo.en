@@ -24,7 +24,7 @@ After you've completed the [initial setup](/help/marketo/product-docs/demand-gen
 
    ![](assets/access-dynamic-chat-3.png)
 
-1. Click ?INSERT TEXT HERE?.
+1. On the Marketo card, click **Initiate Sync**.
 
    PICC (screenshot when I get brand new sub)
 

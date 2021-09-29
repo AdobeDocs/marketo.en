@@ -24,7 +24,7 @@ PICC
 
 >[!NOTE]
 >
->EXPLAIN PRIORITY LEVEL
+>Priority level determines where the dialogue shows on your list (ex: priority = 1 means it will be at the very top).
 
 ## Audience Criteria {#audience-criteria}
 
@@ -108,3 +108,7 @@ The stream designer contains different cards you can add to shape the chat conve
 POSSIBLE OWN SECTION
 
 SHOW EXAMPLE(S) BELOW
+
+## Reports {#reports}
+
+Text

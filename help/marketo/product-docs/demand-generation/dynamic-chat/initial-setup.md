@@ -34,10 +34,10 @@ After adding users in the in Admin Console, you must grant permissions in Market
 
 1. Find and double-click on the desired user.
 
-1. Add the **Dynamic Chat** access and click **Save**.
+1. Add **Access Dynamic Chat** and click **Save**.
 
 >[!IMPORTANT]
 >
 >Be sure to follow steps in the order listed above. If someone is granted permission in Marketo first, they will see the Dynamic Chat tile but have no user access.
 
-Next up, [accessing Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md).
+Next step is to [access Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md).
