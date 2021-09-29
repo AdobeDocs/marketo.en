@@ -6,7 +6,7 @@ hidefromtoc: yes
 ---
 # Dialogues {#dialogues}
 
-Dialogues are the individual chat conversations you'll set up. Learn how to customize them visually, determine what pages they appear on, and decide what is said as well as who sees it.
+Dialogues are individual chat conversations. Learn how to customize them visually, determine what pages they appear on, and decide what is said as well as who sees it.
 
 ## Create a New Dialogue {#create-a-new-dialogue}
 
@@ -24,7 +24,7 @@ Dialogues are the individual chat conversations you'll set up. Learn how to cust
 
 >[!NOTE]
 >
->Priority level determines where the dialogue appears on your list (ex: priority = 1 means it will be at the very top).
+>Priority level determines where the dialogue appears on your list (ex: priority 1 means it will be at the very top).
 
 ## Audience Criteria {#audience-criteria}
 
@@ -76,7 +76,7 @@ There's an easy way to specifically target leads who are not in your database ye
 
    >[!NOTE]
    >
-   >EXPLAIN INFERRED.
+   >When someone visits your website, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies them and puts them into the system. We look up their IP in a special database and infer all kinds of good info..
 
 1. _Is_ is set by default. In the Select Values field, type in NY (you can also click the drop-down and select from the list).
 
@@ -131,8 +131,38 @@ The stream designer contains different cards you can add to shape the chat conve
  </tr>
 </table>
 
-SHOW EXAMPLE(S) BELOW
+**Create a Stream**
+
+There are _many_ stream combinations to create. In this example we'll ask a question and prepare .
 
 ## Reports {#reports}
 
-Text
+In the Reports tab, view data from the past 90 days. Each category is defined below.
+
+<table>
+ <tr>
+  <td><strong>Total Triggered</strong></td>
+  <td>Increments every time a visitor qualifies for/is shown a Dialogue.
+</td>
+ </tr>
+ <tr>
+  <td><strong>Engaged</strong></td>
+  <td>Increments every time a visitor clicks on the chatbot anchor to open the Dialogue.</td>
+ </tr>
+ <tr>
+  <td><strong>Completed</strong></td>
+  <td>Increments every time a visitor reaches the end of any branch in a Dialogue.</td>
+ </tr>
+ <tr>
+  <td><strong>Leads Captured</strong></td>
+  <td>Increments every time a visitor provides a valid email address in a Dialogue flow.</td>
+ </tr>
+ <tr>
+  <td><strong>Meetings Booked</strong></td>
+  <td>Increments every time a visitor successfully schedules an appointment via the chatbot.</td>
+ </tr>
+ <tr>
+  <td><strong>Goals Reached</strong></td>
+  <td>Increments every time a visitor reaches a goal in any Dialogue flow.</td>
+ </tr>
+</table>
