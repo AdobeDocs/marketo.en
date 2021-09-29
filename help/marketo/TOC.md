@@ -614,10 +614,11 @@ feature-set: Marketo Engage
       + [Send a List to an Ad Network](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
     + Dynamic Chat {#dynamic-chat}
       + [Dynamic Chat Overview](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
-      + [Dialogues](product-docs/demand-generation/dynamic-chat/dialogues.md)
-      + [Configuration](product-docs/demand-generation/dynamic-chat/configuration.md)
-      + [Add or Remove Chat Users](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
       + [Initial Setup](product-docs/demand-generation/dynamic-chat/initial-setup.md)
+      + [Access Dynamic Chat](product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md)
+      + [Add or Remove Chat Users](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
+      + [Configuration](product-docs/demand-generation/dynamic-chat/configuration.md)
+      + [Dialogues](product-docs/demand-generation/dynamic-chat/dialogues.md)
     + Events {#events}
       + Understanding Events {#understanding-events}
         + [Adding Members to an Event Program](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
