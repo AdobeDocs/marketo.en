@@ -10,11 +10,17 @@ Dynamic Chat allows you to leverage an easy-to-use interface to target both lead
 
    >[!NOTE]
    >
-   >Dynamic Chat is currently in the process of being rolled out, with all subscriptions due to have access by DATE.
+   >Dynamic Chat is in the process of being rolled out gradually, with all subscriptions due to have access by spring of 2022. For more information, please contact your Customer Success Manager.
 
 ## Integrations {#integrations}
 
-A key component of Dynamic Chat is its ability to natively interface with your Marketo subscription. In order to leverage the full capability of this integration, you’ll first need to initiate the data sync. It can take up to 24 hours for the initial, [one-time sync](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md) to complete.
+A key component of Dynamic Chat is its ability to natively interface with your Marketo subscription. In order to leverage the full capability of this integration, you’ll first need to initiate the data sync. Depending on the size of your Marketo database, it may take up to 24 hours for data for the initial, [one-time sync](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md) to complete. The average sync time is less than two hours.
+
+The following is synced:
+
+* Lead field data
+* Company field data
+* Activity data
 
 ## Dialogues {#dialogues}
 

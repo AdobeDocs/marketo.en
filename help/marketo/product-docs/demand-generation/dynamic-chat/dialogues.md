@@ -24,7 +24,7 @@ Dialogues are individual chat conversations. Learn how to customize them visuall
 
 >[!NOTE]
 >
->Priority level determines where the dialogue appears on your list (ex: priority 1 means it will be at the very top).
+>Priority determines which Dialogue will be shown to a visitor when they qualify for multiple Dialogues simultaneously.
 
 ## Audience Criteria {#audience-criteria}
 

@@ -28,7 +28,7 @@ Follow the steps below to set up Dynamic Chat.
 
 ## Add Permissions in Marketo {#add-permissions-in-marketo}
 
-After adding users in the in Admin Console, you must grant permissions in Marketo.
+After adding users in the in Admin Console, you must grant permissions in Marketo in order for them to have access to the Dynamic Chat shortcut from Marketo.
 
 1. In Marketo, click **Admin**.
 
@@ -40,4 +40,4 @@ After adding users in the in Admin Console, you must grant permissions in Market
 >
 >Be sure to follow steps in the order listed above. If someone is granted permission in Marketo first, they will see the Dynamic Chat tile but have no user access.
 
-Next step is to [access Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md).
+Next step is to [connect Dynamic Chat to Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md).

@@ -1,16 +1,16 @@
 ---
-description: Access Dynamic Chat - Marketo Docs - Product Documentation
-title: Access Dynamic Chat
+description: Connect Dynamic Chat to Marketo - Marketo Docs - Product Documentation
+title: Connect Dynamic Chat to Marketo
 hide: yes
 hidefromtoc: yes
 ---
-# Access Dynamic Chat {#access-dynamic-chat}
+# Connect Dynamic Chat to Marketo {#connect-dynamic-chat-to-marketo}
 
-After you've completed the [initial setup](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md), it's time to sync Dynamic Chat to your Marketo subscription.
+After you've completed the [initial setup](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md), it's time to perform the one-time sync connecting Dynamic Chat to your Marketo subscription.
 
 1. In My Marketo, click the **Dynamic Chat** tile.
 
-   ![](assets/access-dynamic-chat-1.png)
+   ![](assets/connect-dynamic-chat-to-marketo-1.png)
 
    >[!NOTE]
    >
@@ -22,7 +22,7 @@ After you've completed the [initial setup](/help/marketo/product-docs/demand-gen
 
 1. To connect your Marketo instance, select **Integrations**.
 
-   ![](assets/access-dynamic-chat-3.png)
+   ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
 1. On the Marketo card, click **Initiate Sync**.
 
