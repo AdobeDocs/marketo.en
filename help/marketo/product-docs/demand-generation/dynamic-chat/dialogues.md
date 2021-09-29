@@ -133,7 +133,9 @@ The stream designer contains different cards you can add to shape the chat conve
 
 **Create a Stream**
 
-There are _many_ stream combinations to create. In this example we'll ask a question and prepare .
+There are _many_ stream combinations to create. In this example we'll ask a yes or no question and prepare a few responses.
+
+EXAMPLE
 
 ## Reports {#reports}
 
