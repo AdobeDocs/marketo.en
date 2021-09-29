@@ -12,49 +12,75 @@ Dialogues are the individual chat conversations you'll set up. Learn how to cust
 
 1. Click **Dialogues**.
 
-PICC
+   ![](assets/dialogues-1.png)
 
 1. Click the **Create New** button.
 
-PICC
+   ![](assets/dialogues-2.png)
 
 1. Enter a name (description is optional), set the priority level, and click **Save**.
 
-PICC
+   ![](assets/dialogues-3.png)
 
 >[!NOTE]
 >
->Priority level determines where the dialogue shows on your list (ex: priority = 1 means it will be at the very top).
+>Priority level determines where the dialogue appears on your list (ex: priority = 1 means it will be at the very top).
 
 ## Audience Criteria {#audience-criteria}
 
 Similar to Marketo Smart Lists, Audience Criteria attributes allow you to define your target audience. You can target known or unknown leads using inferred, lead, or company attributes (or a combination thereof).
 
-There are _many_ attribute combinations to choose from. In this example we're targeting all known leads in California who work at a company with more than 50 employees.
+**Known Leads**
 
-1. Grab the Lead State attribute and drag it to the right.
+There are _many_ attribute combinations to choose from. In this example we're targeting all **known leads** in California who work at a company with more than 50 employees.
 
-PICC
+1. Grab the **Lead State** attribute and drag it to the right.
+
+   ![](assets/dialogues-4.png)
 
 1. _Is_ is set by default. In the Select Values field, type in CA (you can also click the drop-down and select from the list).
 
-PICC
+   ![](assets/dialogues-5.png)
 
-1. Grab the Company Size attribute and drag it to the right.
+1. Grab the **Company Size** attribute and drag it to where it says _drag and drop an attribute here_.
 
-PICC
+   ![](assets/dialogues-6.png)
 
-1. Click the operator drop-down and select Greater Than.
+   >[!NOTE]
+   >
+   >You can also choose an attribute by clicking its **+** icon.
 
-PICC
+1. Click the operator drop-down and select **Greater Than**.
+
+   ![](assets/dialogues-7.png)
 
 1. Type 50 and click elsewhere on the screen to save.
 
-PICC
+   ![](assets/dialogues-8.png)
 
-HOW TO CAPTURE ANON LEADS
+**Anonymous Leads**
 
-NOTE - maybe mentioned how inferred works/show anon use case, lead email is empty
+There's an easy way to specifically target leads who are not in your database yet. In this example, we're targeting all **anonymous leads** located in the New York area.
+
+1. Grab the **Lead Email** attribute and drag it to the right.
+
+   ![](assets/dialogues-9.png)
+
+1. Click the operator drop-down and select **Is Empty**.
+
+   ![](assets/dialogues-10.png)
+
+1. Grab the **Inferred State** attribute and drag it to where it says _drag and drop an attribute here_.
+
+   ![](assets/dialogues-11.png)
+
+   >[!NOTE]
+   >
+   >EXPLAIN INFERRED.
+
+1. _Is_ is set by default. In the Select Values field, type in NY (you can also click the drop-down and select from the list).
+
+   ![](assets/dialogues-12.png)
 
 ## Add Groups {#add-groups}
 
@@ -64,7 +90,7 @@ FINISH THIS
 
 ## Target {#target}
 
-This is where you enter the specific URL(s) that you want a specific Dialogue to be shown on.
+This is where you enter the URL(s) that you want a specific Dialogue to be shown on.
 
 Acceptable formats:
 
@@ -104,8 +130,6 @@ The stream designer contains different cards you can add to shape the chat conve
   <td>This is the only card the visitors won't see. It's for you to determine at which point a goal is achieved within the specific chat (ex: if collecting the visitor's email is your goal, place the Goal card after Info Capture in the Stream).</td>
  </tr>
 </table>
-
-POSSIBLE OWN SECTION
 
 SHOW EXAMPLE(S) BELOW
 
