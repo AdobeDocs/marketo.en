@@ -10,7 +10,7 @@ Dynamic Chat allows you to leverage an easy-to-use interface to target both lead
 
    >[!NOTE]
    >
-   >Dynamic Chat is in the process of being rolled out gradually, with all subscriptions due to have access by spring of 2022. For more information, please contact your Customer Success Manager.
+   >Dynamic Chat is in the process of being rolled out gradually and is currently in limited availability. This page will be updated with general availability (GA) details as they become available.
 
 ## Integrations {#integrations}
 
