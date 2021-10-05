@@ -6,7 +6,7 @@ exl-id: ef1a78ac-1422-4f48-9686-b1d77081787c
 ---
 # Template 13E {#template-13e}
 
-[Download Template 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
+Right-click to [download Template 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
 
 ![](assets/image2015-8-11-14-3a33-3a18.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 * Five body sections (optional)
 * Footer (optional)
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
 [Template 13E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)

@@ -6,7 +6,7 @@ exl-id: e8ef7eb9-c3a5-4c19-9022-d93bb4d07e89
 ---
 # Template 14D {#template-14d}
 
-[Download Template 14D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html)
+Right-click to [download Template 14D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html)
 
 ![](assets/image2015-8-13-10-3a36-3a45.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Five body sections (optional)
 * Footer (optional)
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
 [Template 14D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html)

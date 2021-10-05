@@ -6,7 +6,7 @@ exl-id: 365cc108-ed50-4229-b267-9688ed31056e
 ---
 # Template 2D {#template-2d}
 
-[Download Template 2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
+Right-click to [download Template 2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * One body section with text and poll (optional)
 * Footer (optional)
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
 [Template 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)

@@ -6,7 +6,7 @@ exl-id: 8ccf9758-e1c4-41e2-8266-44f69f3a9c67
 ---
 # Template 2B {#template-2b}
 
-[Download Template 2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
+Right-click to [download Template 2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
 
 ![](assets/image2015-6-2-15-3a32-3a38.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * One body section with video and text (optional)
 * Footer (optional)
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
 [Template 2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)

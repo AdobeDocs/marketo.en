@@ -6,7 +6,7 @@ exl-id: 0677e0a8-0385-4f8b-a77c-de64da40cd38
 ---
 # Template 18E {#template-18e}
 
-[Download Template 18E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18e.html)
+Right-click to [download Template 18E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18e.html)
 
 ![](assets/image2015-8-17-18-3a29-3a1.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Five body sections (optional)
 * Footer (optional)
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
 [Template 18E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18e.html)

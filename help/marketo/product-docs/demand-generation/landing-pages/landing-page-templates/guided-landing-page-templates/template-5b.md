@@ -6,7 +6,7 @@ exl-id: 738323ac-89bf-483a-ad63-2020bacc85cf
 ---
 # Template 5B {#template-5b}
 
-[Download Template 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
+Right-click to [download Template 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
 
 ![](assets/template-5b.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Five body sections (optional)
 * Footer (optional)
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
 [Template 5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)

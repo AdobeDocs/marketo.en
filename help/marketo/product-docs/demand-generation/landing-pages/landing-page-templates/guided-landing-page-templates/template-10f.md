@@ -6,7 +6,7 @@ exl-id: 9f983388-725b-4ac0-bf39-5af56035b200
 ---
 # Template 10F {#template-10f}
 
-[Download Template 10F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html)
+Right-click to [download Template 10F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html)
 
 ![](assets/image2015-7-27-11-3a14-3a42.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 * Three body sections (optional)
 * A footer (optional)
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
 [Template 10F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html)

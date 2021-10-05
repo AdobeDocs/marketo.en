@@ -6,7 +6,7 @@ exl-id: 8224c9ad-b732-4a75-9966-446980db55ef
 ---
 # Template 19B {#template-19b}
 
-[Download Template 19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
+Right-click to [download Template 19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
 
 ![](assets/image2015-9-16-16-3a49-3a50.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 * Five body sections (optional)
 * Footer (optional)
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
 [Template 19B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)

@@ -6,7 +6,7 @@ exl-id: 81a61057-fe24-4dcb-9a9c-73eca9528b4b
 ---
 # Template 10E {#template-10e}
 
-[Download Template 10E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html)
+Right-click to [download Template 10E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html)
 
 ![](assets/image2015-7-27-11-3a6-3a25.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 * Three body sections (optional)
 * A footer (optional)
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
 [Template 10E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html)

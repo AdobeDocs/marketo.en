@@ -6,7 +6,7 @@ exl-id: b6fdc927-a469-463a-808e-a08a52c6cfa2
 ---
 # Template 20D {#template-20d}
 
-[Download Template 20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
+Right-click to [download Template 20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
 
 ![](assets/template-20d.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 * Four body sections (optional)
 * Footer (optional)
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
 [Template 20D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)

@@ -6,7 +6,7 @@ exl-id: fd194747-2465-4685-a0de-bea7a294726d
 ---
 # Template 8B {#template-8b}
 
-[Download Template 8B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)
+Right-click to [download Template 8B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)
 
 ![](assets/image2015-7-29-13-3a56-3a13.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Five body sections (optional)
 * A footer (optional)
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
 [Template 8B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)

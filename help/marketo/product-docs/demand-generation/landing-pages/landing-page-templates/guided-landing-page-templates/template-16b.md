@@ -6,7 +6,7 @@ exl-id: 99bdd484-e2c2-412d-b309-1681d27025e1
 ---
 # Template 16B {#template-16b}
 
-[Download Template 16B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)
+Right-click to [download Template 16B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)
 
 ![](assets/image2015-8-14-11-3a2-3a51.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 
 * Six body sections
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
 [Template 16B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)

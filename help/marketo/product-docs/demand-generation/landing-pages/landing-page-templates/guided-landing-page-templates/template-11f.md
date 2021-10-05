@@ -6,7 +6,7 @@ exl-id: db5aa680-3fe1-408c-adaf-0e16e64f0032
 ---
 # Template 11F {#template-11f}
 
-[Download Template 11F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)
+Right-click to [download Template 11F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)
 
 ![](assets/image2015-8-4-13-3a57-3a13.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Four body sections (optional)
 * Footer (optional)
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
 [Template 11F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)

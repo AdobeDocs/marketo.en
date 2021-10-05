@@ -6,7 +6,7 @@ exl-id: 64aeaa61-cd39-487c-9ca5-9b2185dc04a3
 ---
 # Template 15A {#template-15a}
 
-[Download Template 15A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)
+Right-click to [download Template 15A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)
 
 ![](assets/image2015-8-13-13-3a58-3a55.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 * Five body sections (optional)
 * Footer (optional)
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
 [Template 15A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)

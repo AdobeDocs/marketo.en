@@ -6,7 +6,7 @@ exl-id: 98e4d4ba-dad5-4285-994f-50c5d677b300
 ---
 # Template 5D {#template-5d}
 
-[Download Template 5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
+Right-click to [download Template 5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
 
 ![](assets/image2015-7-29-15-3a10-3a49.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Five body sections (optional)
 * Footer (optional)
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
 [Template 5D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)

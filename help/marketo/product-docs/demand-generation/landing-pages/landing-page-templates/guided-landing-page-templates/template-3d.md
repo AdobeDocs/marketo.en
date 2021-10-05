@@ -6,7 +6,7 @@ exl-id: cb72b874-5294-47b8-b151-e40697d78f13
 ---
 # Template 3D {#template-3d}
 
-[Download Template 3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+Right-click to [download Template 3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
 
 ![](assets/image2015-6-15-11-3a29-3a7.png)
 
@@ -20,6 +20,6 @@ This template includes the following content:
 * Three body sections (optional)
 * Footer (optional)
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
 [Template 3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)

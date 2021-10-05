@@ -6,7 +6,7 @@ exl-id: 37da2ba9-446b-4dee-8b15-a55b2636dd63
 ---
 # Template 20E {#template-20e}
 
-[Download Template 20E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
+Right-click to [download Template 20E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
 
 ![](assets/template-20e.png)
 
@@ -19,6 +19,6 @@ This template includes the following content:
 * Four body sections (optional)
 * Footer (optional)
 
-**Click below to download this template:**
+**Right-click below to download this template:**
 
 [Template 20E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
