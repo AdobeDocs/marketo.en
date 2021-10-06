@@ -11,5 +11,3 @@ Sales Connect allows you to create groups of contacts so you can send personaliz
 To create a group, simply select **New Group**.  
   
 From here you can add contacts [manually](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md) or [via CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).  
-  
-To learn more about sending group emails, [click here](/help/marketo/product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-a-group-email.md).
