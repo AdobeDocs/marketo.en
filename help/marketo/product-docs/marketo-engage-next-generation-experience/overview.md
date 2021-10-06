@@ -31,7 +31,7 @@ There's a lot of new functionality in this next-gen experience, all of which is 
 
 **Icons**
 
-The new interface features improved and expanded iconography. Learn about them here: [New Icon Glossary](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
+The new interface features improved and expanded iconography. Learn about them here: [Icon Glossary](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
 
 ![](assets/overview-new-icons.png)
 

@@ -12,7 +12,7 @@ feature-set: Marketo Engage
   + [Getting Started](getting-started.md)
   + [What is Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
   + [Marketo Glossary](getting-started/marketo-glossary.md)
-  + [Icon Glossary](getting-started/icon-glossary.md)
+  + [Classic Icon Glossary](getting-started/classic-icon-glossary.md)
   + Setup {#setup}
     + [Setup Steps](getting-started/setup-steps.md)
     + [Setup Checklist](getting-started/setup-steps/setup-checklist.md)
@@ -1053,7 +1053,7 @@ feature-set: Marketo Engage
       + [Email CC](product-docs/email-marketing/general/email-cc.md)
   + Marketo Engage Next Generation Experience {#marketo-engage-next-generation-experience}
     + [Overview](product-docs/marketo-engage-next-generation-experience/overview.md)
-    + [New Icon Glossary](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
+    + [Icon Glossary](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
     + [Using the Global Search](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
   + Marketo Sales Connect {#marketo-sales-connect}
     + Getting Started {#getting-started}
@@ -1069,7 +1069,6 @@ feature-set: Marketo Engage
         + [Verify Your Email](product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
     + Admin {#admin}
       + [Additional Admins](product-docs/marketo-sales-connect/admin/additional-admins.md)
-      + [Admin Settings Tab](product-docs/marketo-sales-connect/admin/admin-settings-tab.md)
       + [Blocked Domains](product-docs/marketo-sales-connect/admin/blocked-domains.md)
       + [Content Lockdown](product-docs/marketo-sales-connect/admin/content-lockdown.md)
       + [Create a Sub-Team](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)

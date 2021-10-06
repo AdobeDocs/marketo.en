@@ -1,11 +1,11 @@
 ---
-description: New Icon Glossary - Marketo Docs - Product Documentation
-title: New Icon Glossary
+description: Icon Glossary - Marketo Docs - Product Documentation
+title: Icon Glossary
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 ---
-# New Icon Glossary {#new-icon-glossary}
+# Icon Glossary {#new-icon-glossary}
 
-Below are all the new icons for the new Adobe Marketo Engage interface. If you're still running Marketo Classic, your icon glossary can be [found here](/help/marketo/getting-started/icon-glossary.md).
+Below are the icons for the new Adobe Marketo Engage interface. If you need to reference the Marketo Classic icons, they can be [found here](/help/marketo/getting-started/classic-icon-glossary.md).
 
 ## General Icons {#general-icons}
 
