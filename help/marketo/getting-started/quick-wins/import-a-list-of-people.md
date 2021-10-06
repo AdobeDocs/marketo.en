@@ -16,7 +16,7 @@ In this tutorial, you'll learn how to import people from a spreadsheet file into
 
 ## Step 1: Download and Edit a Spreadsheet {#step-download-and-edit-a-spreadsheet}
 
-1. To start, download our practice spreadsheet file ([**tradeshow-attendees.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)) to your computer.
+1. To start, download our practice spreadsheet file ([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)) to your computer.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 

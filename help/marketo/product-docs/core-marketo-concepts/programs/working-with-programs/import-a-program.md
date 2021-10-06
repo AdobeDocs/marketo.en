@@ -91,7 +91,9 @@ Programs use external assets like email templates, landing page templates, image
 >
 >Image type my tokens are not supported for program imports. If a program that has image type my tokens is imported, **no** tokens will come through.
 
-**Program Tags:** You can use conflict rules to control how program tags that do not exist in the destination account will be treated. Using the default rule will create the program tags, or you can choose to ignore the tags. **Forms:** External forms will automatically be imported into the design studio unless one with the same name exists.
+**Program Tags:** You can use conflict rules to control how program tags that do not exist in the destination account will be treated. Using the default rule will create the program tags, or you can choose to ignore the tags.
+
+**Forms:** External forms will automatically be imported into the design studio unless one with the same name exists.
 
 >[!CAUTION]
 >
