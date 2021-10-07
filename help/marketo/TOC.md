@@ -1167,11 +1167,8 @@ feature-set: Marketo Engage
         + [CC or BCC in Emails](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
         + [Email Marked as Spam](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
         + [Sending File Attachments in Your Email](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
-        + [Throttling Error Message in a Failed Delivery](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-error-message-in-a-failed-delivery.md)
-        + [Throttling Errors](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-errors.md)
       + The Live Feed {#the-live-feed}
         + [Incorrect Recipient Location](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
-        + [Live Feed Icon Glossary](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-icon-glossary.md)
         + [Live Feed Overview](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
       + Unsubscribes {#unsubscribes}
         + [Customize Unsubscribe Link Message](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1218,10 +1215,7 @@ feature-set: Marketo Engage
       + [Sales Connect and GDPR Compliance](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
       + Managing Contacts {#managing-contacts}
         + [Bulk Actions on People](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
-        + [Connect Your Marketo Leads with Sales Connect Leads](product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)
-        + [Connecting with a Group](product-docs/marketo-sales-connect/people/managing-contacts/connecting-with-a-group.md)
         + [Creating and Deleting Contacts](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
-        + [Delete a Group](product-docs/marketo-sales-connect/people/managing-contacts/delete-a-group.md)
         + [Group Types](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
         + [How Sales Connect Handles Email De-Duping](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
         + [How to Create a Contact Group](product-docs/marketo-sales-connect/people/managing-contacts/how-to-create-a-contact-group.md)
