@@ -1675,6 +1675,7 @@ feature-set: Marketo Engage
     + 2021 {#2021}
       + [Release Notes: Jan '21](release-notes/previous-releases/2021/release-notes-jan-21.md)
       + [Release Notes: May '21](release-notes/previous-releases/2021/release-notes-may-21.md)
+      + [Release Notes: August '21](release-notes/previous-releases/2021/release-notes-aug-21.md)
     + 2020 {#2020}
       + [Release Notes: Jan '20](release-notes/previous-releases/2020/release-notes-jan-20.md)
       + [Release Notes: Feb '20](release-notes/previous-releases/2020/release-notes-feb-20.md)

@@ -3,9 +3,9 @@ description: Current Release Notes - Marketo Docs - Product Documentation
 title: Current Release Notes
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 ---
-# Release Notes: August 2021 {#release-notes-aug-21}
+# Release Notes: October 2021 {#release-notes-oct-21}
 
-The following features are included in the August '21 release. Check your Marketo Engage edition for feature availability.
+The following features are included in the October '21 release. Check your Marketo Engage edition for feature availability.
 
 >[!AVAILABILITY]
 >
@@ -13,23 +13,21 @@ The following features are included in the August '21 release. Check your Market
 
 **_Quarterly Releases_**
 
-The following features will be released on **August 20, 2021**.
+The following features will be released on **October 22, 2021**.
+
+## AI-Driven Innovation {#ai-driven-innovation}
+
+**Predictive Audiences Enhancements**: You now have more visibility into top behaviors that are influencing AI predictions for the AI-powered predictive models used in event and email programs. You can review the campaign member behaviors that result in higher event registrations and attendance, as well as what leads to unsubscribes. AI-powered lookalike models can now be used in all program types in Marketo Engage.
+
+## Next-generation Experience {#next-gen-experience}
+
+**Choose Your Own Experience**: Easily switch to your preferred experience with the new toggle while working on Marketo Engage form details or landing page list view without losing context, asset changes, or preferences. Additionally, the new landing page list view enhances your experience with new filters and the ability to perform mass actions.
+
+**Search Efficiently**: Accessibility improvements to global search include updated keyboard navigation and label descriptions, a new scroll feature for results, and more visible applied filters. Move modals have been enhanced to support keyboard shortcuts. Monitor the status of tasks running in the background of the new experience via the new task notification tray in the global navigation bar. The tray captures notifications for tasks initiated from the new experience view of form details and landing page lists, including changing status on landing pages and general mass actions using the new experience.
 
 ## Experience Automation {#experience-automation}
 
-* **Marketo Engage User Authentication via Adobe Identity**: Soon, new Marketo Engage users with Enterprise packages will be onboarded using Adobe ID user credentials. Migration of current users to the integrated identity system will not occur until mid-2022 and no action is required until further notice. Adobe identity user authentication allows IT/Security admins to manage multiple Marketo Engage product instances along with other Experience Cloud solutions, as well as configuring SSO through a common console. Admins can conveniently manage user groups and user entitlements in one place.
-
-* **Executable Campaign Nesting**: Executable campaigns may now also call other executable campaigns allowing you to nest them up to three levels deep. This enables further consolidation of common operational flows and improves Smart Campaign management.
-
-* **Single Flow Action in Person Detail Page** (Available by September 9): Execute flow actions like sending email, change person owner, or any other smart campaign action on individual people from the person detail page using the flow action menu without switching to the database grid view.
-
-* **[Custom Activities Export](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)**: Metadata export now supports all objects and respective metadata which can be used to share, analyze and design your subscription data model.
-
-## API Enhancements {#api-enhancements}
-
-* **Submit Form API**: When an email address is duplicated in two or more Lead records, we update “last updated” record instead of skipping altogether. Provides parity with Forms 2.0 API.
-
-* **Email API**: Retrieve champion or challenger email assets. Retrieve email assets using date range filter.
+**Submit Form API Program Member Custom Field Support**: The Submit Form API endpoint has been upgraded to support Program Member Custom Fields, allowing custom form integrations to collect program-specific data.
 
 **_Releasing Throughout the Quarter_**
 
@@ -39,40 +37,32 @@ The following features are on a non-quarterly cycle and will be released through
 
 ![(star)](assets/yellow-star.png)
 
-* **Enhanced visibility into Lead, Contact, Account & Opportunity Activities for Salesforce CRM Users**: Engagement with prospects during long sales cycles is more informed due to an increased number of engagement records in Sales Insight. Interesting moments, web activity, email, and score tabs show up to 400 activities across Lead, Contact, Account, and Opportunity objects.  
+**Sales Insight for Microsoft Dynamics 365 Sales**
 
-## Sales Connect {#sales-connect}
+**Best Bets Enhancements**: The Best Bets tab in Sales Insight provides sales with a real-time view of the hottest contacts and leads prioritized by quality and urgency. We added the ability for sales reps to take actions, such as: review a person’s score, send an email, or add prospects to designated Marketo Engage campaigns directly from the Best Bets page, increasing efficiency and speeding up response time.
+
+**New Email, Web Activity, Anonymous Web Activity Dashboards**: We added the new sales dashboards to inform sellers about their leads and contacts’ most recent email and web activities. With new filtering capability, the dashboards now provide insight into email opens, clicks, and web page visits for the complete list of accounts or a specific account. Marketo Engage tracks all web activity and provides sales with critical information, turning anonymous traffic into leads. Sellers are enabled to personalize engagement and convert leads to sales faster because they're better informed about lead behaviors and are acting based on the relevance of all the touchpoints.
+
+**Sales Insight for Salesforce CRM**
+
+**Account and Opportunity-level Best Bets**: Sales Insight now offers the ability for sales reps to review Best Bets for all contacts on the account or opportunity they own, even when the contact is assigned to a different team member. This gives account and opportunity owners complete visibility into the activities of relevant contacts and helps them act based on a more holistic view of the account or opportunity.
+
+## Sales Connect {#sales-connect} 
 
 ![(star)](assets/yellow-star.png)
 
-* **Email Connection Throttling (Beta)**: Improve email deliverability and scale personalized sales communication with the email connection throttling for Sales Connect. This new technology automatically manages email send timing to create seamless experiences for Exchange and Gmail users. Decrease or eliminate the usage of third-party bulk email send applications and send all your emails from Sales Connect with confidence.
+**Email Connection Throttling (GA)**: Improve email deliverability and scale personalized sales communication with the email connection throttling for Sales Connect. This innovative technology automatically manages email send timing to create a seamless experience for Exchange and Gmail users. Decrease or eliminate the usage of third-party bulk email send applications and send all your emails from Sales Connect with confidence.
 
->[!NOTE]
->
->Email throttling is available in Beta now. [Learn more](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+**Enhanced Sales Activity Insights**: A new email reply tracking activity, Sales Email Replied, tracks recipients' interactions with an email which is automatically synchronized with Marketo Engage. Additionally, the Source attribute has been updated from “Tout” to “Sales App.” This activity can be exported and reported through the Marketo Engage REST API or Bulk Export and is available on filters and triggers as additional constraints for smart lists, expanding personalization options in Smart Campaigns.
 
-* **Enhanced Sales Activity Insights**: Capture and activate personalized engagement based on your sales team’s prior activities. New attributes such as Sales Call Recording Link, Sales Campaign Name, and Sales Email Subject can be used in Marketo Engage smart lists.  These activities can be exported and reported through the Marketo Engage REST API or Bulk Export and are available on filters and triggers as additional constraints for smart lists.  
+**Streamlined User Experience**: This update introduces new fonts, colors, buttons, and modals for Sales Connect that are based on the Adobe Spectrum design system. With these updates, we are delivering a more efficient experience, where sellers can focus on what's needed, when it's needed.
 
 ## Bizible {#bizible}
 
 ![](assets/yellow-star.png)
 
-* **Bizible LinkedIn Lead Gen Forms Integration**: Marketers can now perform revenue attribution on conversions that occur when LinkedIn captures form fills through their Lead Gen Forms ad units. These insights can then be used to optimize form performance and paid media investments. LinkedIn Lead Gen Forms are one of LinkedIn’s fastest-growing paid media offerings and this new capability is included with our existing LinkedIn Ads integration with Bizible.  
-  
-* **Improved Velocity Dashboard**: We have added a new velocity metric and dashboard filter for deeper insights. This dashboard is used by marketers to understand stage-by-stage lead and opportunity velocity and the efficiency of different forms of marketing and sales engagement.
-
-* **New Cohort Waterfall Journey Dashboard**: This will enable marketers to view the progression of a selected cohort through a classic “demand waterfall” set of stages, providing a quick understanding of conversion rates and implied stage conversion causality on a stage-by-stage basis.
-
-## Bizible Integration with Adobe Experience Cloud {#bizible-integration-with-adobe-experience-cloud}
-
-This section includes new features for Bizible users that have completed their Adobe Identity Management System (IMS) migration. If you have been migrated, you’ll see your new Adobe ID in Bizible Settings under the Adobe ID tab. All accounts should be migrated by the end of 2021.
-
-* **Bizible Integration with Adobe Privacy Service** (available September 2021): Bizible’s integration with the Adobe Privacy Service centralizes compliance with critical data privacy regulations (such as GDPR) across Adobe Experience Cloud applications. You can now take advantage of this service and manage all privacy requests centrally so that change requests coming into Bizible and other Adobe products are reflected across applications.
-
-* **Bizible on Adobe Unified Shell**: Bizible’s adoption of Adobe Unified Shell gives users new capabilities that will appear in the Bizible application header bar and include better access to support resources and application switching. Adobe Unified Shell helps create a consistent experience between Bizible and other Adobe Experience Cloud applications.
-
-* **Bizible Domain Ownership and Self-Management**: Bizible users can leverage Adobe Admin Console to manage the domains they want Bizible to track. This brings self-service to a previously manual process and provides a consistent experience in how domain ownership and tracking are managed across Adobe Experience Cloud applications.
+**Bizible Integration with Adobe Privacy Service (GA)**: Bizible integration with the Adobe Privacy Service centralizes compliance with critical data privacy regulations, such as GDPR (General Data Privacy Regulation) or CCPA (California Consumer Privacy Act) across Adobe Experience Cloud applications. You can now take advantage of this service and manage all privacy requests centrally through Adobe’s Privacy Service so that change requests coming into Bizible, and other Adobe products, are reflected across applications.
 
 ## Announcements {#announcements}
 
-* **Update to Subscription Universal ID Settings**: To support the upcoming Marketo Engage and Adobe Identity integration for existing users, all Marketo Engage subscriptions will be unified in the enablement of Universal ID support. More information [can be found here](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md).
+**Associate Lead Deprecation/Munchkin Beta 161 Update**: On September 7th, 2021, version 161 of Munchkin began rolling out to 10% of subscriptions with Munchkin Beta enabled, followed by 50% on September 16th, and 100% on September 30th. This change affects Marketo Engage landing pages and the version of the file munchkin-beta.js served to external landing pages which are loaded from subscriptions that the recent version has been rolled out to. This version fully deprecates the Munchkin Associate Lead method, which is a feature that allows the submission of a person’s data to a Marketo Engage subscription and associated web browsing history with a known person record. Associate Lead is being removed in favor of more modern and secure alternatives, like the Forms JS API, the Form Submit API, and the Associate Lead REST API. [Learn more about this deprecation](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
