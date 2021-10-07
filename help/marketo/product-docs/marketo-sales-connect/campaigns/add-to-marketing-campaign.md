@@ -14,7 +14,7 @@ exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 
 >[!NOTE]
 >
->In order to add a person to a Marketo Campaign from Sales Connect, Sales Connect must have the person's Marketo lead ID. [Learn how to capture Marketo IDs here](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
+>In order to add a person to a Marketo Campaign from Sales Connect, Sales Connect must have the person's Marketo lead ID.
 
 1. Click the **People** Tab.
 
@@ -80,7 +80,7 @@ exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 
    >[!NOTE]
    >
-   >In order to add a person to a Marketo Campaign from Sales Connect, Sales Connect must have the person's Marketo lead ID. [Learn how to capture Marketo IDs here](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
+   >In order to add a person to a Marketo Campaign from Sales Connect, Sales Connect must have the person's Marketo lead ID.
 
 1. Click the Workspaces drop-down and choose the workspace that contains the campaign you want the group added to.
 
