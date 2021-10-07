@@ -43,11 +43,11 @@ The following features are on a non-quarterly cycle and will be released through
 
 **New Email, Web Activity, Anonymous Web Activity Dashboards**: We added the new sales dashboards to inform sellers about their leads and contacts’ most recent email and web activities. With new filtering capability, the dashboards now provide insight into email opens, clicks, and web page visits for the complete list of accounts or a specific account. Marketo Engage tracks all web activity and provides sales with critical information, turning anonymous traffic into leads. Sellers are enabled to personalize engagement and convert leads to sales faster because they're better informed about lead behaviors and are acting based on the relevance of all the touchpoints.
 
-**Sales Insight for Salesforce CRM**
+**Sales Insight for Salesforce**
 
 **Account and Opportunity-level Best Bets**: Sales Insight now offers the ability for sales reps to review Best Bets for all contacts on the account or opportunity they own, even when the contact is assigned to a different team member. This gives account and opportunity owners complete visibility into the activities of relevant contacts and helps them act based on a more holistic view of the account or opportunity.
 
-## Sales Connect {#sales-connect} 
+## Sales Connect {#sales-connect}
 
 ![(star)](assets/yellow-star.png)
 
@@ -65,4 +65,4 @@ The following features are on a non-quarterly cycle and will be released through
 
 ## Announcements {#announcements}
 
-**Associate Lead Deprecation/Munchkin Beta 161 Update**: On September 7th, 2021, version 161 of Munchkin began rolling out to 10% of subscriptions with Munchkin Beta enabled, followed by 50% on September 16th, and 100% on September 30th. This change affects Marketo Engage landing pages and the version of the file munchkin-beta.js served to external landing pages which are loaded from subscriptions that the recent version has been rolled out to. This version fully deprecates the Munchkin Associate Lead method, which is a feature that allows the submission of a person’s data to a Marketo Engage subscription and associated web browsing history with a known person record. Associate Lead is being removed in favor of more modern and secure alternatives, like the Forms JS API, the Form Submit API, and the Associate Lead REST API. [Learn more about this deprecation](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+**Associate Lead Deprecation/Munchkin Beta 161 Update**: On September 7th, 2021, version 161 of Munchkin began rolling out to 10% of subscriptions with Munchkin Beta enabled, followed by 50% on September 16th, and 100% on September 30th. This change affects Marketo Engage landing pages and the version of the file munchkin-beta.js served to external landing pages which are loaded from subscriptions that the recent version has been rolled out to. This version fully deprecates the Munchkin Associate Lead method, which is a feature that allows the submission of a person’s data to a Marketo Engage subscription and associated web browsing history with a known person record. Associate Lead is being removed in favor of more modern and secure alternatives, like the Forms JS API, the Form Submit API, and the Associate Lead REST API. [Learn more about this deprecation here](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).

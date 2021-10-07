@@ -12,27 +12,29 @@ Notifications keep you up-to-date on system events happening in your Marketo sub
 
 1. New notifications appear on the top right of Marketo.
 
-   ![](assets/image2014-10-10-11-3a32-3a48.png)
+   ![](assets/understanding-notifications-1.png)
 
 1. Click Notifications to view all your notifications.
 
-   ![](assets/image2014-10-10-11-3a55-3a44.png) 
+   ![](assets/understanding-notifications-2.png)
 
 ## Subscribe to Notifications {#subscribe-to-notifications}
 
 You can subscribe to notifications to receive them in your email.
 
-1. Go to Notifications and click Subscribe.
+1. Go to Notifications and click **Subscribe**.
 
-![](assets/image2014-10-10-12-3a3-3a29.png)
+   ![](assets/understanding-notifications-3.png)
 
-1. Select the Notification Type and enter the email address(es) you want notifications sent to.
+1. Select the Notification Type and enter the email address(es) you want notifications sent to (separated by a comma). Click **Subscribe** when done.
 
-   ![](assets/image2014-10-10-13-3a0-3a37.png)
+   ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->In some cases, a notification provides a "See the full list" link to download a comma-separated-value (CSV) file, for example, the Microsoft Dynamics Sync Errors file. Marketo retains these CSV files for 30 days. If you attempt to download the file after 30 days, you'll get a 404 error.
+>The **send to** area is only for you to enter your email, it will not show a list of existing subscribers.
+
+In some cases, a notification provides a "See the full list" link to download a comma-separated-value (CSV) file, for example, the Microsoft Dynamics Sync Errors file. Marketo retains these CSV files for 30 days. If you attempt to download the file after 30 days, you'll get a 404 error.
 
 >[!TIP]
 >
