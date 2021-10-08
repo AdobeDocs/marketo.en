@@ -5,15 +5,15 @@ exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 ---
 # Release Notes: October 2021 {#release-notes-oct-21}
 
-The following features are included in the October '21 release. Check your Marketo Engage edition for feature availability.
+The following features are included in the October '21 release. Check your Adobe Marketo Engage edition for feature availability.
 
 >[!AVAILABILITY]
 >
->Features denoted by a star (![](assets/yellow-star.png)) are paid add-ons. Please contact your Adobe Marketo Engage representative to learn more.
+>Features denoted by a star (![](assets/yellow-star.png)) are paid add-ons. Please contact your Marketo Engage representative to learn more.
 
 **_Quarterly Releases_**
 
-The following features will be released on **October 22, 2021**.
+The following features will start to be released on **October 22, 2021**, with a phased rollout of every feature over the following week (unless specified otherwise).
 
 ## AI-Driven Innovation {#ai-driven-innovation}
 
@@ -23,7 +23,9 @@ The following features will be released on **October 22, 2021**.
 
 **Choose Your Own Experience**: Easily switch to your preferred experience with the new toggle while working on Marketo Engage form details or landing page list view without losing context, asset changes, or preferences. Additionally, the new landing page list view enhances your experience with new filters and the ability to perform mass actions.
 
-**Search Efficiently**: Accessibility improvements to global search include updated keyboard navigation and label descriptions, a new scroll feature for results, and more visible applied filters. Move modals have been enhanced to support keyboard shortcuts. Monitor the status of tasks running in the background of the new experience via the new task notification tray in the global navigation bar. The tray captures notifications for tasks initiated from the new experience view of form details and landing page lists, including changing status on landing pages and general mass actions using the new experience.
+**Search Efficiently**: Accessibility improvements to global search include updated keyboard navigation and label descriptions, a new scroll feature for results, and more visible applied filters.
+
+**Monitor Tasks**: Monitor the status of tasks running in the background of the new experience via the new task notification tray in the global navigation bar. The tray captures notifications for tasks initiated from the new experience view of form details and landing page list, including changing status on landing pages and general mass actions using the new experience.
 
 ## Experience Automation {#experience-automation}
 
