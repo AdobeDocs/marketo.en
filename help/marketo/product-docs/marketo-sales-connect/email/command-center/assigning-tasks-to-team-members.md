@@ -10,7 +10,7 @@ If you want to collaborate with other team members, assigning tasks can be a gre
 
 >[!NOTE]
 >
->You can only assign tasks for shared contacts. You'll want to [share a group of contacts](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md) with your team members before collaborating with shared tasks.
+>You can only assign tasks for shared contacts.
 
 1. Click on the **Command Center**.
 
@@ -47,7 +47,3 @@ If you want to collaborate with other team members, assigning tasks can be a gre
 1. Add any important details that are relevant for your teammate (optional), and click **Create**.
 
    ![](assets/nine.png)
-
->[!MORELIKETHIS]
->
->[How to Share a Group](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
