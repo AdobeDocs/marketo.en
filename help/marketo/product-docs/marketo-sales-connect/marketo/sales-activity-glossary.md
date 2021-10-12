@@ -21,7 +21,7 @@ The activities below will be logged to Marketo from Sales Connect.
   <th>Attribute</th>
  </tr>
  <tr>
-  <th rowspan="3">Send Sales Email</th>
+  <th rowspan="9">Send Sales Email</th>
   <td>Sent By</td>
  </tr>
  <tr>
@@ -31,7 +31,25 @@ The activities below will be logged to Marketo from Sales Connect.
   <td>Template ID</td>
  </tr>
  <tr>
-  <th rowspan="3">Open Sales Email</th>
+  <td>Sales Template URL</td>
+ </tr>
+ <tr>
+  <td>Sales Campaign URL</td>
+ </tr>
+ <tr>
+  <td>Sales Template Name</td>
+ </tr>
+ <tr>
+  <td>Email Subject</td>
+ </tr>
+ <tr>
+  <td>Sales Campaign Name</td>
+ </tr>
+ <tr>
+  <td>Marketo Sales Person ID</td>
+ </tr>
+ <tr>
+  <th rowspan="9">Open Sales Email</th>
   <td>Sent By</td>
  </tr>
  <tr>
@@ -41,7 +59,25 @@ The activities below will be logged to Marketo from Sales Connect.
   <td>Template ID</td>
  </tr>
  <tr>
-  <th rowspan="4">Clicked Sales Email</th>
+  <td>Sales Template URL</td>
+ </tr>
+ <tr>
+  <td>Sales Campaign URL</td>
+ </tr>
+ <tr>
+  <td>Sales Template Name</td>
+ </tr>
+ <tr>
+  <td>Email Subject</td>
+ </tr>
+ <tr>
+  <td>Sales Campaign Name</td>
+ </tr>
+ <tr>
+  <td>Marketo Sales Person ID</td>
+ </tr>
+ <tr>
+  <th rowspan="10">Clicked Sales Email</th>
   <td>Link</td>
  </tr>
  <tr>
@@ -53,28 +89,36 @@ The activities below will be logged to Marketo from Sales Connect.
  <tr>
   <td>Template ID</td>
  </tr>
+ <tr>
+  <td>Sales Template URL</td>
+ </tr>
+ <tr>
+  <td>Sales Campaign URL</td>
+ </tr>
+ <tr>
+  <td>Sales Template Name</td>
+ </tr>
+ <tr>
+  <td>Email Subject</td>
+ </tr>
+ <tr>
+  <td>Sales Campaign Name</td>
+ </tr>
+ <tr>
+  <td>Marketo Sales Person ID</td>
+ </tr>
 <tr>
-  <th rowspan="2">Received Sales Email</th>
+  <th rowspan="3">Received Sales Email</th>
   <td>Received By</td>
  </tr>
  <tr>
   <td>Source</td>
  </tr>
  <tr>
-  <th rowspan="4">Sales Email Bounced</th>
-  <td>Details</td>
+  <td>Person ID (MSC)</td>
  </tr>
  <tr>
-  <td>Template ID</td>
- </tr>
- <tr>
-  <td>Email</td>
- </tr>
- <tr>
-  <td>Sent By</td>
- </tr>
- <tr>
-  <th rowspan="7">Received Sales Call</th>
+  <th rowspan="11">Received Sales Call</th>
   <td>Sales Call Made By</td>
  </tr>
  <tr>
@@ -94,6 +138,18 @@ The activities below will be logged to Marketo from Sales Connect.
  </tr>
  <tr>
   <td>Source</td>
+ </tr>
+ <tr>
+  <td>Sales Call Duration</td>
+ </tr>
+ <tr>
+  <td>Sales Call Recording URL</td>
+ </tr>
+  <tr>
+  <td>Sales Call Answered By</td>
+ </tr>
+ <tr>
+  <td>Marketo Sales Person ID (MSC)</td>
  </tr>
  <tr>
   <th rowspan="6">Add to Sales Campaign</th>
