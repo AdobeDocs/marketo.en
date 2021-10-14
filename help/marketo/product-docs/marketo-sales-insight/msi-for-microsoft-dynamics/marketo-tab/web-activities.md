@@ -11,6 +11,6 @@ Review the latest web activities of your lead, citing the page visit count and t
 
    PICC
 
-# Anonymous Web Activities {#anonymous-web-activities}
+## Anonymous Web Activities {#anonymous-web-activities}
 
 The Anonymous Web Activities tab shows all **anonymous** web page visitor web activities. Review the latest web activities citing the page visit count.
