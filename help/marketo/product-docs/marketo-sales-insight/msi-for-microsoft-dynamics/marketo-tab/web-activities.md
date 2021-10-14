@@ -1,0 +1,16 @@
+---
+description: Web Activities - Marketo Docs - Product Documentation
+title: Web Activities
+hide: yes
+hidefromtoc: yes
+---
+# Web Activities {#web-activities}
+
+The Web Activities tab shows your leads/contacts’ web activities.
+Review the latest web activities of your lead, citing the page visit count and the respective accounts. You can filter the results to limit to specified number of pages.
+
+   PICC
+
+# Anonymous Web Activities {#anonymous-web-activities}
+
+The Anonymous Web Activities tab shows all **anonymous** web page visitor web activities. Review the latest web activities citing the page visit count.

@@ -20,7 +20,7 @@ A Marketo sandbox cannot be synced to your regular CRM if it's already synced to
 * If you wish to add users, the process is the same as [adding users in production](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Again, they must use a different email address if they already have a Marketo login.
 * Your Marketo sandbox will start out empty, but have the same features available as your production instance.
 * If you create a program in your sandbox and want to move it to production, you can perform a [program import](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
-* Sandboxes are throttled so production instances aren't adversely affected by testing environments. You can send up to 30 emails per campaign run.  
+* Sandboxes are throttled so production instances aren't adversely affected by testing environments. You can send up to 20 emails per campaign run.  
 
 >[!CAUTION]
 >

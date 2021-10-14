@@ -8,6 +8,10 @@ exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 
 This article shows you different ways to preview a web campaign, and also how to test it using a sandbox segment live on your website.
 
+>[!NOTE]
+>
+>The preview only shows how the campaign will look on the chosen site. Links and widgets will be non-functional as to avoid erroneous clicks/views in the analytics.
+
 ## Preview a Web Campaign on the Creation Page {#preview-a-web-campaign-on-the-creation-page}
 
 1. Go to **Web Campaigns**.

@@ -115,7 +115,7 @@ The activities below will be logged to Marketo from Sales Connect.
   <td>Source</td>
  </tr>
  <tr>
-  <td>Person ID (MSC)</td>
+  <td>Marketo Sales Person ID</td>
  </tr>
  <tr>
   <th rowspan="11">Received Sales Call</th>
@@ -149,7 +149,7 @@ The activities below will be logged to Marketo from Sales Connect.
   <td>Sales Call Answered By</td>
  </tr>
  <tr>
-  <td>Marketo Sales Person ID (MSC)</td>
+  <td>Marketo Sales Person ID</td>
  </tr>
  <tr>
   <th rowspan="6">Add to Sales Campaign</th>
@@ -210,6 +210,10 @@ The activities below will be logged to Marketo from Sales Connect.
   <tr> 
    <td><strong>Link</strong></td> 
    <td>URL that was clicked.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Marketo Sales Person ID</strong></td> 
+   <td>Unique ID for person record in Sales Connect.</td> 
   </tr> 
   <tr> 
    <td><strong>Received By</strong></td> 
