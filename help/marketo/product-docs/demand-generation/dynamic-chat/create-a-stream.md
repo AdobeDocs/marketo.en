@@ -10,15 +10,15 @@ There are _many_ stream combinations to create. Below is one example where the m
 
 1. After you [create your dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), click the Stream Designer tab.
 
-   PICC
+   ![](assets/create-a-stream-1.png)
 
 1. Drag and drop the Question card.
 
-   PICC
+   ![](assets/create-a-stream-2.png)
 
 1. Under Chatbot Response, word your question how you'd like.
 
-   PICC
+   ![](assets/create-a-stream-3.png)
 
    >[!NOTE]
    >
@@ -26,20 +26,87 @@ There are _many_ stream combinations to create. Below is one example where the m
 
 1. Enter your User Responses and click **Save**.
 
-   PICC
+   ![](assets/create-a-stream-4.png)
 
-1. For "Yes" we want to schedule an appointment, so after that option drag over the Appointment Scheduler card.
+1. For "Yes" we want to schedule an appointment, so below that option drag over the Appointment Scheduler card.
 
-   PICC
+   ![](assets/create-a-stream-5.png)
 
 1. In the column on the right, click **Save**.
 
-   PICC
+   ![](assets/create-a-stream-6.png)
 
 1. Since that's a goal, drag the Goal card below the Appointment Scheduler.
 
-   PICC
+   ![](assets/create-a-stream-7.png)
 
 1. Name your goal (or choose an existing one) and click **Save**.
 
-   PICC
+   ![](assets/create-a-stream-8.png)
+
+1. For "No" we want to see if they'll join the mailing list, so below that option drag over another Question card.
+
+   ![](assets/create-a-stream-9.png)
+
+1. Enter your response, and add response choices for the visitor. Click **Save** when done.
+
+   ![](assets/create-a-stream-10.png)
+
+   >[!NOTE]
+   >
+   >You can add more responses by clicking **Add Response**.
+
+1. Below the "Yes" response, drag over the Info Capture card so you can collect the visitor's email.
+
+   ![](assets/create-a-stream-11.png)
+
+1. Click the **Type** drop-down and select **Email**.
+
+   ![](assets/create-a-stream-12.png)
+
+1. Enter a chatbot message and placeholder. Make sure the attribute is mapped to the appropriate field in Marketo and click **Save**.
+
+   ![](assets/create-a-stream-13.png)
+
+   <table>
+    <tr>
+     <td><strong>Type</strong></td>
+     <td>The type of info you want to capture: Phone, Text, Email.</td>
+    </tr>
+    <tr>
+     <td><strong>Chatbot Message</strong></td>
+     <td>The message the visitor sees prompting them to provide the info.</td>
+    </tr>
+    <tr>
+     <td><strong>Sample text helping the visitor see what to enter.</strong></td>
+     <td>text</td>
+    </tr>
+    <tr>
+     <td><strong>Map Response to Attribute</strong></td>
+     <td>Allows you to sync the vistor's response to the corresponding field in their Person record in your Marketo subscription.</td>
+    </tr>
+   </table>
+
+1. Since collecting their email is a goal, drag the Goal card below Info Capture.
+
+   ![](assets/create-a-stream-14.png)
+
+1. Name your goal (or choose an existing one) and click **Save**.
+
+   ![](assets/create-a-stream-15.png)
+
+1. Remember to add a response if they say "No." Drag a Message card below that option.
+
+   ![](assets/create-a-stream-16.png)
+
+1. Enter your message and click **Save**.
+
+   ![](assets/create-a-stream-17.png)
+
+1. When you want to acivate your Dialogue, click **Publish**.
+
+   ![](assets/create-a-stream-18.png)
+
+>[!NOTE]
+>
+>Before clicking Publish, remember to make sure you've [entered your target URL(s)](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
