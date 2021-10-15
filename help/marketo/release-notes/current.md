@@ -57,8 +57,6 @@ The following features are on a non-quarterly cycle and will be released through
 
 ![(star)](assets/yellow-star.png)
 
-**Email Connection Throttling (GA)**: Improve email deliverability and scale personalized sales communication with the email connection throttling for Sales Connect. This innovative technology automatically manages email send timing to create a seamless experience for Exchange and Gmail users. Decrease or eliminate the usage of third-party bulk email send applications and send all your emails from Sales Connect with confidence.
-
 **Enhanced Sales Activity Insights**: A new email reply tracking activity, Sales Email Replied, tracks recipients' interactions with an email which is automatically synchronized with Marketo Engage. Additionally, the Source attribute has been updated from “Tout” to “Sales App.” This activity can be exported and reported through the Marketo Engage REST API or Bulk Export and is available on filters and triggers as additional constraints for smart lists, expanding personalization options in Smart Campaigns.
 
 **Streamlined User Experience**: This update introduces new fonts, colors, buttons, and modals for Sales Connect that are based on the Adobe Spectrum design system. With these updates, we are delivering a more efficient experience, where sellers can focus on what's needed, when it's needed.
