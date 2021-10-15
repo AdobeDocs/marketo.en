@@ -1266,7 +1266,12 @@ feature-set: Marketo Engage
       + [Using Marketo Insights for Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
       + [View Person and Account Information and Activities in Google Mail](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
     + MSI for Microsoft Dynamics {#msi-for-microsoft-dynamics}
-      + [Feature Overview](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/feature-overview.md)
+      + Features {#features}
+        + [Feature Overview](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/feature-overview.md)
+        + Marketo Tab {#marketo-tab}
+          + [Best Bets](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/best-bets.md)
+          + [Email Activities](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
+          + [Web Activities](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
       + Installing {#installing}
         + [Download the Marketo Sales Insight Solution for Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
         + [Install and Configure Marketo Sales Insight in Microsoft Dynamics 2011](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
