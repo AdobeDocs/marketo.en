@@ -32,7 +32,7 @@ The Anchor allows your site visitor to open/close the chatbox. You can choose wh
 
 **Agent Settings**
 
-In Agent Settings, you can add a label to your chatbox (ex: "Adobe Bot") that will appear at the top. You can also determine the response delay (in seconds), and change your chat avatar.
+In Agent Settings, you can add a label to your chatbox (ex: "Adobe Bot") that will appear at the top of it. You can also determine the response delay (in seconds), and change your chat avatar.
 
    ![](assets/configuration-5.png)
 

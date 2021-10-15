@@ -28,13 +28,13 @@ Dialogues are individual chat conversations. Learn how to customize them visuall
 
 ## Audience Criteria {#audience-criteria}
 
-Similar to Marketo Smart Lists, Audience Criteria attributes allow you to define your target audience. You can target known or unknown leads using inferred, lead, or company attributes (or a combination thereof).
+Similar to Marketo Smart Lists, Audience Criteria attributes allow you to define your target audience. You can target known or unknown people using inferred, person, or company attributes (or a combination thereof).
 
-**Known Leads**
+**Known People**
 
-There are _many_ attribute combinations to choose from. In this example we're targeting all **known leads** in California who work at a company with more than 50 employees.
+There are _many_ attribute combinations to choose from. In this example we're targeting all **known people** in California who work at a company with more than 50 employees.
 
-1. Grab the **Lead State** attribute and drag it to the right.
+1. Grab the **Person State** attribute and drag it to the right.
 
    ![](assets/dialogues-4.png)
 
@@ -58,11 +58,11 @@ There are _many_ attribute combinations to choose from. In this example we're ta
 
    ![](assets/dialogues-8.png)
 
-**Anonymous Leads**
+**Anonymous People**
 
-There's an easy way to specifically target leads who are not in your database yet. In this example, we're targeting all **anonymous leads** located in the New York area.
+There's an easy way to specifically target people who are not in your database yet. In this example, we're targeting all **anonymous people** located in the New York area.
 
-1. Grab the **Lead Email** attribute and drag it to the right.
+1. Grab the **Person Email** attribute and drag it to the right.
 
    ![](assets/dialogues-9.png)
 
@@ -125,17 +125,17 @@ The stream designer contains different cards you can add to shape the chat conve
  </tr>
  <tr>
   <td><strong>Appointment Scheduler</strong></td>
-  <td>Provides the visitor with a calendar of available dates to schedule a follow-up. Calendar availability reflects [the next agent in line](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).</td>
+  <td>Provides the visitor with a calendar of available dates to schedule a follow-up. Calendar availability reflects <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">the next agent in line</a>.</td>
  </tr>
  <tr>
   <td><strong>Goal</strong></td>
-  <td>This is the only card the visitors won't see. It's for you to determine at which point a goal is achieved within the specific chat (ex: if collecting the visitor's email is your goal, place the Goal card after Info Capture in the Stream).</td>
+  <td>This is the only card the visitors won't see. It's for you to determine at which point a goal is achieved within the specific chat (ex: if collecting the visitor's email is your goal, place the Goal card immediately after Info Capture in the stream).</td>
  </tr>
 </table>
 
 **Create a Stream**
 
-There are _many_ stream combinations to create. Let's look at just one example [in this article](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
+There are _many_ possible stream combinations. Let's look at one example [in this article](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Reports {#reports}
 
@@ -156,7 +156,7 @@ In the Reports tab, view data from the past 90 days. Each category is defined be
   <td>Increments every time a visitor reaches the end of any branch in a Dialogue.</td>
  </tr>
  <tr>
-  <td><strong>Leads Captured</strong></td>
+  <td><strong>People Captured</strong></td>
   <td>Increments every time a visitor provides a valid email address in a Dialogue flow.</td>
  </tr>
  <tr>
@@ -168,3 +168,7 @@ In the Reports tab, view data from the past 90 days. Each category is defined be
   <td>Increments every time a visitor reaches a goal in any Dialogue flow.</td>
  </tr>
 </table>
+
+>[!MORELIKETHIS]
+>
+>[Create a Stream](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)

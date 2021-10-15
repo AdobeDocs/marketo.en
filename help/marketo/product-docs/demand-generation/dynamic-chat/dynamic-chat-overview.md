@@ -6,7 +6,7 @@ hidefromtoc: yes
 ---
 # Dynamic Chat Overview {#dynamic-chat-overview}
 
-Dynamic Chat allows you to leverage an easy-to-use interface to target both leads (PEOPLE?) and accounts on their (VISITING YOUR?) website. Collect relevant content such as their name, contact information, and free text. Site visitors can also book meetings with your Sales Team. Dynamic Chat activity and engagement data can be used to add members to Marketo programs and trigger cross-channel activities.
+Dynamic Chat allows you to leverage an easy-to-use interface to target both people and accounts visiting your website. Collect relevant content such as name, contact information, and free text. Site visitors can also book meetings with your Sales Team. Dynamic Chat activity and engagement data can be used to add members to Marketo programs and trigger cross-channel activities.
 
    >[!NOTE]
    >
@@ -18,7 +18,7 @@ A key component of Dynamic Chat is its ability to natively interface with your M
 
 The following is synced:
 
-* Lead field data
+* Person field data
 * Company field data
 * Activity data
 
@@ -34,15 +34,15 @@ In the Configuration tab, customize the look and feel of your various Dialogues.
 
 In the Calendar tab, connect your (Outlook or Gmail) calendar for use in appointment scheduling in the chatbot. Once a user’s calendar is connected to Dynamic Chat, that user will be added to the queue and their calendar will be available for website visitors to schedule appointments on.
 
-You can also customize the body of the invite EMAIL? that is sent to the visitor when they schedule an appointment on the user’s calendar.
+You can also customize the body of the invite that's sent to the visitor when they schedule an appointment on the user’s calendar.
 
 ## Meetings {#meetings}
 
-This is where you'll see all of the appointments that have been scheduled by website visitors through your various Dialogues. Here you’ll find the email address of the lead that booked the appointment, which agent they booked the appointment with, when the appointment is scheduled to occur, and whether the meeting has happened or not.
+This is where you'll see all of the appointments that have been scheduled by website visitors through your various Dialogues. Here you’ll find the email address of the person that booked the appointment, which agent they booked the appointment with, when the appointment is scheduled to occur, and whether the meeting has happened or not.
 
 ## Routing {#routing}
 
-This is where you can see a list of all of the agents that have connected their calendars as well as what order they will be presented to website visitors Meetings go round robin style, so if you have five agents and agent three took the last meeting, agent four will get the next one, followed by five, then back to agent one.
+This is where you can see a list of all the agents that have connected their calendars as well as what order they'll be presented to website visitors. Meetings go round robin style, so if you have five agents and agent three took the last meeting, agent four will get the next one, followed by agent five, then back to agent one.
 
 ## FAQ {#faq}
 
@@ -50,9 +50,9 @@ This is where you can see a list of all of the agents that have connected their 
 
 No, it only utilizes pre-determined responses.
 
-**How can I target anonymous leads?**
+**How can I target anonymous people?**
 
-In your dialogue, you would need to use the _Lead Email is Empty_ attribute.
+In your dialogue, you would need to use the _Person Email is Empty_ attribute.
 
 **Do you support AI/NLP functionality?**
 

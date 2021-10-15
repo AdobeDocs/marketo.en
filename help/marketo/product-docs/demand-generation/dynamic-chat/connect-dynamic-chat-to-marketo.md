@@ -26,8 +26,10 @@ After you've completed the [initial setup](/help/marketo/product-docs/demand-gen
 
    PICC (screenshot when I get brand new sub)
 
-   >[!NOTE]
-   >
-   >It can take anywhere from 5 minutes to 8 hours for the sync to complete, depending on the size of your database. The average sync time is 60 minutes. VERIFY TIME FRAME
+>[!NOTE]
+>
+>It can take anywhere from 5 minutes to 8 hours for the sync to complete, depending on the size of your database. The average sync time is 60 minutes. VERIFY TIME FRAME
 
-RELATED ARTICLES
+>[!MORELIKETHIS]
+>
+>[Initial Setup](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)

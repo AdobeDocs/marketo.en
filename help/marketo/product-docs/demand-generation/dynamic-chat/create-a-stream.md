@@ -6,9 +6,9 @@ hidefromtoc: yes
 ---
 # Create a Stream {#create-a-stream}
 
-There are _many_ stream combinations to create. Below is one example where the marketer asks the site visitor if they have any questions. If yes, the visitor can schedule an appointment. If no, the visitor is given the option to join a mailing list for future correspondence. The goal is either scheduling an appointment or collecting the visitor's email.
+There are _many_ stream combinations you can create. Below is one example where the marketer asks the site visitor if they have any product questions. If yes, the visitor can schedule an appointment. If no, the visitor is given the option to join a mailing list for future correspondence. The goal is either scheduling an appointment or collecting the visitor's email.
 
-1. After you [create your dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), click the Stream Designer tab.
+1. After you [create your dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), click the **Stream Designer** tab.
 
    ![](assets/create-a-stream-1.png)
 
@@ -78,8 +78,8 @@ There are _many_ stream combinations to create. Below is one example where the m
      <td>The message the visitor sees prompting them to provide the info.</td>
     </tr>
     <tr>
-     <td><strong>Sample text helping the visitor see what to enter.</strong></td>
-     <td>text</td>
+     <td><strong>Placeholder</strong></td>
+     <td>Sample text helping the visitor see what to enter.</td>
     </tr>
     <tr>
      <td><strong>Map Response to Attribute</strong></td>
@@ -110,3 +110,7 @@ There are _many_ stream combinations to create. Below is one example where the m
 >[!NOTE]
 >
 >Before clicking Publish, remember to make sure you've [entered your target URL(s)](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+
+>[!MORELIKETHIS]
+>
+>[Dialogues](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md)
