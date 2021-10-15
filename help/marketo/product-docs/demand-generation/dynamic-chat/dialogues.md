@@ -76,7 +76,7 @@ There's an easy way to specifically target leads who are not in your database ye
 
    >[!NOTE]
    >
-   >When someone visits your website, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies them and puts them into the system. We look up their IP in a special database and infer all kinds of good info..
+   >When someone visits your website, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies them and puts them into the system. We look up their IP in a special database and infer all kinds of good info.
 
 1. _Is_ is set by default. In the Select Values field, type in NY (you can also click the drop-down and select from the list).
 
@@ -84,9 +84,11 @@ There's an easy way to specifically target leads who are not in your database ye
 
 ## Add Groups {#add-groups}
 
-You have the option of grouping attributes as well, in case you want to have all of certain attributes along with "any" of another.
+You have the option of grouping attributes as well, in case you want to have all of certain attributes along with "all or any" of another. You can add multiple groups.
 
-FINISH THIS
+   ![](assets/dialogues-13.png)
+
+   ![](assets/dialogues-14.png)
 
 ## Target {#target}
 
@@ -133,9 +135,7 @@ The stream designer contains different cards you can add to shape the chat conve
 
 **Create a Stream**
 
-There are _many_ stream combinations to create. In this example we'll ask a yes or no question and prepare a few responses.
-
-EXAMPLE
+There are _many_ stream combinations to create. Let's look at just one example [in this article](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Reports {#reports}
 

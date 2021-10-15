@@ -35,6 +35,10 @@ The following features will start to be released on **October 22, 2021**, with a
 
 The following features are on a non-quarterly cycle and will be released throughout the coming months.
 
+**Native Adobe Experience Platform Connector for Sharing Audiences to Marketo Engage**: Enable multi-channel campaign orchestration in Marketo Engage for audience segments created in Adobe Experience Platform via a native destination connector. The connector uses email addresses or ECID to match Adobe Experience Platform profiles to Marketo Engage person records resulting in segment sharing between applications. Marketo Engage static lists are automatically populated which enables marketers to reach target audiences with highly personalized messaging or initiate workflows. Activate people audiences leveraging their account and opportunity context, and a more complete real-time unified profile in Experience Platform.
+
+**Adobe Experience Platform Marketo Data Source Connector**: Users of both Adobe Experience Platform and Marketo Engage will be able to utilize the Marketo Source Connector in bringing data from Marketo to AEP. You'll be able to stream data (and its changes) from Marketo within AEP to keep data consistent between the two products. The Marketo Connector can be seen via the Sources catalog, listed under "Adobe Applications."  
+
 ## Sales Insight {#sales-insight}
 
 ![(star)](assets/yellow-star.png)

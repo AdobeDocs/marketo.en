@@ -18,11 +18,9 @@ After you've completed the [initial setup](/help/marketo/product-docs/demand-gen
 
 1. If you've previously accessed an application with an Adobe ID, you'll be taken straight to Dynamic Chat. If not, [set up your Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
-   PICC (screenshot when left nav is fixed)
-
 1. To connect your Marketo instance, select **Integrations**.
 
-   ![](assets/connect-dynamic-chat-to-marketo-3.png)
+   ![](assets/connect-dynamic-chat-to-marketo-2.png)
 
 1. On the Marketo card, click **Initiate Sync**.
 
