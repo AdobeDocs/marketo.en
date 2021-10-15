@@ -619,6 +619,7 @@ feature-set: Marketo Engage
       + [Add or Remove Chat Users](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
       + [Configuration](product-docs/demand-generation/dynamic-chat/configuration.md)
       + [Dialogues](product-docs/demand-generation/dynamic-chat/dialogues.md)
+      + [Create a Stream](product-docs/demand-generation/dynamic-chat/create-a-stream.md)
     + Events {#events}
       + Understanding Events {#understanding-events}
         + [Adding Members to an Event Program](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
