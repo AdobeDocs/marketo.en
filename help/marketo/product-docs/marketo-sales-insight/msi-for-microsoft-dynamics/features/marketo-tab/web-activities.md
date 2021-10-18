@@ -9,7 +9,7 @@ hidefromtoc: yes
 The Web Activities tab shows your leads/contacts’ web activities.
 Review the latest web activities of your lead, citing the page visit count and the respective accounts. You can filter the results to limit to specified number of pages.
 
-   PICC
+![](assets/web-activities-1.png)
 
 ## Anonymous Web Activities {#anonymous-web-activities}
 

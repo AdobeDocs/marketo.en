@@ -1,10 +1,10 @@
 ---
 unique-page-id: 10098812
-description: Set Up Revenue Attribution for Digital Advertising Campaigns - Marketo Docs - Product Documentation
-title: Set Up Revenue Attribution for Digital Advertising Campaigns
+description: Set up Revenue Attribution for Digital Advertising Campaigns - Marketo Docs - Product Documentation
+title: Set up Revenue Attribution for Digital Advertising Campaigns
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
 ---
-# Set Up Revenue Attribution for Digital Advertising Campaigns {#set-up-revenue-attribution-for-digital-advertising-campaigns}
+# Set up Revenue Attribution for Digital Advertising Campaigns {#set-up-revenue-attribution-for-digital-advertising-campaigns}
 
 Here's how to set up revenue attribution for digital advertising channels and campaigns. After you've set it up, you can do first-touch and multi-touch revenue attribution for digital ads the same as in other Marketo programs.
 

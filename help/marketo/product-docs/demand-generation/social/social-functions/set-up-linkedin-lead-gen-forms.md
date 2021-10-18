@@ -1,10 +1,10 @@
 ---
 unique-page-id: 12976798
-description: Set Up LinkedIn Lead Gen Forms - Marketo Docs - Product Documentation
-title: Set Up LinkedIn Lead Gen Forms
+description: Set up LinkedIn Lead Gen Forms - Marketo Docs - Product Documentation
+title: Set up LinkedIn Lead Gen Forms
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 ---
-# Set Up LinkedIn Lead Gen Forms {#set-up-linkedin-lead-gen-forms}
+# Set up LinkedIn Lead Gen Forms {#set-up-linkedin-lead-gen-forms}
 
 Use LinkedIn Lead Gen Forms to run ad campaigns in LinkedIn and generate leads for Marketo.
 

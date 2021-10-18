@@ -18,7 +18,7 @@ feature-set: Marketo Engage
     + [Setup Checklist](getting-started/setup-steps/setup-checklist.md)
     + [Configure Protocols for Marketo](getting-started/setup-steps/configure-protocols-for-marketo.md)
   + Quick Wins {#quick-wins}
-    + [Get Set Up and Add a Person](getting-started/quick-wins/get-set-up-and-add-a-person.md)
+    + [Get Set up and Add a Person](getting-started/quick-wins/get-set-up-and-add-a-person.md)
     + [Send an Email](getting-started/quick-wins/send-an-email.md)
     + [Landing Page with a Form](getting-started/quick-wins/landing-page-with-a-form.md)
     + [Simple Scoring](getting-started/quick-wins/simple-scoring.md)
@@ -475,7 +475,7 @@ feature-set: Marketo Engage
         + [Check People into Your Event from Your Tablet](product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
         + [Grant Users Access to the Check-in App](product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)
         + [Prepare for Your Event](product-docs/core-marketo-concepts/mobile-apps/event-check-in/prepare-for-your-event.md)
-        + [Set Up the iPad or Android Tablet](product-docs/core-marketo-concepts/mobile-apps/event-check-in/set-up-the-ipad-or-android-tablet.md)
+        + [Set up the iPad or Android Tablet](product-docs/core-marketo-concepts/mobile-apps/event-check-in/set-up-the-ipad-or-android-tablet.md)
       + Marketo Moments {#marketo-moments}
         + Understanding Moments {#understanding-moments}
           + [Understanding Marketo Moments](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
@@ -498,7 +498,7 @@ feature-set: Marketo Engage
       + [Keyboard Shortcuts Glossary](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
       + [Marketo Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
       + [Rename a Marketo Asset](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-      + [Set Up Adobe Experience Cloud Audience Sharing](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+      + [Set up Adobe Experience Cloud Audience Sharing](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
       + [Sync an Audience From Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
       + [Understanding Folders](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
       + [Understanding Notifications](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
@@ -516,7 +516,7 @@ feature-set: Marketo Engage
         + [View the Organization Service URL](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
         + Microsoft Dynamics 2011 On-Premises {#microsoft-dynamics-2011-on-premises}
           + [Step 1 of 3: Install the Marketo Solution (2011 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
-          + [Step 2 of 3: Set Up Marketo Sync User in Dynamics (2011 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
+          + [Step 2 of 3: Set up Marketo Sync User in Dynamics (2011 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
           + [Step 3 of 3: Connect Microsoft Dynamics with Marketo (2011 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
         + Microsoft Dynamics 2013 On-Premises {#microsoft-dynamics-2013-on-premises}
           + [Step 1 of 3: Install the Marketo Solution in Dynamics (2013 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
@@ -524,7 +524,7 @@ feature-set: Marketo Engage
           + [Step 3 of 3: Connect Marketo and Dynamics (2013 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
         + Microsoft Dynamics 2015 On-Premises/2016 Dynamics 365 On-Premises {#microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises}
           + [Step 1 of 3: Install the Marketo Solution - 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
-          + [Step 2 of 3: Set Up Marketo Sync User in Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+          + [Step 2 of 3: Set up Marketo Sync User in Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
           + [Step 3 of 3: Connect Marketo and Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
         + Microsoft Dynamics 365 {#microsoft-dynamics-365}
           + [Step 1 of 3: Install the Marketo Solution (Online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
@@ -651,9 +651,9 @@ feature-set: Marketo Engage
       + [Create a Custom Audience in Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
       + [Edit Facebook Rich Post Settings](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
       + [Publish Landing Pages to Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
-      + [Set Up Facebook Lead Ads](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+      + [Set up Facebook Lead Ads](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
       + [Map Custom Fields to Marketo](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-      + [Set Up Facebook Offline Conversions](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+      + [Set up Facebook Offline Conversions](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
       + [Test Facebook Lead Ads for Desktop Integration with Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-desktop-integration-with-marketo.md)
       + [Test Facebook Lead Ads for Mobile Integration with Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
       + [Understanding Facebook Offline Conversions](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
@@ -881,7 +881,7 @@ feature-set: Marketo Engage
         + [Configure When Social Button Opens](product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md)
         + [Customize Social App Button](product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
         + [Customize Video Share Flow](product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)
-        + [Set Up Revenue Attribution for Digital Advertising Campaigns](product-docs/demand-generation/social/configuring-social-actions/set-up-revenue-attribution-for-digital-advertising-campaigns.md)
+        + [Set up Revenue Attribution for Digital Advertising Campaigns](product-docs/demand-generation/social/configuring-social-actions/set-up-revenue-attribution-for-digital-advertising-campaigns.md)
       + Creating a Poll {#creating-a-poll}
         + [Create a Poll](product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
         + [Customize Poll Settings](product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md)
@@ -902,7 +902,7 @@ feature-set: Marketo Engage
         + [Enable Social Form Fill on a Form(Social)](product-docs/demand-generation/social/social-functions/enable-social-form-fill-on-a-form-social.md)
         + [Manage Social Profile Data](product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)
         + [Set Social Share Requirement](product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
-        + [Set Up LinkedIn Lead Gen Forms](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
+        + [Set up LinkedIn Lead Gen Forms](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
         + [Triggers and Filters for Social Activities](product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)
         + [Use a Marketo List or Smart List as a LinkedIn Audience Segment](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
         + [Use Emails in Social Promotions](product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
@@ -1269,6 +1269,7 @@ feature-set: Marketo Engage
       + Features {#features}
         + [Feature Overview](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/feature-overview.md)
         + Marketo Tab {#marketo-tab}
+          + [Setting up MSI Views](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/setting-up-msi-views.md)
           + [Best Bets](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/best-bets.md)
           + [Email Activities](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
           + [Web Activities](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
@@ -1371,9 +1372,9 @@ feature-set: Marketo Engage
         + [Add In-App Message Images](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md)
         + [Choose a Layout for Your In-App Message](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
         + [Create In-App Message Text](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)
-        + [Set Up the Dismiss Button and Approve the Message](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md)
-        + [Set Up the In-App Message Background](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md)
-        + [Set Up the In-App Message Button](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)
+        + [Set up the Dismiss Button and Approve the Message](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md)
+        + [Set up the In-App Message Background](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md)
+        + [Set up the In-App Message Button](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)
       + Sending Your In-App Message {#sending-your-in-app-message}
         + [Send Your In-App Message](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
         + [Approve Your In-App Message](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md)
@@ -1428,7 +1429,7 @@ feature-set: Marketo Engage
       + [Create Content Patterns](product-docs/predictive-content/getting-started/create-content-patterns.md)
       + [Deploy the JavaScript for Content-AI](product-docs/predictive-content/getting-started/deploy-the-javascript-for-content-ai.md)
       + [Enable Content Discovery](product-docs/predictive-content/getting-started/enable-content-discovery.md)
-      + [Set Up Categories](product-docs/predictive-content/getting-started/set-up-categories.md)
+      + [Set up Categories](product-docs/predictive-content/getting-started/set-up-categories.md)
     + Working with All Content {#working-with-all-content}
       + [Understanding All Content](product-docs/predictive-content/working-with-all-content/understanding-all-content.md)
       + [Add New Content](product-docs/predictive-content/working-with-all-content/add-new-content.md)

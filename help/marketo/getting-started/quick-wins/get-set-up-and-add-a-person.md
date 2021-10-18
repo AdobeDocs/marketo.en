@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2359351
-description: Get Set Up and Add a Person - Marketo Docs - Product Documentation
-title: Get Set Up and Add a Person
+description: Get Set up and Add a Person - Marketo Docs - Product Documentation
+title: Get Set up and Add a Person
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 ---
-# Get Set Up and Add a Person {#get-set-up-and-add-a-person}
+# Get Set up and Add a Person {#get-set-up-and-add-a-person}
 
 There are a few things to do before you begin the missions.
 

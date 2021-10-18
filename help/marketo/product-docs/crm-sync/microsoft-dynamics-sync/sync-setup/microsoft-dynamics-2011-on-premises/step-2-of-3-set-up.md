@@ -1,10 +1,10 @@
 ---
 unique-page-id: 3571807
-description: Step 2 of 3 -Set Up Marketo Sync User in Dynamics (2011 On-Premises) - Marketo Docs - Product Documentation
-title: Step 2 of 3 -Set Up Marketo Sync User in Dynamics (2011 On-Premises)
+description: Step 2 of 3 -Set up Marketo Sync User in Dynamics (2011 On-Premises) - Marketo Docs - Product Documentation
+title: Step 2 of 3 -Set up Marketo Sync User in Dynamics (2011 On-Premises)
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 ---
-# Step 2 of 3: Set Up Marketo Sync User in Dynamics (2011 On-Premises) {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
+# Step 2 of 3: Set up Marketo Sync User in Dynamics (2011 On-Premises) {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
 
 Great job completing the previous steps, let's keep moving through this.
 
