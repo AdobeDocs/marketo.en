@@ -8,43 +8,44 @@ hidefromtoc: yes
 
 Installing the Sales Insight plugin in Dynamics automatically adds the Best Bets and related dashboards on the Site Map. If for some reason the dashboards are not added, here's how to add them manually.
 
-1. Go to Advanced Settings > Settings > Customizations > Customize the System.
+1. In Dynamics, click the gear icon and select **Advanced Settings** from the drop-down.
 
-1. Choose Client Extensions  and then Click on Site Map.
+1. In the upper-left of the screen, click **Settings**. Under Customization choose Customizations.
 
-1. Move to the right. Select Marketo and Add Sub Area.
+1. Click **Customize the System**.
 
-1. Then enter the values in the fields as follows and click Save.
+1. In the tree on the left, click **Client Extensions** and double-click **Site Map**.
 
-Best Bets - marketo_bestbets
-URL : MainviewBestbets.html
-Icon: /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg
-ID : marketo_bestbets
-Title : Best Bets
+1. Click the right arrow to go to the next page. Under Sales, you should see Marketo. If you don't, make sure you imported the package properly.
 
-## My Email Dashboard {#my-email-dashboard}
+   >[!NOTE]
+   >
+   >Under Marketo you should have: Best Bets, My Email, Web Activity, and Anonymous Web Activity. If any of those dashboards are missing, click the + sign above Sales and add them as a Subarea.
 
-Follow the same instructions to reach Site Maps and Marketo Group, as described above for Best Bets.  In a new Sub Area for My Email, the following should be entered.
+1. Click on a dashboard to select it. In the column on the right, enter the respective information below for each one. You can ignore any categories not listed.
 
-URL: mkt_/MainViewMyEmail.html
-Icon: /WebResources/mkt_/_MainView/_imgs/icons/email.svg
-ID: marketo_myemail
-Title:My Email
+   **Best Bets**</br>
+   URL: MainviewBestbets.html</br>
+   Icon: /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
+   ID: marketo_bestbets</br>
+   Title: Best Bets
 
-## Web Activity Dashboard {#web-activity-dashboard}
+   **My Email**</br>
+   URL: mkt_/MainViewMyEmail.html</br>
+   Icon: /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
+   ID: marketo_myemail</br>
+   Title: My Email
 
-Follow the same instructions to reach Site Maps and Marketo Group, as described above for Best Bets.  In a new Sub Area for Web Activity, the following should be entered.
+   **Web Activity**</br>
+   URL: mkt_/MainViewWebActivity.html</br>
+   Icon: /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
+   ID: marketo_webactivity</br>
+   Title: Web Activity
 
-URL: mkt_/MainViewWebActivity.html
-Icon: /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg
-ID: marketo_webactivity
-Title: Web Activity
+   **Anonymous Web Activity**</br>
+   URL: mkt_/MainViewWebActivity.html</br>
+   Icon: /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
+   ID: marketo_anonymous_webactivity</br>
+   Title: Anonymous Web Activity
 
-## Anonymous Web Activity Dashboard {#anonymous-web-activity-dashboard}
-
-Follow the same instructions to reach Site Maps and Marketo Group, as described above for Best Bets.  In a new Sub Area for Web Activity, the following should be entered.
-
-URL: mkt_/MainViewWebActivity.html
-Icon: /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg
-ID: marketo_anonymous_webactivity
-Title: Anonymous Web Activity
+1. Click **Save** when done.
