@@ -9,7 +9,7 @@ The performance of your models depends on the quality and completeness of the in
 
 >[!NOTE]
 >
->Behaviors marked as (+) influence predictions positively (and vice versa).
+>Behaviors marked with (+) influence predictions positively (and vice versa).
 
 Here's how to assess your model health.
 
