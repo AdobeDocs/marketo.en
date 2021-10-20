@@ -13,11 +13,11 @@ Follow the steps below to learn how to utilize sales activity filters and trigge
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. In the **Smart List** tab, search “Sales Connect.”
+1. In the **Smart List** tab, search “Sales Apps.”
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
-1. Select the desired filter or trigger.
+1. Select and drag over the desired filter or trigger.
 
    ![](assets/sales-activity-triggers-and-filters-3.png)
 

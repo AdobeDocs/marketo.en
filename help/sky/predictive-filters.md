@@ -5,11 +5,13 @@ exl-id: cbfc2d5f-181d-4f07-b2c6-74c848708ef0
 ---
 # Predictive Filters
 
-<br>&nbsp;
-
 As part of Predictive Audiences, Marketo offers a group of AI/ML-based filters in smart lists.
 
    ![Image One](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-1.png)
+
+>[!NOTE]
+>
+>The "Likely to Attend" and "Likely to Register" filters are only be able to be used in Event or Email programs. "Likelihood to Unsubscribe," "Lookalike of Program Members," and "Lookalike of Smart List Members" can be used in all program types.
 
 ## Likelihood to Attend
 

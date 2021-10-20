@@ -5,9 +5,13 @@ exl-id: b14ec648-be1c-467b-b41d-2c53d74e25ea
 ---
 # Model Health and Data Validity
 
-<br>&nbsp;
+The performance of your models depends on the quality and completeness of the input data. See the top influencing factor for each of your likelihood AI models. Also see top factors resulting in higher/lower event registration, event attendance, or unsubscribes.
 
-The performance of your models depends on the quality and completeness of the input data. Here's how to assess your model health.
+>[!NOTE]
+>
+>Behaviors marked as (+) influence predictions positively (and vice versa).
+
+Here's how to assess your model health.
 
 Navigate to the **[!UICONTROL Models and Data Health]** section under **[!UICONTROL Predictive Audiences]** in the **[!UICONTROL Admin]** area of Marketo Classic. Here you will see all of your models and their statuses.
 

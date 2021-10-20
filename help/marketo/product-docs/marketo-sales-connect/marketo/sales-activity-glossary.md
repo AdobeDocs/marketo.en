@@ -108,7 +108,7 @@ The activities below will be logged to Marketo from Sales Connect.
   <td>Marketo Sales Person ID</td>
  </tr>
 <tr>
-  <th rowspan="3">Received Sales Email</th>
+  <th rowspan="3">Replied to Sales Email</th>
   <td>Received By</td>
  </tr>
  <tr>

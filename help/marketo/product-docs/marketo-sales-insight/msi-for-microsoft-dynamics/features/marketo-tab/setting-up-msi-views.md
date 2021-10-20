@@ -10,7 +10,7 @@ Installing the Sales Insight plugin in Dynamics automatically adds the Best Bets
 
 1. In Dynamics, click the gear icon and select **Advanced Settings** from the drop-down.
 
-1. In the upper-left of the screen, click **Settings**. Under Customization choose Customizations.
+1. In the upper-left of the screen, click **Settings**. Under Customization choose **Customizations**.
 
 1. Click **Customize the System**.
 
