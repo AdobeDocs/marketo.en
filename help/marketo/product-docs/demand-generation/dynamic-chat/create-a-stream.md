@@ -109,7 +109,7 @@ There are _many_ stream combinations you can create. Below is one example where 
 
 >[!NOTE]
 >
->Before clicking Publish, remember to make sure you've [entered your target URL(s)](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+>Before clicking Publish, remember to make sure you've [entered your target URL(s)](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
 
 >[!MORELIKETHIS]
 >
