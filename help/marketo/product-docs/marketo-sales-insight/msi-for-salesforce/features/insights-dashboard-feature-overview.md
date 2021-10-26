@@ -165,3 +165,7 @@ Event tab:
 * Selecting all events will show list of events scheduled within the next 90 days
 * Activity details card in this section has preview option
 * Filter includes “Search”, “Show only invited events”, and “Date Range”
+
+>[!NOTE]
+>
+>If your Account or Opportunity has more than 800 contacts, the dashboard will not display any data. However, you can go to individual contacts to see their insights and engagement. If your Account has more than 800 contacts, "Show Account Level Activity" will be disabled.

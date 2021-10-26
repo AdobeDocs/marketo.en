@@ -1302,6 +1302,7 @@ feature-set: Marketo Engage
         + [Setting up Sales Insight for your Team](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
       + Features {#features}
         + [MSI Feature Overview](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
+        + [Insights Dashboard Feature Overview](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
         + Actions in the MSI Panel {#actions-in-the-msi-panel}
           + [Add a Lead/Contact to a Marketo Campaign from Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/add-to-marketo-campaign/add-a-lead-contact-to-a-marketo-campaign-from-salesforce.md)
           + [Configure Unsubscribe Footers in Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
@@ -1312,7 +1313,6 @@ feature-set: Marketo Engage
           + [Add Marketo Sales Insight Tab and Buttons to Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
           + [Bulk Actions in Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
           + [Send an Email to Multiple Records in Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
-          + [Insights Dashboard Feature Overview](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
         + Language Support {#language-support}
           + [Prepare Sales Insight for Multi-Lingual Support in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
         + Marketo Tab {#marketo-tab}
