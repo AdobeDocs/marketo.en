@@ -24,11 +24,33 @@ After you've completed the [initial setup](/help/marketo/product-docs/demand-gen
 
 1. On the Marketo card, click **Initiate Sync**.
 
-   PICC (screenshot when I get brand new sub)
+   ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
 >[!NOTE]
 >
->It can take anywhere from 5 minutes to 8 hours for the sync to complete, depending on the size of your database. The average sync time is 60 minutes. VERIFY TIME FRAME
+>It can take anywhere from 2 to 24 hours for the sync to complete, depending on the size of your database.
+
+## Link Your Adobe Org and Marketo {#link-your-adobe-org-and-marketo}
+
+Next, it's time to link Adobe and Marketo.
+
+1. Log in to [experience.adobe.com](https://experience.adobe.com).
+
+1. Copy the Org ID from the bottom-right corner of the homepage, _minus_ the "@AdobeOrg."
+
+   ![](assets/connect-dynamic-chat-to-marketo-4.png)
+
+1. In Marketo, go to the **Admin** section and select **Adobe Organization Mapping**.
+
+   ![](assets/connect-dynamic-chat-to-marketo-5.png)
+
+1. Click **Edit**.
+
+   ![](assets/connect-dynamic-chat-to-marketo-6.png)
+
+1. Paste the Org ID you copied in Step 2 and click **OK**.
+
+   ![](assets/connect-dynamic-chat-to-marketo-7.png)
 
 >[!MORELIKETHIS]
 >
