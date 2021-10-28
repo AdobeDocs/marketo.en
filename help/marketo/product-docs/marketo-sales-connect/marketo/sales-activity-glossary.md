@@ -277,7 +277,7 @@ The activities below will be logged to Marketo from Sales Connect.
   </tr> 
   <tr> 
    <td><strong>Source</strong></td> 
-   <td>Source of the activity. Will be set as "Tout" for Sales Connect activities.</td> 
+   <td>Source of the activity. Will be set as "Tout" for Sales Connect activities prior to the Jan '22 Release. Will be "Sales App" for Sales Connect activities after the Jan '22 Release.</td>
   </tr> 
   <tr> 
    <td><strong>Template ID</strong></td> 

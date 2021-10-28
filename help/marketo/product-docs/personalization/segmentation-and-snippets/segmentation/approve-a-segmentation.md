@@ -6,12 +6,16 @@ exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 ---
 # Approve a Segmentation {#approve-a-segmentation}
 
-A segmentation needs to be approved before it can used.
+A segmentation needs to be approved before it can be used.
 
 >[!PREREQUISITES]
 >
 >* [Create a Segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Define Segment Rules](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+
+>[!NOTE]
+>
+>A maximum of 20 Segmentations can be approved at a time.
 
 1. Go to the **Database**.
 
