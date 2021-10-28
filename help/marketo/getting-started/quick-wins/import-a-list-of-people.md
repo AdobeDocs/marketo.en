@@ -28,13 +28,13 @@ In this tutorial, you'll learn how to import people from a spreadsheet file into
    >
    >Any date/time fields being imported are treated as Central Time. If you have date/time fields in a different time zone, you can use an Excel formula to transform it to Central Time (America/Chicago).
 
-1. Add your own first name, last name, email address, and job title, then save the file on your computer.
+1. Add your own first name, last name, actual email address (so you can receive the nurturing emails you'll send in the next mission), and job title. Save the file on your computer.
 
    ![](assets/image2014-9-24-12-3a5-3a30.png)
 
->[!NOTE]
->
->Enter your real email address in the CSV file so you can receive the nurturing emails you'll send in the next mission.
+   >[!CAUTION]
+   >
+   >Marketo does **not** support email addresses that contain emojis.
 
 ## Step 2: Create a Program {#step-create-a-program}
 

@@ -8,6 +8,10 @@ exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 
 There are many ways to get a person into Marketo. If you need to create one manually, here's how to do it.
 
+   >[!CAUTION]
+   >
+   >Marketo does **not** support email addresses that contain emojis.
+
 1. Go to the **Database**.
 
    ![](assets/db-1.png)

@@ -50,6 +50,10 @@ There are a few things to do before you begin the missions.
 
    ![](assets/eight.png)
 
+   >[!CAUTION]
+   >
+   >Marketo does **not** support email addresses that contain emojis.
+
 1. To view your people, open your System Smart Lists in the left menu, then click All People.
 
    ![](assets/nine.png)
