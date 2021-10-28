@@ -1056,6 +1056,7 @@ feature-set: Marketo Engage
     + [Overview](product-docs/marketo-engage-next-generation-experience/overview.md)
     + [Icon Glossary](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
     + [Using the Global Search](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
+    + [Toggle Switch](product-docs/marketo-engage-next-generation-experience/toggle-switch.md)
   + Marketo Sales Connect {#marketo-sales-connect}
     + Getting Started {#getting-started}
       + [Sales Connect Overview](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
