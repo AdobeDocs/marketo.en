@@ -186,3 +186,7 @@ MSI features are supported in Salesforce mobile application
 ## Language Support {#language-support}
 
 Marketo Sales Insight is stored by language. So, if you want it to work for more than one language, you have to enter the credentials separately for each language.
+
+>[!NOTE]
+>
+>A contact/lead needs to be in the Default partition in order to be added to the Watchlist.

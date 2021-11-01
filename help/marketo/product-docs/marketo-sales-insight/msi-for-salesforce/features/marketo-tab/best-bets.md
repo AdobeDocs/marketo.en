@@ -40,3 +40,7 @@ You can select one or more leads or contacts from your Best Bets page using the 
 * Add to Watchlist
 
 ![](assets/best-bets-1.png)
+
+>[!NOTE]
+>
+>A contact/lead needs to be in the Default partition in order to be added to the Watchlist.
