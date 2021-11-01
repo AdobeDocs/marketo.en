@@ -6,11 +6,11 @@ hidefromtoc: yes
 ---
 # Admin Setup {#admin-setup}
 
-Once you're added as a Marketo System Admin to an Adobe org, there are a few steps you'll need to take to complete the initial setup.
+Once you're added as an Adobe System Admin to Marketo Engage in an Adobe org, there are a few steps you'll need to take to complete the initial setup.
 
 ## System Admin Setup {#system-admin-setup}
 
-1. After your Adobe org is established, the designated System Admin will receive a welcome email. In that email, click **Get Started**.
+1. After you've been added as a designated System Admin for Marketo Engage (in a new or established org), you'll receive a welcome email. In that email, click **Get Started**.
 
    ![](assets/admin-setup-1.png)
 
@@ -20,7 +20,7 @@ Once you're added as a Marketo System Admin to an Adobe org, there are a few ste
 
 ## Create a Product Profile {#create-a-product-profile}
 
-After the System Admin accesses the Admin Console, it's time to create a product profile.
+After the System Admin accesses the Admin Console, it's time to create a product profile. This is how your users/Admins get access to Marketo Engage.
 
 1. Under Products and Services, click **Marketo Engage**.
 
@@ -45,18 +45,6 @@ After the System Admin accesses the Admin Console, it's time to create a product
 >[!NOTE]
 >
 >If you set up multiple product profiles, users will have the same access to Marketo, regardless of which profile they're added to.
-
-## Product Admin Setup {#product-admin-setup}
-
-1. After you're invited by a System Admin, you'll receive a welcome email. In that email, click **Get Started**.
-
-   ![](assets/admin-setup-7.png)
-
-1. If you've previously accessed an application with an Adobe ID, you'll be taken straight to the Adobe Admin Console. If not, [set up your Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
-
-   ![](assets/admin-setup-8.png)
-
-It's that simple! Product Admins are primarily responsible for adding users. [Learn how to do that here](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user).
 
 >[!MORELIKETHIS]
 >

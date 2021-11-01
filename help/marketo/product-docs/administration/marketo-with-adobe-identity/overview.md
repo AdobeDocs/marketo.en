@@ -6,23 +6,27 @@ hidefromtoc: yes
 ---
 # Overview {#overview}
 
-If your Adobe Marketo Engage subscription was provisioned on or after 10/4/21, it will come integrated with the Adobe Identity Management System. AIMS allows users to sign in to Marketo Engage and other Experience Cloud applications using a common Adobe Identity.
+If your Adobe Marketo Engage subscription was provisioned on or after 10/4/21, it will come integrated with the Adobe Identity Management System. This integration allows users to sign in to Marketo Engage and other Experience Cloud applications using a common Adobe Identity.
 
 ## Profile Levels
 
-There are three profile levels.
+Adobe Marketo Engage subscriptions onboarded to the Adobe Identity Management System supports various profiles. The following are the types of user profiles relevant in this integration.
 
 <table>
  <tr>
-  <td><strong>System Admin</strong></td>
-  <td>Responsible for setting up identity concepts for the Adobe org and the Marketo Engage product in the Adobe Admin Console.</td>
+  <td><strong>Adobe Admin Console System Admin</strong></td>
+  <td>Responsible for setting up identity concepts for the Adobe org and the Marketo Engage product in the Adobe Admin Console. Granted role at Adobe organization setup.</td>
  </tr>
  <tr>
-  <td><strong>Product Admin</strong></td>
-  <td>Responsible for entitling users for the Marketo Engage product in the Adobe Admin Console.</td>
+  <td><strong>Adobe Admin Console Product Admin</strong></td>
+  <td>Responsible for entitling users for the Marketo Engage product in the Adobe Admin Console. Granted role in Adobe Admin Console.</td>
  </tr>
  <tr>
-  <td><strong>User</strong></td>
+  <td><strong>Marketo Engage Product Admin</strong></td>
+  <td>A person who has been given access to Marketo Engage with Administrative privileges. Granted role in Marketo Engage, not Adobe Admin Console.</td>
+ </tr>
+ <tr>
+  <td><strong>Marketo Engage User</strong></td>
   <td>A person who has been given access to Marketo Engage. No Administrative privileges.</td>
  </tr>
 </table>
@@ -41,13 +45,15 @@ Adobe Identity Management System consists of three components.
 
 **What's the difference between an Adobe Product Admin and a Marketo Engage Admin?**
 
-* Adobe Product Admin is a new role in the Marketo platform.  
-* It is a read-only role and can't be edited or deleted from Marketo.  
-* It has the same rights and privileges as standard Marketo Admin.
+* Adobe Product Admin is a new role in the Marketo platform.
+* Adobe Product Admin role is granted to users added as a Product Admin in Adobe Admin Console
+* Adobe Product Admin is a read-only role and can't be edited or deleted from Marketo Engage.  
+* Adobe Product Admin has the same rights and privileges as a standard Marketo Admin.
+* Marketo Engage Admin’s role is still an Admin and is granted to a user in Marketo Engage.
 
 **Is there any change in API client support?**
 
-Yes. Those who've been onboarded to Adobe IMS cannot utilize the existing Marketo User Management APIs. They would use the [IMS APIs](https://www.adobe.io/apis/experienceplatform/umapi-new.html).
+Yes. Those who've been onboarded to Adobe IMS cannot utilize all the existing Marketo User Management APIs. For user invite, update, and deletion actions, the [IMS APIs](https://www.adobe.io/apis/experienceplatform/umapi-new.html) should be used. For role management, the Marketo User Management APIs still apply.
 
 **Who do we contact for support?**
 
@@ -55,15 +61,15 @@ You would follow the standard procedure for contacting [Marketo Support](https:/
 
 **Are Marketo user roles (within workspaces) managed in Adobe Admin Console?**
 
-No. User Role management (within workspaces) is completed in Marketo.
+No. User Role management (within workspaces) is completed in Marketo Engage.
 
 **I'm a Marketo Admin and don't have access to the Admin Console. How do I gain access?**
 
-Any system or product administrator that has access to your organization's Admin Console can give you access. If you're not sure who in your organization has admin privileges in the console, contact [Adobe Customer Care](https://helpx.adobe.com/contact.html).
+Any Adobe System or Product Admin that has access to your organization's Admin Console can give you access. If you're not sure who in your organization has admin privileges in the console, contact [Adobe Customer Care](https://helpx.adobe.com/contact.html).
 
 **How would an Admin add users to Marketo Sales Connect?**
 
-While there will be a product card in AC for Sales Connect, AC should not be used to add/manage users. The following link will allow Admins to manage users via Marketo Sales Connect: [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management).
+While there will be a product card in Admin Console for Sales Connect, Admin Console should not be used to add/manage users. The following link will allow Admins to manage users via Marketo Sales Connect: [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management).
 
 **Where can I learn more about the Adobe Admin Console?**
 
@@ -91,7 +97,7 @@ No. The User Invite workflow is no longer active when a subscription is IMS-enab
 
 **For Adobe IMS, do we have the option to use Adobe ID, Enterprise ID, or Federated ID?**
 
-Yes, you determine the type of identity to have your organization support. More info [here](https://helpx.adobe.com/enterprise/using/identity.html) and [here](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+Yes, you determine the type of identity to have your organization support. More info can be found here: [Identity Overview](https://helpx.adobe.com/enterprise/using/identity.html) and here: [Set up Identity](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
 
 >[!MORELIKETHIS]
 >

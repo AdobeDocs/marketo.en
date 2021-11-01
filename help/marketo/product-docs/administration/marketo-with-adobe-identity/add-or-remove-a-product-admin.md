@@ -52,6 +52,12 @@ hidefromtoc: yes
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
+The user will then receive two emails. The first email notifies them they've been granted Product Admin rights to Marketo Engage. The second email invites them to sign in to Marketo Engage.
+
+>[!NOTE]
+>
+>When the product admin user is added to Marketo Engage via the Adobe Admin Console, the user is granted the Adobe Product Admin role within the subscription.
+
 ## Remove an Admin {#remove-a-user}
 
 1. Log in to the [Adobe Admin Console](https://adminconsole.adobe.com/).
@@ -77,3 +83,5 @@ hidefromtoc: yes
 1. Click **Remove Admin** to confirm.
 
    ![](assets/add-or-remove-a-product-admin-16.png)
+
+The user will then receive an email notifying them they no longer have Product Admin access to Marketo Engage.

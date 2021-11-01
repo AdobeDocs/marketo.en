@@ -42,6 +42,10 @@ hidefromtoc: yes
 
 The user will then receive an email to log in to Marketo.
 
+>[!NOTE]
+>
+>When the user is added to Marketo Engage via the Adobe Admin Console, they're granted the "Standard User" role within the Default workspace of the subscription. If the user’s role within the workspace needs to be adjusted, that is done in Marketo Engage, [as described here](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+
 ## Remove a User {#remove-a-user}
 
 1. Log in to the [Adobe Admin Console](https://adminconsole.adobe.com/).
@@ -67,6 +71,8 @@ The user will then receive an email to log in to Marketo.
 1. Click **Remove User** to confirm.
 
    ![](assets/add-or-remove-a-user-14.png)
+
+The user will then receive an email notifying them they no longer have Product Admin access to Marketo Engage.
 
 >[!MORELIKETHIS]
 >

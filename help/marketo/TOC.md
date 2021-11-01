@@ -212,6 +212,7 @@ feature-set: Marketo Engage
     + Marketo with Adobe Identity {#marketo-with-adobe-identity}
       + [Overview](product-docs/administration/marketo-with-adobe-identity/overview.md)
       + [Admin Setup](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
+      + [Product Admin Setup](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
       + [Add or Remove a Product Admin](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
       + [Add or Remove a User](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
     + Settings {#settings}
