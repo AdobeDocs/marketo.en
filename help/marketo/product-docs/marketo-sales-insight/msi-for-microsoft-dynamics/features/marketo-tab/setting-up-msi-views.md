@@ -1,8 +1,6 @@
 ---
 description: Setting up MSI Views - Marketo Docs - Product Documentation
 title: Setting up MSI Views
-hide: yes
-hidefromtoc: yes
 ---
 # Setting up MSI Views {#setting-up-msi-views}
 

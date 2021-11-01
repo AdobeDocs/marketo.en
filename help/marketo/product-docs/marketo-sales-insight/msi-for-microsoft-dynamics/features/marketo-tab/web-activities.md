@@ -1,8 +1,6 @@
 ---
 description: Web Activities - Marketo Docs - Product Documentation
 title: Web Activities
-hide: yes
-hidefromtoc: yes
 ---
 # Web Activities {#web-activities}
 
