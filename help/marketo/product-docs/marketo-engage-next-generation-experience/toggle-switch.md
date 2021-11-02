@@ -6,44 +6,56 @@ hidefromtoc: yes
 ---
 # Toggle Switch {#toggle-switch}
 
-The Toggle Switch allows you to switch between Marketo's classic interface and the new next-gen Marketo Engage experience. It is available in the Landing Page List View, and on Form detail pages.
+The Toggle Switch allows you to switch between Marketo's classic interface and the new next-gen Marketo Engage experience. It's available in the Landing Page List View and on Form detail pages.
+
+>[!NOTE]
+>
+>When the Toggle Switch is selected, all existing workflows will be autosaved prior to the UI change occurring. If an operation is already in progress (ex: an asset is in the process of being approved), you'll receive an error message indicating as such and should try again after the operation is completed.
 
 ## Landing Page List View {#landing-page-list-view}
 
 In Marketo, select **Design Studio**.
 
-PICC
+   ![](assets/toggle-switch-1.png)
 
 Select **Landing Pages**.
 
-PICC
+   ![](assets/toggle-switch-2.png)
 
 In the bottom-right of the page, click the **New Experience** toggle.
 
-PICC
+   ![](assets/toggle-switch-3.png)
 
-text
+The new experience will load.
+
+   ![](assets/toggle-switch-4.png)
+
+>[!NOTE]
+>
+>The new Landing Page list view offers search filters and the ability to perform mass Landing Page actions.
 
 ## Form Details Page {#form-details-page}
 
 In Marketo, find and select your form.
 
-PICC
+   ![](assets/toggle-switch-5.png)
 
 In the bottom-right of the page, click the **New Experience** toggle.
 
-PICC
+   ![](assets/toggle-switch-6.png)
 
-text
+The new experience will load.
 
-PICC
+   ![](assets/toggle-switch-7.png)
 
 ## Enable for All Features {#enable-for-all-features}
 
 You have the option of enabling Marketo's next-gen interface for all available features, current and forthcoming.
 
-In an area that currently has the Toggle Switch (in this example we're in [Landing Page List View](#landing-page-list-view)), click the gear icon in the bottom-right of the page.
+In an area that currently has the Toggle Switch (in this example we're in [Form Details Page](#form-details-page)), click the gear icon in the bottom-right of the page.
 
-PICC
+   ![](assets/toggle-switch-8.png)
 
 Select **Enable for all available features** and click **OK**.
+
+   ![](assets/toggle-switch-9.png)
