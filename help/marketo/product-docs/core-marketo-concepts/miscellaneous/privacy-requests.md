@@ -184,3 +184,7 @@ JSON Response
   ]
 }
 ```
+
+>[!MORELIKETHIS]
+>
+>[Privacy Management](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
