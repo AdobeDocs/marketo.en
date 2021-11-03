@@ -35,16 +35,16 @@ To make requests to access and delete data for Marketo Engage, you must:
 “companyContexts”:
 
 * “namespace”: **imsOrgID**
-* “value”: <Your IMS Org ID Value>
+* “value”: `<Your IMS Org ID Value>`
 
 “users”:
 
-* “key”: <Your Request Tracking Key>   (optional)
+* “key”: `<Your Request Tracking Key>`   (optional)
 * “action”: either **access** or **delete**
 * “userIDs”:
   * “namespace”: **email**
   * “type”: **standard**
-  * “value”: <Data Subject’s Email Address>
+  * “value”: `<Data Subject’s Email Address>`
 
 “include”:
 
