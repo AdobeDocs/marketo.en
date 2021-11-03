@@ -1,8 +1,6 @@
 ---
 description: Toggle Switch - Marketo Docs - Product Documentation
 title: Toggle Switch
-hide: yes
-hidefromtoc: yes
 ---
 # Toggle Switch {#toggle-switch}
 
@@ -14,15 +12,17 @@ The Toggle Switch allows you to switch between Marketo's classic interface and t
 
 ## Landing Page List View {#landing-page-list-view}
 
-In Marketo, select **Design Studio**.
+The next-gen Landing Page list view offers search filters and the ability to perform mass Landing Page actions.
+
+1. In Marketo, select **Design Studio**.
 
    ![](assets/toggle-switch-1.png)
 
-Select **Landing Pages**.
+1. Select **Landing Pages**.
 
    ![](assets/toggle-switch-2.png)
 
-In the bottom-right of the page, click the **New Experience** toggle.
+1. In the bottom-right of the page, click the **New Experience** toggle.
 
    ![](assets/toggle-switch-3.png)
 
@@ -30,17 +30,13 @@ The new experience will load.
 
    ![](assets/toggle-switch-4.png)
 
->[!NOTE]
->
->The new Landing Page list view offers search filters and the ability to perform mass Landing Page actions.
-
 ## Form Details Page {#form-details-page}
 
-In Marketo, find and select your form.
+1. In Marketo, find and select your form.
 
    ![](assets/toggle-switch-5.png)
 
-In the bottom-right of the page, click the **New Experience** toggle.
+1. In the bottom-right of the page, click the **New Experience** toggle.
 
    ![](assets/toggle-switch-6.png)
 
@@ -52,10 +48,10 @@ The new experience will load.
 
 You have the option of enabling Marketo's next-gen interface for all available features, current and forthcoming.
 
-In an area that currently has the Toggle Switch (in this example we're in [Form Details Page](#form-details-page)), click the gear icon in the bottom-right of the page.
+1. In an area that currently has the Toggle Switch (in this example we're in [Form Details Page](#form-details-page)), click the gear icon in the bottom-right of the page.
 
    ![](assets/toggle-switch-8.png)
 
-Select **Enable for all available features** and click **OK**.
+1. Select **Enable for all available features** and click **OK**.
 
    ![](assets/toggle-switch-9.png)

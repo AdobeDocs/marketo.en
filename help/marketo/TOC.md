@@ -498,6 +498,8 @@ feature-set: Marketo Engage
       + [Importing Assets with Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
       + [Keyboard Shortcuts Glossary](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
       + [Marketo Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
+      + [Privacy Management](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
+      + [Privacy Requests](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
       + [Rename a Marketo Asset](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
       + [Set up Adobe Experience Cloud Audience Sharing](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
       + [Sync an Audience From Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
