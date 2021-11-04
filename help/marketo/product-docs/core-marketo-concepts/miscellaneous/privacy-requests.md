@@ -6,6 +6,10 @@ title: Privacy Requests
 
 This document provides an overview of managing individual data privacy requests that you can send to Marketo Engage through the Privacy Service UI and the **Privacy Service API**.
 
+>[!NOTE]
+>
+>Privacy requests submitted through Privacy Service UI or API for Marketo Engage apply only to those who have Marketo Engage + RT-CDP, B2B and B2P Editions.
+
 You can submit individual requests to access and delete consumer data from Marketo Engage in two ways:
 
 * Through the [Privacy Service UI](https://privacyui.cloud.adobe.io/). See the documentation [here](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_ui_tutorial.md).
@@ -13,13 +17,11 @@ You can submit individual requests to access and delete consumer data from Marke
 
 The [Privacy Service](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html) supports two types of requests: data access and data deletion.
 
-Note: Privacy requests submitted through Privacy Service UI or API for Marketo Engage apply only to customers who have Marketo Engage + RT-CDP, B2B and B2P Editions.
-
 Let’s see how you can create Access and Delete requests.
 
 ## Required setup to send requests for Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
 
-To make requests to access and delete data for Marketo Engage, you must:
+To make requests to Access and Delete data for Marketo Engage, you must:
 
 1. Identify the following:
 
@@ -39,7 +41,6 @@ To make requests to access and delete data for Marketo Engage, you must:
 
 “users”:
 
-* “key”: `<Your Request Tracking Key>`   (optional)
 * “action”: either **access** or **delete**
 * “userIDs”:
   * “namespace”: **email**
@@ -52,7 +53,7 @@ To make requests to access and delete data for Marketo Engage, you must:
 
 “regulation”:
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd**, or **nzpa**  (which is the privacy regulation that applies to the request)
+* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra**, or **nzpa_nzl**  (which is the privacy regulation that applies to the request)
 
 ## Example One: GDPR Delete Request {#gdpr-delete-request}
 
@@ -68,7 +69,6 @@ JSON Request
   ],
   "users": [
     {
-      "key": "AAGDPRO1", 
       "action": [
         "delete"
       ],
@@ -99,7 +99,6 @@ JSON Response
       "jobId": "997b01e3-9568-402c-904b-b4e60a437875",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "delete"
           ],
@@ -117,7 +116,6 @@ JSON Response
     }
   ]
 }
-
 ```
 
 ## Example Two: CCPA Access Request {#ccpa-access-request}
@@ -134,7 +132,6 @@ JSON Request
   ],
   "users": [
     {
-      "key": "AAGDPRO1",
       "action": [
         "access"
       ],
@@ -165,7 +162,6 @@ JSON Response
       "jobId": " 3115e42d-011b-47ab-a2b0-ed4356af4d3e",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "access"
           ],
