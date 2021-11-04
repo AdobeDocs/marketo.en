@@ -105,7 +105,7 @@ JSON Response
           "userIDs": [
             {
               "namespace": "email",
-              "value": " john.doe@adobe.com",
+              "value": "john.doe@adobe.com",
               "type": "standard",
               "namespaceId": 6,
               "isDeletedClientSide": false
@@ -159,7 +159,7 @@ JSON Response
   "totalRecords": 1,
   "jobs": [
     {
-      "jobId": " 3115e42d-011b-47ab-a2b0-ed4356af4d3e",
+      "jobId": "3115e42d-011b-47ab-a2b0-ed4356af4d3e",
       "customer": {
         "user": {
           "action": [
@@ -168,7 +168,7 @@ JSON Response
           "userIDs": [
             {
               "namespace": "email",
-              "value": " john.doe@adobe.com",
+              "value": "john.doe@adobe.com",
               "type": "standard",
               "namespaceId": 6,
               "isDeletedClientSide": false
