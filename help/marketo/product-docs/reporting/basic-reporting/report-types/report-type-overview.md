@@ -44,7 +44,7 @@ When you [create a report in a program](/help/marketo/product-docs/reporting/bas
   </tr> 
   <tr> 
    <td><strong>  <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Landing Page Performance</a>  </strong></td> 
-   <td>Not a replacement for Google Analytics, but still really good information.</td> 
+   <td>Not a replacement for Adobe Analytics, but still really good information.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Program Performance</a>  </strong></td> 
