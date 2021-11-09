@@ -79,6 +79,6 @@ Bonus: If you save your advanced search, it will work as a dynamic list and add 
 
 >[!MORELIKETHIS]
 >
->* [Tasks]()
->* [Advanced Search Overview]()
->* [Composing Bulk Emails with Select and Send]()
+>* Tasks
+>* Advanced Search Overview
+>* Composing Bulk Emails with Select and Send

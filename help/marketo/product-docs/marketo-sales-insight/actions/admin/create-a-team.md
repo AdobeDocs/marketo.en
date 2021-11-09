@@ -4,7 +4,7 @@ title: Create a Team
 hide: yes
 hidefromtoc: yes
 ---
-# Create a Team {#create-a-team}
+# Creating a Team {#creating-a-team}
 
 Creating a team allows you to assemble a group of users that content can be shared with and reports can be filtered by.
 
