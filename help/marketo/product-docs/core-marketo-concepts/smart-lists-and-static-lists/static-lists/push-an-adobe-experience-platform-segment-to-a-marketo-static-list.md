@@ -99,13 +99,21 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-16.png)
 
-1. Choose your Target Field and click **Select**.
+1. Choose **Select Identity Namespace**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-17.png)
 
-1. Click **Next**.
+   >[!IMPORTANT]
+   >
+   >Mapping attributes is optional. Mapping Email and/or ECID from the **Identity Namespace** tab is the most important thing to do to ensure the person is matched in Marketo. Mapping Email will ensure the highest match rate.
+
+1. Choose between ECID or Email. In this example we're choosing **Email**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-18.png)
+
+1. Click **Next**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-19.png)
 
    >[!NOTE]
    >
@@ -113,7 +121,7 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
 1. _In Marketo_, create a static list, or find and select one you've already created. Copy the mapping ID from the end of the URL.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-19.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-20.png)
 
    >[!NOTE]
    >
@@ -121,8 +129,8 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
 1. Back in Adobe Experience Platform, enter the ID you just copied. Choose your Start Date. People will continuously sync until the chosen end date. For an indefinite sync, leave the end date blank. Click **Next** when done.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-20.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-21.png)
 
 1. Confirm your changes and click **Finish**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-21.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-22.png)
