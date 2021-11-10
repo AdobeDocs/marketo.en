@@ -18,9 +18,14 @@ If Sales Connect can’t track your prospect’s reply to your email, it won’t
 
 This means that if you email flynn@flynnsarcade.com and he responds with kevinf@flynnsarcade.com, we’re able to track the reply. Additionally, if you email flynn@flynnsarcade.com and CC alan@encom.com, and Alan writes you back, it will also detect the reply and end the campaign.
 
-## How Reply Tracking Works {#how-reply-tracking-works}
+## How to Track Your Email Attachments {#how-to-track-your-email-attachments}
 
 text
 
-## How to Track Your Email Attachments {#how-to-track-your-email-attachments}
+## How View Tracking Works {#how-view-tracking-works}
 
+text
+
+## Test Email Not Showed as Viewed {#test-email-not-showed-as-viewed}
+
+text
