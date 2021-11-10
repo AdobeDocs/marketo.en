@@ -6,10 +6,6 @@ exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 ---
 # Create a Guided Landing Page Template {#create-a-guided-landing-page-template}
 
->[!NOTE]
->
->Tired of reading? [Watch this cool video](https://youtu.be/3O7e4GdZKsM) with step-by-step instructions.
-
 Guided landing page templates have a special syntax. Use this syntax to specify what is customizable and where content will end up on each landing page built from your template. Only the regions or variables you specify as editable will be available for customization within the “Guided” landing page editor.
 
 >[!TIP]
