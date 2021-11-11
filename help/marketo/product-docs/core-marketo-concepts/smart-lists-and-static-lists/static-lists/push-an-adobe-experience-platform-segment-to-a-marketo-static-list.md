@@ -1,7 +1,6 @@
 ---
 description: Push an Adobe Experience Platform Segment to a Marketo Static List - Marketo Docs - Product Documentation
 title: Push an Adobe Experience Platform Segment to a Marketo Static List
-hidefromtoc: yes
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 ---
 # Push an Adobe Experience Platform Segment to a Marketo Static List {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
@@ -35,7 +34,6 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
 1. Click **Configure New Destination**.
 
-   PICC
 
 1. Under Account Type, click the **New Account** radio button. Enter your Marketo credentials and click **Connect to Destination**.
 
