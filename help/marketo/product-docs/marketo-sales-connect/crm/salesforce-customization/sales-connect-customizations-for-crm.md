@@ -34,6 +34,38 @@ The fields and buttons below are created by the Metadata API in Salesforce CRM. 
 
    ![](assets/five.png)
 
+## Update Salesforce Customization {#update-salesforce-customization}
+
+Updates to the Salesforce Customization package will include enhancements and bug fixes. To check if updates are available or to perform an update, follow the steps below.  
+
+>[!NOTE]
+>
+>**Admin permissions required.**
+
+1. In the [web application](https://www.toutapp.com), click the gear icon and select **Settings**.
+
+   ![](assets/sales-connect-customizations-for-crm-6.png)
+
+1. Under Admin Settings, click **Salesforce**.
+
+   ![](assets/sales-connect-customizations-for-crm-7.png)
+
+1. The Sales Connect Customization card will show if updates are available. Click **Update Customizations**.
+
+   ![](assets/sales-connect-customizations-for-crm-8.png)
+
+1. Click **Upgrade**.
+
+   ![](assets/sales-connect-customizations-for-crm-9.png)
+
+1. Wait for the updates to install. Depending on how many version numbers you need, the install time will vary.
+
+   ![](assets/sales-connect-customizations-for-crm-10.png)
+
+Once completed, your card will show “Your Sales Connect customizations are up to date."
+
+   ![](assets/sales-connect-customizations-for-crm-11.png)
+
 ## Custom Activity Fields {#custom-activity-fields}
 
 Marketo will detect the creation of the new fields then do a one-time backfill of data, a re-mapping, and an ongoing sync of values into the **new** fields only. Old fields will not be updated.
