@@ -1,8 +1,6 @@
 ---
-description: 
-Email Columns and Email Page Layout - Marketo Docs - Product Documentation
-title: 
-Email Columns and Email Page Layout
+description: Email Columns and Email Page Layout - Marketo Docs - Product Documentation
+title: Email Columns and Email Page Layout
 hide: yes
 hidefromtoc: yes
 ---
