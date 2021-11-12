@@ -79,4 +79,4 @@ Several critical updates to Bulk and Lead APIs, including the ability to export 
 
 **_Product Release Webinar_**
 
-Want to learn more about these features and enhancements? Be sure to [register now](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html) to join us on May 13 at 9:00 AM PT / 12:00 PM ET for a live webinar with our product team to take a deeper dive into these innovations.
+[May 2021 Marketo Engage Release Webinar](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html)

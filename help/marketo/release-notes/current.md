@@ -71,4 +71,6 @@ The following features are on a non-quarterly cycle and will be released through
 
 **Associate Lead Deprecation/Munchkin Beta 161 Update**: On September 7th, 2021, version 161 of Munchkin began rolling out to 10% of subscriptions with Munchkin Beta enabled, followed by 50% on September 16th, and 100% on September 30th. This change affects Marketo Engage landing pages and the version of the file munchkin-beta.js served to external landing pages which are loaded from subscriptions that the recent version has been rolled out to. This version fully deprecates the Munchkin Associate Lead method, which is a feature that allows the submission of a person’s data to a Marketo Engage subscription and associated web browsing history with a known person record. Associate Lead is being removed in favor of more modern and secure alternatives, like the Forms JS API, the Form Submit API, and the Associate Lead REST API. [Learn more about this deprecation here](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
 
-Want to learn more about these features and enhancements? Be sure to [register now](https://engage.marketo.com/October_Release_RegistrationPage.html) to join us on October 28, 2021, at 9:00 AM PT / 12:00 PM ET for a live webinar with our product team to take a deeper dive into these innovations.
+**_Product Release Webinar_**
+
+[October 2021 Marketo Engage Release Webinar](https://engage.marketo.com/October_Release_Webinar_On-Demand.html)

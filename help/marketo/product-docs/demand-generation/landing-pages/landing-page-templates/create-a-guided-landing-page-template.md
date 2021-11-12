@@ -35,7 +35,7 @@ The content of an element with class mktoText (if provided) will be used as the 
 
 Example:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
+`<div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div>`
 
 ## Image {#image}
 
@@ -54,7 +54,7 @@ mktoImgClass: String. The value here will be added to the class attribute of the
 
 Example:
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image"></div></pre>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
 ## Option 2 - Use a `<img>` {#option-use-a-img}
 
@@ -68,7 +68,7 @@ src: String URL. This will be used as the default value for the image.
 
 Example:
 
-`<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
+`<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
 >[!NOTE]
 >
@@ -81,7 +81,7 @@ Example:Required attributes:
 **id**: ID string. Contains only letters, numbers, dash "-", and underscore "_". No spaces allowed. Must be unique.  
 **mktoName** : String. This is the display name that will be shown in the landing page editor. Best practice is to use a descriptive name.
 
-`<pre data-theme="Confluence"><div class="mktoForm" id="exampleForm" mktoName="Example Form"></div></pre>`
+`<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
 
 ## Snippet {#snippet}
 
@@ -92,7 +92,7 @@ Required attributes:
 
 Example:
 
-`<pre data-theme="Confluence"><div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div></pre>`
+`<div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div>`
 
 ## Share Button {#share-button}
 
@@ -103,7 +103,7 @@ Required attributes:
 
 Example:
 
-`<pre data-theme="Confluence"><div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div></pre>`
+`<div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div>`
 
 ## Video {#video}
 
@@ -118,7 +118,7 @@ Required attributes:
 
 Example:
 
-`<pre data-theme="Confluence"><div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div></pre>`
+`<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
 
 ## Poll {#poll}
 
@@ -129,7 +129,7 @@ Required attributes:
 
 Example:
 
-`<pre data-theme="Confluence"><div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div></pre>`
+`<div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div>`
 
 ## Referral {#referral}
 
@@ -140,7 +140,7 @@ Required attributes:
 
 Example:
 
-`<pre data-theme="Confluence"><div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div></pre>`
+`<div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div>`
 
 ## Sweepstakes {#sweepstakes}
 
@@ -151,7 +151,7 @@ Required attributes:
 
 Example:
 
-`<pre data-theme="Confluence"><div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div></pre>`
+`<div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div>`
 
 ## Editable Variables {#editable-variables}
 
@@ -159,7 +159,7 @@ All variable types are used by referencing the value of their id attribute wrapp
 
 Example:
 
-`<pre data-theme="Confluence">${var1}</pre>`
+`${var1}`
 
 **Declaration:**
 
@@ -178,11 +178,11 @@ Optional:
 
 Basic Example:
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="var1" mktoName="My Variable"></pre>`
+`<meta class="mktoString" id="var1" mktoName="My Variable">`
 
 Example with all attributes:
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="var1" mktoName="My Variable" default="This is my default value" allowHtml="true"></pre>`
+`<meta class="mktoString" id="var1" mktoName="My Variable" default="This is my default value" allowHtml="true">`
 
 ## Color {#color}
 
@@ -196,11 +196,11 @@ Optional:
 
 Basic Example:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color1" mktoName="My Color Variable"></pre>` 
+`<meta class="mktoColor" id="color1" mktoName="My Color Variable">` 
 
 Example with all attributes:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`
+`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
 ## Boolean {#boolean}
 
@@ -218,15 +218,15 @@ Optional:
 
 Basic Example:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`
+`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable"></pre>`
+`<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable">`
 
 Example with all attributes:
 
 This example shows a common use case where a boolean variable controls the visibility of a css element by setting the value of css display property to either "block" or "none" to show/hide an element by id with CSS. The landing page editor will use the display name Show/Hide instead of OFF/ON.
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style></pre>`
+`<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style>`
 
 >[!NOTE]
 >

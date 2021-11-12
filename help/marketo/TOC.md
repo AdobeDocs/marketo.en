@@ -1263,6 +1263,25 @@ feature-set: Marketo Engage
         + [My Dynamic Fields Aren't Filling Out](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
         + [Reference Yourself in a Dynamic Field](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
   + Marketo Sales Insight {#marketo-sales-insight}
+    + Actions {#actions}
+      + Admin {#admin}
+        + [Blocked Domains](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
+        + [Content Lockdown](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
+        + [Create a Team](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+        + [How to Set up Custom Domain Tracking](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
+        + [Invite Users and Admins](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+        + [Sharing Settings](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+      + Email {#email}
+        + Command Center {#command-center}
+          + [Advanced Search Overview](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
+          + [Assigning Tasks to Team Members](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
+          + [Command Center Overview](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
+          + [Email Columns and Email Page Layout](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
+          + [Quick Actions in the Command Center](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+      + Email Settings {#email-settings}
+        + [Verify Your Email](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+      + Send a Sales Email {#send-a-sales-email}
+        + [Email Tracking Overview](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
     + Using MSI {#using-msi}
       + [Log Inbound Mail From Your Leads in Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
     + MSI Chrome Plugin {#msi-chrome-plugin}
