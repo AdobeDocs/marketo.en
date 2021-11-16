@@ -12,6 +12,10 @@ If you have multiple Google Adwords accounts, you can use a [Google AdWords Mana
 
 Learn more about [Google’s offline conversion import feature](https://support.google.com/adwords/answer/2998031?hl=en).
 
+>[!AVAILABILITY]
+>
+>Not all customers have purchased this feature. Please contact your Customer Success Manager for details.
+
 >[!NOTE]
 >
 >**Admin Permissions Required**

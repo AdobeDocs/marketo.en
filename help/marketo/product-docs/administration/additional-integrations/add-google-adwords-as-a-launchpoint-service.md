@@ -10,6 +10,10 @@ Link your Google AdWords account to Marketo to automatically upload offline conv
 
 Learn more about [Google’s offline conversion import feature](https://support.google.com/adwords/answer/2998031?hl=en).
 
+>[!AVAILABILITY]
+>
+>Not all customers have purchased this feature. Please contact your Customer Success Manager for details.
+
 >[!NOTE]
 >
 >**Admin Permissions Required**
