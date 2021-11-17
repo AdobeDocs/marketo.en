@@ -1279,6 +1279,9 @@ feature-set: Marketo Engage
           + [Command Center Overview](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
           + [Email Columns and Email Page Layout](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
           + [Quick Actions in the Command Center](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+        + Unsubscribes {#unsubscribes}
+          + [Unsubscribe Overview](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
+          + [Customize Unsubscribe Link Message](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
       + Email Settings {#email-settings}
         + [Verify Your Email](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
       + Marketo {#marketo}
