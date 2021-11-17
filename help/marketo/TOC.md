@@ -1271,6 +1271,7 @@ feature-set: Marketo Engage
         + [How to Set up Custom Domain Tracking](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
         + [Invite Users and Admins](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
         + [Sharing Settings](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+        + [User Access Details](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
       + Email {#email}
         + Command Center {#command-center}
           + [Advanced Search Overview](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
