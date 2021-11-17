@@ -1267,7 +1267,7 @@ feature-set: Marketo Engage
       + Admin {#admin}
         + [Blocked Domains](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
         + [Content Lockdown](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
-        + [Create a Team](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+        + [Creating a Team](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
         + [How to Set up Custom Domain Tracking](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
         + [Invite Users and Admins](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
         + [Sharing Settings](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
@@ -1280,6 +1280,8 @@ feature-set: Marketo Engage
           + [Quick Actions in the Command Center](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
       + Email Settings {#email-settings}
         + [Verify Your Email](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+      + Marketo {#marketo}
+        + [Grant Marketo Access to Users](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
       + Send a Sales Email {#send-a-sales-email}
         + [Email Tracking Overview](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
     + Using MSI {#using-msi}
