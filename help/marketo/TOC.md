@@ -1282,12 +1282,16 @@ feature-set: Marketo Engage
         + Unsubscribes {#unsubscribes}
           + [Unsubscribe Overview](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
           + [Customize Unsubscribe Link Message](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
+          + [Marketo Unsubscribe Check](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
+          + [Syncing Unsubscribes with Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
       + Email Settings {#email-settings}
         + [Verify Your Email](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
       + Marketo {#marketo}
         + [Grant Marketo Access to Users](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
       + Send a Sales Email {#send-a-sales-email}
         + [Email Tracking Overview](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
+      + Templates {#templates}
+        + [Manage Template Categories](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
     + Using MSI {#using-msi}
       + [Log Inbound Mail From Your Leads in Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
     + MSI Chrome Plugin {#msi-chrome-plugin}

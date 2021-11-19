@@ -12,7 +12,7 @@ By enabling content lockdown, restrict non-Admin users from editing templates an
 >
 >Users will still be able to edit the content of an email at the time of sending, or when launching a campaign.
 
-1. In the [web application](https://toutapp.com/login), click the gear icon and select **Settings**.
+1. Click the gear icon and select **Settings**.
 
    ![](assets/content-lockdown-1.png)
 
