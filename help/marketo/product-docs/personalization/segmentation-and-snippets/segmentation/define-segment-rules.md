@@ -16,11 +16,11 @@ Defining Segment Rules allows you to categorize your people into different mutua
 
    ![](assets/image2017-3-28-14-3a7-3a42.png)
 
-1. Click on the **Segmentation** from the tree, then click a particular **Segment**.
+1. Select **Segmentation** from the tree, then click a particular **Segment**.
 
    ![](assets/image2017-3-28-14-3a11-3a15.png)
 
-1. Click on **Smart List** and add filters.
+1. Click **Smart List** and add filters.
 
    ![](assets/image2017-3-28-14-3a18-3a19.png)
 
@@ -36,9 +36,9 @@ Defining Segment Rules allows you to categorize your people into different mutua
 
    ![](assets/image2017-3-28-14-3a18-3a33.png)
 
-   >[!NOTE]
+   >[!CAUTION]
    >
-   >Smart Lists are awesome. [Learn more about them](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md).
+   >We advise _against_ the use of Account fields when defining segment rules, as it can cause activity logging issues.
 
 1. Click the **People (Draft)** tab to view the people that may qualify to be a member of this segment.
 

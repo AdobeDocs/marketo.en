@@ -18,7 +18,7 @@ You need to install the Marketo Sales Insight app in your Salesforce subscriptio
 
 1. Go to the [AppExchange page for Marketo Sales Insight](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) and click **Get it Now**.
 
-   ![](assets/one.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 
 1. Click **Log in to the AppExchange** button and log in with your Salesforce credentials.
 
