@@ -32,5 +32,4 @@ You can submit a Support case requesting a one-time instance copy to fill your s
 
 >[!NOTE]
 >
->* Instance copy is **not** supported if the source instance is integrated with Microsoft Dynamics.
->* If you're changing your native CRM, a new Marketo instance would be needed, and an instance copy to the new Marketo instance would not be possible. Instead, please work with Marketo Support to explore the Import Program functionality.
+>If you're changing your native CRM, a new Marketo instance would be needed, and an instance copy to the new Marketo instance would not be possible. Instead, please work with Marketo Support to explore the Import Program functionality.
