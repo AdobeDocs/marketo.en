@@ -1272,6 +1272,10 @@ feature-set: Marketo Engage
         + [Invite Users and Admins](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
         + [Sharing Settings](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
         + [User Access Details](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
+      + CRM {#crm}
+        + Salesforce Integration {#salesforce-integration}
+          + [Connect Your Marketo Sales Account to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
+          + [Salesforce Sync Settings](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
       + Email {#email}
         + Command Center {#command-center}
           + [Advanced Search Overview](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1291,6 +1295,7 @@ feature-set: Marketo Engage
       + Send a Sales Email {#send-a-sales-email}
         + [Email Tracking Overview](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + Templates {#templates}
+        + [Manage Templates](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
         + [Manage Template Categories](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
     + Using MSI {#using-msi}
       + [Log Inbound Mail From Your Leads in Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

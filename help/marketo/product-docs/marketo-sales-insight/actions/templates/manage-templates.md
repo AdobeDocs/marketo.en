@@ -28,6 +28,31 @@ hidefromtoc: yes
 >
 >Always type text directly into the template, or copy from a plain text editor (e.g., Notepad or TextEdit). Copying and pasting from a rich text editor (e.g., MS Word) can cause formatting irregularities.
 
+## View Template Details {#view-template-details}
+
+The Template Details area contains multiple tabs.
+
+   ![](assets/manage-templates-4a.png)
+
+<table>
+ <tr>
+  <td><strong>Template</strong></td>
+  <td>Review and make edits, set up criteria to make the template a recommended template, add notes</td>
+ </tr>
+ <tr>
+  <td><strong>Analytics</strong></td>
+  <td>Review engagement analytics for the template. Perform a filtered search.</td>
+ </tr>
+ <tr>
+  <td><strong>Emails</strong></td>
+  <td>View all emails that have been sent using this template. Perform a filtered search.</td>
+ </tr>
+ <tr>
+  <td><strong>Campaigns</strong></td>
+  <td>See which Campaigns the template is being used in.</td>
+ </tr>
+</table>
+
 ## Share a Template {#share-a-template}
 
 If you're using one of our team accounts, all of your templates are still private by default.
@@ -86,9 +111,17 @@ From the **View** drop-down, you can choose to see: all templates, your template
 
 Archive templates to keep your sales content organized and focused without losing any template data.
 
-Check the box next to a template and click **Archive**.
+1. Check the box next to the template you want to archive.
 
-PICC
+   ![](assets/manage-templates-14.png)
+
+1. Click **Archive**.
+
+   ![](assets/manage-templates-15.png)
+
+1. Click **Archive** to confirm.
+
+   ![](assets/manage-templates-16.png)
 
 >[!NOTE]
 >
@@ -104,14 +137,14 @@ Follow the steps below to delete a template.
 >
 >Deleting a template will also delete ALL tracking and analytics associated with it.
 
-1. Select the template you'd like to remove.
+1. Check the box next to the template you want to delete.
 
-PICC
+   ![](assets/manage-templates-17.png)
 
-1. Click the menu drop-down in the top right, then click **Delete**.
+1. Click **Delete**.
 
-PICC
+   ![](assets/manage-templates-18.png)
 
 1. Click **Delete** to confirm.
 
-PICC
+   ![](assets/manage-templates-19.png)
