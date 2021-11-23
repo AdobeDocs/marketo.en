@@ -12,7 +12,7 @@ The Command Center is a single, unified view that helps you figure out your next
 
 The email section of the Command Center is where you can manage all of your email activity. Think of it as your email outbox to review emails that have been sent from Sales Connect. Manage your scheduled emails, see who’s been engaging with your emails, check to see if there were any issues with your emails being delivered, and more.
 
-PICC
+   ![](assets/command-center-overview-1.png)
 
 The email section gives you a birds eye view into all of your emails and simplifies their organization with primary tabs and sub-tabs that act as folders where your emails are automatically stored based on their status.
 
@@ -67,7 +67,7 @@ The email section gives you a birds eye view into all of your emails and simplif
 
 The task section is your one-stop shop for managing and completing tasks. Here you can seamlessly manage your tasks to increase your productivity and stay focused on the most relevant items.
 
-PICC
+   ![](assets/command-center-overview-2.png)
 
 ## Follow-up with Engaged Prospects {#follow-up-with-engaged-prospects}
 

@@ -15,7 +15,7 @@ MSI Visualforce Panel includes the following functionalities:
 * Tabs
 
     * [Insights Dashboard](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-    * Interesting Moment
+    * Interesting Moments
     * Web Activity
     * Email
     * Score
@@ -189,4 +189,6 @@ Marketo Sales Insight is stored by language. So, if you want it to work for more
 
 >[!NOTE]
 >
->A contact/lead needs to be in the Default partition in order to be added to the Watchlist.
+>* A contact/lead needs to be in the Default partition in order to be added to the Watchlist.
+>
+>* The MSI Salesforce package doesn't support custom view with dependent fields.
