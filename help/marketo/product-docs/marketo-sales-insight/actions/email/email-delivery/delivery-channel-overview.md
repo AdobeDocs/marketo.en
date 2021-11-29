@@ -40,6 +40,12 @@ Marketo Sales servers are only available for some Legacy ToutApp customers. Thos
 
 Marketo Sales servers do not support DKIM and SPF authentication methods, which can lower the deliverability rate. Due to this we recommend that all customers connect to Gmail or Outlook for the best deliverability.
 
+## MSC Servers (Legacy) {#msc-servers-legacy}
+
+MSC servers are only available for some Legacy ToutApp customers. Those customers will see MSC servers available in their email settings. All non-legacy customers will not see MSC as an option and should connect their Gmail or Outlook account to Sales Connect to unlock a delivery channel.
+
+MSC servers do not support DKIM and SPF authentication methods, which can lower the deliverability rate. Due to this we recommend that all customers connect to Gmail or Outlook for the best deliverability.
+
 ## Marketo Servers {#marketo-servers}
 
 Marketo email servers do not integrate with Marketo Sales. Marketo servers are optimized for bulk delivery to allow them to scale with the needs of marketers. However, Gmail and Exchange have a higher success rate for 1:1 sales communication, which is why we recommend using these servers for your sales communication.

@@ -38,7 +38,7 @@ Defining Segment Rules allows you to categorize your people into different mutua
 
    >[!CAUTION]
    >
-   >We advise _against_ the use of Account fields when defining segment rules, as it can cause activity logging issues.
+   >Activity logging behavior for Account fields can impact qualification. Therefore, we advise against the use of Account fields when defining segment rules.
 
 1. Click the **People (Draft)** tab to view the people that may qualify to be a member of this segment.
 
