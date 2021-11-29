@@ -1290,7 +1290,7 @@ feature-set: Marketo Engage
           + [Syncing Unsubscribes with Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
       + Email Delivery {#email-delivery}
         + [Delivery Channel Overview](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
-        + [Email Connection Throttling](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
+        + [Email Connection Throttling](product-docs/marketo-sales-insight/actions/email-delivery/email-connection-throttling.md)
         + [Setting up a Custom Delivery Channel](product-docs/marketo-sales-insight/actions/email-delivery/setting-up-a-custom-delivery-channel.md)
       + Email Settings {#email-settings}
         + [Verify Your Email](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
