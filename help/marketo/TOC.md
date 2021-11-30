@@ -1267,7 +1267,6 @@ feature-set: Marketo Engage
       + Getting Started {#getting-started}
         + Email Settings {#email-settings}
           + [Verify Your Email](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
-        + [Blocked Domains](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
       + Admin {#admin}
         + [Blocked Domains](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
         + [Content Lockdown](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
