@@ -1264,6 +1264,10 @@ feature-set: Marketo Engage
         + [Reference Yourself in a Dynamic Field](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
   + Marketo Sales Insight {#marketo-sales-insight}
     + Actions {#actions}
+      + Getting Started {#getting-started}
+        + Email Settings {#email-settings}
+          + [Verify Your Email](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
+        + [Blocked Domains](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
       + Admin {#admin}
         + [Blocked Domains](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
         + [Content Lockdown](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1288,12 +1292,10 @@ feature-set: Marketo Engage
           + [Customize Unsubscribe Link Message](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
           + [Marketo Unsubscribe Check](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
           + [Syncing Unsubscribes with Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
-      + Email Delivery {#email-delivery}
-        + [Delivery Channel Overview](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
-        + [Email Connection Throttling](product-docs/marketo-sales-insight/actions/email-delivery/email-connection-throttling.md)
-        + [Setting up a Custom Delivery Channel](product-docs/marketo-sales-insight/actions/email-delivery/setting-up-a-custom-delivery-channel.md)
-      + Email Settings {#email-settings}
-        + [Verify Your Email](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+        + Email Delivery {#email-delivery}
+          + [Delivery Channel Overview](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
+          + [Email Connection Throttling](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
+          + [Setting up a Custom Delivery Channel](product-docs/marketo-sales-insight/actions/email/email-delivery/setting-up-a-custom-delivery-channel.md)
       + Marketo {#marketo}
         + [Grant Marketo Access to Users](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
       + Send a Sales Email {#send-a-sales-email}
