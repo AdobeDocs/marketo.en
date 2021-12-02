@@ -79,9 +79,7 @@ The Marketo Program Library contains pre-built, tested programs that you can imp
 
 Programs use external assets like email templates, landing page templates, images, forms, tokens, and program tags. You have the ability to configure how landing page templates and program tags are handled, and Marketo automatically manages the rest.
 
-**Email Templates:** Email templates are automatically imported and created unless one with the same name exists.
-
-**Landing Page Templates:** Landing page templates are imported into the design studio. You can use conflict rules to configure behavior when a template with the same name exists. Using the default rule, a number will be appended to a landing page template if one with the same name exists. For example, a landing page template named Standard Template 1 will be created if one named Standard Template exists.
+**Email/Landing Page Templates:** Email/Landing Page templates are imported into the Design Studio. You can use conflict rules to configure behavior when a template with the same name exists. Using the default rule, a number will be appended to a template if one with the same name exists. For example, if you already have a template named "Standard Template," the new one will be named "Standard Template 1."
 
 **Images:** Images used by landing pages are imported into the design studio unless one with the same name exists.
 
@@ -97,4 +95,4 @@ Programs use external assets like email templates, landing page templates, image
 
 >[!CAUTION]
 >
->When importing a program, landing pages/emails that contain [dynamic content](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) will be skipped.
+>When importing a program, emails/landing pages that contain [dynamic content](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) will be skipped.
