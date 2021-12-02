@@ -1267,6 +1267,9 @@ feature-set: Marketo Engage
       + Getting Started {#getting-started}
         + Email Settings {#email-settings}
           + [Verify Your Email](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
+          + [Add or Update Your Email Signature](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
+          + [Add Identity](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
+        + [Change Your Marketo Sales Password](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
       + Admin {#admin}
         + [Blocked Domains](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
         + [Content Lockdown](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1275,6 +1278,8 @@ feature-set: Marketo Engage
         + [Invite Users and Admins](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
         + [Sharing Settings](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
         + [User Access Details](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
+      + Campaigns {#campaigns}
+        + [Campaign Has Ended](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
       + CRM {#crm}
         + Salesforce Integration {#salesforce-integration}
           + [Connect Your Marketo Sales Account to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
@@ -1294,7 +1299,7 @@ feature-set: Marketo Engage
         + Email Delivery {#email-delivery}
           + [Delivery Channel Overview](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
           + [Email Connection Throttling](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
-          + [Setting up a Custom Delivery Channel](product-docs/marketo-sales-insight/actions/email/email-delivery/setting-up-a-custom-delivery-channel.md)
+          + [Set up a Custom Delivery Channel for Your Team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
       + Marketo {#marketo}
         + [Grant Marketo Access to Users](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
       + Send a Sales Email {#send-a-sales-email}
