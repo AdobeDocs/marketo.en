@@ -26,7 +26,7 @@ Admins can see all of the people on a running campaign.
 
 ![](assets/user-access-details-4.png)
 
-All people records can be accessed in the Everyone group.
+Admins can see users campaigns and campaign categories with the View As drop-down.
 
 ![](assets/user-access-details-5.png)
 
@@ -40,18 +40,12 @@ Admins can stop campaigns on behalf of users.
     * Users can drill into just the teams they belong to
     * Users can look at their own analytics
 
-* Relationships Page:
+* People Page:
 
     * Users can share groups with everyone
     * Users can share groups with just the teams they belong to
+    * Users will have visibility to all people in your Actions database
     * When a user is deleted, their shared contacts transfer ownership to the Master Admin who deleted the user
-
-* Sales Beat - Next and Live Feed:
-
-    * Users can view the ‘everyone’ view
-    * Users can filter by the team(s) they belong to
-    * User can share posts with everyone
-    * Users can share posts with just the team(s) they belong to
 
 * Team Management Page:
 

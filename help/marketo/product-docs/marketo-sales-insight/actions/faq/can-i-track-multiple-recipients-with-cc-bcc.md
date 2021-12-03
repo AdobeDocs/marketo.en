@@ -4,7 +4,7 @@ title: Can I Track Multiple Recipients with CC/BCC
 hide: yes
 hidefromtoc: yes
 ---
-# Can I Track Multiple Recipients with CC/BCC {#can-i-track-multiple-recipients-with-cc-bcc}
+# Can I Track Multiple Recipients with CC/BCC? {#can-i-track-multiple-recipients-with-cc-bcc}
 
 You can CC and BCC individuals like you normally would on your emails.
 
