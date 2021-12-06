@@ -12,19 +12,19 @@ Here's how to send/edit emails using the Group Email option.
 
 1. Click the **People** tab.
 
-   ![](assets/one-3.png)
+   PICC
 
 1. Select the group you'd like to email.
 
-   ![](assets/two-3.png)
+   PICC
 
 1. Click the Group Actions button and select **Email Group**.
 
-   ![](assets/three-3.png)
+   PICC
 
 1. Fill out your email (or select a template) and send (or schedule) it.
 
-   ![](assets/four-3.png)
+   PICC
 
 ## Editing a Group Email {#editing-a-group-email}
 
@@ -32,19 +32,19 @@ Here's how to send/edit emails using the Group Email option.
 
 1. Choose a template, or fill out your email.
 
-   ![](assets/edit-two.png)
+   PICC
 
 1. With the email done, you can now preview each email in the list to see if the dynamic fields are populating correctly.
 
-   ![](assets/edit-three.png)
+   PICC
 
 1. Select the desired recipient.
 
-   ![](assets/edit-four.png)
+   PICC
 
 1. Click **Preview Dynamic Fields**, and view the preview on the right.
 
-   ![](assets/edit-five.png)
+   PICC
 
    >[!NOTE]
    >
