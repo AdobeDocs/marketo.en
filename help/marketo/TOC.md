@@ -1171,7 +1171,6 @@ feature-set: Marketo Engage
         + [Campaign Has Ended](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
         + [CC or BCC in Emails](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
         + [Email Marked as Spam](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
-        + [Sending File Attachments in Your Email](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
       + The Live Feed {#the-live-feed}
         + [Incorrect Recipient Location](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
         + [Live Feed Overview](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
@@ -1291,15 +1290,21 @@ feature-set: Marketo Engage
           + [Command Center Overview](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
           + [Email Columns and Email Page Layout](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
           + [Quick Actions in the Command Center](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+        + Email Delivery {#email-delivery}
+          + [Delivery Channel Overview](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
+          + [Email Connection Throttling](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
+          + [Set up a Custom Delivery Channel for Your Team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
         + Unsubscribes {#unsubscribes}
           + [Unsubscribe Overview](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
           + [Customize Unsubscribe Link Message](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
           + [Marketo Unsubscribe Check](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
           + [Syncing Unsubscribes with Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
-        + Email Delivery {#email-delivery}
-          + [Delivery Channel Overview](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
-          + [Email Connection Throttling](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
-          + [Set up a Custom Delivery Channel for Your Team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
+        + Using the Compose Window {#using-the-compose-window}
+          + [Add an Attachment or Trackable Content to Your Email](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
+          + [Adding Highspot Content to Your Email](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
+          + [Bulk Emailing Options](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
+          + [Composing Bulk Emails with Select and Send](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+          + [Sending Emails via Group Email](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
       + Marketo {#marketo}
         + [Grant Marketo Access to Users](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
       + Send a Sales Email {#send-a-sales-email}

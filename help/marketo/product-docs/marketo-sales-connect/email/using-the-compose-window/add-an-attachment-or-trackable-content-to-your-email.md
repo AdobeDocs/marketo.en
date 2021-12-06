@@ -8,6 +8,10 @@ exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 
 When sending an email through Sales Connect, you have the option of adding a file as an attachment, or making a file a downloadable (and trackable) link.
 
+>[!NOTE]
+>
+>Typically, any file over 20MB will be too large to be delivered. The size of an attachment you can send via email varies depending on the email delivery channel you’re using.
+
 ## Add an Attachment {#add-an-attachment}
 
 1. Create your email draft (there are multiple ways to do this, in this example we're choosing **Compose** in the header).
