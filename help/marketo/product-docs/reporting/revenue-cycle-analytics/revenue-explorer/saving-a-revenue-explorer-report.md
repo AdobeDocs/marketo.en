@@ -27,3 +27,7 @@ Revenue Explorer reports can be saved to the file of your choice.
 >[!MORELIKETHIS]
 >
 >[Subscribe to a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+
+   >[!NOTE]
+   >
+   >To share a direct link to your Revenue Explorer report, right click the report tab and navigate to "Share Deep Link". This will enable any other Marketo users with access in your instance to be linked directly to the report/dashboard without having to navigate the file tree first. This link will not work for external stakeholders who do not have Marketo access to the RCE app.
