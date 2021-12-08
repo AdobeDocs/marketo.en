@@ -24,19 +24,19 @@ That's up to you! You decide what information is relevant to your sales team. Yo
 
 1. Choose a [smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), preferably one your sales team would find interesting if triggered.
 
-   ![](assets/image2015-1-8-18-3a8-3a54.png)
+   ![](assets/using-interesting-moments-1.png)
 
 1. Drag over the **Interesting Moments** flow step.
 
-   ![](assets/image2015-1-8-18-3a15-3a20.png)
+   ![](assets/using-interesting-moments-2.png)
 
 1. Select a **type** (Email, Milestone, or Web).
 
-   ![](assets/image2015-1-8-18-3a17-3a16.png)
+   ![](assets/using-interesting-moments-3.png)
 
 1. Write a message to your sales team in the **Description** field that explains why this action matters.
 
-   ![](assets/image2015-1-8-18-3a18-3a23.png)
+   ![](assets/using-interesting-moments-4.png)
 
    >[!NOTE]
    >
@@ -54,16 +54,30 @@ Tokens! Add them in the description field to provide your sales team with more s
 
 Interesting moments will be displayed in a [lead's activity log](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
-![](assets/image2015-1-14-18-3a45-3a58.png)
+![](assets/using-interesting-moments-5.png)
 
 ## What does an interesting moment look like in Salesforce?  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
 Once you've [installed the Marketo Sales Insight App](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), interesting moments will display on the lead, contact, account, or opportunity pages. They also appear in the Sales Insight dashboard in the Lead Feed, Best Bets, and Watch List.
 
-![](assets/six.png)
+![](assets/using-interesting-moments-6.png)
 
 ## What does an interesting moment look like in Salesforce1? {#what-does-an-interesting-moment-look-like-in-salesforce-1}
 
 After you've installed or updated Marketo Sales Insight for Salesforce1, interesting moments will display under the lead's related links.
 
-![](assets/seven.png)
+![](assets/using-interesting-moments-7.png)
+
+## Subscribe to Interesting Moments {#subscribe-to-interesting-moments}
+
+You can subscribe to an Interesting Moment by clicking the Subscribe button either in the Interesting Moment tab or in the Lead Feed. The steps below are the same for both.
+
+1. Click the Subscribe icon. You will then be navigated to the Email Subscribe tab.
+
+1. You can choose the type of email alert you'd like to receive based on Name, Account, Type, or Description.
+
+1. Choose which email address(es) you'd like to send the alerts to (yourself/team members)
+
+1. Click **Subscribe**.
+
+![](assets/using-interesting-moments-8.png)
