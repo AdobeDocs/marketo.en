@@ -3,6 +3,7 @@ description: Connect Dynamic Chat to Marketo - Marketo Docs - Product Documentat
 title: Connect Dynamic Chat to Marketo
 hide: yes
 hidefromtoc: yes
+exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
 ---
 # Connect Dynamic Chat to Marketo {#connect-dynamic-chat-to-marketo}
 

@@ -3,6 +3,7 @@ description: Add or Update Your Email Signature - Marketo Docs - Product Documen
 title: Add or Update Your Email Signature
 hide: yes
 hidefromtoc: yes
+exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
 ---
 # Add or Update Your Email Signature {#add-or-update-your-email-signature}
 

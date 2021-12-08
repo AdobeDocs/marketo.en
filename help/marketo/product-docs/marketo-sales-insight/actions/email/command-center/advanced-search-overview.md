@@ -3,6 +3,7 @@ description: Advanced Search Overview - Marketo Docs - Product Documentation
 title: Advanced Search Overview
 hide: yes
 hidefromtoc: yes
+exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 ---
 # Advanced Search Overview {#advanced-search-overview}
 

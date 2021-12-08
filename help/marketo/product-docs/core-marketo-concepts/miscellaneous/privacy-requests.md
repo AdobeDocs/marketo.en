@@ -1,6 +1,7 @@
 ---
 description: Privacy Requests - Marketo Docs - Product Documentation
 title: Privacy Requests
+exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
 ---
 # Privacy Requests {#privacy-requests}
 

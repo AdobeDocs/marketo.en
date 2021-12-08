@@ -3,6 +3,7 @@ description: Add an Attachment or Trackable Content to Your Email - Marketo Docs
 title: Add an Attachment or Trackable Content to Your Email
 hide: yes
 hidefromtoc: yes
+exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 ---
 # Add an Attachment or Trackable Content to Your Email {#add-an-attachment-or-trackable-content-to-your-email}
 

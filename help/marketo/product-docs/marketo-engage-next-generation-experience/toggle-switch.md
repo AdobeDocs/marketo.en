@@ -1,6 +1,7 @@
 ---
 description: Toggle Switch - Marketo Docs - Product Documentation
 title: Toggle Switch
+exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 ---
 # Toggle Switch {#toggle-switch}
 

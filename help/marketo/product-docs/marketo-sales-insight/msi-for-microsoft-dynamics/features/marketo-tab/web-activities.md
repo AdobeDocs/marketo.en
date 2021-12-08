@@ -1,6 +1,7 @@
 ---
 description: Web Activities - Marketo Docs - Product Documentation
 title: Web Activities
+exl-id: dca3f5ca-72b4-4c9c-a0fc-d9dee37c8ad6
 ---
 # Web Activities {#web-activities}
 

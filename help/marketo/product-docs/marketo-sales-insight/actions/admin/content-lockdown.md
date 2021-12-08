@@ -3,6 +3,7 @@ description: Content Lockdown - Marketo Docs - Product Documentation
 title: Content Lockdown
 hide: yes
 hidefromtoc: yes
+exl-id: 3f17a862-321a-4bbb-8693-117a7fb6a65c
 ---
 # Content Lockdown {#content-lockdown}
 

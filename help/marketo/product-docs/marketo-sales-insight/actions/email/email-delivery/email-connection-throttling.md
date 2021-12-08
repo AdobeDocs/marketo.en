@@ -3,6 +3,7 @@ description: Email Connection Throttling - Marketo Docs - Product Documentation
 title: Email Connection Throttling
 hide: yes
 hidefromtoc: yes
+exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 ---
 # Email Connection Throttling {#email-connection-throttling}
 

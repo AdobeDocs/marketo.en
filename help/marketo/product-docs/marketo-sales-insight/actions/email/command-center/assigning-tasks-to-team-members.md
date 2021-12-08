@@ -3,6 +3,7 @@ description: Assigning Tasks to Team Members - Marketo Docs - Product Documentat
 title: Assigning Tasks to Team Members
 hide: yes
 hidefromtoc: yes
+exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
 ---
 # Assigning Tasks to Team Members {#assigning-tasks-to-team-members}
 

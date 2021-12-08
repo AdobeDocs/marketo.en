@@ -3,6 +3,7 @@ description: How to Set up Custom Domain Tracking - Marketo Docs - Product Docum
 title: How to Set up Custom Domain Tracking
 hide: yes
 hidefromtoc: yes
+exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 ---
 # How to Set up Custom Domain Tracking {#how-to-set-up-custom-domain-tracking}
 

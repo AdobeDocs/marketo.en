@@ -3,6 +3,7 @@ description: Initial Setup - Marketo Docs - Product Documentation
 title: Initial Setup
 hide: yes
 hidefromtoc: yes
+exl-id: 72c20e8f-879d-4490-a87f-3d8e2ba1f263
 ---
 # Initial Setup {#initial-setup}
 
