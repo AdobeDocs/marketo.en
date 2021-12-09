@@ -51,31 +51,31 @@ Allow your sales teams to select call reasons when making calls so your team can
 
 ## Select a Call Reason {#select-a-call-reason}
 
-Once call reasons have been enabled. Users can select one while making a call.  
+Once call reasons have been enabled. Users can select one while making a call.
 
 1. Click the call button to launch the dialer.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Enter the call information in the dialer.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Click call.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Select the call reason that best describes the call.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. End the call.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Log the call.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 >[!MORELIKETHIS]
 >
