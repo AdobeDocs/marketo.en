@@ -1,6 +1,7 @@
 ---
 description: Best Bets - Marketo Docs - Product Documentation
 title: Best Bets
+exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
 ---
 # Best Bets {#best-bets}
 

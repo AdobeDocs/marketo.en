@@ -3,6 +3,7 @@ description: User Access Details - Marketo Docs - Product Documentation
 title: User Access Details
 hide: yes
 hidefromtoc: yes
+exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 ---
 # User Access Details {#user-access-details}
 

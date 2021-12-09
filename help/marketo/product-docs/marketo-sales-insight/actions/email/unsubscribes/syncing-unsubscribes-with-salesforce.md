@@ -3,6 +3,7 @@ description: Syncing Unsubscribes with Salesforce - Marketo Docs - Product Docum
 title: Syncing Unsubscribes with Salesforce
 hide: yes
 hidefromtoc: yes
+exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 ---
 # Syncing Unsubscribes with Salesforce {#syncing-unsubscribes-with-salesforce}
 

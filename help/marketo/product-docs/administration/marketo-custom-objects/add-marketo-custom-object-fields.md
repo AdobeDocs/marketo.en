@@ -2,8 +2,8 @@
 unique-page-id: 10093688
 description: Add Marketo Custom Object Fields - Marketo Docs - Product Documentation
 title: Add Marketo Custom Object Fields
+exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 ---
-
 # Add Marketo Custom Object Fields {#add-marketo-custom-object-fields}
 
 After you've created a custom object, you need to add fields to it to meet your business needs.

@@ -3,6 +3,7 @@ description: Sending Emails via Group Email - Marketo Docs - Product Documentati
 title: Sending Emails via Group Email
 hide: yes
 hidefromtoc: yes
+exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 ---
 # Sending Emails via Group Email {#sending-emails-via-group-email}
 

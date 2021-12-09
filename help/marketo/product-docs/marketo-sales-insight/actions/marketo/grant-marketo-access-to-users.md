@@ -3,6 +3,7 @@ description: Grant Marketo Access to Users - Marketo Docs - Product Documentatio
 title: Grant Marketo Access to Users
 hide: yes
 hidefromtoc: yes
+exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 ---
 # Grant Marketo Access to Users {#grant-marketo-access-to-users}
 

@@ -3,6 +3,7 @@ description: Connect Your Marketo Sales Account to Salesforce - Marketo Docs - P
 title: Connect Your Marketo Sales Account to Salesforce
 hide: yes
 hidefromtoc: yes
+exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 ---
 # Connect Your Marketo Sales Account to Salesforce {#connect-your-marketo-sales-account-to-salesforce}
 

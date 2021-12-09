@@ -3,6 +3,7 @@ description: Log Call Reasons and Call Outcomes to Salesforce - Marketo Docs - P
 title: Log Call Reasons and Call Outcomes to Salesforce
 hide: yes
 hidefromtoc: yes
+exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 ---
 # Log Call Reasons and Call Outcomes to Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
 

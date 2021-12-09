@@ -3,6 +3,7 @@ description: Command Center Overview - Marketo Docs - Product Documentation
 title: Command Center Overview
 hide: yes
 hidefromtoc: yes
+exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 ---
 # Command Center Overview {#command-center-overview}
 
