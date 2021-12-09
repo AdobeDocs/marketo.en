@@ -16,41 +16,37 @@ Allow your sales teams to select call reasons when making calls so your team can
 
 1. Click on the gear icon and select **Settings**.
 
-PICC
+   ![](assets/call-reasons-1.png)
 
 1. Under Admin Settings select **Dialer**.
 
-PICC
+   ![](assets/call-reasons-2.png)
 
 1. Select **Enable Call Reasons**.
 
-PICC
+   ![](assets/call-reasons-3.png)
 
-1. Choose BLANK
+1. Choose your desired call reason requirement.
 
-Select “Allow users to complete calls without selecting Call Reasons” if you want to allow users to complete a call without needing to log a call or select “Require users to select Call Reasons Reasons before logging calls” to require  
+   ![](assets/call-reasons-4.png)
 
 ## Create Call Reason {#create-call}
 
 1. Click on the gear icon and select **Settings**.
 
-PICC
+   ![](assets/call-reasons-5.png)
 
 1. Under Admin Settings select **Dialer**.
 
-PICC
+   ![](assets/call-reasons-6.png)
 
 1. Click **Manage Call Reasons**.
 
-PICC
+   ![](assets/call-reasons-7.png)
 
-1. Enter your desiredcall reason name into the text field.
+1. Enter your desired call reason name into the text field and click **Add**.
 
-PICC
-
-1. Click **Add**.
-
-PICC
+   ![](assets/call-reasons-8.png)
 
 ## Select a Call Reason {#select-a-call-reason}
 
@@ -58,27 +54,27 @@ Once call reasons have been enabled. Users can select one while making a call.
 
 1. Click the call button to launch the dialer.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Enter the call information in the dialer.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Click call.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Select the call reason that best describes the call.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. End the call.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Log the call.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 >[!MORELIKETHIS]
 >

@@ -16,41 +16,41 @@ Allow your sales teams to select call outcomes when making calls so your team ca
 
 1. Click on the gear icon and select **Settings**.
 
-PICC
+   ![](assets/call-outcomes-1.png)
 
 1. Under Admin Settings select **Dialer**.
 
-PICC
+   ![](assets/call-outcomes-2.png)
 
 1. Select **Enable Call Outcomes**.
 
-PICC
+   ![](assets/call-outcomes-3.png)
 
 1. Choose your desired call outcome requirement.
 
-PICC
+   ![](assets/call-outcomes-4.png)
 
 ## Create Call Outcomes {#create-call-outcomes}
 
 1. Click on the gear icon and select **Settings**.
 
-PICC
+   ![](assets/call-outcomes-5.png)
 
 1. Under Admin Settings select **Dialer**.
 
-PICC
+   ![](assets/call-outcomes-6.png)
 
 1. Click **Manage Call Outcomes**.
 
-PICC
+   ![](assets/call-outcomes-7.png)
 
 1. Enter your desired call outcome name into the text field.
 
-PICC
+    ![](assets/call-outcomes-8.png)
 
 1. Click the Answered drop-down and choose the outcome type (in this example we're choosing Answered). Then click **Add**.
 
-PICC
+   ![](assets/call-outcomes-9.png)
 
 ## Choose a Call Outcome {#choose-a-call-outcome}
 
