@@ -7,7 +7,7 @@ exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 ---
 # Call Reasons {#call-reasons}
 
-Allow your sales teams to select call reasons when making calls so your team can understand the why calls are being made.  
+Allow your sales teams to select call reasons when making calls so your team can understand the why calls are being made.
 
 >[!NOTE]
 >
@@ -55,27 +55,23 @@ Once call reasons have been enabled. Users can select one while making a call.
 
 1. Click the call button to launch the dialer.
 
-   PICC
+   ![](assets/call-reasons-9.png)
 
-1. Enter the call information in the dialer.
+1. Enter the call information in the dialer and click **Call**.
 
-   PICC
-
-1. Click call.
-
-   PICC
+   ![](assets/call-reasons-10.png)
 
 1. Select the call reason that best describes the call.
 
-   PICC
+   ![](assets/call-reasons-11.png)
 
 1. End the call.
 
-   PICC
+   ![](assets/call-reasons-12.png)
 
 1. Log the call.
 
-   PICC
+   ![](assets/call-reasons-13.png)
 
 >[!MORELIKETHIS]
 >

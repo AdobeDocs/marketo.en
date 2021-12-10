@@ -59,27 +59,23 @@ Once call outcomes have been enabled. Users can select one while making a call.
 
 1. Click the call button to launch the dialer.
 
-PICC
+   ![](assets/call-outcomes-10.png)
 
-1. Enter the call information in the dialer.
+1. Enter the call information in the dialer and click **Call**.
 
-PICC
-
-1. Click call.
-
-PICC
+   ![](assets/call-outcomes-11.png)
 
 1. Select the call outcome that best describes the call.
 
-PICC
+   ![](assets/call-outcomes-12.png)
 
 1. End the call.
 
-PICC
+   ![](assets/call-outcomes-13.png)
 
 1. Log the call.
 
-PICC
+   ![](assets/call-outcomes-14.png)
 
 >[!MORELIKETHIS]
 >

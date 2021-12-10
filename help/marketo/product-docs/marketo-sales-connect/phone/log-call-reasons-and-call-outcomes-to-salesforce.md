@@ -60,6 +60,10 @@ To utilize these fields, you'll first need to create the field as a custom activ
 
 ### Add Custom Activity Field to Task Page Layout In Salesforce Classic {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
 
+>[!NOTE]
+>
+>You'll only have to follow these steps if you didn't select your desired page layout in Step 9 above.
+
 1. In Salesforce, click **Setup**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
@@ -76,79 +80,75 @@ To utilize these fields, you'll first need to create the field as a custom activ
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
 
-1. Drag and drop the field to the Task page layout.
+1. Drag and drop the field to the desired section of the Task page layout.
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
 1. Click **Save**.
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
 ## Salesforce Lightning {#salesforce-lightning}
 
 ### Create Custom Activity Field in Salesforce Lightning {#create-custom-activity-field-in-salesforce-lightning}
 
-1. In Salesforce, click on the gear icon on the top right.
+1. In Salesforce, click on the gear icon on the top right and select **Setup**.
 
-PICC
-
-1. Click **Setup**.
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
 1. Click **Object Manager**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
-1. Enter Activity in the Quick Find box and click the Activity label to open the object's setup.
+1. Type "Activity" in the Quick Find box.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. On the left side, click **Fields & Relationships**.
+1. Click the **Activity** label.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
+
+1. Click **Fields & Relationships**.
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
 1. Click **New**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
 ## Add Custom Activity Field to Task Page Layout In Salesforce Lightning {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. In Salesforce, click on the gear icon on the top right.
+1. In Salesforce, click on the gear icon on the top right and select **Setup**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
-1. Click **Setup**.
+1. Click **Object Manager**.
 
-PICC
-
-1. Go to Setup.?????????
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
 1. Type "Task" in the Quick Find box.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
-1. Click Task.
+1. Click the **Task** label.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
-1. Click Page Layouts.
+1. Click **Page Layouts**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
 1. Click pn the task page layout you'd like to add this field to.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-27.png)
 
-1. Drag and drop the field to the Task page layout.
+1. Drag and drop the field to the desired section of the Task page layout.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. Click Save.
+1. Click **Save**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 
 >[!MORELIKETHIS]
 >
