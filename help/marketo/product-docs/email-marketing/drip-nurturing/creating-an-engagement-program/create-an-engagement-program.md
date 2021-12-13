@@ -26,5 +26,5 @@ You can use engagement programs in Marketo to accomplish email nurturing with ea
 
    >[!MORELIKETHIS]
    >
-   >* [Add Content to a Stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
+   >* [Add Content to a Stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
    >* [Set Stream Cadence](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

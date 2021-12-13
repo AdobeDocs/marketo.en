@@ -1118,6 +1118,7 @@ feature-set: Marketo Engage
         + [Using Bulk Actions in Salesforce Classic](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
         + [Using Bulk Actions in Salesforce Lightning](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
       + Salesforce Integration {#salesforce-integration}
+        + [Configure Salesforce Activity Detail Customization](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
         + [Connect Your Sales Connect Account to Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
         + [Disconnect Salesforce From Your Sales Connect Account](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
         + [How to Fix "We Were Unable to Authenticate Your Request" When Connecting to Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1240,6 +1241,8 @@ feature-set: Marketo Engage
       + [Share Call Recordings with Your Team](product-docs/marketo-sales-connect/phone/share-call-recordings-with-your-team.md)
       + [Two-Party Consent Settings](product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
     + Tasks {#tasks}
+      + [Create and Assign Reminder Tasks](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
+      + [Reminder Task Sync with Salesforce](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
       + [Syncing Sales Connect Tasks with Salesforce for the First Time](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
     + Templates {#templates}
       + [Add Auto-Unsubscribes to a Template](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)

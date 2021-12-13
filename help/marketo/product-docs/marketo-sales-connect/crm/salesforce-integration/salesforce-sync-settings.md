@@ -12,9 +12,9 @@ This functionality requires you to be on the Enterprise/Unlimited edition of Sal
 
 >[!PREREQUISITES]
 >
->Salesforce and Sales Engage must be connected.
+>Salesforce and Sales Connect must be connected.
 
-1. In Sales Engage, click the gear icon on the upper-right and select **Settings**.
+1. In Sales Connect, click the gear icon on the upper-right and select **Settings**.
 
    ![](assets/one-2.png)
 
@@ -40,11 +40,11 @@ Once you activate “Email to Salesforce (BCC)”, you'll receive a BCC of your 
 
 >[!PREREQUISITES]
 >
->Salesforce and Sales Engage must be connected.
+>Salesforce and Sales Connect must be connected.
 
 **To log your emails in Salesforce via Email (BCC)**
 
-1. In Sales Engage, click the gear icon on the upper-right and select **Settings**.
+1. In Sales Connect, click the gear icon on the upper-right and select **Settings**.
 
    ![](assets/one-3.png)
 
@@ -86,7 +86,7 @@ If you don't see My Email to Salesforce under your Settings, your Admin may not 
 1. Check the box next to "Active."
 1. Click **Save**.
 
-## Sync Sales Engage Tasks/Reminders to Salesforce Tasks {#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
+## Sync Sales Connect Tasks/Reminders to Salesforce Tasks {#sync-sales-connect-tasks-reminders-to-salesforce-tasks}
 
 1. Click the gear icon on the upper-right and select **Settings**.
 
@@ -100,7 +100,7 @@ If you don't see My Email to Salesforce under your Settings, your Admin may not 
 
    ![](assets/three-1.png)
 
-1. Click the arrow next to Sync Sales Engage Tasks/Reminders to Salesforce Tasks.
+1. Click the arrow next to Sync Sales Connect Tasks/Reminders to Salesforce Tasks.
 
    ![](assets/seven-2.png)
 

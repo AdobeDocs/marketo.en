@@ -6,4 +6,4 @@ hidefromtoc: yes
 ---
 # Uninstall Salesforce Customization Package {#uninstall-salesforce-classic-customization-package}
 
-text.
+Coming soon.
