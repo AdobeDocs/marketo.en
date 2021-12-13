@@ -79,7 +79,7 @@ Activity Dynamic Fields reference information about your sales activities to pop
  </tr>
 </table>
 
-## Configure Salesforce Activity Detail Customization {#configure-salesforce-activity-detail-customization}
+## Configuring Salesforce Activity Detail Customization {#configuring-salesforce-activity-detail-customization}
 
 >[!NOTE]
 >
