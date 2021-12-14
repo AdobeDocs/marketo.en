@@ -3,6 +3,7 @@ description: Create and Assign Reminder Tasks - Marketo Docs - Product Documenta
 title: Create and Assign Reminder Tasks
 hide: yes
 hidefromtoc: yes
+exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 ---
 # Create and Assign Reminder Tasks {#create-and-assign-reminder-tasks}
 
