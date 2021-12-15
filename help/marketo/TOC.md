@@ -1300,6 +1300,9 @@ feature-set: Marketo Engage
           + [Delivery Channel Overview](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
           + [Email Connection Throttling](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
           + [Set up a Custom Delivery Channel for Your Team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
+        + Salesforce Configuration {#email-delivery}
+          + [Uninstall Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+          + [Uninstall Salesforce Lightning Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
         + Unsubscribes {#unsubscribes}
           + [Unsubscribe Overview](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
           + [Customize Unsubscribe Link Message](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1731,6 +1734,7 @@ feature-set: Marketo Engage
       + [Release Notes: Jan '21](release-notes/previous-releases/2021/release-notes-jan-21.md)
       + [Release Notes: May '21](release-notes/previous-releases/2021/release-notes-may-21.md)
       + [Release Notes: August '21](release-notes/previous-releases/2021/release-notes-aug-21.md)
+      + [Release Notes: October '21](release-notes/previous-releases/2021/release-notes-oct-21.md)
     + 2020 {#2020}
       + [Release Notes: Jan '20](release-notes/previous-releases/2020/release-notes-jan-20.md)
       + [Release Notes: Feb '20](release-notes/previous-releases/2020/release-notes-feb-20.md)

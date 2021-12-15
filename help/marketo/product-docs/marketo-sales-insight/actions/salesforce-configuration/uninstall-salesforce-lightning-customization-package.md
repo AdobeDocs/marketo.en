@@ -1,32 +1,42 @@
 ---
-description: Salesforce Configuration - Marketo Docs - Product Documentation
-title: Salesforce Configuration
+description: Uninstall Salesforce Lightning Customization Package - Marketo Docs - Product Documentation
+title: Uninstall Salesforce Lightning Customization Package
 hide: yes
 hidefromtoc: yes
 ---
-# Salesforce Configuration {#salesforce-configuration}
+# Uninstall Salesforce Lightning Customization Package {#uninstall-salesforce-lightning-customization-package}
 
-## Uninstall Salesforce Customization Package (Classic) {#uninstall-salesforce-customization-package-classic}
+Uninstall the Marketo Sales Connect package from your Salesforce account once you start using the MSI Actions package.
 
-Uninstall Marketo Sales Connect package from your Salesforce account once you start using MSI-Actions package.  
+## Remove Sales Connect fields from Page Layout {#remove-sales-connect-fields-from-page-layout}
 
-**Remove Sales Connect fields from Page Layout**
+1. In Salesforce Lightning, click the gear icon and select **Setup**.
 
-1. In Salesforce Classic, click **Setup**.
+   ![](assets/uninstall-salesforce-lightning-customization-package-1.png)
 
-   ![](assets/salesforce-configuration-1.png)
+1. Click **Object Manager**.
 
-1. In the left nav, under Build, expand (but don't click on) Customize, then Leads. Then, select **Page Layouts**.
+   ![](assets/uninstall-salesforce-lightning-customization-package-2.png)
 
-   ![](assets/salesforce-configuration-2.png)
+1. Scroll down to and select **Lead**.
 
-1. Click **Edit** next to Lead Layout.
+   ![](assets/uninstall-salesforce-lightning-customization-package-3.png)
 
-   ![](assets/salesforce-configuration-3.png)
+1. Click **Page Layouts**.
+
+   ![](assets/uninstall-salesforce-lightning-customization-package-4.png)
+
+1. Click **Lead Layout**.
+
+   ![](assets/uninstall-salesforce-lightning-customization-package-5.png)
+
+   >[!NOTE]
+   >
+   >The Edit Page layout view has not been updated in Salesforce Lightning yet.
 
 1. In the console, select **Fields**. In Quick Find, search "MSC." All the grayed out fields have been added to your page layout. You'll have to delete them.
 
-   ![](assets/salesforce-configuration-4.png)
+   ![](assets/uninstall-salesforce-lightning-customization-package-6.png)
 
    >[!NOTE]
    >
@@ -34,19 +44,19 @@ Uninstall Marketo Sales Connect package from your Salesforce account once you st
 
 1. Scroll to the section that has your Sales Connect Custom Fields.  
 
-   ![](assets/salesforce-configuration-5.png)
+   ![](assets/uninstall-salesforce-lightning-customization-package-7.png)
 
 1. There are 10 types of MSC fields that can be added to this section. Remove all the fields you added, or simply delete the entire section.
 
 1. Click **Quick Save** when done.
 
-   ![](assets/salesforce-configuration-6.png)
+   ![](assets/uninstall-salesforce-lightning-customization-package-8.png)
 
-**Remove Sales Connect Buttons from Page Layouts**
+## Remove Sales Connect Buttons from Page Layouts {#remove-sales-connect-buttons-from-page-layouts}
 
 1. In the console (Step 4 above), select **Buttons**. Search "MSC." All the grayed out buttons have been added to your custom button section. You'll have to delete them.
 
-   ![](assets/salesforce-configuration-7.png)
+   ![](assets/uninstall-salesforce-lightning-customization-package-9.png)
 
    >[!NOTE]
    >
@@ -54,21 +64,21 @@ Uninstall Marketo Sales Connect package from your Salesforce account once you st
 
 1. Drag and drop the MSC buttons from the Custom Buttons section to the console.
 
-   ![](assets/salesforce-configuration-8.png)
+   ![](assets/uninstall-salesforce-lightning-customization-package-10.png)
 
 1. Click **Quick Save** when done.
 
-   ![](assets/salesforce-configuration-9.png)
+   ![](assets/uninstall-salesforce-lightning-customization-package-11.png)
 
-**Remove Sales Connect Fields from Activity History Section**
+## Remove Sales Connect Fields from Activity History Section {#remove-sales-connect-fields-from-activity-history-section}
 
 1. Scroll to the bottom of the page to the Activity History related list section and click on the Wrench icon.
 
-   ![](assets/salesforce-configuration-10.png)
+   ![](assets/uninstall-salesforce-lightning-customization-package-12.png)
 
-1. Next, select the Sales Connect Fields from the Selected Fields area and Click the Remove arrow. Click **OK** when done.  
+1. Select the Sales Connect Fields from the Selected Fields area and Click the Remove arrow. Click **OK** when done.  
 
-   ![](assets/salesforce-configuration-11.png)
+   ![](assets/uninstall-salesforce-lightning-customization-package-13.png)
 
    >[!NOTE]
    >
@@ -76,61 +86,81 @@ Uninstall Marketo Sales Connect package from your Salesforce account once you st
 
 1. Click **Save** when you’re done with the Leads page.
 
-**Remove Sales Connect Bulk Action Buttons from Lead List View**
+## Remove Sales Connect Bulk Action Buttons from Lead List View {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 
-1. In the left nav, under Build, expand (but don't click on) Customize, then Leads. Then, select **Search Layouts**.
+1. In Salesforce Lightning, click the gear icon and select **Setup**.
 
-   ![](assets/salesforce-configuration-12.png)
+   ![](assets/uninstall-salesforce-lightning-customization-package-14.png)
 
-1. Next to Leads List View, click **Edit**.  
+1. Click **Object Manager**.
 
-   ![](assets/salesforce-configuration-13.png)
+   ![](assets/uninstall-salesforce-lightning-customization-package-15.png)
 
-1. Select **Add to MSC Campaign (Classic)**, **Email with MSC (Classic)**, and **Push to MSC (Classic)**, and click the Remove arrow. Then click **Save**.  
+1. Scroll down to and select **Lead**.
 
-   ![](assets/salesforce-configuration-14.png)
+   ![](assets/uninstall-salesforce-lightning-customization-package-16.png)
+
+1. Click **Search Layouts**.
+
+   ![](assets/uninstall-salesforce-lightning-customization-package-17.png)
+
+1. Click the arrow next to List View and select **Edit**.  
+
+   ![](assets/uninstall-salesforce-lightning-customization-package-18.png)
+
+1. Select **Add to MSC Campaign**, **Email with MSC**, and **Push to MSC**, and click the Remove arrow. Then click **Save**.
+
+   ![](assets/uninstall-salesforce-lightning-customization-package-19.png)
 
 You should no longer see the buttons on the lead list view.
 
-**Remove MSC Configuration for Contacts**
+## Remove MSC Configuration for Contacts {#remove-msc-configuration-for-contacts}
 
-1. In Salesforce, click **Setup**.
+1. In Salesforce Lightning, click the gear icon and select **Setup**.
 
-1. In the left nav, under Build, expand (but don't click on) Customize, then Contacts. Then, select **Page Layouts**.
+1. Click **Object Manager**.
 
-1. Next to Contact Layout, click **Edit**.
+1. Scroll down to and select **Contact**.
 
-1. Repeat steps from all three sections.
+1. Click **Page Layouts**.
 
-**Remove MSC Configuration for Opportunity**
-
-1. In Salesforce, click **Setup**.
-
-1. In the left nav, under Build, expand (but don't click on) Customize, then Opportunities. Then, select **Page Layouts**.
-
-1. Next to Opportunity Layout, click **Edit**.
+1. Click **Contact Layout**.
 
 1. Repeat steps from all three sections.
+
+## Remove MSC Configuration for Opportunity {#remove-msc-configuration-for-opportunity}
+
+1. In Salesforce Lightning, click the gear icon and select **Setup**.
+
+1. Click **Object Manager**.
+
+1. Scroll down to and select **Opportunity**.
+
+1. Click **Page Layouts**.
+
+1. Click **Opportunity Layout**.
 
 Opportunity view has only one button – “Send MSE Email” and the following fields:
 
-   ![](assets/salesforce-configuration-15.png)
+   ![](assets/uninstall-salesforce-lightning-customization-package-20.png)
 
-**Remove MSC Configuration for Account**
+## Remove MSC Configuration for Account {#remove-msc-configuration-for-account}
 
-1. In Salesforce, click **Setup**.
+1. In Salesforce Lightning, click the gear icon and select **Setup**.
 
-1. In the left nav, under Build, expand (but don't click on) Customize, then Account. Then, select **Page Layouts**.
+1. Click **Object Manager**.
 
-1. Next to Account Layout, click **Edit**.
+1. Scroll down to and select **Account**.
 
-1. Repeat steps from all three sections.
+1. Click **Page Layouts**.
+
+1. Click **Account Layout**.
 
 Account view has only one button – “Send MSE Email” and the following fields:
 
-   ![](assets/salesforce-configuration-16.png)
+   ![](assets/uninstall-salesforce-lightning-customization-package-21.png)
 
-**Remove Marketo Sales Outbox**
+## Remove Marketo Sales Outbox {#remove-marketo-sales-outbox}
 
 1. In Salesforce, click the **+** tab on the top of your screen.
 
@@ -138,11 +168,11 @@ Account view has only one button – “Send MSE Email” and the following fiel
 
 1. Select the Marketo Sales Outbox option from the right. Click the Remove arrow, then click **Save**.
 
-**Delete Sales Connect Package**
+## Delete Sales Connect Package {#delete-sales-connect-package}
 
 Once you’ve removed all the objects from your Salesforce Account, follow the steps below.
 
-1. In Salesforce, click **Setup**.
+1. In Salesforce Lightning, click the gear icon and select **Setup**.
 
 1. In the Quick Find box, enter "Apex Classes."
 
@@ -152,7 +182,7 @@ You’re all set!
 
 Here’s a list of all the objects that need to be removed from your Salesforce instance:
 
-**Sales Connect Customization Details**
+## Sales Connect Customization Details {#sales-connect-customization-details}
 
 <table>
  <tr>
@@ -252,9 +282,9 @@ Here’s a list of all the objects that need to be removed from your Salesforce 
   <td>MSC - Last Marketing Engagement</td>
   <td>Last incoming engagement from Marketing</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lead 
+  <p>Account
+  <p>Contact
+  <p>Lead
   <p>Opportunity</td>
   <td>Data and Time</td>
  </tr>
@@ -332,9 +362,9 @@ Here’s a list of all the objects that need to be removed from your Salesforce 
   <td>MSC - Last Sales Engagement</td>
   <td>Last incoming engagement from Sales</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lead 
+  <p>Account
+  <p>Contact
+  <p>Lead
   <p>Opportunity</td>
   <td>Data and Time</td>
  </tr>
@@ -395,21 +425,21 @@ Here’s a list of all the objects that need to be removed from your Salesforce 
   <th>Type</th>
  </tr>
  <tr>
-  <td>Add to MSC Campaign (Classic)</td>
+  <td>Add to MSC Campaign</td>
   <td>Add to MSC campaigns from Salesforce</td>
   <td>
   <p>Contact
   <p>Lead</td>
  </tr>
  <tr>
-  <td>Push to MSC (Classic)</td>
+  <td>Push to MSC</td>
   <td>Push contact from Salesforce to MSC</td>
   <td>
   <p>Contact
   <p>Lead</td>
  </tr>
  <tr>
-  <td>Email with MSC (Classic)</td>
+  <td>Email with MSC</td>
   <td>Email with MSC from Salesforce</td>
   <td>
   <p>Contact
