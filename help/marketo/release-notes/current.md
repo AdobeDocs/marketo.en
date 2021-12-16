@@ -15,7 +15,7 @@ The following features are included in the January '22 release. Check your Adobe
 
 The following features will be released on **January 21, 2022**.
 
-## Next-Generation Experience {#next-generation-experience}
+## Next-Generation Experience {#next-generation-experience}
 
 * **Updated Screens in the Next-Generation Experience**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
 
@@ -45,7 +45,7 @@ The following features will be released on **January 21, 2022**.
 
 The following features are on a non-quarterly cycle and will be released throughout the coming months.
 
-## AEP Marketo Engage Destination Connector – Create Net-new Missing Leads {#aep-marketo-engage-destination-connector}
+## AEP Marketo Engage Destination Connector – Create Net-new Leads {#aep-marketo-engage-destination-connector}
 
 Marketo Engage customers that also use the Adobe Experience Platform (AEP) can maximize their database with the ability to push net-new person records into Marketo Engage from AEP via the AEP destination connector. When sending audience segments from AEP to Marketo Engage, people within the segment that don't already exist in your Marketo Engage database will be automatically added to it.
 
@@ -53,7 +53,7 @@ Marketo Engage customers that also use the Adobe Experience Platform (AEP) can m
 
 ![(star)](assets/yellow-star.png)
 
-* **Sales Insight for Salesforce CRM**
+**Sales Insight for Salesforce CRM**
 
 * **New Type Column for Best Bets**: Sellers will get quicker insights with a new column labeled “Type” to differentiate between leads and contacts on the Best Bets page.  
 
@@ -79,6 +79,8 @@ Marketo Engage customers that also use the Adobe Experience Platform (AEP) can m
 
 * **Form Endpoints Deprecation**: Unsupported programmatic form POSTs to the leadCapture/save2 endpoint will be rejected by Marketo Engage forms. [Click here](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) to learn more.
 
-* **Email Verification**: Beginning after this release, Marketo Engage subscriptions will begin to have “non-API only” users verify email addresses. Directory service authenticated users will automatically have their emails verified when their subscription is enabled with Email Verification. Email Verification for those using the “Login in Invite User Dialog” feature or those with subscriptions which have a single email associated with multiple users within the subscription will be delayed and coincide with the feature deprecation in March.
+* **Email Verification**: Beginning after this release, Marketo Engage subscriptions will begin to have “non-API only” users verify email addresses. Directory service authenticated users will automatically have their emails verified when their subscription is enabled with Email Verification. Email Verification for those using the “Login in Invite User Dialog” feature or those with subscriptions which have a single email associated with multiple users within the subscription will be delayed and coincide with the feature deprecation in March.
 
-* **Login in Invite User Dialog**: In March, the existing, optional feature “Login in Invite User Dialog” will be deprecated. The feature “Login in Invite User Dialog” functionality is overridden by the Universal ID feature, which is required for the upcoming Adobe Identity Management System Integration and was enabled in August 2021 on all subscriptions. As a result of the deprecation, Marketo Engage will enforce all user IDs (logins) to match the user's email address and only allow one user to be associated per email address within a subscription.
+* **Login in Invite User Dialog**: In March, the existing, optional feature “Login in Invite User Dialog” will be deprecated. The feature “Login in Invite User Dialog” functionality is overridden by the Universal ID feature, which is required for the upcoming Adobe Identity Management System Integration and was enabled in August 2021 on all subscriptions. As a result of the deprecation, Marketo Engage will enforce all user IDs (logins) to match the user's email address and only allow one user to be associated per email address within a subscription.
+
+**Marketo Engage Domains – Sales Insight Configuration**: For Marketo Engage domains which do not have SSL cert provisioned and https://, calls will fail with an SSL handshake error. Therefore, these domains are going to be sunset. As a result, Sales Insight users with an older configuration pointing to any of these domains might run into system callout errors on their Lead, Contact, Account, Opportunity Panels, or Marketo Global page. We recommend you update your [Marketo Engage configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) in Salesforce if you run into this error. You only need to update Marketo Engage credentials highlighted in the "Marketo Sales Insight Config" section of the document.

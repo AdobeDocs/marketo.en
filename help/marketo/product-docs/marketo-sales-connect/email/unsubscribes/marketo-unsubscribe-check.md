@@ -38,3 +38,4 @@ The Marketo Unsubscribe check...
 * Requires a Marketo connection be established
 * Is a global setting
 * Blocks emails sent from the web application, email clients, and Salesforce
+* Will log a failed email or prevent a user from sending when they try to send for all workflows (email plugin send, individual send, sales campaign send, multiple select and send) except for [group emails](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md), in which we will prevent the emails from sending silently
