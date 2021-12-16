@@ -17,7 +17,7 @@ The following features will be released on **January 21, 2022**.
 
 ## Next-Generation Experience {#next-generation-experience}
 
-* **Updated Screens in the Next-Generation Experience**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements via toggle switch:
+* **Updated Screens in the Next-Generation Experience**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
 
   * Landing Page Asset Details in Design Studio
   * Landing Page Asset Details in Marketing Activities
