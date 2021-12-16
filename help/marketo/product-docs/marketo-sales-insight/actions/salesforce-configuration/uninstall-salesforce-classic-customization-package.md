@@ -3,6 +3,7 @@ description: Uninstall Salesforce Classic Customization Package - Marketo Docs -
 title: Uninstall Salesforce Classic Customization Package
 hide: yes
 hidefromtoc: yes
+exl-id: 1216d313-28b7-4505-8378-a16a475c707c
 ---
 # Uninstall Salesforce Classic Customization Package {#uninstall-salesforce-classic-customization-package}
 
