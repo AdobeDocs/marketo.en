@@ -1,6 +1,7 @@
 ---
 description: Release Notes - October 2021 - Marketo Docs - Product Documentation
 title: Release Notes - October 2021
+exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
 ---
 # Release Notes: October 2021 {#release-notes-oct-21}
 
