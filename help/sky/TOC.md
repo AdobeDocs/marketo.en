@@ -1,6 +1,6 @@
 ---
 solution: Marketo Sky
-user-guide-title: Sky Product Documentation
+user-guide-title: Marketo Sky Documentation
 feature-set: Marketo Sky
 ---
 
