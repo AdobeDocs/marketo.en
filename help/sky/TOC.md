@@ -1,6 +1,6 @@
 ---
-solution: Marketo, Marketo Engage, Marketo Sky
-user-guide-title: [!DNL Sky] Product Documentation
+solution: Marketo Sky
+user-guide-title: Sky Product Documentation
 feature-set: Marketo Sky
 ---
 
