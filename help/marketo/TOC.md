@@ -1281,6 +1281,7 @@ feature-set: Marketo Engage
         + [Creating a Team](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
         + [How to Set up Custom Domain Tracking](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
         + [Invite Users and Admins](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+        + [Logging Sales Activity Attributes to Salesforce](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
         + [Sharing Settings](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
         + [User Access Details](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
       + Campaigns {#campaigns}
