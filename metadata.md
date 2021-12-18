@@ -1,6 +1,6 @@
 ---
 cloud: Experience Cloud
-solution: Marketo, Marketo Engage
+solution: Marketo Engage
 product: marketo
 type: Documentation
 mini-toc-levels: 2
