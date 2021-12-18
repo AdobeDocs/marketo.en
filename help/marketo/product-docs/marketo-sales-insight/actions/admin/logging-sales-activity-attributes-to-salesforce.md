@@ -3,6 +3,7 @@ description: Logging Sales Activity Attributes to Salesforce - Marketo Docs - Pr
 title: Logging Sales Activity Attributes to Salesforce
 hide: yes
 hidefromtoc: yes
+exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
 ---
 # Logging Sales Activity Attributes to Salesforce {#logging-sales-activity-attributes-to-salesforce}
 
