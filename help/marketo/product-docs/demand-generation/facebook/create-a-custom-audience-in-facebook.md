@@ -18,23 +18,23 @@ exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 
 1. Find and select the smart or static list that contains the leads you want to create the audience from.
 
-   ![](assets/1.png)
+   ![](assets/create-a-custom-audience-in-facebook-1.png)
 
 1. Select the **Leads** tab, then click on the **Send Via Ad Bridge** icon at the bottom.
 
-   ![](assets/222.png)
+   ![](assets/create-a-custom-audience-in-facebook-2.png)
 
 1. Select **Facebook** and click **Next**.
 
-   ![](assets/two.png)
+   ![](assets/create-a-custom-audience-in-facebook-3.png)
 
 1. Click the **Audience** drop-down and select **+ New Audience**.
 
-   ![](assets/four.png)
+   ![](assets/create-a-custom-audience-in-facebook-4.png)
 
 1. Type in an **Audience Name**. Click **Update**.
 
-   ![](assets/five.png)
+   ![](assets/create-a-custom-audience-in-facebook-5.png)
 
    >[!NOTE]
    >
@@ -46,11 +46,11 @@ exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 
 1. When done, the status dialog will update.
 
-   ![](assets/six.png)
+   ![](assets/create-a-custom-audience-in-facebook-6.png)
 
    And that's it! In Facebook you'll see the new audience in **Ads Manager > Audiences**.
 
-   ![](assets/image2014-12-10-11-3a38-3a32.png)
+   ![](assets/create-a-custom-audience-in-facebook-7.png)
 
    >[!NOTE]
    >

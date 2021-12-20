@@ -65,7 +65,7 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    >[!NOTE]
    >
-   >Segments to static lists are 1:1. If you choose multiple segments here, you'll have to map each segment to a specified static list in the Segment Schedule tab.
+   >If you choose multiple segments here, you'll have to map each segment to a specified static list in the Segment Schedule tab.
 
 1. Click **Add New Mapping**.
 
