@@ -118,7 +118,7 @@ PICC
 
 Person records that exist in Marketo and Salesforce will be synced to your Marketo Sales Apps account.
 
-## Invite Individual Users to MSI Actions {#invite-individual users-to-msi-actions}
+## Invite Individual Users to MSI Actions {#invite-individual-users-to-msi-actions}
 
 1. In your Marketo Sales account, click the gear icon and select **Settings**.
 
