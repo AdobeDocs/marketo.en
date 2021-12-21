@@ -3,7 +3,6 @@ description: Uninstall Salesforce Lightning Customization Package - Marketo Docs
 title: Uninstall Salesforce Lightning Customization Package
 hide: yes
 hidefromtoc: yes
-exl-id: 85966da3-1e20-4b87-b140-30523092b2e4
 ---
 # Uninstall Salesforce Lightning Customization Package {#uninstall-salesforce-lightning-customization-package}
 
