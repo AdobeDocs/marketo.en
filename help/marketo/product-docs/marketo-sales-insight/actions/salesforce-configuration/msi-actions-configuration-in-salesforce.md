@@ -3,6 +3,7 @@ description: MSI Actions Configuration in Salesforce - Marketo Docs - Product Do
 title: MSI Actions Configuration in Salesforce
 hide: yes
 hidefromtoc: yes
+exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
 ---
 # MSI Actions Configuration in Salesforce {#msi-actions-configuration-in-salesforce}
 
