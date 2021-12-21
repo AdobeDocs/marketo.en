@@ -3,6 +3,7 @@ description: MSI Actions User Onboarding Guide - Marketo Docs - Product Document
 title: MSI Actions User Onboarding Guide
 hide: yes
 hidefromtoc: yes
+exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 ---
 # MSI Actions User Onboarding Guide {#msi-actions-user-onboarding-guide}
 
