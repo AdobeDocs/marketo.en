@@ -13,11 +13,21 @@ exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
 
 ## Enabling MSI-Actions across the CRM {#enabling-msi-actions-across-the-crm}
 
-1. Checkmark the “Enable MSI Actions” field.
+1. In Salesforce, click the Marketo Sales Insight Config tab.
 
-IMAGE??????????????
+PICC
+
+1. Select the “Enable MSI Actions” checkbox.
+
+PICC
 
 1. Enter the API Secret Key.
+
+PICC
+
+   >[!NOTE]
+   >
+   >If you don't have your API Secrey Key handy, you can find it by following the steps in [this article](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md).
 
 1. Click **Save**.
 
@@ -25,7 +35,7 @@ This will automatically enable all MSI Actions features outlined in the feature 
 
 >[!NOTE]
 >
->You can hide all MSI Actions features by unchecking the above field.??????????????????
+>You can disable all MSI Actions features by unchecking the “Enable MSI Actions” checkbox.
 
 ## MSI-Actions Governance {#msi-actions-governance}
 
