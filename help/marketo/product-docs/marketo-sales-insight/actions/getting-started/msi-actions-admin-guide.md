@@ -50,11 +50,11 @@ hidefromtoc: yes
 
 1. In Marketo, click **Admin**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-1.png)
 
 1. Click **Sales Insight**, then **Actions Config**. Select from a list of Marketo admins to invite and click **Send Invite**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-2.png)
 
 The user will receive an email with steps to get access to the account.
 
@@ -66,19 +66,19 @@ The user will receive an email with steps to get access to the account.
 
 1. In your Marketo Sales account, click the gear icon and select **Settings**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-3.png)
 
 1. Under Admin Settings, click **Salesforce**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-4.png)
 
 1. In the Connections & Customizations tab, click **Connect**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-5.png)
 
 1. Click **OK**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-6.png)
 
 If you’re already logged in to Salesforce, you’ll be connected. If you’re not, you’ll be asked to log in.
 
@@ -86,13 +86,15 @@ If you’re already logged in to Salesforce, you’ll be connected. If you’re 
 
 1. In your Marketo Sales account, click the gear icon and select **Settings**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-7.png)
 
 1. Under Admin Settings, click **Marketo**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-8.png)
 
 1. Click **connect**. Your account will then be connected.
+
+   ![](assets/msi-actions-admin-guide-9.png)
 
 >[!NOTE]
 >
@@ -100,21 +102,21 @@ PICC
 
 ## Initiate Data Sync {#initiate-data-sync}
 
-1. In Marketo, click Admin.
+1. In Marketo, click **Admin**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-10.png)
 
-1. Click Sales Insight, then Actions Config.
+1. Click Sales Insight.
 
-PICC
+   ![](assets/msi-actions-admin-guide-11.png)
 
-1. In the Action Field Sync card, click **Sync**.
+1. Click the Actions Config tab. In the Action Field Sync card, click **Sync**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-12.png)
 
 1. You'll see a preview of the fields that will be synced. Click **Start Sync**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-13.png)
 
 Person records that exist in Marketo and Salesforce will be synced to your Marketo Sales Apps account.
 
@@ -122,17 +124,19 @@ Person records that exist in Marketo and Salesforce will be synced to your Marke
 
 1. In your Marketo Sales account, click the gear icon and select **Settings**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-14.png)
 
 1. Under Admin Settings, select **User Management**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-15.png)
 
 1. Click **Actions** and select **Invite Users**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-16.png)
 
 1. Enter the email address(es) and click **Invite**.
+
+   ![](assets/msi-actions-admin-guide-17.png)
 
 >[!NOTE]
 >
@@ -144,23 +148,23 @@ You'll receive a confirmation message.
 
 1. In your Marketo Sales account, click the gear icon and select **Settings**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-18.png)
 
 1. Under Admin Settings, select **User Management**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-19.png)
 
 1. Click **Actions** and select **Invite Users via CSV**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-20.png)
 
 1. Browse for the CSV on your computer, select it, and click **Next**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-21.png)
 
 1. Confirm that the fields are mapped properly and click **Invite**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-22.png)
 
 You'll receive a confirmation message once the invites are sent.
 
