@@ -1279,6 +1279,7 @@ feature-set: Marketo Engage
           + [Add Identity](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
       + Admin {#admin}
         + [Blocked Domains](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
+        + [Connect New Admin to Marketo](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
         + [Content Lockdown](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
         + [Creating a Team](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
         + [How to Set up Custom Domain Tracking](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
