@@ -13,39 +13,43 @@ exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
 
 ## Enabling MSI-Actions across the CRM {#enabling-msi-actions-across-the-crm}
 
-1. In Salesforce, click the Marketo Sales Insight Config tab.
+1. In Salesforce, click the **Marketo Sales Insight Config** tab.
 
-PICC
+   ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
-1. Select the “Enable MSI Actions” checkbox.
+   >[!NOTE]
+   >
+   >If you don't see "Marketo Sales Insight Config" in your top bar, click the **+** sign and find it under All Tabs.
 
-PICC
+1. Select the **Enable MSI Actions** checkbox.
+
+   ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
 1. Enter the API Secret Key.
 
-PICC
+   ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
    >[!NOTE]
    >
    >If you don't have your API Secrey Key handy, you can find it by following the steps in [this article](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md).
 
-1. Click **Save**.
+1. Click **Save** when done.
 
 This will automatically enable all MSI Actions features outlined in the feature overview article.
 
 >[!NOTE]
 >
->You can disable all MSI Actions features by unchecking the “Enable MSI Actions” checkbox.
+>You can disable all MSI Actions features by simply unchecking the “Enable MSI Actions” checkbox.
 
 ## MSI-Actions Governance {#msi-actions-governance}
 
 1. You can disable Sales Campaigns and/or the Task tab in the upcoming section. This will be applicable to lead, contact, account, and opportunity panels.
 
-   ![](assets/msi-actions-configuration-in-salesforce-2.png)
+   ![](assets/msi-actions-configuration-in-salesforce-4.png)
 
 1. You can disable MSI Actions by unchecking corresponding features under Actions settings.
 
-   ![](assets/msi-actions-configuration-in-salesforce-3.png)
+   ![](assets/msi-actions-configuration-in-salesforce-5.png)
 
 >[!NOTE]
 >
