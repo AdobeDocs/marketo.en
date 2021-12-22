@@ -3,6 +3,7 @@ description: Connect New Admin to Marketo - Marketo Docs - Product Documentation
 title: Connect New Admin to Marketo
 hide: yes
 hidefromtoc: yes
+exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 ---
 # Connect New Admin to Marketo {#connect-new-admin-to-marketo}
 
