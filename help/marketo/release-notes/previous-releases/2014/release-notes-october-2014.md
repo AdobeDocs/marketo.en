@@ -37,7 +37,7 @@ Full details will be available after the release at [developers.marketo.com](htt
 
 ## Custom Entity Support for Microsoft Dynamics Sync {#custom-entity-support-for-microsoft-dynamics-sync}
 
-[Use custom object data](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md) from Microsoft Dynamics for filtering and triggering in smart lists, smart campaigns, programs...
+[Use custom object data](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) from Microsoft Dynamics for filtering and triggering in smart lists, smart campaigns, programs...
 
 ## Shareholder Support for Microsoft Dynamics Sync {#shareholder-support-for-microsoft-dynamics-sync}
 
