@@ -46,7 +46,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
    >[!TIP]
    >
-   >If you don't see the role, go back to [step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md) and import the solution.
+   >If you don't see the role, go back to [step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install.md) and import the solution.
 
    >[!NOTE]
    >
@@ -62,7 +62,7 @@ Almost done! We just have a few last pieces of configuration before moving onto 
 
    >[!NOTE]
    >
-   >If Marketo Config is missing, try refreshing the page. If the issue persists, [publish the Marketo solution again](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md) or log out and back in.
+   >If Marketo Config is missing, try refreshing the page. If the issue persists, [publish the Marketo solution again](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install.md) or log out and back in.
 
 1. Click **Default**.
 
@@ -94,4 +94,4 @@ Almost done! We just have a few last pieces of configuration before moving onto 
 
 >[!MORELIKETHIS]
 >
->[Step 3 of 3: Connect Microsoft Dynamics with Marketo (2011 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
+>[Step 3 of 3: Connect Microsoft Dynamics with Marketo (2011 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect.md)
