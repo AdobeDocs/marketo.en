@@ -10,7 +10,7 @@ Great job completing the previous steps. Let's keep moving through this.
 
 >[!PREREQUISITES]
 >
->[Install Marketo for Microsoft Dynamics 2015 On-Premises Step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>[Install Marketo for Microsoft Dynamics 2015 On-Premises Step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
 
 ## Assign Sync User Role {#assign-sync-user-role}
 
