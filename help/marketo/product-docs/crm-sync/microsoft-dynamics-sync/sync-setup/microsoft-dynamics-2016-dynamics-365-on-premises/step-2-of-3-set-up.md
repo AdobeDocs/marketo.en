@@ -1,16 +1,16 @@
 ---
 unique-page-id: 7504739
-description: Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 2 of 3 - Marketo Docs - Product Documentation
-title: Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 2 of 3
+description: Install Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 2 of 3 - Marketo Docs - Product Documentation
+title: Install Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 2 of 3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 ---
-# Step 2 of 3 Set up Marketo for Dynamics (2015 On-Prem and 2016 365 On-Prem){#step-of-set-up-for-marketo-on-premises-and-365}
+# Step 2 of 3 Set up Marketo for Dynamics (2016 On-Prem/Dynamics 365 On-Premises){#step-of-set-up-for-marketo-on-premises-2016}
 
 Great job completing the previous steps. Let's keep moving through this.
 
 >[!PREREQUISITES]
 >
->[Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>[Install Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
 
 ## Assign Sync User Role {#assign-sync-user-role}
 
@@ -46,7 +46,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
    >[!TIP]
    >
-   >If you don't see the role, go back to [step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md) and import the solution.
+   >If you don't see the role, go back to [step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md) and import the solution.
 
    >[!NOTE]
    >
@@ -62,7 +62,7 @@ Almost done! We just have a few last pieces of configuration before moving onto 
 
    >[!NOTE]
    >
-   >If Marketo Config is missing, try refreshing the page. If the issue persists, [publish the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md) or try logging out and back in.
+   >If Marketo Config is missing, try refreshing the page. If the issue persists, [publish the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md) or try logging out and back in.
 
 1. Click **Default**.
 
@@ -88,4 +88,4 @@ Almost done! We just have a few last pieces of configuration before moving onto 
 
 >[!MORELIKETHIS]
 >
->[Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 3 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
+>[Install Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 3 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)

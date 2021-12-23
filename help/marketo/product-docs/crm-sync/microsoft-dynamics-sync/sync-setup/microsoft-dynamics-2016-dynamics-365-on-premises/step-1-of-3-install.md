@@ -1,10 +1,10 @@
 ---
 unique-page-id: 7504736
-description: Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 1 of 3 - Marketo Docs - Product Documentation
-title: Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 1 of 3
+description: Install Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises 1 of 3 - Marketo Docs - Product Documentation
+title: Install Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 1 of 3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 ---
-# Step 1 of 3: Configure Sync User for Marketo (2015 On-Prem and 2016 365 On-Prem) {#step-of-configure-sync-user-for-marketo-on-premises-and-365}
+# Step 1 of 3: Configure Sync User for Marketo (2016 On-Prem /Dynamics 365 On-Premises) {#step-of-configure-sync-user-for-marketo-on-premises-2016}
 
 Before you can sync Microsoft Dynamics 2015 On-Premises or 2016 (Dynamics 365) with Marketo, you need to first install the Marketo solution in Dynamics.
 
@@ -88,4 +88,4 @@ Before you can sync Microsoft Dynamics 2015 On-Premises or 2016 (Dynamics 365) w
 
    >[!MORELIKETHIS]
    >
-   >[Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 2 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+   >[Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 2 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises/step-2-of-3-set-up.md)
