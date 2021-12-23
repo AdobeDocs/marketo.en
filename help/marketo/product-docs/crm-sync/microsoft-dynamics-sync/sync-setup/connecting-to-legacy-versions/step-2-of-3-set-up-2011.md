@@ -10,7 +10,7 @@ Great job completing the previous steps, let's keep moving through this.
 
 >[!PREREQUISITES]
 >
->[Step 1 of 3: Install the Marketo Solution (2011 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
+>[Step 1 of 3: Install the Marketo Solution (2011 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
 
 ## Assign Sync User Role {#assign-sync-user-role}
 

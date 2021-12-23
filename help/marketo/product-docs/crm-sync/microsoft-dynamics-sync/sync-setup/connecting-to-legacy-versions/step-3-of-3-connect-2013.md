@@ -10,8 +10,8 @@ Alright! We installed the solution and configured the sync user. Next, we need t
 
 >[!PREREQUISITES]
 >
->* [Step 1 of 3: Install the Marketo Solution in Dynamics (2013 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
->* [Step 2 of 3: Configure Sync User for Marketo (2013 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
+>* [Step 1 of 3: Install the Marketo Solution in Dynamics (2013 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
+>* [Step 2 of 3: Configure Sync User for Marketo (2013 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
 
 >[!NOTE]
 >
