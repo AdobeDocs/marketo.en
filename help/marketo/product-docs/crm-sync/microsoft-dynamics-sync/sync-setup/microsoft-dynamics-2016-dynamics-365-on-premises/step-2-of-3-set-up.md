@@ -10,6 +10,52 @@ Great job completing the previous steps. Let's keep moving through this.
 >
 >[Install Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 1 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
 
+## Create a New User {#create-a-new-user}
+
+1. Log-in to Dynamics. Click the Settings icon and select Advanced Settings.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-1.png)
+
+1. Click **Settings** and select **Security**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-2.png)
+
+1. Click **Users**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-3.png)
+
+1. Click **New**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-4.png)
+
+1. Click **Add and License Users**. A new tab should open.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-5.png)
+
+1. Click **Admin** at the top of the page. Another new tab should open.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-6.png)
+
+1. Click **Add a user**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-7.png)
+
+1. Enter all of your information. When you’re done, click **Add**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-8.png)
+
+   >[!NOTE]
+   >
+   >This name must be a dedicated sync user and not an existing CRM user’s account. It does not need to be an actual email address.
+
+1. Enter the email to receive the new user credentials and click Send email and close.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-9.png)
+
+## Create a New Client Application {#create-a-new-client-application}
+
+Follow the steps in [this Microsoft article](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later) to create a new Client Application and grant permissions. Please make note of the Client ID/Secret of the Dynamics client application.
+
 ## Assign Sync User Role {#assign-sync-user-role}
 
 Assign the Marketo Sync User role only to the Marketo sync user. You don't need to assign it to any other users.

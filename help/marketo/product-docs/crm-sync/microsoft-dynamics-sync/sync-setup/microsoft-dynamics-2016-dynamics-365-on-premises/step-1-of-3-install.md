@@ -4,7 +4,7 @@ title: Install Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Step
 ---
 # Step 1 of 3: Configure Sync User for Marketo (2016 On-Prem /Dynamics 365 On-Premises) {#step-of-configure-sync-user-for-marketo-on-premises-2016}
 
-Before you can sync Microsoft Dynamics 2015 On-Premises or 2016 (Dynamics 365) with Marketo, you need to first install the Marketo solution in Dynamics.
+Before you can sync Microsoft Dynamics 2016 On-Prem/Dynamics 365 with Marketo, you need to first install the Marketo solution in Dynamics.
 
 >[!NOTE]
 >
