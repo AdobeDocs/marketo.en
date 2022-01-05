@@ -1,6 +1,7 @@
 ---
 description: Step 1 of 3 - Install the Marketo Solution with S2S Connection - Marketo Docs - Product Documentation
 title: Step 1 of 3 - Install the Marketo Solution with S2S Connection
+exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 ---
 # Step 1 of 3: Install the Marketo Solution with S2S Connection {#step-1-of-3-install-the-marketo-solution-s2s}
 

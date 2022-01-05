@@ -3,6 +3,7 @@ description: MSI Actions Feature Overview - Marketo Docs - Product Documentation
 title: MSI Actions Feature Overview
 hide: yes
 hidefromtoc: yes
+exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 ---
 # MSI Actions Feature Overview {#msi-actions-feature-overview}
 
