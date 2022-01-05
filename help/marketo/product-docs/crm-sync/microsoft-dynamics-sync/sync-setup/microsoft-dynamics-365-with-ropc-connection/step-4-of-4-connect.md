@@ -16,6 +16,10 @@ This is the last step of the sync. We're almost there!
 >
 >**Admin Permissions Required**
 
+>[!IMPORTANT]
+>
+>If you’re upgrading from Basic Authentication to OAuth, you’ll need to contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) for help with updating the additional parameters. Enabling this feature will temporarily stop the sync until new credentials are entered and the sync is re-enabled. The feature can be disabled (until April 2022) should you want to revert to the old Authentication mode.
+
 ## Enter Dynamics Sync User information {#enter-dynamics-sync-user-information}
 
 1. Log into Marketo and click **Admin**.
@@ -36,17 +40,19 @@ This is the last step of the sync. We're almost there!
 
    >[!CAUTION]
    >
-   >Please make sure your credentials are correct as we are unable to revert the subsequent schema changes after submission. If incorrect credentials are saved, you’ll have to obtain a new Marketo subscription.
+   >Please make sure your org URL is correct as we are unable to revert the subsequent schema changes after submission. If an incorrect Org URL is used, you’ll have to obtain a new Marketo subscription. If you don't know the URL, [learn how to find it here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-1. Enter the **Username**, **Password**, and Microsoft Dynamics **URL**. Click **Save** when done.
+   >[!NOTE]
+   >
+   >Before you enter new credentials, you can [validate them here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
+
+1. Enter the **Username**, **Password**, **Client ID**, **Client Secret**, and Microsoft Dynamics **URL**. Click **Save** when done.
 
    ![](assets/five-1.png)
 
    >[!NOTE]
    >
-   >* If your Marketo was provisioned prior to October 2020, Client ID and Secret are optional fields. Otherwise, they're mandatory. Obtaining this information will depend on what version of MSD you're using.
-   >* The Username in Marketo must match the User Name for the sync user in CRM. The format can be `user@domain.com` or DOMAIN\user.
-   >* If you don't know the URL, [learn how to find it here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+   >The Username in Marketo must match the User Name for the sync user in CRM. The format can be `user@domain.com` or DOMAIN\user.
 
 ## Select Fields to Sync {#select-fields-to-sync}
 

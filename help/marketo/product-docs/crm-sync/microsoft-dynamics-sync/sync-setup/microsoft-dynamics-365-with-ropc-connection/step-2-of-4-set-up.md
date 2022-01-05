@@ -120,12 +120,6 @@ Almost there! All we have left is to inform Marketo Solution about the new user 
 
    ![](assets/nineteen.png)
 
-## Before Proceeding to Step 3 {#before-proceeding-to-step}
-
-* If you want to restrict the number of records you sync, [set up a custom sync filter](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) now.
-* Run the [Validate Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) process. It verifies that your initial setups were done correctly.
-* Log into the Marketo Sync User in Microsoft Dynamics CRM.
-
-   >[!MORELIKETHIS]
-   >
-   >[Step 3 of 4: Connect the Marketo Solution with Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
+>[!MORELIKETHIS]
+>
+>[Step 3 of 4: Connect the Marketo Solution with Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
