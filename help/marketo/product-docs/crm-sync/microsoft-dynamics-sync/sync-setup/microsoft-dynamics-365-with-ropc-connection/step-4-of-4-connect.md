@@ -1,17 +1,18 @@
 ---
 unique-page-id: 3571830
-description: Step 3 of 3 -Connect Microsoft Dynamics with Marketo (Online) - Marketo Docs - Product Documentation
-title: Step 3 of 3 -Connect Microsoft Dynamics with Marketo (Online)
+description: Step 4 of 4 - Connect the Marketo Solution with Resource Owner Password Control Connection - Marketo Docs - Product Documentation
+title: Step 4 of 4 - Connect the Marketo Solution with Resource Owner Password Control Connection
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 ---
-# Step 3 of 3: Connect Microsoft Dynamics with Marketo (Online) {#step-of-connect-microsoft-dynamics-with-marketo-online}
+# Step 4 of 4: Connect the Marketo Solution with Resource Owner Password Control Connection {#step-4-of-4-connect-the-marketo-solution-ropc}
 
 This is the last step of the sync. We're almost there!
 
 >[!PREREQUISITES]
 >
->* [Step 1 of 3: Install the Marketo Solution (Online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
->* [Step 2 of 3: Set up Marketo Sync User in Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
+>* [Step 1 of 4: Install the Marketo Solution with Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-3-install.md)
+>* [Step 2 of 4: Set up the Marketo Solution with Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-3-set-up.md)
+>* [Step 3 of 4: Set up Client App on MS Dynamics](help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
 
 >[!NOTE]
 >

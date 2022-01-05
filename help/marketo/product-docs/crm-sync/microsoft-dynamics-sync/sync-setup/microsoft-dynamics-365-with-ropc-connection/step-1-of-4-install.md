@@ -1,10 +1,10 @@
 ---
 unique-page-id: 3571822
-description: Step 1 of 3 -Install the Marketo Solution (Online) - Marketo Docs - Product Documentation
-title: Step 1 of 3 -Install the Marketo Solution (Online)
+description: Step 1 of 3 - Install the Marketo Solution with Resource Owner Password Control Connection - Marketo Docs - Product Documentation
+title: Step 1 of 3 - Install the Marketo Solution with Resource Owner Password Control Connection
 exl-id: 593fc014-db38-42cc-8f9f-0dd8307751e8
 ---
-# Step 1 of 3: Install the Marketo Solution (Online) {#step-of-install-the-marketo-solution-online}
+# Step 1 of 3: Install the Marketo Solution with Resource Owner Password Control Connection {#step-1-of-3-install-the-marketo-solution-ropc}
 
 Before you can sync Microsoft Dynamics 365 and Marketo, you need to first install the Marketo solution in Dynamics. **Dynamics Admin Permissions are required.**
 
@@ -85,4 +85,4 @@ Before you can sync Microsoft Dynamics 365 and Marketo, you need to first instal
 
    >[!MORELIKETHIS]
    >
-   >[Step 2 of 3: Set up Marketo Sync User in Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
+   >[Step 2 of 3: Set up the Marketo Solution with Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-3-set-up.md)

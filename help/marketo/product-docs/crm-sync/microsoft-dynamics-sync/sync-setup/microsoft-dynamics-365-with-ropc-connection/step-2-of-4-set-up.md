@@ -1,16 +1,16 @@
 ---
 unique-page-id: 3571827
-description: Step 2 of 3 -Set up Marketo Sync User in Dynamics - Marketo Docs - Product Documentation
-title: Step 2 of 3 -Set up Marketo Sync User in Dynamics
+description: Step 2 of 3 - Set up the Marketo Solution with Resource Owner Password Control Connection - Marketo Docs - Product Documentation
+title: Step 2 of 3 - Set up the Marketo Solution with Resource Owner Password Control Connection
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 ---
-# Step 2 of 3: Set up Marketo Sync User in Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}
+# Step 2 of 3: Set up the Marketo Solution with Resource Owner Password Control Connection {#step-2-of-3-set-up-the-marketo-solution-ropc}
 
 Let's get started by creating a user account.
 
 >[!PREREQUISITES]
 >
->[Step 1 of 3: Install the Marketo Solution (Online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
+>[Step 1 of 3: Install the Marketo Solution with Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-3-install.md)
 
 ## Create a new user {#create-a-new-user}
 
@@ -96,7 +96,7 @@ Almost there! All we have left is to inform Marketo Solution about the new user 
 
    >[!NOTE]
    >
-   >If you don't see **Marketo Config** in the Settings menu, refresh the page. If that doesn't work, try to [publish the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md) again or log out and back in.
+   >If you don't see **Marketo Config** in the Settings menu, refresh the page. If that doesn't work, try to [publish the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-3-install.md) again or log out and back in.
 
 1. Click **Default**.
 
@@ -130,4 +130,4 @@ Almost there! All we have left is to inform Marketo Solution about the new user 
 
    >[!MORELIKETHIS]
    >
-   >[Step 3 of 3: Connect Microsoft Dynamics with Marketo (Online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
+   >[Step 3 of 3: Connect the Marketo Solution with Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-3-connect.md)
