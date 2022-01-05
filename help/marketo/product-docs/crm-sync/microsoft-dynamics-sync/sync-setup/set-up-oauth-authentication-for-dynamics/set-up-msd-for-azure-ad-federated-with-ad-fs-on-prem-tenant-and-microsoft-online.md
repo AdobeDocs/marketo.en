@@ -13,7 +13,7 @@ exl-id: b6c10048-d27e-4135-beef-232deddc2984
 
 1. Write down the Application ID (ClientId). You'll need to enter it in Marketo later.
 
-1. Grant Admin consent by following the steps in [this article](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md).
+1. Grant Admin consent by following the steps in [this article](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md).
 
 1. Generate a Client Secret in the Admin Center by clicking **Certificates & secrets**.
 
