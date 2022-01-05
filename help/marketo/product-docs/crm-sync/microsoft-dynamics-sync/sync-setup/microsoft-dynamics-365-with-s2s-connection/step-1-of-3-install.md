@@ -1,8 +1,6 @@
 ---
-unique-page-id: 3571822
 description: Step 1 of 3 - Install the Marketo Solution with S2S Connection - Marketo Docs - Product Documentation
 title: Step 1 of 3 - Install the Marketo Solution with S2S Connection
-exl-id: 593fc014-db38-42cc-8f9f-0dd8307751e8
 ---
 # Step 1 of 3: Install the Marketo Solution with S2S Connection {#step-1-of-3-install-the-marketo-solution-s2s}
 
