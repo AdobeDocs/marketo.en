@@ -30,7 +30,7 @@ No, the automated background sync is the only way to sync updates between Market
 
 ## What fields will sync to Marketo? {#what-fields-will-sync-to-marketo}
 
-You can [select fields to sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) during setup. But Marketo will only sync the fields that your Dynamics sync user has access to.
+You can [select fields to sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) during setup. But Marketo will only sync the fields that your Dynamics sync user has access to.
 
 ## Will Marketo respect the Dynamics validation rules? {#will-marketo-respect-the-dynamics-validation-rules}
 

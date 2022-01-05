@@ -18,4 +18,4 @@ No, you must create the opportunity in Dynamics and it will automatically sync t
 
 ## What fields will sync to Marketo? {#what-fields-will-sync-to-marketo}
 
-You can [select fields to sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) during setup.
+You can [select fields to sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) during setup.
