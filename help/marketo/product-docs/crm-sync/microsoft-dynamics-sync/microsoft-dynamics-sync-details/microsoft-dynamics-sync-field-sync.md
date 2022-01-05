@@ -24,11 +24,11 @@ No, this is not currently supported.
 
 ## I created a field in Dynamics. Can I sync it to Marketo? {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-Yes, you can [sync the field](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) as long as your sync user has access to it in Dynamics.
+Yes, you can [sync the field](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) as long as your sync user has access to it in Dynamics.
 
 ## What fields will sync to Marketo? {#what-fields-will-sync-to-marketo}
 
-You can [select fields to sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) during setup.
+You can [select fields to sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) during setup.
 
 ## What if I need to add a custom field after Marketo and Dynamics are synced? {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 

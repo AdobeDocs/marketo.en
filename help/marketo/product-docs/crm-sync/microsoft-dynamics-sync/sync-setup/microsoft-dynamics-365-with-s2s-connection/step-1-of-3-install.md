@@ -9,7 +9,6 @@ Before you can sync Microsoft Dynamics 365 and Marketo, you need to first instal
 >[!CAUTION]
 >
 >* Do not enable custom entity sync before the initial sync is completed. You will be notified via email once the initial sync is completed.
->* If you have Multi-Factor Authentication (MFA) enabled for your Dynamics Sync, you must disable it in order for Dynamics to properly sync with Marketo. For additional information, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!NOTE]
 >

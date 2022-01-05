@@ -30,7 +30,7 @@ Marketo Sales Insight is a fantastic tool for giving your sales team a "window" 
 
    >[!NOTE]
    >
-   >You should already have [installed and configured the Marketo solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md) before moving forward.
+   >You should already have [installed and configured the Marketo solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md) before moving forward.
 
 1. Click **Import**.
 
