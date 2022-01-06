@@ -49,7 +49,7 @@ This is the last step of the sync. We're almost there!
 
 1. Enter the **Username**, **Password**, **Client ID**, **Client Secret**, and Microsoft Dynamics **URL**. Click **Save** when done.
 
-   ![](assets/five-1.png)
+   ![](assets/step-4-of-4-connect-the-marketo-solution-ropc-5.png)
 
    >[!NOTE]
    >

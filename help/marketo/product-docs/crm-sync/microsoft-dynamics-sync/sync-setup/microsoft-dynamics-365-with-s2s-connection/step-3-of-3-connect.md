@@ -23,7 +23,7 @@ This is the last step of the sync. We're almost there!
 
 ## Enter Dynamics Sync User information {#enter-dynamics-sync-user-information}
 
-1. Log into Marketo and click **Admin**.
+1. Log in to Marketo and click **Admin**.
 
    ![](assets/login-admin.png)
 
@@ -45,7 +45,7 @@ This is the last step of the sync. We're almost there!
 
 1. Enter the **Username**, **Password**, **Client ID**, **Client Secret**, and Microsoft Dynamics **URL**. Click **Save** when done.
 
-   ![](assets/five-1.png)
+   ![](assets/step-3-of-3-s2s-5.png)
 
    >[!NOTE]
    >
