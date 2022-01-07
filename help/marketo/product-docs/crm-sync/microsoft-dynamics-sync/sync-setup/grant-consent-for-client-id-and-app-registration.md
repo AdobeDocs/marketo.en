@@ -78,6 +78,3 @@ As an administrator, you can also consent to an application's delegated permissi
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)
 
->[!MORELIKETHIS]
->
->[Set up Microsoft Dynamics CRM App for On-prem](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)

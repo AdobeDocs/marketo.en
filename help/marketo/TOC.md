@@ -531,10 +531,6 @@ feature-set: Marketo Engage
           + [Step 1 of 3: Install the Marketo Solution with S2S Connection](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
           + [Step 2 of 3: Set up the Marketo Solution with S2S Connection](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
           + [Step 3 of 3: Connect the Marketo Solution with S2S Connection](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
-        + Set up OAuth Authentication for Dynamics {#set-up-oauth-authentication-for-dynamics}
-          + [Set up Microsoft Dynamics CRM App for Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
-          + [Set up Microsoft Dynamics CRM App for On-prem](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
-          + [Set up MSD for Azure AD Federated with AD FS On-prem, Tenant and Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
         + Connecting to Legacy Versions {#connecting-to-legacy-versions}
           + [Step 1 of 3: Install the Marketo Solution (2011 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
           + [Step 2 of 3: Set up Marketo Sync User in Dynamics (2011 On-Premises)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
