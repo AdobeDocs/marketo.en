@@ -49,7 +49,7 @@ This is the last step of the sync. We're almost there!
 
 1. Enter the **Username**, **Password**, **Client ID**, **Client Secret**, and Microsoft Dynamics **URL**. Click **Save** when done.
 
-   ![](assets/step-3-of-3-s2s-5.png)
+   ![](assets/step-3-of-3-connect-s2s-5.png)
 
    >[!NOTE]
    >
