@@ -1,14 +1,14 @@
 ---
 unique-page-id: 3571827
-description: Step 2 of 3 - Set up the Marketo Solution with S2S Connection - Marketo Docs - Product Documentation
-title: Step 2 of 3 - Set up the Marketo Solution with S2S Connection
+description: Step 2 of 3 - Set up the Marketo Solution with Server to Server Connection - Marketo Docs - Product Documentation
+title: Step 2 of 3 - Set up the Marketo Solution with Server to Server Connection
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 ---
-# Step 2 of 3: Set up Marketo Sync User in Dynamics with S2S Connection{#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
+# Step 2 of 3: Set up Marketo Solution with Server to Server Connection {#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
 
 >[!PREREQUISITES]
 >
->[Step 1 of 3: Install the Marketo Solution with S2S Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+>[Step 1 of 3: Install the Marketo Solution with Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
 
 ## Create Client Application in Azure AD {#create-client-application-in-azure-ad}
 
@@ -118,4 +118,4 @@ Almost there! All we have left is to inform Marketo Solution about the new user 
 
 >[!MORELIKETHIS]
 >
->[Step 3 of 3: Connect the Marketo Solution with S2S Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+>[Step 3 of 3: Connect the Marketo Solution with Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
