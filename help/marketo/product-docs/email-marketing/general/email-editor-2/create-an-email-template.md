@@ -10,7 +10,7 @@ Follow these steps to create a new email template.
 
 >[!NOTE]
 >
->Marketo Support is not set up to assist with troubleshooting custom HTML. For HTML assistance, please consult a web developer.
+>Marketo Support is not set up to assist with troubleshooting custom HTML. For HTML assistance, please consult an email developer or leverage an [Email Creation Platform](https://exchange.adobe.com/experiencecloud.details.103672.stensul-email-creation-platform.html) via Marketo LaunchPoint (partner program).
 
 ## Create a New Email Template {#create-a-new-email-template}
 
