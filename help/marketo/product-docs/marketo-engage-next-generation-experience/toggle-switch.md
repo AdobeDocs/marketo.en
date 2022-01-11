@@ -35,15 +35,15 @@ The new experience will load.
 
 1. In Marketo, find and select your form.
 
-   ![](assets/toggle-switch-5.png)
+   ![](assets/toggle-switch-8.png)
 
 1. In the bottom-right of the page, click the **New Experience** toggle.
 
-   ![](assets/toggle-switch-6.png)
+   ![](assets/toggle-switch-9.png)
 
 The new experience will load.
 
-   ![](assets/toggle-switch-7.png)
+   ![](assets/toggle-switch-10.png)
 
 ## Enable for All Features {#enable-for-all-features}
 
@@ -51,8 +51,8 @@ You have the option of enabling Marketo's next-gen interface for all available f
 
 1. In an area that currently has the Toggle Switch (in this example we're in [Form Details Page](#form-details-page)), click the gear icon in the bottom-right of the page.
 
-   ![](assets/toggle-switch-8.png)
+   ![](assets/toggle-switch-11.png)
 
 1. Select **Enable for all available features** and click **OK**.
 
-   ![](assets/toggle-switch-9.png)
+   ![](assets/toggle-switch-12.png)
