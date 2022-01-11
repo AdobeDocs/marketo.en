@@ -22,8 +22,6 @@ The following features will be released on **January 21, 2022**.
   * Landing Page Asset Details in Design Studio
   * Landing Page Asset Details in Marketing Activities
 
-* **Admin Control for the Next-Generation Experience Toggle Switch**: Admins have the ability to select which user types can access the toggle switch to view screens in the next-generation experience.
-
 ## Microsoft Dynamics Integration {#microsoft-dynamics-integration}
 
 * **Syncing of the Multiselect Optionset Field Type Generally Available**: Sync the multiselect optionset field type from Microsoft Dynamics to leverage in Smart Lists and Smart Campaigns for more granular audience targeting. Examples include: topics/products of interest, preferred modes of communication, and more. This new sync is available for Microsoft Dynamics version 9.X (including Dynamics 365 Online).

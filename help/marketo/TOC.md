@@ -185,6 +185,7 @@ feature-set: Marketo Engage
       + [Edit Subscription Settings](product-docs/administration/settings/edit-subscription-settings.md)
       + [Enable or Disable Treasure Chest Features](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
       + [Enable Personalized URLs for Your Account (Administration)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
+      + [Global Form Validation Rules](product-docs/administration/settings/global-form-validation-rules.md)
       + [How to Block Spam Form Submissions](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
       + [Landing Page Headers](product-docs/administration/settings/landing-page-headers.md)
       + [Restrict Marketo Logins Based on IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
