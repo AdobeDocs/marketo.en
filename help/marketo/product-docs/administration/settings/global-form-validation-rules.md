@@ -15,46 +15,46 @@ Before you can utilize this feature, you must enable its permssion per desired r
 
 1. In Marketo, click **Admin**.
 
-PICC
+   ![](assets/global-form-validation-rules-1.png)
 
 1. Click **Users & Roles**.
 
-PICC
+   ![](assets/global-form-validation-rules-2.png)
 
 1. Click the **Roles** tab.
 
-PICC
+   ![](assets/global-form-validation-rules-3.png)
 
 1. Double-click the role you'd like to grant permissions to.
 
-PICC
+   PICC
 
 1. Click the **+** sign next to Access Admin.
 
-PICC
+   PICC
 
 1. Scroll down and select **Access Form Validation Rules** and click **Save**.
 
-PICC
+   PICC
 
 ## Create New Form Validation Rule {#create-new-form-validation-rule}
 
 1. In Marketo, click **Admin**.
 
-PICC
+   ![](assets/global-form-validation-rules-7.png)
 
 1. Click **Global Form Validation Rule**.
 
-PICC
+   ![](assets/global-form-validation-rules-8.png)
 
 1. Click **New Form Validation Rule**.
 
-PICC
+   ![](assets/global-form-validation-rules-9.png)
+
+   >[!NOTE]
+   >
+   >The Form Validation Rule Actions drop-down allows you to delete or edit existing rules.
 
 1. Name your rule, give it an optional description, and enter the error message you want your form visitors to see. Enter the domain(s) you want blocked in the rules box, select **Activate Rule**, and click **Create**.
 
-PICC
-
->[!NOTE]
->
->The Form Validation Rule Actions drop-down allows you to delete or edit existing rules.
+   ![](assets/global-form-validation-rules-10.png)
