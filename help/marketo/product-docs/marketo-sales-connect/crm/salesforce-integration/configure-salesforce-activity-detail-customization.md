@@ -7,6 +7,11 @@ exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 ---
 # Configure Salesforce Activity Detail Customization {#configure-salesforce-activity-detail-customization}
 
+>[!PREREQUISITES]
+>
+>* Salesforce and Marketo Sales Connect [must be connected](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* Logging email activity via API [must be enabled](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+
 Activity Detail Customization allows admins to configure the information that will log to the Salesforce Task - Subject Field, when a Sales Connect activity/reminder task is synced to Salesforce.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
