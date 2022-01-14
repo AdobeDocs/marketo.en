@@ -6,7 +6,7 @@ exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 ---
 # Release Schedule {#release-schedule}
 
-**Release**: Marketo uses a quarterly major release schedule. Once available, each of the release notes will be linked in the table below.
+**Release**: The month/year of each release. Once available, the release notes will be linked in the table below.
 
 **Release Date**: Rollout typically begins on Tuesday of release week, with the bulk of the upgrade happening Friday evening. An email is sent out with specific dates and release details. The date listed is for the Friday update.
 
@@ -23,37 +23,42 @@ _Release dates are subject to change_
   <col> 
   <col> 
   <col> 
- </colgroup> 
+ </colgroup>
  <tbody> 
   <tr> 
-   <th width="250px">Release</th> 
-   <th width="250px">Release Date</th> 
-   <th width="250px">Status</th> 
-  </tr> 
+   <th width="250px">Release</th>
+   <th width="250px">Release Date</th>
+   <th width="250px">Status</th>
+  </tr>
   <tr> 
-   <td colspan="1"><a href="/help/marketo/release-notes/current.md">October '21</a></td> 
-   <td colspan="1">October 22, 2021</td> 
-   <td colspan="1">In Progress</td> 
-  </tr> 
+   <td><a href="/help/marketo/release-notes/current.md">January '22</a></td>
+   <td>January 21, 2022</td>
+   <td>In Progress</td>
+  </tr>
   <tr> 
-   <td colspan="1">January '22</td> 
-   <td colspan="1">January 21, 2022</td> 
-   <td colspan="1">On Schedule</td> 
-  </tr> 
+   <td>March '22</td>
+   <td>March 11, 2022</td>
+   <td>On Schedule</td>
+  </tr>
   <tr> 
-   <td colspan="1">May '22</td> 
-   <td colspan="1">May 6, 2022</td> 
-   <td colspan="1">On Schedule</td> 
-  </tr> 
+   <td>May '22</td>
+   <td>May 6, 2022</td>
+   <td>On Schedule</td>
+  </tr>
   <tr> 
-   <td colspan="1">August '22</td> 
-   <td colspan="1">August 19, 2022</td> 
-   <td colspan="1">On Schedule</td> 
-  </tr> 
+   <td>June '22</td>
+   <td>June 24, 2022</td>
+   <td>On Schedule</td>
+  </tr>
   <tr> 
-   <td colspan="1">October '22</td> 
-   <td colspan="1">October 14, 2022</td> 
-   <td colspan="1">On Schedule</td> 
-  </tr> 
- </tbody> 
+   <td>August '22</td>
+   <td>August 19, 2022</td>
+   <td>On Schedule</td>
+  </tr>
+  <tr>
+   <td>October '22</td>
+   <td>October 14, 2022</td>
+   <td>On Schedule</td>
+  </tr>
+ </tbody>
 </table>
