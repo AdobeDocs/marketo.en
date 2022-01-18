@@ -28,4 +28,3 @@ In Admin > Users & Roles, the Email Status column shows the verification status 
    ![](assets/email-verification-3.png)
 
 To verify an unverified user, simply select their record and click the **Verify Email** button.
-

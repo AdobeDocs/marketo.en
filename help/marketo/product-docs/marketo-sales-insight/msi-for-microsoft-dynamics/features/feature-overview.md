@@ -58,7 +58,15 @@ The following features are available in new MSI MSD Solution.
 * Add to Marketo Campaign
 * Send Marketo Email
 
-## Marketo Best Bets page  {#marketo-best-bets-page}
+## Marketo Sales Insight panel in Account Layout {#marketo-sales-insight-panel-in-account-layout}
+
+* Stars & Flames
+* Interesting Moment
+* Web Activity
+* Score
+* Email (open and click)
+
+## Marketo Best Bets page {#marketo-best-bets-page}
 
 * Priority (Stars & Flames)
 * Name (Hyperlinked to Lead/Contact page)

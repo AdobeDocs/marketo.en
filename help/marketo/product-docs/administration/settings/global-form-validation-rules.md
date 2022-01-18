@@ -27,15 +27,15 @@ Before you can utilize this feature, you must enable its permssion per desired r
 
 1. Double-click the role you'd like to grant permissions to.
 
-   PICC
+   ![](assets/global-form-validation-rules-4.png)
 
 1. Click the **+** sign next to Access Admin.
 
-   PICC
+   ![](assets/global-form-validation-rules-5.png)
 
 1. Scroll down and select **Access Form Validation Rules** and click **Save**.
 
-   PICC
+   ![](assets/global-form-validation-rules-6.png)
 
 ## Create New Form Validation Rule {#create-new-form-validation-rule}
 
