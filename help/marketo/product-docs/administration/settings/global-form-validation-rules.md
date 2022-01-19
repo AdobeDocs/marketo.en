@@ -39,6 +39,10 @@ Before you can utilize this feature, you must enable its permssion per desired r
 
 ## Create New Form Validation Rule {#create-new-form-validation-rule}
 
+>[!IMPORTANT]
+>
+>These rules will apply to all forms in your Marketo Engage subscriptions.
+
 1. In Marketo, click **Admin**.
 
    ![](assets/global-form-validation-rules-7.png)

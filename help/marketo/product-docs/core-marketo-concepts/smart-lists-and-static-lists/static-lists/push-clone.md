@@ -12,6 +12,7 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 >
 >* [Create an API User](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) in Marketo.
 >* Then, go to **Admin** > **Launchpoint**. Find the name of the role you just created and click **View Details**. Copy and save the info in **Client ID** and **Client Secret**, as you'll need it for this feature.
+>* In Marketo, create a static list, or find and select one you've already created. You'll need its ID.
 
 1. Log in to [Adobe Experience Platform](https://experience.adobe.com/).
 
@@ -46,15 +47,13 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-Next you'll have to choose whether you want to match existing Marketo people only, or match existing Marketo people and create the missing people in Marketo. Below are sections that outline how to do each.
-
-## Match Existing Marketo People and Create Missing People in Marketo {#match-existing-marketo-people-create-missing-people}
-
-After following Steps 1-8 from above...
-
-1. Enter a Destination **Name** and an optional Description. Click the Person Creation drop-down and select **Match Existing Marketo People and Create Missing People in Marketo**.
+1. Enter a Destination **Name** and an optional Description. Click the Person Creation drop-down and choose "Match Existing Marketo People and Create Missing People in Marketo" _or_ "Match Existing Marketo People Only." In this example we're choosing the former.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
+
+   >[!NOTE]
+   >
+   >If you choose "Match Existing Marketo People Only" you'll only need to map the Email and/or ECID, so you can skip Steps 13-16.
 
 1. This section is optional. Click **Create** to skip.
 
@@ -80,7 +79,7 @@ After following Steps 1-8 from above...
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
 
-1. Map the Last Name and Company name by clicking **Add New Mapping** again and repeating Step 7 twice, choosing lastName and then companyName.
+1. Map the Last Name and Company Name by clicking **Add New Mapping** again and repeating Step 15 twice, choosing **lastName** and then **companyName**.
 
    ![](assets/push-an-adobe-experience-platform-segment-16.png)
 
@@ -104,26 +103,34 @@ After following Steps 1-8 from above...
 
    ![](assets/push-an-adobe-experience-platform-segment-21.png)
 
-MORREEEE
+1. To choose the Company Name source field, click the cursor icon in its row.
 
-## Match Existing Marketo People Only {#match-existing-marketo-people-only}
+   ![](assets/push-an-adobe-experience-platform-segment-22.png)
 
-   >[!NOTE]
-   >
-   >Identities are used to look for matches in Marketo. If a match is found, the person is added to the static List. If a match is not found, those people are dropped (i.e., not created in Marketo).
+1. Leave the Select Attribute radio button checked. Search for "company" and select **companyName**, then click **Select**.
 
-1. _In Marketo_, create a static list, or find and select one you've already created. Copy the mapping ID from the end of the URL.
+   ![](assets/push-an-adobe-experience-platform-segment-23.png)
 
-PICC
+1. Map the source fields for Last Name and First Name by clicking the cursor icon for each and repeating Step 23 twice, choosing **lastName** and then **firstName**.
 
-   >[!NOTE]
-   >
-   >For best results, make sure the list you reference in Marketo is empty.
+   ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
-1. Back in Adobe Experience Platform, enter the ID you just copied. Choose your Start Date. People will continuously sync until the chosen end date. For an indefinite sync, leave the end date blank. Click **Next** when done.
+1. Click **Next**.
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. Confirm your changes and click **Finish**.
+1. You will now need your list's ID. Click the tab in your browser that has your Marketo static list open (or open a new tab and select your desired static list).
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+1. Highlight and copy the list ID at the end of the URL.
+
+   ![](assets/push-an-adobe-experience-platform-segment-27.png)
+
+1. Paste the ID you just copied under Mapping ID and click **Next**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-28.png)
+
+1. Click **Finish**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-29.png)
