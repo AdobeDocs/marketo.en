@@ -15,108 +15,98 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
 1. Log in to [Adobe Experience Platform](https://experience.adobe.com/).
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-1.png)
+   ![](assets/push-an-adobe-experience-platform-segment-1.png)
 
 1. Click the grid icon and select **Experience Platform**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-2.png)
+   ![](assets/push-an-adobe-experience-platform-segment-2.png)
 
 1. In the left nav, click **Destinations**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-3.png)
+   ![](assets/push-an-adobe-experience-platform-segment-3.png)
 
 1. Click **Catalog**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-4.png)
+   ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
 1. Find the Marketo Engage tile and click **Activate Segments**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-5.png)
+   ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
 1. Click **Configure New Destination**.
 
+   ![](assets/push-an-adobe-experience-platform-segment-6.png)
 
-1. Under Account Type, choose Existing account or **New Account** radio button (in this example, we're choosing **New Account**). Enter your Marketo credentials.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-6.png)
+1. Under Account Type, select the Existing or New Account radio button (in this example, we're choosing **Existing Account**). Click the Select Account icon.
 
-   >[!NOTE]
-   >
-   >You can find your Munchkin ID by going to **Admin** > **Munchkin** (it's also part of your Marketo URL once logged in). Client ID/Secret you should have from following the prerequisites at the top of this article.
+   ![](assets/push-an-adobe-experience-platform-segment-7.png)
 
-1. Under Person Creation, choose "Match Existing People Only" or  "Match Existing People and Create Missing People in Marketo." In this option we're choosing the latter.
+1. Choose the destination account and click **Select**.
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. "Connected" should appear below your credentials. Click **Next** in the upper right-hand corner.
+Next you'll have to choose whether you want to match existing Marketo people only, or match existing Marketo people and create the missing people in Marketo. Below are sections that outline how to do each.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-7.png)
+## Match Existing Marketo People and Create Missing People in Marketo {#match-existing-marketo-people-create-missing-people}
 
-1. Enter a **Name** and an _optional_ Description. Click **Create Destination**.
+After following Steps 1-8 from above...
 
-   >[!NOTE]
-   >
-   >Choosing something from Marketing Actions is also optional. Marketo doesn't leverage that information at this time, but likely will soon.
+1. Enter a Destination **Name** and an optional Description. Click the Person Creation drop-down and select **Match Existing Marketo People and Create Missing People in Marketo**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-8.png)
+   ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
-1. Click **Next**.
+1. This section is optional. Click **Create** to skip.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-9.png)
+   ![](assets/push-an-adobe-experience-platform-segment-10.png)
 
-1. Choose your desired segment and click **Next**.
+1. Select the destination you created and click **Next**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-10.png)
+   ![](assets/push-an-adobe-experience-platform-segment-11.png)
 
-   >[!NOTE]
-   >
-   >If you choose multiple segments here, you'll have to map each segment to a specified static list in the Segment Schedule tab.
+1. Choose the segment you want to send to Marketo and click **Next**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-12.png)
 
 1. Click **Add New Mapping**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-11.png)
-
-1. Click the cursor icon.
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-12.png)
-
-1. Choose either the **Select Attributes** or **Select Identity Namespace** radio button (in this example, we're choosing Attributes).
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-13.png)
-
-   >[!NOTE]
-   >
-   >If you chose **Select Identity Namespace**, after making your selection, skip to Step 15.
-
-1. Choose the relevant field that contains the email address that identifies the user. Click **Select** when done.
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-14.png)
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-15.png)
-
-   >[!NOTE]
-   >
-   >The example we've chosen may look much different than your selection.
+   ![](assets/push-an-adobe-experience-platform-segment-13.png)
 
 1. Click the mapping icon.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-16.png)
+   ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. Choose **Select Identity Namespace**.
+1. Map First Name by selecting **firstName** and clicking **Select**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-17.png)
+   ![](assets/push-an-adobe-experience-platform-segment-15.png)
 
-   >[!IMPORTANT]
-   >
-   >Mapping attributes is optional. Mapping Email and/or ECID from the **Identity Namespace** tab is the most important thing to do to ensure the person is matched in Marketo. Mapping Email will ensure the highest match rate.
+1. Map the Last Name and Company name by clicking **Add New Mapping** again and repeating Step 7 twice, choosing lastName and then companyName.
 
-1. Choose between ECID or Email. In this example we're choosing **Email**.
+   ![](assets/push-an-adobe-experience-platform-segment-16.png)
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-18.png)
+1. Now it's time to map the email address. Click **Add New Mapping** again.
 
-1. Click **Next**.
+   ![](assets/push-an-adobe-experience-platform-segment-17.png)
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-19.png)
+1. Click the mapping icon.
+
+   ![](assets/push-an-adobe-experience-platform-segment-18.png)
+
+1. Click the Select Identity Namespace radio button, choose  **Email**, then click **Select**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-19.png)
+
+1. Now it's time to choose the source fields. For email, click the cursor icon.
+
+   ![](assets/push-an-adobe-experience-platform-segment-20.png)
+
+1. Click the Select Identity Namespace radio button, find and select **Email**, then click **Select**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-21.png)
+
+MORREEEE
+
+## Match Existing Marketo People Only {#match-existing-marketo-people-only}
 
    >[!NOTE]
    >
@@ -124,7 +114,7 @@ PICC
 
 1. _In Marketo_, create a static list, or find and select one you've already created. Copy the mapping ID from the end of the URL.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-20.png)
+PICC
 
    >[!NOTE]
    >
@@ -132,8 +122,8 @@ PICC
 
 1. Back in Adobe Experience Platform, enter the ID you just copied. Choose your Start Date. People will continuously sync until the chosen end date. For an indefinite sync, leave the end date blank. Click **Next** when done.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-21.png)
+PICC
 
 1. Confirm your changes and click **Finish**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-22.png)
+PICC

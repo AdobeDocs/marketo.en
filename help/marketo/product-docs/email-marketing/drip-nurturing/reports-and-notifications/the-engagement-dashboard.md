@@ -10,7 +10,7 @@ The Engagement Dashboard is the easiest way to see how the content in your engag
 
 >[!NOTE]
 >
->The engagement score is calculated 72 hours after each cast. Learn more about the [engagement score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+>The engagement score includes data from your last three casts. A new one is calculated 72 hours after each cast. Learn more about the [engagement score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ## View the Engagement Dashboard {#view-the-engagement-dashboard}
 

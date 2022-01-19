@@ -12,7 +12,7 @@ The engagement score makes it easy to see how effective the content in your enga
 
 ![](assets/highestengagementwidget.jpg)
 
-The score is based on a proprietary algorithm that takes into account engaged behavior (Open, Click, Program Success) and disengaged behavior (Unsubscribe). It's benchmarked against drip and nurture style emails to give an average of 50. To give people a chance to engage with your content, the engagement score is calculated 72 hours after each cast.
+The score is based on a proprietary algorithm that takes into account engaged behavior (Open, Click, Program Success) and disengaged behavior (Unsubscribe). It's benchmarked against drip and nurture style emails to give an average of 50. To give people a chance to engage with your content, the engagement score is calculated 72 hours after each cast. Also, the score only covers data from **your last three** casts.
 
 >[!NOTE]
 >
