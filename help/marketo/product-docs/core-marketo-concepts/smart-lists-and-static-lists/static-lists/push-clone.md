@@ -43,6 +43,10 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    ![](assets/push-an-adobe-experience-platform-segment-7.png)
 
+   >[!NOTE]
+   >
+   >If you are choosing New Account, you can find your Munchkin ID by going to **Admin** > **Munchkin** (it's also part of your Marketo URL once logged in). Client ID/Secret you should have from following the prerequisites at the top of this article.
+
 1. Choose the destination account and click **Select**.
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
@@ -66,6 +70,10 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 1. Choose the segment you want to send to Marketo and click **Next**.
 
    ![](assets/push-an-adobe-experience-platform-segment-12.png)
+
+   >[!NOTE]
+   >
+   >If you choose multiple segments here, you'll have to map each segment to a specified static list in the Segment Schedule tab.
 
 1. Click **Add New Mapping**.
 
@@ -95,6 +103,10 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
+   >[!IMPORTANT]
+   >
+   >Mapping Email and/or ECID from the **Identity Namespace** tab is the most important thing to do to ensure the person is matched in Marketo. Mapping Email will ensure the highest match rate.
+
 1. Now it's time to choose the source fields. For email, click the cursor icon.
 
    ![](assets/push-an-adobe-experience-platform-segment-20.png)
@@ -122,6 +134,10 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 1. You will now need your list's ID. Click the tab in your browser that has your Marketo static list open (or open a new tab and select your desired static list).
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+   >[!NOTE]
+   >
+   >For best results, use an empty Marketo Engage list.
 
 1. Highlight and copy the list ID at the end of the URL.
 
