@@ -355,6 +355,7 @@ feature-set: Marketo Engage
         + [Create a Static List](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
         + [Send a List to Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
         + [Push an Adobe Experience Platform Segment to a Marketo Static List](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)
+        + [Push Clone](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-clone.md)
         + [Understanding Static Lists](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
     + Programs {#programs}
       + Creating Programs {#creating-programs}
