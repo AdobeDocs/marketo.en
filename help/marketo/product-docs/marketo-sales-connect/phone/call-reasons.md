@@ -33,6 +33,10 @@ Allow your sales teams to select call reasons when making calls so your team can
 
 ## Create Call Reason {#create-call}
 
+>[!NOTE]
+>
+>You can create a maximum of 15 Call Reasons.
+
 1. Click on the gear icon and select **Settings**.
 
    ![](assets/call-reasons-5.png)

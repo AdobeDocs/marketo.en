@@ -33,6 +33,10 @@ Allow your sales teams to select call outcomes when making calls so your team ca
 
 ## Create Call Outcomes {#create-call-outcomes}
 
+>[!NOTE]
+>
+>You can create a maximum of 15 Call Outcomes.
+
 1. Click on the gear icon and select **Settings**.
 
    ![](assets/call-outcomes-5.png)
