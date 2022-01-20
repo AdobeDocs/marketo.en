@@ -85,7 +85,7 @@ feature-set: Marketo Engage
       + [Minimum System Requirements](product-docs/administration/setup-administration/minimum-system-requirements.md)
       + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
       + [Supported Browsers](product-docs/administration/setup-administration/supported-browsers.md)
-      + [Global Form Validation Rule](product-docs/administration/setup-administration/global-form-validation-rule.md)
+      + [Global Form Validation Rules](product-docs/administration/setup-administration/global-form-validation-rules.md)
     + Additional Integrations {#additional-integrations}
       + [Add Adobe Connect as a LaunchPoint Service](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
       + [Add Google AdWords as a Launchpoint Service with a Manager Account](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
@@ -355,7 +355,6 @@ feature-set: Marketo Engage
         + [Create a Static List](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
         + [Send a List to Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
         + [Push an Adobe Experience Platform Segment to a Marketo Static List](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)
-        + [Push Clone](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-clone.md)
         + [Understanding Static Lists](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
     + Programs {#programs}
       + Creating Programs {#creating-programs}
