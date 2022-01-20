@@ -1,6 +1,8 @@
 ---
 description: Global Form Validation Rules - Marketo Docs - Product Documentation
 title: Global Form Validation Rules
+hide: yes
+hidefromtoc: yes
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 ---
 # Global Form Validation Rules {#global-form-validation-rules}
