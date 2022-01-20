@@ -10,31 +10,31 @@ Here's how to set up bulk actions in Salesforce Lightning.
 
 1. In Salesforce, click the Setup icon and select **Setup**.
 
-   ![](assets/one.png)
+   ![](assets/bulk-actions-in-salesforce-lightning-1.png)
 
 1. Click the **Object Manager** tab.
 
-   ![](assets/two.png)
+   ![](assets/bulk-actions-in-salesforce-lightning-2.png)
 
 1. Find and select the **Lead** label.
 
-   ![](assets/three-2.png)
+   ![](assets/bulk-actions-in-salesforce-lightning-3.png)
 
 1. Click **Search Layouts for Salesforce Classic**.
 
-   ![](assets/four-1.png)
+   ![](assets/bulk-actions-in-salesforce-lightning-4.png)
 
    Find the List View layout. Click the drop-down to the right and select **Edit**.
 
-   ![](assets/five.png)
+   ![](assets/bulk-actions-in-salesforce-lightning-5.png)
 
 1. Under Custom Buttons, find and select **Add to Marketo Campaign (lightning)** and **Send Marketo Email (lightning)**. Click the **Add** button.
 
-   ![](assets/six.png)
+   ![](assets/bulk-actions-in-salesforce-lightning-6.png)
 
 1. Click **Save**.
 
-   ![](assets/seven.png)
+   ![](assets/bulk-actions-in-salesforce-lightning-7.png)
 
    You will now be able to see bulk action buttons in your Lead List View.
 

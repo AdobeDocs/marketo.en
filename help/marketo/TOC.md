@@ -1323,6 +1323,8 @@ feature-set: Marketo Engage
       + Installation {#installation}
         + [Install Marketo Sales Insight Package in Salesforce AppExchange](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
       + Configuration {#configuration}
+        + [Add Bulk Action Buttons to Salesforce Classic](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
+        + [Add Marketo Tab to Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
         + [Configure Marketo Sales Insight in Salesforce Enterprise/Unlimited](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
         + [Configure Marketo Sales Insight in Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
         + [Configuration for Existing Customers](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
@@ -1333,13 +1335,12 @@ feature-set: Marketo Engage
         + [MSI Feature Overview](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
         + [Insights Dashboard Feature Overview](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
         + Actions in the MSI Panel {#actions-in-the-msi-panel}
-          + [Add a Lead/Contact to a Marketo Campaign from Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/add-to-marketo-campaign/add-a-lead-contact-to-a-marketo-campaign-from-salesforce.md)
+          + [Choose an Action in Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
           + [Configure Unsubscribe Footers in Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
           + [Lock Sales Template](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
           + [Publish an Email to Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
           + [Send a Test Email](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
         + Bulk Actions {#bulk-actions}
-          + [Add Marketo Sales Insight Tab and Buttons to Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
           + [Bulk Actions in Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
           + [Send an Email to Multiple Records in Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
         + Language Support {#language-support}

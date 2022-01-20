@@ -21,28 +21,28 @@ Each of these features can be accessed from:
 * Lead Layout Button: Single action and cannot be controlled by user profile
 * Contact Layout Button: Single action and cannot be controlled by user profile
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-1.png)
 
 **Page Layout with group action**
 
-Account Layout Panel: Group action & can be controlled by user profile
-Opportunity Layout Panel: Group action & can be controlled by user profile
+* Account Layout Panel: Group action and can be controlled by user profile
+* Opportunity Layout Panel: Group action and can be controlled by user profile
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-2.png)
 
 **Best Bets tab**
 
-* Best Bets Bulk Actions Tab: Group action & can be controlled by user profile
+* Best Bets Bulk Actions Tab: Group action and can be controlled by user profile
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-3.png)
 
-* Best Bets In-line Actions Tab: Single action & can be controlled by user profile
+* Best Bets In-line Actions Tab: Single action and can be controlled by user profile
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-4.png)
 
 **List View with bulk action**
 
-* Lead List View: Bulk action & cannot be controlled by user profile
-* Contact List View: Bulk action & cannot be controlled by user profile
+* Lead List View: Bulk action and cannot be controlled by user profile
+* Contact List View: Bulk action and cannot be controlled by user profile
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-5.png)

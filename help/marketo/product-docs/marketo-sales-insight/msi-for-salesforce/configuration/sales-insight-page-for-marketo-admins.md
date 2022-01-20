@@ -20,10 +20,6 @@ These credentials are used to connect your Salesforce account to your Marketo in
 
 ![](assets/two-1.png)
 
-You can choose to remove Rest API credentials in SFDC and use only Soap APIs. This will disable the Insights Dashboard
-
-![](assets/three-1.png)
-
 ## Person Score Settings {#person-score-settings}
 
 * **Stars**: Stars represent total lead score compared to other leads.

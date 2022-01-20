@@ -13,7 +13,7 @@ The following features are included in the January '22 release. Check your Adobe
 
 **_Quarterly Releases_**
 
-The following features will be released on **January 21, 2022**.
+The following features will start to be released on **January 21, 2022**, with a phased rollout of every feature over the following week (unless specified otherwise).
 
 ## Next-Generation Experience {#next-generation-experience}
 
