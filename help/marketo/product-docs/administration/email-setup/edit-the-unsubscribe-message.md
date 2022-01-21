@@ -22,8 +22,8 @@ When you send marketing emails (non-[operational](/help/marketo/product-docs/ema
    >
    >The following variables are critical. Don't delete them!
    >
-   >* **%mkt_opt_out_prefix%**
-   >* **mkt_unsubscribe=1&mkt_tok=##MKT_TOK##**
+   >* `%mkt_opt_out_prefix%`
+   >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
 1. Edit the **Unsubscribe HTML** and **Unsubscribe Text** versions to your liking and click **Save Changes**.
 
