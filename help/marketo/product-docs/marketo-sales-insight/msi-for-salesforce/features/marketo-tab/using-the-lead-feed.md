@@ -14,13 +14,13 @@ The Lead Feed is an up-to-the-minute list of interesting events done by your lea
 
 ## What's in the Lead Feed? {#whats-in-the-lead-feed}
 
-![](assets/one.png)
+![](assets/using-the-lead-feed-1.png)
 
 Each item in the lead feed is an interesting moment - a noteworthy activity or event in this lead's marketing history.
 
 When viewing it in Salesforce, each item has:
 
-![](assets/two.png)
+![](assets/using-the-lead-feed-2.png)
 
 <table> 
  <colgroup> 
@@ -80,6 +80,6 @@ You can also get Lead Feed updates by RSS feed.  An RSS feed lets you receive up
 
 To get RSS updates, you'll need two things: the RSS link and an RSS feed reader. You can get the RSS link by clicking the RSS icon in the lead feed:
 
-![](assets/three.png)
+![](assets/using-the-lead-feed-3.png)
 
 The RSS feed will appear in a new window. You can then copy the URL for your RSS feed and use it in an RSS reader. Most browsers have a built-in RSS reader, or you can use an RSS reader specific to your platform.

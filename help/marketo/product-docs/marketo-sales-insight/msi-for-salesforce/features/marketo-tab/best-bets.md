@@ -31,6 +31,8 @@ By clicking the dota menu under the Actions column, you can reach out to a speci
 * View in Marketo
 * Add to Watchlist
 
+![](assets/best-bets-1.png)
+
 **Bulk Actions**
 
 You can select one or more leads or contacts from your Best Bets page using the checkbox and reach out to them as a group using the following engagement options:  
@@ -39,7 +41,7 @@ You can select one or more leads or contacts from your Best Bets page using the 
 * Add to Marketo Campaign
 * Add to Watchlist
 
-![](assets/best-bets-1.png)
+![](assets/best-bets-2.png)
 
 >[!NOTE]
 >

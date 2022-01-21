@@ -24,7 +24,7 @@ You need to install the Marketo Sales Insight app in your Salesforce subscriptio
 
 1. Enter your connected Salesforce account log-in and click **Install in Production**.
 
-   ![](assets/three.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-2.png)
 
    >[!TIP]
    >
@@ -32,39 +32,39 @@ You need to install the Marketo Sales Insight app in your Salesforce subscriptio
 
 1. Read and accept the terms and conditions, then click **Confirm and Install**.
 
-   ![](assets/four.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-3.png)
 
 1. You can choose to “Install for Admins Only” (and provide MSI access to specific profiles later), “Install for All Users,” or, “Install for Specific Profiles.”
 
-   ![](assets/five.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-4.png)
 
 1. You might see the following message once you start installation process. You will receive an email once the installation is complete. Click **Done** to dismiss.
 
-   ![](assets/six.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-5.png)
 
 1. Verify that **Marketo Sales Insight** is in the Installed Packages.
 
-   ![](assets/seven.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-6.png)
 
 1. Click **Setup** next to your name.
 
-   ![](assets/image2015-5-22-14-3a40-3a39.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-7.png)
 
 1. Search for "objects", then click **Objects** under **Create**.
 
-   ![](assets/image2015-5-22-14-3a42-3a7.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-8.png)
 
 1. Double-check that **Deployed** is checked for all of Marketo Sales Insight items.
 
-   ![](assets/image2015-5-27-16-3a15-3a58.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-9.png)
 
 1. If an object is not deployed, click **Edit** next to the item.
 
-   ![](assets/image2014-9-24-17-3a23-3a45.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-10.png)
 
 1. Under **Deployment Status** section, select **Deployed**, and click **Save**.
 
-   ![](assets/image2014-9-24-17-3a24-3a0.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-11.png)
 
 Great job! Now you've installed and deployed Marketo Sales Insight. Go ahead and configure it for your sales team and watch the sales skyrocket.
 

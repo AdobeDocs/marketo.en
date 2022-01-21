@@ -10,15 +10,15 @@ It's super easy to send a Marketo email to multiple people using Marketo Sales I
 
 1. In Salesforce, click **Leads** or **Contacts**.
 
-   ![](assets/image2015-6-1-14-3a40-3a35.png)
+   ![](assets/send-an-email-to-multiple-records-in-marketo-sales-insight-1.png)
 
 1. Click **Go** to view all open leads.
 
-   ![](assets/image2015-6-1-14-3a41-3a42.png)
+   ![](assets/send-an-email-to-multiple-records-in-marketo-sales-insight-2.png)
 
 1. In the list view, check all leads/contacts you would like to send email to, and click **Send Marketo Email (classic)**.
 
-   ![](assets/three.png)
+   ![](assets/send-an-email-to-multiple-records-in-marketo-sales-insight-3.png)
 
    >[!NOTE]
    >
@@ -30,7 +30,7 @@ It's super easy to send a Marketo email to multiple people using Marketo Sales I
 
 1. Go ahead and compose your email. Click **Send with Marketo** when finished.
 
-   ![](assets/four.png)
+   ![](assets/send-an-email-to-multiple-records-in-marketo-sales-insight-4.png)
 
    >[!TIP]
    >

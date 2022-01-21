@@ -8,7 +8,7 @@ exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 
 Marketo Sales Insight picks your best leads and contacts based on their priority. A lead or contact's priority has two components -- urgency and relative score.
 
-![](assets/one.png)
+![](assets/priority-urgency-relative-score-and-best-bets-1.png)
 
 These are derived from the lead score -- a measure of the person's interest in your product(s). The higher the score, the more likely they will respond positively to a call from your sales team.
 
@@ -22,7 +22,7 @@ The flames represent urgency -- how much this person's lead score has changed re
 
 For example, a lead who requested a demo and visited several web pages will probably have a very high urgency. A lead who didn't visit your web page or open your emails will have a low urgency. Use urgency to prioritize who needs to be contacted next.
 
-![](assets/two.png)
+![](assets/priority-urgency-relative-score-and-best-bets-2.png)
 
 ## Relative Score {#relative-score}
 

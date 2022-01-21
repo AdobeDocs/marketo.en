@@ -12,7 +12,7 @@ Learn more about the features available in your Sales Insights dashboard.
 >
 >You must have the latest MSI SFDC package and [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
-![](assets/one.png)
+![](assets/insights-dashboard-feature-overview-1.png)
 
 ## Contact Layout {#contact-layout}
 
@@ -42,7 +42,7 @@ Email Campaigns tab:
 * The activity details card in this section will have a preview option. If the flow includes multiple send email steps, all emails will be available to preview. Within the send email flow step, if there are multiple “email choices”, the default option will be available for preview
 * Filters include “Search” and “Date Range”
 
-![](assets/three.png)
+![](assets/insights-dashboard-feature-overview-2.png)
 
 Event tab:
 
@@ -53,7 +53,7 @@ Event tab:
 * Activity details card in this section has preview option
 * Filter includes “Search”, “Show only invited events”, and “Date Range”
 
-![](assets/two.png)
+![](assets/insights-dashboard-feature-overview-3.png)
 
 ## Lead Layout {#lead-layout}
 
@@ -83,7 +83,7 @@ Email Campaigns tab:
 * The activity details card in this section will have a preview option. If the flow includes multiple send email steps, all emails will be available to preview. Within the send email flow step, if there are multiple “email choices”, the default option will be available for preview
 * Filters include “Search” and “Date Range”
 
-![](assets/five.png)
+![](assets/insights-dashboard-feature-overview-4.png)
 
 Event tab:
 
@@ -94,7 +94,7 @@ Event tab:
 * Activity details card in this section has preview option
 * Filter includes “Search”, “Show only invited events”, and “Date Range”
 
-![](assets/four.png)
+![](assets/insights-dashboard-feature-overview-5.png)
 
 ## Account Layout {#account-layout}
 
