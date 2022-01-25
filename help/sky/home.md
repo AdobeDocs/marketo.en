@@ -9,6 +9,10 @@ exl-id: 26684ca6-ea77-423f-9434-3fbfaf7ea3ab
 
 The [!DNL Marketo Sky] interface utilizes new designs, workflows, and features to help you get more out of [!DNL Marketo].
 
+>[!IMPORTANT]
+>
+>Marketo Sky will be deprecated in March of 2022. [Learn more here](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33).
+
 ## Getting Started
 
 * [What's available in Marketo Sky](/help/sky/marketo-sky-features.md)

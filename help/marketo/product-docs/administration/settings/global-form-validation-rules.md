@@ -62,3 +62,7 @@ Before you can utilize this feature, you must enable its permssion per desired r
 1. Name your rule, give it an optional description, and enter the error message you want your form visitors to see. Enter the domain(s) you want blocked in the rules box, select **Activate Rule**, and click **Create**.
 
    ![](assets/global-form-validation-rules-10.png)
+
+>[!NOTE]
+>
+>Marketo Engage offers a defined blocklist of free consumer email domains that are blocked when using our pre-loaded "Consumer Email Domain Blocklist" rule. [View that list here](https://experienceleague.adobe.com/docs/marketo/assets/freemaildomains.csv).
