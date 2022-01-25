@@ -44,7 +44,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 ## AEP Marketo Engage Destination Connector – Create Net-new Leads {#aep-marketo-engage-destination-connector}
 
-Marketo Engage customers that also use the Adobe Experience Platform (AEP) can maximize their database with the ability to push net-new person records into Marketo Engage from AEP via the AEP destination connector. When sending audience segments from AEP to Marketo Engage, people within the segment that don't already exist in your Marketo Engage database will be automatically added to it.
+Marketo Engage customers that also use the Adobe Experience Platform (AEP) can maximize their database with the ability to push net-new person records into Marketo Engage from AEP via the AEP destination connector. When sending audience segments from AEP to Marketo Engage, people within the segment that don't already exist in your Marketo Engage database [can be automatically added to it](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md).
 
 ## Sales Insight {#sales-insight}
 
@@ -72,7 +72,7 @@ Marketo Engage customers that also use the Adobe Experience Platform (AEP) can m
 
 ## Announcements {#announcements}
 
-* **Marketo Sky Sunsetting**: On March 11th, Marketo Sky will no longer be available as we focus our resources on delivering the next-generation user experience. In an effort to maintain access to functionality that is exclusive to Marketo Sky today, we are bringing Asset Expiration and Smart Campaign Priority Override into the mainstream experience in March.
+* **Marketo Sky Deprecation**: On March 11th, Marketo Sky will no longer be available as we focus our resources on delivering the next-generation user experience. In an effort to maintain access to functionality that is exclusive to Marketo Sky today, we are bringing Asset Expiration and Smart Campaign Priority Override into the mainstream experience in March. [Click here](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) to learn more.
 
 * **Form Endpoints Deprecation**: Unsupported programmatic form POSTs to the leadCapture/save2 endpoint will be rejected by Marketo Engage forms. [Click here](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) to learn more.
 
