@@ -95,25 +95,39 @@ When configuring your activity details, consider what data would be most relevan
 
 1. Click the gear icon and select **Settings**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
 1. Click **Salesforce**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
 1. Click **Sync Settings**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. In the Activity Details Customization editor add any free text you want, this will remain unchanged for the subject field of all tasks synced to Salesforce.
+1. In the Activity Details Customization editor add any free text you want. Text you add is non-dynamic and will remain unchanged for the subject field of all tasks synced to Salesforce.
 
-1. Add any dynamic fields you would like to add by clicking the dynamic field button and selecting the dynamic fields you want to use from the list.  
+   ![](assets/configure-salesforce-activity-detail-customization-6.png)
+
+   >[!TIP]
+   >
+   >Although not required, wrapping added text in straight brackets can make it easier for some people to discern between the data when it's populated to a subject field in Salesforce. Example: `[Sales Connect] - {{Activity_type}}`
+
+1. Add any additional dynamic fields you'd like by clicking the **Add Dynamic Field** button.
+
+   ![](assets/configure-salesforce-activity-detail-customization-7.png)
+
+1. Select the desired dynamic field(s).
+
+   ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
 1. Click **Save**.
 
+   ![](assets/configure-salesforce-activity-detail-customization-9.png)
+
 >[!NOTE]
 >
->Salesforce enforces a 255 character limit. If your activity detail exceeds that, it will be truncated to ensure the information can be stored on the Salesforce subject field.  
+>Salesforce enforces a 255 character limit. If your activity detail exceeds that, it will be truncated to ensure the information gets stored on the Salesforce subject field.  
 
 >[!MORELIKETHIS]
 >
