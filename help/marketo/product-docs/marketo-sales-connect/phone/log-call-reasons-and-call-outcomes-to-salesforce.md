@@ -18,11 +18,11 @@ To utilize these fields, you'll first need to create the field as a custom activ
 
 ### Create Custom Activity Field in Salesforce Classic  {#create-custom-activity-field-in-salesforce-classic}
 
-1. In Salesforce, click **Setup**.
+1. In Salesforce, click **Setup**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
-1. Type "Activities" in the Quick Find box.
+1. Type "Activities" in the Quick Find box.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-2.png)
 
@@ -64,11 +64,11 @@ To utilize these fields, you'll first need to create the field as a custom activ
 >
 >You'll only have to follow these steps if you didn't select your desired page layout in Step 9 above.
 
-1. In Salesforce, click **Setup**.
+1. In Salesforce, click **Setup**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
 
-1. Type "Task" in the Quick Find box.
+1. Type "Task" in the Quick Find box.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-11.png)
 
@@ -100,15 +100,15 @@ To utilize these fields, you'll first need to create the field as a custom activ
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
-1. Type "Activity" in the Quick Find box.
+1. Type "Activity" in the Quick Find box.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. Click the **Activity** label.
+1. Click the **Activity** label.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
-1. Click **Fields & Relationships**.
+1. Click **Fields & Relationships**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
@@ -126,7 +126,7 @@ To utilize these fields, you'll first need to create the field as a custom activ
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
-1. Type "Task" in the Quick Find box.
+1. Type "Task" in the Quick Find box.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
