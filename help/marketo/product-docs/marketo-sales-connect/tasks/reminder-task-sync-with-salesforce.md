@@ -73,3 +73,7 @@ Here's what happens when you sync Sales Connect and SFDC tasks:
 After the initial sync, any tasks you create, edit, complete, or delete in Sales Connect will sync over to your tasks list in Salesforce. And anything created, edited, completed, or deleted in Salesforce will update your tasks list in Sales Connect.
 
 To turn on this sync, just check the sync box in your [Settings page](https://toutapp.com/login) in the web application.
+
+>[!NOTE]
+>
+>The subject field of a task can be updated in Sales Connect and that update will be synced in the Salesforce subject field for the corresponding synced task, if you are using the `{{activity_subject}}` dynamic field in your [Activity Detail Customization](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) settings. Conversely, any updates made to the subject field in Salesforce will _not_ sync over to the Sales Connect reminder task subject field.

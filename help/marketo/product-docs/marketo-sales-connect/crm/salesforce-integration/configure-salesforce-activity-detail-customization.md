@@ -14,6 +14,10 @@ exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 
 Activity Detail Customization allows Admins to configure the information that will log to the Salesforce Task - Subject Field, when a Sales Connect activity/reminder task is synced to Salesforce.
 
+>[!NOTE]
+>
+>Updates made to the subject field in Sales Connect of a reminder task will be reflected in the corresponding Salesforce task's subject field, if you're using the `{{activity_subject}}` dynamic field in your Activity Detail Customization.
+
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
 ![](assets/configure-salesforce-activity-detail-customization-2.png)
@@ -38,7 +42,11 @@ The feature can be used to unlock the following benefits:
 * By customizing what information is visible on the subject field, activity details are easily scannable for sales in Salesforce.
 * Admins can tag the subject field with a unique identifier such as “Mkto_sales” so activities from Sales Connect can be easily identified and differentiated from other email activities, call activities, and tasks.
 * Reduce the need for custom activity fields. Salesforce enforces limits on the number of custom activity fields, which can restrict what data is available to be used in reports. By using activity dynamic fields to add key data to the subject line you can reduce the number of custom activity fields you need created in your Salesforce instance.  
-* The subject field of activities and tasks will follow a consistent pattern defined by the Sales Connect Admin.  
+* The subject field of activities and tasks will follow a consistent pattern defined by the Sales Connect Admin.
+
+>[!NOTE]
+>
+>If you're logging email replies as activities to Salesforce, they will not use the Salesforce Activity Detail Customization settings. Instead they, will log as "Reply: Email Subject."
 
 ## Activity Dynamic Fields Supported {#activity-dynamic-fields-supported}
 
