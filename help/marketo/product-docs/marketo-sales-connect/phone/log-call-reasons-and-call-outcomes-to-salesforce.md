@@ -1,8 +1,6 @@
 ---
 description: Log Call Reasons and Call Outcomes to Salesforce - Marketo Docs - Product Documentation
 title: Log Call Reasons and Call Outcomes to Salesforce
-hide: yes
-hidefromtoc: yes
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 ---
 # Log Call Reasons and Call Outcomes to Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
@@ -116,7 +114,7 @@ To utilize these fields, you'll first need to create the field as a custom activ
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
-## Add Custom Activity Field to Task Page Layout In Salesforce Lightning {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
+### Add Custom Activity Field to Task Page Layout In Salesforce Lightning {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
 1. In Salesforce, click on the gear icon on the top right and select **Setup**.
 

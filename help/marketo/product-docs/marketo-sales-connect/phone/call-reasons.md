@@ -1,8 +1,6 @@
 ---
 description: Call Reasons - Marketo Docs - Product Documentation
 title: Call Reasons
-hide: yes
-hidefromtoc: yes
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 ---
 # Call Reasons {#call-reasons}
@@ -11,7 +9,7 @@ Allow your sales teams to select call reasons when making calls so your team can
 
 >[!NOTE]
 >
->**Admin permissions required.**
+>**Admin permissions required**
 
 ## Enable Call Reasons {#enable-call-reasons}
 
