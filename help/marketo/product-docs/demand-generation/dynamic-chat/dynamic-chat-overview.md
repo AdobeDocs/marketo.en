@@ -13,6 +13,10 @@ Dynamic Chat allows you to leverage an easy-to-use interface to target both peop
    >
    >Dynamic Chat is in the process of being rolled out gradually and is currently in limited availability. This page will be updated with general availability (GA) details as they become available.
 
+   >[!TIP]
+   >
+   >Visit [this page](https://dcweb.z20.web.core.windows.net/) to view tutorial videos as well as a recorded demo of Dynamic Chat.
+
 ## Integrations {#integrations}
 
 A key component of Dynamic Chat is its ability to natively interface with your Marketo subscription. In order to leverage the full capability of this integration, you’ll first need to initiate the data sync. Depending on the size of your Marketo database, it may take up to 24 hours for data for the initial, [one-time sync](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) to complete.
