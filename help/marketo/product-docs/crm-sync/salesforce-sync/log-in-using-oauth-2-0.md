@@ -7,6 +7,10 @@ exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 
 Salesforce uses the OAuth protocol to allow users of applications to securely access (authenticate the application using OAuth 2.0) data without having to reveal login credentials. Below are the steps to be performed to securely connect and sync Marketo with Salesforce.
 
+>[!IMPORTANT]
+>
+>To connect Marketo and Salesforce using OAuth, log in to Marketo via private (incognito) browser as to avoid connecting to Salesforce with the wrong username.
+
 ## Set Up Connected App {#set-up-connected-app}
 
 1. In Salesforce, under Setup, within the Platform Tools, navigate to Apps, App Manager, and click **New Connected App**.
