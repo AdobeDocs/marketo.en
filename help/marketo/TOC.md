@@ -1193,7 +1193,6 @@ feature-set: Marketo Engage
       + [Didn't Log to Activity History](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
       + [Didn't Log to Salesforce](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
       + [Enable Call Recording](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
-      + [How to Customize the Call Outcome in Sales Phone](product-docs/marketo-sales-connect/phone/how-to-customize-the-call-outcome-in-sales-phone.md)
       + [Log Call Reasons and Call Outcomes to Salesforce](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
       + [Sales Phone International Calling](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
       + [Sales Phone Local Presence](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
