@@ -14,7 +14,8 @@ Activity Detail Customization allows Admins to configure the information that wi
 
 >[!NOTE]
 >
->Updates made to the subject field in Sales Connect of a reminder task will be reflected in the corresponding Salesforce task's subject field, if you're using the `{{activity_subject}}` dynamic field in your Activity Detail Customization.
+>* Updates made to the subject field in Sales Connect of a reminder task will be reflected in the corresponding Salesforce task's subject field, if you're using the `{{activity_subject}}` dynamic field in your Activity Detail Customization.
+>* Line breaks are not supported when logging information to the Salesforce subject field. Any line breaks in the Activity Detail Customization editor will be removed when a sales task subject is updated.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
