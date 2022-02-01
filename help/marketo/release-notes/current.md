@@ -34,9 +34,9 @@ The following features will start to be released on **January 21, 2022**, with a
 
 ## Administration {#administration}
 
-* **Form Validation Rules**: Maintain the health of your database with the ability to block problematic or undesirable email domains from submitting Marketo Engage forms. The Global Form Validation Rule panel allows administrators to define a blocklist or enable a pre-defined list of free consumer domains to block from forms.
+* **[Form Validation Rules](/help/marketo/product-docs/administration/settings/global-form-validation-rules.md)**: Maintain the health of your database with the ability to block problematic or undesirable email domains from submitting Marketo Engage forms. The Global Form Validation Rule panel allows administrators to define a blocklist or enable a pre-defined list of free consumer domains to block from forms.
 
-* **Landing Page Header Security**: Administrators can manage Strict Transport Security and X-Frame Options headers on their landing page domains to enforce strong security requirements.
+* **[Landing Page Header Security](/help/marketo/product-docs/administration/settings/landing-page-headers.md)**: Administrators can manage Strict Transport Security and X-Frame Options headers on their landing page domains to enforce strong security requirements.
 
 **_Releasing Throughout the Quarter_**
 
