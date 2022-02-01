@@ -31,6 +31,20 @@ The new experience will load.
 
    ![](assets/toggle-switch-4.png)
 
+## Landing Page Details Page {#landing-page-details-page}
+
+1. In Marketo, find and select your Landing Page.
+
+   ![](assets/toggle-switch-5.png)
+
+1. In the bottom-right of the page, click the **New Experience** toggle.
+
+   ![](assets/toggle-switch-6.png)
+
+The new experience will load.
+
+   ![](assets/toggle-switch-7.png)
+
 ## Form Details Page {#form-details-page}
 
 1. In Marketo, find and select your form.
