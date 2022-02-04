@@ -1276,6 +1276,7 @@ feature-set: Marketo Engage
           + [Bulk Emailing Options](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
           + [Composing Bulk Emails with Select and Send](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
           + [Sending Emails via Group Email](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
+          + [Using a Template in the Compose Window](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
       + Salesforce Configuration {#salesforce-configuration}
         + [MSI Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
         + [Uninstall Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
