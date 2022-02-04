@@ -267,6 +267,7 @@ feature-set: Marketo Engage
         + [Delete a Flow Step](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-a-flow-step.md)
         + [Delete Person](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
         + [Execute Campaign](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
+        + [Flow Step Service](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md)
         + [Give Credit to Referrer](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
         + [Interesting Moment](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
         + [Remove from Flow](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
