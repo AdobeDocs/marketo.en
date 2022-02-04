@@ -14,7 +14,7 @@ Person detail view provides a detailed profile of each person in your Marketo Sa
 
 PICC
 
-1. Click on the desired person.
+1. Select the desired person.
 
 PICC
 
