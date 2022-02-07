@@ -57,7 +57,27 @@ And that's it! After the upgrade you will only see one MSI Solution.
    <th colspan="1">Notes</th> 
   </tr> 
   <tr> 
-   <td colspan="1">10/1/20</td> 
+   <td colspan="1">02/03/22</td> 
+   <td colspan="1">2.0.0.27</td> 
+   <td colspan="1">Account Layout for Insights: Interesting Moments, Score changes, Web activities, Email activities</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">01/05/22</td> 
+   <td colspan="1">2.0.0.26</td> 
+   <td colspan="1">Program Adoption Score for Send Email</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">10/28/21</td> 
+   <td colspan="1">2.0.0.25</td> 
+   <td colspan="1">Product Adoption Score Metrics, new Global Dashboard (Web Activity, Email, Best Bets)</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">02/10/21</td> 
+   <td colspan="1">2.0.0.22</td> 
+   <td colspan="1">Remove Auto audit enabled and documentation changes on MSI solution</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">10/01/20</td> 
    <td colspan="1">2.0.0.21</td> 
    <td colspan="1">Bug Fix: Assigning access to MSI API config fields for users with Sales Insight role</td> 
   </tr> 
