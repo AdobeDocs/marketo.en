@@ -9,7 +9,7 @@ exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 
 >[!NOTE]
 >
->This pre-release feature is currently only available to accounts enrolled in the Self-Service Flow Steps Beta Program.
+>This pre-release feature is currently available only to accounts enrolled in the Self-Service Flow Steps Beta Program.
 
 Self-service Flow Steps is a framework and set of features for authoring, publishing, and integrating web services into Adobe Marketo Engage Smart Campaigns. This guide is intended for Marketo Engage end users who want to install and use services which have already been created and published. For information on authoring and publishing your own service, please refer to the [GitHub repository for the Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface). A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup).
 
