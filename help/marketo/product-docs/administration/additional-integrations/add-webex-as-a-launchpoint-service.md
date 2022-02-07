@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512272
-description: Add WebEx as a LaunchPoint Service - Marketo Docs - Product Documentation
-title: Add WebEx as a LaunchPoint Service
+description: Add Webex as a LaunchPoint Service - Marketo Docs - Product Documentation
+title: Add Webex as a LaunchPoint Service
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 ---
-# Add WebEx as a LaunchPoint Service {#add-webex-as-a-launchpoint-service}
+# Add Webex as a LaunchPoint Service {#add-webex-as-a-launchpoint-service}
 
-Marketo manages your WebEx webinar registration and attendance.
+Marketo Engage manages your Webex webinar registration and attendance.
 
 >[!NOTE]
 >
@@ -14,15 +14,15 @@ Marketo manages your WebEx webinar registration and attendance.
 
 >[!NOTE]
 >
->An existing subscription to WebEx and administration rights are necessary for this step. Have the following settings at hand: Username, Password, and Site Name.
+>An existing subscription to Webex and administration rights are necessary for this step. Have the following settings at hand: Username, Password, and Site Name.
 
 >[!NOTE]
 >
->The site name can be found at the end of the URL used to log into WebEx. For example:
+>The site name can be found at the end of the URL used to log into Webex. For example:
 >
 >`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
 >
->Caution: Do not enter the entire URL in this field; enter the site name only!
+>**Caution:** Do not enter the entire URL in this field; enter the site name only!
 
 1. Go to **Admin** and click **LaunchPoint**.
 
@@ -32,7 +32,7 @@ Marketo manages your WebEx webinar registration and attendance.
 
    ![](assets/webex-new-service.png)
 
-1. Enter a **Display Name**. Under **Service**, select **WebEx**.
+1. Enter a **Display Name**. Under **Service**, select **Webex**.
 
    ![](assets/new-service-webex.png)
 
@@ -44,10 +44,10 @@ Marketo manages your WebEx webinar registration and attendance.
 
    ![](assets/image2015-4-24-18-3a58-3a43.png)
 
-1. Phenomenal! Your **WebEx** is now synced with Marketo.
+1. Phenomenal! Your **Webex** is now synced with Marketo.
 
    ![](assets/webex.png)
 
 >[!MORELIKETHIS]
 >
->Learn how to [create an event with WebEx](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md).
+>Learn how to [create an event with Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md).
