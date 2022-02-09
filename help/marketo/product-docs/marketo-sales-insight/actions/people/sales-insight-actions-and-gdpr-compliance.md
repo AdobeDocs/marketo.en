@@ -95,7 +95,7 @@ Sales Insight Actions also allows for updating a contact’s Authorization and S
   
 When you select one or more contacts from the People page, a dota (three dot menu) appears on the right. Click it, and you'll see Authorization and Source are options. You can set the Authorization or Source of multiple contacts simultaneously.
 
-![](assets/sales-insight-actions-and-gdpr-compliance-5.jpg)
+![](assets/sales-insight-actions-and-gdpr-compliance-5.png)
 
 When you click on the Authorization modal, a pop-up with drop-down options that match the ones in the Compliance Card appears.
 
