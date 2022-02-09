@@ -6,7 +6,7 @@ exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 ---
 # Enable Sync for a Custom Entity {#enable-sync-for-a-custom-entity}
 
-If you need custom entity data from Dynamics to be available in Marketo, here's how to enable the sync for it:
+If you need custom entity data from Dynamics to be available in Marketo, here's how to enable the sync for it.
 
 >[!NOTE]
 >
@@ -14,7 +14,8 @@ If you need custom entity data from Dynamics to be available in Marketo, here's 
 
 >[!NOTE]
 >
->When you enable the sync for a custom entity, Marketo performs an initial sync to bring in all the data for the Custom Object.
+>* When you enable the sync for a custom entity, Marketo performs an initial sync to bring in all the data for the Custom Object.
+>* Marketing List and Marketing List Members are **not supported** at this time.
 
 1. Go to the **Admin** section.
 
@@ -55,4 +56,3 @@ If you need custom entity data from Dynamics to be available in Marketo, here's 
 1. Don't forget to re-enable the global sync!
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
-
