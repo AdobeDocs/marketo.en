@@ -1283,6 +1283,9 @@ feature-set: Marketo Engage
         + [Uninstall Salesforce Lightning Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
       + Marketo {#marketo}
         + [Grant Marketo Access to Users](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+      + People {#people}
+      + [Person Detail View](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
+      + [Sales Insight Actions and GDPR Compliance](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
       + Send a Sales Email {#send-a-sales-email}
         + [Email Tracking Overview](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + Templates {#templates}

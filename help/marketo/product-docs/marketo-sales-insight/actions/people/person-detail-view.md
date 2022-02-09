@@ -12,11 +12,11 @@ Person detail view provides a detailed profile of each person in your Marketo Sa
 
 1. To access the person detail view, click the **People** tab.
 
-PICC
+   ![](assets/person-detail-view-1.png)
 
 1. Select the desired person.
 
-PICC
+   ![](assets/person-detail-view-2.png)
 
    >[!TIP]
    >
@@ -26,7 +26,7 @@ PICC
 
 Includes all of the person's contact information.
 
-PICC
+   ![](assets/person-detail-view-3.png)
 
 **Contact Card**
 

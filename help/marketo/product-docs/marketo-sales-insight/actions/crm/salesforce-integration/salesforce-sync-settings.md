@@ -13,9 +13,9 @@ This functionality requires you to be on the Enterprise/Unlimited edition of Sal
 
 >[!PREREQUISITES]
 >
->Salesforce and Marketo Sales must be connected.
+>Salesforce and Sales Insight Actions must be connected.
 
-1. In Marketo Sales, click the gear icon and select **Settings**.
+1. In Sales Insight Actions, click the gear icon and select **Settings**.
 
    ![](assets/salesforce-sync-settings-1.png)
 
@@ -41,7 +41,7 @@ Once you activate “Email to Salesforce (BCC)”, you'll receive a BCC of your 
 
 >[!PREREQUISITES]
 >
->Salesforce and Marketo Sales must be connected.
+>Salesforce and Sales Insight Actions must be connected.
 
 **To log your emails in Salesforce via Email (BCC)**
 
@@ -87,9 +87,9 @@ If you don't see My Email to Salesforce under your Settings, your Admin may not 
 1. Check the box next to "Active."
 1. Click **Save**.
 
-## Sync Marketo Sales Tasks/Reminders to Salesforce Tasks {#sync-marketo-sales-tasks-reminders-to-salesforce-tasks}
+## Sync Sales Insight Actions Tasks/Reminders to Salesforce Tasks {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
 
-1. In Marketo Sales, click the gear icon and select **Settings**.
+1. In Sales Insight Actions, click the gear icon and select **Settings**.
 
    ![](assets/salesforce-sync-settings-10.png)
 
