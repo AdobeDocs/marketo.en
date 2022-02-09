@@ -1278,21 +1278,19 @@ feature-set: Marketo Engage
           + [Composing Bulk Emails with Select and Send](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
           + [Sending Emails via Group Email](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
           + [Using a Template in the Compose Window](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-      + People {#people}
-        + [Sales Insight Actions and GDPR Compliance](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
-      + Tasks {#tasks}
-        + [Reminder Task Sync with Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
-      + Salesforce Configuration {#salesforce-configuration}
-        + [MSI Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
-        + [Uninstall Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-        + [Uninstall Salesforce Lightning Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
       + Marketo {#marketo}
         + [Grant Marketo Access to Users](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
       + People {#people}
-      + [Person Detail View](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
-      + [Sales Insight Actions and GDPR Compliance](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
+        + [Person Detail View](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
+        + [Sales Insight Actions and GDPR Compliance](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
+      + Salesforce Configuration {#salesforce-configuration}
+        + [MSI Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
+        + [Uninstall Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+        + [Uninstall Salesforce Lightning Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)  
       + Send a Sales Email {#send-a-sales-email}
         + [Email Tracking Overview](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
+      + Tasks {#tasks}
+        + [Reminder Task Sync with Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)  
       + Templates {#templates}
         + [Manage Templates](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
         + [Manage Template Categories](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
