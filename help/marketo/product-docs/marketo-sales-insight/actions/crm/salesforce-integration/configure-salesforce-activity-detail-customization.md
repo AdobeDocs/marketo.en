@@ -3,6 +3,7 @@ description: Configure Salesforce Activity Detail Customization - Marketo Docs -
 title: Configure Salesforce Activity Detail Customization
 hide: yes
 hidefromtoc: yes
+exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 ---
 # Configure Salesforce Activity Detail Customization {#configure-salesforce-activity-detail-customization}
 

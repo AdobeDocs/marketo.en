@@ -3,6 +3,7 @@ description: Person Detail View - Marketo Docs - Product Documentation
 title: Person Detail View
 hide: yes
 hidefromtoc: yes
+exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 ---
 # Person Detail View {#person-detail-view}
 
