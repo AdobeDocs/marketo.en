@@ -9,7 +9,7 @@ exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 
 >[!PREREQUISITES]
 >
->* Confirm with your Customer Success Manager that MSI Actions has been enabled for your Marketo Account (If you do not have a CSM, please [contact Support](https://nation.marketo.com/t5/support/ct-p/Support)).
+>* Confirm with your Customer Success Manager that MSI Actions has been enabled for your Marketo Account (If you do not have a CSM, please [contact Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support)).
 >* Your Marketo/Salesforce sync must be set up.
 
 <table>
