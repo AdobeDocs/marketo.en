@@ -205,7 +205,6 @@ feature-set: Marketo Engage
       + [Create an API Only User](product-docs/administration/users-and-roles/create-an-api-only-user.md)
       + [Create, Delete, Edit and Change a User Role](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
       + [Email Verification](product-docs/administration/users-and-roles/email-verification.md)
-      + [Enable the Advanced List Import Permission on a Role](product-docs/administration/users-and-roles/enable-the-advanced-list-import-permission-on-a-role.md)
       + [Export a List of Users and Roles](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
       + [Managing Marketo Users](product-docs/administration/users-and-roles/managing-marketo-users.md)
       + [Managing User Roles and Permissions](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
