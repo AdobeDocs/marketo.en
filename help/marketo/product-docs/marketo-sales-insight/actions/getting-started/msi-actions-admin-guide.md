@@ -103,15 +103,17 @@ If you’re already logged in to Salesforce, you’ll be connected. If you’re 
 
 ## Initiate Data Sync {#initiate-data-sync}
 
+The data unification field sync for Sales Insight Actions enables the system to pull person information from your Marketo Engage database into your Sales Insight Actions database, keeping your people data up-to-date and ensuring activities are logged to the right records across Marketo and Salesforce.
+
 1. In Marketo, click **Admin**.
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. Click Sales Insight.
+1. Click **Sales Insight**.
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. Click the Actions Config tab. In the Action Field Sync card, click **Sync**.
+1. Click the **Actions Config** tab. In the Action Field Sync card, click **Sync**.
 
    ![](assets/msi-actions-admin-guide-12.png)
 
@@ -120,6 +122,10 @@ If you’re already logged in to Salesforce, you’ll be connected. If you’re 
    ![](assets/msi-actions-admin-guide-13.png)
 
 Person records that exist in Marketo and Salesforce will be synced to your Marketo Sales Apps account.
+
+   >[!NOTE]
+   >
+   >To learn more about how people and activity data syncs between Sales Insight Actions, Marketo, and Salesforce, [click here](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md).
 
 ## Invite Individual Users to MSI Actions {#invite-individual-users-to-msi-actions}
 

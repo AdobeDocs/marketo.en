@@ -589,7 +589,7 @@ feature-set: Marketo Engage
         + [Adding Members to an Event Program](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
         + [Create a New Event Program](product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
         + [Edit an Event Channel](product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
-        + [LaunchPoint Event Partners](product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)
+        + [Event Partners](product-docs/demand-generation/events/understanding-events/event-partners.md)
         + [Understanding Event Programs](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
       + Create an Event {#create-an-event}
         + [Create an Event with Adobe Connect](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)

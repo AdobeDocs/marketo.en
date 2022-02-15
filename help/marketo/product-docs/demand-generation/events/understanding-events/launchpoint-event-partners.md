@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949777
-description: LaunchPoint Event Partners - Marketo Docs - Product Documentation
-title: LaunchPoint Event Partners
+description: Event Partners - Marketo Docs - Product Documentation
+title: Event Partners
 exl-id: 3d6c523f-a1ee-4b0c-8e3c-1724f3b7800e
 ---
-# LaunchPoint Event Partners {#launchpoint-event-partners}
+# Event Partners {#event-partners}
 
-Connect Marketo to a LaunchPoint Event Partner to automate your online events. When you connect them, you can:
+Connect Marketo to an Event Partner to automate your online events. When you connect them, you can:
 
 * Manage your webinar events
-* Push registration information captured on a Marketo landing page to the configured LaunchPoint Event Partner
+* Push registration information captured on a Marketo landing page to the configured Event Partner
 * Pull attendance information automatically into a Marketo event
 * Capture the status of the people as members of the program
 
-See the instructions on integrating your online Marketo Events with your LaunchPoint Event Partner:
+See the instructions on integrating your online Marketo Events with your Event Partner:
 
-* [WebEx](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+* [Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
 * [Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
 * [ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
 * [ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
