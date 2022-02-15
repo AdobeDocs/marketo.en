@@ -62,6 +62,10 @@ Choosing to do so will wipe all your configurations in SFDC and they cannot be r
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
 
+>[!IMPORTANT]
+>
+>Do not select the "Enable MSI Actions" checkbox unless you’re using Sales Insights Actions features.
+
 >[!MORELIKETHIS]
 >
 >[Setting up Sales Insight for your Team](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
