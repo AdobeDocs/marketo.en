@@ -29,4 +29,4 @@ Events can automatically connect to your [webinar provider](launchpoint-event-pa
 >
 >* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >
->* [LaunchPoint Event Partners](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)
+>* [LaunchPoint Event Partners](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)

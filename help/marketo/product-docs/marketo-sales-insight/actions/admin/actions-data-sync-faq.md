@@ -31,7 +31,7 @@ Leads and contacts who have a sales owner assigned to them will be synced down i
 
 You can see if a lead/contact has a sales owner in Salesforce by looking at the standard owner field that exists.
 
-The sales owner does not have to be the Marketo sync user or any specific Salesforce or sales user. As long as there's a user listed on the standard owner field we will include the lead/contact to be synced down to Sales Actions, as well as include it in any updates to the synced fields to be made to that lead.
+The sales owner does not have to be the Marketo sync user or any specific Salesforce or sales user. All we require is that there's a user listed on the lead owner and contact owner field listed in Salesforce, so that we can identify it as a sales lead and sync it into Sales Insight Actions. Any updates to the fields we sync with will also be detected and updated in Sales Insight Actions.
 
 ## Where does the activity data displayed in the Sales Insight Smart Grid get sourced from? {#where-does-the-activity-data-get-sourced-from}
 

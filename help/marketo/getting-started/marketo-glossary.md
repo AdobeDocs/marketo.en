@@ -338,7 +338,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
    <td>Something that occurs in order for you to communicate with your customers and potential customers. Offline events usually consist of gatherings or tradeshows, and online events are usually <strong>webinars</strong>.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md" rel="nofollow">Event Partner</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md" rel="nofollow">Event Partner</a></strong></td> 
    <td colspan="1">A third-party integration that helps automate your online events.</td> 
   </tr> 
   <tr> 
@@ -879,7 +879,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr>
   <tr> 
    <td><strong>Webinar</strong></td> 
-   <td>A web-based seminar. In Marketo, webinars can be conducted via a number of different <strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md" rel="nofollow">event partners.</a></strong></td> 
+   <td>A web-based seminar. In Marketo, webinars can be conducted via a number of different <strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md" rel="nofollow">event partners.</a></strong></td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md" rel="nofollow">Website Retargeting</a></strong></td> 
