@@ -23,7 +23,7 @@ Once you're added as an Adobe System Admin to Marketo Engage in an Adobe org, th
 
 After the System Admin accesses the Admin Console, it's time to create a product profile. This is how your users/Admins get access to Marketo Engage.
 
-1. Under Products and Services, click **Marketo Engage**.
+1. In the Overview page, under Products and Services, click **Marketo Engage**.
 
    ![](assets/admin-setup-3.png)
 

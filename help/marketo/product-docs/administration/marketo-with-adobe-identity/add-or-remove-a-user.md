@@ -37,15 +37,19 @@ exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 
    ![](assets/add-or-remove-a-user-7.png)
 
+   >[!IMPORTANT]
+   >
+   >A user **must** be added to a product profile in order to get access to Marketo Engage.
+
 1. Click **Save**.
 
    ![](assets/add-or-remove-a-user-8.png)
 
-The user will then receive an email to log in to Marketo.
+The user will then receive an email to sign in to Marketo Engage.
 
 >[!NOTE]
 >
->When the user is added to Marketo Engage via the Adobe Admin Console, they're granted the "Standard User" role within the Default workspace of the subscription. If the user’s role within the workspace needs to be adjusted, that is done in Marketo Engage, [as described here](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>When the user is added to Marketo Engage via the Adobe Admin Console, they're granted the "Standard User" role within the Default workspace of the subscription. If the user’s role within the workspace needs to be adjusted, that's done in Marketo Engage, [as described here](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Remove a User {#remove-a-user}
 
@@ -73,7 +77,7 @@ The user will then receive an email to log in to Marketo.
 
    ![](assets/add-or-remove-a-user-14.png)
 
-The user will then receive an email notifying them they no longer have Product Admin access to Marketo Engage.
+The user will then receive an email notifying them they no longer have access to Marketo Engage.
 
 >[!MORELIKETHIS]
 >
