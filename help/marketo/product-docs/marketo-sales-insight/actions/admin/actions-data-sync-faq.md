@@ -9,7 +9,7 @@ exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
 
 The data unification field sync for Sales Insight Actions enables the system to pull person information from your Marketo Engage database into your Sales Insight Actions database.
 
-This provides up-to-date people data in the Sales Insight Actions web app, and allows the system to collect unique IDs for corresponding person records in Marketo and lead/contact/account/opportunity records in Salesforce, so that records can be properly referenced for logging data.  
+This provides up-to-date people data in the Sales Insight Actions web app and allows the system to collect unique IDs for corresponding person records in Marketo and lead/contact/account/opportunity records in Salesforce, so records can be properly referenced for logging data.  
 
 This sync can be enabled from the Sales Insight Actions Config tab in the Admin section of Marketo Engage. For more information check out [Initiate Data Sync](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync).
 
