@@ -23,7 +23,7 @@ An event program is a type of program that can be used to automate your offline 
 >* Tradeshows
 >* Meetups
 
-Events can automatically connect to your [webinar provider](launchpoint-event-partners.md) as well as sync with an [iPad check-in app](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).  
+Events can automatically connect to your [webinar provider](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) as well as sync with an [iPad check-in app](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).  
 
 >[!MORELIKETHIS]
 >
