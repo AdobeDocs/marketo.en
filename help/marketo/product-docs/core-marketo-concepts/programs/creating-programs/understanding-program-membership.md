@@ -25,7 +25,7 @@ exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
     1. Person will automatically have the first status in the progression.
 
 1. You use the [change program status](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) flow step.
-1. A person registers or attends a [webinar synced with an event program](/help/marketo/product-docs/demand-generation/events/events/event-partners.md).
+1. A person registers or attends a [webinar synced with an event program](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md).
 1. A person is [created using the Marketo iPad check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. A person is added to an SFDC Campaign, which is [synced to the program](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
 
