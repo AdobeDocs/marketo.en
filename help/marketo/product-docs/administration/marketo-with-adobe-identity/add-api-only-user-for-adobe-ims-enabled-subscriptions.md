@@ -1,8 +1,6 @@
 ---
 description: Add API Only User for Adobe IMS Enabled Subscriptions - Marketo Docs - Product Documentation
 title: Add API Only User for Adobe IMS Enabled Subscriptions
-hide: yes
-hidefromtoc: yes
 exl-id: bf908a50-de2f-4ea0-8d6a-5d7ed6d39ebf
 ---
 # Add API Only User for Adobe IMS Enabled Subscriptions {#add-api-only-user-for-adobe-ims-enabled-subscriptions}

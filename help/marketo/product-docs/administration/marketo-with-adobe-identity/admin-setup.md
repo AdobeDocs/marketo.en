@@ -1,8 +1,6 @@
 ---
 description: Admin Setup - Marketo Docs - Product Documentation
 title: Admin Setup
-hide: yes
-hidefromtoc: yes
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 ---
 # Admin Setup {#admin-setup}
