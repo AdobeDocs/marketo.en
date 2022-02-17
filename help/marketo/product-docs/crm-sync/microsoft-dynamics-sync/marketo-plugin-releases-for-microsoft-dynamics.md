@@ -10,7 +10,7 @@ When you first sync to Microsoft Dynamics, you download the latest version of th
 
 [Download the latest plugin](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) corresponding to your Dynamics release.
 
-![](assets/lead-management-solution.png)
+![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
 ## Updating your Dynamics Solution {#updating-your-dynamics-solution}
 
@@ -32,6 +32,12 @@ When you first sync to Microsoft Dynamics, you download the latest version of th
    <th colspan="1">Version</th> 
    <th colspan="1">Release Date</th> 
    <th>Notes</th> 
+  </tr> 
+  <tr> 
+   <td colspan="1">5.0.1.1</td> 
+   <td colspan="1">02/04/21</td> 
+   <td colspan="1">Support for Multiselect Optionset fields sync (this feature is available for V9.X and above only).
+.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.2.0.0</td> 

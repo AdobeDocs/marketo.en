@@ -22,22 +22,22 @@ You will need to download and install a Marketo Solution into your Microsoft Dyn
 
 1. Go to the **Admin** area.
 
-   ![](assets/admin-1.png)
+   ![](assets/download-the-marketo-lead-management-solution-1.png)
 
 1. Click on **CRM**.
 
-   ![](assets/image2015-3-11-13-3a7-3a11.png)
+   ![](assets/download-the-marketo-lead-management-solution-2.png)
 
 1. Select **Microsoft**.
 
-   ![](assets/image2015-3-11-13-3a9-3a7.png)
+   ![](assets/download-the-marketo-lead-management-solution-3.png)
 
 1. Select **Download Marketo Solution**.
 
-   ![](assets/image2015-3-11-13-3a10-3a4.png)
+   ![](assets/download-the-marketo-lead-management-solution-4.png)
 
 1. Select the appropriate solution for your Microsoft Dynamics version.
 
-   ![](assets/msd-online-1.png)
+   ![](assets/download-the-marketo-lead-management-solution-5.png)
 
-   Awesome! A zip file of the solution will now be downloaded to your device.
+Awesome! A zip file of the solution will now be downloaded to your device.
