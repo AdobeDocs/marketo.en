@@ -9,6 +9,7 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
 >[!PREREQUISITES]
 >
+>* [Edit the API Role](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role) to make sure it has the **Read-Write Person** permission (found under the Access API drop-down).
 >* [Create an API User](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) in Marketo.
 >* Go to **Admin** > **Launchpoint**. Find the name of the role you just created and click **View Details**. Copy and save the info in **Client ID** and **Client Secret**, as you could need it for Step 7.
 >* In Marketo, create a static list, or find and select one you've already created. You'll need its ID.
@@ -29,7 +30,7 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
-1. Find the Marketo Engage tile and click **Activate Segments**.
+1. Find the Marketo Engage tile and click **Activate**.
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
@@ -72,7 +73,11 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    >[!NOTE]
    >
-   >If you choose multiple segments here, you'll have to map each segment to a specified static list in the Segment Schedule tab.
+   >If you choose multiple segments, you'll have to map each segment to a specified static list in the Segment Schedule tab.
+
+   >[!IMPORTANT]
+   >
+   >After a segment has been activated to the Marketo destination for the first time, backfilling profiles that already existed in the segment prior to Marketo destination activation can take **up to 24 hours**. Going forward, any time profiles are added to the segment, they'll be added to Marketo immediately.
 
 1. Click **Add New Mapping**.
 
