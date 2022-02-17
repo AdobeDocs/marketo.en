@@ -40,9 +40,13 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
    ![](assets/assign4.png)
 
-   Check Marketo Sync User and click OK.
+1. Check Marketo Sync User and click **OK**.
 
    ![](assets/assign5.png)
+
+   >[!IMPORTANT]
+   >
+   >The Sync User should have read permission to the Marketo Config.
 
    >[!TIP]
    >
@@ -79,6 +83,10 @@ Almost done! We just have a few last pieces of configuration before moving onto 
 1. Click **Publish All Customizations**.
 
    ![](assets/publish-all-customizations1.png)
+
+   >[!NOTE]
+   >
+   >The Sync User should have read permission to the Marketo Config.
 
 ## Before Proceeding to Step 3 {#before-proceeding-to-step}
 

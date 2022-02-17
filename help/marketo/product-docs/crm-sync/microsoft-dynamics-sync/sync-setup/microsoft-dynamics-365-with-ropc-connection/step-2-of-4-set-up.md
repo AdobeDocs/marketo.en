@@ -1,9 +1,9 @@
 ---
-description: Step 2 of 3 - Set up the Marketo Solution with Resource Owner Password Control Connection - Marketo Docs - Product Documentation
-title: Step 2 of 3 - Set up the Marketo Solution with Resource Owner Password Control Connection
+description: Step 2 of 4 - Set up the Marketo Solution with Resource Owner Password Control Connection - Marketo Docs - Product Documentation
+title: Step 2 of 4 - Set up the Marketo Solution with Resource Owner Password Control Connection
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 ---
-# Step 2 of 3: Set up the Marketo Solution with Resource Owner Password Control Connection {#step-2-of-3-set-up-the-marketo-solution-ropc}
+# Step 2 of 4: Set up the Marketo Solution with Resource Owner Password Control Connection {#step-2-of-4-set-up-the-marketo-solution-ropc}
 
 Let's get started by creating a user account.
 
@@ -40,6 +40,10 @@ Let's get started by creating a user account.
 1. Another new tab opens. Click **Add a user**.
 
    ![](assets/seven.png)
+
+   >[!IMPORTANT]
+   >
+   >The Sync User should have read permission to the Marketo Config.
 
 1. Enter all of your information. When you're done, click **Add**.
 
