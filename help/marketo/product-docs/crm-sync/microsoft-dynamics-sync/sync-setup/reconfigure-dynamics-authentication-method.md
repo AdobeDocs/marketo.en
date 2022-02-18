@@ -3,6 +3,7 @@ description: Reconfigure Dynamics Authentication Method - Marketo Docs - Product
 title: Reconfigure Dynamics Authentication Method
 hide: yes
 hidefromtoc: yes
+exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 ---
 # Reconfigure Dynamics Authentication Method {#reconfigure-dynamics-authentication-method}
 
