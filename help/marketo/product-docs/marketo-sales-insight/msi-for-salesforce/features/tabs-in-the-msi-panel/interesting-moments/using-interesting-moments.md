@@ -80,4 +80,8 @@ You can subscribe to an Interesting Moment by clicking the Subscribe button eith
 
 1. Click **Subscribe**.
 
+>[!NOTE]
+>
+>When subscribing to Interesting Moment Types or Descriptions, the user will receive email notifications for people (leads/contacts) that they own when they trigger an Interesting Moment matching that Type or Description.
+
 ![](assets/using-interesting-moments-8.png)

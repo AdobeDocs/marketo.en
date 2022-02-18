@@ -475,6 +475,7 @@ feature-set: Marketo Engage
         + [Download the Marketo Lead Management Solution](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
         + [Grant Consent for Client Id and App Registration](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md)
         + [Update the Marketo Solution for Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
+        + [Reconfigure Dynamics Authentication Method](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
         + [Validate Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
         + [View the Organization Service URL](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
         + Microsoft Dynamics 2016/Dynamics 365 On-Premise  {#microsoft-dynamics-2016-dynamics-365-on-premises}
