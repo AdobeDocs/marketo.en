@@ -4,9 +4,9 @@ title: Reconfigure Dynamics Authentication Method
 hide: yes
 hidefromtoc: yes
 ---
-## Reconfigure Dynamics Authentication Method {#reconfigure-dynamics-authentication-method}
+# Reconfigure Dynamics Authentication Method {#reconfigure-dynamics-authentication-method}
 
-Intro
+Intro text
 
 >[!PREREQUISITES]
 >
