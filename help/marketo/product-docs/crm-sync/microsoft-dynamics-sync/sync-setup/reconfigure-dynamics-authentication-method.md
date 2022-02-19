@@ -1,12 +1,10 @@
 ---
 description: Reconfigure Dynamics Authentication Method - Marketo Docs - Product Documentation
 title: Reconfigure Dynamics Authentication Method
-hide: yes
-hidefromtoc: yes
 ---
 # Reconfigure Dynamics Authentication Method {#reconfigure-dynamics-authentication-method}
 
-Intro text
+Follow the steps below to update your Dynamics Authentication Method.
 
 >[!PREREQUISITES]
 >
