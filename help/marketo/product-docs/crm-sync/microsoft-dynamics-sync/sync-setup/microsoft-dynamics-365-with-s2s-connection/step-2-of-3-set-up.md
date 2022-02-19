@@ -38,7 +38,13 @@ exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-4.png)
 
-1. Follow steps from the following link to [set up an application user in  Microsoft](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#application-user-creation). While giving permissions to the Application User, assign it to "Marketo  Sync User Role."
+## Create Application User in Microsoft {#create-application-user-in-microsoft}
+
+1. Follow steps from the following link to [set up an application user in  Microsoft](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#application-user-creation).
+
+   >[!IMPORTANT]
+   >
+   >While giving permissions to the Application User, be sure to assign it to "Marketo Sync User Role."
 
 ## Azure AD Federated with AD FS On-prem {#azure-ad-federated-with-ad-fs-on-prem}
 
@@ -46,37 +52,13 @@ Federated Azure AD to ADFS Onprem needs the creation of a Home Realm Discovery p
 
 Additional references [can be found here](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD.).
 
-## Assign Sync User Role {#assign-sync-user-role}
-
-1. Assign the Marketo Sync User role to the Marketo sync user only.
-
->[!NOTE]
->
->This applies to Marketo version 4.0.0.14 and later. For earlier versions, all users must have the sync user role. To upgrade your Marketo solution, [see this article](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
-
-1. Go back to the Application Users tab and refresh the users list.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-5.png)
-
-1. Hover next to the newly created  Application  user, and a checkbox will appear. Click to select it.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-6.png)
-
-1. Click **Manage Roles**.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-7.png)
-
-1. Check **Marketo Sync User** and click **OK**.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-8.png)
-
 ## Configure Marketo Solution {#configure-marketo-solution}
 
 Almost there! All we have left is to inform Marketo Solution about the new user created.
 
->[!IMPORTANT]
->
->If you’re upgrading from Basic Authentication to OAuth, you’ll need to contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) for help with updating the additional parameters. Enabling this feature will temporarily stop the sync until new credentials are entered and the sync is re-enabled. The feature can be disabled (until April 2022) should you want to revert to the old Authentication mode.
+   >[!IMPORTANT]
+   >
+   >If you’re upgrading from Basic Authentication to OAuth, you’ll need to contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) for help with updating the additional parameters. Performing a configuration change to Default Sync user will temporarily stop the sync until new credentials are entered and the sync is re-enabled. At your request, Marketo Support can disable the feature (until April 2022) should you want to revert to the old Authentication method.
 
 1. Go back to the Advanced Settings section and click the ![](assets/image2015-5-13-15-3a49-3a19.png) icon next to Settings, and select **Marketo Config**.
 
@@ -118,4 +100,5 @@ Almost there! All we have left is to inform Marketo Solution about the new user 
 
 >[!MORELIKETHIS]
 >
->[Step 3 of 3: Connect the Marketo Solution with Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+>* [Step 3 of 3: Connect the Marketo Solution with Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+>* [Reconfigure Dynamics Authentication Method](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)

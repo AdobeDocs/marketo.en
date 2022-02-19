@@ -47,7 +47,7 @@ This is the last step of the sync. You're almost there!
    >
    >Before you enter new credentials, you can [validate them here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
 
-1. Enter the **Username**, **Password**, **Client ID**, **Client Secret**, and Microsoft Dynamics **URL**. Click **Save** when done.
+1. Enter the **Username**, **Password**, Microsoft Dynamics **URL**, **Client ID**, and **Client Secret**. Click **Save** when done.
 
    ![](assets/step-4-of-4-connect-ropc-5.png)
 
@@ -104,3 +104,7 @@ If you've created a custom filter, be sure to go in and select the new fields to
    ![](assets/image2015-3-16-9-3a59-3a51.png)
 
 Excellent work!
+
+>[!MORELIKETHIS]
+>
+>[Reconfigure Dynamics Authentication Method](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
