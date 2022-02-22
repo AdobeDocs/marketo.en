@@ -1,8 +1,6 @@
 ---
 description: Dialogues - Marketo Docs - Product Documentation
 title: Dialogues
-hide: yes
-hidefromtoc: yes
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
 ---
 # Dialogues {#dialogues}

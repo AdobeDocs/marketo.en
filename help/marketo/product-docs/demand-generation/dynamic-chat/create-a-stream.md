@@ -1,8 +1,6 @@
 ---
 description: Create a Stream - Marketo Docs - Product Documentation
 title: Create a Stream
-hide: yes
-hidefromtoc: yes
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
 ---
 # Create a Stream {#create-a-stream}

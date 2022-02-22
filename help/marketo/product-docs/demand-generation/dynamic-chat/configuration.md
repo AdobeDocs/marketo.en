@@ -1,8 +1,6 @@
 ---
 description: Configuration - Marketo Docs - Product Documentation
 title: Configuration
-hide: yes
-hidefromtoc: yes
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
 ---
 # Configuration {#configuration}
