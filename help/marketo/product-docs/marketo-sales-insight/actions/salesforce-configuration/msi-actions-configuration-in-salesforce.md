@@ -9,13 +9,32 @@ exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
 
 >[!PREREQUISITES]
 >
->Install/Upgrade to the [MSI Actions Package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) in your Salesforce instance.
+>* [Install]() or [Upgrade]() Sales Insight Package in your Salesforce instance
+Install/Upgrade to the [MSI Actions Package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) in your Salesforce instance.
+>* [Configure Marketo Sales Insight in Salesforce Enterprise/Unlimited]()
+
+## Add New Remote Site in Salesforce {#add-new-remote-site-in-salesforce}
+
+1. In Salesforce, click **Setup**.
+
+   ![](assets/msi-actions-configuration-in-salesforce-1.png)
+
+1. Search for “remote site" and select **Remote Site Settings**.
+   ![](assets/msi-actions-configuration-in-salesforce-2.png)
+
+1. Click **New Remote Site**.
+
+   ![](assets/msi-actions-configuration-in-salesforce-3.png)
+
+1. Enter the Remote Site Name (it can be something like “MarketoSalesInsight”). Enter the Remote Site URL (https://ims-na1-stg1.adobelogin.com) and click **Save**.
+
+   ![](assets/msi-actions-configuration-in-salesforce-4.png)
 
 ## Enabling MSI-Actions across the CRM {#enabling-msi-actions-across-the-crm}
 
 1. In Salesforce, click the **Marketo Sales Insight Config** tab.
 
-   ![](assets/msi-actions-configuration-in-salesforce-1.png)
+   ![](assets/msi-actions-configuration-in-salesforce-5.png)
 
    >[!NOTE]
    >
@@ -23,11 +42,11 @@ exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
 
 1. Select the **Enable MSI Actions** checkbox.
 
-   ![](assets/msi-actions-configuration-in-salesforce-2.png)
+   ![](assets/msi-actions-configuration-in-salesforce-6.png)
 
 1. Enter the API Secret Key.
 
-   ![](assets/msi-actions-configuration-in-salesforce-3.png)
+   ![](assets/msi-actions-configuration-in-salesforce-7.png)
 
    >[!NOTE]
    >
@@ -45,11 +64,11 @@ This will automatically enable all MSI Actions features outlined in the feature 
 
 1. You can disable Sales Campaigns and/or the Task tab in the upcoming section. This will be applicable to lead, contact, account, and opportunity panels.
 
-   ![](assets/msi-actions-configuration-in-salesforce-4.png)
+   ![](assets/msi-actions-configuration-in-salesforce-8.png)
 
 1. You can disable MSI Actions by unchecking corresponding features under Actions settings.
 
-   ![](assets/msi-actions-configuration-in-salesforce-5.png)
+   ![](assets/msi-actions-configuration-in-salesforce-9.png)
 
 >[!NOTE]
 >
