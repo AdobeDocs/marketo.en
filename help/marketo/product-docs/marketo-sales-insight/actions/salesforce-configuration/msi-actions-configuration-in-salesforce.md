@@ -9,9 +9,8 @@ exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
 
 >[!PREREQUISITES]
 >
->* [Install]() or [Upgrade]() Sales Insight Package in your Salesforce instance
-Install/Upgrade to the [MSI Actions Package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) in your Salesforce instance.
->* [Configure Marketo Sales Insight in Salesforce Enterprise/Unlimited]()
+>* [Install](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) or [Upgrade](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) Sales Insight Package in your Salesforce instance
+>* [Configure Marketo Sales Insight in Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 ## Add New Remote Site in Salesforce {#add-new-remote-site-in-salesforce}
 
