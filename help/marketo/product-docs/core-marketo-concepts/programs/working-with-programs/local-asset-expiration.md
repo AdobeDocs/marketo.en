@@ -26,7 +26,7 @@ Before you can schedule an asset expiration, your Marketo role must have the pro
 
 1. Under [!UICONTROL Access Marketing Activities], select **[!UICONTROL Schedule Asset Expiration]**. Click **[!UICONTROL Save]**.
 
-   ![](assets/local-asset-expiration-.png)
+PICC
 
 ## Set an Expiration Date {#set-an-expiration-date}
 
