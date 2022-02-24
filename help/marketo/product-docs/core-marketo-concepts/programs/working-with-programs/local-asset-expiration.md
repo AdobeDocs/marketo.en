@@ -18,11 +18,11 @@ Before you can schedule an asset expiration, your Marketo role must have the pro
 
 1. In the [!UICONTROL Admin] area, click **[!UICONTROL Users & Roles]**.
 
-   ![](assets/local-asset-expiration-2.png)
+   ![](assets/local-asset-expiration-1.png)
 
 1. Click the **[!UICONTROL Roles]** tab, select the user you want to grant access to, then click **[!UICONTROL Edit Role]**.
 
-   ![](assets/local-asset-expiration-3.png)
+   ![](assets/local-asset-expiration-2.png)
 
 1. Under [!UICONTROL Access Marketing Activities], select **[!UICONTROL Schedule Asset Expiration]**. Click **[!UICONTROL Save]**.
 
