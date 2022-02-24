@@ -18,7 +18,7 @@ Admins can override Marketo's determined priority for trigger campaigns to set p
 
 ## Grant Priority Override Access {#grant-priority-override-access}
 
->[!CAUTION]
+>[!NOTE]
 >
 >Only Admins or users with admin responsibilities should have campaign priority override access.
 

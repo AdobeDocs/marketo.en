@@ -38,7 +38,7 @@ If you have an ![x](assets/delete.png) here, verify that your Microsoft Dynamics
 
 ## Sync user is assigned to the Marketo Sync User role {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
-If you have an ![x](assets/delete.png) here, it could be one of the two reasons below.
+If you have an ![x](assets/delete.png) here, it could be one of the three issues below.
 
 **Option One - Verify That the Marketo Sync User Role Is Checked in Microsoft Dynamics**:
 
@@ -69,6 +69,10 @@ If you have an ![x](assets/delete.png) here, it could be one of the two reasons 
 **Option Two - Confirm Grant Consent**:
 
 1. Review the [Grant Consent for Client Id and App Registration](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md) to confirm the app has admin consent to call APIs.
+
+**Option Three - Sync User**:
+
+1. Verify the Sync User is added to Marketo Config.
 
 ## Marketo solution is properly installed {#marketo-solution-is-properly-installed}
 

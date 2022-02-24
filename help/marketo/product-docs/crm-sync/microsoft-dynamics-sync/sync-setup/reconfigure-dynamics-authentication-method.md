@@ -56,8 +56,10 @@ Follow the steps below to update your Dynamics Authentication Method.
 
 1. Click **Confirm** again.
 
+   ![](assets/reconfigure-dynamics-authentication-method-8.png)
+
 1. Click **OK**.
 
    >[!IMPORTANT]
    >
-   >Remember to re-enable the sync!
+   >The system takes 15 minutes to accept the new authentication mode. Please wait 15 minutes from the time of the switch before re-enabling the sync.
