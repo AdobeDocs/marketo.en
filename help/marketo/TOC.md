@@ -1395,6 +1395,13 @@ feature-set: Marketo Engage
     + [Sales Insight for Non-Native Salesforce Integrations](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
   + Marketo Sky {#marketo-sky}
     + [Enabling Roles for Marketo Sky](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
+    + [Expected Behavior](product-docs/marketo-sky/expected-behavior.md)
+    + [Getting Started with Predictive Audiences](product-docs/marketo-sky/getting-started-with-predictive-audiences.md)
+    + [Model Health and Data Validity](product-docs/marketo-sky/model-health-and-data-validity.md)
+    + [Predictive Filters](product-docs/marketo-sky/predictive-filters.md)
+    + [Setting an Event Cap](product-docs/marketo-sky/setting-an-event-cap.md)
+    + [Setting Event Goals](product-docs/marketo-sky/setting-event-goals.md)
+    + [Understanding Goal Tracking and Projected Registrations](product-docs/marketo-sky/understanding-goal-tracking-and-projected-registrations.md)
   + Mobile Marketing {#mobile-marketing}
     + Admin {#admin}
       + [Add a Mobile App](product-docs/mobile-marketing/admin/add-a-mobile-app.md)

@@ -10,6 +10,7 @@ Follow the steps below to update your Dynamics Authentication Method.
 >[!PREREQUISITES]
 >
 >Set up the application in Microsoft Dynamics and active directory (Azure AD/ADFS) using the desired authentication method from either of the following articles:
+>
 >* [Step 2 of 3: Set up Marketo Solution with Server to Server Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 >* [Step 2 of 4: Set up the Marketo Solution with Resource Owner Password Control Connection](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
 
