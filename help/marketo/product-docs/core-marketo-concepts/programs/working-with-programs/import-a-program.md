@@ -81,6 +81,8 @@ Programs use external assets like email templates, landing page templates, image
 
 **Email/Landing Page Templates:** Email/Landing Page templates are imported into the Design Studio. You can use conflict rules to configure behavior when a template with the same name exists. Using the default rule, a number will be appended to a template if one with the same name exists. For example, if you already have a template named "Standard Template," the new one will be named "Standard Template 1."
 
+**Landing Pages/Forms:** If a form or landing page with the same name exists in Design Studio, they will still be imported, but with a number appended to their name (ex: Landing Page 1).
+
 **Images:** Images used by landing pages are imported into the design studio unless one with the same name exists.
 
 **Tokens:** Tokens that live outside of a program will be converted to local tokens during the import process.
@@ -90,8 +92,6 @@ Programs use external assets like email templates, landing page templates, image
 >Image type my tokens are not supported for program imports. If a program that has image type my tokens is imported, **no** tokens will come through.
 
 **Program Tags:** You can use conflict rules to control how program tags that do not exist in the destination account will be treated. Using the default rule will create the program tags, or you can choose to ignore the tags.
-
-**Forms:** External forms will automatically be imported into the design studio unless one with the same name exists.
 
 >[!CAUTION]
 >
