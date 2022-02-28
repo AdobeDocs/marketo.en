@@ -59,6 +59,12 @@ The following features are on a non-quarterly cycle and will be released through
 
 * **BI Templates**: Bizible will now provide downloadable, foundational reporting artifacts and sample reports for Tableau and Power BI to enable rapid development of custom reports tailored for your specific business needs.
 
+## Sales Connect {#sales-connect}
+
+![(star)](assets/yellow-star.png)
+
+* **Email Connection Throttling (GA)**: Email Connection Throttling allows Sales Connect administrators to configure the send rate of emails when using Gmail or Exchange as your delivery channel, so that the rate at which emails are being handed over to the delivery channel provider do not exceed the enforced limits.
+
 ## Announcements {#announcements}
 
 * **Marketo Sky Deprecation**: In March, Marketo Sky will no longer be available as we focus our resources on delivering the next-generation user experience. In an effort to maintain access to functionality that is exclusive to Marketo Sky today, we are bringing Asset Expiration and Smart Campaign Priority Override into the Classic experience. [Click here](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) to learn more.
