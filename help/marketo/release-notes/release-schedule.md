@@ -31,12 +31,12 @@ _Release dates are subject to change_
    <th width="250px">Status</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">January '22</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-jan-22.md">January '22</a></td>
    <td>January 21, 2022</td>
    <td>Shipped</td>
   </tr>
   <tr> 
-   <td>March '22</td>
+   <td><a href="/help/marketo/release-notes/current.md">March '22</a></td>
    <td>March 11, 2022</td>
    <td>In Progress</td>
   </tr>
