@@ -1289,10 +1289,10 @@ feature-set: Marketo Engage
       + People {#people}
         + [Person Detail View](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
         + [Sales Insight Actions and GDPR Compliance](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
-          + Managing Contacts {#managing-contacts}
-            + [Bulk Actions on People](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
-            + [Creating and Deleting Contacts](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
-            + [Import Contacts via CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
+        + Managing Contacts {#managing-contacts}
+          + [Bulk Actions on People](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
+          + [Creating and Deleting Contacts](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
+          + [Import Contacts via CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
       + Salesforce Configuration {#salesforce-configuration}
         + [MSI Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
         + [Uninstall Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
