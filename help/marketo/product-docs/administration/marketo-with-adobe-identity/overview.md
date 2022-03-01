@@ -14,7 +14,7 @@ Existing Marketo subscriptions will be migrated to the Adobe Identity Management
 >
 >Marketo Support will not be able to provide any updates regarding Adobe IMS migration. Your Customer Success Manager will reach out with the estimated timeline in the coming months.
 
-## Profile Levels
+## Profile Levels {#profile-levels}
 
 Adobe Marketo Engage subscriptions onboarded to the Adobe Identity Management System supports various profiles. The following are the types of user profiles relevant in this integration.
 
@@ -37,7 +37,7 @@ Adobe Marketo Engage subscriptions onboarded to the Adobe Identity Management Sy
  </tr>
 </table>
 
-## FAQ
+## FAQ {#faq}
 
 **What is Adobe Identity?**
 

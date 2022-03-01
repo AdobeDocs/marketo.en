@@ -24,6 +24,10 @@ Marketo provides several built-in roles, with different levels of access:
 
 You cannot edit the Admin and Standard User roles, but you can edit the others. You can also create new custom roles to match the particular organizational structures in your company.
 
+## Marketo with Adobe Identity {#marketo-with-adobe-identity}
+
+If you're using Marketo with Adobe Identity, the list of profile descriptions [can be found here](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md#profile-levels).
+
 ## Assign Roles to a User {#assign-roles-to-a-user}
 
 You can assign roles to a user when you [create users for the first time](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) or by [editing an existing user](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
