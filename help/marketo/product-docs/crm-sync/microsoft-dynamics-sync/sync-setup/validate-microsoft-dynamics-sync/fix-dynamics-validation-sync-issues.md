@@ -34,7 +34,7 @@ If you have an ![x](assets/delete.png) here, verify that the URL is valid. Find 
 
 ## Username and password are valid {#username-and-password-are-valid}
 
-If you have an ![x](assets/delete.png) here, verify that your Microsoft Dynamics username and password are valid.
+If you have an ![x](assets/delete.png) here, verify that your Microsoft Dynamics credentials are valid. For Web API S2S authentication, the username in Marketo must match the [email address](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) of the Application User in the CRM. For other types, it should match the username for the Sync User.
 
 ## Sync user is assigned to the Marketo Sync User role {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 

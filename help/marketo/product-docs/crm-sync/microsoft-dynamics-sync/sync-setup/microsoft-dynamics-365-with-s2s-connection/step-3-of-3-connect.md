@@ -53,7 +53,7 @@ This is the last step of the sync. We're almost there!
 
    >[!NOTE]
    >
-   >The Username in Marketo must match the User Name for the sync user in CRM. The format can be `user@domain.com` or DOMAIN\user.
+   >The username in Marketo must match the [email address](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) of the Application User in the CRM. The format can be `user@domain.com` or DOMAIN\user.
 
 ## Select Fields to Sync {#select-fields-to-sync}
 
