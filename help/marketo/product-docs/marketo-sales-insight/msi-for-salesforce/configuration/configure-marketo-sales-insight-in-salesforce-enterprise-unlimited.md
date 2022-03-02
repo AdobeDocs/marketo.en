@@ -10,7 +10,7 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
 
 >[!PREREQUISITES]
 >
->* [Install Marketo Sales Insight Package in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>[Install Marketo Sales Insight Package in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 >[!NOTE]
 >
@@ -112,34 +112,52 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
    >
    >We recommend a height of 410 pixels for the Accounts and Opportunities objects.
 
-1. Click on **Fields** on the left. Then search and drag the **Engagement** label into the **Marketo Sales Insight** layout.
+1. Click on **Fields** on the left. Then search and drag the **Urgency** label into the **Marketo Sales Insight** layout.
 
-   ![](assets/image2015-5-22-16-3a32-3a46.png)
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-18.png)
 
 1. Repeat the above step for these fields as well.
 
    <table> 
     <tbody> 
      <tr> 
-      <td colspan="1">Engagement</td> 
+      <td>Last Interesting Moment</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Relative Score Value</p></td> 
+      <td>Last Interesting Moment Date</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Urgency Value</p></td> 
+      <td>Last Interesting Moment Desc</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Last Interesting Moment Date</p></td> 
+      <td>Last Interesting Moment Source</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Last Interesting Moment Desc</p></td> 
+      <td>Last Interesting Moment Type</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Last Interesting Moment Source</p></td> 
+      <td>Last Marketo Activity by Sales</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Last Interesting Moment Type</p></td> 
+      <td>Last Marketo Engagement by Sales</td> 
+     </tr> 
+     <tr> 
+      <td>MSI Contact Id</td> 
+     </tr> 
+     <tr> 
+      <td>Relative Score</td> 
+     </tr> 
+     <tr> 
+      <td>Relative Score Value</td> 
+     </tr> 
+     <tr> 
+      <td>Urgency</td> 
+     </tr> 
+     <tr> 
+      <td>Urgency Value</td> 
+     </tr> 
+     <tr> 
+      <td>View in Marketo</td> 
      </tr> 
     </tbody> 
    </table>
@@ -148,9 +166,53 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
   
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. Repeat this process to add Visualforce page sections and Sales Insight fields for **Contact**, **Account** and **Opportunity**.
+1. Repeat steps 5-7 to add Visualforce page sections and Sales Insight fields for **Contact**, **Account** and **Opportunity**.
 
-1. Repeat steps 5-7 to add Visualforce page sections for Contact, Account, and Opportunity. Then, repeat steps 8-10 to add Sales Insight fields for **Contact**. Be sure to save after any changes.
+1. Repeat steps 8-10 to add Sales Insight fields from the list below for **Contact**. Be sure to save any changes.
+
+<table> 
+    <tbody> 
+     <tr> 
+      <td>Last Interesting Moment</td> 
+     </tr> 
+     <tr> 
+      <td>Last Interesting Moment Date</td> 
+     </tr> 
+     <tr> 
+      <td>Last Interesting Moment Desc</td> 
+     </tr> 
+     <tr> 
+      <td>Last Interesting Moment Source</td> 
+     </tr> 
+     <tr> 
+      <td>Last Interesting Moment Type</td> 
+     </tr> 
+     <tr> 
+      <td>Last Marketo Activity by Sales</td> 
+     </tr> 
+     <tr> 
+      <td>Last Marketo Engagement by Sales</td> 
+     </tr> 
+     <tr> 
+      <td>MKTO Lead Score</td> 
+     </tr> 
+     <tr> 
+      <td>Relative Score</td> 
+     </tr> 
+     <tr> 
+      <td>Relative Score Value</td> 
+     </tr> 
+     <tr> 
+      <td>Sales Insight - Opens contact full list page</td> 
+     </tr> 
+     <tr> 
+      <td>Urgency</td> 
+     </tr> 
+     <tr> 
+      <td>Urgency Value</td> 
+     </tr> 
+    </tbody> 
+   </table>
 
 ## Map Custom Person Fields {#map-custom-person-fields}
 
