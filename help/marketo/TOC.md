@@ -1285,10 +1285,10 @@ feature-set: Marketo Engage
           + [Sending Emails via Group Email](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
           + [Using a Template in the Compose Window](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
       + FAQ {#faq}
-        + [Can I Track Multiple Recipients with CC/BCC?](product-docs/marketo-sales-insight/actions/marketo/can-i-track-multiple-recipients-with-cc-bcc.md)
-        + [How Do I Prevent Self Views?](product-docs/marketo-sales-insight/actions/marketo/how-do-i-prevent-self-views.md)
-        + [How Does Location Tracking Work?](product-docs/marketo-sales-insight/actions/marketo/how-does-location-tracking-work.md)
-        + [How Does Sales Insight Actions Handle Email De-Duping?](product-docs/marketo-sales-insight/actions/marketo/how-does-sales-insight-actions-handle-email-de-duping.md)
+        + [Can I Track Multiple Recipients with CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
+        + [How Do I Prevent Self Views?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
+        + [How Does Location Tracking Work?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
+        + [How Does Sales Insight Actions Handle Email De-Duping?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
       + Marketo {#marketo}
         + [Grant Marketo Access to Users](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
       + People {#people}

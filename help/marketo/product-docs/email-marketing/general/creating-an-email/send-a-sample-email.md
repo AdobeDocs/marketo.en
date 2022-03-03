@@ -21,13 +21,13 @@ It's quick and easy to send samples of an email. To send a dynamic content email
    >
    >My Tokens resolves to the value appropriate to the email’s program.
 
-1. Enter an email address for delivery and click **Send**.
+1. Enter one or multiple email addresses for delivery. For multiple email addresses, use commas to separate them. Click **Send** when done.
 
    ![](assets/two.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >To enter multiple email addresses, use commas to separate them.
+   >If you enter multiple email addresses, they will all be visible to every recipient. The first one entered will the main recipient and each subsequent email address will be a CC recipient.
 
    >[!TIP]
    >
