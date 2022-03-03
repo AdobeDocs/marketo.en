@@ -1223,7 +1223,7 @@ feature-set: Marketo Engage
       + [Shared Templates](product-docs/marketo-sales-connect/templates/shared-templates.md)
       + [Template Engagement](product-docs/marketo-sales-connect/templates/template-engagement.md)
       + [Using HTML](product-docs/marketo-sales-connect/templates/using-html.md)
-      + [View Template List as a Another User](product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md)
+      + [View Template List as Another User](product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)
       + Dynamic Fields {#dynamic-fields}
         + [Create Custom Dynamic Fields](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
         + [Dynamic Fields Glossary](product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md)
@@ -1254,6 +1254,8 @@ feature-set: Marketo Engage
         + [Login Management Settings](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
         + [Sharing Settings](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
         + [User Access Details](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
+      + Analytics {#analytics}
+        + [Template Engagement](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
       + Campaigns {#campaigns}
         + [Campaign Has Ended](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
       + CRM {#crm}
@@ -1312,6 +1314,9 @@ feature-set: Marketo Engage
         + [Add Hyperlinked Text](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
         + [Manage Templates](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
         + [Manage Template Categories](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
+        + [Recommended Templates](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)
+        + [Using HTML](product-docs/marketo-sales-insight/actions/templates/using-html.md)
+        + [View Template List as Another User](product-docs/marketo-sales-insight/actions/templates/view-template-list-as-another-user.md)
     + Using MSI {#using-msi}
       + [Log Inbound Mail From Your Leads in Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
     + MSI Chrome Plugin {#msi-chrome-plugin}

@@ -10,7 +10,7 @@ What do Admins and non-Admins have access to?
 
 ## Admin User Permissions {#admin-user-permissions}
 
-Admins can [view all templates](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
+Admins can [view all templates](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
 
 ![](assets/templates.jpg)
 

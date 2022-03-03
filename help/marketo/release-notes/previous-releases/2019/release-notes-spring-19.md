@@ -41,7 +41,7 @@ The following features are expected to release throughout the first calendar qua
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **Enhanced Auditing**: New visibility into all people, emails, and [content](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md) in an instance with added ability to [end existing campaigns](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)created by other users.
+* **Enhanced Auditing**: New visibility into all people, emails, and [content](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) in an instance with added ability to [end existing campaigns](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)created by other users.
 * **[Unsubscribe Management](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximize deliverability and compliance with the ability to [block email domains](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) from being contacted. Marketo will also cross-reference the lead database for unsubscribes before sending an email.
 
 ## Bizible by Marketo {#bizible-by-marketo}
