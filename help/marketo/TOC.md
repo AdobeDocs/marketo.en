@@ -1284,6 +1284,11 @@ feature-set: Marketo Engage
           + [Composing Bulk Emails with Select and Send](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
           + [Sending Emails via Group Email](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
           + [Using a Template in the Compose Window](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+      + FAQ {#faq}
+        + [Can I Track Multiple Recipients with CC/BCC?](product-docs/marketo-sales-insight/actions/marketo/can-i-track-multiple-recipients-with-cc-bcc.md)
+        + [How Do I Prevent Self Views?](product-docs/marketo-sales-insight/actions/marketo/how-do-i-prevent-self-views.md)
+        + [How Does Location Tracking Work?](product-docs/marketo-sales-insight/actions/marketo/how-does-location-tracking-work.md)
+        + [How Does Sales Insight Actions Handle Email De-Duping?](product-docs/marketo-sales-insight/actions/marketo/how-does-sales-insight-actions-handle-email-de-duping.md)
       + Marketo {#marketo}
         + [Grant Marketo Access to Users](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
       + People {#people}
@@ -1293,6 +1298,8 @@ feature-set: Marketo Engage
           + [Bulk Actions on People](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
           + [Creating and Deleting Contacts](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
           + [Import Contacts via CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
+          + [Manage Groups](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
+          + [People Page Columns](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
       + Salesforce Configuration {#salesforce-configuration}
         + [MSI Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
         + [Uninstall Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
@@ -1302,6 +1309,7 @@ feature-set: Marketo Engage
       + Tasks {#tasks}
         + [Reminder Task Sync with Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)  
       + Templates {#templates}
+        + [Add Hyperlinked Text](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
         + [Manage Templates](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
         + [Manage Template Categories](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
     + Using MSI {#using-msi}

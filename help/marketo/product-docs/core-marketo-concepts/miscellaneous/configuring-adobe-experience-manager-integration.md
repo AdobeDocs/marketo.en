@@ -14,7 +14,7 @@ Configure AEM so you can access, select, and import AEM assets into Marketo's De
 
 >[!CAUTION]
 >
->Currently, this feature is only fully supported in Firefox. It is not supported in Safari, and it might not work in the latest version of Chrome (v. 80), depending on your SameSite cookie settings.
+>Currently, this feature is only fully supported in Firefox. It is not supported in Safari, and it might not work in the latest version of Chrome, depending on your SameSite cookie settings.
 
 1. Navigate to the Adobe Experience Manager (the URL is specific to your company).
 
