@@ -3,6 +3,7 @@ description: Can I Track Multiple Recipients with CC/BCC - Marketo Docs - Produc
 title: Can I Track Multiple Recipients with CC/BCC
 hide: yes
 hidefromtoc: yes
+exl-id: cc14cbb5-6c1f-470c-9836-dd853ef7befc
 ---
 # Can I Track Multiple Recipients with CC/BCC? {#can-i-track-multiple-recipients-with-cc-bcc}
 

@@ -3,6 +3,7 @@ description: Add Hyperlinked Text - Marketo Docs - Product Documentation
 title: Add Hyperlinked Text
 hide: yes
 hidefromtoc: yes
+exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 ---
 # Add Hyperlinked Text {#add-hyperlinked-text}
 

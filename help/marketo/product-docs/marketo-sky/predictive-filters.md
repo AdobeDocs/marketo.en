@@ -3,6 +3,7 @@ description: Predictive Filters - Marketo Docs - Product Documentation
 title: Predictive Filters
 hide: yes
 hidefromtoc: yes
+exl-id: 29c586d1-6c7d-4892-9c71-354af1552076
 ---
 # Predictive Filters {#predictive-filters}
 

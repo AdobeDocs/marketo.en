@@ -3,6 +3,7 @@ description: Expected Behavior - Marketo Docs - Product Documentation
 title: Expected Behavior
 hide: yes
 hidefromtoc: yes
+exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
 ---
 # Expected Behavior {#expected-behavior}
 

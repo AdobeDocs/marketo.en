@@ -3,6 +3,7 @@ description: Setting Event Goals - Marketo Docs - Product Documentation
 title: Setting Event Goals
 hide: yes
 hidefromtoc: yes
+exl-id: bc581336-e78b-4e0e-bdff-b62e1bd99fba
 ---
 # Setting Event Goals {#setting-event-goals}
 

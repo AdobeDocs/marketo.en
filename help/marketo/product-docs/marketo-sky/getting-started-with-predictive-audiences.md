@@ -3,6 +3,7 @@ description: Getting Started with Predictive Audiences - Marketo Docs - Product 
 title: Getting Started with Predictive Audiences
 hide: yes
 hidefromtoc: yes
+exl-id: d39afacc-30e0-4b7c-9b78-18fa95505553
 ---
 # Getting Started with Predictive Audiences {#getting-started-with-predictive-audiences}
 

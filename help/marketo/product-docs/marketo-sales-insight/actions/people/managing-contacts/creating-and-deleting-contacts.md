@@ -3,6 +3,7 @@ description: Creating and Deleting Contacts - Marketo Docs - Product Documentati
 title: Creating and Deleting Contacts
 hide: yes
 hidefromtoc: yes
+exl-id: 59fb0ec9-9bb4-4eae-b3de-8564d371b970
 ---
 # Creating and Deleting Contacts {#creating-and-deleting-contacts}
 

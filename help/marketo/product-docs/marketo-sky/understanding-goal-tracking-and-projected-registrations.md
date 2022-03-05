@@ -3,6 +3,7 @@ description: Understanding Goal Tracking and Projected Registrations - Marketo D
 title: Understanding Goal Tracking and Projected Registrations
 hide: yes
 hidefromtoc: yes
+exl-id: 22d7ef98-2988-4188-99dd-5558a78492e3
 ---
 # Understanding Goal Tracking and Projected Registrations {#understanding-goal-tracking-and-projected-registrations}
 

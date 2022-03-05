@@ -3,6 +3,7 @@ description: People Page Columns - Marketo Docs - Product Documentation
 title: People Page Columns
 hide: yes
 hidefromtoc: yes
+exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
 ---
 # People Page Columns {#people-page-columns}
 

@@ -3,6 +3,7 @@ description: View Template List as Another User - Marketo Docs - Product Documen
 title: View Template List as Another User
 hide: yes
 hidefromtoc: yes
+exl-id: c0d8d0c4-17a1-4f0e-86f2-a0d19fab5d36
 ---
 # View Template List as Another User {#view-template-list-as-another-user}
 

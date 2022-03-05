@@ -3,6 +3,7 @@ description: Local Asset Expiration - Marketo Docs - Product Documentation
 title: Local Asset Expiration
 hide: yes
 hidefromtoc: yes
+exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 ---
 # Local Asset Expiration {#local-asset-expiration}
 

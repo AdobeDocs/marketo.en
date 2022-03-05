@@ -3,6 +3,7 @@ description: Setting an Event Cap - Marketo Docs - Product Documentation
 title: Setting an Event Cap
 hide: yes
 hidefromtoc: yes
+exl-id: 8a46d97b-77a7-479a-b7ac-580ec65171fd
 ---
 # Setting an Event Cap {#setting-an-event-cap}
 

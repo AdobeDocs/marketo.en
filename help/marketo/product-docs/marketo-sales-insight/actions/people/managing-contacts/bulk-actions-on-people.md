@@ -3,6 +3,7 @@ description: Bulk Actions on People - Marketo Docs - Product Documentation
 title: Bulk Actions on People
 hide: yes
 hidefromtoc: yes
+exl-id: fcd89688-6905-4714-9254-42873eca8428
 ---
 # Bulk Actions on People {#bulk-actions-on-people}
 
