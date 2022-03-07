@@ -1257,6 +1257,7 @@ feature-set: Marketo Engage
       + Analytics {#analytics}
         + [Template Engagement](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
       + Campaigns {#campaigns}
+        + [Add to Marketing Campaign](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
         + [Campaign Has Ended](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
       + CRM {#crm}
         + Salesforce Integration {#salesforce-integration}
@@ -1293,6 +1294,7 @@ feature-set: Marketo Engage
         + [How Does Sales Insight Actions Handle Email De-Duping?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
       + Marketo {#marketo}
         + [Grant Marketo Access to Users](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+        + [Make a Campaign Visible to Sales Connect Users](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
       + People {#people}
         + [Person Detail View](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
         + [Sales Insight Actions and GDPR Compliance](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)

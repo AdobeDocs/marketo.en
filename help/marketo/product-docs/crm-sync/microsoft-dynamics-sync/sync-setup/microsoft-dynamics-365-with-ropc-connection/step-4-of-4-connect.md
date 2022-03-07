@@ -17,9 +17,9 @@ This is the last step of the sync. You're almost there!
 >
 >**Admin Permissions Required**
 
->[!IMPORTANT]
+>[!NOTE]
 >
->If you’re upgrading from Basic Authentication to OAuth, you’ll need to contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) for help with updating the additional parameters. Enabling this feature will temporarily stop the sync until new credentials are entered and the sync is re-enabled. The feature can be disabled (until April 2022) should you want to revert to the old Authentication mode.
+>If you’re upgrading from Basic Authentication to OAuth, you can use [this article](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) to reconfigure your authentication.
 
 ## Enter Dynamics Sync User information {#enter-dynamics-sync-user-information}
 

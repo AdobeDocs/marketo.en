@@ -57,10 +57,6 @@ Additional references [can be found here](https://docs.microsoft.com/en-us/azure
 
 Almost there! All we have left is to inform Marketo Solution about the new user created.
 
-   >[!IMPORTANT]
-   >
-   >If you’re upgrading from Basic Authentication to OAuth, you’ll need to contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) for help with updating the additional parameters. Performing a configuration change to Default Sync user will temporarily stop the sync until new credentials are entered and the sync is re-enabled. At your request, Marketo Support can disable the feature (until April 2022) should you want to revert to the old Authentication method.
-
 1. Go back to the Advanced Settings section and click the ![](assets/image2015-5-13-15-3a49-3a19.png) icon next to Settings, and select **Marketo Config**.
 
    ![](assets/fourteen.png)
@@ -92,6 +88,10 @@ Almost there! All we have left is to inform Marketo Solution about the new user 
 1. Click the **Publish All Customizations** button.
 
    ![](assets/nineteen.png)
+
+   >[!NOTE]
+   >
+   >If you’re upgrading from Basic Authentication to OAuth, you can use [this article](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) to reconfigure your authentication.
 
 ## Before Proceeding to Step 3 {#before-proceeding-to-step}
 
