@@ -18,31 +18,31 @@ hidefromtoc: yes
 
 1. Click the **People** Tab.
 
-   ![](assets/one-3.png)
+PICC
 
 1. Find the contact(s) you want to add.
 
-   ![](assets/two-3.png)
+PICC
 
 1. Click the checkbox to select your contact(s).
 
-   ![](assets/three-3.png)
+PICC
 
 1. Click **Add Selected to Campaign**.
 
-   ![](assets/four-3.png)
+PICC
 
 1. Since you're adding to a Marketing campaign, skip selecting a "from" address. You can however choose to add more contacts. If you choose to, click Individuals and type them in. Click **Next** when done.
 
-   ![](assets/five-2.png)
+PICC
 
 1. Click **Marketing Campaign**.
 
-   ![](assets/six-1.png)
+PICC
 
 1. Click the Workspaces drop-down and choose the workspace that contains the campaign you want the group added to.
 
-   ![](assets/seven-1.png)
+PICC
 
    >[!NOTE]
    >
@@ -50,33 +50,33 @@ hidefromtoc: yes
 
 1. Select the desired campaign and click **Next**.
 
-   ![](assets/eight.png)
+PICC
 
 1. You're shown the contacts that qualify. Click **Start** to get them added.
 
-   ![](assets/nine.png)
+PICC
 
 ## Add a Group to a Campaign {#add-a-group-to-a-campaign}
 
 1. Click the **People** Tab.
 
-   ![](assets/one-3.png)
+PICC
 
 1. Under My Groups, select the group you wish to add to a campaign.
 
-   ![](assets/eleven.png)
+PICC
 
 1. Click **Add Group to Campaign**.
 
-   ![](assets/twelve.png)
+PICC
 
 1. Since you're adding to a Marketing campaign, skip selecting a "from" address. You can however choose to add more contacts. If you choose to, click Individuals and type them in. Click **Next** when done.
 
-   ![](assets/thirteen.png)
+PICC
 
 1. Select **Marketing Campaign**.
 
-   ![](assets/six-1.png)
+PICC
 
    >[!NOTE]
    >
@@ -84,7 +84,7 @@ hidefromtoc: yes
 
 1. Click the Workspaces drop-down and choose the workspace that contains the campaign you want the group added to.
 
-   ![](assets/seven-1.png)
+PICC
 
    >[!NOTE]
    >
@@ -92,8 +92,8 @@ hidefromtoc: yes
 
 1. Select the desired campaign and click **Next**.
 
-   ![](assets/eight.png)
+PICC
 
 1. You're shown the contacts that qualify. Click **Start** to get them added.
 
-   ![](assets/nine.png)
+PICC
