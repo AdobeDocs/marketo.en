@@ -9,10 +9,6 @@ Integrating your Sales Connect account to send through Exchange or Gmail email p
 
 ## Email Connection Throttling (Beta) {#email-connection-throttling-beta}
 
->[!AVAILABILITY]
->
->This feature is currently in Beta release. To join this Beta, please contact your Customer Success Manager.
-
 Email Connection Throttling allows Sales Connect administrators to configure the send rate of emails when using Gmail or Exchange as your delivery channel, so that the rate at which emails are being handed over to the delivery channel provider do not exceed the enforced limits.
 
 When limits are consistently exceeded this can sometimes be seen as suspicious behavior from the delivery channel provider, causing emails to fail and sometimes even an account to be disabled.
