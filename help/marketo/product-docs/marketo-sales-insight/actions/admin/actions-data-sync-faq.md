@@ -11,7 +11,7 @@ The data unification field sync for Sales Insight Actions enables the system to 
 
 This provides up-to-date people data in the Sales Insight Actions web app and allows the system to collect unique IDs for corresponding person records in Marketo and lead/contact/account/opportunity records in Salesforce, so records can be properly referenced for logging data.  
 
-This sync can be enabled from the Sales Insight Actions Config tab in the Admin section of Marketo Engage. For more information check out [Initiate Data Sync](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync).
+This sync can be enabled from the Sales Insight Actions Config tab in the Admin section of Marketo Engage. For more information check out [Initiate Data Sync](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md#initiate-data-sync).
 
    ![](assets/actions-data-sync-faq-1.png)
 
@@ -114,4 +114,4 @@ The diagram above shows what information is logged to Salesforce. Activities suc
 >* [Marketo Unsubscribe Check](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Salesforce Sync Settings](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Reminder Task Sync with Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
->* [Initiate Data Sync](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync)
+>* [Initiate Data Sync](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md#initiate-data-sync)
