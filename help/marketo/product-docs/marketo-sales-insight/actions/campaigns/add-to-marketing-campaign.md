@@ -3,6 +3,7 @@ description: Add to Marketing Campaign - Marketo Docs - Product Documentation
 title: Add to Marketing Campaign
 hide: yes
 hidefromtoc: yes
+exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 ---
 # Add to Marketing Campaign {#add-to-marketing-campaign}
 
