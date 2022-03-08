@@ -1,11 +1,11 @@
 ---
-description: MSI Actions Configuration in Salesforce - Marketo Docs - Product Documentation
-title: MSI Actions Configuration in Salesforce
+description: Sales Insight Actions Configuration in Salesforce - Marketo Docs - Product Documentation
+title: Sales Insight Actions Configuration in Salesforce
 hide: yes
 hidefromtoc: yes
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
 ---
-# MSI Actions Configuration in Salesforce {#msi-actions-configuration-in-salesforce}
+# Sales Insight Actions Configuration in Salesforce {#sales-insight-actions-configuration-in-salesforce}
 
 >[!PREREQUISITES]
 >
@@ -29,7 +29,7 @@ exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
 
    ![](assets/msi-actions-configuration-in-salesforce-4.png)
 
-## Enabling MSI-Actions across the CRM {#enabling-msi-actions-across-the-crm}
+## Enabling Sales Insight Actions across the CRM {#enabling-sales-insight-actions-across-the-crm}
 
 1. In Salesforce, click the **Marketo Sales Insight Config** tab.
 

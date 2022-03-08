@@ -1,11 +1,11 @@
 ---
-description: MSI Actions Admin Guide - Marketo Docs - Product Documentation
-title: MSI Actions Admin Guide
+description: Sales Insight Actions Admin Guide - Marketo Docs - Product Documentation
+title: Sales Insight Actions Admin Guide
 hide: yes
 hidefromtoc: yes
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 ---
-# MSI Actions Admin Guide {#msi-actions-admin-guide}
+# Sales Insight Actions Admin Guide {#sales-insight-actions-admin-guide}
 
 >[!PREREQUISITES]
 >
@@ -177,4 +177,4 @@ You'll receive a confirmation message once the invites are sent.
 
 >[!NOTE]
 >
->Once this is done, you can either upgrade your existing MSI package or install a new one and move on to [configuring MSI Actions in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md).
+>Once this is done, you can either upgrade your existing MSI package or install a new one and move on to [configuring MSI Actions in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md).

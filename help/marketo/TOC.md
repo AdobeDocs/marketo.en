@@ -1235,7 +1235,7 @@ feature-set: Marketo Engage
       + [Sales Insight Actions Feature Overview](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
       + Getting Started {#getting-started}
         + [Sales Insight Actions User Onboarding Guide](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-        + [MSI Actions Admin Guide](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
+        + [MSI Actions Admin Guide](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md)
         + [Change Your Marketo Sales Password](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
         + Email Settings {#email-settings}
           + [Verify Your Email](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
@@ -1305,7 +1305,7 @@ feature-set: Marketo Engage
           + [Manage Groups](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
           + [People Page Columns](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
       + Salesforce Configuration {#salesforce-configuration}
-        + [MSI Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
+        + [Sales Insight Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
         + [Uninstall Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
         + [Uninstall Salesforce Lightning Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)  
       + Send a Sales Email {#send-a-sales-email}
