@@ -1232,7 +1232,7 @@ feature-set: Marketo Engage
         + [Reference Yourself in a Dynamic Field](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
   + Marketo Sales Insight {#marketo-sales-insight}
     + Actions {#actions}
-      + [MSI Actions Feature Overview](product-docs/marketo-sales-insight/actions/msi-actions-feature-overview.md)
+      + [Sales Insight Actions Feature Overview](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
       + Getting Started {#getting-started}
         + [MSI Actions User Onboarding Guide](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
         + [MSI Actions Admin Guide](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)

@@ -1,15 +1,15 @@
 ---
-description: MSI Actions Feature Overview - Marketo Docs - Product Documentation
-title: MSI Actions Feature Overview
+description: Sales Insight Actions Feature Overview - Marketo Docs - Product Documentation
+title: Sales Insight Actions Feature Overview
 hide: yes
 hidefromtoc: yes
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 ---
-# MSI Actions Feature Overview {#msi-actions-feature-overview}
+# Sales Insight Actions Feature Overview {#msi-actions-feature-overview}
 
-Accelerate prospecting efforts with marketing-powered intelligence and engagement tools together in a single workflow using MSI Actions.
+Accelerate prospecting efforts with marketing-powered intelligence and engagement tools together in a single workflow using Sales Insight Actions.
 
-   ![](assets/msi-actions-feature-overview-1.png)
+   ![](assets/sales-insight-actions-feature-overview-1.png)
 
 ## Lead Layout and Contact Layout {#lead-layout-and-contact-layout}
 
@@ -44,7 +44,7 @@ The following actions are available from the “Choose Actions” drop down in t
 
 You can access Live Feed by clicking on the ((0)) icon in the top nav. It includes the ability to see live updates on sales activities along with screen docking capability.
 
-   ![](assets/msi-actions-feature-overview-2.png)
+   ![](assets/sales-insight-actions-feature-overview-2.png)
 
 The following data is available in the tabs within the MSI panel:
 
@@ -109,14 +109,14 @@ The following data is available in the tabs:
 
 **Best Bets Tab**
 
-   ![](assets/msi-actions-feature-overview-3.png)
+   ![](assets/sales-insight-actions-feature-overview-3.png)
 
 The following bulk actions are available from the drop down in Best Bets tab:
 
 * Send Sales Email - Ability to send personalized or templatized emails with view, click and reply tracking
 * Send Sales Campaign - Add leads to sales playbooks which is a sequence of emails and tasks
 
-   ![](assets/msi-actions-feature-overview-4.png)
+   ![](assets/sales-insight-actions-feature-overview-4.png)
 
 The following in-line actions are available for individual leads/contacts in the Best Bets tab:
 
@@ -125,7 +125,7 @@ The following in-line actions are available for individual leads/contacts in the
 * Sales Dialer - Make sales calls using the dialer within the CRM
 * Add Task - Create email, call, customer or Linkedin tasks for prospective leads
 
-   ![](assets/msi-actions-feature-overview-5.png)
+   ![](assets/sales-insight-actions-feature-overview-5.png)
 
 **Email Tab**
 
@@ -146,7 +146,7 @@ The following in-line actions are available for individual leads/contacts in the
 * Sync tasks with Salesforce  
 * Log tasks in Salesforce Activity History section
 
-   ![](assets/msi-actions-feature-overview-6.png)
+   ![](assets/sales-insight-actions-feature-overview-6.png)
 
 **Live Feed**
 
@@ -175,4 +175,4 @@ Filters and Triggers include:
 * Added to Sales Campaign
 * Removed from Sales Campaign
 
-   ![](assets/msi-actions-feature-overview-7.png)
+   ![](assets/sales-insight-actions-feature-overview-7.png)
