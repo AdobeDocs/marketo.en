@@ -1234,7 +1234,7 @@ feature-set: Marketo Engage
     + Actions {#actions}
       + [Sales Insight Actions Feature Overview](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
       + Getting Started {#getting-started}
-        + [MSI Actions User Onboarding Guide](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
+        + [Sales Insight Actions User Onboarding Guide](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
         + [MSI Actions Admin Guide](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
         + [Change Your Marketo Sales Password](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
         + Email Settings {#email-settings}
