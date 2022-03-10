@@ -68,3 +68,71 @@ We do not support AI/NLP functionality.
 **Does Dynamic Chat offer any languages besides English?**
 
 Not at this time.
+
+## Limits in Dynamic Chat {#limits-in-dynamic-chat}
+
+<table>
+  <th>Parameter</th>
+  <th>Description</th>
+  <th>Limit</th>
+ <tr>
+  <td>Total Dialogues</td>
+  <td>Total number of Dialogues (published and draft)</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>Published Dialogues</td>
+  <td>Number of published Dialogues saved</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>Target URLs per Dialogue</td>
+  <td>Number of Target URLs that can be added to a single Dialogue</td>
+  <td>20</td>
+ </tr>
+ <tr>
+  <td>Attributes per Dialogue</td>
+  <td>Number of attributes that can be added to audience criteria for a single Dialogue</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>Groups</td>
+  <td>Number of groups that can be added to a single Dialogue</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>Attributes per Group</td>
+  <td>Number of attributes that can be added to a group</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>Cards</td>
+  <td>Number of cards that can be added to the canvas per Dialogue</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>Anonymous Lead Data Retention Period</td>
+  <td>Duration for how long information of an anonymous lead without any engagement will be retained</td>
+  <td>90 days</td>
+ </tr>
+ <tr>
+  <td>Goal Activity Retention Period</td>
+  <td>Amount of time goal activity data is retained</td>
+  <td>24 months</td>
+ </tr>
+ <tr>
+  <td>Document Activity Retention Period</td>
+  <td>Amount of time document activity data is retained</td>
+  <td>24 months</td>
+ </tr>
+ <tr>
+  <td>Interacted w/ Dialogue Activity Retention Period</td>
+  <td>Amount of time interacted with Dialogue activity data is retained</td>
+  <td>90 days</td>
+ </tr>
+ <tr>
+  <td>Meeting Booking Activity Retention Period</td>
+  <td>Amount of time meeting booking activity will be stored in Dynamic Chat</td>
+  <td>24 months</td>
+ </tr>
+</table>
