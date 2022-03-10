@@ -28,6 +28,10 @@ Adobe Marketo Engage subscriptions onboarded to the Adobe Identity Management Sy
   <td>Responsible for entitling users for the Marketo Engage product in the Adobe Admin Console. Granted role in Adobe Admin Console.</td>
  </tr>
  <tr>
+  <td><strong>Adobe Admin Console Product Profile Admin</strong></td>
+  <td>Administers the Product Profile descriptions assigned to that Admin and all associated administrative functions.</td>
+ </tr>
+ <tr>
   <td><strong>Marketo Engage Product Admin</strong></td>
   <td>A person who has been given access to Marketo Engage with Administrative privileges. Granted role in Marketo Engage, not Adobe Admin Console.</td>
  </tr>

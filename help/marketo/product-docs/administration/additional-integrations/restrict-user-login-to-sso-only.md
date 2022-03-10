@@ -8,6 +8,10 @@ exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 
 If you're [using SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) and want to ensure users cannot bypass the SSO security, follow these instructions.
 
+>[!IMPORTANT]
+>
+>This article does not apply to [Adobe IMS-enabled](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md) Marketo subscriptions.
+
 >[!NOTE]
 >
 >**Admin Permissions Required**
