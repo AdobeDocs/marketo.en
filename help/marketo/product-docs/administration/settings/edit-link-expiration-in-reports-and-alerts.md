@@ -24,8 +24,6 @@ Links in your report subscription emails expire after three days. In order to ch
 
    ![](assets/emaillinkexpiration.png)
 
-Cool, you have edited your email link expiration settings.
-
->[!NOTE]
+>[!IMPORTANT]
 >
->Remember, these only apply to links in reports and alerts, not marketing emails.
+>This setting only applies to links in reports (with the exception of the [download report](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) link) and alerts. It does not apply to marketing emails.
