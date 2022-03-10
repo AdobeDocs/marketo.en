@@ -13,7 +13,7 @@ Dynamic Chat allows you to leverage an easy-to-use interface to target both peop
 
    >[!TIP]
    >
-   >Visit [this page](https://dcweb.z20.web.core.windows.net/) to view tutorial videos as well as a recorded demo of Dynamic Chat.
+   >Visit [this page](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) to view tutorial videos of Dynamic Chat.
 
 ## Integrations {#integrations}
 
