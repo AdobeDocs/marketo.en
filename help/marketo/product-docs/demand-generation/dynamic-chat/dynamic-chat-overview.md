@@ -49,6 +49,10 @@ This is where you can see a list of all the agents that have connected their cal
 
 ## FAQ {#faq}
 
+**How long is data stored for reporting?**
+
+90 days (see the full list of limits [below](#limits-in-dynamic-chat)).
+
 **Does Dynamic Chat allow for live chat?**
 
 No, it only utilizes pre-determined responses.
@@ -60,10 +64,6 @@ In your dialogue, you would need to use the _Person Email is Empty_ attribute.
 **Do you support AI/NLP functionality?**
 
 We do not support AI/NLP functionality.
-
-**How long is data stored for reporting?**
-
-90 days.
 
 **Does Dynamic Chat offer any languages besides English?**
 
