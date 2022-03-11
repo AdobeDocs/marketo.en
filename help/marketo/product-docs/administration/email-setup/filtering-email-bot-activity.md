@@ -23,12 +23,16 @@ Sometimes, email bot activity can erroneously inflate your email opens and click
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Select the **Enable Filtering of Email Bot Activity** checkbox.
+1. Click the slider to enable **Filter Bot Activity**.
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->Upon enabling this feature, you may see a drop in email opens and clicks as false numbers get filtered out.
+>You can separately choose whether or not to have bot activity logged. If you choose not to, you may see a drop in email opens and clicks as false numbers are filtered out.
 
-**OPTIONAL STEP**: To disable the feature, simply deselect the checkbox. If you disable, the "Bot Activity in last 90 days" data does **not** reset.
+**OPTIONAL STEP**: To disable the feature, simply deselect the slider. If you disable, the "Bot Activity in last 90 days" data does **not** reset.
+
+>[!TIP]
+>
+>Leverage bot activity data in Smart Lists via "Is Bot Activity" boolean (yes/no), or in applicable filter/trigger constraints.
