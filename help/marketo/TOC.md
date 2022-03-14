@@ -1265,7 +1265,7 @@ feature-set: Marketo Engage
         + [Campaign Has Ended](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
       + CRM {#crm}
         + Salesforce Customization {#salesforce-customization}
-          + [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/doc.md)
+          + [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
         + Salesforce Integration {#salesforce-integration}
           + [Configure Salesforce Activity Detail Customization](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
           + [Connect Your Marketo Sales Account to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
