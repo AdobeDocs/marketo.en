@@ -1270,6 +1270,8 @@ feature-set: Marketo Engage
           + [Configure Salesforce Activity Detail Customization](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
           + [Connect Your Marketo Sales Account to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
           + [Disconnect Salesforce From Sales Insight Actions](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
+          + [Reply Logging](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
+          + [Salesforce Diagnostics](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
           + [Salesforce Sync Settings](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
       + Email {#email}
         + Command Center {#command-center}
@@ -1296,9 +1298,11 @@ feature-set: Marketo Engage
           + [Using a Template in the Compose Window](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
       + FAQ {#faq}
         + [Can I Track Multiple Recipients with CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
+        + [How Do I Fix "We Were Unable to Authenticate Your Request" When Connecting to Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
         + [How Do I Prevent Self Views?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
         + [How Does Location Tracking Work?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
         + [How Does Sales Insight Actions Handle Email De-Duping?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
+        + [Why Is Tracking Activity Not Showing in Salesforce Activity?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
       + Marketo {#marketo}
         + [Grant Marketo Access to Users](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
         + [Make a Campaign Visible to Sales Connect Users](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
