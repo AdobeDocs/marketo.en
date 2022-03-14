@@ -1255,14 +1255,21 @@ feature-set: Marketo Engage
         + [Sharing Settings](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
         + [User Access Details](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
       + Analytics {#analytics}
+        + [Analytics Page Overview](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
+        + [Understanding the Content Tab](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
+        + [Understanding the Me Tab](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
+        + [Understanding the Team Tab](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
         + [Template Engagement](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
       + Campaigns {#campaigns}
         + [Add to Marketing Campaign](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
         + [Campaign Has Ended](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
       + CRM {#crm}
+        + Salesforce Customization {#salesforce-customization}
+          + [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/doc.md)
         + Salesforce Integration {#salesforce-integration}
           + [Configure Salesforce Activity Detail Customization](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
           + [Connect Your Marketo Sales Account to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
+          + [Disconnect Salesforce From Sales Insight Actions](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
           + [Salesforce Sync Settings](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
       + Email {#email}
         + Command Center {#command-center}

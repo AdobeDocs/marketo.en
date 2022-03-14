@@ -19,23 +19,23 @@ exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 
 1. Click the **People** Tab.
 
-PICC
+   ![](assets/add-to-marketing-campaign-1.png)
 
 1. Find the contact(s) you want to add.
 
-PICC
+   ![](assets/add-to-marketing-campaign-2.png)
 
-1. Click the checkbox to select your contact(s).
+1. Click the checkbox to select your contact(s) and click **Add Selected to Campaign**.
 
-PICC
+   ![](assets/add-to-marketing-campaign-3.png)
 
-1. Click **Add Selected to Campaign**.
+1. STEP HERE
 
-PICC
+   ![](assets/add-to-marketing-campaign-4.png)
 
 1. Since you're adding to a Marketing campaign, skip selecting a "from" address. You can however choose to add more contacts. If you choose to, click Individuals and type them in. Click **Next** when done.
 
-PICC
+   ![](assets/add-to-marketing-campaign-5.png)
 
 1. Click **Marketing Campaign**.
 
