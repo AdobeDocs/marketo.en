@@ -125,7 +125,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 
 **Error:** INVALID_FIELD_FOR_INSERT_UPDATE  
 **Category:** Access/Validation  
-**Message:** Unable to create/update fields: ToutApp__Tout_Last_Replied__c. Please check the security settings of this field.
+**Message:** Unable to create/update fields: MSE_Replied__c. Please check the security settings of this field.
 **What is Happening:** Users don't have write access to the Sales Insight Actions custom fields needed to perform the Most Recent Activity logging transaction. Team may have installed package but has not enabled the correct fields for the users.  
 **Troubleshooting Steps:** Salesforce Admin needs to grant access to the custom fields OR turn off Most Recent Activity logging.
 

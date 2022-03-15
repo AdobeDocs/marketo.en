@@ -21,7 +21,7 @@ Salesforce admin can manually add custom activity fields to Salesforce.
 
 Description of each column in the table below:
 
-* **Field Label**: Field name shown in the UI
+* **Field Label**: Field name shown in the UI (this name can be customized to improve readability by your team)
 * **Field Name**: Technical name of the field (make sure the Field Name you enter matches the Field Name in the table below)
 * **API Name**: Technical name of the field for API (make sure the API name you enter matches the API name in the table below)
 * **Data type**: Type of field
