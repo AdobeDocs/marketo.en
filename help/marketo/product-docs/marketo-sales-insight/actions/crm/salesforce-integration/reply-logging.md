@@ -3,6 +3,7 @@ description: Reply Logging - Marketo Docs - Product Documentation
 title: Reply Logging
 hide: yes
 hidefromtoc: yes
+exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 ---
 # Reply Logging {#reply-logging}
 

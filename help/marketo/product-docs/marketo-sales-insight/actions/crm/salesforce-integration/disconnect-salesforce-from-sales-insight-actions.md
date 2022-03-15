@@ -3,6 +3,7 @@ description: Disconnect Salesforce From Sales Insight Actions - Marketo Docs - P
 title: Disconnect Salesforce From Sales Insight Actions
 hide: yes
 hidefromtoc: yes
+exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 ---
 # Disconnect Salesforce From Sales Insight Actions {#disconnect-salesforce-from-sales-insight-actions}
 

@@ -3,6 +3,7 @@ description: Salesforce Diagnostics - Marketo Docs - Product Documentation
 title: Salesforce Diagnostics
 hide: yes
 hidefromtoc: yes
+exl-id: c449f938-9615-47cb-b232-613ec29068a3
 ---
 # Salesforce Diagnostics {#salesforce-diagnostics}
 
