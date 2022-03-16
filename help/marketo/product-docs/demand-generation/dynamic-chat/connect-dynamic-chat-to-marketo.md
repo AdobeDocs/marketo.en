@@ -25,7 +25,7 @@ After you've completed the [initial setup](/help/marketo/product-docs/demand-gen
 
    ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
-1. Select up to 50 standard or custom fields to sync to Dynamic Chat. Click **Next** when done.
+1. Select up to 50 standard or custom fields from your Marketo instance to sync to Dynamic Chat for use in audience targeting, data mapping, and personalization. Click **Next** when done.
 
    ![](assets/connect-dynamic-chat-to-marketo-4.png)
 
@@ -33,7 +33,7 @@ After you've completed the [initial setup](/help/marketo/product-docs/demand-gen
    >
    >At this time, attribute selections **cannot** be changed after the initial sync. When the sync is done, you can only go back and add more (if you chose less than 50).
 
-1. Make sure you have the correct selections (reminder: you cannot remove attributes post-sync, so click **Edit Selections** if you need to change any in this step). Click **Confirm** when done to initiate the sync.
+1. Review your selections (reminder: you cannot remove attributes post-sync, so click **Edit Selections** if you need to change any in this step). Click **Confirm** when done to initiate the sync.
 
    ![](assets/connect-dynamic-chat-to-marketo-5.png)
 
