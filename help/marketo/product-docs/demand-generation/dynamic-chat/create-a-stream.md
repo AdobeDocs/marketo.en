@@ -104,7 +104,7 @@ There are _many_ stream combinations you can create. This article contains an ex
 
    ![](assets/create-a-stream-17.png)
 
-1. To preview the Dialogue, click the preview icon on the right.
+1. Select the **Preview** toggle to preview your Dialogue.
 
    ![](assets/create-a-stream-18.png)
 
