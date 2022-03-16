@@ -47,7 +47,7 @@ This is the last step of the sync. We're almost there!
    >
    >Please make sure your org URL is correct as we are unable to revert the subsequent schema changes after submission. If an incorrect Org URL is used, you’ll have to obtain a new Marketo subscription. If you don't know the URL, [learn how to find it here](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-1. Enter the **Username**, **Password**, **Client ID**, **Client Secret**, and Microsoft Dynamics **URL**. Click **Save** when done.
+1. Enter the Dynamics Sync User information and click **Save** when done.
 
    ![](assets/step-3-of-3-connect-s2s-5.png)
 

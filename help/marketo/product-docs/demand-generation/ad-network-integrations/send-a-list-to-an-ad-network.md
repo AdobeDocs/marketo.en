@@ -31,7 +31,7 @@ Learn how to send a Static List to LinkedIn, Facebook, or Google.
 
    >[!NOTE]
    >
-   >If you select "Enable continuous audience sync," Marketo keeps the list up-to-date in the chosen Ad Network as the list membership changes in your Marketo instance.
+   >If you select "Enable continuous audience sync," Marketo keeps the list up-to-date in the chosen Ad Network as the list changes in your Marketo instance. We both add **and** remove people from the audience if they’re added to/removed from the static list.
 
 1. And that's it! Click **OK** to exit.
 
