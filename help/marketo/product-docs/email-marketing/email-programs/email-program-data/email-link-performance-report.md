@@ -67,7 +67,7 @@ Create an Email Link Performance report to see how well the links in your emails
 
 >[!NOTE]
 >
->This report will show "malformed link" when invalid/empty links are added to emails. If you see this message, [check the HTML source](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md) in the email editor for empty links or tokens that do not populate a full link.
+>This report will show "malformed link" when invalid/empty links are added to an email. If you see this message, [check the HTML source](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md) in the email editor for empty links or tokens that do not populate a full link.
 
 >[!TIP]
 >
