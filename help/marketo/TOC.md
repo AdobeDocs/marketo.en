@@ -1315,6 +1315,9 @@ feature-set: Marketo Engage
           + [Import Contacts via CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
           + [Manage Groups](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
           + [People Page Columns](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
+      + Phone {#phone}
+        + [Enable Call Recording](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
+        + [Two-Party Consent Settings](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
       + Salesforce Configuration {#salesforce-configuration}
         + [Sales Insight Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
         + [Uninstall Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)

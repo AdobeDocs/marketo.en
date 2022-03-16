@@ -25,6 +25,18 @@ After you've completed the [initial setup](/help/marketo/product-docs/demand-gen
 
    ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
+1. Select up to 50 standard or custom fields to sync to Dynamic Chat. Click **Next** when done.
+
+   ![](assets/connect-dynamic-chat-to-marketo-4.png)
+
+   >[!CAUTION]
+   >
+   >At this time, attribute selections **cannot** be changed after the initial sync. When the sync is done, you can only go back and add more (if you chose less than 50).
+
+1. Make sure you have the correct selections (reminder: you cannot remove attributes post-sync, so click **Edit Selections** if you need to change any in this step). Click **Confirm** when done to initiate the sync.
+
+   ![](assets/connect-dynamic-chat-to-marketo-5.png)
+
 >[!NOTE]
 >
 >It can take anywhere from 2 to 24 hours for the sync to complete, depending on the size of your database.
@@ -37,19 +49,19 @@ Next, it's time to link Adobe and Marketo.
 
 1. Copy the Org ID from the bottom-right corner of the homepage, _minus_ the "@AdobeOrg."
 
-   ![](assets/connect-dynamic-chat-to-marketo-4.png)
+   ![](assets/connect-dynamic-chat-to-marketo-6.png)
 
 1. In Marketo, go to the **Admin** section and select **Adobe Organization Mapping**.
 
-   ![](assets/connect-dynamic-chat-to-marketo-5.png)
+   ![](assets/connect-dynamic-chat-to-marketo-7.png)
 
 1. Click **Edit**.
 
-   ![](assets/connect-dynamic-chat-to-marketo-6.png)
+   ![](assets/connect-dynamic-chat-to-marketo-8.png)
 
 1. Paste the Org ID you copied in Step 2 and click **OK**.
 
-   ![](assets/connect-dynamic-chat-to-marketo-7.png)
+   ![](assets/connect-dynamic-chat-to-marketo-9.png)
 
 >[!MORELIKETHIS]
 >

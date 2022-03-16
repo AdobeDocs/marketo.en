@@ -17,7 +17,7 @@ Dialogues are individual chat conversations. Learn how to customize them visuall
 
    ![](assets/dialogues-2.png)
 
-1. Enter a name (description is optional), set the priority level, and click **Save**.
+1. Choose a blank Dialogue, or one of the pre-populated templates. Enter a name (description is optional), change the priority level (optional), and click **Create**.
 
    ![](assets/dialogues-3.png)
 

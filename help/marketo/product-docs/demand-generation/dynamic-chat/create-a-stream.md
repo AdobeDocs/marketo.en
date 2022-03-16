@@ -5,7 +5,9 @@ exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
 ---
 # Create a Stream {#create-a-stream}
 
-There are _many_ stream combinations you can create. Below is one example where the marketer asks the site visitor if they have any product questions. If yes, the visitor can schedule an appointment. If no, the visitor is given the option to join a mailing list for future correspondence. The goal is either scheduling an appointment or collecting the visitor's email.
+There are _many_ stream combinations you can create. This article contains an example where the marketer asks the site visitor if they have any product questions. If yes, the visitor can schedule an appointment. If no, the visitor is given the option to join a mailing list for future correspondence. The goal is either scheduling an appointment or collecting the visitor's email.
+
+   ![](assets/create-a-stream-0.png)
 
 1. After you [create your dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), click the **Stream Designer** tab.
 
@@ -102,9 +104,13 @@ There are _many_ stream combinations you can create. Below is one example where 
 
    ![](assets/create-a-stream-17.png)
 
-1. When you want to acivate your Dialogue, click **Publish**.
+1. To preview the Dialogue, click the preview icon on the right.
 
    ![](assets/create-a-stream-18.png)
+
+1. When you're ready to activate your Dialogue, click **Publish**.
+
+   ![](assets/create-a-stream-19.png)
 
 >[!NOTE]
 >
