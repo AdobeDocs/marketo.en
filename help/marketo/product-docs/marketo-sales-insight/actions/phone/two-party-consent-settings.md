@@ -15,32 +15,32 @@ In order to ensure compliance with U.S. two-party consent laws when recording ca
 
 1. Click the Settings icon and select **Settings**.
 
-PICC
+   ![](assets/two-party-consent-settings-1.png)
 
 1. Under Admin Settings, click **General**.
 
-PICC
+   ![](assets/two-party-consent-settings-2.png)
 
-1. Scroll down to Sales Connect Phone Settings and click **Manage recording notice**.
+1. In the Call Recording card, click **Manage recording notice**.
 
-PICC
+   ![](assets/two-party-consent-settings-3.png)
 
 1. Click **Import Recording**.
 
-PICC
+   ![](assets/two-party-consent-settings-4.png)
 
    >[!NOTE]
    >
    >Only Wav and MP3 files are supported. You cannot upload a file longer than 30 seconds.
 
-1. Select the desired audio file from your hard drive.
+1. Select the desired audio file(s) from your hard drive.
 
-PICC
+   ![](assets/two-party-consent-settings-5.png)
 
 1. Once the upload is complete, select the dota (three dots) in the file manager and click **Select as Consent Notice**. Click **OK** when done.
 
-PICC
+   ![](assets/two-party-consent-settings-6.png)
 
 1. Click the toggle to enable the selected message be played at the beginning of your recorded calls.
 
-PICC
+   ![](assets/two-party-consent-settings-7.png)

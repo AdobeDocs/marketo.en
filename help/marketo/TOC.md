@@ -1317,6 +1317,7 @@ feature-set: Marketo Engage
           + [People Page Columns](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
       + Phone {#phone}
         + [Enable Call Recording](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
+        + [Local Presence](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
         + [Two-Party Consent Settings](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
       + Salesforce Configuration {#salesforce-configuration}
         + [Sales Insight Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)

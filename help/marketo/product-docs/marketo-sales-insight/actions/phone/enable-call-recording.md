@@ -27,4 +27,4 @@ As an admin you can enable call recording for your Sales Insight Actions calls. 
 
 >[!MORELIKETHIS]
 >
->[Two Party Consent Settings](/help/marketo/product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
+>[Two-Party Consent Settings](/help/marketo/product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
