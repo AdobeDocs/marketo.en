@@ -65,6 +65,10 @@ Create an Email Link Performance report to see how well the links in your emails
  </tbody> 
 </table>
 
+>[!NOTE]
+>
+>This report will show "malformed link" when invalid/empty links are added to emails. If you see this message, [check the HTML source](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md) in the email editor for empty links or tokens that do not populate a full link.
+
 >[!TIP]
 >
 >If you want to know exactly what an individual person did, you can open up the [Activity Log](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) in the [Person Detail](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) page from the Members tab in the program.
