@@ -1306,6 +1306,9 @@ feature-set: Marketo Engage
       + Marketo {#marketo}
         + [Grant Marketo Access to Users](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
         + [Make a Campaign Visible to Sales Connect Users](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+        + [Sales Activity Triggers and Filters](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
+        + [Sales Insight Actions Activity Glossary](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
+        + [Set up Your Marketo Connection](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
       + People {#people}
         + [Person Detail View](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
         + [Sales Insight Actions and GDPR Compliance](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
@@ -1317,6 +1320,7 @@ feature-set: Marketo Engage
           + [People Page Columns](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
       + Phone {#phone}
         + [Enable Call Recording](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
+        + [International Calling](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
         + [Local Presence](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
         + [Two-Party Consent Settings](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
       + Salesforce Configuration {#salesforce-configuration}
