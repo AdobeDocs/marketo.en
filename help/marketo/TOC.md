@@ -1300,7 +1300,7 @@ feature-set: Marketo Engage
         + [Can I Recover a Contact or Group I Deleted?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
         + [Can I Track Multiple Recipients with CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
         + [Content and File Attachment FAQ](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
-        + [Does Sales Insight Actions Have an iPhone or Android App?](product-docs/marketo-sales-insight/actions/faq/does-sales-connect-have-an-iphone-or-android-app.md)
+        + [Does Sales Insight Actions Have an iPhone or Android App?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
         + [How Can I Allowlist Sales Insight Actions on My Server?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
         + [How Do I Fix "We Were Unable to Authenticate Your Request" When Connecting to Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
         + [How Do I Prevent Self Views?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
