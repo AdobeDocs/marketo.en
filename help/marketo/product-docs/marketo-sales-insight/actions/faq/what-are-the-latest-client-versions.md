@@ -3,6 +3,7 @@ description: What are the Latest Client Versions? - Marketo Docs - Product Docum
 title: What are the Latest Client Versions?
 hide: yes
 hidefromtoc: yes
+exl-id: 44610377-e3c3-435e-beb0-85e39c83f6fc
 ---
 # What are the Latest Client Versions? {#what-are-the-latest-client-versions}
 

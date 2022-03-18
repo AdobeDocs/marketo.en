@@ -3,6 +3,7 @@ description: Why Can't I Delete a Contact? - Marketo Docs - Product Documentatio
 title: Why Can't I Delete a Contact?
 hide: yes
 hidefromtoc: yes
+exl-id: 35e9d5c3-f7f8-4047-b63a-7548841d8267
 ---
 # Why Can't I Delete a Contact? {#why-cant-i-delete-a-contact}
 

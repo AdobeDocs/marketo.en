@@ -3,6 +3,7 @@ description: What Are the Sales Insight Actions Terms of Service? - Marketo Docs
 title: What Are the Sales Insight Actions Terms of Service?
 hide: yes
 hidefromtoc: yes
+exl-id: 5a5409a0-2a26-4d5b-b1c9-89841255059d
 ---
 # What Are the Sales Insight Actions Terms of Service? {#what-are-the-sales-insight-actions-terms-of-service}
 

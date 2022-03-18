@@ -3,6 +3,7 @@ description: Why Didn't All of My Contacts Get Pushed to Sales Insight Actions? 
 title: Why Didn't All of My Contacts Get Pushed to Sales Insight Actions?
 hide: yes
 hidefromtoc: yes
+exl-id: 5f0a4a66-7650-43c6-a8ea-4f991f4048fd
 ---
 # Why Didn't All of My Contacts Get Pushed to Sales Insight Actions? {#why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions}
 
