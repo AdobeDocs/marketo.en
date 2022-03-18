@@ -43,4 +43,4 @@ You'll need to invite users to [Sales Insight Actions](/help/marketo/product-doc
 
    ![](assets/grant-marketo-access-to-users-6.png)
 
-You can additional users from the Team Management page and follow the steps above to get them connected.
+You can add additional users from the Team Management page and follow the steps above to get them connected.
