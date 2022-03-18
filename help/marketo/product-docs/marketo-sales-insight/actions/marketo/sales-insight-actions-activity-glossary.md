@@ -3,6 +3,7 @@ description: Sales Insight Actions Activity Glossary - Marketo Docs - Product Do
 title: Sales Insight Actions Activity Glossary
 hide: yes
 hidefromtoc: yes
+exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 ---
 # Sales Insight Actions Activity Glossary {#sales-insight-actions-activity-glossary}
 

@@ -3,6 +3,7 @@ description: Sales Activity Triggers and Filters - Marketo Docs - Product Docume
 title: Sales Activity Triggers and Filters
 hide: yes
 hidefromtoc: yes
+exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 ---
 # Sales Activity Triggers and Filters {#sales-activity-triggers-and-filters}
 
