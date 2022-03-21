@@ -1,8 +1,6 @@
 ---
 description: Auto Login from Salesforce - Marketo Docs - Product Documentation
 title: Auto Login from Salesforce
-hide: yes
-hidefromtoc: yes
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 ---
 # Auto Login from Salesforce {#auto-login-from-salesforce}

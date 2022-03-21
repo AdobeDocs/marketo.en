@@ -1,8 +1,6 @@
 ---
 description: Actions Data Sync FAQ - Marketo Docs - Product Documentation
 title: Actions Data Sync FAQ
-hide: yes
-hidefromtoc: yes
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
 ---
 # Actions Data Sync FAQ {#actions-data-sync-faq}

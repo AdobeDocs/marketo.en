@@ -1,8 +1,6 @@
 ---
 description: Sales Insight Actions Feature Overview - Marketo Docs - Product Documentation
 title: Sales Insight Actions Feature Overview
-hide: yes
-hidefromtoc: yes
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 ---
 # Sales Insight Actions Feature Overview {#msi-actions-feature-overview}
