@@ -108,3 +108,21 @@ If you don't see My Email to Salesforce under your Settings, your Admin may not 
 1. Choose the desired option ("Do not sync to Salesforce tasks" is selected by default).
 
    ![](assets/salesforce-sync-settings-14.png)
+
+## Syncing Sales Insight Actions Tasks with Salesforce for the First Time {#syncing-sales-insight-ations-tasks-with-salesforce-for-the-first-time}
+
+When you first turn on the sync between Sales Insight Actions and Salesforce tasks, we import your Salesforce tasks. We will not push over any current tasks you have in Sales Insight Actions to Salesforce. To reduce clutter and duplicates, the only tasks that get synced from Sales Insight Actions into Salesforce are tasks created after you sync Sales Insight Actions with SFDC.
+
+Here’s what happens when you sync Sales Insight Actions and SFDC tasks:
+
+As soon as you click save on tasks syncing, they begin to sync over. This will take some time initially.
+
+Any reminders that have been updated or created in the last 24 hours will be pulled in from SFDC to Sales Insight Actions. The sync is based on due date and all of those tasks will get synced over on the back-end, but in Command Center, you will only see tasks due today and tomorrow.
+
+If sync has been turned on previously and you delete any tasks in SFDC, anything that’s been deleted in the last 15 days will be deleted from Command Center.
+
+We’ll constantly sync tasks between Sales Insight Actions and SFDC as long as the sync is enabled.
+
+After the initial sync, any tasks you create, edit, complete, or delete in Sales Insight Actions will sync over to your tasks list in Salesforce. And anything created, edited, completed, or deleted in Salesforce will update your tasks list in Sales Insight Actions.
+
+To turn on this sync, just check the sync box in your Settings page in the web application.

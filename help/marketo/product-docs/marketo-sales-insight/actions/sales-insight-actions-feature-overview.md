@@ -7,6 +7,10 @@ exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 
 Accelerate prospecting efforts with marketing-powered intelligence and engagement tools together in a single workflow using Sales Insight Actions.
 
+>[!AVAILABILITY]
+>
+>This feature is currently on limited GA. Please reach out to your Customer Success Manager or email `sales-insights(at)adobe(dot)com` to request access.
+
    ![](assets/sales-insight-actions-feature-overview-1.png)
 
 ## Lead Layout and Contact Layout {#lead-layout-and-contact-layout}

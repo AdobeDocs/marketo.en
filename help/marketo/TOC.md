@@ -1311,9 +1311,12 @@ feature-set: Marketo Engage
         + [What are the Latest Client Versions?](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
         + [What Are the Sales Insight Actions Terms of Service?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
         + [Why Aren’t Any of My Contacts Getting Pushed to Sales Insight Actions?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+        + [Why Aren't My Dynamic Fields Filling Out?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
         + [Why Can't I Delete a Contact?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
         + [Why Didn't All of My Contacts Get Pushed to Sales Insight Actions?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
         + [Why Is Tracking Activity Not Showing in Salesforce Activity?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
+      + Integrations {#integrations}
+        + [Log Emails to an External Source](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
       + Marketo {#marketo}
         + [Grant Marketo Access to Users](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
         + [Make a Campaign Visible to Sales Connect Users](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
@@ -1344,6 +1347,7 @@ feature-set: Marketo Engage
         + [Reminder Task Sync with Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)  
       + Templates {#templates}
         + [Add Hyperlinked Text](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
+        + [Dynamic Fields](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
         + [Manage Templates](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
         + [Manage Template Categories](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
         + [Recommended Templates](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)

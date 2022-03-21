@@ -1,0 +1,29 @@
+---
+description: Log Emails to an External Source - Marketo Docs - Product Documentation
+title: Log Emails to an External Source
+hide: yes
+hidefromtoc: yes
+---
+# Log Emails to an External Source {#log-emails-to-an-external-source}
+
+If your CRM provides you with a BCC address, you can use the "other" CRM section to set up email logging. Once the configuration is set up, emails that you send will automatically be logged to your CRM.
+
+## CRMs We Integrate With {#crms-we-integrate-with}
+
+**Almost every CRM**:
+
+* Our auto-BCC feature works with nearly all CRMs record emails you've sent with Sales Insight Actions to your leads. Just make sure your CRM of choice provides you with a BCC address to take advantage of this.
+
+**Salesforce**:
+
+* We do all the above and more!
+
+## How to Connect to Other CRMs {#how-to-connect-to-other-crms}
+
+1. Click **Settings**.
+1. Click **CRM**.
+1. Click **Connect** under Other CRMs.
+1. Click **Configure**, then paste your BCC address below Email to BCC.
+1. Click **Save** and your BCC address will be saved to Sales Insight Actions.
+
+Emails will now be logged to your CRM via BCC.
