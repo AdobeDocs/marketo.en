@@ -54,4 +54,4 @@ This tool is used to `auto-personalize your email` and save you tons of time by 
 
 >[!TIP]
 >
->If your dynamic fields aren't populating, check out [this article](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out).
+>If your dynamic fields aren't populating, check out [this article](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md).
