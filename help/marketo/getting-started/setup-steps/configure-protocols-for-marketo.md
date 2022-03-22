@@ -6,6 +6,10 @@ exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 ---
 # Configure Protocols for Marketo {#configure-protocols-for-marketo}
 
+If you or your organization use restrictive firewall or proxy server settings, you or your network administrator may need to allowlist certain domains and IP address ranges to ensure Adobe Marketo Engage works as expected.
+
+## Branded Campaign Landing Pages and Emails {#branded-campaign-landing-pages-and-emails}
+
 Your marketing group is using Marketo to create branded campaign landing pages and emails. To ensure that those landing pages and emails work, they need a little help from IT. Please set up the following protocols, with the information that your marketing group should have sent you in email.
 
 This article should be shared with the IT department of the company wishing to implement these protocols.
@@ -93,3 +97,36 @@ Your marketing team should have also sent you DKIM information to be added to yo
 ## Step 4: Set up MX Records for Your Domain {#step-set-up-mx-records-for-your-domain}
 
 An MX record allows you to receive mail to the domain that you're sending email from to process replies and auto-responders. If you’re sending from your corporate domain, you likely already have this configured. If not, you can usually set it up to map to your corporate domain’s MX record.
+
+## Outbound IP Addresses {#outbound-ip-addresses}
+
+An outbound connection is one made by Marketo Engage to a server on the internet on your behalf. Some partners/vendors you work with, or your own IT organization, may use allowlists to restrict access to servers. If so, you must provide them with Marketo Engage outbound IP address blocks to add to their allowlists.
+
+**Webhooks**
+
+Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} are an outbound integration mechanism. When a [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} flow action is executed as part of a smart campaign, an HTTP request is made to an external web service. If the web service publisher uses an allowlist on the firewall of the network where the external web service is located, then the publisher must add the IP address blocks listed below to their allowlist.
+
+**CRM Sync**
+
+Marketo Engage [Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} and [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} are integration mechanisms that make outbound HTTP requests to APIs published by your CRM vendor. You must ensure that your IT organization does not block any of the IP address blocks below from accessing your CRM vendor APIs.
+
+**Marketo Engage Outbound IP Address Blocks**
+
+The following table covers all Marketo Engage servers that make outbound calls. Use this list if you are configuring any IP allowlist, server, firewall, access control list, security group, or third-party service to receive outgoing connections from Marketo Engage.
+
+<table>
+ <tbody>
+  <tr>
+   <th>IP Block (CIDR Notation)</th>
+  </tr>
+  <tr>
+   <td>192.28.144.0/20</td>
+  </tr>
+   <tr>
+   <td>192.28.160.0/19</td>
+  </tr>
+   <tr>
+   <td>199.15.212.0/22</td>
+  </tr>
+ </tbody>
+</table>
