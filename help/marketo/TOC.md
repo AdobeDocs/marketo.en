@@ -1263,6 +1263,7 @@ feature-set: Marketo Engage
       + Campaigns {#campaigns}
         + [Add to Marketing Campaign](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
         + [Campaign Has Ended](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
+        + [View Campaigns List as Another User](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
       + CRM {#crm}
         + Salesforce Customization {#salesforce-customization}
           + [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
@@ -1319,6 +1320,7 @@ feature-set: Marketo Engage
         + [Log Emails to an External Source](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
       + Marketo {#marketo}
         + [Grant Marketo Access to Users](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+        + [Interesting Moments in Sales Insight Actions](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
         + [Make a Campaign Visible to Sales Connect Users](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
         + [Sales Activity Triggers and Filters](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
         + [Sales Insight Actions Activity Glossary](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
