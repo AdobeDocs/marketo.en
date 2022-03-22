@@ -3,6 +3,7 @@ description: Log Emails to an External Source - Marketo Docs - Product Documenta
 title: Log Emails to an External Source
 hide: yes
 hidefromtoc: yes
+exl-id: 1092fe8f-f16a-48d1-810e-04d62e3fbed2
 ---
 # Log Emails to an External Source {#log-emails-to-an-external-source}
 
