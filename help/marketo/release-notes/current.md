@@ -17,9 +17,9 @@ The following features will start to be released on **March 11, 2022**, with a p
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
-* **Dynamic Chat**: Maximize every opportunity on your website by targeting both leads and accounts with proactive, engaging, and 1:1 personalized conversations. Dynamic Chat allows Marketo Engage users to start leveraging chat as a key part of integrated cross-channel experiences for B2B marketing and sales use cases. Features include: the ability to book meetings directly within the chat, lead routing, starter templates, drag-and-drop conversation creation, and much more. Dynamic Chat is included in all Marketo Engage packages and will be rolled out to all Marketo Engage users this year.
+* **Dynamic Chat**: Maximize every opportunity on your website by targeting both leads and accounts with proactive, engaging, and 1:1 personalized conversations. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} allows Marketo Engage users to start leveraging chat as a key part of integrated cross-channel experiences for B2B marketing and sales use cases. Features include: the ability to book meetings directly within the chat, lead routing, starter templates, drag-and-drop conversation creation, and much more. Dynamic Chat is included in all Marketo Engage packages and will be rolled out to all Marketo Engage users this year.
 
-* **Email Bot Activity Filtering Enhancement**: As an enhancement to the previously released Email Bot Activity Filtering feature, you can now opt-in to logging activities that are identified as bots. You can then filter and trigger actions based on activities that are identified as being performed by bots.
+* **Email Bot Activity Filtering Enhancement**: As an enhancement to the previously released [Email Bot Activity Filtering](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} feature, you can now opt-in to logging activities that are identified as bots. You can then filter and trigger actions based on activities that are identified as being performed by bots.
 
 ## Next-Generation Experience {#next-generation-experience}
 
@@ -48,6 +48,7 @@ The following features will start to be released on **March 11, 2022**, with a p
 * **Bulk Custom Object Export updatedAt Filter**: Allows marketers to programmatically sync custom objects
 * **Expose Head Start Setting for Email Programs**: Allows marketers to configure email programs with head start via API
 * **Selective Program Tag Update**: Allows marketers to push selective tag updates without pushing all tags at the same time
+* **Bulk Activity Extract actionResult field**: Allows marketers to identify which activities were skipped or failed
 
 **_Releasing Throughout the Quarter_**
 
