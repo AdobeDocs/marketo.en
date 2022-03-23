@@ -3,6 +3,7 @@ description: View Campaigns List as Another User - Marketo Docs - Product Docume
 title: View Campaigns List as Another User
 hide: yes
 hidefromtoc: yes
+exl-id: 6a196618-fe34-4770-b405-289f886eb389
 ---
 # View Campaigns List as Another User {#view-campaigns-list-as-another-user}
 
