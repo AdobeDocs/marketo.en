@@ -144,7 +144,7 @@ The stream designer contains multiple cards you can add to shape the chat conver
 >
 >Before clicking Publish, remember to make sure you've [entered your target URL(s)](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
 
->[MORELIKETHIS]
+>[!MORELIKETHIS]
 >
 >* [Create a Dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
 >* [Audience Criteria](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}

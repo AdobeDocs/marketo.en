@@ -22,7 +22,7 @@ Here's how to create a new dialogue.
 >
 >Priority determines which Dialogue will be shown to a visitor when they qualify for multiple Dialogues simultaneously.
 
->[MORELIKETHIS]
+>[!MORELIKETHIS]
 >
 >* [Audience Criteria](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 >* [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}

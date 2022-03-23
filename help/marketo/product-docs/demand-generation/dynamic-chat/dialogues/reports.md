@@ -34,7 +34,7 @@ In the Reports tab, view data from the past 90 days. Each category is defined be
  </tr>
 </table>
 
->[MORELIKETHIS]
+>[!MORELIKETHIS]
 >
 >* [Create a Dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
 >* [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
