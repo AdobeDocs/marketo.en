@@ -37,7 +37,7 @@ The stream designer contains multiple cards you can add to shape the chat conver
 
 ## Create a Stream {#create-a-stream}
 
-1. After you've [created your dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md), click the **Stream Designer** tab.
+1. After you've [created your dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}, click the **Stream Designer** tab.
 
    ![](assets/create-a-stream-1.png)
 
@@ -142,7 +142,7 @@ The stream designer contains multiple cards you can add to shape the chat conver
 
 >[!NOTE]
 >
->Before clicking Publish, remember to make sure you've [entered your target URL(s)](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+>Before clicking Publish, remember to make sure you've [entered your target URL(s)](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
