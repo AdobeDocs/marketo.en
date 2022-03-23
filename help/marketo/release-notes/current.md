@@ -25,7 +25,6 @@ The following features will start to be released on **March 11, 2022**, with a p
 
 * **Updated Screens in the Next-Generation Experience**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
 
-  * Email List View in Design Studio (including new bulk actions)
   * Form List View in Design Studio (including new bulk actions)
 
 * **Import Program Workflow Update**: The import program workflow is being delivered in the next-generation experience with an updated design and usability enhancements. This will be an automatic change without a toggle switch.
