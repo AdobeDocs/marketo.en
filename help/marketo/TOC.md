@@ -589,7 +589,7 @@ feature-set: Marketo Engage
         + [Dialogue Overview](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
         + [Create a Dialogue](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
         + [Audience Criteria](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
-        + [Create a Stream](product-docs/demand-generation/dynamic-chat/dialogues/create-a-stream.md)
+        + [Stream Designer](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
         + [Reports](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
     + Events {#events}
       + Understanding Events {#understanding-events}
