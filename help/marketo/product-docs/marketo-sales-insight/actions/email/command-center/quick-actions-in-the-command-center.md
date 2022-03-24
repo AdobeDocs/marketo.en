@@ -1,8 +1,6 @@
 ---
 description: Quick Actions in the Command Center - Marketo Docs - Product Documentation
 title: Quick Actions in the Command Center
-hide: yes
-hidefromtoc: yes
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 ---
 # Quick Actions in the Command Center {#quick-actions-in-the-command-center}

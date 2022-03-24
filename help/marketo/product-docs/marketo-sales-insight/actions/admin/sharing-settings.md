@@ -1,8 +1,6 @@
 ---
 description: Sharing Settings - Marketo Docs - Product Documentation
 title: Sharing Settings
-hide: yes
-hidefromtoc: yes
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
 ---
 # Sharing Settings {#sharing-settings}

@@ -1,8 +1,6 @@
 ---
 description: Verify Your Email - Marketo Docs - Product Documentation
 title: Verify Your Email
-hide: yes
-hidefromtoc: yes
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 ---
 # Verify Your Email {#verify-your-email}

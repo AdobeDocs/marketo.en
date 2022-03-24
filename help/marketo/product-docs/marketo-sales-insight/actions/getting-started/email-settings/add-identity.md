@@ -1,8 +1,6 @@
 ---
 description: Add Identity - Marketo Docs - Product Documentation
 title: Add Identity
-hide: yes
-hidefromtoc: yes
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 ---
 # Add Identity {#add-identity}
