@@ -2,6 +2,7 @@
 solution: Marketo Sky
 user-guide-title: Marketo Sky Documentation
 feature-set: Marketo Sky
+hide: yes
 ---
 
 # Marketo Sky Docs {#sky}
