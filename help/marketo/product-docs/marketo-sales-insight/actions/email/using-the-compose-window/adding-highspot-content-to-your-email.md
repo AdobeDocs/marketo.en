@@ -1,8 +1,6 @@
 ---
 description: Adding Highspot Content to Your Email - Marketo Docs - Product Documentation
 title: Adding Highspot Content to Your Email
-hide: yes
-hidefromtoc: yes
 exl-id: d80ce572-3ebf-4daa-b6f1-f4e9bd795ff2
 ---
 # Adding Highspot Content to Your Email {#adding-highspot-content-to-your-email}

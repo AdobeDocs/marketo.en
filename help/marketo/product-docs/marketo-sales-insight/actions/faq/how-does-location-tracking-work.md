@@ -1,8 +1,6 @@
 ---
 description: How Does Location Tracking Work - Marketo Docs - Product Documentation
 title: How Does Location Tracking Work
-hide: yes
-hidefromtoc: yes
 exl-id: b4e0d121-0f3f-4477-b05a-466c8d2ac467
 ---
 # How Does Location Tracking Work? {#how-does-location-tracking-work}

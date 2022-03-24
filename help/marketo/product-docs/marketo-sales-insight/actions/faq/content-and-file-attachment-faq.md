@@ -1,8 +1,6 @@
 ---
 description: Content and File Attachment FAQ - Marketo Docs - Product Documentation
 title: Content and File Attachment FAQ
-hide: yes
-hidefromtoc: yes
 exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
 ---
 # Content and File Attachment FAQ {#content-and-file-attachment-faq}

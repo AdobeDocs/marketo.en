@@ -1,8 +1,6 @@
 ---
 description: Delivery Channel Overview - Marketo Docs - Product Documentation
 title: Delivery Channel Overview
-hide: yes
-hidefromtoc: yes
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 ---
 # Delivery Channel Overview {#delivery-channel-overview}

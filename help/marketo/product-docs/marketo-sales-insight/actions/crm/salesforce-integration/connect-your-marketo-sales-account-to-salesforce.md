@@ -1,13 +1,13 @@
 ---
-description: Connect Your Marketo Sales Account to Salesforce - Marketo Docs - Product Documentation
-title: Connect Your Marketo Sales Account to Salesforce
+description: Connect Your Sales Insight Actions Account to Salesforce - Marketo Docs - Product Documentation
+title: Connect Your Sales Insight Actions Account to Salesforce
 hide: yes
 hidefromtoc: yes
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 ---
-# Connect Your Marketo Sales Account to Salesforce {#connect-your-marketo-sales-account-to-salesforce}
+# Connect Your Sales Insight Actions Account to Salesforce {#connect-your-sales-insight-actions-account-to-salesforce}
 
-Follow these simple steps to connect Marketo Sales Connect to Salesforce.
+Follow these simple steps to connect Sales Insight Actions account to Salesforce.
 
 ## How to Connect as an Admin {#how-to-connect-as-an-admin}
 

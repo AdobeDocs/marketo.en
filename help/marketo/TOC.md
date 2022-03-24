@@ -1273,7 +1273,7 @@ feature-set: Marketo Engage
           + [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
         + Salesforce Integration {#salesforce-integration}
           + [Configure Salesforce Activity Detail Customization](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
-          + [Connect Your Marketo Sales Account to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
+          + [Connect Your Sales Insight Actions Account to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
           + [Disconnect Salesforce From Sales Insight Actions](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
           + [Reply Logging](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
           + [Salesforce Diagnostics](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)

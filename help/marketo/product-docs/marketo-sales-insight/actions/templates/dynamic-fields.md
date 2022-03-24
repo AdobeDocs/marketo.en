@@ -1,8 +1,6 @@
 ---
 description: Dynamic Fields - Marketo Docs - Product Documentation
 title: Dynamic Fields
-hide: yes
-hidefromtoc: yes
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 ---
 # Dynamic Fields {#dynamic-fields}

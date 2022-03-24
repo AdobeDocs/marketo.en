@@ -1,8 +1,6 @@
 ---
 description: Email Marked as Spam - Marketo Docs - Product Documentation
 title: Email Marked as Spam
-hide: yes
-hidefromtoc: yes
 ---
 # Email Marked as Spam {#email-marked-as-spam}
 

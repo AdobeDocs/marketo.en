@@ -1,8 +1,6 @@
 ---
 description: Why Aren't Any of My Contacts Getting Pushed to Sales Insight Actions? - Marketo Docs - Product Documentation
 title: Why Aren't Any of My Contacts Getting Pushed to Sales Insight Actions?
-hide: yes
-hidefromtoc: yes
 exl-id: 04087f45-eae8-4785-8f81-f3275f4e2d73
 ---
 # Why Aren't Any of My Contacts Getting Pushed to Sales Insight Actions? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions}

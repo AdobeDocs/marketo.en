@@ -1,8 +1,6 @@
 ---
 description: How Do I Fix "We Were Unable to Authenticate Your Request" When Connecting to Salesforce - Marketo Docs - Product Documentation
 title: How Do I Fix "We Were Unable to Authenticate Your Request" When Connecting to Salesforce
-hide: yes
-hidefromtoc: yes
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 ---
 # How Do I Fix "We Were Unable to Authenticate Your Request" When Connecting to Salesforce {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}

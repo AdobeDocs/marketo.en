@@ -1,8 +1,6 @@
 ---
 description: Local Presence - Marketo Docs - Product Documentation
 title: Local Presence
-hide: yes
-hidefromtoc: yes
 exl-id: 719fd3e8-1586-4aa1-940f-931dd3b99bd4
 ---
 # Local Presence {#local-presence}

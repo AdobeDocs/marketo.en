@@ -1,8 +1,6 @@
 ---
 description: Set up a Custom Delivery Channel for Your Team - Marketo Docs - Product Documentation
 title: Set up a Custom Delivery Channel for Your Team
-hide: yes
-hidefromtoc: yes
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 ---
 # Set up a Custom Delivery Channel for Your Team {#set-up-a-custom-delivery-channel-for-your-team}

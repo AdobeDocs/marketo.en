@@ -1,8 +1,6 @@
 ---
 description: Manage Templates - Marketo Docs - Product Documentation
 title: Manage Templates
-hide: yes
-hidefromtoc: yes
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 ---
 # Manage Templates {#manage-templates}

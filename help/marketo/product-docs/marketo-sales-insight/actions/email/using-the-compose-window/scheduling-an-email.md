@@ -1,8 +1,6 @@
 ---
 description: Scheduling an Email - Marketo Docs - Product Documentation
 title: Scheduling an Email
-hide: yes
-hidefromtoc: yes
 ---
 # Scheduling an Email {#scheduling-an-email}
 

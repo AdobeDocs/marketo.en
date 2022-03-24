@@ -1,8 +1,6 @@
 ---
 description: Sales Insight Actions and GDPR Compliance - Marketo Docs - Product Documentation
 title: Sales Insight Actions and GDPR Compliance
-hide: yes
-hidefromtoc: yes
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 ---
 # Sales Insight Actions and GDPR Compliance {#sales-insight-actions-and-gdpr-compliance}

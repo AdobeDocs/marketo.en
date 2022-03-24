@@ -1,8 +1,6 @@
 ---
 description: Customize Unsubscribe Link Message - Marketo Docs - Product Documentation
 title: Customize Unsubscribe Link Message
-hide: yes
-hidefromtoc: yes
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 ---
 # Customize Unsubscribe Link Message {#customize-unsubscribe-link-message}

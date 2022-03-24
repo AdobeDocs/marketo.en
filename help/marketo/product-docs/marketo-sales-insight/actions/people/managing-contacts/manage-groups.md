@@ -1,8 +1,6 @@
 ---
 description: Manage Groups - Marketo Docs - Product Documentation
 title: Manage Groups
-hide: yes
-hidefromtoc: yes
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 ---
 # Manage Groups {#manage-groups}

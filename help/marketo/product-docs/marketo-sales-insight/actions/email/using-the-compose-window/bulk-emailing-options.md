@@ -1,8 +1,6 @@
 ---
 description: Bulk Emailing Options - Marketo Docs - Product Documentation
 title: Bulk Emailing Options
-hide: yes
-hidefromtoc: yes
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 ---
 # Bulk Emailing Options {#bulk-emailing-options}

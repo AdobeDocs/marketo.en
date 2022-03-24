@@ -1,8 +1,6 @@
 ---
 description: Recommended Templates - Marketo Docs - Product Documentation
 title: Recommended Templates
-hide: yes
-hidefromtoc: yes
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 ---
 # Recommended Templates {#recommended-templates}
