@@ -1,6 +1,7 @@
 ---
 description: Create a Dialogue - Marketo Docs - Product Documentation
 title: Create a Dialogue
+exl-id: 64f8d0c6-8e5c-4892-85ec-729c609f700a
 ---
 # Create a Dialogue {#create-a-dialogue}
 
