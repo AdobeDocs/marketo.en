@@ -7,7 +7,7 @@ exl-id: 22d7ef98-2988-4188-99dd-5558a78492e3
 ---
 # Understanding Goal Tracking and Projected Registrations {#understanding-goal-tracking-and-projected-registrations}
 
-After [setting event goals](/help/marketo/product-docs/marketo-sky/setting-event-goals.md) and sending out invites through a [smart campaign](/help/sky/create-a-smart-campaign.md), here's how to track your goal progress and understand Marketo's predictions.
+After [setting event goals](/help/marketo/product-docs/marketo-sky/setting-event-goals.md) and sending out invites through a [smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md), here's how to track your goal progress and understand Marketo's predictions.
 
 >[!NOTE]
 >
