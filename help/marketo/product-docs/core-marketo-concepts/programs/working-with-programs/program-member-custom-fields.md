@@ -66,6 +66,7 @@ You can leverage this program-specific data in smart lists via [triggers](/help/
 * To view the data, click the Members tab in the program and create a custom view that includes said field(s).
 * Import and export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) and [API](https://developers.marketo.com/) are supported.
 * When you merge two people, the winner’s Program Member custom field data will be used. But if the winner has none, the loser’s value will be used.
+* Change type is **not** allowed on Program Member Info fields.
 
 >[!MORELIKETHIS]
 >
