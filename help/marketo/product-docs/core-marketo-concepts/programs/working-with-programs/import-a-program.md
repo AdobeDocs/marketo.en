@@ -12,11 +12,11 @@ A program can be imported from one Marketo subscription to another. For instance
 
 1. Go to **Marketing Activities.**
 
-   ![](assets/ma.png)
+   ![](assets/import-a-program-1.png)
 
 1. Click **New** drop down. Select **Import Program**.
 
-   ![](assets/image2014-9-17-12-3a15-3a4.png)
+   ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
@@ -26,23 +26,23 @@ A program can be imported from one Marketo subscription to another. For instance
 
 1. Select a Marketo **Subscription** and a program to import. Click **Next**.
 
-   ![](assets/image2014-9-17-12-3a20-3a13.png)
+   ![](assets/import-a-program-3.png)
 
 1. Specify a **Campaign Folder** for the imported program. Click **Next.**
 
-   ![](assets/image2014-9-17-12-3a20-3a44.png)
+   ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
    >Make sure **Use default conflict** rules is selected. Conflict rules are needed when you import programs into an instance that have assets of the same name.
 
+1. Choose your desired Conflict Details and click **Next**.
+
+   ![](assets/import-a-program-5.png)
+
 1. Preview details and **Import** the program.
 
-   ![](assets/image2014-9-17-12-3a21-3a36.png)
-
-   A dialog displays the program import progress.
-
-   ![](assets/image2014-9-17-12-3a21-3a51.png)
+   ![](assets/import-a-program-6.png)
 
 You will receive an email confirmation once the import has finished.
 
