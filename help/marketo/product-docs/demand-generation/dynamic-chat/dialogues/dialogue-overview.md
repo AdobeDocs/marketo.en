@@ -22,3 +22,5 @@ The [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/
 ## Reports {#reports}
 
 The [Reports](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"} section of a Dialogue is where you’ll be able to see metrics around how well your Dialogue is performing.
+
+   ![](assets/dialogue-overview-3.png)
