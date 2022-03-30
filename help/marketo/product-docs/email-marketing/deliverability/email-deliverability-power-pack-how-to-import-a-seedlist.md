@@ -32,7 +32,7 @@ A seed list is a list of email accounts at multiple mailbox providers, including
 
    >[!NOTE]
    >
-   >Choose **Optimize List** if you want 250ok to [optimize your list](https://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) for you. Choose **Customize List** if you want to select the seedlist regions you'd like to include.
+   >Choose **Optimize List** if you want 250ok to [optimize your list](https://help.returnpath.com/hc/en-us/articles/360046746451-What-is-250ok-s-seedlist-optimizer-and-why-should-I-use-it-) for you. Choose **Customize List** if you want to select the seedlist regions you'd like to include.
 
 1. After export, the list will appear as a .txt file in your browser’s downloads folder. Retrieve it, and [import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) it into your Marketo instance as a static list.
 

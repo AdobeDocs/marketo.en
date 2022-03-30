@@ -1267,6 +1267,10 @@ feature-set: Marketo Engage
       + Campaigns {#campaigns}
         + [Add to Marketing Campaign](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
         + [Campaign Has Ended](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
+        + [Create a Sales Campaign](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
+        + [Sales Campaign Settings](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
+        + [Sales Campaign Send Options for Email Steps](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
+        + [Sales Campaign Step Types and Reminder Tasks](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
         + [View Campaigns List as Another User](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
       + CRM {#crm}
         + Salesforce Customization {#salesforce-customization}

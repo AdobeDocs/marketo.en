@@ -83,4 +83,4 @@ Check out these links:
 
 ## I have more questions! How do I get them answered? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Please reach out on the [community](https://nation.marketo.com/welcome). You can also contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). They'll be happy to answer your questions.
+Please reach out on the [community](https://nation.marketo.com/). You can also contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). They'll be happy to answer your questions.

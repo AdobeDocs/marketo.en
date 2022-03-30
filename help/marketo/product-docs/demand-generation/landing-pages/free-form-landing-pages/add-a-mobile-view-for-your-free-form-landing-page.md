@@ -10,7 +10,7 @@ It's easy to make your free-form landing pages look great on a smartphone.
 
 >[!NOTE]
 >
->The mobile view works on screens that are 480px wide (or less). In other words, smartphones. Here's more [info on device resolutions](https://mydevice.io/devices/).
+>The mobile view works on screens that are 480px wide (or less). In other words, smartphones. Here's more [info on device resolutions](https://www.mydevice.io/).
 
 1. Go to **Marketing Activities**.
 

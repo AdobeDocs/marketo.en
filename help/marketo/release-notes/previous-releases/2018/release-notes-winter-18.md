@@ -80,7 +80,7 @@ Content recommended via Marketo's optimized ContentAI algorithms generate up to 
 
 ## Integration {#integration}
 
-**[Activate/Deactivate Campaign API](https://developers.marketo.com/rest-api/assets/campaigns/)**
+**[Activate/Deactivate Campaign API](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
 
 This new API allows you to remotely activate and deactivate trigger campaigns, so you can now create fully automated program templates. Create a program template once, then automate cloning, marketing collateral updates, and now activation/scheduling of smart campaigns.
 
