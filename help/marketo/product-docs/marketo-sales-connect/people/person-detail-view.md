@@ -97,17 +97,3 @@ Actions you can perform:
 * See the due date
 * Click on the Type to launch the Sales Phone if Call, Email Compose if Email, Linkedin if Inmail, and Custom Note if Custom.
 * Mark a task as complete
-
-## Sales Navigator Tab {#sales-navigator-tab}
-
-View LinkedIn profile data with LinkedIn's Sales Navigator.
-
->[!NOTE]
->
->Sales Navigator is a paid add-on through LinkedIn, please contact them to obtain this feature.
-
-![](assets/linkedin.jpg)
-
-Mention icebreakers to build rapport.
-
-Save contacts as leads in Sales Navigator.
