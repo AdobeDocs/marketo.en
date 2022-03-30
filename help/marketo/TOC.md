@@ -1451,6 +1451,7 @@ feature-set: Marketo Engage
       + [Send and Track from Outlook Using a Marketo Template](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
       + [Specify Marketo Sales Insight Plugin Admins](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
       + [Upgrade your Marketo Email Add-In for Outlook](product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
+    + [Sales Insight for Non-Native MS Dynamics Integrations](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
     + [Sales Insight for Non-Native Salesforce Integrations](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
   + Marketo Sky {#marketo-sky}
     + [Enabling Roles for Marketo Sky](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
