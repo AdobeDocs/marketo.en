@@ -6,54 +6,60 @@ hidefromtoc: yes
 ---
 # Create a Sales Campaign {#create-a-sales-campaign}
 
-## Create a Campaign {#create-a-campaign}
+Campaigns are a series of multi-channel steps including: emails, phone calls, InMail, and custom tasks. They allow you to streamline your communications with your potential and existing customers.
 
-text
+With Campaigns you can:
 
-## Understanding Send Options and Tasks {#understanding-send-options-and-tasks}
+* **Organize**: Streamline all your outreach activities in one place for efficient execution.
+* **Scale**: Schedule all your outreach efforts so you can scale your efforts, minimize manual work, and personalize as much as you need.
+* **Measure**: Track the success of all your emails and tasks in one place while automatically logging them into Salesforce. By knowing what is resonating and leading to results, you can consistently test and improve your results.
 
-text
+So, how do you set up a Campaign?
 
-## Campaign Step Types {#campaign-step-types}
+1. Click the **Campaigns** tab.
 
-When adding a step to your campaign, you have four options.
+   ![](assets/create-a-sales-campaign-1.png)
 
-PICC
+1. Select a category and click the **Create a Campaign** button to create a new Campaign.
 
-**Email**
+   ![](assets/create-a-sales-campaign-2.png)
 
-Compose a new email, or use a pre-existing template.
+   >[!NOTE]
+   >
+   >Create a new category by clicking the **+** next to **Categories**.
 
-PICC
+1. The category you chose will be selected. If you change your mind, click the drop-down and select a different one. When you're done, click **Continue**.
 
-| **Use a Template** |Select one of your pre-existing templates |
-|---|---|
-| **Save as Template** |Save the email you just composed as a new template |
-| **Add Content** |Upload a file to our server and receive a URL (pointing to the content) that can be tracked in your email |
-| **Attach Files** |Attach a file from your computer to the email (23MB size limit) |
+   ![](assets/create-a-sales-campaign-3.png)
 
->[!TIP]
+1. Click **Add a Step**.
+
+   ![](assets/create-a-sales-campaign-4.png)
+
+1. Choose between: Email, Call, InMail, or Custom Task. In this example we're choosing Email.
+
+   ![](assets/create-a-sales-campaign-5.png)
+
+1. When you're [done with your email](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}{target="_blank"}, click **Add**.
+
+   ![](assets/create-a-sales-campaign-6.png)
+
+1. After you create your first day and step, the "Add a Day" button activates and you can add as many days and steps as your sales process requires.
+
+   ![](assets/create-a-sales-campaign-7.png)
+
+   >[!NOTE]
+   >
+   >"Days" are not the number of days between actions, but the day within the sequence. For example, if your campaign is going to last 7 days, entering '3' means the action will go out on day 3 of 7, **not** 3 days later.
+
+1. Make sure you customize scheduling and reply options, such as skipping weekends (which is awesome) by visiting the **Settings Tab** for your Campaign.
+
+   ![](assets/create-a-sales-campaign-8.png)
+
+Now it's time to start adding people to your campaign!
+
+>[!MORELIKETHIS]
 >
->Learn the details about your [sending options](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
-
-**Call**
-
-Set a reminder to follow-up with a contact via phone. You can also save notes to be used as a talk track during the call.
-
-PICC
-
-**InMail**
-
-Following up on multiple channels is a great way to connect with leads. With InMail tasks, you can set up a reminder to reach out via LinkedIn.
-
-PICC
-
-**Custom Task**
-
-Utilize custom tasks when the above options are not applicable. For example, you can invite a colleague to follow up with a lead via email.
-
-PICC
-
-## Campaign Settings {#campaign-settings}
-
-Text
+>* Understanding Sales Campaign Send Options for Email Steps
+>* [Sales Campaign Step Types and Reminder Tasks](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>* Sales Campaign Settings
