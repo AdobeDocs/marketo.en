@@ -3,6 +3,7 @@ description: Create a Sales Campaign - Marketo Docs - Product Documentation
 title: Create a Sales Campaign
 hide: yes
 hidefromtoc: yes
+exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 ---
 # Create a Sales Campaign {#create-a-sales-campaign}
 
