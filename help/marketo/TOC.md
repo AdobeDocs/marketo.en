@@ -1400,11 +1400,13 @@ feature-set: Marketo Engage
       + Configuration {#configuration}
         + [Add Bulk Action Buttons to Salesforce Classic](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
         + [Add Marketo Tab to Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+        + [Add Sales Insight Permission Set](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
         + [Bulk Actions in Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
         + [Configure Marketo Sales Insight in Salesforce Enterprise/Unlimited](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
         + [Configure Marketo Sales Insight in Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
         + [Configuration for Existing Customers](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
         + [Marketo Sales Insight Configuration Tab in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+        + [Remove Sales Insight Access](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
         + [Sales Insight Page for Marketo Admins](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
         + [Setting up Sales Insight for your Team](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
       + Features {#features}
@@ -1824,9 +1826,10 @@ feature-set: Marketo Engage
   + [Current Release](release-notes/current.md)
   + Previous Releases {#previous-releases}
     + 2022 {#2022}
-      + [Release Notes: Jan '22](release-notes/previous-releases/2022/release-notes-jan-22.md)
+      + [Release Notes: January '22](release-notes/previous-releases/2022/release-notes-jan-22.md)
+      + [Release Notes: March '22](release-notes/previous-releases/2022/release-notes-mar-22.md)
     + 2021 {#2021}
-      + [Release Notes: Jan '21](release-notes/previous-releases/2021/release-notes-jan-21.md)
+      + [Release Notes: January '21](release-notes/previous-releases/2021/release-notes-jan-21.md)
       + [Release Notes: May '21](release-notes/previous-releases/2021/release-notes-may-21.md)
       + [Release Notes: August '21](release-notes/previous-releases/2021/release-notes-aug-21.md)
       + [Release Notes: October '21](release-notes/previous-releases/2021/release-notes-oct-21.md)
