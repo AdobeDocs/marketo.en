@@ -3,6 +3,7 @@ description: Add Sales Insight Permission Set - Marketo Docs - Product Documenta
 title: Add Sales Insight Permission Set
 hide: yes
 hidefromtoc: yes
+exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 ---
 # Add Sales Insight Permission Set {#add-sales-insight-permission-set}
 
@@ -109,4 +110,4 @@ PICC
 >
 >Users who don't have access to Sales Insight will see this message: “You do not have sufficient privileges to access this tab.”
 
-That’s it! You’ve successfully added Sales Insight access. Repeat the same steps for any other profile you’d like to add access for.  
+That’s it! You’ve successfully added Sales Insight access. Repeat the same steps for any other profile you’d like to add access for.
