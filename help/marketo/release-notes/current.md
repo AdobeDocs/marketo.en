@@ -17,7 +17,7 @@ The following features will start to be released on **May 6, 2022**, with a phas
 
 ## Native CRM Integration {#native-crm-integration}
 
-**Native Veeva CRM Integration (limited availability)**:  Improve engagement with healthcare professionals by syncing activity between Veeva VRM and Marketo Engage via native integration. This integration allows marketers to create more personalized and seamless cross-channel experiences for healthcare professionals. Please contact your Customer Success Manager if you're interested in participating.
+**Native Veeva CRM Integration (limited availability)**:  Improve engagement with healthcare professionals by syncing activity between Veeva CRM and Marketo Engage via native integration. This integration allows marketers to create more personalized and seamless cross-channel experiences for healthcare professionals. Please contact your Customer Success Manager if you're interested in participating.
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
