@@ -1,8 +1,6 @@
 ---
 description: Add Sales Insight Permission Set - Marketo Docs - Product Documentation
 title: Add Sales Insight Permission Set
-hide: yes
-hidefromtoc: yes
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 ---
 # Add Sales Insight Permission Set {#add-sales-insight-permission-set}
@@ -80,31 +78,29 @@ Use the following steps to add access to Sales Insight features in Salesforce. A
 
 1. Log in to your Salesforce account.
 
-PICC
-
 1. Click **Setup**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-1.png)
 
 1. Under Administrator, click to unfurl **Manage Users**, then **Users**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-2.png)
 
 1. Under All Users, select the user you want to provide access to, then click **Permission Set Assignments**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-3.png)
 
 1. Click **Edit Assignments**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-4.png)
 
 1. Select **Marketo App Access** from the available permission sets, then **Add**. Click **Save**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-5.png)
 
 1. Now when you scroll down the User Detail page you will see “Marketo App Access” under Permission Set Assignments.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-6.png)
 
 >[!NOTE]
 >
