@@ -1,25 +1,19 @@
 ---
 description: Flow Step Service - Marketo Docs - Product Documentation
 title: Flow Step Service
-hide: yes
-hidefromtoc: yes
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 ---
 # Flow Step Service {#flow-step-service}
 
 >[!NOTE]
 >
->This pre-release feature is currently available only to accounts enrolled in the Self-Service Flow Steps Beta Program.
+>Self-Service Flow Steps is currently in Open Beta. You can enable it for your subscription in the Admin > Treasure Chest Menu.
 
-Self-service Flow Steps is a framework and set of features for authoring, publishing, and integrating web services into Adobe Marketo Engage Smart Campaigns. This guide is intended for Marketo Engage end users who want to install and use services which have already been created and published. For information on authoring and publishing your own service, please refer to the [GitHub repository for the Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface). A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup).
+Self-service Flow Steps is a framework and set of features for authoring, publishing, and integrating web services into Adobe Marketo Engage Smart Campaigns. This guide is intended for Marketo Engage end users who want to install and use services which have already been created and published. For information on authoring and publishing your own service, please refer to the [GitHub repository for the Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## Pre-Release Restrictions and Warnings {#pre-release-restrictions-and-warnings}
 
-This feature is currently in closed beta, and has some restrictions on usage.
-
-* This feature may only be used on Sandbox instances of Marketo Engage
-* Custom and Third Party Flow steps are not compatible with Executable Campaigns as of the Q4 2021 release. This is planned to be fixed in Q2 2022
-* Marketo Sky UI should not be used at all on instances with this feature enabled
+This feature is currently in open beta, and should only be used on Sandbox instances of Marketo Engage until your service is fully tested.
 
 ## Onboarding and Managing Services {#onboarding-and-managing-services}
 

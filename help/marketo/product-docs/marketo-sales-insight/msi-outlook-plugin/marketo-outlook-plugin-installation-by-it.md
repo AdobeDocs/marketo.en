@@ -46,7 +46,7 @@ To specify a location of the log files, you can specify the file path in the com
 >
 >The storage location of the log file must exist or the installation will be aborted.
 
-Please refer to [Microsoft’s complete list of switches](https://support.microsoft.com/en-us/kb/227091) if you would like to try different logging levels or user interface levels.
+Please refer to [Microsoft’s complete list of switches](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) if you would like to try different logging levels or user interface levels.
 
 >[!MORELIKETHIS]
 >

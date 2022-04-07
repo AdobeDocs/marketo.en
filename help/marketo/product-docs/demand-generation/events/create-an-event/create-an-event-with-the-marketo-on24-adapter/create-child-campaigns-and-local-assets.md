@@ -43,7 +43,7 @@ Use Marketo to send out the confirmation email for your event. When a person reg
 
 >[!TIP]
 >
->You can configure ON24 to send out confirmation, reminder, or follow-up emails. See the [ON24 Help Site](https://webcastelitehelp.on24.com) for more information.
+>You can configure ON24 to send out confirmation, reminder, or follow-up emails. See the [ON24 Help Site](https://www.on24.com/live-webcast-elite/) for more information.
 
 ## Registration Child Campaign Requirements {#registration-child-campaign-requirements}
 
