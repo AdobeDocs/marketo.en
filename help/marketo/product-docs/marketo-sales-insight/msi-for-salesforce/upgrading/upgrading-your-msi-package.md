@@ -6,7 +6,7 @@ exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 ---
 # Upgrading Your MSI Package {#upgrading-your-msi-package}
 
-1. Navigate to [this page in the appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
+1. Navigate to [this page in the appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}.
 
 1. Log in to your Salesforce instance (the one connected to your Marketo instance, can be sandbox or production) from the top-right corner in the page from Step One. You must have Admin privileges to install/upgrade a managed package in Salesforce.
 
@@ -22,4 +22,4 @@ exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 
 >[!NOTE]
 >
->It is recommended you update the package for Admins only and then [provide access to specific users](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md) based on the number of MSI seats purchased. Alternatively, you can create a specific Salesforce profile for MSI users and install or upgrade the package for those users only.
+>It is recommended you update the package for Admins only and then [provide access to specific users](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"} based on the number of MSI seats purchased. Alternatively, you can create a specific Salesforce profile for MSI users and install or upgrade the package for those users only.

@@ -68,4 +68,4 @@ Choosing to do so will wipe all your configurations in SFDC and they cannot be r
 
 >[!MORELIKETHIS]
 >
->[Setting up Sales Insight for your Team](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+>[Add Sales Insight Access to Profiles](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

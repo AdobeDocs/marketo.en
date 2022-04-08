@@ -1,11 +1,15 @@
 ---
-description: Setting up Sales Insight for your Team - Marketo Docs - Product Documentation
-title: Setting up Sales Insight for your Team
+description: Add Sales Insight Access to Profiles - Marketo Docs - Product Documentation
+title: Add Sales Insight Access to Profiles
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 ---
-# Setting up Sales Insight for your Team {#setting-up-sales-insight-for-your-team}
+# Add Sales Insight Access to Profiles {#add-sales-insight-access-to-profiles}
 
-Here's how to create a profile with access to Sales Insight while removing access for your other profiles. This is for users who have already installed the [Sales Insight AppExchange package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
+Here's how to create a profile with access to Sales Insight while removing access for your other profiles. This is for users who have already installed the [Sales Insight AppExchange package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+
+>[!IMPORTANT]
+>
+>If you’ve previously given Sales Insight access to all profiles, you must [remove profile level access](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} to use this permission set.
 
 ## Create a New Profile for Sales Insight {#create-a-new-profile-for-sales-insight}
 
