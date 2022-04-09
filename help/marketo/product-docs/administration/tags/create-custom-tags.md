@@ -22,34 +22,41 @@ To create a new tag type:
 
 1. Go to the **Admin** section.
 
-   ![](assets/image2015-4-23-14-3a37-3a48.png)
+   ![](assets/create-custom-tags-1.png)
 
 1. Click **Tags**.
 
-   ![](assets/image2015-4-23-14-3a41-3a18.png)
+   ![](assets/create-custom-tags-2.png)
 
 1. Click **New** and select **New Tag Type.**
 
-   ![](assets/image2015-4-23-14-3a42-3a45.png)
+   ![](assets/create-custom-tags-3.png)
 
-1. Enter a name for the **Tag Type**.
+1. Enter a name for the Tag Type.
 
-   ![](assets/image2015-4-23-14-3a48-3a58.png)
+   ![](assets/create-custom-tags-4.png)
 
-1. Enter the desired **Value** for the Tag Type. Click **Add Another** to enter additional tag values.
+1. Enter the desired Value for the Tag Type. Click **Add Another** to enter additional values.
 
-   ![](assets/image2015-4-22-11-3a30-3a30.png)
+   ![](assets/create-custom-tags-5.png)
 
-1. Select which Programs types this tag applies to.
+1. Select which Program type(s) this tag applies to.
 
-   ![](assets/image2015-4-22-11-3a39-3a7.png)
+   ![](assets/create-custom-tags-6.png)
+
+1. Decide whether or not to make this tag required for all the program types listed.
+
+   ![](assets/create-custom-tags-7.png)
 
    >[!NOTE]
    >
-   >Select **Required for all programs** to add this tag any time a new program is created.
+   >* Select "Required" if you want this tag added any time a new program is created.
+   >* Removing a program type from the ‘Applies to’ list will delete the tag and its values from all existing programs of that type. If you want to preserve existing tag values and make this tag optional moving forward for _all_ program types listed, leave the "Required" checkbox unselected.
 
-1. Click **Create** to save.
+   >[!TIP]
+   >
+   >If you want to make a similar tag required for some program types but optional for others, you'll need to set up two separate tags, each applying to different program types with one with "Required" selected, and the other with "Required" not selected.
 
-   ![](assets/image2015-4-22-11-3a38-3a34.png)
+1. Click **Create**.
 
-   That's it! Now you can create custom tags for your programs.
+   ![](assets/create-custom-tags-8.png)

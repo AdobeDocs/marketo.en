@@ -73,6 +73,10 @@ Yes. Those who've been onboarded to Adobe IMS cannot utilize all the existing Ma
 
 You would follow the standard procedure for contacting [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
+**If I use an Adobe Identity to access other Adobe applications, can I use that to access Marketo?**
+
+Even if you have other Adobe products, you cannot access Marketo with Adobe Identity until the subscription is migrated to IMS.
+
 **Are Marketo user roles (within workspaces) managed in Adobe Admin Console?**
 
 No. User Role management (within workspaces) is completed in Marketo Engage.
