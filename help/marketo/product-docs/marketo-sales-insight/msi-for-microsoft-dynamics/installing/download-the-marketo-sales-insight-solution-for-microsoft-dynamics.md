@@ -10,7 +10,11 @@ exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
 >
 >**Admin Permissions Required**
 
-You will need to download and install a Marketo Solution for Sales Insight into your Microsoft Dynamics account to get the sync started.
+>[!IMPORTANT]
+>
+>The plugin on this page is for those syncing to Marketo Engage using Marketo's native CRM sync solution to Dynamics. For those who have a custom sync and have purchased Marketo Sales Insight, the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+
+You'll need to download and install a Marketo Solution for Sales Insight into your Microsoft Dynamics account to get the sync started.
 
 1. Go to the **Admin** area.
 
