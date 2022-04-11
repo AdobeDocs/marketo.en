@@ -1,16 +1,16 @@
 ---
 unique-page-id: 14352621
-description: Understanding Send Options - Marketo Docs - Product Documentation
-title: Understanding Send Options
+description: Understanding Sales Campaign Send Options for Email Steps - Marketo Docs - Product Documentation
+title: Understanding Sales Campaign Send Options for Email Steps
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 ---
-# Understanding Send Options {#understanding-send-options}
+# Understanding Sales Campaign Send Options for Email Steps {#understanding-sales-campaign-send-options-for-email-steps}
 
-When you are creating a Campaign, you have several options on how your email steps get created in Sales Connect. And, depending on where your email falls in your Campaign, your options also differ.  
+When you are creating a Campaign, you have several options on how your email steps get created in Sales Insight Actions. And, depending on where your email falls in your Campaign, your options also differ.
   
 If it's your first step and the first day in your Campaign, you will have the following options:
 
-![](assets/image2019-10-25-10-43-19.png)
+![](assets/understanding-sales-campaign-send-options-for-email-steps-1.png)
 
 I will choose when to send this email
 
@@ -52,3 +52,9 @@ Create a task; I will send this email myself
 Thread this email to the previous email
 
 * This send option will be a 'follow up' to your previous email and will append the previous email body to the bottom of this email.
+
+>[!MORELIKETHIS]
+>
+>[Create a Sales Campaign](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>[Sales Campaign Step Types and Reminder Tasks](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>[Sales Campaign Settings](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

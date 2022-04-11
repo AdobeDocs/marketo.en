@@ -1271,6 +1271,7 @@ feature-set: Marketo Engage
         + [Sales Campaign Settings](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
         + [Sales Campaign Send Options for Email Steps](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
         + [Sales Campaign Step Types and Reminder Tasks](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
+        + [Understanding Sales Campaign Send Options for Email Steps](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
         + [View Campaigns List as Another User](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
       + CRM {#crm}
         + Salesforce Customization {#salesforce-customization}

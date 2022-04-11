@@ -14,3 +14,11 @@ Text
 ### Email {#email}
 
 Text
+
+## Using Reminder Tasks in Campaigns {#using-reminder-tasks-in-campaigns}
+
+Text
+
+>[!MORELIKETHIS]
+>
+>[Create a Sales Campaign](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
