@@ -1,8 +1,8 @@
 ---
-unique-page-id: 14352621
 description: Understanding Sales Campaign Send Options for Email Steps - Marketo Docs - Product Documentation
 title: Understanding Sales Campaign Send Options for Email Steps
-exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
+hide: yes
+hidefromtoc: yes
 ---
 # Understanding Sales Campaign Send Options for Email Steps {#understanding-sales-campaign-send-options-for-email-steps}
 
