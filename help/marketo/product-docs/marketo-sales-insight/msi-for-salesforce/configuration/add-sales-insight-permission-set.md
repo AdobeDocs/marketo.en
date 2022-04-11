@@ -70,8 +70,8 @@ Use the following steps to add access to Sales Insight features in Salesforce. A
  </tbody> 
 </table>
 
-* Apex Class Access: 159 Apex Classes that being with “mkto_si”
-* Visualforce Page Access: 64 Visualforce Pages that being with “mkto_si”
+* Apex Class Access: 159 Apex Classes that begin with “mkto_si”
+* Visualforce Page Access: 64 Visualforce Pages that begin with “mkto_si”
 * Custom Setting Definitions: mkto_si.Marketo Settings & mkto_si.User Preferences
 
 ## Adding Marketo App Permission Set to Users {#adding-marketo-app-permission-set-to-users}

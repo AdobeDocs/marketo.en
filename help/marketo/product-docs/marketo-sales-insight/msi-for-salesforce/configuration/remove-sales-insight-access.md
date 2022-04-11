@@ -62,8 +62,8 @@ Permission to the objects mentioned below, apex classes, and visualforce pages i
  </tbody> 
 </table>
 
-* Apex Class Access: 159 Apex Classes that being with “mkto_si”
-* Visualforce Page Access: 64 Visualforce Pages that being with “mkto_si”
+* Apex Class Access: 159 Apex Classes that begin with “mkto_si”
+* Visualforce Page Access: 64 Visualforce Pages that begin with “mkto_si”
 * Custom Setting Definitions: mkto_si.Marketo Settings & mkto_si.User Preferences
 
 ## Removing Access to Sales Insight {#removing-access-to-sales-insight}
