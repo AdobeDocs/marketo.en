@@ -3,6 +3,7 @@ description: Understanding Sales Campaign Send Options for Email Steps - Marketo
 title: Understanding Sales Campaign Send Options for Email Steps
 hide: yes
 hidefromtoc: yes
+exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
 ---
 # Understanding Sales Campaign Send Options for Email Steps {#understanding-sales-campaign-send-options-for-email-steps}
 
