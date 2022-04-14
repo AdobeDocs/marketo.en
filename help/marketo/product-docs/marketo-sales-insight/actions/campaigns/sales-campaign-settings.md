@@ -1,13 +1,11 @@
 ---
 description: Sales Campaign Settings - Marketo Docs - Product Documentation
 title: Sales Campaign Settings
-hide: yes
-hidefromtoc: yes
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 ---
 # Sales Campaign Settings {#sales-campaign-settings}
 
-The sales campaign settings section allows you to configure a specific sales campaign so it can work to best fit your team's use cases for that campaign.
+The Sales Campaign settings section allows you to configure a specific Sales Campaign so it can work to best fit your team's use cases for that Sales Campaign.
 
 ## Skip Weekends {#skip-weekends}
 
@@ -21,7 +19,7 @@ Enable skip weekends so any steps that would have fallen on a weekend day (Satur
 
    ![](assets/sales-campaign-settings-1.png)
 
-1. Choose your desired campaign.
+1. Choose your desired Sales Campaign.
 
    ![](assets/sales-campaign-settings-2.png)
 
@@ -35,13 +33,13 @@ Enable skip weekends so any steps that would have fallen on a weekend day (Satur
 
 ## Remove on Bounce {#remove-on-bounce}
 
-If you're using email connection, we will detect bounces based off the bounce message sent to the users inbox. Additionally, we can remove people from campaigns when a bounce is detected.
+If you're using email connection, we will detect bounces based off the bounce message sent to the users inbox. Additionally, we can remove people from Sales Campaigns when a bounce is detected.
 
 1. Click **Campaigns**.
 
    ![](assets/sales-campaign-settings-5.png)
 
-1. Choose your desired campaign.
+1. Choose your desired Sales Campaign.
 
    ![](assets/sales-campaign-settings-6.png)
 
@@ -61,7 +59,7 @@ If you have reply tracking enabled for Gmail or Exchange, we can automatically e
 
    ![](assets/sales-campaign-settings-9.png)
 
-1. Choose your desired campaign.
+1. Choose your desired Sales Campaign.
 
    ![](assets/sales-campaign-settings-10.png)
 
