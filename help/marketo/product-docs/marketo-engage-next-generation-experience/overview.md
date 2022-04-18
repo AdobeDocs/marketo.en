@@ -185,7 +185,7 @@ Take a look at the new Global Nav.
   </tr>
   <tr>
    <td>3</td> 
-   <td>Use this to provide feedback about your MEUE experience</td> 
+   <td>Use this to provide feedback about your experience</td> 
   </tr>
   <tr>
    <td>4</td> 
