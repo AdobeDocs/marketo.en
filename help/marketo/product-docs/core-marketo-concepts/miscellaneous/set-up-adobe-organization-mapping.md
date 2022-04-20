@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762511
-description: Set up Adobe Experience Cloud Audience Sharing - Marketo Docs - Product Documentation
-title: Set up Adobe Experience Cloud Audience Sharing
+description: Set up Adobe Organization Mapping - Marketo Docs - Product Documentation
+title: Set up Adobe Organization Mapping
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 ---
-# Set up Adobe Experience Cloud Audience Sharing {#set-up-adobe-experience-cloud-audience-sharing}
+# Set up Adobe Organization Mapping {#set-up-adobe-organization-mapping}
 
-In order to share audience data to your Adobe applications, you must first enter your Adobe IMS Org credentials in Marketo. Here's how.
+In order to sync with Adobe applications, such as Audience Manager, the B2B CDP Marketo connector, Dynamic Chat, etc., you must first enter your Adobe IMS Org credentials in Marketo.
 
 >[!NOTE]
 >

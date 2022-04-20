@@ -12,7 +12,7 @@ exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 
 >[!PREREQUISITES]
 >
->[Set Up Adobe Experience Cloud Audience Sharing](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+>[Set Up Adobe Organization Mapping](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
 
 ## Supported Destination Applications {#supported-destination-applications}
 

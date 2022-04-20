@@ -11,7 +11,7 @@ exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 
 >[!PREREQUISITES]
 >
->[Set Up Adobe Experience Cloud Audience Sharing](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+>[Set Up Adobe Organization Mapping](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
 
 ## How to Sync an Audience {#how-to-sync-an-audience}
 

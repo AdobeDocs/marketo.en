@@ -462,7 +462,7 @@ feature-set: Marketo Engage
       + [Privacy Management](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
       + [Privacy Requests](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
       + [Rename a Marketo Asset](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-      + [Set up Adobe Experience Cloud Audience Sharing](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+      + [Set up Adobe Organization Mapping](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
       + [Sync an Audience From Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
       + [Understanding Folders](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
       + [Understanding Notifications](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
