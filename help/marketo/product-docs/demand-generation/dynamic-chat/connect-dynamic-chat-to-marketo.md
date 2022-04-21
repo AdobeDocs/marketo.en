@@ -47,7 +47,7 @@ Next, it's time to link Adobe and Marketo.
 
 1. Log in to [experience.adobe.com](https://experience.adobe.com).
 
-1. Copy the Org ID from the bottom-right corner of the homepage, _minus_ the "@AdobeOrg."
+1. Click on the screen anywhere in Experience Cloud and press ctrl+i. In the **Assigned Orgs** tab, highlight and copy the Org ID (_minus_ the "@AdobeOrg"). Press **Close** when done.
 
    ![](assets/connect-dynamic-chat-to-marketo-6.png)
 
