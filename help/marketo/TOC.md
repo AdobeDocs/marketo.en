@@ -182,6 +182,7 @@ feature-set: Marketo Engage
       + [Edit "Do Not Track" Browser Support Settings](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
       + [Edit Landing Page Settings](product-docs/administration/settings/edit-landing-page-settings.md)
       + [Edit Link Expiration in Reports and Alerts](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
+      + [Email Tracking Link Headers](product-docs/administration/settings/email-tracking-link-headers.md)
       + [Edit Subscription Settings](product-docs/administration/settings/edit-subscription-settings.md)
       + [Enable or Disable Treasure Chest Features](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
       + [Enable Personalized URLs for Your Account (Administration)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
