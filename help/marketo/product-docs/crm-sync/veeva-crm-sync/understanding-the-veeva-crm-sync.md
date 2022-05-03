@@ -1,10 +1,10 @@
 ---
-description: Understanding the Veeva Sync - Marketo Docs - Product Documentation
-title: Understanding the Veeva Sync
+description: Understanding the Veeva CRM Sync - Marketo Docs - Product Documentation
+title: Understanding the Veeva CRM Sync
 hide: yes
 hidefromtoc: yes
 ---
-# Understanding the Veeva Sync {#understanding-the-veeva-sync}
+# Understanding the Veeva CRM Sync {#understanding-the-veeva-crm-sync}
 
 In a few easy steps, it's easy to run a sync between Adobe Marketo Engage and the Veeva CRM.
 
@@ -20,12 +20,12 @@ Marketo Engage syncs with Veeva CRM all day, every day. Each sync takes some tim
 
 The sync between Veeva and Marketo Engage is bidirectional only for Contact fields on the Person account object. In these cases, whenever you make changes in either Veeva or Marketo Engage, your updates will be reflected in both systems. All other syncs are from Veeva to Marketo Engage only. Click the links below for details on each one.
 
-## What is Synced between Marketo and Veeva {#what-is-synced-between-marketo-and-veeva}
+## What is Synced between Marketo Engage and Veeva {#what-is-synced-between-marketo-engage-and-veeva}
 
-Person Accounts
-Users
-Call and Call Key Objects
-Custom Objects
+* Person Accounts
+* Users
+* Call and Call Key Objects
+* Custom Objects
 
 ## Things to Know {#things-to-know}
 

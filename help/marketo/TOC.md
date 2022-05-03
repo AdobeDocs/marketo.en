@@ -573,6 +573,19 @@ feature-set: Marketo Engage
       + [Salesforce Sync Errors](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
       + [Salesforce Sync Status](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
       + [Using Person Accounts](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
+    + Veeva CRM Sync {#veeva-crm-sync}
+      + [Understanding the Veeva CRM Sync](product-docs/crm-sync/salesforce-sync/understanding-the-veeva-crm-sync.md)
+      + Setup {#setup}
+        + [Step 1 of 3: Add Marketo Fields to Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
+        + [Step 2 of 3: Create a Veeva CRM User for Marketo Engage](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
+        + [Step 3 of 3: Connect Marketo Engage and Salesforce (Professional)](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-salesforce.md)
+      + Sync Details {#sync-details}
+        + [Add/Remove Custom Object Field as Smart List/Trigger Constraints](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+        + [Default Veeva Field Mapping](product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md)
+        + [Enable/Disable Custom Object Sync](product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md)
+        + [Person Account Sync](product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync.md)
+        + [Syncing Call and Call Key Messages](product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md)
+        + [Veeva CRM Custom Object Sync](product-docs/crm-sync/veeva-crm-sync/sync-details/veeva-crm-custom-object-sync.md)
   + Demand Generation {#demand-generation}
     + Ad Network Integrations {#ad-network-integrations}
       + [Understanding Ad Network Integrations](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
