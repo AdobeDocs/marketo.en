@@ -574,7 +574,7 @@ feature-set: Marketo Engage
       + [Salesforce Sync Status](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
       + [Using Person Accounts](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
     + Veeva CRM Sync {#veeva-crm-sync}
-      + [Understanding the Veeva CRM Sync](product-docs/crm-sync/salesforce-sync/understanding-the-veeva-crm-sync.md)
+      + [Understanding the Veeva CRM Sync](product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md)
       + Setup {#setup}
         + [Step 1 of 3: Add Marketo Fields to Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
         + [Step 2 of 3: Create a Veeva CRM User for Marketo Engage](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
