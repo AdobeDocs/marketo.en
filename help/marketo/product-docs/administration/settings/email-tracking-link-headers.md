@@ -3,6 +3,7 @@ description: Email Tracking Link Headers - Marketo Docs - Product Documentation
 title: Email Tracking Link Headers
 hide: yes
 hidefromtoc: yes
+exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
 ---
 # Email Tracking Link Headers {#email-tracking-link-headers}
 
