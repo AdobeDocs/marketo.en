@@ -19,9 +19,7 @@ This article should be shared with the IT department of the company wishing to i
 >If your IT team restricts web access using an allowlist, ask them to add the following domains (including the asterisk) to allow all Marketo resources and websockets:
 
 * `*.marketo.com`
-
 * `*.marketodesigner.com`
-
 * `*.mktoweb.com`
 
 ## Step 1: Create DNS Records for Landing Pages and Email {#step-create-dns-records-for-landing-pages-and-email}
@@ -50,6 +48,10 @@ For example:
 `3` **Notify Your Marketing Team**
 
 Notify your marketing team when you’ve completed this process.
+
+`4` **Contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} to start the process of provisioning an SSL Certificate.**
+
+This process can take up to 3 business days to complete.
 
 ## Step 2: Allowlist Marketo IPs {#step-allowlist-marketo-ips}
 

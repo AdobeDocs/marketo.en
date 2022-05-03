@@ -40,7 +40,7 @@ Program Member custom fields allow you to collect program-specific data for each
 
    >[!NOTE]
    >
-   >Types supported for Program Member custom fields are: boolean, date, datetime, float, integer, string, URL. [Learn more about field types](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Types supported for Program Member custom fields are: boolean, date, datetime, float, integer, string, URL. [Learn more about field types](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
 
 ## Object Descriptions {#object-descriptions}
 
@@ -53,7 +53,7 @@ Program Member custom fields allow you to collect program-specific data for each
 
 ## Triggers and Filters {#triggers-and-filters}
 
-You can leverage this program-specific data in smart lists via [triggers](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md) and/or [filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md).
+You can leverage this program-specific data in smart lists via [triggers](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} and/or [filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
 
 ![](assets/six.png)
 
@@ -64,10 +64,11 @@ You can leverage this program-specific data in smart lists via [triggers](/help/
 * The Program Member object can have up to 20 custom fields. Those fields are available to any program.
 * When you remove a member of a program, if they have any data in their Program Member custom field, the data will be scrubbed from that field.
 * To view the data, click the Members tab in the program and create a custom view that includes said field(s).
-* Import and export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) and [API](https://developers.marketo.com/) are supported. Exports work on Program Member lists only, not static lists.
+* Import and export via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [API](https://developers.marketo.com/){target="_blank"} are supported. Exports work on Program Member lists only, not static lists.
 * When you merge two people, the winner’s Program Member custom field data will be used. But if the winner has none, the loser’s value will be used.
-* Change type is **not** allowed on Program Member Info fields.
+* Change type is not allowed on Program Member Info fields.
+* The "contains" Smart List constraint is not supported for Program Member custom fields.
 
 >[!MORELIKETHIS]
 >
->[Create a Custom Field in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[Create a Custom Field in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}
