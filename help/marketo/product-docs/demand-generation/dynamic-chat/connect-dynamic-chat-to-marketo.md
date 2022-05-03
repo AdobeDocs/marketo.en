@@ -45,6 +45,10 @@ After you've completed the [initial setup](/help/marketo/product-docs/demand-gen
 
 Next, it's time to link Adobe and Marketo.
 
+>[!IMPORTANT]
+>
+>The email address of the Marketo Engage user establishing this mapping must also have access to the Adobe org that's being connected.
+
 1. Log in to [experience.adobe.com](https://experience.adobe.com).
 
 1. Click on the screen anywhere in Experience Cloud and press ctrl+i. In the **Assigned Orgs** tab, highlight and copy the Org ID (_minus_ the "@AdobeOrg"). Press **Close** when done.
