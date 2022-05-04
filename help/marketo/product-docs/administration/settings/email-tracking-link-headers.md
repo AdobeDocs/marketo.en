@@ -1,8 +1,6 @@
 ---
 description: Email Tracking Link Headers - Marketo Docs - Product Documentation
 title: Email Tracking Link Headers
-hide: yes
-hidefromtoc: yes
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
 ---
 # Email Tracking Link Headers {#email-tracking-link-headers}
@@ -24,7 +22,7 @@ Follow the steps below to customize your email tracking link headers.
 <table>
  <tr>
   <td><strong>Strict-Transport-Security</strong></td>
-  <td>Use this to guarantee connections to Landing Pages will always be served over HTTPS (should only be set for subscriptions with Landing Pages secured by SSL)</td>
+  <td>Use this to guarantee tracking links will always be served over HTTPS (should only be set for subscriptions with tracking links secured by SSL)</td>
  </tr>
 </table>
 
