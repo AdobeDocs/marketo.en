@@ -39,7 +39,7 @@ So, how do you set up a Sales Campaign?
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. When you're [done with your email](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}{target="_blank"}, click **Add**.
+1. When you're [done with your email](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}, click **Add**.
 
    ![](assets/create-a-sales-campaign-6.png)
 
