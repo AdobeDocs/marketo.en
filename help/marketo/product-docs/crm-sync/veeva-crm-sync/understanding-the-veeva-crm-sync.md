@@ -24,7 +24,7 @@ The sync between Veeva and Marketo Engage is bidirectional only for Contact fiel
 * [Person Accounts](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target="_blank"}
 * Users
 * [Call and Call Key Objects](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
-* [Custom Objects](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/veeva-crm-custom-object-sync.md){target="_blank"}
+* [Custom Objects](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
 
 ## Things to Know {#things-to-know}
 
