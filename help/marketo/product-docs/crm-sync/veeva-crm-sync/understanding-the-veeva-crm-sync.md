@@ -1,8 +1,6 @@
 ---
 description: Understanding the Veeva CRM Sync - Marketo Docs - Product Documentation
 title: Understanding the Veeva CRM Sync
-hide: yes
-hidefromtoc: yes
 exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
 ---
 # Understanding the Veeva CRM Sync {#understanding-the-veeva-crm-sync}
@@ -23,14 +21,14 @@ The sync between Veeva and Marketo Engage is bidirectional only for Contact fiel
 
 ## What is Synced between Marketo Engage and Veeva {#what-is-synced-between-marketo-engage-and-veeva}
 
-* Person Accounts
+* [Person Accounts](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target="_blank"}
 * Users
-* Call and Call Key Objects
-* Custom Objects
+* [Call and Call Key Objects](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+* [Custom Objects](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/veeva-crm-custom-object-sync.md){target="_blank"}
 
 ## Things to Know {#things-to-know}
 
-* The credentials you enter in Marketo Engage for Veeva are used to sync data over. Only data those credentials have access to will be included.
+* The [credentials you enter in Marketo Engage for Veeva](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} are used to sync data over. Only data those credentials have access to will be included.
 
 * Veeva CRM is based on force.com and the rich experience Marketo Engage has with the platform is inherited into this sync.
 
