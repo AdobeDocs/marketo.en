@@ -59,6 +59,8 @@ We’re delivering Email Template Details View within Design Studio in the next-
 
 Email Verification for subscriptions using the “Login in Invite User Dialog” feature or that have a single email associated with multiple users will coincide with the May release. Subscriptions that have a single email associated with multiple users will be enabled with Email Verification and will require those users to resolve the conflict and use a unique email per user. When the ‘Login in Invite User Dialog’ feature is enabled, users invited via this feature will need to have a unique email address. For API-only users invited via this feature, the email address does not need to be unique.
 
+**Archive Folder Behavior Change**: With this release, the ability to create new assets in Archive folders will no longer be available from the tree context menus. Menu options for creating new assets will be hidden for all assets. [Learn more here](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}.
+
 **_Product Release Webinar_**
 
 Join us on May 11, 2022, at 9:00 AM PT / 12:00 PM ET for a [live webinar](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} hosted by our Product Team where you can learn how to use all of the latest product innovations.
