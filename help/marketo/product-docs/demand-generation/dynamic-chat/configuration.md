@@ -51,6 +51,14 @@ In order for the chatbot to show up on your website, you’ll first need to inst
 
    ![](assets/configuration-8.png)
 
+>[!TIP]
+>
+>If your site utilizes a Content Security Policy, you may need to whitelist the following URLs for the chatbot to work as expected:
+>
+>* `*.adoberesources.net`
+>* `*.adobe.io`
+>* `*.typekit.net`
+
 >[!NOTE]
 >
 >Marketo Support is not set up to assist with troubleshooting HTML. For HTML assistance, please consult a web developer.
