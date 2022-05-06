@@ -1,6 +1,7 @@
 ---
 description: Create Task in Veeva - Marketo Docs - Product Documentation
 title: Create Task in Veeva
+exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
 ---
 # Create Task in Veeva {#create-task-in-veeva}
 
