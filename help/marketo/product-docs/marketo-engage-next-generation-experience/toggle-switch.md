@@ -5,7 +5,7 @@ exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 ---
 # Toggle Switch {#toggle-switch}
 
-The Toggle Switch allows you to switch between Marketo's classic interface and the new next-gen Marketo Engage experience. It's available in the Landing Page List View and on Form detail pages.
+The Toggle Switch allows you to switch between Marketo's classic interface and the next-gen Marketo Engage experience. It's available in all of the areas highlighted below. As of the May 2022 release, the next-gen experience will be enabled by default.
 
 >[!NOTE]
 >
@@ -93,14 +93,32 @@ The new experience will load.
 
    ![](assets/toggle-switch-17.png)
 
-## Enable for All Features {#enable-for-all-features}
+## Email Template Details View {#email-template-details-view}
 
-You have the option of enabling Marketo's next-gen interface for all available features, current and forthcoming.
-
-1. In an area that currently has the Toggle Switch (in this example we're in [Form Details Page](#form-details-page)), click the gear icon in the bottom-right of the page.
+1. In Marketo, select **Design Studio**.
 
    ![](assets/toggle-switch-18.png)
 
-1. Select **Enable for all available features** and click **OK**.
+1. Select the desired email template.
 
    ![](assets/toggle-switch-19.png)
+
+1. In the bottom-right of the page, click the **New Experience** toggle.
+
+   ![](assets/toggle-switch-20.png)
+
+The new experience will load.
+
+   ![](assets/toggle-switch-21.png)
+
+## Enable for All Features {#enable-for-all-features}
+
+You have the option of manually enabling Marketo's next-gen interface for all available features, current and forthcoming.
+
+1. In an area that currently has the Toggle Switch (in this example we're in [Form Details Page](#form-details-page)), click the gear icon in the bottom-right of the page.
+
+   ![](assets/toggle-switch-22.png)
+
+1. Select **Enable for all available features** and click **OK**.
+
+   ![](assets/toggle-switch-23.png)
