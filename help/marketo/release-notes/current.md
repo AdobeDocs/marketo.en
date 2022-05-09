@@ -17,7 +17,7 @@ The following features will start to be released on **May 6, 2022**, with a phas
 
 ## Native CRM Integration {#native-crm-integration}
 
-**Native Veeva CRM Integration (limited availability)**:  Improve engagement with healthcare professionals by syncing activity between Veeva CRM and Marketo Engage via native integration. This integration allows marketers to create more personalized and seamless cross-channel experiences for healthcare professionals. Please contact your Customer Success Manager if you're interested in participating.
+**[Native Veeva CRM Integration](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} (limited availability)**: Improve engagement with healthcare professionals by syncing activity between Veeva CRM and Marketo Engage via native integration. This integration allows marketers to create more personalized and seamless cross-channel experiences for healthcare professionals. Please contact your Customer Success Manager if you're interested in participating.
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
@@ -29,9 +29,9 @@ The following features will start to be released on **May 6, 2022**, with a phas
 
 **Exclude URLs for Dynamic Chat**: Control which of your webpages Dynamic Chat appears on with the ability to exclude specific URLs from targeting criteria.
 
-**Email Bot Activity Filtering Enhancements**: Continue to protect the health of your database with the ability to identify bot behavior based on hidden link User Agents or IPs and proximity patterns, in addition to the existing IAB list match identification. View bot activity stats that allow you to understand the number of bot activities identified for each type.
+**[Email Bot Activity Filtering Enhancements](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}**: Continue to protect the health of your database with the ability to identify bot behavior based on hidden link User Agents or IPs and proximity patterns, in addition to the existing IAB list match identification. View bot activity stats that allow you to understand the number of bot activities identified for each type.
 
-**STS Header for Email Tracking Links**: Meet security best practices with the ability to apply Secure Transport Security headers to ensure traffic to tracked links is always secure.
+**[STS Header for Email Tracking Links](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**: Meet security best practices with the ability to apply Secure Transport Security headers to ensure traffic to tracked links is always secure.
 
 ## Next-Generation Experience {#next-generation-experience}
 
