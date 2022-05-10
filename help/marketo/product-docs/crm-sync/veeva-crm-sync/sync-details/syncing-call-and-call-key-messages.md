@@ -5,7 +5,7 @@ exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 ---
 # Syncing Call and Call Key Messages {#syncing-call-and-call-key-messages}
 
-Call and Call Key Message Objects in Veeva CRM are synced by default into Marketo Engage. Marketo syncs data that's up to 6 months old, based on Call date.  
+Call and Call Key Message Objects in Veeva CRM are synced by default into Marketo Engage. Marketo syncs data that's up to 6 months old, based on Call Created Date.  
 
 >[!NOTE]
 >
@@ -84,13 +84,6 @@ The follow fields on Call and Call Key messages are synced and can be used as co
       <td>The date of the call when it was first saved or submitted. This field is set via a trigger to the current date if neither the date or datetime field is supplied.</td>
       <td>Call_Date_vod__c</td>
       <td>Date</td>
-    </tr>
-    <tr>
-      <td>Call</td>
-      <td>Detailed Products</td>
-      <td>A helper field to display the list of detailed products for a call. Product names should be delimited by double-spaces and order in priority from left to right. This field does not control processing and is included to make related lists and reports more user friendly.</td>
-      <td>Detailed_Products_vod__c</td>
-      <td>Text Area(255)</td>
     </tr>
     <tr>
       <td>Call</td>

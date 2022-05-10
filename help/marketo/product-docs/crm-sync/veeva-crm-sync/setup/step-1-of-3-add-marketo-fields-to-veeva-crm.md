@@ -19,7 +19,7 @@ All of these custom fields are optional and are not required to sync Marketo Eng
 
 ## Add Marketo Fields to Veeva CRM {#add-marketo-fields-to-veeva-crm}
 
-Add three custom fields on the lead and contact objects in Veeva CRM listed above. If you want to add more, see the table of available fields at the end of this section.
+Add a custom field on the lead and contact objects in Veeva CRM listed above. If you want to add more, see the table of available fields at the end of this section.
 
 Perform the following steps for the Score field to add it.
 
@@ -106,7 +106,7 @@ Decimal Places 0</td>
 
 >[!NOTE]
 >
->Through adding the field to Contact object, they are added to Person Account account as well.
+>Through adding the field to Contact object, they are added to Person Account object as well.
 
 OPTIONAL: Use the above procedure for any additional custom fields from the table below.
 

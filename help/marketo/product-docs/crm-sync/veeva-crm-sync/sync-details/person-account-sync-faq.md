@@ -11,7 +11,7 @@ Person accounts can be set up in Veeva to fit the needs of your organization.
 
 >[!NOTE]
 >
->The default Veeva accounts are Professionals.  
+>We only sync "Professional" tier accounts as Person Accounts.
 
 **What is a person account?**
 
@@ -43,7 +43,7 @@ We'd be nice and let Veeva CRM win. It’s rare that this sort of collision of d
 
 **Are Lead or Contact type of records synced with Veeva CRM?**
 
-Veeva CRM only really deals with Person Account objects and also has Business Accounts. The traditional CRM types of Lead, Contacts, and Opportunities are not really in use in traditional Veeva CRM systems. These may be created in Veeva CRM and the sync may bring them into Marketo, but they are not officially supported using this connector.  
+Veeva CRM only really deals with Person Account objects and also has Business Accounts. The traditional CRM types of Lead, Contacts, and Opportunities are not really in use in traditional Veeva CRM systems. These may be created in Veeva CRM, but they are not officially supported using this connector.  
 
 **Can I convert a person into a contact in Marketo?**
 
