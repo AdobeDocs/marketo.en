@@ -29,7 +29,8 @@ Adobe Marketo Engage subscriptions onboarded to the Adobe Identity Management Sy
  </tr>
  <tr>
   <td><strong>Adobe Admin Console Product Profile Admin</strong></td>
-  <td>Administers the Product Profile descriptions assigned to that Admin and all associated administrative functions.</td>
+  <td>Responsible for administering users within a product profile. They cannot manage users outside of that specific profile. A product profile admin does not have access to the Marketo application unless added to the product profile as a user. Their role would be still a standard user (default workspace if have more than one workspace).
+</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage Product Admin</strong></td>

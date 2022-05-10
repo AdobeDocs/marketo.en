@@ -12,6 +12,10 @@ In order to sync with Adobe applications, such as Audience Manager, the B2B CDP 
 >
 >A HIPAA-ready deployment of a Marketo instance cannot use this integration.
 
+>[!CAUTION]
+>
+>For customers onboarded to the Adobe Business Platform and Identity Management System, the Org ID associated with the subscription will already be populated and is a read-only field.
+
 1. In Marketo, click **Admin**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-1.png)
