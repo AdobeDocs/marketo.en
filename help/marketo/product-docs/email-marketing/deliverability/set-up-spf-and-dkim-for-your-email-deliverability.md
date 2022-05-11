@@ -47,4 +47,4 @@ Please refer to [Set up a Custom DKIM Signature](/help/marketo/product-docs/emai
 >* [Learn More About SPF and How it Works](http://www.open-spf.org/Introduction/)
 >* [Marketo's Email Deliverability Tools](https://www.marketo.com/software/email-marketing/email-deliverability/)
 >* [Is My SPF Set Up Correctly?](https://www.kitterman.com/spf/validate.html)
->* [Did I Use the Right Syntax?](https://www.open-spf.org/SPF_Record_Syntax/)
+>* [Did I Use the Right Syntax?](http://www.open-spf.org/SPF_Record_Syntax/)

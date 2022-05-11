@@ -24,14 +24,14 @@ Some insights into the world and language of Marketo Web Personalization.
 
 Here are three ways you can use a wildcard in Web Personalization.
 
-Match all visitors on page URLs that end with pricing (for example, [www.marketo.com/pricing):](https://www.marketo.com/pricing):)
+Match all visitors on page URLs that end with pricing (for example, `www.marketo.com/pricing`
 
 ![](assets/wildcard-example-1.png)
 
-Match all visitors on page URLs that start with https:// (for example, [https://www.marketo.com):](https://www.marketo.com))
+Match all visitors on page URLs that start with https:// (for example, `https://www.marketo.com`
 
 ![](assets/wildcard-example-2.png)
 
-Match all visitors on page URLs that include the word backup (for example, [https://www.marketo.com/backup/pricing.html):](https://www.marketo.com/backup/pricing.html):)
+Match all visitors on page URLs that include the word backup (for example, `https://www.marketo.com/backup/pricing.html`
 
 ![](assets/wildcard-example-3.png)
