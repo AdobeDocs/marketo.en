@@ -22,7 +22,7 @@ To protect confidentiality and integrity of customer data and SaaS services, Mar
 
 and will replace currently used security protocols (SHA-1 and SSL) with more secure versions (SHA-2 (a.k.a. SHA-256) and TLS) for the following domains:
 
-* [marketo.net](https://marketo.net) (encrypted Munchkin traffic)
+* marketo.net (encrypted Munchkin traffic)
 
 * [marketo.com](https://marketo.com) (main SaaS applications)
 

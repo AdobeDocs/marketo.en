@@ -10,7 +10,7 @@ Azure Active Directory extends your on-premises directories into the cloud, prov
 
 ## Registering a New App {#registering-a-new-app}
 
-1. [Log in](https://azure.microsoft.com/en-us/account/) to the Microsoft Azure management portal using an account with admin permissions. You can also access the Microsoft Azure portal through the Office 365 Admin Center by expanding the **Admin** item in the left navigation pane and selecting **Azure AD**.
+1. [Log in](https://login.microsoftonline.com/){target="_blank"} to the Microsoft Azure management portal using an account with admin permissions. You can also access the Microsoft Azure portal through the Office 365 Admin Center by expanding the **Admin** item in the left navigation pane and selecting **Azure AD**.
 
    >[!CAUTION]
    >
@@ -18,10 +18,10 @@ Azure Active Directory extends your on-premises directories into the cloud, prov
 
    >[!NOTE]
    >
-   >If you don’t have an Azure account, you can [sign up](https://azure.microsoft.com/en-us/free/) for one. Please refer to Microsoft's documentation or reach out to your Microsoft representative for more information. Once you've created an Azure account, you can register one or more apps using the procedure outlined below.
+   >If you don’t have an Azure account, you can [sign up](https://azure.microsoft.com/en-us/free/){target="_blank"} for one. Please refer to Microsoft's documentation or reach out to your Microsoft representative for more information. Once you've created an Azure account, you can register one or more apps using the procedure outlined below.
    >
    >
-   >If you have an Azure account but your Office 365 subscription with Microsoft Dynamics 365 isn't available in your Azure subscription, follow [these instructions](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription) to associate the two accounts.
+   >If you have an Azure account but your Office 365 subscription with Microsoft Dynamics 365 isn't available in your Azure subscription, follow [these instructions](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} to associate the two accounts.
 
 1. Find and click **Azure Active Directory** in the left navigation pane.
 

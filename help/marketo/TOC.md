@@ -602,6 +602,7 @@ feature-set: Marketo Engage
       + [Connect Dynamic Chat to Marketo](product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
       + [Add or Remove Chat Users](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
       + [Configuration](product-docs/demand-generation/dynamic-chat/configuration.md)
+      + [Dynamic Chat Activities](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
       + Dialogues {#dialogues}
         + [Dialogue Overview](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
         + [Create a Dialogue](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)

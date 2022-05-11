@@ -13,10 +13,10 @@ This document provides an overview of managing individual data privacy requests 
 
 You can submit individual requests to access and delete consumer data from Marketo Engage in two ways:
 
-* Through the [Privacy Service UI](https://privacyui.cloud.adobe.io/). See the documentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/).
-* Through the **Privacy Service API**. See the documentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) and the API reference [here](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml).
+* Through the [Privacy Service UI](https://privacyui.cloud.adobe.io/). See the documentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"}.
+* Through the **Privacy Service API**. See the documentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} and API information [here](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-The [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) supports two types of requests: data access and data deletion.
+The [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} supports two types of requests: data access and data deletion.
 
 Let’s see how you can create Access and Delete requests.
 
