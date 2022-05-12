@@ -40,9 +40,9 @@ In order to sync with Adobe applications, such as Audience Manager, the B2B CDP 
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >For security reasons, you must be an Org Admin for the Adobe Organization that you want to map to. If you're not, the action will fail.
+   >For security reasons, you must be an Org Admin for the Adobe Organization that you want to map to. If you’re not, the action will fail. Additionally, the Adobe User and Marketo User must use the same email address when logging in.
 
 1. If you're _not_ already logged in, a pop-up will appear in a new tab/window. Log in to your Adobe org (this action validates the org access).
 
