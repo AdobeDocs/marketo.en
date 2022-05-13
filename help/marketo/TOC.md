@@ -1273,7 +1273,6 @@ feature-set: Marketo Engage
         + [How to Set up Custom Domain Tracking](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
         + [Invite Users and Admins](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
         + [Logging Sales Activity Attributes to Salesforce](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
-        + [Login Management Settings](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
         + [Sharing Settings](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
         + [User Access Details](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
       + Analytics {#analytics}
@@ -1301,6 +1300,11 @@ feature-set: Marketo Engage
           + [Reply Logging](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
           + [Salesforce Diagnostics](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
           + [Salesforce Sync Settings](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+        + Salesforce Configuration {#salesforce-configuration}
+          + [Login Management Settings](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md)
+          + [Sales Insight Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
+          + [Uninstall Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+          + [Uninstall Salesforce Lightning Customization Package](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
       + Email {#email}
         + Command Center {#command-center}
           + [Advanced Search Overview](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1366,10 +1370,6 @@ feature-set: Marketo Engage
         + [International Calling](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
         + [Local Presence](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
         + [Two-Party Consent Settings](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
-      + Salesforce Configuration {#salesforce-configuration}
-        + [Sales Insight Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
-        + [Uninstall Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-        + [Uninstall Salesforce Lightning Customization Package](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)  
       + Send a Sales Email {#send-a-sales-email}
         + [Email Tracking Overview](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + Tasks {#tasks}
