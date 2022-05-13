@@ -7,7 +7,7 @@ exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 
 >[!PREREQUISITES]
 >
->* Confirm with your Customer Success Manager that MSI Actions has been enabled for your Marketo Account (If you do not have a CSM, please [contact Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support)).
+>* Confirm with your Customer Success Manager that MSI Actions has been enabled for your Marketo Account (if you do not have a CSM, contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}).
 >* Your Marketo/Salesforce sync must be set up.
 
 <table>
@@ -59,7 +59,7 @@ The user will receive an email with steps to get access to the account.
 
 >[!NOTE]
 >
->Additional users will not be added through Marketo and will instead be added through the Sales Account User Management page. [Click here](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) to learn more about adding additional users.
+>Additional users will not be added through Marketo and will instead be added through the Sales Account User Management page. [Click here](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target="_blank"} to learn more about adding additional users.
 
 ## Connect Marketo Sales Account to Salesforce {#connect-marketo-sales-account-to-salesforce}
 
@@ -127,7 +127,7 @@ Person records that exist in Marketo and Salesforce will be synced to your Marke
 
    >[!NOTE]
    >
-   >To learn more about how people and activity data syncs between Sales Insight Actions, Marketo, and Salesforce, [click here](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md).
+   >To learn more about how people and activity data syncs between Sales Insight Actions, Marketo, and Salesforce, [click here](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md){target="_blank"}.
 
 ## Invite Individual Users to MSI Actions {#invite-individual-users-to-msi-actions}
 
@@ -179,4 +179,4 @@ You'll receive a confirmation message once the invites are sent.
 
 >[!NOTE]
 >
->Once this is done, you can either upgrade your existing MSI package or install a new one and move on to [configuring MSI Actions in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md).
+>Once this is done, you can either upgrade your existing MSI package or install a new one and move on to [configuring MSI Actions in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.

@@ -9,7 +9,7 @@ Auto-login allows Sales Insight Actions users to automatically authenticate to S
 
 In order to use Auto-login:
 
-* [Login Management settings](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md) must be set to “Salesforce Only”
+* [Login Management settings](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) must be set to “Salesforce Only”
 
 * The user must have been invited to use Sales Insight Actions
 
