@@ -3,6 +3,7 @@ description: Getting Started with Predictive Audiences - Marketo Docs - Product 
 title: Getting Started with Predictive Audiences
 hide: yes
 hidefromtoc: yes
+exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 ---
 # Getting Started with Predictive Audiences {#getting-started-with-predictive-audiences}
 
@@ -28,4 +29,3 @@ Predictive Audiences is automatically included and activated for instances utili
 1. Once the feature has been added to your instance, navigate to the **[!UICONTROL Predictive Audiences]** page in the **[!UICONTROL Admin]** area of Marketo.
 
 1. Check **[!UICONTROL Enable Predictive Audiences]** to activate the feature. Note that it could take up to 24 hours for all processes to complete set-up.
-
