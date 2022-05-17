@@ -4,6 +4,8 @@ title: Product Usage Limits
 ---
 # Product Usage Limits {#product-usage-limits}
 
+The following limits are in place for usage of expanded sales engagement capabilities available with Sales Insight Actions.
+
 <table>
   <th>Functionality</th>
   <th>Rate</th>
