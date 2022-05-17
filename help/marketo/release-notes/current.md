@@ -63,4 +63,4 @@ Email Verification for subscriptions using the “Login in Invite User Dialog”
 
 **_Product Release Webinar_**
 
-Join us on May 11, 2022, at 9:00 AM PT / 12:00 PM ET for a [live webinar](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} hosted by our Product Team where you can learn how to use all of the latest product innovations.
+[March and May 2022 Marketo Engage Release Webinar](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}
