@@ -33,6 +33,20 @@ Description of each column in the table below:
   <th>Data Type</th>
   <th>Size</th>
  </tr>
+  <tr>
+  <td>Call Outcomes</td>
+  <td>mktosales_call_outcome</td>
+  <td>mktosales_call_outcome__c</td>
+  <td>Text</td>
+  <td>50</td>
+ </tr>
+ <tr>
+  <td>Call Reasons</td>
+  <td>mktosales_call_reason</td>
+  <td>mktosales_call_reason__c</td>
+  <td>Text</td>
+  <td>50</td>
+ </tr>
  <tr>
   <td>Marketo Sales Call Local Presence ID</td>
   <td>MSE_Call_Local_Presence_ID</td>

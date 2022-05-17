@@ -1262,8 +1262,9 @@ feature-set: Marketo Engage
       + [Sales Insight Actions Feature Overview](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
       + Getting Started {#getting-started}
         + [Sales Insight Actions User Onboarding Guide](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-        + [MSI Actions Admin Guide](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md)
+        + [Sales Insight Actions Admin Setup Guide](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
         + [Change Your Marketo Sales Password](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
+        + [Product Usage Limits](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
         + Email Settings {#email-settings}
           + [Verify Your Email](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
           + [Add or Update Your Email Signature](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
