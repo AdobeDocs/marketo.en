@@ -49,6 +49,10 @@ This is where you can see a list of all the agents that have connected their cal
 
 ## FAQ {#faq}
 
+**Can I install Dynamic Chat anywhere on my company website or does it only work on Marketo landing pages?**
+
+The Dynamic Chat JavaScript snippet can be installed on any website as well as Marketo landing pages.
+
 **How long is data stored for reporting?**
 
 90 days (see the full list of limits [below](#limits-in-dynamic-chat)).
