@@ -11,10 +11,11 @@ Predictive Audiences (PA) utilizes AI and machine learning to enable you to targ
 
 PA includes the following features:
 
-* [Goal Tracking and Projected Registrations](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target="_blank"}
-* AI/ML-based Insights
 * Registration and Attendance Likelihood values for every lead in an event program
 * [Predictive Filters](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target="_blank"}
+* [Models and influencing factors](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target="_blank"}
+* AI/ML-based Insights
+* [Goal Tracking and Projected Registrations](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target="_blank"} (Goal Tracking is only available to those who have the next-gen toggle enabled for Event Programs - to access this toggle, contact your CSM and request Predictive Audiences)
 
 >[!NOTE]
 >
@@ -29,3 +30,4 @@ Predictive Audiences is automatically included and activated for instances utili
 1. Once the feature has been added to your instance, navigate to the **[!UICONTROL Predictive Audiences]** page in the **[!UICONTROL Admin]** area of Marketo.
 
 1. Check **[!UICONTROL Enable Predictive Audiences]** to activate the feature. Note that it could take up to 24 hours for all processes to complete set-up.
+

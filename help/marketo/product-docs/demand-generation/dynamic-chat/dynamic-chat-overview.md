@@ -61,17 +61,39 @@ The Dynamic Chat JavaScript snippet can be installed on any website as well as M
 
 No, it only utilizes pre-determined responses.
 
-**How can I target anonymous people?**
+**Does Dynamic Chat support any languages besides English?**
 
-In your dialogue, you would need to use the _Person Email is Empty_ attribute.
+Yes. Dynamic Chat supports the following languages: French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese. Learn more in the [section below](#changing-the-language).
 
 **Do you support AI/NLP functionality?**
 
 We do not support AI/NLP functionality.
 
-**Does Dynamic Chat offer any languages besides English?**
+**How can I target anonymous people?**
 
-Not at this time.
+In your dialogue, you would need to use the _Person Email is Empty_ attribute.
+
+## Changing the Language {#changing-the-language}
+
+Follow these steps to change your Dynamic Chat language.
+
+1. In your Experience Cloud account, click the settings icon and choose **Preferences**.
+
+   ![](assets/dynamic-chat-overview-1.png)
+
+1. Click the current language under your email address.
+
+   ![](assets/dynamic-chat-overview-2.png)
+
+1. Choose your new language (second language is optional) and click **Save**.
+
+   ![](assets/dynamic-chat-overview-3.png)
+
+   >[!IMPORTANT]
+   >
+   >There are a few dozen languages to choose from, however Dynamic Chat only supports the following: English, French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese.
+
+When you update your language, everything in the app itself changes except for the words you've personally populated (e.g., stream responses).
 
 ## Limits in Dynamic Chat {#limits-in-dynamic-chat}
 
