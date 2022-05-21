@@ -77,6 +77,10 @@ In your dialogue, you would need to use the _Person Email is Empty_ attribute.
 
 Follow these steps to change your Dynamic Chat language.
 
+>[!IMPORTANT]
+>
+>Changing your language at the profile level will change the language for _all_ Experience Cloud applications, not just Dynamic Chat.
+
 1. In your Experience Cloud account, click the settings icon and choose **Preferences**.
 
    ![](assets/dynamic-chat-overview-1.png)
@@ -89,11 +93,11 @@ Follow these steps to change your Dynamic Chat language.
 
    ![](assets/dynamic-chat-overview-3.png)
 
-   >[!IMPORTANT]
+   >[!NOTE]
    >
-   >There are a few dozen languages to choose from, however Dynamic Chat only supports the following: English, French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese.
+   >There are a few dozen languages to choose from, however, Dynamic Chat only supports the following: English, French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese.
 
-When you update your language, everything in the app itself changes except for the words you've personally populated (e.g., stream responses).
+When you update the language, everything in the app itself changes except for the words you've personally populated (e.g., stream responses).
 
 ## Limits in Dynamic Chat {#limits-in-dynamic-chat}
 

@@ -71,7 +71,7 @@ You have the option of grouping attributes as well, in case you want to have all
 
 ## Target {#target}
 
-This is where you enter the URL(s) that you want a specific Dialogue to be shown on.
+This is where you enter the URL(s) that you want a specific Dialogue to be shown on. You also have the option of adding exclusions.
 
 Acceptable formats:
 
@@ -83,6 +83,10 @@ Acceptable formats:
 >[!NOTE]
 >
 >Using an asterisk acts as a catch-all wilcard. So `https://*.website.com` would put the dialogue on every page of the site, including subdomains (ex: `support.website.com`). And `https://website.com/folder/*` would put the dialogue on every HTML page in the subsequent folder (ex: in this case let's say the folder is "sports," so: website.com/sports/baseball.html, website.com/sports/football.html, etc.).
+
+Use exclusions to ensure your Dialogue does **not** appear on a specific page/area of your site. Exclusions follow the same format as inclusions.
+
+   ![](assets/audience-criteria-12.png)
 
 >[!MORELIKETHIS]
 >
