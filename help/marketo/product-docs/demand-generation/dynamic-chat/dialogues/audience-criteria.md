@@ -7,9 +7,31 @@ exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
 
 Similar to Marketo Smart Lists, Audience Criteria attributes allow you to define your target audience. You can target known or unknown people using inferred, person, or company attributes (or a combination thereof).
 
+## Events {#events}
+
+   ![](assets/audience-criteria-0.png)
+
+Events allow you to target visitors based on how much they scroll or how long they're on your page/site. In the example below, we're targeting visitors who have been on a specific page for more than 20 seconds.
+
+1. Grab the **Time on Page** event and drag it to the right.
+
+   ![](assets/audience-criteria-0a.png)
+
+1. Set the "Greater Than" time to 20 seconds.
+
+   ![](assets/audience-criteria-0b.png)
+
+1. Add the URL of the desired page in the [Target](#target) section.
+
+   ![](assets/audience-criteria-0c.png)
+
+## Attributes {#attributes}
+
+   ![](assets/audience-criteria-0d.png)
+
 **Known People**
 
-There are _many_ attribute combinations to choose from. In this example we're targeting all **known people** in California who work at a company with more than 50 employees.
+There are _many_ attribute combinations to choose from. In the example below, we're targeting all **known people** in California who work at a company with more than 50 employees.
 
 1. Grab the **Person State** attribute and drag it to the right.
 
