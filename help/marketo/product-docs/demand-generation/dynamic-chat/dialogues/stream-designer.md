@@ -22,6 +22,10 @@ The stream designer contains multiple cards you can add to shape the chat conver
   <td>Use when you want to ask a multiple choice question, of which you supply the available responses (ex: What type of vehicle are you interested in? Responses = SUV, Compact, Truck, etc.).</td>
  </tr>
  <tr>
+  <td><strong>Document</strong></td>
+  <td>Allows you to embed PDF documents in Dialogues and track document engagement activity of visitors (how many pages were viewed, if the document was downloaded, and/or any search terms that were used).</td>
+ </tr>
+ <tr>
   <td><strong>Information Capture</strong></td>
   <td>Use when you want to collect information. The  three fields to choose from are Email Address, Phone Number, and Text (which allows the visitor to write their own message).</td>
  </tr>
