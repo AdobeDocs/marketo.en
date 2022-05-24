@@ -266,7 +266,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr> 
   <tr> 
    <td colspan="1"><strong>Docs</strong></td> 
-   <td colspan="1">Short for documents, docs are help articles for customers to better understand the product. Marketo has several different types of docs: Product docs (the site you're currently on), <a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a> docs, <a href="https://developers.marketo.com/" rel="nofollow">Developer</a> docs, and <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Support</a> docs.</td> 
+   <td colspan="1">Short for documents, docs are help articles for customers to better understand the product. Marketo has several different types of docs: Product docs (the site you're currently on), <a href="https://developers.marketo.com/" rel="nofollow">Developer</a> docs, and <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Support</a> docs.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Domain-based Message Authentication, Reporting &amp; Conformance (DMARC)</strong></td> 

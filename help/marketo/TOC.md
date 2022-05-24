@@ -613,6 +613,7 @@ feature-set: Marketo Engage
         + [Create a Dialogue](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
         + [Audience Criteria](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
         + [Stream Designer](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
+        + [Using the Document Card](product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md)
         + [Reports](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
     + Events {#events}
       + Understanding Events {#understanding-events}
