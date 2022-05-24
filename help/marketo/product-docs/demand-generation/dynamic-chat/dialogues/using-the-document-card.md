@@ -1,8 +1,6 @@
 ---
 description: Using the Document Card - Marketo Docs - Product Documentation
 title: Using the Document Card
-hide: yes
-hidefromtoc: yes
 ---
 # Using the Document Card {#using-the-document-card}
 
@@ -21,6 +19,10 @@ The Document card allows you to embed PDF documents in Dialogues and track docum
 1. Enter your credentials, accept the terms, and click **Create Credentials**.
 
    ![](assets/using-the-document-card-3.png)
+
+   >[!IMPORTANT]
+   >
+   >You'll need to use the domain on which you'll be hosting the chatbot (e.g., if you're hosting the chatbot on mycompany.com, make sure you enter that in Step 4).
 
 1. Click **Copy** to copy your Client ID.
 
