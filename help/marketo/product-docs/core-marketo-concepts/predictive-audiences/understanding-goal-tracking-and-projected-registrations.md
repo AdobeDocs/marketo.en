@@ -9,6 +9,10 @@ exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
 
 Here’s how to track your goal progress and understand Marketo’s predictions.
 
+>[!PREREQUISITES]
+>
+>To access the majority of these features, be sure to enable the [next-gen toggle](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target="_blank"} for Event Programs.
+
 >[!NOTE]
 >
 >When an event program is created in the Marketo Classic experience the event start date currently defaults to the event creation date. Since projected registrations take into account the amount of time before an event's start date, these numbers may not be accurate if the start date and creation date are the same (unless set intentionally).
@@ -60,7 +64,7 @@ At the top of the Reports page, you can find AI/ML-driven recommendations based 
 
 PICC
 
-## person-Level Predictions
+## Person-Level Predictions
 
 Click the **[!UICONTROL Members]** tab to view all your program members. Hover over the **[!UICONTROL Registration Likelihood]** or **[!UICONTROL Attendance Likelihood]** bars to see exact percentages and categorizations. You can then take action on members in a particular category (e.g., everyone in the "Less Likely" to register category), and specifically target them to potentially boost your registration numbers.
 

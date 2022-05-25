@@ -1,8 +1,6 @@
 ---
 description: Getting Started with Predictive Audiences - Marketo Docs - Product Documentation
 title: Getting Started with Predictive Audiences
-hide: yes
-hidefromtoc: yes
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 ---
 # Getting Started with Predictive Audiences {#getting-started-with-predictive-audiences}
@@ -15,7 +13,7 @@ PA includes the following features:
 * [Predictive Filters](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target="_blank"}
 * [Models and influencing factors](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target="_blank"}
 * AI/ML-based Insights
-* [Goal Tracking and Projected Registrations](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target="_blank"} (Goal Tracking is only available to those who have the next-gen toggle enabled for Event Programs - to access this toggle, contact your CSM and request Predictive Audiences)
+* Goal Tracking and Projected Registrations - (Goal Tracking is only available to those who have the next-gen toggle enabled for Event Programs - to access this toggle, contact your CSM and request Predictive Audiences)
 
 >[!NOTE]
 >
