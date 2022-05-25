@@ -27,14 +27,6 @@ The following features will start to be released on **June 24, 2022**, with a ph
 
 * **Unsync Unused Marketo Engage Attributes for Dynamic Chat**:  Unsync Marketo Engage attributes from your Dynamic Chat subscription that go unused, helping you facilitate data cleanliness and allowing for alternative attributes to be synced as needed.
 
-## Next-Generation Experience {#next-generation-experience}
-
-* **Updated Screens in the Next-Generation Experience**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
-
-  * Email details page
-  * Email list view
-  * Images & Files list and details
-
 ## Experience Automation {#experience-automation}
 
 * **Global Form Field Validation Rule Exclusions**: Exclude specific forms from Global Form Validation Rules so subscription centers and other business critical workflows can accept all values.
