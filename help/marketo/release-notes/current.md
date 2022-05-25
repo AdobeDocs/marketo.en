@@ -39,7 +39,9 @@ The following features will start to be released on **June 24, 2022**, with a ph
 
 * **Additional HTTP methods for webhooks**: Specify PUT, PATCH, and DELETE as request types to interact with web services.
 
-## Sales Insight {#sales-insight} ![(star)](assets/yellow-star.png)
+## Sales Insight {#sales-insight}
+
+![(star)](assets/yellow-star.png)
 
 * **Sales Insight Permission Set in Salesforce**: Admins can provide Sales Insight access to a limited set of people on a user level rather than profile level through the Marketo App permission set, which is part of the Sales Insight Salesforce package.
 
