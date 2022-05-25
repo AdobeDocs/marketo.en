@@ -33,7 +33,7 @@ The Document card allows you to embed PDF documents in Dialogues and track docum
 
    ![](assets/using-the-document-card-5.png)
 
-1. Paste your Client ID and click **Update**.
+1. Paste your Client ID and click **Save**.
 
    ![](assets/using-the-document-card-6.png)
 
