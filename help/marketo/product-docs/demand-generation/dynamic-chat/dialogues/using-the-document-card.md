@@ -29,7 +29,7 @@ The Document card allows you to embed PDF documents in Dialogues and track docum
 
    ![](assets/using-the-document-card-4.png)
 
-1. Back in Dynamic Chat, click **Integrations**. Click the dota under Adobe PDF Embed API and select **Edit Configuration**.
+1. Back in Dynamic Chat, click **Integrations**. In the Adobe PDF Embed API card, click **Activate**.
 
    ![](assets/using-the-document-card-5.png)
 
