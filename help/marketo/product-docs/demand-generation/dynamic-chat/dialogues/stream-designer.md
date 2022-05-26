@@ -7,7 +7,7 @@ exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
 
 There are _many_ stream combinations possible. This article contains an example where the marketer asks the site visitor if they have any product questions. If yes, the visitor can schedule an appointment. If no, the visitor is given the option to join a mailing list for future correspondence. They're also offered a free PDF. The ultimate goal is either scheduling an appointment or collecting the visitor's email.
 
->[!PREREQUISTES]
+>[!PREREQUISITES]
 >
 >Before you can use the Document card, you must first [set it up](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md){target="_blank"} in your Adobe account.
 
