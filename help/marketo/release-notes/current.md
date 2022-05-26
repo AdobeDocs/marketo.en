@@ -43,6 +43,12 @@ The following features will start to be released on **June 24, 2022**, with a ph
 
 * **Sales Insight Permission Set in Salesforce**: Admins can provide Sales Insight access to a limited set of people on a user level rather than profile level through the Marketo App permission set, which is part of the Sales Insight Salesforce package.
 
+* **My Marketo Tile Update - Sales Insight Actions**: Marketo Admins (and users they designate) can now quickly navigate to their Sales Insight Actions instance via a new Sales Insight Actions tile located on the My Marketo page.
+
+## Sales Connect {#sales-connect}
+
+* **Salesforce API Update**: With the Salesforce Summer '22 release, API legacy versions 21 -30 will no longer be supported by Salesforce. With this Marketo Engage release, all Sales Connect requests using legacy API versions have been updated to stay within a supported version. For full details on Salesforce API retirement plans, click [here](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"}.
+
 ## API Enhancements {#api-enhancements}
 
 * **New filtering capabilities for Bulk Program Member Extract API**: Filter by program membership status, updatedAt, cadence, or exhausted content to refine extracted data set.
