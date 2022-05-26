@@ -5,7 +5,11 @@ exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
 ---
 # Stream Designer {#stream-designer}
 
-There are _many_ stream combinations you can create. This article contains an example where the marketer asks the site visitor if they have any product questions. If yes, the visitor can schedule an appointment. If no, the visitor is given the option to join a mailing list for future correspondence. The goal is either scheduling an appointment or collecting the visitor's email.
+There are _many_ stream combinations possible. This article contains an example where the marketer asks the site visitor if they have any product questions. If yes, the visitor can schedule an appointment. If no, the visitor is given the option to join a mailing list for future correspondence. They're also offered a free PDF. The ultimate goal is either scheduling an appointment or collecting the visitor's email.
+
+>[!PREREQUISTES]
+>
+>Before you can use the Document card, you must first [set it up](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md){target="_blank"} in your Adobe account.
 
 ## Stream Designer Cards {#stream-designer-cards}
 
@@ -43,47 +47,51 @@ The stream designer contains multiple cards you can add to shape the chat conver
 
 1. After you've [created your dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}, click the **Stream Designer** tab.
 
-   ![](assets/create-a-stream-1.png)
+   ![](assets/stream-designer-1.png)
 
 1. Drag and drop the Question card.
 
-   ![](assets/create-a-stream-2.png)
+   ![](assets/stream-designer-2.png)
 
 1. Under Chatbot Response, word your question how you'd like.
 
-   ![](assets/create-a-stream-3.png)
+   ![](assets/stream-designer-3.png)
 
    >[!NOTE]
    >
-   >Poke is set to on by default, which displays the opening question next to the chat icon without the visitor having to click on it to see it.
+   >Poke is set to on by default, which displays the opening question next to the chat icon without the visitor having to click on it to see it. Poke is only available on the first card in the conversation.
 
 1. Enter your User Responses and click **Save**.
 
-   ![](assets/create-a-stream-4.png)
+   ![](assets/stream-designer-4.png)
+
+   >[!NOTE]
+   >
+   >**Edit Stored Values** is an optional step for those who'd like to store a different value in the database than what's being displayed to visitors in the chatbot for mapped attributes in the Question card (ex: visitor sees "Search Engine Optimization," you store that value as "SEO.").
 
 1. For "Yes" we want to schedule an appointment, so below that option drag over the Appointment Scheduler card.
 
-   ![](assets/create-a-stream-5.png)
+   ![](assets/stream-designer-5.png)
 
 1. In the column on the right, click **Save**.
 
-   ![](assets/create-a-stream-6.png)
+   ![](assets/stream-designer-6.png)
 
 1. Since that's a goal, drag the Goal card below the Appointment Scheduler.
 
-   ![](assets/create-a-stream-7.png)
+   ![](assets/stream-designer-7.png)
 
 1. Name your goal (or choose an existing one) and click **Save**.
 
-   ![](assets/create-a-stream-8.png)
+   ![](assets/stream-designer-8.png)
 
 1. For "No" we want to see if they'll join the mailing list, so below that option drag over another Question card.
 
-   ![](assets/create-a-stream-9.png)
+   ![](assets/stream-designer-9.png)
 
 1. Enter your response, and add response choices for the visitor. Click **Save** when done.
 
-   ![](assets/create-a-stream-10.png)
+   ![](assets/stream-designer-10.png)
 
    >[!NOTE]
    >
@@ -91,15 +99,15 @@ The stream designer contains multiple cards you can add to shape the chat conver
 
 1. Below the "Yes" response, drag over the Info Capture card so you can collect the visitor's email.
 
-   ![](assets/create-a-stream-11.png)
+   ![](assets/stream-designer-11.png)
 
 1. Click the **Type** drop-down and select **Email**.
 
-   ![](assets/create-a-stream-12.png)
+   ![](assets/stream-designer-12.png)
 
 1. Enter a chatbot message and placeholder. Make sure the attribute is mapped to the appropriate field in Marketo and click **Save**.
 
-   ![](assets/create-a-stream-13.png)
+   ![](assets/stream-designer-13.png)
 
    <table>
     <tr>
@@ -122,27 +130,27 @@ The stream designer contains multiple cards you can add to shape the chat conver
 
 1. Since collecting their email is a goal, drag the Goal card below Info Capture.
 
-   ![](assets/create-a-stream-14.png)
+   ![](assets/stream-designer-14.png)
 
 1. Name your goal (or choose an existing one) and click **Save**.
 
-   ![](assets/create-a-stream-15.png)
+   ![](assets/stream-designer-15.png)
 
-1. Remember to add a response if they say "No." Drag a Message card below that option.
+1. Remember to add a response if they say "No." One option is to drag a Message card below and say "thanks anyway." But in this example, we'll provide them with a free PDF document instead.
 
-   ![](assets/create-a-stream-16.png)
+   ![](assets/stream-designer-16.png)
 
-1. Enter your message and click **Save**.
+1. In this example we'll create a new document. Give it a name, enter the URL to the PDF you already have hosted, and click **Save**.
 
-   ![](assets/create-a-stream-17.png)
+   ![](assets/stream-designer-17.png)
 
 1. Select the **Preview** toggle to preview your Dialogue.
 
-   ![](assets/create-a-stream-18.png)
+   ![](assets/stream-designer-18.png)
 
 1. When you're ready to activate your Dialogue, click **Publish**.
 
-   ![](assets/create-a-stream-19.png)
+   ![](assets/stream-designer-19.png)
 
 >[!NOTE]
 >
@@ -153,3 +161,4 @@ The stream designer contains multiple cards you can add to shape the chat conver
 >* [Create a Dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
 >* [Audience Criteria](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 >* [Reports](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
+>* [Using the Document Card](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md){target="_blank"}
