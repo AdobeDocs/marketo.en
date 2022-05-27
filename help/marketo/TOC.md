@@ -166,6 +166,7 @@ feature-set: Marketo Engage
       + [Trigger Off Custom Object Changes](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
       + [Custom Object Metadata Export](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
     + Marketo with Adobe Identity {#marketo-with-adobe-identity}
+      + [Quick Guide](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
       + [Overview](product-docs/administration/marketo-with-adobe-identity/overview.md)
       + [Admin Setup](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
       + [Product Admin Setup](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
