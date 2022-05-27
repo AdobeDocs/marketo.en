@@ -6,7 +6,7 @@ hidefromtoc: yes
 ---
 # Quick Guide {#quick-guide}
 
-Follow the steps below to set up and learn about Marketo Engage with Adobe Identity Management.
+The articles listed below will help you set up and learn about Marketo Engage with Adobe Identity Management.
 
 ## System Admin {#system-admin}
 
