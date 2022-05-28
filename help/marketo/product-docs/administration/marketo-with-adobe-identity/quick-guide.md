@@ -3,6 +3,7 @@ description: Quick Guide - Marketo Docs - Product Documentation
 title: Quick Guide
 hide: yes
 hidefromtoc: yes
+exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 ---
 # Quick Guide {#quick-guide}
 
