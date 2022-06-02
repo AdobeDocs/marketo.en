@@ -57,7 +57,7 @@ The following features will start to be released on **June 24, 2022**, with a ph
 
 ## Announcements {#announcements}
 
-* **Forms Deprecation - Forms 1.0, lead Capture/save endpoint, and no-script versions of forms**: Support for Forms 1.0 assets will be completely removed from Marketo Engage. All existing Forms 1.0 assets will cease to function. Marketo Engage forms will require JavaScript to load on landing pages and websites.
+* **Forms Deprecation - Forms 1.0, lead Capture/save endpoint, and no-script versions of forms**: Support for Forms 1.0 assets will be completely removed from Marketo Engage in October, 2022. All existing Forms 1.0 assets will cease to function. Marketo Engage forms will require JavaScript to load on landing pages and websites.
 
 **_Product Release Webinar_**
 
