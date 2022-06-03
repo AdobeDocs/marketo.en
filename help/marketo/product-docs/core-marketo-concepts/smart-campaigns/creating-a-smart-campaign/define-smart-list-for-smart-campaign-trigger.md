@@ -20,6 +20,10 @@ Make a smart campaign run on one person at a time based on live events by adding
    >
    >A smart campaign with triggers runs in **Trigger** mode. It runs on one person at a time based on events triggered and any additional filters.
 
+   >[!IMPORTANT]
+   >
+   >When using a Boolean field in a trigger campaign smart list, you must explicitly set it to 'false' in order for the field to evaluate properly during execution of the campaign.
+
 1. Click the drop-down and choose an operator.
 
    ![](assets/image2014-9-19-16-3a23-3a29.png)
