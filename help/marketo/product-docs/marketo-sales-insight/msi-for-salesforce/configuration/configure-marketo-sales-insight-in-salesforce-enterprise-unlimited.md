@@ -108,6 +108,10 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
 
    ![](assets/image2014-9-24-17-3a34-3a26.png)
 
+   >[!NOTE]
+   >
+   >Check **Show scrollbars** if you need access to scroll-through activities.
+
    >[!TIP]
    >
    >We recommend a height of 410 pixels for the Accounts and Opportunities objects.
