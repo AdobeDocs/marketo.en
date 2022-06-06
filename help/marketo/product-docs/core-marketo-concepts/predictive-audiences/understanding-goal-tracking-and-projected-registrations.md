@@ -1,8 +1,6 @@
 ---
 description: Understanding Goal Tracking and Projected Registrations - Marketo Docs - Product Documentation
 title: Understanding Goal Tracking and Projected Registrations
-hide: yes
-hidefromtoc: yes
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
 ---
 # Understanding Goal Tracking and Projected Registrations {#understanding-goal-tracking-and-projected-registrations}
@@ -21,23 +19,27 @@ Here’s how to track your goal progress and understand Marketo’s predictions.
 
 1. You can find goal tracking details in the **[!UICONTROL Reports]** tab of your event program. In this particular example, there are 150 registered members so far against a goal of 200 (75%).
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-1.png)
 
 You'll also see your **[!UICONTROL Projected]** registrations. Hover over the info icon to see a breakdown of this number by Likelihood segment.
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-2.png)
 
 >[!NOTE]
 >
 >The Attended and Higher chart will remain empty until the day of the event.
 
+If you haven't enabled the toggle switch, here's how it will appear in the Marketo Class UI:
+
+   ![](assets/understanding-goal-tracking-and-projected-registrations-3.png)
+
 1. Click the Chart toggle to switch to a breakdown of your members by registration likelihood. You'll see current registration percentages for each segment, compared to the average percentage for that segment in your past programs.
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-4.png)
 
 All members (registered and not yet registered) are categorized based on their registration likelihood. Hover over the info icon to see how these likelihood categories are defined.
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-5.png)
 
 >[!NOTE]
 >
@@ -56,19 +58,19 @@ In calculating similar programs, we include the following factors, among others:
 * Time duration from event creation to event start
 * Event duration
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
 
 ## Recommendations
 
 At the top of the Reports page, you can find AI/ML-driven recommendations based on your progress. Check back periodically for helpful tips and insights!
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## Person-Level Predictions
 
 Click the **[!UICONTROL Members]** tab to view all your program members. Hover over the **[!UICONTROL Registration Likelihood]** or **[!UICONTROL Attendance Likelihood]** bars to see exact percentages and categorizations. You can then take action on members in a particular category (e.g., everyone in the "Less Likely" to register category), and specifically target them to potentially boost your registration numbers.
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
 >[!NOTE]
 >
@@ -104,7 +106,7 @@ ii. After 24 hours, in the [!UICONTROL Reports] tab you can see the projected re
 
 iii. If projected registrations are less than the goal, you would have to invite more people. At this point, you can see the insights that tell you what the threshold was that worked in past programs.
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-9.png)
 
 iv. You can create a new Smart Campaign with that threshold to invite more people.
 
@@ -118,7 +120,7 @@ A: Three bars, each one representing a segment (Highly Likely, Likely, Less Like
 
 **Blue bar:** Registration percentage of all people in that segment.
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-10.png)
 
 Example, let’s say 100 people have likelihood to register > 50% and 60 out of those 100 people registered. Highly likely has 60% conversion. So, all member added to the program get likelihood to register values, then they are put into segments and as per the number of people registered in each segment conversion rate is calculated.
 
@@ -128,10 +130,10 @@ A: Any person who is listed as registered, or any other status with an equal or 
 
 You can create new progression statuses for an event program, but we map those statuses with standard statuses. Consider a case where a person is moved from invited to reminded, which is a higher step than register. This person will also be considered as registered and shown in the goal tracking.
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-11.png)
 
 **Q: How are projected registrations calculated?**
 
 A: See below.
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-12.png)
