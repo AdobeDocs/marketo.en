@@ -14,7 +14,7 @@ hidefromtoc: yes
 >
 >The Program Member object can have up to 20 custom fields. Those fields are available to any program.
 
-## Map Salesforce Fields to Program Member Fields {#map-salesforce-fields-to-program-member-fields}
+## Map Salesforce Fields to Program Member Custom Fields {#map-salesforce-fields-to-program-member-custom-fields}
 
 1. In Marketo, click **Admin**.
 
@@ -38,7 +38,7 @@ hidefromtoc: yes
 
    >[!NOTE]
    >
-   >The drop-down will only show Program Member Custom Fields that match the datatype of the Salesforce field.
+   >The drop-down will only show Program Member Custom Fields that match the data type of the Salesforce field.
 
 1. For additional field mappings, clear the search box and repeat steps 3 through 5.
 
@@ -54,7 +54,7 @@ hidefromtoc: yes
    >
    >If you rename or change the data type of a field in Salesforce, we will remove any mapping of that field with the Program Member Custom Field. But you can remap it with the new field after review.
 
-## Unmap Salesforce Fields to Program Member Fields {#unmap-salesforce-fields-to-program-member-fields}
+## Unmap Salesforce Fields from Program Member Custom Fields {#unmap-salesforce-fields-from-program-member-custom-fields}
 
 If you ever want to free up a field in order to replace it, or just make a general change, you must perform an unmapping first. Here's how.
 
@@ -82,7 +82,7 @@ If you ever want to free up a field in order to replace it, or just make a gener
 
    ![](assets/program-member-custom-field-sync-11.png)
 
-## Datatype Mapping {#datatype-mapping}
+## Data Type Mapping {#data-type-mapping}
 
 <table>
   <colgroup>
@@ -91,8 +91,8 @@ If you ever want to free up a field in order to replace it, or just make a gener
   </colgroup>
   <tbody>
     <tr>
-      <th>SFDC Datatype</th>
-      <th>Program Member Field Data Type</th>
+      <th>SFDC Data Type</th>
+      <th>Program Member Custom Field Data Type</th>
     </tr>
     <tr>
       <td>Text</td>
