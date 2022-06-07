@@ -11,6 +11,10 @@ exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 
 ## Add a Product Admin {#add-a-product-admin}
 
+>[!IMPORTANT]
+>
+>An Admin must be added to a product profile in order to get access to Marketo Engage.
+
 1. Log in to the [Adobe Admin Console](https://adminconsole.adobe.com/).
 
    ![](assets/add-or-remove-a-product-admin-1.png)

@@ -7,13 +7,13 @@ exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 
 Once you're added as an Adobe System Admin to Marketo Engage in an Adobe org, there are a few steps you'll need to take to complete the initial setup.
 
-## System Admin Setup {#system-admin-setup}
+## Initial Setup {#initial-setup}
 
 1. After you've been added as a designated System Admin for Marketo Engage (in a new or established org), you'll receive a welcome email. In that email, click **Get Started**.
 
    ![](assets/admin-setup-1.png)
 
-1. If you've previously accessed an application with an Adobe ID, you'll be taken straight to the Adobe Admin Console. If not, [set up your Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+1. If you've previously accessed an application with an Adobe ID, you'll be taken straight to the Adobe Admin Console. If not, [set up your Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-2.png)
 
@@ -47,4 +47,4 @@ After the System Admin accesses the Admin Console, it's time to create a product
 
 >[!MORELIKETHIS]
 >
->[Add or Remove a Product Admin](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
+>[Add or Remove a Product Admin](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target="_blank"}
