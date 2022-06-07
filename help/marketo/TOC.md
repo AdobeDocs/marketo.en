@@ -378,6 +378,7 @@ feature-set: Marketo Engage
         + [Local Asset Expiration](product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.md)
         + [Manage and View Members](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
         + [Program Member Custom Fields](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
+        + [Program Member Custom Field Sync](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md)
         + [Sync an SFDC Campaign with a Program](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
         + [Understanding Period Costs](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
         + [Understanding Tags](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
