@@ -12,6 +12,10 @@ Follow these steps to create a new email template.
 >
 >Marketo Support is not set up to assist with troubleshooting custom HTML. For HTML assistance, please consult a web developer.
 
+>[!CAUTION]
+>
+>The editor we use converts the values of color and background-color CSS properties to lowercase, so please avoid using camel case and use lowercase names or hyphens instead.
+
 ## Create a New Email Template {#create-a-new-email-template}
 
 1. Click **Design Studio**.
