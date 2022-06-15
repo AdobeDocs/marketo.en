@@ -7,11 +7,9 @@ exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 
 The articles listed below will help you set up and learn about Marketo Engage with Adobe Identity Management.
 
-## System Admin {#system-admin}
+## System Admin Setup {#system-admin-setup}
 
 Product Profile and Product Admin Creation.
-
-[System Admin Access](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#system-admin-setup){target="_blank"}
 
 [Create a Product Profile](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#create-a-product-profile){target="_blank"}
 
