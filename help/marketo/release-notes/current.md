@@ -47,6 +47,8 @@ The following features will start to be released on **June 24, 2022**, with a ph
 
 ## Sales Connect {#sales-connect}
 
+![(star)](assets/yellow-star.png)
+
 * **Salesforce API Update**: With the Salesforce Summer '22 release, API legacy versions 21 -30 will no longer be supported by Salesforce. With this Marketo Engage release, all Sales Connect requests using legacy API versions have been updated to stay within a supported version. For full details on Salesforce API retirement plans, click [here](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"}.
 
 ## API Enhancements {#api-enhancements}
