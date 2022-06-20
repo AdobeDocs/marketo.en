@@ -22,19 +22,15 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr> 
   <tr> 
    <td colspan="1"><strong>Account</strong></td> 
-   <td colspan="1">This term can have different meanings:<br>-Your Marketo instance itself can be referred to as your Marketo account.<br>-In <strong>ABM</strong>, a <strong>Named Account</strong> is an account that the user has determined is a target account they want to pursue.<br>-In ABM, a CRM Account is an account mapped from your linked <strong>CRM</strong> (account in <strong>Salesforce</strong>, <strong>MS Dynamics</strong> or <strong>API</strong>).<br>-In your CRM, accounts are the business/company that leads and contacts are associated to.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Account-based Marketing</a> (ABM)</strong></td> 
-   <td colspan="1">An add-on feature that allows you to target and engage key accounts in a highly coordinated fashion.</td> 
+   <td colspan="1">This term can have different meanings:<br>-Your Marketo instance itself can be referred to as your Marketo account.<br>-In <strong>TAM</strong>, a <strong>Named Account</strong> is an account that the user has determined is a target account they want to pursue.<br>-In TAM, a CRM Account is an account mapped from your linked <strong>CRM</strong> (account in <strong>Salesforce</strong>, <strong>MS Dynamics</strong> or <strong>API</strong>).<br>-In your CRM, accounts are the business/company that leads and contacts are associated to.</td> 
   </tr> 
   <tr> 
    <td><strong>Account List</strong></td> 
-   <td>A list of key account/organization names. Also known as an Account-Based Marketing (<strong>ABM</strong>) list.</td> 
+   <td>A list of key account/organization names. Also known as a Target Account Management (<strong>TAM</strong>) list.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Account Profiling</strong></td> 
-   <td colspan="1">(formerly AccountAI) In <strong>ABM</strong>, using your Ideal Customer Profile (ICP), existing companies in your database will be ranked, and the rankings are added as scores on your accounts.</td> 
+   <td colspan="1">(formerly AccountAI) In <strong>TAM</strong>, using your Ideal Customer Profile (ICP), existing companies in your database will be ranked, and the rankings are added as scores on your accounts.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Account Score</a></strong></td> 
@@ -568,7 +564,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
  <tbody> 
   <tr> 
    <td><strong>Named Account</strong></td> 
-   <td><p>In <strong>ABM</strong>, an account that the user has determined is a target account they want to pursue.</p></td> 
+   <td><p>In <strong>TAM</strong>, an account that the user has determined is a target account they want to pursue.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Nurture Program</strong></td> 
@@ -641,7 +637,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
-   <td colspan="1">In Marketo's <strong>Account-based Marketing</strong>, personas are a subset of an audience, allowing for more specific targeting.</td> 
+   <td colspan="1">In Marketo's <strong>Target Account Management</strong>, personas are a subset of an audience, allowing for more specific targeting.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>Poll</strong></a></td> 
@@ -801,7 +797,11 @@ Below are definitions for many of the terms you may encounter when using Marketo
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" rel="nofollow">Tags</a></strong></td> 
    <td>Identifiers used to describe <strong>programs</strong>.</td> 
-  </tr> 
+  </tr>
+  <tr> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Target Account Management</a> (TAM)</strong></td> 
+   <td colspan="1">(formerly Account-based Marketing/ABM) An add-on feature that allows you to target and engage key accounts in a highly coordinated fashion.</td> 
+  </tr>
   <tr> 
    <td><strong>Template</strong></td> 
    <td>An <strong>email</strong> or <strong>landing page</strong> that's used as a starting point for creating additional emails or landing pages.</td> 
