@@ -67,7 +67,7 @@ Before you can utilize this feature, you must enable its permssion per desired r
 
 ## How to Disable Access Per Form{#how-to-disable-access-per-form}
 
-Once enabled, rules apply to all forms. If you have a form with specific requirements, however, and you don't want anything rejected, you can disable Global Form Validation Rules in a form's settings.
+Once enabled, rules apply to all forms. If you have a form with specific requirements, however, and you don't want anything rejected, you can disable Global Form Validation Rules in the form's settings.
 
 1. In your desired form, click **Form Settings**, then **Settings**.
 
