@@ -38,11 +38,11 @@ Many-to-many custom objects use two link fields, part of an intermediary object.
 
 1. To create or edit Marketo custom objects, click **Admin** and then the **Marketo Custom Objects** link.
 
-   ![](assets/image2016-5-18-16-3a59-3a30.png)
+   ![](assets/understanding-marketo-custom-objects-1.png)
 
 1. The Marketo Custom Objects display lists all of your custom objects on the right, but only the approved ones in the main grid.
 
-   ![](assets/image2016-6-10-15-3a14-3a18.png)
+   ![](assets/understanding-marketo-custom-objects-2.png)
 
 1. The grid displays the object name, number of records, number of fields, and the date of the most recent update.
 
@@ -52,7 +52,7 @@ Many-to-many custom objects use two link fields, part of an intermediary object.
 
 1. Click the object name on the right to open the details page.
 
-   ![](assets/image2016-6-10-15-3a15-3a29.png)
+   ![](assets/understanding-marketo-custom-objects-3.png)
 
 ## View Custom Objects Associated to a Person {#view-custom-objects-associated-to-a-person}
 
@@ -60,19 +60,19 @@ After you've created the custom object structure, when you upload the specific c
 
 1. Go to **Database**.
 
-   ![](assets/db.png)
+   ![](assets/understanding-marketo-custom-objects-4.png)
 
 1. Open your database and click the **People** tab. Double-click the record for a person you associated to a custom object.
 
-   ![](assets/five.png)
+   ![](assets/understanding-marketo-custom-objects-5.png)
 
 1. On the person detail page, click the **Custom Objects** tab. Select the object from the drop-down.
 
-   ![](assets/six.png)
+   ![](assets/understanding-marketo-custom-objects-6.png)
 
 1. Now you can view a list of all custom objects of that type that are associated to that person.
 
-   ![](assets/seven.png)
+   ![](assets/understanding-marketo-custom-objects-7.png)
 
 ## Using Custom Objects with Companies {#using-custom-objects-with-companies}
 
