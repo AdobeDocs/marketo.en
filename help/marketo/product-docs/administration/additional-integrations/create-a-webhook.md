@@ -36,7 +36,7 @@ Use webhooks to take advantage of third-party web services to send text messages
 
     * **Response type**: Select the format of the response you receive from the service (**JSON** or **XML**).
 
-    * **Request Type**: Select the HTTP method to use (DELETE, GET, PATCH, POST, PUT)
+    * **Request Type**: Select the HTTP method to use (DELETE, GET, PATCH, POST, PUT).
 
    Click **Create**.
 
