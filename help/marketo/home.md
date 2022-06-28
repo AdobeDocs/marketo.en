@@ -10,11 +10,8 @@ exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
 ## Getting Started
 
 * [Setup Steps](/help/marketo/getting-started/setup-steps.md)
-
 * [Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
-
 * [Configure Protocols for Marketo](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md)
-
 * [Marketo Glossary](/help/marketo/getting-started/marketo-glossary.md)
 
 ## Popular Articles
