@@ -17,7 +17,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">A/B Testing</a></strong></td>
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">A/B Testing</a></strong></td>
    <td colspan="1">Allows you to modify components of your email (e.g., subject line, from address, etc.) and set testing criteria to determine which set of content fares better.</td> 
   </tr> 
   <tr> 
