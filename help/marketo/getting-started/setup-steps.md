@@ -25,11 +25,11 @@ Some steps require help from your IT team.
 
 >[!TIP]
 >
->If you [print out this checklist](/help/marketo/getting-started/setup-steps/setup-checklist.md), you can check items off as you complete them.
+>If you [print out this checklist](/help/marketo/getting-started/setup-steps/setup-checklist.md){target="_blank"}, you can check items off as you complete them.
 
 ## Log in and create additional Marketo Users {#log-in-and-create-additional-marketo-users}
 
-1. Log in to Marketo [here](https://app.marketo.com/) using the credentials you received by email.
+1. Log in to Marketo [here](https://app.marketo.com/){target="_blank"} using the credentials you received by email.
 
    ![](assets/new-login-screen-hand.jpg)
 
@@ -81,7 +81,7 @@ Go to the **Admin** area.
 
    >[!NOTE]
    >
-   >In addition to the five built-in roles, you can also create custom roles. Learn more about [Managing User Roles and Permissions](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >In addition to the five built-in roles, you can also create custom roles. Learn more about [Managing User Roles and Permissions](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
    Feel free to tweak the invitation text. Click **Send**.
 
@@ -93,13 +93,13 @@ Go to the **Admin** area.
 
 ## Set Up Your Authorized Support Contacts {#set-up-your-authorized-support-contacts}
 
-   You might have received an email from Marketo Support stating that you are the Marketo Customer Support Administrator for your company. If so, you can set up **authorized support contacts** for your team. Only authorized support contacts can contact Marketo Customer Support directly through the [Marketo Support Portal](https://support.marketo.com).
+   You might have received an email from Marketo Support stating that you are the Marketo Customer Support Administrator for your company. If so, you can set up **authorized support contacts** for your team. Only authorized support contacts can contact Marketo Customer Support directly through the [Marketo Support Portal](https://support.marketo.com){target="_blank"}.
 
    >[!NOTE]
    >
    >The number of support contacts you can create is determined by the package that you purchased. This limit is specified in your email from Marketo Support.
 
-   Authorized Support Contact docs have moved to the Marketo Community. Please see [this article](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341).
+   Authorized Support Contact docs have moved to the Marketo Community. Please see [this article](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}.
 
    >[!NOTE]
    >
@@ -149,22 +149,23 @@ Configure your domain settings so landing pages use your company’s domain inst
    >
    >Are you a Launch Pack customer? You can skip this step. Your consultant will provide you with an IT setup instructions document during your kickoff call.
 
-   There are several measures you can take to ensure that the emails reach as many of your people as possible.
+There are several measures you can take to ensure that the emails reach as many of your people as possible.
 
-    1. **Brand your tracking links**. You can choose a CNAME to use your own domain (instead of Marketo’s) in the links you include in emails from Marketo. This reinforces your domain branding and increases trust and deliverability with your recipients.
-    1. **Add Marketo to your corporate email allowlist.** It is a common best practice to send test emails to your test accounts before sending emails to actual people. By allowlisting Marketo, you can prevent those test emails from being blocked or flagged as spam.
-    1. **Set up SPF and DKIM.** These technologies assure your recipients that your Marketo emails are not spam. To help prevent recipients’ spam filters from rejecting you Marketo emails, follow these steps to [Setup a SPF and DKIM for Your Email Deliverability](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
-    1. **Set up an MX record for your domain.** An MX record allows you to receive mail to the domain that you are sending email from to process replies and auto responders. If you’re sending from your corporate domain, you likely already have this configured. If not, you can usually set up to map to your corporate domain’s MX record.
-    1. **Recommended Settings for the From Address.** You must use a valid, existing and working email domain in the From Address in all email campaigns. It may be beneficial to configure a subdomain of your corporate domain rather than sending from your corporate domain. This will ensure issues from your corporate mailstream do not impact your Marketo mailstream and vice versa. Furthermore, sending mail from something@nonexistentdomain.com will cause email to be filtered or blocked. Any domain used in the sender's From Address must have a valid and working postmaster@ and abuse@ account.
-    If you’re using Google Apps to host your corporate email, you won’t be able to create abuse@ or postmaster@ emails under your domain. To get around this, you need to create groups named “abuse” and “postmaster”. Users that are members of these groups will receive emails sent to those addresses (e.g., postmaster@domain.com). Detailed instructions for creating groups can be found [here](https://support.google.com/a/answer/33343#adminconsole).
+* **Brand your tracking links**. You can choose a CNAME to use your own domain (instead of Marketo’s) in the links you include in emails from Marketo. This reinforces your domain branding and increases trust and deliverability with your recipients.
+* **Add Marketo to your corporate email allowlist.** It is a common best practice to send test emails to your test accounts before sending emails to actual people. By allowlisting Marketo, you can prevent those test emails from being blocked or flagged as spam.
+* **Set up SPF and DKIM.** These technologies assure your recipients that your Marketo emails are not spam. To help prevent recipients’ spam filters from rejecting you Marketo emails, follow these steps to [Setup a SPF and DKIM for Your Email Deliverability](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
+* **Set up an MX record for your domain.** An MX record allows you to receive mail to the domain that you are sending email from to process replies and auto responders. If you’re sending from your corporate domain, you likely already have this configured. If not, you can usually set up to map to your corporate domain’s MX record.
+* **Recommended Settings for the From Address.** You must use a valid, existing and working email domain in the From Address in all email campaigns. It may be beneficial to configure a subdomain of your corporate domain rather than sending from your corporate domain. This will ensure issues from your corporate mailstream do not impact your Marketo mailstream and vice versa. Furthermore, sending mail from `something@nonexistentdomain.com` will cause email to be filtered or blocked. Any domain used in the sender's From Address must have a valid and working postmaster@ and abuse@ account.
 
-   Choose a CNAME for email tracking links (choose one that is _different_ from the landing page CNAME you chose in Step 3). Some examples:
+If you’re using Google Apps to host your corporate email, you won’t be able to create abuse@ or postmaster@ emails under your domain. To get around this, you need to create groups named “abuse” and “postmaster”. Users that are members of these groups will receive emails sent to those addresses (e.g., postmaster@domain.com). Detailed instructions for creating groups can be found [here](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
 
-    * go2.[CompanyDomain].com
-    * em.[CompanyDomain].com
-    * wow.[CompanyDomain].com
+Choose a CNAME for email tracking links (choose one that is _different_ from the landing page CNAME you chose in Step 3). Some examples:
 
-   The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will need to give it to IT in Step 5.
+* go2.[CompanyDomain].com
+* em.[CompanyDomain].com
+* wow.[CompanyDomain].com
+
+The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will need to give it to IT in Step 5.
 
    >[!CAUTION]
    >
@@ -237,7 +238,9 @@ Configure your domain settings so landing pages use your company’s domain inst
 
       94.236.119.0/26
 
-   NOTE: Reach out to Marketo Support if you’d like an abbreviated list of IPs to allowlist specific to your environment.
+   >[!NOTE]
+   >
+   >Reach out to Marketo Support if you’d like an abbreviated list of IPs to allowlist specific to your environment.
 
     * If our anti-spam system uses From domains, add these:
 
@@ -334,7 +337,7 @@ Configure your domain settings so landing pages use your company’s domain inst
 >
 >Are you a Launch Pack customer? You can skip this step. Your consultant will provide you with Munchkin code instructions in your IT setup instructions document.
 
-Marketo has custom tracking JavaScript (called Munchkin) that you can use to track person activities on any web page. Munchkin is required to integrate your website into Marketo. Follow these steps to [Add Munchkin Tracking Code to Your Website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+Marketo has custom tracking JavaScript (called Munchkin) that you can use to track person activities on any web page. Munchkin is required to integrate your website into Marketo. Follow these steps to [Add Munchkin Tracking Code to Your Website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >
