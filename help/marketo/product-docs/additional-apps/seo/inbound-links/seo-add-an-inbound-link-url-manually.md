@@ -22,7 +22,7 @@ You can add Inbound Links manually. Here's how:
 
    >[!TIP]
    >
-   >Did you know you can [add your inbound link to a new or existing list](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Check it out!
+   >Did you know you can [add your inbound link to a new or existing list](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}? Check it out!
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
