@@ -14,8 +14,8 @@ exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 
 >[!PREREQUISITES]
 >
->* [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
->* [Customize Your Landing Page URL with a CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
+>* [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>* [Customize Your Landing Page URL with a CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}
 
 ## Step 1: Start a New Redirect Rule {#step-start-a-new-redirect-rule}
 
@@ -39,7 +39,7 @@ exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 
    >[!NOTE]
    >
-   >Remember, you can only redirect landing pages that start with your Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >Remember, you can only redirect landing pages that start with your Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}.
 
 1. Click the second **Original URL** drop-down and select the landing page you want to redirect.
 

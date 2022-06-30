@@ -18,8 +18,8 @@ So grab your favorite beverage and take a look around.
 
 **Table of Contents**
 
-* [Items to Check Off](/help/marketo/getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
-* [Things to Review: Core Skills](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
-* [Ways to Get Help](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
+* [Items to Check Off](/help/marketo/getting-started/inheriting-a-marketo-instance/items-to-check-off.md){target="_blank"}
+* [Things to Review: Core Skills](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md){target="_blank"}
+* [Ways to Get Help](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md){target="_blank"}
 
-If you already know your way around your instance and are comfortable with Marketo core concepts, check out the Marketo Product Docs, or visit the [Marketing Nation](https://nation.marketo.com/) online community to see what other Marketo users are saying.
+If you already know your way around your instance and are comfortable with Marketo core concepts, check out the Marketo Product Docs, or visit the [Marketing Nation](https://nation.marketo.com/){target="_blank"} online community to see what other Marketo users are saying.

@@ -8,8 +8,8 @@ exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 
 >[!PREREQUISITES]
 >
->* [Get Set Up and Add a Person](get-set-up-and-add-a-person.md)
->* [Landing Page with a Form](landing-page-with-a-form.md)
+>* [Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Step 1: Create a Scoring Campaign {#step-create-a-scoring-campaign}
 
@@ -51,7 +51,7 @@ exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 
    >[!NOTE]
    >
-   >If you completed the [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) quick win you should have the form. If you used a different name for your form, select that one.
+   >If you completed the [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} quick win you should have the form. If you used a different name for your form, select that one.
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
@@ -69,7 +69,7 @@ exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 
    >[!TIP]
    >
-   >Good scoring campaigns are key to delivering high-quality people to Sales. Read [**The Definitive Guide to Lead Scoring**](https://www.marketo.com/definitive-guides/lead-scoring/).
+   >Good scoring campaigns are key to delivering high-quality people to Sales. Read [**The Definitive Guide to Lead Scoring**](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}.
 
 1. Click the **Schedule** tab and the **Activate** button.
 
@@ -85,7 +85,7 @@ exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 
 ## Step 2: Fill Out the Form {#step-fill-out-the-form}
 
-1. Select the landing page you created in the [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) quick win.
+1. Select the landing page you created in the [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} quick win.
 
    ![](assets/fourteen-1.png)
 
@@ -119,7 +119,10 @@ Your person details will open in a new tab or window. See how your score increas
 
 ![](assets/twenty.png)
 
-**Congratulations!** You've created a scoring campaign.
+## Mission Complete! {#mission-complete}
+
+<br>&nbsp;
+
 [◄ Mission 2: Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 [Mission 4: Email Auto-Response ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)

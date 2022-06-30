@@ -10,7 +10,7 @@ There are a few things to do before you begin the missions.
 
 ## Step 1: Log In to Marketo {#step-log-in-to-marketo}
 
-1. [Log in to Marketo](https://app.marketo.com) using the credentials you received by email.
+1. [Log in to Marketo](https://app.marketo.com){target="_blank"} using the credentials you received by email.
 
    ![](assets/one.png)
 

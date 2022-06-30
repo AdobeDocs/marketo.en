@@ -180,6 +180,6 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
 <br>&nbsp;
 
-[◄ Send an Email Blast](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[◄ Mission 1: Send an Email Blast](/help/marketo/getting-started/quick-wins/send-an-email.md)
 
-[Simple Scoring ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[Mission 3: Simple Scoring ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)

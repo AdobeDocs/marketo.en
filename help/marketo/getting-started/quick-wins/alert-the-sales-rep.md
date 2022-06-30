@@ -12,7 +12,7 @@ To automatically send alert emails to sales reps, all you need is an alert email
 
 >[!PREREQUISITES]
 >
->[Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>[Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Step 1: Create an Alert Email {#step-create-an-alert-email}
 
@@ -20,7 +20,7 @@ To automatically send alert emails to sales reps, all you need is an alert email
 
    ![](assets/one-5.png)
 
-1. Select **My Program** which you created in the [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) quick win, then under **New** click **New Local Asset**.
+1. Select **My Program** which you created in the [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} quick win, then under **New** click **New Local Asset**.
 
    ![](assets/two-6.png)
 
@@ -54,7 +54,7 @@ To automatically send alert emails to sales reps, all you need is an alert email
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} is a special token for alert emails. See [Use the Send Alert Info Token](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) to learn more.
+   >{{SP_Send_Alert_Info}} is a special token for alert emails. See [Use the Send Alert Info Token](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} to learn more.
 
 1. Click **Save**.
 
@@ -134,6 +134,6 @@ To automatically send alert emails to sales reps, all you need is an alert email
 
 <br>&nbsp;
 
-[◄ Mission 7: Personalize an Email](personalize-an-email.md)
+[◄ Mission 7: Personalize an Email](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 
-[Mission 9: Update Lead Data ►](update-person-data.md)
+[Mission 9: Update Person Data ►](/help/marketo/getting-started/quick-wins/update-person-data.md)

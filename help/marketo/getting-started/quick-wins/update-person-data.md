@@ -10,8 +10,8 @@ exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 
 >[!PREREQUISITES]
 >
->* [Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Import a List of People](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+>* [Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Import a List of People](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 Let's imagine that at your recent tradeshow, a person gave you some additional contact info. Here's how to update person data.  
 
@@ -35,7 +35,7 @@ Let's imagine that at your recent tradeshow, a person gave you some additional c
 
    >[!TIP]
    >
-   >There are lots of ways to update person data in Marketo. See [Import a List of People](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) and [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+   >There are lots of ways to update person data in Marketo. See [Import a List of People](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
 ## Update the Person Data {#update-the-person-data}
 

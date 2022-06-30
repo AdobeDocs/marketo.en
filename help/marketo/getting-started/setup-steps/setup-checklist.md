@@ -6,7 +6,7 @@ exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 ---
 # Setup Checklist {#setup-checklist}
 
-Welcome to Marketo! Feel free to use the following checklist as a visual to-do list to get things started. Details can be found in [Setup Steps](/help/marketo/getting-started/setup-steps.md).
+Welcome to Marketo! Feel free to use the following checklist as a visual to-do list to get things started. Details can be found in [Setup Steps](/help/marketo/getting-started/setup-steps.md){target="_blank"}.
 
 ## Log-in to Marketo and Create Additional Users {#log-in-to-marketo-and-create-additional-users}
 
@@ -44,4 +44,4 @@ Welcome to Marketo! Feel free to use the following checklist as a visual to-do l
 
 >[!MORELIKETHIS]
 >
->[Setup Steps](/help/marketo/getting-started/setup-steps.md)
+>[Setup Steps](/help/marketo/getting-started/setup-steps.md){target="_blank"}

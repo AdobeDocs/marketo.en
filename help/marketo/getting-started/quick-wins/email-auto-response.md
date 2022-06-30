@@ -10,8 +10,8 @@ exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 
 >[!PREREQUISITES]
 >
->* [Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>* [Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Step 1: Create an Email {#step-create-an-email}
 
@@ -69,7 +69,7 @@ exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   We're setting up this campaign to run whenever a person fills out the form you created in [**Landing Page with a Form**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
+   We're setting up this campaign to run whenever a person fills out the form you created in [**Landing Page with a Form**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}.
 
 1. Find and drag the **Fills Out Form** trigger to the left canvas.
 
@@ -109,7 +109,7 @@ exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 
 ## Step 3: Fill Out the Form {#step-fill-out-the-form}
 
-1. Select **My Page**. This was created in the [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) quick win.
+1. Select **My Page**. This was created in the [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} quick win.
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
@@ -135,4 +135,4 @@ Within just a few minutes you should see the auto response email in your inbox. 
 
 [◄ Mission 3: Simple Scoring](/help/marketo/getting-started/quick-wins/simple-scoring.md)
 
-[Mission 5: Import a List of Leads ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[Mission 5: Import a List of People ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)

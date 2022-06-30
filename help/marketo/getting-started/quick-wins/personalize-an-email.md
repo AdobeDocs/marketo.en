@@ -10,13 +10,13 @@ exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 
 >[!PREREQUISITES]
 >
->* [Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Send an Email Blast](/help/marketo/getting-started/quick-wins/send-an-email.md)
->* [Drip, Drip, Nurture](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+>* [Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Send an Email Blast](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}
+>* [Drip, Drip, Nurture](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"}
 
 ## Step 1: Select an Email to Personalize {#step-select-an-email-to-personalize}
 
-1. Select one of the nurture emails created in the [previous quick win](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) and click **Edit Draft**.
+1. Select one of the nurture emails created in the [previous quick win](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"} and click **Edit Draft**.
 
    ![](assets/one-4.png)
 
@@ -92,7 +92,7 @@ If you haven't enabled a pop-up blocker, the email editor will open in a new tab
 
 >[!TIP]
 >
->Need a quick refresher on how to send yourself the email? See [Send an Email Blast](/help/marketo/getting-started/quick-wins/send-an-email.md).
+>Need a quick refresher on how to send yourself the email? See [Send an Email Blast](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}.
 
 ### Mission Complete {#mission-complete}
 

@@ -3,7 +3,6 @@ unique-page-id: 11387674
 description: Updates to Marketo Terminology - Marketo Docs - Product Documentation
 title: Updates to Marketo Terminology
 ---
-
 # Updates to Marketo Terminology {#updates-to-marketo-terminology}
 
 We are making some changes to our platform, which will affect what some things are called. If you have a new Marketo instance as of March 2016, or if your company renewed after July 2016, you may be seeing the new terminology now.
@@ -103,7 +102,7 @@ Fields that contained the term Lead have either been substituted with Person, or
 
 >[!NOTE]
 >
->For a complete list of field names affected, please visit this [Support Article](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens).
+>For a complete list of field names affected, please visit this [Support Article](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
 
 ## Real-Time Personalization (RTP) is Now Web Personalization {#real-time-personalization-rtp-is-now-web-personalization}
 
@@ -132,11 +131,11 @@ Fields that contained the term Lead have either been substituted with Person, or
 
 In addition to the name change, it now consists of four separate apps:
 
-| ** [Web Personalization](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** |Has own tile on home screen |
+| **[Web Personalization](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** |Has own tile on home screen |
 |---|---|
-| ** [Account-Based Web Marketing](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** |Accessible via Web Personalization tile |
-| ** [Personalized Retargeting](https://docs.marketo.com/display/DOCS/Website+Retargeting)** |Accessible via Web Personalization tile |
-| ** [Predictive Content](https://docs.marketo.com/display/DOCS/Predictive+Content)** |Has own tile on home screen |
+| **[Account-Based Web Marketing](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** |Accessible via Web Personalization tile |
+| **[Personalized Retargeting](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** |Accessible via Web Personalization tile |
+| **[Predictive Content](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** |Has own tile on home screen |
 
 >[!NOTE]
 >

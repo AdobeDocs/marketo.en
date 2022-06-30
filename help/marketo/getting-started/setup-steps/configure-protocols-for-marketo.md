@@ -94,7 +94,7 @@ Your marketing team should have also sent you DKIM information to be added to yo
 
    `[DKIMDomain2]`: Host Record is `[HostRecord2]` and the TXT Value is `[TXTValue2]`.
 
-   Copy the HostRecord and TXTValue for each DKIMDomain you've setup after following the [instructions here](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Don't forget to verify each domain in Admin > Email > DKIM after your IT staff has completed this step.
+   Copy the HostRecord and TXTValue for each DKIMDomain you've setup after following the [instructions here](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. Don't forget to verify each domain in Admin > Email > DKIM after your IT staff has completed this step.
 
 ## Step 4: Set up MX Records for Your Domain {#step-set-up-mx-records-for-your-domain}
 

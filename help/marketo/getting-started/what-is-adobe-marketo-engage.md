@@ -37,10 +37,10 @@ You do not! It's easy to get started in Marketo Engage, and it will evolve with 
 
 ## Do I need to do any setup? {#do-i-need-to-do-any-setup}
 
-Yes, we made a [checklist of stuff to do](/help/marketo/getting-started/setup-steps/setup-checklist.md).  
+Yes, we made a [checklist of stuff to do](/help/marketo/getting-started/setup-steps/setup-checklist.md){target="_blank"}.  
 
 ## Do I have to wait until setup is finished to learn? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-Nope! We made a bunch of easy tutorials. [Get started here](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md). They should take about an hour. You can start any time.
+Nope! We made a bunch of easy tutorials. [Get started here](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}. They should take about an hour. You can start any time.
 
 Welcome to Marketo Engage! We're happy you're here.

@@ -12,8 +12,8 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 
 >[!PREREQUISITES]
 >
->* [Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Import a List of People](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+>* [Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Import a List of People](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 ## Step 1: Create an Engagement Program {#step-create-an-engagement-program}
 
@@ -51,7 +51,7 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 
    >[!NOTE]
    >
-   >Don't see the email editor? Your browser probably blocked the window. Enable pop-ups from [app.marketo.com](https://app.marketo.com) in your browser and click **Edit Draft** in the top menu bar.
+   >Don't see the email editor? Your browser probably blocked the window. Enable pop-ups from `app.marketo.com` in your browser and click **Edit Draft** in the top menu bar.
 
 1. Enter a subject.
 
@@ -153,10 +153,12 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 
    >[!NOTE]
    >
-   >Learn more about [Engagement Programs](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md).
+   >Learn more about [Engagement Programs](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}.
+
+## Mission Complete! {#mission-complete}
 
 <br>&nbsp;
 
-[◄ Mission 5: Import a List of Leads](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[◄ Mission 5: Import a List of People](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 [Mission 7: Personalize an Email ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)

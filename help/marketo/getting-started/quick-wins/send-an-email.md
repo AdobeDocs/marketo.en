@@ -10,7 +10,7 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
 
 >[!PREREQUISITES]
 >
->[Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
 ## Create an Email Program {#create-an-email-program}
 
@@ -54,7 +54,7 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
 
    >[!NOTE]
    >
-   >If your email doesn't auto-populate, you may have forgotten to [Get Set Up and Add a Lead.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+   >If your email doesn't auto-populate, you may have forgotten to [Get Set Up and Add a Lead.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
    >[!NOTE]
    >
@@ -102,7 +102,7 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
 
    >[!TIP]
    >
-   >Want to send yourself a quick sample to see how your email looks prior to launching? Select **Send Sample** in the menu above, or click **Email Actions** then [**Send Sample**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
+   >Want to send yourself a quick sample to see how your email looks prior to launching? Select **Send Sample** in the menu above, or click **Email Actions** then [**Send Sample**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}.
 
 1. Select the Email Program in the left tree.
 
@@ -118,7 +118,7 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
 
    >[!TIP]
    >
-   >Is the default time zone not yours? Learn how to [update it here](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md).
+   >Is the default time zone not yours? Learn how to [update it here](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}.
 
 1. Click **Approve Program** under the Approval tile and you're done!
 
@@ -126,8 +126,10 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
 
 You should receive the email shortly after the scheduled day/time.
 
+## Mission Complete! {#mission-complete}
+
 <br>&nbsp;
 
-[◄ Get Set Up and Add a Lead](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+[◄ Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-[Landing Page with a Form ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[Mission 2: Landing Page with a Form ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)

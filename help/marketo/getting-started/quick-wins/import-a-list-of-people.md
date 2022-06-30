@@ -10,13 +10,13 @@ exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 
 >[!PREREQUISITES]
 >
->[Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
 In this tutorial, you'll learn how to import people from a spreadsheet file into Marketo.
 
 ## Step 1: Download and Edit a Spreadsheet {#step-download-and-edit-a-spreadsheet}
 
-1. To start, download our practice spreadsheet file ([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)) to your computer.
+1. To start, download our practice spreadsheet file ([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"}) to your computer.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
@@ -56,7 +56,7 @@ In this tutorial, you'll learn how to import people from a spreadsheet file into
 
 >[!NOTE]
 >
->Event programs occur on specific dates. Learn more about [**Events**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
+>Event programs occur on specific dates. Learn more about [**Events**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
 
 ## Step 3: Import Your Spreadsheet into Marketo {#step-import-your-spreadsheet-into-marketo}
 
@@ -102,7 +102,7 @@ In this tutorial, you'll learn how to import people from a spreadsheet file into
 
    >[!TIP]
    >
-   >Column headers should always match the field exactly (case sensitive) in order to achieve the best auto-mapping results. If you're using custom fields and don't see them in the drop-down, go back and [create them](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) so they can become options.
+   >Column headers should always match the field exactly (case sensitive) in order to achieve the best auto-mapping results. If you're using custom fields and don't see them in the drop-down, go back and [create them](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} so they can become options.
 
    >[!NOTE]
    >
@@ -122,7 +122,7 @@ In this tutorial, you'll learn how to import people from a spreadsheet file into
 
 >[!NOTE]
 >
->You can analyze the success of your program by tracking program membership. Learn more about [**Programs**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
+>You can analyze the success of your program by tracking program membership. Learn more about [**Programs**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
 
 ## Mission Complete {#mission-complete}
 
