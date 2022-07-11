@@ -49,3 +49,7 @@ With this integration, you can send a Marketo audience to Google to be targeted 
    ![](assets/authorizesuccess.png)
 
    Awesome! You'll now see Google Matched Audiences listed as a LaunchPoint service in the Installed Services tab.
+
+>[!NOTE]
+>
+>The Google Customer Match integration can only accommodate one manager account and all sub accounts within that manager account. Multiple manager accounts is not supported.
