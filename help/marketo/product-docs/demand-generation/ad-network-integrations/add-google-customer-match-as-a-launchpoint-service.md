@@ -52,4 +52,4 @@ With this integration, you can send a Marketo audience to Google to be targeted 
 
 >[!NOTE]
 >
->The Google Customer Match integration can only accommodate one manager account and all sub accounts within that manager account. Multiple manager accounts are not supported.
+>The Google Customer Match integration can only accommodate one manager account and all sub accounts within that manager account. Multiple manager accounts is not supported.
