@@ -189,7 +189,7 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
  </tbody> 
 </table>
 
-1. lick **Save** when finished.
+1. Click **Save** when finished.
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
