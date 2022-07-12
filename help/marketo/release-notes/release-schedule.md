@@ -48,12 +48,12 @@ _Release dates are subject to change_
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">June '22</td>
    <td>June 24, 2022</td>
-   <td>In Progress</td>
+   <td>Shipped</td>
   </tr>
   <tr> 
    <td>August '22</td>
    <td>August 19, 2022</td>
-   <td>On Schedule</td>
+   <td>In Progress</td>
   </tr>
   <tr>
    <td>October '22</td>
