@@ -325,6 +325,10 @@ Example Usage:
 
 Modules are templatized sections defined at the template level that will show up for end users to insert into their email. Because you have pre-built these modules, you can ensure they will interact with the rest of your email content gracefully (in a fully responsive manner). You can only put a module in a container.
 
+>[!IMPORTANT]
+>
+>When an email is generated from an email template that contains defined module components, any changes made to the template's modules will **not** be pushed to said email.
+
 **For containers of type `<table>`, `<tbody>`, `<thead>`, or `<tfoot>`:**
 
 Specified using `<tr>` with class=”mktoModule”

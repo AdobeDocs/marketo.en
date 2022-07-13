@@ -289,8 +289,6 @@ And that's it! You should be able to see the Marketo Sales Insight fields for Le
 
 1. In Salesforce, click the **+** at the end of the tab bar and click **Marketo Sales Insight Config**.
 
-1. Select the **Enable Marketo API** checkbox.
-
 1. Copy the credentials from the Soap API panel in Marketo’s Sales Insight Admin page and paste them into the Soap API section of the Salesforce Sales Insight Configuration page.
 
 1. Copy the credentials from the Rest API panel in Marketo’s Sales Insight Admin page and paste them into the Rest API section of the Salesforce Sales Insight Configuration page.
