@@ -624,6 +624,8 @@ feature-set: Marketo Engage
         + [Edit an Event Channel](product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
         + [Event Partners](product-docs/demand-generation/events/understanding-events/event-partners.md)
         + [Understanding Event Programs](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
+        + [Setting an Event Cap](product-docs/demand-generation/events/understanding-events/setting-an-event-cap.md)
+        + [Setting Event Goals](product-docs/demand-generation/events/understanding-events/setting-event-goals.md)
       + Create an Event {#create-an-event}
         + [Create an Event with Adobe Connect](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
         + [Create an Event with GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
