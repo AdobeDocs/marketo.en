@@ -28,6 +28,10 @@ Add an additional branding domain when you're running multiple brands out of a s
 >
 >You can choose to make this your primary domain, and all existing unsent emails set to “Default” and all newly created emails will default to the primary domain. You will be able to [overwrite this on a per-email basis](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
 
+>[!NOTE]
+>
+>If the domain you add is listed as anything other than a CNAME, the ability to add further branded tracking domains will be locked out. You will need to edit any existing domain and ensure it is a CNAME record and not, say, an A record. The Add button dynamically checks for CNAMES and CNAMES only.
+
 >[!MORELIKETHIS]
 >
 >[Edit Your Default Branding Domain](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
