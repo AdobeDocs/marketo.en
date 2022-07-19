@@ -12,6 +12,16 @@ exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 >
 >**Admin Permissions Required**
 
+>[!IMPORTANT]
+>
+>The following roles are system roles and cannot be edited or deleted:
+>
+>* Admin
+>* Adobe Product Admin
+>* Standard User
+>* RTP Editor
+>* RTP Launcher
+
 ## Create a Role {#create-a-role}
 
 1. Go to **Admin** and click **Users & Roles**.
