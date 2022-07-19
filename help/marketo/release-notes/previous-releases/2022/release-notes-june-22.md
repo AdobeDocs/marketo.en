@@ -1,6 +1,7 @@
 ---
 description: Release Notes - June 2022 - Marketo Docs - Product Documentation
 title: Release Notes - June 2022
+exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 ---
 # Release Notes: June 2022 {#release-notes-june-22}
 
