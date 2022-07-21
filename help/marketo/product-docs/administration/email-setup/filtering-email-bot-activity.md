@@ -10,7 +10,6 @@ Sometimes, email bot activity can erroneously inflate your email opens and click
 We use three separate methods to confirm bot activity:
 
 * Match with [Interactive Advertisng Bureau bot list](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Activities that match with anything on the IAB UA/IP (User Agent/IP address) list will be marked as bots.
-* Match with hidden link UA/IPs: We add a hidden link to all emails and capture UA/IP clicks coming from them. Activities that match with these UA/IPs will be marked as bots.
 * Match with proximity pattern: When more than two activities happen at the same time (under two seconds), they're identified as bots.
 
 Against email link click and email open activity, new attribtues will be populated with the values below:
@@ -31,15 +30,15 @@ Against email link click and email open activity, new attribtues will be populat
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Click the **Enable Bot Activity Identification** slider to activate.
+1. Choose to **Match with IAB List**, **Match with Proximity Pattern**, or both.
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->You can separately choose whether or not to have bot activity logged. If you choose not to, you may see a drop in email opens and clicks as false numbers are filtered out.
+>You can choose to have bot activity filtered **or** logged. If you choose filtered, you may see a drop in email opens and clicks as false activities are weeded out
 
-**OPTIONAL STEP**: To disable the feature, simply deselect the slider. If you disable, the data does **not** reset.
+**OPTIONAL STEP**: To disable this feature, simply deselect the slider(s). If you disable, the data does not reset.
 
 >[!TIP]
 >
