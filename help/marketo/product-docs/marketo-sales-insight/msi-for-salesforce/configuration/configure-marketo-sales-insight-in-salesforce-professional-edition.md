@@ -12,7 +12,7 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
 >
 >* Install Marketo in your Salesforce Professional Edition.
 >
->* [Install Marketo Sales Insight Package in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [Install Marketo Sales Insight Package in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -263,40 +263,28 @@ Marketo person fields need to be mapped to Salesforce contact fields to ensure t
 
    ![](assets/image2014-9-24-17-3a37-3a17.png)
 
-## Marketo Sales Insight Config {#marketo-sales-insight-config}
+## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
 
-1. Click **+** and then select **Marketo Sales Insight Config**.
+1. In Salesforce, click the **+** at the end of the tab bar and click **Marketo Sales Insight Config**.
 
-   ![](assets/image2014-9-24-17-3a37-3a45.png)
+1. Copy the credentials from the Soap API panel in [Marketo’s Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} and paste them into the Soap API section of the Salesforce Sales Insight Configuration page.
 
-1. Check **Enable Marketo API**. Then fill in the [API Configuration info in Marketo Admin](#set-up-marketo-sales-insight). Click **Save Changes** when you are done.
+1. Copy the credentials from the Rest API panel in [Marketo’s Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} and paste them into the Rest API section of the Salesforce Sales Insight Configuration page.
 
-   ![](assets/image2014-9-24-17-3a38-3a0.png)
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
-   >[!NOTE]
-   >
-   >If the diagnostics test failed, you might need to [add more fields to your page layout](https://nation.marketo.com/docs/DOC-1115).
+And that’s it! You should be able to see the Marketo Sales Insight fields for Leads, Contacts, Accounts and Opportunities.
 
-And that's it! You should be able to see the Marketo Sales Insight fields for Leads, Contacts, Accounts and Opportunities.
-
-![](assets/twenty-six-1.png)
+>[!NOTE]
+>
+>If the diagnostics test failed, you might need to [add more fields to your page layout](https://nation.marketo.com/docs/DOC-1115){target="_blank"}.
 
 >[!NOTE]
 >
 >For accounts, Sales Insight will include all emails, but only the most recent interesting moments, web activity, and score changes.
 
-## Access Marketo Sales Insight {#access-marketo-sales-insight}
-
-1. In Salesforce, click the **+** at the end of the tab bar and click **Marketo Sales Insight Config**.
-
-1. Copy the credentials from the Soap API panel in Marketo’s Sales Insight Admin page and paste them into the Soap API section of the Salesforce Sales Insight Configuration page.
-
-1. Copy the credentials from the Rest API panel in Marketo’s Sales Insight Admin page and paste them into the Rest API section of the Salesforce Sales Insight Configuration page.
-
-   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
-
 >[!MORELIKETHIS]
 >
->* [Priority, Urgency, Relative Score, and Best Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Add Marketo Tab to Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+>* [Priority, Urgency, Relative Score, and Best Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md){target="_blank"}
+>* [Add Marketo Tab to Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md){target="_blank"}
 >* [Add Sales Insight Access to Profiles](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

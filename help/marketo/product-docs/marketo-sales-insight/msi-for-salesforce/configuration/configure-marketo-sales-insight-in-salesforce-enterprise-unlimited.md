@@ -283,39 +283,27 @@ Marketo person fields need to be mapped to Salesforce contact fields to ensure t
 
 1. Click **Save** when you’re done.
 
-## Marketo Sales Insight Config {#marketo-sales-insight-config}
-
-1. Click **+** and then select **Marketo Sales Insight Config**.
-
-   ![](assets/image2014-9-24-17-3a37-3a45.png)
-
-1. Check **Enable Marketo API**. Then fill in the [API Configuration info in Marketo Admin](#set-up-marketo-sales-insight). Click **Save Changes** when you're done.
-
-   ![](assets/image2014-9-24-17-3a38-3a0.png)
-
-   >[!NOTE]
-   >
-   >If the diagnostics test failed, you might need to [add more fields to your page layout](https://nation.marketo.com/docs/DOC-1115).
-
-And that's it! You should be able to see the Marketo Sales Insight fields for Leads, Contacts, Accounts and Opportunities.
-
-![](assets/twenty-six.png)
-
->[!NOTE]
->
->For accounts, Sales Insight will include all emails, but only the most recent interesting moments, web activity, and score changes.
-
-## Access Marketo Sales Insight {#access-marketo-sales-insight}
+## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
 
 1. In Salesforce, click the **+** at the end of the tab bar and click **Marketo Sales Insight Config**.
 
 1. Select the **Enable Marketo API** checkbox.
 
-1. Copy the credentials from the Soap API panel in Marketo’s Sales Insight Admin page and paste them into the Soap API section of the Salesforce Sales Insight Configuration page.
+1. Copy the credentials from the Soap API panel in [Marketo’s Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} and paste them into the Soap API section of the Salesforce Sales Insight Configuration page.
 
-1. Copy the credentials from the Rest API panel in Marketo’s Sales Insight Admin page and paste them into the Rest API section of the Salesforce Sales Insight Configuration page.
+1. Copy the credentials from the Rest API panel in [Marketo’s Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} and paste them into the Rest API section of the Salesforce Sales Insight Configuration page.
 
    ![](assets/access-msi.png)
+
+And that’s it! You should be able to see the Marketo Sales Insight fields for Leads, Contacts, Accounts and Opportunities.
+
+>[!NOTE]
+>
+>If the diagnostics test failed, you might need to [add more fields to your page layout](https://nation.marketo.com/docs/DOC-1115){target="_blank"}.
+
+>[!NOTE]
+>
+>For accounts, Sales Insight will include all emails, but only the most recent interesting moments, web activity, and score changes.
 
 >[!MORELIKETHIS]
 >
