@@ -8,7 +8,7 @@ exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 
 >[!NOTE]
 >
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in docs.marketo.com. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
+>Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in our docs. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
 
 >[!NOTE]
 >

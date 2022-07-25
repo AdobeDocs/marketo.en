@@ -36,7 +36,9 @@ Against email link click and email open activity, new attribtues will be populat
 
 >[!NOTE]
 >
->You can choose to have bot activity filtered **or** logged. If you choose filtered, you may see a drop in email opens and clicks as false activities are weeded out
+>* You can choose to have bot activity filtered **or** logged. If you choose filtered, you may see a drop in email opens and clicks as false activities are weeded out.
+>
+>* Only “Log Bot Activity” is available for "Match with Proximity Pattern" at this time.
 
 **OPTIONAL STEP**: To disable this feature, simply deselect the slider(s). If you disable, the data does not reset.
 

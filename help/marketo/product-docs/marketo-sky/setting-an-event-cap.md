@@ -16,6 +16,10 @@ Limit the amount of people who can register for your event with an event cap.
 >[!IMPORTANT]
 >You must have at least two approved landing pages (a Registration page and a Registration Full page) in the program before you can set an event cap.
 
+>[!NOTE]
+>
+>To free up space in an event, the program member must be removed (you can do this by updating their status to "Not in Program").
+
 1. Select your event program.
 
    ![Image One](assets/setting-an-event-cap-1.png)
