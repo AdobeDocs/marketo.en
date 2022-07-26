@@ -27,6 +27,11 @@ The following features will start to be released on **August 19, 2022**, with a 
 
 * **Display Folder Hierarchy of Destination Folder in the Move Dialog**: Viewing the folder hierarchy for each folder makes moving assets easier and reduces the likelihood of putting them in the wrong folder.
 
+* **Updated Screens in the Next-Generation Experience**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
+
+  * "Images and Files" Details
+  * Snippet Details
+
 >[!NOTE]
 >
 >The exception is moving an asset to a folder within a program in Marketing Activities. This move action will not display the folder hierarchy as folders within a program cannot have duplicate names.
