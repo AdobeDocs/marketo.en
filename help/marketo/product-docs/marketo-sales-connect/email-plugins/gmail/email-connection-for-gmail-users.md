@@ -8,6 +8,10 @@ exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 
 Connecting to Gmail means you'll receive reply tracking, access to the Gmail delivery channel, the ability to schedule emails in Gmail, and send compliance.
 
+>[!CAUTION]
+>
+>If you're [using filters](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} or rules in your Gmail account to automatically mark emails as read, this can cause issues with reply tracking. We recommend disabling any rules that automatically mark emails as read when using reply tracking with Gmail.
+
 1. In Sales Connect, click the gear icon and select **Settings**.
 
    ![](assets/one.png)
