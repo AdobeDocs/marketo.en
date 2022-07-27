@@ -51,7 +51,7 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. Enter a Destination **Name** and an optional Description. Click the Person Creation drop-down and choose "Match Existing Marketo People and Create Missing People in Marketo" _or_ "Match Existing Marketo People Only." In this example we're choosing the former.
+1. Enter a Destination **Name** and an optional Description. Click the Person Creation drop-down and choose "Match Existing Marketo People and Create Missing People in Marketo" _or_ "Match Existing Marketo People Only." In this example we're choosing the former. You can also optionally choose a workspace, or just go with the default.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
@@ -87,9 +87,13 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. Map First Name by selecting **firstName** and clicking **Select**.
+1. Choose your desired attribute(s) and click **Select**. In this example, we're choosing first name, last name, and email address.
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
+
+   >[!NOTE]
+   >
+   >You can map attributes from Experience Platform to any of the attributes that your organization has access to in Marketo Engage. Use the [Describe API request](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target="_blank"} to retrieve attribute fields that your organization has access to.
 
 1. Map the Last Name and Company Name by clicking **Add New Mapping** again and repeating Step 15 twice, choosing **lastName** and then **companyName**.
 
@@ -135,22 +139,6 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. You will now need your list's ID. Click the tab in your browser that has your Marketo static list open (or open a new tab and select your desired static list).
+1. Review your changes and click **Finish**.
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
-
-   >[!NOTE]
-   >
-   >For best results, use an empty Marketo Engage list.
-
-1. Highlight and copy the list ID at the end of the URL.
-
-   ![](assets/push-an-adobe-experience-platform-segment-27.png)
-
-1. Paste the ID you just copied under Mapping ID and click **Next**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-28.png)
-
-1. Click **Finish**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-29.png)
