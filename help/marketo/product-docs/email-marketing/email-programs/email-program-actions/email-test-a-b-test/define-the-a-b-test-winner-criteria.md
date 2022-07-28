@@ -21,7 +21,7 @@ When [adding an A/B test](/help/marketo/product-docs/email-marketing/email-progr
    <table>
    <tr>
    <td><b>Opens</b></td>
-   <td>An open registers when images are downloaded into an email. Even if you don't include an image, by default Marketo inserts a single tracking pixel into all HTML emails.</td?>
+   <td>An open registers when images are downloaded into an email. Even if you don't include an image, by default Marketo inserts a single tracking pixel into all HTML emails.</td>
    </tr>
    <tr>
    <td><b>Clicks</b></td>
