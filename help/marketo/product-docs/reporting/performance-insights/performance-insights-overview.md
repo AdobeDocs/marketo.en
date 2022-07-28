@@ -8,6 +8,10 @@ exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 
 Marketo Performance Insights helps you optimize your channel mix for maximum effectiveness, as well as uncover long-term trends to spot consistent winning strategies.
 
+>[!AVAILABILITY]
+>
+>Not all customers have purchased this feature. Please contact your Customer Success Manager for details.
+
 Performance Insights loads data from (up to) the previous 24 months. This includes current year-to-date data, as well as the previous year's. So for example, on January 31, 2019 , MPI will load data from that month, and every month from 2018. On December 31, 2019, MPI will load data from every month of 2019 and 2018.
 
 To access Performance Insights, click its icon on the Analytics home screen.

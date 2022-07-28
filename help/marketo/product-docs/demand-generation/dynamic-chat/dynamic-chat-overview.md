@@ -165,4 +165,14 @@ When you update the language, everything in the app itself changes except for th
   <td>Amount of time meeting booking activity will be stored in Dynamic Chat</td>
   <td>24 months</td>
  </tr>
+ <tr>
+  <td>Conversations Engaged</td>
+  <td>Number of chat conversations that can be engaged with by web visitors per day</td>
+  <td>1,000</td>
+ </tr>
+ <tr>
+  <td>Conversations Triggered</td>
+  <td>Number of chat conversations that can be shown to web visitors per day</td>
+  <td>25,000</td>
+ </tr>
 </table>
