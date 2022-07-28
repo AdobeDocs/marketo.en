@@ -16,6 +16,8 @@ Learn more about the Dynamic Chat integration with Sales Insight.
 
 ## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
 
+Follow the steps below to to enable the Dynamic Chat integration.
+
 1. Log in to your Salesforce account, click the + at the end of the tab bar and click **Marketo Sales Insight Config**.
 
 1. Click to unfurl the “Visualforce Panel.”
@@ -28,7 +30,7 @@ Learn more about the Dynamic Chat integration with Sales Insight.
 
 ## Feature Overview {#feature-overview}
 
-The Dynamic Chat activities below can be leveraged by Sales Insight users.
+The following Dynamic Chat activities can be leveraged by Sales Insight users...
 
 Engaged Dialogue: Logged in Marketo and populated in Sales Insight when a visitor clicks on a chatbot and engages with the Dialogue.
 
@@ -76,4 +78,4 @@ Again, you can learn more about an activity type by clicking on it.
 
 >[!NOTE]
 >
->"Interacted with Document" activity will be available in MSI in an upcoming release.
+>The "Interacted with Document" activity will be available in MSI in an upcoming release.
