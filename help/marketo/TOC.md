@@ -1442,6 +1442,7 @@ feature-set: Marketo Engage
       + Features {#features}
         + [MSI Feature Overview](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
         + [Insights Dashboard Feature Overview](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+        + [Dynamic Chat Integration](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
         + [Send an Email to Multiple Records in Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
         + Actions in the MSI Panel {#actions-in-the-msi-panel}
           + [Choose an Action in Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
