@@ -9,7 +9,7 @@ There are _many_ stream combinations possible. This article contains an example 
 
 >[!PREREQUISITES]
 >
->Before you can use the Document card, you must first [set it up](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md){target="_blank"} in your Adobe account.
+>Before you can use the Document card, you must first [set it up](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"} in your Adobe account.
 
 ## Stream Designer Cards {#stream-designer-cards}
 
