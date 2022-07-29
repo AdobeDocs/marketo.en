@@ -161,4 +161,4 @@ The stream designer contains multiple cards you can add to shape the chat conver
 >* [Create a Dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
 >* [Audience Criteria](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 >* [Reports](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
->* [Using the Document Card](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md){target="_blank"}
+>* [Using the Document Card](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}
