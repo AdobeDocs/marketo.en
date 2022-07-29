@@ -606,16 +606,17 @@ feature-set: Marketo Engage
     + Dynamic Chat {#dynamic-chat}
       + [Dynamic Chat Overview](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
       + [Initial Setup](product-docs/demand-generation/dynamic-chat/initial-setup.md)
-      + [Connect Dynamic Chat to Marketo](product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
       + [Add or Remove Chat Users](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
       + [Configuration](product-docs/demand-generation/dynamic-chat/configuration.md)
       + [Dynamic Chat Activities](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+      + Integrations {#integrations}
+        + [Connect Dynamic Chat to Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
+        + [Using the Document Card](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
       + Dialogues {#dialogues}
         + [Dialogue Overview](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
         + [Create a Dialogue](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
         + [Audience Criteria](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
         + [Stream Designer](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
-        + [Using the Document Card](product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md)
         + [Reports](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
     + Events {#events}
       + Understanding Events {#understanding-events}
