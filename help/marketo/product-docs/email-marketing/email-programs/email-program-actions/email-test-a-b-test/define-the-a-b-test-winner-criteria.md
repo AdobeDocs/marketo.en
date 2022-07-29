@@ -57,9 +57,9 @@ When [adding an A/B test](/help/marketo/product-docs/email-marketing/email-progr
 
    ![](assets/image2014-9-12-15-3a53-3a11.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >Marketo will only allow triggers for people who have been sent the email from this email program. No need to add a "Was Sent Email" filter.
+   >Marketo only allows triggers/filters for people who have been sent the email from this email program, so there's no need to add a 'Was Sent Email' filter. Additionally, when using an email-related trigger/filter, be sure to use "is any" as the operator.
 
 1. Click **Close**.
 
