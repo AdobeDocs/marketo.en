@@ -35,4 +35,8 @@ Continuing our example, let's define these filters to find all people in Califor
 
    ![](assets/smartlistfilter-personscore.png)
 
-   Congratulations! You now know how to create a smart list and add/define filters.
+>[!TIP]
+>
+>If you think you may have some records in your database that contain incomplete email addresses (e.g., just "@adobe.com"), use **two** Email Address filters when you're using the "contains" operator. One filter with "contains @adobe.com," and a separate filter with "contains adobe.com" (leaving out the @ symbol).
+
+You now know how to create a smart list and add/define filters.

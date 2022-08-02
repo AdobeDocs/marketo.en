@@ -8,17 +8,21 @@ exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 
 Predictive content engages your web visitors with the most relevant content, powered by machine learning and predictive analytics. With Web Rich Media, you can enhance your content with text descriptions and images and embed multiple predictive content recommendations on your website.
 
+>[!NOTE]
+>
+>It's recommended that you enable over five pieces of content per category and per source (email, rich media, bar) before testing and using Predictive Content. More content gives you a better predictive outcome.
+
 >[!PREREQUISITES]
 >
 >Before enabling Predictive Content, you must:
 >
 >* **Prepare your Predictive Content**
 >
->   * [Edit Predictive Content for Emails](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) or
->   * [Edit Predictive Content for Rich Media](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) or
->   * [Edit Predictive Content for the Recommendation Bar](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>   * [Edit Predictive Content for Emails](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} or
+>   * [Edit Predictive Content for Rich Media](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} or
+>   * [Edit Predictive Content for the Recommendation Bar](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
 >
->* [Approve a Title for Predictive Content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
+>* [Approve a Title for Predictive Content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
 
 Once you've prepared the content title, description and image for Rich Media, you can enable individual or multiple content pieces.
 
@@ -36,7 +40,7 @@ Once you've prepared the content title, description and image for Rich Media, yo
 
 ## Customize the Javascript Code and Embed it into your Website  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Refer to the documentation for the Rich Media Recommendation template [on the Marketo Developers site.](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)This explains how to customize the template for your website.
+Refer to the documentation for the Rich Media Recommendation template [on the Marketo Developers site](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api){target="_blank"}. This explains how to customize the template for your website.
 
 Paste the JavaScript code into your website in the location where you want the template to appear.
 
