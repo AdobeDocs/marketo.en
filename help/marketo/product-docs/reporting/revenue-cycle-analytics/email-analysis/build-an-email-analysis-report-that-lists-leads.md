@@ -6,11 +6,11 @@ exl-id: f431610c-6570-4df0-9d64-d37d21010604
 ---
 # Build an Email Analysis Report that Lists Leads {#build-an-email-analysis-report-that-lists-leads}
 
+Follow these steps to create an Email Analysis report that will show you every lead that was sent a specific Email, this report will also include Click and Open stats.
+
 >[!AVAILABILITY]
 >
 >Not all customers have purchased this functionality. Contact your Customer Success Manager for details.
-
-Follow these steps to create an Email Analysis report that will show you every lead that was sent a specific Email, this report will also include Click and Open stats.
 
 >[!NOTE]
 >

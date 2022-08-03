@@ -11,7 +11,7 @@ Below you'll find all the features included in the August '22 release. Check you
 >
 >Features denoted by a star (![star](assets/yellow-star.png)) are paid add-ons. Please contact your Marketo Engage representative to learn more.
 
-The following features will start to be released on **August 19, 2022**, with a phased rollout of remaining features over the subsequent weeks (unless specified otherwise). Release features and exact dates are subject to change.
+The following features will start to be released on **August 26, 2022**, with a phased rollout of remaining features over the subsequent weeks (unless specified otherwise). Release features and exact dates are subject to change.
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
@@ -58,8 +58,14 @@ The following features will start to be released on **August 19, 2022**, with a 
 
 * **New Filtering Capabilities for Bulk Program Member Extract API**: Filter by program membership status, updatedAt, cadence, or exhausted content to refine extracted data set.
 
+## Sales Insight {#sales-insight}
+
+![(star)](assets/yellow-star.png)
+
+* **Sales Insight Integration with Dynamic Chat**: View activities from Dynamic Chat in the Sales Insight panel and leverage this new data point in your prospecting effort.
+
 ## Announcements {#announcements}
 
 **_Product Release Webinar_**
 
-Join us on Aug 24th, 2022, at 9:00 AM PT / 12:00 PM ET for a [live webinar](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html){target="_blank"} hosted by our Product Team where you can learn how to use all the latest product innovations.
+Join us on August 24th, 2022, at 9:00 AM PT / 12:00 PM ET for a [live webinar](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html){target="_blank"} hosted by our Product Team where you can learn how to use all the latest product innovations.
