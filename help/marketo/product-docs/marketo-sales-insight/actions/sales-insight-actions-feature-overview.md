@@ -13,6 +13,10 @@ Accelerate prospecting efforts with marketing-powered intelligence and engagemen
 
    ![](assets/sales-insight-actions-feature-overview-1.png)
 
+>[!NOTE]
+>
+>For a video overview of Sales Insight Actions, [click here](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
+
 ## Lead Layout and Contact Layout {#lead-layout-and-contact-layout}
 
 The following actions are available from the “Choose Actions” drop down in the top nav:
