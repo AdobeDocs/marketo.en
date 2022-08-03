@@ -11,11 +11,11 @@ Accelerate prospecting efforts with marketing-powered intelligence and engagemen
 >
 >This feature is currently in a phased rollout. Please reach out to your Customer Success Manager or email `sales-insights(at)adobe(dot)com` to request access.
 
-   ![](assets/sales-insight-actions-feature-overview-1.png)
-
 >[!NOTE]
 >
 >For a video overview of Sales Insight Actions, [click here](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
+
+   ![](assets/sales-insight-actions-feature-overview-1.png)
 
 ## Lead Layout and Contact Layout {#lead-layout-and-contact-layout}
 

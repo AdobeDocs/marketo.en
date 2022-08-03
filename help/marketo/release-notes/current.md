@@ -58,8 +58,6 @@ The following features will start to be released on **August 19, 2022**, with a 
 
 * **New Filtering Capabilities for Bulk Program Member Extract API**: Filter by program membership status, updatedAt, cadence, or exhausted content to refine extracted data set.
 
-* **Expose API-Only User in Web Services Error Notifications**: See which API-Only User generated a Web Services error to improve troubleshooting.
-
 ## Announcements {#announcements}
 
 **_Product Release Webinar_**

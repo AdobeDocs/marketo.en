@@ -8,9 +8,13 @@ exl-id: f431610c-6570-4df0-9d64-d37d21010604
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all customers have purchased this functionality. Contact your Customer Success Manager for details.
 
 Follow these steps to create an Email Analysis report that will show you every lead that was sent a specific Email, this report will also include Click and Open stats.
+
+>[!NOTE]
+>
+>The data engine backing Email Analysis RCA ignores greater than 12 clicks per person if they came from same email and campaign. Please take this into account when comparing Email Analysis reports to standard Marketo Analytics reporting.
 
 1. Launch **Revenue Explorer**.
 

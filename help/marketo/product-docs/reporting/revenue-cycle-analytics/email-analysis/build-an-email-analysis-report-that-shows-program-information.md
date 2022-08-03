@@ -10,15 +10,15 @@ Follow these steps to create an Email Analysis Report that will show email infor
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all customers have purchased this functionality. Contact your Customer Success Manager for details.
 
 1. Launch **Revenue Explorer**.
 
-   ![](assets/image2014-9-17-19-3a42-3a26.png)
+   ![](assets/report-that-shows-program-information-1.png)
 
-1. Click on **New Report**.
+1. Click **Create New** and select **Report**.
 
-   ![](assets/image2014-9-17-19-3a42-3a32.png)
+   ![](assets/report-that-shows-program-information-2.png)
 
 1. Select **Email Analysis** area and click **OK**.
 
