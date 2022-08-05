@@ -29,8 +29,8 @@ The following features will start to be released on **August 26, 2022**, with a 
 
 * **Updated Screens in the Next-Generation Experience**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
 
-  * "Images and Files" Details
   * Snippet Details
+  * "Images and Files" Details
 
 >[!NOTE]
 >
