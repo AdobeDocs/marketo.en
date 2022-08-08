@@ -130,5 +130,20 @@ The following table covers all Marketo Engage servers that make outbound calls. 
    <tr>
    <td>199.15.212.0/22</td>
   </tr>
+   <tr>
+   <td>185.28.196.0/22</td>
+  </tr>
+   <tr>
+   <td>130.248.172.0/24</td>
+  </tr>
+   <tr>
+   <td>130.248.173.0/24</td>
+  </tr>
+  <tr>
+   <td>103.237.104.0/22</td>
+  </tr>
+  <tr>
+   <td>94.236.119.0/26</td>
+  </tr>
  </tbody>
 </table>
