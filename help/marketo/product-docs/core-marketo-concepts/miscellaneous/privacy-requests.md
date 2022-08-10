@@ -5,7 +5,7 @@ exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
 ---
 # Privacy Requests {#privacy-requests}
 
-This document provides an overview of managing individual data privacy requests that you can send to Marketo Engage through the Privacy Service UI and the **Privacy Service API**.
+This document provides an overview of managing individual data privacy requests that you can send to Marketo Engage through the Privacy Service UI and the Privacy Service API.
 
 >[!NOTE]
 >
@@ -13,10 +13,10 @@ This document provides an overview of managing individual data privacy requests 
 
 You can submit individual requests to access and delete consumer data from Marketo Engage in two ways:
 
-* Through the [Privacy Service UI](https://privacyui.cloud.adobe.io/). See the documentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"}.
-* Through the **Privacy Service API**. See the documentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} and API information [here](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
+* Through the [Privacy Service UI](https://privacyui.cloud.adobe.io/). See the documentation [here](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target="_blank"}.
+* Through the Privacy Service API. See the documentation [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} and API information [here](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-The [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} supports two types of requests: data access and data deletion.
+The [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} supports two types of requests: data access and data deletion.
 
 Let’s see how you can create Access and Delete requests.
 
