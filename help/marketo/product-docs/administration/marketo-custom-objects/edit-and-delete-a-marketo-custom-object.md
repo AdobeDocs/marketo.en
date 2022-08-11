@@ -26,13 +26,9 @@ Use the Custom Object Actions menu to edit or delete a custom object.
 
    ![](assets/image2015-9-23-11-3a37-3a44.png)
 
-   >[!NOTE]
-   >
-   >Edit Object shows the same fields as Create Object, except for the API name, which can't be edited.
+1. Make your desired changes. Drag the slider over if you want to show the object on the Lead Detail page. Click **Save**.
 
-1. Make any changes. Drag the slider over if you want to show the object on the Lead Detail page. Click **Save**.
-
-   ![](assets/image2015-9-15-16-3a48-3a39.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
 1. Be sure to approve [the edited object](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
 
