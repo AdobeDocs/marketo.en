@@ -1,8 +1,6 @@
 ---
 description: Chatbot Behavior - Marketo Docs - Product Documentation
 title: Chatbot Behavior
-hide: yes
-hidefromtoc: yes
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
 ---
 # Chatbot Behavior {#chatbot-behavior}
@@ -39,8 +37,8 @@ The following are different possible scenarios outling the Chatbot's expected be
 <table>
   <tr>
       <th>Scenario</th>
-      <th>Expected Chatbot Behaviour</th>
-      <th>Backend action</th>
+      <th>Expected Chatbot Behavior</th>
+      <th>Backend Action</th>
     </tr>
     <tr>
       <td>
@@ -48,9 +46,9 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 visits WP1</p>
       </td>
       <td>
-        <p>D1 should be resolved to V1 </p>
+        <p>D1 will be resolved to V1 </p>
       </td>
-      <td>The trigger count for D1 should be increased by 1</td>
+      <td>The trigger count for D1 will be increased by 1</td>
     </tr>
     <tr>
       <td>
@@ -59,11 +57,11 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 refreshes WP1</p>
       </td>
       <td>
-        <p>D1 should be resolved to V1</p>
-        <p>After refresh, D1 should be resolved again</p>
+        <p>D1 will be resolved to V1</p>
+        <p>After refresh, D1 will be resolved again</p>
       </td>
       <td>
-        <p>The trigger count for D1 should be increased by 1</p>
+        <p>The trigger count for D1 will be increased by 1</p>
         <p>After refresh, no change to D1 trigger or engagement count</p>
       </td>
     </tr>
@@ -73,9 +71,9 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 visits WP1 for the first time</p>
         <p>V1 clicks on D1 but did not respond</p>
       </td>
-      <td>D1 should be resolved to V1</td>
+      <td>D1 will be resolved to V1</td>
       <td>
-        <p>The trigger count for D1 should be increased by 1</p>
+        <p>The trigger count for D1 will be increased by 1</p>
         <p>No change to D1 engagement count</p>
       </td>
     </tr>
@@ -85,10 +83,10 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 visits WP1 for the first time</p>
         <p>V1 clicks on D1 and provides the first response</p>
       </td>
-      <td>D1 should be resolved to V1</td>
+      <td>D1 will be resolved to V1</td>
       <td>
-        <p>The trigger count for D1 should be increased by 1</p>
-        <p>The engagement count for D1 should be increased by 1</p>
+        <p>The trigger count for D1 will be increased by 1</p>
+        <p>The engagement count for D1 will be increased by 1</p>
       </td>
     </tr>
     <tr>
@@ -99,11 +97,11 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 refreshes WP1</p>
       </td>
       <td>
-        <p>D1 should be resolved to V1</p>
-        <p>After refresh, D1 should be continued</p>
+        <p>D1 will be resolved to V1</p>
+        <p>After refresh, D1 will be continued</p>
       </td>
       <td>
-        <p>The trigger count and engagement count for D1 should be increased by 1</p>
+        <p>The trigger count and engagement count for D1 will be increased by 1</p>
         <p>After refresh, no change to any count</p>
       </td>
     </tr>
@@ -115,12 +113,12 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 refreshes WP1</p>
       </td>
       <td>
-        <p>D1 should be resolved to V1</p>
-        <p>After refresh, no dialogue or next dialogue should be resolved for V1</p>
+        <p>D1 will be resolved to V1</p>
+        <p>After refresh, no dialogue or next dialogue will be resolved for V1</p>
       </td>
       <td>
-        <p>The trigger count, engagement count, and completed count for D1 should be increased by 1</p>
-        <p>After refresh, no dialogue or next dialogue should be resolved</p>
+        <p>The trigger count, engagement count, and completed count for D1 will be increased by 1</p>
+        <p>After refresh, no dialogue or next dialogue will be resolved</p>
       </td>
     </tr>
     <tr>
@@ -131,11 +129,11 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 visits WP2</p>
       </td>
       <td>
-        <p>Page visit WP1, D1 should be resolved to V1</p>
-        <p>Page visit WP2, D1 should be resolved to V2</p>
+        <p>Page visit WP1, D1 will be resolved to V1</p>
+        <p>Page visit WP2, D1 will be resolved to V2</p>
       </td>
       <td>
-        <p>The trigger count for D1 should be increased by 1</p>
+        <p>The trigger count for D1 will be increased by 1</p>
         <p>In WP2, no change to D1 trigger count</p>
       </td>
     </tr>
@@ -147,11 +145,11 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 visits WP2</p>
       </td>
       <td>
-        <p>Page visit WP1, D1 should be resolved to V1</p>
-        <p>Page visit WP2, D1 should be resolved to V1</p>
+        <p>Page visit WP1, D1 will be resolved to V1</p>
+        <p>Page visit WP2, D1 will be resolved to V1</p>
       </td>
       <td>
-        <p>The trigger count and engagement count for D1 should be increased by 1</p>
+        <p>The trigger count and engagement count for D1 will be increased by 1</p>
         <p>In WP2, no change to any count</p>
       </td>
     </tr>
@@ -164,11 +162,11 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 visits WP2</p>
       </td>
       <td>
-        <p>D1 should be resolved on WP1</p>
-        <p>D1 should continue to V1 on WP2</p>
+        <p>D1 will be resolved on WP1</p>
+        <p>D1 will continue to V1 on WP2</p>
       </td>
       <td>
-        <p>The trigger count and engagement count for D1 should be increased by 1</p>
+        <p>The trigger count and engagement count for D1 will be increased by 1</p>
         <p>No change to D2 trigger or engagement count</p>
       </td>
     </tr>
@@ -180,11 +178,11 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 clicks on D1 but did not respond </p>
         <p>V1 visits WP2</p>
       </td>
-      <td>D1 should be resolved on WP1<br/>
-      D2 should be resolved on WP2</td>
+      <td>D1 will be resolved on WP1<br/>
+      D2 will be resolved on WP2</td>
       <td>
-        <p>The trigger count for D1 should be increased by 1</p>
-        <p>The trigger count for D2 should be increased by 1</p>
+        <p>The trigger count for D1 will be increased by 1</p>
+        <p>The trigger count for D2 will be increased by 1</p>
       </td>
     </tr>
     <tr>
@@ -195,10 +193,10 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 clicks on D1 and completes D1</p>
         <p>V1 visits WP2</p>
       </td>
-      <td>D1 should be resolved on WP1 and on post-completion<br/>D2 should be resolved on WP2</td>
+      <td>D1 will be resolved on WP1 and on post-completion<br/>D2 will be resolved on WP2</td>
       <td>
-        <p>The trigger count, engagement count, and completed count for D1 should be increased by 1</p>
-        <p>The trigger count for D2 should be increased by 1</p>
+        <p>The trigger count, engagement count, and completed count for D1 will be increased by 1</p>
+        <p>The trigger count for D2 will be increased by 1</p>
       </td>
     </tr>
     <tr>
@@ -210,10 +208,10 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 visits WP2</p>
         <p>V1 clicks on D2 provides the first response </p>
       </td>
-      <td>D1 should be resolved on WP1 and on post-completion<br/>D2 should be resolved on WP2</td>
+      <td>D1 will be resolved on WP1 and on post-completion<br/>D2 will be resolved on WP2</td>
       <td>
-        <p>The trigger count, engagement count, and completed count for D1 should be increased by 1</p>
-        <p>The trigger and engagement count for D2 should be increased by 1</p>
+        <p>The trigger count, engagement count, and completed count for D1 will be increased by 1</p>
+        <p>The trigger and engagement count for D2 will be increased by 1</p>
       </td>
     </tr>
     <tr>
@@ -223,9 +221,9 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 clicks on D1 but did not respond</p>
         <p>D1 is unpublished</p>
       </td>
-      <td>D1 should be resolved to V1</td>
+      <td>D1 will be resolved to V1</td>
       <td>
-        <p>The trigger count for D1 should be increased by 1</p>
+        <p>The trigger count for D1 will be increased by 1</p>
         <p>No change to the D1 engagement count</p>
       </td>
     </tr>
@@ -238,11 +236,11 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 refreshes WP1</p>
       </td>
       <td>
-        <p>D1 should be resolved to V1 for the first time</p>
-        <p>After refresh, no dialogue should be resolved</p>
+        <p>D1 will be resolved to V1 for the first time</p>
+        <p>After refresh, no dialogue will be resolved</p>
       </td>
       <td>
-        <p>The trigger count for D1 should be increased by 1</p>
+        <p>The trigger count for D1 will be increased by 1</p>
         <p>No change to the D1 engagement count</p>
         <p>After refresh, no change to the D1 trigger or engagement count</p>
       </td>
@@ -256,12 +254,12 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 refreshes WP1</p>
       </td>
       <td>
-        <p>D1 should be resolved to V1</p>
-        <p>After refresh, D1 should be continued</p>
+        <p>D1 will be resolved to V1</p>
+        <p>After refresh, D1 will be continued</p>
       </td>
       <td>
-        <p>The trigger count for D1 should be increased by 1</p>
-        <p>D1 engagement count should be increased by 1</p>
+        <p>The trigger count for D1 will be increased by 1</p>
+        <p>D1 engagement count will be increased by 1</p>
         <p>After refresh, as D1 will be continued no further change to trigger or engagement count</p>
       </td>
     </tr>
@@ -274,11 +272,11 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 refreshes WP1</p>
       </td>
       <td>
-        <p>D1 should be resolved to V1 for the first time</p>
-        <p>After refresh, dialogue with new changes should be resolved</p>
+        <p>D1 will be resolved to V1 for the first time</p>
+        <p>After refresh, dialogue with new changes will be resolved</p>
       </td>
       <td>
-        <p>The trigger count for D1 should be increased by 1</p>
+        <p>The trigger count for D1 will be increased by 1</p>
         <p>After refresh, as D1 with new changes but no further change to trigger count</p>
       </td>
     </tr>
@@ -291,12 +289,12 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 refreshes WP1</p>
       </td>
       <td>
-        <p>D1 should be resolved to V1 for the first time</p>
-        <p>After refresh, dialogue with old changes should continue</p>
+        <p>D1 will be resolved to V1 for the first time</p>
+        <p>After refresh, dialogue with old changes will continue</p>
       </td>
       <td>
-        <p>The trigger count for D1 should be increased by 1</p>
-        <p>The engagement count for D1 should be increased by 1 </p>
+        <p>The trigger count for D1 will be increased by 1</p>
+        <p>The engagement count for D1 will be increased by 1 </p>
         <p>After refresh, as the old D1 will appear so no change to trigger count</p>
       </td>
     </tr>
@@ -310,12 +308,12 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 refreshes WP1</p>
       </td>
       <td>
-        <p>D1 should be resolved to V1 for the first time</p>
-        <p>After refresh, D2 should be resolved to V1</p>
+        <p>D1 will be resolved to V1 for the first time</p>
+        <p>After refresh, D2 will be resolved to V1</p>
       </td>
       <td>
-        <p>The trigger count for D1 should be increased by 1</p>
-        <p>After refresh, the trigger count for D2 should be increased by 1</p>
+        <p>The trigger count for D1 will be increased by 1</p>
+        <p>After refresh, the trigger count for D2 will be increased by 1</p>
       </td>
     </tr>
     <tr>
@@ -329,12 +327,12 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 refreshes WP1</p>
       </td>
       <td>
-        <p>D1 should be resolved to V1 for the first time</p>
-        <p>After refresh, D2 should be resolved to V1</p>
-        <p>After completing D1 and D2, irrespective of what changes or re-published D1, D2 should not be shown again to V1</p>
+        <p>D1 will be resolved to V1 for the first time</p>
+        <p>After refresh, D2 will be resolved to V1</p>
+        <p>After completing D1 and D2, irrespective of what changes or re-published D1, D2 will not be shown again to V1</p>
       </td>
       <td>
-        <p>The trigger count, engagement count, and completed count for D1 should be increased by 1</p>
+        <p>The trigger count, engagement count, and completed count for D1 will be increased by 1</p>
         <p>Refresh after D2 completes, no action to be taken</p>
       </td>
     </tr>
@@ -344,10 +342,10 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 visits WP1</p>
       </td>
       <td>
-        <p>D1 should be resolved but will not be triggered to V1</p>
-        <p>After 30 seconds, D1 should be shown/triggered to V1</p>
+        <p>D1 will be resolved but will not be triggered to V1</p>
+        <p>After 30 seconds, D1 will be shown/triggered to V1</p>
       </td>
-      <td>The trigger count for D1 should be increased by 1 only after 30+ seconds spent on webpage</td>
+      <td>The trigger count for D1 will be increased by 1 only after 30+ seconds spent on webpage</td>
     </tr>
     <tr>
       <td>
@@ -355,10 +353,10 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 visits WP1, WP2</p>
       </td>
       <td>
-        <p>D1 should be resolved but will not be triggered to V1</p>
-        <p>After 30 seconds, D1 should be shown/triggered to V1</p>
+        <p>D1 will be resolved but will not be triggered to V1</p>
+        <p>After 30 seconds, D1 will be shown/triggered to V1</p>
       </td>
-      <td>The trigger count for D1 should be increased by 1 only after 30+ seconds spent on webpage</td>
+      <td>The trigger count for D1 will be increased by 1 only after 30+ seconds spent on webpage</td>
     </tr>
     <tr>
       <td>
@@ -366,10 +364,10 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 visits WP1</p>
       </td>
       <td>
-        <p>D1 should be resolved but will not be triggered to V1</p>
-        <p>After 50% scroll, D1 should be shown/triggered to V1</p>
+        <p>D1 will be resolved but will not be triggered to V1</p>
+        <p>After 50% scroll, D1 will be shown/triggered to V1</p>
       </td>
-      <td>The trigger count for D1 should be increased by 1 only after 50% scrolled</td>
+      <td>The trigger count for D1 will be increased by 1 only after 50% scrolled</td>
     </tr>
     <tr>
       <td>
@@ -378,11 +376,11 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 visits WP1, after 10 seconds V1 visits WP2, V1 visits WP1</p>
       </td>
       <td>
-        <p>On WP1, D1 should be resolved but will not be triggered to V1</p>
-        <p>On WP2, D2 should be resolved but will not be triggered to V1</p>
-        <p>On WP1, D1 should be resolved and after 20 seconds D1 should be triggered to V1</p>
+        <p>On WP1, D1 will be resolved but will not be triggered to V1</p>
+        <p>On WP2, D2 will be resolved but will not be triggered to V1</p>
+        <p>On WP1, D1 will be resolved and after 20 seconds D1 will be triggered to V1</p>
       </td>
-      <td>The trigger count for D1 should be increased by 1 only after 30 seconds</td>
+      <td>The trigger count for D1 will be increased by 1 only after 30 seconds</td>
     </tr>
     <tr>
       <td>
@@ -391,11 +389,11 @@ The following are different possible scenarios outling the Chatbot's expected be
         <p>V1 closes WP1 and comes back to WP1 2 days later</p>
       </td>
       <td>
-        <p>D1 should automatically be shown to V1 as they have already met the trigger criteria during the previous session</p>
-        <p>The same logic should apply to "Time on Page" and "page scroll percentage"</p>
+        <p>D1 will automatically be shown to V1 as they have already met the trigger criteria during the previous session</p>
+        <p>The same logic will apply to "Time on Page" and "page scroll percentage"</p>
       </td>
       <td>
-        <p>The trigger count for D1 should be increased by 1</p>
+        <p>The trigger count for D1 will be increased by 1</p>
         <p>After return, no action to be taken</p>
       </td>
     </tr>
