@@ -17,7 +17,7 @@ Text: Describe v3 - the following steps are performed outside of Marketo Engage.
 
 1. Sign in/sign up with a Google account.
 
-1. Click the Create (+ sign) button to create a new key.
+1. Click the Create button (+ sign) to create a new key.
 
 1. Create a label to identify the key is to be used for Marketo Engage.
 
@@ -37,7 +37,7 @@ Text: Describe v3 - the following steps are performed outside of Marketo Engage.
 
 >[!NOTE]
 >
->Keep the site key and secret key handy for Marketo Engage configuration.
+>Keep the site key and secret key handy for the Marketo Engage configuration.
 
 ## Setting up CAPTCHA in Marketo Engage {#setting-up-captcha-in-marketo-engage}
 
