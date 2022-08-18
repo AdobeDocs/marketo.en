@@ -51,7 +51,7 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. Enter a Destination **Name** and an optional Description. Click the Person Creation drop-down and choose "Match Existing Marketo People and Create Missing People in Marketo" _or_ "Match Existing Marketo People Only." In this example we're choosing the former. You can also optionally choose a workspace, or just go with the default.
+1. Enter a Destination **Name** and an optional Description. Click the Person Creation drop-down and choose "Match Existing Marketo People and Create Missing People in Marketo" _or_ "Match Existing Marketo People Only" (in this example we're choosing the former). You must also choose a **Workspace**.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
