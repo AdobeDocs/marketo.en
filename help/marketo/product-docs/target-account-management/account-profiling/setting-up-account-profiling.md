@@ -31,9 +31,9 @@ Follow these steps to start using Account Profiling.
 
    ![](assets/three.png)
 
-1. Give your model a name, choose who will be included in the results, and who will serve as the basis for the Ideal Customer Profile (ICP). Click **Create Model** when done.
+1. Give your model a name and choose the list type/list of people who will serve as the basis for the Ideal Customer Profile (ICP). Click **Create Model** when done.
 
-   ![](assets/four.png)
+   ![](assets/setting-up-account-profiling-4.png)
 
 1. Your model will begin its build. It may take a while, but don't worry, you'll be notified when it's done.
 
