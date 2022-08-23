@@ -8,7 +8,7 @@ exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 
 A program can be imported from one Marketo subscription to another. For instance, you can create a program in a sandbox and then import it into your live subscription. Also, you can import a pre-built program from the Marketo Program Library.
 
-## Import a Program {#import-a-program-1}
+## Importing a Program {#importing-a-program}
 
 1. Go to **Marketing Activities.**
 
@@ -40,15 +40,19 @@ A program can be imported from one Marketo subscription to another. For instance
 
    ![](assets/import-a-program-5.png)
 
+   >[!NOTE]
+   >
+   >Importing a program that uses Custom Flow Steps, or Smart List rules that are derived from a Flow Step Service into a destination instance where there is more than one compatible service provider, the importing user will be prompted to assign steps or rules to the correct service provider in the destination instance.
+
 1. Preview details and **Import** the program.
 
    ![](assets/import-a-program-6.png)
 
-You will receive an email confirmation once the import has finished.
+You'll receive an email confirmation once the import has finished.
 
->[!NOTE]
->
->You'll need to reschedule imported batch campaigns and activate trigger campaigns. The system automatically deactivates campaign schedules and trigger campaigns in the imported program.
+   >[!NOTE]
+   >
+   >You'll need to reschedule imported batch campaigns and activate trigger campaigns. The system automatically deactivates campaign schedules and trigger campaigns in the imported program.
 
 ## Identify Pre-Built Programs in the Marketo Program Library {#identify-pre-built-programs-in-the-marketo-program-library}
 

@@ -113,6 +113,7 @@ Gives users access to the Design Studio tab and view of the tree, but not to det
 
 * Access Form
 
+  * Approve Form
   * Delete Form
   * Edit Form - Edit, create, and clone forms
 

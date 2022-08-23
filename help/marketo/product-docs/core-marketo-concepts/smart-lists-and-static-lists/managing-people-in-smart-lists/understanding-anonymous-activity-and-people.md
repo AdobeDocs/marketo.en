@@ -8,6 +8,10 @@ exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 
 The first time someone visits a Marketo landing page (or a page on your website that has the [Munchkin Tracking Code](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md), Marketo creates an _anonymous activity_ and uses a browser cookie to track it. Once it's identified, it becomes a person and the history associated with their browser cookie is merged in.
 
+>[!IMPORTANT]
+>
+>Enabling the Beta Feature **Munchkin V2 Anonymous Replay Activity on Known** ensures that campaigns triggered by anonymous lead promotion will always be replayed after the anonymous lead is successfully merged into the known record. As a result, custom fields changed by Change Data Value steps in any replayed campaigns will be retained in the known record.
+
 **An Anonymous** activity is created when someone:
 
 * Visits your Marketo landing page the first time.

@@ -7,7 +7,7 @@ exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
 ---
 # Setting up reCAPTCHA v3 {#setting-up-recaptcha-v3}
 
-reCAPTCHA v3 is a frictionless experience that scores form submissions based on how suspicious they are without using text, image, or button challenges. [Learn more](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target="_blank"}.
+ReCAPTCHA v3 is a frictionless experience that scores form submissions based on how suspicious they are without using text, image, or button challenges. [Learn more](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target="_blank"}.
 
 ## Retrieve Your Data Center and Munchkin ID {#retrieve-your-data-center-and-munchkin-id}
 
@@ -55,9 +55,9 @@ The following steps are performed outside of Marketo.
 
 1. Click **Submit**.
 
->[!NOTE]
->
->Keep the site key and secret key handy for the Marketo Engage configuration.
+   >[!NOTE]
+   >
+   >Keep the site key and secret key handy for the Marketo Engage configuration.
 
 ## Setting up CAPTCHA in Marketo Engage {#setting-up-captcha-in-marketo-engage}
 

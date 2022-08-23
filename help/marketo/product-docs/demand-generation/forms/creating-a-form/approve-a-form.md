@@ -32,7 +32,7 @@ Here's how to approve an existing form that's ready to go.
 
    >[!NOTE]
    >
-   >Changes made after approval can take up to four minutes to update on embedded forms.
+   >Changes made after approval can take a few minutes to update on embedded forms.
 
 ## Approve a Form from the Editor {#approve-a-form-from-the-editor}
 
@@ -40,7 +40,7 @@ If you are making changes to a form, you can approve the page directly from the 
 
 >[!PREREQUISITES]
 >
->* [Edit a Form](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
+>[Edit a Form](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
 1. Click **Finish**.
 
@@ -49,9 +49,3 @@ If you are making changes to a form, you can approve the page directly from the 
 1. Click **Approve and Close**.
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)
-
->[!NOTE]
->
->Remember, if you edit the form after it's approved, you will need to [approve the landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) to see the changes.
-
-That's it! Easy as can be.
