@@ -32,3 +32,7 @@ You can enable/disable CAPTCHA on a per-form basis.
 1. Click **Approve and Close**.
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
+
+>[!NOTE]
+>
+>It may take a few minutes for changes to this list to propagate from Google.
