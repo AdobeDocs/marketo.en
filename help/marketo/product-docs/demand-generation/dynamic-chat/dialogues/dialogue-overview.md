@@ -24,3 +24,15 @@ The [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/
 The [Reports](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"} section of a Dialogue is where you’ll be able to see metrics around how well your Dialogue is performing.
 
    ![](assets/dialogue-overview-3.png)
+
+## Disable/Enable all Dialogues {#disable-enable-all-dialogues}
+
+You have the ability to disable (and re-enable) all published Dialogues at the same time.
+
+1. In Dynamic Chat, click the **Configuration** tab.
+
+   ![](assets/dialogue-overview-4.png)
+
+1. Toggle the **Chat Enabled** switch to off to disable (and back on to re-enable) all Dialogues.
+
+   ![](assets/dialogue-overview-5.png)
