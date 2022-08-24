@@ -24,6 +24,6 @@ The graphs indicate total number of people, number of marketable people, as well
 >
 >Want to obtain more specific or timely info on your people? Try a [People Performance Report](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**Total People:** The number of all-time people in the workspace listed.
+**Total People:** The number of all-time people for the workspace listed.
 
 **Marketable People:** The number of all-time people for the workspace listed, _minus the following_: people without an email address, people whose email has hard bounced, people that are blocklisted, people that have unsubscribed, people currently set to Marketing Suspended.
