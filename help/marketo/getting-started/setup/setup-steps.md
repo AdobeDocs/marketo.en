@@ -6,16 +6,16 @@ exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 ---
 # Setup Steps {#setup-steps}
 
-**Welcome to Marketo!**
+**Welcome to Marketo Engage!**
 
 Before you dive into using Marketo, there a few steps you need to complete.
 
 These steps include:
 
-* some basic account setup
-* branding your landing page URLs and email links to improve trust and deliverability
-* syncing your CRM
-* adding tracking code to your corporate website
+* Some basic account setup
+* Branding your landing page URLs and email links to improve trust and deliverability
+* Syncing your CRM
+* Adding tracking code to your corporate website
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Some steps require help from your IT team.
 
 1. Log in to Marketo [here](https://app.marketo.com/){target="_blank"} using the credentials you received by email.
 
-   ![](assets/new-login-screen-hand.jpg)
+   ![](assets/setup-steps-1.png)
 
 Congratulations! You’re now in Marketo and can start exploring. You might want to invite your colleagues on the marketing team to join you. You can do this by adding new users.
 
@@ -41,7 +41,7 @@ Go to the **Admin** area.
    >
    >While you're here, you can click **My Account** to change your account and location settings, as well as set a new subscription name.
 
-   ![](assets/admin.png)
+   ![](assets/setup-steps-2.png)
 
    >[!NOTE]
    >
@@ -49,35 +49,27 @@ Go to the **Admin** area.
 
    Click **Users & Roles**.
 
-   ![](assets/image2015-1-6-13-3a14-3a43.png)
+   ![](assets/setup-steps-3.png)
 
    Click **Invite New User**.
 
-   ![](assets/image2015-1-6-13-3a14-3a6.png)
+   ![](assets/setup-steps-4.png)
 
-   Fill out your colleague’s email address, first name, and last name.
+   Fill out your colleague’s email address, first name, and last name. _Setting an access expiration date is optional_. Click **Next**.
 
-   ![](assets/image2016-5-24-10-3a11-3a12.png)
-
-   Optionally, enter a reason for the invitation and an access expiration date, using the calendar picker. Click **OK**.
-
-   ![](assets/image2016-5-24-10-3a13-3a9.png)
-
-   Click **Next**.
-
-   ![](assets/image2016-5-24-10-3a14-3a9.png)
+   ![](assets/setup-steps-5.png)
 
    >[!TIP]
    >
-   >An expiration date is great for short-term external stakeholders or consultants, who need Marketo access only for a brief time.
+   >An expiration date is great for short-term external stakeholders or consultants who only need Marketo access for a brief period.
 
    >[!NOTE]
    >
-   >When the expiration date arrives, the user receives expiration notification, and the account is locked.
+   >When the expiration date arrives, the user receives an expiration notification and the account is locked.
 
    Select a role and click **Next**. Standard Users have access to all areas except Admin.
 
-   ![](assets/image2016-5-24-10-3a14-3a51.png)
+   ![](assets/setup-steps-6.png)
 
    >[!NOTE]
    >
@@ -85,11 +77,11 @@ Go to the **Admin** area.
 
    Feel free to tweak the invitation text. Click **Send**.
 
-   ![](assets/image2016-5-24-10-3a15-3a52.png)
+   ![](assets/setup-steps-7.png)
 
    The new user is now listed in the Users tab, and should receive an email with a link to create a password and a login. Next step!
 
-   ![](assets/image2016-5-24-10-3a23-3a10.png)
+   ![](assets/setup-steps-8.png)
 
 ## Set Up Your Authorized Support Contacts {#set-up-your-authorized-support-contacts}
 
@@ -125,19 +117,19 @@ Go to the **Admin** area.
    >
    >Keep it short! Shorter URLs are easier to remember. We suggest "go" as the domain.
 
-   The first part (in bold) is the `[LandingPageCNAME]`. You will need it in Step 5.
+   The first part (in bold) is the `[LandingPageCNAME]`. You'll need it in Step 5.
 
    To retrieve the account string that you’ll be replacing with your landing page CNAME, go to the Admin area.
 
-   ![](assets/admin.png)
+   ![](assets/setup-steps-9.png)
 
    Click **Landing Pages**.
 
-   ![](assets/image2015-1-6-13-3a52-3a6.png)
+   ![](assets/setup-steps-10.png)
 
    Copy the Account String from landing page settings.
 
-   ![](assets/image2015-1-6-13-3a53-3a19.png)
+   ![](assets/setup-steps-11.png)
 
    This is the `[AccountString]`. Save it. You'll need to give it to IT in Step 5.
 
@@ -173,17 +165,17 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
    To find your Marketo tracking link, go to the **Admin** area.
 
-   ![](assets/admin.png)
+   ![](assets/setup-steps-12.png)
 
    Click **Email**.
 
-   ![](assets/image2015-1-6-13-3a55-3a32.png)
+   ![](assets/setup-steps-13.png)
 
    Copy the Tracking Link from your email settings.  
   
    The Tracking Link is in the form: `mkto-[a-z][4 digits].com`.
 
-   ![](assets/email-tracking-link-hand.jpg)
+   ![](assets/setup-steps-14.png)
 
    This is your `[MktoTrackingLink]`. Save it. You'll need to give it to IT in Step 5.
 
@@ -288,35 +280,35 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
    Go to the **Admin** area to Add Your Landing Page CNAME
 
-   ![](assets/admin.png)
+   ![](assets/setup-steps-15.png)
 
    Select Landing Pages and click **Edit** in the Settings area.
 
-   ![](assets/image2015-1-6-13-3a59-3a15.png)
+   ![](assets/setup-steps-16.png)
 
    Enter your new domain name in the field Domain Name for Landing Pages. This should be in the form:
 
    `[LandingPageCNAME].[CompanyDomain].com`
 
-   ![](assets/image2015-1-6-14-3a3-3a6.png)
+   ![](assets/setup-steps-17.png)
 
    In the Fallback page field, enter the URL you want people to go to if a landing page is unavailable. You can use your company home page if you do not have a fallback page. In the Homepage field, enter your company website.
 
-   ![](assets/image2015-1-6-14-3a2-3a46.png)
+   ![](assets/setup-steps-18.png)
 
    In the Admin area, select Email to Add your Email CNAME
 
-   ![](assets/image2015-1-6-14-3a5-3a3.png)
+   ![](assets/setup-steps-19.png)
 
-   Scroll down and click **Edit**.
+   Scroll down to Branding Domains. Select your domain and click **Edit**.
 
-   ![](assets/edit-branding-domain.png)
+   ![](assets/setup-steps-20.png)
 
    In the Domain field, enter your email tracking domain. This should be in the form:
 
    `[EmailTrackingCNAME].[CompanyDomain].com`. Click **Save**.
 
-   ![](assets/new-branding-domain-9-1.png)
+   ![](assets/setup-steps-21.png)
 
 ## Integrate Your CRM {#integrate-your-crm}
 
@@ -343,4 +335,4 @@ Marketo has custom tracking JavaScript (called Munchkin) that you can use to tra
 >
 >Experience with HTML required to add the tracking code.
 
-All your setup steps are over. Only thing left is to dive in and use Marketo!
+All your setup steps are over. The only thing left is to dive in and use Marketo!

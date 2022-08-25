@@ -61,6 +61,10 @@ The following steps are performed outside of Marketo.
 
 ## Setting up CAPTCHA in Marketo Engage {#setting-up-captcha-in-marketo-engage}
 
+>[!IMPORTANT]
+>
+>After you follow these steps and [enable CAPTCHA in your first Marketo form](help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}, be sure to test the form right away as any sort of misconfiguration in the reCAPTCHA setup can break the form.
+
 1. In Marketo, click **Admin**.
 
    ![](assets/setting-up-recaptcha-v3-4.png)

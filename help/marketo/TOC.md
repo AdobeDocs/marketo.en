@@ -14,9 +14,9 @@ feature-set: Marketo Engage
   + [Marketo Glossary](getting-started/marketo-glossary.md)
   + [Classic Icon Glossary](getting-started/classic-icon-glossary.md)
   + Setup {#setup}
-    + [Setup Steps](getting-started/setup-steps.md)
-    + [Setup Checklist](getting-started/setup-steps/setup-checklist.md)
-    + [Configure Protocols for Marketo](getting-started/setup-steps/configure-protocols-for-marketo.md)
+    + [Setup Steps](getting-started/setup/setup-steps.md)
+    + [Setup Checklist](getting-started/setup/setup-checklist.md)
+    + [Configure Protocols for Marketo](getting-started/setup/configure-protocols-for-marketo.md)
   + Quick Wins {#quick-wins}
     + [Get Set up and Add a Person](getting-started/quick-wins/get-set-up-and-add-a-person.md)
     + [Send an Email](getting-started/quick-wins/send-an-email.md)
