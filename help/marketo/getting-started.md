@@ -16,7 +16,7 @@ What is Marketo you ask? Great question!
 
 With a little help from your IT team, you can get it done in no time.
 
-[Start Setup](/help/marketo/getting-started/setup-steps.md)
+[Start Setup](/help/marketo/getting-started/setup/setup-steps.md)
 
 ## STEP 3 Get Some Quick Wins {#get-some-quick-wins}
 
