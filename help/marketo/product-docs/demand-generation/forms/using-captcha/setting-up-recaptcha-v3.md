@@ -63,7 +63,7 @@ The following steps are performed outside of Marketo.
 
 >[!IMPORTANT]
 >
->After you follow these steps and [enable CAPTCHA in your first Marketo form](help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}, be sure to test the form right away as any sort of misconfiguration in the reCAPTCHA setup can break the form.
+>After you follow these steps and [enable CAPTCHA in your first Marketo form](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}, be sure to test the form right away as any sort of misconfiguration in the reCAPTCHA setup can break the form.
 
 1. In Marketo, click **Admin**.
 

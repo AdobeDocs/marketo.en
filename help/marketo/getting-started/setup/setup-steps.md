@@ -25,7 +25,7 @@ Some steps require help from your IT team.
 
 >[!TIP]
 >
->If you [print out this checklist](/help/marketo/getting-started/setup-steps/setup-checklist.md){target="_blank"}, you can check items off as you complete them.
+>If you [print out this checklist](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}, you can check items off as you complete them.
 
 ## Log in and create additional Marketo Users {#log-in-and-create-additional-marketo-users}
 
