@@ -37,7 +37,7 @@ You do not! It's easy to get started in Marketo Engage, and it will evolve with 
 
 ## Do I need to do any setup? {#do-i-need-to-do-any-setup}
 
-Yes, we made a [checklist of stuff to do](/help/marketo/getting-started/setup-steps/setup-checklist.md){target="_blank"}.  
+Yes, we made a [checklist of stuff to do](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}.  
 
 ## Do I have to wait until setup is finished to learn? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
