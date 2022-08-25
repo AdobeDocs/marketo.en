@@ -35,6 +35,10 @@ In Agent Settings, you can add a label to your chatbox (ex: "Adobe Bot") that wi
 
    ![](assets/configuration-5.png)
 
+   >[!NOTE]
+   >
+   >Custom avatars should be square images less than 256kb and smaller than 200x200 px. Supported file types include: .jpg, .png, .gif, .webp, .svg.
+
 When you're done making changes, remember to click **Save**.
 
    ![](assets/configuration-6.png)
