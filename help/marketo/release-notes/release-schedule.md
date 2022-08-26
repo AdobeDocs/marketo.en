@@ -52,7 +52,7 @@ _Release dates are subject to change_
   </tr>
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">August '22</td>
-   <td>August 19, 2022</td>
+   <td>August 26, 2022</td>
    <td>In Progress</td>
   </tr>
   <tr>

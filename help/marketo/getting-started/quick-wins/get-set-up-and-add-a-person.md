@@ -12,7 +12,7 @@ There are a few things to do before you begin the missions.
 
 1. [Log in to Marketo](https://app.marketo.com){target="_blank"} using the credentials you received by email.
 
-   ![](assets/one.png)
+   ![](assets/get-set-up-and-add-a-person-1.png)
 
 ## Step 2: Create a Learning Folder {#step-create-a-learning-folder}
 
@@ -20,19 +20,19 @@ There are a few things to do before you begin the missions.
 
 1. Go to the **Marketing Activities** area.
 
-   ![](assets/two.png)
+   ![](assets/get-set-up-and-add-a-person-2.png)
 
 1. Click the **New** drop-down and select **New Campaign Folder**.
 
-   ![](assets/image2014-9-24-10-3a53-3a38.png)
+   ![](assets/get-set-up-and-add-a-person-3.png)
 
 1. Name the folder "Learning" and click **Create**.
 
-   ![](assets/image2014-9-24-10-3a53-3a55.png)
+   ![](assets/get-set-up-and-add-a-person-4.png)
 
-1. You'll see the new Learning folder appear in the left menu.
+1. You'll see the new Learning folder in the left menu.
 
-   ![](assets/image2014-9-24-10-3a54-3a9.png)
+   ![](assets/get-set-up-and-add-a-person-5.png)
 
 ## Step 3: Add Yourself as a Person {#step-add-yourself-as-a-person}
 
@@ -40,15 +40,15 @@ There are a few things to do before you begin the missions.
 
 1. Go to the **Database** area.
 
-   ![](assets/db.png)
+   ![](assets/get-set-up-and-add-a-person-6.png)
 
 1. Click the **New** drop-down and select **New Person**.
 
-   ![](assets/seven.png)
+   ![](assets/get-set-up-and-add-a-person-7.png)
 
 1. Type your first and last name, email address and company name, then click **Create** to add yourself as a person.
 
-   ![](assets/eight.png)
+   ![](assets/get-set-up-and-add-a-person-8.png)
 
    >[!CAUTION]
    >
@@ -56,11 +56,11 @@ There are a few things to do before you begin the missions.
 
 1. To view your people, open your System Smart Lists in the left menu, then click All People.
 
-   ![](assets/nine.png)
+   ![](assets/get-set-up-and-add-a-person-9.png)
 
 1. Click the **People** tab. You should see yourself in the database.
 
-   ![](assets/ten.png)
+   ![](assets/get-set-up-and-add-a-person-10.png)
 
 ## Set Up Complete {#set-up-complete}
 
