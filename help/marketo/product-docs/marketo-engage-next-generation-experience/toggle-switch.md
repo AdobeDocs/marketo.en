@@ -5,7 +5,7 @@ exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 ---
 # Toggle Switch {#toggle-switch}
 
-The Toggle Switch allows you to switch between Marketo's classic interface and the next-gen Marketo Engage experience. It's available in all of the areas highlighted below. As of the May 2022 release, the next-gen experience will be enabled by default.
+The Toggle Switch allows you to switch between Marketo's classic interface and the next-gen Marketo Engage experience. It's available in all of the areas highlighted below.
 
 >[!NOTE]
 >
@@ -27,132 +27,37 @@ Enable the toggle switch for individual roles or all roles. Here's how.
 
    ![](assets/toggle-switch-3.png)
 
-## Landing Page List View {#landing-page-list-view}
+## Enable for Features {#enable-for-features}
 
-The next-gen Landing Page list view offers search filters and the ability to perform mass Landing Page actions.
+You have the option of manually enabling Marketo's next-gen interface for indivudual features, or all available features (current and forthcoming).
 
-1. In Marketo, select **Design Studio**.
+In an area that currently has the Toggle Switch (in this example we're in Email List View), simply click the toggle on the bottom-right of the page.
 
    ![](assets/toggle-switch-4.png)
 
-1. Select **Landing Pages**.
+The new experience will load.
 
    ![](assets/toggle-switch-5.png)
 
-1. In the bottom-right of the page, click the **New Experience** toggle.
+To enable it for _all_ features, click the gear icon next to the toggle switch.
 
    ![](assets/toggle-switch-6.png)
 
-The new experience will load.
+Select **Enable for all available features** and click **OK**.
 
    ![](assets/toggle-switch-7.png)
 
-## Landing Page Details View {#landing-page-details-view}
+## Available Features {#available-features}
 
-1. In Marketo, find and select your Landing Page.
+The following features are currently available in Marketo's next-gen interface (with new features added each Release):
 
-   ![](assets/toggle-switch-8.png)
-
-1. In the bottom-right of the page, click the **New Experience** toggle.
-
-   ![](assets/toggle-switch-9.png)
-
-The new experience will load.
-
-   ![](assets/toggle-switch-10.png)
-
-## Form Details Page {#form-details-page}
-
-1. In Marketo, find and select your form.
-
-   ![](assets/toggle-switch-11.png)
-
-1. In the bottom-right of the page, click the **New Experience** toggle.
-
-   ![](assets/toggle-switch-12.png)
-
-The new experience will load.
-
-   ![](assets/toggle-switch-13.png)
-
-## Form List View {#form-list-view}
-
-1. In Marketo, select **Design Studio**.
-
-   ![](assets/toggle-switch-14.png)
-
-1. Select **Forms**.
-
-   ![](assets/toggle-switch-15.png)
-
-1. In the bottom-right of the page, click the **New Experience** toggle.
-
-   ![](assets/toggle-switch-16.png)
-
-The new experience will load.
-
-   ![](assets/toggle-switch-17.png)
-
-## Email Template Details View {#email-template-details-view}
-
-1. In Marketo, select **Design Studio**.
-
-   ![](assets/toggle-switch-18.png)
-
-1. Select the desired email template.
-
-   ![](assets/toggle-switch-19.png)
-
-1. In the bottom-right of the page, click the **New Experience** toggle.
-
-   ![](assets/toggle-switch-20.png)
-
-The new experience will load.
-
-   ![](assets/toggle-switch-21.png)
-
-## Email Details View {#email-details-view}
-
-1. In Marketo, find and select your email.
-
-   ![](assets/toggle-switch-22.png)
-
-1. In the bottom-right of the page, click the **New Experience** toggle.
-
-   ![](assets/toggle-switch-23.png)
-
-The new experience will load.
-
-   ![](assets/toggle-switch-24.png)
-
-## Email List View {#email-list-view}
-
-The next-gen email list view offers search filters and the ability to perform mass email actions.
-
-1. In Marketo, select **Design Studio**.
-
-   ![](assets/toggle-switch-25.png)
-
-1. Select **Emails**.
-
-   ![](assets/toggle-switch-26.png)
-
-1. In the bottom-right of the page, click the **New Experience** toggle.
-
-   ![](assets/toggle-switch-27.png)
-
-The new experience will load.
-
-   ![](assets/toggle-switch-28.png)
-
-## Enable for All Features {#enable-for-all-features}
-
-You have the option of manually enabling Marketo's next-gen interface for all available features, current and forthcoming.
-
-1. In an area that currently has the Toggle Switch (in this example we're in [Form Details Page](#form-details-page)), click the gear icon in the bottom-right of the page.
-
-   ![](assets/toggle-switch-second-last.png)
-
-1. Select **Enable for all available features** and click **OK**.
-
-   ![](assets/toggle-switch-last.png)
+* Email Details View
+* Email List View
+* Email Template Details View
+* Email Test Dashboard View
+* Form Details View
+* Form List View
+* Images and Files Details Page
+* Landing Page Details View
+* Landing Page List View
+* Snippet Details View
