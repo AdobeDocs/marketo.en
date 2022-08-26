@@ -10,7 +10,7 @@ Sending from one or more dedicated IP gives you complete control over your sendi
 
 >[!AVAILABILITY]
 >
->A dedicated IP is an add-on product. Not everyone will be eligible to add a dedicated IP to their program. You would need to send more than 100,000 emails per month and have a stable campaign cadence to maintain a dedicated IP. Reach out to your CSM for more information on how to add a dedicated IP to your Marketo program.
+>A dedicated IP is an add-on product. Not everyone will be eligible to add a dedicated IP to their program. You would need to send more than 100,000 emails per month and have a stable campaign cadence to maintain a dedicated IP. Reach out to your Account team for more information on how to add a dedicated IP to your Marketo program.
 >
 >If you send less than 100,000 emails per month, and/or have variable campaign volumes, and/or are a seasonal sender, you will be unable to maintain a dedicated IP. Marketo does maintain a separate Trusted IP shared pool for customers that abide by strict best practices. If interested, please fill out [this questionnaire](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) to apply to Marketo’s Trusted IP Program.
 
