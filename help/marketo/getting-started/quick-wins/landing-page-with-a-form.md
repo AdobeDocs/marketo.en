@@ -16,45 +16,39 @@ exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 
 1. Go to the **Marketing Activities** area.
 
-   ![](assets/ma.png)
+   ![](assets/landing-page-with-a-form-1.png)
 
-1. Select the **Learning** folder created in the [previous quick win](/help/marketo/getting-started/quick-wins/send-an-email.md).
+1. Select the **Learning** folder created in the [previous quick win](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}. Under **New**, click **New Program**.
 
-   ![](assets/image2014-9-8-17-3a45-3a34.png)
+   ![](assets/landing-page-with-a-form-2.png)
 
-1. Under **New**, click **New Program**.
+1. Enter a program **Name**, select a **Channel**, and click **Create**.
 
-   ![](assets/image2014-9-8-17-3a45-3a49.png)
+   ![](assets/landing-page-with-a-form-3.png)
 
-1. Enter a program **Name**, select a **Channel** and click **Create**.
+   >[!TIP]
+   >
+   >Include your initials at the end of the program name to make it unique.
 
    >[!NOTE]
    >
-   >Include your initials at the end of the program Name to make it unique.
-
-   ![](assets/image2014-9-8-17-3a46-3a28.png)
-
-   >[!NOTE]
-   >
-   >A program is one specific marketing initiative. The **channel** is intended to be the delivery mechanism, like Webinar, Sponsorship, or Online Ad. You may see different channel options in your drop-down, depending on what's available in your own instance. You can also [create your own channel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
-
-   ![](assets/image2014-9-8-17-3a46-3a47.png)
+   >A program is one specific marketing initiative. The **channel** is intended to be the delivery mechanism, like Webinar, Sponsorship, or Online Ad. You may see different channel options in your drop-down, depending on what's available in your own instance. You can also [create your own channel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 Nicely done! Now that we have created a program, let's move on and create some content.
 
 ## STEP 2: Create a Form {#step-create-a-form}
 
-1. With your program selected, click on **New** then **New Local Asset**.
+1. With your program selected, click the **New** drop-down and select **New Local Asset**.
 
-   ![](assets/image2014-9-24-11-3a4-3a29.png)
+   ![](assets/landing-page-with-a-form-4.png)
 
 1. Select **Form**.
 
-   ![](assets/image2014-9-24-11-3a4-3a42.png)
+   ![](assets/landing-page-with-a-form-5.png)
 
 1. Enter a form **Name** and click **Create**.
 
-   ![](assets/image2014-9-24-11-3a5-3a0.png)
+   ![](assets/landing-page-with-a-form-6.png)
 
    >[!NOTE]
    >
@@ -62,57 +56,55 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
    >[!TIP]
    >
-   >Don't see the form editor? Your browser probably blocked the window. Enable pop-ups from [app.marketo.com](https://app.marketo.com/) in your browser and click Edit Draft in the top menu bar.
+   >Don't see the form editor? Your browser probably blocked the window. Enable pop-ups from `app.marketo.com` in your browser and click Edit Draft in the top menu bar.
 
 1. Select the **Email Address** field and check **Is Required**.
 
-   ![](assets/image2014-9-24-11-3a5-3a27.png)
+   ![](assets/landing-page-with-a-form-7.png)
 
 1. Click **Next**.
 
-   ![](assets/image2014-9-24-11-3a5-3a44.png)
+   ![](assets/landing-page-with-a-form-8.png)
 
 1. Click the arrows to scroll through the themes. Select one.
 
-   ![](assets/image2014-9-24-11-3a6-3a0.png)
+   ![](assets/landing-page-with-a-form-9.png)
 
 1. Click **Next**.
 
-   ![](assets/image2014-9-24-11-3a6-3a19.png)
+   ![](assets/landing-page-with-a-form-10.png)
 
 1. Under the Thank You Page section, select **External URL** for **Follow Up With**.
 
-   ![](assets/image2014-9-24-11-3a6-3a35.png)
+   ![](assets/landing-page-with-a-form-11.png)
 
 1. Enter the URL.
 
-   ![](assets/image2014-9-24-11-3a6-3a50.png)
+   ![](assets/landing-page-with-a-form-12.png)
 
    >[!NOTE]
    >
-   >The Follow Up Page is where the visitor is re-directed after filling out the form. External URL is one option but there are more. See [Set a Form Thank You Page](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md).
+   >The Follow Up Page is where the visitor is re-directed after filling out the form. External URL is one option but there are more. See [Set a Form Thank You Page](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}.
 
 1. Click **Finish**.
 
-   ![](assets/image2014-9-24-11-3a7-3a3.png)
+   ![](assets/landing-page-with-a-form-13.png)
 
 1. Click **Approve and Close**.
 
-   ![](assets/image2014-9-24-11-3a7-3a15.png)
+   ![](assets/landing-page-with-a-form-14.png)
 
-   Super! Now you have a program with a form in it. Let's move on and create a page.
-
-   ![](assets/image2014-9-24-11-3a7-3a32.png)
+   Great! Now you have a program with a form in it. Let's move on and create a page.
 
 ## STEP 3: Create a Landing Page and Add Your Form {#step-create-a-landing-page-and-add-your-form}
 
 1. With your program selected, click **New** and then **New Local Asset**.
 
-   ![](assets/image2014-9-24-11-3a7-3a51.png)
+   ![](assets/landing-page-with-a-form-15.png)
 
 1. Select **Landing Page**.
 
-   ![](assets/image2014-9-24-11-3a8-3a5.png)
+   ![](assets/landing-page-with-a-form-16.png)
 
 1. Enter a page **Name**, select a template and click **Create**.
 
@@ -120,61 +112,61 @@ Nicely done! Now that we have created a program, let's move on and create some c
    >
    >You may have a different template than the one in our screenshot, it's okay, just pick one and keep going.
 
-   ![](assets/image2014-9-24-11-3a8-3a23.png)
+   ![](assets/landing-page-with-a-form-17.png)
 
-1. Once the landing page editor opens, drag the Form element into the canvas.
+1. Once the landing page editor opens, drag the Form element onto the canvas.
 
-   ![](assets/twentyone.png)
+   ![](assets/landing-page-with-a-form-18.png)
 
 1. Find and select your form and click **Insert**.
 
-   ![](assets/image2014-9-24-11-3a8-3a53.png)
+   ![](assets/landing-page-with-a-form-19.png)
 
 1. Drag the form around to the desired location.
 
-   ![](assets/image2014-9-24-11-3a9-3a6.png)
+   ![](assets/landing-page-with-a-form-20.png)
 
 1. All your changes are auto saved. Close the form editor tab/window.
 
-   ![](assets/image2014-9-24-11-3a9-3a19.png)
+   ![](assets/landing-page-with-a-form-21.png)
 
    Great job! You now have a landing page with a form on it. Let's approve your page to make it live.
 
 ## STEP 4: Approve Your Landing Page {#step-approve-your-landing-page}
 
-1. Select your landing page, under **Landing Page Actions** click **Approve**.
+1. Select your landing page and click **Approve Draft**.
+
+   ![](assets/landing-page-with-a-form-22.png)
 
    >[!NOTE]
    >
    >Approving the landing page will make it live and available to access on the internet.
 
-   ![](assets/image2014-9-24-11-3a9-3a37.png)
-
    Perfect! See the green checkmark on it?
 
-   ![](assets/image2014-9-24-11-3a9-3a53.png)
+   ![](assets/landing-page-with-a-form-23.png)
 
 ## STEP 5: Test Your Form {#step-test-your-form}
 
 1. Select your landing page and click **View Approved Page**.
 
-   ![](assets/image2014-9-24-11-3a10-3a9.png)
+   ![](assets/landing-page-with-a-form-24.png)
 
 1. Fill out the form with information you know is unique and click **Submit**.
 
-   ![](assets/image2014-9-24-11-3a10-3a23.png)
+   ![](assets/landing-page-with-a-form-25.png)
 
 1. Go to the **Database** area.
 
-   ![](assets/db-1.png)
+   ![](assets/landing-page-with-a-form-26.png)
 
 1. Search for the unique email address you used when filling out the form.
 
-   ![](assets/30.png)
+   ![](assets/landing-page-with-a-form-27.png)
 
    There it is! You created a new landing page with a form on it and used it to generate a new person.
 
-   ![](assets/thirty-one.png)
+   ![](assets/landing-page-with-a-form-28.png)
 
 ## Mission Complete! {#mission-complete}
 

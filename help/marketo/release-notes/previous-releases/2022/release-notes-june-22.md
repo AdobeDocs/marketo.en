@@ -70,4 +70,4 @@ The following features will start to be released on **June 24, 2022**, with a ph
 
 **_Product Release Webinar_**
 
-Join us on Aug 24th, 2022, at 9:00 AM PT / 12:00 PM ET for a [live webinar](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html){target="_blank"} hosted by our Product Team where you can learn how to use all the latest product innovations.
+[June and August 2022 Marketo Engage Release Webinar](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
