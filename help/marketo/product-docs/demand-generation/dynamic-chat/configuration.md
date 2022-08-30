@@ -17,7 +17,7 @@ There are several different customization options.
 
 ## Style Tab {#style-tab}
 
-**Style**
+### Style {#style}
 
 This is where you'll define the look and feel of the chatbot where your Dialogues will be shown, including: colors, fonts, placement of the bot widget, and the chatbot’s name/avatar.
 
@@ -29,7 +29,7 @@ The Anchor allows your site visitor to open/close the chatbox. You can choose wh
 
    ![](assets/configuration-4.png)
 
-**Agent Settings**
+### Agent Settings {#agent-settings}
 
 In Agent Settings, you can add a label to your chatbox (ex: "Adobe Bot") that will appear at the top of it. You can also determine the response delay (in seconds), and change your chat avatar. To upload your own avatar image, click the **+** button.
 

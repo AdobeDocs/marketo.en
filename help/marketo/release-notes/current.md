@@ -17,7 +17,7 @@ The following features will start to be released on **August 26, 2022**, with a 
 
 * **[Enable/Disable All Published Dialogues at Once for Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target="_blank"}**: Globally enable/disable all published Dialogues at once from the Configuration page with the press of a button.
 
-* **Custom Avatars for Dynamic Chat**: Upload a custom chatbot avatar so it can be personalized to your brand.
+* **[Custom Avatars for Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target="_blank"}**: Upload a custom chatbot avatar so it can be personalized to your brand.
 
 * **Chat Transcripts for Dynamic Chat**: View chat transcripts for every conversation to obtain deeper insight into what each web visitor is interested in.
 
@@ -27,7 +27,7 @@ The following features will start to be released on **August 26, 2022**, with a 
 
 * **Display Folder Hierarchy of Destination Folder in the Move Dialog**: Viewing the folder hierarchy for each folder makes moving assets easier and reduces the likelihood of putting them in the wrong folder.
 
-* **Updated Screens in the Next-Generation Experience**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
+* **[Updated Screens in the Next-Generation Experience](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target="_blank"}**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
 
   * Snippet Details
   * "Images and Files" Details
@@ -38,7 +38,7 @@ The following features will start to be released on **August 26, 2022**, with a 
 
 ## Experience Automation {#experience-automation}
 
-* **Self-Service Flow Steps - Program Import Enhancements**: Improved support for importing programs with custom flow steps where you can now use multiple instances of the same service provider and import programs which have flow steps compatible with those service providers.
+* **[Self-Service Flow Steps - Program Import Enhancements](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target="_blank"}**: Improved support for importing programs with custom flow steps where you can now use multiple instances of the same service provider and import programs which have flow steps compatible with those service providers.
 
 * **Munchkin - Expanded Link Tracking**: Extend support for tracking of `tel` and `mailto` links with Munchkin to track an expanded set of web behaviors.
 
@@ -62,7 +62,7 @@ The following features will start to be released on **August 26, 2022**, with a 
 
 ![(star)](assets/yellow-star.png)
 
-* **Sales Insight Integration with Dynamic Chat**: View activities from Dynamic Chat in the Sales Insight panel and leverage this new data point in your prospecting effort.
+* **[Sales Insight Integration with Dynamic Chat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**: View activities from Dynamic Chat in the Sales Insight panel and leverage this new data point in your prospecting effort.
 
 ## Announcements {#announcements}
 
