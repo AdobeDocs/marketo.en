@@ -15,7 +15,7 @@ The following features will start to be released on **August 26, 2022**, with a 
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
-* **Enable/Disable All Published Dialogues at Once for Dynamic Chat**: Globally enable/disable all published Dialogues at once from the Configuration page with the press of a button.
+* **[Enable/Disable All Published Dialogues at Once for Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target="_blank"}**: Globally enable/disable all published Dialogues at once from the Configuration page with the press of a button.
 
 * **Custom Avatars for Dynamic Chat**: Upload a custom chatbot avatar so it can be personalized to your brand.
 
