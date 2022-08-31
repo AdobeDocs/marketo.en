@@ -51,7 +51,7 @@ exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 
    ![](assets/simple-scoring-8.png)
 
-    >[!NOTE]
+   >[!NOTE]
    >
    >If you completed the [Landing Page with a Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} quick win, you should have the form. If you used a different name for your form, select that one.
 
