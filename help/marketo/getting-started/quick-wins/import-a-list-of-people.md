@@ -18,7 +18,7 @@ In this tutorial, you'll learn how to import people from a spreadsheet file into
 
 1. To start, download our practice spreadsheet file ([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"}) to your computer.
 
-   ![](assets/image2014-9-24-12-3a5-3a0.png)
+   ![](assets/import-a-list-of-people-1.png)
 
    >[!NOTE]
    >
@@ -30,7 +30,7 @@ In this tutorial, you'll learn how to import people from a spreadsheet file into
 
 1. Add your own first name, last name, actual email address (so you can receive the nurturing emails you'll send in the next mission), and job title. Save the file on your computer.
 
-   ![](assets/image2014-9-24-12-3a5-3a30.png)
+   ![](assets/import-a-list-of-people-2.png)
 
    >[!CAUTION]
    >
@@ -40,19 +40,19 @@ In this tutorial, you'll learn how to import people from a spreadsheet file into
 
 1. Go to the **Marketing Activities** area.
 
-   ![](assets/ma-2.png)
+   ![](assets/import-a-list-of-people-3.png)
 
 1. Select your **Learning** folder, then under **New** click **New Program**.
 
-   ![](assets/image2014-9-24-12-3a21-3a13.png)
+   ![](assets/import-a-list-of-people-4.png)
 
 1. **Name** the program "My Tradeshow Program" and select "Event" for the **Program Type**.
 
-   ![](assets/image2014-9-24-12-3a21-3a25.png)
+   ![](assets/import-a-list-of-people-5.png)
 
 1. Select **Tradeshow** for the **Channel** and click **Create**.
 
-   ![](assets/image2014-9-24-12-3a21-3a39.png)
+   ![](assets/import-a-list-of-people-6.png)
 
 >[!NOTE]
 >
@@ -62,19 +62,19 @@ In this tutorial, you'll learn how to import people from a spreadsheet file into
 
 1. In **My Tradeshow Program**, click **New** and select **New Local Asset**.
 
-   ![](assets/seven-3.png)
+   ![](assets/import-a-list-of-people-7.png)
 
-1. Click **List**.
+1. Select **List**.
 
-   ![](assets/image2014-9-24-12-3a22-3a56.png)
+   ![](assets/import-a-list-of-people-8.png)
 
 1. **Name** the list "Tradeshow Attendees" and click **Create**.
 
-   ![](assets/image2014-9-24-12-3a23-3a9.png)
+   ![](assets/import-a-list-of-people-9.png)
 
 1. In your **Tradeshow Attendees** list, click **List Actions** and select **Import List**.
 
-   ![](assets/ten-2.png)
+   ![](assets/import-a-list-of-people-10.png)
 
    >[!CAUTION]
    >
@@ -86,7 +86,7 @@ In this tutorial, you'll learn how to import people from a spreadsheet file into
 
 1. **Browse** to the **tradeshow-attendees.csv** spreadsheet file on your computer and click **Next**.
 
-   ![](assets/eleven-2.png)
+   ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
@@ -98,7 +98,7 @@ In this tutorial, you'll learn how to import people from a spreadsheet file into
 
 1. Map your List Column fields to their respective Marketo Field and click **Next**.
 
-   ![](assets/image2014-9-24-12-3a24-3a49.png)
+   ![](assets/import-a-list-of-people-12.png)
 
    >[!TIP]
    >
@@ -110,15 +110,15 @@ In this tutorial, you'll learn how to import people from a spreadsheet file into
 
 1. Select **My Tradeshow Program** for the **Acquisition Program**, then click **Import**.
 
-   ![](assets/image2014-9-24-12-3a25-3a1.png)
+   ![](assets/import-a-list-of-people-13.png)
 
 1. Wait for your people to import, then close the import progress pop-up.
 
-   ![](assets/image2014-9-24-12-3a25-3a13.png)
+   ![](assets/import-a-list-of-people-14.png)
 
 1. Back in **My Tradeshow Program**, click the **Members** tab. You'll see all the people you just imported.
 
-   ![](assets/fifteen-1.png)
+   ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
