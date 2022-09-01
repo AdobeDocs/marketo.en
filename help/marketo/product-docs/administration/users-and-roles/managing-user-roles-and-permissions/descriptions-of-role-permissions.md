@@ -156,7 +156,6 @@ View the database as well as view and edit smart/static lists.
   * Delete Segmentation
   * Edit Segmentation
 
-* Advanced List Import
 * Delete Person
 * Delete List
 * Edit Person - Prevents manual editing and running single flow steps; you can still edit people by running campaigns against them
