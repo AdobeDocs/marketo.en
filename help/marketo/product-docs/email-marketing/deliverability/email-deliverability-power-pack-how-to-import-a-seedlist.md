@@ -14,9 +14,9 @@ A seed list is a list of email accounts at multiple mailbox providers, including
 
 ## Import a Seedlist {#import-a-seedlist}
 
-1. Go to **Deliverability Tools**.
+1. In your My Marketo, select **Deliverability Tools**.
 
-   ![](assets/one-1.png)
+   ![](assets/email-deliverability-power-pack-1.png)
 
 1. Click **Inbox Informant**.
 

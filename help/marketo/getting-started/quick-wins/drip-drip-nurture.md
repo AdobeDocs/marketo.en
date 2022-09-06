@@ -19,35 +19,35 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 
 1. Go to the **Marketing Activities** area.
 
-   ![](assets/one-3.png)
+   ![](assets/drip-drip-nurture-1.png)
 
 1. Select the **Learning** folder, click the **New** drop-down and select **New Program**.
 
-   ![](assets/two-4.png)
+   ![](assets/drip-drip-nurture-2.png)
 
 1. Enter a **Name** and select **Engagement** for the **Program Type**.
 
-   ![](assets/three-3.png)
+   ![](assets/drip-drip-nurture-3.png)
 
 1. Make sure the **Channel** field is **Nurture** and click **Create**.
 
-   ![](assets/four-2.png)
+   ![](assets/drip-drip-nurture-4.png)
 
    You've now created an engagement program.
 
 ## Step 2: Create an Email {#step-create-an-email}
 
-1. Select your engagement program, then click **New** and select **New Local Asset**.
+1. Select your engagement program, click **New** and select **New Local Asset**.
 
-   ![](assets/five-3.png)
+   ![](assets/drip-drip-nurture-5.png)
 
 1. Click **Email**.
 
-   ![](assets/six-3.png)
+   ![](assets/drip-drip-nurture-6.png)
 
 1. Enter a **Name**, select the **Template** you want to use, and click **Create**.
 
-   ![](assets/seven-4.png)
+   ![](assets/drip-drip-nurture-7.png)
 
    >[!NOTE]
    >
@@ -55,53 +55,53 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 
 1. Enter a subject.
 
-   ![](assets/eight-2.png)
+   ![](assets/drip-drip-nurture-8.png)
 
 1. Select the area of the email you want to edit, click the gear icon and select **Edit**.
 
-   ![](assets/nine-1.png)
+   ![](assets/drip-drip-nurture-9.png)
 
 1. Edit your email and click **Save**.
 
-   ![](assets/ten-3.png)
+   ![](assets/drip-drip-nurture-10.png)
 
-1. Close the email editor tab/window.
+1. Under **Email Actions**, click **Approve and Close**.
 
-   ![](assets/eleven-3.png)
-
-1. Under **Email Actions**, click **Approve**.
-
-   ![](assets/twelve-2.png)
+   ![](assets/drip-drip-nurture-11.png)
 
    >[!NOTE]
    >
-   >Don't forget to approve your emails or you won't be able to activate them later.
+   >Remember to approve your emails or you won't be able to activate them later.
 
-1. Now create another email by repeating the Step 2 actions.
+1. Now create another email by repeating the actions in Steps 2-7.
 
-   ![](assets/thirteen-2.png)
+   ![](assets/drip-drip-nurture-12.png)
 
 ## Step 3: Add Content to Your Stream {#step-add-content-to-your-stream}
 
-1. Now it's time to create a stream of content for your engagement program using the emails you created.
+Now it's time to create a stream of content for your engagement program using the emails you created.
 
-1. Select your engagement program, and click on the **Streams** tab.
+1. Select your engagement program and click the **Streams** tab.
 
-   ![](assets/fourteen-2.png)
+   ![](assets/drip-drip-nurture-13.png)
 
-1. Drag the two emails you created to the right canvas.
+1. Click the **Add Content** button in the stream.
 
-   ![](assets/fifteen-2.png)
+   ![](assets/drip-drip-nurture-14.png)
 
    >[!TIP]
    >
-   >You can also use the **Add Content** button or the stream **+** icon.
+   >You can also use the **+** icon.
+
+1. Leave the "Email" type selected. Find and select the two emails you created.
+
+   ![](assets/drip-drip-nurture-15.png)
 
 ## Step 4: Activate Stream Content {#step-activate-stream-content}
 
 1. Activate all content at once by clicking on the stream gear icon, then click **Activate all content**.
 
-   ![](assets/image2014-9-24-12-3a48-3a28.png)
+   ![](assets/drip-drip-nurture-16.png)
 
    >[!NOTE]
    >
@@ -113,11 +113,11 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 
 1. Click **Set Stream Cadence**.
 
-   ![](assets/seventeen.png)
+   ![](assets/drip-drip-nurture-17.png)
 
 1. Edit the settings to match the schedule you want and click **Save**.
 
-   ![](assets/image2014-9-24-12-3a49-3a5.png)
+   ![](assets/drip-drip-nurture-18.png)
 
    Your engagement program is all set. Now let's add a test person to your program.
 
@@ -129,23 +129,23 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 
 1. Go to the **Database** area.
 
-   ![](assets/nineteen-1.png)
+   ![](assets/drip-drip-nurture-19.png)
 
 1. Search for your test person.
 
-   ![](assets/twenty-1.png)
+   ![](assets/drip-drip-nurture-20.png)
 
    >[!NOTE]
    >
    >Make sure the test person has a valid email address so you can confirm the receipt of emails when testing.
 
-1. Right-click on the person, then click Programs and Add to Engagement Program.
+1. Right-click on the person, then click **Programs** and **Add to Engagement Program**.
 
-   ![](assets/twenty-one.png)
+   ![](assets/drip-drip-nurture-21.png)
 
 1. Select your **Program** and **Stream**, then click **Run Now**.
 
-   ![](assets/twenty-two.png)
+   ![](assets/drip-drip-nurture-22.png)
 
 1. Mission Complete!
 
