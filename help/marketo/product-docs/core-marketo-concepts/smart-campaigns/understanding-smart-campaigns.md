@@ -6,11 +6,9 @@ exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 ---
 # Understanding Smart Campaigns {#understanding-smart-campaigns}
 
-![](assets/image2014-12-24-11-3a37-3a0.png)
-
 If Marketo is a powerful car, the smart campaign is truly the engine. It's simple to get started but can do almost anything you ask of it.
 
-The smart campaign has 3 main areas: The [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md) tabs.
+The smart campaign has 3 main areas: The [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} tabs.
 
 ## Smart List {#smart-list}
 
@@ -48,6 +46,10 @@ Finally, this controls when you run your smart campaign. You can even set up rec
 
 There is an enormous amount of things the smart campaign can do. Get the hang of it and you'll find everything in Marketo becomes much simpler to understand.
 
+>[!CAUTION]
+>
+>If you move a Smart Campaign from one program to another program and the campaign’s Smart List or Flow Steps reference the original program, you must manually update the information to reflect its new program, as it will **not** auto-update.
+
 >[!MORELIKETHIS]
 >
->[Create a New Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>[Create a New Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
