@@ -6,6 +6,10 @@ exl-id: c55116b7-dd65-439f-b7d4-63892fb940cb
 ---
 # Create an Event in Marketo {#create-an-event-in-marketo}
 
+>[!IMPORTANT]
+>
+>As of August 2022, ON24 no longer supports new Marketo integrations. The information in this article only applies to existing users.
+
 A Marketo event tracks the progression of your people through a program. It pushes registration information and pulls attendance information using the ON24 adapter. The event captures the status of your people as they progress through it.
 
 Here's how the data is exchanged:

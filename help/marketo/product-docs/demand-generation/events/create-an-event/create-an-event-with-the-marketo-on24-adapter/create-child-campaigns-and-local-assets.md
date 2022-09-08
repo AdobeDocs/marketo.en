@@ -6,6 +6,10 @@ exl-id: 272105e1-43d6-455c-a533-aae65e859384
 ---
 # Create Child Campaigns and Local Assets {#create-child-campaigns-and-local-assets}
 
+>[!IMPORTANT]
+>
+>As of August 2022, ON24 no longer supports new Marketo integrations. The information in this article only applies to existing users.
+
 Create your child campaigns and local assets using the Design Studio.
 
 ## Landing Page and Form {#landing-page-and-form}

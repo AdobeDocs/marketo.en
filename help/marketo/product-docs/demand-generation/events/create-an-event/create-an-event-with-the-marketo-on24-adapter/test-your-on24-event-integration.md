@@ -6,6 +6,10 @@ exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 ---
 # Test Your ON24 Event Integration {#test-your-on-event-integration}
 
+>[!IMPORTANT]
+>
+>As of August 2022, ON24 no longer supports new Marketo integrations. The information in this article only applies to existing users.
+
 Make sure to test your event integration thoroughly.
 
 ## Recommended Test Sequence Before Running Your First Campaign {#recommended-test-sequence-before-running-your-first-campaign}

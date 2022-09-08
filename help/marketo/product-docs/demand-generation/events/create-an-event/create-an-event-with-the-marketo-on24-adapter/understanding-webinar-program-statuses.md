@@ -6,6 +6,10 @@ exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 ---
 # Understanding Webinar Program Statuses {#understanding-webinar-program-statuses}
 
+>[!IMPORTANT]
+>
+>As of August 2022, ON24 no longer supports new Marketo integrations. The information in this article only applies to existing users.
+
 Program statuses represent the different event statuses that a person progresses through as a member of the event. They are associated to a channel type. Marketo has a built-in channel type called **Webinar**. Statuses can be used in both batch and trigger campaigns.
 
 People move through program statuses in a linear fashion and do not go back in status. For example, a person with a status of **Attended** can't move back to **Registered**.

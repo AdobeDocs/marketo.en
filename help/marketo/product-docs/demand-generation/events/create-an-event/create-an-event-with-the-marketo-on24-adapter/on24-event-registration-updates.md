@@ -6,6 +6,10 @@ exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 ---
 # ON24 Event Registration Updates {#on-event-registration-updates}
 
+>[!IMPORTANT]
+>
+>As of August 2022, ON24 no longer supports new Marketo integrations. The information in this article only applies to existing users.
+
 ## Manually Approving Registrants {#manually-approving-registrants}
 
 You can manually approve your registrants before sending them a confirmation email. To do so, you will need to configure your campaigns to handle this additional step:

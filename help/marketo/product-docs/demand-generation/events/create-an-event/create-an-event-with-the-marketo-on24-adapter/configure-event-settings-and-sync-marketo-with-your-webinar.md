@@ -6,6 +6,10 @@ exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 ---
 # Configure Event Settings and Sync Marketo with Your Webinar {#configure-event-settings-and-sync-marketo-with-your-webinar}
 
+>[!IMPORTANT]
+>
+>As of August 2022, ON24 no longer supports new Marketo integrations. The information in this article only applies to existing users.
+
 Follow these steps to configure the Marketo event settings and connect Marketo and ON24.
 
 ## Set the Event {#set-the-event}

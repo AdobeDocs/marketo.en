@@ -6,7 +6,9 @@ exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 ---
 # Create an Event with the Marketo ON24 Adapter {#create-an-event-with-the-marketo-on-adapter}
 
-## Before You Begin {#before-you-begin}
+>[!IMPORTANT]
+>
+>As of August 2022, ON24 no longer supports new Marketo integrations. The information in this article only applies to existing users.
 
 You should be familiar with the building blocks and the recommended sequence for creating Events in Marketo. You should also have working knowledge of the following Marketo concepts:
 
@@ -34,7 +36,6 @@ The following are required to use the Marketo ON24 integration:
 
 Follow these steps to create an Event with the Marketo On24 Adapter:
 
-1. [Enter Your ON24 Credentials in Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/enter-your-on24-credentials-in-marketo.md)
 1. [Create Your Webinar Event in ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
 1. [Configure Event Settings and Sync Marketo with Your Webinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
 1. [Create Child Campaigns and Local Assets](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
