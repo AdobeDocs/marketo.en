@@ -14,9 +14,13 @@ If you haven't received an invite email, ask your Marketo administrator to invit
 >
 >You must be [issued a Marketo Email Add-in License](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
+>[!IMPORTANT]
+>
+>Installation is not supported on PCs where the Windows User folder contains non-English characters. This folder is generated automatically by Windows under <System Root>\Users\ based on the Windows User name and may contain non-English characters if the Windows User name is a non-English name. Please work with your IT team to verify if you're encountering installation issues.
+
 >[!NOTE]
 >
->As of 10/1/20, the latest version of the Outlook plug-in no longer supports offline mode. This will take effect after installing/upgrading on or after 10/1.
+>On 10/1/20, the latest version of the Outlook plug-in stopped supporting offline mode.
 
 ## Download Installer {#download-installer}
 
