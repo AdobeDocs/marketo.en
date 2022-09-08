@@ -16,7 +16,7 @@ If you haven't received an invite email, ask your Marketo administrator to invit
 
 >[!IMPORTANT]
 >
->Installation is not supported on PCs where the Windows User folder contains non-English characters. This folder is generated automatically by Windows under <System Root>\Users\ based on the Windows User name and may contain non-English characters if the Windows User name is a non-English name. Please work with your IT team to verify if you're encountering installation issues.
+>Installation is not supported on PCs where the Windows User folder contains non-English characters. This folder is generated automatically by Windows under `<System Root>\Users\` based on the Windows User name and may contain non-English characters if the Windows User name is a non-English name. Please work with your IT team to verify if you're encountering installation issues.
 
 >[!NOTE]
 >
