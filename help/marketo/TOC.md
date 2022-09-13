@@ -166,7 +166,7 @@ feature-set: Marketo Engage
       + [Custom Object Metadata Export](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
     + Marketo with Adobe Identity {#marketo-with-adobe-identity}
       + [Quick Guide](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
-      + [Overview](product-docs/administration/marketo-with-adobe-identity/overview.md)
+      + [Adobe Identity Management Overview](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
       + [Admin Setup](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
       + [Product Admin Setup](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
       + [Add API Only User for Adobe IMS Enabled Subscriptions](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
@@ -1864,6 +1864,7 @@ feature-set: Marketo Engage
       + [Release Notes: March '22](release-notes/previous-releases/2022/release-notes-mar-22.md)
       + [Release Notes: May '22](release-notes/previous-releases/2022/release-notes-may-22.md)
       + [Release Notes: June '22](release-notes/previous-releases/2022/release-notes-june-22.md)
+      + [Release Notes: August '22](release-notes/previous-releases/2022/release-notes-aug-22.md)
     + 2021 {#2021}
       + [Release Notes: January '21](release-notes/previous-releases/2021/release-notes-jan-21.md)
       + [Release Notes: May '21](release-notes/previous-releases/2021/release-notes-may-21.md)

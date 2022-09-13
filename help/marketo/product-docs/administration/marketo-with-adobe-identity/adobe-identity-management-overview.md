@@ -1,12 +1,11 @@
 ---
-description: Overview - Marketo Docs - Product Documentation
-title: Overview
+description: Adobe Identity Management Overview - Marketo Docs - Product Documentation
+title: Adobe Identity Management Overview
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 ---
-# Overview {#overview}
+# Adobe Identity Management Overview {#adobe-identity-management-overview}
 
-If you have a new account with Adobe Marketo Engage (new account, not just a new instance for an existing account)
-as of Feb 15, 2022, it may come integrated with the Adobe Identity Management System, depending on the product package purchased. To find out if you have it, please contact your Marketo Admin or your account's Customer Success Manager.
+If you have a new account with Adobe Marketo Engage (new account, not just a new instance for an existing account) as of Feb 15, 2022, it may come integrated with the Adobe Identity  Management System, depending on the product package purchased. To find out if you have it, please contact your Marketo Admin or your account's Customer Success Manager.
 
 Existing Marketo subscriptions will be migrated to the Adobe Identity Management System beginning later this year.
 

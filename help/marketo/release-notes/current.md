@@ -3,69 +3,55 @@ description: Current Release Notes - Marketo Docs - Product Documentation
 title: Current Release Notes
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 ---
-# Release Notes: August 2022 {#release-notes-aug-22}
+# Release Notes: October 2022 {#release-notes-oct-22}
 
-Below you'll find all the features included in the August '22 release. Check your Adobe Marketo Engage edition for feature availability.
+Below you'll find all the features included in the October '22 release. Check your Adobe Marketo Engage edition for feature availability.
 
 >[!AVAILABILITY]
 >
 >Features denoted by a star (![star](assets/yellow-star.png)) are paid add-ons. Please contact your Marketo Engage representative to learn more.
 
-The following features will start to be released on **August 26, 2022**, with a phased rollout of remaining features over the subsequent weeks (unless specified otherwise). Release features and exact dates are subject to change.
+The following features will start to be released on **October 14, 2022**, with a phased rollout of remaining features over the subsequent weeks (unless specified otherwise). Release features and exact dates are subject to change.
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
-* **[Enable/Disable All Published Dialogues at Once for Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target="_blank"}**: Globally enable/disable all published Dialogues at once from the Configuration page with the press of a button.
+* **Auto Arrange Dialogue streams for Dynamic Chat**: Improve your crowded Dialogue canvas by organizing everything on the canvas into a clean and easy to read format with the press of a button through Auto Arrange.  
 
-* **[Custom Avatars for Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target="_blank"}**: Upload a custom chatbot avatar so it can be personalized to your brand.
+* **Support additional data types for Dynamic Chat**: Three new data types (boolean, integer, float) allow you to leverage more existing Marketo Engage fields in Dynamic Chat for things like targeting based on scores or asking visitors yes/no questions.  
 
-* **Chat Transcripts for Dynamic Chat**: View chat transcripts for every conversation to obtain deeper insight into what each web visitor is interested in.
+* **Meeting Links for Dynamic Chat**: Option to automatically include a Teams or Meet link for Google and Outlook in every calendar invite that's sent to visitors.
 
-## Next-generation Experience
+* **Scheduled Meeting Notifications for Dynamic Chat**: Sales representatives get automated email notifications regarding scheduled meetings as well as any relevant information about the visitor's chatbot interaction.
 
-* **Adobe Branding**: Updated look and feel for editors and person detail page with new Adobe Experience Cloud branding.
+* **Roles and Permissions for Dynamic Chat**: Admins can use granular permissions to control visibility and usage of the application and create custom user roles.
 
-* **Display Folder Hierarchy of Destination Folder in the Move Dialog**: Viewing the folder hierarchy for each folder makes moving assets easier and reduces the likelihood of putting them in the wrong folder.
+  * Full access - users can take full advantage of the feature (e.g., publish Dialogues, change color scheme, etc.)
+  * Read-only access - users can see information but cannot make changes (e.g., see Audience Criteria or Stream Designer, but not alter)
+  * Restricted access - users cannot see or access the Configuration or Integrations sections
 
-* **[Updated Screens in the Next-Generation Experience](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target="_blank"}**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
+## Next-generation Experience {#next-generation-experience}
 
-  * Snippet Details
-  * "Images and Files" Details
+* **Updated Screens in the Next-Generation Experience**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
 
->[!NOTE]
->
->The exception is moving an asset to a folder within a program in Marketing Activities. This move action will not display the folder hierarchy as folders within a program cannot have duplicate names.
+  * Landing Page Template Details
+  * Email Template List
 
-## Experience Automation {#experience-automation}
+* **Enhanced Used by tab in Email Template Details**: In the new experience, you will see additional information related to assets using the email template, including Asset Status, Last Modified, and Last Modified By. You can also search, sort, and filter the list of used by assets.
 
-* **[Self-Service Flow Steps - Program Import Enhancements](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target="_blank"}**: Improved support for importing programs with custom flow steps where you can now use multiple instances of the same service provider and import programs which have flow steps compatible with those service providers.
-
-* **Munchkin - Expanded Link Tracking**: Extend support for tracking of `tel` and `mailto` links with Munchkin to track an expanded set of web behaviors.
-
-* **Webhook Custom Header Visibility**: Webhook custom headers are now displayed in the Admin > Webhooks tab for better visibility.
-
-* **CAPTCHA**: Evaluate the validity of form submissions using reCAPTCHA v3 to score incoming form traffic. Build marketing workflows to automatically exclude, quarantine, or delete suspicious bot traffic.
-
-* **Permission to Approve Form**: New permission to control which designers can approve changes to a form in line with other Design Studio assets. This prevents other designers from pushing changes to forms without someone else with approval permission reviewing it.
-
-* **Always Perform Campaign Replay After Anonymous Merge**: Anonymous lead merge happens before campaign replay so custom field filters behave reliably when anonymous campaign replay is done.
+* **Report Asset Filter Modals**: New design for report configuration modals displaying a new asset tree in the configuration menu and a filter for Date Created and Modified.
 
 ## Marketing Data Environment {#marketing-data-environment}
 
-* **Fix UI truncation of Custom Object "Used By" fields**: It's now easier to identify custom object fields that are "in use" so you can delete fields from a Custom Object when necessary.
+* **Adobe Privacy Service Integration**: Harmonize with Privacy Service to automate compliance with data privacy regulations across Experience Cloud products. Currently, this service is only available to Marketo Engage customers that have onboarded to the [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} System.
+
+* **Program Member Custom Fields Sync**: Ability to bidirectionally sync extensible fields captured for a program member (e.g., attendee preferences during event registration such as food, sessions, tracks, etc.)
 
 ## API Enhancements {#api-enhancements}
 
-* **New Filtering Capabilities for Bulk Program Member Extract API**: Filter by program membership status, updatedAt, cadence, or exhausted content to refine extracted data set.
-
-## Sales Insight {#sales-insight}
-
-![(star)](assets/yellow-star.png)
-
-* **[Sales Insight Integration with Dynamic Chat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**: View activities from Dynamic Chat in the Sales Insight panel and leverage this new data point in your prospecting effort.
+* **Bulk Lead Import: Salesperson association**: Parity with Lead REST API to able to associate leads with Salespersons during the bulk lead import process, reducing complexity and the number of API calls required.
 
 ## Announcements {#announcements}
 
-**_Product Release Webinar_**
+* **Forms 1.0**: The deprecation of Forms 1.0 will be completed with the October release. Forms 1.0 assets will no longer be able to submit data to Marketo Engage and will return errors if attempted.
 
-[June and August 2022 Marketo Engage Release Webinar](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **No-Script Forms**: Forms will no longer function when Javascript is disabled in the browser. Form submission will require Javascript be enabled.
