@@ -10,7 +10,7 @@ If you're [using SSO](/help/marketo/product-docs/administration/additional-integ
 
 >[!IMPORTANT]
 >
->This article does not apply to [Adobe IMS-enabled](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md) Marketo subscriptions.
+>This article does not apply to [Adobe IMS-enabled](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) Marketo subscriptions.
 
 >[!NOTE]
 >

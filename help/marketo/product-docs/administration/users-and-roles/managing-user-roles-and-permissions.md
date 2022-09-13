@@ -26,7 +26,7 @@ You cannot edit the Admin and Standard User roles, but you can edit the others. 
 
 ## Marketo with Adobe Identity {#marketo-with-adobe-identity}
 
-If you're using Marketo with Adobe Identity, the list of profile descriptions [can be found here](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md#profile-levels).
+If you're using Marketo with Adobe Identity, the list of profile descriptions [can be found here](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
 
 ## Assign Roles to a User {#assign-roles-to-a-user}
 
