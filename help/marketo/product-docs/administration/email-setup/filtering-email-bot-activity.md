@@ -30,15 +30,13 @@ Against email link click and email open activity, new attribtues will be populat
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Choose to **Match with IAB List**, **Match with Proximity Pattern**, or both.
+1. Choose to **Match with IAB List**, **Match with Proximity Pattern**, or both. Choose whether to log bot activity _or_ filter bot activity.
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->* You can choose to have bot activity filtered **or** logged. If you choose filtered, you may see a drop in email opens and clicks as false activities are weeded out.
->
->* Only “Log Bot Activity” is available for "Match with Proximity Pattern" at this time.
+>If you choose Filter Bot Activity, you may see a drop in email opens and clicks as false activities are weeded out.
 
 **OPTIONAL STEP**: To disable this feature, simply deselect the slider(s). If you disable, the data does not reset.
 
