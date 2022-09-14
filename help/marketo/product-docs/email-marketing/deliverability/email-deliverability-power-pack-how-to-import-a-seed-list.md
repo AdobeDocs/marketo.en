@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10099077
-description: Email Deliverability Power Pack -How to Import a Seedlist - Marketo Docs - Product Documentation
-title: Email Deliverability Power Pack -How to Import a Seedlist
+description: Email Deliverability Power Pack -How to Import a Seed List - Marketo Docs - Product Documentation
+title: Email Deliverability Power Pack -How to Import a Seed List
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 ---
-# Email Deliverability Power Pack: How to Import a Seedlist {#email-deliverability-power-pack-how-to-import-a-seedlist}
+# Email Deliverability Power Pack: How to Import a Seed List {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-A seed list is a list of email accounts at multiple mailbox providers, including Google Apps, Hotmail, Yahoo!, etc., that are used to approximate the rate of inbox versus spam folder deliverability. Here’s how to get that list into your Marketo instance.
+A Seed List is a list of email accounts at multiple mailbox providers, including Google Apps, Hotmail, Yahoo!, etc., that are used to approximate the rate of inbox versus spam folder deliverability. Here’s how to get that list into your Marketo instance.
 
 >[!AVAILABILITY]
 >
 >Not all customers have purchased this functionality. Contact your Sales Rep for details.
 
-## Import a Seedlist {#import-a-seedlist}
+## Import a Seed List {#import-a-seed-list}
 
 1. In your My Marketo, select **Deliverability Tools**.
 
@@ -48,6 +48,6 @@ A seed list is a list of email accounts at multiple mailbox providers, including
 
 ## Acquiring New Seedlists {#acquiring-new-seedlists}
 
-   Your seedlist can change as often as every month. It's important to log in to the Email Deliverabilty Power Pack regularly and check the status of your seed list. When new addresses are added or an update is required on your end, you will be alerted through the interface on the Get Seedlist page.
+   Your Seed List can change as often as every month. It's important to log in to the Email Deliverabilty Power Pack regularly and check the status of your Seed List. When new addresses are added or an update is required on your end, you will be alerted via the Notification Icon on the lower left hand side of the application.
 
 After your static list in Marketo is created, you can begin sending to it to test your email’s inbox placement.
