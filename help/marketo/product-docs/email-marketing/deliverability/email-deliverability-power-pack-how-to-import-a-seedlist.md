@@ -18,25 +18,25 @@ A seed list is a list of email accounts at multiple mailbox providers, including
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Click **Inbox Informant**.
+1. The Everest application will open. In the left nav, click **In-Flight** and select **Inbox Placement**.
 
-   ![](assets/two-1.png)
+   ![](assets/email-deliverability-power-pack-2.png)
 
-1. Click **Get Seedlist**.
+1. Click the **Manage Seed List** tab.
 
-   ![](assets/three-1.png)
+   ![](assets/email-deliverability-power-pack-3.png)
 
-1. Click **Export List**.
+1. Click the Actions drop-down and select **Download One Per Line**.
 
-   ![](assets/four.png)
+   ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >Choose **Optimize List** if you want 250ok to [optimize your list](https://help.returnpath.com/hc/en-us/articles/360046746451-What-is-250ok-s-seedlist-optimizer-and-why-should-I-use-it-) for you. Choose **Customize List** if you want to select the seedlist regions you'd like to include.
+   >Use the Seed List Optimizer (at the top of the page) if you want Everest to optimize your list for you.
 
 1. After export, the list will appear as a .txt file in your browser’s downloads folder. Retrieve it, and [import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) it into your Marketo instance as a static list.
 
-   ![](assets/five.png)
+   ![](assets/email-deliverability-power-pack-5.png)
 
    >[!TIP]
    >
@@ -44,7 +44,7 @@ A seed list is a list of email accounts at multiple mailbox providers, including
 
    >[!CAUTION]
    >
-   >You get a limited amount of these Inbox Informant Campaigns per month. To see how many you get, look in your 250ok **Account Settings**. To obtain more, please contact your Marketo Sales Rep.
+   >You get a limited amount of these Inbox Placement Campaigns per month. To see how many you get, look at the Subscription section under Account Settings > Subscription in Everest. To obtain more, please contact your Marketo Sales Rep.
 
 ## Acquiring New Seedlists {#acquiring-new-seedlists}
 
