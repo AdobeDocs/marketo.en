@@ -9,7 +9,13 @@ This document provides an overview of managing individual data privacy requests 
 
 >[!NOTE]
 >
->Privacy requests submitted through Privacy Service UI or API for Marketo Engage apply only to those who have Marketo Engage + RT-CDP, B2B and B2P Editions.
+>Privacy requests submitted through Privacy Service UI or API for Marketo Engage apply only to the following:
+>
+>* Marketo Engage users that have onboarded to Adobe Identity Management System
+>
+>**-or-**
+>
+>* Marketo Engage users utilizing another Experience Cloud product that's already on the Adobe Identity Management System (e.g., RT-CDP, B2B and B2P Editions, Audience Manager).
 
 You can submit individual requests to access and delete consumer data from Marketo Engage in two ways:
 

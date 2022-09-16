@@ -9,7 +9,13 @@ Marketo Engage offers a set of tools to help you comply with Privacy regulations
 
 >[!NOTE]
 >
->Privacy requests submitted through Privacy Service UI or API for Marketo Engage apply only to those who have Marketo Engage + RT-CDP, B2B and B2P Editions.
+>Privacy requests submitted through Privacy Service UI or API for Marketo Engage apply only to the following:
+>
+>* Marketo Engage users that have onboarded to Adobe Identity Management System
+>
+>**-or-**
+>
+>* Marketo Engage users utilizing another Experience Cloud product that's already on the Adobe Identity Management System (e.g., RT-CDP, B2B and B2P Editions, Audience Manager).
 
 ## Regulations on Privacy Management {#regulations-on-privacy-management}
 
