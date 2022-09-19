@@ -45,6 +45,10 @@ For example:
 
 `pages.abc.com IN CNAME mkto-a0244.com`
 
+>[!NOTE]
+>
+>`[MktoTrackingLink]` must be the Default Branding Domain.
+
 `3` **Notify Your Marketing Team**
 
 Notify your marketing team when you’ve completed this process.
