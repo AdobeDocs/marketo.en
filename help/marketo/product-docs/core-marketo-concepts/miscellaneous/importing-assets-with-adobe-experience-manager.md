@@ -18,7 +18,7 @@ The Asset Selector allows Marketo customers to access, select, and import AEM as
 
 >[!IMPORTANT]
 >
->This feature is fully supported in the current versions of Firefox, Chrome, and Edge. It is not supported in Safari.
+>Currently, this feature is only fully supported in Firefox. It is not supported in Safari, and it might not work in the latest version of Chrome, depending on your SameSite cookie settings.
 
 1. Click **Design Studio**.
 
