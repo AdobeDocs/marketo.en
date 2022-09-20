@@ -18,9 +18,9 @@ The `{{system.date}}` token will render current date at runtime like so: **Aug 0
 
 **Works in:**
 
-* [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) flow step
-* [Interesting Moment](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) flow step
-* [Create Task](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) flow step
+* [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"} flow step
+* [Interesting Moment](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} flow step
+* [Create Task](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flow step
 * The body of an email or template
 
 ## system.time {#system-time}
@@ -29,9 +29,9 @@ The `{{system.time}}` token will render the current time at runtime like so: **0
 
 **Works in:**
 
-* [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) flow step
-* [Interesting Moment](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) flow step
-* [Create Task](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) flow step
+* [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"} flow step
+* [Interesting Moment](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} flow step
+* [Create Task](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flow step
 * The body of an email or template
 
 ## system.dateTime {#system-datetime}
@@ -40,26 +40,26 @@ The `{{system.dateTime}}` token will render the current date and time at runtime
 
 **Works in:**
 
-* [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) flow step
-* [Interesting Moment](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) flow step
-* [Create Task](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) flow step
+* [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"} flow step
+* [Interesting Moment](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} flow step
+* [Create Task](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flow step
 * The body of an email or template
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-The `{{system.forwardToFriendLink}}` token allows you to control the placement of the ['Forward to a Friend Link' in Emails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md).
+The `{{system.forwardToFriendLink}}` token allows you to control the placement of the ['Forward to a Friend Link' in Emails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md){target="_blank"}.
 
 **Works in:**
 
-* [Add a System Token as a Link in an Email](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) or template
+* [Add a System Token as a Link in an Email](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"} or template
 
 ## system.unsubscribeLink {#system-unsubscribelink}
 
-The `{{system.unsubscribLink}}` token allows you to control the placement of the unsubscribe link in an email.
+The `{{system.unsubscribeLink}}` token allows you to control the placement of the unsubscribe link in an email.
 
 **Works in:**
 
-* [Add a System Token as a Link in an Email](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) or template
+* [Add a System Token as a Link in an Email](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"} or template
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
@@ -67,4 +67,4 @@ The `{{system.viewAsWebpageLink}}` token allows you to control the placement of 
 
 **Works with:**
 
-* [Add a System Token as a Link in an Email](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) or template
+* [Add a System Token as a Link in an Email](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"} or template
