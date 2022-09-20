@@ -21,21 +21,21 @@ exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 
 1. Go to the **Admin** area.
 
-   ![](assets/admin.png)
+   ![](assets/redirect-a-landing-page-1.png)
 
 1. Go to **Landing Pages**.
 
-   ![](assets/image2014-9-24-13-3a28-3a43.png)
+   ![](assets/redirect-a-landing-page-2.png)
 
 1. Click the **Rules** tab, then click **New** and **New Redirect Rule**.
 
-   ![](assets/image2014-9-24-13-3a28-3a59.png)
+   ![](assets/redirect-a-landing-page-3.png)
 
 ## Step 2: Define the Redirect Rule {#step-define-the-redirect-rule}
 
 1. Click the first **Original URL** drop-down and select your Marketo CNAME.
 
-   ![](assets/image2014-9-24-13-3a30-3a33.png)
+   ![](assets/redirect-a-landing-page-4.png)
 
    >[!NOTE]
    >
@@ -43,11 +43,11 @@ exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 
 1. Click the second **Original URL** drop-down and select the landing page you want to redirect.
 
-   ![](assets/image2014-9-24-13-3a30-3a50.png)
+   ![](assets/redirect-a-landing-page-5.png)
 
 1. For **Redirect URL** select the page you want to redirect to and click **Create**.
 
-   ![](assets/image2014-9-24-13-3a31-3a10.png)
+   ![](assets/redirect-a-landing-page-6.png)
 
 ## Mission Complete {#mission-complete}
 
