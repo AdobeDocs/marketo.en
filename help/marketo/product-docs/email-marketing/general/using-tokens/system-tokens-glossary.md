@@ -55,7 +55,7 @@ The `{{system.forwardToFriendLink}}` token allows you to control the placement o
 
 ## system.unsubscribeLink {#system-unsubscribelink}
 
-The `{{system.unsubscribLink}}` token allows you to control the placement of the unsubscribe link in an email.
+The `{{system.unsubscribeLink}}` token allows you to control the placement of the unsubscribe link in an email.
 
 **Works in:**
 
