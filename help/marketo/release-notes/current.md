@@ -50,6 +50,12 @@ The following features will start to be released on **October 14, 2022**, with a
 
 * **Bulk Lead Import: Salesperson association**: Parity with Lead REST API to able to associate leads with Salespersons during the bulk lead import process, reducing complexity and the number of API calls required.
 
+## Sales Insight {#sales-insight}
+
+![(star)](assets/yellow-star.png)
+
+* **[Sales Insight Integration with Dynamic Chat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**: Insights Dashboard now includes Dynamic Chat activities in the Smart Grid along with a weekly summary and detail cards.
+
 ## Announcements {#announcements}
 
 * **Forms 1.0**: The deprecation of Forms 1.0 will be completed with the October release. Forms 1.0 assets will no longer be able to submit data to Marketo Engage and will return errors if attempted.
