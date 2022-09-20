@@ -19,7 +19,7 @@ Let's imagine that at your recent tradeshow, a person gave you some additional c
 
 1. Go to your Database.
 
-   ![](assets/db-3.png)
+   ![](assets/update-person-data-1.png)
 
 1. Search the person's name or email address.
 
@@ -27,11 +27,11 @@ Let's imagine that at your recent tradeshow, a person gave you some additional c
    >
    >Using the email address to search will result in faster search.
 
-   ![](assets/two-rubiks.png)
+   ![](assets/update-person-data-2.png)
 
 1. Double-click to open the person detail.
 
-   ![](assets/three-rubiks.png)
+   ![](assets/update-person-data-3.png)
 
    >[!TIP]
    >
@@ -41,7 +41,7 @@ Let's imagine that at your recent tradeshow, a person gave you some additional c
 
 1. Type in the new info you received and then close the tab.
 
-![](assets/four-rubiks.png)
+![](assets/update-person-data-4.png)
 
 >[!NOTE]
 >
