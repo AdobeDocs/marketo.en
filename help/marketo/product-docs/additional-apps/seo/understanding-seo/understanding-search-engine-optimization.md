@@ -46,8 +46,8 @@ First, you should learn the basics with this handy glossary.
 
 ## How do I get started? {#how-do-i-get-started}
 
-1. Develop your strategy with [Understanding Keywords](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-1. Fix existing issues in [Understanding Pages](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-1. Extend your reach by [Understanding Inbound Links](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
+1. Develop your strategy with [Understanding Keywords](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
+1. Fix existing issues in [Understanding Pages](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md){target="_blank"}
+1. Extend your reach by [Understanding Inbound Links](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md){target="_blank"}
 
 Your goal is to be as close to the first page (and the first result) for keywords that matter to your business.

@@ -6,10 +6,6 @@ exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 ---
 # Example ON24 Event Integration {#example-on-event-integration}
 
->[!IMPORTANT]
->
->As of August 2022, ON24 no longer supports new Marketo integrations. The information in this article only applies to existing users.
-
 Here's a sample event, including campaigns, for an ON24 webinar. When you build your event, be sure to test your campaigns before running them.
 
 ## Create a New Event in Marketing Activities {#create-a-new-event-in-marketing-activities}
@@ -90,4 +86,4 @@ Here's a sample event, including campaigns, for an ON24 webinar. When you build 
 
 >[!MORELIKETHIS]
 >
->[Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

@@ -6,10 +6,6 @@ exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 ---
 # Understanding Webinar Program Statuses {#understanding-webinar-program-statuses}
 
->[!IMPORTANT]
->
->As of August 2022, ON24 no longer supports new Marketo integrations. The information in this article only applies to existing users.
-
 Program statuses represent the different event statuses that a person progresses through as a member of the event. They are associated to a channel type. Marketo has a built-in channel type called **Webinar**. Statuses can be used in both batch and trigger campaigns.
 
 People move through program statuses in a linear fashion and do not go back in status. For example, a person with a status of **Attended** can't move back to **Registered**.
@@ -26,7 +22,7 @@ Here's a brief description of the program statuses associated to the Webinar cha
 
 **Invited** - Use this status to add people to the event.
 
-**Pending Approval** - Use this status to hold off on sending your people a confirmation email. See "Manually Approving Registrants" in [ON24 Event Registration Updates](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) for more information.
+**Pending Approval** - Use this status to hold off on sending your people a confirmation email. See "Manually Approving Registrants" in [ON24 Event Registration Updates](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"} for more information.
 
 **Wait Listed** - Use this status to keep some people waiting until additional seats become available.
 
@@ -52,4 +48,4 @@ Here's a brief description of the program statuses associated to the Webinar cha
 
 >[!MORELIKETHIS]
 >
->[Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

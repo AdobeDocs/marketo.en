@@ -6,10 +6,6 @@ exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 ---
 # Test Your ON24 Event Integration {#test-your-on-event-integration}
 
->[!IMPORTANT]
->
->As of August 2022, ON24 no longer supports new Marketo integrations. The information in this article only applies to existing users.
-
 Make sure to test your event integration thoroughly.
 
 ## Recommended Test Sequence Before Running Your First Campaign {#recommended-test-sequence-before-running-your-first-campaign}
@@ -32,5 +28,5 @@ Here’s how data is updated after the event takes place:
 
 >[!MORELIKETHIS]
 >
->* [Example ON24 Event Integration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
->* [Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>* [Example ON24 Event Integration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
+>* [Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

@@ -6,10 +6,6 @@ exl-id: 272105e1-43d6-455c-a533-aae65e859384
 ---
 # Create Child Campaigns and Local Assets {#create-child-campaigns-and-local-assets}
 
->[!IMPORTANT]
->
->As of August 2022, ON24 no longer supports new Marketo integrations. The information in this article only applies to existing users.
-
 Create your child campaigns and local assets using the Design Studio.
 
 ## Landing Page and Form {#landing-page-and-form}
@@ -47,7 +43,7 @@ Use Marketo to send out the confirmation email for your event. When a person reg
 
 >[!TIP]
 >
->You can configure ON24 to send out confirmation, reminder, or follow-up emails. See the [ON24 Help Site](https://www.on24.com/live-webcast-elite/) for more information.
+>You can configure ON24 to send out confirmation, reminder, or follow-up emails. See the [ON24 Help Site](https://www.on24.com/live-webcast-elite/){target="_blank"} for more information.
 
 ## Registration Child Campaign Requirements {#registration-child-campaign-requirements}
 
@@ -92,10 +88,10 @@ The **Send Email** flow step MUST be the second step. The confirmation email con
 >
 >If the person is returned with a registration error, they will not receive the email confirmation.
 
-Your next step is to [test Your ON24 event integration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md).
+Your next step is to [test Your ON24 event integration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
->* [Example ON24 Event Integration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
->* [Understanding Webinar Program Statuses](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
+>* [Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>* [Example ON24 Event Integration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
+>* [Understanding Webinar Program Statuses](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target="_blank"}

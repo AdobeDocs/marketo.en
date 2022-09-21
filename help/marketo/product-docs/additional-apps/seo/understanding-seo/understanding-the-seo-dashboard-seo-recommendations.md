@@ -14,7 +14,7 @@ You can also find out how to improve using the Recommendations section. Let's di
 
 ## Top Page Optimization Issues {#top-page-optimization-issues}
 
-This will show you five high-impact ways to start optimizing your site right away! Just click on any of the links to view the full [Page Detail Drill Down](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
+This will show you five high-impact ways to start optimizing your site right away! Just click on any of the links to view the full [Page Detail Drill Down](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
 
 >[!TIP]
 >
@@ -36,4 +36,4 @@ Right on! Dive deeper here.
 
 >[!MORELIKETHIS]
 >
->[Page Detail Drill Down](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
+>[Page Detail Drill Down](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}

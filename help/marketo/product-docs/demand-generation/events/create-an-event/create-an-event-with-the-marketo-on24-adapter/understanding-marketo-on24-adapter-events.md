@@ -6,10 +6,6 @@ exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 ---
 # Understanding Marketo On24 Adapter Events {#understanding-marketo-on-adapter-events}
 
->[!IMPORTANT]
->
->As of August 2022, ON24 no longer supports new Marketo integrations. The information in this article only applies to existing users.
-
 If your ON24 webinar isn't connected to Marketo, you have to take attendee information that’s already in Marketo and enter it into ON24. After the webinar, you have to take attendance information that’s already in ON24 and enter it back into Marketo.
 
 The ON24 adapter does all the information transfer for you. It pushes registration information captured on a Marketo landing page to ON24 and pulls attendance information automatically into a Marketo Event.
@@ -20,4 +16,4 @@ The graphic below depicts the integration process.
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-Ready to begin? Start with [Create an Event with the ON24 Adapter](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md).
+Ready to begin? Start with [Create an Event with the ON24 Adapter](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target="_blank"}.
