@@ -6,9 +6,9 @@ exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 ---
 # Add Google AdWords as a LaunchPoint Service {#add-google-adwords-as-a-launchpoint-service}
 
-Link your Google AdWords account to Marketo to automatically upload offline conversion data from Marketo to Google AdWords. Then, from the AdWords UI, you will be able to easily see which clicks resulted in qualified leads, opportunities, and new customers (or whatever revenue stages you want to track) after you [add custom columns](https://support.google.com/adwords/answer/3073556) in AdWords. This information does not appear in the Marketo UI.
+Link your Google AdWords account to Marketo to automatically upload offline conversion data from Marketo to Google AdWords. Then, from the AdWords UI, you will be able to easily see which clicks resulted in qualified leads, opportunities, and new customers (or whatever revenue stages you want to track) after you [add custom columns](https://support.google.com/adwords/answer/3073556){target="_blank"} in AdWords. This information does not appear in the Marketo UI.
 
-Learn more about [Google’s offline conversion import feature](https://support.google.com/adwords/answer/2998031?hl=en).
+Learn more about [Google’s offline conversion import feature](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -20,23 +20,23 @@ Learn more about [Google’s offline conversion import feature](https://support.
 
 >[!NOTE]
 >
->You can also integrate a [Google AdWords as a Launchpoint service with a manager account](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
+>You can also integrate a [Google AdWords as a Launchpoint service with a manager account](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
 
 1. Go to the **Admin** section.
 
-   ![](assets/login-admin.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-1.png)
 
 1. Select **LaunchPoint**.
 
-   ![](assets/image2014-12-5-14-3a35-3a27.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-2.png)
 
 1. Select **New** and **New Service**.
 
-   ![](assets/image2015-2-23-14-3a54-3a50.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-3.png)
 
 1. Enter a display name and select **Google AdWords**.
 
-   ![](assets/new-service-google.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-4.png)
 
 1. Select **Authorize Marketo**.
 
@@ -44,25 +44,27 @@ Learn more about [Google’s offline conversion import feature](https://support.
    >
    >Make sure to log out of your personal Gmail account and enable pop-ups.
 
-   ![](assets/image2015-2-26-20-3a54-3a1.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-5.png)
 
 1. Select your account associated with Google AdWords.
 
-   ![](assets/image2015-2-23-15-3a31-3a16.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-6.png)
 
 1. Select **Accept**.
 
-   ![](assets/image2015-2-23-16-3a32-3a45.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-7.png)
 
 1. Status will display as **Success**. Select **Next**.
 
-   ![](assets/image2015-2-26-20-3a55-3a21.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-8.png)
 
 1. Upload your offline conversions from Marketo to Google AdWords **Weekly** or **Daily**.
 
-   ![](assets/image2015-2-23-16-3a53-3a4.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-9.png)
 
 1. Attribute conversion to the **First Click** or **Last Click**.
+
+   ![](assets/add-google-adwords-as-a-launchpoint-service-10.png)
 
    | Type |Definition |
    |---|---|
@@ -73,18 +75,16 @@ Learn more about [Google’s offline conversion import feature](https://support.
    >
    >Using a consistent attribution model in Marketo and AdWords provides the most accurate data.
 
-   ![](assets/image2015-2-23-16-3a57-3a49.png)
-
 1. Click **Create**.
 
-   ![](assets/image2015-2-23-17-3a50-3a9.png)
+   ![](assets/add-google-adwords-as-a-launchpoint-service-11.png)
 
    >[!NOTE]
    >
-   >[Auto-tagging](https://support.google.com/adwords/answer/1752125?hl=en) must be selected for this feature to work. Deactivation must be done inside AdWords.
+   >[Auto-tagging](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} must be selected for this feature to work. Deactivation must be done inside AdWords.
 
 Great! Now see the Related Article below to learn how to map AdWords offline conversions in your revenue model.
 
    >[!MORELIKETHIS]
    >
-   >[Set Google AdWords Conversions in the Revenue Model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
+   >[Set Google AdWords Conversions in the Revenue Model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}
