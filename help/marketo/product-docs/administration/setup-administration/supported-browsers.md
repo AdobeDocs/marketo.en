@@ -10,9 +10,9 @@ Marketo currently supports the following browsers:
 
 | Browser |Supported Versions |
 |---|---|
-| [Google Chrome](https://www.google.com/intl/en/chrome/browser/) |latest |
-| [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) |latest |
-| [Apple Safari](https://www.apple.com/safari/) |latest |
-| [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) |latest |
+| [Google Chrome](https://www.google.com/intl/en/chrome/browser/){target="_blank"} |latest |
+| [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/){target="_blank"} |latest |
+| [Apple Safari](https://www.apple.com/safari/){target="_blank"} |latest |
+| [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge){target="_blank"} |latest |
 
 For the best experience, **keep your browser updated**!

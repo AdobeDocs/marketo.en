@@ -15,7 +15,7 @@ If you are wondering what you need to log in and use Marketo, here's the informa
 * Computer or laptop running Windows, OS X, or Linux
 * Keyboard and mouse
 * Monitor with a minimum resolution of 1280 x 768
-* Up-to-date browser, see [Supported Browsers](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) for details
+* Up-to-date browser, see [Supported Browsers](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md){target="_blank"} for details
 * Internet connection
 
 >[!NOTE]

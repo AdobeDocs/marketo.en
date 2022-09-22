@@ -20,25 +20,29 @@ Marketo manages your Adobe Connect webinar registration and attendance.
 >
 >Adobe Connect On Site is not currently supported.
 
-1. Go to **Admin** and click **LaunchPoint**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2015-4-22-11-3a33-3a51.png)
+   ![](assets/add-adobe-connect-as-a-launchpoint-service-1.png)
 
-1. Select **New** and then **New Service**.
+1. Click **LaunchPoint**.
 
-   ![](assets/image2015-4-22-11-3a40-3a19.png)
+   ![](assets/add-adobe-connect-as-a-launchpoint-service-2.png)
+
+1. Click the **New** drop-down and select **New Service**.
+
+   ![](assets/add-adobe-connect-as-a-launchpoint-service-3.png)
 
 1. Enter a **Display Name**. Under **Service**, select Adobe Connect.
 
-   ![](assets/new-service-adobe-connect.png)
+   ![](assets/add-adobe-connect-as-a-launchpoint-service-4.png)
 
 1. Enter your **Username** and **Access Code**.
 
-   ![](assets/image2015-4-22-11-3a50-3a6.png)
+   ![](assets/add-adobe-connect-as-a-launchpoint-service-5.png)
 
 1. Complete the process by entering your **Meeting Folder URL** and **Participant Password**,then click **Create**.
 
-   ![](assets/image2015-4-22-11-3a55-3a36.png)
+   ![](assets/add-adobe-connect-as-a-launchpoint-service-6.png)
 
    >[!TIP]
    >
@@ -50,8 +54,8 @@ Marketo manages your Adobe Connect webinar registration and attendance.
 
 Your Adobe Connect Service is now synced with Marketo!
 
-   ![](assets/adobe-connect-service.png)
+   ![](assets/add-adobe-connect-as-a-launchpoint-service-7.png)
 
 >[!MORELIKETHIS]
 >
->Learn how to [create an event with Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
+>Learn how to [create an event with Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"}.
