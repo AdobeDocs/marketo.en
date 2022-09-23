@@ -51,12 +51,12 @@ _Release dates are subject to change_
    <td>Shipped</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">August '22</td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-aug-22.md">August '22</td>
    <td>August 26, 2022</td>
-   <td>In Progress</td>
+   <td>Shipped</td>
   </tr>
   <tr>
-   <td>October '22</td>
+   <td><a href="/help/marketo/release-notes/current.md">October '22</td>
    <td>October 14, 2022</td>
    <td>On Schedule</td>
   </tr>
