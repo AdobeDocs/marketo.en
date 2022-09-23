@@ -161,7 +161,7 @@ There are a ton of new tree features available.
   </tr>
   <tr>
    <td>'Word starts with' search logic</td> 
-   <td><strong>X</strong></td> 
+   <td></td> 
    <td><strong>X</strong></td> 
   </tr>
  </tbody>
