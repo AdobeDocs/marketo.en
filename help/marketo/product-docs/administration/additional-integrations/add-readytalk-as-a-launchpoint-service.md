@@ -16,29 +16,33 @@ Marketo manages your ReadyTalk webinar registration and attendance.
 >
 >An existing subscription to ReadyTalk and administration rights are necessary for this step. Have the following settings at hand: Access Number, Access Code, and Passcode.
 
-1. Go to **Admin** and click **ReadyTalk**.
+1. Go to the **Admin** area. 
 
-   ![](assets/image2015-4-23-10-3a50-3a23.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-1.png)
+
+1. Click **LaunchPoint**.
+
+   ![](assets/add-readytalk-as-a-launchpoint-service-2.png)
 
 1. Select **New** and then **New Service**.
 
-   ![](assets/readytalk-new-service.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-3.png)
 
 1. Enter a **Display Name**. Under **Service**, select **ReadyTalk**.
 
-   ![](assets/new-service-readytalk.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-4.png)
 
 1. Enter your **Access Number** and **Access Code**.
 
-   ![](assets/image2015-4-24-18-3a53-3a2.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-5.png)
 
 1. Complete the process by entering your **Passcode** and click **Create**.
 
-   ![](assets/image2015-4-24-18-3a53-3a38.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-6.png)
 
 Your **ReadyTalk** account is now synced with Marketo.
 
-   ![](assets/readytalk.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-7.png)
 
 >[!MORELIKETHIS]
 >

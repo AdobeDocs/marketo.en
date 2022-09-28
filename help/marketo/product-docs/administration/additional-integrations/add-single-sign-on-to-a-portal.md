@@ -10,7 +10,7 @@ If you have a directory service that authenticates users, you can allow single s
 
 Marketo functions as a SAML Service Provider (SP), and depends on an external Identity Provider (IdP) to authenticate users.
 
-Once SSO is enabled, the IdP can validate a user’s credentials. When a user wishes to use Marketo software, the IdP then sends a signed SAML message to Marketo, acting as the SP. This message vouchsafes to Marketo that the user is authorized to use Marketo software.
+Once SSO is enabled, the IdP can validate a user's credentials. When a user wishes to use Marketo software, the IdP then sends a signed SAML message to Marketo, acting as the SP. This message vouchsafes to Marketo that the user is authorized to use Marketo software.
 
 >[!NOTE]
 >
@@ -18,12 +18,12 @@ Once SSO is enabled, the IdP can validate a user’s credentials. When a user wi
 
 >[!NOTE]
 >
->Are you a Microsoft Azure user? Check out their [integration tutorial](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/).
+>Are you a Microsoft Azure user? Check out their [integration tutorial](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
 
 ## How to Send the Request {#how-to-send-the-request}
 
 * Send the SSO request, which is a SAML response, to `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* As the SP’s Audience URL. Use `http://saml.marketo.com/sp`
+* As the SP's Audience URL. Use `http://saml.marketo.com/sp`
 * If you are using the SPNameQualifier attribute, set the NameID element for Subject to `http://saml.marketo.com/sp`
 * If you are federating multiple Marketo subscriptions to the same SSO provider, you can use unique SP urls for each Marketo sub with the format `http://saml.marketo.com/sp/<munchkin_id>`
 
@@ -48,39 +48,43 @@ Once SSO is enabled, the IdP can validate a user’s credentials. When a user wi
 
 SSO is disabled by default. Follow these steps to enable SAML and configure it.
 
-1. Go to **Admin** and click **Single Sign-On**.
+1. Go to the **Admin** area. 
 
-   ![](assets/image2014-9-24-14-3a36-3a50.png)
+   ![](assets/add-single-sign-on-to-a-portal-1.png)
+
+1. Click **Single Sign-On**.
+
+   ![](assets/add-single-sign-on-to-a-portal-2.png)
 
    >[!NOTE]
    >
-   >If you don't see **Single Sign-On** under **Admin**, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >If you don't see **Single Sign-On** under **Admin**, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Under the **SAML Settings** section, click on **Edit**.
+1. Under the **SAML Settings** section, click **Edit**.
 
-   ![](assets/image2014-9-24-14-3a37-3a3.png)
+   ![](assets/add-single-sign-on-to-a-portal-3.png)
 
 1. Change **SAML Single Sign-On** to **Enabled**.
 
-   ![](assets/image2014-9-24-14-3a37-3a17.png)
+   ![](assets/add-single-sign-on-to-a-portal-4.png)
 
 1. Enter your **Issuer ID**, **Entity ID**, select the **User ID Location**, then click **Browse**.
 
-   ![](assets/image2014-9-24-14-3a37-3a32.png)
+   ![](assets/add-single-sign-on-to-a-portal-5.png)
 
 1. Select your **Identity Provider Certificate** file.
 
-   ![](assets/image2014-9-24-14-3a38-3a8.png)
+   ![](assets/add-single-sign-on-to-a-portal-6.png)
 
 1. Click **Save**.
 
-   ![](assets/image2014-9-24-14-3a38-3a22.png)
+   ![](assets/add-single-sign-on-to-a-portal-7.png)
 
 ## Update Redirect Page Settings {#update-redirect-page-settings}
 
 1. Under the **Redirect Pages** section, click **Edit**.
 
-   ![](assets/seven.png)
+   ![](assets/add-single-sign-on-to-a-portal-8.png)
 
    >[!NOTE]
    >
@@ -88,11 +92,11 @@ SSO is disabled by default. Follow these steps to enable SAML and configure it.
 
 1. Enter a **Logout URL**. This is the URL you want the user to be directed to when they log out of Marketo.
 
-   ![](assets/eight.png)
+   ![](assets/add-single-sign-on-to-a-portal-9.png)
 
 1. Enter an **Error URL**. This is the URL you want the user to be directed to in case logging into Marketo fails. Click **Save**.
 
-   ![](assets/nine.png)
+   ![](assets/add-single-sign-on-to-a-portal-10.png)
 
    >[!NOTE]
    >
@@ -100,6 +104,6 @@ SSO is disabled by default. Follow these steps to enable SAML and configure it.
 
 >[!MORELIKETHIS]
 >
->* [Using a Universal ID for Subscription Login](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
->* [Restrict User Login to SSO Only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [Inviting Marketo Users to Two Instances with Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [Using a Universal ID for Subscription Login](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target="_blank"}
+>* [Restrict User Login to SSO Only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [Inviting Marketo Users to Two Instances with Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}

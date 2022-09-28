@@ -24,30 +24,34 @@ Marketo Engage manages your Webex webinar registration and attendance.
 >
 >**Caution:** Do not enter the entire URL in this field; enter the site name only!
 
-1. Go to **Admin** and click **LaunchPoint**.
+1. Go to the **Admin** area. 
 
-   ![](assets/image2015-4-23-11-3a20-3a43.png)
+   ![](assets/add-webex-as-a-launchpoint-service-1.png)
+
+1. Click **LaunchPoint**.
+
+   ![](assets/add-webex-as-a-launchpoint-service-2.png)
 
 1. Select **New** and then **New Service**.
 
-   ![](assets/webex-new-service.png)
+   ![](assets/add-webex-as-a-launchpoint-service-3.png)
 
 1. Enter a **Display Name**. Under **Service**, select **Webex**.
 
-   ![](assets/new-service-webex.png)
+   ![](assets/add-webex-as-a-launchpoint-service-4.png)
 
 1. Enter your **Username** and **Password**.
 
-   ![](assets/image2015-4-24-18-3a56-3a56.png)
+   ![](assets/add-webex-as-a-launchpoint-service-5.png)
 
 1. Complete the process by entering your **Site Name** then click **Create**.
 
-   ![](assets/image2015-4-24-18-3a58-3a43.png)
+   ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
 1. Phenomenal! Your **Webex** is now synced with Marketo.
 
-   ![](assets/webex.png)
+   ![](assets/add-webex-as-a-launchpoint-service-7.png)
 
 >[!MORELIKETHIS]
 >
->Learn how to [create an event with Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md).
+>Learn how to [create an event with Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"}.
