@@ -82,3 +82,7 @@ The following steps are performed outside of Marketo.
 1. Insert the Secret Key and Site Key. Click **Save** when done.
 
    ![](assets/setting-up-recaptcha-v3-8.png)
+
+>[!MORELIKETHIS]
+>
+>[Enable CAPTCHA in Marketo Forms](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)

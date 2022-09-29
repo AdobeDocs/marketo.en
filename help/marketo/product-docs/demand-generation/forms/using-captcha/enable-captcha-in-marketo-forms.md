@@ -31,6 +31,12 @@ You can enable/disable CAPTCHA on a per-form basis.
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 
+It may take a few minutes for changes to this list to propagate from Google.
+
 >[!NOTE]
 >
->It may take a few minutes for changes to this list to propagate from Google.
+>Google adds standardized text including links to their Privacy Policy and Terms of Service to CAPTCHA-enabled forms.
+
+>[!MORELIKETHIS]
+>
+>[Setting up reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
