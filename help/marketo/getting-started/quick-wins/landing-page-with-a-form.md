@@ -98,7 +98,7 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
 ## STEP 3: Create a Landing Page and Add Your Form {#step-create-a-landing-page-and-add-your-form}
 
-1. With your program selected, click **New** and then **New Local Asset**.
+1. With your program selected, click the **New** drop-down and select **New Local Asset**.
 
    ![](assets/landing-page-with-a-form-15.png)
 
