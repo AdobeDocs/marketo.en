@@ -35,7 +35,7 @@ It may take a few minutes for changes to this list to propagate from Google.
 
 >[!NOTE]
 >
->Google adds standardized text including links to their Privacy Policy and Terms of Service to CAPTCHA-enabled forms.
+>Standardized text, including links to Google's Privacy Policy and Terms of Service, will be added to your CAPTCHA-enabled form(s).
 
 >[!MORELIKETHIS]
 >
