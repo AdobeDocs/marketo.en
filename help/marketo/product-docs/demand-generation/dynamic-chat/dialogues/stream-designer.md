@@ -43,19 +43,46 @@ The stream designer contains multiple cards you can add to shape the chat conver
  </tr>
 </table>
 
+## Stream Designer Icons {#stream-designer-icons}
+
+In the upper-right of the Stream Designer, you'll see a handful of icons. Here's what they do.
+
+<table>
+ <tr>
+  <td><img src="assets/stream-designer-1.png"></td>
+  <td>Adds a grid to the background for those who prefer that view</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-2.png"></td>
+  <td>Zooms in, creating larger cards</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-3.png"></td>
+  <td>Zooms out, creating smaller cards</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-4.png"></td>
+  <td>Opens a window for you to test your chat (press the same button to close)</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-5.png"></td>
+  <td>Organizes all of the cards in your stream</td>
+ </tr>
+</table>
+
 ## Create a Stream {#create-a-stream}
 
 1. After you've [created your dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}, click the **Stream Designer** tab.
 
-   ![](assets/stream-designer-1.png)
+   ![](assets/stream-designer-6.png)
 
 1. Drag and drop the Question card.
 
-   ![](assets/stream-designer-2.png)
+   ![](assets/stream-designer-7.png)
 
 1. Under Chatbot Response, word your question how you'd like.
 
-   ![](assets/stream-designer-3.png)
+   ![](assets/stream-designer-8.png)
 
    >[!NOTE]
    >
@@ -63,7 +90,7 @@ The stream designer contains multiple cards you can add to shape the chat conver
 
 1. Enter your User Responses and click **Save**.
 
-   ![](assets/stream-designer-4.png)
+   ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
@@ -71,27 +98,27 @@ The stream designer contains multiple cards you can add to shape the chat conver
 
 1. For "Yes" we want to schedule an appointment, so below that option drag over the Appointment Scheduler card.
 
-   ![](assets/stream-designer-5.png)
+   ![](assets/stream-designer-10.png)
 
 1. In the column on the right, click **Save**.
 
-   ![](assets/stream-designer-6.png)
+   ![](assets/stream-designer-11.png)
 
 1. Since that's a goal, drag the Goal card below the Appointment Scheduler.
 
-   ![](assets/stream-designer-7.png)
+   ![](assets/stream-designer-12.png)
 
 1. Name your goal (or choose an existing one) and click **Save**.
 
-   ![](assets/stream-designer-8.png)
+   ![](assets/stream-designer-13.png)
 
 1. For "No" we want to see if they'll join the mailing list, so below that option drag over another Question card.
 
-   ![](assets/stream-designer-9.png)
+   ![](assets/stream-designer-14.png)
 
 1. Enter your response, and add response choices for the visitor. Click **Save** when done.
 
-   ![](assets/stream-designer-10.png)
+   ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
@@ -99,15 +126,15 @@ The stream designer contains multiple cards you can add to shape the chat conver
 
 1. Below the "Yes" response, drag over the Info Capture card so you can collect the visitor's email.
 
-   ![](assets/stream-designer-11.png)
+   ![](assets/stream-designer-16.png)
 
 1. Click the **Type** drop-down and select **Email**.
 
-   ![](assets/stream-designer-12.png)
+   ![](assets/stream-designer-17.png)
 
 1. Enter a chatbot message and placeholder. Make sure the attribute is mapped to the appropriate field in Marketo and click **Save**.
 
-   ![](assets/stream-designer-13.png)
+   ![](assets/stream-designer-18.png)
 
    <table>
     <tr>
@@ -130,27 +157,27 @@ The stream designer contains multiple cards you can add to shape the chat conver
 
 1. Since collecting their email is a goal, drag the Goal card below Info Capture.
 
-   ![](assets/stream-designer-14.png)
+   ![](assets/stream-designer-19.png)
 
 1. Name your goal (or choose an existing one) and click **Save**.
 
-   ![](assets/stream-designer-15.png)
+   ![](assets/stream-designer-20.png)
 
 1. Remember to add a response if they say "No." One option is to drag a Message card below and say "thanks anyway." But in this example, we'll provide them with a free PDF document instead.
 
-   ![](assets/stream-designer-16.png)
+   ![](assets/stream-designer-21.png)
 
 1. In this example we'll create a new document. Give it a name, enter the URL to the PDF you already have hosted, and click **Save**.
 
-   ![](assets/stream-designer-17.png)
+   ![](assets/stream-designer-22.png)
 
 1. Select the **Preview** toggle to preview your Dialogue.
 
-   ![](assets/stream-designer-18.png)
+   ![](assets/stream-designer-23.png)
 
 1. When you're ready to activate your Dialogue, click **Publish**.
 
-   ![](assets/stream-designer-19.png)
+   ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >

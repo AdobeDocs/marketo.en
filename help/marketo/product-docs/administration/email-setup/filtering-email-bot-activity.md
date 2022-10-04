@@ -10,7 +10,7 @@ Sometimes, email bot activity can erroneously inflate your email opens and click
 We use three separate methods to confirm bot activity:
 
 * Match with [Interactive Advertisng Bureau bot list](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Activities that match with anything on the IAB UA/IP (User Agent/IP address) list will be marked as bots.
-* Match with proximity pattern: When more than two activities happen at the same time (under two seconds), they're identified as bots.
+* Match with proximity pattern: When more than two activities happen at the same time (in under a second), they're identified as bots.
 
 Against email link click and email open activity, new attribtues will be populated with the values below:
 
