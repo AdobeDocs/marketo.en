@@ -66,7 +66,7 @@ In the upper-right of the Stream Designer, you'll see a handful of icons. Here's
  </tr>
  <tr>
   <td><img src="assets/stream-designer-5.png"></td>
-  <td>Organizes all of the cards in your stream</td>
+  <td>Arranges all of the cards in your stream</td>
  </tr>
 </table>
 
