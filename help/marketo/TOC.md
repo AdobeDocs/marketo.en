@@ -609,6 +609,10 @@ feature-set: Marketo Engage
       + [Configuration](product-docs/demand-generation/dynamic-chat/configuration.md)
       + [Chatbot Behavior](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
       + [Dynamic Chat Activities](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+      + Appointment Scheduling {#appointment-scheduling}
+        + [Calendar](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
+        + [Meetings](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
+        + [Routing](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
       + Integrations {#integrations}
         + [Connect Dynamic Chat to Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
         + [Using the Document Card](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
@@ -1356,7 +1360,7 @@ feature-set: Marketo Engage
         + [Is Sales Insight Actions Compatible with Salesforce Lightning?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
         + [What are the Latest Client Versions?](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
         + [What Are the Sales Insight Actions Terms of Service?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
-        + [Why Aren’t Any of My Contacts Getting Pushed to Sales Insight Actions?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+        + [Why Aren't Any of My Contacts Getting Pushed to Sales Insight Actions?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
         + [Why Aren't My Dynamic Fields Filling Out?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
         + [Why Can't I Delete a Contact?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
         + [Why Didn't All of My Contacts Get Pushed to Sales Insight Actions?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
