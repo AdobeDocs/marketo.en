@@ -43,7 +43,7 @@ The following features began a phased rollout on **August 26, 2022**.
 
 * **Webhook Custom Header Visibility**: Webhook custom headers are now displayed in the Admin > Webhooks tab for better visibility.
 
-* **CAPTCHA**: Evaluate the validity of form submissions using reCAPTCHA v3 to score incoming form traffic. Build marketing workflows to automatically exclude, quarantine, or delete suspicious bot traffic.
+* **CAPTCHA**: Evaluate the validity of form submissions [using reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"} to score incoming form traffic. Build marketing workflows to automatically exclude, quarantine, or delete suspicious bot traffic.
 
 * **Permission to Approve Form**: New permission to control which designers can approve changes to a form in line with other Design Studio assets. This prevents other designers from pushing changes to forms without someone else with approval permission reviewing it.
 

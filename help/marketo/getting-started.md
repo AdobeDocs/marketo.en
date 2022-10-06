@@ -6,21 +6,25 @@ exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 ---
 # Getting Started {#getting-started}
 
-## STEP 1 What is Marketo {#what-is-marketo}
+## What is Adobe Marketo Engage {#what-is-marketo-engage}
 
-What is Marketo you ask? Great question!
+What is Marketo Engage, you ask? Great question!
 
-[Learn Marketo](/help/marketo/getting-started/what-is-adobe-marketo-engage.md)
+[Learn Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
-## STEP 2 Get Set Up {#get-set-up}
+## What Pricing Tiers are Available {#what-pricing-tiers-are-available}
+
+Check out the [Marketo Engage Pricing & Packaging page](https://www.marketo.com/solutions/pricing/){target="_blank"} for more info.
+
+## Get Set Up {#get-set-up}
 
 With a little help from your IT team, you can get it done in no time.
 
-[Start Setup](/help/marketo/getting-started/setup/setup-steps.md)
+[Start Setup](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
 
-## STEP 3 Get Some Quick Wins {#get-some-quick-wins}
+## Get Some Quick Wins {#get-some-quick-wins}
 
-Complete these missions to learn the core features of Marketo.
+Complete these missions to learn the core features of Marketo Engage.
 
 <table style="table-layout:fixed">
 <tr>
@@ -118,6 +122,4 @@ Complete these missions to learn the core features of Marketo.
 
 ## STEP 4 Congrats! You're ready for the Nation  {#congrats-youre-ready-for-the-nation}
 
-Time to join the Marketing Nation!
-
-[Join the Nation](https://nation.marketo.com)
+Check out the [Marketing Nation](https://nation.marketo.com){target="_blank"}!
