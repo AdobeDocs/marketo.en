@@ -1599,6 +1599,7 @@ feature-set: Marketo Engage
       + [Edit Predictive Content for Rich Media](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
       + [Edit Predictive Content for the Recommendation Bar](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
   + Reporting {#reporting}
+    + [Reporting Overview](product-docs/reporting/reporting-overview.md)
     + Basic Reporting {#basic-reporting}
       + Creating Reports {#creating-reports}
         + [Create a Report in a Program](product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)
