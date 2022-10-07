@@ -25,7 +25,7 @@ Performance Insights covers channel performance and program performance for enga
 
 _(previously known as Revenue Cycle Explorer/Advanced Report Builder)_
 
->[!AVAILIBILITY]
+>[!AVAILABILITY]
 >
 >Not all customers have purchased Advanced BI Analytics and Advanced Journey Analytics modules. Contact your Customer Success Manager for more information.
 
