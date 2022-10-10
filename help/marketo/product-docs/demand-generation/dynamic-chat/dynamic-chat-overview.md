@@ -35,17 +35,15 @@ In the Configuration tab, customize the look and feel of your various Dialogues.
 
 ## Calendar {#calendar}
 
-In the Calendar tab, connect your (Outlook or Gmail) calendar for use in appointment scheduling in the chatbot. Once a user's calendar is connected to Dynamic Chat, that user will be added to the queue and their calendar will be available for website visitors to schedule appointments on.
-
-You can also customize the body of the invite that's sent to the visitor when they schedule an appointment on the user's calendar.
+Connect your Outlook or Gmail calendar for use in appointment scheduling in the chatbot. [Learn more about Calendar](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
 
 ## Meetings {#meetings}
 
-This is where you'll see all of the appointments that have been scheduled by website visitors through your various Dialogues. Here you'll find the email address of the person that booked the appointment, which agent they booked the appointment with, when the appointment is scheduled to occur, and whether the scheduled meeting time has passed or not.
+This is where you'll see all of the appointments that have been scheduled by website visitors through your various Dialogues. [Learn more about Meetings](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
 
 ## Routing {#routing}
 
-This is where you can see a list of all the agents that have connected their calendars as well as what order they'll be presented to website visitors.
+This is where you can see a list of all the agents that have connected their calendars, what order they'll be presented to website visitors, and create custom routing rules. [Learn more about Routing](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
 
 ## FAQ {#faq}
 

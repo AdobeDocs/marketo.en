@@ -1,8 +1,6 @@
 ---
 description: Meetings - Marketo Docs - Product Documentation
 title: Meetings
-hide: yes
-hidefromtoc: yes
 ---
 # Meetings {#meetings}
 

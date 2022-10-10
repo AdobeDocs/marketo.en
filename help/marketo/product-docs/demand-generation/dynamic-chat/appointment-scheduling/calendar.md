@@ -1,8 +1,6 @@
 ---
 description: Calendar - Marketo Docs - Product Documentation
 title: Calendar
-hide: yes
-hidefromtoc: yes
 ---
 # Calendar {#calendar}
 
