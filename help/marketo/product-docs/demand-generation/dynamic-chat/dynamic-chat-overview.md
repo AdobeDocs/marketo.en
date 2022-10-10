@@ -45,7 +45,7 @@ This is where you'll see all of the appointments that have been scheduled by web
 
 ## Routing {#routing}
 
-This is where you can see a list of all the agents that have connected their calendars as well as what order they'll be presented to website visitors. Meetings go round robin style, so if you have five agents and agent three took the last meeting, agent four will get the next one, followed by agent five, then back to agent one.
+This is where you can see a list of all the agents that have connected their calendars as well as what order they'll be presented to website visitors.
 
 ## FAQ {#faq}
 
