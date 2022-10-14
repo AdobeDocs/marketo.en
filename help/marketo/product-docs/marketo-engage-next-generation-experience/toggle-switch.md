@@ -54,10 +54,13 @@ The following features are currently available in Marketo's next-gen interface (
 * Email Details View
 * Email List View
 * Email Template Details View
+* Email Template List
 * Email Test Dashboard View
 * Form Details View
 * Form List View
 * Images and Files Details Page
 * Landing Page Details View
 * Landing Page List View
+* Landing Page Template Details
 * Snippet Details View
+

@@ -30,7 +30,7 @@ Your marketing team should have sent you two requests for new CNAME records. The
 
 `1` **Add CNAME for Landing Pages**
 
-Add the landing page CNAME they sent you to your DNS record, so that `[YourLandingPageCNAME]` points to the unique Account String that is assigned to your Marketo landing pages. Log in to your domain registrar’s site and enter the landing page CNAME and Account String. Typically, this involves three fields:
+Add the landing page CNAME they sent you to your DNS record, so that `[YourLandingPageCNAME]` points to the unique Account String that is assigned to your Marketo landing pages. Log in to your domain registrar's site and enter the landing page CNAME and Account String. Typically, this involves three fields:
 
 * Alias: Enter `[YourLandingPageCNAME]` (provided by marketing)
 * Type: CNAME  
@@ -51,7 +51,7 @@ For example:
 
 `3` **Notify Your Marketing Team**
 
-Notify your marketing team when you’ve completed this process.
+Notify your marketing team when you've completed this process.
 
 `4` **Contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} to start the process of provisioning an SSL Certificate.**
 
@@ -72,7 +72,7 @@ Add these IP addresses to your corporate allowlist:
 103.237.104.0/22  
 94.236.119.0/26
 
-Some anti-spam systems use the email Return-Path field instead of the IP address for allowisting. In those cases, the best approach is to allowlist ‘&#42;.mktomail.com’, as Marketo uses several mailbox subdomains. Other anti-spam systems allowlist based on the From address. In these situations, be sure to include all the sending (‘From’) domains that your Marketing group uses to communicate with people/leads.
+Some anti-spam systems use the email Return-Path field instead of the IP address for allowisting. In those cases, the best approach is to allowlist '&#42;.mktomail.com', as Marketo uses several mailbox subdomains. Other anti-spam systems allowlist based on the From address. In these situations, be sure to include all the sending ('From') domains that your Marketing group uses to communicate with people/leads.
 
 >[!NOTE]
 >
@@ -102,7 +102,7 @@ Your marketing team should have also sent you DKIM information to be added to yo
 
 ## Step 4: Set up MX Records for Your Domain {#step-set-up-mx-records-for-your-domain}
 
-An MX record allows you to receive mail to the domain that you're sending email from to process replies and auto-responders. If you’re sending from your corporate domain, you likely already have this configured. If not, you can usually set it up to map to your corporate domain’s MX record.
+An MX record allows you to receive mail to the domain that you're sending email from to process replies and auto-responders. If you're sending from your corporate domain, you likely already have this configured. If not, you can usually set it up to map to your corporate domain's MX record.
 
 ## Outbound IP Addresses {#outbound-ip-addresses}
 
@@ -118,7 +118,7 @@ Marketo Engage [Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesfo
 
 **Marketo Engage Outbound IP Address Blocks**
 
-The following table covers all Marketo Engage servers that make outbound calls. Use this list if you are configuring any IP allowlist, server, firewall, access control list, security group, or third-party service to receive outgoing connections from Marketo Engage.
+The following tables cover all Marketo Engage servers that make outbound calls. Use the lists below if you're configuring any IP allowlist, server, firewall, access control list, security group, or third-party service to receive outgoing connections from Marketo Engage.
 
 <table>
  <tbody>
@@ -151,3 +151,48 @@ The following table covers all Marketo Engage servers that make outbound calls. 
   </tr>
  </tbody>
 </table>
+
+<table>
+ <tbody>
+  <tr>
+   <th>Individual IP address</th>
+  </tr>
+  <tr>
+   <td>54.212.167.17</td>
+  </tr>
+   <tr>
+   <td>44.235.171.179</td>
+  </tr>
+   <tr>
+   <td>35.165.244.220</td>
+  </tr>
+   <tr>
+   <td>52.20.211.99</td>
+  </tr>
+   <tr>
+   <td>54.237.141.197</td>
+  </tr>
+  <tr>
+   <td>54.160.246.246</td>
+  </tr>
+   <tr>
+   <td>18.200.201.81</td>
+  </tr>
+  <tr>
+   <td>34.247.24.245</td>
+  </tr>
+   <tr>
+   <td>54.220.138.65</td>
+  </tr>
+  <tr>
+   <td>13.237.155.207</td>
+  </tr>
+   <tr>
+   <td>13.55.192.247</td>
+  </tr>
+  <tr>
+   <td>52.64.109.86</td>
+  </tr>
+ </tbody>
+</table>
+
