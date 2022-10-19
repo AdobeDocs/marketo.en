@@ -7,6 +7,10 @@ exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 
 If you're using our SOAP API or Munchkin API, Custom Object Metadata Schema can be exported. Here's how to get it.
 
+>[!AVAILABILITY]
+>
+>Not all customers have purchased this feature. Please contact your Customer Success Manager for details.
+
 1. In My Marketo, click **Admin**.
 
    ![](assets/custom-object-metadata-export-1.png)
