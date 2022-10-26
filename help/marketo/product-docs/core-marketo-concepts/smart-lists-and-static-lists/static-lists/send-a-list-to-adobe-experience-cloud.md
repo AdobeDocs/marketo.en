@@ -12,7 +12,7 @@ exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 
 >[!PREREQUISITES]
 >
->[Set Up Adobe Organization Mapping](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
+>[Set Up Adobe Organization Mapping](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}
 
 ## Supported Destination Applications {#supported-destination-applications}
 
@@ -87,13 +87,13 @@ You can stop your list from syncing at any time.
 
 **Sharing to Adobe Analytics**
 
-For customers that own both Adobe Audience Manager and Adobe Analytics, this integration will enable audiences to be shared from Marketo to your Adobe Analytics Report Suites, however there are some additional configurations steps that need to be taken in Adobe Audience Manager to enable this. Please review Adobe Audience Manager’s documentation for more information on how to set this up: [https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+For customers that own both Adobe Audience Manager and Adobe Analytics, this integration will enable audiences to be shared from Marketo to your Adobe Analytics Report Suites, however there are some additional configurations steps that need to be taken in Adobe Audience Manager to enable this. Please review Adobe Audience Manager's documentation for more information on how to set this up: [https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 **Trait Usage for Adobe Audience Manager Customers**
 
 When you initiate a list export in Marketo, you'll notice the following changes reflected in your Adobe Audience Manager instance:
 
-* For all of the Leads in the exported List, Marketo will write a trait using the Leads’ hashed emails as a Cross-Device Identifier. The name of the trait will match the Destination Audience Name that you specified during the export.
+* For all of the Leads in the exported List, Marketo will write a trait using the Leads' hashed emails as a Cross-Device Identifier. The name of the trait will match the Destination Audience Name that you specified during the export.
 * For all of the ECIDs that Marketo has managed to match to the Leads in the exported List, Marketo will write a trait using the ECID Device Identifier. The name of the trait will match the Destination Audience Name that you specified during the export.
 * Marketo will also create a segment in your Audience Manager Instance using the ECID trait as the sole segmentation criterion. The name of the segment will match the Destination Audience Name that you specified during the export.
 
@@ -101,11 +101,11 @@ When you initiate a list export in Marketo, you'll notice the following changes 
 
 **Why is the list size in Marketo different than the one in Adobe?**
 
-Under the hood, the audience integration works by syncing Marketo Munchkin cookies with the corresponding Adobe ECID cookie. Marketo can only share membership data for leads that Marketo has synced an ECID for. For the best possible results, it’s recommended that you load Marketo’s munchkin.js tracking script in parallel with Adobe’s visitor.js tracking code on all of the pages you’re interested in tracking for marketing purposes.
+Under the hood, the audience integration works by syncing Marketo Munchkin cookies with the corresponding Adobe ECID cookie. Marketo can only share membership data for leads that Marketo has synced an ECID for. For the best possible results, it's recommended that you load Marketo's munchkin.js tracking script in parallel with Adobe's visitor.js tracking code on all of the pages you're interested in tracking for marketing purposes.
 
 **How does the cookie sync work?**
 
-When the cookie sync is enabled for your Marketo Subscription, Marketo’s munchkin.js will attempt to capture and store Adobe ECIDs for the Adobe IMS Org you specified during the integration setup and match these ECIDs to the corresponding Marketo cookie identifier. This enables Marketo’s anonymous user profiles to become enriched with Adobe ECIDs.
+When the cookie sync is enabled for your Marketo Subscription, Marketo's munchkin.js will attempt to capture and store Adobe ECIDs for the Adobe IMS Org you specified during the integration setup and match these ECIDs to the corresponding Marketo cookie identifier. This enables Marketo's anonymous user profiles to become enriched with Adobe ECIDs.
 
 A further step is required to associate the anonymous user profile to a Lead Profile, which is identified using a plain text email. Exactly how this works is [described here](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
 

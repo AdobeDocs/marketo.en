@@ -11,7 +11,7 @@ exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 
 >[!PREREQUISITES]
 >
->[Set Up Adobe Organization Mapping](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
+>[Set Up Adobe Organization Mapping](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}
 
 ## How to Sync an Audience {#how-to-sync-an-audience}
 
@@ -43,9 +43,9 @@ exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 
 **How does the cookie sync work?**
 
-When the cookie sync is enabled for your Marketo Subscription, Marketo’s munchkin.js will attempt to capture and store Adobe ECIDs for the Adobe IMS Org you specified during the integration setup and match these ECIDs to the corresponding Marketo cookie identifier. This enables Marketo’s anonymous user profiles to become enriched with Adobe ECIDs.
+When the cookie sync is enabled for your Marketo Subscription, Marketo's munchkin.js will attempt to capture and store Adobe ECIDs for the Adobe IMS Org you specified during the integration setup and match these ECIDs to the corresponding Marketo cookie identifier. This enables Marketo's anonymous user profiles to become enriched with Adobe ECIDs.
 
-A further step is required to associate the anonymous user profile to a Lead Profile, which is identified using a plain text email. Exactly how this works [is described here](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
+A further step is required to associate the anonymous user profile to a Lead Profile, which is identified using a plain text email. Exactly how this works [is described here](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
 **Why is the list size in Marketo different than the one in Adobe?**
 

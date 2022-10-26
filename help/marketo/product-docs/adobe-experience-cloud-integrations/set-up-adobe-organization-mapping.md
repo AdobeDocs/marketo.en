@@ -42,8 +42,8 @@ In order to sync with Adobe applications, such as Audience Manager, the B2B CDP 
 
    >[!IMPORTANT]
    >
-   >For security reasons, you must be an Org Admin for the Adobe Organization that you want to map to. If you’re not, the action will fail. Additionally, the Adobe User and Marketo User must use the same email address when logging in.
+   >For security reasons, you must be an Org Admin for the Adobe Organization that you want to map to. If you're not, the action will fail. Additionally, the Adobe User and Marketo User must use the same email address when logging in.
 
 1. If you're _not_ already logged in, a pop-up will appear in a new tab/window. Log in to your Adobe org (this action validates the org access).
 
-And that's it! You can now [share audience data](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} to or [sync an audience](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} from Adobe Experience Cloud.
+And that's it! You can now [share audience data](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} to or [sync an audience](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} from Adobe Experience Cloud.
