@@ -464,13 +464,11 @@ feature-set: Marketo Engage
     + Miscellaneous {#miscellaneous}
       + [Configuring Adobe Experience Manager Integration](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
       + [Create New Campaign Folder](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
-      + [Importing Assets with Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
       + [Keyboard Shortcuts Glossary](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
       + [Marketo Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
       + [Privacy Management](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
       + [Privacy Requests](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
       + [Rename a Marketo Asset](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-      + [Sync an Audience From Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
       + [Understanding Folders](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
       + [Understanding Notifications](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
       + [Notification Types](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
