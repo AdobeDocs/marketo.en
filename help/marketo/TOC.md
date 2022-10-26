@@ -226,6 +226,11 @@ feature-set: Marketo Engage
       + [Edit a Workspace](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
       + [Edit an Existing Person Partition](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
       + [Share Segmentations Across Workspaces and Partitions](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
+  + Adobe Experience Cloud Integrations {#adobe-experience-cloud-integrations}
+    + [Adobe Experience Cloud Integrations Overview](product-docs/adobe-experience-cloud-integrations/adobe-experience-cloud-integrations-overview.md)
+    + [Set up Adobe Organization Mapping](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
+    + [Sync an Audience From Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
+    + [Importing Assets with Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md) 
   + Core Marketo Concepts {#core-marketo-concepts}
     + Smart Campaigns {#smart-campaigns}
       + [Understanding Smart Campaigns](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -465,7 +470,6 @@ feature-set: Marketo Engage
       + [Privacy Management](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
       + [Privacy Requests](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
       + [Rename a Marketo Asset](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-      + [Set up Adobe Organization Mapping](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
       + [Sync an Audience From Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
       + [Understanding Folders](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
       + [Understanding Notifications](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)

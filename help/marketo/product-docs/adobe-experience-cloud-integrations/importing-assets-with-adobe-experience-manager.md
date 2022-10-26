@@ -22,23 +22,23 @@ The Asset Selector allows Marketo customers to access, select, and import AEM as
 
 1. Click **Design Studio**.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-1.png)
+   ![](assets/one-1.png)
 
 1. Click the New drop-down and select **Import from Adobe Experience Manager**.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-2.png)
+   ![](assets/two-1.png)
 
 1. Choose the folder where your images will be saved to.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-3.png)
+   ![](assets/three-1.png)
 
 1. Log in to Adobe Experience Manager (if you haven't already).
 
-   ![](assets/importing-assets-with-adobe-experience-manager-4.png)
+   ![](assets/four-1.png)
 
 1. Choose your folder. Then select your desired images by clicking on the thumbnail (you can choose up to 10). Click **Select** when done.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-5.png)
+   ![](assets/five.png)
 
    >[!NOTE]
    >
@@ -46,11 +46,11 @@ The Asset Selector allows Marketo customers to access, select, and import AEM as
 
 1. Click **Import** to complete the process.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-6.png)
+   ![](assets/six-1.png)
 
    And that's it! Click **Close** to return to the Design Studio.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-7.png)
+   ![](assets/seven-1.png)
 
 ## Things to Note {#things-to-note}
 
