@@ -46,4 +46,4 @@ In order to sync with Adobe applications, such as Audience Manager, the B2B CDP 
 
 1. If you're _not_ already logged in, a pop-up will appear in a new tab/window. Log in to your Adobe org (this action validates the org access).
 
-And that's it! You can now [share audience data](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} to or [sync an audience](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} from Adobe Experience Cloud.
+And that's it! You can now [share audience data](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} to, or [sync an audience](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} from Adobe Experience Cloud.
