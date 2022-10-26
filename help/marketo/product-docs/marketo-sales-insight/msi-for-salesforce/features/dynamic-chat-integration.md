@@ -19,7 +19,7 @@ Follow the steps below to to enable the Dynamic Chat integration.
 
 1. Log in to your Salesforce account, click the + at the end of the tab bar and click **Marketo Sales Insight Config**.
 
-1. Click to unfurl the “Visualforce Panel.”
+1. Click to unfurl the "Visualforce Panel."
 
    ![](assets/dynamic-chat-integration-1.png)
 
@@ -51,17 +51,27 @@ Reached Goal: Logged in Marketo and populated in Sales Insight when a visitor re
 * Goal Name
 * Page URL
 
-A Chat tab is available in Lead and Contact panels. It includes Activity Type, Dialogue Name and Date columns.
+Interacted with Document: Logged in Marketo and populated in Sales Insight when a visitor interacts with a document shared via the chatbot.
+
+* Dialogue Name
+* Document
+* Status
+
+Chat activities are available in Insights Dashboard. 
 
    ![](assets/dynamic-chat-integration-3.png)
 
-You can learn more about an activity type by clicking on it.  
+A Chat tab is available in Lead and Contact panels. It includes Activity Type, Dialogue Name and Date columns.
 
    ![](assets/dynamic-chat-integration-4.png)
 
-Similarly, Account and Opportunity panels include Name, Activity Type, Dialogue Name and Date columns.
+You can learn more about an activity type by clicking on it.  
 
    ![](assets/dynamic-chat-integration-5.png)
+
+Similarly, Account and Opportunity panels include Name, Activity Type, Dialogue Name and Date columns.
+
+   ![](assets/dynamic-chat-integration-6.png)
 
 The Chat tab is also included in your Global Marketo tab. It includes three activity types (Engaged Dialogue, Scheduled Appointment, Reached Goal), along with the following columns:
 
@@ -73,8 +83,15 @@ The Chat tab is also included in your Global Marketo tab. It includes three acti
 
 Again, you can learn more about an activity type by clicking on it.
 
-   ![](assets/dynamic-chat-integration-6.png)
+   ![](assets/dynamic-chat-integration-7.png)
 
 >[!NOTE]
 >
->The "Interacted with Document" activity will be available in MSI in an upcoming release.
+>If the "Enable Dynamic Chat data" checkbox is disabled, the following features will be disabled:
+>
+>* Row with Chat activities in the Insights Dashboard (smart grid and weekly list view)
+>* Chat tab in the Lead, Contact, Account and Opportunity panels
+>* Chat tab in the Global Marketo tab
+>
+>It is not possible to disable only one of these features. 
+
