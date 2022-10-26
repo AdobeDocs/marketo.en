@@ -18,7 +18,7 @@ The following features will be released on **January 17, 2020**.
 
 ## Core Marketo Engage Adobe Application {#core-marketo-engage-adobe-application}
 
-* [Adobe Experience Manager Asset Selector](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md): Quickly access assets that align with your brand with AEM assets available directly in Marketo Engage. Note: While this feature is available in both our Marketo Sky and classic experiences, the administrative capabilities can be found in our Classic experience. You must be a customer of AEM Assets and have version 6.5 or higher.
+* [Adobe Experience Manager Asset Selector](/help/marketo/product-docs/adobe-experience-cloud-integrations-overview/importing-assets-with-adobe-experience-manager.md): Quickly access assets that align with your brand with AEM assets available directly in Marketo Engage. Note: While this feature is available in both our Marketo Sky and classic experiences, the administrative capabilities can be found in our Classic experience. You must be a customer of AEM Assets and have version 6.5 or higher.
 
 >[!NOTE]
 >
@@ -50,7 +50,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 ## Marketo Sky {#marketo-sky}
 
-* [Image Editing](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Access Adobe’s editing capabilities without having to leave Marketo Engage. This new functionality allows you to easily do things like enhance, crop, and add text to images directly in Design Studio.
+* [Image Editing](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Access Adobe's editing capabilities without having to leave Marketo Engage. This new functionality allows you to easily do things like enhance, crop, and add text to images directly in Design Studio.
 
 ## Sales Insight {#sales-insight}
 
