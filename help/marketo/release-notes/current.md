@@ -44,8 +44,6 @@ The following features will start to be released on **October 14, 2022**, with a
 
 * **Adobe Privacy Service Integration**: Harmonize with Privacy Service to automate compliance with data privacy regulations across Experience Cloud products. Currently, this service is only available to Marketo Engage customers that have onboarded to the [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} System.
 
-* **Program Member Custom Fields Sync**: Ability to bidirectionally sync extensible fields captured for a program member (e.g., attendee preferences during event registration such as food, sessions, tracks, etc.)
-
 ## API Enhancements {#api-enhancements}
 
 * **Bulk Lead Import: Salesperson association**: Parity with Lead REST API to able to associate leads with Salespersons during the bulk lead import process, reducing complexity and the number of API calls required.
