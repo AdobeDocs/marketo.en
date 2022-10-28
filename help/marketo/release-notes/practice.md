@@ -127,7 +127,7 @@ _**Dynamic Chat**_
 
 ![(star)](assets/yellow-star.png)
 
-* **[Sales Insight Integration with Dynamic Chat**: Insights Dashboard now includes Dynamic Chat activities in the Smart Grid along with a weekly summary and detail cards.
+* **Sales Insight Integration with Dynamic Chat**: Insights Dashboard now includes Dynamic Chat activities in the Smart Grid along with a weekly summary and detail cards.
 
 <table> 
   <tr> 
