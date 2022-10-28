@@ -1,8 +1,6 @@
 ---
 description: Reporting Overview - Marketo Docs - Product Documentation
 title: Reporting Overview
-hide: yes
-hidefromtoc: yes
 ---
 
 # Reporting Overview {#reporting-overview}
