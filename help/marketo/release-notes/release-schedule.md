@@ -31,7 +31,7 @@ _Release dates are subject to change_
    <th width="250px">Status</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">October '22</td>
+   <td><a href="/help/marketo/release-notes/current.md">October '22</a></td>
    <td>October 14, 2022</td>
    <td>Shipped</td>
   </tr>
@@ -60,7 +60,6 @@ _Release dates are subject to change_
    <td>September 8, 2023</td>
    <td>On Schedule</td>
   </tr>
-
   <tr>
    <td>October '23</td>
    <td>October 20, 2023</td>
