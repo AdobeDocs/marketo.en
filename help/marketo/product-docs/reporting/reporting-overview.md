@@ -53,13 +53,13 @@ Some Advanced BI Analytics Reporting benefits include:
 >
 >Not all customers have purchased Advanced BI Analytics and Advanced Journey Analytics modules. Contact your Customer Success Manager for more information.
 
-Revenue Cycle Models - model all the stages of your entire revenue funnel and how they transition between those stages, from when you first interact with a lead all the way until the lead is a won customer.
+Revenue Cycle Models: model all the stages of your entire revenue funnel and how they transition between those stages, from when you first interact with a lead all the way until the lead is a won customer.
 
-Success Path Analyzer - Get a visual representation of velocity and flow through your Revenue Cycle Model. Success Path Analyzer requires you to create Revenue Cycle models.  
+Success Path Analyzer: Get a visual representation of velocity and flow through your Revenue Cycle Model. Success Path Analyzer requires you to create Revenue Cycle models.  
 
-Program Analyzer - Quickly identify programs that are successful or not and focus your resources appropriately. Use the program analyzer to scrutinize and compare every cost and return in detail by program or by channel.
+Program Analyzer: Quickly identify programs that are successful or not and focus your resources appropriately. Use the program analyzer to scrutinize and compare every cost and return in detail by program or by channel.
 
-Opportunity Influence Analyzer - Prove Marketing's contribution by measuring the impact of programs and key engagements that generated opportunities.
+Opportunity Influence Analyzer: Prove Marketing's contribution by measuring the impact of programs and key engagements that generated opportunities.
 
 >[!NOTE]
 >
