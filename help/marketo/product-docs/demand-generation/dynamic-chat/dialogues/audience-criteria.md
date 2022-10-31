@@ -7,27 +7,33 @@ exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
 
 Similar to Marketo Smart Lists, Audience Criteria attributes allow you to define your target audience. You can target known or unknown people using inferred, person, or company attributes (or a combination thereof).
 
+## Priority {#priority}
+
+Priority determines which Dialogue a lead receives in the case they qualify for more than one. It's established when you first [create your Dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}. You can change the priority for an exisiting Dialogue by opening it and going to **Dialogue Details** in the Audience Criteria tab.
+
+   ![](assets/audience-criteria-1.png)
+
 ## Events {#events}
 
-   ![](assets/audience-criteria-0.png)
+   ![](assets/audience-criteria-2.png)
 
 Events allow you to target visitors based on how much they scroll or how long they're on your page/site. In the example below, we're targeting visitors who have been on a specific page for more than 20 seconds.
 
 1. Grab the **Time on Page** event and drag it to the right.
 
-   ![](assets/audience-criteria-0a.png)
+   ![](assets/audience-criteria-3.png)
 
 1. Set the "Greater Than" time to 20 seconds.
 
-   ![](assets/audience-criteria-0b.png)
+   ![](assets/audience-criteria-4.png)
 
 1. Add the URL of the desired page in the [Target](#target) section.
 
-   ![](assets/audience-criteria-0c.png)
+   ![](assets/audience-criteria-5.png)
 
 ## Attributes {#attributes}
 
-   ![](assets/audience-criteria-0d.png)
+   ![](assets/audience-criteria-6.png)
 
 **Known People**
 
@@ -35,15 +41,15 @@ There are _many_ attribute combinations to choose from. In the example below, we
 
 1. Grab the **Person State** attribute and drag it to the right.
 
-   ![](assets/audience-criteria-1.png)
+   ![](assets/audience-criteria-7.png)
 
 1. _Is_ is set by default. In the Select Values field, type in CA (you can also click the drop-down and select from the list).
 
-   ![](assets/audience-criteria-2.png)
+   ![](assets/audience-criteria-8.png)
 
 1. Grab the **Company Size** attribute and drag it to where it says _drag and drop an attribute here_.
 
-   ![](assets/audience-criteria-3.png)
+   ![](assets/audience-criteria-9.png)
 
    >[!NOTE]
    >
@@ -51,11 +57,11 @@ There are _many_ attribute combinations to choose from. In the example below, we
 
 1. Click the operator drop-down and select **Greater Than**.
 
-   ![](assets/audience-criteria-4.png)
+   ![](assets/audience-criteria-10.png)
 
 1. Type 50 and click elsewhere on the screen to save.
 
-   ![](assets/audience-criteria-5.png)
+   ![](assets/audience-criteria-11.png)
 
 And that's it!
 
@@ -65,15 +71,15 @@ There's an easy way to specifically target people who are not in your database y
 
 1. Grab the **Person Email** attribute and drag it to the right.
 
-   ![](assets/audience-criteria-6.png)
+   ![](assets/audience-criteria-12.png)
 
 1. Click the operator drop-down and select **Is Empty**.
 
-   ![](assets/audience-criteria-7.png)
+   ![](assets/audience-criteria-13.png)
 
 1. Grab the **Inferred State** attribute and drag it to where it says _drag and drop an attribute here_.
 
-   ![](assets/audience-criteria-8.png)
+   ![](assets/audience-criteria-14.png)
 
    >[!NOTE]
    >
@@ -81,15 +87,15 @@ There's an easy way to specifically target people who are not in your database y
 
 1. _Is_ is set by default. In the Select Values field, type in NY (you can also click the drop-down and select from the list).
 
-   ![](assets/audience-criteria-9.png)
+   ![](assets/audience-criteria-15.png)
 
 ## Add Groups {#add-groups}
 
 You have the option of grouping attributes as well, in case you want to have all of certain attributes along with "all or any" of another. You can add multiple groups.
 
-   ![](assets/audience-criteria-10.png)
+   ![](assets/audience-criteria-16.png)
 
-   ![](assets/audience-criteria-11.png)
+   ![](assets/audience-criteria-17.png)
 
 ## Target {#target}
 
@@ -110,7 +116,7 @@ Acceptable formats:
 
 Use exclusions to ensure your Dialogue does **not** appear on a specific page/area of your site. Exclusions follow the same format as inclusions.
 
-   ![](assets/audience-criteria-12.png)
+   ![](assets/audience-criteria-18.png)
 
 >[!MORELIKETHIS]
 >
