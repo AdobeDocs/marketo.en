@@ -35,7 +35,7 @@ The sales owner does not have to be the Marketo sync user or any specific Salesf
 
    ![](assets/actions-data-sync-faq-3.png)
 
-The activity data such as email, call, interesting moment and web, is all sourced from Marketo Engage’s database. The Sales Insight Smart Grid makes a request to the Marketo Engage instance to retrieve this each time a sales user loads the Sales Insight panel.
+The activity data such as email, call, interesting moment and web, is all sourced from Marketo Engage's database. The Sales Insight Smart Grid makes a request to the Marketo Engage instance to retrieve this each time a sales user loads the Sales Insight panel.
 
    ![](assets/actions-data-sync-faq-4.png)
 
@@ -49,6 +49,8 @@ There are 11 fields that sync from Marketo Engage to Sales Insight Actions:
 * Last name
 * Salesforce contact ID
 * Salesforce lead ID
+* Salesforce account ID
+* Salesforce opportunity ID
 * Marketo ID
 * Company
 * Title
