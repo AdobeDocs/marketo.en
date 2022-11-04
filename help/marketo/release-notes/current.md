@@ -38,7 +38,7 @@ The following features will start to be released on **October 14, 2022**, with a
   </tr>
   <tr> 
    <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Stream Designer Icons</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Calendar</a></td>
   </tr>
   </tbody>
 </table>
