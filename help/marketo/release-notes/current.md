@@ -51,7 +51,7 @@ The following features will start to be released on **October 14, 2022**, with a
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td>Coming soon</td>
+   <td><i>Coming soon</i></td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -65,7 +65,7 @@ The following features will start to be released on **October 14, 2022**, with a
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td>Coming soon</td>
+   <td><i>Coming soon</i></td>
    <td>n/a</td>
   </tr>
   </tbody>
