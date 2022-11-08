@@ -1,8 +1,8 @@
 ---
 description: Reporting Overview - Marketo Docs - Product Documentation
 title: Reporting Overview
+exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 ---
-
 # Reporting Overview {#reporting-overview}
 
 Marketo offers a variety of reporting modules for different needs. 
@@ -57,9 +57,4 @@ Opportunity Influence Analyzer: Prove Marketing's contribution by measuring the 
 
 >[!NOTE]
 >
->Model Performance Analysis (Companies) and Model Performance Analysis (Leads) with Advanced BI Analytics Reporting depend on the Revenue Cycle Model created in the Advanced Journey Analytics product.  
-
- 
- 
-
-
+>Model Performance Analysis (Companies) and Model Performance Analysis (Leads) with Advanced BI Analytics Reporting depend on the Revenue Cycle Model created in the Advanced Journey Analytics product.

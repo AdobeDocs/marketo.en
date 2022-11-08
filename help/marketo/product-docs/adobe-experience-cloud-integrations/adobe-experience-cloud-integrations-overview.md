@@ -1,10 +1,11 @@
 ---
 description: Adobe Experience Cloud Integrations Overview - Marketo Docs - Product Documentation
 title: Adobe Experience Cloud Integrations Overview
+exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 ---
 # Adobe Experience Cloud Integrations Overview{#adobe-experience-cloud-integrations-overview}
 
-Adobe offers a robust demand marketing solution, starting with native audience syncing across the Adobe Experience Cloud products. Leverage unique B2B-centric data across Adobe Audience Manager, unlocking powerful demand marketing uses cases and untapped potential for existing Adobe applications. 
+Adobe offers a robust demand marketing solution, starting with native audience syncing across the Adobe Experience Cloud products. Leverage unique B2B-centric data across Adobe Audience Manager, unlocking powerful demand marketing uses cases and untapped potential for existing Adobe applications.
 
 >[!NOTE]
 >
@@ -25,4 +26,3 @@ Allows you to sync static lists of known people from Marketo Engage to multiple 
 * [Importing Assets with Adobe Experience Manager](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md){target="_blank"}
 
 * [Integrate with Adobe Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md){target="_blank"}
-

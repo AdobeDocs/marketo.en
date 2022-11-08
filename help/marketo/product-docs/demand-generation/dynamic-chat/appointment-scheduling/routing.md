@@ -1,6 +1,7 @@
 ---
 description: Routing - Marketo Docs - Product Documentation
 title: Routing
+exl-id: 9515c264-7d9b-4613-a245-15620c846a5c
 ---
 # Routing {#routing}
 
