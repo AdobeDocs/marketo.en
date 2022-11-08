@@ -3,6 +3,7 @@ description: Practice Release Notes - Marketo Docs - Product Documentation
 title: Practice Release Notes
 hide: yes
 hidefromtoc: yes
+exl-id: e1004c31-8b8c-4bc7-845f-4e06644a3273
 ---
 # Release Notes: October 2022 {#release-notes-oct-22}
 
