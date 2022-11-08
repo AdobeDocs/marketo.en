@@ -641,7 +641,7 @@ feature-set: Marketo Engage
         + [Create an Event with WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
         + [Create an Event with Zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
         + Create an Event with the Marketo ON24 Adapter {#create-an-event-with-the-marketo-on24-adapter}
-          + [Set up the ON24 Integration with Marketo](product-docs/demand-generation/events/create-an-event/set-up-the-on24-integration-with-marketo.md)
+          + [Set up the ON24 Integration with Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/set-up-the-on24-integration-with-marketo.md)
           + [Create an Event with the Marketo ON24 Adapter](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
           + [Configure Event Settings and Sync Marketo with Your Webinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
           + [Create an Event in Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
