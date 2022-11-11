@@ -22,10 +22,6 @@ If your email is critical and you want it to circumvent Communication Limits, [m
 
 ![](assets/starter-templates.png)
 
->[!NOTE]
->
->Marketo’s Starter Templates are offered to all customers free of charge. While they will be updated continuously and optimized for major email clients (and mobile devices), you should always evaluate whether they satisfy your needs. Marketo’s [Email Deliverability Tool](/help/marketo/product-docs/email-marketing/deliverability/email-deliverability-tool.md) can show you renderings of templates on different email clients. Unfortunately, Marketo cannot take design requests outside of paid service engagements.
-
 **My Templates** consists of all the templates you've created. You may also have folders.
 
 ![](assets/five-2.png)
