@@ -93,7 +93,6 @@ feature-set: Marketo Engage
       + [Add Level 3 Web Meeting as a LaunchPoint Service](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
       + [Add Munchkin Tracking Code to Your Website](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
       + [Next Generation Munchkin Tracking FAQ](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
-      + [Add ReadyTalk as a LaunchPoint Service](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
       + [Add Single Sign-On to a Portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
       + [Add WebEx as a LaunchPoint Service](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
       + [Add Workplace By Facebook as a LaunchPoint Service](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
@@ -637,7 +636,6 @@ feature-set: Marketo Engage
         + [Create an Event with Adobe Connect](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
         + [Create an Event with GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
         + [Create an Event with Level 3 Web Meeting](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
-        + [Create an Event with ReadyTalk](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
         + [Create an Event with WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
         + [Create an Event with Zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
         + Create an Event with the Marketo ON24 Adapter {#create-an-event-with-the-marketo-on24-adapter}
