@@ -925,7 +925,6 @@ feature-set: Marketo Engage
     + Deliverability {#deliverability}
       + [Durable Unsubscribe](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
       + [Email Deliverability Power Pack: How to Import a Seed List](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
-      + [Email Deliverability Tool](product-docs/email-marketing/deliverability/email-deliverability-tool.md)
       + [Hard and Soft Bounces in Email](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
       + [Set up a Custom DKIM Signature](product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)
       + [Set up SPF and DKIM for your Email Deliverability](product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)
