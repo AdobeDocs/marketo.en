@@ -16,16 +16,22 @@ exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
-1. Search for “remote site" and select **Remote Site Settings**.
+1. Search for "remote site" and select **Remote Site Settings**.
    ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
 1. Click **New Remote Site**.
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
-1. Enter the Remote Site Name (it can be something like “MarketoSalesInsight”). Enter the Remote Site URL (https://ims-na1-stg1.adobelogin.com) and click **Save**.
+1. Enter the Remote Site Name (it can be something like "MarketoSalesInsight1"). Enter the Remote Site URL `https://ims-na1.adobelogin.com` and click **Save**.
 
    ![](assets/msi-actions-configuration-in-salesforce-4.png)
+
+1. Click **New Remote Site** again.
+ 
+   ![](assets/msi-actions-configuration-in-salesforce-4a.png)
+
+1. Enter the Remote Site Name (it can be something like "MarketoSalesInsight2"). Enter Remote Site URL `https://mkto-sales-connect.adobe.io` and click **Save**.
 
 ## Enabling Sales Insight Actions across the CRM {#enabling-sales-insight-actions-across-the-crm}
 
@@ -55,7 +61,7 @@ This will automatically enable all MSI Actions features outlined in the feature 
 
 >[!NOTE]
 >
->You can disable all MSI Actions features by simply unchecking the “Enable MSI Actions” checkbox.
+>You can disable all MSI Actions features by simply unchecking the "Enable MSI Actions" checkbox.
 
 ## MSI-Actions Governance {#msi-actions-governance}
 

@@ -17,6 +17,8 @@ The following features fall under the standard release cycle and will start to b
 
 ### Next-generation Experience {#next-generation-experience}
 
+</br>
+
 * **Updated Screens in the Next-Generation Experience**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
 
   * Landing Page Template Details
@@ -64,6 +66,8 @@ The following features fall under the standard release cycle and will start to b
 
 ### Marketing Data Environment {#marketing-data-environment}
 
+</br>
+
 * **Adobe Privacy Service Integration**: Harmonize with Privacy Service to automate compliance with data privacy regulations across Experience Cloud products. Currently, this service is only available to Marketo Engage customers that have onboarded to the Adobe Identity Management System.
 
 <table> 
@@ -80,6 +84,8 @@ The following features fall under the standard release cycle and will start to b
 
 ### API Enhancements {#api-enhancements}
 
+</br>
+
 * **Bulk Lead Import: Salesperson association**: Parity with Lead REST API to able to associate leads with Salespersons during the bulk lead import process, reducing complexity and the number of API calls required.
 
 <table> 
@@ -95,6 +101,8 @@ The following features fall under the standard release cycle and will start to b
 </table>
 
 ### Sales Insight {#sales-insight}
+
+</br>
 
 ![(star)](assets/yellow-star.png)
 
