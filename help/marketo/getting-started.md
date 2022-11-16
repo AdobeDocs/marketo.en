@@ -12,10 +12,6 @@ What is Marketo Engage, you ask? Great question!
 
 [Learn Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
-## What Pricing Tiers are Available {#what-pricing-tiers-are-available}
-
-Check out the [Marketo Engage Pricing & Packaging page](https://www.marketo.com/solutions/pricing/){target="_blank"} for more info.
-
 ## Get Set Up {#get-set-up}
 
 With a little help from your IT team, you can get it done in no time.
