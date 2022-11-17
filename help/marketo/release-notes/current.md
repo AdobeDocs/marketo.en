@@ -33,6 +33,20 @@ The following features fall under the standard release cycle and will start to b
   </tbody>
 </table>
 
+* **Adobe Privacy Service Integration**: Harmonize with Privacy Service to automate compliance with data privacy regulations across Experience Cloud products. Currently, this service is only available to Marketo Engage customers that have onboarded to the Adobe Identity Management System.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentation Updates</b></td>
+  </tr>
+  <tr> 
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
+  </tr>
+  </tbody>
+</table>
+
 ### Next-generation Experience {#next-generation-experience}
 
 </br>
@@ -78,24 +92,6 @@ The following features fall under the standard release cycle and will start to b
   <tr> 
    <td>Shipped</td>
    <td>n/a</td>
-  </tr>
-  </tbody>
-</table>
-
-### Marketing Data Environment {#marketing-data-environment}
-
-</br>
-
-* **Adobe Privacy Service Integration**: Harmonize with Privacy Service to automate compliance with data privacy regulations across Experience Cloud products. Currently, this service is only available to Marketo Engage customers that have onboarded to the Adobe Identity Management System.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
-  </tr>
-  <tr> 
-   <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
 </table>
