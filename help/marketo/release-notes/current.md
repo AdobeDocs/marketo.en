@@ -15,6 +15,24 @@ Below you'll find all the features included in the October '22 release. Check yo
 
 The following features fall under the standard release cycle and will start to be released on **October 14, 2022**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check below each feature for its status.
 
+### Marketing Data Environment {#marketing-data-environment}
+
+</br>
+
+* **Program Member Custom Fields Sync**: Ability to bidirectionally sync extensible fields captured for a program member (e.g., attendee preferences during event registration such as food, sessions, tracks, etc.)
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentation Updates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  </tbody>
+</table>
+
 ### Next-generation Experience {#next-generation-experience}
 
 </br>
