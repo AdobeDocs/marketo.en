@@ -7,7 +7,7 @@ exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 
 Here's how to set up your ON24 event integration.
 
-## Create an API Only Role {#Create an API Only Role}
+## Create an API Only Role {#create-an-api-only-role}
 
 1. From My Marketo, click **Admin**.
 
