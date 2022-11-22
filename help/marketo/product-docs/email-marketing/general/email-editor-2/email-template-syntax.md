@@ -121,7 +121,7 @@ Example:
 
 ## Snippets {#snippets}
 
-If you define a region as a Snippet, end users will be able to choose which approved [Snippet](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)they'd like to insert in this region. Although Rich Text elements can be converted into Snippets from within the email editor, when you define a region specifically as a Snippet it cannot be converted to Rich Text. You can specify a Snippet region using a `<div>` with class=”mktoSnippet”
+If you define a region as a Snippet, end users will be able to choose which approved [Snippet](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) they'd like to insert in this region. Although Rich Text elements can be converted into Snippets from within the email editor, when you define a region specifically as a Snippet it cannot be converted to Rich Text. You can specify a Snippet region using a `<div>` with class=”mktoSnippet”
 
 Required attributes
 
