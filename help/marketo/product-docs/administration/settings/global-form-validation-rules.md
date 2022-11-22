@@ -39,7 +39,7 @@ Before you can utilize this feature, you must enable its permssion per desired r
 
 >[!IMPORTANT]
 >
->These rules will apply to all forms in your Marketo Engage subscriptions.
+>These rules will apply to all forms in your Marketo Engage subscription(s).
 
 1. In Marketo, click **Admin**.
 
