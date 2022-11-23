@@ -33,7 +33,7 @@ Some steps require help from your IT team.
 
    ![](assets/setup-steps-1.png)
 
-Congratulations! You’re now in Marketo and can start exploring. You might want to invite your colleagues on the marketing team to join you. You can do this by adding new users.
+Congratulations! You're now in Marketo and can start exploring. You might want to invite your colleagues on the marketing team to join you. You can do this by adding new users.
 
 Go to the **Admin** area.
 
@@ -55,7 +55,7 @@ Go to the **Admin** area.
 
    ![](assets/setup-steps-4.png)
 
-   Fill out your colleague’s email address, first name, and last name. _Setting an access expiration date is optional_. Click **Next**.
+   Fill out your colleague's email address, first name, and last name. _Setting an access expiration date is optional_. Click **Next**.
 
    ![](assets/setup-steps-5.png)
 
@@ -119,7 +119,7 @@ Go to the **Admin** area.
 
    The first part (in bold) is the `[LandingPageCNAME]`. You'll need it in Step 5.
 
-   To retrieve the account string that you’ll be replacing with your landing page CNAME, go to the Admin area.
+   To retrieve the account string that you'll be replacing with your landing page CNAME, go to the Admin area.
 
    ![](assets/setup-steps-9.png)
 
@@ -133,7 +133,7 @@ Go to the **Admin** area.
 
    This is the `[AccountString]`. Save it. You'll need to give it to IT in Step 5.
 
-Configure your domain settings so landing pages use your company’s domain instead of Marketo’s (where they are hosted).
+Configure your domain settings so landing pages use your company's domain instead of Marketo's (where they are hosted).
 
 ## Ensure Email Deliverability {#ensure-email-deliverability}
 
@@ -143,13 +143,13 @@ Configure your domain settings so landing pages use your company’s domain inst
 
 There are several measures you can take to ensure that the emails reach as many of your people as possible.
 
-* **Brand your tracking links**. You can choose a CNAME to use your own domain (instead of Marketo’s) in the links you include in emails from Marketo. This reinforces your domain branding and increases trust and deliverability with your recipients.
+* **Brand your tracking links**. You can choose a CNAME to use your own domain (instead of Marketo's) in the links you include in emails from Marketo. This reinforces your domain branding and increases trust and deliverability with your recipients.
 * **Add Marketo to your corporate email allowlist.** It is a common best practice to send test emails to your test accounts before sending emails to actual people. By allowlisting Marketo, you can prevent those test emails from being blocked or flagged as spam.
-* **Set up SPF and DKIM.** These technologies assure your recipients that your Marketo emails are not spam. To help prevent recipients’ spam filters from rejecting you Marketo emails, follow these steps to [Setup a SPF and DKIM for Your Email Deliverability](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
-* **Set up an MX record for your domain.** An MX record allows you to receive mail to the domain that you are sending email from to process replies and auto responders. If you’re sending from your corporate domain, you likely already have this configured. If not, you can usually set up to map to your corporate domain’s MX record.
+* **Set up SPF and DKIM.** These technologies assure your recipients that your Marketo emails are not spam. To help prevent recipients' spam filters from rejecting you Marketo emails, follow these steps to [Setup a SPF and DKIM for Your Email Deliverability](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
+* **Set up an MX record for your domain.** An MX record allows you to receive mail to the domain that you are sending email from to process replies and auto responders. If you're sending from your corporate domain, you likely already have this configured. If not, you can usually set up to map to your corporate domain's MX record.
 * **Recommended Settings for the From Address.** You must use a valid, existing and working email domain in the From Address in all email campaigns. It may be beneficial to configure a subdomain of your corporate domain rather than sending from your corporate domain. This will ensure issues from your corporate mailstream do not impact your Marketo mailstream and vice versa. Furthermore, sending mail from `something@nonexistentdomain.com` will cause email to be filtered or blocked. Any domain used in the sender's From Address must have a valid and working postmaster@ and abuse@ account.
 
-If you’re using Google Apps to host your corporate email, you won’t be able to create abuse@ or postmaster@ emails under your domain. To get around this, you need to create groups named “abuse” and “postmaster”. Users that are members of these groups will receive emails sent to those addresses (e.g., postmaster@domain.com). Detailed instructions for creating groups can be found [here](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
+If you're using Google Apps to host your corporate email, you won't be able to create abuse@ or postmaster@ emails under your domain. To get around this, you need to create groups named "abuse" and "postmaster". Users that are members of these groups will receive emails sent to those addresses (e.g., postmaster@domain.com). Detailed instructions for creating groups can be found [here](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
 
 Choose a CNAME for email tracking links (choose one that is _different_ from the landing page CNAME you chose in Step 3). Some examples:
 
@@ -161,7 +161,7 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
    >[!CAUTION]
    >
-   >Email and Landing Page CNAMEs must be different. Also, avoid CNAMEs like ‘track’ or ‘link.’ It is often flagged as spam
+   >Email and Landing Page CNAMEs must be different. Also, avoid CNAMEs like 'track' or 'link.' It is often flagged as spam
 
    To find your Marketo tracking link, go to the **Admin** area.
 
@@ -191,7 +191,7 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
    >
    >Are you a Launch Pack customer? You can skip this step. Your consultant will provide you with an IT setup instructions document during your kickoff call.
 
-   Once you have collected all the necessary information, you’re ready to send a request to IT. You can use the text below as a template, replacing the bold text with your own information.
+   Once you have collected all the necessary information, you're ready to send a request to IT. You can use the text below as a template, replacing the bold text with your own information.
 
    [Include a link to this article](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
 
@@ -232,7 +232,7 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
    >[!NOTE]
    >
-   >Reach out to Marketo Support if you’d like an abbreviated list of IPs to allowlist specific to your environment.
+   >Reach out to Marketo Support if you'd like an abbreviated list of IPs to allowlist specific to your environment.
 
     * If our anti-spam system uses From domains, add these:
 
@@ -312,7 +312,7 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
 ## Integrate Your CRM {#integrate-your-crm}
 
-   This is probably the most exciting step of your setup - it’s time to fill up Marketo with all those leads and contacts you have stored in your CRM!
+   This is probably the most exciting step of your setup - it's time to fill up Marketo with all those leads and contacts you have stored in your CRM!
 
    Choose from the following, depending on the CRM your company uses.
 
@@ -321,7 +321,7 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
    >[!NOTE]
    >
-   >You need the assistance of your company’s CRM administrator to complete these steps.
+   >You need the assistance of your company's CRM administrator to complete these steps.
 
 ## Add Tracking Code to Your Website {#add-tracking-code-to-your-website}
 
@@ -334,5 +334,9 @@ Marketo has custom tracking JavaScript (called Munchkin) that you can use to tra
 >[!NOTE]
 >
 >Experience with HTML required to add the tracking code.
+
+## Performance Expectations {#performance-expectations}
+
+What can you expect in terms of performance from Marketo? It can vary, depending on the size and complexity of your marketing campaigns. But you can expect performance levels on par with what's outlined in the "Standard" column in several of the tables found in the [Marketo Engage Product description](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 All your setup steps are over. The only thing left is to dive in and use Marketo!
