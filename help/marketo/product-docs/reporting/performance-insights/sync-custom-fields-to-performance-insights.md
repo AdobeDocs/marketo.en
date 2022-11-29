@@ -32,6 +32,10 @@ MPI Revenue and Pipeline dashboards can filter on custom Marketo fields. in orde
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
+   >[!IMPORTANT]
+   >
+   >Fields chosen need to be related to the Program Opportunity area only.
+
 1. Change the **Sync Status** to **Enabled**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
