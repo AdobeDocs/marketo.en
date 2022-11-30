@@ -16,17 +16,21 @@ If you're [using SSO](/help/marketo/product-docs/administration/additional-integ
 >
 >**Admin Permissions Required**
 
-1. Go to **Admin** and click **Login Settings**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2014-9-24-14-3a44-3a40.png)
+   ![](assets/restrict-user-login-to-sso-only-1.png)
+
+1. Click **Login Settings**.
+
+   ![](assets/restrict-user-login-to-sso-only-2.png)
 
 1. Click **Edit Security Settings**.
 
-   ![](assets/image2014-9-24-14-3a44-3a53.png)
+   ![](assets/restrict-user-login-to-sso-only-3.png)
 
 1. Expand the Advanced settings, check **Require SSO**, and click **Save**.
 
-![](assets/image2014-9-24-14-3a45-3a6.png)
+![](assets/restrict-user-login-to-sso-only-4.png)
 
 >[!NOTE]
 >

@@ -16,29 +16,33 @@ Marketo manages your Zoom registration and attendance.
 >
 >An existing subscription to Zoom and administration rights are necessary for this step. Have the email and password you use to sign in to Zoom on hand.
 
-1. Go to the **Admin** area and click **LaunchPoint**.
+1. Go to the **Admin** area.
 
-   ![](assets/launchpoint.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-1.png)
 
-1. Click the **New** drop-down and select **New Service**.
+1. Click **LaunchPoint**.
 
-   ![](assets/newservicelp.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-2.png)
+
+1. Select **New** and then **New Service**.
+
+   ![](assets/add-zoom-as-a-launchpoint-service-3.png)
 
 1. Enter a **Display Name**. Under **Service**, select **Zoom**.
 
-   ![](assets/newservice-1.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-4.png)
 
 1. Click **Log Into Zoom**.
 
-   ![](assets/login.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-5.png)
 
 1. In the Zoom login window, enter your Zoom credentials and click **Sign in**.
 
-   ![](assets/zoomlogin.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-6.png)
 
 1. After the window closes, click **Create**.
 
-   ![](assets/create-1.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-7.png)
 
    Great! Your Zoom account is now synced with Marketo and can be found in the LaunchPoint area.
 

@@ -14,13 +14,17 @@ exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 >
 >**Admin Permissions Required**
 
-1. Go to **Admin** and click **Web Services**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2014-9-19-10-3a58-3a11.png)
+   ![](assets/configuring-your-soap-api-settings-1.png)
+
+1. Click **Web Services**.
+
+   ![](assets/configuring-your-soap-api-settings-2.png)
 
 1. Set an appropriate **Encryption Key**, click **Save Changes**, and pass all the information to your Developer.
 
-   ![](assets/image2014-9-19-11-3a0-3a46.png)
+   ![](assets/configuring-your-soap-api-settings-3.png)
 
 >[!CAUTION]
 >
