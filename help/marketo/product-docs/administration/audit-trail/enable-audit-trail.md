@@ -16,15 +16,15 @@ Audit Trail is available to all customers and controlled by two admin permission
 
 1. Click **Admin**.
 
-   ![](assets/one-2.png)
+   ![](assets/enable-audit-trail-1.png)
 
 1. Select **Users & Roles** and click **Roles**.
 
-   ![](assets/two-2.png)
+   ![](assets/enable-audit-trail-2.png)
 
 1. Select the role you want to enable Audit Trail for and click **Edit Role**.
 
-   ![](assets/three-1.png)
+   ![](assets/enable-audit-trail-3.png)
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ Audit Trail is available to all customers and controlled by two admin permission
 
 1. Expand the **Access Admin** permission. Select **Access Audit Trail** and/or **Access Login History**, depending on your needs. Click **Save**.
 
-   ![](assets/four-1.png)
+   ![](assets/enable-audit-trail-4.png)
 
    >[!NOTE]
    >
@@ -50,11 +50,11 @@ Audit Trail is available to all customers and controlled by two admin permission
 
 1. In **Users & Roles**, click **Users**.
 
-   ![](assets/five-1.png)
+   ![](assets/enable-audit-trail-5.png)
 
 1. Select the user you want to give Audit Trail access to and click **Edit User**.
 
-   ![](assets/six-1.png)
+   ![](assets/enable-audit-trail-6.png)
 
    >[!NOTE]
    >
@@ -62,7 +62,7 @@ Audit Trail is available to all customers and controlled by two admin permission
 
 1. Select the Audit Trail roles you created. In this example we created "Audit Trail - Asset and Admin," and "Audit Trail - With Login History."
 
-   ![](assets/seven-1.png)
+   ![](assets/enable-audit-trail-7.png)
 
    >[!CAUTION]
    >
@@ -70,4 +70,4 @@ Audit Trail is available to all customers and controlled by two admin permission
 
 1. Click **Save**.
 
-   ![](assets/eight-1.png)
+   ![](assets/enable-audit-trail-8.png)

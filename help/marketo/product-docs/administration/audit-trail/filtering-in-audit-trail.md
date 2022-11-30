@@ -10,15 +10,15 @@ Filter by time frame, asset type, users, action taken, and more.
 
 1. Click **Admin**.
 
-   ![](assets/one-1.png)
+   ![](assets/filtering-in-audit-trail-1.png)
 
 1. Under **Security**, select **Audit Trail**.
 
-   ![](assets/two-1.png)
+   ![](assets/filtering-in-audit-trail-2.png)
 
 1. Click on the filter icon.
 
-   ![](assets/three.png)
+   ![](assets/filtering-in-audit-trail-3.png)
 
    >[!NOTE]
    >
@@ -26,23 +26,23 @@ Filter by time frame, asset type, users, action taken, and more.
 
 1. Click the **Period** drop-down and select **Last 7 Days**.
 
-   ![](assets/four.png)
+   ![](assets/filtering-in-audit-trail-4.png)
 
 1. Click the **Asset Type** drop-down and select **Email**.
 
-   ![](assets/five.png)
+   ![](assets/filtering-in-audit-trail-5.png)
 
 1. Click the **Actions** drop-down and select **Edit**.
 
-   ![](assets/six.png)
+   ![](assets/filtering-in-audit-trail-6.png)
 
 1. Click **Apply**.
 
-   ![](assets/seven.png)
+   ![](assets/filtering-in-audit-trail-7.png)
 
 1. Filtered results appear on the left.
 
-   ![](assets/eight.png)
+   ![](assets/filtering-in-audit-trail-8.png)
 
    That's it!
 

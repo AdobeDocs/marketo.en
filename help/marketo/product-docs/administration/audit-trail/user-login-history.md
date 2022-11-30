@@ -22,37 +22,41 @@ The User Login History identifies people who log in by:
 
 To view the User Login History:
 
-1. Click the **Admin** tab and under Security, click **Users & Roles**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2016-7-12-9-3a2-3a31.png)
+   ![](assets/user-login-history-1.png)
+
+1. Under Security, click **Users & Roles**.
+
+   ![](assets/user-login-history-2.png)
 
 1. Click the **Login History** tab. The listing shows the most recent logins.
 
-   ![](assets/login-history-tab.jpg)
+   ![](assets/user-login-history-3.png)
 
 1. Use the Filter to narrow your search.
 
-   ![](assets/filter-main.jpg)
+   ![](assets/user-login-history-4.png)
 
 1. Select a date range using the date pickers.
 
-   ![](assets/select-date-range-hand.jpg)
+   ![](assets/user-login-history-5.png)
 
 1. Or, choose from the drop-down.
 
-   ![](assets/filter-select-from-dropdown.jpg)
+   ![](assets/user-login-history-6.png)
 
 1. Select the users from the **Users** drop-down.
 
-   ![](assets/user-dropdown.jpg)
+   ![](assets/user-login-history-7.png)
 
 1. Check the **Only Failed Logins** box to display only failed logins in your search.
 
-   ![](assets/only-failed-logins.jpg)
+   ![](assets/user-login-history-8.png)
 
 1. Click **Apply**.
 
-   ![](assets/click-apply-real.jpg)
+   ![](assets/user-login-history-9.png)
 
    >[!NOTE]
    >

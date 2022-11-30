@@ -12,13 +12,17 @@ Editing your default branding domain is the first step in working with branding 
 >
 >Make sure you've [set up a CNAME in your DNS](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md) before you add your branding domains in Marketo.
 
-1. Go to **Admin** and click **Email**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2016-6-29-16-3a42-3a20.png)
+   ![](assets/edit-your-default-branding-domain-1.png)
+
+1. Click **Email**.
+
+   ![](assets/edit-your-default-branding-domain-2.png)
 
 1. In the Branding Domains table, select the generic domain and click Edit to change it to your company's branded domain.
 
-   ![](assets/edit-branding-domain.png)
+   ![](assets/edit-your-default-branding-domain-3.png)
 
    >[!NOTE]
    >
@@ -26,6 +30,6 @@ Editing your default branding domain is the first step in working with branding 
 
 1. Enter the name of the your default domain and click Save.
 
-   ![](assets/edit-branding-domain-hands.png)e
+   ![](assets/edit-your-default-branding-domain-4.png)
 
 Now, you can [add any additional branding domains](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) you need.

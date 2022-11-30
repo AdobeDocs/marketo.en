@@ -10,15 +10,15 @@ You can overwrite the primary branded domain on a per email basis. This will cha
 
 1. Go to **Marketing Activities**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/overwrite-primary-domain-for-emails-1.png)
 
 1. Select an email and click **Edit Draft**.  
 
-   ![](assets/image2016-8-26-11-3a48-3a7.png)
+   ![](assets/overwrite-primary-domain-for-emails-2.png)
 
 1. Select the branding domain you want to use.
 
-   ![](assets/image2016-8-12-11-3a5-3a29.png)
+   ![](assets/overwrite-primary-domain-for-emails-3.png)
 
    >[!NOTE]
    >
