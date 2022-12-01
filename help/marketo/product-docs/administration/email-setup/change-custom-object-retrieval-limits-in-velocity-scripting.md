@@ -9,7 +9,7 @@ If you use Velocity Script to display Custom Object data in emails, this feature
 
 ## What is Velocity {#what-is-velocity}
 
-[Apache Velocity](https://velocity.apache.org/) is a language built on Java designed for templating and scripting HTML content. Marketo allows it to be used in the context of Emails through the use of [scripting tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md). Among other things, this gives access to data stored in custom objects.
+[Apache Velocity](https://velocity.apache.org/) is a language built on Java designed for templating and scripting HTML content. Marketo allows it to be used in the context of Emails through the use of [scripting tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md). Among other things, this gives access to data stored in custom objects.
 
 You can reference parent and child custom objects that are directly connected to the Lead, or Contact, but not third-level custom objects. For each custom object, the 10 most recently updated records per person/contact are available at runtime and are ordered from most recently updated (at 0) to oldest updated (at 9).
 

@@ -12,11 +12,15 @@ exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 
 When you send marketing emails (non-[operational](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), unsubscribe text and links are appended to the bottom. You can change the defaults. Here's how.
 
-## Edit the Unsubscribe Message {#edit-the-unsubscribe-message-1}
+## Where to Make the Edit {#where-to-make-the-edit}
 
-1. Under **Admin**, click **Email**.
+1. Go to the **Admin** section.
 
-   ![](assets/image2014-9-18-16-3a52-3a1.png)
+   ![](assets/edit-the-unsubscribe-message-1.png)
+
+1. Click **Email**.
+
+   ![](assets/edit-the-unsubscribe-message-2.png)
 
    >[!CAUTION]
    >
@@ -27,7 +31,7 @@ When you send marketing emails (non-[operational](/help/marketo/product-docs/ema
 
 1. Edit the **Unsubscribe HTML** and **Unsubscribe Text** versions to your liking and click **Save Changes**.
 
-   ![](assets/image2016-8-26-13-3a40-3a55.png)
+   ![](assets/edit-the-unsubscribe-message-3.png)
 
    There you have it. _Make sure to test!_ You don't want your marketing emails to have broken unsubscribe links.
 

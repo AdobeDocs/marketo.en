@@ -10,7 +10,7 @@ The default unsubscribe message and link are in English. You can use dynamic con
 
 >[!NOTE]
 >
->We set up this nice little tutorial below for you. It represents a best practice, but this can be accomplished other ways.
+>This article represents a best practice, but can be accomplished other ways.
 
 ## Prepare Your Data {#prepare-your-data}
 
@@ -24,15 +24,15 @@ The default unsubscribe message and link are in English. You can use dynamic con
 
 1. Go to the **Database**.
 
-   ![](assets/db.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-1.png)
 
 1. In the **New** drop-down, click **New Segmentation**.
 
-   ![](assets/two.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
 1. Name the segmentation **Preferred Language**. Click **Add Segment**. Type in a language.
 
-   ![](assets/image2015-3-9-8-3a33-3a44.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-3.png)
 
    >[!NOTE]
    >
@@ -40,89 +40,89 @@ The default unsubscribe message and link are in English. You can use dynamic con
 
 1. Continue to add segments until all of your languages are represented. Click **Create**.
 
-   ![](assets/image2015-3-9-8-3a38-3a5.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-4.png)
 
 1. Select a segment.
 
-   ![](assets/image2015-3-9-8-3a38-3a17.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-5.png)
 
 1. Go to the **Smart List** tab. Enter **Preferred Language** into the search field. Drag and drop the filter onto the canvas.
 
-   ![](assets/six.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-6.png)
 
 1. Set the appropriate corresponding language.
 
-   ![](assets/seven.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-7.png)
 
 1. Repeat for all your different languages. Then, select the **Segmentation Actions** drop-down and click **Approve**.
 
-   ![](assets/image2015-3-9-8-3a39-3a36.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-8.png)
 
 ## Create a Snippet {#create-a-snippet}
 
 1. Go to the **Design Studio**.
 
-   ![](assets/ds.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-9.png)
 
 1. In the **New** dropdown, click **New Snippet**.
 
-   ![](assets/ten.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
 1. Name the snippet **Unsubscribe Message**. Click **Create**.
 
-   ![](assets/image2015-3-9-8-3a40-3a54.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-11.png)
 
 1. Type your default unsubscribe message, highlight it, and click the hyperlink icon.
 
-   ![](assets/image2015-3-9-8-3a41-3a47.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-12.png)
 
-1. Copy and paste this token: `{{system.unsubscribeLink}}` into the **Link URL** field. Click **Insert**.
+1. Copy and paste this token: `{{system.unsubscribeLink}}` into the **URL** field. Click **Insert**.
 
-   ![](assets/image2015-3-9-8-3a43-3a17.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-13.png)
 
 1. Select **Segment By** in the Segmentation section.
 
-   ![](assets/image2015-3-9-8-3a44-3a16.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-14.png)
 
 1. From the Segmentation drop-down, type in **Preferred** and select **Preferred Language**. Click **Save**.
 
-   ![](assets/image2015-3-9-8-3a44-3a32.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
-1. Select a segment from the tree. Type in your unsubscribe message in that language.
+1. Select a segment from the tree. Click on your unsubscribe then the link icon.
 
-   ![](assets/image2015-3-9-8-3a45-3a43.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
-1. Copy and paste the same token: `{{system.unsubscribeLink}}` into the **Link URL** field. Click **Insert**.
+1. Make sure `{{system.unsubscribeLink}}` is still in the URL field. Edit the Display Text to match the language you selected. Click **Apply**.
 
-   ![](assets/image2015-3-9-8-3a47-3a4.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-17.png)
 
 1. Repeat for all your segments. Then, go back to the Design Studio, click the **Snippet Actions** drop-down, and click **Approve**.
 
-   ![](assets/image2015-3-9-8-3a47-3a34.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
-   Awesome. Almost there.
+Awesome. Almost there!
 
 ## Use Snippet in an Email {#use-snippet-in-an-email}
 
 1. Inside the email editor, click the editable element. Then click the gear icon and select **Replace with Snippet**. If you're selecting an editable snippet element, click the gear icon and select **Edit**.
 
-   ![](assets/4.1.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-19.png)
 
 1. Find and select your snippet from the drop-down and click **Save**.
 
-   ![](assets/image2015-3-9-8-3a50-3a16.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-20.png)
 
 1. To test it out, click **Back**...
 
-   ![](assets/4.3.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-21.png)
 
 1. ...then the **Dynamic** tab.
 
-   ![](assets/4.4.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-22.png)
 
 1. Click the different languages to see the snippet change.
 
-   ![](assets/4.5.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-23.png)
 
    >[!TIP]
    >
@@ -132,25 +132,25 @@ The default unsubscribe message and link are in English. You can use dynamic con
 
 If you want your people to come to an unsubscribe page in their preferred language, you can use dynamic content on the landing page and the confirmation page.
 
-1. Navigate to the Design Studio.
+1. Navigate to the **Design Studio**.
 
-   ![](assets/ds.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-24.png)
 
-1. Type in _Unsubscribe_ in the search field. You should find your Unsubscribe pages.
+1. Type in _Unsubscribe_ in the search field and select your desired Unsubscribe page.
 
-   ![](assets/image2015-3-9-8-3a51-3a53.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-25.png)
 
 1. Click **Edit Draft**.
 
-   ![](assets/image2015-3-9-8-3a52-3a23.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-26.png)
 
 1. Select **Segment By**.
 
-   ![](assets/image2015-3-9-8-3a52-3a57.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-27.png)
 
 1. Find the Preferred Language segment. Click **Save**.
 
-   ![](assets/image2015-3-9-8-3a53-3a54.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 
    Edit your content for each landing page, approve, and you're good to go!
 

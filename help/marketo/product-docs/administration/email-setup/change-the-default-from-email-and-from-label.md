@@ -14,15 +14,15 @@ Each Admin user has the ability to change the default values for **From Email** 
 
 1. Go to the **Admin** section.
 
-   ![](assets/adminhand.png)
+   ![](assets/change-the-default-from-email-and-from-label-1.png)
 
 1. Click **Email**.
 
-   ![](assets/image2014-9-18-16-3a27-3a19.png)
+   ![](assets/change-the-default-from-email-and-from-label-2.png)
 
 1. Enter the default values you want for **From Email** and **From Label** then click **Save Changes**.
 
-   ![](assets/change-default-hands.png)
+   ![](assets/change-the-default-from-email-and-from-label-3.png)
 
 >[!NOTE]
 >
