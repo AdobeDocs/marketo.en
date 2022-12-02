@@ -21,7 +21,7 @@ The following features will start to be released on **March 11, 2022**, with a p
 
 * **Email Bot Activity Filtering Enhancement**: As an enhancement to the previously released [Email Bot Activity Filtering](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} feature, you can now opt-in to logging activities that are identified as bots. You can then filter and trigger actions based on activities that are identified as being performed by bots.
 
-## Next-Generation Experience {#next-generation-experience}
+## Next-Generation Experience {#modern-ux}
 
 * **Updated Screens in the Next-Generation Experience**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
 
@@ -67,7 +67,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 ## Announcements {#announcements}
 
-* **Marketo Sky Deprecation**: In March, Marketo Sky will no longer be available as we focus our resources on delivering the next-generation user experience. In an effort to maintain access to functionality that is exclusive to Marketo Sky today, we are bringing Asset Expiration and Smart Campaign Priority Override into the Classic experience. [Click here](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) to learn more.
+* **Marketo Sky Deprecation**: In March, Marketo Sky will no longer be available as we focus our resources on delivering the next-generation user experience. In an effort to maintain access to functionality that is exclusive to Marketo Sky today, we are bringing Asset Expiration and Smart Campaign Priority Override into the Classic experience. [Click here](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) to learn more.
 
 **_Product Release Webinar_**
 

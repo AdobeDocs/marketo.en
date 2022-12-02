@@ -9,7 +9,7 @@ Here’s how to track your goal progress and understand Marketo’s predictions.
 
 >[!PREREQUISITES]
 >
->To access the majority of these features, be sure to enable the [next-gen toggle](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target="_blank"} for Event Programs.
+>To access the majority of these features, be sure to enable the [next-gen toggle](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"} for Event Programs.
 
 >[!NOTE]
 >

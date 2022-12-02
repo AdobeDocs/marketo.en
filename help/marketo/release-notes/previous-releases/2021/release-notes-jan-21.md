@@ -17,7 +17,7 @@ The following features will be released on **January 15, 2021**.
 
 ## Next-Generation User Experience {#next-generation-user-experience}
 
-* Support for Workspaces: The Marketo Engage next-generation user experience brings together the look and feel of Adobe Experience Cloud with productivity innovations to help marketing practitioners work faster and smarter. In the latest release, we're adding full support for workspaces and partitions, including the ability to share folders across workspaces. The right-hand canvas will offer a toggle switch to allow you to seamlessly transition between old and new experiences per feature without losing context. [Learn more](https://nation.marketo.com/t5/The-Next-Generation-Experience/Next-Generation-Experience-FAQ/ba-p/307124) from the next-generation experience FAQ on Marketing Nation.
+* Support for Workspaces: The Marketo Engage next-generation user experience brings together the look and feel of Adobe Experience Cloud with productivity innovations to help marketing practitioners work faster and smarter. In the latest release, we're adding full support for workspaces and partitions, including the ability to share folders across workspaces. The right-hand canvas will offer a toggle switch to allow you to seamlessly transition between old and new experiences per feature without losing context. [Learn more](https://nation.marketo.com/t5/The-modern-ux/modern-ux-FAQ/ba-p/307124) from the next-generation experience FAQ on Marketing Nation.
 
 ## Multi-Channel Personalization {#multi-channel-personalization}
 

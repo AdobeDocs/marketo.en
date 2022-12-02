@@ -31,8 +31,8 @@ The following features will start to be released on **June 24, 2022**, with a ph
 
 **New Toggle Switch Views**: The views below are now available in the Next-generation Experience:
 
-* [Email Details View](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-details-view){target="_blank"}
-* [Email List View](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-list-view){target="_blank"}
+* [Email Details View](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
+* [Email List View](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
 ## Experience Automation {#experience-automation}
 

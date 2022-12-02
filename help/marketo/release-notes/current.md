@@ -47,7 +47,7 @@ The following features fall under the standard release cycle and will start to b
   </tbody>
 </table>
 
-### Next-generation Experience {#next-generation-experience}
+### Next-generation Experience {#modern-ux}
 
 </br>
 
@@ -63,7 +63,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr> 
    <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">Toggle Switch</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Toggle Switch</a></td>
   </tr>
   </tbody>
 </table>

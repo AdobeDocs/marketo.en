@@ -12,7 +12,7 @@ In order to utilize Marketo Sky, roles for desired users must be enabled.
 
 >[!IMPORTANT]
 >
->Marketo Sky will deprecated in March of 2022. [Click here](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) to learn more.
+>Marketo Sky will deprecated in March of 2022. [Click here](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) to learn more.
 
 >[!NOTE]
 >

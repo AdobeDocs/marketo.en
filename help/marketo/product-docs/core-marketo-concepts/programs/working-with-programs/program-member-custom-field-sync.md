@@ -1,6 +1,6 @@
 ---
-description: Program Member Custom Fields - Marketo Docs - Product Documentation
-title: Program Member Custom Fields
+description: Program Member Custom Field Sync - Marketo Docs - Product Documentation
+title: Program Member Custom Field Sync
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 ---
 # Program Member Custom Field Sync {#program-member-custom-field-sync}

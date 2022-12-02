@@ -33,7 +33,7 @@ The following features will start to be released on **May 6, 2022**, with a phas
 
 **[STS Header for Email Tracking Links](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**: Meet security best practices with the ability to apply Secure Transport Security headers to ensure traffic to tracked links is always secure.
 
-## Next-Generation Experience {#next-generation-experience}
+## Next-Generation Experience {#modern-ux}
 
 **Toggle Switch Defaulted to the Next-Generation Experience**: The toggle switch will be default to the new experience in all screens where it's available, making it easier for users to discover the updated designs and usability enhancements.
 

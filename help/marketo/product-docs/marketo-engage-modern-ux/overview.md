@@ -5,7 +5,7 @@ exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 ---
 # Overview {#overview}
 
-Welcome to the next-gen Marketo Engage experience, a new interface that provides enhanced usability along with a new look and feel across the Marketo platform.
+Welcome to the Adobe Marketo Engage Modern UX (user experience), an updated interface that provides enhanced usability along with a new look and feel across the Marketo Engage platform.
 
 >[!PREREQUISITES]
 >
@@ -17,7 +17,7 @@ Welcome to the next-gen Marketo Engage experience, a new interface that provides
 
 ## Take the Tour {#take-the-tour}
 
-At first log-in, a pop-up will appear, ready to give you the rundown of the new experience. Heads up, if you choose to skip it, it will **not** be available later.
+At first log in, a pop-up will appear, ready to give you the rundown of the new experience. Heads up, if you choose to skip it, it will **not** be available later.
 
 ![](assets/overview-1.png)
 
@@ -27,17 +27,17 @@ The tour walks you through everything you need to know!
 
 ## What's New {#whats-new}
 
-There's a lot of new functionality in this next-gen experience, all of which is designed to significantly improve your marketing experience.
+There's a lot of new functionality in the Modern UX, all of which is designed to significantly improve your marketing experience.
 
 **Icons**
 
-The new interface features improved and expanded iconography. Learn about them here: [Icon Glossary](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
+The new interface features improved and expanded iconography. Learn about them here: [Icon Glossary](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
 
 ![](assets/overview-new-icons.png)
 
 **Global Navigation**
 
-Goodbye superball. You now have quick access to all of the main Marketo sections.
+Goodbye superball. You now have quick access to all of the main Marketo Engage sections.
 
 ![](assets/overview-5.png)
 
@@ -53,7 +53,7 @@ There are a ton of new tree features available.
 
 >[!NOTE]
 >
->Performing a search in the tree will only display the first 250 results. If after a search you are unable to locate your asset, please use the [Global Search](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md) function.
+>Performing a search in the tree will only display the first 250 results. If after a search you are unable to locate your asset, please use the [Global Search](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) function.
 
 **Marketo Classic vs. the New Marketo**
 

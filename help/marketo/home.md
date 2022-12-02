@@ -22,7 +22,7 @@ exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
 
 * [Understanding Smart Campaigns](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 
-* [Adobe Marketo Engage Next Gen UX Experience Overview](/help/marketo/product-docs/marketo-engage-next-generation-experience/overview.md)
+* [Adobe Marketo Engage Next Gen UX Experience Overview](/help/marketo/product-docs/marketo-engage-modern-ux/overview.md)
 
 ## Release Notes
 

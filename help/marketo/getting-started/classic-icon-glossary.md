@@ -6,7 +6,7 @@ exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 ---
 # Classic Icon Glossary {#classic-icon-glossary}
 
-Below are the old icons from Marketo Classic. The new icon glossary can be [found here](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md){target="_blank"}.
+Below are the old icons from Marketo Classic. The new icon glossary can be [found here](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target="_blank"}.
 
 **General Icons**
 

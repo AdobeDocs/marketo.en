@@ -1058,11 +1058,11 @@ feature-set: Marketo Engage
         + [Use the Send Alert Info Token](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
         + [Using URLs in My Tokens](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
       + [Email CC](product-docs/email-marketing/general/email-cc.md)
-  + Marketo Engage Next Generation Experience {#marketo-engage-next-generation-experience}
-    + [Overview](product-docs/marketo-engage-next-generation-experience/overview.md)
-    + [Icon Glossary](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
-    + [Using the Global Search](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
-    + [Toggle Switch](product-docs/marketo-engage-next-generation-experience/toggle-switch.md)
+  + Marketo Engage Modern UX {#marketo-engage-modern-ux}
+    + [Overview](product-docs/marketo-engage-modern-ux/overview.md)
+    + [Icon Glossary](product-docs/marketo-engage-modern-ux/icon-glossary.md)
+    + [Using the Global Search](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
+    + [Toggle Switch](product-docs/marketo-engage-modern-ux/toggle-switch.md)
   + Marketo Sales Connect {#marketo-sales-connect}
     + Getting Started {#getting-started}
       + [Sales Connect Overview](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)

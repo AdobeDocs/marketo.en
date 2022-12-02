@@ -27,7 +27,7 @@ The following features began a phased rollout on **August 26, 2022**.
 
 * **Display Folder Hierarchy of Destination Folder in the Move Dialog**: Viewing the folder hierarchy for each folder makes moving assets easier and reduces the likelihood of putting them in the wrong folder.
 
-* **[Updated Screens in the Next-Generation Experience](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target="_blank"}**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
+* **[Updated Screens in the Next-Generation Experience](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"}**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
 
   * Snippet Details
   * "Images and Files" Details
