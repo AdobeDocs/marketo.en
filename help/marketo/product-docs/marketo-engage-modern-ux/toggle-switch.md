@@ -5,7 +5,7 @@ exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 ---
 # Toggle Switch {#toggle-switch}
 
-The Toggle Switch allows you to switch between Marketo's classic interface and the next-gen Marketo Engage experience. It's available in all of the areas highlighted below.
+The Toggle Switch allows you to switch between Marketo's classic interface and the Modern UX. It's available in all of the areas highlighted below.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Enable the toggle switch for individual roles or all roles. Here's how.
 
 ## Enable for Features {#enable-for-features}
 
-You have the option of manually enabling Marketo's next-gen interface for indivudual features, or all available features (current and forthcoming).
+You have the option of manually enabling the Marketo Engage Modern UX for indivudual features, or all available features (current and forthcoming).
 
 In an area that currently has the Toggle Switch (in this example we're in Email List View), simply click the toggle on the bottom-right of the page.
 
@@ -49,7 +49,7 @@ Select **Enable for all available features** and click **OK**.
 
 ## Available Features {#available-features}
 
-The following features are currently available in Marketo's next-gen interface (with new features added each Release):
+The following features are currently available in the Modern UX (with new features added each Release):
 
 * Email Details View
 * Email List View
