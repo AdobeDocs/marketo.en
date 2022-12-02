@@ -27,8 +27,8 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Program Member Custom Fields Sync</a></td>
   </tr>
   </tbody>
 </table>
