@@ -12,13 +12,17 @@ It's very important to not over-communicate with your people. Setting communicat
 >
 >**Admin Permissions Required**
 
-1. Under **Admin**, click **Communication Limits**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2014-9-18-15-3a53-3a37.png)
+   ![](assets/enable-communication-limits-1.png)
+
+1. Click **Communication Limits**.
+
+   ![](assets/enable-communication-limits-2.png)
 
 1. Click **Edit**.
 
-   ![](assets/image2014-9-18-15-3a53-3a47.png)
+   ![](assets/enable-communication-limits-3.png)
 
    >[!NOTE]
    >
@@ -26,7 +30,7 @@ It's very important to not over-communicate with your people. Setting communicat
 
 1. Click the **Per Day** drop-down and select the desired limit. In this example we're choosing 1.
 
-   ![](assets/three.png)
+   ![](assets/enable-communication-limits-4.png)
 
    >[!TIP]
    >
@@ -34,11 +38,11 @@ It's very important to not over-communicate with your people. Setting communicat
 
 1. Click the **Per 7 Days** drop-down and select the desired limit. In this example we're choosing 5.
 
-   ![](assets/four.png)
+   ![](assets/enable-communication-limits-5.png)
 
 1. Select **Block non-operational emails**.
 
-   ![](assets/five.png)
+   ![](assets/enable-communication-limits-6.png)
 
    >[!NOTE]
    >
@@ -46,7 +50,7 @@ It's very important to not over-communicate with your people. Setting communicat
 
 1. Click **Save**.
 
-   ![](assets/six.png)
+   ![](assets/enable-communication-limits-7.png)
 
    >[!NOTE]
    >

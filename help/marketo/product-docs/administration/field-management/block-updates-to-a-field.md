@@ -12,13 +12,17 @@ Blocking updates to a field allows you to write to the field once and then retai
 >
 >**Admin Permissions Required**
 
-1. Go to **Admin** and click **Field Management**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2014-9-24-13-3a54-3a40.png)
+   ![](assets/block-updates-to-a-field-1.png)
+
+1. Click **Field Management**.
+
+   ![](assets/block-updates-to-a-field-2.png)
 
 1. Find the field, select it, then under **Field Actions**, click **Block Field Updates**.
 
-   ![](assets/two-1.png)
+   ![](assets/block-updates-to-a-field-3.png)
 
    >[!NOTE]
    >
@@ -26,7 +30,7 @@ Blocking updates to a field allows you to write to the field once and then retai
 
 1. Select the **Input Sources** you want to block and click **Apply**.
 
-   ![](assets/image2014-9-24-13-3a55-3a16.png)
+   ![](assets/block-updates-to-a-field-4.png)
 
    >[!CAUTION]
    >

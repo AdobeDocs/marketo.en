@@ -14,9 +14,13 @@ If you need to edit the "[View as a Webpage](/help/marketo/product-docs/email-ma
 
 ## Edit the "View as Web Page" Message {#edit-the-view-as-web-page-message-1}
 
-1. Under **Admin**, click **Email**.
+1. Go to the **Admin** area. 
 
-   ![](assets/image2014-9-18-17-3a13-3a2.png)
+   ![](assets/edit-the-view-as-web-page-message-1.png)
+
+1. Click **Email**.
+
+   ![](assets/edit-the-view-as-web-page-message-2.png)
 
    >[!CAUTION]
    >
@@ -28,7 +32,7 @@ If you need to edit the "[View as a Webpage](/help/marketo/product-docs/email-ma
 
 1. Edit the **View as Web Page HTML** and **View as Web Page Text** versions to your liking and click **Save Changes**.
 
-   ![](assets/image2016-8-26-14-3a40-3a29.png)
+   ![](assets/edit-the-view-as-web-page-message-3.png)
 
 >[!CAUTION]
 >
@@ -50,4 +54,6 @@ If you ever need to revert to default system "View as Web Page", copy/paste the 
 **View as Web Page Text:**
 
 To view this email as a web page, go to the following address:
-`<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>` Boom! You're done.
+`<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>`
+
+That's it!

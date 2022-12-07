@@ -14,17 +14,21 @@ You can trust the data in some lists more than others. Sometimes you have questi
 
 ## Blocking Field Updates From Untrusted Sources {#blocking-field-updates-from-untrusted-sources}
 
-1. Go to **Admin** and click **Field Management**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2014-9-19-9-3a38-3a38.png)
+   ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
+
+1. Click **Field Management**.
+
+   ![](assets/blocking-field-updates-from-untrusted-sources-2.png)
 
 1. Find the field you want, select it, then under **Field Actions**, click **Block Field Updates**.
 
-   ![](assets/image2014-9-19-9-3a39-3a40.png)
+   ![](assets/blocking-field-updates-from-untrusted-sources-3.png)
 
 1. Check **List Import untrusted source** and click **Apply**.
 
-   ![](assets/blockupdates.png)
+   ![](assets/blocking-field-updates-from-untrusted-sources-4.png)
 
 >[!TIP]
 >
@@ -36,7 +40,7 @@ Repeat the above steps for any other fields you want to keep safe from untrusted
 
 1. When running your list import, be sure to select **Untrusted** if you want all fields you set up in the previous step to be safe.
 
-   ![](assets/importpersondetails.jpg)
+   ![](assets/blocking-field-updates-from-untrusted-sources-5.png)
 
 For detailed instructions on importing lists, see [Import a List of People](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 

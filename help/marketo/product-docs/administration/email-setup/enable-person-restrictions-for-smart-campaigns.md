@@ -16,13 +16,17 @@ There is a feature in Marketo to limit the _maximum_ number of people that can q
 >
 >This applies only to batch campaigns and email programs.
 
-1. Click **Admin** and then **Smart Campaign**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2014-9-18-15-3a58-3a29.png)
+   ![](assets/enable-person-restrictions-for-smart-campaigns-1.png)
+
+1. Click **Smart Campaign**.
+
+   ![](assets/enable-person-restrictions-for-smart-campaigns-2.png)
 
 1. Click **Edit**.
 
-   ![](assets/image2014-9-18-15-3a59-3a7.png)
+   ![](assets/enable-person-restrictions-for-smart-campaigns-3.png)
 
    >[!CAUTION]
    >
@@ -30,7 +34,7 @@ There is a feature in Marketo to limit the _maximum_ number of people that can q
 
 1. Enter a limit and click **Save**.
 
-   ![](assets/image2014-9-18-15-3a59-3a56.png)
+   ![](assets/enable-person-restrictions-for-smart-campaigns-4.png)
 
    >[!TIP]
    >
@@ -40,7 +44,7 @@ There is a feature in Marketo to limit the _maximum_ number of people that can q
    >
    >This limit is applied to all the smart campaigns but can be overridden at campaign level. Learn how to [override person restrictions in a smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
-Bingo! You just turned on the safety switch. Good idea, right?
+Done! You just turned on the safety switch.
 
 >[!MORELIKETHIS]
 >
