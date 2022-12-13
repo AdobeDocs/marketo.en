@@ -7,7 +7,7 @@ exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 
 If you have a new account with Adobe Marketo Engage (new account, not just a new instance for an existing account) as of Feb 15, 2022, it may come integrated with the Adobe Identity  Management System, depending on the product package purchased. To find out if you have it, please contact your Marketo Admin or your account's Customer Success Manager.
 
-Existing Marketo subscriptions will be migrated to the Adobe Identity Management System beginning later this year.
+Existing Marketo subscriptions will begin to be migrated to the Adobe Identity Management System in the second half of 2023.
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ Existing Marketo subscriptions will be migrated to the Adobe Identity Management
 * Adobe Product Admin role is granted to users added as a Product Admin in Adobe Admin Console
 * Adobe Product Admin is a read-only role and can't be edited or deleted from Marketo Engage.  
 * Adobe Product Admin has the same rights and privileges as a standard Marketo Admin.
-* Marketo Engage Admin’s role is still an Admin and is granted to a user in Marketo Engage.
+* Marketo Engage Admin's role is still an Admin and is granted to a user in Marketo Engage.
 
 **Is there any change in User Management API client support?**
 
@@ -107,11 +107,11 @@ Yes. Marketo integration with Adobe IMS supports Universal ID users and SSO. SSO
 
 **How does device authorization work?**
 
-Adobe IMS does not currently support anything like Marketo’s device authorization feature.
+Adobe IMS does not currently support anything like Marketo's device authorization feature.
 
 **Is it still possible to use the "Login in Invite User Dialog" feature, to make a user's login unique from their email?**
 
-No. The User Invite workflow is no longer active when a subscription is IMS-enabled, so the feature is no longer valid. Adobe identity requires a user’s identity to be driven by their email.
+No. The User Invite workflow is no longer active when a subscription is IMS-enabled, so the feature is no longer valid. Adobe identity requires a user's identity to be driven by their email.
 
 **For Adobe IMS, do we have the option to use Adobe ID, Enterprise ID, or Federated ID?**
 
