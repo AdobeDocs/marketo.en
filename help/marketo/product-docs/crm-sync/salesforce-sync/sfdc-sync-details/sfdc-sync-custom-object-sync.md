@@ -16,6 +16,10 @@ Custom Objects created in your Salesforce instance can be part of Marketo too.  
 >
 >To use a custom object, it must be associated to a [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md), or [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) object in Salesforce.
 
+>[!IMPORTANT]
+>
+>The Marketo Sync User needs read access to the custom object to list it and perform a sync on it.
+
 ## Enable Custom Object  {#enable-custom-object}
 
 1. Click **Admin** and the **Salesforce Objects Sync** link.

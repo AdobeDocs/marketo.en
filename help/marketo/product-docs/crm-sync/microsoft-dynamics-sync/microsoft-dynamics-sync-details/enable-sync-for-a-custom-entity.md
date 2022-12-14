@@ -17,6 +17,10 @@ If you need custom entity data from Dynamics to be available in Marketo, here's 
 >* When you enable the sync for a custom entity, Marketo performs an initial sync to bring in all the data for the Custom Object.
 >* Marketing List and Marketing List Members are **not supported** at this time.
 
+>[!IMPORTANT]
+>
+>The Marketo Sync User needs read access to the custom object to list it and perform a sync on it.
+
 1. Go to the **Admin** section.
 
    ![](assets/enable-sync-for-a-custom-entity-1.png)
