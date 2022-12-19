@@ -65,14 +65,11 @@ The following features fall under the standard release cycle and will start to b
   </tbody>
 </table>
 
-### Next-generation Experience {#modern-ux}
+### title {#title}
 
 </br>
 
-* **Updated Screens in Modern UX**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
-
-  * Landing Page Template Details
-  * Email Template List
+* **title**: descrip
 
 <table> 
   <tr> 
