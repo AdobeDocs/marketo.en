@@ -195,3 +195,7 @@ The following features follow an Agile format and are released on various dates 
   </tr>
   </tbody>
 </table>
+
+**_Product Release Webinar_**
+
+Want to learn more about these features and enhancements? Be sure to [register now](https://engage.marketo.com/2023_January_Release_Webinar_RegistrationPage.html) to join us on January 24 at 9:00 AM PT / 12:00 PM ET for a live webinar with our product team to take a deeper dive into these innovations.
