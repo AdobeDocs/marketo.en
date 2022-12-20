@@ -1863,7 +1863,6 @@ feature-set: Marketo Engage
 + Release Notes {#release-notes}
   + [Release Schedule](release-notes/release-schedule.md)
   + [Current Release](release-notes/current.md)
-  + [Current Release](release-notes/temp.md)
   + Previous Releases {#previous-releases}
     + 2022 {#2022}
       + [Release Notes: January '22](release-notes/previous-releases/2022/release-notes-jan-22.md)
@@ -1871,6 +1870,7 @@ feature-set: Marketo Engage
       + [Release Notes: May '22](release-notes/previous-releases/2022/release-notes-may-22.md)
       + [Release Notes: June '22](release-notes/previous-releases/2022/release-notes-june-22.md)
       + [Release Notes: August '22](release-notes/previous-releases/2022/release-notes-aug-22.md)
+      + [Release Notes: October '22](release-notes/previous-releases/2022/release-notes-oct-22.md)
     + 2021 {#2021}
       + [Release Notes: January '21](release-notes/previous-releases/2021/release-notes-jan-21.md)
       + [Release Notes: May '21](release-notes/previous-releases/2021/release-notes-may-21.md)
