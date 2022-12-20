@@ -108,6 +108,10 @@ The following features fall under the standard release cycle and will start to b
 
 The following features follow an Agile format and are released on various dates before or after the standard release date. Please check below each feature for its status.
 
+### Dynamic Chat {#dynamic-chat}
+
+</br>
+
 * **Define Picklist in Info Capture Card for Dynamic Chat**: To help ensure data cleanliness, you can define picklists for information capture cards so visitors can select only from a predefined list of options.  
 
 <table> 
