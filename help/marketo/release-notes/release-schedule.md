@@ -12,8 +12,8 @@ exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 
 **Status**:
 
-* On Schedule - We're planning to release the quarterly features and enhancements on the indicated date
-* In Progress - We're developing and documenting the content now for release on the indicated date
+* On Schedule - We're planning to release the features and enhancements on the indicated date
+* In Progress - We're in the process of rolling out the features of the release
 * Shipped - The release is complete
 
 _Release dates are subject to change_
@@ -31,12 +31,12 @@ _Release dates are subject to change_
    <th width="250px">Status</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">October '22</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-oct-22.md">October '22</a></td>
    <td>October 14, 2022</td>
    <td>Shipped</td>
   </tr>
   <tr> 
-   <td>January '23</td>
+   <td><a href="/help/marketo/release-notes/current.md">January '23</a></td>
    <td>January 20, 2023</td>
    <td>On Schedule</td>
   </tr>
