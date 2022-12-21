@@ -14,7 +14,7 @@ First, you should learn the basics with this handy glossary.
 
 **Search Engine Optimization (SEO)**: A mix of strategies and techniques used to increase site traffic by obtaining a high-ranking placement in search engine results pages (SERP).
 
-**Keyword**: A keyword is the word or phrase that people type into a search engines like Google, Yahoo or Bing.
+**Keyword**: A keyword is the word or phrase that people type into a search engines like Google, [!DNL Yahoo] or [!DNL Bing].
 
 **Inbound Links**: Links on other sites directing traffic to your site. The higher the reputation of the linking site, the more valuable this inbound link is.
 
