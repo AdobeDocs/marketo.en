@@ -16,4 +16,4 @@ If so, this guide is meant for you. It should help you make the most of your fir
 * [Things to Review: Core Skills](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md){target="_blank"}
 * [Ways to Get Help](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md){target="_blank"}
 
-If you already know your way around your instance and are comfortable with Marketo core concepts, check out the Marketo Engae Product Docs, or visit the [Marketing Nation](https://nation.marketo.com/){target="_blank"} online community to see what other Marketo users are saying.
+If you already know your way around your instance and are comfortable with Marketo core concepts, check out the Marketo Engage Product Docs, or visit the [Marketing Nation](https://nation.marketo.com/){target="_blank"} online community to see what other Marketo users are saying.
