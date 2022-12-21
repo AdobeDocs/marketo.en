@@ -14,7 +14,7 @@ Make sure you're properly set up with the right kinds of access and information.
 
 * Learn how to engage with the [**Marketing Nation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community){target="_blank"} community to get answers to your questions.
 
-* Click **Your Places** on your Marketo Nation community profile to check out your company's Account Page.
+* Click **[!UICONTROL Your Places]** on your Marketo Nation community profile to check out your company's Account Page.
 
 * Learn how to [**submit a support case**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
