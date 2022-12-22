@@ -10,7 +10,7 @@ When someone visits your website, [Munchkin](/help/marketo/product-docs/administ
 
 >[!NOTE]
 >
->To ensure inferred field values stay current, we periodically update the database that's used for IP address lookups. Database updates can introduce new inferred field values that you may need add to smart list filter definitions.
+>To ensure inferred field values stay current, we periodically update the database that's used for IP address lookups. Database updates can introduce new inferred field values that you may need to add to smart list filter definitions.
 >
 >Database updates can occur during a [Marketo Engage product release](/help/marketo/release-notes/release-schedule.md){target="_blank"}. When an update does occur, the [Marketo Engage release notes](/help/marketo/release-notes/current.md){target="_blank"} will contain an explanation of any changes to inferred field values.
 
