@@ -12,7 +12,7 @@ The Marketing Calendar gives you a bird's-eye view of things, but it also allows
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Select an entry and click **Show Program Focus**.
+1. Select an entry and click **[!UICONTROL Show Program Focus]**.
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 
