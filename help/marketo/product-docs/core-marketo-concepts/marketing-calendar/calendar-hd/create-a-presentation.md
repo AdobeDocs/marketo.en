@@ -13,19 +13,19 @@ Create a presentation to project your team's calendar views and goals on an HDTV
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
-1. Go to the **Calendar**.
+1. Go to the **[!UICONTROL Calendar]**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Click **Presentation** in the bottom right corner.
+1. Click **[!UICONTROL Presentations]** in the bottom right corner.
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 
-1. Click **Presentation Actions** and select **New Presentation**.
+1. Click **[!UICONTROL Presentation Actions]** and select **[!UICONTROL New Presentation]**.
 
    ![](assets/image2015-3-26-12-3a38-3a6.png)
 
-1. Choose a name for the presentation. Click **Create**.
+1. Choose a name for the presentation. Click **[!UICONTROL Create]**.
 
    ![](assets/image2015-3-18-12-3a32-3a30.png)
 
