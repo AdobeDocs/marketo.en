@@ -8,15 +8,15 @@ exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 
 Use entry types, program tags, or workspaces to filter the information displayed on the calendar.
 
-1. Go to the Calendar.
+1. Go to the **[!UICONTROL Calendar]**.
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Click the **Entry Type** drop-down.
+1. Click the **[!UICONTROL Entry Types]** drop-down.
 
    >[!NOTE]
    >
-   >The default entry types will be **Email** **Programs** and **Smart** **Campaigns** **with** **Email**.
+   >The default entry types will be **[!UICONTROL Email Program]** and **[!UICONTROL Smart Campaign with Email]**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
