@@ -12,15 +12,15 @@ exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 
 To make use of your [Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) seats, you need to issue licenses to users who need access. Here's how.
 
-1. Go to the **Admin** section.
+1. Go to the **[!UICONTROL Admin]** section.
 
    ![](assets/adminhand.png)
 
-1. Click **Users & Roles**.
+1. Click **[!UICONTROL Users & Roles]**.
 
    ![](assets/2.png)
 
-1. Select the user(s) and click **Issue License.**
+1. Select the user(s) and click **[!UICONTROL Issue License]**.
 
    >[!TIP]
    >
@@ -28,7 +28,7 @@ To make use of your [Marketing Calendar](/help/marketo/product-docs/core-marketo
 
    ![](assets/3.png)
 
-1. Check **Enable License** and click **Save.**
+1. Check **[!UICONTROL Enable License]** and click **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
@@ -36,7 +36,7 @@ To make use of your [Marketing Calendar](/help/marketo/product-docs/core-marketo
 
    ![](assets/4.png)
 
-   Nicely done! See the green checkmark under 'Calendar?'
+   Nicely done! See the green checkmark under '[!UICONTROL Calendar]?'
 
    ![](assets/5.png)
 
