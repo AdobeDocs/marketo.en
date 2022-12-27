@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360350
-description: "Create a Custom Service for Use with ReST API - [!DNL Marketo Docs] - [!DNL Product Documentation]"
+description: Create a Custom Service for Use with ReST API - Marketo Docs - Product Documentation
 title: Create a Custom Service for Use with ReST API
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 ---
