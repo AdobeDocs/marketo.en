@@ -39,15 +39,15 @@ Presentations are the most awesome when they display your team goals. Just drag 
 
 Once you've pulled in the views you want in the presentation, set the frequency at which it rotates between the different views.
 
-1. Click **5 minutes** (this is the default cadence).
+1. Click **[!UICONTROL 5 minutes]** (this is the default cadence).
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
-1. Enter a time using minutes. Click **Save**.
+1. Enter a time using minutes. Click **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
-   >Display one static view by checking **Disable Rotation**.
+   >Display one static view by checking **[!UICONTROL Disable Rotation]**.
 
    ![](assets/image2015-3-18-13-3a22-3a18.png)
 
@@ -55,7 +55,7 @@ Once you've pulled in the views you want in the presentation, set the frequency 
 
 The calendar display can be changed to a 3-week or monthly view.
 
-1. Select the **Calendar Display** drop-down and choose between **3 weeks** or one **Month**.
+1. Select the **[!UICONTROL Calendar Display]** drop-down and choose between **[!UICONTROL 3 Weeks]** or one **[!UICONTROL Month]**.
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
@@ -69,7 +69,7 @@ The calendar display can be changed to a 3-week or monthly view.
 
 Once the presentation has been configured, it's ready to be previewed and launched.
 
-1. Select **Preview**.
+1. Select **[!UICONTROL Preview]**.
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 
