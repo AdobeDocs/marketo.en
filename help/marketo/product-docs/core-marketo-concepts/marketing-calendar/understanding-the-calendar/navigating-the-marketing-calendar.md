@@ -22,7 +22,7 @@ Navigating around the Marketing Calendar is easy as one, two, three!
 
 ## Change Between Modes {#change-between-modes}
 
-1. Click the **3 weeks** or **Month** tabs to switch between modes.
+1. Click the **[!UICONTROL 3 Weeks]** or **[!UICONTROL Month]** tabs to switch between modes.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -30,11 +30,11 @@ Navigating around the Marketing Calendar is easy as one, two, three!
 
 Agenda view displays all of your entries as a list.
 
-1. Click the **Filter drop-down**.
+1. Click the **[!UICONTROL Filter] drop-down**.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Select the **Agenda** view.
+1. Select the **[!UICONTROL Agenda]** view.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
