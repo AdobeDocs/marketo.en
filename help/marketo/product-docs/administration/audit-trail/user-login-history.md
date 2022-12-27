@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377958
-description: User Login History - Marketo Docs - Product Documentation
+description: "User Login History - [!DNL Marketo Docs] - [!DNL Product Documentation]"
 title: User Login History
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 ---
@@ -22,15 +22,15 @@ The User Login History identifies people who log in by:
 
 To view the User Login History:
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/user-login-history-1.png)
 
-1. Under Security, click **Users & Roles**.
+1. Under [!UICONTROL Security], click **[!UICONTROL Users & Roles]**.
 
    ![](assets/user-login-history-2.png)
 
-1. Click the **Login History** tab. The listing shows the most recent logins.
+1. Click the **[!UICONTROL Login History]** tab. The listing shows the most recent logins.
 
    ![](assets/user-login-history-3.png)
 
@@ -46,15 +46,15 @@ To view the User Login History:
 
    ![](assets/user-login-history-6.png)
 
-1. Select the users from the **Users** drop-down.
+1. Select the users from the **[!UICONTROL Users]** drop-down.
 
    ![](assets/user-login-history-7.png)
 
-1. Check the **Only Failed Logins** box to display only failed logins in your search.
+1. Check the **[!UICONTROL Only Failed Logins]** box to display only failed logins in your search.
 
    ![](assets/user-login-history-8.png)
 
-1. Click **Apply**.
+1. Click **[!UICONTROL Apply]**.
 
    ![](assets/user-login-history-9.png)
 
@@ -64,4 +64,4 @@ To view the User Login History:
 
    >[!NOTE]
    >
-   >[Audit Trail Overview](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
+   >[[!DNL Audit Trail] Overview](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
