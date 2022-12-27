@@ -1,10 +1,10 @@
 ---
 unique-page-id: 7504893
-description: "Add [!DNL Google AdWords] as a [!DNL Launchpoint] Service with a [!DNL Manager Account] - [!DNL Marketo Docs] - [!DNL Product Documentation]"
-title: "Add [!DNL Google AdWords] as a [!DNL Launchpoint] Service with a [!DNL Manager Account]"
+description: "Add [!DNL Google AdWords] as a [!DNL Launchpoint] Service with a Manager Account - Marketo Docs - Product Documentation"
+title: "Add [!DNL Google AdWords] as a [!DNL Launchpoint] Service with a Manager Account"
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 ---
-# Add [!DNL Google AdWords] as a [!DNL Launchpoint] Service with a [!DNL Manager Account] {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
+# Add [!DNL Google AdWords] as a [!DNL Launchpoint] Service with a Manager Account {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
 Link your [!DNL Google AdWords] account to Marketo to automatically upload offline conversion data from Marketo to [!DNL Google AdWords]. Then, from the [!DNL AdWords] UI, you will be able to easily see which clicks resulted in qualified leads, opportunities and new customers (or whatever revenue stages you want to track) after you  [add custom columns](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords]. This information does not appear in the Marketo UI.
 
@@ -89,4 +89,4 @@ Learn more about [Google’s offline conversion import feature](https://support.
 
    >[!MORELIKETHIS]
    >
-   >[Set [!DNL Google AdWords] Conversions in the [!DNL Revenue Model] with a [!DNL Manager Account]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}
+   >[Set [!DNL Google AdWords] Conversions in the Revenue Model with a Manager Account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}
