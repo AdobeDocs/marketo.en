@@ -1,10 +1,10 @@
 ---
 unique-page-id: 11378468
-description: "Filtering in [!DNL Audit Trail] - [!DNL Marketo Docs] - [!DNL Product Documentation]"
-title: "Filtering in [!DNL Audit Trail]"
+description: Filtering in Audit Trail - Marketo Docs - Product Documentation
+title: Filtering in Audit Trail]
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 ---
-# Filtering in [!DNL Audit Trail] {#filtering-in-audit-trail}
+# Filtering in Audit Trail {#filtering-in-audit-trail}
 
 Filter by time frame, asset type, users, action taken, and more.
 
@@ -52,4 +52,4 @@ Filter by time frame, asset type, users, action taken, and more.
 
    >[!MORELIKETHIS]
    >
-   >[Change Details in [!DNL Audit Trail]](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
+   >[Change Details in Audit Trail](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
