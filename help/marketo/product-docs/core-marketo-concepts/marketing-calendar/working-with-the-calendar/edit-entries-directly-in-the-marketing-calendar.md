@@ -10,11 +10,11 @@ Once in program focus mode, you can quickly make changes to calendar entries. He
 
 ## Enable Program Focus {#enable-program-focus}
 
-1. Go to the **Calendar**.
+1. Go to the **[!UICONTROL Calendar]**.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Select an entry that belongs to the program you want to focus on and click **Show Program Focus**.
+1. Select an entry that belongs to the program you want to focus on and click **[!UICONTROL Show Program Focus]**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
