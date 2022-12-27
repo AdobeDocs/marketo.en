@@ -20,7 +20,7 @@ Saving a filter lets you switch back and forth between different filter definiti
 
    ![](assets/image2014-9-24-10-3a50-3a57.png)
 
-1. Name the filter. Click **Save**.
+1. Name the filter. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-24-10-3a51-3a3.png)
 
