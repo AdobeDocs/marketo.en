@@ -8,11 +8,11 @@ exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 
 The Marketing Calendar can be filtered by objects in specific workspaces.
 
-1. Go to the **Calendar**.
+1. Go to the **[!UICONTROL Calendar]**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. In the filter panel, select the **Workspace** drop-down. Choose your desired workspace.
+1. In the filter panel, select the **[!UICONTROL Workspaces]** drop-down. Choose your desired workspace.
 
    ![](assets/image2014-9-24-11-3a34-3a6.png)
 
