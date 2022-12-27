@@ -12,11 +12,11 @@ Sometimes you can have too much of a good thing. Delete old presentations to mak
 
    ![](assets/image2015-3-26-12-3a26-3a41.png)
 
-1. Right-click and select **Delete**.
+1. Right-click and select **[!UICONTROL Delete]**.
 
    ![](assets/image2015-3-26-12-3a26-3a51.png)
 
-1. Click **Delete** to confirm.
+1. Click **[!UICONTROL Delete]** to confirm.
 
    ![](assets/image2015-3-20-16-3a21-3a10.png)
 
