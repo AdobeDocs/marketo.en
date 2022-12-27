@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360356
-description: Add Single Sign-On to a Portal - Marketo Docs - Product Documentation
-title: Add Single Sign-On to a Portal
+description: "Add [!DNL Single Sign-On] to a Portal - [!DNL Marketo Docs] - [!DNL Product Documentation]"
+title: "Add [!DNL Single Sign-On] to a Portal"
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 ---
-# Add Single Sign-On to a Portal {#add-single-sign-on-to-a-portal}
+# Add [!DNL Single Sign-On] to a Portal {#add-single-sign-on-to-a-portal}
 
-If you have a directory service that authenticates users, you can allow single sign-on (SSO) into Marketo. We support this feature using Security Assertion Markup Language (SAML) version 2.0 and higher.
+If you have a directory service that authenticates users, you can allow single sign-on (SSO) into Marketo. We support this feature using [!DNL Security Assertion Markup Language] (SAML) version 2.0 and higher.
 
 Marketo functions as a SAML Service Provider (SP), and depends on an external Identity Provider (IdP) to authenticate users.
 
@@ -18,7 +18,7 @@ Once SSO is enabled, the IdP can validate a user's credentials. When a user wish
 
 >[!NOTE]
 >
->Are you a Microsoft Azure user? Check out their [integration tutorial](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
+>Are you a [!DNL Microsoft Azure] user? Check out their [integration tutorial](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
 
 ## How to Send the Request {#how-to-send-the-request}
 
@@ -29,7 +29,7 @@ Once SSO is enabled, the IdP can validate a user's credentials. When a user wish
 
 >[!NOTE]
 >
->Marketo only supports Identity Provider-initiated (also known as IdP-initiated), in which the user first launches the Idp login page, authenticates, then navigates to My Marketo.
+>Marketo only supports Identity Provider-initiated (also known as IdP-initiated), in which the user first launches the Idp login page, authenticates, then navigates to [!DNL My Marketo].
 
 ## Additional Notes {#additional-notes}
 
@@ -48,53 +48,53 @@ Once SSO is enabled, the IdP can validate a user's credentials. When a user wish
 
 SSO is disabled by default. Follow these steps to enable SAML and configure it.
 
-1. Go to the **Admin** area. 
+1. Go to the **[!UICONTROL Admin]** area. 
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 
-1. Click **Single Sign-On**.
+1. Click **[!UICONTROL Single Sign-On]**.
 
    ![](assets/add-single-sign-on-to-a-portal-2.png)
 
    >[!NOTE]
    >
-   >If you don't see **Single Sign-On** under **Admin**, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >If you don't see **[!UICONTROL Single Sign-On]** under **[!UICONTROL Admin]**, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Under the **SAML Settings** section, click **Edit**.
+1. Under the **[!UICONTROL SAML Settings]** section, click **[!UICONTROL Edit]**.
 
    ![](assets/add-single-sign-on-to-a-portal-3.png)
 
-1. Change **SAML Single Sign-On** to **Enabled**.
+1. Change **[!UICONTROL SAML Single Sign-On]** to **[!UICONTROL Enabled]**.
 
    ![](assets/add-single-sign-on-to-a-portal-4.png)
 
-1. Enter your **Issuer ID**, **Entity ID**, select the **User ID Location**, then click **Browse**.
+1. Enter your **[!UICONTROL Issuer ID]**, **[!UICONTROL Entity ID]**, select the **[!UICONTROL User ID Location]**, then click **[!UICONTROL Browse]**.
 
    ![](assets/add-single-sign-on-to-a-portal-5.png)
 
-1. Select your **Identity Provider Certificate** file.
+1. Select your **[!UICONTROL Identity Provider Certificate]** file.
 
    ![](assets/add-single-sign-on-to-a-portal-6.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/add-single-sign-on-to-a-portal-7.png)
 
-## Update Redirect Page Settings {#update-redirect-page-settings}
+## Update [!UICONTROL Redirect Page Settings] {#update-redirect-page-settings}
 
-1. Under the **Redirect Pages** section, click **Edit**.
+1. Under the **[!UICONTROL Redirect Pages]** section, click **[!UICONTROL Edit]**.
 
    ![](assets/add-single-sign-on-to-a-portal-8.png)
 
    >[!NOTE]
    >
-   >Customers using Universal ID along with SSO must enter the login URL of the Identity Provider in the **Login URL** field.
+   >Customers using Universal ID along with SSO must enter the login URL of the Identity Provider in the **[!UICONTROL Login URL]** field.
 
-1. Enter a **Logout URL**. This is the URL you want the user to be directed to when they log out of Marketo.
+1. Enter a **[!UICONTROL Logout URL]**. This is the URL you want the user to be directed to when they log out of Marketo.
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
-1. Enter an **Error URL**. This is the URL you want the user to be directed to in case logging into Marketo fails. Click **Save**.
+1. Enter an **[!UICONTROL Error URL]**. This is the URL you want the user to be directed to in case logging into Marketo fails. Click **[!UICONTROL Save]**.
 
    ![](assets/add-single-sign-on-to-a-portal-10.png)
 
