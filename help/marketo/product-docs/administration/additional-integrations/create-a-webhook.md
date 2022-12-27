@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360360
-description: "Create a [!DNL Webhook] - [!DNL Marketo Docs] - [!DNL Product Documentation]"
+description: "Create a [!DNL Webhook] - DNL Marketo Docs - Product Documentation"
 title: "Create a [!DNL Webhook]"
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 ---
 # Create a [!DNL Webhook] {#create-a-webhook}
 
-Use [!DNL webhooks] to take advantage of third-party web services to send text messages, expand person data, and more.
+Use [!DNL Webhooks] to take advantage of third-party web services to send text messages, expand person data, and more.
 
 >[!AVAILABILITY]
 >
@@ -24,7 +24,7 @@ Use [!DNL webhooks] to take advantage of third-party web services to send text m
 
    ![](assets/create-a-webhook-3.png)
 
-1. Name and configure your [!DNL webhook].
+1. Name and configure your [!DNL Webhook].
 
    ![](assets/create-a-webhook-4.png)
 
@@ -48,4 +48,4 @@ Use [!DNL webhooks] to take advantage of third-party web services to send text m
 
 >[!NOTE]
 >
->Learn more in the [[!DNL webhooks]](https://developers.marketo.com/documentation/webhooks/) deep dive.
+>Learn more in the [[!DNL Webhooks]](https://developers.marketo.com/documentation/webhooks/) deep dive.
