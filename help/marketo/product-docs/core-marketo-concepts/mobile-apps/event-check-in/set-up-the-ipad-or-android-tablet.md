@@ -62,7 +62,7 @@ Before you assign iPads or tablets to trade show staff, confirm that the login c
 Sync to be sure the people you've added are there.
 
 1. Open your event in the iPad or Android app.
-1. Look for the people. If you don't see them, tap **Sync** to sync the app and reload the Events people list.
+1. Look for the people. If you don't see them, tap **[!UICONTROL Sync]** to sync the app and reload the Events people list.
 
    **iPad**
 
@@ -77,12 +77,12 @@ Sync to be sure the people you've added are there.
 Be sure to confirm that check-ins are working from the iPad or tablet before the event.
 
 1. In the app, [check a test lead in](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
-1. Tap the **Sync** icon to sync the app.
-1. In Marketo, open your event and click **Members**.
+1. Tap the **[!UICONTROL Sync]** icon to sync the app.
+1. In Marketo, open your event and click **[!UICONTROL Members]**.
 
    ![](assets/image2016-4-15-15-3a32-3a42.png)
 
-1. Confirm that the person's status is changed to **Attended** and Success is checked.
+1. Confirm that the person's status is changed to **[!UICONTROL Attended]** and **[!UICONTROL Success]** is checked.
 
    ![](assets/image2016-4-18-14-3a11-3a36.png)
 
