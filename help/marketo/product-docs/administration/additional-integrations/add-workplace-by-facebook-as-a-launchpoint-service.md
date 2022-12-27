@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14745982
-description: "Add [!DNL Workplace By Facebook] as a [!DNL LaunchPoint Service] - [!DNL Marketo Docs] - [!DNL Product Documentation]"
+description: "Add [!DNL Workplace By Facebook] as a [!DNL LaunchPoint Service] - Marketo Docs - Product Documentation"
 title: "Add [!DNL Workplace By Facebook] as a [!DNL LaunchPoint] Service"
 exl-id: afcc1eca-8927-4a25-af9b-c18cef24b0ae
 ---
@@ -31,7 +31,7 @@ There are two notification types included in the [!DNL Workplace] integration:
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-3.png)
 
-1. Enter a [!UICONTROL display name] for your [!DNL Workplace] integration. In the **[!UICONTROL Service]** drop-down, select **[!UICONTROL Workplace by Facebook]**. Click **[!UICONTROL Create]**.
+1. Enter a **[!UICONTROL Display Name]** for your [!DNL Workplace] integration. In the **[!UICONTROL Service]** drop-down, select **[!UICONTROL Workplace by Facebook]**. Click **[!UICONTROL Create]**.
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-4.png)
 
