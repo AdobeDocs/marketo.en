@@ -19,11 +19,11 @@ The app works the same on both iPad and Android, except for minor layout and des
 
 1. Tap the app icon on your iPad or Android tablet.
 
-1. Tap **Login** to launch the Marketo Event app.
+1. Tap **[!UICONTROL Login]** to launch the Marketo Event app.
 
    ![](assets/1.jpg)
 
-1. Enter your Marketo username and password and click **Login**.
+1. Enter your Marketo username and password and click **[!UICONTROL Login]**.
 
    >[!NOTE]
    >
@@ -55,7 +55,7 @@ The app works the same on both iPad and Android, except for minor layout and des
 
    ![](assets/image2016-4-15-14-3a50-3a19.png)
 
-1. Tap the selected name, and on the person record, tap **Check-in**.
+1. Tap the selected name, and on the person record, tap **[!UICONTROL Check-in]**.
 
    ![](assets/img-0068-35-hands.png)
 
@@ -71,7 +71,7 @@ The guest now has an Attended status, and receives a check mark. The person reco
 
 >[!TIP]
 >
->If a person is invited but hasn't registered, you can search for the name by clicking **Search on Server**, just below the Search box. The Invited status changes to **Attended** for the event.
+>If a person is invited but hasn't registered, you can search for the name by clicking **[!UICONTROL Search on Server]**, just below the Search box. The Invited status changes to **[!UICONTROL Attended]** for the event.
 
 ## Create a New Person on the Tablet {#create-a-new-person-on-the-tablet}
 
@@ -87,7 +87,7 @@ You can manually add guests who aren't existing people in your Marketo database.
 
    ![](assets/image2016-4-15-15-3a2-3a38.png)
 
-1. Complete as many of the basic information fields as you can and tap **Done**.
+1. Complete as many of the basic information fields as you can and tap **[!UICONTROL Done]**.
 
    ![](assets/image2016-4-15-11-3a33-3a59.png)
 
@@ -103,9 +103,9 @@ The new person is registered as checked in to your event, and will be added to t
 
 ## Reverse a Check-In {#reverse-a-check-in}
 
-If you checked in a person by mistake, _before you synced with Marketo_, you can reverse the Attended status.
+If you checked in a person by mistake, _before you synced with Marketo_, you can reverse the [!UICONTROL Attended] status.
 
-1. Tap the name in the list, and in the person record, tap **Undo**.
+1. Tap the name in the list, and in the person record, tap **[!UICONTROL Undo]**.
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
@@ -115,17 +115,17 @@ If you checked in a person by mistake, _before you synced with Marketo_, you can
 
 You can add and modify guest information, right at the event!
 
-1. Tap the name in the people list and tap **Edit**.
+1. Tap the name in the people list and tap **[!UICONTROL Edit]**.
 
    ![](assets/image2016-4-15-11-3a43-3a46.png)
 
-1. Edit and add information to the fields, then tap **Done**.
+1. Edit and add information to the fields, then tap **[!UICONTROL Done]**.
 
    ![](assets/image2016-4-15-11-3a50-3a18.png)
 
    >[!NOTE]
    >
-   >In Android, the **Done** button may be hidden. Scroll down to find it.
+   >In Android, the **[!UICONTROL Done]** button may be hidden. Scroll down to find it.
 
 The information will be updated when you sync the app with Marketo.
 
@@ -139,7 +139,7 @@ The Marketo Events app works independently until you sync your activity back to 
 
 1. On your tablet, open the app and navigate to your event.
 
-1. Tap **Sync**.
+1. Tap **[!UICONTROL Sync]**.
 
    Your event is updated with new check-ins in the Marketo database. The red counter on the Sync button clears, until you check someone else in.
 
