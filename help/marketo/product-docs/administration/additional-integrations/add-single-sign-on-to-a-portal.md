@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2360356
-description: "Add [!DNL Single Sign-On] to a Portal - [!DNL Marketo Docs] - [!DNL Product Documentation]"
-title: "Add [!DNL Single Sign-On] to a Portal"
+description: Add Single Sign-On to a Portal - Marketo Docs - Product Documentation
+title: Add Single Sign-On to a Portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 ---
-# Add [!DNL Single Sign-On] to a Portal {#add-single-sign-on-to-a-portal}
+# Add Single Sign-On to a Portal {#add-single-sign-on-to-a-portal}
 
 If you have a directory service that authenticates users, you can allow single sign-on (SSO) into Marketo. We support this feature using [!DNL Security Assertion Markup Language] (SAML) version 2.0 and higher.
 
