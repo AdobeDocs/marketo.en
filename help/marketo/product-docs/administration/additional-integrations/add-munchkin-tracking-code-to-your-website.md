@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360354
-description: "Add [!DNL Munchkin] Tracking Code to Your Website - [!DNL Marketo Docs] - [!DNL Product Documentation]"
+description: "Add [!DNL Munchkin] Tracking Code to Your Website - Marketo Docs - Product Documentation"
 title: "Add [!DNL Munchkin] Tracking Code to Your Website"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 ---
