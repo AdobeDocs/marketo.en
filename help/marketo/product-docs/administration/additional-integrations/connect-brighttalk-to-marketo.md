@@ -1,6 +1,6 @@
 ---
 unique-page-id: 15695874
-description: "Connect [!DNL BrightTALK] to Marketo - [!DNL Marketo Docs] - [!DNL Product Documentation]"
+description: "Connect [!DNL BrightTALK] to Marketo - Marketo Docs - Product Documentation"
 title: "Connect [!DNL BrightTALK] to Marketo"
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 ---
@@ -40,7 +40,7 @@ Learn how to connect your [!DNL BrightTALK] channel to your Marketo instance. In
 
    ![](assets/connect-brighttalk-to-marketo-3.png)
 
-1. Enter a [!UICONTROL Display Name] of your choice. Click the [!UICONTROL Service] drop-down and select **[!UICONTROL Custom]** (do _not_ select BrightTALK).
+1. Enter a **[!UICONTROL Display Name]** of your choice. Click the **[!UICONTROL Service]** drop-down and select **[!UICONTROL Custom]** (do _not_ select [!DNL BrightTALK]).
 
    ![](assets/connect-brighttalk-to-marketo-4.png)
 
@@ -48,7 +48,7 @@ Learn how to connect your [!DNL BrightTALK] channel to your Marketo instance. In
    >
    >Remember to not select [!DNL BrightTALK] in the drop-down. It is a field we are in the process of removing, and selecting it could create significant issues with your [!DNL Marketo/BrightTALK] integration.
 
-1. Enter a [!UICONTROL Description] of your choice. Click the [!UICONTROL API Only User] drop-down and select the [!DNL BrightTALK API User] you created during Step 5. Click **[!UICONTROL Create]**.
+1. Enter a [!UICONTROL Description] of your choice. Click the **[!UICONTROL API Only User]** drop-down and select the [!DNL BrightTALK API User] you created during Step 5. Click **[!UICONTROL Create]**.
 
    ![](assets/connect-brighttalk-to-marketo-5.png)
 
