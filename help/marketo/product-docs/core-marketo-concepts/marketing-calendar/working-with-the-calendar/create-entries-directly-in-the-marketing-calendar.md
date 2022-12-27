@@ -15,11 +15,11 @@ Marketo allows you to create entries directly in your Marketing Calendar by usin
 
 Here's how.
 
-1. Go to the **Calendar**.
+1. Go to the **[!UICONTROL Calendar]**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. Select a previous entry and click **Show Program Focus**.
+1. Select a previous entry and click **[!UICONTROL Show Program Focus]**.
 
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
