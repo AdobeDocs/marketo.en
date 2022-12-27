@@ -14,11 +14,11 @@ If you need to edit the "[View as a Webpage](/help/marketo/product-docs/email-ma
 
 ## Edit the "View as Web Page" Message {#edit-the-view-as-web-page-message-1}
 
-1. Go to the **Admin** area. 
+1. Go to the **[!UICONTROL Admin]** area. 
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 
-1. Click **Email**.
+1. Click **[!UICONTROL Email]**.
 
    ![](assets/edit-the-view-as-web-page-message-2.png)
 
@@ -28,9 +28,9 @@ If you need to edit the "[View as a Webpage](/help/marketo/product-docs/email-ma
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >The second part `##MKT_TOK##` is the munchkin cookie of that person. It makes sure they get cookied appropriately when they click the link.
+   >The second part `##MKT_TOK##` is the [!DNL munchkin] cookie of that person. It makes sure they get cookied appropriately when they click the link.
 
-1. Edit the **View as Web Page HTML** and **View as Web Page Text** versions to your liking and click **Save Changes**.
+1. Edit the **[!UICONTROL View as Web Page HTML]** and **[!UICONTROL View as Web Page Text]** versions to your liking and click **[!UICONTROL Save Changes]**.
 
    ![](assets/edit-the-view-as-web-page-message-3.png)
 
@@ -43,15 +43,15 @@ If you need to edit the "[View as a Webpage](/help/marketo/product-docs/email-ma
 
 There you have it. Send out test emails to ensure formatting.
 
-## Default "View as Web Page" Text {#default-view-as-web-page-text}
+## Default "[!UICONTROL View as Web Page]" Text {#default-view-as-web-page-text}
 
-If you ever need to revert to default system "View as Web Page", copy/paste the following:
+If you ever need to revert to default system "[!UICONTROL View as Web Page]", copy/paste the following:
 
-**View as Web Page HTML:**
+**[!UICONTROL View as Web Page HTML]:**
 
 `<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>`
 
-**View as Web Page Text:**
+**[!UICONTROL View as Web Page Text]:**
 
 To view this email as a web page, go to the following address:
 `<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>`
