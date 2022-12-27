@@ -1,6 +1,6 @@
 ---
 unique-page-id: 6095008
-description: "Add [!DNL Google AdWords] as a [!DNL LaunchPoint] Service - [!DNL Marketo Docs] - [!DNL Product Documentation]"
+description: "Add [!DNL Google AdWords] as a [!DNL LaunchPoint] Service - Marketo Docs - Product Documentation"
 title: "Add [!DNL Google AdWords] as a [!DNL LaunchPoint] Service"
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 ---
@@ -20,7 +20,7 @@ Learn more about [Google’s offline conversion import feature](https://support.
 
 >[!NOTE]
 >
->You can also integrate a [[!DNL Google AdWords] as a [!DNL Launchpoint] service with a [!DNL manager account]](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
+>You can also integrate a [[!DNL Google AdWords] as a [!DNL Launchpoint] service with a manager account](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
 
 1. Go to the **[!UICONTROL Admin]** section.
 
@@ -83,8 +83,8 @@ Learn more about [Google’s offline conversion import feature](https://support.
    >
    >[Auto-tagging](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} must be selected for this feature to work. Deactivation must be done inside [!DNL AdWords].
 
-Great! Now see the Related Article below to learn how to map [!DNL AdWords] offline conversions in your [!DNL revenue model].
+Great! Now see the Related Article below to learn how to map [!DNL AdWords] offline conversions in your revenue model.
 
    >[!MORELIKETHIS]
    >
-   >[Set [!DNL Google AdWords] Conversions in the [!DNL Revenue Model]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}
+   >[Set [!DNL Google AdWords] Conversions in the Revenue Model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}
