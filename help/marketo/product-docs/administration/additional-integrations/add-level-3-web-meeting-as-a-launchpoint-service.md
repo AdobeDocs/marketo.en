@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512292
-description: Add Level 3 Web Meeting as a LaunchPoint Service - Marketo Docs - Product Documentation
-title: Add Level 3 Web Meeting as a LaunchPoint Service
+description: "Add [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint] Service - [!DNL Marketo Docs] - [!DNL Product Documentation]"
+title: "Add [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint Service]"
 exl-id: f419b019-33bb-446d-baf5-55393770a703
 ---
-# Add Level 3 Web Meeting as a LaunchPoint Service {#add-level-three-web-meeting-as-a-launchpoint-service}
+# Add [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint] Service {#add-level-three-web-meeting-as-a-launchpoint-service}
 
-Marketo manages your Level 3 Web Meeting registration and attendance.
+Marketo manages your [!DNL Level 3 Web Meeting] registration and attendance.
 
 >[!NOTE]
 >
@@ -14,32 +14,32 @@ Marketo manages your Level 3 Web Meeting registration and attendance.
 
 >[!NOTE]
 >
->An existing subscription to Level 3 Web Meeting and administration rights are necessary for this step. Have your Access Number, Access Code, and Passcode at hand.
+>An existing subscription to [!DNL Level 3 Web Meeting] and administration rights are necessary for this step. Have your Access Number, Access Code, and Passcode at hand.
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-1.png)
 
-1. Click **LaunchPoint**.
+1. Click **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-2.png)
 
-1. Select **New** and then **New Service**.
+1. Select **[!UICONTROL New]** and then **[!UICONTROL New Service]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-3.png)
 
-1. Enter a **Display Name**. Under **Service**, select **Level 3 Web Meeting**.
+1. Enter a **[!UICONTROL Display Name]**. Under **[!UICONTROL Service]**, select **[!UICONTROL Level 3 Web Meeting]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-4.png)
 
-1. Enter your **Access Number**, **Access Code**, and **Passcode**, then click **Create**.
+1. Enter your **[!UICONTROL Access Number]**, **[!UICONTROL Access Code]**, and **[!UICONTROL Passcode]**, then click **[!UICONTROL Create]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-5.png)
 
-Your Level 3 Web Meeting Account is now synced with Marketo!
+Your [!DNL Level 3 Web Meeting] Account is now synced with Marketo!
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-6.png)
 
 >[!MORELIKETHIS]
 >
->Learn how to [create an event with a Level 3 Web Meeting](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target="_blank"}.
+>Learn how to [create an event with a [!DNL Level 3 Web Meeting]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target="_blank"}.
