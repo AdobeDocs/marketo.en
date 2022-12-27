@@ -10,23 +10,23 @@ Goals are ways to track progress and motivate your team. They can be combined wi
 
 Like presentations, goals are [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specific.
 
-1. Go to the **Calendar**.
+1. Go to the **[!UICONTROL Calendar]**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Click **Presentation** in the bottom right corner.
+1. Click **[!UICONTROL Presentations]** in the bottom right corner.
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Select the **Goals** tab.
+1. Select the **[!UICONTROL Goals]** tab.
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
-1. Drag and drop **Smart List Goal** onto the canvas.
+1. Drag and drop **[!UICONTROL Smart List Goal]** onto the canvas.
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
-1. Enter a name for the goal and enter a **Goal Target**. Then click **Create**.
+1. Enter a name for the goal and enter a **[!UICONTROL Goal Target]**. Then click **[!UICONTROL Create]**.
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
@@ -34,7 +34,7 @@ Like presentations, goals are [workspace](/help/marketo/product-docs/administrat
 
    ![](assets/mql.png)
 
-1. Once the smart list is all set, click the **Close** button and go back to the previous tab.
+1. Once the smart list is all set, click the **[!UICONTROL Close]** button and go back to the previous tab.
 
    ![](assets/mql2.png)
 
