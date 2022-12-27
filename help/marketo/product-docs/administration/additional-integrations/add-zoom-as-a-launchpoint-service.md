@@ -1,6 +1,6 @@
 ---
 unique-page-id: 17728028
-description: "Add [!DNL Zoom] as a [!DNL LaunchPoint] Service - [!DNL Marketo Docs] - [!DNL Product Documentation]"
+description: "Add [!DNL Zoom] as a [!DNL LaunchPoint] Service - Marketo Docs - Product Documentation"
 title: "Add [!DNL Zoom] as a [!DNL LaunchPoint] Service"
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 ---
