@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377958
-description: "User Login History - [!DNL Marketo Docs] - [!DNL Product Documentation]"
+description: User Login History - Marketo Docs - Product Documentation
 title: User Login History
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 ---
@@ -26,7 +26,7 @@ To view the User Login History:
 
    ![](assets/user-login-history-1.png)
 
-1. Under [!UICONTROL Security], click **[!UICONTROL Users & Roles]**.
+1. Under **[!UICONTROL Security]**, click **[!UICONTROL Users & Roles]**.
 
    ![](assets/user-login-history-2.png)
 
