@@ -8,11 +8,11 @@ exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 
 Need to make changes to a custom activity you've already created? Here's how.
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/one-1.png)
 
-1. In **Database Management** click **Custom Activities**.
+1. In **[!UICONTROL Database Management]** click **[!UICONTROL Custom Activities]**.
 
    ![](assets/two-1.png)
 
@@ -20,15 +20,15 @@ Need to make changes to a custom activity you've already created? Here's how.
 
    ![](assets/three-1.png)
 
-1. Click **Custom Activity Actions** and select **Edit Activity**.
+1. Click **[!UICONTROL Custom Activity Actions]** and select **[!UICONTROL Edit Activity]**.
 
    ![](assets/four-1.png)
 
-   Edit Activity Type appears. In this example we're fixing a typo.
+   **[!UICONTROL Edit Activity Type]** appears. In this example we're fixing a typo.
 
    ![](assets/five-1.png)
 
-1. Enter your new info and click **Submit**.
+1. Enter your new info and click **[!UICONTROL Submit]**.
 
    ![](assets/six-1.png)
 
