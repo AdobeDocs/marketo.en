@@ -47,7 +47,7 @@ Adobe Marketo Engage subscriptions onboarded to the Adobe Identity Management Sy
 
 Adobe Identity Management System consists of three components.
 
-* Adobe Identity Service: Handles authentication and validation of the end-user, including federation and runtime Single-Sign-On (SSO).
+* [!DNL Adobe Identity Service]: Handles authentication and validation of the end-user, including federation and runtime Single-Sign-On (SSO).
 
 * Adobe Admin Console: The Admin Console provides a central location for managing Adobe entitlements across your entire organization. It handles user management, cloud service, desktop license entitlement, federation configuration, and provides data loss prevention security features.
 
@@ -85,9 +85,9 @@ No. User Role management (within workspaces) is completed in Marketo Engage.
 
 Any Adobe System or Product Admin that has access to your organization's Admin Console can give you access. If you're not sure who in your organization has admin privileges in the console, contact [Adobe Customer Care](https://helpx.adobe.com/contact.html).
 
-**How would an Admin add users to Marketo Sales Connect?**
+**How would an Admin add users to Marketo [!DNL Sales Connect]?**
 
-While there will be a product card in Admin Console for Sales Connect, Admin Console should not be used to add/manage users. The following link will allow Admins to manage users via Marketo Sales Connect: [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management).
+While there will be a product card in Admin Console for [!DNL Sales Connect], Admin Console should not be used to add/manage users. The following link will allow Admins to manage users via Marketo [!DNL Sales Connect]: [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management).
 
 **Where can I learn more about the Adobe Admin Console?**
 
