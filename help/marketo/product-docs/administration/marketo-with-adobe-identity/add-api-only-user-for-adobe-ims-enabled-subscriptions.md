@@ -9,15 +9,15 @@ While Marketo Engage Marketing Users and Administrators are managed in Adobe Adm
 
 The steps below describe how to add an API Only User in Marketo Engage. Before doing so, you must have [established an API Only Role](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).  
 
-1. In Marketo, click **Admin** and select **Users & Roles**.
+1. In Marketo, click **[!UICONTROL Admin]** and select **[!UICONTROL Users & Roles]**.
 
    ![](assets/add-api-only-user-for-adobe-ims-1.png)
 
-1. Click **Create API Only User**.
+1. Click **[!UICONTROL Create API Only User]**.
 
    ![](assets/add-api-only-user-for-adobe-ims-2.png)
 
-1. Enter an Email, First Name, and Last Name for the API only user.  Select the API Only Role you want to assign to the user. Click **Create API Only User** when done.
+1. Enter an [!UICONTROL Email], [!UICONTROL First Name], and [!UICONTROL Last Name] for the API only user.  Select the **[!UICONTROL API Only]** Role you want to assign to the user. Click **[!UICONTROL Create API Only User]** when done.
 
    ![](assets/add-api-only-user-for-adobe-ims-3.png)
 
