@@ -49,11 +49,11 @@ Once you have these personas set up (_and_ you use workspaces), you will want to
 
 ## Share a Segmentation {#share-a-segmentation}
 
-1. Go to the **Database**.
+1. Go to the **[!UICONTROL Database]**.
 
    ![](assets/image2017-3-29-8-3a15-3a40.png)
 
-1. Right-click **Segmentations** and select **New Folders**.
+1. Right-click **[!UICONTROL Segmentations]** and select **[!UICONTROL New Folders]**.
 
    ![](assets/image2017-3-29-8-3a40-3a31.png)
 
@@ -65,11 +65,11 @@ Once you have these personas set up (_and_ you use workspaces), you will want to
 
    ![](assets/image2017-3-29-8-3a41-3a3.png)
 
-1. Right-click the folder and select **Share Folder**.
+1. Right-click the folder and select **[!UICONTROL Share Folder]**.
 
    ![](assets/image2017-3-29-8-3a41-3a19.png)
 
-1. Select the workspace(s) you want to share the folder with. Click **Save**.
+1. Select the workspace(s) you want to share the folder with. Click **[!UICONTROL Save]**.
 
    ![](assets/image2015-5-27-11-3a6-3a40.png)
 
