@@ -12,11 +12,11 @@ exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 
 It's pretty easy to export a full list of your users and user roles. Here's how.
 
-1. Go to **Admin**.
+1. Go to **[!UICONTROL Admin]**.
 
    ![](assets/adminhand.png)
 
-1. Click **Users & Roles**.
+1. Click **[!UICONTROL Users & Roles]**.
 
    ![](assets/image2014-9-10-9-3a25-3a27.png)
 
@@ -24,7 +24,7 @@ It's pretty easy to export a full list of your users and user roles. Here's how.
 
    >[!TIP]
    >
-   >To export roles, go to the **Roles**** **tab first then export.
+   >To export roles, go to the **[!UICONTROL Roles]** tab first then export.
 
    ![](assets/image2014-9-10-9-3a25-3a49.png)
 
@@ -32,6 +32,6 @@ It's pretty easy to export a full list of your users and user roles. Here's how.
 
    ![](assets/image2014-9-10-9-3a26-3a3.png)
 
-   And that's all folks! You should be downloading the new Excel file.
+   And that's all folks! You should be downloading the new [!DNL Excel] file.
 
    ![](assets/image2014-9-10-9-3a26-3a17.png)
