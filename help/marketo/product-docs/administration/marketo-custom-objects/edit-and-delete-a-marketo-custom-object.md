@@ -14,7 +14,7 @@ exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 
 Use the Custom Object Actions menu to edit or delete a custom object.
 
-1. Click **Admin**, and in **Database Management**, select **Marketo Custom Objects**.
+1. Click **[!UICONTROL Admin]**, and in **[!UICONTROL Database Management]**, select **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/image2016-1-18-13-3a31-3a51.png)
 
@@ -22,11 +22,11 @@ Use the Custom Object Actions menu to edit or delete a custom object.
 
    ![](assets/image2016-1-18-13-3a33-3a11.png)
 
-1. Click the **Custom Object Actions** tab and click **Edit Object**.
+1. Click the **[!UICONTROL Custom Object Actions]** tab and click **[!UICONTROL Edit Object]**.
 
    ![](assets/image2015-9-23-11-3a37-3a44.png)
 
-1. Make your desired changes. Drag the slider over if you want to show the object on the Lead Detail page. Click **Save**.
+1. Make your desired changes. Drag the slider over if you want to show the object on the Lead Detail page. Click **[!UICONTROL Save]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
@@ -40,7 +40,7 @@ It's easy to delete a custom object, but you need to be careful. Custom objects 
 >
 >You can't restore a custom object after you delete it.
 
-1. Click **Admin**, and in **Database Management**, select **Marketo Custom Objects**.
+1. Click **[!UICONTROL Admin]**, and in **[!UICONTROL Database Management]**, select **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/image2016-1-18-13-3a36-3a0.png)
 
@@ -48,19 +48,19 @@ It's easy to delete a custom object, but you need to be careful. Custom objects 
 
    ![](assets/image2015-9-23-16-3a29-3a5.png)
 
-1. Click **Custom Object Actions** and select **Delete Object**.
+1. Click **[!UICONTROL Custom Object Actions]** and select **[!UICONTROL Delete Object]**.
 
    ![](assets/image2015-9-23-11-3a39-3a5.png)
 
    >[!TIP]
    >
-   >You can also right-click the object and select **Delete Object**.
+   >You can also right-click the object and select **[!UICONTROL Delete Object]**.
 
-1. If the custom object is in draft form, not approved yet, you'll get this warning. If you're sure, click **Delete**.
+1. If the custom object is in draft form, not approved yet, you'll get this warning. If you're sure, click **[!UICONTROL Delete]**.
 
    ![](assets/image2015-9-23-16-3a31-3a2.png)
 
-1. If the custom object is already approved, there is greater risk if you delete it. So, you'll get this sterner warning. Enter **I understand**, check the **Cannot Undo** checkbox, and click **Delete**.
+1. If the custom object is already approved, there is greater risk if you delete it. So, you'll get this sterner warning. Enter **[!UICONTROL I understand]**, check the **[!UICONTROL Cannot Undo]** checkbox, and click **[!UICONTROL Delete]**.
 
    ![](assets/image2016-1-15-9-3a49-3a38.png)
 
