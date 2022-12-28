@@ -18,29 +18,29 @@ No-Draft is automatically enabled for all Administrator roles. An admin can then
 >
 >**Admin Permissions Required**
 
-1. Go to **Admin** and click **Users & Roles**.
+1. Go to **[!UICONTROL Admin]** and click **[!UICONTROL Users & Roles]**.
 
    ![](assets/usersandroles.png)
 
-1. Go to the **Roles** tab, select a role, then click **Edit Role**.
+1. Go to the **[!UICONTROL Roles]** tab, select a role, then click **[!UICONTROL Edit Role]**.
 
    ![](assets/editrole2.png)
 
-1. Expand the **Access Design Studio** option.
+1. Expand the **[!UICONTROL Access Design Studio]** option.
 
    ![](assets/expanddesignstudio.png)
 
-1. Expand the **Access Snippet** option.
+1. Expand the **[!UICONTROL Access Snippet]** option.
 
    ![](assets/expandsnippet.png)
 
-1. Expand the **Approve Snippet** permission and check the **No-Draft** box. Then click **Save**.
+1. Expand the **[!UICONTROL Approve Snippet]** permission and check the **[!UICONTROL No-Draft]** box. Then click **[!UICONTROL Save]**.
 
    ![](assets/2017-06-15-10-35-04.png)
 
 >[!TIP]
 >
->To disable No-Draft, follow steps 1-4 above, clear the No-Draft checkbox, and click **Save**.
+>To disable [!UICONTROL No-Draft], follow steps 1-4 above, clear the [!UICONTROL No-Draft] checkbox, and click **[!UICONTROL Save]**.
 
 >[!MORELIKETHIS]
 >
