@@ -16,11 +16,11 @@ Enable/disable person and company tokens used in emails.
 >
 >Encoding converts characters into their HTML code versions to prevent confusion when being transmitted (i.e. "&" is changed to `&amp;`). For more details, please consult your web developer.
 
-1. Go to **Admin**.
+1. Go to **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Select **Field Management**.
+1. Select **[!UICONTROL Field Management]**.
 
    ![](assets/two-2.png)
 
@@ -28,7 +28,7 @@ Enable/disable person and company tokens used in emails.
 
    ![](assets/five.png)
 
-1. Check the **HTML Encode Tokens in Emails** box to enable, uncheck to disable.
+1. Check the **[!UICONTROL HTML Encode Tokens in Emails]** box to enable, uncheck to disable.
 
    ![](assets/six.png)
 
