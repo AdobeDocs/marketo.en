@@ -1,23 +1,23 @@
 ---
 unique-page-id: 9437903
-description: Create a Custom Dynamics Sync Filter - Marketo Docs - Product Documentation
-title: Create a Custom Dynamics Sync Filter
+description: Create a Custom [!DNL Dynamics] Sync Filter - Marketo Docs - Product Documentation
+title: Create a Custom [!DNL Dynamics] Sync Filter
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 ---
-# Create a Custom Dynamics Sync Filter {#create-a-custom-dynamics-sync-filter}
+# Create a Custom [!DNL Dynamics] Sync Filter {#create-a-custom-dynamics-sync-filter}
 
-Don't want to sync everything in your Dynamics CRM into Marketo? Don't worry! Marketo allows you to set up a sync filter and sync only part of your records.
+Don't want to sync everything in your [!DNL Dynamics] CRM into Marketo? Don't worry! Marketo allows you to set up a sync filter and sync only part of your records.
 
 ## Overview {#overview}
 
-To set up a Dynamics sync filter:
+To set up a [!DNL Dynamics] sync filter:
 
-1. Create a custom Two Options (boolean) field named new_synctomkto in your Dynamics CRM for any object (lead, contact, account, opportunity and other custom entities).
+1. Create a custom Two Options (boolean) field named new_synctomkto in your [!DNL Dynamics] CRM for any object (lead, contact, account, opportunity and other custom entities).
 1. Assign this field a Yes/No value or leave it blank.
 
 >[!NOTE]
 >
->You must make these changes in Dynamics CRM, not your database or Marketo.
+>You must make these changes in [!DNL Dynamics] CRM, not your database or Marketo.
 
 Marketo looks for this field during the automatic background sync and determines which records to sync over based on this logic: 
 
@@ -34,27 +34,27 @@ Marketo looks for this field during the automatic background sync and determines
 
 >[!PREREQUISITES]
 >
->Install the latest version of the Marketo Plug-in (3.0.0.1 or later). Go to Marketo > Admin > Microsoft Dynamics > Download Marketo Solution.
+>Install the latest version of the Marketo Plug-in (3.0.0.1 or later). Go to Marketo > Admin > [!DNL Microsoft Dynamics] > Download Marketo Solution.
 
 ## Create SyncToMkto Field {#create-synctomkto-field}
 
-1. Log into Dynamics CRM. Click **Settings** and then click **Customizations**.
+1. Log into [!DNL Dynamics] CRM. Click **[!UICONTROL Settings]** and then click **[!UICONTROL Customizations]**.
 
    ![](assets/image2015-8-10-21-3a40-3a9.png)
 
-1. Click **Customize the System**.
+1. Click **[!UICONTROL Customize the System]**.
 
    ![](assets/image2015-8-10-21-3a42-3a15.png)
 
-1. Click ![](assets/image2015-8-10-21-3a44-3a23.png) next to **Entities**.
+1. Click ![](assets/image2015-8-10-21-3a44-3a23.png) next to **[!UICONTROL Entities]**.
 
    ![](assets/image2015-8-10-21-3a43-3a39.png)
 
-1. Click ![](assets/image2015-8-10-21-3a44-3a23.png) next to **Lead** and select **Fields**. Then click **New**.
+1. Click ![](assets/image2015-8-10-21-3a44-3a23.png) next to **[!UICONTROL Lead]** and select **[!UICONTROL Fields]**. Then click **[!UICONTROL New]**.
 
    ![](assets/image2015-8-10-21-3a49-3a49.png)
 
-1. Enter **SyncToMkto** in the **Display Name** field and select **Two options** as the **Data Type**. Then click **Save and Close**.
+1. Enter **SyncToMkto** in the **[!UICONTROL Display Name]** field and select **[!UICONTROL Two Options]** as the **[!UICONTROL Data Type]**. Then click **[!UICONTROL Save and Close]**.
 
    ![](assets/image2015-9-8-10-3a25-3a33.png)
 
@@ -72,7 +72,7 @@ Marketo looks for this field during the automatic background sync and determines
 
 Even if you've already done your initial sync, go in and select the fields to be synced with Marketo.
 
-1. Go to Admin and select **MIcrosoft Dynamics**.
+1. Go to Admin and select **[!DNL MIcrosoft Dynamics]**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
@@ -80,23 +80,23 @@ Even if you've already done your initial sync, go in and select the fields to be
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Scroll down to the field and check it. The actual name must be new_synctomkto but the Display Name can be anything. Click **Save**.
+1. Scroll down to the field and check it. The actual name must be new_synctomkto but the Display Name can be anything. Click **[!UICONTROL Save]**.
 
    ![](assets/image2015-10-9-9-3a56-3a23.png)
 
 Great, Now you've enabled the sync filter for Marketo.
 
-## Create a Dynamics Workflow to Assign Sync Filter Values Automatically {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically}
+## Create a [!DNL Dynamics] Workflow to Assign Sync Filter Values Automatically {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically}
 
-You can always manually assign a value to the SyncToMkto fields for your records. But why not take advantage of the power of a Dynamics Workflow and auto-assign a value to the SyncToMkto field when a record is created or updated?
+You can always manually assign a value to the SyncToMkto fields for your records. But why not take advantage of the power of a [!DNL Dynamics] Workflow and auto-assign a value to the SyncToMkto field when a record is created or updated?
 
 >[!NOTE]
 >
 >You can't do this on the database level. It must be done in the CRM manually or using a workflow.
 >
->A Dynamics workflow works only on new records created going forward, not on historical data. Use a batch update to move over existing records.
+>A [!DNL Dynamics] workflow works only on new records created going forward, not on historical data. Use a batch update to move over existing records.
 
-1. Go to Dynamics CRM. Click **Settings** then click **Processes**.
+1. Go to [!DNL Dynamics] CRM. Click **Settings** then click **Processes**.
 
    ![](assets/image2015-8-11-8-3a42-3a10.png)
 
@@ -130,7 +130,7 @@ Here are some implementation details we thought you should know:
 
 1. Start a Sync Operation
 
-   When the **SyncToMkto** value changes from **No** to **Yes**, Dynamics notifies Marketo immediately to start syncing this record. If the record already exists, Marketo updates it. Otherwise, Marketo creates the record.
+   When the **SyncToMkto** value changes from **No** to **Yes**, [!DNL Dynamics] notifies Marketo immediately to start syncing this record. If the record already exists, Marketo updates it. Otherwise, Marketo creates the record.
 
    >[!TIP]
    >
@@ -142,6 +142,6 @@ Here are some implementation details we thought you should know:
 
 >[!MORELIKETHIS]
 >
->* [Microsoft Dynamics Sync Filter: Qualify](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
->* [Microsoft Dynamics Sync Filter: Merge](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
+>* [[!DNL Microsoft Dynamics] Sync Filter: Qualify](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
+>* [[!DNL Microsoft Dynamics] Sync Filter: Merge](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
 >* [Custom Sync Filter Rules for an Email Address](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
