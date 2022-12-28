@@ -36,7 +36,7 @@ Follow these steps to create a new custom activity.
 
    ![](assets/five.png)
 
-1. Give your primary field a name that summarizes what the custom activity is for.
+1. Give your primary field a **[!UICONTROL Name]** that summarizes what the custom activity is for.
 
    ![](assets/six.png)
 
