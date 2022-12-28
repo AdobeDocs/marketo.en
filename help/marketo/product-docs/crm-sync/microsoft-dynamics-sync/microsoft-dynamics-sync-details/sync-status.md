@@ -6,15 +6,15 @@ exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 ---
 # Sync Status {#sync-status}
 
-You can keep tabs on the current throughput and backlog of the sync process on the Sync Status and Sync Errors tabs.
+You can keep tabs on the current throughput and backlog of the sync process on the [!UICONTROL Sync Status] and [!UICONTROL Sync Errors] tabs.
 
-## Sync Status Tab {#sync-status-tab}
+## [!UICONTROL Sync Status] Tab {#sync-status-tab}
 
-1. Click **Admin** and **Microsoft Dynamics**.
+1. Click **[!UICONTROL Admin]** and **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Click the **Sync Status** tab.
+1. Click the **[!UICONTROL Sync Status]** tab.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -38,9 +38,9 @@ You can keep tabs on the current throughput and backlog of the sync process on t
 
    >[!NOTE]
    >
-   >When you're looking at the Last Hour view, the Inserts and Updates columns display N/A. This is expected behavior.
+   >When you're looking at the [!UICONTROL Last Hour] view, the [!UICONTROL Inserts] and [!UICONTROL Updates] columns display N/A. This is expected behavior.
 
-## Sync Errors Tab {#sync-errors-tab}
+## [!UICONTROL Sync Errors] Tab {#sync-errors-tab}
 
 Browse, search, or export leads (and other objects) that failed to synchronize with details such as operation, direction, error code and error message.
 
