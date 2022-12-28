@@ -5,11 +5,11 @@ exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 ---
 # Campaign Sync Overview {#campaign-sync-overview}
 
-As part of Campaign Sync, users can set up automation to operate on membership of a Dynamics campaign. Leads qualified to specific behaviors or demographics can be made part of Microsoft campaigns.
+As part of Campaign Sync, users can set up automation to operate on membership of a [!DNL Dynamics] campaign. Leads qualified to specific behaviors or demographics can be made part of Microsoft campaigns.
 
 >[!PREREQUISITES]
 >
->Update to the latest version of the Dynamics plug-in for Marketo.
+>Update to the latest version of the [!DNL Dynamics] plug-in for Marketo.
 
 The following flow actions are available:
 
