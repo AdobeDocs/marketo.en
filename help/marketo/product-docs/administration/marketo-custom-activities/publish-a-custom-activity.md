@@ -8,11 +8,11 @@ exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 
 You have your custom activity exactly as you want it. Now, it's time to publish it!
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/one-2.png)
 
-1. In **Database Management** click **Marketo Custom Activities**.
+1. In **[!UICONTROL Database Management]** click **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/two-2.png)
 
@@ -20,15 +20,15 @@ You have your custom activity exactly as you want it. Now, it's time to publish 
 
    ![](assets/three-2.png)
 
-1. Click the **Custom Activity Actions** drop-down and select **Publish Activity**.
+1. Click the **[!UICONTROL Custom Activity Actions]** drop-down and select **[!UICONTROL Publish Activity]**.
 
    ![](assets/four-2.png)
 
-   You'll see your custom activity's state go from Draft...
+   You'll see your custom activity's **[!UICONTROL State]** go from **[!UICONTROL Draft]**...
 
    ![](assets/five-2.png)
 
-   ...to Published.
+   ...to **[!UICONTROL Published]**.
 
    ![](assets/six-2.png)
 
