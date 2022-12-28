@@ -19,11 +19,11 @@ exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 
    ![](assets/add-or-remove-a-user-3.png)
 
-1. Click the **Users** tab.
+1. Click the **[!UICONTROL Users]** tab.
 
    ![](assets/add-or-remove-a-user-4.png)
 
-1. Click the **Add User** button.
+1. Click the **[!UICONTROL Add User]** button.
 
    ![](assets/add-or-remove-a-user-5.png)
 
@@ -39,7 +39,7 @@ exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
    >
    >A user **must** be added to a product profile in order to get access to Marketo Engage.
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/add-or-remove-a-user-8.png)
 
@@ -63,15 +63,15 @@ The user will then receive an email to sign in to Marketo Engage.
 
    ![](assets/add-or-remove-a-user-11.png)
 
-1. Click the **Users** tab.
+1. Click the **[!UICONTROL Users]** tab.
 
    ![](assets/add-or-remove-a-user-12.png)
 
-1. Select the user you want to remove and click the **Remove** button.
+1. Select the user you want to remove and click the **[!UICONTROL Remove User]** button.
 
    ![](assets/add-or-remove-a-user-13.png)
 
-1. Click **Remove User** to confirm.
+1. Click **[!UICONTROL Remove User]** to confirm.
 
    ![](assets/add-or-remove-a-user-14.png)
 
