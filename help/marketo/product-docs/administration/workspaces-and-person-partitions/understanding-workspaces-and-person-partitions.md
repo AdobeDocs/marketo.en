@@ -21,7 +21,7 @@ Workspaces are separate areas in Marketo that hold marketing assets like program
 >Some reasons you might use a workspace:
 >
 >* Geography: Europe, Asia and North America marketing departments each get a workspace
->* Business Unit: Quicken, Quickbooks and TurboTax each get a workspace
+>* Business Unit: [!DNL Quicken], [!DNL Quickbooks] and [!DNL TurboTax] each get a workspace
 >
 >In each case, the separation is because the marketing assets are completely different. If they share marketing assets, then workspaces may not be the right tool for you.
 
@@ -37,7 +37,7 @@ Here's how to share assets across workspaces. It works the same for anything you
 >
 >The parent folder containing your assets is the only folder that can be shared, not the children folders.
 
-1. Create a new folder.
+1. Create a [!UICONTROL new folder].
 
    ![](assets/one.png)
 
@@ -49,11 +49,11 @@ Here's how to share assets across workspaces. It works the same for anything you
 
    ![](assets/three.png)
 
-1. Right-click the folder and select **Share Folder**.
+1. Right-click the folder and select **[!UICONTROL Share Folder]**.
 
    ![](assets/four.png)
 
-1. Select the workspace(s) you want to share the folder with and click **Save**. The Share Folder dialog box will only display workspaces you have permission to view.
+1. Select the workspace(s) you want to share the folder with and click **[!UICONTROL Save]**. The **[!UICONTROL Share Folder]** dialog box will only display workspaces you have permission to view.
 
    ![](assets/image2015-5-27-11-3a6-3a40.png)
 
