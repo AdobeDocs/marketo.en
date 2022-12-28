@@ -12,19 +12,19 @@ If you want to integrate with Marketo via the [REST API](https://developers.mark
 >
 >**Admin Permissions Required**
 
-1. From My Marketo, click **Admin**.
+1. From My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/adminhand-1.png)
 
-1. Under Security, click **Users & Roles**.
+1. Under **[!UICONTROL Security]**, click **[!UICONTROL Users & Roles]**.
 
    ![](assets/two.png)
 
-1. Click the **Roles** tab and then **New Role**.
+1. Click the **[!UICONTROL Roles]** tab and then **[!UICONTROL New Role]**.
 
    ![](assets/image2014-9-16-13-3a47-3a12.png)
 
-1. Enter a Role Name, select the API access Permissions you want to give, and click **Create.**
+1. Enter a **[!UICONTROL Role Name]**, select the API access **[!UICONTROL Permissions]** you want to give, and click **[!UICONTROL Create].**
 
    ![](assets/image2014-9-16-13-3a47-3a36.png)
 
