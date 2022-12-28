@@ -60,7 +60,7 @@ Audit Trail is available to all customers and controlled by two admin permission
    >
    >This process also applies when you're creating a new user.
 
-1. Select the Audit Trail roles you created. In this example we created "[!UICONTROL Audit Trail - Asset and Admin]," and "[!UICONTROL Audit Trail - With Login History]."
+1. Select the Audit Trail roles you created. In this example we created "Audit Trail - Asset and Admin," and "Audit Trail - With Login History."
 
    ![](assets/enable-audit-trail-7.png)
 
