@@ -36,7 +36,7 @@ If you want to integrate with Marketo via the ReST API, you'll want to create a 
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. Enter a **[!UICONTROL Display Name]** for the [!UICONTROL service]. Select the **[!UICONTROL API Only User]** [previously created](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Enter a **[!UICONTROL Display Name]** for the service. Select the **[!UICONTROL API Only User]** [previously created](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
