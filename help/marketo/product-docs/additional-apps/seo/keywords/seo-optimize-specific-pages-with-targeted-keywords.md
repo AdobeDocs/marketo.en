@@ -8,7 +8,7 @@ exl-id: 5f36c1c5-be76-419e-a9e0-c180ce7bf2ed
 
 Some keywords go really well with certain pages. This is how you match the perfect keyword to its perfect page. This will provide the most accurate data and the best recommendations for improvement.
 
-1. Go to the **Pages** section.
+1. Go to the **[!UICONTROL Pages]** section.
 
    ![](assets/image2014-9-18-12-3a52-3a28.png)a
 
@@ -16,7 +16,7 @@ Some keywords go really well with certain pages. This is how you match the perfe
 
    ![](assets/image2014-9-18-12-3a52-3a41.png)
 
-1. Select which keyword you are trying to optimize your page for. Click **Update**.
+1. Select which keyword you are trying to optimize your page for. Click **[!UICONTROL Update]**.
 
    >[!TIP]
    >
