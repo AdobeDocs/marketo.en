@@ -30,7 +30,7 @@ It's easy to import custom object data into your database. If you're using custo
 
    >[!NOTE]
    >
-   >Use Dedupe field(s) as unique identifiers when you create or update custom object records. This example uses the Dedupe field of the **[!UICONTROL car]** custom object - vin (vehicle ID number). If you are only updating custom object records, you can select the Marketo Guid as the [!UICONTROL Dedupe Mode].
+   >Use Dedupe field(s) as unique identifiers when you create or update custom object records. This example uses the Dedupe field of the **car** custom object - vin (vehicle ID number). If you are only updating custom object records, you can select the [!UICONTROL Marketo Guid] as the [!UICONTROL Dedupe Mode].
 
 1. Map each column to a Marketo field, selecting it from the drop-down.
 
