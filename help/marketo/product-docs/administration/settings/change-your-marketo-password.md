@@ -8,15 +8,15 @@ exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
 
 Change your Marketo password with these simple steps.
 
-1. Any Marketo user can click their name and **My Account**.
+1. Any Marketo user can click their name and **[!UICONTROL My Account]**.
 
    ![](assets/image2015-11-10-10-3a40-3a8.png)
 
-1. Administrators can also click **Admin** and then **Change Password** to change their Admin password.
+1. Administrators can also click **[!UICONTROL Admin]** and then **[!UICONTROL Change Password]** to change their Admin password.
 
    ![](assets/image2014-9-10-9-3a43-3a47.png)
 
-1. Enter the Old Password and New Password, then click **Save** when your new password fits all the requirements.
+1. Enter the **[!UICONTROL Old Password]** and **[!UICONTROL New Password]**, then click **[!UICONTROL Save]** when your new password fits all the requirements.
 
    ![](assets/image2014-9-10-9-3a44-3a2.png)
 
