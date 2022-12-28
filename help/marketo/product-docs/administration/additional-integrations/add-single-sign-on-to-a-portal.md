@@ -29,7 +29,7 @@ Once SSO is enabled, the IdP can validate a user's credentials. When a user wish
 
 >[!NOTE]
 >
->Marketo only supports Identity Provider-initiated (also known as IdP-initiated), in which the user first launches the Idp login page, authenticates, then navigates to [!DNL My Marketo].
+>Marketo only supports Identity Provider-initiated (also known as IdP-initiated), in which the user first launches the Idp login page, authenticates, then navigates to My Marketo.
 
 ## Additional Notes {#additional-notes}
 
