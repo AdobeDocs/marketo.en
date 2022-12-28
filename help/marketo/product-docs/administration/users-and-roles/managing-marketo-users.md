@@ -8,23 +8,23 @@ exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 
 ## Create Users {#create-users}
 
-1. Go to **Admin** and click **Users & Roles**.
+1. Go to **[!UICONTROL Admin]** and click **[!UICONTROL Users & Roles]**.
 
    ![](assets/image2014-9-9-11-3a34-3a58.png)
 
-1. Click **Invite New User**.
+1. Click **[!UICONTROL Invite New User]**.
 
    ![](assets/image2014-9-9-11-3a35-3a15.png)
 
-1. Enter the **Email address**, **First Name**, and **Last Name**.
+1. Enter the **[!UICONTROL Email]** address, **[!UICONTROL First Name]**, and **[!UICONTROL Last Name]**.
 
    ![](assets/image2016-5-24-9-3a45-3a30.png)
 
-1. Optionally, enter a reason for the invitation and select an expiration date in the **Access Expires** field using the date picker.
+1. Optionally, enter a [!UICONTROL Reason] for the invitation and select an expiration date in the **[!UICONTROL Access Expires]** field using the date picker.
 
    ![](assets/image2016-6-29-15-3a52-3a18.png)
 
-1. Click **Next**.
+1. Click **[!UICONTROL Next]**.
 
    ![](assets/image2016-5-24-9-3a58-3a10.png)
 
@@ -36,11 +36,11 @@ exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
    >
    >When the expiration date arrives, the user receives an expiration notification and their account is locked.
 
-1. Select the **Role** of your choice and click **Next**.
+1. Select the **[!UICONTROL Role]** of your choice and click **[!UICONTROL Next]**.
 
    ![](assets/image2016-5-24-10-3a1-3a33.png)
 
-1. Make edits to the invitation message if necessary. Click **Send**.
+1. Make edits to the [!UICONTROL Invitation] message if necessary. Click **[!UICONTROL Send]**.
 
    ![](assets/image2016-5-24-10-3a3-3a56.png)
 
@@ -58,29 +58,29 @@ The new user is now listed in the Users tab and will receive an email with instr
 
 ## Delete Users {#delete-users}
 
-1. Go to Admin and click **Users & Roles**.
+1. Go to **[!UICONTROL Admin]** and click **[!UICONTROL Users & Roles]**.
 
    ![](assets/image2014-9-9-11-3a36-3a21.png)
 
-1. Select the user you want to remove and click **Delete User**.
+1. Select the user you want to remove and click **[!UICONTROL Delete User]**.
 
    ![](assets/image2014-9-9-11-3a36-3a36.png)
 
-1. Confirm by clicking **OK**.
+1. Confirm by clicking **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-9-11-3a36-3a51.png)
 
 ## Reset User Passwords {#reset-user-passwords}
 
-1. Go to Admin and click **Users & Roles**.
+1. Go to **[!UICONTROL Admin]** and click **[!UICONTROL Users & Roles]**.
 
    ![](assets/image2014-9-9-11-3a41-3a0.png)
 
-1. Select a user and click **Reset Password**.
+1. Select a user and click **[!UICONTROL Reset Password]**.
 
    ![](assets/image2014-9-9-11-3a41-3a19.png)
 
-1. Click **Close** to dismiss the prompt.
+1. Click **[!UICONTROL Close]** to dismiss the prompt.
 
    ![](assets/image2014-9-9-11-3a41-3a50.png)
 
@@ -94,15 +94,15 @@ The user will receive an email with password reset instructions.
 
 ## Change Permissions and Edit User Information {#change-permissions-and-edit-user-information}
 
-1. Go to **Admin** and click **Users & Roles.**
+1. Go to **[!UICONTROL Admin]** and click **[!UICONTROL Users & Roles].**
 
    ![](assets/image2014-9-9-11-3a37-3a5.png)
 
-1. Select a user and click **Edit User**.
+1. Select a user and click **[!UICONTROL Edit User]**.
 
    ![](assets/image2014-9-9-11-3a37-3a16.png)
 
-1. You can edit user information and change the associated role. Click **Save**.
+1. You can edit user information and change the associated role. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-9-11-3a37-3a31.png)
 
