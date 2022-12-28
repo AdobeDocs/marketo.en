@@ -80,7 +80,7 @@ SSO is disabled by default. Follow these steps to enable SAML and configure it.
 
    ![](assets/add-single-sign-on-to-a-portal-7.png)
 
-## Update [!UICONTROL Redirect Page Settings] {#update-redirect-page-settings}
+## Update Redirect Page Settings {#update-redirect-page-settings}
 
 1. Under the **[!UICONTROL Redirect Pages]** section, click **[!UICONTROL Edit]**.
 
