@@ -10,7 +10,7 @@ We are excited to announce that we will soon begin a phased rollout of our next-
 
 Here are the most important things to know:
 
-* We are removing the "Is Anonymous" [!DNL Smart List] filter with our Q1 release (already done)
+* We are removing the "Is Anonymous" Smart List filter with our Q1 release (already done)
 * We are increasing the number of web events (Visit Web Page, Clicked Link on Web Page) we can ingest
 * Your [!DNL Munchkin] code will not change, so no updates on your website are required
 
@@ -28,11 +28,11 @@ No. The [!DNL Munchkin] tracking code remains the same. No changes need to be ma
 
 ## Why did Marketo remove the "Is Anonymous" filter from [!DNL Smart Lists]? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
-We changed how anonymous people interact with [!DNL Smart Campaigns]. Before, they flowed through a smart campaign, just like known people. The "Is Anonymous" filter was used to specify that only known or only anonymous people flow through the campaign.
+We changed how anonymous people interact with Smart Campaigns. Before, they flowed through a smart campaign, just like known people. The "Is Anonymous" filter was used to specify that only known or only anonymous people flow through the campaign.
 
 With [!DNL Munchkin] V2, we will continue to track all anonymous activities; however, you are no longer able to apply filters to anonymous people. At the point of conversion (when the person becomes known in Marketo), all activities that occurred when the person was anonymous are appended to the person activity log and at this time they flow through the campaigns they qualify for.
 
-If you are already using this filter in a [!DNL Smart List] (for example, in a [!DNL Smart Campaign] or a [!DNL Report]), it is not automatically removed from the [!DNL Smart List]. See below for more details.
+If you are already using this filter in a Smart List (for example, in a Smart Campaign or a Report), it is not automatically removed from the Smart List. See below for more details.
 
 >[!NOTE]
 >
@@ -52,14 +52,14 @@ If you are already using this filter in a [!DNL Smart List] (for example, in a [
 
 ## What happens to my [!DNL Smart Lists] that already have the "Is Anonymous" filter? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
 
-After our Winter '16 Release, if you have old [!DNL Smart Campaigns] with a [!DNL Smart List] that has the "Is Anonymous" filter in it, one of two things will happen:
+After our Winter '16 Release, if you have old Smart Campaigns with a Smart List that has the "Is Anonymous" filter in it, one of two things will happen:
 
-1. If the [!DNL Smart] List has the filter "Is Anonymous = False", then nothing will happen. We'll just ignore it. 
-1. If the [!DNL Smart] List has the filter "Is Anonymous = True", then this campaign will fail and you'll be sent a notification.
+1. If the Smart List has the filter "Is Anonymous = False", then nothing will happen. We'll just ignore it. 
+1. If the Smart List has the filter "Is Anonymous = True", then this campaign will fail and you'll be sent a notification.
 
 ## I've been using Marketo for a while. How do I know which of my campaigns use the "Is Anonymous" filter? {#ive-been-using-marketo-for-a-while-how-do-i-know-which-of-my-campaigns-use-the-is-anonymous-filter}
 
-Before we made this change, we sent out several weekly notifications to your Notifications inbox with a list of [!DNL Smart Lists], [!DNL Smart Campaigns] and [!DNL Reports] that use the "Is Anonymous" filter. These can help you identify where you are currently using this filter.
+Before we made this change, we sent out several weekly notifications to your Notifications inbox with a list of Smart Lists, Smart Campaigns and Reports that use the "Is Anonymous" filter. These can help you identify where you are currently using this filter.
 
 Please review them and identify where you have "Is Anonymous" set to True, as these are the campaigns that are affected. Most times, customers use this setting for some kind of scoring. Please see the example above to understand how these campaigns will work now.
 
