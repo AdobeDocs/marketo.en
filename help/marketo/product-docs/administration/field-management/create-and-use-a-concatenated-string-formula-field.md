@@ -8,23 +8,23 @@ exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 
 You can combine values from multiple fields or build a conditional value using a Marketo Formula field.
 
-1. Go to **Admin** and click **Field Management**.
+1. Go to **[!UICONTROL Admin]** and click **[!UICONTROL Field Management]**.
 
    ![](assets/image2014-9-19-9-3a44-3a58.png)
 
-1. Click **New Custom Field**.
+1. Click **[!UICONTROL New Custom Field]**.
 
    ![](assets/image2014-9-19-9-3a45-3a8.png)
 
-1. Select **Formula** for the **Type**.
+1. Select **[!UICONTROL Formula]** for the **[!UICONTROL Type]**.
 
    ![](assets/image2014-9-19-9-3a45-3a17.png)
 
-1. Enter a **Name** for your field then click **Create**.
+1. Enter a **[!UICONTROL Name]** for your field then click **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-19-9-3a46-3a0.png)
 
-1. Find and select your formula field then click **Edit Rules**.
+1. Find and select your formula field then click **[!UICONTROL Edit Rules]**.
 
    ![](assets/image2014-9-19-9-3a46-3a13.png)
 
