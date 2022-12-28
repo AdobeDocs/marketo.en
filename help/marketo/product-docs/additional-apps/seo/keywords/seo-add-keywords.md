@@ -12,11 +12,11 @@ Keywords are phrases people type into search engines. Add the keywords most rele
 >
 >If you have a lot of keywords, you can [import them with a CSV file](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md).
 
-1. Go to the **Keywords** section.
+1. Go to the **[!UICONTROL Keywords]** section.
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. Enter the keywords you want to target and click **Save**.
+1. Enter the keywords you want to target and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 
