@@ -12,19 +12,19 @@ Need to change the account email address, name, or phone number? Learn how below
 >
 >**Admin Permissions Required**
 
-1. Go to **Admin**.
+1. Go to **[!UICONTROL Admin]**.
 
    ![](assets/adminhand.png)
 
-1. Select **My Account**.
+1. Select **[!UICONTROL My Account]**.
 
    ![](assets/image2015-6-23-15-3a16-3a52.png)
 
-1. Select **Edit Account Settings**.
+1. Select **[!UICONTROL Edit Account Settings]**.
 
    ![](assets/image2015-6-23-15-3a21-3a41.png)
 
-1. Make your edits and click **Save**.
+1. Make your edits and click **[!UICONTROL Save]**.
 
    ![](assets/image2015-6-23-15-3a20-3a16.png)
 
