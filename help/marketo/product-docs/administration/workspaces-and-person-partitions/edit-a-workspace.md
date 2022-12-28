@@ -16,11 +16,11 @@ Sometimes you need to make changes in a Workspace. It's easy.
 >
 >Brush up on workspaces with [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Under **Admin**, click on **Workspaces & Partitions**.
+1. Under **[!UICONTROL Admin]**, click on **[!UICONTROL Workspaces & Partitions]**.
 
    ![](assets/image2014-9-17-11-3a59-3a11-1.png)
 
-1. Select the workspace you want to edit and click **Edit Workspace**.
+1. Select the workspace you want to edit and click **[!UICONTROL Edit Workspace]**.
 
    ![](assets/two-7.png)
 
@@ -40,7 +40,7 @@ Sometimes you need to make changes in a Workspace. It's easy.
    >
    >The **primary person partition** acts as the default and is where all people will be assigned.
 
-   If you enabled multiple branded domains, you can change to a different primary branded domain. Click **Save**.
+   If you enabled multiple branded domains, you can change to a different primary branded domain. Click **[!UICONTROL Save]**.
 
    ![](assets/four-6.png)
 
