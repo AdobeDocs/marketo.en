@@ -4,7 +4,7 @@ description: "Download [!DNL GoogleAdwords Activity Log] - Marketo Docs - Produc
 title: "Download [!DNL GoogleAdwords Activity Log]"
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
 ---
-# Download [!DNL GoogleAdwords Activity Log] {#download-googleadwords-activity-log}
+# Download [!DNL Google Adwords] Activity Log {#download-googleadwords-activity-log}
 
 Stuff happens. Sometimes you need to download the activity log to troubleshoot issues.
 
