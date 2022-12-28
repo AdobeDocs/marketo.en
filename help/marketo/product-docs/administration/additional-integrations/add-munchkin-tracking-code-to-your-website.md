@@ -4,7 +4,7 @@ description: "Add [!DNL Munchkin] Tracking Code to Your Website - Marketo Docs -
 title: "Add [!DNL Munchkin] Tracking Code to Your Website"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 ---
-# Add Munchkin Tracking Code to Your Website {#add-munchkin-tracking-code-to-your-website}
+# Add [!DBL Munchkin] Tracking Code to Your Website {#add-munchkin-tracking-code-to-your-website}
 
 Marketo's custom JavaScript tracking code, called [!DNL Munchkin], tracks all individuals who visit your website so you can react to their visits with automated marketing campaigns. Even anonymous visitors are tracked along with their IP addresses and other information. **Without this tracking code, you will not be able to track visits or other activity on your website**!
 
@@ -26,13 +26,13 @@ Marketo's custom JavaScript tracking code, called [!DNL Munchkin], tracks all in
 
    ![](assets/add-munchkin-tracking-code-to-your-website-2.png)
 
-1. Select [!UICONTROL Asynchronous] for [!UICONTROL Tracking Code Type].
+1. Select **[!UICONTROL Asynchronous]** for **[!UICONTROL Tracking Code Type]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-3.png)
 
    >[!NOTE]
    >
-   >In almost all cases, you should use the [!UICONTROL asynchronous] code. [Learn more](#types-of-munchkin-tracking-codes).
+   >In almost all cases, you should use the asynchronous code. [Learn more](#types-of-munchkin-tracking-codes).
 
 1. Click and copy the Javascript tracking code to put on your website.
 
@@ -46,7 +46,7 @@ Marketo's custom JavaScript tracking code, called [!DNL Munchkin], tracks all in
    >
    >Put tracking code on the web pages you want to track. This may be every page for smaller sites, or only key pages on sites that have many dynamically generated Web pages, user forums, and so on.
 
-   For best results, use the [!UICONTROL asynchronous] [!DNL Munchkin] code and place it inside the `<head>` elements of your pages. If you are using the simple code (not recommended), this is right before the `</body>` tag.
+   For best results, use the asynchronous [!DNL Munchkin] code and place it inside the `<head>` elements of your pages. If you are using the simple code (not recommended), this is right before the `</body>` tag.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-5.png)
 
@@ -66,7 +66,7 @@ If you're using Workspaces in your Marketo account, you probably also have separ
 
    ![](assets/add-munchkin-tracking-code-to-your-website-7.png)
 
-1. Select the appropriate [!UICONTROL workspace] for the web pages you wish to track.
+1. Select the appropriate workspace for the web pages you wish to track.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-8.png)
 
@@ -74,7 +74,7 @@ If you're using Workspaces in your Marketo account, you probably also have separ
    >
    >If you don't use the special workspace [!DNL Munchkin] code, the people will be assigned to the default partition that was created when your account was set up. It's named "[!UICONTROL Default]" initially, but you might have changed that in your own Marketo account.
 
-1. Select **[!UICONTROL Asynchronous]** for [!UICONTROL Tracking Code Type].
+1. Select **[!UICONTROL Asynchronous]** for **[!UICONTROL Tracking Code Type]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-9.png)
 
@@ -102,9 +102,9 @@ If you're using Workspaces in your Marketo account, you probably also have separ
 
 There are three types of [!DNL Munchkin] tracking codes you can choose from. Each impact the webpage load times differently.
 
-1. **[!UICONTROL Simple]**: has the fewest lines of code, but does not optimize for webpage loading time. This code loads the [!UICONTROL jQuery] library each time a webpage is loaded.
+1. **[!UICONTROL Simple]**: has the fewest lines of code, but does not optimize for webpage loading time. This code loads the jQuery library each time a webpage is loaded.
 1. **[!UICONTROL Asynchronous]**: reduces webpage loading time.
-1. **[!UICONTROL Asynchronous jQuery]**: reduces webpage loading time and also improves system performance. This code assumes that you already have [!UICONTROL jQuery], and does not check to load it.
+1. **[!UICONTROL Asynchronous jQuery]**: reduces webpage loading time and also improves system performance. This code assumes that you already have jQuery, and does not check to load it.
 
 ## Test if Your [!DNL Munchkin] Code is Working {#test-if-your-munchkin-code-is-working}
 
