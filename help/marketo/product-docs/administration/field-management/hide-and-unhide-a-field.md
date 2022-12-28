@@ -14,11 +14,11 @@ If you no longer have use for a field in Marketo, you can hide it from the UI so
 >
 >**Admin Permissions Required**
 
-1. Go to **Admin** and click **Field Management**.
+1. Go to **[!UICONTROL Admin]** and click **[!UICONTROL Field Management]**.
 
    ![](assets/image2014-9-18-13-3a10-3a3.png)
 
-1. Find the field, select it, then under **Field Actions** click **Hide Field**.
+1. Find the field, select it, then under **[!UICONTROL Field Actions]** click **[!UICONTROL Hide Field]**.
 
    ![](assets/fieldmanagement-hidefield-.png)
 
@@ -26,7 +26,7 @@ If you no longer have use for a field in Marketo, you can hide it from the UI so
    >
    >In order to hide a field it must not be associated with any other assets (including archived ones). Make sure to remove the field from all smart lists, flow step choices, forms, emails, etc., before hiding.
 
-1. Click **Hide** to confirm.
+1. Click **[!UICONTROL Hide]** to confirm.
 
    ![](assets/image2014-9-18-13-3a10-3a36.png)
 
@@ -36,11 +36,11 @@ If you no longer have use for a field in Marketo, you can hide it from the UI so
 
 ## Unhide a Field {#unhide-a-field}
 
-1. Go to **Admin** and click **Field Management**.
+1. Go to **[!UICONTROL Admin]** and click **[!UICONTROL Field Management]**.
 
    ![](assets/image2014-9-18-13-3a11-3a3.png)
 
-1. Find and select the field. In the Field Actions drop-down, click **Unhide Field**.
+1. Find and select the field. In the **[!UICONTROL Field Actions]** drop-down, click **[!UICONTROL Unhide Field]**.
 
    ![](assets/image2014-9-18-13-3a11-3a46.png)
 
