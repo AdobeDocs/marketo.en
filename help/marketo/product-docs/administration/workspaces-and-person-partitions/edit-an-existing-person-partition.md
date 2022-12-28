@@ -16,15 +16,15 @@ A person partition is like having a second (or third) database. A partition can 
 >
 >[Create a Person Partition](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
-1. Under **Admin**, click **Workspaces & Partitions**.
+1. Under **[!UICONTROL Admin]**, click **[!UICONTROL Workspaces & Partitions]**.
 
    ![](assets/image2014-9-17-10-3a51-3a23.png)
 
-1. Under the **Person Partitions** tab, select the person partition you want to edit and click on **Edit Person Partition**.
+1. Under the **[!UICONTROL Person Partitions]** tab, select the person partition you want to edit and click on **[!UICONTROL Edit Person Partition]**.
 
    ![](assets/two-5.png)
 
-1. Enter the Person Partition **Name**, the **Workspaces** they belong to, and click **Save**.
+1. Enter the Person Partition **[!UICONTROL Name]**, the **[!UICONTROL Workspaces]** they belong to, and click **[!UICONTROL Save]**.
 
    ![](assets/three-5.png)
 
