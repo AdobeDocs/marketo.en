@@ -8,7 +8,7 @@ exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
 
 You can adjust your keyword view to display the data you are most interested in.
 
-1. Go to the **[!UIControl Keywords]** section.
+1. Go to the **[!UICONTROL Keywords]** section.
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -20,7 +20,7 @@ You can adjust your keyword view to display the data you are most interested in.
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. Select or unselect the columns you'd like to see. Click **[!UIControl Save]**.
+1. Select or unselect the columns you'd like to see. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
