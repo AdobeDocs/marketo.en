@@ -5,7 +5,7 @@ exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
 ---
 # Product Admin Setup {#product-admin-setup}
 
-1. After you've been invited by a System Admin, you'll receive a welcome email. In that email, click **Get Started**.
+1. After you've been invited by a System Admin, you'll receive a welcome email. In that email, click **[!UICONTROL Get Started]**.
 
    ![](assets/admin-setup-7.png)
 
