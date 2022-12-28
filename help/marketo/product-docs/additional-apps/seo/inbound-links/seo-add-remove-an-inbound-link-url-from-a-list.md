@@ -10,11 +10,11 @@ You can organize your inbound link URLs to your heart's content.
 
 ## Add an Inbound Link URL to a List {#add-an-inbound-link-url-to-a-list}
 
-1. Go to the Inbound Links section.
+1. Go to the **[!UICONTROL Inbound Links] section**.
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
-1. Hover over the inbound link URL you want to categorize. Click **Add/Remove From List**.
+1. Hover over the inbound link URL you want to categorize. Click **[!UICONTROL Add/Remove From List]**.
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
@@ -24,21 +24,21 @@ You can organize your inbound link URLs to your heart's content.
 
 >[!TIP]
 >
->You can also make a new list for your keyword to go. Just type your desired name in Create a new list.
+>You can also make a new list for your keyword to go. Just type your desired name in [!UICONTROL Create a new list].
 
 ## Remove an Inbound Link URL from a List {#remove-an-inbound-link-url-from-a-list}
 
 Sometimes you'll want to remove an inbound link URL's from a list.
 
-1. Click **Inbound Links**.
+1. Click **[!UICONTROL Inbound Links]**.
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. Click the **Filter by list** drop-down. Click the list you want to clean up.
+1. Click the **[!UICONTROL Filter by list]** drop-down. Click the list you want to clean up.
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. Hover over the inbound link URL you'd like to remove. Click **Add/Remove From List**.
+1. Hover over the inbound link URL you'd like to remove. Click **[!UICONTROL Add/Remove From List]**.
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 
