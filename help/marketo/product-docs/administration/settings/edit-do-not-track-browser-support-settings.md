@@ -14,21 +14,21 @@ exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 
 >[!NOTE]
 >
->"Do Not Track" will be set to Ignore by default, so if that's what you want, you won't need to take any steps.
+>"Do Not Track" will be set to **[!UICONTROL Ignore]** by default, so if that's what you want, you won't need to take any steps.
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. Click **Munchkin**.
+1. Click **[!UICONTROL Munchkin]**.
 
    ![](assets/two.png)
 
-1. Under **Person Tracking**, click **Edit**.
+1. Under **[!UICONTROL Person Tracking]**, click **[!UICONTROL Edit]**.
 
    ![](assets/three-2.png)
 
-1. Select **Support** and click **Save**.
+1. Select **[!UICONTROL Support]** and click **[!UICONTROL Save]**.
 
    ![](assets/four-1.png)
 
