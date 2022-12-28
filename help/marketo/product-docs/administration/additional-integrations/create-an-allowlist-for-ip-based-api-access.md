@@ -1,10 +1,10 @@
 ---
 unique-page-id: 10098433
-description: "Create an [!DNL Allowlist] for IP-Based API Access - Marketo Docs - Product Documentation"
-title: "Create an [!DNL Allowlist] for IP-Based API Access"
+description: Create an Allowlist for IP-Based API Access - Marketo Docs - Product Documentation
+title: Create an Allowlist for IP-Based API Access
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 ---
-# Create an [!DNL Allowlist] for IP-Based API Access {#create-an-allowlist-for-ip-based-api-access}
+# Create an Allowlist for IP-Based API Access {#create-an-allowlist-for-ip-based-api-access}
 
 Sometimes, you want to give API access only to a specific IP address or a range of addresses. To do this, you first enable restrictions, then specify the IP addresses that are allowed to use the APIs.
 
@@ -24,7 +24,7 @@ Sometimes, you want to give API access only to a specific IP address or a range 
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
-1. Check the **[!UICONTROL Enable IP Restrictions]** box and enter the IP addresses you want to [!DNL Allowlist].
+1. Check the **[!UICONTROL Enable IP Restrictions]** box and enter the IP addresses you want to Allowlist.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 
