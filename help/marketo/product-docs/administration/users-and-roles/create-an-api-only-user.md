@@ -17,33 +17,33 @@ If you want to integrate with Marketo via the [REST API](https://developers.mark
 >
 >**Admin Permissions Required**
 
-1. Under **Admin**, click **Users & Roles.**
+1. Under **[!UICONTROL Admin]**, click **[!UICONTROL Users & Roles].**
 
    ![](assets/image2014-9-17-9-3a31-3a31.png)
 
-1. Click **Invite New User**.
+1. Click **[!UICONTROL Invite New User]**.
 
    ![](assets/image2014-9-17-9-3a32-3a3.png)
 
-1. Enter an Email, First Name, and Last Name for the API only user. Click **Next**.
+1. Enter an **[!UICONTROL Email]**, **[!UICONTROL First Name]**, and **[!UICONTROL Last Name]** for the API only user. Click **[!UICONTROL Next]**.
 
    ![](assets/image2016-5-24-10-3a53-3a7.png)
 
    >[!TIP]
    >
-   >Add an optional reason or an access expiration date. Access expiration dates are handy for short-term employees.
+   >Add an optional [!UICONTROL Reason] or an [!UICONTROL Access Expiration] date. Access expiration dates are handy for short-term employees.
 
-1. Select the **API Only** role and check the **API Only** checkbox. Click **Next**.
+1. Select the **[!UICONTROL API Only Role]** and check the **[!UICONTROL API Only]** checkbox. Click **[!UICONTROL Next]**.
 
    ![](assets/four.png)
 
-1. Click **Send**.
+1. Click **[!UICONTROL Send]**.
 
    ![](assets/image2016-5-24-11-3a8-3a20.png)
 
 >[!NOTE]
 >
->The pop-up says, "An invitation is not required for API only," but that doesn't mean you've done something wrong. It just means we'll create the role without an invite email having to be sent.
+>The pop-up says, "[!UICONTROL An invitation is not required for API only]," but that doesn't mean you've done something wrong. It just means we'll create the role without an invite email having to be sent.
 
 Alrighty then! Now let's go ahead and create the custom service.
 
