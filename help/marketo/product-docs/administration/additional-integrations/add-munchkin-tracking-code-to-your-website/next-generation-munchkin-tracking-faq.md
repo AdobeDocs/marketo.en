@@ -26,7 +26,7 @@ No. The [!DNL Munchkin] tracking code remains the same. No changes need to be ma
 >
 >This change does not affect Web Personalization (Real-Time Personalization). It continues to identify anonymous and known web visitors and personalize content in real time to these visitors.
 
-## Why did Marketo remove the "Is Anonymous" filter from [!DNL Smart Lists]? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
+## Why did Marketo remove the "Is Anonymous" filter from Smart Lists? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
 We changed how anonymous people interact with Smart Campaigns. Before, they flowed through a smart campaign, just like known people. The "Is Anonymous" filter was used to specify that only known or only anonymous people flow through the campaign.
 
@@ -50,7 +50,7 @@ If you are already using this filter in a Smart List (for example, in a Smart Ca
 >
 >* Have a "New Person" activity logged, as it is today
 
-## What happens to my [!DNL Smart Lists] that already have the "Is Anonymous" filter? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
+## What happens to my Smart Lists that already have the "Is Anonymous" filter? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
 
 After our Winter '16 Release, if you have old Smart Campaigns with a Smart List that has the "Is Anonymous" filter in it, one of two things will happen:
 
@@ -73,7 +73,7 @@ Check out these links:
 
 [Anonymous Lead Upgrades - Customer Action Needed](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
 
-[Anonymous Lead Upgrades - [!DNL Analytics Reports]](https://nation.marketo.com/docs/DOC-2940){target="_blank"}
+[Anonymous Lead Upgrades - Analytics Reports](https://nation.marketo.com/docs/DOC-2940){target="_blank"}
 
 [Anonymous Lead Upgrades - Release Schedule](https://nation.marketo.com/docs/DOC-2961){target="_blank"}
 
