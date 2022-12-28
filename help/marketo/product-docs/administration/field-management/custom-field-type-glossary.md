@@ -100,7 +100,7 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 ## Score {#score}
 
-**Example Name:** Behavioral Score / Demographic Score - create multiple score fields to keep track of different attributes.
+**Example Name:** Behavioral Score / Demographic Score - create multiple score fields to keep track of different attributes
 
 **Example Value:** 14
 
