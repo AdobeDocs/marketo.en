@@ -12,15 +12,15 @@ Links in your report subscription emails expire after three days. In order to ch
 >
 >**Admin Permissions Required**
 
-1. Under **Admin**, click **Login Settings**.
+1. Under **[!UICONTROL Admin]**, click **[!UICONTROL Login Settings]**.
 
    ![](assets/image2014-9-24-11-3a33-3a31.png)
 
-1. Click **Edit URL Expiration**.
+1. Click **[!UICONTROL Edit URL Expiration]**.
 
    ![](assets/image2014-9-24-11-3a33-3a43.png)
 
-1. In the drop-down, select the number of days before the link expires. Click **Save**.
+1. In the drop-down, select the number of days before the link expires. Click **[!UICONTROL Save]**.
 
    ![](assets/emaillinkexpiration.png)
 
