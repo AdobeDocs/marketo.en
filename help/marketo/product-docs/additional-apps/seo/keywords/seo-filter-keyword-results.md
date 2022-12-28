@@ -44,6 +44,6 @@ Sweet! You will now only be looking at keywords on that list.
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
-1. Enter your keyword into the [!UICONTROL search] field.
+1. Enter your keyword into the **[!UICONTROL Search]** field.
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)
