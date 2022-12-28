@@ -10,7 +10,7 @@ After you've created a custom object, you need to add fields to it to meet your 
 
 Fields define the specific information used by a custom object. Link fields have a special job, to connect custom objects, and are covered in a [separate article](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Click **Admin**, and in **Database Management**, select **Marketo Custom Objects**.
+1. Click **[!UICONTROL Admin]**, and in **[!UICONTROL Database Management]**, select **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/image2016-1-18-9-3a2-3a6.png)
 
@@ -18,7 +18,7 @@ Fields define the specific information used by a custom object. Link fields have
 
    ![](assets/image2016-1-18-9-3a5-3a3.png)
 
-1. In the **Fields** tab, click **New Field**.
+1. In the **[!UICONTROL Fields]** tab, click **[!UICONTROL New Field]**.
 
    ![](assets/image2015-9-15-16-3a53-3a40.png)
 
@@ -26,19 +26,19 @@ Fields define the specific information used by a custom object. Link fields have
    >
    >The three fields shown above are created automatically by Marketo when you create a custom object. Marketo manages these fields automatically and you can't edit or delete them.
 
-1. Enter a display name and description.
+1. Enter a **[!UICONTROL Display Name]** and **[!UICONTROL Description]**.
 
    ![](assets/image2015-10-5-11-3a35-3a48.png)
 
    >[!NOTE]
    >
-   >The API name can be edited only until it's approved.
+   >The [!UICONTROL API Name] can be edited only until it's approved.
 
-1. Now, choose an appropriate data type from the list.
+1. Now, choose an appropriate **[!UICONTROL Data Type]** from the list.
 
    ![](assets/image2015-10-5-11-3a37-3a24.png)
 
-1. Pull the Dedupe slider over if you want to use the new field as a unique identifier. Click **Save** to finish.
+1. Pull the Dedupe slider over if you want to use the new field as a unique identifier. Click **[!UICONTROL Save]** to finish.
 
    ![](assets/image2015-10-5-11-3a40-3a12.png)
 
