@@ -8,7 +8,7 @@ exl-id: 102a483f-0bbd-4bac-8e63-278024d32cbf
 
 Sometimes you're gonna want to remove inbound links. Here's how:
 
-1. Go to the **Inbound Links** section.
+1. Go to the **[!UICONTROL Inbound Links]** section.
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
@@ -16,7 +16,7 @@ Sometimes you're gonna want to remove inbound links. Here's how:
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
 
-1. Click **Remove**.
+1. Click **[!UICONTROL Remove]**.
 
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 
