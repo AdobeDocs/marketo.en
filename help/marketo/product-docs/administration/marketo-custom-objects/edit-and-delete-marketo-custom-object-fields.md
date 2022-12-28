@@ -14,19 +14,19 @@ Sometimes you need to edit a field that's not approved yet.
 
    ![](assets/image2015-10-2-10-3a55-3a1.png)
 
-1. On the Fields tab, click **Field Actions** and **Edit Field**.
+1. On the **[!UICONTROL Fields]** tab, click **[!UICONTROL Field Actions]** and **[!UICONTROL Edit Field]**.
 
    ![](assets/image2015-10-2-10-3a53-3a26.png)
 
-1. Make your changes and click **Save**.
+1. Make your changes and click **[!UICONTROL Save]**.
 
    ![](assets/image2015-10-2-10-3a58-3a56.png)
 
    >[!NOTE]
    >
-   >You can't edit the API name.
+   >You can't edit the [!UICONTROL API Name].
 
-1. The changes appear in the Fields listing.
+1. The changes appear in the **[!UICONTROL Fields]** listing.
 
    ![](assets/image2015-10-2-11-3a1-3a13.png)
 
@@ -34,11 +34,11 @@ Sometimes you need to edit a field that's not approved yet.
 
 When you don't need a field in a custom object anymore, you can delete it.
 
-1. On the Fields tab, click **Field Actions** and **Delete Field**.
+1. On the **[!UICONTROL Fields]** tab, click **[!UICONTROL Field Actions]** and **[!UICONTROL Delete Field]**.
 
    ![](assets/image2015-10-2-11-3a11-3a20.png)
 
-   Make sure you really want to delete the field before you pull the trigger! Click **Delete**.
+   Make sure you really want to delete the field before you pull the trigger! Click **[!UICONTROL Delete]**.
 
    ![](assets/image2015-10-2-11-3a14-3a5.png)
 
