@@ -10,7 +10,7 @@ You might have a lot of [keywords](/help/marketo/product-docs/additional-apps/se
 
 ## Filter by list {#filter-by-list}
 
-1. Go to the **Keywords** section.
+1. Go to the **[!UICONTROL Keywords]** section.
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -40,10 +40,10 @@ Sweet! You will now only be looking at keywords on that list.
 
    You can also find the keywords you are looking for using the search field in the upper right hand corner.
 
-1. Go to the **Keywords** section.
+1. Go to the **[!UICONTROL Keywords]** section.
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
-1. Enter your keyword into the search field.
+1. Enter your keyword into the [!UICONTROL search] field.
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)
