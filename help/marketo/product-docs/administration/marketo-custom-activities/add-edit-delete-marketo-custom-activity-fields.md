@@ -74,7 +74,7 @@ Your field is now edited!
 
 ## Delete a Custom Activity Field {#delete-a-custom-activity-field}
 
-1. In Marketo Custom Activities, click **Fields**.
+1. In **[!UICONTROL Marketo Custom Activities]**, click **[!UICONTROL Fields]**.
 
    ![](assets/one-3.png)
 
