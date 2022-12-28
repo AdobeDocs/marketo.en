@@ -29,9 +29,9 @@ The triggers will execute based on actions from the Marketo Flow Action “Add t
 
 >[!NOTE]
 >
->Make sure the Campaign Sync is functional and the campaign is not inactive in Microsoft Dynamics.
+>Make sure the Campaign Sync is functional and the campaign is not inactive in Microsoft [!DNL Dynamics].
 
 >[!MORELIKETHIS]
 >
 >* [Enable Campaign Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
->* [Add or Remove People from your Dynamics Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
+>* [Add or Remove People from your [!DNL Dynamics] Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
