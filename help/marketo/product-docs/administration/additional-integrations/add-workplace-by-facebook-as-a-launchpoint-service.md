@@ -17,7 +17,7 @@ There are two notification types included in the [!DNL Workplace] integration:
 
 >[!PREREQUISITES]
 >
->If you don't have [!DNL Workplace Notifications] already enabled, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+>If you don't have [!DNL Workplace] Notifications already enabled, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
