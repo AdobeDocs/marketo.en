@@ -8,7 +8,7 @@ exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 
 Here's how to change the field type of a Custom Field.
 
-1. Go to **Admin** and click **Field Management**.
+1. Go to **[!UICONTROL Admin]** and click **[!UICONTROL Field Management]**.
 
    ![](assets/image2014-9-18-13-3a4-3a39.png)
 
@@ -16,7 +16,7 @@ Here's how to change the field type of a Custom Field.
 
    ![](assets/image2014-9-18-13-3a4-3a48.png)
 
-1. In the **Field Actions** drop-down, click **Change Type**.
+1. In the **[!UICONTROL Field Actions]** drop-down, click **[!UICONTROL Change Type]**.
 
    ![](assets/image2014-9-18-13-3a4-3a57.png)
 
@@ -28,7 +28,7 @@ Here's how to change the field type of a Custom Field.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
-1. Read the warning, then click **Change** to confirm.
+1. Read the warning, then click **[!UICONTROL Change]** to confirm.
 
    ![](assets/image2014-9-18-13-3a5-3a23.png)
 
@@ -38,4 +38,4 @@ Here's how to change the field type of a Custom Field.
 
    >[!MORELIKETHIS]
    >
-   >[Create a Custom Field in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+   >[Create a [!UICONTROL Custom Field] in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
