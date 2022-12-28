@@ -24,7 +24,7 @@ Workspaces can be for any reason (such as business unit or geography separation)
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
-1. Select the **Role and Workspace** you want the user to have access to.
+1. Select the **[!UICONTROL Role and Workspace]** you want the user to have access to.
 
    >[!NOTE]
    >
