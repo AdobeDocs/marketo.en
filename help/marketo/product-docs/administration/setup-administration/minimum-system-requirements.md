@@ -12,7 +12,7 @@ If you are wondering what you need to log in and use Marketo, here's the informa
 >
 >iOS and Android are not yet supported.
 
-* Computer or laptop running Windows, OS X, or Linux
+* Computer or laptop running [!DNL Windows], [!DNL OS X], or [!DNL Linux]
 * Keyboard and mouse
 * Monitor with a minimum resolution of 1280 x 768
 * Up-to-date browser, see [Supported Browsers](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md){target="_blank"} for details
