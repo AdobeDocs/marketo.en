@@ -10,8 +10,8 @@ exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 >
 >This feature is available only:
 >
->* For customers on the Orion infrastructure
->* For use only with Marketo custom objects, not custom objects synced through the native Salesforce or Microsoft Dynamics integration
+>* For customers on the [!DNL Orion] infrastructure
+>* For use only with Marketo custom objects, not custom objects synced through the native [!DNL Salesforce] or [!DNL Microsoft Dynamics] integration
 >* As a trigger, not a filter
 >
 >Please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) to have Custom Object Change Triggers enabled.
@@ -22,11 +22,11 @@ In a smart campaign's smart list, you can trigger a flow action when a custom ob
 >
 >An activity log entry is not created when a custom object record is changed.
 
-1. In Marketo, go to **Marketing Activities.**
+1. In Marketo, go to **[!UICONTROL Marketing Activities].**
 
    ![](assets/image2016-7-25-15-3a49-3a52.png)
 
-1. Create or open an existing Smart Campaign, and select the Smart List.
+1. Create or open an existing Smart Campaign, and select the **[!UICONTROL Smart List]**.
 
    ![](assets/image2016-7-25-16-3a9-3a19.png)
 
@@ -34,7 +34,7 @@ In a smart campaign's smart list, you can trigger a flow action when a custom ob
 
    ![](assets/image2016-7-25-16-3a16-3a43.png)
 
-1. Select the trigger attribute.
+1. Select the **[!UICONTROL Trigger Attribute]**.
 
    ![](assets/image2016-7-25-16-3a21-3a42.png)
 
