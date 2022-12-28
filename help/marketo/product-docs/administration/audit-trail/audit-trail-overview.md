@@ -39,7 +39,7 @@ Marketo will audit the [create, edit and delete](/help/marketo/product-docs/admi
 
 >[!NOTE]
 >
->Marketo is _not_ auditing changes made within [!DNL Web Personalization], [!DNL Predictive Content], or [!DNL Sales Insight] at this time.
+>Marketo is _not_ auditing changes made within Web Personalization, Predictive Content, or Sales Insight at this time.
 
 ## Audit Trail Components {#audit-trail-components}
 
