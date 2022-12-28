@@ -26,7 +26,7 @@ In a smart campaign's smart list, you can trigger a flow action when a custom ob
 
    ![](assets/image2016-7-25-15-3a49-3a52.png)
 
-1. Create or open an existing Smart Campaign, and select the **[!UICONTROL Smart List]**.
+1. Create or open an existing Smart Campaign, and select the Smart List.
 
    ![](assets/image2016-7-25-16-3a9-3a19.png)
 
