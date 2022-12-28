@@ -8,15 +8,15 @@ exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
 
 You've got pages! Marketo SEO will automatically crawl your site and tracking them. In case we missed a few, get them in the SEO app like this:
 
-1. Go to the **Pages** section.
+1. Go to the **[!UICONTROL Pages]** section.
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. Click **Add Pages**.
+1. Click **[!UICONTROL Add Pages]**.
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. Type in the URLs you'd like to add. Click **Add**.
+1. Type in the URLs you'd like to add. Click **[!UICONTROL Add]**.
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 
