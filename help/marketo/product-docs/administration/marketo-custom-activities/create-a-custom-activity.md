@@ -12,27 +12,27 @@ Follow these steps to create a new custom activity.
 >
 >Most subscriptions have an allocated limit of 10 Custom Activity types.
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. In **Database Management** click **Custom Activities**.
+1. In **[!UICONTROL Database Management]** click **[!UICONTROL Custom Activities]**.
 
    ![](assets/two.png)
 
-1. Click **New Custom Activity**.
+1. Click **[!UICONTROL New Custom Activity]**.
 
    ![](assets/three.png)
 
-1. Enter a name and optional description, then click **Next**. The API Name auto-fills, but can be customized.
+1. Enter a name and optional [!UICONTROL Description], then click **[!UICONTROL Next]**. The [!UICONTROL API Name] auto-fills, but can be customized.
 
    ![](assets/four.png)
 
    >[!CAUTION]
    >
-   >If you decide to change the API name, make sure the name does not conflict with fields in other custom activities.
+   >If you decide to change the [!UICONTROL API Name], make sure the name does not conflict with fields in other custom activities.
 
-1. Define your **Filter** and **Trigger** and click **Next**.
+1. Define your **[!UICONTROL Filter]** and **[!UICONTROL Trigger]** and click **[!UICONTROL Next]**.
 
    ![](assets/five.png)
 
