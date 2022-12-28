@@ -24,7 +24,7 @@ You can keep all your keywords nice and organized by using lists. This will make
 
    >[!TIP]
    >
-   >You can also make a new list for your keywords. Just type the name in [!UICONTROL Create a new list].
+   >You can also make a new list for your keywords. Just type the name in **[!UICONTROL Create a new list]**.
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
