@@ -4,9 +4,9 @@ description: SEO - Understanding Inbound Links - Marketo Docs - Product Document
 title: SEO - Understanding Inbound Links
 exl-id: 2f70cff9-1873-4083-927d-a65cae98af54
 ---
-# SEO - Understanding Inbound Links {#seo-understanding-inbound-links}
+# SEO - Understanding [!UICONTROL Inbound Links] {#seo-understanding-inbound-links}
 
-Inbound links indicate to search engines that your site is worth referencing. That's good!
+[!UICONTROL Inbound links] indicate to search engines that your site is worth referencing. That's good!
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 
@@ -14,14 +14,14 @@ Inbound links indicate to search engines that your site is worth referencing. Th
 
 | Column Title |Description |
 |---|---|
-| URL of Inbound Link |The webpage in question.  |
-| Priority |How valuable this opportunity is to your page ranking. |
-| Links to competitor  |Whether a competitor is linked to in that URL. |
-| Links to my site |Whether your site is linked to in that URL.  |
-| Links from my site |Indicates if your site links to that URL.  |
-| PageRank  |Identifies that URLs page rank in search (1 - 10) |
+| [!UICONTROL URL of Inbound Link] |The webpage in question.  |
+| [!UICONTROL Priority] |How valuable this opportunity is to your page ranking. |
+| [!UICONTROL Links to competitor]  |Whether a competitor is linked to in that URL. |
+| [!UICONTROL Links to my site] |Whether your site is linked to in that URL.  |
+| [!UICONTROL Links from my site] |Indicates if your site links to that URL.  |
+| [!UICONTROL PageRank]  |Identifies that URLs page rank in search (1 - 10) |
 
-Sweet! Now that you understand inbound links, we can suggest more inbound link opportunities for your site.
+Sweet! Now that you understand [!UICONTROL inbound links], we can suggest more inbound link opportunities for your site.
 
 >[!MORELIKETHIS]
 >
