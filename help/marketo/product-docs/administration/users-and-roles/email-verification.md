@@ -15,7 +15,7 @@ When an Admin invites a user, that user is automatically verified once they clic
 
 **Changing an Email Address**
 
-When a user's email address is changed, it becomes unverified. An email will be sent to them allowing them to re-verify. Users can manually resend that email by clicking **Resend Verification**.
+When a user's email address is changed, it becomes unverified. An email will be sent to them allowing them to re-verify. Users can manually resend that email by clicking **[!UICONTROL Resend Verification]**.
 
    ![](assets/email-verification-1.png)
 
@@ -23,8 +23,8 @@ When a user's email address is changed, it becomes unverified. An email will be 
 
 **Users and Roles**
 
-In Admin > Users & Roles, the Email Status column shows the verification status of every user.
+In **[!UICONTROL Admin]** > **[!UICONTROL Users & Roles]**, the **[!UICONTROL Email]** Status column shows the verification status of every user.
 
    ![](assets/email-verification-3.png)
 
-To resend a verification email to an unverified user, simply select their record and click the **Verify Email** button.
+To resend a verification email to an unverified user, simply select their record and click the **[!UICONTROL Verify Email]** button.
