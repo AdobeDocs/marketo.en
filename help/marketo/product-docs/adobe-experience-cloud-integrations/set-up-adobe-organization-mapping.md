@@ -6,7 +6,7 @@ exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 ---
 # Set up Adobe Organization Mapping {#set-up-adobe-organization-mapping}
 
-In order to sync with Adobe applications, such as Audience Manager, the B2B CDP Marketo connector, Dynamic Chat, etc., you must first enter your Adobe IMS Org credentials in Marketo.
+In order to sync with Adobe applications, such as Audience Manager, the B2B CDP Marketo connector, [!DNL Dynamic Chat], etc., you must first enter your Adobe IMS Org credentials in Marketo.
 
 >[!NOTE]
 >
@@ -16,27 +16,27 @@ In order to sync with Adobe applications, such as Audience Manager, the B2B CDP 
 >
 >For customers onboarded to the Adobe Business Platform and Identity Management System, the Org ID associated with the subscription will already be populated and is a read-only field.
 
-1. In Marketo, click **Admin**.
+1. In Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-1.png)
 
-1. Under Integration, click **Adobe Organization Mapping**.
+1. Under **[!UICONTROL Integration]**, click **[!UICONTROL Adobe Organization Mapping]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-2.png)
 
-1. Click **Edit**.
+1. Click **[!UICONTROL Edit]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Enter your Adobe IMS Org ID (learn how to find that [here](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)) and click **OK**.
+1. Enter your Adobe IMS Org ID (learn how to find that [here](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)) and click **[!UICONTROL OK]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
-1. Click **Confirm**.
+1. Click **[!UICONTROL Confirm]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-5.png)
 
-1. Click **Close**.
+1. Click **[!UICONTROL Close]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 
