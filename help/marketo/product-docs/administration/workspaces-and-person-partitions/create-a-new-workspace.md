@@ -33,7 +33,7 @@ Here's how to create a new workspace.
 
    ![](assets/two-1.png)
 
-1. Enter a **[!UICONTROL Name]**, and select the **[!UICONTROL Person Partition(s)]** you want to use. Choose a **[!UICONTROL Primary Person Partition]**.
+1. Enter a **[!UICONTROL Name]**, and select the **[!UICONTROL Person Partitions]** you want to use. Choose a **[!UICONTROL Primary Person Partition]**.
 
    >[!NOTE]
    >
