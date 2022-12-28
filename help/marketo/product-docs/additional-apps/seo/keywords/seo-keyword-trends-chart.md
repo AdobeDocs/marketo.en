@@ -8,7 +8,7 @@ exl-id: 093f713b-e9f1-48d6-b4d8-7c5ef349a2ae
 
 It's important to monitor how your keyword [SERP Ranks](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) are trending over time. Check this cool chart to monitor progress.
 
-1. Go to the **Keywords** section.
+1. Go to the **[!UICONTROL Keywords]** section.
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
