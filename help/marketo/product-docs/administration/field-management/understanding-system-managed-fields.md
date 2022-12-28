@@ -34,16 +34,16 @@ Below are some possible values and what they mean.
 
 | **Original Source Type** |**Definition** |
 |---|---|
-| Salesforce.com |Person was discovered from a Salesforce sync |
+| Salesforce.com |Person was discovered from a [!DNL Salesforce] sync |
 | Web Page Visits |Person was discovered from a web page |
 | Web Form Fillout |Person was discovered after filling out a form |
 | List Import |Person was discovered from a list import |
 | New Person |Person was manually entered into the database |
 | Web Link Click |Person was discovered after clicking on a link |
-| Sales Email |Person was sent an email via Sales Insight Email Add-In |
-| Person |Person was synced over from Salesforce as a person |
-| Contact |Person was synced over from Salesforce as a contact |
-| Munchkin API |Person was discovered by Marketo's Munchkin API |
+| Sales Email |Person was sent an email via [!DNL Sales Insight] Email Add-In |
+| Person |Person was synced over from [!DNL Salesforce] as a person |
+| Contact |Person was synced over from [!DNL Salesforce] as a contact |
+| [!DNL Munchkin] API |Person was discovered by Marketo's [!DNL Munchkin] API |
 | Social App |Person was discovered by a social widget |
 | Web Service API |Person was discovered by a web service API |
 | Event Partner |Person was discovered through a synced webinar service |
@@ -52,11 +52,11 @@ Below are some possible values and what they mean.
 | **Registration Source Type** |**Definition** |
 |---|---|
 | List Import |Became a person through a list import |
-| Salesforce.com |Became a person through a Salesforce sync |
+| Salesforce.com |Became a person through a [!DNL Salesforce] sync |
 | Web Form Fillout |Became a person after filling out a form |
-| Sales Email |Person was sent an email via Sales Insight Email Add-In |
+| Sales Email |Person was sent an email via [!DNL Sales Insight] Email Add-In |
 | Web Service API |Person was created via SOAP/REST API |
 | New Person |Person was manually entered into the database |
-| Munchkin API |Became a person through Marketo's Munchkin API |
+| [!DNL Munchkin] API |Became a person through Marketo's [!DNL Munchkin] API |
 | Social App |Became a person through a social widget |
 | Event Partner |Became a person through a linked webinar service |
