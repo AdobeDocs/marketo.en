@@ -20,15 +20,15 @@ Users can change the name of a workspace. It's pretty simple.
 >
 >Understand first with [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Under **Admin**, click **Workspaces & Partitions.**
+1. Under **[!UICONTROL Admin]**, click **[!UICONTROL Workspaces & Partitions].**
 
    ![](assets/image2014-9-17-11-3a8-3a28.png)
 
-1. Select the Workspace and click **Edit Workspace**.
+1. Select the Workspace and click **[!UICONTROL Edit Workspace]**.
 
    ![](assets/two-4.png)
 
-1. Enter a new **Name** for your Workspace and click **Save.**
+1. Enter a new **[!UICONTROL Name]** for your Workspace and click **[!UICONTROL Save].**
 
    ![](assets/three-4.png)
 
