@@ -10,7 +10,7 @@ If you're [using SSO](/help/marketo/product-docs/administration/additional-integ
 
 >[!IMPORTANT]
 >
->This article does not apply to [[!DNL Adobe IMS-enabled]](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) Marketo subscriptions.
+>This article does not apply to [Adobe IMS-enabled](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) Marketo subscriptions.
 
 >[!NOTE]
 >
@@ -48,6 +48,6 @@ That's it! Now all users (except users with permission to bypass single sign-on)
 
 >[!MORELIKETHIS]
 >
->* [Add [!DNL Single Sign-On] to a Portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
+>* [Add Single Sign-On to a Portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
 >* [Using a Universal ID for Subscription Login](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
 >* [Inviting Marketo Users to Two Instances with Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
