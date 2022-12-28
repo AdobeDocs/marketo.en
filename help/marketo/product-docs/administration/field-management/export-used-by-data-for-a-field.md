@@ -12,11 +12,11 @@ As an Admin, you have the ability to export related assets of a field so you can
 >
 >**Admin Permissions Required**
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. Click **Field Management**.
+1. Click **[!UICONTROL Field Management]**.
 
    ![](assets/two-3.png)
 
@@ -24,11 +24,11 @@ As an Admin, you have the ability to export related assets of a field so you can
 
    ![](assets/three.png)
 
-1. Click the **Field Actions** drop-down and select **Export Used By**.
+1. Click the **[!UICONTROL Field Actions]** drop-down and select **[!UICONTROL Export Used By]**.
 
    ![](assets/four.png)
 
-1. An Excel file will export. Open it to view its content.
+1. An [!DNL Excel] file will export. Open it to view its content.
 
    ![](assets/five-1.png)
 
