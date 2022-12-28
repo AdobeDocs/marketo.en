@@ -24,29 +24,29 @@ exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 
 ## Create a Role {#create-a-role}
 
-1. Go to **Admin** and click **Users & Roles**.
+1. Go to **[!UICONTROL Admin]** and click **[!UICONTROL Users & Roles]**.
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. Go to the **Roles tab** and click **New Role**.
+1. Go to the **[!UICONTROL Roles]** tab and click **[!UICONTROL New Role]**.
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
-1. Name your new role, check all the permissions you want to grant to users associated with the role, and click **Create**.
+1. Name your new role, check all the **[!UICONTROL Permissions]** you want to grant to users associated with the role, and click **Create**.
 
    ![](assets/image2014-9-16-13-3a31-3a19.png)
 
 ## Delete a Role {#delete-a-role}
 
-1. Under **Admin**, click **Users & Roles**.
+1. Under **[!UICONTROL Admin]**, click **[!UICONTROL Users & Roles]**.
 
    ![](assets/image2014-9-16-13-3a31-3a42.png)
 
-1. Under the **Roles** tab, select a role and click **Delete Role**.
+1. Under the **[!UICONTROL Roles]** tab, select a role and click **[!UICONTROL Delete Role]**.
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
-1. Confirm the deletion by clicking **Delete**.
+1. Confirm the deletion by clicking **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-16-13-3a32-3a25.png)
 
@@ -60,19 +60,19 @@ exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 >
 >To edit your own user role, you'll have to log in as another user with Admin rights.
 
-1. Go to **Admin** and click **Users & Roles**.
+1. Go to **[!UICONTROL Admin]** and click **[!UICONTROL Users & Roles]**.
 
    ![](assets/image2014-9-16-13-3a34-3a2.png)
 
-1. Click the **Roles** tab.
+1. Click the **[!UICONTROL Roles]** tab.
 
    ![](assets/image2014-9-16-13-3a34-3a22.png)
 
-1. Select the role you want to edit and click **Edit Role**.
+1. Select the role you want to edit and click **[!UICONTROL Edit Role]**.
 
    ![](assets/image2014-9-16-13-3a34-3a37.png)
 
-1. Make all the changes you need and click **Save**.
+1. Make all the changes you need and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-16-13-3a35-3a16.png)
 
@@ -86,15 +86,15 @@ exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 
 ## Change a User's Role {#change-a-users-role}
 
-1. Go to **Admin** and click **Users & Roles**.
+1. Go to **[!UICONTROL Admin]** and click **[!UICONTROL Users & Roles]**.
 
    ![](assets/image2014-9-16-13-3a35-3a49.png)
 
-1. Select the user you want to assign a different role to and click **Edit User.**
+1. Select the user you want to assign a different role to and click **[!UICONTROL Edit User].**
 
    ![](assets/image2014-9-16-13-36-8.png)
 
-1. Uncheck the previous role, select the new one, then click **Save**.
+1. Uncheck the previous role, select the new one, then click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-16-13-3a36-3a35.png)
 
