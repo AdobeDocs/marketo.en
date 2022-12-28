@@ -64,4 +64,4 @@ To view the User Login History:
 
    >[!NOTE]
    >
-   >[[!DNL Audit Trail] Overview](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
+   >[Audit Trail Overview](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
