@@ -26,7 +26,7 @@ Learn how to connect your [!DNL BrightTALK] channel to your Marketo instance. In
 
 1. Create an [API Only User Role](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}.
 
-1. [Create an API User](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"}, using the [!DNL BrightTALK API Role] you created during Step 4.
+1. [Create an API User](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"}, using the [!DNL BrightTALK] API Role you created during Step 4.
 
 1. Go back to the **[!UICONTROL Admin]** area.
 
@@ -60,11 +60,11 @@ Learn how to connect your [!DNL BrightTALK] channel to your Marketo instance. In
 
    ![](assets/connect-brighttalk-to-marketo-7.png)
 
-1. Under [!UICONTROL Integration], select **[!UICONTROL Web Services]**.
+1. Under **[!UICONTROL Integration]**, select **[!UICONTROL Web Services]**.
 
    ![](assets/connect-brighttalk-to-marketo-8.png)
 
-1. Under [!UICONTROL Rest API], copy (and save) the **[!UICONTROL Endpoint]** and **[!UICONTROL Identity]**.
+1. Under **[!UICONTROL Rest API]**, copy (and save) the **[!UICONTROL Endpoint]** and **[!UICONTROL Identity]**.
 
    ![](assets/connect-brighttalk-to-marketo-9.png)
 
