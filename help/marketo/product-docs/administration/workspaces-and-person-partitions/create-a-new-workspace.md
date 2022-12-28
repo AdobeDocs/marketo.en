@@ -25,15 +25,15 @@ Here's how to create a new workspace.
 >
 >To learn more about Workspace best practices, please contact [Marketo Professional Services](mailto:services@marketo.com).
 
-1. Under **Admin**, click on **Workspaces & Partitions**.
+1. Under **[!UICONTROL Admin]**, click on **[!UICONTROL Workspaces & Partitions]**.
 
    ![](assets/image2014-9-17-11-3a59-3a11.png)
 
-1. Click on **New Workspace**.
+1. Click on **[!UICONTROL New Workspace]**.
 
    ![](assets/two-1.png)
 
-1. Enter a **Name**, and select the **Person Partition(s)** you want to use. Choose a **Primary Person Partition**.
+1. Enter a **[!UICONTROL Name]**, and select the **[!UICONTROL Person Partition(s)]** you want to use. Choose a **[!UICONTROL Primary Person Partition]**.
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ Here's how to create a new workspace.
 
    ![](assets/five.png)
 
-1. Click **Create**.
+1. Click **[!UICONTROL Create]**.
 
    ![](assets/six.png)
 
