@@ -22,28 +22,28 @@ Against email link click and email open activity, new attributes will be populat
 * Activities that are identified as not bots will have "Bot Activity" as "False" and "Bot Activity Pattern" as "N/A"
 * Activities that happened before we introduced these attributes will have "Bot Activity" as " " (empty) and "Bot Activity Pattern" as " " (empty)
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. Click **Email**.
+1. Click **[!UICONTROL Email]**.
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. Click the **Bot Activity** tab.
+1. Click the **[!UICONTROL Bot Activity]** tab.
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Choose to **Match with IAB List**, **Match with Proximity Pattern**, or both. Choose whether to log bot activity _or_ filter bot activity.
+1. Choose to **[!UICONTROL Match with IAB List]**, **[!UICONTROL Match with Proximity Pattern]**, or both. Choose whether to **[!UICONTROL Log Bot Activity]** _or_ **[!UICONTROL Filter Bot Activity]**.
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->If you choose Filter Bot Activity, you may see a drop in email opens and clicks as false activities are weeded out.
+>If you choose [!UICONTROL Filter Bot Activity], you may see a drop in email opens and clicks as false activities are weeded out.
 
 **OPTIONAL STEP**: To disable this feature, simply deselect the slider(s). If you disable, the data does not reset.
 
 >[!TIP]
 >
->Leverage bot activity data in Smart Lists via "Is Bot Activity" boolean (yes/no) and "Bot Activity Pattern" in the "Clicked Link in Email" and "Open Email" filters, and "Clicks Link in Email" and "Opens Email" triggers.
+>Leverage bot activity data in [!DNL Smart Lists] via "Is Bot Activity" boolean (yes/no) and "Bot Activity Pattern" in the "Clicked Link in Email" and "Open Email" filters, and "Clicks Link in Email" and "Opens Email" triggers.
