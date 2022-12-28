@@ -10,15 +10,15 @@ Marketo SEO can suggest which keywords you should be tracking. We can give sugge
 
 ## Get Keyword Suggestions Using a Keyword {#get-keyword-suggestions-using-a-keyword}
 
-1. Go to the **Keywords** section.
+1. Go to the **[!UICONTROL Keywords]** section.
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. Click **Get Suggestions**.
+1. Click **[!UICONTROL Get Suggestions]**.
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. Enter a **Keyword**. Click **Suggest Keywords**.
+1. Enter a **[!UICONTROL Keyword]**. Click **[!UICONTROL Suggest Keywords]**.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
@@ -26,7 +26,7 @@ Marketo SEO can suggest which keywords you should be tracking. We can give sugge
    >
    >Did you know you can  [add your keyword to a new or existing list](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) right here?
 
-1. Select suggested keyword(s). Click **Add Selected**.
+1. Select suggested keyword(s). Click **[!UICONTROL Add Selected]**.
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
@@ -38,19 +38,19 @@ Marketo SEO can suggest which keywords you should be tracking. We can give sugge
 
 ## Get Keyword Suggestions From a URL  {#get-keyword-suggestions-from-a-url}
 
-1. Go to the **Keywords** section.
+1. Go to the **[!UICONTROL Keywords]** section.
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. Click **Get Suggestions**.
+1. Click **[!UICONTROL Get Suggestions]**.
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. Set **Suggest by** to **URL**.
+1. Set **[!UICONTROL Suggest by]** to **[!UICONTROL URL]**.
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. Enter a **URL** and click **Suggest Keywords**.
+1. Enter a **[!UICONTROL URL]** and click **[!UICONTROL Suggest Keywords]**.
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
@@ -58,7 +58,7 @@ Marketo SEO can suggest which keywords you should be tracking. We can give sugge
    >
    >Did you know you can [add your keyword to a new or existing list](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) right here?
 
-1. Select suggested keyword(s). Click **Add Selected**.
+1. Select suggested keyword(s). Click **[!UICONTROL Add Selected]**.
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
