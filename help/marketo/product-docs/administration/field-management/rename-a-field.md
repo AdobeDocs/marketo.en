@@ -14,7 +14,7 @@ exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 >
 >**Admin Permissions Required**
 
-1. Go to Admin and click **Field Management**.
+1. Go to **[!UICONTROL Admin]** and click **[!UICONTROL Field Management]**.
 
    ![](assets/image2014-9-24-14-3a2-3a25.png)
 
@@ -22,11 +22,11 @@ exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 
    >[!TIP]
    >
-   >Click the **Used By** link to find assets that reference this field.
+   >Click the **[!UICONTROL Used By]** link to find assets that reference this field.
 
    ![](assets/changefieldname.png)
 
-1. Rename the field and click **Save**.
+1. Rename the field and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-24-14-2-55.png)
 
@@ -34,4 +34,4 @@ Nice job! You now know how to rename fields in Marketo.
 
 >[!CAUTION]
 >
->If you rename the API name in Salesforce, Marketo will create a brand new field and leave the old one behind!
+>If you rename the API name in [!DNL Salesforce], Marketo will create a brand new field and leave the old one behind!
