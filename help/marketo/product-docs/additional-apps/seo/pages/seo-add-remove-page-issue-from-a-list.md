@@ -10,15 +10,15 @@ You can organize your page issues into lists. You can also remove page issues fr
 
 ## Add Page Issues to a List {#add-page-issues-to-a-list}
 
-1. Go to the **Pages** section.
+1. Go to the **[!UICONTROL Pages]** section.
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. On the Pages tab, click **Issues**.
+1. On the Pages tab, click **[!UICONTROL Issues]**.
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. Hover over the page issue you want to add. Click **Add/Remove From List**.
+1. Hover over the page issue you want to add. Click **[!UICONTROL Add/Remove From List]**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
@@ -28,15 +28,15 @@ You can organize your page issues into lists. You can also remove page issues fr
 
    >[!TIP]
    >
-   >You can also make a new list for your keyword to go. Just type your desired name in Create a new list.
+   >You can also make a new list for your keyword to go. Just type your desired name in **[!UICONTROL Create a new list]**.
 
 ## Remove Page Issue From a List {#remove-page-issue-from-a-list}
 
-1. Go to the Pages section.
+1. Go to the **[!UICONTROL Pages]** section.
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. On the pages tab, click **Issues**.
+1. On the pages tab, click **[!UICONTROL Issues]**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
@@ -44,7 +44,7 @@ You can organize your page issues into lists. You can also remove page issues fr
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Hover over the page issue you want to remove. Click **Add/Remove From List**.
+1. Hover over the page issue you want to remove. Click **[!UICONTROL Add/Remove From List]**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 
