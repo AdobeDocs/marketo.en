@@ -32,15 +32,15 @@ If you're using Marketo with Adobe Identity, the list of profile descriptions [c
 
 You can assign roles to a user when you [create users for the first time](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) or by [editing an existing user](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
-1. To edit an existing user, go to **Admin** and click **Users & Roles**.
+1. To edit an existing user, go to **[!UICONTROL Admin]** and click **[!UICONTROL Users & Roles]**.
 
    ![](assets/image2014-9-9-18-3a7-3a32.png)
 
-1. From the list, select the user you wish to edit and click **Edit User**.
+1. From the list, select the user you wish to edit and click **[!UICONTROL Edit User]**.
 
    ![](assets/image2014-9-9-18-3a7-3a42.png)
 
-1. Under **Roles**, select the roles you want to assign to the user, based on the permissions they need, and click **Save**.
+1. Under **[!UICONTROL Roles]**, select the roles you want to assign to the user, based on the permissions they need, and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-9-18-3a7-3a57.png)
 
@@ -52,19 +52,19 @@ You can assign roles to a user when you [create users for the first time](/help/
 
 Sometimes, your organization has employees in very specific roles that require a custom combination of permissions.  
 
-1. To create a new user role, go to Admin and click **Users & Roles**.
+1. To create a new user role, go to **[!UICONTROL Admin]** and click **[!UICONTROL Users & Roles]**.
 
    ![](assets/image2014-9-9-18-3a8-3a12.png)
 
-1. Click the **Roles** tab.
+1. Click the **[!UICONTROL Roles]** tab.
 
    ![](assets/image2014-9-9-18-3a8-3a22.png)
 
-1. Click **New Role**.
+1. Click **[!UICONTROL New Role]**.
 
    ![](assets/image2014-9-9-18-3a8-3a38.png)
 
-1. Enter a **Role Name**, a **Description** (optional), and select the permissions that users in this role will need.
+1. Enter a **[!UICONTROL Role Name]**, a **[!UICONTROL Description]** (optional), and select the **[!UICONTROL Permissions]** that users in this role will need.
 
    ![](assets/image2014-9-9-18-3a9-3a3.png)
 
@@ -72,19 +72,19 @@ Sometimes, your organization has employees in very specific roles that require a
 
 If you need to change the permissions that are associated with an existing role, you can edit the role.
 
-1. Go to **Admin** and click **Users & Roles**.
+1. Go to **[!UICONTROL Admin]** and click **[!UICONTROL Users & Roles]**.
 
    ![](assets/image2014-9-9-18-3a9-3a15.png)
 
-1. Click the **Roles** tab.
+1. Click the **[!UICONTROL Roles]** tab.
 
    ![](assets/image2014-9-9-18-3a9-3a26.png)
 
-1. From the list, select the role you wish to modify and click **Edit Role**.
+1. From the list, select the role you wish to modify and click **[!UICONTROL Edit Role]**.
 
    ![](assets/image2014-9-9-18-3a9-3a40.png)
 
-1. Change the **Role Name** and **Description** if necessary, and then change the selection of associated **Permissions**.
+1. Change the **[!UICONTROL Role Name]** and **[!UICONTROL Description]** if necessary, and then change the selection of associated **[!UICONTROL Permissions]**.
 
    ![](assets/image2014-9-9-18-3a10-3a3.png)
 
@@ -96,18 +96,18 @@ If you need to change the permissions that are associated with an existing role,
 
 If a role becomes unnecessary, you can delete it.  
 
-1. Go to Admin and click **Users & Roles**.
+1. Go to **[!UICONTROL Admin]** and click **[!UICONTROL Users & Roles]**.
 
    ![](assets/image2014-9-9-18-3a10-3a15.png)
 
-1. Click the **Roles** tab.
+1. Click the **[!UICONTROL Roles]** tab.
 
    ![](assets/image2014-9-9-18-3a10-3a27.png)
 
-1. From the list, select the role you want to delete and click **Delete Role**.
+1. From the list, select the role you want to delete and click **[!UICONTROL Delete Role]**.
 
    ![](assets/image2014-9-9-18-3a10-3a39.png)
 
-1. Click **Delete** to confirm.
+1. Click **[!UICONTROL Delete]** to confirm.
 
    ![](assets/image2014-9-9-18-3a10-3a50.png)
