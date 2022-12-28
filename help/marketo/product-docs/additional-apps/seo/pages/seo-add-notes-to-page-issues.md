@@ -10,15 +10,15 @@ Did you know you can add notes to page issues as personal reminders or team mess
 
 ## Adding Notes in Page Issues Section {#adding-notes-in-page-issues-section}
 
-1. Go to the Pages section.
+1. Go to the **[!UICONTROL Pages]** section.
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. On the pages tab, click **Issues**.
+1. On the pages tab, click **[!UICONTROL Issues]**.
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. Hover over the issue you'd like to add a note to. Click **Add Sticky Note**.
+1. Hover over the issue you'd like to add a note to. Click **[!UICONTROL Add Sticky Note]**.
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
@@ -28,11 +28,11 @@ Did you know you can add notes to page issues as personal reminders or team mess
 
 >[!TIP]
 >
->You can delete your note by clicking the small **x** in the upper left hand corner.
+>You can delete your note by clicking the small **[!UICONTROL x]** in the upper left hand corner.
 
 ## Add Notes in Page Detail Drill Down {#add-notes-in-page-detail-drill-down}
 
-1. Go to the Pages section.
+1. Go to the **[!UICONTROL Pages]** section.
 
    ![](assets/image2014-9-18-13-3a12-3a59.png)
 
@@ -40,11 +40,11 @@ Did you know you can add notes to page issues as personal reminders or team mess
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Hover over the page issue you'd like to add a note to and click **Add Note**.
+1. Hover over the page issue you'd like to add a note to and click **[!UICONTROL Add Note]**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. Enter your note. Click **Save**.
+1. Enter your note. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 
