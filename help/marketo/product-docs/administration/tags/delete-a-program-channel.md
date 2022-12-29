@@ -10,15 +10,15 @@ Program channels are a collection of statuses or checkpoints leads should go thr
 
 If you make one by accident or no longer need one, you can delete it.
 
-1. Go to the **Admin** section.
+1. Go to the **[!UICONTROL Admin]** section.
 
    ![](assets/image2014-9-24-16-3a6-3a41.png)
 
-1. Click **Tags**.
+1. Click **[!UICONTROL Tags]**.
 
    ![](assets/image2014-9-24-16-3a7-3a33.png)
 
-1. Select the channel you want to delete, under Tag Actions, click Delete.
+1. Select the channel you want to delete, under **[!UICONTROL Tag Actions]**, click **[!UICONTROL Delete]**.
 
    >[!TIP]
    >
