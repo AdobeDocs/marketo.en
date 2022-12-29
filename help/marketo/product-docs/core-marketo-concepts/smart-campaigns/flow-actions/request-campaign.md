@@ -16,19 +16,19 @@ You can place people into a specific campaign by using the **Request Campaign** 
 
    ![](assets/one-5.png)
 
-1. Click **Person Actions**, hover over **Special**, and select **Request Campaign**.
+1. Click **[!UICONTROL Person Actions]**, hover over **[!UICONTROL Special]**, and select **[!UICONTROL Request Campaign]**.
 
    ![](assets/two-5.png)
 
-1. Select the campaign you want the person placed into and click **Run Now**.
+1. Select the campaign you want the person placed into and click **[!UICONTROL Run Now]**.
 
    ![](assets/three-4.png)
 
-1. On the upper-right of the screen, you'll see when it's done. Click **View Results**.
+1. On the upper-right of the screen, you'll see when it's done. Click **[!UICONTROL View Results]**.
 
    ![](assets/four-4.png)
 
-   Your person is now in the Requested Campaign.
+   Your person is now in the [!UICONTROL Requested Campaign].
 
    ![](assets/five-1.png)
 
