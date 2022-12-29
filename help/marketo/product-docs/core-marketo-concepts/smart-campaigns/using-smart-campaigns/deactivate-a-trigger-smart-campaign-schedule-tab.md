@@ -12,11 +12,11 @@ If you have an old trigger campaign that you need to deactivate, follow these st
 
    ![](assets/selectprogram-hands.png)
 
-1. Under the Schedule tab, click **Deactivate**.
+1. Under the **[!UICONTROL Schedule]** tab, click **[!UICONTROL Deactivate]**.
 
    ![](assets/deactivateprogram-hands.png)
 
-1. Confirm by clicking **Deactivate**.
+1. Confirm by clicking **[!UICONTROL Deactivate]**.
 
    ![](assets/image2014-9-22-13-3a59-3a6.png)
 
