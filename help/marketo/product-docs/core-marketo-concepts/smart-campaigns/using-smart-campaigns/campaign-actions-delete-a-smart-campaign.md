@@ -12,11 +12,11 @@ If you have an old smart campaign that you don't need anymore, you can delete it
 >
 >Be sure before you delete. Once you delete a smart campaign it cannot be restored.
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Navigate to your inactive smart campaign. Under **Campaign** **Actions**, click **Delete**.
+1. Navigate to your inactive smart campaign. Under **[!UICONTROL Campaign Actions]**, click **[!UICONTROL Delete]**.
 
    >[!TIP]
    >
@@ -24,7 +24,7 @@ If you have an old smart campaign that you don't need anymore, you can delete it
 
    ![](assets/image2014-9-22-16-3a41-3a55.png)
 
-1. Click **Delete** to confirm.
+1. Click **[!UICONTROL Delete]** to confirm.
 
    ![](assets/image2014-9-22-16-3a41-3a59.png)
 
