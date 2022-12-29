@@ -35,11 +35,11 @@ Some steps require help from your IT team.
 
 Congratulations! You're now in Marketo and can start exploring. You might want to invite your colleagues on the marketing team to join you. You can do this by adding new users.
 
-Go to the **Admin** area.
+Go to the **[!UICONTROL Admin]** area.
 
    >[!TIP]
    >
-   >While you're here, you can click **My Account** to change your account and location settings, as well as set a new subscription name.
+   >While you're here, you can click **[!UICONTROL My Account]** to change your account and location settings, as well as set a new subscription name.
 
    ![](assets/setup-steps-2.png)
 
@@ -47,15 +47,15 @@ Go to the **Admin** area.
    >
    >**Admin Permissions Required**
 
-   Click **Users & Roles**.
+   Click **[!UICONTROL Users & Roles]**.
 
    ![](assets/setup-steps-3.png)
 
-   Click **Invite New User**.
+   Click **[!UICONTROL Invite New User]**.
 
    ![](assets/setup-steps-4.png)
 
-   Fill out your colleague's email address, first name, and last name. _Setting an access expiration date is optional_. Click **Next**.
+   Fill out your colleague's email address, first name, and last name. _Setting an access expiration date is optional_. Click **[!UICONTROL Next]**.
 
    ![](assets/setup-steps-5.png)
 
@@ -67,7 +67,7 @@ Go to the **Admin** area.
    >
    >When the expiration date arrives, the user receives an expiration notification and the account is locked.
 
-   Select a role and click **Next**. Standard Users have access to all areas except Admin.
+   Select a role and click **[!UICONTROL Next]**. Standard Users have access to all areas except Admin.
 
    ![](assets/setup-steps-6.png)
 
@@ -79,7 +79,7 @@ Go to the **Admin** area.
 
    ![](assets/setup-steps-7.png)
 
-   The new user is now listed in the Users tab, and should receive an email with a link to create a password and a login. Next step!
+   The new user is now listed in the **[!UICONTROL Users]** tab, and should receive an email with a link to create a password and a login. Next step!
 
    ![](assets/setup-steps-8.png)
 
@@ -127,7 +127,7 @@ Go to the **Admin** area.
 
    ![](assets/setup-steps-10.png)
 
-   Copy the Account String from landing page settings.
+   Copy the [!UICONTROL Account String] from landing page settings.
 
    ![](assets/setup-steps-11.png)
 
@@ -163,17 +163,17 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
    >
    >Email and Landing Page CNAMEs must be different. Also, avoid CNAMEs like 'track' or 'link.' It is often flagged as spam
 
-   To find your Marketo tracking link, go to the **Admin** area.
+   To find your Marketo tracking link, go to the **[!UICONTROL Admin]** area.
 
    ![](assets/setup-steps-12.png)
 
-   Click **Email**.
+   Click **[!UICONTROL Email]**.
 
    ![](assets/setup-steps-13.png)
 
-   Copy the Tracking Link from your email settings.  
+   Copy the [!UICONTROL Tracking Link] from your email settings.  
   
-   The Tracking Link is in the form: `mkto-[a-z][4 digits].com`.
+   The [!UICONTROL Tracking Link] is in the form: `mkto-[a-z][4 digits].com`.
 
    ![](assets/setup-steps-14.png)
 
@@ -278,35 +278,35 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
    Once IT has completed their tasks, follow these steps to add your landing page and email CNAMEs, and to activate DKIM signing.
 
-   Go to the **Admin** area to Add Your Landing Page CNAME
+   Go to the **[!UICONTROL Admin]** area to Add Your Landing Page CNAME
 
    ![](assets/setup-steps-15.png)
 
-   Select Landing Pages and click **Edit** in the Settings area.
+   Select Landing Pages and click **[!UICONTROL Edit]** in the [!UICONTROL Settings] area.
 
    ![](assets/setup-steps-16.png)
 
-   Enter your new domain name in the field Domain Name for Landing Pages. This should be in the form:
+   Enter your new domain name in the field **[!UICONTROL Domain Name for Landing Pages]**. This should be in the form:
 
    `[LandingPageCNAME].[CompanyDomain].com`
 
    ![](assets/setup-steps-17.png)
 
-   In the Fallback page field, enter the URL you want people to go to if a landing page is unavailable. You can use your company home page if you do not have a fallback page. In the Homepage field, enter your company website.
+   In the **[!UICONTROL Fallback]** page field, enter the URL you want people to go to if a landing page is unavailable. You can use your company home page if you do not have a fallback page. In the **[!UICONTROL Homepage]** field, enter your company website.
 
    ![](assets/setup-steps-18.png)
 
-   In the Admin area, select Email to Add your Email CNAME
+   In the [!UICONTROL Admin] area, select **[!UICONTROL Email]** to Add your Email CNAME
 
    ![](assets/setup-steps-19.png)
 
-   Scroll down to Branding Domains. Select your domain and click **Edit**.
+   Scroll down to [!UICONTROL Branding Domains]. Select your domain and click **[!UICONTROL Edit]**.
 
    ![](assets/setup-steps-20.png)
 
    In the Domain field, enter your email tracking domain. This should be in the form:
 
-   `[EmailTrackingCNAME].[CompanyDomain].com`. Click **Save**.
+   `[EmailTrackingCNAME].[CompanyDomain].com`. Click **[!UICONTROL Save]**.
 
    ![](assets/setup-steps-21.png)
 
@@ -316,8 +316,8 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
    Choose from the following, depending on the CRM your company uses.
 
-    * [Integrate Marketo with Salesforce.com](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-    * [Integrate Marketo with Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+    * [Integrate Marketo with [!DNL Salesforce.com]](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+    * [Integrate Marketo with [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
    >[!NOTE]
    >
@@ -327,9 +327,9 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
 >[!NOTE]
 >
->Are you a Launch Pack customer? You can skip this step. Your consultant will provide you with Munchkin code instructions in your IT setup instructions document.
+>Are you a [!dLaunch Pack customer? You can skip this step. Your consultant will provide you with [!DNL Munchkin] code instructions in your IT setup instructions document.
 
-Marketo has custom tracking JavaScript (called Munchkin) that you can use to track person activities on any web page. Munchkin is required to integrate your website into Marketo. Follow these steps to [Add Munchkin Tracking Code to Your Website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+Marketo has custom tracking JavaScript (called [!DNL Munchkin]) that you can use to track person activities on any web page. [!DNL Munchkin] is required to integrate your website into Marketo. Follow these steps to [Add [!DNL Munchkin] Tracking Code to Your Website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >
