@@ -24,9 +24,9 @@ You can edit your domain name and fallback page, enable or disable form prefill,
 
    | Term |Definition |
    |---|---|
-   | **[!UICONTROL Domain name for landing pages]** |This is your CNAME. A CNAME is the first part of the URL you give people for landing pages. For example, in `https://go.yourCompany.com`, the word [!UICONTROL "go"] is the CNAME. You can have multiple, but most people just use the one. |
-   | **[!UICONTROL Fallback page]** |This is where to go if the landing page doesn't exist or is down. Learn more about [fallback pages](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
-   | **[!UICONTROL Homepage]** |Enter your corporate site URL. |
+   | [!UICONTROL Domain name for landing pages] |This is your CNAME. A CNAME is the first part of the URL you give people for landing pages. For example, in `https://go.yourCompany.com`, the word `"go"` is the CNAME. You can have multiple, but most people just use the one. |
+   | [!UICONTROL Fallback page] |This is where to go if the landing page doesn't exist or is down. Learn more about [fallback pages](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
+   | [!UICONTROL Homepage] |Enter your corporate site URL. |
 
    ![](assets/three.png)
 
