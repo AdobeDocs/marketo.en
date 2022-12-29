@@ -10,37 +10,37 @@ Program Member custom fields allow you to collect program-specific data for each
 
 >[!NOTE]
 >
->Program Member custom fields do not have an integration with Salesforce Campaign Member fields at this time.
+>Program Member custom fields do not have an integration with [!DNL Salesforce] Campaign Member fields at this time.
 
 ## Create a Program Member Custom Field {#create-a-program-member-custom-field}
 
-1. In Marketo, click **Admin**.
+1. In Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. Click **Field Management**.
+1. Click **[!UICONTROL Field Management]**.
 
    ![](assets/two.png)
 
-1. Click **New Custom Field**.
+1. Click **[!UICONTROL New Custom Field]**.
 
    ![](assets/three.png)
 
-1. Click the Object drop-down and select the desired object.
+1. Click the **[!UICONTROL Object]** drop-down and select the desired object.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Person and Program Member custom fields cannot share the same name.
+   >[!UICONTROL Person] and [!UICONTROL Program Member] custom fields cannot share the same name.
 
-1. Fill out the remaining fields and click **Create**.
+1. Fill out the remaining fields and click **[!UICONTROL Create]**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Types supported for Program Member custom fields are: boolean, date, datetime, float, integer, string, URL. [Learn more about field types](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
+   >Types supported for [!UICONTROL Program Member] custom fields are: boolean, date, datetime, float, integer, string, URL. [Learn more about field types](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
 
 ## Object Descriptions {#object-descriptions}
 
