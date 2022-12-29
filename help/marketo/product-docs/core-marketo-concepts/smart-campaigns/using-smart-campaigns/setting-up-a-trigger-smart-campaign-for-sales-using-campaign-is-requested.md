@@ -21,17 +21,17 @@ One of the coolest features of Marketo is the ability to let sales people partic
 
    ![](assets/image2015-5-20-16-3a3-3a25.png)
 
-1. Find and drag **Campaign is Requested** to the canvas.
+1. Find and drag **[!UICONTROL Campaign is Requested]** to the canvas.
 
      ![](assets/campaignfilterdrag.png)
 
-1. The source choices indicate what kind of request will be honored. For Salesforce functionality, make sure to choose **Sales** **Insight**.
+1. The source choices indicate what kind of request will be honored. For [!DNL Salesforce] functionality, make sure to choose **[!UICONTROL Sales Insight]**.
 
    >[!TIP]
    >
-   >The source operators are for security. You can restrict the campaign to requests made only by specific sources, like other smart campaigns or developers. Choose **Is Any** in the first box if you want to allow requests from all sources.
+   >The source operators are for security. You can restrict the campaign to requests made only by specific sources, like other smart campaigns or developers. Choose **[!UICONTROL Is Any]** in the first box if you want to allow requests from all sources.
    >
-   >**Remember**, by choosing Sales Insight, it will magically show up in the box for sales. Don't overdo it. Too many will get ignored by them.
+   >**Remember**, by choosing [!UICONTROL Sales Insight], it will magically show up in the box for sales. Don't overdo it. Too many will get ignored by them.
 
    ![](assets/image2015-5-20-17-3a56-3a56.png)
 
@@ -39,4 +39,4 @@ This is a great way to extend your marketing reach into other departments. Set u
 
 >[!TIP]
 >
->Don't forget to name your smart campaigns clearly. They will show up in Sales Insight exactly how you name them.
+>Don't forget to name your smart campaigns clearly. They will show up in [!DNL Sales Insight] exactly how you name them.
