@@ -8,11 +8,11 @@ exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 
 Flow steps tell Marketo what you want to have happen to a group of people that qualify. They are your instructions, and the smart campaign will do your bidding!
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Select your smart campaign and click **Flow**.
+1. Select your smart campaign and click **[!UICONTROL Flow]**.
 
    ![](assets/image2014-9-19-16-3a27-3a1.png)
 
