@@ -8,7 +8,7 @@ exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 
 You can easily create new runs of an existing smart campaign directly from the program schedule view.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -20,7 +20,7 @@ You can easily create new runs of an existing smart campaign directly from the p
 
    ![](assets/image2015-4-16-14-3a42-3a0.png)
 
-1. Select the entry type menu drop-down, and pick the smart campaign you'd like to rerun.
+1. Select the **[!UICONTROL Entry Type]** menu drop-down, and pick the smart campaign you'd like to rerun.
 
    ![](assets/image2015-4-16-15-3a26-3a33.png)
 
