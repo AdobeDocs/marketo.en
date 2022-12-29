@@ -14,9 +14,9 @@ Period costs refer to the money you spend in a specific month on a program.
 >
 >**Example**
 >
->If you spend $1000 to hire an illustrator for an eBook that launches in July - the eBook program would have a period cost of $1000 in July.
+>If you spend $1000 to hire an illustrator for an [!DNL eBook] that launches in July - the [!DNL eBook] program would have a period cost of $1000 in July.
 >
->If you spend $200 per month on Google Adwords - the Google Adwords program would have a period cost of $200 **every month**.
+>If you spend $200 per month on [!DNL Google Adwords] - the [!DNL Google Adwords] program would have a period cost of $200 **every month**.
 
 >[!NOTE]
 >
