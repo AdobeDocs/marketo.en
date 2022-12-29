@@ -27,7 +27,7 @@ Before you can utilize this feature, you must enable its permssion per desired r
 
    ![](assets/global-form-validation-rules-4.png)
 
-1. Click the **+** sign next to **[!UICONTROL Access Admin]**.
+1. Click the **+** sign next to **Access Admin**.
 
    ![](assets/global-form-validation-rules-5.png)
 
