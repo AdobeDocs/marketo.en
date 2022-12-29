@@ -14,7 +14,7 @@ Imagine you have a smart campaign flow that uses "Send Alert" to remind a sales 
 
 ## Overview {#overview}
 
-You can remove people from a campaign's flow by using the **Remove from Flow** flow step.
+You can remove people from a campaign's flow by using the **[!UICONTROL Remove from Flow]** flow step.
 
 ![](assets/image2014-9-22-17-3a10-3a21.png)
 
@@ -26,7 +26,7 @@ Find and select the smart campaign you want to remove people from.
 
 >[!NOTE]
 >
->You can choose a specific smart campaign, or choose "this campaign" in the **Campaign** drop-down to select the campaign you're physically in at the time.
+>You can choose a specific smart campaign, or choose "this campaign" in the **[!UICONTROL Campaign]** drop-down to select the campaign you're physically in at the time.
 
 >[!NOTE]
 >
