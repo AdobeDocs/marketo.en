@@ -23,7 +23,7 @@ Continuing our example, let's define these filters to find all people in Califor
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Find and select **[!UICONTROL CA]** for the **[!UICONTROL State]** filter.
+1. Find and select **CA** for the **[!UICONTROL State]** filter.
 
    ![](assets/smartlistdefinefilters.png)
 
