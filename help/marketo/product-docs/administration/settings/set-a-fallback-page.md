@@ -12,15 +12,15 @@ Fallback pages are the last line of defense if your landing page is offline or n
 >
 >**Admin Permissions Required**
 
-1. Under **Admin**, click **Landing Pages**.
+1. Under **[!UICONTROL Admin]**, click **[!UICONTROL Landing Pages]**.
 
      ![](assets/image2014-9-10-12-3a7-3a22.png)
 
-1. Under the **Landing Pages** tab, click **Edit**.
+1. Under the **[!UICONTROL Landing Pages]** tab, click **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-10-12-3a7-3a5.png)
 
-1. Enter a **Fallback page** in the dialog box and click **Save**.
+1. Enter a **[!UICONTROL Fallback page]** in the dialog box and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-10-12-3a6-3a2.png)
 
