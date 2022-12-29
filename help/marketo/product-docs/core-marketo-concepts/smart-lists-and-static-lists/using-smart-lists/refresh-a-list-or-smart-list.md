@@ -10,7 +10,7 @@ If you've run a smart list and a few minutes have passed, the results could be d
 
 ## Refresh Results {#refresh-results}
 
-1. To update data in the **People** tab of a smart list, click the refresh icon.
+1. To update data in the **[!UICONTROL People]** tab of a smart list, click the refresh icon.
 
    ![](assets/refreshbutton.png)
 
@@ -20,7 +20,7 @@ If you've run a smart list and a few minutes have passed, the results could be d
 
 >[!TIP]
 >
->Sometimes when you run a smart list and come back to it later, you might see the word "About" in front of the person count in the bottom right-hand corner. This indicates that the number is approximate - click the count itself to refresh it and obtain an updated, accurate count.
+>Sometimes when you run a smart list and come back to it later, you might see the word "[!UICONTROL About]" in front of the person count in the bottom right-hand corner. This indicates that the number is approximate - click the count itself to refresh it and obtain an updated, accurate count.
 
 >[!MORELIKETHIS]
 >
