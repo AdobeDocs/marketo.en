@@ -37,7 +37,7 @@ Here's how to share assets across workspaces. It works the same for anything you
 >
 >The parent folder containing your assets is the only folder that can be shared, not the children folders.
 
-1. Create a [!UICONTROL new folder].
+1. Create a new folder.
 
    ![](assets/one.png)
 
