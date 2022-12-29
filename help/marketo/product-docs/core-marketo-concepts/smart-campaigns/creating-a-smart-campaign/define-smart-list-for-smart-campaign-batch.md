@@ -8,7 +8,7 @@ exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 
 Smart lists are the mechanism throughout Marketo to define "who" (which people) to include, whether it's a report, a list, or a smart campaign. Here's how to define a smart list for a batch campaign.
 
-1. Choose a smart campaign, then click **Smart List**.
+1. Choose a smart campaign, then click **[!UICONTROL Smart List]**.
 
    ![](assets/campaignchoose-hand.png)
 
