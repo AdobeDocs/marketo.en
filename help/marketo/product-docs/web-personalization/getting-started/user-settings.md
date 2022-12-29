@@ -42,7 +42,7 @@ Change settings like time zone or Web Personalization email reports.
 
    >[!NOTE]
    >
-   >Clicking **Save** won't exit you out of User Settings. To exit out, click the Marketo logo on the upper-left and select your destination.
+   >Clicking **[!UICONTROL Save]** won't exit you out of User Settings. To exit out, click the Marketo logo on the upper-left and select your destination.
 
 >[!MORELIKETHIS]
 >
