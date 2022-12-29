@@ -12,7 +12,7 @@ As a marketer, you have information that can assist sales in closing deals. You 
 
 >[!NOTE]
 >
->When the Marketo Sync User is creating tasks, **Due In** is a required field for the task to be created in Salesforce. Marketo will input five days by default if there is no value.
+>When the Marketo Sync User is creating tasks, **[!UICONTROL Due In]** is a required field for the task to be created in [!DNL Salesforce]. Marketo will input five days by default if there is no value.
 
 By default, the flow step will look like this:
 
@@ -24,4 +24,4 @@ Customize all fields to create the task the way you want it.
 
 >[!TIP]
 >
->You can use `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` and `{{system.tokens}}` in the **Subject** and **Description**. See [Tokens for Flow Steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) for more details.
+>You can use `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` and `{{system.tokens}}` in the **[!UICONTROL Subject]** and **[!UICONTROL Description]**. See [Tokens for Flow Steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) for more details.
