@@ -16,7 +16,7 @@ You can manage and view your members in your programs using the Members tab.
 
 At the bottom of the Members section, use the search field to search for program members by name, email, job title, or company.
 
-1. Click the **Members** tab of your program.
+1. Click the **[!UICONTROL Members]** tab of your program.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -26,7 +26,7 @@ At the bottom of the Members section, use the search field to search for program
 
 ## Export the Members Grid {#export-the-members-grid}
 
-You can export your member list by clicking the Excel icon next to the search field.
+You can export your member list by clicking the [!DNL Excel] icon next to the search field.
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 
@@ -42,21 +42,21 @@ Right-click the column header to sort alphabetically, either ascending or descen
 
 ## Choose Which Columns are Visible in the Grid {#choose-which-columns-are-visible-in-the-grid}
 
-1. Click the **View** drop-down and select **Create View**.
+1. Click the **[!UICONTROL View]** drop-down and select **[!UICONTROL Create View]**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Name your custom view. Select column titles. Click **Add** and **Remove** to move columns and create a view.
+1. Name your custom view. Select column titles. Click **[!UICONTROL Add]** and **[!UICONTROL Remove]** to move columns and create a view.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
-1. Click **Create**.
+1. Click **[!UICONTROL Create]**.
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
 ## Filter the Members Grid  {#filter-the-members-grid}
 
-1. Click the **Filter** drop-down and select a progression step to sort by.
+1. Click the **[!UICONTROL Filter]** drop-down and select a progression step to sort by.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -68,7 +68,7 @@ You can change the status of your people inside the members grid.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Click the **Change Status** drop-down and select a status.
+1. Click the **[!UICONTROL Change Status]** drop-down and select a status.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
