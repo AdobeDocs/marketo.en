@@ -8,19 +8,19 @@ exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 
 The activity log is the ultimate source of truth. This is the complete story of a person's journey in Marketo.
 
-1. Go to the **Database**.
+1. Go to the **[!UICONTROL Database]**.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. Select **All People**.
+1. Select **[!UICONTROL All People]**.
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Click the **People** tab. Select a person **Id** number.
+1. Click the **[!UICONTROL People]** tab. Select a person **Id** number.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
-1. Click **Activity Log**.
+1. Click **[!UICONTROL Activity Log]**.
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 
