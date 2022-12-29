@@ -14,15 +14,15 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
 
 ## Create an Email Program {#create-an-email-program}
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
    ![](assets/send-an-email-1.png)
 
-1. Select your **Learning** folder. Click the **New** drop-down and select **New Program**.
+1. Select your **[!UICONTROL Learning]** folder. Click the **[!UICONTROL New]** drop-down and select **[!UICONTROL New Program]**.
 
    ![](assets/send-an-email-2.png)
 
-1. Enter a **Name** and select **Email** for **Program Type.**
+1. Enter a **[!UICONTROL Name]** and select **[!UICONTROL Email]** for **[!UICONTROL Program Type]**.
 
    >[!TIP]
    >
@@ -30,23 +30,23 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
 
    ![](assets/send-an-email-3.png)
 
-1. Under **Channel**, select **Email Send** and click **Create**.
+1. Under **[!UICONTROL Channel]**, select **[!UICONTROL Email Send]** and click **[!UICONTROL Create]**.
 
    ![](assets/send-an-email-4.png)
 
 ## Define your Audience {#define-your-audience}
 
-1. Click **Edit Smart List** under the Audience tile.
+1. Click **[!UICONTROL Edit Smart List]** under the [!UICONTROL Audience] tile.
 
    ![](assets/send-an-email-5.png)
 
-1. Find and drag the Email Address filter onto the canvas.
+1. Find and drag the [!UICONTROL Email Address] filter onto the canvas.
 
    ![](assets/send-an-email-6.png)
 
    >[!TIP]
    >
-   >Use the **Search** function to find filters more easily.
+   >Use the **[!UICONTROL Search]** function to find filters more easily.
 
 1. Find and select your email address.
 
@@ -60,7 +60,7 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
    >
    >In this example we're having you send the email to only yourself, but you can customize the audience as you see fit.
 
-1. Go back to the main program tab and click the refresh icon for **Person**.
+1. Go back to the main program tab and click the refresh icon for **[!UICONTROL Person]**.
 
    ![](assets/send-an-email-8.png)
 
@@ -68,11 +68,11 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
 
 ## Create an Email {#create-an-email}
 
-1. Under the Email tile click **New Email**.
+1. Under the Email tile click **[!UICONTROL New Email]**.
 
    ![](assets/send-an-email-9.png)
 
-1. Enter a **Name**, select a **Template**, and click **Create**.
+1. Enter a **[!UICONTROL Name]**, select a **Template**, and click **[!UICONTROL Create]**.
 
    ![](assets/send-an-email-10.png)
 
@@ -82,29 +82,29 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
 
    >[!NOTE]
    >
-   >If you have a pop-up blocker, click **Edit Draft** to enter the email editor.
+   >If you have a pop-up blocker, click **[!UICONTROL Edit Draft]** to enter the email editor.
 
-1. Select the area you want to edit, click the gear icon on the right, then select **Edit** (you can also double-click the editable section to edit).
+1. Select the area you want to edit, click the gear icon on the right, then select **[!UICONTROL Edit]** (you can also double-click the editable section to edit).
 
    ![](assets/send-an-email-12.png)
 
-1. Enter the content you want and click **Save**.
+1. Enter the content you want and click **[!UICONTROL Save]**.
 
    ![](assets/send-an-email-13.png)
 
-1. Click the **Email Actions** drop-down and select **Approve and Close**.
+1. Click the **[!UICONTROL Email Actions]** drop-down and select **[!UICONTROL Approve and Close]**.
 
    ![](assets/send-an-email-14.png)
 
    >[!TIP]
    >
-   >Want to send yourself a quick sample to see how your email looks prior to launching? Select **Send Sample** in the menu above, or click **Email Actions** then [**Send Sample**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}.
+   >Want to send yourself a quick sample to see how your email looks prior to launching? Select **[!UICONTROL Send Sample]** in the menu above, or click **[!UICONTROL Email Actions]** then [**[!UICONTROL Send Sample]**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}.
 
 1. Select the Email Program in the left tree.
 
    ![](assets/send-an-email-15.png)
 
-1. Under the Schedule tile, set the launch day for the email to **Today.**
+1. Under the [!UICONTROL Schedule] tile, set the launch day for the email to **[!UICONTROL Today]**.
 
    ![](assets/send-an-email-16.png)
 
@@ -120,7 +120,7 @@ It's the first thing everyone wants to do. Let's send an email out of Marketo!
    >
    >Is the default time zone not yours? Learn how to [update it here](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}.
 
-1. Click **Approve Program** under the Approval tile and you're done!
+1. Click **[!UICONTROL Approve Program]** under the [!UICONTROL Approval] tile and you're done!
 
    ![](assets/send-an-email-18.png)
 
