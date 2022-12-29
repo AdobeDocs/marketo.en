@@ -12,7 +12,7 @@ Create and upload a list of organization and domain names to target these key ac
 >
 >This article applies legacy Web ABM customers only. If you acquired Web ABM after September of 2016, please follow the steps in [this article](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) instead.
 
-## Create a New Account List {#create-a-new-account-list-1}
+## Create a New [!UICONTROL Account List] {#create-a-new-account-list-1}
 
 1. Go to **[!UICONTROL Account Lists]**.
 
