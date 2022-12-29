@@ -15,13 +15,13 @@ When running a [referral offer](/help/marketo/product-docs/demand-generation/soc
 * **Smart List Trigger**
 * Custom JavaScript Event
 
-If you chose to use the **Smart List Trigger** option to specify a goal, you will need to use the **Give Credit to Referrer** flow step.
+If you chose to use the **Smart List Trigger** option to specify a goal, you will need to use the **[!UICONTROL Give Credit to Referrer]** flow step.
 
    ![](assets/image2014-9-22-15-3a59-3a18.png)
 
 ## Usage {#usage}
 
-1. Once you have built your campaign and decided what action to trigger on, simply find and select the Social App that you want to give credit to the referrer to.
+1. Once you have built your campaign and decided what action to trigger on, simply find and select the **[!UICONTROL Social App]** that you want to give credit to the referrer to.
 
    ![](assets/image2014-9-22-15-3a59-3a39.png)
 
