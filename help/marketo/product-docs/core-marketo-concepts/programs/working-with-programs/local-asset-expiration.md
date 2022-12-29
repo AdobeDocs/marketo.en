@@ -29,11 +29,11 @@ Before you can schedule an asset expiration, your Marketo role must have the pro
 
 ## Set an Expiration Date {#set-an-expiration-date}
 
-1. Right-click on your desired program and select **[!UICONTROL Set Local Asset Expiration]**.
+1. Right-click on your desired program and select **[!UICONTROL Set local asset expiration]**.
 
    ![](assets/local-asset-expiration-4.png)
 
-1. Check the asset(s) you want to set an expiration date for, then click **[!UICONTROL Set Expiration]**.
+1. Check the asset(s) you want to set an expiration date for, then click **[!UICONTROL Set expiration]**.
 
    ![](assets/local-asset-expiration-5.png)
 
@@ -47,13 +47,13 @@ Before you can schedule an asset expiration, your Marketo role must have the pro
 
 >[!NOTE]
 >
->* To edit an existing expiration date, simply check the asset(s) and click **[!UICONTROL Set Expiration]**.
+>* To edit an existing expiration date, simply check the asset(s) and click **[!UICONTROL Set expiration]**.
 >* Once an asset has expired, it will no longer show up on the Expiration grid. The grid will only display published landing pages, active trigger campaigns, and recurring batch campaigns.
 >* Scheduled expirations will be removed if the asset is moved to another program.
 
 ## Remove an Expiration Date {#remove-an-expiration-date}
 
-1. To remove an expiration date, check the asset(s) and click **[!UICONTROL Remove Expiration]**.
+1. To remove an expiration date, check the asset(s) and click **[!UICONTROL Remove expiration]**.
 
    ![](assets/local-asset-expiration-8.png)
 
