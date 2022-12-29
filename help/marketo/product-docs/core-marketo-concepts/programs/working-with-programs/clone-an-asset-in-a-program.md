@@ -14,7 +14,7 @@ Cloning a program clones _everything_. Sometimes you just want to clone one asse
 
 ## Clone a Local Asset {#clone-a-local-asset}
 
-1. Go to **Marketing** **Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -22,17 +22,17 @@ Cloning a program clones _everything_. Sometimes you just want to clone one asse
 
    ![](assets/image2014-9-23-15-3a56-3a12.png)
 
-1. Right-click the local asset you want to clone. Click **Clone**.
+1. Right-click the local asset you want to clone. Click **[!UICONTROL Clone]**.
 
    ![](assets/image2014-9-23-15-3a56-3a25.png)
 
-1. Each kind of asset presents a different dialog box. Simply fill out the info and click **Clone**.
+1. Each kind of asset presents a different dialog box. Simply fill out the info and click **[!UICONTROL Clone]**.
 
    ![](assets/image2014-9-23-15-3a56-3a34.png)
 
    >[!TIP]
    >
-   >You can also clone an asset to a different program. Use the **Program** drop-down to make your selection.
+   >You can also clone an asset to a different program. Use the **[!UICONTROL Program]** drop-down to make your selection.
 
 1. Great! You should now see the new cloned asset.
 
