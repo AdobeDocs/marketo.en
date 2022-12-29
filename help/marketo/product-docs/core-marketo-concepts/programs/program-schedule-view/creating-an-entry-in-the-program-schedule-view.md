@@ -10,11 +10,11 @@ You can create entries from within the program schedule view to supplement an ex
 
 ## Create a Basic Entry {#create-a-basic-entry}
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Select your program. Click the **View** drop-down. Select **Schedule**.
+1. Select your program. Click the **[!UICONTROL View]** drop-down. Select **[!UICONTROL Schedule]**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -34,7 +34,7 @@ You can create entries from within the program schedule view to supplement an ex
 
    ![](assets/image2014-9-16-9-3a25-3a23.png)
 
-1. Enter your description and click **Save**.
+1. Enter your description and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
@@ -44,11 +44,11 @@ You can create entries from within the program schedule view to supplement an ex
 
 ## Change Entry Type {#change-entry-type}
 
-1. Select a basic entry from the **Agenda** view.
+1. Select a basic entry from the **[!UICONTROL Agenda]** view.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Select the **Type** drop-down. Choose a new entry type.
+1. Select the **[!UICONTROL Type]** drop-down. Choose a new entry type.
 
    >[!NOTE]
    >
