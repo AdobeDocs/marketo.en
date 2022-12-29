@@ -8,30 +8,30 @@ exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 
 >[!NOTE]
 >
->Only available when integrated with Salesforce.
+>Only available when integrated with [!DNL Salesforce].
 
 ## Overview {#overview}
 
-This flow step will insert Marketo-created people as leads into your Salesforce CRM.
+This flow step will insert Marketo-created people as leads into your [!DNL Salesforce] CRM.
 
 ![](assets/sync-person-to-sfdc.png)
 
 ## Usage {#usage}
 
-1. By default, this flow step will assign to lead owners based on the Salesforce auto-assignment rules.
+1. By default, this flow step will assign to lead owners based on the [!DNL Salesforce] auto-assignment rules.
 
    ![](assets/sync-person-to-sfdc.png)
 
    >[!TIP]
    >
-   >Salesforce requires that the person has Company and Last Name fields filled out. Otherwise, it will reject the lead record.
+   >[!DNL Salesforce] requires that the person has Company and Last Name fields filled out. Otherwise, it will reject the lead record.
 
-1. You can set a specific Salesforce user or lead queue as the lead owner.
+1. You can set a specific [!DNL Salesforce] user or lead queue as the lead owner.
 
    ![](assets/sync-person-to-sfdc-2.png)
 
-   When using this flow step, the person is synced as a Salesforce lead immediately and does not need to wait for the regular sync.
+   When using this flow step, the person is synced as a [!DNL Salesforce] lead immediately and does not need to wait for the regular sync.
 
    >[!CAUTION]
    >
-   >Salesforce does not allow "Contacts" to be assigned to lead queues. In this case Marketo will create a duplicate "Lead" in Salesforce.
+   >[!DNL Salesforce] does not allow "Contacts" to be assigned to lead queues. In this case Marketo will create a duplicate "Lead" in [!DNL Salesforce].
