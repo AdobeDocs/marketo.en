@@ -16,21 +16,21 @@ This article describes how an Admin would view and edit the default location set
 
 When an Admin changes the default location settings, newly created users inherit these settings. Users can always [change their language, locale, and time zone preferences](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) in their individual accounts.
 
-1. Under **Admin**, click **Location**.
+1. Under **[!UICONTROL Admin]**, click **[!UICONTROL Location]**.
 
    ![](assets/image2014-11-7-11-3a39-3a17.png)
 
-1. Click **Edit**.
+1. Click **[!UICONTROL Edit]**.
 
    ![](assets/image2014-11-7-11-3a40-3a39.png)
 
    This subscription was created in English. Let’s say you were in London and wanted to change the default locale and time zone. The locale determines the formatting for numbers, dates, and times.
 
-1. Select the **Locale** and change it to **English** (United Kingdom).
+1. Select the **[!UICONTROL Locale]** and change it to **[!UICONTROL English (United Kingdom)]**.
 
    ![](assets/image2014-11-7-11-3a51-3a26.png)
 
-1. Finally, choose the appropriate **Time Zone**.
+1. Finally, choose the appropriate **[!UICONTROL Time Zone]**.
 
    ![](assets/image2014-11-7-14-3a42-3a34.png)
 
@@ -42,11 +42,11 @@ When an Admin changes the default location settings, newly created users inherit
 
 If you are changing the default locale for your users, you may also want to change the currency format settings.
 
-1. Click **Edit** in Subscription Currency Settings.
+1. Click **[!UICONTROL Edit]** in [!UICONTROL Subscription Currency Settings].
 
    ![](assets/image2014-11-7-15-3a50-3a33.png)
 
-1. Select the currency format of your choice and click **Save**.
+1. Select the currency format of your choice and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-11-7-15-3a58-3a21.png)
 
