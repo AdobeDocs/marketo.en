@@ -8,15 +8,15 @@ exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 
 Qualification rules control how many times someone can run through the flow in a smart campaign. By default, even if someone triggers a smart campaign multiple times, they will only be sent through the flow once. Here's how to modify these settings.
 
-1. In your smart campaign, click the **Schedule** tab and then **Edit Settings**.
+1. In your smart campaign, click the **[!UICONTROL Schedule]** tab and then **[!UICONTROL Edit Settings]**.
 
    ![](assets/programeditsettings-hands.png)
 
    >[!TIP]
    >
-   >You can also click **Edit** to the right of "Smart Campaign Settings."
+   >You can also click **[!UICONTROL Edit]** to the right of "[!UICONTROL Smart Campaign Settings]."
 
-1. Choose how often to run your people through the smart campaign flow: **only once**, **every time**, or **once every # days**/**weeks**/**months**.
+1. Choose how often to run your people through the smart campaign flow: **[!UICONTROL only once]**, **[!UICONTROL every time]**, or **[!UICONTROL once every] # [!UICONTROL days]**/**[!UICONTROL weeks]**/**[!UICONTROL months]**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
 
