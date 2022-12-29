@@ -22,7 +22,7 @@ Tag types identify the kind of information you want to sort by.
 >
 >**Example**
 >
->* Tag Type = Program Owner
+>* [!UICONTROL Tag Type] = Program Owner
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
 
