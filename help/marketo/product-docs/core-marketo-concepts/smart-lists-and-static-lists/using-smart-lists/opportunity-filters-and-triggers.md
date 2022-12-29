@@ -6,11 +6,11 @@ exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 ---
 # Opportunity Filters and Triggers {#opportunity-filters-and-triggers}
 
-Opportunity filters and triggers let you track opportunity events from Salesforce. They're a little different compared to other filters and triggers.
+Opportunity filters and triggers let you track opportunity events from [!DNL Salesforce]. They're a little different compared to other filters and triggers.
 
 ## Opportunity Filters {#opportunity-filters}
 
-Opportunity filters let you drill into your Salesforce leads who have opportunities. You can find them in the Opportunities folder of the Palette when editing a smart list. They come in a few flavors.
+Opportunity filters let you drill into your [!DNL Salesforce] leads who have opportunities. You can find them in the Opportunities folder of the Palette when editing a smart list. They come in a few flavors.
 
 * Number of Optys
 * Total Opty Amount
