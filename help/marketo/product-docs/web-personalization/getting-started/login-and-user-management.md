@@ -18,7 +18,7 @@ exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 
    >[!NOTE]
    >
-   >If the Web Personalization (WP) user role already exists, make sure it's configured as shown in Step 4.
+   >If the [!UICONTRO Web Personalization] (WP) user role already exists, make sure it's configured as shown in Step 4.
 
 1. Click **[!UICONTROL New Role]**.
 
