@@ -67,7 +67,7 @@ If you have Salesforce integration, there are a few notes about the effect of Me
 * When merging only Leads or only Contacts, they merge per normal [!DNL Salesforce] rules.
 * When merging Leads and Contacts together, all Leads are converted to Contacts prior to merging per normal [!DNL Salesforce] rules.
 
-For specifics of Salesforce behavior when merging Leads or Contacts, please check the following Salesforce documents:
+For specifics of Salesforce behavior when merging Leads or Contacts, please check the following [!DNL Salesforce] documents:
 
 * [Merging Duplicate Leads](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US)
 * [Merging Duplicate Contacts](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US)
