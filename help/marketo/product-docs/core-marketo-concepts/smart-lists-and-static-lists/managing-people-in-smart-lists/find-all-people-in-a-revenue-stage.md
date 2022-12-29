@@ -12,23 +12,23 @@ exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 
 ## Find All Members of a Specific Revenue Stage {#find-all-members-of-a-specific-revenue-stage}
 
-1. In a smart list, click the **Smart List** tab, find the **Revenue Stage** filter, and drag it into the canvas.
+1. In a smart list, click the **[!UICONTROL Smart List]** tab, find the **[!UICONTROL Revenue Stage]** filter, and drag it into the canvas.
 
    ![](assets/draginrevenuefilter.png)
 
-1. Select a **Revenue Stage**.
+1. Select a **[!UICONTROL Revenue Stage]**.
 
    ![](assets/two.jpg)
 
-1. Go to the **People** tab to view the results.
+1. Go to the **[!UICONTROL People]** tab to view the results.
 
    ![](assets/peopleresults.jpg)
 
 ## Run a Flow Step on the Members of a Revenue Stage {#run-a-flow-step-on-the-members-of-a-revenue-stage}
 
-Now that you know which people are in which revenue stages, you can market directly to them. Besides choosing **Revenue Stage** as a smart list filter, you can also choose it as an "if" filter in the flow.
+Now that you know which people are in which revenue stages, you can market directly to them. Besides choosing **[!UICONTROL Revenue Stage]** as a smart list filter, you can also choose it as an "if" filter in the flow.
 
-1. In the desired flow step, click **Add Choice** and select **Revenue Stage** from the drop-down.
+1. In the desired flow step, click **[!UICONTROL Add Choice]** and select **[!UICONTROL Revenue Stage]** from the drop-down.
 
    ![](assets/six.png)
 
