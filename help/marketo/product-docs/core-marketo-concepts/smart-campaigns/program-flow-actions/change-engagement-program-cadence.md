@@ -22,8 +22,8 @@ exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. Select **Paused** as the **New Value** to stop the person from receiving content.
+1. Select **[!UICONTROL Paused]** as the **[!UICONTROL New Value]** to stop the person from receiving content.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-  You can set the person back to **Normal** if you want them to begin receiving content again.
+  You can set the person back to **[!UICONTROL Normal]** if you want them to begin receiving content again.
