@@ -8,7 +8,7 @@ exl-id: 8be2ac9e-7331-4a0d-80d6-ea2e82215919
 
 Focus your [program performance report](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) on specific programs to compare their performance.
 
-1. Go to **Marketing** **Activities** (or **Analytics**).
+1. Go to **[!UICONTROL Marketing Activities]** (or **Analytics**).
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -16,7 +16,7 @@ Focus your [program performance report](/help/marketo/product-docs/core-marketo-
 
    ![](assets/image2014-9-23-16-3a4-3a4.png)
 
-1. Click the **Setup** tab and drag over **Programs**.
+1. Click the **[!UICONTROL Setup]** tab and drag over **[!UICONTROL Programs]**.
 
    ![](assets/prospect3.jpg)
 
@@ -28,7 +28,7 @@ Focus your [program performance report](/help/marketo/product-docs/core-marketo-
    >
    >If you select a folder, your report will include everything that folder contains at the time the report runs.
 
-1. That's all! Click the **Report** tab to see _just_ the selected programs in your report.
+1. That's all! Click the **[!UICONTROL Report]** tab to see _just_ the selected programs in your report.
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
