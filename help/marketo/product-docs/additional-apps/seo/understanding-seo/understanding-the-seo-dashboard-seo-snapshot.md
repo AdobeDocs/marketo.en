@@ -8,11 +8,11 @@ exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 
 Use the dashboard to get a high-level view of how keyword rank is trending and how well your site is optimized for SEO.
 
-To find out what to focus on to improve your SEO efforts, use the [Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) section of this dashboard.
+To find out what to focus on to improve your SEO efforts, use the [[!UICONTROLRecommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) section of this dashboard.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
-## Keyword Rank Summary {#keyword-rank-summary}
+## [!UICONTROL Keyword Rank Summary] {#keyword-rank-summary}
 
 This section shows you how your site is ranked for the [keywords you're targeting](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
@@ -30,9 +30,9 @@ This section shows you how your site is ranked for the [keywords you're targetin
 
 Rock on! Let's keep movin'.  
 
-## Average Page Optimization Score {#average-page-optimization-score}
+## [!UICONTROL Average Page Optimization Score] {#average-page-optimization-score}
 
-The Average Page Optimization Score is a proprietary Marketo score which measures all the pages on your site on a scale of 1 to 100.
+The [!UICONTROL Average Page Optimization Score] is a proprietary Marketo score which measures all the pages on your site on a scale of 1 to 100.
 
 It's based on a compilation of dozens of best practices. A score of 70 or higher indicates a well-optimized site.
 
@@ -42,9 +42,9 @@ It's based on a compilation of dozens of best practices. A score of 70 or higher
 >
 >You can also see the optimization score for specific lists of pages. Use the drop-down and select one that interests you.
 
-## Keyword Rank Trends {#keyword-rank-trends}
+## [!UICONTROL Keyword Rank Trends] {#keyword-rank-trends}
 
-The Keyword Rank Trends graph pulls your keywords with the five highest monthly search volumes, and charts how they're ranking over time.
+The [!UICONTROL Keyword Rank Trends] graph pulls your keywords with the five highest monthly search volumes, and charts how they're ranking over time.
 
 >[!TIP]
 >
@@ -52,7 +52,7 @@ The Keyword Rank Trends graph pulls your keywords with the five highest monthly 
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-Easy, right? Now let's check out the Recommendations section of this dashboard.
+Easy, right? Now let's check out the [!UICONTROL Recommendations] section of this dashboard.
 
 >[!MORELIKETHIS]
 >
