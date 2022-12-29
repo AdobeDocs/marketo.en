@@ -28,7 +28,7 @@ You can make edits to the different elements of your program in the schedule vie
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. Edit your description. Click **Save**.
+1. Edit your description. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
