@@ -17,11 +17,11 @@ It's not a good idea to email someone multiple times a day or too many times in 
 >
 >When any person exceeds the set communication limits, Marketo blocks non-operational emails (operational emails always send).
 
-1. In your smart campaign, click the **Schedule** tab and then **Edit Settings**.
+1. In your smart campaign, click the **[!UICONTROL Schedule]** tab and then **[!UICONTROL Edit Settings]**.
 
    ![](assets/programeditsettings-hands-1.png)
 
-1. Check the **Block non-operational emails** checkbox, and then click **Save**.
+1. Check the **[!UICONTROL Block non-operational emails]** checkbox, and then click **[!UICONTROL Save]**.
 
    ![](assets/apply-communication-limits-to-smart-campaign.png)
 
