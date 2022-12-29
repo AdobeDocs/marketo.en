@@ -14,11 +14,11 @@ Lists and smart lists can be shared and referenced across workspaces for easy re
 
 ## Share a List or Smart List  {#share-a-list-or-smart-list}
 
-1. Go to the **Database**.
+1. Go to the **[!UICONTROL Database]**.
 
    ![](assets/db-1.png)
 
-1. Right-click a campaign folder. Select **New Folder**.
+1. Right-click a campaign folder. Select **[!UICONTROL New Folder]**.
 
    >[!NOTE]
    >
@@ -30,11 +30,11 @@ Lists and smart lists can be shared and referenced across workspaces for easy re
 
    ![](assets/three-4.png)
 
-1. Right-click **New Folder** and select **Share Folder**.
+1. Right-click **New Folder** and select **[!UICONTROL Share Folder]**.
 
    ![](assets/four-3.png)
 
-1. Choose a **Workspace** to share with. Select **Save**.
+1. Choose a **Workspace** to share with. Select **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
