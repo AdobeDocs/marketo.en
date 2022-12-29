@@ -12,11 +12,11 @@ If you want to set a batch smart campaign to run at some point in the future, he
 >
 >You can also [reschedule a batch smart campaign in the program schedule view](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md).
 
-1. Select the batch smart campaign you want to run, go to the **Schedule** tab, and click **Run Once**.
+1. Select the batch smart campaign you want to run, go to the **[!UICONTROL Schedule]** tab, and click **[!UICONTROL Run Once]**.
 
    ![](assets/scheduledruns2.png)
 
-1. Click **Run later**, then click the calendar icon and select the day you want the smart campaign to run on.
+1. Click **[!UICONTROL Run later]**, then click the calendar icon and select the day you want the smart campaign to run on.
 
    ![](assets/runonce.png)
 
@@ -24,11 +24,11 @@ If you want to set a batch smart campaign to run at some point in the future, he
 
    ![](assets/runoncetime.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/runoncetimesave.png)
 
-1. You can confirm the scheduled run by looking at the **Schedule** tab.
+1. You can confirm the scheduled run by looking at the **[!UICONTROL Schedule]** tab.
 
    ![](assets/scheduledrunsbox.png)
 
