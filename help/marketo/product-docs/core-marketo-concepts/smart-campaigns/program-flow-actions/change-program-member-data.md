@@ -11,7 +11,7 @@ You can use Marketo to update the value of a field by utilizing the Change Data 
 >
 >You can also block a field from being updated. See Block Updates to a Field for details.
 
-1. In your Smart Campaign's Flow tab, bring over the **Change Program Member Data** flow step and choose the desired program.
+1. In your Smart Campaign's Flow tab, bring over the **[!UICONTROL Change Program Member Data]** flow step and choose the desired program.
 
    ![](assets/change-program-member-data-1.png)
 
@@ -25,13 +25,13 @@ You can use Marketo to update the value of a field by utilizing the Change Data 
 
 >[!NOTE]
 >
->You can also use tokens in New Value.
+>You can also use tokens in [!UICONTROL New Value].
 
 Now just run the Smart Campaign, and you're done!
 
 >[!TIP]
 >
->If you want to clear the fields instead of updating them, you can enter "NULL" (no quotes, all caps) as the New Value.
+>If you want to clear the fields instead of updating them, you can enter "NULL" (no quotes, all caps) as the [!UICONTROL New Value].
 
 >[!MORELIKETHIS]
 >
