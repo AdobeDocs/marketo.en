@@ -12,19 +12,19 @@ Values are constantly changing and being updated in your Marketo database. Somet
 >
 >[Create a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
    ![](assets/ma.png)
 
-1. Select the smart list and click the **Smart List** tab.
+1. Select the smart list and click the **[!UICONTROL Smart List]** tab.
 
    ![](assets/two-1.png)
 
-1. Find the **Data Value Changed** filter and drag it onto the canvas.
+1. Find the **[!UICONTROL Data Value Changed]** filter and drag it onto the canvas.
 
    ![](assets/three-1.png)
 
-1. Set **Attribute** to the field you want to look for data value changes on.
+1. Set **[!UICONTROL Attribute]** to the field you want to look for data value changes on.
 
    ![](assets/four.png)
 
