@@ -26,7 +26,7 @@ You can insert Program Member Custom Fields Tokens into emails, Landing Pages, S
 
 **Emails**
 
-1. Select the desired email and click **Edit Draft**.
+1. Select the desired email and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -34,11 +34,11 @@ You can insert Program Member Custom Fields Tokens into emails, Landing Pages, S
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. Find and select the desired Program Member Custom Field Token, enter a default value, and click **Insert**.
+1. Find and select the desired Program Member Custom Field Token, enter a [!UICONTROL default value], and click **[!UICONTROL Insert]**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
@@ -48,7 +48,7 @@ You can insert Program Member Custom Fields Tokens into emails, Landing Pages, S
 
 **Landing Pages**
 
-1. Select your Landing Page and click **Edit Draft**.
+1. Select your Landing Page and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -68,17 +68,17 @@ You can insert Program Member Custom Fields Tokens into emails, Landing Pages, S
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. Enter a Default Value and click **Insert**.
+1. Enter a **[!UICONTROL Default Value]** and click **[!UICONTROL Insert]**.
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
 **SMS**
 
-1. Select the desired SMS and click **Edit Draft**.
+1. Select the desired SMS and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
@@ -86,21 +86,21 @@ You can insert Program Member Custom Fields Tokens into emails, Landing Pages, S
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. Find and select the desired Program Member Custom Field Token. Enter a default value and click Insert.
+1. Find and select the desired Program Member Custom Field Token. Enter a [!UICONTROL default value] and click **[!UICONTROL Insert]**.
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. Click the SMS Actions drop-down and select **Approve & Close**.
+1. Click the **[!UICONTROL SMS Actions]** drop-down and select **[!UICONTROL Approve & Close]**.
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
 **Push Notifications**
 
-1. Select the desired push notification and click **Edit Draft**.
+1. Select the desired push notification and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. Click **Push Notification**.
+1. Click **[!UICONTROL Push Notification]**.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
@@ -108,11 +108,11 @@ You can insert Program Member Custom Fields Tokens into emails, Landing Pages, S
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. Find and select the desired Program Member Custom Field Token. Enter a default value and click **Insert**.
+1. Find and select the desired Program Member Custom Field Token. Enter a [!UICONTROL default value] and click **[!UICONTROL Insert]**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Click **Finish** to save and quit (or **Next** to review first).
+1. Click **[!UICONTROL Finish]** to save and quit (or **[!UICONTROL Next]** to review first).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 
