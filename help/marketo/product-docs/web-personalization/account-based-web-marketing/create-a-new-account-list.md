@@ -4,7 +4,7 @@ description: Create a New Account List - Marketo Docs - Product Documentation
 title: Create a New Account List
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 ---
-# Create a New Account List {#create-a-new-account-list}
+# Create a New [!UICONTROL Account List] {#create-a-new-account-list}
 
 Create and upload a list of organization and domain names to target these key accounts with personalized campaigns.
 
@@ -57,7 +57,7 @@ Create and upload a list of organization and domain names to target these key ac
 
 ## Edit an [!UICONTROL Account List] {#edit-an-account-list}
 
-On the **Account Lists** page, click the **[!UICONTROL Edit]** icon on the list.
+On the **Account Lists** page, click the **Edit** icon on the list.
 
 ![](assets/create-new-account-list-edit.jpg)
 
@@ -69,7 +69,7 @@ The CSV file will replace the existing file. The existing list will remain activ
 
 ## Delete a Named [!UICONTROL Account List] {#delete-a-named-account-list}
 
-1. On the **Account Lists** page, click the [!UICONTROL Delete] icon of the list you wish to delete.
+1. On the **Account Lists** page, click the Delete icon of the list you wish to delete.
 
    ![](assets/create-new-account-list-delete.jpg)
 
