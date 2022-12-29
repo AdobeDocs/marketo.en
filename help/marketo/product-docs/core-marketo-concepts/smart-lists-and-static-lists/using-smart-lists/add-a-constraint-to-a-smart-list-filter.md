@@ -16,28 +16,28 @@ In this example, let's add some constraints to a **[Data Value Changed](/help/ma
 >* [Use the "Data Value Changed" Filter in a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md)
 >
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma-1.png)
 
-1. Select the smart list with a filter you'll be adding a constraint to, and click the **Smart List** tab.
+1. Select the smart list with a filter you'll be adding a constraint to, and click the **[!UICONTROL Smart List]** tab.
 
    ![](assets/two-3.png)
 
-1. Under **Add Constraint**, select **Previous Value**.
+1. Under **[!UICONTROL Add Constraint]**, select **[!UICONTROL Previous Value]**.
 
    ![](assets/three-3.png)
 
-1. Enter the **Previous Value**. In this example we're using MQL.
+1. Enter the **[!UICONTROL Previous Value]**. In this example we're using MQL.
 
    ![](assets/four-2.png)
 
-1. Under **Add Constraint**, select **New Value**.
+1. Under **[!UICONTROL Add Constraint]**, select **[!UICONTROL New Value]**.
 
    ![](assets/five.png)
 
-1. Enter the **New Value**. In this example we're using SQL.
+1. Enter the **[!UICONTROL New Value]**. In this example we're using SQL.
 
    ![](assets/six.png)
 
-1. Nicely done! Click the **People** tab to see all people who had a **Status** change from **MQL** to **SQL** in the past 30 days.
+1. Nicely done! Click the **[!UICONTROL People]** tab to see all people who had a **Status** change from **MQL** to **SQL** in the past 30 days.
