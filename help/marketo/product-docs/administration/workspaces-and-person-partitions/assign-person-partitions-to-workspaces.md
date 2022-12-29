@@ -32,7 +32,7 @@ Here's how to edit the person partition / workspace assignments:
 
    >[!NOTE]
    >
-   >The [!UICONTROL All Person Partitions] checkbox indicates that this workspace has access to all person partitions in the system.
+   >The [!UICONTROL All Person Partitions (present and future)] checkbox indicates that this workspace has access to all person partitions in the system.
 
    ![](assets/three-3.png)
 
