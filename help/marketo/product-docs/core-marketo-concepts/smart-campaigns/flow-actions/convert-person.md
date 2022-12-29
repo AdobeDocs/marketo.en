@@ -8,11 +8,11 @@ exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
 
 >[!NOTE]
 >
->Only available when integrated with Salesforce.
+>Only available when integrated with [!DNL Salesforce].
 
 ## Overview {#overview}
 
-Use this flow step to convert a person to a contact in Salesforce. You can decide who to assign the contact to, to send a notification to the owner, and to set a converted status.
+Use this flow step to convert a person to a contact in [!DNL Salesforce]. You can decide who to assign the contact to, to send a notification to the owner, and to set a converted status.
 
 ![](assets/one-2.png)
 
@@ -24,13 +24,13 @@ Use this flow step to convert a person to a contact in Salesforce. You can decid
 
    >[!CAUTION]
    >
-   >Converting a person in Marketo will result in a new account and opportunity in Salesforce. If you don't want duplicate accounts, use Salesforce to convert.
+   >Converting a person in Marketo will result in a new account and opportunity in [!DNL Salesforce]. If you don't want duplicate accounts, use [!DNL Salesforce] to convert.
 
 1. Choose if you want a **notification** sent to the owner or not.
 
    ![](assets/three-2.png)
 
-1. Select the **converted status**.
+1. Select the **[!DNL Converted Status]**.
 
    ![](assets/four-3.png)
 
