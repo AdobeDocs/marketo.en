@@ -12,7 +12,7 @@ The Database Dashboard serves as a snapshot to help you quickly determine key at
 >
 >Each workspace has its own Database Dashboard.
 
-To get there, select **Database** from your My Marketo.
+To get there, select **[!UICONTROL Database]** from your My Marketo.
 
 ![](assets/database-dashboard-1.png)
 
