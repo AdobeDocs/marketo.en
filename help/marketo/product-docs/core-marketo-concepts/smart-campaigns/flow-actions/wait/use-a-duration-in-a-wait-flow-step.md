@@ -8,7 +8,7 @@ exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 
 You can use the Wait flow step to pause a person's journey through a smart campaign for a certain duration of time. You can also specify criteria for the day of the week and time when it ends.
 
-1. In your smart campaign **Flow** tab, drag over the **Wait** flow step.
+1. In your smart campaign **[!UICONTROL Flow]** tab, drag over the **[!UICONTROL Wait]** flow step.
 
    ![](assets/image2014-9-22-11-3a53-3a57.png)
 
@@ -24,7 +24,7 @@ You can use the Wait flow step to pause a person's journey through a smart campa
 
    ![](assets/image2014-9-22-11-3a54-3a10.png)
 
-1. Optionally, specify the time. Click **Save**.
+1. Optionally, specify the time. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-22-11-3a54-3a35.png)
 
