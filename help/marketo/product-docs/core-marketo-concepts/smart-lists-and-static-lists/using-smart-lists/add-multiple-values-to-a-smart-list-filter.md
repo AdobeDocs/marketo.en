@@ -13,11 +13,11 @@ exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 
 Let's say you want to find everyone in California, but you might be storing both **California** and **CA** in your Database. To include all applicable people, you could use two **State** filters, but it's easier with one.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Find and select a smart list and click the **Smart List** tab.
+1. Find and select a smart list and click the **[!UICONTROL Smart List]** tab.
 
    ![](assets/smarlist-choosefilters.png)
 
@@ -25,7 +25,7 @@ Let's say you want to find everyone in California, but you might be storing both
 
    ![](assets/smartlist-plussignhand-.png)
 
-1. You can choose values from the left or just type them on the right then click **OK**.
+1. You can choose values from the left or just type them on the right then click **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-11-17-3a51-3a39.png)
 
