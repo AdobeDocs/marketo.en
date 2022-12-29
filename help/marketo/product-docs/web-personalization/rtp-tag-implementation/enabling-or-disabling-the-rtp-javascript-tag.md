@@ -10,20 +10,20 @@ The RTP JavaScript tag controls whether or not Web Personalization tracks web ac
 
 >[!NOTE]
 >
->**It's not necessary to remove the tag from your html code on your website.** Control it through Account Settings.
+>**It's not necessary to remove the tag from your html code on your website.** Control it through [!UICONTROL Account Settings].
 
 ## Enable or Disable the Tag {#enable-or-disable-the-tag}
 
-1. Go to **Account Settings**.
+1. Go to **[!UICONTROL Account Settings]**.
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. In Domain and Domain Configuration, under Tag, select **Off** to disable the JavaScript tag.
+1. In [!UICONTROL Domain] and [!UICONTROL Domain Configuration], under [!UICONTROL Tag], select **[!UICONTROL Off]** to disable the JavaScript tag.
 
    ![](assets/account-settings-domain-tag.jpg)
 
-   When the Tag is set to Off, the Javascript code is disabled and Web Personalization won't track any web activity or run any campaigns or content recommendations on your website.
+   When the [!UICONTROL Tag] is set to [!UICONTROL Off], the JavaScript code is disabled and [!UICONTROL Web Personalization] won't track any web activity or run any campaigns or content recommendations on your website.
 
-1. To enable the RTP tag, in Domain and Domain Configuration, under Tag, select the **On** toggle.
+1. To enable the RTP tag, in [!UICONTROL Domain] and [!UICONTROL Domain Configuration], under [!UICONTROL Tag], select the **[!UICONTROL On]** toggle.
 
    Easy.
