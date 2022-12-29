@@ -24,7 +24,7 @@ You can restrict or enable users from accessing Marketo based on their IP addres
 
    ![](assets/image2014-9-16-12-3a58-3a13.png)
 
-1. Choose whether you want to **[!UICONTROL Allow]** or **[!UICONTROL Block]** specific addresses, enter the address(es), then click **[!UICONTROL Save]**.
+1. Choose whether you want to **Allow** or **Block** specific addresses, enter the address(es), then click **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
