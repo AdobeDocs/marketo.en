@@ -8,7 +8,7 @@ exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 
 View people who qualify to go through the flow when you run a smart campaign.
 
-1. In your smart campaign, click on Schedule. In the Smart List Status, click on the first link.
+1. In your smart campaign, click on **[!UICONTROL Schedule]**. In the **[!UICONTROL Smart List Status]**, click on the first link.
 
 ![](assets/qualifedpeople-hands.png)
 
@@ -16,7 +16,7 @@ View people who qualify to go through the flow when you run a smart campaign.
 >
 >Trigger smart campaigns do not display qualified people, since they run based on live events.
 
-1. The **Qualified People** tab lists the people who qualify to go through the flow when the campaign runs.
+1. The **[!UICONTROL Qualified People]** tab lists the people who qualify to go through the flow when the campaign runs.
 
    ![](assets/qualifiedpeople-tab.png)
 
