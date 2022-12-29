@@ -10,7 +10,7 @@ A smart list displays a default set of columns. Did you know you could edit thos
 
 ## Create a View {#create-a-view}
 
-1. Go to a list or smart list, click the **People** tab, and click **Create** **View** under the **View** drop-down.
+1. Go to a list or smart list, click the **[!UICONTROL People]** tab, and click **[!UICONTROL Create** **View**] under the **View** drop-down.
 
    ![](assets/smartlist-createview.png)
 
@@ -18,13 +18,13 @@ A smart list displays a default set of columns. Did you know you could edit thos
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
-1. Add/Remove your desired columns, then click **Create**.
+1. [!UICONTROL Add]/[!UICONTROL Remove] your desired columns, then click **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-12-11-3a24-3a7.png)
 
 >[!TIP]
 >
->To quickly search, use the **Find** box.
+>To quickly search, use the **[!UICONTROL Find]** box.
 
 ## Switch Views {#switch-views}
 
@@ -42,21 +42,21 @@ A smart list displays a default set of columns. Did you know you could edit thos
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Click the **Edit** option.
+1. Click the **[!UICONTROL Edit]** option.
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Make the changes you want and click **Save**.
+1. Make the changes you want and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
 ## Delete a View {#delete-a-view}
 
-1. Select the **Edit** option for the view you want to delete from the **View** drop-down.
+1. Select the **[!UICONTROL Edit]** option for the view you want to delete from the **View** drop-down.
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Click **Delete**.
+1. Click **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-12-11-3a27-3a39.png)
 
