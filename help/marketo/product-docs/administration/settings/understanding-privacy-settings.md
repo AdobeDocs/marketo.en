@@ -21,7 +21,7 @@ These methods might affect Marketo’s value and functionality in specific areas
 
 Web visitors can set their browser to prevent tracking by any website by choosing "Do Not Track" (DNT). This prevents tracking for this particular browser and device. See the browser's privacy settings for complete details.
 
-In Munchkin, a marketer can [decide whether to support or ignore the browser's DNT setting](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
+In [!DNL Munchkin], a marketer can [decide whether to support or ignore the browser's DNT setting](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
 
 In Web Personalization, a marketer can decide whether to [support or ignore the browser's DNT setting](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).
 
@@ -43,7 +43,7 @@ You can create and publish a landing page as a follow-up page for when your link
 
 ![](assets/opt-out-2.png)
 
-When the link is clicked, Marketo adds a cookie called **mkto_opt_out** to the visitor's browser that disables Munchkin tracking for the site visitor who clicks the link with the above parameter.
+When the link is clicked, Marketo adds a cookie called **mkto_opt_out** to the visitor's browser that disables [!DNL Munchkin] tracking for the site visitor who clicks the link with the above parameter.
 
 To validate that the cookie can be planted, verify that you are a cookied lead and click the link. Then check your browser cookies to verify that the **mkto_opt_out** cookie was added.
 
@@ -51,7 +51,7 @@ To validate that the cookie can be planted, verify that you are a cookied lead a
 
 >[!NOTE]
 >
->This currently works only with Munchkin versions 152 and above.
+>This currently works only with [!DNL Munchkin] versions 152 and above.
 
 ## Opt In {#opt-in}
 
@@ -59,13 +59,13 @@ Marketers can enable users to opt in by using Marketo's capabilities in emails, 
 
 ## Tracking Using an Anonymized IP {#tracking-using-an-anonymized-ip}
 
-Marketers can preserve privacy by tracking users with an anonymized IP address. To do that, add this code to the RTP or Munchkin Javascript that's embedded in the website.
+Marketers can preserve privacy by tracking users with an anonymized IP address. To do that, add this code to the RTP or [!DNL Munchkin] Javascript that's embedded in the website.
 
-* For Munchkin, just add {"anonymizeIP",true} to the init function.
+* For [!DNL Munchkin], just add {"anonymizeIP",true} to the init function.
 
   >[!NOTE]
   >
-  >Use of this parameter requires that Munchkin V2 be enabled. To get it enabled for your subscription, please contact [Marketo Support](https://nation.marketo.com/community/support_solutions).
+  >Use of this parameter requires that [!DNL Munchkin] V2 be enabled. To get it enabled for your subscription, please contact [Marketo Support](https://nation.marketo.com/community/support_solutions).
 
 * For Web Personalization (RTP), add this to the javascript:
 
