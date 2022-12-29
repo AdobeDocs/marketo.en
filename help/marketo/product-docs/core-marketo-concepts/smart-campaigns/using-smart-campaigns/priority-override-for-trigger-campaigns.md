@@ -21,7 +21,7 @@ Admins can override Marketo's determined priority for trigger campaigns to set p
 >
 >Only Admins or users with admin responsibilities should have campaign priority override access.
 
-1. In the [!UICONTROL Admin] area, click **[!UICONTROL Users & Roles]**.
+1. In the **[!UICONTROL Admin]** area, click **[!UICONTROL Users & Roles]**.
 
    ![](assets/priority-override-for-trigger-campaigns-1.png)
 
@@ -29,13 +29,13 @@ Admins can override Marketo's determined priority for trigger campaigns to set p
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. Under [!UICONTROL Access Marketing Activities], select **[!UICONTROL Edit Trigger Campaign Priority]**. Click **[!UICONTROL Save]**.
+1. Under **[!UICONTROL Access Marketing Activities]**, select **[!UICONTROL Edit Trigger Campaign Priority]**. Click **[!UICONTROL Save]**.
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
 ## Override Priority {#override-priority}
 
-1. Locate your trigger campaign. Right-click on it and select **[!UICONTROL Override Campaign Priority]**.
+1. Locate your trigger campaign. Right-click on it and select **[!UICONTROL Override campaign priority]**.
 
    ![](assets/priority-override-for-trigger-campaigns-4.png)
 
@@ -43,7 +43,7 @@ Admins can override Marketo's determined priority for trigger campaigns to set p
 
    ![](assets/priority-override-for-trigger-campaigns-5.png)
 
-   The new priority level will show in the Schedule tab.
+   The new priority level will show in the **[!UICONTROL Schedule]** tab.
 
    ![](assets/priority-override-for-trigger-campaigns-6.png)
 
