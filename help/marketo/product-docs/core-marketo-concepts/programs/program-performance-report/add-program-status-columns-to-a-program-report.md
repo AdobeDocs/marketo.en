@@ -8,7 +8,7 @@ exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 
 Add stats about program status to your [program performance report](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md).
 
-1. Go to Marketing Activities (or Analytics).
+1. Go to **[!UICONTROL Marketing Activities]** (or Analytics).
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -16,7 +16,7 @@ Add stats about program status to your [program performance report](/help/market
 
    ![](assets/emailperformance.jpg)
 
-1. Click the **Setup** tab and drag over the Channel tag.
+1. Click the **[!UICONTROL Setup]** tab and drag over the Channel tag.
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
@@ -28,11 +28,11 @@ Add stats about program status to your [program performance report](/help/market
    >
    >To show program status columns, your report must be filtered by _just one_ channel.
 
-1. Check the option to Show program status columns. Click **Apply**.
+1. Check the option to **[!UICONTROL Show program status columns]**. Click **[!UICONTROL Apply]**.
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. You did it! Click the Report tab to see your report with the program status columns.
+1. You did it! Click the **[!UICONTROL Report]** tab to see your report with the program status columns.
 
    ![](assets/programreport.jpg)
 
