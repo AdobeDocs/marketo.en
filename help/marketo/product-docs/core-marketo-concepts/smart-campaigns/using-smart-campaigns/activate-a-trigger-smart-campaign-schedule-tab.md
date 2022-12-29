@@ -8,7 +8,7 @@ exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 
 Activating a trigger smart campaign is like turning it ON. Here's what to do.
 
-1. In the smart campaign's **Schedule** tab, click **Activate**.
+1. In the smart campaign's **[!UICONTROL Schedule]** tab, click **[!UICONTROL Activate]**.
 
    ![](assets/activateprogram-hands.png)
 
@@ -16,7 +16,7 @@ Activating a trigger smart campaign is like turning it ON. Here's what to do.
    >
    >Review the smart campaign before activating.
 
-1. Click **Activate** again.
+1. Click **[!UICONTROL Activate]** again.
 
    ![](assets/activatecampaign-hand.png)
 
