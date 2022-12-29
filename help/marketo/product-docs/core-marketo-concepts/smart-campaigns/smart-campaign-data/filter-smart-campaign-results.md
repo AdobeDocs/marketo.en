@@ -14,7 +14,7 @@ Filter smart campaign results to see specific activities that matter to you.
 
 ## Filter by Saved Filters {#filter-by-saved-filters}
 
-1. In your smart campaign **Results** tab, click on **Filter** and select a saved filter.
+1. In your smart campaign **[!UICONTROL Results]** tab, click on **[!UICONTROL Filter]** and select a saved filter.
 
    ![](assets/resultsfilter-hands.png)
 
@@ -24,19 +24,19 @@ Filter smart campaign results to see specific activities that matter to you.
 
 ## Create a Custom Filter {#create-a-custom-filter}
 
-1. Click on **Filter** and then **Custom**.
+1. Click on **[!UICONTROL Filter]** and then **[!UICONTROL Custom]**.
 
    ![](assets/filterscustom-hands.png)
 
-1. Select activity types that you want to see and then click on **Save As** .
+1. Select activity types that you want to see and then click on **[!UICONTROL Save As]** .
 
    ![](assets/activityfiltersettings-hands.png)
 
    >[!TIP]
    >
-   >Click on **Apply** to directly apply a custom filter to your results without saving it.
+   >Click on **[!UICONTROL Apply]** to directly apply a custom filter to your results without saving it.
 
-1. Enter a filter name and click on **Save**.
+1. Enter a filter name and click on **[!UICONTROL Save]**.
 
    ![](assets/saveasfilter-hands.png)
 
