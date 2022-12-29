@@ -14,11 +14,11 @@ Adding people to your Blocklist prevents them from receiving your correspondence
 
 1. [Create a new default program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) and name it **Add to Blocklist**.
 
-1. Click **New** and select **New Local Asset**.
+1. Click **[!UICONTROL New]** and select **[!UICONTROL New Local Asset]**.
 
    ![](assets/image2015-8-14-11-3a0-3a46.png)
 
-1. Name your list and click **Create**.
+1. Name your list and click **[!UICONTROL Create]**.
 
    ![](assets/image2015-8-14-11-3a2-3a26.png)
 
@@ -30,15 +30,15 @@ Adding people to your Blocklist prevents them from receiving your correspondence
 
    ![](assets/three-6.png)
 
-1. Click **New** and select **New Smart Campaign**.
+1. Click **[!UICONTROL New]** and select **[!UICONTROL New Smart Campaign]**.
 
    ![](assets/image2015-8-14-11-3a12-3a35.png)
 
-1. Name the **New Smart Campaign**. Click **Create**.
+1. Name the **[!UICONTROL New Smart Campaign]**. Click **[!UICONTROL Create]**.
 
    ![](assets/image2015-8-14-11-3a13-3a36.png)
 
-1. Drag and drop **Member of Smart List**.
+1. Drag and drop **[!UICONTROL Member of Smart List]**.
 
    ![](assets/image2015-8-14-11-3a16-3a34.png)
 
@@ -46,19 +46,19 @@ Adding people to your Blocklist prevents them from receiving your correspondence
 
    ![](assets/image2015-8-14-11-3a17-3a5.png)
 
-1. Drag and drop **Change Data Value**.
+1. Drag and drop **[!UICONTROL Change Data Value]**.
 
    ![](assets/image2015-8-14-11-3a18-3a41.png)
 
-1. For the **Flow**, enter **Block Listed** for the **Attribute** and set **New Value** to **true**.
+1. For the **[!UICONTROL Flow]**, enter **[!UICONTROL Block Listed]** for the **[!UICONTROL Attribute]** and set **[!UICONTROL New Value]** to **[!UICONTROL true]**.
 
    ![](assets/image2015-8-14-11-3a21-3a1.png)
 
-1. On the **Schedule** tab, select **Run Once**.
+1. On the **[!UICONTROL Schedule]** tab, select **[!UICONTROL Run Once]**.
 
    ![](assets/ten.png)
 
-1. Select **Run now** and click **Run**.
+1. Select **[!UICONTROL Run now]** and click **[!UICONTROL Run]**.
 
    ![](assets/image2015-8-14-11-3a24-3a50.png)
 
