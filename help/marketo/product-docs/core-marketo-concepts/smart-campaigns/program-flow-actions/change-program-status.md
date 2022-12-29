@@ -16,11 +16,11 @@ Program statuses help you keep track of how people are progressing through a pro
 
 ## Usage {#usage}
 
-1. Drag in the **Change Program Status** flow step.
+1. Drag in the **[!UICONTROL Change Program Status]** flow step.
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
-1. Select the **New Status** you want to set. The person will also be made a member of the program if they weren't already.
+1. Select the **[!UICONTROL New Status]** you want to set. The person will also be made a member of the program if they weren't already.
 
    ![](assets/image2014-9-22-14-3a43-3a45.png)
 
