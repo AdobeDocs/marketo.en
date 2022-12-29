@@ -8,7 +8,7 @@ exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 
 You can set the [analytics behavior at the admin level on channels](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), but you can also edit it at the program level. Here's how.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -16,11 +16,11 @@ You can set the [analytics behavior at the admin level on channels](/help/market
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Under the Setup tab, drag Analytics Behavior onto the canvas.
+1. Under the **[!UICONTROL Setup]** tab, drag **[!UICONTROL Analytics Behavior]** onto the canvas.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-1. Select the Analytics Behavior you want.
+1. Select the **[!UICONTROL Analytics Behavior]** you want.
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
@@ -36,7 +36,7 @@ You can set the [analytics behavior at the admin level on channels](/help/market
 >
 >The default behavior (if this setting is not applied) is the program would be included in Analytics ONLY if there is at least one period cost, even one with zero dollars assigned.
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
