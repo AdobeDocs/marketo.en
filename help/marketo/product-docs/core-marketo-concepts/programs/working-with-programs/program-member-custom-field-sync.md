@@ -8,7 +8,7 @@ exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 >[!PREREQUISITES]
 >
 >* Creation of [Program Member Custom Fields](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
->* [Sync a Salesforce Campaign with a Program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
+>* [Sync a [!DNL Salesforce] Campaign with a Program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -16,15 +16,15 @@ exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 
 ## Map Salesforce Fields to Program Member Custom Fields {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. In Marketo, click **Admin**.
+1. In Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/program-member-custom-field-sync-1.png)
  
-1. Click **Salesforce**, then click **Edit** next to Program Member Custom Field Sync.
+1. Click **[!UICONTROL Salesforce]**, then click **[!UICONTROL Edit]** next to [!UICONTROL Program Member Custom Field Sync].
 
    ![](assets/program-member-custom-field-sync-2.png)
  
-1. Use the search box to locate the Salesforce fields you want to map. In this example, we're using Do Not Call.
+1. Use the search box to locate the [!DNL Salesforce] fields you want to map. In this example, we're using Do Not Call.
 
    ![](assets/program-member-custom-field-sync-3.png)
 
@@ -32,37 +32,37 @@ exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 
    ![](assets/program-member-custom-field-sync-4.png)
 
-1. Choose the desired Marketo Program Member Custom Field to map.
+1. Choose the desired Marketo [!UICONTROL Program Member Custom Field] to map.
 
    ![](assets/program-member-custom-field-sync-5.png)
 
    >[!NOTE]
    >
-   >The drop-down will only show Program Member Custom Fields that match the data type of the Salesforce field.
+   >The drop-down will only show [!UICONTROL Program Member Custom Fields] that match the data type of the [!DNL Salesforce] field.
 
 1. For additional field mappings, clear the search box and repeat steps 3 through 5.
 
-1. Click **Save** when done.
+1. Click **[!UICONTROL Save]** when done.
 
    ![](assets/program-member-custom-field-sync-6.png)
 
    >[!IMPORTANT]
    >
-   >Changes to program member data on the mapped fields will be synced between Marketo and Salesforce going forward.
+   >Changes to program member data on the mapped fields will be synced between Marketo and [!DNL Salesforce] going forward.
 
    >[!NOTE]
    >
-   >If you rename or change the data type of a field in Salesforce, we will remove any mapping of that field with the Program Member Custom Field. But you can remap it with the new field after review.
+   >If you rename or change the data type of a field in [!DNL Salesforce], we will remove any mapping of that field with the [!UICONTROL Program Member Custom Field]. But you can remap it with the new field after review.
 
 ## Unmap Salesforce Fields from Program Member Custom Fields {#unmap-salesforce-fields-from-program-member-custom-fields}
 
 If you ever want to free up a field in order to replace it, or just make a general change, you must perform an unmapping first. Here's how.
 
-1. In Marketo, click **Admin**.
+1. In Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. Click **Salesforce**, then click **Edit** next to Program Member Custom Field Sync.
+1. Click **[!UICONTROL Salesforce]**, then click **[!UICONTROL Edit]** next to [!UICONTROL Program Member Custom Field Sync].
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -72,13 +72,13 @@ If you ever want to free up a field in order to replace it, or just make a gener
 
    >[!TIP]
    >
-   >You can select the **Mapped** checkbox to see only mapped fields.
+   >You can select the **[!UICONTROL Mapped]** checkbox to see only mapped fields.
 
 1. Unmap by clicking the **X** next to the field.
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. The mapping is now removed. Click **Save**.
+1. The mapping is now removed. Click **[!UICONTROL Save]**.
 
    ![](assets/program-member-custom-field-sync-11.png)
 
