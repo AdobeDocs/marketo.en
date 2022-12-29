@@ -28,7 +28,7 @@ Did you know you can add notes to page issues as personal reminders or team mess
 
 >[!TIP]
 >
->You can delete your note by clicking the small **[!UICONTROL x]** in the upper left hand corner.
+>You can delete your note by clicking the small **x** in the upper left hand corner.
 
 ## Add Notes in Page Detail Drill Down {#add-notes-in-page-detail-drill-down}
 
