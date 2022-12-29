@@ -25,17 +25,17 @@ Execute Campaign is an improvement upon [Request Campaign](/help/marketo/product
 
 ## How to Create an Executable Campaign {#how-to-create-an-executable-campaign}
 
-1. Right-click on your desired program and select **New Smart Campaign**.
+1. Right-click on your desired program and select **[!UICONTROL New Smart Campaign]**.
 
    ![](assets/execute-campaign-1.png)
 
-1. Give it a name, select the **Executable** checkbox, and click **Create**.
+1. Give it a name, select the **[!UICONTROL Executable]** checkbox, and click **[!UICONTROL Create]**.
 
    ![](assets/execute-campaign-2.png)
 
 1. Define the Smart List and Flow, like any other Smart Campaign.
 
-You can also clone an existing Smart Campaign. If you clone an existing Executable Campaign, you will still have to select the **Executable** checkbox after naming it.
+You can also clone an existing Smart Campaign. If you clone an existing Executable Campaign, you will still have to select the **[!UICONTROL Executable]** checkbox after naming it.
 
 >[!NOTE]
 >
@@ -82,7 +82,7 @@ The child campaign's My Tokens.
 
 **Example One - True**
 
-In the Execute Campaign flow step of the first parent campaign, the "Use Parent Campaign Token Context" is set to **True**.
+In the Execute Campaign flow step of the first parent campaign, the "[!UICONTROL Use Parent Campaign Token Context]" is set to **[!UICONTROL True]**.
 
 ![](assets/execute-campaign-5.png)
 
@@ -96,7 +96,7 @@ The results: score changed by +10.
 
 **Example Two: False**
 
-In the Execute Campaign filter of the second parent campaign, the "Use Parent Campaign Token Context" is set to **False**.
+In the Execute Campaign filter of the second parent campaign, the "[!UICONTROL Use Parent Campaign Token Context]" is set to **[!UICONTROL False]**.
 
 ![](assets/execute-campaign-8.png)
 
