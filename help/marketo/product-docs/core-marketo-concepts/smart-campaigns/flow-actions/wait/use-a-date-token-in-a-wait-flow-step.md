@@ -12,7 +12,7 @@ You can use the Wait flow step to pause a person's journey through a smart campa
 >
 >This only applies to trigger campaigns. You cannot use this feature in batch campaigns.
 
-1. In your smart campaign **Flow** tab, drag over the **Wait** flow step.
+1. In your smart campaign **[!UICONTROL Flow]** tab, drag over the **[!UICONTROL Wait]** flow step.
 
    ![](assets/image2014-9-22-14-3a8-3a22.png)
 
@@ -20,11 +20,11 @@ You can use the Wait flow step to pause a person's journey through a smart campa
 
    ![](assets/image2014-9-22-14-3a8-3a37.png)
 
-1. From the **Type** drop-down, select **Date Token**.
+1. From the **[!UICONTROL Type]** drop-down, select **[!UICONTROL Date Token]**.
 
    ![](assets/image2014-9-22-14-3a8-3a41.png)
 
-1. Choose a Date token to specify when the Wait step should end:
+1. Choose a [!UICONTROL Date token] to specify when the Wait step should end:
 
     * `{{my._____}}`
     * `{{lead.______}}`
@@ -49,7 +49,7 @@ You can use the Wait flow step to pause a person's journey through a smart campa
    >
    >You can also specify the number of days using a `{{lead.` or `{{company.` token that represents an integer field,  or a `{{my.` token of number type.
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-22-14-3a11-3a3.png)
 
