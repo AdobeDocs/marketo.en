@@ -8,7 +8,7 @@ exl-id: ef96a7f4-3942-4325-bb0f-7647ff2b33b6
 
 To generate and set up your RTP tag please follow the installation instructions below
 
-## Generate Tag {#generate-tag}
+## [!UICONTROL Generate Tag] {#generate-tag}
 
 1. Log in to your RTP account. Go to **[!UICONTROL Account Settings]**.
 
