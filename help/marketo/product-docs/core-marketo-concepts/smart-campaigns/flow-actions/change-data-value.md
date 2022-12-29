@@ -8,7 +8,7 @@ exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 
 ## Overview {#overview}
 
-You can use Marketo to update the value of a field. For this, you will use the **Change Data Value** flow action.
+You can use Marketo to update the value of a field. For this, you will use the **[!UICONTROL Change Data Value]** flow action.
 
 ![](assets/image2014-9-22-11-3a15-3a34.png)
 
@@ -28,11 +28,11 @@ You can use Marketo to update the value of a field. For this, you will use the *
 
    >[!NOTE]
    >
-   >You can also use tokens in **New Value**.
+   >You can also use tokens in **[!UICONTROL New Value]**.
 
    >[!TIP]
    >
-   >You can enter 'NULL' (no quotes, all caps) in **New Value** to clear the field. See [Clear Field Values](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md) for details.
+   >You can enter 'NULL' (no quotes, all caps) in **[!UICONTROL New Value]** to clear the field. See [Clear Field Values](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md) for details.
 
    >[!NOTE]
    >
