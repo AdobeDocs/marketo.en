@@ -14,15 +14,15 @@ exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 
 ## STEP 1: Create a Program {#step-create-a-program}
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
    ![](assets/landing-page-with-a-form-1.png)
 
-1. Select the **Learning** folder created in the [previous quick win](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}. Under **New**, click **New Program**.
+1. Select the **Learning** folder created in the [previous quick win](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}. Under **[!UICONTROL New]**, click **[!UICONTROL New Program]**.
 
    ![](assets/landing-page-with-a-form-2.png)
 
-1. Enter a program **Name**, select a **Channel**, and click **Create**.
+1. Enter a program **[!UICONTROL Name]**, select a **[!UICONTROL Channel]**, and click **[!UICONTROL Create]**.
 
    ![](assets/landing-page-with-a-form-3.png)
 
@@ -38,31 +38,31 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
 ## STEP 2: Create a Form {#step-create-a-form}
 
-1. With your program selected, click the **New** drop-down and select **New Local Asset**.
+1. With your program selected, click the **[!UICONTROL New]** drop-down and select **[!UICONTROL New Local Asset]**.
 
    ![](assets/landing-page-with-a-form-4.png)
 
-1. Select **Form**.
+1. Select **[!UICONTROL Form]**.
 
    ![](assets/landing-page-with-a-form-5.png)
 
-1. Enter a form **Name** and click **Create**.
+1. Enter a form **[!UICONTROL Name]** and click **[!UICONTROL Create]**.
 
    ![](assets/landing-page-with-a-form-6.png)
 
    >[!NOTE]
    >
-   >Be sure the **Open in editor** box is checked. If it's not, you'll need to click the **Edit Form** tab.
+   >Be sure the **[!UICONTROL Open in editor]** box is checked. If it's not, you'll need to click the **[!UICONTROL Edit Form]** tab.
 
    >[!TIP]
    >
    >Don't see the form editor? Your browser probably blocked the window. Enable pop-ups from `app.marketo.com` in your browser and click Edit Draft in the top menu bar.
 
-1. Select the **Email Address** field and check **Is Required**.
+1. Select the **[!UICONTROL Email Address]** field and check **[!UICONTROL Is Required][!UICONTROL **.
 
    ![](assets/landing-page-with-a-form-7.png)
 
-1. Click **Next**.
+1. Click **[!UICONTROL Next]**.
 
    ![](assets/landing-page-with-a-form-8.png)
 
@@ -70,11 +70,11 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
    ![](assets/landing-page-with-a-form-9.png)
 
-1. Click **Next**.
+1. Click **[!UICONTROL Next]**.
 
    ![](assets/landing-page-with-a-form-10.png)
 
-1. Under the Thank You Page section, select **External URL** for **Follow Up With**.
+1. Under the Thank You Page section, select **[!UICONTROL External URL]** for **[!UICONTROL Follow Up With]**.
 
    ![](assets/landing-page-with-a-form-11.png)
 
@@ -86,11 +86,11 @@ Nicely done! Now that we have created a program, let's move on and create some c
    >
    >The Follow Up Page is where the visitor is re-directed after filling out the form. External URL is one option but there are more. See [Set a Form Thank You Page](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}.
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/landing-page-with-a-form-13.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/landing-page-with-a-form-14.png)
 
@@ -98,15 +98,15 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
 ## STEP 3: Create a Landing Page and Add Your Form {#step-create-a-landing-page-and-add-your-form}
 
-1. With your program selected, click the **New** drop-down and select **New Local Asset**.
+1. With your program selected, click the **[!UICONTROL New]** drop-down and select **[!UICONTROL New Local Asset]**.
 
    ![](assets/landing-page-with-a-form-15.png)
 
-1. Select **Landing Page**.
+1. Select **[!UICONTROL Landing Page]**.
 
    ![](assets/landing-page-with-a-form-16.png)
 
-1. Enter a page **Name**, select a template and click **Create**.
+1. Enter a page **[!UICONTROL Name]**, select a template and click **[!UICONTROL Create]**.
 
    >[!NOTE]
    >
@@ -114,11 +114,11 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
    ![](assets/landing-page-with-a-form-17.png)
 
-1. Once the landing page editor opens, drag the Form element onto the canvas.
+1. Once the landing page editor opens, drag the [!UICONTROL Form] element onto the canvas.
 
    ![](assets/landing-page-with-a-form-18.png)
 
-1. Find and select your form and click **Insert**.
+1. Find and select your form and click **[!UICONTROL Insert]**.
 
    ![](assets/landing-page-with-a-form-19.png)
 
@@ -134,7 +134,7 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
 ## STEP 4: Approve Your Landing Page {#step-approve-your-landing-page}
 
-1. Select your landing page and click **Approve Draft**.
+1. Select your landing page and click **[!UICONTROL Approve draft]**.
 
    ![](assets/landing-page-with-a-form-22.png)
 
@@ -148,15 +148,15 @@ Nicely done! Now that we have created a program, let's move on and create some c
 
 ## STEP 5: Test Your Form {#step-test-your-form}
 
-1. Select your landing page and click **View Approved Page**.
+1. Select your landing page and click **[!UICONTROL View Approved Page]**.
 
    ![](assets/landing-page-with-a-form-24.png)
 
-1. Fill out the form with information you know is unique and click **Submit**.
+1. Fill out the form with information you know is unique and click **[!UICONTROL Submit]**.
 
    ![](assets/landing-page-with-a-form-25.png)
 
-1. Go to the **Database** area.
+1. Go to the **[!UICONTROL Database]** area.
 
    ![](assets/landing-page-with-a-form-26.png)
 
