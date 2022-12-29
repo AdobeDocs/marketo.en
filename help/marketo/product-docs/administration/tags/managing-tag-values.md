@@ -18,23 +18,23 @@ exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 
 ## Adding Tag Values {#adding-tag-values}
 
-1. Under **Admin**, click **Tags**.
+1. Under **[!UICONTROL Admin]**, click **[!UICONTROL Tags]**.
 
    ![](assets/image2014-9-24-12-3a24-3a55.png)
 
-1. Click **New**, then **New Tag Value**.
+1. Click **[!UICONTROL New]**, then **[!UICONTROL New Tag Value]**.
 
    ![](assets/image2014-9-24-12-3a25-3a23.png)
 
-1. Select the **Tag Type**.
+1. Select the **[!UICONTROL Tag Type]**.
 
    ![](assets/image2014-9-24-12-3a26-3a2.png)
 
-1. Enter a **Value** and click **Add Another**. You can add as many values as you'd like.
+1. Enter a **[!UICONTROL Values]** and click **[!UICONTROL Add Another]**. You can add as many values as you'd like.
 
    ![](assets/image2014-9-24-12-3a26-3a27.png)
 
-1. Add the remaining values and click **Create**.
+1. Add the remaining values and click **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-24-12-3a26-3a55.png)
 
@@ -50,7 +50,7 @@ Tags might be used by old programs. You can deprecate them for future use by hid
 
    ![](assets/image2014-9-24-12-3a28-3a25.png)
 
-1. Under **Tag Actions**, select **Hide**.
+1. Under **[!UICONTROL Tag Actions]**, select **[!UICONTROL Hide]**.
 
    ![](assets/image2014-9-24-12-3a29-3a4.png)
 
@@ -58,7 +58,7 @@ Tags might be used by old programs. You can deprecate them for future use by hid
 
 If you want to see your hidden values again, do the following:
 
-1. Select the Show Hidden box. Once checked, you can see the hidden value.
+1. Select the **[!UICONTROL Show Hidden]** box. Once checked, you can see the hidden value.
 
    ![](assets/image2014-9-24-12-3a29-3a58.png)
 
