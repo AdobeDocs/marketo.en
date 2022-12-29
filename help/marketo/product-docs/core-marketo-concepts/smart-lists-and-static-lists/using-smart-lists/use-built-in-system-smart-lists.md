@@ -10,17 +10,17 @@ Marketo has some very useful built-in smart lists. Let's check them out!
 
 >[!NOTE]
 >
->Marketo is in the process of changing terms such as Blacklist and Whitelist to Blocklist and Allowlist in our product. During this update, you may see the old terms in our UI and documentation screenshots, and the new terms in our documentation text. We apologize for any confusion.
+>Marketo is in the process of changing terms such as [!UICONTROL Blacklist] and [!UICONTROL Whitelist] to [!UICONTROL Blocklist] and [!UICONTROL Allowlist] in our product. During this update, you may see the old terms in our UI and documentation screenshots, and the new terms in our documentation text. We apologize for any confusion.
 
-1. Go to the **Database**.
+1. Go to the **[!UICONTROL Database]**.
 
    ![](assets/db.png)
 
-1. Open the **System Smart Lists** folder to reveal the collection.
+1. Open the **[!UICONTROL System Smart Lists]** folder to reveal the collection.
 
    ![](assets/two.png)
 
-1. To see one example: Select **All People**, then click the **People** tab.
+1. To see one example: Select **[!UICONTROL All People]**, then click the **[!UICONTROL People]** tab.
 
    ![](assets/three.png)
 
@@ -32,16 +32,16 @@ Here's a summary of what the built-in smart lists do:
 
    | List Name |Description |
    |---|---|
-   | All People |All people in your Marketo database |
-   | Unsubscribed People |These people can only be sent operational emails; this is usually controlled by the person themselves. |
-   | Marketing Suspended |These people can only be sent operational emails; this is usually controlled by you, the marketer. |
-   | Blocklist |These people will not receive any email at all. |
-   | Bounced Email Addresses |People with an undeliverable email address or that reject your email. |
-   | Possible Duplicates |People that might be duplicated in the Marketo database. |
+   | [!UICONTROL All People] |All people in your Marketo database |
+   | [!UICONTROL Unsubscribed People] |These people can only be sent operational emails; this is usually controlled by the person themselves. |
+   | [!UICONTROL Marketing Suspended] |These people can only be sent operational emails; this is usually controlled by you, the marketer. |
+   | [!UICONTROL Blocklist] |These people will not receive any email at all. |
+   | [!UICONTROL Bounced Email Addresses] |People with an undeliverable email address or that reject your email. |
+   | [!UICONTROL Possible Duplicates] |People that might be duplicated in the Marketo database. |
 
 >[!NOTE]
 >
->System smart lists can't be deleted. With the exception of the Possible Duplicates list, they cannot be edited, either.
+>System smart lists can't be deleted. With the exception of the [!UICONTROL Possible Duplicates] list, they cannot be edited, either.
 
 >[!MORELIKETHIS]
 >
