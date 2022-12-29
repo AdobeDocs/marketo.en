@@ -9,7 +9,7 @@ exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 
 In addition to running single flow actions from within a Smart List, you can also run them directly on a Person Detail page.
 
-1. Click **Database**.
+1. Click **[!UICONTROL Database]**.
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 
@@ -17,11 +17,11 @@ In addition to running single flow actions from within a Smart List, you can als
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. Click the **Person Actions** drop-down and select the flow step of your choice. In this example we'll use [Send Email](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
+1. Click the **[!UICONTROL Person Actions]** drop-down and select the flow step of your choice. In this example we'll use [[!UICONTROL Send Emai]l](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
-1. Select the desired email and click **Run Now**.
+1. Select the desired email and click **[!UICONTROL Run Now]**.
 
    ![](assets/single-flow-actions-from-person-detail-page-4.png)
 
