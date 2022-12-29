@@ -20,15 +20,15 @@ Tags will help you organize your programs while channels will assist in gatherin
 
 To create a new tag type:
 
-1. Go to the **Admin** section.
+1. Go to the **[!UICONTROL Admin]** section.
 
    ![](assets/create-custom-tags-1.png)
 
-1. Click **Tags**.
+1. Click **[!UICONTROL Tags]**.
 
    ![](assets/create-custom-tags-2.png)
 
-1. Click **New** and select **New Tag Type.**
+1. Click **[!UICONTROL New]** and select **[!UICONTROL New Tag Type].**
 
    ![](assets/create-custom-tags-3.png)
 
@@ -36,7 +36,7 @@ To create a new tag type:
 
    ![](assets/create-custom-tags-4.png)
 
-1. Enter the desired Value for the Tag Type. Click **Add Another** to enter additional values.
+1. Enter the desired Value for the Tag Type. Click **[!UICONTROL Add Another]** to enter additional values.
 
    ![](assets/create-custom-tags-5.png)
 
@@ -50,13 +50,13 @@ To create a new tag type:
 
    >[!NOTE]
    >
-   >* Select "Required" if you want this tag added any time a new program is created.
-   >* Removing a program type from the ‘Applies to’ list will delete the tag and its values from all existing programs of that type. If you want to preserve existing tag values and make this tag optional moving forward for _all_ program types listed, leave the "Required" checkbox unselected.
+   >* Select "[!UICONTROL Required]" if you want this tag added any time a new program is created.
+   >* Removing a program type from the ‘[!UICONTROL Applies to]’ list will delete the tag and its values from all existing programs of that type. If you want to preserve existing tag values and make this tag optional moving forward for _all_ program types listed, leave the "Required" checkbox unselected.
 
    >[!TIP]
    >
-   >If you want to make a similar tag required for some program types but optional for others, you'll need to set up two separate tags, each applying to different program types with one with "Required" selected, and the other with "Required" not selected.
+   >If you want to make a similar tag required for some program types but optional for others, you'll need to set up two separate tags, each applying to different program types with one with "[!UICONTROL Required]" selected, and the other with "[!UICONTROL Required]" not selected.
 
-1. Click **Create**.
+1. Click **[!UICONTROL Create]**.
 
    ![](assets/create-custom-tags-8.png)
