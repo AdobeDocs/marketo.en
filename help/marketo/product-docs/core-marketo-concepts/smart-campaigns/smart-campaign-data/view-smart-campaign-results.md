@@ -8,11 +8,11 @@ exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 
 Want to see a breakdown of everything that happened in a smart campaign? It's easy, here's how.
 
-1. In your smart campaign, click **Results**.
+1. In your smart campaign, click **[!UICONTROL Results]**.
 
    >[!TIP]
    >
-   >You can see the list of people who were processed by the smart campaign by clicking [View Campaign Members](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md).
+   >You can see the list of people who were processed by the smart campaign by clicking [[!UICONTROL View Campaign Members]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md).
 
    ![](assets/image2014-9-22-11-38-10.jpg)
 
@@ -20,7 +20,7 @@ Want to see a breakdown of everything that happened in a smart campaign? It's ea
    >
    >You can also filter the results based on activity type. Learn how to [filter smart campaign results](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md).
 
-1. Click an **ID** to view more detail about that particular activity.
+1. Click an **[!UICONTROL ID]** to view more detail about that particular activity.
 
    ![](assets/image2014-9-22-11-39-22.jpg)
 
@@ -28,7 +28,7 @@ Want to see a breakdown of everything that happened in a smart campaign? It's ea
    >
    >View person details by clicking the person's name.
 
-   Dig into the results to see what your campaign actually did, or simply [export smart campaign results to Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md).
+   Dig into the results to see what your campaign actually did, or simply [export smart campaign results to [!DNL Excel]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md).
 
    >[!MORELIKETHIS]
    >
