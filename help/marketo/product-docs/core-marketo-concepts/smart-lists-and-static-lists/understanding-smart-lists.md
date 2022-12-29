@@ -27,13 +27,13 @@ Here you can [edit the smart list name](/help/marketo/product-docs/core-marketo-
 
 ## People Tab {#people-tab}
 
-This is where you see your results; i.e., all the people who qualify for the filters you [added and defined](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) under the Smart List tab.
+This is where you see your results; i.e., all the people who qualify for the filters you [added and defined](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) under the [!UICONTROL Smart List] tab.
 
 ![](assets/smartlist-people.png)
 
 ## Smart List Tab {#smart-list-tab}
 
-You add and define the filters to see a specific group of people in the People tab.
+You add and define the filters to see a specific group of people in the [!UICONTROL People] tab.
 
 ![](assets/smartlist-filters.png)
 
