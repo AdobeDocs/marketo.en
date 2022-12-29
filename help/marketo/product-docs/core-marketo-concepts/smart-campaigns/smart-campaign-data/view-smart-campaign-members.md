@@ -8,11 +8,11 @@ exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 
 View people who have already run through the smart campaign flow; i.e., smart campaign members.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
 ![](assets/login-marketing-activities.png)
 
-1. In your smart campaign, click **View Campaign Members**.
+1. In your smart campaign, click **[!UICONTROL View Campaign Members]**.
 
    ![](assets/changescore-hands.png)
 
@@ -20,7 +20,7 @@ View people who have already run through the smart campaign flow; i.e., smart ca
 >
 >You can view campaign members from anywhere within a smart campaign.
 
-1. The **Campaign Members** tab shows people that have already run through the smart campaign flow.
+1. The **[!UICONTROL Campaign Members]** tab shows people that have already run through the smart campaign flow.
 
    ![](assets/smartcampaignheader-complete.jpg)
 
