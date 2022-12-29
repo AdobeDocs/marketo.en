@@ -23,7 +23,7 @@ By default, your smart list will find the people that match **ALL** filters (fil
 
 In this example, let's say you want to find people in California _and_ with a score of at least 50 points _or_ with a status of "Sales Qualified."
 
-1. Select **Use Advanced filters** from the drop-down.
+1. Select **[!UICONTROL Use Advanced filters]** from the drop-down.
 
    ![](assets/one.png)
 
