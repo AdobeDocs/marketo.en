@@ -20,7 +20,7 @@ For example, if you work in both production and sandbox instances, you can name 
 
    ![](assets/image2015-6-23-15-3a16-3a52.png)
 
-1. Click **[!UICONTROL Edit Subscription Information]**.
+1. Under **[!UICONTROL Subscription Information]** click **[!UICONTROL Edit]**.
 
    ![](assets/image2016-5-24-10-3a34-3a32.png)
 
