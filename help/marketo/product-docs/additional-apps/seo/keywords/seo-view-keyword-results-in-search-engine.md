@@ -12,7 +12,7 @@ If you want to see how your content looks inside a search engine, we've added a 
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 
-1. Hover over a keyword. Click **[!UICONTROL view results]**.
+1. Hover over a keyword. Click **[!UICONTROL View Results]**.
 
    ![](assets/image2014-9-18-13-3a34-3a2.png)
 
