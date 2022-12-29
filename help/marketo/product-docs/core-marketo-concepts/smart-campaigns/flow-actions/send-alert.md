@@ -8,7 +8,7 @@ exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 
 ## Overview {#overview}
 
-Marketo can send an email alert with person information to anyone - the sales owner, a partner, or someone else. Use the **Send Alert** flow step.
+Marketo can send an email alert with person information to anyone - the sales owner, a partner, or someone else. Use the **[!UICONTROL Send Alert]** flow step.
 
 ![](assets/one-1.png)
 
@@ -30,7 +30,7 @@ Marketo can send an email alert with person information to anyone - the sales ow
     >
     >Be sure to use the **Send Alert Info** token in your email.
 
-1. Select the alert recipient. You can pick Sales Owner or Account Owner.
+1. Select the alert recipient. You can pick [!UICONTROL Sales Owner] or [!UICONTROL Account Owner].
 
     ![](assets/four-2.png)
 
@@ -40,9 +40,9 @@ Marketo can send an email alert with person information to anyone - the sales ow
 
     >[!TIP]
     >
-    >In trigger campaigns, you can use tokens in **To Other Emails** such as `{{lead.Territory Owner}}` or `{{my.Alert Recipient}}` as long as the values are valid email addresses. Tokens in **To Other Emails** will not work in a batch campaign.
+    >In trigger campaigns, you can use tokens in **[!UICONTROL To Other Emails]** such as `{{lead.Territory Owner}}` or `{{my.Alert Recipient}}` as long as the values are valid email addresses. Tokens in **[!UICONTROL To Other Emails]** will not work in a batch campaign.
 
-That's it! Now you know how to use the **Send Alert** flow step.
+That's it! Now you know how to use the **[!UICONTROL Send Alert]** flow step.
 
 >[!MORELIKETHIS]
 >
