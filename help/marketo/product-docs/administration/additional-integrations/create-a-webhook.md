@@ -6,7 +6,7 @@ exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 ---
 # Create a Webhook {#create-a-webhook}
 
-Use [!DNL Webhooks] to take advantage of third-party web services to send text messages, expand person data, and more.
+Use Webhooks to take advantage of third-party web services to send text messages, expand person data, and more.
 
 >[!AVAILABILITY]
 >
@@ -48,4 +48,4 @@ Use [!DNL Webhooks] to take advantage of third-party web services to send text m
 
 >[!NOTE]
 >
->Learn more in the [[!DNL Webhooks]](https://developers.marketo.com/documentation/webhooks/) deep dive.
+>Learn more in the [DNL Webhooks](https://developers.marketo.com/documentation/webhooks/) deep dive.
