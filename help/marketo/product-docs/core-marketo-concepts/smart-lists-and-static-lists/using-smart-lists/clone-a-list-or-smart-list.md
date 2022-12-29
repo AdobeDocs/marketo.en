@@ -8,7 +8,7 @@ exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 
 Instead of creating a smart list from scratch, save some time by cloning a similar one and making changes. Here's how.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -16,11 +16,11 @@ Instead of creating a smart list from scratch, save some time by cloning a simil
 
    ![](assets/smartlist-find.png)
 
-1. Under **List Actions**, click **Clone Smart List**.
+1. Under **[!UICONTROL List Actions]**, click **[!UICONTROL Clone Smart List]**.
 
    ![](assets/clonesmartlist-hands.png)
 
-1. Enter a **Name** and click **Clone**.
+1. Enter a **[!UICONTROL Name]** and click **[!UICONTROL Clone]**.
 
    ![](assets/supersmartlist-clonewindow.png)
 
