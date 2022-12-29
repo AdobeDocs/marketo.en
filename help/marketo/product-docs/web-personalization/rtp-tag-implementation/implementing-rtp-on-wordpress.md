@@ -4,25 +4,25 @@ description: Implementing RTP on Wordpress - Marketo Docs - Product Documentatio
 title: Implementing RTP on Wordpress
 exl-id: f010942b-02bb-447b-a272-c4237782b2d7
 ---
-# Implementing RTP on Wordpress {#implementing-rtp-on-wordpress}
+# Implementing RTP on [!DNL Wordpress] {#implementing-rtp-on-wordpress}
 
-To implement your RTP tag please follow the installation instructions below:
+To implement your [!UICONTROL RTP tag] please follow the installation instructions below:
 
-1. Open up the **header.php** file of your **WordPress theme**.
+1. Open up the **[!UICONTROL header.php]** file of your **[!DNL WordPress] theme**.
 
-   You can either use an FTP client to access your server or edit your theme files directly from the WordPress dashboard. Your file editor is located under the **Appearance** tab in the sidebar menu.
+   You can either use an FTP client to access your server or edit your theme files directly from the [!DNL WordPress] dashboard. Your file editor is located under the **[!UICONTROL Appearance]** tab in the sidebar menu.
 
    ![](assets/image2014-11-30-15-3a35-3a30.png)
 
-1. In the list of template files to the right of the text editor, find **header.php** and open it.
+1. In the list of template files to the right of the text editor, find **[!UICONTROL header.php]** and open it.
 
-1. Go to **Account Settings**.
+1. Go to **[!UICONTROL Account Settings]**.
 
    a. If you have already received your JavaScript tag from Support - continue to step 5.  
 
    ![](assets/image2014-11-30-15-3a19-3a21-1.png)
 
-1. Under Domain, locate the relevant domain and click **Generate Tag**.
+1. Under [!UICONTROL Domain], locate the relevant domain and click **[!UICONTROL Generate Tag]**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-1.png)
 
@@ -32,8 +32,8 @@ To implement your RTP tag please follow the installation instructions below:
 
    ![](assets/image2014-11-30-15-3a36-3a31.png)
 
-1. Click on **Update File** for the header.php file.
+1. Click on **[!UICONTROL Update File]** for the [!UICONTROL header.php] file.
 
 1. Verify that it appears on all pages including landing pages and sub-domains.
 
-   a. You can do this by right-clicking on you website’s page. Go to **View Page Source.** Search for **RTP** to locate the tag.
+   a. You can do this by right-clicking on you website’s page. Go to **[!UICONTROL View Page Source].** Search for **RTP** to locate the tag.
