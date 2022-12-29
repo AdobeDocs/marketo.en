@@ -14,19 +14,19 @@ In this example, let's find all people in California with a score over 50.
 >
 >Explore the tree on the right - filters are very powerful and have a wide variety of possible functions.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
-1. Select the smart list you want to add filters to and click the **Smart List** tab.
+1. Select the smart list you want to add filters to and click the **[!UICONTROL Smart List]** tab.
 
    ![](assets/two.png)
 
-1. Find and drag the **State** filter onto the canvas.
+1. Find and drag the **[!UICONTROL State]** filter onto the canvas.
 
    ![](assets/three.png)
 
-1. Also find and drag the **Score** filter over.
+1. Also find and drag the **[!UICONTROL Score]** filter over.
 
    ![](assets/four.png)
 
