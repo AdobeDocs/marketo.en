@@ -10,7 +10,7 @@ Marketo automatically de-duplicates when new people enter the system. However, y
 
 >[!NOTE]
 >
->Marketo will not automatically de-dupe against a Salesforce or Microsoft Dynamics sync, or when you manually enter people.
+>Marketo will not automatically de-dupe against a [!DNL Salesforce] or [!DNL Microsoft Dynamics] sync, or when you manually enter people.
 
 >[!PREREQUISITES]
 >
@@ -18,15 +18,15 @@ Marketo automatically de-duplicates when new people enter the system. However, y
 
 ## Find Duplicates {#find-duplicates}
 
-1. Go to the **Database** area.
+1. Go to the **[!UICONTROL Database]** area.
 
    ![](assets/db.png)
 
    >[!CAUTION]
    >
-   >Merging people in Marketo may not work if you use a Salesforce Person Account. Please merge the records in Salesforce if possible.
+   >Merging people in Marketo may not work if you use a [!DNL Salesforce] Person Account. Please merge the records in [!DNL Salesforce] if possible.
 
-1. Select the **Possible Duplicates** system smart list and click on the **People** tab.
+1. Select the **[!UICONTROL Possible Duplicates]** system smart list and click on the **[!UICONTROL People]** tab.
 
    ![](assets/two.png)
 
@@ -40,7 +40,7 @@ Marketo automatically de-duplicates when new people enter the system. However, y
    >
    >When merging people, if the losing person has a Marketo custom object, it will **not** get re-associated to the winning person. Please re-parent the custom object prior to performing the merge.
 
-1. Select the duplicates by holding Ctrl/Cmd and clicking, then click **Merge People**.
+1. Select the duplicates by holding Ctrl/Cmd and clicking, then click **[!UICONTROL Merge People]**.
 
    ![](assets/three.png)
 
@@ -48,7 +48,7 @@ Marketo automatically de-duplicates when new people enter the system. However, y
    >
    >You could have two or more duplicates for the same person - select them all at once.
 
-1. You will see the values between the records that _don't_ match. Select the value you want to keep for each field. Click **Merge** when done. If you don't want either value, you can check **Custom** and enter a value of your choice.
+1. You will see the values between the records that _don't_ match. Select the value you want to keep for each field. Click **[!UICONTROL Merge]** when done. If you don't want either value, you can check **[!UICONTROL Custom]** and enter a value of your choice.
 
    ![](assets/four.png)
 
@@ -62,10 +62,10 @@ Marketo automatically de-duplicates when new people enter the system. However, y
 
 ## Effect in Salesforce {#effect-in-salesforce}
 
-If you have Salesforce integration, there are a few notes about the effect of Merge Leads in Salesforce.
+If you have Salesforce integration, there are a few notes about the effect of Merge Leads in [!DNL Salesforce].
 
-* When merging only Leads or only Contacts, they merge per normal Salesforce rules.
-* When merging Leads and Contacts together, all Leads are converted to Contacts prior to merging per normal Salesforce rules.
+* When merging only Leads or only Contacts, they merge per normal [!DNL Salesforce] rules.
+* When merging Leads and Contacts together, all Leads are converted to Contacts prior to merging per normal [!DNL Salesforce] rules.
 
 For specifics of Salesforce behavior when merging Leads or Contacts, please check the following Salesforce documents:
 
