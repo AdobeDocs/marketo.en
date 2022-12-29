@@ -32,7 +32,7 @@ Here's how to create a segment using an [!UICONTROL Account List].
    >
    >[!UICONTROL Account Lists] are synced from ABM to Web Personalization for use in Segmentation. Select them from the drop-down. The sync can take up to five minutes. It will only sync if there are one or more Named Accounts in the [!UICONTROL  Account List].
 
-1. Click **Save**, or click **Save & Define Campaign** to go to the Campaigns page.  
+1. Click **[!UICONTROL Save]**, or click **[!UICONTROL Save & Define Campaign]** to go to the Campaigns page.  
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
