@@ -8,19 +8,19 @@ exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 
 Program statuses are the checkpoints through a programs path (channel). If you make a status by mistake or no longer need it, feel free to delete it.
 
-1. Go to the **Admin** section.
+1. Go to the **[!UICONTROL Admin]** section.
 
    ![](assets/admin.png)
 
-1. Click **Tags**.
+1. Click **[!UICONTROL Tags]**.
 
    ![](assets/image2014-9-24-15-3a51-3a24.png)
 
-1. Select the channel you want to remove a status from, then under **Tag Actions**, click **Edit**.
+1. Select the channel you want to remove a status from, then under **[!UICONTROL Tag Actions]**, click **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-24-15-3a51-3a45.png)
 
-1. Click ![X icon](assets/image2014-9-24-15-3a52-3a39.png) to remove the status, then click **Save**.
+1. Click ![X icon](assets/image2014-9-24-15-3a52-3a39.png) to remove the status, then click **[!UICONTROL Save]**.
 
    >[!TIP]
    >
