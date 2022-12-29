@@ -6,7 +6,7 @@ exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 ---
 # Inferred Filters {#inferred-filters}
 
-When someone visits your website, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies them and puts them into the system. We look up their IP in a special database and infer all kinds of good info. Check it out.
+When someone visits your website, [[!DNL Munchkin]](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies them and puts them into the system. We look up their IP in a special database and infer all kinds of good info. Check it out.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
