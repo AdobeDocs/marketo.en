@@ -27,19 +27,19 @@ exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 
 A static list is just that, static. No changes will occur to the list in Adobe Experience Cloud unless you manually make them.
 
-1. In Marketo, find the list you want to export. Right-click on it and select **Send to Experience Cloud**.
+1. In Marketo, find the list you want to export. Right-click on it and select **[!UICONTROL Send to Experience Cloud]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
-1. Click the **Audience Manager Folder** drop-down and select the desired destination folder in the Experience Cloud.
+1. Click the **[!UICONTROL Audience Manager Folder]** drop-down and select the desired destination folder in the Experience Cloud.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
-1. Choose whether to create a new audience or overwrite an existing one (in this example we're creating a new one). Enter the new audience name and click **Send**.
+1. Choose whether to create a new audience or overwrite an existing one (in this example we're creating a new one). Enter the new audience name and click **[!UICONTROL Send]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-3.png)
 
-1. Click **OK**.
+1. Click **[!UICONTROL OK]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-4.png)
 
@@ -51,19 +51,19 @@ A static list is just that, static. No changes will occur to the list in Adobe E
 
 Syncing a list means any time you update a list in Marketo, that change automatically syncs over to its audience in Adobe Experience Cloud.
 
-1. In Marketo, find the list you want to export. Right-click on it and select **Send to Experience Cloud**.
+1. In Marketo, find the list you want to export. Right-click on it and select **[!UICONTROL Send to Experience Cloud]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
 
-1. Click the **Audience Library Folder** drop-down and select the desired destination folder in the Experience Cloud.
+1. Click the **[!UICONTROL Audience Library Folder]** drop-down and select the desired destination folder in the Experience Cloud.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
 
-1. Choose whether to create a new audience or overwrite an existing one (in this example we're creating a new one). Enter the new audience name, check the **Keep Audience Membership in Sync** box, and click **Send**.
+1. Choose whether to create a new audience or overwrite an existing one (in this example we're creating a new one). Enter the new audience name, check the **[!UICONTROL Keep Audience Membership in Sync]** box, and click **[!UICONTROL Send]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
 
-1. Click **OK**.
+1. Click **[!UICONTROL OK]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
 
@@ -71,15 +71,15 @@ Syncing a list means any time you update a list in Marketo, that change automati
 
 You can stop your list from syncing at any time.
 
-1. In Marketo, find and right-click on the list you want to stop syncing. Click **Stop List Sync**.
+1. In Marketo, find and right-click on the list you want to stop syncing. Click **[!UICONTROL Stop List Sync]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
 
-1. Select the audience(s) you want to stop being synced and click **Stop**.
+1. Select the audience(s) you want to stop being synced and click **[!UICONTROL Stop]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
 
-1. Click **Stop** to confirm.
+1. Click **[!UICONTROL Stop]** to confirm.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
 
