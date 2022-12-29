@@ -26,7 +26,7 @@ Welcome to Marketo! Feel free to use the following checklist as a visual to-do l
 1. Select an Email CNAME for branded tracking links
 1. Ask IT to set up a DNS record for your email CNAME
 1. Ask IT to allowlist Marketo
-1. Set up DKIM and SPF in the Admin area
+1. Set up DKIM and SPF in the [!UICONTROL Admin] area
 1. Set up MX for `[FromDomain1]`
 1. When IT is done with the email CNAME, setup your email CNAME in Marketo
 
