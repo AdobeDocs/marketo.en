@@ -20,7 +20,7 @@ You can create new smart campaigns and [rerun existing ones](/help/marketo/produ
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. Click the **Type** drop-down and choose **Smart Campaign**.
+1. Click the **[!UICONTROL Type]** drop-down and choose **[!UICONTROL Smart Campaign]**.
 
    ![](assets/typechoose.png)
 
