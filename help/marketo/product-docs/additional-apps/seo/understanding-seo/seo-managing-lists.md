@@ -8,7 +8,7 @@ exl-id: 6b78f8be-fc42-4431-a9c7-703612ec448f
 
 You can add things to lists when you are adding keywords, pages, page issues, or inbound links. Lists help you stay organized and let you filter reports to only see data on that list. Here's how to make them:
 
-1. Click **Add Keywords**.
+1. Click **[!UICONTROL Add Keywords]**.
 
    >[!NOTE]
    >
@@ -24,7 +24,7 @@ You can add things to lists when you are adding keywords, pages, page issues, or
    >
    >You can create a new list in the drop-down. Enter a title, hit the return key.
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)
 
