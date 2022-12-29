@@ -4,13 +4,13 @@ description: SEO - Understanding Keywords - Marketo Docs - Product Documentation
 title: SEO - Understanding Keywords
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 ---
-# SEO - Understanding Keywords {#seo-understanding-keywords}
+# SEO - Understanding [!UICONTROL Keywords] {#seo-understanding-keywords}
 
 [!UICONTROL Keywords] are the backbone of your SEO strategy. Your goal is to be on the first page, as close to #1 as possible for keywords relevant to your business.
 
-The [!UICONTROL keywords] section will show you how successful your site is at achieving this and how you stack up to [your competition](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
+The [!UICONTROL Keywords] section will show you how successful your site is at achieving this and how you stack up to [your competition](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
 
-## Keywords - Summary View {#keywords-summary-view}
+## [!UICONTROL Keywords] - Summary View {#keywords-summary-view}
 
 ![](assets/image2014-9-17-21-3a44-3a25.png) 
 
@@ -45,7 +45,7 @@ The [!UICONTROL keywords] section will show you how successful your site is at a
  </tbody> 
 </table>
 
-## Keywords - Competitor View {#keywords-competitor-view}
+## [!UICONTROL Keywords] - Competitor View {#keywords-competitor-view}
 
 You can also view how your competitors are performing using the same metrics by clicking on the view drop-down and selecting competitors.
 
