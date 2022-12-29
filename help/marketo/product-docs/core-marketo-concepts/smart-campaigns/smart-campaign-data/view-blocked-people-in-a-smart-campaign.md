@@ -12,7 +12,7 @@ Blocked people in the Marketo database are marked blocklisted, unsubscribed, mar
 >
 >Marketo is in the process of changing terms such as Blacklist and Whitelist to Blocklist and Allowlist in our product. During this update, you may see the old terms in our UI and documentation screenshots, and the new terms in our documentation text. We apologize for any confusion.
 
-1. In your smart campaign, click on **Schedule**. Under **Smart List Status** click on the second link.
+1. In your smart campaign, click on **[!UICONTROL Schedule]**. Under **[!UICONTROL Smart List Status]** click on the second link.
 
    ![](assets/image2014-9-22-16-3a47-3a38.png)
 
@@ -20,7 +20,7 @@ Blocked people in the Marketo database are marked blocklisted, unsubscribed, mar
    >
    >People who have reached their communication limits may also be blocked from receiving mails. Learn how to [edit communication limits](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) in the Admin section.
 
-   The Blocked People tab shows people who might not receive mailings.
+   The **[!UICONTROL Blocked Leads]** tab shows people who might not receive mailings.
 
    ![](assets/image2014-9-22-16-3a48-3a11.png)
 
