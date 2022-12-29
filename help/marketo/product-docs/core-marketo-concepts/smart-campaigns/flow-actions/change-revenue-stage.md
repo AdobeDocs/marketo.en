@@ -14,11 +14,11 @@ If you're using Revenue Cycle Modeler and have an approved model, you may decide
 
 ## Usage {#usage}
 
-1. Select the **Model**.
+1. Select the **[!UICONTROL Model]**.
 
    ![](assets/image2014-9-22-17-3a5-3a4.png)
 
-1. Select the **New Stage** you want to assign and you're done!
+1. Select the **[!UICONTROL New Stage]** you want to assign and you're done!
 
    ![](assets/image2014-9-22-17-5-8.png)
 
