@@ -8,7 +8,7 @@ exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 
 You can build an email program from within the program schedule view. Here's how.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -20,7 +20,7 @@ You can build an email program from within the program schedule view. Here's how
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. Enter a name. Select **Email Program**.
+1. Enter a name. Select **[!UICONTROL Email Program]**.
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -28,7 +28,7 @@ You can build an email program from within the program schedule view. Here's how
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Set up your email program](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) and click **Approve Program**.
+1. [Set up your email program](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) and click **[!UICONTROL Approve Program]**.
 
    ![](assets/learnaboutthespeaker.png)
 
