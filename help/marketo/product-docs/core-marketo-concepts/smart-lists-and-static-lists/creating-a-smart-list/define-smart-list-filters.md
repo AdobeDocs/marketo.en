@@ -15,15 +15,15 @@ Now that you've [created a smart list](/help/marketo/product-docs/core-marketo-c
 
 Continuing our example, let's define these filters to find all people in California with a score over 50.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Select the smart list and click on the **Smart List** tab.
+1. Select the smart list and click on the **[!UICONTROL Smart List]** tab.
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Find and select **CA** for the **State** filter.
+1. Find and select **[!UICONTROL CA]** for the **[!UICONTROL State]** filter.
 
    ![](assets/smartlistdefinefilters.png)
 
@@ -31,7 +31,7 @@ Continuing our example, let's define these filters to find all people in Califor
    >
    >You may be storing both **California** and **CA**. In order to filter for both values and include _all_ people from California, learn how to  [add multiple values to a smart list filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
 
-1. Pick the **greater than** operator and enter **50**.
+1. Pick the **[!UICONTROL greater than]** operator and enter **50**.
 
    ![](assets/smartlistfilter-personscore.png)
 
