@@ -12,11 +12,11 @@ Marketo allows you to set the maximum number of people that can qualify for a sm
 >
 >Be sure to [enable person restrictions for smart campaigns](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) in Marketo Admin.
 
-1. In Marketing Activities, go to your smart campaign and click **Schedule**.
+1. In **[!UICONTROL Marketing Activities]**, go to your smart campaign and click **[!UICONTROL Schedule]**.
 
    ![](assets/one.png)
 
-1. In Smart Campaign Settings, click **Edit**.
+1. In **[!UICONTROL Smart Campaign Settings]**, click **[!UICONTROL Edit]**.
 
    ![](assets/two.png)
 
@@ -24,7 +24,7 @@ Marketo allows you to set the maximum number of people that can qualify for a sm
    >
    >The default limit is the one set in Admin.
 
-1. Enter a new limit and then click **Save.**
+1. Enter a new limit and then click **[!UICONTROL Save].**
 
    ![](assets/three.png)
 
