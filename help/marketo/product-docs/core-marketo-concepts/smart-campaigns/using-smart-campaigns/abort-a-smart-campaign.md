@@ -12,15 +12,15 @@ exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 
 Sometimes you launch a smart campaign and immediately realize it was a mistake. Here's how to pull the emergency brake and stop the smart campaign mid-run.
 
-1. Under **Marketing Activities**, select your smart campaign and go to the **Schedule** tab.
+1. Under **[!UICONTROL Marketing Activities]**, select your smart campaign and go to the **[!UICONTROL Schedule]** tab.
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
-1. Click the **Campaign Actions** drop-down. Select **Abort Campaign**.
+1. Click the **[!UICONTROL Campaign Actions]** drop-down. Select **[!UICONTROL Abort Campaign]**.
 
    ![](assets/image2014-9-22-16-19-48.png)
 
-1. Click **Abort** to confirm.
+1. Click **[!UICONTROL Abort]** to confirm.
 
    ![](assets/image2014-9-22-16-3a19-3a57.png)
 
