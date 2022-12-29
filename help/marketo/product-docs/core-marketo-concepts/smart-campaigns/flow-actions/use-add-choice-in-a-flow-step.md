@@ -12,7 +12,7 @@ exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 
 **Add Choice** lets you use a flow step and say "It depends" when you are choosing the details.
 
-1. Under the **Flow** tab of the smart campaign, add any flow step and then click on **Add Choice**.
+1. Under the **[!UICONTROL Flow]** tab of the smart campaign, add any flow step and then click on **[!UICONTROL Add Choice]**.
 
    ![](assets/image2014-9-22-11-3a58-3a20.png)
 
