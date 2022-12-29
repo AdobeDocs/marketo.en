@@ -6,7 +6,7 @@ exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 ---
 # Login and User Management {#login-and-user-management}
 
-## Create a Web Personalization User Role {#create-a-web-personalization-user-role}
+## Create a [!UICONTRO Web Personalization] User Role {#create-a-web-personalization-user-role}
 
 1. Go to the **[!UICONTROL Admin]** section, then click **[!UICONTROL Users & Roles]**.
 
