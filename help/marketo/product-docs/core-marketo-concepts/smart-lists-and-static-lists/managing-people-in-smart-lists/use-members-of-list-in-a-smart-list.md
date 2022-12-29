@@ -12,11 +12,11 @@ exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 
 With this filter, you can pull members from another list by referring to it in your smart list rules. Here's how.
 
-1. Select a smart list and click the **Smart List** tab.
+1. Select a smart list and click the **[!UICONTROL Smart List]** tab.
 
    ![](assets/smartlist-sltab.png)
 
-1. On the right side filters panel, search for and drag the **Member of List** filter onto the canvas.
+1. On the right side filters panel, search for and drag the **[!UICONTROL Member of List]** filter onto the canvas.
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 
