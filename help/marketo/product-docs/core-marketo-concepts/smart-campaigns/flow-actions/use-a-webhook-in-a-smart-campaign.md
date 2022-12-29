@@ -18,11 +18,11 @@ To use a [webhook](https://developers.marketo.com/documentation/webhooks/), add 
    >
    >Webhooks can only be used in trigger campaigns.
 
-1. Go to the **Flow** tab and drag in the **Call Webhook** flow action.
+1. Go to the **[!UICONTROL Flow]** tab and drag in the **[!UICONTROL Call Webhook]** flow action.
 
    ![](assets/image2014-9-22-15-3a8-3a2.png)
 
-1. Select the Webhook.
+1. Select the **[!UICONTROL Webhook]**.
 
    ![](assets/image2014-9-22-15-3a8-3a5.png)
 
@@ -30,6 +30,6 @@ To use a [webhook](https://developers.marketo.com/documentation/webhooks/), add 
 
    ![](assets/2017-05-02-10-54-38.png)
 
-1. Finally, you can use Webhooks in **Add Choice** in a flow step.
+1. Finally, you can use Webhooks in **[!UICONTROL Add Choice]** in a flow step.
 
    ![](assets/image2014-9-22-15-3a8-3a13.png)
