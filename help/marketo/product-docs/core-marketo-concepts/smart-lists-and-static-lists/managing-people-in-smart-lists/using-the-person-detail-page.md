@@ -14,7 +14,7 @@ There are lots of ways to open specific people. Some examples are:
 
 * From the **Database**, you can search in the Quick Find
 * Any smart **list** or list
-* **Members** tab of a program
+* **[!UICONTROL Members]** tab of a program
 * **View Campaign Members** in a Smart Campaign
 * Some **reports**
 <br>&nbsp;
@@ -73,12 +73,12 @@ Many fields are editable. To update a person's information, type in a new value 
 | Industry |Inferred City |Inferred Company |Inferred Country |Inferred Metropolitan Area |
 | Inferred Phone Area Code |Inferred Postal Code |Inferred State Region |Is Anonymous |Is Customer |
 | Is Partner |Job Title |Last Name |Rating |Score |
-| Person Source |Status |Main Phone |Marketo Social Facebook Display Name |Marketo Social Facebook Id |
-| Marketo Social Facebook Photo URL |Marketo Social Facebook Profile URL |Marketo Social Facebook Reach |Marketo Social Facebook Referred Enrollments |Marketo Social Facebook Referred Visits |
-| Marketo Social Gender |Marketo Social Last Referred Enrollment |Marketo Social Last Referred Visit |Marketo Social LinkedIn Display Name |Marketo Social LinkedIn Id |
-| Marketo Social LinkedIn Photo URL |Marketo Social LinkedIn Profile URL |Marketo Social LinkedIn Reach |Marketo Social LinkedIn Referred Enrollments |Marketo Social LinkedIn Referred Visits |
-| Marketo Social Syndication ID |Marketo Social Total Referred Enrollments |Marketo Social Total Referred Visits |Marketo Social Twitter Display Name |Marketo Social Twitter Id |
-| Marketo Social Twitter Photo URL |Marketo Social Twitter Profile URL |Marketo Social Twitter Reach |Marketo Social Twitter Referred Enrollments |Marketo Social Twitter Referred Visits |
+| Person Source |Status |Main Phone |Marketo Social [!DNL Facebook] Display Name |Marketo Social [!DNL Facebook] Id |
+| Marketo Social [!DNL Facebook] Photo URL |Marketo Social [!DNL Facebook] Profile URL |Marketo Social [!DNL Facebook] Reach |Marketo Social [!DNL Facebook] Referred Enrollments |Marketo Social [!DNL Facebook] Referred Visits |
+| Marketo Social Gender |Marketo Social Last Referred Enrollment |Marketo Social Last Referred Visit |Marketo Social [!DNL LinkedIn] Display Name |Marketo Social [!DNL LinkedIn] Id |
+| Marketo Social [!DNL LinkedIn] Photo URL |Marketo Social [!DNL LinkedIn] Profile URL |Marketo Social [!DNL LinkedIn] Reach |Marketo Social [!DNL LinkedIn] Referred Enrollments |Marketo Social [!DNL LinkedIn] Referred Visits |
+| Marketo Social Syndication ID |Marketo Social Total Referred Enrollments |Marketo Social Total Referred Visits |Marketo Social [!DNL Twitter] Display Name |Marketo Social [!DNL Twitter] Id |
+| Marketo Social [!DNL Twitter] Photo URL |Marketo Social [!DNL Twitter] Profile URL |Marketo Social [!DNL Twitter] Reach |Marketo Social [!DNL Twitter] Referred Enrollments |Marketo Social [!DNL Twitter] Referred Visits |
 | Middle Name |Mobile Phone Number |Num Employees |Phone Number |Postal Code |
 | Priority |Relative Score |Role |Salutation |SIC Code |
 | Site |State |Unsubscribed |Unsubscribed Reason |Updated At |
