@@ -39,7 +39,7 @@ Examples:
   </tr> 
   <tr> 
    <td>Email Script <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Use this token to execute a Velocity script in your emails. Learn more <a href="https://developers.marketo.com/documentation/email-scripting/" title="Follow link" rel="nofollow">here</a>. </td> 
+   <td>Use this token to execute a [!DNL Velocity script] in your emails. Learn more <a href="https://developers.marketo.com/documentation/email-scripting/" title="Follow link" rel="nofollow">here</a>. </td> 
   </tr> 
   <tr> 
    <td>Number<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -66,7 +66,7 @@ Examples:
 
 >[!CAUTION]
 >
->My Tokens will not resolve when sending an email from Sales Insight on either Microsoft Dynamics or Salesforce; only standard tokens will populate (Lead, Company, etc.). Default values for tokens _will_ work, however.
+>My Tokens will not resolve when sending an email from Sales Insight on either [!DNL Microsoft Dynamics] or [!DNL Salesforce]; only standard tokens will populate (Lead, Company, etc.). Default values for tokens _will_ work, however.
 
 ## Nesting Tokens {#nesting-tokens}
 
