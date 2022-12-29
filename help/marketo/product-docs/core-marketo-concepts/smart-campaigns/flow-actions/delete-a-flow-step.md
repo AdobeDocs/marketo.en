@@ -10,11 +10,13 @@ exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 >
 >Removing flow steps, _especially wait steps_ from active smart campaigns, can have unexpected results. **Read this article carefully.**
 
-First let's do the basics. Here's how to remove an unwanted flow step from a smart campaign. 1. In the smart campaign Flow, click the X icon to delete any flow step.
+First let's do the basics. Here's how to remove an unwanted flow step from a smart campaign.
+
+1. In the smart campaign [!UICONTROL Flow], click the **X** icon to delete any flow step.
 
 ![](assets/image2014-9-22-13-3a52-3a20.png)
 
-1. Click **Delete**.
+2. Click **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-22-13-3a55-3a25.png)
 
