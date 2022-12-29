@@ -19,15 +19,15 @@ English isn't your first language? Don't worry, we have you covered. Here's how 
 
 ## Change User Language, Locale, and Time Zone {#change-user-language-locale-and-time-zone}
 
-1. Log in to Marketo and under your name select **My Account**.
+1. Log in to Marketo and under your name select **[!UICONTROL My Account]**.
 
    ![](assets/myaccount.png)
 
-1. Under My Account, click **Edit Location Settings**.
+1. Under [!UICONTROL My Account], click **[!UICONTROL Edit Location Settings]**.
 
    ![](assets/image2014-9-9-11-3a9-3a47.png)
 
-1. Change your **Language**.
+1. Change your **[!UICONTROL Language]**.
 
    ![](assets/image2014-9-9-11-3a10-3a4.png)
 
@@ -35,15 +35,15 @@ English isn't your first language? Don't worry, we have you covered. Here's how 
    >
    >You also have the option of changing just your language by clicking the language drop-down at the top of the login page.
 
-1. Change your **Locale**.
+1. Change your **[!UICONTROL Locale]**.
 
    ![](assets/image2014-9-9-11-3a10-3a29.png)
 
-1. Change your **Time Zone**.
+1. Change your **[!UICONTROL Time Zone]**.
 
    ![](assets/image2014-9-9-11-3a10-3a56.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-9-11-3a11-3a18.png)
 
