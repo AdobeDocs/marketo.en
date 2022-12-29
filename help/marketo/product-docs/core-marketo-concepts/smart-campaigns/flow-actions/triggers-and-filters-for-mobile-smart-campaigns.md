@@ -32,7 +32,7 @@ Use constraints with triggers and filters to further sort the data.
 
 All triggers and filters, except for Was Sent Push Notification, contain these two standard constraints:
 
-* Device Type - iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, Android smartphone, Android tablet, Unknown (this is a preset list)
+* Device Type - [!DNL iPod], iPhone, [!DNL iPhone 6 Plus], [!DNL iPad mini], iPad, Android smartphone, Android tablet, Unknown (this is a preset list)
 
 * Platform - iPhone or Android
 
