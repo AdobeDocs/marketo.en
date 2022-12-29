@@ -12,19 +12,19 @@ For example, if you work in both production and sandbox instances, you can name 
 
 ![](assets/image2016-4-8-14-3a34-3a28.png)
 
-1. Go to **Admin**.
+1. Go to **[!UICONTROL Admin]**.
 
    ![](assets/adminhand-1.png)
 
-1. Click **My Account**.
+1. Click **[!UICONTROL My Account]**.
 
    ![](assets/image2015-6-23-15-3a16-3a52.png)
 
-1. Click **Edit Subscription Information**.
+1. Click **[!UICONTROL Edit Subscription Information]**.
 
    ![](assets/image2016-5-24-10-3a34-3a32.png)
 
-1. Make your edits and click **Save**.
+1. Make your edits and click **[!UICONTROL Save]**.
 
    ![](assets/image2016-5-24-10-3a40-3a6.png)
 
