@@ -12,11 +12,11 @@ Smart campaigns are the most important tool in Marketo. They can trigger on one 
 >
 >Smart campaigns are super cool. Learn more about them [here](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Choose a **Program**, and then under **New** click on **New Local Asset**.
+1. Choose a **Program**, and then under **[!UICONTROL New]** click on **[!UICONTROL New Local Asset]**.
 
    ![](assets/program-localassethands.png)
 
@@ -24,11 +24,11 @@ Smart campaigns are the most important tool in Marketo. They can trigger on one 
    >
    >You can create smart campaigns as local assets of any program.
 
-1. Click on **Smart Campaign**.
+1. Click on **[!UICONTROL Smart Campaign]**.
 
    ![](assets/image2014-9-19-15-3a9-3a51.png)
 
-1. Enter the smart campaign name and click **Create**.
+1. Enter the smart campaign name and click **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-19-15-3a10-3a41.png)
 
