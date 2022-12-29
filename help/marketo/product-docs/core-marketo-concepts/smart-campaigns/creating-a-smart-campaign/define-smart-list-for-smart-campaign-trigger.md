@@ -8,7 +8,7 @@ exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 
 Make a smart campaign run on one person at a time based on live events by adding triggers.
 
-1. In your smart campaign, click the **Smart List** tab.
+1. In your smart campaign, click the **[!UICONTROL Smart List]** tab.
 
    ![](assets/image2014-9-19-16-3a22-3a55.png)
 
