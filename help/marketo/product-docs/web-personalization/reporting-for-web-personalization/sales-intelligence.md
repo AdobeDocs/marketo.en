@@ -12,11 +12,11 @@ Access it by logging into the Marketo Web Personalization platform, through a da
 
 ## Define the User's Region {#define-the-users-region}
 
-To define the Organization and Visitor data you see in Marketo Web Personalization per your region, country or state, go to [User Settings](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) and select the countries or states.
+To define the Organization and Visitor data you see in Marketo Web Personalization per your region, country or state, go to [[!UICONTROL User Settings]](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) and select the countries or states.
 
 ## Set Up Daily or Weekly Email Reports {#set-up-daily-or-weekly-email-reports}
 
-In [User Settings](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md), you can set up to receive daily or weekly email reports, sent out in the early morning. The primary reports of interest to a sales executive includes the Organizations and Leads reports, which display the top organizations visited and leads submitted, including their behaviors, from the user's specific region.
+In [[!UICONTROL User Settings]](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md), you can set up to receive daily or weekly email reports, sent out in the early morning. The primary reports of interest to a sales executive includes the Organizations and Leads reports, which display the top organizations visited and leads submitted, including their behaviors, from the user's specific region.
 
 >[!NOTE]
 >
