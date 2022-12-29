@@ -51,7 +51,7 @@ You can also view how your competitors are performing using the same metrics by 
 
 ![](assets/image2014-9-17-21-3a44-3a45.png)
 
-Great! Now that you understand the [!UICONTROL keywords] section, let's learn about pages and inbound links.
+Great! Now that you understand the [!UICONTROL Keywords] section, let's learn about pages and inbound links.
 
 >[!MORELIKETHIS]
 >
