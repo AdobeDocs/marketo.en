@@ -22,7 +22,7 @@ Webhooks let you interact with third party services. Send/receive information by
 
 ## Usage {#usage}
 
-Select a **Webhook** from the drop-down.
+Select a **[!UICONTROL Webhook]** from the drop-down.
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
