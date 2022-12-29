@@ -12,15 +12,15 @@ There are many ways to get a person into Marketo. If you need to create one manu
    >
    >Marketo does **not** support email addresses that contain emojis.
 
-1. Go to the **Database**.
+1. Go to the **[!UICONTROL Database]**.
 
    ![](assets/db-1.png)
 
-1. Under **New**, click **New Person**.
+1. Under **[!UICONTROL New]**, click **[!UICONTROL New Person]**.
 
    ![](assets/two-2.png)
 
-1. Enter the person's information, then click **Create**.
+1. Enter the person's information, then click **[!UICONTROL Create]**.
 
    ![](assets/three-2.png)
 
