@@ -35,7 +35,7 @@ In this article, you will configure Marketo to sync with your configured [!DNL S
 
 ## Set Sync User Credentials {#set-sync-user-credentials}
 
-1. In Marketo, go to **[!UICONTROL Admin]**, select **CRM**, and click **[!UICONTROL Sync with [Salesforce.com]](https://Salesforce.com)**
+1. In Marketo, go to **[!UICONTROL Admin]**, select **CRM**, and click **[!UICONTROL Sync with [Salesforce.com](https://Salesforce.com)]**
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
