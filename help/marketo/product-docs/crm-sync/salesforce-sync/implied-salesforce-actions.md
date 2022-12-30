@@ -6,7 +6,7 @@ exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 ---
 # Implied Salesforce Actions {#implied-salesforce-actions}
 
-When a Salesforce-specific flow step runs, sometimes extra steps are performed automatically. Here are the rules, so you know:
+When a [!DNL Salesforce]-specific flow step runs, sometimes extra steps are performed automatically. Here are the rules, so you know:
 
 These rules will apply _when the person is not currently in [Salesforce.com](https://Salesforce.com)_ as a contact or lead.
 
@@ -41,6 +41,6 @@ These rules will apply _when the person is not currently in [Salesforce.com](htt
  </tbody> 
 </table>
 
-You can filter out SFDC records in a Smart List using the **SFDC Type** Filter with the operator set to "is not empty". All SFDC records have a value in this field.
+You can filter out SFDC records in a Smart List using the **[!UICONTROL SFDC Type]** Filter with the operator set to "[!UICONTROL is not empty]". All SFDC records have a value in this field.
 
 Remember, these automatic actions only happen if the lead is not currently in [Salesforce.com](https://salesforce.com)
