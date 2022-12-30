@@ -8,19 +8,19 @@ exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 
 When [creating a form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), you can change the positioning of the form field labels very easily. Here's how.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. Select **Settings**.
+1. Select **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Select the **Label Position** you want.
+1. Select the **[!UICONTROL Label Position]** you want.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
@@ -29,11 +29,11 @@ When [creating a form](/help/marketo/product-docs/demand-generation/forms/creati
     * Left (default)
     * Above
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    >[!NOTE]
    >
