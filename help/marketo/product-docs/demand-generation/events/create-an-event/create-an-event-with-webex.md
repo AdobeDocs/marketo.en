@@ -1,60 +1,60 @@
 ---
 unique-page-id: 2949863
-description: Create an Event with Webex - Marketo Docs - Product Documentation
-title: Create an Event with Webex
+description: "Create an Event with [!DNL Webex] - Marketo Docs - Product Documentation"
+title: "Create an Event with [!DNL Webex]"
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 ---
-# Create an Event with Webex {#create-an-event-with-webex}
+# Create an Event with [!DNL Webex] {#create-an-event-with-webex}
 
 >[!PREREQUISITES]
 >
->* [Add Webex as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+>* [Add [!DNL Webex] as a [!DNL LaunchPoint] Service](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Set the appropriate [flow actions](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) to track engagement
->* Make sure you're using Webex Events (classic)
+>* Make sure you're using [!DNL Webex] Events (classic)
 
-First create a Webex Event in the Webex Event Center. Marketo only uses specific settings and fields for your integration, which we’ll go through shortly. Other fields that you might want to configure for Webex are explained in the [Webex Event Center User Guide](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
+First create a [!DNL Webex] Event in the [!DNL Webex] Event Center. Marketo only uses specific settings and fields for your integration, which we’ll go through shortly. Other fields that you might want to configure for [!DNL Webex] are explained in the [[!DNL Webex] Event Center User Guide](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
 
 >[!IMPORTANT]
 >
->Marketo Engage only supports events created in Webex Events (classic). Marketo does not support events created in Webex Events (new) at this time.
+>Marketo Engage only supports events created in [!DNL Webex] Events (classic). Marketo does not support events created in [!DNL Webex] Events (new) at this time.
 
 ## Basic Information {#basic-information}
 
-* **Event Name -** This name will be viewable in Marketo.
-* **Unlisted Checkbox**
+* **[!UICONTROL Event Name] -** This name will be viewable in Marketo.
+* **[!UICONTROL Unlisted Checkbox]**
 
   * It's recommended that you do **not** list your event. This will ensure that all people register through your Marketo landing page. People who register through a mechanism other than Marketo will be displayed in Marketo after the event is concluded AND only if they attended the event.
   * If you choose to list the event, it will appear on the List of Events page for anyone who visits your Event Center website.
 
-* **Registration -** Check this box to set to “required.” You'll use a Marketo form/landing page to capture registration information that will be pushed to Webex.
-* **Event Password**- (optional) If you use this field be sure to include it in your confirmation email!
+* **[!UICONTROL Registration] -** Check this box to set to “required.” You'll use a Marketo form/landing page to capture registration information that will be pushed to [!DNL Webex].
+* **[!UICONTROL Event Password]**- (optional) If you use this field be sure to include it in your confirmation email!
 
 ![](assets/image2015-5-28-13-3a30-3a55.png)
 
 ## Date & Time {#date-time}
 
-* **Start date** - Enter your start date. This will be viewable in Marketo.
+* **[!UICONTROL Start date]** - Enter your start date. This will be viewable in Marketo.
 
-* **Start time** - Enter your start time. This will be viewable in Marketo.
+* **[!UICONTROL Start time]** - Enter your start time. This will be viewable in Marketo.
 
-* **Estimated duration** - Specify the duration of the event. This will be viewable in Marketo.
+* **[!UICONTROL Estimated duration]** - Specify the duration of the event. This will be viewable in Marketo.
 
-* **Time Zones** - Enter the applicable time zones. They will be viewable in Marketo.
+* **[!UICONTROL Time Zones]** - Enter the applicable time zones. They will be viewable in Marketo.
 
 ![](assets/image2015-5-28-13-3a37-3a39.png)
 
 ## Audio Conference Settings {#audio-conference-settings}
 
-These settings reside in Webex only. They are not used by or viewable in Marketo, but they may be important for your webinar, so double-check them!
+These settings reside in [!DNL Webex] only. They are not used by or viewable in Marketo, but they may be important for your webinar, so double-check them!
 
 ## Event Description & Options  {#event-description-options}
 
-The following options are used by or viewable in Marketo. Other fields reside in Webex only.
+The following options are used by or viewable in Marketo. Other fields reside in [!DNL Webex] only.
 
-* **Description** - Enter a description. This will be viewable but not modifiable in Marketo.
-* **Post-event survey** - Marketo isn't able to capture the information on a Webex post-event survey at this time.
-* **Destination URL** - (optional) You can enter the URL of a Marketo landing page to serve as the destination URL to display after the session ends.
+* **[!UICONTROL Description]** - Enter a description. This will be viewable but not modifiable in Marketo.
+* **[!UICONTROL Post-event survey]** - Marketo isn't able to capture the information on a [!DNL Webex] post-event survey at this time.
+* **[!UICONTROL Destination URL after event]** - (optional) You can enter the URL of a Marketo landing page to serve as the destination URL to display after the session ends.
 
 ![](assets/image2015-5-28-13-3a48-3a49.png)
 
@@ -62,9 +62,9 @@ The following options are used by or viewable in Marketo. Other fields reside in
 
 You will be controlling the invitation list, registration form, and other emails using a Marketo Event. Other functionality will not be supported by Marketo, including:
 
-* **Maximum number of registrants** - Currently **not** supported using the Marketo-Webex integration.  Manual approval of registrants is available using the Pending Approval progression status in Marketo.
+* **[!UICONTROL Maximum number of registrants]** - Currently **not** supported using the [!DNL Marketo-Webex] integration.  Manual approval of registrants is available using the Pending Approval progression status in Marketo.
 
-* **Registration ID required** - Currently supported using the Marketo-Webex integration. You can use Marketo to send out the confirmation email for your event. When the person registers, they receive a unique URL that they use to enter the event.
+* **[!UICONTROL Registration ID required]** - Currently supported using the [!DNL Marketo-Webex] integration. You can use Marketo to send out the confirmation email for your event. When the person registers, they receive a unique URL that they use to enter the event.
 
   >[!TIP]
   >
@@ -72,8 +72,8 @@ You will be controlling the invitation list, registration form, and other emails
   >
   >Set your confirmation email to **Operational** to ensure that people who register and may be unsubscribed still receive their confirmation information.
 
-* **Registration Password** - (Optional) Currently not supported using the Marketo-Webex integration.
-* **Approval Rules** - Currently not supported using the Marketo-Webex integration. However, you can use smart campaigns in Marketo to control approvals.
+* **[!UICONTROL Registration Password]** - (Optional) Currently not supported using the [!DNL Marketo-Webex] integration.
+* **Approval Rules** - Currently not supported using the [!DNL Marketo-Webex] integration. However, you can use smart campaigns in Marketo to control approvals.
 
 ![](assets/image2015-5-28-14-3a4-3a41.png)
 
@@ -83,17 +83,17 @@ The information configured in this section is not passed to Marketo.
 
 ### Email Messages {#email-messages}
 
-You'll use Marketo to send out emails to your registrants, confirmation emails, etc. You don't need to configure anything in this section. Disable (uncheck) the email message options within Webex.
+You'll use Marketo to send out emails to your registrants, confirmation emails, etc. You don't need to configure anything in this section. Disable (uncheck) the email message options within [!DNL Webex].
 
 ![](assets/image2015-5-28-14-3a9-3a14.png)
 
 >[!NOTE]
 >
->The Marketo-Webex integration cannot support sending confirmation emails out of Webex. The confirmation must be sent via Marketo. After you've scheduled the event, be sure to copy the event information to the Marketo confirmation email and set the email as **Operational**.
+>The [!DNL Marketo-Webex] integration cannot support sending confirmation emails out of [!DNL Webex]. The confirmation must be sent via Marketo. After you've scheduled the event, be sure to copy the event information to the Marketo confirmation email and set the email as **Operational**.
 
 Now we're ready to jump into Marketo!
 
-1. Select the event you created. Open the **Event Actions** drop-down. Choose **Event Settings.**
+1. Select the event you created. Open the **[!UICONTROL Event Actions]** drop-down. Choose **[!UICONTROL Event Settings].**
 
    ![](assets/image2015-5-14-16-3a7-3a31.png)
 
@@ -101,23 +101,23 @@ Now we're ready to jump into Marketo!
    >
    >The channel type of the event selected must be **webinar**.
 
-1. Under **Event Partner**, select **Webex**.
+1. Under **[!UICONTROL Event Partner]**, select **[!UICONTROL Webex]**.
 
    ![](assets/image2015-1-30-13-3a58-3a2.png)
 
-1. Under **Login**, choose your Webex login.
+1. Under **[!UICONTROL Login]**, choose your [!DNL Webex] login.
 
    ![](assets/image2015-5-18-12-3a2-3a26.png)
 
-1. Under **Event**, choose your freshly created Webex event. Then, select an optional Back-up Page and click **Save**.
+1. Under **[!UICONTROL Event]**, choose your freshly created [!DNL Webex] event. Then, select an optional [!UICONTROL Back-up Page] and click **[!UICONTROL Save]**.
 
    ![](assets/image2015-5-14-16-3a15-3a55.png)
 
-1. Select an optional Back-up Page for your Webex event. Choose from the drop-down of approved Marketo landing pages or enter the URL of a non-Marketo landing page.
+1. Select an optional [!UICONTROL Back-up Page] for your [!DNL Webex] event. Choose from the drop-down of approved Marketo landing pages or enter the URL of a non-Marketo landing page.
 
    >[!TIP]
    >
-   >Set a Back-up Page to direct a member to a specific page if they click on their custom event URL prior to the event's start time.
+   >Set a [!UICONTROL Back-up Page] to direct a member to a specific page if they click on their custom event URL prior to the event's start time.
 
    >[!NOTE]
    >
@@ -131,9 +131,9 @@ Now we're ready to jump into Marketo!
 
    >[!TIP]
    >
-   >It can take up to 48 hours for the data to appear in Marketo. If after waiting that long you still don't see anything, select **Refresh from Webinar Provider** from the Event Actions menu in the **Summary** tab of your event.
+   >It can take up to 48 hours for the data to appear in Marketo. If after waiting that long you still don't see anything, select **[!UICONTROL Refresh from Webinar] Provider** from the [!UICONTROL Event Actions] menu in the **[!UICONTROL Summary]** tab of your event.
 
-Sweet! Your Webex event is now synced with your Marketo event. People who sign up for your webinar will get pushed to your webinar provider via the Change Program Status flow step when the New Status is set to "Registered." No other status will push the person over. Also, be sure to make Change Program Status flow step #1, and Send Email flow step #2.
+Sweet! Your [!DNL Webex] event is now synced with your Marketo event. People who sign up for your webinar will get pushed to your webinar provider via the [!UICONTROL Change Program Status] flow step when the [!UICONTROL New Status] is set to "Registered." No other status will push the person over. Also, be sure to make [!UICONTROL Change Program Status] flow step #1, and [!UICONTROL Send Email] flow step #2.
 
 ## Viewing the Schedule  {#viewing-the-schedule}
 
@@ -143,4 +143,4 @@ In the program schedule view, click the calendar entry for your event. You can s
 
 >[!NOTE]
 >
->To change your event schedule you'll need to edit the webinar on Webex.
+>To change your event schedule you'll need to edit the webinar on [!DNL Webex].
