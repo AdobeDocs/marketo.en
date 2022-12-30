@@ -6,7 +6,7 @@ exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 ---
 # SFDC Sync: Custom Object Sync {#sfdc-sync-custom-object-sync}
 
-Custom Objects created in your Salesforce instance can be part of Marketo too.  Here's how to set it up.
+Custom Objects created in your [!DNL Salesforce] instance can be part of Marketo too.  Here's how to set it up.
 
 >[!NOTE]
 >
@@ -14,7 +14,7 @@ Custom Objects created in your Salesforce instance can be part of Marketo too.  
 
 >[!PREREQUISITES]
 >
->To use a custom object, it must be associated to a [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md), or [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) object in Salesforce.
+>To use a custom object, it must be associated to a [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md), or [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) object in [!DNL Salesforce].
 
 >[!IMPORTANT]
 >
@@ -22,21 +22,21 @@ Custom Objects created in your Salesforce instance can be part of Marketo too.  
 
 ## Enable Custom Object  {#enable-custom-object}
 
-1. Click **Admin** and the **Salesforce Objects Sync** link.
+1. Click **[!UICONTROL Admin]** and the **[!UICONTROL Salesforce Objects Sync]** link.
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
-1. If this is your first Custom Object, click **Sync Schema**.
+1. If this is your first Custom Object, click **[!UICONTROL Sync Schema]**.
 
    ![](assets/rtaimage-2.png)
 
-1. Click **Disable Global Sync**.
+1. Click **[!UICONTROL Disable Global Sync]**.
 
    ![](assets/image2015-4-22-10-3a45-3a0.png)
 
    >[!NOTE]
    >
-   >An initial sync of the Salesforce custom object schema may take a few minutes.
+   >An initial sync of the [!DNL Salesforce] custom object schema may take a few minutes.
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
@@ -48,11 +48,11 @@ Custom Objects created in your Salesforce instance can be part of Marketo too.  
    >
    >Custom objects must have unique names. Marketo does not support two different custom objects with the same name.
 
-1. Click **Enable Sync**.
+1. Click **[!UICONTROL Enable Sync]**.
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. Click **Enable Sync** again.
+1. Click **[!UICONTROL Enable Sync]** again.
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -60,15 +60,15 @@ Custom Objects created in your Salesforce instance can be part of Marketo too.  
    >
    >Don't forget to re-enable your global sync!
 
-1. Go back to the **Salesforce** tab.
+1. Go back to the **[!UICONTROL Salesforce]** tab.
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
-1. Click **Enable Sync**.
+1. Click **[!UICONTROL Enable Sync]**.
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. To view all of your Salesforce custom objects, click **Admin** and the **Salesforce Objects Sync** link (same as step 1 above).
+1. To view all of your [!DNL Salesforce] custom objects, click **[!UICONTROL Admin]** and the **[!UICONTROL Salesforce Objects Sync]** link (same as step 1 above).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
