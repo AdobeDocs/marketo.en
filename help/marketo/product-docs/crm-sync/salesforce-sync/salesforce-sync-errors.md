@@ -3,7 +3,7 @@ description: Salesforce Sync Errors - Marketo Docs - Product Documentation
 title: Salesforce Sync Errors
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 ---
-# Salesforce Sync Errors {#salesforce-sync-errors}
+# [!DNL Salesforce] Sync Errors {#salesforce-sync-errors}
 
 View a summary of the errors faced during the sync process. This includes errors caused by failures to sync incompatible data.
 
@@ -13,11 +13,11 @@ View a summary of the errors faced during the sync process. This includes errors
 
 ## View Sync Errors {#view-sync-errors}
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. Under Integration, click **Salesforce**, then the **Sync Errors** tab.
+1. Under [!UICONTROL Integration], click **[!UICONTROL Salesforce]**, then the **[!UICONTROL Sync Errors]** tab.
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -33,7 +33,7 @@ View a summary of the errors faced during the sync process. This includes errors
 
 >[!TIP]
 >
->Clicking on the record level record shows the Marketo and Salesforce IDs of the related object. In some cases, the message on the record and job level errors are directly from Salesforce. Searching for them online may provide additional details.
+>Clicking on the record level record shows the Marketo and [!DNL Salesforce] IDs of the related object. In some cases, the message on the record and job level errors are directly from [!DNL Salesforce]. Searching for them online may provide additional details.
 
 ## Filter Sync Errors {#filter-sync-errors}
 
@@ -41,10 +41,10 @@ View a summary of the errors faced during the sync process. This includes errors
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. Select your date and time range, then filter by Error Type (Job Level or Record Level). Click **Apply** when done.
+1. Select your date and time range, then filter by Error Type (Job Level or Record Level). Click **[!UICONTROL Apply]** when done.
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**Optional Step**: To export sync errors, click **Export**. The data will be exported as a CSV.
+**Optional Step**: To export sync errors, click **[!UICONTROL Export]**. The data will be exported as a CSV.
 
    ![](assets/salesforce-sync-errors-5.png)
