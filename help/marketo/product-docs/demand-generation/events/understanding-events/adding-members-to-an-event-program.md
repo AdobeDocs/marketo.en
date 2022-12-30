@@ -16,7 +16,7 @@ This article only applies to users who utilize Event Cap or Event Goals.
 
 1. [Create a smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
-1. In the Smart List of the Smart Campaign you created in Step Two, find and add the **Member of List** filter.
+1. In the Smart List of the Smart Campaign you created in Step Two, find and add the **[!UICONTROL Member of List]** filter.
 
    ![](assets/three.png)
 
@@ -24,7 +24,7 @@ This article only applies to users who utilize Event Cap or Event Goals.
 
    ![](assets/four.png)
 
-1. In the Flow, find and add the **Change Program Status** flow step.
+1. In the Flow, find and add the **[!UICONTROL Change Program Status]** flow step.
 
    ![](assets/five.png)
 
@@ -36,11 +36,11 @@ This article only applies to users who utilize Event Cap or Event Goals.
 
    ![](assets/seven.png)
 
-1. In the Schedule tab, click **Run Once**.
+1. In the [!UICONTROL Schedule] tab, click **[!UICONTROL Run Once]**.
 
    ![](assets/eight.png)
 
-1. Select **Run Now** and click **Run**.
+1. Select **[!UICONTROL Run Now]** and click **[!UICONTROL Run]**.
 
    ![](assets/nine.png)
 
