@@ -6,13 +6,13 @@ exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 ---
 # SFDC Sync: Field Sync {#sfdc-sync-field-sync}
 
-Marketo syncs field information from Salesforce. Here are the details.
+Marketo syncs field information from [!DNL Salesforce]. Here are the details.
 
 ## Which fields are synced? {#which-fields-are-synced}
 
 We sync most standard fields in SFDC and any custom field that the sync user has permission to see.
 
-## How do you determine if a record in Marketo is a lead or a contact in Salesforce? {#how-do-you-determine-if-a-record-in-marketo-is-a-lead-or-a-contact-in-salesforce}
+## How do you determine if a record in Marketo is a lead or a contact in [!DNL Salesforce]? {#how-do-you-determine-if-a-record-in-marketo-is-a-lead-or-a-contact-in-salesforce}
 
 We have a field in Marketo called SFDC Type. It has three possible values: lead, contact, or it's empty. If it's empty, it means that this Marketo lead does not exist in SFDC.
 
@@ -52,6 +52,6 @@ Lookup fields in SFDC sync the ID but not the referenced name.
 
 Formula fields are synced, however, updates to the references in the formula are not synced until there is an update to a [System Mod Stamp](https://help.salesforce.com/apex/HTViewSolution?id=000193203&language=en_US).
 
-## What happens when I delete a field from Salesforce that was previously syncing with Marketo? {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
+## What happens when I delete a field from [!DNL Salesforce] that was previously syncing with Marketo? {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 
 If you delete a field in SFDC it doesn’t automatically delete the field in Marketo, it just stops syncing.
