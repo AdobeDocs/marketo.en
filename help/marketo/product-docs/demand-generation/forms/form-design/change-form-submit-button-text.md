@@ -8,15 +8,15 @@ exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
 
 You can quickly and easily change a forms button from "Submit" to any other word. Here's how.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-12-3a42-3a14.png)
 
-1. Select the button and change the **Label**.
+1. Select the button and change the **[!UICONTROL Label]**.
 
    ![](assets/image2014-9-15-12-3a42-3a41.png)
 
@@ -24,11 +24,11 @@ You can quickly and easily change a forms button from "Submit" to any other word
    >
    >Notice you can also change the Waiting Label. This displays after the button is clicked and before the form submit action is finished.
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-12-3a43-3a26.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-12-3a43-3a36.png)
 
