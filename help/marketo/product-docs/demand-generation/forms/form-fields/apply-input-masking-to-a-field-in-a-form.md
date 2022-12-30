@@ -8,27 +8,27 @@ exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 
 You can restrict input from your visitor using an input mask. For example, you may want visitors to enter phone numbers only in a specific format.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Select your field and make sure the **Field Type** is set to **Text**.
+1. Select your field and make sure the **[!UICONTROL Field Type*** is set to **[!UICONTROL Text]**.
 
    >[!NOTE]
    >
-   >Input masking only works with **Text Field Types**.
+   >Input masking only works with **[!UICONTROL Text Field Types]**.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Click the **Mask Input** link.
+1. Click the **[!UICONTROL Mask Input]** link.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
-1. Enter your input mask and click **Save**.
+1. Enter your input mask and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-13-3a41-3a14.png)
 
@@ -36,11 +36,11 @@ You can restrict input from your visitor using an input mask. For example, you m
    >
    >Pay attention to the masking rules. You can restrict input to numbers, letters, both, and/or even limit the number of characters entered.
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 
