@@ -6,15 +6,15 @@ exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 ---
 # Using Person Accounts {#using-person-accounts}
 
-Person accounts can be set up in Salesforce to fit the need of your organization. Here's how Marketo treats person accounts.
+Person accounts can be set up in [!DNL Salesforce] to fit the need of your organization. Here's how Marketo treats person accounts.
 
 >[!NOTE]
 >
->The default Salesforce accounts are business accounts. Your Salesforce Admin needs to set up person accounts separately.
+>The default [!DNL Salesforce] accounts are business accounts. Your [!DNL Salesforce] Admin needs to set up person accounts separately.
 
 ## What is a person account? {#what-is-a-person-account}
 
-A person account is very similar to the account object in Salesforce. However, a person account has access to both account fields and contact fields.
+A person account is very similar to the account object in [!DNL Salesforce]. However, a person account has access to both account fields and contact fields.
 
 ## What happens when a person account is synced to Marketo? {#what-happens-when-a-person-account-is-synced-to-marketo}
 
@@ -26,15 +26,15 @@ A person account is synced to Marketo as a company and as a person.
 
 ## How do I differentiate business accounts and person accounts? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Use the **Is Person Account** filter in your smart list to separate person accounts from standard business accounts.
+Use the **[!UICONTROL Is Person Account]** filter in your smart list to separate person accounts from standard business accounts.
 
 ## Where is my person accounts information displayed in Marketo Sales Insight? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Activities related to person accounts are displayed in the **Account** panel.
+Activities related to person accounts are displayed in the **[!UICONTROL Account]** panel.
 
 >[!NOTE]
 >
->Marketo Sales Insight's **Add to Marketo Campaign** and **Send Email** options are not currently available for person accounts.
+>Marketo Sales Insight's **[!UICONTROL Add to Marketo Campaign]** and **[!UICONTROL Send Email]** options are not currently available for person accounts.
 
 ## How do I associate opportunities to a person account? {#how-do-i-associate-opportunities-to-a-person-account}
 
@@ -42,4 +42,4 @@ Marketo depends on the opportunity contact role to determine which person to ass
 
 ## Which email field should I use for person accounts? {#which-email-field-should-i-use-for-person-accounts}
 
-There are two email fields for a person account. Use the **Email Address** field in your forms (not the **Person Email Address**) to ensure Marketo's de-duplication and other email processing work properly.
+There are two email fields for a person account. Use the **[!UICONTROL Email Address]** field in your forms (not the **[!UICONTROL Person Email Address]**) to ensure Marketo's de-duplication and other email processing work properly.
