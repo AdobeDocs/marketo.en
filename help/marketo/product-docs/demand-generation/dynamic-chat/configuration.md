@@ -7,7 +7,7 @@ exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
 
 Learn how to customize the look and feel of your chatbot dialogue window.
 
-To get started, click **Configuration**.
+To get started, click **[!UICONTROL Configuration]**.
 
    ![](assets/configuration-1.png)
 
@@ -31,7 +31,7 @@ The Anchor allows your site visitor to open/close the chatbox. You can choose wh
 
 ### Agent Settings {#agent-settings}
 
-In Agent Settings, you can add a label to your chatbox (ex: "Adobe Bot") that will appear at the top of it. You can also determine the response delay (in seconds), and change your chat avatar. To upload your own avatar image, click the **+** button.
+In [!UICONTROL Agent settings], you can add a label to your chatbox (ex: "Adobe Bot") that will appear at the top of it. You can also determine the response delay (in seconds), and change your chat avatar. To upload your own avatar image, click the **+** button.
 
    ![](assets/configuration-5.png)
 
@@ -39,19 +39,19 @@ In Agent Settings, you can add a label to your chatbox (ex: "Adobe Bot") that wi
    >
    >Custom avatars should be square images less than 256kb and smaller than 200x200 px. Supported file types include: .jpg, .png, .gif, .webp, .svg.
 
-When you're done making changes, remember to click **Save**.
+When you're done making changes, remember to click **[!UICONTROL Save]**.
 
    ![](assets/configuration-6.png)
 
 ## Privacy Tab {#privacy-tab}
 
-Click the **Privacy** tab to add/edit the URL of your site's privacy policy (optional).
+Click the **[!UICONTROL Privacy]** tab to add/edit the URL of your site's privacy policy (optional).
 
    ![](assets/configuration-7.png)
 
 ## Installation Tab {#installation-tab}
 
-In order for the chatbot to show up on your website, you’ll first need to install the Dynamic Chat JavaScript snippet. Click this tab to find/copy the necessary code. If you're not familiar with this operation, please contact your web team or IT department for assistance.
+In order for the chatbot to show up on your website, you’ll first need to install the [!DNL Dynamic Chat] JavaScript snippet. Click this tab to find/copy the necessary code. If you're not familiar with this operation, please contact your web team or IT department for assistance.
 
    ![](assets/configuration-8.png)
 
