@@ -12,23 +12,23 @@ Short forms are good! When someone comes back to a form, you can present new fie
 >
 >For this feature to work properly, make sure Form Pre-Fill is enabled for visible fields, and [disabled](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) for hidden fields.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma-1.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. Under **Form Settings**, click **Settings**.
+1. Under **[!UICONTROL Form Settings]**, click **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Set **Progressive Profiling** to **Enabled**.
+1. Set **[!UICONTROL Progressive Profiling]** to **[!UICONTROL Enabled]**.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. Okay, now let's configure it. Go to **Field Details**.
+1. Okay, now let's configure it. Go to **[!UICONTROL Field Details]**.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 
@@ -42,15 +42,15 @@ Short forms are good! When someone comes back to a form, you can present new fie
 
    >[!NOTE]
    >
-   >The fields outside of the **Progressive Profiling** box will always show in the form, even if they are filled out.
+   >The fields outside of the **[!UICONTROL Progressive Profiling]** box will always show in the form, even if they are filled out.
 
-1. Select the **Progressive Profiling** box.
+1. Select the **[!UICONTROL Progressive Profiling]** box.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
    >[!CAUTION]
    >
-   >Be careful when using required fields in Progressive Profiling. Those fields could still be left blank if the visitor enters a new email address (which would create a new person) after previously submitting data for the other fields, as they would be suppressed on the latest form.
+   >Be careful when using required fields in [!UICONTROL Progressive Profiling]. Those fields could still be left blank if the visitor enters a new email address (which would create a new person) after previously submitting data for the other fields, as they would be suppressed on the latest form.
 
 1. Now choose how many blank fields you want people to see from the **Progressive Profiling** box at any given time.
 
@@ -58,7 +58,7 @@ Short forms are good! When someone comes back to a form, you can present new fie
 
    >[!NOTE]
    >
-   >If you choose **Number** **of** **Blank** **Fields** as 1, the visitor will see the following the first time they see this form:
+   >If you choose **[!UICONTROL Number of Blank Fields]** as 1, the visitor will see the following the first time they see this form:
    >
    >* First Name (empty)
    >* Last Name (empty)
@@ -79,11 +79,11 @@ Short forms are good! When someone comes back to a form, you can present new fie
    >* Email Address (prefilled)
    >* Country (empty)
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-12-3a33-3a35.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 
