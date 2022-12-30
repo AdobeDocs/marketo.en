@@ -8,7 +8,7 @@ exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 
 Marketo allows you to embed our forms on your own website. Here's how to get access to the embed code.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -16,11 +16,11 @@ Marketo allows you to embed our forms on your own website. Here's how to get acc
 
    ![](assets/image2014-9-15-12-3a12-3a14.png)
 
-1. Under **Form Actions**, click **Embed Code**.
+1. Under **[!UICONTROL Form Actions]**, click **[!UICONTROL Embed Code]**.
 
    >[!NOTE]
    >
-   >The form must be approved for the **Embed Code** item to be visible/usable.
+   >The form must be approved for the **[!UICONTROL Embed Code]** item to be visible/usable.
 
    ![](assets/image2014-9-15-12-3a12-3a20.png)
 
@@ -28,7 +28,7 @@ Marketo allows you to embed our forms on your own website. Here's how to get acc
    >
    >**[Form Prefill](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)** does not work when using the form embed code on your own pages _or_ a Marketo landing page. Form Prefill is only meant to work when the form is used in a Marketo landing page via the Insert Element option.
 
-1. Select/Copy the embed code, then click **Close**.
+1. Select/Copy the embed code, then click **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-15-12-3a12-3a31.png)
 
