@@ -10,27 +10,27 @@ Here's a sample event, including campaigns, for an ON24 webinar. When you build 
 
 ## Create a New Event in Marketing Activities {#create-a-new-event-in-marketing-activities}
 
-1. Select **New** > **New Program**.
+1. Select **[!UICONTROL New]** > **[!UICONTROL New Program]**.
 
    ![](assets/image2015-12-22-15-3a35-3a15.png)
 
-1. Select a **Campaign Folder** where the event will live.
+1. Select a **[!UICONTROL Campaign Folder]** where the event will live.
 
    ![](assets/image2015-12-22-15-3a39-3a51.png)
 
-1. Enter a **Name** for the event.
+1. Enter a **[!UICONTROL Name]** for the event.
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. Select **Event** as the **Program Type**.
+1. Select **[!UICONTROL Event]** as the **[!UICONTROL Program Type]**.
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. Select **Webinar** as the **Channel** for the event.
+1. Select **[!UICONTROL Webinar]** as the **[!UICONTROL Channel]** for the event.
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
-1. Click **Create**.
+1. Click **[!UICONTROL Create]**.
 
    ![](assets/image2015-12-22-15-3a48-3a20.png)
 
@@ -48,11 +48,11 @@ Here's a sample event, including campaigns, for an ON24 webinar. When you build 
 
 * **Smart List**
 
-    * Trigger the campaign based on **Fills Out Form**. Be sure to include the landing page that the form lives on by using **Add Constraint**, especially if the form is used on multiple landing pages.
+    * Trigger the campaign based on **[!UICONTROL Fills Out Form]**. Be sure to include the landing page that the form lives on by using **[!UICONTROL Add Constraint]**, especially if the form is used on multiple landing pages.
 
 >[!CAUTION]
 >
->You must use a Marketo form to register people for the event, or a non-Marketo form with the proper API integration to push registration data to Marketo. This is critical to the success of your Event Partner integration. **NOTE**: If you are using a Marketo form on a non-Marketo landing page, your trigger will be **Fills Out Form** with the Form Name.
+>You must use a Marketo form to register people for the event, or a non-Marketo form with the proper API integration to push registration data to Marketo. This is critical to the success of your [!UICONTROL Event Partner] integration. **NOTE**: If you are using a Marketo form on a non-Marketo landing page, your trigger will be **[!UICONTROL Fills Out Form]** with the [!UICONTROL Form Name].
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 
