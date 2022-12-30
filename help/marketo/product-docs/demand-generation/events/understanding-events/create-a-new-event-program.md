@@ -8,19 +8,19 @@ exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 
 Events allow you to automate online and offline events! Capture the status of your people as they progress through different stages and get accurate measures of the ROI for your marketing initiatives.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
-1. Select the folder for the new program. Select **New** and click **New Program**.
+1. Select the folder for the new program. Select **[!UICONTROL New]** and click **[!UICONTROL New Program]**.
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
-1. Choose a name for your event. Then, under **Program Type**, select **Event**.
+1. Choose a name for your event. Then, under **[!UICONTROL Program Type]**, select **[!UICONTROL Event]**.
 
    ![](assets/image2015-2-26-14-3a26-3a6.png)
 
-1. Select a **Channel**.
+1. Select a **[!UICONTROL Channel]**.
 
    >[!NOTE]
    >
@@ -28,7 +28,7 @@ Events allow you to automate online and offline events! Capture the status of yo
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
-1. Click **Create**.
+1. Click **[!UICONTROL Create]**.
 
    ![](assets/image2015-2-26-14-3a33-3a17.png)
 
@@ -36,11 +36,11 @@ Events allow you to automate online and offline events! Capture the status of yo
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 
-1. To schedule your event, select **Schedule View** and click it in the calendar to open the popup. Enter dates and times.
+1. To schedule your event, select **[!UICONTROL Schedule View]** and click it in the calendar to open the popup. Enter dates and times.
 
    ![](assets/image2016-3-25-14-3a17-3a33.png)
 
-1. Slide the bar to **Confirmed** when you're done.
+1. Slide the bar to **[!UICONTROL Confirmed]** when you're done.
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
