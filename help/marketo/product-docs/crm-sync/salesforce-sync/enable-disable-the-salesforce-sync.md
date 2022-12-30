@@ -4,19 +4,19 @@ description: Enable/Disable the Salesforce Sync - Marketo Docs - Product Documen
 title: Enable/Disable the Salesforce Sync
 exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 ---
-# Enable/Disable the Salesforce Sync {#enable-disable-the-salesforce-sync}
+# Enable/Disable the [!DNL Salesforce] Sync {#enable-disable-the-salesforce-sync}
 
 When making major changes to your sync or field settings, you should disable the sync while you configure. Here is how:
 
-1. Go to the **Admin** section.
+1. Go to the **[!UICONTROL Admin]** section.
 
    ![](assets/image2014-12-10-13-3a24-3a35.png)
 
-1. Under **Salesforce**, click **Disable Sync**.
+1. Under **[!UICONTROL Salesforce]**, click **[!UICONTROL Disable Sync]**.
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 
-1. The two way sync is now turned off and inactive until you re-enable it. Salesforce flow actions will continue to work.
+1. The two way sync is now turned off and inactive until you re-enable it. [!DNL Salesforce] flow actions will continue to work.
 
    ![](assets/image2014-12-10-13-3a24-3a58.png)
 
