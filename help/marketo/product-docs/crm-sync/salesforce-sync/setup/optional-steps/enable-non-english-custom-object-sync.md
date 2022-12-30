@@ -14,35 +14,35 @@ If your Marketo sync user is set to a language other than English you may run in
 
 ## Getting Around It {#getting-around-it}
 
-1. Log in to Salesforce using the marketo sync user.
+1. Log in to [!DNL Salesforce] using the marketo sync user.
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. Under the user name, go to **Setup**.
+1. Under the user name, go to **[!UICONTROL Setup]**.
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. Under **Personal Information**, click **My Personal Information**.
+1. Under **[!UICONTROL Personal Information]**, click **[!UICONTROL My Personal Information]**.
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
-1. Click **Edit**.
+1. Click **[!UICONTROL Edit]**.
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
-1. Change the **Language** to **English**.
+1. Change the **[!UICONTROL Language]** to **[!UICONTROL English]**.
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Back in Marketo, under **Admin > Salesforce > Objects** click **Refresh Schema**.
+1. Back in Marketo, under **[!UICONTROL Admin] > [!UICONTROL Salesforce] > [!UICONTROL Objects]** click **[!UICONTROL Refresh Schema]**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. This will pull the objects list in English. Now select the object of your choice and click **Enable Sync**.
+1. This will pull the objects list in English. Now select the object of your choice and click **[!UICONTROL Enable Sync]**.
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 
@@ -50,7 +50,7 @@ If your Marketo sync user is set to a language other than English you may run in
 
    ![](assets/image2014-12-10-13-3a19-3a26.png)
 
-1. Now go back to Salesforce and use the above steps to change the sync user back to your preferred language.
+1. Now go back to [!DNL Salesforce] and use the above steps to change the sync user back to your preferred language.
 
 >[!NOTE]
 >
