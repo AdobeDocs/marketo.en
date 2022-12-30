@@ -12,15 +12,15 @@ exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 
 This option allows Marketo to sync its program membership and statuses with Salesforce campaigns and vice versa.
 
-1. Go to **Admin**, click **Salesforce**.
+1. Go to **[!UICONTROL Admin]**, click **[!UICONTROL Salesforce]**.
 
    ![](assets/image2014-12-9-13-3a36-3a49.png)
 
-1. Click **Edit Sync Settings**.
+1. Click **[!UICONTROL Edit Sync Settings]**.
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. Check **Enable Salesforce Campaign Sync** and click **SAVE**.
+1. Check **[!UICONTROL Enable Salesforce Campaign Sync]** and click **[!UICONTROL SAVE]**.
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
