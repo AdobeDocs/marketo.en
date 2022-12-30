@@ -16,23 +16,23 @@ Hints and [instructions](/help/marketo/product-docs/demand-generation/forms/form
 >
 >Form **Instructions** are little tooltips that show when the visitor hovers over the field.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. Select the field and enter your **Hint Text**.
+1. Select the field and enter your **[!UICONTROL Hint Text]**.
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-13-3a53-3a36.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-13-3a53-3a29.png)
 
