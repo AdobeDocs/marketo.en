@@ -16,23 +16,23 @@ exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 >
 >Form **Instructions** are little tooltips that pop up when the visitor hovers over the field.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Select your **form** and click **Edit Form**.
+1. Select your **form** and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. Select your field and enter **Instructions**.
+1. Select your field and enter **[!UICONTROL Instructions]**.
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 
