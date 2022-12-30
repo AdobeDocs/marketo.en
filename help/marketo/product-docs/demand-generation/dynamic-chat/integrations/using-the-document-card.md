@@ -9,7 +9,7 @@ The Document card allows you to embed PDF documents in Dialogues and track docum
 
 1. Navigate to [Adobe PDF Embed API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
-1. Click **Get Credentials**.
+1. Click **[!UICONTROL Get credentials]**.
 
    ![](assets/using-the-document-card-1.png)
 
@@ -17,7 +17,7 @@ The Document card allows you to embed PDF documents in Dialogues and track docum
 
    ![](assets/using-the-document-card-2.png)
 
-1. Enter your credentials, accept the terms, and click **Create Credentials**.
+1. Enter your credentials, accept the terms, and click **[!UICONTROL Create credentials]**.
 
    ![](assets/using-the-document-card-3.png)
 
@@ -25,15 +25,15 @@ The Document card allows you to embed PDF documents in Dialogues and track docum
    >
    >You'll need to use the domain on which you'll be hosting the chatbot (e.g., if you're hosting the chatbot on mycompany.com, make sure you enter that in Step 4).
 
-1. Click **Copy** to copy your Client ID.
+1. Click **[!UICONTROL Copy]** to copy your Client ID.
 
    ![](assets/using-the-document-card-4.png)
 
-1. Back in Dynamic Chat, click **Integrations**. In the Adobe PDF Embed API card, click **Activate**.
+1. Back in [!DNL Dynamic Chat], click **[!UICONTROL Integrations]**. In the [!UICONTROL Adobe PDF Embed API] card, click **[!UICONTROL Activate]**.
 
    ![](assets/using-the-document-card-5.png)
 
-1. Paste your Client ID and click **Save**.
+1. Paste your Client ID and click **[!UICONTROL Save]**.
 
    ![](assets/using-the-document-card-6.png)
 
