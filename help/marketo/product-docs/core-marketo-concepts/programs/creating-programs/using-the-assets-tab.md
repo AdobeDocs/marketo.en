@@ -10,7 +10,7 @@ The asset canvas is a visual representation of your program. You can use it to a
 
 ## Adding Assets {#adding-assets}
 
-From the **Marketing Activities** area, click the **Assets** tab. Choose any of the assets below and add them to your program.
+From the **[!UICONTROL Marketing Activities]** area, click the **[!UICONTROL Assets]** tab. Choose any of the assets below and add them to your program.
 
 ![](assets/programassets.png)
 
