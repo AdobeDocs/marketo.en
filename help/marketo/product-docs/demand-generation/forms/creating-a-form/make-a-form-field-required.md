@@ -8,23 +8,23 @@ exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 
 When [adding fields to a form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) you may want to make a few of them required to the person filling them out. Here's how.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/editform-2.png)
 
-1. Select the field you want to make required and check Is Required.
+1. Select the field you want to make required and check **[!UICONTROL Is Required]**.
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. Nicely done! Click **Finish**.
+1. Nicely done! Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 
