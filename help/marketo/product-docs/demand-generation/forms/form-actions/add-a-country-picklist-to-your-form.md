@@ -8,11 +8,11 @@ exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 
 Follow these instructions to convert the country field to a drop-down with a list of all the countries.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-9.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/editform-1.png)
 
@@ -20,19 +20,19 @@ Follow these instructions to convert the country field to a drop-down with a lis
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. Find and select **Country**.
+1. Find and select **[!UICONTROL Country]**.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. With the **Country** field selected change the **Field Type** to **Select**.
+1. With the **[!UICONTROL Country]** field selected change the **[!UICONTROL Field Type]** to **[!UICONTROL Select]**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Edit** the **Values** to add the list of countries users can choose from.
+1. **[!UICONTROL Edit]** the **[!UICONTROL Values]** to add the list of countries users can choose from.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. Click **Advanced** **Editor**.
+1. Click **[!UICONTROL Advanced Editor]**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -50,15 +50,15 @@ Follow these instructions to convert the country field to a drop-down with a lis
    >
    >Feel free to edit the list or to use any other list.
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
