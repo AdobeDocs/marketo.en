@@ -5,7 +5,7 @@ exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 ---
 # Enable/Disable Custom Object Sync {#enable-disable-custom-object-sync}
 
-Custom Objects created in your Veeva CRM instance can be part of Marketo Engage, too. Here’s how to set it up.
+Custom Objects created in your [!DNL Veeva] CRM instance can be part of Marketo Engage, too. Here’s how to set it up.
 
 ## Enable or Disable the Custom Object Sync {#enable-or-disable-the-custom-object-sync}
 
@@ -13,39 +13,39 @@ Custom Objects created in your Veeva CRM instance can be part of Marketo Engage,
 >
 >**Admin permissions required**
 
-1. In Marketo, click **Admin**, then **Veeva Objects Sync**.
+1. In Marketo, click **[!UICONTROL Admin]**, then **[!UICONTROL Veeva Objects Sync]**.
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. If this is your first Custom Object, click Sync Schema. If not, click **Refresh Schema** to ensure you have the latest.
+1. If this is your first Custom Object, click **[!UICONTROL Sync Schema]**. If not, click **[!UICONTROL Refresh Schema]** to ensure you have the latest.
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. If your global sync is running, disable it by clicking **Disable Global Sync**.
+1. If your global sync is running, disable it by clicking **[!UICONTROL Disable Global Sync]**.
 
    ![](assets/enable-disable-custom-object-sync-3.png)
 
    >[!NOTE]
    >
-   >A sync of the Veeva custom object schema may take a few minutes.
+   >A sync of the [!DNL Veeva] custom object schema may take a few minutes.
 
-1. Click **Refresh Schema**.
+1. Click **[!UICONTROL Refresh Schema]**.
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
-Select the object you wish to sync and click Enable Sync.
+Select the object you wish to sync and click **[!UICONTROL Enable Sync]**.
 
    ![](assets/enable-disable-custom-object-sync-5.png)
 
    >[!TIP]
    >
-   >Marketo can only sync a custom object if it has a direct relationship with the Contact or Account object in Veeva CRM.
+   >Marketo can only sync a custom object if it has a direct relationship with the Contact or Account object in [!DNL Veeva] CRM.
 
-1. Click **Enable Sync** again.
+1. Click **[!UICONTROL Enable Sync]** again.
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
-1. Go back to the Veeva tab and click **Enable Sync**.
+1. Go back to the [!UICONTROL Veeva] tab and click **[!UICONTROL Enable Sync]**.
 
    ![](assets/enable-disable-custom-object-sync-7.png)
 
@@ -55,7 +55,7 @@ Select the object you wish to sync and click Enable Sync.
 >
 >You cannot use custom objects in smart campaigns with triggers.
 
-1. In your Smart List, drag over the "Has Opportunity" filter and set to **True**.
+1. In your [!UICONTROL Smart List], drag over the "**[!UICONTROL Has Opportunity]**" filter and set to **[!UICONTROL True]**.
 
    ![](assets/enable-disable-custom-object-sync-8.png)
 
@@ -63,7 +63,7 @@ Select the object you wish to sync and click Enable Sync.
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-Excellent! You can now use this custom object’s data in Smart Campaigns and Smart Lists.
+Excellent! You can now use this custom object’s data in [!UICONTROL Smart Campaigns] and [!UICONTROL Smart Lists].
 
 >[!MORELIKETHIS]
 >
