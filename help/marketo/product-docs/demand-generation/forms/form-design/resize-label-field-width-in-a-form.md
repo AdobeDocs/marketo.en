@@ -24,7 +24,7 @@ There are two ways to resize both the field label width as well as the field wid
 
    ![](assets/image2014-9-15-15-3a24-3a28.png)
 
-1. Enter a pixel value for the Label Width and/or Field Width.
+1. Enter a pixel value for the [!UICONTROL Label Width] and/or [!UICONTROL Field Width].
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 
