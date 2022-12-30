@@ -72,11 +72,11 @@ In the upper-right of the Stream Designer, you'll see a handful of icons. Here's
 
 ## Create a Stream {#create-a-stream}
 
-1. After you've [created your dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}, click the **Stream Designer** tab.
+1. After you've [created your dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}, click the **[!UICONTROL Stream Designer]** tab.
 
    ![](assets/stream-designer-6.png)
 
-1. Drag and drop the Question card.
+1. Drag and drop the [!UICONTROL Question] card.
 
    ![](assets/stream-designer-7.png)
 
@@ -88,94 +88,94 @@ In the upper-right of the Stream Designer, you'll see a handful of icons. Here's
    >
    >Poke is set to on by default, which displays the opening question next to the chat icon without the visitor having to click on it to see it. Poke is only available on the first card in the conversation.
 
-1. Enter your User Responses and click **Save**.
+1. Enter your User Responses and click **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
-   >**Edit Stored Values** is an optional step for those who'd like to store a different value in the database than what's being displayed to visitors in the chatbot for mapped attributes in the Question card (ex: visitor sees "Search Engine Optimization," you store that value as "SEO.").
+   >**[!UICONTROL Edit stored values]** is an optional step for those who'd like to store a different value in the database than what's being displayed to visitors in the chatbot for mapped attributes in the [!UICONTROL Question] card (ex: visitor sees "Search Engine Optimization," you store that value as "SEO.").
 
-1. For "Yes" we want to schedule an appointment, so below that option drag over the Appointment Scheduler card.
+1. For "[!UICONTROL Yes]" we want to schedule an appointment, so below that option drag over the [!UICONTROL Appointment Scheduler] card.
 
    ![](assets/stream-designer-10.png)
 
-1. In the column on the right, click **Save**.
+1. In the column on the right, click **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-11.png)
 
-1. Since that's a goal, drag the Goal card below the Appointment Scheduler.
+1. Since that's a goal, drag the [!UICONTROL Goal] card below the [!UICONTROL Appointment Scheduler].
 
    ![](assets/stream-designer-12.png)
 
-1. Name your goal (or choose an existing one) and click **Save**.
+1. Name your goal (or choose an existing one) and click **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-13.png)
 
-1. For "No" we want to see if they'll join the mailing list, so below that option drag over another Question card.
+1. For "[!UICONTROL No]" we want to see if they'll join the mailing list, so below that option drag over another [!UICONTROL Question] card.
 
    ![](assets/stream-designer-14.png)
 
-1. Enter your response, and add response choices for the visitor. Click **Save** when done.
+1. Enter your response, and add response choices for the visitor. Click **[!UICONTROL Save]** when done.
 
    ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
-   >You can add more responses by clicking **Add Response**.
+   >You can add more responses by clicking **[!UICONTROL Add Response]**.
 
-1. Below the "Yes" response, drag over the Info Capture card so you can collect the visitor's email.
+1. Below the "[!UICONTROL Yes]" response, drag over the [!UICONTROL Info Capture] card so you can collect the visitor's email.
 
    ![](assets/stream-designer-16.png)
 
-1. Click the **Type** drop-down and select **Email**.
+1. Click the **[!UICONTROL Type]** drop-down and select **[!UICONTROL Email]**.
 
    ![](assets/stream-designer-17.png)
 
-1. Enter a chatbot message and placeholder. Make sure the attribute is mapped to the appropriate field in Marketo and click **Save**.
+1. Enter a chatbot message and placeholder. Make sure the attribute is mapped to the appropriate field in Marketo and click **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-18.png)
 
    <table>
     <tr>
-     <td><strong>Type</strong></td>
+     <td><strong>[!UICONTROL Type]</strong></td>
      <td>The type of info you want to capture: Phone, Text, Email.</td>
     </tr>
     <tr>
-     <td><strong>Chatbot Message</strong></td>
+     <td><strong>[!UICONTROL Chatbot Message]</strong></td>
      <td>The message the visitor sees prompting them to provide the info.</td>
     </tr>
     <tr>
-     <td><strong>Placeholder</strong></td>
+     <td><strong>[!UICONTROL Placeholder]</strong></td>
      <td>Sample text helping the visitor see what to enter.</td>
     </tr>
     <tr>
-     <td><strong>Map Response to Attribute</strong></td>
+     <td><strong>[!UICONTROL Map Response to Attribute]</strong></td>
      <td>Allows you to sync the vistor's response to the corresponding field in their Person record in your Marketo subscription.</td>
     </tr>
    </table>
 
-1. Since collecting their email is a goal, drag the Goal card below Info Capture.
+1. Since collecting their email is a goal, drag the [!UICONTROL Goal] card below [!UICONTROL Info Capture].
 
    ![](assets/stream-designer-19.png)
 
-1. Name your goal (or choose an existing one) and click **Save**.
+1. Name your goal (or choose an existing one) and click **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-20.png)
 
-1. Remember to add a response if they say "No." One option is to drag a Message card below and say "thanks anyway." But in this example, we'll provide them with a free PDF document instead.
+1. Remember to add a response if they say "[!UICONTROL No]." One option is to drag a [!UICONTROL Message] card below and say "[!UICONTROL thanks anyway]." But in this example, we'll provide them with a free PDF document instead.
 
    ![](assets/stream-designer-21.png)
 
-1. In this example we'll create a new document. Give it a name, enter the URL to the PDF you already have hosted, and click **Save**.
+1. In this example we'll create a new document. Give it a name, enter the URL to the PDF you already have hosted, and click **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-22.png)
 
-1. Select the **Preview** toggle to preview your Dialogue.
+1. Select the **[!UICONTROL Preview]** toggle to preview your Dialogue.
 
    ![](assets/stream-designer-23.png)
 
-1. When you're ready to activate your Dialogue, click **Publish**.
+1. When you're ready to activate your Dialogue, click **[!UICONTROL Publish]**.
 
    ![](assets/stream-designer-24.png)
 
