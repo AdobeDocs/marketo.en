@@ -17,19 +17,19 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 
 ## Step 1: Create an Engagement Program {#step-create-an-engagement-program}
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
    ![](assets/drip-drip-nurture-1.png)
 
-1. Select the **Learning** folder, click the **New** drop-down and select **New Program**.
+1. Select the **Learning** folder, click the **[!UICONTROL New]** drop-down and select **[!UICONTROL New Program]**.
 
    ![](assets/drip-drip-nurture-2.png)
 
-1. Enter a **Name** and select **Engagement** for the **Program Type**.
+1. Enter a **[!UICONTROL Name]** and select **[!UICONTROL Engagement]** for the **[!UICONTROL Program Type]**.
 
    ![](assets/drip-drip-nurture-3.png)
 
-1. Make sure the **Channel** field is **Nurture** and click **Create**.
+1. Make sure the **[!UICONTROL Channel]** field is **[!UICONTROL Nurture]** and click **[!UICONTROL Create]**.
 
    ![](assets/drip-drip-nurture-4.png)
 
@@ -37,35 +37,35 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 
 ## Step 2: Create an Email {#step-create-an-email}
 
-1. Select your engagement program, click **New** and select **New Local Asset**.
+1. Select your engagement program, click **[!UICONTROL New]** and select **[!UICONTROL New Local Asset]**.
 
    ![](assets/drip-drip-nurture-5.png)
 
-1. Click **Email**.
+1. Click **[!UICONTROL Email]**.
 
    ![](assets/drip-drip-nurture-6.png)
 
-1. Enter a **Name**, select the **Template** you want to use, and click **Create**.
+1. Enter a **[!UICONTROL Name]**, select the **[!UICONTROL Template]** you want to use, and click **[!UICONTROL Create]**.
 
    ![](assets/drip-drip-nurture-7.png)
 
    >[!NOTE]
    >
-   >Don't see the email editor? Your browser probably blocked the window. Enable pop-ups from `app.marketo.com` in your browser and click **Edit Draft** in the top menu bar.
+   >Don't see the email editor? Your browser probably blocked the window. Enable pop-ups from `app.marketo.com` in your browser and click **[!UICONTROL Edit Draft]** in the top menu bar.
 
 1. Enter a subject.
 
    ![](assets/drip-drip-nurture-8.png)
 
-1. Select the area of the email you want to edit, click the gear icon and select **Edit**.
+1. Select the area of the email you want to edit, click the gear icon and select **[!UICONTROL Edit]**.
 
    ![](assets/drip-drip-nurture-9.png)
 
-1. Edit your email and click **Save**.
+1. Edit your email and click **[!UICONTROL Save]**.
 
    ![](assets/drip-drip-nurture-10.png)
 
-1. Under **Email Actions**, click **Approve and Close**.
+1. Under **[!UICONTROL Email Actions]**, click **[!UICONTROL Approve and Close]**.
 
    ![](assets/drip-drip-nurture-11.png)
 
@@ -81,11 +81,11 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 
 Now it's time to create a stream of content for your engagement program using the emails you created.
 
-1. Select your engagement program and click the **Streams** tab.
+1. Select your engagement program and click the **[!UICONTROLS Streams]** tab.
 
    ![](assets/drip-drip-nurture-13.png)
 
-1. Click the **Add Content** button in the stream.
+1. Click the **[!UICONTROLS Add Content]** button in the stream.
 
    ![](assets/drip-drip-nurture-14.png)
 
@@ -99,7 +99,7 @@ Now it's time to create a stream of content for your engagement program using th
 
 ## Step 4: Activate Stream Content {#step-activate-stream-content}
 
-1. Activate all content at once by clicking on the stream gear icon, then click **Activate all content**.
+1. Activate all content at once by clicking on the stream gear icon, then click **[!UICONTROLS Activate all content]**.
 
    ![](assets/drip-drip-nurture-16.png)
 
@@ -111,11 +111,11 @@ Now it's time to create a stream of content for your engagement program using th
 
 ## Step 5: Set the Stream Cadence {#step-set-the-stream-cadence}
 
-1. Click **Set Stream Cadence**.
+1. Click **[!UICONTROLS Set Stream Cadence]**.
 
    ![](assets/drip-drip-nurture-17.png)
 
-1. Edit the settings to match the schedule you want and click **Save**.
+1. Edit the settings to match the schedule you want and click **[!UICONTROLS Save]**.
 
    ![](assets/drip-drip-nurture-18.png)
 
@@ -127,7 +127,7 @@ Now it's time to create a stream of content for your engagement program using th
 
 ## Step 6: Add a Test Person to Your Engagement Program {#step-add-a-test-person-to-your-engagement-program}
 
-1. Go to the **Database** area.
+1. Go to the **[!UICONTROLS Database]** area.
 
    ![](assets/drip-drip-nurture-19.png)
 
@@ -139,11 +139,11 @@ Now it's time to create a stream of content for your engagement program using th
    >
    >Make sure the test person has a valid email address so you can confirm the receipt of emails when testing.
 
-1. Right-click on the person, then click **Programs** and **Add to Engagement Program**.
+1. Right-click on the person, then click **[!UICONTROLS Programs]** and **[!UICONTROLS Add to Engagement Program...]**.
 
    ![](assets/drip-drip-nurture-21.png)
 
-1. Select your **Program** and **Stream**, then click **Run Now**.
+1. Select your **[!UICONTROLS Program]** and **[!UICONTROLS Stream]**, then click **[!UICONTROLS Run Now]**.
 
    ![](assets/drip-drip-nurture-22.png)
 
