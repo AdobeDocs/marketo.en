@@ -12,15 +12,15 @@ Sometimes you no longer want site visitors to submit forms using a social profil
 >
 >Not all customers have purchased this functionality.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-10.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Under Form Settings click **Settings**.
+1. Under [!UICONTROL Form Settings] click **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -28,11 +28,11 @@ Sometimes you no longer want site visitors to submit forms using a social profil
 
    ![](assets/image2016-4-28-16-3a49-3a23.png)
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
