@@ -25,23 +25,23 @@ The meetings and seminars that you create in Adobe Connect must be created under
 >
 >We do not support Adobe Connect On-Site at this time.
 
-1. On the home of a new event, select **Event Actions**, and then **Event Settings**.
+1. On the home of a new event, select **[!UICONTROL Event Actions]**, and then **[!UICONTROL Event Settings]**.
 
    ![](assets/image2015-1-30-15-3a34-3a28.png)
 
    >[!NOTE]
    >
-   >If you don't see **Event Settings** in the drop-down, make sure the event's channel has **Event with Webinar** selected under "Applies to."
+   >If you don't see **[!UICONTROL Event Settings]** in the drop-down, make sure the event's channel has **[!UICONTROL Event with Webinar]** selected under "[!UICONTROL Applies to]."
 
-1. Under **Event Partner**, select **Adobe Connect**.
+1. Under **[!UICONTROL Event Partner]**, select **[!UICONTROL Adobe Connect]**.
 
    ![](assets/event-settings-adobe-connect.png)
 
-1. Select your **Login** ID and the select your **Event**.
+1. Select your **[!UICONTROL Login]** ID and the select your **[!UICONTROL Event]**.
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/event-settings-overview.png)
 
@@ -57,7 +57,7 @@ The meetings and seminars that you create in Adobe Connect must be created under
    >
    >Set your confirmation email to **Operational** to ensure that people who register and may be unsubscribed still receive their confirmation information.
 
-   People who sign up for your webinar will get pushed to your webinar provider via the Change Program Status flow step when the New Status is set to "Registered." No other status will push the person over. Also, be sure to make Change Program Status flow step #1, and Send Email flow step #2.
+   People who sign up for your webinar will get pushed to your webinar provider via the [!UICONTROL Change Program Status] flow step when the [!UICONTROL New Status] is set to "Registered." No other status will push the person over. Also, be sure to make [!UICONTROL Change Program Status] flow step #1, and Send Email flow step #2.
 
    ![](assets/adobe.png)
 
@@ -67,9 +67,9 @@ The meetings and seminars that you create in Adobe Connect must be created under
 
    >[!TIP]
    >
-   >It can take up to 48 hours for the data to appear in Marketo. If after waiting that long you still don't see anything, select **Refresh from Webinar Provider** from the Event Actions menu in the Summary tab of your event.
+   >It can take up to 48 hours for the data to appear in Marketo. If after waiting that long you still don't see anything, select **[!UICONTROL Refresh from Webinar Provider]** from the Event Actions menu in the Summary tab of your event.
 
    >[!MORELIKETHIS]
    >
-   >* [Add Adobe Connect as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   >* [Add Adobe Connect as a [!DNL LaunchPoint] Service](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
    >* [Edit an Event Channel](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
