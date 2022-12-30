@@ -18,43 +18,43 @@ You can edit the channel type from the event’s **Summary** tab or from its **S
 
 ## From the Summary Tab {#from-the-summary-tab}
 
-1. From **Marketing Activities**, select your event from the tree.
+1. From **[!UICONTROL Marketing Activities]**, select your event from the tree.
 
    ![](assets/eventprogramseelct.png)
 
-1. Navigate to the **Summary** view.
+1. Navigate to the **[!UICONTROL Summary]** view.
 
    ![](assets/eventprogramsummary.png)
 
-1. Under the **Settings** category, select the current **Channel** displayed as a hyperlink.
+1. Under the **[!UICONTROL Settings]** category, select the current **[!UICONTROL Channel]** displayed as a hyperlink.
 
    ![](assets/channeltypeevent.png)
 
-1. From the drop-down list, select a new channel.
+1. From the drop-down list, select a new **[!UICONTROL Channel]**.
 
    ![](assets/tradeshowchange.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
 ## From the Setup Tab {#from-the-setup-tab}
 
-A new channel type can also be assigned from the event’s **Setup** tab.
+A new channel type can also be assigned from the event’s **[!UICONTROL Setup]** tab.
 
 1. Select your event from the tree.
 
    ![](assets/eventprogramseelct.png)
 
-1. Navigate to the **Setup** tab. Double-click the current **Channel**.
+1. Navigate to the **[!UICONTROL Setup]** tab. Double-click the current **Channel**.
 
    ![](assets/setuptabchangechannel.png)
 
-1. Select a new **Channel**.
+1. Select a new **[!UICONTROL Channel]**.
 
    ![](assets/tradeshowchange.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
