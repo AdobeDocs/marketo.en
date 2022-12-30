@@ -48,15 +48,15 @@ The [!UICONTROL Recommended Assets Report] sends the user an email of all the co
 
 ![](assets/six.png)
 
-The [!UICONTROL Summary report] sends the user an email (monthly or quarterly) of all [!UICONTROL campaigns] and [!UICONTROL recommended content] performance based on number of clicks and number of people (direct or assisted) that engaged with the [!UICONTROL personalized campaign] or [!UICONTROL recommended content] and then became a known person. The report compares the results to the previous month or quarter.
+The [!UICONTROL Summary report] sends the user an email (monthly or quarterly) of all [!UICONTROL Campaigns] and [!UICONTROL Recommended Content] performance based on number of clicks and number of people (direct or assisted) that engaged with the [!UICONTROL Personalized Campaign] or [!UICONTROL Recommended Content] and then became a known person. The report compares the results to the previous month or quarter.
 
 >[!NOTE]
 >
 >**Definitions**
 >
->**[!UICONTROL Direct Conversion]**: A web visitor who clicks on a [!UICONTROL personalized campaign] or [!UICONTROL recommended content] asset and in the same visit session proceeds to fill out any form on the website with their email address.
+>**[!UICONTROL Direct Conversion]**: A web visitor who clicks on a [!UICONTROL Personalized Campaign] or [!UICONTROL Recommended Content] asset and in the same visit session proceeds to fill out any form on the website with their email address.
 >
->**[!UICONTROL Assisted Conversion]**: A web visitor who fills out any form on the website and leaves their email address, while in a previous visit (within the last 6 months) clicked on a [!UICONTROL personalized campaign] or [!UICONTROL recommended content] asset.
+>**[!UICONTROL Assisted Conversion]**: A web visitor who fills out any form on the website and leaves their email address, while in a previous visit (within the last 6 months) clicked on a [!UICONTROL Personalized Campaign] or [!UICONTROL Recommended Content] asset.
 
 >[!NOTE]
 >
