@@ -12,19 +12,19 @@ Google Fonts are awesome, and we built them right into the form editor. Check it
 >
 >This setting impacts the form label, the input text, and any rich text.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Under **Form Settings**, select **Settings**.
+1. Under **[!UICONTROL Form Settings]**, select **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Select the **Font Family** you want.
+1. Select the **[!UICONTROL Font Family]** you want.
 
    >[!TIP]
    >
@@ -32,11 +32,11 @@ Google Fonts are awesome, and we built them right into the form editor. Check it
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    >[!NOTE]
    >
