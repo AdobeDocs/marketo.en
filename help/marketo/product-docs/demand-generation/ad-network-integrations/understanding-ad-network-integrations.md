@@ -10,7 +10,7 @@ exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 
 ## How Ad Network Integrations Work {#how-ad-network-integrations-work}
 
-Ad network integrations connect Marketo's unique audience data to your paid media systems so you can run more targeted, personalized digital ad campaigns. These integrations currently work with Facebook, LinkedIn, and Google.
+Ad network integrations connect Marketo's unique audience data to your paid media systems so you can run more targeted, personalized digital ad campaigns. These integrations currently work with [!DNL Facebook], [!DNL LinkedIn], and Google.
 
 Capabilities include:
 
@@ -23,7 +23,7 @@ Capabilities include:
 
 * Ingesting leads or data from paid media systems into Marketo
 
-    * For example, a Facebook user clicks a Subscribe button and provides a name and email address
+    * For example, a [!DNL Facebook] user clicks a Subscribe button and provides a name and email address
 
 * Uploading offline conversion data to paid media systems, optimizing lead acquisition and nurture efforts
 
@@ -37,11 +37,11 @@ Capabilities include:
 
 You can use integrations to:
 
-* [Add Google AdWords as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-* [Add Leads to a Custom Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
-* [Create a Custom Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [Set Up Facebook Offline Conversions](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-* [Use a Marketo List or Smart List as a LinkedIn Audience Segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+* [Add Google [!DNL AdWords] as a [!DNL LaunchPoint] Service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+* [Add Leads to a Custom Audience in [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+* [Create a Custom Audience in [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [Set Up [!DNL Facebook] Offline Conversions](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+* [Use a Marketo List or Smart List as a [!DNL LinkedIn] Audience Segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
 |   |Audience Data |Lead Ingestion |Offline Conversion |
 |---|---|---|---|
