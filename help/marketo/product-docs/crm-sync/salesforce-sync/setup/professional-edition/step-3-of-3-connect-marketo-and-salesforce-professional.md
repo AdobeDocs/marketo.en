@@ -4,14 +4,14 @@ description: Step 3 of 3 -Connect Marketo and Salesforce (Professional) - Market
 title: Step 3 of 3 -Connect Marketo and Salesforce (Professional)
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 ---
-# Step 3 of 3: Connect Marketo and Salesforce (Professional) {#step-of-connect-marketo-and-salesforce-professional}
+# Step 3 of 3: Connect Marketo and [!DNL Salesforce] (Professional) {#step-of-connect-marketo-and-salesforce-professional}
 
-In this article, you will configure Marketo to sync with your configured Salesforce instance.
+In this article, you will configure Marketo to sync with your configured [!DNL Salesforce] instance.
 
 >[!PREREQUISITES]
 >
->* [Step 1 of 3: Add Marketo Fields to Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
->* [Step 2 of 3: Create a Salesforce User for Marketo (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
+>* [Step 1 of 3: Add Marketo Fields to [!DNL Salesforce] (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
+>* [Step 2 of 3: Create a [!DNL Salesforce] User for Marketo (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
 
 ## Retrieve Sync User Security Token {#retrieve-sync-user-security-token}
 
@@ -19,15 +19,15 @@ In this article, you will configure Marketo to sync with your configured Salesfo
 >
 >If you already have the security token, proceed directly to Set Sync User Credentials and kudos for preparation!
 
-1. Log into Salesforce with the Marketo Sync User, click the sync user's name, then **My Settings**.
+1. Log into [!DNL Salesforce] with the Marketo Sync User, click the sync user's name, then **[!UICONTROL My Settings]**.
 
    ![](assets/image2015-5-21-14-3a11-3a17.png)
 
-1. In the Nav search bar, type "reset" and click on **Reset My Security Token**.
+1. In the Nav search bar, type "reset" and click on **[!UICONTROL Reset My Security Token]**.
 
    ![](assets/image2014-12-9-9-3a52-3a42.png)
 
-1. Click **Reset Security Token**.
+1. Click **[!UICONTROL Reset Security Token]**.
 
    ![](assets/image2015-5-21-14-3a13-3a5.png)
 
@@ -35,23 +35,23 @@ In this article, you will configure Marketo to sync with your configured Salesfo
 
 ## Set Sync User Credentials {#set-sync-user-credentials}
 
-1. In Marketo, go to **Admin**, select **CRM**, and click **Sync with [Salesforce.com](https://Salesforce.com)**.
+1. In Marketo, go to **[!UICONTROL Admin]**, select **CRM**, and click **[!UICONTROL Sync with [Salesforce.com](https://Salesforce.com)]**.
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
    >[!NOTE]
    >
-   >Be sure to [hide all fields you do not need](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo from the sync user before clicking **Sync Fields**. Once you click Sync Fields all fields the user can see will be created in Marketo permanently and cannot be deleted.
+   >Be sure to [hide all fields you do not need](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo from the sync user before clicking **[!UICONTROL Sync Fields]**. Once you click [!UICONTROL Sync Fields] all fields the user can see will be created in Marketo permanently and cannot be deleted.
 
-1. Enter the Salesforce Sync User credentials created in part 2 of the Salesforce configuration ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) and click **Sync Fields**.
+1. Enter the [!DNL Salesforce] Sync User credentials created in part 2 of the [!DNL Salesforce] configuration ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) and click **[!UICONTROL Sync Fields]**.
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
    >[!NOTE]
    >
-   >Check **Sandbox** if you are syncing a Marketo Sandbox to a Salesforce Sandbox.
+   >Check **[!UICONTROL Sandbox]** if you are syncing a Marketo Sandbox to a [!DNL Salesforce] Sandbox.
 
-1. Read the warning, then click **Confirm Credentials**.
+1. Read the warning, then click **[!UICONTROL Confirm Credentials]**.
 
    ![](assets/image2014-12-9-9-3a53-3a16.png)
 
@@ -59,17 +59,17 @@ In this article, you will configure Marketo to sync with your configured Salesfo
    >
    >If you want to look over the [mappings and customize them](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md), this is your only chance to do so! Once you click Start Salesforce Sync, it's done.
 
-## Start Salesforce Sync {#start-salesforce-sync}
+## Start [!DNL Salesforce] Sync {#start-salesforce-sync}
 
-1. Click **Start Salesforce Sync** to begin the persistent Marketo-Salesforce sync.
+1. Click **[!UICONTROL Start Salesforce Sync]** to begin the persistent Marketo-[!DNL Salesforce] sync.
 
    ![](assets/image2014-12-9-9-3a53-3a24.png)
 
    >[!CAUTION]
    >
-   >Marketo will not automatically de-dupe against a Salesforce sync, or when you manually enter leads.
+   >Marketo will not automatically de-dupe against a [!DNL Salesforce] sync, or when you manually enter leads.
 
-1. Click **Start Sync**.
+1. Click **[!UICONTROL Start Sync]**.
 
    ![](assets/image2014-12-9-9-3a53-3a32.png)
 
@@ -79,13 +79,13 @@ In this article, you will configure Marketo to sync with your configured Salesfo
 
 ## Verify Sync {#verify-sync}
 
-Marketo provides status messages for the Salesforce sync in the Admin area. You can verify the sync is working correctly by following these steps.
+Marketo provides status messages for the [!DNL Salesforce] sync in the Admin area. You can verify the sync is working correctly by following these steps.
 
-1. In Marketo, click **Admin**, then **Salesforce**.
+1. In Marketo, click **[!UICONTROL Admin]**, then **[!UICONTROL Salesforce]**.
 
    ![](assets/image2014-12-9-9-3a53-3a40.png)
 
-1. The sync status is visible in the upper-right corner. It will show one of three messages: **Last Synced**, **Sync in Progress**, or **Failed**.
+1. The sync status is visible in the upper-right corner. It will show one of three messages: **[!UICONTROL Last Synced]**, **[!UICONTROL Sync in Progress]**, or **[!UICONTROL Failed]**.
 
    ![](assets/image2014-12-9-9-3a53-3a50.png)
 
@@ -97,5 +97,5 @@ Wow, you just finished configuring one of the most powerful features of Marketo,
 
 >[!MORELIKETHIS]
 >
->* [Install Marketo Sales Insight Package in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
->* [Configure Marketo Sales Insight in Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>* [Install Marketo Sales Insight Package in [!DNL Salesforce] AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [Configure Marketo Sales Insight in [!DNL Salesforce] Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
