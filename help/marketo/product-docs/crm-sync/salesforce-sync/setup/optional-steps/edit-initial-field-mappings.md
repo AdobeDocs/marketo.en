@@ -8,19 +8,19 @@ exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 
 >[!NOTE]
 >
->This feature is only accessible before the initial sync to Salesforce! Once the **Sync Now** button is pressed, this can no longer be done.
+>This feature is only accessible before the initial sync to [!UICONTROL Salesforce]! Once the **[!UICONTROL Sync Now]** button is pressed, this can no longer be done.
 
-During the initial sync to Salesforce, Marketo automatically combines similarly named custom fields into a single field on the Marketo side to ensure the data can be exchanged with both Lead and Contact objects in the CRM. This article explains how to customize these mappings.
+During the initial sync to [!UICONTROL Salesforce], Marketo automatically combines similarly named custom fields into a single field on the Marketo side to ensure the data can be exchanged with both Lead and Contact objects in the CRM. This article explains how to customize these mappings.
 
 ## Map Unmapped Fields {#map-unmapped-fields}
 
-When you see a field in the Unmapped Fields folder, it means that it's not mapped to a similar field on the Lead or Contact in Salesforce. You can fix that.
+When you see a field in the Unmapped Fields folder, it means that it's not mapped to a similar field on the Lead or Contact in [!UICONTROL Salesforce]. You can fix that.
 
-1. Click **Edit Mappings**.
+1. Click **[!UICONTROL Edit Mappings]**.
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
-1. Open the **Unmapped Custom Fields** folder.
+1. Open the **[!UICONTROL Unmapped Custom Fields]** folder.
 
    ![](assets/two.png)
 
@@ -32,7 +32,7 @@ When you see a field in the Unmapped Fields folder, it means that it's not mappe
 
    ![](assets/three.png)
 
-1. Click **Finish Mappings** when you are done.
+1. Click **[!UICONTROL Finish Mappings]** when you are done.
 
    ![](assets/four.png)
 
@@ -40,15 +40,15 @@ When you see a field in the Unmapped Fields folder, it means that it's not mappe
 
 If you have similarly named fields on the lead and contact object Marketo will map them together automatically. You may consider them to be different and to hold different data. Break the mapping like so.
 
-1. Click **Edit Mappings**.
+1. Click **[!UICONTROL Edit Mappings]**.
 
    ![](assets/image2014-12-9-13-3a31-3a37.png)
 
-1. Highlight a mapped field and click **Break Mapping** to separate the fields.
+1. Highlight a mapped field and click **[!UICONTROL Break Mapping]** to separate the fields.
 
    ![](assets/image2014-12-9-13-3a31-3a47.png)
 
-1. Click **Finish Mappings** when you are done.
+1. Click **[!UICONTROL Finish Mappings]** when you are done.
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
@@ -56,7 +56,7 @@ If you have similarly named fields on the lead and contact object Marketo will m
 
 ## Reset Schema {#reset-schema}
 
-1. If you make some changes to the schema in Salesforce while working on the mappings, you can pull the changes by clicking **Reset Schema**.
+1. If you make some changes to the schema in [!UICONTROL Salesforce] while working on the mappings, you can pull the changes by clicking **[!UICONTROL Reset Schema]**.
 
     * All the mapping changes will be reset!
     * Resetting the schema will only add fields, not remove (even if you hide them from the sync user).
