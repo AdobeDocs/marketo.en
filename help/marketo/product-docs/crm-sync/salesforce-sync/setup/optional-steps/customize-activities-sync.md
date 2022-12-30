@@ -6,17 +6,17 @@ exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 ---
 # Customize Activities Sync {#customize-activities-sync}
 
-If you don't use Marketo Sales Insight, Marketo can create Salesforce Activity History Records for certain events. Here's how to enable them.
+If you don't use Marketo Sales Insight, Marketo can create [!DNL Salesforce] Activity History Records for certain events. Here's how to enable them.
 
-1. Go to **Admin**.
+1. Go to **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Click **Salesforce**, then click **Edit Sync Options**.
+1. Click **[!UICONTROL Salesforce]**, then click **[!UICONTROL Edit Sync Options]**.
 
    ![](assets/two-1.png)
 
-1. Check the boxes next to activities you want Marketo to push to Salesforce, and click **Save**.
+1. Check the boxes next to activities you want Marketo to push to [!DNL Salesforce], and click **[!UICONTROL Save]**.
 
    ![](assets/three-1.png)
 
@@ -37,51 +37,51 @@ If you don't use Marketo Sales Insight, Marketo can create Salesforce Activity H
  </thead> 
  <tbody> 
   <tr> 
-   <td>Filled out form</td> 
+   <td>[!UICONTROL Filled out form]</td> 
    <td>Filled out any Marketo form</td> 
   </tr> 
   <tr> 
-   <td>Added to list</td> 
+   <td>[!UICONTROL Added to list]</td> 
    <td><p>Flow step: Was added to a static list</p></td> 
   </tr> 
   <tr> 
-   <td>Email sent</td> 
+   <td>[!UICONTROL Email sent]</td> 
    <td>Flow step: Was sent an email</td> 
   </tr> 
   <tr> 
-   <td>Email delivered</td> 
+   <td>[!UICONTROL Email delivered]</td> 
    <td>Received an email (not bounced)</td> 
   </tr> 
   <tr> 
-   <td>Email opened</td> 
+   <td>[!UICONTROL Email opened]</td> 
    <td>Opened an email (without blocking images)</td> 
   </tr> 
   <tr> 
-   <td>Clicked link in email</td> 
+   <td>[!UICONTROL Clicked link in email]</td> 
    <td>Clicked a link in an email sent by Marketo</td> 
   </tr> 
   <tr> 
-   <td>Removed from list</td> 
+   <td>[!UICONTROL Removed from list]</td> 
    <td>Flow step: Was removed from a static list</td> 
   </tr> 
   <tr> 
-   <td>Remove from flow</td> 
+   <td>[!UICONTROL Remove from flow]</td> 
    <td>Flow step: Remove from flow</td> 
   </tr> 
   <tr> 
-   <td>Sales email sent</td> 
+   <td>[!UICONTROL Sales email sent]</td> 
    <td>Was sent an email through Marketo Sales Insight</td> 
   </tr> 
   <tr> 
-   <td>Sales email opened</td> 
+   <td>[!UICONTROL Sales email opened]</td> 
    <td>Opened an email sent through Marketo Sales Insight</td> 
   </tr> 
   <tr> 
-   <td>Click link in sales email</td> 
+   <td>[!UICONTROL Click link in sales email]</td> 
    <td>Clicked a link in an email sent through Marketo Sales Insight</td> 
   </tr> 
   <tr> 
-   <td>Sales email received</td> 
+   <td>[!UICONTROL Sales email received]</td> 
    <td>An email was received and logged by the Sales rep in the MSI Outlook Plugin</td> 
   </tr> 
  </tbody> 
@@ -93,4 +93,4 @@ If you don't use Marketo Sales Insight, Marketo can create Salesforce Activity H
 
    >[!TIP]
    >
-   >If you're interested in getting more Marketo information into Salesforce, check out our [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) product.
+   >If you're interested in getting more Marketo information into [!DNL Salesforce], check out our [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) product.
