@@ -8,11 +8,11 @@ exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 
 Once you've [created your form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) and [selected a theme](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md), you may want to add additional fields for people to fill out. Here's how.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/editform-1.png)
 
@@ -22,17 +22,17 @@ Once you've [created your form](/help/marketo/product-docs/demand-generation/for
 
    >[!NOTE]
    >
-   >When you create a new form, First Name, Last Name, and Email Address are automatically added.
+   >When you create a new form, [!UICONTROL First Name], [!UICONTROL Last Name], and [!UICONTROL Email Address] are automatically added.
 
 1. Find and select the field you want to add to your form.
 
    ![](assets/image2014-9-15-17-3a18-3a26.png)
 
-1. Add as many fields as you need and click **Finish**.
+1. Add as many fields as you need and click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-17-3a18-3a35.png)
 
-1. Now click **Approve and Close**.
+1. Now click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-17-3a18-3a43.png)
 
