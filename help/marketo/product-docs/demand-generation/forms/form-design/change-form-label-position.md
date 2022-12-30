@@ -26,8 +26,8 @@ When [creating a form](/help/marketo/product-docs/demand-generation/forms/creati
 
    You currently have two options:
 
-    * Left (default)
-    * Above
+    * [!UICONTROL Left] (default)
+    * [!UICONTROL Above]
 
 1. Click **[!UICONTROL Finish]**.
 
