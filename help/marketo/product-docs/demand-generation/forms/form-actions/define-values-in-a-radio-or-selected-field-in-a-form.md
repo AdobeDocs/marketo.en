@@ -8,21 +8,21 @@ exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 
 Once you've [set a field type](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) to be a radio button or select type, you'll want to define the values the user can pick from. Here's how.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
-1. Select the field and click **Edit**.
+1. Select the field and click **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-15-16-3a29-3a6.png)
 
    >[!NOTE]
    >
-   >The first and default value is always "Select..." Feel free to edit that. If you change the default radio button to another row, "Select..." will not show up as a choice in the form.
+   >The first and default value is always "[!UICONTROL Select...]" Feel free to edit that. If you change the default radio button to another row, "[!UICONTROL Select...]" will not show up as a choice in the form.
 
 1. Click to add your value.
 
@@ -32,27 +32,27 @@ Once you've [set a field type](/help/marketo/product-docs/administration/field-m
    >
    >**Definition**
    >
-   >**Display Value:** What is shown to the visitor.
+   >**[!UICONTROL Display Value]:** What is shown to the visitor.
    >
-   >**Stored Value:** What is recorded in Marketo.
+   >**[!UICONTROL Stored Value]:** What is recorded in Marketo.
 
-1. Add as many values as you need, then click **Save**.
+1. Add as many values as you need, then click **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
-   >If you don't enter a Stored Value, Marketo will use the Display Value and store that.
+   >If you don't enter a [!UICONTROL Stored Value], Marketo will use the [!UICONTROL Display Value] and store that.
 
    ![](assets/image2014-9-15-16-3a29-3a30.png)
 
    >[!TIP]
    >
-   >Click **Advanced Editor** to copy/paste a list of values if you want. It can be a real time saver.
+   >Click **[!UICONTROL Advanced Editor]** to copy/paste a list of values if you want. It can be a real time saver.
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
