@@ -1,11 +1,11 @@
 ---
-description: Default Veeva Field Mapping - Marketo Docs - Product Documentation
-title: Default Veeva Field Mapping
+description: "Default [!DNL Veeva] Field Mapping - Marketo Docs - Product Documentation"
+title: "Default [!DNL Veeva] Field Mapping"
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 ---
-# Default Veeva Field Mapping {#default-veeva-field-mapping}
+# Default [!DNL Veeva] Field Mapping {#default-veeva-field-mapping}
 
-When you initially sync your Marketo Engage account with Veeva, Marketo automatically makes these associations between your built-in Veeva and Marketo fields. Marketo will also sync your custom fields on your Accounts and Contacts.
+When you initially sync your Marketo Engage account with [!DNL Veeva], Marketo automatically makes these associations between your built-in [!DNL Veeva] and Marketo fields. Marketo will also sync your custom fields on your Accounts and Contacts.
 
 ## Contact Fields {#contact-fields}
 
@@ -185,7 +185,7 @@ When you initially sync your Marketo Engage account with Veeva, Marketo automati
   </tbody>
 </table>
 
-## Veeva-Related System Fields in Marketo (Read-only) {#veeva-related-system-fields-in-marketo}
+## [!DNL Veeva]-Related System Fields in Marketo (Read-only) {#veeva-related-system-fields-in-marketo}
 
 These fields are created in Marketo but can’t be adjusted by customers.
 
@@ -202,19 +202,19 @@ These fields are created in Marketo but can’t be adjusted by customers.
   </thead>
   <tbody>
     <tr>
-      <td>Veeva Id</td>
-      <td>The 18-character Salesforce Id</td>
+      <td>[!DNL Veeva] Id</td>
+      <td>The 18-character [!DNL Salesforce] Id</td>
     </tr>
     <tr>
-      <td>Veeva Type</td>
+      <td>[!DNL Veeva] Type</td>
       <td>Contact. If empty, the lead exists only as a person in Marketo</td>
     </tr>
     <tr>
-      <td>Veeva Created Date</td>
+      <td>[!DNL Veeva] Created Date</td>
       <td>Date created in SFDC (can be different from Created in Marketo)</td>
     </tr>
     <tr>
-      <td>Veeva is Deleted</td>
+      <td>[!DNL Veeva] is Deleted</td>
       <td>Person used to be in SFDC but was deleted and now lives only in Marketo</td>
     </tr>
   </tbody>
