@@ -13,7 +13,7 @@ Follow the steps below to add or remove chat users.
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. Click **Dynamic Chat**.
+1. Click **[!UICONTROL Dynamic Chat]**.
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -21,15 +21,15 @@ Follow the steps below to add or remove chat users.
    >
    >If you have more than one Marketo subscription, select the desired one prior to the next step.
 
-1. Click the **Users** tab.
+1. Click the **[!UICONTROL Users]** tab.
 
    ![](assets/add-or-remove-chat-users-3.png)
 
-1. Click the **Add User** button.
+1. Click the **[!UICONTROL Add User]** button.
 
    ![](assets/add-or-remove-chat-users-4.png)
 
-1. Enter the name, user group, or email address of the user you'd like to add. First and last name are optional.
+1. Enter the [!UICONTROL name, user group, or email address] of the user you'd like to add. First and last name are optional.
 
    ![](assets/add-or-remove-chat-users-5.png)
 
@@ -37,27 +37,27 @@ Follow the steps below to add or remove chat users.
 
    ![](assets/add-or-remove-chat-users-6.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/add-or-remove-chat-users-7.png)
 
-## Add Dynamic Chat Access to Marketo Role {#add-dynamic-chat-access-to-marketo-role}
+## Add [!DNL Dynamic Chat] Access to Marketo Role {#add-dynamic-chat-access-to-marketo-role}
 
-If the newly added Chat user's Marketo role doesn't already have Dynamic Chat permission, here's how to add it.
+If the newly added Chat user's Marketo role doesn't already have [!DNL Dynamic Chat] permission, here's how to add it.
 
-1. In Marketo, click **Admin** and select **Users & Roles**.
+1. In Marketo, click **[!UICONTROL Admin]** and select **[!UICONTROL Users & Roles]**.
 
    ![](assets/add-or-remove-chat-users-8.png)
 
-1. Click the **Roles** tab.
+1. Click the **[!UICONTROL Roles]** tab.
 
    ![](assets/add-or-remove-chat-users-9.png)
 
-1. From the list, select the role you want to modify and click **Edit Role**.
+1. From the list, select the role you want to modify and click **[!UICONTROL Edit Role]**.
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. Select **Access Dynamic Chat** and click **Save**.
+1. Select **[!UICONTROL Access Dynamic Chat]** and click **[!UICONTROL Save]**.
 
    ![](assets/add-or-remove-chat-users-11.png)
 
@@ -67,7 +67,7 @@ If the newly added Chat user's Marketo role doesn't already have Dynamic Chat pe
 
    ![](assets/add-or-remove-chat-users-12.png)
 
-1. Click **Dynamic Chat**.
+1. Click **[!UICONTROL Dynamic Chat]**.
 
    ![](assets/add-or-remove-chat-users-13.png)
 
@@ -75,7 +75,7 @@ If the newly added Chat user's Marketo role doesn't already have Dynamic Chat pe
    >
    >If you have more than one Marketo subscription, select the desired one prior to the next step).
 
-1. Click the **Users** tab.
+1. Click the **[!UICONTROL Users]** tab.
 
    ![](assets/add-or-remove-chat-users-14.png)
 
@@ -83,11 +83,11 @@ If the newly added Chat user's Marketo role doesn't already have Dynamic Chat pe
 
    ![](assets/add-or-remove-chat-users-15.png)
 
-1. Click the **Remove User** button.
+1. Click the **[!UICONTROL Remove User]** button.
 
    ![](assets/add-or-remove-chat-users-16.png)
 
-1. Click **Remove User** to confirm.
+1. Click **[!UICONTROL Remove User]** to confirm.
 
    ![](assets/add-or-remove-chat-users-17.png)
 
