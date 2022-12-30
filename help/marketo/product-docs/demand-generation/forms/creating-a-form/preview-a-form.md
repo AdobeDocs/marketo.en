@@ -8,7 +8,7 @@ exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 
 Before you publish, you can see the form in this quick and simple form previewer.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -16,19 +16,19 @@ Before you publish, you can see the form in this quick and simple form previewer
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. Under **Form Actions**, click **Preview**.
+1. Under **[!UICONTROL Form Actions]**, click **[!UICONTROL Preview]**.
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. The form editor will open in **preview** mode.
+1. The form editor will open in **[!UICONTROL preview]** mode.
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Click **Edit Draft** to go back to **edit** mode.
+1. Click **[!UICONTROL Edit Draft]** to go back to **[!UICONTROL edit]** mode.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
-1. Switch back easily by clicking **Preview Draft**.
+1. Switch back easily by clicking **[!UICONTROL Preview Draft]**.
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 
