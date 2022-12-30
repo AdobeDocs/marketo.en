@@ -1,23 +1,23 @@
 ---
-description: Dynamic Chat Overview - Marketo Docs - Product Documentation
-title: Dynamic Chat Overview
+description: "[!DNL Dynamic Chat] Overview - Marketo Docs - Product Documentation"
+title: "[!DNL Dynamic Chat] Overview"
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 ---
-# Dynamic Chat Overview {#dynamic-chat-overview}
+# [!DNL Dynamic Chat] Overview {#dynamic-chat-overview}
 
-Dynamic Chat allows you to leverage an easy-to-use interface to target both people and accounts visiting your website. Collect relevant content such as name, contact information, and free text. Site visitors can also book meetings with your Sales Team. Dynamic Chat activity and engagement data can be used to add members to Marketo programs and trigger cross-channel activities.
+[!DNL Dynamic Chat] allows you to leverage an easy-to-use interface to target both people and accounts visiting your website. Collect relevant content such as name, contact information, and free text. Site visitors can also book meetings with your Sales Team. [!DNL Dynamic Chat] activity and engagement data can be used to add members to Marketo programs and trigger cross-channel activities.
 
    >[!NOTE]
    >
-   >Dynamic Chat is in the process of being rolled out gradually and is currently in limited availability. This page will be updated with general availability (GA) details as they become available.
+   >[!DNL Dynamic Chat] is in the process of being rolled out gradually and is currently in limited availability. This page will be updated with general availability (GA) details as they become available.
 
    >[!TIP]
    >
-   >Visit [this page](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) to view tutorial videos of Dynamic Chat.
+   >Visit [this page](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) to view tutorial videos of [!DNL Dynamic Chat].
 
 ## Integrations {#integrations}
 
-A key component of Dynamic Chat is its ability to natively interface with your Marketo subscription. In order to leverage the full capability of this integration, you'll first need to initiate the data sync. Depending on the size of your Marketo database, it may take up to 24 hours for data for the initial, [one-time sync](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) to complete.
+A key component of [!DNL Dynamic Chat] is its ability to natively interface with your Marketo subscription. In order to leverage the full capability of this integration, you'll first need to initiate the data sync. Depending on the size of your Marketo database, it may take up to 24 hours for data for the initial, [one-time sync](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) to complete.
 
 The following is synced:
 
@@ -35,7 +35,7 @@ In the Configuration tab, customize the look and feel of your various Dialogues.
 
 ## Calendar {#calendar}
 
-Connect your Outlook or Gmail calendar for use in appointment scheduling in the chatbot. [Learn more about Calendar](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
+Connect your [!DNL Outlook] or [!DNL Gmail] calendar for use in appointment scheduling in the chatbot. [Learn more about Calendar](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
 
 ## Meetings {#meetings}
 
@@ -47,21 +47,21 @@ This is where you can see a list of all the agents that have connected their cal
 
 ## FAQ {#faq}
 
-**Can I install Dynamic Chat anywhere on my company website or does it only work on Marketo landing pages?**
+**Can I install [!DNL Dynamic Chat] anywhere on my company website or does it only work on Marketo landing pages?**
 
-The Dynamic Chat JavaScript snippet can be installed on any website as well as Marketo landing pages.
+The [!DNL Dynamic Chat] JavaScript snippet can be installed on any website as well as Marketo landing pages.
 
 **How long is data stored for reporting?**
 
 90 days (see the full list of limits [below](#limits-in-dynamic-chat)).
 
-**Does Dynamic Chat allow for live chat?**
+**Does [!DNL Dynamic Chat] allow for live chat?**
 
 No, it only utilizes pre-determined responses.
 
-**Does Dynamic Chat support any languages besides English?**
+**Does [!DNL Dynamic Chat] support any languages besides English?**
 
-Yes. Dynamic Chat supports the following languages: French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese. Learn more in the [section below](#changing-the-language).
+Yes. [!DNL Dynamic Chat] supports the following languages: French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese. Learn more in the [section below](#changing-the-language).
 
 **Do you support AI/NLP functionality?**
 
@@ -73,13 +73,13 @@ In your dialogue, you would need to use the _Person Email is Empty_ attribute.
 
 ## Changing the Language {#changing-the-language}
 
-Follow these steps to change your Dynamic Chat language.
+Follow these steps to change your [!DNL Dynamic Chat] language.
 
 >[!IMPORTANT]
 >
->Changing your language at the profile level will change the language for _all_ Experience Cloud applications, not just Dynamic Chat.
+>Changing your language at the profile level will change the language for _all_ Experience Cloud applications, not just [!DNL Dynamic Chat].
 
-1. In your Experience Cloud account, click the settings icon and choose **Preferences**.
+1. In your Experience Cloud account, click the settings icon and choose **[!UICONTROL Preferences]**.
 
    ![](assets/dynamic-chat-overview-1.png)
 
@@ -87,17 +87,17 @@ Follow these steps to change your Dynamic Chat language.
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. Choose your new language (second language is optional) and click **Save**.
+1. Choose your new language (second language is optional) and click **[!UICONTROL Save]**.
 
    ![](assets/dynamic-chat-overview-3.png)
 
    >[!NOTE]
    >
-   >There are a few dozen languages to choose from, however, Dynamic Chat only supports the following: English, French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese.
+   >There are a few dozen languages to choose from, however, [!DNL Dynamic Chat] only supports the following: English, French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese.
 
 When you update the language, everything in the app itself changes except for the words you've personally populated (e.g., stream responses).
 
-## Limits in Dynamic Chat {#limits-in-dynamic-chat}
+## Limits in [!DNL Dynamic Chat] {#limits-in-dynamic-chat}
 
 <table>
   <th>Parameter</th>
@@ -160,7 +160,7 @@ When you update the language, everything in the app itself changes except for th
  </tr>
  <tr>
   <td>Meeting Booking Activity Retention Period</td>
-  <td>Amount of time meeting booking activity will be stored in Dynamic Chat</td>
+  <td>Amount of time meeting booking activity will be stored in [!DNL Dynamic Chat]</td>
   <td>24 months</td>
  </tr>
  <tr>
