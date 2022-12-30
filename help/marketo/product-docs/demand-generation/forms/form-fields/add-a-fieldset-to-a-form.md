@@ -8,19 +8,19 @@ exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 
 Fieldsets are cool. They group a bunch of fields together. You can control a whole block at once too!
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
-1. Click the **+** sign and select **Fieldset**.
+1. Click the **+** sign and select **[!UICONTROL Fieldset]**.
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
-1. Select the **fieldset** and enter a **Label**.
+1. Select the **fieldset** and enter a **[!UICONTROL Label]**.
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 
