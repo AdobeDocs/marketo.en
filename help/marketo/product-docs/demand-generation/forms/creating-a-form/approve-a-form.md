@@ -12,7 +12,7 @@ In order to add a form to one of your landing pages, it must be approved. Here's
 
 Here's how to approve an existing form that's ready to go.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -20,7 +20,7 @@ Here's how to approve an existing form that's ready to go.
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. Under **Form Actions**, click **Approve**.
+1. Under **[!UICONTROL Form Actions]**, click **[!UICONTROL Approve]**.
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -42,10 +42,10 @@ If you are making changes to a form, you can approve the page directly from the 
 >
 >[Edit a Form](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)
