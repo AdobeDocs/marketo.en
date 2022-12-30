@@ -8,13 +8,13 @@ exl-id: f010942b-02bb-447b-a272-c4237782b2d7
 
 To implement your [!UICONTROL RTP tag] please follow the installation instructions below:
 
-1. Open up the **[!UICONTROL header.php]** file of your **[!DNL WordPress] theme**.
+1. Open up the **header.php** file of your **[!DNL WordPress] theme**.
 
    You can either use an FTP client to access your server or edit your theme files directly from the [!DNL WordPress] dashboard. Your file editor is located under the **[!UICONTROL Appearance]** tab in the sidebar menu.
 
    ![](assets/image2014-11-30-15-3a35-3a30.png)
 
-1. In the list of template files to the right of the text editor, find **[!UICONTROL header.php]** and open it.
+1. In the list of template files to the right of the text editor, find **header.php** and open it.
 
 1. Go to **[!UICONTROL Account Settings]**.
 
@@ -32,7 +32,7 @@ To implement your [!UICONTROL RTP tag] please follow the installation instructio
 
    ![](assets/image2014-11-30-15-3a36-3a31.png)
 
-1. Click on **[!UICONTROL Update File]** for the [!UICONTROL header.php] file.
+1. Click on **[!UICONTROL Update File]** for the header.php file.
 
 1. Verify that it appears on all pages including landing pages and sub-domains.
 
