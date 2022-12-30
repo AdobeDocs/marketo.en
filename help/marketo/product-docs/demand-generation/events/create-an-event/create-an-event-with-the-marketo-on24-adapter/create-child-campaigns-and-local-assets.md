@@ -66,25 +66,25 @@ Examples of child campaigns are an invite campaign, a registration campaign, and
 
 >[!NOTE]
 >
->If you are using a Marketo form on a non-Marketo landing page, your trigger will be **Fills out Form** with the Form Name.
+>If you are using a Marketo form on a non-Marketo landing page, your trigger will be **[!UICONTROL Fills out Form]** with the [!UICONTROL Form Name].
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 
 **Flow**
 
-* **Change Program Status** - Set to Webinar -> Registered.
+* **[!UICONTROL Change Program Status]** - Set to Webinar -> Registered.
 
 This flow step is required as the FIRST FLOW STEP when setting up your child campaign. When a person’s program status changes to Registered, Marketo pushes the registration information to ON24. No other status will push the person over.
 
-* **Send Email** - Confirmation email. Set this email to **Operational** so that unsubscribed people that have registered still receive it.
+* **[!UICONTROL Send Email]** - Confirmation email. Set this email to **Operational** so that unsubscribed people that have registered still receive it.
 
-The **Send Email** flow step MUST be the second step. The confirmation email contains the `{{member.webinar url}}`, which is populated with information sent back to Marketo from ON24.
+The **[!UICONTROL Send Email]** flow step MUST be the second step. The confirmation email contains the `{{member.webinar url}}`, which is populated with information sent back to Marketo from ON24.
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->The order of these flow steps is important because of the order in which actions are performed in Marketo. The **Change Program Status** step sends the person to ON24 to register and a unique URL is generated. After this occurs, you can then send out the confirmation email that includes this unique URL using the `{{member.webinar URL}}` token.
+>The order of these flow steps is important because of the order in which actions are performed in Marketo. The **[!UICONTROL Change Program Status]** step sends the person to ON24 to register and a unique URL is generated. After this occurs, you can then send out the confirmation email that includes this unique URL using the `{{member.webinar URL}}` token.
 >
 >If the person is returned with a registration error, they will not receive the email confirmation.
 
