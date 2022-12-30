@@ -12,27 +12,27 @@ Marketo makes it easy for you to customize the look and feel of your forms. One 
 >
 >This setting impacts the form label, the input text, and the submit button text.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. Under **Form Settings**, Select **Settings**.
+1. Under **[!UICONTROL Form Settings]**, Select **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Select the **Font Size** you want.
+1. Select the **[!UICONTROL Font Size]** you want.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a10-3a50.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    >[!NOTE]
    >
