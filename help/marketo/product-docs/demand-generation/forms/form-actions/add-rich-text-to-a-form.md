@@ -8,11 +8,11 @@ exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 
 Use Rich Text in a Form to add instructions or other information in between fields. Check it out.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
@@ -20,7 +20,7 @@ Use Rich Text in a Form to add instructions or other information in between fiel
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. Select **Rich Text**.
+1. Select **[!UICONTROL Rich Text]**.
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 
@@ -32,15 +32,15 @@ Use Rich Text in a Form to add instructions or other information in between fiel
    >
    >If you need a line separator in your form, use the Horizontal Line button.
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-16-3a48-3a18.png)
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a48-3a36.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 
