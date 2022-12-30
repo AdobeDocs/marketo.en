@@ -32,7 +32,7 @@ Limit the amount of people who can register for your event with an event cap.
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. Click the [!UICONTROL Registration Page] drop-down and select the landing page that will act as your registration page.
+1. Click the [!UICONTROL Registration Page(s)] drop-down and select the landing page that will act as your registration page.
 
    ![](assets/setting-an-event-cap-4.png)
 
