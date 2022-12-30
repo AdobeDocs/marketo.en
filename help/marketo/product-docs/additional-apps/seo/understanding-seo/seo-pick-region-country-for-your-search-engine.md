@@ -12,15 +12,15 @@ SEO Admins will be able to pick the region for the search engine that you'd like
 >
 >**Admin Permissions Required**
 
-1. Go to the **Admin** section.
+1. Go to the **[!UICONTROL Admin]** section.
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. Click the **Search engines** tab.
+1. Click the **[!UICONTROL Search engines]** tab.
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. Pick which country/city you want to optimize for and click **Save**.
+1. Pick which country/city you want to optimize for and click **[!UICONTROL Save]**.
 
 >[!NOTE]
 >
