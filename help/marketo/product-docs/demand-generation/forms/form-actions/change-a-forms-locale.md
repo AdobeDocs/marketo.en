@@ -8,27 +8,27 @@ exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 
 When dealing with international forms, you will want to display dates/times in the correct formats. Marketo will do this automatically for you, all you have to do is set the form's locale and we take care of the rest.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. Under **Form Settings**, click **Settings**.
+1. Under **[!UICONTROL Form Settings]**, click **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
-1. Select the **Locale** of your choice.
+1. Select the **[!UICONTROL Form Locale]** of your choice.
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
-1. Click **Approve and Close** to apply and save changes.
+1. Click **[!UICONTROL Approve and Close]** to apply and save changes.
 
    >[!NOTE]
    >
