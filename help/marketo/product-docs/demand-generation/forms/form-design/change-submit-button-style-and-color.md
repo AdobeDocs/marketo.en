@@ -8,15 +8,15 @@ exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 
 If you find the standard submit button dull, or if you need something more fancy, feel free to choose from a wide range of ready-to-use button styles.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Select the **Submit** button and click **Edit** next to Button Style.
+1. Select the **[!UICONTROL Submit]** button and click **[!UICONTROL Edit]** next to Button Style.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
@@ -36,15 +36,15 @@ If you find the standard submit button dull, or if you need something more fancy
    >
    >You can also enter the color code manually.
 
-1. Click **Select**.
+1. Click **[!UICONTROL Select]**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 
