@@ -38,19 +38,19 @@ In this tutorial, you'll learn how to import people from a spreadsheet file into
 
 ## Step 2: Create a Program {#step-create-a-program}
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
    ![](assets/import-a-list-of-people-3.png)
 
-1. Select your **Learning** folder, then under **New** click **New Program**.
+1. Select your **Learning** folder, then under **[!UICONTROL New]** click **[!UICONTROL New Program]**.
 
    ![](assets/import-a-list-of-people-4.png)
 
-1. **Name** the program "My Tradeshow Program" and select "Event" for the **Program Type**.
+1. **Name** the program "My Tradeshow Program" and select "Event" for the **[!UICONTROL Program Type]**.
 
    ![](assets/import-a-list-of-people-5.png)
 
-1. Select **Tradeshow** for the **Channel** and click **Create**.
+1. Select **[!UICONTROL Tradeshow]** for the **[!UICONTROL Channel]** and click **[!UICONTROL Create]**.
 
    ![](assets/import-a-list-of-people-6.png)
 
@@ -60,19 +60,19 @@ In this tutorial, you'll learn how to import people from a spreadsheet file into
 
 ## Step 3: Import Your Spreadsheet into Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. In **My Tradeshow Program**, click **New** and select **New Local Asset**.
+1. In **My Tradeshow Program**, click **[!UICONTROL New]** and select **[!UICONTROL New Local Asset]**.
 
    ![](assets/import-a-list-of-people-7.png)
 
-1. Select **List**.
+1. Select **[!UICONTROL List]**.
 
    ![](assets/import-a-list-of-people-8.png)
 
-1. **Name** the list "Tradeshow Attendees" and click **Create**.
+1. **Name** the list "Tradeshow Attendees" and click **[!UICONTROL Create]**.
 
    ![](assets/import-a-list-of-people-9.png)
 
-1. In your **Tradeshow Attendees** list, click **List Actions** and select **Import List**.
+1. In your **[!UICONTROL Tradeshow Attendees]** list, click **[!UICONTROL List Actions]** and select **[!UICONTROL Import List]**.
 
    ![](assets/import-a-list-of-people-10.png)
 
@@ -84,19 +84,19 @@ In this tutorial, you'll learn how to import people from a spreadsheet file into
    >
    >The size limit for CSV files is 100MB.
 
-1. **Browse** to the **tradeshow-attendees.csv** spreadsheet file on your computer and click **Next**.
+1. **[!UICONTROL Browse]** to the **tradeshow-attendees.csv** spreadsheet file on your computer and click **[!UICONTROL Next]**.
 
    ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
-   >In List Import Mode, choosing **Skip new people and updates** means you will not impact existing person records or log any activities. Use this mode if you want a quick, pre-filtered static list of existing people for use in your marketing activities. Selecting this mode will:
+   >In List Import Mode, choosing **[!UICONTROL Skip new people and updates]** means you will not impact existing person records or log any activities. Use this mode if you want a quick, pre-filtered static list of existing people for use in your marketing activities. Selecting this mode will:
    >
    > * Skip new person creation
    > * Skip person field updates
    > * Skip activity logging
 
-1. Map your List Column fields to their respective Marketo Field and click **Next**.
+1. Map your [!UICONTROL List Column] fields to their respective Marketo Field and click **[!UICONTROL Next]**.
 
    ![](assets/import-a-list-of-people-12.png)
 
@@ -108,7 +108,7 @@ In this tutorial, you'll learn how to import people from a spreadsheet file into
    >
    >If there are any fields you don't want to import, select **Ignore** in the Marketo Field drop-down menu.
 
-1. Select **My Tradeshow Program** for the **Acquisition Program**, then click **Import**.
+1. Select **My Tradeshow Program** for the **[!UICONTROL Acquisition Program]**, then click **[!UICONTROL Import]**.
 
    ![](assets/import-a-list-of-people-13.png)
 
@@ -116,7 +116,7 @@ In this tutorial, you'll learn how to import people from a spreadsheet file into
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. Back in **My Tradeshow Program**, click the **Members** tab. You'll see all the people you just imported.
+1. Back in **My Tradeshow Program**, click the **[!UICONTROL Members]** tab. You'll see all the people you just imported.
 
    ![](assets/import-a-list-of-people-15.png)
 
