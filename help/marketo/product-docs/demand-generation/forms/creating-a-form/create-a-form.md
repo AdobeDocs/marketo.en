@@ -12,7 +12,7 @@ Create and use a form on a landing page to generate new names. It's really easy 
 >
 >Learn what Marketo is doing to [keep your forms safe](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -20,15 +20,15 @@ Create and use a form on a landing page to generate new names. It's really easy 
 
    ![](assets/programseelct.png)
 
-1. Under **New**, click **New** **Local** **Asset**.
+1. Under **[!UICONTROL New]**, click **[!UICONTROL New Local Asset]**.
 
    ![](assets/newlocalasset.png)
 
-1. Select **Form**.
+1. Select **[!UICONTROL Form]**.
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. Enter a form **Name** and click **Create**.
+1. Enter a form **[!UICONTROL Name]** and click **[!UICONTROL Create]**.
 
    ![](assets/newformwithhands.png)
 
