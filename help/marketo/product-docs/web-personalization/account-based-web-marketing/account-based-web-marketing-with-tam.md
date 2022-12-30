@@ -29,4 +29,4 @@ If you're already using ABWM:
    * **Note**: The sync can take up to 5 minutes
 
 * In [!UICONTROL Web Personalization], you can create segments targeting accounts from [!UICONTROL Account Lists] created in _both_ ABWM and TAM and personalize content for these accounts
-* You can upload CSV files on the [!UICONTROL Web Personalization Account List] page
+* You can upload CSV files on the [!UICONTROL Web Personalization] Account List page
