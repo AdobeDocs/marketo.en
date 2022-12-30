@@ -4,7 +4,7 @@ description: Step 1 of 3 -Add Marketo Fields to Salesforce (Enterprise/Unlimited
 title: Step 1 of 3 -Add Marketo Fields to Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 ---
-# Step 1 of 3: Add Marketo Fields to Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
+# Step 1 of 3: Add Marketo Fields to [!DNL Salesforce] (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
 >
@@ -18,7 +18,7 @@ Marketo uses a set of fields to capture certain kinds of marketing related infor
 
 All of these custom fields are optional and are not required to sync Marketo and [!DNL Salesforce]. As a best practice, we recommend that you do create fields for Score, Acquisition Program, and Acquisition Date.
 
-## Add Marketo Fields to Salesforce {#add-marketo-fields-to-salesforce}
+## Add Marketo Fields to [!DNL Salesforce] {#add-marketo-fields-to-salesforce}
 
 Add three custom fields on the lead and contact objects in [!DNL Salesforce] listed above. If you want to add more, see the table of available fields at the end of this section.
 
