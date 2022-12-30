@@ -10,25 +10,25 @@ What happens when someone fills out a form? Where are they forwarded to? Here's 
 
 ## Edit Form {#edit-form}
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. Under **Form Settings** click **Settings**.
+1. Under **[!UICONTROL Form Settings]** click **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Scroll down to the **Thank You Page** section.
+1. Scroll down to the **[!UICONTROL Thank You Page]** section.
 
 ## Stay On Page {#stay-on-page}
 
 The Stay On Page option will keep the visitor on the same page when the form has been submitted.
 
-1. Select **Stay On Page** for **Follow Up With**.
+1. Select **[!UICONTROL Stay On Page]** for **[!UICONTROL Follow Up With]**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -36,7 +36,7 @@ The Stay On Page option will keep the visitor on the same page when the form has
 
 The External URL setting allows you to define any URL as the follow-up page. Once the user has submitted the form they will be directed to the URL specified.
 
-1. Select **External URL** for **Follow Up With**.
+1. Select **[!UICONTROL External URL]** for **[!UICONTROL Follow Up With]**.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -46,13 +46,13 @@ The External URL setting allows you to define any URL as the follow-up page. Onc
 
 >[!TIP]
 >
->The URL can be that of a file hosted somewhere - if you do this, the "Submit" button will behave like a "Download" button.
+>The URL can be that of a file hosted somewhere - if you do this, the "[!UICONTROL Submit]" button will behave like a "[!UICONTROL Download]" button.
 
 ## Landing Page {#landing-page}
 
 You can select any approved Marketo landing page as the follow-up.
 
-1. Set **Follow Up With** to **Landing Page**.
+1. Set **[!UICONTROL Follow Up With]** to **[!UICONTROL Landing Page]**.
 
    ![](assets/image2014-9-15-17-3a37-3a52.png)
 
@@ -64,7 +64,7 @@ You can select any approved Marketo landing page as the follow-up.
 
 You can add multiple options and build in choices to show people different follow-ups depending on their responses.
 
-1. Click **Add Choice**.
+1. Click **[!UICONTROL Add Choice]**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -84,7 +84,7 @@ You can add multiple options and build in choices to show people different follo
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Choose the appropriate page for **Follow Up With** type.
+1. Choose the appropriate page for **[!UICONTROL Follow Up With]** type.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -104,7 +104,7 @@ You can add multiple options and build in choices to show people different follo
    >
    >You can add several choices. If you add too many, however, it can affect the form's loading speed, so only add what you need.
 
-1. Go through and set up **Choice 2**.
+1. Go through and set up **[!UICONTROL Choice 2]**.
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
@@ -116,7 +116,7 @@ You can add multiple options and build in choices to show people different follo
 
    ![](assets/image2014-9-15-17-3a40-3a10.png)
 
-1. Select the page itself and click **Save**.
+1. Select the page itself and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-17-3a40-3a26.png)
 
@@ -124,11 +124,11 @@ You can add multiple options and build in choices to show people different follo
 
    ![](assets/image2014-9-15-17-3a40-3a34.png)
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-17-3a40-3a42.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
