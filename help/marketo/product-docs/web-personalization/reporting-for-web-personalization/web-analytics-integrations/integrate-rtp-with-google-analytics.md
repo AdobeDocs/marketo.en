@@ -59,17 +59,17 @@ Measure your RTP campaigns and correlate them with your overall site average. Le
 
 1. Add the email rtp.ga2@gmail.com as a Read & Analyze user to your GA account. For more details, see [here](https://support.google.com/analytics/answer/2884495?hl=en).
 
-1. In your RTP account. Go to **Account Settings**.
+1. In your RTP account. Go to **[!UICONTROL Account Settings]**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. Under **Account Settings**, **Domain** and **Analytics**.
+1. Under **[!UICONTROL Account Settings]**, **[!UICONTROL Domain]** and **[!UICONTROL Analytics]**.
 
 1. Click on **Google Analytics**.
 
-1. Turn on the relevant **Custom Variables** and **Events** to append this data from RTP to Google Analytics.
+1. Turn on the relevant **[!UICONTROL Custom Variable]** and **[!UICONTROL Event]** to append this data from RTP to Google Analytics.
 
-1. Enter the **Slot** number to send custom variable data (default is 1,2).
+1. Enter the **[!UICONTROL Slot]** number to send custom variable data (default is 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
