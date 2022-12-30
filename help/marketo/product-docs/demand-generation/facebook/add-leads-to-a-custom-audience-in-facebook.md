@@ -4,36 +4,36 @@ description: Add Leads to a Custom Audience in Facebook - Marketo Docs - Product
 title: Add Leads to a Custom Audience in Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 ---
-# Add Leads to a Custom Audience in Facebook {#add-leads-to-a-custom-audience-in-facebook}
+# Add Leads to a Custom Audience in [!DNL Facebook] {#add-leads-to-a-custom-audience-in-facebook}
 
-Already have a custom audience in Facebook and want to add more leads to it? Here's how.
+Already have a custom audience in [!DNL Facebook] and want to add more leads to it? Here's how.
 
 >[!PREREQUISITES]
 >
->* [Create a Custom Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
->* [Accept Facebook's custom audiences terms](https://www.facebook.com/ads/manage/customaudiences/tos.php) within your Facebook account.
+>* [Create a Custom Audience in [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [Accept [!DNL Facebook]'s custom audiences terms](https://www.facebook.com/ads/manage/customaudiences/tos.php) within your [!DNL Facebook] account.
 >
 
 1. Find and select the smart or static list that contains the leads you want to add.
 
    ![](assets/one.png)
 
-1. Select the **Leads** tab, then click on the **Send Via Ad Bridge** icon at the bottom.
+1. Select the **[!UICONTROL Leads]** tab, then click on the **Send Via Ad Bridge** icon at the bottom.
 
    ![](assets/two-1.png)
 
-1. Select **Facebook** and click **Next**.
+1. Select **[!UICONTROL Facebook]** and click **[!UICONTROL Next]**.
 
    ![](assets/three.png)
 
-1. Click the **Audience** drop-down, select the audience you want to add the leads to, and click **Update**.
+1. Click the **[!UICONTROL Audience]** drop-down, select the audience you want to add the leads to, and click **[!UICONTROL Update]**.
 
    ![](assets/4.png)
 
    >[!NOTE]
    >
-   >**Add leads to audience**: only Facebook audiences with a custom sub-type will be available.  
-   >**Remove leads from audience**: removes the leads in your static or smart list from a Facebook audience.
+   >**[!UICONTROL Add leads to audience]**: only [!DNL Facebook] audiences with a custom sub-type will be available.  
+   >**[!UICONTROL Remove leads from audience]**: removes the leads in your static or smart list from a [!DNL Facebook] audience.
 
 1. When done, the status will update.
 
@@ -43,4 +43,4 @@ Already have a custom audience in Facebook and want to add more leads to it? Her
 
    >[!NOTE]
    >
-   >[Create a Custom Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+   >[Create a Custom Audience in [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
