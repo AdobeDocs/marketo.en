@@ -9,19 +9,19 @@ Dialogues are individual chat conversations. In each Dialogue, you decide where 
 
 ## Audience Criteria {#audience-criteria}
 
-The [Audience Criteria](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"} section of a Dialogue is where you'll define where and to whom your chat conversation will be shown
+The [[!UICONTROL Audience Criteria]](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"} section of a Dialogue is where you'll define where and to whom your chat conversation will be shown
 
    ![](assets/dialogue-overview-1.png)
    
 ## Stream Designer {#stream-designer}
 
-The [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"} section of a Dialogue is where you'll design the conversation that you want to have with your website visitors.
+The [[!UICONTROL Stream Designer]](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"} section of a Dialogue is where you'll design the conversation that you want to have with your website visitors.
 
    ![](assets/dialogue-overview-2.png)
 
 ## Reports {#reports}
 
-The [Reports](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"} section of a Dialogue is where you'll be able to see metrics around how well your Dialogue is performing.
+The [[!UICONTROL Reports]](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"} section of a Dialogue is where you'll be able to see metrics around how well your Dialogue is performing.
 
    ![](assets/dialogue-overview-3.png)
 
@@ -29,10 +29,10 @@ The [Reports](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogue
 
 You have the ability to disable (and re-enable) all published Dialogues at the same time.
 
-1. In Dynamic Chat, click the **Configuration** tab.
+1. In [!DNL Dynamic Chat], click the **[!UICONTROL Configuration]** tab.
 
    ![](assets/dialogue-overview-4.png)
 
-1. Toggle the **Chat Enabled** switch to off to disable (and back on to re-enable) all Dialogues.
+1. Toggle the **[!UICONTROL Chat Enabled]** switch to off to disable (and back on to re-enable) all Dialogues.
 
    ![](assets/dialogue-overview-5.png)
