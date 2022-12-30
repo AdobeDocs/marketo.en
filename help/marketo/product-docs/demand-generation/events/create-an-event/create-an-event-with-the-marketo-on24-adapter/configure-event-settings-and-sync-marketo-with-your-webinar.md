@@ -10,19 +10,19 @@ Follow these steps to configure the Marketo event settings and connect Marketo a
 
 ## Set the Event {#set-the-event}
 
-1. Choose the event you wish to associate to an ON24 webinar, then click the **Event Actions** drop-down and select **Event Settings**.
+1. Choose the event you wish to associate to an ON24 webinar, then click the **[!UICONTROL Event Actions]** drop-down and select **[!UICONTROL Event Settings]**.
 
    ![](assets/one.png)
 
-1. Select ON24 as the Event Partner.
+1. Select ON24 as the [!UICONTROL Event Partner].
 
    ![](assets/two.png)
 
-1. Select the Login account (for example, the display name).
+1. Select the [!UICONTROL Login] account (for example, the display name).
 
    ![](assets/three.png)
 
-1. Enter the Event Id (get this from ON24). Click **Save**.
+1. Enter the [!UICONTROL Event Id] (get this from ON24). Click **[!UICONTROL Save]**.
 
    ![](assets/four.png)
 
@@ -32,19 +32,19 @@ Follow these steps to configure the Marketo event settings and connect Marketo a
 
 ## Set the Schedule {#set-the-schedule}
 
-When you set up an event that is associated with an ON24 Webinar, the event schedule populates with data from ON24. To access the Event Schedule dialog box, follow these steps.
+When you set up an event that is associated with an ON24 Webinar, the event schedule populates with data from ON24. To access the [!UICONTROL Event Schedule] dialog box, follow these steps.
 
-1. Select the event. Click the **Event Actions** drop-down and select **Schedule.**
+1. Select the event. Click the **[!UICONTROL Event Actions]** drop-down and select **[!UICONTROL Schedule].**
 
    ![](assets/five.png)
 
-1. Choose your **Start Date, End Date**, and **Time Zone**. Click **Save**.
+1. Choose your **[!UICONTROL Start Date]**, **[!UICONTROL End Date]**, and **[!UICONTROL Time Zone]**. Click **[!UICONTROL Save]**.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >If you update any event information in ON24, you must click **Refresh from Webinar Provider** in the Event Actions menu to see the new data populate.
+   >If you update any event information in ON24, you must click **[!UICONTROL Refresh from Webinar Provider]** in the [!UICONTROL Event Actions] menu to see the new data populate.
 
 Now you can move on to the next step: [creating child campaigns and local assets](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}.
 
