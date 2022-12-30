@@ -8,23 +8,23 @@ exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 
 If there's a field you no longer need on your form, it can easily be deleted. Here's how.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Select the form and click **Edit Form**.
+1. Select the form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. Select your field and click the **delete** icon.
+1. Select your field and click the **[!UICONTROL Delete]** icon.
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-15-3a44-3a16.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-15-3a44-3a28.png)
 
