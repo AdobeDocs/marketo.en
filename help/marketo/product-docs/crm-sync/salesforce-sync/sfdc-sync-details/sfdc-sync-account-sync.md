@@ -6,7 +6,7 @@ exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 ---
 # SFDC Sync: Account Sync {#sfdc-sync-account-sync}
 
-Marketo also syncs your account information with Salesforce. Here's a few specific things you should know!
+Marketo also syncs your account information with [!DNL Salesforce]. Here's a few specific things you should know!
 
 ## Which way does the information sync? {#which-way-does-the-information-sync}
 
@@ -28,6 +28,6 @@ Mostly, no. However, if you use the [Convert Person](/help/marketo/product-docs/
 >
 >This flow step has a very limited use case. If you aren't sure, you probably shouldn't use it.
 
-## Does a change in an Account Field in Salesforce result in a Change Data Value Activity Log for each contact?  {#does-a-change-in-an-account-field-in-salesforce-result-in-a-change-data-value-activity-log-for-each-contact}
+## Does a change in an Account Field in [!DNL Salesforce] result in a Change Data Value Activity Log for each contact?  {#does-a-change-in-an-account-field-in-salesforce-result-in-a-change-data-value-activity-log-for-each-contact}
 
 Mostly, yes. However, if an account has more than 5,000 contacts and a field on that account changes in SFDC, we sync down the change but do not log the activity for the 5,000+ contacts.
