@@ -8,8 +8,8 @@ exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 
 Sometimes it's best to just list the rules. Here we go:
 
-* When you merge two leads in **Salesforce**, the normal sync tells Marketo and the leads are merged automatically as people in Marketo.
-* Merging two people in **Marketo** actually invokes the same process as merging them as leads in Salesforce. It still works automatically.
+* When you merge two leads in **[!DNL Salesforce]**, the normal sync tells Marketo and the leads are merged automatically as people in Marketo.
+* Merging two people in **Marketo** actually invokes the same process as merging them as leads in [!DNL Salesforce]. It still works automatically.
 * Merging a **lead (person) into a contact** works the same way. You end up with a single contact on both sides.
 * When merging, the default score is summed.
 
