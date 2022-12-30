@@ -12,4 +12,4 @@ Here are some of the details:
 * [Delete Person](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md) flow action. This deletes a person in MKTO but you have a choice to delete in `Salesforce` too.
 
 * [Delete From SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md) flow action: This deletes a lead in SFDC but you have a choice to delete a person in Marketo as well.
-* If a lead is deleted in [!DNL Salesforce] (but a person is not deleted in Marketo) and then subsequently runs through the [[!DNL Sync with Salesforce]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) flow action, then it would create a new lead in [!DNL Salesforce].
+* If a lead is deleted in [!DNL Salesforce] (but a person is not deleted in Marketo) and then subsequently runs through the [ Sync with [!DNL Salesforce]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) flow action, then it would create a new lead in [!DNL Salesforce].
