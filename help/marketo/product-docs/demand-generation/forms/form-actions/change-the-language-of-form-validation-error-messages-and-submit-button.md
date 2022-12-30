@@ -12,27 +12,27 @@ Did you know you can customize the form to give messages in another language? Ch
 >
 >This also changes the submit button language.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-12-3a47-3a46.png)
 
-1. Under **Form Settings**, click **Settings**.
+1. Under **[!UICONTROL Form Settings]**, click **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-12-3a48-3a5.png)
 
-1. Select the **Error Language** you need.
+1. Select the **[!UICONTROL Error Language]** you need.
 
    ![](assets/image2014-9-15-12-3a48-3a26.png)
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-12-3a48-3a43.png)
 
-1. Click **Approve and Close** to apply and save changes.
+1. Click **[!UICONTROL Approve and Close]** to apply and save changes.
 
    >[!NOTE]
    >
