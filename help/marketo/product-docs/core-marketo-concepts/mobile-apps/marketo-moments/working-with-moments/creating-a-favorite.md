@@ -12,7 +12,7 @@ Favorite a card for easy future reference.
 
    ![](assets/image2015-7-14-16-3a28-3a54.png)
 
-1. Tap **Favorite**.
+1. Tap **[!UICONTROL Favorite]**.
 
    ![](assets/image2015-7-14-16-3a36-3a22.png)
 
