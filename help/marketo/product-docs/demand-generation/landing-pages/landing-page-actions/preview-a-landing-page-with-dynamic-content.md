@@ -13,7 +13,7 @@ Preview your landing page after adding dynamic content to make sure everything l
 >* [Use Dynamic Content in a Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
 >* [Preview a Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
-1. Select a landing page and click **Preview Page**.
+1. Select a landing page and click **[!UICONTROL Preview Page]**.
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
