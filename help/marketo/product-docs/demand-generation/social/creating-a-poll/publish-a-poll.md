@@ -12,11 +12,11 @@ After you [create a poll](/help/marketo/product-docs/demand-generation/social/cr
 
    ![](assets/image2014-9-19-10-3a45-3a23.png)
 
-1. Drag over **Poll** from the palette on the right.
+1. Drag over **[!UICONTROL Poll]** from the palette on the right.
 
    ![](assets/image2014-9-19-10-3a45-3a50.png)
 
-1. Select your poll and click **Insert**.
+1. Select your poll and click **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-19-10-3a45-3a58.png)
 
