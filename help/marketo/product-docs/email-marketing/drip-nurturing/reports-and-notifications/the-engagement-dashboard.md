@@ -14,7 +14,7 @@ The Engagement Dashboard is the easiest way to see how the content in your engag
 
 ## View the Engagement Dashboard {#view-the-engagement-dashboard}
 
-Select your engagement program and click **View** > **Dashboard**.
+Select your engagement program and click **View** > **[!UICONTROL Dashboard]**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
@@ -30,7 +30,7 @@ This widget helps you anticipate when leads will have exhausted all content. The
 
 >[!NOTE]
 >
->You must go into the Setup tab and make sure Exhausted Content Notifications are **On** to see the graph above. If they are off, the graph will look different.
+>You must go into the [!UICONTROL Setup] tab and make sure [!UICONTROL Exhausted Content Notifications] are **[!UICONTROL On]** to see the graph above. If they are off, the graph will look different.
 
 >[!CAUTION]
 >
