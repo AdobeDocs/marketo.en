@@ -16,9 +16,9 @@ exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 
 ## Create a Guided Landing Page in a Program {#create-a-guided-landing-page-in-a-program}
 
-Guided landing pages can be created as local assets of a program or in the Design Studio to be used globally.
+Guided landing pages can be created as local assets of a program or in the [!UICONTROL Design Studio] to be used globally.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one-1.png)
 
@@ -26,15 +26,15 @@ Guided landing pages can be created as local assets of a program or in the Desig
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. Click the **New** drop-down. Select **New Local Asset**.
+1. Click the **[!UICONTROL New]** drop-down. Select **[!UICONTROL New Local Asset]**.
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
-1. Select **Landing Page**.
+1. Select **[!UICONTROL Landing Page]**.
 
    ![](assets/four.png)
 
-1. Name your landing page. Click the **Template** drop-down and select **Guided Template**.
+1. Name your landing page. Click the **[!UICONTROL Template]** drop-down and select **[!UICONTROL Guided Template]**.
 
    >[!NOTE]
    >
@@ -44,24 +44,24 @@ Guided landing pages can be created as local assets of a program or in the Desig
 
 ## Create a Landing Page in Design Studio {#create-a-landing-page-in-design-studio}
 
-1. Go to **Design Studio**.
+1. Go to **[!UICONTROL Design Studio]**.
 
    ![](assets/six.png)
 
-1. Click the **New** drop-down. Select **New Landing Page**.
+1. Click the **[!UICONTROL New]** drop-down. Select **[!UICONTROL New Landing Page]**.
 
    ![](assets/seven.png)
 
-1. Name your landing page. Click the **Template** drop-down and select **Guided Template**.
+1. Name your landing page. Click the **[!UICONTROL Template]** drop-down and select **[!UICONTROL Guided Template]**.
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 
-1. Click **Create**.
+1. Click **[!UICONTROL Create]**.
 
    ![](assets/image2015-5-26-9-3a28-3a8.png)
 
 >[!TIP]
 >
->The URL is constructed automatically from the program and landing page names. To change the URL, edit the **Page URL** field.
+>The URL is constructed automatically from the program and landing page names. To change the URL, edit the **[!UICONTROL Page URL]** field.
 >
->Clear the **Open in editor** checkbox if you don't want the editor to open immediately after clicking **Create**.
+>Clear the **[!UICONTROL Open in editor]** checkbox if you don't want the editor to open immediately after clicking **[!UICONTROL Create]**.
