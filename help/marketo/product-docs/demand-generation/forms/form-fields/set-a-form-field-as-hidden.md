@@ -8,15 +8,15 @@ exl-id: 6f293477-69ec-4f56-9800-cc1baaf80f94
 
 Hidden form fields can silently capture data without the visitor's input. Here's how it works.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. Select the field and set the **Field Type** to **Hidden.**
+1. Select the field and set the **[!UICONTROL Field Type]** to **[!UICONTROL Hidden].**
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 
