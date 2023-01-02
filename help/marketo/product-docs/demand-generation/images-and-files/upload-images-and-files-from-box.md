@@ -8,31 +8,31 @@ exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 
 You can upload files from Box to use on landing pages and emails.
 
-1. Go to **Design Studio**.
+1. Go to **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-3.png)
 
-1. Go to **Images and Files**. Click **File Actions** and select **Grab Images from Web**.
+1. Go to **[!UICONTROL Images and Files]**. Click **[!UICONTROL File Actions]** and select **[!UICONTROL Grab Images from Web]**.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
-1. Click **Box**.
+1. Click **[!UICONTROL Box]**.
 
    ![](assets/image2014-9-16-12-3a50-3a56.png)
 
-1. Enter your Box login.
+1. Enter your [!DNL Box] login.
 
    ![](assets/image2014-9-16-12-3a51-3a10.png)
 
-1. Allow Marketo to access your Box account.
+1. Allow Marketo to access your [!DNL Box] account.
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. Choose where you want to save the files. Then select the **Box** folder you want to upload from. Click **Next**.
+1. Choose where you want to save the files. Then select the **[!DNL Box]** folder you want to upload from. Click **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 
-1. Select the files you want to upload. Click **Import**.
+1. Select the files you want to upload. Click **[!UICONTROL Import]**.
 
    ![](assets/image2014-9-16-12-3a52-3a15.png)
 
