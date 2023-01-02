@@ -22,17 +22,17 @@ Notifications keep you up-to-date on system events happening in your Marketo sub
 
 You can subscribe to notifications to receive them in your email.
 
-1. Go to Notifications and click **Subscribe**.
+1. Go to [!UICONTROL Notifications] and click **[!UICONTROL Subscribe]**.
 
    ![](assets/understanding-notifications-3.png)
 
-1. Select the Notification Type and enter the email address(es) you want notifications sent to (separated by a comma). Click **Subscribe** when done.
+1. Select the [!UICONTROL Notification Type] and enter the email address(es) you want notifications sent to (separated by a comma). Click **[!UICONTROL Subscribe]** when done.
 
    ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->The **send to** area is only for you to enter your email, it will not show a list of existing subscribers.
+>The **[!UICONTROL Send To]** area is only for you to enter your email, it will not show a list of existing subscribers.
 
 In some cases, a notification provides a "See the full list" link to download a comma-separated-value (CSV) file, for example, the Microsoft Dynamics Sync Errors file. Marketo retains these CSV files for 30 days. If you attempt to download the file after 30 days, you'll get a 404 error.
 
