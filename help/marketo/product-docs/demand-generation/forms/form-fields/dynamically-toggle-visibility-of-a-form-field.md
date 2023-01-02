@@ -18,15 +18,15 @@ One really cool feature of Marketo forms is that you can dynamically hide/show f
 >
 >In this example, let's hide the **State** field unless **Country** is selected as "United States."
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Select your form and click **Edit Form**.
+1. Select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/editform-1.png)
 
-1. Select the field you want to hide/show dynamically and click the link for **Visibility Rules**.
+1. Select the field you want to hide/show dynamically and click the link for **[!UICONTROL Visibility Rules]**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -38,7 +38,7 @@ One really cool feature of Marketo forms is that you can dynamically hide/show f
 
    >[!TIP]
    >
-   >This is cool because you can choose fuzzy matches like "starts with."
+   >This is cool because you can choose fuzzy matches like "[!UICONTROL starts with]."
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 
@@ -54,7 +54,7 @@ One really cool feature of Marketo forms is that you can dynamically hide/show f
    >
    >We previously converted Country to a pick-list field type and [added all countries as values](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
