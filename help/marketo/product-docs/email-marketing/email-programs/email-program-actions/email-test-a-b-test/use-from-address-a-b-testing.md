@@ -4,27 +4,27 @@ description: Use "From Address" A/B Testing - Marketo Docs - Product Documentati
 title: Use "From Address" A/B Testing
 exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
 ---
-# Use "From Address" A/B Testing {#use-from-address-a-b-testing}
+# Use "[!UICONTROL From Address]" A/B Testing {#use-from-address-a-b-testing}
 
-You can easily A/B test your emails. One interesting test is the **From Address** test. Here's how to set it up.
+You can easily A/B test your emails. One interesting test is the **[!UICONTROL From Address]** test. Here's how to set it up.
 
 >[!PREREQUISITES]
 >
 >[Add an A/B Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. Under the **Email** tile, with your email selected, click on **Add A/B Test**.
+1. Under the **[!UICONTROL Email]** tile, with your email selected, click on **[!UICONTROL Add A/B Test]**.
 
    ![](assets/image2014-9-12-15-3a32-3a8.png)
 
-1. A new window opens, select **From Address** for **Test Type**.
+1. A new window opens, select **[!UICONTROL From Address]** for **[!UICONTROL Test Type]**.
 
    ![](assets/image2014-9-12-15-3a32-3a22.png)
 
-1. If you have previous test information (like a subject test), you can safely click **Reset Test**.
+1. If you have previous test information (like a subject test), you can safely click **[!UICONTROL Reset Test]**.
 
    ![](assets/image2014-9-12-15-3a32-3a28.png)
 
-1. Enter the second **From Address** information you want to test.
+1. Enter the second **[!UICONTROL From Address]** information you want to test.
 
    >[!NOTE]
    >
@@ -36,7 +36,7 @@ You can easily A/B test your emails. One interesting test is the **From Address*
    >
    >You can click on the **+** to add as many From Addresses as you'd like.
 
-1. Use the slider to choose what percentage of the audience you want in your A/B test and click **Next**.
+1. Use the slider to choose what percentage of the audience you want in your A/B test and click **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-12-15-3a33-3a41.png)
 
