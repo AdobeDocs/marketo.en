@@ -8,15 +8,15 @@ exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 
 It's easy to add multiple images and files all at once.
 
-1. Go to the **Design Studio**.
+1. Go to the **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Under **New**, click **Upload Image** or **File**.
+1. Under **[!UICONTROL New]**, click **[!UICONTROL Upload Image or File]**.
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
-1. Select the folder where you want to store the images or files, then click **Browse**.
+1. Select the folder where you want to store the images or files, then click **[!UICONTROL Browse]**.
 
    ![](assets/image2014-9-15-18-3a6-3a21.png)
 
@@ -24,11 +24,11 @@ It's easy to add multiple images and files all at once.
    >
    >The maximum size per file is 100MB.
 
-1. To add multiple images and files, browse to the correct folder on your computer, press **Ctrl/Cmd** and click on each file you want to add, then click **Open**.
+1. To add multiple images and files, browse to the correct folder on your computer, press **Ctrl/Cmd** and click on each file you want to add, then click **[!UICONTROL Open]**.
 
    ![](assets/image2014-9-15-18-3a6-3a58.png)
 
-1. Expand the **File Details** to verify you selected the correct images, then click **Upload**.
+1. Expand the **[!UICONTROL File Details]** to verify you selected the correct images, then click **[!UICONTROL Upload]**.
 
    ![](assets/image2014-9-15-18-3a7-3a22.png)
 
@@ -40,7 +40,7 @@ It's easy to add multiple images and files all at once.
    >
    >Marketo will scan all files before uploading; infected files will be skipped.
 
-1. When the upload completes, click **Finish**.
+1. When the upload completes, click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-18-3a8-3a34.png)
 
