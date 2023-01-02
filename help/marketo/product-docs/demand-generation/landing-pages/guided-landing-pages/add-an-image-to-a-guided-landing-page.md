@@ -8,7 +8,7 @@ exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 
 Unlike the free-form landing pages, guided landing pages have predefined, locked spaces where you add images.
 
-1. Select a guided landing page. Click **Edit Draft**.
+1. Select a guided landing page. Click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
@@ -16,7 +16,7 @@ Unlike the free-form landing pages, guided landing pages have predefined, locked
 
    ![](assets/image2015-5-19-14-3a4-3a29.png)
 
-1. Select the image you want and click **Insert**.
+1. Select the image you want and click **[!UICONTROL Insert]**.
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 
