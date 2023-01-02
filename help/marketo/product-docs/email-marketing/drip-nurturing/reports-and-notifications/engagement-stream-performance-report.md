@@ -10,11 +10,11 @@ Want to know how your engagement content is performing? Try the engagement strea
 
 ## Create the Report {#create-the-report}
 
-1. Find and select your engagement program, then under **New** click **New Local Asset**.
+1. Find and select your engagement program, then under **[!UICONTROL New]** click **[!UICONTROL New Local Asset]**.
 
    ![](assets/localassetnutring.jpg)
 
-1. Select **Report**.
+1. Select **[!UICONTROL Report]**.
 
    ![](assets/image2014-9-15-18-3a23-3a59.png)
 
@@ -22,10 +22,10 @@ Want to know how your engagement content is performing? Try the engagement strea
    >
    >Creating the report under the program will automatically restrict it to the content of the program.
 
-   Select Engagement Stream Performance as the report Type.
+   Select **[!UICONTROL Engagement Stream Performance]** as the report **[!UICONTROL Type]**.
    ![](assets/engagementreportchoose.png)
 
-1. Name your report and click **Create**.
+1. Name your report and click **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
@@ -37,17 +37,17 @@ Want to know how your engagement content is performing? Try the engagement strea
 
    ![](assets/engagementperformancereport.jpg)
 
-1. Under the **Setup** tab, double-click the **Engagement Program Email** filter.
+1. Under the **[!UICONTROL Setup]** tab, double-click the **[!UICONTROL Engagement Program Emails]** filter.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
-1. Select the email(s) you want to report on and click **Apply**.
+1. Select the email(s) you want to report on and click **[!UICONTROL Apply]**.
 
    ![](assets/engagementfilter.jpg)
 
 ## Run Report {#run-report}
 
-1. To run the report simply click on the **Report** tab.
+1. To run the report simply click on the **[!UICONTROL Report]** tab.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
