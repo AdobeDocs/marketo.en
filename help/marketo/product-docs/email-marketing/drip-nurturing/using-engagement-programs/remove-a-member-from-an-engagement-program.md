@@ -6,7 +6,7 @@ exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 ---
 # Remove a Member from an Engagement Program {#remove-a-member-from-an-engagement-program}
 
-Oops! How did those people get in there? You can remove members from an engagement program with the **Change Program Status** flow step.
+Oops! How did those people get in there? You can remove members from an engagement program with the **[!UICONTROL Change Program Status]** flow step.
 
 >[!TIP]
 >
@@ -14,11 +14,11 @@ Oops! How did those people get in there? You can remove members from an engageme
 
 ## Flow Step {#flow-step}
 
-1. Drag in the **Change Program Status** flow step.
+1. Drag in the **[!UICONTROL Change Program Status]** flow step.
 
    ![](assets/image2014-9-15-18-3a15-3a57.png)
 
-   Choose the status, **Not in Program**.
+   Choose the status, **[!UICONTROL Not in Program]**.
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
@@ -26,7 +26,7 @@ Oops! How did those people get in there? You can remove members from an engageme
 
 ## Pause People  {#pause-people}
 
-Sometimes you just want to pause people in an engagement program and not remove them. This is done with the **Change Engagement Program Cadence**.
+Sometimes you just want to pause people in an engagement program and not remove them. This is done with the **[!UICONTROL Change Engagement Program Cadence]**.
 
 >[!MORELIKETHIS]
 >
