@@ -130,7 +130,7 @@ As with other Marketo Moments cards, you can tap the three dots on any Smart Cam
 
 >[!NOTE]
 >
->You can also tap the **Share** icon on a Smart Campaign card to share, and the **Done** and **Favorite** icons on the details card.
+>You can also tap the **[!UICONTROL Share]** icon on a Smart Campaign card to share, and the **[!UICONTROL Done]** and **[!UICONTROL Favorite]** icons on the details card.
 
 ## Quickly Delete a Smart Campaign Card {#quickly-delete-a-smart-campaign-card}
 
