@@ -8,21 +8,21 @@ exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 
 In Marketo, finding images and files is a breeze.
 
-1. Go to the **Design Studio**.
+1. Go to the **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-1.png)
 
-1. Click **Images and Files** to see a complete list of all uploaded files.
+1. Click **[!UICONTROL Images and Files]** to see a complete list of all uploaded files.
 
    ![](assets/image2014-9-16-11-3a44-3a4.png)
 
-1. In the **Quick Find** box at the bottom of the screen, type the name of the file you're looking for and click **Enter**.
+1. In the **[!UICONTROL Quick Find]** box at the bottom of the screen, type the name of the file you're looking for and click **[!UICONTROL Enter]**.
 
    ![](assets/image2014-9-16-11-3a46-3a32.png)
 
 >[!TIP]
 >
->To start a new search, click the **x** in the **Quick Find** box.
+>To start a new search, click the **x** in the **[!UICONTROL Quick Find]** box.
 
 Kick your feet up, you're done!
 
