@@ -150,9 +150,9 @@ In this example, the email will say "Greetings, (first name)" or "Greetings, ear
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## My Tokens {#my-tokens}
+## [!UICONTROL My Tokens] {#my-tokens}
 
-My Tokens are defined within a program and begin with `{{my.` followed by the name you created for the token. Learn more about [My Tokens in a program](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+[!UICONTROL My Tokens] are defined within a program and begin with `{{my.` followed by the name you created for the token. Learn more about [My Tokens in a program](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Member Token {#member-token}
 
