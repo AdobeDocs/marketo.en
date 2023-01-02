@@ -12,14 +12,14 @@ Are you a keyboard shortcuts person? We've got you covered!
 
 | Keyboard Shortcut |Area |
 |---|---|
-| Alt/Opt + A |Analytics |
-| Alt/Opt + C |Calendar |
-| Alt/Opt + D |Design Studio |
-| Alt/Opt + F |Global Search |
-| Alt/Opt + L |Database |
-| Alt/Opt + M |Marketing Activities |
-| Opt + N |Admin |
-| Opt + O |My Marketo |
+| Alt/Opt + A |[!UICONTROL Analytics] |
+| Alt/Opt + C |[!UICONTROL [!UICONTROL Calendar] |
+| Alt/Opt + D |[!UICONTROL Design Studio] |
+| Alt/Opt + F |[!UICONTROL Global Search] |
+| Alt/Opt + L |[!UICONTROL Database] |
+| Alt/Opt + M |[!UICONTROL Marketing Activities] |
+| Opt + N |[!UICONTROL Admin] |
+| Opt + O |[!UICONTROL My Marketo] |
 | Alt/Opt + S |Drop-down Superball menu |
 
 ## Calendar/Schedule View Navigation:  {#calendar-schedule-view-navigation}
