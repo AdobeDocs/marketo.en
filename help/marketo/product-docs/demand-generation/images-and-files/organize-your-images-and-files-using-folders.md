@@ -8,11 +8,11 @@ exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 
 Creating folders allows you to move images and files, see just the set of images you want, and upload directly to a specific folder.  
 
-1. Go to the **Design Studio**.
+1. Go to the **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-7.png)
 
-1. Right-click on **Images and Files** in the left menu, then select **New Folder**.
+1. Right-click on **[!UICONTROL Images and Files]** in the left menu, then select **[!UICONTROL New Folder]**.
 
    ![](assets/image2014-9-16-11-3a25-3a45.png)
 
@@ -20,7 +20,7 @@ Creating folders allows you to move images and files, see just the set of images
 
    ![](assets/image2014-9-16-11-3a25-3a53.png)
 
-1. Go to **Images and Files**, now you can drag and drop into the folder you want.
+1. Go to **[!UICONTROL Images and Files]**, now you can drag and drop into the folder you want.
 
    ![](assets/image2014-9-16-11-3a26-3a0.png)
 
