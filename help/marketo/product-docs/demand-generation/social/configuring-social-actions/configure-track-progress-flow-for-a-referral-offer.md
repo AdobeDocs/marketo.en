@@ -8,25 +8,25 @@ exl-id: ea73176e-414e-4a90-a17d-083a6eb0a752
 
 When you [create a referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you can configure the prompts that show participants their progress toward the reward.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Select the referral offer, and click **Edit Draft**.
+1. Select the referral offer, and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-22-14-3a35-3a31.png)
 
-1. In the referral offer editor, go to **Track Progress Flow** > **Social Networks**.
+1. In the referral offer editor, go to **[!UICONTROL Track Progress Flow]** > **[!UICONTROL Social Networks]**.
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. In the **View & Edit** window, edit the prompt that reminds participants to sign in to the same social network they used to sign up for your offer.
+1. In the **[!UICONTROL View & Edit]** window, edit the prompt that reminds participants to sign in to the same social network they used to sign up for your offer.
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
    >[!NOTE]
    >
-   >To highlight the text you can edit, select **Show Edits** in the top-right corner.
+   >To highlight the text you can edit, select **[!UICONTROL Show Edits]** in the top-right corner.
 
 1. Edit the prompt that encourages the participant to share the link with more friends.
 
@@ -42,4 +42,4 @@ When you [create a referral offer](/help/marketo/product-docs/demand-generation/
 
 >[!MORELIKETHIS]
 >
->Next, click **Finish** > **Approve and Close** and [publish your referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
+>Next, click **[!UICONTROL Finish]** > **[!UICONTROL Approve and Close]** and [publish your referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
