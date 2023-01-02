@@ -12,7 +12,7 @@ Right-click on an email card to preview it, before you pull the trigger.
 
    ![](assets/image2015-9-25-11-3a30-3a52.png)
 
-1. Tap **Preview Email**.
+1. Tap **[!UICONTROL Preview Email]**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
@@ -22,6 +22,6 @@ Right-click on an email card to preview it, before you pull the trigger.
 
    >[!NOTE]
    >
-   >To send a sample directly from the Email Preview page, tap the paper airplane icon in the upper right.
+   >To send a sample directly from the [!UICONTROL Email Preview] page, tap the paper airplane icon in the upper right.
 
    Excellent!
