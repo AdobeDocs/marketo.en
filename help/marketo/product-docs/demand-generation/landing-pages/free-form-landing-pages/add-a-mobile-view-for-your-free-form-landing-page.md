@@ -12,7 +12,7 @@ It's easy to make your free-form landing pages look great on a smartphone.
 >
 >The mobile view works on screens that are 480px wide (or less). In other words, smartphones. Here's more [info on device resolutions](https://www.mydevice.io/).
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -20,15 +20,15 @@ It's easy to make your free-form landing pages look great on a smartphone.
 
    ![](assets/choose-landing-page.jpg)
 
-1. Click **Edit Draft**.
+1. Click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-1-22-15-3a38-3a12.png)
 
-1. Click the **Mobile** tab.
+1. Click the **[!UICONTROL Mobile]** tab.
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 
-1. Click **Activate**.
+1. Click **[!UICONTROL Activate]**.
 
    ![](assets/image2015-1-22-15-3a48-3a47.png)
 
@@ -36,7 +36,7 @@ It's easy to make your free-form landing pages look great on a smartphone.
    >
    >The free-form template may need to be upgraded. If you see that message, quickly read about how to [make an existing free-form landing page template mobile compatible](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
-1. Great! You have now activated the mobile version of your landing page. Click **Close**.
+1. Great! You have now activated the mobile version of your landing page. Click **[!UICONTROL Close]**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 
