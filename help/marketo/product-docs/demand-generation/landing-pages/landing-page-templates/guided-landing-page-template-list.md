@@ -17,10 +17,10 @@ To import a template into Marketo:
 1. Click on the name of the template for larger view.
 1. Download the template chosen.
 1. In Marketo, navigate to the **[!UICONTROL Design Studio].**
-1. Click **[!UICONTROL Landing Pages]** in the left-hand tree, then select **[!UICONTROL Templates.**
+1. Click **[!UICONTROL Landing Pages]** in the left-hand tree, then select **[!UICONTROL Templates].**
 
 1. In the menu bar, click **[!UICONTROL Import Template].**
-1. Choose the downloaded file, enter a template name, then click **[!UICONTROL Import** (make sure to pick a descriptive name and indicate that editing mode is **[!UICONTROL Guided]**).
+1. Choose the downloaded file, enter a template name, then click **[!UICONTROL Import]** (make sure to pick a descriptive name and indicate that editing mode is **[!UICONTROL Guided]**).
 
 |   |  |  |
 |---|---|---|
