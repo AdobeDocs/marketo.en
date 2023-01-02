@@ -10,7 +10,7 @@ Say hello to your new Marketo friend, the email program. Send out emails, create
 
 ## Control Panel {#control-panel}
 
-Four boxes keep you focused. **Audience** defines the "who," **Email** provides the "what," **Schedule** defines "when," and **Approval** makes it ready to go.
+Four boxes keep you focused. **[!UICONTROL Audience]** defines the "who," **[!UICONTROL Email]** provides the "what," **[!UICONTROL Schedule]** defines "when," and **[!UICONTROL Approval]** makes it ready to go.
 
 ![](assets/emailprogram.png)
 
