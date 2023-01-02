@@ -8,15 +8,15 @@ exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 
 You can edit any landing page template within Marketo.
 
-1. Go to **Design Studio**.
+1. Go to **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Expand **Landing Pages** in order to show the templates.
+1. Expand **[!UICONTROL Landing Pages]** in order to show the templates.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Select the **Template** you wish to edit. Click **Edit Draft**.
+1. Select the **Template** you wish to edit. Click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
