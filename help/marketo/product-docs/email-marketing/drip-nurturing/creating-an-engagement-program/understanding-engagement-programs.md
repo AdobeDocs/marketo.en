@@ -67,7 +67,7 @@ You decide when a cast happens by setting up **stream cadence**. This is how you
 
 ## Person Cadence {#person-cadence}
 
-A **person cadence** is a status that defines its ability to receive content from an engagement program. You can use the **Change Engagement Program Cadence** flow step to change this to Paused or Normal.
+A **person cadence** is a status that defines its ability to receive content from an engagement program. You can use the **[!UICONTROL Change Engagement Program Cadence]** flow step to change this to Paused or Normal.
 
   ![](assets/image2014-9-15-15-3a25-3a55.png)
 
