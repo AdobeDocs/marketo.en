@@ -12,11 +12,11 @@ The URL Builder helps you construct URLs that can populate Marketo hidden form f
 >
 >Learn how to create hidden fields in forms and edit their settings in [Set a Form Field as Hidden](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
 
-1. Select a landing page, click on **Landing Page Actions**, hover over **URL Tools**, then click on **URL Builder**.
+1. Select a landing page, click on **[!UICONTROL Landing Page Actions]**, hover over **[!UICONTROL URL Tools]**, then click on **[!UICONTROL URL Builder]**.
 
    ![](assets/image2014-9-18-13-3a5-3a19.png)
 
-1. Select the field(s) you want to use, enter the value, and click **Update URL**.
+1. Select the field(s) you want to use, enter the value, and click **[!UICONTROL Update URL]**.
 
    ![](assets/image2014-9-18-13-3a5-3a28.png)
 
