@@ -12,15 +12,15 @@ Personalized URLs are great for print mail campaigns.
 >
 >**Admin Permissions Required**
 
-1. Go to the **Admin** section and click **Landing Pages**.
+1. Go to the **[!UICONTROL Admin]** section and click **[!UICONTROL Landing Pages]**.
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
-1. Click **Edit**.
+1. Click **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
-1. Check the **Enable Personalized URLs** box and click **Save**.
+1. Check the **[!UICONTROL Enable Personalized URLs]** box and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
