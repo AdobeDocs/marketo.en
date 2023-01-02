@@ -12,7 +12,7 @@ Mark an email program, event, or analytics card as Done to remove it from your s
 
    ![](assets/image2015-7-14-17-3a32-3a35.png)
 
-1. Tap **Done**.
+1. Tap **[!UICONTROL Done]**.
 
    ![](assets/image2015-7-14-17-3a36-3a31.png)
 
