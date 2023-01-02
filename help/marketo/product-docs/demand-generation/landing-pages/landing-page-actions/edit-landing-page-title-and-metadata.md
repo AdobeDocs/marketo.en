@@ -8,7 +8,7 @@ exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 
 Marketo allows you to edit your landing page [meta tags for SEO purposes](https://www.w3schools.com/tags/tag_meta.asp) as well as customize the `<head>` portion of the HTML.
 
-1. Select a landing page and click **Edit Draft**.
+1. Select a landing page and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-17-11-3a39-3a21.png)
 
@@ -16,11 +16,11 @@ Marketo allows you to edit your landing page [meta tags for SEO purposes](https:
    >
    >The Landing page designer will open in a new window.
 
-1. Under **Landing Page Actions**, click **Edit Page Meta Tags**.
+1. Under **[!UICONTROL Landing Page Actions]**, click **[!UICONTROL Edit Page Meta Tags]**.
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. Enter the **Title**, **Keywords**, and **Description** for your page. Select the desired **Robots** option and enter any custom content you want for the HTML `<head>` section. Click **Save**.
+1. Enter the **[!UICONTROL Title]**, **[!UICONTROL Keywords]**, and **[!UICONTROL Description]** for your page. Select the desired **[!UICONTROL Robots]** option and enter any custom content you want for the HTML `<head>` section. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 
