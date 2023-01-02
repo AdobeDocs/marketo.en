@@ -18,31 +18,31 @@ Example goals:
 * 2 referred ecommerce purchases
 * 5 referred webinar attendees
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
-1. Select the referral offer, and click **Edit Draft**.
+1. Select the referral offer, and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-19-15-3a6-3a35.png)
 
-1. In the referral offer editor, go to **App Settings** > **Offer Details**.
+1. In the referral offer editor, go to **[!UICONTROL App Settings]** > **[!UICONTROL Offer Details]**.
 
    ![](assets/image2014-9-19-15-3a6-3a44.png)
 
-1. Under **Settings**, choose an event type from the **Fulfillment Goal** drop-down.
+1. Under **[!UICONTROL Settings]**, choose an event type from the **[!UICONTROL Fulfillment Goal]** drop-down.
 
    ![](assets/image2014-9-19-15-3a6-3a56.png)
 
 >[!TIP]
 >
->If you plan to use the **Give Credit to Referrer** flow step, you must select **Smart List Trigger** as the fulfillment goal type here.
+>If you plan to use the **[!UICONTROL Give Credit to Referrer]** flow step, you must select **[!UICONTROL Smart List Trigger]** as the fulfillment goal type here.
 
-* Referred Visits: Offer participants get credit for each visit from a friend to the page hosting your offer.
-* Referred Sign-Ups: Offer participants get credit for each friend who signs up for the offer.
-* Smart List Trigger: Offer participants get credit for each friend who meets the conditions of a [smart list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) trigger in a [smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). For example, you can use a trigger that fires when a referred prospect signs up for a webinar.
+* **[!UICONTROL Referred Visits]**: Offer participants get credit for each visit from a friend to the page hosting your offer.
+* **[!UICONTROL Referred Sign-Ups]**: Offer participants get credit for each friend who signs up for the offer.
+* **[!UICONTROL Smart List Trigger]**: Offer participants get credit for each friend who meets the conditions of a [smart list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) trigger in a [smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). For example, you can use a trigger that fires when a referred prospect signs up for a webinar.
 
-* Custom JavaScript Event: Offer participants get credit for each friend who triggers a defined JavaScript event on your page. See [Conversion Script for Custom Events](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
+* **[!UICONTROL Custom JavaScript Event]**: Offer participants get credit for each friend who triggers a defined JavaScript event on your page. See [Conversion Script for Custom Events](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
 >[!NOTE]
 >
