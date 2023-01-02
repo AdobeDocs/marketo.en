@@ -8,11 +8,11 @@ exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 
 You can modify a landing page's URL. This can help make the URL easier to remember, and improve SEO.
 
-1. Select your landing page. Click the **Landing Page Actions** drop-down, scroll to **URL Tools** and select **Edit URL Settings**.
+1. Select your landing page. Click the **[!UICONTROL Landing Page Actions]** drop-down, scroll to **[!UICONTROL URL Tools]** and select **[!UICONTROL Edit URL Settings]**.
 
    ![](assets/one.png)
 
-1. Enter the **New URL**, choose to have the old URL discarded or redirected, and click **Save**.
+1. Enter the **[!UICONTROL New URL]**, choose to have the old URL discarded or redirected, and click **[!UICONTROL Save]**.
 
    ![](assets/two.png)
 
