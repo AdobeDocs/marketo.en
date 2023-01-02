@@ -26,7 +26,7 @@ A Seed List is a list of email accounts at multiple mailbox providers, including
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. Click the **[!UICONTROL Actions]** drop-down and select **[!UICONTROL Download One Per Line]**.
+1. Click the **[!UICONTROL Actions]** drop-down and select **[!UICONTROL Download: One Per Line]**.
 
    ![](assets/email-deliverability-power-pack-4.png)
 
