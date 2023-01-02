@@ -12,7 +12,7 @@ Marketo tracks the number of page views and form completions on each tested page
 >
 >[Build two or more landing pages](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), preferably with a form.
 
-1. In the Design Studio, click **New**. In the dropdown, select **New Test Group**.
+1. In the Design Studio, click **[!UICONTROL New]**. In the dropdown, select **[!UICONTROL New Test Group]**.
 
    ![](assets/image2015-8-5-13-3a32-3a50.png)
 
@@ -20,10 +20,10 @@ Marketo tracks the number of page views and form completions on each tested page
    >
    >The other ways to create a Test Group are:
    >
-   >* Right-click a landing page in the tree and select **Convert to Test Group**
-   >* Create a Landing Page Test Group in a program by choosing **AB Test Group** in the **New Local Asset** menu
+   >* Right-click a landing page in the tree and select **[!UICONTROL Convert to Test Group]**
+   >* Create a Landing Page Test Group in a program by choosing **[!UICONTROL AB Test Group]** in the **[!UICONTROL New Local Asset]** menu
 
-1. Enter a name and an optional description. Select the Landing Pages you want to test and click **Create**.
+1. Enter a name and an optional description. Select the Landing Pages you want to test and click **[!UICONTROL Create]**.
 
    ![](assets/image2015-8-5-13-3a39-3a10.png)
 
@@ -31,11 +31,11 @@ Marketo tracks the number of page views and form completions on each tested page
    >
    >Only unapproved Landing Pages will be available to choose.
 
-1. Right-click on each Landing Page and select **Approve**.
+1. Right-click on each Landing Page and select **[!UICONTROL Approve]**.
 
    ![](assets/three-1.png)
 
-1. Click the **Test Group Options** dropdown and select **Approve Test Group**.
+1. Click the **[!UICONTROL Test Group Actions]** dropdown and select **[!UICONTROL Approve Test Group]**.
 
    ![](assets/four-1.png)
 
@@ -45,4 +45,4 @@ Marketo tracks the number of page views and form completions on each tested page
 
    >[!TIP]
    >
-   >If you ever want to delete the Test Group, simply click **Test Group Actions** and select **Delete test group**.
+   >If you ever want to delete the Test Group, simply click **[!UICONTROL Test Group Actions]** and select **[!UICONTROL Delete test group]**.
