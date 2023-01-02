@@ -42,7 +42,7 @@ Form, meet landing page. Landing page, meet form.
    >
    >The follow-up page is the page people will see after they submit the form.
 
-1. In this example we'll use [!UICONTROL Form Defined]. Click **Insert**.
+1. In this example we'll use [!UICONTROL Form Defined]. Click **[!UICONTROL Insert]**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
