@@ -16,7 +16,7 @@ Personalized URLs are great for print mail campaigns.
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. Now you can check **[!UICONTROL Enable Personalized URL]** and click **[!UICONTROL Save]**.
+1. Now you can check **[!UICONTROL Enable Personalized URLs]** and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 
