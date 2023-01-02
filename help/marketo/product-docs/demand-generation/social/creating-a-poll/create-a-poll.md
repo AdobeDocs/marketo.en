@@ -16,11 +16,11 @@ Engage people with a poll they can vote in and share with their friends on socia
 >
 >If you want to use images in your poll, add them to your Marketo Images and Files library before you begin. Add a 60x60px image for each poll entry. See [Add Images and Files to Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Inside your program, select **New** > **New Local Asset**.
+1. Inside your program, select **[!UICONTROL New]** > **[!UICONTROLNew Local Asset]**.
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. In the **Local Asset Gallery**, click **Poll**.
+1. In the **[!UICONTROL Local Asset Gallery]**, click **[!UICONTROL Poll]**.
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -30,7 +30,7 @@ Engage people with a poll they can vote in and share with their friends on socia
 
    >[!TIP]
    >
-   >To save time, you can use the **Clone From** option to copy all settings from an existing video share.
+   >To save time, you can use the **[!UICONTROL Clone From]** option to copy all settings from an existing video share.
 
 1. Give your poll a headline (usually a short question).
 
@@ -48,15 +48,15 @@ Engage people with a poll they can vote in and share with their friends on socia
 
    ![](assets/image2014-9-18-18-3a19-3a37.png)
 
-1. Select the image you need, then click **Select**.
+1. Select the image you need, then click **[!UICONTROL Select]**.
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
-1. When you have set the thumbnail, title, and description for all entries, click **Finish**.
+1. When you have set the thumbnail, title, and description for all entries, click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
-1. Click **Approve** and **Close.**
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-18-18-3a19-3a57.png)
 
@@ -64,7 +64,7 @@ The poll editor opens in a new window. The default settings are all good, but yo
 
 >[!TIP]
 >
->To change any of the defaults in your poll, click **Back**. To save your work for later without approving, click **Close**.
+>To change any of the defaults in your poll, click **[!UICONTROL Back]**. To save your work for later without approving, click **[!UICONTROL Close]**.
 
 If there are any problems in the poll, you will be prompted to address them before the poll is approved.
 
