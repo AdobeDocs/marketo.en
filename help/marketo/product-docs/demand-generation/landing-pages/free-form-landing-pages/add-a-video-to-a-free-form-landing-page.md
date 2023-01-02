@@ -12,29 +12,29 @@ Put videos with social sharing options on your landing pages.
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
-1. Navigate to your free-form landing page and click **Edit Draft**.
+1. Navigate to your free-form landing page and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-17-11-3a28-3a51.png)
 
-1. Drag over **Video** from the elements on the right.
+1. Drag over **[!UICONTROL Video]** from the elements on the right.
 
    ![](assets/image2015-5-21-15-3a46-3a34.png)
 
-1. Select **Create New** from the drop-down menu.
+1. Select **[!UICONTROL Create New]** from the drop-down menu.
 
    ![](assets/image2014-9-17-11-3a29-3a8.png)
 
    >[!NOTE]
    >
-   >The **Create New** feature appears only in Marketing Activities; it's not available in Design Studio. Only already-created videos are available in Design Studio. However, you can create a video share _inside a program_ by selecting **New** > **New Local Asset**. You can then select it from the drop-down, as shown here.
+   >The **[!UICONTROL Create New]** feature appears only in [!UICONTROL Marketing Activities]; it's not available in [!UICONTROL Design Studio]. Only already-created videos are available in Design Studio. However, you can create a video share _inside a program_ by selecting **[!UICONTROL New]** > **[!UICONTROL New Local Asset]**. You can then select it from the drop-down, as shown here.
 
-1. Enter the URL of the YouTube video, then name your video. Under the Clone From drop-down select **None**, then click **Insert**.
+1. Enter the URL of the YouTube video, then name your video. Under the **[!UICONTROL Clone From]** drop-down select **[!UICONTROL None]**, then click **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-17-11-3a29-3a15.png)
 
 >[!TIP]
 >
->To save time, you can use the **Clone From** option to copy all settings from an existing video share.
+>To save time, you can use the **[!UICONTROL Clone From]** option to copy all settings from an existing video share.
 
 Congratulations! You have added a video share to your free-form landing page. Approve the landing page and your video share is live. You can also [publish the landing page to Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) or [put the video share on your web site](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
