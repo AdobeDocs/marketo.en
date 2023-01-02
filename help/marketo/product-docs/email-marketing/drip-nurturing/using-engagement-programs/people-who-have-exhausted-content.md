@@ -10,7 +10,7 @@ When a person has received every piece of content in a stream, it has exhausted 
 
 ## Member of Engagement Program filter {#member-of-engagement-program-filter}
 
-1. Create a new smart list, then find and drag in the **Member of Engagement Program** filter.
+1. Create a new smart list, then find and drag in the **[!UICONTROL Member of Engagement Program]** filter.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -18,11 +18,11 @@ When a person has received every piece of content in a stream, it has exhausted 
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. Under **Add Constraint**, select **Exhausted Content**.
+1. Under **[!UICONTROL Add Constraint]**, select **[!UICONTROL Exhausted Content]**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Set **Exhausted Content** to **true**.
+1. Set **[!UICONTROL Exhausted Content]** to **[!UICONTROL true]**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
@@ -30,15 +30,15 @@ When a person has received every piece of content in a stream, it has exhausted 
 
 ## Members tab {#members-tab}
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
-1. Select your engagement program and go to the **Members** tab.
+1. Select your engagement program and go to the **[!UICONTROL Members]** tab.
 
    ![](assets/memberstab.jpg)
 
-1. Notice the column called **Exhausted Content**.
+1. Notice the column called **[!UICONTROL Exhausted Content]**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
@@ -46,7 +46,7 @@ When a person has received every piece of content in a stream, it has exhausted 
 
 ## Stream {#stream}
 
-1. You can also see the total people who have exhausted content under the Streams tab on the stream itself.
+1. You can also see the total people who have exhausted content under the [!UICONTROL Streams] tab on the stream itself.
 
    ![](assets/image2014-9-15-18-3a21-3a38.png)
 
