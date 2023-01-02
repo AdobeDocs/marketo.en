@@ -30,11 +30,11 @@ After the email has been sent, the card displays other valuable information, inc
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. Tap **Confirm**.
+1. Tap **[!UICONTROL Confirm]**.
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tap **Confirm** to finish the job, or **Never Mind** if you had second thoughts.
+1. Tap **[!UICONTROL Confirm]** to finish the job, or **[!UICONTROL Never Mind]** if you had second thoughts.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -48,7 +48,7 @@ After the email has been sent, the card displays other valuable information, inc
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. Tap **Cancel Send**.
+1. Tap **[!UICONTROL Cancel Send]**.
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
@@ -64,11 +64,11 @@ You can reschedule confirmed or unconfirmed email cards.
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. Tap **Reschedule**.
+1. Tap **[!UICONTROL Reschedule]**.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. Select a date on the calendar and tap **Reschedule**.
+1. Select a date on the calendar and tap **[!UICONTROL Reschedule]**.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
@@ -82,11 +82,11 @@ You can share a sample of an email moment directly with someone.
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tap **Send Sample**.
+1. Tap **[!UICONTROL Send Sample]**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Enter an email address and click **Send Sample**.
+1. Enter an email address and click **[!UICONTROL Send Sample]**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -94,7 +94,7 @@ You can share a sample of an email moment directly with someone.
 
 Right click on an email card to preview it.
 
-1. Tap **Preview Email**.
+1. Tap **[!UICONTROL Preview Email]**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
