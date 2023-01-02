@@ -6,7 +6,7 @@ exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 ---
 # Include a Calendar Event ICS File in a Landing Page {#include-a-calendar-event-ics-file-in-a-landing-page}
 
-A **Calendar File** token allows you to add a calendar event (.ics) link to your Marketo landing pages.
+A **[!UICONTROL Calendar File]** token allows you to add a calendar event (.ics) link to your Marketo landing pages.
 
 >[!PREREQUISITES]
 >
@@ -16,7 +16,7 @@ A **Calendar File** token allows you to add a calendar event (.ics) link to your
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
 
-1. Select the **Calendar File** token and click **Insert**.
+1. Select the **[!UICONTROL Calendar File]** token and click **[!UICONTROL Insert]**.
 
    >[!CAUTION]
    >
@@ -26,7 +26,7 @@ A **Calendar File** token allows you to add a calendar event (.ics) link to your
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    People will see a landing page that looks like this:
 
