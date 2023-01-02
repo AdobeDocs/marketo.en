@@ -24,11 +24,11 @@ You may want to add landing page CNAMEs to allow different URLs to point to your
 
 ## Find Your Account String {#find-your-account-string}
 
-1. Go to the **Admin** area and click **Landing Pages**.
+1. Go to the **[!UICONTROL Admin]** area and click **[!UICONTROL Landing Pages]**.
 
    ![](assets/image2014-9-16-15-3a19-3a54.png)
 
-1. Copy the **Account String** from the **Settings** section.
+1. Copy the **[!UICONTROL Account String]** from the **[!UICONTROL Settings]** section.
 
    ![](assets/image2014-9-16-15-3a20-3a2.png)
 
@@ -42,23 +42,23 @@ You may want to add landing page CNAMEs to allow different URLs to point to your
 
 ## Add a New CNAME {#add-a-new-cname}
 
-1. Once your IT department has created the CNAME, go to **Admin** then click **Landing Pages**.
+1. Once your IT department has created the CNAME, go to **[!UICONTROL Admin]** then click **[!UICONTROL Landing Pages]**.
 
    ![](assets/image2014-9-16-15-3a20-3a20.png)
 
-1. Click **New** then select **New Domain Alias**.
+1. Click **[!UICONTROL New]** then select **[!UICONTROL New Domain Alias]**.
 
    ![](assets/image2014-9-16-15-3a20-3a28.png)
 
-1. Enter your **Domain Alias.** The **Default Page** is displayed if the visitor does not put in a URL. Enter where they should go in that case.
+1. Enter your **[!UICONTROL Domain Alias].** The **[!UICONTROL Default Page]** is displayed if the visitor does not put in a URL. Enter where they should go in that case.
 
    >[!NOTE]
    >
-   >For the Default Page, you can select a landing page or an external URL, such as your public website.
+   >For the [!UICONTROL Default Page], you can select a landing page or an external URL, such as your public website.
 
    ![](assets/image2014-9-16-15-3a20-3a36.png)
 
-1. Enter your **Default Page** and click **Create**.
+1. Enter your **[!UICONTROL Default Page]** and click **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-16-15-3a20-3a43.png)
 
