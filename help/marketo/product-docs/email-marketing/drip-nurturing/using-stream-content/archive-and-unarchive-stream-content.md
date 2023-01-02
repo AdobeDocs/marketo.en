@@ -14,11 +14,11 @@ If you no longer want to use a piece of content in a stream you can either [remo
 
 ## Archive Stream Content {#archive-stream-content}
 
-1. Select your engagement program and go to the **Streams** tab.
+1. Select your engagement program and go to the **[!UICONTROL Streams]** tab.
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Hover over the email you want to archive, then under the gear icon click **Archive**.
+1. Hover over the email you want to archive, then under the gear icon click **[!UICONTROL Archive]**.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
@@ -26,15 +26,15 @@ If you no longer want to use a piece of content in a stream you can either [remo
 
 ## Unarchive Stream Content {#unarchive-stream-content}
 
-1. Select your engagement program and go to the **Streams** tab.
+1. Select your engagement program and go to the **[!UICONTROL Streams]** tab.
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. Click on the gear icon for your stream then click **Show archived content**.
+1. Click on the gear icon for your stream then click **[!UICONTROL Show archived content]**.
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
-1. Now that you can see the archived content, click the gear icon for the content you want to unarchive, then click **Unarchive**.
+1. Now that you can see the archived content, click the gear icon for the content you want to unarchive, then click **[!UICONTROL Unarchive]**.
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
