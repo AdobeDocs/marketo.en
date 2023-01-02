@@ -11,11 +11,11 @@ exl-id: a267af34-9812-4994-b506-bba32e89e66c
 >* [Enable Personalized URLs for Your Account](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 >* [Enable Personalized URLs for a Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
-1. Select your list or smart list, click on the **Leads** tab to get the results and then click on the excel icon. INLINE Make sure you have **Marketo Unique Code** and **Marketo Unique Name** [columns visible](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Select your list or smart list, click on the **[!UICONTROL Leads]** tab to get the results and then click on the excel icon. INLINE Make sure you have **[!UICONTROL Marketo Unique Code]** and **[!UICONTROL Marketo Unique Name]** [columns visible](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
-1. Check **Include Personalized URL**, find and select the landing page you want to generate PURLs for.
+1. Check **[!UICONTROL Include Personalized URL]**, find and select the landing page you want to generate PURLs for.
 
    ![](assets/image2014-9-18-13-3a36-3a42.png)
 
@@ -27,11 +27,11 @@ exl-id: a267af34-9812-4994-b506-bba32e89e66c
    >
    >If you see multiple URLs for the same landing page, it is likely because you changed the pages URL at some point in the past and created a redirect.
 
-1. Choose a **Style** and click **Export**.
+1. Choose a **[!UICONTROL Style]** and click **[!UICONTROL Export]**.
 
    ![](assets/image2014-9-18-13-3a37-3a6.png)
 
-1. When your export completes click on the **Download Now** link to save the file.
+1. When your export completes click on the **[!UICONTROL Download Now]** link to save the file.
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
 
