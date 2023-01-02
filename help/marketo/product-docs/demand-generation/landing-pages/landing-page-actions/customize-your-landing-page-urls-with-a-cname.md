@@ -26,7 +26,7 @@ The one word (plus YourCompany.com) is called a CNAME. You'll need this later so
 
 ## Find your Account String {#find-your-account-string}
 
-1. Go to the **Admin** area and click on **Landing Pages**.
+1. Go to the **[!UICONTROL Admin]** area and click on **[!UICONTROL Landing Pages]**.
 
    ![](assets/image2014-9-18-16-3a2-3a45.png)
 
@@ -34,7 +34,7 @@ The one word (plus YourCompany.com) is called a CNAME. You'll need this later so
    >
    >**Admin Permissions Required**
 
-1. Under the **Landing** **Pages** tab, copy the **Account** **String** from the **Settings** section.
+1. Under the **[!UICONTROL Landing Pages]** tab, copy the **[!UICONTROL Account String]** from the **[!UICONTROL Settings]** section.
 
    ![](assets/image2014-9-18-16-3a44-3a12.png)
 
@@ -48,15 +48,15 @@ Ask your IT staff to setup the following CNAME: (Replace the word [CNAME] and [A
 
 ## Complete CNAME Setup {#complete-cname-setup}
 
-1. Once your IT has created the CNAME, go to **Admin** and click on **Landing Pages**.
+1. Once your IT has created the CNAME, go to **[!UICONTROL Admin]** and click on **[!UICONTROL Landing Pages]**.
 
    ![](assets/image2014-9-18-17-3a15-3a11.png)
 
-1. Under the **Settings** section, click on **Edit**.
+1. Under the **[!UICONTROL Settings]** section, click on **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-18-17-3a15-3a18.png)
 
-1. Enter your CNAME in **Domain name for Landing Pages**, enter your **Fallback page**, enter your **Homepage** and click **Save**.
+1. Enter your CNAME in **[!UICONTROL Domain name for Landing Pages]**, enter your **[!UICONTROL Fallback page]**, enter your **[!UICONTROL Homepage]** and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-17-3a15-3a25.png)
 
