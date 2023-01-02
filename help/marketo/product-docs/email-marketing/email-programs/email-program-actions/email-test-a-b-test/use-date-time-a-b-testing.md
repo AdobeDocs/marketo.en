@@ -6,22 +6,22 @@ exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 ---
 # Use "Date/Time" A/B Testing {#use-date-time-a-b-testing}
 
-You can easily A/B test your emails. One test is the **Date/Time** test. This tests what time of day or day of week is best to send emails. Here's how to set it up.
+You can easily A/B test your emails. One test is the **[!UICONTROL Date/Time]** test. This tests what time of day or day of week is best to send emails. Here's how to set it up.
 
 >[!PREREQUISITES]
 >
 >[Add an A/B Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 >
 
-1. Under the **Email** tile, click **Add A/B Test**.
+1. Under the **[!UICONTROL Email]** tile, click **[!UICONTROL Add A/B Test]**.
 
    ![](assets/image2014-9-12-15-3a41-3a3.png)
 
-1. A new window opens. Select **Date/Time** for **Test Type**.
+1. A new window opens. Select **[!UICONTROL Date/Time]** for **[!UICONTROL Test Type]**.
 
    ![](assets/image2014-9-12-15-3a41-3a12.png)
 
-1. If you have previous test information (like a subject test), you can safely click **Reset Test**.
+1. If you have previous test information (like a subject test), you can safely click **[!UICONTROL Reset Test]**.
 
    ![](assets/image2014-9-12-15-3a41-3a19.png)
 
@@ -37,7 +37,7 @@ You can easily A/B test your emails. One test is the **Date/Time** test. This te
 
    ![](assets/image2014-9-12-15-3a41-3a40.png)
 
-1. Use the slider to choose what percentage of the audience you want in your A/B test and click **Next**.
+1. Use the slider to choose what percentage of the audience you want in your A/B test and click **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-12-15-3a41-3a53.png)
 
