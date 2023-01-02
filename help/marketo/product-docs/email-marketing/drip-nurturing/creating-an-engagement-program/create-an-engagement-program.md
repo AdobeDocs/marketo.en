@@ -8,15 +8,15 @@ exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 
 You can use engagement programs in Marketo to accomplish email nurturing with ease.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Select the folder you want to create the engagement program in, then click **New** and **New Program**.
+1. Select the folder you want to create the engagement program in, then click **[!UICONTROL New]** and **[!UICONTROL New Program]**.
 
    ![](assets/newprogramlifecycle.jpg)
 
-1. Enter a **Name**, select **Engagement** for **Program Type** and click **Create**.
+1. Enter a **[!UICONTROL Name]**, select **[!UICONTROL Engagement]** for **[!UICONTROL Program Type]** and click **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 
