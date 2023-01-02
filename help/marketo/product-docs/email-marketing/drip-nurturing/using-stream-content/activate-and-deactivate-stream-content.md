@@ -10,15 +10,15 @@ Stream content is OFF by default. Activate content to send them out during engag
 
 ## Activate Stream Content {#activate-stream-content}
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Select your engagement program and click the **Streams** tab.
+1. Select your engagement program and click the **[!UICONTROL Streams]** tab.
 
    ![](assets/cloneasteam.jpg)
 
-1. Hover over the content you want to activate, click the gear icon, then click **Activate**.
+1. Hover over the content you want to activate, click the gear icon, then click **[!UICONTROL Activate]**.
 
    >[!NOTE]
    >
@@ -28,16 +28,16 @@ Stream content is OFF by default. Activate content to send them out during engag
 
    >[!TIP]
    >
-   >You can also activate all content in a stream by clicking the gear icon at the top level, then clicking **Activate all content**.
+   >You can also activate all content in a stream by clicking the gear icon at the top level, then clicking **[!UICONTROL Activate all content]**.
 
    Nice work! Now you know how to activate content in your streams.
 
 ## Deactivate Stream Content {#deactivate-stream-content}
 
-1. Select your engagement program and click the **Streams** tab.
+1. Select your engagement program and click the **[!UICONTROL Streams]** tab.
 
    ![](assets/cloneasteam.jpg)
 
-1. Hover over the content you want to deactivate, click the gear icon, then click **Deactivate**.
+1. Hover over the content you want to deactivate, click the gear icon, then click **[!UICONTROL Deactivate]**.
 
    ![](assets/image2014-9-15-16-3a34-3a25.png)
