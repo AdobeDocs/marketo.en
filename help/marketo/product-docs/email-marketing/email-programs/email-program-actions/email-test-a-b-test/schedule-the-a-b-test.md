@@ -16,11 +16,11 @@ Once you have added an A/B test to an email program and defined the winner crite
 >
 >For Date/Time tests, you only need to set when you receive the test results summary.
 
-1. Select the **Send Test** date.
+1. Select the **[!UICONTROL Send Test]** date.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. Select the **Send Test** time.
+1. Select the **[!UICONTROL Send Test]** time.
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
@@ -28,7 +28,7 @@ Once you have added an A/B test to an email program and defined the winner crite
    >
    >Send Test and Send Winner must be at least 4 hours apart. However, for larger sends you may want to wait 24 hours to allow enough time to get good results.
 
-1. Do the same thing for **Send Winner**. Enter notification recipients (optional) and click **Next**.
+1. Do the same thing for **[!UICONTROL Send Winner]**. Enter notification recipients (optional) and click **[!UICONTROL Next]**.
 
    >[!NOTE]
    >
@@ -40,11 +40,11 @@ Once you have added an A/B test to an email program and defined the winner crite
    >
    >If you chose to declare a winner manually, you will define **Report Send** date/time instead of **Finish Mailing** date/time.
 
-   Super! You're done, just review the summary and click Close.
+   Super! You're done, just review the summary and click **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   You'll notice the **Schedule** tile is now updated.
+   You'll notice the **[!UICONTROL Schedule]** tile is now updated.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 
