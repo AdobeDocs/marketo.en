@@ -8,7 +8,7 @@ exl-id: 7fc79e67-01db-4b6e-818e-fe61e720ad92
 
 If you've  [added an A/B testing](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) to your email program and have decided you no longer want it, it is easily undone. Here's how.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -16,7 +16,7 @@ If you've  [added an A/B testing](/help/marketo/product-docs/email-marketing/ema
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. Under the **Email** tile, click **Remove A/B Test**.
+1. Under the **[!UICONTROL Email]** tile, click **[!UICONTROL Remove A/B Test]**.
 
    ![](assets/image2015-5-6-14-3a27-3a58.png)
 
