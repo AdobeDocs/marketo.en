@@ -12,11 +12,11 @@ Referral offers give people an incentive to refer their friends. Create goals an
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
-1. Inside your program, select **New** > **New Local Asset**.
+1. Inside your program, select **[!UICONTROL New]** > **[!UICONTROL New Local Asset]**.
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. In the **Local Asset Gallery**, click **Referral Offer**.
+1. In the **[!UICONTROL Local Asset Gallery]**, click **[!UICONTROL Referral Offer]**.
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
@@ -26,15 +26,15 @@ Referral offers give people an incentive to refer their friends. Create goals an
 
    >[!TIP]
    >
-   >To save time, you can use the **Clone From** option to copy all settings from an existing referral offer.
+   >To save time, you can use the **[!UICONTROL Clone From]** option to copy all settings from an existing referral offer.
 
    The referral offer editor opens in a new window. The default settings are all good, but you need to add a link to your offer’s rules (terms and conditions). The link will appear in the bottom of share message screens. We’ll show you how in the next step.
 
-1. Click **Advanced Options**.
+1. Click **[!UICONTROL Advanced Options]**.
 
    ![](assets/image2014-9-19-11-3a3-3a49.png)
 
-1. Add a link to the rules of your offer. Enter the **URL**.
+1. Add a link to the rules of your offer. Enter the **[!UICONTROL Rules Link URL]**.
 
    ![](assets/image2014-9-19-11-3a3-3a57.png)
 
@@ -42,15 +42,15 @@ Referral offers give people an incentive to refer their friends. Create goals an
    >
    >On this screen, you can also add a privacy policy link. See  [Add Your Privacy Policy to a Social App](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-19-11-3a4-3a4.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    >[!TIP]
    >
-   >To change any of the defaults in your referral offer, click **Back**. To save your work for later without approving, click **Close**.
+   >To change any of the defaults in your referral offer, click **[!UICONTROL Back]**. To save your work for later without approving, click **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 
