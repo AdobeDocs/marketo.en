@@ -8,7 +8,7 @@ exl-id: 38e8af11-78a7-4c52-b0d4-301f97d50999
 
 If you like to stay organized, you can rename your streams. Here's how to do it.
 
-1. Find and select your engagement program, then click **Streams**.
+1. Find and select your engagement program, then click **[!UICONTROL Streams]**.
 
    ![](assets/cloneasteam-1.jpg)
 
@@ -16,7 +16,7 @@ If you like to stay organized, you can rename your streams. Here's how to do it.
 
    ![](assets/image2014-9-15-17-3a4-3a10.png)
 
-1. Enter the new stream **Name** and click **Save**.
+1. Enter the new stream **[!UICONTROL Name]** and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 
