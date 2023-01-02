@@ -4,17 +4,17 @@ description: Marketo Plugin Releases for Microsoft Dynamics - Marketo Docs - Pro
 title: Marketo Plugin Releases for Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 ---
-# Marketo Plugin Releases for Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
+# Marketo Plugin Releases for [!DNL Microsoft Dynamics] {#marketo-plugin-releases-for-microsoft-dynamics}
 
-When you first sync to Microsoft Dynamics, you download the latest version of the the plugins for Marketo. Periodically, Marketo updates these plugins, so you can return to the same place to download the new version.
+When you first sync to [!DNL Microsoft Dynamics], you download the latest version of the the plugins for Marketo. Periodically, Marketo updates these plugins, so you can return to the same place to download the new version.
 
-[Download the latest plugin](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) corresponding to your Dynamics release.
+[Download the latest plugin](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) corresponding to your [!DNL Dynamics] release.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
-## Updating your Dynamics Solution {#updating-your-dynamics-solution}
+## Updating your [!DNL Dynamics] Solution {#updating-your-dynamics-solution}
 
-1. Import the latest version of the solution over the existing version of your Dynamics CRM (ex: if your Dynamics CRM has version 1.4 and the latest version is 1.5, you would import _over_ version 1.4).
+1. Import the latest version of the solution over the existing version of your [!DNL Dynamics] CRM (ex: if your [!DNL Dynamics] CRM has version 1.4 and the latest version is 1.5, you would import _over_ version 1.4).
 
 1. You will see the following pop-up. Select **Update** and **Maintain customizations**, then click **Import**.
 
