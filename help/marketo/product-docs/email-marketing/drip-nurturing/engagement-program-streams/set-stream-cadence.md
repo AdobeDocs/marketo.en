@@ -10,25 +10,25 @@ You can send engagement content at any interval you want. For example: once a we
 
 ## Set Cadence {#set-cadence}
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Find and select your engagement program, click the **Streams** tab, then click **Set Stream Cadence**.
+1. Find and select your engagement program, click the **[!UICONTROL Streams]** tab, then click **[!UICONTROL Set Stream Cadence]**.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. Select how often you want the cadence to recur. You can choose **Weekly** or **Monthly**.
+1. Select how often you want the cadence to recur. You can choose **[!UICONTROL Weekly]** or **[!UICONTROL Monthly]**.
 
 ## Weekly {#weekly}
 
-1. Select **Weekly**.
+1. Select **[!UICONTROL Weekly]**.
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
    >[!NOTE]
    >
-   >Selecting **None** will shut off the stream.
+   >Selecting **[!UICONTROL None]** will shut off the stream.
 
 1. Pick the date of the first cast.
 
@@ -44,9 +44,9 @@ You can send engagement content at any interval you want. For example: once a we
 
    >[!TIP]
    >
-   >You can set your cadence to run every day by picking **Repeats: Weekly** / **Every: 1 Week** / **On**: all days.
+   >You can set your cadence to run every day by picking **[!UICONTROL Repeats]: [!UICONTROL Weekly]** / **[!UICONTROL Every]: 1 [!UICONTROL Week]** / **[!UICONTROL On]**: all days.
 
-   Now pick the Time. Check the box if you want to use [Recipient Time Zone](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(i.e., deliver according to local time zones), then click **Save**.
+   Now pick the Time. Check the box if you want to use [Recipient Time Zone](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(i.e., deliver according to local time zones), then click **[!UICONTROL Save]**.
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
@@ -66,7 +66,7 @@ That's it! Keep reading if you want to setup a monthly cadence.
 
 ## Monthly {#monthly}
 
-1. Select **Monthly** for how often it repeats.
+1. Select **[!UICONTROL Monthly]** for how often it repeats.
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -86,7 +86,7 @@ That's it! Keep reading if you want to setup a monthly cadence.
    >
    >Alternatively, you can pick day of the week.
 
-1. Pick a **Time** and click **Save**.
+1. Pick a **[!UICONTROL Time]** and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
