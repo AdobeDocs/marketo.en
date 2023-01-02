@@ -8,15 +8,15 @@ exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 
 Free-form landing pages require less technical knowledge than their guided counterparts. To create a template for future landing pages, follow the steps below.
 
-1. Go to **Design Studio**.
+1. Go to **[!UICONTROL Design Studio]**.
 
    ![](assets/one.png)
 
-1. Click **New**, then select **New Landing Page Template**.
+1. Click **[!UICONTROL New]**, then select **[!UICONTROL New Landing Page Template]**.
 
    ![](assets/two.png)
 
-1. Choose your folder, then give your template a name. Free-form is the default editing mode, so after you name your template, click **Create**.
+1. Choose your folder, then give your template a name. Free-form is the default editing mode, so after you name your template, click **[!UICONTROL Create]**.
 
    ![](assets/three.png)
 
@@ -28,7 +28,7 @@ Free-form landing pages require less technical knowledge than their guided count
    >
    >Marketo Support is not set up to assist with troubleshooting custom HTML. For HTML assistance, please consult a web developer.
 
-1. When you're done making edits, click **Template Actions**, then select **Approve and Close**.
+1. When you're done making edits, click **[!UICONTROL Template Actions]**, then select **[!UICONTROL Approve and Close]**.
 
    ![](assets/five.png)
 
@@ -36,8 +36,8 @@ Free-form landing pages require less technical knowledge than their guided count
 
    >[!NOTE]
    >
-   >Select **Disable Munchkin Tracking** if you want to prevent forms from pre-populating, or you just don't want to track web behavior on a specific page.  
-   >Select **Validate Mobile Compatibility** to make sure your code is compatible with mobile devices.
+   >Select **[!UICONTROL Disable Munchkin Tracking]** if you want to prevent forms from pre-populating, or you just don't want to track web behavior on a specific page.  
+   >Select **[!UICONTROL Validate Mobile Compatibility]** to make sure your code is compatible with mobile devices.
 
    >[!MORELIKETHIS]
    >
