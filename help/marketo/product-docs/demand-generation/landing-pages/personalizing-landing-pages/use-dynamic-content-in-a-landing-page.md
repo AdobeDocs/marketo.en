@@ -16,43 +16,43 @@ Using dynamic content in landing pages engages people with targeted information.
 
 ## Add Segmentation {#add-segmentation}
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-   Click your Landing Page and then click Edit Draft.
+   Click your **[!UICONTROL Landing Page]** and then click **[!UICONTROL Edit Draft]**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-   Click Segment By.
+   Click **[!UICONTROL Segment By]**.
 
    ![](assets/image2015-5-21-12-3a31-3a20.png)
 
-   Enter the Segmentation name and click Save.
+   Enter the **[!UICONTROL Segmentation]** name and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-16-14-3a50-3a5.png)
 
-   Your segmentation and its segments appear under Dynamic on the right.
+   Your segmentation and its segments appear under **[!UICONTROL Dynamic]** on the right.
 
    ![](assets/image2015-5-21-12-3a36-3a40.png)
 
    >[!NOTE]
    >
-   >All landing page elements are Static by default.
+   >All landing page elements are **[!UICONTROL Static]** by default.
 
 ## Make Element Dynamic {#make-element-dynamic}
 
-1. Drag and drop elements from Static to **Dynamic**.
+1. Drag and drop elements from **[!UICONTROL Static]** to **[!UICONTROL Dynamic]**.
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. You can also make elements Static or Dynamic from the element **Settings**.
+1. You can also make elements [!UICONTROL Static] or [!UICONTROL Dynamic] from the element **[!UICONTROL Settings]**.
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
 ## Apply Dynamic Content {#apply-dynamic-content}
 
-1. Select an element under a segment and then click **Edit**. Repeat for each segment.
+1. Select an element under a segment and then click **[!UICONTROL Edit]**. Repeat for each segment.
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 
