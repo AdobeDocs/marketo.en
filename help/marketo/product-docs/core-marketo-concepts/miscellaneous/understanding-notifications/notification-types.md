@@ -16,15 +16,15 @@ Campaign failures notify you of errors in your smart campaigns.
 
 CRM sync notifications alert you to critical issues found with the CRM sync, such as incorrect permissions or the sync being down.
 
-**Microsoft Dynamics**
+**[!DNL Microsoft Dynamics]**
 
-Dynamics notifications are sent once every 24 hours, and contain leads that failed to sync in that time period. Typical reasons for failure are duplicate leads (as above) or field length mismatch errors.
+[!DNL Dynamics] notifications are sent once every 24 hours, and contain leads that failed to sync in that time period. Typical reasons for failure are duplicate leads (as above) or field length mismatch errors.
 
 ![](assets/image2016-1-20-11-3a19-3a58.png)
 
-**Salesforce**
+**[!DNL Salesforce]**
 
-If you use Salesforce, sync error notifications look something like the one below. Typical errors include expired credentials and exceeded API limits.
+If you use [!DNL Salesforce], sync error notifications look something like the one below. Typical errors include expired credentials and exceeded API limits.
 
 ![](assets/salesforcesyncerror.png)
 
