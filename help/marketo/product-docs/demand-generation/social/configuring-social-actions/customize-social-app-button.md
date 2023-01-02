@@ -8,15 +8,15 @@ exl-id: 0c5baefe-8339-4f7e-9d4f-a34704685b11
 
 When you create a [social button](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) or a [referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you can customize the appearance of the buttons.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Select the app, and click **Edit Draft**.
+1. Select the app, and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
-1. In the social app editor, go to **App Settings** > **Button Styling** (or **Sign-Up Style,** for referral offers).
+1. In the social app editor, go to **[!UICONTROL App Settings]** > **[!UICONTROL Button Styling]** (or **[!UICONTROL Sign-Up Style]**, for referral offers).
 
    ![](assets/image2014-9-23-17-3a3-3a57.png)
 
@@ -30,7 +30,7 @@ When you create a [social button](/help/marketo/product-docs/demand-generation/l
 
    >[!NOTE]
    >
-   >For referral offers, select your networks under **2. Sign-Up Flow > Social Networks**.
+   >For referral offers, select your networks under 2. **[!UICONTROL Sign-Up Flow]** > **[!UICONTROL Social Networks]**.
 
 1. Choose a button type.
 
@@ -38,19 +38,19 @@ When you create a [social button](/help/marketo/product-docs/demand-generation/l
 
    >[!TIP]
    >
-   >If you chose **Upload Images under Button Style** above, the following sections allow you to upload button images instead of editing the text.
+   >If you chose **[!UICONTROL Upload Images] under [!UICONTROL Button Style]** above, the following sections allow you to upload button images instead of editing the text.
 
 1. Edit the labels for the button, before and after being clicked.
 
    ![](assets/image2014-9-23-17-3a5-3a30.png)
 
-1. As you make each choice, review the result in the **View & Edit** window.
+1. As you make each choice, review the result in the **[!UICONTROL View & Edit]** window.
 
    ![](assets/image2014-9-23-17-3a5-3a42.png)
 
 >[!NOTE]
 >
->In a referral offer, you can also customize the **Track Progress** button. Go to **App Settings** > **Track Progress Style** and follow the same steps as above.
+>In a referral offer, you can also customize the **[!UICONTROL Track Progress]** button. Go to **[!UICONTROL App Settings]** > **[!UICONTROL Track Progress Style]** and follow the same steps as above.
 
 >[!MORELIKETHIS]
 >
