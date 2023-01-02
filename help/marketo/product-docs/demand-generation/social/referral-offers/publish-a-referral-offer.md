@@ -12,11 +12,11 @@ After you [create a referral offer](/help/marketo/product-docs/demand-generation
 
    ![](assets/image2014-9-19-11-3a15-3a30.png)
 
-1. Drag over **Referral Offer** from the palette on the right.
+1. Drag over **[!UICONTROL Referral Offer]** from the palette on the right.
 
    ![](assets/image2014-9-19-11-3a15-3a42.png)
 
-1. Select your referral offer and click **Insert**.
+1. Select your referral offer and click **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-19-11-3a15-3a52.png)
 
