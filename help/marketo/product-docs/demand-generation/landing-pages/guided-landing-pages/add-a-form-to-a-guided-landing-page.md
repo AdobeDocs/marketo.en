@@ -12,11 +12,11 @@ Form, meet landing page. Landing page, meet form.
 >
 >[Create a Guided Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
    ![](assets/one.png)
 
-1. Find and select your landing page and click **Edit Draft**.
+1. Find and select your landing page and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/two.png)
 
@@ -34,15 +34,15 @@ Form, meet landing page. Landing page, meet form.
 
 1. You have three options when choosing your follow-up page:
 
-    * Landing Page - pick a Marketo landing page
-    * External URL - pick any URL you want
-    * Form Defined - use the settings defined at the form level
+    * **[!UICONTROL Landing Page]** - pick a Marketo landing page
+    * **[!UICONTROL External URL]** - pick any URL you want
+    * **[!UICONTROL Form Defined]** - use the settings defined at the form level
 
    >[!NOTE]
    >
    >The follow-up page is the page people will see after they submit the form.
 
-1. In this example we'll use Form Defined. Click **Insert**.
+1. In this example we'll use [!UICONTROL Form Defined]. Click **Insert**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
