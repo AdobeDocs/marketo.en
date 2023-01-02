@@ -18,15 +18,15 @@ If the unsubscribe flag is set from false to true, the master email status is up
 
 There are several ways a person can be re-subscribed.
 
-In Salesforce, **clear** the Email Opt Out field on the lead/contact's record. This will sync to Marketo.
+In [!DNL Salesforce], **clear** the **[!UICONTROL Email Opt Out]** field on the lead/contact's record. This will sync to Marketo.
 
 ![](assets/one.png)
 
-In Marketo, **clear** the unsubscribed box in the Info tab of the person's record.
+In Marketo, **clear** the **[!UICONTROL Unsubscribed]** box in the Info tab of the person's record.
 
 ![](assets/two.png)
 
-Run a **Change Data Value** flow step as shown below on one or many people.
+Run a **[!UICONTROL Change Data Value]** flow step as shown below on one or many people.
 
 ![](assets/three.png)
 
@@ -38,7 +38,7 @@ When a new person is created, Marketo checks it against the master email status 
 
 ## Changing an Email Address {#changing-an-email-address}
 
-If you change the email address of a person to an unsubscribed email address, that person will be unsubscribed. This change can occur in either Marketo or Salesforce.
+If you change the email address of a person to an unsubscribed email address, that person will be unsubscribed. This change can occur in either Marketo or [!DNL Salesforce].
 
 If you change an unsubscribed email address to one that is subscribed, that person will become subscribed.
 
