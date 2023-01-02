@@ -6,11 +6,11 @@ exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 ---
 # Approve Multiple Landing Pages at Once {#approve-multiple-landing-pages-at-once}
 
-1. Go to **Design Studio**.
+1. Go to **[!UICONTROL Design Studio]**.
 
    ![](assets/image2014-9-17-11-3a35-3a5.png)
 
-1. Click **Landing Pages**.
+1. Click **[!UICONTROL Landing Pages]**.
 
    ![](assets/image2014-9-17-11-3a35-3a11.png)
 
@@ -22,7 +22,7 @@ exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
    >
    >Do not click the actual landing page name, those are links and will take you to the page itself.
 
-1. With your landing pages selected, go to **Landing Page Actions** and click on **Approve**.
+1. With your landing pages selected, go to **[!UICONTROL Landing Page Actions]** and click on **[!UICONTROL Approve]**.
 
    ![](assets/image2014-9-17-11-3a35-3a27.png)
 
