@@ -6,11 +6,11 @@ exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 ---
 # Replace an Uploaded Image or File {#replace-an-uploaded-image-or-file}
 
-1. Go to the **Design Studio**.
+1. Go to the **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-6.png)
 
-1. Click **Images and Files**, then select the file you want to replace.
+1. Click **[!UICONTROL Images and Files]**, then select the file you want to replace.
 
    ![](assets/image2014-9-16-11-3a21-3a48.png)
 
@@ -18,7 +18,7 @@ exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
    >
    >You can also [search uploaded images or files](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md).
 
-1. Click **File Actions** and select **Replace Image or File**.
+1. Click **[!UICONTROL File Actions]** and select **[!UICONTROL Replace Image or File]**.
 
    ![](assets/image2014-9-16-11-3a21-3a55.png)
 
@@ -30,7 +30,7 @@ exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
    >
    >If you're unable to select a file from a shared folder, please save that file to your hard drive and choose it from there.
 
-1. Verify that the file displayed next to **Choose File** is correct, then click **Replace**.
+1. Verify that the file displayed next to **[!UICONTROL Choose File]** is correct, then click **[!UICONTROL Replace]**.
 
    ![](assets/image2014-9-16-11-3a22-3a12.png)
 
