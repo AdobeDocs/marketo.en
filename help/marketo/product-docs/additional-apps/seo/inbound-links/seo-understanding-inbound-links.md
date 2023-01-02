@@ -21,7 +21,7 @@ exl-id: 2f70cff9-1873-4083-927d-a65cae98af54
 | [!UICONTROL Links from my site] |Indicates if your site links to that URL.  |
 | [!UICONTROL PageRank]  |Identifies that URLs page rank in search (1 - 10) |
 
-Sweet! Now that you understand [!UICONTROL inbound links], we can suggest more inbound link opportunities for your site.
+Sweet! Now that you understand inbound links, we can suggest more inbound link opportunities for your site.
 
 >[!MORELIKETHIS]
 >
