@@ -12,15 +12,15 @@ If you ever update a page's URL and want the old URL to still work, try a redire
 >
 >**Admin Permissions Required**
 
-1. Under **Admin**, click **Landing Pages**.
+1. Under **[!UICONTROL Admin]**, click **[!UICONTROL Landing Pages]**.
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
-1. Under the **Rules** tab, click **New** and then **New Redirect Rule**.
+1. Under the **[!UICONTROL Rules]** tab, click **[!UICONTROL New]** and then **[!UICONTROL New Redirect Rule]**.
 
    ![](assets/two-1.png)
 
-1. Click the first **Original URL** drop-down and select your Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+1. Click the first **[!UICONTROL Original URL]** drop-down and select your Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
@@ -28,7 +28,7 @@ If you ever update a page's URL and want the old URL to still work, try a redire
    >
    >Remember, you can only redirect URLs that start with your Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Choose the landing page you want to redirect in the second **Original URL** field.
+1. Choose the landing page you want to redirect in the second **[!UICONTROL Original URL]** field.
 
    ![](assets/image2014-9-25-15-3a47-3a20.png)
 
@@ -36,17 +36,17 @@ If you ever update a page's URL and want the old URL to still work, try a redire
    >
    >You can enter any URL path, even if the page or directory doesn't exist.
 
-1. Click the **Redirect URL** drop-down and select the page you want to redirect visitors to.
+1. Click the **[!UICONTROL Redirect URL]** drop-down and select the page you want to redirect visitors to.
 
    ![](assets/image2014-9-25-15-3a47-3a53.png)
 
-1. Click **Create**.
+1. Click **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-25-15-3a48-3a5.png)
 
    >[!TIP]
    >
-   >To redirect to a web page outside of Marketo, click **Use non-Marketo Landing Page**.
+   >To redirect to a web page outside of Marketo, click **[!UICONTROL Use non-Marketo Landing Page]**.
 
    >[!MORELIKETHIS]
    >
