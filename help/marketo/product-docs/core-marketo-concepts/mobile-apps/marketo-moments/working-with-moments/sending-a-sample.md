@@ -14,11 +14,11 @@ You can share a sample of an email moment directly with someone. There are two w
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tap **Send Sample**.
+1. Tap **[!UICONTROL Send Sample]**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Enter an email address and click **Send Sample**.
+1. Enter an email address and click **[!UICONTROL Send Sample]**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
