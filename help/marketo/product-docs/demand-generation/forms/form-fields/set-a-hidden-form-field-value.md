@@ -14,72 +14,72 @@ Hidden fields are usually populated dynamically. They are not shown to the perso
 
 ## Select the Field {#select-the-field}
 
-1. In your form, select the hidden field and click **Edit** for **Autofill**.
+1. In your form, select the hidden field and click **[!UICONTROL Edit]** for **[!UICONTROL Autofill]**.
 
    ![](assets/autofill.png)
 
 ## Use Default Value {#use-default-value}
 
-By selecting Use Default Value you can hard-code a specific value to always be used when this form is submitted. Enter the Default Value and click Save.
+By selecting Use **[!UICONTROL Default Value]** you can hard-code a specific value to always be used when this form is submitted. Enter the **[!UICONTROL Default Value]** and click **[!UICONTROL Save]**.
 
 ![](assets/image2014-9-15-13-3a5-3a27.png)
 
 ## URL Parameter {#url-parameter}
 
-If you want to capture URL Parameters (Query Strings) from the page the person is on when filling out the form, you can use **URL Parameters** to populate your hidden field.
+If you want to capture URL Parameters (Query Strings) from the page the person is on when filling out the form, you can use **[!UICONTROL URL Parameters]** to populate your hidden field.
 
 >[!NOTE]
 >
 >Parameters are kinda techie, aren't they? Once you get them though, they are powerful. This [Wikipedia page on Query Strings](https://en.wikipedia.org/wiki/Query_string) is somewhat helpful.
 
-1. Select **URL Parameter** for **Get Value Type**.
+1. Select **[!UICONTROL URL Parameter]** for **[!UICONTROL Get Value Type]**.
 
    ![](assets/image2014-9-15-13-3a6-3a48.png)
 
-1. Enter the **Parameter Name** and click **Save**.
+1. Enter the **[!UICONTROL Parameter Name]** and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-13-3a7-3a35.png)
 
 >[!TIP]
 >
->You can enter a Default Value in case the URL parameter is not found.
+>You can enter a **[!UICONTROL Default Value]** in case the URL parameter is not found.
 
 ## Cookie Value {#cookie-value}
 
-If you're storing data in cookies, you can use **Cookie Value** to pick up data when the form is submitted.
+If you're storing data in cookies, you can use **[!UICONTROL Cookie Value]** to pick up data when the form is submitted.
 
-1. Select **Cookie Value** for **Get Value From**.
+1. Select **[!UICONTROL Cookie Value]** for **[!UICONTROL Get Value From]**.
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
-1. Enter the cookie Parameter Name you want and click **Save**.
+1. Enter the cookie **[!UICONTROL Parameter Name]** you want and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-13-3a8-3a43.png)
 
    >[!TIP]
    >
-   >You can enter a Default Value in case the parameter/cookie is not found.
+   >You can enter a **[!UICONTROL Default Value]** in case the parameter/cookie is not found.
 
 ## Referrer Parameter {#referrer-parameter}
 
-If you want to capture data from the page the visitor came from before filling out the form, you can use **Referrer Parameter**.
+If you want to capture data from the page the visitor came from before filling out the form, you can use **[!UICONTROL Referrer Parameter]**.
 
-1. Set **Get Value From** to **Referrer Parameter**.
+1. Set **[!UICONTROL Get Value From]** to **[!UICONTROL Referrer Parameter]**.
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
-1. Enter the **Parameter Name** which you want to snatch from the referrer URL and click **Save**.
+1. Enter the **[!UICONTROL Parameter Name]** which you want to snatch from the referrer URL and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-13-3a9-3a56.png)
 
    >[!TIP]
    >
-   >You can enter a **Default Value** in case the referrer parameter is not found.
+   >You can enter a **[!UICONTROL Default Value]** in case the referrer parameter is not found.
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-13-3a10-3a26.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)
