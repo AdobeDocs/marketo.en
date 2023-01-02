@@ -8,7 +8,7 @@ exl-id: c30b3333-3ea8-44e7-a911-a0b6584da7cb
 
 You can quickly see members of an engagement program. Here's how.
 
-1. From your engagement program, right-click and select **View Members**.
+1. From your engagement program, right-click and select **[!UICONTROL View Members]**.
 
    ![](assets/membersofengagement.jpg)
 
