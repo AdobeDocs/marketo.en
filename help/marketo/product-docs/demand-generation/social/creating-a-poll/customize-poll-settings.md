@@ -8,22 +8,22 @@ exl-id: 72379bc7-9457-4285-9cc2-02dc0c1f3966
 
 When you [create a poll](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), you can limit the number of votes allowed per social profile.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Select the poll, and click **Edit Draft**.
+1. Select the poll, and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-19-10-3a56-3a37.png)
 
-1. In the poll editor, go to **App Settings** > **Advanced Options**.
+1. In the poll editor, go to **[!UICONTROL App Settings]** > **[!UICONTROL Advanced Options]**.
 
    ![](assets/image2014-9-19-10-3a56-3a44.png)
 
-1. Check the option to impose a **Vote Limit** and enter the maximum number of votes allowed.
+1. Check the option to impose a **[!UICONTROL Vote Limit]** and enter the maximum number of votes allowed.
 
    ![](assets/image2014-9-19-10-3a56-3a54.png)
 
 >[!TIP]
 >
->You can click **Finish** > **Approve and Close** to [publish your poll](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), or you can continue customizing it. For example, try [configuring the after-share prompts](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+>You can click **[!UICONTROL Finish]** > **[!UICONTROL Approve and Close]** to [publish your poll](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), or you can continue customizing it. For example, try [configuring the after-share prompts](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
