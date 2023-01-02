@@ -14,7 +14,7 @@ In order to ensure top-notch deliverability, we automatically sign all outbound 
 
 You can personalize the DKIM signature to reflect the domain(s) of your choice. Here's how.
 
-1. Go to the **Admin** section.
+1. Go to the **[!UICONTROL Admin]** section.
 
    ![](assets/adminhand.png)
 
@@ -22,11 +22,11 @@ You can personalize the DKIM signature to reflect the domain(s) of your choice. 
    >
    >If you set up a custom DKIM signature the old-fashioned way, it will continue to work and should show up here.
 
-1. Click **Email**, then the **DKIM** tab, and finally **Add Domain**.
+1. Click **[!UICONTROL Email]**, then the **DKIM** tab, and finally **[!UICONTROL Add Domain]**.
 
    ![](assets/image2014-9-18-15-3a39-3a30.png)
 
-1. Enter the domain you will be using in Marketo emails as the From Address and click **Add**.
+1. Enter the domain you will be using in Marketo emails as the From Address and click **[!UICONTROL Add]**.
 
    >[!TIP]
    >
@@ -34,11 +34,11 @@ You can personalize the DKIM signature to reflect the domain(s) of your choice. 
 
    ![](assets/image2014-9-18-15-3a40-3a28.png)
 
-1. Send the **Host Record** and **TXT Value** to your IT. Ask them to create the record for you and make sure it propagates to all nameservers associated with the from domain. Marketo's DKIM verification requires that the DKIM key is propagated to all nameservers associated with the domain being DKIM-signed.
+1. Send the **[!UICONTROL Host Record]** and **[!UICONTROL TXT Value]** to your IT. Ask them to create the record for you and make sure it propagates to all nameservers associated with the from domain. Marketo's DKIM verification requires that the DKIM key is propagated to all nameservers associated with the domain being DKIM-signed.
 
    ![](assets/image2014-9-18-15-3a40-3a44.png)
 
-1. Once they confirm they've created the record, come back to Marketo, select your domain, and click **Check DNS**.
+1. Once they confirm they've created the record, come back to Marketo, select your domain, and click **[!UICONTROL Check DNS]**.
 
    ![](assets/check.png)
 
