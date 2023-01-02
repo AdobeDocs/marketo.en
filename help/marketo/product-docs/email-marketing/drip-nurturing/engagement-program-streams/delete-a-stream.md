@@ -8,11 +8,11 @@ exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
 
 If you ever need to delete a stream from your engagement program, follow these quick and easy steps.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Select your engagement program and go to **Streams**.
+1. Select your engagement program and go to **[!UICONTROL Streams]**.
 
    ![](assets/cloneasteam-2.jpg)
 
@@ -20,11 +20,11 @@ If you ever need to delete a stream from your engagement program, follow these q
    >
    >Deleting a stream will result in loss of historical data for the content in that stream.
 
-1. Click on the gear icon and select **Delete**.
+1. Click on the gear icon and select **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-15-17-3a47-3a27.png)
 
-1. Confirm the deletion by clicking **Delete**.
+1. Confirm the deletion by clicking **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-15-17-3a47-3a31.png)
 
