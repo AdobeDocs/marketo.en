@@ -8,7 +8,7 @@ exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
 
 Rectangles on landing pages are great for highlighting an area of the text.
 
-1. Select a free-form landing page and click on **Edit Draft**.
+1. Select a free-form landing page and click on **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-16-14-3a50-3a51.png)
 
@@ -16,11 +16,11 @@ Rectangles on landing pages are great for highlighting an area of the text.
    >
    >The free-form landing page designer opens in a new window.
 
-1. Drag over the **Rectangle** element.
+1. Drag over the **[!UICONTROL Rectangle]** element.
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. Select your rectangle and use the **Property Sheet** to make any changes needed.
+1. Select your rectangle and use the **[!UICONTROL Property Sheet]** to make any changes needed.
 
    >[!TIP]
    >
