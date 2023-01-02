@@ -12,15 +12,15 @@ Snippets are little bits of HTML that can follow rules and hold personalized con
 >
 >[Create a Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
-1. Select your landing page and click **Edit Draft**.
+1. Select your landing page and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. In the landing page editor, drag over the **Snippet** element.
+1. In the landing page editor, drag over the **[!UICONTROL Snippet]** element.
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
-1. Find your snippet, select it, and click **Save**.
+1. Find your snippet, select it, and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-16-15-3a4-3a14.png)
 
