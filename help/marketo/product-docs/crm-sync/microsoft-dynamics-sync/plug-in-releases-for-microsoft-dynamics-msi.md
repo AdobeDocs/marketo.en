@@ -1,28 +1,28 @@
 ---
 unique-page-id: 10099102
-description: Plug-In Releases for Microsoft Dynamics MSI - Marketo Docs - Product Documentation
-title: Plug-In Releases for Microsoft Dynamics MSI
+description: Plug-In Releases for [!DNL Microsoft Dynamics] MSI - Marketo Docs - Product Documentation
+title: Plug-In Releases for [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 ---
-# Plug-In Releases for Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
+# Plug-In Releases for [!DNL Microsoft Dynamics] MSI {#plug-in-releases-for-microsoft-dynamics-msi}
 
-When you first sync to Microsoft Dynamics, you download and install the latest version of the plug-ins for Marketo Sales Insight (MSI). Periodically, Marketo updates these plug-ins, so you can return to the same place to download the new version.
+When you first sync to [!DNL Microsoft Dynamics], you download and install the latest version of the plug-ins for Marketo Sales Insight (MSI). Periodically, Marketo updates these plug-ins, so you can return to the same place to download the new version.
 
-If you're using Marketo's native CRM sync solution to Dynamics, please [download the latest plug-in](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corresponding to your Dynamics release. For those who have a custom sync and have purchased Marketo Sales Insight, the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+If you're using Marketo's native CRM sync solution to [!DNL Dynamics], please [download the latest plug-in](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corresponding to your [!DNL Dynamics] release. For those who have a custom sync and have purchased Marketo Sales Insight, the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >
->These versions work for both on-premise and online versions of Dynamics.
+>These versions work for both on-premise and online versions of [!DNL Dynamics].
 
 ## Upgrading your MSI Solution {#upgrading-your-msi-solution}
 
-1. Import the latest version of the solution _over the existing version_ of your Dynamics CRM by pressing the **Import** button in Dynamics.
+1. Import the latest version of the solution _over the existing version_ of your [!DNL Dynamics] CRM by pressing the **[!UICONTROL Import]** button in [!DNL Dynamics].
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
 >[!NOTE]
 >
->Example: if your Dynamics CRM has version 2.0.0.20 and the latest version is 2.0.0.21, you would import _over_ version 2.0.0.20.
+>Example: if your [!DNL Dynamics] CRM has version 2.0.0.20 and the latest version is 2.0.0.21, you would import _over_ version 2.0.0.20.
 
 1. Click **Next**.
 
