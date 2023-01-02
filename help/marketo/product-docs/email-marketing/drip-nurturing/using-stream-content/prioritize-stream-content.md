@@ -8,11 +8,11 @@ exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 
 After you've added content to your stream, you may want to change the priority. The content is always delivered from the top down in each cast, and no content is sent to the same person twice.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
-1. Select your engagement program and click the **Streams** tab.
+1. Select your engagement program and click the **[!UICONTROL Streams]** tab.
 
    ![](assets/cloneasteam-1.jpg)
 
