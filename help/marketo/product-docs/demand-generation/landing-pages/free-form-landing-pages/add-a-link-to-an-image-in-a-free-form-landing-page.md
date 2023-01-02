@@ -16,11 +16,11 @@ Want to make an image on your landing page a link to another page/site? Here's h
 
    ![](assets/click-on-image.png)
 
-1. Expand the **Property Sheet**.
+1. Expand the **[!UICONTROL Property Sheet]**.
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
-1. Copy or type the link into the **linkUrl** box.
+1. Copy or type the link into the **[!UICONTROL linkUrl]** box.
 
    ![](assets/add-link.png)
 
