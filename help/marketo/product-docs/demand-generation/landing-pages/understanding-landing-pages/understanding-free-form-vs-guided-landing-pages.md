@@ -11,7 +11,7 @@ The template you choose determines what landing page editing mode you'll be work
 ## Free-form Pages {#free-form-pages}
 
 * Drag and drop whatever content you want, wherever you want to place it.
-* The template is like a SlideMaster in PowerPoint, just a background.
+* The template is like a [!DNL SlideMaster] in [!DNL PowerPoint], just a background.
 * Create a simple mobile version of your page with a click of a button.
 * Best used when you don't have a lot of time or technical resources at your disposal.
 
