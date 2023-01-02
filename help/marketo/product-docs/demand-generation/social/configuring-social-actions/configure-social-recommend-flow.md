@@ -14,15 +14,15 @@ When you create a social app, you can configure the social network choices and p
 >
 >This is very similar to [configuring the social sign-up/share flow](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md), but this is for the share links _under_ the social app.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Select the app, and click **Edit Draft**.
+1. Select the app, and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-22-11-3a51-3a6.png)
 
-1. In the social app editor, go to **Recommend Flow** > **Social Networks**.
+1. In the social app editor, go to **[!UICONTROL Recommend Flow]** > **[!UICONTROL Social Networks]**.
 
    ![](assets/recommendedflow.png)
 
@@ -40,11 +40,11 @@ When you create a social app, you can configure the social network choices and p
    >
    >In a video share, the thumbnail is generated automatically.
 
-   If you choose **Add Dynamic content**, the values of the page's OpenGraph tags (og:title, og:caption, and og:description) and the thumbnail are automatically added to Facebook posts. See the next step.
+   If you choose **[!UICONTROL Add Dynamic content]**, the values of the page's OpenGraph tags (og:title, og:caption, and og:description) and the thumbnail are automatically added to Facebook posts. See the next step.
 
-   If you choose **Add Static content**, enter the title, caption, and description, and upload an image. See the next two steps.
+   If you choose **[!UICONTROL Add Static content]**, enter the title, caption, and description, and upload an image. See the next two steps.
 
-1. In the View & Edit window, click **Show Edits** to customize the share prompt and message that will appear in Facebook posts.
+1. In the **[!UICONTROL View & Edit]** window, click **[!UICONTROL Show Edits]** to customize the share prompt and message that will appear in Facebook posts.
 
    >[!TIP]
    >
@@ -66,7 +66,7 @@ When you create a social app, you can configure the social network choices and p
    >
    >If you upload an image, you will not see it here until you close and reopen the social app editor.
 
-1. Click **Next**.
+1. Click **[!UICONTROL Next]**.
 
 If you choose , the values of the page's OpenGraph tags (og:title, og:caption, and og:description) and the thumbnail are automatically added to Facebook posts. See the next step.
 
@@ -80,7 +80,7 @@ If you choose , the values of the page's OpenGraph tags (og:title, og:caption, a
    >
    >Use {html_title} in your tweet text to display the title of the page automatically.
 
-1. Click **Next**.
+1. Click **[!UICONTROL Next]**.
 
 ## Configure the LinkedIn Message {#configure-the-linkedin-message}
 
@@ -88,11 +88,11 @@ If you choose , the values of the page's OpenGraph tags (og:title, og:caption, a
 
    ![](assets/image2014-9-22-12-3a3-3a21.png)
 
-   If you choose **Add Dynamic** content, the values of the pages tags (title and description), and the thumbnail, are automatically added to LinkedIn posts. See the next step.
+   If you choose **[!UICONTROL Add Dynamic]** content, the values of the pages tags (title and description), and the thumbnail, are automatically added to LinkedIn posts. See the next step.
 
-   If you choose **Add Static** content, enter the title, caption, and description, and upload an image. See the next two steps.
+   If you choose **[!UICONTROL Add Static]** content, enter the title, caption, and description, and upload an image. See the next two steps.
 
-1. In the **View & Edit** window, click **Show Edits** and edit the share prompt and message that will appear in LinkedIn posts.
+1. In the **[!UICONTROL View & Edit]** window, click **[!UICONTROL Show Edits]** and edit the share prompt and message that will appear in LinkedIn posts.
 
    ![](assets/image2014-9-22-12-3a3-3a38.png)
 
@@ -100,7 +100,7 @@ If you choose , the values of the page's OpenGraph tags (og:title, og:caption, a
    >
    >Use {html_title} in your post text to display the title of the page automatically.
 
-1. If you chose **Add Static** content above, edit the title and description, and upload a custom image (from your Marketo Images and Files).
+1. If you chose **[!UICONTROL Add Static]** content above, edit the title and description, and upload a custom image (from your Marketo Images and Files).
 
    ![](assets/image2014-9-22-12-3a4-3a43.png)
 
@@ -110,7 +110,7 @@ If you choose , the values of the page's OpenGraph tags (og:title, og:caption, a
    >
    >If you upload an image, you will not see it here until you close and reopen the social app editor.
 
-1. Click **Next**.
+1. Click **[!UICONTROL Next]**.
 
 ## Configure the Confirmation Message {#configure-the-confirmation-message}
 
@@ -118,7 +118,7 @@ If you choose , the values of the page's OpenGraph tags (og:title, og:caption, a
 
    ![](assets/image2014-9-22-12-3a5-3a30.png)
 
-1. Click **Finish** > **Approve** and **Close**.
+1. Click **[!UICONTROL Finish]** > **[!UICONTROL Approve]** and **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
