@@ -13,15 +13,15 @@ exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 
 Once you have created your email program and defined your audience, you'll want to decide what email you're sending. You can [choose an existing email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) or create one from scratch. Here's how to create a new email.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 
-1. Select your email program. Under the **Email** tile, click **New Email**.
+1. Select your email program. Under the **[!UICONTROL Email]** tile, click **[!UICONTROL New Email]**.
 
    ![](assets/newemaildashboard.png)
 
-1. Enter a **Name**, select the template of your choice and click **Create**.
+1. Enter a **[!UICONTROL Name]**, select the template of your choice and click **[!UICONTROL Create]**.
 
    ![](assets/three.png)
 
