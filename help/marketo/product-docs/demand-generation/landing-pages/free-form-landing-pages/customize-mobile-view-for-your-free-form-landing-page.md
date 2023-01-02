@@ -16,11 +16,11 @@ The mobile view of your free-form landing page is mostly automatic, but you can 
 
    ![](assets/selectlandingapge.jpg)
 
-1. Click **Edit Draft**.
+1. Click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Click the **Mobile** tab.
+1. Click the **[!UICONTROL Mobile]** tab.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
@@ -76,15 +76,15 @@ By default, everything on the desktop view is shown on the mobile view.
 
 >[!TIP]
 >
->The mobile view can also have a different arrangement of page elements. Move things around on the free-form landing page, or reorder the objects listed under **Page Elements** using drag and drop.
+>The mobile view can also have a different arrangement of page elements. Move things around on the free-form landing page, or reorder the objects listed under **[!UICONTROL Page Elements]** using drag and drop.
 
 ## Preview Mobile View {#preview-mobile-view}
 
-1. Click **Preview Draft**.
+1. Click **[!UICONTROL Preview Draft]**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. Want to see something cool? Select **Side By Side**.
+1. Want to see something cool? Select **[!UICONTROL Side By Side]**.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
@@ -92,7 +92,7 @@ By default, everything on the desktop view is shown on the mobile view.
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. If you love it, click **Approve and Close**.
+1. If you love it, click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 
