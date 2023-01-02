@@ -30,7 +30,7 @@ It can get tricky mixing emails and programs in an engagement program. You might
 
 >[!TIP]
 >
->Be sure to use a **Member of Engagement Program** filter in your smart list.
+>Be sure to use a **[!UICONTROL Member of Engagement Program]** filter in your smart list.
 
 ## What happens to people who don't meet the smart list criteria? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
@@ -40,9 +40,9 @@ In the event that someone is filtered out of the smart list of a nested programâ
 
 A well-designed nested program contains emails, reports, and smart campaigns. It makes sense to keep these together.
 
-The email you use can live in the program, in a different program, or even in the Design Studio. Where it lives will depend on how you want to use it.
+The email you use can live in the program, in a different program, or even in the [!UICONTROL Design Studio]. Where it lives will depend on how you want to use it.
 
-Reporting changes with email location. So, for example, if the email is in the Design Studio, in the Email Performance Report, all metrics are shown in one line - the different casts are combined. However, in the Engagement Stream Performance Report, the different sends are displayed separately.
+Reporting changes with email location. So, for example, if the email is in the [!UICONTROL Design Studio], in the Email Performance Report, all metrics are shown in one line - the different casts are combined. However, in the Engagement Stream Performance Report, the different sends are displayed separately.
 
 >[!CAUTION]
 >
