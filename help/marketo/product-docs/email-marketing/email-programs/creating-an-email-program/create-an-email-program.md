@@ -8,21 +8,21 @@ exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 
 Use email programs to quickly and easily send an email to group of people.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 
-1. Select the folder you want to create the program in, click the **New** drop-down, and select **New Program**.
+1. Select the folder you want to create the program in, click the **[!UICONTROL New]** drop-down, and select **[!UICONTROL New Program]**.
 
    ![](assets/two.png)
 
-1. Enter a Name, select **Email** as the Program Type, and click **Create**.
+1. Enter a Name, select **[!UICONTROL Email]** as the [!UICONTROL Program Type], and click **[!UICONTROL Create]**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >When selecting **Email** as Program Type, the Channel will automatically be set to **Email Send**. You can change it if you want.
+   >When selecting **[!UICONTROL Email]** as Program Type, the Channel will automatically be set to **[!UICONTROL Email Send]**. You can change it if you want.
 
    ![](assets/four.png)
 
