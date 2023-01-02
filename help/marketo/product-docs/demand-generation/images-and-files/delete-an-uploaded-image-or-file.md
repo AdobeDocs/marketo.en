@@ -6,19 +6,19 @@ exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 ---
 # Delete an Uploaded Image or File {#delete-an-uploaded-image-or-file}
 
-1. Go to the **Design** **Studio**.
+1. Go to the **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-5.png)
 
-1. Select **Images and Files** in the left menu, then click next to the name of the file you want to delete.
+1. Select **[!UICONTROL Images and Files]** in the left menu, then click next to the name of the file you want to delete.
 
    ![](assets/image2014-9-16-11-3a18-3a15.png)
 
-1. Click the **File Actions** drop-down and select **Delete**.
+1. Click the **[!UICONTROL File Actions]** drop-down and select **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-16-11-3a18-3a22.png)
 
-1. Verify you've selected the correct file and click **Delete**.
+1. Verify you've selected the correct file and click **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-16-11-3a18-3a30.png)
 
@@ -26,7 +26,7 @@ exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
    >
    >Deleted images and files are completely removed from Marketo and cannot be recovered.  They will no longer be displayed on any landing pages or emails where they were in use.
 
-1. You'll be returned to the **Images** and **Files** page, where you'll see that your file has been deleted.
+1. You'll be returned to the **[!UICONTROL Images and Files]** page, where you'll see that your file has been deleted.
 
    ![](assets/image2014-9-16-11-3a19-3a0.png)
 
