@@ -6,13 +6,13 @@ exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 ---
 # Use "Subject Line" A/B Testing {#use-subject-line-a-b-testing}
 
-You can easily A/B test your emails. One of the most common tests is the **Subject Line** test.
+You can easily A/B test your emails. One of the most common tests is the **[!UICONTROL Subject Line]** test.
 
 >[!PREREQUISITES]
 >
 >[Add an A/B Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. Under the Email tile, with your email selected, click Add A/B Test.
+1. Under the **[!UICONTROL Email tile]**, with your email selected, click **[!UICONTROL Add A/B Test]**.
 
 ![](assets/image2014-9-12-15-3a6-3a2.png)
 
@@ -28,7 +28,7 @@ You can easily A/B test your emails. One of the most common tests is the **Subje
    >
    >You can click on the **+** to add more subject lines.
 
-1. Use the slider to choose what percentage of the audience you want to receive your A/B test and click **Next**.
+1. Use the slider to choose what percentage of the audience you want to receive your A/B test and click **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-12-15-3a10-3a4.png)
 
