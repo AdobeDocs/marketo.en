@@ -12,15 +12,15 @@ If, at any point, you decide you don't want to continue running your email test,
 >
 >[Champion/Challenger: Approve Your Email Test](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Find and right-click your email test, then click **Discard Test**.
+1. Find and right-click your email test, then click **[!UICONTROL Discard Test]**.
 
    ![](assets/champion5.jpg)
 
-1. Click **Delete** to confirm.
+1. Click **[!UICONTROL Delete]** to confirm.
 
    ![](assets/image2014-9-15-14-3a17-3a11.png)
 
