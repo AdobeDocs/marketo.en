@@ -32,7 +32,7 @@ Need to change your password? Here's how.
 
 ## Change Your Password While Signed Out {#change-your-password-while-signed-out}
 
-1. Navigate to the [Sales Connect log-in](https://toutapp.com/login) page and click **[!UICONTROL Forgot password]**.
+1. Navigate to the [Sales Connect log-in](https://toutapp.com/login) page and click **[!UICONTROL Forgot password?]**.
 
    ![](assets/change-your-sales-connect-password-4.png)
 
