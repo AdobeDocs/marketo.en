@@ -12,13 +12,13 @@ Want to try out a different From Address with no fuss? Here's how.
 >
 >[Add an Email Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. In the email test editor, select **From Address** in the **Test Type** drop-down.
+1. In the email test editor, select **[!UICONTROL From Address]** in the **[!UICONTROL Test Type]** drop-down.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >The first From Address is designated as the **Champion**. Subsequent from addresses are called **Challengers**.
+   >The first From Address is designated as the **[!UICONTROL Champion]**. Subsequent from addresses are called **[!UICONTROL Challengers]**.
 
 1. Enter the **From Name** (left) and **From Address** (right) for the challengers.
 
@@ -40,7 +40,7 @@ Want to try out a different From Address with no fuss? Here's how.
 
    To gain statistical confidence, be sure you choose a percentage that includes enough people that your test is valid. Don't be fooled by inconclusive results. [More information than you ever wanted about statistical confidence](https://en.wikipedia.org/wiki/Confidence_interval).
 
-1. Click **Next**.
+1. Click **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 
