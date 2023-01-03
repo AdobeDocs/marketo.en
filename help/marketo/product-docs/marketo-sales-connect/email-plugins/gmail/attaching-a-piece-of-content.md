@@ -6,7 +6,7 @@ exl-id: eb47b53e-5b6c-4473-93e0-43f6a6f3eb28
 ---
 # Attaching a Piece of Content {#attaching-a-piece-of-content}
 
-Add trackable content by clicking the **Content** button and uploading a file. Any previously tracked content will appear for you to select in the pop-up window without having to upload again.
+Add trackable content by clicking the **[!UICONTROL Content]** button and uploading a file. Any previously tracked content will appear for you to select in the pop-up window without having to upload again.
 
 >[!NOTE]
 >
