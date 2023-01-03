@@ -9,15 +9,15 @@ Need to change your password? Here's how.
 
 ## Change Your Password While Signed In {#change-your-password-while-signed-in}
 
-1. Click the gear icon and select **Settings**.
+1. Click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/change-your-sales-connect-password-1.png)
 
-1. Your My Profile page opens by default. Under Account Details, select the **Change password** checkbox.
+1. Your My Profile page opens by default. Under **[!UICONTROL Account Details]**, select the **[!UICONTROL Change password]** checkbox.
 
    ![](assets/change-your-sales-connect-password-2.png)
 
-1. Enter your current password. Then enter your new one, and re-type it making sure they match. Click **Save** when done.
+1. Enter your current password. Then enter your new one, and re-type it making sure they match. Click **[!UICONTROL Save]** when done.
 
    ![](assets/change-your-sales-connect-password-3.png)
 
@@ -32,15 +32,15 @@ Need to change your password? Here's how.
 
 ## Change Your Password While Signed Out {#change-your-password-while-signed-out}
 
-1. Navigate to the [Sales Connect log-in](https://toutapp.com/login) page and click **Forgot password**.
+1. Navigate to the [Sales Connect log-in](https://toutapp.com/login) page and click **[!UICONTROL Forgot password]**.
 
    ![](assets/change-your-sales-connect-password-4.png)
 
-1. Enter the email address associated with the account and click **Send Reset Email**.
+1. Enter the email address associated with the account and click **[!UICONTROL Send Reset Email]**.
 
    ![](assets/change-your-sales-connect-password-5.png)
 
-1. We will send an email to verify the account owner wants to change the password. Click **Reset Password**.
+1. We will send an email to verify the account owner wants to change the password. Click **[!UICONTROL Reset Password]**.
 
    ![](assets/change-your-sales-connect-password-6.png)
 
@@ -48,6 +48,6 @@ Need to change your password? Here's how.
    >
    >Be sure to check your Spam folder too, as this email can sometimes end up there.
 
-1. Enter and confirm your new password. Click **Set Password** when done.
+1. Enter and confirm your new password. Click **[!UICONTROL Set Password]** when done.
 
    ![](assets/change-your-sales-connect-password-7.png)
