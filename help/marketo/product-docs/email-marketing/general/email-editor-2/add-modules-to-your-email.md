@@ -14,9 +14,9 @@ In Email Editor 2.0, a module is a section of your email that is defined in the 
 
    >[!NOTE]
    >
-   >Most of the Marketo Starter Templates contain Modules. You may also [create your own](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >Most of the Marketo [!UICONTROL Starter Templates] contain [!UICONTROL Modules]. You may also [create your own](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
-1. On the far right of the email, click **Modules**.
+1. On the far right of the email, click **[!UICONTROL Modules]**.
 
    ![](assets/two-3.png)
 
@@ -52,7 +52,7 @@ There are two ways to move a module.
 
    ![](assets/nine-2.png)
 
-1. Click the gear icon, and select **Move Up** or **Move Down**, depending on where you want the module to go.
+1. Click the gear icon, and select **[!UICONTROL Move Up]** or **[!UICONTROL Move Down]**, depending on where you want the module to go.
 
    ![](assets/ten-2.png)
 
