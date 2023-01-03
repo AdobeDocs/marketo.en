@@ -14,23 +14,23 @@ When you create a [referral offer](/help/marketo/product-docs/demand-generation/
 
 In the emails, use these tokens:
 
-* **Sign-up email**: Use **`{{social.Share Url}}`** to send each participating person a personalized share link.
+* **[!UICONTROL Sign-Up Email]**: Use **`{{social.Share Url}}`** to send each participating person a personalized share link.
 
-* **Fulfillment email**: Use **`{{social.Promo Code}}`** to send each winner a [promo code](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md).
+* **[!UICONTROL Fulfillment Email]**: Use **`{{social.Promo Code}}`** to send each winner a [promo code](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md).
 
 >[!PREREQUISITES]
 >
 >Before you can add an email to a social app, it must be _operational_ and _approved_. See [Edit Settings for an Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
-1. Select the app, and click **Edit Draft**.
+1. Select the app, and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-19-16-3a12-3a33.png)
 
-1. In the social app editor, go to **App Settings > Offer Details** (or **Sweepstakes Details**).
+1. In the social app editor, go to **[!UICONTROL App Settings]** > **[!UICONTROL Offer Details]** (or **[!UICONTROL Sweepstakes Details]**).
 
    ![](assets/image2014-9-19-16-3a12-3a41.png)
 
@@ -58,8 +58,8 @@ In the emails, use these tokens:
 >
 >**Definition**
 >
->* **auto on goal**: The fulfillment email is sent automatically as each participant meets the goal.
->* **manually send**: Once people start meeting the goal, return to your referral offer to manually [send the fulfillment email](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
+>* **[!UICONTROL auto on goal]**: The fulfillment email is sent automatically as each participant meets the goal.
+>* **[!UICONTROL manually send]**: Once people start meeting the goal, return to your referral offer to manually [send the fulfillment email](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
 >
 
 >[!MORELIKETHIS]
