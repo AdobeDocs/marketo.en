@@ -8,7 +8,7 @@ exl-id: e749c520-6ae6-4460-89b7-6de3b39ef2c7
 
 For backups and other purposes, Marketo allows you to download the HTML content of an email.
 
-1. Find the email and select it. In the **Email Actions** drop-down click **Download HTML**.
+1. Find the email and select it. In the **[!UICONTROL Email Actions]** drop-down click **[!UICONTROL Download HTML]**.
 
    ![](assets/one-4.png)
 
