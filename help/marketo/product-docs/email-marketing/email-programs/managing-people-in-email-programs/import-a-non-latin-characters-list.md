@@ -16,11 +16,11 @@ But when you import it into Marketo, you might see that the non-English characte
 
 This is because the file is not saved properly for Marketo to recognize all the non-Latin characters. The good news is, there are a few simple steps you can follow to fix it.
 
-1. Select **Save As...** from the **File** menu in Excel.
+1. Select **[!UICONTROL Save As]...** from the **[!UICONTROL File]** menu in Excel.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. Choose **UTF-16 Unicode Text (.txt)** as the **Format** option. This will encode the file the way Marketo can display them.
+1. Choose **[!UICONTROL UTF-16 Unicode Text (.txt)]** as the **[!UICONTROL Format]** option. This will encode the file the way Marketo can display them.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -32,7 +32,7 @@ This is because the file is not saved properly for Marketo to recognize all the 
 
    >[!TIP]
    >
-   >You can open the Text File using **Notepad** if you are using Windows or **TextEdit** if you are using a Mac.
+   >You can open the Text File using **[!DNL Notepad]** if you are using Windows or **[!DNL TextEdit]** if you are using a Mac.
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -40,15 +40,15 @@ This is because the file is not saved properly for Marketo to recognize all the 
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Select **Find and Replace...** from the **Edit** menu.
+1. Select **[!UICONTROL Find and Replace]...** from the **[!UICONTROL Edit]** menu.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
    >[!TIP]
    >
-   >The equivalent action for Windows users is: **Edit > Replace...**
+   >The equivalent action for Windows users is: **[!UICONTROL Edit] > [!UICONTROL Replace]...**
 
-1. Paste the tab you copied in step 4 into the first (to be replaced) box, and type in a comma in the second (replace with) box. And click **All**.
+1. Paste the tab you copied in step 4 into the first (to be replaced) box, and type in a comma in the second (replace with) box. And click **[!UICONTROL All]**.
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 
