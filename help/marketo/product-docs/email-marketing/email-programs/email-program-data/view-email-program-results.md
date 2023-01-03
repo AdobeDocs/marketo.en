@@ -6,9 +6,9 @@ exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
 ---
 # View Email Program Results {#view-email-program-results}
 
-Just like the Results tab in smart campaigns, you can see the same information in email programs.
+Just like the [!UICONTROL Results] tab in smart campaigns, you can see the same information in email programs.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -20,11 +20,11 @@ Just like the Results tab in smart campaigns, you can see the same information i
    >
    >If the email program has already run, you will be taken directly to the email program dashboard.
 
-1. Under **View**, select **Control Panel**.
+1. Under **View**, select **[!UICONTROL Control Panel]**.
 
    ![](assets/controlpanelview.jpg)
 
-1. Under the **Audience** tile, click **View Results**.
+1. Under the **[!UICONTROL Audience]** tile, click **[!UICONTROL View Results]**.
 
    ![](assets/audiencetile.jpg)
 
