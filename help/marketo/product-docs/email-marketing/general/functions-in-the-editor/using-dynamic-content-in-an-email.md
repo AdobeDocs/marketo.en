@@ -18,15 +18,15 @@ Use Dynamic Content in Emails to send your leads targeted information.
 
 ## Add Segmentation {#add-segmentation}
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Select your email and click **Edit Draft**.
+1. Select your email and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/1.2.png)
 
-1. In this example we're making the Subject Line dynamic. Click in the Subject field, then click the **Make Dynamic** button.
+1. In this example we're making the Subject Line dynamic. Click in the [!UICONTROL Subject] field, then click the **Make Dynamic** button.
 
    ![](assets/1.3.png)
 
@@ -34,11 +34,11 @@ Use Dynamic Content in Emails to send your leads targeted information.
    >
    >You can also make an element inside the email dynamic. To do this, select the area, click the gear icon, and select **Make Dynamic** (or [Replace with Snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), depending on what you're doing).
 
-1. Enter the Segmentation name, select it, and click **Save**.
+1. Enter the Segmentation name, select it, and click **[!UICONTROL Save]**.
 
    ![](assets/1.4.png)
 
-   Your segmentation and its segments appear under the Dynamic tab on the right.
+   Your segmentation and its segments appear under the [!UICONTROL Dynamic] tab on the right.
 
    ![](assets/1.5.png)
 
