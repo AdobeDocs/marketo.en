@@ -15,7 +15,7 @@ exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 
 With your email program created, audience defined, and email selected, you will want to tell your program *when* to send the email. Here's how.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,7 +23,7 @@ With your email program created, audience defined, and email selected, you will 
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. Under the **Schedule** tile, set the date.
+1. Under the **[!UICONTROL Schedule]** tile, set the date.
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
@@ -31,7 +31,7 @@ With your email program created, audience defined, and email selected, you will 
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. You can also choose to use the [Recipient Time Zone](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) and/or [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) features.
+1. You can also choose to use the [[!UICONTROL Recipient Time Zone]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) and/or [[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) features.
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
