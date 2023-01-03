@@ -8,11 +8,11 @@ exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 
 Preview your email after adding dynamic content in order to verify it.
 
-1. Select your email and click **Preview Email**.
+1. Select your email and click **[!UICONTROL Preview Email]**.
 
    ![](assets/one-3.png)
 
-1. Click the View By drop-down and select the type of dynamic content you want to preview.
+1. Click the **[!UICONTROL View By]** drop-down and select the type of dynamic content you want to preview.
 
    ![](assets/two-3.png)
 
@@ -26,7 +26,7 @@ Preview your email after adding dynamic content in order to verify it.
 
 You can also preview dynamic content directly in the email editor.
 
-1. Under **Content**, click the **Dynamic** tab.
+1. Under **[!UICONTROL Content]**, click the **[!UICONTROL Dynamic]** tab.
 
    ![](assets/five-1.png)
 
