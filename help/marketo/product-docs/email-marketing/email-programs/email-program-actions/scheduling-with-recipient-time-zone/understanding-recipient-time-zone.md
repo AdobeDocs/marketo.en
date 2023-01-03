@@ -10,7 +10,7 @@ Email and engagement programs can be configured to be delivered according to rec
 
 >[!NOTE]
 >
->Recipient Time Zone currently works **only** with email content. It will not work for default engagement programs.
+>[!UICONTROL Recipient Time Zone] currently works **only** with email content. It will not work for default engagement programs.
 
 ## Email Programs {#email-programs}
 
@@ -19,11 +19,11 @@ There are two primary scenarios when [scheduling an email program](/help/marketo
 1. Scheduling the program to run within the next 25 hours.
 1. Scheduling the program to run more than 25 hours in the future (i.e., next week).
 
-In order to accommodate every time zone, email programs scheduled with Recipient Time Zone start running at midnight in the **first/earliest** time zone in the world (UTC +14:00).
+In order to accommodate every time zone, email programs scheduled with [!UICONTROL Recipient Time Zone] start running at midnight in the **first/earliest** time zone in the world (UTC +14:00).
 
 ## Engagement Programs {#engagement-programs}
 
-When you [schedule an engagement program stream](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) and Recipient Time Zone is active, the program cast will start running at midnight in UTC +14:00. We require you to schedule the first cast at least 25 hours in the future (24 hours + some time to get the campaign started) because people may qualify for the cast in every time zone across the globe. Starting processing at this time in UTC +14:00 guarantees that we'll send the email at the scheduled date and time for every person who qualifies for this cast.
+When you [schedule an engagement program stream](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) and [!UICONTROL Recipient Time Zone] is active, the program cast will start running at midnight in UTC +14:00. We require you to schedule the first cast at least 25 hours in the future (24 hours + some time to get the campaign started) because people may qualify for the cast in every time zone across the globe. Starting processing at this time in UTC +14:00 guarantees that we'll send the email at the scheduled date and time for every person who qualifies for this cast.
 
 ## Calculating Time Zone {#calculating-time-zone}
 
@@ -42,7 +42,7 @@ If we're still unable to determine someone's time zone from any combination of t
 
 >[!MORELIKETHIS]
 >
->* [Schedule Email Programs with Recipient Time Zone](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Schedule Email Programs with [!UICONTROL Recipient Time Zone]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [Head Start for Email Programs](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 >
->* [Schedule Engagement Programs with Recipient Time Zone](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
+>* [Schedule Engagement Programs with [!UICONTROL Recipient Time Zone]](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
