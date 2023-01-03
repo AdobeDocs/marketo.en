@@ -18,19 +18,19 @@ Follow these steps to create a new email template.
 
 ## Create a New Email Template {#create-a-new-email-template}
 
-1. Click **Design Studio**.
+1. Click **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Click **New**, then select **New Email Template**.
+1. Click **[!UICONTROL New]**, then select **[!UICONTROL New Email Template]**.
 
    ![](assets/ds-two.png)
 
-1. Give your new template a name and click **Create**.
+1. Give your new template a name and click **[!UICONTROL Create]**.
 
    ![](assets/three-1.png)
 
-1. To begin editing your new template, click **Edit Draft**.
+1. To begin editing your new template, click **[!UICONTROL Edit Draft]**.
 
    ![](assets/4.png)
 
@@ -42,19 +42,19 @@ Follow these steps to create a new email template.
 
 If you created an email you'd like to save as a template for future use, follow these simple steps.
 
-1. Click **Marketing Activities**.
+1. Click **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 
-1. Find and select your email, then click **Edit Draft**.
+1. Find and select your email, then click **[!UICONTROL Edit Draft]**.
 
    ![](assets/two-1.png)
 
-1. Click the **Email Actions** drop-down and select **Save as Template**.
+1. Click the **[!UICONTROL Email Actions]** drop-down and select **[!UICONTROL Save as Template]**.
 
    ![](assets/four-1.png)
 
-1. Click the **Folder** drop-down, select where you want the template to live, and click **Save**.
+1. Click the **[!UICONTROL Folder]** drop-down, select where you want the template to live, and click **[!UICONTROL Save]**.
 
    ![](assets/five-1.png)
 
