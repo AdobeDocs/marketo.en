@@ -10,7 +10,7 @@ exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 >
 >**Admin Permissions Required**
 
-You will need to download and install a Marketo Solution into your Microsoft Dynamics account to get the sync started.
+You will need to download and install a Marketo Solution into your [!DNL Microsoft Dynamics] account to get the sync started.
 
 >[!CAUTION]
 >
@@ -20,7 +20,7 @@ You will need to download and install a Marketo Solution into your Microsoft Dyn
 >
 >Marketo only supports SSL certs that are compatible with Java 7 at this time.
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 
@@ -32,11 +32,11 @@ You will need to download and install a Marketo Solution into your Microsoft Dyn
 
    ![](assets/download-the-marketo-lead-management-solution-3.png)
 
-1. Select **Download Marketo Solution**.
+1. Select **[!UICONTROL Download Marketo Solution]**.
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 
-1. Select the appropriate solution for your Microsoft Dynamics version.
+1. Select the appropriate solution for your [!DNL Microsoft Dynamics] version.
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 
