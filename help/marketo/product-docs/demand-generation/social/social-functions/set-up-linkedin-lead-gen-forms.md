@@ -12,15 +12,15 @@ Use LinkedIn Lead Gen Forms to run ad campaigns in LinkedIn and generate leads f
 >
 >**Admin Permissions Required**
 
-1. Go to Marketo **Admin**.
+1. Go to Marketo **[!UICONTROL Admin]**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Go to **LaunchPoint**, click on **New** and select **New Service**.
+1. Go to **[!UICONTROL LaunchPoint**, click on **[!UICONTROL New]** and select **[!UICONTROL New Service]**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Enter a **Display Name** for your service, select the **LinkedIn Lead Gen** service from the drop-down, and click **Next**.
+1. Enter a **[!UICONTROL Display Name]** for your service, select the **[!UICONTROL LinkedIn Lead Gen]** service from the drop-down, and click **[!UICONTROL Create]**.
 
    ![](assets/linkedin-lead-gen.png)
 
@@ -32,23 +32,23 @@ Use LinkedIn Lead Gen Forms to run ad campaigns in LinkedIn and generate leads f
 
    ![](assets/linkedin-login.png)
 
-1. After you're logged into LinkedIn, return to Marketo and click **Authorize**.
+1. After you're logged into LinkedIn, return to Marketo and click **[!UICONTROL Authorize]**.
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
-1. When prompted, click **Allow** to accept the Marketo app installation into LinkedIn.
+1. When prompted, click **[!UICONTROL Allow]** to accept the Marketo app installation into LinkedIn.
 
    ![](assets/linkedin-marketo-allow.png)
 
-1. You'll notice you are now authorized. Click **Next**.
+1. You'll notice you are now authorized. Click **[!UICONTROL Next]**.
 
    ![](assets/image2017-9-28-7-3a55-3a14.png)
 
    >[!CAUTION]
    >
-   >The service automatically expires one year after authorization. To regain access, simply click **Re-Authorize**. You may have to re-enter your LinkedIn password, depending on your browser settings.
+   >The service automatically expires one year after authorization. To regain access, simply click **[!UICONTROL Re-Authorize]**. You may have to re-enter your LinkedIn password, depending on your browser settings.
 
-1. Select the account(s) you want LinkedIn Lead Gen leads to come into Marketo from and click **Next**.
+1. Select the account(s) you want LinkedIn Lead Gen leads to come into Marketo from and click **[!UICONTROL Create]**.
 
    >[!TIP]
    >
@@ -56,7 +56,7 @@ Use LinkedIn Lead Gen Forms to run ad campaigns in LinkedIn and generate leads f
 
    ![](assets/linkedin-pages-to-capture.png)
 
-1. To accept default LinkedIn to Marketo field mappings, simply click **Create**. If you would like to change the default field mapping, remove a field mapping, or add a new field mapping, you can do this on a per field basis through the modal below.
+1. To accept default LinkedIn to Marketo field mappings, simply click **[!UICONTROL Create]**. If you would like to change the default field mapping, remove a field mapping, or add a new field mapping, you can do this on a per field basis through the modal below.
 
    >[!CAUTION]
    >
