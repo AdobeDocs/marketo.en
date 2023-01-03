@@ -8,10 +8,10 @@ exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 
 The email header in Marketo is fully customizable. It consists of four fields:
 
-* **From** - The name of the sender as you want it to appear
-* **From Address** - The email address of the sender as you want it to appear
-* **Reply-to** - The email address you want a person's reply to be sent to (can be different than From Address)
-* **Subject** - The email's subject line
+* **[!UICONTROL From]** - The name of the sender as you want it to appear
+* **[!UICONTROL From Address]** - The email address of the sender as you want it to appear
+* **[!UICONTROL Reply-to]** - The email address you want a person's reply to be sent to (can be different than [!UICONTROL From Address])
+* **[!UICONTROL Subject]** - The email's subject line
 
 To edit these values, click in each field and enter your information.
 
@@ -29,11 +29,11 @@ You can also make the field dynamic by using segments.
 
 ![](assets/three-2.png)
 
-The key icon to the far right in the From Address field lets you know if you're using a custom DKIM signature.
+The key icon to the far right in the [!UICONTROL From Address] field lets you know if you're using a custom DKIM signature.
 
 ![](assets/four-2.png)
 
-The counter to the far right in the Subject field helps you keep your subject line below the recommended 50 character limit.
+The counter to the far right in the [!UICONTROL Subject] field helps you keep your subject line below the recommended 50 character limit.
 
 ![](assets/five-1.png)
 
