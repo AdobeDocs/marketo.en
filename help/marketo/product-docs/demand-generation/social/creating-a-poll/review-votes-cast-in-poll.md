@@ -8,11 +8,11 @@ exl-id: 1877c5d2-0842-468c-826b-8027270ab292
 
 Who voted for what in your poll? Let's find out.
 
-1. In **[!UICONTROL Marketing Activities]**, select the **[!UICONTROL Poll]**, and click the **[!UICONTROL Participants]** tab.
+1. In **[!UICONTROL Marketing Activities]**, select the poll, and click the **[!UICONTROL Participants]** tab.
 
    ![](assets/image2015-5-12-14-3a35-3a10.png)
 
-1. Click the number in the ****[!UICONTROL Votes]* column.
+1. Click the number in the **[!UICONTROL Votes]** column.
 
    ![](assets/image2015-5-12-14-3a36-3a36.png)
 
