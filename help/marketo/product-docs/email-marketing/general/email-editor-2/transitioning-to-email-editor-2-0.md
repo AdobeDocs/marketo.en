@@ -4,26 +4,26 @@ description: Transitioning to Email Editor 2.0 - Marketo Docs - Product Document
 title: Transitioning to Email Editor 2.0
 exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 ---
-# Transitioning to Email Editor 2.0 {#transitioning-to-email-editor}
+# Transitioning to [!DNL Email Editor 2.0] {#transitioning-to-email-editor}
 
-As of the June '19 release, all Marketo subscriptions have been transitioned to Email Editor 2.0. [Learn more](https://nation.marketo.com/docs/DOC-7038) about the Email Editor 1.0 deprecation.
+As of the June '19 release, all Marketo subscriptions have been transitioned to [!DNL Email Editor 2.0]. [Learn more](https://nation.marketo.com/docs/DOC-7038) about the [!DNL Email Editor 1.0] deprecation.
 
 Emails and email templates within your subscription should have a version number. The version can be found in the asset’s summary page.
 
 ![](assets/five-5.png)
 
-By default, all of your existing emails and email templates will be marked as v1.0 if they were created either prior to the Spring ’16 Release, or after the release when Email Editor 2.0 is disabled. With Email Editor 2.0 now automatically enabled, you will see the following behavior:
+By default, all of your existing emails and email templates will be marked as v1.0 if they were created either prior to the Spring ’16 Release, or after the release when [!DNL Email Editor 2.0] is disabled. With [!DNL Email Editor 2.0] now automatically enabled, you will see the following behavior:
 
 * When you create a new email, the [Email Template Picker](email-template-picker-overview.md) will display and you'll be able to choose a v2.0 email template.
-* Whenever you create or edit an email with Email Editor 2.0, the resulting email will **always** be marked as v2.0 (even if you used a v1.0 email template).
+* Whenever you create or edit an email with [!DNL Email Editor 2.0], the resulting email will **always** be marked as v2.0 (even if you used a v1.0 email template).
 
-If your subscription has v1.0 emails before the move to Email Editor 2.0, you will experience the following behavior based on the asset's current state:
+If your subscription has v1.0 emails before the move to [!DNL Email Editor 2.0], you will experience the following behavior based on the asset's current state:
 
 **Approved** - Clicking “Edit Draft” will create a v2.0 draft of the approved email. If you then approve the v2.0 draft, the approved state of the email becomes v2.0 and there is no way to revert back to v1.0.  
 **Draft** - Clicking “Edit Draft” will automatically mark that draft as v2.0. At this point, it will not be possible to discard and revert to v1.0 because there is no approved version of the asset.
 **Approved with Draft** - Clicking “Edit Draft” will then automatically mark that draft as v2.0. Because of this, there is also no way to revert the draft back to v1.0.
 
-If your subscription has v1.0 email templates before the move to Email Editor 2.0, you will experience the following behavior:
+If your subscription has v1.0 email templates before the move to [!DNL Email Editor 2.0], you will experience the following behavior:
 
 **Approved** - Clicking “Edit Draft” will create a v2.0 draft of the existing email template.
 **Draft** - Clicking “Edit Draft” will automatically mark that draft as v2.0. At this point, it would not be possible to discard and revert to v1.0 because there is no approved version of the asset.
@@ -51,9 +51,9 @@ Things to Note
 
 * Approved email templates are **never** changed.
 
-* In a few **rare** cases, a v1.0 Email can't be opened in Email Editor 2.0. If this occurs, discard the draft and contact Marketo Support.
+* In a few **rare** cases, a v1.0 Email can't be opened in [!DNL Email Editor 2.0]. If this occurs, discard the draft and contact Marketo Support.
 
 >[!MORELIKETHIS]
 >
->* [Email Editor 2.0 Overview](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>* [[!DNL Email Editor 2.0] Overview](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
 >* [Email Template Syntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
