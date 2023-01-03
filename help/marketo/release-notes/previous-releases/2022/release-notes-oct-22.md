@@ -18,7 +18,7 @@ The following features fall under the standard release cycle and will start to b
 
 </br>
 
-* **Program Member Custom Field Sync**: Ability to bidirectionally sync extensible fields captured for a program member (e.g., attendee preferences during event registration such as food, sessions, tracks, etc.)
+* **Program Member Custom Field Sync**: Ability to bidirectionally sync extensible fields captured for a program member (e.g., attendee preferences during event registration such as food, sessions, tracks, etc.) with Campaign Member Fields in Salesforce.
 
 <table> 
   <tr> 
