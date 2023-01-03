@@ -8,15 +8,15 @@ exl-id: 21c7a136-eafd-4851-a4dd-0e10bb5dacde
 
 When you create a social app, you can add a link to your company’s privacy policy.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Select the app, and click **Edit Draft**.
+1. Select the app, and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-22-10-3a50-3a22.png)
 
-1. In the social app editor, go to **App Settings** > **Advanced Options**.
+1. In the social app editor, go to **[!UICONTROL App Settings]** > **[!UICONTROL Advanced Options]**.
 
    ![](assets/image2014-9-22-10-3a50-3a38.png)
 
