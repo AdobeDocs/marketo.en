@@ -12,7 +12,7 @@ When running an email program, you can choose to ignore or respect the [admin le
 >
 >Communication limits are [set in the Admin section](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) and help you avoid sending one person too many emails.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -20,12 +20,12 @@ When running an email program, you can choose to ignore or respect the [admin le
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. Under the **Setup** tab, double-click the communication limit line item.
+1. Under the **[!UICONTROL Setup]** tab, double-click the communication limit line item.
 
    ![](assets/blockoperational.png)
 
-1. By default, non-operational emails are blocked if communication limits are reached, but if you want to bypass them, clear the checkbox and click **Save**.
+1. By default, non-operational emails are blocked if communication limits are reached, but if you want to bypass them, clear the checkbox and click **[!UICONTROL Save]**.
 
    ![](assets/ifaperson.jpg)
 
-   Leaving **Block non-operational emails** checked will prevent sending the email to anyone who has received more emails than your admin settings allow.
+   Leaving **[!UICONTROL Block non-operational emails]** checked will prevent sending the email to anyone who has received more emails than your admin settings allow.
