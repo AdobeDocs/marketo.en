@@ -10,15 +10,15 @@ Sometimes you may need to modify an email's underlying HTML. Sometimes you may u
 
 ## Edit HTML {#edit-html}
 
-1. Select your email and click **Edit Draft**.
+1. Select your email and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/teamspidey.jpg)
 
-1. Click **Edit Code**.
+1. Click **[!UICONTROL Edit Code]**.
 
    ![](assets/two-4.png)
 
-1. Make any changes. Click **Save** when done.
+1. Make any changes. Click **[!UICONTROL Save]** when done.
 
    ![](assets/three-3.png)
 
@@ -26,7 +26,7 @@ Sometimes you may need to modify an email's underlying HTML. Sometimes you may u
    >
    >Change whatever you want. You can replace the entire HTML or make minor adjustments.
 
-1. Click the **Code Actions** drop-down to download the code as an .html file, inline your CSS, or validate the HTML.
+1. Click the **[!UICONTROL Code Actions]** drop-down to download the code as an .html file, inline your CSS, or validate the HTML.
 
    ![](assets/four-2.png)
 
@@ -55,15 +55,15 @@ These things you can do in the code editor **will** break the email from its tem
 
 Use the Search Code functionality to efficiently find and replace content within your email’s HTML code.
 
-1. In your email's code, click **Search Code**.
+1. In your email's code, click **[!UICONTROL Search Code]**.
 
    ![](assets/five-2.png)
 
-1. Enter what you want to find and click **Find Next** to search forward or **Find Previous** to search backwards. You also have the option to **Replace** and **Replace All**.
+1. Enter what you want to find and click **[!UICONTROL Find Next]** to search forward or **[!UICONTROL Find Previous]** to search backwards. You also have the option to **[!UICONTROL Replace]** and **[!UICONTROL Replace All]**.
 
    ![](assets/six-1.png)
 
-1. Click **Close** when done.
+1. Click **[!UICONTROL Close]** when done.
 
    ![](assets/seven.png)
 
