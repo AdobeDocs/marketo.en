@@ -20,19 +20,19 @@ Here's where you can see your top 10 pieces of discovered content, including vie
 
 ![](assets/image2017-10-3-10-3a4-3a40.png)
 
-## Predictive Engagement {#predictive-engagement}
+## [!UICONTROL Predictive Engagement] {#predictive-engagement}
 
 See your conversion rate by comparing total clicks and direct leads, and compare performance of the different sources.
 
 ![](assets/predictive-engagement-actual.png)
 
-## Content Trend by Views  {#content-trend-by-views}
+## [!UICONTROL Content Trend by Views]  {#content-trend-by-views}
 
 Compare how your views of all content match up with your predictive content.
 
 ![](assets/4.png)
 
-## Top Categories by Engagement {#top-categories-by-engagement}
+## [!UICONTROL Top Categories by Engagement] {#top-categories-by-engagement}
 
 Which categories of content are most engaging? See it in this graph.
 
@@ -40,4 +40,4 @@ Which categories of content are most engaging? See it in this graph.
 
 >[!NOTE]
 >
->If you click a category link (examples in the above image: leadgen, email, etc,.) it opens the All content page with the category you clicked on added to the filter, displaying the content analytics in that category.
+>If you click a category link (examples in the above image: [!UICONTROL leadgen], [!UICONTROL email], etc,.) it opens the All content page with the category you clicked on added to the filter, displaying the content analytics in that category.
