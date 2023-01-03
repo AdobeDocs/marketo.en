@@ -8,23 +8,23 @@ exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 
 Create an Email Link Performance report to see how well the links in your emails are performing.
 
-1. [Create a report in a program](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) and select **Email Link Performance** as the report type.
+1. [Create a report in a program](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) and select **[!UICONTROL Email Link Performance]** as the report type.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
-1. Click **Setup**.
+1. Click **[!UICONTROL Setup]**.
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
-1. Double-click on **Date of Activity** under **Settings**.
+1. Double-click on **[!UICONTROL Date of Activity]** under **[!UICONTROL Settings]**.
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. Set an appropriate time frame for your report. Click **Save**.
+1. Set an appropriate time frame for your report. Click **[!UICONTROL Save]**.
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
-1. Click **Report**.
+1. Click **[!UICONTROL Report]**.
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 
@@ -37,29 +37,29 @@ Create an Email Link Performance report to see how well the links in your emails
 <table> 
  <thead> 
   <tr> 
-   <th colspan="1" rowspan="1">Column</th> 
+   <th colspan="1" rowspan="1">[!UICONTROL Column]</th> 
    <th colspan="1" rowspan="1">Description</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1">Link</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL Link]</td> 
    <td colspan="1" rowspan="1">Grouped by email name.<br>Click the plus (+) to see all links included that email.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Clicks</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL Clicks]</td> 
    <td colspan="1" rowspan="1">The number of times that link was clicked.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">% Clicks</td> 
+   <td colspan="1" rowspan="1">% [!UICONTROL Clicks]</td> 
    <td colspan="1" rowspan="1">Of the total clicks on all links in that email, percentage on this link.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">People</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL People]</td> 
    <td colspan="1" rowspan="1">The number of unique people who clicked the link.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">% People</td> 
+   <td colspan="1" rowspan="1">% [!UICONTROL People]</td> 
    <td colspan="1" rowspan="1">Of the total unique people who clicked links in that email, percentage on this link.</td> 
   </tr> 
  </tbody> 
