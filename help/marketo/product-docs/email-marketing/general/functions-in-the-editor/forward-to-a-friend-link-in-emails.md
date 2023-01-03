@@ -12,11 +12,11 @@ For example, say Keith uses the ‘Forward to Friend’ link to forward the emai
 
 ## Add the Link to an Email Template {#add-the-link-to-an-email-template}
 
-1. Go to the **Design Studio**.
+1. Go to the **[!UICONTROL Design Studio]**.
 
    ![](assets/one-8.png)
 
-1. Find and select the email template you want to add the link to. Click **Edit Draft**.
+1. Find and select the email template you want to add the link to. Click **[!UICONTROL Edit Draft]**.
 
    ![](assets/two-7.png)
 
@@ -37,7 +37,7 @@ For example, say Keith uses the ‘Forward to Friend’ link to forward the emai
    >
    >We do not recommend using the styling **position:relative** in your email template. It may create issues with the position and display of the ‘Forward to Friend’ box.
 
-1. Click **Preview Draft** to make sure the template looks the way you want it to.
+1. Click **[!UICONTROL Preview Draft]** to make sure the template looks the way you want it to.
 
    ![](assets/four-5.png)
 
@@ -45,7 +45,7 @@ For example, say Keith uses the ‘Forward to Friend’ link to forward the emai
    >
    >Remember to approve the template draft to apply the changes.
 
-   Now all emails that use that template will have the 'Forward to Friend' link. When the email recipient clicks it, they will be taken to a web version of the email with the ‘Forward to a Friend’ box:
+   Now all emails that use that template will have the 'Forward to Friend' link. When the email recipient clicks it, they will be taken to a web version of the email with the ‘[!UICONTROL Forward to a Friend]’ box:
 
    ![](assets/f2afbox.png)
 
@@ -77,7 +77,7 @@ You can also add the 'Forward to Friend' link directly into an email.
 
    ![](assets/eight-1.png)
 
-1. Paste the **`{{system.forwardToFriendLink}}`** token into the **URL** box using Ctrl/Cmd+V, then click **Insert**.
+1. Paste the **`{{system.forwardToFriendLink}}`** token into the **URL** box using Ctrl/Cmd+V, then click **[!UICONTROL Insert]**.
 
    ![](assets/nine.png)
 
@@ -93,7 +93,7 @@ You can also add the 'Forward to Friend' link directly into an email.
 
 You can see who forwarded and received the emails in the person's Activity Log.
 
-1. Go to the **`Database`**.
+1. Go to the **[!UICONTROL Database]**.
 
    ![](assets/db.png)
 
@@ -101,7 +101,7 @@ You can see who forwarded and received the emails in the person's Activity Log.
 
    ![](assets/fourteen.png)
 
-1. Go to the **Activity Log** tab. Double-click **Received Forward to Friend Email** or **Sent Forward to Friend Email** to see details.
+1. Go to the **[!UICONTROL Activity Log]** tab. Double-click **[!UICONTROL Received Forward to Friend Email]** or **[!UICONTROL Sent Forward to Friend Email]** to see details.
 
    ![](assets/fifteen.png)
 
@@ -115,20 +115,20 @@ You can see who forwarded and received the emails in the person's Activity Log.
 
    ![](assets/sixteen.png)
 
-1. To view a person by ID, copy and paste the **Person ID** to the end of the URL (the beginning of said URL will depend on your Marketo instance):
+1. To view a person by ID, copy and paste the **[!UICONTROL Person ID]** to the end of the URL (the beginning of said URL will depend on your Marketo instance):
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
    >[!NOTE]
    >
-   >We will make the **Person ID** clickable and link directly to the person in an upcoming patch.
+   >We will make the **[!UICONTROL Person ID]** clickable and link directly to the person in an upcoming patch.
 
    ![](assets/seventeen.png)
 
    >[!NOTE]
    >
-   >If the friend receiving the forward is an unknown person, a new person is created with ‘Forward to Friend’ marked as the person’s **Source**.
-   >If the email is a local asset of a program, the program is marked as the person’s **Acquisition Program**.
+   >If the friend receiving the forward is an unknown person, a new person is created with ‘Forward to Friend’ marked as the person’s **[!UICONTROL Source]**.
+   >If the email is a local asset of a program, the program is marked as the person’s **[!UICONTROL Acquisition Program]**.
 
 ## Trigger or Filter using Forwarding Activity {#trigger-or-filter-using-forwarding-activity}
 
@@ -140,4 +140,4 @@ In a smart campaign's smart list, if you search for “forward” you will find 
 
 ## Test Forward to Friend {#test-forward-to-friend}
 
-To test ‘Forward to Friend,’ send yourself an email with the forward link. Make sure you send it through the **Send Email** flow step, *not* through **Send Test Email**.
+To test ‘Forward to Friend,’ send yourself an email with the forward link. Make sure you send it through the **[!UICONTROL Send Email]** flow step, *not* through **[!UICONTROL Send Test Email]**.
