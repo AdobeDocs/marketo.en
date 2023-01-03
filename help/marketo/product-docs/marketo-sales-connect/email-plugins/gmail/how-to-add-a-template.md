@@ -6,7 +6,7 @@ exl-id: b88cbca8-117c-4100-819d-90666b26b275
 ---
 # How to Add a Template {#how-to-add-a-template}
 
-1. In a new message, click **Templates**.
+1. In a new message, click **[!UICONTROL Templates]**.
 
 1. By default, we will show your recently used templates.
 
