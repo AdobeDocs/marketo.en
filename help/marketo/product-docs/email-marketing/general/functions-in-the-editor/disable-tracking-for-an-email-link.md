@@ -8,7 +8,7 @@ exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 
 Sometimes you don't want to enable the **Marketo Tracking URL** on a link in an email. This is useful when the destination page does not support URL parameters and may result in a broken link.
 
-1. Select your email and click **Edit Draft**.
+1. Select your email and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/one-7.png)
 
@@ -20,11 +20,11 @@ Sometimes you don't want to enable the **Marketo Tracking URL** on a link in an 
 
    ![](assets/three-6.png)
 
-1. In the Edit Link pop-up, uncheck the **Track Link** checkbox.
+1. In the Edit Link pop-up, uncheck the **[!UICONTROL Track Link]** checkbox.
 
    ![](assets/four-4.png)
 
-1. You'll notice the **Include mkt_tok box** disappears. Click **Apply**.
+1. You'll notice the **[!UICONTROL Include mkt_tok] box** disappears. Click **[!UICONTROL Apply]**.
 
    ![](assets/five-3.png)
 
@@ -32,7 +32,7 @@ Sometimes you don't want to enable the **Marketo Tracking URL** on a link in an 
    >
    >Unchecking just **Include mkt_tok** will still allow the link to be tracked, but after redirect, the destination URL will not include the mkt_tok query string parameter. This parameter is used by Marketo Landing Pages and Munchkin to ensure proper tracking of person activities (like when a person unsubscribes from an email). You should avoid using this feature unless you're seeing weird behavior on your website due to the parameter being present.
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 
