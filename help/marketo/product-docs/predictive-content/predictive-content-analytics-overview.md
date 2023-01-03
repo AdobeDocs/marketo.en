@@ -10,15 +10,15 @@ Use content analytics to gain further insights into your existing content, learn
 
 >[!NOTE]
 >
->The Analytics tab and content analytics features are available exclusively with Marketo Predictive Content.
+>The [!UICONTROL Analytics] tab and content analytics features are available exclusively with Marketo Predictive Content.
 
 ## Overview {#overview}
 
-On the Summary page, click **Analytics**.
+On the Summary page, click **[!UICONTROL Analytics]**.
 
 ![](assets/one.png)
 
-Analytics comprises several sections: Top Content by Views, Top Content by Conversion Rate, Trending Content, Suggested Content, and Content.
+[!UICONTROL Analytics] comprises several sections: [!UICONTROL Top Content by Views], [!UICONTROL Top Content by Conversion Rate], [!UICONTROL Trending Content], [!UICONTROL Suggested Content], and [!UICONTROL Content].
 
 ![](assets/new-2.png)
 
@@ -30,7 +30,7 @@ Click the export button to export that section's results via Excel.
 
 ![](assets/new-3point5.png)
 
-You can filter results by various attributes/properties (e.g. ABM Account List, Country, etc.).
+You can filter results by various attributes/properties (e.g. [!UICONTROL ABM Account List], [!UICONTROL Country], etc.).
 
 ![](assets/pca.png)
 
@@ -38,13 +38,13 @@ Click the calendar icon to change the dates of the reflected data. Choose a pres
 
 ![](assets/dates.png)
 
-## Top Content by Views {#top-content-by-views}
+## [!UICONTROL Top Content by Views] {#top-content-by-views}
 
 Displays the top content pieces by number of views per the selected date range.
 
 ![](assets/new-6.png)
 
-## Top Content by Conversion Rate {#top-content-by-conversion-rate}
+## [!UICONTROL Top Content by Conversion Rate] {#top-content-by-conversion-rate}
 
 Displays the top converting content by conversion rate for the selected date range.
 
@@ -56,13 +56,13 @@ Displays the top converting content by conversion rate for the selected date ran
 >
 >**Conversion Rate**: A percentage calculated by direct conversions divided by clicks.
 
-## Trending Content {#trending-content}
+## [!UICONTROL Trending Content] {#trending-content}
 
 Displays a content piece's surge in popularity by looking at the last two-week increase in views compared to the same previous period.
 
 ![](assets/new-8.png)
 
-## Suggested Content {#suggested-content}
+## [!UICONTROL Suggested Content] {#suggested-content}
 
 Displays content we suggest you promote in your Marketing Activities based on the filter you defined.
 
@@ -76,7 +76,7 @@ Hover over an image in Suggested Content to reveal available options.
 >
 >See those icons at the bottom? Left to right they are: View Content, Export to CSV, Approve Content.
 
-## Content {#content}
+## [!UICONTROL Content] {#content}
 
 ![](assets/image2017-10-3-10-3a22-3a24.png)
 
