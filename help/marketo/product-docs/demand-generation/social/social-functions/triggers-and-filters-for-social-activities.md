@@ -12,11 +12,11 @@ Social apps in Marketo have their own special triggers and filters.
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
-1. To use social _triggers_, select your smart campaign and click the **Smart List** tab. On the right, click the + to expand **Triggers**, then **Social**.
+1. To use social _triggers_, select your smart campaign and click the **[!UICONTROL Smart List]** tab. On the right, click the + to expand **[!UICONTROL Triggers]**, then **[!UICONTROL Social]**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. To use social _filters_, click the **+** to expand the **Filters**.
+1. To use social _filters_, click the **+** to expand the **[!UICONTROL Filters]**.
 
    ![](assets/two-282-29.png)
 
