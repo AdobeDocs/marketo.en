@@ -18,15 +18,15 @@ Once you've created an email program, you'll want to tell it who to send the ema
 >
 >Any date/time fields being imported are treated as Central Time. If you have date/time fields in a different time zone, you can use an Excel formula to transform it to Central Time (America/Chicago).
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Select your email program and then click Import List under the Audience tile.
+1. Select your email program and then click **[!UICONTROL Import List]** under the **[!UICONTROL Audience]** tile.
 
    ![](assets/importlist.png)
 
-1. The list import window opens, click on **Browse** and select the file you want to import. Once you have selected your list of people, click **Next**.
+1. The list import window opens, click on **[!UICONTROL Browse]** and select the file you want to import. Once you have selected your list of people, click **[!UICONTROL Next]**.
 
    ![](assets/importlist1.png)
 
@@ -34,7 +34,7 @@ Once you've created an email program, you'll want to tell it who to send the ema
    >
    >Make sure the list is encoded UTF-8, UTF-16, Shift-JIS, or EUC-JP, and does not exceed 50MB in file size.
 
-1. Verify that the fields in your file are mapped correctly and click **Next**.
+1. Verify that the fields in your file are mapped correctly and click **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
@@ -42,7 +42,7 @@ Once you've created an email program, you'll want to tell it who to send the ema
    >
    >Marketo will remember the mappings for future imports!
 
-1. Enter a **Name** for your list and click **Import**.
+1. Enter a **[!UICONTROL Name]** for your list and click **[!UICONTROL Import]**.
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
@@ -64,7 +64,7 @@ Once you've created an email program, you'll want to tell it who to send the ema
 >
 >Click the number for a detailed list of people blocked from mailings.
 >
->Use the ![--](assets/image2014-10-23-16-3a32-3a36-1.png) button on the **Audience** tile to see how many people qualified to receive the email based on smart list criteria. Subtract the Blocked number from the People number to get the total number of people who will receive the email.
+>Use the ![--](assets/image2014-10-23-16-3a32-3a36-1.png) button on the **[!UICONTROL Audience]** tile to see how many people qualified to receive the email based on smart list criteria. Subtract the Blocked number from the People number to get the total number of people who will receive the email.
 
 >[!TIP]
 >
