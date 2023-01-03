@@ -12,15 +12,15 @@ exl-id: 6984fd94-dd91-4832-83ce-3a6c3b35b034
 
 Delete a snippet that you don't need anymore.
 
-1. Go to the **Design Studio**.
+1. Go to the **[!UICONTROL Design Studio]**.
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
-1. Go to your snippet and then under **Snippet Actions** click on **Delete**.
+1. Go to your snippet and then under **[!UICONTROL Snippet Actions]** click on **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
-1. Click on **Delete** to confirm or just **Cancel**.
+1. Click on **[!UICONTROL Delete]** to confirm or just **[!UICONTROL Cancel]**.
 
    ![](assets/image2014-9-16-10-3a44-3a8.png)
 
