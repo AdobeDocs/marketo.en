@@ -11,11 +11,11 @@ In your My Profile page you can update your name, your account's language/locale
 
 Here's where you can update your name and/or password.
 
-1. Click the gear icon and select **Settings**.
+1. Click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/manage-your-profile-1.png)
 
-1. Your My Profile page opens by default. To update your name, simply type in the changes and click **Save**.
+1. Your My Profile page opens by default. To update your name, simply type in the changes and click **[!UICONTROL Save]**.
 
    ![](assets/manage-your-profile-2.png)
 
@@ -43,23 +43,23 @@ Here's how to change your account's language, locale, and/or time zone.
 >
 >Supported languages: English, French, German, Japanese, Portuguese, Spanish.
 
-1. Click the gear icon and select **Settings**.
+1. Click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/manage-your-profile-4.png)
 
-1. To change your language, click the **Language** drop-down and make your choice.
+1. To change your language, click the **[!UICONTROL Language]** drop-down and make your choice.
 
    ![](assets/manage-your-profile-5.png)
 
-1. Locale here refers to the region in which that language is spoken. Click the **Locale** drop-down and make your choice.
+1. Locale here refers to the region in which that language is spoken. Click the **[!UICONTROL Locale]** drop-down and make your choice.
 
    ![](assets/manage-your-profile-6.png)
 
-1. Click the **Your Timezone** drop-down and make your choice.
+1. Click the **[!UICONTROL Your Timezone]** drop-down and make your choice.
 
    ![](assets/manage-your-profile-7.png)
 
-1. Click **Save** when done.
+1. Click **[!UICONTROL Save]** when done.
 
    ![](assets/manage-your-profile-8.png)
 
