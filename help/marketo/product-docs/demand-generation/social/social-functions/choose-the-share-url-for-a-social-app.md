@@ -8,15 +8,15 @@ exl-id: 6a0b37b7-bca7-458a-9111-f0c717b18e2a
 
 When you create a social app, you can choose which URL will be shared in the posts from participants.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL  Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Select the app, and click **Edit Draft**.
+1. Select the app, and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-4-21-11-3a12-3a12.png)
 
-1. In the social app editor, go to **App Settings** and then **Advanced Options**.
+1. In the social app editor, go to **[!UICONTROL App Settings]** and then **[!UICONTROL Advanced Options]**.
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 
@@ -30,9 +30,9 @@ When you create a social app, you can choose which URL will be shared in the pos
    >
    >Share Posts can link to three places:
    >
-   >* **Referring Page**: The page that contains the app.
-   >* **Other Landing Page**: A different Marketo landing page from the ones in the drop-down.
-   >* **External URL**: A non-Marketo landing page.
+   >* **[!UICONTROL Referring Page]**: The page that contains the app.
+   >* **[!UICONTROL Other Landing Page]**: A different Marketo landing page from the ones in the drop-down.
+   >* **[!UICONTROL External URL]**: A non-Marketo landing page.
 
 >[!MORELIKETHIS]
 >
