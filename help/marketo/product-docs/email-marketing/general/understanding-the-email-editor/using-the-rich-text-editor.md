@@ -6,7 +6,7 @@ exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 ---
 # Using the Rich Text Editor {#using-the-rich-text-editor}
 
-The Rich Text Editor (RTE) appears throughout Marketo and is available whenever you want to add or edit content. You'll see a version of it on landing pages, programs, emails, forms, and snippets. Just click **Edit Draft**, and it'll pop up to serve you.
+The Rich Text Editor (RTE) appears throughout Marketo and is available whenever you want to add or edit content. You'll see a version of it on landing pages, programs, emails, forms, and snippets. Just click **[!UICONTROL Edit Draft]**, and it'll pop up to serve you.
 
 ## Editor Settings {#editor-settings}
 
@@ -16,19 +16,19 @@ The root block element setting defines which tags wrap your content. By default,
 >
 >While you have the option to choose your root block element, we always recommend using default settings for the best user experience.
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. Click **Email**.
+1. Click **[!UICONTROL Email]**.
 
    ![](assets/two.png)
 
-1. Click **Edit Text Editor Settings**.
+1. Click **[!UICONTROL Edit Text Editor Settings]**.
 
    ![](assets/three.png)
 
-1. In the **Email / Snippet Editor** drop-down, select `<div>` or None and click **Save**. `<div>` is used in this example.
+1. In the **[!UICONTROL Email] / [!UICONTROL Snippet Editor]** drop-down, select `<div>` or [!UICONTROL None] and click **[!UICONTROL Save]**. `<div>` is used in this example.
 
    ![](assets/four.png)
 
@@ -51,7 +51,7 @@ The root block element setting defines which tags wrap your content. By default,
 
    >[!TIP]
    >
-   >You can also change the Landing Page Editor's root block element by following the same steps, but clicking the **Landing Page Editor** drop-down in Step 4 instead of Email / Snippet Editor.
+   >You can also change the Landing Page Editor's root block element by following the same steps, but clicking the **[!UICONTROL Landing Page Editor]** drop-down in Step 4 instead of [!UICONTROL Email] / [!UICONTROL Snippet Editor].
 
    >[!NOTE]
    >
@@ -63,38 +63,38 @@ Here are the features you'll find in an RTE.
 
 | Icon |Name |What it does |
 |---|---|---|
-| ![--](assets/image2015-7-9-10-3a23-3a24.png)|Font Family |Choose your style--we've got plenty! |
-| ![--](assets/image2015-7-9-10-3a22-3a11.png)|Font Size |How big do you want it? 25 choices, from 8px to 90px. |
-| ![--](assets/image2015-7-9-10-3a59-3a4.png)|Styles |Choose Paragraph or a six Heading styles (for landing pages). |
-| ![--](assets/image2015-7-9-10-3a20-3a1.png)|Line Spacing |Pick your distance between the lines. |
-| ![--](assets/image2015-7-9-10-3a25-3a52.png)|Text Color |Black, red, or whatever you want. |
-| ![--](assets/image2015-7-9-10-3a24-3a38.png)|Background Color |Highlight for emphasis. |
-| ![--](assets/image2015-7-9-10-3a28-3a4.png)|Bold |**Darker and thicker**. |
-| ![--](assets/image2015-7-9-10-3a29-3a1.png)|Italic |*Angled, for emphasis or quotation*s. |
-| ![--](assets/image2015-7-9-10-3a30-3a56.png)|Underline |Puts a line under your text. |
-| ![--](assets/image2015-7-9-10-3a31-3a57.png)|Alignment |Use this dropdown to lay out your text and images. Center them, choose left or right alignment, or spread it edge to edge with full justification. || ![--](assets/image2015-7-9-10-3a32-3a47.png)|List |Choose bullets or numbers from the dropdown. Bullets are good with lists and numbers with steps. |
-| ![--](assets/image2015-7-9-10-3a38-3a0.png)|Indent |Choose more or less indentation. Use for paragraphs or any text you want to stand out. |
-| ![--](assets/image2015-7-9-10-3a38-3a58.png)|Insert/Edit Link |Put in a link to a website or other content; easily make changes to it. |
-| ![--](assets/image2015-7-9-10-3a39-3a42.png)|Insert/Edit Image |A picture is worth a thousand words. Drop one in. Click the camera icon to browse your Design Studio. You can drop in images side by side. |
-| ![--](assets/image2015-7-9-10-3a40-3a36.png)|Insert Token |A powerful tool, great for email personalization and data tracking. Be sure to enter a default value. |
-| ![--](assets/image2015-7-9-10-3a41-3a21.png)|Undo |Oops! Let's you go back a step and try it again. |
-| ![--](assets/image2015-7-9-10-3a42-3a13.png)|Redo |If it's really OK as it is, return to the original. |
-| ![--](assets/image2015-7-9-10-3a43-3a29.png)|Table |Build your own, like this one. A drop-down menu lets you configure it. |
-| ![--](assets/image2015-7-9-10-3a45-3a1.png)|Insert Anchor |Drop anchor! |
-| ![--](assets/image2015-7-9-10-3a45-3a48.png)|Horizontal Line |Many uses - Great for dividing sections. |
-| ![--](assets/image2015-10-6-12-3a12-3a17.png)|Edit HTML |Pops up the HTML Source Editor so you can tweak your code. |
-| ![--](assets/image2015-7-9-10-3a47-3a36.png)|Subscript |Low-hanging letters (as in O`<sub>2</sub>`). |
-| ![--](assets/image2015-7-9-10-3a48-3a35.png)|Superscript |You have the power! (2`<sup>6</sup>`). |
-| ![--](assets/image2015-7-9-10-3a49-3a31.png)|Strikethrough |`<s>Put a line through text, like this</s>`. |
-| ![--](assets/image2015-7-9-10-3a50-3a11.png)|Special Character |Want to talk about euros? Math? You have 243 choices. |
-| ![--](assets/image2015-7-9-10-3a52-3a26.png)|Find and Replace |Search for and change things much faster than looking for each instance yourself. |
-| ![--](assets/image2015-7-9-10-3a53-3a37.png)|Clear Formatting |Return things to standard. |
-| ![--](assets/image2015-7-9-10-3a55-3a2.png)|Cancel |Press the button to say, "Never mind." |
-| ![--](assets/image2015-7-9-10-3a56-3a2.png)|Save |Press the button to say, "OK, I like it." |
+| ![--](assets/image2015-7-9-10-3a23-3a24.png)|[!UICONTROL Font Family] |Choose your style--we've got plenty! |
+| ![--](assets/image2015-7-9-10-3a22-3a11.png)|[!UICONTROL Font Size] |How big do you want it? 25 choices, from 8px to 90px. |
+| ![--](assets/image2015-7-9-10-3a59-3a4.png)|[!UICONTROL Styles] |Choose Paragraph or a six Heading styles (for landing pages). |
+| ![--](assets/image2015-7-9-10-3a20-3a1.png)|[!UICONTROL Line Spacing] |Pick your distance between the lines. |
+| ![--](assets/image2015-7-9-10-3a25-3a52.png)|[!UICONTROL Text Color] |Black, red, or whatever you want. |
+| ![--](assets/image2015-7-9-10-3a24-3a38.png)|[!UICONTROL Background Color] |Highlight for emphasis. |
+| ![--](assets/image2015-7-9-10-3a28-3a4.png)|[!UICONTROL Bold] |**Darker and thicker**. |
+| ![--](assets/image2015-7-9-10-3a29-3a1.png)|[!UICONTROL Italic] |*Angled, for emphasis or quotation*s. |
+| ![--](assets/image2015-7-9-10-3a30-3a56.png)|[!UICONTROL Underline] |Puts a line under your text. |
+| ![--](assets/image2015-7-9-10-3a31-3a57.png)|[!UICONTROL Alignment] |Use this dropdown to lay out your text and images. Center them, choose left or right alignment, or spread it edge to edge with full justification. || ![--](assets/image2015-7-9-10-3a32-3a47.png)|List |Choose bullets or numbers from the dropdown. Bullets are good with lists and numbers with steps. |
+| ![--](assets/image2015-7-9-10-3a38-3a0.png)|[!UICONTROL Indent] |Choose more or less indentation. Use for paragraphs or any text you want to stand out. |
+| ![--](assets/image2015-7-9-10-3a38-3a58.png)|[!UICONTROL Insert/Edit Link] |Put in a link to a website or other content; easily make changes to it. |
+| ![--](assets/image2015-7-9-10-3a39-3a42.png)|[!UICONTROL Insert/Edit Image] |A picture is worth a thousand words. Drop one in. Click the camera icon to browse your Design Studio. You can drop in images side by side. |
+| ![--](assets/image2015-7-9-10-3a40-3a36.png)|[!UICONTROL Insert Token] |A powerful tool, great for email personalization and data tracking. Be sure to enter a default value. |
+| ![--](assets/image2015-7-9-10-3a41-3a21.png)|[!UICONTROL Undo] |Oops! Let's you go back a step and try it again. |
+| ![--](assets/image2015-7-9-10-3a42-3a13.png)|[!UICONTROL Redo] |If it's really OK as it is, return to the original. |
+| ![--](assets/image2015-7-9-10-3a43-3a29.png)|[!UICONTROL Table] |Build your own, like this one. A drop-down menu lets you configure it. |
+| ![--](assets/image2015-7-9-10-3a45-3a1.png)|[!UICONTROL Insert Anchor] |Drop anchor! |
+| ![--](assets/image2015-7-9-10-3a45-3a48.png)|[!UICONTROL Horizontal Line] |Many uses - Great for dividing sections. |
+| ![--](assets/image2015-10-6-12-3a12-3a17.png)|[!UICONTROL Edit HTML] |Pops up the HTML Source Editor so you can tweak your code. |
+| ![--](assets/image2015-7-9-10-3a47-3a36.png)|[!UICONTROL Subscript] |Low-hanging letters (as in O`<sub>2</sub>`). |
+| ![--](assets/image2015-7-9-10-3a48-3a35.png)|[!UICONTROL Superscript] |You have the power! (2`<sup>6</sup>`). |
+| ![--](assets/image2015-7-9-10-3a49-3a31.png)|[!UICONTROL Strikethrough] |`<s>Put a line through text, like this</s>`. |
+| ![--](assets/image2015-7-9-10-3a50-3a11.png)|[!UICONTROL Special Character] |Want to talk about euros? Math? You have 243 choices. |
+| ![--](assets/image2015-7-9-10-3a52-3a26.png)|[!UICONTROL Find and Replace] |Search for and change things much faster than looking for each instance yourself. |
+| ![--](assets/image2015-7-9-10-3a53-3a37.png)|[!UICONTROL Clear Formatting] |Return things to standard. |
+| ![--](assets/image2015-7-9-10-3a55-3a2.png)|[!UICONTROL Cancel] |Press the button to say, "Never mind." |
+| ![--](assets/image2015-7-9-10-3a56-3a2.png)|[!UICONTROL Save] |Press the button to say, "OK, I like it." |
 
 >[!TIP]
 >
->You edit your HTML and text on separate screens. Be sure to click **Copy from HTML** on the **Text** tab and then **Save** so your text matches your HTML.
+>You edit your HTML and text on separate screens. Be sure to click **[!UICONTROL Copy from HTML]** on the **[!UICONTROL Text]** tab and then **[!UICONTROL Save]** so your text matches your HTML.
 
 >[!NOTE]
 >
@@ -108,19 +108,19 @@ The root block element setting defines which tags wrap your content. By default,
 >
 >While you have the option to choose your root block element, we always recommend using default settings for the best user experience.
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. Click **Email**.
+1. Click **[!UICONTROL Email]**.
 
    ![](assets/two.png)
 
-1. Click **Edit Text Editor Settings**.
+1. Click **[!UICONTROL Edit Text Editor Settings]**.
 
    ![](assets/three.png)
 
-1. In the **Landing Page Editor** drop-down, select `<p>` or None and click **Save**. `<p>` is used in this example.
+1. In the **[!UICONTROL Landing Page Editor]** drop-down, select `<p>` or [!UICONTROL None] and click **[!UICONTROL Save]**. `<p>` is used in this example.
 
    ![](assets/five.png)
 
