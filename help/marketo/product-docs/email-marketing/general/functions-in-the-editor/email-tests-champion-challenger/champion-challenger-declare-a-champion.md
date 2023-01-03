@@ -12,31 +12,31 @@ When you're ready, you can declare a champion for your email test.
 >
 >[Champion/Challenger: Approve Your Email Test](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Find and right-click your email test, then click **Declare Champion**.
+1. Find and right-click your email test, then click **[!UICONTROL Declare Champion]**.
 
    ![](assets/champion4.jpg)
 
-1. Select the **Winner** of your choice.
+1. Select the **[!UICONTROL Winner]** of your choice.
 
    ![](assets/image2014-9-15-13-3a33-3a33.png)
 
-1. Set the **Declare Date**.
+1. Set the **[!UICONTROL Declare Date]**.
 
    >[!NOTE]
    >
-   >Until the **Declare Date**, Marketo will continue to send the old champion and challenger(s). Once date/time is reached, only the new champion will be sent.
+   >Until the **[!UICONTROL Declare Date]**, Marketo will continue to send the old champion and challenger(s). Once date/time is reached, only the new champion will be sent.
 
    ![](assets/image2014-9-15-13-3a33-3a47.png)
 
    >[!CAUTION]
    >
-   >Notice that the default **Declare Date** is tomorrow, not today.
+   >Notice that the default **[!UICONTROL Declare Date]** is tomorrow, not today.
 
-1. Select a time and click **Save**.
+1. Select a time and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 
