@@ -10,27 +10,27 @@ When you [create an email](/help/marketo/product-docs/email-marketing/general/cr
 
 ![](assets/starter-templates.png)
 
-**Name** will be the name of the email you create based off the template, not the template itself. **Description** also applies to the email, and is optional.
+**[!UICONTROL Name]** will be the name of the email you create based off the template, not the template itself. **[!UICONTROL Description]** also applies to the email, and is optional.
 
 ![](assets/two-2.png)
 
-If your email is critical and you want it to circumvent Communication Limits, [make it operational](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) by checking the box. **Open in editor** is selected by default, and simply means you want to start editing your new email right away. **Create** means, create!
+If your email is critical and you want it to circumvent Communication Limits, [make it operational](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) by checking the box. **[!UICONTROL Open in editor]** is selected by default, and simply means you want to start editing your new email right away. **[!UICONTROL Create]** means, create!
 
 ![](assets/three-2.png)
 
-**Starter Templates** includes a collection of ready-to-go responsive email templates. You may use them as-is, or customize them to your liking.
+**[!UICONTROL Starter Templates]** includes a collection of ready-to-go responsive email templates. You may use them as-is, or customize them to your liking.
 
 ![](assets/starter-templates.png)
 
-**My Templates** consists of all the templates you've created. You may also have folders.
+**[!UICONTROL My Templates]** consists of all the templates you've created. You may also have folders.
 
 ![](assets/five-2.png)
 
-All folders that appear under Emails > Templates in your Design Studio tree will be available in **My Templates**.
+All folders that appear under **[!UICONTROL Emails]** > **[!UICONTROL Templates]** in your [!UICONTROL Design Studio] tree will be available in **[!UICONTROL My Templates]**.
 
 ![](assets/six-1.png)
 
-To preview a template, hover over its thumbnail and click **Preview**. You can also just double-click it.
+To preview a template, hover over its thumbnail and click **[!UICONTROL Preview]**. You can also just double-click it.
 
 ![](assets/seven-1.png)
 
@@ -42,7 +42,7 @@ The previewer shows you how the template will render on a desktop machine...
 
 ![](assets/nine-1.png)
 
-If you like this template, choose it by clicking **Select** on the bottom right. Wanna keep looking? Click the **X** on the upper right. Use the left and right arrows to scroll through templates.
+If you like this template, choose it by clicking **[!UICONTROL Select]** on the bottom right. Wanna keep looking? Click the **X** on the upper right. Use the left and right arrows to scroll through templates.
 
 ![](assets/ten-1.png)
 
