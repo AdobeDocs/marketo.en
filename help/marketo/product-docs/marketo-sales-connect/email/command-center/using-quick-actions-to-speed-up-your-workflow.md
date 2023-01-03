@@ -16,8 +16,8 @@ Email quick actions are dynamic and update depending on the most relevant action
 
 | Status | Description |
 |---|---|
-| Archive |Will add the email to the archived folder and stop all disable view and click tracking for that email. |
-| Success |Will mark the email as successful to be reported on in template analytics. |
+| [!UICONTROL Archive] |Will add the email to the archived folder and stop all disable view and click tracking for that email. |
+| [!UICONTROL Success] |Will mark the email as successful to be reported on in template analytics. |
 
 **Archived**
 
@@ -28,11 +28,11 @@ Email quick actions are dynamic and update depending on the most relevant action
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Unarchive</td> 
+   <td>[!UICONTROL Unarchive]</td> 
    <td>Will move the email back to the delivered folder and reactivate view/click tracking.</td> 
   </tr> 
   <tr> 
-   <td>Delete</td> 
+   <td>[!UICONTROL Delete]</td> 
    <td><p>Will delete the email.<br><strong>Note:</strong> Emails that were sent as a part of a campaign cannot be deleted.</p></td> 
   </tr> 
  </tbody> 
@@ -47,11 +47,11 @@ Email quick actions are dynamic and update depending on the most relevant action
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Edit</td> 
+   <td>[!UICONTROL Edit]</td> 
    <td>Will open the email in the compose window to be edited.</td> 
   </tr> 
   <tr> 
-   <td>Delete</td> 
+   <td>[!UICONTROL Delete]</td> 
    <td><p>Will delete the email.<br><strong>Note:</strong> Emails that were sent as a part of a campaign cannot be deleted.</p></td> 
   </tr> 
  </tbody> 
@@ -66,11 +66,11 @@ Email quick actions are dynamic and update depending on the most relevant action
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Retry Send</td> 
+   <td>[!UICONTROL Retry Send]</td> 
    <td>Will immediately attempt to resend the email.</td> 
   </tr> 
   <tr> 
-   <td>Delete</td> 
+   <td>[!UICONTROL Delete]</td> 
    <td><p>Will delete the email.<br><strong>Note:</strong> Emails that were sent as a part of a campaign cannot be deleted.</p></td> 
   </tr> 
  </tbody> 
