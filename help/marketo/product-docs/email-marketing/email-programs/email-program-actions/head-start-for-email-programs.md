@@ -14,7 +14,7 @@ When you choose a date/time for an Email Program, it determines when the program
 
 ## Standard Head Start {#standard-head-start}
 
-1. Click **Marketing Activities**.
+1. Click **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one-1.png)
 
@@ -26,30 +26,30 @@ When you choose a date/time for an Email Program, it determines when the program
    >
    >Head Start cannot be used with A/B testing.
 
-1. In the Schedule tile, schedule your email then select the **Head Start** box.
+1. In the [!UICONTROL Schedule] tile, schedule your email then select the **[!UICONTROL Head Start]** box.
 
    ![](assets/three-1.png)
 
-   With Head Start selected, the program will begin processing approximately 12 hours prior to the scheduled time. Once processing starts, the program is locked.
+   With [!UICONTROL Head Start] selected, the program will begin processing approximately 12 hours prior to the scheduled time. Once processing starts, the program is locked.
 
    >[!CAUTION]
    >
    >Anyone from your audience who unsubscribes after program lock will still receive the email. We recommend adjusting your unsubscribe notification to reflect that unsubscribes may take 1-2 business days to process.
 
-1. Click **Approve Program**.
+1. Click **[!UICONTROL Approve Program]**.
 
    ![](assets/four-1.png)
 
    After program approval, there are four different statuses you may see on the Approval tile.
 
-    * **Waiting to run:** After the program is approved.
-    * **Processing started, waiting to run:** Processing is in progress.
-    * **Processing finished, waiting to run:** Processing completed, email now waiting for scheduled time to launch.
-    * **Finished:** Program completed.
+    * **[!UICONTROL Waiting to run]:** After the program is approved.
+    * **[!UICONTROL Processing started, waiting to run]:** Processing is in progress.
+    * **[!UICONTROL Processing finished, waiting to run]:** Processing completed, email now waiting for scheduled time to launch.
+    * **[!UICONTROL Finished]:** Program completed.
 
    >[!TIP]
    >
-   >Want to cancel after the program locks but before the email sends? No problem! Simply click **Abort Program** in the lower-right side of the Approval tile.
+   >Want to cancel after the program locks but before the email sends? No problem! Simply click **[!UICONTROL Abort Program]** in the lower-right side of the Approval tile.
 
    >[!NOTE]
    >
