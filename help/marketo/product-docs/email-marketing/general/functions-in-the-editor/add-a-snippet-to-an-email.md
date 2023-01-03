@@ -16,15 +16,15 @@ Snippets are reusable blocks of rich text and graphics that you can use in your 
 >
 >You cannot embed any [Marketo email syntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)in snippets; it will **not** work in an email. Snippets should just be body content (HTML + TEXT).
 
-1. Find your email, select it and click **Edit Draft**.
+1. Find your email, select it and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/one-2.png)
 
-1. Select the editable area you want to convert to a snippet, click the gear icon and select **Replace with Snippet**.
+1. Select the editable area you want to convert to a snippet, click the gear icon and select **[!UICONTROL Replace with Snippet]**.
 
    ![](assets/two-2.png)
 
-1. Select the snippet of your choice and click **Save**.
+1. Select the snippet of your choice and click **[!UICONTROL Save]**.
 
    ![](assets/three-1.png)
 
