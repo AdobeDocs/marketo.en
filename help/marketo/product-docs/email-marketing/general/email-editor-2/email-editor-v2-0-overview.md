@@ -52,7 +52,7 @@ By default the email displays how it would look on a desktop, as indicated by th
 
 ![](assets/eight-3.png)
 
-For a larger preview, click **Preview** in the upper-right of the email.
+For a larger preview, click **[!UICONTROL Preview]** in the upper-right of the email.
 
 ![](assets/preview1.png)
 
@@ -60,13 +60,13 @@ The default view there is desktop...
 
 ![](assets/preview2.png)
 
-...but you can also see how it will look on a mobile device. You can preview the text version, too! Simply click **Edit Draft** in the upper-right to resume editing.
+...but you can also see how it will look on a mobile device. You can preview the text version, too! Simply click **[!UICONTROL Edit Draft]** in the upper-right to resume editing.
 
 ![](assets/preview3.png)
 
-**Email Actions**
+**[!UICONTROL Email Actions]**
 
-Under **Email Actions**, you'll notice some new features. **Upload an Image or File**, and **Grab Images from Web**. You can also save the email itself as a new email template. All you have to do is give it a name and a destination.
+Under **[!UICONTROL Email Actions]**, you'll notice some new features. **[!UICONTROL Upload an Image or File]**, and **[!UICONTROL Grab Images from Web]**. You can also save the email itself as a new email template. All you have to do is give it a name and a destination.
 
 ![](assets/nine-3.png)
 
@@ -76,21 +76,21 @@ Under **Email Actions**, you'll notice some new features. **Upload an Image or F
 
 >[!NOTE]
 >
->**[Grab Images from Web](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** works just like it does in the Design Studio.
+>**[[!UICONTROL Grab Images from Web]](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** works just like it does in the [!UICONTROL Design Studio].
 
-**Disable Open Tracking** Under **Email Settings**, you can disable open tracking if necessary.
+**[!UICONTROL Disable Open Tracking]** Under **[!UICONTROL Edit Settings]**, you can disable open tracking if necessary.
 
 ![](assets/thirteen-1.png)
 
-**Email Settings**
+**[!UICONTROL Edit Settings]**
 
-You have the option of adding a Preheader. A Preheader is the short summary text after the subject line when emails are viewed in your inbox.
+You have the option of adding a [!UICONTROL Preheader]. A [!UICONTROL Preheader] is the short summary text after the subject line when emails are viewed in your inbox.
 
 ![](assets/edit-settings-preheader-2.png)
 
 >[!CAUTION]
 >
->Tokens do not work in the Preheader when using the email editor. To use a token in the Preheader, it must be via your own HTML in an email template.
+>Tokens do not work in the [!UICONTROL Preheader] when using the email editor. To use a token in the [!UICONTROL Preheader], it must be via your own HTML in an email template.
 
 Lots of great new features! Have fun!
 
