@@ -21,7 +21,7 @@ Here's how to get started.
 >
 >Champion/Challenger emails only work with trigger campaigns and engagement program streams. For batch mailings, use the email program's [A/B testing functionality](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -33,7 +33,7 @@ Here's how to get started.
    >
    >For one-time mail blasts, learn more about [email programs](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
 
-1. Under **Email Actions**, click **New Test**.
+1. Under **[!UICONTROL Email Actions]**, click **[!UICONTROL New Test]**.
 
    ![](assets/chmapion2.jpg)
 
