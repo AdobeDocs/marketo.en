@@ -10,7 +10,7 @@ Check out how your email program (with or without an A/B test) is performing wit
 
 ## Select your Email Program {#select-your-email-program}
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
