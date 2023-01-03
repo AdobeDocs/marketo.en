@@ -12,11 +12,11 @@ When you create an email, you may want its text version to be worded differently
 >
 >This is not an article on creating a text-only email. For information on that, see [Create a Text-Only Email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
 
-1. In the email editor, click the **Text** tab at the bottom of the email.
+1. In the email editor, click the **[!UICONTROL Text]** tab at the bottom of the email.
 
    ![](assets/one-5.png)
 
-1. Uncheck **Automatically copy from HTML** to make changes.
+1. Uncheck **[!UICONTROL Automatically copy from HTML]** to make changes.
 
    ![](assets/two-5.png)
 
