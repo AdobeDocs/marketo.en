@@ -12,15 +12,15 @@ When you [create a sweepstakes](/help/marketo/product-docs/demand-generation/soc
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
 ![](assets/login-marketing-activities-1.png)
 
-1. Select the sweepstakes, and click **Edit Draft**.
+1. Select the sweepstakes, and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
-1. In the Sweepstakes editor, go to **App Settings** > **Appearance**.
+1. In the Sweepstakes editor, go to **[!UICONTROL App Settings]** > **[!UICONTROL Appearance]**.
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
@@ -32,17 +32,17 @@ When you [create a sweepstakes](/help/marketo/product-docs/demand-generation/soc
 
    ![](assets/image2014-9-25-17-3a52-3a37.png)
 
-   Example CSS for **Enter Button**:
+   Example CSS for **[!UICONTROL Enter Button]**:
    `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>`
 
-   Example Image for **Enter Button**:
+   Example Image for **[!UICONTROL Enter Button]**:
    `<pre>background:url(https://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
 
    >[!NOTE]
    >
-   >If you use an image with text on it, remember to remove the text from the **Enter Button** field under Text above.
+   >If you use an image with text on it, remember to remove the text from the **[!UICONTROL Enter Button]** field under Text above.
 
-1. As you make each change, the result is displayed in the View & Edit preview.
+1. As you make each change, the result is displayed in the **[!UICONTROL View & Edit]** preview.
 
    ![](assets/image2014-9-25-17-3a55-3a3.png)
 
