@@ -28,7 +28,7 @@ A social button encourages people to share your content with their friends. Drop
 
    If you add a **[!UICONTROL Like/Recommend Button (Lite)]** instead, see the number of shares in the [landing page performance report](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
-1. Select **[!UICONTROL Create New]** from the drop-down.
+1. Select **[!UICONTROL Create New]*** from the drop-down.
 
    >[!NOTE]
    >
