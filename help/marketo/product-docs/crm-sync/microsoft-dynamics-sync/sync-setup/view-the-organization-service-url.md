@@ -8,15 +8,15 @@ exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
 
 Marketo needs the Organization Service URL to sync with Dynamics instances. Here is how to find it in Dynamics.
 
-1. Log in to Dynamics. Click the Settings icon and select **Advanced Settings**.
+1. Log in to Dynamics. Click the Settings icon and select **[!UICONTROL Advanced Settings]**.
 
    ![](assets/one.png)
 
-1. Click **Settings** and select **Customizations**.
+1. Click **[!UICONTROL Settings]** and select **[!UICONTROL Customizations]**.
 
    ![](assets/two.png)
 
-1. Click **Developer Resources**.
+1. Click **[!UICONTROL Developer Resources]**.
 
    ![](assets/three.png)
 
