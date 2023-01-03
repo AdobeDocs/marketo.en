@@ -16,15 +16,15 @@ After you [create a sweepstakes](/help/marketo/product-docs/demand-generation/so
 >
 >Before you publish your offer, confirm that it complies with all applicable laws, rules, and regulations.
 
-1. Locate your landing page and click **Edit Draft**.
+1. Locate your landing page and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-25-17-3a41-3a27.png)
 
-1. Locate the Insert Elements section on the right side of the page. Drag over **Sweepstakes**.
+1. Locate the **[!UICONTROL Insert Elements]** section on the right side of the page. Drag over **[!UICONTROL Sweepstakes]**.
 
    ![](assets/image2014-9-25-17-3a41-3a31.png)
 
-1. Select your sweepstakes and click **Insert**.
+1. Select your sweepstakes and click **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-25-17-3a41-3a35.png)
 
