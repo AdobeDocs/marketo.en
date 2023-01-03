@@ -8,21 +8,21 @@ exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
 
 Need to move an email from one program to another? Here's how.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/move-an-email-1.png)
 
-1. Locate the email you want to move, right-click on it and select **Move**.
+1. Locate the email you want to move, right-click on it and select **[!UICONTROL Move]**.
 
    ![](assets/move-an-email-2.png)
 
-1. Select the **Destination**, **Program**, and optional **Folder**. Select **Move**.
+1. Select the **[!UICONTROL Destination]**, **[!UICONTROL Program]**, and optional **[!UICONTROL Folder]**. Select **[!UICONTROL Move]**.
 
    ![](assets/move-an-email-3.png)
 
    >[!NOTE]
    >
-   >In this example we're moving an email to another program, but you can also move an email to a folder in the Design Studio.
+   >In this example we're moving an email to another program, but you can also move an email to a folder in the [!UICONTROL Design Studio].
 
    You'll see your email now lives in the other program.
 
