@@ -14,7 +14,7 @@ Once you've set up your test type, you need to define the champion criteria. Her
 
 ## Standard Champion Criteria {#standard-champion-criteria}
 
-1. Pick one of the available **Champion Criteria**.
+1. Pick one of the available **[!UICONTROL Champion Criteria]**.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -22,11 +22,11 @@ Once you've set up your test type, you need to define the champion criteria. Her
    >
    >We'll track this metric and send you a report with the data by email.
 
-1. If you picked one of the default **Champion Criteria**, go ahead and move on to [Champion/Challenger: Configure Report Alerts](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
+1. If you picked one of the default **[!UICONTROL Champion Criteria]**, go ahead and move on to [Champion/Challenger: Configure Report Alerts](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
 
 ## Custom Champion Criteria {#custom-champion-criteria}
 
-1. If you want to get fancy, you can go custom by selecting **Custom Conversion** and clicking **Edit**.
+1. If you want to get fancy, you can go custom by selecting **[!UICONTROL Custom Conversion Ratio]** and clicking **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -42,9 +42,9 @@ Once you've set up your test type, you need to define the champion criteria. Her
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo only allows triggers for people who have been sent the email from this email program. No need to add a "Was Sent Email" filter.
+   Marketo only allows triggers for people who have been sent the email from this email program. No need to add a "[!UICONTROL Was Sent Email]" filter.
 
-1. Click **Close**.
+1. Click **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 
