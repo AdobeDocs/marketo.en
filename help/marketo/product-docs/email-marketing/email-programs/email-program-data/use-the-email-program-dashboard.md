@@ -58,9 +58,9 @@ The rest of the data will display Opens, Clicks, Click/Open Ratio, and Unsubscri
 >
 >**Definition**
 >
->**Opens** are counted when the email recipient downloads the email's images, which includes a Marketo-inserted tracking pixel. If the recipient views the email but chooses not to download its images, that will not count as an open. If the images load in the recipient's preview pane, that will usually count as an open, but it will vary based on the email client.
+>**[!UICONTROL Opens]** are counted when the email recipient downloads the email's images, which includes a Marketo-inserted tracking pixel. If the recipient views the email but chooses not to download its images, that will not count as an open. If the images load in the recipient's preview pane, that will usually count as an open, but it will vary based on the email client.
 >
->**Click to Open** measures the percentage of emails that were both opened and had a link clicked in the email. We take the number of unique clicks divided by the number of unique opens, then multiply by 100 to show it as a percentage.
+>**[!UICONTROL Click to Open]** measures the percentage of emails that were both opened and had a link clicked in the email. We take the number of unique clicks divided by the number of unique opens, then multiply by 100 to show it as a percentage.
 
 ## Refresh Dashboard {#refresh-dashboard}
 
