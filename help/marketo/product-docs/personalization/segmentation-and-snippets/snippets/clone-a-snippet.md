@@ -8,15 +8,15 @@ exl-id: 9f5045d8-0dbf-4bb1-ac8c-3747bd130f36
 
 Clone a snippet to create a copy of it that you can modify to your needs.
 
-1. Go to the **Design Studio**.
+1. Go to the **[!UICONTROL Design Studio]**.
 
    ![](assets/image2014-9-16-10-3a32-3a36.png)
 
-1. Go to your Snippet and then under **Snippet Actions**, click **Clone**.
+1. Go to your Snippet and then under **[!UICONTROL Snippet Actions]**, click **[!UICONTROL Clone]**.
 
    ![](assets/image2014-9-16-10-3a32-3a44.png)
 
-1. Enter snippet details and click on **Clone**.
+1. Enter snippet details and click on **[!UICONTROL Clone]**.
 
    ![](assets/image2014-9-16-10-3a32-3a53.png)
 
