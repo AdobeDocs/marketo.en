@@ -12,7 +12,7 @@ Test whole emails against each other. When the test is over, send out the top pe
 >
 >[Add an Email Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. In the email test editor, select **Whole Emails** in the **Test Type** drop-down.
+1. In the email test editor, select **[!UICONTROL Whole Emails]** in the **[!UICONTROL Test Type]** drop-down.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -20,7 +20,7 @@ Test whole emails against each other. When the test is over, send out the top pe
    >
    >Remember: The original email is the champion. The challengers compete against it.
 
-1. Find and select the **Challengers** email(s), then click **Clone**.
+1. Find and select the **[!UICONTROL Challengers]** email(s), then click **[!UICONTROL Clone]**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
@@ -42,7 +42,7 @@ Test whole emails against each other. When the test is over, send out the top pe
 
    [More information than you ever wanted about statistical confidence](https://en.wikipedia.org/wiki/Confidence_interval).
 
-1. Click **Next**.
+1. Click **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 
