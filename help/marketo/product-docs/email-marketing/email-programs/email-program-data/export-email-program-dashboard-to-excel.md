@@ -8,7 +8,7 @@ exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
 
 Once you've run an email program and have some data in the dashboard, you can export that raw data to excel for further analysis. Here's how.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
