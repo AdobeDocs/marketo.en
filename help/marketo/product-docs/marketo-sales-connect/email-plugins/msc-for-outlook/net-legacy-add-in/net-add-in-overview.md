@@ -12,22 +12,22 @@ exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 
 ## Attaching a Piece of Content {#attaching-a-piece-of-content}
 
-Add trackable content by clicking the **Content** button and uploading a file.  
+Add trackable content by clicking the **[!UICONTROL Content]** button and uploading a file.  
   
 Any previously uploaded content will appear for you to select in the pop-up window without having to upload again.
 
 ## Calendar Functionality {#calendar-functionality}
 
-Let your recipients know when you’re available by pressing the **Calendar** button.  
+Let your recipients know when you’re available by pressing the **[!UICONTROL Calendar]** button.  
   
-This pulls in your Outlook calendar and allows you to add specific dates and times you’re free, and add the info to your email.
+This pulls in your [!DNL Outlook] calendar and allows you to add specific dates and times you’re free, and add the info to your email.
 
 ## Pulling in a Template {#pulling-in-a-template}
 
-Pull in a pre-made Tout template to the Outlook message by pressing the **Templates** button.  
+Pull in a pre-made Tout template to the [!DNL Outlook] message by pressing the **[!UICONTROL Templates]** button.  
   
 We sync with all of your personal templates and any shared templates among the team. We also automatically pull in the last used template and the most frequently used template for easy access.
 
-## The Tout It Button {#the-tout-it-button}
+## The [!UICONTROL Tout It] Button {#the-tout-it-button}
 
-Once you have your personalized email filled out and ready to go, make sure you always hit the **Tout It** button to get tracking. A box will appear reading “hang on, we’re adding tracking magic.”
+Once you have your personalized email filled out and ready to go, make sure you always hit the **[!UICONTROL Tout It]** button to get tracking. A box will appear reading “hang on, we’re adding tracking magic.”
