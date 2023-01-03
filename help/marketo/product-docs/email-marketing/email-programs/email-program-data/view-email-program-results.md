@@ -20,7 +20,7 @@ Just like the [!UICONTROL Results] tab in smart campaigns, you can see the same 
    >
    >If the email program has already run, you will be taken directly to the email program dashboard.
 
-1. Under **View**, select **[!UICONTROL Control Panel]**.
+1. Under **[!UICONTROL View]**, select **[!UICONTROL Control Panel]**.
 
    ![](assets/controlpanelview.jpg)
 
