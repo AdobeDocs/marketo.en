@@ -10,7 +10,7 @@ You define the fulfillment goal when creating a referral offer. If the action th
 
 ## Retrieve the Conversion Script {#retrieve-the-conversion-script}
 
-1. Within the referral offer editor, click **Offer Details** and then select **Customer JavaScript Event** from the fulfillment goal drop-down.
+1. Within the referral offer editor, click **[!UICONTROL Offer Details]** and then select **[!UICONTROL Customer JavaScript Event]** from the fulfillment goal drop-down.
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
@@ -24,11 +24,11 @@ You define the fulfillment goal when creating a referral offer. If the action th
 
 ## Retrieve the Loader Script {#retrieve-the-loader-script}
 
-1. Select the referral offer from the tree, then click **Referral Offer Actions** and **Embed Code**.
+1. Select the referral offer from the tree, then click **[!UICONTROL Referral Offer Actions]** and **[!UICONTROL Embed Code]**.
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. Right-click the **Header Code** and insert it into your webpage header. Then do the same for the **Body Code**.
+1. Right-click the **[!UICONTROL Header Code]** and insert it into your webpage header. Then do the same for the **[!UICONTROL Body Code]**.
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
