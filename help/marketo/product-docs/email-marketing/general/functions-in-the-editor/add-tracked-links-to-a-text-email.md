@@ -11,9 +11,11 @@ exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 >* [Create a Text Only Email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
 >* [Edit Elements in an Email](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
 
-Text email links can be tracked in Marketo. Let's see how it works. 1. Select your email and click Edit Draft.
+Text email links can be tracked in Marketo. Let's see how it works. 
 
-![](assets/one-9.png)
+1. Select your email and click **[!UICONTROL Edit Draft]**.
+
+   ![](assets/one-9.png)
 
 1. Double-click the editable area you want to add the link to.
 
