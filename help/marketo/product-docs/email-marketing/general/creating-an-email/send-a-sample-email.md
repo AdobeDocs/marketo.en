@@ -14,14 +14,14 @@ It's quick and easy to send samples of an email. To send a dynamic content email
 
 ## Send a Sample Email {#send-a-sample-email-1}
 
-1. Find and select your email. Click the **Email Actions** drop-down and select **Send Sample**.  
+1. Find and select your email. Click the **[!UICONTROL Email Actions]** drop-down and select **[!UICONTROL Send Sample]**.  
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
    >
    >My Tokens resolves to the value appropriate to the email’s program.
 
-1. Enter one or multiple email addresses for delivery. For multiple email addresses, use commas to separate them. Click **Send** when done.
+1. Enter one or multiple email addresses for delivery. For multiple email addresses, use commas to separate them. Click **[!UICONTROL Send]** when done.
 
    ![](assets/two.png)
 
@@ -35,15 +35,15 @@ It's quick and easy to send samples of an email. To send a dynamic content email
 
 ## Send a Sample Email While Editing {#send-a-sample-email-while-editing}
 
-1. Find your email, select it and click the **Edit Draft** tab.
+1. Find your email, select it and click the **[!UICONTROL Edit Draft]** tab.
 
    ![](assets/three-281-29.jpg)
 
-1. Click **Email Actions**, select **Send Sample**.
+1. Click **[!UICONTROL Email Actions]**, select **[!UICONTROL Send Sample]**.
 
    ![](assets/four.png)
 
-1. Enter an email address for delivery and click **Send**.
+1. Enter an email address for delivery and click **[!UICONTROL Send]**.
 
    ![](assets/two.png)
 
@@ -57,15 +57,15 @@ It's quick and easy to send samples of an email. To send a dynamic content email
 >
 >[Apply segmentation to your email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
 
-1. Find your email, select it and click the **Edit Draft** tab.
+1. Find your email, select it and click the **[!UICONTROL Edit Draft]** tab.
 
    ![](assets/three-281-29.jpg)
 
-1. Click **Preview**.
+1. Click **[!UICONTROL Preview]**.
 
    ![](assets/1.png)
 
-1. Click the **View By** drop-down and select **Segmentation**.
+1. Click the **[!UICONTROL View By]** drop-down and select **[!UICONTROL Segmentation]**.
 
    ![](assets/2.png)
 
@@ -77,12 +77,12 @@ It's quick and easy to send samples of an email. To send a dynamic content email
 
    ![](assets/4.png)
 
-1. Click **Send Sample** to receive a test email of your segment in action.
+1. Click **[!UICONTROL Send Sample]** to receive a test email of your segment in action.
 
    ![](assets/5.png)
 
    >[!TIP]
    >
-   >You can also send a sample email based on a segment in the edit mode of your email. Click the **Email Actions** drop-down, select **Send Sample**, then choose your segment.
+   >You can also send a sample email based on a segment in the edit mode of your email. Click the **[!UICONTROL Email Actions]** drop-down, select **[!UICONTROL Send Sample]**, then choose your segment.
 
 Sampling your content before launching a campaign is very important. Measure twice, cut once!
