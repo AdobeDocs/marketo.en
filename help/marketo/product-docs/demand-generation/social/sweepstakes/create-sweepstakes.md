@@ -12,11 +12,11 @@ A sweepstakes gives people a chance to win a prize in return for telling their f
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
-1. Inside your program, select **[!UICONTROL New]** > **New Local Asset**.
+1. Inside your program, select **[!UICONTROL New]** > **[!UICONTROL New Local Asset]**.
 
    ![](assets/image2014-9-25-17-3a29-3a20.png)
 
-1. In the Local Asset Gallery, click **Sweepstakes**.
+1. In the Local Asset Gallery, click **[!UICONTROL Sweepstakes]**.
 
    ![](assets/image2014-9-25-17-3a29-3a31.png)
 
@@ -26,11 +26,11 @@ A sweepstakes gives people a chance to win a prize in return for telling their f
 
    >[!TIP]
    >
-   >To save time, you can use the **Clone From** option to copy all settings from an existing sweepstakes.
+   >To save time, you can use the **[!UICONTROL Clone From]** option to copy all settings from an existing sweepstakes.
 
    The sweepstakes editor opens in a new window. The default settings are all good, but you still need to configure a few details. We’ll show you how in the next steps.
 
-1. Click **Sweepstakes Details**.
+1. Click **[!UICONTROL Sweepstakes Details]**.
 
    ![](assets/image2014-9-25-17-3a32-3a37.png)
 
@@ -42,7 +42,7 @@ A sweepstakes gives people a chance to win a prize in return for telling their f
    >
    >For daily and weekly drawings, the start and end times are fixed at 12am and 11:59pm respectively. For a one-time drawing, you can choose your own start and end times.
 
-1. Click **Advanced Options**.
+1. Click **[!UICONTROL Advanced Options]**.
 
    ![](assets/image2014-9-25-17-3a33-3a19.png)
 
@@ -56,17 +56,17 @@ A sweepstakes gives people a chance to win a prize in return for telling their f
    >
    >On this screen, you can also add a privacy policy link. See [Add Your Privacy Policy to a Social App](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-25-17-3a34-3a2.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-25-17-3a34-3a15.png)
 
    >[!TIP]
    >
-   >To change any of the defaults in your sweepstakes, click **Back**. To save your work for later without approving, click **Close**.
+   >To change any of the defaults in your sweepstakes, click **[!UICONTROL Back]**. To save your work for later without approving, click **[!UICONTROL Close]**.
 
 If there are any problems in the sweepstakes, you will be prompted to address them before the sweepstakes is approved.
 
