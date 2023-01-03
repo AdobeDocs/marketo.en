@@ -12,7 +12,7 @@ When you [publish a sweepstakes](/help/marketo/product-docs/demand-generation/so
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -20,23 +20,23 @@ When you [publish a sweepstakes](/help/marketo/product-docs/demand-generation/so
 
    ![](assets/image2014-9-25-17-3a47-3a37.png)
 
-1. Click **Pick Winners**.
+1. Click **[!UICONTROL Pick Winners]**.
 
    ![](assets/image2014-9-25-17-3a47-3a49.png)
 
    >[!TIP]
    >
-   >To see a list of people who have signed up for your sweepstakes, click the **Participants** tab.
+   >To see a list of people who have signed up for your sweepstakes, click the **[!UICONTROL Participants]** tab.
 
-1. Choose the number of winners, select **I'm ready to pick**, and click **Next**.
+1. Choose the number of winners, select **[!UICONTROL I'm ready to pick]**, and click **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-25-17-3a49-3a2.png)
 
    >[!NOTE]
    >
-   >If you choose 0 winners for a particular drawing, that information is not displayed on the **Winners** tab.
+   >If you choose 0 winners for a particular drawing, that information is not displayed on the **[!UICONTROL Winners]** tab.
 
-1. Click **Finalize** to send the [fulfillment email](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) to the listed winners.
+1. Click **[!UICONTROL Finalize]** to send the [fulfillment email](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) to the listed winners.
 
    ![](assets/image2014-9-25-17-3a49-3a48.png)
 
