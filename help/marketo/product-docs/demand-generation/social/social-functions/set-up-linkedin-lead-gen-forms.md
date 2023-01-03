@@ -16,7 +16,7 @@ Use LinkedIn Lead Gen Forms to run ad campaigns in LinkedIn and generate leads f
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Go to **[!UICONTROL LaunchPoint**, click on **[!UICONTROL New]** and select **[!UICONTROL New Service]**.
+1. Go to **[!UICONTROL LaunchPoint]**, click on **[!UICONTROL New]** and select **[!UICONTROL New Service]**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
