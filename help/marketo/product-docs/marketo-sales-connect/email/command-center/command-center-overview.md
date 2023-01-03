@@ -10,7 +10,7 @@ The Commend Center is a single, unified view that helps you figure out your next
 
 ## Manage Emails {#manage-emails}
 
-The email section of the Command Center is where you can manage all of your email activity. Think of it as your email outbox to review emails that have been sent from [!DNL Sales Connect]. Manage your scheduled emails, see who's been engaging with your emails, check to see if there were any issues with your emails being delivered, and more.
+The email section of the [!UICONTROL Command Center] is where you can manage all of your email activity. Think of it as your email outbox to review emails that have been sent from [!DNL Sales Connect]. Manage your scheduled emails, see who's been engaging with your emails, check to see if there were any issues with your emails being delivered, and more.
 
 ![](assets/command-center-overview-1.png)
 
