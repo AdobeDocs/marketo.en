@@ -10,11 +10,11 @@ Emails can contain four different elements: Rich text, Images, Snippets, and Vid
 
 ## How to Edit the Rich Text Element {#how-to-edit-the-rich-text-element}
 
-1. Find your email, select it and click **Edit Draft**.
+1. Find your email, select it and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/one-edited.png)
 
-1. The email editor will open. Select the Rich text, click the gear icon and select **Edit**.
+1. The email editor will open. Select the Rich text, click the gear icon and select **[!UICONTROL Edit]**.
 
    ![](assets/two.png)
 
@@ -22,7 +22,7 @@ Emails can contain four different elements: Rich text, Images, Snippets, and Vid
 
    ![](assets/three.png)
 
-1. Add/Edit your text and press **Save**.
+1. Add/Edit your text and press **[!UICONTROL Save]**.
 
    ![](assets/four.png)
 
@@ -32,7 +32,7 @@ Emails can contain four different elements: Rich text, Images, Snippets, and Vid
 
    >[!CAUTION]
    >
-   >Avoid copying and pasting text from a rich text source, such as a website or a Word document. Instead, paste rich text into a plain text editor first, such as Notepad (Windows) or TextEdit (Mac). Once it's "clean," you can then copy it from the plain text editor and paste it into your email.
+   >Avoid copying and pasting text from a rich text source, such as a website or a Word document. Instead, paste rich text into a plain text editor first, such as [!DNL Notepad] (Windows) or [!DNL TextEdit] (Mac). Once it's "clean," you can then copy it from the plain text editor and paste it into your email.
 
 ## How to Edit the Image Element {#how-to-edit-the-image-element}
 
@@ -40,7 +40,7 @@ Emails can contain four different elements: Rich text, Images, Snippets, and Vid
 
    ![](assets/five.png)
 
-1. Click the Image element you want to edit, then click the gear icon and select **Edit**.
+1. Click the Image element you want to edit, then click the gear icon and select **[!UICONTROL Edit]**.
 
    ![](assets/six.png)
 
@@ -60,13 +60,13 @@ Emails can contain four different elements: Rich text, Images, Snippets, and Vid
    >
    >If you want to use a Marketo token, use this option. Keep in mind that when you use a token, the image will appear broken in the editor, but will render in Preview mode and the Send Sample email.
 
-   To use an external URL, paste in the image's URL first. Alter the dimensions to suit your needs, and add some Alt Text (optional). Then press **Swap**.
+   To use an external URL, paste in the image's URL first. Alter the dimensions to suit your needs, and add some [!UICONTROL Alt Text] (optional). Then press **[!UICONTROL Swap]**.
 
    ![](assets/eight.png)
 
    **My Computer**
 
-   To upload an image from your computer, click **Browse**.
+   To upload an image from your computer, click **[!UICONTROL Browse]**.
 
    ![](assets/nine.png)
 
@@ -74,21 +74,21 @@ Emails can contain four different elements: Rich text, Images, Snippets, and Vid
 
    ![](assets/ten.png)
 
-   Alter the dimensions to suit your needs, change the Alt Text (optional), then press **Swap**.
+   Alter the dimensions to suit your needs, change the [!UICONTROL Alt Text] (optional), then press **[!UICONTROL Swap]**.
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >If you're replacing an image, you'll need to check the **Overwrite existing image** box that appears below the Image URL/name.
+   >If you're replacing an image, you'll need to check the **[!UICONTROL Overwrite existing image]** box that appears below the Image URL/name.
 
    **Design Studio**
 
-   To insert an image from the Design Studio, simply locate it...
+   To insert an image from the [!UICONTROL Design Studio], simply locate it...
 
    ![](assets/twelve.png)
 
-   ...and insert it. Alter the dimensions to suit your needs, change the Alt Text (optional), then press **Swap**.
+   ...and insert it. Alter the dimensions to suit your needs, change the [!UICONTROL Alt Text] (optional), then press **[!UICONTROL Swap]**.
 
    ![](assets/thirteen.png)
 
@@ -98,11 +98,11 @@ Emails can contain four different elements: Rich text, Images, Snippets, and Vid
 
    ![](assets/fourteen.png)
 
-1. Click the Snippet element, then the gear icon and select **Edit**.
+1. Click the Snippet element, then the gear icon and select **[!UICONTROL Edit]**.
 
    ![](assets/fifteen.png)
 
-1. Find your snippet, select it, and click **Save**.
+1. Find your snippet, select it, and click **[!UICONTROL Save]**.
 
    ![](assets/sixteen.png)
 
@@ -116,11 +116,11 @@ Emails can contain four different elements: Rich text, Images, Snippets, and Vid
 
    ![](assets/nineteen.png)
 
-1. Click the Video element, then the gear icon and select **Edit**.
+1. Click the Video element, then the gear icon and select **[!UICONTROL Edit]**.
 
    ![](assets/twenty.png)
 
-1. Paste in the video URL from Vimeo or YouTube. Then click out of the URL box for the preview to load. Alter the dimensions to suit your needs, add Alt Text (optional), then press **Insert**.
+1. Paste in the video URL from [!DNL Vimeo] or YouTube. Then click out of the URL box for the preview to load. Alter the dimensions to suit your needs, add [!UICONTROL Alt Text] (optional), then press **[!UICONTROL Insert]**.
 
    ![](assets/twentyone.png)
 
