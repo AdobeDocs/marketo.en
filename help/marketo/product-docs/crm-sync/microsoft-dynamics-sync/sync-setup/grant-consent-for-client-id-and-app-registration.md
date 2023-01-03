@@ -7,7 +7,7 @@ exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 
 ## Grant Delegated User Permissions for the Sync User {#grant-delegated-user-permissions-for-the-sync-user}
 
-1. Use a clean text program (Notepad for Windows, Text Edit for Mac) to create a Uniform Resource Identifier (URI) for authorization by pasting the below text and substituting the client_id, redirect_uri, and stae values.
+1. Use a clean text program (Notepad for Windows, Text Edit for Mac) to create a Uniform Resource Identifier (URI) for authorization by pasting the below text and substituting the `client_id`, `redirect_uri`, and `state` values.
 
    ```
    https://login.microsoftonline.com/common/oauth2/authorize?
@@ -56,7 +56,7 @@ exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
    >
    >If you're already logged in to Azure as an Admin in another tab, you'll need to use a different browser or Incognito mode to log in as the Sync User.
 
-1. Click **Accept**.
+1. Click **[!UICONTROL Accept]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
@@ -66,7 +66,7 @@ As an administrator, you can also consent to an application's delegated permissi
 
 1. In your Azure portal, navigate to the application homepage.
 
-1. Under Manage, click **API Permissions**.
+1. Under [!UICONTROL Manage], click **[!UICONTROL API Permissions]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
