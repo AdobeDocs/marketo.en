@@ -8,7 +8,7 @@ exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 
 For advanced developers, you can use [Velocity scripts](https://velocity.apache.org/engine/1.7/user-guide.html) in your emails. Here's how to do it.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
@@ -16,15 +16,15 @@ For advanced developers, you can use [Velocity scripts](https://velocity.apache.
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. Under the **My Tokens** tab, drag in an **Email Script** token.
+1. Under the **[!UICONTROL My Tokens]** tab, drag in an **[!UICONTROL Email Script]** token.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. Name your email script token and **click to edit** its content.
+1. Name your email script token and **[!UICONTROL Click to Edit]** its content.
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Use the tree on the right to drag in **Person, Opportunity**, or **Custom Object** tokens.
+1. Use the tree on the right to drag in **[!UICONTROL Person]**, **[!UICONTROL Opportunity]**, or **[!UICONTROL Custom Object]** tokens.
 
    ![](assets/five-2.png)
 
@@ -47,11 +47,11 @@ For advanced developers, you can use [Velocity scripts](https://velocity.apache.
     * [Velocity Reference Guide](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
     * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. Once your script is completed, click **Save**.
+1. Once your script is completed, click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. Click **Save** one more time.
+1. Click **[!UICONTROL Save]** one more time.
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 
