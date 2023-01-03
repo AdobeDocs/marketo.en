@@ -8,7 +8,7 @@ exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 
 You can use predictive content activities in triggers and filters when you define a smart list in a smart campaign. You can trigger an action for anyone who clicks predictive content via the [Rich Media template](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), the [Content Recommendation Bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md), or in an [email](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md).
 
-1. In your smart campaign, navigate to the **Smart List** tab.
+1. In your smart campaign, navigate to the **[!UICONTROL Smart List]** tab.
 
    ![](assets/smart-list-1.png)
 
@@ -24,7 +24,7 @@ You can use predictive content activities in triggers and filters when you defin
    >
    >A smart campaign with triggers runs in Trigger mode. It runs on one person at a time based on events triggered and the filters added.
 
-1. Click the **Name** drop-down and select an operator.
+1. Click the **[!UICONTROL Name]** drop-down and select an operator.
 
    ![](assets/smart-list-dropdown-hands.png)
 
@@ -32,7 +32,7 @@ You can use predictive content activities in triggers and filters when you defin
 
    ![](assets/smart-lislt-select-content-hands.png)
 
-1. Add the **Type** constraint.
+1. Add the **[!UICONTROL Type]** constraint.
 
    ![](assets/clicks-predictive-content-add-constraint-hands.png)
 
@@ -40,7 +40,7 @@ You can use predictive content activities in triggers and filters when you defin
 
    ![](assets/pc-add-constraint.png)
 
-1. If you're using the email source for your predictive content, add the **Clicks Link in Email** trigger. Select your email and add the **Is Predictive** constraint, defined as **true**.
+1. If you're using the email source for your predictive content, add the **[!UICONTROL Clicks Link in Email]** trigger. Select your email and add the **[!UICONTROL Is Predictive]** constraint, defined as **[!UICONTROL true]**.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 
