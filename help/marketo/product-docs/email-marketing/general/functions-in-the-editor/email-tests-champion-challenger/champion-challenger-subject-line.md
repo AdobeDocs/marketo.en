@@ -12,15 +12,15 @@ You can easily test multiple subject lines. When the test is over, send out emai
 >
 >[Add an Email Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. In the email test editor, select **Subject Line** in the **Test Type** drop-down.
+1. In the email test editor, select **[!UICONTROL Subject Line]** in the **[!UICONTROL Test Type]** drop-down.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >In a subject test, the first subject line entered is designated as the **Champion**. Subsequent subject lines are called **Challengers**.
+   >In a subject test, the first subject line entered is designated as the **[!UICONTROL Champion]**. Subsequent subject lines are called **[!UICONTROL Challengers]**.
 
-1. Enter subject line(s) for the **Challengers**.
+1. Enter subject line(s) for the **[!UICONTROL Challengers]**.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -40,7 +40,7 @@ You can easily test multiple subject lines. When the test is over, send out emai
 
    To gain statistical confidence, make sure the percentage you choose includes enough people, so that your test is valid. Don't be fooled by inconclusive results. [More information than you ever wanted about statistical confidence](https://en.wikipedia.org/wiki/Confidence_interval).
 
-1. Click **Next**.
+1. Click **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 
