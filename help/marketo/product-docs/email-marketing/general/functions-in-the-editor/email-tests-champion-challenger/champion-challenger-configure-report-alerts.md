@@ -24,11 +24,11 @@ Marketo will send you reports on how the email test is going. Here's how to sche
 
    ![](assets/image2014-9-15-13-3a13-3a7.png)
 
-1. Click **Next**.
+1. Click **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-15-13-3a18-3a30.png)
 
-1. Verify that all the information is correct and click **Close**.
+1. Verify that all the information is correct and click **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-15-13-3a18-3a41.png)
 
