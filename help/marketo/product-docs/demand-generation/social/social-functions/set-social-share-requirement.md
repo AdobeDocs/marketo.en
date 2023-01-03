@@ -8,15 +8,15 @@ exl-id: 5aa8f245-f122-44eb-bec4-0a41c2509706
 
 When you [create a referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you can require people to share the offer in order to sign up, or make it optional.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma-1.png)
 
-1. Select the referral offer, and click **Edit Draft**.
+1. Select the referral offer, and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-4-22-13-3a30-3a36.png)
 
-1. In the referral offer editor, go to **App Settings** and then **Sign-Up Flow Steps**.
+1. In the referral offer editor, go to **[!UICONTROL App Settings]** and then **[!UICONTROL Sign-Up Flow Steps]**.
 
    ![](assets/three.png)
 
@@ -24,9 +24,9 @@ When you [create a referral offer](/help/marketo/product-docs/demand-generation/
 
    ![](assets/four.png)
 
-    * **Person Capture** > **Share**: Person can skip sharing and just sign up.
-    * **Share** > **Person Capture**: Person must share in order to sign up.
+    * **[!UICONTROL Person Capture]** > **[!UICONTROL Share]**: Person can skip sharing and just sign up.
+    * **[!UICONTROL Share]** > **[!UICONTROL Person Capture]**: Person must share in order to sign up.
 
-1. For each option, see the preview in the **View & Edit** window.
+1. For each option, see the preview in the **[!UICONTROL View & Edit]** window.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)
