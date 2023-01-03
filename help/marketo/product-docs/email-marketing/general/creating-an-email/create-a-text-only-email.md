@@ -12,27 +12,27 @@ If you ever want to send text only emails, here's how to create an email that wi
 >
 >Because opens are tracked by the recipient downloading the email's images (which includes an invisible tracking pixel), opens are **not** able to be tracked for Text Only emails.
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
    ![](assets/one-1.png)
 
-1. Select your program, click the **New** drop-down and select **New Local Asset**.
+1. Select your program, click the **[!UICONTROL New]** drop-down and select **[!UICONTROL New Local Asset]**.
 
    ![](assets/two-1.png)
 
-1. Select **Email**.
+1. Select **[!UICONTROL Email]**.
 
    ![](assets/three-1.png)
 
-1. Enter a **Name**, select a template and click **Create**.
+1. Enter a **[!UICONTROL Name]**, select a template and click **[!UICONTROL Create]**.
 
    ![](assets/four-1.png)
 
-1. In the email editor, click **Email Settings**.
+1. In the email editor, click **[!UICONTROL Email Settings]**.
 
    ![](assets/five.png)
 
-1. Check **Text Only** and click **Save**.
+1. Check **[!UICONTROL Text Only]** and click **[!UICONTROL Save]**.
 
    ![](assets/six.png)
 
@@ -44,7 +44,7 @@ If you ever want to send text only emails, here's how to create an email that wi
    >
    >You can also edit an existing email and change this setting. Don't forget to approve the draft.
 
-1. Uncheck the **Automatically copy from HTML** checkbox.
+1. Uncheck the **[!UICONTROL Automatically copy from HTML]** checkbox.
 
    ![](assets/seven.png)
 
@@ -56,7 +56,7 @@ If you ever want to send text only emails, here's how to create an email that wi
 
    ![](assets/eight.png)
 
-1. Edit your text and click **Save**.
+1. Edit your text and click **[!UICONTROL Save]**.
 
    ![](assets/nine.png)
 
