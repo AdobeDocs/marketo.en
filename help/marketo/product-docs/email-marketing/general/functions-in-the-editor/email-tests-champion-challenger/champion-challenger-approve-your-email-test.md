@@ -12,11 +12,11 @@ The final step in setting up your email test to approve it. Here's how.
 >
 >[Champion/Challenger: Configure Report Alerts](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Find and right-click the **Email Test**, then click **Approve Test**.
+1. Find and right-click the **[!UICONTROL Email Test]**, then click **[!UICONTROL Approve Test]**.
 
    ![](assets/champion3.jpg)
 
