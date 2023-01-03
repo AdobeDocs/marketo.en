@@ -10,18 +10,18 @@ exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 
 No-Draft is triggered each time a snippet is approved. This includes a snippet that is shared or referenced by assets in other workspaces.
 
-1. Go to **Design Studio**.
+1. Go to **[!UICONTROL Design Studio]**.
 
    ![](assets/go-to-design-studio.png)
 
-1. Select a snippet and in the **Snippet Actions** drop-down, choose **Approve**.
+1. Select a snippet and in the **[!UICONTROL Snippet Actions]** drop-down, choose **[!UICONTROL Approve]**.
 
    ![](assets/approve-snippet.png)
 
-1. Select an option in the Approve Snippet dialog box and click **Approve**:
+1. Select an option in the **[!UICONTROL Approve Snippet]** dialog box and click **[!UICONTROL Approve]**:
 
-    * **Update all**: This option will not create drafts of the approved assets using the snippet. All assets get the updates and maintain their prior statuses. A progress module appears on the top right side of the screen; it can be closed at any time. To restore it, right-click the snippet name and select Show Approval Status.
-    * **Create drafts**: This option will create drafts of the approved assets using the snippet. Select this option if snippet changes need to be reviewed first. All drafts must be approved manually.
+    * **[!UICONTROL Update all]**: This option will not create drafts of the approved assets using the snippet. All assets get the updates and maintain their prior statuses. A progress module appears on the top right side of the screen; it can be closed at any time. To restore it, right-click the snippet name and select [!UICONTROL Show Approval Status].
+    * **[!UICONTROL Create drafts]**: This option will create drafts of the approved assets using the snippet. Select this option if snippet changes need to be reviewed first. All drafts must be approved manually.
 
    ![](assets/snippet-dialog-box.png)
 
