@@ -16,17 +16,17 @@ Once you [create an email program](/help/marketo/product-docs/email-marketing/em
 >
 >Defining your audience will only work when the email program is not approved.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Select your email program and then click **Edit Smart List** under the **Audience** tile.
+1. Select your email program and then click **[!UICONTROL Edit Smart List]** under the **[!UICONTROL Audience]** tile.
 
    ![](assets/2017-05-22-09-46-37.png)
 
    >[!TIP]
    >
-   >Make sure the View is set to **Control Panel** to find this setting.
+   >Make sure the View is set to **[!UICONTROL Control Panel]** to find this setting.
 
 1. Find the filter(s) you want to use and drag it into the canvas.
 
@@ -56,7 +56,7 @@ Once you [create an email program](/help/marketo/product-docs/email-marketing/em
 >
 >Click the number for a detailed list of people blocked from mailings. **Please note:** Operational emails will still be sent to people marked unsubscribed and marketing suspended.
 >
->Use the ![--](assets/image2014-10-23-16-3a32-3a36.png) button on the Audience tile to see how many people will receive the email.
+>Use the ![--](assets/image2014-10-23-16-3a32-3a36.png) button on the **[!UICONTROL Audience]** tile to see how many people will receive the email.
 
 >[!MORELIKETHIS]
 >
