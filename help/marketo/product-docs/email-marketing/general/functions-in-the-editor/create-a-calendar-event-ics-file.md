@@ -8,19 +8,19 @@ exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 
 A Calendar File token allows you to add a calendar event (.ics) link to your Marketo emails and landing pages.
 
-1. Inside your program, go to **My Tokens** tab.
+1. Inside your program, go to **[!UICONTROL My Tokens]** tab.
 
    ![](assets/image2014-9-11-15-3a33-3a27.png)
 
-1. Drag a **Calendar File** token to the canvas.
+1. Drag a **[!UICONTROL Calendar File]** token to the canvas.
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 
-1. Enter a **Token Name** and **Edit**.
+1. Enter a **Token Name** and click **[!UICONTROL Click to Edit]**.
 
    ![](assets/image2014-9-11-15-3a34-3a10.png)
 
-1. Enter details and click **Save**.
+1. Enter details and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-11-15-3a34-3a16.png)
 
