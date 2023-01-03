@@ -121,7 +121,7 @@ Example:
 
 ## Snippets {#snippets}
 
-If you define a region as a [!DNL Snippet], end users will be able to choose which approved [[!DNL Snippet]](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)they'd like to insert in this region. Although Rich Text elements can be converted into Snippets from within the email editor, when you define a region specifically as a [!DNL Snippet] it cannot be converted to Rich Text. You can specify a [!DNL Snippet] region using a `<div>` with class=”mktoSnippet”
+If you define a region as a Snippet, end users will be able to choose which approved [Snippet](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) they'd like to insert in this region. Although Rich Text elements can be converted into Snippets from within the email editor, when you define a region specifically as a Snippet it cannot be converted to Rich Text. You can specify a Snippet region using a `<div>` with class=”mktoSnippet”
 
 Required attributes
 
@@ -130,7 +130,7 @@ Required attributes
 
 Default value (optional)  
 
-**mktoDefaultSnippetId**: The numerical ID of the Marketo [!DNL Snippet] that should appear by default (will only work if a [!DNL Snippet] with that ID exists and is approved in that workspace).
+**mktoDefaultSnippetId**: The numerical ID of the Marketo Snippet that should appear by default (will only work if a Snippet with that ID exists and is approved in that workspace).
 
 Example:
 
