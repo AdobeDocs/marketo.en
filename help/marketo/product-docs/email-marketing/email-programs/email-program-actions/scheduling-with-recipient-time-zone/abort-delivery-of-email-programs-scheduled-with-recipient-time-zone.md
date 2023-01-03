@@ -10,15 +10,15 @@ In emergency cases, you can abort the delivery of an email program that has alre
 
 Since email programs scheduled with Recipient Time Zone can run for up to 24 hours, aborting the delivery of the program will cancel any subsequent sends after that point.
 
-1. Select the email program you want to cancel, then click **Abort Delivery** under the Approval tile in the control panel.
+1. Select the email program you want to cancel, then click **[!UICONTROL Abort Delivery]** under the [!UICONTROL Approval] tile in the control panel.
 
    ![](assets/ptz-abortdelivery.png)
 
-1. Confirm that you want to cancel the delivery by clicking **Abort**.
+1. Confirm that you want to cancel the delivery by clicking **[!UICONTROL Abort]**.
 
    ![](assets/image2018-2-23-11-3a20-3a27.png)
 
-1. After cancellation, the **Results** grid of your email program will look something like the one below. Any subsequent sends are canceled and will show up as "Email Bounced Soft" in the **Activity Type** column.
+1. After cancellation, the **[!UICONTROL Results]** grid of your email program will look something like the one below. Any subsequent sends are canceled and will show up as "Email Bounced Soft" in the **[!UICONTROL Activity Type]** column.
 
    ![](assets/image2018-2-23-11-3a22-3a11.png)
 
