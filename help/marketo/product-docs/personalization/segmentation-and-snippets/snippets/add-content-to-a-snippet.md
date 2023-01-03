@@ -64,7 +64,7 @@ You can add three types of content to a snippet.
    >
    >Use the formatting tools to customize your text.
 
-1. For Emails, click the **[!UICONTROL Text Version]** tab.
+1. For Emails, click the **[!UICONTROL Text Version (for emails)]** tab.
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
@@ -74,7 +74,7 @@ You can add three types of content to a snippet.
 
    >[!NOTE]
    >
-   >Images, links, and formatting are removed in the [!UICONTROL Text Version].
+   >Images, links, and formatting are removed in the Text Version.
 
 Cool! Now you can create a variety of content for your Snippet.
 
