@@ -15,19 +15,19 @@ Use Segmentation in Snippets to easily manage dynamic content on your emails and
 
 ## Add Segmentation {#add-segmentation}
 
-1. Go to the **Design Studio**.
+1. Go to the **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-1.png)
 
-1. Click on your **Snippet** and then **Edit Draft**.
+1. Click on your **Snippet** and then **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. Click on **Segment By**.
+1. Click on **[!UICONTROL Segment By]**.
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. Enter **Segmentation** and click on **Save**.
+1. Enter **[!UICONTROL Segmentation]** and click on **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 
