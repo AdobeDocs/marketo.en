@@ -10,31 +10,31 @@ There are two main ways to create an email in Marketo. Let's look at both.
 
 ## Create an Email in the Design Studio {#create-an-email-in-the-design-studio}
 
-1. Go to the **Design Studio**.
+1. Go to the **[!UICONTROL Design Studio]**.
 
    ![](assets/create-an-email-1.png)
 
-1. Click the **New** drop-down and select **New Email**.
+1. Click the **[!UICONTROL New]** drop-down and select **[!UICONTROL New Email]**.
 
    ![](assets/create-an-email-2.png)
 
    >[!NOTE]
    >
-   >When you create an email in the Design Studio, it can be found in the tree under "Emails."
+   >When you create an email in the [!UICONTROL Design Studio], it can be found in the tree under "[!UICONTROL Emails]".
 
 Simple! Now for the other way...
 
 ## Create an Email in Marketing Activities {#create-an-email-in-marketing-activities}
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/create-an-email-3.png)
 
-1. Select the program you want to add the email to, click the **New** drop-down and select **New Local Asset**.
+1. Select the program you want to add the email to, click the **[!UICONTROL New]** drop-down and select **[!UICONTROL New Local Asset]**.
 
    ![](assets/create-an-email-4.png)
 
-1. Click **Email**.
+1. Click **[!UICONTROL Email]**.
 
    ![](assets/create-an-email-5.png)
 
@@ -42,13 +42,13 @@ Simple! Now for the other way...
 
 Whichever method you choose brings you to the template picker.
 
-1. Give your email a name, click on the template you want to use, then click **Create**.
+1. Give your email a name, click on the template you want to use, then click **[!UICONTROL Create]**.
 
    ![](assets/create-an-email-6.png)
 
    >[!NOTE]
    >
-   >You can choose from a collection of ready-to-go responsive email templates, or a template you saved by first selecting **My Templates**, and following the same steps.
+   >You can choose from a collection of ready-to-go responsive email templates, or a template you saved by first selecting **[!UICONTROL My Templates]**, and following the same steps.
 
 1. Enter a subject line. The recommended character limit is 50.
 
