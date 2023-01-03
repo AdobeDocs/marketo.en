@@ -6,7 +6,7 @@ exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 ---
 # Add Modules to your Email {#add-modules-to-your-email}
 
-In Email Editor 2.0, a module is a section of your email that is defined in the template. Modules may contain any combination of elements, variables, and other HTML content. Adding them to your email is easy.
+In [!DNL Email Editor 2.0], a module is a section of your email that is defined in the template. Modules may contain any combination of elements, variables, and other HTML content. Adding them to your email is easy.
 
 1. Create an email. Be sure to choose (or create) a template that contains modules.
 
