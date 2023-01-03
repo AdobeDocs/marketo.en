@@ -11,15 +11,15 @@ exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
 
 Once Sales Connect has been purchased, a new integration page will appear in your Marketo instance. Use this page to invite your first user and provision their Sales Connect instance.
 
-1. In Marketo, click **Admin**.
+1. In Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/accessing-your-new-sales-connect-instance-1.png)
 
-1. Click **Sales Connect**.
+1. Click **[!UICONTROL Sales Connect]**.
 
    ![](assets/accessing-your-new-sales-connect-instance-2.png)
 
-1. Select from a list of Marketo admins to invite and click **Send Invite**.
+1. Select from a list of Marketo admins to invite and click **[!UICONTROL Send Invite]**.
 
    ![](assets/accessing-your-new-sales-connect-instance-3.png)
 
