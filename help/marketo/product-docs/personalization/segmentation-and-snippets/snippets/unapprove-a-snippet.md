@@ -12,7 +12,7 @@ An unapproved Snippet cannot be used in emails or landing pages.
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
-1. Go to your Snippet and make sure it is not **[!UICONTROL Used By]** any assets.
+1. Go to your Snippet and make sure it is not **[!UICONTROL Used by]** any assets.
 
    ![](assets/image2014-9-16-10-3a41-3a27.png)
 
