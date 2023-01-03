@@ -8,15 +8,15 @@ exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 
 Snippets can be used as dynamic content blocks on **emails** and **landing pages**.
 
-1. Go to the **Design Studio.**
+1. Go to the **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Click **New** and then **New Snippet**.
+1. Click **[!UICONTROL New]** and then **[!UICONTROL New Snippet]**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
-1. Enter the required details and click on **Create**.
+1. Enter the required details and click on **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
