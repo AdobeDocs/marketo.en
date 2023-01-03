@@ -12,7 +12,7 @@ A sweepstakes gives people a chance to win a prize in return for telling their f
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
-1. Inside your program, select **New** > **New Local Asset**.
+1. Inside your program, select **[!UICONTROL New]** > **New Local Asset**.
 
    ![](assets/image2014-9-25-17-3a29-3a20.png)
 
