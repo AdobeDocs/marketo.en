@@ -12,7 +12,7 @@ Integrate your Marketo people with your LinkedIn audiences.
 >
 >[Add LinkedIn Matched Audiences as a LaunchPoint Service](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
-1. Go to the **Database**.
+1. Go to the **[!UICONTROL Database]**.
 
    ![](assets/db.png)
 
@@ -20,11 +20,11 @@ Integrate your Marketo people with your LinkedIn audiences.
 
    ![](assets/two.png)
 
-1. Click the **People** tab.
+1. Click the **[!UICONTROL People]** tab.
 
    ![](assets/three-1.png)
 
-1. Click the **Send Via Ad Bridge** icon ![--](assets/image2015-4-20-18-3a18-3a41.png) at the bottom of the list.
+1. Click the **[!UICONTROL Send Via Ad Bridge]** icon ![--](assets/image2015-4-20-18-3a18-3a41.png) at the bottom of the list.
 
    ![](assets/four-1.png)
 
@@ -32,11 +32,11 @@ Integrate your Marketo people with your LinkedIn audiences.
    >
    >When using ad network integrations to send an audience to LinkedIn, Marketo only sends the email address over.
 
-1. Select **LinkedIn** and click **Next**.
+1. Select **[!UICONTROL LinkedIn]** and click **[!UICONTROL Next]**.
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
-1. Select a **LinkedIn Audience**.
+1. Select a **[!UICONTROL LinkedIn Audience]**.
 
    >[!NOTE]
    >
@@ -48,7 +48,7 @@ Integrate your Marketo people with your LinkedIn audiences.
    >
    >LinkedIn deprecated the APIs used for the “Clear audience and add leads” push type in March 2018. This option is no longer available as of Marketo's Q1 2018 Release.
 
-1. Select a **Push Type**. Click **Update**.
+1. Select a **[!UICONTROL Push Type]**. Click **[!UICONTROL Update]**.
 
    ![](assets/7.png)
 
