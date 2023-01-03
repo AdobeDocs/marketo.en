@@ -20,7 +20,7 @@ The following tokens can be used as links in an email or email template:
 
 Here's how to add them to an email:
 
-1. Find and select your email, then click **Edit Draft**.
+1. Find and select your email, then click **[!UICONTROL Edit Draft]**.
 
    ![](assets/one-1.png)
 
@@ -28,11 +28,11 @@ Here's how to add them to an email:
 
    ![](assets/two-1.png)
 
-1. Highlight the text you want to convert to a link which will have the token and click the **Insert/Edit Link** button.
+1. Highlight the text you want to convert to a link which will have the token and click the **[!UICONTROL Insert/Edit Link]** button.
 
    ![](assets/three-1.png)
 
-1. Enter the token in Link URL and click **Insert**.
+1. Enter the token in Link URL and click **[!UICONTROL Insert]**.
 
    ![](assets/four-1.png)
 
@@ -40,7 +40,7 @@ Here's how to add them to an email:
    >
    >Copy/Paste the token you want: **`{{system.forwardToFriendLink}}`** or **`{{system.unsubscribeLink}}`** or **`{{system.viewAsWebpageLink}}`**
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 
