@@ -32,7 +32,7 @@ exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 
    ![](assets/four-3.png)
 
-1. Since you're adding to a Marketing campaign, skip selecting a "from]" address. You can however choose to add more contacts. If you choose to, click **[!UICONTROL Individuals]** and type them in. Click **[!UICONTROL Next]** when done.
+1. Since you're adding to a Marketing campaign, skip selecting a "from" address. You can however choose to add more contacts. If you choose to, click **[!UICONTROL Individuals]** and type them in. Click **[!UICONTROL Next]** when done.
 
    ![](assets/five-2.png)
 
