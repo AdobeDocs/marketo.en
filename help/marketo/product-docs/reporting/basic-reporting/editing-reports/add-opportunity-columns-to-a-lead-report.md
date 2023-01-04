@@ -32,7 +32,7 @@ To see the statistics on opportunities in your person reports, you can add oppor
    >
    >Scroll right to see more columns.
 
-1. To [add or remove columns from the report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), click any column heading and select **[!UICONTROL Columns][!UICONTROL **.
+1. To [add or remove columns from the report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), click any column heading and select **[!UICONTROL Columns]**.
 
    ![](assets/six.png)
 
