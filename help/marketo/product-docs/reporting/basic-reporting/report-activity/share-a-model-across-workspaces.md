@@ -8,11 +8,11 @@ exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 
 Marketo gives you the ability to share a model(s) across workspaces. Here's how.
 
-1. Go to the **Analytics** section.
+1. Go to the **[!UICONTROL Analytics]** section.
 
    ![](assets/analytics.png)
 
-1. Right click the **My Models** folder and click on **New Folder**.
+1. Right click the **[!UICONTROL My Models]** folder and click on **[!UICONTROL New Folder]**.
 
    ![](assets/image2014-10-3-14-3a5-3a23.png)
 
@@ -20,11 +20,11 @@ Marketo gives you the ability to share a model(s) across workspaces. Here's how.
 
    ![](assets/image2014-10-3-14-3a5-3a38.png)
 
-1. Drag the model(s) you want to share into the **Share Folder**.
+1. Drag the model(s) you want to share into the **[!UICONTROL Share Folder]**.
 
    ![](assets/image2014-10-3-14-3a5-3a52.png)
 
-1. Right click your folder and click **Share Folder**.
+1. Right click your folder and click **[!UICONTROL Share Folder]**.
 
    ![](assets/image2014-10-3-14-3a6-3a9.png)
 
@@ -32,7 +32,7 @@ Marketo gives you the ability to share a model(s) across workspaces. Here's how.
    >
    >Sharing a model with another workspace allows those users to run reports based on the model.
 
-1. Select the workspaces you want to share the folder with and click **Save**.
+1. Select the workspaces you want to share the folder with and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 
