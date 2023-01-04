@@ -6,9 +6,9 @@ exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
 ---
 # Archive Templates {#archive-templates}
 
-Archive content to clean up your Sales Content account without losing any template data.
+Archive content to clean up your [!DNL Sales Content] account without losing any template data.
 
-Check the box next to a template and click **Archive**.
+Check the box next to a template and click **[!UICONTROL Archive]**.
 
 >[!NOTE]
 >
