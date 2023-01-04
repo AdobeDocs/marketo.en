@@ -4,7 +4,7 @@ description: Sales Connect and GDPR Compliance - Marketo Docs - Product Document
 title: Sales Connect and GDPR Compliance
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 ---
-# Sales Connect and GDPR Compliance {#sales-connect-and-gdpr-compliance}
+# [!DNL Sales Connect] and GDPR Compliance {#sales-connect-and-gdpr-compliance}
 
 The General Data Protection Regulation (GDPR) is European Union legislation that went into effect on May 25, 2018.
 
@@ -35,21 +35,21 @@ How marketers address these higher expectations around the collection, use, and 
 
 There are two key aspects of the GDPR where marketers needs to review past, current, and future practices. The first is consent by the individual to process their personal data, and the second is accountability, namely being able to demonstrate how the principles of the GDPR are being followed.  
   
-We provide extensive information around consent and accountability within the Marketo platform in our e-book, [GDPR and The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In this article, however, we will focus specifically on the new features in Marketo Sales Connect that will help your organization adhere to GDPR rules.
+We provide extensive information around consent and accountability within the Marketo platform in our e-book, [GDPR and The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In this article, however, we will focus specifically on the new features in [!DNL Marketo Sales Connect] that will help your organization adhere to GDPR rules.
 
-## GDPR Compliance in Marketo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
+## GDPR Compliance in [!DNL Marketo Sales Connect] {#gdpr-compliance-in-marketo-sales-connect}
 
-Marketo Sales Connect is a powerful application—part of the Marketo Engagement Platform—that provides a single workflow and view for sales and marketing to collectively drive pipeline faster through collaborative engagement. New functionality in Marketo Sales Connect has been created specifically with GDPR compliance in mind. We will outline all three functions and explain how they, when used properly, will help your organization’s GDPR compliance efforts.
+[!DNL Marketo Sales Connect] is a powerful application—part of the [!DNL Marketo Engagement Platform]—that provides a single workflow and view for sales and marketing to collectively drive pipeline faster through collaborative engagement. New functionality in [!DNL Marketo Sales Connect] has been created specifically with GDPR compliance in mind. We will outline all three functions and explain how they, when used properly, will help your organization’s GDPR compliance efforts.
 
 ## Compliance Card {#compliance-card}
 
-Marketo Sales Connect includes a Compliance Card in the Person Detail View to provide key information on a contact’s Authorization Type, as well as their Source Type. This allows users to easily add and track information critical to data privacy, and helps them make more informed decisions on campaign/outreach strategy.
+[!DNL Marketo Sales Connect] includes a Compliance Card in the Person Detail View to provide key information on a contact’s Authorization Type, as well as their Source Type. This allows users to easily add and track information critical to data privacy, and helps them make more informed decisions on campaign/outreach strategy.
 
 ![](assets/1.png)
 
 Contact Authorization Type
 
-Within the Compliance Card, users can track the legal basis for processing a contact’s personal data through the Authorization drop-down. Understanding a contact’s authorization type helps Marketo Sales Connect users make more informed decisions regarding outreach practices, ensuring that each campaign or engagement is legal and appropriate.  
+Within the Compliance Card, users can track the legal basis for processing a contact’s personal data through the Authorization drop-down. Understanding a contact’s authorization type helps [!DNL Marketo Sales Connect] users make more informed decisions regarding outreach practices, ensuring that each campaign or engagement is legal and appropriate.  
   
 Users have numerous options to choose from, including:
 
@@ -63,37 +63,37 @@ Users have numerous options to choose from, including:
 
 Contact Source Type
 
-Within the new Compliance Card, users can track the source of a contact. The Source Type defines where a contact’s information came from when initially uploaded into Marketo Sales Connect. Understanding a contact’s source type also helps with decisions regarding outreach practices, as well as determining which other systems or locations personal data is stored, ensuring that each engagement is in-line with GDPR legislation.  
+Within the new Compliance Card, users can track the source of a contact. The Source Type defines where a contact’s information came from when initially uploaded into [!DNL Marketo Sales Connect]. Understanding a contact’s source type also helps with decisions regarding outreach practices, as well as determining which other systems or locations personal data is stored, ensuring that each engagement is in-line with GDPR legislation.  
   
 Again, users have numerous drop-down options to choose from, including:
 
 * CRM Sync
 * Import
 * Manual Upload
-* Chrome Extension
+* [!DNL Chrome] Extension
 * Other
 
 Editing the Compliance Card
 
-When the Person Detail View is open, click **Edit** in the Compliance Card.
+When the Person Detail View is open, click **[!UICONTROL Edit]** in the Compliance Card.
 
 ![](assets/four.png)
   
-You will see two drop-downs: Authorization Type and Source Type.  
+You will see two drop-downs: [!UICONTROL Authorization Type] and [!UICONTROL Source Type].  
   
 ![](assets/5.png)
   
-If you choose “Consent” as the Authorization Type, two mandatory fields: “Date of Consent” and “Purpose of Processing” will appear. These two fields are not applicable to other options.
+If you choose “[!UICONTROL Consent]” as the [!UICONTROL Authorization Type], two mandatory fields: “[!UICONTROL Date of Consent]” and “[!UICONTROL Purpose of Processing]” will appear. These two fields are not applicable to other options.
 
 ![](assets/6.png)
   
-If “Other” is chosen for either Authorization Type or Source Type, you may enter text to describe the Source Type.
+If “[!UICONTROL Other]” is chosen for either [!UICONTROL Authorization Type] or [!UICONTROL Source Type], you may enter text to describe the Source Type.
 
 ![](assets/7.png)
   
-Bulk Actions** Marketo Sales Connect also allows for updating a contact’s Authorization and Source types in bulk, saving valuable time in the compliance process.  
+Bulk Actions** [!DNL Marketo Sales Connect] also allows for updating a contact’s Authorization and Source types in bulk, saving valuable time in the compliance process.  
   
-When you select one or more contacts from the People page, Authorization and Source buttons show up in the top container. Using these buttons, you can set the Authorization or Source of multiple contacts simultaneously.
+When you select one or more contacts from the [!UICONTROL People] page, Authorization and Source buttons show up in the top container. Using these buttons, you can set the Authorization or Source of multiple contacts simultaneously.
 
 ![](assets/eight.jpg)
 
@@ -113,7 +113,7 @@ After selecting the correct Source Type for your selected contacts, a confirmati
 
 ![](assets/12.png)
 
-## Exporting Contact Data From Marketo Sales Connect {#exporting-contact-data-from-marketo-sales-connect}
+## Exporting Contact Data From [!DNL Marketo Sales Connect] {#exporting-contact-data-from-marketo-sales-connect}
 
 You have the ability to export contact information from the Person Detail View. Exporting will download a .CSV file with the following columns:
 
@@ -125,33 +125,33 @@ You have the ability to export contact information from the Person Detail View. 
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>First Name</td> 
-   <td>Website</td> 
-   <td>Facebook</td> 
+   <td>[!UICONTROL First Name]</td> 
+   <td>[!UICONTROL Website]</td> 
+   <td>[!DNL Facebook]</td> 
   </tr> 
   <tr> 
-   <td>Last Name</td> 
-   <td>Other</td> 
-   <td>Twitter</td> 
+   <td>[!UICONTROL Last Name]</td> 
+   <td>[!UICONTROL Other]</td> 
+   <td>[!DNL Twitter]</td> 
   </tr> 
   <tr> 
-   <td>Company</td> 
-   <td>Updated At</td> 
-   <td>LinkedIn</td> 
+   <td>[!UICONTROL Company]</td> 
+   <td>[!UICONTROL Updated At]</td> 
+   <td>[!DNL LinkedIn]</td> 
   </tr> 
   <tr> 
-   <td>Title</td> 
-   <td>Created At</td> 
-   <td>Exported At</td> 
+   <td>[!UICONTROL Title]</td> 
+   <td>[!UICONTROL Created At]</td> 
+   <td>[!UICONTROL Exported At]</td> 
   </tr> 
   <tr> 
-   <td>Email ID</td> 
-   <td>Salesforce ID</td> 
+   <td>[!UICONTROL Email ID]</td> 
+   <td>[!UICONTROL Salesforce ID]</td> 
    <td><br></td> 
   </tr> 
   <tr> 
-   <td>Phone Number</td> 
-   <td>Person ID</td> 
+   <td>[!UICONTROL Phone Number]</td> 
+   <td>[!UICONTROL Person ID]</td> 
    <td><br></td> 
   </tr> 
  </tbody> 
@@ -161,20 +161,20 @@ You have the ability to export contact information from the Person Detail View. 
 >
 >This can only be done one contact at a time. There is currently no functionality allowing bulk exports of contacts.
 
-To export contact information, click the three vertical dots in the Person Detail View Header and select **Export**. The .CSV file will automatically download.
+To export contact information, click the three vertical dots in the Person Detail View Header and select **[!UICONTROL Export]**. The .CSV file will automatically download.
 
 ![](assets/thirteen.png)
 
 >[!NOTE]
 >
->The GDPR also requires the ability to delete contacts from the UI, but Marketo Sales Connect already possesses this functionality.
+>The GDPR also requires the ability to delete contacts from the UI, but [!DNL Marketo Sales Connect] already possesses this functionality.
 
 ## Unsubscribes {#unsubscribes}
 
-One commonly misunderstood area of GDPR involves contacts that unsubscribe from the organization’s database. In order to adhere to new rules around protecting the data of those who choose to unsubscribe, the following functionality has been included in Marketo Sales Connect:  
+One commonly misunderstood area of GDPR involves contacts that unsubscribe from the organization’s database. In order to adhere to new rules around protecting the data of those who choose to unsubscribe, the following functionality has been included in [!DNL Marketo Sales Connect]:  
   
-**Unsubscribe Links:** Unsubscribe links will be automatically appended to all emails sent from the Sales Connect web application to ensure that contacts are given an accessible way to opt-out.  
-**Unsubscribe Sync:** Users can sync unsubscribes to and from their CRM (Salesforce) to ensure that opt-outs are up-to-date.  
+**Unsubscribe Links:** Unsubscribe links will be automatically appended to all emails sent from the [!DNL Sales Connect] web application to ensure that contacts are given an accessible way to opt-out.  
+**Unsubscribe Sync:** Users can sync unsubscribes to and from their CRM ([!DNL Salesforce]) to ensure that opt-outs are up-to-date.  
 **Unsubscribe History:** Users can see historical opt-outs and opt-ins in the Person Detail View.  
 **Unsubscribe Removal:** Opting an unsubscribed contact back in requires the user to have admin privileges and to demonstrate that the contact has given new consent to contact them.
 
