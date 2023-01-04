@@ -8,11 +8,11 @@ exl-id: 51e044ac-c761-4d51-ac8a-168ba8f763c6
 
 1. Go to the **[!UICONTROL Analytics]** area.
 
-![](assets/image2015-4-27-8-3a38-3a10.png)
+   ![](assets/image2015-4-27-8-3a38-3a10.png)
 
 1. Select a [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-![](assets/image2015-4-27-8-3a38-3a22.png)
+   ![](assets/image2015-4-27-8-3a38-3a22.png)
 
 1. Once you've run your report, click on the workspace to go back to the **Analytics Home**.
 
