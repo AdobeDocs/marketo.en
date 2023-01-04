@@ -10,15 +10,15 @@ We have always allowed teams to customize their unsubscribe link messaging, but 
 
 >[!NOTE]
 >
->You cannot use a third party unsubscribe link with Sales Connect as this information will not be captured back into our database.
+>You cannot use a third party unsubscribe link with [!DNL Sales Connect] as this information will not be captured back into our database.
 
 ## Customize Messaging for Yourself {#customize-messaging-for-yourself}
 
-1. Log in to the [web application](https://toutapp.com/login), click the gear icon on the top right and choose **Settings**.
+1. Log in to the [web application](https://toutapp.com/login), click the gear icon on the top right and choose **[!UICONTROL Settings]**.
 
    ![](assets/one.png)
 
-1. Under My Account, select **Unsubscribes**.
+1. Under [!UICONTROL My Account], select **[!UICONTROL Unsubscribes]**.
 
    ![](assets/two-1.png)
 
@@ -34,24 +34,24 @@ We have always allowed teams to customize their unsubscribe link messaging, but 
    >
    >It will not matter what the URL is that is being hyperlinked. When the email is sent that hyperlink will be converted to our unsubscribe link.
 
-1. Click **OK**.
+1. Click **[!UICONTROL OK]**.
 
    ![](assets/five.png)
 
 ## Set Unsubscribe Messaging for Your Team {#set-unsubscribe-messaging-for-your-team}
 
-1. Log in to the [web application](https://toutapp.com/login), click the gear icon on the top right and choose **Settings**.
+1. Log in to the [web application](https://toutapp.com/login), click the gear icon on the top right and choose **[!UICONTROL Settings]**.
 
    ![](assets/six.png)
 
-1. Under Admin Settings, select **Unsubscribes**.
+1. Under [!UICONTROL Admin Settings], select **[!UICONTROL Unsubscribes]**.
 
    ![](assets/eight.png)
 
-1. Customize your messaging and click **Save** when done.
+1. Customize your messaging and click **[!UICONTROL Save]** when done.
 
    ![](assets/seven.png)
 
-1. Select **I am setting the default messaging for my team** to have the messaging apply to all users.
+1. Select **[!UICONTROL I am setting the default messaging for my team]** to have the messaging apply to all users.
 
    ![](assets/eleven.png)
