@@ -26,7 +26,7 @@ By default, Marketo reports are limited to a maximum of 5,000 rows, but you can 
 
    >[!TIP]
    >
-   >Changing the limit changes the report size itself, not just the exported Excel file, so if your report is taking too long to generate, reduce the limit!
+   >Changing the limit changes the report size itself, not just the exported [!DNL Excel] file, so if your report is taking too long to generate, reduce the limit!
 
 1. Click **[!UICONTROL Save]** to confirm the new limit.
 
