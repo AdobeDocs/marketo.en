@@ -1,10 +1,10 @@
 ---
 unique-page-id: 10099408
-description: [!UICONTROL Email Insights] Overview - Marketo Docs - Product Documentation
-title: [!UICONTROL Email Insights] Overview
+description: Email Insights Overview - Marketo Docs - Product Documentation
+title: Email Insights Overview
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 ---
-# [!UICONTROL Email Insights] Overview {#email-insights-overview}
+# Email Insights Overview {#email-insights-overview}
 
 **[!UICONTROL Email Insights]** provides powerful insights from historical data for Email Marketers. It consists of two separate but associated sections: [!UICONTROL Analytics] and [!UICONTROL Sends].
   
