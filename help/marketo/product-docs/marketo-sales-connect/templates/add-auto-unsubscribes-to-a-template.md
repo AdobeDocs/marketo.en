@@ -6,7 +6,7 @@ exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
 ---
 # Add Auto-Unsubscribes to a Template {#add-auto-unsubscribes-to-a-template}
 
-1. Select your template and click **Edit** in the Unsubscribe section.
+1. Select your template and click **[!UICONTROL Edit]** in the [!UICONTROL Unsubscribe] section.
 
 1. Select whether you want to append the auto-unsubscribe, auto-block unsubscribe, or both.
 
@@ -14,4 +14,4 @@ exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
 
 >[!NOTE]
 >
->You can also adjust how these unsubscribe messages appear from the **Timezone & Unsubscribes** tab in **Settings**.
+>You can also adjust how these unsubscribe messages appear from the **[!UICONTROL Timezone & Unsubscribes]** tab in **[!UICONTROL Settings]**.
