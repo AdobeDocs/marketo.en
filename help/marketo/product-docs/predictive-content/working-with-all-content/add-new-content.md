@@ -6,7 +6,7 @@ exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 ---
 # Add New Content {#add-new-content}
 
-You can easily add content manually to the All Content page.
+You can easily add content manually to the [!UICONTROL All Content] page.
 
 1. Click the **[!UICONTROL Add Content]** drop-down and select **[!UICONTROL Add Content]**.
 
