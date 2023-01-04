@@ -13,15 +13,15 @@ Allow your sales teams to select call reasons when making calls so your team can
 
 ## Enable Call Reasons {#enable-call-reasons}
 
-1. Click on the gear icon and select **Settings**.
+1. Click on the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/call-reasons-1.png)
 
-1. Under Admin Settings select **Dialer**.
+1. Under [!UICONTROL Admin Settings] select **[!UICONTROL Dialer]**.
 
    ![](assets/call-reasons-2.png)
 
-1. Select **Enable Call Reasons**.
+1. Select **[!UICONTROL Enable call reasons]**.
 
    ![](assets/call-reasons-3.png)
 
@@ -35,19 +35,19 @@ Allow your sales teams to select call reasons when making calls so your team can
 >
 >You can create a maximum of 15 Call Reasons.
 
-1. Click on the gear icon and select **Settings**.
+1. Click on the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/call-reasons-5.png)
 
-1. Under Admin Settings select **Dialer**.
+1. Under [!UICONTROL Admin Settings] select **[!UICONTROL Dialer]**.
 
    ![](assets/call-reasons-6.png)
 
-1. Click **Manage Call Reasons**.
+1. Click **[!UICONTROL Manage call reasons]**.
 
    ![](assets/call-reasons-7.png)
 
-1. Enter your desired call reason name into the text field and click **Add**.
+1. Enter your desired call reason name into the text field and click **[!UICONTROL Add]**.
 
    ![](assets/call-reasons-8.png)
 
@@ -59,7 +59,7 @@ Once call reasons have been enabled. Users can select one while making a call.
 
    ![](assets/call-reasons-9.png)
 
-1. Enter the call information in the dialer and click **Call**.
+1. Enter the call information in the dialer and click **[!UICONTROL Call]**.
 
    ![](assets/call-reasons-10.png)
 
