@@ -5,15 +5,15 @@ exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 ---
 # Granting Access to Users {#granting-access-to-users}
 
-Follow the steps in this article to grant your Sales Connect users access to the Marketo connection. This will unlock features such as Interesting Moments in the Live Feed and access to Marketing Campaigns.
+Follow the steps in this article to grant your [!DNL Sales Connect] users access to the Marketo connection. This will unlock features such as Interesting Moments in the Live Feed and access to Marketing Campaigns.
 
-You will need to invite users to Sales Connect [here](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), before they are visible in the Marketo > Team Access page (in Sales Connect), where access to the Marketo connection is granted.
+You will need to invite users to [!DNL Sales Connect] [here](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), before they are visible in the Marketo > [!UICONTROL Team Access] page (in [!DNL Sales Connect]), where access to the Marketo connection is granted.
 
 >[!CAUTION]
 >
->Please wait ten minutes after connecting Sales Connect with Marketo before performing these steps.
+>Please wait ten minutes after connecting [!DNL Sales Connect] with Marketo before performing these steps.
 
-1. Select one or more users, then click **Connect**.
+1. Select one or more users, then click **[!UICONTROL Connect]**.
 
    >[!NOTE]
    >
@@ -25,7 +25,7 @@ You will need to invite users to Sales Connect [here](/help/marketo/product-docs
 
    ![](assets/granting-access-to-users-2.jpg)
 
-1. Click the Workspace drop-down, select your desired workspace(s), and click **Connect**.
+1. Click the Workspace drop-down, select your desired workspace(s), and click **[!UICONTROL Connect]**.
 
    ![](assets/granting-access-to-users-3.png)
 
