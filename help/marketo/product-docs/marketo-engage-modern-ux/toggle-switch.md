@@ -15,11 +15,11 @@ The Toggle Switch allows you to switch between Marketo's classic interface and t
 
 Enable the toggle switch for individual roles or all roles. Here's how.
 
-1. In Marketo Engage, click **Admin**.
+1. In Marketo Engage, click **[!UICONTROL Admin]**.
 
    ![](assets/toggle-switch-1.png)
 
-1. Click **New Experience**.
+1. Click **[!UICONTROL New Experience]**.
 
    ![](assets/toggle-switch-2.png)
 
@@ -43,7 +43,7 @@ To enable it for _all_ features, click the gear icon next to the toggle switch.
 
    ![](assets/toggle-switch-6.png)
 
-Select **Enable for all available features** and click **OK**.
+Select **[!UICONTROL Enable for all available features]** and click **[!UICONTROL OK]**.
 
    ![](assets/toggle-switch-7.png)
 
