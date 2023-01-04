@@ -16,7 +16,7 @@ When you set content patterns, content is auto-discovered when a web visitor cli
 
    ![](assets/click-url-patterns-hand.png)
 
-1. Click the **[!UICONTROL +]** to open up a row where you can enter your information.
+1. Click the **+** to open up a row where you can enter your information.
 
    ![](assets/content-settings-create-patterns-hand.png)
 
@@ -28,7 +28,7 @@ When you set content patterns, content is auto-discovered when a web visitor cli
    >
    >Items in the drop-down list on the right reflect the categories you set up when you [created categories](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
-1. Click **[!UICONTROL +]** to add another path.
+1. Click **+** to add another path.
 
    ![](assets/url-patterns-add2.png)
 
