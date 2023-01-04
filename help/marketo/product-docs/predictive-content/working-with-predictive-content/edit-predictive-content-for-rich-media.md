@@ -10,13 +10,13 @@ Here's how to set up your predictive content for Rich Media.
 
 >[!PREREQUISITES]
 >
->Content must be [approved for predictive content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) on the All Content page.
+>Content must be [approved for predictive content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) on the [!UICONTROL All Content] page.
 
-1. On the **Predictive Content** page, click a title to open the editor.
+1. On the **[!UICONTROL Predictive Content]** page, click a title to open the editor.
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. Click **Rich Media**.
+1. Click **[!UICONTROL Rich Media]**.
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -24,11 +24,11 @@ Here's how to set up your predictive content for Rich Media.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
-1. Type in a **Description**.
+1. Type in a **[!UICONTROL Description]**.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Click the **Categories** box to select/add [categories you've already set up](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (optional).
+1. Click the **[!UICONTROL Categories]** box to select/add [categories you've already set up](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (optional).
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -44,6 +44,6 @@ Here's how to set up your predictive content for Rich Media.
 
    ![](assets/six-1.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/save.png)
