@@ -1,11 +1,11 @@
 ---
-description: Getting Started Guide for Sales Connect Admins - Marketo Docs - Product Documentation
-title: Getting Started Guide for Sales Connect Admins
+description: Getting Started Guide for [!DNL Sales Connect] Admins - Marketo Docs - Product Documentation
+title: Getting Started Guide for [!DNL Sales Connect] Admins
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 ---
-# Getting Started Guide for Sales Connect Admins {#getting-started-guide-for-sales-connect-admins}
+# Getting Started Guide for [!DNL Sales Connect] Admins {#getting-started-guide-for-sales-connect-admins}
 
-This document will take you through the initial steps for setting up your new Sales Connect instance. Some of these steps will require access as a Marketo admin, Salesforce admin, and Sales Connect admin. Follow our guides below to complete your instance setup.
+This document will take you through the initial steps for setting up your new [!DNL Sales Connect] instance. Some of these steps will require access as a Marketo admin, [!DNL Salesforce] admin, and [!DNL Sales Connect] admin. Follow our guides below to complete your instance setup.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Once you have provisioned your Marketo Sales Connect account from Marketo and in
 
 ![](assets/getting-started-guide-for-sales-connect-admins-2.png)
 
-## Connecting to Salesforce {#connecting-to-salesforce}
+## Connecting to [!DNL Salesforce] {#connecting-to-salesforce}
 
-All users will individually need to connect to Salesforce in order to enable log sales activities to salesforce such as emails, calls, and tasks. However, when you connect to Salesforce as an admin you will have the opportunity to configure your activity logging settings for your entire team, so that global logging settings will be applied to all Sales Connect users.
+All users will individually need to connect to [!DNL Salesforce] in order to enable log sales activities to salesforce such as emails, calls, and tasks. However, when you connect to Salesforce as an admin you will have the opportunity to configure your activity logging settings for your entire team, so that global logging settings will be applied to all [!DNL Sales Connect] users.
 
-To connect your Sales Connect instance to your Salesforce instance, as an Admin or a non-Admin, follow the steps in [this article](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md).
+To connect your [!DNL Sales Connect] instance to your [!DNL Salesforce] instance, as an Admin or a non-Admin, follow the steps in [this article](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md).
 
 ![](assets/getting-started-guide-for-sales-connect-admins-3.png)
 
@@ -41,19 +41,19 @@ Connecting to Marketo will enable your sellers to harness the power of marketing
 
 To learn more about how to connect to Marketo and grant sales users access to the connection, click here.  
 
-## Installing Salesforce Customization Package {#installing-salesforce-customization-package}
+## Installing [!DNL Salesforce] Customization Package {#installing-salesforce-customization-package}
 
 Part of ensuring sales is enabled for success means having the right capabilities in their primary workspace. The Sales Connect customization package allows engagement capabilities and key sales activity attributes to be accessible from Salesforce.  
 
-To learn more about installing the Sales Connect Customization [click here](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
+To learn more about installing the [!DNL Sales Connect] Customization [click here](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
 ## Testing in Sandbox {#testing-in-sandbox}
 
-For teams who want to test Marketo Sales Connect with their Marketo Sandbox, an additional Sales Connect account can be provisioned upon request. This is only for customers who have purchased a Marketo Sandbox, or those who have it as part of their Marketo bundle. If you’re interested in acquiring a Sandbox, please contact your Marketo Account Manager.
+For teams who want to test Marketo Sales Connect with their Marketo Sandbox, an additional [!DNL Sales Connect] account can be provisioned upon request. This is only for customers who have purchased a Marketo Sandbox, or those who have it as part of their Marketo bundle. If you’re interested in acquiring a Sandbox, please contact your Marketo Account Manager.
 
 >[!NOTE]
 >
->You cannot provision a Sales Connect account with the same email ID to multiple instances. This means if you want to have an extra Sales Connect account to test with your Marketo Sandbox instance, you’ll need to use a different email ID in each of the accounts.
+>You cannot provision a [!DNL Sales Connect] account with the same email ID to multiple instances. This means if you want to have an extra [!DNL Sales Connect] account to test with your Marketo Sandbox instance, you’ll need to use a different email ID in each of the accounts.
 
 >[!MORELIKETHIS]
 >
