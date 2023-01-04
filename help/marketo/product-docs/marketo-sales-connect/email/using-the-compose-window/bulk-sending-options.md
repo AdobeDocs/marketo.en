@@ -6,7 +6,7 @@ exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 ---
 # Bulk Sending Options {#bulk-sending-options}
 
-Sending emails in bulk is a great way to accelerate your prospect engagement. Sales Connect offers two ways to send emails in bulk: **Group Emails** and **Select and Send**. Group emails are a great way to quickly send hundreds of emails to a targeted group. Using Select and Send means lower email limits, but it offers more customization opportunities to the user.
+Sending emails in bulk is a great way to accelerate your prospect engagement. [!DNL Sales Connect] offers two ways to send emails in bulk: **Group Emails** and **Select and Send**. Group emails are a great way to quickly send hundreds of emails to a targeted group. Using Select and Send means lower email limits, but it offers more customization opportunities to the user.
 
 **Group Email vs. Select and Send**
 
