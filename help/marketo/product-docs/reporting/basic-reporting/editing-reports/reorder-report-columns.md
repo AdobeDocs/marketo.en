@@ -8,11 +8,11 @@ exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 
 You can change the order of the columns in a report.
 
-1. Go to the **Marketing Activities** (or **Analytics**) area.
+1. Go to the **[!UICONTROL Marketing Activities]** (or **[!UICONTROL Analytics]**) area.
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. Select your report from the navigation tree, and click the **Report** tab.
+1. Select your report from the navigation tree, and click the **[!UICONTROL Report]** tab.
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 
