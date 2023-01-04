@@ -22,7 +22,7 @@ You can edit these columns directly in the Subscriptions tab, which appears in M
 
    ![](assets/two.png)
 
-1. Click in the Recipients column and it opens so you can enter more email addresses (separate them with a comma).
+1. Click in the **[!UICONTROL Recipients]** column and it opens so you can enter more email addresses (separate them with a comma).
 
    ![](assets/image2015-9-14-13-3a44-3a14.png)
 
