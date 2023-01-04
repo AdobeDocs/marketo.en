@@ -8,9 +8,9 @@ exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
 
 Here's how to set up revenue attribution for digital advertising channels and campaigns. After you've set it up, you can do first-touch and multi-touch revenue attribution for digital ads the same as in other Marketo programs.
 
-After you set up your first ad program in Marketo, you can clone and update it for other channels. For example, clone a LinkedIn program to a Facebook one.
+After you set up your first ad program in Marketo, you can clone and update it for other channels. For example, clone a [!DNL LinkedIn] program to a [!DNL Facebook] one.
 
-With separate programs, you then can track the number of conversions from each one and see your programs in Program Analyzer, Opportunity Influence Analyzer, and other Marketo Analytics features.
+With separate programs, you then can track the number of conversions from each one and see your programs in [!UICONTROL Program Analyzer], [!UICONTROL  Opportunity Influence Analyzer], and other Marketo Analytics features.
 
 >[!PREREQUISITES]
 >
@@ -22,11 +22,11 @@ With separate programs, you then can track the number of conversions from each o
 
 Unlike some programs (such as email) which may run periodically for a specific period of time, default programs are always on.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Click **New** and select **New Program**.
+1. Click **[!UICONTROL New]** and select **[!UICONTROL New Program]**.
 
    ![](assets/image2016-3-14-15-52-0.png)
 
@@ -58,9 +58,9 @@ Unlike some programs (such as email) which may run periodically for a specific p
 
    >[!NOTE]
    >
-   >The query string used in the two triggers and the **Program That Captured Name** filter is unique to you. The query strings shown here are for example only. If you cloned the field, simply replace these fields.
+   >The query string used in the two triggers and the **[!UICONTROL  Program That Captured Name]** filter is unique to you. The query strings shown here are for example only. If you cloned the field, simply replace these fields.
 
-1. Create a flow step to change the attribute to **Acquisition Program** and set the New Value to the value you've defined for paid social campaigns.
+1. Create a flow step to change the attribute to **[!UICONTROL Acquisition Program]** and set the [!UICONTROL New Value] to the value you've defined for paid social campaigns.
 
    ![](assets/image2016-3-14-14-3a58-3a6.png)
 
@@ -70,7 +70,7 @@ Unlike some programs (such as email) which may run periodically for a specific p
 
 You need a second smart campaign to change the status of people, so they can achieve Program Success and be included in revenue attribution calculations.
 
-1. In the **Fills Out Form** trigger, enter the program name in the query string. If you're cloning the program, just replace the old query string name with the new one.
+1. In the **[!UICONTROL Fills Out Form]** trigger, enter the program name in the query string. If you're cloning the program, just replace the old query string name with the new one.
 
    ![](assets/image2016-3-23-14-3a7-3a20.png)
 
@@ -80,7 +80,7 @@ You need a second smart campaign to change the status of people, so they can ach
 
    >[!NOTE]
    >
-   >The example above shows **Converted**, but this depends on your status/success values.
+   >The example above shows **[!UICONTROL Converted]**, but this depends on your status/success values.
 
 1. Schedule and activate the campaign.
 
@@ -88,7 +88,7 @@ You need a second smart campaign to change the status of people, so they can ach
 
 After you've set up the program and campaigns, create the new ad.
 
-1. Go to the channel; e.g., LinkedIn or Facebook.
+1. Go to the channel; e.g., [!DNL LinkedIn] or [!DNL Facebook].
 1. Create a new ad.
 1. Select a Marketo landing page as a destination for the Call To Action in the campaign.
 1. Add the query string to the URL.
@@ -103,7 +103,7 @@ After you've set up the program and campaigns, create the new ad.
    >
    >* **source** is the Person Source used as a channel identifier
    >* **comment** is the unique identifier created for each program
-   >* **camp** is the campaign in Facebook, LinkedIn, or Google
+   >* **camp** is the campaign in [!DNL Facebook], [!DNL LinkedIn], or [!DNL Google]
    >* **kk** is the keyword or asset name you want to capture
    >
    >**These four terms must be all lowercase and there can't be any spaces in the URL for this information to be captured.**
