@@ -12,12 +12,12 @@ The All Content page displays all content that has been discovered or added manu
 
 The page fields include:
 
-* **Title**: The name of the piece of content
-* **Categories**: Created by you and used to group your predictive outcomes for web or email
-* **Views**: Total clicks on discovered web content (including all sources)
-* **Conversions**: The number of visitors who viewed a content piece and completed a form in the same visit
-* **Conversion Rate**: A percentage calculated by direct conversions divided by clicks
-* **Approve for Predictive**: Icon displays if the content is approved
+* **[!UICONTROL Title]**: The name of the piece of content
+* **[!UICONTROL Categories]**: Created by you and used to group your predictive outcomes for web or email
+* **[!UICONTROL Views]**: Total clicks on discovered web content (including all sources)
+* **[!UICONTROL Conversions]**: The number of visitors who viewed a content piece and completed a form in the same visit
+* **[!UICONTROL Conversion Rate]**: A percentage calculated by direct conversions divided by clicks
+* **[!UICONTROL Approve for Predictive]**: Icon displays if the content is approved
 
 You can add a new piece of content and track it, remove a piece of content, or approve a piece of content. After you approve content, you can edit it on the Predictive Content page.
 
@@ -25,7 +25,7 @@ You can add a new piece of content and track it, remove a piece of content, or a
 
 Filter content by selecting one or more categories. Then, set up the date or date range for the content analytics, using standard or custom settings.
 
-1. On the **All Content** page, click the filter icon and under **Category**, select one or more content category.
+1. On the **[!UICONTROL All Content]** page, click the filter icon and under **[!UICONTROL Category]**, select one or more content category.
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
@@ -35,7 +35,7 @@ Filter content by selecting one or more categories. Then, set up the date or dat
 
 ## Display Analytics for a Date or Date Range {#display-analytics-for-a-date-or-date-range}
 
-1. To display data for a specific date or date range, click the calendar icon and then select from the left panel. For a custom date range, click the first and last day of the date range on the calendar (as shown). Click **Apply**.
+1. To display data for a specific date or date range, click the calendar icon and then select from the left panel. For a custom date range, click the first and last day of the date range on the calendar (as shown). Click **[!UICONTROL Apply]**.
 
    ![](assets/all-content-calendar-filter-hands.png)
 
