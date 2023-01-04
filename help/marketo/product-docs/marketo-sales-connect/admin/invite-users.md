@@ -8,19 +8,19 @@ exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
 
 Adding users is quick and easy!
 
-1. Click the gear icon and select **Settings**.
+1. Click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/one.png)
 
-1. Under Admin Settings, select **User Management**.
+1. Under [!UICONTROL Admin Settings], select **[!UICONTROL User Management]**.
 
    ![](assets/invite-team-members-2.png)
 
-1. Click **Invite Users**.
+1. Click **[!UICONTROL Invite Users]**.
 
    ![](assets/invite-team-members-3.png)
 
-1. Enter the email addresses of the individuals you'd like to add and click **Next**.
+1. Enter the email addresses of the individuals you'd like to add and click **[!UICONTROL Next]**.
 
    ![](assets/four.png)
 
@@ -28,6 +28,6 @@ Adding users is quick and easy!
    >
    >By default, all new members will be added to the Everyone team.
 
-1. Click **OK**.
+1. Click **[!UICONTROL OK]**.
 
    ![](assets/five.png)
