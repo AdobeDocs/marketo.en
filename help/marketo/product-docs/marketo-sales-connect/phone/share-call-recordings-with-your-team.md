@@ -14,17 +14,17 @@ Sales Phone gives you the ability to record and save your call recordings. If yo
 
 1. Open up the person details.
 
-1. Find the Call Activity under the activity list.
+1. Find the [!UICONTROL Call Activity] under the activity list.
 
 1. Right-click on the call recording and copy the link URL.
 
-## Copy Recording Link from the Salesforce Task {#copy-recording-link-from-the-salesforce-task}
+## Copy Recording Link from the [!DNL Salesforce] Task {#copy-recording-link-from-the-salesforce-task}
 
 >[!NOTE]
 >
->You will need to have your calls logging to Salesforce in order to get this link.
+>You will need to have your calls logging to [!DNL Salesforce] in order to get this link.
 
-1. Navigate to the task created in Salesforce for the call.
+1. Navigate to the task created in [!DNL Salesforce] for the call.
 
 1. Copy the link listed in the Sales Call Recording field.
 
