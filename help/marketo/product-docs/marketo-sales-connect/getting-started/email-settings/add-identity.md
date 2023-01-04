@@ -10,11 +10,11 @@ Add an identity when you have multiple email addresses to send from.
 
 1. Click the Settings icon.
 
-1. Click **Email Settings**.
+1. Click **[!UICONTROL Email Settings]**.
 
-1. Click **Add Identity**.
+1. Click **[!UICONTROL Add Identity]**.
 
-1. Enter your information (email and name are required fields), click **Create** when done.
+1. Enter your information (email and name are required fields), click **[!UICONTROL Create]** when done.
 
 1. Click the link in the verification email you receive.
 
