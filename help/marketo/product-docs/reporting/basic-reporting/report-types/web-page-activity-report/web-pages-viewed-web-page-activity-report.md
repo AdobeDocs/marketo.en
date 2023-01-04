@@ -22,4 +22,4 @@ From a [[!UICONTROL Web Page Activity] report](/help/marketo/product-docs/report
 
    >[!MORELIKETHIS]
    >
-   >Create a  [Company Web Activity report](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) to see which companies are visiting your site.
+   >Create a  [[!UICONTROL Company Web Activity] report](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) to see which companies are visiting your site.
