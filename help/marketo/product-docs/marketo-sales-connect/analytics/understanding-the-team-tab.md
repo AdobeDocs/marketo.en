@@ -6,7 +6,7 @@ exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 ---
 # Understanding the Team Tab {#understanding-the-team-tab}
 
-In the [!UICONTROL Team] Tab we highlight three important metrics.
+In the Team Tab we highlight three important metrics.
 
 ## Emails sent with template {#emails-sent-with-template}
 
