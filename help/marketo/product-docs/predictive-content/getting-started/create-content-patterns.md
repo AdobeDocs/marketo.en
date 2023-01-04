@@ -8,19 +8,19 @@ exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 
 When you set content patterns, content is auto-discovered when a web visitor clicks on the HTML web page relevant to the content pattern. It's used to add HTML pages (blog posts, press releases, news articles) as content pieces to the All Content page. When auto-discovering is based on content patterns, it discovers and tracks HTML pages that are related to the defined URL pattern when a web visitor views or clicks a link to the page. This content piece (the URL, page name and meta data-including the image URL and description) is added to the All Content page to prepare predictive content. For auto-discovering other content, such as PDFs and embedded video, you need to [enable content discovery](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
-1. Go to **Content Settings**.
+1. Go to **[!UICONTROL Content Settings]**.
 
    ![](assets/settings-dropdown-hand-2.png)
 
-1. Click **URL Patterns**.
+1. Click **[!UICONTROL URL Patterns]**.
 
    ![](assets/click-url-patterns-hand.png)
 
-1. Click the **+** to open up a row where you can enter your information.
+1. Click the **[!UICONTROL +]** to open up a row where you can enter your information.
 
    ![](assets/content-settings-create-patterns-hand.png)
 
-1. Add the URL extension of the domain where the web page exists. Select the category (for example, Blog, Article, Data Sheet, Press Release).
+1. Add the URL extension of the domain where the web page exists. Select the category (for example, [!UICONTROL Blog], [!UICONTROL Article], [!UICONTROL Data Sheet], [!UICONTROL Press Release]).
 
    ![](assets/content-settings-create-content-patterns-dm-hands.png)
 
@@ -28,11 +28,11 @@ When you set content patterns, content is auto-discovered when a web visitor cli
    >
    >Items in the drop-down list on the right reflect the categories you set up when you [created categories](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
-1. Click **+** to add another path.
+1. Click **[!UICONTROL +]** to add another path.
 
    ![](assets/url-patterns-add2.png)
 
-1. Add the extension and catagory for the additional path and click **Save**.
+1. Add the extension and catagory for the additional path and click **[!UICONTROL Save]**.
 
    ![](assets/url-patterns-save.png)
 
