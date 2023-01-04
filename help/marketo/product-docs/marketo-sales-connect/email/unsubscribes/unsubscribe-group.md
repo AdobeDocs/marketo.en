@@ -14,6 +14,6 @@ Use the search bar to look up any unsubscribed people.
 
 ![](assets/2_c3.png)
 
-If you're an admin, you can go to the unsubscribe group to filter by Account Unsubscribes and see all of the unsubscribes that have been collected in your people database.
+If you're an admin, you can go to the unsubscribe group to filter by [!UICONTROL Account Unsubscribes] and see all of the unsubscribes that have been collected in your people database.
 
 ![](assets/3_c3.png)
