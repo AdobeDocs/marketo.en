@@ -18,7 +18,7 @@ Sometimes people want to opt back into receiving emails. Here's how to make unsu
 
 >[!NOTE]
 >
->If you have unsubscribe sync turned on you must remove the unsubscribe from [!DNL ToutApp] and uncheck the opt out in [!DNL Salesforce] for the person record to not sync again.
+>If you have unsubscribe sync turned on you must remove the unsubscribe from ToutApp and uncheck the opt out in [!DNL Salesforce] for the person record to not sync again.
 
 1. Go to the [web application](https://toutapp.com/login) and click **[!UICONTROL People]**.
 
