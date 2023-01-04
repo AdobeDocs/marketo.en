@@ -30,7 +30,7 @@ You can choose to display known people or anonymous people, but not both kinds o
 
    >[!TIP]
    >
-   >To find out who visits your site the most, [sort your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) on the _[!UICONTROL Page Views]_ column and choose Sort Descending.
+   >To find out who visits your site the most, [sort your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) on the _[!UICONTROL Page Views]_ column and choose [!UICONTROL Sort Descending].
 
    [Marketo adds anonymous](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) website visitors to your database and you can choose to show them in this report. It provides a wealth of information even though they are anonymous.  
    [Columns that you can select](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) for a [!UICONTROL Web Page Activity] report include:
