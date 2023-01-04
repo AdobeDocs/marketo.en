@@ -6,23 +6,23 @@ exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 ---
 # Connect Your Sales Connect Account to Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
-Follow these simple steps to connect Sales Connect to Salesforce.
+Follow these simple steps to connect [!DNL Sales Connect] to [!DNL Salesforce].
 
 ## How to Connect as an Admin {#how-to-connect-as-an-admin}
 
-1. In Sales Connect, click the gear icon on the upper-right and select **Settings**.
+1. In [!DNL Sales Connect], click the gear icon on the upper-right and select **[!UICONTROL Settings]**.
 
    ![](assets/one.png)
 
-1. Under Admin Settings, click **Salesforce**.
+1. Under [!UICONTROL  Admin Settings], click **[!UICONTROL Salesforce]**.
 
    ![](assets/six.png)
 
-1. In the Connections & Customizations tab, click **Connect**.
+1. In the [!UICONTROL Connections & Customizations] tab, click **[!UICONTROL Connect]**.
 
    ![](assets/seven.png)
 
-1. Click **OK**.
+1. Click **[!UICONTROL OK]**.
 
    ![](assets/four.png)
 
@@ -30,19 +30,19 @@ Follow these simple steps to connect Sales Connect to Salesforce.
 
 ## How to Connect as a non-Admin {#how-to-connect-as-a-non-admin}
 
-1. In Sales Connect, click the gear icon and select **Settings**.
+1. In [!DNL Sales Connect], click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/one.png)
 
-1. Under My Account, select **Salesforce**.
+1. Under [!UICONTROL My Account], select **[!UICONTROL Salesforce]**.
 
    ![](assets/two.png)
 
-1. In the Connections & Customizations tab, click **Connect**.
+1. In the [!UICONTROL Connections & Customizations] tab, click **[!UICONTROL Connect]**.
 
    ![](assets/three.png)
 
-1. Click **OK**.
+1. Click **[!UICONTROL OK]**.
 
    ![](assets/four.png)
 
