@@ -6,21 +6,21 @@ exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 ---
 # Enable Call Recording {#enable-call-recording}
 
-As an admin you can enable call recording for your Sales Connect calls. Recording your team's calls can be a great way to coach your sales reps on the best calling practices.
+As an admin you can enable call recording for your [!DNL Sales Connect] calls. Recording your team's calls can be a great way to coach your sales reps on the best calling practices.
 
-1. Click the Settings icon and select **Settings**.
+1. Click the Settings icon and select **[!UICONTROL Settings]**.
 
    ![](assets/one.png)
 
-1. Under Admin Settings, click **General**.
+1. Under [!UICONTROL Admin Settings], click **[!UICONTROL General]**.
 
    ![](assets/two.png)
 
-1. Scroll down to Sales Connect Phone Settings and select the **Enable call recording** toggle.
+1. Scroll down to [!DNL Sales Connect] Phone Settings and select the **[!UICONTROL Enable call recording]** toggle.
 
    ![](assets/three.png)
 
-1. If you want to give your sellers the ability to enable or disable call recording for themselves, click **Optional recording for all team members**. If you want all calls recorded automatically, click **Record all calls**.
+1. If you want to give your sellers the ability to enable or disable call recording for themselves, click **[!UICONTROL Optional recording for all team members]**. If you want all calls recorded automatically, click **[!UICONTROL Record all calls]**.
 
    ![](assets/four.png)
 
