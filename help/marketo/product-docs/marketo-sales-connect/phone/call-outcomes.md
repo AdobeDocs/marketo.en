@@ -13,15 +13,15 @@ Allow your sales teams to select call outcomes when making calls so your team ca
 
 ## Enable Call Outcomes {#enable-call-outcomes}
 
-1. Click on the gear icon and select **Settings**.
+1. Click on the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/call-outcomes-1.png)
 
-1. Under Admin Settings select **Dialer**.
+1. Under [!UICONTROL Admin Settings] select **[!UICONTROL Dialer]**.
 
    ![](assets/call-outcomes-2.png)
 
-1. Select **Enable Call Outcomes**.
+1. Select **[!UICONTROL Enable call outcomes]**.
 
    ![](assets/call-outcomes-3.png)
 
@@ -35,15 +35,15 @@ Allow your sales teams to select call outcomes when making calls so your team ca
 >
 >You can create a maximum of 15 Call Outcomes.
 
-1. Click on the gear icon and select **Settings**.
+1. Click on the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/call-outcomes-5.png)
 
-1. Under Admin Settings select **Dialer**.
+1. Under [!UICONTROL Admin Settings] select **[!UICONTROL Dialer]**.
 
    ![](assets/call-outcomes-6.png)
 
-1. Click **Manage Call Outcomes**.
+1. Click **[!UICONTROL Manage call outcomes]**.
 
    ![](assets/call-outcomes-7.png)
 
@@ -51,7 +51,7 @@ Allow your sales teams to select call outcomes when making calls so your team ca
 
     ![](assets/call-outcomes-8.png)
 
-1. Click the Answered drop-down and choose the outcome type (in this example we're choosing Answered). Then click **Add**.
+1. Click the [!UICONTROL Answered] drop-down and choose the outcome type (in this example we're choosing Answered). Then click **[!UICONTROL Add]**.
 
    ![](assets/call-outcomes-9.png)
 
@@ -63,7 +63,7 @@ Once call outcomes have been enabled. Users can select one while making a call.
 
    ![](assets/call-outcomes-10.png)
 
-1. Enter the call information in the dialer and click **Call**.
+1. Enter the call information in the dialer and click **[!UICONTROL Call]**.
 
    ![](assets/call-outcomes-11.png)
 
