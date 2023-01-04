@@ -20,7 +20,7 @@ You can export any report to an [!DNL Excel] file, to work with the data in othe
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
-   That's all! Your browser prompts you to save the Excel file to your system.
+   That's all! Your browser prompts you to save the [!DNL Excel] file to your system.
 
    >[!MORELIKETHIS]
    >
