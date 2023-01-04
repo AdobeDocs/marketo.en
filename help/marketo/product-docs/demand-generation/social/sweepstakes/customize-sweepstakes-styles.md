@@ -42,7 +42,7 @@ When you [create a sweepstakes](/help/marketo/product-docs/demand-generation/soc
    >
    >If you use an image with text on it, remember to remove the text from the **[!UICONTROL Enter Button]** field under Text above.
 
-1. As you make each change, the result is displayed in the **[!UICONTROL View & Edit]** preview.
+1. As you make each change, the result is displayed in the [!UICONTROL View & Edit] preview.
 
    ![](assets/image2014-9-25-17-3a55-3a3.png)
 
