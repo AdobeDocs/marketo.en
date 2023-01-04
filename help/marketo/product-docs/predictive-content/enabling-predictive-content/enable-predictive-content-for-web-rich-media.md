@@ -26,8 +26,7 @@ Predictive content engages your web visitors with the most relevant content, pow
 
 Once you've prepared the content title, description and image for Rich Media, you can enable individual or multiple content pieces.
 
-1. To enable an individual title, click a title to open the editor. Click ![Uploading image.png…]()
-**[!UICONTROL Rich Media]**, then check the **[!UICONTROL Enabled for Predictive Content in Rich Media]** box and click **[!UICONTROL Save]**.
+1. To enable an individual title, click a title to open the editor. Click **[!UICONTROL Rich Media]**, then check the **[!UICONTROL Enabled for Predictive Content in Rich Media]** box and click **[!UICONTROL Save]**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
