@@ -20,7 +20,7 @@ After you [create a sweepstakes](/help/marketo/product-docs/demand-generation/so
 
    ![](assets/image2014-9-25-17-3a41-3a27.png)
 
-1. Locate the **[!UICONTROL Insert Elements]** section on the right side of the page. Drag over **[!UICONTROL Sweepstakes]**.
+1. Locate the [!UICONTROL Insert Elements] section on the right side of the page. Drag over **[!UICONTROL Sweepstakes]**.
 
    ![](assets/image2014-9-25-17-3a41-3a31.png)
 
