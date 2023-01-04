@@ -4,9 +4,9 @@ description: Understanding the Content Tab - Marketo Docs - Product Documentatio
 title: Understanding the Content Tab
 exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
 ---
-# Understanding the Content Tab {#understanding-the-content-tab}
+# Understanding the [!UICONTROL Content] Tab {#understanding-the-content-tab}
 
-The Content Tab is all about your team's email engagement when using a template. We automatically bubble up three metrics that we believe to be important.
+The [!UICONTROL Content] Tab is all about your team's email engagement when using a template. We automatically bubble up three metrics that we believe to be important.
 
 ## Secret weapon {#secret-weapon}
 
@@ -20,6 +20,6 @@ This is the shared template that is getting the highest level of engagement acro
 
 Can be shared or not shared, this is the template with the least amount of engagement.
 
-Scroll down the page to see the Templates section that shows all the templates your team has been using (in this time frame) with the most views*.*
+Scroll down the page to see the [!UICONTROL Templates] section that shows all the templates your team has been using (in this time frame) with the most views*.*
 
 You can also see the Top Attachments that your team has sent (getting the most views), and the Top Links (getting the most clicks).
