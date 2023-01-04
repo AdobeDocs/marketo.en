@@ -4,7 +4,7 @@ description: Create a New Account List - Marketo Docs - Product Documentation
 title: Create a New Account List
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 ---
-# Create a New [!UICONTROL Account List] {#create-a-new-account-list}
+# Create a New Account List {#create-a-new-account-list}
 
 Create and upload a list of organization and domain names to target these key accounts with personalized campaigns.
 
@@ -12,7 +12,7 @@ Create and upload a list of organization and domain names to target these key ac
 >
 >This article applies legacy Web ABM customers only. If you acquired Web ABM after September of 2016, please follow the steps in [this article](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) instead.
 
-## Create a New [!UICONTROL Account List] {#create-a-new-account-list-1}
+## Create a New Account List {#create-a-new-account-list-1}
 
 1. Go to **[!UICONTROL Account Lists]**.
 
@@ -22,7 +22,7 @@ Create and upload a list of organization and domain names to target these key ac
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Select **[!UICONTROL Browse]** and upload your CSV file (Make sure the csv file meets the criteria). Add a **[!UICONTROL Name]** and **[!UICONTROL Description]**. Click **[!UICONTROL Save]**.
+1. Select **[!UICONTROL Browse]** and upload your CSV file (Make sure the csv file meets the criteria). Add a **[!UICONTROL List Name]** and **[!UICONTROL Description]**. Click **[!UICONTROL Save]**.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -44,32 +44,32 @@ Create and upload a list of organization and domain names to target these key ac
    >**Example of the CSV file**
    >
    >* Row 1 Column A value = Organization
-   >* Row 1 Column B value = [!UICONTROL Domain]
-   >* Row 1 Column C value = [!UICONTROL Country]
+   >* Row 1 Column B value = Domain
+   >* Row 1 Column C value = Country
    >* Row 1 Column D value = US State
-   >* One of the column values is mandatory. However, providing both Organization and [!UICONTROL Domain] names improves the match rates of the [!UICONTROL Account List].
-   >* [!UICONTROL Country] and State are optional values.
+   >* One of the column values is mandatory. However, providing both Organization and Domain names improves the match rates of the Account List.
+   >* Country and State are optional values.
    >
    >   * For country name, use full country name or abbreviation code. Eg. United States or US.
    >   * For a U.S. State, use the 2-letter abbreviation code, i.e. CA. Only U.S. states are recognized.
    >
    >![](assets/image2015-2-25-12-3a19-3a10.png)
 
-## Edit an [!UICONTROL Account List] {#edit-an-account-list}
+## Edit an Account List {#edit-an-account-list}
 
-On the **[!UICONTROL Account Lists]** page, click the **Edit** icon on the list.
+On the **Account Lists** page, click the **Edit** icon on the list.
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Select **[!UICONTROL Browse]** and upload your new CSV file. This file will replace the original file. Click **[!UICONTROL Save]**. The new uploaded file will be in a pending state until approved by Marketo Support, when in a pending state the original file will remain active.
+Select **[!UICONTROL Browse...]** and upload your new CSV file. This file will replace the original file. Click **[!UICONTROL Save]**. The new uploaded file will be in a pending state until approved by Marketo Support, when in a pending state the original file will remain active.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
 The CSV file will replace the existing file. The existing list will remain active until the processing of the new file is complete.
 
-## Delete a Named [!UICONTROL Account List] {#delete-a-named-account-list}
+## Delete a Named Account List {#delete-a-named-account-list}
 
-1. On the **[!UICONTROL Account Lists]** page, click the Delete icon of the list you wish to delete.
+1. On the **Account Lists** page, click the Delete icon of the list you wish to delete.
 
    ![](assets/create-new-account-list-delete.jpg)
 
