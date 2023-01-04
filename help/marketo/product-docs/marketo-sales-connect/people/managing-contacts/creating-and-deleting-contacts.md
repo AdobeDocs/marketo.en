@@ -8,11 +8,11 @@ exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 
 ## Creating Contacts {#creating-contacts}
 
-1. In the People page, click the **Group Actions** button and select **Create Contact**.
+1. In the [!UICONTROL People] page, click the **[!UICONTROL Group Actions]** button and select **[!UICONTROL Create Contact]**.
 
    ![](assets/one-2.png)
 
-1. Enter the first/last name and email address, along with any other info you'd like. Click **Create** when done, or **Create and Add New** to add more contacts.
+1. Enter the first/last name and email address, along with any other info you'd like. Click **[!UICONTROL Create]** when done, or **[!UICONTROL Create and Add New]** to add more contacts.
 
    ![](assets/two-2.png)
 
@@ -22,7 +22,7 @@ exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 
 ## Deleting Contacts {#deleting-contacts}
 
-1. In the People page, check the box of the contact you’d like to delete.
+1. In the [!UICONTROL People] page, check the box of the contact you’d like to delete.
 
    ![](assets/three-2.png)
 
@@ -30,10 +30,10 @@ exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
    >
    >To delete multiple contacts, simply select multiple people. The remaining steps would be the same.
 
-1. Click the dota (three vertical dots) and select **Delete**.
+1. Click the dota (three vertical dots) and select **[!UICONTROL Delete]**.
 
    ![](assets/four-2.png)
 
-1. Click **Delete Contact** to confirm.
+1. Click **[!UICONTROL Delete Contact]** to confirm.
 
    ![](assets/five-2.png)
