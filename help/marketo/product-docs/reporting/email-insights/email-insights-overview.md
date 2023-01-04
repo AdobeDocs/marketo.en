@@ -16,7 +16,7 @@ To access **[!UICONTROL Email Insights]**, simply click its tile in My Marketo (
 >
 >By default you will see data for every workspace you have access to. You can deselect workspaces you don't want to view. Your selection(s) will be remembered going forward.
 
-## Analytics {#analytics}
+## [!UICONTROL Analytics] {#analytics}
 
 Use [[!UICONTROL Analytics]](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) to explore the aggregate time-series data for email delivery and engagement metrics.
 
@@ -24,7 +24,7 @@ Use [[!UICONTROL Analytics]](/help/marketo/product-docs/reporting/email-insights
 
 **Filters**
 
-Used advanced [filters](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) to break down results by Audience, Content, or Platform. The same filters apply to both Analytics and Sends.
+Used advanced [filters](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) to break down results by Audience, Content, or Platform. The same filters apply to both [!UICONTROL Analytics] and [!UICONTROL Sends].
 
 ![](assets/filter.png)
 
