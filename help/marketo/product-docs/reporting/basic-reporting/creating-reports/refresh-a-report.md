@@ -16,7 +16,7 @@ After viewing a report, Marketo stores it in your database so that it loads quic
 
    ![](assets/two.png)
 
-1. You can also refresh the report by clicking on the **Report Actions** menu, and selecting **Refresh Report**.
+1. You can also refresh the report by clicking on the **[!UICONTROL Report Actions]** menu, and selecting **[!UICONTROL Refresh Report]**.
 
    ![](assets/three.png)
 
