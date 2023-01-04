@@ -12,15 +12,15 @@ exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 
 An admin can choose to require login in order to view a report.
 
-1. Click **Admin**, and then **Login Settings**.
+1. Click **[!UICONTROL Admin]**, and then **[!UICONTROL Login Settings]**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Click **Edit** for Smart List Report Settings.
+1. Click **[!UICONTROL Edit]** for Smart List Report Settings.
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. Select **Yes** to require a login to download reports.
+1. Select **[!UICONTROL Yes]** to require a login to download reports.
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 
