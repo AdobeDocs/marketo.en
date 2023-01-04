@@ -41,7 +41,7 @@ Filter on today, tomorrow, today *and* tomorrow, or next 7 days.
 >
 >You cannot use the custom date filter in the Live Feed, but you can in the web application.
 
-Use quick action buttons to quickly make a call, send an email, or navigate to a person's Linkedin profile.
+Use quick action buttons to quickly make a call, send an email, or navigate to a person's [!DNL Linkedin] profile.
 
 ## Target Tab {#target-tab}
 
@@ -51,7 +51,7 @@ See your top people (ordered from highest to lowest) ranked by lead score. The l
 
 * Leads will be generated when their person score increases in Marketo.
 * We show the top 50 leads.
-* You will only see the people that have been assigned to you in Salesforce.
+* You will only see the people that have been assigned to you in [!DNL Salesforce].
 
 ## Icon Glossary {#icon-glossary}
 
