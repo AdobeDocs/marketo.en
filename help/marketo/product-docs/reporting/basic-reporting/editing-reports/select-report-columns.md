@@ -8,7 +8,7 @@ exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 
 You can choose which columns are and are not included in your report.
 
-1. Go to the **Analytics** (or **Marketing Activities**) area.
+1. Go to the **[!UICONTROL Analytics]** (or **[!UICONTROL Marketing Activities]**) area.
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -16,7 +16,7 @@ You can choose which columns are and are not included in your report.
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. Click the **Report** tab, then click any column heading and select **Columns**, and then choose the columns to include.
+1. Click the **[!UICONTROL Report]** tab, then click any column heading and select **[!UICONTROL Columns]**, and then choose the columns to include.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 
