@@ -6,7 +6,7 @@ exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 ---
 # Using URLs in My Tokens {#using-urls-in-my-tokens}
 
-Follow the steps below to use My Tokens to insert URLs into your emails.
+Follow the steps below to use [!UICONTROL My Tokens] to insert URLs into your emails.
 
 1. Select your program and click **[!UICONTROL My Tokens]**.
 
@@ -36,7 +36,7 @@ Follow the steps below to use My Tokens to insert URLs into your emails.
 
    ![](assets/six-1.png)
 
-1. Anywhere in your email, type "https://" (without leaving a space after) and click the **[!UICONTROL Insert Token]** icon.
+1. Anywhere in your email, type "https://" (without leaving a space after) and click the [!UICONTROL Insert Token] icon.
 
    ![](assets/seven.png)
 
@@ -52,7 +52,7 @@ Follow the steps below to use My Tokens to insert URLs into your emails.
 
    ![](assets/nine.png)
 
-1. Highlight the text you want the link to display and click the **[!UICONTROL Insert/Edit Link]** icon.
+1. Highlight the text you want the link to display and click the [!UICONTROL Insert/Edit Link] icon.
 
    ![](assets/ten.png)
 
