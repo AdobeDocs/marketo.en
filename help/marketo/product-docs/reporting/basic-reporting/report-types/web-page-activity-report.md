@@ -12,13 +12,13 @@ You can choose to display known people or anonymous people, but not both kinds o
 
 >[!PREREQUISITES]
 >
->* [Add Munchkin Tracking Code to Your Website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>* [Add [!DNL Munchkin] Tracking Code to Your Website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-1. [Create a report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)and select the **Web Page Activity Report** [report type](report-type-overview.md).
+1. [Create a report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)and select the **[!UICONTROL Web Page Activity] Report** [report type](report-type-overview.md).
 
 1. Choose to [display known or anonymous people](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) in the report.
 
-1. [Set the time frame of your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) and click the **Report** tab.
+1. [Set the time frame of your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) and click the **[!UICONTROL Report]** tab.
 
 1. You've got it! Review your report to see who is visiting your site.
 
@@ -26,14 +26,14 @@ You can choose to display known people or anonymous people, but not both kinds o
 
    >[!NOTE]
    >
-   >It can take up to 24 hours for data to reflect in a Web Page Activity Report.
+   >It can take up to 24 hours for data to reflect in a [!UICONTROL Web Page Activity] Report.
 
    >[!TIP]
    >
-   >To find out who visits your site the most, [sort your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) on the _Page Views_ column and choose Sort Descending.
+   >To find out who visits your site the most, [sort your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) on the _[!UICONTROL Page Views]_ column and choose Sort Descending.
 
    [Marketo adds anonymous](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) website visitors to your database and you can choose to show them in this report. It provides a wealth of information even though they are anonymous.  
-   [Columns that you can select](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) for a Web Page Activity report include:
+   [Columns that you can select](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) for a [!UICONTROL Web Page Activity] report include:
 
 <table> 
  <thead> 
