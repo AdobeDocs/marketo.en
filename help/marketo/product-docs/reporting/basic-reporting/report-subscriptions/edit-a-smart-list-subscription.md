@@ -8,11 +8,11 @@ exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 
 You can edit these columns directly in the Subscriptions tab, which appears in Marketing Activities or Database:
 
-* Recipients
-* Frequency
-* Columns
-* End Delivery
-* Format
+* [!UICONTROL Recipients]
+* [!UICONTROL Frequency]
+* [!UICONTROL Columns]
+* [!UICONTROL End Delivery]
+* [!UICONTROL Format]
 
 1. Select **[!UICONTROL Database]** (we're using it in this example, but Marketing Activities works exactly the same).
 
