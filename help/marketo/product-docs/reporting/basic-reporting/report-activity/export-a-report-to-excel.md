@@ -1,22 +1,22 @@
 ---
 unique-page-id: 2360020
-description: Export a Report to Excel - Marketo Docs - Product Documentation
-title: Export a Report to Excel
+description: Export a Report to [!DNL Excel] - Marketo Docs - Product Documentation
+title: Export a Report to [!DNL Excel]
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 ---
-# Export a Report to Excel {#export-a-report-to-excel}
+# Export a Report to [!DNL Excel] {#export-a-report-to-excel}
 
-You can export any report to an Excel file, to work with the data in other software.
+You can export any report to an [!DNL Excel] file, to work with the data in other software.
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. Select your report from the navigation tree and click the **Report** tab.
+1. Select your report from the navigation tree and click the **[!UICONTROL Report]** tab.
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. Click the **Export** button.
+1. Click the **[!UICONTROL Export]** button.
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
