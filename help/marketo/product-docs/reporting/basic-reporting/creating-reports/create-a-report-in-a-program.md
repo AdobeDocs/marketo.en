@@ -8,7 +8,7 @@ exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 
 Run a report to analyze people, your programs, landing pages, emails, and social assets.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -18,17 +18,17 @@ Run a report to analyze people, your programs, landing pages, emails, and social
 
    >[!NOTE]
    >
-   >You can also create reports from the **Analytics** tab.
+   >You can also create reports from the **[!UICONTROL Analytics]** tab.
 
-1. Right-click the program and select **New Local Asset**.
+1. Right-click the program and select **[!UICONTROL New Local Asset]**.
 
    ![](assets/programrightclick-asset.png)
 
-1. Click **Report**.
+1. Click **[!UICONTROL Report]**.
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. Select the report **Type**.
+1. Select the report **[!UICONTROL Type]**.
 
    ![](assets/choosereport.png)
 
@@ -46,7 +46,7 @@ Run a report to analyze people, your programs, landing pages, emails, and social
 
 1. Set the time frame of your report. See [Change a Report Time Frame](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) for more details.
 
-1. Click the **Report** tab to see your statistics.
+1. Click the **[!UICONTROL Report]** tab to see your statistics.
 
    ![](assets/image2014-9-15-18-3a38-3a5.png)
 
