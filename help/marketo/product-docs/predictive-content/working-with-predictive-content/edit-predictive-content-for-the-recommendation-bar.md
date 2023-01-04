@@ -12,11 +12,11 @@ Here's how to set up your predictive content for the Recommendation Bar.
 >
 >Content must be [approved for predictive content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) on the All Content page.
 
-1. On the **Predictive Content** page, click a title to open the editor.
+1. On the **[!UICONTROL Predictive Content]** page, click a title to open the editor.
 
    ![](assets/image2017-10-3-9-3a45-3a13.png)
 
-1. Click **Bar**.
+1. Click **[!UICONTROL Bar]**.
 
    ![](assets/image2017-10-3-9-3a45-3a48.png)
 
@@ -24,6 +24,6 @@ Here's how to set up your predictive content for the Recommendation Bar.
 
    ![](assets/image2017-10-3-9-3a46-3a18.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/save.png)
