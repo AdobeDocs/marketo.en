@@ -20,7 +20,7 @@ Allow your visitors to fill out the form using their social network. You automat
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Under **[!UICONTROL Form Settings]**, click **[!UICONTROL Settings]**.
+1. Under [!UICONTROL Form Settings], click **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
