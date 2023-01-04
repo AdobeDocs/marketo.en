@@ -14,4 +14,4 @@ exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 
 1. Enter the URL you wish it to be linked to (i.e. "https://www.mywebsite.com").
 
-1. Click **OK**.
+1. Click **[!UICONTROL OK]**.
