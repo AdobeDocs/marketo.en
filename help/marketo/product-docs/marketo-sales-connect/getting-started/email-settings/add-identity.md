@@ -8,7 +8,7 @@ exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
 
 Add an identity when you have multiple email addresses to send from.
 
-1. Click the Settings icon.
+1. Click the [!UICONTROL Settings] icon.
 
 1. Click **[!UICONTROL Email Settings]**.
 
