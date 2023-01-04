@@ -8,7 +8,7 @@ exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 
 Marketo [!DNL Sales Connect] gives you multiple options to deliver emails. This article will review the delivery channels you can leverage, how to select them, and when to pick one over another.
 
-## Recommended: Gmail or Exchange via Email Connection {#recommended-gmail-or-exchange-via-email-connection}
+## Recommended: Gmail or [!DNL Exchange] via Email Connection {#recommended-gmail-or-exchange-via-email-connection}
 
 [!DNL Sales Connect] allows for a streamlined setup and the enhanced deliverability through our Email Connection service. The [!UICONTROL Email Connection] allows each user to connect to their [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) or [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) account to [!DNL Sales Connect] to be utilized as the delivery channel of choice for all [!DNL Sales Connect] emails.
 
