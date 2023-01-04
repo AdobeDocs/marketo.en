@@ -16,15 +16,15 @@ All of the standard Marketo dimensions are included, but you have the option of 
 >
 >Custom dimensions **cannot** be deleted or replaced, so choose your 10 carefully.
 
-1. In Email Insights, click the gear icon in the upper-right of the page.
+1. [!UICONTROL In Email Insights], click the gear icon in the upper-right of the page.
 
    ![](assets/cd1.png)
 
-1. Click **System**.
+1. Click **[!UICONTROL System]**.
 
    ![](assets/cd2.png)
 
-1. Click the **+** next to **Add dimension**.
+1. Click the **+** next to **[!UICONTROL Add dimension]**.
 
    ![](assets/cd3.png)
 
@@ -34,6 +34,6 @@ All of the standard Marketo dimensions are included, but you have the option of 
 
    >[!NOTE]
    >
-   >**By Audience**: Displays all approved Segmentations (from within the Database)
+   >**[!UICONTROL By Audience]**: Displays all approved Segmentations (from within the Database)
    >
-   >**By Content**: Displays all Program Tags
+   >**[!UICONTROL By Content]**: Displays all Program Tags
