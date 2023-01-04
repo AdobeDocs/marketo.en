@@ -8,11 +8,11 @@ exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 
 Configure and delete report subscriptions.
 
-1. Go to the **Analytics** area.
+1. Go to the **[!UICONTROL Analytics]** area.
 
    ![](assets/image2014-9-16-10-3a35-3a25.png)
 
-1. Click the **Subscriptions** tab.
+1. Click the **[!UICONTROL Subscriptions]** tab.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
@@ -20,13 +20,13 @@ Configure and delete report subscriptions.
 
    >[!TIP]
    >
-   >You can also manage subscriptions to an individual report in **Marketing Activities**. Select the report and click the **Subscriptions** tab.
+   >You can also manage subscriptions to an individual report in **[!UICONTROL Marketing Activities]**. Select the report and click the **[!UICONTROL Subscriptions]** tab.
 
    To change how often a report is emailed, click the Frequency field and select a new option from the drop-down menu.
 
    ![](assets/image2014-9-16-10-3a36-3a4.png)
 
-1. To change the email addresses in a subscription, click the **Email Recipients** field and edit the email addresses.
+1. To change the email addresses in a subscription, click the **[!UICONTROL Email Recipients]** field and edit the email addresses.
 
    ![](assets/image2014-9-16-10-3a36-3a11.png)
 
@@ -37,13 +37,13 @@ Configure and delete report subscriptions.
 
    You can also:
 
-    * Click the **View** button to open a report.
-    * Deselect the **Active** checkbox to deactivate the subscription.
-    * Click and edit the **Summary** field to change how many preview rows appear in the email.
-    * Deselect the **Excel** checkbox to send report summaries without the spreadsheet attachment.
-    * Click the **Send** button to send the report email immediately.
+    * Click the **[!UICONTROL View]** button to open a report.
+    * Deselect the **[!UICONTROL Active]** checkbox to deactivate the subscription.
+    * Click and edit the **[!UICONTROL Summary]** field to change how many preview rows appear in the email.
+    * Deselect the **[!UICONTROL Excel]** checkbox to send report summaries without the spreadsheet attachment.
+    * Click the **[!UICONTROL Send]** button to send the report email immediately.
 
-1. To delete a subscription altogether, select the row and click **Delete Subscription**.
+1. To delete a subscription altogether, select the row and click **[!UICONTROL Delete Subscription]**.
 
    ![](assets/image2014-9-16-10-3a36-3a38.png)
 
