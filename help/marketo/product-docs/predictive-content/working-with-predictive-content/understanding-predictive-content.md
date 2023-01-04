@@ -59,8 +59,8 @@ Hover over the bar in the [!UICONTROL Conversion Rate] column to view conversion
 >
 >**Definitions**
 >
->**Conversion Rate**: A percentage calculated by direct conversions divided by clicks
+>**[!UICONTROL Conversion Rate]**: A percentage calculated by direct conversions divided by clicks
 >
->**Direct Conversion**: Visitors who clicked on recommended content and completed a form in the same visit
+>**[!UICONTROL Direct Conversion]**: Visitors who clicked on recommended content and completed a form in the same visit
 >
->**Clicked**: Total clicks on recommended content (including all three sources)
+>**[!UICONTROL Clicked]**: Total clicks on recommended content (including all three sources)
