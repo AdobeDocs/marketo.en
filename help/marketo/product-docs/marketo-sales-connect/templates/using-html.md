@@ -12,7 +12,7 @@ exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
 
 1. Paste the source code there.
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
 >[!NOTE]
 >
