@@ -10,13 +10,13 @@ Here's how to set up your predictive content for emails.
 
 >[!PREREQUISITES]
 >
->Content must be [approved for predictive content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) on the All Content page.
+>Content must be [approved for predictive content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) on the [!UICONTROL All Content] page.
 
-1. On the Predictive Content page, click a title to open the editor.
+1. On the [!UICONTROL Predictive Content] page, click a title to open the editor.
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. The edit page opens. **Email** displays by default.
+1. The edit page opens. **[!UICONTROL Email]** displays by default.
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -32,7 +32,7 @@ Here's how to set up your predictive content for emails.
    >
    >If you changed the button label, it will update when you save your changes or preview your image.
 
-1. To add or edit the image URL, click **Edit Image**.
+1. To add or edit the image URL, click **[!UICONTROL Edit Image]**.
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
 
@@ -40,11 +40,11 @@ Here's how to set up your predictive content for emails.
    >
    >To ensure best quality, your image must be 400x400 pixels or smaller.
 
-1. Insert the image URL and click **Add**.
+1. Insert the image URL and click **[!UICONTROL Add]**.
 
    ![](assets/five.png)
 
-1. Click and drag the slider to change the image size. Then click and drag the cropping box to isolate the desired image area you want to use. Click **Preview** when done.
+1. Click and drag the slider to change the image size. Then click and drag the cropping box to isolate the desired image area you want to use. Click **[!UICONTROL Preview]** when done.
 
    ![](assets/six.png)
 
@@ -53,7 +53,7 @@ Here's how to set up your predictive content for emails.
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. Optionally, click the **Categories** field and add categories to the content. Options are from the [categories you've already set up](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+1. Optionally, click the **[!UICONTROL Categories]** field and add categories to the content. Options are from the [categories you've already set up](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
    ![](assets/eight.png)
 
@@ -61,7 +61,7 @@ Here's how to set up your predictive content for emails.
 
    ![](assets/nine.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/save.png)
 
