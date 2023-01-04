@@ -12,19 +12,19 @@ To receive automatic updates of a basic report, or to share them, you can subscr
 >
 >For Revenue Cycle Explorer report subscriptions, see [Subscribe to a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. Select your report from the navigation tree and click the **Subscriptions** tab.
+1. Select your report from the navigation tree and click the **[!UICONTROL Subscriptions]** tab.
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >You can also subscribe to reports from the **Analytics** tab.
+   >You can also subscribe to reports from the **[!UICONTROL Analytics]** tab.
 
-1. Click **New Report Subscription**.
+1. Click **[!UICONTROL New Report Subscription]**.
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
