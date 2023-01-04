@@ -6,9 +6,9 @@ exl-id: 99c64f83-4ff1-4355-af09-0527ca455632
 ---
 # Delete a Template Category {#delete-a-template-category}
 
-1. Click the menu icon next to a category and then click **Delete**.
+1. Click the menu icon next to a category and then click **[!UICONTROL Delete]**.
 
-1. Click **Delete** to confirm.
+1. Click **[!UICONTROL Delete]** to confirm.
 
 >[!NOTE]
 >
