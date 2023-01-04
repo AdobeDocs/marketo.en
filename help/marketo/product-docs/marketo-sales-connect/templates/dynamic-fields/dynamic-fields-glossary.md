@@ -6,9 +6,9 @@ exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 ---
 # Dynamic Fields Glossary {#dynamic-fields-glossary}
 
-When creating a template in Sales Connect, we always recommend integrating dynamic fields, using the **MSE Dynamic Fields** button.
+When creating a template in [!DNL Sales Connect], we always recommend integrating dynamic fields, using the **[!UICONTROL MSE Dynamic Fields]** button.
 
-This tool is used to `auto-personalize your email` and save you tons of time by `pulling information from the People page`.
+This tool is used to `auto-personalize your email` and save you tons of time by `pulling information from the [!UICONTROL People] page`.
 
 | Dynamic Field | Example of what appears in your email |
 |---|---|
@@ -25,7 +25,7 @@ This tool is used to `auto-personalize your email` and save you tons of time by 
 
 * If a contact's information is entered incorrectly or is missing from the People page, it will not pull over correctly into your template.
 * The difference between `{{company}}` and `{{company_friendly}}` is that `{{company_friendly}}` will remove any formal title, such as Inc., LLC., etc., from the name of your contact's company.
-* When using `{{company_friendly}}`, make sure you separate Inc. or Co. with a comma in the contact details. This is how Sales Connect knows what to remove when pulling in the value.
+* When using `{{company_friendly}}`, make sure you separate Inc. or Co. with a comma in the contact details. This is how [!DNL Sales Connect] knows what to remove when pulling in the value.
 
 >[!TIP]
 >
