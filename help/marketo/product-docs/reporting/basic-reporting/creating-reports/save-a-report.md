@@ -8,7 +8,7 @@ exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 
 Sometimes, you may need to save a default report to view again later. Here's how you can do that:
 
-1. Go to the **Analytics** area.
+1. Go to the **[!UICONTROL Analytics]** area.
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 
@@ -16,15 +16,15 @@ Sometimes, you may need to save a default report to view again later. Here's how
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
-1. Click **Report Actions** and select **Save As**.
+1. Click **[!UICONTROL Report Actions]** and select **[!UICONTROL Save As]**.
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
-1. **Save To** a location and select a **Folder**.
+1. **[!UICONTROL Save To]** a location and select a **[!UICONTROL Folder]**.
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. **Name** the report and click **Save**.
+1. **[!UICONTROL Name]** the report and click **[!UICONTROL Save]**.
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 
