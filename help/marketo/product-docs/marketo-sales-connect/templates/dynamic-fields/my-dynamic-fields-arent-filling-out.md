@@ -10,13 +10,13 @@ Dynamic fields will only work when you're using a template. Individual one-off e
 
 ## What to Check {#what-to-check}
 
-There are three types of dynamic fields in Sales Connect: Basic, Custom, and Salesforce. Basic and Custom both look to pull information from the [web application](https://toutapp.com/login). If the information does not exist in the web application, the fields will be blank. Salesforce fields pull information from [Salesforce.com](https://salesforce.com).
+There are three types of dynamic fields in [!DNL Sales Connect]: Basic, Custom, and [!DNL Salesforce]. Basic and Custom both look to pull information from the [web application](https://toutapp.com/login). If the information does not exist in the web application, the fields will be blank. [!DNL Salesforce] fields pull information from [Salesforce.com](https://salesforce.com).
 
-**Troubleshooting Salesforce Fields**
+**Troubleshooting [!DNL Salesforce] Fields**
 
-Salesforce Fields: e.g. `{{sfdc_account_name}}`
+[!DNL Salesforce] Fields: e.g. `{{sfdc_account_name}}`
 
-* Make sure it's properly hooked up with Sales Connect. Go to the [Settings](https://toutapp.com/login) page and click **Manage** next to your CRM.
+* Make sure it's properly hooked up with [!DNL Sales Connect]. Go to the [Settings](https://toutapp.com/login) page and click **[!UICONTROL Manage]** next to your CRM.
 
 **Troubleshooting Basic and Custom Fields**
 
@@ -28,7 +28,7 @@ Tout Custom Fields: e.g. `{{custom_field_favorite_movie}}`
 
 ## Why Did My Email Send Without Populating All Dynamic Fields? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
-Sales Connect will stop your emails from being sent out if we cannot populate all your dynamic fields in the email. **However**, there are a few exceptions to this rule. Some fields will send out blank, or auto-populate a value if we can find one. These fields and how they'll react if they can't populate the field are listed below.
+[!DNL Sales Connect] will stop your emails from being sent out if we cannot populate all your dynamic fields in the email. **However**, there are a few exceptions to this rule. Some fields will send out blank, or auto-populate a value if we can find one. These fields and how they'll react if they can't populate the field are listed below.
 
 `{{first_name}}` = BLANK
 
@@ -42,4 +42,4 @@ Sales Connect will stop your emails from being sent out if we cannot populate al
 
 >[!NOTE]
 >
->The `{{first_name}}` field will look in both Sales Connect and Salesforce to attempt to pull information. All other fields in this list are only looking in Sales Connect to populate the field.
+>The `{{first_name}}` field will look in both [!DNL Sales Connect] and [!DNL Salesforce] to attempt to pull information. All other fields in this list are only looking in [!DNL Sales Connect] to populate the field.
