@@ -26,19 +26,19 @@ Make one or more images in your email predictive, tailoring the experience for e
 
 ## Adding Predictive Content Using the Email 2.0 Editor {#adding-predictive-content-using-the-email-editor}
 
-1. Click **Marketing Activities**.
+1. Click **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 
-1. Select your email and click **Edit Draft**.
+1. Select your email and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/two.png)
 
-1. Click the image you want to make predictive. When the gear icon appears, click it and select **Enable ContentAI** (ContentAI is the former name for Predictive Content).
+1. Click the image you want to make predictive. When the gear icon appears, click it and select **[!UICONTROL Enable ContentAI]** (ContentAI is the former name for Predictive Content).
 
    ![](assets/three.png)
 
-1. To select one or more categories, click the **Categories** drop-down, make your selection(s), and click **Apply**.
+1. To select one or more categories, click the **[!UICONTROL Categories]** drop-down, make your selection(s), and click **[!UICONTROL Apply]**.
 
    ![](assets/four.png)
 
@@ -50,11 +50,11 @@ Make one or more images in your email predictive, tailoring the experience for e
 
    ![](assets/five.png)
 
-1. To preview your email, click **Preview** in the upper-right corner.
+1. To preview your email, click **[!UICONTROL Preview]** in the upper-right corner.
 
    ![](assets/six.png)
 
-1. To view different possible images, click **Refresh**.
+1. To view different possible images, click **[!UICONTROL Refresh]**.
 
    ![](assets/seven.png)
 
@@ -62,7 +62,7 @@ Make one or more images in your email predictive, tailoring the experience for e
    >
    >The image is not selected **_until the recipient opens the email_**. So what you see in the preview is just an example, and will not necessarily be the image the recipient sees.
 
-1. Once you're done previewing your email, click the **Preview Actions** drop-down and select **Approve and Close**. Or if you still have editing to do, click **Edit Draft** on the right.
+1. Once you're done previewing your email, click the **[!UICONTROL Preview Actions]** drop-down and select **[!UICONTROL Approve and Close]**. Or if you still have editing to do, click **[!UICONTROL Edit Draft]** on the right.
 
    ![](assets/eight.png)
 
