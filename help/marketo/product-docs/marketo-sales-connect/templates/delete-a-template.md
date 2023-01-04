@@ -14,6 +14,6 @@ Follow these simple steps to delete a template.
 
 1. Select the template you'd like to remove.
 
-1. Click the menu drop-down in the top right, then click **Delete**.
+1. Click the menu drop-down in the top right, then click **[!UICONTROL Delete]**.
 
-1. Click **Delete** to confirm.
+1. Click **[!UICONTROL Delete]** to confirm.
