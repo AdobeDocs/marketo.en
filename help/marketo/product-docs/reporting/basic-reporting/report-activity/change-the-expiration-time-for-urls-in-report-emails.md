@@ -12,15 +12,15 @@ exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
 
 Links in your report subscription emails expire after three days. In order to change the expiration time for these links, follow these steps.
 
-1. Under **Admin**, click on **Login Settings**.
+1. Under **[!UICONTROL Admin]**, click on **[!UICONTROL Login Settings]**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Click on the **Edit URL Expiration** button.
+1. Click on the **[!UICONTROL Edit URL Expiration]** button.
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. Select from the drop-down menu how many days before the link expires. Click **Save**.
+1. Select from the drop-down menu how many days before the link expires. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 
