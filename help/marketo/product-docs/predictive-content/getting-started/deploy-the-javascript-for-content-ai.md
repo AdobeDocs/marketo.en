@@ -10,11 +10,11 @@ To use Predictive Content, you need to generate and set up your the RTP (Web Per
 
 ## Generate Tag {#generate-tag}
 
-1. Login to your Predictive Content account. Go to **Account Settings**.
+1. Login to your Predictive Content account. Go to **[!UICONTROL Account Settings]**.
 
    ![](assets/settings-dropdown-account-hands.png)
 
-1. In **Domain Configuration**, locate the relevant domain and click **Generate Tag**.
+1. In **[!UICONTROL Domain Configuration]**, locate the relevant domain and click **[!UICONTROL Generate Tag]**.
 
    ![](assets/generate-tag.png)
 
@@ -26,6 +26,6 @@ To use Predictive Content, you need to generate and set up your the RTP (Web Per
    >
    >Copy the Web Personalization JavaScript tag and paste it as the first script in the header of your pages, between the `<head> </head>` tags. See more detailed [implementation instructions here](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
-1. Verify the tag appears on all pages, including landing pages and sub-domains. Check this by right-clicking on your website’s page. Go to **View Page Source** in a web browser. Search: ‘RTP’.
+1. Verify the tag appears on all pages, including landing pages and sub-domains. Check this by right-clicking on your website’s page. Go to **[!UICONTROL View Page Source]** in a web browser. Search: ‘RTP’.
 
-1. Confirm that the Tag toggle set to **ON**.
+1. Confirm that the Tag toggle set to **[!UICONTROL ON]**.
