@@ -12,7 +12,7 @@ The Content Discovery feature automatically discovers and tags your already exis
 
    ![](assets/settings-dropdown-hand.png)
 
-1. Turn Content Discovery to **[!UICONTROL On]**.
+1. Turn [!UICONTROL Content Discovery] to **[!UICONTROL On]**.
 
    ![](assets/content-discovery-on-hand.png)
 
