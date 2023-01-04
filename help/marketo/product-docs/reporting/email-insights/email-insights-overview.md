@@ -1,14 +1,14 @@
 ---
 unique-page-id: 10099408
-description: Email Insights Overview - Marketo Docs - Product Documentation
-title: Email Insights Overview
+description: [!UICONTROL Email Insights] Overview - Marketo Docs - Product Documentation
+title: [!UICONTROL Email Insights] Overview
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 ---
-# Email Insights Overview {#email-insights-overview}
+# [!UICONTROL Email Insights] Overview {#email-insights-overview}
 
-Email Insights provides powerful insights from historical data for Email Marketers. It consists of two separate but associated sections: Analytics and Sends.
+**[!UICONTROL Email Insights]** provides powerful insights from historical data for Email Marketers. It consists of two separate but associated sections: [!UICONTROL Analytics] and [!UICONTROL Sends].
   
-To access Email Insights, simply click its tile in My Marketo (or the Analytics home screen).
+To access **[!UICONTROL Email Insights]**, simply click its tile in My Marketo (or the Analytics home screen).
 
 ![](assets/icon.png)
 
@@ -18,7 +18,7 @@ To access Email Insights, simply click its tile in My Marketo (or the Analytics 
 
 ## Analytics {#analytics}
 
-Use [Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) to explore the aggregate time-series data for email delivery and engagement metrics.
+Use [[!UICONTROL Analytics]](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) to explore the aggregate time-series data for email delivery and engagement metrics.
 
 ![](assets/emailanalytics.jpg)
 
@@ -34,9 +34,9 @@ Used advanced [filters](/help/marketo/product-docs/reporting/email-insights/filt
 
 ![](assets/three.png)
 
-## Sends {#sends}
+## [!UICONTROL Sends] {#sends}
 
-In the [Sends](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md) page, examine the characteristics of recent email communication.
+In the [[!UICONTROL Sends]](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md) page, examine the characteristics of recent email communication.
 
 ![](assets/two.png)
 
@@ -48,7 +48,7 @@ Click on Metrics bars to translate the colors into numbers.
 
 >[!NOTE]
 >
->It can take up to 8 hours for data to reflect in Email Insights.
+>It can take up to 8 hours for data to reflect in **[!UICONTROL Email Insights]**.
 
 ## Custom Dimensions {#custom-dimensions}
 
