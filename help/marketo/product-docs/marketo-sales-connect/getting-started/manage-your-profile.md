@@ -5,7 +5,7 @@ exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 ---
 # Manage Your Profile {#manage-your-profile}
 
-In your My Profile page you can update your name, your account's language/locale/time zone, and also change your password.
+In your [!UICONTROL My Profile] page you can update your name, your account's language/locale/time zone, and also change your password.
 
 ## Account Details {#account-details}
 
@@ -27,7 +27,7 @@ You can also change your password in this section. The steps are outlined in thi
 
 ## Your Integrations {#your-integrations}
 
-On the right side of the page, the Your Integrations section provides the status of all of your account's connections.
+On the right side of the page, the [!UICONTROL Your Integrations] section provides the status of all of your account's connections.
 
    ![](assets/manage-your-profile-3.png)
 
