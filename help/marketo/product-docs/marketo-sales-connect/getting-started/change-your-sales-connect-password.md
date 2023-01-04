@@ -13,7 +13,7 @@ Need to change your password? Here's how.
 
    ![](assets/change-your-sales-connect-password-1.png)
 
-1. Your My Profile page opens by default. Under [!UICONTROL Account Details], select the **[!UICONTROL Change password]** checkbox.
+1. Your [!UICONTROL My Profile] page opens by default. Under [!UICONTROL Account Details], select the **[!UICONTROL Change password]** checkbox.
 
    ![](assets/change-your-sales-connect-password-2.png)
 
