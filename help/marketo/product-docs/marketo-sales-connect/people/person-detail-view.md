@@ -10,7 +10,7 @@ Person detail view provides a detailed profile of each person in your MSC accoun
 
 ## How to Access {#how-to-access}
 
-1. To access the person detail view, click the **People** tab.
+1. To access the person detail view, click the **[!UICONTROL People]** tab.
 
    ![](assets/person-detail-view-1.png)
 
@@ -38,8 +38,8 @@ Includes all of the person's contact information.
 
 **Account Information**
 
-* Can add a person to Salesforce
-* Pull account and lead/contact information from Salesforce
+* Can add a person to [!DNL Salesforce]
+* Pull account and lead/contact information from [!DNL Salesforce]
 
 **Custom Fields**
 
@@ -69,19 +69,19 @@ Shows your outreach history. Includes emails, campaigns, and calls.
 
 ![](assets/person-detail-view-5.png)
 
-**Sales Campaigns**
+**[!UICONTROL Sales Campaigns]**
 
 * See any active or completed campaigns this person belongs to
 
-**Marketing Campaigns**
+**[!UICONTROL Marketing Campaigns]**
 
 * See any marketing campaigns this person is a member of
 
-**Sales Emails**
+**[!UICONTROL Sales Emails]**
 
 * See any emails you've sent this person and the engagement metrics
 
-**Sales Calls**
+**[!UICONTROL Sales Calls]**
 
 * See any calls you've made to this person
 
