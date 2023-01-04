@@ -13,7 +13,7 @@ Follow the steps below to learn how to utilize sales activity filters and trigge
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. In the **Smart List** tab, search “Sales Apps.”
+1. In the **[!UICONTROL Smart List]** tab, search “[!UICONTROL Sales Apps].”
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
