@@ -10,21 +10,21 @@ Better manage your templates by restricting what users can share and with which 
 
 ![](assets/main.png)
 
-When your Sales Connect account is first created, Sharing Settings are enabled. This gives your account admins the opportunity to create and organize your template categories before opening the floodgates and allowing users to share content into your team categories.
+When your Sales Connect account is first created, [!UICONTROL Sharing Settings] are enabled. This gives your account admins the opportunity to create and organize your template categories before opening the floodgates and allowing users to share content into your team categories.
 
-When Sharing Settings are enabled, only admins will be able to share into categories unless sharing privileges are provided to a team or everyone. With Sharing Settings disabled, there are no restrictions and all users can share into any template categories.
+When [!UICONTROL Sharing Settings] are enabled, only admins will be able to share into categories unless sharing privileges are provided to a team or everyone. With [!UICONTROL Sharing Settings] disabled, there are no restrictions and all users can share into any template categories.
 
 ## Configure Your Sharing Settings {#configure-your-sharing-settings}
 
-1. In the the [web application](https://toutapp.com/login), go to the Settings page.
+1. In the the [web application](https://toutapp.com/login), go to the [!UICONTROL Settings] page.
 
    ![](assets/one-2.png)
 
-1. Under Admin Settings, select **Sharing Access**.
+1. Under [!UICONTROL Admin Settings], select **[!UICONTROL Sharing Access]**.
 
    ![](assets/two-2.png)
 
-1. Make sure **Sharing Settings** are enabled. This means by default, only admins will be able to share templates in your template categories.
+1. Make sure **[!UICONTROL Sharing Settings]** are enabled. This means by default, only admins will be able to share templates in your template categories.
 
    ![](assets/three-2.png)
 
@@ -32,7 +32,7 @@ When Sharing Settings are enabled, only admins will be able to share into catego
 
    ![](assets/four-2.png)
 
-1. Click **Add Teams for Access**.
+1. Click **[!UICONTROL Add Teams for Access]**.
 
    ![](assets/five-2.png)
 
@@ -44,7 +44,7 @@ When Sharing Settings are enabled, only admins will be able to share into catego
    >
    >If you don't see any teams, you'll need to go to Team Management and create a team of users.
 
-1. Click **Add Teams for Access** to save.
+1. Click **[!UICONTROL Add Teams for Access]** to save.
 
    ![](assets/seven-1.png)
 
