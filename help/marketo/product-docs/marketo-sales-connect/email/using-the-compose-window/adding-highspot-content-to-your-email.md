@@ -4,27 +4,27 @@ description: Adding Highspot Content to Your Email - Marketo Docs - Product Docu
 title: Adding Highspot Content to Your Email
 exl-id: a069d29a-46b6-4347-b474-df17b7595436
 ---
-# Adding Highspot Content to Your Email {#adding-highspot-content-to-your-email}
+# Adding [!DNL Highspot] Content to Your Email {#adding-highspot-content-to-your-email}
 
-If you're a Highspot customer, you can easily insert Highspot content into your Sales Connect emails.
+If you're a [!DNL Highspot] customer, you can easily insert [!DNL Highspot] content into your [!DNL Sales Connect] emails.
 
-1. Create your email draft (there are multiple ways to do this, in this example we're choosing **Compose** in the header).
+1. Create your email draft (there are multiple ways to do this, in this example we're choosing **[!UICONTROL Compose]** in the header).
 
    ![](assets/one-5.png)
 
-1. Populate the To field and enter a Subject.
+1. Populate the [!UICONTROL To] field and enter a [!UICONTROL Subject].
 
    ![](assets/two-5.png)
 
-1. Click the spot in the email where you want the Highspot content inserted. Click the arrow drop-down (next to the attachment icon) and select **Highspot**.
+1. Click the spot in the email where you want the [!DNL Highspot] content inserted. Click the arrow drop-down (next to the attachment icon) and select **[!UICONTROL Highspot]**.
 
    ![](assets/three-5.png)
 
-1. Log-in to your Highspot account.
+1. Log-in to your [!DNL Highspot] account.
 
    ![](assets/four-5.png)
 
-1. Select your desired content and click the **Add Content** button.
+1. Select your desired content and click the **[!UICONTROL Add Content]** button.
 
    ![](assets/five-3.png)
 
