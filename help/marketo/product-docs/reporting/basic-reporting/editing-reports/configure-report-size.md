@@ -8,15 +8,15 @@ exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 
 By default, Marketo reports are limited to a maximum of 5,000 rows, but you can change that limit.
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
-1. Select your report from the navigation tree and click the **Setup** tab.
+1. Select your report from the navigation tree and click the **[!UICONTROL Setup]** tab.
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-1. Double-click **Export Rows Available**.
+1. Double-click **[!UICONTROL Export Rows Available]**.
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -28,7 +28,7 @@ By default, Marketo reports are limited to a maximum of 5,000 rows, but you can 
    >
    >Changing the limit changes the report size itself, not just the exported Excel file, so if your report is taking too long to generate, reduce the limit!
 
-1. Click **Save** to confirm the new limit.
+1. Click **[!UICONTROL Save]** to confirm the new limit.
 
    ![](assets/image2016-3-2-9-3a13-3a59.png)
 
