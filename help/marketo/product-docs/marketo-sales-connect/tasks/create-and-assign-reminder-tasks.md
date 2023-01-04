@@ -7,15 +7,15 @@ exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 
 Reminder tasks are a great way to stay on top of your customer and prospect engagement. To create a task, follow these steps.  
 
-1. Click **Command Center**.
+1. Click **[!UICONTROL Command Center]**.
 
    ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. Tasks opens by default. Click **Add Task**.
+1. Tasks opens by default. Click **[!UICONTROL Add Task]**.
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 
-1. Select the task type from Email, Call, InMail, or Custom Task.
+1. Select the task type from [!UICONTROL Email], [!UICONTROL Call], [!UICONTROL InMail], or [!UICONTROL Custom] Task.
 
    ![](assets/create-and-assign-reminder-tasks-3.png)
 
@@ -39,6 +39,6 @@ Reminder tasks are a great way to stay on top of your customer and prospect enga
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. Add any details about the task you'd like available to you when completing the task such as call talking notes, an InMail message template, or even notes about the person. Click **Create** when done.
+1. Add any details about the task you'd like available to you when completing the task such as call talking notes, an InMail message template, or even notes about the person. Click **[!UICONTROL Create]** when done.
 
    ![](assets/create-and-assign-reminder-tasks-9.png)
