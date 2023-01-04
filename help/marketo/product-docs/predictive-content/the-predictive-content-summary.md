@@ -40,4 +40,4 @@ Which categories of content are most engaging? See it in this graph.
 
 >[!NOTE]
 >
->If you click a category link (examples in the above image: [!UICONTROL leadgen], [!UICONTROL email], etc,.) it opens the All content page with the category you clicked on added to the filter, displaying the content analytics in that category.
+>If you click a category link (examples in the above image: leadgen, email, etc,.) it opens the All content page with the category you clicked on added to the filter, displaying the content analytics in that category.
