@@ -21,11 +21,11 @@ You can use smart lists with these report types:
 * [Company Web Activity](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Web Page Activity](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
-1. Select your report from the navigation tree and click the **Smart List** tab.
+1. Select your report from the navigation tree and click the **[!UICONTROL Smart List]** tab.
 
    ![](assets/image2017-3-27-14-3a12-3a53.png)
 
@@ -37,7 +37,7 @@ You can use smart lists with these report types:
 
    ![](assets/image2014-9-16-12-3a35-3a50.png)
 
-1. Click the **Report** tab to see your filtered report.
+1. Click the **[!UICONTROL Report]** tab to see your filtered report.
 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 
