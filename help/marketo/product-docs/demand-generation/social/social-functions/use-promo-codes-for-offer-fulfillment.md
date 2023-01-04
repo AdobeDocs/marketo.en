@@ -22,7 +22,7 @@ When you create a referral offer or a sweepstakes, you can send a promo (coupon)
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
-1. Under **[!UICONTROL Emails]**, select **[!UICONTROL Use Promo Codes]**, and under **[!UICONTROL Upload Codes]**, click **[!UICONTROL Browse]** to select the promo codes file from your system.
+1. Under [!UICONTROL Emails], select **[!UICONTROL Use Promo Codes]**, and under **[!UICONTROL Upload Codes]**, click **[!UICONTROL Browse]** to select the promo codes file from your system.
 
    ![](assets/image2015-4-22-12-3a52-3a43.png)
 
