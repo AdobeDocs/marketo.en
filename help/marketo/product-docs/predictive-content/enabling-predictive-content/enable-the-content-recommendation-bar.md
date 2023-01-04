@@ -22,19 +22,19 @@ The Content Recommendation Engine uses predictive analytics and machine learning
 
 ## Enable and Customize the Content Recommendation Bar {#enable-and-customize-the-content-recommendation-bar}
 
-1. Go to **Content Settings**.
+1. Go to **[!UICONTROL Content Settings]**.
 
    ![](assets/settings-dropdown-hand.png)
 
-1. Click **Bar**.
+1. Click **[!UICONTROL Bar]**.
 
    ![](assets/content-settings-bar-hand.png)
 
-1. To enable the Recommendation Bar for a URL, simply click **On** and then **Save**.
+1. To enable the Recommendation Bar for a URL, simply click **[!UICONTROL On]** and then **[!UICONTROL Save]**.
 
    ![](assets/bar-enable.png)
 
-1. To customize a URL, select colors, style, format, arrows for the recommendation bar, and pages to include or exclude the bar. Customize to fit your website branding. Click **Save**.
+1. To customize a URL, select colors, style, format, arrows for the recommendation bar, and pages to include or exclude the bar. Customize to fit your website branding. Click **[!UICONTROL Save]**.
 
    ![](assets/bar-customize-details-hands.png)
 
@@ -51,7 +51,7 @@ The Content Recommendation Engine uses predictive analytics and machine learning
 
 ## Recommendation Bar Considerations {#recommendation-bar-considerations}
 
-* You need at least one content piece for the recommendation bar set to **On** on the Recommendations page for the Recommendation engine to work. If no content is enabled and the Bar is set to **On**, the Arrow effect will display on the bottom right of the webpage but no recommended content will appear.
+* You need at least one content piece for the recommendation bar set to **[!UICONTROL On]** on the Recommendations page for the Recommendation engine to work. If no content is enabled and the Bar is set to **[!UICONTROL On]**, the Arrow effect will display on the bottom right of the webpage but no recommended content will appear.
 
 * The more content running in the recommendation engine the better for the algorithm to test and learn which content works best. We recommend starting with 10 to 20 content pieces running and active and to keep adding new ones.
 * The content piece you enable for recommendation should include the RTP Javascript tag. This helps the algorithm track and optimize recommended content.
