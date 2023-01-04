@@ -36,7 +36,7 @@ Additionally, third party SMTP providers offer a plethora of features to help su
 
 ## MSC Servers (Legacy) {#msc-servers-legacy}
 
-MSC servers are only available for some Legacy [!DNL ToutApp] customers. Those customers will see MSC servers available in their email settings. All non-legacy customers will not see MSC as an option and should connect their Gmail or [!DNL Outlook] account to [!DNL Sales Connect] to unlock a delivery channel.
+MSC servers are only available for some Legacy ToutApp customers. Those customers will see MSC servers available in their email settings. All non-legacy customers will not see MSC as an option and should connect their Gmail or [!DNL Outlook] account to [!DNL Sales Connect] to unlock a delivery channel.
 
 MSC servers do not support DKIM and SPF authentication methods, which can lower the deliverability rate. Due to this we recommend that all customers connect to Gmail or [!DNL Outlook] for the best deliverability.
 
