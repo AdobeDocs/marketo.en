@@ -8,19 +8,19 @@ exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 
 ## Create a Sub-Team {#create-a-sub-team-1}
 
-1. Click the gear icon and select **Settings**.
+1. Click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/one-1.png)
 
-1. Under Admin Settings, select **Team Management**.
+1. Under [!UICONTROL Admin Settings], select **[!UICONTROL Team Management]**.
 
    ![](assets/two-1.png)
 
-1. Next to All Teams, click the **+**.
+1. Next to [!UICONTROL All Teams], click the **+**.
 
    ![](assets/three-1.png)
 
-1. Enter a team name (and optional description) and click **Create**.
+1. Enter a team name (and optional description) and click **[!UICONTROL Create]**.
 
    ![](assets/four-1.png)
 
@@ -30,7 +30,7 @@ exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 
 ## Add People to Your Sub-Team {#add-people-to-your-sub-team}
 
-1. Still in Team Management, select the **Everyone** group.
+1. Still in [!UICONTROL Team Management], select the **[!UICONTROL Everyone]** group.
 
    ![](assets/five-1.png)
 
@@ -38,7 +38,7 @@ exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 
    ![](assets/six.png)
 
-1. Click **Add Selected to Teams**.
+1. Click **[!UICONTROL Add Selected to Teams]**.
 
    ![](assets/seven.png)
 
@@ -46,6 +46,6 @@ exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 
    ![](assets/eight.png)
 
-1. Click **Add To Teams** when done.
+1. Click **[!UICONTROL Add To Teams]** when done.
 
    ![](assets/nine.png)
