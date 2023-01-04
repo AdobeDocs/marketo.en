@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352414
-description: Understanding the Team Tab - Marketo Docs - Product Documentation
-title: Understanding the Team Tab
+description: Understanding the [!UICONTROL Team] Tab - Marketo Docs - Product Documentation
+title: Understanding the [!UICONTROL Team] Tab
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 ---
-# Understanding the Team Tab {#understanding-the-team-tab}
+# Understanding the [!UICONTROL Team] Tab {#understanding-the-team-tab}
 
-In the Team Tab we highlight three important metrics.
+In the [!UICONTROL Team] Tab we highlight three important metrics.
 
 ## Emails sent with template {#emails-sent-with-template}
 
