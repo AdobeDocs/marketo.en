@@ -34,7 +34,7 @@ Once you've prepared the content title, description and image for Rich Media, yo
 
      ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Click the **[!UICONTROL Content Actions]** drop-down and select **Enable for [!UICONTROL Web Rich Media]**.
+1. Click the **[!UICONTROL Content Actions]** drop-down and select **[!UICONTROL Enable for Web Rich Media]**.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
