@@ -8,25 +8,25 @@ exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 
 Change the time period covered by your report, to focus on a specific time of activity.
 
-1. Go to the **Marketing Activities** (or **Analytics**) area.
+1. Go to the **[!UICONTROL Marketing Activities]** (or **[!UICONTROL Analytics]**) area.
 
    ![](assets/image2017-3-27-9-3a15-3a9.png)
 
-1. Select your report from the navigation tree and click the **Setup** tab.
+1. Select your report from the navigation tree and click the **[!UICONTROL Setup]** tab.
 
    ![](assets/image2017-3-27-9-3a57-3a56.png)
 
 1. Double-click the time frame field, labeled differently depending on report type:
 
-    * **Person Created At**, in person reports
-    * **Sent Date**, in email reports
-    * **Date of Activity**, in all other reports
+    * **[!UICONTROL Person Created At]**, in person reports
+    * **[!UICONTROL Sent Date]**, in email reports
+    * **[!UICONTROL Date of Activity]**, in all other reports
 
    ![](assets/image2017-3-27-9-3a58-3a23.png)
 
    >[!NOTE]
    >
-   >**Person Created At** refers to the moment the person became known in your database.
+   >**[!UICONTROL Person Created At]** refers to the moment the person became known in your database.
 
 1. Choose the appropriate time frame from the drop-down menu.
 
@@ -34,9 +34,9 @@ Change the time period covered by your report, to focus on a specific time of ac
 
    >[!TIP]
    >
-   >To set specific dates, select **Custom** from the drop-down menu and enter the dates in the **From** and **To** calendar fields.
+   >To set specific dates, select **[!UICONTROL Custom]** from the drop-down menu and enter the dates in the **[!UICONTROL From]** and **[!UICONTROL To]** calendar fields.
 
-   Click the **Report** tab to see your report for the selected time frame.  
+   Click the **[!UICONTROL Report]** tab to see your report for the selected time frame.  
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]
