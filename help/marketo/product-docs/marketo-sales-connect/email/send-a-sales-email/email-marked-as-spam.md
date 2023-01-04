@@ -11,7 +11,7 @@ As a company, we work hard to ensure that our deliverability rates remain high. 
 **Check Your Settings**
 
 * Custom Domain Tracking: This allows you to have all of your tracking links show up as go."yourdomain" instead of go.toutapp. Some email security will see that the email is coming from "yourdomain" but the link is being rerouted to go.toutapp. By implementing custom domain link tracking your emails will look legitimate and have a higher probability of hitting the recipient's inbox.
-* Email Delivery Channel: By default, your emails are sending through [!DNL ToutApp] servers. By setting up your own Gmail or custom SMTP, you can give your emails the best opportunity to land in a recipient's inbox. [Click here](https://nation.marketo.com/docs/DOC-5080) to read more about selecting the right delivery channel for your needs.
+* Email Delivery Channel: By default, your emails are sending through ToutApp servers. By setting up your own Gmail or custom SMTP, you can give your emails the best opportunity to land in a recipient's inbox. [Click here](https://nation.marketo.com/docs/DOC-5080) to read more about selecting the right delivery channel for your needs.
 
 **Check Your Email Behaviors**
 
