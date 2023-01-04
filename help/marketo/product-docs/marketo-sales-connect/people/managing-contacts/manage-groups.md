@@ -6,15 +6,15 @@ exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 ---
 # Manage Groups {#manage-groups}
 
-Learn how to manage your groups in Sales Connect.
+Learn how to manage your groups in [!DNL Sales Connect].
 
 ## Create a Group {#create-a-group}
 
-1. In the People page, click the **+** next to Groups.
+1. In the [!UICONTROL People] page, click the **+** next to [!UICONTROL Groups].
 
    ![](assets/one-4.png)
 
-1. Name your group and click **Create**.
+1. Name your group and click **[!UICONTROL Create]**.
 
    ![](assets/two-3.png)
 
@@ -22,11 +22,11 @@ Learn how to manage your groups in Sales Connect.
 
 ## Add Contacts to a Group {#add-contacts-to-a-group}
 
-1. In the People page, find and select the group you want to add people to.
+1. In the [!UICONTROL People] page, find and select the group you want to add people to.
 
    ![](assets/three-3.png)
 
-1. Click **Group Actions** and select **Create Contact**.
+1. Click **[!UICONTROL Group Actions]** and select **[!UICONTROL Create Contact]**.
 
    ![](assets/four-3.png)
 
@@ -34,7 +34,7 @@ Learn how to manage your groups in Sales Connect.
    >
    >This will add one contact at a time. To add multiple contacts at the same time, follow [these steps](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
-1. Fill out the contact's information and click **Create** (or **Create and Add New** to add another).
+1. Fill out the contact's information and click **[!UICONTROL Create]** (or **[!UICONTROL Create and Add New]** to add another).
 
    ![](assets/five-3.png)
 
@@ -46,11 +46,11 @@ Learn how to manage your groups in Sales Connect.
 
 ## Share a Group {#share-a-group}
 
-1. In the People page, find and select the group you want to share.
+1. In the [!UICONTROL People] page, find and select the group you want to share.
 
    ![](assets/six.png)
 
-1. Click the dota (three vertical dots) and select **Share**.
+1. Click the dota (three vertical dots) and select **[!UICONTROL Share]**.
 
    ![](assets/seven.png)
 
@@ -58,19 +58,19 @@ Learn how to manage your groups in Sales Connect.
 
    ![](assets/eight.png)
 
-1. Click **Share**.
+1. Click **[!UICONTROL Share]**.
 
    ![](assets/nine.png)
 
-   You still own the group, but it will now appear under Team Groups.
+   You still own the group, but it will now appear under [!UICONTROL Team Groups].
 
 ## Unshare a Group {#unshare-a-group}
 
-1. In the People page, find and select the group you want to unshare.
+1. In the [!UICONTROL People] page, find and select the group you want to unshare.
 
    ![](assets/ten.png)
 
-1. Click the dota (three vertical dots) and select **Share**.
+1. Click the dota (three vertical dots) and select **[!UICONTROL Share]**.
 
    ![](assets/eleven.png)
 
@@ -82,11 +82,11 @@ Learn how to manage your groups in Sales Connect.
 
 ## Rename a Group {#rename-a-group}
 
-1. In the People page, find and select the group you want to rename.
+1. In the [!UICONTROL People] page, find and select the group you want to rename.
 
    ![](assets/six.png)
 
-1. Click the dota (three vertical dots) and select **Rename**.
+1. Click the dota (three vertical dots) and select **[!UICONTROL Rename]**.
 
    ![](assets/thirteen.png)
 
@@ -96,14 +96,14 @@ Learn how to manage your groups in Sales Connect.
 
 ## Delete a Group {#delete-a-group}
 
-1. In the People page, find and select the group you want to delete.
+1. In the [!UICONTROL People] page, find and select the group you want to delete.
 
    ![](assets/fifteen.png)
 
-1. Click the dota (three vertical dots) and select **Delete**.
+1. Click the dota (three vertical dots) and select **[!UICONTROL Delete]**.
 
    ![](assets/sixteen.png)
 
-1. Click **Delete** to confirm.
+1. Click **[!UICONTROL Delete]** to confirm.
 
    ![](assets/seventeen.png)
