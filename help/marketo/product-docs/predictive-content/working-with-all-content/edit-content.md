@@ -6,20 +6,20 @@ exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
 ---
 # Edit Content {#edit-content}
 
-You can make some edits to listings on the All Content Page.
+You can make some edits to listings on the [!UICONTROL All Content] Page.
 
-1. On the **All Content** page, hover over the row of the title you want to edit and click the edit icon.
+1. On the **[!UICONTROL All Content]** page, hover over the row of the title you want to edit and click the edit icon.
 
    ![](assets/image2017-10-3-9-3a8-3a1.png)
 
-1. Make changes to the Content Title and Content URL (query parameters checkbox is optional).
+1. Make changes to the [!UICONTROL Content Name] and [!UICONTROL Content URL] (query parameters checkbox is optional).
 
    ![](assets/edit-content-2.png)
 
-1. Click the **Categories** field to add/remove categories. Select new ones from the drop-down. You can remove a currently selected category by clicking its **X**.
+1. Click the **[!UICONTROL Categories]** field to add/remove categories. Select new ones from the drop-down. You can remove a currently selected category by clicking its **X**.
 
    ![](assets/edit-content-3.png)
 
-1. Check the **Approve for Predictive Content** box to approve, or uncheck the box to unapprove. Click **Save** when done.
+1. Check the **[!UICONTROL Approve for Predictive Content]** box to approve, or uncheck the box to unapprove. Click **[!UICONTROL Save]** when done.
 
    ![](assets/edit-content-4.png)
