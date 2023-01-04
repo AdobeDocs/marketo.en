@@ -10,17 +10,17 @@ exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 
 A **file attachment** is just like a file attachment you would use in your regular email client.
 
-**Content** is what we use to describe any files (PPT, PDF, Word doc, etc.) that you'd like to be tracked by Sales Connect.
+**Content** is what we use to describe any files (PPT, PDF, Word doc, etc.) that you'd like to be tracked by [!DNL Sales Connect].
 
 After you click that button, you're able to choose a file already uploaded or upload a new file to be tracked. We then insert a link in the email or template you're using.
 
-On the receiving end, the recipient clicks the link and the content will be populated in the browser. This allows us to track each page view and report them to the Sales Connect user in the Live Feed.
+On the receiving end, the recipient clicks the link and the content will be populated in the browser. This allows us to track each page view and report them to the [!DNL Sales Connect] user in the Live Feed.
 
-File and content options are available in: one-off emails, templates, campaigns, Outlook (both Windows and Mac), Gmail, and OWA.
+File and content options are available in: one-off emails, templates, campaigns, [!DNL Outlook] (both [!DNL Windows] and Mac), Gmail, and OWA.
 
 ## Who manages the content, and where is it stored? {#who-manages-the-content-and-where-is-it-stored}
 
-Content can be uploaded to the Sales Connect repository by any user with the ability to create templates. This means users will be able to upload content of their choosing.
+Content can be uploaded to the [!DNL Sales Connect] repository by any user with the ability to create templates. This means users will be able to upload content of their choosing.
 
 ## Can content, playbooks, templates, etc., be created/organized by teams? {#can-content-playbooks-templates-etc-be-created-organized-by-teams}
 
