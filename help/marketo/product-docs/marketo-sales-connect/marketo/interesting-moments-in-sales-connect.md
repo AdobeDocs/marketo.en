@@ -4,13 +4,13 @@ description: Interesting Moments in Sales Connect - Marketo Docs - Product Docum
 title: Interesting Moments in Sales Connect
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 ---
-# Interesting Moments in Sales Connect {#interesting-moments-in-sales-connect}
+# Interesting Moments in [!DNL Sales Connect] {#interesting-moments-in-sales-connect}
 
-Interesting moments are the key to communicating with your sales team through Marketo Sales Connect.
+Interesting moments are the key to communicating with your sales team through [!DNL Marketo Sales Connect].
 
 >[!AVAILABILITY]
 >
->These are available to [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) and Marketo Sales Connect customers only.
+>These are available to [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) and [!DNL Marketo Sales Connect] customers only.
 
 ## What is an interesting moment? {#what-is-an-interesting-moment}
 
@@ -26,15 +26,15 @@ That's up to you! You decide what information is relevant to your sales team. Yo
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. Drag over the **Interesting Moments** flow step.
+1. Drag over the **[!UICONTROL Interesting Moments]** flow step.
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
-1. Select a **type** (Email, Milestone, or Web).
+1. Select a **type** ([!UICONTROL Email], [!UICONTROL Milestone], or [!UICONTROL Web]).
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. Write a message to your sales team in the **Description** field that explains why this action matters.
+1. Write a message to your sales team in the **[!UICONTROL Description]** field that explains why this action matters.
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
@@ -48,8 +48,8 @@ Interesting moments will be displayed in a [lead's activity log](/help/marketo/p
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
-## What does an interesting moment look like in Sales Connect? {#what-does-an-interesting-moment-look-like-in-sales-connect}
+## What does an interesting moment look like in [!DNL Sales Connect]? {#what-does-an-interesting-moment-look-like-in-sales-connect}
 
-Interesting Moments will be displayed in real time in a user's Live Feed. We utilize the lead owner ID in Salesforce to show users' interesting moments of relevant leads that they're the owner of. Users can quickly follow up with leads via email/phone/sales campaign by clicking the drop-down next to the lead's name.
+Interesting Moments will be displayed in real time in a user's Live Feed. We utilize the lead owner ID in [!DNL Salesforce] to show users' interesting moments of relevant leads that they're the owner of. Users can quickly follow up with leads via email/phone/sales campaign by clicking the drop-down next to the lead's name.
 
 ![](assets/engagement.jpg)
