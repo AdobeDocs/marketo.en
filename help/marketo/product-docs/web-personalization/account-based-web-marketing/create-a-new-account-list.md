@@ -69,7 +69,7 @@ The CSV file will replace the existing file. The existing list will remain activ
 
 ## Delete a Named Account List {#delete-a-named-account-list}
 
-1. On the **Account Lists** page, click the Delete icon of the list you wish to delete.
+1. On the **[!UICONTROL Account Lists]** page, click the Delete icon of the list you wish to delete.
 
    ![](assets/create-new-account-list-delete.jpg)
 
