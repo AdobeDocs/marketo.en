@@ -10,12 +10,12 @@ Subscribing to smart lists is a great way to keep track of people, with reports 
 
 You can create a smart list subscription in two separate places:
 
-* Marketing Activities
-* Database
+* [!UICONTROL Marketing Activities]
+* [!UICONTROL Database]
 
 Subscriptions use the full list of people at the time the subscription runs.
 
-Subscriptions live where your smart list lives, in Marketing Activities or Database.
+Subscriptions live where your smart list lives, in [!UICONTROL Marketing Activities] or [!UICONTROL Database].
 
 You can create multiple subscriptions from the same smart list.
 
@@ -29,39 +29,39 @@ Subscriptions are workspace specific. For example, this list of subscriptions is
 
 ## Create a Smart List Subscription {#create-a-smart-list-subscription}
 
-1. Go to the **Database** or **Marketing Activities**.
+1. Go to the **[!UICONTROL Database]** or **[!UICONTROL Marketing Activities]**.
 
    ![](assets/db.png)
 
-1. Select the smart list you wish to create a subscription for. Click **List Actions** and select **New Smart List Subscription**.
+1. Select the smart list you wish to create a subscription for. Click **[!UICONTROL List Actions]** and select **[!UICONTROL New Smart List Subscription]**.
 
    ![](assets/three.png)
 
-1. Give your subscription a **Name**, then select or enter the email addresses of the **Recipients**.
+1. Give your subscription a **[!UICONTROL Name]**, then select or enter the email addresses of the **[!UICONTROL Recipients]**.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. Click the **Frequency** list and select a frequency.
+1. Click the **[!UICONTROL Frequency]** list and select a frequency.
 
    ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-1. Set the **End Delivery** date. You can select **Never** or a calendar date.
+1. Set the **[!UICONTROL End Delivery]** date. You can select **[!UICONTROL Never]** or a calendar date.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. Click **Format** and choose from the list.
+1. Click **[!UICONTROL Format]** and choose from the list.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
-1. Click **Create**.
+1. Click **[!UICONTROL Create]**.
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. Your new smart list subscription appears at the top of the list in the Subscriptions tab. Click **Send** if you want to send now, and not wait until the scheduled email delivery.
+1. Your new smart list subscription appears at the top of the list in the Subscriptions tab. Click **[!UICONTROL Send]** if you want to send now, and not wait until the scheduled email delivery.
 
    ![](assets/eight.png)
 
-1. We recommend that you clear the Active checkbox to deactivate a smart list subscription if nobody is subscribed to it.
+1. We recommend that you clear the **[!UICONTROL Active]** checkbox to deactivate a smart list subscription if nobody is subscribed to it.
 
    ![](assets/nine.png)
 
@@ -73,7 +73,7 @@ Subscriptions are workspace specific. For example, this list of subscriptions is
 
    >[!NOTE]
    >
-   >If the [Secure Subscription Admin](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) setting is set to **Yes**, only people with access to the Marketo instance will be able to download the report.
+   >If the [Secure Subscription Admin](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) setting is set to **[!UICONTROL Yes]**, only people with access to the Marketo instance will be able to download the report.
 
    ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -89,7 +89,7 @@ The email also provides additional information about the filters used to create 
 
 ## Delete a Subscription {#delete-a-subscription}
 
-To delete a subscription, select it in the subscriptions tab and click Delete Subscription.
+To delete a subscription, select it in the subscriptions tab and click **[!UICONTROL Delete Subscription]**.
 
 ![](assets/twelve.png)
 
