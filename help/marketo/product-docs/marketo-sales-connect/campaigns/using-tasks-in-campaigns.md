@@ -18,4 +18,4 @@ You can also make a "Task to Inmail" a contact on LinkedIn if that's part of you
 
 Tasks will always be associated with each individual in the campaign. This means you have to go into each person and close the task in order for their individual campaign to proceed.
   
-You can manage your tasks in: the Tasks tab of your Campaign in Campaigns 2.0, directly from your Command Center, or from the Tasks section of the Live Feed. Additionally, you can also manage your tasks from Salesforce.
+You can manage your tasks in: the Tasks tab of your Campaign in Campaigns 2.0, directly from your Command Center, or from the Tasks section of the Live Feed. Additionally, you can also manage your tasks from [!DNL Salesforce].
