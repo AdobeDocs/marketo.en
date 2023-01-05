@@ -4,19 +4,19 @@ description: Tell the Marketing Story with an Opportunity Influence Analyzer - M
 title: Tell the Marketing Story with an Opportunity Influence Analyzer
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 ---
-# Tell the Marketing Story with an Opportunity Influence Analyzer {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
+# Tell the Marketing Story with an [!UICONTROL Opportunity Influence Analyzer] {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
-Use an Opportunity Influence Analyzer to illustrate marketing's role in important opportunities. Show how marketing influenced an opportunity, from first touch to opportunity creation and win, and beyond.
+Use an [!UICONTROL Opportunity Influence Analyzer] to illustrate marketing's role in important opportunities. Show how marketing influenced an opportunity, from first touch to opportunity creation and win, and beyond.
 
 >[!PREREQUISITES]
 >
->[Create an Opportunity Influence Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>[Create an [!UICONTROL Opportunity Influence Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Go to **Analytics** and select the **Opportunity Influence Analyzer**.
+1. Go to **[!UICONTROL Analytics]** and select the **[!UICONTROL Opportunity Influence Analyzer]**.
 
    ![](assets/analytics-opportunityhand.png)
 
-   The Opportunity Influence Analyzer is a visual representation of the interactions and program and event successes involved in that opportunity. Let's explore the graph:
+   The [!UICONTROL Opportunity Influence Analyzer] is a visual representation of the interactions and program and event successes involved in that opportunity. Let's explore the graph:
 
     * ![--](assets/image2014-10-3-13-3a43-3a21.png) **Orange dots** represent interesting moments in the opportunity (emails opened, tradeshow booth visits, whitepaper downloads, etc.). Bigger dots indicate more interactions.
 
@@ -28,7 +28,7 @@ Use an Opportunity Influence Analyzer to illustrate marketing's role in importan
 
     * **Opportunity life cycle**. The gray areas before and after the green opportunity period show the interactions that led to and followed the opportunity.
 
-   The **Settings** panel lists the people from the account:
+   The **[!UICONTROL Settings]** panel lists the people from the account:
 
     * The **number in parentheses** is the number of interactions with that contact.
 
@@ -54,4 +54,4 @@ Use an Opportunity Influence Analyzer to illustrate marketing's role in importan
 
    >[!MORELIKETHIS]
    >
-   >[Configure an Opportunity Influence Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+   >[Configure an [!UICONTROL Opportunity Influence Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
