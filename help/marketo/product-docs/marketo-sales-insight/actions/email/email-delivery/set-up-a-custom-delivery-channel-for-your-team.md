@@ -13,21 +13,21 @@ exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 >
 >* In addition to setting up your SMTP server, your [email identity has to be verified](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) before you can send emails.
 >* We recommend working with your IT team or SMTP server vendor to get the right server credentials for your SMTP server.
->* You cannot connect your Gmail and Exchange server using the SMTP server credentials. Please use our Email Connection service to integrate with these providers.
+>* You cannot connect your Gmail and [!DNL Exchange] server using the SMTP server credentials. Please use our Email Connection service to integrate with these providers.
 
-1. Click the gear icon and choose **Settings**.
+1. Click the gear icon and choose **[!UICONTROL Settings]**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-1.png)
 
-1. Under Admin Settings, click **General**.
+1. Under [!UICONTROL Admin Settings], click **[!UICONTROL General]**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-2.png)
 
-1. Click the **Team Delivery Channel** tab.
+1. Click the **[!UICONTROL Team Delivery Channel]** tab.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-3.png)
 
-1. Enter your SMTP Server credentials and click **Connect**.
+1. Enter your SMTP Server credentials and click **[!UICONTROL Connect]**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-4.png)
 
@@ -38,4 +38,4 @@ exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
    >[!MORELIKETHIS]
    >
    >* [Email Connection for Gmail Users](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
-   >* [Email Connection for Outlook Users](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+   >* [Email Connection for [!DNL Outlook] Users](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
