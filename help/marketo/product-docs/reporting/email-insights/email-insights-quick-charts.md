@@ -12,7 +12,7 @@ Quick Charts are thumbnails that you customize and save, providing a quick view 
 
 In this example, we'll choose open rate for the first three weeks of February, 2016, in the states of California and Florida.
 
-1. Click the date filter on the right of the Analytics screen.
+1. Click the date filter on the right of the [!UICONTROL Analytics] screen.
 
    ![](assets/one-1.png)
 
@@ -20,7 +20,7 @@ In this example, we'll choose open rate for the first three weeks of February, 2
 
    ![](assets/two-2.png)
 
-1. When your date range is selected, click **Apply**.
+1. When your date range is selected, click **[!UICONTROL Apply]**.
 
    ![](assets/three-2.png)
 
@@ -32,11 +32,11 @@ In this example, we'll choose open rate for the first three weeks of February, 2
 
    ![](assets/5.png)
 
-1. On the right-hand side of the chart, click the export icon and select **Save as Quick Chart**.
+1. On the right-hand side of the chart, click the export icon and select **[!UICONTROL Save as Quick Chart]**.
 
    ![](assets/six.png)
 
-1. Name your Quick Chart and click **Save**.
+1. Name your Quick Chart and click **[!UICONTROL Save]**.
 
    ![](assets/seven.png)
 
@@ -58,7 +58,7 @@ In this example, we'll choose open rate for the first three weeks of February, 2
 
 Want to delete one of your Quick Charts? It's easy!
 
-1. Click the **Quick Charts** icon.
+1. Click the **[!UICONTROL Quick Charts]** icon.
 
    ![](assets/nine.png)
 
@@ -66,7 +66,7 @@ Want to delete one of your Quick Charts? It's easy!
 
    ![](assets/ten.png)
 
-1. Click **Ok**.
+1. Click **[!UICONTROL Ok]**.
 
    ![](assets/eleven.png)
 
