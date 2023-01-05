@@ -16,27 +16,27 @@ Follow these steps to create an Email Analysis report that will show you every l
 >
 >The data engine backing Email Analysis RCA ignores greater than 12 clicks per person if they came from same email and campaign. Please take this into account when comparing Email Analysis reports to standard Marketo Analytics reporting.
 
-1. Launch **Revenue Explorer**.
+1. Launch **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/report-that-lists-leads-1.png)
 
-1. Click **Create New** then **Report**.
+1. Click **[!UICONTROL Create New]** then **[!UICONTROL Report]**.
 
    ![](assets/report-that-lists-leads-2.png)
 
-1. Select Email Analysis and click **OK**.
+1. Select [!UICONTROL Email Analysis] and click **[!UICONTROL OK]**.
 
    ![](assets/report-that-lists-leads-3.png)
 
-1. Find the Email Name yellow dot, right-click it and select **Filter**.
+1. Find the [!UICONTROL Email Name] yellow dot, right-click it and select **[!UICONTROL Filter...]**.
 
    ![](assets/report-that-lists-leads-4.png)
 
-1. Double-click the email of your choice from the list and click **OK**.
+1. Double-click the email of your choice from the list and click **[!UICONTROL OK]**.
 
    ![](assets/report-that-lists-leads-5.png)
 
-1. Drag the **Email Name** yellow dot onto **Columns**.
+1. Drag the **[!UICONTROL Email Name]** yellow dot onto **[!UICONTROL Columns]**.
 
    ![](assets/report-that-lists-leads-6.png)
 
@@ -44,11 +44,11 @@ Follow these steps to create an Email Analysis report that will show you every l
    >
    >There are many lead/company attributes that you can add as columns, check them out!
 
-1. Find the **Full Name** yellow dot and drag it onto **Rows**.
+1. Find the **[!UICONTROL Full Name]** yellow dot and drag it onto **[!UICONTROL Rows]**.
 
    ![](assets/report-that-lists-leads-7.png)
 
-1. Now add the **Measures** you are interested in by double-clicking them.
+1. Now add the **[!UICONTROL Measures]** you are interested in by double-clicking them.
 
    ![](assets/report-that-lists-leads-8.png)
 
