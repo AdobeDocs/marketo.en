@@ -25,7 +25,7 @@ Admins can see all of the people on a running campaign.
 
 ![](assets/user-access-details-4.png)
 
-Admins can see users campaigns and campaign categories with the View As drop-down.
+Admins can see users campaigns and campaign categories with the [!UICONTROL View As] drop-down.
 
 ![](assets/user-access-details-5.png)
 
@@ -39,18 +39,18 @@ Admins can stop campaigns on behalf of users.
   * Users can drill into just the teams they belong to
   * Users can look at their own analytics
 
-* People Page:
+* [!UICONTROL People] Page:
 
   * Users can share groups with everyone
   * Users can share groups with just the teams they belong to
   * Users will have visibility to all people in your Actions database
   * When a user is deleted, their shared contacts transfer ownership to the Master Admin who deleted the user
 
-* Team Management Page:
+* [!UICONTROL Team] Management Page:
 
   * Cannot view
 
-* Templates Page:
+* [!UICONTROL Templates] Page:
 
   * Users can share templates with everyone
   * Users can share templates in categories their Admins allow them to
