@@ -20,7 +20,7 @@ Marketo has example revenue modelers to help inspire you. Clone these modelers a
 
    ![](assets/image2015-4-27-17-3a33-3a11.png)
 
-1. From Model Actions, select **[!UICONTROL Clone Model]**.
+1. From [!UICONTROL Model Actions], select **[!UICONTROL Clone Model]**.
 
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
