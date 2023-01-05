@@ -16,7 +16,7 @@ There are lots of goodies in here. Let's check them out!
 
 ## What's an Analysis Area? {#whats-an-analysis-area}
 
-Analysis areas each contain different data sets and metrics within Revenue Explorer. Each area relates to the reporting subject you have chosen to view.
+Analysis areas each contain different data sets and metrics within [!UICONTROL Revenue Explorer]. Each area relates to the reporting subject you have chosen to view.
 
 ## Program Analysis Areas {#program-analysis-areas}
 
@@ -34,7 +34,7 @@ Analysis areas each contain different data sets and metrics within Revenue Explo
 
 * **Opportunity Influence Analyzer** - Prove Marketing's contribution by measuring the impact of programs and key engagements that generated opportunities.
 
-## Report Options {#report-options}
+## [!UICONTROL Report Options] {#report-options}
 
 In each report there are several options available to help you customize the experience.
 
