@@ -6,7 +6,7 @@ exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 ---
 # Understanding Send Options {#understanding-send-options}
 
-When you are creating a Campaign, you have several options on how your email steps get created in Sales Connect. And, depending on where your email falls in your Campaign, your options also differ.  
+When you are creating a Campaign, you have several options on how your email steps get created in [!DNL Sales Connect]. And, depending on where your email falls in your Campaign, your options also differ.  
   
 If it's your first step and the first day in your Campaign, you will have the following options:
 
@@ -23,11 +23,11 @@ Send this email at the following time
 
 Create a task; I will send this email myself
 
-* This option will create an Email Task (and sync to Salesforce) that you can send at your convenience.
+* This option will create an [!UICONTROL Email Task] (and sync to [!DNL Salesforce]) that you can send at your convenience.
 * Once you've made this selection, when you kick off your Campaign, we will queue these tasks up for you in Command Center and the Live Feed. You can then personalize and send (or schedule) each email before it goes out.
 
   * If you open this task in our web application, it will open a compose window with your contact's email address, the subject line of your email, and the template you chose.
-  * If you open this task in Gmail or Outlook, it will open a native compose window and dynamically populate your contact's email address, the subject line of your email, and the template you chose.
+  * If you open this task in [!DNL Gmail] or [!DNL Outlook], it will open a native compose window and dynamically populate your contact's email address, the subject line of your email, and the template you chose.
 
 For any subsequent days/steps in your Campaign, you will have the following options:
 
@@ -43,11 +43,11 @@ Send this email at the following time
 
 Create a task; I will send this email myself
 
-* This option will create an Email Task (and sync to Salesforce) that you can send at your convenience.
+* This option will create an [!UICONTROL Email Task] (and sync to [!DNL Salesforce]) that you can send at your convenience.
 * Once you've made this selection, when you kick off your Campaign, Tout will queue these tasks up for you in Command Center and the Live Feed. You can then personalize and send (or schedule) each email before it goes out.
 
   * If you open this task in our web application, it will open a compose window with your contact's email address, the subject line of your email, and the template you chose.
-  * If you open this task in Gmail or Outlook, it will open a native compose window and dynamically populate your contact's email address, the subject line of your email, and the template you chose.
+  * If you open this task in [!DNL Gmail] or [!DNL Outlook], it will open a native compose window and dynamically populate your contact's email address, the subject line of your email, and the template you chose.
 
 Thread this email to the previous email
 
