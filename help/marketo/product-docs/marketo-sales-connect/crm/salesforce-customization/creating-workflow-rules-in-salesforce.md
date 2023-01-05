@@ -16,7 +16,7 @@ When using Marketo Sales Insight (MSI) and Marketo Sales Connect (MSC) in parall
 
 The workaround includes creating new workflow rules to copy values from new MSE fields into the old MSI fields. You'll need to create four workflow rules for the Contact object and the same four workflow rules for the Lead object in your own [!DNL Salesforce] instance. This may require you to have CRM Admin rights (depending on your role and setup in the CRM).
 
-Below are the recommended names of the workflow rules and description of each. These apply to the Contact and Lead object:
+Below are the recommended names of the workflow rules and description of each. These apply to the [!UICONTROL Contact] and [!UICONTROL Lead] object:
 
 <table> 
  <colgroup> 
