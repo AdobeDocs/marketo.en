@@ -11,11 +11,11 @@ If you want to collaborate with other team members, assigning tasks can be a gre
 >
 >You can only assign tasks for shared contacts.
 
-1. In the web application, click **Command Center**.
+1. In the web application, click **[!UICONTROL Command Center]**.
 
    ![](assets/assigning-tasks-to-team-members-1.png)
 
-1. Click **Add Task**.
+1. Click **[!UICONTROL Add Task]**.
 
    ![](assets/assigning-tasks-to-team-members-2.png)
 
@@ -43,6 +43,6 @@ If you want to collaborate with other team members, assigning tasks can be a gre
 
    ![](assets/assigning-tasks-to-team-members-8.png)
 
-1. Add any important details that are relevant for your teammate (optional), and click **Create**.
+1. Add any important details that are relevant for your teammate (optional), and click **[!UICONTROL Create]**.
 
    ![](assets/assigning-tasks-to-team-members-9.png)
