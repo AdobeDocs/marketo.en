@@ -4,19 +4,19 @@ description: Performance Insights Contribution Overview - Marketo Docs - Product
 title: Performance Insights Contribution Overview
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 ---
-# Performance Insights Contribution Overview {#performance-insights-contribution-overview}
+# [!UICONTROL Performance Insights] Contribution Overview {#performance-insights-contribution-overview}
 
-In Marketo Performance Insights, the Contribution view is displayed by default.
+In Marketo [!UICONTROL Performance Insights], the Contribution view is displayed by default.
 
 ![](assets/one-1.png)
 
-Select the metric you want to view the performance by. In this example we'll look at opportunities won via Multi-Touch in the Revenue dashboard.
+Select the metric you want to view the performance by. In this example we'll look at opportunities won via **[!UICONTROL Multi-Touch]** in the _[!UICONTROL Revenue]_ dashboard.
 
 ![](assets/2.png)
 
 >[!NOTE]
 >
->Learn about [First-Touch and Multi-Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>Learn about [[!UICONTROL First-Touch] and [!UICONTROL Multi-Touch]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 Choose which period you'd like to see metrics for. In this example we're looking at the current year (year-to-date).
 
@@ -24,7 +24,7 @@ Choose which period you'd like to see metrics for. In this example we're looking
 
 >[!NOTE]
 >
->We have temporarily removed the “Previous Year” selection. You still have the option of viewing the entire previous year’s performance data by using the Custom Range selection.
+>We have temporarily removed the “Previous Year” selection. You still have the option of viewing the entire previous year’s performance data by using the **[!UICONTROL Custom Range]** selection.
 
 Metrics are presented via two charts: doughnut and bar.
 
@@ -40,7 +40,7 @@ The bar chart displays program performance across all channels (ten programs at 
 
 >[!TIP]
 >
->If you want the bars in the graph to scale up as you scroll through the groups, select the **Scale Y axis to fit** checkbox.
+>If you want the bars in the graph to scale up as you scroll through the groups, select the **[!UICONTROL Scale Y axis to fit]** checkbox.
 
 Mouse over a bar to see additional details.
 
@@ -50,16 +50,16 @@ Select one or more channels in the doughnut chart, and all the programs associat
 
 ![](assets/eight.png)
 
-The data grid below functions like a spreadsheet, showing all available metrics under the chosen attribution model (First-Touch/Multi-Touch). The column containing the metric you chose is highlighted.
+The data grid below functions like a spreadsheet, showing all available metrics under the chosen attribution model ([!UICONTROL First-Touch]/[!UICONTROL Multi-Touch]). The column containing the metric you chose is highlighted.
 
 ![](assets/9.png)
 
-| **Opportunities Won** |The portion of credit (in numeric value) the program received for influencing the won opportunity |
+| **[!UICONTROL Opportunities Won]** |The portion of credit (in numeric value) the program received for influencing the won opportunity |
 |---|---|
-| **Revenue Won** |The portion of credit (in monetary value) the program received for influencing the won opportunity |
-| **Cost** |Total cost of the program |
-| **Cost Per Opportunity Won** |The ratio of the cost of the program and the portion of credit (in numeric value) the program received for influencing the creation of new opportunities |
-| **Revenue Won To Cost Ratio** |The ratio of the portion of credit (in monetary value) the program received for influencing won opportunities and the cost of the program |
+| **[!UICONTROL Revenue Won]** |The portion of credit (in monetary value) the program received for influencing the won opportunity |
+| **[!UICONTROL Cost]** |Total cost of the program |
+| **[!UICONTROL Cost Per Opportunity Won]** |The ratio of the cost of the program and the portion of credit (in numeric value) the program received for influencing the creation of new opportunities |
+| **[!UICONTROL Revenue Won To Cost Ratio]** |The ratio of the portion of credit (in monetary value) the program received for influencing won opportunities and the cost of the program |
 
 Expand a channel to see its top ten programs, with the remaining programs combined.
 
