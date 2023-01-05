@@ -30,7 +30,7 @@ Use the [!UICONTROL Program Analyzer] to identify your most and least effective 
 
    >[!TIP]
    >
-   >A quick way to filter programs to just one channel is to select **View** > **By Channel**, click the bubble for that channel, and then click the channel name in the pop-up dialog.
+   >A quick way to filter programs to just one channel is to select **[!UICONTROL View]** > **[!UICONTROL By Channel]**, click the bubble for that channel, and then click the channel name in the pop-up dialog.
 
 1. Use the **[!UICONTROL X Axis]** drop-down to choose a metric for the horizontal axis. We'll start with **[!UICONTROL Program Cost]**.
 
@@ -46,13 +46,13 @@ Use the [!UICONTROL Program Analyzer] to identify your most and least effective 
 
    >[!TIP]
    >
-   >You can also try to improve your view by changing from a linear to a logarithmic scale, or vice versa. Use the **Scale** menu at the top.
+   >You can also try to improve your view by changing from a linear to a logarithmic scale, or vice versa. Use the **[!UICONTROL Scale]** menu at the top.
 
 1. Explore the resulting graph.
 
    ![](assets/image2014-9-17-18-3a53-3a49.png)
 
-   In our example, we learn the Origami Expo is far better than all the other programs in that channel at capturing new names, and at a medium cost. But that's not the whole story. We'll add two more metrics to get a deeper understanding.
+   In our example, we learn the [!DNL Origami Expo] is far better than all the other programs in that channel at capturing new names, and at a medium cost. But that's not the whole story. We'll add two more metrics to get a deeper understanding.
 
 1. Use the **[!UICONTROL Bubble Size]** drop-down to choose a metric to compare by the size of the bubbles. We'll choose **[!UICONTROL (FT) Revenue Won]** for our example.
 
@@ -66,7 +66,7 @@ Use the [!UICONTROL Program Analyzer] to identify your most and least effective 
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   By adding **[!UICONTROL (FT) Revenue Won]**, we see quickly that, while the Origami Expo acquired a lot of new names, it results in comparatively little revenue. Also, we see that the Paper Fest 12 program is getting fewer but better names, as it influences more revenue won (bigger bubble).
+   By adding **[!UICONTROL (FT) Revenue Won]**, we see quickly that, while the [!DNL Origami Expo] acquired a lot of new names, it results in comparatively little revenue. Also, we see that the [!DNL Paper Fest 12] program is getting fewer but better names, as it influences more revenue won (bigger bubble).
 
 1. Use the Color drop-down to add a fourth metric. We'll look at **[!UICONTROL (FT) Revenue to Investment]**.
 
@@ -76,7 +76,7 @@ Use the [!UICONTROL Program Analyzer] to identify your most and least effective 
 
    ![](assets/image2014-9-17-18-3a55-3a47.png)
 
-We see that the Paper Fest 12 program not only influences more revenue (bigger bubble), but despite its relatively high program cost (on the far right side), it has the best return to investment (greenest bubble) of all the programs in the Tradeshow channel.
+We see that the [!DNL Paper Fest 12] program not only influences more revenue (bigger bubble), but despite its relatively high program cost (on the far right side), it has the best return to investment (greenest bubble) of all the programs in the [!UICONTROL Tradeshow] channel.
 
 >[!TIP]
 >
