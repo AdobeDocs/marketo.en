@@ -11,7 +11,7 @@ Follow the steps below to view your template engagement.
 
 1. Navigate to the **Analytics** page.
 
-1. Click the **Content** button and filter by the desired date range.
+1. Click the **[!UICONTROL Content]** button and filter by the desired date range.
 
 1. Based on the selected date range, at the top of the page you can see the total number of emails and templates used across your team.
 
