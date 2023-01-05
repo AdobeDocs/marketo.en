@@ -14,7 +14,7 @@ You may only have one approved model at any given time.
 
 ## Approve {#approve}
 
-1. Go to the **Analytics** area.
+1. Go to the **[!UICONTROL Analytics]** area.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -22,11 +22,11 @@ You may only have one approved model at any given time.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. From the **Model Actions** menu, choose **Approve Model**.
+1. From the **[!UICONTROL Model Actions]** menu, choose **[!UICONTROL Approve Model]**.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. A dialog appears to confirm your choice. Click **Approve**.
+1. A dialog appears to confirm your choice. Click **[!UICONTROL Approve]**.
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
@@ -38,7 +38,7 @@ Your model is now live!
 >
 >If you unapprove your model all of your people are removed from the model, and their history in the model is deleted!
 
-1. Go to the **Analytics** area.
+1. Go to the **[!UICONTROL Analytics]** area.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -46,11 +46,11 @@ Your model is now live!
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Click the **Model Actions** menu and choose **Unapprove Model**.
+1. Click the **[!UICONTROL Model Actions]** menu and choose **[!UICONTROL Unapprove Model]**.
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. In the dialog that appears, click **Unapprove Model**.
+1. In the [!UICONTROL Unapprove Model] dialog that appears, click **[!UICONTROL Unapprove]**.
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 
