@@ -8,23 +8,23 @@ exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
 
 After you've saved an analyzer, it's easy to clone it to create a new one. Then, go in and edit the new one if it needs any changes.
 
-1. Click the **Analytics** tile.
+1. Click the **[!UICONTROL Analytics]** tile.
 
    ![](assets/2017-05-01-08-20-37.png)
 
-1. Click the **Program Analyzer** tile.
+1. Click the **[!UICONTROL Program Analyzer]** tile.
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. While your saved analyzer is open, open the Analyzer Actions drop-down and select **Clone Analyzer**.
+1. While your saved analyzer is open, open the Analyzer Actions drop-down and select **[!UICONTROL Clone Analyzer]**.
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
-1. Select the location for the cloned analyzer from the **Clone To** and **Folder** drop-downs.
+1. Select the location for the cloned analyzer from the **[!UICONTROL Clone To]** and **[!UICONTROL Folder]** drop-downs.
 
    ![](assets/image2016-10-31-16-3a13-3a42.png)
 
-1. Name the cloned analyzer and click **Clone**.
+1. Name the cloned analyzer and click **[!UICONTROL Clone]**.
 
    ![](assets/image2016-10-31-16-3a15-3a15.png)
 
