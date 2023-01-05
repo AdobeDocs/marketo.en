@@ -5,9 +5,9 @@ hide: yes
 hidefromtoc: yes
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 ---
-# Disconnect Salesforce From Sales Insight Actions {#disconnect-salesforce-from-sales-insight-actions}
+# Disconnect [!DNL Salesforce] From [!DNL Sales Insight Actions] {#disconnect-salesforce-from-sales-insight-actions}
 
-Sometimes you may need to disconnect your Salesforce account from your Sales Insight Actions account. Here's how.
+Sometimes you may need to disconnect your [!DNL Salesforce] account from your [!DNL Sales Insight Actions] account. Here's how.
 
 ## How to Disconnect From Salesforce as an Admin {#how-to-disconnect-from-salesforce-as-an-admin}
 
