@@ -9,7 +9,7 @@ Custom Domain Tracking allows your team to use your own company name in all trac
 
 You'll need assistance from your IT team to set up a CNAME record for your domain that points to go.toutapp.com. This CNAME will be what appears on all of your tracking links (e.g., go.yourcompany.com).
 
-Once you've confirmed with your IT team that the CNAME is properly configured, you can add it to the Custom Domain Tracking page in Actions.  
+Once you've confirmed with your IT team that the CNAME is properly configured, you can add it to the [!UICONTROL Custom Domain Tracking] page in Actions.  
 
 >[!NOTE]
 >
@@ -21,14 +21,14 @@ Once you've confirmed with your IT team that the CNAME is properly configured, y
 >
 >**Admin privileges required.**
 
-1. Click the gear icon and select **Settings**.
+1. Click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-1.png)
 
-1. Under Admin Settings, select **Tracking**.
+1. Under [!UICONTROL Admin Settings], select **[!UICONTROL Tracking]**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 
-1. In the Custom Domain Tracking tab, enter your CNAME and click **Connect**.
+1. In the [!UICONTROL Custom Domain Tracking] tab, enter your CNAME and click **[!UICONTROL Connect]**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-3.png)
