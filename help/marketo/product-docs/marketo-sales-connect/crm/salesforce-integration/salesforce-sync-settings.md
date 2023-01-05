@@ -14,7 +14,7 @@ This functionality requires you to be on the Enterprise/Unlimited edition of Sal
 >
 >Salesforce and Sales Connect must be connected.
 
-1. In [!UICONTROL Sales Connect], click the gear icon on the upper-right and select **[!UICONTROL Settings]**.
+1. In [!DNL Sales Connect], click the gear icon on the upper-right and select **[!UICONTROL Settings]**.
 
    ![](assets/one-2.png)
 
@@ -26,11 +26,11 @@ This functionality requires you to be on the Enterprise/Unlimited edition of Sal
 
    ![](assets/three-1.png)
 
-1. Click the arrow next to Log Email Activity to Salesforce.
+1. Click the arrow next to Log Email Activity to [!DNL Salesforce].
 
    ![](assets/four-1.png)
 
-1. Click the **[!UICONTROL Salesforce API]** tab. In this card you can set up your preference for logging information to Salesforce. Click **[!UICONTROL Save]** when done.
+1. Click the **[!UICONTROL Salesforce API]** tab. In this card you can set up your preference for logging information to [!DNL Salesforce]. Click **[!UICONTROL Save]** when done.
 
    ![](assets/five.png)
 
@@ -40,7 +40,7 @@ Once you activate “Email to Salesforce (BCC)”, you'll receive a BCC of your 
 
 >[!PREREQUISITES]
 >
->Salesforce and Sales Connect must be connected.
+>[!DNL Salesforce] and [!DNL Sales Connect] must be connected.
 
 **To log your emails in Salesforce via Email (BCC)**
 
@@ -60,9 +60,9 @@ Once you activate “Email to Salesforce (BCC)”, you'll receive a BCC of your 
 
    ![](assets/six-2.png)
 
-If for some reason your Email to Salesforce address does not pull in, follow these steps to activate the BCC feature in your Salesforce account:
+If for some reason your Email to [!DNL Salesforce] address does not pull in, follow these steps to activate the BCC feature in your [!DNL Salesforce] account:
 
-1. Log in to your Salesforce instance.
+1. Log in to your [!DNL Salesforce] instance.
 1. Find your user name in the upper-right corner and select the drop-down bar.
 1. Select **[!UICONTROL My Settings]**.
 1. Select **[!UICONTROL Email]**.
@@ -71,9 +71,9 @@ If for some reason your Email to Salesforce address does not pull in, follow the
 1. Enter the email address(es) that you want BCC'd.
 1. Click **[!UICONTROL Save Changes]**.
 
-**Can't Find My Email to Salesforce in My Settings**
+**Can't Find My Email to [!DNL Salesforce] in My Settings**
 
-If you don't see My Email to Salesforce under your Settings, your Admin may not have enabled it. This can happen if your team is new to Salesforce, or your team has never used the BCC address that Salesforce provides.
+If you don't see My Email to Salesforce under your Settings, your Admin may not have enabled it. This can happen if your team is new to [!DNL Salesforce], or your team has never used the BCC address that [!DNL Salesforce] provides.
 
 >[!NOTE]
 >
@@ -83,10 +83,10 @@ If you don't see My Email to Salesforce under your Settings, your Admin may not 
 1. Click **[!UICONTROL Email Administration]**.
 1. Click **[!UICONTROL Email to Salesforce]**.
 1. Click **[!UICONTROL Edit]**.
-1. Check the box next to "Active."
+1. Check the box next to "[!UICONTROL Active]".
 1. Click **[!UICONTROL Save]**.
 
-## Sync Sales Connect Tasks/Reminders to Salesforce Tasks {#sync-sales-connect-tasks-reminders-to-salesforce-tasks}
+## Sync Sales Connect Tasks/Reminders to [!DNL Salesforce] Tasks {#sync-sales-connect-tasks-reminders-to-salesforce-tasks}
 
 1. Click the gear icon on the upper-right and select **[!UICONTROL Settings]**.
 
@@ -104,6 +104,6 @@ If you don't see My Email to Salesforce under your Settings, your Admin may not 
 
    ![](assets/seven-2.png)
 
-1. Choose the desired option ("[!UICONTROL Do not sync to Salesforce tasks" is selected by default]).
+1. Choose the desired option ("[!UICONTROL Do not sync to Salesforce tasks]" is selected by default).
 
    ![](assets/eight.png)
