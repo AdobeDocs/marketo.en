@@ -4,9 +4,9 @@ description: Performance Insights FAQ - Marketo Docs - Product Documentation
 title: Performance Insights FAQ
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 ---
-# Performance Insights FAQ {#performance-insights-faq}
+# [!UICONTROL Performance Insights] FAQ {#performance-insights-faq}
 
-## What is the definition of “success” in the Engagement tab? {#what-is-the-definition-of-success-in-the-engagement-tab}
+## What is the definition of “success” in the [!UICONTROL Engagement] tab? {#what-is-the-definition-of-success-in-the-engagement-tab}
 
 Success is a measure of meaningful interaction in Marketo. The purpose of a program is to create a meaningful interaction with the person or prospect. Success is marked when a person reaches the status that achieves that goal. It can be attending a webinar, clicking a link in an email, or filling out a web form. Success varies depending on the program channel.
 
