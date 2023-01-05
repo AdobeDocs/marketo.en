@@ -8,19 +8,19 @@ exl-id: 5f31b9bd-b008-4b97-ba5d-930488dd3da9
 
 ## Editing Your Model {#editing-your-model}
 
-1. Select the model you want to make changes to in the Analytics section and click **Edit Draft**.
+1. Select the model you want to make changes to in the [!UICONTROL Analytics] section and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/one.png)
 
-1. You can't delete stages when editing a draft model (after the model's been approved). Instead, you can merge that stage with another in the model. Right-click the stage you want to merge and click **Merge**.
+1. You can't delete stages when editing a draft model (after the model's been approved). Instead, you can merge that stage with another in the model. Right-click the stage you want to merge and click **[!UICONTROL Merge]**.
 
    ![](assets/two.png)
 
-1. Choose the new stage for leads currently in the one selected, or select **None** to remove the leads from your model. When you're done, click **Merge**.
+1. Choose the new stage for leads currently in the one selected, or select **[!UICONTROL None]** to remove the leads from your model. When you're done, click **[!UICONTROL Merge]**.
 
    ![](assets/three.png)
 
-1. When you're done making changes to the model, re-approve it by selecting **Approve Model Draft** in the **Model Actions** menu.
+1. When you're done making changes to the model, re-approve it by selecting **[!UICONTROL Approve Model Draft]** in the **[!UICONTROL Model Actions]** menu.
 
    ![](assets/four.png)
 
@@ -34,11 +34,11 @@ exl-id: 5f31b9bd-b008-4b97-ba5d-930488dd3da9
 >
 >If you unapprove your model, all of its leads will be removed, and their history in the model will be deleted. Consider editing your model instead of unapproving it.
 
-1. Select the model you wish to unapprove. From the **Model Actions** menu, select **Unapprove Model**.
+1. Select the model you wish to unapprove. From the **[!UICONTROL Model Actions]** menu, select **[!UICONTROL Unapprove Model]**.
 
    ![](assets/five.png)
 
-1. Click **Unapprove**.
+1. Click **[!UICONTROL Unapprove]**.
 
    ![](assets/six.png)
 
