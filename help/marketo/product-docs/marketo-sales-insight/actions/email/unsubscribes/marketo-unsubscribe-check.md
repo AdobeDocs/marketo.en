@@ -5,7 +5,7 @@ exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 ---
 # Marketo Unsubscribe Check {#marketo-unsubscribe-check}
 
-The Marketo Unsubscribe Check uses your team's connection to Marketo to prevent emails from going to people who are unsubscribed in Marketo's Lead Management system. When a sales user sends an email with Marketo Sales, an API call will be made to Marketo to check if the email ID is unsubscribed. If it is, we will block the email from being sent.
+The Marketo Unsubscribe Check uses your team's connection to Marketo to prevent emails from going to people who are unsubscribed in Marketo's Lead Management system. When a sales user sends an email with [!DNL Marketo Sales], an API call will be made to Marketo to check if the email ID is unsubscribed. If it is, we will block the email from being sent.
 
 >[!NOTE]
 >
@@ -13,15 +13,15 @@ The Marketo Unsubscribe Check uses your team's connection to Marketo to prevent 
 
 ## Turning it On {#turning-it-on}
 
-1. Click the gear icon and select **Settings**.
+1. Click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/marketo-unsubscribe-check-1.png)
 
-1. Under Admin Settings, click **Unsubscribes**.
+1. Under [!UICONTROL Admin Settings], click **[!UICONTROL Unsubscribes]**.
 
    ![](assets/marketo-unsubscribe-check-2.png)
 
-1. Click the **Integrations** tab. In the Marketo Unsubscribe Check section, click the slider to activate the check.
+1. Click the **[!UICONTROL Integrations]** tab. In the [!UICONTROL Marketo Unsubscribe Check] section, click the slider to activate the check.
 
    ![](assets/marketo-unsubscribe-check-3.png)
 
@@ -32,4 +32,4 @@ The Marketo Unsubscribe check...
 * Does not count against your API limits
 * Requires a Marketo connection be established
 * Is a global setting
-* Blocks emails sent from the web application, email clients, and Salesforce
+* Blocks emails sent from the web application, email clients, and [!DNL Salesforce]
