@@ -9,19 +9,19 @@ Creating a team allows you to assemble a group of users that content can be shar
 
 ## Create a Team {#create-a-team}
 
-1. In the [web application](https://toutapp.com/login), click the gear icon and select **Settings**.
+1. In the [web application](https://toutapp.com/login), click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/creating-a-team-1.png)
 
-1. Under Admin Settings, select **Team Management**.
+1. Under [!UICONTROL Admin Settings], select **[!UICONTROL Team Management]**.
 
    ![](assets/creating-a-team-2.png)
 
-1. Next to Teams, click the **+** icon.
+1. Next to [!UICONTROL Teams], click the **+** icon.
 
    ![](assets/creating-a-team-3.png)
 
-1. Enter a team name and click **Create**.
+1. Enter a team name and click **[!UICONTROL Create]**.
 
    ![](assets/creating-a-team-4.png)
 
@@ -31,7 +31,7 @@ Creating a team allows you to assemble a group of users that content can be shar
 
 ## Add People to a Team {#add-people-to-a-team}
 
-1. Still in Team Management, select **All Members**.
+1. Still in [!UICONTROL Team Management], select **[!UICONTROL All Members]**.
 
    ![](assets/creating-a-team-5.png)
 
@@ -39,7 +39,7 @@ Creating a team allows you to assemble a group of users that content can be shar
 
    ![](assets/creating-a-team-6.png)
 
-1. Click **Add to Teams**.
+1. Click **[!UICONTROL Add to Teams]**.
 
    ![](assets/creating-a-team-7.png)
 
@@ -47,6 +47,6 @@ Creating a team allows you to assemble a group of users that content can be shar
 
    ![](assets/creating-a-team-8.png)
 
-1. Click **Add** when done.
+1. Click **[!UICONTROL Add]** when done.
 
    ![](assets/creating-a-team-9.png)
