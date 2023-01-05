@@ -34,4 +34,4 @@ After you've saved an analyzer, it's easy to clone it to create a new one. Then,
 
    >[!MORELIKETHIS]
    >
-   >[Create a Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+   >[Create a [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
