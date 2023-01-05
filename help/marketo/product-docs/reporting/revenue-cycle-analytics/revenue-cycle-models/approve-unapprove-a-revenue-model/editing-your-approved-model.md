@@ -26,7 +26,7 @@ exl-id: 5f31b9bd-b008-4b97-ba5d-930488dd3da9
 
    >[!TIP]
    >
-   >If you make any changes to your stages, such as adding or merging them, make sure to change your Assignment Rules and Phases to reflect your edits.
+   >If you make any changes to your stages, such as adding or merging them, make sure to change your [!UICONTROL Assignment Rules] and Phases to reflect your edits.
 
 ## Unapproving Your Model {#unapproving-your-model}
 
