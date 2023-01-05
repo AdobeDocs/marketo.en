@@ -16,7 +16,7 @@ Use the [!UICONTROL Program Analyzer] to compare channel costs, member acquisiti
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. Select your **Program Analyzer**.
+1. Select your Program Analyzer.
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
@@ -64,7 +64,7 @@ Use the [!UICONTROL Program Analyzer] to compare channel costs, member acquisiti
 
    From the colors, we learn that the Tradeshow channel, the greenest bubble, has influenced the greatest revenue won, as measured by first-touch attribution.
 
-1. Now, if we change the Color metric to **[!UICONTROL (MT) Revenue Won]**, we see that the Online Advertising channel, now the greenest, influenced more revenue -over time_ than the Webinar and Tradeshow channels.
+1. Now, if we change the Color metric to **[!UICONTROL (MT) Revenue Won]**, we see that the Online Advertising channel, now the greenest, influenced more revenue _over time_ than the Webinar and Tradeshow channels.
 
    ![](assets/image2014-9-17-18-3a41-3a40.png)
 
