@@ -11,27 +11,27 @@ With Sales Campaigns you can:
 
 * **Organize**: Streamline all your outreach activities in one place for efficient execution.
 * **Scale**: Schedule all your outreach efforts so you can scale your efforts, minimize manual work, and personalize as much as you need.
-* **Measure**: Track the success of all your emails and tasks in one place while automatically logging them into Salesforce. By knowing what is resonating and leading to results, you can consistently test and improve your results.
+* **Measure**: Track the success of all your emails and tasks in one place while automatically logging them into [!DNL Salesforce]. By knowing what is resonating and leading to results, you can consistently test and improve your results.
 
 So, how do you set up a Sales Campaign?
 
-1. Click the **Campaigns** tab.
+1. Click the **[!UICONTROL Campaigns]** tab.
 
    ![](assets/create-a-sales-campaign-1.png)
 
-1. Select a category and click the **Create New Campaign** button.
+1. Select a category and click the **[!UICONTROL Create New Campaign]** button.
 
    ![](assets/create-a-sales-campaign-2.png)
 
    >[!NOTE]
    >
-   >Create a new category by clicking the **+** next to **Categories**.
+   >Create a new category by clicking the **+** next to **[!UICONTROL Categories]**.
 
-1. The category you chose will be selected. If you change your mind, click the drop-down and select a different one. When you're done, click **Continue**.
+1. The category you chose will be selected. If you change your mind, click the drop-down and select a different one. When you're done, click **[!UICONTROL Continue]**.
 
    ![](assets/create-a-sales-campaign-3.png)
 
-1. Click **Add a Step**.
+1. Click **[!UICONTROL Add a Step]**.
 
    ![](assets/create-a-sales-campaign-4.png)
 
@@ -39,11 +39,11 @@ So, how do you set up a Sales Campaign?
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. When you're [done with your email](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}, click **Add**.
+1. When you're [done with your email](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}, click **[!UICONTROL Add]**.
 
    ![](assets/create-a-sales-campaign-6.png)
 
-1. After you create your first day and step, the "Add a Day" button activates and you can add as many days and steps as your sales process requires.
+1. After you create your first day and step, the "[!UICONTROL Add a Day]" button activates and you can add as many days and steps as your sales process requires.
 
    ![](assets/create-a-sales-campaign-7.png)
 
@@ -51,7 +51,7 @@ So, how do you set up a Sales Campaign?
    >
    >"Days" are not the number of days between actions, but the day within the sequence. For example, if your Sales Campaign is going to last 7 days, entering '3' means the action will go out on day 3 of 7, **not** 3 days later.
 
-1. Make sure you customize scheduling and reply options, such as skipping weekends (which is awesome) by visiting the **Settings Tab** for your Sales Campaign.
+1. Make sure you customize scheduling and reply options, such as skipping weekends (which is awesome) by visiting the **[!UICONTROL Settings] Tab** for your Sales Campaign.
 
    ![](assets/create-a-sales-campaign-8.png)
 
