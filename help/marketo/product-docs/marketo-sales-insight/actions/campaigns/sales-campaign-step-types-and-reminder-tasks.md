@@ -17,9 +17,9 @@ Compose a new email, or use a pre-existing template.
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-2.png)
 
-| **Use a Template** |Select one of your pre-existing templates |
+| **[!UICONTROL Use a Template]** |Select one of your pre-existing templates |
 |---|---|
-| **Save as Template** |Save the email you just composed as a new template |
+| **[!UICONTROL Save as Template]** |Save the email you just composed as a new template |
 | **Add Content** |Upload a file to our server and receive a URL (pointing to the content) that can be tracked in your email |
 | **Attach Files** |Attach a file from your computer to the email (23MB size limit) |
 
