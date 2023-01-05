@@ -52,7 +52,7 @@ Choose from common preset date ranges, select specific dates, even use the previ
 
 >[!NOTE]
 >
->Date ranges apply to both the Analytics page and Sends page. The **Compare** option is only applicable to the Analytics page, however.
+>Date ranges apply to both the [!UICONTROL Analytics] page and [!UICONTROL Sends] page. The **Compare** option is only applicable to the [!UICONTROL Analytics] page, however.
 
 ## Account Based Marketing {#account-based-marketing}
 
