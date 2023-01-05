@@ -4,25 +4,25 @@ description: Setting Up Performance Insights - Marketo Docs - Product Documentat
 title: Setting Up Performance Insights
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 ---
-# Setting Up Performance Insights {#setting-up-performance-insights}
+# Setting Up [!UICONTROL Performance Insights] {#setting-up-performance-insights}
 
 Follow the steps below to set up MPI.
 
 ## Opportunity Setup {#opportunity-setup}
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Click **Revenue Cycle Analytics**.
+1. Click **[!UICONTROL Revenue Cycle Analytics]**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >If you do not have RCA, you'll need to select **Program Analysis** for Step 2.
+   >If you do not have RCA, you'll need to select **[!UICONTROL Program Analysis]** for Step 2.
 
-1. Under Attribution, click **Edit**.
+1. Under Attribution, click **[!UICONTROL Edit]**.
 
    ![](assets/three-1.png)
 
@@ -38,18 +38,18 @@ Follow the steps below to set up MPI.
    >
    >Ensure all of the opportunities have the appropriate fields populated:
    >
-   >* Opportunity Amount
-   >* Is Closed
-   >* Is Won
-   >* Creation Date (this may not be set in your case)
-   >* Closed Date (this may not be set in your case)
-   >* Opportunity Type
+   >* [!UICONTROL Opportunity Amount]
+   >* [!UICONTROL Is Closed]
+   >* [!UICONTROL Is Won]
+   >* [!UICONTROL Creation Date] (this may not be set in your case)
+   >* [!UICONTROL Closed Date] (this may not be set in your case)
+   >* [!UICONTROL Opportunity Type]
 
 ## Program Setup {#program-setup}
 
 Update the program costs for at least 12 months. You can do this manually or using the program API. In this example we do it manually.
 
-1. Click **Marketing Activities**.
+1. Click **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
@@ -57,29 +57,29 @@ Update the program costs for at least 12 months. You can do this manually or usi
 
    ![](assets/select-program.png)
 
-1. Click the **Setup** tab.
+1. Click the **[!UICONTROL Setup]** tab.
 
    ![](assets/setup-tab.png)
 
-1. Drag **Period Cost** onto the canvas.
+1. Drag **[!UICONTROL Period Cost]** onto the canvas.
 
    ![](assets/period-cost.png)
 
-1. Set the Program Month for at least 12 months ago and click **Ok**.
+1. Set the Program Month for at least 12 months ago and click **[!UICONTROL Ok]**.
 
    ![](assets/set-period.png)
 
-1. Set the period cost and click **Save**.
+1. Set the period cost and click **[!UICONTROL Save]**.
 
    ![](assets/set-cost.png)
 
 Next, review the analytics behavior to indicate whether particular channel should be included in analytics. Set the Analytics Behavior (Normal, Inclusive, Operational).
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Click **Tags**.
+1. Click **[!UICONTROL Tags]**.
 
    ![](assets/tags.png)
 
@@ -91,7 +91,7 @@ Next, review the analytics behavior to indicate whether particular channel shoul
 
    ![](assets/channel-click.png)
 
-1. Click the **Analytics Behavior** drop-down and select the desired behavior.
+1. Click the **[!UICONTROL Analytics Behavior]** drop-down and select the desired behavior.
 
    ![](assets/edit-channel.png)
 
@@ -99,7 +99,7 @@ Next, review the analytics behavior to indicate whether particular channel shoul
 
    ![](assets/success.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/save.png)
 
