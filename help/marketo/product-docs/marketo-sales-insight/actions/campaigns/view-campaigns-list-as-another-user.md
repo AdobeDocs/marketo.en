@@ -11,11 +11,11 @@ As an Admin, you can view campaigns as any user.
 >
 >**Admin Permissions Required**
 
-1. In the web application, click **Campaigns**.
+1. In the web application, click **[!UICONTROL Campaigns]**.
 
    ![](assets/view-campaigns-list-as-another-user-1.png)
 
-1. Click the **View As** drop-down and select the desired user.
+1. Click the **[!UICONTROL View As]** drop-down and select the desired user.
 
    ![](assets/view-campaigns-list-as-another-user-2.png)
 
@@ -25,4 +25,4 @@ As an Admin, you can view campaigns as any user.
 
    >[!NOTE]
    >
-   >You can also use filters or the search function along with View As to view what is most relevant to you.
+   >You can also use filters or the search function along with [!UICONTROL View As] to view what is most relevant to you.
