@@ -24,11 +24,11 @@ Follow these steps to create an Email Analysis report that will show you every l
 
    ![](assets/report-that-lists-leads-2.png)
 
-1. Select [!UICONTROL Email Analysis] and click **[!UICONTROL OK]**.
+1. Select **[!UICONTROL Email Analysis]** and click **[!UICONTROL OK]**.
 
    ![](assets/report-that-lists-leads-3.png)
 
-1. Find the [!UICONTROL Email Name] yellow dot, right-click it and select **[!UICONTROL Filter...]**.
+1. Find the **[!UICONTROL Email Name]** yellow dot, right-click it and select **[!UICONTROL Filter...]**.
 
    ![](assets/report-that-lists-leads-4.png)
 
