@@ -5,7 +5,7 @@ exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
 ---
 # Understanding Sales Campaign Send Options for Email Steps {#understanding-sales-campaign-send-options-for-email-steps}
 
-When you are creating a Sales Campaign, you have several options on how your email steps get created in Sales Insight Actions. And, depending on where your email falls in your Sales Campaign, your options also differ.
+When you are creating a Sales Campaign, you have several options on how your email steps get created in [!DNL Sales Insight Actions]. And, depending on where your email falls in your Sales Campaign, your options also differ.
 
 ## First Step Send Options {#first-step-send-options}
   
@@ -24,11 +24,11 @@ Send this email at the following time
 
 Create a task; I will send this email myself
 
-* This option will create an Email Task (and sync to Salesforce) that you can send at your convenience.
+* This option will create an Email Task (and sync to [!DNL Salesforce]) that you can send at your convenience.
 * Once you've made this selection, when you kick off your Sales Campaign, we will queue these tasks up for you in Command Center and the Live Feed. You can then personalize and send (or schedule) each email before it goes out.
 
   * If you open this task in our web application, it will open a compose window with your contact's email address, the subject line of your email, and the template you chose.
-  * If you open this task in Gmail or Outlook, it will open a native compose window and dynamically populate your contact's email address, the subject line of your email, and the template you chose.
+  * If you open this task in Gmail or [!DNL Outlook], it will open a native compose window and dynamically populate your contact's email address, the subject line of your email, and the template you chose.
 
 ## Subsequent Step Send Options {#subsequent-step-send-options}
 
@@ -46,11 +46,11 @@ Send this email at the following time
 
 Create a task; I will send this email myself
 
-* This option will create an Email Task (and sync to Salesforce) that you can send at your convenience.
-* Once you've made this selection, when you kick off your Sales Campaign, Sales Insight Actions will queue these tasks up for you in Command Center and the Live Feed. You can then personalize and send (or schedule) each email before it goes out.
+* This option will create an Email Task (and sync to [!DNL Salesforce]) that you can send at your convenience.
+* Once you've made this selection, when you kick off your Sales Campaign, [!DNL Sales Insight Actions] will queue these tasks up for you in Command Center and the Live Feed. You can then personalize and send (or schedule) each email before it goes out.
 
   * If you open this task in our web application, it will open a compose window with your contact's email address, the subject line of your email, and the template you chose.
-  * If you open this task in Gmail or Outlook, it will open a native compose window and dynamically populate your contact's email address, the subject line of your email, and the template you chose.
+  * If you open this task in Gmail or [!DNL Outlook], it will open a native compose window and dynamically populate your contact's email address, the subject line of your email, and the template you chose.
 
 Thread this email to the previous email
 
