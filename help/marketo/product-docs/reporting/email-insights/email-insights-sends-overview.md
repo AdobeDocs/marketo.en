@@ -6,7 +6,7 @@ exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 ---
 # Email Insights Sends Overview {#email-insights-sends-overview}
 
-On the Sends page, examine the characteristics of recent email communication.
+On the [!UICONTROL Sends] page, examine the characteristics of recent email communication.
 
 ![](assets/one.png)
 
@@ -18,11 +18,11 @@ On the right side of the page there are several pieces of information regarding 
 
 ![](assets/two-1.png)
 
-**Type** indicates the kind of asset used.
-**Recipient** number is how many people were sent the email.
-**Delivery Metrics** gives you a quick view of how many emails were delivered, are pending, or have bounced.  
-**Engagement Metrics** gives you a quick view of how many recipients have opened, clicked in, and unsubscribed from an email.
-**Score** is your email's [Engagement Score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+**[!UICONTROL Type]** indicates the kind of asset used.
+**[!UICONTROL Recipient]** number is how many people were sent the email.
+**[!UICONTROL Delivery Metrics]** gives you a quick view of how many emails were delivered, are pending, or have bounced.  
+**[!UICONTROL Engagement Metrics]** gives you a quick view of how many recipients have opened, clicked in, and unsubscribed from an email.
+**[!UICONTROL Score]** is your email's [Engagement Score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 By default your emails are sorted by most recent, but you can sort them by any available metric.
 
