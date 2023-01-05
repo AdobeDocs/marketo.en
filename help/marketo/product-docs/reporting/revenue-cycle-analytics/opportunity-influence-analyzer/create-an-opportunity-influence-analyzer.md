@@ -12,38 +12,38 @@ Use the Opportunity Influence Analyzer to show marketing's contribution to an im
 >
 >To get good intel from an Opportunity Influence Analyzer, ensure that your contacts are attached to the opportunities in your CRM.
 
-1. Click **Analytics**.
+1. Click **[!UICONTROL Analytics]**.
 
    ![](assets/analytics.png)
 
-1. Click **Opportunity Influence Analyzer**.
+1. Click **[!UICONTROL Opportunity Influence Analyzer]**.
 
    ![](assets/two.png)
 
-1. Select the account from the **Settings** panel.
+1. Select the account from the **[!UICONTROL Settings]** panel.
 
    ![](assets/image2014-9-17-8-3a56-3a32.png)
 
    >[!NOTE]
    >
-   >If you receive a warning that there were no activities during the time frame, just click **Close**. We'll come back to that after the next step.
+   >If you receive a warning that there were no activities during the time frame, just click **[!UICONTROL Close]**. We'll come back to that after the next step.
 
 1. Select the opportunity in that account.
 
    ![](assets/image2014-9-17-8-3a56-3a48.png)
 
-1. Set the time period. Click the **Setup** tab and double-click **Time Frame**.
+1. Set the time period. Click the **[!UICONTROL Setup]** tab and double-click **[!UICONTROL Time Frame]**.
 
    ![](assets/image2014-9-17-8-3a57-3a17.png)
 
-1. Select the time period of the opportunity you wish to analyze and click **Save**.
+1. Select the time period of the opportunity you wish to analyze and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-8-3a57-3a27.png)
 
    >[!TIP]
    >
    >
-   >In most cases, **All Time** is the simplest choice.
+   >In most cases, **[!UICONTROL All Time]** is the simplest choice.
 
 1. You're there! Click the main tab to see the interesting moments and successes involved in the opportunity.
 
