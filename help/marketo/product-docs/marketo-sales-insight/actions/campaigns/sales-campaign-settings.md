@@ -13,9 +13,9 @@ Enable skip weekends so any steps that would have fallen on a weekend day (Satur
 
 >[!NOTE]
 >
->With Skip Weekends enabled, emails will be scheduled based on a 5-day week. Meaning, when a step is scheduled, weekends will be ignored as days.
+>With [!UICONTROL Skip Weekends] enabled, emails will be scheduled based on a 5-day week. Meaning, when a step is scheduled, weekends will be ignored as days.
 
-1. Click **Campaigns**.
+1. Click **[!UICONTROL Campaigns]**.
 
    ![](assets/sales-campaign-settings-1.png)
 
@@ -23,11 +23,11 @@ Enable skip weekends so any steps that would have fallen on a weekend day (Satur
 
    ![](assets/sales-campaign-settings-2.png)
 
-1. Click the **Settings** tab.
+1. Click the **[!UICONTROL Settings]** tab.
 
    ![](assets/sales-campaign-settings-3.png)
 
-1. Select the **Skip Weekends** checkbox.
+1. Select the **[!UICONTROL Skip Weekends]** checkbox.
 
    ![](assets/sales-campaign-settings-4.png)
 
@@ -35,7 +35,7 @@ Enable skip weekends so any steps that would have fallen on a weekend day (Satur
 
 If you're using email connection, we will detect bounces based off the bounce message sent to the users inbox. Additionally, we can remove people from Sales Campaigns when a bounce is detected.
 
-1. Click **Campaigns**.
+1. Click **[!UICONTROL Campaigns]**.
 
    ![](assets/sales-campaign-settings-5.png)
 
@@ -43,19 +43,19 @@ If you're using email connection, we will detect bounces based off the bounce me
 
    ![](assets/sales-campaign-settings-6.png)
 
-1. Click the **Settings** tab.
+1. Click the **[!UICONTROL Settings]** tab.
 
    ![](assets/sales-campaign-settings-7.png)
 
-1. Select the **Remove on Bounce** checkbox.
+1. Select the **[!UICONTROL Remove on Bounce]** checkbox.
 
    ![](assets/sales-campaign-settings-8.png)
 
 ## If a Reply Occurs {#if-a-reply-occurs}
 
-If you have reply tracking enabled for Gmail or Exchange, we can automatically end your Sales Campaign if a recipient replies to your email.
+If you have reply tracking enabled for Gmail or [!DNL Exchange], we can automatically end your Sales Campaign if a recipient replies to your email.
 
-1. Click **Campaigns**.
+1. Click **[!UICONTROL Campaigns]**.
 
    ![](assets/sales-campaign-settings-9.png)
 
@@ -63,11 +63,11 @@ If you have reply tracking enabled for Gmail or Exchange, we can automatically e
 
    ![](assets/sales-campaign-settings-10.png)
 
-1. Click the **Settings** tab.
+1. Click the **[!UICONTROL Settings]** tab.
 
    ![](assets/sales-campaign-settings-11.png)
 
-1. Under **If a Reply Occurs**, make your desired selection(s).
+1. Under **[!UICONTROL If a Reply Occurs]**, make your desired selection(s).
 
    ![](assets/sales-campaign-settings-12.png)
 
