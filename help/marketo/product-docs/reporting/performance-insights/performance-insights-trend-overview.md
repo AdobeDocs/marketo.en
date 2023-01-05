@@ -4,19 +4,19 @@ description: Performance Insights Trend Overview - Marketo Docs - Product Docume
 title: Performance Insights Trend Overview
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 ---
-# Performance Insights Trend Overview {#performance-insights-trend-overview}
+# [!UICONTROL Performance Insights] [!UICONTROL Trend] Overview {#performance-insights-trend-overview}
 
-Trend shows channel performance of across a period of time.
+[!UICONTROL Trend] shows channel performance of across a period of time.
 
-Click the **Trend** tab to access this view.
+Click the **[!UICONTROL Trend]** tab to access this view.
 
 ![](assets/1.png)
 
-## Trend {#trend}
+## [!UICONTROL Trend] {#trend}
 
 ![](assets/2-1.png)
 
-Select the metric you want to view the performance by. In this example we'll look at opportunities won via [First Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Select the metric you want to view the performance by. In this example we'll look at opportunities won via [[!UICONTROL First-Touch]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 
