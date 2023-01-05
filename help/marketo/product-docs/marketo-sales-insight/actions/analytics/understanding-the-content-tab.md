@@ -5,9 +5,9 @@ hide: yes
 hidefromtoc: yes
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 ---
-# Understanding the Content Tab {#understanding-the-content-tab}
+# Understanding the [!UICONTROL Content] Tab {#understanding-the-content-tab}
 
-The Content Tab is all about your team's email engagement when using a template. We automatically bubble up three metrics that we believe to be important.
+The [!UICONTROL Content] Tab is all about your team's email engagement when using a template. We automatically bubble up three metrics that we believe to be important.
 
 ## Secret weapon {#secret-weapon}
 
