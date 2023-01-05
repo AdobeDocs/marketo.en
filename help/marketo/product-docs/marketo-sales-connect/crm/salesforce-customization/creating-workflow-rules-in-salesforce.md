@@ -6,7 +6,7 @@ exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 ---
 # Creating Workflow Rules in Salesforce {#creating-workflow-rules-in-salesforce}
 
-When using Marketo Sales Insight (MSI) and Marketo Sales Connect (MSC) in parallel, the MSI Best Bets feature in Salesforce will not get updated. All other MSI features work as usual (viewing interesting moments in the iFrame, sending email, adding to campaigns, etc.). This article offers a workaround to get Best Bets working again.
+When using Marketo Sales Insight (MSI) and Marketo Sales Connect (MSC) in parallel, the MSI Best Bets feature in [!DNL Salesforce] will not get updated. All other MSI features work as usual (viewing interesting moments in the iFrame, sending email, adding to campaigns, etc.). This article offers a workaround to get Best Bets working again.
 
 >[!NOTE]
 >
@@ -14,7 +14,7 @@ When using Marketo Sales Insight (MSI) and Marketo Sales Connect (MSC) in parall
 
 ## Getting Started {#getting-started}
 
-The workaround includes creating new workflow rules to copy values from new MSE fields into the old MSI fields. You'll need to create four workflow rules for the Contact object and the same four workflow rules for the Lead object in your own Salesforce instance. This may require you to have CRM Admin rights (depending on your role and setup in the CRM).
+The workaround includes creating new workflow rules to copy values from new MSE fields into the old MSI fields. You'll need to create four workflow rules for the Contact object and the same four workflow rules for the Lead object in your own [!DNL Salesforce] instance. This may require you to have CRM Admin rights (depending on your role and setup in the CRM).
 
 Below are the recommended names of the workflow rules and description of each. These apply to the Contact and Lead object:
 
@@ -45,52 +45,52 @@ Below are the recommended names of the workflow rules and description of each. T
 
 ## Instructions {#instructions}
 
-1. After clicking **Setup**, search for **Workflow** and select **Workflow Rules**.
+1. After clicking **[!UICONTROL Setup]**, search for  **Workflow** and select **[!UICONTROL Workflow Rules]**.
 
    ![](assets/one-1.png)
 
-1. Select **New Rule**.
+1. Select **[!UICONTROL New Rule]**.
 
    ![](assets/two-1.png)
 
-1. Click the Object drop-down and select **Lead**, then click **Next**.
+1. Click the [!UICONTROL Object] drop-down and select **[!UICONTROL Lead]**, then click **[!UICONTROL Next]**.
 
    ![](assets/three-1.png)
 
-1. Enter “Update Interesting Moment Desc Field” as the Rule Name. Select the radio button **created, and every time it’s edited**. In the Rule Criteria drop-down select **formula evaluates to true**. Search for and select the ISCHANGED function. Then, highlight the default field value and click **Insert Field**.
+1. Enter “Update Interesting Moment Desc Field” as the [!UICONTROL Rule Name]. Select the radio button **[!UICONTROL created, and every time it’s edited]**. In the [!UICONTROL Rule Criteria] drop-down select **[!UICONTROL formula evaluates to true]**. Search for and select the ISCHANGED function. Then, highlight the default field value and click **[!UICONTROL Insert Field]**.
 
    ![](assets/four-1.png)
 
-1. In the “Insert Field” pop-up, choose **Last Marketo Engagement Desc** and click **Insert**.
+1. In the “[!UICONTROL Insert Field]” pop-up, choose **[!UICONTROL Last Marketo Engagement Desc]** and click **[!UICONTROL Insert]**.
 
    ![](assets/five-1.png)
 
-1. Click **Save & Next**.
+1. Click **[!UICONTROL Save & Next]**.
 
    ![](assets/6.png)
 
-1. In the Add Workflow Action drop-down, select **New Field Update**.
+1. In the [!UICONTROL Add Workflow Action] drop-down, select **[!UICONTROL New Field Update]**.
 
    ![](assets/seven.png)
 
-1. In the Name field, enter “Update Interesting Moment Desc Field” (Unique Name will auto-generate). In the Field to Update drop-down, choose **Last Interesting Moment Desc**. Select the **Use a formula to set new value** radio button, then click **Show Formula Editor**.
+1. In the [!UICONTROL Name] field, enter “Update Interesting Moment Desc Field” ([!UICONTROL Unique Name] will auto-generate). In the [!UICONTROL Field to Update] drop-down, choose **[!UICONTROL Last Interesting Moment Desc]**. Select the **[!UICONTROL Use a formula to set new value]** radio button, then click **[!UICONTROL Show Formula Editor]**.
 
    ![](assets/eight.png)
 
-1. Click the **Insert Field** button.
+1. Click the **[!UICONTROL Insert Field]** button.
 
    ![](assets/9a.png)
 
-1. Select **Last Marketo Engagement Desc**, and click **Insert**. On the next page, click **Save**.
+1. Select **[!UICONTROL Last Marketo Engagement Desc]**, and click **[!UICONTROL Insert]**. On the next page, click **[!UICONTROL Save]**.
 
    ![](assets/nine.png)
 
-1. Click **Done**.
+1. Click **[!UICONTROL Done]**.
 
    ![](assets/twelve.png)
 
-1. Click **Activate** to turn on the workflow rule.
+1. Click **[!UICONTROL Activate]** to turn on the workflow rule.
 
    ![](assets/thirteen.png)
 
-   After the last step, you can choose to clone the workflow rule for the other fields listed in the Getting Started section: Desc, Type, Source, Date. After you complete the four workflow rules in the Contact object, repeat the same for the Lead object.
+   After the last step, you can choose to clone the workflow rule for the other fields listed in the [!UICONTROL Getting Started] section: Desc, Type, Source, Date. After you complete the four workflow rules in the [!UICONTROL Contact] object, repeat the same for the [!UICONTROL Lead] object.
