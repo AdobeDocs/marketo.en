@@ -9,13 +9,13 @@ We have always allowed teams to customize their unsubscribe link messaging, but 
 
 >[!NOTE]
 >
->You cannot use a third party unsubscribe link with Marketo Sales as this information will not be captured back into our database.
+>You cannot use a third party unsubscribe link with [!DNL Marketo Sales] as this information will not be captured back into our database.
 
-1. Click the gear icon and select **Settings**.
+1. Click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. Under Admin Settings, click **Unsubscribes**.
+1. Under [!UICONTROL Admin Settings], click **[!UICONTROL Unsubscribes]**.
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 
@@ -31,10 +31,10 @@ We have always allowed teams to customize their unsubscribe link messaging, but 
    >
    >It doesn't matter what URL you enter. When the email is sent the first (or only) hyperlink will automatically link to the default unsubscribe page.
 
-1. Enter a URL, determine if you want the link to open in the current or a new window, and click **Save**.
+1. Enter a URL, determine if you want the link to open in the current or a new window, and click **[!UICONTROL Save]**.
 
    ![](assets/customize-unsubscribe-link-message-5.png)
 
-1. Click **Save** at the bottom to save your changes.
+1. Click **[!UICONTROL Save]** at the bottom to save your changes.
 
    ![](assets/customize-unsubscribe-link-message-6.png)
