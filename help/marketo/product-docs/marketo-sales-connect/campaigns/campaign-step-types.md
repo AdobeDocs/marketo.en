@@ -34,7 +34,7 @@ Set a reminder to follow-up with a contact via phone. You can also save notes to
 
 ## InMail {#inmail}
 
-Following up on multiple channels is a great way to connect with leads. With InMail tasks, you can set up a reminder to reach out via LinkedIn.
+Following up on multiple channels is a great way to connect with leads. With InMail tasks, you can set up a reminder to reach out via [!DNL LinkedIn].
 
 ![](assets/inmail.png)
 
