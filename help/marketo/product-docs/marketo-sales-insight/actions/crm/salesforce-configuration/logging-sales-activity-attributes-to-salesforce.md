@@ -3,17 +3,17 @@ description: Logging Sales Activity Attributes to Salesforce - Marketo Docs - Pr
 title: Logging Sales Activity Attributes to Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
 ---
-# Logging Sales Activity Attributes to Salesforce {#logging-sales-activity-attributes-to-salesforce}
+# Logging Sales Activity Attributes to [!DNL Salesforce] {#logging-sales-activity-attributes-to-salesforce}
 
-Salesforce admin can manually add custom activity fields to Salesforce.  
+Salesforce admin can manually add custom activity fields to [!DNL Salesforce].  
 
-1. In your Salesforce account, click **Setup**.
+1. In your [!DNL Salesforce] account, click **[!UICONTROL Setup]**.
 
 1. Search for “Activity Custom Fields” in the quick search field and click on it.  
 
-1. Click **New**.
+1. Click **[!UICONTROL New]**.
 
-1. Select Data Type corresponding to the field you want to add based on the table below and click **Next**.
+1. Select Data Type corresponding to the field you want to add based on the table below and click **[!UICONTROL Next]**.
 
 1. Enter the Field name and label corresponding to the field you want to add.
 
@@ -34,105 +34,105 @@ Description of each column in the table below:
   <th>Size</th>
  </tr>
   <tr>
-  <td>Call Outcomes</td>
+  <td>[!UICONTROL Call Outcomes]</td>
   <td>mktosales_call_outcome</td>
   <td>mktosales_call_outcome__c</td>
   <td>Text</td>
   <td>50</td>
  </tr>
  <tr>
-  <td>Call Reasons</td>
+  <td>[!UICONTROL Call Reasons]</td>
   <td>mktosales_call_reason</td>
   <td>mktosales_call_reason__c</td>
   <td>Text</td>
   <td>50</td>
  </tr>
  <tr>
-  <td>Marketo Sales Call Local Presence ID</td>
+  <td>[!UICONTROL Marketo Sales Call Local Presence ID]</td>
   <td>MSE_Call_Local_Presence_ID</td>
   <td>MSE_Call_Local_Presence_ID__c</td>
   <td>Text</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Marketo Sales Call Recording URL</td>
+  <td>[!UICONTROL Marketo Sales Call Recording URL]</td>
   <td>MSE_Call_Recording</td>
   <td>MSE_Call_Recording__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo Sales Campaign</td>
+  <td>[!UICONTROL Marketo Sales Campaign]</td>
   <td>MSE_Campaign</td>
   <td>MSE_Campaign__c</td>
   <td>Text</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Marketo Sales Campaign Current Step</td>
+  <td>[!UICONTROL Marketo Sales Campaign Current Step]</td>
   <td>MSE_Current_Campaign_Step</td>
   <td>MSE_Current_Campaign_Step__c</td>
   <td>Text</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Marketo Sales Campaign URL</td>
+  <td>[!UICONTROL Marketo Sales Campaign URL]</td>
   <td>MSE_Campaign_Details_Link</td>
   <td>MSE_Campaign_Details_Link__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo Sales Email Attachment Viewed</td>
+  <td>[!UICONTROL Marketo Sales Email Attachment Viewed]</td>
   <td>MSE_Presentation_Viewed</td>
   <td>MSE_Presentation_Viewed__c</td>
   <td>Checkbox</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo Sales Email Clicked</td>
+  <td>[!UICONTROL Marketo Sales Email Clicked]</td>
   <td>MSE_Clicked</td>
   <td>MSE_Clicked__c</td>
   <td>Checkbox</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo Sales Email Replied</td>
+  <td>[!UICONTROL Marketo Sales Email Replied]</td>
   <td>MSE_Replied</td>
   <td>MSE_Replied__c</td>
   <td>Checkbox</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo Sales Email Status</td>
+  <td>[!UICONTROL Marketo Sales Email Status]</td>
   <td>MSE_Email_Status</td>
   <td>MSE_Email_Status__c</td>
   <td>Text</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo Sales Email Template</td>
+  <td>[!UICONTROL Marketo Sales Email Template]</td>
   <td>MSE_Template</td>
   <td>MSE_Template__c</td>
   <td>Text</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Marketo Sales Email Template URL</td>
+  <td>[!UICONTROL Marketo Sales Email Template URL]</td>
   <td>MSE_Template_Details</td>
   <td>MSE_Template_Details__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo Sales Email URL</td>
+  <td>[!UICONTROL Marketo Sales Email URL]</td>
   <td>MSE_Details</td>
   <td>MSE_Details__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo Sales Email Viewed</td>
+  <td>[!UICONTROL Marketo Sales Email Viewed]</td>
   <td>MSE_Viewed</td>
   <td>MSE_Viewed__c</td>
   <td>Checkbox</td>
