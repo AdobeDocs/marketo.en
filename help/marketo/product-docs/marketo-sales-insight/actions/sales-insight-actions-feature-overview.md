@@ -19,7 +19,7 @@ Accelerate prospecting efforts with marketing-powered intelligence and engagemen
 
 ## Lead Layout and Contact Layout {#lead-layout-and-contact-layout}
 
-The following actions are available from the “Choose Actions” drop down in the top nav:
+The following actions are available from the “[!UICONTROL Choose Actions]” drop down in the top nav:
 
 * Send Sales Email
   * Sales emails have view, click and reply tracking (when delivery channel is set up)
@@ -35,7 +35,7 @@ The following actions are available from the “Choose Actions” drop down in t
   * Campaign activity will be logged in the Marketo person record
   * Corresponding filters and triggers in Marketo Smart Campaigns (details below)
 
-* Sales Dialer
+* Sales Call
   * Make sales calls using the dialer within the CRM
   * Includes local presence, pre-recorded
   * Log call outcome, call recording in panel, and activity history
@@ -45,8 +45,8 @@ The following actions are available from the “Choose Actions” drop down in t
 * Add Task
   * Create Email, Call, InMail, and Custom tasks for your leads
   * Automate task creation with Sales Campaigns
-  * Sync tasks with Salesforce  
-  * Log tasks in Salesforce Activity History section
+  * Sync tasks with [!DNL Salesforce]  
+  * Log tasks in [!DNL Salesforce] Activity History section
 
 You can access Live Feed by clicking on the ((0)) icon in the top nav. It includes the ability to see live updates on sales activities along with screen docking capability.
 
@@ -55,7 +55,7 @@ You can access Live Feed by clicking on the ((0)) icon in the top nav. It includ
 The following data is available in the tabs within the MSI panel:
 
 * Insights Dashboard
-  * Engagement Velocity Grid will include activities from Sales Emails, Sales Campaign Actions, and Sales Dialer
+  * Engagement Velocity Grid will include activities from Sales Emails, Sales Campaign Actions, and Sales Call
   * Upcoming Sales Campaigns - When a lead is a part of an ongoing campaign, this information will be available in the upcoming sales campaigns tab
   * Upcoming Tasks - When there is an upcoming task pertaining to a lead, this information will be available in the upcoming tasks tab
 
@@ -92,7 +92,7 @@ You can access Live Feed by clicking the ((0)) icon in the top nav. It includes 
 The following data is available in the tabs:
 
 * Insights Dashboard
-  * Engagement Velocity Grid will include activities from Sales Emails, Sales Campaign Actions, and the Sales Dialer
+  * Engagement Velocity Grid will include activities from Sales Emails, Sales Campaign Actions, and the Sales Call
   * Upcoming Sales Campaigns - When a contact from the account/opportunity is a part of an on-going campaign, this information will be available in the upcoming sales campaigns tab
   * Upcoming Tasks - When there's an upcoming task pertaining to a contact from the account/opportunity, this information will be available in the upcoming tasks tab
 
@@ -108,28 +108,28 @@ The following data is available in the tabs:
 
 ## Lead and Contact List View (Bulk Actions) {#lead-and-contact-list-view}
 
-* Send Sales Email - Ability to send personalized or templatized emails with view, click and reply tracking to a list of contacts/leads
-* Send Sales Campaign - Add to sales playbooks which is a sequence of emails and tasks to a list of contacts/leads
+* [!UICONTROL Send Sales Email] - Ability to send personalized or templatized emails with view, click and reply tracking to a list of contacts/leads
+* [!UICONTROL Add to Sales Campaign] - Add to sales playbooks which is a sequence of emails and tasks to a list of contacts/leads
 
 ## Marketo Global Tab {#marketo-global-tab}
 
-**Best Bets Tab**
+**[!UICONTROL Best Bets] Tab**
 
    ![](assets/sales-insight-actions-feature-overview-3.png)
 
-The following bulk actions are available from the drop down in Best Bets tab:
+The following bulk actions are available from the drop down in [!UICONTROL Best Bets] tab:
 
-* Send Sales Email - Ability to send personalized or templatized emails with view, click and reply tracking
-* Send Sales Campaign - Add leads to sales playbooks which is a sequence of emails and tasks
+* [!UICONTROL Send Sales Email] - Ability to send personalized or templatized emails with view, click and reply tracking
+* [!UICONTROL Add to Sales Campaign] - Add leads to sales playbooks which is a sequence of emails and tasks
 
    ![](assets/sales-insight-actions-feature-overview-4.png)
 
-The following in-line actions are available for individual leads/contacts in the Best Bets tab:
+The following in-line actions are available for individual leads/contacts in the [!UICONTROL Best Bets] tab:
 
-* Send Sales Email - Ability to send personalized or templatized emails with view, click and reply tracking
-* Send Sales Campaign - Add leads to sales playbooks which is a sequence of emails and tasks
-* Sales Dialer - Make sales calls using the dialer within the CRM
-* Add Task - Create email, call, customer or Linkedin tasks for prospective leads
+* [!UICONTROL Send Sales Email] - Ability to send personalized or templatized emails with view, click and reply tracking
+* [!UICONTROL Add to Sales Campaign] - Add leads to sales playbooks which is a sequence of emails and tasks
+* [!UICONTROL Sales Call] - Make sales calls using the dialer within the CRM
+* [!UICONTROL Add Task] - Create email, call, customer or Linkedin tasks for prospective leads
 
    ![](assets/sales-insight-actions-feature-overview-5.png)
 
@@ -149,8 +149,8 @@ The following in-line actions are available for individual leads/contacts in the
 
 * Email, Call, InMail, and Custom tasks created and completed will be available for task management in this tab. Includes ability to Add Task
 * Automate task creation with Sales Campaigns
-* Sync tasks with Salesforce  
-* Log tasks in Salesforce Activity History section
+* Sync tasks with [!DNL Salesforce]  
+* Log tasks in [!DNL Salesforce] Activity History section
 
    ![](assets/sales-insight-actions-feature-overview-6.png)
 
@@ -167,18 +167,18 @@ Sales activities that are captured in Marketo:
 * Open Sales Email - Lead opened a sales email sent  
 * Click Sales Email - Lead clicked on a link in a sales email
 * Replied Sales Email - Lead replied to a sales email  
-* Receive Sales Call - Lead received a call from a salesperson using the Sales Dialer.
+* Receive Sales Call - Lead received a call from a salesperson using the Sales Call.
 * Add to Sales Campaign - Lead was added to a sales campaign created  
 * Removed from Sales Campaign - Lead was removed from a sales campaign created  
 
 Filters and Triggers include:
 
-* Send Sales Email
-* Opened Sales Email
-* Clicked Sales Email
-* Replied to Sales Email
-* Received Sales Call
-* Added to Sales Campaign
-* Removed from Sales Campaign
+* [!UICONTROL Is Sent Sales Email]
+* [!UICONTROL Opens Sales Email]
+* [!UICONTROL Clicks Sales Email]
+* [!UICONTROL Replies to Sales Email]
+* [!UICONTROL Receives Sales Call]
+* [!UICONTROL Added to Sales Campaign]
+* [!UICONTROL Removed from Sales Campaign]
 
    ![](assets/sales-insight-actions-feature-overview-7.png)
