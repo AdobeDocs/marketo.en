@@ -11,14 +11,14 @@ By enabling content lockdown, restrict non-Admin users from editing templates an
 >
 >Users will still be able to edit the content of an email at the time of sending, or when launching a campaign.
 
-1. Click the gear icon and select **Settings**.
+1. Click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/content-lockdown-1.png)
 
-1. Under Admin Settings, click **General**.
+1. Under [!UICONTROL Admin Settings], click **[!UICONTROL General]**.
 
    ![](assets/content-lockdown-2.png)
 
-1. Scroll down to Content Lockdown. Turning either slider on will disable your team members’ ability to create/edit templates and/or campaigns.
+1. Scroll down to [!UICONTROL Content Lockdown]. Turning either slider on will disable your team members’ ability to create/edit templates and/or campaigns.
 
    ![](assets/content-lockdown-3.png)
