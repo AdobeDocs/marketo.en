@@ -10,15 +10,15 @@ Learn how to set up dashboards below.
 
 ## Open and Click Report {#open-and-click-report}
 
-1. Select the **Tasks and Events** record type.
+1. Select the **[!UICONTROL Tasks and Events]** record type.
 1. Define the report parameters based on your desired time frame and hierarchy structure.
-1. Add a filter to remove internal emails logged to Salesforce (e.g. Company/Account not equal to Marketo).
-1. Select the **Summary** report format.
+1. Add a filter to remove internal emails logged to [!DNL Salesforce] (e.g. Company/Account not equal to Marketo).
+1. Select the **[!UICONTROL Summary]** report format.
 1. Add the Subject, Assigned, and Marketo Sales Clicked/Marketo Sales Viewed fields to the report.
-1. Double-click on **Add Formula** within the Fields pane.
-1. Add a name to the formula, select **Percent** in the format, and select **Grouping 1**.
-1. Select **Marketo Sales Clicked/Marketo Sales Viewed,** then **Sum** in the Summary Fields.
-1. Add a divide sign to the formula, and then select **Record Count** in the Summary fields – _Save As_.
+1. Double-click on **[!UICONTROL Add Formula]** within the Fields pane.
+1. Add a name to the formula, select **[!UICONTROL Percent]** in the format, and select **[!UICONTROL Grouping 1]**.
+1. Select **[!UICONTROL Marketo Sales Clicked/Marketo Sales Viewed]**, then **[!UICONTROL Sum]** in the Summary Fields.
+1. Add a divide sign to the formula, and then select **[!UICONTROL Record Count]** in the Summary fields – _Save As_.
 
 ## Template Performance Report {#template-performance-report}
 
