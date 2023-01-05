@@ -6,7 +6,7 @@ exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 ---
 # Set [!DNL Google AdWords] Conversions in the Revenue Model with a Manager Account {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
 
-Link your [!DNL Google AdWords] account to Marketo to automatically upload offline conversion data from Marketo to [!DNL Google AdWords]. Then, from the [!DNL AdWords] UI, you will be able to easily see which clicks resulted in qualified leads, opportunities and new customers (or whatever revenue stages you want to track) after you [add custom columns](https://support.google.com/adwords/answer/3073556) in AdWords.
+Link your [!DNL Google AdWords] account to Marketo to automatically upload offline conversion data from Marketo to [!DNL Google AdWords]. Then, from the [!DNL AdWords] UI, you will be able to easily see which clicks resulted in qualified leads, opportunities and new customers (or whatever revenue stages you want to track) after you [add custom columns](https://support.google.com/adwords/answer/3073556) in [!DNL AdWords].
 
 If you have multiple [!DNL Google Adwords] accounts, you can use a [[!DNL Google AdWords] Manager Account](https://www.google.com/adwords/manager-accounts/) (formerly known as My Client Center) to integrate them with Marketo.
 
