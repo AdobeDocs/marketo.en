@@ -4,21 +4,21 @@ description: Performance Insights Dashboards - Marketo Docs - Product Documentat
 title: Performance Insights Dashboards
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 ---
-# Performance Insights Dashboards {#performance-insights-dashboards}
+# [!UICONTROL Performance Insights] Dashboards {#performance-insights-dashboards}
 
 Learn more about the available dashboards in MPI.
 
 ![](assets/1-4.png)
 
-## Engagement {#engagement}
+## [!UICONTROL Engagement] {#engagement}
 
-The Engagement dashboard helps you measure the effectiveness of your nurture and new name acquisition programs.
+The [!UICONTROL Engagement] dashboard helps you measure the effectiveness of your nurture and new name acquisition programs.
 
 ![](assets/two-3.png)
 
 Measuring Audience Engagement
 
-Choose the **Successes** metric to measure audience engagement in your nurture programs. Success is a measure of meaningful interaction in Marketo.
+Choose the **[!UICONTROL Successes]** metric to measure audience engagement in your nurture programs. Success is a measure of meaningful interaction in Marketo.
 
 ![](assets/3-4.png)
 
@@ -30,7 +30,7 @@ The purpose of a program is to create a meaningful interaction with the person o
 
 Measuring New Name Acquisition
 
-Choose the **New Names** metric to measure the effectiveness of your new name acquisition programs.
+Choose the **[!UICONTROL New Names]** metric to measure the effectiveness of your new name acquisition programs.
 
 ![](assets/4-3.png)
 
@@ -38,63 +38,63 @@ Choose the **New Names** metric to measure the effectiveness of your new name ac
 >
 >All of your programs must be set up to set the acquisition program and acquisition date of leads in order for this dashboard to give you the best results.
 
-## Pipeline {#pipeline}
+## [!UICONTROL Pipeline] {#pipeline}
 
-The Pipeline dashboard shows channel performance by first-touch and multi-touch metrics.
+The [!UICONTROL Pipeline] dashboard shows channel performance by first-touch and multi-touch metrics.
 
 ![](assets/five-1.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>New Opportunities</strong></p></td> 
+   <td><p><strong><span class="uicontrol">New Opportunities</span></strong></p></td> 
    <td><p>The portion of credit the program received for influencing the creation of new opportunities. It may be a fraction if there were multiple leads involved.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Pipeline Created</strong></p></td> 
+   <td><p><strong><span class="uicontrol">Pipeline Created</span></strong></p></td> 
    <td><p>The portion of credit (in monetary value) the program received for influencing the creation of opportunities. It may be a fraction of the total if there were multiple leads involved.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Pipeline Open</strong></p></td> 
+   <td><p><strong><span class="uicontrol">Pipeline Open</span></strong></p></td> 
    <td><p>The portion of credit (in monetary value) the program received for influencing the creation of opportunities that are still open. It may be a fraction of the total if there were multiple leads involved.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Expected Revenue</strong></p></td> 
+   <td><p><strong><span class="uicontrol">Expected Revenue</span></strong></p></td> 
    <td><p>The portion of credit (in monetary value) the program received for influencing the creation of opportunities. Expected Revenue is the Opportunity probability multiplied by the opportunity value. It may be a fraction if there were multiple leads involved.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Cost Per Opportunity Created</strong></p></td> 
+   <td><p><strong><span class="uicontrol">Cost Per Opportunity Created</span></strong></p></td> 
    <td><p>The portion of the cost of the program that influenced new opportunities divided by the total number of new opportunities created.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Pipeline Created to Cost Ratio</strong></p></td> 
+   <td><p><strong><span class="uicontrol">Pipeline Created to Cost Ratio</span></strong></p></td> 
    <td><p>The portion of credit a program received for influencing the creation of new opportunities divided by the portion of the cost of the program that influenced the creation of opportunity.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## Revenue {#revenue}
+## [!UICONTROL Revenue] {#revenue}
 
-The Revenue dashboard shows channel performance by first-touch and multi-touch metrics.
+The [!UICONTROL Revenue] dashboard shows channel performance by first-touch and multi-touch metrics.
 
 ![](assets/six-1.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Opportunities Won</strong></p></td> 
+   <td><p><strong><span class="uicontrol">Opportunities Won</span></strong></p></td> 
    <td><p>The portion of credit a program received for influencing a won opportunity.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Revenue Won</strong></p></td> 
+   <td><p><strong><span class="uicontrol">Revenue Won</span></strong></p></td> 
    <td><p>The portion of credit (in monetary value) received for influencing a won opportunity.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Cost Per Opportunity Won</strong></p></td> 
+   <td><p><strong><span class="uicontrol">Cost Per Opportunity Won</span></strong></p></td> 
    <td><p>The portion of the cost of the program that influenced new opportunities divided by the total number of new opportunities created.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Revenue Won to Cost Ratio</strong></p></td> 
+   <td><p><strong><span class="uicontrol">Revenue Won to Cost Ratio</span></strong></p></td> 
    <td><p>The portion of credit (in monetary value) received for influencing a won opportunity divided by the portion of the cost of the program that influenced new opportunities.</p></td> 
   </tr> 
  </tbody> 
