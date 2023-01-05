@@ -4,7 +4,7 @@ description: Create a Program Analyzer - Marketo Docs - Product Documentation
 title: Create a Program Analyzer
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 ---
-# Create a Program Analyzer {#create-a-program-analyzer}
+# Create a [!UICONTROL Program Analyzer] {#create-a-program-analyzer}
 
 Discover which programs and channels are giving you the biggest bang for your marketing buck. Use the program analyzer to scrutinize and compare every cost and return in detail, by program or by channel.
 
@@ -16,11 +16,11 @@ Discover which programs and channels are giving you the biggest bang for your ma
 >
 >To make programs with no cost appear in the program analyzer, [set their period cost](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) to $0.
 
-1. Click the **Analytics** tile.
+1. Click the **[!UICONTROL Analytics]** tile.
 
    ![](assets/image2014-9-17-13-3a7-3a1.png)
 
-1. Click the **Program Analyzer** tile.
+1. Click the **[!UICONTROL Program Analyzer]** tile.
 
    ![](assets/program-analyzer-icon-hand.png)
 
@@ -28,27 +28,27 @@ Discover which programs and channels are giving you the biggest bang for your ma
 
    ![](assets/image2016-10-31-15-3a3-3a9.png)
 
-1. Click the **Setup** tab to add and customize filters.
+1. Click the **[!UICONTROL Setup]** tab to add and customize filters.
 
    ![](assets/image2016-10-31-15-3a25-3a57.png)
 
-1. For example, to customize the Period Cost filter, double-click on it.
+1. For example, to customize the [!UICONTROL Period Cost] filter, double-click on it.
 
    ![](assets/image2016-10-31-15-3a33-3a2.png)
 
-1. Select the time period you wish to analyze and click **Apply**.
+1. Select the time period you wish to analyze and click **[!UICONTROL Apply]**.
 
    ![](assets/image2016-10-31-15-3a30-3a32.png)
 
    >[!TIP]
    >
-   >To select a specific range, select **Custom** and use the **From** and **To** fields.
+   >To select a specific range, select **[!UICONTROL Custom]** and use the **[!UICONTROL From]** and **[!UICONTROL To]** fields.
 
-1. If you want to save your new custom analyzer, in the Analyzer Actions drop-down, select **Save As**.
+1. If you want to save your new custom analyzer, in the **[!UICONTROL Analyzer Actions]** drop-down, select **[!UICONTROL Save As]**.
 
    ![](assets/image2016-10-31-15-3a5-3a8.png)
 
-1. Select the location where you want to save the custom analyzer, using the Save To and Folder drop-downs. Name the new custom analyzer. A description is optional. Click **Save**.
+1. Select the location where you want to save the custom analyzer, using the [!UICONTROL Save To] and [!UICONTROL Folder] drop-downs. Name the new custom analyzer. A description is optional. Click **[!UICONTROL Save]**.
 
    ![](assets/image2016-10-31-15-3a7-3a19.png)
 
@@ -62,7 +62,7 @@ Discover which programs and channels are giving you the biggest bang for your ma
 
 >[!MORELIKETHIS]
 >
->* [Compare Channel Effectiveness with the Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
->* [Compare Program Effectiveness with the Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
->* [Explore Program & Channel Details with the Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Clone a Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
+>* [Compare Channel Effectiveness with the [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [Compare Program Effectiveness with the [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+>* [Explore Program & Channel Details with the [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Clone a [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
