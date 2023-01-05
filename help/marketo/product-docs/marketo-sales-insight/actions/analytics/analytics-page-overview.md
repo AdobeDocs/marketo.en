@@ -39,6 +39,6 @@ In the [[!UICONTROL Team] tab](/help/marketo/product-docs/marketo-sales-insight/
 
 The [[!UICONTROL Content] tab](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md) contains stats on templates, content, and links. You can either filter by everyone, or by teams your admins have created.
 
-If you see blue text under the subject column, it means the template is shared. You can click the blue text to be taken to that template. View its usage by clicking **[!UICONTROL Template] Analytics**.
+If you see blue text under the subject column, it means the template is shared. You can click the blue text to be taken to that template. View its usage by clicking **[!UICONTROL Template Analytics]**.
 
 "Clicks on content" are counted when a recipient clicks a link in your email.
