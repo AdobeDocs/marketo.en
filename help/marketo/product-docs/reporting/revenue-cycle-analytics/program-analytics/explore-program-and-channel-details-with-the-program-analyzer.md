@@ -4,19 +4,19 @@ description: Explore Program & Channel Details with the Program Analyzer - Marke
 title: Explore Program & Channel Details with the Program Analyzer
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 ---
-# Explore Program & Channel Details with the Program Analyzer {#explore-program-channel-details-with-the-program-analyzer}
+# Explore Program & Channel Details with the [!UICONTROL Program Analyzer] {#explore-program-channel-details-with-the-program-analyzer}
 
-You can see detailed program and channel stats in the Program Analyzer. You can also open them in Revenue Cycle Explorer.
+You can see detailed program and channel stats in the [!UICONTROL Program Analyzer]. You can also open them in Revenue Cycle Explorer.
 
 >[!PREREQUISITES]
 >
->[Create a Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Create a [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
 >
 >Not all Marketo editions include this functionality. Contact your account manager for more detail.
 
-1. Click **Analytics**.
+1. Click **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
@@ -24,7 +24,7 @@ You can see detailed program and channel stats in the Program Analyzer. You can 
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. To see the specific statistics for a channel or program (depending on the **View** you select), click the corresponding bubble.
+1. To see the specific statistics for a channel or program (depending on the **[!UICONTROL View]** you select), click the corresponding bubble.
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
@@ -42,7 +42,7 @@ You can see detailed program and channel stats in the Program Analyzer. You can 
 
    >[!NOTE]
    >
-   >Clicking a single channel switches your view to By Program, filtered to just that channel. To return to all channels, select **View** > **By Channel**.
+   >Clicking a single channel switches your view to By Program, filtered to just that channel. To return to all channels, select **[!UICONTROL View]** > **[!UICONTROL By Channel]**.
 
 1. To open the Revenue Cycle Explorer to dig even deeper into a statistic, click that number in the pop-up dialog.
 
