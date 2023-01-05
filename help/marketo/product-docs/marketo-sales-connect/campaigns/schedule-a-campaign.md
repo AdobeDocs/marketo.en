@@ -10,10 +10,10 @@ You can either schedule each individual email step of your Campaign to go out at
 
 All you need to do is choose when you'd like your emails to be sent when you create your Campaign.
 
-If you didn't schedule your first step or need to choose a "Send at" time, you will be asked to choose when your Campaign should be sent, each time you add a person or a group.
+If you didn't schedule your first step or need to choose a "[!UICONTROL Send at]" time, you will be asked to choose when your Campaign should be sent, each time you add a person or a group.
 
-Open up the Add to Campaign modal, either by adding individuals, a group, or selected people and click **Next**.
+Open up the [!UICONTROL Add to Campaign] modal, either by adding individuals, a group, or selected people and click **[!UICONTROL Next]**.
 
-After you click **Next**, you can preview the first email.
+After you click **[!UICONTROL Next]**, you can preview the first email.
 
-After clicking **Next** again, you'll be taken to an option for when you want your campaign to go out. You can either have it start now, or schedule a time for later to begin the campaign.
+After clicking **[!UICONTROL Next]** again, you'll be taken to an option for when you want your campaign to go out. You can either have it start now, or schedule a time for later to begin the campaign.
