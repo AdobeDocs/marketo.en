@@ -4,11 +4,11 @@ description: Filtering in Email Insights - Marketo Docs - Product Documentation
 title: Filtering in Email Insights
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 ---
-# Filtering in Email Insights {#filtering-in-email-insights}
+# Filtering in [!UICONTROL Email Insights] {#filtering-in-email-insights}
 
-In Email Insights, there are different ways to filter your data.
+In [!UICONTROL Email Insights], there are different ways to filter your data.
 
-## Email Insights {#email-insights}
+## [!UICONTROL Email Insights] {#email-insights}
 
 Click the + to start adding filters. Add as many as you'd like.
 
@@ -56,6 +56,6 @@ Choose from common preset date ranges, select specific dates, even use the previ
 
 ## Account Based Marketing {#account-based-marketing}
 
-If you use [Target Account Management](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), there are filters specifically for you.
+If you use [[!UICONTROL Target Account Management]](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), there are filters specifically for you.
 
 ![](assets/abm.png)
