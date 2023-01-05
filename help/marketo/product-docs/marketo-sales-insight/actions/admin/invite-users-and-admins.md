@@ -9,23 +9,23 @@ Adding users or Admins is quick and easy!
 
 ## Invite Users {#invite-users}
 
-1. Click the gear icon and select **Settings**.
+1. Click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. Under Admin Settings, select **User Management**.
+1. Under [!UICONTROL Admin Settings], select **[!UICONTROL User Management]**.
 
    ![](assets/invite-users-and-admins-2.png)
 
-1. Click the **Actions** button and select **Invite Users**.
+1. Click the **[!UICONTROL Actions]** button and select **[!UICONTROL Invite Users]**.
 
    ![](assets/invite-users-and-admins-3.png)
 
    >[!NOTE]
    >
-   >You can also select **Invite Users via CSV** if you have them all listed in a spreadsheet.
+   >You can also select **[!UICONTROL Invite Users via CSV]** if you have them all listed in a spreadsheet.
 
-1. Enter the email addresses of the individuals you'd like to add and click **Invite** (selecting a team to add them to is optional).
+1. Enter the email addresses of the individuals you'd like to add and click **[!UICONTROL Invite]** (selecting a team to add them to is optional).
 
    ![](assets/invite-users-and-admins-4.png)
 
@@ -33,7 +33,7 @@ Adding users or Admins is quick and easy!
    >
    >By default, all new members will be added to the Everyone team.
 
-1. Click **OK**.
+1. Click **[!UICONTROL OK]**.
 
    ![](assets/invite-users-and-admins-5.png)
 
@@ -45,15 +45,15 @@ Adding users or Admins is quick and easy!
 
 Follow these steps to make an existing user an Admin.
 
-1. Click the gear icon and select **Settings**.
+1. Click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/invite-users-and-admins-6.png)
 
-1. Under Admin Settings, select **User Management**.
+1. Under [!UICONTROL Admin Settings], select **[!UICONTROL User Management]**.
 
    ![](assets/invite-users-and-admins-7.png)
 
-1. Find the user you'd like to make an Admin, click the Role drop-down, and select **Admin**.
+1. Find the user you'd like to make an Admin, click the Role drop-down, and select **[!UICONTROL Admin]**.
 
    ![](assets/invite-users-and-admins-8.png)
 
