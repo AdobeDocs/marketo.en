@@ -11,15 +11,15 @@ Help your sales team achieve success by preventing them from accidentally emaili
 >
 >**Admin Permissions Required**
 
-1. In the web application, click the gear icon and select **Settings**.
+1. In the web application, click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/blocked-domains-1.png)
 
-1. Under Admin Settings, click **General**.
+1. Under [!UICONTROL Admin Settings], click **[!UICONTROL General]**.
 
    ![](assets/blocked-domains-2.png)
 
-1. Enter the domain you want blocked and click **Block Domain**.
+1. Enter the domain you want blocked and click **[!UICONTROL Block Domain]**.
 
    ![](assets/blocked-domains-3.png)
 
