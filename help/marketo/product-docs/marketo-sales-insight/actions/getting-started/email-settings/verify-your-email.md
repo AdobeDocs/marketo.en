@@ -7,19 +7,19 @@ exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 
 If you have an email identity that isn't verified, follow the steps below.
 
-1. Click the gear icon on the top right and choose **Settings**.
+1. Click the gear icon on the top right and choose **[!UICONTROL Settings]**.
 
    ![](assets/verify-your-email-1.png)
 
-1. Under My Account, click **Email Settings**.
+1. Under [!UICONTROL My Account], click **[!UICONTROL Email Settings]**.
 
    ![](assets/verify-your-email-2.png)
 
-1. Under Address and Signature, find the email you’d like to verify and click **Resend Verification Email**. A new verification email will be sent.
+1. Under [!UICONTROL Address and Signature], find the email you’d like to verify and click **[!UICONTROL Resend Verification Email]**. A new verification email will be sent.
 
     ![](assets/verify-your-email-3.png)
 
-1. Click **Resend**.
+1. Click **[!UICONTROL Resend]**.
 
    ![](assets/verify-your-email-4.png)
 
