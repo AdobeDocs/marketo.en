@@ -8,7 +8,7 @@ exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 
 To receive updates from your Revenue Cycle Explorer reports, and to share them, you can subscribe any email address to an existing report.
 
-1. Go to **Analytics** and select **New** > **New Report Subscription**.
+1. Go to **[!UICONTROL Analytics]** and select **[!UICONTROL New]** > **[!UICONTROL New Report Subscription]**.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
@@ -16,7 +16,7 @@ To receive updates from your Revenue Cycle Explorer reports, and to share them, 
    >
    >To subscribe to a basic report that you created in a program, see [Subscribe to a Basic Report](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
 
-1. For Report Source, select **Revenue Explorer**.
+1. For Report Source, select **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
