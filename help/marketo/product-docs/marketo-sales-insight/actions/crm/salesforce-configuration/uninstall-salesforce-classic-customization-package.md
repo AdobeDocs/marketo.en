@@ -3,25 +3,25 @@ description: Uninstall Salesforce Classic Customization Package - Marketo Docs -
 title: Uninstall Salesforce Classic Customization Package
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
 ---
-# Uninstall Salesforce Classic Customization Package {#uninstall-salesforce-classic-customization-package}
+# Uninstall [!DNL Salesforce] Classic Customization Package {#uninstall-salesforce-classic-customization-package}
 
-Uninstall the Marketo Sales Connect package from your Salesforce account once you start using the MSI Actions package.  
+Uninstall the Marketo [!DNL Sales Connect] package from your [!DNL Salesforce] account once you start using the MSI Actions package.  
 
-## Remove Sales Connect fields from Page Layout {#remove-sales-connect-fields-from-page-layout}
+## Remove [!DNL Sales Connect] fields from Page Layout {#remove-sales-connect-fields-from-page-layout}
 
-1. In Salesforce Classic, click **Setup**.
+1. In [!DNL Salesforce] Classic, click **[!UICONTROL Setup]**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-1.png)
 
-1. In the left nav, under Build, expand (but don't click on) Customize, then Leads. Then, select **Page Layouts**.
+1. In the left nav, under [!UICONTROL Build], expand (but don't click on) [!UICONTROL Customize], then [!UICONTROL Leads]. Then, select **[!UICONTROL Page Layouts]**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-2.png)
 
-1. Click **Edit** next to Lead Layout.
+1. Click **[!UICONTROL Edit]** next to Lead Layout.
 
    ![](assets/uninstall-salesforce-classic-customization-package-3.png)
 
-1. In the console, select **Fields**. In Quick Find, search "MSC." All the grayed out fields have been added to your page layout. You'll have to delete them.
+1. In the console, select **[!UICONTROL Fields]**. In Quick Find, search "MSC." All the grayed out fields have been added to your page layout. You'll have to delete them.
 
    ![](assets/uninstall-salesforce-classic-customization-package-4.png)
 
@@ -29,19 +29,19 @@ Uninstall the Marketo Sales Connect package from your Salesforce account once yo
    >
    >If none of the fields are grayed out, it means you haven't added them to your page layout. You can skip this section.
 
-1. Scroll to the section that has your Sales Connect Custom Fields.  
+1. Scroll to the section that has your [!DNL Sales Connect] Custom Fields.  
 
    ![](assets/uninstall-salesforce-classic-customization-package-5.png)
 
 1. There are 10 types of MSC fields that can be added to this section. Remove all the fields you added, or simply delete the entire section.
 
-1. Click **Quick Save** when done.
+1. Click **[!UICONTROL Quick Save]** when done.
 
    ![](assets/uninstall-salesforce-classic-customization-package-6.png)
 
-## Remove Sales Connect Buttons from Page Layouts {#remove-sales-connect-buttons-from-page-layouts}
+## Remove [!DNL Sales Connect] Buttons from Page Layouts {#remove-sales-connect-buttons-from-page-layouts}
 
-1. In the console (Step 4 above), select **Buttons**. Search "MSC." All the grayed out buttons have been added to your custom button section. You'll have to delete them.
+1. In the console (Step 4 above), select **[!UICONTROL Buttons]**. Search "MSC." All the grayed out buttons have been added to your custom button section. You'll have to delete them.
 
    ![](assets/uninstall-salesforce-classic-customization-package-7.png)
 
@@ -49,41 +49,41 @@ Uninstall the Marketo Sales Connect package from your Salesforce account once yo
    >
    >If none of the buttons are grayed out, it means you haven't added them. You can skip this section.
 
-1. Drag and drop the MSC buttons from the Custom Buttons section to the console.
+1. Drag and drop the MSC buttons from the [!UICONTROL Custom Buttons] section to the console.
 
    ![](assets/uninstall-salesforce-classic-customization-package-8.png)
 
-1. Click **Quick Save** when done.
+1. Click **[!UICONTROL Quick Save]** when done.
 
    ![](assets/uninstall-salesforce-classic-customization-package-9.png)
 
-## Remove Sales Connect Fields from Activity History Section {#remove-sales-connect-fields-from-activity-history-section}
+## Remove [!DNL Sales Connect] Fields from [!UICONTROL Activity History] Section {#remove-sales-connect-fields-from-activity-history-section}
 
-1. Scroll to the bottom of the page to the Activity History related list section and click on the Wrench icon.
+1. Scroll to the bottom of the page to the [!UICONTROL Activity History] related list section and click on the Wrench icon.
 
    ![](assets/uninstall-salesforce-classic-customization-package-10.png)
 
-1. Select the Sales Connect Fields from the Selected Fields area and Click the Remove arrow. Click **OK** when done.  
+1. Select the [!DNL Sales Connect] Fields from the [!UICONTROL Selected Fields] area and Click the [!UICONTROL Remove] arrow. Click **[!UICONTROL OK]** when done.  
 
    ![](assets/uninstall-salesforce-classic-customization-package-11.png)
 
    >[!NOTE]
    >
-   >The abbrevation MSE _is_ Sales Connect. It's just the previous name, "Marketo Sales Engage."
+   >The abbrevation MSE _is_ [!DNL Sales Connect]. It's just the previous name, "Marketo Sales Engage."
 
-1. Click **Save** when you’re done with the Leads page.
+1. Click **[!UICONTROL Save]** when you’re done with the Leads page.
 
-## Remove Sales Connect Bulk Action Buttons from Lead List View {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
+## Remove [!DNL Sales Connect] Bulk Action Buttons from Lead List View {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 
-1. In the left nav, under Build, expand (but don't click on) Customize, then Leads. Then, select **Search Layouts**.
+1. In the left nav, under [!UICONTROL Build], expand (but don't click on) [!UICONTROL Customize], then [!UICONTROL Leads]. Then, select **[!UICONTROL Search Layouts]**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-12.png)
 
-1. Next to Leads List View, click **Edit**.  
+1. Next to Leads List View, click **[!UICONTROL Edit]**.  
 
    ![](assets/uninstall-salesforce-classic-customization-package-13.png)
 
-1. Select **Add to MSC Campaign (Classic)**, **Email with MSC (Classic)**, and **Push to MSC (Classic)**, and click the Remove arrow. Then click **Save**.  
+1. Select **[!UICONTROL Add to MSC Campaign (Classic)]**, **[!UICONTROL Email with MSC (Classic)]**, and **[!UICONTROL Push to MSC (Classic)]**, and click the [!UICONTROL Remove] arrow. Then click **[!UICONTROL Save]**.  
 
    ![](assets/uninstall-salesforce-classic-customization-package-14.png)
 
@@ -91,21 +91,21 @@ You should no longer see the buttons on the lead list view.
 
 ## Remove MSC Configuration for Contacts {#remove-msc-configuration-for-contacts}
 
-1. In Salesforce, click **Setup**.
+1. In [!DNL Salesforce], click **[!UICONTROL Setup]**.
 
-1. In the left nav, under Build, expand (but don't click on) Customize, then Contacts. Then, select **Page Layouts**.
+1. In the left nav, under [!UICONTROL Build], expand (but don't click on) [!UICONTROL Customize], then [!UICONTROL Contacts]. Then, select **[!UICONTROL Page Layouts]**.
 
-1. Next to Contact Layout, click **Edit**.
+1. Next to Contact Layout, click **[!UICONTROL Edit]**.
 
 1. Repeat steps from all three sections.
 
 ## Remove MSC Configuration for Opportunity {#remove-msc-configuration-for-opportunity}
 
-1. In Salesforce, click **Setup**.
+1. In [!DNL Salesforce], click **[!UICONTROL Setup]**.
 
-1. In the left nav, under Build, expand (but don't click on) Customize, then Opportunities. Then, select **Page Layouts**.
+1. In the left nav, under [!UICONTROL Build], expand (but don't click on) [!UICONTROL Customize], then [!UICONTROL Opportunities]. Then, select **[!UICONTROL Page Layouts]**.
 
-1. Next to Opportunity Layout, click **Edit**.
+1. Next to Opportunity Layout, click **[!UICONTROL Edit]**.
 
 1. Repeat steps from all three sections.
 
@@ -115,11 +115,11 @@ Opportunity view has only one button – “Send MSE Email” and the following 
 
 ## Remove MSC Configuration for Account {#remove-msc-configuration-for-account}
 
-1. In Salesforce, click **Setup**.
+1. In [!DNL Salesforce], click **[!UICONTROL Setup]**.
 
-1. In the left nav, under Build, expand (but don't click on) Customize, then Account. Then, select **Page Layouts**.
+1. In the left nav, under [!UICONTROL Build], expand (but don't click on) [!UICONTROL Customize], then [!UICONTROL Account]. Then, select **[!UICONTROL Page Layouts]**.
 
-1. Next to Account Layout, click **Edit**.
+1. Next to Account Layout, click **[!UICONTROL Edit]**.
 
 1. Repeat steps from all three sections.
 
@@ -129,27 +129,27 @@ Account view has only one button – “Send MSE Email” and the following fiel
 
 ## Remove Marketo Sales Outbox {#remove-marketo-sales-outbox}
 
-1. In Salesforce, click the **+** tab on the top of your screen.
+1. In [!DNL Salesforce], click the **+** tab on the top of your screen.
 
-1. Click **Customize My Tabs**.
+1. Click **[!UICONTROL Customize My Tabs]**.
 
-1. Select the Marketo Sales Outbox option from the right. Click the Remove arrow, then click **Save**.
+1. Select the Marketo Sales Outbox option from the right. Click the [!UICONTROL Remove] arrow, then click **[!UICONTROL Save]**.
 
-## Delete Sales Connect Package {#delete-sales-connect-package}
+## Delete [!DNL Sales Connect] Package {#delete-sales-connect-package}
 
-Once you’ve removed all the objects from your Salesforce Account, follow the steps below.
+Once you’ve removed all the objects from your [!DNL Salesforce] Account, follow the steps below.
 
-1. In Salesforce, click **Setup**.
+1. In [!DNL Salesforce], click **[!UICONTROL Setup]**.
 
 1. In the Quick Find box, enter "Apex Classes."
 
-1. Click **Delete** next to all “MarketoSalesConnectionCustomization” or “MarketoSalesEngageCustomization” entries on your list.  
+1. Click **[!UICONTROL Delete]** next to all “MarketoSalesConnectionCustomization” or “MarketoSalesEngageCustomization” entries on your list.  
 
 You’re all set!  
 
-Here’s a list of all the objects that need to be removed from your Salesforce instance:
+Here’s a list of all the objects that need to be removed from your [!DNL Salesforce] instance:
 
-## Sales Connect Customization Details {#sales-connect-customization-details}
+## [!DNL Sales Connect] Customization Details {#sales-connect-customization-details}
 
 <table>
  <tr>
@@ -159,79 +159,79 @@ Here’s a list of all the objects that need to be removed from your Salesforce 
   <th>Data Type</th>
  </tr>
  <tr>
-  <td>MSC Call Local Presence ID</td>
+  <td>[!UICONTROL MSC Call Local Presence ID]</td>
   <td>As a user, I can choose Local Presence as an option when I make calls from MSC Phone. Incoming calls will show a local number for the receiver</td>
   <td>Activity</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC Call Recording URL</td>
+  <td>[!UICONTROL MSC Call Recording URL]</td>
   <td>Calls can be recorded and a link for the recording will be logged here </td>
   <td>Activity</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC Campaign</td>
+  <td>[!UICONTROL MSC Campaign]</td>
   <td>Logs name of the MSC campaign the contact/lead is on</td>
   <td>Activity</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC Campaign URL</td>
+  <td>[!UICONTROL MSC Campaign URL]</td>
   <td>Logs URL to the campaign that was created in MSC. Clicking on this will open the campaign in the MSC web app</td>
   <td>Activity</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC Campaign Current Step</td>
+  <td>[!UICONTROL MSC Campaign Current Step]</td>
   <td>If a contact/lead is on a campaign, this field will log the name of the step they're currently on</td>
   <td>Activity</td>
   <td>Checkbox</td>
  </tr>
  <tr>
-  <td>MSC Email Attachment Viewed</td>
+  <td>[!UICONTROL MSC Email Attachment Viewed]</td>
   <td>Logs data when an email is sent with an attachment that is viewed by the recipient</td>
   <td>Activity</td>
   <td>Checkbox</td>
  </tr>
  <tr>
-  <td>MSC Email Clicked</td>
+  <td>[!UICONTROL MSC Email Clicked]</td>
   <td>Logs a check mark when the recipient clicks a link in the email</td>
   <td>Activity</td>
   <td>Checkbox</td>
  </tr>
  <tr>
-  <td>MSC Email Replied</td>
+  <td>[!UICONTROL MSC Email Replied]</td>
   <td>Logs a check mark when the recipient replies to the email</td>
   <td>Activity</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC Email Status</td>
+  <td>[!UICONTROL MSC Email Status]</td>
   <td>Shows if an email is sent/in progress/bounced (tracking bounced emails depends on the delivery channel used)</td>
   <td>Activity</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC Email Template</td>
+  <td>[!UICONTROL MSC Email Template]</td>
   <td>Logs name of the MSC template that was used in the email sent to the lead/contact</td>
   <td>Activity</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC Email Template URL</td>
+  <td>[!UICONTROL MSC Email Template URL]</td>
   <td>Logs URL to the template that was created in MSC. Clicking on this will open the template in the MSC web app</td>
   <td>Activity</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC Email URL</td>
+  <td>[!UICONTROL MSC Email URL]</td>
   <td>Clicking on this URL will open the command center in MSC and pull up the People Detail View history tab where the user can see the sent email</td>
   <td>Activity</td>
   <td>Text</td>
  </tr>
  <tr>
-  <td>MSC Email Viewed</td>
+  <td>[!UICONTROL MSC Email Viewed]</td>
   <td>Logs a check mark when the recipient views an email</td>
   <td>Activity</td>
   <td>Checkbox</td>
@@ -354,8 +354,8 @@ Here’s a list of all the objects that need to be removed from your Salesforce 
   <th>Type</th>
  </tr>
  <tr>
-  <td>Send MSC Email</td>
-  <td>Send sales emails from Salesforce</td>
+  <td>[!UICONTROL Send MSC Email]</td>
+  <td>Send sales emails from [!DNL Salesforce]</td>
   <td>
   <p>Account 
   <p>Contact 
@@ -363,22 +363,22 @@ Here’s a list of all the objects that need to be removed from your Salesforce 
   <p>Opportunity</td>
  </tr>
  <tr>
-  <td>Add to MSC Campaign</td>
-  <td>Add to MSC campaigns from Salesforce</td>
+  <td>[!UICONTROL Add to MSC Campaign]</td>
+  <td>Add to MSC campaigns from [!DNL Salesforce]</td>
   <td>
   <p>Contact
   <p>Lead</td>
  </tr>
  <tr>
-  <td>Push to MSC</td>
-  <td>Push contact from Salesforce to MSC</td>
+  <td>[!UICONTROL Push to MSC]</td>
+  <td>Push contact from [!DNL Salesforce] to MSC</td>
   <td>
   <p>Contact
   <p>Lead</td>
  </tr>
  <tr>
-  <td>Call with MSC</td>
-  <td>Make sales calls from Salesforce</td>
+  <td>[!UICONTROL Call with MSC]</td>
+  <td>Make sales calls from [!DNL Salesforce]</td>
   <td>
   <p>Contact
   <p>Lead</td>
@@ -392,22 +392,22 @@ Here’s a list of all the objects that need to be removed from your Salesforce 
   <th>Type</th>
  </tr>
  <tr>
-  <td>Add to MSC Campaign (Classic)</td>
-  <td>Add to MSC campaigns from Salesforce</td>
+  <td>[!UICONTROL Add to MSC Campaign (Classic)]</td>
+  <td>Add to MSC campaigns from [!DNL Salesforce]</td>
   <td>
   <p>Contact
   <p>Lead</td>
  </tr>
  <tr>
-  <td>Push to MSC (Classic)</td>
-  <td>Push contact from Salesforce to MSC</td>
+  <td>[!UICONTROL Push to MSC (Classic)]</td>
+  <td>Push contact from [!DNL Salesforce] to MSC</td>
   <td>
   <p>Contact
   <p>Lead</td>
  </tr>
  <tr>
-  <td>Email with MSC (Classic)</td>
-  <td>Email with MSC from Salesforce</td>
+  <td>[!UICONTROL Email with MSC (Classic)]</td>
+  <td>Email with MSC from [!DNL Salesforce]</td>
   <td>
   <p>Contact
   <p>Lead</td>
