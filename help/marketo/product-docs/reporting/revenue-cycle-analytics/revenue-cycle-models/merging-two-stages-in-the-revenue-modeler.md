@@ -20,7 +20,7 @@ After you've approved the model, you cannot delete stages when editing a draft. 
 
    ![](assets/image2015-4-29-15-3a7-3a3.png)
 
-1. Right-click the stage you want to merge and select **[!UICONTROL Merge Stage]** in the menu.
+1. Right-click the stage you want to merge and select **[!UICONTROL Merge] Stage** in the menu.
 
    ![](assets/image2015-4-29-15-3a10-3a6.png)
 
