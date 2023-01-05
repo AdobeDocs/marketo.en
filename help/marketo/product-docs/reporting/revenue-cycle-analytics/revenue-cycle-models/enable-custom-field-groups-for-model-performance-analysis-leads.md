@@ -17,17 +17,17 @@ exl-id: 417fd74f-d8f5-477b-b633-0fdfdd68b22b
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>What happens when…?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>How it impacts the Model Performance Analysis (Leads) Area</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>How it impacts the <span class="uicontrol">Model Performance Analysis (Leads)</span> Area</strong></p></td> 
    <td colspan="1" rowspan="1"><p><strong>How it impacts the Lead Analysis, Campaign Analysis, and Opportunity Analysis Areas</strong></p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>What happens when you enable a custom field group associated with a standard lead or company field?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>The custom field group is enabled for reporting in the Model Performance Analysis (Leads) Area</p></td> 
+   <td colspan="1" rowspan="1"><p>The custom field group is enabled for reporting in the <span class="uicontrol">Model Performance Analysis (Leads)</span> Area</p></td> 
    <td colspan="1" rowspan="1"><p>No Impact</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>What happens when you enable a custom field group associated with a custom person or company field?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>The custom field group is enabled for reporting in the Model Performance Analysis (Leads) Area</p></td> 
+   <td colspan="1" rowspan="1"><p>The custom field group is enabled for reporting in the <span class="uicontrol">Model Performance Analysis (Leads)</span> Area</p></td> 
    <td colspan="1" rowspan="1"><p>The custom field itself is enabled for reporting in the Lead Analysis, Campaign Analysis, and Opportunity Analysis Areas.</p><p><strong>NOTE:</strong> Custom field groups are NOT supported in these analysis areas, so the group associations do not display in Revenue Cycle Explorer--<em>only</em> the custom field.</p></td> 
   </tr> 
  </tbody> 
