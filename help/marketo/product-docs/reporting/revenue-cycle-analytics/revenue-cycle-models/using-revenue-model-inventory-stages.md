@@ -14,39 +14,39 @@ All known leads and accounts initially reside in the Inventory Stage. This prosp
 
 ## Add An Inventory Stage {#add-an-inventory-stage}
 
-1. To add a new Revenue Cycle Model Inventory stage, click the **Analytics** button in the **My Marketo** home screen.
+1. To add a new Revenue Cycle Model Inventory stage, click the **[!UICONTROL Analytics]** button in the **[!UICONTROL My Marketo]** home screen.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. In the **Analytics** section, select your existing model, or [create a new one](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. In the **[!UICONTROL Analytics]** section, select your existing model, or [create a new one](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
-1. Click **Edit Draft**.
+1. Click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. To add a new inventory stage, click the **Inventory** button, then drag and release to anywhere within the canvas.
+1. To add a new inventory stage, click the **[!UICONTROL Inventory]** button, then drag and release to anywhere within the canvas.
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. You are free to edit the Name, add a Description and adjust the Type after adding a stage. You may also select **[Start Tracking by Account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** at this time.
+1. You are free to edit the **[!UICONTROL Name]**, add a **[!UICONTROL Description]** and adjust the **[!UICONTROL Type]** after adding a stage. You may also select **[[!UICONTROL Start Tracking by Account]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** at this time.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## Edit an Inventory Stage {#edit-an-inventory-stage}
 
-When you select an Inventory icon you may edit the **Name**, add a **Description** or adjust the **Type**. You may also select [Start Tracking by Account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
+When you select an Inventory icon you may edit the **[!UICONTROL Name]**, add a **[!UICONTROL Description]** or adjust the **[!UICONTROL Type]**. You may also select [[!UICONTROL Start Tracking by Account]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
-1. Click an Inventory icon.
+1. Click an **[!UICONTROL Inventory]** icon.
 
    ![](assets/image2015-4-27-15-3a55-3a10.png)
 
-1. Click within the **Name** and **Description** fields to edit their content.
+1. Click within the **[!UICONTROL Name]** and **[!UICONTROL Description]** fields to edit their content.
 
    ![](assets/image2015-4-27-13-3a34-3a58.png)
 
-1. Select the **Type** pulldown to edit.
+1. Select the **[!UICONTROL Type]** pulldown to edit.
 
    ![](assets/image2015-4-27-13-3a36-3a52.png)
 
@@ -56,11 +56,11 @@ When you select an Inventory icon you may edit the **Name**, add a **Description
 
    ![](assets/image2015-4-28-13-3a0-3a20.png)
 
-1. You may also delete a stage by clicking it, then in the **Stage Actions** dropdown, select **Delete**.
+1. You may also delete a stage by clicking it, then in the **[!UICONTROL Stage Actions]** dropdown, select **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 
-1. Both methods of deletion ask you to confirm your choice. Click **Delete**.
+1. Both methods of deletion ask you to confirm your choice. Click **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-28-13-3a5-3a26.png)
 
