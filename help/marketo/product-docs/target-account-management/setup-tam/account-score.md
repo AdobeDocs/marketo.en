@@ -4,7 +4,7 @@ description: Account Score - Marketo Docs - Product Documentation
 title: Account Score
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 ---
-# Account Score {#account-score}
+# [!UICONTROL Account Score] {#account-score}
 
 Account Scoring is a vital part of [!UICONTROL Target Account Management]. It helps you determine the level of engagement of your accounts.
 
@@ -58,13 +58,13 @@ Once you've configured the lead score, proceed by following the steps below.
 
    ![](assets/account-score-2.png)
 
-1. In Scoring Fields, click **[!UICONTROL Edit]**.
+1. In [!UICONTROL Scoring Fields], click **[!UICONTROL Edit]**.
 
    ![](assets/account-score-3.png)
 
    >[!NOTE]
    >
-   >You can choose up to **five** fields to calculate the Account Score.
+   >You can choose up to **five** fields to calculate the [!UICONTROL Account Score].
 
 1. Enter the [!UICONTROL Account Score] name, click the **[!UICONTROL Select Person Score]** drop-down and select the corresponding score.
 
