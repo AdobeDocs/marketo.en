@@ -16,7 +16,7 @@ Get Marketo TAM added to your instance? Great! Let's take a look at what you nee
 
 **Step Two: Set [Permissions](/help/marketo/product-docs/target-account-management/setup-tam/permissions.md)** - Assign specific aspects of TAM to certain users, or simply grant full TAM access.
 
-**Step Three: Configure your [Account Score](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)** - Account Scoring is one of the key elements in Target Account Management. It helps you determine the level of engagement of each account.
+**Step Three: Configure your [Account Score](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)** - Account Scoring is one of the key elements in [!UICONTROL Target Account Management]. It helps you determine the level of engagement of each account.
 
 **Step Four: [Create a Custom Field for CRM Discovery](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)** - Map an existing CRM Account field to a new Named Account custom field (if you don't use a CRM, skip this step).
 
