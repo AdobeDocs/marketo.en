@@ -4,7 +4,7 @@ description: Filtering in Named Accounts - Marketo Docs - Product Documentation
 title: Filtering in Named Accounts
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 ---
-# Filtering in Named Accounts {#filtering-in-named-accounts}
+# Filtering in [!UICONTROL Named Accounts] {#filtering-in-named-accounts}
 
 Filtering is a great way to narrow down data quickly.
 
@@ -18,17 +18,17 @@ Filtering is a great way to narrow down data quickly.
 
    >[!NOTE]
    >
-   >There are a several search parameter combinations. In this example we locate: _Industry = Banking, Country = United States, Max Employees = 10000_.
+   >There are a several search parameter combinations. In this example we locate: _[!UICONTROL Industry] = Banking, [!UICONTROL Country] = United States, Max [!UICONTROL Employees] = 10000_.
 
-1. Click the **Industry** drop-down and select **Banking**.
+1. Click the **[!UICONTROL Industry]** drop-down and select **[!UICONTROL Banking]**.
 
    ![](assets/filter-2.png)
 
-1. Click the **Country** drop-down and select **United States**.
+1. Click the **[!UICONTROL Country]** drop-down and select **[!UICONTROL United States]**.
 
    ![](assets/filter-3.png)
 
-1. Under **Employees**, type "0" in the **Min** field, "10000" in the **Max** field, then click **Apply**.
+1. Under **[!UICONTROL Employees]**, type "0" in the **Min** field, "10000" in the **Max** field, then click **[!UICONTROL Apply]**.
 
    ![](assets/four-2.png)
 
@@ -36,4 +36,4 @@ Filtering is a great way to narrow down data quickly.
 
    >[!NOTE]
    >
-   >To add more filters to choose from, click **Add Filter** at the bottom left of the form.
+   >To add more filters to choose from, click **[!UICONTROL Add Filter]** at the bottom left of the form.
