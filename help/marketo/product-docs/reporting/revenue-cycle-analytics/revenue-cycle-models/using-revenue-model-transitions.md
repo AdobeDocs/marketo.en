@@ -20,7 +20,7 @@ When you create your model and select and organize your inventory stages, it's t
 
    >[!NOTE]
    >
-   >'Anonymous ⇒ Known' transition rules cannot be edited.
+   >'[!UICONTROL Anonymous] ⇒ [!UICONTROL Known]' transition rules cannot be edited.
 
 1. A new tab will open for the transition you selected.
 
