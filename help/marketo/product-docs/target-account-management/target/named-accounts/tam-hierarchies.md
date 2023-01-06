@@ -6,7 +6,7 @@ exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 ---
 # TAM Hierarchies {#tam-hierarchies}
 
-Hierarchies give TAM users the ability to inherit the parent/child relationships between Named Accounts in their CRM.
+Hierarchies give TAM users the ability to inherit the parent/child relationships between [!UICONTROL Named Accounts] in their CRM.
 
 ## What are TAM Hierarchies? {#what-are-tam-hierarchies}
 
@@ -14,7 +14,7 @@ Companies can have multiple divisions and subsidiaries. Those companies often or
 
 ## Working with TAM Hierarchies {#working-with-tam-hierarchies}
 
-With TAM Hierarchies, you can quickly obtain information about an entire hierarchy or individual accounts in the Named Account Dashboard.
+With TAM Hierarchies, you can quickly obtain information about an entire hierarchy or individual accounts in the [!UICONTROL Named Account] Dashboard.
 
 **Not using Hierarchy**
 
