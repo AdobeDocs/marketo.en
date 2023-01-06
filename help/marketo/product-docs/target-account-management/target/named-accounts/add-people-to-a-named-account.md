@@ -4,13 +4,13 @@ description: Add People to a Named Account - Marketo Docs - Product Documentatio
 title: Add People to a Named Account
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 ---
-# Add People to a Named Account {#add-people-to-a-named-account}
+# Add People to a [!UICONTROL Named Account] {#add-people-to-a-named-account}
 
 There are three different ways to manually add people to a named account in TAM.
 
 ## Single Flow Action {#single-flow-action}
 
-1. Click **Database**.
+1. Click **[!UICONTROL Database]**.
 
    ![](assets/one-2.png)
 
@@ -18,21 +18,21 @@ There are three different ways to manually add people to a named account in TAM.
 
    ![](assets/two.png)
 
-1. Click the person to select it. Click the **Person Actions** drop-down, click **Marketing** and select **Add to Named Account**.
+1. Click the person to select it. Click the **[!UICONTROL Person Actions]** drop-down, click **[!UICONTROL Marketing]** and select **[!UICONTROL Add to Named Account...]**.
 
    ![](assets/three.png)
 
-1. Click the **Named Account** drop-down, select the desired Named Account, and click **Run Now**.
+1. Click the **[!UICONTROL Named Account]** drop-down, select the desired [!UICONTROL Named Account], and click **[!UICONTROL Run Now]**.
 
    ![](assets/four.png)
 
 ## Smart Campaign Flow Step {#smart-campaign-flow-step}
 
-1. Select your Smart Campaign and click **Flow**.
+1. Select your Smart Campaign and click **[!UICONTROL Flow]**.
 
    ![](assets/five.png)
 
-1. In the search box enter "Add to Named Account."
+1. In the search box enter "[!UICONTROL Add to Named Account]."
 
    ![](assets/six.png)
 
@@ -40,7 +40,7 @@ There are three different ways to manually add people to a named account in TAM.
 
    ![](assets/seven.png)
 
-1. Click the **Named Account** drop-down and select the desired Named Account.
+1. Click the **[!UICONTROL Named Account]** drop-down and select the desired [!UICONTROL Named Account].
 
    ![](assets/eight.png)
 
@@ -48,19 +48,19 @@ There are three different ways to manually add people to a named account in TAM.
 
 ## List Import {#list-import}
 
-1. Select your list, click the **List Actions** drop-down and select **Import List**.
+1. Select your list, click the **[!UICONTROL List Actions]** drop-down and select **[!UICONTROL Import List]**.
 
    ![](assets/nine.png)
 
-1. After you choose your file and settings, click **Next**.
+1. After you choose your file and settings, click **[!UICONTROL Next]**.
 
    ![](assets/ten.png)
 
-1. Map your desired fields. Make sure the **Named Account** field is mapped.
+1. Map your desired fields. Make sure the **[!UICONTROL Named Account]** field is mapped.
 
    ![](assets/eleven.png)
 
-1. Choose your desired settings, then click **Import**.
+1. Choose your desired settings, then click **[!UICONTROL Import]**.
 
    ![](assets/twelve.png)
 
