@@ -24,7 +24,7 @@ You'll need to set-up permissions for your users to be able to use TAM. Here's h
 
    ![](assets/three-2.png)
 
-1. Enter a Role Name and click the **+** icon next to the **[!UICONTROL Access Target Account Management]** checkbox.
+1. Enter a [!UICONTROL Role Name] and click the **+** icon next to the **[!UICONTROL Access Target Account Management]** checkbox.
 
    ![](assets/permissions-4.png)
 
