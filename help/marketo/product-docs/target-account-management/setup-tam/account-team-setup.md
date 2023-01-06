@@ -30,7 +30,7 @@ An account team is a group of stakeholders who work together on a named account.
 
    >[!NOTE]
    >
-   >You are not able to select Account Owner. It's chosen by default from the account level in your CRM.
+   >You are not able to select [!UICONTROL Account Owner]. It's chosen by default from the account level in your CRM.
 
 1. Click **[!UICONTROL Save]** when done.
 
