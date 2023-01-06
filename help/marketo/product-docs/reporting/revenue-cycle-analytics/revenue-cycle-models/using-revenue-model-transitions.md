@@ -14,7 +14,7 @@ When you create your model and select and organize your inventory stages, it's t
 
 ![](assets/one-2.png)
 
-1. Right-click (you can also double-click) one of the arrows to get started, and select **Edit Transition**.
+1. Right-click (you can also double-click) one of the arrows to get started, and select **[!UICONTROL Edit Transition]**.
 
    ![](assets/two-2.png)
 
@@ -26,7 +26,7 @@ When you create your model and select and organize your inventory stages, it's t
 
    ![](assets/three-1.png)
 
-1. Transitions control how leads move between stages. Drag the trigger (or filter) of your choice from the right, and release anywhere onto the canvas. In this example, we'll select the Fills Out Form trigger.
+1. Transitions control how leads move between stages. Drag the trigger (or filter) of your choice from the right, and release anywhere onto the canvas. In this example, we'll select the **[!UICONTROL Fills Out Form]** trigger.
 
    >[!TIP]
    >
@@ -38,7 +38,7 @@ When you create your model and select and organize your inventory stages, it's t
 
    ![](assets/five-2.png)
 
-1. To get back to your model, click **Modeler**.
+1. To get back to your model, click **[!UICONTROL Modeler]**.
 
    ![](assets/six.png)
 
@@ -46,7 +46,7 @@ When you create your model and select and organize your inventory stages, it's t
 
    ![](assets/seven.png)
 
-1. Once you've configured rules for all your transitions, click **Validate** to verify.
+1. Once you've configured rules for all your transitions, click **[!UICONTROL Validate]** to verify.
 
    ![](assets/eight.png)
 
