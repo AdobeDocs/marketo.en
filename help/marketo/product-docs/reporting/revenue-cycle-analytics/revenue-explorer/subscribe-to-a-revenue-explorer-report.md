@@ -4,11 +4,11 @@ description: Subscribe to a Revenue Explorer Report - Marketo Docs - Product Doc
 title: Subscribe to a Revenue Explorer Report
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 ---
-# Subscribe to a Revenue Explorer Report {#subscribe-to-a-revenue-explorer-report}
+# Subscribe to a [!UICONTROL Revenue Explorer] Report {#subscribe-to-a-revenue-explorer-report}
 
 To receive updates from your Revenue Cycle Explorer reports, and to share them, you can subscribe any email address to an existing report.
 
-1. Go to **Analytics** and select **New** > **New Report Subscription**.
+1. Go to **[!UICONTROL Analytics]** and select **[!UICONTROL New]** > **[!UICONTROL New Report Subscription]**.
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
@@ -16,7 +16,7 @@ To receive updates from your Revenue Cycle Explorer reports, and to share them, 
    >
    >To subscribe to a basic report that you created in a program, see [Subscribe to a Basic Report.](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. For **Report Source**, select **Revenue Explorer**.
+1. For **[!UICONTROL Report Source]**, select **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 
