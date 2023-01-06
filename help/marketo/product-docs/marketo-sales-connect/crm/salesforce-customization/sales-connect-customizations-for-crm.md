@@ -1,60 +1,60 @@
 ---
 unique-page-id: 14745793
-description: Sales Connect Customizations for CRM - Marketo Docs - Product Documentation
-title: Sales Connect Customizations for CRM
+description: [!DNL Sales Connect] Customizations for CRM - Marketo Docs - Product Documentation
+title: [!DNL Sales Connect] Customizations for CRM
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 ---
-# Sales Connect Customizations for CRM {#sales-connect-customizations-for-crm}
+# [!DNL Sales Connect] Customizations for CRM {#sales-connect-customizations-for-crm}
 
-The fields and buttons below are created by the Metadata API in Salesforce CRM. Once the fields are created, admins must configure the page layouts in their CRM to expose them. Instructions can be found [here](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
+The fields and buttons below are created by the Metadata API in [!DNL Salesforce] CRM. Once the fields are created, admins must configure the page layouts in their CRM to expose them. Instructions can be found [here](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
 
 >[!NOTE]
 >
->This impacts both ToutApp and Sales Connect customers.
+>This impacts both ToutApp and [!DNL Sales Connect] customers.
 
-## How to Install Customizations in Salesforce {#how-to-install-customizations-in-salesforce}
+## How to Install Customizations in [!DNL Salesforce] {#how-to-install-customizations-in-salesforce}
 
-1. In Sales Connect, click the gear icon and select **Settings**.
+1. In [!DNL Sales Connect], click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/one.png)
 
-1. Under Admin Settings, select **Salesforce**.
+1. Under [!UICONTROL Admin Settings], select **[!UICONTROL Salesforce]**.
 
    ![](assets/two.png)
 
-1. Click **Marketo Sales Connect Customizations**.
+1. Click **[!UICONTROL Marketo Sales Engage Customizations]**.
 
    ![](assets/three.png)
 
-1. Click **Connect to Salesforce**.
+1. Click **[!UICONTROL Connect to Salesforce]**.
 
    ![](assets/four.png)
 
-1. Log-in to Salesforce.
+1. Log-in to [!DNL Salesforce].
 
    ![](assets/five.png)
 
-## Update Salesforce Customization {#update-salesforce-customization}
+## Update [!DNL Salesforce] Customization {#update-salesforce-customization}
 
-Updates to the Salesforce Customization package will include enhancements and bug fixes. To check if updates are available or to perform an update, follow the steps below.  
+Updates to the [!DNL Salesforce] Customization package will include enhancements and bug fixes. To check if updates are available or to perform an update, follow the steps below.  
 
 >[!NOTE]
 >
 >**Admin permissions required.**
 
-1. In the [web application](https://www.toutapp.com), click the gear icon and select **Settings**.
+1. In the [web application](https://www.toutapp.com), click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. Under Admin Settings, click **Salesforce**.
+1. Under [!UICONTROL Admin Settings], click **[!UICONTROL Salesforce]**.
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. The Sales Connect Customization card will show if updates are available. Click **Update Customizations**.
+1. The [!DNL Sales Connect] Customization card will show if updates are available. Click **[!UICONTROL Update Customizations]**.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. Click **Upgrade**.
+1. Click **[!UICONTROL Upgrade]**.
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 
@@ -62,7 +62,7 @@ Updates to the Salesforce Customization package will include enhancements and bu
 
    ![](assets/sales-connect-customizations-for-crm-10.png)
 
-Once completed, your card will show “Your Sales Connect customizations are up to date."
+Once completed, your card will show “Your Sales Connect customizations are up to date!".
 
    ![](assets/sales-connect-customizations-for-crm-11.png)
 
@@ -72,9 +72,9 @@ Marketo will detect the creation of the new fields then do a one-time backfill o
 
 | **Field Name** |**Description** |
 |---|---|
-| MSE Call Local Presence ID |As a user you can choose Local Presence as an option when you make calls from the MSE Phone. Incoming calls will show a local number for the receiver. |
+| MSE Call Local Presence ID |As a user you can choose [!UICONTROL Local Presence] as an option when you make calls from the MSE Phone. Incoming calls will show a local number for the receiver. |
 | MSE Call Recording URL |Calls can be recorded and a link for the recording will be logged here. |
-| MSE Campaign |Logs name of the MSE campaign the Contact/Lead is a member of. |
+| MSE Campaign |Logs name of the MSE campaign the [!UICONTROL Contact/Lead] is a member of. |
 | MSE Campaign URL |Logs URL to the campaign that was created in MSE. Clicking on this will open the campaign in the MSE web app. |
 | MSE Campaign Current Step |If a contact/lead is part of a campaign, this field will log the name of the step the lead/contact is currently on. |
 | MSE Email Attachment Viewed |Logs data when an email is sent with an attachment and the attachment is viewed by the recipient.  |
@@ -83,7 +83,7 @@ Marketo will detect the creation of the new fields then do a one-time backfill o
 | MSE Email Status |Shows if an email is sent/in progress/bounced (tracking bounced emails depends on the delivery channel used). |
 | MSE Email Template |Logs name of the MSE template that was used in the email sent to the lead/contact. |
 | MSE Email Template URL |Logs URL to the template that was created in MSE. Clicking on this will open the template in the MSE web app. |
-| MSE Email URL |Clicking on this URL will open Command Center in MSE and pull up the People Detail View history tab where you can see the sent email. |
+| MSE Email URL |Clicking on this URL will open [!UICONTROL Command Center] in MSE and pull up the [!UICONTROL People Detail View] history tab where you can see the sent email. |
 | MSE Email Viewed |Logs a checkmark when the recipient views an email. |
 
 ## Roll-Up Logging Fields {#roll-up-logging-fields}
@@ -100,11 +100,11 @@ Marketo will detect the creation of the new fields then do a one-time backfill o
   </tr> 
   <tr> 
    <td>MSE - Last Marketing Engagement</td> 
-   <td>Last incoming engagement from Marketing. </td> 
+   <td>Last incoming engagement from [!DNL Marketing]. </td> 
   </tr> 
   <tr> 
    <td>MSE - Last Marketing Engagement Date</td> 
-   <td>Time stamp of engagement from Marketing.</td> 
+   <td>Time stamp of engagement from [!DNL Marketing].</td> 
   </tr> 
   <tr> 
    <td>MSE - Last Marketing Engagement Desc</td> 
@@ -154,8 +154,8 @@ Marketo will detect the creation of the new fields then do a one-time backfill o
 
 | **Button Name** |**Description** |
 |---|---|
-| Add to MSE Campaign |Add to MSE campaigns from Salesforce. |
-| Push to MSE |Push contact from Salesforce to MSE. |
+| Add to MSE Campaign |Add to MSE campaigns from [!DNL Salesforce]. |
+| Push to MSE |Push contact from [!DNL Salesforce] to MSE. |
 
 ## User Guides {#user-guides}
 
