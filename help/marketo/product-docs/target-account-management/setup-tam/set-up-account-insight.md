@@ -12,15 +12,15 @@ Here's how to set up Account Insight.
 >
 >TAM account score [must be configured](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) first.
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/admin-1.png)
 
-1. Click **Target Account Management** in the tree, then the **Sales** tab.
+1. Click **[!UICONTROL Target Account Management]** in the tree, then the **[!UICONTROL Sales]** tab.
 
    ![](assets/set-up-account-insight-2.png)
 
-1. Click **Edit**.
+1. Click **[!UICONTROL Edit]**.
 
    ![](assets/set-up-account-insight-3.png)
 
@@ -32,6 +32,6 @@ Here's how to set up Account Insight.
    >
    >If the [Account Score settings](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) are updated at any point, the configuration under Sales needs to be updated by an Admin to make sure the scores accurately reflect the user's preferences. The user needs to log out and log back in to see the changes.
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/five-4.png)
