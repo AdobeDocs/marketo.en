@@ -8,23 +8,23 @@ exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 
 An account team is a group of stakeholders who work together on a named account. Follow these steps to choose which CRM account roles should be added.
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/one-3.png)
 
-1. Click **Target Account Management**.
+1. Click **[!UICONTROL Target Account Management]**.
 
    ![](assets/account-team-setup-2.png)
 
-1. Under Account Team Members, click **Edit**.
+1. Under Account Team Members, click **[!UICONTROL Edit]**.
 
    ![](assets/3.png)
 
    >[!NOTE]
    >
-   >For Account Role, give it a name and match it to the desired User Lookup Field in your CRM.
+   >For [!UICONTROL Account Role], give it a name and match it to the desired User Lookup Field in your CRM.
 
-1. Type in your Account Role name and select the **CRM** field. Add up to 10.
+1. Type in your [!UICONTROL Account Role] name and select the **CRM** field. Add up to 10.
 
    ![](assets/four-2.png)
 
@@ -32,7 +32,7 @@ An account team is a group of stakeholders who work together on a named account.
    >
    >You are not able to select Account Owner. It's chosen by default from the account level in your CRM.
 
-1. Click **Save** when done.
+1. Click **[!UICONTROL Save]** when done.
 
    ![](assets/five-2.png)
 
