@@ -1,20 +1,20 @@
 ---
 unique-page-id: 11381917
-description: Target Account Management - Marketo Docs - Product Documentation
-title: Target Account Management
+description: "[!UICONTROL Target Account Management] - Marketo Docs - Product Documentation"
+title: "[!UICONTROL Target Account Management]"
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 ---
-# Target Account Management {#target-account-management-overview}
+# [!UICONTROL Target Account Management] {#target-account-management-overview}
 
-Marketer, meet Target Account Management. Target Account Management, meet marketer.
+Marketer, meet [!UICONTROL Target Account Management]. [!UICONTROL Target Account Management], meet marketer.
 
 ![](assets/photo-collage.png)
 
-What is Marketo Target Account Management?
+What is Marketo [!UICONTROL Target Account Management]?
 
-Marketo Target Account Management brings sales and marketing teams together to target and engage key accounts in a highly coordinated fashion, bridging the gap between account-centric strategy, execution and success - all within a single platform.
+Marketo [!UICONTROL Target Account Management] brings sales and marketing teams together to target and engage key accounts in a highly coordinated fashion, bridging the gap between account-centric strategy, execution and success - all within a single platform.
 
-Why use Marketo Target Account Management?
+Why use Marketo [!UICONTROL Target Account Management]?
 
 Marketo unifies TAM and lead management in one solution, making it easy for marketers to execute personalized campaigns for both accounts and leads in one motion. You also benefit from reaching key decision makers and deal influencers.
   
