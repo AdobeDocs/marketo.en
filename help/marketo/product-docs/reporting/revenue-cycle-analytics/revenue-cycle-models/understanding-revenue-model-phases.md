@@ -12,7 +12,7 @@ Phases are a way to group a number of stages. Sometimes multiple stages in a mod
 
 ## Define the Phases of the Model {#define-the-phases-of-the-model}
 
-1. Click **Phases**.
+1. Click **[!UICONTROL Phases]**.
 
    ![](assets/image2015-6-12-16-3a2-3a28.png)
 
