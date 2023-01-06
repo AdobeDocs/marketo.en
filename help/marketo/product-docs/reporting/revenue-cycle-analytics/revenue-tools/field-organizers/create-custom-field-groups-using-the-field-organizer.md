@@ -37,7 +37,7 @@ The next three sections describe how to create a custom field group for a string
 
    ![](assets/two.png)
 
-1. Click **[!UICONTROL Field]** and select a standard or custom field with a data type that maps to the string editor (see table in previous section). Country is used here.
+1. Click **[!UICONTROL Field]** and select a standard or custom field with a data type that maps to the string editor (see table in previous section). [!UICONTROL Country] is used here.
 
    ![](assets/three.png)
 
