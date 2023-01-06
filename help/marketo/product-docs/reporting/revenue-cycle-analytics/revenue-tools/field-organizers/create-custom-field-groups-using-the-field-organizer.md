@@ -29,19 +29,19 @@ The next three sections describe how to create a custom field group for a string
 
 ## Create Custom Field Group - String Editor {#create-custom-field-group-string-editor}
 
-1. Click **Lead Database**.
+1. Click **[!UICONTROL Lead Database]**.
 
    ![](assets/one.png)
 
-1. Click **New**, and select **New Field Organizer**.
+1. Click **[!UICONTROL New]**, and select **[!UICONTROL New Field Organizer]**.
 
    ![](assets/two.png)
 
-1. Click **Field** and select a standard or custom field with a data type that maps to the string editor (see table in previous section). Country is used here.
+1. Click **[!UICONTROL Field]** and select a standard or custom field with a data type that maps to the string editor (see table in previous section). Country is used here.
 
    ![](assets/three.png)
 
-1. Click **Create**.
+1. Click **[!UICONTROL Create]**.
 
    ![](assets/four.png)
 
@@ -53,7 +53,7 @@ The next three sections describe how to create a custom field group for a string
 
    ![](assets/five.png)
 
-1. By default, all data values are placed in the "Other" sub-group. To categorize the data values, click **Add Group** to create a sub-group and give it a name.
+1. By default, all data values are placed in the "[!UICONTROL Other]" sub-group. To categorize the data values, click **[!UICONTROL Add Group]** to create a sub-group and give it a name.
 
    >[!NOTE]
    >
@@ -65,7 +65,7 @@ The next three sections describe how to create a custom field group for a string
 
    >[!NOTE]
    >
-   >To delete a sub-group, simply click the red X next to the sub-group name. If there are any data values in the group, the data values will be moved to the default group of Other.
+   >To delete a sub-group, simply click the red X next to the sub-group name. If there are any data values in the group, the data values will be moved to the default group of [!UICONTROL Other].
 
 1. Highlight a data value(s) in the canvas and drag and drop the data value(s) into the appropriate sub-group.
 
@@ -85,19 +85,19 @@ The next three sections describe how to create a custom field group for a string
 
 ## Create Custom Field Group - Integer Editor {#create-custom-field-group-integer-editor}
 
-1. Click **Lead Database**.
+1. Click **[!UICONTROL Lead Database]**.
 
    ![](assets/one.png)
 
-1. Click **New**, and select **New Field Organizer**.
+1. Click **[!UICONTROL New]**, and select **[!UICONTROL New Field Organizer]**.
 
    ![](assets/two.png)
 
-1. Click **Field** and select a standard or custom field with a data type that maps to the string editor (see table in previous section). Annual Revenue is used here.
+1. Click **[!UICONTROL Field]** and select a standard or custom field with a data type that maps to the string editor (see table in previous section). [!UICONTROL Annual Revenue] is used here.
 
    ![](assets/nine.png)
 
-1. Click **Create**.
+1. Click **[!UICONTROL Create]**.
 
    ![](assets/9.5.png)
 
@@ -105,13 +105,13 @@ The next three sections describe how to create a custom field group for a string
 
    ![](assets/9.6.png)
 
-1. Click the default custom group name above the integer editor to customize the name. For example, you might rename "Annual Revenue Group" to "Annual Revenue by Size". Click **Save**.
+1. Click the default custom group name above the integer editor to customize the name. For example, you might rename "Annual Revenue Group" to "Annual Revenue by Size". Click **[!UICONTROL Save]**.
 
    ![](assets/eleven.png)
 
    The integer editor allows you create multiple sub-groups to define each sub-group by size. In this example, three groups will be created for Small, Medium, and Enterprise businesses.
 
-1. To add your first group, enter a name in the **Group Name** field (example: Small) and enter a max value in the **Group Range** field (example: 200000). Click **Add Group**.
+1. To add your first group, enter a name in the **[!UICONTROL Group Name]** field (example: Small) and enter a max value in the **[!UICONTROL Group Range]** field (example: 200000). Click **[!UICONTROL Add Group]**.
 
    ![](assets/twelve.png)
 
@@ -139,19 +139,19 @@ The next three sections describe how to create a custom field group for a string
 
 ## Create Custom Field Group - Date Editor {#create-custom-field-group-date-editor}
 
-1. Click **Lead Database**.
+1. Click **[!UICONTROL Lead Database]**.
 
    ![](assets/one.png)
 
-1. Click **New**, and select **New Field Organizer**.
+1. Click **[!UICONTROL New]**, and select **[!UICONTROL New Field Organizer]**.
 
    ![](assets/two.png)
 
-1. Click **Field** and select a standard or custom field with a data type that maps to the string editor (see table in previous section). Acquisition Date is used here.
+1. Click **[!UICONTROL Field]** and select a standard or custom field with a data type that maps to the string editor (see table in previous section). [!UICONTROL Acquisition Date] is used here.
 
    ![](assets/fourteen.png)
 
-1. Click **Create**.
+1. Click **[!UICONTROL Create]**.
 
    ![](assets/14.5.png)
 
@@ -159,19 +159,19 @@ The next three sections describe how to create a custom field group for a string
 
    ![](assets/14.6.png)
 
-1. Click the default custom group name above the date editor to customize the name. For example, you might rename "Acquisition Date Group" to "Acquisition Date Categories". Click **Save**.
+1. Click the default custom group name above the date editor to customize the name. For example, you might rename "Acquisition Date Group" to "Acquisition Date Categories". Click **[!UICONTROL Save]**.
 
    ![](assets/fifteen.png)
 
    The date editor allows you create multiple sub-groups and define each sub-group by date. In this example, three groups will be created: Q1-15 Leads, Q2-15 Leads, and Q3-15 Leads.
 
-1. To add your first group, enter a name in the **Group Name** field (example: Q1-15 Leads) and enter a date in the date field that represents the date the lead was acquired on or before (example: 3/31/2015 for the last day of Q1-15). Click **Add Group**.
+1. To add your first group, enter a name in the **[!UICONTROL Group Name]** field (example: Q1-15 Leads) and enter a date in the date field that represents the date the lead was acquired on or before (example: 3/31/2015 for the last day of Q1-15). Click **[!UICONTROL Add Group]**.
 
    ![](assets/sixteen.png)
 
    >[!NOTE]
    >
-   >You can add up to ten sub-groups to categorize the data values. Each Group Range entry builds upon the previous entry. If you leave the last Group Range entry blank for the last custom sub-group you create, an end date value is not set.
+   >You can add up to ten sub-groups to categorize the data values. Each [!UICONTROL Group Range] entry builds upon the previous entry. If you leave the last [!UICONTROL Group Range] entry blank for the last custom sub-group you create, an end date value is not set.
 
    The example below shows an entry for Q1 2015 leads through Q3.
 
