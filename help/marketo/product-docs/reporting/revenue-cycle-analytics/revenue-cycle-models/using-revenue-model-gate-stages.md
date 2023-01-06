@@ -14,7 +14,7 @@ A gate stage serves as a qualification check.
 
 ## Add A Gate Stage {#add-a-gate-stage}
 
-1. Go to the **Analytics** area.
+1. Go to the **[!UICONTROL Analytics]** area.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
@@ -22,19 +22,19 @@ A gate stage serves as a qualification check.
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Click **Edit Draft**.
+1. Click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Click the **Gate** button, then drag and drop anywhere in the canvas.
+1. Click the **[!UICONTROL Gate]** button, then drag and drop anywhere in the canvas.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
-1. Edit the **Name** and select a **Type**.
+1. Edit the **[!UICONTROL Name]** and select a **[!UICONTROL Type]**.
 
    >[!NOTE]
    >
-   >Select [Start Tracking by Account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) at this time to gain insight into the performance of your accounts as they progress through your model.
+   >Select [[!UICONTROL Start Tracking by Account]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) at this time to gain insight into the performance of your accounts as they progress through your model.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
@@ -44,31 +44,31 @@ A gate stage serves as a qualification check.
 
 ## Edit a Gate Stage {#edit-a-gate-stage}
 
-Edit the Name, Description, and adjust the Type of your Gate stage. You can also opt to [Start Tracking by Account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
+Edit the [!UICONTROL Name], [!UICONTROL Description], and adjust the [!UICONTROL Type] of your Gate stage. You can also opt to [[!UICONTROL Start Tracking by Account]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
-1. Click a **Gate** stage icon.
+1. Click a **[!UICONTROL Gate]** stage icon.
 
    ![](assets/image2015-4-27-17-3a11-3a41.png)
 
-1. Click within the **Name** and **Description** fields to edit their content.
+1. Click within the **[!UICONTROL Name]** and **[!UICONTROL Description]** fields to edit their content.
 
    ![](assets/image2015-4-28-12-3a17-3a22.png)
 
-1. Select the **Type** drop-down to edit.
+1. Select the **[!UICONTROL Type]** drop-down to edit.
 
    ![](assets/image2015-4-27-17-3a14-3a7.png)
 
 ## Delete A Gate Stage {#delete-a-gate-stage}
 
-1. You may delete a Gate Stage by right-clicking the Gate stage icon and selecting **Delete**.
+1. You may delete a Gate Stage by right-clicking the Gate stage icon and selecting **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-28-12-3a30-3a19.png)
 
-1. You may also delete a Gate stage by clicking it, then in the **Stage Actions** drop-down, selecting **Delete**.
+1. You may also delete a Gate stage by clicking it, then in the **[!UICONTROL Stage Actions]** drop-down, selecting **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-28-12-3a56-3a28.png)
 
-1. Both methods of deletion ask you to confirm your choice. Click **Delete**.
+1. Both methods of deletion ask you to confirm your choice. Click **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-28-12-3a52-3a22.png)
 
