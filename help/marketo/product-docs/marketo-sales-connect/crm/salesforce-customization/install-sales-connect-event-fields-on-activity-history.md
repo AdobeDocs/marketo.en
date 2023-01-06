@@ -22,7 +22,7 @@ Make sure you team up with your [!DNL Salesforce] Admin when performing these st
 
 1. Scroll Down to the [!UICONTROL Activity History] section.
 1. Click the wrench to edit.
-1. Select the [!UICONTROL Sales Connect] fields you want to include on the [!UICONTROL Activity History] section. If you are not seeing [!UICONTROL Sales Connect] fields here, you may have installed the wrong [!UICONTROL Salesforce] package.
+1. Select the [!UICONTROL Sales Connect] fields you want to include on the [!UICONTROL Activity History] section. If you are not seeing [!UICONTROL Sales Connect] fields here, you may have installed the wrong [!DNL Salesforce] package.
 1. Click ** [!UICONTROL Add]** to move the desired fields over.
 1. Click ** [!UICONTROL OK]**.
 1. Click ** [!UICONTROL Save]**.
