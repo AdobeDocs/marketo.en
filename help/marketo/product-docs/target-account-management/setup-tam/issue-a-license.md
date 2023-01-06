@@ -12,18 +12,18 @@ You'll need to set users up with a license to use TAM. Here's how to do that.
 >
 >The number of available licenses will vary based on your subscription. If you need more, please contact your sales rep.
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/issue-a-license-1.png)
 
-1. Click **Users & Roles**. Select the user to issue the license to, click the **Issue License** drop-down, and select **Target Account Management**.
+1. Click **[!UICONTROL Users & Roles]**. Select the user to issue the license to, click the **[!UICONTROL Issue License]** drop-down, and select **[!UICONTROL Target Account Management]**.
 
    ![](assets/issue-a-license-2.png)
 
-1. Check the **Enable License** checkbox and click **Save**.
+1. Check the **[!UICONTROL Enable License]** checkbox and click **[!UICONTROL Save]**.
 
    ![](assets/issue-a-license-3.png)
 
    >[!NOTE]
    >
-   >To remove a user's license, follow step 1, then uncheck the checkbox and click **Save**.
+   >To remove a user's license, follow step 1, then uncheck the checkbox and click **[!UICONTROL Save]**.
