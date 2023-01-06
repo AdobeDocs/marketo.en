@@ -4,7 +4,7 @@ description: Delete a Named Account - Marketo Docs - Product Documentation
 title: Delete a Named Account
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 ---
-# Delete a Named Account {#delete-a-named-account}
+# Delete a [!UICONTROL Named Account] {#delete-a-named-account}
 
 Follow these quick steps to delete a named account.
 
@@ -16,11 +16,11 @@ Follow these quick steps to delete a named account.
    >
    >Ctrl+click (Windows) or Cmd+click (Mac) to select multiple named accounts.
 
-1. Click the **Named Account Actions** drop-down and select **Delete Named Account**.
+1. Click the **[!UICONTROL Named Account Actions]** drop-down and select **[!UICONTROL Delete Named Account]**.
 
    ![](assets/eight-1.png)
 
-1. Click **Delete**.
+1. Click **[!UICONTROL Delete]**.
 
    ![](assets/nine-1.png)
 
