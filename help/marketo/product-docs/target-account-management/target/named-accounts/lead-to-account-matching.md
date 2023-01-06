@@ -10,7 +10,7 @@ Match right leads to right named accounts using Marketo Lead-to-Account matching
 
 >[!NOTE]
 >
->**Lead-to-Account Matching** is a built-in feature of Marketo Target Account Management. It uses fuzzy logic to automatically match leads to the right named accounts in near real-time. These named accounts could be CRM accounts or Marketo companies.
+>**Lead-to-Account Matching** is a built-in feature of Marketo [!UICONTROL Target Account Management]. It uses fuzzy logic to automatically match leads to the right named accounts in near real-time. These named accounts could be CRM accounts or Marketo companies.
 
 ## Overview {#overview}
 
@@ -30,7 +30,7 @@ Marketo Lead-to-Account Matching follows a 4 step process:
 
 **Step 4 -** We present a list of proposed companies with strong and weak matches. When a named account is created based upon one of the proposed companies, we create matching rules to automatically associate new leads (e.g., lead filled out a form) going forward to the right named accounts. This way you can worry less about matching leads and more about obtaining revenue!
 
-Since Marketo Lead-to-Account matching is a built-in feature of Marketo Target Account Management, matching leads to accounts happens in near real-time (e.g., the moment a lead fills out a Marketo form, we associate said lead with the right named account). This event can be used to trigger alerts and notify account owners of the new leads that are coming in from their named accounts.
+Since Marketo Lead-to-Account matching is a built-in feature of Marketo [!UICONTROL Target Account Management], matching leads to accounts happens in near real-time (e.g., the moment a lead fills out a Marketo form, we associate said lead with the right named account). This event can be used to trigger alerts and notify account owners of the new leads that are coming in from their named accounts.
 
 >[!NOTE]
 >
@@ -40,25 +40,25 @@ Since Marketo Lead-to-Account matching is a built-in feature of Marketo Target A
 
 After [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) has enabled LeanData for your account, follow the steps below to set it up.
 
-1. In Salesforce, click **Setup Home** in the left nav.
+1. In Salesforce, click **[!UICONTROL Setup Home]** in the left nav.
 
-1. Still in the left nav, under Administration, click **Users** then **Profiles**.
+1. Still in the left nav, under Administration, click **[!UICONTROL Users]** then **[!UICONTROL Profiles]**.
 
 1. Locate and select the **Marketo Sync** profile.
 
-1. Scroll down to the Field Level Security section and locate the Lead object. Select **View**.
+1. Scroll down to the Field Level Security section and locate the Lead object. Select **[!UICONTROL View]**.
 
-1. For the field name "Reporting Matched Account," make sure the checkbox in the **Read Access** column is selected.
+1. For the field name "Reporting Matched Account," make sure the checkbox in the **[!UICONTROL Read Access]** column is selected.
 
-1. In Marketo, go to the **Admin** section.
+1. In Marketo, go to the **[!UICONTROL Admin]** section.
 
    ![](assets/lead-to-account-matching-1.png)
 
-1. Select **Field Management**.
+1. Select **[!UICONTROL Field Management]**.
 
    ![](assets/lead-to-account-matching-2.png)
 
-1. Confirm the field is there by searching “Reporting Matched Account.”
+1. Confirm the field is there by searching “[!UICONTROL Reporting Matched Account].”
 
    ![](assets/lead-to-account-matching-3.png)
 
