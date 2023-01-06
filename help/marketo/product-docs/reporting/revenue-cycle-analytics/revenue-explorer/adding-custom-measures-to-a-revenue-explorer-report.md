@@ -16,7 +16,7 @@ In the example below, you are creating a calculated measure for soft bounces, wh
 
 1. Pull over the fields you need for your report. See [Adding Fields to a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) for details.
 
-1. Right-click an existing metric (blue cell), click **User Defined Measure** and select **Calculated Measure**.
+1. Right-click an existing metric (blue cell), click **[!UICONTROL User Defined Measure]** and select **[!UICONTROL Calculated Measure]**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -32,7 +32,7 @@ In the example below, you are creating a calculated measure for soft bounces, wh
    >
    >You can type the math symbols yourself or use the selection box.
 
-1. When you're done, click **OK**.
+1. When you're done, click **[!UICONTROL OK]**.
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 
