@@ -50,7 +50,7 @@ You can create a new [!DNL AdWords] offline conversion from Marketo if you use S
 
 ## Use Stage Action {#use-stage-action}
 
-You can also map an [!UICONTROL AdWords Conversion] under Stage Actions.
+You can also map an [!UICONTROL AdWords Conversion] under **[!UICONTROL Stage Actions]**.
 
 1. Select the step you want to map to an [!DNL AdWords] conversion.
 
