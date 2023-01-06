@@ -4,7 +4,7 @@ description: Define Period Costs - Marketo Docs - Product Documentation
 title: Define Period Costs
 exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 ---
-# Define Period Costs {#define-period-costs}
+# Define [!UICONTROL Period Costs] {#define-period-costs}
 
 >[!NOTE]
 >
@@ -18,7 +18,7 @@ Track and associate lead nurturing and lead acquisition costs for a Program or E
 >
 >At the beginning of a Program, enter forecasted costs. Once the period in the Program completes, you can edit the [!UICONTROL Period Cost] and enter in the actual cost. This will provide you with accurate reporting results.
 
-## Define a Period Cost {#define-a-period-cost}
+## Define a [!UICONTROL Period Cost] {#define-a-period-cost}
 
 1. Access the **[!UICONTROL Setup]** tab of your Program or Event.
 
@@ -32,7 +32,7 @@ Track and associate lead nurturing and lead acquisition costs for a Program or E
 
    ![](assets/image2015-4-24-16-3a11-3a30.png)
 
-1. Enter a **Period Cost** as a whole number without decimals or commas (max limit: 99999999)
+1. Enter a **[!UICONTROL Period Cost]** as a whole number without decimals or commas (max limit: 99999999)
 
    ![](assets/image2015-4-24-16-3a10-3a24.png)
 
