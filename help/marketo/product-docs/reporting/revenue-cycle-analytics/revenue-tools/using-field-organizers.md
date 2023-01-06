@@ -18,23 +18,23 @@ Field Organizers are used in Model Performance Analysis.
 
 ## How to Create Field Organizers {#how-to-create-field-organizers}
 
-1. Click **Database**.
+1. Click **[!UICONTROL Database]**.
 
    ![](assets/db.png)
 
-1. Under **New**, select **New Field Organizer**.
+1. Under **[!UICONTROL New]**, select **[!UICONTROL New Field Organizer]**.
 
    ![](assets/two-1.png)
 
-1. Under **Field**, select an attribute. Description is optional.
+1. Under **[!UICONTROL Field]**, select an attribute. Description is optional.
 
    ![](assets/three-1.png)
 
-1. Click **Create**.
+1. Click **[!UICONTROL Create]**.
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. Name the group and enter the appropriate data (this will depend on the selected field's data type). Click **Add Group**.
+1. Name the group and enter the appropriate data (this will depend on the selected field's data type). Click **[!UICONTROL Add Group]**.
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 
