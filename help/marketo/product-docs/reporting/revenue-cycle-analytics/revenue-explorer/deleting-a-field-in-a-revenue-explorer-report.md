@@ -4,7 +4,7 @@ description: Deleting a Field in a Revenue Explorer Report - Marketo Docs - Prod
 title: Deleting a Field in a Revenue Explorer Report
 exl-id: 4eeedd8e-da00-4bcf-9f7a-25b3683ad0a1
 ---
-# Deleting a Field in a Revenue Explorer Report {#deleting-a-field-in-a-revenue-explorer-report}
+# Deleting a Field in a [!UICONTROL Revenue Explorer] Report {#deleting-a-field-in-a-revenue-explorer-report}
 
 Sometimes, you might drag a wrong field into the report. Here's how to remove it:
 
@@ -18,4 +18,4 @@ Sometimes, you might drag a wrong field into the report. Here's how to remove it
 
 >[!MORELIKETHIS]
 >
->[Saving a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[Saving a [!UICONTROL Revenue Explorer] Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
