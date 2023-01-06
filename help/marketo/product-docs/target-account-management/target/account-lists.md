@@ -1,10 +1,10 @@
 ---
 unique-page-id: 11378814
-description: Account Lists - Marketo Docs - Product Documentation
-title: Account Lists
+description: "[!UICONTROL Account Lists] - Marketo Docs - Product Documentation"
+title: "[!UICONTROL Account Lists]"
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 ---
-# Account Lists {#account-lists}
+# [!UICONTROL Account Lists] {#account-lists}
 
 An account list is a collection of named accounts that can be targeted together. Account lists allow you to target named accounts by industry, location, or size of the company.
 
@@ -14,15 +14,15 @@ In addition to account lists, you can also create dynamic account lists that are
 
 >[!NOTE]
 >
->Account lists created in Marketo Target Account Management are automatically available when building smart lists and web campaigns in [Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
+>Account lists created in Marketo [!UICONTROL Target Account Management] are automatically available when building smart lists and web campaigns in [Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
 ## Create a New Account List {#create-a-new-account-list}
 
-1. Click the **New** drop-down and select **Create New Account List**.
+1. Click the **[!UICONTROL New]** drop-down and select **[!UICONTROL Create New Account List]**.
 
    ![](assets/1a.png)
 
-1. Give your list a name and click **Create**.
+1. Give your list a name and click **[!UICONTROL Create]**.
 
    ![](assets/three-0.png)
 
@@ -34,7 +34,7 @@ In addition to account lists, you can also create dynamic account lists that are
 
 ## Create a New Dynamic Account List {#create-a-new-dynamic-account-list}
 
-1. Click the **New** drop-down and select **Create New Dynamic List**.
+1. Click the **[!UICONTROL New]** drop-down and select **[!UICONTROL Create New Dynamic List]**.
 
    ![](assets/1.png)
 
@@ -42,7 +42,7 @@ In addition to account lists, you can also create dynamic account lists that are
 
    ![](assets/image2017-7-18-9-48-23.png)
 
-1. Click **Create**.
+1. Click **[!UICONTROL Create]**.
 
    ![](assets/step4.jpg)
 
@@ -56,11 +56,11 @@ In addition to account lists, you can also create dynamic account lists that are
 >
 >These steps apply only to account lists. _Dynamic_ account lists use the name of their associated CRM Account Views.
 
-1. Select the account you want to rename, click the **Account List Actions** drop-down and select **Rename Account List**.
+1. Select the account you want to rename, click the **[!UICONTROL Account List Actions]** drop-down and select **[!UICONTROL Rename Account List]**.
 
    ![](assets/three.png)
 
-1. Enter the new name and click **Rename**.
+1. Enter the new name and click **[!UICONTROL Rename]**.
 
    ![](assets/four.png)
 
@@ -74,15 +74,15 @@ In addition to account lists, you can also create dynamic account lists that are
 >
 >These steps are the same for both account lists and dynamic account lists.
 
-1. Select the account you want to delete, click the **Account List Actions** drop-down and select **Delete Account List**.
+1. Select the account you want to delete, click the **[!UICONTROL Account List Actions]** drop-down and select **[!UICONTROL Delete Account List]**.
 
    ![](assets/five.png)
 
-1. Click **Delete**.
+1. Click **[!UICONTROL Delete]**.
 
    ![](assets/six.png)
 
 >[!MORELIKETHIS]
 >
->* [Add an Existing Named Account to an Account List](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [Add an Existing [!UICONTROL Named Account] to an Account List](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [Account List Insights](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)
