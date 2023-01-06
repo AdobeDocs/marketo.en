@@ -14,39 +14,39 @@ SLA stands for “service level agreement.” These stages are used when there i
 
 ## Add An SLA Stage {#add-an-sla-stage}
 
-1. To add a new Revenue Cycle Model SLA stage, click the **Analytics** button in the My Marketo home screen.
+1. To add a new Revenue Cycle Model SLA stage, click the **[!UICONTROL Analytics]** button in the [!UICONTROL My Marketo] home screen.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. In the Analytics section, select your existing model, or [create a new one](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. In the [!UICONTROL Analytics] section, select your existing model, or [create a new one](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Click **Edit Draft**.
+1. Click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. To add a new SLA stage, click the **SLA** button, then drag and release to anywhere within the canvas.
+1. To add a new SLA stage, click the **[!UICONTROL SLA]** button, then drag and release to anywhere within the canvas.
 
    ![](assets/image2015-4-27-15-3a32-3a10.png)
 
-1. You are free to edit the **Name**, add a **Description** and adjust the **Type** after adding a stage. You may also select **[Start Tracking by Account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** at this time.
+1. You are free to edit the **[!UICONTROL Name]**, add a **[!UICONTROL Description]** and adjust the **[!UICONTROL Type]** after adding a stage. You may also select **[[!UICONTROL Start Tracking by Account]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** at this time.
 
    ![](assets/image2015-4-27-17-3a0-3a39.png)
 
 ## Edit an SLA Stage {#edit-an-sla-stage}
 
-When you select an SLA stage icon you may edit the Name, add a Description and adjust the Type. You may also select [Start Tracking by Account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
+When you select an SLA stage icon you may edit the **[!UICONTROL Name]**, add a **[!UICONTROL Description]** and adjust the **[!UICONTROL Type]**. You may also select [[!UICONTROL Start Tracking by Account]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Click an SLA stage icon.
 
    ![](assets/image2015-4-27-15-3a45-3a25.png)
 
-1. Click within the **Name** and **Description** fields to edit their content.
+1. Click within the **[!UICONTROL Name]** and **[!UICONTROL Description]** fields to edit their content.
 
    ![](assets/image2015-4-27-15-3a48-3a37.png)
 
-1. Select the **Type** pull-down to edit.
+1. Select the **[!UICONTROL Type]** pull-down to edit.
 
    ![](assets/image2015-4-27-15-3a51-3a27.png)
 
@@ -56,6 +56,6 @@ When you select an SLA stage icon you may edit the Name, add a Description and a
 
    ![](assets/image2015-4-27-16-3a2-3a47.png)
 
-1. You may also delete a stage by clicking it, then in the Stage Actions drop-down, select Delete.
+1. You may also delete a stage by clicking it, then in the **[!UICONTROL Stage Actions]** drop-down, select **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-27-17-3a20-3a41.png)
