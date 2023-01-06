@@ -4,7 +4,7 @@ description: Add an Existing Named Account to an Account List - Marketo Docs - P
 title: Add an Existing Named Account to an Account List
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 ---
-# Add an Existing Named Account to an Account List {#add-an-existing-named-account-to-an-account-list}
+# Add an Existing [!UICONTROL Named Account] to an Account List {#add-an-existing-named-account-to-an-account-list}
 
 Adding a named account to an account list is simple.
 
@@ -16,11 +16,11 @@ Adding a named account to an account list is simple.
 
    ![](assets/four-1.png)
 
-1. Click the **Named Account Actions** drop-down and select **Add to Account List**.
+1. Click the **[!UICONTROL Named Account Actions]** drop-down and select **[!UICONTROL Add to Account List]**.
 
    ![](assets/five-1.png)
 
-1. Click the **Account List** drop-down, select the desired account list, and click **Add**.
+1. Click the **[!UICONTROL Account List]** drop-down, select the desired account list, and click **[!UICONTROL Add]**.
 
    ![](assets/six-1.png)
 
@@ -28,4 +28,4 @@ Adding a named account to an account list is simple.
 
 >[!MORELIKETHIS]
 >
->[Create a Named Account](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+>[Create a [!UICONTROL Named Account]](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
