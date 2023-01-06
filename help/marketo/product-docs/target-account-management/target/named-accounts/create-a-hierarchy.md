@@ -8,7 +8,7 @@ exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 
 Hierarchies are meant to be created in CRMs. However if you don't have a CRM, follow these steps to create a hierarchy manually.
 
-1. In Named Accounts, click the **Group by Hierarchy** checkbox.
+1. In [!UICONTROL Named Accounts], click the **[!UICONTROL Group by Hierarchy]** checkbox.
 
    ![](assets/create-a-hierarchy-1.png)
 
@@ -20,15 +20,15 @@ Hierarchies are meant to be created in CRMs. However if you don't have a CRM, fo
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. Click the **Named Account Actions** drop-down and select **Link to Named Account**.
+1. Click the **[!UICONTROL Named Account Actions]** drop-down and select **[!UICONTROL Link to Named Account]**.
 
    ![](assets/create-a-hierarchy-3.png)
 
    >[!NOTE]
    >
-   >If you want to unlink accounts, follow the steps above but choose **Unlink From Named Account**.
+   >If you want to unlink accounts, follow the steps above but choose **[!UICONTROL Unlink From Named Account]**.
 
-1. Select a Parent Named Account from the drop-down and click **Link**.
+1. Select a Parent Named Account from the drop-down and click **[!UICONTROL Link]**.
 
    ![](assets/create-a-hierarchy-4.png)
 
