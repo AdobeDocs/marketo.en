@@ -30,5 +30,5 @@ The [!UICONTROL Revenue Explorer] report allows you to track the ROI on your mar
 
 >[!MORELIKETHIS]
 >
->[Adding Fields to a [!UICONTROL Revenue Explorer] Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->[Adding Custom Measures to a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
+>* [Adding Fields to a [!UICONTROL Revenue Explorer] Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [Adding Custom Measures to a Revenue Explorer Report](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
