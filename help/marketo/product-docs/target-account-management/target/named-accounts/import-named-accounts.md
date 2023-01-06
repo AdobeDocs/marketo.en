@@ -56,22 +56,22 @@ Already have a CSV full of potential target accounts? Import them directly into 
    >
    >"Check Import Status" only shows the last three days of activity.
 
-Scenarios when you dedupe by Account Name:
+Scenarios when you dedupe [!UICONTROL by Account Name]:
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Importing record with existing Named Account name</strong></td> 
+   <td><strong>Importing record with existing <span class="uicontrol">Named Account</span> name</strong></td> 
    <td><p>We will update the existing record</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Importing record with new Named Account name</strong></td> 
+   <td><strong>Importing record with new <span class="uicontrol">Named Account</span> name</strong></td> 
    <td>We will create a new record</td> 
   </tr> 
  </tbody> 
 </table>
 
-   Scenarios when you dedupe by Domain Name:
+   Scenarios when you dedupe [!UICONTROL by Domain Name]:
 
 <table> 
  <tbody> 
@@ -96,6 +96,6 @@ Scenarios when you dedupe by Account Name:
 
    >[!NOTE]
    >
-   >When Marketo appends a named account, we are updating a rule (behind the scenes) that allows us to identify people that should be a part of the <span class="uicontrol">Named Account</span>. Example: if you update "IBM" to "IBM, USA," people with either company name will be associated to the <span class="uicontrol">Named Account</span>.
+   >When Marketo appends a named account, we are updating a rule (behind the scenes) that allows us to identify people that should be a part of the [!UICONTROL Named Account]. Example: if you update "IBM" to "IBM, USA," people with either company name will be associated to the [!UICONTROL Named Account].
 
    If Marketo finds records that we see as duplicates, we will only process the first one.
