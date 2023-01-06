@@ -4,17 +4,17 @@ description: Using Dashboards in Revenue Explorer - Marketo Docs - Product Docum
 title: Using Dashboards in Revenue Explorer
 exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 ---
-# Using Dashboards in Revenue Explorer {#using-dashboards-in-revenue-explorer}
+# Using Dashboards in [!UICONTROL Revenue Explorer] {#using-dashboards-in-revenue-explorer}
 
-A dashboard is a combination of Revenue Explorer reports to get a quick overview of your leads, campaigns, opportunities, and/or models.
+A dashboard is a combination of [!UICONTROL Revenue Explorer] reports to get a quick overview of your leads, campaigns, opportunities, and/or models.
 
 ## Creating a New Dashboard {#creating-a-new-dashboard}
 
-1. Click **Revenue Explorer**.
+1. Click **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/one.png)
 
-1. Click **Create New**, then **Dashboard**.
+1. Click **[!UICONTROL Create New]**, then **[!UICONTROL Dashboard]**.
 
    ![](assets/two.png)
 
@@ -24,17 +24,17 @@ A dashboard is a combination of Revenue Explorer reports to get a quick overview
 
    >[!NOTE]
    >
-   >You can further customize your dashboard's appearance by clicking **Themes** and choosing your favorite.
+   >You can further customize your dashboard's appearance by clicking **[!UICONTROL Themes]** and choosing your favorite.
 
-1. In the first section of your dashboard, click the **Insert** icon and select **File**.
+1. In the first section of your dashboard, click the **Insert** icon and select **[!UICONTROL File]**.
 
    ![](assets/four.png)
 
-1. Double-click **Revenue Explorer**.
+1. Double-click **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/five.png)
 
-1. Double-click **All Reports and Dashboards**.
+1. Double-click **[!UICONTROL All Reports and Dashboards]**.
 
    ![](assets/six.png)
 
@@ -42,7 +42,7 @@ A dashboard is a combination of Revenue Explorer reports to get a quick overview
 
    ![](assets/seven.png)
 
-1. Choose your report and click **Select**.
+1. Choose your report and click **[!UICONTROL Select]**.
 
    ![](assets/eight.png)
 
@@ -50,38 +50,38 @@ A dashboard is a combination of Revenue Explorer reports to get a quick overview
 
    ![](assets/nine.png)
 
-1. To rename a section, click on it to select it, type the desired name under Title, and click **Apply**. Repeat for each section.
+1. To rename a section, click on it to select it, type the desired name under **[!UICONTROL Title]**, and click **[!UICONTROL Apply]**. Repeat for each section.
 
    ![](assets/ten.png)
 
-1. To save, click the Save icon, enter a filename, double-click the Revenue Explorer folder until you get to the desired folder for your dashboard, and click **Save**.
+1. To save, click the [!UICONTROL Save] icon, enter a [!UICONTROL Filename], double-click the [!UICONTROL Revenue Explorer] folder until you get to the desired folder for your dashboard, and click **[!UICONTROL Save]**.
 
    ![](assets/eleven.png)
 
 ## Editing a Dashboard {#editing-a-dashboard}
 
-1. Click **Revenue Explorer**.
+1. Click **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/one.png)
 
-1. Double-click the **Revenue Explorer** folder. Navigate to where your dashboard lives.
+1. Double-click the **[!UICONTROL Revenue Explorer]** folder. Navigate to where your dashboard lives.
 
    ![](assets/thirteen.png)
 
-1. Select the dashboard you wish to edit, then click **Edit**.
+1. Select the dashboard you wish to edit, then click **[!UICONTROL Edit]**.
 
    ![](assets/fourteen.png)
 
 ## Deleting a Dashboard {#deleting-a-dashboard}
 
-1. Click **Revenue Explorer**.
+1. Click **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/one.png)
 
-1. Double-click the **Revenue Explorer** folder. Navigate to where your dashboard lives.
+1. Double-click the **[!UICONTROL Revenue Explorer]** folder. Navigate to where your dashboard lives.
 
    ![](assets/thirteen.png)
 
-1. Select the dashboard you wish to delete, then click **Move to Trash**.
+1. Select the dashboard you wish to delete, then click **[!UICONTROL Move to Trash]**.
 
    ![](assets/fifteen.png)
