@@ -11,19 +11,19 @@ In order to ensure compliance with U.S. two-party consent laws when recording ca
 >
 >Before following the steps below, you must first [enable call recording](/help/marketo/product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md).
 
-1. Click the Settings icon and select **Settings**.
+1. Click the Settings icon and select **[!UICONTROL Settings]**.
 
    ![](assets/two-party-consent-settings-1.png)
 
-1. Under Admin Settings, click **General**.
+1. Under [!UICONTROL Admin Settings], click **[!UICONTROL General]**.
 
    ![](assets/two-party-consent-settings-2.png)
 
-1. In the Call Recording card, click **Manage recording notice**.
+1. In the [!UICONTROL Call Recording] card, click **[!UICONTROL Manage recording notice]**.
 
    ![](assets/two-party-consent-settings-3.png)
 
-1. Click **Import Recording**.
+1. Click **[!UICONTROL Import Recording]**.
 
    ![](assets/two-party-consent-settings-4.png)
 
@@ -35,7 +35,7 @@ In order to ensure compliance with U.S. two-party consent laws when recording ca
 
    ![](assets/two-party-consent-settings-5.png)
 
-1. Once the upload is complete, select the dota (three dots) in the file manager and click **Select as Consent Notice**. Click **OK** when done.
+1. Once the upload is complete, select the dota (three dots) in the file manager and click **[!UICONTROL Select as Consent Notice]**. Click **[!UICONTROL OK]** when done.
 
    ![](assets/two-party-consent-settings-6.png)
 
