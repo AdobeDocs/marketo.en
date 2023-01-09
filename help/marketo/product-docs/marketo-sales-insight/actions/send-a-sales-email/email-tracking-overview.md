@@ -11,15 +11,15 @@ Reply Tracking is done by looking at a message ID that’s in every email you se
 
 >[!PREREQUISITES]
 >
->Connection with Email Server: Sales Connect must be connected with your inbox so we know when a new reply has arrived. You’ll need to have your Sales Connect account connected to Gmail. If you’re using Outlook, we’ll need to integrate with your exchange server.
+>Connection with Email Server: [!DNL Sales Connect] must be connected with your inbox so we know when a new reply has arrived. You’ll need to have your [!DNL Sales Connect] account connected to Gmail. If you’re using Outlook, we’ll need to integrate with your exchange server.
 
-If Sales Connect can’t track your prospect’s reply to your email, it won’t be able to stop a campaign based on reply detection or log that reply to Salesforce. What do we mean any email address can reply?
+If [!DNL Sales Connect] can’t track your prospect’s reply to your email, it won’t be able to stop a campaign based on reply detection or log that reply to Salesforce. What do we mean any email address can reply?
 
 This means that if you email flynn@flynnsarcade.com and he responds with kevinf@flynnsarcade.com, we’re able to track the reply. Additionally, if you email flynn@flynnsarcade.com and CC alan@encom.com, and Alan writes you back, it will also detect the reply and end the campaign.
 
 ## How to Track Your Email Attachments {#how-to-track-your-email-attachments}
 
-Sales Connect offers tracking on your attachments (.doc, .ppt, .pdf) so you can see when they’ve been opened/downloaded, and see what pages your recipient is looking through. We’ll allow you to use our trackable attachments feature from both the [web application](https://toutapp.com/login) and Gmail (or Google Apps).
+[!DNL Sales Connect] offers tracking on your attachments (.doc, .ppt, .pdf) so you can see when they’ve been opened/downloaded, and see what pages your recipient is looking through. We’ll allow you to use our trackable attachments feature from both the [web application](https://toutapp.com/login) and Gmail (or Google Apps).
 
 >[!NOTE]
 >
@@ -27,13 +27,13 @@ Sales Connect offers tracking on your attachments (.doc, .ppt, .pdf) so you can 
 
 **How to Send Your First Trackable Attachment**
 
-1. Compose an email or edit a template, then click the **Content** button.
+1. Compose an email or edit a template, then click the **[!UICONTROL Content]** button.
 
-1. Upload your attachment and send it out. We support PDFs, Word docs, and Powerpoint presentations.
+1. Upload your attachment and send it out. We support PDFs, [!DNL Word] docs, and [!DNL Powerpoint] presentations.
 
-1. Select **Add to Email**.
+1. Select **[!UICONTROL Add to Email]**.
 
-1. Click **Send** and fire up your Live Feed. You’ll see your recipients as they open and page through your attachments.
+1. Click **[!UICONTROL Send]** and fire up your Live Feed. You’ll see your recipients as they open and page through your attachments.
 
 >[!TIP]
 >
@@ -43,7 +43,7 @@ Sales Connect offers tracking on your attachments (.doc, .ppt, .pdf) so you can 
 
 We track email opens by placing an invisible image inside the emails you send.
 
-If someone responds to your email but Sales Connect is saying it wasn’t viewed, odds are the recipient did not enable images within their email client (i.e., click on the “click here to download images” message in the email).
+If someone responds to your email but [!DNL Sales Connect] is saying it wasn’t viewed, odds are the recipient did not enable images within their email client (i.e., click on the “click here to download images” message in the email).
 
 Some tips for getting better tracking stats on your emails:
 
@@ -52,6 +52,6 @@ Some tips for getting better tracking stats on your emails:
 
 ## Test Email Not Showed as Viewed {#test-email-not-showed-as-viewed}
 
-Even if you sent your message to another email address, we won’t log you viewing any emails you’ve sent to yourself in the Live Feed. Our tracking is device-based; as long as you’re using a computer you’ve logged into Sales Connect with, we’ll filter out that activity.
+Even if you sent your message to another email address, we won’t log you viewing any emails you’ve sent to yourself in the Live Feed. Our tracking is device-based; as long as you’re using a computer you’ve logged into [!DNL Sales Connect] with, we’ll filter out that activity.
 
-The reason? Sales Connect is smart, and our active users would never forgive us if their own info popped up in the Live Feed Activity every time they looked at an email they sent.
+The reason? [!DNL Sales Connect] is smart, and our active users would never forgive us if their own info popped up in the Live Feed Activity every time they looked at an email they sent.
