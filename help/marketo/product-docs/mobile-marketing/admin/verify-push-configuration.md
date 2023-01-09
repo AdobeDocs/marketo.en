@@ -12,11 +12,11 @@ exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 
 Verify push configuration to ensure everything is synced up nicely.
 
-1. Click on **Admin**.
+1. Click on **[!UICONTROL Admin]**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Select **Mobile Apps**.
+1. Select **[!UICONTROL Mobile Apps]**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -24,11 +24,11 @@ Verify push configuration to ensure everything is synced up nicely.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Click **Mobile App Actions** and select **Verify Push Configuration**.
+1. Click **[!UICONTROL Mobile App Actions]** and select **[!UICONTROL Verify Push Configuration]**.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-1. Confirm the desired platforms read verified and click **Close**.
+1. Confirm the desired platforms read verified and click **[!UICONTROL Close]**.
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)
 
