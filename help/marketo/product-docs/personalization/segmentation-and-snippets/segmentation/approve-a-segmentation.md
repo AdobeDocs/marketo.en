@@ -17,30 +17,30 @@ A segmentation needs to be approved before it can be used.
 >
 >A maximum of 20 Segmentations can be approved at a time.
 
-1. Go to the **Database**.
+1. Go to the **[!UICONTROL Database]**.
 
    ![](assets/image2017-3-28-14-3a25-3a49.png)
 
-1. In the Segmentation click **Segmentation Actions**, and then **Approve**.
+1. In the Segmentation click **[!UICONTROL Segmentation Actions]**, and then **[!UICONTROL Approve]**.
 
    ![](assets/image2017-3-28-14-3a46-3a22.png)
 
    >[!NOTE]
    >
-   >The Status changes to Approving with a spinning wheel ( ![](assets/image2014-9-15-15-3a31-3a43.png)) while the approval is in process.
+   >The Status changes to [!UICONTROL Approving] with a spinning wheel ( ![](assets/image2014-9-15-15-3a31-3a43.png)) while the approval is in process.
 
    >[!CAUTION]
    >
    >Approval can take a few minutes to more than a day to complete, depending on the size of the database.
 
-   Once approved, the Status changes from Approving to Approved.
+   Once approved, the [!UICONTROL Status] changes from [!UICONTROL Approving] to [!UICONTROL Approved].
    ![](assets/image2017-3-28-14-3a46-3a44.png)
 
    >[!TIP]
    >
    >The number of people in each segment is shown in brackets next to the segment name.
 
-1. The **People** tab in the **Segment** now shows the final list of people for the segment.
+1. The **[!UICONTROL People]** tab in the **[!UICONTROL Segment]** now shows the final list of people for the segment.
 
    ![](assets/image2017-3-28-14-3a47-3a10.png)
 
