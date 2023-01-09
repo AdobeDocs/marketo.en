@@ -12,11 +12,11 @@ It's easy to add a new test device to push notifications to.
 >
 >**Admin Permissions Required**
 
-1. Click **Admin** and then the **Mobile Apps** link.
+1. Click **[!UICONTROL Admin]** and then the **[!UICONTROL Mobile Apps]** link.
 
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
-1. Click the **Test Devices** tab and **New Test Device**.
+1. Click the **[!UICONTROL Test Devices]** tab and **[!UICONTROL New Test Device]**.
 
    ![](assets/image2015-7-17-17-3a4-3a52.png)
 
@@ -34,7 +34,7 @@ It's easy to add a new test device to push notifications to.
 
    ![](assets/image2015-7-17-17-3a9-3a54.png)
 
-1. The app opens. Name the device and tap **Yes**.
+1. The app opens. Name the device and tap **[!UICONTROL Yesъ**.
 
    ![](assets/image2015-7-17-17-3a31-3a23.png)
 
