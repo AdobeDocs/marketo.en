@@ -13,7 +13,7 @@ Follow the steps below to learn how to utilize sales activity filters and trigge
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. In the **Smart List** tab, search “Sales Apps.”
+1. In the **[!UICONTROL Smart List]** tab, search “[!UICONTROL Sales Apps].”
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -27,4 +27,4 @@ Follow the steps below to learn how to utilize sales activity filters and trigge
 
 >[!NOTE]
 >
->For a full list of activities, constraints, and definitions check out our [Sales Insight Actions Activity Glossary](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).
+>For a full list of activities, constraints, and definitions check out our [[!DNL Sales Insight Actions] Activity Glossary](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).
