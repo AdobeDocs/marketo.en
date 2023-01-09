@@ -3,15 +3,15 @@ description: Send Your In-App Message - Marketo Docs - Product Documentation
 title: Send Your In-App Message
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 ---
-# Send Your In-App Message {#send-your-in-app-message}
+# Send Your [!UICONTROL In-App Message] {#send-your-in-app-message}
 
 After you've created your in-app message, it's time to send it out. Here are the steps:
 
 >[!NOTE]
 >
->When you're testing an in-app message triggered by App Open, be sure you download the app onto the phone, open it and close it. This initializes the SDK code. The next time you open the app, the in-app message will display. Custom events trigger the first time the app is opened.
+>When you're testing an in-app message triggered by [!UICONTROL App Open], be sure you download the app onto the phone, open it and close it. This initializes the SDK code. The next time you open the app, the in-app message will display. Custom events trigger the first time the app is opened.
 
-1. In Marketing Activities, click the folder where you want the program to live and choose **New Program**.
+1. In [!UICONTROL Marketing Activities], click the folder where you want the program to live and choose **[!UICONTROL New Program]**.
 
    ![Image One](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-1.png)
 
@@ -19,11 +19,11 @@ After you've created your in-app message, it's time to send it out. Here are the
 
    ![Image Two](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-2.png)
 
-1. Select the In-App program type from the drop-down and click **Create**.
+1. Select the In-App program type from the drop-down and click **[!UICONTROL Create]**.
 
    ![Image Three](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-3.png)
 
-1. Use the Control Panel to define the who, what, and when of the in-app message, and when you're done, approve it. There's a separate article for each step.
+1. Use the [!UICONTROL Control Panel] to define the who, what, and when of the in-app message, and when you're done, approve it. There's a separate article for each step.
 
    ![Image Four](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 
