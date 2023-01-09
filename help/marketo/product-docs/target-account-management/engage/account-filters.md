@@ -4,17 +4,17 @@ description: Account Filters - Marketo Docs - Product Documentation
 title: Account Filters
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 ---
-# Account Filters {#account-filters}
+# [!UICONTROL Account Filters] {#account-filters}
 
 Identify and engage Named Accounts and the personas within them using new account-centric filters.
 
 ## TAM Filters {#tam-filters}
 
-1. Select your smart campaign and click **Smart List**.
+1. Select your smart campaign and click **[!UICONTROL Smart List]**.
 
    ![](assets/one.png)
 
-1. Click the **+** to expand the **Account Filters** folder.
+1. Click the **+** to expand the **[!UICONTROL Account Filters]** folder.
 
    ![](assets/two.png)
 
@@ -22,9 +22,9 @@ Identify and engage Named Accounts and the personas within them using new accoun
 
    ![](assets/three.png)
 
-## Member of Account List {#member-of-account-list}
+## [!UICONTROL Member of Account List] {#member-of-account-list}
 
-To use this filter, click the account list drop-down...
+To use this filter, click the **[!UICONTROL Account List]** drop-down...
 
 ![](assets/four.png)
 
@@ -34,11 +34,11 @@ To use this filter, click the account list drop-down...
 
 >[!NOTE]
 >
->For the Member of Account List filter, there's only one qualifier: "is" - Additional qualifiers (such as "is not" and "is any") are not available.
+>For the [!UICONTROL Member of Account List] filter, there's only one qualifier: "is" - Additional qualifiers (such as "is not" and "is any") are not available.
 
-## Member of Named Account {#member-of-named-account}
+## [!UICONTROL Member of Named Account] {#member-of-named-account}
 
-First, choose a qualifier. **Is** for a specific named account(s) or **is any** for any named account.
+First, choose a qualifier. **[!UICONTROL is]** for a specific named account(s) or **[!UICONTROL is any]** for any named account.
 
    ![](assets/six.png)
 
@@ -50,11 +50,11 @@ Click the named account drop-down...
 
    ![](assets/eight.png)
 
-If you use the "is any" qualifier, you may want to utilize [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) to narrow your search results. Add as many as you'd like!
+If you use the "[!UICONTROL is any]" qualifier, you may want to utilize [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) to narrow your search results. Add as many as you'd like!
 
    ![](assets/nine.png)
 
-Set "Include Children" to false if you only want members from the single, top-level account. Select true if you want members from all child accounts.
+Set "[!UICONTROL Include Children]" to **[!UICONTROL false]** if you only want members from the single, top-level account. Select **[!UICONTROL true]** if you want members from all child accounts.
 
    ![](assets/ten.png)
 
