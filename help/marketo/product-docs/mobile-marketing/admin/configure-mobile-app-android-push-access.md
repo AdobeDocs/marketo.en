@@ -6,11 +6,11 @@ exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 ---
 # Configure Mobile App Android Push Access {#configure-mobile-app-android-push-access}
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Select **Mobile Apps**.
+1. Select **[!UICONTROL Mobile Apps]**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -18,19 +18,19 @@ exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Under **Push Access Type**, select **Android** and click **Configure.**
+1. Under **[!UICONTROL Push Access Type]**, select **[!UICONTROL Android]** and click **[!UICONTROL Configure]**.
 
    ![](assets/image2016-6-15-15-3a16-3a22.png)
 
    >[!NOTE]
    >
-   >You will need a **Server API Key** and **Project Number** from your mobile apps developer. The developer receives these by logging in to the Google Play Developer Console to register your app and enable cloud messaging.
+   >You will need a **[!UICONTROL Server API Key]** and **[!UICONTROL Project Number]** from your mobile apps developer. The developer receives these by logging in to the [!DNL Google Play Developer Console] to register your app and enable cloud messaging.
 
-1. Enter your Server API Key and Project Number. Click **Save**.
+1. Enter your [!UICONTROL Server API Key] and [!UICONTROL Project Number]. Click **[!UICONTROL Save]**.
 
    ![](assets/image2015-4-22-18-3a54-3a54.png)
 
-   Sweet. Make sure you configure the app with iOS.
+   Sweet. Make sure you configure the app with [!UICONTROL iOS].
 
 >[!MORELIKETHIS]
 >
