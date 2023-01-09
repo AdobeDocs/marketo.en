@@ -34,7 +34,7 @@ To use this filter, click the **[!UICONTROL Account List]** drop-down...
 
 >[!NOTE]
 >
->For the [!UICONTROL Member of Account List] filter, there's only one qualifier: "is" - Additional qualifiers (such as "is not" and "is any") are not available.
+>For the [!UICONTROL Member of Account List] filter, there's only one qualifier: "[!UICONTROL is]" - Additional qualifiers (such as "is not" and "is any") are not available.
 
 ## [!UICONTROL Member of Named Account] {#member-of-named-account}
 
