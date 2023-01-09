@@ -4,7 +4,7 @@ description: Create a Vibes SMS Message - Marketo Docs - Product Documentation
 title: Create a Vibes SMS Message
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 ---
-# Create a Vibes SMS Message {#create-a-vibes-sms-message}
+# Create a Vibes [!UICONTROL SMS Message] {#create-a-vibes-sms-message}
 
 Here's how to create a Vibes SMS message.
 
@@ -16,27 +16,27 @@ Here's how to create a Vibes SMS message.
 >
 >SMS text messaging is not HIPAA compliant.
 
-1. Go to **Marketing Activities** and right-click on a program.
+1. Go to **[!UICONTROL Marketing Activities]** and right-click on a program.
 
    ![](assets/mobile-right-click-hand.jpg)
 
-1. Click **New Local Asset**.
+1. Click **[!UICONTROL New Local Asset]**.
 
    ![](assets/new-local-asset-hand.jpg)
 
    >[!TIP]
    >
-   >Alternatively, you can click the **New** drop-down.
+   >Alternatively, you can click the **[!UICONTROL New]** drop-down.
 
-1. Click **SMS Message**.
+1. Click **[!UICONTROL SMS Message]**.
 
    ![](assets/new-local-asset-selection-hand.jpg)
 
-1. Enter a name and an optional description for the new SMS message and click **Create**.
+1. Enter a name and an optional description for the new SMS message and click **[!UICONTROL Create]**.
 
    ![](assets/new-sms-message-offer-ends-soon-hands.jpg)
 
-1. Click **Edit Draft**.
+1. Click **[!UICONTROL Edit Draft]**.
 
    ![](assets/edit-draft-hand.jpg)
 
@@ -48,7 +48,7 @@ Here's how to create a Vibes SMS message.
    >
    >US and Canada limits are different, at 160 and 130 characters respectively. If you exceed these character limits, your message could be split. While we show when you exceed the Canadian limit, the editor is optimized for US and splits the message based on the US limit.
 
-1. Click **Token** in the Insert menu to add a token to your message.
+1. Click **[!UICONTROL Token]** in the [!UICONTROL Insert] menu to add a token to your message.
 
    ![](assets/add-token-real-hand.jpg)
 
@@ -56,11 +56,11 @@ Here's how to create a Vibes SMS message.
    >
    >Adding a token may cause the message to exceed the character limit. The message then will split, resulting in additional charges.
 
-1. Click **Link** in the Insert menu to add a link to your message.
+1. Click **[!UICONTROL Link]** in the [!UICONTROL Insert] menu to add a link to your message.
 
    ![](assets/full-message-link-hand.jpg)
 
-1. Select a link type. Marketo Landing Page is the default. If you go with that, you need to select the landing page from the drop-down and click **Insert**.
+1. Select a link type. Marketo Landing Page is the default. If you go with that, you need to select the landing page from the drop-down and click **[!UICONTROL Insert]**.
 
    ![](assets/insert-link-real-hands.jpg)
 
@@ -68,7 +68,7 @@ Here's how to create a Vibes SMS message.
    >
    >The two tracking links are selected by default.
 
-1. If you want to use an external URL instead, click the **External URL** button and enter the URL in the URL field. Click **Insert**.
+1. If you want to use an external URL instead, click the **[!UICONTROL External URL]** button and enter the URL in the URL field. Click **[!UICONTROL Insert]**.
 
    ![](assets/insert-link-url-hands.jpg)
 
