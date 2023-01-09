@@ -7,11 +7,11 @@ exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 ---
 # Composing Bulk Emails with Select and Send {#composing-bulk-emails-with-select-and-send}
 
-Here's how to send/edit emails using the Select and Send option.
+Here's how to send/edit emails using the [!UICONTROL Select] and [!UICONTROL Send] option.
 
 ## Sending Emails {#sending-emails}
 
-1. Navigate to the People page.
+1. Navigate to the **[!UICONTROL People page]**.
 
    ![](assets/composing-bulk-emails-with-select-and-send-1.png)
 
@@ -23,7 +23,7 @@ Here's how to send/edit emails using the Select and Send option.
    >
    >A maximum of 200 people can be selected when using Select and Send.
 
-1. Click the **Email Selected** button.
+1. Click the **[!UICONTROL Email Selected]** button.
 
    ![](assets/composing-bulk-emails-with-select-and-send-3.png)
 
@@ -33,7 +33,7 @@ Here's how to send/edit emails using the Select and Send option.
 
    >[!NOTE]
    >
-   >If you selected a template and would like to check that all of the dynamic fields are populating correctly before sending, click **Preview Dynamic Fields**. Ensure all recipients in the bulk sidebar are selected to preview for all emails. If you select one email and click **Preview Dynamic Fields**, only that email will be previewed.
+   >If you selected a template and would like to check that all of the dynamic fields are populating correctly before sending, click **[!UICONTROL Preview Dynamic Fields]**. Ensure all recipients in the bulk sidebar are selected to preview for all emails. If you select one email and click **[!UICONTROL Preview Dynamic Fields]**, only that email will be previewed.
 
 ## Editing Emails {#editing-emails}
 
@@ -43,7 +43,7 @@ Here's how to send/edit emails using the Select and Send option.
 
    >[!NOTE]
    >
-   >All of the recipients will be selected by default. If you click on an individual and want to re-select everyone, click **All Recipients**. As a reminder, all of the recipients must be selected in order to make bulk edits.
+   >All of the recipients will be selected by default. If you click on an individual and want to re-select everyone, click **[!UICONTROL All Recipients]**. As a reminder, all of the recipients must be selected in order to make bulk edits.
 
 1. Make your changes in the editor. You can create a new email or edit a template (in this example we're creating a new email).
 
@@ -53,7 +53,7 @@ Here's how to send/edit emails using the Select and Send option.
    >
    >You can click on a specific email recipient to see the changes propagated to that email.
 
-1. Click **Send** (or [Schedule](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) to send to all recipients with the bulk email updates you made.
+1. Click **[!UICONTROL Send]** (or [[!UICONTROL Schedule]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) to send to all recipients with the bulk email updates you made.
 
    ![](assets/composing-bulk-emails-with-select-and-send-6.png)
 
@@ -65,7 +65,7 @@ Complete Bulk Updates before customizing each email, as making a bulk update ove
 
    >[!NOTE]
    >
-   >All of the recipients will be selected by default. If you click on an individual and want to re-select everyone, click **All Recipients**. As a reminder, all of the recipients must be selected in order to make bulk edits.
+   >All of the recipients will be selected by default. If you click on an individual and want to re-select everyone, click **[!UICONTROL All Recipients]**. As a reminder, all of the recipients must be selected in order to make bulk edits.
 
 1. Select an individual recipient.
 
@@ -83,7 +83,7 @@ Complete Bulk Updates before customizing each email, as making a bulk update ove
    >
    >You can click on other recipients to see that the changes you made to the previously selected recipient are not showing.
 
-1. Click **Send** (or [Schedule](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) to send to all recipients with the bulk email updates you made.
+1. Click **[!UICONTROL Send]** (or [[!UICONTROL Schedule]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) to send to all recipients with the bulk email updates you made.
 
    ![](assets/composing-bulk-emails-with-select-and-send-9.png)
 
