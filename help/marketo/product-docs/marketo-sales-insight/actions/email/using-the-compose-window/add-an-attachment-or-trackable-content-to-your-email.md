@@ -5,7 +5,7 @@ exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 ---
 # Add an Attachment or Trackable Content to Your Email {#add-an-attachment-or-trackable-content-to-your-email}
 
-When sending an email through Marketo Sales, you have the option of adding a file as an attachment, or making a file a downloadable (and trackable) link.
+When sending an email through [!DNL Marketo Sales], you have the option of adding a file as an attachment, or making a file a downloadable (and trackable) link.
 
 >[!NOTE]
 >
@@ -13,11 +13,11 @@ When sending an email through Marketo Sales, you have the option of adding a fil
 
 ## Add an Attachment {#add-an-attachment}
 
-1. Create your email draft (there are multiple ways to do this, in this example we're choosing **Compose** in the header).
+1. Create your email draft (there are multiple ways to do this, in this example we're choosing **[!UICONTROL Compose]** in the header).
 
    ![](assets/add-an-attachment-or-trackable-content-1.png)
 
-1. Populate the To field and enter a Subject.
+1. Populate the [!UICONTROL To] field and enter a [!UICONTROL Subject].
 
    ![](assets/add-an-attachment-or-trackable-content-2.png)
 
@@ -25,13 +25,13 @@ When sending an email through Marketo Sales, you have the option of adding a fil
 
    ![](assets/add-an-attachment-or-trackable-content-3.png)
 
-1. Select the file you want to attach and click **Insert**.
+1. Select the file you want to attach and click **[!UICONTROL Insert]**.
 
    ![](assets/add-an-attachment-or-trackable-content-4.png)
 
    >[!NOTE]
    >
-   >If you need to upload a file, click the **Upload Content** button in the upper-right of the window.
+   >If you need to upload a file, click the **[!UICONTROL Upload Content]** button in the upper-right of the window.
 
    The attachment appears at the bottom of your email.
 
@@ -39,11 +39,11 @@ When sending an email through Marketo Sales, you have the option of adding a fil
 
 ## Add Trackable Content {#add-trackable-content}
 
-1. Create your email draft (there are multiple ways to do this, in this example we're choosing the Compose window).
+1. Create your email draft (there are multiple ways to do this, in this example we're choosing the **[!UICONTROL Compose** window).
 
    ![](assets/add-an-attachment-or-trackable-content-6.png)
 
-1. Populate the To field and enter a Subject.
+1. Populate the [!UICONTROL To] field and enter a [!UICONTROL Subject].
 
    ![](assets/add-an-attachment-or-trackable-content-7.png)
 
@@ -51,13 +51,13 @@ When sending an email through Marketo Sales, you have the option of adding a fil
 
    ![](assets/add-an-attachment-or-trackable-content-8.png)
 
-1. Select the content you want added, click the **Content is Tracked** slider, and click **Insert**.
+1. Select the content you want added, click the **[!UICONTROL Content is tracked]** slider, and click **[!UICONTROL Insert]**.
 
    ![](assets/add-an-attachment-or-trackable-content-9.png)
 
    >[!NOTE]
    >
-   >If you need to upload a file, click the **Upload Content** button in the upper-right of the window.
+   >If you need to upload a file, click the **[!UICONTROL Upload Content]** button in the upper-right of the window.
 
    The content appears as a link in your email. The recipient can click the link to download the content.
 
