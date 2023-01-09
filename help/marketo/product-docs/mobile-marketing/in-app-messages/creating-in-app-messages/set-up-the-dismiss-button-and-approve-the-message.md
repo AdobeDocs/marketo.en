@@ -42,7 +42,7 @@ The Dismiss button has many options to let you configure it the way you want.
 
 All of your selections for the graphics, text, and buttons have been auto saved. Now, you're ready to finish the job.
 
-1. To preview your in-app message, click the **Message Actions** drop-down and select **Preview**.
+1. To preview your in-app message, click the **[!UICONTROL Message Actions]** drop-down and select **[!UICONTROL Preview]**.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -50,13 +50,13 @@ All of your selections for the graphics, text, and buttons have been auto saved.
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 
-1. If you're happy with the in-app message, click **Approve & Close**.
+1. If you're happy with the in-app message, click **[!UICONTROL Approve & Close]**.
 
    ![](assets/image2016-5-9-11-3a8-3a52.png)
 
    >[!NOTE]
    >
-   >You can also select **Approve & Close** directly from the Message Actions drop-down (see step 1), but why not preview the message first, just to be safe?
+   >You can also select **[!UICONTROL Approve & Close]** directly from the [!UICONTROL Message Actions] drop-down (see step 1), but why not preview the message first, just to be safe?
 
 1. To close the editor without approving, simply close the tab. It's auto-saved, so you can return and approve it later.
 
