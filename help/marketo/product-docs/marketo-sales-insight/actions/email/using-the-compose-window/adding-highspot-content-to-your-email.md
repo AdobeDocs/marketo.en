@@ -5,25 +5,25 @@ exl-id: d80ce572-3ebf-4daa-b6f1-f4e9bd795ff2
 ---
 # Adding Highspot Content to Your Email {#adding-highspot-content-to-your-email}
 
-If you're a Highspot customer, you can easily insert Highspot content into your Markto Sales emails.
+If you're a [!DNL Highspot] customer, you can easily insert [!DNL Highspot] content into your [!DNL Markto Sales] emails.
 
-1. Create your email draft (there are multiple ways to do this, in this example we're selecting **Compose** in the header).
+1. Create your email draft (there are multiple ways to do this, in this example we're selecting **[!UICONTROL Compose]** in the header).
 
    ![](assets/adding-highspot-content-to-your-email-1.png)
 
-1. Populate the To field and enter a Subject.
+1. Populate the [!UICONTROL To] field and enter a [!UICONTROL Subject].
 
    ![](assets/adding-highspot-content-to-your-email-2.png)
 
-1. Write your message. Click the spot in the email where you want the Highspot content inserted. Click the arrow drop-down (next to the image icon) and select **Highspot**.
+1. Write your message. Click the spot in the email where you want the [!DNL Highspot] content inserted. Click the arrow drop-down (next to the image icon) and select **[!UICONTROL Highspot]**.
 
    ![](assets/adding-highspot-content-to-your-email-3.png)
 
-1. Log in to your Highspot account.
+1. Log in to your [!DNL Highspot] account.
 
    ![](assets/adding-highspot-content-to-your-email-4.png)
 
-1. Select your desired content and click the **Add Content** button.
+1. Select your desired content and click the **[!UICONTROL Add Content]** button.
 
    ![](assets/adding-highspot-content-to-your-email-5.png)
 
