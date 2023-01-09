@@ -3,9 +3,9 @@ description: Interesting Moments in Sales Insight Actions - Marketo Docs - Produ
 title: Interesting Moments in Sales Insight Actions
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 ---
-# Interesting Moments in Sales Insight Actions {#interesting-moments-in-sales-insight-actions}
+# Interesting Moments in [!DNL Sales Insight Actions] {#interesting-moments-in-sales-insight-actions}
 
-Interesting moments are the key to communicating with your sales team through Marketo Sales Insight Actions.
+Interesting moments are the key to communicating with your sales team through [!DNL Marketo Sales Insight Actions].
 
 ## What is an interesting moment? {#what-is-an-interesting-moment}
 
@@ -21,7 +21,7 @@ That's up to you! You decide what information is relevant to your sales team. Yo
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
-1. Drag over the **Interesting Moments** flow step.
+1. Drag over the **[!UICONTROL Interesting Moments]** flow step.
 
    ![](assets/interesting-moments-in-sales-insight-actions-2.png)
 
@@ -29,7 +29,7 @@ That's up to you! You decide what information is relevant to your sales team. Yo
 
    ![](assets/interesting-moments-in-sales-insight-actions-3.png)
 
-1. Write a message to your sales team in the **Description** field that explains why this action matters.
+1. Write a message to your sales team in the **[!UICONTROL Description]** field that explains why this action matters.
 
    ![](assets/interesting-moments-in-sales-insight-actions-4.png)
 
@@ -43,8 +43,8 @@ Interesting moments will be displayed in a [lead's activity log](/help/marketo/p
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 
-## What does an interesting moment look like in Sales Insight Actions? {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
+## What does an interesting moment look like in [!DNL Sales Insight Actions]? {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
 
-Interesting Moments will be displayed in real time in a user's Live Feed. We utilize the lead owner ID in Salesforce to show users' interesting moments of relevant leads that they're the owner of. Users can quickly follow up with leads via email/phone/sales campaign by clicking the drop-down next to the lead's name.
+Interesting Moments will be displayed in real time in a user's Live Feed. We utilize the lead owner ID in [!DNL Salesforce] to show users' interesting moments of relevant leads that they're the owner of. Users can quickly follow up with leads via email/phone/sales campaign by clicking the drop-down next to the lead's name.
 
 ![](assets/interesting-moments-in-sales-insight-actions-6.png)
