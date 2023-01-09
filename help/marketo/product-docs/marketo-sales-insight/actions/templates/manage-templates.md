@@ -7,25 +7,25 @@ exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 
 ## Create a Template {#create-a-new-template}
 
-1. Navigate to the **Templates** tab.
+1. Navigate to the **[!UICONTROL Templates]** tab.
 
    ![](assets/manage-templates-1.png)
 
-1. Click **Create Template**.
+1. Click **[!UICONTROL Create Template]**.
 
    ![](assets/manage-templates-2.png)
 
-1. Choose a **Name** and **Category** for your email template, then click **Create**.
+1. Choose a **[!UICONTROL Name]** and **[!UICONTROL Category]** for your email template, then click **[!UICONTROL Create]**.
 
    ![](assets/manage-templates-3.png)
 
-1. In the template editor, create a subject line for your email and type the desired message. Use the editing tools (font, text size, etc.) to customize the appearance. Click **Save** to finalize your changes.
+1. In the template editor, create a subject line for your email and type the desired message. Use the editing tools (font, text size, etc.) to customize the appearance. Click **[!UICONTROL Save]** to finalize your changes.
 
    ![](assets/manage-templates-4.png)
 
 >[!TIP]
 >
->Always type text directly into the template, or copy from a plain text editor (e.g., Notepad or TextEdit). Copying and pasting from a rich text editor (e.g., MS Word) can cause formatting irregularities.
+>Always type text directly into the template, or copy from a plain text editor (e.g., [!DNL Notepad] or [!DNL TextEdit]). Copying and pasting from a rich text editor (e.g., MS [!DNL Word]) can cause formatting irregularities.
 
 ## View Template Details {#view-template-details}
 
@@ -35,7 +35,7 @@ The Template Details area contains multiple tabs.
 
 <table>
  <tr>
-  <td><strong>Template</strong></td>
+  <td><strong>[!UICONTROL Template]</strong></td>
   <td>Review and make edits, set up criteria to make the template a recommended template, add notes</td>
  </tr>
  <tr>
@@ -43,11 +43,11 @@ The Template Details area contains multiple tabs.
   <td>Review engagement analytics for the template. Perform a filtered search.</td>
  </tr>
  <tr>
-  <td><strong>Emails</strong></td>
+  <td><strong>[!UICONTROL Emails]</strong></td>
   <td>View all emails that have been sent using this template. Perform a filtered search.</td>
  </tr>
  <tr>
-  <td><strong>Campaigns</strong></td>
+  <td><strong>[!UICONTROL Campaigns]</strong></td>
   <td>See which Campaigns the template is being used in.</td>
  </tr>
 </table>
@@ -56,7 +56,7 @@ The Template Details area contains multiple tabs.
 
 If you're using one of our team accounts, all of your templates are still private by default.
 
-1. Navigate to the **Templates** tab.
+1. Navigate to the **[!UICONTROL Templates]** tab.
 
    ![](assets/manage-templates-5.png)
 
@@ -64,19 +64,19 @@ If you're using one of our team accounts, all of your templates are still privat
 
    ![](assets/manage-templates-6.png)
 
-1. Click the **Share** button.
+1. Click the **[!UICONTROL Share]** button.
 
    ![](assets/manage-templates-7.png)
 
    >[!NOTE]
    >
-   >Templates that have been shared with you will show up under the **Team Templates** header on the left hand side of the Templates page. Teams are only available for Premium users.
+   >Templates that have been shared with you will show up under the **[!UICONTROL Team Templates]** header on the left hand side of the [!UICONTROL Templates] page. Teams are only available for Premium users.
 
-1. Click the Share With drop-down and select the team(s) with which you'd like to share.
+1. Click the [!UICONTROL Share With] drop-down and select the team(s) with which you'd like to share.
 
    ![](assets/manage-templates-8.png)
 
-1. You have the option of keeping the template in the current category or moving it to a different one. In this example we're keeping it in the current one. Click **Share** when done.
+1. You have the option of keeping the template in the current category or moving it to a different one. In this example we're keeping it in the current one. Click **[!UICONTROL Share]** when done.
 
    ![](assets/manage-templates-9.png)
 
@@ -84,7 +84,7 @@ If you're using one of our team accounts, all of your templates are still privat
 
 You can add templates from any category to your Favorites list. This automatically generates a new category at the top of your list so you can quickly access the templates you use most.
 
-1. Navigate to the **Templates** tab.
+1. Navigate to the **[!UICONTROL Templates]** tab.
 
    ![](assets/manage-templates-10.png)
 
@@ -98,7 +98,7 @@ You can add templates from any category to your Favorites list. This automatical
 
 ## Customize Template View {#customize-template-view}
 
-From the **View** drop-down, you can choose to see: all templates, your templates, favorite templates, shared templates, unshared templates, or unused templates (templates that haven't been used in the last 90 days).
+From the **[!UICONTROL View]** drop-down, you can choose to see: all templates, your templates, favorite templates, shared templates, unshared templates, or unused templates (templates that haven't been used in the last 90 days).
 
    ![](assets/manage-templates-13.png)
 
@@ -114,11 +114,11 @@ Archive templates to keep your sales content organized and focused without losin
 
    ![](assets/manage-templates-14.png)
 
-1. Click **Archive**.
+1. Click **[!UICONTROL Archive]**.
 
    ![](assets/manage-templates-15.png)
 
-1. Click **Archive** to confirm.
+1. Click **[!UICONTROL Archive]** to confirm.
 
    ![](assets/manage-templates-16.png)
 
@@ -140,10 +140,10 @@ Follow the steps below to delete a template.
 
    ![](assets/manage-templates-17.png)
 
-1. Click **Delete**.
+1. Click **[!UICONTROL Delete]**.
 
    ![](assets/manage-templates-18.png)
 
-1. Click **Delete** to confirm.
+1. Click **[!UICONTROL Delete]** to confirm.
 
    ![](assets/manage-templates-19.png)
