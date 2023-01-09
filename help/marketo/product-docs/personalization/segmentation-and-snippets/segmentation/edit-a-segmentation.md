@@ -10,29 +10,29 @@ Making changes to your existing segmentations is easy. Here's the low down.
 
 ## Create a Segmentation Draft {#create-a-segmentation-draft}
 
-1. Go to the **Database**.
+1. Go to the **[!UICONTROL Database]**.
 
    ![](assets/db.png)
 
-1. In your Segmentation, click on **Segmentation Actions** and then **Create Draft**.
+1. In your Segmentation, click on **[!UICONTROL Segmentation Actions]** and then **[!UICONTROL Create Draft]**.
 
    ![](assets/two.png)
 
-1. The **Status** changes to Approved with Draft. A **Draft** folder is created in your segmentation.
+1. The **S[!UICONTROL tatus]** changes to [!UICONTROL Approved with Draft]. A **[!UICONTROL Draft]** folder is created in your segmentation.
 
    ![](assets/three.png)
 
 ## Add, Edit, or Delete Segments {#add-edit-or-delete-segments}
 
-1. In your segmentation, click on **Segmentation Actions** and then **Edit Segments**.
+1. In your segmentation, click on **[!UICONTROL Segmentation Actions]** and then **[!UICONTROL Edit Segments]**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >You can only Edit Segments of a Draft and not the Approved Segmentation.
+   >You can only Edit Segments of a [!UICONTROL Draft] and not the Approved Segmentation.
 
-1. **Add Segment**, **Edit** existing (rename or change the order) or **Delete** any Segments.
+1. **[!UICONTROL Add Segment]**, **[!UICONTROL Edit]** existing (rename or change the order) or **[!UICONTROL Delete]** any Segments.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -42,17 +42,17 @@ Making changes to your existing segmentations is easy. Here's the low down.
 
    >[!CAUTION]
    >
-   >Deleting affects all associated Dynamic Content in Emails, Landing Pages, and Snippets. **There is no undo**. Check the **Used By** tab to see what uses that segment.
+   >Deleting affects all associated Dynamic Content in Emails, Landing Pages, and Snippets. **There is no undo**. Check the **[!UICONTROL Used By]** tab to see what uses that segment.
 
 ## Edit Segment Rules {#edit-segment-rules}
 
-1. In your Draft **Segment**, go to **Smart List**. Apply rules similar to [Defining Segment Rules](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. In your [!UICONTROL Draft] **Segment**, go to **[!UICONTROL Smart List]**. Apply rules similar to [Defining Segment Rules](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
    >[!NOTE]
    >
-   >You cannot edit your Approved Segments. Click on Segments in Draft folder to edit them.
+   >You cannot edit your Approved Segments. Click on Segments in [!UICONTROL Draft] folder to edit them.
 
    >[!NOTE]
    >
