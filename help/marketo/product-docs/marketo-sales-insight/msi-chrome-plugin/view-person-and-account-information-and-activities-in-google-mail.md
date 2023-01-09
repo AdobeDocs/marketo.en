@@ -32,9 +32,9 @@ Click the Marketo icon to expand the pane.
 
 ![](assets/image2015-10-6-15-3a43-3a22.png)
 
-## View Activities in Google Chrome {#view-activities-in-google-chrome}
+## View Activities in [!DNL Google Chrome] {#view-activities-in-google-chrome}
 
-You can also use the Global Activity Pane in Google Chrome to see a full list of the most recent activities that have occurred for all people that you've recently corresponded with. This is a real-time updated feed that continuously displays the number of unread activities on the icon.
+You can also use the Global Activity Pane in [!DNL Google Chrome] to see a full list of the most recent activities that have occurred for all people that you've recently corresponded with. This is a real-time updated feed that continuously displays the number of unread activities on the icon.
 
 Click the Marketo icon to open the pane.
 
@@ -42,4 +42,4 @@ Click the Marketo icon to open the pane.
 
 >[!MORELIKETHIS]
 >
->[Using Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[Using Marketo Insights for [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
