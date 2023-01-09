@@ -4,7 +4,7 @@ description: Set Up the In-App Message Button - Marketo Docs - Product Documenta
 title: Set Up the In-App Message Button
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 ---
-# Set Up the In-App Message Button {#set-up-the-in-app-message-button}
+# Set Up the [!UICONTROL In-App Message] Button {#set-up-the-in-app-message-button}
 
 You can use the default button design, modify it, or upload your own custom button image.
 
@@ -12,7 +12,7 @@ You can use the default button design, modify it, or upload your own custom butt
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. To change the color for the standard button, click the **Color** button.
+1. To change the color for the standard button, click the **[!UICONTROL Color]** button.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -24,11 +24,11 @@ You can use the default button design, modify it, or upload your own custom butt
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. If you want to use your own image for a button, click the Image button, and click **Select Image**.
+1. If you want to use your own image for a button, click the **[!UICONTROL Image button]**, and click **[!UICONTROL Select Image]**.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. Choose the image and click **Select**.
+1. Choose the image and click **[!UICONTROL Select]**.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
@@ -62,11 +62,11 @@ You can use the default button design, modify it, or upload your own custom butt
 
    >[!NOTE]
    >
-   >The button always has a tap action, so the Tap Action checkbox is automatically selected, with the default message "Dismiss Message."
+   >The button always has a tap action, so the Tap Action checkbox is automatically selected, with the default message "[!UICONTROL Dismiss Message]".
 
 Almost there. Your last step is to [configure your in-app message background and dismiss button](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >
 >* [Understanding In-App Messages](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Choose a Layout for Your In-App Message](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [Choose a Layout for Your [!UICONTROL In-App Message]](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
