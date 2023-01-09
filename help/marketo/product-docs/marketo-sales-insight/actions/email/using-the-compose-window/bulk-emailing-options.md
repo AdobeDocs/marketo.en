@@ -5,7 +5,7 @@ exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 ---
 # Bulk Emailing Options {#bulk-emailing-options}
 
-Sending emails in bulk is a great way to accelerate your prospect engagement. Marketo Sales offers two ways to send emails in bulk: **Group Emails** and **Select and Send**. Group emails are a great way to quickly send hundreds of emails to a targeted group. Using Select and Send means lower email limits, but it offers more customization opportunities to the user.
+Sending emails in bulk is a great way to accelerate your prospect engagement. [!DNL Marketo Sales] offers two ways to send emails in bulk: **Group Emails** and **Select and Send**. Group emails are a great way to quickly send hundreds of emails to a targeted group. Using Select and Send means lower email limits, but it offers more customization opportunities to the user.
 
 **Group Email vs. Select and Send**
 
@@ -30,7 +30,7 @@ Sending emails in bulk is a great way to accelerate your prospect engagement. Ma
   <tr> 
    <td>Group Email</td> 
    <td>1,000</td> 
-   <td>Select a group and click the “Group Actions” button, or type the group name into the To field.</td> 
+   <td>Select a group and click the “[!UICONTROL Group Actions]” button, or type the group name into the To field.</td> 
    <td>Yes</td> 
    <td>No</td> 
    <td>Yes</td> 
@@ -38,7 +38,7 @@ Sending emails in bulk is a great way to accelerate your prospect engagement. Ma
   <tr> 
    <td>Select and Send</td> 
    <td>200</td> 
-   <td>Select people in the grid and click the “Email Selected” button in the actions bar, or type recipients into the bulk email sidebar.</td> 
+   <td>Select people in the grid and click the “[!UICONTROL Email Selected]” button in the actions bar, or type recipients into the bulk email sidebar.</td> 
    <td>Yes</td> 
    <td>Yes</td> 
    <td>Yes</td> 
