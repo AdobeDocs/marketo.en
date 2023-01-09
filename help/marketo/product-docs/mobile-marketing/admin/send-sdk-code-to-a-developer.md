@@ -19,11 +19,11 @@ Sometimes, an admin needs to send some SDK code to a developer.
 
 Here's how you do it.
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Select **Mobile Apps**.
+1. Select **[!UICONTROL Mobile Apps]**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -31,11 +31,11 @@ Here's how you do it.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Click **Mobile App Actions** and select **Send to Developer**.
+1. Click **[!UICONTROL Mobile App Actions]** and select **[!UICONTROL Send to Developer]**.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. Enter an email address and click **Send**.
+1. Enter an email address and click **[!UICONTROL Send]**.
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 
