@@ -8,7 +8,7 @@ exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 
 You can use the default button design, modify it, or upload your own custom button image.
 
-1. Click the button to open the Style tab for editing.
+1. Click the button to open the [!UICONTROL Style] tab for editing.
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
@@ -24,7 +24,7 @@ You can use the default button design, modify it, or upload your own custom butt
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. If you want to use your own image for a button, click the **[!UICONTROL Image button]**, and click **[!UICONTROL Select Image]**.
+1. If you want to use your own image for a button, click the **[!UICONTROL Image]** button, and click **[!UICONTROL Select Image]**.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
