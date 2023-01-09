@@ -4,13 +4,13 @@ description: Using Marketo Insights for Google Chrome - Marketo Docs - Product D
 title: Using Marketo Insights for Google Chrome
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
 ---
-# Using Marketo Insights for Google Chrome {#using-marketo-insights-for-google-chrome}
+# Using Marketo Insights for [!DNL Google Chrome] {#using-marketo-insights-for-google-chrome}
 
-Send and track any Google email with the Marketo Insights for Google Chrome.
+Send and track any Google email with the Marketo Insights for [!DNL Google Chrome].
 
 >[!PREREQUISITES]
 >
->[Install Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+>[Install Marketo Insights for [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
 ## Send an Email with Marketo Insights {#send-an-email-with-marketo-insights}
 
@@ -30,21 +30,21 @@ Send and track any Google email with the Marketo Insights for Google Chrome.
    >
    >Optionally, click the double arrow to expand to a full screen view.
 
-1. If you want to prefill your email with a published Marketo template, click **More Options** and select **Load Marketo Template**.
+1. If you want to prefill your email with a published Marketo template, click **More Options** and select **[!UICONTROL Load Marketo Template]**.
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Select an **Available template** and click **Ok**.
+1. Select an **[!UICONTROL Available template]** and click **[!UICONTROL Ok]**.
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
-1. Enter your content, an email address, and click **Send**.
+1. Enter your content, an email address, and click **[!UICONTROL Send]**.
 
    ![](assets/image2015-10-6-14-3a37-3a32.png)
 
    >[!NOTE]
    >
-   >Messages are tracked only when the **Send** button is purple.
+   >Messages are tracked only when the **[!UICONTROL Send]** button is purple.
 
 1. The email will soon appear in your Marketo Sales Insight and any opens and clicks are tracked.
 
@@ -54,15 +54,15 @@ Send and track any Google email with the Marketo Insights for Google Chrome.
 
 You can log replies and old activity in a lead's activity history.
 
-1. From Google Mail's preview pane, click **Log with Marketo**.
+1. From Google Mail's preview pane, click **[!UICONTROL Log with Marketo]**.
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 
-1. That's all! The email will soon appear in Marketo Sales Insight.
+1. That's all! The email will soon appear in [!DNL Marketo Sales Insight].
 
    ![](assets/image2015-4-23-17-3a1-3a26.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Install Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+   >* [Install Marketo Insights for [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
    >* [View Person and Account Information and Activities in Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
