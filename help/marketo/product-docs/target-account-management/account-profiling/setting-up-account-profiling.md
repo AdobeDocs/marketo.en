@@ -19,19 +19,19 @@ Follow these steps to start using Account Profiling.
 >
 >Learn how to [unhide a field here](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
-1. In My Marketo, open **Target Account Management**.
+1. In My Marketo, open **[!UICONTROL Target Account Management]**.
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. Click the **Account Profiling** tab.
+1. Click the **[!UICONTROL Account Profiling]** tab.
 
    ![](assets/two-1.png)
 
-1. The Model tab is opened by default. Click **Get Started**.
+1. The Model tab is opened by default. Click **[!UICONTROL Get Started]**.
 
    ![](assets/three.png)
 
-1. Give your model a name and choose the list type/list of people who will serve as the basis for the Ideal Customer Profile (ICP). Click **Create Model** when done.
+1. Give your model a name and choose the list type/list of people who will serve as the basis for the Ideal Customer Profile (ICP). Click **[!UICONTROL Create Model]** when done.
 
    ![](assets/setting-up-account-profiling-4.png)
 
@@ -39,7 +39,7 @@ Follow these steps to start using Account Profiling.
 
    ![](assets/five.png)
 
-1. To see the results of your model, click **See Model Result**.
+1. To see the results of your model, click **[!UICONTROL See Model Result]**.
 
    ![](assets/six.png)
 
