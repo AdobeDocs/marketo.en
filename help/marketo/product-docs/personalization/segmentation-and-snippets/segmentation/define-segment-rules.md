@@ -12,15 +12,15 @@ Defining Segment Rules allows you to categorize your people into different mutua
 >
 >[Create a Segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
-1. Go to the **Database.**
+1. Go to the **[!UICONTROL Database]**.
 
    ![](assets/image2017-3-28-14-3a7-3a42.png)
 
-1. Select **Segmentation** from the tree, then click a particular **Segment**.
+1. Select **[!UICONTROL Segmentations]** from the tree, then click a particular **Segment**.
 
    ![](assets/image2017-3-28-14-3a11-3a15.png)
 
-1. Click **Smart List** and add filters.
+1. Click **[!UICONTROL Smart List]** and add filters.
 
    ![](assets/image2017-3-28-14-3a18-3a19.png)
 
@@ -40,11 +40,11 @@ Defining Segment Rules allows you to categorize your people into different mutua
    >
    >Activity logging behavior for Account fields can impact qualification. Therefore, we advise against the use of Account fields when defining segment rules.
 
-1. Click the **People (Draft)** tab to view the people that may qualify to be a member of this segment.
+1. Click the **[!UICONTROL People (Draft)]** tab to view the people that may qualify to be a member of this segment.
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
-1. Go to **Segmentation Actions**. Click **Approve**.
+1. Go to **[!UICONTROL Segmentation Actions]**. Click **[!UICONTROL Approve]**.
 
    ![](assets/image2014-9-15-11-3a36-3a7.png)
 
@@ -66,7 +66,7 @@ Good work! These segments are going to come in handy in lots of places in Market
 
 >[!NOTE]
 >
->The People (Draft) screen shows all people that qualify to be a member and is not always the final list of people. Approve your segment to see the final list.
+>The [!UICONTROL People (Draft)] screen shows all people that qualify to be a member and is not always the final list of people. Approve your segment to see the final list.
 
 >[!MORELIKETHIS]
 >
