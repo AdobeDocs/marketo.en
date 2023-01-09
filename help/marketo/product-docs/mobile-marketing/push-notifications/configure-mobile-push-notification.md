@@ -6,15 +6,15 @@ exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 ---
 # Configure Mobile Push Notification {#configure-mobile-push-notification}
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
-1. Select your push asset and click **Edit Draft**.
+1. Select your push asset and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2016-8-23-16-3a49-3a48.png)
 
-1. Go to **Setup**.
+1. Go to **[!UICONTROL Setup]**.
 
    ![](assets/image2016-8-23-16-3a51-3a56.png)
 
@@ -22,15 +22,15 @@ exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 
    ![](assets/image2016-8-23-16-3a53-3a33.png)
 
-1. If your Push message applies to only one platform (for example, cases for iPhones), then you can exclude the other platform by sliding its selector to Disabled.
+1. If your Push message applies to only one platform (for example, cases for iPhones), then you can exclude the other platform by sliding its selector to **[!UICONTROL Disabled]**.
 
      ![](assets/image2016-8-23-16-3a41-3a48.png)
 
-1. Click **Next**.
+1. Click **[!UICONTROL Next]**.
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
-1. Enter message text or select the token icon to add tokens. Then, select a **Tap Action**.
+1. Enter message text or select the token icon to add tokens. Then, select a **[!UICONTROL Tap Action]**.
 
    ![](assets/image2015-9-14-16-3a7-3a43.png)
 
@@ -40,19 +40,19 @@ exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 
    >[!NOTE]
    >
-   >There are three types of Tap Actions:
+   >There are three types of [!UICONTROL Tap Actions]:
    >
-   >**Launch App** - **This App** opens the home page of your app when the notification is tapped. **Custom** uses a deep link to open other areas of your app or any other app to which you have the link (see [Deep Link URIs](#Deeplink) below for details).
+   >**[!UICONTROL Launch App]** - **[!UICONTROL This App]** opens the home page of your app when the notification is tapped. **[!UICONTROL Custom]** uses a deep link to open other areas of your app or any other app to which you have the link (see [Deep Link URIs](#Deeplink) below for details).
    >
-   >**Landing Page** - takes you to a specified Marketo landing page.
+   >**[!UICONTROL Landing Page]** - takes you to a specified Marketo landing page.
    >
-   >**External URL** - takes you to a non-Marketo landing page.
+   >**[!UICONTROL External URL]** - takes you to a non-Marketo landing page.
 
-1. To insert a deep link for a custom tap action, click Custom and enter the [deep link URI](#Deeplink) in the field.
+1. To insert a deep link for a custom tap action, click [!UICONTROL Custom] and enter the [deep link URI](#Deeplink) in the field.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
-1. To insert tokens, select a token, enter a default value, and click Insert.
+1. To insert tokens, select a token, enter a default value, and click **[!UICONTROL Insert]**.
 
    >[!NOTE]
    >
@@ -68,11 +68,11 @@ exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 
    ![](assets/ios-tap-and-notification-hand.png)
 
-1. Preview the other platform and click **Finish**.
+1. Preview the other platform and click **[!UICONTROL Finish]**.
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
