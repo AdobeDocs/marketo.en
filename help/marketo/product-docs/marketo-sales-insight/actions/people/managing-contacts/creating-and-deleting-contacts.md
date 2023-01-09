@@ -7,11 +7,11 @@ exl-id: 59fb0ec9-9bb4-4eae-b3de-8564d371b970
 
 ## Creating Contacts {#creating-contacts}
 
-1. In the People page, click the **Actions** button and select **Create Contact**.
+1. In the [!UICONTROL People] page, click the **[!UICONTROL Actions]** button and select **[!UICONTROL Create Contact]**.
 
    ![](assets/creating-and-deleting-contacts-1.png)
 
-1. Enter the first/last name and email address, along with any other info you'd like. Click **Create** when done, or **Create and Add New** to add more contacts.
+1. Enter the first/last name and email address, along with any other info you'd like. Click **[!UICONTROL Create]** when done, or **[!UICONTROL Create and Add New]** to add more contacts.
 
    ![](assets/creating-and-deleting-contacts-2.png)
 
@@ -21,7 +21,7 @@ exl-id: 59fb0ec9-9bb4-4eae-b3de-8564d371b970
 
 ## Deleting Contacts {#deleting-contacts}
 
-1. In the People page, check the box of the contact you’d like to delete. Click the dota (three vertical dots) and select **Delete**.
+1. In the [!UICONTROL People] page, check the box of the contact you’d like to delete. Click the dota (three vertical dots) and select **[!UICONTROL Delete]**.
 
    ![](assets/creating-and-deleting-contacts-3.png)
 
@@ -29,6 +29,6 @@ exl-id: 59fb0ec9-9bb4-4eae-b3de-8564d371b970
    >
    >To delete multiple contacts, simply select multiple people. The remaining steps would be the same.
 
-1. Click **Delete Contact** to confirm.
+1. Click **[!UICONTROL Delete Contact]** to confirm.
 
    ![](assets/creating-and-deleting-contacts-4.png)
