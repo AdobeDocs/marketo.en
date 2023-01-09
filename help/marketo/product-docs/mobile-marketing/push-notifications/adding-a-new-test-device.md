@@ -34,7 +34,7 @@ It's easy to add a new test device to push notifications to.
 
    ![](assets/image2015-7-17-17-3a9-3a54.png)
 
-1. The app opens. Name the device and tap **[!UICONTROL Yesъ**.
+1. The app opens. Name the device and tap **[!UICONTROL Yes]**.
 
    ![](assets/image2015-7-17-17-3a31-3a23.png)
 
