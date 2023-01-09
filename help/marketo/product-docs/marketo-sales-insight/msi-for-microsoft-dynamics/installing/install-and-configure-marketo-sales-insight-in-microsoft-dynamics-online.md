@@ -140,7 +140,7 @@ Let's tie your Marketo instance to [!DNL Sales Insight] in [!DNL Dynamics]. Here
 
    ![](assets/enable-four.png)
 
-1. This will _automatically_ select MSI fields that were previously disabled (Urgency, Relative Score, and Priority). Simply click **[!UICONTROL Save]** to to start syncing data.
+1. This will _automatically_ select MSI fields that were previously disabled ([!UICONTROL Urgency], [!UICONTROL Relative Score], and [!UICONTROL Priority]). Simply click **[!UICONTROL Save]** to to start syncing data.
 
    ![](assets/enable-five.png)
 
