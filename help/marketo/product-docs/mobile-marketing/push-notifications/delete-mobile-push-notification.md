@@ -6,7 +6,7 @@ exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 ---
 # Delete Mobile Push Notification {#delete-mobile-push-notification}
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 
@@ -14,11 +14,11 @@ exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 
    ![](assets/image2015-4-22-18-3a43-3a21.png)
 
-1. Under **Push Notification Actions**, click **Delete**.
+1. Under **[!UICONTROL Push Notification Actions]**, click **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
-1. Confirm by clicking **Delete**.
+1. Confirm by clicking **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-22-18-3a43-3a51.png)
 
