@@ -14,15 +14,15 @@ You can send a sample to verify that your push notification is working correctly
 
 1. You can send a sample three ways:
 
-   In the tree on the left, right click the push notification asset and click **Send Sample**.
+   In the tree on the left, right click the push notification asset and click **[!UICONTROL Send Sample]**.
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
-   Or, from the Push Notification actions menu, click **Send Sample**.
+   Or, from the Push Notification actions menu, click **[!UICONTROL Send Sample]**.
 
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
-   Or, in the Push Notifications Editor, click **Send Sample**.
+   Or, in the Push Notifications Editor, click **[!UICONTROL Send Sample]**.
 
    ![](assets/image2015-7-20-13-3a29-3a3.png)
 
@@ -30,23 +30,23 @@ You can send a sample to verify that your push notification is working correctly
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   Or, click **Add Device** to [add a new test device](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) to send the sample to.
+   Or, click **[!UICONTROL Add Device]** to [add a new test device](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) to send the sample to.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
 1. You have two ways to connect your device to the app.
 
-   With the first option, click the **Visit URL with device** button, copy the URL from the field and send it in an email or text message to your device. From the device, tap the URL. When the status shows the connection, click **Send**.
+   With the first option, click the **[!UICONTROL Visit URL with device]** button, copy the URL from the field and send it in an email or text message to your device. From the device, tap the URL. When the status shows the connection, click **[!UICONTROL Send]**.
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
-   Or, with second option, click the **Scan QR code with device** button and scan the QR Code with your device. When the status shows the connection, click **Send**.
+   Or, with second option, click the **[!UICONTROL Scan QR code with device]** button and scan the QR Code with your device. When the status shows the connection, click **[!UICONTROL Send]**.
 
    ![](assets/image2015-7-29-8-3a31-3a20.png)
 
    >[!TIP]
    >
-   >Have you successfully added a test device, but don’t see it listed in the **Send to** field? Check these to troubleshoot:
+   >Have you successfully added a test device, but don’t see it listed in the **[!UICONTROL Send to]** field? Check these to troubleshoot:
    >
    >* Push notifications are turned on for the app associated with the push notification.
    >
