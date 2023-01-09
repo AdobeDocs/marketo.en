@@ -5,9 +5,9 @@ exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 ---
 # Recommended Templates {#recommended-templates}
 
-Sales Insight Action’s Recommended Templates help you get the right messaging while saving you time. This gives you greater flow when sending emails and reduces uncertainty when trying to find the right email for the right person.
+[!DNL Sales Insight Action]’s Recommended Templates help you get the right messaging while saving you time. This gives you greater flow when sending emails and reduces uncertainty when trying to find the right email for the right person.
 
-1. Go to your Templates tab.
+1. Go to your **[!UICONTROL Templates]** tab.
 
    ![](assets/recommended-templates-1.png)
 
@@ -15,11 +15,11 @@ Sales Insight Action’s Recommended Templates help you get the right messaging 
 
    ![](assets/recommended-templates-2.png)
 
-1. In the Recommended Template card, click **Edit**.
+1. In the [!UICONTROL Recommended Template] card, click **[!UICONTROL Edit]**.
 
    ![](assets/recommended-templates-3.png)
 
-1. Select the **Make a Recommended Template** checkbox and click **Save**.
+1. Select the **[!UICONTROL Make a Recommended Template]** checkbox and click **[!UICONTROL Save]**.
 
    ![](assets/recommended-templates-4.png)
 
@@ -29,7 +29,7 @@ Sales Insight Action’s Recommended Templates help you get the right messaging 
 
 ## All vs. Any {#all-vs-any}
 
-Select **All** if you'd like your template to be recommended when all of the criteria is met. Select **Any** if you'd like your template to be recommended when any one of the criteria is met.
+Select **[!UICONTROL All]** if you'd like your template to be recommended when all of the criteria is met. Select **[!UICONTROL Any]** if you'd like your template to be recommended when any one of the criteria is met.
 
 ## Setting Criteria {#setting-criteria}
 
@@ -39,13 +39,13 @@ Your criteria is going to set the conditions for which templates will be recomme
 
 Now, select your condition. When your conditions for your dynamic field are met, the template will be recommended. Choose from 4 different conditions.
 
-**Equals**: Value must be an exact match (e.g., Marketo equals Marketo)
+**[!UICONTROL Equals]**: Value must be an exact match (e.g., Marketo equals Marketo)
 
-**Does not Equal**: Value must be anything but an exact match (e.g., Marketing Nation does not equal Marketing)
+**[!UICONTROL Does not Equal]**: Value must be anything but an exact match (e.g., Marketing Nation does not equal Marketing)
 
-**Contains**: Only needs to contain the value (e.g., Marketo Rocks! contains Marketo)
+**[!UICONTROL Contains]**: Only needs to contain the value (e.g., Marketo Rocks! contains Marketo)
 
-**Does Not Contain**: The Value must not be in the Dynamic Field (e.g., Marketo Rocks! does not contain Awesome)
+**[!UICONTROL Does Not Contain]**: The Value must not be in the Dynamic Field (e.g., Marketo Rocks! does not contain Awesome)
 
 ## What A Recommended Template Looks Like {#what-a-recommended-template-looks-like}
 
