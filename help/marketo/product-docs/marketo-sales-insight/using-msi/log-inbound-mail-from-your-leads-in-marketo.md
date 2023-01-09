@@ -36,5 +36,5 @@ Log your lead's replies to add them to their history in Marketo.
 
 >[!MORELIKETHIS]
 >
->* [Send and Track an Email with the Marketo Email Add-in for Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Send and Track from Outlook Using a Marketo Template](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Send and Track an Email with the Marketo Email Add-in for [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Send and Track from [!DNL Outlook] Using a Marketo Template](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
