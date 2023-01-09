@@ -13,7 +13,7 @@ Local Presence gives you the option of making it look like you're calling from y
 
    ![](assets/local-presence-1.png)
 
-1. Select the **Use Local Presence** checkbox.
+1. Select the **[!UICONTROL Use Local Presence]** checkbox.
 
    ![](assets/local-presence-2.png)
 
