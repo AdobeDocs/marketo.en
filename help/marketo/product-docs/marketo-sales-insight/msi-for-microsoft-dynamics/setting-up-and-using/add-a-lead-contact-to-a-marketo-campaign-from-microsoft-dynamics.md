@@ -4,11 +4,11 @@ description: Add a Lead/Contact to a Marketo Campaign from Microsoft Dynamics - 
 title: Add a Lead/Contact to a Marketo Campaign from Microsoft Dynamics
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 ---
-# Add a Lead/Contact to a Marketo Campaign from Microsoft Dynamics {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
+# Add a Lead/Contact to a Marketo Campaign from [!DNL Microsoft Dynamics] {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
 
-You can quickly and easily add leads/contacts to Marketo smart campaigns directly from within Microsoft Dynamics. Here's how.
+You can quickly and easily add leads/contacts to Marketo smart campaigns directly from within [!DNL Microsoft Dynamics]. Here's how.
 
-1. In Dynamics, go to the **Sales** area.
+1. In [!DNL Dynamics], go to the **[!UICONTROL Sales]** area.
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
@@ -20,16 +20,16 @@ You can quickly and easily add leads/contacts to Marketo smart campaigns directl
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. Click **...** and select **Add to Marketo Campaign**.
+1. Click **...** and select **[!UICONTROL Add to Marketo Campaign]**.
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
-1. Select the Marketo campaign you want to add the leads or contacts to and click **Add**.
+1. Select the Marketo campaign you want to add the leads or contacts to and click **[!UICONTROL Add]**.
 
    ![](assets/image2014-10-20-12-3a10-3a42.png)
 
    >[!NOTE]
    >
-   >For the campaign to appear in the drop-down, use the  [**Campaign is Requested** trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), with Sales Insight as the source, when you set up the campaign.
+   >For the campaign to appear in the drop-down, use the  [**Campaign is Requested** trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), with [!DNL Sales Insight] as the source, when you set up the campaign.
 
-And that's all folks! You now have the power of Marketo smart campaigns in your hands directly from Dynamics.
+And that's all folks! You now have the power of Marketo smart campaigns in your hands directly from [!DNL Dynamics].
