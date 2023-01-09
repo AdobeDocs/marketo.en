@@ -13,18 +13,18 @@ If your CRM provides you with a BCC address, you can use the "other" CRM section
 
 **Almost every CRM**:
 
-* Our auto-BCC feature works with nearly all CRMs record emails you've sent with Sales Insight Actions to your leads. Just make sure your CRM of choice provides you with a BCC address to take advantage of this.
+* Our auto-BCC feature works with nearly all CRMs record emails you've sent with [!DNL Sales Insight Actions] to your leads. Just make sure your CRM of choice provides you with a BCC address to take advantage of this.
 
-**Salesforce**:
+**[!DNL Salesforce]**:
 
 * We do all the above and more!
 
 ## How to Connect to Other CRMs {#how-to-connect-to-other-crms}
 
-1. Click **Settings**.
+1. Click **[!UICONTROL Settings]**.
 1. Click **CRM**.
-1. Click **Connect** under Other CRMs.
-1. Click **Configure**, then paste your BCC address below Email to BCC.
-1. Click **Save** and your BCC address will be saved to Sales Insight Actions.
+1. Click **[!UICONTROL Connect]** under [!UICONTROL Other CRMs].
+1. Click **[!UICONTROL Configure]**, then paste your BCC address below Email to BCC.
+1. Click **[!UICONTROL Save]** and your BCC address will be saved to [!DNL Sales Insight Actions].
 
 Emails will now be logged to your CRM via BCC.
