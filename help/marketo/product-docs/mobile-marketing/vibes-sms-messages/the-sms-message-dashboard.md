@@ -14,7 +14,7 @@ The **[!UICONTROL SMS Progression]** graph displays total sent and total deliver
 
 ![](assets/sms-progression-hand-border.png)
 
-The **[!UICONTROL Summary]** graph shows the calculated Bounce Rate as a percentage. Hover over the arching bar to view the delivery rate by amount and percentage. Hover over the orange Bounce Rate section of the bar to view the [!UICONTROL Soft Bounce Rate] and [!UICONTROL Hard Bounce Rate] amounts and percentages.
+The **[!UICONTROL Summary]** graph shows the calculated [!UICONTROL Bounce Rate] as a percentage. Hover over the arching bar to view the delivery rate by amount and percentage. Hover over the orange [!UICONTROL Bounce Rate] section of the bar to view the [!UICONTROL Soft Bounce Rate] and [!UICONTROL Hard Bounce Rate] amounts and percentages.
 
 ![](assets/hover-over-summary-hands-thin-border.png)
 
