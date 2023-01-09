@@ -4,7 +4,7 @@ description: Set Up the In-App Message Background - Marketo Docs - Product Docum
 title: Set Up the In-App Message Background
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 ---
-# Set Up the In-App Message Background {#set-up-the-in-app-message-background}
+# Set Up the [!UICONTROL In-App Message] Background {#set-up-the-in-app-message-background}
 
 Selecting a message background is an important step in finishing up your in-app message.
 
@@ -16,7 +16,7 @@ Selecting a message background is an important step in finishing up your in-app 
 
    ![](assets/image2016-5-9-8-3a38-3a1.png)
 
-1. To set a color, click **Color**, then the color selection square. Select the color by clicking it or entering the Hex or RGB codes on the color picker.
+1. To set a color, click **[!UICONTROL Color]**, then the color selection square. Select the color by clicking it or entering the Hex or RGB codes on the color picker.
 
    ![](assets/image2016-5-9-8-3a46-3a59.png)
 
@@ -24,11 +24,11 @@ Selecting a message background is an important step in finishing up your in-app 
    >
    >Plain white, the default, is usually a winner.
 
-1. If you want to use a background, click **Image** and then the **Select Image** link.
+1. If you want to use a background, click **[!UICONTROL Image]** and then the **[!UICONTROL Select Image]** link.
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
-1. Choose from files uploaded to the the Design Studio. Click **Select**.
+1. Choose from files uploaded to the the Design Studio. Click **[!UICONTROL Select]**.
 
    ![](assets/image2016-5-9-9-3a0-3a2.png)
 
@@ -40,7 +40,7 @@ Selecting a message background is an important step in finishing up your in-app 
 
    ![](assets/image2016-5-9-9-3a2-3a33.png)
 
-1. Apply an optional image border. The default setting is **Off**. First, select the color by clicking it or entering the Hex or RGB numbers on the color picker.
+1. Apply an optional image border. The default setting is **[!UICONTROL Off]**. First, select the color by clicking it or entering the Hex or RGB numbers on the color picker.
 
    ![](assets/image2016-5-9-9-3a54-3a8.png)
 
@@ -58,7 +58,7 @@ Selecting a message background is an important step in finishing up your in-app 
 
    >[!NOTE]
    >
-   >For tap actions for backgrounds, you can set up different actions for Apple and Android platforms. For example, deep links are handled differently for Apple and Android. If your message is going only to one platform or the other, leave the other one in the default setting or select **None**.
+   >For tap actions for backgrounds, you can set up different actions for Apple and Android platforms. For example, deep links are handled differently for Apple and Android. If your message is going only to one platform or the other, leave the other one in the default setting or select **[!UICONTROL None]**.
 
    To finish the job, your last step is to [set up the Dismiss button](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 
