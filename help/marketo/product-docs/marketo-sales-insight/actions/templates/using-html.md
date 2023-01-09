@@ -11,7 +11,7 @@ exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
 
    ![](assets/using-html-1.png)
 
-1. In the Template Editor card, click **Edit**.
+1. In the Template Editor card, click **[!UICONTROL Edit]**.
 
    ![](assets/using-html-2.png)
 
@@ -19,7 +19,7 @@ exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
 
    ![](assets/using-html-3.png)
 
-1. Paste the source code and click **Save**.
+1. Paste the source code and click **[!UICONTROL Save]**.
 
    ![](assets/using-html-4.png)
 
