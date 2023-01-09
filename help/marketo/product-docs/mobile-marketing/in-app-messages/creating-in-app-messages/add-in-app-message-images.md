@@ -8,7 +8,7 @@ exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 
 Here's where you choose and customize your in-app message images.
 
-1. Select the in-app message and click **Edit Draft**.
+1. Select the in-app message and click **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2016-5-4-10-3a20-3a14.png)
 
@@ -20,15 +20,15 @@ Here's where you choose and customize your in-app message images.
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. Click the **Style** tab and click on the image area of the template.
+1. Click the **[!UICONTROL Style]** tab and click on the image area of the template.
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. Click **Select Image**.
+1. Click **[!UICONTROL Select Image]**.
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
-1. Select your image from the Design Studio and click **Select**.
+1. Select your image from the Design Studio and click **[!UICONTROL Select]**.
 
    ![](assets/image2016-5-6-8-3a58-3a40.png)
 
@@ -40,7 +40,7 @@ Here's where you choose and customize your in-app message images.
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. Click **Remove**. Now, you can pick another one.
+1. Click **[!UICONTROL Remove]**. Now, you can pick another one.
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
@@ -78,7 +78,7 @@ Here's where you choose and customize your in-app message images.
 
    >[!NOTE]
    >
-   >For tap actions for images, buttons, or backgrounds, you can set up different actions for Apple and Android platforms. For example, deep links are handled differently for Apple and Android. If your message is going only to one platform or the other, leave the other one in the default setting or select **None**.
+   >For tap actions for images, buttons, or backgrounds, you can set up different actions for Apple and Android platforms. For example, deep links are handled differently for Apple and Android. If your message is going only to one platform or the other, leave the other one in the default setting or select **[!UICONTROL None]**.
 
 Great work! Now, it's time to [create the text for your in-app message](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
 
