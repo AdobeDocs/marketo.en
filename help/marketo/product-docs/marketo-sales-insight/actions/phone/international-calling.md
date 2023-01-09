@@ -136,7 +136,7 @@ Sales Dialer makes it easy for you to communicate internationally. For customers
 
 ## International Calling FAQ {#international-calling-faq}
 
-**Why doesn't Sales Insight Actions support international calling for all countries?**
+**Why doesn't [!DNL Sales Insight Actions] support international calling for all countries?**
 
 Today, we offer international calling with Sales Dialer for no additional cost. We want to make it easy for you to communicate with your own prospects and customers, therefore we’ve launched support for standard rate international calls. We provide coverage to 34 countries outside of the US and Canada for regions in Europe, Asia, and other key destinations. We will continue to expand based on feedback from customers.
 
