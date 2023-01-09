@@ -13,19 +13,19 @@ Send a push notification to people using your mobile app.
 >* [Create a New Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [Create a Push Notification](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
-1. Select your smart campaign and click **Smart List**.
+1. Select your smart campaign and click **[!UICONTROL Smart List]**.
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
-1. Define your smart list then click **Flow**.
+1. Define your smart list then click **[!UICONTROL Flow]**.
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. Select a push notification. Click **Schedule**.
+1. Select a push notification. Click **[!UICONTROL Schedule]**.
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 
@@ -33,11 +33,11 @@ Send a push notification to people using your mobile app.
    >
    >The push notification must be approved before it appears on the drop-down.
 
-1. Click **Run Once**.
+1. Click **[!UICONTROL Run Once]**.
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 
-1. Choose a date and time. Click **Save**.
+1. Choose a date and time. Click **[!UICONTROL Save]**.
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 
