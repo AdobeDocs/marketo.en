@@ -18,7 +18,7 @@ Making changes to your existing segmentations is easy. Here's the low down.
 
    ![](assets/two.png)
 
-1. The **S[!UICONTROL tatus]** changes to [!UICONTROL Approved with Draft]. A **[!UICONTROL Draft]** folder is created in your segmentation.
+1. The **[!UICONTROL Status]** changes to [!UICONTROL Approved with Draft]. A **[!UICONTROL Draft]** folder is created in your segmentation.
 
    ![](assets/three.png)
 
