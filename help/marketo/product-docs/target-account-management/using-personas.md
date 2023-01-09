@@ -10,15 +10,15 @@ Personas are a great way to segment your ABM audience and market to a specific s
 
 ## Add a Persona {#add-a-persona}
 
-1. In My Marketo, click **Admin**.
+1. In My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. In the tree, select **Target Account Management**.
+1. In the tree, select **[!UICONTROL Target Account Management]**.
 
    ![](assets/using-personas-2.png)
 
-1. Click **Edit**.
+1. Click **[!UICONTROL Edit]**.
 
    ![](assets/three.png)
 
@@ -26,11 +26,11 @@ Personas are a great way to segment your ABM audience and market to a specific s
    >
    >The Job Title persona is included by default. It cannot be modified or deleted.
 
-1. To add additional personas, click **+Add**.
+1. To add additional personas, click **[!UICONTROL +Add]**.
 
    ![](assets/four.png)
 
-1. Give your persona a name, and select the corresponding field in the drop-down. You can add up to two additional personas. Click **Save** when done.
+1. Give your persona a name, and select the corresponding field in the drop-down. You can add up to two additional personas. Click **[!UICONTROL Save]** when done.
 
    ![](assets/five.png)
 
@@ -40,13 +40,13 @@ Personas are a great way to segment your ABM audience and market to a specific s
 
 ## View Your Personas {#view-your-personas}
 
-View your personas by visiting a specific Named Account.
+View your personas by visiting a specific [!UICONTROL Named Account].
 
-1. Select the desired Named Account.
+1. Select the desired [!UICONTROL Named Account].
 
    ![](assets/one-a.png)
 
-1. Click the **Personas** tab.
+1. Click the **[!UICONTROL Personas]** tab.
 
    ![](assets/two-a.png)
 
@@ -56,7 +56,7 @@ View your personas by visiting a specific Named Account.
 
    >[!NOTE]
    >
-   >The X in the Title Persona acts as a wild card character. For example, "CXO" will include CEOs, CFOs, etc.
+   >The X in the [!UICONTROL Title Persona] acts as a wild card character. For example, "CXO" will include CEOs, CFOs, etc.
 
 ## Persona Filters {#persona-filters}
 
