@@ -11,7 +11,7 @@ exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
 >* [Create a [!UICONTROL Smart List]](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [Create a Segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
-Optimize your [!UICONTROL Smart Lists] performance by using Segment filters.
+Optimize your Smart Lists performance by using Segment filters.
 
 1. In the smart list you created, search for the word **Segment**, drag and drop the filter.
 
