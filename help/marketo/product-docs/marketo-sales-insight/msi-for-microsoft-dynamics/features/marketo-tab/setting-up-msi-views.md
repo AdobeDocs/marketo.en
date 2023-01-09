@@ -5,15 +5,15 @@ exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 ---
 # Setting up MSI Views {#setting-up-msi-views}
 
-Installing the Sales Insight plugin in Dynamics automatically adds the Best Bets and related dashboards on the Site Map. If for some reason the dashboards are not added, here's how to add them manually.
+Installing the [!DNL Sales Insight] plugin in Dynamics automatically adds the [!DNL Best Bets] and related dashboards on the Site Map. If for some reason the dashboards are not added, here's how to add them manually.
 
-1. In Dynamics, click the gear icon and select **Advanced Settings** from the drop-down.
+1. In Dynamics, click the gear icon and select **[!UICONTROL Advanced Settings]** from the drop-down.
 
-1. In the upper-left of the screen, click **Settings**. Under Customization choose **Customizations**.
+1. In the upper-left of the screen, click **[!UICONTROL Settings]**. Under Customization choose **[!UICONTROL Customizations]**.
 
-1. Click **Customize the System**.
+1. Click **[!UICONTROL Customize the System]**.
 
-1. In the tree on the left, click **Client Extensions** and double-click **Site Map**.
+1. In the tree on the left, click **[!UICONTROL Client Extensions]** and double-click **[!UICONTROL Site Map]**.
 
 1. Click the right arrow to go to the next page. Under Sales, you should see Marketo. If you don't, make sure you imported the package properly.
 
@@ -47,4 +47,4 @@ Installing the Sales Insight plugin in Dynamics automatically adds the Best Bets
    ID: marketo_anonymous_webactivity</br>
    Title: Anonymous Web Activity
 
-1. Click **Save** when done.
+1. Click **[!UICONTROL Save]** when done.
