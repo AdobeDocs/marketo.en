@@ -44,7 +44,7 @@ Here's where you choose and customize your in-app message images.
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
-1. With your desired image in place, in Image Properties, select a button to fit the image by Height, Width or Both.
+1. With your desired image in place, in [!UICONTROL Image Properties], select a button to fit the image by Height, Width or Both.
 
    ![](assets/image2016-5-6-9-3a4-3a47.png)
 
