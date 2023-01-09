@@ -8,11 +8,11 @@ exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 
 Segmentation allows you to group people into distinct profiles for reporting and dynamic content. Here's how to create them.
 
-1. Go to **Database**.
+1. Go to **[!UICONTROL Database]**.
 
    ![](assets/image2017-3-28-13-3a44-3a54.png)
 
-1. Click **New** and then **New Segmentation**.
+1. Click **[!UICONTROL New]** and then **[!UICONTROL New Segmentation]**.
 
    ![](assets/image2017-3-28-13-3a56-3a57.png)
 
@@ -20,7 +20,7 @@ Segmentation allows you to group people into distinct profiles for reporting and
    >
    >You can create up to 20 segmentations.
 
-1. Enter a **Name**, click **Add Segment** and name it.
+1. Enter a **[!UICONTROL Name]**, click **[!UICONTROL Add Segment]** and name it.
 
    ![](assets/image2014-9-15-10-3a1-3a1.png)
 
@@ -38,7 +38,7 @@ Segmentation allows you to group people into distinct profiles for reporting and
    >
    >If you get an error message during approval and require assistance in reducing the complexity of your segmentation, please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Drag and drop the Segments around to change their order. Once done, click on **Create**.
+1. Drag and drop the Segments around to change their order. Once done, click on **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-15-10-3a1-3a30.png)
 
