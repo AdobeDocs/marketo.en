@@ -25,11 +25,11 @@ To see an Account List's dashboard, simply click on its name...
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>Pipeline</strong></td> 
+   <td colspan="1"><strong><span class="uicontrol">Pipeline</span></strong></td> 
    <td colspan="1">See the pipeline over time. To determine pipeline over time by week, we take the pipeline on the last day.</td> 
   </tr> 
   <tr> 
-   <td><strong>Revenue</strong></td> 
+   <td><strong><span class="uicontrol">Revenue</span></strong></td> 
    <td><p>See revenue over time. To determine revenue over time by week, we take the sum of all the revenue won in that week.</p></td> 
   </tr> 
  </tbody> 
@@ -37,16 +37,16 @@ To see an Account List's dashboard, simply click on its name...
 
 ## Named Accounts Tab {#named-accounts-tab}
 
-Click the **Named Accounts** tab to see which named accounts belong to that Account list.
+Click the **[!UICONTROL Named Accounts]** tab to see which named accounts belong to that Account list.
 
 ![](assets/three-1.png)
 
 >[!NOTE]
 >
->You can remove a named account in this tab by selecting it and clicking **Remove Named Accounts**.
+>You can remove a named account in this tab by selecting it and clicking **[!UICONTROL Remove Named Accounts]**.
 
-## Used By Tab {#used-by-tab}
+## [!UICONTROL Used By] Tab {#used-by-tab}
 
-Click the **Used By** tab to see which assets are referencing that Account List.
+Click the **[!UICONTROL Used By]** tab to see which assets are referencing that Account List.
 
 ![](assets/four-2.png)
