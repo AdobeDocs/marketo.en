@@ -136,7 +136,7 @@ Finally, you can give specific users access to [!DNL Marketo Sales Insight].
 
    ![](assets/image2014-12-12-9-3a9-3a22.png)
 
-   And you should be all done! Finally, to test, log in to Dynamics as a user who has access to [!DNL Marketo Sales Insight] and look at a lead or contact.
+   And you should be all done! Finally, to test, log in to [!DNL Dynamics] as a user who has access to [!DNL Marketo Sales Insight] and look at a lead or contact.
 
    ![](assets/image2014-12-12-9-3a9-3a31.png)
 
