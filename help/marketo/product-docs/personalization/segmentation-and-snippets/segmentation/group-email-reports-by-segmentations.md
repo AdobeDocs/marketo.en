@@ -12,23 +12,23 @@ Segmentations are not just for Dynamic Content. You can group your email perform
 >
 >[Approve a Segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
-1. Go to the **Marketing Activities** (or **Analytics**) area.
+1. Go to the **[!UICONTROL Marketing Activities]** (or **[!UICONTROL Analytics]**) area.
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. Select your **Email Performance** report.
+1. Select your **[!UICONTROL Email Performance]** report.
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. Click the **Setup** tab and drag over **Group by Segmentations**.
+1. Click the **[!UICONTROL Setup]** tab and drag over **[!UICONTROL Group by Segmentations]**.
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. Choose one or two segmentations to use for grouping your report. Click **Apply**.
+1. Choose one or two segmentations to use for grouping your report. Click **[!UICONTROL Apply]**.
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. That's it! Click the **Report** tab. If you use one segmentation, your report shows one row for each segment.
+1. That's it! Click the **[!UICONTROL Report]** tab. If you use one segmentation, your report shows one row for each segment.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
