@@ -4,11 +4,11 @@ description: Schedule Your In-App Message - Marketo Docs - Product Documentation
 title: Schedule Your In-App Message
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 ---
-# Schedule Your In-App Message {#schedule-your-in-app-message}
+# Schedule Your [!UICONTROL In-App Message] {#schedule-your-in-app-message}
 
 Send your message now or schedule it for later.
 
-1. To schedule an in-app message, select **Set future date** and choose a start date from the drop-down calendar.
+1. To schedule an in-app message, select **[!UICONTROL Set future date]** and choose a start date from the drop-down calendar.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -20,7 +20,7 @@ Send your message now or schedule it for later.
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. Or, to run the program right now, select **Run Immediately**. The Start Date fields disappear.
+1. Or, to run the program right now, select **[!UICONTROL Run Immediately]**. The Start Date fields disappear.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
