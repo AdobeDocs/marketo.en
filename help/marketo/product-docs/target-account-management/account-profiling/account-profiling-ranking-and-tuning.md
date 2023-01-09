@@ -6,7 +6,7 @@ exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 ---
 # Account Profiling Ranking and Tuning {#account-profiling-ranking-and-tuning}
 
-Account Profiling identifies your Ideal Customer Profile (ICP), ranks companies in your database based on the ICP, and adds ICP Indicator data to accounts promoted as Named Accounts.
+Account Profiling identifies your Ideal Customer Profile (ICP), ranks companies in your database based on the ICP, and adds ICP Indicator data to accounts promoted as [!UICONTROL Named Accounts].
 
 ## Model Results {#model-results}
 
@@ -19,28 +19,28 @@ While optional, we recommend selecting the Automatically promote checkbox, as it
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Rank</strong></td> 
+   <td><strong><span class="uicontrol">Rank</span></strong></td> 
    <td> 
     <div>
       Account rank based on the Ideal Customer Profile. A is the best fit, D is the least fit. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Propensity</strong></td> 
+   <td><strong><span class="uicontrol">Propensity</span></strong></td> 
    <td> 
     <div>
       Estimated increase in conversion rate compared to a non-ICP based selection of accounts. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Accounts (%)</strong></td> 
+   <td><strong><span class="uicontrol">Accounts (%)</span></strong></td> 
    <td> 
     <div>
       Percentage of accounts in model input that have this rank. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>% of Model Basis</strong></td> 
+   <td><strong><span class="uicontrol">% of Model Basis</span></strong></td> 
    <td> 
     <div>
       Percentage of accounts in model basis that have this rank. 
@@ -51,7 +51,7 @@ While optional, we recommend selecting the Automatically promote checkbox, as it
 
 ## Model Tuning {#model-tuning}
 
-In the Model tab, click the Tune Model button.
+In the Model tab, click the **[!UICONTROL Tune Model]** button.
 
 ![](assets/two.png)
 
@@ -64,77 +64,77 @@ There are several tabs to choose from, allowing for in-depth customization.
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Compliance</strong></td> 
+   <td><strong><span class="uicontrol">Compliance</span></strong></td> 
    <td> 
     <div>
       Certifications, compliance-related positions/hiring. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Operations</strong></td> 
+   <td><strong><span class="uicontrol">Operations</span></strong></td> 
    <td> 
     <div>
       Operations-related positions/hiring. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>HR</strong></td> 
+   <td><strong><span class="uicontrol">HR</span></strong></td> 
    <td> 
     <div>
       HR or Payroll software, HR-related positions/hiring.
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Engineering</strong></td> 
+   <td><strong><span class="uicontrol">Engineering</span></strong></td> 
    <td> 
     <div>
       Technologies, frameworks, engineering-related positions/hiring. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Sales</strong></td> 
+   <td><strong><span class="uicontrol">Sales</span></strong></td> 
    <td> 
     <div>
       Solutions and software for sales, sales-related positions/hiring. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Intent</strong></td> 
+   <td><strong><span class="uicontrol">Intent</span></strong></td> 
    <td> 
     <div>
       Intent indicators. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>IT</strong></td> 
+   <td><strong><span class="uicontrol">IT</span></strong></td> 
    <td> 
     <div>
       Hardware and software solutions, technologies, IT-related positions/hiring.
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Finance</strong></td> 
+   <td><strong><span class="uicontrol">Finance</span></strong></td> 
    <td> 
     <div>
       Finance software, finance-related positions/hiring. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Marketing</strong></td> 
+   <td><strong><span class="uicontrol">Marketing</span></strong></td> 
    <td> 
     <div>
       Marketing technologies and software, marketing-related positions/hiring. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Business</strong></td> 
+   <td><strong><span class="uicontrol">Business</span></strong></td> 
    <td> 
     <div>
       Forbes or Inc listings or business partnerships. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Customer Experience & Relations</strong></td> 
+   <td><strong><span class="uicontrol">Customer Experience & Relations</span></strong></td> 
    <td> 
     <div>
       Customer success and customer relations positions/hiring.
@@ -147,26 +147,26 @@ Hover over the tool tips for a description of each column.
 
 ![](assets/tool-tip.png)
 
-Click the Add ICP Indicator drop-down to insert additional indicators into your model.
+Click the [!UICONTROL Add ICP Indicator] drop-down to insert additional indicators into your model.
 
 ![](assets/add-icp.png)
 
-Checking the Export box allows you to see the ICP indicator on the Named Account details page, as well as use the selected ICP indicator as constraints in [named account filters](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+Checking the [!UICONTROL Export] box allows you to see the ICP indicator on the [!UICONTROL Named Account] details page, as well as use the selected ICP indicator as constraints in [named account filters](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->ICP indicators are included as constraints in **Member of Named Account** Filters and Triggers.
+>ICP indicators are included as constraints in **[!UICONTROL Member of Named Account]** Filters and Triggers.
 
-Indicator Weightage is what controls the level of importance each indicator receives in your model.
+[!UICONTROL Indicator Weightage] is what controls the level of importance each indicator receives in your model.
 
 ![](assets/weightage.png)
 
-Click Refresh Model in order for those changes to take effect.
+Click **[!UICONTROL Refresh Model]** in order for those changes to take effect.
 
 ![](assets/refresh-button.png)
 
-When you're done tuning your model (after you refresh it), go back to the Model Results tab and click **Save & Apply Ranks**.
+When you're done tuning your model (after you refresh it), go back to the Model Results tab and click **[!UICONTROL Save & Apply Ranks]**.
 
 ![](assets/ranks.png)
