@@ -12,11 +12,11 @@ Select your smart campaign and click **[!UICONTROL Smart List]**.
 
 ![](assets/one-1.png)
 
-Enter "Named Account" into the search box to find both Named Account triggers.
+Enter "[!UICONTROL Named Account]" into the search box to find both [!UICONTROL Named Account] triggers.
 
 ![](assets/two-1.png)
 
-Drag the trigger you want onto the canvas. In this example we're using _Added to Named Account_.
+Drag the trigger you want onto the canvas. In this example we're using _[!UICONTROL Added to Named Account]_.
 
 ![](assets/three-1.png)
 
