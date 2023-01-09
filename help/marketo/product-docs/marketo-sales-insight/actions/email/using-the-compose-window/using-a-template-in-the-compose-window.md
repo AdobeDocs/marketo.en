@@ -7,11 +7,11 @@ exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 
 ## Finding and Using Templates {#finding-and-using-templates}
 
-1. Create your email draft (there are multiple ways to do this, in this example we're choosing **Compose** in the header).
+1. Create your email draft (there are multiple ways to do this, in this example we're choosing **[!UICONTROL Compose]** in the header).
 
    ![](assets/using-a-template-in-the-compose-window-1.png)
 
-1. Populate the To field.
+1. Populate the [!UICONTROL To] field.
 
    ![](assets/using-a-template-in-the-compose-window-2.png)
 
@@ -19,7 +19,7 @@ exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
 
-1. Select a category to search in (or select All to search across all categories).
+1. Select a category to search in (or select [!UICONTROL All] to search across all categories).
 
    ![](assets/using-a-template-in-the-compose-window-4.png)
 
@@ -35,19 +35,19 @@ exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 
 Favorite **up to five** specific template categories to gain quick access to your most used templates.
 
-1. Create your email draft (there are multiple ways to do this, in this example we're choosing **Compose** in the header).
+1. Create your email draft (there are multiple ways to do this, in this example we're choosing **[!UICONTROL Compose]** in the header).
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. Click the **+** icon next to Favorites.
+1. Click the **+** icon next to [!UICONTROL Favorites].
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. Click the **Pin a Category** drop-down and select your desired category.
+1. Click the **[!UICONTROL Pin a Category]** drop-down and select your desired category.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
-1. Click **Save Changes** when done (optional: repeat Step 3 to add more).
+1. Click **[!UICONTROL Save Changes]** when done (optional: repeat Step 3 to add more).
 
    ![](assets/using-a-template-in-the-compose-window-9.png)
 
@@ -59,6 +59,6 @@ Favorite **up to five** specific template categories to gain quick access to you
 
    >[!NOTE]
    >
-   >**Favorites** is there by default. It holds favorite email templates, not categories.
+   >**[!UICONTROL Favorites]** is there by default. It holds favorite email templates, not categories.
 
    Your selected category is now pinned.
