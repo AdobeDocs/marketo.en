@@ -3,35 +3,35 @@ description: Syncing Unsubscribes with Salesforce - Marketo Docs - Product Docum
 title: Syncing Unsubscribes with Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 ---
-# Syncing Unsubscribes with Salesforce {#syncing-unsubscribes-with-salesforce}
+# Syncing Unsubscribes with [!DNL Salesforce] {#syncing-unsubscribes-with-salesforce}
 
-## Requirements for Unsubscribes to Sync to Salesforce {#requirements-for-unsubscribes-to-sync-to-salesforce}
+## Requirements for Unsubscribes to Sync to [!DNL Salesforce] {#requirements-for-unsubscribes-to-sync-to-salesforce}
 
 * Unsubscribe Sync must be enabled (for nightly sync)
-* Opt Out field must be installed in Salesforce
-* Person records in Marketo Sales must have a Salesforce ID
+* Opt Out field must be installed in [!DNL Salesforce]
+* Person records in [!DNL Marketo Sales] must have a [!DNL Salesforce] ID
 
 **Push Unsubscribes**
 
-When an unsubscribe is collected in Marketo Sales, we push it to Salesforce in real-time and update either of the Opt Out fields you have selected to sync with. If you've disabled the Salesforce sync, we will still push the unsubscribe over to the email opt out.
+When an unsubscribe is collected in [!DNL Marketo Sales], we push it to [!DNL Salesforce] in real-time and update either of the Opt Out fields you have selected to sync with. If you've disabled the [!DNL Salesforce] sync, we will still push the unsubscribe over to the email opt out.
 
 **Unsubscribe Sync**
 
-When you've enabled the unsubscribe sync (Step 3 below) you'll be turning on the nightly sync. The sync occurs once a day around 8:00 pm PST. It will bidirectionally sync all unsubscribes in MSE/ToutApp with the Opt Out field in Salesforce.
+When you've enabled the unsubscribe sync (Step 3 below) you'll be turning on the nightly sync. The sync occurs once a day around 8:00 pm PST. It will bidirectionally sync all unsubscribes in MSE/ToutApp with the Opt Out field in [!DNL Salesforce].
 
-## Configure Unsubscribe Sync to Salesforce {#configure-unsubscribe-sync-to-salesforce}
+## Configure Unsubscribe Sync to [!DNL Salesforce] {#configure-unsubscribe-sync-to-salesforce}
 
-Users can decide whether they want to sync their unsubscribes with the standard Email Opt Out field that Marketo can also sync with, or they can sync with the Marketo Sales Opt Out field so that Sales unsubscribes and Marketing unsubscribes can be differentiated.
+Users can decide whether they want to sync their unsubscribes with the standard Email Opt Out field that Marketo can also sync with, or they can sync with the [!DNL Marketo Sales] Opt Out field so that Sales unsubscribes and Marketing unsubscribes can be differentiated.
 
-1. Click the gear icon and select **Settings**.
+1. Click the gear icon and select **[!UICONTROL Settings]**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-1.png)
 
-1. Under Admin Settings select **Unsubscribes**.
+1. Under [!UICONTROL Admin Settings] select **[!UICONTROL Unsubscribes]**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-2.png)
 
-1. Click the **Integrations** tab. Under Sync to Salesforce, enable the nightly sync.
+1. Click the **[!UICONTROL Integrations]** tab. Under [!UICONTROL Sync to Salesforce], enable the nightly sync.
 
    ![](assets/syncing-unsubscribes-with-salesforce-3.png)
 
@@ -41,20 +41,20 @@ Users can decide whether they want to sync their unsubscribes with the standard 
 
    | Field | Description |
    |---|---|
-   | **Sync to Salesforce Opt Out field** |Selected by default, only updates Salesforce Opt Out field. |
-   | **Sync to Marketo Sales Opt Out field** |If you want to separate Sales and Marketing unsubscribes, choose this option to update additional [Marketo Sales Opt Out field.](#msoo) |
+   | **Sync to [!DNL Salesforce] Opt Out field** |Selected by default, only updates [!DNL Salesforce] Opt Out field. |
+   | **Sync to [!DNL Marketo Sales] Opt Out field** |If you want to separate Sales and Marketing unsubscribes, choose this option to update additional [[!DNL Marketo Sales] Opt Out field.](#msoo) |
 
 ## Installing the Opt Out field in the Page Layout {#installing-the-opt-out-field-in-the-page-layout}
 
 **Email Opt Out** 
   
-Email Opt Out is a standard field in Salesforce that's available to install from Salesforce. You need to be a Salesforce Admin to install it.
+Email Opt Out is a standard field in [!DNL Salesforce] that's available to install from [!DNL Salesforce]. You need to be a [!DNL Salesforce] Admin to install it.
 
 1. Go to [Salesforce.com](https://salesforce.com) and sign in.
 
    ![](assets/syncing-unsubscribes-with-salesforce-5.png)
 
-1. Click your username and select **Setup**.
+1. Click your username and select **[!UICONTROL Setup]**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-6.png)
 
@@ -62,28 +62,28 @@ Email Opt Out is a standard field in Salesforce that's available to install from
 
    ![](assets/syncing-unsubscribes-with-salesforce-7.png)
 
-1. Select **Page Layouts**.
+1. Select **[!UICONTROL Page Layouts]**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-8.png)
 
-1. Select **Edit** next to the page layout you would like to add the field to.
+1. Select **[!UICONTROL Edit]** next to the page layout you would like to add the field to.
 
    ![](assets/syncing-unsubscribes-with-salesforce-9.png)
 
-1. Select **Fields**.
+1. Select **[!UICONTROL Fields]**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-10.png)
 
-1. Drag and drop Email Opt Out into the page layout.
+1. Drag and drop [!UICONTROL Email Opt Out] into the page layout.
 
    ![](assets/syncing-unsubscribes-with-salesforce-11.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-12.png)
 
 ## Marketo Sales Opt Out {#marketo-sales-opt-out}
 
-The Marketo Sales Opt Out field is a custom field that is available to users that have installed the Marketo Sales Customizations.
+The [!DNL Marketo Sales] Opt Out field is a custom field that is available to users that have installed the [!DNL Marketo Sales] Customizations.
 
-Once you have successfully installed the the Marketo Sales Customizations into Salesforce you will see the Marketo Sales Opt Out field available to you.
+Once you have successfully installed the the [!DNL Marketo Sales] Customizations into [!DNL Salesforce] you will see the [!DNL Marketo Sales] Opt Out field available to you.
