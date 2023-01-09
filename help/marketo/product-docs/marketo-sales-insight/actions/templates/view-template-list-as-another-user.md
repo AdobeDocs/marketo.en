@@ -13,11 +13,11 @@ As an Admin, you can view templates as any user.
 >
 >**Admin Permissions Required**
 
-1. Click **Templates**.
+1. Click **[!UICONTROL Templates]**.
 
    ![](assets/view-template-list-as-another-user-1.png)
 
-1. Click the **View As** drop-down and select the desired user.
+1. Click the **[!UICONTROL View As]** drop-down and select the desired user.
 
    ![](assets/view-template-list-as-another-user-2.png)
 
@@ -27,4 +27,4 @@ As an Admin, you can view templates as any user.
 
    >[!NOTE]
    >
-   >You can also use filters or the search function along with _View As_ to view what is most relevant to you.
+   >You can also use filters or the search function along with _[!UICONTROL View As]_ to view what is most relevant to you.
