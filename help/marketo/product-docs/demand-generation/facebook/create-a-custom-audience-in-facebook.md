@@ -8,13 +8,12 @@ exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 
 >[!PREREQUISITES]
 >
->* [Add Facebook Custom Audiences as a LaunchPoint Service](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) in the Admin section.
->* [Accept Facebook's Custom Audiences Terms](https://www.facebook.com/ads/manage/customaudiences/tos.php) within your Facebook account.
->
+>* [Add Facebook Custom Audiences as a LaunchPoint Service](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} in the Admin section.
+>* [Accept Facebook's Custom Audiences Terms](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} within your Facebook account.
 
 >[!TIP]
 >
->Learn more about [custom audiences in Facebook](https://www.facebook.com/help/341425252616329).
+>Learn more about [custom audiences in Facebook](https://www.facebook.com/help/341425252616329){target="_blank"}.
 
 1. Find and select the smart or static list that contains the leads you want to create the audience from.
 
@@ -48,7 +47,7 @@ exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 
    ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   And that's it! In Facebook you'll see the new audience in **Ads Manager > Audiences**.
+   And that's it! In Facebook you'll see the new audience in **Ads Manager** > **Audiences**.
 
    ![](assets/create-a-custom-audience-in-facebook-7.png)
 
@@ -58,8 +57,8 @@ exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 
    >[!TIP]
    >
-   >See the [Facebook learning path for Marketo customers](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi). It covers everything you need to know, from creating a Facebook page to targeting your Facebook ads using Marketo's ad network integrations.
+   >See the [Facebook learning path for Marketo customers](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}. It covers everything you need to know, from creating a Facebook page to targeting your Facebook ads using Marketo's ad network integrations.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
    >[Add Leads to a Custom Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)

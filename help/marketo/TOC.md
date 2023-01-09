@@ -173,6 +173,7 @@ feature-set: Marketo Engage
       + [Add or Remove a User](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
       + [User Sign-in with Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
     + Settings {#settings}
+      + [Bulk Export API Information](product-docs/administration/settings/bulk-export-api-information.md)
       + [Change Attribution Settings for Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
       + [Change Your Marketo Password](product-docs/administration/settings/change-your-marketo-password.md)
       + [Change your Password Security Settings](product-docs/administration/settings/change-your-password-security-settings.md)
