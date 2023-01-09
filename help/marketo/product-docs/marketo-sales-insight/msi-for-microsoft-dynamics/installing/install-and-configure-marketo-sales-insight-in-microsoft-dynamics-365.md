@@ -4,19 +4,19 @@ description: Install and Configure Marketo Sales Insight in Microsoft Dynamics 3
 title: Install and Configure Marketo Sales Insight in Microsoft Dynamics 365
 exl-id: c1f06b8c-48fd-4015-9502-7c9693632589
 ---
-# Install and Configure Marketo Sales Insight in Microsoft Dynamics 365 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
+# Install and Configure [!DNL Marketo Sales Insight] in [!DNL Microsoft Dynamics 365] {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
-Marketo Sales Insight is a fantastic tool for giving your sales team a "window" into the wealth of data the Marketing team has. Here's how to install and configure.
+[!DNL Marketo Sales Insight] is a fantastic tool for giving your sales team a "window" into the wealth of data the Marketing team has. Here's how to install and configure.
 
 >[!PREREQUISITES]
 >
 >Complete your Marketo-Microsoft integration.
 >
->[Download the correct solution](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) for your version of Microsoft Dynamics CRM.
+>[Download the correct solution](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) for your version of [!DNL Microsoft Dynamics CRM].
 
 ## Import Solution {#import-solution}
 
-1. Log in to [Microsoft Office 365](https://login.microsoftonline.com/).
+1. Log in to [[!DNL Microsoft Office 365]](https://login.microsoftonline.com/).
 
    ![](assets/image2015-3-16-15-58-55.png)
 
@@ -24,7 +24,7 @@ Marketo Sales Insight is a fantastic tool for giving your sales team a "window" 
 
    ![](assets/image2015-3-16-16-0-10.png)
 
-1. Click the ![--](assets/image2015-5-13-10-5-8.png) menu. In the drop-down, select **Settings**, then select **Solutions**.
+1. Click the ![--](assets/image2015-5-13-10-5-8.png) menu. In the drop-down, select **[!DNL Settings]**, then select **[!DNL Solutions]**.
 
    ![](assets/image2015-5-13-10-4-1.png)
 
@@ -32,23 +32,23 @@ Marketo Sales Insight is a fantastic tool for giving your sales team a "window" 
    >
    >You should already have [installed and configured the Marketo solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md) before moving forward.
 
-1. Click **Import**.
+1. Click **[!UICONTROL Import]**.
 
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
-1. In the new window, click **Browse**. Choose the [Marketo Sales Insight solution you downloaded in step 1](#msi). Click **Next**.
+1. In the new window, click **[!UICONTROL Browse]**. Choose the [Marketo Sales Insight solution you downloaded in step 1](#msi). Click **[!UICONTROL Next]**.
 
    ![](assets/image2015-5-13-15-3a38-3a49.png)
 
-1. The solution will upload. You can view the package contents if you like. Click **Next**.
+1. The solution will upload. You can view the package contents if you like. Click **[!UICONTROL Next]**.
 
    ![](assets/image2014-12-12-9-3a6-3a10.png)
 
-1. Make sure to leave the box **checked** and click **Import**.
+1. Make sure to leave the box **[!UICONTROL checked]** and click **[!UICONTROL Import]**.
 
    ![](assets/image2014-12-12-9-3a6-3a19.png)
 
-1. Feel free to download the log file. Click **Close**.
+1. Feel free to download the log file. Click **[!UICONTROL Close]**.
 
    ![](assets/image2014-12-12-9-3a6-3a29.png)
 
@@ -56,27 +56,27 @@ Marketo Sales Insight is a fantastic tool for giving your sales team a "window" 
 
    ![](assets/image2015-5-13-15-3a42-3a29.png)
 
-1. Click **Publish All Customizations**.
+1. Click **[!UICONTROL Publish All Customizations]**.
 
    ![](assets/image2015-11-10-11-3a15-3a40.png)
 
-## Connect Marketo and Sales Insight {#connect-marketo-and-sales-insight}
+## Connect Marketo and [!DNL Sales Insight] {#connect-marketo-and-sales-insight}
 
-Let's tie your Marketo instance to Sales Insight in Dynamics. Here is how:
+Let's tie your Marketo instance to [!DNL Sales Insight] in [!DNL Dynamics]. Here is how:
 
 >[!NOTE]
 >
 >**Admin Permissions Required**
 
-1. Log into Marketo and go to the **Admin** section.
+1. Log into Marketo and go to the **[!UICONTROL Admin]** section.
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. Under the **Sales Insight** section, click **Edit API Configuration**.
+1. Under the **[!UICONTROL Sales Insight]** section, click **Edit API Configuration**.
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Copy the **Marketo Host**, **API URL** and **API User Id** for use in a later step. Enter an **API Secret Key** of your choice and click **Save**.
+1. Copy the **[!UICONTROL Marketo Host]**, **[!UICONTROL API URL]** and **[!UICONTROL API User Id]** for use in a later step. Enter an **[!UICONTROL API Secret Key]** of your choice and click **[!UICONTROL Save]**.
 
    >[!CAUTION]
    >
@@ -86,7 +86,7 @@ Let's tie your Marketo instance to Sales Insight in Dynamics. Here is how:
 
    >[!NOTE]
    >
-   >The following fields must be synced with Marketo for _both Lead and Contact_ for Sales Insight to work:
+   >The following fields must be synced with Marketo for _both Lead and Contact_ for [!DNL Sales Insight] to work:
    >
    > * Priority
    > * Urgency
@@ -94,11 +94,11 @@ Let's tie your Marketo instance to Sales Insight in Dynamics. Here is how:
    >
    >If any of these fields are missing, you will see an error message in Marketo with the name of the missing fields. To fix this, perform [this procedure](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
-1. Back in Microsoft Dynamics, click the ![](assets/image2015-5-13-15-3a49-3a19.png) icon next to Settings, then select **Marketo API Config** in the dropdown.
+1. Back in [!DNL Microsoft Dynamics], click the ![](assets/image2015-5-13-15-3a49-3a19.png) icon next to [!UICONTROL Settings], then select **[!UICONTROL Marketo API Config]** in the dropdown.
 
    ![](assets/image2015-5-13-16-3a4-3a1.png)
 
-1. Click **Default Configuration**.
+1. Click **[!UICONTROL Default Configuration]**.
 
    ![](assets/image2015-5-13-16-3a5-3a2.png)
 
@@ -110,29 +110,29 @@ Let's tie your Marketo instance to Sales Insight in Dynamics. Here is how:
 
 ## Set User Access {#set-user-access}
 
-You need to give users permissions to use Sales Insight.
+You need to give users permissions to use [!DNL Sales Insight].
 
-1. Click the ![](assets/image2015-5-13-10-3a5-3a8.png) menu. In the dropdown menu select **Settings**, then select **Security**.
+1. Click the ![](assets/image2015-5-13-10-3a5-3a8.png) menu. In the dropdown menu select **[!UICONTROL Settings]**, then select **[!UICONTROL Security]**.
 
    ![](assets/image2015-5-13-16-3a12-3a12.png)
 
-1. Click **Users**.
+1. Click **[!UICONTROL Users]**.
 
    ![](assets/image2015-4-29-14-3a57-3a46.png)
 
-1. Select the user(s) you want to give access to Sales Insight to and click **Manage Roles**.
+1. Select the user(s) you want to give access to [!DNL Sales Insight] to and click **[!UICONTROL Manage Roles]**.
 
    ![](assets/image2015-4-29-14-3a59-3a31.png)
 
-1. Select the **Marketo Sales Insight** role and click **OK**.
+1. Select the **[!UICONTROL Marketo Sales Insight]** role and click **[!UICONTROL OK]**.
 
    ![](assets/image2014-12-12-9-3a9-3a22.png)
 
-   And you should be all done! Finally, to test, log into Dynamics as a user who has access to Marketo Sales Insight and look at a lead or contact.
+   And you should be all done! Finally, to test, log into [!DNL Dynamics] as a user who has access to [!DNL Marketo Sales Insight] and look at a lead or contact.
 
    ![](assets/image2015-4-29-15-3a2-3a27.png)
 
-You have now unlocked the power of Marketo Sales Insight for your sales team.
+You have now unlocked the power of [!DNL Marketo Sales Insight] for your sales team.
 
 >[!MORELIKETHIS]
 >
