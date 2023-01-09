@@ -34,19 +34,19 @@ How marketers address these higher expectations around the collection, use, and 
 
 There are two key aspects of the GDPR where marketers needs to review past, current, and future practices. The first is consent by the individual to process their personal data, and the second is accountability, namely being able to demonstrate how the principles of the GDPR are being followed.  
   
-We provide extensive information around consent and accountability within the Marketo platform in our e-book, [GDPR and The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In this article, however, we will focus specifically on the new features in Sales Insight Actions that will help your organization adhere to GDPR rules.
+We provide extensive information around consent and accountability within the Marketo platform in our e-book, [GDPR and The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In this article, however, we will focus specifically on the new features in [!DNL Sales Insight Actions] that will help your organization adhere to GDPR rules.
 
-## GDPR Compliance in Sales Insight Actions {#gdpr-compliance-in-marketo-sales-connect}
+## GDPR Compliance in [!DNL Sales Insight Actions] {#gdpr-compliance-in-marketo-sales-connect}
 
-Sales Insight Actions is a powerful application—part of the Marketo Engagement Platform—that provides a single workflow and view for sales and marketing to collectively drive pipeline faster through collaborative engagement. New functionality in Sales Insight Actions has been created specifically with GDPR compliance in mind. We will outline all three functions and explain how they, when used properly, will help your organization’s GDPR compliance efforts.
+[!DNL Sales Insight Actions] is a powerful application—part of the Marketo Engagement Platform—that provides a single workflow and view for sales and marketing to collectively drive pipeline faster through collaborative engagement. New functionality in [!DNL Sales Insight Actions] has been created specifically with GDPR compliance in mind. We will outline all three functions and explain how they, when used properly, will help your organization’s GDPR compliance efforts.
 
 ## Compliance Card {#compliance-card}
 
-Sales Insight Actions includes a Compliance Card in the Person Detail View to provide key information on a contact’s Authorization Type, as well as their Source Type. This allows users to easily add and track information critical to data privacy, and helps them make more informed decisions on campaign/outreach strategy.
+[!DNL Sales Insight Actions] includes a Compliance Card in the Person Detail View to provide key information on a contact’s Authorization Type, as well as their Source Type. This allows users to easily add and track information critical to data privacy, and helps them make more informed decisions on campaign/outreach strategy.
 
 **Contact Authorization Type**
 
-Within the Compliance Card, users can track the legal basis for processing a contact’s personal data through the Authorization drop-down. Understanding a contact’s authorization type helps Sales Insight Actions users make more informed decisions regarding outreach practices, ensuring that each campaign or engagement is legal and appropriate.  
+Within the Compliance Card, users can track the legal basis for processing a contact’s personal data through the Authorization drop-down. Understanding a contact’s authorization type helps [!DNL Sales Insight Actions] users make more informed decisions regarding outreach practices, ensuring that each campaign or engagement is legal and appropriate.  
   
 Users have numerous options to choose from, including:
 
@@ -60,39 +60,39 @@ Users have numerous options to choose from, including:
 
 **Contact Source Type**
 
-Within the new Compliance Card, users can track the source of a contact. The Source Type defines where a contact’s information came from when initially uploaded into Sales Insight Actions. Understanding a contact’s source type also helps with decisions regarding outreach practices, as well as determining which other systems or locations personal data is stored, ensuring that each engagement is in-line with GDPR legislation.  
+Within the new Compliance Card, users can track the source of a contact. The Source Type defines where a contact’s information came from when initially uploaded into [!DNL Sales Insight Actions]. Understanding a contact’s source type also helps with decisions regarding outreach practices, as well as determining which other systems or locations personal data is stored, ensuring that each engagement is in-line with GDPR legislation.  
   
 Again, users have numerous drop-down options to choose from, including:
 
-* CRM Sync
-* Import
-* Manual Upload
-* Chrome Extension
-* Other
+* [!UICONTROL CRM Sync]
+* [!UICONTROL Import]
+* [!UICONTROL Manual Upload]
+* [!UICONTROL Chrome Extension]
+* [!UICONTROL Other]
 
 **Editing the Compliance Card**
 
-When the Person Detail View is open, click **Edit** in the Compliance Card.
+When the Person Detail View is open, click **[!UICONTROL Edit]** in the Compliance Card.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-1.png)
   
-You will see two drop-downs: Authorization Type and Source Type.  
+You will see two drop-downs: [!UICONTROL Authorization Type] and [!UICONTROL Source Type].  
   
 ![](assets/sales-insight-actions-and-gdpr-compliance-2.png)
   
-If you choose “Consent” as the Authorization Type, two mandatory fields: “Date of Consent” and “Purpose of Processing” will appear. These two fields are not applicable to other options.
+If you choose “Consent” as the [!UICONTROL Authorization Type], two mandatory fields: “[!UICONTROL Date of Consent]” and “[!UICONTROL Purpose of Processing]” will appear. These two fields are not applicable to other options.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-3.png)
   
-If “Other” is chosen for either Authorization Type or Source Type, you may enter text to describe the Source Type.
+If “[!UICONTROL Other]” is chosen for either [!UICONTROL Authorization Type] or [!UICONTROL Source Type], you may enter text to describe the [!UICONTROL Source Type].
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-4.png)
   
 **Bulk Actions**
 
-Sales Insight Actions also allows for updating a contact’s Authorization and Source types in bulk, saving valuable time in the compliance process.  
+[!DNL Sales Insight Actions] also allows for updating a contact’s Authorization and Source types in bulk, saving valuable time in the compliance process.  
   
-When you select one or more contacts from the People page, a dota (three dot menu) appears on the right. Click it, and you'll see Authorization and Source are options. You can set the Authorization or Source of multiple contacts simultaneously.
+When you select one or more contacts from the [!UICONTROL People] page, a dota (three dot menu) appears on the right. Click it, and you'll see Authorization and Source are options. You can set the Authorization or Source of multiple contacts simultaneously.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-5.png)
 
@@ -100,7 +100,7 @@ When you click on the Authorization modal, a pop-up with drop-down options that 
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-6.png)
 
-After the Authorization Type is updated, you'll receive a confirmation pop-up, and you'll be able to see the updated details in the Compliance Card in the Person Detail View.
+After the [!UICONTROL Authorization] Type is updated, you'll receive a confirmation pop-up, and you'll be able to see the updated details in the Compliance Card in the Person Detail View.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-7.png)
 
@@ -112,7 +112,7 @@ After selecting the correct Source Type for your selected contacts, a confirmati
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-9.png)
 
-## Exporting Contact Data From Sales Insight Actions {#exporting-contact-data-from-marketo-sales-connect}
+## Exporting Contact Data From [!DNL Sales Insight Actions] {#exporting-contact-data-from-marketo-sales-connect}
 
 You have the ability to export contact information from the Person Detail View. Exporting will download a .CSV file with the following columns:
 
@@ -124,33 +124,33 @@ You have the ability to export contact information from the Person Detail View. 
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>First Name</td> 
-   <td>Website</td> 
-   <td>Facebook</td> 
+   <td>[!UICONTROL First Name]</td> 
+   <td>[!UICONTROL Website]</td> 
+   <td>[!DNL Facebook]</td> 
   </tr> 
   <tr> 
-   <td>Last Name</td> 
-   <td>Other</td> 
-   <td>Twitter</td> 
+   <td>[!UICONTROL Last Name]</td> 
+   <td>[!UICONTROL Other]</td> 
+   <td>[!DNL Twitter]</td> 
   </tr> 
   <tr> 
-   <td>Company</td> 
-   <td>Updated At</td> 
-   <td>LinkedIn</td> 
+   <td>[!UICONTROL Company]</td> 
+   <td>[!UICONTROL Updated At]</td> 
+   <td>[!DNL LinkedIn]</td> 
   </tr> 
   <tr> 
-   <td>Title</td> 
-   <td>Created At</td> 
-   <td>Exported At</td> 
+   <td>[!UICONTROL Title]</td> 
+   <td>[!UICONTROL Created At]</td> 
+   <td>[!UICONTROL Exported At]</td> 
   </tr> 
   <tr> 
-   <td>Email ID</td> 
-   <td>Salesforce ID</td> 
+   <td>[!UICONTROL Email ID]</td> 
+   <td>[!DNL Salesforce] ID</td> 
    <td><br></td> 
   </tr> 
   <tr> 
-   <td>Phone Number</td> 
-   <td>Person ID</td> 
+   <td>[!UICONTROL Phone Number]</td> 
+   <td>[!UICONTROL Person ID]</td> 
    <td><br></td> 
   </tr> 
  </tbody> 
@@ -160,17 +160,17 @@ You have the ability to export contact information from the Person Detail View. 
 >
 >This can only be done one contact at a time. There is currently no functionality allowing bulk exports of contacts.
 
-To export contact information, click the three vertical dots in the Person Detail View Header and select **Export**. The .CSV file will automatically download.
+To export contact information, click the three vertical dots in the Person Detail View Header and select **[!UICONTROL Export]**. The .CSV file will automatically download.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-10.png)
 
 >[!NOTE]
 >
->The GDPR also requires the ability to delete contacts from the UI, but Sales Insight Actions already possesses this functionality.
+>The GDPR also requires the ability to delete contacts from the UI, but [!DNL Sales Insight Actions] already possesses this functionality.
 
 ## Unsubscribes {#unsubscribes}
 
-One commonly misunderstood area of GDPR involves contacts that unsubscribe from the organization’s database. In order to adhere to new rules around protecting the data of those who choose to unsubscribe, the following functionality has been included in Sales Insight Actions:  
+One commonly misunderstood area of GDPR involves contacts that unsubscribe from the organization’s database. In order to adhere to new rules around protecting the data of those who choose to unsubscribe, the following functionality has been included in [!DNL Sales Insight Actions]:  
   
 **Unsubscribe Links:** Unsubscribe links will be automatically appended to all emails sent from the Sales Connect web application to ensure that contacts are given an accessible way to opt-out.  
 **Unsubscribe Sync:** Users can sync unsubscribes to and from their CRM (Salesforce) to ensure that opt-outs are up-to-date.  
