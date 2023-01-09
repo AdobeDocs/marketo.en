@@ -8,7 +8,7 @@ exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 
 It's easy to see how your push notifications are doing.
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -16,11 +16,11 @@ It's easy to see how your push notifications are doing.
 
    ![](assets/image2015-12-11-13-3a1-3a56.png)
 
-1. Click **View: Summary** and select **Dashboard**.
+1. Click **[!UICONTROL View: Summary]** and select **[!UICONTROL Dashboard]**.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. You can view the Total Sent and Total Taps for iOS and Android in circle graphs. Scroll down to see Tap Decay in bar graphs.
+1. You can view the [!UICONTROL Total Sent] and [!UICONTROL Total Taps] for iOS and Android in circle graphs. Scroll down to see [!UICONTROL Tap Decay] in bar graphs.
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 
