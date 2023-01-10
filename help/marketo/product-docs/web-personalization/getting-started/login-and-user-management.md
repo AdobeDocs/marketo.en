@@ -18,7 +18,7 @@ exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 
    >[!NOTE]
    >
-   >If the [!UICONTRO Web Personalization] (WP) user role already exists, make sure it's configured as shown in Step 4.
+   >If the Web Personalization (WP) user role already exists, make sure it's configured as shown in Step 4.
 
 1. Click **[!UICONTROL New Role]**.
 
@@ -32,7 +32,7 @@ exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
    >
    >To give users permission to access everything in Targeting and Personalization, be sure to select _all_ the checkboxes.
 
-## [!UICONTRO Web Personalization] and Predictive Content User Permissions {#web-personalization-and-predictive-content-user-permissions}
+## [!UICONTROL Web Personalization] and Predictive Content User Permissions {#web-personalization-and-predictive-content-user-permissions}
 
 **[!UICONTROL Targeting and Personalization]**: User has view only permissions, if this permission is only selected.
 
