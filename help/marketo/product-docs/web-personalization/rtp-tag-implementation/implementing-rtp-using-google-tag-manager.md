@@ -10,9 +10,9 @@ To implement your RTP tag please follow the installation instructions below.
 
 1. Log in to your [!DNL Google Tag Manager] account.
 
-1. Add a new [!UICONTROL Tag] > [!UICONTROL Tag Configurations] > [!UICONTROL Custom HTML Tag]**.** Call it **RTP**.
+1. Add a new **[!UICONTROL Tag]** > **[!UICONTROL Tag Configurations]** > **[!UICONTROL Custom HTML Tag].** Call it **RTP**.
 
-1. Log in to your RTP account**.**
+1. Log in to your **RTP account**.
 
 1. Go to **[!UICONTROL Account Settings]**.
 
@@ -24,9 +24,9 @@ To implement your RTP tag please follow the installation instructions below.
   
    ![](assets/image2014-11-30-15-3a20-3a17.png)
 
-1. Copy the RTP JavaScript tag and paste it to the new **[!UICONTROL Custom HTML Tag]** you created (Step 1).
+1. Copy the RTP JavaScript tag and paste it to the new **Custom HTML Tag** you created (Step 1).
 
-1. Click **+[!UICONTROL Add Rule to Fire Tag]**. Select **[!UICONTROL All Pages]**.
+1. Click **[!UICONTROL Add Rule to Fire Tag]**. Select **[!UICONTROL All Pages]**.
 
 1. Click **[!UICONTROL Save]** and [publish the new version](https://support.google.com/tagmanager/answer/2699097?hl=en).
 
