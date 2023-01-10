@@ -4,9 +4,9 @@ description: Priority, Urgency, Relative Score, and Best Bets - Marketo Docs - P
 title: Priority, Urgency, Relative Score, and Best Bets
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 ---
-# Priority, Urgency, Relative Score, and Best Bets {#priority-urgency-relative-score-and-best-bets}
+# Priority, Urgency, Relative Score, and [!DNL Best Bets] {#priority-urgency-relative-score-and-best-bets}
 
-Marketo Sales Insight picks your best leads and contacts based on their priority. A lead or contact's priority has two components -- urgency and relative score.
+[!DNL Marketo Sales Insight] picks your best leads and contacts based on their priority. A lead or contact's priority has two components -- urgency and relative score.
 
 ![](assets/priority-urgency-relative-score-and-best-bets-1.png)
 
@@ -30,9 +30,9 @@ The stars represent relative score -- a measure of how this person's lead score 
 
 If two leads have the same urgency, you can use relative score to tell which one deserves a phone call first. The one with the higher relative score may react more favorably to your offer versus the lower one.
 
-## Best Bets {#best-bets}
+## [!DNL Best Bets] {#best-bets}
 
-Your Best Bets are your leads and contacts with the highest urgency and relative score. Only the leads you own are visible in that list, and the list is updated as lead scores change.
+Your [!DNL Best Bets] are your leads and contacts with the highest urgency and relative score. Only the leads you own are visible in that list, and the list is updated as lead scores change.
 
 >[!NOTE]
 >
