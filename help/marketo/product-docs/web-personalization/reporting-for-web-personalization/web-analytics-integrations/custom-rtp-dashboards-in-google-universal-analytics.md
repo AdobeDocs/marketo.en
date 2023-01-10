@@ -17,7 +17,7 @@ This post explains how to setup RTP dashboards in Google Universal Analytics (GU
 
 ## Setting up a Custom Dashboard {#setting-up-a-custom-dashboard}
 
-1. Log in to Google Analytics. Click on **[!UICONTROL Reporting]** in the top menu. Click **[!UICONTROL Dashboards]** and **[!UICONTROL +New Custom Dashboard]**.
+1. Log in to Google Analytics. Click on **[!UICONTROL Reporting]** in the top menu. Click **[!UICONTROL Dashboards]** and **[!UICONTROL New Dashboard]**.
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
