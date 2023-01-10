@@ -9,35 +9,35 @@ Learn more about the Dynamic Chat integration with Sales Insight.
 
 >[!PREREQUISITES]
 >
->* Your Sales Insight SFDC package must be version [1.9 or higher](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
+>* Your [!DNL Sales Insight] SFDC package must be version [1.9 or higher](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
->* You must have the [Dynamic Chat integration](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} set up
+>* You must have the [[!DNL Dynamic Chat] integration](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} set up
 
-## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
+## [!DNL Marketo Sales Insight] Configuration Tab {#marketo-sales-insight-configuration-tab}
 
-Follow the steps below to to enable the Dynamic Chat integration.
+Follow the steps below to to enable the [!DNL Dynamic Chat] integration.
 
-1. Log in to your Salesforce account, click the + at the end of the tab bar and click **Marketo Sales Insight Config**.
+1. Log in to your [!DNL Salesforce] account, click the + at the end of the tab bar and click **[!DNL Marketo Sales Insight Config]**.
 
-1. Click to unfurl the "Visualforce Panel."
+1. Click to unfurl the "[!UICONTROL Visualforce Panel]."
 
    ![](assets/dynamic-chat-integration-1.png)
 
-1. Select the **Enable Dynamic Chat Data** checkbox.
+1. Select the **[!UICONTROL Enable Dynamic Chat Data]** checkbox.
 
    ![](assets/dynamic-chat-integration-2.png)
 
 ## Feature Overview {#feature-overview}
 
-The following Dynamic Chat activities can be leveraged by Sales Insight users...
+The following [!DNL Dynamic Chat] activities can be leveraged by [!DNL Sales Insight] users...
 
-Engaged Dialogue: Logged in Marketo and populated in Sales Insight when a visitor clicks on a chatbot and engages with the Dialogue.
+Engaged Dialogue: Logged in Marketo and populated in [!DNL Sales Insight] when a visitor clicks on a chatbot and engages with the Dialogue.
 
 * Dialogue Name
 * Page URL
 * Status (Initiated / Dropped / Completed)
 
-Scheduled Appointment: Logged in Marketo and populated in Sales Insight when a visitor successfully schedules an appointment via the chatbot.
+Scheduled Appointment: Logged in Marketo and populated in [!DNL Sales Insight] when a visitor successfully schedules an appointment via the chatbot.
 
 * Dialogue Name
 * Agent
@@ -45,13 +45,13 @@ Scheduled Appointment: Logged in Marketo and populated in Sales Insight when a v
 * Scheduled on (insert date and time stamp)
 * Status (Scheduled, Rescheduled, Cancelled)
 
-Reached Goal: Logged in Marketo and populated in Sales Insight when a visitor reaches a goal in any Dialogue flow.
+Reached Goal: Logged in Marketo and populated in [!DNL Sales Insight] when a visitor reaches a goal in any Dialogue flow.
 
 * Dialogue Name
 * Goal Name
 * Page URL
 
-Interacted with Document: Logged in Marketo and populated in Sales Insight when a visitor interacts with a document shared via the chatbot.
+Interacted with Document: Logged in Marketo and populated in [!DNL Sales Insight] when a visitor interacts with a document shared via the chatbot.
 
 * Dialogue Name
 * Document
@@ -61,7 +61,7 @@ Chat activities are available in Insights Dashboard.
 
    ![](assets/dynamic-chat-integration-3.png)
 
-A Chat tab is available in Lead and Contact panels. It includes Activity Type, Dialogue Name and Date columns.
+A Chat tab is available in Lead and Contact panels. It includes [!UICONTROL Activity Type], [!UICONTROL Dialogue Name] and [!UICONTROL Date] columns.
 
    ![](assets/dynamic-chat-integration-4.png)
 
@@ -69,17 +69,17 @@ You can learn more about an activity type by clicking on it.
 
    ![](assets/dynamic-chat-integration-5.png)
 
-Similarly, Account and Opportunity panels include Name, Activity Type, Dialogue Name and Date columns.
+Similarly, Account and Opportunity panels include [!UICONTROL Name], [!UICONTROL Activity Type], [!UICONTROL Dialogue Name] and [!UICONTROL Date] columns.
 
    ![](assets/dynamic-chat-integration-6.png)
 
-The Chat tab is also included in your Global Marketo tab. It includes three activity types (Engaged Dialogue, Scheduled Appointment, Reached Goal), along with the following columns:
+The Chat tab is also included in your Global Marketo tab. It includes three activity types ([!UICONTROL Engaged Dialogue], [!UICONTROL Scheduled Appointment], [!UICONTROL Reached Goal]), along with the following columns:
 
-* Person
-* Account
-* Activity type (Engaged Dialogue, Scheduled Appointment, Reached Goal)
-* Dialogue Name
-* Date & Time Stamp
+* [!UICONTROL Person]
+* [!UICONTROL Account]
+* [!UICONTROL Activity type] ([!UICONTROL Engaged Dialogue], [!UICONTROL Scheduled Appointment], [!UICONTROL Reached Goal])
+* [!UICONTROL Dialogue Name]
+* [!UICONTROL Date] 
 
 Again, you can learn more about an activity type by clicking on it.
 
@@ -87,7 +87,7 @@ Again, you can learn more about an activity type by clicking on it.
 
 >[!NOTE]
 >
->If the "Enable Dynamic Chat data" checkbox is disabled, the following features will be disabled:
+>If the "[!UICONTROL Enable Dynamic Chat data]" checkbox is disabled, the following features will be disabled:
 >
 >* Row with Chat activities in the Insights Dashboard (smart grid and weekly list view)
 >* Chat tab in the Lead, Contact, Account and Opportunity panels
