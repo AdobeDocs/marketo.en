@@ -36,7 +36,7 @@ On the existing Program and Campaign summary pages, we added the Created Date/Us
 
 ## [!UICONTROL Used By] for Assets {#used-by-for-assets}
 
-We added a new tab to our asset Summary Pages, called [!UICONTROL Used By]!
+We added a new tab to our asset [!UICONTROL Summary] Pages, called [!UICONTROL Used By]!
 
 ![](assets/image2014-9-23-10-3a24-3a5.png)
 
