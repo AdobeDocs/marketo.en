@@ -14,7 +14,7 @@ Many times, sales reps don't have administrative privileges on their laptops, an
 
 >[!NOTE]
 >
->If you don't see the View Enterprise Key button, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) to enable it.
+>If you don't see the [!UICONTROL View Enterprise Key] button, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) to enable it.
 
 1. In My Marketo, click **[!UICONTROL Admin]** and then **[!UICONTROL Sales Insight]**.
 
