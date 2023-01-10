@@ -6,23 +6,23 @@ exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 ---
 # Sales Insight Email Performance Report {#sales-insight-email-performance-report}
 
-View the performance of emails sent through Salesforce, Microsoft Dynamics, or a Gmail or Outlook plug-in.
+View the performance of emails sent through [!DNL Salesforce], [!DNL Microsoft Dynamics], or a Gmail or [!DNL Outlook] plug-in.
 
 ## Generate a Report {#generate-a-report}
 
-1. Click **Analytics**.
+1. Click **[!UICONTROL Analytics]**.
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. Click **Sales Insight Email Performance**.
+1. Click **[!UICONTROL Sales Insight Email Performance]**.
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. Click the **Setup** tab and choose your desired values.
+1. Click the **[!UICONTROL Setup]** tab and choose your desired values.
 
    ![](assets/three.png)
 
-1. Click the **Report** tab.
+1. Click the **[!UICONTROL Report]** tab.
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -36,23 +36,23 @@ View the performance of emails sent through Salesforce, Microsoft Dynamics, or a
 >
 >Click the name of an email to open it in the Email Previewer.
 
-## Group by Sales Rep {#group-by-sales-rep}
+## Group by [!UICONTROL Sales Rep] {#group-by-sales-rep}
 
 You can view this report grouped by Sales rep by changing your settings.
 
-1. Click **Setup**. Double-click **Email**.
+1. Click **[!UICONTROL Setup]**. Double-click **[!UICONTROL Email]**.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. Select Group Emails by **Sales Rep**.
+1. Select Group Emails by **[!UICONTROL Sales Rep]**.
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Click the **Report** tab.
+1. Click the **[!UICONTROL Report]** tab.
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
