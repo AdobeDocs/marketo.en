@@ -45,7 +45,7 @@ If you haven't received an invite email, ask your Marketo administrator to invit
    | [!DNL Outlook] Web App |Not Supported |Not Supported |
    | [!DNL Office] 365* | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
 
-   *[!DNL Office] 365 version: Windows client only (on [!DNL Windows] 10, [!DNL Enterprise] or [!DNL Pro]).
+   *[!DNL Office] 365 version: [!DNL Windows] client only (on [!DNL Windows] 10, [!DNL Enterprise] or [!DNL Pro]).
 
 ## Copy Your Registration Code {#copy-your-registration-code}
 
