@@ -21,7 +21,7 @@ This article explains how to setup RTP custom reports for Google Universal Analy
 
 1. Click on **[!UICONTROL Customization ]** in the top menu.
 
-1. Click **[!UICONTROL +New Custom Report]**.
+1. Click **[!UICONTROL New Custom Report]**.
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
@@ -47,15 +47,15 @@ This article explains how to setup RTP custom reports for Google Universal Analy
 
 1. Duplicate this tab 4 times and name them:
 
-    1. **[!UICONTROL Industry]**
-    1. **[!UICONTROL Group]**
-    1. **[!UICONTROL Category]**
-    1. **[!UICONTROL ABM]**
-    1. **[!UICONTROL Organizations]**
+    1. **Industry**
+    1. **Group**
+    1. **Category**
+    1. **ABM**
+    1. **Organizations**
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. In the **[!UICONTROL Dimension Drill downs]** section set the relevant dimensions for each tab as below.
+1. In the **Dimension Drill downs** section set the relevant dimensions for each tab as below.
 
 <table> 
  <thead> 
@@ -94,7 +94,7 @@ This article explains how to setup RTP custom reports for Google Universal Analy
  </tbody> 
 </table>
 
-1. Do not set any filters and set this report to be available for **All Web Site Data** (or change if relevant to specific Analytics account).
+1. Do not set any filters and set this report to be available for **[!UICONTROL All Web Site Data]** (or change if relevant to specific Analytics account).
 
 1. Click **[!UICONTROL Save]**.
 
@@ -120,15 +120,15 @@ This article explains how to setup RTP custom reports for Google Universal Analy
 
 1. Duplicate this tab 4 times and name them:
 
-    1. **[!UICONTROL All Engagement]**
-    1. **[!UICONTROL Engagement by Industry]**
-    1. **[!UICONTROL Engagement by Group]**
-    1. **[!UICONTROL Engagement by Category]**
-    1. **[!UICONTROL Engagement by ABM]**
+    1. **All Engagement**
+    1. **Engagement by Industry**
+    1. **Engagement by Group**
+    1. **Engagement by Category**
+    1. **Engagement by ABM**
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. In the **[!UICONTROL Dimension Drill downs]** section set the relevant dimensions for each tab as below:
+1. In the **Dimension Drill downs** section set the relevant dimensions for each tab as below:
 
 <table> 
  <thead> 
@@ -212,7 +212,7 @@ This article explains how to setup RTP custom reports for Google Universal Analy
  </tbody> 
 </table>
 
-1. Set this report to be available for **All Web Site Data** (or change if necessary).
+1. Set this report to be available for **[!UICONTROL All Web Site Data]** (or change if necessary).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
