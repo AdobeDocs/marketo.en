@@ -6,7 +6,7 @@ exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 ---
 # Insights Dashboard Feature Overview {#insights-dashboard-feature-overview}
 
-Learn more about the features available in your Sales Insights dashboard.
+Learn more about the features available in your [!DNL Sales Insights] dashboard.
 
 >[!PREREQUISITES]
 >
@@ -19,7 +19,7 @@ Learn more about the features available in your Sales Insights dashboard.
 **Engagement Velocity Grid**
 
 * This smart grid includes Interesting Moments, Email and Web Activity in the last 90 days
-* User can choose to “Show Account” activity, this will layer all account level Interesting Moments, Email and Web Activity in the contact view
+* User can choose to “[!UICONTROL Show Account]” activity, this will layer all account level Interesting Moments, Email and Web Activity in the contact view
 * User can highlight specific week in order to see activities within that week
 * Default View: Current week is selected
 
@@ -40,7 +40,7 @@ Email Campaigns tab:
 * Not specific to the contact/lead (i.e., list of campaigns is a generic list of all email campaigns scheduled in the Marketo instance). The list of campaigns across all lead, contact, account, and opportunity panels will be the same
 * If campaign recurrence is such that it runs more than three times in the next 90 days, only the next three runs will be shown at any given point in time (similar to the behavior in Marketo)
 * The activity details card in this section will have a preview option. If the flow includes multiple send email steps, all emails will be available to preview. Within the send email flow step, if there are multiple “email choices”, the default option will be available for preview
-* Filters include “Search” and “Date Range”
+* Filters include “[!UICONTROL Search]” and “[!UICONTROL Date Range]”
 
 ![](assets/insights-dashboard-feature-overview-2.png)
 
@@ -51,7 +51,7 @@ Event tab:
 * Selecting invited events will show events that specific contact has been invited to, along with member status
 * Selecting all events will show list of events scheduled within the next 90 days
 * Activity details card in this section has preview option
-* Filter includes “Search”, “Show only invited events”, and “Date Range”
+* Filter includes “[!UICONTROL Search]”, “[!UICONTROL Show only invited events]”, and “[!UICONTROL Date Range]”
 
 ![](assets/insights-dashboard-feature-overview-3.png)
 
@@ -62,7 +62,7 @@ Event tab:
 * This smart grid includes Interesting Moments, Email and Web Activity in the last 90 days
 * User can highlight specific week in order to see activities within that week
 * Default View: Current week is selected
-* “Show Account Activity” feature is not available on leads since it is not a part of any account in Salesforce until it gets converted to a contact
+* “[!UICONTROL Show Account Activity]” feature is not available on leads since it is not a part of any account in [!DNL Salesforce] until it gets converted to a contact
 
 **Engagement Drill Down and Summary**
 
@@ -81,7 +81,7 @@ Email Campaigns tab:
 * Not specific to the contact/lead (i.e., list of campaigns is a generic list of all email campaigns scheduled in the Marketo instance). The list of campaigns across all lead, contact, account, and opportunity panels will be the same
 * If campaign recurrence is such that it runs more than three times in the next 90 days, only the next three runs will be shown at any given point in time (similar to the behavior in Marketo)
 * The activity details card in this section will have a preview option. If the flow includes multiple send email steps, all emails will be available to preview. Within the send email flow step, if there are multiple “email choices”, the default option will be available for preview
-* Filters include “Search” and “Date Range”
+* Filters include “[!UICONTROL Search]” and “[!UICONTROL Date Range]”
 
 ![](assets/insights-dashboard-feature-overview-4.png)
 
@@ -92,7 +92,7 @@ Event tab:
 * Selecting invited events will show events that specific contact has been invited to, along with member status
 * Selecting all events will show list of events scheduled within the next 90 days
 * Activity details card in this section has preview option
-* Filter includes “Search”, “Show only invited events”, and “Date Range”
+* Filter includes “[!UICONTROL Search]”, “[!UICONTROL Show only invited events]”, and “[!UICONTROL Date Range]”
 
 ![](assets/insights-dashboard-feature-overview-5.png)
 
@@ -121,7 +121,7 @@ Email Campaigns tab:
 * Not specific to the contact/lead (i.e., list of campaigns is a generic list of all email campaigns scheduled in the Marketo instance). The list of campaigns across all lead, contact, account, and opportunity panels will be the same
 * If campaign recurrence is such that it runs more than three times in the next 90 days, only the next three runs will be shown at any given point in time (similar to the behavior in Marketo)
 * The activity details card in this section will have a preview option. If the flow includes multiple send email steps, all emails will be available to preview. Within the send email flow step, if there are multiple “email choices”, the default option will be available for preview
-* Filters include “Search” and “Date Range”
+* Filters include “[!UICONTROL Search]” and “[!UICONTROL Date Range]”
 
 Event tab:
 
@@ -130,7 +130,7 @@ Event tab:
 * Selecting invited events will show events that specific contact has been invited to, along with member status
 * Selecting all events will show list of events scheduled within the next 90 days
 * Activity details card in this section has preview option
-* Filter includes “Search”, “Show only invited events”, and “Date Range”
+* Filter includes “[!UICONTROL Search]”, “[!UICONTROL Show only invited events]”, and “[!UICONTROL Date Range]”
 
 ## Opportunity Layout {#opportunity-layout}
 
@@ -155,7 +155,7 @@ Event tab:
 * Not specific to the contact/lead (i.e., list of campaigns is a generic list of all email campaigns scheduled in the Marketo instance). The list of campaigns across all lead, contact, account, and opportunity panels will be the same
 * If campaign recurrence is such that it runs more than three times in the next 90 days, only the next three runs will be shown at any given point in time (similar to the behavior in Marketo)
 * The activity details card in this section will have a preview option. If the flow includes multiple send email steps, all emails will be available to preview. Within the send email flow step, if there are multiple “email choices”, the default option will be available for preview
-* Filters include “Search” and “Date Range”
+* Filters include “[!UICONTROL Search]” and “[!UICONTROL Date Range]”
 
 Event tab:
 
@@ -164,8 +164,8 @@ Event tab:
 * Selecting invited events will show events that specific contact has been invited to, along with member status
 * Selecting all events will show list of events scheduled within the next 90 days
 * Activity details card in this section has preview option
-* Filter includes “Search”, “Show only invited events”, and “Date Range”
+* Filter includes “[!UICONTROL Search]”, “[!UICONTROL Show only invited events]”, and “[!UICONTROL Date Range]”
 
 >[!NOTE]
 >
->If your Account or Opportunity has more than 800 contacts, the dashboard will not display any data. However, you can go to individual contacts to see their insights and engagement. If your Account has more than 800 contacts, "Show Account Level Activity" will be disabled.
+>If your Account or Opportunity has more than 800 contacts, the dashboard will not display any data. However, you can go to individual contacts to see their insights and engagement. If your Account has more than 800 contacts, "[!UICONTROL Show Account Level Activity]" will be disabled.
