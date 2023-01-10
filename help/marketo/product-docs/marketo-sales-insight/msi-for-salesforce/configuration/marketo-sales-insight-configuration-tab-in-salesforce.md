@@ -4,11 +4,11 @@ description: Marketo Sales Insight Configuration Tab in Salesforce - Marketo Doc
 title: Marketo Sales Insight Configuration Tab in Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 ---
-# Marketo Sales Insight Configuration Tab in Salesforce {#marketo-sales-insight-configuration-tab-in-salesforce}
+# [!DNL Marketo Sales Insight] Configuration Tab in [!DNL Salesforce] {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## Operational Settings {#operational-settings}
 
-You will need to have this set up in order to start using Sales Insight in SFDC.
+You will need to have this set up in order to start using [!DNL Sales Insight] in SFDC.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-1.png)
 
@@ -35,7 +35,7 @@ Configurations are applicable to all MSI users and are not specific to profiles.
 
 **Marketo Global Tab**
 
-* RSS Feed Enabled: When enabled, MSI users can view their Lead Feed in an RSS feed (in addition to the Lead Feed in Salesforce). The RSS feed can only function if the “Token Expiration” feature is disabled. This setting is controlled in your Marketo Sales Insight Admin page.
+* RSS Feed Enabled: When enabled, MSI users can view their Lead Feed in an RSS feed (in addition to the Lead Feed in Salesforce). The RSS feed can only function if the “Token Expiration” feature is disabled. This setting is controlled in your [!DNL Marketo Sales Insight] Admin page.
 * Best Bets Debug Mode
 * Default Hide: The option you choose here will be the number of days a best bet will be hidden in the Best Bets tab in Marketo when you click the “Hide” icon
 * Contact Status Field: The option you choose here will be the value that’s populated in the Status Header column in the Best Bets tab in Marketo
@@ -56,7 +56,7 @@ Configurations are applicable to all MSI users and are not specific to profiles.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-4.png)
 
-## Reset Marketo Sales Insight {#reset-marketo-sales-insight}
+## Reset [!DNL Marketo Sales Insight] {#reset-marketo-sales-insight}
 
 Choosing to do so will wipe all your configurations in SFDC and they cannot be restored. You will have to re-configure everything again.
 
@@ -64,7 +64,7 @@ Choosing to do so will wipe all your configurations in SFDC and they cannot be r
 
 >[!IMPORTANT]
 >
->Do not select the "Enable MSI Actions" checkbox unless you’re using Sales Insights Actions features.
+>Do not select the "[!UICONTROL Enable MSI Actions]" checkbox unless you’re using [!DNL Sales Insights] Actions features.
 
 >[!MORELIKETHIS]
 >
