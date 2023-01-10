@@ -1,20 +1,20 @@
 ---
 unique-page-id: 45417125
-description: Sales Insight for Non-Native Salesforce Integrations - Marketo Docs - Product Documentation
-title: Sales Insight for Non-Native Salesforce Integrations
+description: "[!DNL Sales Insight] for Non-Native [!DNL Salesforce] Integrations - Marketo Docs - Product Documentation"
+title: "[!DNL Sales Insight] for Non-Native [!DNL Salesforce] Integrations"
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
 ---
-# Sales Insight for Non-Native Salesforce Integrations {#sales-insight-for-non-native-salesforce-integrations}
+# [!DNL Sales Insight] for Non-Native [!DNL Salesforce] Integrations {#sales-insight-for-non-native-salesforce-integrations}
 
-If your Adobe Marketo Engage account is connected to Salesforce through a customized or non-native integration, use this article to configure Sales Insight.
+If your Adobe Marketo Engage account is connected to [!DNL Salesforce] through a customized or non-native integration, use this article to configure [!DNL Sales Insight].
 
 >[!PREREQUISITES]
 >
 >* The “MSI Non-Native” feature enabled for your Marketo instance before you start setting up MSI (if it isn’t and you already purchased the feature, please contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} - if you have not yet purchased this feature, contact your Customer Success Manager).
->* A Salesforce account with [MSI Package set up](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+>* A [!DNL Salesforce] account with [MSI Package set up](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 >* Marketo REST API [successfully set up](https://developers.marketo.com/rest-api/){target="_blank"}. The exposed CRUD APIs will be the basis of performing the non-native sync.
 >* Read [this blog post](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} in order to get an understanding of the object and relationships.
->* Set up Salesforce objects to display the 18 character case-insensitive globally unique identifier rather than the 15 character case-sensitive globally unique identifier.
+>* Set up [!DNL Salesforce] objects to display the 18 character case-insensitive globally unique identifier rather than the 15 character case-sensitive globally unique identifier.
 
 >[!NOTE]
 >
@@ -22,9 +22,9 @@ If your Adobe Marketo Engage account is connected to Salesforce through a custom
 
 ## Successful non-native sync for MSI requires the following {#successful-non-native-sync-for-msi-requires-the-following}
 
-1. Sync the Salesforce Sales User to Marketo.
+1. Sync the [!DNL Salesforce] Sales User to Marketo.
 
-   The Salesforce Sales User is an external user that owns the Leads/Contacts in Salesforce. A Marketo Sales Person needs to be upserted for the Salesforce Sales User. The *externalSalesPersonId* field is mandated for the upsert of the Sales Person.
+   The [!DNL Salesforce] Sales User is an external user that owns the Leads/Contacts in [!DNL Salesforce]. A Marketo Sales Person needs to be upserted for the [!DNL Salesforce] Sales User. The *externalSalesPersonId* field is mandated for the upsert of the Sales Person.
 
    <table> 
     <colgroup> 
@@ -35,13 +35,13 @@ If your Adobe Marketo Engage account is connected to Salesforce through a custom
     <tbody> 
      <tr> 
       <td><strong>Marketo Sales Person Field</strong></td> 
-      <td><strong>Salesforce Sales User Field</strong></td> 
+        <td><strong><span class="dnl">Salesforce</span> Sales User Field</strong></td> 
       <td><strong>Description</strong></td> 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
-      <td>Salesforce Sales User case-insensitive globally unique identifier</td> 
-      <td><p>Identifies the Marketo Sales Person record to an external Salesforce Sales User object.</p><p>It's mandated that the Sales Person be synced first before syncing the other objects so that the proper relationships will be created.</p></td> 
+        <td><span class="dnl">Salesforce</span> Sales User case-insensitive globally unique identifier</td> 
+      <td><p>Identifies the Marketo Sales Person record to an external <span class="dnl">Salesforce</span> Sales User object.</p><p>It's mandated that the Sales Person be synced first before syncing the other objects so that the proper relationships will be created.</p></td> 
      </tr> 
     </tbody> 
    </table>
@@ -49,9 +49,9 @@ If your Adobe Marketo Engage account is connected to Salesforce through a custom
    * API documentation for Sales Person: [https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/){target="_blank"}  
    * API documentation for syncing the Sales Person: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST){target="_blank"}
 
-1. Sync the Salesforce Accounts to Marketo.
+1. Sync the [!DNL Salesforce] Accounts to Marketo.
 
-   A Marketo Company will need to be upserted for the Salesforce Account. The _externalCompanyId_ and _externalSalesPersonId_ fields are mandated for the upsert of the Company.
+   A Marketo Company will need to be upserted for the [!DNL Salesforce] Account. The _externalCompanyId_ and _externalSalesPersonId_ fields are mandated for the upsert of the Company.
 
    <table> 
     <colgroup> 
@@ -62,18 +62,18 @@ If your Adobe Marketo Engage account is connected to Salesforce through a custom
     <tbody> 
      <tr> 
       <td><strong>Marketo Company Field</strong></td> 
-      <td><strong>Salesforce Account Field</strong></td> 
+        <td><strong><span class="dnl">Salesforce</span> Account Field</strong></td> 
       <td><strong>Description</strong></td> 
      </tr> 
      <tr> 
       <td>externalCompanyId</td> 
-      <td>Salesforce Account case-insensitive globally unique identifier</td> 
-      <td>Identifies a Marketo Company record to an external Salesforce Account object.</td> 
+        <td><span class="dnl">Salesforce</span> Account case-insensitive globally unique identifier</td> 
+        <td>Identifies a Marketo Company record to an external <span class="dnl">Salesforce</span> Account object.</td> 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
-      <td>Salesforce Sales User case-insensitive globally unique identifier</td> 
-      <td>Identifies a Marketo Company record to an external Salesforce Sales User object who is the Account owner.<br><br>Also used within Marketo to associate the Company to the Sales Person who owns the Company record. It is mandated to have the Sales Person synced first before setting this field.</td> 
+        <td><span class="dnl">Salesforce</span> Sales User case-insensitive globally unique identifier</td> 
+        <td>Identifies a Marketo Company record to an external <span class="dnl">Salesforce</span> Sales User object who is the Account owner.<br><br>Also used within Marketo to associate the Company to the Sales Person who owns the Company record. It is mandated to have the Sales Person synced first before setting this field.</td> 
      </tr> 
     </tbody> 
    </table>
@@ -81,9 +81,9 @@ If your Adobe Marketo Engage account is connected to Salesforce through a custom
    * API documentation for Companies: [https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/){target="_blank"}  
    * API documentation for syncing Companies: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST){target="_blank"}
 
-1. Sync the Salesforce Leads/Contacts to Marketo.
+1. Sync the [!DNL Salesforce] Leads/Contacts to Marketo.
 
-   You will need to upsert a Marketo Lead for the Salesforce Lead/Contact. The _externalPersonId_, _externalSalesPersonId_, and _externalCompanyId_ fields are mandated for the upsert of the Lead.
+   You will need to upsert a Marketo Lead for the [!DNL Salesforce] Lead/Contact. The _externalPersonId_, _externalSalesPersonId_, and _externalCompanyId_ fields are mandated for the upsert of the Lead.
 
    <table> 
     <colgroup> 
@@ -94,23 +94,23 @@ If your Adobe Marketo Engage account is connected to Salesforce through a custom
     <tbody> 
      <tr> 
       <td><strong>Marketo Lead Field</strong></td> 
-      <td><strong>Salesforce Lead/Contact Field</strong></td> 
+        <td><strong><span class="dnl">Salesforce</span> Lead/Contact Field</strong></td> 
       <td><strong>Description</strong></td> 
      </tr> 
      <tr> 
       <td>externalPersonId</td> 
-      <td>Salesforce Lead/Contact case-insensitive globally unique identifier</td> 
-      <td>Identifies the Marketo Lead record to an external Salesforce Lead/Contact object.<br><br>This is a new field that is introduced for MSI Non-Native.</td> 
+        <td><span class="dnl">Salesforce</span> Lead/Contact case-insensitive globally unique identifier</td> 
+        <td>Identifies the Marketo Lead record to an external <span class="dnl">Salesforce</span> Lead/Contact object.<br><br>This is a new field that is introduced for MSI Non-Native.</td> 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
-      <td>Salesforce Sales User case-insensitive globally unique identifier</td> 
-      <td>Identifies the external Salesforce Sales User object who owns this Lead/Contact.<br><br>Also relates the Lead with the Sales Person in Marketo. It is mandated to have the Sales Person correctly synced first.</td> 
+        <td><span class="dnl">Salesforce</span> Sales User case-insensitive globally unique identifier</td> 
+        <td>Identifies the external <span class="dnl">Salesforce</span> Sales User object who owns this Lead/Contact.<br><br>Also relates the Lead with the Sales Person in Marketo. It is mandated to have the Sales Person correctly synced first.</td> 
      </tr> 
      <tr> 
       <td>externalCompanyId</td> 
-      <td>Salesforce Account case-insensitive globally unique identifier</td> 
-      <td>Identifies the external Salesforce Account object that the Lead/Contact belongs to.<br><br>Also relates the lead record to a Company in Marketo. It is mandated that the Salesforce Account be correctly synced first.</td> 
+        <td><span class="dnl">Salesforce</span> Account case-insensitive globally unique identifier</td> 
+        <td>Identifies the external <span class="dnl">Salesforce</span> Account object that the Lead/Contact belongs to.<br><br>Also relates the lead record to a Company in Marketo. It is mandated that the Salesforce Account be correctly synced first.</td> 
      </tr> 
     </tbody> 
    </table>
@@ -118,9 +118,9 @@ If your Adobe Marketo Engage account is connected to Salesforce through a custom
    * API documentation for Leads: [https://developers.marketo.com/rest-api/lead-database/leads/](https://developers.marketo.com/rest-api/lead-database/leads/)  
    * API documentation for syncing Leads: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
 
-1. Sync Salesforce Opportunities to Marketo.
+1. Sync [!DNL Salesforce] Opportunities to Marketo.
 
-   You will need to upsert a Marketo Opportunity for the Salesforce Opportunity. The _externalOpportunityId_, _externalCompanyId_, and _externalSalesPersonId_ fields are mandated for the upsert of the Opportunity.
+   You will need to upsert a Marketo Opportunity for the [!DNL Salesforce] Opportunity. The _externalOpportunityId_, _externalCompanyId_, and _externalSalesPersonId_ fields are mandated for the upsert of the Opportunity.
 
    <table> 
     <colgroup> 
@@ -131,7 +131,7 @@ If your Adobe Marketo Engage account is connected to Salesforce through a custom
     <tbody> 
      <tr> 
       <td><strong>Marketo Opportunity Object Field</strong></td> 
-      <td><strong>Salesforce Opportunity Object Field</strong></td> 
+        <td><strong><span class="dnl">Salesforce</span> Opportunity Object Field</strong></td> 
       <td><strong>Description</strong></td> 
      </tr> 
      <tr> 
@@ -141,13 +141,13 @@ If your Adobe Marketo Engage account is connected to Salesforce through a custom
      </tr> 
      <tr> 
       <td>externalCompanyId</td> 
-      <td>Salesforce Account case-insensitive globally unique identifier</td> 
-      <td>Identifies the external Salesforce Account object which this Opportunity belongs to. <br><br>It is mandated that the Salesforce Account be correctly synced first.</td> 
+        <td><span class="dnl">Salesforce</span> Account case-insensitive globally unique identifier</td> 
+        <td>Identifies the external <span class="dnl">Salesforce</span> Account object which this Opportunity belongs to. <br><br>It is mandated that the <span class="dnl">Salesforce</span> Account be correctly synced first.</td> 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
-      <td>Salesforce Sales User case-insensitive globally unique identifier</td> 
-      <td>Identifies the external Salesforce Sales User object who owns this Opportunity. </td> 
+        <td><span class="dnl">Salesforce</span> Sales User case-insensitive globally unique identifier</td> 
+        <td>Identifies the external <span class="dnl">Salesforce</span> Sales User object who owns this Opportunity. </td> 
      </tr> 
     </tbody> 
    </table>
@@ -155,9 +155,9 @@ If your Adobe Marketo Engage account is connected to Salesforce through a custom
    * API documentation for Opportunity: [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}  
    * API documentation for syncing Opportunities: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST){target="_blank"}
 
-1. Sync Salesforce Contact Roles to Marketo.
+1. Sync [!DNL Salesforce] Contact Roles to Marketo.
 
-   Salesforce Contact Roles for a Salesforce Opportunity can be then synced via the Marketo Opportunity Role. The Opportunity Role record mandates the _externalOpportunityId_, _role_, and _leadId_ fields.
+   [!DNL Salesforce] Contact Roles for a [!DNL Salesforce] Opportunity can be then synced via the Marketo Opportunity Role. The Opportunity Role record mandates the _externalOpportunityId_, _role_, and _leadId_ fields.
 
    <table> 
     <colgroup> 
@@ -173,17 +173,17 @@ If your Adobe Marketo Engage account is connected to Salesforce through a custom
      </tr> 
      <tr> 
       <td>externalOpportunityId</td> 
-      <td>Salesforce Opportunity case-insensitive globally unique identifier</td> 
-      <td>Identifies the Marketo Opportunity Role to an external Salesforce Opportunity object.<br><br>It is mandated that the Salesforce Opportunity be correctly synced first.</td> 
+        <td><span class="dnl">Salesforce</span> Opportunity case-insensitive globally unique identifier</td> 
+        <td>Identifies the Marketo Opportunity Role to an external <span class="dnl">Salesforce</span> Opportunity object.<br><br>It is mandated that the <span class="dnl">Salesforce</span> Opportunity be correctly synced first.</td> 
      </tr> 
      <tr> 
       <td>leadId</td> 
       <td>N/A, this would be a Marketo Lead ID</td> 
-      <td>This would be the Marketo Lead ID of the synced Salesforce Contact.<br><br>Once the contact is synced in Marketo, you can use the Salesforce Contact case-insensitive globally unique identifier as the externalPersonId and query for the Marketo Lead using the Marketo REST API.</td> 
+        <td>This would be the Marketo Lead ID of the synced <span class="dnl">Salesforce</span> Contact.<br><br>Once the contact is synced in Marketo, you can use the <span class="dnl">Salesforce</span> Contact case-insensitive globally unique identifier as the externalPersonId and query for the Marketo Lead using the Marketo REST API.</td> 
      </tr> 
      <tr> 
       <td>role</td> 
-      <td>The Role field for the Salesforce Contact</td> 
+        <td>The Role field for the <span class="dnl">Salesforce</span> Contact</td> 
       <td>Describes the role of the contact for this opportunity.</td> 
      </tr> 
     </tbody> 
@@ -194,14 +194,14 @@ If your Adobe Marketo Engage account is connected to Salesforce through a custom
 
 1. Sync Last Interesting Moment/MSI Scoring fields to SFDC.
 
-   Once your Salesforce objects are correctly synced to Marketo, you can then take advantage of the MSI features. The MSI Last Interesting Moment/Scoring fields will be exposed in the REST API for Leads. These fields are calculated by MSI and are read-only.  
+   Once your [!DNL Salesforce] objects are correctly synced to Marketo, you can then take advantage of the MSI features. The MSI Last Interesting Moment/Scoring fields will be exposed in the REST API for Leads. These fields are calculated by MSI and are read-only.  
   
-   The Last Interesting Moment/Scoring fields of a Marketo Lead will need to be regularly synced to Salesforce by using the REST API Lead endpoint. Query this endpoint for a Marketo Lead using the _externalPersonId_ as the filterType and passing in the Salesforce Lead GUID as the filterValue.
+   The Last Interesting Moment/Scoring fields of a Marketo Lead will need to be regularly synced to [!DNL Salesforce] by using the REST API Lead endpoint. Query this endpoint for a Marketo Lead using the _externalPersonId_ as the filterType and passing in the [!DNL Salesforce] Lead GUID as the filterValue.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&filterValues=salesforceLeadId1,salesforceLeadId2  |
    |---|
 
-   You can then use the values of these fields to sync to your Salesforce Lead/Contact object.
+   You can then use the values of these fields to sync to your [!DNL Salesforce] Lead/Contact object.
 
    <table> 
     <colgroup> 
@@ -212,7 +212,7 @@ If your Adobe Marketo Engage account is connected to Salesforce through a custom
     <tbody> 
      <tr> 
       <td><strong>Marketo Lead Field</strong></td> 
-      <td><strong>Salesforce Lead/Contact Field</strong></td> 
+        <td><strong><span class="dnl">Salesforce</span> Lead/Contact Field</strong></td> 
       <td><strong>Description</strong></td> 
      </tr> 
      <tr> 
@@ -255,4 +255,4 @@ If your Adobe Marketo Engage account is connected to Salesforce through a custom
 
    Documentation for the Lead REST API: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET){target="_blank"}.
 
-   Proper use of the external fields is key to a successful non-native sync. If you fail to see data in some of the views, it is likely that a certain field was not correctly synced. For example, if a lead’s activities and interesting moments don’t show up when looking in the MSI widget under their Account, it is likely that either the lead’s company or the Account was not correctly synced. Performing a GET request for this lead while specifying the external fields will help you verify whether the lead was correctly synced. Moreover, the email for the external sales person in Marketo must match the email for that user in Salesforce. Data may not show in the Marketo tab in Salesforce if the emails do not match.
+   Proper use of the external fields is key to a successful non-native sync. If you fail to see data in some of the views, it is likely that a certain field was not correctly synced. For example, if a lead’s activities and interesting moments don’t show up when looking in the MSI widget under their Account, it is likely that either the lead’s company or the Account was not correctly synced. Performing a GET request for this lead while specifying the external fields will help you verify whether the lead was correctly synced. Moreover, the email for the external sales person in Marketo must match the email for that user in [!DNL Salesforce]. Data may not show in the Marketo tab in [!DNL Salesforce] if the emails do not match.
