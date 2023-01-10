@@ -4,13 +4,13 @@ description: Set Score Fields to be used for Stars and Flames in Sales Insight -
 title: Set Score Fields to be used for Stars and Flames in Sales Insight
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 ---
-# Set Score Fields to be used for Stars and Flames in Sales Insight {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
+# Set Score Fields to be used for [!UICONTROL Stars] and [!UICONTROL Flames] in [!DNL Sales Insight] {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
 >[!NOTE]
 >
 >**Admin Permissions Required**
 
-By default, Marketo Sales Insight uses the **Lead Score** field to calculate stars and flames. But if you want to pick a different field, here's how:
+By default, [!DNL Marketo Sales Insight] uses the **[!UICONTROL Lead Score]** field to calculate stars and flames. But if you want to pick a different field, here's how:
 
 >[!TIP]
 >
@@ -20,33 +20,33 @@ By default, Marketo Sales Insight uses the **Lead Score** field to calculate sta
 >
 >**Definition**
 >
->* **Stars**: Stars represent total lead score compared with other leads.
->* **Flames**: Flames represent the urgency - how much a lead's score has changed recently.
+>* **[!UICONTROL Stars]**: Stars represent total lead score compared with other leads.
+>* **[!UICONTROL Flames]**: Flames represent the urgency - how much a lead's score has changed recently.
 >
 
-1. Under **Admin**, click **Sales Insight**.
+1. Under **[!UICONTROL Admin]**, click **[!UICONTROL Sales Insight]**.
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. Under **Lead Scoring Settings**, click on **Edit**.
+1. Under **[!UICONTROL Lead Scoring Settings]**, click on **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
-1. Select the field you want to use for **Stars**.
+1. Select the field you want to use for **[!UICONTROL Stars]**.
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. Select the field you want to use for **Flames**.
+1. Select the field you want to use for **[!UICONTROL Flames]**.
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
    >[!NOTE]
    >
-   >Sales insight will take some time to re-calculate. You can check your CRM later to see the stars and flames.
+   >[!DNL Sales insight] will take some time to re-calculate. You can check your CRM later to see the stars and flames.
 
    >[!MORELIKETHIS]
    >
