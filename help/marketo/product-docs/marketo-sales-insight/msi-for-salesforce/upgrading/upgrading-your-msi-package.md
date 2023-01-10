@@ -8,15 +8,15 @@ exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 
 1. Navigate to [this page in the appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}.
 
-1. Log in to your Salesforce instance (the one connected to your Marketo instance, can be sandbox or production) from the top-right corner in the page from Step One. You must have Admin privileges to install/upgrade a managed package in Salesforce.
+1. Log in to your [!DNL Salesforce] instance (the one connected to your Marketo instance, can be sandbox or production) from the top-right corner in the page from Step One. You must have Admin privileges to install/upgrade a managed package in [!DNL Salesforce].
 
-1. Click the **Get It Now** button. You'll be asked to choose where you’d like to install. You'll be given the option to upgrade since you already have a previous version of MSI. Choose an option based on the account you logged into during Step One.
+1. Click the **[!UICONTROL Get It Now]** button. You'll be asked to choose where you’d like to install. You'll be given the option to upgrade since you already have a previous version of MSI. Choose an option based on the account you logged into during Step One.
 
    >[!TIP]
    >
    >We recommend you test this on your sandbox instance before upgrading your production instance.
 
-1. You can upgrade the package by choosing “Install for Admins Only” (and provide MSI access to specific profiles later), “Install for All Users,” or, “Install for Specific Profiles.” In this example we're choosing Admins Only. When you've made your selection, click **Upgrade**.
+1. You can upgrade the package by choosing “[!UICONTROL Install for Admins Only]” (and provide MSI access to specific profiles later), “[!UICONTROL Install for All Users],” or, “[!UICONTROL Install for Specific Profiles].” In this example we're choosing Admins Only. When you've made your selection, click **[!UICONTROL Upgrade]**.
 
    ![](assets/four.png)
 
