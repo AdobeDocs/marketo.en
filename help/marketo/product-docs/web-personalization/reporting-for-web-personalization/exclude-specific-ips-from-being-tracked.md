@@ -18,7 +18,7 @@ You can exclude individual IPs and all or part of a range of IPs.
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
-1. Scroll down to the **[!UICONTROL IP exclude]** area. If you're excluding IP addresses for the first time, click in the empty **[!UICONTROL Exclude IP Addresses]** field.
+1. Scroll down to the **[!UICONTROL IP Exclude]** area. If you're excluding IP addresses for the first time, click in the empty **[!UICONTROL Exclude IP Addresses]** field.
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 
@@ -28,9 +28,9 @@ You can exclude individual IPs and all or part of a range of IPs.
 
    >[!NOTE]
    >
-   >You can exclude a single [!DNL IPv4] or [!DNL IPv6] address, or a full range, semi range, or by subnet mask. The items in the example above show one of each, based on the examples provided in the Marketo form itself.
+   >You can exclude a single IPv4 or IPv6 address, or a full range, semi range, or by subnet mask. The items in the example above show one of each, based on the examples provided in the Marketo form itself.
 
-1. The [!DNL Exclude IP Addresses field] now lists the IP addresses you entered. To edit the IP exclusions, click the green plus to reopen the form.
+1. The [!UICONTROL Exclude IP Addresses] field now lists the IP addresses you entered. To edit the IP exclusions, click the green plus to reopen the form.
 
    ![](assets/exclude-ips-after.png)
 
