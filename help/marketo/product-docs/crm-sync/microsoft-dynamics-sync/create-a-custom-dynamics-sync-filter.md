@@ -34,7 +34,7 @@ Marketo looks for this field during the automatic background sync and determines
 
 >[!PREREQUISITES]
 >
->Install the latest version of the Marketo Plug-in (3.0.0.1 or later). Go to Marketo > Admin > [!DNL Microsoft Dynamics] > Download Marketo Solution.
+>Install the latest version of the Marketo Plug-in (3.0.0.1 or later). Go to Marketo > [!UICONTROL Admin] > [!DNL Microsoft Dynamics] > [!UICONTROL Download Marketo Solution].
 
 ## Create SyncToMkto Field {#create-synctomkto-field}
 
@@ -72,11 +72,11 @@ Marketo looks for this field during the automatic background sync and determines
 
 Even if you've already done your initial sync, go in and select the fields to be synced with Marketo.
 
-1. Go to Admin and select **[!DNL MIcrosoft Dynamics]**.
+1. Go to [!UICONTROL Admin] and select **[!DNL MIcrosoft Dynamics]**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Click **Edit** on Field Sync Details.
+1. Click **[!UICONTROL Edit]** on [!UICONTORL Field Sync Details].
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -96,27 +96,27 @@ You can always manually assign a value to the SyncToMkto fields for your records
 >
 >A [!DNL Dynamics] workflow works only on new records created going forward, not on historical data. Use a batch update to move over existing records.
 
-1. Go to [!DNL Dynamics] CRM. Click **Settings** then click **Processes**.
+1. Go to [!DNL Dynamics] CRM. Click **[!UICONTROL Settings]** then click **[!UICONTROL Processes]**.
 
    ![](assets/image2015-8-11-8-3a42-3a10.png)
 
-1. Click **New**.
+1. Click **[!UICONTROL New]**.
 
    ![](assets/image2015-8-11-8-3a43-3a46.png)
 
-1. Enter a name for the workflow, and select **Workflow** as the category and **Lead** as the Entity. Then click **OK**.
+1. Enter a name for the workflow, and select **[!UICONTROL Workflow]** as the [!UICONTROL Category] and **[!UICONTROL Lead]** as the [!UICONTROL Entity]. Then click **OK**.
 
    ![](assets/image2015-8-11-8-3a45-3a46.png)
 
-1. Create rules to assign a true or false value to the **SyncToMkto** field based on your organization's preference. Click **Save and Close**.
+1. Create rules to assign a true or false value to the **SyncToMkto** field based on your organization's preference. Click **[!UICONTROL Save and Close]**.
 
    ![](assets/setsynctomkto-fix.png)
 
    >[!NOTE]
    >
-   >Define a Default Action after you click **Add Step** to add a Check Condition. This sets the records that you don't want to sync to **No**. Otherwise, they will sync.
+   >Define a Default Action after you click **[!UICONTROL Add Step]** to add a Check Condition. This sets the records that you don't want to sync to **No**. Otherwise, they will sync.
 
-1. Select the workflow and click **Activate**.
+1. Select the workflow and click **[!UICONTROL Activate]**.
 
    ![](assets/image2015-8-11-8-3a57-3a29.png)
 
