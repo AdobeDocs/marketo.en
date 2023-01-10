@@ -62,10 +62,10 @@ The From Name, From Email, Reply-To (NEW) and Subject are displayed in the edito
 
 ## Browser Support {#browser-support}
 
-* Mozilla Firefox 9.0
-* Google Chrome 16
-* Microsoft Internet Explorer 8 & 9
-* **Note**: we no longer support Internet Explorer 7
+* [!DNL Mozilla Firefox] 9.0
+* [!DNL Google Chrome] 16
+* [!DNL Microsoft Internet Explorer] 8 & 9
+* **Note**: we no longer support [!DNL Internet Explorer] 7
 
 ## Program Management {#program-management}
 
