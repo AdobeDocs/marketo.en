@@ -18,13 +18,13 @@ And, as a bonus, we improved the entering and viewing of description text for as
 
 ## Import Field Mapping {#import-field-mapping}
 
-We made importing a list into Marketo much easier! During the import process, you can map the name of the Marketo field to the column header name in the import file. Furthermore, in Admin you can set up alias names that are mapped to the field name in Marketo, ensuring your users select the correct field every time.
+We made importing a list into Marketo much easier! During the import process, you can map the name of the Marketo field to the column header name in the import file. Furthermore, in [!UICONTROL Admin] you can set up alias names that are mapped to the field name in Marketo, ensuring your users select the correct field every time.
 
 As you continue to import and map fields, Marketo will remember and display the mappings during import, for ease of use. And to make life even easier, you can click the Sample Value header to see the different values that would populate in the field. This helps ensure you map the correct field every time!
 
 ![](assets/image2014-9-23-10-3a23-3a27.png)
 
-## Summary Page for Smart Lists and Static Lists {#summary-page-for-smart-lists-and-static-lists}
+## [!UICONTROL Summary] Page for Smart Lists and Static Lists {#summary-page-for-smart-lists-and-static-lists}
 
 Have you ever wondered where your lists are being used? Or who created the list, or last modified it? The new summary page available on Smart Lists and static lists, will provide you with these important details.
 
@@ -34,13 +34,13 @@ On the existing Program and Campaign summary pages, we added the Created Date/Us
 
 ![](assets/image2014-9-23-10-3a23-3a54.png)
 
-## Used By for Assets {#used-by-for-assets}
+## [!UICONTROL Used By] for Assets {#used-by-for-assets}
 
-We added a new tab to our asset Summary Pages, called Used by!
+We added a new tab to our asset Summary Pages, called [!UICONTROL Used By]!
 
 ![](assets/image2014-9-23-10-3a24-3a5.png)
 
-Example: Used By for Static Lists
+Example: [!UICONTROL Used By] for Static Lists
 
 ## Landing Page Gridlines {#landing-page-gridlines}
 
@@ -56,13 +56,13 @@ When scheduling a campaign, you can click on the link to see the list of leads t
 
 ![](assets/image2014-9-23-10-3a24-3a51.png)
 
-## Wait Step - Lead Token and My Token {#wait-step-lead-token-and-my-token}
+## [!UICONTROL Wait] Step - Lead Token and My Token {#wait-step-lead-token-and-my-token}
 
-In our May release, we added advanced options to the Wait flow step. With these changes, you can specify a business day, date, and time. In this release, we added the ability to use a token in the wait step. For example, you may want to use `{{lead.Birthday}}` to send an email on their Birthday, or use `{{my.Event Date}}` to send a final webinar reminder.
+In our May release, we added advanced options to the [!UICONTROL Wait] flow step. With these changes, you can specify a business day, date, and time. In this release, we added the ability to use a token in the wait step. For example, you may want to use `{{lead.Birthday}}` to send an email on their Birthday, or use `{{my.Event Date}}` to send a final webinar reminder.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
-## View as Thumbnails in Design Studio {#view-as-thumbnails-in-design-studio}
+## [!UICONTROL View] as [!UICONTROL Thumbnails] in Design Studio {#view-as-thumbnails-in-design-studio}
 
 Switch your view from a list of images to a thumbnail view!
 
