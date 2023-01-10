@@ -6,7 +6,7 @@ exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 ---
 # Customize Stars and Flames {#customize-stars-and-flames}
 
-Marketo Sales Insight uses stars and flames to prioritize leads. Marketo automatically decides who gets 1-2-3 stars/flames. However, you can modify the formula. Here's how:
+[!DNL Marketo Sales Insight] uses stars and flames to prioritize leads. Marketo automatically decides who gets 1-2-3 stars/flames. However, you can modify the formula. Here's how:
 
 >[!AVAILABILITY]
 >
@@ -16,27 +16,27 @@ Marketo Sales Insight uses stars and flames to prioritize leads. Marketo automat
 >
 >**Admin Permissions Required**
 
-1. Under Admin, click **Sales Insight**.
+1. Under [!UICONTROL Admin], click **[!UICONTROL Sales Insight]**.
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
-1. Under the **Lead Scoring Settings** section, click **Edit**.
+1. Under the **[!UICONTROL Lead Scoring Settings]** section, click **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-16-13-3a38-3a17.png)
 
-1. Select the **Scoring Method** of your choice.
+1. Select the **[!UICONTROL Scoring Method]** of your choice.
 
    >[!NOTE]
    >
    >**Definition**
    >
-   >**Dynamic** - Is a percentage value that is derived from [relative data](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). Awesome stuff. This method is recommended.
+   >**[!UICONTROL Dynamic]** - Is a percentage value that is derived from [relative data](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). Awesome stuff. This method is recommended.
    >
-   >**Static** - Allows you to define exact score numbers - no more percentages, no more secret sauces.
+   >**[!UICONTROL Static]** - Allows you to define exact score numbers - no more percentages, no more secret sauces.
 
    ![](assets/image2014-9-16-13-3a38-3a31.png)
 
-1. Edit the percentage brackets to your liking and **Save**.
+1. Edit the percentage brackets to your liking and **[!UICONTROL Save]**.
 
    >[!TIP]
    >
