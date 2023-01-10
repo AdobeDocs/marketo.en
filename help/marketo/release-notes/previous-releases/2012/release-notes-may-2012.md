@@ -48,7 +48,7 @@ Figure 5. Check them in
 
 ## Enhanced Webinar Confirmation URL {#enhanced-webinar-confirmation-url}
 
-Now available for ON24 and Adobe Connect! Include a unique link in the confirmation email for each registered attendee using the new `{{member.webinar URL}}` token. Adobe Connect enhancements also include the ability to turn on/off the Adobe account information email that includes the login ID and password for the user.
+Now available for [!DNL ON24] and Adobe Connect! Include a unique link in the confirmation email for each registered attendee using the new `{{member.webinar URL}}` token. Adobe Connect enhancements also include the ability to turn on/off the Adobe account information email that includes the login ID and password for the user.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -82,39 +82,39 @@ Gain access to experimental features developed by Marketo Engineers to enhance y
 
 Figure 10. Manager Treasure Chest Features in Admin
 
-## Microsoft Dynamics® CRM Integration {#microsoft-dynamics-crm-integration}
+## [!DNL Microsoft Dynamics]® CRM Integration {#microsoft-dynamics-crm-integration}
 
-Sync Accounts, Contacts, and Leads between Marketo and Microsoft Dynamics CRM Online using our new pre-built integration!
+Sync Accounts, Contacts, and Leads between Marketo and [!DNL Microsoft Dynamics] CRM Online using our new pre-built integration!
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 
-Figure 11. Microsoft Dynamics configuration
+Figure 11. [!DNL Microsoft Dynamics] configuration
 
-## Marketo Sales Insight Enhancements {#marketo-sales-insight-enhancements}
+## Marketo [!DNL Sales Insight] Enhancements {#marketo-sales-insight-enhancements}
 
 **Unsubscribe Footer Options**
 
-Configure when and if the unsubscribe footer displays for emails sent through Sales Insight.
+Configure when and if the unsubscribe footer displays for emails sent through [!DNL Sales Insight].
 
 ![](assets/image2014-9-23-10-3a17-3a20.png)
 
-Figure 12. Sales Insight Settings in Admin
+Figure 12. [!DNL Sales Insight] Settings in Admin
 
 ## Folders for Sales Email Templates {#folders-for-sales-email-templates}
 
-You can now organize the email templates shared with Marketo Sales Insight into specified folders, making it easier for your sales reps to find the right email.
+You can now organize the email templates shared with Marketo [!DNL Sales Insight] into specified folders, making it easier for your sales reps to find the right email.
 
 ![](assets/image2014-9-23-10-3a17-3a35.png)
 
 Figure 13. Choose a folder for your emails
 
-## Access Opportunity Analyzer from Sales Insight {#access-opportunity-analyzer-from-sales-insight}
+## Access Opportunity Analyzer from [!DNL Sales Insight] {#access-opportunity-analyzer-from-sales-insight}
 
-Provide your Sales Reps with insight into which marketing activities are driving engagement, using direct access to the Opportunity Analyzer from Marketo Sales Insight. Note. Requires Revenue Cycle Analytics license.
+Provide your Sales Reps with insight into which marketing activities are driving engagement, using direct access to the Opportunity Analyzer from Marketo [!DNL Sales Insight]. Note. Requires Revenue Cycle Analytics license.
 
 ## Custom field for Contact Status {#custom-field-for-contact-status}
 
-You can now map a custom field in Salesforce to populate the Status field for Contacts in the My Best Bets, My Team’s Best Bets and custom views.
+You can now map a custom field in [!DNL Salesforce] to populate the Status field for Contacts in the My Best Bets, My Team’s Best Bets and custom views.
 
 ![](assets/image2014-9-23-10-3a17-3a47.png)
 
@@ -122,7 +122,7 @@ Figure 14. Map a custom field to Contacts
 
 See Pages Visited by Anonymous Leads
 
-Drill down to the pages viewed by an anonymous lead from the Anonymous Web Activity view.
+Drill down to the pages viewed by an anonymous lead from the [!UICONTROL Anonymous Web Activity] view.
 
 ![](assets/image2014-9-23-10-3a17-3a59.png)
 
