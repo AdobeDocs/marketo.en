@@ -198,7 +198,7 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
  </tbody> 
 </table>
 
-**Salesforce Triggers**
+**[!DNL Salesforce] Triggers**
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -527,7 +527,7 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
  </tbody> 
 </table>
 
-**Sales Connect Triggers**
+**[!DNL Sales Connect] Triggers**
 
 <table style="table-layout:auto"> 
  <colgroup> 
