@@ -15,25 +15,25 @@ Apps normally start out in a sandbox environment, where initial development and 
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Click **Mobile Apps & Devices**.
+1. Click **[!UICONTROL Mobile Apps & Devices]**.
 
    ![](assets/image2016-1-12-15-3a42-3a30.png)
 
-1. Click **New Mobile App**.
+1. Click **[!UICONTROL New Mobile App]**.
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. Enter a name. In the **Type** drop-down, select the type of environment you're using--Sandbox or Production. Click **Save**.
+1. Enter a name. In the **[!UICONTROL Type]** drop-down, select the type of environment you're using--[!UICONTROL Sandbox] or [!UICONTROL Production]. Click **[!UICONTROL Save]**.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 
    >[!NOTE]
    >
-   >We recommend that you use a Production notification certificate in a Production environment. A Sandbox certificate will install in a Production environment without a problem, but you won't receive notifications. If you have any questions about your environment or notification certificate, contact your Marketo Admin or Mobile Apps Developer.
+   >We recommend that you use a [!UICONTROL Production] notification certificate in a [!UICONTROL Production] environment. A Sandbox certificate will install in a [!UICONTROL Production] environment without a problem, but you won't receive notifications. If you have any questions about your environment or notification certificate, contact your Marketo Admin or Mobile Apps Developer.
 
    Nice! Now let's configure your app to work with Android and iOS devices.
 
