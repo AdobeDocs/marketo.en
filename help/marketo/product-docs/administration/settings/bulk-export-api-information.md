@@ -6,7 +6,7 @@ hidefromtoc: yes
 ---
 # Bulk Export API Information {#bulk-export-api-information}
 
-Learn how to check how much Bulk Extract capacity has been taken up by your Marketo Engage instance over the last seven days.
+Learn how to check how much [Bulk Extract API](https://developers.marketo.com/rest-api/bulk-extract/){target="_blank"} capacity has been taken up by your Marketo Engage instance over the last seven days.
 
 >[!NOTE]
 >
