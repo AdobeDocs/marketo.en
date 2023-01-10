@@ -50,7 +50,7 @@ You need to install the [!DNL Marketo Sales Insight] app in your [!DNL Salesforc
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-7.png)
 
-1. Search for "objects", then click **[!UICONTROL Objects]** under **[!UICONTROL Create]**.
+1. Search for "[!UICONTROL objects]", then click **[!UICONTROL Objects]** under **[!UICONTROL Create]**.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-8.png)
 
