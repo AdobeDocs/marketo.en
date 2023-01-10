@@ -6,7 +6,7 @@ exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 ---
 # Add Subdomains in [!UICONTROL Account Settings] {#add-subdomains-in-account-settings}
 
-Here's how to add subdomains to your primary domains in [!UICONTROL Account Settings]. This will allow you to manage subdomains related to the specific RTP [!DNL Javascript] of your primary domain. It is recommended to deploy the [!DNL Javascript] tag to any added subdomains.
+Here's how to add subdomains to your primary domains in [!UICONTROL Account Settings]. This will allow you to manage subdomains related to the specific RTP Javascript of your primary domain. It is recommended to deploy the [!DNL Javascript] tag to any added subdomains.
 
 1. In Web Personalization, go to **[!UICONTROL Account Settings]**.
 
