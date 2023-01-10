@@ -42,12 +42,12 @@ Find out who's been sharing your content and voting in your polls by creating sm
 
 You can now gather information about your leads when they share content or fill out forms using their social profiles. This includes [!DNL Facebook], [!DNL LinkedIn] and [!DNL Twitter] handles, the number of friends they have, and more.
 
-## Revenue Explorer Report Subscriptions {#revenue-explorer-report-subscriptions}
+## [!UICONTROL Revenue Explorer] Report Subscriptions {#revenue-explorer-report-subscriptions}
 
-Create report subscriptions and send Revenue Explorer reports on a periodic basis to your key stakeholders, including non-Marketo users. The email contains a preview of your report data table or charts, and an [!DNL Excel] spreadsheet with all of the report data.
+Create report subscriptions and send [!UICONTROL Revenue Explorer] reports on a periodic basis to your key stakeholders, including non-Marketo users. The email contains a preview of your report data table or charts, and an [!DNL Excel] spreadsheet with all of the report data.
 
 ![](assets/image2014-9-23-10-3a47-3a33.png)
 
 >[!NOTE]
 >
->Only available for users who have Revenue Explorer by purchasing Revenue Cycle Analytics with the Enterprise or the Select Edition.
+>Only available for users who have [!UICONTROL Revenue Explorer] by purchasing Revenue Cycle Analytics with the Enterprise or the Select Edition.
