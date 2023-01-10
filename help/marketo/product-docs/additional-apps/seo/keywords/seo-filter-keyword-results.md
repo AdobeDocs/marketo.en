@@ -26,7 +26,7 @@ Sweet! You will now only be looking at keywords on that list.
 
 ## Filter by SERP Rank {#filter-by-serp-rank}
 
-1. Go to the Keywords section.
+1. Go to the [!UICONTROL Keywords] section.
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
