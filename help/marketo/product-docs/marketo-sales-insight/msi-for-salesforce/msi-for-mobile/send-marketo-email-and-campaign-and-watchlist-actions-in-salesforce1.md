@@ -4,13 +4,13 @@ description: Send Marketo Email and Campaign and Watchlist Actions in Salesforce
 title: Send Marketo Email and Campaign and Watchlist Actions in Salesforce1
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 ---
-# Send Marketo Email and Campaign and Watchlist Actions in Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
+# Send Marketo Email and Campaign and Watchlist Actions in [!DNL Salesforce1] {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. Go to the Lead Detail area in Salesforce1 and click the **Related** tab.
+1. Go to the Lead Detail area in [!DNL Salesforce1] and click the **[!UICONTROL Related]** tab.
 
    ![](assets/one-1.png)
 
-1. Click the dota (three little dots). At the bottom you can choose from: "Add to Marketo Campaign", "Send Marketo Email," "View in Marketo," "Add/Remove from Watchlist."
+1. Click the dota (three little dots). At the bottom you can choose from: "[!UICONTROL Add to Marketo Campaign]", "[!UICONTROL Send Marketo Email]," "[!UICONTROL View in Marketo]," "[!UICONTROL Add from Watchlist]," "[!UICONTROL Remove from Watchlist]."
 
    ![](assets/two-1.png)
 
