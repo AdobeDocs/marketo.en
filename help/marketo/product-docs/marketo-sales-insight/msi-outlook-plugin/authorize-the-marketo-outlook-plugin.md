@@ -16,7 +16,7 @@ To use the Marketo MSI plugin in [!DNL Outlook], you need to authorize it.
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. When the Authorize Marketo Plugin dialog appears, click **[!UICONTROL Request Code]**.
+1. When the [!UICONTROL Authorize Marketo Plugin] dialog appears, click **[!UICONTROL Request Code]**.
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
