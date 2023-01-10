@@ -4,34 +4,34 @@ description: Sales Insight Page for Marketo Admins - Marketo Docs - Product Docu
 title: Sales Insight Page for Marketo Admins
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 ---
-# Sales Insight Page for Marketo Admins {#sales-insight-page-for-marketo-admins}
+# [!DNL Sales Insight] Page for Marketo Admins {#sales-insight-page-for-marketo-admins}
 
-Marketo Admins have certain privileges in Sales Insight. Learn what they are below.
+Marketo Admins have certain privileges in [!DNL Sales Insight]. Learn what they are below.
 
 ## Soap API Configuration {#soap-api-configuration}
 
-These credentials are used to connect your Salesforce account to your Marketo instance, in order to use MSI in Salesforce.
+These credentials are used to connect your [!DNL Salesforce] account to your Marketo instance, in order to use MSI in [!DNL Salesforce].
 
 ![](assets/one-1.png)
 
 ## Rest API Configuration {#rest-api-configuration}
 
-These credentials are used to connect your Salesforce account to your Marketo instance, in order to use MSI Insights Dashboard in Salesforce.
+These credentials are used to connect your [!DNL Salesforce] account to your Marketo instance, in order to use MSI Insights Dashboard in [!DNL Salesforce].
 
 ![](assets/two-1.png)
 
 ## Person Score Settings {#person-score-settings}
 
-* **Stars**: Stars represent total lead score compared to other leads.
-* **Flames**: Flames represent urgency - how much a lead's score has changed recently.
+* **[!UICONTROL Stars]**: Stars represent total lead score compared to other leads.
+* **[!UICONTROL Flames]**: Flames represent urgency - how much a lead's score has changed recently.
 
-By default, Marketo Sales Insight uses the Lead Score field to calculate stars and flames. But if you want to pick a different field, here's how:
+By default, [!DNL Marketo Sales Insight] uses the Lead Score field to calculate stars and flames. But if you want to pick a different field, here's how:
 
-1. In the **Admin** area of Marketo, click **Sales Insight**.
+1. In the **[!UICONTROL Admin]** area of Marketo, click **[!UICONTROL Sales Insight]**.
 
    ![](assets/four.png)
 
-1. Under Lead Scoring Settings, click **Edit**.
+1. Under [!UICONTROL Lead Scoring Settings], click **[!UICONTROL Edit]**.
 
    ![](assets/five.png)
 
@@ -43,7 +43,7 @@ By default, Marketo Sales Insight uses the Lead Score field to calculate stars a
 
    ![](assets/seven.png)
 
-1. Click **Save**. Sales insight will take some time to re-calculate. You can check your CRM later to see the stars and flames.
+1. Click **[!UICONTROL Save]**. Sales insight will take some time to re-calculate. You can check your CRM later to see the stars and flames.
 
    ![](assets/eight.png)
 
@@ -61,20 +61,20 @@ By default, Marketo Sales Insight uses the Lead Score field to calculate stars a
 
 **Unsubscribe Settings:**
 
-You can choose the from following unsubscribe settings for No Template, Standard Emails & Operational emails
+You can choose the from following unsubscribe settings for [!UICONTROL No Template], [!UICONTROL Standard Emails] & [!UICONTROL Operational emails]
 
-* Respect Unsubscribe Setting
-* Respect Unsubscribe Settings when more than 1 recipient
-* Respect Unsubscribe Settings when more than 5 recipients
-* Ignore Unsubscribe Settings
+* [!UICONTROL Respect Unsubscribe Setting]
+* [!UICONTROL Respect Unsubscribe Settings when more than 1 recipient]
+* [!UICONTROL Respect Unsubscribe Settings when more than 5 recipients]
+* [!UICONTROL Ignore Unsubscribe Settings]
 
 **Enable ability to lock templates:**
 
-When enabled, MSI users will not be able to edit templates while sending emails from Salesforce
+When enabled, MSI users will not be able to edit templates while sending emails from [!DNL Salesforce]
 
 **Enable RSS Feed:**
 
-When enabled, MSI users can view their Lead Feed in an RSS feed (in addition to the Lead Feed in Salesforce). RSS feed can only function if the “Token Expiration” feature is disabled.
+When enabled, MSI users can view their Lead Feed in an RSS feed (in addition to the Lead Feed in [!DNL Salesforce]). RSS feed can only function if the “[!UICONTROL Token Expiration]” feature is disabled.
 
 **Token Expiration:**
 
