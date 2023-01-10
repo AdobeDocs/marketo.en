@@ -4,11 +4,11 @@ description: Implementing RTP using Tealium Tag Manager - Marketo Docs - Product
 title: Implementing RTP using Tealium Tag Manager
 exl-id: 7a099184-625c-46b2-a741-3bcdad0a238e
 ---
-# Implementing RTP using Tealium Tag Manager {#implementing-rtp-using-tealium-tag-manager}
+# Implementing RTP using [!DNL Tealium] Tag Manager {#implementing-rtp-using-tealium-tag-manager}
 
 To implement your RTP tag please follow the installation instructions below.
 
-1. Log in to your [!DNL Tealium Tag Manager] account.
+1. Log in to your [!DNL Tealium] Tag Manager account.
 
 1. Navigate to the [!UICONTROL Tags] tab and add the [!UICONTROL Tealium Custom Container Tag], located under the [!UICONTROL Misc] tab of the Tags marketplace.
 
@@ -34,7 +34,7 @@ To implement your RTP tag please follow the installation instructions below.
    >
    >If you've already received your JavaScript tag from Support, continue to Step 11.
 
-1. Under Domain, locate the relevant domain and click **Generate Tag**.
+1. Under Domain, locate the relevant domain and click **[!UICONTROL Generate Tag]**.
 
 1. Copy the RTP JavaScript tag and paste it between [!UICONTROL Start Tag Library Code] and [!UICONTROL End Tag Library Code] in your Tealium Profile Template.
 
