@@ -6,7 +6,7 @@ exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 ---
 # Using the Lead Feed {#using-the-lead-feed}
 
-The Lead Feed is an up-to-the-minute list of interesting events done by your leads. You'll find it on the right-hand side when you click the Marketo tab. It's like an RSS or Twitter feed - the most recent updates are at the top of the list. Use this to jump on leads while you're still fresh in their minds.
+The Lead Feed is an up-to-the-minute list of interesting events done by your leads. You'll find it on the right-hand side when you click the Marketo tab. It's like an RSS or [!DNL Twitter] feed - the most recent updates are at the top of the list. Use this to jump on leads while you're still fresh in their minds.
 
 >[!NOTE]
 >
@@ -18,7 +18,7 @@ The Lead Feed is an up-to-the-minute list of interesting events done by your lea
 
 Each item in the lead feed is an interesting moment - a noteworthy activity or event in this lead's marketing history.
 
-When viewing it in Salesforce, each item has:
+When viewing it in [!DNL Salesforce], each item has:
 
 ![](assets/using-the-lead-feed-2.png)
 
@@ -65,7 +65,7 @@ When viewing it in Salesforce, each item has:
 
 ## Getting RSS Updates {#getting-rss-updates}
 
-You can also get Lead Feed updates by RSS feed.  An RSS feed lets you receive updates on your leads even if you're not connected to Salesforce. The feed has the same information as the Lead Feed in Salesforce as well as the following (when available):
+You can also get Lead Feed updates by RSS feed.  An RSS feed lets you receive updates on your leads even if you're not connected to [!DNL Salesforce]. The feed has the same information as the Lead Feed in [!DNL Salesforce] as well as the following (when available):
 
 * email address
 * phone number
