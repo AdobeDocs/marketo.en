@@ -6,17 +6,17 @@ exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 ---
 # Workspaces in [!UICONTROL Web Personalization] {#workspaces-in-web-personalization}
 
-[!UICONTROL Web Personalization] supports multiple workspaces for web campaigns and web [!UICONTROL segments].
+[!UICONTROL Web Personalization] supports multiple workspaces for web campaigns and web segments.
 
 ## Switch Workspaces {#switch-workspaces}
 
-To switch between workspaces in [!UICONTROL web personalization], click the globe icon in the top left and choose a different workspace from the drop-down.
+To switch between workspaces in web personalization, click the globe icon in the top left and choose a different workspace from the drop-down.
 
 ![](assets/ss7.png)
 
-## Change a [!UICONTROL Segment]'s Workspace {#change-a-segments-workspace}
+## Change a Segment's Workspace {#change-a-segments-workspace}
 
-1. Go to the **[!UICONTROL Segments]** page, select a [!UICONTROL segment], and click the [!UICONTROL edit] icon.
+1. Go to the **[!UICONTROL Segments]** page, select a segment, and click the edit icon.
 
    ![](assets/ss4.png)
 
@@ -28,4 +28,4 @@ To switch between workspaces in [!UICONTROL web personalization], click the glob
 
 >[!NOTE]
 >
->Users will only be able to see web campaigns and [!UICONTROL segments] associated with the workspaces that they have access to. Here's how to [give a user access to one or more workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
+>Users will only be able to see web campaigns and segments associated with the workspaces that they have access to. Here's how to [give a user access to one or more workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
