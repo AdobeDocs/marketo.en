@@ -1,10 +1,10 @@
 ---
 unique-page-id: 11382815
-description: Marketo Outlook Plugin Installation by IT - Marketo Docs - Product Documentation
-title: Marketo Outlook Plugin Installation by IT
+description: Marketo [!DNL Outlook] Plugin Installation by IT - Marketo Docs - Product Documentation
+title: Marketo [!DNL Outlook] Plugin Installation by IT
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 ---
-# Marketo Outlook Plugin Installation by IT {#marketo-outlook-plugin-installation-by-it}
+# Marketo [!DNL Outlook] Plugin Installation by IT {#marketo-outlook-plugin-installation-by-it}
 
 Sometimes corporate policies require that their IT Team installs all software on their employees’ computers. In these cases, IT often does this remotely using their own deployment software. This doc provides the command lines you would use as inputs during the deployment process to remotely install the outlook plug-in.
 
@@ -50,4 +50,4 @@ Please refer to [Microsoft’s complete list of switches](https://support.micros
 
 >[!MORELIKETHIS]
 >
->[Marketo Outlook Plugin Uninstall by IT](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+>[Marketo [!DNL Outlook] Plugin Uninstall by IT](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
