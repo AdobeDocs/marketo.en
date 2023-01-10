@@ -4,7 +4,7 @@ description: Configure Unsubscribe Footers in Marketo Sales Insight - Marketo Do
 title: Configure Unsubscribe Footers in Marketo Sales Insight
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 ---
-# Configure Unsubscribe Footers in Marketo Sales Insight {#configure-unsubscribe-footers-in-marketo-sales-insight}
+# Configure Unsubscribe Footers in [!DNL Marketo Sales Insight] {#configure-unsubscribe-footers-in-marketo-sales-insight}
 
 Sales emails automatically put the unsubscribe footer at the bottom. However, you can adjust the settings to meet your needs.
 
@@ -16,13 +16,13 @@ Sales emails automatically put the unsubscribe footer at the bottom. However, yo
 >
 >**Definition**
 >
->**Sales emails** are those sent from Sales Insight (it does not include those sent from the Marketo Outlook Plugin).
+>**Sales emails** are those sent from [!DNL Sales Insight] (it does not include those sent from the Marketo Outlook Plugin).
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/one-1.png)
 
-1. Click **Sales Insight**, then **Edit Settings**.
+1. Click **[!UICONTROL Sales Insight]**, then **[!UICONTROL Edit Settings]**.
 
    ![](assets/two-1.png)
 
@@ -30,19 +30,19 @@ Sales emails automatically put the unsubscribe footer at the bottom. However, yo
 
    ![](assets/three-1.png)
 
-    * **No Template** - Manually composed by sales user.
-    * **Standard Email** - Emails based on a template.
-    * **Operational Email** - Emails that ignore Unsubscribed, Marketing Suspended, and Communication Limits (they send no matter what).
+    * **[!UICONTROL No Template]** - Manually composed by sales user.
+    * **[!UICONTROL Standard Email]** - Emails based on a template.
+    * **[!UICONTROL Operational Email]** - Emails that ignore Unsubscribed, Marketing Suspended, and Communication Limits (they send no matter what).
 
    You have the option to set different behavior for each type.
 
    >[!CAUTION]
    >
-   >**Respect Unsubscribe Settings**: unsubscribed leads will NOT receive the email even if the published email is "operational"
+   >**[!UICONTROL Respect Unsubscribe Settings]**: unsubscribed leads will NOT receive the email even if the published email is "operational"
    >
-   >**Ignore Unsubscribe Settings**: unsubscribed leads WILL receive the email
+   >**[!UICONTROL Ignore Unsubscribe Settings]**: unsubscribed leads WILL receive the email
 
-1. Make the changes you want, then click **Save**.
+1. Make the changes you want, then click **[!UICONTROL Save]**.
 
    >[!TIP]
    >
