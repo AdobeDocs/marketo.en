@@ -24,7 +24,7 @@ Previewer to Editor:
 
 ## Snippet Previewer {#snippet-previewer}
 
-Selecting “Preview Snippet” from the menu allows you to view a Snippet, without making it a draft.Furthermore, if you have read only access to a shared snippet (via workspaces), you can view the snippet with this action
+Selecting “Preview Snippet” from the menu allows you to view a Snippet, without making it a draft. Furthermore, if you have read only access to a shared snippet (via workspaces), you can view the snippet with this action.
 
 ![](assets/image2014-9-23-10-3a0-3a37.png)
 
