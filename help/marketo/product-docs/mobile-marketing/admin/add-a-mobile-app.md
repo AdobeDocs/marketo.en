@@ -33,7 +33,7 @@ Apps normally start out in a sandbox environment, where initial development and 
 
    >[!NOTE]
    >
-   >We recommend that you use a [!UICONTROL Production] notification certificate in a [!UICONTROL Production] environment. A Sandbox certificate will install in a [!UICONTROL Production] environment without a problem, but you won't receive notifications. If you have any questions about your environment or notification certificate, contact your Marketo Admin or Mobile Apps Developer.
+   >We recommend that you use a [!UICONTROL Production] notification certificate in a [!UICONTROL Production] environment. A [!UICONTROL Sandbox] certificate will install in a [!UICONTROL Production] environment without a problem, but you won't receive notifications. If you have any questions about your environment or notification certificate, contact your Marketo Admin or Mobile Apps Developer.
 
    Nice! Now let's configure your app to work with Android and iOS devices.
 
