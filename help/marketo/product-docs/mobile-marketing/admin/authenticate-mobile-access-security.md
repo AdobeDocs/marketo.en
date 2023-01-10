@@ -14,7 +14,7 @@ To enable the IDs, you need to acquire the codes and provide them to your IT dep
 >
 >To enable this feature, contact Support and request "Vespa Secure Mode."
 
-1. In Marketo, select **[!UICONTROL Admin]** and click **[!UICONTROL Mobile Apps and Devices]**.
+1. In Marketo, select **[!UICONTROL Admin]** and click **[!UICONTROL Mobile Apps & Devices]**.
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
