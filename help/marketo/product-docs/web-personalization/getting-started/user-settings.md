@@ -23,7 +23,7 @@ Change settings like time zone or Web Personalization email reports.
     * Change your email address
     * Add personal details (first and last name, mobile number and time zone)
     * Select the number of rows you would like to export when exporting tables in the platform. See field: "Max # of rows in Excel export (limited to 10,000)"
-    * Select your [!UICONTROL Mobile Notification] for a [!UICONTROL new person] or [!UICONTROL watch list] related to the mobile application
+    * Select your [!UICONTROL Mobile Notification] for a new person or watch list related to the mobile application
     * Adjust Personal Region settings by clicking **[!UICONTROL Edit Regions]**.
     * Change your password
     * Select your Email Report notification settings for email reports on Organizations, People, Campaign and Asset Performance
@@ -36,7 +36,7 @@ Change settings like time zone or Web Personalization email reports.
 
 ## Select Email Reports {#select-email-reports}
 
-   Select which [[!UICONTROL email report]](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) to associate to your user, and frequency ([!UICONTROL daily], [!UICONTROL weekly] or [!UICONTROL quarterly]) when the report will be sent.
+   Select which [[!UICONTROL Email Report]](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) to associate to your user, and frequency ([!UICONTROL Daily], [!UICONTROL Weekly] or [!UICONTROL Quarterly]) when the report will be sent.
 
    ![](assets/three.png)
 
