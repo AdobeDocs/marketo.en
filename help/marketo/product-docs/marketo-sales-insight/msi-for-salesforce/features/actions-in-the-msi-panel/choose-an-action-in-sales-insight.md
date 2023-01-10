@@ -4,9 +4,9 @@ description: Choose an Action in Sales Insight - Marketo Docs - Product Document
 title: Choose an Action in Sales Insight
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 ---
-# Choose an Action in Sales Insight {#choose-an-action-in-sales-insight}
+# Choose an Action in [!DNL Sales Insight] {#choose-an-action-in-sales-insight}
 
-The following actions are available from the Sales Insight drop-down in Salesforce Classic and Lightning:
+The following actions are available from the [!DNL Sales Insight] drop-down in [!DNL Salesforce] Classic and Lightning:
 
 * Send Marketo Email
 * Add to Marketo Campaign
@@ -30,13 +30,13 @@ Each of these features can be accessed from:
 
    ![](assets/choose-an-action-in-sales-insight-2.png)
 
-**Best Bets tab**
+**[!DNL Best Bets] tab**
 
-* Best Bets Bulk Actions Tab: Group action and can be controlled by user profile
+* [!DNL Best Bets] Bulk Actions Tab: Group action and can be controlled by user profile
 
    ![](assets/choose-an-action-in-sales-insight-3.png)
 
-* Best Bets In-line Actions Tab: Single action and can be controlled by user profile
+* [!DNL Best Bets] In-line Actions Tab: Single action and can be controlled by user profile
 
    ![](assets/choose-an-action-in-sales-insight-4.png)
 
