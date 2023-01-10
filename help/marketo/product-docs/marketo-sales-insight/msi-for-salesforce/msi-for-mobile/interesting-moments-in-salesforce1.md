@@ -4,21 +4,21 @@ description: Interesting Moments in Salesforce1 - Marketo Docs - Product Documen
 title: Interesting Moments in Salesforce1
 exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
 ---
-# Interesting Moments in Salesforce1 {#interesting-moments-in-salesforce}
+# Interesting Moments in [!DNL Salesforce1] {#interesting-moments-in-salesforce}
 
-[Using Interesting Moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) is the key to communicating with your sales team through the Marketo Sales Insight app. Now, with Marketo Sales Insight for Salesforce1, you can do the same with your smartphone!
+[Using Interesting Moments](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) is the key to communicating with your sales team through the Marketo Sales Insight app. Now, with [!DNL Marketo Sales Insight] for [!DNL Salesforce1], you can do the same with your smartphone!
 
 >[!AVAILABILITY]
 >
->These are available to Marketo Sales Insight customers only.
+>These are available to [!DNL Marketo Sales Insight] customers only.
 
-1. On your smartphone, open the Salesforce app.
+1. On your smartphone, open the [!DNL Salesforce] app.
 
 1. Navigate to a lead.
 
    ![](assets/one.png)
 
-1. Click the **Related** tab to see Interesting Moments, Web Activity, Email, and Score.
+1. Click the **[!UICONTROL Related]** tab to see Interesting Moments, Web Activity, Email, and Score.
 
    ![](assets/two.png)
 
