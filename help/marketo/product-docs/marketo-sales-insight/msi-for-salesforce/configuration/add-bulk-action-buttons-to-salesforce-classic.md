@@ -3,21 +3,21 @@ description: Add Bulk Action Buttons to Salesforce Classic - Marketo Docs - Prod
 title: Add Bulk Action Buttons to Salesforce Classic
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 ---
-# Add Bulk Action Buttons to Salesforce Classic{#add-bulk-action-buttons-to-salesforce-classic}
+# Add Bulk Action Buttons to [!DNL Salesforce] Classic{#add-bulk-action-buttons-to-salesforce-classic}
 
-You can add Marketo buttons to your Salesforce Layouts. Here's an example:
+You can add Marketo buttons to your [!DNL Salesforce] Layouts. Here's an example:
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. Click **Setup**. Search for "search layout" and click the **Search Layouts** under **Leads**.
+1. Click **[!UICONTROL Setup]**. Search for "[!UICONTROL search layout]" and click the **[!UICONTROL Search Layouts]** under **[!UICONTROL Leads]**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. Click **Edit** in the **Leads List View** row.
+1. Click **[!UICONTROL Edit]** in the **[!UICONTROL Leads List View]** row.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
-1. Add **Add to Marketo Campaign**, **Send Marketo Email**, and **Add to Watch List** buttons to the **Selected Buttons** and **Save**.
+1. Add **[!UICONTROL Add to Marketo Campaign]**, **[!UICONTROL Send Marketo Email]**, and **[!UICONTROL Add to Watch List]** buttons to the **[!UICONTROL Selected Buttons]** and **[!UICONTROL Save]**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-4.png)
 
