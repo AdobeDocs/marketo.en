@@ -6,7 +6,7 @@ exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
 ---
 # Implementing RTP using Adobe Tag Manager {#implementing-rtp-using-adobe-tag-manager}
 
-To implement your [!UICONTROL RTP tag] please follow the installation instructions below:
+To implement your RTP tag please follow the installation instructions below:
 
 1. Log in to your RTP account.
 
