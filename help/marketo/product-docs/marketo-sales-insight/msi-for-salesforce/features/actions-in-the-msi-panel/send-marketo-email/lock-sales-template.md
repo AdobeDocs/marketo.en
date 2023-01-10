@@ -10,7 +10,7 @@ To prevent CRM users from editing sales templates, admins can enable the ability
 
 >[!CAUTION]
 >
->This feature works for Salesforce only and is not compatible with Microsoft Dynamics or other CRMs. Templates accessed from the Outlook or Gmail plug-ins will not be locked, as the editor is not controlled by Marketo.
+>This feature works for [!DNL Salesforce] only and is not compatible with [!DNL Microsoft Dynamics] or other CRMs. Templates accessed from the [!DNL Outlook] or Gmail plug-ins will not be locked, as the editor is not controlled by Marketo.
 
 ## Enable Lock Template {#enable-lock-template}
 
@@ -18,15 +18,15 @@ To prevent CRM users from editing sales templates, admins can enable the ability
 >
 >**Admin Permissions Required**
 
-1. Go to **Admin**, then click **Sales Insight**.
+1. Go to **[!UICONTROL Admin]**, then click **[!UICONTROL Sales Insight]**.
 
    ![](assets/1.png)
 
-1. Under **Settings**, click **Edit**.
+1. Under **[!UICONTROL Settings]**, click **[!UICONTROL Edit]**.
 
    ![](assets/2.png)
 
-1. Check **Enable ability to lock templates**. Click **Save**.
+1. Check **[!UICONTROL Enable ability to lock templates]**. Click **[!UICONTROL Save]**.
 
    ![](assets/image2017-10-9-8-3a19-3a45.png)
 
@@ -40,15 +40,15 @@ To prevent CRM users from editing sales templates, admins can enable the ability
 
 ## Lock Template in the Email Editor {#lock-template-in-the-email-editor}
 
-1. Select the email you wish to lock, then click **Edit Draft**.
+1. Select the email you wish to lock, then click **[!UICONTROL Edit Draft]**.
 
    ![](assets/5.png)
 
-1. In the email editor, click **Email Settings**.
+1. In the email editor, click **[!UICONTROL Email Settings]**.
 
    ![](assets/6.png)
 
-1. Check **Publish to Marketo Sales Insight** if it's not already checked. You can now uncheck **Allow CRM user to edit email** in order to lock the template. Click **Save**.
+1. Check **[!UICONTROL Publish to Marketo Sales Insight]** if it's not already checked. You can now uncheck **[!UICONTROL Allow CRM user to edit email]** in order to lock the template. Click **[!UICONTROL Save]**.
 
    ![](assets/7.png)
 
