@@ -26,19 +26,19 @@ Gain insight and reduce friction by allowing leads to prefill forms with informa
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## Publish Landing Pages to Facebook {#publish-landing-pages-to-facebook}
+## Publish Landing Pages to [!DNL Facebook] {#publish-landing-pages-to-facebook}
 
-Extend the reach of your landing pages by publishing them directly into Facebook, complete with social apps, forms, and the full functionality of Marketo’s landing pages.
+Extend the reach of your landing pages by publishing them directly into [!DNL Facebook], complete with social apps, forms, and the full functionality of Marketo’s landing pages.
 
-## ReadyTalk Event Adapter {#readytalk-event-adapter}
+## [!DNL ReadyTalk] Event Adapter {#readytalk-event-adapter}
 
-Seamlessly connect a Marketo event to a ReadyTalk meeting. Use a Marketo form to capture registrants and automatically register them in ReadyTalk. A bi-directional sync allows attendance information to populate into Marketo.
+Seamlessly connect a Marketo event to a [!DNL ReadyTalk] meeting. Use a Marketo form to capture registrants and automatically register them in [!DNL ReadyTalk]. A bi-directional sync allows attendance information to populate into Marketo.
 
 ![](assets/image2014-9-23-10-3a40-3a16.png)
 
-## Microsoft Dynamics On Premise {#microsoft-dynamics-on-premise}
+## Microsoft [!DNL Dynamics] On Premise {#microsoft-dynamics-on-premise}
 
-We now support Microsoft Dynamics 2011 on-premise with an Internet-Facing deployment.
+We now support Microsoft [!DNL Dynamics] 2011 on-premise with an Internet-Facing deployment.
 
 ## Webhooks (Treasure Chest) {#webhooks-treasure-chest}
 
