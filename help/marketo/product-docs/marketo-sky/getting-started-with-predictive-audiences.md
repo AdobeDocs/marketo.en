@@ -5,7 +5,7 @@ hide: yes
 hidefromtoc: yes
 exl-id: d39afacc-30e0-4b7c-9b78-18fa95505553
 ---
-# Getting Started with Predictive Audiences {#getting-started-with-predictive-audiences}
+# Getting Started with [!UICONTROL Predictive Audiences] {#getting-started-with-predictive-audiences}
 
 Predictive Audiences (PA) utilizes AI and machine learning to enable you to target audiences more effectively and take proactive steps to reach your marketing goals.
 
@@ -20,7 +20,7 @@ The performance of the AI/ML models relies on the data in your subscription. The
 
 ## Availability {#availability}
 
-Predictive Audiences is automatically included and activated for instances utilizing Prime or Ultimate pricing bundles. To learn more about getting access to this feature, please contact your Customer Success Manager.
+[!UICONTROL Predictive Audiences] is automatically included and activated for instances utilizing Prime or Ultimate pricing bundles. To learn more about getting access to this feature, please contact your Customer Success Manager.
 
 1. Once the feature has been added to your instance, navigate to the **[!UICONTROL Predictive Audiences]** page in the **[!UICONTROL Admin]** area of [!DNL Marketo Classic].
 
