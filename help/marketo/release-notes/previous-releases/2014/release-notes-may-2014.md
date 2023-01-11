@@ -8,7 +8,7 @@ exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 
 The following features are included in the May 2014 release. Please check your Marketo Edition for feature availability. After the release, be sure to come back to find links to detailed Knowledge Base articles for each feature!
 
-## Delete Workspace {#delete-workspace}
+## [!UICONTROL Delete Workspace] {#delete-workspace}
 
 Now you can [delete an unused workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Be sure to move all assets into another workspace before attempting to delete the workspace.
 
@@ -50,13 +50,13 @@ To add untracked links to your emails:
 
 See how your links will behave in emails ahead of time. Sample emails now display links exactly how they would appear to your leads. Preview which links have been converted to tracking links, giving you a better sense of how the message will actually appear to recipients.
 
-## Abort Campaign {#abort-campaign}
+## [!UICONTROL Abort Campaign] {#abort-campaign}
 
 Don’t panic! If you find a mistake, use the new [abort campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) button to immediately stop campaigns in their tracks. You’ll receive a notification outlining how many leads were pending in each flow step when the campaign was stopped.
 
-## Sales Insight in Japanese, Portuguese and Spanish {#sales-insight-in-japanese-portuguese-and-spanish}
+## [!UICONTROL Sales Insight] in Japanese, Portuguese and Spanish {#sales-insight-in-japanese-portuguese-and-spanish}
 
-Download the latest version of Sales Insight from AppExchange so your Japanese, Portuguese and Spanish speaking sales agents view Sales Insight content in their preferred language.
+Download the latest version of [!UICONTROL Sales Insight] from AppExchange so your Japanese, Portuguese and Spanish speaking sales agents view [!UICONTROL Sales Insight] content in their preferred language.
 
 ![](assets/image2014-9-22-12-3a2-3a12.png)
 
@@ -64,9 +64,9 @@ Download the latest version of Sales Insight from AppExchange so your Japanese, 
 
 View how many [members are in each Program Status](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) and when they changed to each status, including the date when they achieved Program Success.
 
-## A/B Test Emails in Email Analysis {#a-b-test-emails-in-email-analysis}
+## A/B Test Emails in [!UICONTROL Email Analysis] {#a-b-test-emails-in-email-analysis}
 
-Report on each of your [A/B test email variants](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in Email Analysis.
+Report on each of your [A/B test email variants](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in [!UICONTROL Email Analysis].
 
 ## Analytics Packaging Changes {#analytics-packaging-changes}
 
