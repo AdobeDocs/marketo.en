@@ -30,9 +30,9 @@ The following features are included in the February 2014 release. Please check y
 
 [Export email metrics to [!DNL Excel]](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), including AB Test variant data.
 
-## [!UICONTROL Engagement Score] in Engagement Stream Performance Report {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL Engagement Score] in [!UICONTROL Engagement Stream Performance] Report {#engagement-score-in-engagement-stream-performance-report}
 
-We added the Engagement Score to the [Engagement Stream Performance Report](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) to help you see how effective the content in your engagement program is.
+We added the Engagement Score to the [[!UICONTROL Engagement Stream Performance] Report](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) to help you see how effective the content in your engagement program is.
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
