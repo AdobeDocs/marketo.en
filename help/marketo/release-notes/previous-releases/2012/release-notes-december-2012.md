@@ -22,17 +22,17 @@ Use the corresponding triggers and filters to identify users who used the **Forw
 
 ## Granular Admin Permissions {#granular-admin-permissions}
 
-Our newest release gives you greater access and control over Admin roles, by controlling access to different functions in the Marketo Admin area for each role. When you create a new role, you can assign specific Admin functions that role may access.
+Our newest release gives you greater access and control over [!UICONTROL Admin] roles, by controlling access to different functions in the Marketo [!UICONTROL Admin] area for each role. When you create a new role, you can assign specific [!UICONTROL Admin] functions that role may access.
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
 >[!NOTE]
 >
->By default, existing roles with ‘Access Admin’ permission have access to all Admin functions until and unless modified.
+>By default, existing roles with ‘[!UICONTROL Access Admin]’ permission have access to all [!UICONTROL Admin] functions until and unless modified.
 
-## BrightTALK Adapter {#brighttalk-adapter}
+## [!UICONTROL BrightTALK] Adapter {#brighttalk-adapter}
 
-The Marketo BrightTALK adapter enables you to capture attendance information from a live or on-demand webcast, directly into a Marketo event!
+The Marketo [!UICONTROL BrightTALK] adapter enables you to capture attendance information from a live or on-demand webcast, directly into a Marketo event!
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
