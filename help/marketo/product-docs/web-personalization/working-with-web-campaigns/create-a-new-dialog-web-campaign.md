@@ -12,15 +12,15 @@ Create a web campaign to personalize your web content in real-time and provide t
 
 A web campaign is a customized reaction associated with a specific segment. The reaction can be a dialog box on your website, an [in zone replacement](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), a [widget feature](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) or an email alert.
 
-1. Go to **Web Campaigns**.
+1. Go to **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. Select **Create New Web Campaign**.
+1. Select **[!UICONTROL Create New Web Campaign]**.
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. Select the **Dialog** web campaign type. Design and add your creative in the editor. Click **Preview** to see how the web campaign will react on your site.
+1. Select the **[!UICONTROL Dialog]** web campaign type. Design and add your creative in the editor. Click **[!UICONTROL Preview]** to see how the web campaign will react on your site.
 
    ![](assets/new-3.png)
 
@@ -125,7 +125,7 @@ A web campaign is a customized reaction associated with a specific segment. The 
 
 ## Edit a Web Campaign {#edit-a-web-campaign}
 
-1. From the **Web Campaigns** page, click **Edit** on the web campaign.
+1. From the **[!UICONTROL Web Campaigns]** page, click **[!UICONTROL Edit]** on the web campaign.
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
@@ -135,7 +135,7 @@ A web campaign is a customized reaction associated with a specific segment. The 
 
 ## Preview a Web Campaign {#preview-a-web-campaign}
 
-1. From the **Web Campaigns** page, click **Preview** on the web campaign you wish to view.
+1. From the **[!UICONTROL Web Campaigns]** page, click **[!UICONTROL Preview]** on the web campaign you wish to view.
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
@@ -145,7 +145,7 @@ See [Clone a Web Campaign](/help/marketo/product-docs/web-personalization/workin
 
 ## Delete a Web Campaign {#delete-a-web-campaign}
 
-1. From the **Web Campaigns** page, click **Delete** on the web campaign you wish to delete.
+1. From the **[!UICONTROL Web Campaigns]** page, click **[!UICONTROL Delete]** on the web campaign you wish to delete.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
