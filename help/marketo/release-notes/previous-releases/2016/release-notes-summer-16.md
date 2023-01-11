@@ -22,7 +22,7 @@ Marketo Account Based Marketing provides all of the essentials in one unified pl
 >
 >ABM is available as an add-on to your Marketo subscription, so please contact your sales rep to have it implemented.
 
-## [Audit Trail](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
+## [[!UICONTROL Audit Trail]](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
 
 Audit trail provides a comprehensive history of the changes made within your Marketo subscription. It will create accountability among users and admins, help identify the cause of unexpected behavior, and provide the security of knowing who's doing what and when. This information will be available at any point in time and can be used to answer questions such as:
 
@@ -32,13 +32,13 @@ Audit trail provides a comprehensive history of the changes made within your Mar
 
 ![](assets/audit-trail.png)
 
-## [Marketo-Vibes SMS LaunchPoint Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## [Marketo-[!DNL Vibes SMS LaunchPoint] Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
 Easily create SMS messages right within Marketo. Personalize and target your message using your rich Marketo data, and easily monitor its performance using the SMS message dashboard.
 
 >[!NOTE]
 >
->This feature requires that you have an existing Vibes SMS account.
+>This feature requires that you have an existing [!DNL Vibes SMS] account.
 
 ![](assets/vibes-sms2.png)
 
@@ -79,7 +79,7 @@ We've created a new token type for programs. You now can render Program Name, De
 
 ## [Enterprise Key](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-Requiring each person on your sales team to install our Sales Insight Plugin for Outlook can be tedious. We have introduced a new way to install the plugin for Outlook remotely using an enterprise key. Send your IT team your unique key found in the Marketo Sales Insight section of Admin and let them do the rest.
+Requiring each person on your sales team to install our [!DNL Sales Insight] Plugin for [!DNL Outlook] can be tedious. We have introduced a new way to install the plugin for [!DNL Outlook] remotely using an enterprise key. Send your IT team your unique key found in the Marketo [!DNL Sales Insight] section of [!UICONTROL Admin] and let them do the rest.
 
 ![](assets/enterprise-key.png)
 
@@ -103,6 +103,6 @@ New and improved!
 
 ## [Privacy Settings](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Marketers can use privacy settings to decide whether or not to track visitors using Munchkin and Web Personalization features. Tracking level is controlled by using the browser’s Do Not Track setting, an opt-out cookie, or a non-specific IP. These methods might affect Marketo’s value and functionality in specific areas, but if the marketer doesn’t change anything, Marketo functionality remains the same.
+Marketers can use privacy settings to decide whether or not to track visitors using [!DNL Munchkin] and Web Personalization features. Tracking level is controlled by using the browser’s Do Not Track setting, an opt-out cookie, or a non-specific IP. These methods might affect Marketo’s value and functionality in specific areas, but if the marketer doesn’t change anything, Marketo functionality remains the same.
 
 This feature will be released to customers gradually over a period of six weeks. If you need it right away, please contact Marketo Support.
