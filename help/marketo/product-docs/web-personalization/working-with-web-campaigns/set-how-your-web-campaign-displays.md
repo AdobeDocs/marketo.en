@@ -18,36 +18,36 @@ Selected by default, this choice simply displays the campaign upon page load.
 
 Specify a time delay (in total seconds) for web campaigns to react on your website.
 
-1. Click the **Display On** drop-down and select **Delay**.
+1. Click the **[!UICONTROL Display On]** drop-down and select **[!UICONTROL Delay]**.
 
    ![](assets/d1.png)
 
-1. Click the **Wait** drop-down and select the desired amount of time.
+1. Click the **[!UICONTROL Wait]** drop-down and select the desired amount of time.
 
    ![](assets/d2.png)
 
 ## Scroll {#scroll}
 
-1. Click the **Display On** drop-down and select **Scroll**.
+1. Click the **[!UICONTROL Display On]** drop-down and select **[!UICONTROL Scroll]**.
 
    ![](assets/s1.png)
 
-1. Click the **When** drop-down and select when you want your web campaign to display.
+1. Click the **[!UICONTROL When]** drop-down and select when you want your web campaign to display.
 
    ![](assets/s2.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Below fold</strong></td> 
+   <td><strong>[!UICONTROL Below fold]</strong></td> 
    <td>Displays campaign when visitor scrolls below the fold. Campaign disappears when visitor scrolls back above the fold.</td> 
   </tr> 
   <tr> 
-   <td><strong>Percent</strong></td> 
+   <td><strong>[!UICONTROL Percent]</strong></td> 
    <td>Displays campaign when visitor scrolls to predetermined percentage of the page.</td> 
   </tr> 
   <tr> 
-   <td><strong>Pixel</strong></td> 
+   <td><strong>[!UICONTROL Pixel]</strong></td> 
    <td><p>Displays campaign when visitor scrolls to predesignated top pixel on the page.</p></td> 
   </tr> 
  </tbody> 
@@ -57,11 +57,11 @@ Specify a time delay (in total seconds) for web campaigns to react on your websi
 
 Exit intent will display the web campaign upon mouse cursor exit of the browser.
 
-1. Click the **Display On** drop-down and select **Exit Intent**.
+1. Click the **[!UICONTROL Display On]** drop-down and select **[!UICONTROL Exit Intent]**.
 
    ![](assets/ei1.png)
 
-1. A message appears reminding you Exit Intent is not compatible with mobile.
+1. A message appears reminding you [!UICONTROL Exit Intent] is not compatible with mobile.
 
    ![](assets/ei2.png)
 
