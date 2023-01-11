@@ -10,9 +10,9 @@ exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 
 ![](assets/image2014-11-11-20-3a24-3a5.png)
 
-The Segments tab displays all of the custom defined segments that you set up based on various attributes.  **A segment is a collection of visitors that meet the specified criteria defined in the ‘Set a Segment’ page.**  A segment can be visitors from a specific industry, location or based on the visitor's onsite activity.
+The Segments tab displays all of the custom defined segments that you set up based on various attributes.  **A segment is a collection of visitors that meet the specified criteria defined in the ‘[!UICONTROL Set a Segment]’ page.**  A segment can be visitors from a specific industry, location or based on the visitor's onsite activity.
 
-In Web Personalization, a visitor can match more than one segment. For example, if there is a segment for USA visitors and a segment for finance companies, a web visitor from Bank of America would match **both** the segment for USA visitor and the segment for finance companies.
+In [!DNL Web Personalizatio] , a visitor can match more than one segment. For example, if there is a segment for USA visitors and a segment for finance companies, a web visitor from Bank of America would match **both** the segment for USA visitor and the segment for finance companies.
 
 **GRAPH:**  The Segments page displays a bar chart graph of the selected segments according to the number of visitors from the segment (y axis) and the segment name (x axis).
 
@@ -65,19 +65,19 @@ These details include:
 * The domain sites associated with the segment
 * A short summary of the selected criteria of the segment
 
-## Enable or Disable a Segment {#enable-or-disable-a-segment}
+## [!UICONTROL Enable] or [!UICONTROL Disable] a Segment {#enable-or-disable-a-segment}
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
-To enable or disable a segment, select the checkbox of that Segment in the table and in the "Choose Action" drop-down box at the bottom of the table, select the action "Enable" or "Disable". When a segment is disabled, the word "disable" displays under the State column.
+To enable or disable a segment, select the checkbox of that Segment in the table and in the "[!UICONTROL Choose Action]" drop-down box at the bottom of the table, select the action "[!UICONTROL Enable]" or "[!UICONTROL Disable]". When a segment is disabled, the word "disable" displays under the [!UICONTROL State] column.
 
 ## Create Segments {#create-segments}
 
-The segment you create meets whatever specific criteria you define in the **Set Segment** page. You can customize your segments based on a combination of criteria as well, targeting a specific audience in your campaign.
+The segment you create meets whatever specific criteria you define in the **[!UICONTROL Set Segment]** page. You can customize your segments based on a combination of criteria as well, targeting a specific audience in your campaign.
 
 To create a new segment
 
-From the **Segments** page, click **Create New** under the graph. The following screen appears.
+From the **[!UICONTROL Segments]** page, click **[!UICONTROL Create New]** under the graph. The following screen appears.
 
 ![](assets/four.png)
 
@@ -127,33 +127,33 @@ Drag and drop Segment attributes from the right hand side column into the segmen
 
 **Location**
 
-Drag and drop **Location** into the segment editor.
+Drag and drop **[!UICONTROL Location]** into the segment editor.
 
 * Select from the following parameters:
 
-    * **Include** - Select whether you want the campaign to include or exclude a location.
-    * **Select country to add** - From the drop-down box, select the country you wish to include in the segment. The country name appears to the right. You can choose multiple countries.
+    * **[!UICONTROL Include]** - Select whether you want the campaign to include or exclude a location.
+    * **[!UICONTROL Select country to add]** - From the drop-down box, select the country you wish to include in the segment. The country name appears to the right. You can choose multiple countries.
 
 Once the country is added, you can specify the state, city and zip code of the segment as well.
 
-* **Select State or Province to add** - From the drop-down box, select the U.S. state or Canadian Province you wish to include. You can make multiple selections.
-* **Zip Code** - Enter the zip code you wish to include in your segment.
-* **Cities** - Enter the city or cities you wish to include. Use a semicolon between cities.
+* **[!UICONTROL Select State or Province to add]** - From the drop-down box, select the U.S. state or Canadian Province you wish to include. You can make multiple selections.
+* **[!UICONTROL Zip Code]** - Enter the zip code you wish to include in your segment.
+* **[!UICONTROL Cities]** - Enter the city or cities you wish to include. Use a semicolon between cities.
 
 >[!TIP]
 >
->**What segment conditions do I choose? ‘AND’ or ‘OR’?** OR functions as an additional option within each field. Prospects need only fulfill one criteria of the multiple criteria selected within each field in order to qualify for the segment. (For example, prospects can either be from the U,S. *or* from the Defense industry). AND functions as an additional mandatory parameter which must be met for this segment. (For example, prospects must both be from the U.S. and from the Defense industry). Within each segmentation profile, each separate field can function as both, either an “AND” or “OR” depending on the Segment Condition selected.
+>**What segment conditions do I choose? ‘[!UICONTROL AND]’ or ‘[!UICONTROL OR]’?** OR functions as an additional option within each field. Prospects need only fulfill one criteria of the multiple criteria selected within each field in order to qualify for the segment. (For example, prospects can either be from the U,S. *or* from the Defense industry). AND functions as an additional mandatory parameter which must be met for this segment. (For example, prospects must both be from the U.S. and from the Defense industry). Within each segmentation profile, each separate field can function as both, either an “AND” or “OR” depending on the Segment Condition selected.
 
-**Industries** Under the **Profile Segmentation** section, check the box next to **Industry**.
+**Industries** Under the **[!UICONTROL Profile Segmentation]** section, check the box next to **[!UICONTROL Industry]**.
 
 * Select from the following parameters:
 
-    * **Includes** - Select whether you want the segment to include or exclude an industry.
-    * **Select Industries to add** - Select the industry you wish to include in the segment. The industry appears below the drop-down box. You can choose multiple industries.
+    * **[!UICONTROL Includes]** - Select whether you want the segment to include or exclude an industry.
+    * **[!UICONTROL Select Industries to add]** - Select the industry you wish to include in the segment. The industry appears below the drop-down box. You can choose multiple industries.
 
 **Organization Group**
 
-Under the **Profile Segmentation** section, check the box next to **Organization Group.**
+Under the **[!UICONTROL Profile Segmentation]** section, check the box next to **[!UICONTROL Organization Group].**
 
 * From the drop-down box, select from the following choices:
 
@@ -180,7 +180,7 @@ Select from a [Named Account List](/help/marketo/product-docs/web-personalizatio
 
 >[!NOTE]
 >
->The number in the brackets next to the Named Account List name is used as an index reference for the list for Web Personalization [Read API](https://developers.marketo.com/documentation/websites/rtp-js-api/).
+>The number in the brackets next to the Named Account List name is used as an index reference for the list for [!DNL Web Personalization] [Read API](https://developers.marketo.com/documentation/websites/rtp-js-api/).
 
 **Exclude ISP**
 
@@ -188,9 +188,9 @@ Excludes Internet Service Providers (ISPs) from the segment.
 
 ### Known People {#known-people}
 
-**Database**
+**[!UICONTROL Database]**
 
-Web Personalization integrates with your Marketo Database, allowing you to segment and personalize campaigns by known person attributes and data.
+[!DNL Web Personalization] integrates with your Marketo Database, allowing you to segment and personalize campaigns by known person attributes and data.
 
 Select Database, and select a person data field from the drop-down. Select the **+** to add fields from the drop-down.
 
@@ -204,22 +204,22 @@ You can add or remove person data fields from Account Settings > Database
 >
 >Eg. "Job Title equals CMO" and "Score is less than or equals to 50"
 
-**Marketo Email Campaign** Segment and personalize campaigns by email referral from a visitor clicking on a Marketo email and arriving on site. Segment by Marketo Program Name or Campaign Name and continue the conversation from email to web. Select the  +  to add fields from the drop-down.
+**[!UICONTROL Marketo Email Campaign]** Segment and personalize campaigns by email referral from a visitor clicking on a Marketo email and arriving on site. Segment by Marketo Program Name or Campaign Name and continue the conversation from email to web. Select the  +  to add fields from the drop-down.
 
 ![](assets/image2015-5-27-17-3a20-3a34.png)
 
-**Status**
+**[!UICONTROL Status]**
 
 Define your segment according to a prospect’s status: known or anonymous.
 
-* Known - Select this option from the drop-down box for known visitors. A visitor is known when they submit a form on your website and appear in the Web Personalization People page.
+* Known - Select this option from the drop-down box for known visitors. A visitor is known when they submit a form on your website and appear in the [!DNL Web Personalization] [!UICONTROL People] page.
 * Anonymous - Select this option from the drop-down box for anonymous visitors.
 
 ![](assets/image2015-5-27-17-3a23-3a2.png) 
 
 ### Behavioral {#behavioral}
 
-**Visits -** Define your segment according to visitor behavior or identify.
+**[!UICONTROL Visits] -** Define your segment according to visitor behavior or identify.
 
 * Number of Visits - Select this option from the drop-down box to specify the number of visits for prospects on the website.
 
@@ -227,21 +227,21 @@ Define your segment according to a prospect’s status: known or anonymous.
 
 * Specific Visits - Select this option from the drop-down box to specify a specific visitor.
 
-    * In the text box to the right, enter the visitor number you wish to track. The unique Web Personalization visitor identification number can be found when clicking on a visitor (in the visitors page) and the Set Campaign on the right side panel. The Visitor ID is located in the Advanced Settings section. The visitor ID can also be found in the URL (e.g. VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
+    * In the text box to the right, enter the visitor number you wish to track. The unique [!DNL Web Personalization] visitor identification number can be found when clicking on a visitor (in the visitors page) and the Set Campaign on the right side panel. The Visitor ID is located in the Advanced Settings section. The visitor ID can also be found in the URL (e.g. VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
-**Search Terms** - Define a segment according to a prospect’s search terms.
+**[!UICONTROL Search Terms]** - Define a segment according to a prospect’s search terms.
 
 * The visitor searched for - From the drop-down list, select the terms you want to track from your visitors search, or add your own search terms. (There is no need for the &#42; wildcard on search terms as it is set as default to include phrases that contain the search term).
 
-**Referrals** - Add URLs that the visitor was referred by.
+**[!UICONTROL Referrals]** - Add URLs that the visitor was referred by.
 
 * Select referrals to add - From the drop-down list, select the referral sites you wish to track or add your own referral. Once selected, the referrals will appear in the box below. (Using &#42; as a wildcard is permitted)
 
-**Include Pages** - Track specific pages prospects visited on your website.
+**[!UICONTROL Include Pages]** - Track specific pages prospects visited on your website.
 
 * URL matches - Add the URL of specific web pages you wish to track. You can add multiple URLs by separating them with a semicolon. (Using &#42; as a wildcard is permitted).
 
-**Exclude Pages** - Exclude specific pages that you do not want to match in the segment. (Using &#42; as a wildcard is permitted).
+**[!UICONTROL Exclude Pages]** - Exclude specific pages that you do not want to match in the segment. (Using &#42; as a wildcard is permitted).
 
 * URL does not match - Add the URL of specific web pages you wish to exclude from tracking. You can add multiple URLs by separating them with a semicolon
 
@@ -249,20 +249,20 @@ Define your segment according to a prospect’s status: known or anonymous.
 
 ### Device / Browser {#device-browser}
 
-**Mobile OS**
+**[!UICONTROL Mobile OS]**
 
-Drag and drop the Mobile OS into the Segment editor
+Drag and drop the [!UICONTROL Mobile OS] into the Segment editor
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
 * **Visitor type**<br />
-  **Mobile OS** - From the drop-down box, select from one or more mobile OS listed. The selected mobile OS appear below.
+  **[!UICONTROL Mobile OS]** - From the drop-down box, select from one or more mobile OS listed. The selected mobile OS appear below.
 
     * The visitor is using any mobile device
     * The visitor is using this specific device/OS
     * The visitor is not using any mobile device
 
-* **Device**  - From the drop-down list, select from one or more devices (Apple, Samsung, LG, HTC, Nexus, Blackberry etc...). The selected devices appear below.
+* **[!UICONTROL Device]**  - From the drop-down list, select from one or more devices (Apple, Samsung, LG, HTC, Nexus, Blackberry etc...). The selected devices appear below.
 
 **Browser** 
 
@@ -279,29 +279,29 @@ Add the Event value you want to target. E.g. from third party data sources.
 
 **User Context API**
 
-Web Personalization API call  [read more about it here.](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+[!DNL Web Personalization] API call  [read more about it here.](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
 >
 >**Using Wildcards -** When you would like to include any search term or URL that contains something within it i.e. “[google.com](https://google.com)” or “search term product”, we call this a wildcard and it should be inputted with an asterisk - this little guy&#42; - on each end. So anything coming from [google.com](https://google.com) should be inputted as &#42; [google.com](https://google.com)&#42;
 
-## Edit Segments {#edit-segments}
+## Edit [!UICONTROL Segments] {#edit-segments}
 
 You can edit a segment that has been created.
 
-1. To edit a Segment, go to **Segments**.
+1. To edit a Segment, go to **[!UICONTROL Segments]**.
 
    ![](assets/image2014-11-12-11-3a38-3a22.png)
 
-1. In the **Segments** table, click on the edit icon ( ![](assets/segment-edit.png)) of the segment you wish to edit. The **Set Segment** page opens with the selected segment.
+1. In the **[!UICONTROL Segments]** table, click on the edit icon ( ![](assets/segment-edit.png)) of the segment you wish to edit. The **[!UICONTROL Set Segment]** page opens with the selected segment.
 1. Apply any edits or changes you wish to make on the segment.
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
 ## Delete Segments {#delete-segments}
 
 You can delete segments you have created.
 
-1. From the **Segments** page above, select a segment.
+1. From the **[!UICONTROL Segments]** page above, select a segment.
 1. Click the delete icon ( ![](assets/segment-delete.png) ) of the segment you wish to delete.
 1. A confirmation message appears, confirming that you are about to delete the **Segment**.
 
