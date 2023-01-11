@@ -8,17 +8,17 @@ exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 
 The following features are included in the December 2014 release. Please check your Marketo Edition for feature availability. After the release, be sure to come back to find links to detailed articles for each feature!
 
-## Sales Insight Reports {#sales-insight-reports}
+## [!DNL Sales Insight] Reports {#sales-insight-reports}
 
-The [Sales Insight Email Performance Report](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) allows you to see email metrics by email and Sales Representative. It supports emails sent out through Salesforce, Microsoft Dynamics, the Outlook plug-in and the Gmail plug-in.
+The [[!DNL Sales Insight] Email Performance Report](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) allows you to see email metrics by email and Sales Representative. It supports emails sent out through [!DNL Salesforce], [!DNL Microsoft Dynamics], the [!DNL Outlook] plug-in and the [!DNL Gmail] plug-in.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
 ![](assets/image2014-12-5-11-3a5-3a55.png)
 
-## Facebook Custom Audiences {#facebook-custom-audiences}
+## [!DNL Facebook] Custom Audiences {#facebook-custom-audiences}
 
-Once your Marketo admin has added [Facebook via Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), you can easily create, update or [replace a Facebook Custom Audience with leads from a Marketo static or smart list](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Look for the new Facebook icon along the bottom of the lead grid of any static or smart list.
+Once your Marketo admin has added [[!DNL Facebook] via [!UICONTROL Admin] > [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), you can easily create, update or [replace a [!DNL Facebook] Custom Audience with leads from a Marketo static or smart list](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Look for the new [!DNL Facebook] icon along the bottom of the lead grid of any static or smart list.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
@@ -48,9 +48,9 @@ Links within email scripts will now be tracked and available within the Email Li
 
 We’ve rolled out a new security feature to automatically HTML encode tokens, which will be enabled by default in March 2015. Until then, toggle this functionality in Field Management to test the behavior ahead of time. All lead and company tokens will be encoded when inserted into emails or landing pages. Options will also be available for individual fields.
 
-## New ReST API Calls {#new-rest-api-calls}
+## New [!DNL ReST] API Calls {#new-rest-api-calls}
 
-Three new calls for the Lead & Activity ReST API:
+Three new calls for the Lead & Activity [!DNL ReST] API:
 
 · Get Lead Partitions
 
@@ -60,13 +60,13 @@ Three new calls for the Lead & Activity ReST API:
 
 Full details will be available after the release at [developers.marketo.com](https://developers.marketo.com/)
 
-## Munchkin Javascript Compatibility Enhancements {#munchkin-javascript-compatibility-enhancements}
+## [!DNL Munchkin Javascript] Compatibility Enhancements {#munchkin-javascript-compatibility-enhancements}
 
-We’ve made several minor enhancements to Munchkin to ensure it continues to load quickly and function as desired in cases with other JavaScript on the page.
+We’ve made several minor enhancements to [!DNL Munchkin] to ensure it continues to load quickly and function as desired in cases with other JavaScript on the page.
 
 Rollout will be staged starting in mid-December and continuing for the next several months.
 
-## Revenue Explorer Upgraded Look and Feel {#revenue-explorer-upgraded-look-and-feel}
+## [!UICONTROL Revenue Explorer] Upgraded Look and Feel {#revenue-explorer-upgraded-look-and-feel}
 
 ![](assets/image2014-12-5-11-3a8-3a4.png)
 
@@ -76,7 +76,7 @@ Rollout will be staged starting in mid-December and continuing for the next seve
 
 ## RTP: Named Account List Module {#rtp-named-account-list-module}
 
-Manage and monitor your key high-yield accounts in the new Named Accounts page. Upload new lists of named accounts to identify and target these organizations. We’ve automated the process providing you more control and flexibility to implement your account-based marketing plans and target your key accounts across different channels (web and advertising).
+Manage and monitor your key high-yield accounts in the new [!UICONTROL Named Accounts] page. Upload new lists of named accounts to identify and target these organizations. We’ve automated the process providing you more control and flexibility to implement your account-based marketing plans and target your key accounts across different channels (web and advertising).
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 
