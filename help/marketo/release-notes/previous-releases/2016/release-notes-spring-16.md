@@ -10,7 +10,7 @@ The following features are included in the Spring '16 release. Please click the 
 
 ## [Email Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
-Email Insights is a brand new historical aggregate data email analytics experience — redesigned end-to-end for lightning fast performance as part of Project Orion. It features a completely new user interface design optimized to fit the needs and workflow of Email Marketers.
+Email Insights is a brand new historical aggregate data email analytics experience — redesigned end-to-end for lightning fast performance as part of Project [!DNL Orion]. It features a completely new user interface design optimized to fit the needs and workflow of Email Marketers.
 
 >[!NOTE]
 >
@@ -42,23 +42,23 @@ Create stunning in-app messages for your app right within Marketo. Define exactl
 
 ## [No Draft Snippets](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md) {#no-draft-snippets}
 
-Gone are the days where you have to re-approve everything each time a snippet is updated! With No-Draft, all emails and landing pages using a snippet will get the snippet updates and maintain their prior statuses. Each time you approve a snippet, you’ll have a choice to run No-Draft and update everything, or create drafts. It’s up to you! No-Draft will be available to all customers and controlled by a new permission in Admin.
+Gone are the days where you have to re-approve everything each time a snippet is updated! With No-Draft, all emails and landing pages using a snippet will get the snippet updates and maintain their prior statuses. Each time you approve a snippet, you’ll have a choice to run No-Draft and update everything, or create drafts. It’s up to you! No-Draft will be available to all customers and controlled by a new permission in [!UICONTROL Admin].
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
 ## [Landing Page, Landing Page Template, and Form APIs](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
-The Marketo REST APIs now support control over Marketo landing pages, landing page templates, and forms. Users can now create, update content, approve, and delete these assets directly via the Marketo REST API.
+The Marketo [!DNL REST] APIs now support control over Marketo landing pages, landing page templates, and forms. Users can now create, update content, approve, and delete these assets directly via the Marketo [!DNL REST] API.
 
 ## [IP Allowlisting for API Access](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Similar to the IP allowlisting feature for Marketo user logins, Marketo admins can now set up a allowlist of IP addresses that can access the Marketo SOAP and REST APIs, thereby blocking access from non-authorized IP addresses. This provides an added layer of security to your Marketo instance, and ensures that API access can only occur from within your organization’s network. Details on how to set this up are available on the [Marketo documentation site](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+Similar to the IP allowlisting feature for Marketo user logins, Marketo admins can now set up a allowlist of IP addresses that can access the Marketo [!DNL SOAP] and [!DNL REST] APIs, thereby blocking access from non-authorized IP addresses. This provides an added layer of security to your Marketo instance, and ensures that API access can only occur from within your organization’s network. Details on how to set this up are available on the [Marketo documentation site](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
-## [New High-Speed Microsoft Dynamics Sync Connector](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
+## [New High-Speed [!DNL Microsoft Dynamics] Sync Connector](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
-Built atop Orion architecture, the new, high-speed dynamics connector provides speeds up to 20 times faster for initial sync and up to 5 times faster for incremental sync. All new customers will onboard to this connector on the release date, and we will gradually roll it out to existing customers over the summer release time frame.
+Built atop [!DNL Orion] architecture, the new, high-speed dynamics connector provides speeds up to 20 times faster for initial sync and up to 5 times faster for incremental sync. All new customers will onboard to this connector on the release date, and we will gradually roll it out to existing customers over the summer release time frame.
 
-**Refresh data for new fields**: Now you can enable new sync fields at any point in time and all data values for that field will be refreshed from Dynamics CRM into Marketo. No more worries about having to select all fields during initial setup. If you disable an existing sync field and re-enable it later, all data values for that field will be refreshed from Dynamics CRM into Marketo.
+**Refresh data for new fields**: Now you can enable new sync fields at any point in time and all data values for that field will be refreshed from [!DNL Dynamics] CRM into Marketo. No more worries about having to select all fields during initial setup. If you disable an existing sync field and re-enable it later, all data values for that field will be refreshed from [!DNL Dynamics] CRM into Marketo.
 
 **Sync Lead as Contact**: The Sync Lead to Microsoft flow action has a new option to sync as a lead or a contact.
 
@@ -68,7 +68,7 @@ Built atop Orion architecture, the new, high-speed dynamics connector provides s
 
 ![](assets/sync-errors.png)
 
-**Microsoft Dynamics 2016**: Connector is fully certified for Dynamics 2016 Online and On-premise versions.
+**[!DNL Microsoft Dynamics] 2016**: Connector is fully certified for [!DNL Dynamics] 2016 [!DNL Online] and [!DNL On-premise] versions.
 
 **Plug-In Updates are now documented:** See the [plug-in updates docs article](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 
