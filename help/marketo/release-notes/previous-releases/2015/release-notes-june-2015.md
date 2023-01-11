@@ -10,4 +10,4 @@ The following features are included in the June 2015 release. Please check your 
 
 ## [Attribution Email Report](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
 
-See the value personalization and recommended content provides to your marketing activities. [The Attribution Email Report](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) displays the direct and assisted leads attributed from RTP’s personalization and recommended content campaigns. In RTP’s, User Settings and Email Report, add the Attribution Email Report to receive monthly or quarterly emails.
+See the value personalization and recommended content provides to your marketing activities. [The Attribution Email Report](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) displays the direct and assisted leads attributed from [!DNL RTP]’s personalization and recommended content campaigns. In [!DNL RTP]’s, User Settings and Email Report, add the Attribution Email Report to receive monthly or quarterly emails.
