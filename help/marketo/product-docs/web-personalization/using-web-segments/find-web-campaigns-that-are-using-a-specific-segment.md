@@ -8,11 +8,11 @@ exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
 
 Looking for web campaigns that use a specific segment?
 
-1. Go to **Segments**.
+1. Go to **[!UICONTROL Segments]**.
 
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. Search for a **Segment**. Select the **Segment Name**. In the right hand panel, click on **Associated Campaigns** to view the campaigns that are associated this specific segment.
+1. Search for a **Segment**. Select the **Segment Name**. In the right hand panel, click on **[!UICONTROL Associated Campaigns]** to view the campaigns that are associated this specific segment.
 
    ![](assets/image2014-11-26-14-21-59.png)
 
