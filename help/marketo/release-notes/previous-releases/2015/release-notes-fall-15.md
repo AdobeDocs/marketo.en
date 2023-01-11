@@ -34,17 +34,17 @@ Easily create custom objects from the admin UI. We currently support the ability
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Marketo Insights for Google Chrome {#marketo-insights-for-google-chrome}
+## Marketo Insights for [!DNL Google Chrome] {#marketo-insights-for-google-chrome}
 
-[Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[Marketo Insights for [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-We’re excited to announce the release of an update to our Google Mail Sales Insight extension! View it in the  [Chrome Store](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+We’re excited to announce the release of an update to our [!DNL Google Mail] [!DNL Sales Insight] extension! View it in the  [Chrome Store](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 This update includes many new features and functionality:
 
-* Prior to engaging, salespeople can see relevant information about their prospects directly within Google Mail, including job titles, twitter profiles, company information, photos, and more.
+* Prior to engaging, salespeople can see relevant information about their prospects directly within [!DNL Google Mail], including job titles, twitter profiles, company information, photos, and more.
 * Salespeople can see in real-time what content prospects are engaging with across channels, such as emails opened or clicked, online or in-person events attended, web pages visited, eBooks downloaded and much more.
-* Emails sent through Google Mail are logged in Marketo and tracked in real-time. This lets salespeople see when prospects are looking at their emails so they can follow-up at just the right time. Marketo Sales Insight for Google Mail also makes it easy for salespeople to leverage templates created by marketing in order to send beautiful invites, offers, and other types of content.
+* Emails sent through [!DNL Google Mail] are logged in Marketo and tracked in real-time. This lets salespeople see when prospects are looking at their emails so they can follow-up at just the right time. Marketo [!DNL Sales Insight] for [!DNL Google Mail] also makes it easy for salespeople to leverage templates created by marketing in order to send beautiful invites, offers, and other types of content.
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
@@ -134,9 +134,9 @@ We are making several improvements to the rich text editor. After we released th
 <td background="someImage.png"> 
 ```
 
-## Microsoft Dynamics - Validate Sync {#microsoft-dynamics-validate-sync}
+## [!DNL Microsoft Dynamics] - Validate Sync {#microsoft-dynamics-validate-sync}
 
-[Microsoft Dynamics - Validate Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+[[!DNL Microsoft Dynamics] - Validate Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
 This new admin tool runs a series of checks to see if your sync configurations have been set up correctly.
 
@@ -144,7 +144,7 @@ This new admin tool runs a series of checks to see if your sync configurations h
 
 ## Add Fields to CRM Custom Object Sync {#add-fields-to-crm-custom-object-sync}
 
-Easily add new fields to custom objects synced from Salesforce and Dynamics. You now can add new fields to your custom object sync without disabling and enabling your entire custom object.
+Easily add new fields to custom objects synced from [!DNL Salesforce] and [!DNL Dynamics]. You now can add new fields to your custom object sync without disabling and enabling your entire custom object.
 
 ## Changes to Security Features {#changes-to-security-features}
 
@@ -155,13 +155,13 @@ Easily add new fields to custom objects synced from Salesforce and Dynamics. You
 
 ## IE 11 Support (and deprecating support for IE 9) {#ie-support-and-deprecating-support-for-ie}
 
-We now officially support the Microsoft Internet Explorer 11 browser and are removing support for the Microsoft Internet Explorer 9 browser.
+We now officially support the [!DNL Microsoft Internet Explorer] 11 browser and are removing support for the [!DNL Microsoft Internet Explorer] 9 browser.
 
 ## Lightning UI support for MSI {#lightning-ui-support-for-msi}
 
-The latest MSI package on app exchange works with both Lightning and Legacy versions of the Salesforce UI.
+The latest MSI package on app exchange works with both Lightning and Legacy versions of the [!DNL Salesforce] UI.
 
-## New Dynamics Plug-in {#new-dynamics-plug-in}
+## New [!DNL Dynamics] Plug-in {#new-dynamics-plug-in}
 
 This new plug-in runs various actions in an asynchronous mode to help increase performance.
 
