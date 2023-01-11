@@ -10,15 +10,15 @@ A web campaign is a customized reaction associated with a specific segment and c
 
 ## Create an In Zone Web Campaign {#create-an-in-zone-web-campaign}
 
-1. Go to **Web Campaigns**.
+1. Go to **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-15-3a54-3a21.png)
 
-1. Select **Create New Web Campaign.**
+1. Select **[!UICONTROL Create New Web Campaign].**
 
    ![](assets/create-new-web-campaign-hand.png)
 
-1. Select the **In Zone** campaign type. Customize and add a **Zone id.** Set the campaign to **Sticky** and add your creative in the editor. Add the URL of the page to preview and click **Preview** to see how the campaign will react on your site.
+1. Select the **[!UICONTROL In Zone]** campaign type. Customize and add a **[!UICONTROL Zone id].** Set the campaign to **[!UICONTROL Sticky]** and add your creative in the editor. Add the URL of the page to preview and click **[!UICONTROL Preview]** to see how the campaign will react on your site.
 
    ![](assets/new-3-1.png)
 
@@ -26,7 +26,7 @@ A web campaign is a customized reaction associated with a specific segment and c
    >
    >**What is a Zone ID?**
    >
-   >A Zone ID is where you would like your "In Zone" web campaign to be located onsite. To find a "Zone ID", simply go to your website select the area you would like to replace with a web campaign and right-click. In Chrome, the option is “Inspect Element”, in other browsers it may vary.
+   >A Zone ID is where you would like your "[!UICONTROL In Zone]" web campaign to be located onsite. To find a "[!UICONTROL Zone ID]", simply go to your website select the area you would like to replace with a web campaign and right-click. In Chrome, the option is “Inspect Element”, in other browsers it may vary.
    >
    >Then, you want to find the "id" associated with this section of the website, which is highlighted because you are inspecting that element. For example, if once you right-click in Chrome the highlighted text says `<div id="featured-slider">` then "featured-slider" is what you should type in the "zone id" section. Typically "div id" is used, but any ID can be used as well, such as h1 id, p id, etc.
 
@@ -91,7 +91,7 @@ From the **Web Campaigns** page, click **Edit** on the Campaign.
 
 ## Preview a Web Campaign {#preview-a-web-campaign}
 
-1. From the Web Campaigns page, click **Preview** on the web campaign you wish to view.
+1. From the [!UICONTROL Web Campaigns] page, click **[!UICONTROL Preview]** on the web campaign you wish to view.
 
    ![](assets/in-zone-web-campaign-preview.png)
 
@@ -101,7 +101,7 @@ From the **Web Campaigns** page, click **Edit** on the Campaign.
 
 ## Delete a Web Campaign {#delete-a-web-campaign}
 
-1. From the Web Campaigns page, click **Delete** on the Campaign you wish to delete.
+1. From the Web Campaigns page, click **[!UICONTROL Delete]** on the Campaign you wish to delete.
 
    ![](assets/in-zone-web-campaign-delete.png)
 
