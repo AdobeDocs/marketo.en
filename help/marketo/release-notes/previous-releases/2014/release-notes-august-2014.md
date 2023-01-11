@@ -26,13 +26,13 @@ The following new user permissions were added:
 | Activate Trigger Campaign |Control who can and cannot activate trigger campaigns. |
 | Schedule Batch Campaign |Control who can and cannot schedule batch campaign runs. |
 
-## Export Users and Roles from Admin {#export-users-and-roles-from-admin}
+## Export [!UICONTROL Users] and [!UICONTROL Roles] from [!UICONTROL Admin] {#export-users-and-roles-from-admin}
 
-You can now [Export a List of Users and Roles](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) from Marketo. You can also include a "Last Login" time stamp to be included with the export.
+You can now [Export a List of [!UICONTROL Users] and [!UICONTROL Roles]](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) from Marketo. You can also include a "Last Login" time stamp to be included with the export.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
-## Delete Channels and Tags {#delete-channels-and-tags}
+## Delete Channels and [!UICONTROL Tags] {#delete-channels-and-tags}
 
 You can now delete any unused channels and statuses. As always, you can only hide one that is currently in use.
 
