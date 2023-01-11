@@ -8,7 +8,7 @@ exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 
 See how you can embed a Marketo form into a web campaign (Dialog, In Zone or Widget).
 
-1. Right-click on an approved form. Select **Embed Code**.
+1. Right-click on an approved form. Select **[!UICONTROL Embed Code]**.
 
    ![](assets/image2015-12-16-10-3a58-3a39.png)
 
@@ -16,11 +16,11 @@ See how you can embed a Marketo form into a web campaign (Dialog, In Zone or Wid
 
    ![](assets/image2015-12-16-11-3a16-3a24.png)
 
-1. In Web Personalization, go to **Web Campaigns**.
+1. In [!DNL Web Personalization], go to **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-7.jpg)
 
-1. Click **Create New Campaign**.
+1. Click **[!UICONTROL Create New Campaign]**.
 
    ![](assets/create-new-web-campaign-hand-1.jpg)
 
@@ -28,13 +28,13 @@ See how you can embed a Marketo form into a web campaign (Dialog, In Zone or Wid
 
    ![](assets/five-1.png)
 
-1. Paste the form embed code into the HTML Source Editor. Click **Update**.
+1. Paste the form embed code into the [!UICONTROL HTML Source Editor]. Click **[!UICONTROL Update]**.
 
    ![](assets/six-1.png)
 
 1. The form will not display in the editor view, but you can preview it to see how it will render in a campaign.
 
-1. Click **Launch** to start the campaign.
+1. Click **[!UICONTROL Launch]** to start the campaign.
 
    >[!NOTE]
    >
@@ -52,7 +52,7 @@ To edit the CSS of a Form Theme, see [this article](/help/marketo/product-docs/d
 
 To change the dialog or widget colors in Set Campaign:
 
-1. In the Rich Text Editor, select a Dialog campaign type and a dialog style, header color and background color to customize the form's background colors. Click **Save**.
+1. In the Rich Text Editor, select a Dialog campaign type and a dialog style, header color and background color to customize the form's background colors. Click **[!UICONTROL Save]**.
 
    ![](assets/image2015-12-29-18-3a28-3a31.png)
 
@@ -66,11 +66,11 @@ To add CSS code to the script:
 
    ![](assets/image2015-12-29-17-3a56-3a13.png)
 
-1. Paste the form embed code with the background style code into the HTML Source Editor. Click **Update**.
+1. Paste the form embed code with the background style code into the [!UICONTROL HTML Source Editor]. Click **[!UICONTROL Update]**.
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 
-1. Click **Preview** it to see how it will render in a campaign (the form will not display in the editor view). Here's an example of how the form code above renders in a campaign with a background image.
+1. Click **[!UICONTROL Preview]** it to see how it will render in a campaign (the form will not display in the editor view). Here's an example of how the form code above renders in a campaign with a background image.
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
