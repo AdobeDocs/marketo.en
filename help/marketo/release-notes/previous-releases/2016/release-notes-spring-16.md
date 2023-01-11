@@ -60,7 +60,7 @@ Built atop [!DNL Orion] architecture, the new, high-speed dynamics connector pro
 
 **Refresh data for new fields**: Now you can enable new sync fields at any point in time and all data values for that field will be refreshed from [!DNL Dynamics] CRM into Marketo. No more worries about having to select all fields during initial setup. If you disable an existing sync field and re-enable it later, all data values for that field will be refreshed from [!DNL Dynamics] CRM into Marketo.
 
-**Sync Lead as Contact**: The Sync Lead to Microsoft flow action has a new option to sync as a lead or a contact.
+**Sync Lead as Contact**: The [!UICONTROL Sync Lead to Microsoft] flow action has a new option to sync as a lead or a contact.
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
