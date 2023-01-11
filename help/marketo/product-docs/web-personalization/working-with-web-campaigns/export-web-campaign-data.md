@@ -8,7 +8,7 @@ exl-id: 04c33b2a-a314-486d-b72d-5618d7c0ed0d
 
 Follow these simple steps to export your web campaign data.
 
-1. Go to **Web Campaigns**.
+1. Go to **[!UICONTROL Web Campaigns]**.
 
    ![](assets/one-2.png)
 
