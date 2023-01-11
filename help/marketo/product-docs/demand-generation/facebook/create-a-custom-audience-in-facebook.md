@@ -31,6 +31,10 @@ exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
 
+   >[!IMPORTANT]
+   >
+   >The Facebook API allows up to 500 custom audiences per Facebook ad account.
+
 1. Type in an **Audience Name**. Click **Update**.
 
    ![](assets/create-a-custom-audience-in-facebook-5.png)
