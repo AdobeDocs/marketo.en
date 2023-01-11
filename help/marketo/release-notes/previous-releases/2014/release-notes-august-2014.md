@@ -40,15 +40,15 @@ You can now delete any unused channels and statuses. As always, you can only hid
 
 ![](assets/image2014-9-16-12-3a23-3a4.png)
 
-## Automated DKIM {#automated-dkim}
+## Automated [!DNL DKIM] {#automated-dkim}
 
-For improved deliverability, all outgoing emails will be DKIM (DomainKeys Identified Mail) signed. By default, emails will use Marketo's shared DKIM signature. You will have the option to customize this signature.
+For improved deliverability, all outgoing emails will be [!DNL DKIM] (DomainKeys Identified Mail) signed. By default, emails will use Marketo's shared [!DNL DKIM] signature. You will have the option to customize this signature.
 
 ![](assets/image2014-9-16-12-3a23-3a16.png)
 
 >[!NOTE]
 >
->DKIM will be rolled out slowly, you may not see it for a few weeks.
+>[!DNL DKIM] will be rolled out slowly, you may not see it for a few weeks.
 
 ## Real-Time Personalization Updates {#real-time-personalization-updates}
 
