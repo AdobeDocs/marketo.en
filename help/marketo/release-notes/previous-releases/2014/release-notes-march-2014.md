@@ -28,7 +28,7 @@ When using the [program performance report](/help/marketo/product-docs/core-mark
 
 ## Inclusive and Operational Programs for Analytics {#inclusive-and-operational-programs-for-analytics}
 
-You can now [include programs without period costs](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) in Revenue Explorer and Analyzers by setting the Analytics Behavior option to “Inclusive” when you edit Program Channels. You can also exclude operational programs from reporting all together by choosing “Operational”.
+You can now [include programs without period costs](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) in [!UICONTROL Revenue Explorer] and Analyzers by setting the Analytics Behavior option to “Inclusive” when you edit Program Channels. You can also exclude operational programs from reporting all together by choosing “Operational”.
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 
