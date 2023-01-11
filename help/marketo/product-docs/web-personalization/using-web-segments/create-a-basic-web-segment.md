@@ -8,11 +8,11 @@ exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 
 Let's create a basic segment targeting all web visitors from the U.S., and the financial services industry.
 
-1. Go to **Segments**.
+1. Go to **[!UICONTROL Segments]**.
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. Click **Create New**.
+1. Click **[!UICONTROL Create New]**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -20,7 +20,7 @@ Let's create a basic segment targeting all web visitors from the U.S., and the f
 
    ![](assets/segment-name.png)
 
-1. Drag **Location** from the right-hand menu and drop it into the segment editor.
+1. Drag **[!UICONTROL Location]** from the right-hand menu and drop it into the segment editor.
 
    ![](assets/location-drag-hand.jpg)
 
@@ -32,17 +32,17 @@ Let's create a basic segment targeting all web visitors from the U.S., and the f
    >
    >The number of cities is limited to 300 per segment.
 
-1. Drag **Industries** from the right-hand menu and drop it into the segment editor.
+1. Drag **[!UICONTROL Industries]** from the right-hand menu and drop it into the segment editor.
 
    ![](assets/industries-hand.jpg)
 
-1. Select Industries to add from the drop-down. Select the **Financial Services Industry**.
+1. Select [!UICONTROL Industries] to add from the drop-down. Select the **[!UICONTROL Financial Services] Industry**.
 
    ![](assets/segment-industries.png)
 
    You have now set up a basic segment for all prospects visiting your website from the USA and the Finance Industry.
 
-1. Click **Save** to save the segment or **Save & Define Campaign** to go to the Campaigns page.
+1. Click **[!UICONTROL Save]** to save the segment or **[!UICONTROL Save & Define Campaign]** to go to the Campaigns page.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
