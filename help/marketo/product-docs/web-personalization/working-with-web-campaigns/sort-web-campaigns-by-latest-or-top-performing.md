@@ -4,11 +4,11 @@ description: Sort Web Campaigns by Latest or Top Performing - Marketo Docs - Pro
 title: Sort Web Campaigns by Latest or Top Performing
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 ---
-# Sort Web Campaigns by Latest or Top Performing {#sort-web-campaigns-by-latest-or-top-performing}
+# Sort [!UICONTROL Web Campaigns] by [!UICONTROL Latest] or [!UICONTROL Top Performing] {#sort-web-campaigns-by-latest-or-top-performing}
 
 You can sort your web campaigns in a couple of different ways.
 
-1. Go to **Web Campaigns**.
+1. Go to **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-1.jpg)
 
@@ -18,9 +18,9 @@ You can sort your web campaigns in a couple of different ways.
    >
    >**Definition**
    >
-   >**Latest** - will sort based on the date that the campaign was created. Newest campaign at the top.
+   >**[!UICONTROL Latest]** - will sort based on the date that the campaign was created. Newest campaign at the top.
    >
-   >**Top Performing** - will sort campaigns based on the click through rate. Highest click through at the top.
+   >**[!UICONTROL Top Performing]** - will sort campaigns based on the click through rate. Highest click through at the top.
 
    ![](assets/image2016-11-4-13-3a34-3a59.png)
 
