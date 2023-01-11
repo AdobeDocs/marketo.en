@@ -68,7 +68,7 @@ You now can create many-to-many relationships between Leads/Accounts and a custo
 
 ![](assets/image2016-1-11-12-3a59-3a59.png)
 
-## [[!UICONTROL Facebook] Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
+## [[!UICONTROL Facebook Lead Ads]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
 [[!UICONTROL Facebook Lead ads]](https://www.facebook.com/business/a/lead-ads) are a more direct way for a business to run lead generation campaigns on [!DNL Facebook]. People fill out a form to express interest in a product or service, so the business can follow up with them. The Marketo integration with [!UICONTROL Facebook Lead Ads] automatically captures the information a lead provides within the Lead Ad form. Follow up actions and notifications can then be automated using the new [!UICONTROL Fills Out Facebook Lead Ads] trigger.
 
