@@ -13,43 +13,43 @@ Personalized Remarketing lets you re-engage with your users using RTP Data and t
 >* Complete the [Retargeting with Web Personalization Data](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) setup
 >* Review the [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook documentation on Custom Audiences](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) and Remarketing.
 
-## Creating an Audience in Facebook {#creating-an-audience-in-facebook}
+## Creating an Audience in [!DNL Facebook] {#creating-an-audience-in-facebook}
 
-1. In Facebook, go to your [Audience tab](https://www.facebook.com/ads/audience_manager) in Ads Manager.
+   1. In [!DNL Facebook], go to your [Audience tab](https://www.facebook.com/ads/audience_manager) in Ads Manager.
 
-1. Click **Tools** and select **Audiences**.
+1. Click **[!UICONTROL Tools]** and select **[!UICONTROL Audiences]**.
 
    ![](assets/one-1.png)
 
-1. Click **Create a Custom Audience**.
+1. Click **[!UICONTROL Create a Custom Audience]**.
 
    ![](assets/two-1.png)
 
-1. Select **Website Traffic**.
+1. Select **[!UICONTROL Website Traffic]**.
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. In the Website traffic list, select **Custom Combination**.
+1. In the [!UICONTROL Website traffic] list, select **[!UICONTROL Custom Combination]**.
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
-1. In the Include list, select **Event**.
+1. In the Include list, select **[!UICONTROL Event]**.
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. In the Event list, select **RTP Remarketing** and select a parameter.
+1. In the [!UICONTROL Event] list, select **[!UICONTROL RTP Remarketing]** and select a parameter.
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. For this example, select Industry to contain **Education**. Enter **Education**, and edit **In the Last** to be 180 days. Enter Audience Name: **Education Industry**. Click **Create Audience**.
+1. For this example, select [!UICONTROL Industry] to contain **[!UICONTROL Education]**. Enter **[!UICONTROL Education]**, and edit **[!UICONTROL In the Last]** to be 180 days. Enter Audience Name: **Education Industry**. Click **[!UICONTROL Create Audience]**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
-1. You have now created a new custom audience using RTP data in Facebook.
+1. You have now created a new custom audience using RTP data in [!DNL Facebook].
 
    ![](assets/image2015-1-19-16-3a59-3a2.png)
 
-## RTP Data Points in Facebook {#rtp-data-points-in-facebook}
+## RTP Data Points in [!DNL Facebook] {#rtp-data-points-in-facebook}
 
 <table> 
  <tbody> 
@@ -98,11 +98,11 @@ Personalized Remarketing lets you re-engage with your users using RTP Data and t
 
 For additional details, see [Facebook's documentation](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
 
-1. Go to Ads Manager, Click **Create Ad**.
+1. Go to Ads Manager, Click **[!UICONTROL Create Ad]**.
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. Select **Send people to your website** as the objective of your campaign.
+1. Select **[!UICONTROL Send people to your website]** as the objective of your campaign.
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
@@ -118,7 +118,7 @@ For additional details, see [Facebook's documentation](https://developers.facebo
 
    ![](assets/image2015-1-19-17-3a19-3a25.png)
 
-1. You are now all set up with a personalized remarketing campaign in Facebook.
+1. You are now all set up with a personalized remarketing campaign in [!DNL Facebook].
 
 >[!MORELIKETHIS]
 >
