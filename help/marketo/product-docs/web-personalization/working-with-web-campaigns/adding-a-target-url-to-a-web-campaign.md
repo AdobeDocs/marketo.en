@@ -10,15 +10,15 @@ A Target URL is located under the Set Campaign page and defines the specific URL
 
 ## Adding a Target URL for Dialog or Widget Web Campaigns {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. Go to **Web Campaigns**.
+1. Go to **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Select **Create New Web Campaign**.
+1. Select **[!UICONTROL Create New Web Campaign]**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Add a **Campaign Name**. Select a **Target Segment**. Add **Target URL**.
+1. Add a **[!UICONTROL Campaign Name]**. Select a **[!UICONTROL Target Segment]**. Add **[!UICONTROL Target URL]**.
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -31,11 +31,11 @@ A Target URL is located under the Set Campaign page and defines the specific URL
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Any Page</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Any Page]</strong></td> 
    <td colspan="1" rowspan="1"><p>Allow campaign to appear on any pages.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Include URL parameter when matching</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Include URL parameter when matching]</strong></p></td> 
    <td colspan="1" rowspan="1">Add URL parameter to match and show campaign on URLs including this parameter. Eg. campaign=cpc</td> 
   </tr> 
  </tbody> 
@@ -43,7 +43,7 @@ A Target URL is located under the Set Campaign page and defines the specific URL
 
 ## Adding Multiple URLs to Target URL {#adding-multiple-urls-to-target-url}
 
-Clicking on the plus icon (![--](assets/image2015-2-18-8-3a40-3a59.png)) will open the Multiple Value Entry dialog to add multiple URLs. Add one URL per line.
+Clicking on the plus icon (![--](assets/image2015-2-18-8-3a40-3a59.png)) will open the [!UICONTROL Multiple Value Entry] dialog to add multiple URLs. Add one URL per line.
 
 ![](assets/image2015-2-23-18-3a15-3a57.png)
 
@@ -55,15 +55,15 @@ Clicking on the plus icon (![--](assets/image2015-2-18-8-3a40-3a59.png)) will op
 
 ## Adding a Target URL for In Zone Web Campaigns {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. Go to **Web** **Campaigns**.
+1. Go to **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Select **Create New Web Campaign**.
+1. Select **[!UICONTROL Create New Web Campaign]**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Add a **Campaign Name**. Select a **Target Segment**. Add **Target URL**.
+1. Add a **[!UICONTROL Campaign Name]**. Select a **[!UICONTROL Target Segment]**. Add **[!UICONTROL Target URL]**.
 
    >[!NOTE]
    >
