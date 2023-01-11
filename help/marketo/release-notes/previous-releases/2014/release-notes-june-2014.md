@@ -10,15 +10,15 @@ The following features are included in the June 2014 release. Please check your 
 
 ## Updated UI - Coming Soon! {#updated-ui-coming-soon}
 
-A new look and feel, including navigation for Marketo Lead Management is coming soon in a later release!
+A new look and feel, including navigation for [!DNL Marketo Lead Management] is coming soon in a later release!
 
-## Sales Insight plugin for Outlook 2013 {#sales-insight-plugin-for-outlook}
+## [!DNL Sales Insight] plugin for Outlook 2013 {#sales-insight-plugin-for-outlook}
 
 This will require a download of the new plug-in. You can download it from [here](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 ## Token Resolution {#token-resolution}
 
-When you send a test email from Sales Insight, currently tokens in the email do not resolve and the default value is sent. This enhancement will ensure that tokens resolve in test emails.
+When you send a test email from [!DNL Sales Insight], currently tokens in the email do not resolve and the default value is sent. This enhancement will ensure that tokens resolve in test emails.
 
 ## Customize Percentages for Stars and Flames {#customize-percentages-for-stars-and-flames}
 
@@ -26,9 +26,9 @@ When you send a test email from Sales Insight, currently tokens in the email do 
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
-## Lead ReST API {#lead-rest-api}
+## Lead [!DNL ReST] API {#lead-rest-api}
 
-Create, read, and update leads programmatically through our new ReST API. To get started with ReST you need to [create a custom service](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo. Then head over to the [developers site](https://developers.marketo.com/documentation/rest/) for details on using this API.
+Create, read, and update leads programmatically through our new [!DNL ReST] API. To get started with [!DNL ReST] you need to [create a custom service](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo. Then head over to the [developers site](https://developers.marketo.com/documentation/rest/) for details on using this API.
 
 ## Marketo Real-Time Personalization (RTP) Campaigns Page Update {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
