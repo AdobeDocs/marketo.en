@@ -6,13 +6,13 @@ exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 ---
 # Manage Person Data {#manage-person-data}
 
-Leverage Person Data for Web Personalization by selecting person fields to use in your segmentation.
+Leverage Person Data for [!DNL Web Personalization] by selecting person fields to use in your segmentation.
 
-1. Go to **Account Settings**.
+1. Go to **[!UICONTROL Account Settings]**.
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Go to **Database**.
+1. Go to **[!UICONTROL Database]**.
 
    ![](assets/account-settings-dropdown-database.jpg)
 
@@ -28,7 +28,7 @@ Leverage Person Data for Web Personalization by selecting person fields to use i
 
 ## Deleting a Person Field {#deleting-a-person-field}
 
-1. Click the delete icon ( ![--](assets/image2015-3-24-13-3a45-3a56.png)) to remove a field from the list. Click **Yes** to confirm you want to delete the field.  
+1. Click the delete icon ( ![--](assets/image2015-3-24-13-3a45-3a56.png)) to remove a field from the list. Click **[!UICONTROL Yes]** to confirm you want to delete the field.  
   
    ![](assets/web-engagement-settings-delete.jpg)
 
@@ -92,7 +92,7 @@ Leverage Person Data for Web Personalization by selecting person fields to use i
  </tbody> 
 </table>
 
-The following lead fields are provided out of the box for new Web Personalization accounts:
+The following lead fields are provided out of the box for new [!DNL Web Personalization] accounts:
 
 >[!MORELIKETHIS]
 >
