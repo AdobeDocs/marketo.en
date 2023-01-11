@@ -8,38 +8,38 @@ exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 
 ## Introduction {#introduction}
 
-For new Marketo customers, Real-Time Personalization is divided into four apps, accessed using these two tiles: Web Personalization and ContentAI.
+For new Marketo customers, [!UICONTROL Real-Time Personalization] is divided into four apps, accessed using these two tiles: [!UICONTROL Web Personalization] and [!UICONTROL ContentAI].
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->Web Personalization and ContentAI are available in all Marketo-supported languages (English, French, German, Japanese, Portuguese, Spanish).
+>[!UICONTROL Web Personalization] and [!UICONTROL ContentAI] are available in all Marketo-supported languages (English, French, German, Japanese, Portuguese, Spanish).
 
 Existing customers continue to access the apps through the Real-Time Personalization tile until renewal, at which time they will use the login above.
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-When you click the Web Personalization tile, the Dashboard page appears. Click the ContentAI tile and you go directly to the Content Recommendations page.
+When you click the [!UICONTROL Web Personalization] tile, the Dashboard page appears. Click the [!UICONTROL ContentAI] tile and you go directly to the Content Recommendations page.
 
 The four apps are:
 
-* Web Personalization
-* Account-Based Web Marketing
-* Website Retargeting
-* ContentAI
+* [!UICONTROL Web Personalization]
+* [!UICONTROL Account-Based Web Marketing]
+* [!UICONTROL Website Retargeting]
+* [!UICONTROL ContentAI]
 
-The **Web Personalization** tile is your access point for creating personalized web campaigns. Account-Based Web Marketing and Web Retargeting. You can add content on the Content Analytics page.
+The **[!UICONTROL Web Personalization]** tile is your access point for creating personalized web campaigns. Account-Based Web Marketing and Web Retargeting. You can add content on the Content Analytics page.
 
-**Account-Based Web Marketing** works with Web Personalization and features Named Accounts. The Named Accounts page provides graphical information on existing customers, total engagements, and organizational trends, as well as a list of the accounts. You can create new named accounts there as well.
+**[!UICONTROL Account-Based Web Marketing]** works with Web Personalization and features Named Accounts. The Named Accounts page provides graphical information on existing customers, total engagements, and organizational trends, as well as a list of the accounts. You can create new named accounts there as well.
 
-**Website Retargeting** gives you the power to remarket to segmented audiences. You can set segments, but can’t use Named Accounts in the filter.
+**[!UICONTROL Website Retargeting]** gives you the power to remarket to segmented audiences. You can set segments, but can’t use Named Accounts in the filter.
 
-**ContentAI** is the place to give content recommendations. You can add content easily to the Content Recommendations page.
+**[!UICONTROL ContentAI]** is the place to give content recommendations. You can add content easily to the Content Recommendations page.
 
 >[!NOTE]
 >
->To access Account-Based Web Marketing or Website Retargeting, you must click the Web Personalization tile, even if you don’t have the Web Personalization app.
+>To access [!UICONTROL Account-Based Web Marketing] or [!UICONTROL Website Retargeting], you must click the [!UICONTROL Web Personalization] tile, even if you don’t have the [!UICONTROL Web Personalization] app.
 
 ## Organizations {#organizations}
 
@@ -62,7 +62,7 @@ The right-hand panel of the Organizations page offers the following features and
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Spreadsheet icon</strong>: Situated at the top right of the panel, the icon downloads the Organizations table in CSV format for offline use</p><p><strong>Set Email Alert</strong>: Sends the logged in user an email every time the selected organization visits the website</p><p><strong>Leads</strong>: Opens the leads table for the selected organization</p><p><strong>Share</strong>: Opens a pop-up window to email and share the details of the organization that visited the webpage</p><p><strong>Location Icon</strong>: Displays the country and city of the selected organization</p><p><strong>Links</strong>: Jigsaw, Whois, Linkedin, Google, Twitter opens a new window with additional information from the respective webpage offering additional insight into the selected organization</p><p><strong>Search</strong>: Displays the keyword used if the visitor arrived via a search engine</p><p><strong>Referrers</strong>: Shows the URL link of the page that referred the traffic to your site</p><p><strong>Visitors</strong>: Displays the number of visits, the number of pages viewed by the selected organization and their email address (if they completed a submit form) and the time and date of the last visit</p><p><strong>Clickstream</strong>: Displays a table of the user activity and URL path on the site and how long they visited each page</p></td> 
+   <td><p><strong>Spreadsheet icon</strong>: Situated at the top right of the panel, the icon downloads the Organizations table in CSV format for offline use</p><p><strong>[!UICONTROL Set Email Alert]</strong>: Sends the logged in user an email every time the selected organization visits the website</p><p><strong>[!UICONTROL Leads]</strong>: Opens the leads table for the selected organization</p><p><strong>[!UICONTROL Share]</strong>: Opens a pop-up window to email and share the details of the organization that visited the webpage</p><p><strong>Location Icon</strong>: Displays the country and city of the selected organization</p><p><strong>Links</strong>: Jigsaw, Whois, Linkedin, Google, Twitter opens a new window with additional information from the respective webpage offering additional insight into the selected organization</p><p><strong>[!UICONTROL Search]</strong>: Displays the keyword used if the visitor arrived via a search engine</p><p><strong>[!UICONTROL Referrers]</strong>: Shows the URL link of the page that referred the traffic to your site</p><p><strong>[!UICONTROL Visitors]</strong>: Displays the number of visits, the number of pages viewed by the selected organization and their email address (if they completed a submit form) and the time and date of the last visit</p><p><strong>[!UICONTROL Clickstream]</strong>: Displays a table of the user activity and URL path on the site and how long they visited each page</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 
@@ -72,7 +72,7 @@ The right-hand panel of the Organizations page offers the following features and
 
 Want to share the information of your website visitor to a colleague? Click on an Organization and then click on the Share link on the right-hand side panel.
 
-This actives the Share this Organization overlay, where you can send an email sharing the name and details of the organization that visited the website.
+This actives the [!UICONTROL Share this Organization] overlay, where you can send an email sharing the name and details of the organization that visited the website.
 
 ![](assets/image2014-11-10-19-3a25-3a42.png)
 
@@ -84,7 +84,7 @@ The Visitors page displays all the details and online behavior of each visitor t
 
 ![](assets/image2014-11-10-19-3a45-3a49.png)
 
-The right-hand panel of the Visitors page provides the following insights:
+The right-hand panel of the [!UICONTROL Visitors] page provides the following insights:
 
 <table> 
  <thead> 
@@ -136,27 +136,27 @@ The Real-time page is split into 6 informative tables of onsite visitor details:
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Visitors</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Visitors]</strong></td> 
    <td colspan="1" rowspan="1"> Represents the number of visitors currently on your website</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Clicks per minute</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Clicks per minute]</strong></p></td> 
    <td colspan="1" rowspan="1"> A live line graph showing the number of clicks on your site per minute</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Top Organizations</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Organizations]</strong></td> 
    <td colspan="1" rowspan="1">A short version of the Organizations table</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Real-Time Segment</strong></td> 
+   <td colspan="1"><strong>[!UICONTROL Real-Time Segment]</strong></td> 
    <td colspan="1">The number of visitors currently onsite that match designated segments</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Currently Browsing</strong></td> 
+   <td colspan="1"><strong>[!UICONTROL Currently Browsing]</strong></td> 
    <td colspan="1">The URL of the pages currently being viewed by onsite visitors</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Top Referrals</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Referrals]</strong></td> 
    <td colspan="1" rowspan="1">The referral URL that brought the visitor to your site</td> 
   </tr> 
  </tbody> 
