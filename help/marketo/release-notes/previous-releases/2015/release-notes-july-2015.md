@@ -41,7 +41,7 @@ Have you set up several personalized [!DNL RTP] campaigns and noticed that some 
 
 ## Company API {#company-api}
 
-**Company object access via the [!DNL REST] API**: The REST API now provides access to the Marketo Company (a.k.a. Account) object. That means you can read, update and delete company objects you created in Marketo and associate leads with such companies using the updated Lead API.
+**Company object access via the [!DNL REST] API**: The [!DNL REST] API now provides access to the Marketo Company (a.k.a. Account) object. That means you can read, update and delete company objects you created in Marketo and associate leads with such companies using the updated [!DNL Lead] API.
 
 Learn [more](https://developers.marketo.com/documentation/company-api/) in our reference guide for the Company API.
 
