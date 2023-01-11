@@ -10,7 +10,7 @@ Do you have so many segments that scrolling is becoming cumbersome? Use labels t
 
 ## Tag a Segment {#tag-a-segment}
 
-1. Log into Web Personalization and go to **Segments**.
+1. Log into [!DNL Web Personalization] and go to **[!UICONTROL Segments]**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -18,11 +18,11 @@ Do you have so many segments that scrolling is becoming cumbersome? Use labels t
 
    ![](assets/image2015-10-14-15-3a26-3a28.png)
 
-1. To use an existing label, click **Set Label**, check a box, and click **Apply**.
+1. To use an existing label, click **[!UICONTROL Set Label]**, check a box, and click **[!UICONTROL Apply]**.
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. Or, to create a new label, click **Set Label**, enter the new label name, and click **Create New**.
+1. Or, to create a new label, click **[!UICONTROL Set Label]**, enter the new label name, and click **Create New**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 
