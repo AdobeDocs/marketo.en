@@ -24,15 +24,15 @@ Use data from Marketo custom objects or add conditional logic to your email cont
 
 We have renamed the action Send Test to be Send Sample
 
-## Personalized Send Sample Email {#personalized-send-sample-email}
+## Personalized [!UICONTROL Send Sample Email] {#personalized-send-sample-email}
 
 When you send an email sample, you can select the name of a lead to personalize the sample email.
 
 ![](assets/image2014-9-22-17-3a11-3a22.png)
 
-## Additional Field Sync for GoToWebinar {#additional-field-sync-for-gotowebinar}
+## Additional Field Sync for [!DNL GoToWebinar] {#additional-field-sync-for-gotowebinar}
 
-You can sync Company Name and Job Title from your Marketo form to GoToWebinar. To enable these additional fields, go to Event Partners and check “Enable Additional Fields.”
+You can sync Company Name and Job Title from your Marketo form to [!DNL GoToWebinar]. To enable these additional fields, go to Event Partners and check “Enable Additional Fields.”
 
 ![](assets/image2014-9-22-17-3a11-3a53.png)
 
@@ -46,23 +46,23 @@ Files uploaded to the Design Studio are now automatically scanned and blocked if
 
 ## Export Opportunity Influence Analyzer {#export-opportunity-influence-analyzer}
 
-You can now export the data in the Opportunity Influence Analyzer to Excel. Each exported Excel file contains all the marketing interactions for all leads (including those without a role in the opportunity) as well all the opportunities under the selected account in the analyzer. The opportunity rows are highlighted in green. You can use Excel’s native data filtering capabilities if you need to focus on specific leads or marketing activities.
+You can now export the data in the Opportunity Influence Analyzer to [!DNL Excel]. Each exported [!DNL Excel] file contains all the marketing interactions for all leads (including those without a role in the opportunity) as well all the opportunities under the selected account in the analyzer. The opportunity rows are highlighted in green. You can use [!DNL Excel]’s native data filtering capabilities if you need to focus on specific leads or marketing activities.
 
 ![](assets/image2014-9-22-17-3a12-3a23.png)
 
 ## Program Attribution Settings {#program-attribution-settings}
 
-You can change the way Marketo ties contacts and opportunities for first and multi touch attribution metrics, including the ability to do account-based attribution. These settings will impact attribution metrics in Revenue Explorer reports under the Program Opportunity Analysis area and the Opportunity Analysis area. This will also affect the attribution metrics in Program Analyzer.
+You can change the way Marketo ties contacts and opportunities for first and multi touch attribution metrics, including the ability to do account-based attribution. These settings will impact attribution metrics in [!UICONTROL Revenue Explorer] reports under the Program Opportunity Analysis area and the Opportunity Analysis area. This will also affect the attribution metrics in Program Analyzer.
 
 You can change the program attribution settings to one of three choices. Changing this setting does not modify any Marketo or CRM data; it simply changes the way your reports run and it can be reverted at any time.
 
-The Explicit setting will only examine contacts with roles (current behavior). Implicit will examine all contacts associated to the account regardless of role. We strongly recommend using the Explicit mode if possible. Using Implicit may create false positives, people with credit for an opportunity despite having no real influence in the opportunity.
+The [!UICONTROL Explicit] setting will only examine contacts with roles (current behavior). [!UICONTROL Implicit] will examine all contacts associated to the account regardless of role. We strongly recommend using the [!UICONTROL Explicit] mode if possible. Using [!UICONTROL Implicit] may create false positives, people with credit for an opportunity despite having no real influence in the opportunity.
 
 ![](assets/image2014-9-22-17-3a12-3a43.png)
 
-## Sales Insight available in French and German (Salesforce only) {#sales-insight-available-in-french-and-german-salesforce-only}
+## [!UICONTROL Sales Insight] available in French and German (Salesforce only) {#sales-insight-available-in-french-and-german-salesforce-only}
 
-Download the latest version of Marketo Lead Management and Marketo Sales Insight from AppExchange so your French and German salespeople can see Sales Insight content in their preferred language.
+Download the latest version of Marketo Lead Management and Marketo [!UICONTROL Sales Insight] from [!DNL AppExchange] so your French and German salespeople can see [!UICONTROL Sales Insight] content in their preferred language.
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 
