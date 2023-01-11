@@ -16,7 +16,7 @@ You can schedule the web campaign based on the web visitor's time or a selected 
 >
 >Scheduling start and stop dates is great for a scheduled event, such as a Webinar, that runs for a specific period. Repeats are perfect for a special offer that runs every week only on a particular day.
 
-1. Go to **Web Campaigns**.
+1. Go to **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-16-3a38-3a47.png)
 
@@ -24,7 +24,7 @@ You can schedule the web campaign based on the web visitor's time or a selected 
    >
    >To make it easier to find the campaign you want, use the [filter feature](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Open the Campaign Status menu and select **Schedule**.
+1. Open the Campaign Status menu and select **[!UICONTROL Schedule]**.
 
    ![](assets/image2016-8-18-16-3a41-3a45.png)
 
@@ -44,18 +44,18 @@ You can schedule the web campaign based on the web visitor's time or a selected 
    >
    >You can select the date and time from the drop-down menu and calendar or enter them manually. Times are in 12-hour AM/PM time.
 
-1. By default the campaign will run every day between the start and end date. If you want to run the campaign only on specific days or at specific times, use the **Repeat** settings. Select the day and start and end time to display the campaign. Use the plus sign + to add additional days.
+1. By default the campaign will run every day between the start and end date. If you want to run the campaign only on specific days or at specific times, use the **[!UICONTROL Repeat]** settings. Select the day and start and end time to display the campaign. Use the plus sign + to add additional days.
 
    ![](assets/image2016-1-14-8-3a19-3a37.png)
 
-1. Click **Schedule**.
+1. Click **[!UICONTROL Schedule]**.
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
-1. The status of the campaign on the Campaigns page changes to **Scheduled** and the clock/calendar icon displays. Click this icon to edit the campaign schedule.
+1. The status of the campaign on the Campaigns page changes to **[!UICONTROL Scheduled]** and the clock/calendar icon displays. Click this icon to edit the campaign schedule.
 
    ![](assets/image2016-1-14-8-3a27-3a32.png)
 
    >[!NOTE]
    >
-   >The campaign status remains as **Scheduled** even when the campaign is running during the selected scheduled times. When a scheduled end date has passed, the campaign status changes to **Paused**.
+   >The campaign status remains as **[!UICONTROL Scheduled]** even when the campaign is running during the selected scheduled times. When a scheduled end date has passed, the campaign status changes to **[!UICONTROL Paused]**.
