@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378869
-description: Create a Vibes SMS Message - Marketo Docs - Product Documentation
-title: Create a Vibes SMS Message
+description: Create a [!DNL Vibes] SMS Message - Marketo Docs - Product Documentation
+title: Create a [!DNL Vibes] SMS Message
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 ---
-# Create a Vibes [!UICONTROL SMS Message] {#create-a-vibes-sms-message}
+# Create a [!DNL Vibes] [!UICONTROL SMS Message] {#create-a-vibes-sms-message}
 
-Here's how to create a Vibes SMS message.
+Here's how to create a [!DNL Vibes] SMS message.
 
 >[!AVAILABILITY]
 >
