@@ -8,9 +8,9 @@ exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 
 ## Intro {#intro}
 
-Leverage [!DNL Google Universal Analytics] (GUA) with Marketo Real-Time Personalization's (RTP) firmographic and personalization data to better measure and analyze your online marketing efforts.
+Leverage [!DNL Google Universal Analytics] (GUA) with [!DNL Marketo Real-Time Personalization]'s (RTP) firmographic and personalization data to better measure and analyze your online marketing efforts.
 
-This post explains how to set up and integrate the Marketo Real-Time Personalization (RTP) platform with [!DNL Google Universal Analytics] (GUA) accounts. RTP data can be appended to your GUA account allowing you to view and see the performance of organizations, industries, firmographics and RTP segments visiting your website.
+This post explains how to set up and integrate the [!DNL Marketo Real-Time Personalization] (RTP) platform with [!DNL Google Universal Analytics] (GUA) accounts. RTP data can be appended to your GUA account allowing you to view and see the performance of organizations, industries, firmographics and RTP segments visiting your website.
 
 **[!DNL Google Universal Analytics]**
 
