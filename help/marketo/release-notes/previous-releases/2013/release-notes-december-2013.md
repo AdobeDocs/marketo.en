@@ -28,14 +28,14 @@ In the new Email Program, run an [A/B test](/help/marketo/product-docs/email-mar
 
 [Champion/Challenger testing](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) is similar to A/B test, but the difference is that it is used for triggered emails and you don’t automatically send a winner. This test allows you to challenge an established way of doing something, called the Champion, and you test if it is still the best by introducing a Challenger. In addition, Champion/Challenger Email Tests can be used inside Engagement program streams.
 
-## Lead Details in Email Analysis {#lead-details-in-email-analysis}
+## Lead Details in [!UICONTROL Email Analysis] {#lead-details-in-email-analysis}
 
-We introduced additional lead and company attributes in Email Analysis. You can now view your email stats grouped by new attributes such as Industry and Lead Source.
+We introduced additional lead and company attributes in [!UICONTROL Email Analysis]. You can now view your email stats grouped by new attributes such as [!UICONTROL Industry] and [!UICONTROL Lead Source].
 
 ![](assets/image2014-9-22-17-3a20-3a43.png)
 
 ![](assets/image2014-9-22-17-3a21-3a18.png)
 
-## Enhanced BrightTALK Event Adapter {#enhanced-brighttalk-event-adapter}
+## Enhanced [!DNL BrightTALK] Event Adapter {#enhanced-brighttalk-event-adapter}
 
-Now you can pull registrants into Marketo from your BrightTALK channel and event. You can use this information to inform other marketing campaigns!
+Now you can pull registrants into Marketo from your [!DNL BrightTALK] channel and event. You can use this information to inform other marketing campaigns!
