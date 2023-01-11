@@ -14,39 +14,39 @@ This article shows you different ways to preview a web campaign, and also how to
 
 ## Preview a Web Campaign on the Creation Page {#preview-a-web-campaign-on-the-creation-page}
 
-1. Go to **Web Campaigns**.
+1. Go to **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Click **Create New Web Campaign** or the icon to edit an existing campaign.
+1. Click **[!UICONTROL Create New Web Campaign]** or the icon to edit an existing campaign.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. In Preview on site, add the page URL and click **Preview**. A new window/tab opens showing the campaign preview.
+1. In Preview on site, add the page URL and click **[!UICONTROL Preview]**. A new window/tab opens showing the campaign preview.
 
    ![](assets/three-1.png)
 
    >[!TIP]
    >
-   >Click **Share** to open an email with a fixed URL of the campaign preview.
+   >Click **[!UICONTROL Share]** to open an email with a fixed URL of the campaign preview.
 
    >[!NOTE]
    >
-   >You also have the option of installing a browser plug-in (either [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) or [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) for the best experience previewing your campaign. See the section below.
+   >You also have the option of installing a browser plug-in (either [[!DNL Chrome]](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) or [[!DNL Firefox]](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) for the best experience previewing your campaign. See the section below.
 
 ## Preview a Web Campaign on the Creation Page Using the Browser Plug-In {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
 1. Follow steps 1 & 2 from the section above.
 
-1. Click the link to the browser plug-in (in this case we're using Chrome).
+1. Click the link to the browser plug-in (in this case we're using [!DNL Chrome]).
 
    ![](assets/4-1.png)
 
-1. A new window/tab opens. Click **Add to Chrome**.
+1. A new window/tab opens. Click **[!UICONTROL Add to Chrome]**.
 
    ![](assets/five.png)
 
-1. Click **Add Extension**.
+1. Click **[!UICONTROL Add Extension]**.
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ This article shows you different ways to preview a web campaign, and also how to
 
 ## Preview a Web Campaign on the Web Campaigns Page {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. While looking at the listing of your web campaigns, simply choose a campaign and click the **Preview** icon.
+1. While looking at the listing of your web campaigns, simply choose a campaign and click the **[!UICONTROL Preview]** icon.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -70,17 +70,17 @@ This article shows you different ways to preview a web campaign, and also how to
 
 Create a sandbox segment and campaign.
 
-1. Go to **Segments**.
+1. Go to **[!UICONTROL Segments]**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. Click **Create New**.
+1. Click **[!UICONTROL Create New]**.
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. Name the segment.
 
-1. Under Behavioral, drag Include Pages onto the canvas. Add the value &#42;sandbox=1&#42;. Click **Save & Define Campaign**.
+1. Under [!UICONTROL Behavioral], drag [!UICONTROL Include Pages] onto the canvas. Add the value &#42;sandbox=1&#42;. Click **[!UICONTROL Save & Define Campaign]**.
 
    ![](assets/segment.png)
 
@@ -88,7 +88,7 @@ Create a sandbox segment and campaign.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Complete the campaign creative and Click **Launch**.
+1. Complete the campaign creative and Click **[!UICONTROL Launch]**.
 
    ![](assets/click-launch.jpg)
 
