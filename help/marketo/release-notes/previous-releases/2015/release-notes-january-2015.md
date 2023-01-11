@@ -40,7 +40,7 @@ Remarketing shows ads to people who have visited your website. You can now perso
 
 Enhancements to the Named Accounts module will improve the match rates and validations for users. Additions include:
 
-* Matching organizations from your Named Account list using Lead’s email address (also for RTP-only customers)
+* Matching organizations from your Named Account list using Lead’s email address (also for [!DNL RTP]-only customers)
 * Support for up to 100K records per account
 * CSV file template to view and download
 
