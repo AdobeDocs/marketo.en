@@ -10,11 +10,11 @@ The Content Analytics page displays your discovered existing content (case studi
 
 ## View Content Analytics {#view-content-analytics}
 
-Go to **Content Analytics**.
+Go to **[!UICONTROL Content Analytics]**.
 
 ![](assets/one.png)
 
-On the Content Analytics page, you can:
+On the [!UICONTROL Content Analytics] page, you can:
 
 * Filter by Time Scope (Day, Week and Month)
 * Search by Content Title and Content URL
@@ -37,7 +37,7 @@ The Analytics table provides the following details:
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Title</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Title]</strong></td> 
    <td colspan="1" rowspan="1">Name of the digital content asset. Click <strong>Title</strong> to open the Content URL in a new tab.</td> 
   </tr> 
   <tr> 
@@ -45,11 +45,11 @@ The Analytics table provides the following details:
    <td colspan="1">Denotes if the the content piece has been added for <a href="#">Content Recommendations</a>.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Views</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Views]</strong></p></td> 
    <td colspan="1" rowspan="1"><p>The number of views from web visitors on the content asset. The amount of times it was viewed, opened, watched, or downloaded. Click the number of in the views column to drill down and see who viewed the content</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Direct Conversions</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Direct Conversions]</strong></td> 
    <td colspan="1" rowspan="1">Web visitors who viewed the content and filled out a form in the same visit</td> 
   </tr> 
   <tr> 
@@ -77,19 +77,19 @@ The additional content analytics include:
 
 **Analytics**
 
-* **Views**: Views of that content piece for the time scope selected
-* **Direct Conversions**: Web visitors who viewed the content and filled out a form in the same visit.
-* **Conversion Rate****:** A percentage conversion rate calculated by Direct Conversions divided by Clicks
+* **[!UICONTROL Views]**: Views of that content piece for the time scope selected
+* **[!UICONTROL Direct Conversions]**: Web visitors who viewed the content and filled out a form in the same visit.
+* **[!UICONTROL Conversion Rate]****:** A percentage conversion rate calculated by Direct Conversions divided by Clicks
 
-**Trends**
+**[!UICONTROL Trends]**
 
-* A **Trends** graph showing the last 30 days of views of the specific content piece. Hover over the line graph to see the number of content views from a specific day
+* A **[!UICONTROL Trends]** graph showing the last 30 days of views of the specific content piece. Hover over the line graph to see the number of content views from a specific day
 
 ## Delete Content {#delete-content}
 
 ![](assets/six.png)
 
-From the Content Analytics page, click on the delete icon of the Content you wish to delete. A message appears to confirm that you want to delete the Content.
+From the [!UICONTROL Content Analytics] page, click on the delete icon of the Content you wish to delete. A message appears to confirm that you want to delete the Content.
 
 >[!MORELIKETHIS]
 >
