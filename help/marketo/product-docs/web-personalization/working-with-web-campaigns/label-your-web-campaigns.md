@@ -10,7 +10,7 @@ Do you have so many campaigns that scrolling is becoming cumbersome? Use labels 
 
 ## Add a Label to a Web Campaign {#add-a-label-to-a-web-campaign}
 
-1. Log in to Web Personalization and go to the Web Campaigns area.
+1. Log in to [!DNL Web Personalization] and go to the [!UICONTROL Web Campaigns] area.
 
    ![](assets/web-campaigns-hand.jpg)
 
