@@ -10,7 +10,7 @@ The following features are included in the July 2014 release. Please check your 
 
 ## Marketing Calendar {#marketing-calendar}
 
-See all of your events, emails and more across programs. [This new product](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) will be available at no charge to customers with 10 or fewer Marketo Lead Management or Dialog users.
+See all of your events, emails and more across programs. [This new product](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) will be available at no charge to customers with 10 or fewer [!DNL Marketo Lead Management] or Dialog users.
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
@@ -20,11 +20,11 @@ Documentation on the Marketing Calendar will be available at release time.
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
-Marketo Lead Management will be updated with a new look and feel that is modern and sleek, and includes an updated navigation.
+[!DNL Marketo Lead Management] will be updated with a new look and feel that is modern and sleek, and includes an updated navigation.
 
 ## Date Operators {#date-operators}
 
-[Advanced filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) for “in past before”, “in future”, and “in future after”. For example, find leads that have a birth date in the next 3 months, or a contract that is expiring after 6 months.
+[Advanced filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) for “[!UICONTROL in past before]”, “[!UICONTROL in future]”, and “[!UICONTROL in future after]”. For example, find leads that have a birth date in the next 3 months, or a contract that is expiring after 6 months.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -38,9 +38,9 @@ In addition to the marketing calendar you manage your events and default program
 * New Tentative Dates - pencil it in!
 * Custom Entry types - ToDo, Press Release, anything you want
 
-## List Operations in the ReST API {#list-operations-in-the-rest-api}
+## List Operations in the [!DNL ReST] API {#list-operations-in-the-rest-api}
 
-We’ve added the calls below related to list operations in ReST. See [developers.marketo.com](https://developers.marketo.com/documentation/rest/) for the full documentation.
+We’ve added the calls below related to list operations in [!DNL ReST]. See [developers.marketo.com](https://developers.marketo.com/documentation/rest/) for the full documentation.
 
 * Get List By ID
 * Get Multiple Lists
@@ -57,7 +57,7 @@ The “Skip New Leads and Updates” option remains unchanged.
 
 Rollout will be staged starting in mid-July and continuing for the next several months.
 
-* Removes the dependency jQuery for full and future compatibility
+* Removes the dependency [!DNL jQuery] for full and future compatibility
 * More compatible with other JavaScript on your site
 * Fully tested on many sites over the past year!
 
@@ -75,6 +75,6 @@ New RTP API call to get real-time visitor data such as organization, industry, l
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
-## RTP: HTML5 support in Campaign Content Editor {#rtp-html-support-in-campaign-content-editor}
+## RTP: [!DNL HTML5] support in Campaign Content Editor {#rtp-html-support-in-campaign-content-editor}
 
-The content WYSIWYG editor in the Set Campaigns page now has full HTML5 compatibility. Click on the “HTML” icon within the editor to insert any HTML5 code.
+The content WYSIWYG editor in the Set Campaigns page now has full [!DNL HTML5] compatibility. Click on the “HTML” icon within the editor to insert any [!DNL HTML5] code.
