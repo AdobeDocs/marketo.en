@@ -60,7 +60,7 @@ The [!UICONTROL Explicit] setting will only examine contacts with roles (current
 
 ![](assets/image2014-9-22-17-3a12-3a43.png)
 
-## [!UICONTROL Sales Insight] available in French and German (Salesforce only) {#sales-insight-available-in-french-and-german-salesforce-only}
+## [!UICONTROL Sales Insight] available in French and German ([!DNL Salesforce] only) {#sales-insight-available-in-french-and-german-salesforce-only}
 
 Download the latest version of Marketo Lead Management and Marketo [!UICONTROL Sales Insight] from [!DNL AppExchange] so your French and German salespeople can see [!UICONTROL Sales Insight] content in their preferred language.
 
