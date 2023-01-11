@@ -4,13 +4,13 @@ description: Define a Smart List for Web Personalization Activities - Marketo Do
 title: Define a Smart List for Web Personalization Activities
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 ---
-# Define a Smart List for Web Personalization Activities {#define-a-smart-list-for-web-personalization-activities}
+# Define a Smart List for [!DNL Web Personalization] Activities {#define-a-smart-list-for-web-personalization-activities}
 
-You can use Web Personalization activities in filters and triggers when you're defining a smart list in a smart campaign. Here, you want to capture anyone who clicked a Web Personalization call to action (campaign).
+You can use [!DNL Web Personalization] activities in filters and triggers when you're defining a smart list in a smart campaign. Here, you want to capture anyone who clicked a [!DNL Web Personalization] call to action (campaign).
 
-Use a trigger to send an email or alert, or change a value or a score based on visitors who clicked and engaged with a Web Personalization call to action. You can also filter and view those leads that clicked on a Web Personalization call to action.
+Use a trigger to send an email or alert, or change a value or a score based on visitors who clicked and engaged with a [!DNL Web Personalization] call to action. You can also filter and view those leads that clicked on a [!DNL Web Personalization] call to action.
 
-1. In your smart campaign, click the **Smart List** tab.
+1. In your smart campaign, click the **[!UICONTROL Smart List]** tab.
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 
