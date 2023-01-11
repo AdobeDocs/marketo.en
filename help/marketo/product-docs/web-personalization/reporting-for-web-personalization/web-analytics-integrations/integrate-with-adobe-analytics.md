@@ -8,9 +8,9 @@ exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 
 ## Intro {#intro}
 
-Analyze your web analytics from a B2B perspective by viewing organization, industry and Marketo Real-Time Personalization (RTP) campaign data within your Adobe Analytics account.
+Analyze your web analytics from a B2B perspective by viewing organization, industry and [!DNL Marketo Real-Time Personalization] (RTP) campaign data within your Adobe Analytics account.
 
-This document enables the integration between Marketo Real-Time Personalization (RTP) and Adobe Adobe Analytics. Data from RTP will allow you to detect and analyze trends in all industry segments and organizations visiting your site and measure the effectiveness of your RTP campaigns, providing the insights and analysis to gain optimal results.
+This document enables the integration between [!DNL Marketo Real-Time Personalization] (RTP) and Adobe Adobe Analytics. Data from RTP will allow you to detect and analyze trends in all industry segments and organizations visiting your site and measure the effectiveness of your RTP campaigns, providing the insights and analysis to gain optimal results.
 
 You can achieve this by looking at metrics such as the numbers of new versus returning visitors in each segment, analyzing click rates on campaigns, and discovering which industries and customized segments and real-time campaigns generated the best converting leads. Leverage this ability to gain the maximum benefit from your RTP account.
 
@@ -55,9 +55,9 @@ The integration uses the JavaScript API that Adobe Analytics offers. Custom conv
 
 Complete the following steps to set up these variables in AA:
 
-1. Go to **Admin Tools** in your AA account.
-1. Select the **Report Suite** to be used with the integration.
-1. Under **Edit Settings**, go to **Conversion** and select **[Conversion Variables](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.  
+1. Go to **[!UICONTROL Admin Tools]** in your AA account.
+1. Select the **[!UICONTROL Report Suite]** to be used with the integration.
+1. Under **[!UICONTROL Edit Settings]**, go to **[!UICONTROL Conversion]** and select **[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.  
    Select the [Conversion Variable](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) number (we recommend):
 
     1. Evar # 20 for Industry Custom Conversions
@@ -67,13 +67,13 @@ Complete the following steps to set up these variables in AA:
     >
     >If these # are taken select another available number. Align this number with the slot number in RTP Account Settings.
 
-    1. Change Status to _Enabled_.
+    1. Change Status to _[!UICONTROL Enabled_].
 
        1. Change Name to **Industry** and **Organization**. (This is how it will appear in the Report Suite.)
 
-       1. Change Expire After field to **Visit**.
+       1. Change Expire After field to **[!UICONTROL Visit]**.
 
-1. Under **Edit Settings** go to **Conversion** and select **[Success Events](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
+1. Under **[!UICONTROL Edit Settings]** go to **[!UICONTROL Conversion]** and select **[[!UICONTROL Success Events]](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
     1. Select the Custom Success Events Event number (we recommend):
 
@@ -88,7 +88,7 @@ Complete the following steps to set up these variables in AA:
 
     1. Select the Type field to be **Counter (no subrelations)**
 
-1. Under **Edit Settings** go to **[Traffic](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** and select **[Traffic Variables](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+1. Under **[!UICONTROL Edit Settings]** go to **[Traffic](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** and select **[Traffic Variables](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
     1. Select the Traffic Variable Property # (we recommend):
 
@@ -103,21 +103,21 @@ Complete the following steps to set up these variables in AA:
 
         1. Change the 4 property names. This is the name that will appear in the Report Suite.
 
-    1. Select Enabled field to **Enabled**.
+    1. Select [!UICONTROL Enabled] field to **[!UICONTROL Enabled]**.
 
-    1. Select Path Reports field to **Enabled**.
+    1. Select [!UICONTROL Path Reports] field to **[!UICONTROL Enabled]**.
 
-## Set up in Marketo Real-Time Personalization (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
+## Set up in [!DNL Marketo Real-Time Personalization] (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
 
-1. In the RTP platform, go to **Account Settings**.
+1. In the RTP platform, go to **[!UICONTROL Account Settings]**.
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. Under **Account Settings**, click **Domain**.
-1. Under **Analytics, click** **Adobe Analytics**.
-1. Turn **On** the Conversion, Custom and Traffic variable toggles.
+1. Under **[!UICONTROL Account Settings]**, click **[!UICONTROL Domain]**.
+1. Under **[!UICONTROL Analytics]**, click **Adobe Analytics**.
+1. Turn **[!UICONTROL On]** the Conversion, Custom and Traffic variable toggles.
 1. Assign the Conversion, Event and Traffic Variables **slot numbers** to match the slot numbers created in AA
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
 
@@ -127,20 +127,20 @@ Complete the following steps to set up these variables in AA:
 >
 >**Conversion Variables**
 >
->* Industry Custom Conversions - Slot 20
->* Organization Custom Conversions - Slot 21
+>* [!UICONTROL Industry Custom Conversions] - Slot 20
+>* [!UICONTROL Organization Custom Conversions] - Slot 21
 >
 >**Custom Events**
 >
->* Campaign Custom Event - Slot 20
->* Segment Custom Event - Slot 21
+>* [!UICONTROL Campaign Custom Event] - Slot 20
+>* [!UICONTROL Segment Custom Event] - Slot 21
 >
 >**Traffic Variables**
 >
->* Segment Organization Traffic Variable - Slot 20
->* Segment Industry Traffic Variable - Slot 21
->* Campaign Organization Traffic Variable - Slot 22
->* Campaign Industry Traffic Variable - Slot 23
+>* [!UICONTROL Segment Organization Traffic Variable] - Slot 20
+>* [!UICONTROL Segment Industry Traffic Variable] - Slot 21
+>* [!UICONTROL Campaign Organization Traffic Variable] - Slot 22
+>* [!UICONTROL Campaign Industry Traffic Variable] - Slot 23
 >
 >**Make sure that these slot numbers align with the variables and events numbers created in AA.**
 
@@ -169,7 +169,7 @@ Examples of customized reports and dashboards in AA include:
 
 Create a [new dashboard](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), called **RTP Dashboard**. This dashboard will help understand the breakdown of your visitors according to verticals and RTP segments.
 
-1. Click **Dashboard,** click **Add Dashboard**.
+1. Click **[!UICONTROL Dashboard],** click **[!UICONTROL Add Dashboard]**.
 
 1. Name the Dashboard **RTP Dashboard**.
 
@@ -179,11 +179,11 @@ Create a [new dashboard](https://microsite.omniture.com/t2/help/en_US/sc/user/t_
 
 Adding the Industries Reportlet to the Dashboard
 
-1. Go to **Custom Conversions**, click on **Industry**.
+1. Go to **[!UICONTROL Custom Conversions]**, click on **[!UICONTROL Industry]**.
 
 1. Configure Graph to **Pie Chart**.
 
-1. Click on **Dashboard**, add **Reportlet**.
+1. Click on **[!UICONTROL Dashboard]**, add **[!UICONTROL Reportlet]**.
 
 1. Name the report **Top Industries**.
 
@@ -193,11 +193,11 @@ Adding the Industries Reportlet to the Dashboard
 
 Adding the Segments Reportlet to the Dashboard
 
-1. Go to **Site Metrics**. Click on **Custom Events**, **Segments**.
+1. Go to **[!UICONTROL Site Metrics]**. Click on **[!UICONTROL Custom Events]**, **[!UICONTROL Segments]**.
 
 1. Configure Graph to **Vertical Bar**.
 
-1. Click on **Dashboard**, add **Reportlet**.
+1. Click on **[!UICONTROL Dashboard]**, add **[!UICONTROL Reportlet]**.
 
 1. Name the report **Top Segments**.
 
@@ -209,7 +209,7 @@ Your reportlets will be displayed in the dashboard.
 
 ## View Impressions and Clicks (Conversions) in Adobe Analytics {#view-impressions-and-clicks-conversions-in-adobe-analytics}
 
-1. Click **Custom Links**.
+1. Click **[!UICONTROL Custom] Links**.
 
    ![](assets/sitecatalyst1-1.png)
 
