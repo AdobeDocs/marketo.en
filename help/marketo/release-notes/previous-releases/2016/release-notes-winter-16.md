@@ -14,21 +14,21 @@ The Is Anonymous filter has been removed for Smart Lists. See the [Next Generati
 
 ## [Database Dashboard](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
-The Lead Database has an updated Summary Dashboard that includes total people database size, number of marketable leads, and a breakdown of leads by top five sources.
+The [!UICONTROL Lead Database] has an updated Summary Dashboard that includes total people database size, number of marketable leads, and a breakdown of leads by top five sources.
 
 ![](assets/image2016-1-12-16-3a18-3a7.png)
 
-## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
+## [[!DNL Microsoft Edge] Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-We've added Microsoft Edge to the [list of browsers](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) supported by Marketo.
+We've added [!DNL Microsoft Edge] to the [list of browsers](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) supported by Marketo.
 
-## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
+## [[!DNL Microsoft Outlook] 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
-[Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) is now supported.
+[[!DNL Microsoft Outlook] 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) is now supported.
 
-## [Email Program Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
+## [Email Program [!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
-Use Head Start to indicate that processing for your send should occur ahead of time. Instead of qualifying leads and preparing emails at the scheduled time of the program, Head Start ensures that these tasks are done beforehand. This way, your audience will start receiving emails at the scheduled time.
+Use [!UICONTROL Head Start] to indicate that processing for your send should occur ahead of time. Instead of qualifying leads and preparing emails at the scheduled time of the program, [!UICONTROL Head Start] ensures that these tasks are done beforehand. This way, your audience will start receiving emails at the scheduled time.
 
 ![](assets/image2016-1-11-15-3a38-3a3.png)
 
@@ -42,7 +42,7 @@ To use this feature, the email program must be scheduled at least 12 hours in ad
 
 ## [Mobile Marketing Enhancements](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap Support:** We now offer PhoneGap support for your mobile app. [Learn more](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**[!DNL PhoneGap] Support:** We now offer [!DNL PhoneGap] support for your mobile app. [Learn more](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
 **Support for Sandbox Apps**:
 
@@ -50,15 +50,15 @@ To use this feature, the email program must be scheduled at least 12 hours in ad
 
 ## [Program API](https://developers.marketo.com/documentation/programs/) {#program-api}
 
-Create, update, and clone programs via the REST API. This does not include the creation or updating of smart lists and smart campaigns within a program.
+Create, update, and clone programs via the [!DNL REST] API. This does not include the creation or updating of smart lists and smart campaigns within a program.
 
-## [Microsoft Dynamics Enhancements](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
+## [[!DNL Microsoft Dynamics] Enhancements](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-**[Sync Status](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**: Keep tabs on the current throughput and backlog of the sync process. Break it down by the count of inserts and updates by object.
+**[[!UICONTROL Sync Status]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**: Keep tabs on the current throughput and backlog of the sync process. Break it down by the count of inserts and updates by object.
 
 ![](assets/pending-backog-cropped.png)
 
-**[Notifications](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**: Get notified for common sync errors, along with a list of leads that have that error.
+**[[!UICONTROL Notifications]](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**: Get notified for common sync errors, along with a list of leads that have that error.
 
 ![](assets/image2016-1-12-8-3a13-3a9.png)
 
@@ -68,9 +68,9 @@ You now can create many-to-many relationships between Leads/Accounts and a custo
 
 ![](assets/image2016-1-11-12-3a59-3a59.png)
 
-## [Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
+## [[!UICONTROL Facebook] Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebook Lead ads](https://www.facebook.com/business/a/lead-ads) are a more direct way for a business to run lead generation campaigns on Facebook. People fill out a form to express interest in a product or service, so the business can follow up with them. The Marketo integration with Facebook Lead Ads automatically captures the information a lead provides within the Lead Ad form. Follow up actions and notifications can then be automated using the new Fills Out Facebook Lead Ads trigger.
+[[!UICONTROL Facebook Lead ads]](https://www.facebook.com/business/a/lead-ads) are a more direct way for a business to run lead generation campaigns on [!DNL Facebook]. People fill out a form to express interest in a product or service, so the business can follow up with them. The Marketo integration with [!UICONTROL Facebook Lead Ads] automatically captures the information a lead provides within the Lead Ad form. Follow up actions and notifications can then be automated using the new [!UICONTROL Fills Out Facebook Lead Ads] trigger.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
