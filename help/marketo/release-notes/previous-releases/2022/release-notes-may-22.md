@@ -21,13 +21,13 @@ The following features will start to be released on **May 6, 2022**, with a phas
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
-**Chatbot Events for Dynamic Chat**: Leverage more detailed behavior data for web visitors such as time on page, time on site, and page scroll percentage to define when a chat dialogue should be shown.  
+**Chatbot Events for [!DNL Dynamic Chat]**: Leverage more detailed behavior data for web visitors such as time on page, time on site, and page scroll percentage to define when a chat dialogue should be shown.  
 
-**PDF Embed for Dynamic Chat**: Increase engagement and share meaningful content by embedding PDFs into chat dialogues and measure content performance through engagement activity tracking.
+**PDF Embed for [!DNL Dynamic Chat]**: Increase engagement and share meaningful content by embedding PDFs into chat dialogues and measure content performance through engagement activity tracking.
 
-**Extended Language Support for Dynamic Chat**: The Dynamic Chat user interface will now also be available in French, German, Japanese, Portuguese, and Spanish. Chat dialogues can also be configured in these languages.  
+**Extended Language Support for [!DNL Dynamic Chat]**: The [!DNL Dynamic Chat] user interface will now also be available in French, German, Japanese, Portuguese, and Spanish. Chat dialogues can also be configured in these languages.  
 
-**Exclude URLs for Dynamic Chat**: Control which of your webpages Dynamic Chat appears on with the ability to exclude specific URLs from targeting criteria.
+**Exclude URLs for [!DNL Dynamic Chat]**: Control which of your webpages [!DNL Dynamic Chat] appears on with the ability to exclude specific URLs from targeting criteria.
 
 **[Email Bot Activity Filtering Enhancements](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}**: Continue to protect the health of your database with the ability to identify bot behavior based on hidden link User Agents or IPs and proximity patterns, in addition to the existing IAB list match identification. View bot activity stats that allow you to understand the number of bot activities identified for each type.
 
@@ -39,7 +39,7 @@ The following features will start to be released on **May 6, 2022**, with a phas
 
 **Updated Screen in the Next-Generation Experience**:
 
-We’re delivering Email Template Details View within Design Studio in the next-generation experience, offering an updated design and usability enhancements accessible via toggle switch.
+We’re delivering Email Template Details View within [!UICONTROL Design Studio] in the next-generation experience, offering an updated design and usability enhancements accessible via toggle switch.
 
 ## Experience Automation {#experience-automation}
 
@@ -57,7 +57,7 @@ We’re delivering Email Template Details View within Design Studio in the next-
 
 **Email Verification and Uniqueness**: Beginning in April, rollout of Email Verification will commence. At that point, Marketo Engage user email addresses will require verification and uniqueness (this does not apply to API-only users). Directory service authenticated users will automatically have their emails verified when their subscription is enabled with Email Verification.
 
-Email Verification for subscriptions using the “Login in Invite User Dialog” feature or that have a single email associated with multiple users will coincide with the May release. Subscriptions that have a single email associated with multiple users will be enabled with Email Verification and will require those users to resolve the conflict and use a unique email per user. When the ‘Login in Invite User Dialog’ feature is enabled, users invited via this feature will need to have a unique email address. For API-only users invited via this feature, the email address does not need to be unique.
+Email Verification for subscriptions using the “[!UICONTROL Login in Invite User Dialog]” feature or that have a single email associated with multiple users will coincide with the May release. Subscriptions that have a single email associated with multiple users will be enabled with Email Verification and will require those users to resolve the conflict and use a unique email per user. When the ‘Login in Invite User Dialog’ feature is enabled, users invited via this feature will need to have a unique email address. For API-only users invited via this feature, the email address does not need to be unique.
 
 **Archive Folder Behavior Change**: With this release, the ability to create new assets in Archive folders will no longer be available from the tree context menus. Menu options for creating new assets will be hidden for all assets. [Learn more here](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}.
 
