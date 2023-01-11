@@ -16,7 +16,7 @@ Create a calendar file as a My Token that can be added to your landing page. Thi
 
 ## Model Membership Tab {#model-membership-tab}
 
-View all your model member's data in one place in order to easily monitor and troubleshoot. The new Members Tab is a read-only view available when you select an approved Revenue Cycle Model.
+View all your model member's data in one place in order to easily monitor and troubleshoot. The new [!UICONTROL Members] Tab is a read-only view available when you select an approved Revenue Cycle Model.
 
 ![](assets/image2014-9-22-16-3a3-3a33.png)
 
@@ -28,6 +28,6 @@ Find flow actions faster with the newly reorganized flow action tree.
 
 ## Renamed Flow Actions {#renamed-flow-actions}
 
-Change Progression Status is now Change Program Status. Change Program Data is now Change Program Success
+Change Progression Status is now [!UICONTROL Change Program Status]. Change Program Data is now [!UICONTROL Change Program Success].
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)
