@@ -24,20 +24,20 @@ Did you hit send before an email program was ready to go out? Pull the brakes wi
 
 ## Email Deliverability  {#email-deliverability}
 
-Marketo will now run weekly automated SPF and DKIM checks on your added domains. Stay on top of this by checking your notifications.
+Marketo will now run weekly automated [!DNL SPF] and [!DNL DKIM] checks on your added domains. Stay on top of this by checking your notifications.
 
 ## Email Template Behavior Change {#email-template-behavior-change}
 
 As of this release, valid HTML comments are now allowed and not stripped out when creating new emails.
 
-## RTP: Drag and Drop Segment Editor {#rtp-drag-and-drop-segment-editor}
+## [!DNL RTP]: Drag and Drop Segment Editor {#rtp-drag-and-drop-segment-editor}
 
-RTP: [Drag and Drop Segment Editor](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
+[!DNL RTP]: [Drag and Drop Segment Editor](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 Drag and drop your criteria into the segment builder, define the value, and you’re well on your way to creating a real-time segment.
 
-## RTP: Predictive Content Recommendations {#rtp-predictive-content-recommendations}
+## [!DNL RTP]: Predictive Content Recommendations {#rtp-predictive-content-recommendations}
 
 [Predictive Content Recommendations](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
-Use RTP’s machine learning and predictive analytics algorithms to recommend the right content to the right prospect. Enhance your content assets visually with images and text descriptions and recommend more than one content asset.
+Use [!DNL RTP]’s machine learning and predictive analytics algorithms to recommend the right content to the right prospect. Enhance your content assets visually with images and text descriptions and recommend more than one content asset.
