@@ -10,15 +10,15 @@ A web campaign is a customized reaction associated with a specific segment and c
 
 ## Create a Widget Web Campaign {#create-a-widget-web-campaign}
 
-1. Go to **Web Campaigns**.
+1. Go to **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. Select **Create New Web Campaign**.
+1. Select **[!UICONTROL Create New Web Campaign]**.
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. Select the **Widget** campaign type.
+1. Select the **[!UICONTROL Widget]** campaign type.
 
    ![](assets/3.png)
 
@@ -26,7 +26,7 @@ A web campaign is a customized reaction associated with a specific segment and c
 
    ![](assets/4.png)
 
-1. Click **Preview** to see how the web campaign will react on your site.
+1. Click **[!UICONTROL Preview]** to see how the web campaign will react on your site.
 
    ![](assets/preview.png)
 
@@ -88,11 +88,11 @@ A web campaign is a customized reaction associated with a specific segment and c
 
    >[!NOTE]
    >
-   >**Want to A/B test your web campaigns?** One or more web campaigns can be [A/B tested for optimal results](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). With the Auto-Tune feature, the platform automatically recognizes the better performing campaigns, continues with the highest converting campaigns and pauses the other ones.
+   >**Want to A/B test your web campaigns?** One or more web campaigns can be [A/B tested for optimal results](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). With the [!UICONTROL Auto Tune] feature, the platform automatically recognizes the better performing campaigns, continues with the highest converting campaigns and pauses the other ones.
 
 ## Edit a Web Campaign {#edit-a-web-campaign}
 
-   From the Web Campaigns page, click **Edit** on the Campaign.
+   From the [!UICONTROL Web Campaigns] page, click **[!UICONTROL Edit]** on the Campaign.
 
    ![](assets/image2016-11-4-13-3a2-3a20.png)
 
@@ -106,13 +106,13 @@ A web campaign is a customized reaction associated with a specific segment and c
 
 ## Preview a Web Campaign {#preview-a-web-campaign}
 
-   From the Web Campaigns page, click **Preview** on the web campaign you wish to preview
+   From the [!UICONTROL Web Campaigns] page, click **[!UICONTROL Preview]** on the web campaign you wish to preview
 
    ![](assets/widget-campaign-preview-hand.png)
 
 ## Delete a Web Campaign {#delete-a-web-campaign}
 
-1. From the Web Campaigns page, click **Delete** on the web campaign you wish to delete.
+1. From the [!UICONTROL Web Campaigns] page, click **[!UICONTROL Delete]** on the web campaign you wish to delete.
 
    ![](assets/widget-campaign-delete-hand.png)
 
