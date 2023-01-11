@@ -12,7 +12,7 @@ The following features are included in the June 2014 release. Please check your 
 
 A new look and feel, including navigation for [!DNL Marketo Lead Management] is coming soon in a later release!
 
-## [!DNL Sales Insight] plugin for Outlook 2013 {#sales-insight-plugin-for-outlook}
+## [!DNL Sales Insight] plugin for [!DNL Outlook] 2013 {#sales-insight-plugin-for-outlook}
 
 This will require a download of the new plug-in. You can download it from [here](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
