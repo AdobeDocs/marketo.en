@@ -4,11 +4,11 @@ description: Using the Web Personalization Rich Text Editor - Marketo Docs - Pro
 title: Using the Web Personalization Rich Text Editor
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 ---
-# Using the Web Personalization Rich Text Editor {#using-the-web-personalization-rich-text-editor}
+# Using the [!DNL Web Personalization] Rich Text Editor {#u[!UICONTROL sing]-the-web-personalization-rich-text-editor}
 
 ![](assets/one.png)
 
-The Web Personalization rich text editor found in the Set Campaigns page allows for text formatting, linking and image insertion. It includes formatting options similar to standard word processors.
+The [!DNL Web Personalization] rich text editor found in the [!UICONTROL Set Campaigns] page allows for text formatting, linking and image insertion. It includes formatting options similar to standard word processors.
 
 The important icons in the rich text editor include:
 
@@ -44,7 +44,7 @@ The important icons in the rich text editor include:
 
 >[!NOTE]
 >
->Web Tokens use [people data](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) from your Marketo Database that is managed in Web Personalization under Account Settings > Database. If the web token is a new database field not yet in Account Settings > Database, it will automatically be added and can take up to 24 hours to activate.
+>Web Tokens use [people data](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) from your [!DNL Marketo Database] that is managed in [!DNL Web Personalization] under [!UICONTROL Account Settings] > [!UICONTROL Database]. If the web token is a new database field not yet in [!UICONTROL Account Settings] > [!UICONTROL Database], it will automatically be added and can take up to 24 hours to activate.
 
 >[!MORELIKETHIS]
 >
