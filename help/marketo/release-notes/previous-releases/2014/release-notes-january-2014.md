@@ -22,13 +22,13 @@ Theme designs, button customization, and flexible layouts enable you to design m
 
 ![](assets/image2014-9-22-10-3a30-3a52.png)
 
-Want “State” to only show up if a user selects USA as their “Country”? How about presenting different whitepapers to customers based on how they answer questions on your form? Build conditional logic into your forms right from the editor. No javascript required!
+Want “State” to only show up if a user selects USA as their “Country”? How about presenting different whitepapers to customers based on how they answer questions on your form? Build conditional logic into your forms right from the editor. No [!DNL javascript] required!
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
 
 **Easily Embed Forms on your own landing pages:**
 
-Gone are the days of lifting html code from forms placed on Marketo landing pages and dropping them in an iFrame. Simply grab the embed code and place it on your landing page where you want the form to render. Two modes -normal and lightbox- give you even more flexibility with Marketo forms on your site.
+Gone are the days of lifting html code from forms placed on Marketo landing pages and dropping them in an [!DNL iFrame]. Simply grab the embed code and place it on your landing page where you want the form to render. Two modes -normal and lightbox- give you even more flexibility with Marketo forms on your site.
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
