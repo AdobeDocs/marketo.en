@@ -114,13 +114,13 @@ The following features fall under the standard release cycle and will start to b
   </tbody>
 </table>
 
-### Sales Insight {#sales-insight}
+### [!DNL Sales Insight] {#sales-insight}
 
 </br>
 
 ![(star)](assets/yellow-star.png)
 
-* **Sales Insight Integration with Dynamic Chat**: Insights Dashboard now includes Dynamic Chat activities in the Smart Grid along with a weekly summary and detail cards.
+* **[!DNL Sales Insight] Integration with [!DNL Dynamic Chat]**: Insights Dashboard now includes [!DNL Dynamic Chat] activities in the Smart Grid along with a weekly summary and detail cards.
 
 <table> 
   <tr> 
@@ -138,7 +138,7 @@ The following features fall under the standard release cycle and will start to b
 
 The following features follow an Agile format and are released on various dates before or after the standard release date. Please check below each feature for its status.
 
-* **Auto Arrange Dialogue streams for Dynamic Chat**: Improve your crowded Dialogue canvas by organizing everything on the canvas into a clean and easy to read format with the press of a button through Auto Arrange.
+* **Auto Arrange Dialogue streams for [!DNL Dynamic Chat]**: Improve your crowded Dialogue canvas by organizing everything on the canvas into a clean and easy to read format with the press of a button through Auto Arrange.
 
 <table> 
   <tr> 
@@ -152,7 +152,7 @@ The following features follow an Agile format and are released on various dates 
   </tbody>
 </table>
 
-* **Meeting Links for Dynamic Chat**: Option to automatically include a Teams or Meet link for Google and Outlook in every calendar invite that's sent to visitors.
+* **Meeting Links for [!DNL Dynamic Chat]**: Option to automatically include a [!DNL Teams] or [!DNL Meet] link for Google and [!DNL Outlook] in every calendar invite that's sent to visitors.
 
 <table> 
   <tr> 
@@ -166,7 +166,7 @@ The following features follow an Agile format and are released on various dates 
   </tbody>
 </table>
 
-* **Support additional data types for Dynamic Chat**: Three new data types (boolean, integer, float) allow you to leverage more existing Marketo Engage fields in Dynamic Chat for things like targeting based on scores or asking visitors yes/no questions.  
+* **Support additional data types for [!DNL Dynamic Chat]**: Three new data types (boolean, integer, float) allow you to leverage more existing Marketo Engage fields in [!DNL Dynamic Chat] for things like targeting based on scores or asking visitors yes/no questions.  
 
 <table> 
   <tr> 
@@ -180,7 +180,7 @@ The following features follow an Agile format and are released on various dates 
   </tbody>
 </table>
 
-* **Scheduled Meeting Notifications for Dynamic Chat**: Sales representatives get automated email notifications regarding scheduled meetings as well as any relevant information about the visitor's chatbot interaction.
+* **Scheduled Meeting Notifications for [!DNL Dynamic Chat]**: Sales representatives get automated email notifications regarding scheduled meetings as well as any relevant information about the visitor's chatbot interaction.
 
 <table> 
   <tr> 
