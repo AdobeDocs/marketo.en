@@ -17,7 +17,7 @@ The following features will start to be released on **March 11, 2022**, with a p
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
-* **Dynamic Chat**: Maximize every opportunity on your website by targeting both leads and accounts with proactive, engaging, and 1:1 personalized conversations. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} allows Marketo Engage users to start leveraging chat as a key part of integrated cross-channel experiences for B2B marketing and sales use cases. Features include: the ability to book meetings directly within the chat, lead routing, starter templates, drag-and-drop conversation creation, and much more. Dynamic Chat is included in all Marketo Engage packages and will be rolled out to all Marketo Engage users this year.
+* **[!DNL Dynamic Chat]**: Maximize every opportunity on your website by targeting both leads and accounts with proactive, engaging, and 1:1 personalized conversations. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} allows Marketo Engage users to start leveraging chat as a key part of integrated cross-channel experiences for B2B marketing and sales use cases. Features include: the ability to book meetings directly within the chat, lead routing, starter templates, drag-and-drop conversation creation, and much more. Dynamic Chat is included in all Marketo Engage packages and will be rolled out to all Marketo Engage users this year.
 
 * **Email Bot Activity Filtering Enhancement**: As an enhancement to the previously released [Email Bot Activity Filtering](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} feature, you can now opt-in to logging activities that are identified as bots. You can then filter and trigger actions based on activities that are identified as being performed by bots.
 
@@ -25,7 +25,7 @@ The following features will start to be released on **March 11, 2022**, with a p
 
 * **Updated Screens in the Next-Generation Experience**: We're delivering additional, refreshed screens in the next-generation experience that offer an updated design and usability enhancements accessible via toggle switch:
 
-  * Form List View in Design Studio (including new bulk actions)
+  * Form List View in [!UICONTROL Design Studio] (including new bulk actions)
 
 * **Import Program Workflow Update**: The import program workflow is being delivered in the next-generation experience with an updated design and usability enhancements. This will be an automatic change without a toggle switch.
 
@@ -53,17 +53,17 @@ The following features will start to be released on **March 11, 2022**, with a p
 
 The following features are on a non-quarterly cycle and will be released throughout the coming months.
 
-## Bizible {#bizible}
+## [!DNL Bizible] {#bizible}
 
 ![(star)](assets/yellow-star.png)
 
-* **BI Templates**: Bizible will now provide downloadable, foundational reporting artifacts and sample reports for Tableau and Power BI to enable rapid development of custom reports tailored for your specific business needs.
+* **BI Templates**: [!DNL Bizible] will now provide downloadable, foundational reporting artifacts and sample reports for Tableau and Power BI to enable rapid development of custom reports tailored for your specific business needs.
 
-## Sales Connect {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
 ![(star)](assets/yellow-star.png)
 
-* **Email Connection Throttling (GA)**: Email Connection Throttling allows Sales Connect administrators to configure the send rate of emails when using Gmail or Exchange as your delivery channel, so that the rate at which emails are being handed over to the delivery channel provider do not exceed the enforced limits.
+* **Email Connection Throttling (GA)**: Email Connection Throttling allows [!DNL Sales Connect] administrators to configure the send rate of emails when using Gmail or [!DNL Exchange] as your delivery channel, so that the rate at which emails are being handed over to the delivery channel provider do not exceed the enforced limits.
 
 ## Announcements {#announcements}
 
