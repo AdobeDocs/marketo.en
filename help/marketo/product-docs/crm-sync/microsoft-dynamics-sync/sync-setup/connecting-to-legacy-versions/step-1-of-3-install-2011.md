@@ -64,7 +64,7 @@ Before you can sync [!DNL Microsoft Dynamics] On-Premises and Marketo, you need 
 
    ![](assets/image2015-4-2-11-3a43-3a51.png)
 
-1. Click **Close**.
+1. Click **[!UICONTROL Close]**.
 
    >[!NOTE]
    >
