@@ -6,7 +6,7 @@ exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 ---
 # Enable Sync for a Custom Entity {#enable-sync-for-a-custom-entity}
 
-If you need custom entity data from Dynamics to be available in Marketo, here's how to enable the sync for it.
+If you need custom entity data from [!DNL Dynamics] to be available in Marketo, here's how to enable the sync for it.
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ If you need custom entity data from Dynamics to be available in Marketo, here's 
 >
 >The Marketo Sync User needs read access to the custom object to list it and perform a sync on it.
 
-1. Go to the **Admin** section.
+1. Go to the **[!UICONTROL Admin]** section.
 
    ![](assets/enable-sync-for-a-custom-entity-1.png)
 
-1. Select **Microsoft Dynamics** and click **Disable Sync**.
+1. Select **[!UICONTROL Microsoft Dynamics]** and click **[!UICONTROL Disable Sync]**.
 
    ![](assets/enable-sync-for-a-custom-entity-2.png)
 
@@ -33,19 +33,19 @@ If you need custom entity data from Dynamics to be available in Marketo, here's 
    >
    >You must disable the global sync temporarily in order to enable or disable a custom entity.
 
-1. Under Database Management, click the **Dynamics Entities Sync** link.
+1. Under [!UICONTROL Database Management], click the **[!UICONTROL Dynamics Entities Sync]** link.
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 
-1. Click the **Sync schema** link.
+1. Click the **[!UICONTROL Sync schema]** link.
 
    ![](assets/enable-sync-for-a-custom-entity-4.png)
 
-1. Select the entity you want to sync and click **Enable Sync**.
+1. Select the entity you want to sync and click **[!UICONTROL Enable Sync]**.
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. Select the fields you want to sync or use as [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) and/or triggers in smart lists. When done, click **Enable Sync**.
+1. Select the fields you want to sync or use as [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) and/or triggers in smart lists. When done, click **[!UICONTROL Enable Sync]**.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
