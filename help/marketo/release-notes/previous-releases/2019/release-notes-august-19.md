@@ -20,7 +20,7 @@ The following features were released on August 16, 2019.
 
 **Account-Based Marketing** ![(star)](assets/yellow-star.png)
 
-* **LinkedIn Account Matching**, previously in beta, is now generally available.
+* **[!DNL LinkedIn] Account Matching**, previously in beta, is now generally available.
 * **AccountAI** is being officially rebranded as **Account Profiling**.
 
 <br>&nbsp;
@@ -29,7 +29,7 @@ The following features were released on August 16, 2019.
 
 The following features are on a non-quarterly cycle and will be released throughout the third calendar quarter and into the beginning of Q4 2019.
 
-**Marketo Sales Connect** ![(star)](assets/yellow-star.png)
+**[!DNL Marketo Sales Connect]** ![(star)](assets/yellow-star.png)
 
 * **People Page Layout Enhancement:** Manage your people and groups through list imports and bulk actions in the new people page layout.
 
