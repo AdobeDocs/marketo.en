@@ -35,17 +35,17 @@ The following features will be released on **August 20, 2021**.
 
 The following features are on a non-quarterly cycle and will be released throughout the coming months.
 
-## Sales Insight {#sales-insight}
+## [!DNL Sales Insight] {#sales-insight}
 
 ![(star)](assets/yellow-star.png)
 
-* **Enhanced visibility into Lead, Contact, Account & Opportunity Activities for Salesforce CRM Users**: Engagement with prospects during long sales cycles is more informed due to an increased number of engagement records in Sales Insight. Interesting moments, web activity, email, and score tabs show up to 400 activities across Lead, Contact, Account, and Opportunity objects.  
+* **Enhanced visibility into Lead, Contact, Account & Opportunity Activities for Salesforce CRM Users**: Engagement with prospects during long sales cycles is more informed due to an increased number of engagement records in [!DNL Sales Insight]. Interesting moments, web activity, email, and score tabs show up to 400 activities across Lead, Contact, Account, and Opportunity objects.  
 
-## Sales Connect {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
 ![(star)](assets/yellow-star.png)
 
-* **Email Connection Throttling (Beta)**: Improve email deliverability and scale personalized sales communication with the email connection throttling for Sales Connect. This new technology automatically manages email send timing to create seamless experiences for Exchange and Gmail users. Decrease or eliminate the usage of third-party bulk email send applications and send all your emails from Sales Connect with confidence.
+* **Email Connection Throttling (Beta)**: Improve email deliverability and scale personalized sales communication with the email connection throttling for Sales Connect. This new technology automatically manages email send timing to create seamless experiences for [!DNL Exchange] and Gmail users. Decrease or eliminate the usage of third-party bulk email send applications and send all your emails from [!DNL Sales Connect] with confidence.
 
 >[!NOTE]
 >
@@ -53,25 +53,25 @@ The following features are on a non-quarterly cycle and will be released through
 
 * **Enhanced Sales Activity Insights**: Capture and activate personalized engagement based on your sales team’s prior activities. New attributes such as Sales Call Recording Link, Sales Campaign Name, and Sales Email Subject can be used in Marketo Engage smart lists.  These activities can be exported and reported through the Marketo Engage REST API or Bulk Export and are available on filters and triggers as additional constraints for smart lists.  
 
-## Bizible {#bizible}
+## [!DNL Bizible] {#bizible}
 
 ![](assets/yellow-star.png)
 
-* **Bizible LinkedIn Lead Gen Forms Integration**: Marketers can now perform revenue attribution on conversions that occur when LinkedIn captures form fills through their Lead Gen Forms ad units. These insights can then be used to optimize form performance and paid media investments. LinkedIn Lead Gen Forms are one of LinkedIn’s fastest-growing paid media offerings and this new capability is included with our existing LinkedIn Ads integration with Bizible.  
+* **[!DNL Bizible] [!DNL LinkedIn] Lead Gen Forms Integration**: Marketers can now perform revenue attribution on conversions that occur when [!DNL LinkedIn] captures form fills through their Lead Gen Forms ad units. These insights can then be used to optimize form performance and paid media investments. [!DNL LinkedIn] Lead Gen Forms are one of [!DNL LinkedIn]’s fastest-growing paid media offerings and this new capability is included with our existing [!DNL LinkedIn] Ads integration with [!DNL Bizible].  
   
 * **Improved Velocity Dashboard**: We have added a new velocity metric and dashboard filter for deeper insights. This dashboard is used by marketers to understand stage-by-stage lead and opportunity velocity and the efficiency of different forms of marketing and sales engagement.
 
 * **New Cohort Waterfall Journey Dashboard**: This will enable marketers to view the progression of a selected cohort through a classic “demand waterfall” set of stages, providing a quick understanding of conversion rates and implied stage conversion causality on a stage-by-stage basis.
 
-## Bizible Integration with Adobe Experience Cloud {#bizible-integration-with-adobe-experience-cloud}
+## [!DNL Bizible] Integration with Adobe Experience Cloud {#bizible-integration-with-adobe-experience-cloud}
 
-This section includes new features for Bizible users that have completed their Adobe Identity Management System (IMS) migration. If you have been migrated, you’ll see your new Adobe ID in Bizible Settings under the Adobe ID tab. All accounts should be migrated by the end of 2021.
+This section includes new features for Bizible users that have completed their Adobe Identity Management System (IMS) migration. If you have been migrated, you’ll see your new Adobe ID in [!DNL Bizible] Settings under the Adobe ID tab. All accounts should be migrated by the end of 2021.
 
-* **Bizible Integration with Adobe Privacy Service** (available September 2021): Bizible’s integration with the Adobe Privacy Service centralizes compliance with critical data privacy regulations (such as GDPR) across Adobe Experience Cloud applications. You can now take advantage of this service and manage all privacy requests centrally so that change requests coming into Bizible and other Adobe products are reflected across applications.
+* **[!DNL Bizible] Integration with Adobe Privacy Service** (available September 2021): [!DNL Bizible]’s integration with the Adobe Privacy Service centralizes compliance with critical data privacy regulations (such as GDPR) across Adobe Experience Cloud applications. You can now take advantage of this service and manage all privacy requests centrally so that change requests coming into [!DNL Bizible] and other Adobe products are reflected across applications.
 
-* **Bizible on Adobe Unified Shell**: Bizible’s adoption of Adobe Unified Shell gives users new capabilities that will appear in the Bizible application header bar and include better access to support resources and application switching. Adobe Unified Shell helps create a consistent experience between Bizible and other Adobe Experience Cloud applications.
+* **[!DNL Bizible] on Adobe Unified Shell**: [!DNL Bizible]’s adoption of Adobe Unified Shell gives users new capabilities that will appear in the [!DNL Bizible] application header bar and include better access to support resources and application switching. Adobe Unified Shell helps create a consistent experience between [!DNL Bizible] and other Adobe Experience Cloud applications.
 
-* **Bizible Domain Ownership and Self-Management**: Bizible users can leverage Adobe Admin Console to manage the domains they want Bizible to track. This brings self-service to a previously manual process and provides a consistent experience in how domain ownership and tracking are managed across Adobe Experience Cloud applications.
+* **[!DNL Bizible] Domain Ownership and Self-Management**: [!DNL Bizible] users can leverage Adobe Admin Console to manage the domains they want [!DNL Bizible] to track. This brings self-service to a previously manual process and provides a consistent experience in how domain ownership and tracking are managed across Adobe Experience Cloud applications.
 
 ## Announcements {#announcements}
 
