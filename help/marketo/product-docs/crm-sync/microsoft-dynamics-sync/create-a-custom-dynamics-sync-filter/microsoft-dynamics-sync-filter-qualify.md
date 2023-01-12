@@ -4,9 +4,9 @@ description: Microsoft Dynamics Sync Filter -Qualify - Marketo Docs - Product Do
 title: Microsoft Dynamics Sync Filter -Qualify
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 ---
-# Microsoft Dynamics Sync Filter: Qualify {#microsoft-dynamics-sync-filter-qualify}
+# [!DNL Microsoft Dynamics] Sync Filter: Qualify {#microsoft-dynamics-sync-filter-qualify}
 
-When you want to convert a lead to a contact in Microsoft Dynamics, be sure to use this default Qualify process. Then, sync it to Marketo.
+When you want to convert a lead to a contact in [!DNL Microsoft Dynamics], be sure to use this default Qualify process. Then, sync it to Marketo.
 
 ## The Conversion Process {#the-conversion-process}
 
@@ -17,7 +17,7 @@ Here's how the filters work during the conversion process.
 | False |False |Nothing is synced in Marketo |
 | True |True |The contact is synced in Marketo |
 | False |True |New contact record is created in Marketo |
-| True |False |MS Dynamics updates lead info in Marketo but contact record is not synced |
+| True |False |[!DNL MS Dynamics] updates lead info in Marketo but contact record is not synced |
 
 >[!CAUTION]
 >
