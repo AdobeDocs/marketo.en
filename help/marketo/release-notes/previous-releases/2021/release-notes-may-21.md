@@ -21,7 +21,7 @@ The following features will be released on **May 7, 2021**.
 
 ## Next-Generation User Experience {#next-generation-user-experience}
 
-With global search preview, marketers can quickly see where a shared asset exists in their instance. Browser tabs display the location to improve navigation in Marketing Activities or Design Studio. Additional tree and global search filters help refine your search criteria. Drag-and-drop functionality within the tree has been reinstated, allowing you to move folders and assets quickly and efficiently within the main app areas. Newly updated icons (that meet Adobe’s accessibility standards) and status badges allow marketers to distinguish between folders and assets quickly and easily in the tree and identify the status of programs and assets.
+With global search preview, marketers can quickly see where a shared asset exists in their instance. Browser tabs display the location to improve navigation in [!UICONTROL Marketing Activities] or [!UICONTROL Design Studio]. Additional tree and global search filters help refine your search criteria. Drag-and-drop functionality within the tree has been reinstated, allowing you to move folders and assets quickly and efficiently within the main app areas. Newly updated icons (that meet Adobe’s accessibility standards) and status badges allow marketers to distinguish between folders and assets quickly and easily in the tree and identify the status of programs and assets.
 
 ## Experience Automation {#experience-automation}
 
@@ -57,7 +57,7 @@ Several critical updates to Bulk and Lead APIs, including the ability to export 
 
 * **Bulk Lead Import API**: Control bulk lead import and resources it takes. This enhancement creates association between lead and company during bulk lead import process. Increase efficiency and of working with data and decrease usage if API calls.
 
-* **Web API based Integration for the Microsoft Dynamics Online Customers**: MS Dynamics Web API was introduced with version 8.0 REST protocol and implements OData (Open Data Protocol) v4. OData is an OASIS (Organization for the Advancement of Structured Information Standards) standard for building and consuming RESTful services over rich data. Adobe Marketo Engage customers that require integration with Microsoft Dynamics using this method are currently being migrated to Web API-based connection from SOAP (Simple Object Access Protocol).
+* **Web API based Integration for the [!DNL Microsoft Dynamics Online] Customers**: [!DNL MS Dynamics] Web API was introduced with version 8.0 REST protocol and implements OData (Open Data Protocol) v4. OData is an OASIS (Organization for the Advancement of Structured Information Standards) standard for building and consuming RESTful services over rich data. Adobe Marketo Engage customers that require integration with [!DNL Microsoft Dynamics] using this method are currently being migrated to Web API-based connection from SOAP (Simple Object Access Protocol).
 
 ## Marketing Data Environment {#marketing-data-environment}
 
@@ -69,7 +69,7 @@ Several critical updates to Bulk and Lead APIs, including the ability to export 
 
 ![](assets/yellow-star.png)
 
-* **Integration with LinkedIn Lead Gen Forms (Beta)**: Gain deep visibility into your LinkedIn channel spend and ROI with Bizible premium attribution solution. Through the latest integration with LinkedIn’s Lead Gen Forms, Bizible gains insight into forms that have been submitted within the LinkedIn platform. These form fills are matched against leads from your CRM (Customer Relationship Management) or Adobe Marketo Engage instance so that they’re eligible for attribution and can be tracked against your other marketing engagements.
+* **Integration with [!DNL LinkedIn] Lead Gen Forms (Beta)**: Gain deep visibility into your [!DNL LinkedIn] channel spend and ROI with Bizible premium attribution solution. Through the latest integration with [!DNL LinkedIn]’s Lead Gen Forms, Bizible gains insight into forms that have been submitted within the [!DNL LinkedIn] platform. These form fills are matched against leads from your CRM (Customer Relationship Management) or Adobe Marketo Engage instance so that they’re eligible for attribution and can be tracked against your other marketing engagements.
 
 ## Announcements {#announcements}
 
