@@ -23,7 +23,7 @@ The following features were released on June 14, 2019.
 
 ## Account-Based Marketing {#account-based-marketing}
 
-* **LinkedIn Account Matching (BETA)** : A new ABM capability is now available in beta, offering you the ability to send lists of known and whitespace accounts directly from Marketo into LinkedIn. This functionality is automatically included for all Marketo ABM customers.
+* **[!DNL LinkedIn] Account Matching (BETA)** : A new ABM capability is now available in beta, offering you the ability to send lists of known and whitespace accounts directly from Marketo into LinkedIn. This functionality is automatically included for all Marketo ABM customers.
 
 <br>&nbsp;
 
@@ -31,9 +31,9 @@ The following features were released on June 14, 2019.
 
 The following features are expected to release throughout the second calendar quarter and into the beginning of the third quarter of 2019.
 
-## Marketo Sky {#marketo-sky}
+## [!DNL Marketo Sky] {#marketo-sky}
 
-* **Event Caps** and **Event Goals** are generally available in Marketo Sky under the Premium Events add-on.
+* **Event Caps** and **Event Goals** are generally available in [!DNL Marketo Sky] under the Premium Events add-on.
 
    * Event Caps: Optimize the customer experience for your events and webinars with registration caps, page redirects, and waitlisting functionality.
    * Event Goals: Set event registration and attendance goals and track progress in real time.
@@ -46,19 +46,19 @@ The following features are expected to release throughout the second calendar qu
 * **More Smart List Cards**: Segment and target appropriately with additional smart list cards, including “Create Task” flow step, CRM smart list rules, and more.
 * **Email Champion/Challenger Details Page**: See data like winning criteria, created at, etc. from your email champion/challenger tests.
 
-## Marketo Sales Connect {#marketo-sales-connect}
+## Marketo [!DNL Sales Connect] {#marketo-sales-connect}
 
-* **Bulk Actions in Salesforce Customization**: Maximize productivity by sending emails and adding contacts to campaigns in bulk with Salesforce Customization.
-* **Settings - Salesforce Page for Admin and Non-Admin**: Manage your Sales Connect instance with a clear view of the Salesforce instance connected to Sales Connect as well as My Email to Salesforce updates. Enhanced sync settings for Admins, Non-Admins, and Team Wide Sync are releasing in the coming months.
+* **Bulk Actions in [!DNL Salesforce] Customization**: Maximize productivity by sending emails and adding contacts to campaigns in bulk with [!DNL Salesforce] Customization.
+* **Settings - [!DNL Salesforce] Page for Admin and Non-Admin**: Manage your [!DNL Sales Connect] instance with a clear view of the [!DNL Salesforce] instance connected to [!DNL Sales Connect] as well as My Email to [!DNL Salesforce] updates. Enhanced sync settings for Admins, Non-Admins, and Team Wide Sync are releasing in the coming months.
 * **Settings - Integration Page**: A one-stop shop for all of your integrations, so you can get the most out of our open ecosystem.
 * **Settings - Profile Page**: View and update your account details, change your password, and check the status of your instance’s implementation on this new profile page.
 
 * **System Email Templates**: Updated design, responsiveness, and internationalization capabilities.
 
-## Bizible by Marketo {#bizible-by-marketo}
+## [!DNL Bizible] by Marketo {#bizible-by-marketo}
 
-* **Multi-Currency Support for Dynamics**: Bizible now adapts to Microsoft Dynamics currency tables, so you can easily switch between corporate and local currencies. (Note: Support for SFDC was released in Q1 2019.)
-* **Drift Integration**: Understand how Drift conversations impact your customer’s journey. Bizible will also pull email addresses from conversations to either create a new lead or connect the touchpoint to an existing lead.
-* **Localization**: Bizible is now available in all Marketo-supported languages (English, Japanese, German, Spanish, French, and Portuguese).
+* **Multi-Currency Support for [!DNL Dynamics]**: [!DNL Bizible] now adapts to [!DNL Microsoft Dynamics] currency tables, so you can easily switch between corporate and local currencies. (Note: Support for SFDC was released in Q1 2019.)
+* **Drift Integration**: Understand how Drift conversations impact your customer’s journey. [!DNL Bizible] will also pull email addresses from conversations to either create a new lead or connect the touchpoint to an existing lead.
+* **Localization**: [!DNL Bizible] is now available in all Marketo-supported languages (English, Japanese, German, Spanish, French, and Portuguese).
 
 ***Product Release Webinar*** Watch the recording of our June '19 Release Innovations webinar [here](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
