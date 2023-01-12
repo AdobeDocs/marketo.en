@@ -18,12 +18,12 @@ Web personalization now supports multiple workspaces.
 
 ## Marketo [!DNL Sales Engage] {#marketo-sales-engage}
 
-* **SFDC Lightning Support**: Users migrating to or currently using Lightning can leverage MSE for smarter engagement across the buyer journey.
+* **[!DNL SFDC Lightning] Support**: Users migrating to or currently using [!DNL Lightning] can leverage MSE for smarter engagement across the buyer journey.
 
 * **Expanded support: [!DNL Microsoft Office]**
 
    * [!DNL Outlook] as a Delivery Channel: Marketers can now leverage [!DNL Outlook] for email engagements, improving deliverability rates and response tracking.
-   * [!DNL Office] 365 Email Support Improvements: Marketo [!DNL Sales Engage] is directly available in [!DNL Outlook] for Mac, [!DNL Outlook] for Windows, and the [!DNL Outlook] Web Application for [!DNL Office] 365 Email clients, making Marketo [!DNL Sales Engage] more readily available to all [!DNL Office] users.
+   * [!DNL Office] 365 Email Support Improvements: Marketo [!DNL Sales Engage] is directly available in [!DNL Outlook] for Mac, [!DNL Outlook] for [!DNL Windows], and the [!DNL Outlook] Web Application for [!DNL Office] 365 Email clients, making Marketo [!DNL Sales Engage] more readily available to all [!DNL Office] users.
 
 * **Improved admin and user login experience**
 
