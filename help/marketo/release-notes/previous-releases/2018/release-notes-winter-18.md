@@ -14,9 +14,9 @@ Please click the title links to view detailed articles for each feature. **Note*
 
 Marketo is leveraging our big data architecture to increase trigger campaign throughput and improve web activity processing, so you can react to your audience's actions faster.
 
-## Enhancements to Marketo’s Salesforce CRM Integration {#enhancements-to-marketo-s-salesforce-crm-integration}
+## Enhancements to Marketo’s [!DNL Salesforce] CRM Integration {#enhancements-to-marketo-s-salesforce-crm-integration}
 
-We have two enhancements to our Salesforce CRM Integration:
+We have two enhancements to our [!DNL Salesforce] CRM Integration:
 
 * [Marketo Admin notifications](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) for certain CRM sync failures (credentials expired, API limits reached, etc.)
 
@@ -24,11 +24,11 @@ We have two enhancements to our Salesforce CRM Integration:
 
 These improvements will roll out over 2018.
 
-## [Marketo Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
+## [Marketo [!UICONTROL Performance Insights]](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
 >[!AVAILABILITY]
 >
->Performance Insights is an add-on product. Please contact your Marketo Customer Success Manager or Account Executive for a quote.
+>[!UICONTROL Performance Insights] is an add-on product. Please contact your Marketo Customer Success Manager or Account Executive for a quote.
 
 Explore how your campaigns and channels are impacting business results with attribution analytics, interactive visualizations, and a detailed data table.
 
@@ -38,7 +38,7 @@ Explore how your campaigns and channels are impacting business results with attr
 
 **[ABM Hierarchies](/help/marketo/product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)**
 
-For ABM customers with Salesforce or Microsoft Dynamics, ABM will now automatically inherit (and display) the parent-child relationships established in the CRM. You'll be able to use these relationships in both roll-up reporting and campaign execution.
+For ABM customers with [!DNL Salesforce] or [!DNL Microsoft Dynamics], ABM will now automatically inherit (and display) the parent-child relationships established in the CRM. You'll be able to use these relationships in both roll-up reporting and campaign execution.
 
 ## Email Marketing {#email-marketing}
 
@@ -56,11 +56,11 @@ Velocity scripting is now supported in emails using dynamic content. Combine vel
 
 **[Google Customer Match Integration](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-With this integration, you can send a Marketo audience to Google to be targeted using Google AdWords, as well as re-target audiences across YouTube, Search, and Gmail.
+With this integration, you can send a Marketo audience to Google to be targeted using [!DNL Google AdWords], as well as re-target audiences across [!DNL YouTube], Search, and [!DNL Gmail].
 
-**[LinkedIn Matched Audiences API Enhancement](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[[!DNL LinkedIn] Matched Audiences API Enhancement](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
-Our new LinkedIn API now enables you to re-target people in your Marketo database across multiple LinkedIn Campaign Manager accounts.
+Our new [!DNL LinkedIn] API now enables you to re-target people in your Marketo database across multiple [!DNL LinkedIn] Campaign Manager accounts.
 
 ## Web Personalization {#web-personalization}
 
@@ -84,11 +84,11 @@ Content recommended via Marketo's optimized ContentAI algorithms generate up to 
 
 This new API allows you to remotely activate and deactivate trigger campaigns, so you can now create fully automated program templates. Create a program template once, then automate cloning, marketing collateral updates, and now activation/scheduling of smart campaigns.
 
-## ToutApp {#toutapp}
+## [!DNL ToutApp] {#toutapp}
 
 **Unsubscribe Update**
 
-Beginning March 1, 2018, all emails sent from [ToutApp.com](https://ToutApp.com) (and by using the “Email with Tout” button in Salesforce) will have an unsubscribe link appended to the bottom.
+Beginning March 1, 2018, all emails sent from [ToutApp.com](https://ToutApp.com) (and by using the “Email with [!DNL Tout]” button in [!DNL Salesforce]) will have an unsubscribe link appended to the bottom.
 
 **Live Feed Update**
 
@@ -96,4 +96,4 @@ We’ve updated the look and feel of the Engagement and Task tabs to make it eas
 
 **People Detail View Update**
 
-The improved People Detail View (PDV) offers a comprehensive view of your contacts by bringing together your Tout and Salesforce CRM contact details.
+The improved People Detail View (PDV) offers a comprehensive view of your contacts by bringing together your [!DNL Tout] and [!DNL Salesforce] CRM contact details.
