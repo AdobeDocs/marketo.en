@@ -10,17 +10,17 @@ The following features are included in the Spring '18 release. Check your Market
 
 Please click the title links to view detailed articles for each feature. Note: Some of the features included in this release do not have associated articles. If a topic has multiple subheadings, the links are placed there.
 
-## Marketo Sales Engage, Launch, and [!DNL ToutApp] Updates {#marketo-sales-engage-launch-and-toutapp-updates}
+## Marketo [!DNL Sales Engage], Launch, and [!DNL ToutApp] Updates {#marketo-sales-engage-launch-and-toutapp-updates}
 
-* [Marketo Sales Engage](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+* [Marketo [!DNL Sales Engage]](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * [Launch](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * [!DNL ToutApp] Updates
 
 >[!AVAILABILITY]
 >
->Sales Engage is an add-on product. Please contact your Marketo Customer Success Manager or Account Executive for a quote.
+>[!DNL Sales Engage] is an add-on product. Please contact your Marketo Customer Success Manager or Account Executive for a quote.
 
-Drive more pipeline and revenue by empowering sales with the intelligence, content, playbooks, and analytics to convert more of your leads into sales opportunities. Sales Engage provides sales and marketing with a unified platform for engagement across the customer journey and enables better coordination through a shared view of customer touchpoints.
+Drive more pipeline and revenue by empowering sales with the intelligence, content, playbooks, and analytics to convert more of your leads into sales opportunities. [!DNL Sales Engage] provides sales and marketing with a unified platform for engagement across the customer journey and enables better coordination through a shared view of customer touchpoints.
 
 **[!DNL ToutApp]**
 
