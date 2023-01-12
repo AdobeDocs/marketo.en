@@ -16,7 +16,7 @@ The following features were released on March 15, 2019.
 
 ## Core Platform Enhancements {#core-platform-enhancements}
 
-* **Waitlisted:** New program/event status for waitlisting a member when you want to [put them on hold](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) until a vacancy opens. This applies to channels associated with Event programs in Marketo Classic, and both Event and Event with Webinar programs in Marketo Sky. By default, Waitlisted has the same step value as Registered.
+* **Waitlisted:** New program/event status for waitlisting a member when you want to [put them on hold](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) until a vacancy opens. This applies to channels associated with Event programs in Marketo Classic, and both Event and Event with Webinar programs in [!DNL Marketo Sky]. By default, Waitlisted has the same step value as Registered.
 * **[Custom Communication Limit](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Admins can now set custom daily or weekly communication limits.
 * **[Smart Campaign Asset APIs](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: Enrich your analytics outside of Marketo with smart campaign record retrieval by updated date and ID.
 * **HTTPS Tracking Links for Email:** For customers that have purchased “Secure Domains for Tracking Links,” branded tracking links can now be displayed within your emails as HTTPS.
@@ -32,7 +32,7 @@ Account-Based Marketing
 
 The following features are expected to release throughout the first calendar quarter and into the beginning of the second quarter of 2019.
 
-## Marketo Sky {#marketo-sky}
+## [!DNL Marketo Sky] {#marketo-sky}
 
 * **Full Email Program Functionality**: Send emails, create A/B tests, and track results in a user-friendly experience.
 * **Smart Campaign Functionality**: Enjoy enhanced stability in a new user interface as smart campaign functionality continues rolling out in Sky.
@@ -44,8 +44,8 @@ The following features are expected to release throughout the first calendar qua
 * **Enhanced Auditing**: New visibility into all people, emails, and [content](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) in an instance with added ability to [end existing campaigns](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)created by other users.
 * **[Unsubscribe Management](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximize deliverability and compliance with the ability to [block email domains](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) from being contacted. Marketo will also cross-reference the lead database for unsubscribes before sending an email.
 
-## Bizible by Marketo {#bizible-by-marketo}
+## [!DNL Bizible] by Marketo {#bizible-by-marketo}
 
-* **Bizible Discover Feature Enhancements**: New dashboard segmentation capabilities enable marketers to better understand performance.
-* **Multi-Currency Support**: Switch between your corporate currency and any local currency with Bizible’s new automatic currency conversion functionality built on CRM currency tables.
+* **[!DNL Bizible] Discover Feature Enhancements**: New dashboard segmentation capabilities enable marketers to better understand performance.
+* **Multi-Currency Support**: Switch between your corporate currency and any local currency with [!DNL Bizible]’s new automatic currency conversion functionality built on CRM currency tables.
 * **CRM Campaign Costs**:  Measure the spend and ROI of offline marketing activities with the ability to automatically pull cost data from the CRM campaign object.
