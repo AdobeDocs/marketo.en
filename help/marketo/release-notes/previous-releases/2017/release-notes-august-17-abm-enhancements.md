@@ -10,9 +10,9 @@ The following features are included in the August '17 ABM enhancement release. C
 
 Please click the title links to view detailed articles for each feature.
 
-## Account Insight {#account-insight}
+## [!DNL Account Insight] {#account-insight}
 
-**[Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** is a Google Chrome plug-in that surfaces actionable ABM and account insights to your sales teams, enabling them to work closely with marketing to engage accounts effectively. Sales teams will get visibility into the data and insights generated for each of the Named Accounts they own. This will include account score percentiles, a prioritized list of their Named Accounts, engaged people within those accounts, and a live activity stream of recent activities from the account.
+**[[!DNL Account Insight]](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** is a [!DNL Google Chrome] plug-in that surfaces actionable ABM and account insights to your sales teams, enabling them to work closely with marketing to engage accounts effectively. Sales teams will get visibility into the data and insights generated for each of the Named Accounts they own. This will include account score percentiles, a prioritized list of their Named Accounts, engaged people within those accounts, and a live activity stream of recent activities from the account.
 
 ![](assets/image001.png) ![](assets/image002.png)
 
