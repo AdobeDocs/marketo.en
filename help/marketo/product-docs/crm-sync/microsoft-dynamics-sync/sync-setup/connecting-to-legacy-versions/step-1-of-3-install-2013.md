@@ -4,9 +4,9 @@ description: Step 1 of 3 -Install the Marketo Solution in Dynamics (2013 On-Prem
 title: Step 1 of 3 -Install the Marketo Solution in Dynamics (2013 On-Premises)
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 ---
-# Step 1 of 3: Install the Marketo Solution in Dynamics (2013 On-Premises) {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
+# Step 1 of 3: Install the Marketo Solution in [!DNL Dynamics] (2013 On-Premises) {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
 
-Before you can sync Microsoft Dynamics On-Premises and Marketo, you need to first install the Marketo solution in Dynamics.
+Before you can sync [!DNL Microsoft Dynamics] On-Premises and Marketo, you need to first install the Marketo solution in [!DNL Dynamics].
 
 >[!NOTE]
 >
@@ -20,39 +20,39 @@ Before you can sync Microsoft Dynamics On-Premises and Marketo, you need to firs
 
 >[!NOTE]
 >
->**Dynamics Admin Permissions required.**
+>**[!DNL Dynamics] Admin Permissions required.**
 >
 >You need CRM administrator privileges to perform this sync.
 
-1. Log into **Dynamics**. Click the **Microsoft Dynamics CRM** drop-down menu and select **Settings**.
+1. Log into **[!DNL Dynamics]**. Click the **[!UICONTROL Microsoft Dynamics CRM]** drop-down menu and select **[!UICONTROL Settings]**.
 
    ![](assets/image2014-12-11-10-3a39-3a41.png)
 
-1. Under **Settings**, select **Solutions**.
+1. Under **[!UICONTROL Settings]**, select **[!UICONTROL Solutions]**.
 
    ![](assets/image2014-12-11-10-3a39-3a51.png)
 
-1. Click **Import**.
+1. Click **[!UICONTROL Import]**.
 
    ![](assets/image2015-3-26-9-3a52-3a10.png)
 
-1. Click **Browse** and select the [downloaded solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Click **Next**.
+1. Click **[!UICONTROL Browse]** and select the [downloaded solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Click **[!UICONTROL Next]**.
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 
-1. View the Solution Information and click **View solution package details**.
+1. View the [!UICONTROL Solution Information] and click **[!UICONTROL View solution package details]**.
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
-1. When you're done checking all the details, click **Close**.
+1. When you're done checking all the details, click **[!UICONTROL Close]**.
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. Back on the Solution Information page, click **Next**.
+1. Back on the [!UICONTROL Solution Information] page, click **[!UICONTROL Next]**.
 
    ![](assets/image2015-3-26-9-3a55-3a17.png)
 
-1. Make sure the SDK option is checked. Click **Import**.
+1. Make sure the SDK option is checked. Click **[!UICONTROL Import]**.
 
    ![](assets/image2015-3-26-10-3a3-3a11.png)
 
@@ -64,7 +64,7 @@ Before you can sync Microsoft Dynamics On-Premises and Marketo, you need to firs
 
    ![](assets/image2014-12-11-10-3a41-3a5.png)
 
-1. Download a log file (if you want) and click **Close**.
+1. Download a log file (if you want) and click **[!UICONTROL Close]**.
 
    >[!NOTE]
    >
@@ -72,11 +72,11 @@ Before you can sync Microsoft Dynamics On-Premises and Marketo, you need to firs
 
    ![](assets/image2014-12-11-10-3a41-3a14.png)
 
-1. Marketo Lead Management will now appear on the **All Solutions** page.
+1. Marketo Lead Management will now appear on the **[!UICONTROL All Solutions]** page.
 
    ![](assets/image2015-3-26-10-3a1-3a21.png)
 
-1. Select the Marketo solution and click **Publish all Customizations**.
+1. Select the Marketo solution and click **[!UICONTROL Publish all Customizations]**.
 
    ![](assets/image2014-12-11-10-3a41-3a32.png)
 
