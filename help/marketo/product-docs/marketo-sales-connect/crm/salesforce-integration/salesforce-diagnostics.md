@@ -4,15 +4,15 @@ description: Salesforce Diagnostics - Marketo Docs - Product Documentation
 title: Salesforce Diagnostics
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 ---
-# Salesforce Diagnostics {#salesforce-diagnostics}
+# [!DNL Salesforce] Diagnostics {#salesforce-diagnostics}
 
-Part of our Salesforce integration includes a Salesforce Diagnostic page within the web application. This page captures errors from failed data logging to Salesforce. The errors can be helpful, but are not always readable. As such, we put together a cheat sheet that helps explain the error messages.
+Part of our [!DNL Salesforce] integration includes a [!DNL Salesforce] Diagnostic page within the web application. This page captures errors from failed data logging to [!DNL Salesforce]. The errors can be helpful, but are not always readable. As such, we put together a cheat sheet that helps explain the error messages.
 
 **Error:** API_CURRENTLY_DISABLED  
 **Category:** Access/Validation  
 **Message:** API is disabled for this user  
 **What is Happening:** User doesn't have API Access  
-**Troubleshooting Steps:** Salesforce Admin needs to grant the user API Access.
+**Troubleshooting Steps:** [!DNL Salesforce] Admin needs to grant the user API Access.
 
 <br>&nbsp;
 
@@ -20,7 +20,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **Category:** Authentication  
 **Message:** invalid_grant: authentication failure  
 **What is Happening:** Authentication failed  
-**Troubleshooting Steps:** Disconnect from Salesforce and then reconnect.
+**Troubleshooting Steps:** Disconnect from [!DNL Salesforce] and then reconnect.
 
 <br>&nbsp;
 
@@ -58,16 +58,16 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **Error:** EXPIRED_ACCESS
 **Category:** Authentication
 **Message:** invalid_grant: expired access/refresh token
-**What is Happening:** The access or refresh token has expired. Tokens expire based on [session settings in Salesforce](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
-**Troubleshooting Steps:** You'll need to re-authenticate. Disconnect the Salesforce connection and re-connect.
+**What is Happening:** The access or refresh token has expired. Tokens expire based on [session settings in [!DNL Salesforce]](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
+**Troubleshooting Steps:** You'll need to re-authenticate. Disconnect the [!DNL Salesforce] connection and re-connect.
 
 <br>&nbsp;
 
 **Error:** FAILED_WRITE  
 **Category:** Intermittent  
 **Message:** end of file reached  
-**What is Happening:** Performance issue with Salesforce, likely due to sub-optimal triggers on the customer side.  
-**Troubleshooting Steps:** Retry logic should handle this. If it's still not working, work with your Salesforce admin to troubleshoot a problematic trigger.
+**What is Happening:** Performance issue with [!DNL Salesforce], likely due to sub-optimal triggers on the customer side.  
+**Troubleshooting Steps:** Retry logic should handle this. If it's still not working, work with your [!DNL Salesforce] admin to troubleshoot a problematic trigger.
 
 <br>&nbsp;
 
@@ -82,7 +82,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **Error:** FIELD_FILTER_VALIDATION_EXCEPTION  
 **Category:** Access/Validation  
 **Message:** Value does not exist or does not match filter criteria  
-**What is Happening:** Existing bad data in Salesforce getting enforced upon update.  
+**What is Happening:** Existing bad data in [!DNL Salesforce] getting enforced upon update.  
 **Troubleshooting Steps:** See above.
 
 <br>&nbsp;
@@ -90,7 +90,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **Error:** FIELD_INTEGRITY_EXCEPTION  
 **Category:** Access/Validation  
 **Message:** The existing country/territory doesn't recognize the state value for field: State/Province Code  
-**What is Happening:** Existing bad data in Salesforce getting enforced upon update.  
+**What is Happening:** Existing bad data in [!DNL Salesforce] getting enforced upon update.  
 **Troubleshooting Steps:** See above.
 
 <br>&nbsp;
@@ -98,19 +98,19 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **Error:** INACTIVE_ORGANIZATION  
 **Category:** Authentication  
 **Message:** invalid_grant: inactive organization  
-**What is Happening:** Your Salesforce organization is no longer active.   
-**Troubleshooting Steps:** Disconnect then reconnect from Salesforce.
+**What is Happening:** Your [!DNL Salesforce] organization is no longer active.   
+**Troubleshooting Steps:** Disconnect then reconnect from [!DNL Salesforce].
 
 **Error:** INACTIVE_USER
 **Category:** Authentication
 **Message:** invalid_grant: inactive user
-**What is Happening:** The Salesforce user is no longer active
-**Troubleshooting Steps:** Disconnect then reconnect from Salesforce.
+**What is Happening:** The [!DNL Salesforce] user is no longer active
+**Troubleshooting Steps:** Disconnect then reconnect from [!DNL Salesforce].
 
 **Error:** INSERT_UPDATE_DELETE_NOT_ALLOWED_DURING_MAINTENANCE  
 **Category:** Intermittent  
 **Message:** (no additional message)  
-**What is Happening:** Salesforce instance is in maintenance mode.  
+**What is Happening:** [!DNL Salesforce] instance is in maintenance mode.  
 **Troubleshooting Steps:** Wait until system maintenance is done then retry logging.
 
 **Error:** INSUFFICIENT_ACCESS_ON_CROSS_REFERENCE_ENTITY
@@ -125,7 +125,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **Category:** Access/Validation
 **Message:** insufficient access rights on object id
 **What is Happening:** Most Recent Activity logging can't edit the specific record because the user doesn't have write-to access.  
-**Troubleshooting Steps:** Grant the user access in Salesforce OR disable Most Recent Activity logging for that object for that user.
+**Troubleshooting Steps:** Grant the user access in [!DNL Salesforce] OR disable Most Recent Activity logging for that object for that user.
 
 **Error:** INVALID_FIELD  
 **Category:** Intermittent  
@@ -137,25 +137,25 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **Category:** Access/Validation  
 **Message:** Unable to create/update fields: ToutApp__Tout_Last_Replied__c. Please check the security settings of this field.
 **What is Happening:** Users don't have write access to the Tout custom fields needed to perform the Most Recent Activity logging transaction. Team may have installed package but has not enabled the correct fields for the users.  
-**Troubleshooting Steps:** Salesforce Admin needs to grant access to the custom fields OR turn off Most Recent Activity logging.
+**Troubleshooting Steps:** [!DNL Salesforce] Admin needs to grant access to the custom fields OR turn off Most Recent Activity logging.
 
 **Error:** INVALID_GRANT  
 **Category:** Authentication  
 **Message:** invalid_grant: ip restricted  
-**What is Happening:** We are trying to access your Salesforce, but you have IP Restrictions in place that are preventing us from doing so.  
-**Troubleshooting Steps:** Your Salesforce Admin will need to allowlist our IPs. Users should reach out to Support to get the IP addresses.
+**What is Happening:** We are trying to access your [!DNL Salesforce], but you have IP Restrictions in place that are preventing us from doing so.  
+**Troubleshooting Steps:** Your [!DNL Salesforce] Admin will need to allowlist our IPs. Users should reach out to Support to get the IP addresses.
 
 **Error:** INVALID_TYPE  
 **Category:** Access/Validation  
 **Message:** CreatedDate, (SELECT Id FROM Tasks) FROM Lead WHERE Email='emailid'^ERROR at Row:1:Column:53sObject type 'Lead' is not supported. If you are attempting to use a custom object, be sure to append the '__c' after the entity name. Please reference your WSDL or the describe call for the appropriate names
-**What is Happening:** We are trying to query an object type from Salesforce that the user doesn't have access to. This is most likely related to the user has not having the right access to the Lead Object.  
-**Troubleshooting Steps:** Either grant Read and Update access to the Lead object in Salesforce, or turn off email logging and Most Recent Activity logging to lead records.
+**What is Happening:** We are trying to query an object type from [!DNL Salesforce] that the user doesn't have access to. This is most likely related to the user has not having the right access to the Lead Object.  
+**Troubleshooting Steps:** Either grant Read and Update access to the Lead object in [!DNL Salesforce], or turn off email logging and Most Recent Activity logging to lead records.
 
 **Error:** QUERY_TIMEOUT  
 **Category:** Intermittent  
 **Message:** Your query request was running too long  
 **What is Happening:** See above.  
-**Troubleshooting Steps:** Retry logic should handle this. If it's still not working, work with your Salesforce Admin to troubleshoot a problematic trigger.
+**Troubleshooting Steps:** Retry logic should handle this. If it's still not working, work with your [!DNL Salesforce] Admin to troubleshoot a problematic trigger.
 
 **Error:** REQUEST_LIMIT_EXCEEDED  
 **Category:** Intermittent  
@@ -168,7 +168,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 2 - Too many integrations put the org past the 24-hour rolling window.  
 **Troubleshooting Steps:**
 1 - Review existing triggers on the impacted objects. Potentially disable roll-up logging for one or more objects.  
-2 - Buy more API calls from Salesforce. Potentially disable roll-up logging for one or more objects.
+2 - Buy more API calls from [!DNL Salesforce]. Potentially disable roll-up logging for one or more objects.
 
 **Error:** REQUIRED_FIELD_MISSING  
 **Category:** Access/Validation  
@@ -179,23 +179,23 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 **Error:** SERVER_UNAVAILABLE  
 **Category:** Intermittent  
 **Message:** server too busy  
-**What is Happening:** Performance issue with Salesforce, likely due to sub-optimal triggers by the customer  
-**Troubleshooting Steps:** Retry logic should handle this. If it's still not working, work with your Salesforce Admin to trouble shoot a problematic trigger.
+**What is Happening:** Performance issue with [!DNL Salesforce], likely due to sub-optimal triggers by the customer  
+**Troubleshooting Steps:** Retry logic should handle this. If it's still not working, work with your [!DNL Salesforce] Admin to trouble shoot a problematic trigger.
 
 **Error:** TXN_SECURITY_NO_ACCESS  
 **Category:** Access/Validation  
 **Message:** The operation you requested isn't allowed due to a security policy in your organization. Contact your administrator.<br/>
 **What is Happening:** Some kind of security restriction has been set up - see https://developer.salesforce.com/forums/?id="record ID"  
-**Troubleshooting Steps:** Talk to your Salesforce Admin and see what the specific restriction might be.
+**Troubleshooting Steps:** Talk to your [!DNL Salesforce] Admin and see what the specific restriction might be.
 
 **Error:** UNABLE_TO_LOCK_ROW  
 **Category:** Intermittent  
 **Message:** unable to obtain exclusive access to this record or 1 records: "record ID"  
 **What is Happening:** Likely there is a trigger that is causing multiple attempts to access the same record, possibly in the case of a group email.  
-**Troubleshooting Steps:** Retry logic should handle this. If it's still not working, work with your Salesforce Admin to troubleshoot a problematic trigger.
+**Troubleshooting Steps:** Retry logic should handle this. If it's still not working, work with your [!DNL Salesforce] Admin to troubleshoot a problematic trigger.
 
 **Error:** UNKNOWN_EXCEPTION
 **Category:** Other  
 **Message:** Unknown Exception occurred  
-**What is Happening:** Unhandled exception in Salesforce.  
-**Troubleshooting Steps:** File a case with Salesforce and copy the numeric values in the error message. This is Salesforce code not handling an error properly.
+**What is Happening:** Unhandled exception in [!DNL Salesforce].  
+**Troubleshooting Steps:** File a case with [!DNL Salesforce] and copy the numeric values in the error message. This is [!DNL Salesforce] code not handling an error properly.
