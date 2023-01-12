@@ -65,7 +65,7 @@ Almost there! All we have left is to inform Marketo Solution about the new user 
    >
    >If you don't see **Marketo Config** in the Settings menu, refresh the page. If that doesn't work, try to [publish the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md) again or log out and back in.
 
-1. Click **Default**.
+1. Click **[!UICONTROL Default]**.
 
    ![](assets/fifteen.png)
 
