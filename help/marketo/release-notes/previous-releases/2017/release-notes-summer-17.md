@@ -10,13 +10,13 @@ The following features are included in the Summer '17 release. Check your Market
 
 Please click the title links to view detailed articles for each feature. Note: Some of the features included in this release do not have associated articles. If a topic has multiple subheadings, the links are placed there.
 
-## [Additional Facebook Offline Conversion Stages](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
+## [Additional [!DNL Facebook] Offline Conversion Stages](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
 
-Choose up to 7 additional offline conversion stages to map to your Marketo lifecycle stages (beyond the 3 available today). Optimize your Facebook ad spend based on conversions across your customer journey to achieve better ROI.
+Choose up to 7 additional offline conversion stages to map to your Marketo lifecycle stages (beyond the 3 available today). Optimize your [!DNL Facebook] ad spend based on conversions across your customer journey to achieve better ROI.
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
-## [Lock Sales Insight Template](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
+## [Lock [!DNL Sales Insight] Template](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
 
 Ensure consistency of message and content by preventing edits to your sales templates. This helps standardize templates and maintain professional communications.
 
@@ -28,15 +28,15 @@ Ensure consistency of message and content by preventing edits to your sales temp
 
 Match people to Japanese company names in the local language.
 
-**[ABM and LeanData Integration](https://docs.marketo.com/x/pKmt)**
+**[ABM and [!DNL LeanData] Integration](https://docs.marketo.com/x/pKmt)**
 
-LeanData integration now allows for lead-to-account matching in Marketo. Keep marketing and sales aligned by having the same leads associated with accounts within the sales and marketing systems of record. More flexible options give Marketing and Sales Operations more control over lead-to-account matching rules, so they can achieve their desired level of precision.
+[!DNL LeanData] integration now allows for lead-to-account matching in Marketo. Keep marketing and sales aligned by having the same leads associated with accounts within the sales and marketing systems of record. More flexible options give Marketing and Sales Operations more control over lead-to-account matching rules, so they can achieve their desired level of precision.
 
 ## Web Personalization Enhancements {#web-personalization-enhancements}
 
 **[Campaign Preview Enhancements](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-Marketing practitioners can now ensure their web campaigns will look great across any device *before* launching them. With these enhancements, see how your web campaigns will render across desktop, mobile devices, and tablets. The new plug-in for Chrome also offers more consistent and accurate previews.
+Marketing practitioners can now ensure their web campaigns will look great across any device *before* launching them. With these enhancements, see how your web campaigns will render across desktop, mobile devices, and tablets. The new plug-in for [!DNL Chrome] also offers more consistent and accurate previews.
 
 **[Widget Campaign Enhancements](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 
@@ -56,8 +56,8 @@ Increase return on your content marketing with deeper analytics and AI-powered c
 
 **Email Insights Enhancements**
 
-Get even more from your Email Insights experience with new ways to prepare and share data. You can now download your Email Insights results into Microsoft Excel and PowerPoint to work with the data outside of Marketo.
+Get even more from your Email Insights experience with new ways to prepare and share data. You can now download your Email Insights results into [!DNL Microsoft Excel] and [!DNL PowerPoint] to work with the data outside of Marketo.
 
 ## Federated Identity Configuration Support {#federated-identity-configuration-support}
 
-Keep authentication (Active Directory) behind your firewall on-premises while continuing to use Microsoft Dynamics CRM in the cloud.
+Keep authentication (Active Directory) behind your firewall on-premises while continuing to use [!DNL Microsoft Dynamics] CRM in the cloud.
