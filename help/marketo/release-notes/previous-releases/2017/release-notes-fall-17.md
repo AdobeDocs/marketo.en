@@ -12,11 +12,11 @@ Please click the title links to view detailed articles for each feature. Note: S
 
 ## System Reliability {#system-reliability}
 
-We've made further improvements to the core Marketo infrastructure, including better sequencing, fewer mismatches, and improved Munchkin stability.
+We've made further improvements to the core Marketo infrastructure, including better sequencing, fewer mismatches, and improved [!DNL Munchkin] stability.
 
 ## SFDC Sync Performance {#sfdc-sync-performance}
 
-Take advantage of richer and faster synchronization across Marketo and Salesforce. Data changes that require bulk updates on accounts or leads can be split into parallel queues to avoid backlogs. Events and tasks now also synchronize up to 50% faster.
+Take advantage of richer and faster synchronization across Marketo and [!DNL Salesforce]. Data changes that require bulk updates on accounts or leads can be split into parallel queues to avoid backlogs. Events and tasks now also synchronize up to 50% faster.
 
 ## Analytics Performance Improvements {#analytics-performance-improvements}
 
@@ -36,9 +36,9 @@ With this new feature, you can now hold and deliver email according to local tim
 
 Marketo has a new option to pick a segment when sending sample emails for review. You no longer need to manually determine which segment a lead belongs to, making it easier to send emails containing dynamic content to different segments.
 
-## [LinkedIn Lead Gen Custom Questions](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## [[!UICONTROL LinkedIn Lead Gen] Custom Questions](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
-Customize your LinkedIn Lead Gen forms to collect custom lead attributes. You can now ask up to three custom questions per form, choose from single line text input or multiple-choice questions, and map back to Marketo lead fields.
+Customize your [!UICONTROL LinkedIn Lead Gen] forms to collect custom lead attributes. You can now ask up to three custom questions per form, choose from single line text input or multiple-choice questions, and map back to Marketo lead fields.
 
 ## Slack Integration {#slack-integration}
 
