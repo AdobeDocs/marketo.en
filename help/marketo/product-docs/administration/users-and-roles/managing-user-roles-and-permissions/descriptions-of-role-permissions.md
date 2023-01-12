@@ -27,8 +27,8 @@ View and make changes to settings in the My Account section of Admin.
 * Access Audit Trail - Gives users access to both Asset Audit Trail and Admin Audit Trail
 * Access Channels - Gives users access only to modify the Channel tag, not other custom tags
 * Access Communication Limit - Gives users access to enable a communication limit in Admin
-* Access CRM - Gives users access to the CRM, such as Salesforce or Microsoft Dynamics, in Admin
-* Access [Data.com](https://Data.com) - Gives users access to the Data.com flow action
+* Access CRM - Gives users access to the CRM, such as [!DNL Salesforce] or [!DNL Microsoft Dynamics], in Admin
+* Access [Data.com](https://Data.com) - Gives users access to the [!DNL Data.com] flow action
 * Access Email Admin - Gives users to Email Admin, to change default settings, such as unsubscribe and branding domains
 * Access Event Partners - Gives users access to LaunchPoint in Admin 
 * Access Field Management - Gives users access to Field Management in Admin
@@ -39,13 +39,13 @@ View and make changes to settings in the My Account section of Admin.
 * Access Login Settings - Gives users access to Login Settings in Admin for Security, IP Restrictions, and Smart List Report settings
 * Access Marketo Custom Activity - Gives users access to Marketo Custom Activities in Admin
 * Access Marketo Custom Object - Gives users access to Marketo Custom Objects in Admin
-* Access Munchkin - GIves users access to Munchkin in Admin, for setting tracking code, person tracking, and enabling API configuration
+* Access [!DNL Munchkin] - GIves users access to [!DNL Munchkin] in Admin, for setting tracking code, person tracking, and enabling API configuration
 * Access Revenue Cycle Analytics - Gives users access to Revenue Cycle Analytics in Admin, for setting Sync Summary and Attribution
 * Access Roles - Gives users access to manage and edit roles, but not users
 * Access Sales Insight - Gives users access to manage Sales Insight in Admin, for setting Status, API Configuration, Person Scoring, and other settings
 * Access Single Sign-on - Gives users access to manage Single Sign-on in Admin, for enabling SAML and working with SAML settings and Redirect Page URLs
 * Access Smart Campaign - Gives users access to Smart Campaign in Admin, for restricting limits on qualified people
-* Access SOAP API - Gives users access to manage SOAP APIs in Web Services in Admin
+* Access [!DNL SOAP] API - Gives users access to manage [!DNL SOAP] APIs in Web Services in Admin
 * Access Tags - Gives users access to all custom tags except the Channel tag
 * Access Treasure Chest - Gives users access to the experimental features in the Treasure Chest in Admin
 * Access Users - Gives users access to edit and manage users (but not roles) in Admin
