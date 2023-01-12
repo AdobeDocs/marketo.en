@@ -14,10 +14,10 @@ Here's how the filters work during the conversion process.
 
 | If the lead sync filter is: |and the contact sync filter is: |This is the result in Marketo |
 |---|---|---|
-| False |False |Nothing is synced in Marketo |
-| True |True |The contact is synced in Marketo |
-| False |True |New contact record is created in Marketo |
-| True |False |[!DNL MS Dynamics] updates lead info in Marketo but contact record is not synced |
+| [!UICONTROL False] |[!UICONTROL False] |Nothing is synced in Marketo |
+| [!UICONTROL True] |[!UICONTROL True] |The contact is synced in Marketo |
+| [!UICONTROL False] |[!UICONTROL True] |New contact record is created in Marketo |
+| [!UICONTROL True] |[!UICONTROL False] |[!DNL MS Dynamics] updates lead info in Marketo but contact record is not synced |
 
 >[!CAUTION]
 >
