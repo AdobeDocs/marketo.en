@@ -4,11 +4,11 @@ description: Microsoft Dynamics Sync Filter -Merge - Marketo Docs - Product Docu
 title: Microsoft Dynamics Sync Filter -Merge
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 ---
-# Microsoft Dynamics Sync Filter: Merge {#microsoft-dynamics-sync-filter-merge}
+# [!DNL Microsoft] Dynamics Sync Filter: Merge {#microsoft-dynamics-sync-filter-merge}
 
-Merging leads in Microsoft Dynamics uses the Two Options type - Sync filter = Yes (TRUE) and Sync filter = No (FALSE). When you merge two records, the result varies, depending on which record is True and which is False.
+Merging leads in [!DNL Microsoft Dynamics] uses the Two Options type - Sync filter = Yes (TRUE) and Sync filter = No (FALSE). When you merge two records, the result varies, depending on which record is True and which is False.
 
-The lead records become true or false based on the workflow rules defined by the admin to determine the winner. The sync filter for the winning record is what ultimately determines if the MS Dynamics record syncs with Marketo.
+The lead records become true or false based on the workflow rules defined by the admin to determine the winner. The sync filter for the winning record is what ultimately determines if the [!DNL MS Dynamics] record syncs with Marketo.
 
 It's when one record is true and one is false that it gets tricky.
 
