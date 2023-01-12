@@ -8,23 +8,23 @@ exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 
 If a visitor is cookied (known person who provided an email address in the past), then why bother with the form? Just give them the download button. Here's how.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Under **Marketing Activities**, select your form and click **Edit Form**.
+1. Under **[!UICONTROL Marketing Activities]**, select your form and click **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Under **Form Settings**, click on **Settings**.
+1. Under **[!UICONTROL Form Settings]**, click on **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Set If **Known Visitor, Show**: to **Custom HTML**.
+1. Set If **[!UICONTROL Known Visitor, Show]**: to **[!UICONTROL Custom HTML]**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Click the ![--](assets/image2014-9-25-14-3a1-3a26.png) to edit the **Custom HTML** that will be shown to known people.
+1. Click the ![--](assets/image2014-9-25-14-3a1-3a26.png) to edit the **[!UICONTROL Custom HTML]** that will be shown to known people.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -45,11 +45,11 @@ If a visitor is cookied (known person who provided an email address in the past)
    >
    >Only the four tokens above can be used. Any other token will not work here.
 
-1. Click **Finish**.
+1. Click **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. Click **Approve and Close**.
+1. Click **[!UICONTROL Approve and Close]**.
 
    >[!NOTE]
    >
