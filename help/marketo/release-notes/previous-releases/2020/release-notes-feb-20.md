@@ -16,7 +16,7 @@ The following features are included in the Feb '20 release. Check your Marketo e
 
 ## Core Marketo Engage {#core-marketo-engage}
 
-* **Microsoft Dynamics "Change Owner in Microsoft" Flow Action**: Maintain control of your Microsoft Dynamics CRM data with the ability to change a lead/contact owner directly from Marketo Engage. This is an enhancement to our Native CRM Integration capability.
+* **[!DNL Microsoft Dynamics] "Change Owner in Microsoft" Flow Action**: Maintain control of your [!DNL Microsoft Dynamics] CRM data with the ability to change a lead/contact owner directly from Marketo Engage. This is an enhancement to our Native CRM Integration capability.
 * **User Management APIs**: Automate User and Role management through external identity and org management systems. This is an enhancement to our API Calls capability.
 * **Custom Object Schema APIs**: Automatically manage and provision custom object schemas across instances in Marketo Engage to keep data models consistent across your sales and marketing tools. With this API, you can define and test custom objects in a sandbox or center-of excellence and provision to as many instances as needed. This is an enhancement to our APIs Calls capability. Please contact your Marketo Engage representative to learn how to get access to this enhancement.
 * **Landing Page Redirect Rules APIs**: Automate management of landing page redirect rules. This is an enhancement to our API Calls capability.
@@ -28,7 +28,7 @@ The following features are included in the Feb '20 release. Check your Marketo e
 
 The following features are on a non-quarterly cycle and will be released throughout the coming months.
 
-## Bizible {#bizible}
+## [!DNL Bizible] {#bizible}
 
 ![(star)](assets/yellow-star.png)
 
@@ -36,10 +36,10 @@ The following features are on a non-quarterly cycle and will be released through
 * **Saving Filters**: Save dashboard-specific filters unique to each user to analyze your dashboards quickly and consistently.
 * **Export to PDF**: Share valuable insights across your organization by exporting Bizible Dashboards as PDFs.
 
-## Sales Connect {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
-* **Compose Window Updates**: We've streamlined the process for selecting templates and sending emails through Sales Connect. Use the Compose window in our web client and Salesforce as a one-stop shop for sellers, with the ability to save template categories, schedule emails, send emails in bulk, and send emails with view and click tracking.
-* **Command Center Updates**: We're rebuilding the Sales Connect Command Center to give sellers insight into all of their Emails, Calls, and Tasks that have been initiated from Sales Connect. They can also view information like email engagement and deliverability all from the Command Center.
+* **Compose Window Updates**: We've streamlined the process for selecting templates and sending emails through [!DNL Sales Connect]. Use the Compose window in our web client and Salesforce as a one-stop shop for sellers, with the ability to save template categories, schedule emails, send emails in bulk, and send emails with view and click tracking.
+* **Command Center Updates**: We're rebuilding the [!DNL Sales Connect] Command Center to give sellers insight into all of their Emails, Calls, and Tasks that have been initiated from [!DNL Sales Connect]. They can also view information like email engagement and deliverability all from the Command Center.
 
 <br>&nbsp;
 
