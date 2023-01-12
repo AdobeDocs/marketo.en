@@ -13,7 +13,7 @@ Let's get started by creating a user account.
 
 ## Create a new user {#create-a-new-user}
 
-1. Log-in to [!DNL Dynamics]. Click the Settings icon and select **[!UICONTROL Advanced Settings]**.
+1. Log-in to [!DNL Dynamics]. Click the [!UICONTROL Settings] icon and select **[!UICONTROL Advanced Settings]**.
 
    ![](assets/one.png)
 
@@ -93,7 +93,7 @@ Assign the Marketo Sync User role only to the Marketo sync user. You don't need 
 
 Almost there! All we have left is to inform Marketo Solution about the new user created.
 
-1. Go back to the [!UICONTROL Advanced Settings] section and click the ![](assets/image2015-5-13-15-3a49-3a19.png) icon next to Settings, and select **[!UICONTROL Marketo Config]**.
+1. Go back to the [!UICONTROL Advanced Settings] section and click the ![](assets/image2015-5-13-15-3a49-3a19.png) icon next to [!UICONTROL Settings], and select **[!UICONTROL Marketo Config]**.
 
    ![](assets/fourteen.png)
 
