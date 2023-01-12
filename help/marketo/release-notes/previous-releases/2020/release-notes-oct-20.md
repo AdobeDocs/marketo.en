@@ -34,13 +34,13 @@ The following features are included in the October '20 release. Check your Marke
 
 ## CRM Integration {#crm-integration}
 
-* **Salesforce CRM Sync**: Identify and fix sync errors and failures with two new Salesforce Sync and Errors Dashboards. Monitor new record updates, deletions, fails, and completion of the syncing process. Reports can be filtered by date, operation type, or object type.
+* **[!DNL Salesforce] CRM Sync**: Identify and fix sync errors and failures with two new [!DNL Salesforce] Sync and Errors Dashboards. Monitor new record updates, deletions, fails, and completion of the syncing process. Reports can be filtered by date, operation type, or object type.
 
-* **Microsoft Dynamics 365 Integration**: Automate enrollment of leads and contacts into Microsoft Dynamics 365 campaigns. Easily add or remove Marketo Engage Leads and Contacts to MS Dynamics Campaigns with new smart campaign flow actions. Seamlessly pass leads from Marketing to Sales and close deals faster.
+* **[!DNL Microsoft Dynamics 365] Integration**: Automate enrollment of leads and contacts into [!DNL Microsoft Dynamics 365] campaigns. Easily add or remove Marketo Engage Leads and Contacts to [!DNL MS Dynamics] Campaigns with new smart campaign flow actions. Seamlessly pass leads from Marketing to Sales and close deals faster.
 
 ## Paid Media Targeting {#paid-media-targeting}
 
-* **Facebook Lead Ads Integrations**: Facebook form tracking parameters can now be captured through the LaunchPoint service for Facebook lead ads. These hidden fields can now be mapped to Marketo fields, allowing marketers to store and act on valuable campaign tracking data.
+* **[!DNL Facebook] Lead Ads Integrations**: [!DNL Facebook] form tracking parameters can now be captured through the LaunchPoint service for [!DNL Facebook] lead ads. These hidden fields can now be mapped to Marketo fields, allowing marketers to store and act on valuable campaign tracking data.
 
 ## Administration {#administration}
 
@@ -52,17 +52,17 @@ The following features are included in the October '20 release. Check your Marke
 
 * **New Metadata Export Options**: Export custom object metadata for selected custom objects into a spreadsheet for easy sharing. In addition, any or all subscription objects’ metadata can be exported, such as lead, company, standard and custom activities, tags, and channels. Data can be extracted by admins and quickly shared with engineering teams for analysis and design purposes.
 
-* **Opportunity Custom Field**: Gain more insight into opportunity records with opportunity custom fields display in Marketo Engage. View opportunity custom fields data from Salesforce CRM, Microsoft Dynamics 365 CRM, Sales native integrations, or via other API integrations. Having full visibility into opportunity details and pipeline enables you to orchestrate engagement in coordination with Sales, increase conversions, and help close deals faster.
+* **Opportunity Custom Field**: Gain more insight into opportunity records with opportunity custom fields display in Marketo Engage. View opportunity custom fields data from [!DNL Salesforce] CRM, [!DNL Microsoft Dynamics 365] CRM, Sales native integrations, or via other API integrations. Having full visibility into opportunity details and pipeline enables you to orchestrate engagement in coordination with Sales, increase conversions, and help close deals faster.
 
 ## Releasing Throughout the Quarter {#releasing-throughout-the-quarter}
 
 The following features are on a non-quarterly cycle and will be released throughout the coming months.
 
-## Sales Insight {#sales-insight}
+## [!DNL Sales Insight] {#sales-insight}
 
 ![(star)](assets/yellow-star.png)
 
-* **API Optimization and New Governance Configuration Options**: Improve the Sales Insight user experience through enhanced API optimization and added governance features. Configuration settings enable admins to define how campaigns and events are loaded to the Sales Insight dashboard. Flexible calendar activities display options reduce API usage and improve the overall experience.
+* **API Optimization and New Governance Configuration Options**: Improve the [!DNL Sales Insight] user experience through enhanced API optimization and added governance features. Configuration settings enable admins to define how campaigns and events are loaded to the Sales Insight dashboard. Flexible calendar activities display options reduce API usage and improve the overall experience.
 
 ## Announcements & Deprecations {#announcements-deprecations}
 
