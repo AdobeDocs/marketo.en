@@ -12,11 +12,11 @@ Please click the title links to view detailed articles for each feature, if avai
 
 >[!NOTE]
 >
->Facebook now requires a Business Manager account in order to leverage your Custom Audience integration. Your Facebook LaunchPoint service *must* be associated with a Business Manager account or **your integration will no longer work after January 14, 2019**. To set up a Business Manager account, please refer to [Facebook Help](https://www.facebook.com/business/help/1710077379203657).
+>[!DNL Facebook] now requires a Business Manager account in order to leverage your Custom Audience integration. Your [!DNL Facebook] LaunchPoint service *must* be associated with a Business Manager account or **your integration will no longer work after January 14, 2019**. To set up a Business Manager account, please refer to [[!DNL Facebook] Help](https://www.facebook.com/business/help/1710077379203657).
 
 >[!NOTE]
 >
->Microsoft is pushing all online customers to upgrade to the latest version of Microsoft Dynamics. If you are integrating your Marketo instance with Dynamics Online, you will need to [upgrade to the latest version of the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) before **January 31, 2019** to ensure that your integration will continue working.
+>Microsoft is pushing all online customers to upgrade to the latest version of [!DNL Microsoft Dynamics]. If you are integrating your Marketo instance with [!DNL Dynamics Online], you will need to [upgrade to the latest version of the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) before **January 31, 2019** to ensure that your integration will continue working.
 
 >[!NOTE]
 >
@@ -33,33 +33,33 @@ Include up to five CC addresses per recipient on emails sent through Marketo.
 * **Multi-Branding Domain Support for Asset API:** Approving and cloning assets produce the same results within the API and UI.
 * **Email CC Support for Asset API**: Users cloning, approving, and processing emails via the API will maintain parity with the UI settings.
 
-**[Munchkin v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+**[[!DNL Munchkin] v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **API-Only Mode**: Users can now determine when and how to track members of their database by allowing single-page web apps to explicitly call when they want to record a webpage visit instead of relying on Marketo's automatic tracking.
-* **Opt-Out Management**: Easily manage opt-outs by matching the opt-out cookie domain with the Munchkin tracking cookie domain.
+* **Opt-Out Management**: Easily manage opt-outs by matching the opt-out cookie domain with the [!DNL Munchkin] tracking cookie domain.
 * **Domain-Level Decider Parameter**: Two-letter domains (i.e. " [website.io](https://website.io)") will automatically track in Marketo without additional setup requirements.
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **Salesforce Custom Profile**: Sales Engage now supports unlimited custom profiles.
+* **[!DNL Salesforce] Custom Profile**: Sales Engage now supports unlimited custom profiles.
 
-* **Salesforce Customization**: By removing non-critical custom activity fields, users can set up Sales Engage in the CRM platform more efficiently.
-* **Email Service**: Enjoy better deliverability plus improved Reply Tracking, Scheduled Email functionality, and bulk email functionality by connecting to Microsoft Outlook (either through Office365 or On-Prem through the Email Connection tab).
+* **[!DNL Salesforce] Customization**: By removing non-critical custom activity fields, users can set up Sales Engage in the CRM platform more efficiently.
+* **Email Service**: Enjoy better deliverability plus improved Reply Tracking, Scheduled Email functionality, and bulk email functionality by connecting to [!DNL Microsoft Outlook] (either through Office365 or On-Prem through the Email Connection tab).
 * **New Admin Settings**: Two admin pages have been added to optimize your Sales Engage instance
 
    * _Team Management_ supports a seamless account set-up process by allowing admins to edit subscriptions and teams.
    * _Salesforce Admin Settings_ helps teams set up their SFDC sync faster and easier than ever before.
 
-* **OWA Plugin for Windows**: With one single add-in, all Windows Office365 clients will be supported in Sales Engage, providing the ability to use Live Feed in Outlook. The new plugin will be available in the Microsoft Store.
+* **OWA Plugin for [!DNL Windows]**: With one single add-in, all [!DNL Windows Office365] clients will be supported in Sales Engage, providing the ability to use Live Feed in Outlook. The new plugin will be available in the Microsoft Store.
 * **Activities Pusher**: Sync Sales Engage to the core Marketo platform to leverage real-time marketing insights.
 
-## Marketo Sky {#marketo-sky}
+## [!DNL Marketo Sky] {#marketo-sky}
 
 >[!NOTE]
 >
->Marketo Sky releases occur on a more frequent cadence. The following features and enhancements are expected to release during late Q4/early Q1. For more details and updates, check our [Sky documentation](https://help.marketo.com/).
+>[!DNL Marketo Sky] releases occur on a more frequent cadence. The following features and enhancements are expected to release during late Q4/early Q1. For more details and updates, check our [Sky documentation](https://help.marketo.com/).
 
-* **Optional Default Experience**: Marketo users may set Marketo Sky as their default experience if they have been provided access by an Admin.
+* **Optional Default Experience**: Marketo users may set [!DNL Marketo Sky] as their default experience if they have been provided access by an Admin.
 
 * **Reimagined My Marketo**: Customize your experience by adding widgets that provide critical information, notifications, and links to your most frequently visited areas.
 
@@ -67,10 +67,10 @@ Include up to five CC addresses per recipient on emails sent through Marketo.
 
 * **Global Search**: Marketo now offers a faster and more robust global search function across the platform. Search queries now run across all accessible workspaces and can search assets (both active and archived), labels, campaigns, and programs. Search results are provided via an overlay and each result includes its file location trail to specify where the asset lives.
 
-* **Improved User Interface**: New icons, modals, and buttons, along with a new color palette to reflect our brand refresh and make Marketo Sky even more stunning and functional.
+* **Improved User Interface**: New icons, modals, and buttons, along with a new color palette to reflect our brand refresh and make [!DNL Marketo Sky] even more stunning and functional.
 
-* **Email Program Usability Enhancements**: We continue to move towards parity in Email Program functionality between our classic Marketo Lead Management platform and the new Marketo Sky experience. 
-* **Event-With-Webinar Programs**: Event-With-Webinar programs are now available in Marketo Sky (note: only GoToWebinar will be supported in this release, with further integrations established over time).
+* **Email Program Usability Enhancements**: We continue to move towards parity in Email Program functionality between our classic Marketo Lead Management platform and the new [!DNL Marketo Sky] experience. 
+* **Event-With-Webinar Programs**: Event-With-Webinar programs are now available in [!DNL Marketo Sky] (note: only GoToWebinar will be supported in this release, with further integrations established over time).
 
 ## Account-Based Marketing {#account-based-marketing}
 
@@ -80,13 +80,13 @@ Personalize your ABM campaigns for specific personas within named accounts. The 
 
 ## Analytics {#analytics}
 
-**Bizible**
+**[!DNL Bizible]**
 
-* **Custom Calculated Fields**: Use any Bizible attribute to build custom fields that can be used for dashboard reporting and segmentation.
+* **Custom Calculated Fields**: Use any [!DNL Bizible] attribute to build custom fields that can be used for dashboard reporting and segmentation.
 
 * **SOC II Type II Certification**: New security and privacy certification builds on Type I accreditation from earlier this year. 
 
-## Web Personalization {#web-personalization}
+## [!DNL Web Personalization] {#web-personalization}
 
 **[Add Subdomains in Account Settings](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
