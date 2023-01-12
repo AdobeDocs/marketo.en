@@ -54,9 +54,9 @@ Increase return on your content marketing with deeper analytics and AI-powered c
 
 ## Analytics {#analytics}
 
-**Email Insights Enhancements**
+**[!UICONTROL Email Insights] Enhancements**
 
-Get even more from your Email Insights experience with new ways to prepare and share data. You can now download your Email Insights results into [!DNL Microsoft Excel] and [!DNL PowerPoint] to work with the data outside of Marketo.
+Get even more from your [!UICONTROL Email Insights] experience with new ways to prepare and share data. You can now download your [!UICONTROL Email Insights] results into [!DNL Microsoft Excel] and [!DNL PowerPoint] to work with the data outside of Marketo.
 
 ## Federated Identity Configuration Support {#federated-identity-configuration-support}
 
