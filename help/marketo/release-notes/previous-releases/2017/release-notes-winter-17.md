@@ -14,7 +14,7 @@ Please click the title links to view detailed articles for each feature.
 >
 >If a topic has multiple subheadings, the links are placed there.
 
-## [Advanced Matching for Facebook Custom Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
+## [Advanced Matching for [!DNL Facebook] Custom Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
 
 Basic Matching uses email addresses only, but new Advanced Matching uses an additional seven fields, increasing the match rate for more conversion.
 
@@ -40,33 +40,33 @@ The Web Personalization, Predictive Content, and Email Insights apps are now ava
 
 **[Import Named Accounts](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
-With the Named Account Import option, create or update multiple records at once via CSV upload.
+With the [!UICONTROL Named Account] Import option, create or update multiple records at once via CSV upload.
 
 ![](assets/inatwo.png)
 
 **[Email Insights Support](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)**
 
-Use Named Account or Account List as dimensions in Email Insights.
+Use [!UICONTROL Named Account] or [!UICONTROL Account List] as dimensions in Email Insights.
 
 ![](assets/ei.png)
 
-## Predictive Content Enhancements {#predictive-content-enhancements}
+## [!UICONTROL Predictive Content] Enhancements {#predictive-content-enhancements}
 
-**[Filter by Enabled Source](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[Filter by [!UICONTROL Enabled Source]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-Filter Predictive Content pieces that are enabled for Email, Rich Media, or the Recommendation Bar.
+Filter [!UICONTROL Predictive Content] pieces that are enabled for [!UICONTROL Email], [!UICONTROL Rich Media], or the [!UICONTROL Recommendation Bar].
 
 ![](assets/predictive-content-enabled-source.png)
 
-**[Filter Analytics by Source](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[Filter [!UICONTROL Analytics by Source]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-Filter Predictive Content analytics for specific sources — Email, Rich Media, or Recommendation Bar.
+Filter [!UICONTROL Predictive Content] analytics for specific sources — [!UICONTROL Email], [!UICONTROL Rich Media], or [!UICONTROL Recommendation Bar].
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**Predictive Content Editor**
+**[!UICONTROL Predictive Content] Editor**
 
-There's an improved editing experience and layout that splits content preparation by source — Email, Rich Media, or Recommendation Bar.
+There's an improved editing experience and layout that splits content preparation by source — [!UICONTROL Email], [!UICONTROL Rich Media], or [!UICONTROL Recommendation Bar].
 
 ![](assets/predictive-content-editor.png)
 
@@ -78,7 +78,7 @@ Image URL and metadata are now used in the content auto-discovery process.
 
 Developers now have additional control over the delivery of Push Notifications with the addition of a new SDK API call that allows developers to remove push tokens.
 
-## [Vibes SMS LaunchPoint Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
+## [[!DNL Vibes SMS LaunchPoint] Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
 
 Improve your targeting with a new filter option, "Member of Vibes List."
 
