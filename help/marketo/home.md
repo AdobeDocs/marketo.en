@@ -16,9 +16,9 @@ exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
 
 ## Popular Articles
 
-* [Understanding the Salesforce Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+* [Understanding the [!DNL Salesforceъ Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
-* [Understanding the Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+* [Understanding the [!DNL Microsoft Dynamicsъ Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 * [Understanding Smart Campaigns](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 
