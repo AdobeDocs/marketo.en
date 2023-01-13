@@ -12,21 +12,25 @@ When you import a list with unknown headers, you can create field aliases to mak
 >
 >**Admin Permissions Required**
 
-1. Under **Admin**, click **Field Management**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2014-9-19-9-3a56-3a22.png)
+   ![](assets/edit-field-aliases-for-list-import-1.png)
+
+1. Click **Field Management**.
+
+   ![](assets/edit-field-aliases-for-list-import-2.png)
 
 1. Find and select the field you want to add an alias to.
 
-   ![](assets/fieldmanagement-findfield.png)
+   ![](assets/edit-field-aliases-for-list-import-3.png)
 
-1. In the Field Actions drop-down, click **Edit Import Aliases**.
+1. In the **Field Actions** drop-down, click **Edit Import Aliases**.
 
-   ![](assets/fieldmanageemnt-editimport.png)
+   ![](assets/edit-field-aliases-for-list-import-4.png)
 
 1. Enter an Alias and click **Save**.
 
-   ![](assets/image2014-9-19-9-3a57-3a1.png)
+   ![](assets/edit-field-aliases-for-list-import-5.png)
 
 >[!TIP]
 >
@@ -34,4 +38,4 @@ When you import a list with unknown headers, you can create field aliases to mak
 
 Look at that! Now if you import a spreadsheet with a column named "DOB," Marketo will automatically recognize it as "Date of Birth" and import the data into the correct field.  
 
-![](assets/image2014-9-19-9-3a57-3a20.png)
+![](assets/edit-field-aliases-for-list-import-6.png)

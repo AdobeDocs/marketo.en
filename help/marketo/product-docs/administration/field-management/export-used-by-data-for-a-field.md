@@ -12,25 +12,25 @@ As an Admin, you have the ability to export related assets of a field so you can
 >
 >**Admin Permissions Required**
 
-1. Click **Admin**.
+1. Go to the **Admin** area.
 
-   ![](assets/one.png)
+   ![](assets/export-used-by-data-for-a-field-1.png)
 
 1. Click **Field Management**.
 
-   ![](assets/two-3.png)
+   ![](assets/export-used-by-data-for-a-field-2.png)
 
 1. Find the desired field and select it.
 
-   ![](assets/three.png)
+   ![](assets/export-used-by-data-for-a-field-3.png)
 
 1. Click the **Field Actions** drop-down and select **Export Used By**.
 
-   ![](assets/four.png)
+   ![](assets/export-used-by-data-for-a-field-4.png)
 
 1. An Excel file will export. Open it to view its content.
 
-   ![](assets/five-1.png)
+   ![](assets/export-used-by-data-for-a-field-5.png)
 
    >[!TIP]
    >
