@@ -36,15 +36,21 @@ Many-to-many custom objects use two link fields, part of an intermediary object.
 
 ## Accessing Marketo Custom Objects {#accessing-marketo-custom-objects}
 
-1. To create or edit Marketo custom objects, click **Admin** and then the **Marketo Custom Objects** link.
+1. Go to the **Admin** area.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. The Marketo Custom Objects display lists all of your custom objects on the right, but only the approved ones in the main grid.
+1. Click **Marketo Custom Objects**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
-1. The grid displays the object name, number of records, number of fields, and the date of the most recent update.
+1. The Marketo Custom Objects display lists all of your custom objects on the right, but only the approved ones in the main grid.
+
+   ![](assets/understanding-marketo-custom-objects-3.png)
+
+   >[!NOTE]
+   >
+   >The grid displays the object name, number of records, number of fields, and the date of the most recent update.
 
    >[!TIP]
    >
@@ -52,7 +58,7 @@ Many-to-many custom objects use two link fields, part of an intermediary object.
 
 1. Click the object name on the right to open the details page.
 
-   ![](assets/understanding-marketo-custom-objects-3.png)
+   ![](assets/understanding-marketo-custom-objects-4.png)
 
 ## View Custom Objects Associated to a Person {#view-custom-objects-associated-to-a-person}
 
@@ -60,19 +66,19 @@ After you've created the custom object structure, when you upload the specific c
 
 1. Go to **Database**.
 
-   ![](assets/understanding-marketo-custom-objects-4.png)
+   ![](assets/understanding-marketo-custom-objects-5.png)
 
 1. Open your database and click the **People** tab. Double-click the record for a person you associated to a custom object.
 
-   ![](assets/understanding-marketo-custom-objects-5.png)
+   ![](assets/understanding-marketo-custom-objects-6.png)
 
 1. On the person detail page, click the **Custom Objects** tab. Select the object from the drop-down.
 
-   ![](assets/understanding-marketo-custom-objects-6.png)
+   ![](assets/understanding-marketo-custom-objects-7.png)
 
 1. Now you can view a list of all custom objects of that type that are associated to that person.
 
-   ![](assets/understanding-marketo-custom-objects-7.png)
+   ![](assets/understanding-marketo-custom-objects-8.png)
 
 ## Using Custom Objects with Companies {#using-custom-objects-with-companies}
 
@@ -80,7 +86,7 @@ After you've created the custom object structure, when you upload the specific c
 
    If you have multiple people in Marketo that are records in the CRM or Marketo-only records, a custom object linked to a company won't get associated with more than one individual record. This is because a company having multiple people underneath it is supported only when companies are synced down from the CRM or if you use an API to explicitly create companies.
 
-   Custom Objects can only directly link to a single record. This means that when your custom object type is linked by company field, you should ensure that your person records are associated to a company either using contact conversion in your CRM, or using the externalCompanyId field, if you manage companies using Marketo’s REST APIs. For person records that aren't linked explicitly to company records, custom objects linked using company will be randomly linked to a single record, even if the value of the company field is shared across many people.
+   Custom Objects can only directly link to a single record. This means that when your custom object type is linked by company field, you should ensure that your person records are associated to a company either using contact conversion in your CRM, or using the externalCompanyId field, if you manage companies using Marketo's REST APIs. For person records that aren't linked explicitly to company records, custom objects linked using company will be randomly linked to a single record, even if the value of the company field is shared across many people.
 
    See [Import Custom Object Data](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) for more information.
 

@@ -179,20 +179,6 @@ The following features follow an Agile format and are released on various dates 
   </tbody>
 </table>
 
-* **Scheduled Meeting Notifications for Dynamic Chat**: Sales representatives get automated email notifications regarding scheduled meetings as well as any relevant information about the visitor's chatbot interaction.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
-  </tr>
-  <tr> 
-   <td><i>Coming soon</i></td>
-   <td>n/a</td>
-  </tr>
-  </tbody>
-</table>
-
 ## Announcements {#announcements}
 
 * **Forms 1.0**: The deprecation of Forms 1.0 will be completed with the October release. Forms 1.0 assets will no longer be able to submit data to Marketo Engage and will return errors if attempted.
