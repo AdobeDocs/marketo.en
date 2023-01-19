@@ -10,17 +10,21 @@ After you've created a custom object, you need to add fields to it to meet your 
 
 Fields define the specific information used by a custom object. Link fields have a special job, to connect custom objects, and are covered in a [separate article](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Click **Admin**, and in **Database Management**, select **Marketo Custom Objects**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2016-1-18-9-3a2-3a6.png)
+   ![](assets/add-marketo-custom-object-fields-1.png)
+
+1. Click **Marketo Custom Objects**.
+
+   ![](assets/add-marketo-custom-object-fields-2.png)
 
 1. Select the object you want to add the field to on the right.
 
-   ![](assets/image2016-1-18-9-3a5-3a3.png)
+   ![](assets/add-marketo-custom-object-fields-3.png)
 
 1. In the **Fields** tab, click **New Field**.
 
-   ![](assets/image2015-9-15-16-3a53-3a40.png)
+   ![](assets/add-marketo-custom-object-fields-4.png)
 
    >[!NOTE]
    >
@@ -28,7 +32,7 @@ Fields define the specific information used by a custom object. Link fields have
 
 1. Enter a display name and description.
 
-   ![](assets/image2015-10-5-11-3a35-3a48.png)
+   ![](assets/add-marketo-custom-object-fields-5.png)
 
    >[!NOTE]
    >
@@ -36,11 +40,11 @@ Fields define the specific information used by a custom object. Link fields have
 
 1. Now, choose an appropriate data type from the list.
 
-   ![](assets/image2015-10-5-11-3a37-3a24.png)
+   ![](assets/add-marketo-custom-object-fields-6.png)
 
 1. Pull the Dedupe slider over if you want to use the new field as a unique identifier. Click **Save** to finish.
 
-   ![](assets/image2015-10-5-11-3a40-3a12.png)
+   ![](assets/add-marketo-custom-object-fields-7.png)
 
    >[!TIP]
    >

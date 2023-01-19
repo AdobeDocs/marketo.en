@@ -12,17 +12,25 @@ You must approve a custom object before you can use it. The process is slightly 
 
 You've created a brand new custom object. Here's how to approve it.
 
-1. In Admin, click **Marketo Custom Objects** and select an object that's in a Draft state.
+1. Go to the **Admin** area.
 
-   ![](assets/one.png)
+   ![](assets/approve-a-custom-object-1.png)
+
+1. Click **Marketo Custom Objects**.
+
+   ![](assets/approve-a-custom-object-2.png)
+
+1. Select an object that's in a Draft state.
+
+   ![](assets/approve-a-custom-object-3.png)
 
 1. Click the **Custom Object Actions** drop-down and select **Approve Object**.
 
-   ![](assets/two.png)
+   ![](assets/approve-a-custom-object-4.png)
 
 1. The state changes to Approved.
 
-   ![](assets/three.png)
+   ![](assets/approve-a-custom-object-5.png)
 
    >[!NOTE]
    >
@@ -42,12 +50,12 @@ After you edit an approved custom object, you must approve the draft to return t
 
 1. When you edit an already approved custom object, it receives an Approved with Draft state.
 
-   ![](assets/four.png)
+   ![](assets/approve-a-custom-object-6.png)
 
 1. When you're ready to approve the draft, click the **Custom Object Actions** drop-down and select **Approve Object**.
 
-   ![](assets/five-1.png)
+   ![](assets/approve-a-custom-object-7.png)
 
 1. A preview displays the items that were changed in the draft. Click **Approve**.
 
-   ![](assets/six-1.png)
+   ![](assets/approve-a-custom-object-8.png)
