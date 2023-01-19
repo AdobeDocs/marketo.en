@@ -14,13 +14,17 @@ If you no longer have use for a field in Marketo, you can hide it from the UI so
 >
 >**Admin Permissions Required**
 
-1. Go to **[!UICONTROL Admin]** and click **[!UICONTROL Field Management]**.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/image2014-9-18-13-3a10-3a3.png)
+   ![](assets/hide-and-unhide-a-field-1.png)
+
+1. Click **[!UICONTROL Field Management]**.
+
+   ![](assets/hide-and-unhide-a-field-2.png)
 
 1. Find the field, select it, then under **[!UICONTROL Field Actions]** click **[!UICONTROL Hide Field]**.
 
-   ![](assets/fieldmanagement-hidefield-.png)
+   ![](assets/hide-and-unhide-a-field-3.png)
 
    >[!NOTE]
    >
@@ -28,21 +32,25 @@ If you no longer have use for a field in Marketo, you can hide it from the UI so
 
 1. Click **[!UICONTROL Hide]** to confirm.
 
-   ![](assets/image2014-9-18-13-3a10-3a36.png)
+   ![](assets/hide-and-unhide-a-field-4.png)
 
    Nice work! Now you know how to hide a field from the Marketo user interface.
 
-   ![](assets/image2014-9-18-13-3a10-3a45.png)
+   ![](assets/hide-and-unhide-a-field-5.png)
 
 ## Unhide a Field {#unhide-a-field}
 
-1. Go to **[!UICONTROL Admin]** and click **[!UICONTROL Field Management]**.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/image2014-9-18-13-3a11-3a3.png)
+   ![](assets/hide-and-unhide-a-field-6.png)
+
+1. Click **[!UICONTROL Field Management]**.
+
+   ![](assets/hide-and-unhide-a-field-7.png)
 
 1. Find and select the field. In the **[!UICONTROL Field Actions]** drop-down, click **[!UICONTROL Unhide Field]**.
 
-   ![](assets/image2014-9-18-13-3a11-3a46.png)
+   ![](assets/hide-and-unhide-a-field-8.png)
 
    Great work! Now you know how to unhide fields and make them visible again in the Marketo user interface.
 

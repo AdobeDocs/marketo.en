@@ -12,13 +12,17 @@ You may want to know which [!DNL Salesforce] fields a specific Marketo field is 
 >
 >**Admin Permissions Required**
 
-1. Go to **[!UICONTROL Admin]** and click **[!UICONTROL Field Management]**.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/image2014-9-19-9-3a54-3a26.png)
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-1.png)
+
+1. Click **[!UICONTROL Field Management]**.
+
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 
 1. Find the field you're interested in seeing and click the **[!UICONTROL +]** to expand the mapping.
 
-   ![](assets/image2014-9-19-9-3a54-3a34.png)
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-3.png)
 
 >[!NOTE]
 >
