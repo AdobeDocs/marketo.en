@@ -173,6 +173,7 @@ feature-set: Marketo Engage
       + [Add or Remove a User](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
       + [User Sign-in with Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
     + Settings {#settings}
+      + [Bulk Export API Information](product-docs/administration/settings/bulk-export-api-information.md)
       + [Change Attribution Settings for Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
       + [Change Your Marketo Password](product-docs/administration/settings/change-your-marketo-password.md)
       + [Change your Password Security Settings](product-docs/administration/settings/change-your-password-security-settings.md)
@@ -1870,6 +1871,7 @@ feature-set: Marketo Engage
       + [Release Notes: May '22](release-notes/previous-releases/2022/release-notes-may-22.md)
       + [Release Notes: June '22](release-notes/previous-releases/2022/release-notes-june-22.md)
       + [Release Notes: August '22](release-notes/previous-releases/2022/release-notes-aug-22.md)
+      + [Release Notes: October '22](release-notes/previous-releases/2022/release-notes-oct-22.md)
     + 2021 {#2021}
       + [Release Notes: January '21](release-notes/previous-releases/2021/release-notes-jan-21.md)
       + [Release Notes: May '21](release-notes/previous-releases/2021/release-notes-may-21.md)

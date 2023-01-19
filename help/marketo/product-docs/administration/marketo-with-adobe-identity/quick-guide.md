@@ -32,7 +32,7 @@ Marketo Engage API Only Users must be created and managed in Marketo Engage.
 
 ## Add Users via CSV {#add-users-via-csv}
 
-[Import a CSV](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"}
+[Import a CSV](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## User Sign-in {#user-sign-in}
 

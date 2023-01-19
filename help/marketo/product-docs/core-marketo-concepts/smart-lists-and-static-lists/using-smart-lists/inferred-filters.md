@@ -6,7 +6,13 @@ exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 ---
 # Inferred Filters {#inferred-filters}
 
-When someone visits your website, [[!DNL Munchkin]](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies them and puts them into the system. We look up their IP in a special database and infer all kinds of good info. Check it out.
+When someone visits your website, [[!DNL Munchkin]](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies them and puts them into the system. We look up their IP in a special database and infer all kinds of good info.
+
+>[!NOTE]
+>
+>To ensure inferred field values stay current, we periodically update the database that's used for IP address lookups. Database updates can introduce new inferred field values that you may need to add to smart list filter definitions.
+>
+>Database updates can occur during a [Marketo Engage product release](/help/marketo/release-notes/release-schedule.md){target="_blank"}. When an update does occur, the [Marketo Engage release notes](/help/marketo/release-notes/current.md){target="_blank"} will contain an explanation of any changes to inferred field values.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 

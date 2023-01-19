@@ -84,6 +84,10 @@ In the upper-right of the Stream Designer, you'll see a handful of icons. Here's
 
    ![](assets/stream-designer-8.png)
 
+   >[!TIP]
+   >
+   >You can personalize the experience for known chat visitors by using tokens (ex: Hello `{{lead.leadFirstName:""}}`). Simply click the curly bracket icon on the right and make your selection. Add a default value between the quoates if you want anonymous visitors to see something generic (ex: Hello `{{lead.leadFirstName:"there"}}`).
+
    >[!NOTE]
    >
    >Poke is set to on by default, which displays the opening question next to the chat icon without the visitor having to click on it to see it. Poke is only available on the first card in the conversation.
