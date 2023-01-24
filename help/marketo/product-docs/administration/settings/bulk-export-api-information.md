@@ -1,8 +1,6 @@
 ---
 description: Bulk Export API Information - Marketo Docs - Product Documentation
 title: Bulk Export API Information
-hide: yes
-hidefromtoc: yes
 ---
 # Bulk Export API Information {#bulk-export-api-information}
 
