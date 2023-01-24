@@ -18,20 +18,20 @@ When you choose an operator, the right side will change dynamically.
 
 | Operator |Right Side |Description |
 |---|---|---|
-| is |Single Date |Exact date match |
-| is not |Single Date |Any date EXCEPT the one specified |
-| between |Two Date Fields |Any date including and between two specified dates |
-| in past |Natural Language Input&#42; |See diagram below |
-| in past before |Natural Language Input&#42; |See diagram below |
-| in future |Natural Language Input&#42; |See diagram below |
-| in future after |Natural Language Input&#42; |See diagram below |
-| in time frame |Presets (last quarter, yesterday etc) |Defined in picklist |
-| after |Single Date |All records after the specified date |
-| before |Single Date |All records before the specified one |
-| on or after |Single Date |Same as "after" but inclusive |
-| on or before |Single Date |Same as "before" but inclusive |
-| is empty |None |All records without a date |
-| is not empty |None |All records with any date |
+| [!UICONTROL is] |Single Date |Exact date match |
+| [!UICONTROL is not] |Single Date |Any date EXCEPT the one specified |
+| [!UICONTROL between] |Two Date Fields |Any date including and between two specified dates |
+| [!UICONTROL in past] |Natural Language Input&#42; |See diagram below |
+| [!UICONTROL in past before] |Natural Language Input&#42; |See diagram below |
+| [!UICONTROL in future] |Natural Language Input&#42; |See diagram below |
+| [!UICONTROL in future after] |Natural Language Input&#42; |See diagram below |
+| [!UICONTROL in time frame] |Presets (last quarter, yesterday etc) |Defined in picklist |
+| [!UICONTROL after] |Single Date |All records after the specified date |
+| [!UICONTROL before] |Single Date |All records before the specified one |
+| [!UICONTROL on or after] |Single Date |Same as "after" but inclusive |
+| [!UICONTROL on or before] |Single Date |Same as "before" but inclusive |
+| [!UICONTROL is empty] |None |All records without a date |
+| [!UICONTROL is not empty] |None |All records with any date |
 
 &#42; Natural language input is cool. Here are some of the patterns you can enter:
 
@@ -75,14 +75,14 @@ Use the following diagram to understand the difference between the date operator
 
 | Operator |Description |
 |---|---|
-| is |Exact match (not case sensitive) |
-| is not |Anything EXCEPT exact match |
-| starts with |First letters of string match |
-| not starts with |First letters of string DO NOT match |
-| contains |Any letters together in the string match (example: california, fortune, therefor) |
-| not contains |No letters together in the string match. (reverse of "contains") |
-| is empty |Records that have no value (NULL) |
-| is not empty |Records with ANY value |
+| [!UICONTROL is] |Exact match (not case sensitive) |
+| [!UICONTROL is not] |Anything EXCEPT exact match |
+| [!UICONTROL starts with] |First letters of string match |
+| [!UICONTROL not starts with] |First letters of string DO NOT match |
+| [!UICONTROL contains] |Any letters together in the string match (example: california, fortune, therefor) |
+| [!UICONTROL not contains] |No letters together in the string match. (reverse of "contains") |
+| [!UICONTROL is empty] |Records that have no value (NULL) |
+| [!UICONTROL is not empty] |Records with ANY value |
 
 >[!TIP]
 >
@@ -101,39 +101,39 @@ Use the following diagram to understand the difference between the date operator
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1">is</td> 
+   <td colspan="1" rowspan="1"><span class="uicontrol">is</span></td> 
    <td colspan="1" rowspan="1">Exact number match ( = 0 will return both leads with 0 <em>and</em> NULL)</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">is not</td> 
+   <td colspan="1" rowspan="1"><span class="uicontrol">is not</span></td> 
    <td colspan="1" rowspan="1">Anything EXCEPT exact number match</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">between</td> 
+   <td colspan="1" rowspan="1"><span class="uicontrol">between</span></td> 
    <td colspan="1" rowspan="1">Define two value to find everyone in between (inclusive)</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">greater than</td> 
+   <td colspan="1" rowspan="1"><span class="uicontrol">greater than</span></td> 
    <td colspan="1" rowspan="1">Above the specified</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">less than</td> 
+   <td colspan="1" rowspan="1"><span class="uicontrol">less than</span></td> 
    <td colspan="1" rowspan="1">Less than the specified</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">at least</td> 
+   <td colspan="1" rowspan="1"><span class="uicontrol">at least</span></td> 
    <td colspan="1" rowspan="1">Above the specified (inclusive)</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">at most</td> 
+   <td colspan="1" rowspan="1"><span class="uicontrol">at most</span></td> 
    <td colspan="1" rowspan="1">Less than the specified (inclusive)</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">is empty</td> 
+   <td colspan="1" rowspan="1"><span class="uicontrol">is empty</span></td> 
    <td colspan="1" rowspan="1">Records that have no value (NULL) - zero is a number, it is <em>not</em> NULL</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">is not empty</td> 
+   <td colspan="1" rowspan="1"><span class="uicontrol">is not empty</span></td> 
    <td colspan="1" rowspan="1">Records with ANY value (including zero)</td> 
   </tr> 
  </tbody> 
