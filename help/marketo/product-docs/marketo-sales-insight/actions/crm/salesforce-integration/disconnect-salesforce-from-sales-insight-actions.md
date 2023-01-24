@@ -9,7 +9,7 @@ exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 
 Sometimes you may need to disconnect your [!DNL Salesforce] account from your [!DNL Sales Insight Actions] account. Here's how.
 
-## How to Disconnect From Salesforce as an Admin {#how-to-disconnect-from-salesforce-as-an-admin}
+## How to Disconnect From [!UICONTROL Salesforce] as an Admin {#how-to-disconnect-from-salesforce-as-an-admin}
 
 1. In [!DNL Sales Insight Actions], click the gear icon on the upper-right and select **[!UICONTROL Settings]**.
 
