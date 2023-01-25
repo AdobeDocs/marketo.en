@@ -17,7 +17,7 @@ There many things you can do with an Executable Campaign. They are designed to f
 
 You can also use them when you need to run a separate flow, but you need to depend upon the results of that flow in subsequent flow step choices (i.e., if this, do that).
 
-Execute Campaign is an improvement upon [Request Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), as it can run in-series or in parallel, whereas the latter only runs in parallel.
+Execute Campaign is an improvement upon [Request Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), as it can run in-series, whereas the latter only runs in parallel.
 
 >[!NOTE]
 >
