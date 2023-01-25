@@ -120,8 +120,8 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -134,8 +134,8 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Calendar</a></td>
   </tr>
   </tbody>
 </table>
@@ -162,8 +162,8 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -176,8 +176,8 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md">Meetings</a></td>
   </tr>
   </tbody>
 </table>

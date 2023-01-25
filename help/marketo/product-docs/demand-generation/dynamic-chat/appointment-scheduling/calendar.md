@@ -14,3 +14,7 @@ Once a user's calendar is connected to Dynamic Chat, they'll be added to the que
 Users can also customize the body of the invite that's sent to the visitor when they schedule an appointment on the user's calendar. They can also select the checkbox at the bottom to include a Google Meet or Microsoft Teams link (depending on which calendar was connected).
 
    ![](assets/calendar-2.png)
+
+>[!TIP]
+>
+>Use the token icon (curly brackets) to personalize your meeting booking confirmation emails using person or company attributes.
