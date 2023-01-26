@@ -182,6 +182,8 @@ The following features follow an Agile format and are released on various dates 
   </tbody>
 </table>
 
-**_Product Release Webinar_**
+## Announcements {#announcements}
 
-[October 2022 and January 2023 Marketo Engage Release Webinar](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **Marketo REST API change**: With the October 2022 release, we introduced a minor change to the Marketo REST API response message. Please see this [Marketo Nation post](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} for details.
+
+* **_Product Release Webinar_**: [October 2022 and January 2023 Marketo Engage Release Webinar](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
