@@ -108,7 +108,7 @@ You can insert Program Member Custom Fields Tokens into emails, Landing Pages, S
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. Find and select the desired Program Member Custom Field Token. Enter a [!UICONTROL default value] and click **[!UICONTROL Insert]**.
+1. Find and select the desired Program Member Custom Field Token. Enter a [!UICONTROL Default Value] and click **[!UICONTROL Insert]**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
