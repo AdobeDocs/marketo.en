@@ -20,7 +20,7 @@ You can create custom overlays to view entries relevant to your needs.
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. You can also filter by [[!UICONTROL program tags]](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
+1. You can also filter by [[!UICONTROL Program Tags]](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
