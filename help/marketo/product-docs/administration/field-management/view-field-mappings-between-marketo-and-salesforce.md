@@ -20,7 +20,7 @@ You may want to know which [!DNL Salesforce] fields a specific Marketo field is 
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 
-1. Find the field you're interested in seeing and click the **[!UICONTROL +]** to expand the mapping.
+1. Find the field you're interested in seeing and click the **+** to expand the mapping.
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-3.png)
 
