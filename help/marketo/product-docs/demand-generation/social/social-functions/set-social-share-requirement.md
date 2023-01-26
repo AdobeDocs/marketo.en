@@ -24,8 +24,8 @@ When you [create a referral offer](/help/marketo/product-docs/demand-generation/
 
    ![](assets/four.png)
 
-    * **[!UICONTROL Person Capture]** > **[!UICONTROL Share]**: Person can skip sharing and just sign up.
-    * **[!UICONTROL Share]** > **[!UICONTROL Person Capture]**: Person must share in order to sign up.
+    * **[!UICONTROL Person Capture > Share]**: Person can skip sharing and just sign up.
+    * **[!UICONTROL Share > Person Capture]**: Person must share in order to sign up.
 
 1. For each option, see the preview in the **[!UICONTROL View & Edit]** window.
 
