@@ -39,7 +39,7 @@ Clicking on the **[!UICONTROL Schedule]** tab will confirm that the smart campai
 >
 >A trigger smart campaign affects one person at a time based on a triggered event. An example of a trigger would be clicking a link in an email.
 
-If a smart campaign uses at least one trigger within the **[!UICONTROL smart list]** section, the mode will automatically be set to triggered.
+If a smart campaign uses at least one trigger within the **[!UICONTROL Smart List]** section, the mode will automatically be set to triggered.
 
 ![](assets/trigger.png)
 
