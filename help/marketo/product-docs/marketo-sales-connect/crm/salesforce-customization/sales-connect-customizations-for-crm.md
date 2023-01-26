@@ -74,7 +74,7 @@ Marketo will detect the creation of the new fields then do a one-time backfill o
 |---|---|
 | MSE Call Local Presence ID |As a user you can choose [!UICONTROL Local Presence] as an option when you make calls from the MSE Phone. Incoming calls will show a local number for the receiver. |
 | MSE Call Recording URL |Calls can be recorded and a link for the recording will be logged here. |
-| MSE Campaign |Logs name of the MSE campaign the [!UICONTROL Contact/Lead] is a member of. |
+| MSE Campaign |Logs name of the MSE campaign the Contact/Lead is a member of. |
 | MSE Campaign URL |Logs URL to the campaign that was created in MSE. Clicking on this will open the campaign in the MSE web app. |
 | MSE Campaign Current Step |If a contact/lead is part of a campaign, this field will log the name of the step the lead/contact is currently on. |
 | MSE Email Attachment Viewed |Logs data when an email is sent with an attachment and the attachment is viewed by the recipient.  |
