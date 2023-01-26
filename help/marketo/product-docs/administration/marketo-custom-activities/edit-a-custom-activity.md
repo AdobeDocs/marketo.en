@@ -12,7 +12,7 @@ Need to make changes to a custom activity you've already created? Here's how.
 
    ![](assets/edit-a-custom-activity-1.png)
 
-1. Click **Marketo Custom Activities**.
+1. Click **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/edit-a-custom-activity-2.png)
 
