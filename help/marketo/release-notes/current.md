@@ -98,8 +98,8 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Bulk Export API Information</a></td>
   </tr>
   </tbody>
 </table>
@@ -120,8 +120,8 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -134,8 +134,8 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Calendar</a></td>
   </tr>
   </tbody>
 </table>
@@ -162,8 +162,8 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -176,26 +176,12 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Dialogue Engagement Report for Dynamic Chat**: Provides a view of Dialogue engagement over time, including the ability to filter by visitor type and engagement type.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
-  </tr>
-  <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md">Meetings</a></td>
   </tr>
   </tbody>
 </table>
 
 **_Product Release Webinar_**
 
-Want to learn more about these features and enhancements? Be sure to [register now](https://engage.marketo.com/2023_January_Release_Webinar_RegistrationPage.html) to join us on January 24 at 9:00 AM PT / 12:00 PM ET for a live webinar with our product team to take a deeper dive into these innovations.
+[October 2022 and January 2023 Marketo Engage Release Webinar](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}

@@ -15,21 +15,25 @@ When you create custom objects, you must provide link fields to connect the cust
 
 Here's how to create a link field in a custom object for a one-to-many structure.
 
-1. Click **[!UICONTROL Admin]**, and in **[!UICONTROL Database Management]**, select **[!UICONTROL Marketo Custom Objects]**.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/image2016-1-18-13-3a25-3a11.png)
+   ![](assets/add-marketo-custom-object-link-fields-1.png)
+
+1. Click **Marketo Custom Objects**.
+
+   ![](assets/add-marketo-custom-object-link-fields-2.png)
 
 1. Select the custom object in the list.
 
-   ![](assets/image2016-1-14-15-3a6-3a2.png)
+   ![](assets/add-marketo-custom-object-link-fields-3.png)
 
 1. In the **[!UICONTROL Fields]** tab, click **[!UICONTROL New Field]**.
 
-   ![](assets/image2015-9-17-14-3a9-3a19.png)
+   ![](assets/add-marketo-custom-object-link-fields-4.png)
 
 1. Name the link field and add an optional [!UICONTROL Description]. Be sure to select the **[!UICONTROL Link]** **[!UICONTROL Data Type]**.
 
-   ![](assets/image2015-10-5-13-3a24-3a57.png)
+   ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
@@ -37,7 +41,7 @@ Here's how to create a link field in a custom object for a one-to-many structure
 
 1. Select whether the **[!UICONTROL Link Object]** is for a **[!UICONTROL Lead]** (person) or a **[!UICONTROL Company]**.
 
-   ![](assets/image2015-10-5-13-3a28-3a1.png)
+   ![](assets/add-marketo-custom-object-link-fields-6.png)
 
    >[!NOTE]
    >
@@ -47,7 +51,7 @@ Here's how to create a link field in a custom object for a one-to-many structure
 
 1. Select the **[!UICONTROL Link Field]** you want to connect to as the parent of the new field.
 
-   ![](assets/image2015-10-5-13-3a30-3a6.png)
+   ![](assets/add-marketo-custom-object-link-fields-7.png)
 
    >[!NOTE]
    >
@@ -55,7 +59,7 @@ Here's how to create a link field in a custom object for a one-to-many structure
 
 1. Click **[!UICONTROL Save].**
 
-   ![](assets/image2015-10-5-13-3a34-3a0.png)
+   ![](assets/add-marketo-custom-object-link-fields-8.png)
 
 ## Create a Link Field for a Many-to-Many Structure {#create-a-link-field-for-a-many-to-many-structure}
 
@@ -65,21 +69,25 @@ Here's how to create a link field in an intermediary object for use in a many-to
 >
 >You must have already created the intermediary object and any custom objects you intend to link it to.
 
-1. Click **[!UICONTROL Admin]**, and in **[!UICONTROL Database Management]**, select **[!UICONTROL Marketo Custom Objects]**.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/image2016-1-18-9-3a8-3a14.png)
+   ![](assets/add-marketo-custom-object-link-fields-9.png)
+
+1. Click **[!UICONTROL Marketo Custom Objects]**.
+
+   ![](assets/add-marketo-custom-object-link-fields-10.png)
 
 1. Select the intermediary object you want to add the field to.
 
-   ![](assets/image2016-1-18-9-3a10-3a29.png)
+   ![](assets/add-marketo-custom-object-link-fields-11.png)
 
 1. In the **[!UICONTROL Fields]** tab, click **[!UICONTROL New Field]**.
 
-   ![](assets/image2016-1-18-9-3a31-3a43.png)
+   ![](assets/add-marketo-custom-object-link-fields-12.png)
 
 1. You need to create two link fields. Create them one at a time. First, name the field for the members of your database list (leadID, for example). Add an optional [!UICONTROL Description]. Be sure to select the **[!UICONTROL Link]** **[!UICONTROL Data Type]**.
 
-   ![](assets/image2016-1-18-9-3a38-3a59.png)
+   ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
@@ -87,11 +95,11 @@ Here's how to create a link field in an intermediary object for use in a many-to
 
 1. Select the **[!UICONTROL Link Object]** from your database, in this case **[!UICONTROL Lead]**.
 
-   ![](assets/image2016-1-18-9-3a50-3a48.png)
+   ![](assets/add-marketo-custom-object-link-fields-14.png)
 
 1. Select the **[!UICONTROL Link Field]** you want to connect to, in this case, **[!UICONTROL Id]**.
 
-   ![](assets/image2016-1-18-9-3a53-3a54.png)
+   ![](assets/add-marketo-custom-object-link-fields-15.png)
 
    >[!NOTE]
    >
@@ -99,11 +107,11 @@ Here's how to create a link field in an intermediary object for use in a many-to
 
 1. Click **[!UICONTROL Save[!UICONTROL .**
 
-   ![](assets/image2016-1-18-9-3a55-3a18.png)
+   ![](assets/add-marketo-custom-object-link-fields-16.png)
 
 1. Repeat this process for the second link to your custom object, in this example, courseID. The **[!UICONTROL Link Object]** Name will be course, and the **[!UICONTROL Link Field]** will be courseID. Since you already created and approved the course custom object, these selections are available in the drop-down menus.
 
-   ![](assets/image2016-1-18-9-3a57-3a46.png)
+   ![](assets/add-marketo-custom-object-link-fields-17.png)
 
 1. Create any other fields that you want to use in your intermediary object, such as enrollmentID or grade.
 
@@ -111,7 +119,7 @@ Here's how to create a link field in an intermediary object for use in a many-to
 
    The next step is to use these custom objects in filters in your smart campaigns. With a many-to-many relationship, you can select multiple people/companies and multiple custom objects. In the example below, anyone in your database who matches these criteria will be listed. The coursename field comes from the course custom object and the enrollment grade comes from the intermediate object.
 
-   ![](assets/image2016-1-14-15-3a57-3a59.png)
+   ![](assets/add-marketo-custom-object-link-fields-18.png)
 
 >[!MORELIKETHIS]
 >

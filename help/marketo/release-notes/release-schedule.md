@@ -38,7 +38,7 @@ _Release dates are subject to change_
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">January '23</a></td>
    <td>January 20, 2023</td>
-   <td>On Schedule</td>
+   <td>In Progress</td>
   </tr>
   <tr> 
    <td>March '23</td>
