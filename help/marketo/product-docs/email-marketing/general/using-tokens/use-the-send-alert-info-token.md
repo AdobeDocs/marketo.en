@@ -45,7 +45,7 @@ The following information is included as part of the `{{SP_Send_Alert_Info}}`:
 
    ![](assets/three-3.png)
 
-1. Find and select the **[!UICONTROL `{{SP_Send_Alert_Info}}`]** token and click **[!UICONTROL Insert]**.
+1. Find and select the **[!UICONTROL {{SP_Send_Alert_Info}}]** token and click **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
