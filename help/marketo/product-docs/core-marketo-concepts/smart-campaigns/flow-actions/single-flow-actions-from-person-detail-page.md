@@ -17,7 +17,7 @@ In addition to running single flow actions from within a Smart List, you can als
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. Click the **[!UICONTROL Person Actions]** drop-down and select the flow step of your choice. In this example we'll use [[!UICONTROL Send Emai]l](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
+1. Click the **[!UICONTROL Person Actions]** drop-down and select the flow step of your choice. In this example we'll use [[!UICONTROL Send Email]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
