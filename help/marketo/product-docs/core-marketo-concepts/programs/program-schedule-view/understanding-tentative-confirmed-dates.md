@@ -20,7 +20,7 @@ Tentative dates convey intent. Think of this as _penciling_ something in the cal
 
 ## Confirming Entries {#confirming-entries}
 
-This is just like approving an asset, so entries need to been fully set up before you can confirm them. Once all your ducks are in a row, you can confirm entries by sliding the [!UICONTROL tentative] tab to the right.
+This is just like approving an asset, so entries need to been fully set up before you can confirm them. Once all your ducks are in a row, you can confirm entries by sliding the [!UICONTROL Tentative] tab to the right.
 
 ![](assets/image2014-9-23-15-3a23-3a2.png)
 
