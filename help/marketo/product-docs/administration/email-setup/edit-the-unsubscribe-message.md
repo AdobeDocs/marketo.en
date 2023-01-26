@@ -39,7 +39,7 @@ When you send marketing emails (non-[operational](/help/marketo/product-docs/ema
 >
 >You can customize the position of the unsubscribe HTML in your email by using [tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
 
-## Default [!UICONTROL Unsubscribe Text] {#default-unsubscribe-text}
+## Default Unsubscribe Text {#default-unsubscribe-text}
 
 If you ever need to revert to default system unsubscribe, copy/paste the following:
 
