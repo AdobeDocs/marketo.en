@@ -36,11 +36,11 @@ Many-to-many custom objects use two link fields, part of an intermediary object.
 
 ## Accessing Marketo Custom Objects {#accessing-marketo-custom-objects}
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. Click **Marketo Custom Objects**.
+1. Click **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
