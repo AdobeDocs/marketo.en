@@ -42,4 +42,4 @@ Here's how to change the field type of a Custom Field.
 
    >[!MORELIKETHIS]
    >
-   >[Create a [!UICONTROL Custom Field] in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+   >[Create a Custom Field in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
