@@ -14,11 +14,11 @@ If you have Marketo Sales Insight, you can use the **[!UICONTROL Interesting Mom
 
 ## Usage {#usage}
 
-1. Select the interesting moment **[!UICONTROL type]** you want to use.
+1. Select the interesting moment **[!UICONTROL Type]** you want to use.
 
    ![](assets/image2014-9-22-10-3a49-3a51.png)
 
-1. Create a **[!UICONTROL description]** that explains the interesting moment to your sales team.
+1. Create a **[!UICONTROL Description]** that explains the interesting moment to your sales team.
 
    ![](assets/image2014-9-22-10-3a49-3a55.png)
 
