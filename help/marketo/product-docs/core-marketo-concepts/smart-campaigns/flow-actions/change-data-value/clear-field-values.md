@@ -18,4 +18,4 @@ exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 
    >[!CAUTION]
    >
-   >Leaving the [!UICONTROL new value] blank or simply entering a SPACE will not truly empty the field. You have to type in NULL. Also, remember, flow steps can't be undone after running.
+   >Leaving the new value blank or simply entering a SPACE will not truly empty the field. You have to type in NULL. Also, remember, flow steps can't be undone after running.
