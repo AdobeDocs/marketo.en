@@ -22,6 +22,6 @@ exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
 
    ![](assets/image2014-9-17-11-3a56-3a50.png)
 
-1. Confirm the number of assets you're about to delete (it's listed for you next to "total assets"), select the **[!UICONTROL Delete Cannot Undo]** checkbox, then click **[!UICONTROL Delete Delete]**.
+1. Confirm the number of assets you're about to delete (it's listed for you next to "total assets"), select the **Delete [!UICONTROL Cannot Undo]** checkbox, then click **[!UICONTROL Delete Delete]**.
 
    ![](assets/delete-a-workspace-3.png)
