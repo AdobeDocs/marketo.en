@@ -56,7 +56,7 @@ It's very important to not over-communicate with your people. Setting communicat
    >
    >**Example**
    >
-   >The above settings mean that people won't receive more than **[!UICONTROL 1 email per day]** or more than **[!UICONTROL 5 in any seven-day period]**.
+   >The above settings mean that people won't receive more than **email per day** or more than **5 in any seven-day period**.
 
    >[!NOTE]
    >
