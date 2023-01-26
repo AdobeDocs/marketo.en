@@ -16,7 +16,7 @@ There are two types of smart campaigns: Batch and Trigger.
 >
 >A batch campaign launches at a specific time and affects a specific set of people all at once. An example would be sending an email to all people in California.
 
-Batch smart campaigns will only have filters within the **[!UICONTROL smart list]** section (i.e., no triggers).
+Batch smart campaigns will only have filters within the **[!UICONTROL Smart List]** section (i.e., no triggers).
 
 ![](assets/batch-filter.png)
 
