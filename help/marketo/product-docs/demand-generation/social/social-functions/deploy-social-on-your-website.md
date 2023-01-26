@@ -34,7 +34,7 @@ You can deploy social apps on your own website to engage your audience and bring
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. If you need to set the size of the social app to specific dimensions on your page, add the **[!UICONTROL outerHeight]** and **[!UICONTROL outerWidth]** options to the second code snippet. For example, you can add `options='{"outerHeight":400, "outerWidth":600}'`, as in:
+1. If you need to set the size of the social app to specific dimensions on your page, add the `outerHeight` and `outerWidth` options to the second code snippet. For example, you can add `options='{"outerHeight":400, "outerWidth":600}'`, as in:
 
    ![](assets/socialonsite-resizewidget2.png)
 
