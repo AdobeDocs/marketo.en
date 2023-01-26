@@ -15,7 +15,7 @@ Installing a custom flow step requires Admin permissions in Marketo (**Manage We
 
 To begin installation, you'll need to first obtain the URL of the OpenAPI document that defines your service. Your service provider should be able to provide this to you and will usually have a URL ending in `/openapi.json`. Complete URLs will look something like `https://www.example.com/OpenAPI.json`. Once you have this URL, go to the [!UICONTROL Service Providers] menu in your [!UICONTROL Admin] Section.
 
-Click **[!UICONTROL Next]** to go to the [!UICONTROL Enter Service Credentials section].
+Click **[!UICONTROL Next]** to go to the Enter Service Credentials section.
 
    ![](assets/flow-step-service-1.png)
 
