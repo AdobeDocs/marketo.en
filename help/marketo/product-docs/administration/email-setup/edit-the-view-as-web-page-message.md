@@ -43,7 +43,7 @@ If you need to edit the "[View as a Webpage](/help/marketo/product-docs/email-ma
 
 There you have it. Send out test emails to ensure formatting.
 
-## Default "[!UICONTROL View as Web Page]" Text {#default-view-as-web-page-text}
+## Default "View as Web Page" Text {#default-view-as-web-page-text}
 
 If you ever need to revert to default system "[!UICONTROL View as Web Page]", copy/paste the following:
 
