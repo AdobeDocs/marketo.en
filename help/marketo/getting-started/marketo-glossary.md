@@ -22,7 +22,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr> 
   <tr> 
    <td colspan="1"><strong>Account</strong></td> 
-   <td colspan="1">This term can have different meanings:<br>-Your Marketo instance itself can be referred to as your Marketo account.<br>-In <strong>TAM</strong>, a <strong>Named Account</strong> is an account that the user has determined is a target account they want to pursue.<br>-In TAM, a CRM Account is an account mapped from your linked <strong>CRM</strong> (account in <strong>Salesforce</strong>, <strong>MS Dynamics</strong> or <strong>API</strong>).<br>-In your CRM, accounts are the business/company that leads and contacts are associated to.</td> 
+   <td colspan="1">This term can have different meanings:<br>-Your Marketo instance itself can be referred to as your Marketo account.<br>-In <strong>TAM</strong>, a <strong>Named Account</strong> is an account that the user has determined is a target account they want to pursue.<br>-In TAM, a CRM Account is an account mapped from your linked <strong>CRM</strong> (account in <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> or <strong>API</strong>).<br>-In your CRM, accounts are the business/company that leads and contacts are associated to.</td> 
   </tr> 
   <tr> 
    <td><strong>Account List</strong></td> 
