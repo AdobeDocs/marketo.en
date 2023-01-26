@@ -16,11 +16,11 @@ When you clone a program or event with dates, you will likely want to reschedule
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
-1. Select an [!UICONTROL anchor entry]. Based on this move, all of the other entries will move along with it.
+1. Select an [!UICONTROL Anchor Entry]. Based on this move, all of the other entries will move along with it.
 
    ![](assets/image2014-9-23-15-3a18-3a23.png)
 
-1. Choose the [!UICONTROL new start] date.
+1. Choose the [!UICONTROL New Start] date.
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
