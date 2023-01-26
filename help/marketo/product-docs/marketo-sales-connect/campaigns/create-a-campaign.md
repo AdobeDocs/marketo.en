@@ -21,7 +21,7 @@ So, how do you set up a Campaign?
 
    ![](assets/one-1.png)
 
-1. Select a category and click the **[!UICONTROL Create new Campaign]** button to create a new Campaign.
+1. Select a category and click the **[!UICONTROL Create New Campaign]** button to create a new Campaign.
 
    ![](assets/two-1.png)
 
