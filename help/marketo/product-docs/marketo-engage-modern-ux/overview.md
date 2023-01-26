@@ -201,4 +201,4 @@ Take a look at the new Global Nav.
 >
 >Using the search in the tree will only yield results from the section you're in (e.g., Marketing Activities). If you'd like to search your entire instance, use the global search.
 
-Enjoy the new Marketo Engage experience, and be sure to share your feedback!
+Enjoy the new Marketo Engage experience!
