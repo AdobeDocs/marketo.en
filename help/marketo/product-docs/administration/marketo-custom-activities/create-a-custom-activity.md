@@ -16,7 +16,7 @@ Follow these steps to create a new custom activity.
 
    ![](assets/create-a-custom-activity-1.png)
 
-1. Click **Marketo Custom Activities**.
+1. Click **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/create-a-custom-activity-2.png)
 
