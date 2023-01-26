@@ -16,7 +16,7 @@ You can create custom overlays to view entries relevant to your needs.
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
-1. Select the [!UICONTROL entry types] you'd like to be visible in your overlay.
+1. Select the [!UICONTROL Entry Types] you'd like to be visible in your overlay.
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
