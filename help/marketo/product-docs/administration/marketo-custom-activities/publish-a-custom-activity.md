@@ -12,7 +12,7 @@ You have your custom activity exactly as you want it. Now, it's time to publish 
 
    ![](assets/publish-a-custom-activity-1.png)
 
-1. Click **Marketo Custom Activities**.
+1. Click **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/publish-a-custom-activity-2.png)
 
