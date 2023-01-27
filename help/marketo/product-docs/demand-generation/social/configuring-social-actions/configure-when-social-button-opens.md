@@ -26,7 +26,7 @@ When you create a [social button](/help/marketo/product-docs/demand-generation/l
 
     * **[!UICONTROL On Click]**: When a person clicks the social button.
     * **[!UICONTROL On Page Load]**: As soon as the landing page that contains the social button loads in a person's browser.
-    * **[!UICONTROL On Mouseover**: When a person hovers over the social button.
+    * **[!UICONTROL On Mouseover]**: When a person hovers over the social button.
 
    >[!MORELIKETHIS]
    >
