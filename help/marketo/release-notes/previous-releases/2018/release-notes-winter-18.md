@@ -24,7 +24,7 @@ We have two enhancements to our [!DNL Salesforce] CRM Integration:
 
 These improvements will roll out over 2018.
 
-## [Marketo [!UICONTROL Performance Insights]](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
+## [Marketo Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
 >[!AVAILABILITY]
 >
