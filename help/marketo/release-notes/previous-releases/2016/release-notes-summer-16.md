@@ -22,7 +22,7 @@ Marketo Account Based Marketing provides all of the essentials in one unified pl
 >
 >ABM is available as an add-on to your Marketo subscription, so please contact your sales rep to have it implemented.
 
-## [!UICONTROL Audit Trail](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
+## [[!UICONTROL Audit Trail]](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
 
 Audit trail provides a comprehensive history of the changes made within your Marketo subscription. It will create accountability among users and admins, help identify the cause of unexpected behavior, and provide the security of knowing who's doing what and when. This information will be available at any point in time and can be used to answer questions such as:
 
