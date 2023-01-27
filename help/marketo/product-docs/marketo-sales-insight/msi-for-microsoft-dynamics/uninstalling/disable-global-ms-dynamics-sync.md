@@ -4,7 +4,7 @@ description: Disable Global MS Dynamics Sync - Marketo Docs - Product Documentat
 title: Disable Global MS Dynamics Sync
 exl-id: a8c64e4a-4932-4686-8563-63452d3753e2
 ---
-# Disable Global [DNL MS Dynamics] Sync {#disable-global-ms-dynamics-sync}
+# Disable Global [!DNL MS Dynamics] Sync {#disable-global-ms-dynamics-sync}
 
 Follow these simple steps to disable your [!DNL MS Dynamics] sync.
 
