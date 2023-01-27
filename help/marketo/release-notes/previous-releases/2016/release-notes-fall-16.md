@@ -22,7 +22,7 @@ You can now add predictive content to your email. When the email is opened, the 
 
 ![](assets/predictive.png)
 
-## [[!DNL Facebook] Offline Conversions](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
+## [Facebook Offline Conversions](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
 With [!DNL Facebook] Offline Conversions integration, conversion data in Marketo (for Lead Ad leads) is automatically sent back to [!DNL Facebook] so that your advertising team can better optimize its ad spend. In this [!DNL Facebook] Ad Manager Report, the offline conversions are highlighted.
 
