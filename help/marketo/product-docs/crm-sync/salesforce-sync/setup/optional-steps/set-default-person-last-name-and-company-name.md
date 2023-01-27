@@ -6,7 +6,7 @@ exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 ---
 # Set Default Person Last Name and Company Name {#set-default-person-last-name-and-company-name}
 
-[!DNLSalesforce] requires (minimum) last name and company name for its Leads and Contacts. Incomplete records will not sync to [!DNLSalesforce]. If you wish to sync partial records, you must set default values for Marketo to use with [!DNLSalesforce].
+[!DNL Salesforce] requires (minimum) last name and company name for its Leads and Contacts. Incomplete records will not sync to [!DNL Salesforce]. If you wish to sync partial records, you must set default values for Marketo to use with [!DNL Salesforce].
 
 1. Go to **[!UICONTROL Admin]** and click **[!UICONTROL Salesforce]**.
 
