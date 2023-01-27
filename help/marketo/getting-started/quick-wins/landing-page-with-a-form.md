@@ -58,7 +58,7 @@ Nicely done! Now that we have created a program, let's move on and create some c
    >
    >Don't see the form editor? Your browser probably blocked the window. Enable pop-ups from `app.marketo.com` in your browser and click Edit Draft in the top menu bar.
 
-1. Select the **[!UICONTROL Email Address]** field and check **[!UICONTROL Is Required][!UICONTROL **.
+1. Select the **[!UICONTROL Email Address]** field and check **[!UICONTROL Is Required]**.
 
    ![](assets/landing-page-with-a-form-7.png)
 
