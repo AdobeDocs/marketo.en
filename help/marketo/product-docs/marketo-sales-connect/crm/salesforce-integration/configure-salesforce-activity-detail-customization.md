@@ -98,7 +98,7 @@ Activity Dynamic Fields reference information about your sales activities to pop
 >
 >**Admin permissions required.**
 
-When configuring your activity details, consider what data would be most relevant to sales when reviewing task history in [!DNL Salesforce.
+When configuring your activity details, consider what data would be most relevant to sales when reviewing task history in [!DNL Salesforce].
 
 1. Click the gear icon and select **[!UICONTROL Settings]**.
 
