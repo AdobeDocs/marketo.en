@@ -6,7 +6,7 @@ exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 ---
 # Email Deliverability Power Pack: How to Import a Seed List {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-A Seed List is a list of email accounts at multiple mailbox providers, including Google Apps, [!NDL Hotmail], [!NDL Yahoo!], etc., that are used to approximate the rate of inbox versus spam folder deliverability. Here’s how to get that list into your Marketo instance.
+A Seed List is a list of email accounts at multiple mailbox providers, including Google Apps, [!DNL Hotmail], [!DNL Yahoo!], etc., that are used to approximate the rate of inbox versus spam folder deliverability. Here’s how to get that list into your Marketo instance.
 
 >[!AVAILABILITY]
 >
