@@ -127,7 +127,7 @@ Now it's time to create a stream of content for your engagement program using th
 
 ## Step 6: Add a Test Person to Your Engagement Program {#step-add-a-test-person-to-your-engagement-program}
 
-1. Go to the **[!UICONTROLS Database]** area.
+1. Go to the **[!UICONTROL Database]** area.
 
    ![](assets/drip-drip-nurture-19.png)
 
@@ -139,7 +139,7 @@ Now it's time to create a stream of content for your engagement program using th
    >
    >Make sure the test person has a valid email address so you can confirm the receipt of emails when testing.
 
-1. Right-click on the person, then click **[!UICONTROL Programs]** and **[!UICONTROl Add to Engagement Program...]**.
+1. Right-click on the person, then click **[!UICONTROL Programs]** and **[!UICONTROL Add to Engagement Program...]**.
 
    ![](assets/drip-drip-nurture-21.png)
 
