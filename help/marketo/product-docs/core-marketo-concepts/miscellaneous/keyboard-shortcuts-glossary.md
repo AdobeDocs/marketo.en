@@ -13,7 +13,7 @@ Are you a keyboard shortcuts person? We've got you covered!
 | Keyboard Shortcut |Area |
 |---|---|
 | Alt/Opt + A |[!UICONTROL Analytics] |
-| Alt/Opt + C |[!UICONTROL [!UICONTROL Calendar] |
+| Alt/Opt + C |[!UICONTROL Calendar] |
 | Alt/Opt + D |[!UICONTROL Design Studio] |
 | Alt/Opt + F |[!UICONTROL Global Search] |
 | Alt/Opt + L |[!UICONTROL Database] |
