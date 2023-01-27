@@ -327,7 +327,7 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
 >[!NOTE]
 >
->Are you a [!dLaunch Pack customer? You can skip this step. Your consultant will provide you with [!DNL Munchkin] code instructions in your IT setup instructions document.
+>Are you a [!DNL Launch Pack] customer? You can skip this step. Your consultant will provide you with [!DNL Munchkin] code instructions in your IT setup instructions document.
 
 Marketo has custom tracking JavaScript (called [!DNL Munchkin]) that you can use to track person activities on any web page. [!DNL Munchkin] is required to integrate your website into Marketo. Follow these steps to [Add [!DNL Munchkin] Tracking Code to Your Website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
