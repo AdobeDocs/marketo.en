@@ -1,16 +1,16 @@
 ---
 unique-page-id: 26837421
-description: Create an Account Matched Audience on [!UICONTROL LinkedIn] - Marketo Docs - Product Documentation
-title: "Create an Account Matched Audience on [!UICONTROL LinkedIn]"
+description: Create an Account Matched Audience on [!DNL LinkedIn] - Marketo Docs - Product Documentation
+title: "Create an Account Matched Audience on [!DNL LinkedIn]"
 exl-id: 55f2106d-6078-4a47-ab00-6b6dc950a206
 ---
-# Create an Account Matched Audience on [!UICONTROL LinkedIn] {#create-an-account-matched-audience-on-linkedin}
+# Create an Account Matched Audience on [!DNL LinkedIn] {#create-an-account-matched-audience-on-linkedin}
 
-Create account matched audiences from your TAM Account Lists for [!UICONTROL LinkedIn] Ad Targeting](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting). [!UICONTROL LinkedIn] will match the list to Accounts in their system, and you can create a [!UICONTROL LinkedIn] Audience based on that Account List to activate across [!UICONTROL LinkedIn] channels. This enables marketers to target people in or outside of their database.
+Create account matched audiences from your TAM Account Lists for [!DNL LinkedIn] Ad Targeting](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting). [!DNL LinkedIn] will match the list to Accounts in their system, and you can create a [!DNL LinkedIn] Audience based on that Account List to activate across [!DNL LinkedIn] channels. This enables marketers to target people in or outside of their database.
 
 >[!PREREQUISITES]
 >
->[Add [!UICONTROL LinkedIn] Matched Audiences as a LaunchPoint Service](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[Add [!DNL LinkedIn] Matched Audiences as a LaunchPoint Service](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
 1. In TAM, click the **[!UICONTROL Account Lists]** tab.
 
@@ -24,7 +24,7 @@ Create account matched audiences from your TAM Account Lists for [!UICONTROL Lin
 
    ![](assets/create-a-matched-audience-on-linkedin-3.png)
 
-1. Choose **[!UICONTROL LinkedIn]** and click **[!UICONTROL Next]**.
+1. Choose **[!DNL LinkedIn]** and click **[!UICONTROL Next]**.
 
    ![](assets/create-a-matched-audience-on-linkedin-4.png)
 
@@ -40,8 +40,8 @@ Create account matched audiences from your TAM Account Lists for [!UICONTROL Lin
 
    ![](assets/create-a-matched-audience-on-linkedin-7.png)
 
-And that’s it. Your list of accounts has been pushed over to [!UICONTROL LinkedIn].
+And that’s it. Your list of accounts has been pushed over to [!DNL LinkedIn].
 
 >[!MORELIKETHIS]
 >
->[Use a Marketo List or Smart List as a [!UICONTROL LinkedIn] Audience Segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[Use a Marketo List or Smart List as a [!DNL LinkedIn] Audience Segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
