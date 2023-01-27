@@ -39,7 +39,7 @@ When sending an email through [!DNL Marketo Sales], you have the option of addin
 
 ## Add Trackable Content {#add-trackable-content}
 
-1. Create your email draft (there are multiple ways to do this, in this example we're choosing the **[!UICONTROL Compose** window).
+1. Create your email draft (there are multiple ways to do this, in this example we're choosing the **[!UICONTROL Compose]** window).
 
    ![](assets/add-an-attachment-or-trackable-content-6.png)
 
