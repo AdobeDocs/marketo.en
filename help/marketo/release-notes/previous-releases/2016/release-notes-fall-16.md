@@ -83,7 +83,7 @@ With this release, Marketo ABM users can manage named accounts via the Named Acc
 
 ## [Email Editor v2.0 API Support](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
-Manage variables and modules for emails in v2.0 format using the Marketo [!DNL REST] API.
+Manage variables and modules for emails in v2.0 format using the Marketo REST API.
 
 ## [Changes to Marketo [!DNL Salesforce] Sync](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
