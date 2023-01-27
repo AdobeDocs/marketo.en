@@ -24,7 +24,7 @@ To uninstall MSI from your MS [!DNL Dynamics] instance, you'll need to perform s
 
    ![](assets/seven.png)
 
-1. Select the **[!UICONTROL Disable Sync** checkbox and click **[!UICONTROL Save]**.
+1. Select the **[!UICONTROL Disable Sync]** checkbox and click **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
