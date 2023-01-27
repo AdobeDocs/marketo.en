@@ -105,7 +105,7 @@ Here's how to create a link field in an intermediary object for use in a many-to
    >
    >Only string field types are supported in the [!UICONTROL Link Field].
 
-1. Click **[!UICONTROL Save[!UICONTROL .**
+1. Click **[!UICONTROL Save].**
 
    ![](assets/add-marketo-custom-object-link-fields-16.png)
 
