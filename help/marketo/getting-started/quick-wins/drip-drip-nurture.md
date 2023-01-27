@@ -81,11 +81,11 @@ You can easily create an advanced and sophisticated nurture system in Marketo. H
 
 Now it's time to create a stream of content for your engagement program using the emails you created.
 
-1. Select your engagement program and click the **[!UICONTROLS Streams]** tab.
+1. Select your engagement program and click the **[!UICONTROL Streams]** tab.
 
    ![](assets/drip-drip-nurture-13.png)
 
-1. Click the **[!UICONTROLS Add Content]** button in the stream.
+1. Click the **[!UICONTROL Add Content]** button in the stream.
 
    ![](assets/drip-drip-nurture-14.png)
 
@@ -99,7 +99,7 @@ Now it's time to create a stream of content for your engagement program using th
 
 ## Step 4: Activate Stream Content {#step-activate-stream-content}
 
-1. Activate all content at once by clicking on the stream gear icon, then click **[!UICONTROLS Activate all content]**.
+1. Activate all content at once by clicking on the stream gear icon, then click **[!UICONTROL Activate all content]**.
 
    ![](assets/drip-drip-nurture-16.png)
 
@@ -111,11 +111,11 @@ Now it's time to create a stream of content for your engagement program using th
 
 ## Step 5: Set the Stream Cadence {#step-set-the-stream-cadence}
 
-1. Click **[!UICONTROLS Set Stream Cadence]**.
+1. Click **[!UICONTROL Set Stream Cadence]**.
 
    ![](assets/drip-drip-nurture-17.png)
 
-1. Edit the settings to match the schedule you want and click **[!UICONTROLS Save]**.
+1. Edit the settings to match the schedule you want and click **[!UICONTROL Save]**.
 
    ![](assets/drip-drip-nurture-18.png)
 
@@ -139,11 +139,11 @@ Now it's time to create a stream of content for your engagement program using th
    >
    >Make sure the test person has a valid email address so you can confirm the receipt of emails when testing.
 
-1. Right-click on the person, then click **[!UICONTROLS Programs]** and **[!UICONTROLS Add to Engagement Program...]**.
+1. Right-click on the person, then click **[!UICONTROL Programs]** and **[!UICONTROl Add to Engagement Program...]**.
 
    ![](assets/drip-drip-nurture-21.png)
 
-1. Select your **[!UICONTROLS Program]** and **[!UICONTROLS Stream]**, then click **[!UICONTROLS Run Now]**.
+1. Select your **[!UICONTROL Program]** and **[!UICONTROL Stream]**, then click **[!UICONTROL Run Now]**.
 
    ![](assets/drip-drip-nurture-22.png)
 
