@@ -8,7 +8,7 @@ exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 
 Marketo offers a [[!UICONTROL Target Account Management]](/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md) (TAM) application.
 
-When you use Marketo [!UICONTROL Web Personalization] and [!UICONTRO Target Account Management] (TAM):
+When you use Marketo [!UICONTROL Web Personalization] and [!UICONTROL Target Account Management] (TAM):
 
 * TAM is the source for your [!UICONTROL Account Lists]
 * [!UICONTROL Account Lists] are managed (created, edited, and deleted) in TAM
