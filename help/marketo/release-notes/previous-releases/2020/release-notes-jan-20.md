@@ -48,7 +48,7 @@ The following features are on a non-quarterly cycle and will be released through
 * **Marketo Engage Leads Integration**: Bring Sales and Marketing together with a unified view of leads across [!DNL Bizible] and Marketo Engage. With this update, Marketo Engage can now be used as an additional lead data source, so you no longer have to wait for leads to sync with the CRM to report on lead generation.
 * **Discover Enhancements**: Get more from our Discover Boards in [!DNL Bizible] with enhancements developed from customer feedback, like the ability to drill down to transactional records from tiles and attributes, add essential record counts and corresponding cost-per metrics, and add/remove dashboard filters for multiple dashboards. You will also be taken directly to the default dashboard upon login.
 
-## [DNL Marketo Sky] {#marketo-sky}
+## [!DNL Marketo Sky] {#marketo-sky}
 
 * [Image Editing](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Access Adobe's editing capabilities without having to leave Marketo Engage. This new functionality allows you to easily do things like enhance, crop, and add text to images directly in [!UICONTROL Design Studio].
 
