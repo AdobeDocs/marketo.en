@@ -38,7 +38,7 @@ Learn how to perform bulk actions, like adding leads to a campaign, send a bulk 
 
 ## Add to Campaign {#add-to-campaign}
 
-1. In [!DNL Salesforce], click the **[!UICONTROL Leads]** tab, then the **[!UICONTROL Go** button.
+1. In [!DNL Salesforce], click the **[!UICONTROL Leads]** tab, then the **[!UICONTROL Go]** button.
 
    ![](assets/four-3.png)
 
