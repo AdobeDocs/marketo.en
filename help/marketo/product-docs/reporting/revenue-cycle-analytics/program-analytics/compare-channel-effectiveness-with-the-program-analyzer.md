@@ -28,7 +28,7 @@ Use the [!UICONTROL Program Analyzer] to compare channel costs, member acquisiti
 
    ![](assets/image2014-9-17-18-3a37-3a7.png)
 
-1. Use the **[!UICONTROL Y Axis]** drop-down to choose a metric for the vertical axis. Here, we'll go with **[!UICONTROL (FT) Pipeline Created]]**.
+1. Use the **[!UICONTROL Y Axis]** drop-down to choose a metric for the vertical axis. Here, we'll go with **[!UICONTROL (FT) Pipeline Created]**.
 
    ![](assets/image2014-9-17-18-3a37-3a50.png)
 
