@@ -3,7 +3,7 @@ description: Install Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 
 title: Install Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premises Step 3 of 3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 ---
-# Step 3 of 3: Connect Marketo [!DNL Dynamics (2016 On Prem/[!DNL Dynamics] 365 On-Premises) {#step-of-connect-marketo-dynamics-on-premises-2016}
+# Step 3 of 3: Connect Marketo [!DNL Dynamics] (2016 On Prem/[!DNL Dynamics] 365 On-Premises) {#step-of-connect-marketo-dynamics-on-premises-2016}
 
 >[!PREREQUISITES]
 >
