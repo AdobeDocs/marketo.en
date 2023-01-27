@@ -23,7 +23,7 @@ Our [!UICONTROL Push to Tout] button will take a list of your leads/contacts in 
 1. Click **[!UICONTROL Go]**.
 1. Select all the leads/contacts you want to be pushed to tout.
 1. Select **[!UICONTROL Push to MSE]**.
-1. A new window will appear verifying the number of leads/contacts you'd like to push over. Select **[!UICONTROL Proceed to Group]**.[!DNLSales Connect] will not push over any contacts marked as [!UICONTROL Email Opt Out] in [!DNL Salesforce] or [!UICONTROL Unsubscribed] in [!DNL Sales Connect].
+1. A new window will appear verifying the number of leads/contacts you'd like to push over. Select **[!UICONTROL Proceed to Group]**.[!DNL Sales Connect] will not push over any contacts marked as [!UICONTROL Email Opt Out] in [!DNL Salesforce] or [!UICONTROL Unsubscribed] in [!DNL Sales Connect].
 
    >[!NOTE]
    >
