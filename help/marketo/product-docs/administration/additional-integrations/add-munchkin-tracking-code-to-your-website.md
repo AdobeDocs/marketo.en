@@ -4,7 +4,7 @@ description: "Add [!DNL Munchkin] Tracking Code to Your Website - Marketo Docs -
 title: "Add [!DNL Munchkin] Tracking Code to Your Website"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 ---
-# Add [!DBL Munchkin] Tracking Code to Your Website {#add-munchkin-tracking-code-to-your-website}
+# Add [!DNL Munchkin] Tracking Code to Your Website {#add-munchkin-tracking-code-to-your-website}
 
 Marketo's custom JavaScript tracking code, called [!DNL Munchkin], tracks all individuals who visit your website so you can react to their visits with automated marketing campaigns. Even anonymous visitors are tracked along with their IP addresses and other information. **Without this tracking code, you will not be able to track visits or other activity on your website**!
 
