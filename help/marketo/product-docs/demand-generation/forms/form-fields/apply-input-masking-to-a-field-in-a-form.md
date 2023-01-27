@@ -16,7 +16,7 @@ You can restrict input from your visitor using an input mask. For example, you m
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Select your field and make sure the **[!UICONTROL Field Type*** is set to **[!UICONTROL Text]**.
+1. Select your field and make sure the **[!UICONTROL Field Type]*** is set to **[!UICONTROL Text]**.
 
    >[!NOTE]
    >
