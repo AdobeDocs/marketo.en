@@ -44,9 +44,9 @@ Now, you can assign account teams to named accounts in Account Based Marketing (
 
 ![](assets/account-team-11-15-16.png)
 
-**[!DNL REST] API**
+**REST API**
 
-This release also enables you to manage named account attributes and accounts scores in ABM using the Marketo [!DNL REST] API. For more details on the API operations, please visit the [Marketo Developers website](https://developers.marketo.com/rest-api/lead-database/named-accounts).
+This release also enables you to manage named account attributes and accounts scores in ABM using the Marketo REST API. For more details on the API operations, please visit the [Marketo Developers website](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Audit Trail Enhancements](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
