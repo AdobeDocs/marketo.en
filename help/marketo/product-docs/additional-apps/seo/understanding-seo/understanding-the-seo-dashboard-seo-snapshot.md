@@ -8,7 +8,7 @@ exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 
 Use the dashboard to get a high-level view of how keyword rank is trending and how well your site is optimized for SEO.
 
-To find out what to focus on to improve your SEO efforts, use the [[!UICONTROLRecommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) section of this dashboard.
+To find out what to focus on to improve your SEO efforts, use the [[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) section of this dashboard.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
