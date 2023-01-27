@@ -6,7 +6,7 @@ exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
 ---
 # [!DNL Microsoft Dynamics] Sync: Contact Sync {#microsoft-dynamics-sync-contact-sync}
 
-Did you know Marketo syncs your entire database with [!DNL Dynamics]? It syncs, then waits 5 minutes and then syncs again, all day, every day. Here are some details about how Marketo treats [!DNl Dynamics] Contacts specifically.
+Did you know Marketo syncs your entire database with [!DNL Dynamics]? It syncs, then waits 5 minutes and then syncs again, all day, every day. Here are some details about how Marketo treats [!DNL Dynamics] Contacts specifically.
 
 ## How are details kept in sync between the two systems? {#how-are-details-kept-in-sync-between-the-two-systems}
 
