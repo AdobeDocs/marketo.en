@@ -76,7 +76,7 @@ Even if you've already done your initial sync, go in and select the fields to be
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Click **[!UICONTROL Edit]** on [!UICONTORL Field Sync Details].
+1. Click **[!UICONTROL Edit]** on [!UICONTROL Field Sync Details].
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
