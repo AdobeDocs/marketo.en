@@ -6,7 +6,7 @@ exl-id: 55f2106d-6078-4a47-ab00-6b6dc950a206
 ---
 # Create an Account Matched Audience on [!DNL LinkedIn] {#create-an-account-matched-audience-on-linkedin}
 
-Create account matched audiences from your TAM Account Lists for [!DNL LinkedIn] Ad Targeting](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting). [!DNL LinkedIn] will match the list to Accounts in their system, and you can create a [!DNL LinkedIn] Audience based on that Account List to activate across [!DNL LinkedIn] channels. This enables marketers to target people in or outside of their database.
+Create account matched audiences from your TAM Account Lists for [[!DNL LinkedIn] Ad Targeting](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting). [!DNL LinkedIn] will match the list to Accounts in their system, and you can create a [!DNL LinkedIn] Audience based on that Account List to activate across [!DNL LinkedIn] channels. This enables marketers to target people in or outside of their database.
 
 >[!PREREQUISITES]
 >
