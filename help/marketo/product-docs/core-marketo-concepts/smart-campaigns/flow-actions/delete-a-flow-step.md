@@ -16,7 +16,7 @@ First let's do the basics. Here's how to remove an unwanted flow step from a sma
 
 ![](assets/image2014-9-22-13-3a52-3a20.png)
 
-2. Click **[!UICONTROL Delete]**.
+1. Click **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-22-13-3a55-3a25.png)
 
