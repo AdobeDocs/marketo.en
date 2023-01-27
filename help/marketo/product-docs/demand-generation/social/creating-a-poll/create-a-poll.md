@@ -16,7 +16,7 @@ Engage people with a poll they can vote in and share with their friends on socia
 >
 >If you want to use images in your poll, add them to your Marketo Images and Files library before you begin. Add a 60x60px image for each poll entry. See [Add Images and Files to Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Inside your program, select **[!UICONTROL New]** > **[!UICONTROLNew Local Asset]**.
+1. Inside your program, select **[!UICONTROL New]** > **[!UICONTROL New Local Asset]**.
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
