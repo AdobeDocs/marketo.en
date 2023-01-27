@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14745793
-description: [!DNL Sales Connect] Customizations for CRM - Marketo Docs - Product Documentation
-title: [!DNL Sales Connect] Customizations for CRM
+description: "[!DNL Sales Connect] Customizations for CRM - Marketo Docs - Product Documentation"
+title: "[!DNL Sales Connect] Customizations for CRM"
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 ---
 # [!DNL Sales Connect] Customizations for CRM {#sales-connect-customizations-for-crm}
