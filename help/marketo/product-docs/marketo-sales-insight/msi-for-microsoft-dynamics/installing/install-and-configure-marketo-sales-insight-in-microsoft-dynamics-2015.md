@@ -12,7 +12,7 @@ Marketo Sales Insight is a fantastic tool for giving your sales team a "window" 
 >
 >Complete your Marketo-Microsoft integration.
 >
->[Download the correct solution](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) for your version of [DNL Microsoft Dynamics CRM].
+>[Download the correct solution](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) for your version of [!DNL Microsoft Dynamics CRM].
 
 ## Import Solution {#import-solution}
 
