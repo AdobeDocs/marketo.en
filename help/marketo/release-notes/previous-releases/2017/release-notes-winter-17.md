@@ -78,7 +78,7 @@ Image URL and metadata are now used in the content auto-discovery process.
 
 Developers now have additional control over the delivery of Push Notifications with the addition of a new SDK API call that allows developers to remove push tokens.
 
-## [[!DNL Vibes SMS LaunchPoint] Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
+## [!DNL Vibes SMS LaunchPoint] Integration(/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
 
 Improve your targeting with a new filter option, "Member of Vibes List."
 
