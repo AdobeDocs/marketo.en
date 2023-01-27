@@ -20,7 +20,7 @@ Each Admin user has the ability to change the default values for **[!UICONTROL F
 
    ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. Enter the default values you want for **[!!UICONTROL From Email]** and **[!UICONTROL From Label]** then click **[!UICONTROL Save Changes]**.
+1. Enter the default values you want for **[!UICONTROL From Email]** and **[!UICONTROL From Label]** then click **[!UICONTROL Save Changes]**.
 
    ![](assets/change-the-default-from-email-and-from-label-3.png)
 
