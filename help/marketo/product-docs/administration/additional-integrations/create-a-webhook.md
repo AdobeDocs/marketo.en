@@ -48,4 +48,4 @@ Use Webhooks to take advantage of third-party web services to send text messages
 
 >[!NOTE]
 >
->Learn more in the [[!DNL Webhooks]](https://developers.marketo.com/documentation/webhooks/) deep dive.
+>Learn more in the [!DNL Webhooks](https://developers.marketo.com/documentation/webhooks/) deep dive.
