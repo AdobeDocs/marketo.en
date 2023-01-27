@@ -68,7 +68,7 @@ When you initially sync your Marketo account with [!DNL Salesforce], Marketo aut
 
 ## Account Fields {#account-fields}
 
-| [!UICONTROL SFDC field |[!UICONTROL Marketo field |
+| [!UICONTROL SFDC field] |[!UICONTROL Marketo field] |
 |---|---|
 | [!UICONTROL Annual Revenue] |[!UICONTROL Annual Revenue] |
 | [!UICONTROL Billing City] |[!UICONTROL Billing City] |
