@@ -73,7 +73,7 @@ Give your iOS Push Notification added richness by enabling sound. This new featu
 
 ![](assets/sound-for-push-notifications.png)
 
-## [[!DNL Sales Insight] Compatible with [!DNL Salesforce] Encryption](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
+## [Sales Insight Compatible with Salesforce Encryption](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
 Market [!DNL Sales Insight] is now compatible with [!DNL Salesforce] Shield Encryption. All [!DNL Sales Insight] customers should upgrade to this latest managed package (version 1.4359.2), which is [available on the [!DNL Appexchange]](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
@@ -85,6 +85,6 @@ With this release, Marketo ABM users can manage named accounts via the Named Acc
 
 Manage variables and modules for emails in v2.0 format using the Marketo REST API.
 
-## [Changes to Marketo [!DNL Salesforce] Sync](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
+## [Changes to Marketo Salesforce Sync](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
 Marketo’s [!DNL Salesforce] integration is evolving to improve the way that Marketo fields are synced with [!DNL Salesforce]. Now, instead of having to sync a large group of fields that you may or may not need, you can pick and choose which fields you’d like to have included. Check out our documentation here for more information: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
