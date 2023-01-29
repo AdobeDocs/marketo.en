@@ -23,8 +23,6 @@ At first log in, a pop-up will appear, ready to give you the rundown of the new 
 
 The tour walks you through everything you need to know!
 
-![](assets/overview-2.png)
-
 ## What's New {#whats-new}
 
 There's a lot of new functionality in the Modern UX, all of which is designed to significantly improve your marketing experience.
@@ -33,7 +31,7 @@ There's a lot of new functionality in the Modern UX, all of which is designed to
 
 The new interface features improved and expanded iconography. Learn about them here: [Icon Glossary](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
 
-![](assets/overview-new-icons.png)
+![](assets/overview-2.png)
 
 **Global Navigation**
 
@@ -184,15 +182,12 @@ Take a look at the new Global Nav.
    <td>All previous superball items listed out</td> 
   </tr>
   <tr>
-   <td>3</td> 
-   <td>Use this to provide feedback about your experience</td> 
-  </tr>
   <tr>
-   <td>4</td> 
+   <td>3</td> 
    <td>If you have multiple subscriptions, click on your sub name to easily switch to another one</td> 
   </tr>
   <tr>
-   <td>5</td> 
+   <td>4</td> 
    <td>Global search - you can now search your entire instance from here</td> 
   </tr>
  </tbody>
@@ -206,4 +201,4 @@ Take a look at the new Global Nav.
 >
 >Using the search in the tree will only yield results from the section you're in (e.g., Marketing Activities). If you'd like to search your entire instance, use the global search.
 
-Enjoy the new Marketo Engage experience, and be sure to share your feedback!
+Enjoy the new Marketo Engage experience!
