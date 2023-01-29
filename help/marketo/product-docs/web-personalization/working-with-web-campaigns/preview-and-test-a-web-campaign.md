@@ -50,7 +50,7 @@ This article shows you different ways to preview a web campaign, and also how to
 
    ![](assets/six.png)
 
-1. Go back to Marketo. Add the page URL and click **Preview**.
+1. Go back to Marketo. Add the page URL and click **[!UICONTROL Preview]**.
 
    ![](assets/seven.png)
 
