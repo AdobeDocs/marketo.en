@@ -56,7 +56,7 @@ You can change the way Marketo ties contacts and opportunities for first and mul
 
 You can change the program attribution settings to one of three choices. Changing this setting does not modify any Marketo or CRM data; it simply changes the way your reports run and it can be reverted at any time.
 
-The [!UICONTROL Explicit] setting will only examine contacts with roles (current behavior). [!UICONTROL Implicit] will examine all contacts associated to the account regardless of role. We strongly recommend using the [!UICONTROL Explicit] mode if possible. Using [!UICONTROL Implicit] may create false positives, people with credit for an opportunity despite having no real influence in the opportunity.
+The Explicit setting will only examine contacts with roles (current behavior). Implicit will examine all contacts associated to the account regardless of role. We strongly recommend using the Explicit mode if possible. Using Implicit may create false positives, people with credit for an opportunity despite having no real influence in the opportunity.
 
 ![](assets/image2014-9-22-17-3a12-3a43.png)
 
