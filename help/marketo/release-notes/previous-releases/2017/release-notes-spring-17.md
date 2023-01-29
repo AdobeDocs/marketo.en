@@ -74,7 +74,7 @@ Customize the Close Button for dialog boxes. Select from a range of options used
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
-**[Archive [!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
+**[Archive Web Campaigns](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
 
 Archive is a new Web Campaign status that allows you to archive [!UICONTROL Web Campaigns] and hide them from the default Web Campaign view. This lets you focus on your most relevant, active campaigns and retrieve older archived campaigns on demand.
 
