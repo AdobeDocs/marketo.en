@@ -4,7 +4,7 @@ description: Clone a Web Campaign - Marketo Docs - Product Documentation
 title: Clone a Web Campaign
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 ---
-# Clone a [!UICONTROL Web Campaign] {#clone-a-web-campaign}
+# Clone a Web Campaign {#clone-a-web-campaign}
 
 Use the clone feature on the [!UICONTROL Web Campaigns] page to copy the campaign settings and change the content for split testing optimization, or clone a campaign with the same content and target it toward a different segment. Create web campaigns in seconds!
 
