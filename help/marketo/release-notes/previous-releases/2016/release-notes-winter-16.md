@@ -18,15 +18,15 @@ The [!UICONTROL Lead Database] has an updated Summary Dashboard that includes to
 
 ![](assets/image2016-1-12-16-3a18-3a7.png)
 
-## [[!DNL Microsoft Edge] Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
+## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
 We've added [!DNL Microsoft Edge] to the [list of browsers](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) supported by Marketo.
 
-## [[!DNL Microsoft Outlook] 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
+## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
 [[!DNL Microsoft Outlook] 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) is now supported.
 
-## [Email Program [!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
+## [Email Program Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
 Use [!UICONTROL Head Start] to indicate that processing for your send should occur ahead of time. Instead of qualifying leads and preparing emails at the scheduled time of the program, [!UICONTROL Head Start] ensures that these tasks are done beforehand. This way, your audience will start receiving emails at the scheduled time.
 
@@ -52,7 +52,7 @@ To use this feature, the email program must be scheduled at least 12 hours in ad
 
 Create, update, and clone programs via the REST API. This does not include the creation or updating of smart lists and smart campaigns within a program.
 
-## [[!DNL Microsoft Dynamics] Enhancements](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
+## [Microsoft Dynamics Enhancements](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
 **[[!UICONTROL Sync Status]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**: Keep tabs on the current throughput and backlog of the sync process. Break it down by the count of inserts and updates by object.
 
@@ -68,7 +68,7 @@ You now can create many-to-many relationships between Leads/Accounts and a custo
 
 ![](assets/image2016-1-11-12-3a59-3a59.png)
 
-## [[!UICONTROL Facebook Lead Ads]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
+## [Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
 [[!UICONTROL Facebook Lead ads]](https://www.facebook.com/business/a/lead-ads) are a more direct way for a business to run lead generation campaigns on [!DNL Facebook]. People fill out a form to express interest in a product or service, so the business can follow up with them. The Marketo integration with [!UICONTROL Facebook Lead Ads] automatically captures the information a lead provides within the Lead Ad form. Follow up actions and notifications can then be automated using the new [!UICONTROL Fills Out Facebook Lead Ads] trigger.
 

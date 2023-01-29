@@ -36,7 +36,7 @@ With this new feature, you can now hold and deliver email according to local tim
 
 Marketo has a new option to pick a segment when sending sample emails for review. You no longer need to manually determine which segment a lead belongs to, making it easier to send emails containing dynamic content to different segments.
 
-## [[!UICONTROL LinkedIn Lead Gen] Custom Questions](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## [LinkedIn Lead Gen Custom Questions](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
 Customize your [!UICONTROL LinkedIn Lead Gen] forms to collect custom lead attributes. You can now ask up to three custom questions per form, choose from single line text input or multiple-choice questions, and map back to Marketo lead fields.
 

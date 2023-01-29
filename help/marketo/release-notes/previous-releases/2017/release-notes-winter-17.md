@@ -14,7 +14,7 @@ Please click the title links to view detailed articles for each feature.
 >
 >If a topic has multiple subheadings, the links are placed there.
 
-## [Advanced Matching for [!DNL Facebook] Custom Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
+## [Advanced Matching for Facebook Custom Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
 
 Basic Matching uses email addresses only, but new Advanced Matching uses an additional seven fields, increasing the match rate for more conversion.
 
@@ -78,7 +78,7 @@ Image URL and metadata are now used in the content auto-discovery process.
 
 Developers now have additional control over the delivery of Push Notifications with the addition of a new SDK API call that allows developers to remove push tokens.
 
-## [[!DNL Vibes SMS LaunchPoint] Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
+## [Vibes SMS LaunchPoint Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
 
 Improve your targeting with a new filter option, "Member of Vibes List."
 

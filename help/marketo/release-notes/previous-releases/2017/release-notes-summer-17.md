@@ -10,13 +10,13 @@ The following features are included in the Summer '17 release. Check your Market
 
 Please click the title links to view detailed articles for each feature. Note: Some of the features included in this release do not have associated articles. If a topic has multiple subheadings, the links are placed there.
 
-## [Additional [!DNL Facebook] Offline Conversion Stages](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
+## [Additional Facebook Offline Conversion Stages](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
 
 Choose up to 7 additional offline conversion stages to map to your Marketo lifecycle stages (beyond the 3 available today). Optimize your [!DNL Facebook] ad spend based on conversions across your customer journey to achieve better ROI.
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
-## [Lock [!DNL Sales Insight] Template](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
+## [Lock Sales Insight Template](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
 
 Ensure consistency of message and content by preventing edits to your sales templates. This helps standardize templates and maintain professional communications.
 
@@ -28,7 +28,7 @@ Ensure consistency of message and content by preventing edits to your sales temp
 
 Match people to Japanese company names in the local language.
 
-**[ABM and [!DNL LeanData] Integration](https://docs.marketo.com/x/pKmt)**
+**[ABM and LeanData Integration](https://docs.marketo.com/x/pKmt)**
 
 [!DNL LeanData] integration now allows for lead-to-account matching in Marketo. Keep marketing and sales aligned by having the same leads associated with accounts within the sales and marketing systems of record. More flexible options give Marketing and Sales Operations more control over lead-to-account matching rules, so they can achieve their desired level of precision.
 

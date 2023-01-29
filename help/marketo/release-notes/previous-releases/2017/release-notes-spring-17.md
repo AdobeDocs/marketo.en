@@ -10,7 +10,7 @@ The following features are included in the Spring '17 release. Check your Market
 
 Please click the title links to view detailed articles for each feature. **Note**: If a topic has multiple subheadings, the links are placed there.
 
-## [[!UICONTROL LinkedIn Lead Gen] Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
 [[!UICONTROL LinkedIn Lead Gen] Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) are a more direct way for a business to run lead generation campaigns on [!DNL LinkedIn]. People can fill out forms to express interest in a product or service, enabling the business to capture the person’s details and sync them to Marketo, where automated follow-up processes and lead routing activities can occur.
 
