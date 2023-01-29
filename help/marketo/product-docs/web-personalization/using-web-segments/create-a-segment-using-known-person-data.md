@@ -46,7 +46,7 @@ Here's how to create a segment using Known Person Data values.
 
    ![](assets/eight.png)
 
-1. Select the [!UICONTROL AND/OR] operator. Select the field to add. Select a Person Data Field. Enter Person Data Value.
+1. Select the [!UICONTROL AND]/[!UICONTROL OR] operator. Select the field to add. Select a Person Data Field. Enter Person Data Value.
 
    ![](assets/nine.png)
 
