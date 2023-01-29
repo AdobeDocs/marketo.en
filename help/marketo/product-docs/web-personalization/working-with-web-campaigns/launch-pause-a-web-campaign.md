@@ -8,7 +8,7 @@ exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 
 A web campaign is a customized reaction associated with a specific segment and can be a [dialog box](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) on your website, an [in zone replacement](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), a widget feature, or an email alert.
 
-You can launch or pause a web campaign in two ways from the [!UICONTROL Web Campaigns] page or Set [!UICONTROL Web Campaigns] page.
+You can launch or pause a web campaign in two ways from the [!UICONTROL Web Campaigns] page or [!UICONTROL Set Web Campaigns] page.
 
 1. Click **[!UICONTROL Web Personalization]**.
 
