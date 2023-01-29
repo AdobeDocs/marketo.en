@@ -8,7 +8,7 @@ exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 
 The following features are included in the May 2014 release. Please check your Marketo Edition for feature availability. After the release, be sure to come back to find links to detailed Knowledge Base articles for each feature!
 
-## [!UICONTROL Delete Workspace] {#delete-workspace}
+## Delete Workspace {#delete-workspace}
 
 Now you can [delete an unused workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Be sure to move all assets into another workspace before attempting to delete the workspace.
 
