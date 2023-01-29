@@ -4,7 +4,7 @@ description: View Web Campaigns from a Specific Label - Marketo Docs - Product D
 title: View Web Campaigns from a Specific Label
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 ---
-# View [!UICONTROL Web Campaigns] from a Specific Label {#view-web-campaigns-from-a-specific-label}
+# View Web Campaigns from a Specific Label {#view-web-campaigns-from-a-specific-label}
 
 Looking to view and filter your campaigns according to a specific label?
 
