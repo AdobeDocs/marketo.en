@@ -4,7 +4,7 @@ description: Create In-App Message Text - Marketo Docs - Product Documentation
 title: Create In-App Message Text
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 ---
-# Create [!UICONTROL In-App Message] Text {#create-in-app-message-text}
+# Create In-App Message Text {#create-in-app-message-text}
 
 Click the text area to work on your text style and content.
 
