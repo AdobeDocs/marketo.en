@@ -65,7 +65,7 @@ These details include:
 * The domain sites associated with the segment
 * A short summary of the selected criteria of the segment
 
-## [!UICONTROL Enable] or [!UICONTROL Disable] a Segment {#enable-or-disable-a-segment}
+## Enable or Disable a Segment {#enable-or-disable-a-segment}
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
