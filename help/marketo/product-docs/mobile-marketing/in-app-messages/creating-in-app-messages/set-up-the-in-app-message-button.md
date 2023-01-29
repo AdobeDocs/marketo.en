@@ -4,7 +4,7 @@ description: Set Up the In-App Message Button - Marketo Docs - Product Documenta
 title: Set Up the In-App Message Button
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 ---
-# Set Up the [!UICONTROL In-App Message] Button {#set-up-the-in-app-message-button}
+# Set Up the In-App Message Button {#set-up-the-in-app-message-button}
 
 You can use the default button design, modify it, or upload your own custom button image.
 
