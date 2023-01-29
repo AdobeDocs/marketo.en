@@ -8,7 +8,7 @@ exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 
 The following features are included in the February 2014 release. Please check your Marketo Edition for feature availability. After the release, be sure to come back to find links to detailed Knowledge Base articles for each feature!
 
-## [!UICONTROL Engagement Score] as [!UICONTROL Winning Criteria] {#engagement-score-as-winning-criteria}
+## [!UICONTROL Engagement Score] as Winning Criteria {#engagement-score-as-winning-criteria}
 
 [Use the engagement score](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) to determine the winning variant in your A/B split test or Champion/Challenger test. The test must run for a minimum of 24 hours, to give an adequate engagement score.
 
