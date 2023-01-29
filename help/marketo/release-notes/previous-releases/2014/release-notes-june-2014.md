@@ -26,9 +26,9 @@ When you send a test email from [!DNL Sales Insight], currently tokens in the em
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
-## Lead [!DNL ReST] API {#lead-rest-api}
+## Lead REST API {#lead-rest-api}
 
-Create, read, and update leads programmatically through our new [!DNL ReST] API. To get started with [!DNL ReST] you need to [create a custom service](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo. Then head over to the [developers site](https://developers.marketo.com/documentation/rest/) for details on using this API.
+Create, read, and update leads programmatically through our new REST API. To get started with REST you need to [create a custom service](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo. Then head over to the [developers site](https://developers.marketo.com/documentation/rest/) for details on using this API.
 
 ## Marketo Real-Time Personalization (RTP) Campaigns Page Update {#marketo-real-time-personalization-rtp-campaigns-page-update}
 

@@ -35,13 +35,13 @@ When you click the email deliverability tile, you no longer need to provide your
 
 ## Campaign Prioritization {#campaign-prioritization}
 
-Have you set up several personalized [!DNL RTP] campaigns and noticed that some of them may overlap with others? Go ahead and set a priority for which campaigns’ [!DNL RTP] should show over others.
+Have you set up several personalized RTP campaigns and noticed that some of them may overlap with others? Go ahead and set a priority for which campaigns’ RTP should show over others.
 
 ![](assets/image2015-7-9-20-3a20-3a58.png)
 
 ## Company API {#company-api}
 
-**Company object access via the [!DNL REST] API**: The [!DNL REST] API now provides access to the Marketo Company (a.k.a. Account) object. That means you can read, update and delete company objects you created in Marketo and associate leads with such companies using the updated [!DNL Lead] API.
+**Company object access via the REST API**: The REST API now provides access to the Marketo Company (a.k.a. Account) object. That means you can read, update and delete company objects you created in Marketo and associate leads with such companies using the updated [!DNL Lead] API.
 
 Learn [more](https://developers.marketo.com/documentation/company-api/) in our reference guide for the Company API.
 

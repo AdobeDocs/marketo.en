@@ -45,7 +45,7 @@ View and make changes to settings in the My Account section of Admin.
 * Access Sales Insight - Gives users access to manage Sales Insight in Admin, for setting Status, API Configuration, Person Scoring, and other settings
 * Access Single Sign-on - Gives users access to manage Single Sign-on in Admin, for enabling SAML and working with SAML settings and Redirect Page URLs
 * Access Smart Campaign - Gives users access to Smart Campaign in Admin, for restricting limits on qualified people
-* Access [!DNL SOAP] API - Gives users access to manage [!DNL SOAP] APIs in Web Services in Admin
+* Access SOAP API - Gives users access to manage SOAP APIs in Web Services in Admin
 * Access Tags - Gives users access to all custom tags except the Channel tag
 * Access Treasure Chest - Gives users access to the experimental features in the Treasure Chest in Admin
 * Access Users - Gives users access to edit and manage users (but not roles) in Admin

@@ -14,7 +14,7 @@ Check your Marketo edition for feature availability. Documentation will come at 
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
-## New [!DNL ReST] API Calls {#new-rest-api-calls}
+## New REST API Calls {#new-rest-api-calls}
 
 Use the API to pull new activities or changes to leads:
 

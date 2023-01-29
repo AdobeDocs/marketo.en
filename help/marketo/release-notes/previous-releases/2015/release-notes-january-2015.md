@@ -16,9 +16,9 @@ You can now [build mobile views for landing pages](/help/marketo/product-docs/de
 
 [-Landing Page Walkthrough Video-](https://youtu.be/aPQHlG2X6c0)
 
-**New [!DNL Rest] API Calls**
+**New REST API Calls**
 
-Three new calls for the Lead & Activity [!DNL ReST] API:
+Three new calls for the Lead & Activity REST API:
 
 * Delete Lead
 * Get Leads by Program ID
@@ -40,21 +40,21 @@ Remarketing shows ads to people who have visited your website. You can now perso
 
 Enhancements to the Named Accounts module will improve the match rates and validations for users. Additions include:
 
-* Matching organizations from your Named Account list using Lead’s email address (also for [!DNL RTP]-only customers)
+* Matching organizations from your Named Account list using Lead’s email address (also for RTP-only customers)
 * Support for up to 100K records per account
 * CSV file template to view and download
 
 ![](assets/image2015-1-14-11-3a12-3a16.png)
 
-**Updated [!DNL RTP] Tag Options**
+**Updated RTP Tag Options**
 
-[!DNL RTP] Tag options under Account Settings have been updated to include:
+RTP Tag options under Account Settings have been updated to include:
 
 1. CDN and Asynchronous (Recommended tag)
 1. CDN and Synchronous (High Speed)
 1. Asynchronous tag without CDN
 1. Synchronous tag without CDN
 
-For best performance, it is recommended to place the tag at the top of the header in your web page after `<head>`. All tags allow for use of the [[!DNL RTP] API](https://developers.marketo.com/documentation/websites/rtp-js-api/). For information on how to deploy the [!DNL RTP] Tag see [here](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+For best performance, it is recommended to place the tag at the top of the header in your web page after `<head>`. All tags allow for use of the [RTP API](https://developers.marketo.com/documentation/websites/rtp-js-api/). For information on how to deploy the RTP Tag see [here](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

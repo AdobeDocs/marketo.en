@@ -38,9 +38,9 @@ In addition to the marketing calendar you manage your events and default program
 * New Tentative Dates - pencil it in!
 * Custom Entry types - ToDo, Press Release, anything you want
 
-## List Operations in the [!DNL ReST] API {#list-operations-in-the-rest-api}
+## List Operations in the REST API {#list-operations-in-the-rest-api}
 
-We’ve added the calls below related to list operations in [!DNL ReST]. See [developers.marketo.com](https://developers.marketo.com/documentation/rest/) for the full documentation.
+We’ve added the calls below related to list operations in REST. See [developers.marketo.com](https://developers.marketo.com/documentation/rest/) for the full documentation.
 
 * Get List By ID
 * Get Multiple Lists
@@ -75,6 +75,6 @@ New RTP API call to get real-time visitor data such as organization, industry, l
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
-## RTP: [!DNL HTML5] support in Campaign Content Editor {#rtp-html-support-in-campaign-content-editor}
+## RTP: HTML5 support in Campaign Content Editor {#rtp-html-support-in-campaign-content-editor}
 
-The content WYSIWYG editor in the Set Campaigns page now has full [!DNL HTML5] compatibility. Click on the “HTML” icon within the editor to insert any [!DNL HTML5] code.
+The content WYSIWYG editor in the Set Campaigns page now has full HTML5 compatibility. Click on the “HTML” icon within the editor to insert any HTML5 code.

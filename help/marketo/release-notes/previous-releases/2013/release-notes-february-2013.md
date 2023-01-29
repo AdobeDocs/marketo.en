@@ -16,9 +16,9 @@ The latest versions of  [!DNL Apple Safari] for Mac and  [!DNL Windows] are full
 
 Webhooks is enhanced to escape tokens in the URL/payload and can also update Marketo lead fields by parsing XML/JSON responses from 3rd party systems (not available in the  [!DNL Spark SMB Edition]).
 
-## Updated  [!DNL SOAP] API Endpoint {#updated-soap-api-endpoint}
+## Updated  SOAP API Endpoint {#updated-soap-api-endpoint}
 
-The preferred  [!DNL SOAP] API endpoint has been updated, which is shown in [!UICONTROL Admin] ->  [!DNL SOAP] API. Please update your calls to use this new endpoint. API calls to the old endpoint are deprecated, but will continue to function. ([!DNL SOAP] API not available in the [!DNL Spark SMB Edition])
+The preferred  SOAP API endpoint has been updated, which is shown in [!UICONTROL Admin] ->  SOAP API. Please update your calls to use this new endpoint. API calls to the old endpoint are deprecated, but will continue to function. (SOAP API not available in the [!DNL Spark SMB Edition])
 
 ## Mobile Support for [!DNL Facebook] Tabs {#mobile-support-for-facebook-tabs}
 

@@ -48,9 +48,9 @@ Links within email scripts will now be tracked and available within the Email Li
 
 We’ve rolled out a new security feature to automatically HTML encode tokens, which will be enabled by default in March 2015. Until then, toggle this functionality in Field Management to test the behavior ahead of time. All lead and company tokens will be encoded when inserted into emails or landing pages. Options will also be available for individual fields.
 
-## New [!DNL ReST] API Calls {#new-rest-api-calls}
+## New REST API Calls {#new-rest-api-calls}
 
-Three new calls for the Lead & Activity [!DNL ReST] API:
+Three new calls for the Lead & Activity REST API:
 
 · Get Lead Partitions
 

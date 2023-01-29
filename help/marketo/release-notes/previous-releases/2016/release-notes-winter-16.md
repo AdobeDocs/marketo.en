@@ -50,7 +50,7 @@ To use this feature, the email program must be scheduled at least 12 hours in ad
 
 ## [Program API](https://developers.marketo.com/documentation/programs/) {#program-api}
 
-Create, update, and clone programs via the [!DNL REST] API. This does not include the creation or updating of smart lists and smart campaigns within a program.
+Create, update, and clone programs via the REST API. This does not include the creation or updating of smart lists and smart campaigns within a program.
 
 ## [[!DNL Microsoft Dynamics] Enhancements](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 

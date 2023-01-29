@@ -30,7 +30,7 @@ The Email Analysis feature as a whole will be turned on in phases during April a
 
 ## Program APIs {#program-apis}
 
-Support for programs in the [!DNL SOAP] API call, including read-only access to program data such as: program membership counts, acquired by, success, settings, channels, tags, tokens and costs. Please see the [!DNL SOAP] API documentation for more details.
+Support for programs in the SOAP API call, including read-only access to program data such as: program membership counts, acquired by, success, settings, channels, tags, tokens and costs. Please see the SOAP API documentation for more details.
 
 ## [!DNL ON24] Enhancement {#on-enhancement}
 

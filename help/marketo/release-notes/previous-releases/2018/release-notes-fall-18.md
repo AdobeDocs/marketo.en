@@ -87,7 +87,7 @@ We’ve implemented a refresh token within our retargeting and [!UICONTROL Linke
 
 ## API {#api}
 
-**Lead Map [!DNL REST] API**
+**Lead Map REST API**
 
 Marketo now supports the use of email-disposition fields over the Lead APIs (includes Black Listed, Marketing Suspended, Email Suspended, and Relative Urgency).
 
