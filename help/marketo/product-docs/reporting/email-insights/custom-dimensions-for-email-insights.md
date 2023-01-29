@@ -16,7 +16,7 @@ All of the standard Marketo dimensions are included, but you have the option of 
 >
 >Custom dimensions **cannot** be deleted or replaced, so choose your 10 carefully.
 
-1. [!UICONTROL In Email Insights], click the gear icon in the upper-right of the page.
+1. In [!UICONTROL Email Insights], click the gear icon in the upper-right of the page.
 
    ![](assets/cd1.png)
 
