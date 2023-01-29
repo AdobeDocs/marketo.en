@@ -4,7 +4,7 @@ description: Define Period Costs - Marketo Docs - Product Documentation
 title: Define Period Costs
 exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 ---
-# Define [!UICONTROL Period Costs] {#define-period-costs}
+# Define Period Costs {#define-period-costs}
 
 >[!NOTE]
 >
