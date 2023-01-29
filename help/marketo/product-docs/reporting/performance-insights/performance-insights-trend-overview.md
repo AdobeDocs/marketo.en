@@ -4,7 +4,7 @@ description: Performance Insights Trend Overview - Marketo Docs - Product Docume
 title: Performance Insights Trend Overview
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 ---
-# [!UICONTROL Performance Insights] [!UICONTROL Trend] Overview {#performance-insights-trend-overview}
+# [!UICONTROL Performance Insights] Trend Overview {#performance-insights-trend-overview}
 
 [!UICONTROL Trend] shows channel performance of across a period of time.
 
