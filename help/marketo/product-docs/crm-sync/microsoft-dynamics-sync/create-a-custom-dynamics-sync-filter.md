@@ -19,7 +19,7 @@ To set up a Dynamics sync filter:
 >
 >You must make these changes in Dynamics CRM, not your database or Marketo.
 
-Marketo looks for this field during the automatic background sync and determines which records to sync over based on this logic: 
+Marketo looks for this field during the automatic background sync and determines which records to sync over based on this logic:
 
 | Field Value |Sync to Marketo? |
 |---|---|
@@ -72,7 +72,7 @@ Marketo looks for this field during the automatic background sync and determines
 
 Even if you've already done your initial sync, go in and select the fields to be synced with Marketo.
 
-1. Go to Admin and select **MIcrosoft Dynamics**.
+1. Go to Admin and select **Microsoft Dynamics**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
