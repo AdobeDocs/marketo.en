@@ -62,5 +62,9 @@ The following features are currently available in the Modern UX (with new featur
 * Landing Page Details View
 * Landing Page List View
 * Landing Page Template Details
+* Landing Page Template List
 * Snippet Details View
+* Snippet List View
+
+
 
