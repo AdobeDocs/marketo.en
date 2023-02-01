@@ -49,7 +49,7 @@ Select **Enable for all available features** and click **OK**.
 
 ## Available Features {#available-features}
 
-The following features are currently available in the Modern UX (with new features added each Release):
+The following features are currently available in the Modern UX (with new features added each release):
 
 * Email Details View
 * Email List View
