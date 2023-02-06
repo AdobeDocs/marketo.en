@@ -1669,7 +1669,6 @@ feature-set: Marketo Engage
       + [Performance Insights Settings](product-docs/reporting/performance-insights/performance-insights-settings.md)
       + [Performance Insights Trend Overview](product-docs/reporting/performance-insights/performance-insights-trend-overview.md)
       + [Setting Up Performance Insights](product-docs/reporting/performance-insights/setting-up-performance-insights.md)
-      + [Sync Custom Fields to Performance Insights](product-docs/reporting/performance-insights/sync-custom-fields-to-performance-insights.md)
     + Revenue Cycle Analytics {#revenue-cycle-analytics}
       + Email Analysis {#email-analysis}
         + [Build an Email Analysis Report that Lists Leads](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-lists-leads.md)
