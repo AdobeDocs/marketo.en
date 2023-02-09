@@ -6,7 +6,7 @@ title: Campaign Inspector
 
 Use the Campaign Inspector to view/search all of your Smart Campaigns in one place.
 
-## Activate Campaign Inspector {#activate-campaign-inspector}
+## Enable Campaign Inspector {#enable-campaign-inspector}
 
 1. Go to the **Admin** area.
 
