@@ -50,6 +50,10 @@ Account Smart Lists work similarly to standard Smart Lists, with a notable excep
 
    ![](assets/account-smart-lists-8.png)
 
+   >[!NOTE]
+   >
+   >ICP indicator data that was used in your [Account Profiling Ranking and Tuning](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) will appear as custom Account Attributes for use in your Account Smart List. This custom attribute data is based on when the Account Profile Model was created/updated.
+
 1. Choose your Matched Person Filter(s). In this example we're choosing _State is California_.
 
    ![](assets/account-smart-lists-9.png)
