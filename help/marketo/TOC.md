@@ -175,6 +175,7 @@ feature-set: Marketo Engage
       + [Understanding Marketo Subscription and User Migration to the Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
     + Settings {#settings}
       + [Bulk Export API Information](product-docs/administration/settings/bulk-export-api-information.md)
+      + [Campaign Inspector](product-docs/administration/settings/campaign-inspector.md)
       + [Change Attribution Settings for Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
       + [Change Your Marketo Password](product-docs/administration/settings/change-your-marketo-password.md)
       + [Change your Password Security Settings](product-docs/administration/settings/change-your-password-security-settings.md)
