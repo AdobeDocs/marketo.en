@@ -24,6 +24,10 @@ Use the Campaign Inspector to view/search all of your Smart Campaigns in one pla
 
    ![](assets/campaign-inspector-4.png)
 
+   >[!NOTE]
+>
+>The desired workspace needs to be selected in the tree in order to see the Campaign Inspector tab after it's been enabled.
+
 ## Using Campaign Inspector {#using-campaign-inspector}
 
 Once enabled, the Campaign Inspector tab can be found next to the Marketing Activities tab.
