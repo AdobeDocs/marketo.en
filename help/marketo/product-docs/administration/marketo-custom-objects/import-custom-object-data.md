@@ -10,23 +10,23 @@ It's easy to import custom object data into your database. If you're using custo
 
 1. In My Marketo, go to **Database**.
 
-   ![](assets/db-1.png)
+   ![](assets/import-custom-object-data-1.png)
 
 1. Click **New** and select **Import Custom Object Data**.
 
-   ![](assets/image2016-4-7-10-6-54.png)
+   ![](assets/import-custom-object-data-2.png)
 
 1. Click **Browse** to locate the data file. Select the file format (Comma Separated Values in this example).
 
-   ![](assets/image2016-4-13-14-3a21-3a53.png)
+   ![](assets/import-custom-object-data-3.png)
 
 1. Select your custom object.
 
-   ![](assets/image2016-4-13-14-3a24-3a54.png)
+   ![](assets/import-custom-object-data-4.png)
 
 1. Select the Dedupe Mode from the drop-down. Click **Next**.
 
-   ![](assets/image2016-4-13-14-3a28-3a7.png)
+   ![](assets/import-custom-object-data-5.png)
 
    >[!NOTE]
    >
@@ -34,7 +34,7 @@ It's easy to import custom object data into your database. If you're using custo
 
 1. Map each column to a Marketo field, selecting it from the drop-down.
 
-   ![](assets/image2016-4-13-14-3a36-3a57.png)
+   ![](assets/import-custom-object-data-6.png)
 
    >[!NOTE]
    >
@@ -42,11 +42,11 @@ It's easy to import custom object data into your database. If you're using custo
 
 1. Click **Next**.
 
-   ![](assets/image2016-4-13-14-3a38-3a41.png)
+   ![](assets/import-custom-object-data-7.png)
 
 1. Click **Import**.
 
-   ![](assets/image2016-4-7-13-3a15-3a9.png)
+   ![](assets/import-custom-object-data-8.png)
 
    >[!NOTE]
    >
@@ -58,7 +58,7 @@ It's easy to import custom object data into your database. If you're using custo
 
 1. In the upper right corner of your screen, you'll see a notification while the import is running, and the final results when it completes.
 
-   ![](assets/image2016-4-13-14-3a41-3a1.png)
+   ![](assets/import-custom-object-data-9.png)
 
    Yay!
 
