@@ -4,7 +4,7 @@ description: Customize Your Landing Page URLs With a CNAME (Administration) - Ma
 title: Customize Your Landing Page URLs With a CNAME (Administration)
 exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
 ---
-# Customize Your Landing Page URLs With a CNAME (Administration) {#customize-your-landing-page-urls-with-a-cname-administration}
+# Customize Your Landing Page URLs With a CNAME  {#customize-your-landing-page-urls-with-a-cname}
 
 Even though Marketo hosts your landing pages, the URL should be customized for your company.
 
@@ -36,13 +36,17 @@ Let's get you set up!
 
 1. Find your Account String.
 
-1. Go to the **Admin** area and click on **Landing Pages**.
+1. Go to the **Admin** area. 
 
-   ![](assets/image2014-9-16-13-3a9-3a44.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
+
+1. Click **Landing Pages**.
+
+   ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
 1. Under the **Landing Pages** tab, copy the Account String from the Settings section.
 
-   ![](assets/image2014-9-16-13-3a9-3a57.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
 1. You will also need this later, so make a note of it.
 
@@ -54,17 +58,21 @@ Let's get you set up!
 
 1. Complete CNAME Setup.
 
-1. Once your IT has created the CNAME, go to **Admin** and click on **Landing Pages**.
+1. Once your IT has created the CNAME, go back to the **Admin** area.
 
-   ![](assets/image2014-9-16-13-3a10-3a14.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
+
+1. Click **Landing Pages**.
+
+   ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
 1. Under the **Settings** section, click **Edit**.
 
-   ![](assets/image2014-9-16-13-3a10-3a31.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
 1. Enter your CNAME in **Domain name for Landing Pages**, enter your **Fallback page**, enter your **Homepage**, and click **Save**.
 
-   ![](assets/image2014-9-16-13-3a10-3a45.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 
 Your fallback page is where people will be redirected if your Marketo landing page is unavailable.
 

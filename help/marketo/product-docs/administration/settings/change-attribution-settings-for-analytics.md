@@ -10,13 +10,17 @@ You can change the way Marketo ties contacts to opportunities for first- and mul
 
 These settings will impact Revenue Explorer reports under the [Program Opportunity Analysis](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Opportunity Analysis](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md), and Lead Analysis areas. This will also affect the Program Analyzer report.
 
-1. Under the **Admin** section, click **Revenue Cycle Analytics**.
+1. Go to the **Admin** area. 
 
-   ![](assets/image2014-9-24-11-3a55-3a19.png)
+   ![](assets/change-attribution-settings-for-analytics-1.png)
+
+1. Click **Revenue Cycle Analytics**.
+
+   ![](assets/change-attribution-settings-for-analytics-2.png)
 
 1. Click the **Edit** link under **Attribution**.
 
-   ![](assets/image2014-9-24-11-3a56-3a33.png)
+   ![](assets/change-attribution-settings-for-analytics-3.png)
 
    >[!TIP]
    >
@@ -24,7 +28,7 @@ These settings will impact Revenue Explorer reports under the [Program Opportuni
 
 1. Select an option and click **Save**.
 
-   ![](assets/image2014-9-24-11-3a57-3a39.png)
+   ![](assets/change-attribution-settings-for-analytics-4.png)
 
    >[!NOTE]
    >

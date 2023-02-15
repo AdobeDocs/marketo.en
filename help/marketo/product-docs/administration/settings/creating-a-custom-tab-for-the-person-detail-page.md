@@ -8,21 +8,25 @@ exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 
 If you find yourself looking for a specific set of fields in the person detail over and over again, consider creating a custom layout to make things easier.
 
-1. Go to **Admin** and click **Field Management**.
+1. Go to the **Admin** area. 
 
-   ![](assets/image2014-9-16-16-3a41-3a41.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
+
+1. Click **Field Management**.
+
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
 1. Click the **Custom Layout Designer** tab.
 
-   ![](assets/image2014-9-16-16-3a41-3a55.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
 1. Find a field you want to add, then drag and drop it into the canvas.
 
-   ![](assets/three-1.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-4.png)
 
 1. Continue adding fields until you have the layout the way you want it.
 
-   ![](assets/image2014-9-16-16-3a42-3a25.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-5.png)
 
    >[!NOTE]
    >
@@ -30,8 +34,8 @@ If you find yourself looking for a specific set of fields in the person detail o
 
    If you decide you want to remove a field, right-click the field you want to remove and click **Delete**.
 
-   ![](assets/image2014-9-16-16-3a43-3a56.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
    Awesome work! Now when you load a person's details, you can use your custom layout to access the information important to you.
 
-   ![](assets/six-1.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)

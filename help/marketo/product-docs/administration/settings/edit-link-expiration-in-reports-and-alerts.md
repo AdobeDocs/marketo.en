@@ -12,17 +12,21 @@ Links in your report subscription emails expire after three days. In order to ch
 >
 >**Admin Permissions Required**
 
-1. Under **Admin**, click **Login Settings**.
+1. Go to the **Admin** section.
 
-   ![](assets/image2014-9-24-11-3a33-3a31.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-1.png)
+
+1. Click **Login Settings**.
+
+   ![](assets/edit-link-expiration-in-reports-and-alerts-2.png)
 
 1. Click **Edit URL Expiration**.
 
-   ![](assets/image2014-9-24-11-3a33-3a43.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-3.png)
 
 1. In the drop-down, select the number of days before the link expires. Click **Save**.
 
-   ![](assets/emaillinkexpiration.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-4.png)
 
 >[!IMPORTANT]
 >

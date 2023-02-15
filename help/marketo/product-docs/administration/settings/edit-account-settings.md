@@ -12,20 +12,20 @@ Need to change the account email address, name, or phone number? Learn how below
 >
 >**Admin Permissions Required**
 
-1. Go to **Admin**.
+1. Go to the **Admin** area.
 
-   ![](assets/adminhand.png)
+   ![](assets/edit-account-settings-1.png)
 
 1. Select **My Account**.
 
-   ![](assets/image2015-6-23-15-3a16-3a52.png)
+   ![](assets/edit-account-settings-2.png)
 
 1. Select **Edit Account Settings**.
 
-   ![](assets/image2015-6-23-15-3a21-3a41.png)
+   ![](assets/edit-account-settings-3.png)
 
 1. Make your edits and click **Save**.
 
-   ![](assets/image2015-6-23-15-3a20-3a16.png)
+   ![](assets/edit-account-settings-4.png)
 
    Ta-da! Info updated.

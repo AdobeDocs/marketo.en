@@ -12,15 +12,21 @@ You can edit your domain name and fallback page, enable or disable form prefill,
 >
 >**Admin Permissions Required**
 
-1. Under **Admin**, click **Landing Pages**.
+1. Go to the **Admin** area. 
 
-   ![](assets/image2014-9-10-9-3a47-3a40.png)
+   ![](assets/edit-landing-page-settings-1.png)
+
+1. Click **Landing Pages**.
+
+   ![](assets/edit-landing-page-settings-2.png)
 
 1. In the **Landing Pages** section, click **Edit**.
 
-   ![](assets/image2014-9-10-9-3a47-3a12.png)
+   ![](assets/edit-landing-page-settings-3.png)
 
 1. Enter your domain and page information.
+
+   ![](assets/edit-landing-page-settings-4.png)
 
    | Term |Definition |
    |---|---|
@@ -28,15 +34,13 @@ You can edit your domain name and fallback page, enable or disable form prefill,
    | Fallback page |This is where to go if the landing page doesn't exist or is down. Learn more about [fallback pages](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | Homepage |Enter your corporate site URL. |
 
-   ![](assets/three.png)
-
 1. Check the **Form Prefill** checkbox to allow forms to prefill information for known (cookied) people. Uncheck to block.
 
-   ![](assets/four.png)
+   ![](assets/edit-landing-page-settings-5.png)
 
 1. If you want to prevent a malicious site from seemingly hosting your content, check the **Do not allow Marketo pages to be embedded in external web pages** checkbox.
 
-   ![](assets/five.png)
+   ![](assets/edit-landing-page-settings-6.png)
 
    >[!NOTE]
    >
@@ -46,6 +50,6 @@ You can edit your domain name and fallback page, enable or disable form prefill,
 
 1. After making your selections, click **Save.**
 
-   ![](assets/six.png)
+   ![](assets/edit-landing-page-settings-7.png)
 
    Great job! Your landing pages now have the right information and should start working right away.
