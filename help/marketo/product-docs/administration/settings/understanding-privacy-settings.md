@@ -15,7 +15,7 @@ Marketo provides marketers with a way to get web visitors' consent to track them
 
 Or, the marketer can track users, but use an anonymized IP.
 
-These methods might affect Marketo’s value and functionality in specific areas. However, if the marketer *doesn’t* change anything in Marketo's configuration, Marketo functionality remains the same.
+These methods might affect Marketo's value and functionality in specific areas. However, if the marketer *doesn't* change anything in Marketo's configuration, Marketo functionality remains the same.
 
 ## Browser Settings for Do Not Track {#browser-settings-for-do-not-track}
 
@@ -35,19 +35,19 @@ In order to do this, you must add a parameter to an opt out link on a webpage th
 
 Below are examples of a webpage with an opt-out link and a landing page for after the link is clicked. Yours will vary.
 
-Here's a webpage with a button with the “?marketo_opt_out=true” parameter in the opt-out link.
+Here's a webpage with a button with the "?marketo_opt_out=true" parameter in the opt-out link.
 
-![](assets/opt-out-1.png)
+![](assets/understanding-privacy-settings-1.png)
 
-You can create and publish a landing page as a follow-up page for when your link with the “?marketo_opt_out=true” parameter is clicked.
+You can create and publish a landing page as a follow-up page for when your link with the "?marketo_opt_out=true" parameter is clicked.
 
-![](assets/opt-out-2.png)
+![](assets/understanding-privacy-settings-2.png)
 
 When the link is clicked, Marketo adds a cookie called **mkto_opt_out** to the visitor's browser that disables Munchkin tracking for the site visitor who clicks the link with the above parameter.
 
 To validate that the cookie can be planted, verify that you are a cookied lead and click the link. Then check your browser cookies to verify that the **mkto_opt_out** cookie was added.
 
-![](assets/opt-out-3.png)
+![](assets/understanding-privacy-settings-3.png)
 
 >[!NOTE]
 >

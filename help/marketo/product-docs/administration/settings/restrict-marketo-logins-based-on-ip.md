@@ -16,13 +16,17 @@ You can restrict or enable users from accessing Marketo based on their IP addres
 >
 >The information in this article only applies to direct log-ins at login.marketo.com. It is not possible to enforce IP restrictions on single sign-on (SSO) log-ins at this time.
 
-1. Under **Admin**, click **Login Settings**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2014-9-16-12-3a57-3a56.png)
+   ![](assets/restrict-marketo-logins-based-on-ip-1.png)
+
+1. Click **Login Settings**.
+
+   ![](assets/restrict-marketo-logins-based-on-ip-2.png)
 
 1. Click **Edit IP Restrictions**.
 
-   ![](assets/image2014-9-16-12-3a58-3a13.png)
+   ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
 1. Choose whether you want to **Allow** or **Block** specific addresses, enter the address(es), then click **Save**.
 
@@ -38,6 +42,6 @@ You can restrict or enable users from accessing Marketo based on their IP addres
    >
    >You can add multiple restrictions, but they can only be ALL allowed or ALL blocked. You cannot mix and match allowed and blocked.
 
-   ![](assets/image2014-9-16-13-3a9-3a40.png)
+   ![](assets/restrict-marketo-logins-based-on-ip-4.png)
 
    Nicely done, your marketing data is now safer than it ever was!

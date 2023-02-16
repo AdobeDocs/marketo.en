@@ -12,17 +12,21 @@ The Treasure Chest holds fun experimental features that are not fully supported.
 >
 >**Admin Permissions Required**
 
-1. Under **Admin** click **Treasure Chest**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2014-9-16-17-3a0-3a36.png)
+   ![](assets/enable-or-disable-treasure-chest-features-1.png)
+
+1. Click **Treasure Chest**.
+
+   ![](assets/enable-or-disable-treasure-chest-features-2.png)
 
 1. Click **Edit** for the feature you want to enable or disable.
 
-   ![](assets/image2014-9-16-16-3a53-3a42.png)
+   ![](assets/enable-or-disable-treasure-chest-features-3.png)
 
 1. Check the **Enabled** box to enable, or uncheck to disable, and click **Save**.
 
-   ![](assets/image2014-9-16-16-3a53-3a53.png)
+   ![](assets/enable-or-disable-treasure-chest-features-4.png)
 
    >[!TIP]
    >

@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2360215
-description: Enable Personalized URLs for Your Account (Administration) - Marketo Docs - Product Documentation
-title: Enable Personalized URLs for Your Account (Administration)
+description: Enable Personalized URLs for Your Account - Marketo Docs - Product Documentation
+title: Enable Personalized URLs for Your Account
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 ---
-# Enable Personalized URLs for Your Account (Administration) {#enable-personalized-urls-for-your-account-administration}
+# Enable Personalized URLs for Your Account {#enable-personalized-urls-for-your-account}
 
 Personalized URLs are great for print mail campaigns.
 
@@ -12,17 +12,21 @@ Personalized URLs are great for print mail campaigns.
 >
 >**Admin Permissions Required**
 
-1. Go to **Admin** and click **Landing Pages**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2014-9-24-11-3a38-3a51.png)
+   ![](assets/enable-personalized-urls-for-your-account-1.png)
+
+1. Click **Landing Pages**.
+
+   ![](assets/enable-personalized-urls-for-your-account-2.png)
 
 1. Click **Edit**.
 
-   ![](assets/image2014-9-24-11-3a39-3a6.png)
+   ![](assets/enable-personalized-urls-for-your-account-3.png)
 
 1. Check the **Enable Personalized URLs** box and click **Save**.
 
-   ![](assets/image2014-9-24-11-3a39-3a41.png)
+   ![](assets/enable-personalized-urls-for-your-account-4.png)
 
 Great job! Now that you have enabled PURLs for your account, you can [enable them for individual landing pages](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
 
