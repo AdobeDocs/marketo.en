@@ -20,21 +20,25 @@ You can create custom [tags](/help/marketo/product-docs/core-marketo-concepts/pr
 >
 >Program Tag Value: SMB, Enterprise, Mid-Market
 
-1. Under **Admin**, click **Tags**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2014-9-24-12-3a10-3a32.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-1.png)
+
+1. Click **Tags**.
+
+   ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
 1. Click **New** and select **New Tag Type**.
 
-   ![](assets/image2014-9-24-12-3a12-3a43.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
 1. Enter the **Tag Type** and a tag **Value**. Then click **Add Another**.
 
-   ![](assets/image2014-9-24-12-3a16-3a55.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
 1. Enter as many Values as you need. Select which program types you want this tag to apply to.
 
-   ![](assets/image2014-9-24-12-3a17-3a29.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-5.png)
 
    >[!TIP]
    >
@@ -42,12 +46,12 @@ You can create custom [tags](/help/marketo/product-docs/core-marketo-concepts/pr
 
 1. Check **Required** and click **Create**.
 
-   ![](assets/image2014-9-24-12-3a18-3a33.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 
    >[!NOTE]
    >
    >If the tag type is **Required**, users will be required to enter a value for the tag when creating a new program.
 
-   ![](assets/image2014-9-24-12-3a19-3a17.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 
 Now when your users create a program, they will have to set the custom value for the tag created.
