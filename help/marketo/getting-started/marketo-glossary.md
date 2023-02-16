@@ -92,7 +92,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr> 
   <tr> 
    <td colspan="1"><strong>Behavior Score</strong></td> 
-   <td colspan="1">A point value assigned to a person based on their actions/behavior (e.g., visiting a web page, clicking a link in an email, filling out a form, etc.). Typically used to measure a person’s interest in your product or company.</td> 
+   <td colspan="1">A point value assigned to a person based on their actions/behavior (e.g., visiting a web page, clicking a link in an email, filling out a form, etc.). Typically used to measure a person's interest in your product or company.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Blocklist</strong></td> 
@@ -165,7 +165,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
    <td colspan="1">In Marketo you can make duplicates of several different types of entities within your instance. You can clone <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">programs</a>, an <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">asset within a program</a>, a <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">stream</a>, and more.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">The front part of your URL. The one word (plus YourCompany.com) is called a CNAME (e.g., <em>info</em>.YourCompany.com/).</td> 
   </tr> 
   <tr> 
@@ -246,7 +246,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr> 
   <tr> 
    <td colspan="1"><strong>Deliverability</strong></td> 
-   <td colspan="1">The ability of an email message to reach the intended recipient’s inbox, which can be impacted by <strong>spam</strong> and client-side filters. Different than “Delivered,” which only indicates the email was handed off to the recipient server.</td> 
+   <td colspan="1">The ability of an email message to reach the intended recipient's inbox, which can be impacted by <strong>spam</strong> and client-side filters. Different than "Delivered," which only indicates the email was handed off to the recipient server.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Demand Generation</strong></td> 
@@ -254,7 +254,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr> 
   <tr> 
    <td colspan="1"><strong>Demographic Score</strong></td> 
-   <td colspan="1">A point value that is assigned based on specific attributes the person has such as job title, revenue size, or target industry. Typically used to measure a person’s fit with your product or company. </td> 
+   <td colspan="1">A point value that is assigned based on specific attributes the person has such as job title, revenue size, or target industry. Typically used to measure a person's fit with your product or company. </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Design Studio</strong></td> 
@@ -270,11 +270,11 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Domain Keys Identified Mail</a> (DKIM)</strong></td> 
-   <td colspan="1">An Authentication mechanism that secures the sending domain, enabling senders to associate the domain name in the From Address with a specific email message. This allows the receiver to know the email was legitimately sent by the domain’s owner. A sender will sign the email with a digital signature in the message header. The receiver is able to decrypt that signature using a public key published in DNS by the domain’s owner to ensure the mail was legitimately sent by the domain’s owner.</td> 
+   <td colspan="1">An Authentication mechanism that secures the sending domain, enabling senders to associate the domain name in the From Address with a specific email message. This allows the receiver to know the email was legitimately sent by the domain's owner. A sender will sign the email with a digital signature in the message header. The receiver is able to decrypt that signature using a public key published in DNS by the domain's owner to ensure the mail was legitimately sent by the domain's owner.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Draft</strong></td> 
-   <td colspan="1"><p>An <strong>email</strong> or <strong>landing page</strong> that hasn’t been <strong>approved</strong> yet. Drafts cannot be viewed publicly until they have been approved. You can send a draft as a test email (sample), however it will not record any analytics. <br></p></td> 
+   <td colspan="1"><p>An <strong>email</strong> or <strong>landing page</strong> that hasn't been <strong>approved</strong> yet. Drafts cannot be viewed publicly until they have been approved. You can send a draft as a test email (sample), however it will not record any analytics. <br></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Drip Campaign</strong></td> 
@@ -690,7 +690,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Reputation</strong></td> 
-   <td colspan="1"><p>A score of performance over time, made up of various signals and/or data points. Reputation could be tied to a sender’s domain, <strong>content</strong>, or IP address, and affects <strong>deliverability</strong>.</p></td> 
+   <td colspan="1"><p>A score of performance over time, made up of various signals and/or data points. Reputation could be tied to a sender's domain, <strong>content</strong>, or IP address, and affects <strong>deliverability</strong>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Return Path Address</strong></td> 
