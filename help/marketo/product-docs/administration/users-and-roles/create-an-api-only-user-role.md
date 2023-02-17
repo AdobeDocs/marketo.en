@@ -12,21 +12,21 @@ If you want to integrate with Marketo via the [REST API](https://developers.mark
 >
 >**Admin Permissions Required**
 
-1. From My Marketo, click **Admin**.
+1. Go to the **Admin** area.
 
-   ![](assets/adminhand-1.png)
+   ![](assets/create-an-api-only-user-role-1.png)
 
-1. Under Security, click **Users & Roles**.
+1. Click **Users & Roles**.
 
-   ![](assets/two.png)
+   ![](assets/create-an-api-only-user-role-2.png)
 
 1. Click the **Roles** tab and then **New Role**.
 
-   ![](assets/image2014-9-16-13-3a47-3a12.png)
+   ![](assets/create-an-api-only-user-role-3.png)
 
 1. Enter a Role Name, select the API access Permissions you want to give, and click **Create.**
 
-   ![](assets/image2014-9-16-13-3a47-3a36.png)
+   ![](assets/create-an-api-only-user-role-4.png)
 
 >[!TIP]
 >

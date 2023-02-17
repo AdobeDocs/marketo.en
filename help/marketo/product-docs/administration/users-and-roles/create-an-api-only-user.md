@@ -17,17 +17,21 @@ If you want to integrate with Marketo via the [REST API](https://developers.mark
 >
 >**Admin Permissions Required**
 
-1. Under **Admin**, click **Users & Roles.**
+1. Go to the **Admin** area.
 
-   ![](assets/image2014-9-17-9-3a31-3a31.png)
+   ![](assets/create-an-api-only-user-1.png)
+
+1. Click **Users & Roles**.
+
+   ![](assets/create-an-api-only-user-2.png)
 
 1. Click **Invite New User**.
 
-   ![](assets/image2014-9-17-9-3a32-3a3.png)
+   ![](assets/create-an-api-only-user-3.png)
 
 1. Enter an Email, First Name, and Last Name for the API only user. Click **Next**.
 
-   ![](assets/image2016-5-24-10-3a53-3a7.png)
+   ![](assets/create-an-api-only-user-4.png)
 
    >[!TIP]
    >
@@ -35,11 +39,11 @@ If you want to integrate with Marketo via the [REST API](https://developers.mark
 
 1. Select the **API Only** role and check the **API Only** checkbox. Click **Next**.
 
-   ![](assets/four.png)
+   ![](assets/create-an-api-only-user-5.png)
 
 1. Click **Send**.
 
-   ![](assets/image2016-5-24-11-3a8-3a20.png)
+   ![](assets/create-an-api-only-user-6.png)
 
 >[!NOTE]
 >

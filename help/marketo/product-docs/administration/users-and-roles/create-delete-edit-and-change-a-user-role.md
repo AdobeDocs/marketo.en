@@ -24,31 +24,39 @@ exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 
 ## Create a Role {#create-a-role}
 
-1. Go to **Admin** and click **Users & Roles**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2014-9-16-13-3a29-3a48.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-1.png)
+
+1. Click **Users & Roles**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-2.png)
 
 1. Go to the **Roles tab** and click **New Role**.
 
-   ![](assets/image2014-9-16-13-3a30-3a0.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-3.png)
 
 1. Name your new role, check all the permissions you want to grant to users associated with the role, and click **Create**.
 
-   ![](assets/image2014-9-16-13-3a31-3a19.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-4.png)
 
 ## Delete a Role {#delete-a-role}
 
-1. Under **Admin**, click **Users & Roles**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2014-9-16-13-3a31-3a42.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-5.png)
+
+1. Click **Users & Roles**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-6.png)
 
 1. Under the **Roles** tab, select a role and click **Delete Role**.
 
-   ![](assets/image2014-9-16-13-3a31-3a56.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-7.png)
 
 1. Confirm the deletion by clicking **Delete**.
 
-   ![](assets/image2014-9-16-13-3a32-3a25.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-8.png)
 
 >[!NOTE]
 >
@@ -60,21 +68,25 @@ exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 >
 >To edit your own user role, you'll have to log in as another user with Admin rights.
 
-1. Go to **Admin** and click **Users & Roles**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2014-9-16-13-3a34-3a2.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-9.png)
+
+1. Click **Users & Roles**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-10.png)
 
 1. Click the **Roles** tab.
 
-   ![](assets/image2014-9-16-13-3a34-3a22.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-11.png)
 
 1. Select the role you want to edit and click **Edit Role**.
 
-   ![](assets/image2014-9-16-13-3a34-3a37.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-12.png)
 
 1. Make all the changes you need and click **Save**.
 
-   ![](assets/image2014-9-16-13-3a35-3a16.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-13.png)
 
    >[!NOTE]
    >
@@ -86,17 +98,21 @@ exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 
 ## Change a User's Role {#change-a-users-role}
 
-1. Go to **Admin** and click **Users & Roles**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2014-9-16-13-3a35-3a49.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-14.png)
+
+1. Click **Users & Roles**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-15.png)
 
 1. Select the user you want to assign a different role to and click **Edit User.**
 
-   ![](assets/image2014-9-16-13-36-8.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-16.png)
 
 1. Uncheck the previous role, select the new one, then click **Save**.
 
-   ![](assets/image2014-9-16-13-3a36-3a35.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-17.png)
 
 >[!NOTE]
 >
