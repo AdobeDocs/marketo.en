@@ -8,24 +8,24 @@ exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 
 Program statuses are the checkpoints through a programs path (channel). If you make a status by mistake or no longer need it, feel free to delete it.
 
-1. Go to the **Admin** section.
+1. Go to the **Admin** area.
 
-   ![](assets/admin.png)
+   ![](assets/delete-a-program-status-from-a-program-channel-1.png)
 
 1. Click **Tags**.
 
-   ![](assets/image2014-9-24-15-3a51-3a24.png)
+   ![](assets/delete-a-program-status-from-a-program-channel-2.png)
 
 1. Select the channel you want to remove a status from, then under **Tag Actions**, click **Edit**.
 
-   ![](assets/image2014-9-24-15-3a51-3a45.png)
+   ![](assets/delete-a-program-status-from-a-program-channel-3.png)
 
-1. Click ![X icon](assets/image2014-9-24-15-3a52-3a39.png) to remove the status, then click **Save**.
+1. Click the red **X** to remove the status, then click **Save**.
+
+   ![](assets/delete-a-program-status-from-a-program-channel-4.png)
 
    >[!TIP]
    >
    >If any person is currently assigned to the status in question, you cannot delete it, you can however hide it.
-
-   ![](assets/image2014-9-24-15-3a57-3a53.png)
 
 Nicely done! You can also [delete an entire channel](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) if you need to.
