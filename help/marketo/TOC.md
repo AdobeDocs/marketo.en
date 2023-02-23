@@ -1868,6 +1868,8 @@ feature-set: Marketo Engage
   + [Release Schedule](release-notes/release-schedule.md)
   + [Current Release](release-notes/current.md)
   + Previous Releases {#previous-releases}
+    + 2023 {#2023}
+      + [Release Notes: January '23](release-notes/previous-releases/2023/release-notes-jan-23.md)
     + 2022 {#2022}
       + [Release Notes: January '22](release-notes/previous-releases/2022/release-notes-jan-22.md)
       + [Release Notes: March '22](release-notes/previous-releases/2022/release-notes-mar-22.md)
