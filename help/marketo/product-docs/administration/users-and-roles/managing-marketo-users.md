@@ -8,25 +8,29 @@ exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 
 ## Create Users {#create-users}
 
-1. Go to **Admin** and click **Users & Roles**.
+1. Go to the **Admin** area. 
 
-   ![](assets/image2014-9-9-11-3a34-3a58.png)
+   ![](assets/managing-marketo-users-1.png)
+
+1. Click **Users & Roles**.
+
+   ![](assets/managing-marketo-users-2.png)
 
 1. Click **Invite New User**.
 
-   ![](assets/image2014-9-9-11-3a35-3a15.png)
+   ![](assets/managing-marketo-users-3.png)
 
 1. Enter the **Email address**, **First Name**, and **Last Name**.
 
-   ![](assets/image2016-5-24-9-3a45-3a30.png)
+   ![](assets/managing-marketo-users-4.png)
 
 1. Optionally, enter a reason for the invitation and select an expiration date in the **Access Expires** field using the date picker.
 
-   ![](assets/image2016-6-29-15-3a52-3a18.png)
+   ![](assets/managing-marketo-users-5.png)
 
 1. Click **Next**.
 
-   ![](assets/image2016-5-24-9-3a58-3a10.png)
+   ![](assets/managing-marketo-users-6.png)
 
    >[!TIP]
    >
@@ -38,17 +42,17 @@ exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 
 1. Select the **Role** of your choice and click **Next**.
 
-   ![](assets/image2016-5-24-10-3a1-3a33.png)
+   ![](assets/managing-marketo-users-7.png)
 
 1. Make edits to the invitation message if necessary. Click **Send**.
 
-   ![](assets/image2016-5-24-10-3a3-3a56.png)
+   ![](assets/managing-marketo-users-8.png)
 
    >[!NOTE]
    >
    >The email/login needs to be unique; if you've already used it in a sandbox instance, you will need to use a different one in production and vice versa.
 
-   ![](assets/image2016-5-24-10-3a21-3a57.png)
+   ![](assets/managing-marketo-users-9.png)
 
    >[!NOTE]
    >
@@ -58,35 +62,41 @@ The new user is now listed in the Users tab and will receive an email with instr
 
 ## Delete Users {#delete-users}
 
-1. Go to Admin and click **Users & Roles**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2014-9-9-11-3a36-3a21.png)
+   ![](assets/managing-marketo-users-10.png)
+
+1. Click **Users & Roles**.
+
+   ![](assets/managing-marketo-users-11.png)
 
 1. Select the user you want to remove and click **Delete User**.
 
-   ![](assets/image2014-9-9-11-3a36-3a36.png)
+   ![](assets/managing-marketo-users-12.png)
 
 1. Confirm by clicking **OK**.
 
-   ![](assets/image2014-9-9-11-3a36-3a51.png)
+   ![](assets/managing-marketo-users-13.png)
 
 ## Reset User Passwords {#reset-user-passwords}
 
-1. Go to Admin and click **Users & Roles**.
+1. Go to the Admin area.
 
-   ![](assets/image2014-9-9-11-3a41-3a0.png)
+   ![](assets/managing-marketo-users-14.png)
+
+1. Click **Users & Roles**.
+
+   ![](assets/managing-marketo-users-15.png)
 
 1. Select a user and click **Reset Password**.
 
-   ![](assets/image2014-9-9-11-3a41-3a19.png)
+   ![](assets/managing-marketo-users-16.png)
 
 1. Click **Close** to dismiss the prompt.
 
-   ![](assets/image2014-9-9-11-3a41-3a50.png)
+   ![](assets/managing-marketo-users-17.png)
 
 The user will receive an email with password reset instructions.
-
-![](assets/image2014-9-9-11-3a45-3a53.png)
 
 >[!TIP]
 >
@@ -94,17 +104,21 @@ The user will receive an email with password reset instructions.
 
 ## Change Permissions and Edit User Information {#change-permissions-and-edit-user-information}
 
-1. Go to **Admin** and click **Users & Roles.**
+1. Go to the **Admin** area.
 
-   ![](assets/image2014-9-9-11-3a37-3a5.png)
+   ![](assets/managing-marketo-users-18.png)
+
+1. Click **Users & Roles**.
+
+   ![](assets/managing-marketo-users-19.png)
 
 1. Select a user and click **Edit User**.
 
-   ![](assets/image2014-9-9-11-3a37-3a16.png)
+   ![](assets/managing-marketo-users-20.png)
 
 1. You can edit user information and change the associated role. Click **Save**.
 
-   ![](assets/image2014-9-9-11-3a37-3a31.png)
+   ![](assets/managing-marketo-users-21.png)
 
 >[!CAUTION]
 >

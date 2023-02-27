@@ -11,7 +11,7 @@ Here's how to export all roles and their permissions.
 >
 >Admin Permissions Required
 
-1. In your My Marketo, click **Admin**.
+1. Go to the **Admin** area.
 
    ![](assets/export-roles-and-permissions-1.png)
 

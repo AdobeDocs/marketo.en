@@ -14,24 +14,24 @@ It's pretty easy to export a full list of your users and user roles. Here's how.
 
 1. Go to **Admin**.
 
-   ![](assets/adminhand.png)
+   ![](assets/export-a-list-of-users-and-roles-1.png)
 
 1. Click **Users & Roles**.
 
-   ![](assets/image2014-9-10-9-3a25-3a27.png)
+   ![](assets/export-a-list-of-users-and-roles-2.png)
 
 1. Add/remove any columns you want before exporting.
 
    >[!TIP]
    >
-   >To export roles, go to the **Roles**** **tab first then export.
+   >To export roles, go to the **Roles** tab first, then export.
 
-   ![](assets/image2014-9-10-9-3a25-3a49.png)
+   ![](assets/export-a-list-of-users-and-roles-3.png)
 
 1. Click the **Export** icon.
 
-   ![](assets/image2014-9-10-9-3a26-3a3.png)
+   ![](assets/export-a-list-of-users-and-roles-4.png)
 
    And that's all folks! You should be downloading the new Excel file.
 
-   ![](assets/image2014-9-10-9-3a26-3a17.png)
+   ![](assets/export-a-list-of-users-and-roles-5.png)
