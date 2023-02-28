@@ -41,7 +41,7 @@ Before you can schedule an asset expiration, your Marketo role must have the pro
 
    ![](assets/local-asset-expiration-6.png)
 
-1. Set a time. You must schedule a time at least 20 minutes in the future (don't forget to enter AM/PM). Click **[!UICONTROL Confirm]** when done.
+1. Set a time. You must schedule a time at least 15 minutes in the future (don't forget to enter AM/PM). Click **[!UICONTROL Confirm]** when done.
 
    ![](assets/local-asset-expiration-7.png)
 

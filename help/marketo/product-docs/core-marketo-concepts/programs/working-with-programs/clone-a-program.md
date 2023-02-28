@@ -8,10 +8,6 @@ exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 
 Quickly and easily clone an entire program and all its assets instead of manually rebuilding everything.
 
->[!PREREQUISITES]
->
->Before diving in, learn about [best practices for avoiding corruption in cloned assets](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729).
-
 1. Find and select the program you want to clone, then under **Program Actions** click **Clone**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
