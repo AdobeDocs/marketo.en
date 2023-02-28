@@ -76,6 +76,11 @@ The following limits are in place for usage of expanded sales engagement capabil
   <td>50</td>
  </tr>
  <tr>
+  <td>People Per Group</td>
+  <td>per group</td>
+  <td>200</td>
+ </tr>
+ <tr>
   <td>Attachments Uploaded</td>
   <td>per user</td>
   <td>25</td>
