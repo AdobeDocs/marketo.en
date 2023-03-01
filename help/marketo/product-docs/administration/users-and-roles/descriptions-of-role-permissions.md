@@ -10,7 +10,7 @@ Below is a list of all available permissions that you can assign to your roles. 
 
 Some additional information about permissions:
 
-* The “Access" permission gives a role permission to view and sometimes edit that part of the application.
+* The "Access" permission gives a role permission to view and sometimes edit that part of the application.
 * For a role to have access to the sub-permissions ("Create", "Delete", etc.), that role must have "Access" permission to that part of the application. For example, if you want to give someone permission for Edit Campaigns, they must have overall permission to Access Marketing Activities.
 * You may be able to see actions or assets that you do not have permission to use. However, if you try to access them, you'll see a message warning you about your limited access.
 
@@ -18,7 +18,7 @@ Some additional information about permissions:
 
 When you [create or edit a role](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), you can select which of the following permissions to allow for that role by checking the appropriate boxes.
 
-![](assets/createnewrole.png)
+![](assets/descriptions-of-role-permissions-1.png)
 
 ## Access Admin  {#access-admin}
 
