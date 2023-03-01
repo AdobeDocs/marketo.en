@@ -18,25 +18,29 @@ No-Draft is automatically enabled for all Administrator roles. An admin can then
 >
 >**Admin Permissions Required**
 
-1. Go to **Admin** and click **Users & Roles**.
+1. Go to the **Admin** area.
 
-   ![](assets/usersandroles.png)
+   ![](assets/enable-no-draft-for-snippets-1.png)
+
+1. Click **Users & Roles**.
+
+   ![](assets/enable-no-draft-for-snippets-2.png)
 
 1. Go to the **Roles** tab, select a role, then click **Edit Role**.
 
-   ![](assets/editrole2.png)
+   ![](assets/enable-no-draft-for-snippets-3.png)
 
 1. Expand the **Access Design Studio** option.
 
-   ![](assets/expanddesignstudio.png)
+   ![](assets/enable-no-draft-for-snippets-4.png)
 
 1. Expand the **Access Snippet** option.
 
-   ![](assets/expandsnippet.png)
+   ![](assets/enable-no-draft-for-snippets-5.png)
 
 1. Expand the **Approve Snippet** permission and check the **No-Draft** box. Then click **Save**.
 
-   ![](assets/2017-06-15-10-35-04.png)
+   ![](assets/enable-no-draft-for-snippets-6.png)
 
 >[!TIP]
 >
