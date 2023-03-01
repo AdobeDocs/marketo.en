@@ -214,8 +214,8 @@ feature-set: Marketo Engage
       + [Managing Marketo Users](product-docs/administration/users-and-roles/managing-marketo-users.md)
       + [Managing User Roles and Permissions](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
       + [Export Roles and Permissions](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
-      + [Descriptions of Role Permissions](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
-      + [Enable No-Draft for Snippets](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
+      + [Descriptions of Role Permissions](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
+      + [Enable No-Draft for Snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
     + Workspaces and Person Partitions {#workspaces-and-person-partitions}
       + [Understanding Workspaces and Person Partitions](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
       + [Allow User Access to a Workspace](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
