@@ -52,7 +52,7 @@ This release also enables you to manage named account attributes and accounts sc
 
 Audit trail provides a comprehensive history of the changes made within your Marketo subscription. We have added additional tracking capabilities for programs as well as surfacing important change details for smart campaigns, smart lists, and changes made to users and roles.
 
-## [New Permissions](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
+## [New Permissions](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
 
 **Make Email Operational**
 
@@ -87,4 +87,4 @@ Manage variables and modules for emails in v2.0 format using the Marketo REST AP
 
 ## [Changes to Marketo Salesforce Sync](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-Marketo’s Salesforce integration is evolving to improve the way that Marketo fields are synced with Salesforce. Now, instead of having to sync a large group of fields that you may or may not need, you can pick and choose which fields you’d like to have included. Check out our documentation here for more information: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+Marketo's Salesforce integration is evolving to improve the way that Marketo fields are synced with Salesforce. Now, instead of having to sync a large group of fields that you may or may not need, you can pick and choose which fields you'd like to have included. Check out our documentation here for more information: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).

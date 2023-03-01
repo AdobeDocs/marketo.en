@@ -50,7 +50,7 @@ You can assign roles to a user when you [create users for the first time](/help/
 
    >[!NOTE]
    >
-   >To learn about each role, see  [Descriptions of Role Permissions](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md).
+   >To learn about each role, see [Descriptions of Role Permissions](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md).
 
 ## Create a New Role {#create-a-new-role}
 

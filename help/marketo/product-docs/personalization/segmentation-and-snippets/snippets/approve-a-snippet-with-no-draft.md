@@ -35,4 +35,4 @@ No-Draft is triggered each time a snippet is approved. This includes a snippet t
 
 >[!MORELIKETHIS]
 >
->[Enable No-Draft for Snippets](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
+>[Enable No-Draft for Snippets](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)

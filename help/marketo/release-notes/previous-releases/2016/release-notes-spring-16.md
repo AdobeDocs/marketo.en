@@ -14,7 +14,7 @@ Email Insights is a brand new historical aggregate data email analytics experien
 
 >[!NOTE]
 >
->We are launching Email Insights to customers in batches, beginning June 3rd. Our goal is to complete this over the next several months. We’ll notify you by email when you’re enabled.
+>We are launching Email Insights to customers in batches, beginning June 3rd. Our goal is to complete this over the next several months. We'll notify you by email when you're enabled.
 
 ![](assets/two.png)
 
@@ -30,7 +30,7 @@ Create beautiful emails using our new Starter Templates! Also, quickly locate yo
 
 ## [Email Editing---Re-imagined](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-editing-re-imagined}
 
-That’s right, a brand new email editor! Use lightweight drag-and-drop functionality to add and re-order content. New elements, including images, videos, variables, and modules, are sure to enhance your editing experience. Also check out the updated code editor, previewer, and preheader support.
+That's right, a brand new email editor! Use lightweight drag-and-drop functionality to add and re-order content. New elements, including images, videos, variables, and modules, are sure to enhance your editing experience. Also check out the updated code editor, previewer, and preheader support.
 
 ![](assets/17a-29-modules-next.png)
 
@@ -40,9 +40,9 @@ Create stunning in-app messages for your app right within Marketo. Define exactl
 
 ![](assets/pasted-image-at-2016-05-24-09-45-am.png)
 
-## [No Draft Snippets](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md) {#no-draft-snippets}
+## [No Draft Snippets](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
 
-Gone are the days where you have to re-approve everything each time a snippet is updated! With No-Draft, all emails and landing pages using a snippet will get the snippet updates and maintain their prior statuses. Each time you approve a snippet, you’ll have a choice to run No-Draft and update everything, or create drafts. It’s up to you! No-Draft will be available to all customers and controlled by a new permission in Admin.
+Gone are the days where you have to re-approve everything each time a snippet is updated! With No-Draft, all emails and landing pages using a snippet will get the snippet updates and maintain their prior statuses. Each time you approve a snippet, you'll have a choice to run No-Draft and update everything, or create drafts. It's up to you! No-Draft will be available to all customers and controlled by a new permission in Admin.
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
@@ -52,7 +52,7 @@ The Marketo REST APIs now support control over Marketo landing pages, landing pa
 
 ## [IP Allowlisting for API Access](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Similar to the IP allowlisting feature for Marketo user logins, Marketo admins can now set up a allowlist of IP addresses that can access the Marketo SOAP and REST APIs, thereby blocking access from non-authorized IP addresses. This provides an added layer of security to your Marketo instance, and ensures that API access can only occur from within your organization’s network. Details on how to set this up are available on the [Marketo documentation site](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+Similar to the IP allowlisting feature for Marketo user logins, Marketo admins can now set up a allowlist of IP addresses that can access the Marketo SOAP and REST APIs, thereby blocking access from non-authorized IP addresses. This provides an added layer of security to your Marketo instance, and ensures that API access can only occur from within your organization's network. Details on how to set this up are available on the [Marketo documentation site](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
 ## [New High-Speed Microsoft Dynamics Sync Connector](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -74,7 +74,7 @@ Built atop Orion architecture, the new, high-speed dynamics connector provides s
 
 ## [Friendly Instance Name](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
-Today, it’s hard to differentiate between Marketo instances, for example, sandbox and production instances. This feature lets you know which instances you're currently working on.
+Today, it's hard to differentiate between Marketo instances, for example, sandbox and production instances. This feature lets you know which instances you're currently working on.
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 
