@@ -20,33 +20,37 @@ Here's how to edit the person partition / workspace assignments:
 >
 >Workspaces and Person Partitions can be complex. Please contact  [Marketo support](https://nation.marketo.com/t5/Support/ct-p/Support) for help in setting them up.
 
-1. Under Admin, click on **Workspaces & Partitions**.
+1. Go to the **Admin** area. 
 
-![](assets/image2014-9-17-11-3a13-3a24.png)
+   ![](assets/assign-person-partitions-to-workspaces-1.png)
+
+1. Click **Workspaces & Partitions**.
+
+   ![](assets/assign-person-partitions-to-workspaces-2.png)
 
 1. Select your workspace and click **Edit Workspace**.
 
-   ![](assets/two-3.png)
+   ![](assets/assign-person-partitions-to-workspaces-3.png)
 
 1. Edit the person partition information you want to change.
 
+   ![](assets/assign-person-partitions-to-workspaces-4.png)
+
    >[!NOTE]
    >
-   >The All Person Partitions checkbox indicates that this workspace has access to all person partitions in the system.
-
-   ![](assets/three-3.png)
-
-   Primary person partitions are the default where all peoples will be entered. Use [flow steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) or [assignment rules](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) to move people around.
+   >* The "All Person Partitions" checkbox indicates that this workspace has access to all person partitions in the system.
+   >
+   >* Primary person partitions are the default where all peoples will be entered. Use [flow steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) or [assignment rules](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) to move people around.
 
 1. Click **Save**.
 
-   ![](assets/four-3.png)
+   ![](assets/assign-person-partitions-to-workspaces-5.png)
 
-   After saving, you should see the changes!
+After saving, you should see the changes.
 
-   ![](assets/image2014-9-17-11-3a14-3a53.png)
+   ![](assets/assign-person-partitions-to-workspaces-6.png)
 
-Congratulations! You have successfully edited your workspace!
+You have successfully edited your workspace!
 
 >[!MORELIKETHIS]
 >

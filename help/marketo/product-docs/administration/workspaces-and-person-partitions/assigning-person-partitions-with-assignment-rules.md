@@ -20,29 +20,33 @@ When using person partitions, set up assignment rules to route people created fr
 >
 >Only people created in Marketo from your CRM and via the SOAP API will have assignment rules applied to them.
 
-1. Under Admin, click Workspaces & Partitions.
+1. Go to the **Admin** area. 
 
-   ![](assets/image2014-9-17-10-3a32-3a55.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. Under the **People Partitions** tab, click on **Assignment Rules**.
+1. Click **Workspaces & Partitions**.
 
-   ![](assets/two-6.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
+
+1. Under the **People Partitions** tab, click **Assignment Rules**.
+
+   ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
 1. Click **Add Choice** to add conditions for routing people into person partitions.
 
-   ![](assets/three-6.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 
 1. Select the field the condition should be built on.  
 
-   ![](assets/four-5.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-5.png)
 
 1. Choose the choice operator and enter a value.
 
-   ![](assets/five-1.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-6.png)
 
 1. Select the People Partition you want the people that meet the conditions to fall into.
 
-   ![](assets/six-1.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-7.png)
 
    >[!NOTE]
    >
@@ -50,7 +54,7 @@ When using person partitions, set up assignment rules to route people created fr
 
 1. Click **Save**.
 
-   ![](assets/seven.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 
 And there you have it! You have assigned rules for filling your person partitions with people!
 

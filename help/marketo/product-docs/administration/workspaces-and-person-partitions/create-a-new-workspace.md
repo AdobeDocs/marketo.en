@@ -19,52 +19,52 @@ Here's how to create a new workspace.
 
 >[!NOTE]
 >
->Understand first with [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Understand first with [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
->[!NOTE]
+>[!TIP]
 >
->To learn more about Workspace best practices, please contact [Marketo Professional Services](mailto:services@marketo.com).
+>To learn more about Workspace best practices, please contact [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
-1. Under **Admin**, click on **Workspaces & Partitions**.
+1. Go to the **Admin** area. 
 
-   ![](assets/image2014-9-17-11-3a59-3a11.png)
+   ![](assets/create-a-new-workspace-1.png)
 
-1. Click on **New Workspace**.
+1. Click **Workspaces & Partitions**.
 
-   ![](assets/two-1.png)
+   ![](assets/create-a-new-workspace-2.png)
 
-1. Enter a **Name**, and select the **Person Partition(s)** you want to use. Choose a **Primary Person Partition**.
+1. Click **New Workspace**.
+
+   ![](assets/create-a-new-workspace-3.png)
+
+1. Enter a **Name**, and select the **Person Partition(s)** you want to use. Choose a **Primary Person Partition**. Make sure to [create person partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} if you haven't already.
+
+   ![](assets/create-a-new-workspace-4.png)
 
    >[!NOTE]
    >
-   >Make sure to [create person partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) if you haven't already.
-
-   ![](assets/three-1.png)
-
-   >[!NOTE]
+   >* The **All Person Partitions** checkbox means that this workspace can use all person partitions in the system.
    >
-   >The **All Person Partitions** checkbox means that this workspace can use all person partitions in the system.
+   >* The **primary person partition** acts as the default and is where all people will be assigned.
+
+   >[!IMPORTANT]
    >
-   >The **primary person partition** acts as the default and is where all people will be assigned.
-
-   If you enabled multiple branded domains, you must choose a primary branded domain.
-
-   ![](assets/four-1.png)
+   >If you enabled multiple branded domains, you must choose a primary branded domain.
 
 1. Select the workspace language.
+
+   ![](assets/create-a-new-workspace-5.png)
 
    >[!NOTE]
    >
    >Upon creation, Marketo will seed sample assets in the workspace. Language allows those seeded objects to be in a non-English language.
 
-   ![](assets/five.png)
-
 1. Click **Create**.
 
-   ![](assets/six.png)
+   ![](assets/create-a-new-workspace-6.png)
 
-   Create as many workspaces as you need and assign the appropriate person partition(s) to them.
+Create as many workspaces as you need and assign the appropriate person partition(s) to them.
 
-   After creating your workspace, you should see the update!
+After creating your workspace, you should see the update.
 
    ![](assets/image2014-9-17-15-3a39-3a10.png)

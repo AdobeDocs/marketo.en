@@ -37,25 +37,29 @@ Here's how to share assets across workspaces. It works the same for anything you
 >
 >The parent folder containing your assets is the only folder that can be shared, not the children folders.
 
-1. Create a new folder.
+1. Click Database.
 
-   ![](assets/one.png)
+   ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Name the folder you're going to share.
+1. Right-click on the Segmentation folder and click **New Folder**.
 
-   ![](assets/two.png)
+   ![](assets/understanding-workspaces-and-person-partitions-2.png)
+
+1. Name your folder and click **Create**.
+
+   ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
 1. Move the asset(s) you want to share into the folder.
 
-   ![](assets/three.png)
+   ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
 1. Right-click the folder and select **Share Folder**.
 
-   ![](assets/four.png)
+   ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
 1. Select the workspace(s) you want to share the folder with and click **Save**. The Share Folder dialog box will only display workspaces you have permission to view.
 
-   ![](assets/image2015-5-27-11-3a6-3a40.png)
+   ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
    >[!NOTE]
    >

@@ -20,18 +20,22 @@ Users can change the name of a workspace. It's pretty simple.
 >
 >Understand first with [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Under **Admin**, click **Workspaces & Partitions.**
+1. Go to the **Admin** area. 
 
-   ![](assets/image2014-9-17-11-3a8-3a28.png)
+   ![](assets/change-the-name-of-a-workspace-1.png)
+
+1. Click **Workspaces & Partitions**.
+
+   ![](assets/change-the-name-of-a-workspace-2.png)
 
 1. Select the Workspace and click **Edit Workspace**.
 
-   ![](assets/two-4.png)
+   ![](assets/change-the-name-of-a-workspace-3.png)
 
 1. Enter a new **Name** for your Workspace and click **Save.**
 
-   ![](assets/three-4.png)
+   ![](assets/change-the-name-of-a-workspace-4.png)
 
-1. After saving, your should see the changes!
+After saving, you should see the changes.
 
-   ![](assets/image2014-9-17-11-3a9-3a9.png)
+   ![](assets/change-the-name-of-a-workspace-5.png)
