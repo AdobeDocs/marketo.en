@@ -34,7 +34,7 @@ Once you have these personas set up (_and_ you use workspaces), you will want to
     * The shared version cannot be edited. You can only edit the original Segmentation where it was created.
 
   * When you click on a Segment (e.g. Healthcare) within a shared Segmentation, the people you see will only be people in the partition associated with the workspace you are viewing.
-    * If you create a Segmentation in Workspace 1 (WS1) and share it with WS2 and WS1 doesn’t have access to the partition for WS2, it WILL NOT recalculate the Segmentation.
+    * If you create a Segmentation in Workspace 1 (WS1) and share it with WS2 and WS1 doesn't have access to the partition for WS2, it WILL NOT recalculate the Segmentation.
     * If you create a Segmentation in a workspace that has limited partitions, and then share it with another workspace, that workspace that received the shared Segmentation will only see people if they have overlap.
 
 >[!NOTE]
@@ -71,7 +71,7 @@ Once you have these personas set up (_and_ you use workspaces), you will want to
 
 1. Select the workspace(s) you want to share the folder with. Click **Save**.
 
-   ![](assets/image2015-5-27-11-3a6-3a40.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions.png)
 
    >[!NOTE]
    >
