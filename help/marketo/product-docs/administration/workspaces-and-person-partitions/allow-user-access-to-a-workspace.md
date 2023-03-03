@@ -36,7 +36,7 @@ Workspaces can be for any reason (such as business unit or geography separation)
    >
    >You can allow your users to have any combination of access to workspaces.
 
-After saving the changes, you should see the update!
+After saving the changes, you should see the update.
 
    ![](assets/allow-user-access-to-a-workspace-5.png)
 
