@@ -1210,7 +1210,7 @@ feature-set: Marketo Engage
       + [Is Sales Connect Compatible with Salesforce Lightning?](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
       + [What Are the Sales Connect Terms of Service?](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
       + [What is the Sales Connect and Highspot Integration?](product-docs/marketo-sales-connect/faq/what-is-the-sales-connect-and-highspot-integration.md)
-      + [What Are the Latest Client Versions?](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
+      + [Which Browsers and Email Clients Are Supported with Sales Connect?](product-docs/marketo-sales-connect/faq/which-browsers-and-email-clients-are-supported-with-sales-connect.md)
       + [Why Aren't Any of My Contacts Getting Pushed to Sales Connect?](product-docs/marketo-sales-connect/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-connect.md)
       + [Why Can't I Delete a Contact?](product-docs/marketo-sales-connect/faq/why-cant-i-delete-a-contact.md)
       + [Why Didn't All of My Contacts Get Pushed to Sales Connect?](product-docs/marketo-sales-connect/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-connect.md)
