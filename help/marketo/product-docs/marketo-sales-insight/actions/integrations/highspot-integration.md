@@ -14,21 +14,21 @@ Sales can access Highspot capabilities from Sales Insight Actions and achieve gr
 >
 >You must have Admin privileges to enable Highspot for your Sales Insight Actions instance.
 
-1. Select settings
+1. Click the gear icon and select **Settings**.
 
-PICC
+   ![](assets/highspot-integration-1.png)
 
-1. Select general settings in the sidebar
+1. Under **Admin Settings**, select **General**.
 
-PICC
+   ![](assets/highspot-integration-2.png)
 
-1. Scroll to integrations card and enable Highspot
+1. Scroll to **Integrations** card and click the slider to enable Highspot.
 
-PICC
+   ![](assets/highspot-integration-3.png)
 
-1. Now users will see an option to select Highspot when selecting the content upload button on the compose window, template editor, and campaign email editor.
+Now users will see an option to select Highspot when selecting the content upload button on the compose window, template editor, and campaign email editor.
 
-PICC
+   ![](assets/highspot-integration-4.png)
 
 ## Accessing Highspot Content and Sharing Content via Email {#accessing-highspot-content}
 
