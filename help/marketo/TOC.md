@@ -1195,7 +1195,6 @@ feature-set: Marketo Engage
         + [Unsubscribe Overview](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-overview.md)
       + Using the Compose Window {#using-the-compose-window}
         + [Add an Attachment or Trackable Content to Your Email](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
-        + [Adding Highspot Content to Your Email](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
         + [Bulk Sending Options](product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
         + [Composing Bulk Emails with Select and Send](product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
         + [Scheduling an Email](product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
