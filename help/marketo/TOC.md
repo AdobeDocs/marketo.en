@@ -232,7 +232,8 @@ feature-set: Marketo Engage
     + [Adobe Experience Cloud Integrations Overview](product-docs/adobe-experience-cloud-integrations/adobe-experience-cloud-integrations-overview.md)
     + [Set up Adobe Organization Mapping](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
     + [Sync an Audience From Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
-    + [Importing Assets with Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md) 
+    + [Importing Assets with Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
+    + [Unified Shell Overview](product-docs/adobe-experience-cloud-integrations/unified-shell-overview.md) 
   + Core Marketo Concepts {#core-marketo-concepts}
     + Smart Campaigns {#smart-campaigns}
       + [Understanding Smart Campaigns](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
