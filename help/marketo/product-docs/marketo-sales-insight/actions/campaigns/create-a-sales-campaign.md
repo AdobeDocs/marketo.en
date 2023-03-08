@@ -59,6 +59,5 @@ Now it's time to start adding people!
 
 >[!MORELIKETHIS]
 >
->* [Sales Campaign Send Options for Email Steps](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target="_blank"}
 >* [Sales Campaign Step Types and Reminder Tasks](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
 >* [Sales Campaign Settings](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

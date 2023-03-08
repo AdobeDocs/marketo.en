@@ -38,19 +38,19 @@ See how your prospects are engaging with your sales efforts.
   </tr> 
   <tr> 
    <td><p>Send Sales Email</p></td> 
-   <td><p>User sent a sales email from MSE.</p></td> 
+   <td><p>User sent a sales email from Sales Connect.</p></td> 
   </tr> 
   <tr> 
    <td><p>Open Sales Email</p></td> 
-   <td><p>Lead opened a sales email sent from MSE.</p></td> 
+   <td><p>Lead opened a sales email sent from Sales Connect.</p></td> 
   </tr> 
   <tr> 
    <td><p>Click Sales Email</p></td> 
-   <td><p>Lead clicked on a link in a sales email sent from MSE.</p></td> 
+   <td><p>Lead clicked on a link in a sales email sent from Sales Connect.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Receive Sales Email</p></td> 
-   <td colspan="1"><p>Lead received an email sent from MSE.</p></td> 
+   <td colspan="1"><p>Lead received an email sent from Sales Connect.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Receive Sales Call</p></td> 
@@ -58,7 +58,7 @@ See how your prospects are engaging with your sales efforts.
   </tr> 
   <tr> 
    <td colspan="1"><p>Add to Sales Campaign</p></td> 
-   <td colspan="1"><p>Lead was added to a sales campaign created in MSE (in the Campaigns page).</p></td> 
+   <td colspan="1"><p>Lead was added to a sales campaign created in Sales Connect (in the Campaigns page).</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Removed From Sales Campaign</p></td> 
