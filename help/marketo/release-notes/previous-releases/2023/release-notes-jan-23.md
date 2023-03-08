@@ -79,7 +79,7 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td><i>Coming soon</i></td>
+   <td>Shipped</td>
    <td><i>Coming soon</i></td>
   </tr>
   </tbody>
