@@ -15,7 +15,7 @@ In the Reports tab, view data from the past 90 days. Each category is defined be
  </tr>
  <tr>
   <td><strong>Engaged</strong></td>
-  <td>Increments every time a visitor clicks on the chatbot anchor to open the Dialogue.</td>
+  <td>Increments when a visitor interacts with at least one card in a Dialogue (e.g., Question, Info Capture, etc.)</td>
  </tr>
  <tr>
   <td><strong>Completed</strong></td>
