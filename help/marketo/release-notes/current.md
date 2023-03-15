@@ -13,7 +13,7 @@ Below you'll find all the features included in the March '23 release. Check your
 
 ## Standard Release Cycle Features {#standard-release-cycle-features}
 
-The following features fall under the standard release cycle and will start to be released on **March 24, 2023**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check below each feature for its status.
+The following features fall under the standard release cycle and will start to be released on **March 31, 2023**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check below each feature for its status.
 
 ### Marketo Engage Modern UX {#modern-ux}
 

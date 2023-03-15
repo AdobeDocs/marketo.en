@@ -23,10 +23,6 @@ Click **Next** to go to the Enter Service Credentials section.
 
 To access the service being installed, Marketo must have valid API credentials. These credentials should be provided to you by your service provider. Services have three different authentication options, so you may see one of three different prompts for credentials: **API Key** which has only one input field, **Basic Authentication** which requires a username and password and may also require a field called Realm, and **OAuth2** using the _Client Credentials_ grant, which requires a _Client ID_ and _Client Secret_.
 
->[!NOTE]
->
->OAuth2 will not be available until the March 11th release.
-
 When you save your credentials, Marketo will attempt to call the status endpoint of the service to verify that they are valid. If the credentials provided are invalid, you'll see an error indicating this.
 
 ## Onboarding Guide (Optional) {#onboarding-guide}

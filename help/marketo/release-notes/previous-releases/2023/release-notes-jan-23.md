@@ -80,7 +80,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr> 
    <td>Shipped</td>
-   <td><i>Coming soon</i></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

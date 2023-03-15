@@ -68,7 +68,7 @@ PICC
 
 If you receive the above error, please [contact Support](https://nation.marketo.com/t5/support/ct-p/Support) for assistance.
 
-Here is what is changing for Marketo:
+Steven's Notes
 
 Logging in will be done through Experience Cloud/IMS
 
@@ -78,4 +78,4 @@ User History, Global Search, Marketo Notifications, and Task Tray are moving fro
 
 History tree in My Marketo is going away
 
-Bookmarks won't work (for now). We don't need to call this out right now but remove it if you're copying any text from Bizible's doc (their bookmarks work).
+No bookmarks
