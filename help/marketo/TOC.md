@@ -1390,6 +1390,9 @@ feature-set: Marketo Engage
           + [Manage Groups](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
           + [People Page Columns](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
       + Phone {#phone}
+        + [Call Outcomes](product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
+        + [Call Reasons](product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
+        + [Log Call Reasons and Call Outcomes to Salesforce](product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
         + [Enable Call Recording](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
         + [International Calling](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
         + [Local Presence](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
