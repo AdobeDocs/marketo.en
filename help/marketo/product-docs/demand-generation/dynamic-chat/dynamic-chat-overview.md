@@ -105,8 +105,18 @@ When you update the language, everything in the app itself changes except for th
   <th>Limit</th>
  <tr>
   <td>Total Dialogues</td>
-  <td>Total number of Dialogues (published and draft)</td>
+  <td>Number of Dialogues (published and draft)</td>
   <td>500</td>
+ </tr>
+ <tr>
+  <td>Total Calendars</td>
+  <td>Number of Calendars connected</td>
+  <td>25</td>
+ </tr>
+ <tr>
+  <td>Total Users (Admins and Marketing Users)</td>
+  <td>Number of combined users allowed per Dynamic Chat instance</td>
+  <td>50</td>
  </tr>
  <tr>
   <td>Published Dialogues</td>
@@ -165,12 +175,12 @@ When you update the language, everything in the app itself changes except for th
  </tr>
  <tr>
   <td>Conversations Engaged</td>
-  <td>Number of chat conversations that can be engaged with by web visitors per day</td>
-  <td>1,000</td>
+  <td>Number of chat conversations that can be engaged with by web visitors per month</td>
+  <td>250</td>
  </tr>
  <tr>
   <td>Conversations Triggered</td>
-  <td>Number of chat conversations that can be shown to web visitors per day</td>
+  <td>Number of chat conversations that can be shown to web visitors per month</td>
   <td>25,000</td>
  </tr>
 </table>
