@@ -80,7 +80,7 @@ You may need to add, change, or even get rid of a custom activity field. Here's 
 
    >[!CAUTION]
    >
-   >You can only edit the Api Name or change the field to Primary if the custom activity has never been published. If the activity has already been published, you can only edit the field's name and optional description.
+   >You can only edit the Api Name or change the field to Primary if the custom activity has never been published.
 
    >[!NOTE]
    >
