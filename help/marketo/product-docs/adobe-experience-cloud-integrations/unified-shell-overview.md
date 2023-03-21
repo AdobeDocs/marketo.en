@@ -14,7 +14,7 @@ Unified Shell aligns the "shell" look and feel of Adobe Experience Cloud applica
 
 If you're already logged in to an Adobe Experience Cloud product, click the menu icon and select **[!DNL Marketo Measure]**.
 
-PICC
+   ![](assets/unified-shell-overview-1.png)
 
 >[!NOTE]
 >
@@ -30,33 +30,31 @@ In addition to the updated look and feel, you'll notice the following features:
 
 [Manage your [!DNL Marketo Engage] domains](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) without assistance from [!DNL Marketo Engage].
 
-PICC
+PIC2
 
 **Integrated Help Center**
 
 Search for support articles, submit tickets, provide feedback, all from within the [!DNL Marketo Engage] application.
 
-PICC
+   ![](assets/unified-shell-overview-3.png)
 
 **Application Switcher**
 
 Those with access to multiple Adobe products will be able to easily toggle between them.
 
-PICC
+PIC4
 
 **Notifications and Announcements**
 
 View and interact with product-specific notifications and general Adobe product announcements directly in the application.
 
-PICC
-
-PICC
+   ![](assets/unified-shell-overview-5.png)
 
 **Adobe Settings**
 
 Click your profile icon to change your language or other Adobe-wide preferences. You can also make [!DNL Marketo Engage]-specific changes by clicking **My Settings**.
 
-PICC
+   ![](assets/unified-shell-overview-6.png)
 
 ## FAQ {#faq}
 
@@ -64,7 +62,7 @@ PICC
 
 If you can log in to Adobe Experience Cloud, but see the a page like the following, the issue could be on the [!DNL Marketo Engage] side:
 
-PICC
+PIC7
 
 If you receive the above error, please [contact Support](https://nation.marketo.com/t5/support/ct-p/Support) for assistance.
 
