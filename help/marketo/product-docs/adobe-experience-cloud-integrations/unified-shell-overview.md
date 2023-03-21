@@ -28,7 +28,7 @@ In addition to the updated look and feel, you'll notice the following features:
 
 **Integrated Help Center**
 
-Search for support articles, submit tickets, provide feedback, all from within the [!DNL Marketo Engage] application.
+Access a variety of available help resources from within the [!DNL Marketo Engage] application.
 
    ![](assets/unified-shell-overview-2.png)
 
@@ -46,7 +46,7 @@ View and interact with product-specific notifications and general Adobe product 
 
 **Adobe Settings**
 
-Click your profile icon to change your language or other Adobe-wide preferences. You can also make [!DNL Marketo Engage]-specific changes by clicking **My Settings**.
+Click your profile icon to change your language or other Adobe-wide preferences.
 
    ![](assets/unified-shell-overview-5.png)
 
@@ -59,3 +59,7 @@ If you can log in to Adobe Experience Cloud, but then see "Failed to load page" 
 **Where did User History, Global Search, Marketo Notifications, and the Task Tray go?**
 
 These features have moved from the top nav to a new bar on the left hand side in Unified Shell.
+
+   ![](assets/unified-shell-overview-6.png)
+
+   ![](assets/unified-shell-overview-7.png)
