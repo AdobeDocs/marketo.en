@@ -14,7 +14,7 @@ Unified Shell aligns the "shell" look and feel of Adobe Experience Cloud applica
 
 If you're not already logged in to an Adobe Experience Cloud product, log in directly to [!DNL Marketo Engage] here: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
 
-If you _are_ already logged in to an Adobe Experience Cloud product, simply click the menu icon and select **[!DNL Marketo Measure]**.
+If you _are_ already logged in to an Adobe Experience Cloud product, simply click the menu icon and select **[!DNL Marketo Engage]**.
 
    ![](assets/unified-shell-overview-1.png)
 
