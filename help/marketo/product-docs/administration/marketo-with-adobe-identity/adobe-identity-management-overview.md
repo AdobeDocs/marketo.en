@@ -117,6 +117,10 @@ No. The User Invite workflow is no longer active when a subscription is IMS-enab
 
 Yes, you determine the type of identity to have your organization support. More info can be found here: [Identity Overview](https://helpx.adobe.com/enterprise/using/identity.html) and here: [Set up Identity](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
 
+**Which product cards are supported in the Adobe Admin Console?**
+
+The supported product cards are: Marketo Engage, Marketo Measure, Marketo Dynamic Chat, Marketo Sales Connect, and Marketo Sales Insight Actions.
+
 >[!MORELIKETHIS]
 >
 >* [Admin Setup](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
