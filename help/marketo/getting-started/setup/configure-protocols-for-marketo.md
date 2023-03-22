@@ -14,13 +14,12 @@ Your marketing group is using Marketo to create branded campaign landing pages a
 
 This article should be shared with the IT department of the company wishing to implement these protocols.
 
->[!NOTE]
->
->If your IT team restricts web access using an allowlist, ask them to add the following domains (including the asterisk) to allow all Marketo resources and websockets:
+If your IT team restricts web access using an allowlist, ask them to add the following domains (including the asterisk) to allow all Marketo resources and websockets:
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
 * `*.mktoweb.com`
+* `*.experience.adobe.com`
 
 ## Step 1: Create DNS Records for Landing Pages and Email {#step-create-dns-records-for-landing-pages-and-email}
 
@@ -34,7 +33,7 @@ Add the landing page CNAME they sent you to your DNS record, so that `[YourLandi
 
 * Alias: Enter `[YourLandingPageCNAME]` (provided by marketing)
 * Type: CNAME  
-* Point to: Enter `[MarketoAccountString].mktoweb.com` (provided by marketing)
+* Point to: Enter `[MunchkinID].mktoweb.com` (provided by marketing)
 
 `2` **Add CNAME for Email Tracking Links**
 

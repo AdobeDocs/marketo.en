@@ -22,33 +22,37 @@ You may want to add landing page CNAMEs to allow different URLs to point to your
 >
 >**Admin Permissions Required**
 
-## Find Your Account String {#find-your-account-string}
+1. Go to the **Admin** area.
 
-1. Go to the **Admin** area and click **Landing Pages**.
+   ![](assets/add-additional-landing-page-cnames-1.png)
 
-   ![](assets/image2014-9-16-15-3a19-3a54.png)
+1. Click **My Account**.
 
-1. Copy the **Account String** from the **Settings** section.
+   ![](assets/add-additional-landing-page-cnames-2.png)
 
-   ![](assets/image2014-9-16-15-3a20-3a2.png)
+1. Scroll down to "Support Information" and copy your Munchkin ID.
 
-1. Make a note of it for the next step.
+   ![](assets/add-additional-landing-page-cnames-3.png)
 
 ## Send Request to IT {#send-request-to-it}
 
-1. Ask your IT department to setup the following CNAME: (Replace the word [CNAME] with the CNAME of your choice and [ACCOUNT STRING] with the text from the previous step).
+1. Ask your IT department to setup the following CNAME: (Replace the word [CNAME] with the CNAME of your choice and [Munchkin ID] with the text from the previous step).
 
-   [CNAME].YourCompany.com > [ACCOUNT STRING].mktoweb.com
+   [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## Add a New CNAME {#add-a-new-cname}
 
-1. Once your IT department has created the CNAME, go to **Admin** then click **Landing Pages**.
+1. Once your IT department has created the CNAME, go to the **Admin** area.
 
-   ![](assets/image2014-9-16-15-3a20-3a20.png)
+   ![](assets/add-additional-landing-page-cnames-4.png)
+
+1. Click **Landing Pages**.
+
+   ![](assets/add-additional-landing-page-cnames-5.png)
 
 1. Click **New** then select **New Domain Alias**.
 
-   ![](assets/image2014-9-16-15-3a20-3a28.png)
+   ![](assets/add-additional-landing-page-cnames-6.png)
 
 1. Enter your **Domain Alias.** The **Default Page** is displayed if the visitor does not put in a URL. Enter where they should go in that case.
 
@@ -56,10 +60,10 @@ You may want to add landing page CNAMEs to allow different URLs to point to your
    >
    >For the Default Page, you can select a landing page or an external URL, such as your public website.
 
-   ![](assets/image2014-9-16-15-3a20-3a36.png)
+   ![](assets/add-additional-landing-page-cnames-7.png)
 
 1. Enter your **Default Page** and click **Create**.
 
-   ![](assets/image2014-9-16-15-3a20-3a43.png)
+   ![](assets/add-additional-landing-page-cnames-8.png)
 
 Nice! Now you know what to do if you ever want to add a CNAME.

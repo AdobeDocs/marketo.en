@@ -24,41 +24,47 @@ Pick a word to go at the beginning of the URL for your landing pages. It's just 
 
 The one word (plus YourCompany.com) is called a CNAME. You'll need this later so make a note of it.
 
-## Find your Account String {#find-your-account-string}
+## Find your Munchkin ID {#find-your-munchkin-id}
 
-1. Go to the **Admin** area and click on **Landing Pages**.
+1. Go to the **Admin** area.
 
-   ![](assets/image2014-9-18-16-3a2-3a45.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
+
+1. Click **My Account**.
+
+   ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
    >[!NOTE]
    >
    >**Admin Permissions Required**
 
-1. Under the **Landing** **Pages** tab, copy the **Account** **String** from the **Settings** section.
+1. Scroll down to "Support Information" and copy your Munchkin ID.
 
-   ![](assets/image2014-9-18-16-3a44-3a12.png)
-
-1. You will need later also, so make a note of it.
+   ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
 ## Send Request to IT {#send-request-to-it}
 
-Ask your IT staff to setup the following CNAME: (Replace the word [CNAME] and [ACCOUNT STRING] with the text from the previous step.)
+Ask your IT staff to setup the following CNAME: (Replace the word [CNAME] and [Munchkin ID] with the text from the previous step.)
 
-[CNAME].YourCompany.com > [ACCOUNT STRING].mktoweb.com
+[CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## Complete CNAME Setup {#complete-cname-setup}
 
-1. Once your IT has created the CNAME, go to **Admin** and click on **Landing Pages**.
+1. Once your IT has created the CNAME, go to the **Admin** area.
 
-   ![](assets/image2014-9-18-17-3a15-3a11.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. Under the **Settings** section, click on **Edit**.
+1. Click **Landing Pages**.
 
-   ![](assets/image2014-9-18-17-3a15-3a18.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
+
+1. Under the **Settings** section, click **Edit**.
+
+   ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
 1. Enter your CNAME in **Domain name for Landing Pages**, enter your **Fallback page**, enter your **Homepage** and click **Save**.
 
-   ![](assets/image2014-9-18-17-3a15-3a25.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 
 >[!NOTE]
 >
