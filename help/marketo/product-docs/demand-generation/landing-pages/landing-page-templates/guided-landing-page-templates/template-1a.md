@@ -19,6 +19,6 @@ This template includes the following content:
 * Three body sections (optional)
 * Footer (optional)
 
-**Right-Right-click below to download this template:**
+**Right-click below to download this template:**
 
 [Template 1A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html)
