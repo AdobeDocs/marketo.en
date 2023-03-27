@@ -19,7 +19,7 @@ The following features fall under the standard release cycle and will start to b
 
 </br>
 
-* **Enhanced Used by Component for Landing Page Template Details and Form Details**: New Used By UI tab provides additional information in Landing Page Template Details and Form Details, including more details regarding assets that have used a selected asset. Perform analysis on long lists of assets through the search, sort, and filtering capabilities.
+ * **Enhanced Used by Component for Landing Page Template Details and Form Details**: New Used By UI tab provides additional information in Landing Page Template Details and Form Details, including more details regarding assets that have used a selected asset. Perform analysis on long lists of assets through the search, sort, and filtering capabilities.
 
   <table> 
   <tr> 
@@ -61,7 +61,7 @@ The following features fall under the standard release cycle and will start to b
   </tbody>
 </table>
 
-### API Enhancements {#api-enhancements}
+### Integration Updates {#integration-updates}
 
 </br>
 
