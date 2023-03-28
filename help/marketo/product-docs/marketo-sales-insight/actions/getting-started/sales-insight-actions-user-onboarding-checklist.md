@@ -6,6 +6,8 @@ title: Sales Insight Actions User Onboarding Checklist
 
 If you're looking for resources on how to get started with Marketo Sales Insight Actions, please [download the onboarding checklist](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx).
 
-   [![](assets/sales-insight-actions-user-onboarding-checklist-1.png)](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx)
+[![](assets/sales-insight-actions-user-onboarding-checklist-1.png)](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx)
+
+<br/>
 
 The checklist will help you and your team coordinate the activation, configuration, and onboarding of your new Sales Insight Actions instance. You'll need to make updates in Marketo, Salesforce, and Marketo Sales Insight Actions to complete the setup, so be sure to coordinate with admins of each system.
