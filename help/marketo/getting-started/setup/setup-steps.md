@@ -119,19 +119,19 @@ Go to the **Admin** area.
 
    The first part (in bold) is the `[LandingPageCNAME]`. You'll need it in Step 5.
 
-   To retrieve the account string that you'll be replacing with your landing page CNAME, go to the Admin area.
+   To retrieve the Munchkin ID that you'll be replacing with your landing page CNAME, go to the Admin area.
 
    ![](assets/setup-steps-9.png)
 
-   Click **Landing Pages**.
+   Click **My Account**.
 
    ![](assets/setup-steps-10.png)
 
-   Copy the Account String from landing page settings.
+   Scroll down to "Support Information" and copy your Munchkin ID.
 
    ![](assets/setup-steps-11.png)
 
-   This is the `[AccountString]`. Save it. You'll need to give it to IT in Step 5.
+   This is the `[Munchkin ID]`. Save it. You'll need to give it to IT in Step 5.
 
 Configure your domain settings so landing pages use your company's domain instead of Marketo's (where they are hosted).
 
@@ -201,13 +201,13 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
    >
    >See Steps 3 and 4 above to determine the text to replace the placeholders. Remember that `[LandingPageCNAME]` and `[EmailTrackingCNAME]` must be different.
 
-`---------------------------------------------`
+`----------------------------------------------`
 
    Dear Awesome IT Administrator,
 
    Our Marketing Team is now using the Marketo platform to communicate with our people. To ensure great email deliverability, we need to make the following changes:
 
-   `1)` For our landing pages, add a DNS Entry (CNAME) for **[LandingPageCNAME]**.**[CompanyDomain]**.com, pointing to **[AccountString]**.mktoweb.com.
+   `1)` For our landing pages, add a DNS Entry (CNAME) for **[LandingPageCNAME]**.**[CompanyDomain]**.com, pointing to **[Munchkin ID]**.mktoweb.com.
 
    `2)` For our tracking links in email, add a DNS Entry (CNAME) for **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, pointing to **[MktoTrackingLink]**.
 
@@ -270,7 +270,7 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
    **`[Your Name]`**
 
-`---------------------------------------------`
+`----------------------------------------------`
 
    Send the email to IT. We understand it can take some time for IT to complete these tasks. You can continue on to Step 7, but remember that you must return Step 6 to complete your Marketo setup.
 
