@@ -14,7 +14,7 @@ Please click the title links to view detailed articles for each feature. **Note*
 
 Marketo is leveraging our big data architecture to increase trigger campaign throughput and improve web activity processing, so you can react to your audience's actions faster.
 
-## Enhancements to Marketo’s Salesforce CRM Integration {#enhancements-to-marketo-s-salesforce-crm-integration}
+## Enhancements to Marketo's Salesforce CRM Integration {#enhancements-to-marketo-s-salesforce-crm-integration}
 
 We have two enhancements to our Salesforce CRM Integration:
 
@@ -28,7 +28,7 @@ These improvements will roll out over 2018.
 
 >[!AVAILABILITY]
 >
->Performance Insights is an add-on product. Please contact your Marketo Customer Success Manager or Account Executive for a quote.
+>Performance Insights is an add-on product. Please contact your Marketo Account Manager or Account Executive for a quote.
 
 Explore how your campaigns and channels are impacting business results with attribution analytics, interactive visualizations, and a detailed data table.
 
@@ -88,11 +88,11 @@ This new API allows you to remotely activate and deactivate trigger campaigns, s
 
 **Unsubscribe Update**
 
-Beginning March 1, 2018, all emails sent from [ToutApp.com](https://ToutApp.com) (and by using the “Email with Tout” button in Salesforce) will have an unsubscribe link appended to the bottom.
+Beginning March 1, 2018, all emails sent from [ToutApp.com](https://ToutApp.com) (and by using the "Email with Tout" button in Salesforce) will have an unsubscribe link appended to the bottom.
 
 **Live Feed Update**
 
-We’ve updated the look and feel of the Engagement and Task tabs to make it easier and faster for Sales members to respond to their customers’ activities directly from the Live Feed.
+We've updated the look and feel of the Engagement and Task tabs to make it easier and faster for Sales members to respond to their customers' activities directly from the Live Feed.
 
 **People Detail View Update**
 

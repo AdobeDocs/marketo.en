@@ -8,11 +8,11 @@ exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 
 Link your Google AdWords account to Marketo to automatically upload offline conversion data from Marketo to Google AdWords. Then, from the AdWords UI, you will be able to easily see which clicks resulted in qualified leads, opportunities, and new customers (or whatever revenue stages you want to track) after you [add custom columns](https://support.google.com/adwords/answer/3073556){target="_blank"} in AdWords. This information does not appear in the Marketo UI.
 
-Learn more about [Google’s offline conversion import feature](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
+Learn more about [Google's offline conversion import feature](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this feature. Please contact your Customer Success Manager for details.
+>Not all customers have purchased this feature. Please contact the Adobe Account Team (your Account Manager) for details.
 
 >[!NOTE]
 >

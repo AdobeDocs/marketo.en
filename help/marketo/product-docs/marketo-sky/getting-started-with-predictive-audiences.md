@@ -20,10 +20,10 @@ The performance of the AI/ML models relies on the data in your subscription. The
 
 ## Availability {#availability}
 
-Predictive Audiences is automatically included and activated for instances utilizing Prime or Ultimate pricing bundles. To learn more about getting access to this feature, please contact your Customer Success Manager.
+Predictive Audiences is automatically included and activated for instances utilizing Prime or Ultimate pricing bundles. To learn more about getting access to this feature, please contact the Adobe Account Team (your Account Manager).
 
 1. Once the feature has been added to your instance, navigate to the **[!UICONTROL Predictive Audiences]** page in the **[!UICONTROL Admin]** area of [!DNL Marketo Classic].
 
-1. Check **[!UICONTROL Enable Predictive Audiences]** to activate the feature. Note that it could take up to 24 hours for all processes to complete setup.
+1. Check **[!UICONTROL Enable Predictive Audiences]** to activate the feature. Note that it could take up to 24 hours for all processes to complete setup.
 
    ![Image One](assets/getting-started-with-predictive-audiences-1.png)

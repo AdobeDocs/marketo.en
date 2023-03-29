@@ -9,7 +9,7 @@ If you're using our SOAP API or Munchkin API, Custom Object Metadata Schema can 
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this feature. Please contact your Customer Success Manager for details.
+>Not all customers have purchased this feature. Please contact the Adobe Account Team (your Account Manager) for details.
 
 1. In My Marketo, click **Admin**.
 

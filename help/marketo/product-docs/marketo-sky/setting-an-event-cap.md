@@ -11,7 +11,7 @@ Limit the amount of people who can register for your event with an event cap.
 
 >[!NOTE]
 >
->Not all customers have purchased this feature. Please contact your Customer Success Manager for details.
+>Not everyone has purchased this feature. Please contact the Adobe Account Team (your Account Manager) for details.
 
 >[!IMPORTANT]
 >You must have at least two approved landing pages (a Registration page and a Registration Full page) in the program before you can set an event cap.

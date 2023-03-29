@@ -10,7 +10,7 @@ We support SSO through the SAML 2.0 specification. However, we don't have direct
 
 >[!NOTE]
 >
->This is only applicable to **Marketo Sales Connect** customers. If you don't have Sales Connect but want to learn more, please contact your Customer Success Manager.
+>This is only applicable to **Marketo Sales Connect** users. If you don't have Sales Connect but want to learn more, please contact the Adobe Account Team (your Account Manager).
 
 ## Requirements {#requirements}
 

@@ -10,7 +10,7 @@ Follow these steps to create an Email Analysis Report that will show email infor
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your Customer Success Manager for details.
+>Not everyone has purchased this feature. Please contact the Adobe Account Team (your Account Manager) for details.
 
 1. Launch **Revenue Explorer**.
 

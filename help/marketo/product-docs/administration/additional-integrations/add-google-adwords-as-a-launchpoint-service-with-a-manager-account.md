@@ -10,11 +10,11 @@ Link your Google AdWords account to Marketo to automatically upload offline conv
 
 If you have multiple Google Adwords accounts, you can use a [Google AdWords Manager Account](https://www.google.com/adwords/manager-accounts/){target="_blank"} (formerly known as My Client Center) to integrate them with Marketo.
 
-Learn more about [Google’s offline conversion import feature](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
+Learn more about [Google's offline conversion import feature](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this feature. Please contact your Customer Success Manager for details.
+>Not all customers have purchased this feature. Please contact the Adobe Account Team (your Account Manager) for details.
 
 >[!NOTE]
 >

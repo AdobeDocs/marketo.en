@@ -25,7 +25,7 @@ _(previously known as Revenue Cycle Explorer/Advanced Report Builder)_
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased Advanced BI Analytics and Advanced Journey Analytics modules. Contact your Customer Success Manager for more information.
+>Not everyone has purchased Advanced BI Analytics and Advanced Journey Analytics modules. Contact the Adobe Account Team (your Account Manager) more information.
 
 Track the ROI on your marketing initiatives. Analyze Emails, People, Programs, Opportunities, Model Performance Analysis (Companies), and Model Performance Analysis (Leads). The BI Explorer allows you to create custom reports within the analysis area and create graphs, charts, pivots, and dashboards with your data.
 

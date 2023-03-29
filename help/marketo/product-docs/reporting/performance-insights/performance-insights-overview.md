@@ -10,7 +10,7 @@ Marketo Performance Insights helps you optimize your channel mix for maximum eff
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this feature. Please contact your Customer Success Manager for details.
+>Not everyone has purchased this feature. Please contact the Adobe Account Team (your Account Manager) for details.
 
 Performance Insights loads data from (up to) the previous 24 months. This includes current year-to-date data, as well as the previous year's. So for example, on January 31, 2019 , MPI will load data from that month, and every month from 2018. On December 31, 2019, MPI will load data from every month of 2019 and 2018.
 

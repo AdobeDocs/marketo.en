@@ -40,7 +40,7 @@ A Universal ID lets you access multiple Marketo subscriptions with a single logi
 
 ## Marketo Account Based Marketing Enhancements {#marketo-account-based-marketing-enhancements}
 
-Now, you can assign account teams to named accounts in Account Based Marketing (ABM), for example, account owner, sales development representative, business development representative, and customer success manager. You also can build account-owner-specific account lists and send personalized weekly ABM reports to the account team.
+Now, you can assign account teams to named accounts in Account Based Marketing (ABM), for example, account owner, sales development representative, business development representative, and account manager. You also can build account-owner-specific account lists and send personalized weekly ABM reports to the account team.
 
 ![](assets/account-team-11-15-16.png)
 

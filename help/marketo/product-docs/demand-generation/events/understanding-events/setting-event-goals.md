@@ -10,7 +10,8 @@ exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 Give your events specific goals and see how they perform.
 
 >[!IMPORTANT]
->Not all customers have access to this feature. Please contact your Customer Success Manager for details.
+>
+>Not everyone has purchased this feature. Please contact the Adobe Account Team (your Account Manager) for details.
 
 1. Create an event program.
 

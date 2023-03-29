@@ -42,7 +42,7 @@ Shows the average engagement score over time and the impact of content edits.
 
 >[!AVAILABILITY]
 >
->This feature is available as an add-on for customers who utilize Marketo's Revenue Cycle Explorer. Please contact your Customer Success Manager for additional details.
+>This feature is available as an add-on for customers who utilize Marketo's Revenue Cycle Explorer. Please contact the Adobe Account Team (your Account Manager) for additional details.
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 

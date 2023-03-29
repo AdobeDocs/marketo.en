@@ -10,7 +10,7 @@ Marketo Sales Connect is a multi-faceted sales support solution with a variety o
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your Customer Success Manager for more information.
+>Not everyone has purchased this feature. Please contact the Adobe Account Team (your Account Manager) for details.
 
 ## The Live Feed {#the-live-feed}
 

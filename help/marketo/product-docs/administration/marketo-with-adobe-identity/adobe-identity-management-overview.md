@@ -5,13 +5,13 @@ exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 ---
 # Adobe Identity Management Overview {#adobe-identity-management-overview}
 
-If you have a new account with Adobe Marketo Engage (new account, not just a new instance for an existing account) as of Feb 15, 2022, it may come integrated with the Adobe Identity  Management System, depending on the product package purchased. To find out if you have it, please contact your Marketo Admin or your account's Customer Success Manager.
+If you have a new account with Adobe Marketo Engage (new account, not just a new instance for an existing account) as of Feb 15, 2022, it may come integrated with the Adobe Identity Management System, depending on the product package purchased. To find out if you have it, please contact the Adobe Account Team (your Account Manager).
 
 Existing Marketo subscriptions will begin to be migrated to the Adobe Identity Management System in the second half of 2023.
 
 >[!NOTE]
 >
->Marketo Support will not be able to provide any updates regarding Adobe IMS migration. Your Customer Success Manager will reach out with the estimated timeline in the coming months.
+>Marketo Support will not be able to provide any updates regarding Adobe IMS migration. The Adobe Account Team will reach out with the estimated timeline in the coming months.
 
 ## Profile Levels {#profile-levels}
 
@@ -55,7 +55,7 @@ Adobe Identity Management System consists of three components.
 
 **When will existing Marketo Engage subscriptions be integrated with IMS?**
 
-Existing Marketo subscriptions will be migrated to the Adobe Identity Management System later this year. Marketo Support will not be able to provide any updates regarding Adobe IMS migration. Your Customer Success Manager will reach out with the estimated timeline in the coming months.
+Existing Marketo subscriptions will be migrated to the Adobe Identity Management System later this year. Marketo Support will not be able to provide any updates regarding Adobe IMS migration. The Adobe Account Team will reach out with the estimated timeline in the coming months.
 
 **What's the difference between an Adobe Product Admin and a Marketo Engage Admin?**
 

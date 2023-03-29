@@ -7,7 +7,7 @@ exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 
 >[!PREREQUISITES]
 >
->* Confirm with your Customer Success Manager that MSI Actions has been enabled for your Marketo Account (if you do not have a CSM, contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}).
+>* Confirm with the Adobe Account Team (your Account Manager) that MSI Actions has been enabled for your Marketo Engage Account (if you don't have an Account Manager, contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}).
 >* Your Marketo/Salesforce sync must be set up.
 
 <table>
@@ -79,7 +79,7 @@ The user will receive an email with steps to get access to the account.
 
    ![](assets/msi-actions-admin-guide-6.png)
 
-If you’re already logged in to Salesforce, you’ll be connected. If you’re not, you’ll be asked to log in.
+If you're already logged in to Salesforce, you'll be connected. If you're not, you'll be asked to log in.
 
 ## Connect Marketo to Your Sales Apps Account {#connect-marketo-to-your-sales-apps-account}
 
@@ -97,7 +97,7 @@ If you’re already logged in to Salesforce, you’ll be connected. If you’re 
 
 >[!NOTE]
 >
->If it doesn't connect, copy the credentials from Marketo Sales Insight “Actions Config” tab and paste them in the Set Up tab.
+>If it doesn't connect, copy the credentials from Marketo Sales Insight "Actions Config" tab and paste them in the Set Up tab.
 
 ## Initiate Data Sync {#initiate-data-sync}
 

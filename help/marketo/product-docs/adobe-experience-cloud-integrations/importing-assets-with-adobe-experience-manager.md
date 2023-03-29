@@ -10,7 +10,7 @@ The Asset Selector allows Marketo customers to access, select, and import AEM as
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this feature. Please contact your Customer Success Manager for details.
+>Not everyone has purchased this feature. Please contact the Adobe Account Team (your Account Manager) for details.
 
 >[!PREREQUISITES]
 >

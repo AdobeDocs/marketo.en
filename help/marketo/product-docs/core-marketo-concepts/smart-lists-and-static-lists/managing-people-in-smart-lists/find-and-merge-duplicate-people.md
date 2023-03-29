@@ -74,6 +74,6 @@ For specifics of Salesforce behavior when merging Leads or Contacts, please chec
 
 ## Bulk Merging {#bulk-merging}
 
-If you have too many duplicates to manually merge, contact your Customer Success Manager to discuss your options.
+If you have too many duplicates to manually merge, contact the Adobe Account Team (your Account Manager) to discuss your options.
 
-Super! If you are connected to a CRM the records will merge there according to the rules below.
+If you're connected to a CRM, the records will merge there according to the rules below.

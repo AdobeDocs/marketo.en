@@ -14,7 +14,7 @@ Use [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) to run ad 
 
 >[!AVAILABILITY]
 >
->To get Facebook Lead Ads added to your instance, please contact your Customer Success Manager.
+>To get Facebook Lead Ads added to your instance, please contact the Adobe Account Team (your Account Manager).
 
 1. Go to Marketo **Admin**.
 

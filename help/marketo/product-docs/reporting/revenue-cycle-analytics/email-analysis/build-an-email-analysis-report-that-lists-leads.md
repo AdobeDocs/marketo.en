@@ -10,7 +10,7 @@ Follow these steps to create an Email Analysis report that will show you every l
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your Customer Success Manager for details.
+>Not everyone has purchased this feature. Please contact the Adobe Account Team (your Account Manager) for details.
 
 >[!NOTE]
 >

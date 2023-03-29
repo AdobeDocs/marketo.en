@@ -9,7 +9,7 @@ Accelerate prospecting efforts with marketing-powered intelligence and engagemen
 
 >[!AVAILABILITY]
 >
->This feature is currently in a phased rollout. Please reach out to your Customer Success Manager or email `sales-insights(at)adobe(dot)com` to request access.
+>This feature is currently being rolled out to all Sales Insight users. If you'd like to be prioritized in the roll out, please send an email to `sales-insights(at)adobe(dot)com`.
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ Accelerate prospecting efforts with marketing-powered intelligence and engagemen
 
 ## Lead Layout and Contact Layout {#lead-layout-and-contact-layout}
 
-The following actions are available from the “Choose Actions” drop down in the top nav:
+The following actions are available from the "Choose Actions" drop down in the top nav:
 
 * Send Sales Email
   * Sales emails have view, click and reply tracking (when delivery channel is set up)

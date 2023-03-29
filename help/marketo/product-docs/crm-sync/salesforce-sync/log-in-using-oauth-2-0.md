@@ -47,7 +47,7 @@ Salesforce uses the OAuth protocol to allow users of applications to securely ac
 >
 >* API access must be enabled for the Salesforce Sync User (if you're a Salesforce Professional Edition user, that access is not available by default–please contact your Salesforce Account Executive).
 >* Marketo Sync user has to be created in Salesforce.
->* For existing customers, Feature to “Enable OAuth for SFDC sync” is enabled on the customer’s subscription.
+>* For existing customers, Feature to "Enable OAuth for SFDC sync" is enabled on the customer's subscription.
 >* Pop-up blockers are disabled.
 >* Connected App is created and we have the Consumer Key and Consumer Secret are available for use.
 
@@ -69,9 +69,9 @@ Salesforce uses the OAuth protocol to allow users of applications to securely ac
 
    >[!CAUTION]
    >
-   >If you're seeing Username/Password/Token fields and not a “Login with Salesforce” Button, your Marketo Subscription is enabled for Basic Authentication. Please refer to [Set up Marketo with Basic Authentication](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). Once the sync begins using a set of Credentials, there is no switching of Salesforce credentials or subscription. If you want to use Oauth 2.0, reach out to your Customer Success Manager.
+   >If you're seeing Username/Password/Token fields and not a "Login with Salesforce" Button, your Marketo Subscription is enabled for Basic Authentication. Please refer to [Set up Marketo with Basic Authentication](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). Once the sync begins using a set of Credentials, there is no switching of Salesforce credentials or subscription. If you want to use Oauth 2.0, reach out to the Adobe Account Team (your Account Manager).
 
-1. A pop-up with the salesforce login page will show up. Key in your “Marketo Sync User” credentials and log in.
+1. A pop-up with the salesforce login page will show up. Key in your "Marketo Sync User" credentials and log in.
 
    ![](assets/setting-up-oauth-2-10.png)
 
