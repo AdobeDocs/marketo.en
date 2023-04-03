@@ -12,6 +12,11 @@ The following limits are in place for usage of expanded sales engagement capabil
   <th>Rate</th>
   <th>Limit</th>
  <tr>
+  <td>Marketo Person Database sync</td>
+  <td>ongoing</td>
+  <td>1,500,000 people</td>
+ </tr>
+ <tr>
   <td>Sales Email Sends</td>
   <td>per user/per day</td>
   <td>1,000</td>
