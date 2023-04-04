@@ -48,7 +48,7 @@ Against email link click and email open activity, new attributes will be populat
 >
 >Leverage bot activity data in Smart Lists via "Is Bot Activity" boolean (yes/no) and "Bot Activity Pattern" in the "Clicked Link in Email" and "Open Email" filters, and "Clicks Link in Email" and "Opens Email" triggers.
 
-## IP Blocklist {ip-blocklist}
+## IP Blocklist {#ip-blocklist}
 
 We've compiled a list of IP addresses that are responsible for generating millions of fake engagements, as such engagement received from any of the following IPs is automatically filtered out and not added to your Marketo Engage Instance. This may result in a reduction in email opens, clicks, and other related activities. The list below may be updated periodically.
 
