@@ -43,35 +43,35 @@ Once you have these personas set up (_and_ you use workspaces), you will want to
 
 ## Example Scenarios {#example-scenarios}
 
-![](assets/image2015-5-27-16-3a26-3a25.png)
+![](assets/share-segmentations-across-workspaces-and-partitions-1.png)
 
-![](assets/image2015-5-27-16-3a26-3a48.png)
+![](assets/share-segmentations-across-workspaces-and-partitions-2.png)
 
 ## Share a Segmentation {#share-a-segmentation}
 
 1. Go to the **Database**.
 
-   ![](assets/image2017-3-29-8-3a15-3a40.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. Right-click **Segmentations** and select **New Folders**.
+1. Right-click **Segmentations** and select **New Folder**.
 
-   ![](assets/image2017-3-29-8-3a40-3a31.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Name the folder you are going to share across workspaces (example: Share Segmentations).
+1. Name the folder you're going to share across workspaces (example: Share Segmentations) and click **Create**.
 
-   ![](assets/image2017-3-29-8-3a40-3a45.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
 1. Move the Segmentation(s) you want to share into the folder.
 
-   ![](assets/image2017-3-29-8-3a41-3a3.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
 1. Right-click the folder and select **Share Folder**.
 
-   ![](assets/image2017-3-29-8-3a41-3a19.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
 1. Select the workspace(s) you want to share the folder with. Click **Save**.
 
-   ![](assets/share-segmentations-across-workspaces-and-partitions.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 
    >[!NOTE]
    >

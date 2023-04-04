@@ -16,24 +16,22 @@ A person partition is like having a second (or third) database. A partition can 
 >
 >[Create a Person Partition](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
-1. Under **Admin**, click **Workspaces & Partitions**.
+1. Go to the **Admin** area. 
 
-   ![](assets/image2014-9-17-10-3a51-3a23.png)
+   ![](assets/edit-an-existing-person-partition-1.png)
+
+1. Click **Workspaces & Partitions**.
+
+   ![](assets/edit-an-existing-person-partition-2.png)
 
 1. Under the **Person Partitions** tab, select the person partition you want to edit and click on **Edit Person Partition**.
 
-   ![](assets/two-5.png)
+   ![](assets/edit-an-existing-person-partition-3.png)
 
 1. Enter the Person Partition **Name**, the **Workspaces** they belong to, and click **Save**.
 
-   ![](assets/three-5.png)
+   ![](assets/edit-an-existing-person-partition-4.png)
 
 1. After saving the changes, you should see the update!
 
-   ![](assets/four-4.png)
-
-That's it. It seems like such a powerful feature should be complex, but it's not.
-
-   >[!CAUTION]
-   >
-   >Measure twice, cut once. You don't want to assign a partition to the wrong workspace.
+   ![](assets/edit-an-existing-person-partition-5.png)

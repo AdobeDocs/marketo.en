@@ -18,11 +18,11 @@ There are two types of smart campaigns: Batch and Trigger.
 
 Batch smart campaigns will only have filters within the smart list section (i.e., no triggers).
 
-![](assets/batch-filter.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
 Clicking on the **Schedule** tab will confirm that the smart campaign is set to "Batch."
 
-![](assets/batch-c4.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **Batch Smart Campaigns**
 
@@ -41,11 +41,11 @@ Clicking on the **Schedule** tab will confirm that the smart campaign is set to 
 
 If a smart campaign uses at least one trigger within the smart list section, the mode will automatically be set to triggered.
 
-![](assets/trigger.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Clicking on the **Schedule** tab will confirm that the smart campaign is set to "Triggered."
+Clicking the **Schedule** tab will confirm that the smart campaign is set to "Triggered."
 
-![](assets/trigger2.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
 **Trigger Smart Campaigns**
 

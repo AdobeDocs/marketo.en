@@ -16,13 +16,17 @@ Sometimes you need to make changes in a Workspace. It's easy.
 >
 >Brush up on workspaces with [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Under **Admin**, click on **Workspaces & Partitions**.
+1. Go to the **Admin** area. 
 
-   ![](assets/image2014-9-17-11-3a59-3a11-1.png)
+   ![](assets/edit-a-workspace-1.png)
+
+1. Click **Workspaces & Partitions**.
+
+   ![](assets/edit-a-workspace-2.png)
 
 1. Select the workspace you want to edit and click **Edit Workspace**.
 
-   ![](assets/two-7.png)
+   ![](assets/edit-a-workspace-3.png)
 
 1. You can select a different lead partition and choose a different primary person partition from the drop-down.
 
@@ -30,7 +34,7 @@ Sometimes you need to make changes in a Workspace. It's easy.
    >
    >You can [create more person partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) if you need them.
 
-   ![](assets/three-7.png)
+   ![](assets/edit-a-workspace-4.png)
 
    >[!NOTE]
    >
@@ -42,7 +46,7 @@ Sometimes you need to make changes in a Workspace. It's easy.
 
    If you enabled multiple branded domains, you can change to a different primary branded domain. Click **Save**.
 
-   ![](assets/four-6.png)
+   ![](assets/edit-a-workspace-5.png)
 
    >[!NOTE]
    >

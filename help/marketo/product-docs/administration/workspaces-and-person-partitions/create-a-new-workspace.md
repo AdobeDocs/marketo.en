@@ -67,4 +67,4 @@ Create as many workspaces as you need and assign the appropriate person partitio
 
 After creating your workspace, you should see the update.
 
-   ![](assets/image2014-9-17-15-3a39-3a10.png)
+   ![](assets/create-a-new-workspace-7.png)

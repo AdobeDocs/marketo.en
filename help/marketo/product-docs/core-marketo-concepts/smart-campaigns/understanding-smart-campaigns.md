@@ -8,11 +8,11 @@ exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 
 If Marketo is a powerful car, the smart campaign is truly the engine. It's simple to get started but can do almost anything you ask of it.
 
-The smart campaign has 3 main areas: The [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} tabs.
+The smart campaign has 3 main areas: The [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} tabs.
 
 ## Smart List {#smart-list}
 
-The smart list is how you define WHO you want to target with your smart campaign. It has filters and triggers.
+The smart list is how you define _who_ you want to target with your smart campaign. It has filters and triggers.
 
 <table> 
  <tbody> 
@@ -48,7 +48,7 @@ There is an enormous amount of things the smart campaign can do. Get the hang of
 
 >[!CAUTION]
 >
->If you move a Smart Campaign from one program to another program and the campaign’s Smart List or Flow Steps reference the original program, you must manually update the information to reflect its new program, as it will **not** auto-update.
+>If you move a Smart Campaign from one program to another program and the campaign's Smart List or Flow Steps reference the original program, you must manually update the information to reflect its new program, as it will **not** auto-update.
 
 >[!MORELIKETHIS]
 >
