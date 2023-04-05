@@ -6,13 +6,13 @@ exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 ---
 # Smart Campaign Checklist {#smart-campaign-checklist}
 
-Follow the below steps to ensure smooth running of the smart campaign and prevent errors as much as possible.
+Follow the below steps to ensure smooth running of the Smart Campaign and prevent errors as much as possible.
 
 ## Get Rid of Smart List Errors {#get-rid-of-smart-list-errors}
 
-   In your smart campaign, click on **Smart List**. Get rid of any red squiggly lines that you see by fixing the errors.
+   In your Smart Campaign, click on **Smart List**. Get rid of any red squiggly lines that you see by fixing the errors.
 
-   ![](assets/image2014-9-22-16-3a9-3a13.png)
+   ![](assets/smart-campaign-checklist-1.png)
 
    >[!TIP]
    >
@@ -26,9 +26,9 @@ Follow the below steps to ensure smooth running of the smart campaign and preven
 
 ## Get Rid of Flow Errors {#get-rid-of-flow-errors}
 
-In your smart campaign, click on **Flow**. Get rid of any red squiggly lines you see by fixing the errors.
+In your Smart Campaign, click **Flow**. Get rid of any red squiggly lines you see by fixing the errors.
 
-   ![](assets/image2014-9-22-16-3a10-3a49.png)
+   ![](assets/smart-campaign-checklist-2.png)
 
    >[!TIP]
    >
@@ -36,24 +36,24 @@ In your smart campaign, click on **Flow**. Get rid of any red squiggly lines you
 
 ## Review the Schedule Tab {#review-the-schedule-tab}
 
-In the **Schedule** tab, check **Smart** **List** **Status** for any errors in the smart campaign that needs fixing.
+In the **Schedule** tab, check **Smart** **List** **Status** for any errors in the Smart Campaign that needs fixing.
 
-   ![](assets/three.png)
+   ![](assets/smart-campaign-checklist-3.png)
 
 ## Check Person Restrictions Limit {#check-person-restrictions-limit}
 
 In the **Schedule** tab, make sure the number of qualified people does not exceed the person restriction limit.
 
-   ![](assets/four.png)
+   ![](assets/smart-campaign-checklist-4.png)
 
    >[!TIP]
    >
-   >If required, you can  [override person restrictions in a smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+   >If required, you can [override person restrictions in a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
 >**Reminder**
 >
->If your smart campaign still fails, learn how to [understand notifications](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) to figure out what went wrong and how to fix it.
+>If your Smart Campaign still fails, learn how to [understand notifications](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) to figure out what went wrong and how to fix it.
 
-Great job! Keep this checklist handy before running a smart campaign.
+Great job! Keep this checklist handy before running a Smart Campaign.

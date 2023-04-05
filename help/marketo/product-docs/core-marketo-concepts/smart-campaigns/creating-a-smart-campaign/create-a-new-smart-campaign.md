@@ -6,35 +6,31 @@ exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 ---
 # Create a New Smart Campaign {#create-a-new-smart-campaign}
 
-Smart campaigns are the most important tool in Marketo. They can trigger on one person and perform actions, or rollup millions of people and run a series of flow steps.
+Smart Campaigns are the most important tool in Marketo Engage. They can trigger on one person and perform actions, or rollup millions of people and run a series of flow steps.
 
->[!NOTE]
+>[!TIP]
 >
->Smart campaigns are super cool. Learn more about them [here](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+>Learn more about [Smart Campaigns](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
 
 1. Go to **Marketing Activities**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/create-a-new-smart-campaign-1.png)
 
-1. Choose a **Program**, and then under **New** click on **New Local Asset**.
+1. Right-click on the desired program and select **New Smart Campaign**.
 
-   ![](assets/program-localassethands.png)
+   ![](assets/create-a-new-smart-campaign-2.png)
 
    >[!TIP]
    >
-   >You can create smart campaigns as local assets of any program.
+   >You can create Smart Campaigns as local assets of any program.
 
-1. Click on **Smart Campaign**.
+1. Enter the Smart Campaign name and click **Create**.
 
-   ![](assets/image2014-9-19-15-3a9-3a51.png)
+   ![](assets/create-a-new-smart-campaign-3.png)
 
-1. Enter the smart campaign name and click **Create**.
-
-   ![](assets/image2014-9-19-15-3a10-3a41.png)
-
-   Cool! Next up, learn how to define which people to run through the smart campaign with a smart list.
+   Next up, learn how to define which people to run through the Smart Campaign with a Smart List.
 
    >[!MORELIKETHIS]
    >
-   >* [Define Smart List for Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >* [Define Smart List for Smart Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+   >* [Define Smart List for Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+   >* [Define Smart List for Smart Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
