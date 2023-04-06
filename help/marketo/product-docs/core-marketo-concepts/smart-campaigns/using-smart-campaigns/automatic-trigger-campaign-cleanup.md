@@ -16,17 +16,17 @@ Once a quarter, Marketo will find smart campaigns that have sat dormant (no peop
 
 Of course! Once a quarter, you will receive a notification one week in advance showing every campaign we plan on deactivating.
 
-1. Go to the **Notifications** tab.
+1. Click the **Notifications** icon.
 
-   ![](assets/notifications.png)
+   ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
 1. Click **Idle Trigger Campaign Cleanup Scheduled**. Then click the **These Idle Trigger Campaigns will be deactivated** link.
 
-   ![](assets/image2015-4-27-20-3a48-3a35.png)
+   ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
    You will see a list of smart campaigns scheduled to be deactivated.
 
-   ![](assets/image2015-4-27-20-3a35-3a29.png)
+   ![](assets/automatic-trigger-campaign-cleanup-3.png)
 
 ## Which campaigns will be deactivated? {#which-campaigns-will-be-deactivated}
 
@@ -47,8 +47,8 @@ Absolutely - one week after the original notification, we will deactivate the li
 
 1. Select the **Idle Trigger Campaign Cleanup Scheduled** notification. Click the **These Idle Trigger Campaigns** link.
 
-   ![](assets/image2015-4-27-20-3a56-3a41.png)
+   ![](assets/automatic-trigger-campaign-cleanup-4.png)
 
 1. You will see a list of deactivated campaigns.
 
-   ![](assets/image2015-4-27-20-3a58-3a38.png)
+   ![](assets/automatic-trigger-campaign-cleanup-5.png)
