@@ -245,13 +245,10 @@ A custom field on the lead object in Salesforce should be mapped to a contact fi
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Repeat the above steps for any other fields you've created.
+
 1. Click Save when you're done.
 
 Easy enough, right?
-
->[!NOTE]
->
->Here's a [video of the entire process](https://nation.marketo.com/videos/1475) that should make it crystal clear!
 
 >[!MORELIKETHIS]
 >
