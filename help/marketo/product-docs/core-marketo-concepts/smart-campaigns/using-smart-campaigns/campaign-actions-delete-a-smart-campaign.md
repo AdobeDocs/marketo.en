@@ -14,19 +14,19 @@ If you have an old smart campaign that you don't need anymore, you can delete it
 
 1. Go to the **Marketing Activities** area.
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. Navigate to your inactive smart campaign. Under **Campaign** **Actions**, click **Delete**.
+1. Navigate to your inactive smart campaign. In the **Campaign** **Actions** drop-down, select **Delete**.
+
+   ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 
    >[!TIP]
    >
    >To cancel processing of an active smart campaign without deleting it altogether, learn how to [abort a smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
-   ![](assets/image2014-9-22-16-3a41-3a55.png)
-
 1. Click **Delete** to confirm.
 
-   ![](assets/image2014-9-22-16-3a41-3a59.png)
+   ![](assets/campaign-actions-delete-a-smart-campaign-3.png)
 
    >[!CAUTION]
    >
