@@ -3,6 +3,7 @@ description: Unified Shell Overview - Marketo Docs - Product Documentation
 title: Unified Shell Overview
 hide: yes
 hidefromtoc: yes
+exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 ---
 # Unified Shell Overview {#unified-shell-overview}
 

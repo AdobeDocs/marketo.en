@@ -1,6 +1,7 @@
 ---
 description: Release Notes - January 2023 - Marketo Docs - Product Documentation
 title: Release Notes - January 2023
+exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 ---
 # Release Notes: January 2023 {#release-notes-jan-23}
 

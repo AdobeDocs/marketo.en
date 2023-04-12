@@ -1,6 +1,7 @@
 ---
 description: Call Outcomes - Marketo Docs - Product Documentation
 title: Call Outcomes
+exl-id: 0166c6fa-70d3-45ea-9138-f2d2c4c28b41
 ---
 # Call Outcomes {#call-outcomes}
 

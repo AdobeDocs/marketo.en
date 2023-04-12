@@ -1,6 +1,7 @@
 ---
 description: Highspot Integration - Marketo Docs - Product Documentation
 title: Highspot Integration
+exl-id: d864fa56-5cab-409f-9256-9819204f8853
 ---
 # Highspot Integration {#highspot-integration}
 
