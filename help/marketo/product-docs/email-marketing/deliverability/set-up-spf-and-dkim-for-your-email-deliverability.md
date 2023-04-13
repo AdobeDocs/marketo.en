@@ -40,11 +40,10 @@ After you set up the public key in your DNS record and activate the sending doma
 
 **How do I set up DKIM?**
 
-Please refer to [Set up a Custom DKIM Signature](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md).
+Please refer to [Set up a Custom DKIM Signature](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Learn More About SPF and How it Works](http://www.open-spf.org/Introduction/)
->* [Marketo's Email Deliverability Tools](https://www.marketo.com/software/email-marketing/email-deliverability/)
->* [Is My SPF Set Up Correctly?](https://www.kitterman.com/spf/validate.html)
->* [Did I Use the Right Syntax?](http://www.open-spf.org/SPF_Record_Syntax/)
+>* [Learn More About SPF and How it Works](http://www.open-spf.org/Introduction/){target="_blank"}
+>* [Is My SPF Set Up Correctly?](https://www.kitterman.com/spf/validate.html){target="_blank"}
+>* [Did I Use the Right Syntax?](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}
