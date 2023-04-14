@@ -688,7 +688,7 @@ feature-set: Marketo Engage
         + [Add a Country Picklist to your Form](product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
         + [Add Rich Text to a Form](product-docs/demand-generation/forms/form-actions/add-rich-text-to-a-form.md)
         + [Change a Form's Locale](product-docs/demand-generation/forms/form-actions/change-a-forms-locale.md)
-        + [Change the Language of Form Validation/Error Messages and Submit Button](product-docs/demand-generation/forms/form-actions/change-the-language-of-form-validation-error-messages-and-submit-button.md)
+        + [Change the Language of a Form](product-docs/demand-generation/forms/form-actions/change-the-language-of-a-form.md)
         + [Configure Form Progressive Profiling](product-docs/demand-generation/forms/form-actions/configure-form-progressive-profiling.md)
         + [Define Values in a Radio or Selected Field in a Form](product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.md)
         + [Delete a Form](product-docs/demand-generation/forms/form-actions/delete-a-form.md)
