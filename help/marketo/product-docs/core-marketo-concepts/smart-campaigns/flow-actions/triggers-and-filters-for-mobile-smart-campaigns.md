@@ -8,7 +8,7 @@ exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 
 You can set up triggers and filters for a Mobile App smart campaign.
 
-For most activities, there are a trigger, a filter, and an inactivity filter. Use inactivity filters to track an action, such as tapping a push notification, that *didn’t* happen.
+For most activities, there are a trigger, a filter, and an inactivity filter. Use inactivity filters to track an action, such as tapping a push notification, that *didn't* happen.
 
 * Mobile App Is/Was Installed
 * Mobile App Is/Was Opened
@@ -22,13 +22,13 @@ There are only filters for this activity:
 
 Search for **mobile app** in the right panel to list all of the Mobile App triggers and filters.
 
-![](assets/image2015-8-12-17-3a25-3a18.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
 ## Constraints {#constraints}
 
 Use constraints with triggers and filters to further sort the data.
 
-![](assets/image2015-8-17-12-3a6-3a33.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-2.png)
 
 All triggers and filters, except for Was Sent Push Notification, contain these two standard constraints:
 
@@ -64,11 +64,11 @@ Use this filter to find out all people who have ever had your app installed. Thi
 
 **Constraints**: Device Type, Platform, Mobile App, Mobile App Version, Device Type, Install Source, Is Push Enabled, and Locale
 
-![](assets/image2015-8-21-13-3a33-3a54.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
 >[!TIP]
 >
->It’s a best practice to specify Has Mobile App = true and Is Push Enabled = true, as well as the name of your mobile app when defining the smart list of who should receive a push notification.
+>It's a best practice to specify Has Mobile App = true and Is Push Enabled = true, as well as the name of your mobile app when defining the smart list of who should receive a push notification.
 
 Mobile App Is/Was Installed
 
@@ -80,7 +80,7 @@ Mobile App Is/Was Installed
 
 **Constraints**: Device Type, Platform, App Version, Locale, and Install Source
 
-![](assets/image2015-8-17-13-3a11-3a3.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
 Mobile App Is/Was Opened
 
@@ -92,7 +92,7 @@ Mobile App Is/Was Opened
 
 **Constraints**: Device Type and Platform
 
-![](assets/image2015-8-17-13-3a13-3a55.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
 Has/Had Mobile App Activity
 
@@ -131,7 +131,7 @@ The Action constraints let you use the trigger and filters to track mobile activ
 
 Here's how the filter looks in Marketo:
 
-   ![](assets/image2015-8-17-13-3a16-3a12.png)
+   ![](assets/triggers-and-filters-for-mobile-smart-campaigns-6.png)
 
 >[!NOTE]
 >
@@ -155,7 +155,7 @@ Here's how the filter looks in Marketo:
 
 **Constraints**: Device Type, Platform, and Session Length (seconds)
 
-![](assets/image2015-8-17-13-3a18-3a34.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
 Taps/Tapped Push Notification
 
@@ -167,11 +167,11 @@ Taps/Tapped Push Notification
 
 **Constraints**: Device Type, Platform, Mobile App Version, Push Notification, and Platform Version
 
-![](assets/image2015-8-21-14-3a2-3a24.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
 >[!TIP]
 >
->Use the Not Tapped Push Notification inactivity filter to find people who didn’t tap a push notification recently sent to them, so that you can follow up via email.
+>Use the Not Tapped Push Notification inactivity filter to find people who didn't tap a push notification recently sent to them, so that you can follow up via email.
 
 **Was Sent Push Notification** This activity is available only as a filter.
 
@@ -181,7 +181,7 @@ Taps/Tapped Push Notification
 
 **Constraints**: Push Notification and Mobile App
 
-![](assets/image2015-8-21-14-3a3-3a50.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
 >[!MORELIKETHIS]
 >
