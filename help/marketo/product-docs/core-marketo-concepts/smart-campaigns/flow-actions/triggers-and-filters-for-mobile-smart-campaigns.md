@@ -62,7 +62,7 @@ Use this filter to find out all people who have ever had your app installed. Thi
 >
 >The filter will find both current and former installs as Marketo does not track app uninstalls.
 
-**Constraints**: Device Type, Platform, Mobile App, Mobile App Version, Device Type, Install Source, Is Push Enabled, and Locale
+**Constraints** - Device Type, Platform, Mobile App, Mobile App Version, Device Type, Install Source, Is Push Enabled, and Locale
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
@@ -78,7 +78,7 @@ Mobile App Is/Was Installed
 
 * NOT Mobile App was Installed - inactivity filter
 
-**Constraints**: Device Type, Platform, App Version, Locale, and Install Source
+**Constraints** - Device Type, Platform, App Version, Locale, and Install Source
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
@@ -90,7 +90,7 @@ Mobile App Is/Was Opened
 
 * NOT Mobile App was Opened - inactivity filter
 
-**Constraints**: Device Type and Platform
+**Constraints** - Device Type and Platform
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
@@ -104,7 +104,7 @@ These provide a powerful way to track custom mobile activity. You'll need to wor
 
 * NOT Had Mobile App Activity - inactivity filter
 
-**Constraints**: Device Type and Platform, plus five additional ones:
+**Constraints** - Device Type, Platform, Mobile App Version, Locale, Platform Version, plus five additional ones:
 
 * Action - Custom mobile activity
 
@@ -153,7 +153,7 @@ Here's how the filter looks in Marketo:
 
 * NOT Had Mobile App Session - inactivity filter
 
-**Constraints**: Device Type, Platform, and Session Length (seconds)
+**Constraints** - Device Type, Platform, and Session Length (seconds)
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
@@ -165,7 +165,7 @@ Taps/Tapped Push Notification
 
 * NOT Tapped Push Notification - inactivity filter
 
-**Constraints**: Device Type, Platform, Mobile App Version, Push Notification, and Platform Version
+**Constraints** - Device Type, Platform, Mobile App Version, Push Notification, and Platform Version
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
@@ -179,7 +179,7 @@ Taps/Tapped Push Notification
 
 * NOT Was Sent Push Notification - inactivity filter
 
-**Constraints**: Push Notification and Mobile App
+**Constraints** - Push Notification and Mobile App
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 

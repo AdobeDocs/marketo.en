@@ -15,20 +15,30 @@ Intro.
 
 1. Right-click the desired folder and select **New Program**.
 
-PICC
+   ![](assets/create-an-interactive-webinar-2.png)
 
 1. Name your event. Under Program Type, select **Event**.
 
-PICC
+   ![](assets/create-an-interactive-webinar-3.png)
 
 1. Click the Channel drop-down and select **Webinar**.
 
-PICC
+   ![](assets/create-an-interactive-webinar-4.png)
 
-1. Choose **Interactive Webinars** and click **Create**.
+1. Choose **Interactive Webinars** and click **Next**.
 
-PICC
+   ![](assets/create-an-interactive-webinar-5.png)
 
    >[!NOTE]
    >
    >Information on partner webinars can be found here.
+
+1. Set the maximum audience size for your webinar and how long it will last.
+
+   ![](assets/create-an-interactive-webinar-6.png)
+
+1. Schedule the date/time of your webinar.
+
+   ![](assets/create-an-interactive-webinar-7.png)
+
+1. Text
