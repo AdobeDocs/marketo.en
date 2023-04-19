@@ -3,9 +3,9 @@ description: Current Release Notes - Marketo Docs - Product Documentation
 title: Current Release Notes
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 ---
-# Release Notes: March 2023 {#release-notes-mar-23}
+# Release Notes: May 2023 {#release-notes-may-23}
 
-Below you'll find all the features included in the March '23 release. Check your Adobe Marketo Engage edition for feature availability.
+Below you'll find all the features included in the May '23 release. Check your Adobe Marketo Engage edition for feature availability.
 
 >[!AVAILABILITY]
 >
@@ -13,27 +13,13 @@ Below you'll find all the features included in the March '23 release. Check your
 
 ## Standard Release Cycle Features {#standard-release-cycle-features}
 
-The following features fall under the standard release cycle and will start to be released on **March 31, 2023**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check below each feature for its status.
+The following features fall under the standard release cycle and will start to be released on **May 19, 2023**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check below each feature for its status.
 
 ### Marketo Engage Modern UX {#modern-ux}
 
 </br>
 
- * **Enhanced Used by Component for Landing Page Template Details and Form Details**: New Used By UI tab provides additional information in Landing Page Template Details and Form Details, including more details regarding assets that have used a selected asset. Perform analysis on long lists of assets through the search, sort, and filtering capabilities.
-
-  <table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
-  </tr>
-  <tr> 
-   <td>Shipped</td>
-   <td>n/a</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Remove Toggle Switch and Classic Experience from Landing Pages**: Deprecation of the Toggle Switch and Classic Experience for Landing Pages will help you completely adopt the new experience. The new experience allows for complete utilization of the functionalities provided with these assets without having to rely on the old experience or constantly having to switch between the two experiences.
+* **Toggle Switch and Classic Experience Removal Updates for Modern UX**: Removal of Details Pages for Email Templates, Landing Page Templates, Forms, and Snippets to ensure that the Modern Experience is the only experience available.
 
 <table> 
   <tr> 
@@ -47,7 +33,7 @@ The following features fall under the standard release cycle and will start to b
   </tbody>
 </table>
 
-* **Tree Node Performance Improvements**: Those with a large number of tree nodes will see a significant improvement in performance.
+* **Unified Shell**: Aligns Marketo Engage with Experience Cloud to create a consistent navigation experience across multiple Experience Cloud solutions in a single user session.  
 
 <table> 
   <tr> 
@@ -61,11 +47,7 @@ The following features fall under the standard release cycle and will start to b
   </tbody>
 </table>
 
-### Integration Updates {#integration-updates}
-
-</br>
-
-* **Upgrade Marketo Facebook Integration to use Facebook Graph API Update**: With Facebook's recent upgrade to Facebook Graph API v15, there is now a limit of 500 custom audiences that can be created for a particular ad account.
+* **Marketo Engage Help Center**: The Help Center provides Marketo Engage users with a central location to find help resources from within the product. Additionally, the Help Center gives users the ability to activate in-product guides that explain how to leverage key features.
 
 <table> 
   <tr> 
@@ -83,11 +65,33 @@ The following features fall under the standard release cycle and will start to b
 
 The following features follow an Agile format and are released on various dates before or after the standard release date. Please check below each feature for its status.
 
+### Cross-Channel Orchestration {#cross-channel-orchestration}
+
+</br>
+
+* **Interactive Webinars (limited availability initially)**:
+
+Interactive Webinars augment the existing Events and Webinars experience by providing a native and seamless experience for marketers to create, manage, and deliver events within Marketo Engage. Customize webinars according to the type of event and even add presenters if desired. Obtain rich engagement insights through Adobe Connect features such as live polls, chat, Q&A sessions, web link clicks, document downloads, and more. Retrieve the webinar recording directly in Marketo Engage and evaluate its performance through rich dashboard metrics.
+
+SIGN-UP INFO COMING SOON
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentation Updates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Coming soon</i></td>
+   <td><i>Coming soon</i></td>
+  </tr>
+  </tbody>
+</table>
+
 ### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **Dialogue Engagement Report for Dynamic Chat**: Provides a view of Dialogue engagement over time, including the ability to filter by visitor type and engagement type to provide better visibility for users. 
+* **Enhanced Dynamic Chat Activities**: Dynamic Chat's existing activities, filters, and triggers are enhanced with additional attributes and a standardized naming convention.
 
 <table> 
   <tr> 
@@ -101,7 +105,7 @@ The following features follow an Agile format and are released on various dates 
   </tbody>
 </table>
 
-* **Roles and Permissions for Dynamic Chat**: Introduces roles and permissions to Dynamic Chat, allowing admins to limit visibility and usage of different areas of the app to selected user types.
+* **Chat Source for Dynamic Chat**: "Chat" is now offered as a source of new person records and activities. This source can be used to help users filter activities in Smart Lists/Campaigns. The source can also be blocked from updates on fields.
 
 <table> 
   <tr> 
@@ -109,68 +113,12 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td>Shipped</td>
-   <td>n/a</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Chat as a Program Channel for Dynamic Chat**: Creates a new "Chat" Program Channel to track program progression for people acquired by Dynamic Chat. For example, a marketer has a program associated with a Dynamic Chat Dialogue to capture new leads. They can now assign that program the Chat channel so they can track when leads are members of the program and when they have achieved success.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
-  </tr>
-  <tr> 
-   <td>Shipped</td>
-   <td>n/a</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Inferred Attributes for Dynamic Chat**: Ensures that inferred IP data (city, state, country, etc.) is written to the person record for new people acquired by Dynamic Chat.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
-  </tr>
-  <tr> 
-   <td>Shipped</td>
-   <td>n/a</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Additional Language Support for Dynamic Chat**: You can now choose from nine supported languages to display static Dynamic Chat content in.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
-  </tr>
-  <tr> 
-   <td>Shipped</td>
-   <td>n/a</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Jump to Node in Stream Designer Preview for Dynamic Chat**: Jump directly to a node in the Stream Designer from the preview panel.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
-  </tr>
-  <tr> 
-   <td>Shipped</td>
-   <td>n/a</td>
+   <td><i>Coming soon</i></td>
+   <td><i>Coming soon</i></td>
   </tr>
   </tbody>
 </table>
 
 ## Announcements {#announcements}
 
-* **_Product Release Webinar_**: Join us on May 17th, 2023, at 9:00 AM PT / 12:00 PM ET [for a live webinar](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} hosted by our Product Team where you can learn how to use all the latest product innovations delivered in both March and May '23 releases.
+* **_Product Release Webinar_**: Join us on May 17, 2023, at 9:00 AM PT / 12:00 PM ET [for a live webinar](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} hosted by our Product Team where you can learn how to use all the latest product innovations delivered in both March and May '23 releases.
