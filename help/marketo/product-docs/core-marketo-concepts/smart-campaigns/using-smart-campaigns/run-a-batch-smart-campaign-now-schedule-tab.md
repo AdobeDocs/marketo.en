@@ -10,15 +10,15 @@ Once you are done building your batch campaign, you can choose to run it now or 
 
 1. Select the batch smart campaign, go to the **Schedule** tab and click **Run Once**.
 
-   ![](assets/runcampaignnow-hands.png)
+   ![](assets/run-a-batch-smart-campaign-now-schedule-tab-1.png)
 
 1. Make sure **Run Now** is selected and click **Run**.
 
-   ![](assets/image2014-9-19-15-3a57-3a4.png)
+   ![](assets/run-a-batch-smart-campaign-now-schedule-tab-2.png)
 
 1. Confirm by clicking **Run** one more time.
 
-   ![](assets/image2014-9-19-15-3a57-3a19.png)
+   ![](assets/run-a-batch-smart-campaign-now-schedule-tab-3.png)
 
    Easy peasy! You can also [schedule runs for later](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md) if you prefer.
 

@@ -10,7 +10,7 @@ Qualification rules control how many times someone can run through the flow in a
 
 1. In your smart campaign, click the **Schedule** tab and then **Edit Settings**.
 
-   ![](assets/programeditsettings-hands.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
@@ -18,7 +18,7 @@ Qualification rules control how many times someone can run through the flow in a
 
 1. Choose how often to run your people through the smart campaign flow: **only once**, **every time**, or **once every # days**/**weeks**/**months**.
 
-   ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >

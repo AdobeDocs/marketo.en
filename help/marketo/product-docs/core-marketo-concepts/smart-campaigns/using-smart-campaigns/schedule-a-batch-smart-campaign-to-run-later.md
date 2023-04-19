@@ -14,23 +14,23 @@ If you want to set a batch smart campaign to run at some point in the future, he
 
 1. Select the batch smart campaign you want to run, go to the **Schedule** tab, and click **Run Once**.
 
-   ![](assets/scheduledruns2.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-1.png)
 
 1. Click **Run later**, then click the calendar icon and select the day you want the smart campaign to run on.
 
-   ![](assets/runonce.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
 1. Select the time you want the smart campaign to run at (minimum 15 minutes ahead).
 
-   ![](assets/runoncetime.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
 1. Click **Save**.
 
-   ![](assets/runoncetimesave.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-4.png)
 
 1. You can confirm the scheduled run by looking at the **Schedule** tab.
 
-   ![](assets/scheduledrunsbox.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-5.png)
 
    >[!NOTE]
    >

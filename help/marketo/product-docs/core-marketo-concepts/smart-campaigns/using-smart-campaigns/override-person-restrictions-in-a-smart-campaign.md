@@ -14,11 +14,11 @@ Marketo allows you to set the maximum number of people that can qualify for a sm
 
 1. In Marketing Activities, go to your smart campaign and click **Schedule**.
 
-   ![](assets/one.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
 1. In Smart Campaign Settings, click **Edit**.
 
-   ![](assets/two.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
@@ -26,7 +26,7 @@ Marketo allows you to set the maximum number of people that can qualify for a sm
 
 1. Enter a new limit and then click **Save.**
 
-   ![](assets/three.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-3.png)
 
    The smart campaign will not run if the number of people who qualify exceed the set limit.
 
