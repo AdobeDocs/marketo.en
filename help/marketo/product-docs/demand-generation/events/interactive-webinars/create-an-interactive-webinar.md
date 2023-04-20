@@ -7,7 +7,7 @@ exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 ---
 # Create an Interactive Webinar {#create-an-interactive-webinar}
 
-Intro.
+Create an Interactive Webinar in a few easy steps.
 
 1. Go to **Marketing Activities**.
 
@@ -17,7 +17,7 @@ Intro.
 
    ![](assets/create-an-interactive-webinar-2.png)
 
-1. Name your event. Under Program Type, select **Event**.
+1. Name the program. Under Program Type, select **Event**.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
@@ -37,8 +37,8 @@ Intro.
 
    ![](assets/create-an-interactive-webinar-6.png)
 
-1. Schedule the date/time of your webinar.
+1. Schedule the date/time of your webinar and click **Create**.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-1. Text
+Your Interactive Webinar is created. Now it's time to [design it](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
