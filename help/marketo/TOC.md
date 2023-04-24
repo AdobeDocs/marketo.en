@@ -390,7 +390,10 @@ feature-set: Marketo Engage
         + [Understanding Period Costs](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
         + [Understanding Tags](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
         + [Use Tags in a Program](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)
-        + [Using Period Costs in a Program](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)  
+        + [Using Period Costs in a Program](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+      + Program Library {#program-library}
+        + [Program Import Library Overview](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
+        + [Consent Management Program Template](product-docs/core-marketo-concepts/programs/program-library/consent-management-program-template.md)
       + Program Performance Report {#program-performance-report}
         + [Create a Program Performance Report](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
         + [Add Program Status Columns to a Program Report](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
