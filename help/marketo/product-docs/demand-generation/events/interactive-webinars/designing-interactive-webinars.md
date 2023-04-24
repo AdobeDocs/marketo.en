@@ -7,4 +7,8 @@ exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 ---
 # Designing Interactive Webinars {#designing-interactive-webinars}
 
-Coming Soon
+Intro.
+
+Need description of room
+
+Use your camera and mic -- every time?

@@ -657,10 +657,10 @@ feature-set: Marketo Engage
           + [Understanding Webinar Program Statuses](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
       + Interactive Webinars {#interactive-webinars}
         + [Interactive Webinars Overview](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
-        + [Interactive Webinars User Management](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-user-management.md)
+        + [User and License Management](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
         + [Create an Interactive Webinar](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
         + [Designing Interactive Webinars](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
-        + [Edit or Delete an Interactive Webinar](product-docs/demand-generation/events/interactive-webinars/edit-or-delete-an-interactive-webinar.md)
+        + [Modify or Delete an Interactive Webinar](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
         + [Event Workflows](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
     + Facebook {#facebook}
       + [Add Leads to a Custom Audience in Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
