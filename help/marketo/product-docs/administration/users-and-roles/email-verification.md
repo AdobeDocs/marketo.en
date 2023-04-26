@@ -5,7 +5,7 @@ exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 ---
 # Email Verification {#email-verification}
 
-Adobe Marketo Engage subscriptions require all non-API only users, including Marketo Engage Admins, to verify their email address. Single Sign-on (SSO) users, not assigned an Admin role, will automatically have their email verified when their subscription is enabled with the Email Verification feature.
+Adobe Marketo Engage subscriptions require all non-API only users, including Marketo Engage Administrators, to verify their email address. Single Sign-on (SSO) users who are not assigned an Admin role, or who are assigned a role with the 'Bypass SSO' permission, will automatically have their email verified when their subscription is enabled with the Email Verification feature.
 
 **User Invite**
 
