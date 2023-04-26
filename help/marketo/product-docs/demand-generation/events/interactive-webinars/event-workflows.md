@@ -8,3 +8,7 @@ exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 # Event Workflows {#event-workflows}
 
 Coming Soon
+
+Filter and Trigger on IW - "Webinar" in Smart Lists
+
+--waiting for more info from Nilesh--

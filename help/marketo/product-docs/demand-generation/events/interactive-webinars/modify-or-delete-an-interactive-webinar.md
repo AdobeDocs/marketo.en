@@ -19,6 +19,16 @@ Intro.
 
 PICC
 
+## Reschedule an Interactive Webinar {#reschedule-an-interactive-webinar}
+
+1. Select the desired webinar and click **Change Room/Template**.
+
+PICC
+
+1. Text
+
+PICC
+
 ## Clone an Interactive Webinar {#clone-an-interactive-webinar}
 
 1. Select the desired webinar.

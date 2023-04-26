@@ -47,7 +47,7 @@ Intro.
 
 ## License Usage {#license-usage}
 
-Every time a license is added, a new license usage box will appear.
+Interactive Webinars offers specific licenses to create Adobe Connect events. Every time a license is added, a new license usage box will appear. Marketo Admins can view (not edit) the licenses by follwing the steps below. Contact the Adobe Account Team (your Account Manager) to acquire additional licenses.
 
 1. Go to the **Admin** area.
 
@@ -57,6 +57,48 @@ Every time a license is added, a new license usage box will appear.
 
    ![](assets/user-and-license-management-10.png)
 
-1. INFO
+1. Scroll down to the License Usage card(s).
 
-PICC
+   ![](assets/user-and-license-management-11.png)
+
+<table> 
+  <tr> 
+   <td><b>Start Date</b></td>
+   <td>Date the license begins.</td>
+  </tr>
+  <tr> 
+   <td><b>Expiry Date</b></td>
+   <td>Date the license expires.</td>
+  </tr>
+  <tr> 
+   <td><b>Type</b></td>
+   <td>The type of license purchased. There are three types available: Shared Events License, Shared Rooms License, Additional Storage License.</td>
+  </tr>
+  <tr> 
+   <td><b>Event Capacity</b></td>
+   <td>The maximum number of participants that can be accommodated in an event.</td>
+  </tr>
+  <tr> 
+   <td><b>Total Events</b></td>
+   <td>The total number of events that have been provisioned with this license.</td>
+  </tr>
+  <tr> 
+   <td><b>Events Consumed</b></td>
+   <td>The total number of completed events.</td>
+  </tr>
+  <tr> 
+   <td><b>Storage Capacity</b></td>
+   <td>Amount of storage available for storing recordings, collaterals, hero images, documentation, and other assets.</td>
+  </tr>
+  </tbody>
+</table>
+
+**Things to Note**
+
+* The type "Additional Storage License" just provides storage, therefore the value in every field _besides_ Storage Capacity will be listed simply as "-".
+
+* The type "Shared Room License" has unlimited events and "Additional Storage License" just provides storage, so the Total Events field for these licenses will be listed simply as "-".
+
+* Every time an event is created, it will count as "consumed" from its respective license (unless it's a Shared Room License). Preference will be given to "Shared Event License" if there are both "Shared Event License" and "Shared Room License" of the same capacity. If the event has not been delivered and if the Event Program is deleted before the scheduled time, the event count is replenished by subtracting an event from Events Consumed.
+
+* Once a license has been exhausted, its tile remains on the Interactive Webinars screen in the Admin with the Total Events and Events Consumed having the same value. Only when the license expires will it be removed from the screen.
