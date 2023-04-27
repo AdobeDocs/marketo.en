@@ -15,20 +15,18 @@ The Dashboard consists of 4 widgets:
 
 1. Event Program Status:
 
-The Event Program Status widget highlights the various program status for that event and the number of members of the program that are currently hold that program status value.
+   The Event Program Status widget highlights the various program status for that event and the number of members of the program that are currently hold that program status value.
 
-2. Attendance:
+1. Attendance:
 
-The Attendance widget highlights the attendance duration of various members who have attended the webinar in comparison to the overall webinar duration in terms of percentage.
+   The Attendance widget highlights the attendance duration of various members who have attended the webinar in comparison to the overall webinar duration in terms of percentage.
 
-3. Poll Performance:
+1. Poll Performance:
 
-The Poll Performance widget highlights various polls launched during the webinar in Adobe Connect and the distribution of the members who have attended and responded to the poll across each of the answers.
+   The Poll Performance widget highlights various polls launched during the webinar in Adobe Connect and the distribution of the members who have attended and responded to the poll across each of the answers.
 
-4. Click and file Download Activity:
+1. Click and file Download Activity:
 
-The Click and File Download Activity highlights the count of downloads of file and weblinks clicked during the Webinar in Adobe Connect by various members who have attended the webinar and taken that specific action.
-
-
+   The Click and File Download Activity highlights the count of downloads of file and weblinks clicked during the Webinar in Adobe Connect by various members who have attended the webinar and taken that specific action.
 
 Filter and Trigger on IW - "Webinar" in Smart Lists
