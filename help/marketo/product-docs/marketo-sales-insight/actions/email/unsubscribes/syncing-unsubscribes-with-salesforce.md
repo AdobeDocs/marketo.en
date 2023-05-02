@@ -17,7 +17,7 @@ When an unsubscribe is collected in Marketo Sales, we push it to Salesforce in r
 
 **Unsubscribe Sync**
 
-When you've enabled the unsubscribe sync (Step 3 below) you'll be turning on the nightly sync. The sync occurs once a day around 8:00 pm PST. It will bidirectionally sync all unsubscribes in MSE/ToutApp with the Opt Out field in Salesforce.
+When you've enabled the unsubscribe sync (Step 3 below) you'll be turning on the nightly sync. The sync occurs once a day around 8:00 pm PST. It will bidirectionally sync all unsubscribes in Marketo Sales with the Opt Out field in Salesforce.
 
 ## Configure Unsubscribe Sync to Salesforce {#configure-unsubscribe-sync-to-salesforce}
 
