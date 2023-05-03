@@ -9,6 +9,8 @@ exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 
 Learn more about the native Marketo Engage tool for creating BLANK, effective webinars.
 
+An Adobe Connect webinar is a live interactive online conference for multiple users. The room is a persistent online virtual space that you use to conduct webinars. It includes various display panels (pods) and layouts. There are several prebuilt meeting room layouts, or you can create and use additional custom layouts to suits your needs. The room lets attendees share computer screens or files, chat, broadcast audio and video, and participate in interactive online activities.
+
 _What are Interactive Webinars_
 
 Natively integrated with Adobe Connect

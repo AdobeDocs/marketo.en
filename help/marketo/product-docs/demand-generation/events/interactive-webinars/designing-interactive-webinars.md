@@ -7,7 +7,7 @@ exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 ---
 # Designing Interactive Webinars {#designing-interactive-webinars}
 
-Intro.
+Design your webinar to your liking.
 
 1. Select your event and click **Design Webinar**.
 
@@ -19,7 +19,7 @@ Intro.
 
    >[!NOTE]
    >
-   >A room is an online space that you'll use to conduct meetings.
+   >A room is an online space that's used to conduct meetings.
 
 1. Choose a template.
 
@@ -45,23 +45,16 @@ Intro.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Text
+1. For detailed information on rooms and templates, check out the "Meeting room templates and layouts" section of [this Adobe help article](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
-https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings??????
+1. When you're done designing your webinar, click **Exit Room**.
 
+   ![](assets/designing-interactive-webinars-9.png)
 
-   Room: (have taken this from Connect documentation to be precise) Source: https://helpx.adobe.com/in/adobe-connect/using/meeting-basics.html
+## Design Elements {#design-elements}
 
-An Adobe Connect webinar is a live interactive online conference for multiple users. The room is a persistent online virtual space that you use to conduct webinars. It includes various display panels (pods) and layouts. There are several prebuilt meeting room layouts, or you can create and use additional custom layouts to suits your needs. The room lets attendees share computer screens or files, chat, broadcast audio and video, and participate in interactive online activities.
+**Template**: Template is a structure provided to a room based on the objective of the webinar being delivered. For example, if you want to schedule a product showcase webinar, screen sharing would be an essential component to showcase the demo. The template ensures that the essential components required for an effective delivery of a particular type of webinar are in place during the configuration of the webinar room.
 
-Template:
+**Layout**: Layout refers to various ways that the multiple components required to ensure the success of the webinar are arranged in a particular template. A single template can have multiple layouts for you to choose from. The essential components of the webinar would remain the same across templates. The arrangement you selected would be best suited to the style/needs of you or the presenter delivering the webinar.
 
-Template is a structure provided to a room based on the objective of the webinar being delivered in the room. For example, if a marketer wants to schedule a product showcase webinar, then screen sharing would be an essential component to show-case the demo. The template ensures that the essential components required for an effective delivery of a particular type of webinar are in place during the configuration of the webinar room.
-
-Layout:
-
-Layout refers to various ways that multiple components required to ensure the success of webinar are arranged in a particular template. A single template can have multiple layouts for the marketer to choose from. The essential components of the webinar would remain the same across the templates. The arrangement selected by the marketer would be best suited to the needs and the style of the marketer or the presenter delivering the webinar.
-
-Pod:
-
-Pod refers to a component inside a template that helps perform a particular activity during the webinar. For example, setting up and delivering a poll to capture participants responses in one activity that can be fulfilled by a poll pod. Similarly, chatting with the participants to convey a message or casually interact with them can be an activity delivered through the chat pod. Multiple other pods are available in Connect such as Share, Notes, Video, Chat, Attendee List, Files, Web Links, Polls and Q & A.
+**Pod**: Pod refers to a component inside a template that performs a particular activity during the webinar. For example, setting up and delivering a poll to capture participants' responses in one activity that can be fulfilled by a poll pod. Similarly, chatting with the participants to convey a message or casually interacting with them can be an activity delivered through the chat pod. Multiple other pods are available, such as Share, Notes, Video, Chat, Attendee List, Files, Web Links, Polls, and Q & A.

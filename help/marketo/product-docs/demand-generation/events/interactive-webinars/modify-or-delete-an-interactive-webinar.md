@@ -15,11 +15,25 @@ Laern how to make changes to your Interactive Webinar.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. Text
+1. The room will load. If you want to change the room, select one from the Rooms drop-down. To just update your template, click **Use Room**.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
-??? for Nilesh - is it normal to not be taken to the room the Webinar is already in? If not, what's the best practice?
+>[!NOTE]
+>
+>Changing your room is optional and not required to update your template.
+
+1. Click **Refine Your Webinar Now**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-3.png)
+
+1. Select your audio/video preferences and click **Enter Room**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-4.png)
+
+1. When you're done making your modifications, click **Exit Room**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
 ## Reschedule an Interactive Webinar {#reschedule-an-interactive-webinar}
 
@@ -52,6 +66,10 @@ PICC
 1. Click **Next**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
+
+   >[!NOTE]
+   >
+   >You can only save a cloned Interactive Webinar as an Interactive Webinar at this time. Saving a cloned webinar as a Partner Webinar (e.g., Zoom, ON24, etc.) will be available soon.
 
 1. Choose the settings for your cloned webinar and click **Clone**.
 

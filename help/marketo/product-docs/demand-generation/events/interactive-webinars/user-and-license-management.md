@@ -47,7 +47,7 @@ Learn how to add and remove users as well as view your current licenses.
 
 ## License Usage {#license-usage}
 
-Interactive Webinars offers specific licenses to create Adobe Connect events. Every time a license is added, a new license usage box will appear. Marketo Admins can view (not edit) the licenses by follwing the steps below. Contact the Adobe Account Team (your Account Manager) to acquire additional licenses.
+Interactive Webinars offers specific licenses to create Adobe Connect events. Every time a license is added, a new license usage box will appear. Marketo Admins can view (not edit) the licenses by following the steps below. Contact the Adobe Account Team (your Account Manager) to acquire additional licenses.
 
 1. Go to the **Admin** area.
 
@@ -101,4 +101,4 @@ Interactive Webinars offers specific licenses to create Adobe Connect events. Ev
 
 * Every time an event is created, it will count as "consumed" from its respective license (unless it's a Shared Room License). Preference will be given to "Shared Event License" if there are both "Shared Event License" and "Shared Room License" of the same capacity. If the event has not been delivered and if the Event Program is deleted before the scheduled time, the event count is replenished by subtracting an event from Events Consumed.
 
-* Once a license has been exhausted, its tile remains on the Interactive Webinars screen in the Admin with the Total Events and Events Consumed having the same value. Only when the license expires will it be removed from the screen.
+* Once a license has been exhausted, its tile remains on the Interactive Webinars screen in the Admin section with "Total Events" and "Events Consumed" having the same value. Only when the license expires will it be removed from the screen.
