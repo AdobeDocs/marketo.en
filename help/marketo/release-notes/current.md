@@ -91,20 +91,6 @@ SIGN-UP INFO COMING SOON
 
 </br>
 
-* **Enhanced Dynamic Chat Activities**: Dynamic Chat's existing activities, filters, and triggers are enhanced with additional attributes and a standardized naming convention.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
-  </tr>
-  <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
-  </tr>
-  </tbody>
-</table>
-
 * **Chat Source for Dynamic Chat**: "Chat" is now offered as a source of new person records and activities. This source can be used to help users filter activities in Smart Lists/Campaigns. The source can also be blocked from updates on fields.
 
 <table> 

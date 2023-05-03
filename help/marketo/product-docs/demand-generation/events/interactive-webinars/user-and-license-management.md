@@ -7,7 +7,7 @@ exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 ---
 # User and License Management {#user-and-license-management}
 
-Intro.
+Learn how to add and remove users as well as view your current licenses.
 
 ## Add a User {#add-a-user}
 
