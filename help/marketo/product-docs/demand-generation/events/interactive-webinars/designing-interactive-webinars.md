@@ -7,7 +7,7 @@ exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 ---
 # Designing Interactive Webinars {#designing-interactive-webinars}
 
-Design your webinar to your liking.
+Learn how to design your webinar to suit your needs.
 
 1. Select your event and click **Design Webinar**.
 
