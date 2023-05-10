@@ -13,7 +13,7 @@ After your webinar is completed, go to the Dashboard tab to see the aggregated p
 
 >[!NOTE]
 >
->If the webinar has not been completed or the data has not been received for any reason, the Dashboard tab will not be available yet.
+>If the webinar has not been completed or the data has not been received for any reason, the Dashboard tab will not yet be available.
 
 ## Dashboard Widgets {#dashboard-widgets}
 

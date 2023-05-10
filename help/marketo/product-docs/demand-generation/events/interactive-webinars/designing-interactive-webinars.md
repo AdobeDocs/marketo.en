@@ -9,7 +9,7 @@ exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 
 Learn how to design your webinar to suit your needs.
 
-1. Select your event and click **Design Webinar**.
+1. Select your event and click **Design Your Webinar**.
 
    ![](assets/designing-interactive-webinars-1.png)
 
@@ -53,8 +53,8 @@ Learn how to design your webinar to suit your needs.
 
 ## Design Elements {#design-elements}
 
-**Template**: Template is a structure provided to a room based on the objective of the webinar being delivered. For example, if you want to schedule a product showcase webinar, screen sharing would be an essential component to showcase the demo. The template ensures that the essential components required for an effective delivery of a particular type of webinar are in place during the configuration of the webinar room.
+**Template**: Structure provided to a room based on the objective of the webinar being delivered. For example, if you want to schedule a product showcase webinar, screen sharing would be an essential component to showcase the demo. The template ensures that the essential components required for an effective delivery of a particular type of webinar are in place during the configuration of the webinar room.
 
-**Layout**: Layout refers to various ways that the multiple components required to ensure the success of the webinar are arranged in a particular template. A single template can have multiple layouts for you to choose from. The essential components of the webinar would remain the same across templates. The arrangement you selected would be best suited to the style/needs of you or the presenter delivering the webinar.
+**Layout**: Refers to various ways that the multiple components required to ensure the success of the webinar are arranged in a particular template. A single template can have multiple layouts for you to choose from. The essential components of the webinar would remain the same across templates. The arrangement you selected would be best suited to the style/needs of you or the presenter delivering the webinar.
 
-**Pod**: Pod refers to a component inside a template that performs a particular activity during the webinar. For example, setting up and delivering a poll to capture participants' responses in one activity that can be fulfilled by a poll pod. Similarly, chatting with the participants to convey a message or casually interacting with them can be an activity delivered through the chat pod. Multiple other pods are available, such as Share, Notes, Video, Chat, Attendee List, Files, Web Links, Polls, and Q & A.
+**Pod**: A component inside a template that performs a particular activity during the webinar. For example, setting up and delivering a poll to capture participants' responses in one activity that can be fulfilled by a poll pod. Similarly, chatting with the participants to convey a message or casually interacting with them can be an activity delivered through the chat pod. Multiple other pods are available, such as Share, Notes, Video, Chat, Attendee List, Files, Web Links, Polls, and Q & A.

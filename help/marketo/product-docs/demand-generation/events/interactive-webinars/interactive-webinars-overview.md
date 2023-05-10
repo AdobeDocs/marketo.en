@@ -7,11 +7,11 @@ exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 ---
 # Interactive Webinars Overview {#interactive-webinars-overview}
 
-The Interactive Webinar feature allows you to create, schedule, promote, and deliver webinars in Marketo Engage without having to use additional tools or integrations.
+The Interactive Webinars feature is our built-in webinar platform inside Marketo Engage. No additional tools or integrations required.
 
 ## What is Interactive Webinars? {#what-is-interactive-webinars}
 
-Interactive Webinars is a live, interactive online conference available for multiple users. When you [create an Interactive Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, there are several prebuilt meeting room layouts available, all of which you can customize. You can also create and use additional custom layouts. Attendees can share computer screens/files, chat with one another, broadcast audio and video, and participate in interactive online activities.
+Interactive Webinars augment the existing Events and Webinars experience by providing a native and seamless experience for you to create, manage, and deliver events within Marketo Engage. When you [create an Interactive Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, multiple prebuilt meeting room layouts are available to choose from, all of which are customizable (you can also create and use additional custom layouts). Attendees can share computer screens/files, chat with one another, broadcast audio and video, and participate in interactive online activities.
 
 Interactive Webinars offers [three different licenses](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, each with various functions and capacities.
 
