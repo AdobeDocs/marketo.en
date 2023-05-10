@@ -34,7 +34,7 @@ Use webhooks to take advantage of third-party web services to send text messages
 
    * **URL**: Enter the URL you use in your request to the web service. To insert a token, such as the person's email address (**`{{lead.Email Address}}`**), in your request, click **Insert Token**.
 
-   * **Template**: If you wish to transmit information in the body of the POST, enter the template. Use any data format that supports HTTP POST, including XML, JSON, or SOAP. To insert a token in your template, click **Insert Token**.
+   * **Template**: If you wish to transmit information in the body of the request, enter via the payload template. Templates permitted for the following request types: POST, DELETE, PATCH, or PUT. You may use data formats such as JSON or XML. To insert a token in your template, click **Insert Token**.
 
    * **Request Token Encoding**: If the token values include special characters (such as an ampersand, '&'), indicate the format of your request (**JSON** or **Form/Url**).
 
