@@ -19,21 +19,7 @@ The following features fall under the standard release cycle and will start to b
 
 </br>
 
-* **Toggle Switch and Classic Experience Removal Updates for Modern UX**: Removal of Details Pages for Email Templates, Landing Page Templates, Forms, and Snippets to ensure that the Modern Experience is the only experience available.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
-  </tr>
-  <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Unified Shell**: Aligns Marketo Engage with Experience Cloud to create a consistent navigation experience across multiple Experience Cloud solutions in a single user session.  
+* **Adobe Experience Cloud Interface**: Aligns Marketo Engage with Experience Cloud to create a consistent navigation experience across multiple Experience Cloud solutions in a single user session.  
 
 <table> 
   <tr> 

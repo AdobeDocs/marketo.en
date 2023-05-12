@@ -1,17 +1,13 @@
 ---
-description: Unified Shell Overview - Marketo Docs - Product Documentation
-title: Unified Shell Overview
-hide: yes
-hidefromtoc: yes
+description: Adobe Experience Cloud Interface Overview - Marketo Docs - Product Documentation
+title: Adobe Experience Cloud Interface Overview
 exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 ---
-# Unified Shell Overview {#unified-shell-overview}
+# Adobe Experience Cloud Interface Overview {#adobe-experience-cloud-interface-overview}
 
-Unified Shell aligns the "shell" look and feel of Adobe Experience Cloud applications and services. But, it's more than just a new design. It's a single-page application that delivers user experience in a single instance.
+Adobe Experience Cloud Interface aligns the "shell" look and feel of Adobe Experience Cloud applications and services. But, it's more than just a new design. It's a single-page application that delivers user experience in a single instance.
 
 ## User Flow {#user-flow}
-
-**Unified Shell Flow**
 
 If you're not already logged in to an Adobe Experience Cloud product, log in directly to [!DNL Marketo Engage] here: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
 
@@ -53,13 +49,13 @@ Click your profile icon to change your language or other Adobe-wide preferences.
 
 ## FAQ {#faq}
 
-**I can't log in to [!DNL Marketo Engage] through the Unified Shell. What might the issue be?**
+**I can't log in to [!DNL Marketo Engage] through the the Experience Cloud Interface. What might the issue be?**
 
 If you can log in to Adobe Experience Cloud, but then see "Failed to load page" error, the issue could be on the [!DNL Marketo Engage] side. Please contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) for assistance.
 
 **Where did User History, Global Search, Marketo Notifications, and the Task Tray go?**
 
-These features have moved from the top nav to a new bar on the left hand side in Unified Shell.
+These features have moved from the top nav to a new bar on the left hand side in the Experience Cloud Interface.
 
    ![](assets/unified-shell-overview-6.png)
 
