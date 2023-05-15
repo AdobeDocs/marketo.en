@@ -43,9 +43,9 @@ Yes, we made a [checklist of stuff to do](/help/marketo/getting-started/setup/se
 
 Nope! We made a bunch of easy tutorials. [Get started here](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}. They should take about an hour. You can start any time.
 
-## Is there a list of things that cover limits, like how many total emails I can send in a given week? {#list-of-limits}
+## Is there a list of things that covers limits, like how many total emails I can send in a week? {#list-of-limits}
 
-There is. Static limits (and other parameters) our outlined [in this article](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}. 
+There is. Static limits (and other parameters) are outlined [in this article](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}. 
 
 ## How long does Marketo hold on to my data? {#data-retention-policy}
 
