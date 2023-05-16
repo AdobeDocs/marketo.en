@@ -10,8 +10,8 @@ Want an alert every time possible duplicate person is created? Here is how to se
 
 1. [Create a new smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. Define the following smart list:
 
-* Trigger: **Person is Created**
-* Filter: **Duplicate Fields.** Field Name **is Full Name**
+* Trigger: **[!UICONTROL Person is Created]**
+* Filter: **[!UICONTROL Duplicate Fields]**. Field Name **[!UICONTROL is] [!UICONTROL Full Name]**
 
    ![](assets/automate-an-alert-1.png)
 
@@ -19,7 +19,7 @@ Want an alert every time possible duplicate person is created? Here is how to se
    >
    >Be creative. Experiment with different fields to get better filtering results.
 
-1. In the flow step, choose [Send Alert](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target="_blank"} flow action.
+1. In the flow step, choose [[!UICONTROL Send Alert]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target="_blank"} flow action.
 
    ![](assets/automate-an-alert-2.png)
 
@@ -33,7 +33,7 @@ Want an alert every time possible duplicate person is created? Here is how to se
    >
    >Also, two people with the same name doesn't automatically mean they are the same person.
 
-1. Activate the campaign in the **Schedule** tab.
+1. Activate the campaign in the **[!UICONTROL Schedule]** tab.
 
    ![](assets/automate-an-alert-3.png)
 
