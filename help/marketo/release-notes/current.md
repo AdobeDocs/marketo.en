@@ -59,7 +59,7 @@ The following features follow an Agile format and are released on various dates 
 
 Interactive Webinars augment the existing Events and Webinars experience by providing a native and seamless experience for marketers to create, manage, and deliver events within Marketo Engage. Customize webinars according to the type of event and even add presenters if desired. Obtain rich engagement insights through Adobe Connect features such as live polls, chat, Q&A sessions, web link clicks, document downloads, and more. Retrieve the webinar recording directly in Marketo Engage and evaluate its performance through rich dashboard metrics.
 
-SIGN-UP INFO COMING SOON
+You can request [early access to this feature here](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 
