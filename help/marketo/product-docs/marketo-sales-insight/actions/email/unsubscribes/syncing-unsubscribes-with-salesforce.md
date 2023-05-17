@@ -84,6 +84,6 @@ Email Opt Out is a standard field in Salesforce that's available to install from
 
 ## Marketo Sales Opt Out {#marketo-sales-opt-out}
 
-The Marketo Sales Opt Out field is a custom field that is available to users that have installed the Marketo Sales Customizations.
+The Marketo Sales Opt Out field is a custom field that's available to users that have installed the Marketo Sales Insight package [from the AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
-Once you have successfully installed the the Marketo Sales Customizations into Salesforce you will see the Marketo Sales Opt Out field available to you.
+Once you have successfully installed the the Marketo Sales Insight package from the AppExchange into Salesforce, you will see the Marketo Sales Opt Out field available to you.
