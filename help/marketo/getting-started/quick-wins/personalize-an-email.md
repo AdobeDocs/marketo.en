@@ -16,7 +16,7 @@ exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 
 ## Step 1: Select an Email to Personalize {#step-select-an-email-to-personalize}
 
-1. Select one of the nurture emails created in the [previous quick win](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"} and click **Create Draft**.
+1. Select one of the nurture emails created in the [previous quick win](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"} and click **[!UICONTROL Create draft]**.
 
    ![](assets/personalize-an-email-1.png)
 
@@ -24,15 +24,15 @@ exl-id: 1562796e-da47-4305-b950-3bed1d36d339
    >
    >This creates a copy of the email as a draft. Remember to approve the draft for the changes to go live.
 
-If you haven't enabled a pop-up blocker, the email editor will open in a new tab/window. Otherwise, click **Create Draft** twice.
+If you haven't enabled a pop-up blocker, the email editor will open in a new tab/window. Otherwise, click **[!UICONTROL Create Draft]** twice.
 
 ## Step 2: Make the Salesperson the Sender {#step-make-the-salesperson-the-sender}
 
-1. Select the **From** field, highlight and **delete** the current name.
+1. Select the **[!UICONTROL From]** field, highlight and **delete** the current name.
 
    ![](assets/personalize-an-email-2.png)
 
-1. Click the **Token** icon to the right of the **From** field.
+1. Click the **Token** icon to the right of the **[!UICONTROL From]** field.
 
    ![](assets/personalize-an-email-3.png)
 
@@ -44,7 +44,7 @@ If you haven't enabled a pop-up blocker, the email editor will open in a new tab
 
    ![](assets/personalize-an-email-5.png)
 
-1. Hit the space bar in the **From** field, making sure the cursor is flashing one space after the token you just inserted. Then click the **Token** icon again.
+1. Hit the space bar in the **[!UICONTROL From]** field, making sure the cursor is flashing one space after the token you just inserted. Then click the **Token** icon again.
 
    ![](assets/personalize-an-email-6.png)
 
@@ -58,7 +58,7 @@ If you haven't enabled a pop-up blocker, the email editor will open in a new tab
 
 ## Step 3: Add the Lead's Name to the Email {#step-add-the-leads-name-to-the-email}
 
-1. Select the top editable section, click the gear icon and select **Edit**.
+1. Select the top editable section, click the gear icon and select **[!UICONTROL Edit]**.
 
    ![](assets/personalize-an-email-9.png)
 
@@ -70,7 +70,7 @@ If you haven't enabled a pop-up blocker, the email editor will open in a new tab
 
    ![](assets/personalize-an-email-11.png)
 
-1. Enter "Friend" (or any label you'd like) in the **Default Value** field and click **Insert**.
+1. Enter "Friend" (or any label you'd like) in the **[!UICONTROL Default Value]** field and click **[!UICONTROL Insert]**.
 
    ![](assets/personalize-an-email-12.png)
 
@@ -78,11 +78,11 @@ If you haven't enabled a pop-up blocker, the email editor will open in a new tab
    >
    >Always include a default value for tokens; this ensures the default value will be displayed in the email if some part of the personal information is missing.
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/personalize-an-email-13.png)
 
-1. Under **Email Actions** and select **Approve and Close**.
+1. Under **[!UICONTROL Email Actions]** and select **[!UICONTROL Approve and Close]**.
 
    ![](assets/personalize-an-email-14.png)
 

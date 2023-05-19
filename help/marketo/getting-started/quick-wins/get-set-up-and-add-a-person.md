@@ -18,15 +18,15 @@ There are a few things to do before you begin the missions.
 
    Let's create a folder to hold everything you'll make in the missions.
 
-1. Go to the **Marketing Activities** area.
+1. Go to the **[!UICONTROL Marketing Activities]** area.
 
    ![](assets/get-set-up-and-add-a-person-2.png)
 
-1. Click the **New** drop-down and select **New Campaign Folder**.
+1. Click the **[!UICONTROL New]** drop-down and select **[!UICONTROL New Campaign Folder]**.
 
    ![](assets/get-set-up-and-add-a-person-3.png)
 
-1. Name the folder "Learning" and click **Create**.
+1. Name the folder "Learning" and click **[!UICONTROL Create]**.
 
    ![](assets/get-set-up-and-add-a-person-4.png)
 
@@ -38,15 +38,15 @@ There are a few things to do before you begin the missions.
 
    Add yourself as a person in Marketo so you can send out test emails to yourself later.
 
-1. Go to the **Database** area.
+1. Go to the **[!UICONTROL Database]** area.
 
    ![](assets/get-set-up-and-add-a-person-6.png)
 
-1. Click the **New** drop-down and select **New Person**.
+1. Click the **[!UICONTROL New]** drop-down and select **[!UICONTROL New Person]**.
 
    ![](assets/get-set-up-and-add-a-person-7.png)
 
-1. Type your first and last name, email address and company name, then click **Create** to add yourself as a person.
+1. Type your first and last name, email address and company name, then click **[!UICONTROL Create]** to add yourself as a person.
 
    ![](assets/get-set-up-and-add-a-person-8.png)
 
@@ -54,11 +54,11 @@ There are a few things to do before you begin the missions.
    >
    >Marketo does **not** support email addresses that contain emojis.
 
-1. To view your people, open your System Smart Lists in the left menu, then click All People.
+1. To view your people, open your [!UICONTROL System Smart Lists] in the left menu, then click **[!UICONTROL All People]**.
 
    ![](assets/get-set-up-and-add-a-person-9.png)
 
-1. Click the **People** tab. You should see yourself in the database.
+1. Click the **[!UICONTROL People]** tab. You should see yourself in the database.
 
    ![](assets/get-set-up-and-add-a-person-10.png)
 
