@@ -10,11 +10,11 @@ You want to manage your pages? You can easily do that by creating a list. You ca
 
 ## Add Page to a List {#add-page-to-a-list}
 
-1. Go to the **Pages** section.
+1. Go to the **[!UICONTROL Pages]** section.
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Hover over the page you want to add to a list. Click **Add/Remove From List**.
+1. Hover over the page you want to add to a list. Click **[!UICONTROL Add/Remove From List]**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -24,7 +24,7 @@ You want to manage your pages? You can easily do that by creating a list. You ca
 
    >[!TIP]
    >
-   >You can also make a new list for your page to go. Just type your desired name in Create a new list.
+   >You can also make a new list for your page to go. Just type your desired name in [!UICONTROL Create a new list].
 
 1. Click on the list you've just added your page to.
 
@@ -34,15 +34,15 @@ Yay! You should now see your page added to the list.
 
 ## Remove Page from a List {#remove-page-from-a-list}
 
-1. Go to the Pages section.
+1. Go to the **[!UICONTROL Pages]** section.
 
    ![](assets/image2014-9-18-13-3a3-3a45.png)
 
-1. On the Pages tab, click the list you'd like to clean up.
+1. On the **[!UICONTROL Pages]** tab, click the list you'd like to clean up.
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Hover over the page you'd like to remove. Click **Add/Remove From List**.
+1. Hover over the page you'd like to remove. Click **[!UICONTROL Add/Remove From List]**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 

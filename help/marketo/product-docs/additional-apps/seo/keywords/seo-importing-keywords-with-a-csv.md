@@ -8,11 +8,11 @@ exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 
 1. You can [add keywords](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manually, [get keyword suggestions](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) and even import keywords from a CSV file. Here is how to do the import.
 
-1. Go to the **Keywords** section.
+1. Go to the **[!UICONTROL Keywords]** section.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
-1. Click **Import**.
+1. Click **[!UICONTROL Import]**.
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
@@ -20,7 +20,7 @@ exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. Click **Choose File**.
+1. Click **[!UICONTROL Choose File]**.
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
@@ -28,7 +28,7 @@ exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
    >
    >Import limits vary depending on your subscription. Contact your sales rep for more information.
 
-1. Click **Import**.
+1. Click **[!UICONTROL Import]**.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 
@@ -36,7 +36,9 @@ exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 
    ![](assets/image2014-9-18-11-3a45-3a30.png)
 
-   It may take a few minutes to load all the data associated with each keyword. Meditate on the meaning of life.
+   >[!NOTE]
+   >
+   >It may take a few minutes to load all the data associated with each keyword.
 
    >[!MORELIKETHIS]
    >
