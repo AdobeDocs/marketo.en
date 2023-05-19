@@ -17,7 +17,7 @@ Let's imagine that at your recent tradeshow, a person gave you some additional c
 
 ## Find the Person You Need to Update {#find-the-person-you-need-to-update}
 
-1. Go to your Database.
+1. Go to your **[!UICONTROL Database]**.
 
    ![](assets/update-person-data-1.png)
 
