@@ -5,6 +5,8 @@ exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 ---
 # Syncing Unsubscribes with Salesforce {#syncing-unsubscribes-with-salesforce}
 
+If you want to sync unsubscribes with an opt out field in Salesforce, you can use the Salesforce unsubscribe sync.
+
 ## Requirements for Unsubscribes to Sync to Salesforce {#requirements-for-unsubscribes-to-sync-to-salesforce}
 
 * Unsubscribe Sync must be enabled (for nightly sync)
@@ -17,7 +19,11 @@ When an unsubscribe is collected in Marketo Sales, we push it to Salesforce in r
 
 **Unsubscribe Sync**
 
-When you've enabled the unsubscribe sync (Step 3 below) you'll be turning on the nightly sync. The sync occurs once a day around 8:00 pm PST. It will bidirectionally sync all unsubscribes in Marketo Sales with the Opt Out field in Salesforce.
+When you've enabled the unsubscribe sync (Step 3 below), you'll be turning on the nightly sync. The sync occurs once a day around 8:00 pm PST. It will bidirectionally sync all unsubscribes in Marketo Sales with the Opt Out field in Salesforce.
+
+>[!NOTE]
+>
+>The unsubscribe sync with Salesforce will sync unsubscribes, but it will not sync re-subscribes. If you'd like to remove an unsubscribe from Marketo Sales and Salesforce, uncheck the unsubscribe in Salesforce and remove the unsubscribe in Marketo Sales.
 
 ## Configure Unsubscribe Sync to Salesforce {#configure-unsubscribe-sync-to-salesforce}
 
