@@ -14,7 +14,7 @@ After you log in to Marketo Engage, click the Help icon.
 
    ![](assets/help-center-1.png)
 
-**Guides**
+### Guides {#guides}
 
 Guides serve as quick walkthroughs for popular features.
 
@@ -40,7 +40,7 @@ Click **Done** to exit the walkthrough.
    >
    >Exit the guide at any time by clicking **Dismiss**.
 
-**What's New**
+### What's New {#whats-new}
 
 The What's New tab contains the full details of Marketo Engage's latest release.
 
@@ -50,7 +50,7 @@ The What's New tab contains the full details of Marketo Engage's latest release.
    >
    >Click the arrow icon at the bottom to view the page in Experience League.
 
-**Resources**
+### Resources {#resources}
 
 The Resources tab gives you quick and direct access to various ways you can get additional help with your Marketo Engage instance.
 
