@@ -1,8 +1,6 @@
 ---
 description: User and License Management - Marketo Docs - Product Documentation
 title: User and License Management
-hide: yes
-hidefromtoc: yes
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 ---
 # User and License Management {#user-and-license-management}
