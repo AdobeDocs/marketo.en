@@ -12,19 +12,19 @@ Sometimes, you want to give API access only to a specific IP address or a range 
 >
 >**Admin Permissions Required**
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 
-1. Click **Web Services**.
+1. Click **[!UICONTROL Web Services]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. In the IP Restrictions area, click **Edit,** or click **Edit IP Restrictions** in the upper left.
+1. In the **[!UICONTROL IP Restrictions]** area, click **[!UICONTROL Edit],** or click **[!UICONTROL Edit IP Restrictions]** in the upper left.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
-1. Check the **Enable IP Restrictions** box and enter the IP addresses you want to allowlist.
+1. Check the **[!UICONTROL Enable IP Restrictions]** box and enter the IP addresses you want to Allowlist.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 
@@ -32,10 +32,10 @@ Sometimes, you want to give API access only to a specific IP address or a range 
    >
    >You can enter a single IP address or a range of them, or use a wildcard.
 
-1. Click **Add** to open additional fields to enter more IP addresses.
+1. Click **[!UICONTROL Add]** to open additional fields to enter more IP addresses.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-5.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-6.png)
