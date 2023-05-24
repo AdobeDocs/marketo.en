@@ -12,27 +12,25 @@ Adding competitors will allow you to track how they are performing for the same 
 >
 >**Admin Permissions Required**
 
-1. Go to the **Admin** section.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. Click on the **Competitors** tab.
+1. Click the **[!UICONTROL Competitors]** tab.
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. Click **Add Competitor**.
+1. Click **[!UICONTROL Add Competitor]**.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. Type in the **Name** and **URL** of your competitor.
+1. Type in the **[!UICONTROL Name]** and **[!UICONTROL URL]** of your competitor.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 
-   High five! You should now see your competitor in the list.
+   You should now see your competitor in the list.
 
    ![](assets/image2014-9-17-21-3a13-3a14.png)
-
-   Congrats! You are one step closer to totally crushing it.
 
    >[!MORELIKETHIS]
    >

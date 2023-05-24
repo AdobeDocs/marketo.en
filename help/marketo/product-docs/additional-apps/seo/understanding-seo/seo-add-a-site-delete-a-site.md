@@ -12,9 +12,9 @@ In order for Marketo to pull data (inbound links and recommendations) relevant t
 >
 >Not all customers have purchased this functionality. Contact your sales rep for details.
 
-## Add a Site {#add-a-site}
+## [!UICONTROL Add a Site] {#add-a-site}
 
-1. Click the Admin drop-down and select **Admin**.
+1. Click the Admin drop-down and select **[!UICONTROL Admin]**.
 
    >[!NOTE]
    >
@@ -22,15 +22,15 @@ In order for Marketo to pull data (inbound links and recommendations) relevant t
 
    ![](assets/one.png)
 
-1. Click **Add Site**.
+1. Click **[!UICONTROL Add Site]**.
 
    ![](assets/two.png)
 
-1. Enter the **Name, Website URL** and click **Save**.
+1. Enter the **[!UICONTROL Name], [!UICONTROL Website URL]** and click **[!UICONTROL Save]**.
 
    >[!TIP]
    >
-   >You can also add a **Blog URL** if you have one.
+   >You can also add a **[!UICONTROL Blog URL]** if you have one.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -42,7 +42,7 @@ In order for Marketo to pull data (inbound links and recommendations) relevant t
 
 If you are tracking more than one site, you can also delete a site that you are no longer interested in optimizing.
 
-1. Click the Admin drop-down and select **Admin**.
+1. Click the Admin drop-down and select **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
@@ -50,14 +50,14 @@ If you are tracking more than one site, you can also delete a site that you are 
 
    ![](assets/six.png)
 
-1. Click **Delete**.
+1. Click **[!UICONTROL Delete]**.
 
    ![](assets/seven.png)
 
-1. Confirm that you want to **Delete**.
+1. Confirm that you want to **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-17-21-3a21-3a22.png)
 
    >[!NOTE]
    >
-   >You can only delete a site if you have more than one. If you have just one, you can perform a reset by selecting the site and clicking **Reset**. Resetting a site will _delete all site data_ and recreate the site.
+   >You can only delete a site if you have more than one. If you have just one, you can perform a reset by selecting the site and clicking **[!UICONTROL Reset]**. Resetting a site will _delete all site data_ and recreate the site.

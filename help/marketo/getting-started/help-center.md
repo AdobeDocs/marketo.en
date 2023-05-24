@@ -1,12 +1,10 @@
 ---
 description: Help Center - Marketo Docs - Product Documentation
 title: Help Center
-hide: yes
-hidefromtoc: yes
 ---
 # Help Center {#help-center}
 
-The Help Center in Marketo Engage serves as a centralized location for getting assistance. In addition to linking out to various resources (e.g., [product documentation](/help/marketo/home.md){target="_blank"}, [release information](/help/marketo/release-notes/current.md){target="_blank"}, the [Marketo Community](https://nation.marketo.com/){target="_blank"}), you can access helpful in-product walkthroughs organized by experience level.
+The Help Center in Marketo Engage serves as a centralized location for getting assistance. In addition to linking out to various resources (e.g., [product documentation](/help/marketo/home.md){target="_blank"}, [release information](/help/marketo/release-notes/current.md){target="_blank"}, the [Marketing Nation Community](https://nation.marketo.com/){target="_blank"}), you can access helpful in-product walkthroughs organized by experience level.
 
 ## How to Access {#how-to-access}
 
@@ -20,19 +18,19 @@ Guides serve as quick walkthroughs for popular features.
 
    ![](assets/help-center-2.png)
 
-Click the desired guide to view it.
+1. Click the desired guide to view it.
 
    ![](assets/help-center-3.png)
 
-Click **Get Started**.
+1. Click **Get Started**.
 
    ![](assets/help-center-4.png)
 
-Click **Next** to continue.
+1. Click **Next** to continue.
 
    ![](assets/help-center-5.png)
 
-Click **Done** to exit the walkthrough.
+1. Click **Done** to exit the walkthrough.
 
    ![](assets/help-center-6.png)
 
