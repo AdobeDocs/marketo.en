@@ -173,4 +173,4 @@ The following features follow an Agile format and are released on various dates 
 
 ## Announcements {#announcements}
 
-* **_Product Release Webinar_**: Join us on May 17th, 2023, at 9:00 AM PT / 12:00 PM ET [for a live webinar](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} hosted by our Product Team where you can learn how to use all the latest product innovations delivered in both March and May '23 releases.
+* **_Product Release Webinar_**: [March and May 2023 Marketo Engage Release Webinar](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
