@@ -6,15 +6,15 @@ exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
 ---
 # Delete a Branding Domain {#delete-a-branding-domain}
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/delete-a-branding-domain-1.png)
 
-1. Click **Email**.
+1. Click **[!UICONTROL Email]**.
 
    ![](assets/delete-a-branding-domain-2.png)
 
-1. In the Branding Domains table, select the domain you want to remove and click **Delete**.
+1. In the Branding Domains table, select the domain you want to remove and click **[!UICONTROL Delete]**.
 
    ![](assets/delete-a-branding-domain-3.png)
 

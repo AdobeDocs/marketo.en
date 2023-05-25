@@ -6,11 +6,11 @@ exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 ---
 # Edit Your Default Branding Domain with Workspaces {#edit-your-default-branding-domain-with-workspaces}
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 
-1. Click **Email**.
+1. Click **[!UICONTROL Email]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
@@ -20,15 +20,15 @@ exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 
    >[!NOTE]
    >
-   >**Add** doesn't work until you've edited the generic domain. **Delete** doesn't work until you add a second domain.
+   >**[!UICONTROL Add]** doesn't work until you've edited the generic domain. **[!UICONTROL Delete]** doesn't work until you add a second domain.
    >
    >You can't add an additional domain until you first edit the generic domain.
 
-1. Enter the name of your default domain and click **Next**.
+1. Enter the name of your default domain and click **[!UICONTROL Next]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-4.png)
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-5.png)
 

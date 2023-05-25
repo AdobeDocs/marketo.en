@@ -41,8 +41,8 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
+   <td>Shipped</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/help-center.html">Help Center</a></td>
   </tr>
   </tbody>
 </table>
@@ -67,8 +67,8 @@ Interactive Webinars will be rolled out gradually. To request earlier access, pl
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
+   <td>Rollout started</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Interactive Webinars Overview</a></td>
   </tr>
   </tbody>
 </table>

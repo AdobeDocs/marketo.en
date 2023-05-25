@@ -10,7 +10,7 @@ Audit Trail gives you the ability to obtain a complete history (six months' wort
 
 >[!NOTE]
 >
->Audit trail data history began back on September 14, 2016.
+>Audit Trail data history began back on September 14, 2016.
 
 ![](assets/audit-trail-overview-1.png)
 
@@ -71,7 +71,7 @@ You can only view 30 days' worth of data in your instance. To obtain (up to) six
 >
 >**Definition**
 >
->**Unknown:** In audit trail, you may see a user's name and email listed as "Unknown." This happens when you make a change to your picklist values in your CRM. These values appear in Marketo forms and landing pages. Doing this update on the CRM side will auto-draft your landing pages referencing the form. In audit trail, we will capture that the landing page was drafted, but the user's name and email will show as "Unknown," as we are not able to capture the user info from the CRM side.
+>**Unknown:** In [!DNL Webhook], you may see a user's name and email listed as "Unknown." This happens when you make a change to your picklist values in your CRM. These values appear in Marketo forms and landing pages. Doing this update on the CRM side will auto-draft your landing pages referencing the form. In [!DNL Webhook], we will capture that the landing page was drafted, but the user's name and email will show as "Unknown," as we are not able to capture the user info from the CRM side.
 
 >[!MORELIKETHIS]
 >

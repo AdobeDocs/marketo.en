@@ -24,25 +24,25 @@ Against email link click and email open activity, new attributes will be populat
 
 ## Select Filter Type {#select-filter-type}
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. Click **Email**.
+1. Click **[!UICONTROL Email]**.
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. Click the **Bot Activity** tab.
+1. Click the **[!UICONTROL Bot Activity]** tab.
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Choose to **Match with IAB List**, **Match with Proximity Pattern**, or both. Choose whether to log bot activity _or_ filter bot activity.
+1. Choose to **[!UICONTROL Match with IAB List]**, **[!UICONTROL Match with Proximity Pattern]**, or both. Choose whether to [!UICONTROL log bot activity] _or_ [!UICONTROL filter bot activity].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->If you choose Filter Bot Activity, you may see a drop in email opens and clicks as false activities are weeded out.
+>If you choose [!UICONTROL Filter Bot Activity], you may see a drop in email opens and clicks as false activities are weeded out.
 
 **OPTIONAL STEP**: To disable this feature, simply deselect the slider(s). If you disable, the data does not reset.
 

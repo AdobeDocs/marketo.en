@@ -12,35 +12,35 @@ It's very important to not over-communicate with your people. Setting communicat
 >
 >**Admin Permissions Required**
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/enable-communication-limits-1.png)
 
-1. Click **Communication Limits**.
+1. Click **[!UICONTROL Communication Limits]**.
 
    ![](assets/enable-communication-limits-2.png)
 
-1. Click **Edit**.
+1. Click **[!UICONTROL Edit]**.
 
    ![](assets/enable-communication-limits-3.png)
 
    >[!NOTE]
    >
-   >Per Day is based on the calendar day in the subscription time zone (midnight-midnight).
+   >[!UICONTROL Per Day] is based on the calendar day in the subscription time zone (midnight-midnight).
 
-1. Click the **Per Day** drop-down and select the desired limit. In this example we're choosing 1.
+1. Click the **[!UICONTROL Per Day]** drop-down and select the desired limit. In this example we're choosing 1.
 
    ![](assets/enable-communication-limits-4.png)
 
    >[!TIP]
    >
-   >You can also choose **Custom** if none of the preset options work for you.
+   >You can also choose **[!UICONTROL Custom]** if none of the preset options work for you.
 
-1. Click the **Per 7 Days** drop-down and select the desired limit. In this example we're choosing 5.
+1. Click the **[!UICONTROL Per 7 Days]** drop-down and select the desired limit. In this example we're choosing 5.
 
    ![](assets/enable-communication-limits-5.png)
 
-1. Select **Block non-operational emails**.
+1. Select **[!UICONTROL Block non-operational emails]**.
 
    ![](assets/enable-communication-limits-6.png)
 
@@ -48,7 +48,7 @@ It's very important to not over-communicate with your people. Setting communicat
    >
    >Learn more about what [operational emails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) are.
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/enable-communication-limits-7.png)
 
