@@ -49,7 +49,7 @@ Just type the number and unit together and it'll work!
 
 >[!CAUTION]
 >
->When you create a smart list using a date field filter (e.g., Date of Birth, SFDC Created Date) and use the **before** or **on or before** constraints, the smart list will also include people who have no value in said date field.
+>When you create a smart list using a date field filter (e.g., Date of Birth, SFDC Created Date) and use the constraints **before**, **on or before**, or **in past before**, the smart list will also include people who have no value in said date field.
 
 Use the following diagram to understand the difference between the date operators.
 
