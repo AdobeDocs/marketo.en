@@ -22,15 +22,15 @@ This feature allows you to export all objects and their metadata.
 
 ## Export Object Metadata {#export-object-metadata}
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/export-all-object-metadata-1.png)
 
-1. Click **Field Management**.
+1. Click **[!UICONTROL Field Management]**.
 
    ![](assets/export-all-object-metadata-2.png)
 
-1. Click **Export All Objects**.
+1. Click **[!UICONTROL Export All Objects]**.
 
    ![](assets/export-all-object-metadata-3.png)
 

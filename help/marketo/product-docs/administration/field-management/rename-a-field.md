@@ -14,11 +14,11 @@ exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 >
 >**Admin Permissions Required**
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/rename-a-field-1.png)
 
-1. Click **Field Management**.
+1. Click **[!UICONTROL Field Management]**.
 
    ![](assets/rename-a-field-2.png)
 
@@ -28,9 +28,9 @@ exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 
    >[!TIP]
    >
-   >Click the **Used By** link to find assets that reference this field.
+   >Click the **[!UICONTROL Used By]** link to find assets that reference this field.
 
-1. Rename the field and click **Save**.
+1. Rename the field and click **[!UICONTROL Save]**.
 
    ![](assets/rename-a-field-4.png)
 
