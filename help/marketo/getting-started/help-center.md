@@ -1,6 +1,7 @@
 ---
 description: Help Center - Marketo Docs - Product Documentation
 title: Help Center
+exl-id: 3e8c3db6-c1ad-4895-9bdf-95118876ed18
 ---
 # Help Center {#help-center}
 

@@ -3,6 +3,7 @@ description: Settings Tab - Marketo Docs - Product Documentation
 title: Settings Tab
 hide: yes
 hidefromtoc: yes
+exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
 ---
 # Settings Tab {#settings-tab}
 
