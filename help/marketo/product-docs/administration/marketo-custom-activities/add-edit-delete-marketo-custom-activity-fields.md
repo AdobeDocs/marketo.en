@@ -10,15 +10,15 @@ You may need to add, change, or even get rid of a custom activity field. Here's 
 
 ## Add a Custom Activity Field {#add-a-custom-activity-field}
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
 
-1. Click **Marketo Custom Activities**.
+1. Click **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-2.png)
 
-1. Click **Fields**.
+1. Click **[!UICONTROL Fields]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-3.png)
 
@@ -26,11 +26,11 @@ You may need to add, change, or even get rid of a custom activity field. Here's 
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-4.png)
 
-1. Click **New Field**.
+1. Click **[!UICONTROL New Field]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
-1. Choose the field's data type.
+1. Choose the field's [!UICONTROL data type].
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 
@@ -38,7 +38,7 @@ You may need to add, change, or even get rid of a custom activity field. Here's 
    >
    >Not sure what to select? We've got you covered! All of the available data types are defined in [this article](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
-1. Name the field. The Api Name auto-populates. When you're done, click **Save**.
+1. Name the field. The Api Name auto-populates. When you're done, click **[!UICONTROL Save]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
@@ -46,15 +46,15 @@ You may need to add, change, or even get rid of a custom activity field. Here's 
 
 ## Edit a Custom Activity Field {#edit-a-custom-activity-field}
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
 
-1. Click **Marketo Custom Activities**.
+1. Click **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-9.png)
 
-1. Click **Fields**.
+1. Click **[!UICONTROL Fields]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-10.png)
 
@@ -62,7 +62,7 @@ You may need to add, change, or even get rid of a custom activity field. Here's 
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-11.png)
 
-1. Select the field you want to edit, click the **Field Actions** drop-down, and select **Edit Field**.
+1. Select the field you want to edit, click the **[!UICONTROL Field Actions]** drop-down, and select **[!UICONTROL Edit Field]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
@@ -70,7 +70,7 @@ You may need to add, change, or even get rid of a custom activity field. Here's 
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
-1. Enter the new Name and Api Name, then click **Save**.
+1. Enter the new Name and Api Name, then click **[!UICONTROL Save]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
@@ -90,15 +90,15 @@ Your field is now edited!
 
 ## Delete a Custom Activity Field {#delete-a-custom-activity-field}
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
 
-1. Click **Marketo Custom Activities**.
+1. Click **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-16.png)
 
-1. Click **Fields**.
+1. Click **[!UICONTROL Fields]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-17.png)
 
@@ -106,6 +106,6 @@ Your field is now edited!
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-18.png)
 
-1. Select the field you want to delete, click the **Field Actions** drop-down, and select **Delete Field**.
+1. Select the field you want to delete, click the **[!UICONTROL Field Actions]** drop-down, and select **[!UICONTROL Delete Field]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-19.png)
