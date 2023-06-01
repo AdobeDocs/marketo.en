@@ -13,7 +13,7 @@ When an Admin invites a user, that user is automatically verified once they clic
 
 ## Verification Email {#verification-email}
 
-Invited users will receive the following email:
+Users will receive the following email when email verification is activated for a subscription, or if it's triggered by an Admin/user:
 
    ![](assets/email-verification-1.png)
 
