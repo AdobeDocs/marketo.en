@@ -20,31 +20,31 @@ Use custom objects in Marketo to track metrics specific to your business. This c
 
 This example shows a Car custom object, for use in a one-to-many structure. Later, you'll create a course custom object and an intermediary object to use in a many-to-many structure.
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/create-marketo-custom-objects-1.png)
 
-1. Click **Marketo Custom Objects**.
+1. Click **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/create-marketo-custom-objects-2.png)
 
-1. Click **New Custom Object**.
+1. Click **[!UICONTROL New Custom Object]**.
 
    ![](assets/create-marketo-custom-objects-3.png)
 
    >[!NOTE]
    >
-   >The Marketo Custom Objects tab displays all custom objects on the right, and details for any approved ones, including number of records and fields at the most recent update.
+   >The [!UICONTROL Marketo Custom Objects] tab displays all custom objects on the right, and details for any approved ones, including number of records and fields at the most recent update.
 
-1. Enter a display name. The API Name and Plural Name populate automatically. Enter a description (optional).
+1. Enter a [!UICONTROL Display Name]. The [!UICONTROL API Name] and [!UICONTROL Plural Name] populate automatically. Enter a [!UICONTROL Description] (optional).
 
    ![](assets/create-marketo-custom-objects-4.png)
 
    >[!NOTE]
    >
-   >You can edit these fields when you're creating them, but after they're saved, you can only edit the Plural Name field and the **Show in Lead Detail** slider.
+   >You can edit these fields when you're creating them, but after they're saved, you can only edit the [!UICONTROL Plural Name] field and the **[!UICONTROL Show in Lead Detail]** slider.
 
-1. Pull the **Show in Lead Detail** slider over to display **Show** if you want to view custom object data on the Database page. Click **Save**.
+1. Pull the **[!UICONTROL Show in Lead Detail]** slider over to display **[!UICONTROL Show]** if you want to view custom object data on the Database page. Click **[!UICONTROL Save]**.
 
    ![](assets/create-marketo-custom-objects-5.png)
 
@@ -66,27 +66,27 @@ This example shows a course custom object, which you'll use for creating a many-
 >
 >For a many-to-many relationship, you don't need to create a link in the custom object. Instead, you'll add two links to the intermediary object (see below).
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/create-marketo-custom-objects-7.png)
 
-1. Click **Marketo Custom Objects**.
+1. Click **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/create-marketo-custom-objects-8.png)
 
-1. Click **New Custom Object**.
+1. Click **[!UICONTROL New Custom Object]**.
 
    ![](assets/create-marketo-custom-objects-9.png)
 
-1. Enter a display name. The API Name and Plural Name populate automatically. Enter a description (optional).
+1. Enter a [!UICONTROL Display Name]. The [!UICONTROL API Name] and [!UICONTROL Plural Name] populate automatically. Enter a [!UICONTROL Description] (optional).
 
    ![](assets/create-marketo-custom-objects-10.png)
 
    >[!NOTE]
    >
-   >You can edit these fields when you're creating them, but after they're saved, you can only edit the Plural Name field and the **Show in Lead Detail** slider.
+   >You can edit these fields when you're creating them, but after they're saved, you can only edit the [!UICONTROL Plural Name] field and the **[!UICONTROL Show in Lead Detail]** slider.
 
-1. Pull the **Show in Lead Detail** slider over to display **Show** if you want to view custom object data on the Database page. Click **Save**.
+1. Pull the **[!UICONTROL Show in Lead Detail]** slider over to display **[!UICONTROL Show]** if you want to view custom object data on the Database page. Click **[!UICONTROL Save]**.
 
    ![](assets/create-marketo-custom-objects-11.png)
 
@@ -108,27 +108,27 @@ Use an intermediary object to connect a custom object to people or companies. In
 >
 >You don't need to create an intermediary object for a one-to-many custom object structure.
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/create-marketo-custom-objects-13.png)
 
-1. Click **Marketo Custom Objects**.
+1. Click **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/create-marketo-custom-objects-14.png)
 
-1. Click **New Custom Object**.
+1. Click **[!UICONTROL New Custom Object]**.
 
    ![](assets/create-marketo-custom-objects-15.png)
 
-1. Enter a display name. The API Name and Plural Name populate automatically. Enter a description (optional).
+1. Enter a [!UICONTROL Display Name]. The [!UICONTROL API Name] and [!UICONTROL Plural Name] populate automatically. Enter a [!UICONTROL Description] (optional).
 
    ![](assets/create-marketo-custom-objects-16.png)
 
    >[!NOTE]
    >
-   >You can edit these fields when you're creating them, but after they're saved, you can only edit the Plural Name field and the Show in Lead Detail slider.
+   >You can edit these fields when you're creating them, but after they're saved, you can only edit the [!UICONTROL Plural Name] field and the [!UICONTROL Show in Lead Detail] slider.
 
-1. Pull the **Show in Lead Detail** slider over to display **Show** if you want to view custom object data on the Database page. Click **Save**.
+1. Pull the **[!UICONTROL Show in Lead Detail]** slider over to display **Show** if you want to view custom object data on the Database page. Click **Save**.
 
    ![](assets/create-marketo-custom-objects-17.png)
 

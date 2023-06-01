@@ -11,11 +11,11 @@ If you're using our SOAP API or Munchkin API, Custom Object Metadata Schema can 
 >
 >Not all customers have purchased this feature. Please contact the Adobe Account Team (your Account Manager) for details.
 
-1. In My Marketo, click **Admin**.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/custom-object-metadata-export-1.png)
 
-1. Click **Marketo Custom Objects**.
+1. Click **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/custom-object-metadata-export-2.png)
 
@@ -23,7 +23,7 @@ If you're using our SOAP API or Munchkin API, Custom Object Metadata Schema can 
 
    ![](assets/custom-object-metadata-export-3.png)
 
-1. Click the **Custom Object Actions** drop-down and select **Export Object**.
+1. Click the **[!UICONTROL Custom Object Actions]** drop-down and select **[!UICONTROL Export Object]**.
 
    ![](assets/custom-object-metadata-export-4.png)
 

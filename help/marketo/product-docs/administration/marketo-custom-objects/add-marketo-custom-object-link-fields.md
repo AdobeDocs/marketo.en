@@ -15,11 +15,11 @@ When you create custom objects, you must provide link fields to connect the cust
 
 Here's how to create a link field in a custom object for a one-to-many structure.
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
-1. Click **Marketo Custom Objects**.
+1. Click **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/add-marketo-custom-object-link-fields-2.png)
 
@@ -27,29 +27,29 @@ Here's how to create a link field in a custom object for a one-to-many structure
 
    ![](assets/add-marketo-custom-object-link-fields-3.png)
 
-1. In the **Fields** tab, click **New Field**.
+1. In the **[!UICONTROL Fields]** tab, click **[!UICONTROL New Field]**.
 
    ![](assets/add-marketo-custom-object-link-fields-4.png)
 
-1. Name the link field and add an optional description. Be sure to select the Link data type.
+1. Name the link field and add an optional [!UICONTROL Description]. Be sure to select the [!UICONTROL Link] data type.
 
    ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
-   >You won't be able to go back and create, edit, or delete a Link or Dedupe Field once the custom object is approved.
+   >You won't be able to go back and create, edit, or delete a [!UICONTROL Link] or [!UICONTROL Dedupe Field] once the custom object is approved.
 
-1. Select whether the link object is for a lead (person) or a company.
+1. Select whether the [!UICONTROL Link Object] is for a [!UICONTROL lead] (person) or a [!UICONTROL company].
 
    ![](assets/add-marketo-custom-object-link-fields-6.png)
 
    >[!NOTE]
    >
-   >If you choose lead, you'll see Id, email Address, and any custom fields in the list.
+   >If you choose [!UICONTROL lead], you'll see Id, email Address, and any custom fields in the list.
    >
-   >If you choose company, you'll see Id and any custom fields in the list.
+   >If you choose [!UICONTROL company], you'll see Id and any custom fields in the list.
 
-1. Select the link field you want to connect to as the parent of the new field.
+1. Select the [!UICONTROL Link Field] you want to connect to as the parent of the new field.
 
    ![](assets/add-marketo-custom-object-link-fields-7.png)
 
@@ -57,7 +57,7 @@ Here's how to create a link field in a custom object for a one-to-many structure
    >
    >Only string field types are supported in the link field.
 
-1. Click **Save.**
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/add-marketo-custom-object-link-fields-8.png)
 
@@ -69,11 +69,11 @@ Here's how to create a link field in an intermediary object for use in a many-to
 >
 >You must have already created the intermediary object and any custom objects you intend to link it to.
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 
-1. Click **Marketo Custom Objects**.
+1. Click **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/add-marketo-custom-object-link-fields-10.png)
 
@@ -81,35 +81,35 @@ Here's how to create a link field in an intermediary object for use in a many-to
 
    ![](assets/add-marketo-custom-object-link-fields-11.png)
 
-1. In the **Fields** tab, click **New Field**.
+1. In the **[!UICONTROL Fields]** tab, click **[!UICONTROL New Field]**.
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 
-1. You need to create two link fields. Create them one at a time. First, name the field for the members of your database list (leadID, for example). Add an optional description. Be sure to select the link data type.
+1. You need to create two link fields. Create them one at a time. First, name the field for the members of your database list (leadID, for example). Add an optional [!UICONTROL Description]. Be sure to select the [!UICONTROL link] [!UICONTROL Data Type].
 
    ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
-   >You won't be able to go back and create, edit, or delete a Link or Dedupe Field once the custom object is approved.
+   >You won't be able to go back and create, edit, or delete a [!UICONTROL Link] or [!UICONTROL Dedupe Field] once the custom object is approved.
 
-1. Select the link object from your database, in this case Lead.
+1. Select the [!UICONTROL Link Object] from your database; in this case, [!UICONTROL Lead].
 
    ![](assets/add-marketo-custom-object-link-fields-14.png)
 
-1. Select the link field you want to connect to, in this case, Id.
+1. Select the [!UICONTROL Link Field] you want to connect to, in this case, [!UICONTROL Id].
 
    ![](assets/add-marketo-custom-object-link-fields-15.png)
 
    >[!NOTE]
    >
-   >Only string field types are supported in the link field.
+   >Only string field types are supported in the [!UICONTROL Link Field].
 
-1. Click **Save.**
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/add-marketo-custom-object-link-fields-16.png)
 
-1. Repeat this process for the second link to your custom object, in this example, courseID. The Link Object Name will be course, and the Link Field will be courseID. Since you already created and approved the course custom object, these selections are available in the drop-down menus.
+1. Repeat this process for the second link to your custom object, in this example, courseID. The [!UICONTROL Link Object] name will be course, and the [!UICONTROL Link Field] will be courseID. Since you already created and approved the course custom object, these selections are available in the drop-down menus.
 
    ![](assets/add-marketo-custom-object-link-fields-17.png)
 

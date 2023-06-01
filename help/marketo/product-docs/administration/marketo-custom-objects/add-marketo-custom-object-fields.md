@@ -10,11 +10,11 @@ After you've created a custom object, you need to add fields to it to meet your 
 
 Fields define the specific information used by a custom object. Link fields have a special job, to connect custom objects, and are covered in a [separate article](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 
-1. Click **Marketo Custom Objects**.
+1. Click **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/add-marketo-custom-object-fields-2.png)
 
@@ -22,7 +22,7 @@ Fields define the specific information used by a custom object. Link fields have
 
    ![](assets/add-marketo-custom-object-fields-3.png)
 
-1. In the **Fields** tab, click **New Field**.
+1. Ckick the **[!UICONTROL Fields]** tab, then **[!UICONTROL New Field]**.
 
    ![](assets/add-marketo-custom-object-fields-4.png)
 
@@ -30,7 +30,7 @@ Fields define the specific information used by a custom object. Link fields have
    >
    >The three fields shown above are created automatically by Marketo when you create a custom object. Marketo manages these fields automatically and you can't edit or delete them.
 
-1. Enter a display name and description.
+1. Enter a [!UICONTROL Display Name] and (optional) [!UICONTROL Description].
 
    ![](assets/add-marketo-custom-object-fields-5.png)
 
@@ -38,11 +38,11 @@ Fields define the specific information used by a custom object. Link fields have
    >
    >The API name can be edited only until it's approved.
 
-1. Now, choose an appropriate data type from the list.
+1. Now, choose an appropriate [!UICONTROL Data Type] from the list.
 
    ![](assets/add-marketo-custom-object-fields-6.png)
 
-1. Pull the Dedupe slider over if you want to use the new field as a unique identifier. Click **Save** to finish.
+1. Pull the [!UICONTROL Dedupe] slider over if you want to use the new field as a unique identifier. Click **[!UICONTROL Save]** to finish.
 
    ![](assets/add-marketo-custom-object-fields-7.png)
 
