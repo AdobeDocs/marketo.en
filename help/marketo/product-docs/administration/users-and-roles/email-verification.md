@@ -25,7 +25,7 @@ In **Admin** > **Users & Roles**, the Email Status column shows the verification
 
    ![](assets/email-verification-3.png)
 
-## Multiple User Login IDs {multiple-user-login-ids}
+## Multiple User Login IDs {#multiple-user-login-ids}
 
 Only one user account can be associated with a single email address. If there are multiple user accounts associated with a single email address, Marketo Engage will require the conflict to be resolved and display all user logins associated with the email address, as well as three resolution options:<p>
 `1` Use the current email for the current User Login ID<p>
