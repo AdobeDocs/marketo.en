@@ -8,19 +8,23 @@ exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 
 Marketo automatically de-duplicates when new people enter the system. However, your CRM may have initially sent duplicates to Marketo. Here's how to merge them.
 
->[!NOTE]
+>[!CAUTION]
 >
->Marketo will not automatically de-dupe against a Salesforce or Microsoft Dynamics sync, or when you manually enter people.
+>Merging people is permanent, there is no "undo" option.
 
 >[!PREREQUISITES]
 >
->Finding and merging duplicates will involve the use of [built-in / system smart lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>Finding and merging duplicates will involve the use of [built-in/system smart lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+
+>[!NOTE]
+>
+>Marketo will not automatically de-dupe against a Salesforce or Microsoft Dynamics sync, or when you manually enter people.
 
 ## Find Duplicates {#find-duplicates}
 
 1. Go to the **Database** area.
 
-   ![](assets/db.png)
+   ![](assets/find-and-merge-duplicate-people-1.png)
 
    >[!CAUTION]
    >
@@ -28,7 +32,7 @@ Marketo automatically de-duplicates when new people enter the system. However, y
 
 1. Select the **Possible Duplicates** system smart list and click on the **People** tab.
 
-   ![](assets/two.png)
+   ![](assets/find-and-merge-duplicate-people-2.png)
 
    >[!NOTE]
    >
@@ -42,7 +46,7 @@ Marketo automatically de-duplicates when new people enter the system. However, y
 
 1. Select the duplicates by holding Ctrl/Cmd and clicking, then click **Merge People**.
 
-   ![](assets/three.png)
+   ![](assets/find-and-merge-duplicate-people-3.png)
 
    >[!TIP]
    >
@@ -50,7 +54,7 @@ Marketo automatically de-duplicates when new people enter the system. However, y
 
 1. You will see the values between the records that _don't_ match. Select the value you want to keep for each field. Click **Merge** when done. If you don't want either value, you can check **Custom** and enter a value of your choice.
 
-   ![](assets/four.png)
+   ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
