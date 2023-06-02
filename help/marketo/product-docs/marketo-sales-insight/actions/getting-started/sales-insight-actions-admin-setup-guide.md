@@ -5,6 +5,10 @@ exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 ---
 # Sales Insight Actions Admin Setup Guide {#sales-insight-actions-admin-setup-guide}
 
+>[!NOTE]
+>
+>Marketo Sales Insight Actions is a web-based application that integrates with the Salesforce user interface via the [Marketo Sales Insight package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. It is sometimes referred to as "Marketo Sales," or simply "Actions."
+
 >[!PREREQUISITES]
 >
 >* Confirm with the Adobe Account Team (your Account Manager) that MSI Actions has been enabled for your Marketo Engage Account (if you don't have an Account Manager, contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}).

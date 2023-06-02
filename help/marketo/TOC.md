@@ -1367,6 +1367,11 @@ feature-set: Marketo Engage
           + [Composing Bulk Emails with Select and Send](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
           + [Sending Emails via Group Email](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
           + [Using a Template in the Compose Window](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+      + Email Integration {#email-integration}
+        + Gmail {#gmail}
+          + [Connect to Gmail](product-docs/marketo-sales-insight/actions/email-integration/gmail/connect-to-gmail.md)
+        + Outlook {#outlook}
+          + [Connect to Outlook](product-docs/marketo-sales-insight/actions/email-integration/outlook/connect-to-outlook.md)
       + FAQ {#faq}
         + [Can I Recover a Contact or Group I Deleted?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
         + [Can I Track Multiple Recipients with CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
