@@ -734,6 +734,7 @@ feature-set: Marketo Engage
       + [Delete an Uploaded Image or File](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
       + [Find the URL of an Uploaded Image or File](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
       + [Grab the Images from a Web Page](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
+      + [Image Editor](product-docs/demand-generation/images-and-files/image-editor.md)
       + [Organize Your Images and Files Using Folders](product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
       + [Replace an Uploaded Image or File](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
       + [Search Uploaded Images and Files](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)

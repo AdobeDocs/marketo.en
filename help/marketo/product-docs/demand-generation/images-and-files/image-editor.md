@@ -1,25 +1,23 @@
 ---
 description: Image Editor - Marketo Docs - Product Documentation
 title: Image Editor
-hide: yes
-hidefromtoc: yes
 ---
-# Image Editor
+# Image Editor {#image-editor}
 
 The image editor allows you to make quick, light edits to your images in Marketo Engage.
 
 1. Go to the **[!UICONTROL Design Studio]**.
 
-PICC
+   ![](assets/image-editor-1.png)
 
-1. Locate your image ([!UICONTROL Recent Design Studio Assets] or [!UICONTROL Images & Files]) and click its file name.
+1. Locate and select your image.
 
-PICC
+   ![](assets/image-editor-2.png)
 
 1. Click the **[!UICONTROL Edit Image]** button.
 
-PICC
+   ![](assets/image-editor-3.png)
 
 1. Choose from a variety of functions in the toolbar at the top. Click **[!UICONTROL Save]** when done.
 
-PICC
+   ![](assets/image-editor-4.png)
