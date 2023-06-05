@@ -48,7 +48,7 @@ _Release dates are subject to change_
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">May '23</a></td>
    <td>May 12, 2023</td>
-   <td>In Progress</td>
+   <td>Shipped</td>
   </tr>
   <tr> 
    <td>July '23</td>

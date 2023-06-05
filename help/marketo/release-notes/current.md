@@ -27,8 +27,8 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud Interface Overview</a></td>
   </tr>
   </tbody>
 </table>
@@ -69,24 +69,6 @@ Interactive Webinars will be rolled out gradually. To request earlier access, pl
   <tr> 
    <td>Rollout started</td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Interactive Webinars Overview</a></td>
-  </tr>
-  </tbody>
-</table>
-
-### Dynamic Chat {#dynamic-chat}
-
-</br>
-
-* **Chat Source for Dynamic Chat**: "Chat" is now offered as a source of new person records and activities. This source can be used to help users filter activities in Smart Lists/Campaigns. The source can also be blocked from updates on fields.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
-  </tr>
-  <tr> 
-   <td><i>Coming soon</i></td>
-   <td><i>Coming soon</i></td>
   </tr>
   </tbody>
 </table>
