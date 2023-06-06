@@ -1,9 +1,9 @@
 ---
-description: Actions Data Sync FAQ - Marketo Docs - Product Documentation
-title: Actions Data Sync FAQ
+description: Sync Sales Action Data with Marketo and Salesforce - Marketo Docs - Product Documentation
+title: Sync Sales Action Data with Marketo and Salesforce
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
 ---
-# Actions Data Sync FAQ {#actions-data-sync-faq}
+# Sync Sales Action Data with Marketo and Salesforce {#sync-sales-action-data-with-marketo-and-salesforce}
 
 The data unification field sync for Sales Insight Actions enables the system to pull person information from your Marketo Engage database into your Sales Insight Actions database.
 

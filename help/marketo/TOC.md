@@ -1304,7 +1304,6 @@ feature-set: Marketo Engage
           + [Add or Update Your Email Signature](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
           + [Add Identity](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
       + Admin {#admin}
-        + [Actions Data Sync FAQ](product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md)
         + [Auto-login from Salesforce](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
         + [Blocked Domains](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
         + [Connect New Admin to Marketo](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
@@ -1314,6 +1313,7 @@ feature-set: Marketo Engage
         + [Invite Users and Admins](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
         + [Login Management Settings](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
         + [Sharing Settings](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+        + [Sync Sales Action Data with Marketo and Salesforce](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
         + [User Access Details](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
       + Analytics {#analytics}
         + [Analytics Page Overview](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
