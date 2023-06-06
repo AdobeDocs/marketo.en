@@ -131,7 +131,7 @@ Person records that exist in Marketo and Salesforce will be synced to your Marke
 
    >[!NOTE]
    >
-   >To learn more about how people and activity data syncs between Sales Insight Actions, Marketo, and Salesforce, [click here](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md){target="_blank"}.
+   >To learn more about how people and activity data syncs between Sales Insight Actions, Marketo, and Salesforce, [click here](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
 
 ## Invite Individual Users to MSI Actions {#invite-individual-users-to-msi-actions}
 
