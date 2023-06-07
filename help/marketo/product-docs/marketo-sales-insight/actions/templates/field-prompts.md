@@ -16,7 +16,7 @@ To add a field prompt, type out the desired text. Preface it with an exclamation
 
 `{{! Add sentence that references their industry and role}}`
 
-Users will need to replace this text with their own personalization before the email can be sent.
+<p>Users will need to replace this text with their own personalization before the email can be sent.
 
 >[!NOTE]
 >
