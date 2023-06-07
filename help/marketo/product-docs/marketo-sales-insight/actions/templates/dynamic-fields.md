@@ -27,6 +27,18 @@ If you're emailing contacts who exist in Salesforce, you can take advantage of t
 
 Simply manually copy and paste them into the subject field of an email, taking care to ensure you have the proper formatting.
 
+## Dynamic Field Default Values {#dynamic-field-default-values}
+
+When adding dynamic fields to your email templates, you can add a default value that the dynamic field will resolve to if there's no other value available.  
+
+To do this, add "|" after the dynamic field label, then add "default:". Then, add the value you want the field to resolve to if no other value can be found.  
+
+**Example:**
+
+`{{first name | default: loyal customer}}`
+
+`{{sfdc_contact_account_name | default: your company}}`
+
 ## Dynamic Fields Glossary {#dynamic-fields-glossary}
 
 When creating a template in Sales Insight Actions, we always recommend integrating dynamic fields, using the **Insert Dynamic Field** button.

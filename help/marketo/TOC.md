@@ -1424,6 +1424,7 @@ feature-set: Marketo Engage
       + Templates {#templates}
         + [Add Hyperlinked Text](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
         + [Dynamic Fields](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
+        + [Field Prompts](product-docs/marketo-sales-insight/actions/templates/field-prompts.md)
         + [Manage Templates](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
         + [Manage Template Categories](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
         + [Recommended Templates](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)
