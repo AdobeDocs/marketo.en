@@ -16,19 +16,19 @@ exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 >
 >"Do Not Track" will be set to Ignore by default, so if that's what you want, you won't need to take any steps.
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
-1. Click **Munchkin**.
+1. Click **[!UICONTROL Munchkin]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
-1. Under **Person Tracking**, click **Edit**.
+1. Under **[!UICONTROL Person Tracking]**, click **[!UICONTROL Edit]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. Select **Support** and click **Save**.
+1. Select **[!UICONTROL Support]** and click **[!UICONTROL Save]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 

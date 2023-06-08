@@ -8,19 +8,19 @@ exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
 
 Change your Marketo password with these simple steps.
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/change-your-marketo-password-1.png)
 
-1. Click **My Account**.
+1. Click **[!UICONTROL My Account]**.
 
    ![](assets/change-your-marketo-password-2.png)
 
-1. Click **Change Password**.
+1. Click **[!UICONTROL Change Password]**.
 
    ![](assets/change-your-marketo-password-3.png)
 
-1. Enter the Old Password and New Password, then click **Save**.
+1. Enter the Old Password and New Password, then click **[!UICONTROL Save]**.
 
    ![](assets/change-your-marketo-password-4.png)
 

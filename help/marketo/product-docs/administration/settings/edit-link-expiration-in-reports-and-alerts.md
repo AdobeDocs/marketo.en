@@ -12,19 +12,19 @@ Links in your report subscription emails expire after three days. In order to ch
 >
 >**Admin Permissions Required**
 
-1. Go to the **Admin** section.
+1. Go to the **[!UICONTROL Admin]** section.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-1.png)
 
-1. Click **Login Settings**.
+1. Click **[!UICONTROL Login Settings]**.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-2.png)
 
-1. Click **Edit URL Expiration**.
+1. Click **[!UICONTROL Edit URL Expiration]**.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-3.png)
 
-1. In the drop-down, select the number of days before the link expires. Click **Save**.
+1. In the drop-down, select the number of days before the link expires. Click **[!UICONTROL Save]**.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-4.png)
 

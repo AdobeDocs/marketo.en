@@ -14,7 +14,7 @@ Marketo automatically de-duplicates when new people enter the system. However, y
 
 >[!PREREQUISITES]
 >
->Finding and merging duplicates will involve the use of [built-in/system smart lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>Finding and merging duplicates will involve the use of [built-in/system smart lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ Marketo automatically de-duplicates when new people enter the system. However, y
 
    >[!NOTE]
    >
-   >You can also [Find Duplicate People with Custom Logic](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
+   >You can also [Find Duplicate People with Custom Logic](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
 
 ## Merge People Manually {#merge-people-manually}
 
@@ -66,18 +66,16 @@ Marketo automatically de-duplicates when new people enter the system. However, y
 
 ## Effect in Salesforce {#effect-in-salesforce}
 
-If you have Salesforce integration, there are a few notes about the effect of Merge Leads in Salesforce.
+If you have Salesforce integration, there are a few notes about the effect of merging Leads in Salesforce.
 
 * When merging only Leads or only Contacts, they merge per normal Salesforce rules.
 * When merging Leads and Contacts together, all Leads are converted to Contacts prior to merging per normal Salesforce rules.
 
 For specifics of Salesforce behavior when merging Leads or Contacts, please check the following Salesforce documents:
 
-* [Merging Duplicate Leads](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US)
-* [Merging Duplicate Contacts](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US)
+* [Merging Duplicate Leads](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
+* [Merging Duplicate Contacts](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}
 
 ## Bulk Merging {#bulk-merging}
 
 If you have too many duplicates to manually merge, contact the Adobe Account Team (your Account Manager) to discuss your options.
-
-If you're connected to a CRM, the records will merge there according to the rules below.

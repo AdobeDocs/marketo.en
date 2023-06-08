@@ -11,15 +11,15 @@ This feature allows you to block specific domains from submitting to Marketo Eng
 
 Before you can utilize this feature, you must enable its permssion per desired role.
 
-1. In Marketo, click **Admin**.
+1. In Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/global-form-validation-rules-1.png)
 
-1. Click **Users & Roles**.
+1. Click **[!UICONTROL Users & Roles]**.
 
    ![](assets/global-form-validation-rules-2.png)
 
-1. Click the **Roles** tab.
+1. Click the **[!UICONTROL Roles]** tab.
 
    ![](assets/global-form-validation-rules-3.png)
 
@@ -31,7 +31,7 @@ Before you can utilize this feature, you must enable its permssion per desired r
 
    ![](assets/global-form-validation-rules-5.png)
 
-1. Scroll down and select **Access Form Validation Rules** and click **Save**.
+1. Scroll down and select **[!UICONTROL Access Form Validation Rules]** and click **[!UICONTROL Save]**.
 
    ![](assets/global-form-validation-rules-6.png)
 
@@ -41,15 +41,15 @@ Before you can utilize this feature, you must enable its permssion per desired r
 >
 >These rules will apply to all forms in your Marketo Engage subscription(s).
 
-1. In Marketo, click **Admin**.
+1. In Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/global-form-validation-rules-7.png)
 
-1. Click **Global Form Validation Rule**.
+1. Click **[!UICONTROL Global Form Validation Rule]**.
 
    ![](assets/global-form-validation-rules-8.png)
 
-1. Click **New Form Validation Rule**.
+1. Click **[!UICONTROL New Form Validation Rule]**.
 
    ![](assets/global-form-validation-rules-9.png)
 
@@ -57,7 +57,7 @@ Before you can utilize this feature, you must enable its permssion per desired r
    >
    >The Form Validation Rule Actions drop-down allows you to delete or edit existing rules.
 
-1. Name your rule, give it an optional description, and enter the error message you want your form visitors to see. Enter the domain(s) you want blocked in the rules box, select **Activate Rule**, and click **Create**.
+1. Name your rule, give it an optional description, and enter the error message you want your form visitors to see. Enter the domain(s) you want blocked in the rules box, select **[!UICONTROL Activate Rule]**, and click **[!UICONTROL Create]**.
 
    ![](assets/global-form-validation-rules-10.png)
 
@@ -67,14 +67,14 @@ Before you can utilize this feature, you must enable its permssion per desired r
 
 ## How to Disable Access Per Form{#how-to-disable-access-per-form}
 
-Once enabled, rules apply to all forms. If you have a form with specific requirements, however, and you don't want anything rejected, you can disable Global Form Validation Rules in the form's settings.
+Once enabled, rules apply to all forms. If you have a form with specific requirements, however, and you don't want anything rejected, you can disable [!UICONTROL Global Form Validation Rules] in the form's settings.
 
-1. In your desired form, click **Form Settings**, then **Settings**.
+1. In your desired form, click **[!UICONTROL Form Settings]**, then **[!UICONTROL Settings]**.
 
    ![](assets/global-form-validation-rules-11.png)
 
-1. Click the Global Form Validation Rules drop-down and choose **Disabled**.
+1. Click the **[!UICONTROL Global Form Validation Rules]** drop-down and choose **[!UICONTROL Disabled]**.
 
    ![](assets/global-form-validation-rules-12.png)
 
-When you approve and post your form, it will ignore your Global Form Validation Rules.
+When you approve and post your form, it will ignore your [!UICONTROL Global Form Validation Rules].

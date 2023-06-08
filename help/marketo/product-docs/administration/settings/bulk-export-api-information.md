@@ -11,11 +11,11 @@ Learn how to check how much [Bulk Extract API](https://developers.marketo.com/re
 >
 >If you need additional capacity, please contact your Account Representative.
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/bulk-export-api-information-1.png)
 
-1. Click **Web Services**.
+1. Click **[!UICONTROL Web Services]**.
 
    ![](assets/bulk-export-api-information-2.png)
 

@@ -8,15 +8,15 @@ exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 
 If you find yourself looking for a specific set of fields in the person detail over and over again, consider creating a custom layout to make things easier.
 
-1. Go to the **Admin** area. 
+1. Go to the **[!UICONTROL Admin]** area. 
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
-1. Click **Field Management**.
+1. Click **[!UICONTROL Field Management]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. Click the **Custom Layout Designer** tab.
+1. Click the **[!UICONTROL Custom Layout Designer]** tab.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
@@ -32,7 +32,7 @@ If you find yourself looking for a specific set of fields in the person detail o
    >
    >You have two columns to work with.
 
-   If you decide you want to remove a field, right-click the field you want to remove and click **Delete**.
+   If you decide you want to remove a field, right-click the field you want to remove and click **[!UICONTROL Delete]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 

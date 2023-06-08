@@ -16,25 +16,25 @@ This article describes how an Admin would view and edit the default location set
 
 When an Admin changes the default location settings, newly created users inherit these settings. Users can always [change their language, locale, and time zone preferences](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) in their individual accounts.
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/set-default-location-settings-for-a-subscription-1.png)
 
-1. Click **Location**.
+1. Click **[!UICONTROL Location]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-2.png)
 
-1. Click **Edit**.
+1. Click **[!UICONTROL Edit]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-3.png)
 
    This subscription was created in English. Let's say you were in London and wanted to change the default locale and time zone. The locale determines the formatting for numbers, dates, and times.
 
-1. Select the **Locale** and change it to **English** (United Kingdom).
+1. Select the **[!UICONTROL Locale]** and change it to **[!UICONTROL English (United Kingdom)]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-4.png)
 
-1. Finally, choose the appropriate **Time Zone**.
+1. Finally, choose the appropriate **[!UICONTROL Time Zone]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-5.png)
 
@@ -46,11 +46,11 @@ When an Admin changes the default location settings, newly created users inherit
 
 If you are changing the default locale for your users, you may also want to change the currency format settings.
 
-1. Click **Edit** in Subscription Currency Settings.
+1. Click **[!UICONTROL Edit]** in [!UICONTROL Subscription Currency Settings].
 
    ![](assets/set-default-location-settings-for-a-subscription-6.png)
 
-1. Select the currency format of your choice and click **Save**.
+1. Select the currency format of your choice and click **[!UICONTROL Save]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-7.png)
 

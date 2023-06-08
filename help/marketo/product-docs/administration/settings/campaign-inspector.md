@@ -9,19 +9,19 @@ Use the Campaign Inspector to view/search all of your Smart Campaigns in one pla
 
 ## Enable Campaign Inspector {#enable-campaign-inspector}
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/campaign-inspector-1.png)
 
-1. Click **Treasure Chest**.
+1. Click **[!UICONTROL Treasure Chest]**.
 
    ![](assets/campaign-inspector-2.png)
 
-1. Click **Edit** next to Campaign Inspector.
+1. Click **[!UICONTROL Edit]** next to Campaign Inspector.
 
    ![](assets/campaign-inspector-3.png)
 
-1. Select the **Enabled** checkbox and click **Save**.
+1. Select the **[!UICONTROL Enabled]** checkbox and click **[!UICONTROL Save]**.
 
    ![](assets/campaign-inspector-4.png)
 
@@ -35,7 +35,7 @@ Once enabled, the Campaign Inspector tab can be found next to the Marketing Acti
 
    ![](assets/campaign-inspector-5.png)
 
-Click the **Active Campaigns** drop-down to filter by different types of campaigns.
+Click the **[!UICONTROL Active Campaigns]** drop-down to filter by different types of campaigns.
 
    ![](assets/campaign-inspector-6.png)
 

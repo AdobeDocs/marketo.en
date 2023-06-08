@@ -36,15 +36,15 @@ Let's get you set up!
 
 1. Find your Account String.
 
-1. Go to the **Admin** area. 
+1. Go to the **[!UICONTROL Admin]** area. 
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
-1. Click **Landing Pages**.
+1. Click **[!UICONTROL Landing Pages]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
-1. Under the **Landing Pages** tab, copy the Account String from the Settings section.
+1. Under the **[!UICONTROL Landing Pages]** tab, copy the Account String from the Settings section.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
@@ -58,19 +58,19 @@ Let's get you set up!
 
 1. Complete CNAME Setup.
 
-1. Once your IT has created the CNAME, go back to the **Admin** area.
+1. Once your IT has created the CNAME, go back to the **[!UICONTROL Admin]** area.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. Click **Landing Pages**.
+1. Click **[!UICONTROL Landing Pages]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. Under the **Settings** section, click **Edit**.
+1. Under the **[!UICONTROL Settings]** section, click **[!UICONTROL Edit]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Enter your CNAME in **Domain name for Landing Pages**, enter your **Fallback page**, enter your **Homepage**, and click **Save**.
+1. Enter your CNAME in **[!UICONTROL Domain name for Landing Pages]**, enter your **[!UICONTROL Fallback page]**, enter your **[!UICONTROL Homepage]**, and click **[!UICONTROL Save]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 
