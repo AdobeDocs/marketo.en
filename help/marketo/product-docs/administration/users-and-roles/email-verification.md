@@ -23,11 +23,11 @@ Users will receive the following email when email verification is activated for 
 
 >[!NOTE]
 >
->To resend a verification email to an unverified user, simply select their record and click the **Verify Email** button.
+>To resend a verification email to an unverified user, simply select their record and click the **[!UICONTROL Verify Email]** button.
 
 ## Changing an Email Address {#changing-an-email-address}
 
-When a user's email address is changed, it becomes unverified. An email will be sent to them allowing them to re-verify. Users can manually resend that email by clicking **Resend Verification**.
+When a user's email address is changed, it becomes unverified. An email will be sent to them allowing them to re-verify. Users can manually resend that email by clicking **[!UICONTROL Resend Verification]**.
 
    ![](assets/email-verification-2.png)
 
@@ -35,7 +35,7 @@ When a user's email address is changed, it becomes unverified. An email will be 
 
 ## Users and Roles {#users-and-roles}
 
-In **Admin** > **Users & Roles**, the Email Status column shows the verification status of every user.
+In **[!UICONTROL Admin]** > **[!UICONTROL Users & Roles]**, the Email Status column shows the verification status of every user.
 
    ![](assets/email-verification-4.png)
 

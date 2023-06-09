@@ -8,27 +8,27 @@ exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 
 ## Create Users {#create-users}
 
-1. Go to the **Admin** area. 
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/managing-marketo-users-1.png)
 
-1. Click **Users & Roles**.
+1. Click **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-marketo-users-2.png)
 
-1. Click **Invite New User**.
+1. Click **[!UICONTROL Invite New User]**.
 
    ![](assets/managing-marketo-users-3.png)
 
-1. Enter the **Email address**, **First Name**, and **Last Name**.
+1. Enter the **[!UICONTROL Email]**, **[!UICONTROL First Name]**, and **[!UICONTROL Last Name]**.
 
    ![](assets/managing-marketo-users-4.png)
 
-1. Optionally, enter a reason for the invitation and select an expiration date in the **Access Expires** field using the date picker.
+1. Optionally, enter a reason for the invitation and select an expiration date in the **[!UICONTROL Access Expires]** field using the date picker.
 
    ![](assets/managing-marketo-users-5.png)
 
-1. Click **Next**.
+1. Click **[!UICONTROL Next]**.
 
    ![](assets/managing-marketo-users-6.png)
 
@@ -40,11 +40,11 @@ exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
    >
    >When the expiration date arrives, the user receives an expiration notification and their account is locked.
 
-1. Select the **Role** of your choice and click **Next**.
+1. Select the **[!UICONTROL Role]** of your choice and click **[!UICONTROL Next]**.
 
    ![](assets/managing-marketo-users-7.png)
 
-1. Make edits to the invitation message if necessary. Click **Send**.
+1. Make edits to the invitation message if necessary. Click **Se[!UICONTROL ]nd**.
 
    ![](assets/managing-marketo-users-8.png)
 
@@ -62,37 +62,37 @@ The new user is now listed in the Users tab and will receive an email with instr
 
 ## Delete Users {#delete-users}
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/managing-marketo-users-10.png)
 
-1. Click **Users & Roles**.
+1. Click **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-marketo-users-11.png)
 
-1. Select the user you want to remove and click **Delete User**.
+1. Select the user you want to remove and click **[!UICONTROL Delete User]**.
 
    ![](assets/managing-marketo-users-12.png)
 
-1. Confirm by clicking **OK**.
+1. Confirm by clicking **[!UICONTROL OK]**.
 
    ![](assets/managing-marketo-users-13.png)
 
 ## Reset User Passwords {#reset-user-passwords}
 
-1. Go to the Admin area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/managing-marketo-users-14.png)
 
-1. Click **Users & Roles**.
+1. Click **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-marketo-users-15.png)
 
-1. Select a user and click **Reset Password**.
+1. Select a user and click **[!UICONTROL Reset Password]**.
 
    ![](assets/managing-marketo-users-16.png)
 
-1. Click **Close** to dismiss the prompt.
+1. Click **[!UICONTROL Close]** to dismiss the prompt.
 
    ![](assets/managing-marketo-users-17.png)
 
@@ -104,19 +104,19 @@ The user will receive an email with password reset instructions.
 
 ## Change Permissions and Edit User Information {#change-permissions-and-edit-user-information}
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/managing-marketo-users-18.png)
 
-1. Click **Users & Roles**.
+1. Click **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-marketo-users-19.png)
 
-1. Select a user and click **Edit User**.
+1. Select a user and click **[!UICONTROL Edit User]**.
 
    ![](assets/managing-marketo-users-20.png)
 
-1. You can edit user information and change the associated role. Click **Save**.
+1. You can edit user information and change the associated role. Click **[!UICONTROL Save]**.
 
    ![](assets/managing-marketo-users-21.png)
 

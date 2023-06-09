@@ -25,27 +25,27 @@ Here's how to create a new workspace.
 >
 >To learn more about Workspace best practices, please contact [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
-1. Go to the **Admin** area. 
+1. Go to the **[!UICONTROL Admin]** area. 
 
    ![](assets/create-a-new-workspace-1.png)
 
-1. Click **Workspaces & Partitions**.
+1. Click **[!UICONTROL Workspaces & Partitions]**.
 
    ![](assets/create-a-new-workspace-2.png)
 
-1. Click **New Workspace**.
+1. Click **[!UICONTROL New Workspace]**.
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. Enter a **Name**, and select the **Person Partition(s)** you want to use. Choose a **Primary Person Partition**. Make sure to [create person partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} if you haven't already.
+1. Enter a **[!UICONTROL Name]**, and select the **[!UICONTROL Person Partitions]** you want to use. Choose a **[!UICONTROL Primary Person Partition]**. Make sure to [create person partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} if you haven't already.
 
    ![](assets/create-a-new-workspace-4.png)
 
    >[!NOTE]
    >
-   >* The **All Person Partitions** checkbox means that this workspace can use all person partitions in the system.
+   >* The **[!UICONTROL All Person Partitions]** checkbox means that this workspace can use all person partitions in the system.
    >
-   >* The **primary person partition** acts as the default and is where all people will be assigned.
+   >* The **[!UICONTROL Primary Person Partition]** acts as the default and is where all people will be assigned.
 
    >[!IMPORTANT]
    >
@@ -59,7 +59,7 @@ Here's how to create a new workspace.
    >
    >Upon creation, Marketo will seed sample assets in the workspace. Language allows those seeded objects to be in a non-English language.
 
-1. Click **Create**.
+1. Click **[!UICONTROL Create]**.
 
    ![](assets/create-a-new-workspace-6.png)
 

@@ -24,37 +24,37 @@ exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 
 ## Create a Role {#create-a-role}
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/create-delete-edit-and-change-a-user-role-1.png)
 
-1. Click **Users & Roles**.
+1. Click **[!UICONTROL Users & Roles]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-2.png)
 
-1. Go to the **Roles tab** and click **New Role**.
+1. Go to the **[!UICONTROL Roles]** tab and click **[!UICONTROL New Role]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-3.png)
 
-1. Name your new role, check all the permissions you want to grant to users associated with the role, and click **Create**.
+1. Name your new role, check all the permissions you want to grant to users associated with the role, and click **[!UICONTROL Create]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-4.png)
 
 ## Delete a Role {#delete-a-role}
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/create-delete-edit-and-change-a-user-role-5.png)
 
-1. Click **Users & Roles**.
+1. Click **[!UICONTROL Users & Roles]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-6.png)
 
-1. Under the **Roles** tab, select a role and click **Delete Role**.
+1. Under the **[!UICONTROL Roles]** tab, select a role and click **[!UICONTROL Delete Role]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-7.png)
 
-1. Confirm the deletion by clicking **Delete**.
+1. Confirm the deletion by clicking **[!UICONTROL Delete]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-8.png)
 
@@ -68,23 +68,23 @@ exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 >
 >To edit your own user role, you'll have to log in as another user with Admin rights.
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/create-delete-edit-and-change-a-user-role-9.png)
 
-1. Click **Users & Roles**.
+1. Click **[!UICONTROL Users & Roles]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-10.png)
 
-1. Click the **Roles** tab.
+1. Click the **[!UICONTROL Roles]** tab.
 
    ![](assets/create-delete-edit-and-change-a-user-role-11.png)
 
-1. Select the role you want to edit and click **Edit Role**.
+1. Select the role you want to edit and click **[!UICONTROL Edit Role]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-12.png)
 
-1. Make all the changes you need and click **Save**.
+1. Make all the changes you need and click **[!UICONTROL Save]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-13.png)
 
@@ -98,19 +98,19 @@ exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 
 ## Change a User's Role {#change-a-users-role}
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/create-delete-edit-and-change-a-user-role-14.png)
 
-1. Click **Users & Roles**.
+1. Click **[!UICONTROL Users & Roles]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-15.png)
 
-1. Select the user you want to assign a different role to and click **Edit User.**
+1. Select the user you want to assign a different role to and click **[!UICONTROL Edit User]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-16.png)
 
-1. Uncheck the previous role, select the new one, then click **Save**.
+1. Uncheck the previous role, select the new one, then click **[!UICONTROL Save]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-17.png)
 
