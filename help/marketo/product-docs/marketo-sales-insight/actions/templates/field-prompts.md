@@ -18,6 +18,8 @@ To add a field prompt, type out the desired text. Preface it with an exclamation
 
 <p>Users will need to replace this text with their own personalization before the email can be sent.
 
+   ![](assets/field-prompts-1.png)
+
 >[!NOTE]
 >
 >When using prompts with Sales Campaigns, it's best to use them with manual email steps. These steps will assign a user a reminder task to send the email, giving them an opportunity to replace the prompts with custom text. Automatic email steps in Sales Campaigns will attempt to automatically send, without allowing the user to replace the prompts. Prompts that are not replaced will cause the emails to fail to send.

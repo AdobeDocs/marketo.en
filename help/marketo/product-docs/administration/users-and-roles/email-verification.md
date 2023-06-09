@@ -7,6 +7,10 @@ exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 
 Adobe Marketo Engage subscriptions require all non-API only users, including Marketo Engage Administrators, to verify their email address. Single Sign-on (SSO) users who are not assigned an Admin role, or who are assigned a role with the 'Bypass SSO' permission, will automatically have their email verified when their subscription is enabled with the Email Verification feature.
 
+## Why This Feature Was Introduced {#why-this-feature-was-introduced}
+
+Marketo Engage is continuing the rollout of Email Verification in preparation for migrating customers to the Adobe Business Platform, including user migration to Adobe IDs. This feature enhances the security of existing Marketo Engage user accounts. To ensure a Marketo Engage user is associated with the proper Adobe ID, existing Marketo Engage users must verify their email address. A Marketo Engage user must have a verified email address to be migrated to an Adobe ID. If a Marketo Engage user does not verify their email address, they cannot be migrated to an Adobe ID and will lose access to a Marketo subscription after the user migration for the subscription is complete.
+
 ## User Invite {#user-invite}
 
 When an Admin invites a user, that user is automatically verified once they click the invite link. SSO users, not assigned the Admin role, are automatically verified.
