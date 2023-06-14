@@ -31,13 +31,13 @@ Simply manually copy and paste them into the subject field of an email, taking c
 
 When adding dynamic fields to your email templates, you can add a default value that the dynamic field will resolve to if there's no other value available.  
 
-To do this, add "|" after the dynamic field label, then add "default:". Then, add the value you want the field to resolve to if no other value can be found.  
+To do this, add "|" after the dynamic field label, then add "default:" (both without quotes). Then, add the value you want the field to resolve to (wrapped in quotes) if no other value can be found.
 
 **Example:**
 
-`{{first name | default: loyal customer}}`
+`{{first name | default: "loyal customer"}}`
 
-`{{sfdc_contact_account_name | default: your company}}`
+`{{sfdc_contact_account_name | default: "your company"}}`
 
 ## Dynamic Fields Glossary {#dynamic-fields-glossary}
 
