@@ -183,4 +183,4 @@ You'll receive a confirmation message once the invites are sent.
 
 >[!NOTE]
 >
->Once this is done, you can either upgrade your existing MSI package or install a new one and move on to [configuring MSI Actions in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.
+>Once this is done, you can either upgrade your existing MSI package or install a new one and move on to [configuring MSI Actions in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.

@@ -1340,11 +1340,11 @@ feature-set: Marketo Engage
           + [Reply Logging](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
           + [Salesforce Diagnostics](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
           + [Salesforce Sync Settings](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
-        + Salesforce Configuration {#salesforce-configuration}
-          + [Logging Sales Activity Attributes to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/logging-sales-activity-attributes-to-salesforce.md)
-          + [Sales Insight Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
-          + [Uninstall Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-          + [Uninstall Salesforce Lightning Customization Package](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
+        + Salesforce Package Configuration {#salesforce-package-configuration}
+          + [Logging Sales Activity Attributes to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
+          + [Sales Insight Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
+          + [Uninstall Marketo Sales Connect from Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
+          + [Uninstall Marketo Sales Connect from Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
       + Email {#email}
         + Command Center {#command-center}
           + [Advanced Search Overview](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
