@@ -1345,6 +1345,7 @@ feature-set: Marketo Engage
           + [Sales Insight Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
           + [Uninstall Marketo Sales Connect from Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
           + [Uninstall Marketo Sales Connect from Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
+          + [Update Activity Type Field When Logging Activities to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
       + Email {#email}
         + Command Center {#command-center}
           + [Advanced Search Overview](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
