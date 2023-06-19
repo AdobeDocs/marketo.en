@@ -20,4 +20,4 @@ If you're not seeing email [activity attribute fields](/help/marketo/product-doc
 
 >[!NOTE]
 >
->Fields associated with the Lead, Contact, Account, and Opportunity objects will be installed with the Sales Insight Salesforce package. Fields associated with the [Task/Activity record type will need to be created](){target="_blank"} by a Salesforce Admin.
+>Fields associated with the Lead, Contact, Account, and Opportunity objects will be installed with the Sales Insight Salesforce package. Fields associated with the [Task/Activity record type will need to be created](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"} by a Salesforce Admin.
