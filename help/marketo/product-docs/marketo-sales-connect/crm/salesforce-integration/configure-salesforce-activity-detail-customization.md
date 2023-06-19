@@ -39,7 +39,7 @@ Activity Detail Customization allows Admins to configure the information that wi
 The feature can be used to unlock the following benefits:
 
 * By customizing what information is visible on the subject field, activity details are easily scannable for sales in Salesforce.
-* Admins can tag the subject field with a unique identifier such as “Mkto_sales” so activities from Sales Connect can be easily identified and differentiated from other email activities, call activities, and tasks.
+* Admins can tag the subject field with a unique identifier such as "Mkto_sales" so activities from Sales Connect can be easily identified and differentiated from other email activities, call activities, and tasks.
 * Reduce the need for custom activity fields. Salesforce enforces limits on the number of custom activity fields, which can restrict what data is available to be used in reports. By using activity dynamic fields to add key data to the subject line you can reduce the number of custom activity fields you need created in your Salesforce instance.  
 * The subject field of activities and tasks will follow a consistent pattern defined by the Sales Connect Admin.
 

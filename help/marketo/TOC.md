@@ -1339,7 +1339,7 @@ feature-set: Marketo Engage
           + [Disconnect Salesforce From Sales Insight Actions](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
           + [Reply Logging](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
           + [Salesforce Diagnostics](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
-          + [Salesforce Sync Settings](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+          + [Sync Sales Activities to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
         + Salesforce Package Configuration {#salesforce-package-configuration}
           + [Logging Sales Activity Attributes to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
           + [Sales Insight Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
@@ -1389,6 +1389,7 @@ feature-set: Marketo Engage
         + [What Are the Sales Insight Actions Terms of Service?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
         + [Why Aren't Any of My Contacts Getting Pushed to Sales Insight Actions?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
         + [Why Aren't My Dynamic Fields Filling Out?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
+        + [Why Aren't My Sales Activities and Activity Fields Syncing to Salesforce? ](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
         + [Why Can't I Delete a Contact?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
         + [Why Didn't All of My Contacts Get Pushed to Sales Insight Actions?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
         + [Why Is Tracking Activity Not Showing in Salesforce Activity?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)

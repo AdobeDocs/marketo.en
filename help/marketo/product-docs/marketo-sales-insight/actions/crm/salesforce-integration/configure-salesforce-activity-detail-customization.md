@@ -8,7 +8,7 @@ exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 >[!PREREQUISITES]
 >
 >* Salesforce and Sales Insight Actions [must be connected](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
->* Logging email activity via API [must be enabled](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+>* Logging email activity via API [must be enabled](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
 Activity Detail Customization allows Admins to configure the information that will log to the Salesforce Task - Subject Field, when a Sales Insight Actions activity/reminder task is synced to Salesforce.
 
@@ -138,5 +138,5 @@ When configuring your activity details, consider what data would be most relevan
 
 >[!MORELIKETHIS]
 >
->* [Sync Settings](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [Sync Sales Activities to Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 >* [Reminder Task Sync with Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)

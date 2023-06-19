@@ -1,9 +1,11 @@
 ---
-description: Salesforce Sync Settings - Marketo Docs - Product Documentation
-title: Salesforce Sync Settings
+description: Sync Sales Activities to Salesforce - Marketo Docs - Product Documentation
+title: Sync Sales Activities to Salesforce
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 ---
-# Salesforce Sync Settings {#salesforce-sync-settings}
+# Sync Sales Activities to Salesforce {#sync-sales-activities-to-salesforce}
+
+You can configure the Actions Salesforce Sync Settings to log email and call activities to Salesforce. This provides better visibility to teams working out of your CRM and allows managers to use these activities to build custom Salesforce reports to track your teams performance.
 
 ## Logging Email Activity to Salesforce via API {#logging-email-activity-to-salesforce-via-api}
 
@@ -15,27 +17,27 @@ This functionality requires you to be on the Enterprise/Unlimited edition of Sal
 
 1. In Sales Insight Actions, click the gear icon and select **Settings**.
 
-   ![](assets/salesforce-sync-settings-1.png)
+   ![](assets/sync-sales-activities-to-salesforce-1.png)
 
 1. Under Admin Settings (or "My Account" if you're not an Admin), click **Salesforce**.
 
-   ![](assets/salesforce-sync-settings-2.png)
+   ![](assets/sync-sales-activities-to-salesforce-2.png)
 
 1. Click the **Sync Settings** tab.
 
-   ![](assets/salesforce-sync-settings-3.png)
+   ![](assets/sync-sales-activities-to-salesforce-3.png)
 
 1. Click the arrow next to Log Email Activity to Salesforce.
 
-   ![](assets/salesforce-sync-settings-4.png)
+   ![](assets/sync-sales-activities-to-salesforce-4.png)
 
 1. Click the **Salesforce API** tab. In this card you can set up your preference for logging information to Salesforce. Click **Save** when done.
 
-   ![](assets/salesforce-sync-settings-5.png)
+   ![](assets/sync-sales-activities-to-salesforce-5.png)
 
 ## Logging Email Activity to Salesforce via Email to Salesforce (BCC) {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
 
-Once you activate “Email to Salesforce (BCC)”, you'll receive a BCC of your sales emails and your emails will be logged as activities on opportunities, leads and contacts.
+Once you activate "Email to Salesforce (BCC)", you'll receive a BCC of your sales emails and your emails will be logged as activities on opportunities, leads and contacts.
 
 >[!PREREQUISITES]
 >
@@ -45,19 +47,19 @@ Once you activate “Email to Salesforce (BCC)”, you'll receive a BCC of your 
 
 1. In Marketo Sales, click the gear icon and select **Settings**.
 
-   ![](assets/salesforce-sync-settings-6.png)
+   ![](assets/sync-sales-activities-to-salesforce-6.png)
 
 1. Under Admin Settings (or "My Account" if you're not an Admin), click **Salesforce**.
 
-   ![](assets/salesforce-sync-settings-7.png)
+   ![](assets/sync-sales-activities-to-salesforce-7.png)
 
 1. Click the **Sync Settings** tab.
 
-   ![](assets/salesforce-sync-settings-8.png)
+   ![](assets/sync-sales-activities-to-salesforce-8.png)
 
 1. Click the **Email to Salesforce (BCC)** tab and click **Activate**.
 
-   ![](assets/salesforce-sync-settings-9.png)
+   ![](assets/sync-sales-activities-to-salesforce-9.png)
 
 If for some reason your Email to Salesforce address does not pull in, follow these steps to activate the BCC feature in your Salesforce account:
 
@@ -89,38 +91,38 @@ If you don't see My Email to Salesforce under your Settings, your Admin may not 
 
 1. In Sales Insight Actions, click the gear icon and select **Settings**.
 
-   ![](assets/salesforce-sync-settings-10.png)
+   ![](assets/sync-sales-activities-to-salesforce-10.png)
 
 1. Under Admin Settings (or "My Account" if you're not an Admin), click **Salesforce**.
 
-   ![](assets/salesforce-sync-settings-11.png)
+   ![](assets/sync-sales-activities-to-salesforce-11.png)
 
 1. Click the **Sync Settings** tab.
 
-   ![](assets/salesforce-sync-settings-12.png)
+   ![](assets/sync-sales-activities-to-salesforce-12.png)
 
 1. Click the arrow next to Sync Marketo Sales Tasks/Reminders to Salesforce Tasks.
 
-   ![](assets/salesforce-sync-settings-13.png)
+   ![](assets/sync-sales-activities-to-salesforce-13.png)
 
 1. Choose the desired option ("Do not sync to Salesforce tasks" is selected by default).
 
-   ![](assets/salesforce-sync-settings-14.png)
+   ![](assets/sync-sales-activities-to-salesforce-14.png)
 
 ## Syncing Sales Insight Actions Tasks with Salesforce for the First Time {#syncing-sales-insight-ations-tasks-with-salesforce-for-the-first-time}
 
 When you first turn on the sync between Sales Insight Actions and Salesforce tasks, we import your Salesforce tasks. We will not push over any current tasks you have in Sales Insight Actions to Salesforce. To reduce clutter and duplicates, the only tasks that get synced from Sales Insight Actions into Salesforce are tasks created after you sync Sales Insight Actions with SFDC.
 
-Here’s what happens when you sync Sales Insight Actions and SFDC tasks:
+Here's what happens when you sync Sales Insight Actions and SFDC tasks:
 
-As soon as you click save on tasks syncing, they begin to sync over. This will take some time initially.
+* As soon as you click save on tasks syncing, they begin to sync over. This will take some time initially.
 
-Any reminders that have been updated or created in the last 24 hours will be pulled in from SFDC to Sales Insight Actions. The sync is based on due date and all of those tasks will get synced over on the back-end, but in Command Center, you will only see tasks due today and tomorrow.
+* Any reminders that have been updated or created in the last 24 hours will be pulled in from SFDC to Sales Insight Actions. The sync is based on due date and all of those tasks will get synced over on the back-end, but in Command Center, you will only see tasks due today and tomorrow.
 
-If sync has been turned on previously and you delete any tasks in SFDC, anything that’s been deleted in the last 15 days will be deleted from Command Center.
+* If sync has been turned on previously and you delete any tasks in SFDC, anything that's been deleted in the last 15 days will be deleted from Command Center.
 
-We’ll constantly sync tasks between Sales Insight Actions and SFDC as long as the sync is enabled.
+* We'll constantly sync tasks between Sales Insight Actions and SFDC as long as the sync is enabled.
 
-After the initial sync, any tasks you create, edit, complete, or delete in Sales Insight Actions will sync over to your tasks list in Salesforce. And anything created, edited, completed, or deleted in Salesforce will update your tasks list in Sales Insight Actions.
+* After the initial sync, any tasks you create, edit, complete, or delete in Sales Insight Actions will sync over to your tasks list in Salesforce. And anything created, edited, completed, or deleted in Salesforce will update your tasks list in Sales Insight Actions.
 
-To turn on this sync, just check the sync box in your Settings page in the web application.
+* To turn on this sync, just check the sync box in your Settings page in the web application.

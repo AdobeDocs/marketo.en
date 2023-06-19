@@ -106,12 +106,12 @@ Sales Insight Actions allows admins to configure what sales activities are logge
 
    ![](assets/actions-data-sync-faq-6.png)
 
-The diagram above shows what information is logged to Salesforce. Activities such as emails and calls are logged to Salesforce in a [one-way sync](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [Unsubscribes](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) and [Reminder Tasks](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) are kept up to date with a two-way sync. Each of these data syncs is configurable from Sales Insight Actions web app interface.
+The diagram above shows what information is logged to Salesforce. Activities such as emails and calls are logged to Salesforce in a [one-way sync](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md). [Unsubscribes](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) and [Reminder Tasks](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) are kept up to date with a two-way sync. Each of these data syncs is configurable from Sales Insight Actions web app interface.
 
 >[!MORELIKETHIS]
 >
 >* [Syncing Unsubscribes with Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
 >* [Marketo Unsubscribe Check](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
->* [Salesforce Sync Settings](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [Sync Sales Activities to Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 >* [Reminder Task Sync with Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [Initiate Data Sync](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
