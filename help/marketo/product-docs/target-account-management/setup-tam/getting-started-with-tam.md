@@ -27,6 +27,6 @@ Get Marketo TAM added to your instance? Great! Let's take a look at what you nee
 * [Discover Marketo Companies](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-marketo-companies) - View a list of companies from sources other than your CRM and filter using key attributes to create named accounts
 * [Create a named account manually](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md) - If you create a named account manually, your next step is to [fill it with people](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md) manually
 
-**Optional Step: [Create and set-up Account Lists](/help/marketo/product-docs/target-account-management/target/account-lists.md#create-a-new-account-list)** - Group accounts into lists allowing you to target named accounts by industry, location, or size of the company.
+**OPTIONAL STEP: [Create and set-up Account Lists](/help/marketo/product-docs/target-account-management/target/account-lists.md#create-a-new-account-list)** - Group accounts into lists allowing you to target named accounts by industry, location, or size of the company.
 
 After following the steps above, you are ready to start using TAM!

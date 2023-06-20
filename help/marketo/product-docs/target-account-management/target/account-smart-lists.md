@@ -58,7 +58,7 @@ Account Smart Lists work similarly to standard Smart Lists, with a notable excep
 
    ![](assets/account-smart-lists-9.png)
 
-**Optional Step**: Here's where containers come in. If you choose an additional Matched Person Filter, you can drop it below the first one, or _in_ it, creating a container. In this example we're creating a container by adding _Job Title is CFO_.
+**OPTIONAL STEP**: Here's where containers come in. If you choose an additional Matched Person Filter, you can drop it below the first one, or _in_ it, creating a container. In this example we're creating a container by adding _Job Title is CFO_.
 
    ![](assets/account-smart-lists-10.png)
 

@@ -1,8 +1,6 @@
 ---
 description: Add Action Buttons to Salesforce List View - Marketo Docs - Product Documentation
 title: Add Action Buttons to Salesforce List View
-hide: yes
-hidefromtoc: yes
 ---
 # Add Action Buttons to Salesforce List View {#add-action-buttons-to-salesforce-list-view}
 
@@ -43,6 +41,6 @@ Action Buttons to install include:
 
 >[!MORELIKETHIS]
 >
->* Using Bulk Email Send in Salesforce (needs to be created)
->* Using Bulk Add to Sales Campaign in Salesforce (needs be created)
+>* [Using Bulk Send Sales Email in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
+>* [Using Bulk Add to Sales Campaign in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
 >* [Install Marketo Sales Insight Package in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}

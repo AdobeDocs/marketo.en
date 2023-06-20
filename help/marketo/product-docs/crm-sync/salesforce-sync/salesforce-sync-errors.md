@@ -45,6 +45,6 @@ View a summary of the errors faced during the sync process. This includes errors
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**Optional Step**: To export sync errors, click **Export**. The data will be exported as a CSV.
+**OPTIONAL STEP**: To export sync errors, click **Export**. The data will be exported as a CSV.
 
    ![](assets/salesforce-sync-errors-5.png)

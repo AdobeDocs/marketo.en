@@ -1341,11 +1341,15 @@ feature-set: Marketo Engage
           + [Salesforce Diagnostics](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
           + [Sync Sales Activities to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
         + Salesforce Package Configuration {#salesforce-package-configuration}
-          + [Logging Sales Activity Attributes to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
           + [Sales Insight Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
+          + [Logging Sales Activity Attributes to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
           + [Uninstall Marketo Sales Connect from Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
           + [Uninstall Marketo Sales Connect from Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
+          + [Add Action Buttons to Salesforce List View](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
           + [Update Activity Type Field When Logging Activities to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
+        + Actions in Salesforce {#actions-in-salesforce}
+          + [Using Bulk Send Sales Email in Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
+          + [Using Bulk Add to Sales Campaign in Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
       + Email {#email}
         + Command Center {#command-center}
           + [Advanced Search Overview](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
