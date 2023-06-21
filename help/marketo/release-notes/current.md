@@ -3,9 +3,9 @@ description: Current Release Notes - Marketo Docs - Product Documentation
 title: Current Release Notes
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 ---
-# Release Notes: May 2023 {#release-notes-may-23}
+# Release Notes: July 2023 {#release-notes-july-23}
 
-Below you'll find all the features included in the May '23 release. Check your Adobe Marketo Engage edition for feature availability.
+Below you'll find all the features included in the July '23 release. Check your Adobe Marketo Engage edition for feature availability.
 
 >[!AVAILABILITY]
 >
@@ -13,13 +13,11 @@ Below you'll find all the features included in the May '23 release. Check your A
 
 ## Standard Release Cycle Features {#standard-release-cycle-features}
 
-The following features fall under the standard release cycle and will start to be released on **May 12, 2023**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check below each feature for its status.
-
-### Marketo Engage Modern UX {#modern-ux}
+The following features fall under the standard release cycle and will start to be released on **July 21, 2023**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check below each feature for its status.
 
 </br>
 
-* **Adobe Experience Cloud Interface**: Aligns Marketo Engage with Experience Cloud to create a consistent navigation experience across multiple Experience Cloud solutions in a single user session.  
+* **Engagement Canvas**: The Engagement Canvas is a visual tool that allows you to build and organize reusable campaigns. It's completely backwards compatible, so all existing campaigns can be viewed in this new structure with the click of a button. Canvases can be downloaded and shared. 
 
 <table> 
   <tr> 
@@ -27,22 +25,8 @@ The following features fall under the standard release cycle and will start to b
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud Interface Overview</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Marketo Engage Help Center**: The Help Center provides Marketo Engage users with a central location to find help resources from within the product. Additionally, the Help Center gives users the ability to activate in-product guides that explain how to leverage key features.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentation Updates</b></td>
-  </tr>
-  <tr> 
-   <td>Shipped</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/help-center.html">Help Center</a></td>
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
   </tr>
   </tbody>
 </table>
@@ -51,15 +35,11 @@ The following features fall under the standard release cycle and will start to b
 
 The following features follow an Agile format and are released on various dates before or after the standard release date. Please check below each feature for its status.
 
-### Cross-Channel Orchestration {#cross-channel-orchestration}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **Interactive Webinars (limited availability initially)**:
-
-Interactive Webinars augment the existing Events and Webinars experience by providing a native and seamless experience for marketers to create, manage, and deliver events within Marketo Engage. Customize webinars according to the type of event and even add presenters if desired. Obtain rich engagement insights through Adobe Connect features such as live polls, chat, Q&A sessions, web link clicks, document downloads, and more. Retrieve the webinar recording directly in Marketo Engage and evaluate its performance through rich dashboard metrics.
-
-Interactive Webinars will be rolled out gradually. To request earlier access, please fill out [this form](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+* **Chat Source for Dynamic Chat**: "Chat" is now offered as a source of new person records and activities. This source can be used to help users filter activities in Smart Lists/Campaigns. The source can also be blocked from updates on fields.
 
 <table> 
   <tr> 
@@ -67,12 +47,118 @@ Interactive Webinars will be rolled out gradually. To request earlier access, pl
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td>Rollout started</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Interactive Webinars Overview</a></td>
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Enhanced Dynamic Chat Activities**: Dynamic Chat activities, filters, and triggers have been enhanced with additional attributes and standardized naming conventions.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentation Updates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  </tbody>
+</table>
+
+### Marketo Sales Insight {#marketo-sales-insight}
+
+</br>
+
+* **Unsubscribe Append Settings**: You now have more control over your unsubscribe messages with new configuration options to Unsubscribe Appending. New capabilities give Admins control over when, where, and what unsubscribe messaging will appear in your sales emails.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentation Updates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dynamic Field Prompts**: You can now prompt your Sales Team to personalize specific parts of an email even further with new Field Prompts available to be added to email templates in Sales Insight Actions.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentation Updates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Default Dynamic Fields**: Default Dynamic Fields allow you to configure a fallback value that a Dynamic Field can resolve to if there's no value available to be populated. This helps ensure emails go out with all of the personalization filled in.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentation Updates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dynamic Chat Support for Sales Insight**: Updates have been made to support new Dynamic Chat attributes introduced in this release for all Dynamic Chat users.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentation Updates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dynamic Chat Support for Sales Insight Actions**: We now support Dynamic Chat activities in the Lead Feed as well as notifications when a Live Chat is routed to an agent.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentation Updates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dynamic Chat Trigger Tokens**: Introducing new Trigger Tokens for Dynamic Chat activities to be used in Interesting Moments.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentation Updates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
   </tr>
   </tbody>
 </table>
 
 ## Announcements {#announcements}
+ 
+There are two enhancements coming to Marketo Engage Real-Time Personalization. 
 
-* **_Product Release Webinar_**: [March and May 2023 Marketo Engage Release Webinar](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **Upgrade to Google Analytics 4**: Marketo previously supported Universal Analytics, which will stop recording data by July 1, 2023. RTP users will need to follow the migration process in their Google Analytics dashboard to complete support for the Google Analytics 4 integration in RTP. Going forward, users will have a unique alphanumeric tag (located within the `<head>` section of the html) in their landing pages that allows Marketo to send data to Google Analytics.
+
+* **Upgrade to jQuery 3.7**: To improve security and stability, Marketo is upgrading to jQuery 3.7.0. RTP users who aren't loading their own jQuery will not be negatively impacted, as Marketo is changing the default version loaded from rtp.js. However, if you're an RTP user with a version of jQuery older than 3.0.0, please contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} for assistance with implementing a custom version of rtp.js that will meet your needs.
