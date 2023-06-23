@@ -479,10 +479,10 @@ feature-set: Marketo Engage
       + [Understanding Folders](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
       + [Understanding Notifications](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
       + [Notification Types](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-    + Not Journeys {#not-journeys}
-      + [Name Overview](product-docs/core-marketo-concepts/not-journeys/name-overview.md)
-      + [Name Tab](product-docs/core-marketo-concepts/not-journeys/name-tab.md)
-      + [Settings Tab](product-docs/core-marketo-concepts/not-journeys/settings-tab.md)
+    + Engagement Canvas {#engagement-canvas}
+      + [Engagement Canvas Overview](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-overview.md)
+      + [Engagement Canvas Tab](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md)
+      + [Settings Tab](product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md)
     + Predictive Audiences {#predictive-audiences}
       + [Getting Started with Predictive Audiences](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
       + [Models and Insights](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
