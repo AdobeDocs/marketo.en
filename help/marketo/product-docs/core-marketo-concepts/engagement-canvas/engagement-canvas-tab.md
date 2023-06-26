@@ -1,111 +1,98 @@
 ---
-description: Name Tab - Marketo Docs - Product Documentation
-title: Name Tab
+description: Engagement Canvas Tab - Marketo Docs - Product Documentation
+title: Engagement Canvas Tab
 hide: yes
 hidefromtoc: yes
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
 ---
-# Name Tab {#name-tab}
+# Engagement Canvas Tab {#engagement-canvas-tab}
 
-Journeys is represented through a series of trigger, filter, and flow cards. Clicking on each of these cards will open corresponding slide out panel.
+Engagement Canvas is represented through a series of trigger, filter, and flow cards. Clicking on each card will reveal additional information.
 
-Trigger Overview: The card shows number of triggers in the specific campaign. Clicking on this card will also expand to show Trigger detail cards and simultaneously open slide out panel with the following information: 
+Trigger Overview: This card shows the number of triggers in your campaign. Clicking on it will reveal a card for each trigger, as well a slide-out panel with the following information:
 
-Campaign that the trigger belongs to 
-
-Edit Trigger button to access smart list tab 
-
-List of trigger names 
+* Campaign the trigger belongs to
+* List of trigger names
+* "Edit Trigger" button
 
 SCREENSHOT
 
-Trigger Detail: The card shows trigger name. Clicking on this card will open slide out panel with the following information: 
+Trigger Detail: This card shows trigger name. Clicking on it will reveal a slide-out panel with the following information: 
 
-Campaign that the trigger belongs to 
-
-Edit Trigger button to access smart list tab 
-
-List of constraints associated with the trigger 
+* Campaign the trigger belongs to
+* List of constraints associated with the trigger
+* "Edit Trigger" button
 
 SCREENSHOT
 
-Filters: Clicking on this card will open slide out panel with the following information: 
+Filter: Clicking on this card will reveal a slide-out panel with the following information:
 
-Campaign that the trigger belongs to 
-
-Edit Filter button to access smart list tab 
-
-Estimated number of people who qualify for the filter 
-
-List of filters and their respective constraints 
+* Campaign the trigger belongs to
+* Estimated number of people who qualify for the filter
+* List of filters and their respective constraints
+* "Edit Filter" button
 
 SCREENSHOT
 
-Flow steps: If a flow step does not include any choices, the card will show attributes associated to the flow step. Clicking on the card will open slide out panel with the following information: 
+Flow steps: If a flow step includes choices, this card will show name of the flow step. Clicking on it will reveal a slide-out panel with the following information:
 
-Campaign that the Flow step belongs to 
-
-Edit Flow button to access Flow tab 
-
-List of attributes associated to the flow step 
+* Campaign the Flow step belongs to 
+* List of choice conditions associated to the flow step
+* "Edit Flow" button
 
 SCREENSHOT
 
-Flow steps: If a flow step includes choices, the card will show name of the flow step. Clicking on the card will open slide out panel with the following information: 
+Flow steps: If a flow step does _not_ include any choices, this card will show attributes associated to the flow step. Clicking on it will reveal a slide-out panel with the following information:
 
-Campaign that the Flow step belongs to 
-
-Edit Flow button to access Flow tab 
-
-List of choice conditions associated to the flow step
+* Campaign the Flow step belongs to
+* List of attributes associated to the flow step
+* "Edit Flow" button
 
 SCREENSHOT
 
-Flow step for Execute and Request Campaigns:  
+## Flow Step for Execute and Request Campaigns {#flow-step-for-execute-and-request-campaigns}
 
-If Execute or Request Campaign flow step does not include any choices, the card will show name of the campaign. Clicking on the card will open slide out panel with the following information: 
+* If the Execute or Request Campaign flow step does not include any choices, the card will show the name of the campaign. Clicking on the card will reveal a slide-out panel with the following information:
 
-Campaign that the flow step belongs to 
+   * Campaign the flow step belongs to 
+   * "Edit Flow" button 
+   * List of attributes associated to the flow step 
+   * "View List" button, which opens a list of campaigns that use the specific Request/Execute Campaign
 
-Edit Flow button to access Flow tab 
-
-List of attributes associated to the flow step 
-
-View List button which open a list of campaigns that use the specific request or execute campaign  
-
-Note: You can edit the flow step from a primary campaign. To edit nested campaigns, you will have to navigate to the campaign via the hyperlink in the slide out panel.  
+>[!NOTE]
+>
+>You can edit the flow step(s) from a primary campaign. To edit nested campaigns, you'll have to navigate to the campaign via the link in the slide-out panel.  
 
 SCREENSHOT
 
 SCREENSHOT
 
-If Execute or Request Campaign flow step includes choices, the card will show name of the campaign. Clicking on the card will open slide out panel with the following information: 
+* If the Execute or Request Campaign flow step includes choices, the card will show the name of the campaign. Clicking on the card will reveal a slide-out panel with the following information: 
 
-Campaign that the flow step belongs to 
-
-Edit Flow button to access Flow tab 
-
-List of choice conditions associated to the flow step 
+   * Campaign the flow step belongs to
+   * List of choice conditions associated to the flow step
+   * "Edit Flow" button
 
 SCREENSHOT
 
 SCREENSHOT
 
-If a execute or request campaign includes choices, clicking on the flow card will expand to show all choices in individual cards.  
+* If an Execute or Request Campaign includes choices, clicking on the flow card will expand to show all choices in individual cards. Clicking on the choice card will expand the campaign associated to the specific choice and simultaneously open slide out panel with the following information: 
 
-Clicking on the choice card will expand the campaign associated to the specific choice and simultaneously open slide out panel with the following information: 
+!!!!!!!!!! GRAMMAR FIX SECOND SENTENCE
 
-Campaign that the choice belongs to 
-
-Edit choice button to access Flow tab 
-
-List of choice conditions associated to the flow step 
-
-View List button which open a list of campaigns that use the specific request or execute campaign  
+   * Campaign the choice belongs to
+   * "Edit Choice" button
+   * List of choice conditions associated to the flow step
+   * "View List" button, which opens a list of campaigns that use the specific Request/Execute Campaign
 
 SCREENSHOT
 
-Visualizing Nested Execute Campaign (new section) 
+!!!!!!!!!!!!!!! BELOW - add "a" before Nested?
+
+## Visualizing Nested Execute Campaign {#visualizing-nested-execute-campaign}
+
+STOPPED EDITING HERE
 
 Execute campaigns run in series with the parent campaign i.e leads that qualify for an executable campaign complete all flow steps from the campaign and return to the primary campaign to continue through flow steps of this campaign.  
 
@@ -113,13 +100,10 @@ Here's an example of a smart campaign "Campaign A" which includes a execute camp
 
 SCREENSHOT
 
-Clicking on the execute campaign flow card will expand to show details of "Campaign B" 
-
-Campaign B includes filter which branches out in not qualified and qualified audience.  
-
-Qualified audience goes through flow steps associated to "Campaign B" 
-
-All audience (qualified and not qualified) return to "Campaign A" and move to the next flow step 
+1. Clicking on the execute campaign flow card will expand to show details of "Campaign B".
+1. Campaign B includes filter which branches out in not qualified and qualified audience.  
+1. Qualified audience goes through flow steps associated to "Campaign B".
+1. All audience (qualified and not qualified) return to "Campaign A" and move to the next flow step.
 
 SCREENSHOT
 
@@ -127,7 +111,7 @@ You can click on Execute Campaign flow step in "Campaign B" which will expand to
 
 SCREENSHOT
 
-Visualizing Request Campaign (new section) 
+## Visualizing Request Campaign {#visualizing-request-campaign}
 
 Request campaigns run in parallel with the parent campaign i.e leads that qualify for a request campaign complete all flow steps from the campaign and exit the campaign. In parallel, the same set of leads will also go through flow steps from the primary campaign 
 
@@ -135,13 +119,10 @@ Here's an example of a smart campaign "Campaign A" which includes a request camp
 
 SCREENSHOT
 
-Clicking on the request campaign flow card will expand to show details of "Campaign B" 
-
-Campaign B includes filter which branches out in to qualified audience.  
-
-Qualified audience goes through flow steps associated to "Campaign B" 
-
-In parallel, all audience move to the next flow steps in "Campaign A" 
+1. Clicking on the request campaign flow card will expand to show details of "Campaign B" 
+1. Campaign B includes filter which branches out in to qualified audience.  
+1. Qualified audience goes through flow steps associated to "Campaign B" 
+1. In parallel, all audience move to the next flow steps in "Campaign A" 
 
 SCREENSHOT
 
@@ -153,7 +134,7 @@ Here's an example of request campaign with choices.
 
 SCREENSHOT
 
-Error handling: 
+## Error Handling {#error-handling}
 
 Errors in smart list and flow steps will be highlighted via error icon in the card. Additionally, corresponding error message will be reflected in the slide out panel.
 

@@ -7,13 +7,15 @@ exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
 ---
 # Settings Tab {#settings-tab}
 
-Settings tab is a one-stop shop that includes all your campaign settings. It includes same permission sets and access as the schedule tab. It will not disrupt any existing campaign settings. It includes 3 sections and corresponding modals to edit each section.
+The Settings tab is home to all your campaign settings, including the same permission sets and access as the Schedule tab. CHANGES IN THIS TAB??? It will not disrupt any existing campaign settings.
 
-Qualification Rules which determine how many times each person can run through the Smart Campaign flow 
+It includes the following three sections.
 
-Individual runs which can be used to schedule single runs either immediately or in the future 
+* **Qualification Rules**: Determines how many times each person can run through the Smart Campaign flow.
 
-Recurrence which is used to schedule daily, weekly or monthly recurrence
+* **Individual Runs**: Can be used to schedule single runs either immediately or in the future.
+
+* **Recurrence**: Used to schedule a daily, weekly, or monthly recurrence.
 
 SCREENSHOT
 
