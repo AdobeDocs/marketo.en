@@ -12,6 +12,10 @@ You can send and track emails with Marketo directly from Outlook.
 >
 >If you haven't yet, install the [Marketo email add-in for Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
+>[!NOTE]
+>
+>Sales Insight Actions capabilities, including Send Sales Email, Add to Sales Campaign, and Tasks, are not available in the Sales Insight email plugins for Gmail and Outlook. At this time, users only have the ability to send a trackable email with or without a Marketo email template from their email client when using the Sales Insight email plugins.
+
 1. Open Microsoft Outlook and create a new email.
 
    ![](assets/image2014-9-23-16-3a6-3a46.png)

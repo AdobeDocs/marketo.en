@@ -55,6 +55,10 @@ exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 
    ![](assets/msi-actions-admin-guide-1.png)
 
+   >[!NOTE]
+   >
+   >If you're not seeing a Client ID and Client Secret on the Integration Information card, activate your Actions instance by inviting the first user, and you'll see the Client ID and Client Secret appear.
+
 1. Click **Sales Insight**, then **Actions Config**. Select from a list of Marketo admins to invite and click **Send Invite**.
 
    ![](assets/msi-actions-admin-guide-2.png)

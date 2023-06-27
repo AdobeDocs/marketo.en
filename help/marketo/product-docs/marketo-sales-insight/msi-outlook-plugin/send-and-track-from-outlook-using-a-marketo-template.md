@@ -8,6 +8,10 @@ exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 
 If your marketing team has made templates available to you, here's how you can use them to save time when composing your emails.
 
+>[!NOTE]
+>
+>Sales Insight Actions capabilities, including Send Sales Email, Add to Sales Campaign, and Tasks, are not available in the Sales Insight email plugins for Gmail and Outlook. At this time, users only have the ability to send a trackable email with or without a Marketo email template from their email client when using the Sales Insight email plugins.
+
 1. Open Microsoft Outlook and click **Marketo Message**.
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
