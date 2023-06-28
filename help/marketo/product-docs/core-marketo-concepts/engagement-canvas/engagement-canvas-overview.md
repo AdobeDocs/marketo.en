@@ -25,7 +25,7 @@ Once in the Engagement Canvas, you'll see two tabs: [Engagement Canvas](/help/ma
 
 SCREENSHOT
 
-HEADER
+HEADER - CARD DESCRIPTIONS? - LOPA WILL CONFIRM
 
 **Triggers**: In campaigns that include triggers, the canvas will have a "Trigger Overview" card. Clicking on this will reveal a card for each trigger, as well a slide-out panel with additional information.
 
@@ -37,7 +37,7 @@ HEADER
 
 ## Nested Campaigns {#nested-campaigns}
 
-* If a campaign includes a Request or Execute Campaign flow step, clicking on the flow card will show details of the campaign being called as well as a slide-out panel with additional information. (The nested campaign will also include a close pill, clicking on this will collapse the cards associated to the nested campaign.) !!!!!!!!!!!!! - REWORD OR REMOVE
+* If a campaign includes a Request or Execute Campaign flow step, clicking on the flow card will show details of the campaign being called as well as a slide-out panel with additional information. (The nested campaign will also include a close pill, clicking on this will collapse the cards associated to the nested campaign.) !!!!!!!!!!!!! - REWORD OR REMOVE - LOPA WILL CONFIRM
 
 * If a campaign includes a Request or Execute Campaign flow step with choices, clicking on the flow card will show a choices card as well as a slide-out panel with more information about the choices. Clicking on each choice card will show details of the campaign being called as well as a slide-out panel with more information. 
 
@@ -49,7 +49,7 @@ SCREENSHOT
 
 The top nav includes the following features:
 
-!!!!! GRAMMAR CONFIRMATION AND IS SCREENSHOUT OUTDATED
+!!!!! SCREENSHOUT IS OUTDATED - GRAB NEW ONE
 
 * Campaign name and access to "Edit Campaign" modal, you can edit campaign name and description here.
 
@@ -68,6 +68,10 @@ The top nav includes the following features:
 >[!NOTE]
 >
 >Changes made in an open Smart List and Flow tab will be reflected in the Engagement Canvas tab upon refresh. It will not automatically update. Updates and edits that are auto-saved will be reflected.
+
+## FAQ {#faq}
+
+LOPA WILL PROVIDE
 
 >[!MORELIKETHIS]
 >

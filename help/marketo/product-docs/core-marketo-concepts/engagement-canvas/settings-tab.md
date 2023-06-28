@@ -7,7 +7,7 @@ exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
 ---
 # Settings Tab {#settings-tab}
 
-The Settings tab is home to all your campaign settings, including the same permission sets and access as the Schedule tab. CHANGES IN THIS TAB WILL NOT DISRUPT??? It will not disrupt any existing campaign settings.
+The Settings tab is home to all your campaign settings, including the same permission sets and access as the Schedule tab. VISITING THIS TAB WILL NOT DISRUPT??? CONSIDER DROPPING OR REWORDING - LOPA WILL CONFIRM - It will not disrupt any existing campaign settings.
 
 It includes the following three sections.
 
@@ -49,3 +49,9 @@ The Settings tab also includes a quick overview of your Smart List. It includes 
    * Estimated people who will be affected 
    * Estimated people who are blocked from emails 
    * Estimated people who are in a wait step
+
+Permission sets and Errors in Settings tab: 
+
+All existing permission sets will be applicable in the Settings tab. If the Edit button is grayed out it means you do not have permissions to perform edits and would need to reach out to your Marketo Admin.
+
+ADD DESCRIPTION ON CANCELLING SCHEDULED RUNS - CONFIRM WITH LOPA AFTER SHUTDOWN --> If a user does not have access to edit campaign settings, they will also not have access to cancel any scheduled runs.

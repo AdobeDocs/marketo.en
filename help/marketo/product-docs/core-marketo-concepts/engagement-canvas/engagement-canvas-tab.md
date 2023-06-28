@@ -77,9 +77,7 @@ SCREENSHOT
 
 SCREENSHOT
 
-* If an Execute or Request Campaign includes choices, clicking on the flow card will expand to show all choices in individual cards. Clicking on the choice card will expand the campaign associated to the specific choice and simultaneously open slide out panel with the following information: 
-
-!!!!!!!!!! GRAMMAR FIX SECOND SENTENCE
+* If an Execute or Request Campaign includes choices, clicking on the flow card will expand to show all choices in individual cards. Clicking on the choice card will expand the campaign associated to the specific choice as well as reveal a slide-out panel with the following information:
 
    * Campaign the choice belongs to
    * "Edit Choice" button
@@ -88,11 +86,9 @@ SCREENSHOT
 
 SCREENSHOT
 
-!!!!!!!!!!!!!!! BELOW - add "a" before Nested?
+## Visualizing a Nested Execute Campaign {#visualizing-a-nested-execute-campaign}
 
-## Visualizing Nested Execute Campaign {#visualizing-nested-execute-campaign}
-
-STOPPED EDITING HERE
+STOPPED EDITING HERE - PICK UP AFTER SHUTDOWN
 
 Execute campaigns run in series with the parent campaign i.e leads that qualify for an executable campaign complete all flow steps from the campaign and return to the primary campaign to continue through flow steps of this campaign.  
 
