@@ -22,3 +22,20 @@ Users can also customize the body of the invite that's sent to the visitor when 
 >[!TIP]
 >
 >Use the token icon (curly brackets) to personalize your meeting booking confirmation emails using person or company attributes.
+
+## Permissions {#permissions}
+
+Configuring with Outlook grants the following permissions to Dynamic Chat:
+
+* Full access to your calendars
+* Sign you in and read your profile
+* Maintain access to data you've given it access to
+* Read your mailbox settings
+
+Configuring with Google grants the following permissions to Dynamic Chat:
+
+* Create, change, or delete calendars
+* Update individual calendar events
+* Change your settings, including who can see your events
+* Change who the calendar is shared with
+* Access to your name, email address, language preference, and profile picture
