@@ -19,10 +19,6 @@ exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
 
-   >[!TIP]
-   >
-   >We recommend pinning the "All" category to give you quick access to searching your entire template library, since you may often need to search through all your Templates to find what you're looking for. When you have a pinned category selected and click the search icon, the search will default to the search within the pinned category selected.
-
 1. Select a category to search in (or select All to search across all categories).
 
    ![](assets/using-a-template-in-the-compose-window-4.png)
@@ -50,6 +46,10 @@ Favorite **up to five** specific template categories to gain quick access to you
 1. Click the **Pin a Category** drop-down and select your desired category.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
+
+   >[!TIP]
+   >
+   >We recommend pinning the "All" category to give you quick access to searching your entire template library, since you may often need to search through all your Templates to find what you're looking for. When you have a pinned category selected and click the search icon, the search will default to the search within the pinned category selected.
 
 1. Click **Save Changes** when done (optional: repeat Step 3 to add more).
 

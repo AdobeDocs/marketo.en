@@ -1,8 +1,6 @@
 ---
 description: Understanding the Team Tab - Marketo Docs - Product Documentation
 title: Understanding the Team Tab
-hide: yes
-hidefromtoc: yes
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 ---
 # Understanding the Team Tab {#understanding-the-team-tab}
