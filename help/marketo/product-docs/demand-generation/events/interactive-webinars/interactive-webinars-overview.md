@@ -41,6 +41,6 @@ Please contact the Adobe Account Team (your Account Manager) for assistance.
 
 Yes, you can control which Marketo users get permission to create and deliver Interactive Webinars. This can be accessed through the Interactive Webinars section in the Admin area of your Adobe Marketo Engage instance.
 
-**Do I need to associate the Adobe Connect webinar back to the Interactive Webinar Event Program like with Launchpoint Event Programs?**
+**Do I need to associate the webinar powered by Adobe Connect back to the Interactive Webinar Event Program like with Launchpoint Event Programs?**
 
 No, Interactive Webinar Event Programs make the association for you.

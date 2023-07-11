@@ -21,9 +21,9 @@ The Dashboard consists of four widgets.
 
 **Attendance**: Highlights the attendance duration of various members who have attended the webinar in comparison to the overall webinar duration in terms of percentage.
 
-**Poll Performance**: Displays various polls launched during the webinar in Adobe Connect and the distribution of the members who have attended and responded to the poll across each of the answers.
+**Poll Performance**: Displays various polls launched during the webinar powered by Adobe Connect and the distribution of the members who have attended and responded to the poll across each of the answers.
 
-**Click and File Download Activity**: Provides the download count of file and weblinks clicked during the Webinar in Adobe Connect by various members who have attended the webinar and taken that specific action.
+**Click and File Download Activity**: Provides the download count of file and weblinks clicked during the webinar powered by Adobe Connect by various members who have attended the webinar and taken that specific action.
 
 ## Triggers and Filters {#triggers-and-filters}
 
