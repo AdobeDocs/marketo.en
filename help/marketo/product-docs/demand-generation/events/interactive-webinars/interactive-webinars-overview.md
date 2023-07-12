@@ -17,25 +17,13 @@ After the webinar, access [event performance analytics](/help/marketo/product-do
 
 ## FAQ {#faq}
 
-**Do I need a separate Adobe Connect license to use Interactive Webinars?**
+**Do I need a separate subscription to use Interactive Webinars?**
 
 No. Only an active Marketo Engage subscription is required to use Interactive Webinars.
 
-**What are the different Interactive Webinar licenses?**
-
-Interactive webinars has three types of licenses.
-
-`1.` Shared Events License - This license is available in different participant capacities: 500, 1000, and 1500. It contains a limited number of webinars that can be utilized and 3GB of storage.
-
-`2.` Shared Rooms License - This license is available in different participant capacities: 200, 500, 1000, and 1500. It contains an unlimited number of webinars that can be utilized and unlimited storage.
-
-`3.` Additional Storage License - This license contains additional storage (100GB or 1TB) that can be used across multiple Shared Events Licenses where the storage limit has been exceeded.
-
-You can acquire any combination of these licenses.
-
 **I have exhausted my included number of Interactive Webinars. How do I get more sessions, or more capacity?**
 
-Please contact the Adobe Account Team (your Account Manager) for assistance.
+You would need to contact the Adobe Account Team (your Account Manager) for assistance.
 
 **As a Marketo Admin, can I control which of my Marketo users can create Interactive Webinars?**
 
