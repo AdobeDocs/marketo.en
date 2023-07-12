@@ -9,7 +9,7 @@ Adobe offers a robust demand marketing solution, starting with native audience s
 
 >[!NOTE]
 >
->The integrations, which include Audience Manager and Adobe Real-Time CDP Marketo Connecter, can require mapping of the IMS org in Marketo Engage. [Learn how to set up Adobe organization mapping](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}.
+>The integrations, which include Audience Manager and [!DNL Adobe Real-Time CDP Marketo Connecter], can require mapping of the IMS org in Marketo Engage. [Learn how to set up Adobe organization mapping](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}.
 
 ## Adobe Experience Cloud Integrations {#adobe-experience-cloud-integrations}
 

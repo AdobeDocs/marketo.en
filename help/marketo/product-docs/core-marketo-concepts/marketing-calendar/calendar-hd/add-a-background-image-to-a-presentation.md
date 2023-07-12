@@ -12,7 +12,7 @@ Customize a presentation by selecting a background image.
 >
 >[Create a Presentation](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
-1. Right-click a presentation and select **View Setup**.
+1. Right-click a presentation and select **[!UICONTROL View Setup]**.
 
    >[!NOTE]
    >
@@ -20,7 +20,7 @@ Customize a presentation by selecting a background image.
 
    ![](assets/image2015-3-24-14-3a36-3a52.png)
 
-1. Drag and drop **Background Image** from the right tree into the canvas.
+1. Drag and drop **[!UICONTROL Background Image]** from the right tree into the canvas.
 
    ![](assets/image2015-3-24-14-3a39-3a40.png)
 
@@ -32,7 +32,7 @@ Customize a presentation by selecting a background image.
 
    ![](assets/image2015-3-24-14-3a47-3a57.png)
 
-1. Click **Preview** to check it out.
+1. Click **[!UICONTROL Preview]** to check it out.
 
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 

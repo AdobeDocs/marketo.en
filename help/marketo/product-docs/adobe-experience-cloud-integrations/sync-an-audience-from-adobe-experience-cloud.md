@@ -15,27 +15,27 @@ exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 
 ## How to Sync an Audience {#how-to-sync-an-audience}
 
-1. In My Marketo, click the **Database** tile.
+1. In My Marketo, click the **[!UICONTROL Database]** tile.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-1.png)
 
-1. Click the **New** drop-down and select **Sync from Experience Cloud Audience**.
+1. Click the **[!UICONTROL New]** drop-down and select **[!UICONTROL Sync from Experience Cloud Audience]**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-2.png)
 
-1. Click the **Audience Library Folder** drop-down and select the desired origin folder.
+1. Click the **[!UICONTROL Audience Library Folder]** drop-down and select the desired origin folder.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-3.png)
 
-1. Select an **Audience Name**.
+1. Select an **[!UICONTROL Audience Name]**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. For the destination, you can select an existing list, or type the name of a new one. In this example we're creating a new one. Click **Sync** when done.
+1. For the destination, you can select an existing list, or type the name of a new one. In this example we're creating a new one. Click **[!UICONTROL Sync]** when done.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 
-1. Click **OK**.
+1. Click **[!UICONTROL OK]**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-6.png)
 

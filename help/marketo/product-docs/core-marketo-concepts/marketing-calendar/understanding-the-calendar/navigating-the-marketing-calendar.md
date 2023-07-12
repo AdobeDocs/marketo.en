@@ -10,7 +10,7 @@ Navigating around the Marketing Calendar is easy as one, two, three!
 
 >[!PREREQUISITES]
 >
->Make sure you have a [Marketing Calendar license](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - otherwise the Marketing Calendar tile won't show up in My Marketo.
+>Make sure you have a [Marketing Calendar license](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - otherwise the Marketing Calendar tile won't show up in My Marketo.
 
 1. Go to the **Marketing Calendar**.
 
@@ -22,7 +22,7 @@ Navigating around the Marketing Calendar is easy as one, two, three!
 
 ## Change Between Modes {#change-between-modes}
 
-1. Click the **3 weeks** or **Month** tabs to switch between modes.
+1. Click the **[!UICONTROL 3 weeks]** or **[!UICONTROL Month]** tabs to switch between modes.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -30,11 +30,11 @@ Navigating around the Marketing Calendar is easy as one, two, three!
 
 Agenda view displays all of your entries as a list.
 
-1. Click the **Filter drop-down**.
+1. Click the **[!UICONTROL Filter]** drop-down.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Select the **Agenda** view.
+1. Select the **[!UICONTROL Agenda]** view.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -60,4 +60,4 @@ Awesome! These are the basics. You can also customize your view using filters.
 
 >[!MORELIKETHIS]
 >
->[Filtering the Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
+>[Filtering the Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}

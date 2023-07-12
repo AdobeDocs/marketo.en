@@ -13,13 +13,11 @@ Marketo allows you to create entries directly in your Marketing Calendar by usin
 * Email Programs
 * Smart Campaigns
 
-Here's how.
-
-1. Go to the **Calendar**.
+1. Click the **[!UICONTROL Calendar]** tile.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. Select a previous entry and click **Show Program Focus**.
+1. Select a previous entry and click **[!UICONTROL Show Program Focus]**.
 
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
@@ -41,4 +39,4 @@ Here's how.
 
 >[!MORELIKETHIS]
 >
->[Edit Entries Directly In the Marketing Calendar](edit-entries-directly-in-the-marketing-calendar.md)
+>[Edit Entries Directly In the Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}
