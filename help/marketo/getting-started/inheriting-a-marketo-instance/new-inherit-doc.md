@@ -6,11 +6,11 @@ hidefromtoc: yes
 ---
 # Inherit Doc {#inherit-doc}
 
-Did you inherit an existing Marketo Engage instance from another Admin? If so, this guide is meant for you.
+Did you inherit an existing Marketo Engage instance from another Admin? If so, this article is for you.
 
 >[!TIP]
 >
->If you are a new(er) Marketo Engage user and are not familiar with many of the terms, please check out the [Marketo Glossary](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+>If you're a new(er) Marketo Engage user and are not familiar with many of the terms, please check out the [Marketo Glossary](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
 
 ## Users & Roles {#users-and-roles}
 

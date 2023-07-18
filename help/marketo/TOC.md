@@ -1338,6 +1338,7 @@ feature-set: Marketo Engage
           + [Disconnect Salesforce From Sales Insight Actions](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
           + [Reply Logging](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
           + [Salesforce Diagnostics](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
+          + [Set up a Sales Insight Actions Sandbox](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
           + [Sync Sales Activities to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
         + Salesforce Package Configuration {#salesforce-package-configuration}
           + [Sales Insight Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
