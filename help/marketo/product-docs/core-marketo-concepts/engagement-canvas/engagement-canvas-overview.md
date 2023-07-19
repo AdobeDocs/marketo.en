@@ -71,7 +71,35 @@ The top nav includes the following features:
 
 ## FAQ {#faq}
 
-LOPA WILL PROVIDE
+**Do I have to rebuild all my campaigns in Engagement Canvas?**
+
+No. Engagement Canvas has full backwards compatibility. With the click of a button, you'll be able to see each of your existing campaigns in the visual Engagement Canvas interface.
+
+**Does having Engagement Canvas in Marketo Engage mean I'll lose access to the folder structure and will have to re-learn how to build a Smart Campaign?**
+
+No. The great thing about Engagement Canvas is that it gives you the best of both worlds; it's complementary to the current way you build campaigns. You can choose if you want to use the existing UI or build/visualize in the new UI. All users will still get Marketo Engage's powerful feature set, now complemented by a visual creation tool.
+
+**Is Engagement Canvas a paid add-on?**
+
+No. All existing and new Marketo Engage users under all subscriptions will have access to this complimentary feature.
+
+**As a Marketo Engage admin, am I responsible for turning Engagement Canvas on/off?**
+
+No. Engagement Canvas will be available for all users in their instances. You will not be able to turn it on/off for certain users, workspaces, etc.
+
+**Is everything currently available in Smart Campaigns also available in Engagement Canvas?**
+
+Yes. Engagement Canvas has full feature parity with Smart Campaigns.
+
+**How is this different from other visual builders?**
+
+There are three key things that set Engagement Canvas apart: 
+
+* Flexibility: Easily manage and validate interconnected or deeply nested campaigns with visualization.
+
+* Functionality: All visuals are out of the box, making it easier to use; the nested structure allows you to dive in and get the whole picture.
+
+* Power: You retain all the existing sophistication of Marketo Engage, now in a visual format.
 
 >[!MORELIKETHIS]
 >

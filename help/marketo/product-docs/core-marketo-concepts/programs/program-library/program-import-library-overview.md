@@ -11,7 +11,7 @@ Intro text.
 
 --Marketo Engage Program Import Library info here--
 
-* [OP-Consent Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/consent-management-program-template.md){target="_blank"}
+* [OP-Content Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/content-management-program-template.md){target="_blank"}
 
 * OP-Deliverability Management
 
