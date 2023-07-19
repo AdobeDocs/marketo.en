@@ -37,7 +37,7 @@ HEADER - CARD DESCRIPTIONS? - LOPA WILL CONFIRM
 
 ## Nested Campaigns {#nested-campaigns}
 
-* If a campaign includes a Request or Execute Campaign flow step, clicking on the flow card will show details of the campaign being called as well as a slide-out panel with additional information. (The nested campaign will also include a close pill, clicking on this will collapse the cards associated to the nested campaign.) !!!!!!!!!!!!! - REWORD OR REMOVE - LOPA WILL CONFIRM
+* If a campaign includes a Request or Execute Campaign flow step, clicking on the flow card will show details of the campaign being called as well as a slide-out panel with additional information. (The nested campaign will also include a close pill, clicking on this will collapse the cards associated to the nested campaign.) !!!!!!!!!!!! - REWORD OR REMOVE - LOPA WILL CONFIRM
 
 * If a campaign includes a Request or Execute Campaign flow step with choices, clicking on the flow card will show a choices card as well as a slide-out panel with more information about the choices. Clicking on each choice card will show details of the campaign being called as well as a slide-out panel with more information. 
 
