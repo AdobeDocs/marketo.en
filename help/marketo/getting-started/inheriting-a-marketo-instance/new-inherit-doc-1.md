@@ -1,10 +1,10 @@
 ---
-description: Inherit Doc - Marketo Docs - Product Documentation
-title: Inherit Doc
+description: Inherit Doc 1 - Marketo Docs - Product Documentation
+title: Inherit Doc 1
 hide: yes
 hidefromtoc: yes
 ---
-# Inherit Doc {#inherit-doc}
+# Inherit Doc 1 {#inherit-doc-1}
 
 Did you inherit an existing Marketo Engage instance from another Admin? If so, this article is for you.
 
