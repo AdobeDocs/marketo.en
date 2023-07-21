@@ -3,7 +3,7 @@ unique-page-id: 8159325
 description: Template 3B - Marketo Docs - Product Documentation
 title: Template 3B
 exl-id: 28cd87fa-8ded-449a-8a5d-0e7c7241b49e
-feature: "Landing Pages, Guided Landing Page Templates"
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 3B {#template-3b}
 

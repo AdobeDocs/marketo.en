@@ -3,7 +3,7 @@ unique-page-id: 2360418
 description: People by Revenue Stage Report - Marketo Docs - Product Documentation
 title: People by Revenue Stage Report
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
-feature: "Reporting, Revenue Cycle Analytics"
+feature: Reporting, Revenue Cycle Analytics
 ---
 # People by Revenue Stage Report {#people-by-revenue-stage-report}
 

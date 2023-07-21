@@ -3,7 +3,7 @@ unique-page-id: 8783923
 description: Template 5D - Marketo Docs - Product Documentation
 title: Template 5D
 exl-id: 98e4d4ba-dad5-4285-994f-50c5d677b300
-feature: "Landing Pages, Guided Landing Page Templates"
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 5D {#template-5d}
 

@@ -3,7 +3,7 @@ unique-page-id: 9437783
 description: Template 13A - Marketo Docs - Product Documentation
 title: Template 13A
 exl-id: 4a6bc6ec-cb81-4b2f-8b0f-43f3f907142d
-feature: "Landing Pages, Guided Landing Page Templates"
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 13A {#template-13a}
 

@@ -3,7 +3,7 @@ unique-page-id: 7504749
 description: Exporting a Revenue Explorer Report - Marketo Docs - Product Documentation
 title: Exporting a Revenue Explorer Report
 exl-id: 61fd33f9-6cc8-4787-8357-68fc2fafc51a
-feature: "Reporting, Revenue Cycle Analytics"
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Exporting a Revenue Explorer Report {#exporting-a-revenue-explorer-report}
 

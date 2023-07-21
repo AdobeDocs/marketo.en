@@ -3,7 +3,7 @@ unique-page-id: 8783920
 description: Template 5C - Marketo Docs - Product Documentation
 title: Template 5C
 exl-id: b0e6d27e-676a-4162-a34f-65ace83f27c9
-feature: "Landing Pages, Guided Landing Page Templates"
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 5C {#template-5c}
 

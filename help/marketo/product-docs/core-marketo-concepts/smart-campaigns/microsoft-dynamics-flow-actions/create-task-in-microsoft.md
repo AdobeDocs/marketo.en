@@ -3,7 +3,7 @@ unique-page-id: 37356429
 description: Create Task in Microsoft - Marketo Docs - Product Documentation
 title: Create Task in Microsoft
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
-feature: "Smart Campaigns, Microsoft Dynamics"
+feature: Smart Campaigns, Microsoft Dynamics
 ---
 # Create Task in Microsoft {#create-task-in-microsoft}
 

@@ -3,7 +3,7 @@ unique-page-id: 8159309
 description: Template 3A - Marketo Docs - Product Documentation
 title: Template 3A
 exl-id: ec664f4b-b82d-408b-8657-d41056a9eb16
-feature: "Landing Pages, Guided Landing Page Templates"
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 3A {#template-3a}
 

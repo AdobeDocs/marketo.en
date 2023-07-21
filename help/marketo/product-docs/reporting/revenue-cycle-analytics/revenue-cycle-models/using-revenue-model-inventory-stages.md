@@ -3,7 +3,7 @@ unique-page-id: 4718666
 description: Using Revenue Model Inventory Stages - Marketo Docs - Product Documentation
 title: Using Revenue Model Inventory Stages
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
-feature: "Reporting, Revenue Cycle Analytics"
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Using Revenue Model Inventory Stages {#using-revenue-model-inventory-stages}
 

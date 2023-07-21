@@ -3,7 +3,7 @@ unique-page-id: 2951884
 description: Understanding Opportunity Analysis in Revenue Explorer - Marketo Docs - Product Documentation
 title: Understanding Opportunity Analysis in Revenue Explorer
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
-feature: "Reporting, Revenue Cycle Analytics"
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Understanding Opportunity Analysis in Revenue Explorer {#understanding-opportunity-analysis-in-revenue-explorer}
 

@@ -3,7 +3,7 @@ unique-page-id: 2953136
 description: Understanding Attribution - Marketo Docs - Product Documentation
 title: Understanding Attribution
 exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
-feature: "Reporting, Revenue Cycle Analytics"
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Understanding Attribution {#understanding-attribution}
 

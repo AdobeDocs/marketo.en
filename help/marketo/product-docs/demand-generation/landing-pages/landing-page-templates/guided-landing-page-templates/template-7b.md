@@ -3,7 +3,7 @@ unique-page-id: 8783944
 description: Template 7B - Marketo Docs - Product Documentation
 title: Template 7B
 exl-id: 80df3bd3-878a-4de1-a804-98ec062c533c
-feature: "Landing Pages, Guided Landing Page Templates"
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 7B {#template-7b}
 

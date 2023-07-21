@@ -3,7 +3,7 @@ unique-page-id: 7516061
 description: Template 1F - Marketo Docs - Product Documentation
 title: Template 1F
 exl-id: eaad3b04-abf7-469a-aedf-e2c4fee1419f
-feature: "Landing Pages, Guided Landing Page Templates"
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 1F {#template-1f}
 

@@ -3,7 +3,7 @@ unique-page-id: 2359483
 description: Understanding Email Testing Options - Marketo Docs - Product Documentation
 title: Understanding Email Testing Options
 exl-id: 8e5b0298-4a4b-4c3a-bee1-712e77abadee
-feature: "Email Programs, A/B Testing"
+feature: Email Programs, A/B Testing
 ---
 # Understanding Email Testing Options {#understanding-email-testing-options}
 

@@ -3,7 +3,7 @@ unique-page-id: 15695874
 description: "Connect [!DNL BrightTALK] to Marketo - Marketo Docs - Product Documentation"
 title: "Connect [!DNL BrightTALK] to Marketo"
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
-feature: "Administration, Integrations"
+feature: Administration, Integrations
 ---
 # Connect [!DNL BrightTALK] to Marketo {#connect-brighttalk-to-marketo}
 

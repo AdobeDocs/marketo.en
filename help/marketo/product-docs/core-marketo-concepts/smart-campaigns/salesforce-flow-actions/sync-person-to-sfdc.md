@@ -3,7 +3,7 @@ unique-page-id: 1147027
 description: Sync Person to SFDC - Marketo Docs - Product Documentation
 title: Sync Person to SFDC
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
-feature: "Smart Campaigns, Salesforce Integration"
+feature: Smart Campaigns, Salesforce Integration
 ---
 # Sync Person to SFDC {#sync-person-to-sfdc}
 

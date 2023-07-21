@@ -3,7 +3,7 @@ unique-page-id: 9437834
 description: Template 16A - Marketo Docs - Product Documentation
 title: Template 16A
 exl-id: c55e4f9c-7aca-4cb6-b79a-5b25fd70ac3e
-feature: "Landing Pages, Guided Landing Page Templates"
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 16A {#template-16a}
 

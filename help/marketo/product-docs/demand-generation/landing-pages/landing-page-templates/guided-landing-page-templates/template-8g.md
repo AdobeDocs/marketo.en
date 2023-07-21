@@ -3,7 +3,7 @@ unique-page-id: 8783978
 description: Template 8G - Marketo Docs - Product Documentation
 title: Template 8G
 exl-id: d34d7d73-ccca-4083-a9da-f8b5630ed581
-feature: "Landing Pages, Guided Landing Page Templates"
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 8G {#template-8g}
 

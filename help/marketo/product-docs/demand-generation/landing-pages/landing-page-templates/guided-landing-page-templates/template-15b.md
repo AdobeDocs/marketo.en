@@ -3,7 +3,7 @@ unique-page-id: 9437819
 description: Template 15B - Marketo Docs - Product Documentation
 title: Template 15B
 exl-id: ad55baf3-9670-42c2-8590-af0d4cf934a6
-feature: "Landing Pages, Guided Landing Page Templates"
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 15B {#template-15b}
 

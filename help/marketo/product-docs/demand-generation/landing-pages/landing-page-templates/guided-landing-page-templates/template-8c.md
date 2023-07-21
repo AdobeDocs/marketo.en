@@ -3,7 +3,7 @@ unique-page-id: 8783966
 description: Template 8C - Marketo Docs - Product Documentation
 title: Template 8C
 exl-id: 45f0defc-6554-459c-a862-731d18f9ed6b
-feature: "Landing Pages, Guided Landing Page Templates"
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 8C {#template-8c}
 

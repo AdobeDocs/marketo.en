@@ -3,7 +3,7 @@ unique-page-id: 14745982
 description: "Add [!DNL Workplace By Facebook] as a [!DNL LaunchPoint Service] - Marketo Docs - Product Documentation"
 title: "Add [!DNL Workplace By Facebook] as a [!DNL LaunchPoint] Service"
 exl-id: afcc1eca-8927-4a25-af9b-c18cef24b0ae
-feature: "Administration, Integrations"
+feature: Administration, Integrations
 ---
 # Add [!DNL Workplace By Facebook] as a [!DNL LaunchPoint] Service {#add-workplace-by-facebook-as-a-launchpoint-service}
 

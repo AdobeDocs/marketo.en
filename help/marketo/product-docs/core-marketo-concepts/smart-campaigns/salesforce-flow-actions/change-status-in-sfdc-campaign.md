@@ -3,7 +3,7 @@ unique-page-id: 1147029
 description: Change Status in SFDC Campaign - Marketo Docs - Product Documentation
 title: Change Status in SFDC Campaign
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
-feature: "Smart Campaigns, Salesforce Integration"
+feature: Smart Campaigns, Salesforce Integration
 ---
 # Change Status in SFDC Campaign {#change-status-in-sfdc-campaign}
 

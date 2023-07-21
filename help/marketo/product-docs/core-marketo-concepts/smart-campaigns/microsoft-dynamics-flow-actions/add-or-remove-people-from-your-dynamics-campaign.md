@@ -2,7 +2,7 @@
 description: Add or Remove People from your Dynamics Campaign - Marketo Docs - Product Documentation
 title: Add or Remove People from your Dynamics Campaign
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
-feature: "Smart Campaigns, Microsoft Dynamics"
+feature: Smart Campaigns, Microsoft Dynamics
 ---
 # Add or Remove People from your Dynamics Campaign {#add-or-remove-people-from-your-dynamics-campaign}
 

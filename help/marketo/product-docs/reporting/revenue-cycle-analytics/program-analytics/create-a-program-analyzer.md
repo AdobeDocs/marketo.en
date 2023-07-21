@@ -3,7 +3,7 @@ unique-page-id: 2360399
 description: Create a Program Analyzer - Marketo Docs - Product Documentation
 title: Create a Program Analyzer
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
-feature: "Reporting, Revenue Cycle Analytics"
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Create a Program Analyzer {#create-a-program-analyzer}
 

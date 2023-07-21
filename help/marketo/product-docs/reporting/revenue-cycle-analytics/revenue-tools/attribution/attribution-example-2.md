@@ -3,7 +3,7 @@ unique-page-id: 7514146
 description: Attribution Example 2 - Marketo Docs - Product Documentation
 title: Attribution Example 2
 exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
-feature: "Reporting, Revenue Cycle Analytics"
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Attribution Example 2 {#attribution-example}
 

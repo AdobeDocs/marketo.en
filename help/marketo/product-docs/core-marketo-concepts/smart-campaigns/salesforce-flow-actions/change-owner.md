@@ -3,7 +3,7 @@ unique-page-id: 1147021
 description: Change Owner - Marketo Docs - Product Documentation
 title: Change Owner
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
-feature: "Smart Campaigns, Salesforce Integration"
+feature: Smart Campaigns, Salesforce Integration
 ---
 # Change Owner {#change-owner}
 

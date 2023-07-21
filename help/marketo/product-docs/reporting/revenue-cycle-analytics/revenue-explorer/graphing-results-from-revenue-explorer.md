@@ -3,7 +3,7 @@ unique-page-id: 10095084
 description: Graphing Results From Revenue Explorer - Marketo Docs - Product Documentation
 title: Graphing Results From Revenue Explorer
 exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
-feature: "Reporting, Revenue Cycle Analytics"
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Graphing Results From Revenue Explorer {#graphing-results-from-revenue-explorer}
 

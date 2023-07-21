@@ -3,7 +3,7 @@ unique-page-id: 9437792
 description: Template 13C - Marketo Docs - Product Documentation
 title: Template 13C
 exl-id: 05624f86-03ab-45ab-8daa-61cf4f2b44ba
-feature: "Landing Pages, Guided Landing Page Templates"
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 13C {#template-13c}
 
