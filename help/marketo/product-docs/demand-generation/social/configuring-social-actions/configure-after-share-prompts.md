@@ -3,6 +3,7 @@ unique-page-id: 2359813
 description: Configure After-Share Prompts - Marketo Docs - Product Documentation
 title: Configure After-Share Prompts
 exl-id: bfa6063b-24f3-4abf-b149-989780dfc448
+feature: Social
 ---
 # Configure After-Share Prompts {#configure-after-share-prompts}
 

@@ -3,6 +3,7 @@ unique-page-id: 10099389
 description: Marketo Plugin Releases for Microsoft Dynamics - Marketo Docs - Product Documentation
 title: Marketo Plugin Releases for Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
+feature: Microsoft Dynamics
 ---
 # Marketo Plugin Releases for Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
 

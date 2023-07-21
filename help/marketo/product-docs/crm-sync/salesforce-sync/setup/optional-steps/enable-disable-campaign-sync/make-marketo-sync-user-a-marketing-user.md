@@ -3,6 +3,7 @@ unique-page-id: 8782944
 description: Make Marketo Sync User a Marketing User - Marketo Docs - Product Documentation
 title: Make Marketo Sync User a Marketing User
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
+feature: Salesforce Integration
 ---
 # Make Marketo Sync User a Marketing User {#make-marketo-sync-user-a-marketing-user}
 

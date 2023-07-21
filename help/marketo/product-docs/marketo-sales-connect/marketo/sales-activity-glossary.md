@@ -2,6 +2,7 @@
 description: Sales Activity Glossary - Marketo Docs - Product Documentation
 title: Sales Activity Glossary
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
+feature: Marketo Sales Connect
 ---
 # Sales Activity Glossary {#sales-activity-glossary}
 

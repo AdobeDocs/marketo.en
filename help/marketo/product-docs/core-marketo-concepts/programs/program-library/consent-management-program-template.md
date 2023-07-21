@@ -4,6 +4,7 @@ title: Consent Management Program Template
 hide: yes
 hidefromtoc: yes
 exl-id: 97b45f07-2512-46f3-b1c5-59ecc8ca8f04
+feature: Programs
 ---
 # Consent Management Program Template {#consent-management-program-template}
 

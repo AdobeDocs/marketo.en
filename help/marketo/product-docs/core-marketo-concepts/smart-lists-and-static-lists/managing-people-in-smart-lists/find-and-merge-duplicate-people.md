@@ -3,6 +3,7 @@ unique-page-id: 557339
 description: Find and Merge Duplicate People - Marketo Docs - Product Documentation
 title: Find and Merge Duplicate People
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
+feature: Smart Lists
 ---
 # Find and Merge Duplicate People {#find-and-merge-duplicate-people}
 

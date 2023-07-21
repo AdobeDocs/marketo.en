@@ -3,6 +3,7 @@ unique-page-id: 14352407
 description: Delivery Channel Overview - Marketo Docs - Product Documentation
 title: Delivery Channel Overview
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
+feature: Marketo Sales Connect
 ---
 # Delivery Channel Overview {#delivery-channel-overview}
 

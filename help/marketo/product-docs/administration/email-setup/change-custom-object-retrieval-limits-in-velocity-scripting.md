@@ -2,6 +2,7 @@
 description: "Change Custom Object Retrieval Limits in [!DNL Velocity Scripting] - Marketo Docs - Product Documentation"
 title: "Change Custom Object Retrieval Limits in [!DNL Velocity Scripting]"
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
+feature: Email Setup
 ---
 # Change Custom Object Retrieval Limits in [!DNL Velocity Scripting] {#change-custom-object-retrieval-limits-in-velocity-scripting}
 

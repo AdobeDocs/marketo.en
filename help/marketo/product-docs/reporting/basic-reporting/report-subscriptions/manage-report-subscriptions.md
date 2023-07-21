@@ -3,6 +3,7 @@ unique-page-id: 2359991
 description: Manage Report Subscriptions - Marketo Docs - Product Documentation
 title: Manage Report Subscriptions
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
+feature: Reporting
 ---
 # Manage Report Subscriptions {#manage-report-subscriptions}
 

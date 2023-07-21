@@ -3,6 +3,7 @@ unique-page-id: 18317369
 description: View Template List as Another User - Marketo Docs - Product Documentation
 title: View Template List as Another User
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
+feature: Marketo Sales Connect
 ---
 # View Template List as Another User {#view-template-list-as-another-user}
 

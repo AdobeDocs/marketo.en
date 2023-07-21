@@ -3,6 +3,7 @@ unique-page-id: 2360251
 description: Edit the Unsubscribe Message - Marketo Docs - Product Documentation
 title: Edit the Unsubscribe Message
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
+feature: Email Setup
 ---
 # Edit the Unsubscribe Message {#edit-the-unsubscribe-message}
 

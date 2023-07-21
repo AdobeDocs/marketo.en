@@ -3,6 +3,7 @@ unique-page-id: 1147100
 description: Navigating the Program Schedule View - Marketo Docs - Product Documentation
 title: Navigating the Program Schedule View
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
+feature: Programs
 ---
 # Navigating the Program Schedule View {#navigating-the-program-schedule-view}
 

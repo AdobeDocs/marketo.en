@@ -3,6 +3,7 @@ unique-page-id: 14745825
 description: Sales Connect and GDPR Compliance - Marketo Docs - Product Documentation
 title: Sales Connect and GDPR Compliance
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
+feature: Marketo Sales Connect
 ---
 # Sales Connect and GDPR Compliance {#sales-connect-and-gdpr-compliance}
 

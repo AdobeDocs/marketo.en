@@ -3,6 +3,7 @@ unique-page-id: 2360018
 description: Add Opportunity Columns to a Lead Report - Marketo Docs - Product Documentation
 title: Add Opportunity Columns to a Lead Report
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
+feature: Reporting
 ---
 # Add Opportunity Columns to a Lead Report {#add-opportunity-columns-to-a-lead-report}
 

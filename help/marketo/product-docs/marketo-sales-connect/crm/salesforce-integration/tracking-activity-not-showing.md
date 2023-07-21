@@ -3,6 +3,7 @@ unique-page-id: 14352478
 description: Tracking Activity Not Showing - Marketo Docs - Product Documentation
 title: Tracking Activity Not Showing
 exl-id: 8f3f6506-9367-4f08-84ef-636adf06e00d
+feature: Marketo Sales Connect
 ---
 # Tracking Activity Not Showing {#tracking-activity-not-showing}
 

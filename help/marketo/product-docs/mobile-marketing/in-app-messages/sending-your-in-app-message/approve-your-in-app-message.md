@@ -3,6 +3,7 @@ unique-page-id: 10617440
 description: Approve Your In-App Message - Marketo Docs - Product Documentation
 title: Approve Your In-App Message
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
+feature: Mobile Marketing
 ---
 # Approve Your In-App Message {#approve-your-in-app-message}
 

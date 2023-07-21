@@ -3,6 +3,7 @@ unique-page-id: 14352437
 description: Share Call Recordings with Your Team - Marketo Docs - Product Documentation
 title: Share Call Recordings with Your Team
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
+feature: Marketo Sales Connect
 ---
 # Share Call Recordings with Your Team {#share-call-recordings-with-your-team}
 

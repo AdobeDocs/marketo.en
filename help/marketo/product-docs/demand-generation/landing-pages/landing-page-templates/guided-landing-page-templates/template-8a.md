@@ -3,6 +3,7 @@ unique-page-id: 8783960
 description: Template 8A - Marketo Docs - Product Documentation
 title: Template 8A
 exl-id: d73f9f29-7309-4525-a5fe-171ba67151ac
+feature: "Landing Pages, Guided Landing Page Templates"
 ---
 # Template 8A {#template-8a}
 

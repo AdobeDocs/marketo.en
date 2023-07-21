@@ -3,6 +3,7 @@ unique-page-id: 3571844
 description: Microsoft Dynamics Sync -Opportunity Sync - Marketo Docs - Product Documentation
 title: Microsoft Dynamics Sync -Opportunity Sync
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
+feature: Microsoft Dynamics
 ---
 # Microsoft Dynamics Sync: Opportunity Sync {#microsoft-dynamics-sync-opportunity-sync}
 

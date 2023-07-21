@@ -3,6 +3,7 @@ unique-page-id: 2360362
 description: Step 1 of 3 -Add Marketo Fields to Salesforce (Enterprise/Unlimited) - Marketo Docs - Product Documentation
 title: Step 1 of 3 -Add Marketo Fields to Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
+feature: Salesforce Integration
 ---
 # Step 1 of 3: Add Marketo Fields to Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 

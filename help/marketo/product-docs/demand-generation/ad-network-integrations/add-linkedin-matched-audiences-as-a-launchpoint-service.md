@@ -3,6 +3,7 @@ unique-page-id: 7504163
 description: Add LinkedIn Matched Audiences as a LaunchPoint Service - Marketo Docs - Product Documentation
 title: Add LinkedIn Matched Audiences as a LaunchPoint Service
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
+feature: Integrations
 ---
 # Add LinkedIn Matched Audiences as a LaunchPoint Service {#add-linkedin-matched-audiences-as-a-launchpoint-service}
 

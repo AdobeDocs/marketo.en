@@ -3,6 +3,7 @@ unique-page-id: 2360496
 description: Add Multiple Values to a Smart List Filter - Marketo Docs - Product Documentation
 title: Add Multiple Values to a Smart List Filter
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
+feature: Smart Lists
 ---
 # Add Multiple Values to a Smart List Filter {#add-multiple-values-to-a-smart-list-filter}
 

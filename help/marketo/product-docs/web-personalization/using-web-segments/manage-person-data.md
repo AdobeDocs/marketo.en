@@ -3,6 +3,7 @@ unique-page-id: 7504051
 description: Manage Person Data - Marketo Docs - Product Documentation
 title: Manage Person Data
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
+feature: Web Personalization
 ---
 # Manage Person Data {#manage-person-data}
 

@@ -2,6 +2,7 @@
 description: Understanding the Veeva CRM Sync - Marketo Docs - Product Documentation
 title: Understanding the Veeva CRM Sync
 exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
+feature: Veeva CRM
 ---
 # Understanding the Veeva CRM Sync {#understanding-the-veeva-crm-sync}
 

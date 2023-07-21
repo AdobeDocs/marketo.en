@@ -3,6 +3,7 @@ unique-page-id: 4720433
 description: Configure Protocols for Marketo - Marketo Docs - Product Documentation
 title: Configure Protocols for Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
+feature: Getting Started
 ---
 # Configure Protocols for Marketo {#configure-protocols-for-marketo}
 

@@ -3,6 +3,7 @@ unique-page-id: 2359562
 description: Champion/Challenger -Define Champion Criteria - Marketo Docs - Product Documentation
 title: Champion/Challenger -Define Champion Criteria
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
+feature: Email Editor
 ---
 # Champion/Challenger: Define Champion Criteria {#champion-challenger-define-champion-criteria}
 

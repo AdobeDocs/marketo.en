@@ -3,6 +3,7 @@ unique-page-id: 12980873
 description: Performance Insights Quick Charts - Marketo Docs - Product Documentation
 title: Performance Insights Quick Charts
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
+feature: Reporting
 ---
 # Performance Insights Quick Charts {#performance-insights-quick-charts}
 

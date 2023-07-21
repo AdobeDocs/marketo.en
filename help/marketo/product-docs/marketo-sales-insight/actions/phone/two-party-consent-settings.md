@@ -2,6 +2,7 @@
 description: Two-Party Consent Settings - Marketo Docs - Product Documentation
 title: Two-Party Consent Settings
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
+feature: Sales Insight Actions
 ---
 # Two-Party Consent Settings {#two-party-consent-settings}
 

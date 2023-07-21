@@ -2,6 +2,7 @@
 description: Add an Attachment or Trackable Content to Your Email - Marketo Docs - Product Documentation
 title: Add an Attachment or Trackable Content to Your Email
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
+feature: Sales Insight Actions
 ---
 # Add an Attachment or Trackable Content to Your Email {#add-an-attachment-or-trackable-content-to-your-email}
 

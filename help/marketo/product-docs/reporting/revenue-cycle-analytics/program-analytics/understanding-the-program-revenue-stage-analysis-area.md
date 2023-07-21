@@ -3,6 +3,7 @@ unique-page-id: 7514009
 description: Understanding the Program Revenue Stage Analysis Area - Marketo Docs - Product Documentation
 title: Understanding the Program Revenue Stage Analysis Area
 exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
+feature: "Reporting, Revenue Cycle Analytics"
 ---
 # Understanding the Program Revenue Stage Analysis Area {#understanding-the-program-revenue-stage-analysis-area}
 

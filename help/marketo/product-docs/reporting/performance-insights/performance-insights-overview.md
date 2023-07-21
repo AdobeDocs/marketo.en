@@ -3,6 +3,7 @@ unique-page-id: 12979006
 description: Performance Insights Overview - Marketo Docs - Product Documentation
 title: Performance Insights Overview
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
+feature: Reporting
 ---
 # Performance Insights Overview {#performance-insights-overview}
 

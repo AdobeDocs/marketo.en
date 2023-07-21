@@ -3,6 +3,7 @@ unique-page-id: 2949281
 description: Issue a Marketo Email Add-in License - Marketo Docs - Product Documentation
 title: Issue a Marketo Email Add-in License
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
+feature: Marketo Sales Insights
 ---
 # Issue a Marketo Email Add-in License {#issue-a-marketo-email-add-in-license}
 

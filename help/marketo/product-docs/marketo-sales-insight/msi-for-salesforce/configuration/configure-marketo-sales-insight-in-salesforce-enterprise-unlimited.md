@@ -3,6 +3,7 @@ unique-page-id: 2360368
 description: Configure Marketo Sales Insight in Salesforce Enterprise/Unlimited - Marketo Docs - Product Documentation
 title: Configure Marketo Sales Insight in Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
+feature: Marketo Sales Insights
 ---
 # Configure Marketo Sales Insight in Salesforce Enterprise/Unlimited {#configure-marketo-sales-insight-in-salesforce-enterprise-unlimited}
 

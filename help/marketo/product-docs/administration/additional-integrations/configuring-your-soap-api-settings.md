@@ -3,6 +3,7 @@ unique-page-id: 2360352
 description: Configuring Your SOAP API Settings - Marketo Docs - Product Documentation
 title: Configuring Your SOAP API Settings
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
+feature: Administration
 ---
 # Configuring Your SOAP API Settings {#configuring-your-soap-api-settings}
 

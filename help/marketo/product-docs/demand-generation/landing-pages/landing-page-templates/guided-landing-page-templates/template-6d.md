@@ -3,6 +3,7 @@ unique-page-id: 8783935
 description: Template 6D - Marketo Docs - Product Documentation
 title: Template 6D
 exl-id: 2708fd0b-1c87-4b2c-b28c-93b7b8547df4
+feature: "Landing Pages, Guided Landing Page Templates"
 ---
 # Template 6D {#template-6d}
 

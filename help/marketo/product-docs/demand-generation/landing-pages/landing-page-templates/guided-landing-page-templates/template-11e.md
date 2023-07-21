@@ -3,6 +3,7 @@ unique-page-id: 9437568
 description: Template 11E - Marketo Docs - Product Documentation
 title: Template 11E
 exl-id: fd45b28b-1d2c-489b-a16d-810ab0a43873
+feature: "Landing Pages, Guided Landing Page Templates"
 ---
 # Template 11E {#template-11e}
 

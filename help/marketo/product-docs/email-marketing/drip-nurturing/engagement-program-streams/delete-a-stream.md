@@ -3,6 +3,7 @@ unique-page-id: 2359936
 description: Delete a Stream - Marketo Docs - Product Documentation
 title: Delete a Stream
 exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
+feature: Engagement Programs
 ---
 # Delete a Stream {#delete-a-stream}
 

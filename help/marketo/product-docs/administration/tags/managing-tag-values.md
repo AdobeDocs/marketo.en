@@ -3,6 +3,7 @@ unique-page-id: 2360274
 description: Managing Tag Values - Marketo Docs - Product Documentation
 title: Managing Tag Values
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
+feature: Tags
 ---
 # Managing Tag Values {#managing-tag-values}
 

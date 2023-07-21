@@ -3,6 +3,7 @@ unique-page-id: 12976776
 description: Use LinkedIn Lead Gen Form Filters and Triggers in a Smart Campaign - Marketo Docs - Product Documentation
 title: Use LinkedIn Lead Gen Form Filters and Triggers in a Smart Campaign
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
+feature: Social
 ---
 # Use LinkedIn Lead Gen Form Filters and Triggers in a Smart Campaign {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
 

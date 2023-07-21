@@ -3,6 +3,7 @@ unique-page-id: 2360344
 description: View Field Mappings Between Marketo and Salesforce - Marketo Docs - Product Documentation
 title: View Field Mappings Between Marketo and Salesforce
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
+feature: Field Management
 ---
 # View Field Mappings Between Marketo and Salesforce {#view-field-mappings-between-marketo-and-salesforce}
 

@@ -3,6 +3,7 @@ unique-page-id: 14352509
 description: Dynamic Fields Glossary - Marketo Docs - Product Documentation
 title: Dynamic Fields Glossary
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
+feature: Marketo Sales Connect
 ---
 # Dynamic Fields Glossary {#dynamic-fields-glossary}
 

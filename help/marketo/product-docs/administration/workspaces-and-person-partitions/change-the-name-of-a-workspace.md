@@ -3,6 +3,7 @@ unique-page-id: 2360321
 description: Change the Name of a Workspace - Marketo Docs - Product Documentation
 title: Change the Name of a Workspace
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
+feature: Workspaces
 ---
 # Change the Name of a Workspace {#change-the-name-of-a-workspace}
 

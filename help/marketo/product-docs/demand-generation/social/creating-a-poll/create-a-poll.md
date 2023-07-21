@@ -3,6 +3,7 @@ unique-page-id: 2359768
 description: Create a Poll - Marketo Docs - Product Documentation
 title: Create a Poll
 exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
+feature: Social
 ---
 # Create a Poll {#create-a-poll}
 

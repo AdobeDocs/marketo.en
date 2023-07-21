@@ -3,6 +3,7 @@ unique-page-id: 2359791
 description: Specify Goal for Referral Offer - Marketo Docs - Product Documentation
 title: Specify Goal for Referral Offer
 exl-id: 9869eb66-53df-4ea8-903f-e6650add8da2
+feature: Social
 ---
 # Specify Goal for Referral Offer {#specify-goal-for-referral-offer}
 

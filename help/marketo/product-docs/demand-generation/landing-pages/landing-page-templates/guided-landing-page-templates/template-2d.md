@@ -3,6 +3,7 @@ unique-page-id: 7516478
 description: Template 2D - Marketo Docs - Product Documentation
 title: Template 2D
 exl-id: 365cc108-ed50-4229-b267-9688ed31056e
+feature: "Landing Pages, Guided Landing Page Templates"
 ---
 # Template 2D {#template-2d}
 

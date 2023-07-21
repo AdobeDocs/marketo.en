@@ -3,6 +3,7 @@ unique-page-id: 557312
 description: Smart List Filter Operators Glossary - Marketo Docs - Product Documentation
 title: Smart List Filter Operators Glossary
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
+feature: Smart Lists
 ---
 # Smart List Filter Operators Glossary {#smart-list-filter-operators-glossary}
 

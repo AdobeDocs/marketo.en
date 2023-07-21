@@ -3,6 +3,7 @@ unique-page-id: 4719289
 description: Enable/Disable Campaign Sync - Marketo Docs - Product Documentation
 title: Enable/Disable Campaign Sync
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
+feature: Salesforce Integration
 ---
 # Enable/Disable Campaign Sync {#enable-disable-campaign-sync}
 

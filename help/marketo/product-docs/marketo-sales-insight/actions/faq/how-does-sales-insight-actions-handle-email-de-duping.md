@@ -2,6 +2,7 @@
 description: How Does Sales Insight Actions Handle Email De-Duping - Marketo Docs - Product Documentation
 title: How Does Sales Insight Actions Handle Email De-Duping
 exl-id: 40b01f7f-df50-4bd2-ac35-4c4e4f80915e
+feature: Sales Insight Actions
 ---
 # How Does Sales Insight Actions Handle Email De-Duping? {#how-does-sales-insight-actions-handle-email-de-duping}
 

@@ -3,6 +3,7 @@ unique-page-id: 7516390
 description: Install Marketo Sales Insight Package in Salesforce AppExchange - Marketo Docs - Product Documentation
 title: Install Marketo Sales Insight Package in Salesforce AppExchange
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
+feature: Marketo Sales Insights
 ---
 # Install Marketo Sales Insight Package in Salesforce AppExchange {#install-marketo-sales-insight-package-in-salesforce-appexchange}
 

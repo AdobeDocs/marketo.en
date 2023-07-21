@@ -3,6 +3,7 @@ unique-page-id: 2360313
 description: Delete a Workspace - Marketo Docs - Product Documentation
 title: Delete a Workspace
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
+feature: Workspaces
 ---
 # Delete a Workspace {#delete-a-workspace}
 

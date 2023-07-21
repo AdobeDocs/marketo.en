@@ -3,6 +3,7 @@ unique-page-id: 8783938
 description: Template 6E - Marketo Docs - Product Documentation
 title: Template 6E
 exl-id: 5b02bc9e-9c8c-4255-a339-81d90cf116aa
+feature: "Landing Pages, Guided Landing Page Templates"
 ---
 # Template 6E {#template-6e}
 

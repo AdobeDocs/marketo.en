@@ -3,6 +3,7 @@ unique-page-id: 2949202
 description: SEO - Get Suggested Keywords - Marketo Docs - Product Documentation
 title: SEO - Get Suggested Keywords
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
+feature: SEO
 ---
 # SEO - Get Suggested Keywords {#seo-get-suggested-keywords}
 

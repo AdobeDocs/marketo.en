@@ -4,6 +4,7 @@ title: Add to Marketing Campaign
 hide: yes
 hidefromtoc: yes
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
+feature: Sales Insight Actions
 ---
 # Add to Marketing Campaign {#add-to-marketing-campaign}
 

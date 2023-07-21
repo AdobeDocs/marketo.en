@@ -3,6 +3,7 @@ unique-page-id: 2359467
 description: Email Performance Report - Marketo Docs - Product Documentation
 title: Email Performance Report
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
+feature: Email Programs
 ---
 # Email Performance Report {#email-performance-report}
 

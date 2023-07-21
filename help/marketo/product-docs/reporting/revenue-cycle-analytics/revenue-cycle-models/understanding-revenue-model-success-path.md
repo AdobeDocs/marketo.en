@@ -3,6 +3,7 @@ unique-page-id: 4718664
 description: Understanding Revenue Model Success Path - Marketo Docs - Product Documentation
 title: Understanding Revenue Model Success Path
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
+feature: "Reporting, Revenue Cycle Analytics"
 ---
 # Understanding Revenue Model Success Path {#understanding-revenue-model-success-path}
 

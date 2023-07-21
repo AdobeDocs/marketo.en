@@ -3,6 +3,7 @@ unique-page-id: 2359777
 description: Review Votes Cast in Poll - Marketo Docs - Product Documentation
 title: Review Votes Cast in Poll
 exl-id: 1877c5d2-0842-468c-826b-8027270ab292
+feature: Social
 ---
 # Review Votes Cast in Poll {#review-votes-cast-in-poll}
 

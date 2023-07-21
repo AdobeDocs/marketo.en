@@ -3,6 +3,7 @@ unique-page-id: 2949228
 description: SEO - Get Inbound Link Suggestions - Marketo Docs - Product Documentation
 title: SEO - Get Inbound Link Suggestions
 exl-id: 6de60d4b-1e34-4394-97aa-4294b9787025
+feature: SEO
 ---
 # SEO - Get Inbound Link Suggestions {#seo-get-inbound-link-suggestions}
 

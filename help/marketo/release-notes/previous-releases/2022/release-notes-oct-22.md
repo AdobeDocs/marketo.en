@@ -2,6 +2,7 @@
 description: Release Notes - October 2022 - Marketo Docs - Product Documentation
 title: Release Notes - October 2022
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
+feature: Release Information
 ---
 # Release Notes: October 2022 {#release-notes-oct-22}
 

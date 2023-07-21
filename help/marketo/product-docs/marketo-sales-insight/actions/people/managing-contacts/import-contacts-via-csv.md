@@ -4,6 +4,7 @@ title: Import Contacts via CSV
 hide: yes
 hidefromtoc: yes
 exl-id: 6fb6c48a-054b-45e3-ae52-e857485044f4
+feature: Sales Insight Actions
 ---
 # Import Contacts via CSV {#import-contacts-via-csv}
 

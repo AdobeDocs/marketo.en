@@ -3,6 +3,7 @@ unique-page-id: 10092916
 description: Template 20C - Marketo Docs - Product Documentation
 title: Template 20C
 exl-id: 204c00f7-d0a4-4edc-a738-9ec29f442a6a
+feature: "Landing Pages, Guided Landing Page Templates"
 ---
 # Template 20C {#template-20c}
 

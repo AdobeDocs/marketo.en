@@ -3,6 +3,7 @@ unique-page-id: 8783555
 description: Creating a Favorite - Marketo Docs - Product Documentation
 title: Creating a Favorite
 exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
+feature: Mobile Marketing
 ---
 # Creating a Favorite {#creating-a-favorite}
 

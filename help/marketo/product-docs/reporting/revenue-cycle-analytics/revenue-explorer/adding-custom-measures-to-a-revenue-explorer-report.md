@@ -3,6 +3,7 @@ unique-page-id: 10097747
 description: Adding Custom Measures to a Revenue Explorer Report - Marketo Docs - Product Documentation
 title: Adding Custom Measures to a Revenue Explorer Report
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
+feature: "Reporting, Revenue Cycle Analytics"
 ---
 # Adding Custom Measures to a Revenue Explorer Report {#adding-custom-measures-to-a-revenue-explorer-report}
 

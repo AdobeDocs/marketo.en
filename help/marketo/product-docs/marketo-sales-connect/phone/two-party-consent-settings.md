@@ -3,6 +3,7 @@ unique-page-id: 45416566
 description: Two-Party Consent Settings - Marketo Docs - Product Documentation
 title: Two-Party Consent Settings
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
+feature: Marketo Sales Connect
 ---
 # Two-Party Consent Settings {#two-party-consent-settings}
 

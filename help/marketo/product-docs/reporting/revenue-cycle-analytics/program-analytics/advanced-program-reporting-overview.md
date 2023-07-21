@@ -3,6 +3,7 @@ unique-page-id: 2953144
 description: Advanced Program Reporting Overview - Marketo Docs - Product Documentation
 title: Advanced Program Reporting Overview
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
+feature: "Reporting, Revenue Cycle Analytics"
 ---
 # Advanced Program Reporting Overview {#advanced-program-reporting-overview}
 

@@ -3,6 +3,7 @@ unique-page-id: 1147120
 description: Import Members from a Spreadsheet into a Program - Marketo Docs - Product Documentation
 title: Import Members from a Spreadsheet into a Program
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
+feature: Programs
 ---
 # Import Members from a Spreadsheet into a Program {#import-members-from-a-spreadsheet-into-a-program}
 

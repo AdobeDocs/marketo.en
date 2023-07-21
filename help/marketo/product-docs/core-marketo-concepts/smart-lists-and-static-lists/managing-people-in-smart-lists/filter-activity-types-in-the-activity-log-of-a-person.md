@@ -3,6 +3,7 @@ unique-page-id: 2952402
 description: Filter Activity Types in the Activity Log of a Person - Marketo Docs - Product Documentation
 title: Filter Activity Types in the Activity Log of a Person
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
+feature: Smart Lists
 ---
 # Filter Activity Types in the Activity Log of a Person {#filter-activity-types-in-the-activity-log-of-a-person}
 

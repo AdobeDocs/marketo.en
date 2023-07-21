@@ -3,6 +3,7 @@ unique-page-id: 14746177
 description: Resubscribing an Unsubscribe - Marketo Docs - Product Documentation
 title: Resubscribing an Unsubscribe
 exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
+feature: Marketo Sales Connect
 ---
 # Resubscribing an Unsubscribe {#resubscribing-an-unsubscribe}
 

@@ -3,6 +3,7 @@ unique-page-id: 8784002
 description: Template 10B - Marketo Docs - Product Documentation
 title: Template 10B
 exl-id: 6c99a6cd-6c6f-45a3-aed0-b7a0c198dffe
+feature: "Landing Pages, Guided Landing Page Templates"
 ---
 # Template 10B {#template-10b}
 

@@ -2,6 +2,7 @@
 description: Add or Remove Chat Users - Marketo Docs - Product Documentation
 title: Add or Remove Chat Users
 exl-id: b616030c-a9fe-48d7-902c-40621307bfec
+feature: Dynamic Chat
 ---
 # Add or Remove Chat Users {#add-or-remove-chat-users}
 

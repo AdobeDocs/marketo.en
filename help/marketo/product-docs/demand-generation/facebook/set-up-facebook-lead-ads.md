@@ -3,6 +3,7 @@ unique-page-id: 11379622
 description: Set up Facebook Lead Ads - Marketo Docs - Product Documentation
 title: Set up Facebook Lead Ads
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
+feature: Integrations
 ---
 # Set up Facebook Lead Ads {#set-up-facebook-lead-ads}
 

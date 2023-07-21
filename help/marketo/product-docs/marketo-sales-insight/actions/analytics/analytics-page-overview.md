@@ -4,6 +4,7 @@ title: Analytics Page Overview
 hide: yes
 hidefromtoc: yes
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
+feature: Sales Insight Actions
 ---
 # Analytics Page Overview {#analytics-page-overview}
 

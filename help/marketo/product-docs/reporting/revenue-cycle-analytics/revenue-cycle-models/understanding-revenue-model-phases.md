@@ -3,6 +3,7 @@ unique-page-id: 4718660
 description: Understanding Revenue Model Phases - Marketo Docs - Product Documentation
 title: Understanding Revenue Model Phases
 exl-id: 036559ff-b576-4490-ab76-54092e909178
+feature: "Reporting, Revenue Cycle Analytics"
 ---
 # Understanding Revenue Model Phases {#understanding-revenue-model-phases}
 

@@ -3,6 +3,7 @@ unique-page-id: 8159286
 description: Opportunity Filters and Triggers - Marketo Docs - Product Documentation
 title: Opportunity Filters and Triggers
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
+feature: Smart Lists
 ---
 # Opportunity Filters and Triggers {#opportunity-filters-and-triggers}
 

@@ -3,6 +3,7 @@ unique-page-id: 12255457
 description: Getting Started with TAM - Marketo Docs - Product Documentation
 title: Getting Started with TAM
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
+feature: Target Account Management
 ---
 # Getting Started with TAM {#getting-started-with-tam}
 

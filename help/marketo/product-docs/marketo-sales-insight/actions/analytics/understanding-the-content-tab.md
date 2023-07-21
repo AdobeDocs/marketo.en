@@ -4,6 +4,7 @@ title: Understanding the Content Tab
 hide: yes
 hidefromtoc: yes
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
+feature: Sales Insight Actions
 ---
 # Understanding the Content Tab {#understanding-the-content-tab}
 

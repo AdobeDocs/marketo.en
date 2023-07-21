@@ -3,6 +3,7 @@ unique-page-id: 2949716
 description: Send and Track an Email with the Email Add-In for Outlook - Marketo Docs - Product Documentation
 title: Send and Track an Email with the Email Add-In for Outlook
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
+feature: Marketo Sales Insights
 ---
 # Send and Track an Email with the Email Add-In for Outlook {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 

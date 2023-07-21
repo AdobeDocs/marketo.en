@@ -2,6 +2,7 @@
 description: Logging Sales Activity Attributes to Salesforce - Marketo Docs - Product Documentation
 title: Logging Sales Activity Attributes to Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
+feature: Sales Insight Actions
 ---
 # Logging Sales Activity Attributes to Salesforce {#logging-sales-activity-attributes-to-salesforce}
 

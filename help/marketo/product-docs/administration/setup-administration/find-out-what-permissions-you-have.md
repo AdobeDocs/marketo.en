@@ -3,6 +3,7 @@ unique-page-id: 2359898
 description: Find Out What Permissions You Have - Marketo Docs - Product Documentation
 title: Find Out What Permissions You Have
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
+feature: Administration
 ---
 # Find Out What Permissions You Have {#find-out-what-permissions-you-have}
 

@@ -3,6 +3,7 @@ unique-page-id: 10099363
 description: Set up the iPad or Android Tablet - Marketo Docs - Product Documentation
 title: Set up the iPad or Android Tablet
 exl-id: ccfd48dc-ca8d-442f-87fd-f16b34d1a76c
+feature: Mobile Marketing
 ---
 # Set up the iPad or Android Tablet {#set-up-the-ipad-or-android-tablet}
 

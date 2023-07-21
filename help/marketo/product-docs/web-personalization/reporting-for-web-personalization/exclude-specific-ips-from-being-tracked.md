@@ -3,6 +3,7 @@ unique-page-id: 4719340
 description: Exclude Specific IPs from Being Tracked - Marketo Docs - Product Documentation
 title: Exclude Specific IPs from Being Tracked
 exl-id: d6989c8f-46ff-40a8-bf7f-5d34e701b359
+feature: Web Personalization
 ---
 # Exclude Specific IPs from Being Tracked {#exclude-specific-ips-from-being-tracked}
 

@@ -3,6 +3,7 @@ unique-page-id: 11377488
 description: Install the Marketo Add-in for Outlook with an Enterprise Key - Marketo Docs - Product Documentation
 title: Install the Marketo Add-in for Outlook with an Enterprise Key
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
+feature: Marketo Sales Insights
 ---
 # Install the Marketo Add-in for Outlook with an Enterprise Key {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 

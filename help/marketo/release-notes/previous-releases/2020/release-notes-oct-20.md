@@ -3,6 +3,7 @@ unique-page-id: 45416698
 description: Release Notes - Oct '20 - Marketo Docs - Product Documentation
 title: Release Notes - Oct '20
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
+feature: Release Information
 ---
 # Release Notes: Oct '20 {#release-notes-oct}
 

@@ -3,6 +3,7 @@ unique-page-id: 2360253
 description: Edit the "View as Web Page" Message - Marketo Docs - Product Documentation
 title: Edit the "View as Web Page" Message
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
+feature: Email Setup
 ---
 # Edit the "View as Web Page" Message {#edit-the-view-as-web-page-message}
 

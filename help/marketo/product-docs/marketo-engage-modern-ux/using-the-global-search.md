@@ -2,6 +2,7 @@
 description: Using the Global Search - Marketo Docs - Product Documentation
 title: Using the Global Search
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
+feature: Modern UX
 ---
 # Using the Global Search {#using-the-global-search}
 

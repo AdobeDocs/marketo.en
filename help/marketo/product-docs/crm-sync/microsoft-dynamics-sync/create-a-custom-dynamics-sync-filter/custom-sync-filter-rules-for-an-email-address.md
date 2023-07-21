@@ -3,6 +3,7 @@ unique-page-id: 10095307
 description: Custom Sync Filter Rules for an Email Address - Marketo Docs - Product Documentation
 title: Custom Sync Filter Rules for an Email Address
 exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
+feature: Microsoft Dynamics
 ---
 # Custom Sync Filter Rules for an Email Address {#custom-sync-filter-rules-for-an-email-address}
 

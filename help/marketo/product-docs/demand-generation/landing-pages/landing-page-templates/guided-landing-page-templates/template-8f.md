@@ -3,6 +3,7 @@ unique-page-id: 8783975
 description: Template 8F - Marketo Docs - Product Documentation
 title: Template 8F
 exl-id: aaabe488-80a8-4cc6-a76f-8e1845921bc9
+feature: "Landing Pages, Guided Landing Page Templates"
 ---
 # Template 8F {#template-8f}
 

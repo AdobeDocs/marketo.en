@@ -3,6 +3,7 @@ unique-page-id: 2359600
 description: Cancel the A/B Test - Marketo Docs - Product Documentation
 title: Cancel the A/B Test
 exl-id: 7fc79e67-01db-4b6e-818e-fe61e720ad92
+feature: "Email Programs, A/B Testing"
 ---
 # Cancel the A/B Test {#cancel-the-a-b-test}
 

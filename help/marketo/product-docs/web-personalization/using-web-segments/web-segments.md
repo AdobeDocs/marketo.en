@@ -3,6 +3,7 @@ unique-page-id: 4719093
 description: Web Segments - Marketo Docs - Product Documentation
 title: Web Segments
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
+feature: Web Personalization
 ---
 # Web Segments {#web-segments}
 

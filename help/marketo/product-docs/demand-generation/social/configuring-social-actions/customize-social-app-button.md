@@ -3,6 +3,7 @@ unique-page-id: 2359759
 description: Customize Social App Button - Marketo Docs - Product Documentation
 title: Customize Social App Button
 exl-id: 0c5baefe-8339-4f7e-9d4f-a34704685b11
+feature: Social
 ---
 # Customize Social App Button {#customize-social-app-button}
 

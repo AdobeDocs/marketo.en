@@ -3,6 +3,7 @@ unique-page-id: 7512454
 description: Configure Mobile Push Notification - Marketo Docs - Product Documentation
 title: Configure Mobile Push Notification
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
+feature: Mobile Marketing
 ---
 # Configure Mobile Push Notification {#configure-mobile-push-notification}
 

@@ -3,6 +3,7 @@ unique-page-id: 4719300
 description: Add/Remove Custom Object Field as Smart List/Trigger Constraints - Marketo Docs - Product Documentation
 title: Add/Remove Custom Object Field as Smart List/Trigger Constraints
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
+feature: Salesforce Integration
 ---
 # Add/Remove Custom Object Field as Smart List/Trigger Constraints {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 

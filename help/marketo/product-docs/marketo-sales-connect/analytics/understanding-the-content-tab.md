@@ -3,6 +3,7 @@ unique-page-id: 14352615
 description: Understanding the Content Tab - Marketo Docs - Product Documentation
 title: Understanding the Content Tab
 exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
+feature: Marketo Sales Connect
 ---
 # Understanding the Content Tab {#understanding-the-content-tab}
 

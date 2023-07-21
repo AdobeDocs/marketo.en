@@ -4,6 +4,7 @@ title: Custom Object Sync
 hide: yes
 hidefromtoc: yes
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
+feature: Veeva CRM
 ---
 # Custom Object Sync {#custom-object-sync}
 

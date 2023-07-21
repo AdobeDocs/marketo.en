@@ -3,6 +3,7 @@ unique-page-id: 1147342
 description: Approve an Email - Marketo Docs - Product Documentation
 title: Approve an Email
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
+feature: Email Editor
 ---
 # Approve an Email {#approve-an-email}
 

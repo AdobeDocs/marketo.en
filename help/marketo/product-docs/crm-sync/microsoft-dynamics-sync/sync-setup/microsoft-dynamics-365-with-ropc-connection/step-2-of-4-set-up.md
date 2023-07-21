@@ -2,6 +2,7 @@
 description: Step 2 of 4 - Set up the Marketo Solution with Resource Owner Password Control Connection - Marketo Docs - Product Documentation
 title: Step 2 of 4 - Set up the Marketo Solution with Resource Owner Password Control Connection
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
+feature: Microsoft Dynamics
 ---
 # Step 2 of 4: Set up the Marketo Solution with Resource Owner Password Control Connection {#step-2-of-4-set-up-the-marketo-solution-ropc}
 

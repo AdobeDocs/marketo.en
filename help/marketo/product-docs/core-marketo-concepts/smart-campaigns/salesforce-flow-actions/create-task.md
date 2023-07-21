@@ -3,6 +3,7 @@ unique-page-id: 1147017
 description: Create Task - Marketo Docs - Product Documentation
 title: Create Task
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
+feature: "Smart Campaigns, Salesforce Integration"
 ---
 # Create Task {#create-task}
 

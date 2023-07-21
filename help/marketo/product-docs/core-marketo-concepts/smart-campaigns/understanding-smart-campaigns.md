@@ -3,6 +3,7 @@ unique-page-id: 2953120
 description: Understanding Smart Campaigns - Marketo Docs - Product Documentation
 title: Understanding Smart Campaigns
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
+feature: Smart Campaigns
 ---
 # Understanding Smart Campaigns {#understanding-smart-campaigns}
 

@@ -3,6 +3,7 @@ unique-page-id: 7512524
 description: Best Practices for Smart Lists - Marketo Docs - Product Documentation
 title: Best Practices for Smart Lists
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
+feature: Smart Lists
 ---
 # Best Practices for Smart Lists {#best-practices-for-smart-lists}
 

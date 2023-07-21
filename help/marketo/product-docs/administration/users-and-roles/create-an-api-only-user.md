@@ -3,6 +3,7 @@ unique-page-id: 2360207
 description: Create an API Only User - Marketo Docs - Product Documentation
 title: Create an API Only User
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
+feature: Users and Roles
 ---
 # Create an API Only User {#create-an-api-only-user}
 

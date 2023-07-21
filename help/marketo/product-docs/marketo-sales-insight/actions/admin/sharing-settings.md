@@ -2,6 +2,7 @@
 description: Sharing Settings - Marketo Docs - Product Documentation
 title: Sharing Settings
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
+feature: Sales Insight Actions
 ---
 # Sharing Settings {#sharing-settings}
 

@@ -3,6 +3,7 @@ unique-page-id: 8782021
 description: Personalizing Marketo Moments - Marketo Docs - Product Documentation
 title: Personalizing Marketo Moments
 exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
+feature: Mobile Marketing
 ---
 # Personalizing Marketo Moments {#personalizing-marketo-moments}
 

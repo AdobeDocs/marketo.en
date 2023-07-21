@@ -3,6 +3,7 @@ unique-page-id: 557318
 description: Refresh a List or Smart List - Marketo Docs - Product Documentation
 title: Refresh a List or Smart List
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
+feature: Smart Lists
 ---
 # Refresh a List or Smart List {#refresh-a-list-or-smart-list}
 

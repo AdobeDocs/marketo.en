@@ -3,6 +3,7 @@ unique-page-id: 7515767
 description: Share Segmentations Across Workspaces and Partitions - Marketo Docs - Product Documentation
 title: Share Segmentations Across Workspaces and Partitions
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
+feature: "Partitions, Workspaces"
 ---
 # Share Segmentations Across Workspaces and Partitions {#share-segmentations-across-workspaces-and-partitions}
 

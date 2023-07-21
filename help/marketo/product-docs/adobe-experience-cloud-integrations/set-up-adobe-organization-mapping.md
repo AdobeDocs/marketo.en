@@ -3,6 +3,7 @@ unique-page-id: 42762511
 description: Set up Adobe Organization Mapping - Marketo Docs - Product Documentation
 title: Set up Adobe Organization Mapping
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
+feature: Integrations
 ---
 # Set up Adobe Organization Mapping {#set-up-adobe-organization-mapping}
 

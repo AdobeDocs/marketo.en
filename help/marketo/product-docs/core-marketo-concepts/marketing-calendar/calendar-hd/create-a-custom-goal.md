@@ -3,6 +3,7 @@ unique-page-id: 7504130
 description: Create a Custom Goal - Marketo Docs - Product Documentation
 title: Create a Custom Goal
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
+feature: Marketing Calendar
 ---
 # Create a Custom Goal {#create-a-custom-goal}
 

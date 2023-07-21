@@ -3,6 +3,7 @@ unique-page-id: 7514224
 description: Customize and Display Heat Grids - Marketo Docs - Product Documentation
 title: Customize and Display Heat Grids
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
+feature: "Reporting, Revenue Cycle Analytics"
 ---
 # Customize and Display Heat Grids {#customize-and-display-heat-grids}
 

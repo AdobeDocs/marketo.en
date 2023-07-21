@@ -3,6 +3,7 @@ unique-page-id: 8783906
 description: Template 4C - Marketo Docs - Product Documentation
 title: Template 4C
 exl-id: 95e8b4db-6bd8-4937-bf1b-3e680969aab4
+feature: "Landing Pages, Guided Landing Page Templates"
 ---
 # Template 4C {#template-4c}
 

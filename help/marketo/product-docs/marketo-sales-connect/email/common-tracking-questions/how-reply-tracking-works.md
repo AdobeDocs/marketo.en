@@ -3,6 +3,7 @@ unique-page-id: 14352482
 description: How Reply Tracking Works - Marketo Docs - Product Documentation
 title: How Reply Tracking Works
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
+feature: Marketo Sales Connect
 ---
 # How Reply Tracking Works {#how-reply-tracking-works}
 

@@ -3,6 +3,7 @@ unique-page-id: 1146978
 description: Use a Duration in a Wait Flow Step - Marketo Docs - Product Documentation
 title: Use a Duration in a Wait Flow Step
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
+feature: Smart Campaigns
 ---
 # Use a Duration in a Wait Flow Step {#use-a-duration-in-a-wait-flow-step}
 

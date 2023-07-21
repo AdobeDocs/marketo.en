@@ -3,6 +3,7 @@ unique-page-id: 1900585
 description: Add Editable Sections to Email Templates v1.0 - Marketo Docs - Product Documentation
 title: Add Editable Sections to Email Templates v1.0
 exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
+feature: Email Editor
 ---
 # Add Editable Sections to Email Templates v1.0 {#add-editable-sections-to-email-templates-v1.0}
 

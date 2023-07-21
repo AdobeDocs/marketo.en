@@ -3,6 +3,7 @@ unique-page-id: 4719306
 description: Hide a Salesforce Field From the Marketo Sync - Marketo Docs - Product Documentation
 title: Hide a Salesforce Field From the Marketo Sync
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
+feature: Salesforce Integration
 ---
 # Hide a Salesforce Field From the Marketo Sync {#hide-a-salesforce-field-from-the-marketo-sync}
 

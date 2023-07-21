@@ -3,6 +3,7 @@ unique-page-id: 6095029
 description: Set Google AdWords Conversions in the Revenue Model - Marketo Docs - Product Documentation
 title: Set Google AdWords Conversions in the Revenue Model
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
+feature: "Reporting, Revenue Cycle Analytics"
 ---
 # Set Google AdWords Conversions in the Revenue Model {#set-google-adwords-conversions-in-the-revenue-model}
 

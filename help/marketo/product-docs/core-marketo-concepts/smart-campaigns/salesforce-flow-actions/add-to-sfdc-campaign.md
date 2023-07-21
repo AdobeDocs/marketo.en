@@ -3,6 +3,7 @@ unique-page-id: 1147034
 description: Add to SFDC Campaign - Marketo Docs - Product Documentation
 title: Add to SFDC Campaign
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
+feature: "Smart Campaigns, Salesforce Integration"
 ---
 # Add to SFDC Campaign {#add-to-sfdc-campaign}
 

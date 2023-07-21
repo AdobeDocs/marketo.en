@@ -2,6 +2,7 @@
 description: Sales Insight Actions User Onboarding Checklist - Marketo Docs - Product Documentation
 title: Sales Insight Actions User Onboarding Checklist
 exl-id: 2cc21121-88ef-4cb9-a2bf-73ce213d9fbd
+feature: Sales Insight Actions
 ---
 # Sales Insight Actions User Onboarding Checklist {#sales-insight-actions-user-onboarding-checklist}
 

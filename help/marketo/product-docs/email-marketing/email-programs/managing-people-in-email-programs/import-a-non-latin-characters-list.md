@@ -3,6 +3,7 @@ unique-page-id: 5472678
 description: Import a Non-Latin Characters List - Marketo Docs - Product Documentation
 title: Import a Non-Latin Characters List
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
+feature: Email Programs
 ---
 # Import a Non-Latin Characters List {#import-a-non-latin-characters-list}
 

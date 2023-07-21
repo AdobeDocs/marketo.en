@@ -3,6 +3,7 @@ unique-page-id: 2949238
 description: SEO - View Keyword Results in Search Engine - Marketo Docs - Product Documentation
 title: SEO - View Keyword Results in Search Engine
 exl-id: c687ed30-f368-4d9d-8919-e5cafefbe66a
+feature: SEO
 ---
 # SEO - View Keyword Results in Search Engine {#seo-view-keyword-results-in-search-engine}
 

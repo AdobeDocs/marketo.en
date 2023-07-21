@@ -3,6 +3,7 @@ unique-page-id: 2950573
 description: Configure Track Progress Flow for a Referral Offer - Marketo Docs - Product Documentation
 title: Configure Track Progress Flow for a Referral Offer
 exl-id: ea73176e-414e-4a90-a17d-083a6eb0a752
+feature: Social
 ---
 # Configure Track Progress Flow for a Referral Offer {#configure-track-progress-flow-for-a-referral-offer}
 

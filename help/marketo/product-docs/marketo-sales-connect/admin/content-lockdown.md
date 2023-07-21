@@ -3,6 +3,7 @@ unique-page-id: 37355755
 description: Content Lockdown - Marketo Docs - Product Documentation
 title: Content Lockdown
 exl-id: 9f47a6e9-5dad-4934-ba9b-70235c958a31
+feature: Marketo Sales Connect
 ---
 # Content Lockdown {#content-lockdown}
 

@@ -3,6 +3,7 @@ unique-page-id: 2360020
 description: Export a Report to Excel - Marketo Docs - Product Documentation
 title: Export a Report to Excel
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
+feature: Reporting
 ---
 # Export a Report to Excel {#export-a-report-to-excel}
 

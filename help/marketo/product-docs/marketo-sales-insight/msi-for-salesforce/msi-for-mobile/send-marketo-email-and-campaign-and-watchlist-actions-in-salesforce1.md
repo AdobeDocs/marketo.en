@@ -3,6 +3,7 @@ unique-page-id: 7511931
 description: Send Marketo Email and Campaign and Watchlist Actions in Salesforce1 - Marketo Docs - Product Documentation
 title: Send Marketo Email and Campaign and Watchlist Actions in Salesforce1
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
+feature: Marketo Sales Insights
 ---
 # Send Marketo Email and Campaign and Watchlist Actions in Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 

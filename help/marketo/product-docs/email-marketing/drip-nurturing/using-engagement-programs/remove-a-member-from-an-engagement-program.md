@@ -3,6 +3,7 @@ unique-page-id: 2359951
 description: Remove a Member from an Engagement Program - Marketo Docs - Product Documentation
 title: Remove a Member from an Engagement Program
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
+feature: Engagement Programs
 ---
 # Remove a Member from an Engagement Program {#remove-a-member-from-an-engagement-program}
 

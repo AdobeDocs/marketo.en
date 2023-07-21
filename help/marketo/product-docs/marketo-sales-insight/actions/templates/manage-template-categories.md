@@ -4,6 +4,7 @@ title: Manage Template Categories
 hide: yes
 hidefromtoc: yes
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
+feature: Sales Insight Actions
 ---
 # Manage Template Categories {#manage-template-categories}
 

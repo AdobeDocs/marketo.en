@@ -3,6 +3,7 @@ unique-page-id: 2360240
 description: Configure an Opportunity Influence Analyzer - Marketo Docs - Product Documentation
 title: Configure an Opportunity Influence Analyzer
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
+feature: "Reporting, Revenue Cycle Analytics"
 ---
 # Configure an Opportunity Influence Analyzer {#configure-an-opportunity-influence-analyzer}
 

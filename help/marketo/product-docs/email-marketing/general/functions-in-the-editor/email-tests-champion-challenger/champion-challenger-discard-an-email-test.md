@@ -3,6 +3,7 @@ unique-page-id: 2359587
 description: Champion/Challenger -Discard an Email Test - Marketo Docs - Product Documentation
 title: Champion/Challenger -Discard an Email Test
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
+feature: Email Editor
 ---
 # Champion/Challenger: Discard an Email Test {#champion-challenger-discard-an-email-test}
 

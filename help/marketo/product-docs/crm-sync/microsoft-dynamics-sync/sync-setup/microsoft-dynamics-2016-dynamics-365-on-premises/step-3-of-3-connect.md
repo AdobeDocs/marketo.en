@@ -2,6 +2,7 @@
 description: Install Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 3 of 3 - Marketo Docs - Product Documentation
 title: Install Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 3 of 3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
+feature: Microsoft Dynamics
 ---
 # Step 3 of 3: Connect Marketo Dynamics (2016 On Prem/Dynamics 365 On-Premises) {#step-of-connect-marketo-dynamics-on-premises-2016}
 

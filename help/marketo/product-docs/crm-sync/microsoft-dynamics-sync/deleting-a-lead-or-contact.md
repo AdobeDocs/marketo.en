@@ -3,6 +3,7 @@ unique-page-id: 45417322
 description: Deleting a Lead or Contact - Marketo Docs - Product Documentation
 title: Deleting a Lead or Contact
 exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
+feature: Microsoft Dynamics
 ---
 # Deleting a Lead or Contact {#deleting-a-lead-or-contact}
 

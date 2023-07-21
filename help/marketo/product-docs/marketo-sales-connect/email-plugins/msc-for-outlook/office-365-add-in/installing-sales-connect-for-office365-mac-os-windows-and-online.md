@@ -3,6 +3,7 @@ unique-page-id: 14352455
 description: Installing Sales Connect for Office365 Mac OS, Windows, and Online - Marketo Docs - Product Documentation
 title: Installing Sales Connect for Office365 Mac OS, Windows, and Online
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
+feature: Marketo Sales Connect
 ---
 # Installing Sales Connect for Office365 Mac OS, Windows, and Online {#installing-sales-connect-for-office-mac-os-windows-and-online}
 

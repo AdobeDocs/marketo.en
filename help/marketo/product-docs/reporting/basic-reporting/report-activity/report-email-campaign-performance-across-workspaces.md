@@ -3,6 +3,7 @@ unique-page-id: 2360055
 description: Report Email, Campaign Performance Across Workspaces - Marketo Docs - Product Documentation
 title: Report Email, Campaign Performance Across Workspaces
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
+feature: Reporting
 ---
 # Report Email, Campaign Performance Across Workspaces {#report-email-campaign-performance-across-workspaces}
 

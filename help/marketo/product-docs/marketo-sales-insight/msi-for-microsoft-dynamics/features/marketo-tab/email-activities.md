@@ -2,6 +2,7 @@
 description: Email Activities - Marketo Docs - Product Documentation
 title: Email Activities
 exl-id: 8c5bd8dc-15a2-49c8-8c1c-e2e0b7c8745b
+feature: Marketo Sales Insights
 ---
 # Email Activities {#email-activities}
 

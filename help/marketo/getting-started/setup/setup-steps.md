@@ -3,6 +3,7 @@ unique-page-id: 2949469
 description: Setup Steps - Marketo Docs - Product Documentation
 title: Setup Steps
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
+feature: Getting Started
 ---
 # Setup Steps {#setup-steps}
 

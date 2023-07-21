@@ -3,6 +3,7 @@ unique-page-id: 11384653
 description: Edit Content - Marketo Docs - Product Documentation
 title: Edit Content
 exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
+feature: Predictive Content
 ---
 # Edit Content {#edit-content}
 

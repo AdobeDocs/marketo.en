@@ -3,6 +3,7 @@ unique-page-id: 2360309
 description: Understanding Workspaces and Person Partitions - Marketo Docs - Product Documentation
 title: Understanding Workspaces and Person Partitions
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
+feature: "Partitions, Workspaces"
 ---
 # Understanding Workspaces and Person Partitions {#understanding-workspaces-and-person-partitions}
 

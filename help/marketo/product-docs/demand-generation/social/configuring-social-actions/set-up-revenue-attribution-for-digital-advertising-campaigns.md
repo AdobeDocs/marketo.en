@@ -3,6 +3,7 @@ unique-page-id: 10098812
 description: Set up Revenue Attribution for Digital Advertising Campaigns - Marketo Docs - Product Documentation
 title: Set up Revenue Attribution for Digital Advertising Campaigns
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
+feature: Social
 ---
 # Set up Revenue Attribution for Digital Advertising Campaigns {#set-up-revenue-attribution-for-digital-advertising-campaigns}
 

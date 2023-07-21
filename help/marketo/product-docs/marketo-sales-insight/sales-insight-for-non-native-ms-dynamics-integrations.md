@@ -2,6 +2,7 @@
 description: Sales Insight for Non-Native MS Dynamics Integrations - Marketo Docs - Product Documentation
 title: Sales Insight for Non-Native MS Dynamics Integrations
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
+feature: Marketo Sales Insights
 ---
 # Sales Insight for Non-Native MS Dynamics Integrations {#sales-insight-for-non-native-ms-dynamics-integrations}
 

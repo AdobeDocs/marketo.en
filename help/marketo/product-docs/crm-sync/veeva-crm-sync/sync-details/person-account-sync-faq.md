@@ -2,6 +2,7 @@
 description: Person Account Sync FAQ - Marketo Docs - Product Documentation
 title: Person Account Sync FAQ
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
+feature: Veeva CRM
 ---
 # Person Account Sync FAQ {#person-account-sync-faq}
 

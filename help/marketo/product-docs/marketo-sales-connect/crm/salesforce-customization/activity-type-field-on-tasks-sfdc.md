@@ -3,6 +3,7 @@ unique-page-id: 14352476
 description: Activity Type Field on Tasks (SFDC) - Marketo Docs - Product Documentation
 title: Activity Type Field on Tasks (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
+feature: Marketo Sales Connect
 ---
 # Activity Type Field on Tasks (SFDC) {#activity-type-field-on-tasks-sfdc}
 

@@ -3,6 +3,7 @@ unique-page-id: 2953417
 description: Understanding Dynamic Content - Marketo Docs - Product Documentation
 title: Understanding Dynamic Content
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
+feature: Dynamic Content
 ---
 # Understanding Dynamic Content {#understanding-dynamic-content}
 

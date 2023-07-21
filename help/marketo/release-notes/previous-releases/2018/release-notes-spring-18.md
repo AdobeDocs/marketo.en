@@ -3,6 +3,7 @@ unique-page-id: 14745959
 description: Release Notes -Spring '18 - Marketo Docs - Product Documentation
 title: Release Notes -Spring '18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
+feature: Release Information
 ---
 # Release Notes: Spring '18 {#release-notes-spring}
 

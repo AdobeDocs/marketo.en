@@ -3,6 +3,7 @@ unique-page-id: 4720476
 description: Classic Icon Glossary - Marketo Docs - Product Documentation
 title: Classic Icon Glossary
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
+feature: Getting Started
 ---
 # Classic Icon Glossary {#classic-icon-glossary}
 

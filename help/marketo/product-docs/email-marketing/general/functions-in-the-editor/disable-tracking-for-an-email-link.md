@@ -3,6 +3,7 @@ unique-page-id: 1900579
 description: Disable Tracking for an Email Link - Marketo Docs - Product Documentation
 title: Disable Tracking for an Email Link
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
+feature: Email Editor
 ---
 # Disable Tracking for an Email Link {#disable-tracking-for-an-email-link}
 

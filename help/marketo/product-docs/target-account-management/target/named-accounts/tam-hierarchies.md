@@ -3,6 +3,7 @@ unique-page-id: 13795510
 description: TAM Hierarchies - Marketo Docs - Product Documentation
 title: TAM Hierarchies
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
+feature: Target Account Management
 ---
 # TAM Hierarchies {#tam-hierarchies}
 

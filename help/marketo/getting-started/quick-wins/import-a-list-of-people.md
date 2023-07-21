@@ -3,6 +3,7 @@ unique-page-id: 2359418
 description: Import a List of People - Marketo Docs - Product Documentation
 title: Import a List of People
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
+feature: Getting Started
 ---
 # Import a List of People {#import-a-list-of-people}
 

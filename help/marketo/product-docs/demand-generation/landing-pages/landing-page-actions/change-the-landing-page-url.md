@@ -3,6 +3,7 @@ unique-page-id: 2359738
 description: Change the Landing Page URL - Marketo Docs - Product Documentation
 title: Change the Landing Page URL
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
+feature: Landing Pages
 ---
 # Change the Landing Page URL {#change-the-landing-page-url}
 

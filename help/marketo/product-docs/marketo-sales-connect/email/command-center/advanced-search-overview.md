@@ -3,6 +3,7 @@ unique-page-id: 37356329
 description: Advanced Search Overview - Marketo Docs - Product Documentation
 title: Advanced Search Overview
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
+feature: Marketo Sales Connect
 ---
 # Advanced Search Overview {#advanced-search-overview}
 

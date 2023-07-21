@@ -3,6 +3,7 @@ unique-page-id: 2360028
 description: Clone a Report - Marketo Docs - Product Documentation
 title: Clone a Report
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
+feature: Reporting
 ---
 # Clone a Report {#clone-a-report}
 

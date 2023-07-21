@@ -3,6 +3,7 @@ unique-page-id: 12980733
 description: Marketo Glossary - Marketo Docs - Product Documentation
 title: Marketo Glossary
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
+feature: Getting Started
 ---
 # Marketo Glossary {#marketo-glossary}
 

@@ -3,6 +3,7 @@ unique-page-id: 2360307
 description: Enable or Disable Treasure Chest Features - Marketo Docs - Product Documentation
 title: Enable or Disable Treasure Chest Features
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
+feature: Administration
 ---
 # Enable or Disable Treasure Chest Features {#enable-or-disable-treasure-chest-features}
 

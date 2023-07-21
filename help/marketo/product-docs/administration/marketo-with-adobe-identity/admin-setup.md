@@ -2,6 +2,7 @@
 description: Admin Setup - Marketo Docs - Product Documentation
 title: Admin Setup
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
+feature: Marketo with Adobe Identity
 ---
 # Admin Setup {#admin-setup}
 

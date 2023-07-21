@@ -3,6 +3,7 @@ unique-page-id: 2949718
 description: Publish an Email to Sales Insight - Marketo Docs - Product Documentation
 title: Publish an Email to Sales Insight
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
+feature: Marketo Sales Insights
 ---
 # Publish an Email to Sales Insight {#publish-an-email-to-sales-insight}
 

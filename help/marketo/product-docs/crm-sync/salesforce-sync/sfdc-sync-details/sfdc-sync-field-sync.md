@@ -3,6 +3,7 @@ unique-page-id: 2953461
 description: SFDC Sync - Field Sync - Marketo Docs - Product Documentation
 title: SFDC Sync - Field Sync
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
+feature: Salesforce Integration
 ---
 # SFDC Sync: Field Sync {#sfdc-sync-field-sync}
 

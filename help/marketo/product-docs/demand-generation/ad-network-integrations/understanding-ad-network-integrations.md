@@ -3,6 +3,7 @@ unique-page-id: 11382858
 description: Understanding Ad Network Integrations - Marketo Docs - Product Documentation
 title: Understanding Ad Network Integrations
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
+feature: Integrations
 ---
 # Understanding Ad Network Integrations {#understanding-ad-network-integrations}
 

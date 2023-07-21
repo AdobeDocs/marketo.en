@@ -3,6 +3,7 @@ unique-page-id: 3571890
 description: Enable Custom Field Groups for Model Performance Analysis (Leads) - Marketo Docs - Product Documentation
 title: Enable Custom Field Groups for Model Performance Analysis (Leads)
 exl-id: 417fd74f-d8f5-477b-b633-0fdfdd68b22b
+feature: "Reporting, Revenue Cycle Analytics"
 ---
 # Enable Custom Field Groups for Model Performance Analysis (Leads) {#enable-custom-field-groups-for-model-performance-analysis-leads}
 

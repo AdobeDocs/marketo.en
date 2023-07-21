@@ -3,6 +3,7 @@ unique-page-id: 2359845
 description: Publish a Referral Offer - Marketo Docs - Product Documentation
 title: Publish a Referral Offer
 exl-id: 48335902-cb43-44ea-9f19-2fe49105bb45
+feature: Social
 ---
 # Publish a Referral Offer {#publish-a-referral-offer}
 

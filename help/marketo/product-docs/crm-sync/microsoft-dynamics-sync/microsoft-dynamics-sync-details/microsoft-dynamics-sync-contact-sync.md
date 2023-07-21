@@ -3,6 +3,7 @@ unique-page-id: 3571833
 description: Microsoft Dynamics Sync -Contact Sync - Marketo Docs - Product Documentation
 title: Microsoft Dynamics Sync -Contact Sync
 exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
+feature: Microsoft Dynamics
 ---
 # Microsoft Dynamics Sync: Contact Sync {#microsoft-dynamics-sync-contact-sync}
 

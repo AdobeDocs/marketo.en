@@ -4,6 +4,7 @@ title: Setting Event Goals
 hide: yes
 hidefromtoc: yes
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
+feature: Events
 ---
 # Setting Event Goals {#setting-event-goals}
 

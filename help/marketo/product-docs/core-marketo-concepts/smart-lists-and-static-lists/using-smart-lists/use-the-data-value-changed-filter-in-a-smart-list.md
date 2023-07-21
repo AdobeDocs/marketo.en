@@ -3,6 +3,7 @@ unique-page-id: 557324
 description: Use the Data Value Changed Filter in a Smart List - Marketo Docs - Product Documentation
 title: Use the Data Value Changed Filter in a Smart List
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
+feature: Smart Lists
 ---
 # Use the Data Value Changed Filter in a Smart List {#use-the-data-value-changed-filter-in-a-smart-list}
 

@@ -3,6 +3,7 @@ unique-page-id: 1146987
 description: Delete a Flow Step - Marketo Docs - Product Documentation
 title: Delete a Flow Step
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
+feature: Smart Campaigns
 ---
 # Delete a Flow Step {#delete-a-flow-step}
 

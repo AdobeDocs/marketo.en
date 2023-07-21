@@ -3,6 +3,7 @@ unique-page-id: 9437831
 description: Template 15E - Marketo Docs - Product Documentation
 title: Template 15E
 exl-id: 4f0b474d-b347-4ce9-bc6c-0479468cf6e6
+feature: "Landing Pages, Guided Landing Page Templates"
 ---
 # Template 15E {#template-15e}
 

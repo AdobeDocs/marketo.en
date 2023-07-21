@@ -3,6 +3,7 @@ unique-page-id: 18317669
 description: Salesforce Sync Settings - Marketo Docs - Product Documentation
 title: Salesforce Sync Settings
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
+feature: Marketo Sales Connect
 ---
 # Salesforce Sync Settings {#salesforce-sync-settings}
 

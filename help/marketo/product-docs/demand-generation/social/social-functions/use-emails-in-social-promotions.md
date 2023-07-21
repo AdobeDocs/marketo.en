@@ -3,6 +3,7 @@ unique-page-id: 2359793
 description: Use Emails in Social Promotions - Marketo Docs - Product Documentation
 title: Use Emails in Social Promotions
 exl-id: 633ad86e-d085-420f-8e28-9b722e345852
+feature: Social
 ---
 # Use Emails in Social Promotions {#use-emails-in-social-promotions}
 

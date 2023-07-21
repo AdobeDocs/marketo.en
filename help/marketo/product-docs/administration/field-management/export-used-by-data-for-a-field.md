@@ -3,6 +3,7 @@ unique-page-id: 45417092
 description: Export Used By Data for a Field - Marketo Docs - Product Documentation
 title: Export Used By Data for a Field
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
+feature: Field Management
 ---
 # Export Used By Data for a Field {#export-used-by-data-for-a-field}
 

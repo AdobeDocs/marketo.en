@@ -3,6 +3,7 @@ unique-page-id: 2359763
 description: View Social Performance - Marketo Docs - Product Documentation
 title: View Social Performance
 exl-id: 82f3754f-4aa8-4d07-ac02-22d138d2a021
+feature: Social
 ---
 # View Social Performance {#view-social-performance}
 

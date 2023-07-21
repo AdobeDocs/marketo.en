@@ -3,6 +3,7 @@ unique-page-id: 4718640
 description: Understanding the Program Membership Analysis Area - Marketo Docs - Product Documentation
 title: Understanding the Program Membership Analysis Area
 exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
+feature: "Reporting, Revenue Cycle Analytics"
 ---
 # Understanding the Program Membership Analysis Area {#understanding-the-program-membership-analysis-area}
 

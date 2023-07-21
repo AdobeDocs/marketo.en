@@ -2,6 +2,7 @@
 description: Campaign Has Ended - Marketo Docs - Product Documentation
 title: Campaign Has Ended
 exl-id: ca1ec3bb-7e7d-4524-b8ac-f0ce386c0c36
+feature: Sales Insight Actions
 ---
 # Campaign Has Ended {#campaign-has-ended}
 

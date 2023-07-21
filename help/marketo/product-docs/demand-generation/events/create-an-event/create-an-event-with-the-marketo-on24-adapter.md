@@ -3,6 +3,7 @@ unique-page-id: 10096656
 description: Create an Event with the Marketo ON24 Adapter - Marketo Docs - Product Documentation
 title: Create an Event with the Marketo ON24 Adapter
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
+feature: Events
 ---
 # Create an Event with the Marketo ON24 Adapter {#create-an-event-with-the-marketo-on-adapter}
 

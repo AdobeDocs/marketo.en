@@ -3,6 +3,7 @@ unique-page-id: 2360311
 description: Create a New Workspace - Marketo Docs - Product Documentation
 title: Create a New Workspace
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
+feature: Workspaces
 ---
 # Create a New Workspace {#create-a-new-workspace}
 

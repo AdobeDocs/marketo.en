@@ -3,6 +3,7 @@ unique-page-id: 2360278
 description: Delete a Program Status From a Program Channel - Marketo Docs - Product Documentation
 title: Delete a Program Status From a Program Channel
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
+feature: Tags
 ---
 # Delete a Program Status From a Program Channel {#delete-a-program-status-from-a-program-channel}
 

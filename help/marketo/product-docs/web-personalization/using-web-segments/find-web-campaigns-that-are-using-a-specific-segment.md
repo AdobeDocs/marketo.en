@@ -3,6 +3,7 @@ unique-page-id: 4719396
 description: Find Web Campaigns that are Using a Specific Segment - Marketo Docs - Product Documentation
 title: Find Web Campaigns that are Using a Specific Segment
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
+feature: Web Personalization
 ---
 # Find Web Campaigns that are Using a Specific Segment {#find-web-campaigns-that-are-using-a-specific-segment}
 

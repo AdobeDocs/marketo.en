@@ -3,6 +3,7 @@ unique-page-id: 1147078
 description: Change Person Partition - Marketo Docs - Product Documentation
 title: Change Person Partition
 exl-id: 7b2e0de0-2b49-4f7c-b4d5-47e1a16eb98d
+feature: Smart Campaigns
 ---
 # Change Person Partition {#change-person-partition}
 

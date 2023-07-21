@@ -3,6 +3,7 @@ unique-page-id: 2359781
 description: Create a Referral Offer - Marketo Docs - Product Documentation
 title: Create a Referral Offer
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
+feature: Social
 ---
 # Create a Referral Offer {#create-a-referral-offer}
 

@@ -3,6 +3,7 @@ unique-page-id: 2949273
 description: SEO - Use the Keyword Trends Report - Marketo Docs - Product Documentation
 title: SEO - Use the Keyword Trends Report
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
+feature: SEO
 ---
 # SEO - Use the Keyword Trends Report {#seo-use-the-keyword-trends-report}
 

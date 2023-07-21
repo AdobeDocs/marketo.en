@@ -3,6 +3,7 @@ unique-page-id: 14352525
 description: Email Marked as Spam - Marketo Docs - Product Documentation
 title: Email Marked as Spam
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
+feature: Marketo Sales Connect
 ---
 # Email Marked as Spam {#email-marked-as-spam}
 

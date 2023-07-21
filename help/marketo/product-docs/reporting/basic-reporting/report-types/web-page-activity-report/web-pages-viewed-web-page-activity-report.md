@@ -3,6 +3,7 @@ unique-page-id: 2360052
 description: Web Pages Viewed, Web Page Activity Report - Marketo Docs - Product Documentation
 title: Web Pages Viewed, Web Page Activity Report
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
+feature: Reporting
 ---
 # Web Pages Viewed, Web Page Activity Report {#web-pages-viewed-web-page-activity-report}
 

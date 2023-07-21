@@ -2,6 +2,7 @@
 description: Manage Groups - Marketo Docs - Product Documentation
 title: Manage Groups
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
+feature: Sales Insight Actions
 ---
 # Manage Groups {#manage-groups}
 

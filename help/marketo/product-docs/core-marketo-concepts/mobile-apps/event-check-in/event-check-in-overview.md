@@ -2,6 +2,7 @@
 description: Event Check-in Overview
 title: Event Check-in Overview
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
+feature: Mobile Marketing
 ---
 # Event Check-in Overview {#event-check-in-overview}
 

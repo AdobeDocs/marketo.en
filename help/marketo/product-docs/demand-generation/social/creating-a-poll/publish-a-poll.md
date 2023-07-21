@@ -3,6 +3,7 @@ unique-page-id: 2359770
 description: Publish a Poll - Marketo Docs - Product Documentation
 title: Publish a Poll
 exl-id: 5c603b84-5cd7-4604-9301-e6f277af8dc0
+feature: Social
 ---
 # Publish a Poll {#publish-a-poll}
 

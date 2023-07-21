@@ -3,6 +3,7 @@ unique-page-id: 12983291
 description: Understanding Recipient Time Zone - Marketo Docs - Product Documentation
 title: Understanding Recipient Time Zone
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
+feature: Email Programs
 ---
 # Understanding Recipient Time Zone {#understanding-recipient-time-zone}
 

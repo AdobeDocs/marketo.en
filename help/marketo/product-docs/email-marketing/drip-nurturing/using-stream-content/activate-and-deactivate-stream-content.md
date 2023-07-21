@@ -3,6 +3,7 @@ unique-page-id: 2359669
 description: Activate and Deactivate Stream Content - Marketo Docs - Product Documentation
 title: Activate and Deactivate Stream Content
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
+feature: Engagement Programs
 ---
 # Activate and Deactivate Stream Content {#activate-and-deactivate-stream-content}
 

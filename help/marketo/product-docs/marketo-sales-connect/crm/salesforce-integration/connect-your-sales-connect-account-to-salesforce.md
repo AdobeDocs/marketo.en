@@ -3,6 +3,7 @@ unique-page-id: 14352423
 description: Connect Your Sales Connect Account to Salesforce - Marketo Docs - Product Documentation
 title: Connect Your Sales Connect Account to Salesforce
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
+feature: Marketo Sales Connect
 ---
 # Connect Your Sales Connect Account to Salesforce {#connect-your-sales-connect-account-to-salesforce}
 

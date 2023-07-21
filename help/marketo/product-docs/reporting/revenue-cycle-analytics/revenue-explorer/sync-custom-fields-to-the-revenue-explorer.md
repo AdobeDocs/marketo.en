@@ -3,6 +3,7 @@ unique-page-id: 2360341
 description: Sync Custom Fields to the Revenue Explorer - Marketo Docs - Product Documentation
 title: Sync Custom Fields to the Revenue Explorer
 exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
+feature: "Reporting, Revenue Cycle Analytics"
 ---
 # Sync Custom Fields to the Revenue Explorer {#sync-custom-fields-to-the-revenue-explorer}
 

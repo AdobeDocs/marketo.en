@@ -3,6 +3,7 @@ unique-page-id: 11378041
 description: Delete a Branding Domain - Marketo Docs - Product Documentation
 title: Delete a Branding Domain
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
+feature: Email Setup
 ---
 # Delete a Branding Domain {#delete-a-branding-domain}
 

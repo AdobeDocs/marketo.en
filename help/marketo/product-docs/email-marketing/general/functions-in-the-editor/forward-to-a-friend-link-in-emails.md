@@ -3,6 +3,7 @@ unique-page-id: 1900581
 description: Forward to a Friend Link in Emails - Marketo Docs - Product Documentation
 title: Forward to a Friend Link in Emails
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
+feature: Email Editor
 ---
 # Forward to a Friend Link in Emails {#forward-to-a-friend-link-in-emails}
 

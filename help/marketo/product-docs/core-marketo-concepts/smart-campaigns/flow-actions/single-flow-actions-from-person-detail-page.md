@@ -4,6 +4,7 @@ title: Single Flow Actions from Person Detail Page
 hide: yes
 hidefromtoc: yes
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
+feature: Smart Campaigns
 ---
 # Single Flow Actions from Person Detail Page {#single-flow-actions-from-person-detail-page}
 

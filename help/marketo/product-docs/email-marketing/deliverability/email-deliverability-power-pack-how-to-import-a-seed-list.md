@@ -3,6 +3,7 @@ unique-page-id: 10099077
 description: Email Deliverability Power Pack -How to Import a Seed List - Marketo Docs - Product Documentation
 title: Email Deliverability Power Pack -How to Import a Seed List
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
+feature: Deliverability
 ---
 # Email Deliverability Power Pack: How to Import a Seed List {#email-deliverability-power-pack-how-to-import-a-seed-list}
 

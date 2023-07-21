@@ -3,6 +3,7 @@ unique-page-id: 10097199
 description: Release Notes -Winter '16 - Marketo Docs - Product Documentation
 title: Release Notes -Winter '16
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
+feature: Release Information
 ---
 # Release Notes: Winter '16 {#release-notes-winter}
 

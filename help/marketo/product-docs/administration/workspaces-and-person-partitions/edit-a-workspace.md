@@ -3,6 +3,7 @@ unique-page-id: 11380986
 description: Edit a Workspace - Marketo Docs - Product Documentation
 title: Edit a Workspace
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
+feature: Workspaces
 ---
 # Edit a Workspace {#edit-a-workspace}
 

@@ -3,6 +3,7 @@ unique-page-id: 4720314
 description: Sales Insight Email Performance Report - Marketo Docs - Product Documentation
 title: Sales Insight Email Performance Report
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
+feature: Marketo Sales Insights
 ---
 # Sales Insight Email Performance Report {#sales-insight-email-performance-report}
 

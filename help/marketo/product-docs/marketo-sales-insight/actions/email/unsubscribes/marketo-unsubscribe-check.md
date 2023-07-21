@@ -2,6 +2,7 @@
 description: Marketo Unsubscribe Check - Marketo Docs - Product Documentation
 title: Marketo Unsubscribe Check
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
+feature: Sales Insight Actions
 ---
 # Marketo Unsubscribe Check {#marketo-unsubscribe-check}
 

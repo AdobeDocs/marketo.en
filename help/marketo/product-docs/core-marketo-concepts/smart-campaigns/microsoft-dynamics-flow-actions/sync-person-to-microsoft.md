@@ -3,6 +3,7 @@ unique-page-id: 7514027
 description: Sync Person to Microsoft - Marketo Docs - Product Documentation
 title: Sync Person to Microsoft
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
+feature: "Smart Campaigns, Microsoft Dynamics"
 ---
 # Sync Person to Microsoft {#sync-person-to-microsoft}
 

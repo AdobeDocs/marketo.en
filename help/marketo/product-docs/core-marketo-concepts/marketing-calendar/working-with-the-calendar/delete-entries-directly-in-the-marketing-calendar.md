@@ -3,6 +3,7 @@ unique-page-id: 2953358
 description: Delete Entries Directly In the Marketing Calendar - Marketo Docs - Product Documentation
 title: Delete Entries Directly In the Marketing Calendar
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
+feature: Marketing Calendar
 ---
 # Delete Entries Directly In the Marketing Calendar {#delete-entries-directly-in-the-marketing-calendar}
 

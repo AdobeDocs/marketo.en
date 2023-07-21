@@ -3,6 +3,7 @@ unique-page-id: 2360225
 description: Filter Assets in an Email Report - Marketo Docs - Product Documentation
 title: Filter Assets in an Email Report
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
+feature: Reporting
 ---
 # Filter Assets in an Email Report {#filter-assets-in-an-email-report}
 

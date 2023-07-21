@@ -4,6 +4,7 @@ title: Setting an Event Cap
 hide: yes
 hidefromtoc: yes
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
+feature: Events
 ---
 # Setting an Event Cap {#setting-an-event-cap}
 

@@ -3,6 +3,7 @@ unique-page-id: 10099680
 description: Import Custom Object Data - Marketo Docs - Product Documentation
 title: Import Custom Object Data
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
+feature: Custom Objects
 ---
 # Import Custom Object Data {#import-custom-object-data}
 

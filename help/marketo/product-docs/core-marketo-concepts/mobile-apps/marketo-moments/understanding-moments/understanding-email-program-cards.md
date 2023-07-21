@@ -3,6 +3,7 @@ unique-page-id: 8781911
 description: Understanding Email Program Cards - Marketo Docs - Product Documentation
 title: Understanding Email Program Cards
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
+feature: Mobile Marketing
 ---
 # Understanding Email Program Cards {#understanding-email-program-cards}
 
