@@ -1,6 +1,7 @@
 ---
 description: Understanding Sales Campaign Send Options for Email Steps - Marketo Docs - Product Documentation
 title: Understanding Sales Campaign Send Options for Email Steps
+feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
 ---
 # Understanding Sales Campaign Send Options for Email Steps {#understanding-sales-campaign-send-options-for-email-steps}
