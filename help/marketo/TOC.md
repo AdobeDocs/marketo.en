@@ -394,7 +394,7 @@ feature-set: Marketo Engage
         + [Using Period Costs in a Program](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
       + Program Library {#program-library}
         + [Program Import Library Overview](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-        + [Consent Management Program Template](product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md)
+        + [Content Management Program Example](product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md)
       + Program Performance Report {#program-performance-report}
         + [Create a Program Performance Report](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
         + [Add Program Status Columns to a Program Report](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
@@ -479,10 +479,10 @@ feature-set: Marketo Engage
       + [Understanding Folders](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
       + [Understanding Notifications](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
       + [Notification Types](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-    + Not Journeys {#not-journeys}
-      + [Name Overview](product-docs/core-marketo-concepts/not-journeys/name-overview.md)
-      + [Name Tab](product-docs/core-marketo-concepts/not-journeys/name-tab.md)
-      + [Settings Tab](product-docs/core-marketo-concepts/not-journeys/settings-tab.md)
+    + Engagement Canvas {#engagement-canvas}
+      + [Engagement Canvas Overview](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-overview.md)
+      + [Engagement Canvas Tab](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md)
+      + [Settings Tab](product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md)
     + Predictive Audiences {#predictive-audiences}
       + [Getting Started with Predictive Audiences](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
       + [Models and Insights](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
@@ -734,6 +734,7 @@ feature-set: Marketo Engage
       + [Delete an Uploaded Image or File](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
       + [Find the URL of an Uploaded Image or File](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
       + [Grab the Images from a Web Page](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
+      + [Image Editor](product-docs/demand-generation/images-and-files/image-editor.md)
       + [Organize Your Images and Files Using Folders](product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
       + [Replace an Uploaded Image or File](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
       + [Search Uploaded Images and Files](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
@@ -1303,7 +1304,6 @@ feature-set: Marketo Engage
           + [Add or Update Your Email Signature](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
           + [Add Identity](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
       + Admin {#admin}
-        + [Actions Data Sync FAQ](product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md)
         + [Auto-login from Salesforce](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
         + [Blocked Domains](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
         + [Connect New Admin to Marketo](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
@@ -1313,6 +1313,7 @@ feature-set: Marketo Engage
         + [Invite Users and Admins](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
         + [Login Management Settings](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
         + [Sharing Settings](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+        + [Sync Sales Action Data with Marketo and Salesforce](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
         + [User Access Details](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
       + Analytics {#analytics}
         + [Analytics Page Overview](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
@@ -1325,7 +1326,6 @@ feature-set: Marketo Engage
         + [Campaign Has Ended](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
         + [Create a Sales Campaign](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
         + [Sales Campaign Settings](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
-        + [Sales Campaign Send Options for Email Steps](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
         + [Sales Campaign Step Types and Reminder Tasks](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
         + [Understanding Sales Campaign Send Options for Email Steps](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
         + [View Campaigns List as Another User](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
@@ -1338,12 +1338,18 @@ feature-set: Marketo Engage
           + [Disconnect Salesforce From Sales Insight Actions](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
           + [Reply Logging](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
           + [Salesforce Diagnostics](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
-          + [Salesforce Sync Settings](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
-        + Salesforce Configuration {#salesforce-configuration}
-          + [Logging Sales Activity Attributes to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/logging-sales-activity-attributes-to-salesforce.md)
-          + [Sales Insight Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
-          + [Uninstall Salesforce Classic Customization Package](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-          + [Uninstall Salesforce Lightning Customization Package](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
+          + [Set up a Sales Insight Actions Sandbox](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
+          + [Sync Sales Activities to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
+        + Salesforce Package Configuration {#salesforce-package-configuration}
+          + [Sales Insight Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
+          + [Logging Sales Activity Attributes to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
+          + [Uninstall Marketo Sales Connect from Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
+          + [Uninstall Marketo Sales Connect from Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
+          + [Add Action Buttons to Salesforce List View](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
+          + [Update Activity Type Field When Logging Activities to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
+        + Actions in Salesforce {#actions-in-salesforce}
+          + [Using Bulk Send Sales Email in Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
+          + [Using Bulk Add to Sales Campaign in Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
       + Email {#email}
         + Command Center {#command-center}
           + [Advanced Search Overview](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1366,10 +1372,16 @@ feature-set: Marketo Engage
           + [Composing Bulk Emails with Select and Send](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
           + [Sending Emails via Group Email](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
           + [Using a Template in the Compose Window](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+      + Email Integrations {#email-integrations}
+        + Gmail {#gmail}
+          + [Connect to Gmail](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
+        + Outlook {#outlook}
+          + [Connect to Outlook](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
       + FAQ {#faq}
         + [Can I Recover a Contact or Group I Deleted?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
         + [Can I Track Multiple Recipients with CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
         + [Content and File Attachment FAQ](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
+        + [Do Views, Clicks, and Replies from the Recipients Listed in the CC and BCC Section of the Email Get Tracked?](product-docs/marketo-sales-insight/actions/faq/do-views-clicks-and-replies-from-cc-and-bcc-get-tracked.md)
         + [Does Sales Insight Actions Have an iPhone or Android App?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
         + [How Can I Allowlist Sales Insight Actions on My Server?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
         + [How Do I Fix "We Were Unable to Authenticate Your Request" When Connecting to Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1382,8 +1394,11 @@ feature-set: Marketo Engage
         + [What Are the Sales Insight Actions Terms of Service?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
         + [Why Aren't Any of My Contacts Getting Pushed to Sales Insight Actions?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
         + [Why Aren't My Dynamic Fields Filling Out?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
+        + [Why Aren't My Sales Activities and Activity Fields Syncing to Salesforce? ](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
         + [Why Can't I Delete a Contact?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
         + [Why Didn't All of My Contacts Get Pushed to Sales Insight Actions?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
+        + [Why Do My Emails Get Marked as Spam?](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
+        + [Why Has My Campaign Ended?](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
         + [Why Is Tracking Activity Not Showing in Salesforce Activity?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
       + Integrations {#integrations}
         + [Highspot Integration](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
@@ -1418,6 +1433,7 @@ feature-set: Marketo Engage
       + Templates {#templates}
         + [Add Hyperlinked Text](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
         + [Dynamic Fields](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
+        + [Field Prompts](product-docs/marketo-sales-insight/actions/templates/field-prompts.md)
         + [Manage Templates](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
         + [Manage Template Categories](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
         + [Recommended Templates](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)
@@ -1889,6 +1905,7 @@ feature-set: Marketo Engage
     + 2023 {#2023}
       + [Release Notes: January '23](release-notes/previous-releases/2023/release-notes-jan-23.md)
       + [Release Notes: March '23](release-notes/previous-releases/2023/release-notes-mar-23.md)
+      + [Release Notes: May '23](release-notes/previous-releases/2023/release-notes-may-23.md)
     + 2022 {#2022}
       + [Release Notes: January '22](release-notes/previous-releases/2022/release-notes-jan-22.md)
       + [Release Notes: March '22](release-notes/previous-releases/2022/release-notes-mar-22.md)
