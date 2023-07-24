@@ -166,3 +166,5 @@ There are two enhancements coming to Marketo Engage Real-Time Personalization.
 >Please partner with your Web Development team to determine if your site is loading your own JQuery Library or utilizing the default version loaded from the Web Personalization RTP JavaScript Tag.
 
 * **Upgrade to Google Analytics 4**: Marketo previously supported Universal Analytics, which will stop recording data by July 1, 2023. RTP users will need to follow the migration process in their Google Analytics dashboard to complete support for the Google Analytics 4 integration in RTP. Going forward, users will have a unique alphanumeric tag (located within the `<head>` section of the html) in their landing pages that allows Marketo to send data to Google Analytics.
+
+* **_Product Release Webinar_**: Join us on September 6, 2023, at 9:00 AM PT / 12:00 PM ET for a [live webinar](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} hosted by our Product Team where you'll see how to use all of the latest product innovations.
