@@ -1,12 +1,11 @@
 ---
-description: Uninstall Salesforce Classic Customization Package - Marketo Docs - Product Documentation
-title: Uninstall Salesforce Classic Customization Package
+description: Uninstall Marketo Sales Connect from Salesforce Classic - Marketo Docs - Product Documentation
+title: Uninstall Marketo Sales Connect from Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-feature: Sales Insight Actions
 ---
-# Uninstall Salesforce Classic Customization Package {#uninstall-salesforce-classic-customization-package}
+# Uninstall Marketo Sales Connect from Salesforce Classic {#uninstall-marketo-sales-connect-from-salesforce-classic}
 
-Uninstall the Marketo Sales Connect package from your Salesforce account once you start using the MSI Actions package.  
+Here's how to uninstall the Marketo Sales Connect package from your Salesforce account once you start using Sales Insight Actions.
 
 ## Remove Sales Connect fields from Page Layout {#remove-sales-connect-fields-from-page-layout}
 
@@ -72,7 +71,7 @@ Uninstall the Marketo Sales Connect package from your Salesforce account once yo
    >
    >The abbrevation MSE _is_ Sales Connect. It's just the previous name, "Marketo Sales Engage."
 
-1. Click **Save** when you’re done with the Leads page.
+1. Click **Save** when you're done with the Leads page.
 
 ## Remove Sales Connect Bulk Action Buttons from Lead List View {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 
@@ -110,7 +109,7 @@ You should no longer see the buttons on the lead list view.
 
 1. Repeat steps from all three sections.
 
-Opportunity view has only one button – “Send MSE Email” and the following fields:
+Opportunity view has only one button – "Send MSE Email" and the following fields:
 
    ![](assets/uninstall-salesforce-classic-customization-package-15.png)
 
@@ -124,7 +123,7 @@ Opportunity view has only one button – “Send MSE Email” and the following 
 
 1. Repeat steps from all three sections.
 
-Account view has only one button – “Send MSE Email” and the following fields:
+Account view has only one button – "Send MSE Email" and the following fields:
 
    ![](assets/uninstall-salesforce-classic-customization-package-16.png)
 
@@ -138,17 +137,17 @@ Account view has only one button – “Send MSE Email” and the following fiel
 
 ## Delete Sales Connect Package {#delete-sales-connect-package}
 
-Once you’ve removed all the objects from your Salesforce Account, follow the steps below.
+Once you've removed all the objects from your Salesforce Account, follow the steps below.
 
 1. In Salesforce, click **Setup**.
 
 1. In the Quick Find box, enter "Apex Classes."
 
-1. Click **Delete** next to all “MarketoSalesConnectionCustomization” or “MarketoSalesEngageCustomization” entries on your list.  
+1. Click **Delete** next to all "MarketoSalesConnectionCustomization" or "MarketoSalesEngageCustomization" entries on your list.  
 
-You’re all set!  
+You're all set!  
 
-Here’s a list of all the objects that need to be removed from your Salesforce instance:
+Here's a list of all the objects that need to be removed from your Salesforce instance:
 
 ## Sales Connect Customization Details {#sales-connect-customization-details}
 

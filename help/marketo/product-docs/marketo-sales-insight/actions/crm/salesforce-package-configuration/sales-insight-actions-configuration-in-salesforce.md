@@ -2,7 +2,6 @@
 description: Sales Insight Actions Configuration in Salesforce - Marketo Docs - Product Documentation
 title: Sales Insight Actions Configuration in Salesforce
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-feature: Sales Insight Actions
 ---
 # Sales Insight Actions Configuration in Salesforce {#sales-insight-actions-configuration-in-salesforce}
 
