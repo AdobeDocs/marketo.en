@@ -7,21 +7,21 @@ feature: Field Management
 ---
 # Block Updates to a Field {#block-updates-to-a-field}
 
-Blocking updates to a field allows you to write to the field once and then retain the original value for the lifetime of the field. This can be useful for a field like Person Source.
+Blocking updates to a field allows you to write to the field once and then retain the original value for the lifetime of the field. This can be useful for a field like [!UICONTROL Person Source].
 
 >[!NOTE]
 >
 >**Admin Permissions Required**
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/block-updates-to-a-field-1.png)
 
-1. Click **Field Management**.
+1. Click **[!UICONTROL Field Management]**.
 
    ![](assets/block-updates-to-a-field-2.png)
 
-1. Find the field, select it, then under **Field Actions**, click **Block Field Updates**.
+1. Find the field, select it, then under **[!UICONTROL Field Actions]**, click **[!UICONTROL Block Field Updates]**.
 
    ![](assets/block-updates-to-a-field-3.png)
 
@@ -29,7 +29,7 @@ Blocking updates to a field allows you to write to the field once and then retai
    >
    >You can block updates to [Program Member Custom Fields](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md) as well.
 
-1. Select the **Input Sources** you want to block and click **Apply**.
+1. Select the **[!UICONTROL Input Sources]** you want to block and click **[!UICONTROL Apply]**.
 
    ![](assets/block-updates-to-a-field-4.png)
 

@@ -22,7 +22,7 @@ Workspaces are separate areas in Marketo that hold marketing assets like program
 >Some reasons you might use a workspace:
 >
 >* Geography: Europe, Asia and North America marketing departments each get a workspace
->* Business Unit: Quicken, Quickbooks and TurboTax each get a workspace
+>* Business Unit: [!DNL Quicken], [!DNL Quickbooks] and [!DNL TurboTax] each get a workspace
 >
 >In each case, the separation is because the marketing assets are completely different. If they share marketing assets, then workspaces may not be the right tool for you.
 
@@ -38,15 +38,15 @@ Here's how to share assets across workspaces. It works the same for anything you
 >
 >The parent folder containing your assets is the only folder that can be shared, not the children folders.
 
-1. Click Database.
+1. Click **[!UICONTROL Database]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Right-click on the Segmentation folder and click **New Folder**.
+1. Right-click on the Segmentation folder and click **[!UICONTROL New Folder]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. Name your folder and click **Create**.
+1. Name your folder and click **[!UICONTROL Create]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
@@ -54,11 +54,11 @@ Here's how to share assets across workspaces. It works the same for anything you
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. Right-click the folder and select **Share Folder**.
+1. Right-click the folder and select **[!UICONTROL Share Folder]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. Select the workspace(s) you want to share the folder with and click **Save**. The Share Folder dialog box will only display workspaces you have permission to view.
+1. Select the workspace(s) you want to share the folder with and click **[!UICONTROL Save]**. The Share Folder dialog box will only display workspaces you have permission to view.
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 

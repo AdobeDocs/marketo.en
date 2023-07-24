@@ -17,19 +17,19 @@ Workspaces can be for any reason (such as business unit or geography separation)
 >
 >Learn more about [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/allow-user-access-to-a-workspace-1.png) 
 
-1. Click **Users & Roles**.
+1. Click **[!UICONTROL Users & Roles]**.
 
    ![](assets/allow-user-access-to-a-workspace-2.png)
 
-1. Under the **Users** tab, select the user and click **Edit User**.
+1. Under the **[!UICONTROL Users]** tab, select the user and click **[!UICONTROL Edit User]**.
 
    ![](assets/allow-user-access-to-a-workspace-3.png)
 
-1. Select the **Role and Workspace** you want the user to have access to.
+1. Select the **[!UICONTROL Roles and Workspaces]** you want the user to have access to.
 
    ![](assets/allow-user-access-to-a-workspace-4.png)
 

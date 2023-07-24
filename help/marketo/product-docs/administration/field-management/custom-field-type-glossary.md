@@ -19,7 +19,7 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 >[!NOTE]
 >
->Most fields don’t max out at number of characters, but instead at amount of bytes. Because of that, we’re unable to provide a definitive character limit for each field. The exception is **String**, which maxes out at 255 characters.
+>Most fields don't max out at number of characters, but instead at amount of bytes. Because of that, we're unable to provide a definitive character limit for each field. The exception is **String**, which maxes out at 255 characters.
 
 ## Boolean {#boolean}
 
@@ -101,7 +101,7 @@ When you create a custom field in Marketo you have a list of types to choose fro
 
 ## Score {#score}
 
-**Example Name:** Behavioral Score / Demographic Score - create multiple score fields to keep track of different attributes.
+**Example Name:** Behavioral Score / Demographic Score - create multiple score fields to keep track of different attributes
 
 **Example Value:** 14
 

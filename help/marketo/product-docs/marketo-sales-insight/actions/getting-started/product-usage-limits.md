@@ -6,7 +6,11 @@ feature: Sales Insight Actions
 ---
 # Product Usage Limits {#product-usage-limits}
 
-The following limits are in place for usage of expanded sales engagement capabilities available with Sales Insight Actions.
+Below you'll find the limits in place for usage of expanded sales engagement capabilities available with Sales Insight Actions.
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions is a web-based application that integrates with the Salesforce user interface via the [Marketo Sales Insight package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. It is sometimes referred to as "Marketo Sales," or simply "Actions."
 
 <table>
   <th>Functionality</th>

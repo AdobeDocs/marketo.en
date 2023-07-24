@@ -50,15 +50,15 @@ Once you have these personas set up (_and_ you use workspaces), you will want to
 
 ## Share a Segmentation {#share-a-segmentation}
 
-1. Go to the **Database**.
+1. Go to the **[!UICONTROL Database]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. Right-click **Segmentations** and select **New Folder**.
+1. Right-click **[!UICONTROL Segmentations]** and select **[!UICONTROL New Folder]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Name the folder you're going to share across workspaces (example: Share Segmentations) and click **Create**.
+1. Name the folder you're going to share across workspaces (example: Share Segmentations) and click **[!UICONTROL Create]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
@@ -66,11 +66,11 @@ Once you have these personas set up (_and_ you use workspaces), you will want to
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. Right-click the folder and select **Share Folder**.
+1. Right-click the folder and select **[!UICONTROL Share Folder]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
-1. Select the workspace(s) you want to share the folder with. Click **Save**.
+1. Select the workspace(s) you want to share the folder with. Click **[!UICONTROL Save]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 

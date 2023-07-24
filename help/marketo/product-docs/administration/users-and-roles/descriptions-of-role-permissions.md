@@ -28,8 +28,8 @@ View and make changes to settings in the My Account section of Admin.
 * Access Audit Trail - Gives users access to both Asset Audit Trail and Admin Audit Trail
 * Access Channels - Gives users access only to modify the Channel tag, not other custom tags
 * Access Communication Limit - Gives users access to enable a communication limit in Admin
-* Access CRM - Gives users access to the CRM, such as Salesforce or Microsoft Dynamics, in Admin
-* Access [Data.com](https://Data.com) - Gives users access to the Data.com flow action
+* Access CRM - Gives users access to the CRM, such as [!DNL Salesforce] or [!DNL Microsoft Dynamics], in Admin
+* Access [[!DNL Data.com]](https://Data.com) - Gives users access to the Data.com flow action
 * Access Email Admin - Gives users to Email Admin, to change default settings, such as unsubscribe and branding domains
 * Access Event Partners - Gives users access to LaunchPoint in Admin 
 * Access Field Management - Gives users access to Field Management in Admin
@@ -40,7 +40,7 @@ View and make changes to settings in the My Account section of Admin.
 * Access Login Settings - Gives users access to Login Settings in Admin for Security, IP Restrictions, and Smart List Report settings
 * Access Marketo Custom Activity - Gives users access to Marketo Custom Activities in Admin
 * Access Marketo Custom Object - Gives users access to Marketo Custom Objects in Admin
-* Access Munchkin - GIves users access to Munchkin in Admin, for setting tracking code, person tracking, and enabling API configuration
+* Access [!DNL Munchkin] - GIves users access to [!DNL Munchkin] in Admin, for setting tracking code, person tracking, and enabling API configuration
 * Access Revenue Cycle Analytics - Gives users access to Revenue Cycle Analytics in Admin, for setting Sync Summary and Attribution
 * Access Roles - Gives users access to manage and edit roles, but not users
 * Access Sales Insight - Gives users access to manage Sales Insight in Admin, for setting Status, API Configuration, Person Scoring, and other settings

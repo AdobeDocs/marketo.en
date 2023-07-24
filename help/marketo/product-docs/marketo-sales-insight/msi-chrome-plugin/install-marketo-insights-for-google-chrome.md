@@ -11,6 +11,10 @@ Follow these steps to begin using the powerful Chrome add-in.
 
 >[!NOTE]
 >
+>Sales Insight Actions capabilities, including Send Sales Email, Add to Sales Campaign, and Tasks, are not available in the Sales Insight email plugins for Gmail and Outlook. At this time, users only have the ability to send a trackable email with or without a Marketo email template from their email client when using the Sales Insight email plugins.
+
+>[!NOTE]
+>
 >You do not need to be a Marketo admin to install the extension.
 
 1. Install the [Marketo Insights for Google Chrome Add in extension](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) from the Chrome Web Store.

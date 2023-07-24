@@ -17,6 +17,6 @@ If you're looking to delete a filter in the Marketing Calendar, you've come to t
 
    ![](assets/image2014-9-24-11-3a27-3a36.png)
 
-1. Click **Delete** to confirm.
+1. Click **[!UICONTROL Delete]** to confirm.
 
    ![](assets/image2014-9-24-11-3a27-3a42.png)

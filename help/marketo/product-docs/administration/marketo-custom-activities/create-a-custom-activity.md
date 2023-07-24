@@ -13,19 +13,19 @@ Follow these steps to create a new custom activity.
 >
 >Most subscriptions have an allocated limit of 10 Custom Activity types.
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/create-a-custom-activity-1.png)
 
-1. Click **Marketo Custom Activities**.
+1. Click **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/create-a-custom-activity-2.png)
 
-1. Click **New Custom Activity**.
+1. Click **[!UICONTROL New Custom Activity]**.
 
    ![](assets/create-a-custom-activity-3.png)
 
-1. Enter a name and optional description, then click **Next**. The API Name auto-fills, but can be customized.
+1. Enter a name and optional [!UICONTROL Description], then click **[!UICONTROL Next]**. The API Name auto-fills, but can be customized.
 
    ![](assets/create-a-custom-activity-4.png)
 
@@ -33,7 +33,7 @@ Follow these steps to create a new custom activity.
    >
    >If you decide to change the API name, make sure the name does not conflict with fields in other custom activities.
 
-1. Define your **Filter** and **Trigger** and click **Next**.
+1. Define your [!UICONTROL Filter] and [!UICONTROL Trigger] and click **[!UICONTROL Next]**.
 
    ![](assets/create-a-custom-activity-5.png)
 

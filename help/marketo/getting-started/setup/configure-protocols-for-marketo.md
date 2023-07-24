@@ -63,14 +63,23 @@ When your Marketing group uses Marketo to send test emails (a best practice befo
 
 Add these IP addresses to your corporate allowlist:
 
-199.15.212.0/22  
-192.28.144.0/20
-192.28.160.0/19  
-185.28.196.0/22  
-130.248.172.0/24  
-130.248.173.0/24  
-103.237.104.0/22  
 94.236.119.0/26
+
+103.237.104.0/22
+
+130.248.172.0/24
+
+130.248.173.0/24
+
+130.248.244.88/29
+
+185.28.196.0/22
+
+192.28.144.0/20
+
+192.28.160.0/19
+
+199.15.212.0/22
 
 Some anti-spam systems use the email Return-Path field instead of the IP address for allowisting. In those cases, the best approach is to allowlist '&#42;.mktomail.com', as Marketo uses several mailbox subdomains. Other anti-spam systems allowlist based on the From address. In these situations, be sure to include all the sending ('From') domains that your Marketing group uses to communicate with people/leads.
 
@@ -126,16 +135,10 @@ The following tables cover all Marketo Engage servers that make outbound calls. 
    <th>IP Block (CIDR Notation)</th>
   </tr>
   <tr>
-   <td>192.28.144.0/20</td>
+   <td>94.236.119.0/26</td>
   </tr>
-   <tr>
-   <td>192.28.160.0/19</td>
-  </tr>
-   <tr>
-   <td>199.15.212.0/22</td>
-  </tr>
-   <tr>
-   <td>185.28.196.0/22</td>
+  <tr>
+   <td>103.237.104.0/22</td>
   </tr>
    <tr>
    <td>130.248.172.0/24</td>
@@ -144,10 +147,19 @@ The following tables cover all Marketo Engage servers that make outbound calls. 
    <td>130.248.173.0/24</td>
   </tr>
   <tr>
-   <td>103.237.104.0/22</td>
+   <td>130.248.244.88/29</td>
   </tr>
   <tr>
-   <td>94.236.119.0/26</td>
+   <td>185.28.196.0/22</td>
+  </tr>
+  <tr>
+   <td>192.28.144.0/20</td>
+  </tr>
+  <tr>
+   <td>192.28.160.0/19</td>
+  </tr>
+  <tr>
+   <td>199.15.212.0/22</td>
   </tr>
  </tbody>
 </table>

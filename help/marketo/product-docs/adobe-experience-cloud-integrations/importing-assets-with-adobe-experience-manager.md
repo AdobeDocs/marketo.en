@@ -7,7 +7,7 @@ feature: Integrations
 ---
 # Importing Assets with Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
-The Asset Selector allows Marketo customers to access, select, and import AEM assets into Marketo's Design Studio. **Admin permissions are required**.
+The Asset Selector allows Marketo customers to access, select, and import AEM assets into the Marketo [!DNL Design Studio]. **Admin permissions are required**.
 
 >[!AVAILABILITY]
 >
@@ -19,13 +19,13 @@ The Asset Selector allows Marketo customers to access, select, and import AEM as
 
 >[!IMPORTANT]
 >
->Currently, this feature is only fully supported in Firefox. It is not supported in Safari, and it might not work in the latest version of Chrome, depending on your SameSite cookie settings.
+>Currently, this feature is only fully supported in [!DNL Firefox]. It is not supported in [!DNL Safari], and it might not work in the latest version of [!DNL Chrome], depending on your [!DNL SameSite] cookie settings.
 
-1. Click **Design Studio**.
+1. Click **[!UICONTROL Design Studio]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
-1. Click the New drop-down and select **Import from Adobe Experience Manager**.
+1. Click the New drop-down and select **[!UICONTROL Import from Adobe Experience Manager]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
@@ -37,7 +37,7 @@ The Asset Selector allows Marketo customers to access, select, and import AEM as
 
    ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
-1. Choose your folder. Then select your desired images by clicking on the thumbnail (you can choose up to 10). Click **Select** when done.
+1. Choose your folder. Then select your desired images by clicking on the thumbnail (you can choose up to 10). Click **[!UICONTROL Select]** when done.
 
    ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -45,11 +45,11 @@ The Asset Selector allows Marketo customers to access, select, and import AEM as
    >
    >Images cannot exceed 100MB in size.
 
-1. Click **Import** to complete the process.
+1. Click **[!UICONTROL Import]** to complete the process.
 
    ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
-   And that's it! Click **Close** to return to the Design Studio.
+   And that's it! Click **[!UICONTROL Close]** to return to the Design Studio.
 
    ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
@@ -59,4 +59,4 @@ The Asset Selector allows Marketo customers to access, select, and import AEM as
 
 * All users in your instance will be able to view/access the images you import.
 
-* Images are not automatically updated. If an image you imported into the Marketo Design Studio is updated in AEM, you must manually re-import it into Marketo.
+* Images are not automatically updated. If an image you imported into the Marketo [!DNL Design Studio] is updated in AEM, you must manually re-import it into Marketo.

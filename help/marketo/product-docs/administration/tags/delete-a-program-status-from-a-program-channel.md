@@ -9,19 +9,19 @@ feature: Tags
 
 Program statuses are the checkpoints through a programs path (channel). If you make a status by mistake or no longer need it, feel free to delete it.
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/delete-a-program-status-from-a-program-channel-1.png)
 
-1. Click **Tags**.
+1. Click **[!UICONTROL Tags]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-2.png)
 
-1. Select the channel you want to remove a status from, then under **Tag Actions**, click **Edit**.
+1. Select the channel you want to remove a status from, then under **[!UICONTROL Tag Actions]**, click **[!UICONTROL Edit]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-3.png)
 
-1. Click the red **X** to remove the status, then click **Save**.
+1. Click the red **X** to remove the status, then click **[!UICONTROL Save]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-4.png)
 

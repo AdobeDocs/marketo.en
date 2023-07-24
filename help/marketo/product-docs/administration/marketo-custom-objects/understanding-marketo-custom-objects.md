@@ -37,11 +37,11 @@ Many-to-many custom objects use two link fields, part of an intermediary object.
 
 ## Accessing Marketo Custom Objects {#accessing-marketo-custom-objects}
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. Click **Marketo Custom Objects**.
+1. Click **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
@@ -63,17 +63,17 @@ Many-to-many custom objects use two link fields, part of an intermediary object.
 
 ## View Custom Objects Associated to a Person {#view-custom-objects-associated-to-a-person}
 
-After you've created the custom object structure, when you upload the specific custom object data, the custom objects are automatically associated to people in the database using the link field in the custom object. You can view information from the Custom Objects tab on the person details page.
+After you've created the custom object structure, when you upload the specific custom object data, the custom objects are automatically associated to people in the database using the link field in the custom object. You can view information from the [!UICONTROL Custom Objects] tab on the person details page.
 
-1. Go to **Database**.
+1. Go to **[!UICONTROL Database]**.
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. Open your database and click the **People** tab. Double-click the record for a person you associated to a custom object.
+1. Open your database and click the **[!UICONTROL People]** tab. Double-click the record for a person you associated to a custom object.
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. On the person detail page, click the **Custom Objects** tab. Select the object from the drop-down.
+1. On the person detail page, click the **[!UICONTROL Custom Objects]** tab. Select the object from the drop-down.
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 

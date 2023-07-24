@@ -13,15 +13,15 @@ feature: Field Management
 
 You may want to get rid of a field you created in the past if you no longer have a use for it. Unfortunately you can't delete fields in Marketo, but you _can_ hide them from the user interface.
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/delete-a-custom-field-in-marketo-1.png)
 
-1. Click **Field Management**.
+1. Click **[!UICONTROL Field Management]**.
 
    ![](assets/delete-a-custom-field-in-marketo-2.png)
 
-1. Click the **Field Actions** drop-down and select **Hide Field**.
+1. Click the **[!UICONTROL Field Actions]** drop-down and select **[!UICONTROL Hide Field]**.
 
    ![](assets/delete-a-custom-field-in-marketo-3.png)
 

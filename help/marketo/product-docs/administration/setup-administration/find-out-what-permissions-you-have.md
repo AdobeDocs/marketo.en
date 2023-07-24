@@ -9,11 +9,11 @@ feature: Administration
 
 If you're wondering what permissions you have or don't have in Marketo, there's an easy way for you to find out.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/find-out-what-permissions-you-have-1.png)
 
-1. Click **Full Access** to see the permissions you have.
+1. Click **[!UICONTROL Full Access]** to see the permissions you have.
 
    ![](assets/find-out-what-permissions-you-have-2.png)
 

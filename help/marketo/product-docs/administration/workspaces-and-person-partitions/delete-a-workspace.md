@@ -15,18 +15,18 @@ feature: Workspaces
 >
 >You are not able to delete the Default workspace in Marketo.
 
-1. Go to the **Admin** area. 
+1. Go to the **[!UICONTROL Admin]** area. 
 
    ![](assets/delete-a-workspace-1.png)
 
-1. Click **Workspaces & Partitions**.
+1. Click **[!UICONTROL Workspaces & Partitions]**.
 
    ![](assets/delete-a-workspace-2.png)
 
-1. Select a workspace and click **Delete Workspace**.
+1. Select a workspace and click **[!UICONTROL Delete Workspace]**.
 
    ![](assets/delete-a-workspace-3.png)
 
-1. Confirm the number of assets you're about to delete (it's listed for you next to "total assets"), select the **Cannot Undo** checkbox, then click **Delete**.
+1. Confirm the number of assets you're about to delete (it's listed for you next to "[!UICONTROL total assets]"), select the **[!UICONTROL Cannot Undo]** checkbox, then click **[!UICONTROL Delete]**.
 
    ![](assets/delete-a-workspace-4.png)

@@ -8,6 +8,10 @@ feature: Sales Insight Actions
 
 Add an identity when you have multiple email addresses to send from.
 
+>[!NOTE]
+>
+>Using multiple identities is not supported with Gmail or Outlook/Exchange delivery channels. Gmail and Outlook/Exchange authenticate on a user level, so only emails from the email address connected will send. To use multiple identities with different email addresses, you'll need to connect a third-party SMTP provider (email delivery channel) that allows you to register email domains to send from. This allows users to connect to the SMTP delivery channel and send from any email address as long as they are a registered domain.
+
 1. Click the Settings icon.
 
    ![](assets/add-identity-1.png)

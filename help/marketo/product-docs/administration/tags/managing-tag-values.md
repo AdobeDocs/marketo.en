@@ -19,31 +19,31 @@ feature: Tags
 
 ## Adding Tag Values {#adding-tag-values}
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/managing-tag-values-1.png)
 
-1. Click **Tags**.
+1. Click **[!UICONTROL Tags]**.
 
    ![](assets/managing-tag-values-2.png)
 
-1. Click **New**, then **New Tag Value**.
+1. Click **[!UICONTROL New]**, then **[!UICONTROL New Tag Value]**.
 
    ![](assets/managing-tag-values-3.png)
 
-1. Select the **Tag Type**.
+1. Select the **[!UICONTROL Tag Type]**.
 
    ![](assets/managing-tag-values-4.png)
 
-1. Enter a **Value** and click **Add Another**. You can add as many values as you'd like.
+1. Enter a **[!UICONTROL Value]** and click **[!UICONTROL Add Another]**. You can add as many values as you'd like.
 
    ![](assets/managing-tag-values-5.png)
 
-1. Add the remaining values and click **Create**.
+1. Add the remaining values and click **[!UICONTROL Create]**.
 
    ![](assets/managing-tag-values-6.png)
 
-1. You should see the changes immediately!
+You should see the changes immediately!
 
    ![](assets/managing-tag-values-7.png)
 
@@ -51,11 +51,11 @@ feature: Tags
 
 Tags might be used by old programs. You can deprecate them for future use by hiding the tag type.
 
-1. Select the **Tag** and select the **Value** you want to hide.
+1. Select the **[!UICONTROL Tag]** and select the **[!UICONTROL Value]** you want to hide.
 
    ![](assets/managing-tag-values-8.png)
 
-1. Under **Tag Actions**, select **Hide**.
+1. Under **[!UICONTROL Tag Actions]**, select **[!UICONTROL Hide]**.
 
    ![](assets/managing-tag-values-9.png)
 
@@ -63,7 +63,7 @@ Tags might be used by old programs. You can deprecate them for future use by hid
 
 If you want to see your hidden values again, do the following:
 
-1. Select the Show Hidden box. Once checked, you can see the hidden value.
+1. Select the **[!UICONTROL Show Hidden]** checkbox. Once checked, you can see the hidden value.
 
    ![](assets/managing-tag-values-10.png)
 

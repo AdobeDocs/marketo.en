@@ -8,7 +8,7 @@ feature: Marketo with Adobe Identity
 
 ## Add a User {#add-a-user}
 
-1. Log in to the [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Log in to the [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-user-1.png)
 
@@ -20,11 +20,11 @@ feature: Marketo with Adobe Identity
 
    ![](assets/add-or-remove-a-user-3.png)
 
-1. Click the **Users** tab.
+1. Click the **[!UICONTROL Users]** tab.
 
    ![](assets/add-or-remove-a-user-4.png)
 
-1. Click the **Add User** button.
+1. Click the **[!UICONTROL Add User]** button.
 
    ![](assets/add-or-remove-a-user-5.png)
 
@@ -38,9 +38,9 @@ feature: Marketo with Adobe Identity
 
    >[!IMPORTANT]
    >
-   >A user **must** be added to a product profile in order to get access to Marketo Engage.
+   >A user _must_ be added to a product profile in order to get access to Marketo Engage.
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/add-or-remove-a-user-8.png)
 
@@ -48,11 +48,11 @@ The user will then receive an email to sign in to Marketo Engage.
 
 >[!NOTE]
 >
->When the user is added to Marketo Engage via the Adobe Admin Console, they're granted the "Standard User" role within the Default workspace of the subscription. If the user’s role within the workspace needs to be adjusted, that's done in Marketo Engage, [as described here](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>When the user is added to Marketo Engage via the Adobe Admin Console, they're granted the "Standard User" role within the Default workspace of the subscription. If the user's role within the workspace needs to be adjusted, that's done in Marketo Engage, [as described here](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 ## Remove a User {#remove-a-user}
 
-1. Log in to the [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Log in to the [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-user-9.png)
 
@@ -64,15 +64,15 @@ The user will then receive an email to sign in to Marketo Engage.
 
    ![](assets/add-or-remove-a-user-11.png)
 
-1. Click the **Users** tab.
+1. Click the **[!UICONTROL Users]** tab.
 
    ![](assets/add-or-remove-a-user-12.png)
 
-1. Select the user you want to remove and click the **Remove** button.
+1. Select the user you want to remove and click the **[!UICONTROL Remove]** button.
 
    ![](assets/add-or-remove-a-user-13.png)
 
-1. Click **Remove User** to confirm.
+1. Click **[!UICONTROL Remove User]** to confirm.
 
    ![](assets/add-or-remove-a-user-14.png)
 
@@ -80,5 +80,5 @@ The user will then receive an email notifying them they no longer have access to
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console Users](https://helpx.adobe.com/enterprise/using/users.html)
->* [Manage Users Individually](https://helpx.adobe.com/enterprise/using/manage-users-individually.html)
+>* [Adobe Admin Console Users](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [Manage Users Individually](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}

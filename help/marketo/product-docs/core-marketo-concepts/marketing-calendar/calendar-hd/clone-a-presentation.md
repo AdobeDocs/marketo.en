@@ -13,11 +13,11 @@ Clone a presentation for reuse in different places.
 
    ![](assets/image2015-3-26-12-3a22-3a6.png)
 
-1. Right-click the presentation and select **Clone**.
+1. Right-click the presentation and select **[!UICONTROL Clone]**.
 
    ![](assets/image2015-3-26-12-3a22-3a47.png)
 
-1. Enter a name for the cloned presentation and click **Clone**.
+1. Enter a name for the cloned presentation and click **[!UICONTROL Clone]**.
 
    ![](assets/image2015-3-20-16-3a14-3a44.png)
 

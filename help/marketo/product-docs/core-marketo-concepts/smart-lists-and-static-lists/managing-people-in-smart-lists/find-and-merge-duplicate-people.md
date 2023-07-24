@@ -9,19 +9,23 @@ feature: Smart Lists
 
 Marketo automatically de-duplicates when new people enter the system. However, your CRM may have initially sent duplicates to Marketo. Here's how to merge them.
 
->[!NOTE]
+>[!CAUTION]
 >
->Marketo will not automatically de-dupe against a Salesforce or Microsoft Dynamics sync, or when you manually enter people.
+>Merging people is permanent, there is no "undo" option.
 
 >[!PREREQUISITES]
 >
->Finding and merging duplicates will involve the use of [built-in / system smart lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>Finding and merging duplicates will involve the use of [built-in/system smart lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
+
+>[!NOTE]
+>
+>Marketo will not automatically de-dupe against a Salesforce or Microsoft Dynamics sync, or when you manually enter people.
 
 ## Find Duplicates {#find-duplicates}
 
 1. Go to the **Database** area.
 
-   ![](assets/db.png)
+   ![](assets/find-and-merge-duplicate-people-1.png)
 
    >[!CAUTION]
    >
@@ -29,11 +33,11 @@ Marketo automatically de-duplicates when new people enter the system. However, y
 
 1. Select the **Possible Duplicates** system smart list and click on the **People** tab.
 
-   ![](assets/two.png)
+   ![](assets/find-and-merge-duplicate-people-2.png)
 
    >[!NOTE]
    >
-   >You can also [Find Duplicate People with Custom Logic](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
+   >You can also [Find Duplicate People with Custom Logic](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
 
 ## Merge People Manually {#merge-people-manually}
 
@@ -43,7 +47,7 @@ Marketo automatically de-duplicates when new people enter the system. However, y
 
 1. Select the duplicates by holding Ctrl/Cmd and clicking, then click **Merge People**.
 
-   ![](assets/three.png)
+   ![](assets/find-and-merge-duplicate-people-3.png)
 
    >[!TIP]
    >
@@ -51,7 +55,7 @@ Marketo automatically de-duplicates when new people enter the system. However, y
 
 1. You will see the values between the records that _don't_ match. Select the value you want to keep for each field. Click **Merge** when done. If you don't want either value, you can check **Custom** and enter a value of your choice.
 
-   ![](assets/four.png)
+   ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
@@ -63,18 +67,16 @@ Marketo automatically de-duplicates when new people enter the system. However, y
 
 ## Effect in Salesforce {#effect-in-salesforce}
 
-If you have Salesforce integration, there are a few notes about the effect of Merge Leads in Salesforce.
+If you have Salesforce integration, there are a few notes about the effect of merging Leads in Salesforce.
 
 * When merging only Leads or only Contacts, they merge per normal Salesforce rules.
 * When merging Leads and Contacts together, all Leads are converted to Contacts prior to merging per normal Salesforce rules.
 
 For specifics of Salesforce behavior when merging Leads or Contacts, please check the following Salesforce documents:
 
-* [Merging Duplicate Leads](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US)
-* [Merging Duplicate Contacts](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US)
+* [Merging Duplicate Leads](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
+* [Merging Duplicate Contacts](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}
 
 ## Bulk Merging {#bulk-merging}
 
 If you have too many duplicates to manually merge, contact the Adobe Account Team (your Account Manager) to discuss your options.
-
-If you're connected to a CRM, the records will merge there according to the rules below.

@@ -13,11 +13,11 @@ You must approve a custom object before you can use it. The process is slightly 
 
 You've created a brand new custom object. Here's how to approve it.
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/approve-a-custom-object-1.png)
 
-1. Click **Marketo Custom Objects**.
+1. Click **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/approve-a-custom-object-2.png)
 
@@ -25,11 +25,11 @@ You've created a brand new custom object. Here's how to approve it.
 
    ![](assets/approve-a-custom-object-3.png)
 
-1. Click the **Custom Object Actions** drop-down and select **Approve Object**.
+1. Click the **[!UICONTROL Custom Object Actions]** drop-down and select **[!UICONTROL Approve Object]**.
 
    ![](assets/approve-a-custom-object-4.png)
 
-1. The state changes to Approved.
+1. The state changes to [!UICONTROL Approved].
 
    ![](assets/approve-a-custom-object-5.png)
 
@@ -49,14 +49,14 @@ That's it! Now, you can select your custom object in the constraints of your fil
 
 After you edit an approved custom object, you must approve the draft to return the custom object to an Approved state.
 
-1. When you edit an already approved custom object, it receives an Approved with Draft state.
+1. When you edit an already approved custom object, it receives an [!UICONTROL Approved with Draft] state.
 
    ![](assets/approve-a-custom-object-6.png)
 
-1. When you're ready to approve the draft, click the **Custom Object Actions** drop-down and select **Approve Object**.
+1. When you're ready to approve the draft, click the **[!UICONTROL Custom Object Actions]** drop-down and select **[!UICONTROL Approve Object]**.
 
    ![](assets/approve-a-custom-object-7.png)
 
-1. A preview displays the items that were changed in the draft. Click **Approve**.
+1. A preview displays the items that were changed in the draft. Click **[!UICONTROL Approve]**.
 
    ![](assets/approve-a-custom-object-8.png)

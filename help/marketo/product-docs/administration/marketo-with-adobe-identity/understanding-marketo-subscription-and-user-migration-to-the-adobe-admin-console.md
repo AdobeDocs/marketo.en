@@ -8,4 +8,4 @@ feature: Marketo with Adobe Identity
 ---
 # Understanding Marketo Subscription and User Migration to the Adobe Admin Console {#understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console}
 
-Coming Soon
+Coming Soon.

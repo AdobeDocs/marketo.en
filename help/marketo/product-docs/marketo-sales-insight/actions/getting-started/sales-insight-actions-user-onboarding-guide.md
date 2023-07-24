@@ -6,6 +6,10 @@ feature: Sales Insight Actions
 ---
 # Sales Insight Actions User Onboarding Guide {#sales-insight-actions-user-onboarding-guide}
 
+>[!NOTE]
+>
+>Marketo Sales Insight Actions is a web-based application that integrates with the Salesforce user interface via the [Marketo Sales Insight package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. It is sometimes referred to as "Marketo Sales," or simply "Actions."
+
 >[!PREREQUISITES]
 >
 >* An Admin needs to invite a user to start using MSI-Actions.  

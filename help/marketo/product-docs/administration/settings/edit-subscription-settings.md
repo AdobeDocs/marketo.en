@@ -11,18 +11,18 @@ If you have access to multiple Marketo subscriptions and want to be sure which o
 
 For example, if you work in both production and sandbox instances, you can name one subscription **Marketo Production** and the other **Marketo Sandbox**.
 
-1. Go to **Admin**.
+1. Go to **[!UICONTROL Admin]**.
 
    ![](assets/edit-subscription-settings-1.png)
 
-1. Click **My Account**.
+1. Click **[!UICONTROL My Account]**.
 
    ![](assets/edit-subscription-settings-2.png)
 
-1. Click **Edit Subscription Information**.
+1. Click **[!UICONTROL Edit Subscription Information]**.
 
    ![](assets/edit-subscription-settings-3.png)
 
-1. Make your edits and click **Save**.
+1. Make your edits and click **[!UICONTROL Save]**.
 
    ![](assets/edit-subscription-settings-4.png)

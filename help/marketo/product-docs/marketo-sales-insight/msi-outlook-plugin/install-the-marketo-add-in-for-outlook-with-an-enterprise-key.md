@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 ---
 # Install the Marketo Add-in for Outlook with an Enterprise Key {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
-Many times, sales reps don't have administrative privileges on their laptops, and their IT teams are responsible for installing all software remotely. The Marketo Add-in for Outlook can be installed this way using your Enterprise Key, which can be found in the Sales Insight section of Admin.
+Many times, sales reps don't have administrative privileges on their laptops, and their IT teams are responsible for installing all software remotely. The Marketo Add-in for Outlook can be installed this way using your Enterprise Key, which can be found in the Sales Insight section of Admin. If you don't see the View Enterprise Key button, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) to enable it.
 
 >[!PREREQUISITES]
 >
@@ -15,7 +15,7 @@ Many times, sales reps don't have administrative privileges on their laptops, an
 
 >[!NOTE]
 >
->If you don't see the View Enterprise Key button, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) to enable it.
+>Sales Insight Actions capabilities, including Send Sales Email, Add to Sales Campaign, and Tasks, are not available in the Sales Insight email plugins for Gmail and Outlook. At this time, users only have the ability to send a trackable email with or without a Marketo email template from their email client when using the Sales Insight email plugins.
 
 1. In My Marketo, click **Admin** and then **Sales Insight**.
 

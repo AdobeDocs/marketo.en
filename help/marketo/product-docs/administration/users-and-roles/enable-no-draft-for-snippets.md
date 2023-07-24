@@ -19,34 +19,34 @@ No-Draft is automatically enabled for all Administrator roles. An admin can then
 >
 >**Admin Permissions Required**
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 
-1. Click **Users & Roles**.
+1. Click **[!UICONTROL Users & Roles]**.
 
    ![](assets/enable-no-draft-for-snippets-2.png)
 
-1. Go to the **Roles** tab, select a role, then click **Edit Role**.
+1. Go to the **[!UICONTROL Roles]** tab, select a role, then click **[!UICONTROL Edit Role]**.
 
    ![](assets/enable-no-draft-for-snippets-3.png)
 
-1. Expand the **Access Design Studio** option.
+1. Expand the **[!UICONTROL Access Design Studio]** option.
 
    ![](assets/enable-no-draft-for-snippets-4.png)
 
-1. Expand the **Access Snippet** option.
+1. Expand the **[!UICONTROL Access Snippet]** option.
 
    ![](assets/enable-no-draft-for-snippets-5.png)
 
-1. Expand the **Approve Snippet** permission and check the **No-Draft** box. Then click **Save**.
+1. Expand the **[!UICONTROL Approve Snippet]** permission and check the **[!UICONTROL No-Draft]** box. Then click **[!UICONTROL Save]**.
 
    ![](assets/enable-no-draft-for-snippets-6.png)
 
 >[!TIP]
 >
->To disable No-Draft, follow steps 1-4 above, clear the No-Draft checkbox, and click **Save**.
+>To disable No-Draft, follow steps 1-4 above, clear the No-Draft checkbox, and click **[!UICONTROL Save]**.
 
 >[!MORELIKETHIS]
 >
->[Approve a Snippet with No-Draft](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
+>[Approve a Snippet with No-Draft](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md){target="_blank"}

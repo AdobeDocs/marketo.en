@@ -8,15 +8,15 @@ feature: Administration
 
 Follow the steps below to customize your email tracking link headers.
 
-1. In Marketo, click **Admin**.
+1. In Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/email-tracking-link-headers-1.png)
 
-1. Click **Email**.
+1. Click **[!UICONTROL Email]**.
 
    ![](assets/email-tracking-link-headers-2.png)
 
-1. Scroll down to Custom Header Options. Choose your desired settings and click **Save Changes**.
+1. Scroll down to Custom Header Options. Choose your desired settings and click **[!UICONTROL Save Changes]**.
 
    ![](assets/email-tracking-link-headers-3.png)
 

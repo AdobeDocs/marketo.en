@@ -8,7 +8,7 @@ feature: Email Setup
 
 Sometimes, email bot activity can erroneously inflate your email opens and clicks data. Follow the steps below to fix that.
 
-We use three separate methods to confirm bot activity:
+We use two separate methods to confirm bot activity:
 
 * Match with [Interactive Advertising Bureau bot list](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Activities that match with anything on the IAB UA/IP (User Agent/IP address) list will be marked as bots.
 * Match with proximity pattern: When more than two activities happen at the same time (in under a second), they're identified as bots. Attributes considered during comparison are:

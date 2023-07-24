@@ -11,11 +11,11 @@ Once in program focus mode, you can quickly make changes to calendar entries. He
 
 ## Enable Program Focus {#enable-program-focus}
 
-1. Go to the **Calendar**.
+1. Click the **[!UICONTROL Calendar]** tile.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Select an entry that belongs to the program you want to focus on and click **Show Program Focus**.
+1. Select an entry that belongs to the program you want to focus on and click **[!UICONTROL Show Program Focus]**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
@@ -61,4 +61,4 @@ That's it! As you can see there are a lot of things you can do directly from the
 
 >[!MORELIKETHIS]
 >
->[Delete Entries Directly In the Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
+>[Delete Entries Directly In the Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}

@@ -13,6 +13,10 @@ Send and track any Google email with the Marketo Insights for Google Chrome.
 >
 >[Install Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
+>[!NOTE]
+>
+>Sales Insight Actions capabilities, including Send Sales Email, Add to Sales Campaign, and Tasks, are not available in the Sales Insight email plugins for Gmail and Outlook. At this time, users only have the ability to send a trackable email with or without a Marketo email template from their email client when using the Sales Insight email plugins.
+
 ## Send an Email with Marketo Insights {#send-an-email-with-marketo-insights}
 
 1. From the Compose Window, click the Marketo icon.

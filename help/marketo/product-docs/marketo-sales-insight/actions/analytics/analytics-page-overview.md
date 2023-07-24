@@ -1,8 +1,6 @@
 ---
 description: Analytics Page Overview - Marketo Docs - Product Documentation
 title: Analytics Page Overview
-hide: yes
-hidefromtoc: yes
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
 ---
@@ -30,15 +28,15 @@ In the Me and Team tabs you will see information about deals closed. This number
 
 ## Me Tab {#me-tab}
 
-The [Me tab](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md) is a great place to check on the engagement of your emails, templates, and links. If you're an admin in Sales Insight Actions, you can filter by any user on your team to see their stats.
+The [Me tab](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} is a great place to check on the engagement of your emails, templates, and links. If you're an admin in Sales Insight Actions, you can filter by any user on your team to see their stats.
 
 ## Team Tab {#team-tab}
 
-In the [Team tab](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md), see stats and rankings for your entire team. You can also filter by any subteams you have created.
+In the [Team tab](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}, see stats and rankings for your entire team. You can also filter by any subteams you have created.
 
 ## Content Tab {#content-tab}
 
-The [Content tab](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md) contains stats on templates, content, and links. You can either filter by everyone, or by teams your admins have created.
+The [Content tab](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} contains stats on templates, content, and links. You can either filter by everyone, or by teams your admins have created.
 
 If you see blue text under the subject column, it means the template is shared. You can click the blue text to be taken to that template. View its usage by clicking **Template Analytics**.
 

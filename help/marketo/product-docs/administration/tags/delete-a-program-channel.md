@@ -11,15 +11,15 @@ Program channels are a collection of statuses or checkpoints leads should go thr
 
 If you make one by accident or no longer need one, you can delete it.
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/delete-a-program-channel-1.png)
 
-1. Click **Tags**.
+1. Click **[!UICONTROL Tags]**.
 
    ![](assets/delete-a-program-channel-2.png)
 
-1. Select the channel you want to delete, under Tag Actions, click Delete.
+1. Select the channel you want to delete. In the **[!UICONTROL Tag Actions]** drop-down, click **[!UICONTROL Delete]**.
 
    >[!TIP]
    >
@@ -27,4 +27,4 @@ If you make one by accident or no longer need one, you can delete it.
 
    ![](assets/delete-a-program-channel-3.png)
 
-Bam! You can also [delete specific statuses from channels](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).
+You can also [delete specific statuses from channels](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).

@@ -13,11 +13,11 @@ feature: Users and Roles
 
 It's pretty easy to export a full list of your users and user roles. Here's how.
 
-1. Go to **Admin**.
+1. Go to **[!UICONTROL Admin]**.
 
    ![](assets/export-a-list-of-users-and-roles-1.png)
 
-1. Click **Users & Roles**.
+1. Click **[!UICONTROL Users & Roles]**.
 
    ![](assets/export-a-list-of-users-and-roles-2.png)
 
@@ -25,14 +25,14 @@ It's pretty easy to export a full list of your users and user roles. Here's how.
 
    >[!TIP]
    >
-   >To export roles, go to the **Roles** tab first, then export.
+   >To export roles, go to the **[!UICONTROL Roles]** tab first, then export.
 
    ![](assets/export-a-list-of-users-and-roles-3.png)
 
-1. Click the **Export** icon.
+1. Click the **[!UICONTROL Export]** icon.
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 
-   And that's all folks! You should be downloading the new Excel file.
+   And that's all, folks! You should be downloading the new Excel file.
 
    ![](assets/export-a-list-of-users-and-roles-5.png)

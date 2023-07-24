@@ -190,6 +190,22 @@ The activities below will be logged to Marketo from Sales Connect.
  <tr>
   <td>Sales Campaign ID</td>
  </tr>
+ <tr>
+  <th rowspan="5">Sales Email Bounce</th>
+  <td>Details</td>
+ </tr>
+ <tr>
+  <td>Email</td>
+ </tr>
+ <tr>
+  <td>Sent By</td>
+ </tr>
+ <tr>
+  <td>Marketo Sales Person ID</td>
+ </tr>
+ <tr>
+  <td>Template ID</td>
+ </tr>
 </table>
 
 ## Descriptions {#descriptions}

@@ -13,19 +13,19 @@ The Treasure Chest holds fun experimental features that are not fully supported.
 >
 >**Admin Permissions Required**
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 
-1. Click **Treasure Chest**.
+1. Click **[!UICONTROL Treasure Chest]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-2.png)
 
-1. Click **Edit** for the feature you want to enable or disable.
+1. Click **[!UICONTROL Edit]** for the feature you want to enable or disable.
 
    ![](assets/enable-or-disable-treasure-chest-features-3.png)
 
-1. Check the **Enabled** box to enable, or uncheck to disable, and click **Save**.
+1. Check the **[!UICONTROL Enabled]** box to enable, or uncheck to disable, and click **[!UICONTROL Save]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-4.png)
 

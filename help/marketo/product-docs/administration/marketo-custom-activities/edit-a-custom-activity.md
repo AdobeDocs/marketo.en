@@ -9,11 +9,11 @@ feature: Custom Activities
 
 Need to make changes to a custom activity you've already created? Here's how.
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/edit-a-custom-activity-1.png)
 
-1. Click **Marketo Custom Activities**.
+1. Click **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/edit-a-custom-activity-2.png)
 
@@ -21,15 +21,15 @@ Need to make changes to a custom activity you've already created? Here's how.
 
    ![](assets/edit-a-custom-activity-3.png)
 
-1. Click **Custom Activity Actions** and select **Edit Activity**.
+1. Click **[!UICONTROL Custom Activity Actions]** and select **[!UICONTROL Edit Activity]**.
 
    ![](assets/edit-a-custom-activity-4.png)
 
-   Edit Activity Type appears. In this example we're fixing a typo.
+   Edit Activity Type appears. In this example, we're fixing a typo.
 
    ![](assets/edit-a-custom-activity-5.png)
 
-1. Enter your new info and click **Submit**.
+1. Enter your new info and click **[!UICONTROL Submit]**.
 
    ![](assets/edit-a-custom-activity-6.png)
 

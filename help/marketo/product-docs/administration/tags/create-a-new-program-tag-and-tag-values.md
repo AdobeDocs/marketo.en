@@ -21,19 +21,19 @@ You can create custom [tags](/help/marketo/product-docs/core-marketo-concepts/pr
 >
 >Program Tag Value: SMB, Enterprise, Mid-Market
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 
-1. Click **Tags**.
+1. Click **[!UICONTROL Tags]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
-1. Click **New** and select **New Tag Type**.
+1. Click **[!UICONTROL New]** and select **[!UICONTROL New Tag Type]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
-1. Enter the **Tag Type** and a tag **Value**. Then click **Add Another**.
+1. Enter the **[!UICONTROL Tag Type]** and a tag **[!UICONTROL Value]**. Then click **[!UICONTROL Add Another]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
@@ -45,13 +45,13 @@ You can create custom [tags](/help/marketo/product-docs/core-marketo-concepts/pr
    >
    >You can select multiple program types. When a new program is made, this tag type will be available.
 
-1. Check **Required** and click **Create**.
+1. Check **[!UICONTROL Required]** and click **[!UICONTROL Create]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 
    >[!NOTE]
    >
-   >If the tag type is **Required**, users will be required to enter a value for the tag when creating a new program.
+   >If the tag type is **[!UICONTROL Required]**, users will be required to enter a value for the tag when creating a new program.
 
    ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 

@@ -26,7 +26,7 @@ Compose a new email, or use a pre-existing template.
 
 >[!TIP]
 >
->Learn the details about your [sending options](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target="_blank"}.
+>Learn the details about your [sending options](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
 
 ### Call {#call}
 

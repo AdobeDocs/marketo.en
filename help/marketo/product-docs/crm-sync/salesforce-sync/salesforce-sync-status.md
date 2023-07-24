@@ -42,7 +42,7 @@ By default, stats will be sorted by most recently started. You can sort by Start
 
    ![](assets/salesforce-sync-status-6.png)
 
-**Optional Step**: To export sync errors, click **Export**. The data will be exported as a CSV.
+**OPTIONAL STEP**: To export sync errors, click **Export**. The data will be exported as a CSV.
 
    ![](assets/salesforce-sync-status-7.png)
 
@@ -243,4 +243,4 @@ By default, stats will be sorted by most recently started. You can sort by Start
  </tbody> 
 </table>
 
-&#42;Branding configuration at the subscription level decides the label – “Lead” or “Person” in the report.
+&#42;Branding configuration at the subscription level decides the label – "Lead" or "Person" in the report.
