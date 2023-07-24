@@ -52,4 +52,4 @@ feature: Sales Insight Actions
 
 >[!NOTE]
 >
->Categories cannot be deleted if they still have templates in them. Move or delete all templates before deleting a category.
+>Categories cannot be deleted if they contain templates. Move or delete all templates before deleting a category.
