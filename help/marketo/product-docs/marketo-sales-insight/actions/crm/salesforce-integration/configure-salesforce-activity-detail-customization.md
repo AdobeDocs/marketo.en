@@ -2,6 +2,7 @@
 description: Configure Salesforce Activity Detail Customization - Marketo Docs - Product Documentation
 title: Configure Salesforce Activity Detail Customization
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
+feature: Sales Insight Actions
 ---
 # Configure Salesforce Activity Detail Customization {#configure-salesforce-activity-detail-customization}
 

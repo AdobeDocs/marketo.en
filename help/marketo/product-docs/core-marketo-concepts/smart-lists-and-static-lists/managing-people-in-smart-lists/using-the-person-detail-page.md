@@ -3,6 +3,7 @@ unique-page-id: 2953415
 description: Using the Person Detail Page - Marketo Docs - Product Documentation
 title: Using the Person Detail Page
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
+feature: Smart Lists
 ---
 # Using the Person Detail Page {#using-the-person-detail-page}
 

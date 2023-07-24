@@ -3,6 +3,7 @@ unique-page-id: 10097613
 description: Add Marketo Custom Object Link Fields - Marketo Docs - Product Documentation
 title: Add Marketo Custom Object Link Fields
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
+feature: Custom Objects
 ---
 # Add Marketo Custom Object Link Fields {#add-marketo-custom-object-link-fields}
 

@@ -2,6 +2,7 @@
 description: Current Release Notes - Marketo Docs - Product Documentation
 title: Current Release Notes
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
+feature: Release Information
 ---
 # Release Notes: July 2023 {#release-notes-july-23}
 

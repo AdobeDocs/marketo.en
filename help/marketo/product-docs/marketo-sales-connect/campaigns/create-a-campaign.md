@@ -3,6 +3,7 @@ unique-page-id: 14352618
 description: Create a Campaign - Marketo Docs - Product Documentation
 title: Create a Campaign
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
+feature: Marketo Sales Connect
 ---
 # Create a Campaign {#create-a-campaign}
 

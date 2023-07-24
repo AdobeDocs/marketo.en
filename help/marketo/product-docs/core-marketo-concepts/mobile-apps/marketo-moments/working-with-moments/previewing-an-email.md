@@ -3,6 +3,7 @@ unique-page-id: 8783563
 description: Previewing an Email - Marketo Docs - Product Documentation
 title: Previewing an Email
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
+feature: Mobile Marketing
 ---
 # Previewing an Email {#previewing-an-email}
 

@@ -3,6 +3,7 @@ unique-page-id: 3571848
 description: Microsoft Dynamics Sync -Lead Sync - Marketo Docs - Product Documentation
 title: Microsoft Dynamics Sync -Lead Sync
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
+feature: Microsoft Dynamics
 ---
 # Microsoft Dynamics Sync: Lead Sync {#microsoft-dynamics-sync-lead-sync}
 

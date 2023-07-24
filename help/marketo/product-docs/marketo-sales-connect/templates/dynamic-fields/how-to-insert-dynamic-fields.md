@@ -3,6 +3,7 @@ unique-page-id: 14352592
 description: How to Insert Dynamic Fields - Marketo Docs - Product Documentation
 title: How to Insert Dynamic Fields
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
+feature: Marketo Sales Connect
 ---
 # How to Insert Dynamic Fields {#how-to-insert-dynamic-fields}
 

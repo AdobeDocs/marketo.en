@@ -3,6 +3,7 @@ unique-page-id: 2359351
 description: Get Set up and Add a Person - Marketo Docs - Product Documentation
 title: Get Set up and Add a Person
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
+feature: Getting Started
 ---
 # Get Set up and Add a Person {#get-set-up-and-add-a-person}
 

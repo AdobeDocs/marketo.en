@@ -3,6 +3,7 @@ unique-page-id: 2949262
 description: SEO - Remove/Delete a Page - Marketo Docs - Product Documentation
 title: SEO - Remove/Delete a Page
 exl-id: 4e42d01f-a3cf-4545-b476-54de195fa7f8
+feature: SEO
 ---
 # SEO - Remove/Delete a Page {#seo-remove-delete-a-page}
 

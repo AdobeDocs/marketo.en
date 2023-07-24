@@ -3,6 +3,7 @@ unique-page-id: 2359657
 description: Change a Form's Locale - Marketo Docs - Product Documentation
 title: Change a Form's Locale
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
+feature: Forms
 ---
 # Change a Form's Locale {#change-a-forms-locale}
 

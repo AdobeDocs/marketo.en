@@ -3,6 +3,7 @@ unique-page-id: 2359906
 description: Managing Marketo Users - Marketo Docs - Product Documentation
 title: Managing Marketo Users
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
+feature: Users and Roles
 ---
 # Managing Marketo Users {#managing-marketo-users}
 

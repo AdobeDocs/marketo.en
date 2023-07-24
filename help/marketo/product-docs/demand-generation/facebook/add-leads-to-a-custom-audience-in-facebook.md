@@ -3,6 +3,7 @@ unique-page-id: 11376700
 description: Add Leads to a Custom Audience in Facebook - Marketo Docs - Product Documentation
 title: Add Leads to a Custom Audience in Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
+feature: Integrations
 ---
 # Add Leads to a Custom Audience in Facebook {#add-leads-to-a-custom-audience-in-facebook}
 

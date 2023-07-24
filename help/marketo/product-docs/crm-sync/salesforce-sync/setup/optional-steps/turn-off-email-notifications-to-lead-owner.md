@@ -3,6 +3,7 @@ unique-page-id: 13795802
 description: Turn Off Email Notifications to Lead Owner - Marketo Docs - Product Documentation
 title: Turn Off Email Notifications to Lead Owner
 exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
+feature: Salesforce Integration
 ---
 # Turn Off Email Notifications to Lead Owner {#turn-off-email-notifications-to-lead-owner}
 

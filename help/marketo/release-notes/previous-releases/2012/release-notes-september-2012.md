@@ -3,6 +3,7 @@ unique-page-id: 2951111
 description: Release Notes -September 2012 - Marketo Docs - Product Documentation
 title: Release Notes -September 2012
 exl-id: c81da5ef-11ec-4015-a820-691fa314f369
+feature: Release Information
 ---
 # Release Notes: September 2012 {#release-notes-september}
 

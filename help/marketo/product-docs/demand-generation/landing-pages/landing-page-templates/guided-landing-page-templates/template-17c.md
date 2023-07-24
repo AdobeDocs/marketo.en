@@ -3,6 +3,7 @@ unique-page-id: 9438197
 description: Template 17C - Marketo Docs - Product Documentation
 title: Template 17C
 exl-id: d9d1079d-2adf-4b6e-befc-42e913ce8b2c
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 17C {#template-17c}
 

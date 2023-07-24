@@ -3,6 +3,7 @@ unique-page-id: 3571840
 description: Microsoft Dynamics Sync -User Sync - Marketo Docs - Product Documentation
 title: Microsoft Dynamics Sync -User Sync
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
+feature: Microsoft Dynamics
 ---
 # Microsoft Dynamics Sync: User Sync {#microsoft-dynamics-sync-user-sync}
 

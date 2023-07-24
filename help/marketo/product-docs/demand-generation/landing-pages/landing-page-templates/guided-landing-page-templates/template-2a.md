@@ -3,6 +3,7 @@ unique-page-id: 7516467
 description: Template 2A - Marketo Docs - Product Documentation
 title: Template 2A
 exl-id: dcffaab5-8944-425b-aac3-2906ce3718b1
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 2A {#template-2a}
 

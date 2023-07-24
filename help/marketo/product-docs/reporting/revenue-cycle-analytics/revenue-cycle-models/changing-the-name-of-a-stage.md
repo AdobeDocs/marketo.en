@@ -3,6 +3,7 @@ unique-page-id: 4718675
 description: Changing the Name of a Stage - Marketo Docs - Product Documentation
 title: Changing the Name of a Stage
 exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Changing the Name of a Stage {#changing-the-name-of-a-stage}
 

@@ -3,6 +3,7 @@ unique-page-id: 1146954
 description: Remove from List - Marketo Docs - Product Documentation
 title: Remove from List
 exl-id: ec837329-f904-47ea-b276-a0f7becdcc75
+feature: Smart Campaigns
 ---
 # Remove from List {#remove-from-list}
 

@@ -3,6 +3,7 @@ unique-page-id: 4718648
 description: Understanding the Opportunity Influence Analyzer - Marketo Docs - Product Documentation
 title: Understanding the Opportunity Influence Analyzer
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Understanding the Opportunity Influence Analyzer {#understanding-the-opportunity-influence-analyzer}
 

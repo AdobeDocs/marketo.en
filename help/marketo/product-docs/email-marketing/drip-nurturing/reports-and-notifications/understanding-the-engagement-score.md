@@ -3,6 +3,7 @@ unique-page-id: 2359890
 description: Understanding the Engagement Score - Marketo Docs - Product Documentation
 title: Understanding the Engagement Score
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
+feature: Engagement Programs, Reporting
 ---
 # Understanding the Engagement Score {#understanding-the-engagement-score}
 

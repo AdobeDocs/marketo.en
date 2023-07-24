@@ -3,6 +3,7 @@ unique-page-id: 11380785
 description: Named Account Insights - Marketo Docs - Product Documentation
 title: Named Account Insights
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
+feature: Target Account Management
 ---
 # Named Account Insights {#named-account-insights}
 

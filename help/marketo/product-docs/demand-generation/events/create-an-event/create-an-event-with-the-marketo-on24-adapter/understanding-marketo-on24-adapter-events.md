@@ -3,6 +3,7 @@ unique-page-id: 10096658
 description: Understanding Marketo On24 Adapter Events - Marketo Docs - Product Documentation
 title: Understanding Marketo On24 Adapter Events
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
+feature: Events
 ---
 # Understanding Marketo On24 Adapter Events {#understanding-marketo-on-adapter-events}
 

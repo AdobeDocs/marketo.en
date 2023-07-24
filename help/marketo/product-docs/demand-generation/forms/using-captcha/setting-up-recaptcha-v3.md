@@ -2,6 +2,7 @@
 description: Setting up reCAPTCHA v3 - Marketo Docs - Product Documentation
 title: Setting up reCAPTCHA v3
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
+feature: Forms
 ---
 # Setting up reCAPTCHA v3 {#setting-up-recaptcha-v3}
 

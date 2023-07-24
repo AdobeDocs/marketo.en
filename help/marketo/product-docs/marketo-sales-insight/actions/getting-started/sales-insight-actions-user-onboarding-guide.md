@@ -2,6 +2,7 @@
 description: Sales Insight Actions User Onboarding Guide - Marketo Docs - Product Documentation
 title: Sales Insight Actions User Onboarding Guide
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
+feature: Sales Insight Actions
 ---
 # Sales Insight Actions User Onboarding Guide {#sales-insight-actions-user-onboarding-guide}
 

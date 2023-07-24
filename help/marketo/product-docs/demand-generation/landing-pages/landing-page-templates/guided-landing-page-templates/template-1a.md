@@ -3,6 +3,7 @@ unique-page-id: 7515620
 description: Template 1A - Marketo Docs - Product Documentation
 title: Template 1A
 exl-id: e2dd3c0a-405b-414a-bdbc-bd1cb85d6d13
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 1A {#template-1a}
 

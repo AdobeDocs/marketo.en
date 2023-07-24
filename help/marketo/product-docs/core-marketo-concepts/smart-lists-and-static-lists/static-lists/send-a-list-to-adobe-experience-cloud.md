@@ -3,6 +3,7 @@ unique-page-id: 37356194
 description: Send a List to Adobe Experience Cloud - Marketo Docs - Product Documentation
 title: Send a List to Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
+feature: Static Lists
 ---
 # Send a List to Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
 

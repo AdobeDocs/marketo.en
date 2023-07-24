@@ -2,6 +2,7 @@
 description: Chatbot Behavior - Marketo Docs - Product Documentation
 title: Chatbot Behavior
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
+feature: Dynamic Chat
 ---
 # Chatbot Behavior {#chatbot-behavior}
 

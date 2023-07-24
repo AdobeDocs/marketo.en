@@ -3,6 +3,7 @@ unique-page-id: 2359774
 description: Customize Poll Settings - Marketo Docs - Product Documentation
 title: Customize Poll Settings
 exl-id: 72379bc7-9457-4285-9cc2-02dc0c1f3966
+feature: Social
 ---
 # Customize Poll Settings {#customize-poll-settings}
 

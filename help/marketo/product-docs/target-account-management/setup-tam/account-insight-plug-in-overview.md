@@ -3,6 +3,7 @@ unique-page-id: 12979282
 description: Account Insight Plug-in Overview - Marketo Docs - Product Documentation
 title: Account Insight Plug-in Overview
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
+feature: Target Account Management
 ---
 # Account Insight Plug-in Overview {#account-insight-plug-in-overview}
 

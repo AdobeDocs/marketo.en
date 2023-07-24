@@ -2,6 +2,7 @@
 description: Email Connection Throttling - Marketo Docs - Product Documentation
 title: Email Connection Throttling
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
+feature: Marketo Sales Connect
 ---
 # Email Connection Throttling {#email-connection-throttling}
 

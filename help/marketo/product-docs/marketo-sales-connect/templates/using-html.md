@@ -3,6 +3,7 @@ unique-page-id: 14352594
 description: Using HTML - Marketo Docs - Product Documentation
 title: Using HTML
 exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
+feature: Marketo Sales Connect
 ---
 # Using HTML {#using-html}
 

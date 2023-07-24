@@ -3,6 +3,7 @@ unique-page-id: 557154
 description: Create a Smart List - Marketo Docs - Product Documentation
 title: Create a Smart List
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
+feature: Smart Lists
 ---
 # Create a Smart List {#create-a-smart-list}
 

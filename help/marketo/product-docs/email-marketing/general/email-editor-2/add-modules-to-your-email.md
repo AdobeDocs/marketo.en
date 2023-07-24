@@ -3,6 +3,7 @@ unique-page-id: 11371065
 description: Add Modules to your Email - Marketo Docs - Product Documentation
 title: Add Modules to your Email
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
+feature: Email Editor
 ---
 # Add Modules to your Email {#add-modules-to-your-email}
 

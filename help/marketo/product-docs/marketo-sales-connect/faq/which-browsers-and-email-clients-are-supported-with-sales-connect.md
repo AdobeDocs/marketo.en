@@ -3,6 +3,7 @@ unique-page-id: 14352422
 description: Which Browsers and Email Clients Are Supported with Sales Connect? - Marketo Docs - Product Documentation
 title: Which Browsers and Email Clients Are Supported with Sales Connect?
 exl-id: 00f3537e-358d-4540-b569-085674c360a4
+feature: Marketo Sales Connect
 ---
 # Which Browsers and Email Clients Are Supported with Sales Connect? {#which-browsers-and-email-clients-are-supported-with-sales-connect}
 

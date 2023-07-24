@@ -3,6 +3,7 @@ unique-page-id: 2359811
 description: Choose the Share URL for a Social App - Marketo Docs - Product Documentation
 title: Choose the Share URL for a Social App
 exl-id: 6a0b37b7-bca7-458a-9111-f0c717b18e2a
+feature: Social
 ---
 # Choose the Share URL for a Social App {#choose-the-share-url-for-a-social-app}
 

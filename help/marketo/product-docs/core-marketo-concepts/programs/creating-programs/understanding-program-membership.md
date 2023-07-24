@@ -3,6 +3,7 @@ unique-page-id: 1147091
 description: Understanding Program Membership - Marketo Docs - Product Documentation
 title: Understanding Program Membership
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
+feature: Programs
 ---
 # Understanding Program Membership {#understanding-program-membership}
 

@@ -3,6 +3,7 @@ unique-page-id: 6095008
 description: "Add [!DNL Google AdWords] as a [!DNL LaunchPoint] Service - Marketo Docs - Product Documentation"
 title: "Add [!DNL Google AdWords] as a [!DNL LaunchPoint] Service"
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
+feature: Administration, Integrations
 ---
 # Add [!DNL Google AdWords] as a [!DNL LaunchPoint] Service {#add-google-adwords-as-a-launchpoint-service}
 

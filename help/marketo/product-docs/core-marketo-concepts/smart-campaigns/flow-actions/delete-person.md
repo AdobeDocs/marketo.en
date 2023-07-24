@@ -3,6 +3,7 @@ unique-page-id: 1147082
 description: Delete Person - Marketo Docs - Product Documentation
 title: Delete Person
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
+feature: Smart Campaigns
 ---
 # Delete Person {#delete-person}
 

@@ -3,6 +3,7 @@ unique-page-id: 6848705
 description: Best Practice -How to Organize your Programs - Marketo Docs - Product Documentation
 title: Best Practice -How to Organize your Programs
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
+feature: Programs
 ---
 # Best Practice: How to Organize your Programs {#best-practice-how-to-organize-your-programs}
 

@@ -2,6 +2,7 @@
 description: Bulk Export API Information - Marketo Docs - Product Documentation
 title: Bulk Export API Information
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
+feature: Administration
 ---
 # Bulk Export API Information {#bulk-export-api-information}
 

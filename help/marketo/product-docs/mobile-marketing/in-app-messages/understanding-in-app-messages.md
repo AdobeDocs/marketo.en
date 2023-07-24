@@ -3,6 +3,7 @@ unique-page-id: 10100397
 description: Understanding In-App Messages - Marketo Docs - Product Documentation
 title: Understanding In-App Messages
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
+feature: Mobile Marketing
 ---
 # Understanding In-App Messages {#understanding-in-app-messages}
 

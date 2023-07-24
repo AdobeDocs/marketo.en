@@ -3,6 +3,7 @@ unique-page-id: 2359821
 description: Set Social Share Requirement - Marketo Docs - Product Documentation
 title: Set Social Share Requirement
 exl-id: 5aa8f245-f122-44eb-bec4-0a41c2509706
+feature: Social
 ---
 # Set Social Share Requirement {#set-social-share-requirement}
 

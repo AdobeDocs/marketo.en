@@ -2,6 +2,7 @@
 description: Change Program Member Data - Marketo Docs - Product Documentation
 title: Change Program Member Data
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
+feature: Smart Campaigns
 ---
 # Change Program Member Data {#change-program-member-data}
 

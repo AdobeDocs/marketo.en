@@ -3,6 +3,7 @@ unique-page-id: 2953173
 description: Use Members of List in a Smart List - Marketo Docs - Product Documentation
 title: Use Members of List in a Smart List
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
+feature: Smart Lists
 ---
 # Use Members of List in a Smart List {#use-members-of-list-in-a-smart-list}
 

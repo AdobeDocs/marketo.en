@@ -3,6 +3,7 @@ unique-page-id: 14352546
 description: Preventing Secondary Gmail Address from Integrating with Sales Connect - Marketo Docs - Product Documentation
 title: Preventing Secondary Gmail Address from Integrating with Sales Connect
 exl-id: a84fe53b-0ec8-400c-8747-be496c68a8e3
+feature: Marketo Sales Connect
 ---
 # Preventing Secondary Gmail Address from Integrating with Sales Connect {#preventing-secondary-gmail-address-from-integrating-with-sales-connect}
 

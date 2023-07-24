@@ -2,6 +2,7 @@
 description: Step 3 of 4 - Set up Client App on MS Dynamics - Marketo Docs - Product Documentation
 title: Step 3 of 4 - Set up Client App on MS Dynamics
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
+feature: Microsoft Dynamics
 ---
 # Step 3 of 4: Set up Client App on MS Dynamics {#step-3-of-4-set-up-client-app-ms-dynamics-ropc}
 

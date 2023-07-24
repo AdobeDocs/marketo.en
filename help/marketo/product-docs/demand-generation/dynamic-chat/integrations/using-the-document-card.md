@@ -2,6 +2,7 @@
 description: Using the Document Card - Marketo Docs - Product Documentation
 title: Using the Document Card
 exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
+feature: Dynamic Chat
 ---
 # Using the Document Card {#using-the-document-card}
 

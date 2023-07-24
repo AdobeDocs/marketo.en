@@ -3,6 +3,7 @@ unique-page-id: 7512434
 description: Configure Mobile App iOS Push Access - Marketo Docs - Product Documentation
 title: Configure Mobile App iOS Push Access
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
+feature: Mobile Marketing
 ---
 # Configure Mobile App iOS Push Access {#configure-mobile-app-ios-push-access}
 

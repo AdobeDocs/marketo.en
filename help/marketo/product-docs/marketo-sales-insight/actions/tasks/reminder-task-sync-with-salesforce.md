@@ -2,6 +2,7 @@
 description: Reminder Task Sync with Salesforce - Marketo Docs - Product Documentation
 title: Reminder Task Sync with Salesforce
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
+feature: Sales Insight Actions
 ---
 # Reminder Task Sync with Salesforce {#reminder-task-sync-with-salesforce}
 

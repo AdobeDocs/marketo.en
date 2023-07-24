@@ -3,6 +3,7 @@ unique-page-id: 11378812
 description: Discover Accounts - Marketo Docs - Product Documentation
 title: Discover Accounts
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
+feature: Target Account Management
 ---
 # Discover Accounts {#discover-accounts}
 

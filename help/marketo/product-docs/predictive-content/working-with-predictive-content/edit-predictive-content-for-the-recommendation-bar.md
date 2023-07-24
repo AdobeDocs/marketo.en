@@ -3,6 +3,7 @@ unique-page-id: 11385942
 description: Edit Predictive Content for the Recommendation Bar - Marketo Docs - Product Documentation
 title: Edit Predictive Content for the Recommendation Bar
 exl-id: 9a61e625-ec3f-4b4f-90d4-67ff7630ef48
+feature: Predictive Content
 ---
 # Edit Predictive Content for the Recommendation Bar {#edit-predictive-content-for-the-recommendation-bar}
 

@@ -3,6 +3,7 @@ unique-page-id: 1900591
 description: Create an Email Program - Marketo Docs - Product Documentation
 title: Create an Email Program
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
+feature: Email Programs
 ---
 # Create an Email Program {#create-an-email-program}
 

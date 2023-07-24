@@ -3,6 +3,7 @@ unique-page-id: 2359815
 description: Export a List with Personalized URLs - Marketo Docs - Product Documentation
 title: Export a List with Personalized URLs
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
+feature: Landing Pages
 ---
 # Export a List with Personalized URLs {#export-a-list-with-personalized-urls}
 

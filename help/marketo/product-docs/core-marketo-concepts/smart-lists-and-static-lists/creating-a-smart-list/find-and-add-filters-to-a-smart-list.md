@@ -3,6 +3,7 @@ unique-page-id: 557273
 description: Find and Add Filters to a Smart List - Marketo Docs - Product Documentation
 title: Find and Add Filters to a Smart List
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
+feature: Smart Lists
 ---
 # Find and Add Filters to a Smart List {#find-and-add-filters-to-a-smart-list}
 

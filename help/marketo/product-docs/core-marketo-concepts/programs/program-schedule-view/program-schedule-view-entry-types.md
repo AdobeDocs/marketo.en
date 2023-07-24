@@ -3,6 +3,7 @@ unique-page-id: 1147243
 description: Program Schedule View Entry Types - Marketo Docs - Product Documentation
 title: Program Schedule View Entry Types
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
+feature: Programs
 ---
 # Program Schedule View Entry Types {#program-schedule-view-entry-types}
 

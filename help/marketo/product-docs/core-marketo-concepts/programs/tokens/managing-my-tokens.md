@@ -3,6 +3,7 @@ unique-page-id: 1147116
 description: Managing My Tokens - Marketo Docs - Product Documentation
 title: Managing My Tokens
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
+feature: Tokens
 ---
 # Managing My Tokens {#managing-my-tokens}
 

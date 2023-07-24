@@ -3,6 +3,7 @@ unique-page-id: 10093041
 description: Edit a Smart List Subscription - Marketo Docs - Product Documentation
 title: Edit a Smart List Subscription
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
+feature: Reporting
 ---
 # Edit a Smart List Subscription {#edit-a-smart-list-subscription}
 

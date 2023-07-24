@@ -3,6 +3,7 @@ unique-page-id: 1146958
 description: Send Alert - Marketo Docs - Product Documentation
 title: Send Alert
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
+feature: Smart Campaigns
 ---
 # Send Alert {#send-alert}
 

@@ -3,6 +3,7 @@ unique-page-id: 1147070
 description: Export Smart Campaign Results to Excel - Marketo Docs - Product Documentation
 title: Export Smart Campaign Results to Excel
 exl-id: 32aa55d7-dd10-40b9-b3f8-c767e513f103
+feature: Smart Campaigns
 ---
 # Export Smart Campaign Results to Excel {#export-smart-campaign-results-to-excel}
 

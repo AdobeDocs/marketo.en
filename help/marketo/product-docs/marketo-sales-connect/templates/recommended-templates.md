@@ -3,6 +3,7 @@ unique-page-id: 14352510
 description: Recommended Templates - Marketo Docs - Product Documentation
 title: Recommended Templates
 exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
+feature: Marketo Sales Connect
 ---
 # Recommended Templates {#recommended-templates}
 

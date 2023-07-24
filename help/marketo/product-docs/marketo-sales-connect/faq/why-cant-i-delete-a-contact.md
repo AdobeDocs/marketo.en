@@ -3,6 +3,7 @@ unique-page-id: 14352488
 description: Why Can't I Delete a Contact? - Marketo Docs - Product Documentation
 title: Why Can't I Delete a Contact?
 exl-id: 28218879-240e-450e-990d-1c2af0a74dc3
+feature: Marketo Sales Connect
 ---
 # Why Can't I Delete a Contact? {#why-cant-i-delete-a-contact}
 

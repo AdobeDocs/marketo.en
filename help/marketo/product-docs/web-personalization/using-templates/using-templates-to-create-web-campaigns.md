@@ -3,6 +3,7 @@ unique-page-id: 2949168
 description: Using Templates to Create Web Campaigns - Marketo Docs - Product Documentation
 title: Using Templates to Create Web Campaigns
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
+feature: Web Personalization
 ---
 # Using Templates to Create Web Campaigns {#using-templates-to-create-web-campaigns}
 

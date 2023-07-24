@@ -3,6 +3,7 @@ unique-page-id: 18317338
 description: Blocked Domains - Marketo Docs - Product Documentation
 title: Blocked Domains
 exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
+feature: Marketo Sales Connect
 ---
 # Blocked Domains {#blocked-domains}
 

@@ -3,6 +3,7 @@ unique-page-id: 2360213
 description: Edit Link Expiration in Reports and Alerts - Marketo Docs - Product Documentation
 title: Edit Link Expiration in Reports and Alerts
 exl-id: 9be08798-c413-451b-9b67-893042668061
+feature: Administration
 ---
 # Edit Link Expiration in Reports and Alerts {#edit-link-expiration-in-reports-and-alerts}
 

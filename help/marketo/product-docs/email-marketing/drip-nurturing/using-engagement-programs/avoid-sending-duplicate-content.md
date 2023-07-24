@@ -3,6 +3,7 @@ unique-page-id: 10096409
 description: Avoid Sending Duplicate Content - Marketo Docs - Product Documentation
 title: Avoid Sending Duplicate Content
 exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
+feature: Engagement Programs
 ---
 # Avoid Sending Duplicate Content {#avoid-sending-duplicate-content}
 

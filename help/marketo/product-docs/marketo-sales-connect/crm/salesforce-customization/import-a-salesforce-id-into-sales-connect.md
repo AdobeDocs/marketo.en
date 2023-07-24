@@ -3,6 +3,7 @@ unique-page-id: 14352469
 description: Import a Salesforce ID into Sales Connect - Marketo Docs - Product Documentation
 title: Import a Salesforce ID into Sales Connect
 exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
+feature: Marketo Sales Connect
 ---
 # Import a Salesforce ID into Sales Connect {#import-a-salesforce-id-into-sales-connect}
 

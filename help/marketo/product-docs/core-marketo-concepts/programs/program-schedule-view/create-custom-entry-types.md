@@ -3,6 +3,7 @@ unique-page-id: 1147245
 description: Create Custom Entry Types - Marketo Docs - Product Documentation
 title: Create Custom Entry Types
 exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
+feature: Programs
 ---
 # Create Custom Entry Types {#create-custom-entry-types}
 

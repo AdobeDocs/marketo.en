@@ -3,6 +3,7 @@ unique-page-id: 3571830
 description: Step 3 of 3 - Connect the Marketo Solution with Server to Server Connection - Marketo Docs - Product Documentation
 title: Step 3 of 3 - Connect the Marketo Solution with Server to Server Connection
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
+feature: Microsoft Dynamics
 ---
 # Step 3 of 3: Connect the Marketo Solution with Server to Server Connection {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 

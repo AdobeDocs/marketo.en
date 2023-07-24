@@ -3,6 +3,7 @@ unique-page-id: 4720224
 description: Edit Regions - Marketo Docs - Product Documentation
 title: Edit Regions
 exl-id: 606f3b1b-2180-44b7-b02f-3250b542a4b7
+feature: Web Personalization
 ---
 # Edit Regions {#edit-regions}
 

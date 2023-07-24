@@ -3,6 +3,7 @@ unique-page-id: 10100257
 description: Email Insights FAQ - Marketo Docs - Product Documentation
 title: Email Insights FAQ
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
+feature: Reporting
 ---
 # Email Insights FAQ {#email-insights-faq}
 

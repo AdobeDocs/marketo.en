@@ -3,6 +3,7 @@ unique-page-id: 2950549
 description: Configure Social Recommend Flow - Marketo Docs - Product Documentation
 title: Configure Social Recommend Flow
 exl-id: 01b54215-4a0c-4639-80d2-ec30603b3695
+feature: Social
 ---
 # Configure Social Recommend Flow {#configure-social-recommend-flow}
 

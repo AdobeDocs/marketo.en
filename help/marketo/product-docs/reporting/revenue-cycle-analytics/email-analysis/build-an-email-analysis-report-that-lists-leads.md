@@ -3,6 +3,7 @@ unique-page-id: 2360407
 description: Build an Email Analysis Report that Lists Leads - Marketo Docs - Product Documentation
 title: Build an Email Analysis Report that Lists Leads
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Build an Email Analysis Report that Lists Leads {#build-an-email-analysis-report-that-lists-leads}
 

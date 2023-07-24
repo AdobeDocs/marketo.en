@@ -3,6 +3,7 @@ unique-page-id: 1146972
 description: Schedule a Recurring Batch Campaign - Marketo Docs - Product Documentation
 title: Schedule a Recurring Batch Campaign
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
+feature: Smart Campaigns
 ---
 # Schedule a Recurring Batch Campaign {#schedule-a-recurring-batch-campaign}
 

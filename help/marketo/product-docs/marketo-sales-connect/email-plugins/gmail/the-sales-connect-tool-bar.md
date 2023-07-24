@@ -3,6 +3,7 @@ unique-page-id: 14352444
 description: The Sales Connect Tool Bar - Marketo Docs - Product Documentation
 title: The Sales Connect Tool Bar
 exl-id: bff92e49-7dd2-4008-8f92-fee03a552fdf
+feature: Marketo Sales Connect
 ---
 # The Sales Connect Tool Bar {#the-sales-connect-tool-bar}
 

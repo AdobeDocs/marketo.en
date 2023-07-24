@@ -3,6 +3,7 @@ unique-page-id: 2359707
 description: Adding a Rectangle to a Free-Form Landing Page - Marketo Docs - Product Documentation
 title: Adding a Rectangle to a Free-Form Landing Page
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
+feature: Landing Pages
 ---
 # Adding a Rectangle to a Free-Form Landing Page {#adding-a-rectangle-to-a-free-form-landing-page}
 

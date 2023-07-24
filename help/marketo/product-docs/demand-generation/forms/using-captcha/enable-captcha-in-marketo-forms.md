@@ -2,6 +2,7 @@
 description: Enable CAPTCHA in Marketo Forms - Marketo Docs - Product Documentation
 title: Enable CAPTCHA in Marketo Forms
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
+feature: Forms
 ---
 # Enable CAPTCHA in Marketo Forms {#enable-captcha-in-marketo-forms}
 

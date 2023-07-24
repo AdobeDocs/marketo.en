@@ -3,6 +3,7 @@ unique-page-id: 2949253
 description: SEO - Remove/Delete an Inbound Link URL - Marketo Docs - Product Documentation
 title: SEO - Remove/Delete an Inbound Link URL
 exl-id: 102a483f-0bbd-4bac-8e63-278024d32cbf
+feature: SEO
 ---
 # SEO - Remove/Delete an Inbound Link URL {#seo-remove-delete-an-inbound-link-url}
 

@@ -2,6 +2,7 @@
 description: Assigning Tasks to Team Members - Marketo Docs - Product Documentation
 title: Assigning Tasks to Team Members
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
+feature: Sales Insight Actions
 ---
 # Assigning Tasks to Team Members {#assigning-tasks-to-team-members}
 

@@ -3,6 +3,7 @@ unique-page-id: 1147322
 description: Understanding Anonymous Activity and People - Marketo Docs - Product Documentation
 title: Understanding Anonymous Activity and People
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
+feature: Smart Lists
 ---
 # Understanding Anonymous Activity and People {#understanding-anonymous-activity-and-people}
 

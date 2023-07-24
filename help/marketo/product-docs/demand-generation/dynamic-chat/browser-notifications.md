@@ -4,6 +4,7 @@ title: Browser Notifications
 hide: yes
 hidefromtoc: yes
 exl-id: 5f8bc90f-b2d1-476c-bb26-1c58c9d981fc
+feature: Dynamic Chat
 ---
 # Browser Notifications {#browser-notifications}
 

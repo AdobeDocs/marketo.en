@@ -3,6 +3,7 @@ unique-page-id: 8781974
 description: Understanding Event Cards - Marketo Docs - Product Documentation
 title: Understanding Event Cards
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
+feature: Mobile Marketing
 ---
 # Understanding Event Cards {#understanding-event-cards}
 

@@ -3,6 +3,7 @@ unique-page-id: 7512289
 description: "Add [!DNL GoToWebinar] as a [!DNL LaunchPoint] Service - Marketo Docs - Product Documentation"
 title: "Add [!DNL GoToWebinar] as a [!DNL LaunchPoint] Service"
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
+feature: Administration, Integrations
 ---
 # Add [!DNL GoToWebinar] as a [!DNL LaunchPoint] Service {#add-gotowebinar-as-a-launchpoint-service}
 

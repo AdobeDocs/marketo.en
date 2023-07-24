@@ -3,6 +3,7 @@ unique-page-id: 2359685
 description: The Engagement Dashboard - Marketo Docs - Product Documentation
 title: The Engagement Dashboard
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
+feature: Engagement Programs, Reporting
 ---
 # The Engagement Dashboard {#the-engagement-dashboard}
 

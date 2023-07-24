@@ -3,6 +3,7 @@ unique-page-id: 2359757
 description: Add a Social Button on a Landing Page - Marketo Docs - Product Documentation
 title: Add a Social Button on a Landing Page
 exl-id: a47aec5a-435d-479f-856c-5fa2e0f9c6e8
+feature: Social
 ---
 # Add a Social Button on a Landing Page {#add-a-social-button-on-a-landing-page}
 

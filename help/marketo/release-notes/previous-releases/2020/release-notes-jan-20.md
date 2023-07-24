@@ -3,6 +3,7 @@ unique-page-id: 37355534
 description: Release Notes - Jan 2020 - Marketo Docs - Product Documentation
 title: Release Notes - Jan 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
+feature: Release Information
 ---
 # Release Notes: Jan 2020 {#release-notes-jan}
 

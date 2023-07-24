@@ -2,6 +2,7 @@
 description: Why Is Tracking Activity Not Showing in Salesforce Activity? - Marketo Docs - Product Documentation
 title: Why Is Tracking Activity Not Showing in Salesforce Activity?
 exl-id: 119b41a2-b691-48f8-9399-efcd5b47d942
+feature: Sales Insight Actions
 ---
 # Why Is Tracking Activity Not Showing in Salesforce Activity? {#why-is-tracking-activity-not-showing-in-salesforce-activity}
 

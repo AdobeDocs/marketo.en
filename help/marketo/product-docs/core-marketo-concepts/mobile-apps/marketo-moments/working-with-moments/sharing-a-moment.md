@@ -3,6 +3,7 @@ unique-page-id: 8783559
 description: Sharing a Moment - Marketo Docs - Product Documentation
 title: Sharing a Moment
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
+feature: Mobile Marketing
 ---
 # Sharing a Moment {#sharing-a-moment}
 

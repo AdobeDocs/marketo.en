@@ -2,6 +2,7 @@
 description: Email Tracking Overview - Marketo Docs - Product Documentation
 title: Email Tracking Overview
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
+feature: Sales Insight Actions
 ---
 # Email Tracking Overview {#email-tracking-overview}
 

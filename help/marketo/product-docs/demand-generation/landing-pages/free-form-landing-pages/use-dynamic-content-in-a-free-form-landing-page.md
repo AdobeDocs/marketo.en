@@ -3,6 +3,7 @@ unique-page-id: 2359732
 description: Use Dynamic Content in a Free-form Landing Page - Marketo Docs - Product Documentation
 title: Use Dynamic Content in a Free-form Landing Page
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
+feature: Landing Pages
 ---
 # Use Dynamic Content in a Free-form Landing Page {#use-dynamic-content-in-a-free-form-landing-page}
 

@@ -2,6 +2,7 @@
 description: Add or Remove a Product Admin - Marketo Docs - Product Documentation
 title: Add or Remove a Product Admin
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
+feature: Marketo with Adobe Identity
 ---
 # Add or Remove a Product Admin {#add-or-remove-a-product-admin}
 

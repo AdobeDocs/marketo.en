@@ -3,6 +3,7 @@ unique-page-id: 11378845
 description: Add Vibes as a LaunchPoint Service - Marketo Docs - Product Documentation
 title: Add Vibes as a LaunchPoint Service
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
+feature: Mobile Marketing
 ---
 # Add Vibes as a LaunchPoint Service {#add-vibes-as-a-launchpoint-service}
 

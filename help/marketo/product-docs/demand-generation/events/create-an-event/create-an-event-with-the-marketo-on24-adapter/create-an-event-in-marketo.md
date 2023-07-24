@@ -3,6 +3,7 @@ unique-page-id: 10096725
 description: Create an Event in Marketo - Marketo Docs - Product Documentation
 title: Create an Event in Marketo
 exl-id: c55116b7-dd65-439f-b7d4-63892fb940cb
+feature: Events
 ---
 # Create an Event in Marketo {#create-an-event-in-marketo}
 

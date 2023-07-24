@@ -3,6 +3,7 @@ unique-page-id: 11387513
 description: Create a Static List - Marketo Docs - Product Documentation
 title: Create a Static List
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
+feature: Static Lists
 ---
 # Create a Static List {#create-a-static-list}
 

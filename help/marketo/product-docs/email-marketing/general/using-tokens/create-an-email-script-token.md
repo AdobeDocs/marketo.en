@@ -3,6 +3,7 @@ unique-page-id: 1900577
 description: Create an Email Script Token - Marketo Docs - Product Documentation
 title: Create an Email Script Token
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
+feature: Tokens
 ---
 # Create an Email Script Token {#create-an-email-script-token}
 

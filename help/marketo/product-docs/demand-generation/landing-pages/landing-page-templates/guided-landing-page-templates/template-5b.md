@@ -3,6 +3,7 @@ unique-page-id: 8783917
 description: Template 5B - Marketo Docs - Product Documentation
 title: Template 5B
 exl-id: 738323ac-89bf-483a-ad63-2020bacc85cf
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 5B {#template-5b}
 

@@ -2,6 +2,7 @@
 description: Salesforce Diagnostics - Marketo Docs - Product Documentation
 title: Salesforce Diagnostics
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
+feature: Sales Insight Actions
 ---
 # Salesforce Diagnostics {#salesforce-diagnostics}
 

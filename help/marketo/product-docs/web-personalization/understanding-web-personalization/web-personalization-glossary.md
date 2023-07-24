@@ -3,6 +3,7 @@ unique-page-id: 3571927
 description: Web Personalization Glossary - Marketo Docs - Product Documentation
 title: Web Personalization Glossary
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
+feature: Web Personalization
 ---
 # Web Personalization Glossary {#web-personalization-glossary}
 

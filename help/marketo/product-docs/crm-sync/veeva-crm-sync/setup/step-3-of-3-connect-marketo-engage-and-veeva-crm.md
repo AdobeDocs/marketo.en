@@ -2,6 +2,7 @@
 description: Step 3 of 3 - Connect Marketo Engage and Veeva CRM - Marketo Docs - Product Documentation
 title: Step 3 of 3 - Connect Marketo Engage and Veeva CRM
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
+feature: Veeva CRM
 ---
 # Step 3 of 3: Connect Marketo Engage and Veeva CRM {#step-3-of-3-connect-marketo-engage-and-veeva-crm}
 

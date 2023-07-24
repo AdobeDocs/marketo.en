@@ -3,6 +3,7 @@ unique-page-id: 557320
 description: Clone a List or Smart List - Marketo Docs - Product Documentation
 title: Clone a List or Smart List
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
+feature: Smart Lists
 ---
 # Clone a List or Smart List {#clone-a-list-or-smart-list}
 

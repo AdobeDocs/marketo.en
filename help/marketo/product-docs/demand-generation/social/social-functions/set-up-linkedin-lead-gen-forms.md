@@ -3,6 +3,7 @@ unique-page-id: 12976798
 description: Set up LinkedIn Lead Gen Forms - Marketo Docs - Product Documentation
 title: Set up LinkedIn Lead Gen Forms
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
+feature: Social
 ---
 # Set up LinkedIn Lead Gen Forms {#set-up-linkedin-lead-gen-forms}
 

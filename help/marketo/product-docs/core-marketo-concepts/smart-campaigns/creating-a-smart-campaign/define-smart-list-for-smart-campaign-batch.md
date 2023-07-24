@@ -3,6 +3,7 @@ unique-page-id: 1146940
 description: Define Smart List for Smart Campaign | Batch - Marketo Docs - Product Documentation
 title: Define Smart List for Smart Campaign | Batch
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
+feature: Smart Campaigns
 ---
 # Define Smart List for Smart Campaign | Batch {#define-smart-list-for-smart-campaign-batch}
 

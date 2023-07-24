@@ -3,6 +3,7 @@ unique-page-id: 1147352
 description: Send a Sample Email - Marketo Docs - Product Documentation
 title: Send a Sample Email
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
+feature: Email Editor
 ---
 # Send a Sample Email {#send-a-sample-email}
 

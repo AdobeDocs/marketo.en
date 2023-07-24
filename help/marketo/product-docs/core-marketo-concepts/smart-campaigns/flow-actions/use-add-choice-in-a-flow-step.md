@@ -3,6 +3,7 @@ unique-page-id: 1146980
 description: Use Add Choice in a Flow Step - Marketo Docs - Product Documentation
 title: Use Add Choice in a Flow Step
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
+feature: Smart Campaigns
 ---
 # Use Add Choice in a Flow Step {#use-add-choice-in-a-flow-step}
 

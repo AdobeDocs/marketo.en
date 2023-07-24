@@ -3,6 +3,7 @@ unique-page-id: 1147009
 description: Change Program Success - Marketo Docs - Product Documentation
 title: Change Program Success
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
+feature: Smart Campaigns
 ---
 # Change Program Success {#change-program-success}
 

@@ -3,6 +3,7 @@ unique-page-id: 14745750
 description: Algorithm Goal Settings - Marketo Docs - Product Documentation
 title: Algorithm Goal Settings
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
+feature: Predictive Content
 ---
 # Algorithm Goal Settings {#algorithm-goal-settings}
 

@@ -3,6 +3,7 @@ unique-page-id: 14745730
 description: Salesforce Diagnostics - Marketo Docs - Product Documentation
 title: Salesforce Diagnostics
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
+feature: Marketo Sales Connect
 ---
 # Salesforce Diagnostics {#salesforce-diagnostics}
 

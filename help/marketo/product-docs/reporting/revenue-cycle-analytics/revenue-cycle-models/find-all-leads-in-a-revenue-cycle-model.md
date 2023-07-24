@@ -3,6 +3,7 @@ unique-page-id: 2360423
 description: Find all Leads in a Revenue Cycle Model - Marketo Docs - Product Documentation
 title: Find all Leads in a Revenue Cycle Model
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Find all Leads in a Revenue Cycle Model {#find-all-leads-in-a-revenue-cycle-model}
 

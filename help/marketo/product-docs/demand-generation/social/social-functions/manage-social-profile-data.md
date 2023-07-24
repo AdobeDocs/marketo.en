@@ -3,6 +3,7 @@ unique-page-id: 2950578
 description: Manage Social Profile Data - Marketo Docs - Product Documentation
 title: Manage Social Profile Data
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
+feature: Social
 ---
 # Manage Social Profile Data {#manage-social-profile-data}
 

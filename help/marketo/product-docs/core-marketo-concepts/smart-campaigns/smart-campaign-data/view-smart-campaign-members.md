@@ -3,6 +3,7 @@ unique-page-id: 1146937
 description: View Smart Campaign Members - Marketo Docs - Product Documentation
 title: View Smart Campaign Members
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
+feature: Smart Campaigns
 ---
 # View Smart Campaign Members {#view-smart-campaign-members}
 

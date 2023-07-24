@@ -3,6 +3,7 @@ unique-page-id: 1147124
 description: Using the Assets Tab - Marketo Docs - Product Documentation
 title: Using the Assets Tab
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
+feature: Programs
 ---
 # Using the Assets Tab {#using-the-assets-tab}
 

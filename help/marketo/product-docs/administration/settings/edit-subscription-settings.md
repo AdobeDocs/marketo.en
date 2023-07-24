@@ -3,6 +3,7 @@ unique-page-id: 10099785
 description: Edit Subscription Settings - Marketo Docs - Product Documentation
 title: Edit Subscription Settings
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
+feature: Administration
 ---
 # Edit Subscription Settings {#edit-subscription-settings}
 

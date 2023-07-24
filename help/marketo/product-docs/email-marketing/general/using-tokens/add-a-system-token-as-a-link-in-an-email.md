@@ -3,6 +3,7 @@ unique-page-id: 1900573
 description: Add a System Token as a Link in an Email - Marketo Docs - Product Documentation
 title: Add a System Token as a Link in an Email
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
+feature: Tokens
 ---
 # Add a System Token as a Link in an Email {#add-a-system-token-as-a-link-in-an-email}
 

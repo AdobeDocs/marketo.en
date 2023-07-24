@@ -3,6 +3,7 @@ unique-page-id: 2359837
 description: Triggers and Filters for Social Activities - Marketo Docs - Product Documentation
 title: Triggers and Filters for Social Activities
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
+feature: Social
 ---
 # Triggers and Filters for Social Activities {#triggers-and-filters-for-social-activities}
 

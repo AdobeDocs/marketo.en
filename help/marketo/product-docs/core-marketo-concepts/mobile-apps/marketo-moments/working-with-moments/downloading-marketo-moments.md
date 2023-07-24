@@ -3,6 +3,7 @@ unique-page-id: 8782024
 description: Downloading Marketo Moments - Marketo Docs - Product Documentation
 title: Downloading Marketo Moments
 exl-id: ccd8cb58-f2ae-478d-a3c4-fbc713e3c22a
+feature: Mobile Marketing
 ---
 # Downloading Marketo Moments {#downloading-marketo-moments}
 

@@ -3,6 +3,7 @@ unique-page-id: 2359746
 description: Customize Your Landing Page URLs with a CNAME - Marketo Docs - Product Documentation
 title: Customize Your Landing Page URLs with a CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
+feature: Landing Pages
 ---
 # Customize Your Landing Page URLs with a CNAME {#customize-your-landing-page-urls-with-a-cname}
 

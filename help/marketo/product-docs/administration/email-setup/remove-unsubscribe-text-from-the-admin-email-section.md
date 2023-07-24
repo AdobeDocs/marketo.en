@@ -3,6 +3,7 @@ unique-page-id: 2360245
 description: Remove Unsubscribe Text From the Admin Email Section - Marketo Docs - Product Documentation
 title: Remove Unsubscribe Text From the Admin Email Section
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
+feature: Email Setup
 ---
 # Remove Unsubscribe Text From the Admin Email Section {#remove-unsubscribe-text-from-the-admin-email-section}
 

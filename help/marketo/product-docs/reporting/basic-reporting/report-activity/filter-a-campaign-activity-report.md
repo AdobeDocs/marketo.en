@@ -3,6 +3,7 @@ unique-page-id: 2360184
 description: Filter a Campaign Activity Report - Marketo Docs - Product Documentation
 title: Filter a Campaign Activity Report
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
+feature: Reporting
 ---
 # Filter a Campaign Activity Report {#filter-a-campaign-activity-report}
 

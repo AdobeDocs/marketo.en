@@ -3,6 +3,7 @@ unique-page-id: 12983390
 description: Register an App with Azure to Acquire Your Client ID/App ID - Marketo Docs - Product Documentation
 title: Register an App with Azure to Acquire Your Client ID/App ID
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
+feature: Microsoft Dynamics
 ---
 # Register an App with Azure to Acquire Your Client ID/App ID {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 

@@ -3,6 +3,7 @@ unique-page-id: 14352540
 description: Preventing Self Views - Marketo Docs - Product Documentation
 title: Preventing Self Views
 exl-id: c18715fc-4ca2-4a6b-8f63-a9406f30c0d8
+feature: Marketo Sales Connect
 ---
 # Preventing Self Views {#preventing-self-views}
 

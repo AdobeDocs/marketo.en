@@ -3,6 +3,7 @@ unique-page-id: 14746188
 description: Syncing Unsubscribes with Salesforce - Marketo Docs - Product Documentation
 title: Syncing Unsubscribes with Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
+feature: Marketo Sales Connect
 ---
 # Syncing Unsubscribes with Salesforce {#syncing-unsubscribes-with-salesforce}
 

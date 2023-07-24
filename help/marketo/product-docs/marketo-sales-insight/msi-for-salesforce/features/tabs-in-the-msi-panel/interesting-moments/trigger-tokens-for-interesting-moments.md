@@ -3,6 +3,7 @@ unique-page-id: 1146999
 description: Trigger Tokens for Interesting Moments - Marketo Docs - Product Documentation
 title: Trigger Tokens for Interesting Moments
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
+feature: Marketo Sales Insights
 ---
 # Trigger Tokens for Interesting Moments {#trigger-tokens-for-interesting-moments}
 

@@ -3,6 +3,7 @@ unique-page-id: 8783561
 description: Sending a Sample - Marketo Docs - Product Documentation
 title: Sending a Sample
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
+feature: Mobile Marketing
 ---
 # Sending a Sample {#sending-a-sample}
 

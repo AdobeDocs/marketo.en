@@ -3,6 +3,7 @@ unique-page-id: 1146931
 description: Create a New Smart Campaign - Marketo Docs - Product Documentation
 title: Create a New Smart Campaign
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
+feature: Smart Campaigns
 ---
 # Create a New Smart Campaign {#create-a-new-smart-campaign}
 

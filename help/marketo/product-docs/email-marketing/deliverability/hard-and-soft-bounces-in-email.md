@@ -3,6 +3,7 @@ unique-page-id: 1147328
 description: Hard and Soft Bounces in Email - Marketo Docs - Product Documentation
 title: Hard and Soft Bounces in Email
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
+feature: Deliverability
 ---
 # Hard and Soft Bounces in Email {#hard-and-soft-bounces-in-email}
 

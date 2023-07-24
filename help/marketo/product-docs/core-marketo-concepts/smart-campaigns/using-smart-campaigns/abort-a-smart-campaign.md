@@ -3,6 +3,7 @@ unique-page-id: 1147053
 description: Abort a Smart Campaign - Marketo Docs - Product Documentation
 title: Abort a Smart Campaign
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
+feature: Smart Campaigns
 ---
 # Abort a Smart Campaign {#abort-a-smart-campaign}
 

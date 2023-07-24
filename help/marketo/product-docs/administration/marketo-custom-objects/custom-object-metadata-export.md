@@ -2,6 +2,7 @@
 description: Custom Object Metadata Export - Marketo Docs - Product Documentation
 title: Custom Object Metadata Export
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
+feature: Custom Objects
 ---
 # Custom Object Metadata Export {#custom-object-metadata-export}
 

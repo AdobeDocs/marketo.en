@@ -3,6 +3,7 @@ unique-page-id: 2359909
 description: Managing User Roles and Permissions - Marketo Docs - Product Documentation
 title: Managing User Roles and Permissions
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
+feature: Users and Roles
 ---
 # Managing User Roles and Permissions {#managing-user-roles-and-permissions}
 

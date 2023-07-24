@@ -3,6 +3,7 @@ unique-page-id: 6849029
 description: Update the Marketo Solution for Microsoft Dynamics - Marketo Docs - Product Documentation
 title: Update the Marketo Solution for Microsoft Dynamics
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
+feature: Microsoft Dynamics
 ---
 # Update the Marketo Solution for Microsoft Dynamics {#update-the-marketo-solution-for-microsoft-dynamics}
 

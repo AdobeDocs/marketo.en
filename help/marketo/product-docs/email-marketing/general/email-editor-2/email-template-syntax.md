@@ -3,6 +3,7 @@ unique-page-id: 11371040
 description: Email Template Syntax - Marketo Docs - Product Documentation
 title: Email Template Syntax
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
+feature: Email Editor
 ---
 # Email Template Syntax {#email-template-syntax}
 

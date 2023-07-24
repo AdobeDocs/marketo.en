@@ -3,6 +3,7 @@ unique-page-id: 7504744
 description: Install Marketo for Microsoft Dynamics 2015 On-Premises Step 3 of 3 - Marketo Docs - Product Documentation
 title: Install Marketo for Microsoft Dynamics 2015 On-Premises Step 3 of 3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
+feature: Microsoft Dynamics
 ---
 # Step 3 of 3: Connect Marketo Dynamics (2015 On-Prem) {#step-of-connect-marketo-dynamics-on-premises-2015}
 

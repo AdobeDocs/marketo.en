@@ -3,6 +3,7 @@ unique-page-id: 10092730
 description: Preview a Push Notification - Marketo Docs - Product Documentation
 title: Preview a Push Notification
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
+feature: Mobile Marketing
 ---
 # Preview a Push Notification {#preview-a-push-notification}
 

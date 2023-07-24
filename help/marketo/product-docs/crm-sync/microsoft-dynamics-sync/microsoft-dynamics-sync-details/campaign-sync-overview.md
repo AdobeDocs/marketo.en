@@ -2,6 +2,7 @@
 description: Campaign Sync Overview - Marketo Docs - Product Documentation
 title: Campaign Sync Overview
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
+feature: Microsoft Dynamics
 ---
 # Campaign Sync Overview {#campaign-sync-overview}
 

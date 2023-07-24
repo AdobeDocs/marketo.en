@@ -3,6 +3,7 @@ unique-page-id: 2360281
 description: Delete a Program Channel - Marketo Docs - Product Documentation
 title: Delete a Program Channel
 exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
+feature: Tags
 ---
 # Delete a Program Channel {#delete-a-program-channel}
 

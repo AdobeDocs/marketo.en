@@ -3,6 +3,7 @@ unique-page-id: 2950547
 description: Configure Person Capture for a Social App - Marketo Docs - Product Documentation
 title: Configure Person Capture for a Social App
 exl-id: bad8db26-bb1b-4d04-a80f-4d5ee3200335
+feature: Social
 ---
 # Configure Person Capture for a Social App {#configure-person-capture-for-a-social-app}
 

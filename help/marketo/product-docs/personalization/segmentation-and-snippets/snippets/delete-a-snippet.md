@@ -3,6 +3,7 @@ unique-page-id: 2359518
 description: Delete a Snippet - Marketo Docs - Product Documentation
 title: Delete a Snippet
 exl-id: 6984fd94-dd91-4832-83ce-3a6c3b35b034
+feature: Snippets
 ---
 # Delete a Snippet {#delete-a-snippet}
 

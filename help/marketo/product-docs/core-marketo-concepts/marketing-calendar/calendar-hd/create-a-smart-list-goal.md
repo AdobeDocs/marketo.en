@@ -3,6 +3,7 @@ unique-page-id: 7504128
 description: Create a Smart List Goal - Marketo Docs - Product Documentation
 title: Create a Smart List Goal
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
+feature: Marketing Calendar
 ---
 # Create a Smart List Goal {#create-a-smart-list-goal}
 

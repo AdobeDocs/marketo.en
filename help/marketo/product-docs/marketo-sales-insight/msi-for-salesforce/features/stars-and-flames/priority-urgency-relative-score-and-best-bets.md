@@ -3,6 +3,7 @@ unique-page-id: 2950396
 description: Priority, Urgency, Relative Score, and Best Bets - Marketo Docs - Product Documentation
 title: Priority, Urgency, Relative Score, and Best Bets
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
+feature: Marketo Sales Insights
 ---
 # Priority, Urgency, Relative Score, and Best Bets {#priority-urgency-relative-score-and-best-bets}
 

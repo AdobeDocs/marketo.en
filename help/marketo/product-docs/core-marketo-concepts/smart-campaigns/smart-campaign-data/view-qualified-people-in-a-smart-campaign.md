@@ -3,6 +3,7 @@ unique-page-id: 1146966
 description: View Qualified People in a Smart Campaign - Marketo Docs - Product Documentation
 title: View Qualified People in a Smart Campaign
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
+feature: Smart Campaigns
 ---
 # View Qualified People in a Smart Campaign {#view-qualified-people-in-a-smart-campaign}
 

@@ -3,6 +3,7 @@ unique-page-id: 11385053
 description: Deploy the JavaScript for Content-AI - Marketo Docs - Product Documentation
 title: Deploy the JavaScript for Content-AI
 exl-id: d48bfd1b-73e8-4013-88d6-8750e4ef532b
+feature: Predictive Content
 ---
 # Deploy the JavaScript for Content-AI {#deploy-the-javascript-for-content-ai}
 

@@ -3,6 +3,7 @@ unique-page-id: 8784008
 description: Template 10D - Marketo Docs - Product Documentation
 title: Template 10D
 exl-id: cd6a2879-032b-4722-ab6a-561bbccdff31
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 10D {#template-10d}
 

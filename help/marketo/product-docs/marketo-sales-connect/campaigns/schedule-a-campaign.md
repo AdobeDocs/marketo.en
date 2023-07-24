@@ -3,6 +3,7 @@ unique-page-id: 14352612
 description: Schedule a Campaign - Marketo Docs - Product Documentation
 title: Schedule a Campaign
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
+feature: Marketo Sales Connect
 ---
 # Schedule a Campaign {#schedule-a-campaign}
 

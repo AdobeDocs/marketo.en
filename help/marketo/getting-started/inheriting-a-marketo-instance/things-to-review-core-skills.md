@@ -3,6 +3,7 @@ unique-page-id: 7516607
 description: Things to Review - Core Skills - Marketo Docs - Product Documentation
 title: Things to Review - Core Skills
 exl-id: 37dfb6e7-b850-45fe-bbf4-15eb58a7bc1d
+feature: Getting Started
 ---
 # Things to Review: Core Skills {#things-to-review-core-skills}
 

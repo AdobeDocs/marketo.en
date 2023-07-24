@@ -3,6 +3,7 @@ unique-page-id: 2949194
 description: SEO - Add a Site/Delete a Site - Marketo Docs - Product Documentation
 title: SEO - Add a Site/Delete a Site
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
+feature: SEO
 ---
 # SEO - Add a Site/Delete a Site {#seo-add-a-site-delete-a-site}
 

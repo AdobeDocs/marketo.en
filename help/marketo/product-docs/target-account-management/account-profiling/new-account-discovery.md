@@ -3,6 +3,7 @@ unique-page-id: 37355609
 description: New Account Discovery - Marketo Docs - Product Documentation
 title: New Account Discovery
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
+feature: Target Account Management
 ---
 # New Account Discovery {#new-account-discovery}
 

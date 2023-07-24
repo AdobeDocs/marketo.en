@@ -3,6 +3,7 @@ unique-page-id: 2360317
 description: Assign Person Partitions to Workspaces - Marketo Docs - Product Documentation
 title: Assign Person Partitions to Workspaces
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
+feature: Workspaces
 ---
 # Assign Person Partitions to Workspaces {#assign-person-partitions-to-workspaces}
 

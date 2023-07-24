@@ -3,6 +3,7 @@ unique-page-id: 1147011
 description: Add to Engagement Program - Marketo Docs - Product Documentation
 title: Add to Engagement Program
 exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
+feature: Smart Campaigns
 ---
 # Add to Engagement Program {#add-to-engagement-program}
 

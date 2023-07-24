@@ -3,6 +3,7 @@ unique-page-id: 10095389
 description: Create a Contact in Microsoft Dynamics - Marketo Docs - Product Documentation
 title: Create a Contact in Microsoft Dynamics
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
+feature: Microsoft Dynamics
 ---
 # Create a Contact in Microsoft Dynamics {#create-a-contact-in-microsoft-dynamics}
 

@@ -3,6 +3,7 @@ unique-page-id: 2950559
 description: Configure Re-Share Email and Prompt for a Social App - Marketo Docs - Product Documentation
 title: Configure Re-Share Email and Prompt for a Social App
 exl-id: 169cd423-d9e3-4dba-bce5-d6bd329d5afa
+feature: Social
 ---
 # Configure Re-Share Email and Prompt for a Social App {#configure-re-share-email-and-prompt-for-a-social-app}
 

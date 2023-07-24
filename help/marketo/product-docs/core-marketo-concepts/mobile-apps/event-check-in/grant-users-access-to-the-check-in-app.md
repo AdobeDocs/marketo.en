@@ -3,6 +3,7 @@ unique-page-id: 7516639
 description: Grant Users Access to the Check-in App - Marketo Docs - Product Documentation
 title: Grant Users Access to the Check-in App
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
+feature: Mobile Marketing
 ---
 # Grant Users Access to the Check-in App {#grant-users-access-to-the-check-in-app}
 

@@ -3,6 +3,7 @@ unique-page-id: 7504893
 description: "Add [!DNL Google AdWords] as a [!DNL Launchpoint] Service with a Manager Account - Marketo Docs - Product Documentation"
 title: "Add [!DNL Google AdWords] as a [!DNL Launchpoint] Service with a Manager Account"
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
+feature: Administration, Integrations
 ---
 # Add [!DNL Google AdWords] as a [!DNL Launchpoint] Service with a Manager Account {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 

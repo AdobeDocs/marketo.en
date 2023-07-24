@@ -3,6 +3,7 @@ unique-page-id: 2360276
 description: Hide/Unhide a Program Channel - Marketo Docs - Product Documentation
 title: Hide/Unhide a Program Channel
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
+feature: Tags
 ---
 # Hide/Unhide a Program Channel {#hide-unhide-a-program-channel}
 

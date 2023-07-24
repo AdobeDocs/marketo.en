@@ -3,6 +3,7 @@ unique-page-id: 2953463
 description: SFDC Sync - Lead/Account Owner Sync - Marketo Docs - Product Documentation
 title: SFDC Sync - Lead/Account Owner Sync
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
+feature: Salesforce Integration
 ---
 # SFDC Sync: Lead/Account Owner Sync {#sfdc-sync-lead-account-owner-sync}
 

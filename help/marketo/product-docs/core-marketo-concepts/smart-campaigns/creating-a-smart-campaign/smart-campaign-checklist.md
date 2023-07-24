@@ -3,6 +3,7 @@ unique-page-id: 1147051
 description: Smart Campaign Checklist - Marketo Docs - Product Documentation
 title: Smart Campaign Checklist
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
+feature: Smart Campaigns
 ---
 # Smart Campaign Checklist {#smart-campaign-checklist}
 

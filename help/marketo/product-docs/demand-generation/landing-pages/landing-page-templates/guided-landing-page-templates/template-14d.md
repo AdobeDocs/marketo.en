@@ -3,6 +3,7 @@ unique-page-id: 9437810
 description: Template 14D - Marketo Docs - Product Documentation
 title: Template 14D
 exl-id: e8ef7eb9-c3a5-4c19-9022-d93bb4d07e89
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 14D {#template-14d}
 

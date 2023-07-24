@@ -3,6 +3,7 @@ unique-page-id: 4718654
 description: Understanding Revenue Models - Marketo Docs - Product Documentation
 title: Understanding Revenue Models
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Understanding Revenue Models {#understanding-revenue-models}
 

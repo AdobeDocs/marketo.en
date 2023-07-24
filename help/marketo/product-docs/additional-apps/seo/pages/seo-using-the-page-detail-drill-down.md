@@ -3,6 +3,7 @@ unique-page-id: 2949186
 description: SEO - Using the Page Detail Drill Down - Marketo Docs - Product Documentation
 title: SEO - Using the Page Detail Drill Down
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
+feature: SEO
 ---
 # SEO - Using the Page Detail Drill Down {#seo-using-the-page-detail-drill-down}
 

@@ -3,6 +3,7 @@ unique-page-id: 42762322
 description: Marketo Sales Insight Configuration Tab in Salesforce - Marketo Docs - Product Documentation
 title: Marketo Sales Insight Configuration Tab in Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
+feature: Marketo Sales Insights
 ---
 # Marketo Sales Insight Configuration Tab in Salesforce {#marketo-sales-insight-configuration-tab-in-salesforce}
 

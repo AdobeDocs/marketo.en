@@ -3,6 +3,7 @@ unique-page-id: 2950682
 description: Create a Program Channel - Marketo Docs - Product Documentation
 title: Create a Program Channel
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
+feature: Tags
 ---
 # Create a Program Channel {#create-a-program-channel}
 

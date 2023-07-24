@@ -3,6 +3,7 @@ unique-page-id: 5472328
 description: Refresh a Report - Marketo Docs - Product Documentation
 title: Refresh a Report
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
+feature: Reporting
 ---
 # Refresh a Report {#refresh-a-report}
 

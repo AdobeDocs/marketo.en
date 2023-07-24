@@ -3,6 +3,7 @@ unique-page-id: 2953405
 description: Edit Analytics Behavior Settings - Marketo Docs - Product Documentation
 title: Edit Analytics Behavior Settings
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
+feature: Programs
 ---
 # Edit Analytics Behavior Settings {#edit-analytics-behavior-settings}
 

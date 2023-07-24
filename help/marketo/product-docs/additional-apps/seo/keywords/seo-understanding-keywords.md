@@ -3,6 +3,7 @@ unique-page-id: 2949182
 description: SEO - Understanding Keywords - Marketo Docs - Product Documentation
 title: SEO - Understanding Keywords
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
+feature: SEO
 ---
 # SEO - Understanding [!UICONTROL Keywords] {#seo-understanding-keywords}
 

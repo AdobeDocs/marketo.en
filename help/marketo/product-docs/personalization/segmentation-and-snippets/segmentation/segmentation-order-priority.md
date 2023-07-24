@@ -3,6 +3,7 @@ unique-page-id: 2359500
 description: Segmentation Order Priority - Marketo Docs - Product Documentation
 title: Segmentation Order Priority
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
+feature: Segmentation
 ---
 # Segmentation Order Priority {#segmentation-order-priority}
 

@@ -3,6 +3,7 @@ unique-page-id: 18317367
 description: View Campaigns List as Another User - Marketo Docs - Product Documentation
 title: View Campaigns List as Another User
 exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
+feature: Marketo Sales Connect
 ---
 # View Campaigns List as Another User {#view-campaigns-list-as-another-user}
 

@@ -3,6 +3,7 @@ unique-page-id: 10094959
 description: Using Dashboards in Revenue Explorer - Marketo Docs - Product Documentation
 title: Using Dashboards in Revenue Explorer
 exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Using Dashboards in Revenue Explorer {#using-dashboards-in-revenue-explorer}
 

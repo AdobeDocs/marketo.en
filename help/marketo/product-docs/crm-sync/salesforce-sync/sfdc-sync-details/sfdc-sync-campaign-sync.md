@@ -3,6 +3,7 @@ unique-page-id: 2953469
 description: SFDC Sync - Campaign Sync - Marketo Docs - Product Documentation
 title: SFDC Sync - Campaign Sync
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
+feature: Salesforce Integration
 ---
 # SFDC Sync: Campaign Sync {#sfdc-sync-campaign-sync}
 

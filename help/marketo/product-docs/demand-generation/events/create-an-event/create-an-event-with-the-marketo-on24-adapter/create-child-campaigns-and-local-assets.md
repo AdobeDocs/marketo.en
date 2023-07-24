@@ -3,6 +3,7 @@ unique-page-id: 10096675
 description: Create Child Campaigns and Local Assets - Marketo Docs - Product Documentation
 title: Create Child Campaigns and Local Assets
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
+feature: Events
 ---
 # Create Child Campaigns and Local Assets {#create-child-campaigns-and-local-assets}
 

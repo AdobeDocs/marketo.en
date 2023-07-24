@@ -3,6 +3,7 @@ unique-page-id: 2950545
 description: Add Your Privacy Policy to a Social App - Marketo Docs - Product Documentation
 title: Add Your Privacy Policy to a Social App
 exl-id: 21c7a136-eafd-4851-a4dd-0e10bb5dacde
+feature: Social
 ---
 # Add Your Privacy Policy to a Social App {#add-your-privacy-policy-to-a-social-app}
 

@@ -3,6 +3,7 @@ unique-page-id: 2359912
 description: Export a List of Users and Roles - Marketo Docs - Product Documentation
 title: Export a List of Users and Roles
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
+feature: Users and Roles
 ---
 # Export a List of Users and Roles {#export-a-list-of-users-and-roles}
 

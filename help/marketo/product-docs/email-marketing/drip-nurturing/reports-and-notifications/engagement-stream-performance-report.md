@@ -3,6 +3,7 @@ unique-page-id: 2359955
 description: Engagement Stream Performance Report - Marketo Docs - Product Documentation
 title: Engagement Stream Performance Report
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
+feature: Engagement Programs, Reporting
 ---
 # Engagement Stream Performance Report {#engagement-stream-performance-report}
 

@@ -2,6 +2,7 @@
 description: Log Call Reasons and Call Outcomes to Salesforce - Marketo Docs - Product Documentation
 title: Log Call Reasons and Call Outcomes to Salesforce
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
+feature: Marketo Sales Connect
 ---
 # Log Call Reasons and Call Outcomes to Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
 

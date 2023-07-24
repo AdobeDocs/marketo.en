@@ -3,6 +3,7 @@ unique-page-id: 11377408
 description: Add an Additional Branding Domain with Workspaces - Marketo Docs - Product Documentation
 title: Add an Additional Branding Domain with Workspaces
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
+feature: Email Setup
 ---
 # Add an Additional Branding Domain with Workspaces {#add-an-additional-branding-domain-with-workspaces}
 

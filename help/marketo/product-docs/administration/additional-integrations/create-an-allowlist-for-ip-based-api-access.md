@@ -3,6 +3,7 @@ unique-page-id: 10098433
 description: Create an Allowlist for IP-Based API Access - Marketo Docs - Product Documentation
 title: Create an Allowlist for IP-Based API Access
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
+feature: Administration
 ---
 # Create an Allowlist for IP-Based API Access {#create-an-allowlist-for-ip-based-api-access}
 

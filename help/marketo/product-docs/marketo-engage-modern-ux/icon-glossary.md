@@ -2,6 +2,7 @@
 description: Icon Glossary - Marketo Docs - Product Documentation
 title: Icon Glossary
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
+feature: Modern UX
 ---
 # Icon Glossary {#new-icon-glossary}
 

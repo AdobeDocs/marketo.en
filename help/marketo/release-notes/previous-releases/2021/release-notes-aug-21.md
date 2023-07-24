@@ -2,6 +2,7 @@
 description: Release Notes - August 2021 - Marketo Docs - Product Documentation
 title: Release Notes - August 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
+feature: Release Information
 ---
 # Release Notes: August 2021 {#release-notes-aug-21}
 

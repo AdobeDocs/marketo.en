@@ -3,6 +3,7 @@ unique-page-id: 11377392
 description: Edit Your Default Branding Domain - Marketo Docs - Product Documentation
 title: Edit Your Default Branding Domain
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
+feature: Email Setup
 ---
 # Edit Your Default Branding Domain {#edit-your-default-branding-domain}
 

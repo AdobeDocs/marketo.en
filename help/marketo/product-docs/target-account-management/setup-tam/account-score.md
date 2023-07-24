@@ -3,6 +3,7 @@ unique-page-id: 11380774
 description: Account Score - Marketo Docs - Product Documentation
 title: Account Score
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
+feature: Target Account Management
 ---
 # Account Score {#account-score}
 

@@ -3,6 +3,7 @@ unique-page-id: 14352495
 description: What Are the Sales Connect Terms of Service? - Marketo Docs - Product Documentation
 title: What Are the Sales Connect Terms of Service?
 exl-id: 958d5d0f-1cf4-4653-aaf9-e516a23cb702
+feature: Marketo Sales Connect
 ---
 # What Are the Sales Connect Terms of Service? {#what-are-the-sales-connect-terms-of-service}
 

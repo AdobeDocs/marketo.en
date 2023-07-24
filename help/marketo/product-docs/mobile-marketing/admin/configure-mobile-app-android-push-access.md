@@ -3,6 +3,7 @@ unique-page-id: 7512432
 description: Configure Mobile App Android Push Access - Marketo Docs - Product Documentation
 title: Configure Mobile App Android Push Access
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
+feature: Mobile Marketing
 ---
 # Configure Mobile App Android Push Access {#configure-mobile-app-android-push-access}
 

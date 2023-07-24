@@ -3,6 +3,7 @@ unique-page-id: 12615781
 description: Create a Named Account - Marketo Docs - Product Documentation
 title: Create a Named Account
 exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
+feature: Target Account Management
 ---
 # Create a Named Account {#create-a-named-account}
 

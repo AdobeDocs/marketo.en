@@ -3,6 +3,7 @@ unique-page-id: 10912085
 description: Shared and Dedicated IP Addresses - Marketo Docs - Product Documentation
 title: Shared and Dedicated IP Addresses
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
+feature: Deliverability
 ---
 # Shared and Dedicated IP Addresses {#shared-and-dedicated-ip-addresses}
 

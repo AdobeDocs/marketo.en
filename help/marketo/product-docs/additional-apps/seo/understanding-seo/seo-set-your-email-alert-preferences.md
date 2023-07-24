@@ -3,6 +3,7 @@ unique-page-id: 2949196
 description: SEO - Set Your Email Alert Preferences - Marketo Docs - Product Documentation
 title: SEO - Set Your Email Alert Preferences
 exl-id: 7675a589-dc40-433b-bf0c-1e78e4d653b5
+feature: SEO
 ---
 # SEO - Set Your Email Alert Preferences {#seo-set-your-email-alert-preferences}
 

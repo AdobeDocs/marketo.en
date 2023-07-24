@@ -3,6 +3,7 @@ unique-page-id: 8783947
 description: Template 7C - Marketo Docs - Product Documentation
 title: Template 7C
 exl-id: 4c3925e9-dd00-4488-8c2b-4fa0194e80f1
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 7C {#template-7c}
 

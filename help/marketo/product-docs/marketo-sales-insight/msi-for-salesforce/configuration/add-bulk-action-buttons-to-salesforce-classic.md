@@ -2,6 +2,7 @@
 description: Add Bulk Action Buttons to Salesforce Classic - Marketo Docs - Product Documentation
 title: Add Bulk Action Buttons to Salesforce Classic
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
+feature: Marketo Sales Insights
 ---
 # Add Bulk Action Buttons to Salesforce Classic{#add-bulk-action-buttons-to-salesforce-classic}
 

@@ -3,6 +3,7 @@ unique-page-id: 4719071
 description: Edit Account Settings - Marketo Docs - Product Documentation
 title: Edit Account Settings
 exl-id: 770841b8-dbaa-4bb6-bcc0-5ea07e8f7b6c
+feature: Administration
 ---
 # Edit Account Settings {#edit-account-settings}
 

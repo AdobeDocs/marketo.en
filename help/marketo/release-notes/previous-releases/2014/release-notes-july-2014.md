@@ -3,6 +3,7 @@ unique-page-id: 2951040
 description: Release Notes -July 2014 - Marketo Docs - Product Documentation
 title: Release Notes -July 2014
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
+feature: Release Information
 ---
 # Release Notes: July 2014 {#release-notes-july}
 

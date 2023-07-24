@@ -3,6 +3,7 @@ unique-page-id: 2359569
 description: Make a Form Field Required - Marketo Docs - Product Documentation
 title: Make a Form Field Required
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
+feature: Forms
 ---
 # Make a Form Field Required {#make-a-form-field-required}
 

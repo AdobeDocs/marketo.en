@@ -3,6 +3,7 @@ unique-page-id: 1147294
 description: Filtering the Marketing Calendar - Marketo Docs - Product Documentation
 title: Filtering the Marketing Calendar
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
+feature: Marketing Calendar
 ---
 # Filtering the Marketing Calendar {#filtering-the-marketing-calendar}
 

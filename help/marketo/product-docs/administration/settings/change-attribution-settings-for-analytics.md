@@ -3,6 +3,7 @@ unique-page-id: 2360217
 description: Change Attribution Settings for Analytics - Marketo Docs - Product Documentation
 title: Change Attribution Settings for Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
+feature: Administration
 ---
 # Change Attribution Settings for Analytics {#change-attribution-settings-for-analytics}
 

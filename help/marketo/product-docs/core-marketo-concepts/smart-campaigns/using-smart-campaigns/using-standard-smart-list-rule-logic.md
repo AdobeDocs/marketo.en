@@ -3,6 +3,7 @@ unique-page-id: 1147001
 description: Using Standard Smart List Rule Logic - Marketo Docs - Product Documentation
 title: Using Standard Smart List Rule Logic
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
+feature: Smart Campaigns
 ---
 # Using Standard Smart List Rule Logic {#using-standard-smart-list-rule-logic}
 
