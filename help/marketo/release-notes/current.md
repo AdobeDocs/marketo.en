@@ -18,7 +18,7 @@ The following features fall under the standard release cycle and will start to b
 
 </br>
 
-* **Engagement Canvas**: The Engagement Canvas is a visual tool that allows you to build and organize reusable campaigns. It's completely backwards compatible, so all existing campaigns can be viewed in this new structure with the click of a button. Canvases can be downloaded and shared. 
+* **Engagement Map**: The Engagement Map is a visual tool that allows you to build and organize reusable campaigns. It's completely backwards compatible, so all existing campaigns can be viewed in this new structure with the click of a button. Canvases can be downloaded and shared.
 
 <table> 
   <tr> 
@@ -28,6 +28,20 @@ The following features fall under the standard release cycle and will start to b
   <tr> 
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Notifications - Web Services Error**: The Web Services Error notification now includes the subscription name, which makes it easier for those managing multiple Marketo Engage instances. We have also added a "User" column to table that contains Error Codes and Counts, so you can easily identify which API User was responsible for generating a specific error when calling the Marketo REST API.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentation Updates</b></td>
+  </tr>
+  <tr> 
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>

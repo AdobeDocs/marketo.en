@@ -17,7 +17,7 @@ It includes the following three sections.
 
 * **Recurrence**: Used to schedule a daily, weekly, or monthly recurrence.
 
-SCREENSHOT
+   ![](assets/settings-tab-1.png)
 
 Qualification rules will be available for all campaigns (trigger and batch) and include the following settings:
 
@@ -25,7 +25,7 @@ Qualification rules will be available for all campaigns (trigger and batch) and 
 * The ability to block a non-operational campaign if the person is over their communication limit  
 * The ability to set an abort campaign people limit 
 
-SCREENSHOT
+   ![](assets/settings-tab-2.png)
 
 Individual runs can be used to either run a campaign immediately, or to set up some one-off runs in the future.
 
@@ -33,11 +33,11 @@ Individual runs can be used to either run a campaign immediately, or to set up s
 >
 >It's easier to use the recurrence modal if you're scheduling a series of campaigns.
 
-SCREENSHOT
+   ![](assets/settings-tab-3.png)
 
 The recurrence modal includes the ability to set up a recurring schedule on a daily, weekly, or monthly basis. Once set up, you'll be able to see the next three runs in the Settings tab.
 
-SCREENSHOT
+   ![](assets/settings-tab-4.png)
 
 The Settings tab also includes a quick overview of your Smart List. It includes the following: 
 
@@ -55,3 +55,7 @@ Permission sets and Errors in Settings tab:
 All existing permission sets will be applicable in the Settings tab. If the Edit button is grayed out it means you do not have permissions to perform edits and would need to reach out to your Marketo Admin.
 
 ADD DESCRIPTION ON CANCELLING SCHEDULED RUNS - CONFIRM WITH LOPA AFTER SHUTDOWN --> If a user does not have access to edit campaign settings, they will also not have access to cancel any scheduled runs.
+
+   ![](assets/settings-tab-5.png)
+
+   ![](assets/settings-tab-6.png)

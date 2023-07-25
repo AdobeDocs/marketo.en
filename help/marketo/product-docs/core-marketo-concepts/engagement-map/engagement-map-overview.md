@@ -1,35 +1,35 @@
 ---
-description: Engagement Canvas Overview - Marketo Docs - Product Documentation
-title: Engagement Canvas Overview
+description: Engagement Map Overview - Marketo Docs - Product Documentation
+title: Engagement Map Overview
 hide: yes
 hidefromtoc: yes
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
 ---
-# Engagement Canvas Overview {#engagement-canvas-overview}
+# Engagement Map Overview {#engagement-map-overview}
 
 >[!AVAILABILITY]
 >
 >This feature is currently available for Smart Campaigns. It is not available for Programs.
 
-The Engagement Canvas allows you to build out reusable Smart Campaigns with the help of intuitive visuals. It offers full backward compatibility with all existing Marketo Engage Smart Campaigns, without the loss of any current features.
+The Engagement Map allows you to build out reusable Smart Campaigns with the help of intuitive visuals. It offers full backward compatibility with all existing Marketo Engage Smart Campaigns, without the loss of any current features.
 
 SCREENSHOT
 
-## Accessing Engagement Canvas {#accessing-engagement-canvas}
+## Accessing Engagement Map {#accessing-engagement-map}
 
-Navigate to any existing campaign and click the **Engagement Canvas** button.
+Navigate to any existing campaign and click the **Engagement Map** button.
 
 SCREENSHOT
 
-Once in the Engagement Canvas, you'll see two tabs: [Engagement Canvas](/help/marketo/product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md){target="_blank"}.
+Once in the Engagement Map, you'll see two tabs: [Engagement Map](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}.
 
 SCREENSHOT
 
 HEADER - CARD DESCRIPTIONS? - LOPA WILL CONFIRM
 
-**Triggers**: In campaigns that include triggers, the canvas will have a "Trigger Overview" card. Clicking on this will reveal a card for each trigger, as well a slide-out panel with additional information.
+**Triggers**: In campaigns that include triggers, the map will have a "Trigger Overview" card. Clicking on this will reveal a card for each trigger, as well a slide-out panel with additional information.
 
-**Filters**: In campaigns that include filters, the canvas will contain a card for each one. Clicking on them will reveal a slide-out panel with additional information.
+**Filters**: In campaigns that include filters, the map will contain a card for each one. Clicking on them will reveal a slide-out panel with additional information.
 
 **Flow Steps**: Each campaign will include a card for each flow step. Clicking on them will reveal a slide-out panel with additional information.
 
@@ -67,33 +67,33 @@ The top nav includes the following features:
 
 >[!NOTE]
 >
->Changes made in an open Smart List and Flow tab will be reflected in the Engagement Canvas tab upon refresh. It will not automatically update. Updates and edits that are auto-saved will be reflected.
+>Changes made in an open Smart List and Flow tab will be reflected in the Engagement Map tab upon refresh. It will not automatically update. Updates and edits that are auto-saved will be reflected.
 
 ## FAQ {#faq}
 
-**Do I have to rebuild all my campaigns in Engagement Canvas?**
+**Do I have to rebuild all my campaigns in Engagement Map?**
 
-No. Engagement Canvas has full backwards compatibility. With the click of a button, you'll be able to see each of your existing campaigns in the visual Engagement Canvas interface.
+No. Engagement Map has full backwards compatibility. With the click of a button, you'll be able to see each of your existing campaigns in the visual Engagement Map interface.
 
-**Does having Engagement Canvas in Marketo Engage mean I'll lose access to the folder structure and will have to re-learn how to build a Smart Campaign?**
+**Does having Engagement Map in Marketo Engage mean I'll lose access to the folder structure and will have to re-learn how to build a Smart Campaign?**
 
-No. The great thing about Engagement Canvas is that it gives you the best of both worlds; it's complementary to the current way you build campaigns. You can choose if you want to use the existing UI or build/visualize in the new UI. All users will still get Marketo Engage's powerful feature set, now complemented by a visual creation tool.
+No. The great thing about Engagement Map is that it gives you the best of both worlds; it's complementary to the current way you build campaigns. You can choose if you want to use the existing UI or build/visualize in the new UI. All users will still get Marketo Engage's powerful feature set, now complemented by a visual creation tool.
 
-**Is Engagement Canvas a paid add-on?**
+**Is Engagement Map a paid add-on?**
 
 No. All existing and new Marketo Engage users under all subscriptions will have access to this complimentary feature.
 
-**As a Marketo Engage admin, am I responsible for turning Engagement Canvas on/off?**
+**As a Marketo Engage admin, am I responsible for turning Engagement Map on/off?**
 
-No. Engagement Canvas will be available for all users in their instances. You will not be able to turn it on/off for certain users, workspaces, etc.
+No. Engagement Map will be available for all users in their instances. You will not be able to turn it on/off for certain users, workspaces, etc.
 
-**Is everything currently available in Smart Campaigns also available in Engagement Canvas?**
+**Is everything currently available in Smart Campaigns also available in Engagement Map?**
 
-Yes. Engagement Canvas has full feature parity with Smart Campaigns.
+Yes. Engagement Map has full feature parity with Smart Campaigns.
 
 **How is this different from other visual builders?**
 
-There are three key things that set Engagement Canvas apart: 
+There are three key things that set Engagement Map apart: 
 
 * Flexibility: Easily manage and validate interconnected or deeply nested campaigns with visualization.
 
@@ -103,5 +103,5 @@ There are three key things that set Engagement Canvas apart:
 
 >[!MORELIKETHIS]
 >
->* [Engagement Canvas Tab](/help/marketo/product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md){target="_blank"}
->* [Settings Tab](/help/marketo/product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md){target="_blank"}
+>* [Engagement Map Tab](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
+>* [Settings Tab](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}
