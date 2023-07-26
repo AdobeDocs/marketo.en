@@ -7,7 +7,7 @@ exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
 ---
 # Settings Tab {#settings-tab}
 
-The Settings tab is home to all your campaign settings, including the same permission sets and access as the Schedule tab. VISITING THIS TAB WILL NOT DISRUPT??? CONSIDER DROPPING OR REWORDING - LOPA WILL CONFIRM - It will not disrupt any existing campaign settings.
+The Settings tab is home to all your campaign settings, including the same permission sets and access as the Schedule tab in Smart Campaigns.
 
 It includes the following three sections.
 
@@ -52,9 +52,13 @@ The Settings tab also includes a quick overview of your Smart List. It includes 
 
 Permission sets and Errors in Settings tab: 
 
-All existing permission sets will be applicable in the Settings tab. If the Edit button is grayed out it means you do not have permissions to perform edits and would need to reach out to your Marketo Admin.
+All existing permission sets will be applicable in the Settings tab. If the Edit button is grayed out, please click the help icon to find out why.
 
-ADD DESCRIPTION ON CANCELLING SCHEDULED RUNS - CONFIRM WITH LOPA AFTER SHUTDOWN --> If a user does not have access to edit campaign settings, they will also not have access to cancel any scheduled runs.
+>[!NOTE]
+>
+>If after clicking the help icon you see "Additional Permission Required," please reach out to your Marketo Admin.
+
+REDUNDANT AS IT'S EXPLAINED ABOVE, CAN WE REMOVE --> If a user does not have access to edit campaign settings, they will also not have access to cancel any scheduled runs.
 
    ![](assets/settings-tab-5.png)
 

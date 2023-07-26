@@ -88,72 +88,72 @@ Flow steps: If a flow step does _not_ include any choices, this card will show a
 
 ## Visualizing a Nested Execute Campaign {#visualizing-a-nested-execute-campaign}
 
-PICKED EDITING BACK UP HERE-------------
+Execute campaigns run in series with the parent campaign. People that qualify for an executable campaign complete all flow steps from the campaign and return to the primary campaign to continue through the flow steps of this campaign.
 
-Execute campaigns run in series with the parent campaign-people that qualify for an executable campaign complete all flow steps from the campaign and return to the primary campaign to continue through the flow steps of this campaign.
-
-Below is an example of a smart campaign, "Campaign A," which includes an execute campaign flow step. Think of "Campaign A" as your primary campaign. 
+Below is an example of a Smart Campaign, "Campaign A," which includes an execute campaign flow step. Think of "Campaign A" as your primary campaign. 
 
    ![](assets/engagement-map-tab-11.png)
 
 1. Clicking on the execute campaign flow card will expand to show details of "Campaign B".
-1. "Campaign B" includes a filter which branches out into qualified and not qualified audience.  
-1. Qualified audience goes through flow steps associated to "Campaign B."
+1. "Campaign B" includes a filter that splits the audience into two groups: qualified and not qualified.  
+1. Qualified audience goes through the flow steps associated to "Campaign B."
 1. All audience (qualified and not qualified) return to "Campaign A" and move on to the next flow step.
-
-STOPPED EDITING HERE------------------
 
    ![](assets/engagement-map-tab-12.png)
 
-You can click on the Execute Campaign flow step in "Campaign B" which will expand to show choice cards and campaign associated with each choice.
+You can click on the Execute Campaign flow step in "Campaign B" which will expand to show the choice cards and campaign associated with each choice.
 
    ![](assets/engagement-map-tab-13.png)
 
 ## Visualizing Request Campaign {#visualizing-request-campaign}
 
-Request campaigns run in parallel with the parent campaign i.e leads that qualify for a request campaign complete all flow steps from the campaign and exit the campaign. In parallel, the same set of leads will also go through flow steps from the primary campaign 
+Request campaigns run in parallel with the parent campaign. People that qualify for a request campaign complete all the flow steps from the campaign and then exit the campaign. Concurrently, the same set of people go through the flow steps from the primary campaign. 
 
-Here's an example of a smart campaign "Campaign A" which includes a request campaign flow step. You can think of "Campaign A" to be your primary campaign.
+Here's an example of a Smart Campaign, "Campaign A," which includes a request campaign flow step. Think of "Campaign A" as your primary campaign.
 
    ![](assets/engagement-map-tab-14.png)
 
-1. Clicking on the request campaign flow card will expand to show details of "Campaign B" 
-1. Campaign B includes filter which branches out in to qualified audience.  
-1. Qualified audience goes through flow steps associated to "Campaign B" 
-1. In parallel, all audience move to the next flow steps in "Campaign A" 
+1. Clicking on the request campaign flow card will expand to show the details of "Campaign B" 
+1. "Campaign B" includes a filter that splits the audience into two groups: qualified and not qualified.    
+1. Qualified audience goes through the flow steps associated to "Campaign B."
+1. At the same time, all audience moves to the next flow steps in "Campaign A." 
 
    ![](assets/engagement-map-tab-15.png)
 
-You can dive deeper into nested campaigns, if any of the flow steps includes yet another request campaign by clicking on the flow card to view details of the campaign 
+You can dive deeper into your nested campaigns if any of the flow steps include another request campaign by clicking on the flow card to view the details of the campaign.
 
    ![](assets/engagement-map-tab-16.png)
 
-Here's an example of request campaign with choices.  
+Here's an example of a request campaign with choices.  
 
    ![](assets/engagement-map-tab-17.png)
 
 ## Error Handling {#error-handling}
 
-Errors in smart list and flow steps will be highlighted via error icon in the card. Additionally, corresponding error message will be reflected in the slide out panel.
+Errors in Smart Lists and flow steps will be highlighted via an error icon in the card. Additionally, a corresponding error message will be reflected in the slide-out panel.
 
-Here's an example of error in trigger which will be indicated in the trigger overview card, slide out panel as well as detail trigger card
+Below is an example of an error in a trigger which shows in the trigger overview card, slide-out panel, and the detail trigger card.
 
    ![](assets/engagement-map-tab-18.png)
 
    ![](assets/engagement-map-tab-19.png)
 
-Error in filter card can include 
+**Errors in filter cards can include:**
 
-Error in smart list which will result in qualified audience not being shown 
+* An error in the Smart List which will result in qualified audience not being shown 
 
-Error in filter logic 
+* An error in the filter logic 
 
-Error in constraints or lack thereof in one or more filters 
+* An error in constraints (or lack thereof) in one or more filters 
 
    ![](assets/engagement-map-tab-20.png)
 
-Not entering values (attributes) will not be flagged as errors, it will continue to work as it does in Flow tab. Therefore, existing campaigns will not be disrupted. However, when flow steps do not include any attributes these will show up as warnings. 
+Not entering values (attributes) will not result in an error, it will continue to work as it does in Flow tab. Therefore, existing campaigns will not be disrupted. However, when flow steps do not include any attributes these will show up as warnings. 
+
+^^^ DO WE REALLY NEED THIS, WON'T CUSTOMER SEE WARNING???
 
    ![](assets/engagement-map-tab-21.png)
 
-Note: Errors within a nested campaign will not be visible until you have clicked to expand the nested campaign
+>[!NOTE]
+>
+>Errors within a nested campaign won't be visible until you've clicked to expand the nested campaign.
