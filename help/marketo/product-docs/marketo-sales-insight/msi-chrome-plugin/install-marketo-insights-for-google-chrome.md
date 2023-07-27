@@ -7,17 +7,17 @@ feature: Marketo Sales Insights
 ---
 # Install Marketo Insights for Google Chrome {#install-marketo-insights-for-google-chrome}
 
-Follow these steps to begin using the powerful Chrome add-in.
+Follow these steps to begin using the powerful Chrome add-in. You do not need to be a Marketo admin to install the extension.
 
 >[!NOTE]
 >
 >Sales Insight Actions capabilities, including Send Sales Email, Add to Sales Campaign, and Tasks, are not available in the Sales Insight email plugins for Gmail and Outlook. At this time, users only have the ability to send a trackable email with or without a Marketo email template from their email client when using the Sales Insight email plugins.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->You do not need to be a Marketo admin to install the extension.
+>This extension is not compatible with [Adobe Identity authentication](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} at this time.
 
-1. Install the [Marketo Insights for Google Chrome Add in extension](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) from the Chrome Web Store.
+1. Install the [Marketo Insights for Google Chrome Add in extension](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb){target="_blank"} from the Chrome Web Store.
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
@@ -35,7 +35,7 @@ Follow these steps to begin using the powerful Chrome add-in.
 
    >[!NOTE]
    >
-   >The Reg code will be in the email sent after a Marketo Admin [issues you a Marketo Email Add-in License](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](https://docs.marketo.com/pages/viewpage.action?pageid=7510848) **It expires after 14 days**.
+   >The Reg code will be in the email sent after a Marketo Admin [issues you a Marketo Email Add-in License](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md){target="_blank"}. **It expires after 14 days**.
 
 1. Click **Allow** to allow offline access.
 
@@ -43,4 +43,4 @@ Follow these steps to begin using the powerful Chrome add-in.
 
 >[!MORELIKETHIS]
 >
->[Using Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[Using Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md){target="_blank"}
