@@ -1,15 +1,17 @@
 ---
-description: Links Doc - Marketo Docs - Product Documentation
-title: Links Doc
+description: Inbox Tracker Tutorials - Marketo Docs - Product Documentation
+title: Inbox Tracker Tutorials
 hide: yes
 hidefromtoc: yes
 feature: Deliverability
 ---
-# Links Doc {#links-doc}
+# Inbox Tracker Tutorials {#inbox-tracker-tutorials.md}
 
-Inbox Tracker intro text.
+Inbox Tracker, by MessageBird, is a powerful third party tool...
 
-MessageBird has created several training videos to help you maneuver...
+MessageBird has created several training videos to help you navigate the platform.
+
+SCREENSHOT
 
 ## Inbox Tracker Overview {#inbox-tracker-overview}
  
@@ -56,5 +58,3 @@ MessageBird has created several training videos to help you maneuver...
 ## Design Tracker {#design-tracker}
  
 [Design Tracker](https://veed.io/view/3efe7959-d835-4a00-948c-93e4a0394871){target="_blank"}
-
-RELATED ARTICLE - DOC
