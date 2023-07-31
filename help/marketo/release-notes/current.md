@@ -18,7 +18,7 @@ The following features fall under the standard release cycle and will start to b
 
 </br>
 
-* **Engagement Map**: The Engagement Map is a visual tool that allows you to build and organize reusable campaigns. It's completely backwards compatible, so all existing campaigns can be viewed in this new structure with the click of a button. Canvases can be downloaded and shared.
+* **Engagement Map**: The Engagement Map is a visual tool that allows you to build and organize reusable campaigns. It's completely backwards compatible, so all existing campaigns can be viewed in this new structure with the click of a button. Maps can be downloaded and shared.
 
 <table> 
   <tr> 

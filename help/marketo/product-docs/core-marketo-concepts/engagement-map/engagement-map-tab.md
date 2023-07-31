@@ -148,12 +148,6 @@ Below is an example of an error in a trigger which shows in the trigger overview
 
    ![](assets/engagement-map-tab-20.png)
 
-Not entering values (attributes) will not result in an error, it will continue to work as it does in Flow tab. Therefore, existing campaigns will not be disrupted. However, when flow steps do not include any attributes these will show up as warnings. 
-
-^^^ DO WE REALLY NEED THIS, WON'T CUSTOMER SEE WARNING???
-
-   ![](assets/engagement-map-tab-21.png)
-
 >[!NOTE]
 >
 >Errors within a nested campaign won't be visible until you've clicked to expand the nested campaign.

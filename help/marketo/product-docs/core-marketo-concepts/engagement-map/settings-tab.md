@@ -58,8 +58,6 @@ All existing permission sets will be applicable in the Settings tab. If the Edit
 >
 >If after clicking the help icon you see "Additional Permission Required," please reach out to your Marketo Admin.
 
-REDUNDANT AS IT'S EXPLAINED ABOVE, CAN WE REMOVE --> If a user does not have access to edit campaign settings, they will also not have access to cancel any scheduled runs.
-
    ![](assets/settings-tab-5.png)
 
    ![](assets/settings-tab-6.png)

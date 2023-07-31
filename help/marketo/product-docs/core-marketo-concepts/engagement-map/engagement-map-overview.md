@@ -13,17 +13,17 @@ exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
 
 The Engagement Map allows you to build out reusable Smart Campaigns with the help of intuitive visuals. It offers full backward compatibility with all existing Marketo Engage Smart Campaigns, without the loss of any current features.
 
-SCREENSHOT
+   ![](assets/engagement-map-overview-1.png)
 
 ## Accessing Engagement Map {#accessing-engagement-map}
 
 Navigate to any existing campaign and click the **Engagement Map** button.
 
-SCREENSHOT
+   ![](assets/engagement-map-overview-2.png)
 
 Once in the Engagement Map, you'll see two tabs: [Engagement Map](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
-SCREENSHOT
+   ![](assets/engagement-map-overview-3.png)
 
 ## Card Descriptions {#card-descriptions}
 
@@ -45,11 +45,7 @@ SCREENSHOT
 
 ## Top Navigation {#top-navigation}
 
-SCREENSHOT
-
 The top nav includes the following features:
-
-!!!!! SCREENSHOUT IS OUTDATED - GRAB NEW ONE
 
 * Campaign name and access to "Edit Campaign" modal, you can edit campaign name and description here.
 
