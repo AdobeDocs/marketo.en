@@ -7,11 +7,11 @@ exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
 ---
 # Engagement Map Overview {#engagement-map-overview}
 
->[!AVAILABILITY]
->
->This feature is currently available for Smart Campaigns. It is not available for Programs.
+The Engagement Map allows you to build out reusable Smart Campaigns with the help of intuitive visuals. It offers full backward compatibility with all existing Marketo Engage Smart Campaigns, without the loss of any current features. 
 
-The Engagement Map allows you to build out reusable Smart Campaigns with the help of intuitive visuals. It offers full backward compatibility with all existing Marketo Engage Smart Campaigns, without the loss of any current features.
+>[!NOTE]
+>
+>Engagement Map is currently available in Smart Campaigns. It is not available in Programs.
 
    ![](assets/engagement-map-overview-1.png)
 
