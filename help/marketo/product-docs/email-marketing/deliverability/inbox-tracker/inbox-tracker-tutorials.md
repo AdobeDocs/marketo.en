@@ -1,17 +1,15 @@
 ---
 description: Inbox Tracker Tutorials - Marketo Docs - Product Documentation
 title: Inbox Tracker Tutorials
-hide: yes
-hidefromtoc: yes
 feature: Deliverability
 ---
 # Inbox Tracker Tutorials {#inbox-tracker-tutorials.md}
 
-Inbox Tracker, by MessageBird, is a powerful third party tool...
+Test, monitor, and understand deliverability issues with Marketo's Email Deliverability Powerpack, powered by MessageBird's Inbox Tracker platform. Inbox Tracker is a single application that combines the intelligence of your program and the foresight of email rendering/inbox testing to maximize your emails' performance.
 
-MessageBird has created several training videos to help you navigate the platform.
+![](assets/inbox-tracker-tutorials-1.png)
 
-SCREENSHOT
+MessageBird has created several training videos to help you get the most out of this powerful tool.
 
 ## Inbox Tracker Overview {#inbox-tracker-overview}
  
@@ -22,6 +20,8 @@ SCREENSHOT
 [Intelliseed (Configure and Download)](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
  
 ## Inbox Tracker Deliverability Section {#inbox-tracker-deliverability-section}
+
+![](assets/inbox-tracker-tutorials-2.png)
  
 [Dashboard Overview](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
  
@@ -56,5 +56,7 @@ SCREENSHOT
 [Google Postmaster Tools](https://veed.io/view/7c89c0d8-ead2-46ad-9709-7509d043442a){target="_blank"}
  
 ## Design Tracker {#design-tracker}
+
+![](assets/inbox-tracker-tutorials-3.png)
  
 [Design Tracker](https://veed.io/view/3efe7959-d835-4a00-948c-93e4a0394871){target="_blank"}
