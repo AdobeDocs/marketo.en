@@ -1,8 +1,6 @@
 ---
 description: Settings Tab - Marketo Docs - Product Documentation
 title: Settings Tab
-hide: yes
-hidefromtoc: yes
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
 ---
 # Settings Tab {#settings-tab}
@@ -39,7 +37,7 @@ The recurrence modal includes the ability to set up a recurring schedule on a da
 
    ![](assets/settings-tab-4.png)
 
-The Settings tab also includes a quick overview of your Smart List. It includes the following: 
+The Settings tab also includes a quick overview of your Smart Campaign. It includes the following: 
 
 * Campaign status 
 * Created on 
