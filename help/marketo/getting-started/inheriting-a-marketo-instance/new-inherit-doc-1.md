@@ -217,8 +217,10 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
    <th>Column 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>CRM</td> 
+   <td><li>Which CRM are you syncing to? Salesforce? MS Dynamics? Veeva?</li>
+<li>Is the custom sync or bi-directional? (KG: fix grammar and check importance)</li>
+<li>[Salesforce Only] Does your instance have Custom Sync Filters implemented? Contact Marketo Support to identify Custom Sync Filters or request a Custom Sync rule be implemented.</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -238,10 +240,10 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   </tr>
   <tr> 
    <td>Marketo Sales Insight (if applicable)</td> 
-   <td><li>Has the MSI package been installed?</li>
-<li>Have you upgraded to the latest version of Sales Insight?</li>
+   <td><li>Has the <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI package been installed</a>?</li>
+<li>Have you <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">upgraded to the latest version of Sales Insight</a>?</li>
 <li>Have you completed the Sales Insight configuration?</li>
-<li>Have you given access to your users based on the number of seats you've purchased?</li></td>
+<li>Have you <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">given access to your users</a> based on the number of seats you've purchased?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
