@@ -36,7 +36,7 @@ feature-set: Marketo Engage
     + [Items to Check Off](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
     + [Things to Review: Core Skills](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
     + [Ways to Get Help](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-    + [Inherit Doc 1](getting-started/inheriting-a-marketo-instance/inherit-doc-1.md)
+    + [New Inherit Doc 1](getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
 + Product Docs {#product-docs}
   + Additional Apps {#additional-apps}
     + SEO {#seo}
