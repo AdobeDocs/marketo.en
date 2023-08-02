@@ -6,9 +6,11 @@ hidefromtoc: yes
 ---
 # Inherit Doc 1 {#inherit-doc-1}
 
-Auditing an inherited instance can seem like a 
+Auditing an inherited instance can seem like a...
 
-Did you inherit an existing Marketo Engage instance from another Admin? If so, this article is for you.
+Did you inherit an existing Marketo Engage instance from another Admin? If so, this article is for you...
+
+The checklist below has been put togther with input from Marketo Champions to help you get up to speed quickly in your inherited instance...
 
 >[!TIP]
 >
@@ -31,7 +33,7 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
 <li>How many users have Admin permissions?</li>
 <li>Should any of those users be changed to other roles?</li> 
 <li>Who are the API users in this instance?</li></td>
-   <td>3.1</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Roles</td> 
@@ -41,19 +43,19 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
 <li>How often are users logging in?</li>
 <li>Does each API user have their own user role? If not, consider implementing this to make troubleshooting easier.</li> 
 <li>Do your user roles and permissions align with your corporate data privacy policies?</li></td>
-   <td>3.2</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Internal Documentation</td> 
    <td><li>Are users and roles clearly defined in your organization?</li>
 <li>What is your process for adding a new user/admin?</li></td>
-   <td>3.3</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Sandbox (if applicable)</td> 
    <td><li>Do you have a sandbox instance? If so, review the categories above for your sandbox.</li>
 <li>Is Program Import linked with your sandbox?</li></td>
-   <td>3.4</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -70,7 +72,7 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   <tr> 
    <td>Audit Trail</td> 
    <td><li>Who is working in the instance?</li></td>
-   <td>3.1</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -219,23 +221,34 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   <tr> 
    <td>CRM</td> 
    <td><li>Which CRM are you syncing to? Salesforce? MS Dynamics? Veeva?</li>
-<li>Is the custom sync or bi-directional? (KG: fix grammar and check importance)</li>
+<li>Is the custom sync or bi-directional? (KG: FIX GRAMMAR AND CHECK IMPORTANCE)</li>
 <li>[Salesforce Only] Does your instance have Custom Sync Filters implemented? Contact Marketo Support to identify Custom Sync Filters or request a Custom Sync rule be implemented.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Landing Pages</td> 
+   <td><li>What is the domain set as?</li>
+<li>What is the fallback set as?</li>
+<li>What is the homepage set as?</li>
+<li>Is form prefill enabled?</li>
+<li>Are personalized URLs enabled?</li>
+<li>Are there rules set up for redirects?</li>
+<li>Do you have domain aliases in place? Are you tracking through documentation how you're utilizing your domain aliases?</li>
+<li>Is Secured Domains for Landing pages enabled? Confirm if your landing page assets contain a 'http' URL.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Munchkin</td> 
+   <td><li>Is your Munchkin tracking code on your website (Not in Marketo)?</li>
+<li>Is a "Do Not Track" Browser Request enabled?</li>
+<li>Is your Munchkin API configured? If you're missing documentation on where the munchkin code is on your website, get started with a quick view by using the 'Web Analytics Report' in basic 'Analytics' to understand where the Munchkin code is placed across your website.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Web Services</td> 
+   <td><li>Are IP Restrictions enabled? Should they be?</li>
+<li>Which users/apps are making API calls in your instance?</li>
+<li>Are you hitting or close to hitting your API limit? If so, consider increasing it or auditing your instance to bring those API calls down.</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -259,18 +272,15 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
    <th>Column 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Treasure Chest</td> 
+   <td><li>What's turned on in the Treasure Chest?</li>
+<li>Are there features that should be turned on or off?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Campaign Inspector</td> 
+   <td><li>Is Campaign Inspector turned on?</li>
+<li>If not, consider turning it on to easily identify which campaigns are active, syncing with your CRM, and/or deleting records.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -286,18 +296,24 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
    <th>Column 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Marketo Engage Status Updates</td> 
+   <td><li>Is your instance signed up for Marketo Engage Status Updates?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Authorized Contacts</td> 
+   <td><li>Have you set up the appropriate authorized contacts in the Support Portal?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Alerts</td> 
+   <td><li>Are there any active alerts being sent out to internal teams from Marketo Engage?</li>
+<li>If yes, are those alerts functioning appropriately?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Notifications</td> 
+   <td><li>Are you subscribed to appropriate admin notifications?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
