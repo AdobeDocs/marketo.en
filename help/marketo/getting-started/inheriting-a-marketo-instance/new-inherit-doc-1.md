@@ -113,8 +113,8 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   </tr> 
   <tr> 
    <td>Smart Campaign Settings</td> 
-   <td><li>Are there limits in place? Does your business have policies where communication limits might be necessary?</li>
-<li>Adobe recommends limiting your communication to 1 per day and 3 per 7 days with non-operational emails blocked.</li></td>
+   <td><li>Do you have a restriction on Smart Campaign size?</li>
+<li>If not, consider adding one. We recommend limiting the smart campaign limits to 25% of your database to avoid overcommunication or processing your entire database in workflows this not only protects your brand but helps protect the performance of your instance.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -130,18 +130,9 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
    <th>Column 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Communication Limits</td> 
+   <td><li>Are there limits in place? Does your business have policies where communication limits might be necessary?</li>
+<li>Adobe recommends limiting your communication to 1 per day and 3 per 7 days, with non-operational emails blocked.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -157,18 +148,24 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
    <th>Column 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Tags</td> 
+   <td><li>How many tags are there? How many tags are in use? Do any need to be added?</li>
+<li>Are tags required within your programs?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Channels</td> 
+   <td><li>How many channels are there? How many are in use?</li>
+<li>Are all channel program statuses appropriate? Do they show progression within the program?</li>
+<li>Are your channels related to specific program types?</li>
+<li>Which statuses are considered a success for each channel? Do those align with your marketing goals?</li>
+<li>Is the Operational channel being used appropriately?</li>
+<li>For Advanced Report Builder (Revenue Cycle Explorer\RCE), is your channel analytics behavior set to align to your program practices incorporating period cost?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Marketing Calendar (if applicable)</td> 
+   <td><li>How many calendar entry types are there? Are they all still relevant?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -184,18 +181,27 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
    <th>Column 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Field Management</td> 
+   <td><li>How many fields are there? Click "Export Field Names" to review a list of your fields, custom fields, and their API names.</li>
+<li>How many custom fields are there?</li>
+<li>How many fields are being used? Select "Export Used By" in the Field Actions drop-down to review related assets of a field.</li>
+<li>How many are synced between Marketo Engage and your CRM?</li>
+<li>Are CRM fields synced to the appropriate objects?</li>
+<li>Is there a custom view set for person detail? Should there be?</li>
+<li>Do you have a naming convention for your fields based on source? If not, consider implementing this.</li>
+<li>Are there any fields blocked? Be sure to understand why they are.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Custom Activities</td> 
+   <td><li>Are there any custom activities?</li>
+<li>If so, click through them to understand what activities aren't related to a Marketo form, email, or landing page.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Custom Objects</td> 
+   <td><li>How many custom objects are there? How are they synced to your CRM?</li>
+<li>How are these custom objects being utilized by your programs and list queries?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -223,6 +229,19 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   <tr> 
    <td>1</td> 
    <td>2</td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>1</td> 
+   <td>2</td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Marketo Sales Insight (if applicable)</td> 
+   <td><li>Has the MSI package been installed?</li>
+<li>Have you upgraded to the latest version of Sales Insight?</li>
+<li>Have you completed the Sales Insight configuration?</li>
+<li>Have you given access to your users based on the number of seats you've purchased?</li></td>
    <td>3</td>
   </tr>
  </tbody> 

@@ -30,4 +30,4 @@ To make them easy to work with and optimize performance, we've created a list of
 
 >[!TIP]
 >
->Marketo can be used in many ways and certain techniques are better for you and your business. Consider [Marketo professional services](https://pages2.marketo.com/72-hour-survival-guide.html){target="_blank"} to make your investment shine.
+>Marketo Engage can be used in many ways and certain techniques are better for you and your business. Contact your Adobe Professional Services Sales Rep if you want help making the most your investment.

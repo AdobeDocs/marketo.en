@@ -45,15 +45,15 @@ Once in the Engagement Map, you'll see two tabs: [Engagement Map](/help/marketo/
 
 The top nav includes the following features:
 
-* Campaign name and access to "Edit Campaign" modal, you can edit campaign name and description here.
+* Campaign name and access to "Edit Campaign" modal, you can edit the campaign name and description here.
 
 * Campaign status and type of campaign will be reflected below the campaign name
 
 * Activate/Deactivate button for Trigger campaigns
 
-* Edit Smart List - you will be navigated to the Smart List interface in a new tab where you can add or edit your Flow Steps
+* Edit Smart List - you will be navigated to the Smart List interface in a new tab where you can add or edit your filters and/or triggers
 
-* Edit Flow - you will be navigated to the Flow interface in a new tab where you can add or edit your Smart List
+* Edit Flow - you will be navigated to the Flow interface in a new tab where you can add or edit your Flow Steps
 
 * Export - This will download an image of the campaign visualization. The version downloaded will reflect any branches that you have expanded
 
