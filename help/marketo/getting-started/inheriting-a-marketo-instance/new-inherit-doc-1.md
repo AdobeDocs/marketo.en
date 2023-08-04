@@ -18,7 +18,7 @@ The checklist below has been put togther with input from Marketo Champions to he
 
 ## Users & Roles {#users-and-roles}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
    <th>Area</th> 
@@ -27,22 +27,22 @@ The checklist below has been put togther with input from Marketo Champions to he
   </tr> 
   <tr> 
    <td>Users</td> 
-   <td><li>How many users are there?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">How many users</a> are there?</li>
 <li>Are there any users that should be expired?</li>
 <li>Does your company have policies around deleting users?</li> 
-<li>How many users have Admin permissions?</li>
-<li>Should any of those users be changed to other roles?</li> 
+<li>How many users have <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Admin permissions</a>?</li>
+<li>Should any of those users be changed to <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">other roles?</a></li> 
 <li>Who are the API users in this instance?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Roles</td> 
    <td><li>How many roles are there?</li>  
-<li>What permissions/access does each role have? Should any be adjusted?</li>
+<li>What <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">permissions/access</a> does each role have? Should any be adjusted?</li>
 <li>How many users are there per role?</li>
-<li>How often are users logging in?</li>
-<li>Does each API user have their own user role? If not, consider implementing this to make troubleshooting easier.</li> 
-<li>Do your user roles and permissions align with your corporate data privacy policies?</li></td>
+<li>How often are users <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">logging in</a>?</li>
+<li>Does each API user have their <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">own user role</a>? If not, consider implementing this to make troubleshooting easier.</li> 
+<li>Do your user roles and permissions align with your corporate data <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">privacy policies</a>?</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -53,8 +53,8 @@ The checklist below has been put togther with input from Marketo Champions to he
   </tr>
   <tr> 
    <td>Sandbox (if applicable)</td> 
-   <td><li>Do you have a sandbox instance? If so, review the categories above for your sandbox.</li>
-<li>Is Program Import linked with your sandbox?</li></td>
+   <td><li>Do you have a <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox instance</a>? If so, review the categories above for your sandbox.</li>
+<li>Is <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Program Import</a> linked with your sandbox?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -71,7 +71,7 @@ The checklist below has been put togther with input from Marketo Champions to he
   </tr> 
   <tr> 
    <td>Audit Trail</td> 
-   <td><li>Who is working in the instance?</li></td>
+   <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">Who's working</a> in the instance?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -257,6 +257,25 @@ The checklist below has been put togther with input from Marketo Champions to he
 <li>Have you <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">upgraded to the latest version of Sales Insight</a>?</li>
 <li>Have you completed the Sales Insight configuration? Enterprise/Unlimited users <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">click here</a>, Professional users <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">click here</a>.</li>
 <li>Have you <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">given access to your users</a> based on the number of seats you've purchased?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Launchpoint (if applicable)</td> 
+   <td><li>Which services do you have configured (webinar, advertising, etc.)? Are any near their expiration?</li>
+<li>How many API calls are your integrations using?</li>
+<li>Do you have the right integrations in place for your use cases?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Webhooks (if applicable)</td> 
+   <td><li>What connections do you have set up?</li>
+<li>Are any no longer in use?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Mobile Apps (if applicable)</td> 
+   <td><li>Which mobile apps do you have?</li>
+<li>Which test devices have been added?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
