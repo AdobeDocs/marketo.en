@@ -164,8 +164,8 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Dynamic Chat Trigger Tokens</a></td>
   </tr>
   </tbody>
 </table>
