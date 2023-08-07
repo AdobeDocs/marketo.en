@@ -88,11 +88,11 @@ The checklist below has been put togther with input from Marketo Champions to he
   </tr> 
   <tr> 
    <td>Workspaces & Partitions</td> 
-   <td><li>How many workspaces and/or partitions do you have?</li>
+   <td><li>How many <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">workspaces and/or partitions</a> do you have?</li>
 <li>What is the primary purpose of each workspace and partition?</li>
-<li>Do they need to be audited or changed?</li>
+<li>Do either your <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Workspaces</a> or <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">Partitions</a> need to be audited/changed?</li>
 <li>What is the relationship between your workspaces and partitions?</li>
-<li>How many users have access to each workspace?</li></td>
+<li>How many users <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">have access</a> to each workspace?</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -115,7 +115,7 @@ The checklist below has been put togther with input from Marketo Champions to he
   </tr> 
   <tr> 
    <td>Smart Campaign Settings</td> 
-   <td><li>Do you have a restriction on Smart Campaign size?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Do you have a restriction</a> on Smart Campaign size?</li>
 <li>If not, consider adding one. We recommend limiting the smart campaign limits to 25% of your database to avoid overcommunication or processing your entire database in workflows this not only protects your brand but helps protect the performance of your instance.</li></td>
    <td>3</td>
   </tr>
@@ -133,8 +133,8 @@ The checklist below has been put togther with input from Marketo Champions to he
   </tr> 
   <tr> 
    <td>Communication Limits</td> 
-   <td><li>Are there limits in place? Does your business have policies where communication limits might be necessary?</li>
-<li>Adobe recommends limiting your communication to 1 per day and 3 per 7 days, with non-operational emails blocked.</li></td>
+   <td><li>Are there <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">communication limits</a> in place? Does your business have policies where communication limits might be necessary?</li>
+<li>Adobe recommends limiting your communication to 1 per day and 3 per 7 days, with <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operational</a> emails blocked.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -157,8 +157,8 @@ The checklist below has been put togther with input from Marketo Champions to he
   </tr>
   <tr> 
    <td>Channels</td> 
-   <td><li>How many channels are there? How many are in use?</li>
-<li>Are all channel program statuses appropriate? Do they show progression within the program?</li>
+   <td><li>How many <a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">channels</a> are there? How many are in use?</li>
+<li>Are all <a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">channel program statuses appropriate</a>? Do they show progression within the program?</li>
 <li>Are your channels related to specific program types?</li>
 <li>Which statuses are considered a success for each channel? Do those align with your marketing goals?</li>
 <li>Is the Operational channel being used appropriately?</li>
