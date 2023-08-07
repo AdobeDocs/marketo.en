@@ -12,6 +12,10 @@ When you create custom objects, you must provide link fields to connect the cust
 * For a one-to-many custom structure, use the link field in the custom object to connect it to a person or a company.
 * For a many-to-many structure, you use two link fields, connected from a separately created intermediary object (which is a type of custom object, too). One link connects to people or companies in your database and the other connects to the custom object. In this case, the link field is not located in the custom object itself.
 
+>[!IMPORTANT]
+>
+>Marketo Engage only supports a single edge object for each bridge object in the Many to Many relationship. In the sample given below, each enrollment can only link to a single course. However, there can be many bridge objects for each edge object, just as there are many student enrollments to each course (Many-to-One relationship). If you have your custom object data structured so that there are more than one Edge object records for each Bridge object record (One-to-Many or Many-to-Many), you can create multiple Bridge object records that each refer to a single Edge object record to represent that data in Marketo.
+
 ## Create a Link Field for a One-to-Many Structure {#create-a-link-field-for-a-one-to-many-structure}
 
 Here's how to create a link field in a custom object for a one-to-many structure.
