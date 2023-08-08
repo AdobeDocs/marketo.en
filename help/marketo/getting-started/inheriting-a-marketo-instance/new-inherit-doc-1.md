@@ -151,13 +151,13 @@ The checklist below has been put togther with input from Marketo Champions to he
   </tr> 
   <tr> 
    <td>Tags</td> 
-   <td><li>How many tags are there? How many tags are in use? Do any need to be added?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" target="_blank">How many tags</a> are there? How many tags are in use? Do any need to be added?</li>
 <li>Are tags required within your programs?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Channels</td> 
-   <td><li>How many <a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">channels</a> are there? How many are in use?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">How many channels</a> are there? How many are in use?</li>
 <li>Are all <a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">channel program statuses appropriate</a>? Do they show progression within the program?</li>
 <li>Are your channels related to specific program types?</li>
 <li>Which statuses are considered a success for each channel? Do those align with your marketing goals?</li>
@@ -167,7 +167,7 @@ The checklist below has been put togther with input from Marketo Champions to he
   </tr>
   <tr> 
    <td>Marketing Calendar (if applicable)</td> 
-   <td><li>How many calendar entry types are there? Are they all still relevant?</li></td>
+   <td><li>How many <a href="/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md" target="_blank">calendar entry types</a> are there? Are they all still relevant?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -184,25 +184,25 @@ The checklist below has been put togther with input from Marketo Champions to he
   </tr> 
   <tr> 
    <td>Field Management</td> 
-   <td><li>How many fields are there? Click "Export Field Names" to review a list of your fields, custom fields, and their API names.</li>
-<li>How many custom fields are there?</li>
-<li>How many fields are being used? Select "Export Used By" in the Field Actions drop-down to review related assets of a field.</li>
+   <td><li>How many fields are there? Click <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Export Field Names</a> to review a list of your fields, custom fields, and their API names.</li>
+<li>How many <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">custom fields</a> are there?</li>
+<li>How many fields are being used? Select <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Export Used By</a> in the Field Actions drop-down to review related assets of a field.</li>
 <li>How many are synced between Marketo Engage and your CRM?</li>
 <li>Are CRM fields synced to the appropriate objects?</li>
-<li>Is there a custom view set for person detail? Should there be?</li>
+<li>Is there a <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">custom view set</a> for person detail? Should there be?</li>
 <li>Do you have a naming convention for your fields based on source? If not, consider implementing this.</li>
-<li>Are there any fields blocked? Be sure to understand why they are.</li></td>
+<li>Are there any fields <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">blocked</a>? Be sure to understand why they are.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Custom Activities</td> 
-   <td><li>Are there any custom activities?</li>
+   <td><li>Are there any <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">custom activities</a>?</li>
 <li>If so, click through them to understand what activities aren't related to a Marketo form, email, or landing page.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Custom Objects</td> 
-   <td><li>How many custom objects are there? How are they synced to your CRM?</li>
+   <td><li>How many <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">custom objects</a> are there? How are they synced to your CRM?</li>
 <li>How are these custom objects being utilized by your programs and list queries?</li></td>
    <td>3</td>
   </tr>
