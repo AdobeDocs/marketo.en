@@ -20,7 +20,7 @@ The following features fall under the standard release cycle and will start to b
 
 * **Marketo Reference Library**: The Marketo Engage Program Reference Library allows users to import "example" programs and other assets that represent best practices recommended by Adobe. Our Product Management team has completely updated the library, providing more valuable tools for those who want to get their program started quickly.
 
-<table width="400"> 
+<table>
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -34,7 +34,7 @@ The following features fall under the standard release cycle and will start to b
 
 * **Used By Count Column for Design Studio Assets**: The Used By Count column for List Views in Design Studio highlights the count/number of assets that are using the asset under consideration. This is applicable for Snippets, Email Templates, Forms, and Landing Page Templates.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -48,7 +48,7 @@ The following features fall under the standard release cycle and will start to b
 
 * **Used By Tab Enhancements for Design Studio Assets**: The Used By Enhancement tab provides a more detailed view of the type and name of an asset, along with where it's being used. This is applicable for Email Details and Images & Files Details.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -62,7 +62,7 @@ The following features fall under the standard release cycle and will start to b
 
 * **Compute Formula Flow Step Service**: Compute Formula is a Flow Step Service Built on Adobe's IO Runtime platform for use with Marketo Engage Smart Campaigns. Adobe clients with IO runtime can deploy the service and install it to their Marketo Engage subscriptions, allowing them to compute Excel-like formulas in Marketo Smart Campaigns.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -80,7 +80,7 @@ The following features follow an Agile format and are released on various dates 
 
 * **Marketo + Workfront Integration**: For those who have Marketo and Workfront, you can now use Workfront Fusion Templates to integrate the two products and unlock new automation workflows to streamline campaign execution.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -98,7 +98,7 @@ The following features follow an Agile format and are released on various dates 
 
 * **Action Card in Stream Designer**: Marketers can use action cards in the Dialogue stream to pass hidden values to the Marketo Engage person record when visitors engage with a Dialogue.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -112,7 +112,7 @@ The following features follow an Agile format and are released on various dates 
 
 * **Conversational Flow Asset Page**: The Design Studio Asset page now lists Dynamic Chat Conversational Flows. See which Flows can be integrated into Marketo Engage assets and deeplink directly to their editor.
 
-<table width="400">
+<table>
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -126,7 +126,7 @@ The following features follow an Agile format and are released on various dates 
 
 * **Conversational Forms with Marketo Engage Forms**: Make Marketo Engage Forms conversational by integrating them with Dynamic Chat Conversational Flows. Instantly qualify leads using form data or Smart List membership for meeting bookings, white paper links, or custom goals.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -140,7 +140,7 @@ The following features follow an Agile format and are released on various dates 
 
 * **Conversations SDK**: Turn any form, landing page, or almost any web page into engaging meeting booking experiences.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -154,7 +154,7 @@ The following features follow an Agile format and are released on various dates 
 
 * **Custom Meeting Booking Settings**: Agents can set custom meeting booking settings such as availability, meeting length, and 'buffer time' between meetings.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -168,7 +168,7 @@ The following features follow an Agile format and are released on various dates 
 
 * **Fallback Settings**: Admins can set custom fallback settings to define what visitors see when agents are not available to chat.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -182,7 +182,7 @@ The following features follow an Agile format and are released on various dates 
 
 * **Global Performance Dashboard**: See how well your Dialogues are performing, including engagement and performance metrics (total and over a time), top performing pages, and top performing Dialogues.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -196,7 +196,7 @@ The following features follow an Agile format and are released on various dates 
 
 * **Live Chat**: Web visitors can chat with sales agents in real time to get their questions answered.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -210,7 +210,7 @@ The following features follow an Agile format and are released on various dates 
 
 * **Live Chat Performance Dashboard**: View how many conversations your live sales agents had and which teams are performing the best.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -224,7 +224,7 @@ The following features follow an Agile format and are released on various dates 
 
 * **Marketo Engage Smart List Targeting**: Marketers can target members of Marketo Engage Smart Lists in Dialogue audience criteria.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -238,7 +238,7 @@ The following features follow an Agile format and are released on various dates 
 
 * **Meeting Performance Dashboard**: See how many meetings are being booked and who they're being booked with.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -252,7 +252,7 @@ The following features follow an Agile format and are released on various dates 
 
 * **New Dynamic Chat Activities**: New activities to support Conversational Flows, Live Chat, and other new features.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -266,7 +266,7 @@ The following features follow an Agile format and are released on various dates 
 
 * **Real-time Live Chat Notifications**: When visitors request to live chat, agents receive real-time in-app and browser notifications.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -280,7 +280,7 @@ The following features follow an Agile format and are released on various dates 
 
 * **Sales Insight Actions Notifications**: Agents with Sales Insight Actions will receive real-time live chat request notifications in the Sales Insight Actions panel.
 
-<table width="400">
+<table>
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -294,7 +294,7 @@ The following features follow an Agile format and are released on various dates 
 
 * **Teams**: Create teams of agents that visitors can be routed to for live chat or meeting bookings.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -308,7 +308,7 @@ The following features follow an Agile format and are released on various dates 
 
 * **Trigger Tokens for New Activities**: New trigger tokens are available to support the new activities for Dynamic Chat.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>

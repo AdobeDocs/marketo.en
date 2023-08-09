@@ -227,26 +227,26 @@ The checklist below has been put togther with input from Marketo Champions to he
   </tr>
   <tr> 
    <td>Landing Pages</td> 
-   <td><li>What is the domain set as?</li>
-<li>What is the fallback set as?</li>
-<li>What is the homepage set as?</li>
+   <td><li>What is the <a href="/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md" target="_blank">domain set as</a>?</li>
+   <li>What is the homepage set as?</li>
+<li>What is the <a href="/help/marketo/product-docs/administration/settings/set-a-fallback-page.md" target="_blank">fallback set as</a>?</li>
 <li>Is form prefill enabled?</li>
-<li>Are personalized URLs enabled?</li>
-<li>Are there rules set up for redirects?</li>
+<li>Are <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">personalized URLs</a> enabled?</li>
+<li>Are there rules set up for <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">redirects</a>?</li>
 <li>Do you have domain aliases in place? Are you tracking through documentation how you're utilizing your domain aliases?</li>
-<li>Is Secured Domains for Landing pages enabled? Confirm if your landing page assets contain a 'http' URL.</li></td>
+<li>Is <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Secured Domains for Landing Pages</a> enabled? Confirm if your landing page assets contain a 'http' URL.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
-   <td><li>Is your Munchkin tracking code on your website (Not in Marketo)?</li>
-<li>Is a "Do Not Track" Browser Request enabled?</li>
-<li>Is your Munchkin API configured? If you're missing documentation on where the munchkin code is on your website, get started with a quick view by using the 'Web Analytics Report' in basic 'Analytics' to understand where the Munchkin code is placed across your website.</li></td>
+   <td><li>Is your <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin tracking code</a> on your website (Not in Marketo)?</li>
+<li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Do Not Track</a> Browser Request enabled?</li>
+<li>Is your <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> configured? If you're missing documentation on where the munchkin code is on your website, get started with a quick view by using the 'Web Analytics Report' in basic 'Analytics' to understand where the Munchkin code is placed across your website.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Web Services</td> 
-   <td><li>Are IP Restrictions enabled? Should they be?</li>
+   <td><li>Are <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP Restrictions</a> enabled? Should they be?</li>
 <li>Which users/apps are making API calls in your instance?</li>
 <li>Are you hitting or close to hitting your API limit? If so, consider increasing it or auditing your instance to bring those API calls down.</li></td>
    <td>3</td>
@@ -261,21 +261,21 @@ The checklist below has been put togther with input from Marketo Champions to he
   </tr>
   <tr> 
    <td>Launchpoint (if applicable)</td> 
-   <td><li>Which services do you have configured (webinar, advertising, etc.)? Are any near their expiration?</li>
-<li>How many API calls are your integrations using?</li>
+   <td><li>Which services do you have configured (e.g., <a href="/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md" target="_blank">Adobe Connect</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md" target="_blank">Zoom</a>, etc.)? Are any near their expiration?</li>
+<li><a href="https://nation.marketo.com/t5/knowledgebase/viewing-your-number-of-api-calls-to-marketo/ta-p/254256" target="_blank">How many API calls</a> are your integrations using?</li>
 <li>Do you have the right integrations in place for your use cases?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Webhooks (if applicable)</td> 
-   <td><li>What connections do you have set up?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">What connections</a> do you have set up?</li>
 <li>Are any no longer in use?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Mobile Apps (if applicable)</td> 
-   <td><li>Which mobile apps do you have?</li>
-<li>Which test devices have been added?</li></td>
+   <td><li>Which <a href="/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md" target="_blank">mobile apps</a> do you have?</li>
+<li>Have any <a href="/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md" target="_blank">test devices</a>  been added?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -292,13 +292,13 @@ The checklist below has been put togther with input from Marketo Champions to he
   </tr> 
   <tr> 
    <td>Treasure Chest</td> 
-   <td><li>What's turned on in the Treasure Chest?</li>
+   <td><li>What's turned on in the <a href="/help/marketo/product-docs/administration/settings/enable-or-disable-treasure-chest-features.md" target="_blank">Treasure Chest</a>?</li>
 <li>Are there features that should be turned on or off?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Campaign Inspector</td> 
-   <td><li>Is Campaign Inspector turned on?</li>
+   <td><li>Is <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Campaign Inspector</a> turned on?</li>
 <li>If not, consider turning it on to easily identify which campaigns are active, syncing with your CRM, and/or deleting records.</li></td>
    <td>3</td>
   </tr>
@@ -312,28 +312,23 @@ The checklist below has been put togther with input from Marketo Champions to he
   <tr> 
    <th>Area</th> 
    <th>Review Focus</th>
-   <th>Column 3</th>
   </tr> 
   <tr> 
    <td>Marketo Engage Status Updates</td> 
-   <td><li>Is your instance signed up for Marketo Engage Status Updates?</li></td>
-   <td>3</td>
+   <td><li>Is your instance signed up for <a href="https://status.adobe.com/" target="_blank">Marketo Engage Status Updates</a>?</li></td>
   </tr>
   <tr> 
    <td>Authorized Contacts</td> 
-   <td><li>Have you set up the appropriate authorized contacts in the Support Portal?</li></td>
-   <td>3</td>
+   <td><li>Have you set up the appropriate <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">authorized contacts</a> in the Support Portal?</li></td>
   </tr>
   <tr> 
    <td>Alerts</td> 
-   <td><li>Are there any active alerts being sent out to internal teams from Marketo Engage?</li>
+   <td><li>Are there any <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" target="_blank">active alerts</a> being sent out to internal teams from Marketo Engage?</li>
 <li>If yes, are those alerts functioning appropriately?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Notifications</td> 
-   <td><li>Are you subscribed to appropriate admin notifications?</li></td>
-   <td>3</td>
+   <td><li>Are you subscribed to appropriate admin <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md" target="_blank">notifications</a>?</li></td>
   </tr>
  </tbody> 
 </table>

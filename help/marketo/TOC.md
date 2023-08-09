@@ -173,6 +173,7 @@ feature-set: Marketo Engage
       + [Add API Only User for Adobe IMS Enabled Subscriptions](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
       + [Add or Remove a Product Admin](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
       + [Add or Remove a User](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
+      + [FAQ](product-docs/administration/marketo-with-adobe-identity/faq.md)
       + [User Sign-in with Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
       + [Understanding Marketo Subscription and User Migration to the Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
     + Settings {#settings}
