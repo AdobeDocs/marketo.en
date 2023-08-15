@@ -34,13 +34,13 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   </tr>
   <tr> 
    <td>Marketing Suspended</td> 
-   <td><li>What are your criteria for Marketing Suspended? Are there too many people who are marketing suspended?</li>
+   <td><li>What are your criteria for <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marketing Suspended</a>? Are there too many people who are marketing suspended?</li>
 <li>How long have records remained in the marketing suspended status?</li>
 <p>Marketing suspended use case example: records who are actively involved with sales in late-stage opportunities that you want to suppress marketing communications for.</td>
   </tr>
    <tr> 
    <td>Blocklist</td> 
-   <td><li>What are your criteria for Blocklist? Are there too many people who are blocklisted?</li></td>
+   <td><li>What are your criteria for <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">blocklisting records</a>? Are there too many people who are blocklisted?</li></td>
   </tr>
   <tr> 
    <td>Bounced Email Addresses</td> 
@@ -48,11 +48,11 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   </tr>
   <tr> 
    <td>Possible Duplicates</td> 
-   <td><li>How many potentially duplicated records are there? Consider deleting or merging them.</li></td>
+   <td><li>How many <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">potentially duplicate records</a> are there? Consider deleting or merging them.</li></td>
   </tr>
    <tr> 
    <td>No Acquisition Program</td> 
-   <td><li>How many people don't have an acquisition program? If there are a lot, consider investigating why.</li></td>
+   <td><li>How many people don't have an <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">acquisition program</a>? If there are a lot, consider investigating why.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -69,7 +69,7 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
    <td>Group Smart Lists</td> 
    <td><li>Which group smart lists are there? How are they used in this instance?</li>
 <li>Are the lists organized in a cohesive folder structure? If you have orphan lists, consider organizing your tree so assets are easy to find.</li>
-<p>Tip: Archive group smart lists that are no longer needed for querying, reporting, or reference to help with organization and performance.</td>
+<p>Tip: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archive</a> group smart lists that are no longer needed for querying, reporting, or reference to help with organization and performance.</td>
   </tr>
  </tbody> 
 </table>

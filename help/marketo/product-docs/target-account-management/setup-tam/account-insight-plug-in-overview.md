@@ -11,7 +11,9 @@ Account Insight is a Chrome plug-in that surfaces actionable TAM and account ins
 
 >[!AVAILABILITY]
 >
->Account Insight is included for all customers who have both TAM and Marketo Sales Insight. For customers who only have TAM, Account Insight is available as a purchased add-on. Each customer is limited to 250 Account Insight seats. Please contact your sales rep for details. It is not available to customers who do not have TAM.
+>* Account Insight is included for all customers who have both TAM and Marketo Sales Insight. For customers who only have TAM, Account Insight is available as a purchased add-on. Each customer is limited to 250 Account Insight seats. Please contact your sales rep for details. It is not available to customers who do not have TAM.
+>
+>* This plug-in is not compatible with [Adobe Identity authentication](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} at this time.
 
 >[!CAUTION]
 >
