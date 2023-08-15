@@ -39,10 +39,6 @@ You can edit your domain name and fallback page, enable or disable form prefill,
 
    ![](assets/edit-landing-page-settings-5.png)
 
-1. If you want to prevent a malicious site from seemingly hosting your content, check the **[!UICONTROL Do not allow Marketo pages to be embedded in external web pages]** checkbox.
-
-   ![](assets/edit-landing-page-settings-6.png)
-
    >[!NOTE]
    >
    >If you want the prefill `<script>` tag to appear at the end of the `<head>` tag in the code, check the **[!UICONTROL Inject Prefill Script at End of Head]** box. Leave unchecked if you want it to appear at the beginning.
