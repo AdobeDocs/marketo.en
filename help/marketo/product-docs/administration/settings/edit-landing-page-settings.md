@@ -47,6 +47,6 @@ You can edit your domain name and fallback page, enable or disable form prefill,
 
 1. After making your selections, click **[!UICONTROL Save]**.
 
-   ![](assets/edit-landing-page-settings-7.png)
+   ![](assets/edit-landing-page-settings-6.png)
 
    Great job! Your landing pages now have the right information and should start working right away.
