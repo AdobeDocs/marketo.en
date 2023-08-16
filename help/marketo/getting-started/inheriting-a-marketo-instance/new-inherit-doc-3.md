@@ -22,19 +22,19 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   </tr> 
   <tr> 
    <td>Naming Conventions</td> 
-   <td><li>Do your programs have a consistent naming convention?</li></td>
+   <td><li>Do your programs have a consistent <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#naming-schemes" target="_blank">naming convention</a>?</li></td>
   </tr>
   <tr> 
    <td>Folder Structure</td> 
-   <td><li>Do you have a consistent and easy-to-navigate folder structure?</li></td>
+   <td><li>Do you have a consistent and easy-to-navigate <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#folders" target="_blank">folder structure</a>?</li></td>
   </tr>
   <tr> 
    <td>Programs</td> 
    <td><li>Is there a Center of Excellence with program templates? If so, do the program templates make sense for the teams' use cases?</li>
-<li>Are similar program types consistently structured?</li>
-<li>Are period costs put in place?</li>
-<li>Are all programs synced to SFDC Campaigns (if applicable)?</li>
-<li>Do you have flow steps assigning an acquisition program to people?</li></td>
+<li>Are similar program types <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">consistently structured</a>?</li>
+<li>Are <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">period costs</a> put in place?</li>
+<li>Are all programs <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">synced to SFDC Campaigns</a> (if applicable)?</li>
+<li>Do you have flow steps assigning an <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">acquisition program</a> to people?</li></td>
   </tr>
   <tr> 
    <td>Archive</td> 

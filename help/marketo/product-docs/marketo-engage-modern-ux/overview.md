@@ -16,14 +16,6 @@ Welcome to the Adobe Marketo Engage Modern UX (user experience), an updated inte
 >* *.marketodesigner.com
 >* *.mktoweb.com
 
-## Take the Tour {#take-the-tour}
-
-At first log in, a pop-up will appear, ready to give you the rundown of the new experience. Heads up, if you choose to skip it, it will **not** be available later.
-
-![](assets/overview-1.png)
-
-The tour walks you through everything you need to know!
-
 ## What's New {#whats-new}
 
 There's a lot of new functionality in the Modern UX, all of which is designed to significantly improve your marketing experience.
