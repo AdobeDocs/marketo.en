@@ -397,7 +397,7 @@ feature-set: Marketo Engage
         + [Using Period Costs in a Program](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
       + Program Library {#program-library}
         + [Program Import Library Overview](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-        + [Content Management Program Example](product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md)
+        + [Consent Management Program Example](product-docs/core-marketo-concepts/programs/program-library/consent-management-program-example.md)
       + Program Performance Report {#program-performance-report}
         + [Create a Program Performance Report](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
         + [Add Program Status Columns to a Program Report](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)

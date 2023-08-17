@@ -65,7 +65,7 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   </tr> 
   <tr> 
    <td>Tokens</td> 
-   <td><li>Are tokens being used in regularly used program types? KG - DOUBLE CHECK MEANING If not, you should consider using them to increase efficiency.</li>
+   <td><li>Are tokens being used in your most commonly used program types? If not, you should consider using them to increase efficiency.</li>
 <li>If tokens are implemented, are there global folder tokens? How are they being used?</li></td>
   </tr>
   <tr> 

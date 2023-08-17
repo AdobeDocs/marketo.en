@@ -1,6 +1,6 @@
 ---
-description: Consent Management Program Template - Marketo Docs - Product Documentation
-title: Consent Management Program Template
+description: Consent Management Program Example - Marketo Docs - Product Documentation
+title: Consent Management Program Example
 hide: yes
 hidefromtoc: yes
 feature: Programs
