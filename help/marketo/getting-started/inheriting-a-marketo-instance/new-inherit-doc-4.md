@@ -22,12 +22,11 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   </tr> 
   <tr> 
    <td>Global Landing Pages</td> 
-   <td><li>How many global Landing Pages are there? Are they being used by programs?</li>
-<li>If applicable, is there a subscription center landing page through Marketo?</li></td>
+   <td><li>How many global <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Landing Pages</a> are there? Are they being used by programs?</li></td>
   </tr>
   <tr> 
    <td>Templates</td> 
-   <td><li>How many Landing Page templates are there? Are they being leveraged?</li></td>
+   <td><li>How many <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">Landing Page templates</a> are there? Are they being leveraged?</li></td>
   </tr>
   <tr> 
    <td>Privacy & Compliance</td> 
@@ -46,7 +45,7 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   </tr> 
   <tr> 
    <td>Global Forms</td> 
-   <td><li>How many global forms are there?</li>
+   <td><li>How many global <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">forms</a> are there?</li>
 <li>Do most programs use global or local forms?</li>
 <li>Are all forms gathering the right data for Marketing and Sales?</li>
 <li>Are hidden values leveraged appropriately?</li>
@@ -54,12 +53,12 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   </tr>
   <tr> 
    <td>Data Standardization</td> 
-   <td><li>Are your form fields primarily picklists or open text fields?</li>
-<li>If they're open text fields, consider switching them to picklists to prevent messy data.</li></td>
+   <td><li>Are your <a href="/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md" target="_blank">form fields</a> primarily picklists or open text fields?</li>
+<p>Tip: If they're open text fields, consider switching them to picklists to prevent messy data.</td>
   </tr>
   <tr> 
    <td>Privacy & Compliance</td> 
-   <td><li>Does your form strategy align with your corporate data privacy and opt-in requirements? Consider General Data Protection Regulation (GDPR), CASL (Canada's Anti-Spam Law), the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA), etc. for regulation compliance.</li>
+   <td><li>Does your form strategy align with your corporate data privacy and opt-in requirements? Consider <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">General Data Protection Regulation (GDPR)</a>, CASL (Canada's Anti-Spam Law), the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA), etc. for regulation compliance.</li>
 <p>Tip: Remember to always consult your Legal team on these issues. Ask your team about previous initiatives to maintain compliance before making any changes.</td>
   </tr>
  </tbody> 
@@ -75,11 +74,11 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   </tr> 
   <tr> 
    <td>Global Emails</td> 
-   <td><li>How many global emails are there? Are they being used by programs?</li></td>
+   <td><li>How many global <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md" target="_blank">emails</a> are there? Are they being used by programs?</li></td>
   </tr>
   <tr> 
    <td>Templates</td> 
-   <td><li>How many email templates are there? Are they being leveraged?</li></td>
+   <td><li>How many <a href="/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md" target="_blank">email templates</a> are there? Are they being leveraged?</li></td>
   </tr>
   <tr> 
    <td>Privacy & Compliance</td> 
@@ -99,7 +98,7 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   </tr> 
   <tr> 
    <td>Snippets</td> 
-   <td><li>How many snippets are there? Are they being used? If not, consider using them for email and landing page footer content, logos, and more.</li></td>
+   <td><li>How many <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">snippets</a> are there? Are they being used? If not, consider using them for <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> and <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">landing page</a> footer content, logos, and more.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -114,15 +113,15 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   </tr> 
   <tr> 
    <td>Naming Conventions</td> 
-   <td><li>Do images and files have consistent naming conventions?</li></td>
+   <td><li>Do <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">images and files</a> have consistent naming conventions?</li></td>
   </tr>
   <tr> 
    <td>Folder Structure</td> 
-   <td><li>Are images and files organized appropriately and easy to search?</li></td>
+   <td><li>Are images and files <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">organized appropriately</a> and easy to search?</li></td>
   </tr>
   <tr> 
    <td>Images & Files</td> 
-   <td><li>Do any images or files referenced on the web pages need to be updated? 
+   <td><li>Do any images or files <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">referenced on web pages</a> need to be updated? 
    <p>Example: The hardcoded URL structure may need to be updated, such as <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
    <p>Please work with your web developer to determine where you may need to make updates.</li></td>
   </tr>
