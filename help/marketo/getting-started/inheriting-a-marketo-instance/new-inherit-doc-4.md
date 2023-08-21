@@ -58,7 +58,8 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   </tr>
   <tr> 
    <td>Privacy & Compliance</td> 
-   <td><li>Does your form strategy align with your corporate data privacy and opt-in requirements? Consider <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">General Data Protection Regulation (GDPR)</a>, CASL (Canada's Anti-Spam Law), the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA), etc. for regulation compliance.</li>
+   <td><li>Does your form strategy align with your corporate data privacy and opt-in requirements? 
+   <br/>Consider <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">General Data Protection Regulation (GDPR)</a>, CASL (Canada's Anti-Spam Law), the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA), etc., for regulation compliance.</li>
 <p>Tip: Remember to always consult your Legal team on these issues. Ask your team about previous initiatives to maintain compliance before making any changes.</td>
   </tr>
  </tbody> 
@@ -98,7 +99,8 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   </tr> 
   <tr> 
    <td>Snippets</td> 
-   <td><li>How many <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">snippets</a> are there? Are they being used? If not, consider using them for <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> and <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">landing page</a> footer content, logos, and more.</li></td>
+   <td><li>How many <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">snippets</a> are there? Are they being used? 
+   <br/>If not, consider using them for <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> and <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Landing Page</a> footer content, logos, and more.</li></td>
   </tr>
  </tbody> 
 </table>

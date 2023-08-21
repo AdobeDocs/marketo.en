@@ -49,7 +49,7 @@ The checklist below has been put togther with input from Marketo Champions to he
   </tr>
   <tr> 
    <td>Sandbox (if applicable)</td> 
-   <td><li>Do you have a <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox instance</a>? 
+   <td><li>Do you have a <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox instance</a>?
    <br/>If so, review the categories above for your sandbox.</li>
 <li>Is <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Program Import</a> linked with your sandbox?</li></td>
   </tr>
@@ -181,8 +181,8 @@ The checklist below has been put togther with input from Marketo Champions to he
   </tr>
   <tr> 
    <td>Custom Activities</td> 
-   <td><li>Are there any <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">custom activities</a>?</li>
-<br/>If so, click through them to understand what activities aren't related to a Marketo form, email, or landing page.</td>
+   <td><li>Are there any <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">custom activities</a>?
+<br/>If so, click through them to understand what activities aren't related to a Marketo form, email, or landing page.</li></td>
   </tr>
   <tr> 
    <td>Custom Objects</td> 
@@ -274,8 +274,8 @@ The checklist below has been put togther with input from Marketo Champions to he
   </tr>
   <tr> 
    <td>Campaign Inspector</td> 
-   <td><li>Is <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Campaign Inspector</a> turned on?</li>
-<br/>If not, consider turning it on to easily identify which campaigns are: active, syncing with your CRM, and/or deleting records.</td>
+   <td><li>Is <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Campaign Inspector</a> turned on?
+<br/>If not, consider turning it on to easily identify which campaigns are: active, syncing with your CRM, and/or deleting records.</li></td>
   </tr>
  </tbody> 
 </table>
