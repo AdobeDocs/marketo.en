@@ -31,7 +31,8 @@ feature-set: Marketo Engage
     + [Update Person Data](getting-started/quick-wins/update-person-data.md)
     + [Redirect a Landing Page](getting-started/quick-wins/redirect-a-landing-page.md)
     + [Automate an Alert for Possible Duplicate People](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
-  + Inheriting a Marketo Instance {#inheriting-a-marketo-instance}  
+  + Inheriting a Marketo Instance {#inheriting-a-marketo-instance}
+    + [New Inherit Overview](getting-started/inheriting-a-marketo-instance/new-inherit-overview.md)  
     + [Help! I've Inherited an Existing Marketo Instance](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
     + [Items to Check Off](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
     + [Things to Review: Core Skills](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
@@ -40,6 +41,7 @@ feature-set: Marketo Engage
     + [New Inherit Doc 2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
     + [New Inherit Doc 3](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
     + [New Inherit Doc 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+    + [New Inherit Doc 5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
 + Product Docs {#product-docs}
   + Additional Apps {#additional-apps}
     + SEO {#seo}
