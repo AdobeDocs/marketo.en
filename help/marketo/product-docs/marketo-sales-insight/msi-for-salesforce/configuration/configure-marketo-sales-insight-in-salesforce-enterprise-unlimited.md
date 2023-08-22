@@ -141,10 +141,10 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
       <td>Last Interesting Moment Type</td> 
      </tr> 
      <tr> 
-      <td>Last Marketo Activity by Sales</td> 
+      <td>Last Activity by Sales</td> 
      </tr> 
      <tr> 
-      <td>Last Marketo Engagement by Sales</td> 
+      <td>Last Engagement by Sales</td> 
      </tr> 
      <tr> 
       <td>MSI Contact Id</td> 

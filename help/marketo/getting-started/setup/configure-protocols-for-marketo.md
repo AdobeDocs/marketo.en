@@ -21,6 +21,7 @@ If your IT team restricts web access using an allowlist, ask them to add the fol
 * `*.marketodesigner.com`
 * `*.mktoweb.com`
 * `*.experience.adobe.com`
+* `*.adobe.net`
 
 ## Step 1: Create DNS Records for Landing Pages and Email {#step-create-dns-records-for-landing-pages-and-email}
 
