@@ -6,13 +6,29 @@ hidefromtoc: yes
 ---
 # Jumpstart an Inherited Marketo Engage Instance {#jumpstart-an-inherited-marketo-engage-instance}
 
-Starting a new job or taking over an existing instance from another admin? Taking over a live instance that's been running for a while can seem a little daunting, but this guide will help.
+Starting a new job or taking over an existing instance from another admin? Taking over a live instance that's been running for a while can seem a little daunting, but this guide will help you get up and running in no time.
 
-Use the 'Marketo Engage Instance Audit Admin Checklist' to review and test your instance, troubleshoot errors, and investigate red flags before they become a problem.  
+## Items to Check Off {#items-to-check-off}
+
+Make sure you're properly set up with the right kinds of access and information.
+
+* Watch a short overview of [**what Marketo does**](https://pages2.marketo.com/demoFull.html){target="_blank"}.
+
+* **Set up your profile** in the [**Marketing Nation**](https://nation.marketo.com/){target="_blank"} community (username and password required).
+
+* Read up on the [**Marketing Community Guidelines**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+
+* Click **[!UICONTROL Your Places]** on your Marketo Nation community profile to check out your company's Account Page.
+
+* Learn how to [**submit a support case**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
+
+* [**Manage users**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target="_blank"} and delete those who have left your company.
 
 ## Inherited Instance Audit Guides {#inherited-instance-audit-guides}
 
-The online guides below will help you navigate the different areas of Marketo Engage and address the various tasks required to perform an audit, with links to recommended help documentation included. You can also download the checklist in spreadsheet form.
+The checklists below have been put together with input from Marketo Champions to help you get up to speed quickly. Learn how to navigate the different areas of Marketo Engage and perform the various tasks required to perform an audit, with links to recommended help documentation included. 
+
+You can also download the checklists in spreadsheet form.
 
 * [Admin section](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
 
@@ -23,20 +39,15 @@ The online guides below will help you navigate the different areas of Marketo En
 * [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
 
 * [Document your inherited instance setup](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
-
  
-H2: Are you new to Marketo Engage? Here're the prerequisites:
+## Ways to Get Help {#ways-to-get-help}
 
-Items to Check Off 
+Need more help? Connect with us or other Marketo Engage users via the links below.
 
-Things to Review: Core Skills 
+For technical assistance with something that's not working properly, contact **[Marketo Engage Customer Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
 
-Ways to Get Help 
+Connect with and learn from fellow Marketo Engage users in the **[Marketing Nation](https://nation.marketo.com/){target="_blank"}**.
 
- 
+For hands-on assistance with getting the most out of your Marketo Engage instance, reach out to **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html)**.
 
-H2: Get inspired and connect with peers 
-
- 
-
-Visit the Marketing Nation Community to see learn how other admins audit an inherited instance more efficiently.  
+To enhance your Marketo Engage skills, browse the **[Marketo Engage Course Catalog](https://learning.adobe.com/catalog.html?products=Marketo%20Engage){target="_blank"}**.

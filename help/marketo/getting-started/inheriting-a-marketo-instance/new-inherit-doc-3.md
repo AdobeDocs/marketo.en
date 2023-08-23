@@ -6,11 +6,7 @@ hidefromtoc: yes
 ---
 # Inherit Doc 3 {#inherit-doc-3}
 
-Did you inherit an existing Marketo Engage instance from another Admin? If so, this article is for you.
-
->[!TIP]
->
->If you're a new(er) Marketo Engage user and are not familiar with many of the terms, please check out the [Marketo Glossary](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Marketing Activities is where your marketing team can create Smart Campaigns, build creative assets (e.g., emails and Landing Pages), and view asset performance. 
 
 ## Organization {#organization}
 
@@ -163,3 +159,9 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   </tr>
  </tbody> 
 </table>
+
+<br>&nbsp;
+
+[◄ Audit an Inherited Instance: Database](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+
+[Audit an Inherited Instance: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

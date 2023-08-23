@@ -6,11 +6,9 @@ hidefromtoc: yes
 ---
 # Inherit Doc 1 {#inherit-doc-1}
 
-Auditing an inherited instance can seem like a...
+As a new Adobe Marketo Engage admin, there are several tasks you'll want to perform to check the health and viability of your inherited instance.
 
-Did you inherit an existing Marketo Engage instance from another Admin? If so, this article is for you...
-
-The checklist below has been put togther with input from Marketo Champions to help you get up to speed quickly in your inherited instance...
+The checklists below (subsequents checklists linked to at the bottom of each article) have been put together with input from Marketo Champions to help you get up to speed quickly. Document your progress in the Marketo Engage Inherited Instance Checklist.
 
 >[!TIP]
 >
@@ -307,3 +305,7 @@ The checklist below has been put togther with input from Marketo Champions to he
   </tr>
  </tbody> 
 </table>
+
+<br>&nbsp;
+
+[Audit an Inherited Instance: Database ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)

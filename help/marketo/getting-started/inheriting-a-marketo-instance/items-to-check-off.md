@@ -7,13 +7,13 @@ feature: Getting Started
 ---
 # Items to Check Off {#items-to-check-off}
 
-Make sure you're properly set up with the right kinds of access and information. Perform these simple steps so you can check some things off your to-do list right away!
+Make sure you're properly set up with the right kinds of access and information.
 
 * Watch a short overview of [**what Marketo does**](https://pages2.marketo.com/demoFull.html){target="_blank"}.
 
 * **Set up your profile** in the [**Marketing Nation**](https://nation.marketo.com/){target="_blank"} community (username and password required).
 
-* Learn how to engage with the [**Marketing Nation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community){target="_blank"} community to get answers to your questions.
+* Read up on the [**Marketing Community Guidelines**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
 * Click **[!UICONTROL Your Places]** on your Marketo Nation community profile to check out your company's Account Page.
 

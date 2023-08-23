@@ -6,7 +6,7 @@ hidefromtoc: yes
 ---
 # Inherit Doc 5 {#inherit-doc-5}
 
-Text
+Now that you've learned the key product areas to audit when inheriting an established instance, the next step is to create/update documentation on your instance configuration and tech stack. Whether creating it via spreadsheet or a project management application, your documentation is a great resource to track progress and record details.
 
 ## Data {#data}
 
@@ -63,3 +63,5 @@ Text
   </tr>
  </tbody> 
 </table>
+
+[◄ Audit an Inherited Instance: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

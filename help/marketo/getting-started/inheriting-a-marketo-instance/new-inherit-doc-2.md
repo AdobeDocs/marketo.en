@@ -6,11 +6,7 @@ hidefromtoc: yes
 ---
 # Inherit Doc 2 {#inherit-doc-2}
 
-Did you inherit an existing Marketo Engage instance from another Admin? If so, this article is for you.
-
->[!TIP]
->
->If you're a new(er) Marketo Engage user and are not familiar with many of the terms, please check out the [Marketo Glossary](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Understand the total number of people, marketable people, and top person-acquiring sources in your subscription(s).
 
 ## System Smart Lists {#system-smart-lists}
 
@@ -110,3 +106,9 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   </tr>
  </tbody> 
 </table>
+
+<br>&nbsp;
+
+[◄ Audit an Inherited Instance: Admin](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+
+[Audit an Inherited Instance: Marketing Activities ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)

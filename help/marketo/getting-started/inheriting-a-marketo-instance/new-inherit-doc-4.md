@@ -6,11 +6,7 @@ hidefromtoc: yes
 ---
 # Inherit Doc 4 {#inherit-doc-4}
 
-Did you inherit an existing Marketo Engage instance from another Admin? If so, this article is for you.
-
->[!TIP]
->
->If you're a new(er) Marketo Engage user and are not familiar with many of the terms, please check out the [Marketo Glossary](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Structuring templates and creating global forms, Snippets, and images & files will help minimize data errors as well as streamline the workflow of your program build.
 
 ## Landing Pages {#landing-pages}
 
@@ -29,6 +25,10 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
    <td><li>How many <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">Landing Page templates</a> are there? Are they being leveraged?</li></td>
   </tr>
   <tr> 
+   <td>Test Groups</td> 
+   <td><li>How many <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md" target="_blank">Landing Page test groups</a> are they? Are they all still relevant?</li></td>
+  </tr>
+   <tr> 
    <td>Privacy & Compliance</td> 
    <td><li>Do all your Landing Pages have the appropriate footers?</li></td>
   </tr>
@@ -82,6 +82,10 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
    <td><li>How many <a href="/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md" target="_blank">email templates</a> are there? Are they being leveraged?</li></td>
   </tr>
   <tr> 
+   <td>Email Testing</td> 
+   <td><li>How are you using <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">email testing</a>? Is your method still effective?</li></td>
+  </tr>
+  <tr> 
    <td>Privacy & Compliance</td> 
    <td><li>Do all your emails have the appropriate footers? Consider GDPR, CASL, CAN-SPAM, CCPA, etc. for compliance implications.</li>
 <p>Tip: Remember to always consult your Legal team on these compliance issues. Ask your team about previous initiatives to maintain compliance before making any changes.</td>
@@ -129,3 +133,30 @@ Did you inherit an existing Marketo Engage instance from another Admin? If so, t
   </tr>
  </tbody> 
 </table>
+
+## All Assets {#all-assets}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th>Area</th> 
+   <th>Review Focus</th>
+  </tr> 
+  <tr> 
+   <td>Asset Status</td> 
+   <td><li>How many assets are in <i>Draft</i> and <i>Approved with Draft</i> status?
+   <br/>If there are many, consider deleting or approving them.</li></td>
+  </tr>
+  <tr> 
+   <td>Asset Sharing</td> 
+   <td><li>Which assets are <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">shared across Workspaces</a>?</li>
+   <p>Note: It's important to know this as actions taken in one workspace might lead to an inaccessible asset in a different workspace for another user.</td>
+  </tr>
+ </tbody> 
+</table>
+
+<br>&nbsp;
+
+[◄ Audit an Inherited Instance: Marketing Activities](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+
+[Audit an Inherited Instance: Document Your Inherited Instance Setup ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
