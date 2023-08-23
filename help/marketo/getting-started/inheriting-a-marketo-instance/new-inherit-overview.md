@@ -12,7 +12,7 @@ Starting a new job or taking over an existing instance from another admin? Takin
 
 Make sure you're properly set up with the right kinds of access and information.
 
-* Watch a short overview of [**what Marketo does**](https://pages2.marketo.com/demoFull.html){target="_blank"}.
+* Watch a short overview of **what Marketo does** - KG - EITHER FIND BETTER VIDEO OR DELETE
 
 * **Set up your profile** in the [**Marketing Nation**](https://nation.marketo.com/){target="_blank"} community (username and password required).
 
