@@ -44,10 +44,10 @@ You can also download the checklists in spreadsheet form.
 
 Need more help? Connect with us or other Marketo Engage users via the links below.
 
-For technical assistance with something that's not working properly, contact **[Marketo Engage Customer Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
+* For technical assistance with something that's not working properly, contact **[Marketo Engage Customer Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
 
-Connect with and learn from fellow Marketo Engage users in the **[Marketing Nation](https://nation.marketo.com/){target="_blank"}**.
+* Connect with and learn from fellow Marketo Engage users in the **[Marketing Nation](https://nation.marketo.com/){target="_blank"}**.
 
-For hands-on assistance with getting the most out of your Marketo Engage instance, reach out to **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html)**.
+* For hands-on assistance with getting the most out of your Marketo Engage instance, reach out to **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html)**.
 
-To enhance your Marketo Engage skills, browse the **[Marketo Engage Course Catalog](https://learning.adobe.com/catalog.html?products=Marketo%20Engage){target="_blank"}**.
+* To enhance your Marketo Engage skills, browse the **[Marketo Engage Course Catalog](https://learning.adobe.com/catalog.html?products=Marketo%20Engage){target="_blank"}**.
