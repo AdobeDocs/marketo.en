@@ -97,7 +97,7 @@ The results: score changed by +10.
 
 **Example Two: False**
 
-In the Execute Campaign filter of the second parent campaign, the "Use Parent Campaign Token Context" is set to **False**.
+In the Execute Campaign flow step of the second parent campaign, the "Use Parent Campaign Token Context" is set to **False**.
 
 ![](assets/execute-campaign-8.png)
 

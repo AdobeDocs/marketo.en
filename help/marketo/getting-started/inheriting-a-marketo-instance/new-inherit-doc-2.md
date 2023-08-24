@@ -6,7 +6,7 @@ hidefromtoc: yes
 ---
 # Inherit Doc 2 {#inherit-doc-2}
 
-Understand the total number of people, marketable people, and top person-acquiring sources in your subscription(s).
+Understand the total number of people, marketable people, and top person-acquiring sources in your subscription.
 
 ## System Smart Lists {#system-smart-lists}
 

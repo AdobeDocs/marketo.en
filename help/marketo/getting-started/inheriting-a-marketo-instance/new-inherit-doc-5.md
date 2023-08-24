@@ -45,7 +45,7 @@ Now that you've learned the key product areas to audit when inheriting an establ
   <tr> 
    <td>Organization</td> 
     <td><li>Do you have robust documentation of how your Marketo Engage instance is organized and why?</li>
-   <p>Action Item: Create documentation that contains folder structure, naming convention, and channels/statues KG - STATUTES? used in your instance.</td>
+   <p>Action Item: Create documentation that contains folder structure, naming convention, and channels used in your instance.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 

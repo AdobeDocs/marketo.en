@@ -104,7 +104,7 @@ The checklists below (subsequents checklists linked to at the bottom of each art
   <tr> 
    <td>Smart Campaign Settings</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Do you have a restriction</a> on Smart Campaign size? 
-   <br/>If not, consider adding one. We recommend limiting the smart campaign limits to 25% of your database to avoid overcommunication or processing your entire database in workflows; this not only protects your brand, but helps protect the performance of your instance. KG - IS THIS ACCURATE?</li></td>
+   <br/>If not, consider adding one. We recommend limiting the Smart Campaign limits to 25% of your database to avoid overcommunication or processing your entire database in workflows; this not only protects your brand, but helps protect the performance of your instance.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -120,7 +120,7 @@ The checklists below (subsequents checklists linked to at the bottom of each art
   <tr> 
    <td>Communication Limits</td> 
    <td><li>Are there <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">communication limits</a> in place? Does your business have policies where communication limits might be necessary?</li>
-<p>Note: Adobe recommends limiting your communication to 1 per day and 3 per 7 days, with <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operational</a> emails blocked. KG - IS THIS ACCURATE?</td>
+<p>Note: Adobe recommends limiting your communication to 1 per day and 3 per 7 days, with <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operational</a> emails blocked.</td>
   </tr>
  </tbody> 
 </table>
@@ -201,9 +201,9 @@ The checklists below (subsequents checklists linked to at the bottom of each art
   <tr> 
    <td>CRM</td> 
    <td><li>Which CRM are you syncing to? Salesforce? MS Dynamics? Veeva?</li>
-<li>Is the custom sync or bi-directional? (KG: FIX GRAMMAR AND CHECK IMPORTANCE)</li>
+<li>Are you utilizing a custom sync?</li>
 <li>[Salesforce Only] Does your instance have Custom Sync Filters implemented? 
-<p>Note: Contact Marketo Support to identify Custom Sync Filters or request a Custom Sync rule be implemented.</li></td>
+<p>Note: Contact Marketo Support to identify Custom Sync Filters or request a Custom Sync Rule be implemented.</li></td>
   </tr>
   <tr> 
    <td>Landing Pages</td> 

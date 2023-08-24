@@ -49,5 +49,3 @@ Need more help? Connect with us or other Marketo Engage users via the links belo
 * Connect with and learn from fellow Marketo Engage users in the **[Marketing Nation](https://nation.marketo.com/){target="_blank"}**.
 
 * For hands-on assistance with getting the most out of your Marketo Engage instance, reach out to **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html)**.
-
-* To enhance your Marketo Engage skills, browse the **[Marketo Engage Course Catalog](https://learning.adobe.com/catalog.html?products=Marketo%20Engage){target="_blank"}**.

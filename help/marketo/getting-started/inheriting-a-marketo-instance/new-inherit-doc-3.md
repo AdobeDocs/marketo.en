@@ -35,9 +35,9 @@ Marketing Activities is where your marketing team can create Smart Campaigns, bu
   </tr>
   <tr> 
    <td>Archive</td> 
-   <td><li>Are older programs <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">archived</a>? 
-   <br/>The best practice is to review every year. KG - IS THIS TRUE</li>
-<li>How often does your company review and archive old programs?</li></td>
+   <td><li>Are older programs <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">archived</a>?</li>
+<li>How often does your company review and archive old programs?</li>
+<p>Tip: It's good to perform a review every year.</td>
   </tr>
   <tr> 
    <td>Notifications</td> 
@@ -73,8 +73,7 @@ Marketing Activities is where your marketing team can create Smart Campaigns, bu
 <li>How many <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">people are exhausted</a>? 
 <br/>If there are many exhausted people, consider adding content.</li>
 <li>Are people engaging with the content? 
-<br/>If not, consider updating it and/or A/B testing.</li>
-<li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">How many people</a> KG - IS THERE A WAY TO SEE ALL PROGRAMS AT ONCE? DON'T THINK SO BUT MAKE SURE are in more than one Engagement Program? Should they be in multiple?</li></td>
+<br/>If not, consider updating it and/or A/B testing.</li></td>
   </tr>
   <tr> 
    <td>Batch Campaigns</td> 
