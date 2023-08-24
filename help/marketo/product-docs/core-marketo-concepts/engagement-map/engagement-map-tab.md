@@ -116,9 +116,17 @@ Here's an example of a request campaign with choices.
 
 ## Error Handling {#error-handling}
 
-Errors in Smart Lists and Flow Steps will be highlighted via an error icon in the card. Additionally, a corresponding error message will be reflected in the slide-out panel.
+Errors in Smart Lists and Flow Steps will be highlighted via a red icon in the card. Additionally, a corresponding error message will be reflected in the slide-out panel.
 
-Below is an example of an error in a trigger which shows in the trigger overview card, slide-out panel, and the detail trigger card.
+Warnings in Smart Lists and Flow Steps will be highlighted via an orange icon in the card. Additionally, a corresponding warning message will be reflected in the slide-out panel.
+
+Below is an example of a warning in a Choice card which shows in the Execute Campaign flow step card, slide-out panel, and the Default choice card.
+
+   ![](assets/engagement-map-tab-18.png)
+
+>[!NOTE]
+>
+>Warnings are recommendations to review, but are not indicative of errors in the Smart Campaign.
 
 **Errors in filter cards can include:**
 
