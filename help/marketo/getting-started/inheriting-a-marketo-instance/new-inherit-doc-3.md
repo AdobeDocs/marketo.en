@@ -90,7 +90,7 @@ Marketing Activities is where your marketing team can create Smart Campaigns, bu
    <td>Local Forms</td> 
    <td><li>How many programs have local <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">forms</a>? Should these forms be turned into global forms?</li>
 <li>Are they capturing appropriate data for your Marketing and Sales teams?</li>
-<p>Tip: Limit the number of local forms to ease updating and alignment to changes with data privacy and opt-in/opt-out policies. Consider when creating a form, what questions need to be asked? If the information gathered doesn't change and advanced form functionality doesn't shift, consider a global form instead of a local form. KG - VERIFY THIS</td>
+<p>Tip: Limit the number of local forms to ease updating and alignment to changes with data privacy and opt-in/opt-out policies. When creating a form, what questions need to be asked? If the information gathered doesn't change and advanced form functionality doesn't shift, consider a global form instead of a local form.</td>
   </tr>
   <tr> 
    <td>Global Forms</td> 
@@ -125,11 +125,11 @@ Marketing Activities is where your marketing team can create Smart Campaigns, bu
   </tr>
   <tr> 
    <td>Data Standardization</td> 
-   <td><li>Do you have a centralized program in place to standardize incoming data? KG - DOUBLECHECK THIS</li></td>
+   <td><li>Do you have a centralized program in place to standardize incoming data?</li></td>
   </tr>
   <tr> 
    <td>Bounce Management</td> 
-   <td><li>Do you have a centralized program to deal with <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">people that bounce</a>? KG - IS THIS 2017 ARTICLE STILL RELEVANT?</li></td>
+   <td><li>Do you have a centralized program to deal with <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">people that bounce</a>?</li></td>
   </tr>
   <tr> 
    <td>Privacy & Compliance</td> 

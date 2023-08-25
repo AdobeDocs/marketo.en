@@ -120,7 +120,7 @@ The checklists below (subsequents checklists linked to at the bottom of each art
   <tr> 
    <td>Communication Limits</td> 
    <td><li>Are there <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">communication limits</a> in place? Does your business have policies where communication limits might be necessary?</li>
-<p>Note: Adobe recommends limiting your communication to 1 per day and 3 per 7 days, with <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operational</a> emails blocked.</td>
+<p>Note: We recommend limiting your communication to 1 per day and 3 per 7 days, with <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operational</a> emails blocked.</td>
   </tr>
  </tbody> 
 </table>
@@ -222,7 +222,7 @@ The checklists below (subsequents checklists linked to at the bottom of each art
    <td><li>Is your <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin tracking code</a> on your website (Not in Marketo)?</li>
 <li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Do Not Track</a> Browser Request enabled?</li>
 <li>Is your <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> configured? 
-<p>Tip: If you're missing documentation on where the munchkin code is on your website, get started with a quick view by using the 'Web Analytics Report' in basic 'Analytics' to understand where the Munchkin code is placed across your website. KG - IS THIS A GOOD TIP</li></td>
+<p>Tip: If you're missing documentation on where the munchkin code is on your website, you can view all URLs by creating a <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Web Page Activity Report</a>.</li></td>
   </tr>
   <tr> 
    <td>Web Services</td> 

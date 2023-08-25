@@ -13,13 +13,12 @@ You can choose to display known people or anonymous people, but not both kinds o
 
 >[!PREREQUISITES]
 >
->* [Add Munchkin Tracking Code to Your Website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>* [Add Munchkin Tracking Code to Your Website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}
 
-1. [Create a report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)and select the **Web Page Activity Report** [report type](report-type-overview.md).
+1. [Create a report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) and select the **Web Page Activity Report** [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
+1. Choose to [display known or anonymous people](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"} in the report.
 
-1. Choose to [display known or anonymous people](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) in the report.
-
-1. [Set the time frame of your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) and click the **Report** tab.
+1. [Set the time frame of your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"} and click the **Report** tab.
 
 1. You've got it! Review your report to see who is visiting your site.
 
@@ -31,10 +30,10 @@ You can choose to display known people or anonymous people, but not both kinds o
 
    >[!TIP]
    >
-   >To find out who visits your site the most, [sort your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) on the _Page Views_ column and choose Sort Descending.
+   >To find out who visits your site the most, [sort your report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} on the _Page Views_ column and choose Sort Descending.
 
-   [Marketo adds anonymous](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) website visitors to your database and you can choose to show them in this report. It provides a wealth of information even though they are anonymous.  
-   [Columns that you can select](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) for a Web Page Activity report include:
+   [Marketo adds anonymous](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} website visitors to your database and you can choose to show them in this report. It provides a wealth of information even though they are anonymous.  
+   [Columns that you can select](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} for a Web Page Activity report include:
 
 <table> 
  <thead> 
@@ -54,7 +53,7 @@ You can choose to display known people or anonymous people, but not both kinds o
   </tr> 
   <tr> 
    <td>Page Views</td> 
-   <td>Number of pages loaded by this visitor.<br><strong><a href="web-page-activity-report/web-pages-viewed-web-page-activity-report.md">Click</a></strong> to view which pages were visited.</td> 
+   <td>Number of pages loaded by this visitor.<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">Click</a></strong> to view which pages were visited.</td> 
   </tr> 
   <tr> 
    <td>HTTP Referer</td> 
@@ -77,9 +76,9 @@ You can choose to display known people or anonymous people, but not both kinds o
 
    >[!TIP]
    >
-   >Thrill your sales reps! [Filter the report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)for their territory and [subscribe them to it](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
+   >Thrill your sales reps! [Filter the report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md){target="_blank"} for their territory and [subscribe them to it](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md){target="_blank"}!
 
    >[!MORELIKETHIS]
    >
-   >* [Web Pages Viewed, Web Page Activity Report](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
-   >* [Display People or Anonymous Visitors in Web Reports](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
+   >* [Web Pages Viewed, Web Page Activity Report](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md){target="_blank"}
+   >* [Display People or Anonymous Visitors in Web Reports](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"}
