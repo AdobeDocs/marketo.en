@@ -54,7 +54,7 @@ _Release dates are subject to change_
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">July '23</a></td>
    <td>July 21, 2023</td>
-   <td>On Schedule</td>
+   <td>In Progress</td>
   </tr>
   <tr>
    <td>September '23</td>
@@ -63,7 +63,7 @@ _Release dates are subject to change_
   </tr>
   <tr>
    <td>October '23</td>
-   <td>October 20, 2023</td>
+   <td>October 13, 2023</td>
    <td>On Schedule</td>
   </tr>
  </tbody>
