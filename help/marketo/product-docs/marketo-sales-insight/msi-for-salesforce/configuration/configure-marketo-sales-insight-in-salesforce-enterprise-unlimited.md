@@ -77,7 +77,7 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
 
 ## Grant Sales Insight Users Profile Access to Standard Salesforce Objects {#grant-sales-insight-users-profile-access}
 
-Dure to Saleforce security enhancements, App Exchange packages can no longer grant permission to standard objects, and access will need to be granted to the relevant Salesforce objects from the Salesforce user's profile Follow the steps below to grant the necessary permissions. 
+Due to Saleforce security enhancements, App Exchange packages can no longer grant permission to standard objects, and access will need to be granted to the relevant Salesforce objects from the Salesforce user's profile.  Follow the steps below to grant the necessary permissions. 
 
 1. Click **Setup**.
 
