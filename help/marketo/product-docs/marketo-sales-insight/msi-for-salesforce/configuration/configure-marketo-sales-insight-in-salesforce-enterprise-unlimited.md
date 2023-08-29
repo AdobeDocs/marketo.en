@@ -75,6 +75,20 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
    >
    >_You_ choose your **Remote Site Name** (MarketoAPI is used here). The **Remote Site URL** can be found in the Marketo Host field of your Edit API Configuration dialog box from Step 3 in the "Configure Sales Insight in Marketo" section.
 
+## Grant Sales Insight Users Profile Access to Standard Salesforce Objects {#grant-sales-insight-users-profile-access}
+
+Dure to Saleforce security enhancements, App Exchange packages can no longer grant permission to standard objects, and access will need to be granted to the relevant Salesforce objects from the Salesforce user's profile Follow the steps below to grant the necessary permissions. 
+
+1. Click **Setup**.
+
+1. Search "Profiles" in Quick find.
+
+1. Click **Edit** next to the profile your Salesforce users are using.
+
+1. Under the Standard Object Permission section, enable Read access for the following objects: Lead, Contact, Account, and Opportunity.
+
+1. Click **Save**.
+
 ## Customize Page Layouts {#customize-page-layouts}
 
 1. Click **Setup**.

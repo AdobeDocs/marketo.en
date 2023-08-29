@@ -52,7 +52,7 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-6-1.png)
 
-1. Search for “remote site" and select **Remote Site Settings**.
+1. Search for "remote site" and select **Remote Site Settings**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-7-1.png)
 
@@ -60,7 +60,7 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8-1.png)
 
-1. Enter the Remote Site Name (it can be something like “MarketoSoapAPI”). Enter Remote Site URL, which is your Marketo Host URL from the Soap API Configuration panel in Marketo. Click **Save**. You have now created remote site settings for Soap API.
+1. Enter the Remote Site Name (it can be something like "MarketoSoapAPI"). Enter Remote Site URL, which is your Marketo Host URL from the Soap API Configuration panel in Marketo. Click **Save**. You have now created remote site settings for Soap API.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9-1.png)
 
@@ -68,7 +68,7 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10-1.png)
 
-1. Enter the Remote Site Name (it can be something like “MarketoRestAPI”). Enter Remote Site URL, which is your API URL from Rest API Configuration panel in Marketo. Click **Save**. You have now created remote site settings for Rest API.
+1. Enter the Remote Site Name (it can be something like "MarketoRestAPI"). Enter Remote Site URL, which is your API URL from Rest API Configuration panel in Marketo. Click **Save**. You have now created remote site settings for Rest API.
 
 ## Set up Marketo Sales Insight {#set-up-marketo-sales-insight}
 
@@ -115,6 +115,20 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
    >[!NOTE]
    >
    >You choose your **Remote Site Name** (MarketoAPI is used here). The **Remote Site URL** can be found in the Marketo Host field of your Edit API Configuration dialog box from Step 4.
+   
+## Grant Sales Insight Users Profile Access to Standard Salesforce Objects {#grant-sales-insight-users-profile-access}
+
+Dure to Saleforce security enhancements, App Exchange packages can no longer grant permission to standard objects, and access will need to be granted to the relevant Salesforce objects from the Salesforce user's profile Follow the steps below to grant the necessary permissions. 
+
+1. Click **Setup**.
+
+1. Search "Profiles" in Quick find.
+
+1. Click **Edit** next to the profile your Salesforce users are using.
+
+1. Under the Standard Object Permission section, enable Read access for the following objects: Lead, Contact, Account, and Opportunity.
+
+1. Click **Save**.
 
 ## Customize Page Layouts {#customize-page-layouts}
 
@@ -260,7 +274,7 @@ Marketo person fields need to be mapped to Salesforce contact fields to ensure t
  </tbody> 
 </table>
 
-1. Click **Save** when you’re done.
+1. Click **Save** when you're done.
 
    ![](assets/image2014-9-24-17-3a37-3a17.png)
 
@@ -268,13 +282,13 @@ Marketo person fields need to be mapped to Salesforce contact fields to ensure t
 
 1. In Salesforce, click the **+** at the end of the tab bar and click **Marketo Sales Insight Config**.
 
-1. Copy the credentials from the Soap API panel in [Marketo’s Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} and paste them into the Soap API section of the Salesforce Sales Insight Configuration page.
+1. Copy the credentials from the Soap API panel in [Marketo's Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} and paste them into the Soap API section of the Salesforce Sales Insight Configuration page.
 
-1. Copy the credentials from the Rest API panel in [Marketo’s Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} and paste them into the Rest API section of the Salesforce Sales Insight Configuration page.
+1. Copy the credentials from the Rest API panel in [Marketo's Sales Insight Admin page](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} and paste them into the Rest API section of the Salesforce Sales Insight Configuration page.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
-And that’s it! You should be able to see the Marketo Sales Insight fields for Leads, Contacts, Accounts and Opportunities.
+And that's it! You should be able to see the Marketo Sales Insight fields for Leads, Contacts, Accounts and Opportunities.
 
 >[!NOTE]
 >
