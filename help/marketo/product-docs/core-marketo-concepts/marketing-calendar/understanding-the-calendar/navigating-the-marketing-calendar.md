@@ -7,11 +7,15 @@ feature: Marketing Calendar
 ---
 # Navigating the Marketing Calendar {#navigating-the-marketing-calendar}
 
-Navigating around the Marketing Calendar is easy as one, two, three!
+Navigating around the Marketing Calendar is easy. Here's how.
 
 >[!PREREQUISITES]
 >
 >Make sure you have a [Marketing Calendar license](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - otherwise the Marketing Calendar tile won't show up in My Marketo.
+
+>[!NOTE]
+>
+>Recurring Smart Campaigns are not supported in Marketing Calendar.
 
 1. Go to the **Marketing Calendar**.
 

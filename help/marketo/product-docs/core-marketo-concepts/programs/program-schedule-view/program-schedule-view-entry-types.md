@@ -9,6 +9,10 @@ feature: Programs
 
 There are eight different built-in entry types that will be visible and available for use in your program schedule view. You can also [create custom entry types](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) in the Admin section.
 
+>[!NOTE]
+>
+>Recurring Smart Campaigns are **not** supported in schedule view.
+
 <table> 
  <thead> 
   <tr> 
@@ -23,11 +27,11 @@ There are eight different built-in entry types that will be visible and availabl
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Smart Campaign <img alt="--" src="assets/image2014-9-24-10-3a5-3a2.png" data-linked-resource-id="3082716" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1">Scheduled smart campaign with no Send Email flow step.</td> 
+   <td colspan="1" rowspan="1">Scheduled Smart Campaign with no Send Email flow step.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Smart Campaign with Email <img alt="--" src="assets/image2014-9-24-10-3a5-3a14.png" data-linked-resource-id="3082717" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1"><p>Scheduled smart campaign with a least one Send Email flow step.</p></td> 
+   <td colspan="1" rowspan="1"><p>Scheduled Smart Campaign with a least one Send Email flow step.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Email Program <img alt="--" src="assets/image2014-9-24-10-3a5-3a27.png" data-linked-resource-id="3082718" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 

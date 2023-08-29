@@ -1,11 +1,11 @@
 ---
-description: OA-YYYY-MM-Online Advertising w Marketo Landing Page - Marketo Docs - Product Documentation
-title: OA-YYYY-MM-Online Advertising w Marketo Landing Page
+description: OA-YYYY-MM-Online Advertising Marketo Landing Page - Marketo Docs - Product Documentation
+title: OA-YYYY-MM-Online Advertising Marketo Landing Page
 hide: yes
 hidefromtoc: yes
 feature: Programs
 ---
-# OA-YYYY-MM-Online Advertising w Marketo Landing Page {#oa-yyyy-mm-online-advertising-w-marketo-landing-page}
+# OA-YYYY-MM-Online Advertising Marketo Landing Page {#oa-yyyy-mm-online-advertising-marketo-landing-page}
 
 This is an example of an online advertising tracking program, including a Marketo Landing Page with registration form and utilizing a Marketo Default Program. The link to the offer can be displayed on the thank you page, sent in a thank you email, or both.
 
