@@ -8,9 +8,11 @@ exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
 ---
 # Program Import Library Overview {#program-import-library-overview}
 
-Intro text.
+The Marketo Engage Reference Library includes several starter programs you can import directly into your Marketo instance to kickstart building programs that will help support your team. 
 
---Marketo Engage Program Import Library info here--
+The library includes such programs as: email, engagement, event, scoring, deliverability, and operational. All programs have been developed by the Adobe Product Team and vetted by our global Professional Services team in an effort to maximize quality and effectiveness.
+
+## Available Program Examples {#available-program-examples}
 
 * [CT-YYYY-MM-Content Non-Marketo Landing Page](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md){target="_blank"}
 
@@ -45,3 +47,7 @@ Intro text.
 * [WBN-YYYY-MM-DD-Webinar Program](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md){target="_blank"}
 
 * [WR-YYYY-MM-Web Request Program](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md){target="_blank"}
+
+>[!MORELIKETHIS]
+>
+>[Import a Program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md){target="_blank"}
