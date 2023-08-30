@@ -59,7 +59,7 @@ For further strategy assistance or help customizing a program, please contact th
   <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
-   <td>?????????????????</td>
+   <td>Generic Email Domain</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
