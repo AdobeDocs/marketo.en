@@ -6,20 +6,50 @@ hidefromtoc: yes
 ---
 # Inherit Doc 1 {#inherit-doc-1}
 
-As a new Adobe Marketo Engage admin, there are several tasks you'll want to perform to check the health and viability of your inherited instance.
-
-The checklists below (subsequents checklists linked to at the bottom of each article) have been put together with input from Marketo Champions to help you get up to speed quickly. Document your progress in the Marketo Engage Inherited Instance Checklist.
+The checklists below (subsequent checklists linked to at the bottom of each article) have been put together with input from Marketo Champions to help you get up to speed quickly. You can also download the checklists and track your progress.
 
 >[!TIP]
 >
 >If you're a new(er) Marketo Engage user and are not familiar with many of the terms, please check out the [Marketo Glossary](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+
+## Adobe Admin Console {#adobe-admin-console}
+
+<table> 
+ <tbody> 
+  <tr> 
+   <th style="width:25%">Area</th> 
+   <th>Review Focus</th>
+  </tr> 
+  <tr> 
+   <td>Subscription</td> 
+   <td><li>Is your Marketo Engage subscription on <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe Identity Management System</a> (Adobe IMS) yet? 
+<br/>
+If so, have you been granted an 'Adobe Admin Console Product Admin' role by your 'Adobe Admin Console System Admin'? If you're not sure who in your organization has admin privileges in the console, contact <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe Customer Care</a>.  
+<br/>If not, you'll proceed with the <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">legacy user roles and permissions experience</a> in Marketo Engage > Admin > Users & Roles until your subscription is renewed.</li></td>
+  </tr>
+  <tr> 
+   <td>Product Profile</td> 
+   <td>(Subscriptions on Adobe IMS <b>only</b>)
+<p>
+<li>Have you been granted a 'Marketo Engage Product Admin' role in Marketo Engage/Admin/Users & Roles?</li> 
+<li>Have you assigned Marketo Engage to all the appropriate users' product profiles in the Adobe Admin Console?
+<br/>If not, make sure to assign Marketo Engage to their Adobe IMS product profile before assigning their roles in Marketo Engage/Admin/Users & Roles.</li>
+<p>Note: If your subscription has more than 75 users and was just migrated to Adobe IMS, you have the option to select users to migrate in batches and administer their Adobe Identify in groups or all at once. Read more about what to expect on <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS migration day</a>.</td>
+  </tr>
+  <tr> 
+   <td>User Management API</td> 
+   <td><li>Has your subscription used any Marketo User Management APIs?
+<br/>If so, you'll need to use <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS APIs</a> to invite, update, and delete users moving forward.</li></td>
+  </tr>
+ </tbody> 
+</table>
 
 ## Users & Roles {#users-and-roles}
 
 <table> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -41,6 +71,10 @@ The checklists below (subsequents checklists linked to at the bottom of each art
 <li>Do your user roles and permissions align with your corporate data <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">privacy policies</a>?</li></td>
   </tr>
   <tr> 
+   <td>Support Users</td> 
+   <td><li>Have you set up the appropriate <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">authorized contacts</a> in the Support Portal?</li></td>
+  </tr>
+  <tr> 
    <td>Internal Documentation</td> 
    <td><li>Are users and roles clearly defined in your organization?</li>
 <li>What is your process for adding a new user/admin?</li></td>
@@ -48,7 +82,7 @@ The checklists below (subsequents checklists linked to at the bottom of each art
   <tr> 
    <td>Sandbox (if applicable)</td> 
    <td><li>Do you have a <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox instance</a>?
-   <br/>If so, review the categories above for your sandbox.</li>
+   <br/>&nbsp;&nbsp;If so, review the categories above for your sandbox.</li>
 <li>Is <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Program Import</a> linked with your sandbox?</li></td>
   </tr>
  </tbody> 
@@ -59,7 +93,7 @@ The checklists below (subsequents checklists linked to at the bottom of each art
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -74,21 +108,21 @@ The checklists below (subsequents checklists linked to at the bottom of each art
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 
    <td>Workspaces & Partitions</td> 
-   <td><li>How many <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">workspaces and/or partitions</a> do you have?</li>
-<li>What is the primary purpose of each workspace and partition?</li>
+   <td><li>How many <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">Workspaces and/or Partitions</a> do you have?</li>
+<li>What is the primary purpose of each Workspace and Partition?</li>
 <li>Do either your <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Workspaces</a> or <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">Partitions</a> need to be audited/changed?</li>
-<li>What is the relationship between your workspaces and partitions?</li>
-<li>How many users <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">have access</a> to each workspace?</li></td>
+<li>What is the relationship between your Workspaces and Partitions?</li>
+<li>How many users <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">have access</a> to each Workspace?</li></td>
   </tr>
   <tr> 
    <td>Internal Documentation</td> 
-   <td><li>How are workspaces and partitions defined?</li>
-<li>What is your process to add workspaces to your instance or add users to a workspace?</li></td>
+   <td><li>How are Workspaces and Partitions defined?</li>
+<li>What is your process to add Workspaces to your instance or add users to a Workspace?</li></td>
   </tr>
  </tbody> 
 </table>
@@ -98,7 +132,7 @@ The checklists below (subsequents checklists linked to at the bottom of each art
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -114,7 +148,7 @@ The checklists below (subsequents checklists linked to at the bottom of each art
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -130,7 +164,7 @@ The checklists below (subsequents checklists linked to at the bottom of each art
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -145,7 +179,7 @@ The checklists below (subsequents checklists linked to at the bottom of each art
 <li>Are your channels related to specific program types?</li>
 <li>Which statuses are considered a success for each channel? Do those align with your marketing goals?</li>
 <li>Is the Operational channel being used appropriately?</li>
-<li>For Advanced Report Builder (Revenue Cycle Explorer/RCE), is your channel analytics behavior set to align to your program practices incorporating period cost?</li></td>
+<li>For Advanced Report Builder (Revenue Cycle Explorer/RCE), is your channel analytics behavior set to align with your program practices incorporating period cost?</li></td>
   </tr>
   <tr> 
    <td>Marketing Calendar (if applicable)</td> 
@@ -159,7 +193,7 @@ The checklists below (subsequents checklists linked to at the bottom of each art
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -169,13 +203,13 @@ The checklists below (subsequents checklists linked to at the bottom of each art
 <li>How many <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">custom fields</a> are there?</li>
 <li>How many fields are being used? 
 <br/>Select <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Export Used By</a> in the Field Actions drop-down to review related assets of a field.</li>
-<li>How many are synced between Marketo Engage and your CRM?</li>
+<li>How many fields are synced between Marketo Engage and your CRM?</li>
 <li>Are CRM fields synced to the appropriate objects?</li>
 <li>Is there a <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">custom view set</a> for person detail? Should there be?</li>
 <li>Do you have a naming convention for your fields based on source? 
 <br/>If not, consider implementing this.</li>
 <li>Are there any fields <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">blocked</a>? 
-<br/>Be sure to understand why they are.</li></td>
+<br/>If so, be sure to understand why they are.</li></td>
   </tr>
   <tr> 
    <td>Custom Activities</td> 
@@ -195,13 +229,13 @@ The checklists below (subsequents checklists linked to at the bottom of each art
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 
    <td>CRM</td> 
    <td><li>Which CRM are you syncing to? Salesforce? MS Dynamics? Veeva?</li>
-<li>Are you utilizing a custom sync?</li>
+<li>Are you utilizing a <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">custom sync</a>?</li>
 <li>[Salesforce Only] Does your instance have Custom Sync Filters implemented? 
 <p>Note: Contact Marketo Support to identify Custom Sync Filters or request a Custom Sync Rule be implemented.</li></td>
   </tr>
@@ -213,7 +247,7 @@ The checklists below (subsequents checklists linked to at the bottom of each art
 <li>Is form prefill enabled?</li>
 <li>Are <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">personalized URLs</a> enabled?</li>
 <li>Are there rules set up for <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">redirects</a>?</li>
-<li>Do you have domain aliases in place? Are you tracking through documentation how you're utilizing your domain aliases?</li>
+<li>Do you have domain aliases in place? Are you tracking how you're utilizing your domain aliases?</li>
 <li>Is <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Secured Domains for Landing Pages</a> enabled? 
 <br/>Confirm if your landing page assets contain a 'http' URL.</li></td>
   </tr>
@@ -236,17 +270,18 @@ The checklists below (subsequents checklists linked to at the bottom of each art
    <td><li>Has the <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI package been installed</a>?</li>
 <li>Have you <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">upgraded to the latest version of Sales Insight</a>?</li>
 <li>Have you completed the Sales Insight configuration? <br/>Enterprise/Unlimited users <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">click here</a>, Professional users <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">click here</a>.</li>
-<li>Have you <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">given access to your users</a> based on the number of seats you've purchased?</li></td>
+<li>Have you <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">given access to your users</a> based on the number of seats you've purchased?</li>
+<li>Are <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md" target="_blank">Stars and Flames</a> customized?</li></td>
   </tr>
   <tr> 
    <td>Launchpoint (if applicable)</td> 
-   <td><li>Which services do you have configured (e.g., <a href="/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md" target="_blank">Adobe Connect</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md" target="_blank">Zoom</a>, etc.)? Are any near their expiration?</li>
+   <td><li>Which services have you configured (e.g., <a href="/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md" target="_blank">BrightTALK</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md" target="_blank">Zoom</a>, etc.)? Are any near their expiration?</li>
 <li><a href="https://nation.marketo.com/t5/knowledgebase/viewing-your-number-of-api-calls-to-marketo/ta-p/254256" target="_blank">How many API calls</a> are your integrations using?</li>
 <li>Do you have the right integrations in place for your use cases?</li></td>
   </tr>
   <tr> 
    <td>Webhooks (if applicable)</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">What connections</a> do you have set up?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">What connections</a> have you set up?</li>
 <li>Are any no longer in use?</li></td>
   </tr>
   <tr> 
@@ -262,7 +297,7 @@ The checklists below (subsequents checklists linked to at the bottom of each art
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -278,21 +313,17 @@ The checklists below (subsequents checklists linked to at the bottom of each art
  </tbody> 
 </table>
 
-## Miscellaneous {#miscellaneous}
+## Alerts and Updates {#alerts-and-updates}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 
    <td>Marketo Engage Status Updates</td> 
-   <td><li>Is your instance signed up for <a href="https://status.adobe.com/" target="_blank">Marketo Engage Status Updates</a>?</li></td>
-  </tr>
-  <tr> 
-   <td>Authorized Contacts</td> 
-   <td><li>Have you set up the appropriate <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">authorized contacts</a> in the Support Portal?</li></td>
+   <td><li>Is your instance subscribed to <a href="https://nation.marketo.com/t5/knowledgebase/how-to-subscribe-to-status-page-notifications/ta-p/296749" target="_blank">Marketo Engage Status Updates</a>?</li></td>
   </tr>
   <tr> 
    <td>Alerts</td> 
