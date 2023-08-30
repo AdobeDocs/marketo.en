@@ -1,13 +1,13 @@
 ---
-description: EM-YYYY-MM-DD-Single Email Send - Marketo Docs - Product Documentation
-title: EM-YYYY-MM-DD-Single Email Send
+description: NUR-YYYY-MM-Simple Nurture - Marketo Docs - Product Documentation
+title: NUR-YYYY-MM-Simple Nurture
 hide: yes
 hidefromtoc: yes
 feature: Programs
 ---
-# EM-YYYY-MM-DD-Single Email Send {#em-yyyy-mm-dd-single-email-send}
+# NUR-YYYY-MM-Simple Nurture {#nur-yyyy-mm-simple-nurture}
 
-This example sends one single email utilizing a Marketo Engage Email Program. The email can include or not include an A/B test.
+This is an example of simple Nurture Programs, utilizing the Marketo Engage Engagement Program, with cadenced content to drip over time to your database while utilizing streams to guide records through journeys based on behavior.
 
 For further strategy assistance or help customizing a program, please contact the Adobe Account Team or visit the [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
 
@@ -22,11 +22,11 @@ For further strategy assistance or help customizing a program, please contact th
    <th>Program Type</th>
   </tr> 
   <tr> 
-   <td>Email</td> 
-   <td>01-Member 
-<br/>02-Engaged-Success</td>
+   <td>Nurture</td> 
+   <td>01 - Member 
+<br/>02 - Engaged - Success</td>
    <td>Inclusive</td>
-   <td>Email</td>
+   <td>Engagement</td>
   </tr>
  </tbody> 
 </table>
@@ -43,7 +43,17 @@ For further strategy assistance or help customizing a program, please contact th
   <tr> 
    <td>Email</td> 
    <td>Quick Start Email Template</td>
-   <td>01-Email-Thank You</td>
+   <td>01 - Email</td>
+  </tr>
+   <tr> 
+   <td>Email</td> 
+   <td>Quick Start Email Template</td>
+   <td>02 - Email</td>
+  </tr>
+   <tr> 
+   <td>Email</td> 
+   <td>Quick Start Email Template</td>
+   <td>03 - Email</td>
   </tr>
   <tr> 
    <td>Local Report</td> 
@@ -53,19 +63,34 @@ For further strategy assistance or help customizing a program, please contact th
   <tr> 
    <td>Local Report</td> 
    <td>&nbsp</td>
-   <td>Email Link Performance</td>
+   <td>Engagement Stream Performance</td>
   </tr>
   <tr>
   <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
-   <td>01-Engaged (Program Success)</td>
+   <td>01 - Add to Nurture</td>
+  </tr>
+  <tr> 
+   <td>Smart Campaign</td> 
+   <td>&nbsp</td>
+   <td>02 - Pause Nurture</td>
+  </tr>
+  <tr> 
+   <td>Smart Campaign</td> 
+   <td>&nbsp</td>
+   <td>03 - Resume Nurture</td>
+  </tr>
+  <tr> 
+   <td>Smart Campaign</td> 
+   <td>&nbsp</td>
+   <td>04 - Engaged (Program Success)</td>
   </tr>
   <tr> 
    <td>Folder</td> 
    <td>&nbsp</td>
-   <td>Assets - Houses all creative assets 
-<br/>(subfolders for Email & Landing Pages)  </td>
+   <td>Assets - Houses all creative assets
+   <br/>(subfolders for Emails)</td>
   </tr>
   <tr> 
    <td>Folder</td> 
@@ -79,8 +104,6 @@ For further strategy assistance or help customizing a program, please contact th
   </tr>
  </tbody> 
 </table>
-
-SCREENSHOT OF PROGRAM
 
 ## My Tokens Included {#my-tokens-included}
 
@@ -109,6 +132,8 @@ SCREENSHOT OF PROGRAM
  </tbody> 
 </table>
 
+SCREENSHOT OF PROGRAM
+
 ## Conflict Rules {#conflict-rules}
 
 * **Program Tags**
@@ -135,10 +160,8 @@ SCREENSHOT OF CONFLICT RULES
 
 * Consider updating the naming convention of this program example to align with your naming convention.
 
->[!NOTE]
->
->Remember to update the My Token Values on the program template and each time you use the program, as needed.
+* Ensure you have rules in place to pause and resume your nurture cadence. These Smart Campaigns should be activated or scheduled before the Engagement Program is activated.
 
 >[!TIP]
 >
->Don't forget to activate the "01-Engaged" Campaign for tracking success! Do this _before_ your form is live and emails are sent.
+>Don't forget to activate the "Influenced (Program Success)" campaign for tracking success! Do this _before_ your emails are sent.

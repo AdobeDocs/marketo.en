@@ -1,13 +1,13 @@
 ---
-description: EM-YYYY-MM-DD-Single Email Send - Marketo Docs - Product Documentation
-title: EM-YYYY-MM-DD-Single Email Send
+description: NL-YYYY-MM-Newsletter - Marketo Docs - Product Documentation
+title: NL-YYYY-MM-Newsletter
 hide: yes
 hidefromtoc: yes
 feature: Programs
 ---
-# EM-YYYY-MM-DD-Single Email Send {#em-yyyy-mm-dd-single-email-send}
+# NL-YYYY-MM-Newsletter {#nl-yyyy-mm-newsletter}
 
-This example sends one single email utilizing a Marketo Engage Email Program. The email can include or not include an A/B test.
+This example sends one newsletter email utilizing a Marketo Engage Email Program. The email can include or not include an A/B test.
 
 For further strategy assistance or help customizing a program, please contact the Adobe Account Team or visit the [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
 
@@ -22,7 +22,7 @@ For further strategy assistance or help customizing a program, please contact th
    <th>Program Type</th>
   </tr> 
   <tr> 
-   <td>Email</td> 
+   <td>Newsletter</td> 
    <td>01-Member 
 <br/>02-Engaged-Success</td>
    <td>Inclusive</td>
@@ -43,7 +43,7 @@ For further strategy assistance or help customizing a program, please contact th
   <tr> 
    <td>Email</td> 
    <td>Quick Start Email Template</td>
-   <td>01-Email-Thank You</td>
+   <td>01 - Email</td>
   </tr>
   <tr> 
    <td>Local Report</td> 
@@ -59,13 +59,13 @@ For further strategy assistance or help customizing a program, please contact th
   <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
-   <td>01-Engaged (Program Success)</td>
+   <td>01 - Engaged (Program Success)</td>
   </tr>
   <tr> 
    <td>Folder</td> 
    <td>&nbsp</td>
    <td>Assets - Houses all creative assets 
-<br/>(subfolders for Email & Landing Pages)  </td>
+<br/>(subfolders for Emails)  </td>
   </tr>
   <tr> 
    <td>Folder</td> 
@@ -141,4 +141,4 @@ SCREENSHOT OF CONFLICT RULES
 
 >[!TIP]
 >
->Don't forget to activate the "01-Engaged" Campaign for tracking success! Do this _before_ your form is live and emails are sent.
+>Don't forget to activate the "01-Engaged" campaign for tracking success! Do this _before_ your form is live and emails are sent.

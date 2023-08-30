@@ -12,7 +12,7 @@ Intro text.
 
 --Marketo Engage Program Import Library info here--
 
-* [OP-Content Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/consent-management-program-example.md){target="_blank"}
+* OP-Content Management
 
 * OP-Deliverability Management
 

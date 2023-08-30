@@ -1,13 +1,13 @@
 ---
-description: EM-YYYY-MM-DD-Single Email Send - Marketo Docs - Product Documentation
-title: EM-YYYY-MM-DD-Single Email Send
+description: TS-YYYY-MM-DD-Tradeshow Program - Marketo Docs - Product Documentation
+title: TS-YYYY-MM-DD-Tradeshow Program
 hide: yes
 hidefromtoc: yes
 feature: Programs
 ---
-# EM-YYYY-MM-DD-Single Email Send {#em-yyyy-mm-dd-single-email-send}
+# TS-YYYY-MM-DD-Tradeshow Program {#ts-yyyy-mm-dd-tradeshow-program}
 
-This example sends one single email utilizing a Marketo Engage Email Program. The email can include or not include an A/B test.
+This is an example of a tradeshow program with invites and follow-up emails utilizing a Marketo Engage Event Program.  
 
 For further strategy assistance or help customizing a program, please contact the Adobe Account Team or visit the [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
 
@@ -22,11 +22,15 @@ For further strategy assistance or help customizing a program, please contact th
    <th>Program Type</th>
   </tr> 
   <tr> 
-   <td>Email</td> 
-   <td>01-Member 
-<br/>02-Engaged-Success</td>
+   <td>Event</td> 
+   <td>01-Invited 
+   <br/>02-Waitlisted
+   <br/>03-Registered
+   <br/>04-Visited Booth
+   <br/>05-Engaged at Show - Success
+   <br/>06-Engaged at Post Show - Success</td>
    <td>Inclusive</td>
-   <td>Email</td>
+   <td>Event</td>
   </tr>
  </tbody> 
 </table>
@@ -45,6 +49,12 @@ For further strategy assistance or help customizing a program, please contact th
    <td>Quick Start Email Template</td>
    <td>01-Email-Thank You</td>
   </tr>
+   <tr> 
+   <td>Email</td> 
+   <td>Quick Start Email Template</td>
+   <td>02a- Email - Invitation</td>
+  </tr>
+  <tr>
   <tr> 
    <td>Local Report</td> 
    <td>&nbsp</td>
@@ -53,19 +63,38 @@ For further strategy assistance or help customizing a program, please contact th
   <tr> 
    <td>Local Report</td> 
    <td>&nbsp</td>
-   <td>Email Link Performance</td>
+   <td>Program Performance</td>
   </tr>
-  <tr>
   <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
-   <td>01-Engaged (Program Success)</td>
+   <td>00 - Capture Acquisition Program</td>
+  </tr>
+  <tr> 
+   <td>Smart Campaign</td> 
+   <td>&nbsp</td>
+   <td>01 - Send Invitation</td>
+  </tr>
+   <tr> 
+   <td>Smart Campaign</td> 
+   <td>&nbsp</td>
+   <td>02 - Engaged at Show (Success)</td>
+  </tr>
+   <tr> 
+   <td>Smart Campaign</td> 
+   <td>&nbsp</td>
+   <td>03 - Send Follow-up Emails</td>
+  </tr>
+   <tr> 
+   <td>Smart Campaign</td> 
+   <td>&nbsp</td>
+   <td>04 - Engaged by Follow-up Email (Success)</td>
   </tr>
   <tr> 
    <td>Folder</td> 
    <td>&nbsp</td>
    <td>Assets - Houses all creative assets 
-<br/>(subfolders for Email & Landing Pages)  </td>
+<br/>(subfolders for Email & Landing Pages)</td>
   </tr>
   <tr> 
    <td>Folder</td> 
@@ -80,8 +109,6 @@ For further strategy assistance or help customizing a program, please contact th
  </tbody> 
 </table>
 
-SCREENSHOT OF PROGRAM
-
 ## My Tokens Included {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -90,6 +117,11 @@ SCREENSHOT OF PROGRAM
    <th>Token Type</th> 
    <th>Token Name</th>
    <th>Value</th>
+  </tr>
+  <tr> 
+   <td>Calendar File</td> 
+   <td><code>{{my.AddToCalendar}}</code></td>
+   <td>Double Click for Details</td>
   </tr>
   <tr> 
    <td>Text</td> 
@@ -106,8 +138,45 @@ SCREENSHOT OF PROGRAM
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
+  <tr> 
+   <td>Text</td> 
+   <td><code>{{my.Event-Date}}</code></td>
+   <td><code><--My Event Date--></code></td>
+  </tr>
+   <tr> 
+   <td>Rich Text</td> 
+   <td><code>{{my.Event-Booth#}}</code></td>
+   <td><code><--My Booth Number--></code></td>
+  </tr>
+   <tr> 
+   <td>Text</td> 
+   <td><code>{{my.Event-City}}</code></td>
+   <td><code><--My Event City Here--></code></td>
+  </tr>
+  <tr> 
+   <td>Text</td> 
+   <td><code>{{my.Event-Date}}</code></td>
+   <td><code><--My Event Date--></code></td>
+  </tr>
+  <tr> 
+   <td>Text</td> 
+   <td><code>{{my.Event-Time}}</code></td>
+   <td><code><--My Event Time + TimeZone--></code></td>
+  </tr>
+  <tr> 
+   <td>Text</td> 
+   <td><code>{{my.Event-Title}}</code></td>
+   <td><code><--My Event Title Here--></code></td>
+  </tr>
+  <tr> 
+   <td>Text</td> 
+   <td><code>{{my.Event-Type}}</code></td>
+   <td>Tradeshow</td>
+  </tr>
  </tbody> 
 </table>
+
+SCREENSHOT OF PROGRAM
 
 ## Conflict Rules {#conflict-rules}
 
@@ -131,6 +200,9 @@ SCREENSHOT OF CONFLICT RULES
 
 ## Best Practices {#best-practices}
 
+* After import of the webinar program, move the form from a local asset to a global asset located in the Design Studio.
+   * Decreasing the number of forms and utilizing more global assets from the Design Studio allows more scalability in your program design and administrative governance. It also provides flexibility in regular compliance updates for fields, opt-in language, etc. 
+
 * Consider updating the templates in your imported program to utilize currently branded templates, or update the newly imported template to reflect your brand by adding in a snippet or your appropriate logo/footer information.
 
 * Consider updating the naming convention of this program example to align with your naming convention.
@@ -141,4 +213,8 @@ SCREENSHOT OF CONFLICT RULES
 
 >[!TIP]
 >
->Don't forget to activate the "01-Engaged" Campaign for tracking success! Do this _before_ your form is live and emails are sent.
+>Don't forget to activate the "02-Engaged at Show (Program Success)" and "04-Engaged by Follow-up Email (Program Success)" campaigns for tracking success! Do this _before_ your emails are sent.
+
+>[!IMPORTANT]
+>
+>My Tokens that reference a URL cannot contain the http:// or https:// otherwise the link will not work appropriately within the asset.

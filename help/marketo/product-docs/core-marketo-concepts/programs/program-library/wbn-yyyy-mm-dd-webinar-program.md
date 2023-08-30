@@ -1,13 +1,13 @@
 ---
-description: EV-YYYY-MM-DD-Event Program - Marketo Docs - Product Documentation
-title: EV-YYYY-MM-DD-Event Program
+description: WBN-YYYY-MM-DD-Webinar Program - Marketo Docs - Product Documentation
+title: WBN-YYYY-MM-DD-Webinar Program
 hide: yes
 hidefromtoc: yes
 feature: Programs
 ---
-# EV-YYYY-MM-DD-Event Program {#ev-yyyy-mm-dd-event-program}
+# WBN-YYYY-MM-DD-Webinar Program {#wbn-yyyy-mm-dd-webinar-program}
 
-This is an example of an event program with a registration page, three invitation emails, and follow-up emails utilizing a Marketo Engage Event Program. Suitable for all events where you require registrations, including roadshows, lunches, dinners, or presentations at trade show events.
+This is an example of a webinar program with registration management, three invitation emails, reminder-to-attend, and follow-up emails utilizing a Marketo Engage Event Program.
 
 For further strategy assistance or help customizing a program, please contact the Adobe Account Team or visit the [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
 
@@ -23,13 +23,15 @@ For further strategy assistance or help customizing a program, please contact th
   </tr> 
   <tr> 
    <td>Event</td> 
-   <td>01-Invited 
-<br/>02-Waitlisted
-<br/>03-Registered
-<br/>04-No Show
-<br/>05-Attended-Success</td>
+   <td>01 - Invited 
+   <br/>02 - Waitlisted
+   <br/>03 - Registered
+   <br/>04 - No Show
+   <br/>05 - Attended - Success
+   <br/>06 - Attended On-Demand - Success</td>
    <td>Inclusive</td>
-   <td>Event</td>
+   <td>Event
+   <p>(Integrated: Event with Webinar)</td>
   </tr>
  </tbody> 
 </table>
@@ -46,59 +48,65 @@ For further strategy assistance or help customizing a program, please contact th
   <tr> 
    <td>Email</td> 
    <td>Quick Start Email Template</td>
-   <td>01-Email-Thank You</td>
+   <td>01 - Email - Invitation</td>
   </tr>
    <tr> 
    <td>Email</td> 
    <td>Quick Start Email Template</td>
-   <td>02a- Email - Invitation</td>
+   <td>02 - Email - Invitation Reminder</td>
+  </tr>
+   <tr> 
+   <td>Email</td> 
+   <td>Quick Start Email Template</td>
+   <td>03 - Email - Invitation Reminder - Last Chance</td>
   </tr>
   <tr> 
    <td>Email</td> 
    <td>Quick Start Email Template</td>
-   <td>02b - Email - Invitation Reminder</td>
+   <td>04 - Email - Registration Confirmation</td>
   </tr>
   <tr> 
    <td>Email</td> 
    <td>Quick Start Email Template</td>
-   <td>02c- Email - Invitation Reminder Last Chance</td>
+   <td>05 - Email - Reminder to Attend</td>
   </tr>
   <tr> 
    <td>Email</td> 
    <td>Quick Start Email Template</td>
-   <td>03 - Email - Reminder to Attend</td>
+   <td>06 -Email - Follow-up - Attended</td>
   </tr>
   <tr> 
    <td>Email</td> 
    <td>Quick Start Email Template</td>
-   <td>04a - Email - Follow-up - Attended</td>
+   <td>07 - Email - Follow-up - No Show </td>
   </tr>
-  <tr> 
-   <td>Email</td> 
-   <td>Quick Start Email Template</td>
-   <td>04b - Email - Follow-up - NoShow</td>
-  </tr>
-  <tr> 
-   <td>Landing Page</td> 
-   <td>Quick Start LP Template</td>
-   <td>01a - LP - Registration</td>
-  </tr>
-  <tr> 
-   <td>Landing Page</td> 
-   <td>Quick Start LP Template</td>
-   <td>01b - LP - Thank You</td>
-  </tr>
+  <tr>
   <tr> 
    <td>Form</td> 
    <td>&nbsp</td>
    <td>FM-Event Registration</td>
   </tr>
   <tr> 
+   <td>Landing Page</td> 
+   <td>Quick Start LP Template</td>
+   <td>01 - LP - Registration</td>
+  </tr>
+  <tr> 
+   <td>Landing Page</td> 
+   <td>Quick Start LP Template</td>
+   <td>02 - LP - Thank You</td>
+  </tr>
+  <tr> 
+   <td>Landing Page</td> 
+   <td>Quick Start LP Template</td>
+   <td>03 - LP - On Demand</td>
+  </tr>
+  <tr> 
    <td>Local Report</td> 
    <td>&nbsp</td>
    <td>Email Performance</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Local Report</td> 
    <td>&nbsp</td>
    <td>Landing Page Performance</td>
@@ -111,7 +119,7 @@ For further strategy assistance or help customizing a program, please contact th
   <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
-   <td>01 - Process Registration</td>
+   <td>01 - Process Registrations</td>
   </tr>
    <tr> 
    <td>Smart Campaign</td> 
@@ -126,28 +134,33 @@ For further strategy assistance or help customizing a program, please contact th
    <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
-   <td>02c - Send Invitation Last Chance</td>
+   <td>02c - Send Invitation Reminder Last Chance</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
    <td>03 - Send Reminder to Attend</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
    <td>04 - Attended (Program Success)</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
    <td>05 - Send Follow-up Emails</td>
   </tr>
   <tr> 
+   <td>Smart Campaign</td> 
+   <td>&nbsp</td>
+   <td>06 - Attended On-Demand (Program Success)</td>
+  </tr>
+  <tr> 
    <td>Folder</td> 
    <td>&nbsp</td>
    <td>Assets - Houses all creative assets 
-<br/>(subfolders for Email & Landing Pages)</td>
+<br/>(subfolders for Email, Landing Pages, and Forms)</td>
   </tr>
   <tr> 
    <td>Folder</td> 
@@ -178,6 +191,11 @@ For further strategy assistance or help customizing a program, please contact th
   </tr>
   <tr> 
    <td>Text</td> 
+   <td><code>{{my.DownloadURL-PresentationSlides}}</code></td>
+   <td>my.DownloadURL?without=http:// </td>
+  </tr>
+  <tr> 
+   <td>Text</td> 
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
@@ -198,34 +216,14 @@ For further strategy assistance or help customizing a program, please contact th
   </tr>
    <tr> 
    <td>Rich Text</td> 
-   <td><code>{{my.Content-Description}}</code></td>
+   <td><code>{{my.Event-Description}}</code></td>
    <td>Double-Click for Details  
-<br/><code><--My Content Description Here--></code> 
-<br/>Edit this content description at the program level, under the My Tokens tab. 
+<br/><code><--My Event Description Here--></code> 
+<br/>Edit this event description at the program level, under the My Tokens tab. 
 <br/>You'll learn: 
 <li>Bullet 1</li>
 <li>Bullet 2</li>
 <li>Bullet 3</li></td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Event-Location-Line1}}</code></td>
-   <td><code><--XYZ Hotel--></code></td>
-  </tr>
-   <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Event-Location-Line2}}</code></td>
-   <td><code><--ABC Room--></code></td>
-  </tr>
-   <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Event-Location-Line3}}</code></td>
-   <td><code><--1234 Anystreet--></code></td>
-  </tr>
-  <tr> 
-   <td>Text</td> 
-   <td><code>{{my.Event-Location-Line4}}</code></td>
-   <td><code><--Anytown, ZZ 99999--></code></td>
   </tr>
   <tr> 
    <td>Text</td> 
@@ -240,7 +238,7 @@ For further strategy assistance or help customizing a program, please contact th
   <tr> 
    <td>Text</td> 
    <td><code>{{my.Event-Type}}</code></td>
-   <td>Live Event</td>
+   <td>Webinar</td>
   </tr>
   <tr> 
    <td>Text</td> 
@@ -252,7 +250,7 @@ For further strategy assistance or help customizing a program, please contact th
    <td><code>{{my.PageURL-Registration}}</code></td>
    <td>my.RegistrationPageURL?without=http://</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Text</td> 
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>my.ThankYouPageURL?without=http://</td>
@@ -314,6 +312,8 @@ SCREENSHOT OF CONFLICT RULES
 
 ## Best Practices {#best-practices}
 
+* If you're using an integrated webinar provider, don't forget to connect the Marketo Engage program to your webinar in the hosting system.  
+
 * After import of the webinar program, move the form from a local asset to a global asset located in the Design Studio.
    * Decreasing the number of forms and utilizing more global assets from the Design Studio allows more scalability in your program design and administrative governance. It also provides flexibility in regular compliance updates for fields, opt-in language, etc. 
 
@@ -327,7 +327,7 @@ SCREENSHOT OF CONFLICT RULES
 
 >[!TIP]
 >
->Don't forget to activate the "06-Attended (Program Success)" Campaign for tracking success! Do this _before_ your form is live and emails are sent.
+>Don't forget to activate the  "04-Attended (Program Success)" and "06-Attended On-Demand (Program Success)" campaigns for tracking success! Do this _before_ your emails are sent.
 
 >[!IMPORTANT]
 >
