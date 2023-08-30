@@ -210,4 +210,4 @@ SCREENSHOT OF CONFLICT RULES
 
 >[!TIP]
 >
->Don't forget to activate the "Influenced (Program Success)" campaign for tracking success! Do this _before_ your emails are sent.
+>Don't forget to activate the "04 - Engaged (Program Success)" campaign for tracking success! Do this _before_ your emails are sent.

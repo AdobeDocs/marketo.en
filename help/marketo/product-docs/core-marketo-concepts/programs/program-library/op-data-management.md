@@ -186,6 +186,6 @@ SCREENSHOT OF CONFLICT RULES
 
 ## Best Practices {#best-practices}
 
-* Consider utilizing each provided Trigger Campaign for data normalization as a Batch Campaign to catch up records that already exist in your database. Each campaign built is meant to be an example on the best practice build and not specific to your use cases. Remember to update the Smart Campaigns to address your specific pain points and data challenges.  
+* Each campaign built is meant to be an example on the best practice build and not specific to your use cases. Remember to update the Smart Campaigns to address your specific pain points and data challenges.  
 
 * Consider updating the naming convention of this program example to align with your naming convention.

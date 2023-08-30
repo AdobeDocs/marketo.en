@@ -1,13 +1,13 @@
 ---
-description: NUR-YYYY-MM-Simple Nurture - Marketo Docs - Product Documentation
-title: NUR-YYYY-MM-Simple Nurture
+description: WR-YYYY-MM-Web Request Program - Marketo Docs - Product Documentation
+title: WR-YYYY-MM-Web Request Program
 hide: yes
 hidefromtoc: yes
 feature: Programs
 ---
-# NUR-YYYY-MM-Simple Nurture {#nur-yyyy-mm-simple-nurture}
+# WR-YYYY-MM-Web Request Program {#wr-yyyy-mm-web-request-program}
 
-This is an example of simple Nurture Programs, utilizing the Marketo Engage Engagement Program, with cadenced content to drip over time to your database while utilizing streams to guide records through journeys based on behavior.
+This is an example program ideal for contact request, quote request, demo request, or trial request forms utilizing a Marketo Engage Default Program. Can be used with Marketo Landing Pages, or as an embedded form on non-Marketo landing pages. An alert email is sent to a specified individual upon form submission.
 
 For further strategy assistance or help customizing a program, please contact the Adobe Account Team or visit the [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} page.
 
@@ -22,11 +22,10 @@ For further strategy assistance or help customizing a program, please contact th
    <th>Program Type</th>
   </tr> 
   <tr> 
-   <td>Nurture</td> 
-   <td>01 - Member 
-<br/>02 - Engaged - Success</td>
+   <td>Web Request</td> 
+   <td>01 - Engaged - Success</td>
    <td>Inclusive</td>
-   <td>Engagement</td>
+   <td>Default</td>
   </tr>
  </tbody> 
 </table>
@@ -39,58 +38,47 @@ For further strategy assistance or help customizing a program, please contact th
    <th>Type</th> 
    <th>Template Name</th>
    <th>Asset Name</th>
-  </tr> 
+  </tr>
+  <tr> 
+   <td>Form</td> 
+   <td>&nbsp</td>
+   <td>FM-WebRequestForm</td>
+  </tr>
   <tr> 
    <td>Email</td> 
    <td>Quick Start Email Template</td>
-   <td>01 - Email</td>
+   <td>Alert-WebRequest</td>
   </tr>
-   <tr> 
-   <td>Email</td> 
-   <td>Quick Start Email Template</td>
-   <td>02 - Email</td>
+  <tr> 
+   <td>Landing Page</td> 
+   <td>Quick Start LP Template</td>
+   <td>01 - LP - Request</td>
   </tr>
-   <tr> 
-   <td>Email</td> 
-   <td>Quick Start Email Template</td>
-   <td>03 - Email</td>
+  <tr> 
+   <td>Landing Page</td> 
+   <td>Quick Start LP Template</td>
+   <td>02 - LP - ThankYou</td>
   </tr>
   <tr> 
    <td>Local Report</td> 
    <td>&nbsp</td>
-   <td>Email Performance</td>
+   <td>Landing Page Performance</td>
   </tr>
-  <tr> 
-   <td>Local Report</td> 
-   <td>&nbsp</td>
-   <td>Engagement Stream Performance</td>
-  </tr>
-  <tr>
-  <tr> 
+   <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
-   <td>01 - Add to Nurture</td>
+   <td>New Person from Web Request</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
-   <td>02 - Pause Nurture</td>
-  </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
-   <td>&nbsp</td>
-   <td>03 - Resume Nurture</td>
-  </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
-   <td>&nbsp</td>
-   <td>04 - Engaged (Program Success)</td>
+   <td>New Person from Webinar</td>
   </tr>
   <tr> 
    <td>Folder</td> 
    <td>&nbsp</td>
-   <td>Assets - Houses all creative assets
-   <br/>(subfolders for Emails)</td>
+   <td>Assets - Houses all creative assets 
+<br/>(subfolders for Alerts & Landing Pages)</td>
   </tr>
   <tr> 
    <td>Folder</td> 
@@ -116,18 +104,28 @@ For further strategy assistance or help customizing a program, please contact th
   </tr>
   <tr> 
    <td>Text</td> 
-   <td><code>{{my.Email-FromAddress}}</code></td>
+   <td><code>{{my.Request-Type}}</code></td>
+   <td>Contact Us</td>
+  </tr>
+  <tr> 
+   <td>Text</td> 
+   <td><code>{{my.ALERT-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
   <tr> 
    <td>Text</td> 
-   <td><code>{{my.Email-FromName}}</code></td>
+   <td><code>{{my.ALERT-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
   <tr> 
    <td>Text</td> 
-   <td><code>{{my.Email-ReplyToAddress}}</code></td>
+   <td><code>{{my.ALERT-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
+  </tr>
+  <tr> 
+   <td>Text</td> 
+   <td><code>{{my.PageURL-ThankYou}}</code></td>
+   <td>My.ThankYouPageURL?without the http://</td>
   </tr>
  </tbody> 
 </table>
@@ -156,16 +154,17 @@ SCREENSHOT OF CONFLICT RULES
 
 ## Best Practices {#best-practices}
 
+* After import of the webinar program, move the form from a local asset to a global asset located in the Design Studio.
+   * Decreasing the number of forms and utilizing more global assets from the Design Studio allows more scalability in your program design and administrative governance. It also provides flexibility for regular compliance updates for fields, opt-in language, etc. 
+
 * Consider updating the templates in your imported program to utilize currently branded templates, or update the newly imported template to reflect your brand by adding in a snippet or your appropriate logo/footer information.
 
-* Consider updating the naming convention of this program example to align with your naming convention.
-
-* Ensure you have rules in place to pause and resume your nurture cadence. These Smart Campaigns should be activated or scheduled before the Engagement Program is activated.
+* Consider updating the naming convention of this program example to align to your naming convention.
 
 >[!NOTE]
 >
 >Remember to update the My Token Values on the program template and each time you use the program, as needed.
 
->[!TIP]
+>[!IMPORTANT]
 >
->Don't forget to activate the "04 - Engaged (Program Success)" campaign for tracking success! Do this _before_ your emails are sent.
+>My Tokens that reference a URL cannot contain the http:// or https:// otherwise the link will not work appropriately within the asset.
