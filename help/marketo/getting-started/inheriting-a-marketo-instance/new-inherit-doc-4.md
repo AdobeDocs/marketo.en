@@ -13,7 +13,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -40,7 +40,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -70,7 +70,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -98,7 +98,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -114,7 +114,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -139,7 +139,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 

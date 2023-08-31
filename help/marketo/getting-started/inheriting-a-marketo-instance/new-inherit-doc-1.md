@@ -12,7 +12,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
 >
 >If you're a new(er) Marketo Engage user and are not familiar with many of the terms, please check out the [Marketo Glossary](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
 
-## Adobe Admin Console {#adobe-admin-console}
+## Adobe Identity Management {#adobe-identity-management}
 
 <table> 
  <tbody> 
@@ -59,7 +59,7 @@ If so, have you been granted an 'Adobe Admin Console Product Admin' role by your
 <li>Does your company have policies around deleting users?</li> 
 <li>How many users have <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Admin permissions</a>?</li>
 <li>Should any of those users be changed to <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">other roles?</a></li> 
-<li>Who are the API users in this instance?</li></td>
+<li>Who are the <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md" target="_blank">API users</a> in this instance?</li></td>
   </tr>
   <tr> 
    <td>Roles</td> 
@@ -169,7 +169,7 @@ If so, have you been granted an 'Adobe Admin Console Product Admin' role by your
   </tr> 
   <tr> 
    <td>Tags</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" target="_blank">How many tags</a> are there? How many tags are in use? Do any need to be added?</li>
+   <td><li><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" target="_blank">How many tags</a> are there? How many tags are in use? Do any need to be added?</li>
 <li>Are tags required within your programs?</li></td>
   </tr>
   <tr> 

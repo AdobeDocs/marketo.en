@@ -13,7 +13,7 @@ Now that you've learned the key product areas to audit when inheriting an establ
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -34,7 +34,7 @@ Now that you've learned the key product areas to audit when inheriting an establ
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 

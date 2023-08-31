@@ -6,14 +6,14 @@ hidefromtoc: yes
 ---
 # Inherit Doc 3 {#inherit-doc-3}
 
-Marketing Activities is where your marketing team can create Smart Campaigns, build creative assets (e.g., emails and Landing Pages), and view asset performance. 
+Organize your Marketing Activities section properly to help others find and manage various programs within your Marketo Engage instance and ensure that people are processed to pass from Marketing to Sales.
 
 ## Organization {#organization}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -58,12 +58,12 @@ Marketing Activities is where your marketing team can create Smart Campaigns, bu
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
    <td>Tokens</td> 
-   <td><li>Are tokens being used in your most commonly used program types? 
+   <td><li>Are <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">tokens</a> being used in your most commonly used program types? 
    <br/>If not, you should consider using them to increase efficiency.</li>
 <li>If tokens are implemented, are there global folder tokens? How are they being used?</li></td>
   </tr>
@@ -71,8 +71,8 @@ Marketing Activities is where your marketing team can create Smart Campaigns, bu
    <td>Engagement Programs</td> 
    <td><li>Are there live <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">Engagement Programs</a> running?</li>
 <li>How many <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">people are exhausted</a>? 
-<br/>If there are many exhausted people, consider adding content.</li>
-<li>Are people engaging with the content? 
+<br/>If there are many exhausted people, consider <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">adding content</a>.</li>
+<li>Are people <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">engaging with the content</a>? 
 <br/>If not, consider updating it and/or A/B testing.</li></td>
   </tr>
   <tr> 
@@ -110,7 +110,7 @@ Marketing Activities is where your marketing team can create Smart Campaigns, bu
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 

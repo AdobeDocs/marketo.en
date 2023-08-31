@@ -13,7 +13,7 @@ Understand the total number of people, marketable people, and top person-acquiri
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -25,7 +25,7 @@ Understand the total number of people, marketable people, and top person-acquiri
   </tr>
   <tr> 
    <td>Unsubscribed People</td> 
-   <td><li>What are your criteria for <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md" target="_blank">unsubscribed people</a>? Are there too many unsubscribed people?</li>
+   <td><li>What are your criteria for <a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=en#marketing-suspended" target="_blank">unsubscribed people</a>? Are there too many unsubscribed people?</li>
 <li>Do your unsubscribe methods align with your data privacy requirements?</li>
 <li>Is your unsubscribe preference up to date? How long have records remained in your database as unmarketable?</li></td>
   </tr>
@@ -33,7 +33,7 @@ Understand the total number of people, marketable people, and top person-acquiri
    <td>Marketing Suspended</td> 
    <td><li>What are your criteria for <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marketing Suspended</a>? Are there too many people who are Marketing Suspended?</li>
 <li>How long have records remained in the Marketing Suspended status?</li>
-<p>Marketing Suspended use case example: records who are actively involved with sales in late-stage opportunities that you want to suppress marketing communications for.</td>
+<p>Marketing Suspended use case example: people records who are actively involved with sales in late-stage opportunities that you want to suppress marketing communications for.</td>
   </tr>
    <tr> 
    <td>Blocklist</td> 
@@ -56,35 +56,34 @@ Understand the total number of people, marketable people, and top person-acquiri
  </tbody> 
 </table>
 
-## Group Smart Lists {#group-smart-lists}
+## Smart Lists {#smart-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
-   <td>Group Smart Lists</td> 
-   <td><li>Which group Smart Lists are there? How are they used in this instance?</li>
+   <td>Smart Lists</td> 
+   <td><li>How many <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Smart Lists</a> are there? How are they used in this instance?</li>
 <li>Are the lists organized in a cohesive folder structure? <br/>If you have orphan lists, consider organizing your tree so assets are easy to find.</li>
-<p>Tip: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archive</a> group Smart Lists that are no longer needed for querying, reporting, or reference to help with organization and performance.</td>
+<p>Tip: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archiving</a> Smart Lists that are no longer needed will help with organization and performance.</td>
   </tr>
  </tbody> 
 </table>
 
-## Group Lists {#group-lists}
+## Static Lists {#static-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
-   <td>Group Lists</td> 
-   <td><li>Which group lists are there?</li>
-<li>How are they used in this instance?</li></td>
+   <td>Static Lists</td> 
+   <td><li>How many <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Static Lists</a> are there? How are they used in this instance?</li></td>
   </tr>
  </tbody> 
 </table>
@@ -94,13 +93,13 @@ Understand the total number of people, marketable people, and top person-acquiri
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
    <td>Segmentations</td> 
    <td><li>Which <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentations</a> are there? How are they being used?</li>
-<li>Are too many people are in <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">default segments</a>?</li>
+<li>Are too many people in <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">default segments</a>?</li>
 <li>Is there a segmentation for the marketable audience? 
 <br/>If not, consider creating one.</li></td>
   </tr>

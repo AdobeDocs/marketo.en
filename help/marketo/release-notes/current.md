@@ -86,8 +86,8 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">Review and Approve Blueprint</a></td>
   </tr>
   </tbody>
 </table>
