@@ -13,7 +13,7 @@ Understand the total number of people, marketable people, and top person-acquiri
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -21,7 +21,7 @@ Understand the total number of people, marketable people, and top person-acquiri
    <td><li>How many people exist in the <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">database</a>?</li>
 <li>If your database is close to full, does your company policy recommend that you expand your database size or clean out historical data?</li>
 <li>Is your overall database at least 85% marketable? 
-<br/>If yours falls under this threshold, look at the other system smart lists (Blocklist, Marketing Suspended, Duplicates, Unsubscribe) with greater scrutiny.</li></td>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If yours falls under this threshold, look at the other system smart lists (Blocklist, Marketing Suspended, Duplicates, Unsubscribe) with greater scrutiny.</li></td>
   </tr>
   <tr> 
    <td>Unsubscribed People</td> 
@@ -46,12 +46,12 @@ Understand the total number of people, marketable people, and top person-acquiri
   <tr> 
    <td>Possible Duplicates</td> 
    <td><li>How many <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">potentially duplicate records</a> are there?
-   <br/>Consider deleting or merging them.</li></td>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Consider deleting or merging them.</li></td>
   </tr>
    <tr> 
    <td>No Acquisition Program</td> 
    <td><li>How many people don't have an <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">acquisition program</a>?
-   <br/>If there are a lot, consider investigating why.</li></td>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If there are a lot, consider investigating why.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -61,13 +61,14 @@ Understand the total number of people, marketable people, and top person-acquiri
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
    <td>Smart Lists</td> 
    <td><li>How many <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Smart Lists</a> are there? How are they used in this instance?</li>
-<li>Are the lists organized in a cohesive folder structure? <br/>If you have orphan lists, consider organizing your tree so assets are easy to find.</li>
+<li>Are the lists organized in a cohesive folder structure? 
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you have orphan lists, consider organizing your tree so assets are easy to find.</li>
 <p>Tip: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archiving</a> Smart Lists that are no longer needed will help with organization and performance.</td>
   </tr>
  </tbody> 
@@ -78,7 +79,7 @@ Understand the total number of people, marketable people, and top person-acquiri
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -93,7 +94,7 @@ Understand the total number of people, marketable people, and top person-acquiri
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -101,7 +102,7 @@ Understand the total number of people, marketable people, and top person-acquiri
    <td><li>Which <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentations</a> are there? How are they being used?</li>
 <li>Are too many people in <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">default segments</a>?</li>
 <li>Is there a segmentation for the marketable audience? 
-<br/>If not, consider creating one.</li></td>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, consider creating one.</li></td>
   </tr>
  </tbody> 
 </table>

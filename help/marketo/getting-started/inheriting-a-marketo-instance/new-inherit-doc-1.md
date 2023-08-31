@@ -17,15 +17,14 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
    <td>Subscription</td> 
    <td><li>Is your Marketo Engage subscription on <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe Identity Management System</a> (Adobe IMS) yet? 
-<br/>
-If so, have you been granted an 'Adobe Admin Console Product Admin' role by your 'Adobe Admin Console System Admin'? If you're not sure who in your organization has admin privileges in the console, contact <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe Customer Care</a>.  
-<br/>If not, you'll proceed with the <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">legacy user roles and permissions experience</a> in Marketo Engage > Admin > Users & Roles until your subscription is renewed.</li></td>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If so, have you been granted an 'Adobe Admin Console Product Admin' role by your 'Adobe Admin Console System Admin'? If you're not sure who in your organization has admin privileges in the console, contact <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe Customer Care</a>.  
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, you'll proceed with the <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">legacy user roles and permissions experience</a> in Marketo Engage > Admin > Users & Roles until your subscription is renewed.</li></td>
   </tr>
   <tr> 
    <td>Product Profile</td> 
@@ -33,13 +32,13 @@ If so, have you been granted an 'Adobe Admin Console Product Admin' role by your
 <p>
 <li>Have you been granted a 'Marketo Engage Product Admin' role in Marketo Engage/Admin/Users & Roles?</li> 
 <li>Have you assigned Marketo Engage to all the appropriate users' product profiles in the Adobe Admin Console?
-<br/>If not, make sure to assign Marketo Engage to their Adobe IMS product profile before assigning their roles in Marketo Engage/Admin/Users & Roles.</li>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, make sure to assign Marketo Engage to their Adobe IMS product profile before assigning their roles in Marketo Engage/Admin/Users & Roles.</li>
 <p>Note: If your subscription has more than 75 users and was just migrated to Adobe IMS, you have the option to select users to migrate in batches and administer their Adobe Identify in groups or all at once. Read more about what to expect on <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS migration day</a>.</td>
   </tr>
   <tr> 
    <td>User Management API</td> 
    <td><li>Has your subscription used any Marketo User Management APIs?
-<br/>If so, you'll need to use <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS APIs</a> to invite, update, and delete users moving forward.</li></td>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If so, you'll need to use <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS APIs</a> to invite, update, and delete users moving forward.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -49,7 +48,7 @@ If so, have you been granted an 'Adobe Admin Console Product Admin' role by your
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th>
+   <th style="width:20%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -82,7 +81,7 @@ If so, have you been granted an 'Adobe Admin Console Product Admin' role by your
   <tr> 
    <td>Sandbox (if applicable)</td> 
    <td><li>Do you have a <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox instance</a>?
-   <br/>&nbsp;&nbsp;If so, review the categories above for your sandbox.</li>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If so, review the categories above for your sandbox.</li>
 <li>Is <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Program Import</a> linked with your sandbox?</li></td>
   </tr>
  </tbody> 
@@ -93,7 +92,7 @@ If so, have you been granted an 'Adobe Admin Console Product Admin' role by your
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th>
+   <th style="width:20%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -108,7 +107,7 @@ If so, have you been granted an 'Adobe Admin Console Product Admin' role by your
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th>
+   <th style="width:20%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -132,13 +131,13 @@ If so, have you been granted an 'Adobe Admin Console Product Admin' role by your
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th>
+   <th style="width:20%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 
    <td>Smart Campaign Settings</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Do you have a restriction</a> on Smart Campaign size? 
-   <br/>If not, consider adding one. We recommend limiting the Smart Campaign limits to 25% of your database to avoid overcommunication or processing your entire database in workflows; this not only protects your brand, but helps protect the performance of your instance.</li></td>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, consider adding one. We recommend limiting the Smart Campaign limits to 25% of your database to avoid overcommunication or processing your entire database in workflows; this not only protects your brand, but helps protect the performance of your instance.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -148,7 +147,7 @@ If so, have you been granted an 'Adobe Admin Console Product Admin' role by your
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th>
+   <th style="width:20%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -164,7 +163,7 @@ If so, have you been granted an 'Adobe Admin Console Product Admin' role by your
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th>
+   <th style="width:20%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -193,28 +192,28 @@ If so, have you been granted an 'Adobe Admin Console Product Admin' role by your
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th>
+   <th style="width:20%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 
    <td>Field Management</td> 
    <td><li>How many fields are there? 
-   <br/>Click <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Export Field Names</a> to review a list of your fields, custom fields, and their API names.</li>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Export Field Names</a> to review a list of your fields, custom fields, and their API names.</li>
 <li>How many <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">custom fields</a> are there?</li>
 <li>How many fields are being used? 
-<br/>Select <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Export Used By</a> in the Field Actions drop-down to review related assets of a field.</li>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Select <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Export Used By</a> in the Field Actions drop-down to review related assets of a field.</li>
 <li>How many fields are synced between Marketo Engage and your CRM?</li>
 <li>Are CRM fields synced to the appropriate objects?</li>
 <li>Is there a <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">custom view set</a> for person detail? Should there be?</li>
 <li>Do you have a naming convention for your fields based on source? 
-<br/>If not, consider implementing this.</li>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, consider implementing this.</li>
 <li>Are there any fields <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">blocked</a>? 
-<br/>If so, be sure to understand why they are.</li></td>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If so, be sure to understand why they are.</li></td>
   </tr>
   <tr> 
    <td>Custom Activities</td> 
    <td><li>Are there any <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">custom activities</a>?
-<br/>If so, click through them to understand what activities aren't related to a Marketo form, email, or landing page.</li></td>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If so, click through them to understand what activities aren't related to a Marketo form, email, or landing page.</li></td>
   </tr>
   <tr> 
    <td>Custom Objects</td> 
@@ -229,7 +228,7 @@ If so, have you been granted an 'Adobe Admin Console Product Admin' role by your
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th>
+   <th style="width:20%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -249,7 +248,7 @@ If so, have you been granted an 'Adobe Admin Console Product Admin' role by your
 <li>Are there rules set up for <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">redirects</a>?</li>
 <li>Do you have domain aliases in place? Are you tracking how you're utilizing your domain aliases?</li>
 <li>Is <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Secured Domains for Landing Pages</a> enabled? 
-<br/>Confirm if your landing page assets contain a 'http' URL.</li></td>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Confirm if your landing page assets contain a 'http' URL.</li></td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
@@ -263,13 +262,13 @@ If so, have you been granted an 'Adobe Admin Console Product Admin' role by your
    <td><li>Are <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP Restrictions</a> enabled? Should they be?</li>
 <li>Which users/apps are making API calls in your instance?</li>
 <li>Are you hitting or close to hitting your API limit? 
-<br/>If so, consider increasing it or auditing your instance to bring those API calls down.</li></td>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If so, consider increasing it or auditing your instance to bring those API calls down.</li></td>
   </tr>
   <tr> 
    <td>Marketo Sales Insight (if applicable)</td> 
    <td><li>Has the <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI package been installed</a>?</li>
 <li>Have you <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">upgraded to the latest version of Sales Insight</a>?</li>
-<li>Have you completed the Sales Insight configuration? <br/>Enterprise/Unlimited users <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">click here</a>, Professional users <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">click here</a>.</li>
+<li>Have you completed the Sales Insight configuration? <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enterprise/Unlimited users <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">click here</a>, Professional users <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">click here</a>.</li>
 <li>Have you <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">given access to your users</a> based on the number of seats you've purchased?</li>
 <li>Are <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md" target="_blank">Stars and Flames</a> customized?</li></td>
   </tr>
@@ -297,7 +296,7 @@ If so, have you been granted an 'Adobe Admin Console Product Admin' role by your
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th>
+   <th style="width:20%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -318,7 +317,7 @@ If so, have you been granted an 'Adobe Admin Console Product Admin' role by your
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th>
+   <th style="width:20%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 

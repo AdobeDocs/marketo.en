@@ -13,7 +13,7 @@ Organize your Marketing Activities section properly to help others find and mana
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -27,7 +27,7 @@ Organize your Marketing Activities section properly to help others find and mana
   <tr> 
    <td>Programs</td> 
    <td><li>KG - IS THIS STILL RELEVANT Is there a <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">Center of Excellence</a> with program templates? 
-   <br/>If so, do the program templates make sense for the teams' use cases?</li>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If so, do the program templates make sense for the teams' use cases?</li>
 <li>Are similar program types <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">consistently structured</a>?</li>
 <li>Are <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">period costs</a> put in place?</li>
 <li>Are all programs <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">synced to SFDC Campaigns</a> (if applicable)?</li>
@@ -58,22 +58,22 @@ Organize your Marketing Activities section properly to help others find and mana
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
    <td>Tokens</td> 
    <td><li>Are <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">tokens</a> being used in your most commonly used program types? 
-   <br/>If not, you should consider using them to increase efficiency.</li>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, you should consider using them to increase efficiency.</li>
 <li>If tokens are implemented, are there global folder tokens? How are they being used?</li></td>
   </tr>
   <tr> 
    <td>Engagement Programs</td> 
    <td><li>Are there live <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">Engagement Programs</a> running?</li>
 <li>How many <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">people are exhausted</a>? 
-<br/>If there are many exhausted people, consider <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">adding content</a>.</li>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If there are many exhausted people, consider <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">adding content</a>.</li>
 <li>Are people <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">engaging with the content</a>? 
-<br/>If not, consider updating it and/or A/B testing.</li></td>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, consider updating it and/or A/B testing.</li></td>
   </tr>
   <tr> 
    <td>Batch Campaigns</td> 
@@ -110,7 +110,7 @@ Organize your Marketing Activities section properly to help others find and mana
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -134,7 +134,7 @@ Organize your Marketing Activities section properly to help others find and mana
   <tr> 
    <td>Privacy & Compliance</td> 
    <td><li>Do you have programs to ensure you're compliant with data privacy and spam laws? 
-   <br/>Consider <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA, etc.</li>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Consider <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA, etc.</li>
 <p>Tip: Remember to always consult your Legal team on these issues. Ask your team about previous initiatives to maintain compliance before making any changes.</td>
   </tr>
   <tr> 

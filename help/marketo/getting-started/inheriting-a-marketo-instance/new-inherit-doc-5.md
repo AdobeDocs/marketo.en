@@ -13,7 +13,7 @@ Now that you've learned the key product areas to audit when inheriting an establ
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -34,13 +34,13 @@ Now that you've learned the key product areas to audit when inheriting an establ
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
    <td>Data Dictionary</td> 
    <td><li>Is there a separate data dictionary explaining the fields available?
-   <br/>If not, consider creating one.</li></td>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, consider creating one.</li></td>
   </tr>
   <tr> 
    <td>Organization</td> 
@@ -54,7 +54,7 @@ Now that you've learned the key product areas to audit when inheriting an establ
   <tr> 
    <td>Playbooks</td> 
     <td><li>Does your organization have a User or Admin Playbook? 
-    <br/>If so, update those accordingly.</li></td>
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If so, update those accordingly.</li></td>
   </tr>
   <tr> 
    <td>Conversations with Internal Stakeholders</td> 

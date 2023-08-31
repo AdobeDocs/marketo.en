@@ -13,7 +13,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -40,7 +40,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -59,7 +59,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
   <tr> 
    <td>Privacy & Compliance</td> 
    <td><li>Does your form strategy align with your corporate data privacy and opt-in requirements? 
-   <br/>Consider <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">General Data Protection Regulation (GDPR)</a>, CASL (Canada's Anti-Spam Law), the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA), etc., for regulation compliance.</li>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Consider <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">General Data Protection Regulation (GDPR)</a>, Canada's Anti-Spam Law (CASL), the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA), etc., for regulation compliance.</li>
 <p>Tip: Remember to always consult your Legal team on these issues. Ask your team about previous initiatives to maintain compliance before making any changes.</td>
   </tr>
  </tbody> 
@@ -70,7 +70,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -98,13 +98,13 @@ Structuring templates and creating global forms, Snippets, and images & files wi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
    <td>Snippets</td> 
    <td><li>How many <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">snippets</a> are there? Are they being used? 
-   <br/>If not, consider using them for <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> and <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Landing Page</a> footer content, logos, and more.</li></td>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, consider using them for <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> and <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Landing Page</a> footer content, logos, and more.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -114,7 +114,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
@@ -128,7 +128,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
   <tr> 
    <td>Images & Files</td> 
    <td><li>Do any images or files <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">referenced on web pages</a> need to be updated? 
-   <p>Example: The hardcoded URL structure may need to be updated, such as <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>Example: The hardcoded URL structure <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">may need to be updated</a>, such as <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
    <p>Please work with your web developer to determine where you may need to make updates.</li></td>
   </tr>
  </tbody> 
@@ -139,13 +139,13 @@ Structuring templates and creating global forms, Snippets, and images & files wi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Review Focus</th>
   </tr> 
   <tr> 
    <td>Asset Status</td> 
    <td><li>How many assets are in <i>Draft</i> and <i>Approved with Draft</i> status?
-   <br/>If there are many, consider deleting or approving them.</li></td>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If there are many, consider deleting or approving them.</li></td>
   </tr>
   <tr> 
    <td>Asset Sharing</td> 
