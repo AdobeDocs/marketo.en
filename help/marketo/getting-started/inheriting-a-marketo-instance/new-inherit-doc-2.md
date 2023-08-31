@@ -25,7 +25,7 @@ Understand the total number of people, marketable people, and top person-acquiri
   </tr>
   <tr> 
    <td>Unsubscribed People</td> 
-   <td><li>What are your criteria for <a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=en#marketing-suspended" target="_blank">unsubscribed people</a>? Are there too many unsubscribed people?</li>
+   <td><li>What are your criteria for <a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" target="_blank">unsubscribed people</a>? Are there too many unsubscribed people?</li>
 <li>Do your unsubscribe methods align with your data privacy requirements?</li>
 <li>Is your unsubscribe preference up to date? How long have records remained in your database as unmarketable?</li></td>
   </tr>
