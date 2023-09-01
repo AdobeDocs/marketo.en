@@ -4,7 +4,7 @@ title: Inherit Doc 2
 hide: yes
 hidefromtoc: yes
 ---
-# Inherit Doc 2 {#inherit-doc-2}
+# Audit Database Checklist {#inherit-doc-2}
 
 Understand the total number of people, marketable people, and top person-acquiring sources in your subscription.
 

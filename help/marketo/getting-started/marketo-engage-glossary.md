@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12980733
-description: Marketo Glossary - Marketo Docs - Product Documentation
-title: Marketo Glossary
+description: Marketo Engage Glossary - Marketo Docs - Product Documentation
+title: Marketo Engage Glossary
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
 ---
-# Marketo Glossary {#marketo-glossary}
+# Marketo Engage Glossary {#marketo-glossary}
 
-Below are definitions for many of the terms you may encounter when using Marketo. To request a term be added, please [send us an email](mailto:GRP-Marketo-articlefeedback@adobe.com).
+Below are definitions for many of the terms you may encounter when using Marketo Engage. To request a term be added, please [send us an email](mailto:GRP-Marketo-articlefeedback@adobe.com).
 
 ## A {#a}
 
@@ -531,11 +531,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   <tr> 
    <td colspan="1"><strong>Marketo Sales Insight (MSI)</strong></td> 
    <td colspan="1">An add-on feature that allows marketers to empower their sellers with marketing insights from their <strong>CRM</strong>.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a></strong></td> 
-   <td colspan="1">The (former) next generation of the Marketo interface. It utilizes new designs, workflows, and features to help you get more out of Marketo.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td><strong>Microsoft Dynamics</strong></td> 
    <td>Also known as MSD. One of the two CRMs Marketo has a native integration with (see <a href="#c"><strong>CRM</strong></a>).</td> 

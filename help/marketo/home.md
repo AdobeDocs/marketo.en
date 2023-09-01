@@ -1,9 +1,9 @@
 ---
 title: Marketo Product Docs
-description: Marketo Product Docs
+description: Marketo Engage Product Docs
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
 ---
-# Marketo Product Docs
+# Marketo Engage Product Docs
 
 ![](assets/marketo-docs-banner.jpg)
 
@@ -12,7 +12,7 @@ exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
 * [Setup Steps](/help/marketo/getting-started/setup/setup-steps.md)
 * [Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 * [Configure Protocols for Marketo](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md)
-* [Marketo Glossary](/help/marketo/getting-started/marketo-glossary.md)
+* [Marketo Engage Glossary](/help/marketo/getting-started/marketo-engage-glossary.md)
 
 ## Popular Articles
 

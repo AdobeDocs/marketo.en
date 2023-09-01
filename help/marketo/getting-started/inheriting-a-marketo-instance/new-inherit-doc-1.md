@@ -10,7 +10,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
 
 >[!TIP]
 >
->If you're a new(er) Marketo Engage user and are not familiar with many of the terms, please check out the [Marketo Glossary](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+>If you're a new(er) Marketo Engage user and are not familiar with many of the terms, please check out the [Marketo Engage Glossary](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
 
 ## Adobe Identity Management {#adobe-identity-management}
 
