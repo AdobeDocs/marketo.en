@@ -41,7 +41,7 @@ Understand the total number of people, marketable people, and top person-acquiri
   </tr>
   <tr> 
    <td>Bounced Email Addresses</td> 
-   <td><li>Text</li></td>
+   <td><li>KG - WAITING ON DELIVERABILITY</li></td>
   </tr>
   <tr> 
    <td>Possible Duplicates</td> 

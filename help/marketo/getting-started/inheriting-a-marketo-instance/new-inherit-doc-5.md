@@ -40,7 +40,7 @@ Now that you've learned the key product areas to audit when inheriting an establ
   <tr> 
    <td>Data Dictionary</td> 
    <td><li>Is there a separate data dictionary explaining the fields available?
-   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, consider creating one.</li></td>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, consider creating one in a folder accessible to your Marketing Operations team.</li></td>
   </tr>
   <tr> 
    <td>Organization</td> 
