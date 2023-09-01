@@ -308,7 +308,7 @@ The following features follow an Agile format and are released on various dates 
 
 * **Trigger Tokens for New Activities**: New trigger tokens are available to support the new activities for Dynamic Chat.
 
-<table> 
+<table style="margin-left:10px" width="400px"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
