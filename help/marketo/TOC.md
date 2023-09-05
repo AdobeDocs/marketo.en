@@ -419,6 +419,8 @@ feature-set: Marketo Engage
         + [OP-Scoring-Demographic](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md)
         + [OP-Acquisition-API](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md)
         + [OP-Deliverability Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md)
+        + [Quick Start Email Template](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md)
+        + [Quick Start Landing Page Template](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md)
       + Program Performance Report {#program-performance-report}
         + [Create a Program Performance Report](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
         + [Add Program Status Columns to a Program Report](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
