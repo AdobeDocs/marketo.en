@@ -51,7 +51,7 @@ Marketo Product Admins will:
 
 >[!NOTE]
 >
->Due to the complexity of the migration, date changes are restricted to no more than 30 days beyond the scheduled date. Send an email to marketocares@adobe.com if you require a later date.
+>Due to the complexity of the migration, date changes are restricted to no more than 30 days beyond the scheduled date. Send an email to marketocares@marketo.com if you require a later date.
 
 * See a banner in My Marketo displaying a countdown to the User Migration Start Date.
 
@@ -91,4 +91,4 @@ Adobe will notify all System Admins and Product Admins via email once all Admins
 
 ## Get Support {#get-support}
 
-For additional support regarding your subscription or user migration, email marketocares@adobe.com.
+For additional support regarding your subscription or user migration, email marketocares@marketo.com.
