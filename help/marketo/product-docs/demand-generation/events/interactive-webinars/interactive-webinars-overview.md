@@ -8,6 +8,10 @@ feature: Interactive Webinars
 
 The Interactive Webinars feature is our built-in webinar platform inside Marketo Engage. No additional tools or integrations required.
 
+>[!IMPORTANT]
+>
+>Interactive Webinars powered by Adobe Connect is a feature with a built-in integration to Adobe Connect. Your use of Interactive Webinars will be subject to additional terms and conditions.  Please review your contract or contact Adobe to inquire about the additional terms and conditions.
+
 ## What is Interactive Webinars? {#what-is-interactive-webinars}
 
 Interactive Webinars augment the existing Events and Webinars experience by providing a native and seamless experience for you to create, manage, and deliver events within Marketo Engage. When you [create an Interactive Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, multiple prebuilt meeting templates are available to choose from, all of which are customizable (you can also create and use custom templates). Attendees can share computer screens/files, chat with one another, broadcast audio and video, and participate in interactive online activities.
