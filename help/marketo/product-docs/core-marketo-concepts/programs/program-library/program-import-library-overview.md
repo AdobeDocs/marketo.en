@@ -10,7 +10,7 @@ exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
 
 The Marketo Engage Reference Library includes several starter programs you can import directly into your Marketo instance to kickstart building programs that will help support your team. 
 
-The library includes such programs as: email, engagement, event, scoring, deliverability, and operational. All programs have been developed by the Adobe Product Team and vetted by our global Professional Services team in an effort to maximize quality and effectiveness.
+The library includes such programs as: email, engagement, event, scoring, deliverability, and operational. All programs have been developed by the Adobe Product Team and vetted by our [global Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} team in an effort to maximize quality and effectiveness.
 
 ## Available Program Examples {#available-program-examples}
 

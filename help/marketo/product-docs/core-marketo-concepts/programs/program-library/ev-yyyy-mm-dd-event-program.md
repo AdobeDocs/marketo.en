@@ -45,47 +45,47 @@ For further strategy assistance or help customizing a program, please contact th
   </tr> 
   <tr> 
    <td>Email</td> 
-   <td>Quick Start Email Template</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Quick Start Email Template</a></td>
    <td>01-Email-Thank You</td>
   </tr>
    <tr> 
    <td>Email</td> 
-   <td>Quick Start Email Template</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Quick Start Email Template</a></td>
    <td>02a- Email - Invitation</td>
   </tr>
   <tr> 
    <td>Email</td> 
-   <td>Quick Start Email Template</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Quick Start Email Template</a></td>
    <td>02b - Email - Invitation Reminder</td>
   </tr>
   <tr> 
    <td>Email</td> 
-   <td>Quick Start Email Template</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Quick Start Email Template</a></td>
    <td>02c- Email - Invitation Reminder Last Chance</td>
   </tr>
   <tr> 
    <td>Email</td> 
-   <td>Quick Start Email Template</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Quick Start Email Template</a></td>
    <td>03 - Email - Reminder to Attend</td>
   </tr>
   <tr> 
    <td>Email</td> 
-   <td>Quick Start Email Template</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Quick Start Email Template</a></td>
    <td>04a - Email - Follow-up - Attended</td>
   </tr>
   <tr> 
    <td>Email</td> 
-   <td>Quick Start Email Template</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Quick Start Email Template</a></td>
    <td>04b - Email - Follow-up - NoShow</td>
   </tr>
   <tr> 
    <td>Landing Page</td> 
-   <td>Quick Start LP Template</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Quick Start LP Template</a></td>
    <td>01a - LP - Registration</td>
   </tr>
   <tr> 
    <td>Landing Page</td> 
-   <td>Quick Start LP Template</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Quick Start LP Template</a></td>
    <td>01b - LP - Thank You</td>
   </tr>
   <tr> 

@@ -12,7 +12,7 @@ As part of Predictive Audiences, Marketo offers a group of AI/ML-based filters i
 
 >[!NOTE]
 >
->The "Likely to Attend" and "Likely to Register" filters are only be able to be used in Event or Email programs. "Likelihood to Unsubscribe," "Lookalike of Program Members," and "Lookalike of Smart List Members" can be used in all program types.
+>The "Likely to Attend" and "Likely to Register" filters are only be able to be used in Event Programs. "Likelihood to Unsubscribe," "Lookalike of Program Members," and "Lookalike of Smart List Members" can be used in all program types.
 
 ## Likelihood to Attend {#likelihood-to-attend}
 

@@ -46,12 +46,12 @@ For further strategy assistance or help customizing a program, please contact th
   </tr> 
   <tr> 
    <td>Email</td> 
-   <td>Quick Start Email Template</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Quick Start Email Template</a></td>
    <td>01-Email-Thank You</td>
   </tr>
    <tr> 
    <td>Email</td> 
-   <td>Quick Start Email Template</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Quick Start Email Template</a></td>
    <td>02a- Email - Invitation</td>
   </tr>
   <tr>
