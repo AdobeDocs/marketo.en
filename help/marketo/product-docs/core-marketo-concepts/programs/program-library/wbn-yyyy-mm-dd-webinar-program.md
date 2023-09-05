@@ -144,17 +144,12 @@ For further strategy assistance or help customizing a program, please contact th
   <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
-   <td>04 - Attended (Program Success)</td>
+   <td>04 - Send Follow-up Emails</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
-   <td>05 - Send Follow-up Emails</td>
-  </tr>
-  <tr> 
-   <td>Smart Campaign</td> 
-   <td>&nbsp</td>
-   <td>06 - Attended On-Demand (Program Success)</td>
+   <td>05 - Attended On-Demand (Program Success)</td>
   </tr>
   <tr> 
    <td>Folder</td> 
@@ -327,7 +322,7 @@ SCREENSHOT OF CONFLICT RULES
 
 >[!TIP]
 >
->Don't forget to activate the  "04-Attended (Program Success)" and "06-Attended On-Demand (Program Success)" campaigns for tracking success! Do this _before_ your emails are sent.
+>Don't forget to activate the "05 - Attended (Program Success)" campaign for tracking success! Do this _before_ your emails are sent.
 
 >[!IMPORTANT]
 >

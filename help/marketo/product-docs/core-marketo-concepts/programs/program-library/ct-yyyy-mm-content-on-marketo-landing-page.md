@@ -58,7 +58,7 @@ For further strategy assistance or help customizing a program, please contact th
   <tr> 
    <td>Form</td> 
    <td>&nbsp</td>
-   <td>Content Registration Form</td>
+   <td>FM - Content Registration Form</td>
   </tr>
   <tr> 
    <td>Local Report</td> 
@@ -70,21 +70,26 @@ For further strategy assistance or help customizing a program, please contact th
    <td>&nbsp</td>
    <td>Landing Page Performance</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
-   <td>01-Filled-Out Form</td>
+   <td>00 - Capture Acquisition Program</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
-   <td>02-Engaged (Program Success)</td>
+   <td>01 - Filled-Out Form</td>
+  </tr>
+  <tr> 
+   <td>Smart Campaign</td> 
+   <td>&nbsp</td>
+   <td>02 - Engaged (Program Success)</td>
   </tr>
   <tr> 
    <td>Folder</td> 
    <td>&nbsp</td>
    <td>Assets - houses all creative assets 
-<br/>(subfolders for Email & Landing Pages)  </td>
+<br/>(subfolders for Emails, Landing Pages, and Forms)  </td>
   </tr>
   <tr> 
    <td>Folder</td> 

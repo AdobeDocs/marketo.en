@@ -78,17 +78,12 @@ For further strategy assistance or help customizing a program, please contact th
    <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
-   <td>02 - Engaged at Show (Success)</td>
+   <td>02 - Send Follow-up Emails</td>
   </tr>
    <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
-   <td>03 - Send Follow-up Emails</td>
-  </tr>
-   <tr> 
-   <td>Smart Campaign</td> 
-   <td>&nbsp</td>
-   <td>04 - Engaged by Follow-up Email (Success)</td>
+   <td>03 - Engaged by Follow-up Email (Success)</td>
   </tr>
   <tr> 
    <td>Folder</td> 
@@ -213,7 +208,7 @@ SCREENSHOT OF CONFLICT RULES
 
 >[!TIP]
 >
->Don't forget to activate the "02-Engaged at Show (Program Success)" and "04-Engaged by Follow-up Email (Program Success)" campaigns for tracking success! Do this _before_ your emails are sent.
+>Don't forget to activate the "03 - Engaged by Follow-up Email (Program Success)" campaign for tracking success! Do this _before_ your emails are sent.
 
 >[!IMPORTANT]
 >

@@ -23,8 +23,8 @@ For further strategy assistance or help customizing a program, please contact th
   </tr> 
   <tr> 
    <td>Online Advertising</td> 
-   <td>01-Member 
-<br/>02-Engaged-Success</td>
+   <td>01 - Member 
+<br/>02 - Engaged - Success</td>
    <td>Inclusive</td>
    <td>Default</td>
   </tr>
@@ -73,17 +73,17 @@ For further strategy assistance or help customizing a program, please contact th
   <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
-   <td>00-Capture Acquisition Program</td>
+   <td>00 - Capture Acquisition Program</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
-   <td>01-Filled-Out Form</td>
+   <td>01 - Filled-Out Form</td>
   </tr>
   <tr> 
    <td>Smart Campaign</td> 
    <td>&nbsp</td>
-   <td>02-Engaged (Program Success)</td>
+   <td>02 - Engaged (Program Success)</td>
   </tr>
   <tr> 
    <td>Folder</td> 
@@ -201,7 +201,7 @@ SCREENSHOT OF CONFLICT RULES
 
 >[!TIP]
 >
->Don't forget to activate the "02-Engaged" Campaign for tracking success! Do this _before_ your form is live and emails are sent.
+>Don't forget to activate the "02 - Engaged (Program Success)" Campaign for tracking success! Do this _before_ your form is live and emails are sent.
 
 >[!IMPORTANT]
 >
