@@ -33,7 +33,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
 <li>Have you been granted a 'Marketo Engage Product Admin' role in Marketo Engage/Admin/Users & Roles?</li> 
 <li>Have you assigned Marketo Engage to all the appropriate users' product profiles in the Adobe Admin Console?
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, make sure to assign Marketo Engage to their Adobe IMS product profile before assigning their roles in Marketo Engage/Admin/Users & Roles.</li>
-<p>Note: If your subscription has more than 75 users and was just migrated to Adobe IMS, you have the option to select users to migrate in batches and administer their Adobe Identify in groups or all at once. Read more about what to expect on <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS migration day</a>.</td>
+<p><img src="assets/note-icon-25.png" alt="note icon">NOTE: If your subscription has more than 75 users and was just migrated to Adobe IMS, you have the option to select users to migrate in batches and administer their Adobe Identify in groups or all at once. Read more about what to expect on <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS migration day</a>.</td>
   </tr>
   <tr> 
    <td>User Management API</td> 
@@ -255,7 +255,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
    <td><li>Is your <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin tracking code</a> on your website (Not in Marketo)?</li>
 <li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Do Not Track</a> Browser Request enabled?</li>
 <li>Is your <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> configured? 
-<p>Tip: If you're missing documentation on where the munchkin code is on your website, you can view all URLs by creating a <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Web Page Activity Report</a>.</li></td>
+<p><img src="assets/tip-icon-25.png" alt="note icon">TIP: If you're missing documentation on where the munchkin code is on your website, you can view all URLs by creating a <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Web Page Activity Report</a>.</li></td>
   </tr>
   <tr> 
    <td>Web Services</td> 
