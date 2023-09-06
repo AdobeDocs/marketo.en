@@ -31,7 +31,7 @@ For further strategy assistance or help customizing a program, please contact th
   * Bottom padding of module
   * Background color of module
   * Alignment of logo
-* PICC
+* ![](assets/quick-start-email-template-1.png)
  
 ### Image Module {#image-module}
 
@@ -40,7 +40,7 @@ For further strategy assistance or help customizing a program, please contact th
   * Top padding of module
   * Bottom padding of module
   * Background color of module
-* PICC
+* ![](assets/quick-start-email-template-2.png)
 
 ### Headline Module {#headline-module}
 
@@ -52,7 +52,7 @@ For further strategy assistance or help customizing a program, please contact th
   * Font size of headline (this can also be edited in the rich text editor)
   * Font color of headline (this can also be edited in the rich text editor)
   * Alignment of the headline text (this can also be edited in the rich text editor)
-* PICC
+* ![](assets/quick-start-email-template-3.png)
 
 ### Subheadline Module {#subheadline-module}
 
@@ -64,7 +64,7 @@ For further strategy assistance or help customizing a program, please contact th
   * Font size of subheadline (this can also be edited in the rich text editor)
   * Font color of subheadline (this can also be edited in the rich text editor)
   * Alignment of the subheadline text (this can also be edited in the rich text editor)
-* PICC
+* ![](assets/quick-start-email-template-4.png)
  
 ### Free Text Module {#free-text-module}
 
@@ -76,7 +76,7 @@ For further strategy assistance or help customizing a program, please contact th
   * Font size of text (this can also be edited in the rich text editor)
   * Font color of text (this can also be edited in the rich text editor)
   * Alignment of the text (this can also be edited in the rich text editor)
-* PICC
+* ![](assets/quick-start-email-template-5.png)
  
 ### CTA Module {#cta-module}
 
@@ -91,7 +91,7 @@ For further strategy assistance or help customizing a program, please contact th
   * CTA URL
   * CTA text
   * CTA alignment
-* PICC
+* ![](assets/quick-start-email-template-6.png)
 
 ### Divider Module {#divider-module}
 
@@ -102,7 +102,7 @@ For further strategy assistance or help customizing a program, please contact th
   * Divider color
   * Divider height (in pixels)
   * Divider width (as a %)
-* PICC
+* ![](assets/quick-start-email-template-7.png)
 
 ### Footer Module {#footer-module}
 
@@ -114,4 +114,4 @@ For further strategy assistance or help customizing a program, please contact th
   * Background color of module
   * Text color
   * Content alignment
-* PICC
+* ![](assets/quick-start-email-template-8.png)

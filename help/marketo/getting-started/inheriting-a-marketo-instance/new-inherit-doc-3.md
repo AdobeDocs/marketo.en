@@ -37,7 +37,7 @@ Organize your Marketing Activities section properly to help others find and mana
    <td>Archive</td> 
    <td><li>Are older programs <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">archived</a>?</li>
 <li>How often does your company review and archive old programs?</li>
-<p>Tip: It's good to perform a review every year.</td>
+<p><img src="assets/tip-icon.png" alt="tip icon">TIP: It's good to perform a review every year.</td>
   </tr>
   <tr> 
    <td>Notifications</td> 
@@ -48,7 +48,7 @@ Organize your Marketing Activities section properly to help others find and mana
    <td>Smart List Subscriptions 
    <br/>(Marketing Activities/Subscriptions tab)</td> 
    <td><li>Are there ongoing <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">Smart List subscriptions</a> in your instance? If yes, who are they going to?</li>
-<p>Tip: Consider setting up Smart List subscriptions to go to a team alias rather than an individual. This covers you in case individuals are out of the office.</td>
+<p><img src="assets/tip-icon.png" alt="tip icon">TIP: Consider setting up Smart List subscriptions to go to a team alias rather than an individual. This covers you in case individuals are out of the office.</td>
   </tr>
  </tbody> 
 </table>
@@ -90,7 +90,7 @@ Organize your Marketing Activities section properly to help others find and mana
    <td>Local Forms</td> 
    <td><li>How many programs have local <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">forms</a>? Should these forms be turned into global forms?</li>
 <li>Are they capturing appropriate data for your Marketing and Sales teams?</li>
-<p>Tip: Limit the number of local forms to ease updating and alignment to changes with data privacy and opt-in/opt-out policies. When creating a form, what questions need to be asked? If the information gathered doesn't change and advanced form functionality doesn't shift, consider a global form instead of a local form.</td>
+<p><img src="assets/tip-icon.png" alt="tip icon">TIP: Limit the number of local forms to ease updating and alignment to changes with data privacy and opt-in/opt-out policies. When creating a form, what questions need to be asked? If the information gathered doesn't change and advanced form functionality doesn't shift, consider a global form instead of a local form.</td>
   </tr>
   <tr> 
    <td>Global Forms</td> 
@@ -121,7 +121,7 @@ Organize your Marketing Activities section properly to help others find and mana
   <tr> 
    <td>Person Source</td> 
    <td><li>Do you have a centralized program assigning values to person source fields?</li>
-<p>Note: Marketo Engage automatically gathers data in a source field regardless of operational programs.</td>
+<p><img src="assets/note-icon.png" alt="note icon"> NOTE: Marketo Engage automatically gathers data in a source field regardless of operational programs.</td>
   </tr>
   <tr> 
    <td>Data Standardization</td> 
@@ -135,7 +135,7 @@ Organize your Marketing Activities section properly to help others find and mana
    <td>Privacy & Compliance</td> 
    <td><li>Do you have programs to ensure you're compliant with data privacy and spam laws? 
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Consider <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA, etc.</li>
-<p>Tip: Remember to always consult your Legal team on these issues. Ask your team about previous initiatives to maintain compliance before making any changes.</td>
+<p><img src="assets/tip-icon.png" alt="tip icon">TIP: Remember to always consult your Legal team on these issues. Ask your team about previous initiatives to maintain compliance before making any changes.</td>
   </tr>
   <tr> 
    <td>Lifecycle</td> 

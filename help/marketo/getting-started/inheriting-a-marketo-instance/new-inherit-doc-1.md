@@ -33,7 +33,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
 <li>Have you been granted a 'Marketo Engage Product Admin' role in Marketo Engage/Admin/Users & Roles?</li> 
 <li>Have you assigned Marketo Engage to all the appropriate users' product profiles in the Adobe Admin Console?
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, make sure to assign Marketo Engage to their Adobe IMS product profile before assigning their roles in Marketo Engage/Admin/Users & Roles.</li>
-<p><img src="assets/note-icon-25.png" alt="note icon">NOTE: If your subscription has more than 75 users and was just migrated to Adobe IMS, you have the option to select users to migrate in batches and administer their Adobe Identify in groups or all at once. Read more about what to expect on <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS migration day</a>.</td>
+<p><img src="assets/note-icon.png" alt="note icon"> NOTE: If your subscription has more than 75 users and was just migrated to Adobe IMS, you have the option to select users to migrate in batches and administer their Adobe Identify in groups or all at once. Read more about what to expect on <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS migration day</a>.</td>
   </tr>
   <tr> 
    <td>User Management API</td> 
@@ -153,7 +153,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
   <tr> 
    <td>Communication Limits</td> 
    <td><li>Are there <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">communication limits</a> in place? Does your business have policies where communication limits might be necessary?</li>
-<p>Note: We recommend limiting your communication to 1 per day and 3 per 7 days, with <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operational</a> emails blocked.</td>
+<p><img src="assets/note-icon.png" alt="note icon"> NOTE: We recommend limiting your communication to 1 per day and 3 per 7 days, with <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operational</a> emails blocked.</td>
   </tr>
  </tbody> 
 </table>
@@ -236,7 +236,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
    <td><li>Which CRM are you syncing to? Salesforce? MS Dynamics? Veeva?</li>
 <li>Are you utilizing a <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">custom sync</a>?</li>
 <li>[Salesforce Only] Does your instance have Custom Sync Filters implemented? 
-<p>Note: Contact Marketo Support to identify Custom Sync Filters or request a Custom Sync Rule be implemented.</li></td>
+<p><img src="assets/note-icon.png" alt="note icon"> NOTE: Contact Marketo Support to identify Custom Sync Filters or request a Custom Sync Rule be implemented.</li></td>
   </tr>
   <tr> 
    <td>Landing Pages</td> 
@@ -255,7 +255,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
    <td><li>Is your <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin tracking code</a> on your website (Not in Marketo)?</li>
 <li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Do Not Track</a> Browser Request enabled?</li>
 <li>Is your <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> configured? 
-<p><img src="assets/tip-icon-25.png" alt="note icon">TIP: If you're missing documentation on where the munchkin code is on your website, you can view all URLs by creating a <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Web Page Activity Report</a>.</li></td>
+<p><img src="assets/tip-icon.png" alt="tip icon">TIP: If you're missing documentation on where the munchkin code is on your website, you can view all URLs by creating a <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Web Page Activity Report</a>.</li></td>
   </tr>
   <tr> 
    <td>Web Services</td> 

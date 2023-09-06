@@ -69,7 +69,7 @@ Understand the total number of people, marketable people, and top person-acquiri
    <td><li>How many <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Smart Lists</a> are there? How are they used in this instance?</li>
 <li>Are the lists organized in a cohesive folder structure? 
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you have orphan lists, consider organizing your tree so assets are easy to find.</li>
-<p>Tip: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archiving</a> Smart Lists that are no longer needed will help with organization and performance.</td>
+<p><img src="assets/tip-icon.png" alt="tip icon">TIP: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archiving</a> Smart Lists that are no longer needed will help with organization and performance.</td>
   </tr>
  </tbody> 
 </table>

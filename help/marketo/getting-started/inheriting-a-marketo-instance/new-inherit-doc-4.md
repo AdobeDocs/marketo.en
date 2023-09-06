@@ -54,13 +54,13 @@ Structuring templates and creating global forms, Snippets, and images & files wi
   <tr> 
    <td>Data Standardization</td> 
    <td><li>Are your <a href="/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md" target="_blank">form fields</a> primarily picklists or open text fields?</li>
-<p>Tip: If they're open text fields, consider switching them to picklists to prevent messy data.</td>
+<p><img src="assets/tip-icon.png" alt="tip icon">TIP: If they're open text fields, consider switching them to picklists to prevent messy data.</td>
   </tr>
   <tr> 
    <td>Privacy & Compliance</td> 
    <td><li>Does your form strategy align with your corporate data privacy and opt-in requirements? 
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Consider <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">General Data Protection Regulation (GDPR)</a>, Canada's Anti-Spam Law (CASL), the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA), etc., for regulation compliance.</li>
-<p>Tip: Remember to always consult your Legal team on these issues. Ask your team about previous initiatives to maintain compliance before making any changes.</td>
+<p><img src="assets/tip-icon.png" alt="tip icon">TIP: Remember to always consult your Legal team on these issues. Ask your team about previous initiatives to maintain compliance before making any changes.</td>
   </tr>
  </tbody> 
 </table>
@@ -88,7 +88,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
   <tr> 
    <td>Privacy & Compliance</td> 
    <td><li>Do all your emails have the appropriate footers? Consider GDPR, CASL, CAN-SPAM, CCPA, etc. for compliance implications.</li>
-<p>Tip: Remember to always consult your Legal team on these compliance issues. Ask your team about previous initiatives to maintain compliance before making any changes.</td>
+<p><img src="assets/tip-icon.png" alt="tip icon">TIP: Remember to always consult your Legal team on these compliance issues. Ask your team about previous initiatives to maintain compliance before making any changes.</td>
   </tr>
  </tbody> 
 </table>
@@ -150,7 +150,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
   <tr> 
    <td>Asset Sharing</td> 
    <td><li>Which assets are <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">shared across Workspaces</a>?</li>
-   <p>Note: It's important to know this as actions taken in one Workspace might lead to an inaccessible asset in a different Workspace for another user.</td>
+   <p><img src="assets/note-icon.png" alt="note icon"> NOTE: It's important to know this as actions taken in one Workspace might lead to an inaccessible asset in a different Workspace for another user.</td>
   </tr>
  </tbody> 
 </table>

@@ -27,7 +27,7 @@ For further strategy assistance or help customizing a program, please contact th
   * Show or hide the section
   * Top padding of the section
   * Bottom padding of the section
-* PICC
+* ![](assets/quick-start-landing-page-template-1.png)
  
 ### Image Section {#image-section}
 
@@ -36,7 +36,7 @@ For further strategy assistance or help customizing a program, please contact th
   * The banner image link 
   * The banner width - one of the switches on the bottom right allows you to make the image either the width of the content container or the width of the entire browser 
   * Show or hide the section 
-* PICC
+* ![](assets/quick-start-landing-page-template-2.png)
  
 ### 2-Col Text on Left, Form on Right Section {#two-col-left-form-right}
 
@@ -51,7 +51,7 @@ For further strategy assistance or help customizing a program, please contact th
   * Show or hide the entire section 
   * Show or hide just the form (hiding the form causes the text in the left column to fill the width of the page. This could be used for a thank you or confirmation page where a form is not present.) 
   * Show or hide the privacy policy text 
-* PICC
+* ![](assets/quick-start-landing-page-template-3.png)
 
 ### Video Section {#video-section}
 
@@ -61,7 +61,7 @@ For further strategy assistance or help customizing a program, please contact th
   * Video embed code
   * Show/hide video headline
   * Show/hide video
-* PICC
+* ![](assets/quick-start-landing-page-template-4.png)
  
 ### Footer Section {#footer-section}
 
@@ -71,7 +71,7 @@ For further strategy assistance or help customizing a program, please contact th
   * Background color for section 
   * Social icons color 
   * Show/hide section 
-* PICC
+* ![](assets/quick-start-landing-page-template-5.png)
 
 ### Additional Variables {#additional-variables}
  
