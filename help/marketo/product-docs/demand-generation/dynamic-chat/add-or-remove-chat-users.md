@@ -74,7 +74,7 @@ If the newly added Chat user's Marketo role doesn't already have Dynamic Chat pe
 
    >[!NOTE]
    >
-   >If you have more than one Marketo subscription, select the desired one prior to the next step).
+   >If you have more than one Marketo subscription, select the desired one prior to the next step.
 
 1. Click the **Users** tab.
 
