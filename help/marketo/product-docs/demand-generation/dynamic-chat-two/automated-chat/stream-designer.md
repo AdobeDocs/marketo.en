@@ -33,7 +33,7 @@ The stream designer contains multiple cards you can add to shape the chat conver
  </tr>
  <tr>
   <td><strong>Information Capture</strong></td>
-  <td>Use when you want to collect information. The  three fields to choose from are Email Address, Phone Number, and Text (which allows the visitor to write their own message).</td>
+  <td>Use when you want to collect information. The three fields to choose from are Email Address, Phone Number, and Text (which allows the visitor to write their own message).</td>
  </tr>
  <tr>
   <td><strong>Appointment Scheduler</strong></td>
@@ -42,6 +42,16 @@ The stream designer contains multiple cards you can add to shape the chat conver
  <tr>
   <td><strong>Goal</strong></td>
   <td>This is the only card the visitors won't see. It's for you to determine at which point a goal is achieved within the specific chat (ex: if collecting the visitor's email is your goal, place the Goal card immediately after Info Capture in the stream).</td>
+ </tr>
+ <tr>
+  <td><strong>Action</strong></td>
+  <td>Similar to hidden fields in a form, with the action card you can populate any lead or company attribute with implicit values that you'd like to capture against a lead record. You can add the action card at any point in the conversation and update respective attributes with a value or native tokens that automatically populate the respective value.</td>
+ </tr>
+ <tr>
+  <td><strong>Live Chat</strong></td>
+  <td>Use the live chat card when you want visitors to chat with a live agent.
+  <li>The live chat card must be the last card in the branch</li>
+  <li>Visitors will be routed to an agent as soon as they reach this card in the stream, so it's recommended to precede this card with a question card asking visitors if they'd like to chat with a live agent</li></td>
  </tr>
 </table>
 

@@ -47,6 +47,10 @@ This is where you'll see all of the appointments that have been scheduled by web
 
 This is where you can see a list of all the agents that have connected their calendars, what order they'll be presented to website visitors, and create custom routing rules. [Learn more about Routing](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
 
+## Live Chat {#live-chat}
+
+Offer your qualified web visitors to connect with your sales representatives via live chat. LINK TO DOC
+
 ## FAQ {#faq}
 
 **Can I install Dynamic Chat anywhere on my company website or does it only work on Marketo landing pages?**

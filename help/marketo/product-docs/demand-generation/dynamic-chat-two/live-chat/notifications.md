@@ -8,3 +8,7 @@ feature: Dynamic Chat
 # Doc {#doc}
 
 Coming Soon
+
+Browser
+In app
+MSI Actions
