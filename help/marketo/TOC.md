@@ -643,7 +643,7 @@ feature-set: Marketo Engage
       + [Send a List to an Ad Network](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
     + Dynamic Chat Two {#dynamic-chat-two}
       + Automated Chat {#automated-chat}
-        + [Dynamic Chat Overview](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
+        + [Conversational Flow Settings](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
     + Dynamic Chat {#dynamic-chat}
       + [Release Inserts](product-docs/demand-generation/dynamic-chat/release-inserts.md)
       + [Dynamic Chat Overview](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
