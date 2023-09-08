@@ -28,6 +28,10 @@ Learn how to design your webinar to suit your needs.
 
    ![](assets/designing-interactive-webinars-4.png)
 
+   >[!TIP]
+   >
+   >Your webinar will be set to the default language in your Marketo Engage instance, but you have the option to change languages on a per-webinar basis by using the drop-down above the preview.
+
 1. You can select different layouts to preview. To proceed, click **Use Template**.
 
    ![](assets/designing-interactive-webinars-5.png)

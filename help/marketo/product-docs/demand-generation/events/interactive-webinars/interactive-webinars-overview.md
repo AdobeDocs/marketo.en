@@ -26,6 +26,10 @@ After the webinar, access [event performance analytics](/help/marketo/product-do
 
 No. Only an active Marketo Engage subscription is required to use Interactive Webinars.
 
+**What languages are available for Interactive Webinars?**
+
+Interactive Webinars is available in all six Marketo-supported languages: English, French, German, Japanese, Portuguese and Spanish. The same languages are supported by Adobe Connect as well during the webinar delivery through Interactive Webinars.
+
 **I have exhausted my included number of Interactive Webinars. How do I get more sessions, or more capacity?**
 
 You would need to contact the Adobe Account Team (your Account Manager) for assistance.

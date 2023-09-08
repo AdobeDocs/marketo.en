@@ -101,3 +101,15 @@ Interactive Webinars offers specific licenses to create events powered by Adobe 
 * Every time an event is created, it will count as "consumed" from its respective license (unless it's a Shared Room License). Preference will be given to "Shared Event License" if there are both "Shared Event License" and "Shared Room License" of the same capacity. If the event has not been delivered and if the Event Program is deleted before the scheduled time, the event count is replenished by subtracting an event from Events Consumed.
 
 * Once a license has been exhausted, its tile remains on the Interactive Webinars screen in the Admin section with "Total Events" and "Events Consumed" having the same value. Only when the license expires will it be removed from the screen.
+
+## User Access {#user-access}
+
+Interactive Webinars has the functionality to regulate usage by giving permissions to Marketo Engage users to create and deliver Interactive Webinars. However, an Interactive Webinar user (or non-user) could still have read/edit access to Interactive Webinars event programs created by other users.
+
+Marketo users who have been given Interactive Webinars permissions and are owners of a particular Interactive Webinars Event Program would be able to perform all the Interactive Webinar functions related to that program. This includes: creating, accessing, modifying, cloning, moving, and deleting that program. However, once that user is no longer an Interactive webinar user, the owner of the program would be able to access and move the program, but not perform any other functions.
+
+Marketo users who have been given Interactive Webinars permissions and are _not_ owners of a particular Interactive Webinars Event Program would be able to perform limited functions on those programs. Marketo non-Admin users will be able to access and clone the program, but won't be able to perform any other functions if they have permissions for Interactive Webinars. However, Marketo Admin users _will_ be able to perform all functions, such as accessing, modifying, cloning, moving, and deleting that program (as long as they have permissions for Interactive Webinars). Once this permission is revoked for Marketo Admin and non-Admin users, they would be able to only access the Interactive Webinar Event Program, and would not be able to perform any other functions.
+
+The restriction of actionable functions would be indicated by a grayed out action button and a hover message. Some examples of the grayed out action buttons are "Design Your Webinar" or "Enter Your Webinar." For non-actionable functions, a message would be provided highlighting the restrictions. See example below:
+
+![](assets/user-and-license-management-12.png)
