@@ -10,7 +10,7 @@ The Interactive Webinars feature is our built-in webinar platform inside Marketo
 
 >[!IMPORTANT]
 >
->Interactive Webinars powered by Adobe Connect is a feature with a built-in integration to Adobe Connect. Your use of Interactive Webinars will be subject to additional terms and conditions.  Please review your contract or [contact Adobe](https://nation.marketo.com/t5/support/ct-p/Support) to inquire about the additional terms and conditions.
+>Interactive Webinars powered by Adobe Connect is a feature with a built-in integration to Adobe Connect. Your use of Interactive Webinars will be subject to additional terms and conditions. Please review your contract or contact Adobe to inquire about the additional terms and conditions.
 
 ## What is Interactive Webinars? {#what-is-interactive-webinars}
 
