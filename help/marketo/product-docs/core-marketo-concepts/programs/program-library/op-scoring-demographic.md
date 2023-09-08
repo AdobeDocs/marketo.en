@@ -124,6 +124,8 @@ For further strategy assistance or help customizing a program, please contact th
  </tbody> 
 </table>
 
+![](assets/op-scoring-demographic-1.png)
+
 ## My Tokens Included {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -226,8 +228,6 @@ For further strategy assistance or help customizing a program, please contact th
  </tbody> 
 </table>
 
-SCREENSHOT OF PROGRAM
-
 ## Conflict Rules {#conflict-rules}
 
 * **Program Tags**
@@ -245,8 +245,6 @@ SCREENSHOT OF PROGRAM
 * **Email templates with the same name**
    * Keep both templates - _Recommended_
    * Replace existing template
-
-SCREENSHOT OF CONFLICT RULES
 
 ## Best Practices {#best-practices}
 

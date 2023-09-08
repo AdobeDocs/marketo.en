@@ -105,6 +105,8 @@ For further strategy assistance or help customizing a program, please contact th
  </tbody> 
 </table>
 
+![](assets/nur-yyyy-mm-simple-nurture-1.png)
+
 ## My Tokens Included {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -132,8 +134,6 @@ For further strategy assistance or help customizing a program, please contact th
  </tbody> 
 </table>
 
-SCREENSHOT OF PROGRAM
-
 ## Conflict Rules {#conflict-rules}
 
 * **Program Tags**
@@ -151,8 +151,6 @@ SCREENSHOT OF PROGRAM
 * **Email templates with the same name**
    * Keep both templates
    * Replace existing template - _Recommended_
-
-SCREENSHOT OF CONFLICT RULES
 
 ## Best Practices {#best-practices}
 

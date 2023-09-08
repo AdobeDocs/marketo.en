@@ -9,21 +9,6 @@ feature: Dynamic Chat
 
 Release stuff below...
 
-STEVEN
-
-## Marketo Engage Smart List Targeting {#marketo-engage-smart-list-targeting}
-
-Marketers can target members of Marketo Engage Smart Lists in Dialogue audience criteria.
-
-## New Dynamic Chat Activities {#new-dynamic-chat-activities}
-
-New activities to support Conversational Flows, Live Chat, and other new features.
-
-## Trigger Tokens for New Activities {#trigger-tokens-for-new-activities}
-
-New trigger tokens are available to support the new activities for Dynamic Chat.
-
-
 JOHN
 
 ## Live Chat {#live-chat}
@@ -68,3 +53,122 @@ View how many conversations your live sales agents had and which teams are perfo
 ## Action Card in Stream Designer {#action-card-in-stream-designer}
 
 Marketers can use action cards in the Dialogue stream to pass hidden values to the Marketo Engage person record when visitors engage with a Dialogue.
+
+
+STEVEN
+
+## Marketo Engage Smart List Targeting {#marketo-engage-smart-list-targeting}
+
+Marketers can target members of Marketo Engage Smart Lists in Dialogue audience criteria.
+
+## New Dynamic Chat Activities {#new-dynamic-chat-activities}
+
+New activities to support Conversational Flows, Live Chat, and other new features.
+
+## Trigger Tokens for New Activities {#trigger-tokens-for-new-activities}
+
+### Dynamic Chat Trigger Tokens {#dynamic-chat-trigger-tokens}
+
+<table style="table-layout:auto"> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Page URL}}</code></th> 
+   <th><code>{{Trigger.Conversation Transcript}}</code></th> 
+   <th><code>{{trigger.Conversation Status}}</code></th> 
+   <th><code>{{trigger.Agent Name}}</code></th> 
+   <th><code>{{trigger.Agent Email}}</code></th> 
+   <th><code>{{trigger.Scheduled For}}</code></th> 
+   <th><code>{{trigger.Goal name}}</code></th> 
+   <th><code>{{trigger.Document Name}}</code></th> 
+   <th><code>{{trigger.Document URL}}</code></th>
+   <th><code>{{trigger.Document Opened}}</code></th>
+   <th><code>{{trigger.Document Downloaded}}</code></th>
+  </tr> 
+  <tr> 
+   <td>Engaged with a Dialogue</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Scheduled Meeting in a Dialogue</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Reached Dialogue Goal</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr>
+  <tr> 
+   <td>Interacted with Document in Dialogue</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+  </tr> 
+ </tbody> 
+</table>

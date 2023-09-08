@@ -104,6 +104,8 @@ For further strategy assistance or help customizing a program, please contact th
  </tbody> 
 </table>
 
+![](assets/oa-yyyy-mm-online-advertising-marketo-landing-page-1.png)
+
 ## My Tokens Included {#my-tokens-included}
 
 <table style="table-layout:auto"> 

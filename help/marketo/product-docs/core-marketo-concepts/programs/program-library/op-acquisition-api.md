@@ -55,7 +55,7 @@ This example program is for operational processes to track the acquisition of re
  </tbody> 
 </table>
 
-SCREENSHOT OF PROGRAM
+![](assets/op-acquisition-api-1.png)
 
 ## Conflict Rules {#conflict-rules}
 
@@ -74,8 +74,6 @@ SCREENSHOT OF PROGRAM
 * **Email templates with the same name**
    * Keep both templates - _Recommended_
    * Replace existing template
-
-SCREENSHOT OF CONFLICT RULES
 
 ## Best Practices {#best-practices}
 
