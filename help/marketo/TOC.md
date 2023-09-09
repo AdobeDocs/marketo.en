@@ -37,11 +37,11 @@ feature-set: Marketo Engage
     + [Items to Check Off](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
     + [Things to Review: Core Skills](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
     + [Ways to Get Help](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-    + [New Inherit Doc 1](getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
-    + [New Inherit Doc 2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
-    + [New Inherit Doc 3](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
-    + [New Inherit Doc 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
-    + [New Inherit Doc 5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+    + [Inherited Instance: Admin Section Checklist](getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+    + [Inherited Instance: Database Checklist](getting-started/inheriting-a-marketo-instance/database-checklist.md)
+    + [Inherited Instance: Marketing Activities Checklist](getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+    + [Inherited Instance: Design Studio Checklist](getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+    + [Inherited Instance: Document Your Setup](getting-started/inheriting-a-marketo-instance/document-your-setup.md)
 + Product Docs {#product-docs}
   + Additional Apps {#additional-apps}
     + SEO {#seo}
