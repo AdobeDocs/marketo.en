@@ -30,15 +30,15 @@ The checklists below have been put together with input from Marketo Champions to
 
 You can also download the checklists in spreadsheet form.
 
-* [Admin section](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+* [Admin section](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 
-* [Database](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+* [Database](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
 
-* [Marketing Activities](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+* [Marketing Activities](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
 
-* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
 
-* [Document your inherited instance setup](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+* [Document your inherited instance setup](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
  
 ## Ways to Get Help {#ways-to-get-help}
 

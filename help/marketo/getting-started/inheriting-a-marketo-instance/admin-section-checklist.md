@@ -338,4 +338,4 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
 
 <br>&nbsp;
 
-[Audit an Inherited Instance: Database ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+[Audit an Inherited Instance: Database ►](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)

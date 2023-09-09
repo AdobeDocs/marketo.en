@@ -110,6 +110,6 @@ Understand the total number of people, marketable people, and top person-acquiri
 
 <br>&nbsp;
 
-[◄ Audit an Inherited Instance: Admin](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+[◄ Audit an Inherited Instance: Admin](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 
-[Audit an Inherited Instance: Marketing Activities ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+[Audit an Inherited Instance: Marketing Activities ►](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)

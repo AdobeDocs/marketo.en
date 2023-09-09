@@ -161,6 +161,6 @@ Organize your Marketing Activities section properly to help others find and mana
 
 <br>&nbsp;
 
-[◄ Audit an Inherited Instance: Database](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+[◄ Audit an Inherited Instance: Database](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
 
-[Audit an Inherited Instance: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+[Audit an Inherited Instance: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)

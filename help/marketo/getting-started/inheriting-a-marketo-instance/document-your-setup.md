@@ -20,7 +20,7 @@ Now that you've learned the key product areas to audit when inheriting an establ
    <td>Input</td> 
    <td><li>Which systems feed data into Marketo Engage?</li>
    <li>Are they loading data into programs or the database? If programs, which ones?</li>
-   <p>Action Item: Create a data dictionary/field mapping table between systems.</td>
+   <p><img src="assets/action-item-icon.png" alt="action item icon">Action Item: Create a data dictionary/field mapping table between systems.</td>
   </tr>
   <tr> 
    <td>Output</td> 
@@ -45,7 +45,7 @@ Now that you've learned the key product areas to audit when inheriting an establ
   <tr> 
    <td>Organization</td> 
     <td><li>Do you have robust documentation of how your Marketo Engage instance is organized and why?</li>
-   <p>Action Item: Create documentation that contains folder structure, naming convention, and channels used in your instance.</td>
+   <p><p><img src="assets/action-item-icon.png" alt="action item icon">Action Item: Create documentation that contains folder structure, naming convention, and channels used in your instance.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -64,4 +64,4 @@ Now that you've learned the key product areas to audit when inheriting an establ
  </tbody> 
 </table>
 
-[◄ Audit an Inherited Instance: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+[◄ Audit an Inherited Instance: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)

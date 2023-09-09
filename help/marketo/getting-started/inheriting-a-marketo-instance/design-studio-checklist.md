@@ -157,6 +157,6 @@ Structuring templates and creating global forms, Snippets, and images & files wi
 
 <br>&nbsp;
 
-[◄ Audit an Inherited Instance: Marketing Activities](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+[◄ Audit an Inherited Instance: Marketing Activities](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
 
-[Audit an Inherited Instance: Document Your Inherited Instance Setup ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+[Audit an Inherited Instance: Document Your Inherited Instance Setup ►](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
