@@ -1,10 +1,10 @@
 ---
-description: Inherit Doc 1 - Marketo Docs - Product Documentation
-title: Inherit Doc 1
+description: Inherited Instance Admin Checklist - Marketo Docs - Product Documentation
+title: Inherited Instance Admin Checklist
 hide: yes
 hidefromtoc: yes
 ---
-# Inherit Doc 1 {#inherit-doc-1}
+# Inherited Instance: Admin Section Checklist {#inherited-instance-admin-section-checklist}
 
 The checklists below (subsequent checklists linked to at the bottom of each article) have been put together with input from Marketo Champions to help you get up to speed quickly. You can also download the checklists and track your progress.
 

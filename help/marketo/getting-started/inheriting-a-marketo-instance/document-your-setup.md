@@ -1,10 +1,10 @@
 ---
-description: Inherit Doc 5 - Marketo Docs - Product Documentation
-title: Inherit Doc 5
+description: Inherited Instance Document Your Setup - Marketo Docs - Product Documentation
+title: Inherited Instance Document Your Setup
 hide: yes
 hidefromtoc: yes
 ---
-# Inherit Doc 5 {#inherit-doc-5}
+# Inherited Instance: Document Your Setup {#inherited-instance-document-your-setup}
 
 Now that you've learned the key product areas to audit when inheriting an established instance, the next step is to create/update documentation on your instance configuration and tech stack. Whether creating it via spreadsheet or a project management application, your documentation is a great resource to track progress and record details.
 

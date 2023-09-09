@@ -1,10 +1,10 @@
 ---
-description: Inherit Doc 3 - Marketo Docs - Product Documentation
-title: Inherit Doc 3
+description: Inherited Instance Marketing Activities Checklist - Marketo Docs - Product Documentation
+title: Inherited Instance Marketing Activities Checklist
 hide: yes
 hidefromtoc: yes
 ---
-# Inherit Doc 3 {#inherit-doc-3}
+# Inherited Instance: Marketing Activities Checklist {#inherited-instance-marketing-activities-checklist}
 
 Organize your Marketing Activities section properly to help others find and manage various programs within your Marketo Engage instance and ensure that people are processed to pass from Marketing to Sales.
 

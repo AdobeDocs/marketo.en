@@ -1,10 +1,10 @@
 ---
-description: Inherit Doc 4 - Marketo Docs - Product Documentation
-title: Inherit Doc 4
+description: Inherited Instance Design Studio Checklist - Marketo Docs - Product Documentation
+title: Inherited Instance Design Studio Checklist
 hide: yes
 hidefromtoc: yes
 ---
-# Inherit Doc 4 {#inherit-doc-4}
+# Inherited Instance: Design Studio Checklist {#inherited-instance-design-studio-checklist}
 
 Structuring templates and creating global forms, Snippets, and images & files will help minimize data errors as well as streamline the workflow of your program build.
 

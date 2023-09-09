@@ -1,10 +1,10 @@
 ---
-description: Inherit Doc 2 - Marketo Docs - Product Documentation
-title: Inherit Doc 2
+description: Inherited Instance Database Checklist - Marketo Docs - Product Documentation
+title: Inherited Instance Database Checklist
 hide: yes
 hidefromtoc: yes
 ---
-# Audit Database Checklist {#inherit-doc-2}
+# Inherited Instance: Database Checklist {#inherited-instance-database-checklist}
 
 Understand the total number of people, marketable people, and top person-acquiring sources in your subscription.
 
@@ -41,7 +41,8 @@ Understand the total number of people, marketable people, and top person-acquiri
   </tr>
   <tr> 
    <td>Bounced Email Addresses</td> 
-   <td><li>KG - WAITING ON DELIVERABILITY</li></td>
+   <td><li>Do you have a lot of <a href="/help/marketo/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md" target="_blank">people who bounced</a> in your Database?
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If so, consider investigating why.</li></td></li></td>
   </tr>
   <tr> 
    <td>Possible Duplicates</td> 
