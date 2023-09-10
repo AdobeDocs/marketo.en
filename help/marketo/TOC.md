@@ -642,11 +642,11 @@ feature-set: Marketo Engage
       + [Add LinkedIn Matched Audiences as a LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
       + [Send a List to an Ad Network](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
     + Dynamic Chat Two {#dynamic-chat-two}
-      + [Dynamic Chat Overview](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-overview.md)
-      + [Chatbot Behavior](product-docs/demand-generation/dynamic-chat-two/automated-chat/chatbot-behavior.md)
-      + [Meeting List](product-docs/demand-generation/dynamic-chat-two/automated-chat/meeting-list.md)
-      + [Dynamic Chat Activities](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-activites.md)
-      + [Analytics](product-docs/demand-generation/dynamic-chat-two/automated-chat/analytics.md)
+      + [Dynamic Chat Overview](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-overview.md)
+      + [Chatbot Behavior](product-docs/demand-generation/dynamic-chat-two/chatbot-behavior.md)
+      + [Meeting List](product-docs/demand-generation/dynamic-chat-two/meeting-list.md)
+      + [Dynamic Chat Activities](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activites.md)
+      + [Analytics](product-docs/demand-generation/dynamic-chat-two/analytics.md)
       + Automated Chat {#automated-chat}
         + [Conversational Flows Overview](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
         + [Create a Conversational Flow](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
