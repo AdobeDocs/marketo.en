@@ -49,7 +49,7 @@ This is where you can see a list of all the agents that have connected their cal
 
 ## Live Chat {#live-chat}
 
-Offer your qualified web visitors to connect with your sales representatives via live chat. LINK TO DOC
+Offer your qualified web visitors to connect with your sales representatives via [live chat](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md){target="_blank"}.
 
 ## FAQ {#faq}
 
