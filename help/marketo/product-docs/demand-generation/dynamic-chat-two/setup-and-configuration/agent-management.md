@@ -1,10 +1,14 @@
 ---
-description: Doc - Marketo Docs - Product Documentation
-title: Doc
+description: Agent Management - Marketo Docs - Product Documentation
+title: Agent Management
 hide: yes
 hidefromtoc: yes
 feature: Dynamic Chat
 ---
-# Doc {#doc}
+# Agent Management {#agent-management}
 
-Coming Soon
+In Agent Management, view a list of agents in your Dynamic Chat instance, manage teams, and set your fallback rules.
+
+Agent list
+Team management
+Fallback rules

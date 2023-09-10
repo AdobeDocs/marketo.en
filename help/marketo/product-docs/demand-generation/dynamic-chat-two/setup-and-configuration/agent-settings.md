@@ -9,6 +9,8 @@ feature: Dynamic Chat
 
 In the Calendar tab, connect your Outlook or Gmail calendar for use in appointment scheduling in the chatbot.
 
+## Connect Calendar {#connect-calendar}
+
    ![](assets/agent-settings-1.png)
 
 Once a user's calendar is connected to Dynamic Chat, they'll be added to the queue and their calendar will be available for website visitors to schedule appointments on.
@@ -25,7 +27,7 @@ Users can also customize the body of the invite that's sent to the visitor when 
 >
 >Use the token icon (curly brackets) to personalize your meeting booking confirmation emails using person or company attributes.
 
-## Permissions {#permissions}
+### Permissions {#permissions}
 
 Configuring with Outlook grants the following permissions to Dynamic Chat:
 
@@ -41,3 +43,15 @@ Configuring with Google grants the following permissions to Dynamic Chat:
 * Change your settings, including who can see your events
 * Change who the calendar is shared with
 * Access to your name, email address, language preference, and profile picture
+
+## Live Chat Availability Settings {#live-chat-availability-settings}
+
+Text
+
+## Meeting Booking Availability Settings {#meeting-booking-availability-settings}
+
+Text
+
+## Meeting Length and Buffer Time {#meeting-length-and-buffer-time}
+
+Text
