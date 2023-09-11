@@ -1,8 +1,6 @@
 ---
 description: Quick Start Email Template - Marketo Docs - Product Documentation
 title: Quick Start Email Template
-hide: yes
-hidefromtoc: yes
 feature: Programs
 ---
 # Quick Start Email Template {#quick-start-email-template}

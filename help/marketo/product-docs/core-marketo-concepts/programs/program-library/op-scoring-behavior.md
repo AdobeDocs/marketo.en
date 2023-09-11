@@ -1,8 +1,6 @@
 ---
 description: OP-Scoring-Behavior - Marketo Docs - Product Documentation
 title: OP-Scoring-Behavior
-hide: yes
-hidefromtoc: yes
 feature: Programs
 ---
 # OP-Scoring-Behavior {#op-scoring-behavior}

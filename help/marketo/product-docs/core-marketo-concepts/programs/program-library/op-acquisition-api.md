@@ -1,8 +1,6 @@
 ---
 description: OP-Acquisition-API - Marketo Docs - Product Documentation
 title: OP-Acquisition-API
-hide: yes
-hidefromtoc: yes
 feature: Programs
 ---
 # OP-Acquisition-API {#op-acquisition-api}

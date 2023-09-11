@@ -1,8 +1,6 @@
 ---
 description: CT-YYYY-MM-Content on Marketo Landing Page - Marketo Docs - Product Documentation
 title: CT-YYYY-MM-Content on Marketo Landing Page
-hide: yes
-hidefromtoc: yes
 feature: Programs
 ---
 # CT-YYYY-MM-Content on Marketo Landing Page {#ct-yyyy-mm-content-on-marketo-landing-page}

@@ -7,21 +7,19 @@ feature: Dynamic Chat
 ---
 # Create a Conversational Flow {#create-a-conversational-flow}
 
-Design a Conversational Flow and trigger it to any visitor based on a specific action (e.g., clicking on a call-to-action button, upon page load, time spent on page, etc.). 
-
-Mention its difference from Dialogues???????????
+Here's how to create a new Conversational Flow.
 
 1. Under Automated Chat, click **Conversational Flows**.
 
-PICC
+   ![](assets/create-a-conversational-flow-1.png)
 
 1. Click **Create Conversational Flow**.
 
-PICC
+   ![](assets/create-a-conversational-flow-2.png)
 
 1. Choose a blank Conversational Flow, or one of the pre-populated templates. Enter a name (description is optional), change the language (optional), and click **Create**.
 
-PICC
+   ![](assets/create-a-conversational-flow-3.png)
 
 >[!NOTE]
 >

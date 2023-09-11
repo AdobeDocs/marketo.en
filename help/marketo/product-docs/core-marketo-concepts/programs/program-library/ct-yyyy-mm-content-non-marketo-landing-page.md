@@ -1,8 +1,6 @@
 ---
 description: CT-YYYY-MM-Content Non-Marketo Landing Page - Marketo Docs - Product Documentation
 title: CT-YYYY-MM-Content Non-Marketo Landing Page
-hide: yes
-hidefromtoc: yes
 feature: Programs
 ---
 # CT-YYYY-MM-Content Non-Marketo Landing Page {#ct-yyyy-mm-content-non-marketo-landing-page}

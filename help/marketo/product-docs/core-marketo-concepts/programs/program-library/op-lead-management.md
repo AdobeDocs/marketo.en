@@ -1,8 +1,6 @@
 ---
 description: OP-Lead Management - Marketo Docs - Product Documentation
 title: OP-Lead Management
-hide: yes
-hidefromtoc: yes
 feature: Programs
 ---
 # OP-Lead Management {#op-lead-management}

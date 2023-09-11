@@ -7,7 +7,7 @@ feature: Dynamic Chat
 ---
 # Create a Dialogue {#create-a-dialogue}
 
-Here's how to create a new dialogue.
+Here's how to create a new Dialogue.
 
 1. Click **Dialogues**.
 

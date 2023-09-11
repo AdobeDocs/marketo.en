@@ -1,8 +1,6 @@
 ---
 description: OA-YYYY-MM-Online Advertising Marketo Landing Page - Marketo Docs - Product Documentation
 title: OA-YYYY-MM-Online Advertising Marketo Landing Page
-hide: yes
-hidefromtoc: yes
 feature: Programs
 ---
 # OA-YYYY-MM-Online Advertising Marketo Landing Page {#oa-yyyy-mm-online-advertising-marketo-landing-page}

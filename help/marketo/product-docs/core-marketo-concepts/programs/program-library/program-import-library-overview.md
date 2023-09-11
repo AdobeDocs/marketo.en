@@ -1,8 +1,6 @@
 ---
 description: Program Import Library Overview - Marketo Docs - Product Documentation
 title: Program Import Library Overview
-hide: yes
-hidefromtoc: yes
 feature: Programs
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
 ---

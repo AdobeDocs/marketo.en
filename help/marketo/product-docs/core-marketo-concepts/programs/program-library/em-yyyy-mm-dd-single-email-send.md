@@ -1,8 +1,6 @@
 ---
 description: EM-YYYY-MM-DD-Single Email Send - Marketo Docs - Product Documentation
 title: EM-YYYY-MM-DD-Single Email Send
-hide: yes
-hidefromtoc: yes
 feature: Programs
 ---
 # EM-YYYY-MM-DD-Single Email Send {#em-yyyy-mm-dd-single-email-send}

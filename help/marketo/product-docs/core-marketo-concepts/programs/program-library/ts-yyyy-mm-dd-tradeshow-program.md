@@ -1,8 +1,6 @@
 ---
 description: TS-YYYY-MM-DD-Tradeshow Program - Marketo Docs - Product Documentation
 title: TS-YYYY-MM-DD-Tradeshow Program
-hide: yes
-hidefromtoc: yes
 feature: Programs
 ---
 # TS-YYYY-MM-DD-Tradeshow Program {#ts-yyyy-mm-dd-tradeshow-program}

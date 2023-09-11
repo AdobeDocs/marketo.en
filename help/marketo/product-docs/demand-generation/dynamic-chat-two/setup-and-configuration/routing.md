@@ -55,6 +55,6 @@ Identify and upload your target account and respective sales owners and route vi
 
    ![](assets/routing-9.png)
 
-Team routing
+Team routing - DELETE THESE REFERENCES FOR NOW
 
-Member of Smart List routing
+Member of Smart List routing - POSSIBLY DELAYED

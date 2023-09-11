@@ -1,8 +1,6 @@
 ---
 description: NUR-YYYY-MM-Advanced Nurture - Marketo Docs - Product Documentation
 title: NUR-YYYY-MM-Advanced Nurture
-hide: yes
-hidefromtoc: yes
 feature: Programs
 ---
 # NUR-YYYY-MM-Advanced Nurture {#nur-yyyy-mm-advanced-nurture}

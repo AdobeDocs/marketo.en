@@ -1,8 +1,6 @@
 ---
 description: WBN-YYYY-MM-DD-Webinar Program - Marketo Docs - Product Documentation
 title: WBN-YYYY-MM-DD-Webinar Program
-hide: yes
-hidefromtoc: yes
 feature: Programs
 ---
 # WBN-YYYY-MM-DD-Webinar Program {#wbn-yyyy-mm-dd-webinar-program}

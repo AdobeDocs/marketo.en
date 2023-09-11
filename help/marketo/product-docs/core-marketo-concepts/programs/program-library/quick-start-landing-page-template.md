@@ -1,8 +1,6 @@
 ---
 description: Quick Start Landing Page Template - Marketo Docs - Product Documentation
 title: Quick Start Landing Page Template
-hide: yes
-hidefromtoc: yes
 feature: Programs
 ---
 # Quick Start Landing Page Template {#quick-start-landing-page-template}

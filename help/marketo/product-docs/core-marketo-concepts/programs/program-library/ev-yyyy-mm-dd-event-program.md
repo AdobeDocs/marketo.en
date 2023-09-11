@@ -1,8 +1,6 @@
 ---
 description: EV-YYYY-MM-DD-Event Program - Marketo Docs - Product Documentation
 title: EV-YYYY-MM-DD-Event Program
-hide: yes
-hidefromtoc: yes
 feature: Programs
 ---
 # EV-YYYY-MM-DD-Event Program {#ev-yyyy-mm-dd-event-program}

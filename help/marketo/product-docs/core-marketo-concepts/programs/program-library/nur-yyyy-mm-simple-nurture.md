@@ -1,8 +1,6 @@
 ---
 description: NUR-YYYY-MM-Simple Nurture - Marketo Docs - Product Documentation
 title: NUR-YYYY-MM-Simple Nurture
-hide: yes
-hidefromtoc: yes
 feature: Programs
 ---
 # NUR-YYYY-MM-Simple Nurture {#nur-yyyy-mm-simple-nurture}

@@ -1,8 +1,6 @@
 ---
 description: OP-Data Management - Marketo Docs - Product Documentation
 title: OP-Data Management
-hide: yes
-hidefromtoc: yes
 feature: Programs
 ---
 # OP-Data Management {#op-data-management}

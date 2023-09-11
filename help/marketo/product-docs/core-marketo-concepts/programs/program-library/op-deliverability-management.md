@@ -1,8 +1,6 @@
 ---
 description: OP-Deliverability Management - Marketo Docs - Product Documentation
 title: OP-Deliverability Management
-hide: yes
-hidefromtoc: yes
 feature: Programs
 ---
 # OP-Deliverability Management {#op-deliverability-management}

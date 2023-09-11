@@ -1,8 +1,6 @@
 ---
 description: WR-YYYY-MM-Web Request Program - Marketo Docs - Product Documentation
 title: WR-YYYY-MM-Web Request Program
-hide: yes
-hidefromtoc: yes
 feature: Programs
 ---
 # WR-YYYY-MM-Web Request Program {#wr-yyyy-mm-web-request-program}

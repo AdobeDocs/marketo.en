@@ -1,8 +1,6 @@
 ---
 description: OP-Scoring-Demographic - Marketo Docs - Product Documentation
 title: OP-Scoring-Demographic
-hide: yes
-hidefromtoc: yes
 feature: Programs
 ---
 # OP-Scoring-Demographic {#op-scoring-demographic}

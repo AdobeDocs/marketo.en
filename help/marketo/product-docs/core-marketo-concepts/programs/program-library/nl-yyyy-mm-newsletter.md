@@ -1,8 +1,6 @@
 ---
 description: NL-YYYY-MM-Newsletter - Marketo Docs - Product Documentation
 title: NL-YYYY-MM-Newsletter
-hide: yes
-hidefromtoc: yes
 feature: Programs
 ---
 # NL-YYYY-MM-Newsletter {#nl-yyyy-mm-newsletter}
