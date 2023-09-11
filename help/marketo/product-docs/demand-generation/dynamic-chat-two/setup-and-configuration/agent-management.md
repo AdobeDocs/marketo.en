@@ -15,7 +15,7 @@ In Agent Management, view a list of agents in your Dynamic Chat instance, manage
 
 This tab lists all of the agents in your Dynamic Chat instance, and includes such information as their name, email address, live chat status, and more.
 
-PICC2 - NEED SCREENSHOT FROM GUYS
+   ![](assets/agent-management-2.png)
 
 ## Teams {#teams}
 

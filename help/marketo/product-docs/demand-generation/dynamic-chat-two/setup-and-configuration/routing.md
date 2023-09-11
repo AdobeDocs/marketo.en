@@ -17,7 +17,7 @@ Custom rule: You can choose specific agents to receive meetings based on attribu
 
 In this example we're sending all meetings from the inferred states of CA, OR, and WA to agent John.
 
-1. In Dynamic Chat, select **Routing**.
+1. Under Configuration, click **Routing Rules**.
 
    ![](assets/routing-1.png)
 
@@ -29,7 +29,7 @@ In this example we're sending all meetings from the inferred states of CA, OR, a
 
    ![](assets/routing-3.png)
 
-1. Give your rule a name and click **Next**.
+1. Name your rule. Optionally, you can add a description and set its priority level. Click **Next**.
 
    ![](assets/routing-4.png)
 
@@ -48,3 +48,14 @@ In this example we're sending all meetings from the inferred states of CA, OR, a
 1. When all of your desired values are selected, click **Save**.
 
    ![](assets/routing-8.png)
+
+
+## Account Routing {#account-routing}
+
+Identify and upload your target account and respective sales owners and route visitors coming from those accounts directly to the respective account owner.  
+
+   ![](assets/routing-9.png)
+
+Team routing
+
+Member of Smart List routing

@@ -103,90 +103,29 @@ Follow these steps to change your Dynamic Chat language.
 
 When you update the language, everything in the app itself changes except for the words you've personally populated (e.g., stream responses).
 
-## Limits in Dynamic Chat {#limits-in-dynamic-chat}
+## Dynamic Chat Data Retention Limits {#dynamic-chat-data-retention-limits}
 
 <table>
-  <th>Parameter</th>
-  <th>Description</th>
-  <th>Limit</th>
+  <th>Data Type</th>
+  <th>Retention Period</th>
  <tr>
-  <td>Total Dialogues</td>
-  <td>Number of Dialogues (published and draft)</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>Total Calendars</td>
-  <td>Number of Calendars connected</td>
-  <td>25</td>
- </tr>
- <tr>
-  <td>Total Users (Admins and Marketing Users)</td>
-  <td>Number of combined users allowed per Dynamic Chat instance</td>
-  <td>50</td>
- </tr>
- <tr>
-  <td>Published Dialogues</td>
-  <td>Number of published Dialogues saved</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>Target URLs per Dialogue</td>
-  <td>Number of Target URLs that can be added to a single Dialogue</td>
-  <td>20</td>
- </tr>
- <tr>
-  <td>Attributes per Dialogue</td>
-  <td>Number of attributes that can be added to audience criteria for a single Dialogue</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>Groups</td>
-  <td>Number of groups that can be added to a single Dialogue</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>Attributes per Group</td>
-  <td>Number of attributes that can be added to a group</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>Cards</td>
-  <td>Number of cards that can be added to the canvas per Dialogue</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>Anonymous Lead Data Retention Period</td>
-  <td>Duration for how long information of an anonymous lead without any engagement will be retained</td>
+  <td>Anonymous Lead Without Any Engagement</td>
   <td>90 days</td>
  </tr>
  <tr>
-  <td>Goal Activity Retention Period</td>
-  <td>Amount of time goal activity data is retained</td>
+  <td>Goal Activity</td>
   <td>24 months</td>
  </tr>
  <tr>
-  <td>Document Activity Retention Period</td>
-  <td>Amount of time document activity data is retained</td>
+  <td>Document Activity</td>
   <td>24 months</td>
  </tr>
  <tr>
-  <td>Interacted w/ Dialogue Activity Retention Period</td>
-  <td>Amount of time interacted with Dialogue activity data is retained</td>
+  <td>Interacted with Dialogue Activity</td>
   <td>90 days</td>
  </tr>
  <tr>
-  <td>Meeting Booking Activity Retention Period</td>
-  <td>Amount of time meeting booking activity will be stored in Dynamic Chat</td>
+  <td>Meeting Booking Activity</td>
   <td>24 months</td>
- </tr>
- <tr>
-  <td>Conversations Engaged</td>
-  <td>Number of chat conversations that can be engaged with by web visitors per month</td>
-  <td>250</td>
- </tr>
- <tr>
-  <td>Conversations Triggered</td>
-  <td>Number of chat conversations that can be shown to web visitors per month</td>
-  <td>25,000</td>
  </tr>
 </table>
