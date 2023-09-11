@@ -19,7 +19,11 @@ On the upper-right side of the Agent Inbox screen, you have the option to set yo
 
 >[!IMPORTANT]
 >
->**This will override** the [live chat availability](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) you established in Agent Settings. The status will remain until either you switch it back, or to the next block of time in your availability. 
+>**This will override** the [live chat availability](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) you established in Agent Settings. The status will remain until either you switch it back, or to the next block of time in your availability.
+
+>[!NOTE]
+>
+>Setting your status to unavailable will not affect any active chats.
 
 ## Accepting a Live Chat {#accepting-a-live-chat}
 
@@ -30,7 +34,6 @@ When a live chat is routed to the agent, they'll see a blue banner across the to
 ### Things to Note {#things-to-note}
 
 * Agents have 45 seconds to respond before the "Accept chat" message times out.
-* BROWSER TIDBIT
 * There is a limit of 10 live chats per agent at this time
 
 ## Conversations {#conversations}
@@ -38,6 +41,10 @@ When a live chat is routed to the agent, they'll see a blue banner across the to
 On the left side of the Agent Inbox screen, you can choose to display only the active conversations, or all of them.
 
    ![](assets/agent-inbox-4.png)
+
+>[!NOTE]
+>
+>While you can see past (inactive) conversations from yourself and other agents, you will only be able to see your own active conversations.
 
 ## Visitor Information {#visitor-information}
 
@@ -55,8 +62,18 @@ Below the visitor information is activity history. View activity types and dates
 >
 >Information is displayed for the past 90 days only. 
 
-Active conversations-
-All conversations-
-Calendar sharing
-Visitor information-
-Recent Dynamic Chat activities
+## Calendar Sharing {#calendar-sharing}
+
+At the bottom of the live chat window is an icon that allows you to share your or another agent's calendar with the chat visitor.
+
+1. Click the calendar icon.
+
+   ![](assets/agent-inbox-7.png)
+
+1. Choose the desired agent calendar and click **Send**.
+
+   ![](assets/agent-inbox-8.png)
+
+1. The chat visitor will be able to book a meeting.
+
+   ![](assets/agent-inbox-9.png)

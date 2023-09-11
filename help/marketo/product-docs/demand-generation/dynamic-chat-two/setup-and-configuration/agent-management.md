@@ -13,7 +13,7 @@ In Agent Management, view a list of agents in your Dynamic Chat instance, manage
 
 ## Agents {#agents}
 
-This tab lists all of the agents in your Dynamic Chat instance, and includes such information as their name, email address, Live Chat status, and more.
+This tab lists all of the agents in your Dynamic Chat instance, and includes such information as their name, email address, live chat status, and more.
 
 PICC2 - NEED SCREENSHOT FROM GUYS
 
@@ -57,7 +57,7 @@ Select a standard (system) message or write a custom one for visitors to see whe
 
 >[!NOTE]
 >
->Selecting the **Include Meeting Booking Option** checkbox will generate a meeting booking widget for the chat visitor.
+>Selecting the **Include Meeting Booking Option** checkbox will give the chat visitor the option to book a meeting when no agents are available to live chat.
 
 >[!TIP]
 >
