@@ -50,8 +50,8 @@ The stream designer contains multiple cards you can add to shape the chat conver
  <tr>
   <td><strong>Live Chat</strong></td>
   <td>Use the live chat card when you want visitors to chat with a live agent.
-  <li>The live chat card must be the last card in the branch</li>
-  <li>Visitors will be routed to an agent as soon as they reach this card in the stream, so it's recommended to precede this card with a question card asking visitors if they'd like to chat with a live agent</li></td>
+  <li>The live chat card must be the last card in the branch.</li>
+  <li>Visitors will be routed to an agent as soon as they reach this card in the stream, so it's recommended to precede this card with a question card asking visitors if they'd like to chat with a live agent.</li></td>
  </tr>
 </table>
 

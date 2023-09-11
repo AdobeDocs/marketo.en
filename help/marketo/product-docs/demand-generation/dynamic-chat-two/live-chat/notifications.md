@@ -1,13 +1,11 @@
 ---
-description: Doc - Marketo Docs - Product Documentation
-title: Doc
+description: Notifications - Marketo Docs - Product Documentation
+title: Notifications
 hide: yes
 hidefromtoc: yes
 feature: Dynamic Chat
 ---
-# Doc {#doc}
-
-Coming Soon
+# Notifications {#notifications}
 
 Browser
 In app

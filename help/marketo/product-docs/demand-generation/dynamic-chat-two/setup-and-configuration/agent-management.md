@@ -55,6 +55,10 @@ Select a standard (system) message or write a custom one for visitors to see whe
 
    ![](assets/agent-management-9.png)
 
+>[!NOTE]
+>
+>Selecting the **Include Meeting Booking Option** checkbox will generate a meeting booking widget for the chat visitor.
+
 >[!TIP]
 >
 >When creating a custom message, you can style the font, use links, even insert emojis! `:)`
