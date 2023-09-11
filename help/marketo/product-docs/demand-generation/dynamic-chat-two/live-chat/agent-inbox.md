@@ -27,7 +27,7 @@ When a live chat is routed to the agent, they'll see a blue banner across the to
 
    ![](assets/agent-inbox-3.png)
 
-### Things to Note {things-to-note}
+### Things to Note {#things-to-note}
 
 * Agents have 45 seconds to respond before the "Accept chat" message times out.
 * BROWSER TIDBIT
