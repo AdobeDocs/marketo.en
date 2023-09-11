@@ -9,7 +9,7 @@ feature: Dynamic Chat
 
 ## Connecting Dynamic Chat {#connecting-dynamic-chat}
 
-After you've completed the [initial setup](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}, it's time to perform the one-time sync connecting Dynamic Chat to your Marketo subscription.
+After you've completed the [initial setup](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}, it's time to perform the one-time sync connecting Dynamic Chat to your Adobe Marketo Engage subscription.
 
 1. In My Marketo, click the **Dynamic Chat** tile.
 

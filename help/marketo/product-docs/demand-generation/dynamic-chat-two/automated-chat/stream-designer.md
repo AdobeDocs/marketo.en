@@ -37,7 +37,11 @@ The stream designer contains multiple cards you can add to shape the chat conver
  </tr>
  <tr>
   <td><strong>Appointment Scheduler</strong></td>
-  <td>Provides the visitor with a calendar of available dates to schedule a follow-up. Calendar availability reflects <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">the next agent in line</a>.</td>
+  <td>Provides the visitor with a calendar of available dates to schedule a follow-up. Calendar availability reflects <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">the next agent in line</a>. There's also an option to pass along attributes such as the agent's name or email address.</td>
+ </tr>
+ <tr>
+  <td><strong>Meeting Booking</strong></td>
+  <td>Provides the visitor with a calendar of available dates to schedule a meeting. Choose the calendar availability via round robin, a specific agent's, or using custom rules.</td>
  </tr>
  <tr>
   <td><strong>Goal</strong></td>
@@ -62,19 +66,19 @@ In the upper-right of the Stream Designer, you'll see a handful of icons. Here's
 <table>
  <tr>
   <td><img src="assets/stream-designer-1.png"></td>
-  <td>Adds a grid to the background for those who prefer that view</td>
- </tr>
- <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
   <td>Zooms in, creating larger cards</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td><img src="assets/stream-designer-2.png"></td>
   <td>Zooms out, creating smaller cards</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td><img src="assets/stream-designer-3.png"></td>
   <td>Opens a window for you to test your chat (press the same button to close)</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-4.png"></td>
+  <td>Allows you to search card types or content within your stream</td>
  </tr>
  <tr>
   <td><img src="assets/stream-designer-5.png"></td>
@@ -205,4 +209,3 @@ In the upper-right of the Stream Designer, you'll see a handful of icons. Here's
 >* [Audience Criteria](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 >* [Reports](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
 >* [Using the Document Card](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}
-

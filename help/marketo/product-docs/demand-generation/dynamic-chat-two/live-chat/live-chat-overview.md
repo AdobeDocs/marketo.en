@@ -20,7 +20,7 @@ Use the live chat card in the [stream designer](/help/marketo/product-docs/deman
 **Best Practices**
 
 * Use a question card before the live chat card asking the visitor if they'd like to connect.
-* After the visitor agrees to connect, use the info capture card to get some of their info, like first/last name, email address, job title, etc. (it's recommended to at least request first name and email address)
+* After the visitor agrees to connect, use the information capture card to collect some of their info, like first/last name, email address, job title, etc. (it's recommended to at least request first name and email address).
 
 ## Live Chat Card Options {#live-chat-card-options}
 

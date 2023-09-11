@@ -13,6 +13,10 @@ Make Marketo Engage Forms conversational by integrating them with Dynamic Chat C
 >
 >ADD PREREQ HERE
 
+>[!AVAILABILITY]
+>
+>Member of Smart List or Member of List criteria requires Dynamic Chat Prime.
+
 1. Find and select your form (or create a new one).
 
    ![](assets/conversational-flow-settings-1.png)

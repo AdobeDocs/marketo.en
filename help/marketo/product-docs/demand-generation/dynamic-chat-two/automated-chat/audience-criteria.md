@@ -17,8 +17,6 @@ Priority determines which Dialogue a lead receives in the case they qualify for 
 
 ## Events {#events}
 
-   ![](assets/audience-criteria-2.png)
-
 Events allow you to target visitors based on how much they scroll or how long they're on your page/site. In the example below, we're targeting visitors who have been on a specific page for more than 20 seconds.
 
 1. Grab the **Time on Page** event and drag it to the right.
@@ -34,8 +32,6 @@ Events allow you to target visitors based on how much they scroll or how long th
    ![](assets/audience-criteria-5.png)
 
 ## Attributes {#attributes}
-
-   ![](assets/audience-criteria-6.png)
 
 **Known People**
 
@@ -90,6 +86,18 @@ There's an easy way to specifically target people who are not in your database y
 1. _Is_ is set by default. In the Select Values field, type in NY (you can also click the drop-down and select from the list).
 
    ![](assets/audience-criteria-15.png)
+
+## Membership {#membership}
+
+Use Marketo Engage Smart Lists for your Dialogue's target audience.
+
+1. Under Membership, grab **Member of Smart List** and drop it onto the canvas.
+
+   ![](assets/audience-criteria-15a.png)
+
+1. Select your desired Smart List.
+
+   ![](assets/audience-criteria-15b.png)
 
 ## Add Groups {#add-groups}
 
