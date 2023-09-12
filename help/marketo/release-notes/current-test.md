@@ -16,7 +16,6 @@ Below you'll find all the features included in the September '23 release. Check 
 ## Standard Release Cycle Features {#standard-release-cycle-features}
 
 The following features fall under the standard release cycle and will start to be released on **September 8, 2023**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
-</br>
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
@@ -66,7 +65,7 @@ The following features fall under the standard release cycle and will start to b
 
 All features below follow an Agile format and are released on various dates before or after the standard release date. Please check next to each feature for its status.
 </br>
-<table style="table-layout:auto"> 
+<table style="border: none">
  <tbody> 
   <tr> 
    <th style="width:65%">Feature</th> 
@@ -83,7 +82,7 @@ All features below follow an Agile format and are released on various dates befo
 
 ### Dynamic Chat {#dynamic-chat}
 
-<table style="table-layout:auto"> 
+ <table style="border: 0px">
  <tbody> 
   <tr> 
    <th style="width:65%">Feature</th> 
