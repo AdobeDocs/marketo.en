@@ -655,7 +655,6 @@ feature-set: Marketo Engage
         + [Create a Dialogue](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
         + [Audience Criteria](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)
         + [Stream Designer](product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md)
-        + [Reports](product-docs/demand-generation/dynamic-chat-two/automated-chat/reports.md)
       + Integrations {#integrations}
         + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-marketo-engage.md)
         + [Adobe PDF Embed API](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md)

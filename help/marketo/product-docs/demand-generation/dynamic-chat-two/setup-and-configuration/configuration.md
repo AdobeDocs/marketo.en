@@ -23,7 +23,7 @@ There are several different customization options.
 
 This is where you'll define the look and feel of the chatbot where your Dialogues will be shown, including: colors, fonts, placement of the bot widget, and the chatbot's name/avatar.
 
-Each category's color is determined by a [hexadecimal color value](https://color.adobe.com/create/color-wheel) (e.g., white = #ffffff, red = #bf1932, etc.).
+Each category's color is determined by a [hexadecimal color value](https://color.adobe.com/create/color-wheel){target="_blank"} (e.g., white = #ffffff, red = #bf1932, etc.).
 
    ![](assets/configuration-3.png)
 

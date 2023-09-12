@@ -15,7 +15,7 @@ Design a Conversational Flow and trigger it to any visitor based on a specific a
 
 While Dialogues and Conversational Flows have several similarities, they are two separate features.
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
    <th style="width:50%">Dialogues</th> 

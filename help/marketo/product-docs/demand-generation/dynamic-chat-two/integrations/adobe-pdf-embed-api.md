@@ -39,5 +39,5 @@ The Document card allows you to embed PDF documents in Dialogues and track docum
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-You can now use the Document card in your Dialogues' [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)!
+You can now use the Document card in your Dialogues' [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"}!
 

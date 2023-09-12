@@ -11,7 +11,7 @@ Follow the steps below to add or remove chat users.
 
 ## Add a Chat User {#add-a-chat-user}
 
-1. Log in to the [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Log in to the [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-1.png)
 
@@ -65,7 +65,7 @@ If the newly added Chat user's Marketo role doesn't already have Dynamic Chat pe
 
 ## Remove a Chat User {#remove-a-chat-user}
 
-1. Log in to the [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Log in to the [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-12.png)
 
@@ -95,5 +95,5 @@ If the newly added Chat user's Marketo role doesn't already have Dynamic Chat pe
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console Users](https://helpx.adobe.com/enterprise/using/users.html)
->* [Manage Users Individually](https://helpx.adobe.com/enterprise/using/manage-users-individually.html)
+>* [Adobe Admin Console Users](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [Manage Users Individually](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}
