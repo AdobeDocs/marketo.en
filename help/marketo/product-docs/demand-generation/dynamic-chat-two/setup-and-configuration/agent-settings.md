@@ -77,7 +77,7 @@ Set your time zone and time/day of week availabilty to receive live chats.
 
    ![](assets/agent-settings-5.png)
 
-If you're logged in to the app, you'll receive an in-app notification of an incoming chat. If you're not logged in, you'll receive a browser notification (in Google Chrome).
+If you're logged in to the app, you'll receive an in-app notification of an incoming chat. If you're not logged in, you'll receive a browser notification.
 
 >[!IMPORTANT]
 >

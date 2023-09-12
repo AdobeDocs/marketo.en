@@ -15,7 +15,7 @@ Make Marketo Engage Forms conversational by integrating them with Dynamic Chat C
 
 >[!AVAILABILITY]
 >
->Member of Smart List or Member of List criteria requires Dynamic Chat Prime. Adobe Account Team!!!!!!!!!!!!!!
+>Member of Smart List or Member of List criteria requires Dynamic Chat Prime. Please contact the Adobe Account Team (your Account Manager) for details.
 
 1. Find and select your form (or create a new one).
 

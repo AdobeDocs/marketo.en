@@ -19,17 +19,24 @@ On the upper-right side of the Agent Inbox screen, you have the option to set yo
 
 >[!IMPORTANT]
 >
->**This will override** the [live chat availability](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) you established in Agent Settings. The status will remain until either you switch it back, or to the next block of time in your availability.
+>**This will override** the [live chat availability](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} you established in Agent Settings. The status will remain until either you switch it back, or to the next block of time in your availability.
 
 >[!NOTE]
 >
 >Setting your status to unavailable will not affect any active chats.
 
-## Accepting a Live Chat {#accepting-a-live-chat}
+## Live Chat Notifications {#live-chat-notifications}
 
-When a live chat is routed to the agent, they'll see a blue banner across the top of the screen asking them to accept.
+When a live chat is routed to an agent, they'll see a blue banner across the top of the screen asking them to accept.
 
    ![](assets/agent-inbox-3.png)
+
+>[!TIP]
+>
+>You also have the option to set up browser notifications, which will alert you in case you're not logged in to Dynamic Chat.
+>
+>* Enable browser notifications in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Enable browser notifications in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### Things to Note {#things-to-note}
 
