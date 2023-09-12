@@ -29,4 +29,4 @@ Here's how to create a new Conversational Flow.
 
 >[!MORELIKETHIS]
 >
->[Conversational Forms Overview](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md){target="_blank"}
+>[Conversational Forms Overview](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}

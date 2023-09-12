@@ -43,7 +43,7 @@ Make Marketo Engage Forms conversational by integrating them with Dynamic Chat C
 
    >[!NOTE]
    >
-   >[Learn more about Conversational Flows](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md){target="_blank"}
+   >[Learn more about Conversational Flows](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}
 
    **OPTIONAL STEP**: You can click Add Choice to target chat visitors that meet a specific criteria. 
 
