@@ -64,7 +64,7 @@ The following features fall under the standard release cycle and will start to b
 ## Agile Release Features {#agile-release-features}
 
 All features below follow an Agile format and are released on various dates before or after the standard release date. Please check next to each feature for its status.
-</br>
+
 <table style="border: none">
  <tbody> 
   <tr> 
@@ -91,8 +91,8 @@ All features below follow an Agile format and are released on various dates befo
   </tr> 
   <tr> 
    <td><strong>Action Card in Stream Designer</strong>: Marketers can use action cards in the Dialogue stream to pass hidden values to the Marketo Engage person record when visitors engage with a Dialogue.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md#stream-designer-cards" target="_blank">Stream Designer Cards</a></td>
   </tr>
    <tr> 
    <td>&nbsp;</td> 
@@ -101,8 +101,8 @@ All features below follow an Agile format and are released on various dates befo
   </tr>
    <tr> 
    <td><strong>Conversational Forms with Marketo Engage Forms</strong>: Make Marketo Engage Forms conversational by integrating them with Dynamic Chat Conversational Flows. Instantly qualify leads using form data or Smart List membership for meeting bookings, white paper links, or custom goals.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Conversational Forms</a></td>
   </tr>
    <tr> 
    <td>&nbsp;</td> 
@@ -111,8 +111,8 @@ All features below follow an Agile format and are released on various dates befo
   </tr>
     <tr> 
    <td><strong>Conversations SDK</strong>: Turn any form, landing page, or almost any web page into engaging meeting booking experiences.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md#conversations-sdk" target="_blank">Conversations SDK</a></td>
   </tr>
    <tr> 
    <td>&nbsp;</td> 
@@ -121,8 +121,8 @@ All features below follow an Agile format and are released on various dates befo
   </tr>
   <tr> 
    <td><strong>Custom Meeting Booking Settings</strong>: Agents can set custom meeting booking settings such as availability, meeting length, and 'buffer time' between meetings.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#meeting-booking-availability" target="_blank">Custom Meeting Booking Settings</a></td>
   </tr>
    <tr> 
    <td>&nbsp;</td> 
@@ -131,8 +131,8 @@ All features below follow an Agile format and are released on various dates befo
   </tr>
    <tr> 
    <td><strong>Fallback Settings</strong>: Admins can set custom fallback settings to define what visitors see when agents are not available to chat.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#fallback-rules" target="_blank">Fallback Rules</a></td>
   </tr>
    <tr> 
    <td>&nbsp;</td> 
@@ -141,8 +141,8 @@ All features below follow an Agile format and are released on various dates befo
   </tr>
     <tr> 
    <td><strong>Global Performance Dashboard</strong>: See how well your Dialogues are performing, including engagement and performance metrics (total and over a time), top performing pages, and top performing Dialogues.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#global-performance-dashboard" target="_blank">Global Performance Dashboard</a></td>
   </tr>
    <tr> 
    <td>&nbsp;</td> 
@@ -151,8 +151,8 @@ All features below follow an Agile format and are released on various dates befo
   </tr>
    <tr> 
    <td><strong>Live Chat</strong>: Web visitors can chat with sales agents in real time to get their questions answered.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md" target="_blank">Live Chat Overview</a></td>
   </tr>
    <tr> 
    <td>&nbsp;</td> 
@@ -161,8 +161,8 @@ All features below follow an Agile format and are released on various dates befo
   </tr>
    <tr> 
    <td><strong>Live Chat Performance Dashboard</strong>: View how many conversations your live sales agents had and which teams are performing the best.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#live-chat-performance-dashboard" target="_blank">Live Chat Performance Dashboard</a></td>
   </tr>
    <tr> 
    <td>&nbsp;</td> 
@@ -171,8 +171,8 @@ All features below follow an Agile format and are released on various dates befo
   </tr>
     <tr> 
    <td><strong>Marketo Engage Smart List Targeting</strong>: Marketers can target members of Marketo Engage Smart Lists in Dialogue audience criteria.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md#membership" target="_blank">Membership</a></td>
   </tr>
    <tr> 
    <td>&nbsp;</td> 
@@ -181,8 +181,8 @@ All features below follow an Agile format and are released on various dates befo
   </tr>
   <tr> 
    <td><strong>Meeting Performance Dashboard</strong>: See how many meetings are being booked and who they're being booked with.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#meeting-performance-dashboard" target="_blank">Meeting Performance Dashboard</a></td>
   </tr>
    <tr> 
    <td>&nbsp;</td> 
@@ -191,8 +191,8 @@ All features below follow an Agile format and are released on various dates befo
   </tr>
    <tr> 
    <td><strong>New Dynamic Chat Activities</strong>: New activities to support Conversational Flows, Live Chat, and other new features.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md" target="_blank">Dynamic Chat Activities</a></td>
   </tr>
    <tr> 
    <td>&nbsp;</td> 
@@ -201,8 +201,8 @@ All features below follow an Agile format and are released on various dates befo
   </tr>
     <tr> 
    <td><strong>Real-time Live Chat Notifications</strong>: When visitors request to live chat, agents receive real-time in-app and browser notifications.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#live-chat-notifications" target="_blank">Live Chat Notifications</a></td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
@@ -211,8 +211,8 @@ All features below follow an Agile format and are released on various dates befo
   </tr>
     <tr> 
    <td><strong>Teams</strong>: Create teams of agents that visitors can be routed to for live chat or meeting bookings.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#teams" target="_blank">Teams</a></td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
@@ -221,8 +221,8 @@ All features below follow an Agile format and are released on various dates befo
   </tr>
     <tr> 
    <td><strong>Trigger Tokens for New Activities</strong>: New trigger tokens are available to support the new activities for Dynamic Chat.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md#dynamic-chat-trigger-tokens" target="_blank">Dynamic Chat Trigger Tokens</a></td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
