@@ -59,7 +59,7 @@ The Dynamic Chat JavaScript snippet can be installed on any website as well as M
 
 **How long is data stored for reporting?**
 
-90 days (see the full list of limits [below](#limits-in-dynamic-chat)).
+90 days.
 
 **Does Dynamic Chat allow for live chat?**
 
