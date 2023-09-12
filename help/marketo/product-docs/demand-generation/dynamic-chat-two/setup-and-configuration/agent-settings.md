@@ -58,7 +58,7 @@ Set your time zone and time/day of week availabilty to receive meeting bookings.
  <tbody> 
   <tr> 
    <td><b>Meeting duration</b></td>
-   <td>Maximum meeting length. - WHAT HAPPENS? AUTO STOPS LIKE ZOOM?</td>
+   <td>Determines the length of time visitors will see in your available meeting slots.</td>
   </tr> 
   <tr> 
    <td><b>Buffer time between meetings</b></td>
