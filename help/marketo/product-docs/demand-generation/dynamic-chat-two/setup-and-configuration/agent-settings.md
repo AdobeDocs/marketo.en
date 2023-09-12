@@ -58,11 +58,11 @@ Set your time zone and time/day of week availabilty to receive meeting bookings.
  <tbody> 
   <tr> 
    <td><b>Meeting duration</b></td>
-   <td>Maximum meeting length. - WHAT HAPPENS? AUTO ENDING?</td>
+   <td>Maximum meeting length. - WHAT HAPPENS? AUTO STOPS LIKE ZOOM?</td>
   </tr> 
   <tr> 
    <td><b>Buffer time between meetings</b></td>
-   <td>Amount of time you set as a buffer for after the meeting. If you set it for 30 minutes, no one will be able to book a meeting with you until 31 minutes after the scheduled end of a meeting on your calendar. - 31 or 30???????????</td>
+   <td>Amount of time you set as a buffer for after the meeting. If you set it for 30 minutes, no one will be able to book a meeting with you until 30 minutes after the scheduled end of a meeting on your calendar.</td>
   </tr>
  </tbody> 
 </table>
@@ -77,11 +77,11 @@ Set your time zone and time/day of week availabilty to receive live chats.
 
    ![](assets/agent-settings-5.png)
 
-If you're logged in to the app, you'll receive an in-app notification of an incoming chat. If you're not logged in, you'll receive a browser notification.
+If you're logged in to the app, you'll receive an in-app notification of an incoming chat. If you're not logged in, you'll receive a browser notification (if you've [set that up](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
 
 >[!IMPORTANT]
 >
->The [availability toggle](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} in the Agent Inbox **will override** what you enter in the Live Chat Availability tab. So if you're scheduled as available from 1p-5p but need to take a quick break at 3p, you don't need to alter your agent settings. Availability toggle status will remain until you manually switch it, or until the next block of time in your availability is reached.
+>The [availability toggle](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} in the Agent Inbox **will override** what you enter in the Live Chat Availability tab. So if you're scheduled as available from 1p-5p but need to take a quick break at 3p, you don't need to alter your agent settings. Availability toggle status will remain until you manually change it, or until the next block of time in your availability is reached.
 
 >[!TIP]
 >

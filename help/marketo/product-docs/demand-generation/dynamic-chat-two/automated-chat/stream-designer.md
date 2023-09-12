@@ -11,7 +11,7 @@ There are _many_ stream combinations possible. This article contains an example 
 
 >[!PREREQUISITES]
 >
->Before you can use the Document card, you must first [set it up](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"} in your Adobe account.
+>Before you can use the Document card, you must first [set it up](/help/marketo/product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md){target="_blank"} in your Adobe account.
 
 ## Stream Designer Cards {#stream-designer-cards}
 
@@ -84,7 +84,9 @@ In the upper-right of the Stream Designer, you'll see a handful of icons. Here's
 
 ## Create a Stream {#create-a-stream}
 
-1. After you've [created your dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}, click the **Stream Designer** tab.
+You can create streams for Dialogues or [Conversational Forms](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}. In this example, we'll create one for a Dialogue.
+
+1. After you've [created your Dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}, click the **Stream Designer** tab.
 
    ![](assets/stream-designer-6.png)
 

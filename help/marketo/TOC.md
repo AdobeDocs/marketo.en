@@ -648,10 +648,9 @@ feature-set: Marketo Engage
       + [Dynamic Chat Activities](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md)
       + [Analytics](product-docs/demand-generation/dynamic-chat-two/analytics.md)
       + Automated Chat {#automated-chat}
-        + [Conversational Flows Overview](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
+        + [Conversational Flow Overview](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md)
         + [Create a Conversational Flow](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
         + [Conversational Flow Settings for Marketo Engage Forms](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
-        + [Conversations SDK](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
         + [Dialogue Overview](product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md)
         + [Create a Dialogue](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
         + [Audience Criteria](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)

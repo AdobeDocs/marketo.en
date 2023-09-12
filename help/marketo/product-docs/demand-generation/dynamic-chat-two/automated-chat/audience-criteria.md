@@ -7,7 +7,7 @@ feature: Dynamic Chat
 ---
 # Audience Criteria {#audience-criteria}
 
-Similar to Marketo Smart Lists, Audience Criteria attributes allow you to define your target audience. You can target known or unknown people using inferred, person, or company attributes (or a combination thereof).
+Similar to Marketo Engage Smart Lists, Audience Criteria attributes allow you to define your target audience. You can target known or unknown people using inferred, person, or company attributes (or a combination thereof).
 
 ## Priority {#priority}
 

@@ -55,6 +55,18 @@ Identify and upload your target account and respective sales owners and route vi
 
    ![](assets/routing-9.png)
 
-Team routing - DELETE THESE REFERENCES FOR NOW
+### Add an Account {#add-an-account}
 
-Member of Smart List routing - POSSIBLY DELAYED
+In this example, we'll route all employees from Lego directly to agent Steven.
+
+1. In the Account Routing tab, click **+ Add Account**.
+
+   ![](assets/routing-10.png)
+
+   >[!TIP]
+   >
+   >You can create multiple Accounts at once by clicking **Upload Account List** and uploading a CSV.
+
+1. Enter the company's name, domain, and select the desired agent.
+
+   ![](assets/routing-11.png)
