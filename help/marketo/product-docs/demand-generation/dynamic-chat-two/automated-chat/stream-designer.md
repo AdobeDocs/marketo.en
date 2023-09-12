@@ -33,15 +33,11 @@ The stream designer contains multiple cards you can add to shape the chat conver
  </tr>
  <tr>
   <td><strong>Information Capture</strong></td>
-  <td>Use when you want to collect information. The three fields to choose from are Email Address, Phone Number, and Text (which allows the visitor to write their own message).</td>
- </tr>
- <tr>
-  <td><strong>Appointment Scheduler</strong></td>
-  <td>Provides the visitor with a calendar of available dates to schedule a follow-up. Calendar availability reflects <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">the next agent in line</a>. There's also an option to pass along attributes such as the agent's name or email address.</td>
+  <td>Use when you want to collect information (e.g., name, email address, job title, etc.). After you choose which field to attribute their response to, you can choose from letting the visitor type in their response, or select options from a picklist that you determine (tip: the latter can help with database cleanliness). You can also choose to overwrite whatever data you currently have listed for them with their response, or, skip the question entirely if you already have a value for them.</td>
  </tr>
  <tr>
   <td><strong>Meeting Booking</strong></td>
-  <td>Provides the visitor with a calendar of available dates to schedule a meeting. Choose the calendar availability via round robin, a specific agent's, or using custom rules.</td>
+  <td>Provides the visitor with a calendar of available dates to schedule a meeting. Choose the calendar availability via round robin, a specific agent, or using custom rules. Click <b>Add Attribute</b> if you want to capture the agent's name or email address and assign it to the chat visitor's person record for future querying (tip: create a <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">custom field</a> to map the agent's info to as to not overwrite a standard Marketo Engage field).</td>
  </tr>
  <tr>
   <td><strong>Goal</strong></td>
