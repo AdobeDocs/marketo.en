@@ -8,21 +8,23 @@ hidefromtoc: yes
 
 Starting a new job or taking over an existing instance from another admin? Taking over a live instance that's been running for a while can seem a little daunting, but this guide will help you get up and running in no time.
 
-## Items to Check Off {#items-to-check-off}
+## Get Set up in the Marketing Nation {#get-set-up-in-the-marketing-nation}
 
-Make sure you're properly set up with the right kinds of access and information.
+Make sure you're properly set up in the Marketo Community.
 
-* Watch a short overview of **what Marketo does** - KG - EITHER FIND BETTER VIDEO OR DELETE
+* **[Set up your profile]**(https://nation.marketo.com/){target="_blank"}.
 
-* **Set up your profile** in the [**Marketing Nation**](https://nation.marketo.com/){target="_blank"} community (username and password required).
+* [**Set up your profile**](https://nation.marketo.com/){target="_blank"}.
 
-* Read up on the [**Marketing Community Guidelines**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+* **[Set up your profile](https://nation.marketo.com/)**{target="_blank"}.
+
+* **[Set up your profile](https://nation.marketo.com/){target="_blank"}**.
+
+* Read up on the [**Marketing Community guidelines**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
 * Click **[!UICONTROL Your Places]** on your Marketo Nation community profile to check out your company's Account Page.
 
 * Learn how to [**submit a support case**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
-
-* [**Manage users**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target="_blank"} and delete those who have left your company.
 
 ## Inherited Instance Audit Guides {#inherited-instance-audit-guides}
 

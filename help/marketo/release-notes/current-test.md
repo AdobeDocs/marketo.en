@@ -248,6 +248,7 @@ All features below follow an Agile format and are released on various dates befo
   </tr>
  </tbody> 
 </table>
+<br/>
 
 ## Announcements {#announcements}
  
