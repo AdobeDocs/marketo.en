@@ -13,6 +13,10 @@ Round robin: Meetings get assigned to agents sequentially. So if you have five a
 
 Custom rule: You can choose specific agents to receive meetings based on attributes you select.
 
+>[!NOTE]
+>
+>Account Routing is given the highest priority. When a visitor reaches the point in the conversation to either book a meeting or initiate a live chat, [Account Routing](#account-routing) is checked first before other routing options are considered.
+
 ## Create a Custom Rule {#create-a-custom-rule}
 
 In this example we're sending all meetings from the inferred states of CA, OR, and WA to agent John.
