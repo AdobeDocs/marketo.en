@@ -9,10 +9,6 @@ feature: Dynamic Chat
 
 Make Marketo Engage Forms conversational by integrating them with Dynamic Chat Conversational Flows. Instantly qualify leads using form data or Smart List membership for meeting bookings, white paper links, or custom goals.
 
->[!PREREQUISITES]
->
->ADD PREREQ HERE
-
 >[!AVAILABILITY]
 >
 >Member of Smart List or Member of List criteria requires Dynamic Chat Prime. Please contact the Adobe Account Team (your Account Manager) for details.

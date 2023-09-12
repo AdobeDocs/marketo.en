@@ -111,11 +111,9 @@ The following features fall under the standard release cycle and will start to b
 
 * more space
 
-* end of test... FOR NOW
-
 * **Used By Count Column for Design Studio Assets**: 
 
-<table> 
+<table width="400">
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -129,7 +127,7 @@ The following features fall under the standard release cycle and will start to b
 
 * **Used By Tab Enhancements for Design Studio Assets**: The Used By Enhancement tab provides a more detailed view of the type and name of an asset, along with where it's being used. This is applicable for Email Details and Images & Files Details.
 
-<table> 
+<table width="400px">
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentation Updates</b></td>
@@ -140,6 +138,12 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   </tbody>
 </table>
+
+* space
+
+* more space
+
+* end of test... FOR NOW
 
 * **Compute Formula Flow Step Service**: Compute Formula is a Flow Step Service Built on Adobe's IO Runtime platform for use with Marketo Engage Smart Campaigns. Adobe clients with IO runtime can deploy the service and install it to their Marketo Engage subscriptions, allowing them to compute Excel-like formulas in Marketo Smart Campaigns.
 

@@ -322,6 +322,6 @@ The following features follow an Agile format and are released on various dates 
 
 ## Announcements {#announcements}
  
-* **Toggle Switch Deprecation for Design Studio Assets**: The toggle switch that allows users to switch between the classic interface and Modern UX experience for Design Studio will be deprecated, along with the old version of the Design Studio experience, allowing users to completely migrate to the Modern UX experience.
+* **Toggle Switch Deprecation for Design Studio Assets**: The toggle switch that allows users to switch between the classic interface and Modern UX experience for Design Studio will be deprecated, along with the old version of the Design Studio experience, allowing users to completely migrate to the Modern UX experience. [Learn more here](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
 
 * **_Product Release Webinar_**: Join us on September 6, 2023, at 9:00 AM PT / 12:00 PM ET for a [live webinar](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} hosted by our Product Team where you'll see how to use all of the latest product innovations.
