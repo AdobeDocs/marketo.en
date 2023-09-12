@@ -662,7 +662,6 @@ feature-set: Marketo Engage
       + Live Chat {#live-chat}
         + [Live Chat Overview](product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md)
         + [Agent Inbox](product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md)
-        + [Notifications](product-docs/demand-generation/dynamic-chat-two/live-chat/notifications.md)
       + Setup and Configuration {#setup-and-configuration}
         + [Initial Setup](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/initial-setup.md)
         + [Add or Remove Chat Users](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/add-or-remove-chat-users.md)

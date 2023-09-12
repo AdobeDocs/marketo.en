@@ -7,6 +7,10 @@ feature: Dynamic Chat
 ---
 # Notifications {#notifications}
 
+COMING SOON
+
 Browser
+
 In app
+
 MSI Actions
