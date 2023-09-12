@@ -51,5 +51,4 @@ Clicking on the live chat card in the stream allows you to choose how the visito
 
 >[!MORELIKETHIS]
 >
->* [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md){target="_blank"}
->* [Notifications](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/notifications.md){target="_blank"}
+>[Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md){target="_blank"}
