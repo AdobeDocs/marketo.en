@@ -37,6 +37,6 @@ View how many conversations your live sales agents had and which teams are perfo
 
 ![](assets/analytics-6.png)
 
-View Dialogues, Conversational Flows, or all. Select a preset or custom date range. Export your results via the click of a button.
+View Dialogues, Conversational Flows, or all. Select a preset or custom date range. Export your results with the click of a button.
 
 ![](assets/analytics-7.png)

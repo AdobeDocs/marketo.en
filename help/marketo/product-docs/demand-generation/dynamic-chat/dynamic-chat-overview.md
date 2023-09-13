@@ -45,6 +45,10 @@ This is where you can see a list of all the agents that have connected their cal
 
 Offer your qualified web visitors to connect with your sales representatives via [live chat](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
 
+## Conversational Flow {#conversational-flow}
+
+[Design a conversation](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} that can be triggered by a visitor based on an action you designate (e.g., filling out a form, clicking a link, etc.).
+
 ## FAQ {#faq}
 
 **Can I install Dynamic Chat anywhere on my company website or does it only work on Marketo landing pages?**

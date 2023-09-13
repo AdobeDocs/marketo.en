@@ -39,13 +39,13 @@ While Dialogues and Conversational Flows have several similarities, they are two
  </tbody> 
 </table>
 
-## Stream Designer tab {#stream-designer-tab}
+## Stream Designer Tab {#stream-designer-tab}
 
 The Stream Designer for Conversational Flows is nearly identical to the one for Dialogues. [Learn all about it here](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.
 
    ![](assets/conversational-flow-overview-2.png)
 
-## Reports tab {#reports-tab}
+## Reports Tab {#reports-tab}
 
 The Reports tab is where you'll be able to see metrics around how well your Conversational Flow is performing.
 
@@ -55,7 +55,7 @@ View engagement rate, conversion rate, filter by known and/or unknown visitors, 
 
    ![](assets/conversational-flow-overview-4.png)
 
-## Settings tab {#settings-tab}
+## Settings Tab {#settings-tab}
 
    ![](assets/conversational-flow-overview-5.png)
 
