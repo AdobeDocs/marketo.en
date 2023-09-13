@@ -1,8 +1,6 @@
 ---
 description: Initial Setup - Marketo Docs - Product Documentation
 title: Initial Setup
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Initial Setup {#initial-setup}

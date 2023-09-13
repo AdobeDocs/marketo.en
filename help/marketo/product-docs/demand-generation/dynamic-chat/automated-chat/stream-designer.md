@@ -1,8 +1,6 @@
 ---
 description: Stream Designer - Marketo Docs - Product Documentation
 title: Stream Designer
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Stream Designer {#stream-designer}

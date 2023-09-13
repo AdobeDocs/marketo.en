@@ -1,8 +1,6 @@
 ---
 description: Meeting List - Marketo Docs - Product Documentation
 title: Meeting List
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Meeting List {#meeting-list}

@@ -1,8 +1,6 @@
 ---
 description: Adobe Marketo Engage - Marketo Docs - Product Documentation
 title: Adobe Marketo Engage
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Adobe Marketo Engage {#adobe-marketo-engage}

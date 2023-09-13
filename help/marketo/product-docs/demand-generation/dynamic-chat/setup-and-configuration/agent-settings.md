@@ -1,8 +1,6 @@
 ---
 description: Agent Settings - Marketo Docs - Product Documentation
 title: Agent Settings
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Agent Settings {#agent-settings}

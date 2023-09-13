@@ -1,8 +1,6 @@
 ---
 description: Dynamic Chat Activities - Marketo Docs - Product Documentation
 title: Dynamic Chat Activities
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Dynamic Chat Activities {#dynamic-chat-activities}

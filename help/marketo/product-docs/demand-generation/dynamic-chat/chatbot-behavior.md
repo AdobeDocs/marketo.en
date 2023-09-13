@@ -1,8 +1,6 @@
 ---
 description: Chatbot Behavior - Marketo Docs - Product Documentation
 title: Chatbot Behavior
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Chatbot Behavior {#chatbot-behavior}

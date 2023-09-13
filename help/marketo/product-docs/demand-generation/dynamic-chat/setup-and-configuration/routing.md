@@ -1,8 +1,6 @@
 ---
 description: Routing - Marketo Docs - Product Documentation
 title: Routing
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Routing {#routing}

@@ -1,8 +1,6 @@
 ---
 description: Add or Remove Chat Users - Marketo Docs - Product Documentation
 title: Add or Remove Chat Users
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Add or Remove Chat Users {#add-or-remove-chat-users}

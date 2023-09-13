@@ -1,8 +1,6 @@
 ---
 description: Audience Criteria - Marketo Docs - Product Documentation
 title: Audience Criteria
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Audience Criteria {#audience-criteria}

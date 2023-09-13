@@ -1,8 +1,6 @@
 ---
 description: Conversational Flow Settings For Marketo Engage Forms - Marketo Docs - Product Documentation
 title: Conversational Flow Settings For Marketo Engage Forms
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Conversational Flow Settings For Marketo Engage Forms{#conversational-flow-settings-for-marketo-engage-forms}

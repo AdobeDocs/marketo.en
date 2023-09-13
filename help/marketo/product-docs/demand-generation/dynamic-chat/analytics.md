@@ -1,8 +1,6 @@
 ---
 description: Analytics - Marketo Docs - Product Documentation
 title: Analytics
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Analytics {#analytics}

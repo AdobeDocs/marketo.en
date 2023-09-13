@@ -1,8 +1,6 @@
 ---
 description: Conversational Flow Overview - Marketo Docs - Product Documentation
 title: Conversational Flow Overview
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Conversational Flow Overview {#conversational-flow-overview}

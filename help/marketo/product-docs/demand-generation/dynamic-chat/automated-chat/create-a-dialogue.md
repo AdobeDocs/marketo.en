@@ -1,8 +1,6 @@
 ---
 description: Create a Dialogue - Marketo Docs - Product Documentation
 title: Create a Dialogue
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Create a Dialogue {#create-a-dialogue}

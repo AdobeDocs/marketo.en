@@ -1,8 +1,6 @@
 ---
 description: Configuration - Marketo Docs - Product Documentation
 title: Configuration
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Configuration {#configuration}

@@ -1,8 +1,6 @@
 ---
 description: Security Settings - Marketo Docs - Product Documentation
 title: Security Settings
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Security Settings {#security-settings}

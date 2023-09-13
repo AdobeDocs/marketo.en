@@ -1,8 +1,6 @@
 ---
 description: Create a Conversational Flow - Marketo Docs - Product Documentation
 title: Create a Conversational Flow
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Create a Conversational Flow {#create-a-conversational-flow}

@@ -1,8 +1,6 @@
 ---
 description: Adobe PDF Embed API - Marketo Docs - Product Documentation
 title: Adobe PDF Embed API
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Adobe PDF Embed API {#adobe-pdf-embed-api}

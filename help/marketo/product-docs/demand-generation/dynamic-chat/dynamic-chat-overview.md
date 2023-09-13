@@ -1,8 +1,6 @@
 ---
 description: Dynamic Chat Overview - Marketo Docs - Product Documentation
 title: Dynamic Chat Overview
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Dynamic Chat Overview {#dynamic-chat-overview}

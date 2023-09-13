@@ -1,8 +1,6 @@
 ---
 description: Agent Management - Marketo Docs - Product Documentation
 title: Agent Management
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Agent Management {#agent-management}
