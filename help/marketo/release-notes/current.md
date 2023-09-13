@@ -35,8 +35,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr> 
    <td><strong>Used By Count Column for Design Studio Assets</strong>: The Marketo Engage Program Reference Library allows users to import "example" programs and other assets that represent best practices recommended by Adobe. Our Product Management team has completely updated the library, providing more valuable tools for those who want to get their program started quickly.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
    <tr> 
    <td>&nbsp;</td> 
@@ -45,8 +45,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
    <tr> 
    <td><strong>Used By Tab Enhancements for Design Studio Assets</strong>: The Used By Enhancement tab provides a more detailed view of the type and name of an asset, along with where it's being used. This is applicable for Email Details and Images & Files Details.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
    <tr> 
    <td>&nbsp;</td> 
