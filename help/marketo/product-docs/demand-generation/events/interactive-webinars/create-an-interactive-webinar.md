@@ -20,9 +20,13 @@ Create an Interactive Webinar in a few easy steps.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. Click the Channel drop-down and select **Webinar**.
+1. Click the Channel drop-down and select any channel that has _Event with Webinar_ in its "Applies To" column. In this example, we're choosing **Webinar**.
 
    ![](assets/create-an-interactive-webinar-4.png)
+
+   >[!NOTE]
+   >
+   >To see which Channels apply to _Event with Webinar_, go to **Admin** > **Tags**. "Applies To" should be the middle column. Learn more about "Applies To" in Step 5 of [this article](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 1. Choose **Interactive Webinars** and click **Next**.
 
@@ -40,6 +44,6 @@ Create an Interactive Webinar in a few easy steps.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-Your Interactive Webinar is created. Now it's time to [design it](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
+Your Interactive Webinar is created. Now it's time to [design it](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
 
    ![](assets/create-an-interactive-webinar-8.png)
