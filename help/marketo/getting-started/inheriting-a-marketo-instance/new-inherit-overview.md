@@ -10,15 +10,9 @@ Starting a new job or taking over an existing instance from another admin? Takin
 
 ## Get Set up in the Marketing Nation {#get-set-up-in-the-marketing-nation}
 
-Make sure you're properly set up in the Marketo Community.
-
-* **[Set up your profile]**(https://nation.marketo.com/){target="_blank"}.
+Make sure you're properly set up in the Marketing Nation Community.
 
 * [**Set up your profile**](https://nation.marketo.com/){target="_blank"}.
-
-* **[Set up your profile](https://nation.marketo.com/)**{target="_blank"}.
-
-* **[Set up your profile](https://nation.marketo.com/){target="_blank"}**.
 
 * Read up on the [**Marketing Community guidelines**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
@@ -26,9 +20,9 @@ Make sure you're properly set up in the Marketo Community.
 
 * Learn how to [**submit a support case**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
-## Inherited Instance Audit Guides {#inherited-instance-audit-guides}
+## Audit Your Inherited Instance  {#audit-your-inherited-instance}
 
-The checklists below have been put together with input from Marketo Champions to help you get up to speed quickly. Learn how to navigate the different areas of Marketo Engage and perform the various tasks required to perform an audit, with links to recommended help documentation included. 
+Adobe Professional Services (with input from Marketo Champions) has put together several Marketo Engage Inherited Instance Audit Checklists to help you get up to speed quickly. Learn how to navigate the different areas of Marketo Engage and perform the various tasks required to perform an audit, with links to recommended help documentation included.
 
 You can also download the checklists in spreadsheet form.
 
