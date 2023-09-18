@@ -5,7 +5,7 @@ feature: Interactive Webinars
 ---
 # Promoting an Interactive Webinar {#promoting-an-interactive-webinar}
 
-Promoting an Interactive Webinar is similar to promoting a partner webinar via Launchpoint. When creating an Interactive Webinar event program you can add members to a program either by running a campaign or importing members to the program. To check the members that have been added to the Interactive Webinars Event Program, click on the Members Tab.
+Promoting an Interactive Webinar is similar to promoting a partner webinar via Launchpoint. When creating an Interactive Webinar event program you can add members to a program either by running a campaign or importing members to the program. To check the members that have been added to the Interactive Webinars Event Program, click on the Members tab.
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 

@@ -10,11 +10,11 @@ Organize your Marketing Activities section properly to help others find and mana
 
 ## Organization {#organization}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">Area</th> 
-   <th style="width:80%">Review Focus</th>
+   <th style="width:30%">Area</th> 
+   <th style="width:70%">Review Focus</th>
   </tr> 
   <tr> 
    <td>Naming Conventions</td> 
@@ -55,12 +55,12 @@ Organize your Marketing Activities section properly to help others find and mana
 
 ## Assets {#assets}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
-  <tr> 
-   <th style="width:20%">Area</th> 
-   <th style="width:80%">Review Focus</th>
-  </tr> 
+  <tr>
+   <th style="width:30%">Area</th>
+   <th style="width:70%">Review Focus</th>
+  </tr>
   <tr> 
    <td>Tokens</td> 
    <td><li>Are <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">tokens</a> being used in your most commonly used program types? 
@@ -108,12 +108,12 @@ Organize your Marketing Activities section properly to help others find and mana
 
 ## Operational Programs {#operational-programs}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">Area</th> 
-   <th style="width:80%">Review Focus</th>
-  </tr> 
+   <th style="width:30%">Area</th> 
+   <th style="width:70%">Review Focus</th>
+  </tr>
   <tr> 
    <td>Person Scoring</td> 
    <td><li>Do you have a centralized <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">person scoring</a> program in place?</li>

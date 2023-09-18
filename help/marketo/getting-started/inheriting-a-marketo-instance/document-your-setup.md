@@ -6,7 +6,7 @@ hidefromtoc: yes
 ---
 # Inherited Instance: Document Your Setup {#inherited-instance-document-your-setup}
 
-Now that you've learned the key product areas to audit when inheriting an established instance, the next step is to create/update documentation on your instance configuration and tech stack. Whether creating it via spreadsheet or a project management application, your documentation is a great resource to track progress and record details.
+Now that you've learned the key product areas to audit when inheriting an established instance, the next step is to create/update documentation on your instance configuration and tech stack. Whether creating it via spreadsheet or a project management application, your documentation will be a great resource to track progress and record details, as well as keep your instance structured and sustainable.
 
 ## Data {#data}
 
@@ -45,11 +45,12 @@ Now that you've learned the key product areas to audit when inheriting an establ
   <tr> 
    <td>Organization</td> 
     <td><li>Do you have robust documentation of how your Marketo Engage instance is organized and why?</li>
-   <p><p><img src="assets/action-item-icon.png" alt="action item icon">Action Item: Create documentation that contains folder structure, naming convention, and channels used in your instance.</td>
+   <p><img src="assets/action-item-icon.png" alt="action item icon">Action Item: Create documentation that contains folder structure, naming convention, and channels used in your instance.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
-    <td><li>Do you have a changelog where you can document what's changing in your instance and why?</li></td>
+    <td><li>Do you have a changelog where you can document what's changing in your instance and why?</li>
+    <p><img src="assets/action-item-icon.png" alt="action item icon">Action Item: Download this example to create a changelog and document changes to your instance setup.</td>
   </tr>
   <tr> 
    <td>Playbooks</td> 
@@ -59,7 +60,8 @@ Now that you've learned the key product areas to audit when inheriting an establ
   <tr> 
    <td>Conversations with Internal Stakeholders</td> 
     <td><li>What are the internal expectations of your company's Marketing team? Do they match what Marketo Engage is delivering?</li>
-   <li>Which teams are stakeholders in your Marketo Engage instance?</li></td>
+   <li>Which teams are stakeholders in your Marketo Engage instance?</li>
+   <p><img src="assets/action-item-icon.png" alt="action item icon">Action Item: Download this <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">Internal Stakeholders Communications Guide template</a> to document the goals and expectations of your key stakeholders.</td>
   </tr>
  </tbody> 
 </table>
