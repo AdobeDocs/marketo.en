@@ -25,7 +25,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
    <th>Review Focus</th>
   </tr> 
   <tr> 
-   <td>Subscription</td> 
+   <td>Subscription & Marketo Engage Product Admin</td> 
    <td><li>Has your Marketo Engage subscription been migrated to <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> yet? 
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If so, have you been granted an 'Adobe Admin Console Product Admin' role by your 'Adobe Admin Console System Admin'? If you're not sure who in your organization has admin privileges in the console, contact <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe Customer Care</a>.</li>
 <li>Have you accepted the 'Marketo Engage Product Admin' invite? The email is sent when the role is assigned in the Adobe Admin Console.

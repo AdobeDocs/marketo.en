@@ -701,6 +701,7 @@ feature-set: Marketo Engage
         + [User and License Management](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
         + [Create an Interactive Webinar](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
         + [Designing Interactive Webinars](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+        + [Promoting an Interactive Webinar](product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md)
         + [Modify or Delete an Interactive Webinar](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
         + [Event Workflows](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
     + Facebook {#facebook}
