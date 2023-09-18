@@ -1,6 +1,8 @@
 ---
 description: Promoting an Interactive Webinar - Marketo Docs - Product Documentation
 title: Promoting an Interactive Webinar
+hide: yes
+hidefromtoc: yes
 feature: Interactive Webinars
 ---
 # Promoting an Interactive Webinar {#promoting-an-interactive-webinar}
@@ -25,4 +27,4 @@ Within a few minutes of registration, the Webinar URL for the member gets popula
 
 You can use tokens to include the Webinar URL to individual members in an email campaign to communicate that they've been registered in the event and to use the joining URL to enter the webinar at the scheduled time. Calendar tokens can be used in the same email campaign to ensure that the webinar schedule can be added to the members' calendars.
 
-Special links have been provided in the [Overview page](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md) to create a Landing Page, as well as an Email Campaign. The rest of the promotions related to an event remain the same as for partner webinars using the Launchpoint integration.
+Links have been provided in the [Overview page](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md) to create a Landing Page, as well as an email campaign. The rest of the promotions related to an event remain the same as partner webinars using the Launchpoint integration.
