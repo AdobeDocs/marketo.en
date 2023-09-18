@@ -14,7 +14,7 @@ Organize your Marketing Activities section properly to help others find and mana
  <tbody> 
   <tr> 
    <th style="width:20%">Area</th> 
-   <th>Review Focus</th>
+   <th style="width:80%">Review Focus</th>
   </tr> 
   <tr> 
    <td>Naming Conventions</td> 
@@ -26,12 +26,12 @@ Organize your Marketing Activities section properly to help others find and mana
   </tr>
   <tr> 
    <td>Programs</td> 
-   <td><li>KG - IS THIS STILL RELEVANT Is there a <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">Center of Excellence</a> with program templates? 
-   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If so, do the program templates make sense for the teams' use cases?</li>
-<li>Are similar program types <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">consistently structured</a>?</li>
+   <td><li>Are similar program types <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">consistently structured</a>?</li>
 <li>Are <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">period costs</a> put in place?</li>
 <li>Are all programs <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">synced to SFDC Campaigns</a> (if applicable)?</li>
-<li>Do you have flow steps assigning an <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">acquisition program</a> to people?</li></td>
+<li>Do you have flow steps assigning an <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">acquisition program</a> to people?</li>
+<li>Is there a central location set up for program templates? 
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, choose from several pre-built program examples from the <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Marketo Engage Program Library</a>.</li></td>
   </tr>
   <tr> 
    <td>Archive</td> 
@@ -39,14 +39,14 @@ Organize your Marketing Activities section properly to help others find and mana
 <li>How often does your company review and archive old programs?</li>
 <p><img src="assets/tip-icon.png" alt="tip icon">TIP: It's good to perform a review every year.</td>
   </tr>
-  <tr> 
+  <tr>
    <td>Notifications</td> 
    <td><li>Are there any campaign errors in the <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md" target="_blank">Notifications tab</a> at the top of your instance?</li>
 <li>Are you <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md#subscribe-to-notifications" target="_blank">subscribed to notifications</a> to stay on top of any errors that may arise in the future?</li></td>
   </tr>
   <tr> 
    <td>Smart List Subscriptions 
-   <br/>(Marketing Activities/Subscriptions tab)</td> 
+   <br/>(Marketing Activities/Subscriptions)</td> 
    <td><li>Are there ongoing <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">Smart List subscriptions</a> in your instance? If yes, who are they going to?</li>
 <p><img src="assets/tip-icon.png" alt="tip icon">TIP: Consider setting up Smart List subscriptions to go to a team alias rather than an individual. This covers you in case individuals are out of the office.</td>
   </tr>
@@ -59,7 +59,7 @@ Organize your Marketing Activities section properly to help others find and mana
  <tbody> 
   <tr> 
    <th style="width:20%">Area</th> 
-   <th>Review Focus</th>
+   <th style="width:80%">Review Focus</th>
   </tr> 
   <tr> 
    <td>Tokens</td> 
@@ -73,7 +73,8 @@ Organize your Marketing Activities section properly to help others find and mana
 <li>How many <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">people are exhausted</a>? 
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If there are many exhausted people, consider <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">adding content</a>.</li>
 <li>Are people <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">engaging with the content</a>? 
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, consider updating it and/or A/B testing.</li></td>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, consider updating it and/or A/B testing.</li>
+<li>Have you encountered any people in multiple engagement programs? Should they be in more than one?</li></td>
   </tr>
   <tr> 
    <td>Batch Campaigns</td> 
@@ -111,7 +112,7 @@ Organize your Marketing Activities section properly to help others find and mana
  <tbody> 
   <tr> 
    <th style="width:20%">Area</th> 
-   <th>Review Focus</th>
+   <th style="width:80%">Review Focus</th>
   </tr> 
   <tr> 
    <td>Person Scoring</td> 
@@ -145,7 +146,7 @@ Organize your Marketing Activities section properly to help others find and mana
   <tr> 
    <td>Email Deliverability</td> 
    <td><li>Pull an <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Email Performance Report</a> for sends in the past few months. How does email deliverability look?</li>
-<li>If email deliverability is poor, consider investigating and implementing email deliverability best practices such as <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF and DKIM</a>.</li>
+<li>If your email deliverability isn't as strong as you'd like, consider investigating and implementing email deliverability best practices such as <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF and DKIM</a>.</li>
 <li>Are you reaching out to your full marketable audience?</li></td>
   </tr>
   <tr> 

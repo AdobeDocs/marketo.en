@@ -141,7 +141,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
    <th>Review Focus</th>
   </tr> 
   <tr> 
-   <td>Smart Campaign Settings</td> 
+   <td>Smart Campaigns</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Do you have a restriction</a> on Smart Campaign size? 
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, consider adding one. We recommend limiting the Smart Campaign limits to 25% of your database to avoid overcommunication or processing your entire database in workflows; this not only protects your brand, but helps protect the performance of your instance.</li></td>
   </tr>
@@ -258,7 +258,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
   </tr>
   <tr> 
    <td>Munchkin</td> 
-   <td><li>Is your <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin tracking code</a> on your website (Not in Marketo)?</li>
+   <td><li>Is your <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin tracking code</a> on your website (not a Marketo Engage Landing Page)?</li>
 <li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Do Not Track</a> Browser Request enabled?</li>
 <li>Is your <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> configured? 
 <p><img src="assets/tip-icon.png" alt="tip icon">TIP: If you're missing documentation on where the munchkin code is on your website, you can view all URLs by creating a <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Web Page Activity Report</a>.</li></td>
