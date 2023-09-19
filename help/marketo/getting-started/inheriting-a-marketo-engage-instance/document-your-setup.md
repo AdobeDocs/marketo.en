@@ -1,8 +1,7 @@
 ---
 description: Inherited Instance Document Your Setup - Marketo Docs - Product Documentation
 title: Inherited Instance Document Your Setup
-hide: yes
-hidefromtoc: yes
+feature: Getting Started
 ---
 # Inherited Instance: Document Your Setup {#inherited-instance-document-your-setup}
 

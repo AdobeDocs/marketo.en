@@ -1,12 +1,11 @@
 ---
 description: Inherited Instance Database Checklist - Marketo Docs - Product Documentation
 title: Inherited Instance Database Checklist
-hide: yes
-hidefromtoc: yes
+feature: Getting Started
 ---
 # Inherited Instance: Database Checklist {#inherited-instance-database-checklist}
 
-Understand the total number of people, marketable people, and top person-acquiring sources in your subscription.
+Understand the total number of people, marketable people, and top person-acquiring sources in your subscription. Remember to [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) and track your progress.
 
 ## System Smart Lists {#system-smart-lists}
 

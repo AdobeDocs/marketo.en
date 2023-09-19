@@ -1,12 +1,11 @@
 ---
 description: Inherited Instance Marketing Activities Checklist - Marketo Docs - Product Documentation
 title: Inherited Instance Marketing Activities Checklist
-hide: yes
-hidefromtoc: yes
+feature: Getting Started
 ---
 # Inherited Instance: Marketing Activities Checklist {#inherited-instance-marketing-activities-checklist}
 
-Organize your Marketing Activities section properly to help others find and manage various programs within your Marketo Engage instance and ensure that people are processed to pass from Marketing to Sales.
+Organize your Marketing Activities section properly to help others find and manage various programs within your Marketo Engage instance and ensure that people are processed to pass from Marketing to Sales. Remember to [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) and track your progress.
 
 ## Organization {#organization}
 

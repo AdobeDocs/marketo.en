@@ -1,12 +1,11 @@
 ---
 description: Learn how to optimize and scale an existing Marketo Engage instance that you inherited. Follow the checklist to audit admin settings and maintain database hygiene.
-title: Jumpstart an Inherited Marketo Engage Instance
-hide: yes
-hidefromtoc: yes
+title: Where to Start
+feature: Getting Started
 ---
-# Jumpstart an Inherited Marketo Engage Instance {#jumpstart-an-inherited-marketo-engage-instance}
+# Where to Start {#where-to-start}
 
-Starting a new job or taking over an existing instance from another admin? Taking over a live instance that's been running for a while can seem a little daunting, but this guide will help you get up and running in no time.
+Are you starting a new job or taking over an existing instance from another admin and not sure where to start? While taking over a live instance that's been running for some time can seem a little intimidating, we've put together some resources for you to help you get up to speed in no time.
 
 ## Get Set up in the Marketing Nation {#get-set-up-in-the-marketing-nation}
 
@@ -20,7 +19,7 @@ Make sure you're properly set up in the Marketing Nation Community.
 
 ## Merge Your Marketing Nation Profile {#merge-your-marketing-nation-profile}
 
-If you already have a Marketing Nation Profile from another company, follow these steps to bring your history over to your new profile.
+If you already have a Marketing Nation profile with a previous company, follow these steps to bring that history over to your new profile.
 
 1. Create a username/Community profile with your email address that has access to your current Marketo Engage subscription.
 
@@ -32,13 +31,13 @@ If you already have a Marketing Nation Profile from another company, follow thes
 * Your new corporate email associated with the current Marketo Engage subscription
 * Your new username/Community profile URL
 
-Our Community team will merge your Community Profiles in 4-6 business days. Once it's completed, you'll see your engagement history in your new Community Profile upon log in. If you don't, please log out of your account and log back in again to confirm.
+Our Community team will merge your Community profiles in 4-6 business days. Once it's completed, you'll see your engagement history in your new Community Profile upon log in. If you don't, please log out of your account and log back in again to confirm.
 
-## Audit Your Inherited Instance  {#audit-your-inherited-instance}
+## Jumpstart Your Inherited Marketo Engage Instance  {#jumpstart-your-inherited-marketo-engage-instance}
 
-Adobe, with input from Marketo Champions, has put together several Marketo Engage Inherited Instance Audit Checklists to help you get up to speed quickly. Learn how to navigate the different areas of Marketo Engage and perform the various tasks required to perform an audit, with links to recommended help documentation included.
+Adobe, with input from Marketo Champions, has put together several Marketo Engage Inherited Instance Audit checklists to help you hit the ground running. Learn how to navigate the different areas of Marketo Engage and perform the various tasks required to perform an audit, with links to recommended help documentation included.
 
-You can also [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) in spreadsheet form.
+You can also [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) in spreadsheet form.
 
 * [Admin section](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 

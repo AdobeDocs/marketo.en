@@ -1,12 +1,11 @@
 ---
 description: Inherited Instance Design Studio Checklist - Marketo Docs - Product Documentation
 title: Inherited Instance Design Studio Checklist
-hide: yes
-hidefromtoc: yes
+feature: Getting Started
 ---
 # Inherited Instance: Design Studio Checklist {#inherited-instance-design-studio-checklist}
 
-Structuring templates and creating global forms, Snippets, and images & files will help minimize data errors as well as streamline the workflow of your program build.
+Structuring templates and creating global forms, Snippets, and images & files will help minimize data errors as well as streamline the workflow of your program build. Remember to [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) and track your progress.
 
 ## Landing Pages {#landing-pages}
 
