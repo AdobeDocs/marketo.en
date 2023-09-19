@@ -32,7 +32,7 @@ feature-set: Marketo Engage
     + [Redirect a Landing Page](getting-started/quick-wins/redirect-a-landing-page.md)
     + [Automate an Alert for Possible Duplicate People](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
   + Inheriting a Marketo Engage Instance {#inheriting-a-marketo-engage-instance}
-    + [Where to Start](getting-started/inheriting-a-marketo-engage-instance/new-inherit-overview.md)  
+    + [Where to Start](getting-started/inheriting-a-marketo-engage-instance/where-to-start.md)  
     + [Inherited Instance: Admin Section Checklist](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
     + [Inherited Instance: Database Checklist](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
     + [Inherited Instance: Marketing Activities Checklist](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
