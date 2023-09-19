@@ -78,9 +78,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
 <li>Are hidden values leveraged appropriately?</li>
 <li>Are any Marketo Engage forms being used on non-Marketo Engage Landing Pages? How are they being referenced?</li>
 <p><img src="assets/tip-icon.png" alt="tip icon">TIP: Update pages where you embed Marketo Engage forms with the new embed code introduced (requires secured landing pages).
-<br/><textarea style="width: 100%; max-width: 100%; height: 80px;"><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
-<form id="mktoForm_1"></form>
-<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></textarea>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png"><img src="assets/design-studio-checklist-1.png" alt="code thumbnail"></a>
 </td>
   </tr>
   <tr> 
