@@ -35,6 +35,31 @@ Structuring templates and creating global forms, Snippets, and images & files wi
  </tbody> 
 </table>
 
+## Images & Files {#images-and-files}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:20%">Area</th> 
+   <th>Review Focus</th>
+  </tr> 
+  <tr> 
+   <td>Naming Conventions</td> 
+   <td><li>Do <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">images and files</a> have consistent naming conventions?</li></td>
+  </tr>
+  <tr> 
+   <td>Folder Structure</td> 
+   <td><li>Are images and files <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">organized appropriately</a> and easy to search?</li></td>
+  </tr>
+  <tr> 
+   <td>Images & Files</td> 
+   <td><li>Do any images or files <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">referenced on web pages</a> need to be updated? 
+   <p>Example: The hardcoded URL structure <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">may need to be updated</a>, such as <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>Please work with your web developer to determine where you may need to make updates.</li></td>
+  </tr>
+ </tbody> 
+</table>
+
 ## Forms {#forms}
 
 <table style="table-layout:auto"> 
@@ -51,8 +76,8 @@ Structuring templates and creating global forms, Snippets, and images & files wi
 <li>Are hidden values leveraged appropriately?</li>
 <li>Are any Marketo Engage forms being used on non-Marketo Engage Landing Pages? How are they being referenced?</li>
 <p><img src="assets/tip-icon.png" alt="tip icon">TIP: Update pages where you embed Marketo Engage forms with the new embed code introduced (requires secured landing pages).
-<br/><code><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></code>
-<br/><code><form id="mktoForm_1"></form><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></code>
+<br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
+<br/><pre><form id="mktoForm_1"></form><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></pre>
 </td>
   </tr>
   <tr> 
@@ -114,31 +139,6 @@ Structuring templates and creating global forms, Snippets, and images & files wi
  </tbody> 
 </table>
 
-## Images & Files {#images-and-files}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:20%">Area</th> 
-   <th>Review Focus</th>
-  </tr> 
-  <tr> 
-   <td>Naming Conventions</td> 
-   <td><li>Do <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">images and files</a> have consistent naming conventions?</li></td>
-  </tr>
-  <tr> 
-   <td>Folder Structure</td> 
-   <td><li>Are images and files <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">organized appropriately</a> and easy to search?</li></td>
-  </tr>
-  <tr> 
-   <td>Images & Files</td> 
-   <td><li>Do any images or files <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">referenced on web pages</a> need to be updated? 
-   <p>Example: The hardcoded URL structure <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">may need to be updated</a>, such as <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
-   <p>Please work with your web developer to determine where you may need to make updates.</li></td>
-  </tr>
- </tbody> 
-</table>
-
 ## All Assets {#all-assets}
 
 <table style="table-layout:auto"> 
@@ -149,7 +149,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
   </tr> 
   <tr> 
    <td>Asset Status</td> 
-   <td><li>How many assets are in <i>Draft</i> and <i>Approved with Draft</i> status?
+   <td><li>How many assets are in <i>Draft</i> and <i>Approved with Draft</i> status (e.g., e.g., <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md" target="_blank">emails</a>, <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md#approve-a-landing-page" target="_blank">Landing Pages</a>, <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/approve-a-form.md" target="_blank">forms</a>, <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md" target="_blank">snippets</a>)?
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If there are many, consider deleting or approving them.</li></td>
   </tr>
   <tr> 
