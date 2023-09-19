@@ -229,6 +229,21 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
  </tbody> 
 </table>
 
+## Email {#email}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:20%">Area</th>
+   <th>Review Focus</th>
+  </tr> 
+  <tr> 
+   <td>Email Default Settings</td> 
+   <td><li>In Admin > Email, are all of your default settings up-to-date (e.g., <a href="/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md" target="_blank">"from" email/label</a>, <a href="/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md" target="_blank">branding domain</a>, <a href="/help/marketo/product-docs/administration/email-setup/edit-the-unsubscribe-message.md" target="_blank">unsubscribe message</a>, etc.)?</li></td>
+  </tr>
+ </tbody> 
+</table>
+
 ## Integrations {#integrations}
 
 <table style="table-layout:auto"> 

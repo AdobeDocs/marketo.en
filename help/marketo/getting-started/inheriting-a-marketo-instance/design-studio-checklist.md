@@ -89,6 +89,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
    <td>Email Testing</td> 
    <td><li>How are you using <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">email testing</a>? Is your method still effective?</li></td>
   </tr>
+  </tr>
   <tr> 
    <td>Privacy & Compliance</td> 
    <td><li>Do all your emails have the appropriate footers? Consider GDPR, CASL, CAN-SPAM, CCPA, etc. for compliance implications.</li>

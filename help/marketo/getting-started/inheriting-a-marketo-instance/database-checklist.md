@@ -68,6 +68,7 @@ Understand the total number of people, marketable people, and top person-acquiri
   <tr> 
    <td>Smart Lists</td> 
    <td><li>How many <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Smart Lists</a> are there? How are they used in this instance?</li>
+   <p><img src="assets/note-icon.png" alt="note icon"> NOTE: In the Database section, Group Smart Lists are user-generated and System Smart Lists are default lists created by Marketo Engage.
 <li>Are the lists organized in a cohesive folder structure? 
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you have orphan lists, consider organizing your tree so assets are easy to find.</li>
 <p><img src="assets/tip-icon.png" alt="tip icon">TIP: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archiving</a> Smart Lists that are no longer needed will help with organization and performance.</td>
@@ -85,7 +86,8 @@ Understand the total number of people, marketable people, and top person-acquiri
   </tr> 
   <tr> 
    <td>Static Lists</td> 
-   <td><li>How many <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Static Lists</a> are there? How are they used in this instance?</li></td>
+   <td><li>How many <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Static Lists</a> are there? How are they used in this instance?</li>
+   <p><img src="assets/note-icon.png" alt="note icon"> NOTE: In the Database section, Group Lists are Static Lists.</td>
   </tr>
  </tbody> 
 </table>

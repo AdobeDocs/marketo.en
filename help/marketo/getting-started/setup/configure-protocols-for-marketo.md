@@ -102,13 +102,13 @@ Your marketing team should have also sent you DKIM information to be added to yo
 
    Replace CompanyDomain with the main domain of your website (ex: "`(company.com/)`") and CorpIP with the IP address of your corporate email server (ex. "255.255.255.255"). If you are going to be sending email from multiple domains through Marketo, you should have your IT staff add this line for each domain (on one line).
 
-1. For DKIM, create DNS Resource Records for each domain we'd like to setup. Below are the Host Records and TXT Values for each domain we'll be signing for:
+1. For DKIM, create DNS Resource Records for each domain we'd like to set up. Below are the Host Records and TXT Values for each domain we'll be signing for:
 
    `[DKIMDomain1]`: Host Record is `[HostRecord1]` and the TXT Value is `[TXTValue1]`.
 
    `[DKIMDomain2]`: Host Record is `[HostRecord2]` and the TXT Value is `[TXTValue2]`.
 
-   Copy the HostRecord and TXTValue for each DKIMDomain you've setup after following the [instructions here](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. Don't forget to verify each domain in Admin > Email > DKIM after your IT staff has completed this step.
+   Copy the HostRecord and TXTValue for each DKIMDomain you've set up after following the [instructions here](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. Don't forget to verify each domain in Admin > Email > DKIM after your IT staff has completed this step.
 
 ## Step 4: Set up MX Records for Your Domain {#step-set-up-mx-records-for-your-domain}
 

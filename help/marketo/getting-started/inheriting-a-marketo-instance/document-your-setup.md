@@ -50,7 +50,7 @@ Now that you've learned the key product areas to audit when inheriting an establ
   <tr> 
    <td>Changelog</td> 
     <td><li>Do you have a changelog where you can document what's changing in your instance and why?</li>
-    <p><img src="assets/action-item-icon.png" alt="action item icon">Action Item: Download this example to create a changelog and document changes to your instance setup.</td>
+    <p><img src="assets/action-item-icon.png" alt="action item icon">Action Item: Create a changelog and document changes made to your instance configuration.</td>
   </tr>
   <tr> 
    <td>Playbooks</td> 
@@ -61,7 +61,7 @@ Now that you've learned the key product areas to audit when inheriting an establ
    <td>Conversations with Internal Stakeholders</td> 
     <td><li>What are the internal expectations of your company's Marketing team? Do they match what Marketo Engage is delivering?</li>
    <li>Which teams are stakeholders in your Marketo Engage instance?</li>
-   <p><img src="assets/action-item-icon.png" alt="action item icon">Action Item: Download this <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">Internal Stakeholders Communications Guide template</a> to document the goals and expectations of your key stakeholders.</td>
+   <p><img src="assets/action-item-icon.png" alt="action item icon">Action Item: Document the goals and expectations of your key stakeholders and update them as you check in with your counterparts throughout the year.</td>
   </tr>
  </tbody> 
 </table>
