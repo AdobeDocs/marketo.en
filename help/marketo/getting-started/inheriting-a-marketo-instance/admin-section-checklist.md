@@ -6,7 +6,7 @@ hidefromtoc: yes
 ---
 # Inherited Instance: Admin Section Checklist {#inherited-instance-admin-section-checklist}
 
-The checklists below (subsequent checklists linked to at the bottom of each article) have been put together by Adobe Professional Services with input from Marketo Champions to help you get up to speed quickly. You can also download the checklists and track your progress.
+The checklists below (subsequent checklists linked to at the bottom of each article) have been put together by Adobe Professional Services with input from Marketo Champions to help you get up to speed quickly. You can also [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) and track your progress.
 
 >[!TIP]
 >

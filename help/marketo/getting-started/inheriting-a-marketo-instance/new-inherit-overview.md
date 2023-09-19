@@ -16,8 +16,6 @@ Make sure you're properly set up in the Marketing Nation Community.
 
 * Read up on the [**Marketing Community guidelines**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
-* Click **[!UICONTROL Your Places]** on your Marketo Nation community profile to check out your company's Account Page.
-
 * Learn how to [**submit a support case**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
 ## Merge Your Marketing Nation Profile {#merge-your-marketing-nation-profile}
@@ -40,7 +38,7 @@ Our Community team will merge your Community Profiles in 4-6 business days. Once
 
 Adobe, with input from Marketo Champions, has put together several Marketo Engage Inherited Instance Audit Checklists to help you get up to speed quickly. Learn how to navigate the different areas of Marketo Engage and perform the various tasks required to perform an audit, with links to recommended help documentation included.
 
-You can also download the checklists in spreadsheet form.
+You can also [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) in spreadsheet form.
 
 * [Admin section](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 

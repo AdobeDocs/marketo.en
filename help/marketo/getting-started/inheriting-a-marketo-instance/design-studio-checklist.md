@@ -24,7 +24,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
   </tr>
   <tr> 
    <td>Templates</td> 
-   <td><li>How many <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">Landing Page templates</a> are there? Are they being leveraged?</li></td>
+   <td><li>How many <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md" target="_blank">Landing Page templates</a> are there? Are they being leveraged?</li></td>
   </tr>
   <tr> 
    <td>Test Groups</td> 
