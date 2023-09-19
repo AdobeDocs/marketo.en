@@ -37,17 +37,17 @@ Our Community team will merge your Community profiles in 4-6 business days. Once
 
 Adobe, with input from Marketo Champions, has put together several Marketo Engage Inherited Instance Audit checklists to help you hit the ground running. Learn how to navigate the different areas of Marketo Engage and perform the various tasks required to perform an audit, with links to recommended help documentation included.
 
-You can also [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) in spreadsheet form.
+You can also [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) in spreadsheet form.
 
-* [Admin section](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+* [Admin section](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
 
-* [Database](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+* [Database](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
 
-* [Marketing Activities](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+* [Marketing Activities](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
 
-* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
 
-* [Document your inherited instance setup](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
+* [Document your inherited instance setup](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
  
 ## Ways to Get Help {#ways-to-get-help}
 

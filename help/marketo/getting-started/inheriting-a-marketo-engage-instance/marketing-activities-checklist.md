@@ -5,7 +5,7 @@ feature: Getting Started
 ---
 # Inherited Instance: Marketing Activities Checklist {#inherited-instance-marketing-activities-checklist}
 
-Organize your Marketing Activities section properly to help others find and manage various programs within your Marketo Engage instance and ensure that people are processed to pass from Marketing to Sales. Remember to [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) and track your progress.
+Organize your Marketing Activities section properly to help others find and manage various programs within your Marketo Engage instance and ensure that people are processed to pass from Marketing to Sales. Remember to [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) and track your progress.
 
 ## Organization {#organization}
 
@@ -161,6 +161,6 @@ Organize your Marketing Activities section properly to help others find and mana
 
 <br>&nbsp;
 
-[◄ Audit an Inherited Instance: Database](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+[◄ Audit an Inherited Instance: Database](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
 
-[Audit an Inherited Instance: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+[Audit an Inherited Instance: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

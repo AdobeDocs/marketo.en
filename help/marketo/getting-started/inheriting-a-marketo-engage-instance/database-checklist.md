@@ -5,7 +5,7 @@ feature: Getting Started
 ---
 # Inherited Instance: Database Checklist {#inherited-instance-database-checklist}
 
-Understand the total number of people, marketable people, and top person-acquiring sources in your subscription. Remember to [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) and track your progress.
+Understand the total number of people, marketable people, and top person-acquiring sources in your subscription. Remember to [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) and track your progress.
 
 ## System Smart Lists {#system-smart-lists}
 
@@ -111,6 +111,6 @@ Understand the total number of people, marketable people, and top person-acquiri
 
 <br>&nbsp;
 
-[◄ Audit an Inherited Instance: Admin](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+[◄ Audit an Inherited Instance: Admin](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
 
-[Audit an Inherited Instance: Marketing Activities ►](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[Audit an Inherited Instance: Marketing Activities ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)

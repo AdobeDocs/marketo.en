@@ -5,7 +5,7 @@ feature: Getting Started
 ---
 # Inherited Instance: Design Studio Checklist {#inherited-instance-design-studio-checklist}
 
-Structuring templates and creating global forms, Snippets, and images & files will help minimize data errors as well as streamline the workflow of your program build. Remember to [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) and track your progress.
+Structuring templates and creating global forms, Snippets, and images & files will help minimize data errors as well as streamline the workflow of your program build. Remember to [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) and track your progress.
 
 ## Landing Pages {#landing-pages}
 
@@ -77,7 +77,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
 <li>Are hidden values leveraged appropriately?</li>
 <li>Are any Marketo Engage forms being used on non-Marketo Engage Landing Pages? How are they being referenced?</li>
 <p><img src="assets/tip-icon.png" alt="tip icon">TIP: Update pages where you embed Marketo Engage forms with the new embed code introduced (requires secured landing pages).
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="code thumbnail"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="code thumbnail"></a>
 </td>
   </tr>
   <tr> 
@@ -162,6 +162,6 @@ Structuring templates and creating global forms, Snippets, and images & files wi
 
 <br>&nbsp;
 
-[◄ Audit an Inherited Instance: Marketing Activities](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[◄ Audit an Inherited Instance: Marketing Activities](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
 
-[Audit an Inherited Instance: Document Your Inherited Instance Setup ►](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
+[Audit an Inherited Instance: Document Your Inherited Instance Setup ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
