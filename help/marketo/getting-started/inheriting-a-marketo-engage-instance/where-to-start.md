@@ -51,7 +51,7 @@ You can also [download the checklists](/help/marketo/getting-started/inheriting-
  
 ## Ways to Get Help {#ways-to-get-help}
 
-Need more help? Connect with us or other Marketo Engage users via the links below.
+Need more help? Connect with us or fellow Marketo Engage users via the links below.
 
 * For technical assistance with something that's not working properly, contact **[Marketo Engage Customer Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
 
