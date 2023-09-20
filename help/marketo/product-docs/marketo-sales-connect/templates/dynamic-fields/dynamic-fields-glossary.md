@@ -13,14 +13,14 @@ This tool is used to `auto-personalize your email` and save you tons of time by 
 
 | Dynamic Field | Example of what appears in your email |
 |---|---|
-| `{{company}}` | Marketo |
-| `{{company_friendly}}` | Marketo |
+| `{{company}}` | Adobe |
+| `{{company_friendly}}` | Adobe |
 | `{{first_name}}` | Keith |
 | `{{friendly_unsubscribe}}` | If you don't want to hear from me again, please let me know here |
-| `{{my_name}}` | Alan Bradley |
+| `{{my_name}}` | Keith Flynn |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | Senior Technical Writer |
-| `{{work_website}}` | https://www.marketo.com |
+| `{{work_website}}` | https://www.adobe.com |
 
 **Things to note**:
 

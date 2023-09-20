@@ -3,7 +3,7 @@ description: Transactional Sales Email Templates - Marketo Docs - Product Docume
 title: Transactional Sales Email Templates
 hide: yes
 hidefromtoc: yes
-feature: Sales Insight Actions
+feature: Marketo Sales Connect
 ---
 # Transactional Sales Email Templates {#transactional-sales-email-templates}
 
