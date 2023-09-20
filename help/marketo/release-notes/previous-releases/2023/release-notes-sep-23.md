@@ -33,7 +33,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr> 
-   <td><strong>Used By Count Column for Design Studio Assets</strong>: The Marketo Engage Program Reference Library allows users to import "example" programs and other assets that represent best practices recommended by Adobe. Our Product Management team has completely updated the library, providing more valuable tools for those who want to get their program started quickly.</td> 
+   <td><strong>Used By Count Column for Design Studio Assets</strong>: The Used By Count column for List Views in Design Studio highlights the number of assets that are being used. This is applicable for Snippets, Email Templates, Forms, and Landing Page Templates.</td> 
    <td>Shipped</td>
    <td>n/a</td>
   </tr>

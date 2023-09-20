@@ -59,10 +59,6 @@ The Dynamic Chat JavaScript snippet can be installed on any website as well as M
 
 90 days.
 
-**Does Dynamic Chat allow for live chat?**
-
-No, it only utilizes pre-determined responses.
-
 **Does Dynamic Chat support any languages besides English?**
 
 Yes. Dynamic Chat supports the following languages: French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese. Learn more in the [section below](#changing-the-language).
