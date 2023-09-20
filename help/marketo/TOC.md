@@ -32,7 +32,7 @@ feature-set: Marketo Engage
     + [Redirect a Landing Page](getting-started/quick-wins/redirect-a-landing-page.md)
     + [Automate an Alert for Possible Duplicate People](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
   + Inheriting a Marketo Engage Instance {#inheriting-a-marketo-engage-instance}
-    + [Where to Start](getting-started/inheriting-a-marketo-engage-instance/where-to-start.md)  
+    + [Where to Start](getting-started/inheriting-a-marketo-engage-instance/where-to-start.md)
     + [Inherited Instance: Admin Section Checklist](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
     + [Inherited Instance: Database Checklist](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
     + [Inherited Instance: Marketing Activities Checklist](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
@@ -1233,6 +1233,7 @@ feature-set: Marketo Engage
         + [Incorrect Recipient Location](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
         + [Live Feed Overview](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
       + Unsubscribes {#unsubscribes}
+        + [Auto-Append Unsubscribe Message Setting](product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md)
         + [Customize Unsubscribe Link Message](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
         + [Marketo Unsubscribe Check](product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)
         + [Resubscribing an Unsubscribe](product-docs/marketo-sales-connect/email/unsubscribes/resubscribing-an-unsubscribe.md)
@@ -1396,6 +1397,7 @@ feature-set: Marketo Engage
           + [Set up a Custom Delivery Channel for Your Team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
         + Unsubscribes {#unsubscribes}
           + [Unsubscribe Overview](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
+          + [Auto-Append Unsubscribe Message Setting](product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md)
           + [Customize Unsubscribe Link Message](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
           + [Marketo Unsubscribe Check](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
           + [Syncing Unsubscribes with Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
