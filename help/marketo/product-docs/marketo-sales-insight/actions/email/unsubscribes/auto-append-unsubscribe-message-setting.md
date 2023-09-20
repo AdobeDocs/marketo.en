@@ -19,7 +19,7 @@ Ensure every Sales Insight Actions email sent includes an unsubscribe message so
 
    ![](assets/auto-append-unsubscribe-message-setting-1.png)
 
-2. Under Admin Settings, Click **Unsubscribes**.
+1. Under Admin Settings, Click **Unsubscribes**.
 
    ![](assets/auto-append-unsubscribe-message-setting-2.png)
 
