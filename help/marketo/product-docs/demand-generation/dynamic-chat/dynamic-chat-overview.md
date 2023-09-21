@@ -49,28 +49,6 @@ Offer your qualified web visitors to connect with your sales representatives via
 
 [Design a conversation](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} that can be triggered by a visitor based on an action you designate (e.g., filling out a form, clicking a link, etc.).
 
-## FAQ {#faq}
-
-**Can I install Dynamic Chat anywhere on my company website or does it only work on Marketo landing pages?**
-
-The Dynamic Chat JavaScript snippet can be installed on any website as well as Marketo landing pages.
-
-**How long is data stored for reporting?**
-
-90 days.
-
-**Does Dynamic Chat support any languages besides English?**
-
-Yes. Dynamic Chat supports the following languages: French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese. Learn more in the [section below](#changing-the-language).
-
-**Do you support AI/NLP functionality?**
-
-We do not support AI/NLP functionality.
-
-**How can I target anonymous people?**
-
-In your dialogue, you would need to use the _Person Email is Empty_ attribute.
-
 ## Changing the Language {#changing-the-language}
 
 Follow these steps to change your Dynamic Chat language.
@@ -99,6 +77,8 @@ When you update the language, everything in the app itself changes except for th
 
 ## Dynamic Chat Data Retention Limits {#dynamic-chat-data-retention-limits}
 
+Below are just some of the limits/parameters within Dynamic Chat. For a complete list, please see the Marketo Engage [Product Description page](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+
 <table>
   <th>Data Type</th>
   <th>Retention Period</th>
@@ -123,3 +103,25 @@ When you update the language, everything in the app itself changes except for th
   <td>24 months</td>
  </tr>
 </table>
+
+## FAQ {#faq}
+
+**Can I install Dynamic Chat anywhere on my company website or does it only work on Marketo landing pages?**
+
+The Dynamic Chat JavaScript snippet can be installed on any website as well as Marketo landing pages.
+
+**How long is data stored for reporting?**
+
+90 days. For a full list of limits/parameters, please visit the Marketo Engage [Product Description page](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+
+**Does Dynamic Chat support any languages besides English?**
+
+Yes. Dynamic Chat supports the following languages: French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese. Learn more in the [section below](#changing-the-language).
+
+**Do you support AI/NLP functionality?**
+
+We do not support AI/NLP functionality.
+
+**How can I target anonymous people?**
+
+In your dialogue, you would need to use the _Person Email is Empty_ attribute.
