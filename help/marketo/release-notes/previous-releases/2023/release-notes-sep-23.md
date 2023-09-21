@@ -47,6 +47,26 @@ The following features fall under the standard release cycle and will start to b
    <td>Shipped</td>
    <td>n/a</td>
   </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+   <tr> 
+   <td><strong>Localization for Interactive Webinars</strong>: This allows you to view the Marketo Interactive Webinar Event Program details in the desired language, as well as choose the language of delivery so it can be different from the language of the Marketo user who created the Event Program.</td> 
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">Interactive Webinars FAQ</a></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+   <tr> 
+   <td><strong>User Access Management for Interactive Webinars</strong>: User Access Management allows Interactive Webinars' users to access only the Event Programs they're permitted to, helping to prevent unauthorized access.</td> 
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#user-access" target="_blank">User Access</a></td>
+  </tr>
  </tbody> 
 </table>
 
