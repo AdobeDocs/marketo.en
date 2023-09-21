@@ -14,7 +14,7 @@ Below you'll find all the features included in the October '23 release. Check yo
 
 ## Standard Release Cycle Features {#standard-release-cycle-features}
 
-The following features fall under the standard release cycle and will start to be released on **October 13, 2023**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
+The following features fall under the standard release cycle and will start to be released on **October 6, 2023**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
 
 <table style="table-layout:auto"> 
  <tbody> 
