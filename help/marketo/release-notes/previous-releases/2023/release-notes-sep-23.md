@@ -53,7 +53,7 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
    <tr> 
-   <td><strong>Localization for Interactive Webinars</strong>: This allows you to view the Marketo Interactive Webinar Event Program details in the desired language, as well as choose the language of delivery so it can be different from the language of the Marketo user who created the Event Program.</td> 
+   <td><strong>Localization for Interactive Webinars</strong>: This allows you to view the Marketo Interactive Webinar Event Program details in the desired language, as well as choose the language of delivery if you want it different from the language of the Marketo user who created the Event Program.</td> 
    <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">Interactive Webinars FAQ</a></td>
   </tr>
