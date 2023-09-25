@@ -9,6 +9,8 @@ feature: Dynamic Chat
 
 Manage user access to the various areas in Dynamic Chat.
 
+## Customize Permissions {#customize-permissions}
+
 1. In the [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, click **Dynamic Chat**.
 
    ![](assets/permissions-1.png)
@@ -43,7 +45,7 @@ You can now repeat this process for all other Dynamic Chat areas.
 
 ## List of Permissions {#list-of-permissions}
 
-Below you'll find a list of all available permissions sorted by area.
+Below you'll find a list of all available permissions for each area.
 
 <table>
 <thead>
@@ -67,8 +69,8 @@ Below you'll find a list of all available permissions sorted by area.
     <td><li>Agent Inbox</li>
     <li>View My Conversations</li>
     <li>View All Conversations</li>
-    <li>View Conversation Summary<b>&#42;</b></li>
-    <li>View Assisted Responses<b>&#42;</b></li></td>
+    <li>View Conversation Summary <b>&#42;</b></li>
+    <li>View Assisted Responses <b>&#42;</b></li></td>
   </tr>
   <tr>
     <td>Meetings</td>
@@ -90,21 +92,21 @@ Below you'll find a list of all available permissions sorted by area.
   </tr>
   <tr>
     <td>Admin Settings</td>
-    <td><li>View Workspaces<b>&#42;</b></li>
-    <li>Manage Workspaces (create, edit, delete)<b>&#42;</b></li>
+    <td><li>View Workspaces <b>&#42;</b></li>
+    <li>Manage Workspaces (create, edit, delete) <b>&#42;</b></li>
     <li>View Round-robin</li>
     <li>View Custom Rules</li>
     <li>Manage Custom Rules (add, edit, delete)</li>
-    <li>View Account List<b>&#42;</b></li>
-    <li>Manage Accounts (add, edit, delete)<b>&#42;</b></li>
+    <li>View Account List <b>&#42;</b></li>
+    <li>Manage Accounts (add, edit, delete) <b>&#42;</b></li>
     <li>Manage Chatbot Settings</li>
     <li>Manage Conversational Flows Settings</li>
     <li>Manage Privacy and Security</li>
     <li>Manage Integrations</li>
-    <li>Manage Languages<b>&#42;</b></li>
+    <li>Manage Languages <b>&#42;</b></li>
     <li>Manage Agents</li>
-    <li>View Agent Teams<b>&#42;</b></li>
-    <li>Manage Agent Teams (add, edit, delete)<b>&#42;</b></li>
+    <li>View Agent Teams <b>&#42;</b></li>
+    <li>Manage Agent Teams (add, edit, delete) <b>&#42;</b></li>
     <li>View Usage Limits</li></td>
   </tr>
 </tbody>
