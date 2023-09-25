@@ -661,6 +661,7 @@ feature-set: Marketo Engage
       + Setup and Configuration {#setup-and-configuration}
         + [Initial Setup](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
         + [Add or Remove Chat Users](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+        + [Permissions](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
         + [Configuration](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
         + [Agent Settings](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
         + [Agent Management](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
