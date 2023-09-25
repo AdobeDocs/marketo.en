@@ -5,7 +5,7 @@ exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
 ---
 # Engagement Map Overview {#engagement-map-overview}
 
-The Engagement Map allows you to build out reusable Smart Campaigns with the help of intuitive visuals. It offers full backward compatibility with all existing Marketo Engage Smart Campaigns, without the loss of any current features. 
+The Engagement Map allows you to intuitively visualize your Smart Campaigns. It offers full backward compatibility with all existing Marketo Engage Smart Campaigns, without the loss of any current features.
 
 >[!NOTE]
 >
@@ -71,7 +71,7 @@ No. Engagement Map has full backwards compatibility. With the click of a button,
 
 **Does having Engagement Map in Marketo Engage mean I'll lose access to the folder structure and will have to re-learn how to build a Smart Campaign?**
 
-No. The great thing about Engagement Map is that it gives you the best of both worlds; it's complementary to the current way you build campaigns. You can choose if you want to use the existing UI or build/visualize in the new UI. All users will still get Marketo Engage's powerful feature set, now complemented by a visual creation tool.
+No. The great thing about Engagement Map is that it gives you the best of both worlds; it's complementary to the current way you build campaigns. All users will still get Marketo Engage's powerful feature set, now complemented by clear visuals.
 
 **Is Engagement Map a paid add-on?**
 
@@ -80,10 +80,6 @@ No. All existing and new Marketo Engage users under all subscriptions will have 
 **As a Marketo Engage admin, am I responsible for turning Engagement Map on/off?**
 
 No. Engagement Map will be available for all users in their instances. You will not be able to turn it on/off for certain users, workspaces, etc.
-
-**Is everything currently available in Smart Campaigns also available in Engagement Map?**
-
-Yes. Engagement Map has full feature parity with Smart Campaigns.
 
 **How is this different from other visual builders?**
 

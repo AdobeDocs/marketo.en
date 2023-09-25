@@ -5,9 +5,11 @@ feature: Dynamic Chat
 ---
 # Live Chat Overview {#live-chat-overview}
 
-Use the live chat card in the [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} when you want visitors to chat with a live agent.
+Live chat allows website visitors to engage in real-time chat conversations with your sales agents.
 
 ## Using the Live Chat Card {#using-the-live-chat-card}
+
+Use the live chat card in the [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} when you want visitors to chat with a live agent.
 
    ![](assets/live-chat-overview-1.png)
 

@@ -5,9 +5,9 @@ feature: Dynamic Chat
 ---
 # Initial Setup {#initial-setup}
 
-## Access Admin Console {#access-admin-console}
-
 Follow the steps below to set up Dynamic Chat.
+
+## Access Admin Console {#access-admin-console}
 
 >[!NOTE]
 >
