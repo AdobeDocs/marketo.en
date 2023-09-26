@@ -1,15 +1,13 @@
 ---
 description: Permissions - Marketo Docs - Product Documentation
 title: Permissions
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Permissions {#permissions}
 
-Manage user access to the various areas in Dynamic Chat.
+There are five default profiles with predefined permissions you can edit in Dynamic Chat. You can also create a custom profile with a custom set of permissions. Let's go over both.
 
-## Customize Permissions {#customize-permissions}
+## Edit Existing Permissions {#edit-existing-permissions}
 
 1. In the [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, click **Dynamic Chat**.
 
@@ -23,11 +21,11 @@ Manage user access to the various areas in Dynamic Chat.
 
    ![](assets/permissions-3.png)
 
-1. Select the area of Dynamic Chat you want to edit. Because we chose the Live Agent profile, we're selecting Live Chat. Click the pencil icon.
+1. Select the area of the profile you want to edit. In this example, we're choosing Live Chat. Click the pencil icon.
 
    ![](assets/permissions-4.png)
 
-1. All available permission items are on the left. You can choose to add permissions one by one, or all at once. In this example, we're choosing all. Click the **+ Add all** button.
+1. Available permission items are listed on the left. You can choose to add permissions one by one, or all at once. In this example there's only one available, so we're adding that one. Click the **+** sign.
 
    ![](assets/permissions-5.png)
 
@@ -39,9 +37,30 @@ Manage user access to the various areas in Dynamic Chat.
 
    ![](assets/permissions-6.png)
 
-You can now repeat this process for all other Dynamic Chat areas.
+You can now repeat this process for any other Dynamic Chat areas.
 
    ![](assets/permissions-7.png)
+
+## Create a Profile {#create-a-profile}
+
+1. In the [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, click **Dynamic Chat**.
+
+   ![](assets/permissions-8.png)
+
+1. In the **Product profiles** tab, click **New profile**.
+
+   ![](assets/permissions-9.png)
+
+1. **Name** your product profile. Optionally, you can give it a display name and/or description, and choose to have users notified when they're added/removed. Click **Save** when done.
+
+   ![](assets/permissions-10.png)
+
+1. Your new profile will appear in the Product profiles tab. Select it.
+
+   ![](assets/permissions-11.png)
+
+1. Now follow steps 3-6 from the [section above](#edit-existing-permissions) for each desired area.
+
 
 ## List of Permissions {#list-of-permissions}
 

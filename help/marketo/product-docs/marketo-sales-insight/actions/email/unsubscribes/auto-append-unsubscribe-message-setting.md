@@ -29,4 +29,4 @@ Ensure every Sales Insight Actions email sent includes an unsubscribe message so
 
 >[!TIP]
 >
->If you disable the append unsubscribe message setting, we recommend adding an unsubscribe footer to your templates to ensure your communication has an opt-out option. You can do this by adding your own custom message to each template, or by using the `{{team_unsubscribe}}` dynamic field.
+>If you disable the append unsubscribe message setting, we recommend adding an unsubscribe footer to your templates to ensure your communication has an opt-out option. You can do this by adding your own custom message to each template, or by using the `{{team_unsubscribe}}` [dynamic field](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}.

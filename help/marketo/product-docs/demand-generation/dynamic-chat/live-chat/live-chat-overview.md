@@ -7,6 +7,12 @@ feature: Dynamic Chat
 
 Live chat allows website visitors to engage in real-time chat conversations with your sales agents.
 
+## Add Live Chat Agents {#add-live-chat-agents}
+
+To get started with live chat, you'll need to add your live chat agents as [users in the Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. After this is done, you can then add a [live chat card](#using-the-live-chat-card) to a new or existing Dialogue. 
+
+When visitors request to chat with an agent through your Dialogue, agents will have multiple [notification options](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} where they can begin chatting with the visitor.
+
 ## Using the Live Chat Card {#using-the-live-chat-card}
 
 Use the live chat card in the [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} when you want visitors to chat with a live agent.

@@ -31,4 +31,4 @@ Ensure every email sent includes an unsubscribe message so recipients have an ea
 
 >[!TIP]
 >
->If you disable the append unsubscribe message setting, we recommend adding an unsubscribe footer to your templates to ensure your communication has an opt-out option. You can do this by adding your own custom message to each template, or by using the `{{team_unsubscribe}}` dynamic field.
+>If you disable the append unsubscribe message setting, we recommend adding an unsubscribe footer to your templates to ensure your communication has an opt-out option. You can do this by adding your own custom message to each template, or by using the `{{team_unsubscribe}}` [dynamic field](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}.
