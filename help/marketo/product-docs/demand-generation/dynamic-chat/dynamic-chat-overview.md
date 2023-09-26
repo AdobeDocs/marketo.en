@@ -5,7 +5,7 @@ feature: Dynamic Chat
 ---
 # Dynamic Chat Overview {#dynamic-chat-overview}
 
-Dynamic Chat allows you to leverage an easy-to-use interface to target both people and accounts visiting your website. Collect relevant content such as name, contact information, and free text. Site visitors can also book meetings with your Sales Team. Dynamic Chat activity and engagement data can be used to add members to Marketo programs and trigger cross-channel activities.
+Dynamic Chat allows you to leverage an easy-to-use interface to target both people and accounts visiting your website. Collect relevant content such as name, contact information, and free text. Site visitors can also chat with a live agent and even book meetings with your Sales Team. Dynamic Chat activity and engagement data can be used to add members to Marketo programs and trigger cross-channel activities.
 
    >[!TIP]
    >
@@ -116,7 +116,7 @@ The Dynamic Chat JavaScript snippet can be installed on any website as well as M
 
 **Does Dynamic Chat support any languages besides English?**
 
-Yes. Dynamic Chat supports the following languages: French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese. Learn more in the [section below](#changing-the-language).
+Yes. Dynamic Chat supports the following languages: French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese. Learn more in [Changing the Language](#changing-the-language).
 
 **Do you support AI/NLP functionality?**
 
