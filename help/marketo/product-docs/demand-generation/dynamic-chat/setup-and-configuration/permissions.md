@@ -37,7 +37,7 @@ There are five default profiles with predefined permissions you can edit in Dyna
 
    ![](assets/permissions-6.png)
 
-You can now repeat this process for any other Dynamic Chat areas.
+You can now repeat this process for any/all other Dynamic Chat areas.
 
    ![](assets/permissions-7.png)
 
@@ -69,7 +69,7 @@ Below you'll find a list of all available permissions for each area.
 <table>
 <thead>
   <tr>
-    <th>Dynamic Chat Area</th>
+    <th style="width:30%">Dynamic Chat Area</th>
     <th>Permissions</th>
   </tr>
 </thead>
