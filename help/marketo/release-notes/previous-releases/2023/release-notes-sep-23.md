@@ -259,6 +259,8 @@ All features below follow an Agile format and are released on various dates befo
 <br/>
 
 ## Announcements {#announcements}
+
+* **Marketo Events and Marketo Moments Deprecation**: Adobe will be removing Marketo Events and Marketo Moments from all app stores beginning October 2, 2023. Existing users&mdash;you can continue to use these apps until you migrate your Marketo Engage instance to Adobe Identity. These apps do not support sign-in with Adobe ID.
  
 * **Toggle Switch Deprecation for Design Studio Assets**: The toggle switch that allows users to switch between the classic interface and Modern UX experience for Design Studio will be deprecated, along with the old version of the Design Studio experience, allowing users to completely migrate to the Modern UX experience. [Learn more here](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
 
