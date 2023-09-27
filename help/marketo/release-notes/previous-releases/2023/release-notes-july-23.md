@@ -173,4 +173,4 @@ The following features follow an Agile format and are released on various dates 
  
 * **Upgrade to Google Analytics 4**: Marketo previously supported Universal Analytics, which will stop recording data by July 1, 2023. RTP users will need to follow the migration process in their Google Analytics dashboard to complete support for the Google Analytics 4 integration in RTP. Going forward, users will have a unique alphanumeric tag (located within the `<head>` section of the html) in their landing pages that allows Marketo to send data to Google Analytics.
 
-* **_Product Release Webinar_**: Join us on September 6, 2023, at 9:00 AM PT / 12:00 PM ET for a [live webinar](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} hosted by our Product Team where you'll see how to use all of the latest product innovations.
+* **_Product Release Webinar_**: [July and September 2023 Marketo Engage Release Webinar](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
