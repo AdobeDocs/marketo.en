@@ -2,6 +2,7 @@
 description: CT-YYYY-MM-Content on Marketo Landing Page - Marketo Docs - Product Documentation
 title: CT-YYYY-MM-Content on Marketo Landing Page
 feature: Programs
+exl-id: 11745023-a0c1-45ef-9547-6426f24e3fee
 ---
 # CT-YYYY-MM-Content on Marketo Landing Page {#ct-yyyy-mm-content-on-marketo-landing-page}
 

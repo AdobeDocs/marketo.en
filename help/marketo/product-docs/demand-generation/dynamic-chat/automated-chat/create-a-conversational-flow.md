@@ -2,6 +2,7 @@
 description: Create a Conversational Flow - Marketo Docs - Product Documentation
 title: Create a Conversational Flow
 feature: Dynamic Chat
+exl-id: e3548ebc-0788-48ff-bac8-f8c240319f92
 ---
 # Create a Conversational Flow {#create-a-conversational-flow}
 

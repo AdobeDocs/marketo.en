@@ -2,6 +2,7 @@
 description: Routing - Marketo Docs - Product Documentation
 title: Routing
 feature: Dynamic Chat
+exl-id: 93d1a96d-c101-4a1c-898c-dcadb5cdce85
 ---
 # Routing {#routing}
 

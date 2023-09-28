@@ -2,6 +2,7 @@
 description: Release Notes - July 2023 - Marketo Docs - Product Documentation
 title: Release Notes - July 2023
 feature: Release Information
+exl-id: bda861e3-24a1-4325-9b4c-f65a046d7696
 ---
 # Release Notes: July 2023 {#release-notes-july-23}
 

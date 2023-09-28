@@ -2,6 +2,7 @@
 description: Adobe PDF Embed API - Marketo Docs - Product Documentation
 title: Adobe PDF Embed API
 feature: Dynamic Chat
+exl-id: 0c8c4e7c-6576-40b6-b96b-cfd0bae5d27d
 ---
 # Adobe PDF Embed API {#adobe-pdf-embed-api}
 
@@ -38,4 +39,3 @@ The Document card allows you to embed PDF documents in Dialogues and track docum
    ![](assets/adobe-pdf-embed-api-6.png)
 
 You can now use the Document card in your Dialogues' [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}!
-

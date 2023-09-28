@@ -2,6 +2,7 @@
 description: Quick Start Landing Page Template - Marketo Docs - Product Documentation
 title: Quick Start Landing Page Template
 feature: Programs
+exl-id: 677bf3fa-25da-40c8-9c1e-6c6385a0596a
 ---
 # Quick Start Landing Page Template {#quick-start-landing-page-template}
 
@@ -78,4 +79,4 @@ For further strategy assistance or help customizing a program, please contact th
 * **Button hover color**: changes the hover state color for the button on the form 
 * **Link color**: updates the color of links throughout the page 
 * **Section Top Spacing**: adds space above each section except the logo section 
-* **Section Bottom Spacing**: adds space below each section except the logos section 
+* **Section Bottom Spacing**: adds space below each section except the logos section

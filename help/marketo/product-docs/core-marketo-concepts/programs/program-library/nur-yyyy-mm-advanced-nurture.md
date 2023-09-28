@@ -2,6 +2,7 @@
 description: NUR-YYYY-MM-Advanced Nurture - Marketo Docs - Product Documentation
 title: NUR-YYYY-MM-Advanced Nurture
 feature: Programs
+exl-id: cd266cad-843b-4329-ad40-2f3d0acd4948
 ---
 # NUR-YYYY-MM-Advanced Nurture {#nur-yyyy-mm-advanced-nurture}
 
