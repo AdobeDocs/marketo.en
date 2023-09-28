@@ -39,6 +39,17 @@ The following features fall under the standard release cycle and will start to b
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Download Recording and Assign Co-host in Interactive Webinars</strong>: You can now add an external co-host for your webinar in case the original host is unavailable. You also now have the ability to download the webinar recording.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
  </tbody> 
 </table>
 <br/>
@@ -46,3 +57,5 @@ The following features fall under the standard release cycle and will start to b
 ## Announcements {#announcements}
  
 * **Marketo Engage Forms jQuery 1.x**: In our January 2024 release, we will be updating the jQuery for Marketo Engage Forms to jQuery 3.x. This may impact custom Form implementation relying on older versions of jQuery.
+
+* **Marketo Events and Marketo Moments Deprecation**: Adobe will be removing Marketo Events and Marketo Moments from all app stores beginning October 2, 2023. Existing users&mdash;you can continue to use these apps until you migrate your Marketo Engage instance to Adobe Identity. These apps do not support sign-in with Adobe ID.
