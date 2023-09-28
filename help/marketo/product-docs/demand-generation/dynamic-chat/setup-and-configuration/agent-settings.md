@@ -8,6 +8,10 @@ exl-id: 792a87bb-3ff9-46fb-ac68-146d5ffa9dc5
 
 Configure your calendar and set meeting/live chat availability.
 
+>[!PREREQUISITES]
+>
+>Make sure your agents have been granted the appropriate [permissions](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}.
+
    ![](assets/agent-settings-1.png)
 
 ## Connect Calendar {#connect-calendar}
