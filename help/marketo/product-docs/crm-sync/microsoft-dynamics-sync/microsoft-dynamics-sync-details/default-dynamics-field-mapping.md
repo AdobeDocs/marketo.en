@@ -573,8 +573,8 @@ The Contact fields below are synced for internal use.
     </tr>
     <tr>
       <td>Company</td>
-      <td>name</td>
       <td>Account Name</td>
+      <td>name</td>
     </tr>
     <tr>
       <td>Num Employees</td>

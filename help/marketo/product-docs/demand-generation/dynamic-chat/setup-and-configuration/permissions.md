@@ -62,7 +62,6 @@ You can now repeat this process for any/all other Dynamic Chat areas.
 
 1. Now follow steps 3-6 from the [section above](#edit-existing-permissions) for each desired area.
 
-
 ## List of Permissions {#list-of-permissions}
 
 Below you'll find a list of all available permissions for each area.
