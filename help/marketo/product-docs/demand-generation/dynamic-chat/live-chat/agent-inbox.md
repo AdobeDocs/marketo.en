@@ -2,6 +2,7 @@
 description: Agent Inbox - Marketo Docs - Product Documentation
 title: Agent Inbox
 feature: Dynamic Chat
+exl-id: 656f8716-d982-4c02-8311-17add0fcd924
 ---
 # Agent Inbox {#agent-inbox}
 

@@ -2,6 +2,7 @@
 description: Configuration - Marketo Docs - Product Documentation
 title: Configuration
 feature: Dynamic Chat
+exl-id: 824cd1de-a407-4250-8777-33eec0777361
 ---
 # Configuration {#configuration}
 

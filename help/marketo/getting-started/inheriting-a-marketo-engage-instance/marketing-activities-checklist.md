@@ -2,6 +2,7 @@
 description: Inherited Instance Marketing Activities Checklist - Marketo Docs - Product Documentation
 title: Inherited Instance Marketing Activities Checklist
 feature: Getting Started
+exl-id: 3a23d7ae-aae9-4138-afcc-1d7830a5aeed
 ---
 # Inherited Instance: Marketing Activities Checklist {#inherited-instance-marketing-activities-checklist}
 

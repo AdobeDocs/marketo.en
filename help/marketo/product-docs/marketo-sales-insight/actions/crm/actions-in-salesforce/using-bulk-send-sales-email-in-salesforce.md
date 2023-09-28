@@ -1,6 +1,7 @@
 ---
 description: Using Bulk Send Sales Email in Salesforce - Marketo Docs - Product Documentation
 title: Using Bulk Send Sales Email in Salesforce
+exl-id: eac77a64-7eaa-48eb-820c-c8e188a234dd
 ---
 # Using Bulk Send Sales Email in Salesforce {#using-bulk-send-sales-email-in-salesforce}
 
@@ -80,4 +81,4 @@ Learn how to send bulk emails in Salesforce to help scale your outbound communic
    >
    >If you want to customize a template for all recipients, clicking the All-Recipients option in the Bulk Compose sidebar allows you to make edits to all recipient emails at the same time. If you want to make a change to a specific email, click on the recipient's name or email in the Bulk Compose sidebar. Please note, if you make changes to an individual email then make changes while selecting All Recipients, the changes made to All Recipients will overwrite the changes made to the individual email.
 
-1. Select **Send** to send the email immediately, or **Set Schedule** to set a date and time for the email to be sent. 
+1. Select **Send** to send the email immediately, or **Set Schedule** to set a date and time for the email to be sent.

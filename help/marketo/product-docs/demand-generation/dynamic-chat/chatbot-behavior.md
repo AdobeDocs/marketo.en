@@ -2,6 +2,7 @@
 description: Chatbot Behavior - Marketo Docs - Product Documentation
 title: Chatbot Behavior
 feature: Dynamic Chat
+exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
 ---
 # Chatbot Behavior {#chatbot-behavior}
 
@@ -399,4 +400,3 @@ The following are different possible scenarios outling the Chatbot's expected be
     </tr>
   </tbody>
 </table>
-

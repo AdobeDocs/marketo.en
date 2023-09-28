@@ -2,6 +2,7 @@
 description: Inherited Instance Document Your Setup - Marketo Docs - Product Documentation
 title: Inherited Instance Document Your Setup
 feature: Getting Started
+exl-id: 5a3fc755-0d1d-450a-bde6-9e27ea0cae8e
 ---
 # Inherited Instance: Document Your Setup {#inherited-instance-document-your-setup}
 

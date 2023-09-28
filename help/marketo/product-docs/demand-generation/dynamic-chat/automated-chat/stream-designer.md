@@ -2,6 +2,7 @@
 description: Stream Designer - Marketo Docs - Product Documentation
 title: Stream Designer
 feature: Dynamic Chat
+exl-id: 5afc7abd-a57b-467a-9356-5332964f997c
 ---
 # Stream Designer {#stream-designer}
 

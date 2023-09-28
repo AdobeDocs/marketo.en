@@ -2,6 +2,7 @@
 description: Audience Criteria - Marketo Docs - Product Documentation
 title: Audience Criteria
 feature: Dynamic Chat
+exl-id: ffe62cb7-707d-4b6d-8a66-9240d111191a
 ---
 # Audience Criteria {#audience-criteria}
 

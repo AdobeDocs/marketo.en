@@ -1,6 +1,7 @@
 ---
 description: Why Do My Emails Get Marked as Spam? - Marketo Docs - Product Documentation
 title: Why Do My Emails Get Marked as Spam?
+exl-id: 09fbfd78-fd06-4350-ad22-c0ff5e08394d
 ---
 # Why Do My Emails Get Marked as Spam? {#why-do-my-emails-get-marked-as-spam}
 
