@@ -69,7 +69,7 @@ Below you'll find a list of all available permissions for each area.
 <table>
 <thead>
   <tr>
-    <th style="width:30%">Dynamic Chat Area</th>
+    <th style="width:25%">Dynamic Chat Area</th>
     <th>Permissions</th>
   </tr>
 </thead>
@@ -134,7 +134,7 @@ Below are the five default profiles and the permissions that are enabled by defa
 <table>
 <thead>
   <tr>
-    <th style="width:30%">Profile</th>
+    <th style="width:25%">Profile</th>
     <th>Default Permissions</th>
   </tr>
 </thead>
@@ -148,22 +148,22 @@ Below are the five default profiles and the permissions that are enabled by defa
     <li>View Conversational Flows</li>
     <li>Manage Conversational Flows (create, delete)</li>
     <li>Publish Conversational Flows</li>
-    <p>
+    <br/>
+    <br/>
     <i>Live Chat</i>
     <li>n/a</li>
-    <p>
+    <br>
     <br/><i>Meetings</i>
     <li>n/a</li>
-    <p>
-    <br/><i>Analytics</i>
+    <br>
+    <br><i>Analytics</i>
     <li>View Global Performance Reports</li>
     <li>View Live Chat Reports</li>
     <li>View Meetings Reports</li>
-    <p>
-    <br/><i>Agent Settings</i>
+    <br>
+    <br><i>Agent Settings</i>
     <li>n/a</li>
-    <p>
-    <br/><i>Admin Settings</i>
+    <br><i>Admin Settings</i>
     <li>View Round-robin</li>
     <li>View Custom Rules</li>
     <li>View Account List <b>&#42;</b></li>
