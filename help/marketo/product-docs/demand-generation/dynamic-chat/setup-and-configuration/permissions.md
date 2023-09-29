@@ -142,7 +142,6 @@ Below are the five default profiles and the permissions that are enabled by defa
   <tr>
     <td>Marketing User</td>
     <td><i>Conversations Management</i>
-    <p>
     <li>View Dialogues</li>
     <li>Manage Dialogues (create, delete)</li>
     <li>Publish Dialogues</li>
@@ -150,21 +149,21 @@ Below are the five default profiles and the permissions that are enabled by defa
     <li>Manage Conversational Flows (create, delete)</li>
     <li>Publish Conversational Flows</li>
     <p>
-    <p><i>Live Chat</i></p>
+    <i>Live Chat</i>
     <li>n/a</li>
     <p>
-    <p><i>Meetings</i></p>
+    <br/><i>Meetings</i>
     <li>n/a</li>
     <p>
-    <p><i>Analytics</i></p>
+    <br/><i>Analytics</i>
     <li>View Global Performance Reports</li>
     <li>View Live Chat Reports</li>
     <li>View Meetings Reports</li>
     <p>
-    <p><i>Agent Settings</i></p>
+    <br/><i>Agent Settings</i>
     <li>n/a</li>
     <p>
-    <p><i>Admin Settings</i></p>
+    <br/><i>Admin Settings</i>
     <li>View Round-robin</li>
     <li>View Custom Rules</li>
     <li>View Account List <b>&#42;</b></li>
