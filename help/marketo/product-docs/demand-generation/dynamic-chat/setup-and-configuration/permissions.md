@@ -85,16 +85,12 @@ Below you'll find a list of all available permissions for each area.
   </tr>
   <tr>
     <td>Live Chat</td>
-    <td><li>Agent Inbox</li>
-    <li>View My Conversations</li>
+    <td><li>View My Conversations</li>
     <li>View All Conversations</li>
-    <li>View Conversation Summary <b>&#42;</b></li>
-    <li>View Assisted Responses <b>&#42;</b></li></td>
   </tr>
   <tr>
     <td>Meetings</td>
     <td><li>Manage All Meetings</li>
-    <li>Manage My Meetings</li></td>
   </tr>
   <tr>
     <td>Analytics</td>
@@ -111,8 +107,156 @@ Below you'll find a list of all available permissions for each area.
   </tr>
   <tr>
     <td>Admin Settings</td>
-    <td><li>View Workspaces <b>&#42;</b></li>
-    <li>Manage Workspaces (create, edit, delete) <b>&#42;</b></li>
+    <td><li>View Round-robin</li>
+    <li>View Custom Rules</li>
+    <li>Manage Custom Rules (add, edit, delete)</li>
+    <li>View Account List <b>&#42;</b></li>
+    <li>Manage Accounts (add, edit, delete) <b>&#42;</b></li>
+    <li>Manage Chatbot Settings</li>
+    <li>Manage Conversational Flows Settings</li>
+    <li>Manage Privacy and Security</li>
+    <li>Manage Integrations</li>
+    <li>Manage Agents</li>
+    <li>View Agent Teams <b>&#42;</b></li>
+    <li>Manage Agent Teams (add, edit, delete) <b>&#42;</b></li></td>
+  </tr>
+</tbody>
+</table>
+
+**&#42;** Currently only available to Dynamic Prime users
+
+<p>
+
+## Default Profile Permissions {#default-profile-permissions}
+
+Below are the five default profiles and the permissions that are enabled by default.
+
+<table>
+<thead>
+  <tr>
+    <th style="width:30%">Profile</th>
+    <th>Default Permissions</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Marketing User</td>
+    <td><i>Conversations Management</i>
+    <p>
+    <li>View Dialogues</li>
+    <li>Manage Dialogues (create, delete)</li>
+    <li>Publish Dialogues</li>
+    <li>View Conversational Flows</li>
+    <li>Manage Conversational Flows (create, delete)</li>
+    <li>Publish Conversational Flows</li>
+    <p>
+    <p><i>Live Chat</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Meetings</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>View Global Performance Reports</li>
+    <li>View Live Chat Reports</li>
+    <li>View Meetings Reports</li>
+    <p>
+    <p><i>Agent Settings</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Admin Settings</i></p>
+    <li>View Round-robin</li>
+    <li>View Custom Rules</li>
+    <li>View Account List <b>&#42;</b></li>
+    <li>View Agent Teams <b>&#42;</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Live Agent</b></td>
+    <td><i>Conversations Management</i>
+    <p>
+    <li>View Dialogues</li>
+    <li>View Conversational Flows</li>
+    <p>
+    <p><i>Live Chat</i></p>
+    <li>View My Conversations</li>
+    <p>
+    <p><i>Meetings</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>View Global Performance Reports</li>
+    <li>View Live Chat Reports</li>
+    <li>View Meetings Reports</li>
+    <p>
+    <p><i>Agent Settings</i></p>
+    <li>Manage Live Chat Availability</li>
+    <li>Connect Your Calendar</li>
+    <li>Manage Calendar Availability</li>
+    <p>
+    <p><i>Admin Settings</i></p>
+    <li>View Round-robin</li>
+    <li>View Custom Rules</li>
+    <li>View Account List <b>&#42;</b></li>
+    <li>View Agent Teams <b>&#42;</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Calendar Agent</b></td>
+    <td><i>Conversations Management</i>
+    <p>
+    <li>View Dialogues</li>
+    <li>View Conversational Flows</li>
+    <p>
+    <p><i>Live Chat</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Meetings</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>View Global Performance Reports</li>
+    <li>View Live Chat Reports</li>
+    <li>View Meetings Reports</li>
+    <p>
+    <p><i>Agent Settings</i></p>
+    <li>Connect Your Calendar</li>
+    <li>Manage Calendar Availability</li>
+    <p>
+    <p><i>Admin Settings</i></p>
+    <li>View Round-robin</li>
+    <li>View Custom Rules</li>
+    <li>View Account List <b>&#42;</b></li>
+    <li>View Agent Teams <b>&#42;</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Marketing Admin</b></td>
+    <td><i>Conversations Management</i>
+    <p>
+    <li>View Dialogues</li>
+    <li>Manage Dialogues (create, delete)</li>
+    <li>Publish Dialogues</li>
+    <li>View Conversational Flows</li>
+    <li>Manage Conversational Flows (create, delete)</li>
+    <li>Publish Conversational Flows</li>
+    <p>
+    <p><i>Live Chat</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Meetings</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>View Global Performance Reports</li>
+    <li>View Live Chat Reports</li>
+    <li>View Meetings Reports</li>
+    <li>Export Reports</li>
+    <p>
+    <p><i>Agent Settings</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Admin Settings</i></p>
     <li>View Round-robin</li>
     <li>View Custom Rules</li>
     <li>Manage Custom Rules (add, edit, delete)</li>
@@ -122,11 +266,44 @@ Below you'll find a list of all available permissions for each area.
     <li>Manage Conversational Flows Settings</li>
     <li>Manage Privacy and Security</li>
     <li>Manage Integrations</li>
-    <li>Manage Languages <b>&#42;</b></li>
+    <li>View Agent Teams <b>&#42;</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Sales Admin</b></td>
+    <td><i>Conversations Management</i>
+    <p>
+    <li>View Dialogues</li>
+    <li>View Conversational Flows</li>
+    <p>
+    <p><i>Live Chat</i></p>
+    <li>View My Conversations</li>
+    <li>View All Conversations</li>
+    <p>
+    <p><i>Meetings</i></p>
+    <li>Manage All Meetings</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>View Global Performance Reports</li>
+    <li>View Live Chat Reports</li>
+    <li>View Meetings Reports</li>
+    <li>Export Reports</li>
+    <p>
+    <p><i>Agent Settings</i></p>
+    <li>Manage Live Chat Availability</li>
+    <li>Connect your Calendar</li>
+    <li>Manage Calendar Availability</li>
+    <p>
+    <p><i>Admin Settings</i></p>
+    <li>View Round-robin</li>
+    <li>View Custom Rules</li>
+    <li>Manage Custom Rules (add, edit, delete)</li>
+    <li>View Account List <b>&#42;</b></li>
+    <li>Manage Accounts (add, edit, delete) <b>&#42;</b></li>
     <li>Manage Agents</li>
     <li>View Agent Teams <b>&#42;</b></li>
-    <li>Manage Agent Teams (add, edit, delete) <b>&#42;</b></li>
-    <li>View Usage Limits</li></td>
+    <li>Manage Agent Teams <b>&#42;</b></li>
+    </td>
   </tr>
 </tbody>
 </table>
