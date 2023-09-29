@@ -148,22 +148,22 @@ Below are the five default profiles and the permissions that are enabled by defa
     <li>View Conversational Flows</li>
     <li>Manage Conversational Flows (create, delete)</li>
     <li>Publish Conversational Flows</li>
-    <br/>
-    <br/>
+    <br>
     <i>Live Chat</i>
     <li>n/a</li>
     <br>
-    <br/><i>Meetings</i>
+    <i>Meetings</i>
     <li>n/a</li>
     <br>
-    <br><i>Analytics</i>
+    <i>Analytics</i>
     <li>View Global Performance Reports</li>
     <li>View Live Chat Reports</li>
     <li>View Meetings Reports</li>
     <br>
-    <br><i>Agent Settings</i>
+    <i>Agent Settings</i>
     <li>n/a</li>
-    <br><i>Admin Settings</i>
+    <br>
+    <i>Admin Settings</i>
     <li>View Round-robin</li>
     <li>View Custom Rules</li>
     <li>View Account List <b>&#42;</b></li>
@@ -173,27 +173,26 @@ Below are the five default profiles and the permissions that are enabled by defa
   <tr>
     <td><b>Live Agent</b></td>
     <td><i>Conversations Management</i>
-    <p>
     <li>View Dialogues</li>
     <li>View Conversational Flows</li>
-    <p>
-    <p><i>Live Chat</i></p>
+    <br>
+    <i>Live Chat</i>
     <li>View My Conversations</li>
-    <p>
-    <p><i>Meetings</i></p>
+    <br>
+    <i>Meetings</i>
     <li>n/a</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>View Global Performance Reports</li>
     <li>View Live Chat Reports</li>
     <li>View Meetings Reports</li>
-    <p>
-    <p><i>Agent Settings</i></p>
+    <br>
+    <i>Agent Settings</i>
     <li>Manage Live Chat Availability</li>
     <li>Connect Your Calendar</li>
     <li>Manage Calendar Availability</li>
-    <p>
-    <p><i>Admin Settings</i></p>
+    <br>
+    <i>Admin Settings</i>
     <li>View Round-robin</li>
     <li>View Custom Rules</li>
     <li>View Account List <b>&#42;</b></li>
@@ -203,26 +202,25 @@ Below are the five default profiles and the permissions that are enabled by defa
   <tr>
     <td><b>Calendar Agent</b></td>
     <td><i>Conversations Management</i>
-    <p>
     <li>View Dialogues</li>
     <li>View Conversational Flows</li>
-    <p>
-    <p><i>Live Chat</i></p>
+    <br>
+    <i>Live Chat</i>
     <li>n/a</li>
-    <p>
-    <p><i>Meetings</i></p>
+    <br>
+    <i>Meetings</i>
     <li>n/a</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>View Global Performance Reports</li>
     <li>View Live Chat Reports</li>
     <li>View Meetings Reports</li>
-    <p>
-    <p><i>Agent Settings</i></p>
+    <br>
+    <i>Agent Settings</i>
     <li>Connect Your Calendar</li>
     <li>Manage Calendar Availability</li>
-    <p>
-    <p><i>Admin Settings</i></p>
+    <br>
+    <i>Admin Settings</i>
     <li>View Round-robin</li>
     <li>View Custom Rules</li>
     <li>View Account List <b>&#42;</b></li>
@@ -232,30 +230,29 @@ Below are the five default profiles and the permissions that are enabled by defa
   <tr>
     <td><b>Marketing Admin</b></td>
     <td><i>Conversations Management</i>
-    <p>
     <li>View Dialogues</li>
     <li>Manage Dialogues (create, delete)</li>
     <li>Publish Dialogues</li>
     <li>View Conversational Flows</li>
     <li>Manage Conversational Flows (create, delete)</li>
     <li>Publish Conversational Flows</li>
-    <p>
-    <p><i>Live Chat</i></p>
+    <br>
+    <i>Live Chat</i>
     <li>n/a</li>
-    <p>
-    <p><i>Meetings</i></p>
+    <br>
+    <i>Meetings</i>
     <li>n/a</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>View Global Performance Reports</li>
     <li>View Live Chat Reports</li>
     <li>View Meetings Reports</li>
     <li>Export Reports</li>
-    <p>
-    <p><i>Agent Settings</i></p>
+    <br>
+    <i>Agent Settings</i>
     <li>n/a</li>
-    <p>
-    <p><i>Admin Settings</i></p>
+    <br>
+    <i>Admin Settings</i>
     <li>View Round-robin</li>
     <li>View Custom Rules</li>
     <li>Manage Custom Rules (add, edit, delete)</li>
@@ -271,29 +268,28 @@ Below are the five default profiles and the permissions that are enabled by defa
   <tr>
     <td><b>Sales Admin</b></td>
     <td><i>Conversations Management</i>
-    <p>
     <li>View Dialogues</li>
     <li>View Conversational Flows</li>
-    <p>
-    <p><i>Live Chat</i></p>
+    <br>
+    <i>Live Chat</i>
     <li>View My Conversations</li>
     <li>View All Conversations</li>
-    <p>
-    <p><i>Meetings</i></p>
+    <br>
+    <i>Meetings</i>
     <li>Manage All Meetings</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>View Global Performance Reports</li>
     <li>View Live Chat Reports</li>
     <li>View Meetings Reports</li>
     <li>Export Reports</li>
-    <p>
-    <p><i>Agent Settings</i></p>
+    <br>
+    <i>Agent Settings</i>
     <li>Manage Live Chat Availability</li>
     <li>Connect your Calendar</li>
     <li>Manage Calendar Availability</li>
-    <p>
-    <p><i>Admin Settings</i></p>
+    <br>
+    <i>Admin Settings</i>
     <li>View Round-robin</li>
     <li>View Custom Rules</li>
     <li>Manage Custom Rules (add, edit, delete)</li>
