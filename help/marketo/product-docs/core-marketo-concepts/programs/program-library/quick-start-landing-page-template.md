@@ -2,7 +2,7 @@
 description: Quick Start Landing Page Template - Marketo Docs - Product Documentation
 title: Quick Start Landing Page Template
 feature: Programs
-exl-id: 677bf3fa-25da-40c8-9c1e-6c6385a0596a
+exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
 ---
 # Quick Start Landing Page Template {#quick-start-landing-page-template}
 

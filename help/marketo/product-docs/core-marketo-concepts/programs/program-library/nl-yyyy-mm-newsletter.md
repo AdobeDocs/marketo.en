@@ -2,7 +2,7 @@
 description: NL-YYYY-MM-Newsletter - Marketo Docs - Product Documentation
 title: NL-YYYY-MM-Newsletter
 feature: Programs
-exl-id: 97078562-6c1f-4f76-a456-9bff8ed6cd21
+exl-id: bce05e0f-e288-4614-9d05-c14844615454
 ---
 # NL-YYYY-MM-Newsletter {#nl-yyyy-mm-newsletter}
 

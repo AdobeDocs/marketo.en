@@ -2,7 +2,7 @@
 description: Learn how to optimize and scale an existing Marketo Engage instance that you inherited. Follow the checklist to audit admin settings and maintain database hygiene.
 title: Where to Start
 feature: Getting Started
-exl-id: a7abbfe3-c2ac-489f-bc4b-9e8d3412b419
+exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
 ---
 # Where to Start {#where-to-start}
 

@@ -1,7 +1,7 @@
 ---
 description: Update Activity Type Field When Logging Activities to Salesforce - Marketo Docs - Product Documentation
 title: Update Activity Type Field When Logging Activities to Salesforce
-exl-id: f65d7d97-ec65-4210-9381-02be788498f9
+exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
 ---
 # Update Activity Type Field When Logging Activities to Salesforce {#update-activity-type-field-when-logging-activities-to-salesforce}
 

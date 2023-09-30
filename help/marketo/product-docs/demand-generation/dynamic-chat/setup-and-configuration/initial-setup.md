@@ -2,7 +2,7 @@
 description: Initial Setup - Marketo Docs - Product Documentation
 title: Initial Setup
 feature: Dynamic Chat
-exl-id: 61022682-412f-43d4-9fc9-b4914a6ce8f1
+exl-id: 3ce6bd24-8d08-46ca-b532-871d5813205e
 ---
 # Initial Setup {#initial-setup}
 

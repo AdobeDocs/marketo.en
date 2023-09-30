@@ -2,7 +2,7 @@
 description: Analytics - Marketo Docs - Product Documentation
 title: Analytics
 feature: Dynamic Chat
-exl-id: 8a698f2f-fa1b-4d0f-835c-8d65101c36fb
+exl-id: 8130a970-4cf1-4bf6-9403-998460269843
 ---
 # Analytics {#analytics}
 

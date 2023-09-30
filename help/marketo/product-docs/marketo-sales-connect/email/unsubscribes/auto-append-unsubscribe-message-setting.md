@@ -4,7 +4,7 @@ title: Auto-Append Unsubscribe Message Setting
 hide: yes
 hidefromtoc: yes
 feature: Marketo Sales Connect
-exl-id: 2d4c96b3-6d27-46e9-abb0-2571f3e03611
+exl-id: 8aa75123-f6b5-4dfe-8fa7-f764620c04e8
 ---
 # Auto-Append Unsubscribe Message Setting {#auto-append-unsubscribe-message-setting}
 

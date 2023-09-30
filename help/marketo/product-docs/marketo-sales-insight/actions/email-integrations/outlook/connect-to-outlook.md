@@ -1,7 +1,7 @@
 ---
 description: Connect to Outlook - Marketo Docs - Product Documentation
 title: Connect to Outlook
-exl-id: 023bc5ab-6193-4abe-a536-347b4765b51e
+exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
 ---
 # Connect to Outlook {#connect-to-outlook}
 

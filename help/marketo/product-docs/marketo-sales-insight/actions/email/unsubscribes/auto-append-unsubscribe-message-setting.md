@@ -4,7 +4,7 @@ title: Auto-Append Unsubscribe Message Setting
 hide: yes
 hidefromtoc: yes
 feature: Sales Insight Actions
-exl-id: 7cfd2db3-181e-4407-807f-d17d77715fac
+exl-id: 17734f62-74e6-4168-a9c8-7835e3daf5ff
 ---
 # Auto-Append Unsubscribe Message Setting {#auto-append-unsubscribe-message-setting}
 

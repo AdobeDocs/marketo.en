@@ -1,7 +1,7 @@
 ---
 description: Using Bulk Add to Sales Campaign in Salesforce - Marketo Docs - Product Documentation
 title: Using Bulk Add to Sales Campaign in Salesforce
-exl-id: 49bdd22f-f313-497b-af8d-8308eb905b8f
+exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
 ---
 # Using Bulk Add to Sales Campaign in Salesforce {#using-bulk-add-to-sales-campaign-in-salesforce}
 

@@ -1,7 +1,7 @@
 ---
 description: Image Editor - Marketo Docs - Product Documentation
 title: Image Editor
-exl-id: ae15dde8-ddaf-4672-b1db-57d5c30f58d9
+exl-id: fef96635-3011-4549-9c40-e92c3f33c398
 ---
 # Image Editor {#image-editor}
 

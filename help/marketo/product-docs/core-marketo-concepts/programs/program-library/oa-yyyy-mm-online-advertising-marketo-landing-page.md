@@ -2,7 +2,7 @@
 description: OA-YYYY-MM-Online Advertising Marketo Landing Page - Marketo Docs - Product Documentation
 title: OA-YYYY-MM-Online Advertising Marketo Landing Page
 feature: Programs
-exl-id: a41b87d9-922a-4ed8-a2a4-36ef17a88ede
+exl-id: f7f17792-cc16-4a99-8683-68796770e42c
 ---
 # OA-YYYY-MM-Online Advertising Marketo Landing Page {#oa-yyyy-mm-online-advertising-marketo-landing-page}
 

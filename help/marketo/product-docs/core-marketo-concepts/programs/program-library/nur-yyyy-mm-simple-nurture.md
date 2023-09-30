@@ -2,7 +2,7 @@
 description: NUR-YYYY-MM-Simple Nurture - Marketo Docs - Product Documentation
 title: NUR-YYYY-MM-Simple Nurture
 feature: Programs
-exl-id: 3e09ee4f-be65-4f2b-bdf5-ddd98bb49c1c
+exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
 ---
 # NUR-YYYY-MM-Simple Nurture {#nur-yyyy-mm-simple-nurture}
 

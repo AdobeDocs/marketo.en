@@ -2,7 +2,7 @@
 description: EM-YYYY-MM-DD-Single Email Send - Marketo Docs - Product Documentation
 title: EM-YYYY-MM-DD-Single Email Send
 feature: Programs
-exl-id: 4dbf3234-a95e-420a-8975-cf86585fb3fc
+exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
 ---
 # EM-YYYY-MM-DD-Single Email Send {#em-yyyy-mm-dd-single-email-send}
 

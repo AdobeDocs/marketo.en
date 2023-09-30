@@ -2,7 +2,7 @@
 description: Inbox Tracker Tutorials - Marketo Docs - Product Documentation
 title: Inbox Tracker Tutorials
 feature: Deliverability
-exl-id: b7c0c315-5255-4b16-b50d-241f018a7da9
+exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
 ---
 # Inbox Tracker Tutorials {#inbox-tracker-tutorials.md}
 

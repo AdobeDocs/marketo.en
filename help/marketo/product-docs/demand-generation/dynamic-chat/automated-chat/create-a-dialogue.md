@@ -2,7 +2,7 @@
 description: Create a Dialogue - Marketo Docs - Product Documentation
 title: Create a Dialogue
 feature: Dynamic Chat
-exl-id: 337fbb0b-9cc9-41ef-be13-b7aa68ede4be
+exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
 ---
 # Create a Dialogue {#create-a-dialogue}
 

@@ -2,7 +2,7 @@
 description: Inherited Instance Database Checklist - Marketo Docs - Product Documentation
 title: Inherited Instance Database Checklist
 feature: Getting Started
-exl-id: efb126af-770c-4ce1-a131-0f3f66dfeafb
+exl-id: 278a6a2f-7b68-4003-8727-129e0dc96c12
 ---
 # Inherited Instance: Database Checklist {#inherited-instance-database-checklist}
 

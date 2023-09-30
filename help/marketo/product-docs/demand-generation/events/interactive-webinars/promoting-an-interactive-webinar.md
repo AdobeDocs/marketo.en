@@ -2,7 +2,7 @@
 description: Promoting an Interactive Webinar - Marketo Docs - Product Documentation
 title: Promoting an Interactive Webinar
 feature: Interactive Webinars
-exl-id: 1f0777fe-fded-4629-b074-9a1ec94ba996
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
 ---
 # Promoting an Interactive Webinar {#promoting-an-interactive-webinar}
 

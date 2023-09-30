@@ -2,7 +2,7 @@
 description: OP-Acquisition-API - Marketo Docs - Product Documentation
 title: OP-Acquisition-API
 feature: Programs
-exl-id: 1d6ec686-af0b-46a9-b428-1520b671ca24
+exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
 ---
 # OP-Acquisition-API {#op-acquisition-api}
 

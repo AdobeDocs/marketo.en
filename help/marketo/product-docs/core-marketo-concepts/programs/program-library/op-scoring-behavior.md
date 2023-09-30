@@ -2,7 +2,7 @@
 description: OP-Scoring-Behavior - Marketo Docs - Product Documentation
 title: OP-Scoring-Behavior
 feature: Programs
-exl-id: 7822c362-c134-4471-b9a5-4d4f06e989ed
+exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
 ---
 # OP-Scoring-Behavior {#op-scoring-behavior}
 
