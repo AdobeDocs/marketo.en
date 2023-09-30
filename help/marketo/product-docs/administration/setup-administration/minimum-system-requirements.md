@@ -7,7 +7,7 @@ feature: Administration
 ---
 # Minimum System Requirements {#minimum-system-requirements}
 
-If you are wondering what you need to log in and use Marketo, here's the information you're looking for.
+If you are wondering what you need to log in and use Marketo Engage, here's the information you're looking for.
 
 >[!NOTE]
 >
@@ -21,4 +21,4 @@ If you are wondering what you need to log in and use Marketo, here's the informa
 
 >[!NOTE]
 >
->If your IT team restricts web access using an allowlist, ask them to add `*.marketo.com` to allow all Marketo resources and websockets.
+>If your IT team restricts web access using an allowlist, ask them to add `*.marketo.com`, `*.adobe.com`, and `*.adobe.net` to allow all Marketo Engage resources and websockets.
