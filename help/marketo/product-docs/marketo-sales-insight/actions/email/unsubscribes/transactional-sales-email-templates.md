@@ -19,34 +19,32 @@ If your team is sending out transactional or non-commercial emails, you can mark
 
 1. In the header, click **Templates**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-1.png)
 
-1. Search for the template you want to update.
+1. Find and select the template you want to update.
 
-PICC
-
-1. Select the template.
-
-PICC
+   ![](assets/transactional-sales-email-templates-2.png)
 
 1. Enable the non-commercial email toggle under Template Settings.
 
-PICC
+   ![](assets/transactional-sales-email-templates-3.png)
 
 ## Send a Non-commercial Email {#send-a-non-commercial-email}
 
-When an unsubscribed person is selected, they'll be highlighted orange.
+>[!NOTE]
+>
+>When an unsubscribed person is selected, they'll be highlighted orange.
 
-1. In the compose window, select the non-commercial template you want to see.
+1. In the header, click **Compose**. Find and select the desired non-commercial template.
 
-PICC
+   ![](assets/transactional-sales-email-templates-4.png)
 
-1. Users will see a banner showing them that they have currently selected a non-commercial email template.
+1. Users will see a banner showing them they have selected a non-commercial email template.
 
-PICC
+   ![](assets/transactional-sales-email-templates-5.png)
 
 1. Click **Send**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-6.png)
 
 The email will still be sent even if the person is unsubscribed.

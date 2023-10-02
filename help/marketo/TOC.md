@@ -1402,6 +1402,7 @@ feature-set: Marketo Engage
           + [Customize Unsubscribe Link Message](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
           + [Marketo Unsubscribe Check](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
           + [Syncing Unsubscribes with Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+          + [Transactional Sales Email Templates](product-docs/marketo-sales-insight/actions/email/unsubscribes/transactional-sales-email-templates.md)
         + Using the Compose Window {#using-the-compose-window}
           + [Add an Attachment or Trackable Content to Your Email](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
           + [Bulk Emailing Options](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
