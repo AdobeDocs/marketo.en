@@ -25,11 +25,11 @@ If your iPad doesn't already have the Marketo Events app installed, here's how t
 
 1. Open your iPad and launch the App Store.
 
-   ![](assets/image2016-4-14-15-3a52-3a19.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-1.png)
 
 1. In the search box, enter **Marketo** and in Suggestions, tap **marketo events**.
 
-   ![](assets/image2016-4-14-16-3a0-3a3.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-2.png)
 
 1. Follow the procedures to download and install the app on your iPad.
 
@@ -41,7 +41,7 @@ If your Android tablet doesn't have the Marketo Events app installed yet, here's
 1. In the Search box, enter **Marketo** and tap **Return**.
 1. In the Search results, tap the **Marketo Events** app.
 
-   ![](assets/image2016-4-15-14-3a42-3a11.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-3.png)
 
 1. Follow the procedures to download and install the app on your tablet.
 
@@ -52,7 +52,7 @@ Before you assign iPads or tablets to trade show staff, confirm that the login c
 1. Follow the login procedures for iPad or tablet to sign in.
 1. Confirm that your event appears on the Home screen. Remember, it appears only if its dates are within one week before and one week after the current date.
 
-   ![](assets/image2016-4-15-15-3a29-3a0.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-4.png)
 
    >[!NOTE]
    >
@@ -67,11 +67,11 @@ Sync to be sure the people you've added are there.
 
    **iPad**
 
-   ![](assets/image2016-4-12-14-3a25-3a13.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-5.png)
 
    **Android**
 
-   ![](assets/screenshot-2016-04-15-14-14-08-sync-button.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-6.png)
 
 ## Confirm Check-Ins are Working {#confirm-check-ins-are-working}
 
@@ -81,11 +81,11 @@ Be sure to confirm that check-ins are working from the iPad or tablet before the
 1. Tap the **Sync** icon to sync the app.
 1. In Marketo, open your event and click **Members**.
 
-   ![](assets/image2016-4-15-15-3a32-3a42.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-7.png)
 
 1. Confirm that the person's status is changed to **Attended** and Success is checked.
 
-   ![](assets/image2016-4-18-14-3a11-3a36.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-8.png)
 
    >[!TIP]
    >

@@ -475,7 +475,6 @@ feature-set: Marketo Engage
         + [Check People into Your Event from Your Tablet](product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
         + [Grant Users Access to the Check-in App](product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)
         + [Prepare for Your Event](product-docs/core-marketo-concepts/mobile-apps/event-check-in/prepare-for-your-event.md)
-        + [Set up the iPad or Android Tablet](product-docs/core-marketo-concepts/mobile-apps/event-check-in/set-up-the-ipad-or-android-tablet.md)
       + Marketo Moments {#marketo-moments}
         + Understanding Moments {#understanding-moments}
           + [Understanding Marketo Moments](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)

@@ -90,6 +90,10 @@ There's an easy way to specifically target people who are not in your database y
 
 Use Marketo Engage Smart Lists for your Dialogue's target audience.
 
+>[!AVAILABILITY]
+>
+>Member of Smart List or Member of List criteria requires Dynamic Chat Prime. Please contact the Adobe Account Team (your Account Manager) for details.
+
 1. Under Membership, grab **Member of Smart List** and drop it onto the canvas.
 
    ![](assets/audience-criteria-15a.png)
