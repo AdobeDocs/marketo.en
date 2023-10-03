@@ -9,12 +9,15 @@ feature: Mobile Marketing
 
 When people show up at your event, you can find their information on the app. After check-in, they're promoted to Attended status when you sync to Marketo.
 
+>[!IMPORTANT]
+>
+>On October 2, 2023, Adobe removed the Marketo Events App from all App Stores. If you already have the app installed on your tablet/mobile device, you can continue using it for the time being. Once your Marketo Engage instance is migrated to Adobe Identity for authentication of Marketo, you will no longer be able to access the app.
+
 The app works the same on both iPad and Android, except for minor layout and design differences.
 
 >[!PREREQUISITES]
 >
 >* Create an event in Marketo and populate it with Invited and Registered people.
->* Download the tablet app for [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&hl=en) or [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
 
 ## Check in Registered Guests {#check-in-registered-guests}
 

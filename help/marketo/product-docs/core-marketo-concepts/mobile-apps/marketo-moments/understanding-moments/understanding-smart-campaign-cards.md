@@ -7,9 +7,13 @@ feature: Mobile Marketing
 ---
 # Understanding Smart Campaign Cards {#understanding-smart-campaign-cards}
 
-Use Marketo Moments to view each run of your smart campaigns from your smart phone or iPad. The Marketo Moments smart campaign card represents a single run of a  campaign; a new card appears each time the smart campaign runs. Smart campaign cards are marked with a light bulb at the upper left.
+Use Marketo Moments to view each run of your Smart Campaigns from your smart phone or iPad. The Marketo Moments Smart Campaign card represents a single run of a  campaign; a new card appears each time the Smart Campaign runs. Smart Campaign cards are marked with a light bulb at the upper left.
 
-For future smart campaigns that are scheduled but have not yet run, the Marketo Moments card doesn't display any campaign stats yet. They'll appear in a future release.
+>[!IMPORTANT]
+>
+>On October 2, 2023, Adobe removed the Marketo Moments App from all App Stores. If you already have the app installed on your tablet/mobile device, you can continue using it for the time being. Once your Marketo Engage instance is migrated to Adobe Identity for authentication of Marketo, you will no longer be able to access the app.
+
+For future Smart Campaigns that are scheduled but have not yet run, the Marketo Moments card doesn't display any campaign stats yet. They'll appear in a future release.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
@@ -45,7 +49,7 @@ For future smart campaigns that are scheduled but have not yet run, the Marketo 
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
-1. See those two dots at the bottom? They indicate that there are two emails connected to this smart campaign. To view results for the other email, swipe the screen to the left. Here are the results for the second email.
+1. See those two dots at the bottom? They indicate that there are two emails connected to this Smart Campaign. To view results for the other email, swipe the screen to the left. Here are the results for the second email.
 
    ![](assets/image2015-9-21-14-3a4-3a51.png)
 
@@ -67,9 +71,9 @@ It's a good idea to get a look at an email before it goes out. Or, send a sample
 
 ## Confirming a Smart Campaign Run {#confirming-a-smart-campaign-run}
 
-Cards for unconfirmed smart campaigns are gray until you confirm them. Then, they turn orange.
+Cards for unconfirmed Smart Campaigns are gray until you confirm them. Then, they turn orange.
 
-1. To confirm an unconfirmed smart campaign card, tap the three dot action menu.
+1. To confirm an unconfirmed Smart Campaign card, tap the three dot action menu.
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
@@ -87,7 +91,7 @@ Cards for unconfirmed smart campaigns are gray until you confirm them. Then, the
 
 ## Canceling a Smart Campaign Run {#canceling-a-smart-campaign-run}
 
-You can cancel a confirmed, scheduled smart campaign run.
+You can cancel a confirmed, scheduled Smart Campaign run.
 
 1. Tap the three dot action menu.
 
@@ -97,13 +101,13 @@ You can cancel a confirmed, scheduled smart campaign run.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Tap **Cancel Run**. If you decide at the last minute not to cancel the run, tap **Never Mind**, and the smart campaign will run as scheduled.
+1. Tap **Cancel Run**. If you decide at the last minute not to cancel the run, tap **Never Mind**, and the Smart Campaign will run as scheduled.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
 ## Rescheduling a Smart Campaign {#rescheduling-a-smart-campaign}
 
-You can reschedule a confirmed smart campaign that hasn't run yet.
+You can reschedule a confirmed Smart Campaign that hasn't run yet.
 
 1. Tap the three dot action menu.
 

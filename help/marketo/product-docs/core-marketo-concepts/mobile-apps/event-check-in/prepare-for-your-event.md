@@ -9,6 +9,10 @@ feature: Mobile Marketing
 
 There are several things you have to do to get ready for the event.
 
+>[!IMPORTANT]
+>
+>On October 2, 2023, Adobe removed the Marketo Events App from all App Stores. If you already have the app installed on your tablet/mobile device, you can continue using it for the time being. Once your Marketo Engage instance is migrated to Adobe Identity for authentication of Marketo, you will no longer be able to access the app.
+
 ## Create a New Marketo Role {#create-a-new-marketo-role}
 
 Marketo has a special user role for the event check-in app. [Create a new Marketo role](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) for iPad or Android users, with permission to access the mobile application.

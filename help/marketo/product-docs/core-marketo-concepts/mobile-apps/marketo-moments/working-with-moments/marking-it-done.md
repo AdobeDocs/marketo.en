@@ -9,6 +9,10 @@ feature: Mobile Marketing
 
 Mark an email program, event, or analytics card as Done to remove it from your stream. There are two ways to do it.
 
+>[!IMPORTANT]
+>
+>On October 2, 2023, Adobe removed the Marketo Moments App from all App Stores. If you already have the app installed on your tablet/mobile device, you can continue using it for the time being. Once your Marketo Engage instance is migrated to Adobe Identity for authentication of Marketo, you will no longer be able to access the app.
+
 1. Tap the action menu.
 
    ![](assets/image2015-7-14-17-3a32-3a35.png)

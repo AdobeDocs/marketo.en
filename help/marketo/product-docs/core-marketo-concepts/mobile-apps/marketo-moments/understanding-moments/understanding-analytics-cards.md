@@ -9,6 +9,10 @@ feature: Mobile Marketing
 
 At the beginning of each month, Marketo Moments provides three different report cards: Acquired Leads, New Leads, and Unsubscribes. Each one shows you monthly performance and the trend over a six-month period.
 
+>[!IMPORTANT]
+>
+>On October 2, 2023, Adobe removed the Marketo Moments App from all App Stores. If you already have the app installed on your tablet/mobile device, you can continue using it for the time being. Once your Marketo Engage instance is migrated to Adobe Identity for authentication of Marketo, you will no longer be able to access the app.
+
 ## Analytics Cards {#analytics-cards}
 
 When you tap an Analytics card you can:

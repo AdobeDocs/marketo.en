@@ -9,6 +9,10 @@ feature: Mobile Marketing
 
 Marketo has a special user role for the event check-in app. Here's how to create a new role with permission to use the app.
 
+>[!IMPORTANT]
+>
+>On October 2, 2023, Adobe removed the Marketo Events App from all App Stores. If you already have the app installed on your tablet/mobile device, you can continue using it for the time being. Once your Marketo Engage instance is migrated to Adobe Identity for authentication of Marketo, you will no longer be able to access the app.
+
 ## Create a New User Role for Mobile {#create-a-new-user-role-for-mobile}
 
 1. Click **Admin**.

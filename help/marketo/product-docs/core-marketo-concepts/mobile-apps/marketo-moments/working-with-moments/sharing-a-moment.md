@@ -7,7 +7,11 @@ feature: Mobile Marketing
 ---
 # Sharing a Moment {#sharing-a-moment}
 
-Want to give an update to your team? You've got two choices to select sharing:
+Want to give an update to your team? You've got two choices to select sharing.
+
+>[!IMPORTANT]
+>
+>On October 2, 2023, Adobe removed the Marketo Moments App from all App Stores. If you already have the app installed on your tablet/mobile device, you can continue using it for the time being. Once your Marketo Engage instance is migrated to Adobe Identity for authentication of Marketo, you will no longer be able to access the app.
 
 1. Tap the **Share** icon on the card.
 
