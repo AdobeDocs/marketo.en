@@ -93,7 +93,7 @@ Below are the icons for the new Adobe Marketo Engage interface. If you need to r
    <td>Folder - archived</td> 
   </tr>
   <tr>
-   <td><img src="assets/classic-folder-shared.png"></td> 
+   <td><img src="assets/classic-shared-folder.png"></td> 
    <td><img src="assets/folder-shared.png"></td> 
    <td>Folder - shared</td> 
   </tr>
