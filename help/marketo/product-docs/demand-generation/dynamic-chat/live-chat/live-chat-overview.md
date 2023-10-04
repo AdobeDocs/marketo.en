@@ -14,6 +14,10 @@ To get started with live chat, you'll need to add your live chat agents as [user
 
 When visitors request to chat with an agent through your Dialogue, agents will have multiple [notification options](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} where they can begin chatting with the visitor.
 
+>[!NOTE]
+>
+>The live agent avatar uses the profile picture from the agent's Adobe account profile. To update the image, follow [these steps](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
+
 ## Using the Live Chat Card {#using-the-live-chat-card}
 
 Use the live chat card in the [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} when you want visitors to chat with a live agent.
