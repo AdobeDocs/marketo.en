@@ -16,8 +16,10 @@ This tool is used to `auto-personalize your email` and save you tons of time by 
 | `{{company}}` | Adobe |
 | `{{company_friendly}}` | Adobe |
 | `{{first_name}}` | Keith |
-| `{{friendly_unsubscribe}}` | If you don't want to hear from me again, please let me know here |
+| `{{team_unsubscribe}}` | If you no longer wish to receive emails from us, click here |
+| `{{friendly_unsubscribe}}` | Tired of all the emails? Please let me know here |
 | `{{my_name}}` | Keith Flynn |
+| `{{my_signature}}` | Keith Flynn, Senior Technical Writer - Adobe |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | Senior Technical Writer |
 | `{{work_website}}` | https://www.adobe.com |
@@ -27,6 +29,7 @@ This tool is used to `auto-personalize your email` and save you tons of time by 
 * If a contact's information is entered incorrectly or is missing from the People page, it will not pull over correctly into your template.
 * The difference between `{{company}}` and `{{company_friendly}}` is that `{{company_friendly}}` will remove any formal title, such as Inc., LLC., etc., from the name of your contact's company.
 * When using `{{company_friendly}}`, make sure you separate Inc. or Co. with a comma in the contact details. This is how Sales Connect knows what to remove when pulling in the value.
+* If you use the `{{my_signature}}` dynamic field, the system will not automatically append the user's signature to prevent duplicates.
 
 >[!TIP]
 >

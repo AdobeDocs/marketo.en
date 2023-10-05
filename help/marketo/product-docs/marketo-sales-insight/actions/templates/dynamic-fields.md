@@ -48,14 +48,16 @@ This tool is used to `auto-personalize your email` and save you tons of time by 
 
 | Dynamic Field | Example of what appears in your email |
 |---|---|
-| `{{company}}` | Marketo |
-| `{{company_friendly}}` | Marketo |
+| `{{company}}` | Adobe |
+| `{{company_friendly}}` | Adobe |
 | `{{first_name}}` | Keith |
-| `{{friendly_unsubscribe}}` | If you don't want to hear from me again, please let me know here |
-| `{{my_name}}` | Alan Bradley |
+| `{{team_unsubscribe}}` | If you no longer wish to receive emails from us, click here |
+| `{{friendly_unsubscribe}}` | Tired of all the emails? Please let me know here |
+| `{{my_name}}` | Keith Flynn |
+| `{{my_signature}}` | Keith Flynn, Senior Technical Writer - Adobe |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | Senior Technical Writer |
-| `{{work_website}}` | https://www.marketo.com |
+| `{{work_website}}` | https://www.adobe.com |
 
 **Things to note**:
 
@@ -63,6 +65,7 @@ This tool is used to `auto-personalize your email` and save you tons of time by 
 * The difference between `{{company}}` and `{{company_friendly}}` is that `{{company_friendly}}` will remove any formal title, such as Inc., LLC., etc., from the name of your contact's company.
 * When using `{{company_friendly}}`, make sure you separate Inc. or Co. with a comma in the contact details. This is how Sales Insight Actions knows what to remove when pulling in the value.
 * We allow you to personalize your email templates with predefined attributes like `{{my_name}}` or `{{my_title}}`. These fields allow you to quickly reference yourself in your email templates.
+* If you use the `{{my_signature}}` dynamic field, the system will not automatically append the user's signature to prevent duplicates.
 
 >[!TIP]
 >

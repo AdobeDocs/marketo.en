@@ -1,8 +1,6 @@
 ---
 description: Transactional Sales Email Templates - Marketo Docs - Product Documentation
 title: Transactional Sales Email Templates
-hide: yes
-hidefromtoc: yes
 feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177
 ---
