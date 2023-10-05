@@ -29,7 +29,7 @@ This tool is used to `auto-personalize your email` and save you tons of time by 
 * If a contact's information is entered incorrectly or is missing from the People page, it will not pull over correctly into your template.
 * The difference between `{{company}}` and `{{company_friendly}}` is that `{{company_friendly}}` will remove any formal title, such as Inc., LLC., etc., from the name of your contact's company.
 * When using `{{company_friendly}}`, make sure you separate Inc. or Co. with a comma in the contact details. This is how Sales Connect knows what to remove when pulling in the value.
-* If you use the `{{my_signature}}` dynamic field, the system will not automatically append the user's signature to prevent duplicates.
+* The system automatically appends the user's signature to each email sent. If the user is using a template with the `{{my_signature}}` dynamic field, the system will populate the signature where the `{{my_signature}}` dynamic field has been placed. It's only added there as to avoid duplication. The system will handle `{{team_unsubscribe}}` the same way when the global append unsubscribe setting is enabled.
 
 >[!TIP]
 >
