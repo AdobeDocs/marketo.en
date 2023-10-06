@@ -9,7 +9,7 @@ feature: Release Information
 
 **Release**: The month/year of each release. Once available, the release notes will be linked in the table below.
 
-**Release Date**: Rollout typically begins on Tuesday of release week, with the bulk of the upgrade happening Friday evening. An email is sent out with specific dates and release details. The date listed is for the Friday update.
+**Release Date**: Rollout typically begins on Tuesday of release week, with more of the upgrade happening Friday evening. The date listed is for the Friday update.
 
 **Status**:
 
@@ -17,7 +17,7 @@ feature: Release Information
 * In Progress - We're in the process of rolling out the features of the release
 * Shipped - The release is complete
 
-_Release dates are subject to change_
+_Release dates/features are subject to change_
 
 <table> 
  <colgroup> 
