@@ -7,7 +7,7 @@ feature: Field Management
 ---
 # Hide and Unhide a Field {#hide-and-unhide-a-field}
 
-If you no longer have use for a field in Marketo, you can hide it from the UI so that it no longer displays in the application.
+If you no longer have use for a field in Marketo Engage, you can hide it from the UI so it no longer displays in the application.
 
 ## Hide a Field {#hide-a-field}
 
@@ -29,7 +29,8 @@ If you no longer have use for a field in Marketo, you can hide it from the UI so
 
    >[!NOTE]
    >
-   >In order to hide a field it must not be associated with any other assets (including archived ones). Make sure to remove the field from all smart lists, flow step choices, forms, emails, etc., before hiding.
+   >* In order to hide a field it must not be associated with any other assets (including archived ones). Make sure to remove the field from all Smart Lists, flow step choices, forms, emails, etc., before hiding.
+   >* You cannot hide standard (system) fields.
 
 1. Click **[!UICONTROL Hide]** to confirm.
 
@@ -53,8 +54,5 @@ If you no longer have use for a field in Marketo, you can hide it from the UI so
 
    ![](assets/hide-and-unhide-a-field-8.png)
 
-   Great work! Now you know how to unhide fields and make them visible again in the Marketo user interface.
+   Great work! Now you know how to unhide fields and make them visible again.
 
-   >[!TIP]
-   >
-   >Need to have a mass hide/unhide performed? Contact Marketo Professional Services: services@marketo.com.
