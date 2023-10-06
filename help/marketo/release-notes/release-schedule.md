@@ -31,39 +31,45 @@ _Release dates are subject to change_
    <th width="250px">Release Date</th>
    <th width="250px">Status</th>
   </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-oct-22.md">October '22</a></td>
-   <td>October 14, 2022</td>
-   <td>Shipped</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-jan-23.md">January '23</a></td>
-   <td>January 20, 2023</td>
-   <td>Shipped</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-mar-23.md">March '23</a></td>
-   <td>March 31, 2023</td>
-   <td>Shipped</td>
-  </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-may-23.md">May '23</a></td>
-   <td>May 12, 2023</td>
-   <td>Shipped</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-july-23.md">July '23</a></td>
-   <td>July 21, 2023</td>
-   <td>Shipped</td>
-  </tr>
+  
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-sep-23.md">September '23</a></td>
    <td>September 8, 2023</td>
-   <td>In Progress</td>
+   <td>Shipped</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">October '23</a></td>
    <td>October 6, 2023</td>
+   <td>In Progress</td>
+  </tr>
+  <tr> 
+   <td>January '24</td>
+   <td>January 12, 2024</td>
+   <td>On Schedule</td>
+  </tr>
+  <tr> 
+   <td>March '24</td>
+   <td>March 8, 2024</td>
+   <td>On Schedule</td>
+  </tr>
+  <tr> 
+   <td>April '24</td>
+   <td>April 26, 2024</td>
+   <td>On Schedule</td>
+  </tr>
+  <tr>
+   <td>June '24</td>
+   <td>June 7, 2024</td>
+   <td>On Schedule</td>
+  </tr>
+  <tr> 
+   <td>August '24</td>
+   <td>August 9, 2024</td>
+   <td>On Schedule</td>
+  </tr>
+  <tr> 
+   <td>October '24</td>
+   <td>October 4, 2024</td>
    <td>On Schedule</td>
   </tr>
  </tbody>
