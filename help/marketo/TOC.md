@@ -642,6 +642,7 @@ feature-set: Marketo Engage
       + [Meeting List](product-docs/demand-generation/dynamic-chat/meeting-list.md)
       + [Dynamic Chat Activities](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
       + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
+      + [FAQ](product-docs/demand-generation/dynamic-chat/faq.md)
       + Automated Chat {#automated-chat}
         + [Conversational Flow Overview](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
         + [Create a Conversational Flow](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)
