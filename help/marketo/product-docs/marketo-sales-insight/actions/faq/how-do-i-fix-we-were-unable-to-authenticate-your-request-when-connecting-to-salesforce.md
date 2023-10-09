@@ -25,7 +25,7 @@ This error typically indicates you have a custom domain that we're not able to r
 
 If the instance you're trying to connect to is a Salesforce Sandbox domain and you're getting an error, you'll need to go through additional steps to update your instance to be Salesforce Sandbox compatible. [Learn more](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}. 
 
-## Resolve Oauth App Blocked and Other Error Types {#resolve-oauth-app-blocked-and-other-error-types}
+## Resolve Oauth App Blocked {#resolve-oauth-app-blocked}
 
 If you receive the error message "We were unable to authenticate your request" with the Oauth App Blocked error type or another type in the URL, there might be a restriction on your access to Salesforce's API. Check with your Salesforce Admin to make sure the following things are in place. 
 
