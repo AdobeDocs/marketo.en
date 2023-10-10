@@ -7,34 +7,36 @@ feature: Smart Campaigns
 ---
 # Schedule a Recurring Batch Campaign {#schedule-a-recurring-batch-campaign}
 
-Recurrence allows you to run a batch smart campaign on a regular schedule. For example - once a week, Mondays at 12:00 PM.
+Recurrence allows you to run a Batch Campaign on a regular schedule. For example - once a week, Tuesdays at 10:00 AM.
 
-1. Select the campaign, go to the Schedule tab, and click **Schedule Recurrence**.
+1. Select the Smart Campaign, go to the **Schedule** tab, and click **Schedule Recurrence**.
 
-   ![](assets/recurrencehands-sendemail.png)
+   ![](assets/schedule-a-recurring-batch-campaign-1.png)
 
-1. Click the Schedule drop-down and select **Weekly**.
+1. Click the **Schedule** drop-down and select **Weekly**.
 
-   ![](assets/image2014-9-22-11-3a41-3a42.png)
+   ![](assets/schedule-a-recurring-batch-campaign-2.png)
 
-1. Click the calendar icon and select the day for the first run. For this example, we are using the next available Monday.
+1. Click the calendar icon and select the desired day for the first run.
 
-   ![](assets/image2014-9-22-11-3a41-3a46.png)
+   ![](assets/schedule-a-recurring-batch-campaign-3.png)
 
 1. Select the time at which it should run.
 
-   ![](assets/image2014-9-22-11-3a41-3a49.png)
+   ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. Leave Repeat every as 1, select Monday and click **Save**.
+1. Leave Repeat every as 1, select Tuesday and click **Save**.
 
-   ![](assets/image2014-9-22-11-3a41-3a53.png)
+   ![](assets/schedule-a-recurring-batch-campaign-5.png)
 
-1. You can see the scheduled recurrences under the Schedule tab to validate.
+   >[!NOTE]
+   >
+   >For a specific run length, you can click the calendar icon next to **End on** and choose the end date.
 
-   ![](assets/recurrence.jpg)
+The scheduled recurrences are displayed at the bottom of the Schedule tab.
+
+   ![](assets/schedule-a-recurring-batch-campaign-6.png)
 
 >[!NOTE]
 >
->The Schedule tab will show the next three occurrences for reference.
-
-And that's it! Your batch campaign will now run every Monday at noon.
+>The Schedule tab will show the next three occurrences for reference. Clicking the red **X** will cancel that specific run.

@@ -7,28 +7,28 @@ feature: Smart Campaigns
 ---
 # Using Standard Smart List Rule Logic {#using-standard-smart-list-rule-logic}
 
-You may have noticed the "Use filters" option when building campaign smart lists. This setting allows you to decide if the filters need to be evaluated with an AND or an OR operator.
+You may have noticed the "Use filters" option when building campaign Smart Lists. This setting allows you to decide if the filters need to be evaluated with an AND or an OR operator.
 
-![](assets/image2014-9-22-14-3a12-3a42.png)
+![](assets/using-standard-smart-list-rule-logic-1.png)
 
 >[!NOTE]
 >
 >Changing smart list rule logic only applies to filters, **not** triggers.
 
-Triggers are always evaluated as OR even if the above setting is set to ALL.  Here's an example:
+Triggers are always evaluated as OR even if the above setting is set to ALL. Here's an example:
 
-![](assets/image2014-9-22-14-3a12-3a57.png)
+![](assets/using-standard-smart-list-rule-logic-2.png)
 
-The above smart list in words:
+The above Smart List in words:
 
 ```box
-IF person fills out My Form
+IF person fills out Great Form
 OR
-IF person visits My Page 
+IF person visits Keith's Landing Page 
 AND 
-Industry is Marketing 
+Industry is Energy 
 AND 
-Country is USA 
+Country is US 
 THEN follow the campaign's flow step(s)
 ```
 
