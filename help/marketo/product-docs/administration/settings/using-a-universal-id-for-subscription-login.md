@@ -55,7 +55,7 @@ If you have multiple subscriptions, you may have multiple community profiles. We
 
 ## Mobile Platform {#mobile-platform}
 
-Users with Universal ID can see their data on [Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} from the subscription that they have last logged into. You can't change subscriptions from the Mobile platform itself.
+Users with Universal ID can see their data on [Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} from the subscription that they have last logged in to. You can't change subscriptions from the Mobile platform itself.
 
 >[!MORELIKETHIS]
 >
