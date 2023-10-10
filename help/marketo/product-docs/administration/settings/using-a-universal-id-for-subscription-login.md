@@ -15,7 +15,7 @@ Subscription level settings are honored for users who are using Universal ID, fo
 
 ## Setting Up a Universal ID {#setting-up-a-universal-id}
 
-All Marketo subscriptions come with the optional Universal ID feature. From each individual instance, your Marketo admin must invite you to each of your different subscriptions with the same login. Marketo can’t merge your existing logins automatically.
+All Marketo subscriptions come with the optional Universal ID feature. From each individual instance, your Marketo admin must invite you to each of your different subscriptions with the same login. Marketo can't merge your existing logins automatically.
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ With a Universal ID for multiple subscriptions, only you can change the password
 
 >[!NOTE]
 >
->Marketo will ask users who want to use Universal ID to reset their password if the current subscription’s password doesn't comply with the password policy of the second subscription to which they are being invited.
+>Marketo will ask users who want to use Universal ID to reset their password if the current subscription's password doesn't comply with the password policy of the second subscription to which they are being invited.
 
 ## Switching Between Subscriptions {#switching-between-subscriptions}
 
@@ -55,10 +55,10 @@ If you have multiple subscriptions, you may have multiple community profiles. We
 
 ## Mobile Platform {#mobile-platform}
 
-Users with Universal ID can see their data on Marketo Moments and the iPad event check-in application from the subscription that they have last logged into. You can't change subscriptions from the Mobile platform itself.
+Users with Universal ID can see their data on [Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} from the subscription that they have last logged into. You can't change subscriptions from the Mobile platform itself.
 
 >[!MORELIKETHIS]
 >
->* [Add Single Sign-On to a Portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [Restrict User Login to SSO Only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [Inviting Marketo Users to Two Instances with Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [Add Single Sign-On to a Portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"}
+>* [Restrict User Login to SSO Only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [Inviting Marketo Users to Two Instances with Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
