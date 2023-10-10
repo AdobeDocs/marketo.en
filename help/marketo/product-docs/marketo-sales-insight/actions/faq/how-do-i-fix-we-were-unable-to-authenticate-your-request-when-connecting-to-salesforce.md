@@ -27,7 +27,7 @@ If the instance you're trying to connect to is a Salesforce Sandbox domain and y
 
 ## Resolve Oauth App Blocked {#resolve-oauth-app-blocked}
 
-If you receive the error message "We were unable to authenticate your request" with the Oauth App Blocked error type or another type in the URL, there might be a restriction on your access to Salesforce's API. Check with your Salesforce Admin to make sure the following things are in place. 
+If you received the error message "We were unable to authenticate your request" with the Oauth App Blocked error type (or another type) in the URL, there might be a restriction on your access to Salesforce's API. Check with your Salesforce Admin to make sure the things below are in place.
 
 ### Enable API in User Permissions {#enable-api-in-user-permissions}
 
