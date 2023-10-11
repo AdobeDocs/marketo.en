@@ -10,9 +10,11 @@ Learn more about the Dynamic Chat integration with Sales Insight.
 
 >[!PREREQUISITES]
 >
->* Your Sales Insight SFDC package must be version [1.9 or higher](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
+>* Your Sales Insight SFDC package must be version [2.4.0 or higher](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
 >* You must have the [Dynamic Chat integration](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} set up
+>
+>* Make sure in your Sales Insight [Operational Settings](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}, you have the "API Secret Key" field populated. If you don't, learn how to retrieve it [here](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
 
 ## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
 
