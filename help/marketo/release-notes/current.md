@@ -47,8 +47,9 @@ The following features fall under the standard release cycle and will start to b
   </tr>
    <tr> 
    <td><strong>Download Recording and Assign Co-host in Interactive Webinars</strong>: You can now add an external co-host for your webinar in case the original host is unavailable. You also now have the ability to download the webinar recording.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">Download Recording</a></li>
+   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">Create an Interactive Webinar</a></li></td>
   </tr>
  </tbody> 
 </table>

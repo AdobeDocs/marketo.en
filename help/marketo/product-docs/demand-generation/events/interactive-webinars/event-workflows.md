@@ -26,30 +26,41 @@ The Dashboard consists of four widgets.
 
 **Click and File Download Activity**: Provides the download count of file and weblinks clicked during the webinar powered by Adobe Connect by various members who have attended the webinar and taken that specific action.
 
+## Webinar Recording {#webinar-recording}
+
+Go to the Overview tab to view the recorded webinar, get its link to share it, even download a copy.
+
+   ![](assets/event-workflows-2.png)
+
+>[!NOTE]
+>
+>* The recording is downloaded in MP4 format.
+>* When sharing the recording it will be viewable by anyone who has the link, so make sure it's shared with the intended audience.
+
 ## Triggers and Filters {#triggers-and-filters}
 
 Use Interactive Webinar-related triggers and filters to locate specific groups of people within your Event Program.
 
-   ![](assets/event-workflows-2.png)
+   ![](assets/event-workflows-3.png)
 
 Each trigger/filter comes with additional constraints, allowing you to capture a focused subset of that group.
 
 **Asks questions during event** (Filter version: Has asked questions during event)
 
-   ![](assets/event-workflows-3.png)
+   ![](assets/event-workflows-4.png)
 
 **Attends event** (Filter version: Has attended event)
 
-   ![](assets/event-workflows-4.png)
+   ![](assets/event-workflows-5.png)
 
 **Clicks on a link** (Filter version: Clicked on a link)
 
-   ![](assets/event-workflows-5.png)
+   ![](assets/event-workflows-6.png)
 
 **Downloads an asset** (Filter version: Downloaded an asset)
 
-   ![](assets/event-workflows-6.png)
+   ![](assets/event-workflows-7.png)
 
 **Responds to a poll** (Filter version: Responded to a poll)
 
-   ![](assets/event-workflows-7.png)
+   ![](assets/event-workflows-8.png)

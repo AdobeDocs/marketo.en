@@ -18,7 +18,7 @@ The Dynamic Chat JavaScript snippet can be installed on any website as well as M
 
 **Does Dynamic Chat support any languages besides English?**
 
-Yes. Dynamic Chat supports the following languages: French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese. Learn more in [Changing the Language](#changing-the-language).
+Yes. Dynamic Chat supports the following languages: French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese. Learn more in [Changing the Language](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **Do you support AI/NLP functionality?**
 
@@ -75,6 +75,10 @@ This most likely indicates that your calendar connection needs to be re-authenti
 **What is the difference between a Dialogue and a Conversational Flow?**
 
 A Dialogue is a conversation that is automatically displayed to web visitors who meet a defined set of targeting criteria. A Conversational Flow is only displayed to visitors who perform a specific action on the web, such as pressing a button.
+
+**Is there a way to use Dynamic Chat to book meetings directly from an email?**
+
+Yes! [Learn how](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
 **Can I use Dynamic Chat without Marketo Engage?**
 
