@@ -20,8 +20,8 @@ The following features fall under the standard release cycle and will start to b
  <tbody> 
   <tr> 
    <th style="width:65%">Feature</th> 
-   <th style="width:15%">Status</th>
-   <th style="width:20%">Documention</th>
+   <th style="width:10%">Status</th>
+   <th style="width:25%">Documention</th>
   </tr> 
   <tr> 
    <td><strong>New Design for Report Configuration in Modern UX</strong>: When setting up a report asset, you will have a <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">new asset tree</a> in the configuration menu as well as the ability to filter on date created and modified.</td> 
