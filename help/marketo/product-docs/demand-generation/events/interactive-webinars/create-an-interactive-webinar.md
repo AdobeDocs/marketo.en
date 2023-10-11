@@ -48,4 +48,6 @@ Your Interactive Webinar is created. You can add presenters and/or co-hosts.
 
    ![](assets/create-an-interactive-webinar-8.png)
 
+<br>
+
 Now, it's time to [design your webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.

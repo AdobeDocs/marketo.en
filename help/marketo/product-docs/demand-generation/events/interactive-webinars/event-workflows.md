@@ -28,7 +28,7 @@ The Dashboard consists of four widgets.
 
 ## Webinar Recording {#webinar-recording}
 
-Go to the Overview tab to view the recorded webinar, get its link to share it, even download a copy.
+Go to the Overview tab to view the recorded webinar, get the link to share it, even download a copy.
 
    ![](assets/event-workflows-2.png)
 
