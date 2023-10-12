@@ -36,8 +36,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
    <tr> 
    <td><strong>Compute Formula Flow Step Service</strong>: Compute Formula is a Flow Step service built on Adobe's IO Runtime platform for use with Marketo Engage Smart Campaigns. Those with IO runtime can deploy the service and install it to their Marketo Engage subscriptions, allowing them to compute Excel-like formulas in Marketo Engage Smart Campaigns.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">Compute Formula User Guide</a></td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
