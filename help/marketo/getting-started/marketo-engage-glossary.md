@@ -166,7 +166,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
    <td colspan="1">In Marketo you can make duplicates of several different types of entities within your instance. You can clone <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">programs</a>, an <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">asset within a program</a>, a <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">stream</a>, and more.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">The front part of your URL. The one word (plus YourCompany.com) is called a CNAME (e.g., <em>info</em>.YourCompany.com/).</td> 
   </tr> 
   <tr> 
