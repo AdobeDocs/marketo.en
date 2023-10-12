@@ -186,7 +186,6 @@ feature-set: Marketo Engage
       + [Change Your Marketo Password](product-docs/administration/settings/change-your-marketo-password.md)
       + [Change your Password Security Settings](product-docs/administration/settings/change-your-password-security-settings.md)
       + [Creating a Custom Tab for the Person Detail Page](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-      + [Customize Your Landing Page URLs With a CNAME](product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md)
       + [Edit Account Settings](product-docs/administration/settings/edit-account-settings.md)
       + [Edit "Do Not Track" Browser Support Settings](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
       + [Edit Landing Page Settings](product-docs/administration/settings/edit-landing-page-settings.md)
