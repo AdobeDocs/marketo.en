@@ -19,11 +19,9 @@ When you tap any Email Program card you can:
 * [Mark an event as done](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [Share an event moment card](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-There are two event cards. The On-Deck card, sent a few hours before the event, shows how many people are signed up. The Results card, sent afterwards, displays how many actually attended.
+There are two event cards. The [!UICONTROL On-Deck] card, sent a few hours before the event, shows how many people are signed up. The [!UICONTROL Results] card, sent afterwards, displays how many actually attended.
 
 ![](assets/image2015-7-15-16-3a56-3a16.png)
-
-You're good!
 
 >[!MORELIKETHIS]
 >

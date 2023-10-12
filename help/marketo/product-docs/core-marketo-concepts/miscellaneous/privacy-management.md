@@ -19,13 +19,13 @@ Marketo Engage offers a set of tools to help you comply with Privacy regulations
 
 ## Regulations on Privacy Management {#regulations-on-privacy-management}
 
-Marketo Engage’s capabilities help you comply with the following regulations:
+Marketo Engage's capabilities help you comply with the following regulations:
 
-* **GDPR** [General Data Protection Regulation](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en) is the European Union’s (EU) privacy law that harmonizes and modernizes data protection requirements for EU countries.
-* **CCPA** [California Consumer Privacy Act](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.5.&part=4.&chapter=&article=) provides California residents rights in regards to their personal information and imposes data protection responsibilities on certain entities that conduct business in California.
-* **PDPA** [Personal Data Protection Act](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/) is the privacy law that harmonizes and modernizes data protection requirements for Thailand.
-* **LGPD** [Lei Geral de Proteção de Dados](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf) effective as of early 2021 for all companies collecting or processing personal data in Brazil.
-* **NZPA** [Privacy Act 2020](https://www.privacy.org.nz/privacy-act-2020/privacy-act-2020/) is the privacy law that harmonizes and modernizes data protection requirements for New Zealand.
+* **[!DNL GDPR]** [General Data Protection Regulation](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en) is the European Union's (EU) privacy law that harmonizes and modernizes data protection requirements for EU countries.
+* **[!DNL CCPA]** [California Consumer Privacy Act](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.5.&part=4.&chapter=&article=) provides California residents rights in regards to their personal information and imposes data protection responsibilities on certain entities that conduct business in California.
+* **[!DNL PDPA]** [Personal Data Protection Act](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/) is the privacy law that harmonizes and modernizes data protection requirements for Thailand.
+* **[!DNL LGPD]** [Lei Geral de Proteção de Dados](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf) effective as of early 2021 for all companies collecting or processing personal data in Brazil.
+* **[!DNL NZPA]** [Privacy Act 2020](https://www.privacy.org.nz/privacy-act-2020/privacy-act-2020/) is the privacy law that harmonizes and modernizes data protection requirements for New Zealand.
 
 All of the above regulations apply to Marketo Engage customers who hold data for Data Subjects residing in the respective regions or countries mentioned above (EU, California, Thailand, Brazil, New Zealand).
 

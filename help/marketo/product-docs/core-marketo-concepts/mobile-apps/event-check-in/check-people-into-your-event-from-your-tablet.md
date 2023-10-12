@@ -13,7 +13,7 @@ When people show up at your event, you can find their information on the app. Af
 >
 >On October 2, 2023, Adobe removed the Marketo Events App from all App Stores. If you already have the app installed on your tablet/mobile device, you can continue using it for the time being. Once your Marketo Engage instance is migrated to Adobe Identity for authentication of Marketo, you will no longer be able to access the app. [Learn more](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-The app works the same on both iPad and Android, except for minor layout and design differences.
+The app works the same on both [!DNL iPad] and [!DNL Android], except for minor layout and design differences.
 
 >[!PREREQUISITES]
 >
@@ -21,19 +21,19 @@ The app works the same on both iPad and Android, except for minor layout and des
 
 ## Check in Registered Guests {#check-in-registered-guests}
 
-1. Tap the app icon on your iPad or Android tablet.
+1. Tap the app icon on your [!DNL iPad] or [!DNL Android] tablet.
 
-1. Tap **Login** to launch the Marketo Event app.
+1. Tap **[!UICONTROL Login]** to launch the Marketo Event app.
 
    ![](assets/1.jpg)
 
-1. Enter your Marketo username and password and click **Login**.
+1. Enter your Marketo username and password and click **[!UICONTROL Login]**.
 
    >[!NOTE]
    >
    >You must have a role with access to the Database to see people in the app.
 
-1. Select an **Event**.
+1. Select an **[!UICONTROL Event]**.
 
    ![](assets/2.jpg)
 
@@ -49,49 +49,49 @@ The app works the same on both iPad and Android, except for minor layout and des
 
    >[!NOTE]
    >
-   >The process is the same on iPad and Android, but the screens differ, and items may be in different locations. This article features the iPad interface. Compare the Android screen in this section for reference.
+   >The process is the same on [!DNL iPad] and [!DNL Android], but the screens differ, and items may be in different locations. This article features the [!DNL iPad] interface. Compare the [!DNL Android] screen in this section for reference.
 
-   **iPad** 
+   **[!DNL iPad]** 
 
    ![](assets/image2016-4-15-11-3a55-3a11.png)
 
-   **Android**
+   **[!DNL Android]**
 
    ![](assets/image2016-4-15-14-3a50-3a19.png)
 
-1. Tap the selected name, and on the person record, tap **Check-in**.
+1. Tap the selected name, and on the person record, tap **[!UICONTROL Check-in]**.
 
    ![](assets/img-0068-35-hands.png)
 
-The guest now has an Attended status, and receives a check mark. The person record is updated when you sync with Marketo. The red counter on the Sync button increments to show the number of check-ins since the last sync with Marketo. The Sync button looks different and is in a different location for iPad and Android:
+The guest now has an Attended status, and receives a check mark. The person record is updated when you sync with Marketo. The red counter on the Sync button increments to show the number of check-ins since the last sync with Marketo. The Sync button looks different and is in a different location for [!DNL iPad] and [!DNL Android]:
 
-**iPad**
+**[!DNL iPad]**
 
 ![](assets/image2016-4-12-14-3a25-3a13.png)
 
-**Android**
+**[!DNL Android]**
 
 ![](assets/image2016-4-15-14-3a58-3a6.png)
 
 >[!TIP]
 >
->If a person is invited but hasn't registered, you can search for the name by clicking **Search on Server**, just below the Search box. The Invited status changes to **Attended** for the event.
+>If a person is invited but hasn't registered, you can search for the name by clicking **[!UICONTROL Search on Server]**, just below the Search box. The Invited status changes to **[!UICONTROL Attended]** for the event.
 
 ## Create a New Person on the Tablet {#create-a-new-person-on-the-tablet}
 
 You can manually add guests who aren't existing people in your Marketo database. They'll be automatically checked in and added to your Database when you sync with Marketo.
 
-1. Click **Add**.
+1. Click **[!UICONTROL Add]**.
 
-   **iPad**
+   **[!DNL iPad]**
 
    ![](assets/image2016-4-15-11-3a58-3a51.png)
 
-   **Android**
+   **[!DNL Android]**
 
    ![](assets/image2016-4-15-15-3a2-3a38.png)
 
-1. Complete as many of the basic information fields as you can and tap **Done**.
+1. Complete as many of the basic information fields as you can and tap **[!UICONTROL Done]**.
 
    ![](assets/image2016-4-15-11-3a33-3a59.png)
 
@@ -109,7 +109,7 @@ The new person is registered as checked in to your event, and will be added to t
 
 If you checked in a person by mistake, _before you synced with Marketo_, you can reverse the Attended status.
 
-1. Tap the name in the list, and in the person record, tap **Undo**.
+1. Tap the name in the list, and in the person record, tap **[!UICONTROL Undo]**.
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
@@ -119,17 +119,17 @@ If you checked in a person by mistake, _before you synced with Marketo_, you can
 
 You can add and modify guest information, right at the event!
 
-1. Tap the name in the people list and tap **Edit**.
+1. Tap the name in the people list and tap **[!UICONTROL Edit]**.
 
    ![](assets/image2016-4-15-11-3a43-3a46.png)
 
-1. Edit and add information to the fields, then tap **Done**.
+1. Edit and add information to the fields, then tap **[!UICONTROL Done]**.
 
    ![](assets/image2016-4-15-11-3a50-3a18.png)
 
    >[!NOTE]
    >
-   >In Android, the **Done** button may be hidden. Scroll down to find it.
+   >In [!DNL Android], the **[!UICONTROL Done]** button may be hidden. Scroll down to find it.
 
 The information will be updated when you sync the app with Marketo.
 
@@ -143,7 +143,7 @@ The Marketo Events app works independently until you sync your activity back to 
 
 1. On your tablet, open the app and navigate to your event.
 
-1. Tap **Sync**.
+1. Tap **[!UICONTROL Sync]**.
 
    Your event is updated with new check-ins in the Marketo database. The red counter on the Sync button clears, until you check someone else in.
 

@@ -45,17 +45,15 @@ The **Acquired Leads** card shows you a trending month-over-month report of the 
 
 ## New Leads {#new-leads}
 
-The **New Leads** card shows you a trending month-over-month report of the total number of new leads in your instance over the last six months.
+The **[!UICONTROL New Leads]** card shows you a trending month-over-month report of the total number of new leads in your instance over the last six months.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## Unsubscribes {#unsubscribes}
 
-The **Unsubscribes** card shows you a month-over-month trending report of your unsubscribe rate over the last six months.
+The **[!UICONTROL Unsubscribes]** card shows you a month-over-month trending report of your unsubscribe rate over the last six months.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
-
-Now you know.
 
 >[!MORELIKETHIS]
 >

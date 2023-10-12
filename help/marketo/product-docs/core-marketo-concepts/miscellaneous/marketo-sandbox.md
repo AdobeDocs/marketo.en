@@ -6,7 +6,7 @@ exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
 ---
 # Marketo Sandbox {#marketo-sandbox}
 
-A Marketo sandbox is an additional instance used for testing purposes before implementation in the production environment.
+A Marketo Engage sandbox is an additional instance used for testing purposes before implementation in the production environment.
 
 >[!AVAILABILITY]
 >

@@ -13,10 +13,10 @@ When you've got lots of marketing programs and smart campaigns going, it's great
 >
 >On October 2, 2023, Adobe removed the Marketo Moments App from all App Stores. If you already have the app installed on your tablet/mobile device, you can continue using it for the time being. Once your Marketo Engage instance is migrated to Adobe Identity for authentication of Marketo, you will no longer be able to access the app. [Learn more](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-Enable **Show only my moments** to display only your own email programs and smart campaigns.
+Enable **[!UICONTROL Show only my moments]** to display only your own email programs and smart campaigns.
 
 ![](assets/image2015-7-16-15-3a53-3a24.png)
 
-Or, disable **Show only my moments** to view all smart campaigns and email programs you have access to.
+Or, disable **[!UICONTROL Show only my moments]** to view all smart campaigns and email programs you have access to.
 
 ![](assets/image2015-7-16-15-3a55-3a29.png)

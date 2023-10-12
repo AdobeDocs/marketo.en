@@ -15,7 +15,7 @@ There are several things you have to do to get ready for the event.
 
 ## Create a New Marketo Role {#create-a-new-marketo-role}
 
-Marketo has a special user role for the event check-in app. [Create a new Marketo role](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) for iPad or Android users, with permission to access the mobile application.
+Marketo has a special user role for the event check-in app. [Create a new Marketo role](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) for [!DNL iPad] or [!DNL Android] users, with permission to access the mobile application.
 
 ## Invite New Tablet Users to the Event {#invite-new-tablet-users-to-the-event}
 
@@ -33,7 +33,7 @@ It's a snap to set your event dates.
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. Slide over to change **Tentative** to **Confirmed**.
+1. Slide over to change **[!UICONTROL Tentative]** to **[!UICONTROL Confirmed]**.
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
@@ -43,29 +43,29 @@ It's a snap to set your event dates.
 
 ## Add People to Your Event {#add-people-to-your-event}
 
-Now that you know the *when*, it's time to add the *who*.
+Now that you know the _when_, it's time to add the *who*.
 
-1. If you already have a list of people, in My Marketo, click the **Database** tile.
+1. If you already have a list of people, in My Marketo, click the **[!UICONTROL Database]** tile.
 
    ![](assets/db.png)
 
-1. Select a list with people and click the **People** tab.
+1. Select a list with people and click the **[!UICONTROL People]** tab.
 
    ![](assets/four.png)
 
-1. Select the people for your event from the list. Use **Ctrl** (or **Command** on a Mac) to click on multiple people, or **Select All** to mark all of them.
+1. Select the people for your event from the list. Use **[!UICONTROL Ctrl]** (or **[!UICONTROL Command]** on a Mac) to click on multiple people, or **[!UICONTROL Select All]** to mark all of them.
 
    ![](assets/five.png)
 
-1. Click **Person Actions**, hover over **Programs** and select **Change Program Status**.
+1. Click **[!UICONTROL Person Actions]**, hover over **[!UICONTROL Programs]** and select **[!UICONTROL Change Program Status]**.
 
    ![](assets/six.png)
 
-1. Click the **Program** drop-down list and select your event.
+1. Click the **[!UICONTROL Program]** drop-down list and select your event.
 
    ![](assets/seven.png)
 
-1. Click the **New Status** drop-down and select **Roadshow > Registered**. Click **Run Now**.
+1. Click the **[!UICONTROL New Status]** drop-down and select **[!UICONTROL Roadshow] > [!UICONTROL Registered]**. Click **[!UICONTROL Run Now]**.
 
    ![](assets/eight.png)
 

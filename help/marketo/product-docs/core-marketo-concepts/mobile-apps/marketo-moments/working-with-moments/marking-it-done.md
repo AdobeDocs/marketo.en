@@ -7,7 +7,7 @@ feature: Mobile Marketing
 ---
 # Marking it Done {#marking-it-done}
 
-Mark an email program, event, or analytics card as Done to remove it from your stream. There are two ways to do it.
+Mark an email program, event, or analytics card as [!UICONTROL Done] to remove it from your stream. There are two ways to do it.
 
 >[!IMPORTANT]
 >
@@ -17,7 +17,7 @@ Mark an email program, event, or analytics card as Done to remove it from your s
 
    ![](assets/image2015-7-14-17-3a32-3a35.png)
 
-1. Tap **Done**.
+1. Tap **[!UICONTROL Done]**.
 
    ![](assets/image2015-7-14-17-3a36-3a31.png)
 
@@ -28,5 +28,3 @@ Mark an email program, event, or analytics card as Done to remove it from your s
    >[!NOTE]
    >
    >Marking a card as Done doesn't delete the email, event, or smart campaign. It only moves it from the Moments/Later stream into the Done stream.
-
-Piece of cake!

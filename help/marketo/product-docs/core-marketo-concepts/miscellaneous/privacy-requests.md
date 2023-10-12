@@ -24,7 +24,7 @@ You can submit individual requests to access and delete consumer data from Marke
 
 The [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} supports two types of requests: data access and data deletion.
 
-Let’s see how you can create Access and Delete requests.
+Let's see how you can create Access and Delete requests.
 
 ## Required setup to send requests for Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
 
@@ -35,30 +35,30 @@ To make requests to Access and Delete data for Marketo Engage, you must:
    a. IMS Org ID<br/>
    b. Email Address of the person you want to act on
 
-   An IMS Org ID is a 24-character alphanumeric string appended with @AdobeOrg. If your marketing team or internal Adobe system administrator doesn’t know your organization’s IMS Org ID, contact Adobe Customer Care at gdprsupport@adobe.com. You need the IMS Org ID to submit requests to the Privacy API.
+   An IMS Org ID is a 24-character alphanumeric string appended with @AdobeOrg. If your marketing team or internal Adobe system administrator doesn't know your organization's IMS Org ID, contact Adobe Customer Care at `gdprsupport@adobe.com`. You need the IMS Org ID to submit requests to the Privacy API.
 
 1. In Privacy Service, you can submit Access and Delete requests to Marketo Engage, and check the status of existing requests.
 
 ## Required field values in Marketo Engage JSON requests {#required-field-values-in-marketo-engage-json-requests}
 
-“companyContexts”:
+"companyContexts":
 
-* “namespace”: **imsOrgID**
-* “value”: `<Your IMS Org ID Value>`
+* "namespace": **imsOrgID**
+* "value": `<Your IMS Org ID Value>`
 
-“users”:
+"users":
 
-* “action”: either **access** or **delete**
-* “userIDs”:
-  * “namespace”: **email**
-  * “type”: **standard**
-  * “value”: `<Data Subject’s Email Address>`
+* "action": either **access** or **delete**
+* "userIDs":
+  * "namespace": **email**
+  * "type": **standard**
+  * "value": `<Data Subject's Email Address>`
 
-“include”:
+"include":
 
 * **marketo** (which is the Adobe product that applies to the request)
 
-“regulation”:
+"regulation":
 
 * **gdpr**, **ccpa**, **pdpa**, **lgpd_bra**, or **nzpa_nzl**  (which is the privacy regulation that applies to the request)
 

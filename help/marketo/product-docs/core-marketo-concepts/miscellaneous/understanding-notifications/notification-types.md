@@ -16,39 +16,39 @@ Campaign failures notify you of errors in your smart campaigns.
 
 CRM sync notifications alert you to critical issues found with the CRM sync, such as incorrect permissions or the sync being down.
 
-**Microsoft Dynamics**
+**[!DNL Microsoft Dynamics]**
 
 Dynamics notifications are sent once every 24 hours, and contain leads that failed to sync in that time period. Typical reasons for failure are duplicate leads (as above) or field length mismatch errors.
 
 ![](assets/image2016-1-20-11-3a19-3a58.png)
 
-**Salesforce**
+**[!DNL Salesforce]**
 
 If you use Salesforce, sync error notifications look something like the one below. Typical errors include expired credentials and exceeded API limits.
 
 ![](assets/salesforcesyncerror.png)
 
-Engagement
+## Engagement {#engagement}
 
-When leads become exhausted in a stream, we send a notification.  The notification includes the number of leads who became exhausted and some other information.
+When people become exhausted in a stream, we send a notification. The notification includes the number of people who became exhausted and some other information.
 
 ![](assets/image2014-10-14-10-3a57-3a9.png)
 
-Facebook
+## Facebook {#facebook}
 
-If you try to send leads to Facebook without accepting the Terms of Service, or if you try to send leads to Facebook after removing the Marketo app.
+If you try to send people to Facebook without accepting the Terms of Service, or if you try to send people to Facebook after removing the Marketo app.
 
-Idle Trigger Campaign Cleanup
+## Idle Trigger Campaign Cleanup {#idle-trigger-campaign-cleanup}
 
 Deactivate triggered Smart Campaigns that no longer get any activity. Learn more about  [automatic trigger campaign cleanup](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
-LinkedIn
+## LinkedIn {#linkedin}
 
 When Marketo is unable to create a new audience, login, or push emails to LinkedIn after three tries.
 
 ![](assets/linkedin.png)
 
-Web Services
+## Web Services {#web-services}
 
 You will be notified when you reach your daily quota. The quota resets each night at midnight, Central Time.
 
