@@ -9,11 +9,11 @@ feature: Programs
 
 You can create custom overlays to view entries relevant to your needs.
 
-1. Click the **Agenda** drop-down.
+1. Click the **[!UICONTROL Agenda]** drop-down.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
-1. Select **Overlays**.
+1. Select **[!UICONTROL Overlays]**.
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
@@ -21,7 +21,7 @@ You can create custom overlays to view entries relevant to your needs.
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. You can also filter by [program tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
+1. You can also filter by [program tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md){target="_blank"}.
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 

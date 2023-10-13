@@ -7,9 +7,9 @@ feature: Programs, Smart Campaigns
 ---
 # Reschedule a Batch Smart Campaign in the Program Schedule View {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
 
-Want to reschedule a batch smart campaign run? Drag and drop them into the future in the program schedule view.
+Want to reschedule a Batch Campaign run? Drag and drop them into the future in the program schedule view.
 
-1. Select the smart campaign you want to reschedule.
+1. Select the Smart Campaign you want to reschedule.
 
    ![](assets/image2015-5-19-12-3a8-3a28.png)
 
@@ -17,10 +17,10 @@ Want to reschedule a batch smart campaign run? Drag and drop them into the futur
 
   ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. Great! The smart campaign has been rescheduled. The time can also be changed from the **Date** drop-down in the entry details.
+1. Great! The Smart Campaign has been rescheduled. The time can also be changed from the **[!UICONTROL Date]** drop-down in the entry details.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
 >[!MORELIKETHIS]
 >
->[Rescheduling an Entire Program from the Schedule View](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md)
+>[Rescheduling an Entire Program from the Schedule View](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}

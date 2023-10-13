@@ -13,7 +13,7 @@ When you clone a program or event with dates, you will likely want to reschedule
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Select the Event Action drop-down. Choose **Reschedule Entries**.
+1. Select the Event Action drop-down. Choose **[!UICONTROL Reschedule Entries]**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -25,7 +25,7 @@ When you clone a program or event with dates, you will likely want to reschedule
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. Click **Reschedule**.
+1. Click **[!UICONTROL Reschedule]**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 

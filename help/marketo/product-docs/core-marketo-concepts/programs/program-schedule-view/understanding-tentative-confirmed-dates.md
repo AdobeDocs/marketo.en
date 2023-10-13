@@ -7,7 +7,7 @@ feature: Programs
 ---
 # Understanding Tentative/Confirmed Dates {#understanding-tentative-confirmed-dates}
 
-Smart campaigns and email programs have a powerful capability to be marked as **Tentative** or **Confirmed**. Here's how they work.
+Smart campaigns and email programs have a powerful capability to be marked as **[!UICONTROL Tentative]** or **[!UICONTROL Confirmed]**. Here's how they work.
 
 ## Tentative {#tentative}
 
@@ -41,7 +41,7 @@ Confirmed entries will definitely run. They have rules, approved assets, and a c
 
 ## Finished  {#finished}
 
-Finished entries have already run. They can only be in the past (obviously). Once an entry has run and is **Finished**, you cannot move it or make it tentative. (No changing reality and disrupting the time-stream continuum.)
+Finished entries have already run. They can only be in the past (obviously). Once an entry has run and is **[!UICONTROL Finished]**, you cannot move it or make it tentative. (No changing reality and disrupting the time-stream continuum.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 

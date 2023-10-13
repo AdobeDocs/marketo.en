@@ -9,11 +9,11 @@ feature: Tokens
 
 A token is a variable that you can use in emails, landing pages, and smart campaigns to make your life easier.
 
-In addition to My Tokens, you can also use any of the built-in tokens in your programs. Check out the [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
+In addition to My Tokens, you can also use any of the built-in tokens in your programs. Check out the [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## My Tokens  {#my-tokens}
 
-My Tokens are custom variables that anyone can create. They are [created](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) in either campaign folders or programs.
+My Tokens are custom variables that anyone can create. They are [created](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} in either campaign folders or programs.
 
 My Tokens are displayed like this: `{{my.Name Of Token}}`
 
@@ -87,5 +87,5 @@ Moving programs and folders affects tokens too. Always check to make sure that r
 
 >[!MORELIKETHIS]
 >
->* [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
->* [Managing My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
+>* [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
+>* [Managing My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}

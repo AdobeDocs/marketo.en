@@ -11,7 +11,7 @@ The global overlay in the program schedule view lets you see your program in rel
 
 >[!PREREQUISITES]
 >
->You must have a [Marketing Calendar license](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) to utilize this feature.
+>You must have a [Marketing Calendar license](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} to utilize this feature.
 
 ## Use the Global Overlay {#use-the-global-overlay}
 
@@ -19,7 +19,7 @@ The global overlay in the program schedule view lets you see your program in rel
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. Select **Overlay** in the bottom right corner.
+1. Select **[!UICONTROL Overlay]** in the bottom right corner.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -33,16 +33,16 @@ The global overlay in the program schedule view lets you see your program in rel
 
 ## Use a Saved Filter as an Overlay {#use-a-saved-filter-as-an-overlay}
 
-   If you've [saved a filter in the Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), you can use it as an overlay in the program schedule view.
+   If you've [saved a filter in the Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}, you can use it as an overlay in the program schedule view.
 
-1. Click the **Overlay** drop-down and select your filter definition.
+1. Click the **[!UICONTROL Overlay]** drop-down and select your filter definition.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
-   That easy! Now you'll see an overlay defined by the filter you've saved and selected.
+   Now you'll see an overlay defined by the filter you've saved and selected.
 
    ![](assets/image2014-9-24-10-3a16-3a31.png)
 
    >[!MORELIKETHIS]
    >
-   >[Creating Custom Overlays in the Program Schedule View](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
+   >[Creating Custom Overlays in the Program Schedule View](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md){target="_blank"}

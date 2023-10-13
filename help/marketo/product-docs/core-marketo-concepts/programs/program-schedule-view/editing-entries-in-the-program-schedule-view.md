@@ -15,7 +15,7 @@ You can make edits to the different elements of your program in the schedule vie
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. Type in a new name and press **Enter/Return** on your keyboard to confirm the change.
+1. Type in a new name and press **[!UICONTROL Enter/Return]** on your keyboard to confirm the change.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
@@ -29,7 +29,7 @@ You can make edits to the different elements of your program in the schedule vie
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. Edit your description. Click **Save**.
+1. Edit your description. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
@@ -47,4 +47,4 @@ You rock! Now the date of your entry has been moved to a new date.
 
 >[!NOTE]
 >
-> Smart campaign and email program entries that have already run cannot be moved to the past.
+> Smart Campaign and email program entries that have already run cannot be moved to the past.
