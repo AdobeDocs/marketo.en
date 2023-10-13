@@ -9,18 +9,18 @@ feature: Programs
 
 Programs are one of the most important elements in Marketo. You'll be using them a lot!
 
-1. Go to **Marketing Activities.**
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Select the folder for the new program. Select **New** and click **New Program**.
+1. Select the folder for the new program. Select **[!UICONTROL New]** and click **[!UICONTROL New Program]**.
 
    ![](assets/leadlifecycle.jpg)
 
-1. Enter a **Name**, select a **[Channel](https://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** in the drop-down, and click **Create**.
+1. Enter a **[!UICONTROL Name]**, select a **[[!UICONTROL Channel]](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}** in the drop-down, and click **[!UICONTROL Create]**.
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
 >[!MORELIKETHIS]
 >
->[Understanding Programs](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
+>[Understanding Programs](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.

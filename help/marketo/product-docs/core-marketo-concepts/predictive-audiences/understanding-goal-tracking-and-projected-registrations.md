@@ -6,7 +6,7 @@ feature: Predictive Audiences
 ---
 # Understanding Goal Tracking and Projected Registrations {#understanding-goal-tracking-and-projected-registrations}
 
-Here’s how to track your goal progress and understand Marketo’s predictions.
+Here's how to track your goal progress and understand Marketo's predictions.
 
 >[!PREREQUISITES]
 >
@@ -14,7 +14,7 @@ Here’s how to track your goal progress and understand Marketo’s predictions.
 
 >[!NOTE]
 >
->When an event program is created in the Marketo Classic experience the event start date currently defaults to the event creation date. Since projected registrations take into account the amount of time before an event's start date, these numbers may not be accurate if the start date and creation date are the same (unless set intentionally).
+>When an event program is created in the Marketo Classic experience the event start date currently defaults to the event creation date. Since projected registrations take into account the amount of time before an event's start date, these numbers may not be accurate if the start date and creation date are the same (unless set intentionally).
 
 ## Goal Tracking and Projected Registrations
 
@@ -34,21 +34,21 @@ If you haven't enabled the toggle switch, here's how it will appear in the Marke
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-3.png)
 
-1. Click the Chart toggle to switch to a breakdown of your members by registration likelihood. You'll see current registration percentages for each segment, compared to the average percentage for that segment in your past programs.
+1. Click the Chart toggle to switch to a breakdown of your members by registration likelihood. You'll see current registration percentages for each segment, compared to the average percentage for that segment in your past programs.
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-4.png)
 
-All members (registered and not yet registered) are categorized based on their registration likelihood. Hover over the info icon to see how these likelihood categories are defined.
+All members (registered and not yet registered) are categorized based on their registration likelihood. Hover over the info icon to see how these likelihood categories are defined.
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-5.png)
 
 >[!NOTE]
 >
->Prediction numbers are updated every 24 hours until the day of the event. Any members who are listed as _Processing_ will be included in the next calculation cycle.
+>Prediction numbers are updated every 24 hours until the day of the event. Any members who are listed as _Processing_ will be included in the next calculation cycle.
 
 ## Similar Programs
 
-You can gain some insight into your current event by looking at how similar programs performed in the past. This section shows you up to 5 similar programs from the last 6 months, with the number/percentage of members who were _Registered_ or higher.
+You can gain some insight into your current event by looking at how similar programs performed in the past. This section shows you up to 5 similar programs from the last 6 months, with the number/percentage of members who were _Registered_ or higher.
 
 In calculating similar programs, we include the following factors, among others:
 
@@ -63,13 +63,13 @@ In calculating similar programs, we include the following factors, among others:
 
 ## Recommendations
 
-At the top of the Reports page, you can find AI/ML-driven recommendations based on your progress. Check back periodically for helpful tips and insights!
+At the top of the [!UICONTROL Reports] page, you can find AI/ML-driven recommendations based on your progress. Check back periodically for helpful tips and insights!
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## Person-Level Predictions
 
-Click the **[!UICONTROL Members]** tab to view all your program members. Hover over the **[!UICONTROL Registration Likelihood]** or **[!UICONTROL Attendance Likelihood]** bars to see exact percentages and categorizations. You can then take action on members in a particular category (e.g., everyone in the "Less Likely" to register category), and specifically target them to potentially boost your registration numbers.
+Click the **[!UICONTROL Members]** tab to view all your program members. Hover over the **[!UICONTROL Registration Likelihood]** or **[!UICONTROL Attendance Likelihood]** bars to see exact percentages and categorizations. You can then take action on members in a particular category (e.g., everyone in the "Less Likely" to register category), and specifically target them to potentially boost your registration numbers.
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
@@ -101,7 +101,7 @@ Conversion % to register will follow this pattern: Highly likely > Likely > Less
 
 A: Best practice entails the following:
 
-i. You create a program, and then a Smart Campaign uses predictive filters with "greater than X," which would result in a certain amount of people (let’s say 1000) and you run the campaign.
+i. You create a program, and then a Smart Campaign uses predictive filters with "greater than X," which would result in a certain amount of people (let's say 1000) and you run the campaign.
 
 ii. After 24 hours, in the [!UICONTROL Reports] tab you can see the projected registrations that are calculated based on the likelihood to register values of all the people who are currently invited.
 
@@ -123,9 +123,9 @@ A: Three bars, each one representing a segment (Highly Likely, Likely, Less Like
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-10.png)
 
-Example, let’s say 100 people have likelihood to register > 50% and 60 out of those 100 people registered. Highly likely has 60% conversion. So, all member added to the program get likelihood to register values, then they are put into segments and as per the number of people registered in each segment conversion rate is calculated.
+Example, let's say 100 people have likelihood to register > 50% and 60 out of those 100 people registered. Highly likely has 60% conversion. So, all member added to the program get likelihood to register values, then they are put into segments and as per the number of people registered in each segment conversion rate is calculated.
 
-**Q: What does "Registered and Higher” mean?**
+**Q: What does "Registered and Higher" mean?**
 
 A: Any person who is listed as registered, or any other status with an equal or higher step number.
 

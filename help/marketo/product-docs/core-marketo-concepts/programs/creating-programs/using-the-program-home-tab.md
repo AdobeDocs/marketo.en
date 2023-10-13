@@ -11,7 +11,7 @@ The program home tab gives you a high-level view of what's going on in your prog
 
 ## Summary View {#summary-view}
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -27,31 +27,31 @@ The program home tab gives you a high-level view of what's going on in your prog
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. Click **Export** at the bottom of the Summary to download report.
+1. Click **[!UICONTROL Export]** at the bottom of the Summary to download report.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
 ## Used By View {#used-by-view}
 
-1. In Marketing Activities, select a program.
+1. In **[!UICONTROL Marketing Activities]**, select a program.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Click the **View** drop-down. Select **Used By**.
+1. Click the **[!UICONTROL View]** drop-down. Select **[!UICONTROL Used By]**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
-   This view shows you what smart campaigns are in use.
+   This view shows you what Smart Campaigns are in use.
 
    ![](assets/image2014-9-18-17-3a6-3a4.png)
 
 ## Membership View {#membership-view}
 
-1. In Marketing Activities, select a program.
+1. In **[!UICONTROL Marketing Activities]**, select a program.
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Click the **View** drop-down. Select **Membership**.
+1. Click the **[!UICONTROL View]** drop-down. Select **[!UICONTROL Membership]**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -61,8 +61,8 @@ The program home tab gives you a high-level view of what's going on in your prog
 
    >[!NOTE]
    >
-   >**Historical** signifies anyone who ever went through the program, while **Current** only includes people currently in the program.
+   >**[!UICONTROL Historical]** signifies anyone who ever went through the program, while **[!UICONTROL Current]** only includes people currently in the program.
 
    >[!MORELIKETHIS]
    >
-   >[Understanding Program Membership](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+   >[Understanding Program Membership](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

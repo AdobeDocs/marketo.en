@@ -13,21 +13,21 @@ Local assets are the content that make up your program. Assets are customizable 
 
 >[!NOTE]
 >
->Not all customers have access to every available asset. Contact your account representative to learn more.
+>Not everyone has access to every available asset. Contact the Adobe Account Team (your account manager) to learn more.
 
-* [Smart Campaigns](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
-* [Lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
-* [Smart Lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-* [Report](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
-* [Email Programs](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)
-* [Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-* [Push Notifications](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
-* [Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-* [Forms](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
-* [Test Group](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
-* [Social Button](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)
-* [Youtube Video](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md)
-* [Poll](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
-* [Referral Offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
-* [Sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
-* [Vibes SMS Messages](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
+* [Smart Campaigns](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}
+* [Lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md){target="_blank"}
+* [Smart Lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+* [Report](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
+* [Email Programs](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}
+* [Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md){target="_blank"}
+* [Push Notifications](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"}
+* [Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md){target="_blank"}
+* [Forms](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"}
+* [Test Group](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md){target="_blank"}
+* [Social Button](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md){target="_blank"}
+* [Youtube Video](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md){target="_blank"}
+* [Poll](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md){target="_blank"}
+* [Referral Offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"}
+* [Sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}
+* [Vibes SMS Messages](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}

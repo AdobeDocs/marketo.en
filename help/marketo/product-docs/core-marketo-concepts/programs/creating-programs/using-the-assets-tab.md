@@ -7,11 +7,11 @@ feature: Programs
 ---
 # Using the Assets Tab {#using-the-assets-tab}
 
-The asset canvas is a visual representation of your program. You can use it to add local assets as well as interact with the existing ones.
+The asset canvas is a visual representation of your default or event program. You can use it to add local assets as well as interact with existing ones.
 
 ## Adding Assets {#adding-assets}
 
-From the **Marketing Activities** area, click the **Assets** tab. Choose any of the assets below and add them to your program.
+Click the **[!UICONTROL Assets]** tab in the desired program. Choose any of the assets below and add them to your program.
 
 ![](assets/programassets.png)
 
