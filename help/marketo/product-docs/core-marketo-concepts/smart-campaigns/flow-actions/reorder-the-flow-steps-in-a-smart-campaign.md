@@ -15,7 +15,7 @@ The flow steps execute from top to bottom. Here's how to reorder the flow steps 
 
 1. In your smart campaign Flow tab, drag and drop the flow step to where you want it.
 
-![](assets/image2014-9-22-13-3a49-3a11.png)
+![](assets/reorder-the-flow-steps-in-a-smart-campaign-1.png)
 
 >[!NOTE]
 >
