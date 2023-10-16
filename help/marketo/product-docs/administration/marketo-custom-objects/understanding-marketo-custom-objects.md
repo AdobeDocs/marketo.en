@@ -11,7 +11,7 @@ Use custom objects to track metrics specific to your business.
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 Use custom objects as filters and triggers in your smart campaigns. For example:
 

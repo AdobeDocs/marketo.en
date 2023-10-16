@@ -10,7 +10,7 @@ A sweepstakes gives people a chance to win a prize in return for telling their f
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 1. Inside your program, select **New** > **New Local Asset**.
 

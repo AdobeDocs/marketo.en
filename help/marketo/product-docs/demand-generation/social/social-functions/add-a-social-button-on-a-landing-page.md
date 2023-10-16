@@ -11,7 +11,7 @@ A social button encourages people to share your content with their friends. Drop
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 1. Navigate to your landing page and click **Edit Draft**.
 

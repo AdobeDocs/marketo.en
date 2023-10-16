@@ -12,7 +12,7 @@ Set up your calendar presentation to reflect the goals and activities that matte
 >[!AVAILABILITY]
 >
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 >[!PREREQUISITES]
 >

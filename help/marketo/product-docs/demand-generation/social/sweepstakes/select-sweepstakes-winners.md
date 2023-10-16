@@ -10,7 +10,7 @@ When you [publish a sweepstakes](/help/marketo/product-docs/demand-generation/so
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 1. Go to **Marketing Activities**.
 

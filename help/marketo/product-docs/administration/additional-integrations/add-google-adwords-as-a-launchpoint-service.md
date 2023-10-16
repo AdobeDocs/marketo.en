@@ -13,7 +13,7 @@ Learn more about [Google's offline conversion import feature](https://support.go
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this feature. Please contact the Adobe Account Team (your Account Manager) for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 >[!NOTE]
 >

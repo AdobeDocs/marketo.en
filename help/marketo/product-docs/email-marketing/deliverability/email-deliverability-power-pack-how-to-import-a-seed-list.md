@@ -11,7 +11,7 @@ A Seed List is a list of email accounts at multiple mailbox providers, including
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your Sales Rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 ## Import a Seed List {#import-a-seed-list}
 

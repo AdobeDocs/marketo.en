@@ -12,7 +12,7 @@ Create a presentation to project your team's calendar views and goals on an HDTV
 >[!AVAILABILITY]
 >
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 1. Go to the **[!UICONTROL Calendar]**.
 

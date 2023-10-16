@@ -270,7 +270,7 @@ feature-set: Marketo Engage
         + [Using Standard Smart List Rule Logic](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)  
       + Flow Actions {#flow-actions}
         + [Add a Flow Step to a Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-        + [Reorder the Flow Steps in a Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
+        + [Reorder the Flow Steps in a Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md)
         + [Add to List](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
         + [Append Data to a Field](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
         + [Call Webhook](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)

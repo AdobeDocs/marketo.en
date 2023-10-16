@@ -11,7 +11,7 @@ Customize posts when people share you on Facebook.
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 Marketo [social apps](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) allow your leads to share your landing pages with their connections on social networks such as Facebook, Twitter, etc. Facebook OpenGraph tags (OG tags) allow you to specify which information from your landing page is included in Facebook posts.
 

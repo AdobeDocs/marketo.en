@@ -11,7 +11,7 @@ In order for Marketo to pull data (inbound links and recommendations) relevant t
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 ## [!UICONTROL Add a Site] {#add-a-site}
 

@@ -11,7 +11,7 @@ Put videos with social sharing options on your landing pages.
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 1. Navigate to your free-form landing page and click **Edit Draft**.
 
