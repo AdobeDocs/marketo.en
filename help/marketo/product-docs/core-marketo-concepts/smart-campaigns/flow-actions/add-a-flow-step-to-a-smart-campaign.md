@@ -27,7 +27,7 @@ Flow steps tell Marketo Engage what you want to have happen to a group of people
 
 >[!NOTE]
 >
->Flow steps are executed in the order in which they are listed. [Reorder the flow steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} to ensure they're in the right sequence.
+>Flow steps are executed in the order in which they are listed. [Reorder the flow steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} to ensure they're in the right sequence.
 
 >[!TIP]
 >
@@ -38,4 +38,4 @@ Awesome! Be sure to [review and validate the Smart Campaign](/help/marketo/produ
 >[!MORELIKETHIS]
 >
 >* [Use Add Choice in a Flow Step](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
->* [Reorder the Flow Steps in a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
+>* [Reorder the Flow Steps in a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
