@@ -7,23 +7,23 @@ feature: Programs
 ---
 # Import a Program {#import-a-program}
 
-A program can be imported from one Marketo subscription to another. For instance, you can create a program in a sandbox and then import it into your live subscription. Also, you can import a pre-built program from the Marketo Program Library.
+A program can be imported from one Marketo subscription to another. For instance, you can create a program in a sandbox and then import it into your live subscription. Also, you can import a pre-built program from the [Marketo Program Library](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
 
 ## Importing a Program {#importing-a-program}
 
-1. Go to **Marketing Activities.**
+1. Go to **Marketing Activities**.
 
    ![](assets/import-a-program-1.png)
 
-1. Click **New** drop down. Select **Import Program**.
+1. Click the **New** drop-down and select **Import Program**.
 
    ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
-   >Program Import is only available for users that have roles with Import Program permission enabled. Learn more about [managing user roles and permissions](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >Program Import is only available for users that have roles with Import Program permission enabled. Learn more about [managing user roles and permissions](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >To connect a sandbox account to your live subscription, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >To connect a sandbox account to your live subscription, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. Select a Marketo **Subscription** and a program to import. Click **Next**.
 
@@ -57,13 +57,13 @@ You'll receive an email confirmation once the import has finished.
 
 ## Impact on External Assets During Program Imports {#impact-on-external-assets-during-program-imports}
 
-Programs use external assets like email templates, landing page templates, images, forms, tokens, and program tags. You have the ability to configure how landing page templates and program tags are handled, and Marketo automatically manages the rest.
+Programs use external assets like email templates, Landing Page templates, images, forms, tokens, and program tags. You have the ability to configure how Landing Page templates and program tags are handled, and Marketo automatically manages the rest.
 
 **Email/Landing Page Templates:** Email/Landing Page templates are imported into the Design Studio. You can use conflict rules to configure behavior when a template with the same name exists. Using the default rule, a number will be appended to a template if one with the same name exists. For example, if you already have a template named "Standard Template," the new one will be named "Standard Template - 1."
 
-**Landing Pages/Forms:** If a form or landing page with the same name exists in Design Studio, they will still be imported, but with a number appended to their name (ex: Landing Page - 1).
+**Landing Pages/Forms:** If a form or Landing Page with the same name exists in Design Studio, they will still be imported, but with a number appended to their name (ex: Landing Page - 1).
 
-**Images:** Images used by landing pages are imported into the design studio unless one with the same name exists.
+**Images:** Images used by Landing Pages are imported into the design studio unless one with the same name exists.
 
 **Tokens:** Tokens that live outside of a program will be converted to local tokens during the import process.
 
@@ -75,4 +75,4 @@ Programs use external assets like email templates, landing page templates, image
 
 >[!CAUTION]
 >
->When importing a program, emails/landing pages that contain [dynamic content](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) will be skipped.
+>When importing a program, emails/Landing Pages that contain [dynamic content](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} will be skipped.
