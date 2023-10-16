@@ -7,11 +7,11 @@ feature: Smart Campaigns
 ---
 # Delete Person {#delete-person}
 
-Erroneous people sometimes get in your database. The Delete Person flow step can get rid of them.
+Erroneous people sometimes get into your database. The Delete Person flow step can get rid of them.
 
 ## Overview {#overview}
 
-Use the flow step in a smart campaign.
+Use the flow step in a Smart Campaign.
 
 ![](assets/one-4.png)
 
@@ -25,10 +25,10 @@ When you drag in the flow step it will automatically be set to delete from your 
 
 ![](assets/two-4.png)
 
-You can delete from Marketo and not from your CRM, like so:
+You can delete from Marketo Engage and not from your CRM, like so:
 
 ![](assets/three-3.png)
 
 >[!NOTE]
 >
->Removing the person from your CRM **only works with Salesforce**. If you delete a person from Marketo and choose to keep them in Salesforce, they will be recreated in Marketo if their Salesforce record ever gets updated.
+>Removing the person from your CRM _only works with [!DNL Salesforce]_. If you delete a person from Marketo and choose to keep them in [!DNL Salesforce], they will be recreated in Marketo if their [!DNL Salesforce] record ever gets updated.

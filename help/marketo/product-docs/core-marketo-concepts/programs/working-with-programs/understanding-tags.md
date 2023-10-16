@@ -7,7 +7,7 @@ feature: Programs
 ---
 # Understanding Tags {#understanding-tags}
 
-You probably know by now that programs are like building blocks in Marketo. Utilizing tags and channels will assist you in filtering data for reporting purposes.
+You probably know by now that programs are like building blocks in Marketo Engage. Utilizing tags and channels will assist you in filtering data for reporting purposes.
 
 Tags are used to describe programs. You can make as many as you need, each with unique values. Channels identify the delivery mechanism in a program, such as webinar, sponsorship, or online ad.
 
@@ -17,7 +17,7 @@ Tag types identify the kind of information you want to sort by.
 
 >[!TIP]
 >
->Talk to your [Marketo Admin](/help/marketo/product-docs/administration/tags/create-custom-tags.md) if you'd like to create custom tags.
+>Talk to your Marketo Admin if you'd like to create [custom tags](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Each tag type will have values to choose from.
 
 ## Channel {#channel}
 
-Channels are used to report on how your [members](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) moved through your program. Each channel has a set of progression statuses and one status that is set to equal success.
+Channels are used to report on how your [members](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} moved through your program. Each channel has a set of progression statuses and one status that is set to equal success.
 
 >[!NOTE]
 >
@@ -55,5 +55,5 @@ Channels are used to report on how your [members](/help/marketo/product-docs/cor
 
 >[!MORELIKETHIS]
 >
->* [Create Custom Tags](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
->* [Create a Program Channel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
+>* [Create Custom Tags](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}
+>* [Create a Program Channel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}

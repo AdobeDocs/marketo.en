@@ -13,11 +13,11 @@ Smart Campaigns are the most important tool in Marketo Engage. They can trigger 
 >
 >Learn more about [Smart Campaigns](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/create-a-new-smart-campaign-1.png)
 
-1. Right-click on the desired program and select **New Smart Campaign**.
+1. Right-click on the desired program and select **[!UICONTROL New Smart Campaign]**.
 
    ![](assets/create-a-new-smart-campaign-2.png)
 
@@ -25,11 +25,11 @@ Smart Campaigns are the most important tool in Marketo Engage. They can trigger 
    >
    >You can create Smart Campaigns as local assets of any program.
 
-1. Enter the Smart Campaign name and click **Create**.
+1. Enter the Smart Campaign name and click **[!UICONTROL Create]**.
 
    ![](assets/create-a-new-smart-campaign-3.png)
 
-   Next up, learn how to define which people to run through the Smart Campaign with a Smart List.
+   Next, learn how to define which people to run through the Smart Campaign with a Smart List.
 
    >[!MORELIKETHIS]
    >

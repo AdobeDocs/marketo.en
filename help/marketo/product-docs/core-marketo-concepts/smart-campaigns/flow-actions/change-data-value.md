@@ -9,13 +9,13 @@ feature: Smart Campaigns
 
 ## Overview {#overview}
 
-You can use Marketo to update the value of a field. For this, you will use the **Change Data Value** flow action.
+You can use Marketo to update the value of a field. For this, you will use the **[!UICONTROL Change Data Value]** flow action.
 
 ![](assets/image2014-9-22-11-3a15-3a34.png)
 
 >[!NOTE]
 >
->You can also block a field from being updated. See [Block Updates to a Field](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md) for details.
+>You can also block a field from being updated. See [Block Updates to a Field](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md){target="_blank"} for details.
 
 ## Usage {#usage}
 
@@ -29,13 +29,13 @@ You can use Marketo to update the value of a field. For this, you will use the *
 
    >[!NOTE]
    >
-   >You can also use tokens in **New Value**.
+   >You can also use tokens in **[!UICONTROL New Value]**.
 
    >[!TIP]
    >
-   >You can enter 'NULL' (no quotes, all caps) in **New Value** to clear the field. See [Clear Field Values](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md) for details.
+   >You can enter 'NULL' (no quotes, all caps) in **[!UICONTROL New Value]** to clear the field. See [Clear Field Values](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md){target="_blank"} for details.
 
    >[!NOTE]
    >
-   >* [Tokens for Flow Steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
-   >* [Append Data to a Field](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
+   >* [Tokens for Flow Steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
+   >* [Append Data to a Field](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md){target="_blank"}

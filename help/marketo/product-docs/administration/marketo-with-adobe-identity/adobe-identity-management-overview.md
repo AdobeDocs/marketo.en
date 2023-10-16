@@ -10,9 +10,13 @@ If you have a new account with Adobe Marketo Engage (new account, not just a new
 
 Existing Marketo subscriptions will begin to be migrated to the Adobe Identity Management System in the second half of 2023.
 
+If you have a [new account](/help/marketo/product-docs/administration/marketo-with-adobe-identity/quick-guide.md){target="_blank"} (not just a new instance for an existing account) with Adobe Marketo Engage as of Feb 15, 2022, it may come integrated with the Adobe Identity Management System (IMS), depending on the product package purchased. To find out if you have it, please contact the Adobe Account Team (your Account Manager).
+
+Existing Marketo subscriptions will begin to be migrated to the Adobe Identity Management System in late 2023. At first, these migrations can occur only after you recontract your Marketo subscription. Adobe plans to start migrating Marketo users outside of recontracting events around mid-2024.
+
 >[!NOTE]
 >
->Marketo Support will not be able to provide any updates regarding Adobe IMS migration. The Adobe Account Team will reach out with the estimated timeline in the coming months.
+>Marketo Support is not able to provide any updates regarding Adobe IMS migration. The Adobe Account Team will reach out with the estimated timeline in the coming months. For more information, please see [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, and the [Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 ## Profile Levels {#profile-levels}
 
@@ -44,83 +48,7 @@ Adobe Marketo Engage subscriptions onboarded to the Adobe Identity Management Sy
 
 ## FAQ {#faq}
 
-**What is Adobe Identity?**
-
-Adobe Identity Management System consists of three components.
-
-* [!DNL Adobe Identity Service]: Handles authentication and validation of the end-user, including federation and runtime Single-Sign-On (SSO).
-
-* Adobe Admin Console: The Admin Console provides a central location for managing Adobe entitlements across your entire organization. It handles user management, cloud service, desktop license entitlement, federation configuration, and provides data loss prevention security features.
-
-* Adobe User Management API (UMAPI): Allows organizations to manage enterprise users and entitlements in the Adobe Admin Console at the API level.
-
-**When will existing Marketo Engage subscriptions be integrated with IMS?**
-
-Existing Marketo subscriptions will be migrated to the Adobe Identity Management System later this year. Marketo Support will not be able to provide any updates regarding Adobe IMS migration. The Adobe Account Team will reach out with the estimated timeline in the coming months.
-
-**What's the difference between an Adobe Product Admin and a Marketo Engage Admin?**
-
-* Adobe Product Admin is a new role in the Marketo platform.
-* Adobe Product Admin role is granted to users added as a Product Admin in Adobe Admin Console
-* Adobe Product Admin is a read-only role and can't be edited or deleted from Marketo Engage.  
-* Adobe Product Admin has the same rights and privileges as a standard Marketo Admin.
-* Marketo Engage Admin's role is still an Admin and is granted to a user in Marketo Engage.
-
-**Is there any change in User Management API client support?**
-
-Yes. Those who've been onboarded to Adobe IMS cannot utilize all the existing Marketo User Management APIs. For user invite, update, and deletion actions, the Adobe [IMS APIs](https://www.adobe.io/apis/experienceplatform/umapi-new.html){target="_blank"} should be used. For role management, the Marketo User Management APIs still apply. Beyond this there are no other changes to Marketo REST API client support.
-
-**Who do we contact for support if we are integrated with IMS?**
-
-You would follow the standard procedure for contacting [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
-
-**If I use an Adobe Identity to access other Adobe applications, can I use that to access Marketo?**
-
-Even if you have other Adobe products, you cannot access Marketo with Adobe Identity until the subscription is migrated to IMS.
-
-**Are Marketo user roles (within workspaces) managed in Adobe Admin Console?**
-
-No. User Role management (within workspaces) is completed in Marketo Engage.
-
-**I'm a Marketo Admin in an IMS integrated subscription and don't have access to the Admin Console. How do I gain access?**
-
-Any Adobe System or Product Admin that has access to your organization's Admin Console can give you access. If you're not sure who in your organization has admin privileges in the console, contact [Adobe Customer Care](https://helpx.adobe.com/contact.html){target="_blank"}.
-
-**How would an Admin add users to Marketo [!DNL Sales Connect]?**
-
-While there will be a product card in Admin Console for [!DNL Sales Connect], Admin Console should not be used to add/manage users. The following link will allow Admins to manage users via Marketo [!DNL Sales Connect]: [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management){target="_blank"}.
-
-**Where can I learn more about the Adobe Admin Console?**
-
-[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}.
-
-**Do I still go to the Admin section in Marketo to make user account changes for my account?**
-
-No, you would need to navigate to [account.adobe.com](https://account.adobe.com){target="_blank"}.
-
-**How does this work with Marketo's Universal ID?**
-
-Those onboarded to Adobe identity can access all IMS-enabled subscriptions seamlessly via the subscription switcher in the product.
-
-**Does this work with SSO?**
-
-Yes. Marketo integration with Adobe IMS supports Universal ID users and SSO. SSO is now driven by Adobe IMS and is set up at the organization level in the Adobe Admin Console. [Learn more here](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
-
-**How does device authorization work?**
-
-Adobe IMS does not currently support anything like Marketo's device authorization feature.
-
-**Is it still possible to use the "Login in Invite User Dialog" feature, to make a user's login unique from their email?**
-
-No. The User Invite workflow is no longer active when a subscription is IMS-enabled, so the feature is no longer valid. Adobe identity requires a user's identity to be driven by their email.
-
-**For Adobe IMS, do we have the option to use Adobe ID, Enterprise ID, or Federated ID?**
-
-Yes, you determine the type of identity to have your organization support. More info can be found here: [Identity Overview](https://helpx.adobe.com/enterprise/using/identity.html) and here: [Set up Identity](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
-
-**Which product cards are supported in the Adobe Admin Console?**
-
-The supported product cards are: Marketo Engage, Marketo Measure, Marketo Dynamic Chat, Marketo Sales Connect, and Marketo Sales Insight Actions.
+Frequently Asked Questions [can be found here](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

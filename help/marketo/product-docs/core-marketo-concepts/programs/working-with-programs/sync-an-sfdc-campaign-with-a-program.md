@@ -11,7 +11,7 @@ Marketo Engage allows you to sync your programs with [!DNL Salesforce] campaigns
 
 >[!PREREQUISITES]
 >
->You will need to [enable [!DNL Salesforce] campaign sync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) first.
+>You will need to [enable [!DNL Salesforce] campaign sync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} first.
 
 >[!CAUTION]
 >
@@ -29,11 +29,11 @@ Marketo Engage allows you to sync your programs with [!DNL Salesforce] campaigns
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. Select **[!UICONTROL Create New]** or choose an existing Salesforce campaign.
+1. Select **[!UICONTROL Create New]** or choose an existing [!DNL Salesforce] campaign.
 
    >[!TIP]
    >
-   >If you select an existing Salesforce campaign, make sure to [match the program statuses of the Salesforce campaign and the Marketo program](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+   >If you select an existing [!DNL Salesforce] campaign, make sure to [match the program statuses of the [!DNL Salesforce] campaign and the Marketo program](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
 
 1. Enter a name for the new campaign and click **[!UICONTROL Save]**.
 

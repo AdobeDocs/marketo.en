@@ -41,4 +41,4 @@ Marketo Engage API Only Users must be created and managed in Marketo Engage.
 
 ## FAQ {#faq}
 
-[Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#faq){target="_blank"}
+[Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}

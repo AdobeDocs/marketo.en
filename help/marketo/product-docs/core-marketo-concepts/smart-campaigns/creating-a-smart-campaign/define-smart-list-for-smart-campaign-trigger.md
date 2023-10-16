@@ -9,7 +9,7 @@ feature: Smart Campaigns
 
 Make a Smart Campaign run on one person at a time based on live events by adding triggers.
 
-1. In your Smart Campaign, click the **Smart List** tab.
+1. In your Smart Campaign, click the **[!UICONTROL Smart List]** tab.
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
@@ -19,11 +19,11 @@ Make a Smart Campaign run on one person at a time based on live events by adding
 
    >[!NOTE]
    >
-   >A Smart Campaign with triggers runs in **Trigger** mode. It runs on one person at a time based on events triggered and any additional filters.
+   >A Smart Campaign with triggers runs in _Trigger_ mode. It runs on one person at a time based on events triggered and any additional filters.
 
    >[!IMPORTANT]
    >
-   >When using a Boolean field in a trigger campaign smart list, you must explicitly set it to 'false' in order for the field to evaluate properly during execution of the campaign.
+   >When using a Boolean field in a trigger campaign Smart List, you must explicitly set it to 'false' in order for the field to evaluate properly during execution of the campaign.
 
 1. Click the drop-down and choose an operator.
 
@@ -43,10 +43,10 @@ Make a Smart Campaign run on one person at a time based on live events by adding
 
    >[!NOTE]
    >
-   >With multiple triggers, a person goes through the flow if **ANY** one of the triggers gets activated.
+   >With multiple triggers, a person goes through the flow if _ANY_ one of the triggers gets activated.
 
-To run the campaign on a set of people all at the same time, learn how to [Define Smart List for Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+To run the campaign on a set of people all at the same time, learn how to [Define Smart List for Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Add a Flow Step to a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[Add a Flow Step to a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

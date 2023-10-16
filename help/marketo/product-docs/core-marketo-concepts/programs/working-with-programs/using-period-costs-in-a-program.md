@@ -7,23 +7,23 @@ feature: Programs
 ---
 # Using Period Costs in a Program {#using-period-costs-in-a-program}
 
-A [period cost](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md) is the amount you spend on a program. It can be for one or more months and is used for reporting ROI.
+A [period cost](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"} is the amount you spend on a program. It can be for one or more months and is used for reporting ROI.
 
 ## Add a Period Cost  {#add-a-period-cost}
 
-1. Go to the **Setup** tab of your program.
+1. Go to the **[!UICONTROL Setup]** tab of your program.
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. Drag and drop **Period Cost** into the canvas.
+1. Drag and drop **[!UICONTROL Period Cost]** into the canvas.
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
-1. Click the calendar icon. Select a month. Click **OK**.
+1. Click the calendar icon. Select a month. Click **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. Enter a **Period Cost** (without decimals or commas). Click **Save**.
+1. Enter a **[!UICONTROL Period Cost]** (without decimals or commas). Click **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
@@ -43,33 +43,33 @@ A [period cost](/help/marketo/product-docs/core-marketo-concepts/programs/workin
 
 1. If you spend more or less money than originally projected, you can edit the period cost.
 
-1. Go to the **Setup** tab of your program.
+1. Go to the **[!UICONTROL Setup]** tab of your program.
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
-1. Right-click on the **Period Cost**. Select **Edit**.
+1. Right-click on the **[!UICONTROL Period Cost]**. Select **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
-1. Make your edits. Click **Save**.
+1. Make your edits. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-14-3a3-3a41.png)
 
 ## Delete a Period Cost {#delete-a-period-cost}
 
-1. Go to the **Setup** tab of your program.
+1. Go to the **[!UICONTROL Setup]** tab of your program.
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. Right-click on the **Period Cost**. Select **Delete**.
+1. Right-click on the **[!UICONTROL Period Cost]**. Select **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. Click **Delete** to confirm.
+1. Click **[!UICONTROL Delete]** to confirm.
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 
 >[!MORELIKETHIS]
 >
->* [Understanding Period Costs](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
->* [Filter a Program Report by Period Cost](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
+>* [Understanding Period Costs](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"}
+>* [Filter a Program Report by Period Cost](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}

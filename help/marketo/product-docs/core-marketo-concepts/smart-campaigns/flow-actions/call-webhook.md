@@ -9,7 +9,7 @@ feature: Smart Campaigns
 
 >[!PREREQUISITES]
 >
->[Create a Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
+>[Create a Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}
 
 ## Overview {#overview}
 
@@ -19,11 +19,11 @@ Webhooks let you interact with third party services. Send/receive information by
 
 >[!NOTE]
 >
->Learn about the many fascinating things that [Webhooks](https://developers.marketo.com/documentation/webhooks/) can do for you.
+>Learn about the many fascinating things that [Webhooks](https://developers.marketo.com/documentation/webhooks/){target="_blank"} can do for you.
 
 ## Usage {#usage}
 
-Select a **Webhook** from the drop-down.
+Select a Webhook from the drop-down.
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
@@ -31,4 +31,4 @@ That's all! Your webhook will now be invoked whenever people enter the smart cam
 
 >[!MORELIKETHIS]
 >
->[Use a Webhook in a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
+>[Use a Webhook in a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md){target="_blank"}
