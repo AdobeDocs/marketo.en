@@ -11,11 +11,11 @@ A program can be imported from one Marketo subscription to another. For instance
 
 ## Importing a Program {#importing-a-program}
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/import-a-program-1.png)
 
-1. Click the **New** drop-down and select **Import Program**.
+1. Click the **[!UICONTROL New]** drop-down and select **[!UICONTROL Import Program]**.
 
    ![](assets/import-a-program-2.png)
 
@@ -25,19 +25,19 @@ A program can be imported from one Marketo subscription to another. For instance
    >
    >To connect a sandbox account to your live subscription, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Select a Marketo **Subscription** and a program to import. Click **Next**.
+1. Select a Marketo **[!UICONTROL Subscription]** and a program to import. Click **[!UICONTROL Next]**.
 
    ![](assets/import-a-program-3.png)
 
-1. Specify a **Campaign Folder** for the imported program. Click **Next.**
+1. Specify a **[!UICONTROL Campaign Folder]** for the imported program. Click **[!UICONTROL Next]**.
 
    ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
-   >Make sure **Use default conflict** rules is selected. Conflict rules are needed when you import programs into an instance that have assets of the same name.
+   >Make sure **[!UICONTROL Use default conflict]** rules is selected. Conflict rules are needed when you import programs into an instance that have assets of the same name.
 
-1. Choose your desired Conflict Details and click **Next**.
+1. Choose your desired Conflict Details and click **[!UICONTROL Next]**.
 
    ![](assets/import-a-program-5.png)
 
@@ -45,7 +45,7 @@ A program can be imported from one Marketo subscription to another. For instance
    >
    >Importing a program that uses Custom Flow Steps, or Smart List rules that are derived from a Flow Step Service into a destination instance where there is more than one compatible service provider, the importing user will be prompted to assign steps or rules to the correct service provider in the destination instance.
 
-1. Preview details and **Import** the program.
+1. Preview details and **[!UICONTROL Import]** the program.
 
    ![](assets/import-a-program-6.png)
 
@@ -69,7 +69,7 @@ Programs use external assets like email templates, Landing Page templates, image
 
 >[!CAUTION]
 >
->Image type my tokens are not supported for program imports. If a program that has image type my tokens is imported, **no** tokens will come through.
+>Image type my tokens are not supported for program imports. If a program that has image type my tokens is imported, _no_ tokens will come through.
 
 **Program Tags:** You can use conflict rules to control how program tags that do not exist in the destination account will be treated. Using the default rule will create the program tags, or you can choose to ignore the tags.
 

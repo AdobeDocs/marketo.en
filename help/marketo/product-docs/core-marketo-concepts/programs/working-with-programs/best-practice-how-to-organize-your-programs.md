@@ -11,7 +11,7 @@ There are many ways to organize the tree in Marketing Activities as well as the 
 
 >[!TIP]
 >
->One day, (when you get promoted!) someone else will be trying to make sense of your programs. Good organization will help them be productive quickly.
+>One day (when you get promoted!), someone else will be trying to make sense of your programs. Good organization will help them be productive quickly.
 
 ## Folders {#folders}
 
@@ -49,7 +49,7 @@ Each of these mentioned in the example is a folder. Notice how they are all uniq
 
 >[!TIP]
 >
->The "Archive" folder is a special kind of folder that is designed to remove items from select lists as well as reporting. This will help your system run quicker. Learn [more about folders](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
+>The "Archive" folder is a special kind of folder that is designed to remove items from select lists as well as reporting. This will help your system run quicker. Learn [more about folders](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
 
 You can certainly add more folders as you see fit. Just keep in mind that future generations of marketers in your company will live with your decisions about how to name/organize things.  
 
@@ -69,7 +69,7 @@ Naming is critical, as Marketo's features all use a common language to communica
 >1. NL 2015-06 Newsletter
 >1. WBN 2015-12-01 Webinar Topic Here
 
-Program names need to be unique in your subscription, even in different [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  For the local assets inside programs, the rule is to **keep the name simple**. Just name an invitation "Invitation," as opposed to "2015 June Webinar Invitation." Because these are in a program, the parent program is automatically part of the name when choosing it elsewhere. In other words, local assets only need to be unique inside the program. You can have hundreds of assets named "Invite," each in a different program and it won't mess you up.
+Program names need to be unique in your subscription, even in different [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  For the local assets inside programs, the rule is to **keep the name simple**. Just name an invitation "Invitation," as opposed to "2015 June Webinar Invitation." Because these are in a program, the parent program is automatically part of the name when choosing it elsewhere. In other words, local assets only need to be unique inside the program. You can have hundreds of assets named "Invite," each in a different program and it won't mess you up.
 
 ## Tokens {#tokens}
 
@@ -91,7 +91,7 @@ An Event usually has a lot of moving parts, including: invitations, landing page
 
 ## Engagement Programs {#engagement-programs}
 
-Learn [all about engagement programs](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). The best way to organize your engagement program is with folders. Make a folder for each stream and then put the emails or programs into that folder. Include an archive folder in each stream when content gets stale and you want to remove it.
+Learn [all about engagement programs](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. The best way to organize your engagement program is with folders. Make a folder for each stream and then put the emails or programs into that folder. Include an archive folder in each stream when content gets stale and you want to remove it.
 
 ## Operational Programs {#operational-programs}
 
@@ -115,4 +115,4 @@ Some people even abstract most of the text in the emails and landing pages into 
 
 ## Summary {#summary}
 
-As you can see, there is a lot of power in Marketo. We covered the basics here, but consider some [additional services from Marketo Experts](https://www.marketo.com/services/) to fine tune and set yourself up for success.
+As you can see, there is a lot of power in Marketo. We covered the basics here, but consider additional services from [Marketo Engage experts](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} to fine-tune and set yourself up for success.

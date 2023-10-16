@@ -17,11 +17,11 @@ feature: Programs
 
 ## Map Salesforce Fields to Program Member Custom Fields {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. In Marketo, click **Admin**.
+1. In Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/program-member-custom-field-sync-1.png)
  
-1. Click **Salesforce**, then click **Edit** next to Program Member Custom Field Sync.
+1. Click **[!DNL Salesforce]**, then click **[!UICONTROL Edit]** next to Program Member Custom Field Sync.
 
    ![](assets/program-member-custom-field-sync-2.png)
  
@@ -43,7 +43,7 @@ feature: Programs
 
 1. For additional field mappings, clear the search box and repeat steps 3 through 5.
 
-1. Click **Save** when done.
+1. Click **[!UICONTROL Save]** when done.
 
    ![](assets/program-member-custom-field-sync-6.png)
 
@@ -59,11 +59,11 @@ feature: Programs
 
 If you ever want to free up a field in order to replace it, or just make a general change, you must perform an unmapping first. Here's how.
 
-1. In Marketo, click **Admin**.
+1. In Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. Click **Salesforce**, then click **Edit** next to Program Member Custom Field Sync.
+1. Click **[!DNL Salesforce]**, then click **[!UICONTROL Edit]** next to Program Member Custom Field Sync.
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -73,13 +73,13 @@ If you ever want to free up a field in order to replace it, or just make a gener
 
    >[!TIP]
    >
-   >You can select the **Mapped** checkbox to see only mapped fields.
+   >You can select the **[!UICONTROL Mapped]** checkbox to see only mapped fields.
 
 1. Unmap by clicking the **X** next to the field.
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. The mapping is now removed. Click **Save**.
+1. The mapping is now removed. Click **[!UICONTROL Save]**.
 
    ![](assets/program-member-custom-field-sync-11.png)
 

@@ -11,15 +11,15 @@ Program Member custom fields allow you to collect program-specific data for each
 
 ## Create a Program Member Custom Field {#create-a-program-member-custom-field}
 
-1. In Marketo, click **Admin**.
+1. In Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. Click **Field Management**.
+1. Click **[!UICONTROL Field Management]**.
 
    ![](assets/two.png)
 
-1. Click **New Custom Field**.
+1. Click **[!UICONTROL New Custom Field]**.
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ Program Member custom fields allow you to collect program-specific data for each
    >
    >Person and Program Member custom fields cannot share the same name.
 
-1. Fill out the remaining fields and click **Create**.
+1. Fill out the remaining fields and click **[!UICONTROL Create]**.
 
    ![](assets/five.png)
 

@@ -13,7 +13,7 @@ Account Scoring is a vital part of Target Account Management. It helps you deter
 
 It's a systematic approach designed to help Sales and Marketing teams identify and prioritize the companies (including prospects) that are most likely to make a purchase.
 
-In the complex world of B2B buying processes, it’s rare that a single individual makes a purchase decision. There are often various roles involved, each with their own needs. Account-based scoring takes this into account by aggregating the lead scores from multiple leads and providing a score at an account level.
+In the complex world of B2B buying processes, it's rare that a single individual makes a purchase decision. There are often various roles involved, each with their own needs. Account-based scoring takes this into account by aggregating the lead scores from multiple leads and providing a score at an account level.
 
 ## Common Examples {#common-examples}
 
@@ -53,7 +53,7 @@ Once you've configured the lead score, proceed by following the steps below.
 
 1. Click **Admin**.
 
-   ![](assets/one-1.png)
+   ![](assets/account-score-1.png)
 
 1. Click **Target Account Management**.
 
@@ -69,12 +69,12 @@ Once you've configured the lead score, proceed by following the steps below.
 
 1. Enter the Account Score name, click the **Select Person Score** drop-down and select the corresponding score.
 
-   ![](assets/four.png)
+   ![](assets/account-score-4.png)
 
 1. Click **+Add** to add more scores.
 
-   ![](assets/five.png)
+   ![](assets/account-score-5.png)
 
 1. Add all desired scores. Click **Save** when done.
 
-   ![](assets/six.png)
+   ![](assets/account-score-6.png)
