@@ -7,13 +7,13 @@ feature: Smart Campaigns
 ---
 # Export Smart Campaign Results to Excel {#export-smart-campaign-results-to-excel}
 
-Export your smart campaign results to Excel for use outside of Marketo.
+Export your Smart Campaign results to Excel for use outside of Marketo.
 
-1. In your smart campaign, click on **Results** and then the export icon at the bottom.
+1. In your Smart Campaign, click the **[!UICONTROL Results]** tab, then the export icon at the bottom.
 
    ![](assets/exportexcel-hands.png)
 
-   In a jiffy, your results are exported and ready to use!
+   Your results are exported and ready to use!
 
    >[!NOTE]
    >

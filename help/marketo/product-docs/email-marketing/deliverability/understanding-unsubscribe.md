@@ -9,10 +9,6 @@ feature: Deliverability
 
 There are actually several different types of built-in unsubscribes in Marketo. They're all represented by fields on the person object, just like First Name.
 
->[!NOTE]
->
->Marketo is in the process of changing terms such as Blacklist and Whitelist to Blocklist and Allowlist in our product. During this update, you may see the old terms in our UI and documentation screenshots, and the new terms in our documentation text. We apologize for any confusion.
-
 All of these fields are built-in to your Marketo subscription. They are all boolean (checkbox) type. They can be used in Forms or [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) flow steps.
 
 ## Unsubscribed {#unsubscribed}

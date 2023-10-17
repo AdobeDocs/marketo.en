@@ -7,13 +7,11 @@ feature: Smart Campaigns, Salesforce Integration
 ---
 # Change Status in SFDC Campaign {#change-status-in-sfdc-campaign}
 
+This flow step allows you to change the Salesforce campaign member status of leads.
+
 >[!NOTE]
 >
 >Only available when integrated with Salesforce.
-
-## Overview {#overview}
-
-This flow step allows you to change the Salesforce campaign member status of leads.
 
 If a lead does not exist in Salesforce or is not a member of the campaign yet, it will automatically be synced and added to the Salesforce campaign with the appropriate status.
 
@@ -21,10 +19,10 @@ If a lead does not exist in Salesforce or is not a member of the campaign yet, i
 
 ## Usage {#usage}
 
-1. First find and select the Salesforce **Campaign** the record is in.
+1. First find and select the Salesforce **[!UICONTROL Campaign]** the record is in.
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. Then select the **New Status** you want to set and you're done!
+1. Then select the **[!UICONTROL New Status]** you want to set, and you're done!
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)

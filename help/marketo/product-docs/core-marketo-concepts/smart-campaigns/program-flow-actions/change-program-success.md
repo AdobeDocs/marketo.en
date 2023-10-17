@@ -23,7 +23,7 @@ If you ever have a group of people that are marked with Program Success accident
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. Select **Success** or **Success Date** as the Attribute.
+1. Select **[!UICONTROL Success]** or **[!UICONTROL Success Date]** as the Attribute.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
@@ -31,7 +31,7 @@ If you ever have a group of people that are marked with Program Success accident
    >
    >Setting Success Date to anything automatically sets Success to true. Setting Success to true automatically sets the Success Date to the current date.
 
-1. Set the **New Value** to **True** or **False**.
+1. Set the **[!UICONTROL New Value]** to **[!UICONTROL True]** or **[!UICONTROL False]**.
 
    ![](assets/image2014-9-22-14-3a45-3a55.png)
 

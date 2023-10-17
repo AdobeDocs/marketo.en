@@ -9,7 +9,7 @@ feature: Smart Campaigns
 
 ## Overview {#overview}
 
-Normally you would use [stream transition rules](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) to achieve this, but if you want to manually move people from one stream to another, this is the flow step to use.
+Normally, you would use [stream transition rules](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) to achieve this. But if you want to manually move people from one stream to another, this is the flow step to use.
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 

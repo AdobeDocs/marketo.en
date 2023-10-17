@@ -9,10 +9,6 @@ feature: Smart Lists
 
 Marketo has some very useful built-in smart lists. Let's check them out!
 
->[!NOTE]
->
->Marketo is in the process of changing terms such as Blacklist and Whitelist to Blocklist and Allowlist in our product. During this update, you may see the old terms in our UI and documentation screenshots, and the new terms in our documentation text. We apologize for any confusion.
-
 1. Go to the **Database**.
 
    ![](assets/db.png)

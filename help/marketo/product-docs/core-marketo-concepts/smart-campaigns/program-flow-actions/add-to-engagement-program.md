@@ -9,7 +9,7 @@ feature: Smart Campaigns
 
 ## Overview {#overview}
 
-The smart campaign that you build with this flow step will be the gateway to your engagement program.
+The Smart Campaign that you build with this flow step will be the gateway to your engagement program.
 
 ![](assets/image2014-9-22-14-3a47-3a32.png)
 

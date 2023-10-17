@@ -7,19 +7,15 @@ feature: Smart Campaigns
 ---
 # View Blocked People in a Smart Campaign {#view-blocked-people-in-a-smart-campaign}
 
-Blocked people in the Marketo database are marked blocklisted, unsubscribed, marketing suspended, and/or have an invalid or empty email.
+Blocked people in the Marketo Engage database are marked blocklisted, unsubscribed, marketing suspended, and/or have an invalid or empty email.
 
->[!NOTE]
->
->Marketo is in the process of changing terms such as Blacklist and Whitelist to Blocklist and Allowlist in our product. During this update, you may see the old terms in our UI and documentation screenshots, and the new terms in our documentation text. We apologize for any confusion.
-
-1. In your smart campaign, click on **Schedule**. Under **Smart List Status** click on the second link.
+1. In your Smart Campaign, click **[!UICONTROL Schedule]**. Under **[!UICONTROL Smart List Status]**, click the second link.
 
    ![](assets/image2014-9-22-16-3a47-3a38.png)
 
    >[!NOTE]
    >
-   >People who have reached their communication limits may also be blocked from receiving mails. Learn how to [edit communication limits](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) in the Admin section.
+   >People who have reached their communication limits may also be blocked from receiving mails. Learn how to [edit communication limits](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} in the Admin section.
 
    The Blocked People tab shows people who might not receive mailings.
 
@@ -31,9 +27,9 @@ Blocked people in the Marketo database are marked blocklisted, unsubscribed, mar
 
    >[!MORELIKETHIS]
    >
-   >* [Edit Qualification Rules](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
-   >* [Enable Communication Limits](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
-   >* [View Smart Campaign Members](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
-   >* [View Qualified People in a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
+   >* [Edit Qualification Rules](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}
+   >* [Enable Communication Limits](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}
+   >* [View Smart Campaign Members](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}
+   >* [View Qualified People in a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md){target="_blank"}
 
 There you go! Now you can be aware of who might not be receiving the mailings.

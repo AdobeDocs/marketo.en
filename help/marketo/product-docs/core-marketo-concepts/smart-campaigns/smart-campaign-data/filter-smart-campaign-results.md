@@ -11,11 +11,11 @@ feature: Smart Campaigns
 >
 >[View Smart Campaign Results](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
 
-Filter smart campaign results to see specific activities that matter to you.
+Filter Smart Campaign results to see specific activities that matter to you.
 
 ## Filter by Saved Filters {#filter-by-saved-filters}
 
-1. In your smart campaign **Results** tab, click on **Filter** and select a saved filter.
+1. In your Smart Campaign **[!UICONTROL Results]** tab, click **[!UICONTROL Filter]** and select a saved filter.
 
    ![](assets/resultsfilter-hands.png)
 
@@ -25,24 +25,22 @@ Filter smart campaign results to see specific activities that matter to you.
 
 ## Create a Custom Filter {#create-a-custom-filter}
 
-1. Click on **Filter** and then **Custom**.
+1. Click **[!UICONTROL Filter]**, then **[!UICONTROL Custom]**.
 
    ![](assets/filterscustom-hands.png)
 
-1. Select activity types that you want to see and then click on **Save As** .
+1. Select activity types that you want to see and click **[!UICONTROL Save As]**.
 
    ![](assets/activityfiltersettings-hands.png)
 
    >[!TIP]
    >
-   >Click on **Apply** to directly apply a custom filter to your results without saving it.
+   >Click **[!UICONTROL Apply]** to directly apply a custom filter to your results without saving it.
 
-1. Enter a filter name and click on **Save**.
+1. Enter a filter name and click **[!UICONTROL Save]**.
 
    ![](assets/saveasfilter-hands.png)
 
-1. The custom filter will be applied to your results and is now available in the drop-down (you may have to refresh the page to see it in the drop-down.)
+1. The custom filter will be applied to your results and is now available in the drop-down (you may have to refresh the page to see it in the drop-down).
 
    ![](assets/customfilter-hands.png)
-
-   Isn't that cool? Your custom filter is now available for use in all activity logs.
