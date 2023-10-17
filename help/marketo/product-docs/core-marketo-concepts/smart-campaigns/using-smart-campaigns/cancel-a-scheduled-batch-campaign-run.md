@@ -9,7 +9,7 @@ feature: Smart Campaigns
 
 If you've scheduled a run for one of your batch campaigns and would like to cancel it, here's how.
 
-1. Select the campaign and go to the **Schedule** tab.
+1. Select the campaign and go to the **[!UICONTROL Schedule]** tab.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-1.png)
 
@@ -17,7 +17,7 @@ If you've scheduled a run for one of your batch campaigns and would like to canc
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. Confirm the cancellation by clicking **OK**.
+1. Confirm the cancellation by clicking **[!UICONTROL OK]**.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-3.png)
 

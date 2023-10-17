@@ -9,7 +9,7 @@ feature: Smart Campaigns
 
 Activating a trigger Smart Campaign is like turning it ON. Here's what to do.
 
-1. In the Smart Campaign's **Schedule** tab, click **Activate**.
+1. In the Smart Campaign's **[!UICONTROL Schedule]** tab, click **[!UICONTROL Activate]**.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-1.png)
 
@@ -17,11 +17,11 @@ Activating a trigger Smart Campaign is like turning it ON. Here's what to do.
    >
    >Review the Smart Campaign before activating.
 
-1. Click **Activate** again.
+1. Click **[!UICONTROL Activate]** again.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-2.png)
 
-   >[!CAUTION]
+   >[!TIP]
    >
    >Make sure the campaign is ready before you activate!
 

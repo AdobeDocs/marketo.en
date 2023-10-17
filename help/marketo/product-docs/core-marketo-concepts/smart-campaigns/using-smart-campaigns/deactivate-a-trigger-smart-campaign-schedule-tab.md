@@ -7,20 +7,20 @@ feature: Smart Campaigns
 ---
 # Deactivate a Trigger Smart Campaign | Schedule Tab {#deactivate-a-trigger-smart-campaign-schedule-tab}
 
-If you have an old trigger campaign that you need to deactivate, follow these steps:
+If you have an old Trigger Campaign that you need to deactivate, follow these steps:
 
-1. Find and select your active trigger campaign.
+1. Find and select your active Trigger Campaign.
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-1.png)
 
-1. Under the Schedule tab, click **Deactivate**.
+1. Under the Schedule tab, click **[!UICONTROL Deactivate]**.
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-2.png)
 
-1. Confirm by clicking **Deactivate**.
+1. Confirm by clicking **[!UICONTROL Deactivate]**.
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-3.png)
 
 >[!NOTE]
 >
->This will stop *new* people from entering the flow, but people in wait steps or any other flow step will continue to move through the flow until done.
+>This will stop _new_ people from entering the flow, but people in wait steps or any other flow step will continue to move through the flow until done.
