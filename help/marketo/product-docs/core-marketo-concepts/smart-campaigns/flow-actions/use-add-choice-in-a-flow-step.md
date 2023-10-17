@@ -9,11 +9,11 @@ feature: Smart Campaigns
 
 >[!PREREQUISITES]
 >
->[Add a Flow Step to a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[Add a Flow Step to a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
 
-**Add Choice** lets you use a flow step and say "It depends" when you are choosing the details.
+"Add Choice" lets you use a flow step and say 'it depends' when you're choosing the details.
 
-1. Under the **Flow** tab of the smart campaign, add any flow step and then click on **Add Choice**.
+1. Under the **[!UICONTROL Flow]** tab of the Smart Campaign, add any flow step and then click on **[!UICONTROL Add Choice]**.
 
    ![](assets/image2014-9-22-11-3a58-3a20.png)
 
@@ -31,7 +31,7 @@ feature: Smart Campaigns
 
    >[!CAUTION]
    >
-   >Tokens will **not** work in the condition part of a choice flow step.
+   >Tokens will _not_ work in the condition part of a choice flow step.
 
 1. Repeat the above steps to add multiple choices, and then add/adjust the default value.
 
@@ -43,10 +43,10 @@ feature: Smart Campaigns
 
    >[!CAUTION]
    >
-   >Only the first matching choice is applied to the flow step. Learn how to  [reorder "Add Choice" in a flow action](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md).
+   >Only the first matching choice is applied to the flow step. Learn how to [reorder "Add Choice" in a flow action](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}.
 
-   Great! You can now create a single smart campaign with flow step choices instead of creating multiple smart campaigns for each choice.
+   Great! You can now create a single Smart Campaign with flow step choices instead of creating multiple Smart Campaigns for each choice.
 
    >[!MORELIKETHIS]
    >
-   >[Reorder Add Choice in a Flow Step](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
+   >[Reorder Add Choice in a Flow Step](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}

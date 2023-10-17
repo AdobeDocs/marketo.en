@@ -10,13 +10,13 @@ Self-service Flow Steps is a framework and set of features for authoring, publis
 
 ## Onboarding and Managing Services {#onboarding-and-managing-services}
 
-Installing a custom flow step requires Admin permissions in Marketo (**Manage Webhooks** in the Jan 21st release, Changing in the March 11th release). Apart from the Installation URL, all other aspects of a serviced may be edited after completing initial onboarding by drilling down into the service detail screen from the Service Providers grid.
+Installing a custom flow step requires Admin permissions in Marketo. Apart from the Installation URL, all other aspects of a serviced may be edited after completing initial onboarding by drilling down into the service detail screen from the Service Providers grid.
 
 ## Installation URL {#installation-url}
 
 To begin installation, you'll need to first obtain the URL of the OpenAPI document that defines your service. Your service provider should be able to provide this to you and will usually have a URL ending in `/openapi.json`. Complete URLs will look something like `https://www.example.com/OpenAPI.json`. Once you have this URL, go to the Service Providers menu in your Admin Section.
 
-Click **Next** to go to the Enter Service Credentials section.
+Click **[!UICONTROL Next]** to go to the Enter Service Credentials section.
 
    ![](assets/flow-step-service-1.png)
 

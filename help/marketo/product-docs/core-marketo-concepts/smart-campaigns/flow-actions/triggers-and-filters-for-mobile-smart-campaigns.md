@@ -7,9 +7,9 @@ feature: Smart Campaigns
 ---
 # Triggers and Filters for Mobile Smart Campaigns {#triggers-and-filters-for-mobile-smart-campaigns}
 
-You can set up triggers and filters for a Mobile App smart campaign.
+You can set up triggers and filters for a Mobile App Smart Campaign.
 
-For most activities, there are a trigger, a filter, and an inactivity filter. Use inactivity filters to track an action, such as tapping a push notification, that *didn't* happen.
+For most activities, there are a trigger, a filter, and an inactivity filter. Use inactivity filters to track an action, such as tapping a push notification, that _didn't_ happen.
 
 * Mobile App Is/Was Installed
 * Mobile App Is/Was Opened
@@ -21,7 +21,7 @@ There are only filters for this activity:
 
 * Was Sent Push Notification - filter and inactivity filter
 
-Search for **mobile app** in the right panel to list all of the Mobile App triggers and filters.
+Search for "mobile app" in the right panel to list all of the Mobile App triggers and filters.
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
@@ -97,7 +97,7 @@ Mobile App Is/Was Opened
 
 Has/Had Mobile App Activity
 
-These provide a powerful way to track custom mobile activity. You'll need to work with your developer to set up tracking [for Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) and [for iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+These provide a powerful way to track custom mobile activity. You'll need to work with your developer to set up tracking [for Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android){target="_blank"} and [for iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios){target="_blank"}.
 
 * Has Mobile App Activity - trigger
 
@@ -186,5 +186,5 @@ Taps/Tapped Push Notification
 
 >[!MORELIKETHIS]
 >
->* [Add a Constraint to a Smart List Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [Use Inactivity Filters in a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [Add a Constraint to a Smart List Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [Use Inactivity Filters in a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

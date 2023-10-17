@@ -7,7 +7,7 @@ feature: Smart Campaigns, Microsoft Dynamics
 ---
 # Sync Person to Microsoft {#sync-person-to-microsoft}
 
-This feature is only for those who integrate Marketo with Microsoft Dynamics.
+This feature is only for those who integrate Marketo Engage with [!DNL Microsoft Dynamics].
 
 ## Overview {#overview}
 
@@ -23,4 +23,4 @@ You can set a Dynamics user as the person owner.
 
 >[!NOTE]
 >
->When using the “Sync Person to Microsoft” flow action (in a trigger campaign only), the lead/contact will be created in real-time in Dynamics.
+>When using the "[!UICONTROL Sync Person to Microsoft]" flow action (in a Trigger Campaign only), the lead/contact will be created in real-time in Dynamics.

@@ -9,13 +9,13 @@ feature: Smart Campaigns
 
 ## Overview {#overview}
 
-Since you have the ability to [Add to List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), you also need a way to remove people from lists.
+Since you have the ability to [Add to List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, you also need a way to remove people from lists.
 
 ![](assets/image2014-9-22-10-3a44-3a3.png)
 
 ## Usage {#usage}
 
-1. Find and select the **List** you want the people to be removed from.
+1. Find and select the list you want the people to be removed from.
 
    ![](assets/image2014-9-22-10-3a44-3a7.png)
 

@@ -9,7 +9,7 @@ feature: Smart Campaigns
 
 ## Overview {#overview}
 
-The **Send Email** flow step can be used as part of campaigns or as a single flow step to send emails to your people.
+The "[!UICONTROL Send Email]" flow step can be used as part of campaigns or as a single flow step to send emails to your people.
 
 ![](assets/image2014-9-22-10-3a8-3a11.png)
 

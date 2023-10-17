@@ -9,7 +9,7 @@ feature: Smart Campaigns
 
 ## Overview {#overview}
 
-When running a [referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) or a [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), you can give credit to the referrer using different methods:
+When running a [referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"} or a [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}, you can give credit to the referrer using different methods:
 
 * Referred Visits
 * Referred Sign-Ups
@@ -28,6 +28,6 @@ If you chose to use the **Smart List Trigger** option to specify a goal, you wil
 
    >[!NOTE]
    >
-   >Make sure your social app is configured to use Smart List Trigger. See  [Specify Goal for Referral Offer](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) for details.
+   >Make sure your social app is configured to use Smart List Trigger. See [Specify Goal for Referral Offer](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md){target="_blank"} for details.
 
 Excellent! Any person processed by this flow step will now give credit to its referrer.

@@ -7,21 +7,21 @@ feature: Smart Campaigns
 ---
 # Use a Date Token in a Wait Flow Step {#use-a-date-token-in-a-wait-flow-step}
 
-You can use the Wait flow step to pause a person's journey through a smart campaign until a particular date that uses a date token. You can also modify the end date by some number of days.
+You can use the Wait flow step to pause a person's journey through a Smart Campaign until a particular date that uses a date token. You can also modify the end date by some number of days.
 
 >[!NOTE]
 >
->This only applies to trigger campaigns. You cannot use this feature in batch campaigns.
+>This only applies to Trigger Campaigns. You cannot use this feature in Batch Campaigns.
 
-1. In your smart campaign **Flow** tab, drag over the **Wait** flow step.
+1. In your Smart Campaign **[!UICONTROL Flow]** tab, drag over the **[!UICONTROL Wait]** flow step.
 
    ![](assets/image2014-9-22-14-3a8-3a22.png)
 
-1. Click the gear icon to the right.
+1. Click the gear icon.
 
    ![](assets/image2014-9-22-14-3a8-3a37.png)
 
-1. From the **Type** drop-down, select **Date Token**.
+1. From the **[!UICONTROL Type]** drop-down, select **[!UICONTROL Date Token]**.
 
    ![](assets/image2014-9-22-14-3a8-3a41.png)
 
@@ -50,11 +50,11 @@ You can use the Wait flow step to pause a person's journey through a smart campa
    >
    >You can also specify the number of days using a `{{lead.` or `{{company.` token that represents an integer field,  or a `{{my.` token of number type.
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-22-14-3a11-3a3.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Use a Duration in a Wait Flow Step](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
-   >* [Use a Specific Date in a Wait Flow Step](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
+   >* [Use a Duration in a Wait Flow Step](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
+   >* [Use a Specific Date in a Wait Flow Step](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}

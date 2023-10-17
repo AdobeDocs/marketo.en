@@ -7,29 +7,29 @@ feature: Smart Campaigns
 ---
 # Request Campaign {#request-campaign}
 
-You can place people into a specific campaign by using the **Request Campaign** single flow step.
+You can place people into a specific campaign by using the "[!UICONTROL Request Campaign]" single flow step.
 
 >[!NOTE]
 >
->The campaign you are placing the person into must be active and have the **[Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)** trigger.
+>The campaign you're placing the person into must be active and have the [Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"} trigger.
 
-1. In the **Database**, find and select the desired person/people.
+1. In the **[!UICONTROL Database]**, find and select the desired person/people.
 
    ![](assets/one-5.png)
 
-1. Click **Person Actions**, hover over **Special**, and select **Request Campaign**.
+1. Click **[!UICONTROL Person Actions]**, hover over **[!UICONTROL Special]**, and select **[!UICONTROL Request Campaign]**.
 
    ![](assets/two-5.png)
 
-1. Select the campaign you want the person placed into and click **Run Now**.
+1. Select the campaign you want the person placed into and click **[!UICONTROL Run Now]**.
 
    ![](assets/three-4.png)
 
-1. On the upper-right of the screen, you'll see when it's done. Click **View Results**.
+1. On the upper-right of the screen, you'll see when it's done. Click **[!UICONTROL View Results]**.
 
    ![](assets/four-4.png)
 
-   Your person is now in the Requested Campaign.
+   Your person is now in the requested campaign.
 
    ![](assets/five-1.png)
 
@@ -37,4 +37,4 @@ You can place people into a specific campaign by using the **Request Campaign** 
 
 >[!TIP]
 >
->Use the **Campaign is Requested** trigger or filter to find people affected by this flow step.
+>Use the "[!UICONTROL Campaign is Requested]" trigger or filter to find people affected by this flow step.

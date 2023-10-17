@@ -9,7 +9,7 @@ feature: Smart Campaigns
 
 ## Overview {#overview}
 
-Marketo can send an email alert with person information to anyone - the sales owner, a partner, or someone else. Use the **Send Alert** flow step.
+Marketo can send an email alert with person information to anyone - the sales owner, a partner, or someone else. Use the "[!UICONTROL Send Alert]" flow step.
 
 ![](assets/one-1.png)
 
@@ -21,7 +21,7 @@ Marketo can send an email alert with person information to anyone - the sales ow
 
     >[!NOTE]
     >
-    >Your email alert must contain all of the header info and be in the **Approved** state.
+    >Your email alert must contain all of the header info and be in the **[!UICONTROL Approved]** state.
 
 1. You can click the preview icon to ensure that you've selected the correct email.
 
@@ -29,9 +29,9 @@ Marketo can send an email alert with person information to anyone - the sales ow
 
     >[!NOTE]
     >
-    >Be sure to use the **Send Alert Info** token in your email.
+    >Be sure to use the "[!UICONTROL Send Alert Info]" token in your email.
 
-1. Select the alert recipient. You can pick Sales Owner or Account Owner.
+1. Select the alert recipient. You can pick [!UICONTROL Sales Owner] or [!UICONTROL Account Owner].
 
     ![](assets/four-2.png)
 
@@ -41,10 +41,8 @@ Marketo can send an email alert with person information to anyone - the sales ow
 
     >[!TIP]
     >
-    >In trigger campaigns, you can use tokens in **To Other Emails** such as `{{lead.Territory Owner}}` or `{{my.Alert Recipient}}` as long as the values are valid email addresses. Tokens in **To Other Emails** will not work in a batch campaign.
-
-That's it! Now you know how to use the **Send Alert** flow step.
+    >In trigger campaigns, you can use tokens in **[!UICONTROL To Other Emails]** such as `{{lead.Territory Owner}}` or `{{my.Alert Recipient}}` as long as the values are valid email addresses. Tokens in **[!UICONTROL To Other Emails]** will not work in a Batch Campaign.
 
 >[!MORELIKETHIS]
 >
->[Create an Email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
+>[Create an Email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md){target="_blank"}

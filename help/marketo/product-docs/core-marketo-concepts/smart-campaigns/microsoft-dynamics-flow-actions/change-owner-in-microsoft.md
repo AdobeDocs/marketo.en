@@ -11,7 +11,7 @@ If you have existing people that are already assigned to an owner, you can use t
 
 >[!NOTE]
 >
->This flow step will **only work when used with triggers**, not filters, in your smart campaign.
+>This flow step will _only work when used with triggers_, not filters, in your Smart Campaign.
 
 ![](assets/one-1.png)
 
