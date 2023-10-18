@@ -7,26 +7,32 @@ feature: Image Editor
 ---
 # Organize Your Images and Files Using Folders {#organize-your-images-and-files-using-folders}
 
-Creating folders allows you to move images and files, see just the set of images you want, and upload directly to a specific folder.  
+Creating folders allows you to move images and files, see just the set of images you want, and upload directly to a specific folder.
 
-1. Go to the **Design Studio**.
+1. Go to the **[!UICONTROL Design Studio]**.
 
-   ![](assets/designstudio-7.png)
+   ![](assets/organize-your-images-and-files-using-folders-1.png)
 
-1. Right-click on **Images and Files** in the left menu, then select **New Folder**.
+1. Right-click on **[!UICONTROL Images and Files]** and select **[!UICONTROL New folder]**.
 
-   ![](assets/image2014-9-16-11-3a25-3a45.png)
+   ![](assets/organize-your-images-and-files-using-folders-2.png)
 
-1. After the new folder appears, give it a name.
+1. Name your folder and click **[!UICONTROL Create]**.
 
-   ![](assets/image2014-9-16-11-3a25-3a53.png)
+   ![](assets/organize-your-images-and-files-using-folders-3.png)
 
-1. Go to **Images and Files**, now you can drag and drop into the folder you want.
+1. Go back to **[!UICONTROL Images and Files]** and select the asset you want to move. Click the **[!UICONTROL Image and file actions]** drop-down and select **[!UICONTROL Move]**.
 
-   ![](assets/image2014-9-16-11-3a26-3a0.png)
+   ![](assets/organize-your-images-and-files-using-folders-4.png)
 
-High five! You're all set for folder utopia.
+1. Select the desired folder.
+
+   ![](assets/organize-your-images-and-files-using-folders-5.png)
+
+1. Click **M[!UICONTROL ]ove**.
+
+   ![](assets/organize-your-images-and-files-using-folders-6.png)
 
 >[!MORELIKETHIS]
 >
->[Search Uploaded Images and Files](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
+>[Search Uploaded Images and Files](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}

@@ -7,41 +7,37 @@ feature: Image Editor
 ---
 # Replace an Uploaded Image or File {#replace-an-uploaded-image-or-file}
 
-1. Go to the **Design Studio**.
+1. Go to the **[!UICONTROL Design Studio]**.
 
-   ![](assets/designstudio-6.png)
+   ![](assets/replace-an-uploaded-image-or-file-1.png)
 
-1. Click **Images and Files**, then select the file you want to replace.
+1. Click **[!UICONTROL Images and Files]**.
 
-   ![](assets/image2014-9-16-11-3a21-3a48.png)
+   ![](assets/replace-an-uploaded-image-or-file-2.png)
 
-   >[!TIP]
-   >
-   >You can also [search uploaded images or files](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md).
+1. Select the asset you want to replace. Click the **[!UICONTROL Image and file actions]** drop-down and select **[!UICONTROL Replace image or file]**.
 
-1. Click **File Actions** and select **Replace Image or File**.
+   ![](assets/replace-an-uploaded-image-or-file-3.png)
 
-   ![](assets/image2014-9-16-11-3a21-3a55.png)
+1. Drag and drop or browse your computer for the replacement file.
 
-1. Browse to the file on your computer that will replace the current file, then select it.
-
-   ![](assets/image2014-9-16-11-3a22-3a2.png)
+   ![](assets/replace-an-uploaded-image-or-file-4.png)
 
    >[!NOTE]
    >
-   >If you're unable to select a file from a shared folder, please save that file to your hard drive and choose it from there.
+   >The replacement file type must be the same as the original (e.g., .jpg)
 
-1. Verify that the file displayed next to **Choose File** is correct, then click **Replace**.
+1. After you've selected the replacement file, click **[!UICONTROL Replace]**.
 
-   ![](assets/image2014-9-16-11-3a22-3a12.png)
+   ![](assets/replace-an-uploaded-image-or-file-5.png)
 
->[!NOTE]
->
->The name of the replacement file will change to match the previous file name.
+   >[!NOTE]
+   >
+   >The name of the replacement file will change to match the previous file's name.
 
-You did it!
+Good job!
 
 >[!MORELIKETHIS]
 >
->* [Search Uploaded Images and Files](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
->* [Find the URL of an Uploaded Image or File](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [Search Uploaded Images and Files](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>* [Find the URL of an Uploaded Image or File](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}

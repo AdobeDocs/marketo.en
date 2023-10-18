@@ -7,22 +7,24 @@ feature: Image Editor
 ---
 # Find the URL of an Uploaded Image or File {#find-the-url-of-an-uploaded-image-or-file}
 
-Looking for the web address (URL) of an image or file you uploaded? Marketo's got you covered.
+Looking for the web address (URL) of an image or file you uploaded?
 
-1. Go to the **Design Studio**.
+1. Go to the **[!UICONTROL Design Studio]**.
 
-   ![](assets/designstudio-4.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-1.png)
 
-1. Click **Images and Files** in the left menu and then select the file you want the URL for.
+1. Click **[!UICONTROL Images and Files]**.
 
-   ![](assets/image2014-9-25-14-3a47-3a53.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-2.png)
 
-1. The **URL** is displayed on the details page. Right-click the **URL** and click **Copy** in the menu that appears.
+1. Select the desired asset.
 
-   ![](assets/image2014-9-25-14-3a48-3a16.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-3.png)
 
-Give yourself a pat on the back for a job well done!
+1. The **[!UICONTROL URL]** is displayed on the details page.
+
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-4.png)
 
 >[!MORELIKETHIS]
 >
->[Replace an Uploaded Image or File](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>[Replace an Uploaded Image or File](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}

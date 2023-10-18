@@ -7,13 +7,13 @@ feature: Image Editor
 ---
 # Search Uploaded Images and Files {#search-uploaded-images-and-files}
 
-In Marketo, finding images and files is a breeze.
+Learn how to perform a search for an image or file.
 
-1. Go to the **Design Studio**.
+1. Go to the **[!UICONTROL Design Studio]**.
 
    ![](assets/search-uploaded-images-and-files-1.png)
 
-1. Click **Images and Files** for the complete list of all uploaded files.
+1. Click **[!UICONTROL Images and Files]** for the complete list of all uploaded files.
 
    ![](assets/search-uploaded-images-and-files-2.png)
 
