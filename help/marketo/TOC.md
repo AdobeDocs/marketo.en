@@ -760,6 +760,7 @@ feature-set: Marketo Engage
         + [Setting up reCAPTCHA v3](product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
         + [Enable CAPTCHA in Marketo Forms](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)
     + Images and Files {#images-and-files}
+      + [New Add Images Doc](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
       + [Add Images and Files to Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
       + [Delete an Uploaded Image or File](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
       + [Find the URL of an Uploaded Image or File](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)

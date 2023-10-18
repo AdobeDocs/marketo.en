@@ -19,7 +19,7 @@ feature: Image Editor
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
-1. Drag and drop or browse your computer for the replacement file.
+1. Drag and drop or browse your computer for the replacement image/file.
 
    ![](assets/replace-an-uploaded-image-or-file-4.png)
 
@@ -27,7 +27,7 @@ feature: Image Editor
    >
    >The replacement file type must be the same as the original (e.g., .jpg)
 
-1. After you've selected the replacement file, click **[!UICONTROL Replace]**.
+1. After you've selected the replacement image/file, click **[!UICONTROL Replace]**.
 
    ![](assets/replace-an-uploaded-image-or-file-5.png)
 
