@@ -41,3 +41,7 @@ Yes, you can control which Marketo users get permission to create and deliver In
 **Do I need to associate the webinar powered by Adobe Connect back to the Interactive Webinar Event Program like with Launchpoint Event Programs?**
 
 No, Interactive Webinar Event Programs make the association for you.
+
+**Are my Interactive Webinars recorded automatically?**
+
+They are not. After your webinar begins, click the drop-down next to the name of the webinar and select **Record Session**.

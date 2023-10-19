@@ -34,6 +34,7 @@ Go to the Overview tab to view the recorded webinar, get the link to share it, e
 
 >[!NOTE]
 >
+>* Interactive Webinars are not recorded automatically. After your webinar begins, click the drop-down next to the name of the webinar and select **Record Session**.
 >* The recording is downloaded in MP4 format.
 >* When sharing the recording it will be viewable by anyone who has the link, so make sure it's shared with the intended audience.
 
