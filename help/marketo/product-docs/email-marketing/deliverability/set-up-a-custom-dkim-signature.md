@@ -17,31 +17,36 @@ You can personalize the DKIM signature to reflect the domain(s) of your choice. 
 
 1. Go to the **Admin** section.
 
-   ![](assets/adminhand.png)
+   ![](assets/set-up-a-custom-dkim-signature-1.png)
 
    >[!NOTE]
    >
    >If you set up a custom DKIM signature the old-fashioned way, it will continue to work and should show up here.
 
-1. Click **Email**, then the **DKIM** tab, and finally **Add Domain**.
+1. Click **Email**.
 
-   ![](assets/image2014-9-18-15-3a39-3a30.png)
+   ![](assets/set-up-a-custom-dkim-signature-2.png)
 
-1. Enter the domain you will be using in Marketo emails as the From Address and click **Add**.
+1, Click the **SPF/DKIM** tab, then **Add Domain**.
+
+   ![](assets/set-up-a-custom-dkim-signature-3.png)
+
+1. Enter the domain you'll be using in Marketo emails as the From Address. Choose a Selector and a Key Size. Click **Add** when done.
+
+   ![](assets/set-up-a-custom-dkim-signature-4.png)
 
    >[!TIP]
    >
-   >If you use a different domain in your From Address, we will use the Marketo shared DKIM signature.
-
-   ![](assets/image2014-9-18-15-3a40-3a28.png)
+   >* We recommend a Key Size of 2048.
+   >* If you use a different domain in your From Address, we'll use the Marketo shared DKIM signature.
 
 1. Send the **Host Record** and **TXT Value** to your IT. Ask them to create the record for you and make sure it propagates to all nameservers associated with the from domain. Marketo's DKIM verification requires that the DKIM key is propagated to all nameservers associated with the domain being DKIM-signed.
 
-   ![](assets/image2014-9-18-15-3a40-3a44.png)
+   ![](assets/set-up-a-custom-dkim-signature-5.png)
 
 1. Once they confirm they've created the record, come back to Marketo, select your domain, and click **Check DNS**.
 
-   ![](assets/check.png)
+   ![](assets/set-up-a-custom-dkim-signature-6.png)
 
    >[!NOTE]
    >
