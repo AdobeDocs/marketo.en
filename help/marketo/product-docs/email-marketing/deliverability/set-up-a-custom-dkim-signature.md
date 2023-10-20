@@ -27,7 +27,7 @@ You can personalize the DKIM signature to reflect the domain(s) of your choice. 
 
    ![](assets/set-up-a-custom-dkim-signature-2.png)
 
-1, Click the **SPF/DKIM** tab, then **Add Domain**.
+1. Click the **SPF/DKIM** tab, then **Add Domain**.
 
    ![](assets/set-up-a-custom-dkim-signature-3.png)
 
@@ -39,6 +39,18 @@ You can personalize the DKIM signature to reflect the domain(s) of your choice. 
    >
    >* We recommend a Key Size of 2048.
    >* If you use a different domain in your From Address, we'll use the Marketo shared DKIM signature.
+
+   <table> 
+   <tr>
+   <td width="20%"><b>Selector</b></td>
+   <td>A unique string/identifier that's used to locate the public key portion of the DKIM record. It can be an arbitrary string, or a a unique identifier to separate out and identify the purpose of that DKIM key/record.</td>
+   </tr>
+   <tr> 
+   <td width="20%"><b>Key Size</b></td>
+   <td>The level of security you want your DKIM signature to be encrypted with.</td>
+   </tr>
+   </tbody>
+   </table>
 
 1. Send the **Host Record** and **TXT Value** to your IT. Ask them to create the record for you and make sure it propagates to all nameservers associated with the from domain. Marketo's DKIM verification requires that the DKIM key is propagated to all nameservers associated with the domain being DKIM-signed.
 
