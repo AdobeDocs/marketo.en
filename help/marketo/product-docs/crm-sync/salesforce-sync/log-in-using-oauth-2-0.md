@@ -34,19 +34,19 @@ Salesforce uses the OAuth protocol to allow users of applications to securely ac
 
    ![](assets/setting-up-oauth-2-5.png)
 
-1. Copy the Consumer Key and Consumer Secret.
+1. Copy the Consumer Key and Consumer Secret (you'll need them later for use in Marketo Engage).
 
    ![](assets/setting-up-oauth-2-6.png)
 
->[!NOTE]
+>[!CAUTION]
 >
->Save the Consumer Key and Consumer Secret info for later use in Marketo.
+>While still on the New Connected App page, scroll down and make sure the "Require Proof Key for Code Exchange (PKCE)" checkbox is _NOT_ checked, as it would impede the setup.
 
 ## Set Up Marketo {#set-up-marketo}
 
 >[!PREREQUISITES]
 >
->* API access must be enabled for the Salesforce Sync User (if you're a Salesforce Professional Edition user, that access is not available by default–please contact your Salesforce Account Executive).
+>* API access must be enabled for the Salesforce Sync User (if you're a Salesforce Professional Edition user, that access is not available by default&#8212;please contact your Salesforce Account Executive).
 >* Marketo Sync user has to be created in Salesforce.
 >* For existing customers, Feature to "Enable OAuth for SFDC sync" is enabled on the customer's subscription.
 >* Pop-up blockers are disabled.
