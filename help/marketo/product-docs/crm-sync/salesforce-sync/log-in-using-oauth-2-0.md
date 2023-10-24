@@ -40,7 +40,7 @@ Salesforce uses the OAuth protocol to allow users of applications to securely ac
 
 >[!CAUTION]
 >
->While still on the New Connected App page, scroll down and make sure the "Require Proof Key for Code Exchange (PKCE)" checkbox is _NOT_ checked, as it would impede the setup.
+>While still on the New Connected App page, scroll down and make sure the "Require Proof Key for Code Exchange (PKCE)" checkbox is _NOT_ checked, as it would interfere with setup.
 
 ## Set Up Marketo {#set-up-marketo}
 

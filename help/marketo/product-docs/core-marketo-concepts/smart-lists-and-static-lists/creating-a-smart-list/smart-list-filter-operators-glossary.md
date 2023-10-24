@@ -7,7 +7,7 @@ feature: Smart Lists
 ---
 # Smart List Filter Operators Glossary {#smart-list-filter-operators-glossary}
 
-An operator is a part of the smart list that helps you get specific. It lets you describe your filter or trigger in straightforward language. The available operators are different for each type of field.
+An operator is a part of the Smart List that helps you get specific. It lets you describe your filter or trigger in straightforward language. The available operators are different for each type of field.
 
 Here's a glossary describing each set of operators.
 
@@ -46,11 +46,11 @@ Just type the number and unit together and it'll work!
 
 >[!NOTE]
 >
->"In past" **does** include the day (up until the time, not after) you create your smart list.
+>"In past" _does_ include the day (up until the time, not after) you create your Smart List.
 
 >[!CAUTION]
 >
->When you create a smart list using a date field filter (e.g., Date of Birth, SFDC Created Date) and use the constraints **before**, **on or before**, or **in past before**, the smart list will also include people who have no value in said date field.
+>When you create a Smart List using a date field filter (e.g., Date of Birth, SFDC Created Date) and use the constraints **[!UICONTROL before]**, **[!UICONTROL on or before]**, or **[!UICONTROL in past before]**, the Smart List will also include people who have no value in said date field.
 
 Use the following diagram to understand the difference between the date operators.
 
@@ -62,11 +62,11 @@ Use the following diagram to understand the difference between the date operator
 >
 >Date fields can get tricky when you're working with past and future events. Here are a couple of examples.
 >
->**In past before**
+>**[!UICONTROL In past before]**
 >
 >For your new promotion, use this operator to send emails only to people who have not subscribed to or renewed your service within one year or have never been subscribers.
 >
->**In future after**
+>**[!UICONTROL In future after]**
 >
 >Say you want to see customers who are up for renewal in 90 days. You would use two separate filters. First use "In Future After 90 days," and second, "In Future 91 Days." That would capture whomever has a date 90 days from now.
 

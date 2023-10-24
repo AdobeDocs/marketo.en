@@ -7,25 +7,25 @@ feature: Smart Lists
 ---
 # Create a Smart List {#create-a-smart-list}
 
-Smart lists allow you to find specific groups of people using simple filters. Here's how to create one.
+Smart Lists allow you to find specific groups of people using simple filters. Here's how to create one.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Select the program you want to create the smart list in.
+1. Select the program you want to create the Smart List in.
 
    ![](assets/image2014-8-11-10-3a17-3a8.png)
 
-1. Under **New**, click **New Local Asset**.
+1. Under **[!UICONTROL New]**, click **[!UICONTROL New Local Asset]**.
 
    ![](assets/image2014-9-9-16-3a26-3a28.png)
 
-1. Select **Smart List**.
+1. Select **[!UICONTROL Smart List]**.
 
    ![](assets/image2014-9-9-16-3a27-3a18.png)
 
-1. Enter a **Name** and click **Create**.
+1. Enter a **[!UICONTROL Name]** and click **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-9-16-3a27-3a39.png)
 
@@ -33,4 +33,4 @@ Smart lists allow you to find specific groups of people using simple filters. He
 
    >[!MORELIKETHIS]
    >
-   >[Find and Add Filters to a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+   >[Find and Add Filters to a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}

@@ -9,7 +9,7 @@ feature: Smart Lists
 
 Smart Lists are the most powerful query tool in the marketing universe. They find the people you are looking for with magical speed and ease.
 
-To make them easy to work with and optimize performance, we've created a list of good practices. Enjoy!
+To make them easy to work with and optimize performance, we've created a list of best practices. Enjoy!
 
 >[!NOTE]
 >
