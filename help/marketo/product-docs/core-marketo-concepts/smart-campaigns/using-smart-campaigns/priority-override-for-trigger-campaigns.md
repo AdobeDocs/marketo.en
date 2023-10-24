@@ -6,11 +6,11 @@ feature: Smart Campaigns
 ---
 # Priority Override for Trigger Campaigns {#priority-override-for-trigger-campaigns}
 
-Admins can override Marketo's determined priority for trigger campaigns to set priorities that better align with business objectives.
+Admins can override the Marketo Engage determined priority for Trigger Campaigns to set priorities that better align with business objectives.
 
 >[!NOTE]
 >
->This feature is only available for trigger campaigns and to users who have been granted the [“Edit Trigger Campaign Priority” permission](#grant-priority-override-access).
+>This feature is only available for Trigger Campaigns and to users who have been granted the ["Edit Trigger Campaign Priority" permission](#grant-priority-override-access).
 
 >[!CAUTION]
 >
@@ -36,7 +36,7 @@ Admins can override Marketo's determined priority for trigger campaigns to set p
 
 ## Override Priority {#override-priority}
 
-1. Locate your trigger campaign. Right-click on it and select **[!UICONTROL Override Campaign Priority]**.
+1. Locate your Trigger Campaign. Right-click on it and select **[!UICONTROL Override Campaign Priority]**.
 
    ![](assets/priority-override-for-trigger-campaigns-4.png)
 
@@ -52,4 +52,4 @@ Admins can override Marketo's determined priority for trigger campaigns to set p
 >
 >* You can view your campaign's default priority in the [!UICONTROL Campaign Queue] under [!UICONTROL Marketing Activities]. To boost execution rate, we recommend setting your campaign priority to one level higher than its default.
 >* User set priority applies only to new people who qualify for the campaign; people who are already in-queue will not be affected.
->* Priority overrides are captured in [Audit Trail](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md).
+>* Priority overrides are captured in [Audit Trail](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"}.

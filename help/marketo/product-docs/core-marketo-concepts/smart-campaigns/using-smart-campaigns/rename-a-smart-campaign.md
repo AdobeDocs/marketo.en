@@ -9,11 +9,11 @@ feature: Smart Campaigns
 
 You can change the name of an existing Smart Campaign. Here's how.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/rename-a-smart-campaign-1.png)
 
-1. Select your Smart Campaign, then click on its name.
+1. Select your Smart Campaign, then click its name on the right.
 
    ![](assets/rename-a-smart-campaign-2.png)
 
@@ -21,7 +21,7 @@ You can change the name of an existing Smart Campaign. Here's how.
    >
    >Smart Campaign names within programs always translate to the format 'ProgramName.CampaignName'.
 
-1. Enter the new Smart Campaign name and click **Save**.
+1. Enter the new Smart Campaign name and click **[!UICONTROL Save]**.
 
    ![](assets/rename-a-smart-campaign-3.png)
 

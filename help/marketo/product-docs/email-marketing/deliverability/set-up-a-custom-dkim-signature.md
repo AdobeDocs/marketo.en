@@ -52,6 +52,8 @@ You can personalize the DKIM signature to reflect the domain(s) of your choice. 
    </tbody>
    </table>
 
+   <p>
+
 1. Send the **Host Record** and **TXT Value** to your IT. Ask them to create the record for you and make sure it propagates to all nameservers associated with the from domain. Marketo's DKIM verification requires that the DKIM key is propagated to all nameservers associated with the domain being DKIM-signed.
 
    ![](assets/set-up-a-custom-dkim-signature-5.png)

@@ -13,7 +13,7 @@ You may have noticed the "Use filters" option when building campaign Smart Lists
 
 >[!NOTE]
 >
->Changing smart list rule logic only applies to filters, **not** triggers.
+>Changing smart list rule logic only applies to filters, _not_ triggers.
 
 Triggers are always evaluated as OR even if the above setting is set to ALL. Here's an example:
 
@@ -32,8 +32,8 @@ Country is US
 THEN follow the campaign's flow step(s)
 ```
 
-So, if a person fills out the form **or** visits the page, the campaign will then evaluate that person based on **all** or **any** of the subsequent filters, depending on the setting used.
+So, if a person fills out the form _or_ visits the page, the campaign will then evaluate that person based on _all_ or _any_ of the subsequent filters, depending on the setting used.
 
 >[!MORELIKETHIS]
 >
->[Using Advanced Smart List Rule Logic](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
+>[Using Advanced Smart List Rule Logic](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}

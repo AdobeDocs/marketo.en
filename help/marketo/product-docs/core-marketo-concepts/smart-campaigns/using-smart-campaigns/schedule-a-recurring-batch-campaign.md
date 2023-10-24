@@ -9,11 +9,11 @@ feature: Smart Campaigns
 
 Recurrence allows you to run a Batch Campaign on a regular schedule. For example - once a week, Tuesdays at 10:00 AM.
 
-1. Select the Smart Campaign, go to the **Schedule** tab, and click **Schedule Recurrence**.
+1. Select the Smart Campaign, go to the **[!UICONTROL Schedule]** tab, and click **[!UICONTROL Schedule Recurrence]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-1.png)
 
-1. Click the **Schedule** drop-down and select **Weekly**.
+1. Click the **[!UICONTROL Schedule]** drop-down and select **[!UICONTROL Weekly]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-2.png)
 
@@ -25,13 +25,13 @@ Recurrence allows you to run a Batch Campaign on a regular schedule. For example
 
    ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. Leave Repeat every as 1, select Tuesday and click **Save**.
+1. Leave "[!UICONTROL Repeat every]" as 1, select Tuesday and click **[!UICONTROL Save]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-5.png)
 
    >[!NOTE]
    >
-   >For a specific run length, you can click the calendar icon next to **End on** and choose the end date.
+   >For a specific run length, you can click the calendar icon next to **[!UICONTROL End on]** and choose the end date.
 
 The scheduled recurrences are displayed at the bottom of the Schedule tab.
 

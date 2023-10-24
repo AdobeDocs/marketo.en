@@ -18,21 +18,21 @@ One of the coolest features of Marketo is the ability to let sales people partic
 >
 >Be creative. What would the sales person like to automate? Just ask them and wire it up!
 
-1. Create a **Smart Campaign.**
+1. Create a Smart Campaign.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. Find and drag the **Campaign is Requested** trigger to the canvas.
+1. Find and drag the **[!UICONTROL Campaign is Requested]** trigger to the canvas.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
-1. The source choices indicate what kind of request will be honored. For Salesforce functionality, make sure to choose **Sales** **Insight**.
+1. The source choices indicate what kind of request will be honored. For Salesforce functionality, make sure to choose **[!UICONTROL Sales Insight]**.
 
    >[!TIP]
    >
-   >The source operators are for security. You can restrict the campaign to requests made only by specific sources, like other Smart Campaigns or developers. Choose **Is Any** in the first box if you want to allow requests from all sources.
+   >The source operators are for security. You can restrict the campaign to requests made only by specific sources, like other Smart Campaigns or developers. Choose **[!UICONTROL Is Any]** in the first box if you want to allow requests from all sources.
    >
-   >**Remember**, by choosing Sales Insight, it will magically show up in the box for sales. Don't overdo it. Too many will get ignored by them.
+   >_Remember_, by choosing Sales Insight, it will magically show up in the box for sales. Don't overdo it. Too many will get ignored by them.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 
