@@ -6,7 +6,7 @@ feature: Microsoft Dynamics
 ---
 # Enable Campaign Sync {#enable-campaign-sync}
 
-This option allows Marketo to add and remove members from MS Dynamics Campaign.
+This option allows Marketo Engage to add and remove members from MS Dynamics Campaign.
 
 >[!PREREQUISITES]
 >
@@ -16,19 +16,19 @@ This option allows Marketo to add and remove members from MS Dynamics Campaign.
 >
 >**Admin Permissions Required**
 
-1. In your My Marketo, click **Admin**.
+1. In your My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/enable-campaign-sync-1.png)
 
-1. Click **Microsoft Dynamics**.
+1. Click **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/enable-campaign-sync-2.png)
 
-1. Under Sync Options, click **Edit**.
+1. Under Sync Options, click **[!UICONTROL Edit]**.
 
    ![](assets/enable-campaign-sync-3.png)
 
-1. Select the **Enable Microsoft Dynamics Campaign Sync** checkbox and click **Save**.
+1. Select the **[!UICONTROL Enable Microsoft Dynamics Campaign Sync]** checkbox and click **[!UICONTROL Save]**.
 
    ![](assets/enable-campaign-sync-4.png)
 

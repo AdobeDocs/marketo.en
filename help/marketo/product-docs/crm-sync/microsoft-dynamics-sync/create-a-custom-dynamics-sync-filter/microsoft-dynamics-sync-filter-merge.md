@@ -16,6 +16,6 @@ It's when one record is true and one is false that it gets tricky.
 | If the sync filter for the losing record is: |and the sync filter for the winning record is: |This is the result in Marketo |
 |---|---|---|
 | True |True |The winning record continues syncing with Marketo |
-| False |False |The winning record continues to **not** sync with Marketo |
+| False |False |The winning record continues to _not_ sync with Marketo |
 | False |True |The winning record will sync with Marketo |
 | True |False |The winning record will not sync with Marketo |

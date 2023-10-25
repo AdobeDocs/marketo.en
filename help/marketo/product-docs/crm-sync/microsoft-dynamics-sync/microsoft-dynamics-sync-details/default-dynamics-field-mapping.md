@@ -6,7 +6,7 @@ feature: Microsoft Dynamics
 ---
 # Default Dynamics Field Mapping {#default-dynamics-field-mapping}
 
-When you initially sync your Marketo account with Microsoft, Marketo automatically makes these associations between your built-in Dynamics and Marketo fields.  Marketo will also sync your custom fields on your Leads, Accounts, Opportunities, and Contacts.
+When you initially sync your Marketo Engage account with Microsoft, Marketo automatically makes these associations between your built-in Dynamics and Marketo fields.  Marketo will also sync your custom fields on your Leads, Accounts, Opportunities, and Contacts.
 
 ## Lead Fields {#lead-fields}
 
@@ -238,7 +238,7 @@ The Lead fields below are synced for internal use.
       <th>MS Dynamics API Name</th>
     </tr>
     <tr>
-      <td>Owner </td>
+      <td>Owner</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -425,7 +425,7 @@ The Lead fields below are synced for internal use.
     <tr>
       <td>Person Notes</td>
       <td>Description</td>
-      <td>description </td>
+      <td>description</td>
     </tr>
     <tr>
       <td>Person Score</td>
@@ -435,7 +435,7 @@ The Lead fields below are synced for internal use.
     <tr>
       <td>Person Notes</td>
       <td>Description</td>
-      <td>description </td>
+      <td>description</td>
     </tr>
   </tbody>
 </table>
@@ -453,7 +453,7 @@ The Contact fields below are synced for internal use.
       <th>MS Dynamics API Name</th>
     </tr>
     <tr>
-      <td>Owner </td>
+      <td>Owner</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -597,7 +597,7 @@ The Account fields below are synced for internal use.
       <th>MS Dynamics API Name</th>
     </tr>
     <tr>
-      <td>Owner </td>
+      <td>Owner</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -667,7 +667,7 @@ The Account fields below are synced for internal use.
       <th>MS Dynamics API Name</th>
     </tr>
     <tr>
-      <td>Owner </td>
+      <td>Owner</td>
       <td>ownerid</td>
     </tr>
     <tr>

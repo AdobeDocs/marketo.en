@@ -9,7 +9,7 @@ feature: Microsoft Dynamics
 
 There a few things to know when it comes to deleting leads/contacts in Microsoft Dynamics.
 
-* Marketo doesn't automatically delete people just because leads were deleted in Dynamics. Rather, a field “Microsoft is Deleted” flag is set to true. You can trigger off this field to delete the record in Marketo if desired.
+* Marketo Engage doesn't automatically delete people just because leads were deleted in Dynamics. Rather, a field "Microsoft is Deleted" flag is set to true. You can trigger off this field to delete the record in Marketo if desired.
 
 * "Delete Person" flow action: This only deletes a person in Marketo (an option to also delete them in Dynamics is not available).
 

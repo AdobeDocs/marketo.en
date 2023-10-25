@@ -11,11 +11,11 @@ You can keep tabs on the current throughput and backlog of the sync process on t
 
 ## Sync Status Tab {#sync-status-tab}
 
-1. Click **Admin** and **Microsoft Dynamics**.
+1. Click **[!UICONTROL Admin]**, then **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Click the **Sync Status** tab.
+1. Click the **[!UICONTROL Sync Status]** tab.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -29,7 +29,7 @@ You can keep tabs on the current throughput and backlog of the sync process on t
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Click the **View:** drop-down and select **Last Hour** to view throughput information.
+1. Click the **[!UICONTROL View]** drop-down and select **[!UICONTROL Last Hour]** to view throughput information.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -49,4 +49,4 @@ Browse, search, or export leads (and other objects) that failed to synchronize w
 
 >[!MORELIKETHIS]
 >
->[Notification Types](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+>[Notification Types](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md){target="_blank"}

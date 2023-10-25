@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 ---
 # Microsoft Dynamics Sync: Opportunity Sync {#microsoft-dynamics-sync-opportunity-sync}
 
-Marketo to Dynamics sync is super powerful. Here are all the details for opportunity sync:
+Marketo Engage to Dynamics sync is super powerful. Here are all the details for opportunity sync.
 
 ## How are opportunity details kept in sync between the two systems? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
@@ -19,4 +19,4 @@ No, you must create the opportunity in Dynamics and it will automatically sync t
 
 ## What fields will sync to Marketo? {#what-fields-will-sync-to-marketo}
 
-You can [select fields to sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) during setup.
+You can [select fields to sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} during setup.

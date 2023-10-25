@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 ---
 # Microsoft Dynamics Sync: Lead Sync {#microsoft-dynamics-sync-lead-sync}
 
-Marketo to Dynamics sync is super powerful. Here are the details:
+Marketo Engage to Dynamics sync is super powerful. Here are the details.
 
 ## How are details kept in sync between the two systems? {#how-are-details-kept-in-sync-between-the-two-systems}
 
@@ -15,7 +15,7 @@ The sync is bi-directional. If you make changes to either a lead in Dynamics or 
 
 >[!NOTE]
 >
->Deletes do not always sync in both directions automatically. See [Deleting a Lead or Contact](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md).
+>Deletes do not always sync in both directions automatically. See [Deleting a Lead or Contact](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md){target="_blank"}.
 
 ## What if changes are made to the same field in both systems at the same time? (Data Collision) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
@@ -23,19 +23,19 @@ Although this is rare, Marketo will win for people (leads) and Dynamics will win
 
 ## Can I create a lead in Dynamics using Marketo? {#can-i-create-a-lead-in-dynamics-using-marketo}
 
-Yes, use the [Sync Person to Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) flow action. This will create a lead in Dynamics if the lead doesn't exist. If the lead does exist, the flow step will not perform any action.
+Yes, use the [Sync Person to Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"} flow action. This will create a lead in Dynamics if the lead doesn't exist. If the lead does exist, the flow step will not perform any action.
 
 >[!NOTE]
 >
->When using the “Sync Person to Microsoft” flow action (in a trigger campaign only), the lead/contact will be created in real-time in Dynamics.
+>When using the "Sync Person to Microsoft" flow action (in a trigger campaign only), the lead/contact will be created in real-time in Dynamics.
 
 ## Can I manually force a sync of a person from Marketo to a lead in Dynamics? {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
 
-No, the automated background sync is the only way to sync updates between Marketo and Dynamics. The [Sync Person to Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) flow action will not force a sync of the lead.
+No, the automated background sync is the only way to sync updates between Marketo and Dynamics. The [Sync Person to Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"} flow action will not force a sync of the lead.
 
 ## What fields will sync to Marketo? {#what-fields-will-sync-to-marketo}
 
-You can [select fields to sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) during setup.
+You can [select fields to sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} during setup.
 
 ## Will Marketo respect the Dynamics validation rules? {#will-marketo-respect-the-dynamics-validation-rules}
 

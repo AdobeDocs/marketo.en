@@ -39,7 +39,7 @@ Marketo looks for this field during the automatic background sync and determines
 
 ## Create SyncToMkto Field {#create-synctomkto-field}
 
-1. Log into Dynamics CRM. Click **Settings** and then click **Customizations**.
+1. Log into your Dynamics CRM. Click **Settings**, then click **Customizations**.
 
    ![](assets/image2015-8-10-21-3a40-3a9.png)
 
@@ -61,7 +61,7 @@ Marketo looks for this field during the automatic background sync and determines
 
    >[!NOTE]
    >
-   >Choose any display name for this field, but the Name field must be exactly **new_synctomkto**. You must use **new** as the default prefix. If you've changed the default, go here to [reset the default prefix for the custom field names](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md). You can change it back after you've created the new fields.
+   >Choose any display name for this field, but the Name field must be exactly **new_synctomkto**. You must use **new** as the default prefix. If you've changed the default, go here to [reset the default prefix for the custom field names](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"}. You can change it back after you've created the new fields.
 
    >[!NOTE]
    >
@@ -73,15 +73,15 @@ Marketo looks for this field during the automatic background sync and determines
 
 Even if you've already done your initial sync, go in and select the fields to be synced with Marketo.
 
-1. Go to Admin and select **Microsoft Dynamics**.
+1. Go to Admin and select **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Click **Edit** on Field Sync Details.
+1. Click **[!UICONTROL Edit]** on Field Sync Details.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Scroll down to the field and check it. The actual name must be new_synctomkto but the Display Name can be anything. Click **Save**.
+1. Scroll down to the field and check it. The actual name must be new_synctomkto but the Display Name can be anything. Click **[!UICONTROL Save]**.
 
    ![](assets/image2015-10-9-9-3a56-3a23.png)
 
@@ -97,7 +97,7 @@ You can always manually assign a value to the SyncToMkto fields for your records
 >
 >A Dynamics workflow works only on new records created going forward, not on historical data. Use a batch update to move over existing records.
 
-1. Go to Dynamics CRM. Click **Settings** then click **Processes**.
+1. Go to your Dynamics CRM. Click **Settings**, then **Processes**.
 
    ![](assets/image2015-8-11-8-3a42-3a10.png)
 
@@ -123,13 +123,13 @@ You can always manually assign a value to the SyncToMkto fields for your records
 
    >[!TIP]
    >
-   >See [Custom Sync Filter Rules for an Email Address](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md) to set up rules to sync only records for people with email addresses.
+   >See [Custom Sync Filter Rules for an Email Address](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"} to set up rules to sync only records for people with email addresses.
 
 ## Sync Filter Details {#sync-filter-details}
 
 Here are some implementation details we thought you should know:
 
-1. Start a Sync Operation
+* Start a Sync Operation
 
    When the **SyncToMkto** value changes from **No** to **Yes**, Dynamics notifies Marketo immediately to start syncing this record. If the record already exists, Marketo updates it. Otherwise, Marketo creates the record.
 
@@ -137,12 +137,12 @@ Here are some implementation details we thought you should know:
    >
    >A `Create [StartSync]` operation is added to the Marketo Log when this happens.
 
-1. Stop a Sync Operation
+* Stop a Sync Operation
 
    When a record changes its SyncToMkto value from Yes to No, Marketo is notified to stop syncing this record. However the record is not deleted, instead, it stops getting updates and becomes stale.
 
 >[!MORELIKETHIS]
 >
->* [Microsoft Dynamics Sync Filter: Qualify](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
->* [Microsoft Dynamics Sync Filter: Merge](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
->* [Custom Sync Filter Rules for an Email Address](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
+>* [Microsoft Dynamics Sync Filter: Qualify](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md){target="_blank"}
+>* [Microsoft Dynamics Sync Filter: Merge](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md){target="_blank"}
+>* [Custom Sync Filter Rules for an Email Address](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"}

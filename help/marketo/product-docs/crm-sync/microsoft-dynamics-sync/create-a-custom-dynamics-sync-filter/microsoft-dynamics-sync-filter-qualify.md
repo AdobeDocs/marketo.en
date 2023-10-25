@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 ---
 # Microsoft Dynamics Sync Filter: Qualify {#microsoft-dynamics-sync-filter-qualify}
 
-When you want to convert a lead to a contact in Microsoft Dynamics, be sure to use this default Qualify process. Then, sync it to Marketo.
+When you want to convert a lead to a contact in Microsoft Dynamics, be sure to use this default Qualify process. Then, sync it to Marketo Engage.
 
 ## The Conversion Process {#the-conversion-process}
 

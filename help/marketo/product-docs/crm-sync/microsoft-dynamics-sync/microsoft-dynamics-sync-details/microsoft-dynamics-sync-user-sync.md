@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 ---
 # Microsoft Dynamics Sync: User Sync {#microsoft-dynamics-sync-user-sync}
 
-Did you know Marketo syncs your entire database with Dynamics? It syncs, then waits 5 minutes and then syncs again, all day, every day. Here are some details about how Marketo treats Dynamics Accounts specifically.
+Did you know Marketo Engage syncs your entire database with Dynamics? It syncs, then waits 5 minutes and then syncs again, all day, every day. Here are some details about how Marketo treats Dynamics Accounts specifically.
 
 You will need a dedicated Microsoft Dynamics CRM user for the purpose of the integration. We call this user the Sync User.
 
@@ -21,4 +21,4 @@ No. Marketo cannot create users in Dynamics.
 
 ## Which fields will sync to Marketo? {#which-fields-will-sync-to-marketo}
 
-You can [select fields to sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) during setup. But Marketo will only sync the fields that your Dynamics sync user has access to.
+You can [select fields to sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} during setup. But Marketo will only sync the fields that your Dynamics sync user has access to.
