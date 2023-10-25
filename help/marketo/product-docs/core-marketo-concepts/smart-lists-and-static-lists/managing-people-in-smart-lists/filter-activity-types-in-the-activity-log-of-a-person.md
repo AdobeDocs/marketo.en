@@ -11,27 +11,27 @@ Search for activities that matter most to you in the activity log.
 
 >[!NOTE]
 >
->Learn more about [the activity log](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md).
+>Learn more about [the activity log](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}.
 
-1. Go to the **Person Detail** page. Click the **Activity Log** tab.
+1. Go to the Person Detail page. Click the **[!UICONTROL Activity Log]** tab.
 
    ![](assets/one.png)
 
-1. Select the **Filter** drop-down.
+1. Select the **[!UICONTROL Filter]** drop-down.
 
    ![](assets/two-3.png)
 
 ## Creating Custom Filters {#creating-custom-filters}
 
-1. Click the **Filter** drop-down. Select **Custom**.
+1. Click the **[!UICONTROL Filter]** drop-down. Select **[!UICONTROL Custom]**.
 
    ![](assets/three-3.png)
 
-1. Select activities to filter by. Click **Save As**.
+1. Select activities to filter by. Click **[!UICONTROL Save As]**.
 
    ![](assets/image2015-4-27-22-3a55-3a43.png)
 
-1. Enter a **custom filter name**. Click **Save**.
+1. Enter a **[!UICONTROL custom filter name]**. Click **[!UICONTROL Save]**.
 
    ![](assets/five-1.png)
 
@@ -41,12 +41,12 @@ Search for activities that matter most to you in the activity log.
 
 ## Reference Saved Filters {#reference-saved-filters}
 
-Saved filters can be accessed from the **Filter** drop-down.
+Saved filters can be accessed from the [!UICONTROL Filter] drop-down.
 
-1. Click the **Filters** drop-down. Select **Custom**.
+1. Click the **[!UICONTROL Filters]** drop-down. Select **[!UICONTROL Custom]**.
 
    ![](assets/seven-1.png)
 
-1. Click **Saved Filters**. Saved filters are listed below.
+1. Click **[!UICONTROL Saved Filters]**. Saved filters are listed below.
 
    ![](assets/eight.png)

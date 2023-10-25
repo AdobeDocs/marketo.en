@@ -26,20 +26,20 @@ The difference between a Static and Smart List is crucial to understand.
 
 ## Ways to Add/Remove People from a List {#ways-to-add-remove-people-from-a-list}
 
-1. Smart campaign flow step ([Add to List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [Remove from List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
+1. Smart Campaign flow step ([Add to List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, [Remove from List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
 
-1. [Single action flow step](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
+1. [Single action flow step](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
 1. Dragging people into a list in the tree
-1. [List import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+1. [List import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 ## Some Uses of a Static List {#some-uses-of-a-static-list}
 
 * A list that has been pre-selected to receive a marketing message.
 * A "competitors" list that you use to send mischievous counter-intelligence messages.
-* A temporary list of people in a particular state, who are then removed by smart campaigns when they exit that state.
+* A temporary list of people in a particular state, who are then removed by Smart Campaigns when they exit that state.
 
 Enjoy the power of the LIST!
 
 >[!MORELIKETHIS]
 >
->[Create a Static List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
+>[Create a Static List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md){target="_blank"}

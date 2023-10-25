@@ -7,30 +7,28 @@ feature: Smart Lists
 ---
 # Use Quick Find in a List or Smart List {#use-quick-find-in-a-list-or-smart-list}
 
-Find a person from the results of a list or smart list using the quick find.
+Find a person from the results of a list or Smart List using the quick find.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Select the smart list you want to search and then click the **People** tab.
+1. Select the Smart List you want to search and then click the **[!UICONTROL People]** tab.
 
    ![](assets/smartlistpeople.png)
 
 ## Find People Using Personal Info {#find-people-using-personal-info}
 
-1. In the **Quick Find** box at the bottom of the screen, type a key word (**personal name**, **email address**, or **job title**).
+1. In the **[!UICONTROL Quick Find]** box at the bottom of the screen, type a key word (**personal name**, **email address**, or **job title**).
 
    ![](assets/searchpeople.png)
 
-1. Press Enter or click the search icon and you're done!
+1. Press Enter or click the search icon and you're done.
 
 ## Find People Using a Company Name {#find-people-using-a-company-name}
 
-1. To find a company, type [**company**] in the **Quick Find** box, followed by any part of the company name you're looking for.
+1. To find a company, type `[company]` in the Quick Find box, followed by any part of the company name you're looking for.
 
    ![](assets/supersmartlistsearch.jpg)
 
-1. Press Enter or click the search icon and you're done!
-
-Congratulations — fast work!
+1. Press Enter or click the search icon and you're done.

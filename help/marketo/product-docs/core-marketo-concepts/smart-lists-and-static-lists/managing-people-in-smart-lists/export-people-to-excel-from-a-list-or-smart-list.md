@@ -7,13 +7,13 @@ feature: Smart Lists
 ---
 # Export People to Excel from a List or Smart List {#export-people-to-excel-from-a-list-or-smart-list}
 
-If you need list or smart list results outside of Marketo, you can easily export to Excel. Here's how.
+If you need list or Smart List results outside of Marketo, you can easily export to Excel. Here's how.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
-1. Select the list or smart list you want to export and go to the **People** tab.
+1. Select the list or Smart List you want to export and go to the **[!UICONTROL People]** tab.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -21,22 +21,22 @@ If you need list or smart list results outside of Marketo, you can easily export
 
    ![](assets/exportpeople.png)
 
-1. Select **Visible Columns** and click **Export**.
+1. Select **[!UICONTROL Visible Columns]** and click **[!UICONTROL Export]**.
 
    ![](assets/image2014-9-11-14-3a1-3a37.png)
 
    >[!NOTE]
    >
-   >If you choose **All Columns**, the export will be larger in size and take longer to generate/download.
+   >If you choose **[!UICONTROL All Columns]**, the export will be larger in size and take longer to generate/download.
 
    >[!TIP]
    >
-   >If your person records contain foreign characters that aren't rendering properly upon export, try changing the file type in the **Format** drop-down.
+   >If your person records contain foreign characters that aren't rendering properly upon export, try changing the file type in the **[!UICONTROL Format]** drop-down.
 
-1. The export will run. Once finished you can click **Download now** to grab the file.
+1. The export will run. Once finished you can click **[!UICONTROL Download now]** to grab the file.
 
    ![](assets/popup.png)
 
    >[!TIP]
    >
-   >If the export is taking a while, you can always log out and come back to it later. The **Download now** link can be accessed by selecting **Show Export Status** in the **List Actions** menu, and is valid for one week.
+   >If the export is taking a while, you can always log out and come back to it later. The **[!UICONTROL Download now]** link can be accessed by selecting **[!UICONTROL Show Export Status]** in the **[!UICONTROL List Actions]** menu, and is valid for one week.

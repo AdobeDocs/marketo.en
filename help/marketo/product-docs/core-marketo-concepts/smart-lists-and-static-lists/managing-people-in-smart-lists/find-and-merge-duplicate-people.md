@@ -7,7 +7,7 @@ feature: Smart Lists
 ---
 # Find and Merge Duplicate People {#find-and-merge-duplicate-people}
 
-Marketo automatically de-duplicates when new people enter the system. However, your CRM may have initially sent duplicates to Marketo. Here's how to merge them.
+Marketo Engage automatically de-duplicates when new people enter the system. However, your CRM may have initially sent over duplicates. Here's how to merge them.
 
 >[!CAUTION]
 >
@@ -15,7 +15,7 @@ Marketo automatically de-duplicates when new people enter the system. However, y
 
 >[!PREREQUISITES]
 >
->Finding and merging duplicates will involve the use of [built-in/system smart lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
+>Finding and merging duplicates will involve the use of [built-in/system Smart Lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Marketo automatically de-duplicates when new people enter the system. However, y
 
 ## Find Duplicates {#find-duplicates}
 
-1. Go to the **Database** area.
+1. Go to the **[!UICONTROL Database]** area.
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 
@@ -31,7 +31,7 @@ Marketo automatically de-duplicates when new people enter the system. However, y
    >
    >Merging people in Marketo may not work if you use a Salesforce Person Account. Please merge the records in Salesforce if possible.
 
-1. Select the **Possible Duplicates** system smart list and click on the **People** tab.
+1. Select the **[!UICONTROL Possible Duplicates]** System Smart List and click on the **[!UICONTROL People]** tab.
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
@@ -43,9 +43,9 @@ Marketo automatically de-duplicates when new people enter the system. However, y
 
    >[!CAUTION]
    >
-   >When merging people, if the losing person has a Marketo custom object, it will **not** get re-associated to the winning person. Please re-parent the custom object prior to performing the merge.
+   >When merging people, if the losing person has a Marketo custom object, it will _not_ get re-associated to the winning person. Please re-parent the custom object prior to performing the merge.
 
-1. Select the duplicates by holding Ctrl/Cmd and clicking, then click **Merge People**.
+1. Select the duplicates by holding Ctrl/Cmd and clicking, then click **[!UICONTROL Merge People]**.
 
    ![](assets/find-and-merge-duplicate-people-3.png)
 
@@ -53,7 +53,7 @@ Marketo automatically de-duplicates when new people enter the system. However, y
    >
    >You could have two or more duplicates for the same person - select them all at once.
 
-1. You will see the values between the records that _don't_ match. Select the value you want to keep for each field. Click **Merge** when done. If you don't want either value, you can check **Custom** and enter a value of your choice.
+1. You will see the values between the records that _don't_ match. Select the value you want to keep for each field. Click **[!UICONTROL Merge]** when done. If you don't want either value, you can check **[!UICONTROL Custom]** and enter a value of your choice.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
