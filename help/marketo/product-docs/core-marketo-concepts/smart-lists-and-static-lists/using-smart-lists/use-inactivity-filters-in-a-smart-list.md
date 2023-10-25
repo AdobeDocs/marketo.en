@@ -7,13 +7,13 @@ feature: Smart Lists
 ---
 # Use Inactivity Filters in a Smart List {#use-inactivity-filters-in-a-smart-list}
 
-Did you know you can look for people in a Smart List who *didn't* do something? Check out these inactivity filters.
+Did you know you can look for people in a Smart List who _didn't_ do something? Check out these inactivity filters.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Select the smart list you want to edit, then click the **Smart List** tab.
+1. Select the Smart List you want to edit, then click the **[!UICONTROL Smart List]** tab.
 
    ![](assets/smartlist-choose.png)
 
@@ -23,8 +23,8 @@ Did you know you can look for people in a Smart List who *didn't* do something? 
 
    >[!TIP]
    >
-   >There are many filters in the **Inactivity Filters** folder. Search for **Not** and check them out.
+   >There are many filters in the **[!UICONTROL Inactivity Filters]** folder. Search for "Not" and check them out.
 
-1. Select the **is any** operator. This will find all the people who have not visited any page in the last 30 days.
+1. Select the **[!UICONTROL is any]** operator. This will find all the people who have not visited any page in the last 30 days.
 
    ![](assets/mysmartlist-people.jpg)

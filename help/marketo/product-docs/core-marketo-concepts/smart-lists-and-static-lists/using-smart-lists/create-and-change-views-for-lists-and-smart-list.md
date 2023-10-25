@@ -7,11 +7,11 @@ feature: Smart Lists
 ---
 # Create and Change Views for Lists and Smart List {#create-and-change-views-for-lists-and-smart-list}
 
-A smart list displays a default set of columns. Did you know you could edit those columns to your heart's content? Here's how.
+A Smart List displays a default set of columns. Did you know you could edit those columns to your heart's content? Here's how.
 
 ## Create a View {#create-a-view}
 
-1. Go to a list or smart list, click the **People** tab, and click **Create** **View** under the **View** drop-down.
+1. Go to a list or Smart List, click the **[!UICONTROL People]** tab, and click **[!UICONTROL Create View]** under the **[!UICONTROL View]** drop-down.
 
    ![](assets/smartlist-createview.png)
 
@@ -19,7 +19,7 @@ A smart list displays a default set of columns. Did you know you could edit thos
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
-1. Add/Remove your desired columns, then click **Create**.
+1. Add/Remove your desired columns, then click **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-12-11-3a24-3a7.png)
 
@@ -29,7 +29,7 @@ A smart list displays a default set of columns. Did you know you could edit thos
 
 ## Switch Views {#switch-views}
 
-1. Click the **View** drop-down, then select the view you want. Switch back and forth between views as needed.
+1. Click the **[!UICONTROL View]** drop-down, then select the view you want. Switch back and forth between views as needed.
 
    ![](assets/smartlist-customviewchoose.png)
 
@@ -39,25 +39,25 @@ A smart list displays a default set of columns. Did you know you could edit thos
 
 ## Edit a View {#edit-a-view}
 
-1. Make sure that the view you want to edit is selected in the **View** drop-down.
+1. Make sure that the view you want to edit is selected in the **[!UICONTROL View]** drop-down.
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Click the **Edit** option.
+1. Click the **[!UICONTROL Edit]** option.
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Make the changes you want and click **Save**.
+1. Make the changes you want and click **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
 ## Delete a View {#delete-a-view}
 
-1. Select the **Edit** option for the view you want to delete from the **View** drop-down.
+1. Select the **[!UICONTROL Edit]** option for the view you want to delete from the **[!UICONTROL View]** drop-down.
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Click **Delete**.
+1. Click **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-12-11-3a27-3a39.png)
 
@@ -65,5 +65,5 @@ Only you can see the custom views you create in the View drop-down, so tell your
 
 >[!MORELIKETHIS]
 >
->* [Use Built-in/System Smart Lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
->* [Create a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Use Built-in/System Smart Lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
+>* [Create a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

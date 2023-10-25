@@ -7,25 +7,25 @@ feature: Smart Lists
 ---
 # Use Built-in/System Smart Lists {#use-built-in-system-smart-lists}
 
-Marketo has some very useful built-in smart lists. Let's check them out!
+Marketo Engage has some very useful built-in Smart Lists. Let's check them out!
 
-1. Go to the **Database**.
+1. Go to the **[!UICONTROL Database]**.
 
    ![](assets/db.png)
 
-1. Open the **System Smart Lists** folder to reveal the collection.
+1. Open the **[!UICONTROL System Smart Lists]** folder to reveal the collection.
 
    ![](assets/two.png)
 
-1. To see one example: Select **All People**, then click the **People** tab.
+1. To see one example: Select **[!UICONTROL All People]**, then click the **[!UICONTROL People]** tab.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >The filters in system smart lists do not need to be applied to each smart list/campaign. Their contents are automatically recognized.
+   >The filters in System Smart Lists do not need to be applied to each Smart List/Campaign. Their contents are automatically recognized.
 
-Here's a summary of what the built-in smart lists do:
+Here's a summary of what the built-in Smart Lists do:
 
    | List Name |Description |
    |---|---|
@@ -38,8 +38,8 @@ Here's a summary of what the built-in smart lists do:
 
 >[!NOTE]
 >
->System smart lists can't be deleted. With the exception of the Possible Duplicates list, they cannot be edited, either.
+>System Smart Lists can't be deleted. With the exception of the Possible Duplicates list, they cannot be edited, either.
 
 >[!MORELIKETHIS]
 >
->[Create a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Create a Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

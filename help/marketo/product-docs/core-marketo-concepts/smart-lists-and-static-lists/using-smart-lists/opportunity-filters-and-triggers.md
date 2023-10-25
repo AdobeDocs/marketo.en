@@ -11,7 +11,7 @@ Opportunity filters and triggers let you track opportunity events from Salesforc
 
 ## Opportunity Filters {#opportunity-filters}
 
-Opportunity filters let you drill into your Salesforce leads who have opportunities. You can find them in the Opportunities folder of the Palette when editing a smart list. They come in a few flavors.
+Opportunity filters let you drill into your Salesforce leads who have opportunities. You can find them in the Opportunities folder of the Palette when editing a Smart List. They come in a few flavors.
 
 * Number of Optys
 * Total Opty Amount

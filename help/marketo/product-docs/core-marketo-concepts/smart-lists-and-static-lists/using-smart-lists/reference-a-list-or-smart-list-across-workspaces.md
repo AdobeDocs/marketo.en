@@ -7,15 +7,15 @@ feature: Smart Lists
 ---
 # Reference a List or Smart List Across Workspaces {#reference-a-list-or-smart-list-across-workspaces}
 
-Lists and smart lists can be shared and referenced across workspaces for easy reuse from the Database.
+Lists and Smart Lists can be shared and referenced across workspaces for easy reuse from the Database.
 
 >[!NOTE]
 >
->Person partition rules apply (smart lists and static lists in a workspace only show people who are both members of the list *and* members of the current workspace).
+>Person partition rules apply (Smart Lists and static lists in a workspace only show people who are both members of the list _and_ members of the current workspace).
 
-## Share a List or Smart List  {#share-a-list-or-smart-list}
+## Share a List or Smart List {#share-a-list-or-smart-list}
 
-1. Go to the **Database**.
+1. Go to the **[!UICONTROL Database]**.
 
    ![](assets/db-1.png)
 
@@ -27,15 +27,15 @@ Lists and smart lists can be shared and referenced across workspaces for easy re
 
    ![](assets/two-4.png)
 
-1. Drag and drop a list or smart list you want to share into the new folder.
+1. Drag and drop a list or Smart List you want to share into the new folder.
 
    ![](assets/three-4.png)
 
-1. Right-click **New Folder** and select **Share Folder**.
+1. Right-click **[!UICONTROL New Folder]** and select **[!UICONTROL Share Folder]**.
 
    ![](assets/four-3.png)
 
-1. Choose a **Workspace** to share with. Select **Save**.
+1. Choose a **[!UICONTROL Workspace]** to share with. Select **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
