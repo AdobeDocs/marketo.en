@@ -31,7 +31,7 @@ Good job! You should now see your new additions to the keyword list.
 
    >[!NOTE]
    >
-   >Data is only shown for keywords that rank 1-100.
+   >Data is only shown for keywords ranked 1-100.
 
    >[!MORELIKETHIS]
    >

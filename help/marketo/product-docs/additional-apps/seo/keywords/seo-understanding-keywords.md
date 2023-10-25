@@ -48,7 +48,7 @@ The [!UICONTROL Keywords] section will show you how successful your site is at a
 
 >[!NOTE]
 >
->Data is only shown for keywords that rank 1-100.
+>Data is only shown for keywords ranked 1-100.
 
 ## [!UICONTROL Keywords] - Competitor View {#keywords-competitor-view}
 

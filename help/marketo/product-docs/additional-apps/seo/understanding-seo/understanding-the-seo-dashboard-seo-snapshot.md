@@ -29,7 +29,9 @@ This section shows you how your site is ranked for the [keywords you're targetin
 >
 >You can also view how a [specific list](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) of keywords is performing. Click the drop-down and select which one interests you.
 
-Rock on! Let's keep movin'.  
+>[!NOTE]
+>
+>Data is only shown for keywords ranked 1-100.
 
 ## [!UICONTROL Average Page Optimization Score] {#average-page-optimization-score}
 
