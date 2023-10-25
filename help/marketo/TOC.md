@@ -63,7 +63,7 @@ feature-set: Marketo Engage
         + [SEO - Optimize Specific Pages with Targeted Keywords](product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
         + [SEO - Remove a Keyword](product-docs/additional-apps/seo/keywords/seo-remove-a-keyword.md)
         + [SEO - Understanding Keywords](product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-        + [SEO - View Keyword Results in Search Engine](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
+        + [SEO - View Keyword Results in a Search Engine](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
       + Pages {#pages}
         + [SEO - Add Notes to Page Issues](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
         + [SEO - Add Pages](product-docs/additional-apps/seo/pages/seo-add-pages.md)

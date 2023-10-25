@@ -5,7 +5,7 @@ title: SEO - View Keyword Results in Search Engine
 exl-id: c687ed30-f368-4d9d-8919-e5cafefbe66a
 feature: SEO
 ---
-# SEO - View Keyword Results in Search Engine {#seo-view-keyword-results-in-search-engine}
+# SEO - View Keyword Results in a Search Engine {#seo-view-keyword-results-in-search-engine}
 
 If you want to see how your content looks inside a search engine, we've added a handy little short cut.
 

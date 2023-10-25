@@ -46,6 +46,10 @@ The [!UICONTROL Keywords] section will show you how successful your site is at a
  </tbody> 
 </table>
 
+>[!NOTE]
+>
+>Data is only shown for keywords that rank 1-100.
+
 ## [!UICONTROL Keywords] - Competitor View {#keywords-competitor-view}
 
 You can also view how your competitors are performing using the same metrics by clicking on the view drop-down and selecting competitors.
