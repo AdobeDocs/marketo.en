@@ -7,23 +7,11 @@ feature: Administration, Integrations
 ---
 # Add [!DNL Webex] as a [!DNL LaunchPoint] Service {#add-webex-as-a-launchpoint-service}
 
-Marketo Engage manages your [!DNL Webex] webinar registration and attendance.
+Marketo Engage manages your [!DNL Webex] webinar registration and attendance. You must have an existing subscription to [[!UICONTROL Webex]](https://www.webex.com/).
 
 >[!NOTE]
 >
 >**Admin Permissions Required**
-
->[!NOTE]
->
->An existing subscription to [!DNL Webex] and administration rights are necessary for this step. Have the following settings at hand: Username, Password, and Site Name.
-
->[!NOTE]
->
->The site name can be found at the end of the URL used to log into [!DNL Webex]. For example:
->
->`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
->
->**Caution:** Do not enter the entire URL in this field; enter the site name only!
 
 1. Go to the **[!UICONTROL Admin]** area. 
 
@@ -37,22 +25,26 @@ Marketo Engage manages your [!DNL Webex] webinar registration and attendance.
 
    ![](assets/add-webex-as-a-launchpoint-service-3.png)
 
-1. Enter a **[!UICONTROL Display Name]**. Under **[!UICONTROL Service]**, select **[!UICONTROL Webex]**.
+1. Enter a **[!UICONTROL Display Name]**. In the **[!UICONTROL Service]** drop-down, select **[!UICONTROL Webex Webinars]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-4.png)
 
-1. Enter your **[!UICONTROL Username]** and **[!UICONTROL Password]**.
+1. Click **[!UICONTROL Log Into Webex Webinars]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-5.png)
 
-1. Complete the process by entering your **[!UICONTROL Site Name]** then click **[!UICONTROL Create]**.
+1. Webex will open in a new tab. Log in using your Webex credentials.
 
    ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
-Your **[!DNL Webex]** is now synced with Marketo.
+1. Upon successful login, the tab will close and the _New Service_ modal in Marketo Engage will read "Webex Webinars account is set." Click **[!UICONTROL Create]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-7.png)
 
+Your **[!DNL Webex]** is now synced with Marketo.
+
+   ![](assets/add-webex-as-a-launchpoint-service-8.png)
+
 >[!MORELIKETHIS]
 >
->Learn how to [create an event with [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"}.
+>[Create an Event with [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"}.
