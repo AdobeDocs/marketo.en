@@ -97,9 +97,13 @@ Text
 
    ![](assets/add-images-and-files-to-marketo-15.png)
 
-1. Text
+1. Select the **[!UICONTROL Adobe Experience Manager]** option and click **[!UICONTROL Next]**.
 
-PICC
+   ![](assets/add-images-and-files-to-marketo-16.png)
+
+   >[!NOTE]
+   >
+   >If you haven't previously done so, you'll be asked to sign in to your AEM account.
 
 1. Text
 
