@@ -9,13 +9,7 @@ feature: Getting Started
 
 If you or your organization use restrictive firewall or proxy server settings, you or your network administrator may need to allowlist certain domains and IP address ranges to ensure Adobe Marketo Engage works as expected.
 
-## Branded Campaign Landing Pages and Emails {#branded-campaign-landing-pages-and-emails}
-
-Your marketing group is using Marketo to create branded campaign landing pages and emails. To ensure that those landing pages and emails work, they need a little help from IT. Please set up the following protocols, with the information that your marketing group should have sent you in email.
-
-This article should be shared with the IT department of the company wishing to implement these protocols.
-
-If your IT team restricts web access using an allowlist, ask them to add the following domains (including the asterisk) to allow all Marketo resources and websockets:
+For help implementing the protocols below, please share this article with your IT department. If they restrict web access using an allowlist, make sure they add the following domains (including the asterisk) to allow all Marketo resources and websockets:
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
