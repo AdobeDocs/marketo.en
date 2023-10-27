@@ -57,6 +57,6 @@ The following features fall under the standard release cycle and will start to b
 
 ## Announcements {#announcements}
  
-* **Marketo Engage Forms jQuery 1.x**: In our January 2024 release, we will be updating the jQuery for Marketo Engage Forms to jQuery 3.x. This may impact custom Form implementation relying on older versions of jQuery. [Learn more here](https://nation.marketo.com/t5/latest-product-innovations/adobe-marketo-engage-real-time-personalization-to-support-latest/ba-p/341307){target="_blank"}.
+* **Marketo Engage Forms jQuery 1.x**: In our January 2024 release, we will be updating the jQuery for Marketo Engage Forms to jQuery 3.x. This may impact custom Form implementation relying on older versions of jQuery.
 
 * **Marketo Events and Marketo Moments Deprecation**: Adobe is [removing Marketo Events and Marketo Moments](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"} from all app stores beginning October 2, 2023. Existing users&mdash;you can continue to use these apps until you migrate your Marketo Engage instance to Adobe Identity. These apps do not support sign-in with Adobe ID.
