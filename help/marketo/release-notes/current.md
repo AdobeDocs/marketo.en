@@ -25,8 +25,8 @@ The following features fall under the standard release cycle and will start to b
   </tr> 
   <tr> 
    <td><strong>New Design for Report Configuration in Modern UX</strong>: When setting up a report asset, you will have a <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">new asset tree</a> in the configuration menu as well as the ability to filter on date created and modified.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
    <tr> 
    <td>&nbsp;</td> 
