@@ -4,6 +4,7 @@ title: New Add Images Doc
 hide: yes
 hidefromtoc: yes
 feature: Image Editor
+exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
 ---
 # New Add Images Doc {#new-add-images-doc}
 
