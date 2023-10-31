@@ -13,7 +13,7 @@ feature: Events
 >* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Set the appropriate [flow actions](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) to track engagement
 
-## Schedule a Webinar {schedule-a-webinar}
+## Schedule a Webinar {#schedule-a-webinar}
 
 First, create a webinar in [Webex](https://www.webex.com/){target="_blank"}. Marketo Engage only uses specific settings and fields for your integration, which we'll go through shortly. For additional information, please see the [Webex Webinars Help Documentation](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
 
@@ -67,7 +67,7 @@ First, create a webinar in [Webex](https://www.webex.com/){target="_blank"}. Mar
 
 Now we're ready to jump into Marketo Engage!
 
-## Sync Your Event with Marketo Engage {#sync-an-event-in-the-classic-interface}
+## Sync Your Event with Marketo Engage {#sync-your-event-with-marketo-engage}
 
 1. In Marketo, find and select the Event Program you created. In the **Event Actions** drop-down, select **Event Settings**.
 
