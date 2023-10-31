@@ -12,136 +12,93 @@ feature: Events
 >* [Add Webex as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Set the appropriate [flow actions](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) to track engagement
->* Make sure you're using Webex Events (classic)
 
-First, create a webinar in [Webex](https://www.webex.com/){target="_blank"}. Event in the Webex Event Center. Marketo only uses specific settings and fields for your integration, which we'll go through shortly. Other fields that you might want to configure for Webex are explained in the [Webex Event Center User Guide](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf){target="_blank"}.
+## Schedule a Webinar {schedule-a-webinar}
 
->[!IMPORTANT]
->
->Marketo Engage only supports events created in Webex Events (classic). Marketo does not support events created in Webex Events (new) at this time.
+First, create a webinar in [Webex](https://www.webex.com/){target="_blank"}. Marketo Engage only uses specific settings and fields for your integration, which we'll go through shortly. For additional information, please see the [Webex Webinars Help Documentation](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
 
-## Basic Information {#basic-information}
+   >[!NOTE]
+   >
+   >You choose your preferred settings in Webex, but only the following information is viewable in Marketo Engage: Webinar name, start/end date & time, time zone, and description.
 
-* **Event Name -** This name will be viewable in Marketo.
-* **Unlisted Checkbox**
+### Basic Information {#basic-information}
 
-  * It's recommended that you do **not** list your event. This will ensure that all people register through your Marketo landing page. People who register through a mechanism other than Marketo will be displayed in Marketo after the event is concluded AND only if they attended the event.
-  * If you choose to list the event, it will appear on the List of Events page for anyone who visits your Event Center website.
+![](assets/create-an-event-with-webex-1.png)
 
-* **Registration -** Check this box to set to "required." You'll use a Marketo form/landing page to capture registration information that will be pushed to Webex.
-* **Event Password**- (optional) If you use this field be sure to include it in your confirmation email!
+* **Topic**: This is your event name and will be viewable in Marketo.
+* **Date and time**: Start/end date, start/end time, duration, and time zone are all viewable in Marketo.
+* **Maximum attendees**: The maximum number of attendees determines which Webex features are supported.
+* **Webcast view for attendees**: Check this to have your webinar streamed live to all attendees.
+* **Panelists**: Invite specific people to be panelists on your webinar.
+* **Webinar agenda**: Populate this if you want to provide context in the email invitation that's sent to panelists.
 
-![](assets/image2015-5-28-13-3a30-3a55.png)
+### Security {#security}
 
-## Date & Time {#date-time}
+![](assets/create-an-event-with-webex-2.png)
 
-* **Start date** - Enter your start date. This will be viewable in Marketo.
+* **Webinar password**: (optional) If you use this field, be sure to include it in your confirmation email.
+* **Panelist password**: (optional) If you use this field, be sure to include it in your Webinar agenda.
+* **Require account**: Limits attendees to only those who have Webex accounts.
 
-* **Start time** - Enter your start time. This will be viewable in Marketo.
+### Audio Connection Options {#audio-connection-options}
 
-* **Estimated duration** - Specify the duration of the event. This will be viewable in Marketo.
+![](assets/create-an-event-with-webex-3.png)
 
-* **Time Zones** - Enter the applicable time zones. They will be viewable in Marketo.
+* **Audio connection type**: Choose how webinar participants join the audio portion of your webinar.
+* **Entry and exit tone**: Select the sound you want users when someone enters or exits the webinar (phone audio connection required).
+* **Mute panelist**: Choose your desired panelist mute settings.
 
-![](assets/image2015-5-28-13-3a37-3a39.png)
+### Advanced Options {#advanced-options}
 
-## Audio Conference Settings {#audio-conference-settings}
+![](assets/create-an-event-with-webex-4.png)
 
-These settings reside in Webex only. They are not used by or viewable in Marketo, but they may be important for your webinar, so double-check them!
-
-## Event Description & Options  {#event-description-options}
-
-The following options are used by or viewable in Marketo. Other fields reside in Webex only.
-
-* **Description** - Enter a description. This will be viewable but not modifiable in Marketo.
-* **Post-event survey** - Marketo isn't able to capture the information on a Webex post-event survey at this time.
-* **Destination URL** - (optional) You can enter the URL of a Marketo landing page to serve as the destination URL to display after the session ends.
-
-![](assets/image2015-5-28-13-3a48-3a49.png)
-
-## Attendees & Registration {#attendees-registration}
-
-You will be controlling the invitation list, registration form, and other emails using a Marketo Event. Other functionality will not be supported by Marketo, including:
-
-* **Maximum number of registrants** - Currently **not** supported using the Marketo-Webex integration.  Manual approval of registrants is available using the Pending Approval progression status in Marketo.
-
-* **Registration ID required** - Currently supported using the Marketo-Webex integration. You can use Marketo to send out the confirmation email for your event. When the person registers, they receive a unique URL that they use to enter the event.
-
-  >[!TIP]
-  >
-  >To populate your confirmation email with this unique URL, use the following token in your email: `{{member.webinar url}}`. When the confirmation URL is sent out, this token automatically resolves to the person's unique confirmation URL.
-  >
-  >Set your confirmation email to **Operational** to ensure that people who register and may be unsubscribed still receive their confirmation information.
-
-* **Registration Password** - (Optional) Currently not supported using the Marketo-Webex integration.
-* **Approval Rules** - Currently not supported using the Marketo-Webex integration. However, you can use smart campaigns in Marketo to control approvals.
-
-![](assets/image2015-5-28-14-3a4-3a41.png)
-
-### Presenters & Panelists {#presenters-panelists}
-
-The information configured in this section is not passed to Marketo.
-
-### Email Messages {#email-messages}
-
-You'll use Marketo to send out emails to your registrants, confirmation emails, etc. You don't need to configure anything in this section. Disable (uncheck) the email message options within Webex.
-
-![](assets/image2015-5-28-14-3a9-3a14.png)
+* **Automatic recording**: Check this to have your webinar recorded automatically.
+* **Practice session**: Check this to have a practice session started when the webinar begins.
+* **Breakout sessions**: Breakout sessions allow you to preassign panelists and attendees before the webinar starts, or allow them to join during the webinar.
+* **Webinar series**: Adding to a webinar series lets people see your webinar whether it's public or not. 
+* **Registration**: Requires attendees to register and receive host approval before attending.
+* **Email reminder**: Choose an email reminder ranging from 15 minutes before the webinar starts up to two days.
+* **Webinar options**: Determine which features are available to participants in the webinar. 
+* **Participant privileges**: Participant privileges determine the actions available to webinar participants.
 
 >[!NOTE]
 >
->The Marketo-Webex integration cannot support sending confirmation emails out of Webex. The confirmation must be sent via Marketo. After you've scheduled the event, be sure to copy the event information to the Marketo confirmation email and set the email as **Operational**.
+>The Marketo-Webex integration cannot support sending confirmation emails out of Webex. The confirmation must be sent via Marketo. After you've scheduled the event, be sure to copy the event information to the Marketo confirmation email and set the email as _Operational_.
 
-Now we're ready to jump into Marketo!
+Now we're ready to jump into Marketo Engage!
 
-1. Select the event you created. Open the **Event Actions** drop-down. Choose **Event Settings.**
+## Sync Your Event with Marketo Engage {#sync-an-event-in-the-classic-interface}
 
-   ![](assets/image2015-5-14-16-3a7-3a31.png)
+1. In Marketo, find and select the Event Program you created. In the **Event Actions** drop-down, select **Event Settings**.
+
+SCREENSHOT
 
    >[!NOTE]
    >
    >The channel type of the event selected must be **webinar**.
 
-1. Under **Event Partner**, select **Webex**.
+1. In the **Event Partner** drop-down, select **Webex Webinars**.
 
-   ![](assets/image2015-1-30-13-3a58-3a2.png)
+SCREENSHOT
 
-1. Under **Login**, choose your Webex login.
+1. In the **Login** drop-down, choose your Webex login.
 
-   ![](assets/image2015-5-18-12-3a2-3a26.png)
+SCREENSHOT
 
-1. Under **Event**, choose your freshly created Webex event. Then, select an optional Back-up Page and click **Save**.
+1. In the **Event** drop-down, choose your Webex event.
 
-   ![](assets/image2015-5-14-16-3a15-3a55.png)
+SCREENSHOT
 
-1. Select an optional Back-up Page for your Webex event. Choose from the drop-down of approved Marketo landing pages or enter the URL of a non-Marketo landing page.
+1. Your webinar details will populate. Click **Save**.
 
-   >[!TIP]
-   >
-   >Set a Back-up Page to direct a member to a specific page if they click on their custom event URL prior to the event's start time.
+SCREENSHOT
 
    >[!NOTE]
    >
-   >The fields Marketo sends over are: First Name, Last Name, Email Address.
-
-   ![](assets/webex.png)
-
-   >[!CAUTION]
-   >
-   >Avoid using nested email programs to send out your confirmation emails. Use the event program's smart campaign instead, as shown above.
+   >Avoid using nested email programs to send out your confirmation emails. Use your Event Program's Smart Campaign instead.
 
    >[!TIP]
    >
-   >It can take up to 48 hours for the data to appear in Marketo. If after waiting that long you still don't see anything, select **Refresh from Webinar Provider** from the Event Actions menu in the **Summary** tab of your event.
+   >It can take up to 48 hours for the data to appear in Marketo. If after waiting that long you still don't see anything, click **Refresh from Webinar Provider** in the **Event Actions** drop-down in the **Summary** tab of your Event Program.
 
 Sweet! Your Webex event is now synced with your Marketo event. People who sign up for your webinar will get pushed to your webinar provider via the Change Program Status flow step when the New Status is set to "Registered." No other status will push the person over. Also, be sure to make Change Program Status flow step #1, and Send Email flow step #2.
-
-## Viewing the Schedule  {#viewing-the-schedule}
-
-In the program schedule view, click the calendar entry for your event. You can see the schedule on the right side of the screen!
-
-![](assets/image2015-5-14-16-3a21-3a41.png)
-
->[!NOTE]
->
->To change your event schedule you'll need to edit the webinar on Webex.
