@@ -71,7 +71,7 @@ Now we're ready to jump into Marketo Engage!
 
 1. In Marketo, find and select the Event Program you created. In the **Event Actions** drop-down, select **Event Settings**.
 
-SCREENSHOT
+   ![](assets/create-an-event-with-webex-5.png)
 
    >[!NOTE]
    >
@@ -79,26 +79,24 @@ SCREENSHOT
 
 1. In the **Event Partner** drop-down, select **Webex Webinars**.
 
-SCREENSHOT
+   ![](assets/create-an-event-with-webex-6.png)
 
 1. In the **Login** drop-down, choose your Webex login.
 
-SCREENSHOT
+   ![](assets/create-an-event-with-webex-7.png)
 
 1. In the **Event** drop-down, choose your Webex event.
 
-SCREENSHOT
+   ![](assets/create-an-event-with-webex-8.png)
 
 1. Your webinar details will populate. Click **Save**.
 
-SCREENSHOT
+   ![](assets/create-an-event-with-webex-9.png)
 
-   >[!NOTE]
-   >
-   >Avoid using nested email programs to send out your confirmation emails. Use your Event Program's Smart Campaign instead.
+Your Webex event is now synced with your Marketo event. People who sign up for your webinar will get pushed to your webinar provider via the _Change Program Status_ flow step when the New Status is set to "Registered." No other status will push the person over. Be sure to make _Change Program Status_ flow step #1, and _Send Email_ flow step #2.
 
-   >[!TIP]
-   >
-   >It can take up to 48 hours for the data to appear in Marketo. If after waiting that long you still don't see anything, click **Refresh from Webinar Provider** in the **Event Actions** drop-down in the **Summary** tab of your Event Program.
+## Things to Note {#things-to-note}
 
-Sweet! Your Webex event is now synced with your Marketo event. People who sign up for your webinar will get pushed to your webinar provider via the Change Program Status flow step when the New Status is set to "Registered." No other status will push the person over. Also, be sure to make Change Program Status flow step #1, and Send Email flow step #2.
+* Avoid using nested Email Programs to send out your confirmation emails. Use your Event Program's Smart Campaign instead.
+
+* It can take up to 48 hours for data to appear in Marketo. If after waiting that long you still don't see anything, click **Refresh from Webinar Provider** in the **Event Actions** drop-down in the **Summary** tab of your Event Program.
