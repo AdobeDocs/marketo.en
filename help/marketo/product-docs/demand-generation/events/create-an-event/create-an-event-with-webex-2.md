@@ -7,19 +7,17 @@ feature: Events
 ---
 # Create an Event with Webex {#create-an-event-with-webex}
 
+After you create a webinar in Webex, you'll need to sync your event with Marketo Engage.
+
 >[!PREREQUISITES]
 >
 >* [Add Webex as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [Create a New Event Program](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Set the appropriate [flow actions](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) to track engagement
 
-## Schedule a Webinar {#schedule-a-webinar}
+## Schedule Your Webinar {#schedule-your-webinar}
 
-First, create a webinar in [Webex](https://www.webex.com/){target="_blank"}. Marketo Engage only uses specific settings and fields for your integration, which we'll go through shortly. For additional information, please see the [Webex Webinars Help Documentation](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
-
-   >[!NOTE]
-   >
-   >You choose your preferred settings in Webex, but only the following information is viewable in Marketo Engage: Webinar name, start/end date & time, time zone, and description.
+You schedule your event and choose your preferred settings in [Webex](https://www.webex.com/){target="_blank"}. Only the following information is viewable in Marketo: webinar name, start/end date & time, time zone, and description. Additional information about Webex Webinars [can be found here](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
 
 ### Basic Information {#basic-information}
 
@@ -65,11 +63,9 @@ First, create a webinar in [Webex](https://www.webex.com/){target="_blank"}. Mar
 >
 >The Marketo-Webex integration cannot support sending confirmation emails out of Webex. The confirmation must be sent via Marketo. After you've scheduled the event, be sure to copy the event information to the Marketo confirmation email and set the email as _Operational_.
 
-Now we're ready to jump into Marketo Engage!
-
 ## Sync Your Event with Marketo Engage {#sync-your-event-with-marketo-engage}
 
-1. In Marketo, find and select the Event Program you created. In the **Event Actions** drop-down, select **Event Settings**.
+1. In Marketo, find and select the desired Event Program. In the **Event Actions** drop-down, select **Event Settings**.
 
    ![](assets/create-an-event-with-webex-5.png)
 
@@ -93,7 +89,7 @@ Now we're ready to jump into Marketo Engage!
 
    ![](assets/create-an-event-with-webex-9.png)
 
-Your Webex event is now synced with your Marketo event. People who sign up for your webinar will get pushed to your webinar provider via the _Change Program Status_ flow step when the New Status is set to "Registered." No other status will push the person over. Be sure to make _Change Program Status_ flow step #1, and _Send Email_ flow step #2.
+Your Webex event is now synced with your Marketo Event Program. People who sign up for your webinar will get pushed to your webinar provider via the _Change Program Status_ flow step when the new status is set to "Registered." No other status will push the person over. Be sure to make _Change Program Status_ flow step #1, and _Send Email_ flow step #2.
 
 ## Things to Note {#things-to-note}
 
