@@ -679,7 +679,6 @@ feature-set: Marketo Engage
         + [Create an Event with GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
         + [Create an Event with Level 3 Web Meeting](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
         + [Create an Event with Webex](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-        [Create an Event with Webex 2](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex-2.md)
         + [Create an Event with Zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
         + Create an Event with the Marketo ON24 Adapter {#create-an-event-with-the-marketo-on24-adapter}
           + [Set up the ON24 Integration with Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/set-up-the-on24-integration-with-marketo.md)
