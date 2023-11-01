@@ -9,6 +9,10 @@ feature: Reporting
 
 Focus your [Email Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) or [Email Link Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) report on emails in your programs ('local assets'), on those in Design Studio ('global assets'), or on those that have been archived.
 
+>[!NOTE]
+>
+>Filtering assets in reports is not supported in Satellite Mode (the 'open in a new window' icon on the right of the asset detail page).
+
 1. Go to **Analytics** (or **Marketing Activities**) area.
 
    ![](assets/image2014-9-16-15-3a53-3a26.png)

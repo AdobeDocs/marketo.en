@@ -9,6 +9,10 @@ feature: Reporting
 
 Focus your [Campaign Activity Report](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)on specific [smart campaigns](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
 
+>[!NOTE]
+>
+>Filtering assets in reports is not supported in Satellite Mode (the 'open in a new window' icon on the right of the asset detail page).
+
 1. Go to **Marketing Activities** (or **Analytics**) and select your campaign activity report.
 
    ![](assets/image2014-9-16-16-3a13-3a56.png)
