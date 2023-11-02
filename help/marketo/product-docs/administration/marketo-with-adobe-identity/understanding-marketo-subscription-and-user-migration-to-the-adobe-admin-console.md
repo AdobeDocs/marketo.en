@@ -51,7 +51,7 @@ Marketo Product Admins will:
 
 >[!NOTE]
 >
->Due to the complexity of the migration, date changes are restricted to no more than 30 days beyond the scheduled date. Send an email to marketocares@marketo.com if you require a later date.
+>Due to the complexity of the migration, date changes are restricted to no more than 30 days beyond the scheduled date. Send an email to `marketocares@marketo.com` if you require a later date.
 
 * See a banner in My Marketo displaying a countdown to the User Migration Start Date.
 
@@ -75,7 +75,7 @@ As a Marketo Product Admin, you're encouraged to ensure all users are prepared f
 
 ### What to Expect on Migration Day {#what-to-expect-on-migration-day}
 
-User migration will start at midnight of the time zone set in the Marketo subscription.
+User migration will start at midnight Pacific Standard Time of the migration start date.
 
 **Adobe will automatically migrate Marketo Admins first**. When Marketo Admins are migrated to Adobe Identity, they will be assigned the Adobe Product Admin role within the Marketo application along with any other roles they previously had.
 
@@ -95,4 +95,4 @@ Adobe will notify all System Admins and Product Admins via email once all Admins
 
 ## Get Support {#get-support}
 
-For additional support regarding your subscription or user migration, email marketocares@marketo.com.
+For additional support regarding your subscription or user migration, email `marketocares@marketo.com`.
