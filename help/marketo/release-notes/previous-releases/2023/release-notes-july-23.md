@@ -95,7 +95,7 @@ The following features follow an Agile format and are released on various dates 
   </tr>
   <tr> 
    <td>Shipped</td>
-   <td><a href="help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Auto-Append Unsubscribe Message Setting</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Auto-Append Unsubscribe Message Setting</a></td>
   </tr>
   </tbody>
 </table>
