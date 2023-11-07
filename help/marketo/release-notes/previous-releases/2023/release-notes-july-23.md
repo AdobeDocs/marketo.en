@@ -86,7 +86,7 @@ The following features follow an Agile format and are released on various dates 
 
 </br>
 
-* **Unsubscribe Append Settings**: You now have more control over your unsubscribe messages with new configuration options to Unsubscribe Appending. New capabilities give Admins control over when, where, and what unsubscribe messaging will appear in your sales emails.
+* **Unsubscribe Append Settings for Sales Insight Actions**: You now have more control over your unsubscribe messages with new configuration options to Unsubscribe Appending. New capabilities give Admins control over when, where, and what unsubscribe messaging will appear in your sales emails.
 
 <table> 
   <tr> 
@@ -94,13 +94,13 @@ The following features follow an Agile format and are released on various dates 
    <td><b>Documentation Updates</b></td>
   </tr>
   <tr> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Auto-Append Unsubscribe Message Setting</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Dynamic Field Prompts**: You can now prompt your Sales Team to personalize specific parts of an email even further with new Field Prompts available to be added to email templates in Sales Insight Actions.
+* **Dynamic Field Prompts for Sales Insight Actions**: You can now prompt your Sales Team to personalize specific parts of an email even further with new Field Prompts available to be added to email templates in Sales Insight Actions.
 
 <table> 
   <tr> 
@@ -114,7 +114,7 @@ The following features follow an Agile format and are released on various dates 
   </tbody>
 </table>
 
-* **Default Dynamic Fields**: Default Dynamic Fields allow you to configure a fallback value that a Dynamic Field can resolve to if there's no value available to be populated. This helps ensure emails go out with all of the personalization filled in.
+* **Default Dynamic Fields for Sales Insight Actions**: Default Dynamic Fields allow you to configure a fallback value that a Dynamic Field can resolve to if there's no value available to be populated. This helps ensure emails go out with all of the personalization filled in.
 
 <table> 
   <tr> 
