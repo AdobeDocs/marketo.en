@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 ---
 # Understanding the Microsoft Dynamics Sync {#understanding-the-microsoft-dynamics-sync}
 
-Marketo and Microsoft Dynamics go together. We keep your sales and marketing data in sync.
+Marketo Engage and Microsoft Dynamics go together. We keep your sales and marketing data in sync.
 
 >[!NOTE]
 >

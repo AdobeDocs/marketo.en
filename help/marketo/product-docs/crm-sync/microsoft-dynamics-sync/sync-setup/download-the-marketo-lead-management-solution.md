@@ -11,29 +11,29 @@ feature: Microsoft Dynamics
 >
 >**Admin Permissions Required**
 
-You will need to download and install a Marketo Solution into your Microsoft Dynamics account to get the sync started.
+You will need to download and install a Marketo Engage Solution into your Microsoft Dynamics account to get the sync started.
 
 >[!CAUTION]
 >
->It is imperative you download the latest Marketo Solution _before_ performing any upgrade.
+>It's imperative you download the latest Marketo Solution _before_ performing any upgrade.
 
 >[!NOTE]
 >
 >Marketo only supports SSL certs that are compatible with Java 7 at this time.
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 
-1. Click on **CRM**.
+1. Click on **[!UICONTROL CRM]**.
 
    ![](assets/download-the-marketo-lead-management-solution-2.png)
 
-1. Select **Microsoft**.
+1. Select **[!DNL Microsoft]**.
 
    ![](assets/download-the-marketo-lead-management-solution-3.png)
 
-1. Select **Download Marketo Solution**.
+1. Select **[!UICONTROL Download Marketo Solution]**.
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 

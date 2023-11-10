@@ -6,6 +6,8 @@ feature: Microsoft Dynamics
 ---
 # Grant Consent for Client Id and App Registration {#grant-consent-for-client-id-and-app-registration}
 
+Follow the steps below to learn how to grant the mecessary consent/permissions.
+
 ## Grant Delegated User Permissions for the Sync User {#grant-delegated-user-permissions-for-the-sync-user}
 
 1. Use a clean text program (Notepad for Windows, Text Edit for Mac) to create a Uniform Resource Identifier (URI) for authorization by pasting the below text and substituting the client_id, redirect_uri, and stae values.
@@ -57,7 +59,7 @@ feature: Microsoft Dynamics
    >
    >If you're already logged in to Azure as an Admin in another tab, you'll need to use a different browser or Incognito mode to log in as the Sync User.
 
-1. Click **Accept**.
+1. Click **[!UICONTROL Accept]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
@@ -67,15 +69,14 @@ As an administrator, you can also consent to an application's delegated permissi
 
 1. In your Azure portal, navigate to the application homepage.
 
-1. Under Manage, click **API Permissions**.
+1. Under Manage, click **[!UICONTROL API Permissions]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. Click the **Grant admin consent** (for tenant) button.
+1. Click the **[!UICONTROL Grant admin consent]** (for tenant) button.
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. Click **Yes** to confirm.
+1. Click **[!UICONTROL Yes]** to confirm.
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)
-

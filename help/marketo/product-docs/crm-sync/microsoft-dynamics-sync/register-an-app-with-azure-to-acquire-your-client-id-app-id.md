@@ -11,7 +11,7 @@ Azure Active Directory extends your on-premises directories into the cloud, prov
 
 ## Registering a New App {#registering-a-new-app}
 
-1. [Log in](https://login.microsoftonline.com/){target="_blank"} to the Microsoft Azure management portal using an account with admin permissions. You can also access the Microsoft Azure portal through the Office 365 Admin Center by expanding the **Admin** item in the left navigation pane and selecting **Azure AD**.
+1. [Log in](https://login.microsoftonline.com/){target="_blank"} to the Microsoft Azure management portal using an account with admin permissions. You can also access the Microsoft Azure portal through the Office 365 Admin Center by expanding the **[!UICONTROL Admin]** item in the left navigation pane and selecting **[!UICONTROL Azure AD]**.
 
    >[!CAUTION]
    >
@@ -19,50 +19,50 @@ Azure Active Directory extends your on-premises directories into the cloud, prov
 
    >[!NOTE]
    >
-   >If you don’t have an Azure account, you can [sign up](https://azure.microsoft.com/en-us/free/){target="_blank"} for one. Please refer to Microsoft's documentation or reach out to your Microsoft representative for more information. Once you've created an Azure account, you can register one or more apps using the procedure outlined below.
+   >If you don't have an Azure account, you can [sign up](https://azure.microsoft.com/en-us/free/){target="_blank"} for one. Please refer to Microsoft's documentation or reach out to your Microsoft representative for more information. Once you've created an Azure account, you can register one or more apps using the procedure outlined below.
    >
    >
    >If you have an Azure account but your Office 365 subscription with Microsoft Dynamics 365 isn't available in your Azure subscription, follow [these instructions](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} to associate the two accounts.
 
-1. Find and click **Azure Active Directory** in the left navigation pane.
+1. Find and click **[!UICONTROL Azure Active Directory]** in the left navigation pane.
 
    ![](assets/two.png)
 
-1. Under Manage, click **App registrations**.
+1. Under Manage, click **[!UICONTROL App registrations]**.
 
    ![](assets/three.png)
 
-1. Click **New registration** at the top of the page.
+1. Click **[!UICONTROL New registration]** at the top of the page.
 
    ![](assets/four.png)
 
-1. Enter a name for your app, choose your applicable account type, and enter a Redirect URL. Then click **Register** at the bottom of the page.
+1. Enter a name for your app, choose your applicable account type, and enter a Redirect URL. Then click **[!UICONTROL Register]** at the bottom of the page.
 
    ![](assets/five.png)
 
-1. You should now see your app in the **App registrations** tab.
+1. You should now see your app in the **[!UICONTROL App registrations]** tab.
 
    ![](assets/six.png)
 
 ## Configuring App Permissions {#configuring-app-permissions}
 
-1. Under the **App registrations** tab in your Active Directory, click the app you want to configure permissions for.
+1. Under the **[!UICONTROL App registrations]** tab in your Active Directory, click the app you want to configure permissions for.
 
    ![](assets/seven.png)
 
-1. Under Manage, click **API permissions**.
+1. Under Manage, click **[!UICONTROL API permissions]**.
 
    ![](assets/eight.png)
 
-1. Click the **Add a permission** button.
+1. Click the **[!UICONTROL Add a permission]** button.
 
    ![](assets/nine.png)
 
-1. Choose **Dynamics CRM**.
+1. Choose **[!UICONTROL Dynamics CRM]**.
 
    ![](assets/ten.png)
 
-1. Check the **Access Common Data Service as organization user****s** box, then click **Add permissions.**
+1. Check the **[!UICONTROL Access Common Data Service as organization users]** box, then click **[!UICONTROL Add permissions]**.
 
    ![](assets/eleven.png)
 
@@ -70,11 +70,11 @@ Azure Active Directory extends your on-premises directories into the cloud, prov
 
    ![](assets/twelve.png)
 
-1. Click the **Grant admin consent** button.
+1. Click the **[!UICONTROL Grant admin consent]** button.
 
    ![](assets/thirteen.png)
 
-1. Click **Yes** to confirm.
+1. Click **[!UICONTROL Yes]** to confirm.
 
    ![](assets/fourteen.png)
 
