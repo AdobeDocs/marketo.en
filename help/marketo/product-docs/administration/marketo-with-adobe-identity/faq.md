@@ -4,7 +4,7 @@ title: Adobe Identity Management FAQ
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
 ---
-# FAQ {#faq}
+# Adobe Identity Management FAQ {#adobe-identity-management-faq}
 
 **What is Adobe Identity?**
 
