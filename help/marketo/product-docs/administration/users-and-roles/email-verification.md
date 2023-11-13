@@ -6,7 +6,7 @@ feature: Users and Roles
 ---
 # Email Verification {#email-verification}
 
-Adobe Marketo Engage subscriptions require all non-API only users, including Marketo Engage Administrators, to verify their email address. Single Sign-on (SSO) users who are not assigned an Admin role, or who are assigned a role with the 'Bypass SSO' permission, will automatically have their email verified when their subscription is enabled with the Email Verification feature.
+Adobe Marketo Engage subscriptions require all non-API only users, including Marketo Engage Administrators, to verify their email address.
 
 ## Why This Feature Was Introduced {#why-this-feature-was-introduced}
 
@@ -14,7 +14,7 @@ Marketo Engage is continuing the rollout of Email Verification in preparation fo
 
 ## User Invite {#user-invite}
 
-When an Admin invites a user, that user is automatically verified once they click the invite link. SSO users, not assigned the Admin role, are automatically verified.
+When an Admin invites a user, that user is automatically verified once they click the invite link.
 
 ## Verification Email {#verification-email}
 
