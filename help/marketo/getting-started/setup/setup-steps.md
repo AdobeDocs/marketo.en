@@ -30,6 +30,10 @@ Some steps require help from your IT team.
 
 ## Log in and create additional Marketo Users {#log-in-and-create-additional-marketo-users}
 
+>[!IMPORTANT]
+>
+>If your Marketo subscription was created on/after July 31, 2023, or has already been migrated to [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, the steps for adding a user outlined below will not apply to you. Please see [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} instead.
+
 Log in to Marketo [here](https://app.marketo.com/){target="_blank"} using the credentials you received by email.
 
    ![](assets/setup-steps-1.png)
