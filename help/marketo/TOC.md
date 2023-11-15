@@ -18,6 +18,7 @@ feature-set: Marketo Engage
     + [Setup Steps](getting-started/setup/setup-steps.md)
     + [Setup Checklist](getting-started/setup/setup-checklist.md)
     + [Configure Protocols for Marketo](getting-started/setup/configure-protocols-for-marketo.md)
+    + [Updated Configure Protocols Doc](getting-started/setup/updated-configure-protocols-doc.md)
   + Quick Wins {#quick-wins}
     + [Get Set up and Add a Person](getting-started/quick-wins/get-set-up-and-add-a-person.md)
     + [Send an Email](getting-started/quick-wins/send-an-email.md)
