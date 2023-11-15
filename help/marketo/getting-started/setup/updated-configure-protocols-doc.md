@@ -251,7 +251,7 @@ There are two types of alignment for DMARC&mdash;DKIM alignment and SPF alignmen
 
 * DKIM-aligned DMARC&mdash;To set up DKIM aligned DMARC you must:
    
-   * Set up DKIM for the FROM: Domain of your message. Use the instructions [in this article](help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+   * Set up DKIM for the FROM: Domain of your message. Use the instructions [in this article](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
    * Configure DMARC for the FROM:/DKIM Domain that was configured earlier
 
 * DMARC-aligned SPF&mdash;To set up DMARC aligned SPF via branded return-path, you must:
