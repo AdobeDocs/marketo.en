@@ -14,11 +14,13 @@ Don't want to sync everything in your Dynamics CRM into Marketo? Don't worry! Ma
 To set up a Dynamics sync filter:
 
 1. Create a custom Two Options (boolean) field named new_synctomkto in your Dynamics CRM for any object (lead, contact, account, opportunity and other custom entities).
-1. Assign this field a Yes/No value or leave it blank.
+1. Assign this field a Yes/No value.
 
->[!NOTE]
+You must make these changes in Dynamics CRM, not your database or Marketo.
+
+>[!CAUTION]
 >
->You must make these changes in Dynamics CRM, not your database or Marketo.
+>If you don't assign the field and leave it blank/NULL, it will sync down but not update. 
 
 Marketo looks for this field during the automatic background sync and determines which records to sync over based on this logic:
 

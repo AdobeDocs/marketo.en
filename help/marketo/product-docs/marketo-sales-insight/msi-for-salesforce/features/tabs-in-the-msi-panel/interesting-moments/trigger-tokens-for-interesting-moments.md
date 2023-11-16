@@ -25,7 +25,7 @@ Based on the trigger used in a smart campaign, additional Trigger Tokens are mad
 
 ### Email Triggers {#email-triggers}
 
-<table style="table-layout:auto"> 
+<table style="table-layout:auto">
  <colgroup> 
   <col> 
   <col> 

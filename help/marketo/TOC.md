@@ -559,7 +559,7 @@ feature-set: Marketo Engage
         + [Sync Status](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
         + [Campaign Sync Overview](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
         + [Enable Campaign Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
-      + Custom Dynamics Sync Filter Details {#custom-dynmaics-sync-filter-details}
+      + Custom Dynamics Sync Filter Details {#custom-dynamics-sync-filter-details}
         + [Create a Custom Dynamics Sync Filter](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
         + [Custom Sync Filter Rules for an Email Address](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
         + [Microsoft Dynamics Sync Filter: Merge](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
