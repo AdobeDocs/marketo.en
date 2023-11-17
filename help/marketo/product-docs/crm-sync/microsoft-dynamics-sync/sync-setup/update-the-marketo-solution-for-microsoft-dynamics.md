@@ -17,15 +17,15 @@ When a new Microsoft Dynamics solutions is released, you can download the update
 >
 >It's imperative you download the latest Marketo Solution _before_ performing any update.
 
-1. Go to the **Admin** area.
+1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/admin.png)
 
-1. Click **Microsoft Dynamics**.
+1. Click **[!DNL Microsoft Dynamics]**.
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Select **Download Marketo Solution**.
+1. Select **[!UICONTROL Download Marketo Solution]**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
@@ -39,10 +39,10 @@ When a new Microsoft Dynamics solutions is released, you can download the update
 
 1. Import the latest version of the solution over the existing version of your Dynamics CRM (ex: if your Dynamics CRM has version 1.4 and the latest version is 1.5, you would import _over_ version 1.4).
 
-1. You will see the following pop-up. Select **Update** and **Maintain customizations**, then click **Import**.
+1. You will see the following pop-up. Select **[!UICONTROL Update]** and **[!UICONTROL Maintain customizations]**, then click **[!UICONTROL Import]**.
 
    ![](assets/update-the-marketo-solution-for-microsoft-dynamics-5.png)
 
 >[!CAUTION]
 >
->Selecting Upgrade instead of Update could result in data corruption in your Dynamics environment. **Be sure to choose Update** under Import Options.
+>Selecting Upgrade instead of Update could result in data corruption in your Dynamics environment. _Be sure to choose Update_ under Import Options.

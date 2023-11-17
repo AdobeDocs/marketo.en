@@ -11,11 +11,11 @@ Here are a few things to know about adding and removing picklist values in Sales
 
 ## Adding Picklist Values {#adding-picklist-values}
 
-1. If an additional value is added in Salesforce to a picklist field type, you will receive a [notification](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) identifying which forms this will affect.
+1. If an additional value is added in Salesforce to a picklist field type, you will receive a [notification](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} identifying which forms this will affect.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Go to the form editor and [add the additional value](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) to your list of suggestions.
+1. Go to the form editor and [add the additional value](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} to your list of suggestions.
 
 ## Remove Picklist Values {#remove-picklist-values}
 
@@ -23,7 +23,7 @@ When a picklist value is removed from a field in Salesforce, you will have to ma
 
 >[!NOTE]
 >
->If a lead field and a contact field in Salesforce have different values, the values in common will be available for use in Marketo.
+>If a lead field and a contact field in Salesforce have different values, the values in common will be available for use in Marketo Engage.
 
 If a lead field and a contact field in Salesforce have different values:
 

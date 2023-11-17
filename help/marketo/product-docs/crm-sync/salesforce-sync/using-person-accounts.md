@@ -7,7 +7,7 @@ feature: Salesforce Integration
 ---
 # Using Person Accounts {#using-person-accounts}
 
-Person accounts can be set up in Salesforce to fit the need of your organization. Here's how Marketo treats person accounts.
+Person accounts can be set up in Salesforce to fit the need of your organization. Here's how Marketo Engage treats person accounts.
 
 >[!NOTE]
 >
@@ -27,15 +27,15 @@ A person account is synced to Marketo as a company and as a person.
 
 ## How do I differentiate business accounts and person accounts? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Use the **Is Person Account** filter in your smart list to separate person accounts from standard business accounts.
+Use the "Is Person Account" filter in your Smart List to separate person accounts from standard business accounts.
 
 ## Where is my person accounts information displayed in Marketo Sales Insight? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Activities related to person accounts are displayed in the **Account** panel.
+Activities related to person accounts are displayed in the **[!UICONTROL Account]** panel.
 
 >[!NOTE]
 >
->Marketo Sales Insight's **Add to Marketo Campaign** and **Send Email** options are not currently available for person accounts.
+>Marketo Sales Insight's **[!UICONTROL Add to Marketo Campaign]** and **[!UICONTROL Send Email]** options are not currently available for person accounts.
 
 ## How do I associate opportunities to a person account? {#how-do-i-associate-opportunities-to-a-person-account}
 

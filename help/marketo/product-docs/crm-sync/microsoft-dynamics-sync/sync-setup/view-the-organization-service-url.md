@@ -7,21 +7,21 @@ feature: Microsoft Dynamics
 ---
 # View the Organization Service URL {#view-the-organization-service-url}
 
-Marketo needs the Organization Service URL to sync with Dynamics instances. Here is how to find it in Dynamics.
+Marketo Engage needs the Organization Service URL to sync with MD instances. Here is how to find it in Dynamics.
 
-1. Log in to Dynamics. Click the Settings icon and select **Advanced Settings**.
+1. Log in to [!DNL Dynamics]. Click the Settings icon and select **[!UICONTROL Advanced Settings]**.
 
    ![](assets/one.png)
 
-1. Click **Settings** and select **Customizations**.
+1. Click **[!UICONTROL Settings]** and select **[!UICONTROL Customizations]**.
 
    ![](assets/two.png)
 
-1. Click **Developer Resources**.
+1. Click **[!UICONTROL Developer Resources]**.
 
    ![](assets/three.png)
 
-1. The Organization Service URL can be found under **Service Endpoints**.
+1. The Organization Service URL can be found under **[!UICONTROL Service Endpoints]**.
 
    ![](assets/four.png)
 

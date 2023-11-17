@@ -8,7 +8,7 @@ feature: Salesforce Integration
 
 Use the Sync Status Dashboard to view sync stats as part of the sync steps and its success status.
 
-The Sync steps reflect operations of push or pull by each object type for object schema and data itself. Stats cover new records, updates, deletes, and failed counts during sync. Users can filter by date, operation type or object type. Sync Status Dashboard shows status of sync cycles for the past five days.
+The Sync steps reflect operations of push or pull by each object type for object schema and data itself. Stats cover new records, updates, deletes, and failed counts during sync. Users can filter by date, operation type or object type. Sync Status Dashboard shows status of sync cycles for the past five days.
 
 >[!NOTE]
 >
@@ -16,15 +16,15 @@ The Sync steps reflect operations of push or pull by each object type for obje
 
 ## View Sync Status {#view-sync-status}
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. Under Integration, click Salesforce, then the Sync Status tab.
+1. Under [!UICONTROL Integration], click **Salesforce**, then the **[!UICONTROL Sync Status]** tab.
 
    ![](assets/salesforce-sync-status-2.png)
 
-By default, stats will be sorted by most recently started. You can sort by Started At or Ended At—from most recent to oldest—by clicking the sort icon.
+By default, stats will be sorted by most recently started. You can sort by Started At or Ended At (from most recent to oldest) by clicking the sort icon.
 
    ![](assets/salesforce-sync-status-3.png)
 
@@ -34,15 +34,15 @@ By default, stats will be sorted by most recently started. You can sort by Start
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. Select your date and time range, then click the drop-down(s) to filter by Object Type, Operation Type, and/or Status Type.
+1. Select your date and time range, then click the drop-down(s) to filter by [!UICONTROL Object Type], [!UICONTROL Operation Type], and/or [!UICONTROL Status Type].
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. Click **Apply**.
+1. Click **[!UICONTROL Apply]**.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**OPTIONAL STEP**: To export sync errors, click **Export**. The data will be exported as a CSV.
+**OPTIONAL STEP**: To export sync errors, click **[!UICONTROL Export]**. The data will be exported as a CSV.
 
    ![](assets/salesforce-sync-status-7.png)
 
@@ -243,4 +243,4 @@ By default, stats will be sorted by most recently started. You can sort by Start
  </tbody> 
 </table>
 
-&#42;Branding configuration at the subscription level decides the label – "Lead" or "Person" in the report.
+&#42;Branding configuration at the subscription level decides the label - "Lead" or "Person" in the report.

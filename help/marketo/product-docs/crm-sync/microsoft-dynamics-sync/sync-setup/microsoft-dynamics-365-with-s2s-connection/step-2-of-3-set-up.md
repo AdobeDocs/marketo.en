@@ -21,15 +21,15 @@ feature: Microsoft Dynamics
 
 1. Grant Admin consent by following the steps [in this article](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
 
-1. Generate a Client Secret in the Admin Center by clicking **Certificates & secrets**.
+1. Generate a Client Secret in the Admin Center by clicking **[!UICONTROL Certificates & secrets]**.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-1.png)
 
-1. Click the **New client secret** button.
+1. Click the **[!UICONTROL New client secret]** button.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-2.png)
 
-1. Enter a client secret description and click **Add**.
+1. Enter a client secret description and click **[!UICONTROL Add]**.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-3.png)
 
@@ -59,19 +59,19 @@ Additional references [can be found here](https://docs.microsoft.com/en-us/azure
 
 Almost there! All we have left is to inform Marketo Solution about the new user created.
 
-1. Go back to the Advanced Settings section and click the ![](assets/image2015-5-13-15-3a49-3a19.png) icon next to Settings, and select **Marketo Config**.
+1. Go back to the Advanced Settings section and click the ![](assets/image2015-5-13-15-3a49-3a19.png) icon next to Settings, and select **[!UICONTROL Marketo Config]**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >If you don't see **Marketo Config** in the Settings menu, refresh the page. If that doesn't work, try to [publish the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"} again or log out and back in.
+   >If you don't see "Marketo Config" in the Settings menu, refresh the page. If that doesn't work, try to [publish the Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"} again or log out and back in.
 
-1. Click **Default**.
+1. Click **[!UICONTROL Default]**.
 
    ![](assets/fifteen.png)
 
-1. Click the search button on the **Marketo User** field and select the sync user you created.
+1. Click the search button on the **[!UICONTROL Marketo User]** field and select the sync user you created.
 
    ![](assets/sixteen.png)
 
@@ -83,11 +83,11 @@ Almost there! All we have left is to inform Marketo Solution about the new user 
 
    ![](assets/seventeen.png)
 
-1. Click the ![](assets/image2015-5-13-15-3a49-3a19-1.png) icon next to Settings, and select **Solutions**.
+1. Click the ![](assets/image2015-5-13-15-3a49-3a19-1.png) icon next to Settings, and select **[!UICONTROL Solutions]**.
 
    ![](assets/eighteen.png)
 
-1. Click the **Publish All Customizations** button.
+1. Click the **[!UICONTROL Publish All Customizations]** button.
 
    ![](assets/nineteen.png)
 
