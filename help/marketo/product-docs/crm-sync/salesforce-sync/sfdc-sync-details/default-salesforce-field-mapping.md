@@ -7,7 +7,7 @@ feature: Salesforce Integration
 ---
 # Default Salesforce Field Mapping {#default-salesforce-field-mapping}
 
-When you initially sync your Marketo account with Salesforce, Marketo automatically makes these associations between your built-in Salesforce and Marketo fields. Marketo will also sync your custom fields on your Leads, Accounts, Opportunities, and Contacts.
+When you initially sync your Marketo Engage account with Salesforce, Marketo automatically makes these associations between your built-in Salesforce and Marketo fields. Marketo will also sync your custom fields on your Leads, Accounts, Opportunities, and Contacts.
 
 ## Lead Fields {#lead-fields}
 

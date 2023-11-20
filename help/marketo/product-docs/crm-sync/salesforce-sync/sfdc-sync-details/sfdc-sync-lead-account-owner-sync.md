@@ -9,7 +9,7 @@ feature: Salesforce Integration
 
 These are technically syncing the "user" table in Salesforce, however we will refer to it as Lead/Account Owner fields.
 
-## Which fields will sync to Marketo? {#which-fields-will-sync-to-marketo}
+## Which fields will sync to Marketo Engage? {#which-fields-will-sync-to-marketo-engage}
 
 For each person synced to Marketo, we also sync the following owner fields:
 
@@ -27,11 +27,11 @@ For each contact, we sync the above five lead owner fields as well as these acco
 
 ## Can I change the lead owner in Marketo? {#can-i-change-the-lead-owner-in-marketo}
 
-Absolutely, just use the [Change Owner](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md) flow action.
+Absolutely, just use the [Change Owner](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"} flow action.
 
 >[!NOTE]
 >
->You cannot change the owner information using the [Using the Person Detail Page](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+>You cannot change the owner information using the [Using the Person Detail Page](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
 
 ## What can I do with this data? {#what-can-i-do-with-this-data}
 
@@ -40,6 +40,6 @@ There are lots of reasons to use this data such as
 * Send a personalized email with signature from the sales owner
 * Filter on specific sales reps for marketing or even analyzing effectiveness
 * Assignment (and re-assignment) rules in Marketo
-* Use them in the [Change Owner](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md), [Sync Person to SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md), and [Create Task](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) flow actions
+* Use them in the [Change Owner](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [Sync Person to SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}, and [Create Task](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flow actions
 
 Marketo sure has an awesome Salesforce sync. No one else does it so well!

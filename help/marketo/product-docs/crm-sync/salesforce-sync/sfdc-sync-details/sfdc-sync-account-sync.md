@@ -7,7 +7,7 @@ feature: Salesforce Integration
 ---
 # SFDC Sync: Account Sync {#sfdc-sync-account-sync}
 
-Marketo also syncs your account information with Salesforce. Here's a few specific things you should know!
+Marketo Engage also syncs your account information with Salesforce. Here's a few specific things you should know!
 
 ## Which way does the information sync? {#which-way-does-the-information-sync}
 
@@ -23,7 +23,7 @@ No. An Account can have many contacts, a contact can have only one account.
 
 ## Can I create Accounts from Marketo? {#can-i-create-accounts-from-marketo}
 
-Mostly, no. However, if you use the [Convert Person](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) flow step on a person, it will create a new Contact, a new Account, and a new Opportunity.
+Mostly, no. However, if you use the [Convert Person](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"} flow step on a person, it will create a new Contact, a new Account, and a new Opportunity.
 
 >[!CAUTION]
 >

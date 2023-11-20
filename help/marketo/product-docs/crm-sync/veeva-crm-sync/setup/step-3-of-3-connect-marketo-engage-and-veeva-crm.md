@@ -19,7 +19,7 @@ In this article, you'll configure Marketo Engage to sync with your configured Ve
 
 ## Connect to Veeva CRM using OAuth {#connect-to-veeva-crm-using-oauth}
 
-1. In Marketo, Click **Admin**. Select **CRM** and click **Sync with Veeva**.
+1. In Marketo, Click **[!UICONTROL Admin]**. Select **[!UICONTROL CRM]** and click **[!UICONTROL Sync with Veeva]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-1.png)
 
@@ -27,7 +27,7 @@ In this article, you'll configure Marketo Engage to sync with your configured Ve
    >
    >Be sure to [hide all fields you don't need](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} in Marketo from the sync user before clicking Sync Fields. Once you click Sync Fields all fields the user can see will be created in Marketo permanently and cannot be deleted.
 
-1. Click **Login with Veeva**.
+1. Click **[!UICONTROL Login with Veeva]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-2.png)
 
@@ -35,29 +35,29 @@ In this article, you'll configure Marketo Engage to sync with your configured Ve
    >
    >Check Sandbox if you're syncing a Marketo Sandbox to a Veeva CRM Sandbox.
 
-1. Click **Confirm Credentials**.
+1. Click **[!UICONTROL Confirm Credentials]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-3.png)
 
-1. A pop-up with the Salesforce login page will show up. Enter your “Marketo Sync User” credentials and click **Log In**.
+1. A pop-up with the Salesforce login page will show up. Enter your "Marketo Sync User" credentials and click **[!UICONTROL Log In]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-4.png)
 
-1. Enter the verification code you received via email (sent by Salesforce) and click **Verify**.
+1. Enter the verification code you received via email (sent by Salesforce) and click **[!UICONTROL Verify]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-5.png)
 
-1. Upon successful verification, the access page will show up requesting access. Click **Allow**.
+1. Upon successful verification, the access page will show up requesting access. Click **[!UICONTROL Allow]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-6.png)
 
-1. In a few minutes, a pop-up will appear in Marketo Engae. Click **Confirm Credentials**.
+1. In a few minutes, a pop-up will appear in Marketo Engae. Click **[!UICONTROL Confirm Credentials]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-7.png)
 
 ## Start Veeva Sync {#start-veeva-sync}
 
-1. Click **Start Veeva Sync** to begin the persistent Marketo-Veeva CRM sync.
+1. Click **[!UICONTROL Start Veeva Sync]** to begin the persistent Marketo-Veeva CRM sync.
 
    ![](assets/step-3-of-3-connect-marketo-engage-8.png)
 
@@ -65,7 +65,7 @@ In this article, you'll configure Marketo Engage to sync with your configured Ve
    >
    >Marketo will not automatically de-dupe against a Veeva CRM sync, or when you manually enter leads.
 
-1. Click **Start Sync**.
+1. Click **[!UICONTROL Start Sync]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-9.png)
 
@@ -77,7 +77,7 @@ In this article, you'll configure Marketo Engage to sync with your configured Ve
 
 Marketo provides status messages for the Veeva CRM sync in the Admin area. You can verify the sync is working correctly by following these steps.
 
-1. In Marketo, click **Admin**, then **Veeva**.
+1. In Marketo, click **[!UICONTROL Admin]**, then **[!UICONTROL Veeva]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-10.png)
 

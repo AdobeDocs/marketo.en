@@ -20,21 +20,21 @@ In this article, you'll customize field permissions with a Veeva CRM Page Layout
 
 Following these steps will allow the Marketo sync user to update the custom fields.
 
-1. Click on the Account (Person account) page layouts in the Nav search bar without pressing Enter, and click Page Layout under Contacts.
+1. Click on the Account (Person account) page layouts in the Nav search bar without pressing Enter, and click **[!UICONTROL Page Layout]** under Contacts.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-1.png)
 
-1. Click **Page Layouts**.
+1. Click **[!UICONTROL Page Layouts]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-2.png)
 
-1. Click **HCP - Professional**.
+1. Click **[!UICONTROL HCP - Professional]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-3.png)
 
-1. Click and drag a new **Section** into the page layout.
+1. Click and drag a new **[!UICONTROL Section]** into the page layout.
 
-1. Enter “Marketo” for Section Name and click **OK**.
+1. Enter "Marketo" for Section Name and click **[!UICONTROL OK]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-4.png)
 
@@ -60,39 +60,39 @@ Following these steps will allow the Marketo sync user to update the custom fiel
    >
    >Create two columns for the fields by dragging down to the right side of the page. You can move fields from one side to the other to balance the column lengths.
 
-1. When you're done with the HCP-Professional Layout, click **Save**.
+1. When you're done with the HCP-Professional Layout, click **[!UICONTROL Save]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-6.png)
 
->[!NOTE]
->
->Repeat this for other Account page Layouts.
+   >[!NOTE]
+   >
+   >Repeat this for other Account page Layouts.
 
 ## Create a Profile {#create-a-profile}
 
-1. Click **Setup**.
+1. Click **[!UICONTROL Setup]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-7.png)
 
-1. Type “profiles” into the Nav search bar and click the **Profiles** link.
+1. Type "profiles" into the Nav search bar and click the **[!UICONTROL Profiles]** link.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-8.png)
 
-1. Click **New**.
+1. Click **[!UICONTROL New]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-9.png)
 
-1. Select Standard User, name the profile “Marketo-Salesforce Sync” and click **Save**.
+1. Select Standard User, name the profile "Marketo-Salesforce Sync" and click **[!UICONTROL Save]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-10.png)
 
 ## Set Profile Permissions {#set-profile-permissions}
 
-1. Click **Edit** to set the security permissions.
+1. Click **[!UICONTROL Edit]** to set the security permissions.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-11.png)
 
-1. Under the Administrative Permissions section, make sure API Enabled is selected.
+1. Under the Administrative Permissions section, make sure **[!UICONTROL API Enabled]** is selected.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-12.png)
 
@@ -100,19 +100,19 @@ Following these steps will allow the Marketo sync user to update the custom fiel
    >
    >Be sure to check the Password Never Expires box.
 
-1. Under the General User Permissions section, make sure Edit Events and Edit Tasks are selected.
+1. Under the General User Permissions section, make sure **[!UICONTROL Edit Events]** and **[!UICONTROL Edit Tasks]** are selected.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 
-1. Under the Standard Object Permissions section, make sure that Read, Create, Edit, and Delete permissions are checked for Accounts and Contacts.
+1. Under the Standard Object Permissions section, make sure that **[!UICONTROL Read]**, **[!UICONTROL Create]**, **[!UICONTROL Edit]**, and **[!UICONTROL Delete]** permissions are checked for Accounts and Contacts.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-14.png)
 
-1. Under the Custom Object Permissions section, make sure that Read permissions are checked for Call, Call Key Message, and any other desired Custom Objects.
+1. Under the Custom Object Permissions section, make sure that Read permissions are checked for **[!UICONTROL Call]**, **[!UICONTROL Call Key Message]**, and any other desired Custom Objects.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-15.png)
 
-1. When finished, click **Save** at the bottom of the page.
+1. When finished, click **[!UICONTROL Save]** at the bottom of the page.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-16.png)
 
@@ -120,31 +120,31 @@ Following these steps will allow the Marketo sync user to update the custom fiel
 
 1. Discuss with your marketers to find out what custom fields are necessary to sync.
 
->[!NOTE]
->
->This step will prevent fields you don’t need from showing up in Marketo, which will reduce clutter and speed up sync.
+   >[!NOTE]
+   >
+   >This step will prevent fields you don't need from showing up in Marketo, which will reduce clutter and speed up sync.
 
-1. In the profile detail page, go to Field-Level Security section. Click View to edit the accessibility for the Contact and Account objects.
+1. In the profile detail page, go to [!UICONTROL Field-Level Security] section. Click **[!UICONTROL View]** to edit the accessibility for the Contact and Account objects.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-17.png)
 
->[!TIP]
->
->You may configure other objects according to your organization’s needs.
+   >[!TIP]
+   >
+   >You may configure other objects according to your organization's needs.
 
-1. For each object, click **Edit**.
+1. For each object, click **[!UICONTROL Edit]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-Locate the unnecessary fields, make sure that Read Access and Edit Access are **un**checked. Click **Save** when done.
+1. Locate the unnecessary fields, make sure that Read Access and Edit Access are _unchecked_. Click **[!UICONTROL Save]** when done.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
->[!NOTE]
->
->Only edit the accessibility for the custom fields.
+   >[!NOTE]
+   >
+   >Only edit the accessibility for the custom fields.
 
-1. After you finish disabling all unnecessary fields, check Read Access and Edit Access for the following object fields. Click Save when done.
+1. After you finish disabling all unnecessary fields, check Read Access and Edit Access for the following object fields. Click **[!UICONTROL Save]** when done.
 
 <table>
  <tbody>
@@ -175,15 +175,15 @@ Marketo requires credentials to access Veeva CRM. This is best done with a dedic
 >
 >If your organization has no additional Veeva CRM licenses, you can use an existing Marketing user with the System Administrator profile.
 
-1. Enter “users” in the Nav search bar, and click **Users** under Manage Users.
+1. Enter "users" in the Nav search bar, and click **[!UICONTROL Users]** under Manage Users.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-20.png)
 
-1. Click **New User**.
+1. Click **[!UICONTROL New User]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-21.png)
 
-1. Fill in the required fields, select the User License: Salesforce, set the Profile: Marketo Sync User and click **Save**.
+1. Fill in the required fields, select the User License: Salesforce, set the Profile: Marketo Sync User and click **[!UICONTROL Save]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-22.png)
 
@@ -191,7 +191,7 @@ Marketo requires credentials to access Veeva CRM. This is best done with a dedic
 >
 >Make sure the email address you enter is valid. You will need to log in as the sync user to reset the password.
 
-Excellent! Now you have an account that Marketo Engage can use to connect to Veeva CRM. Let’s do it.
+Excellent! Now you have an account that Marketo Engage can use to connect to Veeva CRM. Let's do it.
 
 >[!MORELIKETHIS]
 >
