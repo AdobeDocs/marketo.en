@@ -7,27 +7,27 @@ feature: Salesforce Integration
 ---
 # Enable/Disable Custom Object Sync {#enable-disable-custom-object-sync}
 
-Custom Objects created in your Salesforce instance can be part of Marketo too. Here's how to set it up.
+Custom Objects created in your Salesforce instance can be part of Marketo Engage, too. Here's how to set it up.
 
 ## Enable/Disable Custom Object Sync {#enable-disable-custom-object-sync-1}
 
 >[!NOTE]
 >
->Admin rights required.
+>**Admin permissions required**
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. In the Database Management menu, click **Salesforce Objects Sync**.
+1. In the Database Management menu, click **[!UICONTROL Salesforce Objects Sync]**.
 
    ![](assets/two-2.png)
 
-1. If this is your first Custom Object, click **Sync schema.** Otherwise click **Refresh Schema** to ensure you have the latest.
+1. If this is your first Custom Object, click **[!UICONTROL Sync schema]**. Otherwise click **[!UICONTROL Refresh Schema]** to ensure you have the latest.
 
    ![](assets/image2014-12-10-10-3a14-3a44.png)
 
-1. If your global sync is running you will have to disable it by clicking **Disable Global Sync.**
+1. If your global sync is running you will have to disable it by clicking **[!UICONTROL Disable Global Sync]**.
 
    ![](assets/image2014-12-10-10-3a14-3a54.png)
 
@@ -35,11 +35,11 @@ Custom Objects created in your Salesforce instance can be part of Marketo too. H
    >
    >A sync of the Salesforce custom object schema may take a few minutes.
 
-1. Click **Refresh Schema**.
+1. Click **[!UICONTROL Refresh Schema]**.
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 
-1. Select the object you wish to sync and click **Enable Sync**.
+1. Select the object you wish to sync and click **[!UICONTROL Enable Sync]**.
 
    >[!TIP]
    >
@@ -47,11 +47,11 @@ Custom Objects created in your Salesforce instance can be part of Marketo too. H
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. Click **Enable Sync** again.
+1. Click **[!UICONTROL Enable Sync]** again.
 
    ![](assets/image2014-12-10-10-3a15-3a40.png)
 
-1. Go back to the **Salesforce** tab and click **Enable Sync**.
+1. Go back to the **[!DNL Salesforce]** tab and click **[!UICONTROL Enable Sync]**.
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
@@ -59,9 +59,9 @@ Custom Objects created in your Salesforce instance can be part of Marketo too. H
 
 >[!NOTE]
 >
->You cannot use custom objects in smart campaigns with triggers.
+>You cannot use custom objects in Smart Campaigns with triggers.
 
-1. In your smart list, drag over the **Has Opportunity** filter and set to **true**.
+1. In your Smart List, drag over the **[!UICONTROL Has Opportunity]** filter and set to **[!UICONTROL true]**.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
@@ -69,8 +69,8 @@ Custom Objects created in your Salesforce instance can be part of Marketo too. H
 
    ![](assets/image2015-8-24-14-3a18-3a53.png)
 
-   Excellent! You can now use this custom object's data in smart campaigns and smart lists.
+   Excellent! You can now use this custom object's data in Smart Campaigns and Smart Lists.
 
 >[!MORELIKETHIS]
 >
->[Add/Remove Custom Object Field as Smart List/Trigger Constraints](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+>[Add/Remove Custom Object Field as Smart List/Trigger Constraints](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
