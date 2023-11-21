@@ -18,7 +18,7 @@ The Dynamic Chat JavaScript snippet can be installed on any website as well as M
 
 **Does Dynamic Chat support any languages besides English?**
 
-Yes. Dynamic Chat supports the following languages: French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese. Learn more in [Changing the Language](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
+Yes. Dynamic Chat supports the following languages: French, Spanish, German, Japanese, Dutch, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese. Learn more in [Changing the Language](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **Do you support AI/NLP functionality?**
 
