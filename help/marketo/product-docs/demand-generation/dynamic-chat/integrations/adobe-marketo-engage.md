@@ -10,6 +10,10 @@ exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
 
 After you've completed the [initial setup](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"}, it's time to perform the one-time sync connecting Dynamic Chat to your Adobe Marketo Engage subscription.
 
+>[!NOTE]
+>
+>Dynamic Chat supports syncing of [Marketo native](https://developers.marketo.com/rest-api/lead-database/fields/list-of-standard-fields/){target="_blank"} and custom person/company fields.
+
 1. In My Marketo, click the **Dynamic Chat** tile.
 
    ![](assets/adobe-marketo-engage-1.png)
