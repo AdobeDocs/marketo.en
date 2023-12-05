@@ -11,7 +11,7 @@ After you [create a Vibes SMS message](/help/marketo/product-docs/mobile-marketi
 
 1. In My Marketo, click **Marketing Activities**.
 
-   ![](assets/image2016-7-28-9-3a48-3a32.png)
+   ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
 1. Choose a smart campaign in which you want to use your SMS asset. Drag over a trigger, such as the popular **Fills Out Form**.
 

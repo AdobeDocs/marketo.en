@@ -7,7 +7,7 @@ feature: Microsoft Dynamics
 ---
 # Create a Custom Dynamics Sync Filter {#create-a-custom-dynamics-sync-filter}
 
-Don't want to sync everything in your Dynamics CRM into Marketo? Don't worry! Marketo allows you to set up a sync filter and sync only part of your records.
+Don't want to sync everything in your Dynamics CRM into Marketo Engage? Don't worry! Marketo allows you to set up a sync filter and sync only part of your records.
 
 ## Overview {#overview}
 
@@ -20,7 +20,7 @@ You must make these changes in Dynamics CRM, not your database or Marketo.
 
 >[!CAUTION]
 >
->If you don't assign the field and leave it blank/NULL, it will sync down but not update. 
+>If you don't assign the field and leave it blank/NULL, it will sync down but not update. Records with a field value of blank/NULL in Dynamics CRM will show this field value in Marketo as "false".
 
 Marketo looks for this field during the automatic background sync and determines which records to sync over based on this logic:
 

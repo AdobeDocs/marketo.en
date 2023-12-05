@@ -11,7 +11,7 @@ Here's how to create a Vibes SMS message.
 
 >[!AVAILABILITY]
 >
->This feature is available as an add-on for your Adobe Marketo Engage Account. In order for it to be provisioned properly, it must purchased through Adobe. Please contact the Adobe Account Team (your Account Manager) for details.
+>This feature is available as an add-on for your Adobe Marketo Engage Account. In order for it to be provisioned properly, it must be purchased through Adobe. Please contact the Adobe Account Team (your Account Manager) for details.
 
 >[!NOTE]
 >

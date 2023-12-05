@@ -47,7 +47,7 @@ Here's how to create a Vibes SMS message.
 
    >[!NOTE]
    >
-   >US and Canada limits are different, at 160 and 130 characters respectively. If you exceed these character limits, your message could be split. While we show when you exceed the Canadian limit, the editor is optimized for US and splits the message based on the US limit.
+   >The character limit for an SMS message is 160 characters using the standard ASCII character set. If you exceed 160 characters, your message will be split based on total character count.
 
 1. Click **Token** in the Insert menu to add a token to your message.
 
@@ -55,7 +55,13 @@ Here's how to create a Vibes SMS message.
 
    >[!NOTE]
    >
-   >Adding a token may cause the message to exceed the character limit. The message then will split, resulting in additional charges.
+   >Adding a token may cause the message to exceed the character limit. The message then will split, resulting in additional messages.
+
+   >[!IMPORTANT]
+   >
+   >SMS Compliance: All outbound SMS messages must include the Brand Name or Program description. HELP and STOP instructions should be provided at least once per month per subscriber for recurring message programs.
+
+   ?????? Using the Marketo URL shortener will result in X characters being used in your message ??????
 
 1. Click **Link** in the Insert menu to add a link to your message.
 
@@ -67,11 +73,16 @@ Here's how to create a Vibes SMS message.
 
    >[!NOTE]
    >
-   >The two tracking links are selected by default.
+   >* The two tracking links are selected by default.
+   >* Using the Marketo URL shortener will result in X characters being used in your message.??????????????????
 
 1. If you want to use an external URL instead, click the **External URL** button and enter the URL in the URL field. Click **Insert**.
 
    ![](assets/insert-link-url-hands.jpg)
+
+   >[!CAUTION]
+   >
+   >It is recommended to _not_ use URL shorteners (e.g., Bitly), as the carriers may flag your message as spam. 
 
 1. The link displays in the message.
 
@@ -88,3 +99,5 @@ Here's how to create a Vibes SMS message.
    >Character count reflects only the characters contained in the lowest message.
 
 If you insert more than the US limit, the editor breaks your message into sections. There is an absolute total limit of 900 characters. After reaching that limit, the message will be automatically truncated when it's sent to its audience.
+
+US LIMIT????????

@@ -26,7 +26,7 @@ Here are the basics for using SMS.
 
 1. In My Marketo, click **Marketing Activities**.
 
-   ![](assets/image2016-7-28-11-3a41-3a17.png)
+   ![](assets/add-a-flow-step-for-sms-1.png)
 
 1. Find the smart campaign you want to add the SMS flow to. Click the **Flow** tab.
 
