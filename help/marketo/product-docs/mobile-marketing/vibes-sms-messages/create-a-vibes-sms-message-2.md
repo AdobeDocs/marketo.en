@@ -13,72 +13,65 @@ Here's how to create a Vibes SMS message.
 >
 >This feature is available as an add-on for your Adobe Marketo Engage Account. In order for it to be provisioned properly, it must be purchased through Adobe. Please contact the Adobe Account Team (your Account Manager) for details.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/mobile-right-click-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-1.png)
 
-1. Right-click on a program and select **New Local Asset**.
+1. Right-click on the desired program and select **[!UICONTROL New Local Asset]**.
 
-   ![](assets/mobile-right-click-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-2.png)
 
-1. Click **New Local Asset**.
+1. Select **SMS Message**.
 
-   ![](assets/new-local-asset-hand.jpg)
-
-   >[!TIP]
-   >
-   >Alternatively, you can click the **New** drop-down.
-
-1. Click **SMS Message**.
-
-   ![](assets/new-local-asset-selection-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-3.png)
 
 1. Enter a name and an optional description for the new SMS message and click **Create**.
 
-   ![](assets/new-sms-message-offer-ends-soon-hands.jpg)
+   ![](assets/create-a-vibes-sms-message-4.png)
 
-1. Click **Edit Draft**.
+1. In the editor, click inside the blue bubble and begin entering text.
 
-   ![](assets/edit-draft-hand.jpg)
-
-1. In the message editor, click inside the blue bubble and begin entering text.
-
-   ![](assets/message-text-pencil.jpg)
+   ![](assets/create-a-vibes-sms-message-5.png)
 
    >[!NOTE]
    >
    >The character limit for an SMS message is 160 characters using the standard ASCII character set. If you exceed 160 characters, your message will be split based on total character count.
 
-1. Click **Token** in the Insert menu to add a token to your message.
+1. To add a token in your message, write a quick greeting and click **Token**.
 
-   ![](assets/add-token-real-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-6.png)
 
    >[!NOTE]
    >
-   >Adding a token may cause the message to exceed the character limit. The message then will split, resulting in additional messages.
+   >Adding a token may cause the message to exceed the character limit. The message would then split, creating an additional message.
 
    >[!IMPORTANT]
    >
    >SMS Compliance: All outbound SMS messages must include the Brand Name or Program description. HELP and STOP instructions should be provided at least once per month per subscriber for recurring message programs.
 
-   ?????? Using the Marketo URL shortener will result in X characters being used in your message ??????
+1. Select the desired **Token**, enter an optional **Default Value**, and click **Create**.
 
-1. Click **Link** in the Insert menu to add a link to your message.
+   ![](assets/create-a-vibes-sms-message-7.png)
 
-   ![](assets/full-message-link-hand.jpg)
+1. To add a link, select where in the message you want it to appear and click **Link**.
 
-1. Select a link type. Marketo Landing Page is the default. If you go with that, you need to select the landing page from the drop-down and click **Insert**.
+   ![](assets/create-a-vibes-sms-message-8.png)
 
-   ![](assets/insert-link-real-hands.jpg)
+1. Select a link type. Marketo Landing Page is the default. If you go with that, click the Landing Page drop-down and select the desired page. Click **Insert** when done.
+
+   ![](assets/create-a-vibes-sms-message-9.png)
 
    >[!NOTE]
    >
-   >* The two tracking links are selected by default.
-   >* Using the Marketo URL shortener will result in X characters being used in your message.??????????????????
+   >The two tracking links are selected by default. Unchecking just Include mkt_tok will still allow the link to be tracked, but after redirect, the destination URL will not include the mkt_tok query string parameter. This parameter is used by Marketo Landing Pages and Munchkin to ensure proper tracking of person activities (like when a person opts out).
 
-1. If you want to use an external URL instead, click the **External URL** button and enter the URL in the URL field. Click **Insert**.
+1. If you want to use an external URL instead, select **External URL**, enter/paste the URL, and click **Insert**.
 
-   ![](assets/insert-link-url-hands.jpg)
+   ![](assets/create-a-vibes-sms-message-10.png)
+
+   >[!NOTE]
+   >
+   >When keeping "Track Link" selected, Marketo will automatically modify the URL for tracking purposes. If you opt to disable tracking, the URL will show in the message unchanged (e.g., `www.adobe.com`).
 
    >[!CAUTION]
    >
@@ -86,18 +79,10 @@ Here's how to create a Vibes SMS message.
 
 1. The link displays in the message.
 
-   ![](assets/link-added.jpg)
+   ![](assets/create-a-vibes-sms-message-11.png)
 
    >[!NOTE]
    >
-   >Marketo displays a link preview of the branded tracking domain. If you clear the mkt_tok link checkbox, the link is changed. Clear the Track Link checkbox too and the URL will be shortened to its basic length (for example, www.mygooglepage.com).
+   >Marketo displays a link preview of the branded tracking domain. If you clear the mkt_tok link checkbox, the link is changed. 
 
-   ![](assets/image2016-7-27-16-3a20-3a16.png)
-
-   >[!NOTE]
-   >
-   >Character count reflects only the characters contained in the lowest message.
-
-If you insert more than the US limit, the editor breaks your message into sections. There is an absolute total limit of 900 characters. After reaching that limit, the message will be automatically truncated when it's sent to its audience.
-
-US LIMIT????????
+If you insert more than 160 characters, the editor breaks your SMS into sections. There is an overall limit of 900 characters per message. If you exceed that, the message will be truncated upon delivery.

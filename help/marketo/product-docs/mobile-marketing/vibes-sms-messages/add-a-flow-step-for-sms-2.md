@@ -7,11 +7,25 @@ feature: Mobile Marketing
 ---
 # Add a Flow Step for SMS {#add-a-flow-step-for-sms}
 
-Marketo Engage has three flow steps you can use in your SMS Smart Campaigns:
+Marketo Engage has three Flow Steps you can use in your SMS Smart Campaigns:
 
-* **Send SMS Message** - This flow action sends messages to people from the Marketo Smart List that are subscribed to a user opted-in Vibes subscription list. It does not initiate the subscription process.
-* **Subscribe to Vibes List** - This flow action initiates the SMS subscription process via a user-selected Vibes Acquisition Campaign. Vibes then sends a confirmation message; the recipient must reply "Y" to it to confirm opt-in within 24 hours. Once the user has opted in, they will become a member of your associated Vibes subscription list. 
-* **Unsubscribe from Vibes List** - This flow action unsubscribes each person from a user opted-in Vibes subscription list. When a user texts "stop" to your code, their person record is updated to reflect they're no longer a member of the Vibes Subscription list.
+<table>
+<tbody>
+  <tr>
+    <td style="width:25%">Send SMS Message</td>
+    <td>This flow action sends messages to people from the Marketo Smart List that are subscribed to a user opted-in Vibes subscription list. It does not initiate the subscription process. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">Learn more</a>.</td>
+  </tr>
+
+  <tr>
+    <td style="width:25%">Subscribe to Vibes List</td>
+    <td>This flow action initiates the SMS subscription process via a user-selected Vibes acquisition campaign. Vibes then sends a confirmation message, and the recipient must reply to it with "Y" within 24 hours to confirm opt-in. Once the user has opted in, they will become a member of your associated Vibes subscription list.</td>
+  </tr>
+  <tr>
+    <td style="width:25%">Unsubscribe from Vibes List</td>
+    <td>This flow action unsubscribes each person from a user opted-in Vibes subscription list. When a user texts "STOP" to your code, their person record is updated to reflect they're no longer a member of the Vibes Subscription list.</td>
+  </tr>
+  </tbody>
+</table>
 
 >[!NOTE]
 >
