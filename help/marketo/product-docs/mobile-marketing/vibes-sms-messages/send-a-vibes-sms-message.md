@@ -71,5 +71,5 @@ You've [created your Vibes SMS message](/help/marketo/product-docs/mobile-market
 >[!MORELIKETHIS]
 >
 >* [Create a Vibes Message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
->* [Vibes Flow Steps]()
+>* Vibes Flow Steps
 
