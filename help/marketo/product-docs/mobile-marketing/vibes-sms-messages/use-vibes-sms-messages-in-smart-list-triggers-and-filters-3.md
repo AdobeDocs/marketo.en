@@ -9,7 +9,7 @@ feature: Mobile Marketing
 
 NEW DOC
 
-After you [create a Vibes SMS message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}, you'll want to use Smart List triggers and filters within a Smart Campaign to get the benefits. Here's how.
+After you [create an SMS message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, you'll want to use Smart List triggers and filters within a Smart Campaign to get the benefits. Here's how.
 
 1. In My Marketo, click **Marketing Activities**.
 
