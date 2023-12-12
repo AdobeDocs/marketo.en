@@ -5,7 +5,7 @@ hide: yes
 hidefromtoc: yes
 feature: Mobile Marketing
 ---
-## SMS Glossary {#sms-glossary}
+# SMS Glossary {#sms-glossary}
 
 Below are common terms you'll encounter when using Vibes SMS messages with Marketo Engage.
 
