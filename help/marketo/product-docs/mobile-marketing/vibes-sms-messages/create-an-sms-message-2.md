@@ -1,37 +1,41 @@
 ---
-description: Create a Vibes SMS Message - Marketo Docs - Product Documentation
-title: Create a Vibes SMS Message
+description: Create an SMS Message - Marketo Docs - Product Documentation
+title: Create an SMS Message
 hide: yes
 hidefromtoc: yes
 feature: Mobile Marketing
 ---
-# Create a Vibes SMS Message {#create-a-vibes-sms-message}
+# Create an SMS Message {#create-an-sms-message}
 
-Here's how to create a Vibes SMS message.
+Here's how to create an SMS message.
 
 >[!AVAILABILITY]
 >
 >This feature is available as an add-on for your Adobe Marketo Engage Account. In order for it to be provisioned properly, it must be purchased through Adobe. Please contact the Adobe Account Team (your Account Manager) for details.
 
+>[!PREREQUISITES]
+>
+>[Add Vibes as a LaunchPoint Service](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
+
 1. Go to **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/create-a-vibes-sms-message-1.png)
+   ![](assets/create-an-sms-message-1.png)
 
 1. Right-click on the desired program and select **[!UICONTROL New Local Asset]**.
 
-   ![](assets/create-a-vibes-sms-message-2.png)
+   ![](assets/create-an-sms-message-2.png)
 
 1. Select **SMS Message**.
 
-   ![](assets/create-a-vibes-sms-message-3.png)
+   ![](assets/create-an-sms-message-3.png)
 
 1. Enter a name and an optional description for the new SMS message and click **Create**.
 
-   ![](assets/create-a-vibes-sms-message-4.png)
+   ![](assets/create-an-sms-message-4.png)
 
 1. In the editor, click inside the blue bubble and begin entering text.
 
-   ![](assets/create-a-vibes-sms-message-5.png)
+   ![](assets/create-an-sms-message-5.png)
 
    >[!NOTE]
    >
@@ -39,7 +43,7 @@ Here's how to create a Vibes SMS message.
 
 1. To add a token in your message, write a quick greeting and click **Token**.
 
-   ![](assets/create-a-vibes-sms-message-6.png)
+   ![](assets/create-an-sms-message-6.png)
 
    >[!NOTE]
    >
@@ -51,15 +55,15 @@ Here's how to create a Vibes SMS message.
 
 1. Select the desired **Token**, enter an optional **Default Value**, and click **Create**.
 
-   ![](assets/create-a-vibes-sms-message-7.png)
+   ![](assets/create-an-sms-message-7.png)
 
 1. To add a link, select where in the message you want it to appear and click **Link**.
 
-   ![](assets/create-a-vibes-sms-message-8.png)
+   ![](assets/create-an-sms-message-8.png)
 
 1. Select a link type. Marketo Landing Page is the default. If you go with that, click the Landing Page drop-down and select the desired page. Click **Insert** when done.
 
-   ![](assets/create-a-vibes-sms-message-9.png)
+   ![](assets/create-an-sms-message-9.png)
 
    >[!NOTE]
    >
@@ -67,7 +71,7 @@ Here's how to create a Vibes SMS message.
 
 1. If you want to use an external URL instead, select **External URL**, enter/paste the URL, and click **Insert**.
 
-   ![](assets/create-a-vibes-sms-message-10.png)
+   ![](assets/create-an-sms-message-10.png)
 
    >[!NOTE]
    >
@@ -79,7 +83,7 @@ Here's how to create a Vibes SMS message.
 
 1. The link displays in the message.
 
-   ![](assets/create-a-vibes-sms-message-11.png)
+   ![](assets/create-an-sms-message-11.png)
 
    >[!NOTE]
    >
