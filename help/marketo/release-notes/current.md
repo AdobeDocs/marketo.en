@@ -4,9 +4,9 @@ title: Current Release Notes
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 ---
-# Release Notes: October 2023 {#release-notes-oct-23}
+# Release Notes: January 2024 {#release-notes-jan-24}
 
-Below you'll find all the features included in the October '23 release. Check your Adobe Marketo Engage edition for feature availability.
+Below you'll find all the features included in the January '24 release. Check your Adobe Marketo Engage edition for feature availability.
 
 >[!AVAILABILITY]
 >
@@ -14,7 +14,7 @@ Below you'll find all the features included in the October '23 release. Check yo
 
 ## Standard Release Cycle Features {#standard-release-cycle-features}
 
-The following features fall under the standard release cycle and will start to be released on **October 6, 2023**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
+The following features fall under the standard release cycle and will start to be released on **January 12, 2024**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -23,10 +23,11 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:10%">Status</th>
    <th style="width:25%">Documention</th>
   </tr> 
-  <tr> 
-   <td><strong>New Design for Report Configuration in Modern UX</strong>: When setting up a report asset, you will have a <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">new asset tree</a> in the configuration menu as well as the ability to filter on date created and modified.</td> 
-   <td>Shipped</td>
-   <td>n/a</td>
+  </tr>
+    <tr> 
+   <td><strong>On-Demand Webinars for Interactive Webinars</strong>: On-Demand Webinars allows you to publish the webinar recording as well as track its visits/watches. This will help you obtain more leads through registrants who did not attend the webinar (no-show) but are still interested in finding out more details and viewing the recording.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
   </tr>
    <tr> 
    <td>&nbsp;</td> 
@@ -34,10 +35,11 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   </tr>
-   <tr> 
-   <td><strong>Compute Formula Flow Step Service</strong>: Compute Formula is a Flow Step service built on Adobe's IO Runtime platform for use with Marketo Engage Smart Campaigns. Those with IO runtime can deploy the service and install it to their Marketo Engage subscriptions, allowing them to compute Excel-like formulas in Marketo Engage Smart Campaigns.</td> 
-   <td>Shipped</td>
-   <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">Compute Formula User Guide</a></td>
+  </tr>
+    <tr> 
+   <td><strong>Conversational Landing Pages</strong>: Embed a Dynamic Chat Conversational Flow directly into a Marketo Engage Landing Page so visitors can schedule a meeting through Dynamic Chat without having to fill out a form or interact with a chatbot.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
@@ -45,11 +47,108 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   </tr>
+   </tr>
+    <tr> 
+   <td><strong>Email Bot Activity Filtering</strong>: Improves capturing bot activity for email engagement by allowing you to choose how aggressive you want bot activity identification filtering to be.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+ </tbody> 
+</table>
+<br/>
+
+## Agile Release Features {#agile-release-features}
+
+All features below follow an Agile format and are released on various dates before or after the standard release date. Please check next to each feature for its status.
+
+### Sales Insight Actions {#sales-insight-actions}
+
+![(star)](assets/yellow-star.png)
+
+ <table style="border: 0px">
+ <tbody> 
+  <tr> 
+   <th style="width:65%">Feature</th> 
+   <th style="width:15%">Status</th>
+   <th style="width:20%">Documention</th>
+  </tr> 
+  </tr>
+    <tr> 
+   <td><strong>Expandable Compose Window</strong>: The compose email window will now automatically compress unused space, allowing for more room in the editor. Additionally, the window will be able to pop out and expand even further, giving users as much room as they need to make edits to their emails.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  </tbody> 
+</table>
+
+### Dynamic Chat {#dynamic-chat}
+
+ <table style="border: 0px">
+ <tbody> 
+  <tr> 
+   <th style="width:65%">Feature</th> 
+   <th style="width:15%">Status</th>
+   <th style="width:20%">Documention</th>
+  </tr> 
+  </tr>
+    <tr> 
+   <td><strong>Chatbot UI for Conversational Forms</strong>:  Website visitors can now request live chat in a Conversational Flow.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
    <tr> 
-   <td><strong>Download Recording and Assign Co-host in Interactive Webinars</strong>: You can now add an external co-host for your webinar in case the original host is unavailable. You also now have the ability to download the webinar recording.</td> 
-   <td>Shipped</td>
-   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">Download Recording</a></li>
-   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">Create an Interactive Webinar</a></li></td>
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>Chatbot Font Color Options</strong>: Customize font colors in a chatbot configuration.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>Option to Repeat Dialogue</strong>: You can now make a Dialogue restart at the beginning after a visitor has reached the end.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+    </tr>
+    <tr> 
+   <td><strong>Manual Live Chat Termination</strong>: Both visitors and agents can now manually end a live chat session.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+    </tr>
+    <tr> 
+   <td><strong>Recent Marketo Engage Activities in Agent Inbox</strong>: Recent Marketo Engage activities, such as Opened Email and Filled Out Form, will be shown for leads in the Agent Inbox.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+    <tr> 
+   <td><strong>Conditional Branching</strong>: You can now show visitors different conversation content based on predefined conditions, such as visitor location or live agent availability.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
   </tr>
  </tbody> 
 </table>
@@ -57,6 +156,6 @@ The following features fall under the standard release cycle and will start to b
 
 ## Announcements {#announcements}
  
-* **Marketo Engage Forms jQuery 1.x**: In our January 2024 release, we will be updating the jQuery for Marketo Engage Forms to jQuery 3.x. This may impact custom Form implementation relying on older versions of jQuery. [Learn more here](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705#M2597){target="_blank"}.
+* **Marketo Engage Forms jQuery 1.x**: In our January 2024 release, we'll be updating the jQuery for Marketo Engage Forms to jQuery 3.x. This may impact custom Form implementation relying on older versions of jQuery. [Learn more here](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
-* **Marketo Events and Marketo Moments Deprecation**: Adobe is [removing Marketo Events and Marketo Moments](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"} from all app stores beginning October 2, 2023. Existing users&mdash;you can continue to use these apps until you migrate your Marketo Engage instance to Adobe Identity. These apps do not support sign-in with Adobe ID.
+* **Email Verification for SSO Only Users**: SSO Only users used to be automatically verified, allowing them to use an inaccessible email account. Starting in mid-January, all existing SSO Only users will become unverified and be asked to reverify their email via a link we send to the email account. All new SSO Only users will need to verify their email addresses going forward.
