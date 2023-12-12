@@ -242,8 +242,8 @@ All features below follow an Agile format and are released on various dates befo
   </tr>
     <tr> 
    <td><strong>Conversational Flow Asset Page</strong>: The Design Studio Asset page now lists Dynamic Chat Conversational Flows. See which Flows can be integrated into Marketo Engage assets and deeplink directly to their editor.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 

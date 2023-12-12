@@ -17,6 +17,10 @@ Many times, sales reps don't have administrative privileges on their laptops, an
 >
 >Sales Insight Actions capabilities, including Send Sales Email, Add to Sales Campaign, and Tasks, are not available in the Sales Insight email plugins for Gmail and Outlook. At this time, users only have the ability to send a trackable email with or without a Marketo email template from their email client when using the Sales Insight email plugins.
 
+>[!IMPORTANT]
+>
+>Microsoft has released a [new version of Outlook for Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+
 1. In My Marketo, click **Admin** and then **Sales Insight**.
 
    ![](assets/image2016-7-25-14-3a22-3a12.png)
