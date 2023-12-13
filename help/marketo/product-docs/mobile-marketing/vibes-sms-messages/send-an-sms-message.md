@@ -7,7 +7,7 @@ feature: Mobile Marketing
 ---
 # Send an SMS Message {#send-a-vibes-sms-message}
 
-You've [created your SMS message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md), now it's time to send it. You can send it via Batch or Trigger Campaign.
+You've [created your SMS message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md), now it's time to send it. You can send it via Batch or Trigger Campaign.
 
 >[!NOTE]
 >
