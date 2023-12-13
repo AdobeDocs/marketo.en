@@ -15,6 +15,7 @@ You've [created your SMS message](/help/marketo/product-docs/mobile-marketing/vi
 >
 >* Marketo Engage de-dupes by phone number. So, if multiple people have the same phone number, only one person will receive the message if they're a member of only one Vibes Subscription list. De-duping is done at the Vibes Subscription list level, not the Marketo program level.
 >* Marketo will not send to people who are blocklisted or Marketing Suspended.
+>* An SMS message will not send to anyone unsubscribed if they're not in the Vibes Mobile Database list.
 
 ## Send a Batch SMS {#send-a-batch-sms}
 
