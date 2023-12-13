@@ -7,7 +7,7 @@ feature: Mobile Marketing
 ---
 # SMS Reporting {#sms-reporting}
 
-The SMS Message Dashboard provides useful reporting analytics on your messages.
+The SMS Message Dashboard provides useful analytics on your messages.
 
 ## Access the Dashboard {#access-the-dashboard}
 
