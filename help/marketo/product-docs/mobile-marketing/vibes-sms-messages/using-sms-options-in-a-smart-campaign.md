@@ -19,10 +19,10 @@ After you [create an SMS message](/help/marketo/product-docs/mobile-marketing/vi
 
 ## SMS Triggers {#sms-triggers}
 
-<table>
+<table style="width:600px">
   <tr>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-1.png"></td>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-2.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-1.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-2.png"></td>
   </tr>
 </table>
 
@@ -36,10 +36,10 @@ The **Clicks Link in SMS Message** trigger initiates a flow when a person clicks
 
 ## SMS Filters {#sms-filters}
 
-<table>
+<table style="width:600px">
   <tr>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-3.png"></td>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-4.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-3.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-4.png"></td>
   </tr>
 </table>
 
@@ -60,16 +60,16 @@ There are three SMS flow steps to choose from.
 <table>
 <tbody>
   <tr>
-    <td style="width:25%">Send SMS Message</td>
+    <td style="width:20%"><b>Send SMS Message</b></td>
     <td>This flow action sends messages to people from the Marketo Smart List that are subscribed to a user opted-in Vibes subscription list. It does not initiate the subscription process. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">Learn more</a>.</td>
   </tr>
 
   <tr>
-    <td style="width:25%">Subscribe to Vibes List</td>
+    <td style="width:20%"><b>Subscribe to Vibes List</b></td>
     <td>This flow action initiates the SMS subscription process via a user-selected Vibes acquisition campaign. Vibes then sends a confirmation message, and the recipient must reply to it with "Y" within 24 hours to confirm opt-in. Once the user has opted in, they will become a member of your associated Vibes subscription list.</td>
   </tr>
   <tr>
-    <td style="width:25%">Unsubscribe from Vibes List</td>
+    <td style="width:20%"><b>Unsubscribe from Vibes List</b></td>
     <td>This flow action unsubscribes each person from a user opted-in Vibes subscription list. When a user texts "STOP" to your code, their person record is updated to reflect they're no longer a member of the Vibes Subscription list.</td>
   </tr>
   </tbody>
