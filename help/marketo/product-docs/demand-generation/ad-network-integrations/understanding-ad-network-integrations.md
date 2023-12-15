@@ -30,7 +30,7 @@ Capabilities include:
 
     * For example, a person searches, sees and clicks an ad, then fills out a form online. After that, he receives a demo offline and becomes a CRM opportunity. That's where the advertiser targets him
 
-* Retargeting of website visitors, using [Web Personalization](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md), to drive them back to your website
+* Retargeting of website visitors, using [Web Personalization](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}, to drive them back to your website
 
     * Personalize by segment or vertical
 
@@ -38,11 +38,11 @@ Capabilities include:
 
 You can use integrations to:
 
-* [Add Google AdWords as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-* [Add Leads to a Custom Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
-* [Create a Custom Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [Set Up Facebook Offline Conversions](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-* [Use a Marketo List or Smart List as a LinkedIn Audience Segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+* [Add Google AdWords as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
+* [Add Leads to a Custom Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
+* [Create a Custom Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
+* [Set Up Facebook Offline Conversions](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}
+* [Use a Marketo List or Smart List as a LinkedIn Audience Segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
 
 |   |Audience Data |Lead Ingestion |Offline Conversion |
 |---|---|---|---|

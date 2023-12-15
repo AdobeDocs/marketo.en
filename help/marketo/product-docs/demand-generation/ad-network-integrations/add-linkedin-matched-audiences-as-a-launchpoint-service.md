@@ -11,25 +11,25 @@ feature: Integrations
 >
 >**Admin Permissions Required**
 
-Connect your Marketo account with LinkedIn Matched Audiences to use a Marketo static list or smart list as a LinkedIn audience segment.
+Connect your Marketo Engage account with LinkedIn Matched Audiences to use a Marketo static list or Smart List as a LinkedIn audience segment.
 
-1. Go to the **Admin** section.
+1. Go to the **[!UICONTROL Admin]** section.
 
    ![](assets/admin.png)
 
-1. Select **Launchpoint**.
+1. Select **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Select **New** and **New Service**.
+1. Select **[!UICONTROL New]** and **[!UICONTROL New Service]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Enter a **Display Name** and choose **LinkedIn Matched Audiences**. Click **Create**.
+1. Enter a **[!UICONTROL Display Name]** and choose **[!UICONTROL LinkedIn Matched Audiences]**. Click **[!UICONTROL Create]**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
-1. To connect a LinkedIn account, click **Authorize**.
+1. To connect a LinkedIn account, click **[!UICONTROL Authorize]**.
 
    ![](assets/authorizeaccount.png)
 
@@ -41,11 +41,11 @@ Connect your Marketo account with LinkedIn Matched Audiences to use a Marketo st
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
-1. Review the requested permissions, then click **Allow**.
+1. Review the requested permissions, then click **[!UICONTROL Allow]**.
 
    ![](assets/li-permissions.png)
 
-1. Your LinkedIn account is now connected to Marketo. Click **Create**.
+1. Your LinkedIn account is now connected to Marketo. Click **[!UICONTROL Create]**.
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
@@ -55,4 +55,4 @@ Connect your Marketo account with LinkedIn Matched Audiences to use a Marketo st
 
 >[!MORELIKETHIS]
 >
->[Use a Marketo List or Smart List as a LinkedIn Audience Segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[Use a Marketo List or Smart List as a LinkedIn Audience Segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}

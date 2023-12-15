@@ -7,29 +7,29 @@ feature: Integrations
 ---
 # Add Google Customer Match as a LaunchPoint Service {#add-google-customer-match-as-a-launchpoint-service}
 
-With this integration, you can send a Marketo audience to Google to be targeted using Google AdWords, as well as re-target audiences across YouTube, Search, and Gmail.
+With this integration, you can send a Marketo Engage audience to Google to be targeted using Google AdWords, as well as re-target audiences across YouTube, Search, and Gmail.
 
 >[!NOTE]
 >
 >**Admin Permissions Required**
 
-1. Go to **Admin**.
+1. Go to **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Click **LaunchPoint**.
+1. Click **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Select **New** then **New Service**.
+1. Select **[!UICONTROL New]** then **[!UICONTROL New Service]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Enter a **Display Name** and select **Google Customer Match** from the **Service** drop-down. Click **Create**.
+1. Enter a **[!UICONTROL Display Name]** and select **[!UICONTROL Google Customer Match]** from the **[!UICONTROL Service]** drop-down. Click **[!UICONTROL Create]**.
 
    ![](assets/chooseservice.png)
 
-1. To connect a Google AdWords account, click **Authorize**.
+1. To connect a Google AdWords account, click **[!UICONTROL Authorize]**.
 
    ![](assets/authorizeaccount-1.png)
 
@@ -41,11 +41,11 @@ With this integration, you can send a Marketo audience to Google to be targeted 
 
    ![](assets/chooseaccount.png)
 
-1. Review the requested permissions, then click **Allow**.
+1. Review the requested permissions, then click **[!UICONTROL Allow]**.
 
    ![](assets/reviewpermissions.png)
 
-1. Your Google AdWords account is now connected to Marketo. Click **Create**.
+1. Your Google AdWords account is now connected to Marketo. Click **[!UICONTROL Create]**.
 
    ![](assets/authorizesuccess.png)
 

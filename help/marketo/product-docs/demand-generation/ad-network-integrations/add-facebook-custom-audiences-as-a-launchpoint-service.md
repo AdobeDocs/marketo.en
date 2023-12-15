@@ -11,21 +11,21 @@ feature: Integrations
 >
 >**Admin Permissions Required**
 
-With this integration you can send audience data from Marketo static and smart lists to Facebook to be used as Custom Audiences in Facebook Ad Campaigns. Here's how to set it up.
+With this integration you can send audience data from Marketo Engage static and Smart Lists to Facebook to be used as Custom Audiences in Facebook Ad Campaigns. Here's how to set it up.
 
-1. Go to Marketo **Admin**.
+1. Go to Marketo **[!UICONTROL Admin]**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Go to **LaunchPoint**, click on **New** and select **New Service**.
+1. Go to **[!UICONTROL LaunchPoint]**, click **[!UICONTROL New]** and select **[!UICONTROL New Service]**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Enter a **Display Name** for your service and select the **Facebook Custom Audiences** service from the **Service** drop-down.
+1. Enter a **[!UICONTROL Display Name]** for your service and select the **[!UICONTROL Facebook Custom Audiences]** service from the **[!UICONTROL Service]** drop-down.
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Open a new tab in the same browser and go to [facebook.com](https://www.facebook.com/). Log in to Facebook using the account you want to use for the integration.
+1. Open a new tab in the same browser and go to [facebook.com](https://www.facebook.com/){target="_blank"}. Log in to Facebook using the account you want to use for the integration.
 
    >[!CAUTION]
    >
@@ -33,19 +33,19 @@ With this integration you can send audience data from Marketo static and smart l
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. After you're logged into Facebook, return to Marketo. Click **Authorize**.
+1. After you're logged into Facebook, return to Marketo. Click **[!UICONTROL Authorize]**.
 
    ![](assets/fb-custom-authorize-hand.png)
 
    >[!NOTE]
    >
-   >You _must_ use a Facebook Business Manager account in order for your Custom Audiences integration to work. To learn how to set up a Business Manager account, refer to [Facebook Help](https://www.facebook.com/business/help/1710077379203657).
+   >You _must_ use a Facebook Business Manager account in order for your Custom Audiences integration to work. To learn how to set up a Business Manager account, refer to [Facebook Help](https://www.facebook.com/business/help/1710077379203657){target="_blank"}.
 
-1. If prompted, click **OK** to accept the Marketo app installation into Facebook.
+1. If prompted, click **[!UICONTROL OK]** to accept the Marketo app installation into Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. You're now authorized! Select a matching mode and click **Create**.
+1. You're now authorized! Select a matching mode and click **[!UICONTROL Create]**.
 
    >[!NOTE]
    >
@@ -53,14 +53,14 @@ With this integration you can send audience data from Marketo static and smart l
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   Great job! You can now go over to any static or smart list in Marketo and send audience data over to Facebook.
+   Great job! You can now go over to any static or Smart List in Marketo and send audience data over to Facebook.
 
    >[!CAUTION]
    >
-   >Oh, before you go, be sure to [Accept Facebook's Custom Audiences Terms](https://www.facebook.com/ads/manage/customaudiences/tos.php) within your Facebook account! Without doing this, the audience updates will fail.
+   >Oh, before you go, be sure to [Accept Facebook's Custom Audiences Terms](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} within your Facebook account! Without doing this, the audience updates will fail.
 
 >[!MORELIKETHIS]
 >
->* [Create a Custom Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [Create a Custom Audience in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
 >
->* [Set Up Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>* [Set Up Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md){target="_blank"}
