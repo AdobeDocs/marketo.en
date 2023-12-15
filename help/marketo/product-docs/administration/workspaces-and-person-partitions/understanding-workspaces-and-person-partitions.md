@@ -78,12 +78,16 @@ You can share these items across workspaces.
 
 ## Cloning across Workspaces {#cloning-across-workspaces}
 
-For assets that aren't templates, its best to clone them as local assets inside of a program.  With the proper access level, you can drag and drop these assets into another workspace:
+For assets that aren't templates, it's best to clone them as local assets inside of a program. With the proper access level, you can drag and drop these assets into another workspace:
 
 * Programs
 * Emails
 * Landing Pages
 * Forms
+
+>[!IMPORTANT]
+>
+>While all of the items listed above can be cloned across Workspaces, emails, forms, and Landing Pages _must be inside a program_ at the time of cloning.
 
 >[!NOTE]
 >
