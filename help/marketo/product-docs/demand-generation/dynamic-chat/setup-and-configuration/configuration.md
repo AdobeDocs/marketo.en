@@ -58,7 +58,7 @@ In order for the chatbot to show up on your website, you'll first need to instal
 
 >[!TIP]
 >
->If your site utilizes a Content Security Policy, you may need to whitelist the following URLs for the chatbot to work as expected:
+>If your site utilizes a Content Security Policy, you may need to allowlist the following URLs for the chatbot to work as expected:
 >
 >* `*.adoberesources.net`
 >* `*.adobe.io`
