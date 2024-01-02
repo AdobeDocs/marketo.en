@@ -78,6 +78,21 @@ All features below follow an Agile format and are released on various dates befo
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>Bulk Lead Import API Update</strong>: A minor adjustment has been made to the Bulk Lead Import API's behavior when <b>id</b> is specified as the <b>lookupField</b> during job creation. If a person record linked to the provided <b>id</b> is not found in the Marketo Engage database, no record update will occur, as the record cannot be located. The updated behavior now includes incrementing the count in the <b>numOfRowsFailed</b> property within the response, signaling that the operation has failed in such cases.</td> 
+   <td><i>Coming Soon</i></td>
+   <td>n/a</td>
+  </tr>
+ </tbody> 
+</table>
+<br/>
   </tbody> 
 </table>
 
