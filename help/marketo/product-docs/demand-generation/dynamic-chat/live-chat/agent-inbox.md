@@ -26,21 +26,7 @@ On the upper-right side of the Agent Inbox screen, you have the option to set yo
 
 ## Live Chat Notifications {#live-chat-notifications}
 
-When a live chat is routed to an agent, they'll see a blue banner across the top of the screen asking them to accept.
-
-   ![](assets/agent-inbox-3.png)
-
->[!TIP]
->
->You also have the option to set up browser notifications, which will alert you in case you're not logged in to Dynamic Chat.
->
->* Enable browser notifications in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&co=GENIE.Platform%3DDesktop){target="_blank"}
->* Enable browser notifications in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
-
-### Things to Note {#things-to-note}
-
-* Agents have 45 seconds to respond before the "Accept chat" message times out.
-* There is a limit of 10 live chats per agent at this time
+Learn more about notifications in the [Live Chat Overview](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Conversations {#conversations}
 
