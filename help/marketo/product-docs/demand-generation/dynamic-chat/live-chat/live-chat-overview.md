@@ -62,20 +62,9 @@ Clicking on the live chat card in the stream allows you to choose how the visito
 
 ## Live Chat Notifications {#live-chat-notifications}
 
-When a live chat is routed to an agent, they'll see a blue banner across the top of the screen asking them to accept.
-
-   ![](assets/live-chat-overview-3.png)
-
->[!TIP]
->
->You also have the option to set up browser notifications, which will alert you in case you're not logged in to Dynamic Chat.
->
->* Enable browser notifications in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&co=GENIE.Platform%3DDesktop){target="_blank"}
->* Enable browser notifications in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
-
-### Enable Notifications
-
 In order to receive browser notifications for live chat, all live chat agents must enable browser notifications for Dynamic Chat when prompted.
+
+### Enabling Notifications {#enabling-notifications}
 
 Live chat agents will see a banner at the top of the screen when they log in that reads "Please enable browser notifications to receive live chat notifications." Click **Enable**.
 
@@ -90,6 +79,19 @@ If agents do not get browser notifications even after allowing in the browser, t
 [Steps for Mac](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
 
 [Steps for Windows](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+
+### When a Live Chat is Routed to an Agent {#when-a-live-chat-is-routed-to-an-agent}
+
+When a live chat is routed to an agent, they'll see a blue banner across the top of the screen asking them to accept.
+
+   ![](assets/live-chat-overview-3.png)
+
+>[!TIP]
+>
+>You also have the option to set up browser notifications, which will alert you in case you're not logged in to Dynamic Chat.
+>
+>* Enable browser notifications in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Enable browser notifications in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### Things to Note {#things-to-note}
 
