@@ -130,7 +130,8 @@ feature-set: Marketo Engage
       + [Enable Communication Limits](product-docs/administration/email-setup/enable-communication-limits.md)
       + [Enable Person Restrictions for Smart Campaigns](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
       + [Filtering Email Bot Activity](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-      + [Remove Unsubscribe Text From the "Admin -> Email" Section](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
+      + [Filtering Email Bot Activity TEMP](product-docs/administration/email-setup/filtering-email-bot-activity-temp.md)
+      + [Remove Unsubscribe Text](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
     + Field Management {#field-management}
       + [Block Field Updates During List Import from Untrusted Sources](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
       + [Block Updates to a Field](product-docs/administration/field-management/block-updates-to-a-field.md)
