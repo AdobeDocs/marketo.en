@@ -38,19 +38,23 @@ Against email link click and email open activity, new attributes will be populat
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Choose to **[!UICONTROL Match with IAB List]**, **[!UICONTROL Match with Proximity Pattern]**, or both. Choose whether to [!UICONTROL log bot activity] _or_ [!UICONTROL filter bot activity]. Set the amount of seconds for **Duration Between Activities** from 0 to 3 seconds in length (default is 0). 
+1. There are sliders to choose from. You can enable just one or both. If you enable **[!UICONTROL Match with IAB List]**, choose whether to [!UICONTROL log bot activity] _or_ [!UICONTROL filter bot activity].
 
    ![](assets/filtering-email-bot-activity-temp-4.png)
+
+1. If you enable **[!UICONTROL Match with Proximity Pattern]**, choose whether to [!UICONTROL log bot activity] _or_ [!UICONTROL filter bot activity]. You can also set the amount of seconds for **Duration Between Activities** (default is 0, max is 3). 
+
+   ![](assets/filtering-email-bot-activity-temp-5.png)
 
 >[!NOTE]
 >
 >With **Duration Between Activities** set to 0 seconds, we will identify email activities that are happening at the exact same second. If multiple email activities happen within the designated amount of seconds, it will be identified as bot activity.
 
->[!NOTE]
+>[!IMPORTANT]
 >
 >* If you choose [!UICONTROL Filter Bot Activity], you may see a drop in email opens and clicks as false activities are weeded out.
 
-**OPTIONAL STEP**: To disable this feature, simply deselect the slider(s). If you disable, the data does not reset.
+**OPTIONAL STEP**: To disable either feature, simply deselect the resective slider. If you do, the data does not reset.
 
 >[!TIP]
 >
