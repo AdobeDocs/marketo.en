@@ -38,7 +38,7 @@ Against email link click and email open activity, new attributes will be populat
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. There are sliders to choose from. You can enable just one or both. If you enable **[!UICONTROL Match with IAB List]**, choose whether to [!UICONTROL log bot activity] _or_ [!UICONTROL filter bot activity].
+1. There are two sliders to choose from. You can enable just one or both. If you enable **[!UICONTROL Match with IAB List]**, choose whether to [!UICONTROL log bot activity] _or_ [!UICONTROL filter bot activity].
 
    ![](assets/filtering-email-bot-activity-temp-4.png)
 
