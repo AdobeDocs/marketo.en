@@ -9,9 +9,9 @@ feature: Deliverability
 
 In order to ensure top-notch deliverability, we automatically sign all outbound mail with a shared Marketo DKIM signature.
 
->[!NOTE]
->
->You may need the help of your IT team to complete some of the steps in this article.
+   >[!NOTE]
+   >
+   >You may need the help of your IT team to complete some of the steps in this article.
 
 You can personalize the DKIM signature to reflect the domain(s) of your choice. Here's how.
 
@@ -35,11 +35,6 @@ You can personalize the DKIM signature to reflect the domain(s) of your choice. 
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
-   >[!TIP]
-   >
-   >* We recommend a Key Size of 2048.
-   >* If you use a different domain in your From Address, we'll use the Marketo shared DKIM signature.
-
    <table> 
    <tr>
    <td width="20%"><b>Selector</b></td>
@@ -53,6 +48,17 @@ You can personalize the DKIM signature to reflect the domain(s) of your choice. 
    </table>
 
    <p>
+   
+   >[!TIP]
+   >
+   >* We recommend a Key Size of 2048.
+   >* If you use a different domain in your From Address, we'll use the Marketo shared DKIM signature.
+
+   >[!IMPORTANT]
+   >
+   >If you need to update either the DKIM Selector or DKIM Encryption Size for your domain, you must delete your existing record and republish the newly generated record with the new values.
+   >
+   >Please note that when doing so, DKIM will not be signed for your domain until your new record is published and validated by our system. Plan your change accordingly, as it can take 24 to 48 hours before the new DKIM record is fully propagated across the internet.
 
 1. Send the **Host Record** and **TXT Value** to your IT. Ask them to create the record for you and make sure it propagates to all nameservers associated with the from domain. Marketo's DKIM verification requires that the DKIM key is propagated to all nameservers associated with the domain being DKIM-signed.
 
