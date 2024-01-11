@@ -8,7 +8,7 @@ exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
 
 Learn how to customize the look and feel of your chatbot dialogue window.
 
-To get started, click **Configuration**.
+To get started, click **Chatbot settings** under **Configuration**.
 
    ![](assets/configuration-1.png)
 
@@ -30,9 +30,9 @@ The Anchor allows your site visitor to open/close the chatbox. You can choose wh
 
    ![](assets/configuration-4.png)
 
-### Agent Settings {#agent-settings}
+### Bot Settings {#agent-settings}
 
-In Agent Settings, you can add a label to your chatbox (ex: "Adobe Bot") that will appear at the top of it. You can also determine the response delay (in seconds), and change your chat avatar. To upload your own avatar image, click the **+** button.
+In Bot Settings, you can add a label to your chatbox (ex: "Adobe Assistant") that will appear at the top of it. You can also determine the response delay (in seconds), and change your chat avatar. To upload your own avatar image, click the **+** button.
 
    ![](assets/configuration-5.png)
 
@@ -58,11 +58,7 @@ In order for the chatbot to show up on your website, you'll first need to instal
 
 >[!TIP]
 >
->If your site utilizes a Content Security Policy, you may need to allowlist the following URLs for the chatbot to work as expected:
->
->* `*.adoberesources.net`
->* `*.adobe.io`
->* `*.typekit.net`
+>Look below the code for what to add if your site uses Content-Security-Policy (CSP).
 
 >[!NOTE]
 >

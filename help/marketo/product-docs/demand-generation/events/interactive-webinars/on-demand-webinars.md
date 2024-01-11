@@ -15,7 +15,7 @@ Adobe Connect, the technology that powers Interactive Webinars, tracks the visit
 
 Marketo provides the watch statistics for On-Demand Webinars on the Dashboard tab with the help of the following widgets:
 
-* On-Demand Summary: This provides a day-wise summary of the count of visitors (No-Shows) that watch the recording after the event.
+* On-Demand Summary: This provides a summary of the count of visitors (No-Shows) that watch the recording after the event on a given day(s)
 
 * On-Demand Statistics: This widget provides information on:
   * Days the On-Demand recording is available for viewing&mdash;Helps marketers perform actions, such as executing email campaigns close to the end of the recording availability duration of 30 days.
