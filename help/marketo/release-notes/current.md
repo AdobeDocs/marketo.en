@@ -140,7 +140,7 @@ All features below follow an Agile format and are released on various dates befo
   </tr>
     </tr>
     <tr> 
-   <td><strong>Manual Live Chat Termination</strong>: Both visitors and agents can now manually end a live chat session.</td> 
+   <td><strong>Manual Live Chat Termination</strong>: Both visitors and agents can now manually terminate a live chat session.</td> 
    <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">Agent Inbox</a></td>
   </tr>
