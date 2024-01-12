@@ -44,11 +44,17 @@ On the right side of the Agent Inbox screen, you'll be able to see (from top to 
 
    ![](assets/agent-inbox-5.png)
 
+## End a Session {#end-a-session}
+
+Agents have the ability to manually terminate a session simply by clicking the **End session** button next to the visitor information.
+
+   ![](assets/agent-inbox-6.png)
+
 ## Activity History {#activity-history}
 
 Below the visitor information is activity history. View activity types and dates, and even view chat transcripts.
 
-   ![](assets/agent-inbox-6.png)
+   ![](assets/agent-inbox-7.png)
 
 >[!NOTE]
 >
@@ -60,12 +66,12 @@ At the bottom of the live chat window is an icon that allows you to share your o
 
 1. Click the calendar icon.
 
-   ![](assets/agent-inbox-7.png)
+   ![](assets/agent-inbox-8.png)
 
 1. Choose the desired agent calendar and click **Send**.
 
-   ![](assets/agent-inbox-8.png)
+   ![](assets/agent-inbox-9.png)
 
 1. The chat visitor will be able to book a meeting.
 
-   ![](assets/agent-inbox-9.png)
+   ![](assets/agent-inbox-10.png)

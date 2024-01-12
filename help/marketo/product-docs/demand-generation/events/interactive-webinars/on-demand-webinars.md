@@ -1,8 +1,6 @@
 ---
 description: On-Demand Webinars - Marketo Docs - Product Documentation
 title: On-Demand Webinars
-hide: yes
-hidefromtoc: yes
 feature: Interactive Webinars
 ---
 # On-Demand Webinars {#on-demand-webinars}
