@@ -26,7 +26,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
     <tr> 
    <td><strong>On-Demand Webinars for Interactive Webinars</strong>: On-Demand Webinars allows you to publish the webinar recording as well as track its visits/watches. This will help you obtain more leads through registrants who did not attend the webinar (no-show) but are still interested in finding out more details and viewing the recording.</td> 
-   <td>Shipping today</td>
+   <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">On-Demand Webinars</a></td>
   </tr>
    <tr> 
@@ -50,7 +50,7 @@ The following features fall under the standard release cycle and will start to b
    </tr>
     <tr> 
    <td><strong>Filtering Email Bot Activity</strong>: Improves capturing bot activity for email engagement by allowing you to choose how aggressive you want bot activity identification filtering to be.</td> 
-   <td>Shipping today</td>
+   <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtering Email Bot Activity</a></td>
   </tr>
   <tr> 
@@ -119,8 +119,8 @@ All features below follow an Agile format and are released on various dates befo
    </tr>
     <tr> 
    <td><strong>Chatbot Font Color Options</strong>: Customize font colors in a chatbot configuration.</td> 
-   <td>Shipping today</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md#style" target="_blank">Configuration</a></td>
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
@@ -141,7 +141,7 @@ All features below follow an Agile format and are released on various dates befo
     </tr>
     <tr> 
    <td><strong>Manual Live Chat Termination</strong>: Both visitors and agents can now manually terminate a live chat session.</td> 
-   <td>Shipping today</td>
+   <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">Agent Inbox</a></td>
   </tr>
   <tr> 
