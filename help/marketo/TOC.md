@@ -176,9 +176,10 @@ feature-set: Marketo Engage
       + [Add or Remove a Product Admin](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
       + [Add or Remove a User](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
       + [FAQ](product-docs/administration/marketo-with-adobe-identity/faq.md)
-      + [Migrating to Adobe Identity](product-docs/administration/marketo-with-adobe-identity/migrating-to-adobe-identity.md)
       + [User Sign-in with Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
       + [Understanding Marketo Subscription and User Migration to the Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
+      + Subscription and User Migration {#subscription-and-user-migration}
+        + [Migrating to Adobe Identity](product-docs/administration/marketo-with-adobe-identity/migrating-to-adobe-identity.md)
     + Settings {#settings}
       + [Bulk Export API Information](product-docs/administration/settings/bulk-export-api-information.md)
       + [Campaign Inspector](product-docs/administration/settings/campaign-inspector.md)
