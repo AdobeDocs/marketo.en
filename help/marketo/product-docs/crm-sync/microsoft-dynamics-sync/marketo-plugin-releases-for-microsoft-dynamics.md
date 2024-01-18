@@ -30,9 +30,9 @@ When you first sync to Microsoft Dynamics, you download the latest version of th
 <table> 
  <tbody> 
   <tr> 
-   <th>Version</th> 
-   <th>Release Date</th> 
-   <th>Notes</th> 
+   <th style="width:15%">Version</th> 
+   <th style="width:20%">Release Date</th> 
+   <th style="width:65%">Notes</th> 
   </tr>
   <tr> 
    <td>5.0.2.1</td> 
