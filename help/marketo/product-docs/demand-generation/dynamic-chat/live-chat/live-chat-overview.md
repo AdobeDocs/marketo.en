@@ -8,6 +8,10 @@ exl-id: 44e8b249-b534-4cec-a612-daa184acd266
 
 Live chat allows website visitors to engage in real-time chat conversations with your sales agents.
 
+>[!NOTE]
+>
+>Conversational Flows and Live Chat are shared trial features that have a combined lifetime limit of 100 engagements for those on the Dynamic Chat Select package. When this limit is reached, all published Conversational Flows will stop triggering and visitors who request to chat with a live agent will receive the global fallback message. To increase this limit, please contact your Account Representative to discuss package upgrade options.
+
 ## Add Live Chat Agents {#add-live-chat-agents}
 
 To get started with live chat, you'll need to add your live chat agents as [users in the Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. After this is done, you can then add a [live chat card](#using-the-live-chat-card) to a new or existing Dialogue. 

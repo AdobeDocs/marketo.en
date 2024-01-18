@@ -10,6 +10,10 @@ Design a Conversational Flow and trigger it to any visitor based on a specific a
 
    ![](assets/conversational-flow-overview-1.png)
 
+>[!NOTE]
+>
+>Conversational Flows and Live Chat are shared trial features that have a combined lifetime limit of 100 engagements for those on the Dynamic Chat Select package. When this limit is reached, all published Conversational Flows will stop triggering and visitors who request to chat with a live agent will receive the global fallback message. To increase this limit, please contact your Account Representative to discuss package upgrade options.
+
 ## Dialogues vs. Conversational Flows {#dialogues-vs-conversational-flows}
 
 While Dialogues and Conversational Flows have several similarities, they are two separate features.

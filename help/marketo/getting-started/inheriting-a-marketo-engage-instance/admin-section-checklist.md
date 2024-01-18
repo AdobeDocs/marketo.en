@@ -292,18 +292,17 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
 <li>Have you added the <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">desired users</a> to the Dynamic Chat product profile in Adobe Admin Console?
 <ul>
 <li>Make sure your eligible users have the Dynamic Chat Product Profile added to their Adobe Identity. You cannot assign 'Access Dynamic Chat' roles in Marketo Engage > Admin > Users & Roles if they're added to a Product Profile.</li>
-<li>In the 'Product Profiles' tab, are the Default Profile Permissions aligning with what your organization needs?<br/> 
+<li>In the 'Product Profiles' tab, are the Default Profile Permissions aligned with your organization's needs?<br/> 
 If not, edit the permissions for the specific profile. </li>
 <li>If you have more than one subscription, are your users being added to the correct subscriptions?</li>
 </ul>
 </li>
 Once you finish auditing the Users & Roles settings, log in to Dynamic Chat to continue your audit.  
-<li>In the 'Integrations' tab, is your Marketo Engage and Dynamic Chat sync still enabled?</li>
+<li>Have you <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">connected your Marketo Engage instance</a> to Dynamic Chat?</li>
 <li>Are the five default profiles with predefined permissions applicable to your organization?<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, you can <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">edit them in Dynamic Chat</a>. You can also <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">create a Custom Profile</a> with a custom set of permissions.</li>
 <li>To provide your users with access to Dynamic Chat, have you checked "Access Dynamic Chat" to the applicable Marketo Engage Role under Admin > Users & Roles > Roles?
 <br/><img src="assets/note-icon.png" alt="note icon"> NOTE: The 'Admin' & 'Marketing User' roles should have access to Dynamic Chat.</li>
-<li>Have you <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">connected your Marketo Engage instance</a> to Dynamic Chat?</li>
 </td>
   </tr>
   <td>Marketo Sales Insight (if applicable)</td> 
