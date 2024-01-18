@@ -33,12 +33,26 @@ When you first sync to Microsoft Dynamics, you download the latest version of th
    <th colspan="1">Version</th> 
    <th colspan="1">Release Date</th> 
    <th>Notes</th> 
+  </tr>
+  <tr> 
+   <td colspan="1">5.0.2.1</td> 
+   <td colspan="1">10/13/23</td> 
+   <td colspan="1">Bug fix: Fixed bugs related to the custom entity sync.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">5.0.2.0</td> 
+   <td colspan="1">03/24/23</td> 
+   <td colspan="1">Bug fix: Fixed bugs that prevented merging contacts on MS Dynamics.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">5.0.1.8</td> 
+   <td colspan="1">03/27/23</td> 
+   <td colspan="1">Bug fix: Prevents plugin overwriting other customizations on the UI elements in MS Dynamics.</td> 
   </tr> 
   <tr> 
    <td colspan="1">5.0.1.1</td> 
    <td colspan="1">02/04/21</td> 
-   <td colspan="1">Support for Multiselect Optionset fields sync (this feature is available for V9.X and above only).
-.</td> 
+   <td colspan="1">Support for Multiselect Optionset fields sync (this feature is available for V9.X and above only).</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.2.0.0</td> 
@@ -63,7 +77,7 @@ When you first sync to Microsoft Dynamics, you download the latest version of th
   <tr> 
    <td colspan="1"><p>4.0.0.21</p></td> 
    <td colspan="1">11/9/16</td> 
-   <td colspan="1">Bug fix: The plugin did not subscribe to events that capture the state change of the custom object. This fix is specific to Dynamics CRM On Premise 2011. </td> 
+   <td colspan="1">Bug fix: The plugin did not subscribe to events that capture the state change of the custom object. This fix is specific to Dynamics CRM On Premise 2011.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.20</td> 
@@ -73,7 +87,7 @@ When you first sync to Microsoft Dynamics, you download the latest version of th
   <tr> 
    <td colspan="1">4.0.0.19</td> 
    <td colspan="1">6/28/16</td> 
-   <td colspan="1"><p>Bug fix: An unnecessary update transaction on the customeropportunityrole in the marketo log was noted when the opportunity was created. </p><p>Bug fix: An extra delete transaction was logged when deleting the customeropportunityrole entity.</p></td> 
+   <td colspan="1">Bug fix: An unnecessary update transaction on the customeropportunityrole in the marketo log was noted when the opportunity was created.<p>Bug fix: An extra delete transaction was logged when deleting the customeropportunityrole entity.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.18</td> 
