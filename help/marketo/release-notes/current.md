@@ -171,7 +171,7 @@ All features below follow an Agile format and are released on various dates befo
 
 ## Announcements {#announcements}
  
-* **Sync Lead API Update**: The Sync Lead API's behavior has been adjusted slightly concerning updates to the `unsubscribed` field. Now, when you pass `null` as the value, it is equal to passing a value of `false`.
+* **Sync Lead API Update**: The [Sync Lead API](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}'s behavior has been adjusted slightly concerning updates to the `unsubscribed` field. Now, when you pass `null` as the value, it is equal to passing a value of `false`.
 
 * **Marketo Engage Forms jQuery 1.x**: In our January 2024 release, we'll be updating the jQuery for Marketo Engage Forms to jQuery 3.x. This may impact custom Form implementation relying on older versions of jQuery. [Learn more here](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
