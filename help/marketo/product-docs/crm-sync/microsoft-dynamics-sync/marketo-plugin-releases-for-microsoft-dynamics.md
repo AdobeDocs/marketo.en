@@ -36,7 +36,7 @@ When you first sync to Microsoft Dynamics, you download the latest version of th
   </tr>
   <tr> 
    <td>5.0.2.1</td> 
-   <td>10/13/23</td> 
+   <td>1/19/24</td> 
    <td>Bug fix: Fixed bugs related to the custom entity sync.</td> 
   </tr> 
   <tr> 
@@ -47,7 +47,9 @@ When you first sync to Microsoft Dynamics, you download the latest version of th
   <tr> 
    <td>5.0.1.8</td> 
    <td>03/27/23</td> 
-   <td>Bug fix: Prevents plugin overwriting other customizations on the UI elements in MS Dynamics.</td> 
+   <td>Bug fix: Prevents plugin overwriting other customizations on the UI elements in MS Dynamics.
+   <p>
+   Bug fix: Reinstated navigation tiles that became missing in 5.0.1.1.</td> 
   </tr> 
   <tr> 
    <td>5.0.1.1</td> 
