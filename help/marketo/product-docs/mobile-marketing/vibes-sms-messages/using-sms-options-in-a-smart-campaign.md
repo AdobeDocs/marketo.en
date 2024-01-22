@@ -5,7 +5,7 @@ feature: Mobile Marketing
 ---
 # Using SMS Options in a Smart Campaign {#using-sms-options-in-a-smart-campaign}
 
-After you [create an SMS message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md){target="_blank"}, you'll want to use Smart List triggers and filters within a Smart Campaign to get the benefits.
+After you [create an SMS message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, you'll want to use Smart List triggers and filters within a Smart Campaign to get the benefits.
 
 >[!NOTE]
 >

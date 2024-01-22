@@ -33,7 +33,7 @@ Audit trail provides a comprehensive history of the changes made within your Mar
 
 ![](assets/audit-trail.png)
 
-## [Marketo-Vibes SMS LaunchPoint Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## [Marketo-Vibes SMS LaunchPoint Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
 Easily create SMS messages right within Marketo. Personalize and target your message using your rich Marketo data, and easily monitor its performance using the SMS message dashboard.
 

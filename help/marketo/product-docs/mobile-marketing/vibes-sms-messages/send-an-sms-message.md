@@ -69,5 +69,5 @@ You've [created your SMS message](/help/marketo/product-docs/mobile-marketing/vi
 
 >[!MORELIKETHIS]
 >
->* [Create a Vibes Message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}
+>* [Create a Vibes Message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
 >* [Using SMS Options in a Smart Campaign](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

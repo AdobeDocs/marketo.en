@@ -30,4 +30,4 @@ Local assets are the content that make up your program. Assets are customizable 
 * [Poll](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md){target="_blank"}
 * [Referral Offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"}
 * [Sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}
-* [Vibes SMS Messages](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}
+* [Vibes SMS Messages](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
