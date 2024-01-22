@@ -61,13 +61,13 @@ Filter Predictive Content pieces that are enabled for Email, Rich Media, or the 
 
 **[Filter Analytics by Source](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-Filter Predictive Content analytics for specific sources — Email, Rich Media, or Recommendation Bar.
+Filter Predictive Content analytics for specific sources - Email, Rich Media, or Recommendation Bar.
 
 ![](assets/predictive-content-analytics-by-source.png)
 
 **Predictive Content Editor**
 
-There's an improved editing experience and layout that splits content preparation by source — Email, Rich Media, or Recommendation Bar.
+There's an improved editing experience and layout that splits content preparation by source - Email, Rich Media, or Recommendation Bar.
 
 ![](assets/predictive-content-editor.png)
 
@@ -79,7 +79,7 @@ Image URL and metadata are now used in the content auto-discovery process.
 
 Developers now have additional control over the delivery of Push Notifications with the addition of a new SDK API call that allows developers to remove push tokens.
 
-## [Vibes SMS LaunchPoint Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
+## [Vibes SMS LaunchPoint Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
 
 Improve your targeting with a new filter option, "Member of Vibes List."
 
