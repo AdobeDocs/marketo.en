@@ -1,13 +1,11 @@
 ---
-description: Doc - Marketo Docs - Product Documentation
-title: Doc
-hide: yes
-hidefromtoc: yes
+description: SMS Glossary - Marketo Docs - Product Documentation
+title: SMS Glossary
 feature: Mobile Marketing
 ---
 # SMS Glossary {#sms-glossary}
 
-Below are common terms you'll encounter when using Vibes SMS messages with Marketo Engage.
+Below are some common terms you'll encounter when using Vibes SMS messages with Marketo Engage.
 
 <table>
 <thead>

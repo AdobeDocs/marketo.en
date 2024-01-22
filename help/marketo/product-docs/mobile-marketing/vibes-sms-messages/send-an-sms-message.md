@@ -1,13 +1,11 @@
 ---
 description: Send an SMS Message - Marketo Docs - Product Documentation
 title: Send an SMS Message
-hide: yes
-hidefromtoc: yes
 feature: Mobile Marketing
 ---
 # Send an SMS Message {#send-a-vibes-sms-message}
 
-You've [created your SMS message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md), now it's time to send it. You can send it via Batch or Trigger Campaign.
+You've [created your SMS message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, now it's time to send it. You can send it via Batch or Trigger Campaign.
 
 >[!NOTE]
 >
@@ -71,6 +69,5 @@ You've [created your SMS message](/help/marketo/product-docs/mobile-marketing/vi
 
 >[!MORELIKETHIS]
 >
->* [Create a Vibes Message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
->* Vibes Flow Steps
-
+>* [Create a Vibes Message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}
+>* [Using SMS Options in a Smart Campaign](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

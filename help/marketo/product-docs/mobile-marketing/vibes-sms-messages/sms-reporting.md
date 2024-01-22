@@ -1,8 +1,6 @@
 ---
 description: SMS Reporting - Marketo Docs - Product Documentation
 title: SMS Reporting
-hide: yes
-hidefromtoc: yes
 feature: Mobile Marketing
 ---
 # SMS Reporting {#sms-reporting}

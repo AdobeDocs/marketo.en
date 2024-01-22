@@ -1,8 +1,6 @@
 ---
 description: Create an SMS Message - Marketo Docs - Product Documentation
 title: Create an SMS Message
-hide: yes
-hidefromtoc: yes
 feature: Mobile Marketing
 ---
 # Create an SMS Message {#create-an-sms-message}
@@ -15,7 +13,7 @@ Here's how to create an SMS message.
 
 >[!PREREQUISITES]
 >
->[Add Vibes as a LaunchPoint Service](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
+>[Add Vibes as a LaunchPoint Service](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 

@@ -1,8 +1,6 @@
 ---
 description: Using SMS Options in a Smart Campaign - Marketo Docs - Product Documentation
 title: Using SMS Options in a Smart Campaign
-hide: yes
-hidefromtoc: yes
 feature: Mobile Marketing
 ---
 # Using SMS Options in a Smart Campaign {#using-sms-options-in-a-smart-campaign}
@@ -11,11 +9,11 @@ After you [create an SMS message](/help/marketo/product-docs/mobile-marketing/vi
 
 >[!NOTE]
 >
->If you're looking to send an SMS message, we have a [specific article](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md) for that.
+>If you're looking to send an SMS message, we have a [specific article](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} for that.
 
 >[!PREREQUISITES]
 >
->SMS triggers/filters only appear if the [Vibes service has been enabled](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md).
+>SMS triggers/filters only appear if the [Vibes service has been enabled](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
 
 ## SMS Triggers {#sms-triggers}
 
@@ -81,6 +79,6 @@ There are three SMS flow steps to choose from.
 
 >[!MORELIKETHIS]
 >
->* [Send an SMS Message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md)
->* [Define Smart List for Smart Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [Define Smart List for Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+>* [Send an SMS Message](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
+>* [Define Smart List for Smart Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+>* [Define Smart List for Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
