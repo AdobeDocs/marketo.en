@@ -170,6 +170,8 @@ All features below follow an Agile format and are released on various dates befo
 <br/>
 
 ## Announcements {#announcements}
+
+* [January 2024 Marketo Engage Release Webinar](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
  
 * **Sync Lead API Update**: The [Sync Lead API](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}'s behavior has been adjusted slightly concerning updates to the `unsubscribed` field. Now, when you pass `null` as the value, it is equal to passing a value of `false`.
 
