@@ -75,7 +75,7 @@ In the User Email Verification section, an administrator can find the current st
 
 An administrator can view the email verification status of the subscription, the percentage of users in the subscription who have completed email verification, and the number of users who have been marked as skipped. Status will be reported upon the status of all users' email verification state in the subscription. The administrator can click on the number of skipped users and will be navigated to the User Migration tab to view the skipped users. 
 
-The verification email can be resent by an administrator in the User Migration tab of the Migration Console and the User & Roles tab in the Marketo Admin area, or by the user in their Account Settings. Like user invitation emails, the link in the verification email expires in 3 days. More information on email verification can be found on the [Community](nation.marketo.com) and in the [email verification documentation](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).     
+The verification email can be resent by an administrator in the User Migration tab of the Migration Console and the User & Roles tab in the Marketo Admin area, or by the user in their Account Settings. Like user invitation emails, the link in the verification email expires in 3 days. More information on email verification can be found on the [Community](https://nation.marketo.com/) and in the [email verification documentation](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).     
 
 >[!IMPORTANT] 
 >
