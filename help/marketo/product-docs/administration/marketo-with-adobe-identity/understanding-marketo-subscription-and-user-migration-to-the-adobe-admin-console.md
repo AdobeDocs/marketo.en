@@ -36,7 +36,11 @@ System Admins may need to complete some required steps before user migration sta
 
 * If you already manage other Adobe products in your Adobe Admin Console, Adobe may seek your consent to automatically migrate users to your existing console. Click the "Get Started" button in the email to navigate to the consent page.
 
-There is no change to user management at this time. Marketo Admins will continue to manage users in the Marketo Admin area, and users will continue to log in with their Marketo Identity until their user migration is complete.
+There is no change to user management at this time. Although Marketo products appear in the Admin Console, Marketo Admins will continue to manage users in the Marketo Admin area, and users will continue to log in with their Marketo Identity until their user migration is complete. During this time, Marketo products cannot be administered in Admin Console until user migration begins. This includes the Dynamic Chat instance associated with the subscription. 
+
+>[!NOTE]
+>
+>If you do not currently use SSO but are thinking about implementing it, we suggest to do so before user migration occurs. If you want to implement Single Sign On and your subscription has been onboarded to Adobe Identity without SSO implemented in the Adobe Org, please submit a ticket to [Marketo Support](https://nation.marketo.com/){target="_blank"} and specify the topic as "Marketo on Admin Console, implementing SSO."
 
 ### Schedule User Migration {#schedule-user-migration}
 

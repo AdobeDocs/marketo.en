@@ -17,6 +17,10 @@ Once SSO is enabled, the IdP can validate a user's credentials. When a user wish
 >
 >**Admin Permissions Required**
 
+>[!IMPORTANT]
+>
+>This does not apply to subscriptions onboarded to Adobe Identity. For subscriptions onboarded to Adobe Identity, Single Sign On is set up at the Adobe Org level in Adobe Admin Console. [Learn more here](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+
 >[!NOTE]
 >
 >Are you a [!DNL Microsoft Azure] user? Check out their [integration tutorial](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
