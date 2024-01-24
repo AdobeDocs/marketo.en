@@ -68,7 +68,7 @@ Those onboarded to Adobe identity can access all IMS-enabled subscriptions seaml
 
 Yes. Marketo integration with Adobe IMS supports Universal ID users and SSO. SSO is now driven by Adobe IMS and is set up at the organization level in the Adobe Admin Console. [Learn more here](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
-* **I've already been onboarded to Adobe Identity and now I want to implement SSO. What do I do?**
+**I've already been onboarded to Adobe Identity and now I want to implement SSO. What do I do?**
 
 If you want to implement Single Sign On and your subscription has been onboarded to Adobe Identity without SSO implemented in the Adobe Org, please submit a ticket to [Marketo Support](https://nation.marketo.com/){target="_blank"} and specify the topic as "Marketo on Admin Console, implementing SSO."
 

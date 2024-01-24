@@ -177,4 +177,4 @@ All features below follow an Agile format and are released on various dates befo
 
 * **Email Verification for SSO Only Users**: SSO Only users used to be automatically verified, allowing them to use an inaccessible email account. Starting in mid-January, all existing SSO Only users will become unverified and be asked to reverify their email via a link we send to the email account. All new SSO Only users will need to verify their email addresses going forward.
 
-* Watch the [January 2024 Marketo Engage Release Webinar](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* Watch the [January 2024 Marketo Engage Release Webinar](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.
