@@ -41,3 +41,21 @@ View how many conversations your live sales agents had and which teams are perfo
 View Dialogues, Conversational Flows, or all. Select a preset or custom date range. Export your results with the click of a button.
 
 ![](assets/analytics-7.png)
+
+## Definitions {#definitions}
+
+<table>
+<thead>
+<tbody>
+  <tr>
+    <td><b>Completed</b></td>
+    <td>A completed event occurs when a visitor reaches the last prompt in a conversation <i>or</i> when a visitor exhausts all the content in a conversation.
+    <br>One completed event per visitor, per session.</td>
+  </tr>
+  <tr>
+    <td><b>People acquired</b></td>
+    <td>Happens when a visitor submits their email address.
+    <br>One acquisition per visitor, per session.</td>
+  </tr>
+</tbody>
+</table>

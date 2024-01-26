@@ -18,36 +18,36 @@ The stream designer contains multiple cards you can add to shape the chat conver
 
 <table>
  <tr>
-  <td><strong>Message</strong></td>
+  <td style="width:25%"><strong>Message</strong></td>
   <td>Use when you want to make a statement with no response necessary (ex: "Hi! All items are 25% off today with code SAVE25").
 </td>
  </tr>
  <tr>
-  <td><strong>Question</strong></td>
+  <td style="width:25%"><strong>Question</strong></td>
   <td>Use when you want to ask a multiple choice question, of which you supply the available responses (ex: What type of vehicle are you interested in? Responses = SUV, Compact, Truck, etc.).</td>
  </tr>
  <tr>
-  <td><strong>Document</strong></td>
+  <td style="width:25%"><strong>Document</strong></td>
   <td>Allows you to embed PDF documents in Dialogues and track document engagement activity of visitors (how many pages were viewed, if the document was downloaded, and/or any search terms that were used).</td>
  </tr>
  <tr>
-  <td><strong>Information Capture</strong></td>
+  <td style="width:25%"><strong>Information Capture</strong></td>
   <td>Use when you want to collect information (e.g., name, email address, job title, etc.). After you choose which field to attribute their response to, you can choose from letting the visitor type in their response, or select options from a picklist that you determine (tip: the latter can help with database cleanliness). You can also choose to overwrite whatever data you currently have listed for them with their response, or, skip the question entirely if you already have a value for them.</td>
  </tr>
  <tr>
-  <td><strong>Meeting Booking</strong></td>
+  <td style="width:25%"><strong>Meeting Booking</strong></td>
   <td>Provides the visitor with a calendar of available dates to schedule a meeting. Choose the calendar availability via round robin, a specific agent, or using custom rules. Click <b>Add Attribute</b> if you want to capture the agent's name or email address and assign it to the chat visitor's person record for future querying (tip: create a <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">custom field</a> to map the agent's info to as to not overwrite a standard Marketo Engage field).</td>
  </tr>
  <tr>
-  <td><strong>Goal</strong></td>
+  <td style="width:25%"><strong>Goal</strong></td>
   <td>This is the only card the visitors won't see. It's for you to determine at which point a goal is achieved within the specific chat (ex: if collecting the visitor's email is your goal, place the Goal card immediately after Info Capture in the stream).</td>
  </tr>
  <tr>
-  <td><strong>Action</strong></td>
+  <td style="width:25%"><strong>Action</strong></td>
   <td>Similar to hidden fields in a form, with the action card you can populate any lead or company attribute (that has a <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">string data type</a>) with implicit values that you'd like to capture against a lead record. You can add the action card at any point in the conversation and update respective attributes with a value or native tokens that automatically populate the respective value.</td>
  </tr>
  <tr>
-  <td><strong>Live Chat</strong></td>
+  <td style="width:25%"><strong>Live Chat</strong></td>
   <td>Use the live chat card when you want visitors to chat with a live agent.
   <li>The live chat card must be the last card in the branch.</li>
   <li>Visitors will be routed to an agent as soon as they reach this card in the stream, so it's recommended to precede this card with a question card asking visitors if they'd like to chat with a live agent.</li></td>
@@ -60,23 +60,23 @@ In the upper-right of the Stream Designer, you'll see a handful of icons. Here's
 
 <table>
  <tr>
-  <td><img src="assets/stream-designer-1.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-1.png"></td>
   <td>Zooms in, creating larger cards</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-2.png"></td>
   <td>Zooms out, creating smaller cards</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-3.png"></td>
   <td>Opens a window for you to test your chat (press the same button to close)</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-4.png"></td>
   <td>Allows you to search card types or content within your stream</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-5.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-5.png"></td>
   <td>Arranges all of the cards in your stream</td>
  </tr>
 </table>
@@ -155,19 +155,19 @@ You can create streams for Dialogues or [Conversational Forms](/help/marketo/pro
 
    <table>
     <tr>
-     <td><strong>Type</strong></td>
+     <td style="width:30%"><strong>Type</strong></td>
      <td>The type of info you want to capture: Phone, Text, Email.</td>
     </tr>
     <tr>
-     <td><strong>Chatbot Message</strong></td>
+     <td style="width:30%"><strong>Chatbot Message</strong></td>
      <td>The message the visitor sees prompting them to provide the info.</td>
     </tr>
     <tr>
-     <td><strong>Placeholder</strong></td>
+     <td style="width:30%"><strong>Placeholder</strong></td>
      <td>Sample text helping the visitor see what to enter.</td>
     </tr>
     <tr>
-     <td><strong>Map Response to Attribute</strong></td>
+     <td style="width:30%"><strong>Map Response to Attribute</strong></td>
      <td>Allows you to sync the vistor's response to the corresponding field in their Person record in your Marketo subscription.</td>
     </tr>
    </table>

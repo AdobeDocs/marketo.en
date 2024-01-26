@@ -80,6 +80,13 @@ A Dialogue is a conversation that is automatically displayed to web visitors who
 
 Yes! [Learn how](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
+**What exactly do terms like 'Engaged' or 'People Acquired' mean?**
+
+There are multiple terms used in Dynamic Chat. Definitions for many of them can be found in the help articles of their respective areas. 
+* Analytics terms like "People Acquired" [can be found here](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions).
+* Smart List Trigger/Filter definitions [can be found here](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions).
+* Descriptions of the various Stream Designer cards [can be found here](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards).
+
 **Can I use Dynamic Chat without Marketo Engage?**
 
 No. While Dynamic Chat is a separate application from Marketo Engage, the two are inextricably linked.
