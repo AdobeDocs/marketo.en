@@ -48,12 +48,12 @@ View Dialogues, Conversational Flows, or all. Select a preset or custom date ran
 <thead>
 <tbody>
   <tr>
-    <td><b>Completed</b></td>
+    <td style="width:25%"><b>Completed</b></td>
     <td>A completed event occurs when a visitor reaches the last prompt in a conversation <i>or</i> when a visitor exhausts all the content in a conversation.
     <br>One completed event per visitor, per session.</td>
   </tr>
   <tr>
-    <td><b>People acquired</b></td>
+    <td style="width:25%"><b>People Acquired</b></td>
     <td>Happens when a visitor submits their email address.
     <br>One acquisition per visitor, per session.</td>
   </tr>

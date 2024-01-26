@@ -82,10 +82,11 @@ Yes! [Learn how](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-
 
 **What exactly do terms like 'Engaged' or 'People Acquired' mean?**
 
-There are multiple terms used in Dynamic Chat. Definitions for many of them can be found in the help articles of their respective areas. 
-* Analytics terms like "People Acquired" [can be found here](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions).
-* Smart List Trigger/Filter definitions [can be found here](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions).
-* Descriptions of the various Stream Designer cards [can be found here](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards).
+There are multiple terms used in Dynamic Chat. Definitions for many of them can be found in the help articles of their respective areas.
+
+* Analytics terms like "People Acquired" [can be found here](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
+* Smart List Trigger/Filter definitions [can be found here](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
+* Descriptions of the various Stream Designer cards [can be found here](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 
 **Can I use Dynamic Chat without Marketo Engage?**
 
