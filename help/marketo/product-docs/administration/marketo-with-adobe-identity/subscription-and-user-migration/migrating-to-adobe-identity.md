@@ -8,19 +8,19 @@ exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
 ---
 # Migrating to Adobe Identity {#migrating-to-adobe-identity}
 
-When Adobe schedules a subscription's user migration, Marketo Engage product administrators will get access to the Migration Console, which can be found in the navigation menu in the Admin area under the Integration topic.
+When Adobe schedules a subscription's user migration, Marketo Engage product administrators will get access to the Migration Console, which can be found in the navigation menu in the Admin area under Integration.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-1.png)
 
 ## Pre-Migration {#pre-migration}
 
 Prior to migration beginning, an Admin can modify the user migration start date for their subscription by navigating to the Pre-Migration screen in the Migration Console. To change the date, the administrator can click the **Edit** button.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-2.png)
 
 The administrator can choose a date between 8 and 30 days in the future. When a date is selected, the administrator must click **Save** to make the change.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-3.png)
 
 >[!NOTE] 
 >
@@ -34,17 +34,17 @@ Adobe will automatically migrate all Marketo Admins with verified emails first. 
 
 **Marketo Product Administrator Email** 
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-4.png)
 
 **Marketo Entitlement Email**
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-5.png)
 
 **If your Marketo subscription has less than 75 users**, Adobe will automatically migrate the rest of your users. This workflow aims to deliver the highest level of automation, and no action is required to execute the migration. Upon migration completion, the Marketo Migration Console will no longer appear in the Marketo Admin navigation area and all users will access Marketo using an Adobe ID.
 
 **If your Marketo subscription has 75 or more users**, Marketo Product Admins will gain access to the Self-Service User Migration tool of the Migration Console upon user migration beginning and be alerted via banner upon login on the My Marketo page. The administrator will be responsible for completing the user migration using the Self-Service User Migration tool. 
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-6.png)
 
 ## Marketo Self-Service User Migration {#marketo-self-service-user-migration}
 
@@ -57,7 +57,7 @@ The Marketo Self-Service User Migration Console tool consists of two tabs.
 
 The Migration Status tab provides overall metrics on the progress of users' email verification prerequisite, users' migration and activation, and completion of the subscription migration.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-7.png)
 
 At the top of the Migration Status, the subscription migration expiration and button to extend the expiration are displayed. More information on migration expiration can be found in the [User Migration Expiration section](#user-migration-expiration).
 
@@ -93,11 +93,11 @@ In the Migration Confirmation section, an administrator will be required to conf
 
 Once all users in the subscription are accounted for (either migrated or skipped), the button to 'Complete Migration' will appear.  
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-8.png)
 
-The administrator conducting migration will need to complete the migration confirmation by clicking the **Complete Migration** button. 
+The administrator conducting migration will need to complete the migration confirmation by clicking the **Complete Migration** button. They will be prompted to **Confirm**.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-9.png)
 
 After user migration completion is confirmed, the Migration Console will be removed from the Admin navigation menu. 
 
@@ -105,13 +105,13 @@ After user migration completion is confirmed, the Migration Console will be remo
 
 Adobe requires customers to complete self-service migrations within 30 days. Administrators will not be blocked from migrating users or completing migration if the expiration date has past, however, they will only be able to migrate users on demand. If an administrator needs more time, they can extend the subscription's expiration date.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-10.png)
 
-By clicking the **Extend Expiration** button, the date will be updated to one week later. An administrator can extend their expiration up to three times.
+Upon clicking the **Extend Expiration** button, the date will be updated to one week later. An administrator can extend their expiration up to three times.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-11.png)
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-12.png)
 
 Adobe will reach out if you do not complete the migration by the expiration date. 
 
@@ -127,17 +127,17 @@ Administrators have the option to:
 * Schedule user migration for selected user(s) for a specific date via the 'Schedule Migration' button 
 * Migrate all eligible users on demand (no user selection needed) via the 'Migrate All Users' button
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-13.png)
 
 **Verify Email** 
 
 Email verification is required for a user to be migrated to an Adobe ID. If there are any users who have not verified their email address and need to be migrated, the administrator can trigger the verification email to be sent to the user again. By selecting an unverified user, the 'Verify Email' button will become clickable.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-14.png)
 
 When the administrator clicks the **Verify Email** button, they'll receive a notification the email was sent.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-15.png)
 
 **Skip and Unskip User Migration** 
 
@@ -149,13 +149,13 @@ During user migration, all users need to be either migrated or skipped. Adobe re
 
 To skip a user, the administrator can select the desired user(s). The 'Skip Migration' button will become clickable. Upon clicking the **Skip Migration** button, the page will refresh and the selected user's verification status and migration status will be updated to 'Skipped'.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-16.png)
 
 An administrator can unskip a previously skipped user, if it's determined that user needs to be migrated.  
 
 To unskip a user, the administrator can select the desired user. The 'Unskip Migration' button will become clickable. Upon clicking the **Unskip Migration** button, the page will refresh.  The selected user's verification status will be updated to its current status, either 'Verified' or 'Unverified', and the user's migration status will be updated to 'Not Started.' 
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-17.png)
 
 >[!NOTE] 
 >
@@ -169,17 +169,17 @@ For example, an administrator could select a group of "power users" they wanted 
 
 All user migrations occur concurrently and should complete successfully within sixty seconds. While user migration is occurring for a specific user, the user could lose access for up to 1 minute, and that is only if the user is logged into the application. Upon completion of user migration, the user will receive an email on how to sign into Marketo Engage with an Adobe Identity. The user needs to accept the invitation via the button link in the email. After accepting the invite, the user should sign in with an Adobe ID. Instructions on how to sign into Marketo Engage with an Adobe ID [can be found here](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-18.png)
 
 User migrations are processed independently, so if a user migration fails, Adobe will continue to process other user migrations. If a user migration failure occurs, there is no action required by an administrator. The Administrator will be sent an email notification about the error and alerted that Adobe is working to resolve the issue immediately. If a user's migration fails and that user is logged into Marketo Engage, the user could lose access for up to two minutes while migration reattempts occur. If a user's migration fails, the user can continue to access Marketo Engage with their Marketo identity until they receive email notification that their migration succeeded, and they are invited to sign in with an Adobe ID.  
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-19.png)
 
 **Migrate Now**
 
 An administrator can select one or more users to migrate on demand. This will trigger the migration of the users immediately. To migrate one or more users, the administrator can select the desired user(s), and the 'Migrate Now' button will become clickable.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-20.png)
 
 >[!NOTE]
 >
@@ -187,13 +187,13 @@ SCREENSHOT
 
 Upon clicking the **Migrate Now** button, the administrator will be prompted to confirm migration of the selected user(s). Once the administrator confirms, the user migrations will begin processing as soon as possible. 
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-21.png)
 
 **Schedule Migration**
 
 An administrator can select one or more users to schedule migration on a later date. To schedule migration for one or more users, the administrator selects the desired user(s) and the 'Schedule Migration' button will become clickable.  
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-22.png)
 
 >[!NOTE]
 >
@@ -201,7 +201,7 @@ SCREENSHOT
 
 Upon clicking the **Schedule Migration** button, the administrator will be prompted to select the desired migration date of the selected user(s). The administrator can only select dates before the subscription's migration expiration date. When the administrator confirms, the user migration(s) will be scheduled to begin processing on the selected date.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-23.png)
 
 >[!NOTE]
 >
@@ -211,8 +211,8 @@ SCREENSHOT
 
 An administrator can select to migrate all eligible users in a subscription, at any time. This will trigger the migration of the eligible users immediately. Eligible users are users with verified emails who have not yet been migrated.  
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-24.png)
 
-Upon clicking the **Migrate All Users** button, the administrator will be prompted to confirm migration of all eligible users. When the administrator confirms, the user migrations will begin processing as soon as possible. 
+Upon clicking the **Migrate All Users** button, the administrator will be prompted to **Confirm** migration of all eligible users. When the administrator confirms, the user migrations will begin processing as soon as possible. 
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-25.png)
