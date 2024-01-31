@@ -69,7 +69,7 @@ Next, there are three sections of the Status displayed to the admin.
 * **User Migration and Activation**: user migration and activation (migration and entitlement to the Marketo Engage product) status of the users within the subscription. 
 * **Migration Confirmation**: migration completion status of the subscription. 
 
-**User Email Verification**
+#### User Email Verification {#user-email-verification}
 
 In the User Email Verification section, an administrator can find the current status of email verification for the users in the subscription, prior to migration to Adobe Identity.  
 
@@ -81,13 +81,13 @@ The verification email can be resent by an administrator in the User Migration t
 >
 >If a Marketo Engage user does not verify their email address, they cannot be migrated to an Adobe ID and will lose access to the Marketo subscription after the migration is complete. To regain access, a Marketo product admin would need to add them as a new user. 
 
-**User Migration and Activation**
+#### User Migration and Activation {#user-migration-and-activation}
 
 In the User Migration and Activation section, an Administrator can find the current status of total user migration and entitlement to the Adobe Identity Management System.  
 
 An administrator can view the percentage of users in their subscription who have been migrated to an Adobe ID or marked as Skipped. Status will be reported upon the status of all users' migration state to an Adobe ID in the subscription, or marked as Skipped and won't be migrated. As users are migrated and entitled to Marketo Engage, or skipped, this status will be updated.  
 
-**Migration Confirmation**
+#### Migration Confirmation {#migration-confirmation}
 
 In the Migration Confirmation section, an administrator will be required to confirm user migration is complete for the subscription.  
 
