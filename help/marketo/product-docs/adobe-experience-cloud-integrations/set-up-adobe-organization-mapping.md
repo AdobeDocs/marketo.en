@@ -7,15 +7,16 @@ feature: Integrations
 ---
 # Set up Adobe Organization Mapping {#set-up-adobe-organization-mapping}
 
-In order to sync with Adobe applications, such as Audience Manager, the B2B CDP Marketo connector, [!DNL Dynamic Chat], etc., you must first enter your Adobe IMS Org credentials in Marketo.
+In order to sync with Adobe applications, such as Audience Manager, the B2B CDP Marketo connector, [!DNL Dynamic Chat], etc., you must first enter your Adobe IMS Org credentials in Marketo Engage.
 
 >[!NOTE]
 >
->A HIPAA-ready deployment of a Marketo instance cannot use this integration.
+>* A HIPAA-ready deployment of a Marketo instance cannot use this integration.
+>* For the integration to work, Marketo and your other Adobe applications must be in the same org.
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->For customers onboarded to the Adobe Business Platform and Identity Management System, the Org ID associated with the subscription will already be populated and is a read-only field.
+>For those onboarded to the Adobe Business Platform and Identity Management System, the Org ID associated with the subscription will already be populated and is a read-only field. As such, the steps in this article would not apply.
 
 1. In Marketo, click **[!UICONTROL Admin]**.
 

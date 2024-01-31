@@ -14,7 +14,7 @@ There are _many_ stream combinations possible. This article contains an example 
 
 ## Stream Designer Cards {#stream-designer-cards}
 
-The stream designer contains multiple cards you can add to shape the chat conversation.
+The Stream Designer contains multiple cards you can add to shape the chat conversation.
 
 <table>
  <tr>

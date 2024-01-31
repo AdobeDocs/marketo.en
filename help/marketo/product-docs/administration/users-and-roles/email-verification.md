@@ -16,6 +16,10 @@ Marketo Engage is continuing the rollout of Email Verification in preparation fo
 
 When an Admin invites a user, that user is automatically verified once they click the invite link.
 
+>[!IMPORTANT]
+>
+>The exception to the above is, in an SSO-only subscription, Admins will receive a new user invitation, but non-Admins will not. Non-Admins must go through the email verification process to ensure migration of their user records. An Admin can send the email verification link by clicking the **Resend Email Verification** button next to their username.
+
 ## Verification Email {#verification-email}
 
 Users will receive the following email when email verification is activated for a subscription, or if it's triggered by an Admin/user:
