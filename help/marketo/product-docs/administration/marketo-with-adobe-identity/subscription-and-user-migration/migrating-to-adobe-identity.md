@@ -1,8 +1,6 @@
 ---
 description: Migrating to Adobe Identity - Marketo Docs - Product Documentation
 title: Migrating to Adobe Identity
-hide: yes
-hidefromtoc: yes
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
 ---
@@ -165,7 +163,7 @@ To unskip a user, the administrator can select the desired user. The 'Unskip Mig
 
 For those who desire greater control during the user migration process, Marketo supports a Self-Service approach for subscriptions with 75 or more users. Marketo product administrators will be able to select users to migrate in batches, or all eligible users at once. Once users are selected, administrators have the option to "Migrate Now" or "Schedule Migration" for a later date, giving Admins flexibility and control over which users are migrated and when. Administrators are also presented with the option to "Migrate All Users" in a subscription.
 
-For example, an administrator could select a group of "power users" they wanted to migrate first. Once those user migrations successfully completed, they could select different groups based on variable such as workspace/business function/role to further batch user migrations by. Or, they could decide to migrate the rest of the users in the subscriptions after the success of the first batch. The goal is to provide the most flexibility in rolling out Adobe IDs to users. 
+For example, an administrator can select a group of "power users" they want to migrate first. Once those user migrations are successfully completed, they can select different groups of users based on variables such as workspace/business or function/role to further batch user migrations by. Or, they can decide to migrate the rest of the users in the subscriptions after the success of the first batch. The goal is to provide the most flexibility in rolling out Adobe IDs to users.
 
 All user migrations occur concurrently and should complete successfully within sixty seconds. While user migration is occurring for a specific user, the user could lose access for up to 1 minute, and that is only if the user is logged into the application. Upon completion of user migration, the user will receive an email on how to sign into Marketo Engage with an Adobe Identity. The user needs to accept the invitation via the button link in the email. After accepting the invite, the user should sign in with an Adobe ID. Instructions on how to sign into Marketo Engage with an Adobe ID [can be found here](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
 
