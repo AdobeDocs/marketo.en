@@ -7,15 +7,19 @@ feature: Landing Pages
 ---
 # Change the Landing Page URL {#change-the-landing-page-url}
 
-You can modify a landing page's URL. This can help make the URL easier to remember, and improve SEO.
+You can modify a Landing Page's URL. This can help make the URL easier to remember and improve SEO.
 
-1. Select your landing page. Click the **Landing Page Actions** drop-down, scroll to **URL Tools** and select **Edit URL Settings**.
+1. Find and select the desired Landing Page.
 
-   ![](assets/one.png)
+   ![](assets/change-the-landing-page-url-1.png)
+
+1. Click the **Landing Page Actions** drop-down, scroll to **URL Tools** and select **URL Settings**.
+
+   ![](assets/change-the-landing-page-url-2.png)
 
 1. Enter the **New URL**, choose to have the old URL discarded or redirected, and click **Save**.
 
-   ![](assets/two.png)
+   ![](assets/change-the-landing-page-url-3.png)
 
    >[!NOTE]
    >
