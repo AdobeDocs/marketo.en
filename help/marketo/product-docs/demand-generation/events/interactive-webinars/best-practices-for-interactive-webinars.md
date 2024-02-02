@@ -1,7 +1,6 @@
 ---
-description: Designing Interactive Webinars - Marketo Docs - Product Documentation
-title: Designing Interactive Webinars
-exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
+description: Best Practices for Interactive Webinars - Marketo Docs - Product Documentation
+title: Best Practices for Interactive Webinars
 hide: yes
 hidefromtoc: yes
 feature: Interactive Webinars
