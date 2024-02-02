@@ -68,7 +68,7 @@ To help with that, we've compiled a list of best practices that can aid in plann
 
 * Custom Pods are third party apps which can be used to extend the functionality of an Adobe Connect room. Custom Pods can be downloaded from `apps.adobeconnect.com` as .pod or .zip files which can then be shared in the Share pod.
   * Some popular custom pods are Countdown Timer, Clock, Rock Paper Scissors, Word Cloud, Titler.
-  * Click here for a short video on how to use custom pods.
+  * [Click here](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} to watch a short video on how to use custom pods.
 
 **Privacy: To keep the participant information confidential, check the settings below:**
 

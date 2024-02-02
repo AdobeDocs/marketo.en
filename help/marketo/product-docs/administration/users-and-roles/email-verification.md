@@ -18,15 +18,19 @@ When an Admin invites a user, that user is automatically verified once they clic
 
 >[!IMPORTANT]
 >
->The exception to the above is, in an SSO-only subscription, Admins will receive a new user invitation, but non-Admins will not. Non-Admins must go through the email verification process to ensure migration of their user records. An Admin can send the email verification link by clicking the **Resend Email Verification** button next to their username.
-
-## Verification Email {#verification-email}
-
-Users will receive the following email when email verification is activated for a subscription, or if it's triggered by an Admin/user:
+>The exception to the above is, _in an SSO-only subscription_, Admins will receive a new user invitation, but non-Admin users will not. Users who are not Admins must still go through the email verification process to ensure migration of their records. Users can send themselves the email verification link by going to **Admin** > **My Account** > **Account Settings** and clicking **Resend Verification**.
 
    ![](assets/email-verification-1.png)
 
->[!NOTE]
+## Verification Email {#verification-email}
+
+Users will receive the email below when email verification is activated for a subscription, or if it's triggered by an Admin/user.
+
+An active user session is required for Email Verification success. The user must first sign in to their Marketo subscription using their Identity Provider (IdP) url. Once a session is established, they would _then_ click the **Verify email address** link in the email.
+
+   ![](assets/email-verification-2.png)
+
+>[!TIP]
 >
 >To resend a verification email to an unverified user, simply select their record and click the **[!UICONTROL Verify Email]** button.
 
@@ -34,15 +38,15 @@ Users will receive the following email when email verification is activated for 
 
 When a user's email address is changed, it becomes unverified. An email will be sent to them allowing them to re-verify. Users can manually resend that email by clicking **[!UICONTROL Resend Verification]**.
 
-   ![](assets/email-verification-2.png)
-
    ![](assets/email-verification-3.png)
+
+   ![](assets/email-verification-4.png)
 
 ## Users and Roles {#users-and-roles}
 
 In **[!UICONTROL Admin]** > **[!UICONTROL Users & Roles]**, the Email Status column shows the verification status of every user.
 
-   ![](assets/email-verification-4.png)
+   ![](assets/email-verification-5.png)
 
 ## Multiple User Login IDs {#multiple-user-login-ids}
 
@@ -52,7 +56,7 @@ Only one user account can be associated with a single email address. If there ar
 * Use a new email for the current User Login ID
 * Delay the decision until next login
 
-   ![](assets/email-verification-5.png)
+   ![](assets/email-verification-6.png)
 
 >[!NOTE]
 >
