@@ -10,7 +10,7 @@ All new Adobe Marketo Engage subscriptions (July 31, 2023 or later) come integra
 
 >[!NOTE]
 >
->Marketo Support is not able to provide any updates regarding Adobe IMS migration. The Adobe Account Team will reach out with the estimated timeline in the coming months. For more information, please see [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, and the [Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+>Marketo Support is not able to provide any updates regarding Adobe IMS migration. The Adobe Account Team will reach out with the estimated timeline in the coming months. For more information, please see [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, and the [Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 For subscriptions onboarded to Adobe identity, the Adobe Admin Console is used for user management. Identity-related concepts, like Single Sign On, are also managed in the Admin Console.
 
