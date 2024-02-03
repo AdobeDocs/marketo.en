@@ -161,7 +161,7 @@ To unskip a user, the administrator can select the desired user. The 'Unskip Mig
 
 ### Migrating Marketo Users to Adobe IDs {#migrating-marketo-users-to-adobe-ids}
 
-For those who desire greater control during the user migration process, Marketo supports a Self-Service approach for subscriptions with 75 or more users. Marketo product administrators will be able to select users to migrate in batches, or all eligible users at once. Once users are selected, administrators have the option to "Migrate Now" or "Schedule Migration" for a later date, giving Admins flexibility and control over which users are migrated and when. Administrators are also presented with the option to "Migrate All Users" in a subscription.
+Marketo product administrators will be able to select users to migrate in batches, or all eligible users at once. Once users are selected, administrators have the option to "Migrate Now" or "Schedule Migration" for a later date, giving Admins flexibility and control over which users are migrated and when. Administrators are also presented with the option to "Migrate All Users" in a subscription.
 
 For example, an administrator can select a group of "power users" they want to migrate first. Once those user migrations are successfully completed, they can select different groups of users based on variables such as workspace/business or function/role to further batch user migrations by. Or, they can decide to migrate the rest of the users in the subscriptions after the success of the first batch. The goal is to provide the most flexibility in rolling out Adobe IDs to users.
 
