@@ -1,8 +1,6 @@
 ---
 description: Best Practices for Interactive Webinars - Marketo Docs - Product Documentation
 title: Best Practices for Interactive Webinars
-hide: yes
-hidefromtoc: yes
 feature: Interactive Webinars
 ---
 # Best Practices for Interactive Webinars {#best-practices-for-interactive-webinars}
