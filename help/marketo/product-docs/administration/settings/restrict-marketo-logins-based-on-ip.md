@@ -13,9 +13,9 @@ You can restrict or enable users from accessing Marketo based on their IP addres
 >
 >**Admin Permissions Required**
 
->[!NOTE]
+>[!IMPORTANT]
 >
->The information in this article only applies to direct log-ins at login.marketo.com. It is not possible to enforce IP restrictions on single sign-on (SSO) log-ins at this time.
+>The information in this article is for users who log in directly at login.marketo.com and does not apply to those who authenticate with Adobe ID. It is not possible to enforce IP restrictions on single sign-on (SSO) logins at this time.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
