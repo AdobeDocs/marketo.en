@@ -28,6 +28,10 @@ Learn how to design your webinar to suit your needs.
 
    ![](assets/designing-interactive-webinars-4.png)
 
+   >[!NOTE]
+   >
+   >By default, the name of the room indicated in the "Interactive Webinar Room Name" field is the same name as your Interactive Webinar Event Program. You have the option of changing it to reflect the title of the webinar itself, since this name is visible to your audience.
+
    >[!TIP]
    >
    >Your webinar will be set to the default language in your Marketo Engage instance, but you have the option to change languages on a per-webinar basis by using the drop-down above the preview.

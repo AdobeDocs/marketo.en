@@ -3,7 +3,6 @@ description: Notification - Websocket Connection - Marketo Docs - Product Docume
 title: Notification - Websocket Connection
 hide: yes
 hidefromtoc: yes
-feature: Getting Started
 ---
 # Notification: Websocket Connection {#notification-websocket-connection}
 
