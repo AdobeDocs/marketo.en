@@ -1121,7 +1121,7 @@ feature-set: Marketo Engage
     + [Using the Global Search](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
     + [Toggle Switch](product-docs/marketo-engage-modern-ux/toggle-switch.md)
   + Marketo Notifications {#marketo-notifications}
-    + [Notification: Websocket Connection](product-docs/marketo-notifications/notification-websocket-connection.md)
+    + [Notification: Websocket Connection](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
     + Getting Started {#getting-started}
       + [Sales Connect Overview](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
