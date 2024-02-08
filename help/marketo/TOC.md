@@ -1943,8 +1943,9 @@ feature-set: Marketo Engage
 + Release Notes {#release-notes}
   + [Release Schedule](release-notes/release-schedule.md)
   + [Current Release](release-notes/current.md)
-  + [Current Release TEMP](release-notes/current-temp.md)
   + Previous Releases {#previous-releases}
+    + 2024 {#2024}
+      + [Release Notes: January '24](release-notes/previous-releases/2024/release-notes-jan-24.md)
     + 2023 {#2023}
       + [Release Notes: January '23](release-notes/previous-releases/2023/release-notes-jan-23.md)
       + [Release Notes: March '23](release-notes/previous-releases/2023/release-notes-mar-23.md)
