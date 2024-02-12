@@ -698,6 +698,7 @@ feature-set: Marketo Engage
         + [Best Practices for Interactive Webinars](product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md)
         + [User and License Management](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
         + [Create an Interactive Webinar](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+        + [Add a Webinar Team](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
         + [Designing Interactive Webinars](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
         + [Promoting an Interactive Webinar](product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md)
         + [Modify or Delete an Interactive Webinar](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
