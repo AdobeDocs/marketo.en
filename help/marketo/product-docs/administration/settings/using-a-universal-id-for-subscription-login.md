@@ -53,10 +53,6 @@ When you log out and back in, Marketo automatically logs you into the subscripti
 
 If you have multiple subscriptions, you may have multiple community profiles. We recommend that you choose the login that's linked with your most active community profile.
 
-## Mobile Platform {#mobile-platform}
-
-Users with Universal ID can see their data on [Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} from the subscription that they have last logged in to. You can't change subscriptions from the Mobile platform itself.
-
 >[!MORELIKETHIS]
 >
 >* [Add Single Sign-On to a Portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"}
