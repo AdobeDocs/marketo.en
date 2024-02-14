@@ -119,7 +119,7 @@ Opening blurb
 </tbody>
 </table>
 
-## Tags {tags}
+## Tags {#tags}
 
 <table>
 <thead>
