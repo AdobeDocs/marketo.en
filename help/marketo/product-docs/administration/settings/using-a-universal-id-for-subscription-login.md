@@ -25,7 +25,7 @@ All Marketo subscriptions come with the optional Universal ID feature. From each
 
 When you log in to accept an invitation to a second subscription using a Universal ID, you'll see the Opt-in login page. Here, you must check a checkbox to accept the terms and conditions. After you've accepted, you'll see the normal reset page, not this one, for any subsequent logins. By accepting the terms and conditions, you are allowing Marketo to distribute your basic profile data (such as first name, last name, and email address) to the datacenters in different locations where your subscription is hosted.
 
-![](assets/new-login-reduced-hands-name.png)
+![](assets/using-a-universal-id-for-subscription-login-1.png)
 
 >[!TIP]
 >
@@ -45,7 +45,7 @@ With a Universal ID for multiple subscriptions, only you can change the password
 
 Using a Universal ID, you can see the subscription you're logged into, and select other subscriptions to which you have login access. In most cases, you can switch between them without having to log out and back in.
 
-![](assets/image2016-11-3-15-3a10-3a16.png)
+![](assets/using-a-universal-id-for-subscription-login-2.png)
 
 When you log out and back in, Marketo automatically logs you into the subscription you were last logged into. You can then switch to a different subscription if necessary.
 
