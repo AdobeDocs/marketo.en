@@ -45,16 +45,6 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
     <tr> 
-   <td><strong>Custom Templates in Interactive Webinars</strong>: You now have the ability to create custom templates for room layouts in Interactive Webinars.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-   <tr> 
-   <td>&nbsp;</td> 
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-    <tr> 
    <td><strong>API Activity Metadata</strong>: 
    Metadata such as User Agent, Platform, and Device are now included in web and email activities, helping to provide consistent insights into these activities via the Marketo REST API.</td> 
    <td><i>Coming Soon</i></td>
