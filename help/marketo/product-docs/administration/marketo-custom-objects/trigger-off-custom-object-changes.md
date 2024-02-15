@@ -11,7 +11,6 @@ feature: Custom Objects
 >
 >This feature is available only:
 >
->* For customers on the [!DNL Orion] infrastructure
 >* For use only with Marketo custom objects, not custom objects synced through the native [!DNL Salesforce] or [!DNL Microsoft Dynamics] integration
 >* As a trigger, not a filter
 >

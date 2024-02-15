@@ -11,7 +11,7 @@ The following features are included in the Spring '16 release. Please click the 
 
 ## [Email Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
-Email Insights is a brand new historical aggregate data email analytics experience — redesigned end-to-end for lightning fast performance as part of Project Orion. It features a completely new user interface design optimized to fit the needs and workflow of Email Marketers.
+Email Insights is a brand new historical aggregate data email analytics experience - redesigned end-to-end for lightning fast performance. It features a completely new user interface design optimized to fit the needs and workflow of Email Marketers.
 
 >[!NOTE]
 >
@@ -57,7 +57,7 @@ Similar to the IP allowlisting feature for Marketo user logins, Marketo admins c
 
 ## [New High-Speed Microsoft Dynamics Sync Connector](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
-Built atop Orion architecture, the new, high-speed dynamics connector provides speeds up to 20 times faster for initial sync and up to 5 times faster for incremental sync. All new customers will onboard to this connector on the release date, and we will gradually roll it out to existing customers over the summer release time frame.
+The new, high-speed Dynamics connector provides speeds up to 20 times faster for initial sync and up to 5 times faster for incremental sync. All new customers will onboard to this connector on the release date, and we will gradually roll it out to existing customers over the summer release time frame.
 
 **Refresh data for new fields**: Now you can enable new sync fields at any point in time and all data values for that field will be refreshed from Dynamics CRM into Marketo. No more worries about having to select all fields during initial setup. If you disable an existing sync field and re-enable it later, all data values for that field will be refreshed from Dynamics CRM into Marketo.
 
