@@ -19,19 +19,13 @@ feature: Release Information
 
 _Release dates/features are subject to change_
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup>
+<table>
  <tbody> 
   <tr> 
    <th width="250px">Release</th>
    <th width="250px">Release Date</th>
    <th width="250px">Status</th>
   </tr>
-  
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-sep-23.md">September '23</a></td>
    <td>September 8, 2023</td>
@@ -43,12 +37,12 @@ _Release dates/features are subject to change_
    <td>Shipped</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">January '24</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-jan-24.md">January '24</a></td>
    <td>January 12, 2024</td>
    <td>In Progress</td>
   </tr>
   <tr> 
-   <td>March '24</td>
+   <td><a href="/help/marketo/release-notes/current.md">March '24</a></td>
    <td>March 8, 2024</td>
    <td>On Schedule</td>
   </tr>

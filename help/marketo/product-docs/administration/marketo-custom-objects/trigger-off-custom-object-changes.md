@@ -16,7 +16,7 @@ feature: Custom Objects
 >
 >Please contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) to have Custom Object Change Triggers enabled.
 
-In a smart campaign's smart list, you can trigger a flow action when a custom object is added to a person or company. You can also create a smart list that uses a *change* in a custom object as a trigger. For example, use it to send an email when a course name is updated.
+In a smart campaign's smart list, you can trigger a flow action when a custom object is added to a person or company. You can also create a smart list that uses a _change_ in a custom object as a trigger. For example, use it to send an email when a course name is updated.
 
 >[!NOTE]
 >
