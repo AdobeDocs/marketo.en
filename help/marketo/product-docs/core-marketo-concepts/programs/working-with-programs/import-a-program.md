@@ -7,7 +7,11 @@ feature: Programs
 ---
 # Import a Program {#import-a-program}
 
-A program can be imported from one Marketo subscription to another. For instance, you can create a program in a sandbox and then import it into your live subscription. Also, you can import a pre-built program from the [Marketo Program Library](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+A program can be imported from one Marketo Engage subscription to another. For instance, you can create a program in a sandbox and then import it into your live subscription. Also, you can import a pre-built program from the [Marketo Program Library](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+
+>[!CAUTION]
+>
+>Programs that have Smart Lists containing a "Custom Object is Updated" trigger will cause the import to fail. Please delete this trigger prior to following the steps below.
 
 ## Importing a Program {#importing-a-program}
 
@@ -21,9 +25,9 @@ A program can be imported from one Marketo subscription to another. For instance
 
    >[!NOTE]
    >
-   >Program Import is only available for users that have roles with Import Program permission enabled. Learn more about [managing user roles and permissions](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+   >* Program Import is only available for users that have roles with Import Program permission enabled. Learn more about [managing user roles and permissions](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >To connect a sandbox account to your live subscription, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >* To connect a sandbox account to your live subscription, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. Select a Marketo **[!UICONTROL Subscription]** and a program to import. Click **[!UICONTROL Next]**.
 
