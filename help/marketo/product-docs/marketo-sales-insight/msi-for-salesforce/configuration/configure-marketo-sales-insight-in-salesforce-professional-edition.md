@@ -22,7 +22,8 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
 ## Configure Sales Insight in Marketo {#configure-sales-insight-in-marketo}
 
 1. Open a new browser window to get the Marketo Sales Insight credentials from your Marketo account.
-1. Go to the Admin area and select **Sales Insight**.
+
+1. Go to the **Admin** area and select **Sales Insight**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1-1.png)
 
@@ -42,7 +43,7 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 
-1. You will see a confirmation pop-up. Click **OK**.
+1. You'll see a confirmation pop-up. Click **OK**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5-1.png)
 
@@ -69,52 +70,6 @@ Here are the steps you need to take to configure Marketo Sales Insight in Salesf
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10-1.png)
 
 1. Enter the Remote Site Name (it can be something like "MarketoRestAPI"). Enter Remote Site URL, which is your API URL from Rest API Configuration panel in Marketo. Click **Save**. You have now created remote site settings for Rest API.
-
-## Set up Marketo Sales Insight {#set-up-marketo-sales-insight}
-
-1. Log in to your Marketo instance and click **Admin**.
-
-   ![](assets/login-admin-1.png)
-
-1. Click **Sales Insight**.
-
-   ![](assets/image2015-5-22-15-3a12-3a33-1.png)
-
-1. Click **Edit API Configuration**.
-
-   ![](assets/image2015-5-22-15-3a15-3a0-1.png)
-
-1. Enter an **API Secret Key** and click **Save**.
-
-   >[!CAUTION]
-   >
-   >Don't use an ampersand (&) in your API Secret Key.
-
-   ![](assets/image2015-5-27-16-3a36-3a56-1.png)
-
-   >[!TIP]
-   >
-   >Keep this window open. You will need this information later in Salesforce.
-
-1. Go back to Salesforce, click **Setup**.
-
-   ![](assets/image2015-5-22-14-3a40-3a39-1.png)
-
-1. Search for "remote site" and click **Remote Site Setting** under **Security Controls**.
-
-   ![](assets/image2014-9-24-17-3a25-3a52.png)
-
-1. Click **New Remote Site**.
-
-   ![](assets/image2014-9-24-17-3a26-3a6.png)
-
-1. Enter **Remote Site Name** and **Remote Site URL**, then click **Save**.
-
-   ![](assets/remote-site-1.png)
-
-   >[!NOTE]
-   >
-   >You choose your **Remote Site Name** (MarketoAPI is used here). The **Remote Site URL** can be found in the Marketo Host field of your Edit API Configuration dialog box from Step 4.
    
 ## Grant Sales Insight Users Profile Access to Standard Salesforce Objects {#grant-sales-insight-users-profile-access}
 
