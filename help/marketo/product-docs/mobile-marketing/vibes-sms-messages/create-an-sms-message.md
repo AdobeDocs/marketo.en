@@ -9,7 +9,7 @@ Here's how to create an SMS message.
 
 >[!AVAILABILITY]
 >
->This feature is available as an add-on for your Adobe Marketo Engage Account. In order for it to be provisioned properly, it must be purchased through Adobe. Please contact the Adobe Account Team (your Account Manager) for details. Marketo Vibes SMS native integration is available in the U.S. and Canada. For other countries, a connection via Marketo Webhooks can be utilized by [contacting Vibes directly](https://www.vibes.com/talk-to-sales){target="_blank"}.
+>This feature is available as an add-on for your Adobe Marketo Engage Account. In order for it to be provisioned properly, it must be purchased through Adobe. Please contact the Adobe Account Team (your Account Manager) for details. Marketo Vibes SMS native integration is available in the U.S. and Canada. For other countries, a connection via Marketo Webhooks can be utilized by [contacting Vibes directly](https://www.vibes.com/talk-to-sales).
 
 >[!PREREQUISITES]
 >
