@@ -11,7 +11,7 @@ A program can be imported from one Marketo Engage subscription to another. For i
 
 >[!CAUTION]
 >
->Programs that have Smart Lists containing a "Custom Object is Updated" trigger will cause the import to fail. Please delete this trigger prior to following the steps below.
+>Programs that have Smart Lists containing a "Custom Object is Updated" trigger will cause the import to fail. Please remove this trigger from all Smart Lists prior to following the steps outlined below.
 
 ## Importing a Program {#importing-a-program}
 
