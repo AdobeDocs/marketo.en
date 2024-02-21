@@ -27,11 +27,6 @@ _Release dates/features are subject to change_
    <th width="250px">Status</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-sep-23.md">September '23</a></td>
-   <td>September 8, 2023</td>
-   <td>Shipped</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-oct-23.md">October '23</a></td>
    <td>October 6, 2023</td>
    <td>Shipped</td>
