@@ -7,7 +7,7 @@ feature: Getting Started
 ---
 # NEW AREA: Admin Checklist {#new-area-admin-checklist}
 
-Opening blurb
+Intro text.
 
 ## Roles {#roles}
 
