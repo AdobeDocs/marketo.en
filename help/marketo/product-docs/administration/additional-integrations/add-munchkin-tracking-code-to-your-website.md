@@ -17,7 +17,7 @@ Marketo's custom JavaScript tracking code, called [!DNL Munchkin], tracks all in
 
 >[!NOTE]
 >
->Adobe Experience Cloud customers can also use Marketo's integration in Adobe Launch to include [!DNL Munchkin] script on their web pages. Get the app [here](https://www.adobeexchange.com/experiencecloud.details.101054.html){target="_blank"}.
+>Adobe Experience Cloud users can also use the [Marketo integration in Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} to include [!DNL Munchkin] script on their web pages. If you use Adobe Launch, _the [!DNL Munchkin] script gets added automatically_, so you would not need to add it yourself.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
@@ -53,7 +53,7 @@ Marketo's custom JavaScript tracking code, called [!DNL Munchkin], tracks all in
 
    >[!TIP]
    >
-   >For sites that see a high volume of traffic (i.e., hundreds of thousands of visits per month), we recommend you opt not to track anonymous people. [Learn more](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
+   >For sites that see a high volume of traffic (i.e., hundreds of thousands of visits per month), we recommend you opt not to track anonymous people. [Learn more](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"}.
 
 ## Add Tracking Code When Using Multiple Workspaces {#add-tracking-code-when-using-multiple-workspaces}
 
