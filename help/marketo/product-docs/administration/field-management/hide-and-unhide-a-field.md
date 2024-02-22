@@ -31,6 +31,7 @@ If you no longer have use for a field in Marketo Engage, you can hide it from th
    >
    >* In order to hide a field it must not be associated with any other assets (including archived ones). Make sure to remove the field from all Smart Lists, flow step choices, forms, emails, etc., before hiding.
    >* You cannot hide standard (system) fields.
+   >* You cannot hide opportunity info fields.
 
 1. Click **[!UICONTROL Hide]** to confirm.
 
