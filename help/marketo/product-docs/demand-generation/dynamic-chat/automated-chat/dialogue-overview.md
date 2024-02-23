@@ -58,10 +58,10 @@ The Reports tab is where you'll be able to see metrics around how well your Dial
 
 You have the ability to disable (and re-enable) all published Dialogues at the same time.
 
-1. In Dynamic Chat, click the **Configuration** tab.
+1. In Dynamic Chat, click the **[!UICONTROL Configuration]** tab.
 
    ![](assets/dialogue-overview-4.png)
 
-1. Toggle the **Chat Enabled** switch to off to disable (and back on to re-enable) all Dialogues.
+1. Toggle the **[!UICONTROL Chat Enabled]** switch to off to disable (and back on to re-enable) all Dialogues.
 
    ![](assets/dialogue-overview-5.png)

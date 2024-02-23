@@ -10,7 +10,7 @@ Similar to Marketo Engage Smart Lists, Audience Criteria attributes allow you to
 
 ## Priority {#priority}
 
-Priority determines which Dialogue a lead receives in the case they qualify for more than one. It's established when you first [create your Dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. You can change the priority for an exisiting Dialogue by opening it and going to **Dialogue Details** in the Audience Criteria tab.
+Priority determines which Dialogue a lead receives in the case they qualify for more than one. It's established when you first [create your Dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. You can change the priority for an exisiting Dialogue by opening it and going to **[!UICONTROL Dialogue Details]** in the Audience Criteria tab.
 
    ![](assets/audience-criteria-1.png)
 
@@ -18,7 +18,7 @@ Priority determines which Dialogue a lead receives in the case they qualify for 
 
 Events allow you to target visitors based on how much they scroll or how long they're on your page/site. In the example below, we're targeting visitors who have been on a specific page for more than 20 seconds.
 
-1. Grab the **Time on Page** event and drag it to the right.
+1. Grab the **[!UICONTROL Time on Page]** event and drag it to the right.
 
    ![](assets/audience-criteria-3.png)
 
@@ -34,9 +34,9 @@ Events allow you to target visitors based on how much they scroll or how long th
 
 **Known People**
 
-There are _many_ attribute combinations to choose from. In the example below, we're targeting all **known people** in California who work at a company with more than 50 employees.
+There are _many_ attribute combinations to choose from. In the example below, we're targeting all known people in California who work at a company with more than 50 employees.
 
-1. Grab the **Person State** attribute and drag it to the right.
+1. Grab the **[!UICONTROL Person State]** attribute and drag it to the right.
 
    ![](assets/audience-criteria-7.png)
 
@@ -44,7 +44,7 @@ There are _many_ attribute combinations to choose from. In the example below, we
 
    ![](assets/audience-criteria-8.png)
 
-1. Grab the **Company Size** attribute and drag it to where it says _drag and drop an attribute here_.
+1. Grab the **[!UICONTROL Company Size]** attribute and drag it to where it says _drag and drop an attribute here_.
 
    ![](assets/audience-criteria-9.png)
 
@@ -52,7 +52,7 @@ There are _many_ attribute combinations to choose from. In the example below, we
    >
    >You can also choose an attribute by clicking its **+** icon.
 
-1. Click the operator drop-down and select **Greater Than**.
+1. Click the operator drop-down and select **[!UICONTROL Greater Than]**.
 
    ![](assets/audience-criteria-10.png)
 
@@ -64,17 +64,17 @@ And that's it!
 
 **Anonymous People**
 
-There's an easy way to specifically target people who are not in your database yet. In this example, we're targeting all **anonymous people** located in the New York area.
+There's an easy way to specifically target people who are not in your database yet. In this example, we're targeting all anonymous people located in the New York area.
 
-1. Grab the **Person Email** attribute and drag it to the right.
+1. Grab the **[!UICONTROL Person Email]** attribute and drag it to the right.
 
    ![](assets/audience-criteria-12.png)
 
-1. Click the operator drop-down and select **Is Empty**.
+1. Click the operator drop-down and select **[!UICONTROL Is Empty]**.
 
    ![](assets/audience-criteria-13.png)
 
-1. Grab the **Inferred State** attribute and drag it to where it says _drag and drop an attribute here_.
+1. Grab the **[!UICONTROL Inferred State]** attribute and drag it to where it says _drag and drop an attribute here_.
 
    ![](assets/audience-criteria-14.png)
 
@@ -94,7 +94,7 @@ Use Marketo Engage Smart Lists for your Dialogue's target audience.
 >
 >Member of Smart List or Member of List criteria requires Dynamic Chat Prime. Please contact the Adobe Account Team (your Account Manager) for details.
 
-1. Under Membership, grab **Member of Smart List** and drop it onto the canvas.
+1. Under Membership, grab **[!UICONTROL Member of Smart List]** and drop it onto the canvas.
 
    ![](assets/audience-criteria-15a.png)
 
@@ -127,7 +127,7 @@ Acceptable formats:
 
 **Exclusions**
 
-Use exclusions to ensure your Dialogue does **not** appear on a specific page/area of your site. Exclusions follow the same format as inclusions.
+Use exclusions to ensure your Dialogue does _not_ appear on a specific page/area of your site. Exclusions follow the same format as inclusions.
 
    ![](assets/audience-criteria-18.png)
 

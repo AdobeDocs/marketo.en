@@ -14,7 +14,7 @@ After you've completed the [initial setup](/help/marketo/product-docs/demand-gen
 >
 >Dynamic Chat supports syncing [Marketo native](https://developers.marketo.com/rest-api/lead-database/fields/list-of-standard-fields/){target="_blank"} and custom person fields and company fields.
 
-1. In My Marketo, click the **Dynamic Chat** tile.
+1. In My Marketo, click the **[!UICONTROL Dynamic Chat]** tile.
 
    ![](assets/adobe-marketo-engage-1.png)
 
@@ -24,19 +24,19 @@ After you've completed the [initial setup](/help/marketo/product-docs/demand-gen
 
 1. If you've previously accessed an application with an Adobe ID, you'll be taken straight to Dynamic Chat. If not, [set up your Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
-1. To connect your Marketo instance, select **Integrations**.
+1. To connect your Marketo instance, select **[!UICONTROL Integrations]**.
 
    ![](assets/adobe-marketo-engage-2.png)
 
-1. On the Marketo card, click **Initiate Sync**.
+1. On the Marketo card, click **[!UICONTROL Initiate Sync]**.
 
    ![](assets/adobe-marketo-engage-3.png)
 
-1. Select up to 50 attributes (standard or custom fields) from your Marketo instance to sync to Dynamic Chat for use in audience targeting, data mapping, and personalization. Click **Next** when done.
+1. Select up to 50 attributes (standard or custom fields) from your Marketo instance to sync to Dynamic Chat for use in audience targeting, data mapping, and personalization. Click **[!UICONTROL Next]** when done.
 
    ![](assets/adobe-marketo-engage-4.png)
 
-1. Review your selections. Click **Confirm** to initiate the sync.
+1. Review your selections. Click **[!UICONTROL Confirm]** to initiate the sync.
 
    ![](assets/adobe-marketo-engage-5.png)
 
@@ -48,15 +48,15 @@ After you've completed the [initial setup](/help/marketo/product-docs/demand-gen
 
 After the initial sync, here's how to add additional attributes.
 
-1. In **Integrations**, make sure the **Adobe Marketo Engage** tab is selected and click **Add Attribute**.
+1. In **[!UICONTROL Integrations]**, make sure the **[!UICONTROL Adobe Marketo Engage]** tab is selected and click **[!UICONTROL Add Attribute]**.
 
    ![](assets/adobe-marketo-engage-6.png)
 
-1. Select the attribute(s) you'd like to add and click **Next**.
+1. Select the attribute(s) you'd like to add and click **[!UICONTROL Next]**.
 
    ![](assets/adobe-marketo-engage-7.png)
 
-1. Review your selections and click **Confirm**.
+1. Review your selections and click **[!UICONTROL Confirm]**.
 
    ![](assets/adobe-marketo-engage-8.png)
 
@@ -68,11 +68,11 @@ After the initial sync, here's how to remove an attribute.
 >
 >You'll only see the option to remove an attribute  if it's not currently in use by any Dialogues.
 
-1. In **Integrations**, make sure the **Adobe Marketo Engage** tab is selected and click on the attribute you want to remove.
+1. In **[!UICONTROL Integrations]**, make sure the **[!UICONTROL Adobe Marketo Engage]** tab is selected and click on the attribute you want to remove.
 
    ![](assets/adobe-marketo-engage-9.png)
 
-1. Click **Remove Attribute**.
+1. Click **[!UICONTROL Remove Attribute]**.
 
    ![](assets/adobe-marketo-engage-10.png)
 

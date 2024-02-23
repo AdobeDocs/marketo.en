@@ -8,15 +8,15 @@ exl-id: 2a4a87e4-13d8-4546-a9c0-75f36f5d83c9
 
 Here's how to create a new Conversational Flow.
 
-1. Under Automated Chat, click **Conversational Flows**.
+1. Under [!UICONTROL Automated Chat], click **[!UICONTROL Conversational Flows]**.
 
    ![](assets/create-a-conversational-flow-1.png)
 
-1. Click **Create Conversational Flow**.
+1. Click **[!UICONTROL Create Conversational Flow]**.
 
    ![](assets/create-a-conversational-flow-2.png)
 
-1. Choose a blank Conversational Flow, or one of the pre-populated templates. Enter a name (description is optional), change the language (optional), and click **Create**.
+1. Choose a blank Conversational Flow, or one of the pre-populated templates. Enter a name (description is optional), change the language (optional), and click **[!UICONTROL Create]**.
 
    ![](assets/create-a-conversational-flow-3.png)
 

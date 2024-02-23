@@ -8,15 +8,15 @@ exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
 
 Here's how to create a new Dialogue.
 
-1. Click **Dialogues**.
+1. Click **[!UICONTROL Dialogues]**.
 
    ![](assets/create-a-dialogue-1.png)
 
-1. Click the **Create New** button.
+1. Click the **[!UICONTROL Create New]** button.
 
    ![](assets/create-a-dialogue-2.png)
 
-1. Choose a blank Dialogue, or one of the pre-populated templates. Enter a name (description is optional), change the priority level (optional), and click **Create**.
+1. Choose a blank Dialogue, or one of the pre-populated templates. Enter a name (description is optional), change the priority level (optional), and click **[!UICONTROL Create]**.
 
    ![](assets/create-a-dialogue-3.png)
 

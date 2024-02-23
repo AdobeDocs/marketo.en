@@ -16,19 +16,19 @@ Make Marketo Engage Forms conversational by integrating them with Dynamic Chat C
 
    ![](assets/conversational-flow-settings-1.png)
 
-1. Click **Edit Draft**.
+1. Click **[!UICONTROL Edit Draft]**.
 
    ![](assets/conversational-flow-settings-2.png)
 
-1. On the form edit page, click **Form Settings**, then **Settings**.
+1. On the form edit page, click **[!UICONTROL Form Settings]**, then **[!UICONTROL Settings]**.
 
    ![](assets/conversational-flow-settings-3.png)
 
-1. Click the **Conversational Flow Settings** slider to enable.
+1. Click the **[!UICONTROL Conversational Flow Settings]** slider to enable.
 
    ![](assets/conversational-flow-settings-4.png)
 
-1. A Default Choice modal will appear. Select your preference. In this example we're choosing **Use Conversational Flow**.
+1. A Default Choice modal will appear. Select your preference. In this example we're choosing **[!UICONTROL Use Conversational Flow]**.
 
    ![](assets/conversational-flow-settings-5.png)
 
@@ -48,6 +48,6 @@ Make Marketo Engage Forms conversational by integrating them with Dynamic Chat C
    >
    >The visitor's browser must be cookie'd as a known person prior to form submission in order to qualify for member of Static/Smart List.
 
-1. Click **Finish** when done.
+1. Click **[!UICONTROL Finish]** when done.
 
    ![](assets/conversational-flow-settings-8.png)

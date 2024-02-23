@@ -8,6 +8,10 @@ feature: Marketo Sales Insights
 
 The Best Bets tab includes a list of all of your hot leads based on their priority, calculated using urgency and relative score.
 
+>[!CAUTION]
+>
+>Be careful not to exceed 1,000 Best Bets, otherwise the page could stop loading. If this occurs, use the filters to narrow down your total number of Best Bets.
+
 **Filter Options**
 
 You can click on each of the following buttons to see Best Bets:
@@ -21,7 +25,7 @@ You can click on each of the following buttons to see Best Bets:
 
 Lead & Contact buttons are selected by default. You can select one or more filter options and a minimum of one of the four options will have to always be selected.  
 
-You cannot “Hide” a lead or contact that you do not own.
+You cannot "Hide" a lead or contact that you do not own.
 
 **In-line Engagement**
 

@@ -85,15 +85,15 @@ In the upper-right of the Stream Designer, you'll see a handful of icons. Here's
 
 You can create streams for Dialogues or [Conversational Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. In this example, we'll create one for a Dialogue.
 
-1. After you've [created your Dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, click the **Stream Designer** tab.
+1. After you've [created your Dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, click the **[!UICONTROL Stream Designer]** tab.
 
    ![](assets/stream-designer-6.png)
 
-1. Drag and drop the Question card.
+1. Drag and drop the [!UICONTROL Question] card.
 
    ![](assets/stream-designer-7.png)
 
-1. Under Chatbot Response, word your question how you'd like.
+1. Under [!UICONTROL Chatbot Response], word your question how you'd like.
 
    ![](assets/stream-designer-8.png)
 
@@ -105,51 +105,51 @@ You can create streams for Dialogues or [Conversational Forms](/help/marketo/pro
    >
    >Poke is set to on by default, which displays the opening question next to the chat icon without the visitor having to click on it to see it. Poke is only available on the first card in the conversation.
 
-1. Enter your User Responses and click **Save**.
+1. Enter your User Responses and click **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
-   >**Edit Stored Values** is an optional step for those who'd like to store a different value in the database than what's being displayed to visitors in the chatbot for mapped attributes in the Question card (ex: visitor sees "Search Engine Optimization," you store that value as "SEO.").
+   >**[!UICONTROL Edit Stored Values]** is an optional step for those who'd like to store a different value in the database than what's being displayed to visitors in the chatbot for mapped attributes in the Question card (ex: visitor sees "Search Engine Optimization," you store that value as "SEO.").
 
 1. For "Yes" we want to schedule an appointment, so below that option drag over the Appointment Scheduler card.
 
    ![](assets/stream-designer-10.png)
 
-1. In the column on the right, click **Save**.
+1. In the column on the right, click **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-11.png)
 
-1. Since that's a goal, drag the Goal card below the Appointment Scheduler.
+1. Since that's a goal, drag the [!UICONTROL Goal] card below the Appointment Scheduler.
 
    ![](assets/stream-designer-12.png)
 
-1. Name your goal (or choose an existing one) and click **Save**.
+1. Name your goal (or choose an existing one) and click **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-13.png)
 
-1. For "No" we want to see if they'll join the mailing list, so below that option drag over another Question card.
+1. For "No" we want to see if they'll join the mailing list, so below that option drag over another [!UICONTROL Question] card.
 
    ![](assets/stream-designer-14.png)
 
-1. Enter your response, and add response choices for the visitor. Click **Save** when done.
+1. Enter your response, and add response choices for the visitor. Click **[!UICONTROL Save]** when done.
 
    ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
-   >You can add more responses by clicking **Add Response**.
+   >You can add more responses by clicking **[!UICONTROL Add Response]**.
 
 1. Below the "Yes" response, drag over the Info Capture card so you can collect the visitor's email.
 
    ![](assets/stream-designer-16.png)
 
-1. Click the **Type** drop-down and select **Email**.
+1. Click the **[!UICONTROL Type]** drop-down and select **[!UICONTROL Email]**.
 
    ![](assets/stream-designer-17.png)
 
-1. Enter a chatbot message and placeholder. Make sure the attribute is mapped to the appropriate field in Marketo and click **Save**.
+1. Enter a chatbot message and placeholder. Make sure the attribute is mapped to the appropriate field in Marketo and click **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -172,11 +172,11 @@ You can create streams for Dialogues or [Conversational Forms](/help/marketo/pro
     </tr>
    </table>
 
-1. Since collecting their email is a goal, drag the Goal card below Info Capture.
+1. Since collecting their email is a goal, drag the [!UICONTROL Goal] card below Info Capture.
 
    ![](assets/stream-designer-19.png)
 
-1. Name your goal (or choose an existing one) and click **Save**.
+1. Name your goal (or choose an existing one) and click **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-20.png)
 
@@ -184,21 +184,21 @@ You can create streams for Dialogues or [Conversational Forms](/help/marketo/pro
 
    ![](assets/stream-designer-21.png)
 
-1. In this example we'll create a new document. Give it a name, enter the URL to the PDF you already have hosted, and click **Save**.
+1. In this example we'll create a new document. Give it a name, enter the URL to the PDF you already have hosted, and click **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-22.png)
 
-1. Select the **Preview** toggle to preview your Dialogue.
+1. Select the **[!UICONTROL Preview]** toggle to preview your Dialogue.
 
    ![](assets/stream-designer-23.png)
 
-1. When you're ready to activate your Dialogue, click **Publish**.
+1. When you're ready to activate your Dialogue, click **[!UICONTROL Publish]**.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->Before clicking Publish, remember to make sure you've [entered your target URL(s)](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Before clicking [!UICONTROL Publish], remember to make sure you've [entered your target URL(s)](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
