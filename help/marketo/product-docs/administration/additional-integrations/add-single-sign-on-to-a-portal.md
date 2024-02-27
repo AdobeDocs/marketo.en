@@ -23,8 +23,7 @@ Once SSO is enabled, the IdP can validate a user's credentials. When a user wish
 
 >[!NOTE]
 >
->Are you a [!DNL Microsoft Azure] user? Check out their [integration tutorial](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. 
-FYI, there is a typo in Step 5c of their tutorial. Please use `https://<munchkinid>.mktoweb.com`, _not_ `https://<munchkinid>.marketo.com`.
+>Are you a [!DNL Microsoft Azure] user? Check out their [integration tutorial](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. FYI, there is a typo in Step 5c of their tutorial. Please use `https://<munchkinid>.mktoweb.com`, **_not_** `https://<munchkinid>.marketo.com`.
 
 ## How to Send the Request {#how-to-send-the-request}
 
