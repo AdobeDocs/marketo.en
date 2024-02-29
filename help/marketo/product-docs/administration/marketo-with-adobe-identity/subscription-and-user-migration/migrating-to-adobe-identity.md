@@ -38,9 +38,9 @@ Adobe will automatically migrate all Marketo Admins with verified emails first. 
 
 ![](assets/migrating-to-adobe-identity-5.png)
 
-**If your Marketo subscription has less than 75 users**, Adobe will automatically migrate the rest of your users. This workflow aims to deliver the highest level of automation, and no action is required to execute the migration. Upon migration completion, the Marketo Migration Console will no longer appear in the Marketo Admin navigation area and all users will access Marketo using an Adobe ID.
+**If your Marketo subscription has less than 75 users and does not have SSO in Marketo and/or your Adobe Org**, Adobe will automatically migrate the rest of your users. This workflow aims to deliver the highest level of automation, and no action is required to execute the migration. Upon migration completion, the Marketo Migration Console will no longer appear in the Marketo Admin navigation area and all users will access Marketo using an Adobe ID.
 
-**If your Marketo subscription has 75 or more users**, Marketo Product Admins will gain access to the Self-Service User Migration tool of the Migration Console upon user migration beginning and be alerted via banner upon login on the My Marketo page. The administrator will be responsible for completing the user migration using the Self-Service User Migration tool. 
+**If your Marketo subscription has 75 or more users or has SSO in Marketo and/or your Adobe Org**, Marketo Product Admins will gain access to the Self-Service User Migration tool of the Migration Console upon user migration beginning and be alerted via banner upon login on the My Marketo page. The administrator will be responsible for completing the user migration using the Self-Service User Migration tool. 
 
 ![](assets/migrating-to-adobe-identity-6.png)
 
