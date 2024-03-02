@@ -82,9 +82,9 @@ All Marketo subscriptions with a U.S. timezone will be migrated starting at midn
 
 **Adobe will automatically migrate Marketo Admins first**. When Marketo Admins are migrated to Adobe Identity, they will be assigned the Adobe Product Admin role within the Marketo application along with any other roles they previously had.
 
-**If your Marketo subscription has less than 75 users**, Adobe will automatically migrate the rest of your users. This workflow aims to deliver the highest level of automation to minimize overhead for Adobe Marketo users. No action on your part is required to execute the migration.
+**If your Marketo subscription has less than 75 users and does not have SSO in Marketo and/or your Adobe Org**, Adobe will automatically migrate the rest of your users. This workflow aims to deliver the highest level of automation to minimize overhead for Adobe Marketo users. No action on your part is required to execute the migration.
 
-**If your Marketo subscription has over 75 users**, Marketo Product Admins will gain access to the Self-Service User Migration area of the Marketo Migration Console, located in the Marketo Admin Area. For those who need greater control during the user migration process, Marketo Product Admins will be able to begin selecting users to migrate in batches or all at one time. Once users are selected, Admins have the option to "Migrate Now" or "Schedule Migration" for a later date, giving Admins ultimate flexibility and control over which users are migrated when.
+**If your Marketo subscription has over 75 users or has SSO in Marketo and/or your Adobe Org**, Marketo Product Admins will gain access to the Self-Service User Migration area of the Marketo Migration Console, located in the Marketo Admin Area. For those who need greater control during the user migration process, Marketo Product Admins will be able to begin selecting users to migrate in batches or all at one time. Once users are selected, Admins have the option to "Migrate Now" or "Schedule Migration" for a later date, giving Admins ultimate flexibility and control over which users are migrated when.
 
 >[!NOTE]
 >

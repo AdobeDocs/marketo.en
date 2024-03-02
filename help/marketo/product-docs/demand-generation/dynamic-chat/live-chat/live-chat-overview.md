@@ -66,7 +66,9 @@ Clicking on the live chat card in the stream allows you to choose how the visito
 
 ## Live Chat Notifications {#live-chat-notifications}
 
-In order to receive browser notifications for live chat, all live chat agents must enable browser notifications for Dynamic Chat when prompted.
+>[!IMPORTANT]
+>
+>In order to receive browser notifications for live chat, all live chat agents must enable browser notifications for Dynamic Chat when prompted.
 
 ### Enabling Notifications {#enabling-notifications}
 
