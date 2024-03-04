@@ -5,7 +5,7 @@ title: Configure Marketo Sales Insight in Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
 ---
-# Configure Marketo Sales Insight at Salesforce Enterprise/Unlimited {#configure-marketo-sales-insight-in-salesforce-enterprise-unlimited}
+# Configure Marketo Sales Insight in Salesforce Enterprise/Unlimited {#configure-marketo-sales-insight-in-salesforce-enterprise-unlimited}
 
 Configure Marketo Sales Insight in Salesforce Enterprise/Unlimited editions by completing the following steps.
 
@@ -27,7 +27,7 @@ Configure Marketo Sales Insight in Salesforce Enterprise/Unlimited editions by c
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-2.png)
 
-1. Enter an API Secret Key of your choosing and click **Save**. Do NOT use an ampersand (`&`) in your API secret key.
+1. Enter an API Secret Key of your choosing and click **[!UICONTROL Save]**. Do NOT use an ampersand (`&`) in your API secret key.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-3.png)
 
@@ -39,7 +39,7 @@ Configure Marketo Sales Insight in Salesforce Enterprise/Unlimited editions by c
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4.png)
 
-1. When you see a confirmation dialog, click **OK**.
+1. When you see a confirmation dialog, click **[!UICONTROL OK]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5.png)
 
@@ -49,7 +49,7 @@ Configure Marketo Sales Insight in Salesforce Enterprise/Unlimited editions by c
 
 ## Configure Sales Insight in Salesforce {#configure-sales-insight-in-salesforce}
 
-1. From Salesforce, click **[!UICONTROL Setup]**.
+1. In Salesforce, click **[!UICONTROL Setup]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-6.png)
 
