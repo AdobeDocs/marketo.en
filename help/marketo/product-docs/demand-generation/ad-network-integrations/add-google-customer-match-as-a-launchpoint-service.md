@@ -9,6 +9,10 @@ feature: Integrations
 
 With this integration, you can send a Marketo Engage audience to Google to be targeted using Google AdWords, as well as re-target audiences across YouTube, Search, and Gmail.
 
+>[!IMPORTANT]
+>
+>Due to the recent update to the Google Ads API, the syncing functionality between Adobe and Google is temporarily disabled.  Adobe is currently reviewing Google's requirements related to the update.
+
 >[!NOTE]
 >
 >**Admin Permissions Required**
