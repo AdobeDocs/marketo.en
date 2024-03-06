@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099077
-description: Email Deliverability Power Pack -How to Import a Seed List - Marketo Docs - Product Documentation
-title: Email Deliverability Power Pack -How to Import a Seed List
+description: Learn how to import a seed list into your Marketo Engage instance.
+title: Email Deliverability Power Pack - How to Import a Seed List
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
 ---
 # Email Deliverability Power Pack: How to Import a Seed List {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-A Seed List is a list of email accounts at multiple mailbox providers, including Google Apps, Hotmail, Yahoo!, etc., that are used to approximate the rate of inbox versus spam folder deliverability. Here's how to get that list into your Marketo instance.
+A Seed List is a list of email accounts at multiple mailbox providers, including Google Apps, Hotmail, Yahoo!, etc., that are used to approximate the rate of inbox versus spam folder deliverability. Below are the steps to get that list into your Marketo Engage instance.
 
 >[!IMPORTANT]
 >

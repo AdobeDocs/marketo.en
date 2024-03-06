@@ -11,7 +11,7 @@ With this integration, you can send a Marketo Engage audience to Google to be ta
 
 >[!IMPORTANT]
 >
->Due to the recent update to the Google Ads API, the syncing functionality between Adobe and Google is temporarily disabled.  Adobe is currently reviewing Google's requirements related to the update.
+>Due to the recent update to the Google Ads API, the syncing functionality between Adobe and Google is temporarily disabled. Adobe is currently reviewing Google's requirements related to the update.
 
 >[!NOTE]
 >
