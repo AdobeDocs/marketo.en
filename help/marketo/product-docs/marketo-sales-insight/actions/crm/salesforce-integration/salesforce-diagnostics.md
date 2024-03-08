@@ -137,7 +137,7 @@ Part of our Salesforce integration includes a Salesforce Diagnostic page within 
 
 **Error:** INVALID_TYPE  
 **Category:** Access/Validation  
-**Message:** CreatedDate, (SELECT Id FROM Tasks) FROM Lead WHERE Email='emailid'^ERROR at Row:1:Column:53sObject type 'Lead' is not supported. If you are attempting to use a custom object, be sure to append the '__c' after the entity name. Please reference your WSDL or the describe call for the appropriate names
+**Message:** CreatedDate, (SELECT Id FROM Tasks) FROM Lead WHERE Email='emailid'^ERROR at `Row:1:Column:53sObject` type 'Lead' is not supported. If you are attempting to use a custom object, be sure to append the '__c' after the entity name. Please reference your WSDL or the describe call for the appropriate names
 **What is Happening:** We are trying to query an object type from Salesforce that the user doesn't have access to. This is most likely related to the user has not having the right access to the Lead Object.  
 **Troubleshooting Steps:** Either grant Read and Update access to the Lead object in Salesforce, or turn off email logging and Most Recent Activity logging to lead records.
 
