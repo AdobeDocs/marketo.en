@@ -1,12 +1,12 @@
 ---
-description: Test, monitor, and understand deliverability issues with the Marketo Engage Email Deliverability Powerpack.
+description: Test, monitor, and understand deliverability issues with Inbox Tracker.
 title: Inbox Tracker Tutorials
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
 ---
 # Inbox Tracker Tutorials {#inbox-tracker-tutorials}
 
-Test, monitor, and understand deliverability issues with the Marketo Engage Email Deliverability Powerpack, powered by Bird's (formerly MessageBird) Inbox Tracker platform. Inbox Tracker is a single application that combines the intelligence of your program and the foresight of email rendering/inbox testing to maximize your emails' performance.
+Test, monitor, and understand deliverability issues with Email Deliverability Tools powered by Bird's (formerly MessageBird) Inbox Tracker platform. Inbox Tracker is a single application that combines the intelligence of your program and the foresight of email rendering/inbox testing to maximize your emails' performance.
 
 >[!AVAILABILITY]
 >

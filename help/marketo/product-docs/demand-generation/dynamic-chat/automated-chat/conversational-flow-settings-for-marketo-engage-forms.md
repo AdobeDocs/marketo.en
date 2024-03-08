@@ -32,7 +32,7 @@ Make Marketo Engage Forms conversational by integrating them with Dynamic Chat C
 
    ![](assets/conversational-flow-settings-5.png)
 
-1. Select the desired Conversational Flow and Delivery Type.
+1. Select the desired **[!UICONTROL Conversational Flow]** and **[!UICONTROL Delivery Type]**.
 
    ![](assets/conversational-flow-settings-6.png)
 
@@ -40,14 +40,26 @@ Make Marketo Engage Forms conversational by integrating them with Dynamic Chat C
    >
    >[Learn more about Conversational Flows](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
 
-   **OPTIONAL STEP**: You can click Add Choice to target chat visitors that meet a specific criteria. 
+   **OPTIONAL STEP**: You can click **[!UICONTROL Add Choice]** to target chat visitors that meet a specific criteria. You can add up to nine choices for a total of ten.
 
    ![](assets/conversational-flow-settings-7.png)
    
-   >[!IMPORTANT]
+   >[!NOTE]
    >
    >The visitor's browser must be cookie'd as a known person prior to form submission in order to qualify for member of Static/Smart List.
 
-1. Click **[!UICONTROL Finish]** when done.
+   **OPTIONAL STEP**: Click the **+** sign within each step to add more attributes, allowing you to narrow your targeted audience (the attributes available are the fields you've chosen for the form). In this example, we're targeting Adobe Technical Writers in California.
 
    ![](assets/conversational-flow-settings-8.png)
+
+   >[!NOTE]
+   >
+   >Criteria Logic set to "all" means every attribute must be met in order to qualify. Criteria Logic set to "any" means any one of the attributes will suffice.
+
+   **OPTIONAL STEP**: If you add two or more choices, you can reorder them by clicking their up/down arrows.
+
+   ![](assets/conversational-flow-settings-9.png)
+
+1. Click **[!UICONTROL Finish]** when done.
+
+   ![](assets/conversational-flow-settings-10.png)

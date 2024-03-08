@@ -34,12 +34,12 @@ _Release dates/features are subject to change_
   <tr> 
    <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-jan-24.md">January '24</a></td>
    <td>January 12, 2024</td>
-   <td>In Progress</td>
+   <td>Shipped</td>
   </tr>
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">March '24</a></td>
    <td>March 8, 2024</td>
-   <td>On Schedule</td>
+   <td>In Progress</td>
   </tr>
   <tr> 
    <td>April '24</td>

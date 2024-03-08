@@ -25,8 +25,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr> 
    <td><strong>Advanced Conversational Flow Logic</strong>: Add additional fields for evaluation in a single choice for Conversational Flow follow-up.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Conversational Flow Settings for Marketo Engage Forms</a></td>
   </tr>
    <tr> 
    <td>&nbsp;</td> 
@@ -36,8 +36,8 @@ The following features fall under the standard release cycle and will start to b
    </tr>
     <tr> 
    <td><strong>Reorder Conversational Flow Logic</strong>: In Marketo Engage Forms, you can now reorder the Conversational Flow choices, instead of having to delete and add back.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Conversational Flow Settings for Marketo Engage Forms</a></td>
    </tr>
   <tr> 
    <td>&nbsp;</td> 
