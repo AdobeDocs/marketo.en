@@ -42,6 +42,7 @@ feature-set: Marketo Engage
   + TEMP Getting Started Area {#temp-getting-started-area}
     + [Admin](getting-started/temp-getting-started-area/admin.md)
     + [Database](getting-started/temp-getting-started-area/database.md)
+    + [Marketing Activities](getting-started/temp-getting-started-area/marketing-activities.md)
 + Product Docs {#product-docs}
   + Additional Apps {#additional-apps}
     + SEO {#seo}
@@ -102,7 +103,6 @@ feature-set: Marketo Engage
       + [Next Generation Munchkin Tracking FAQ](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
       + [Add Single Sign-On to a Portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
       + [Add Webex as a LaunchPoint Service](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
-      + [Add Workplace By Facebook as a LaunchPoint Service](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
       + [Add Zoom as a LaunchPoint Service](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
       + [Configuring Your SOAP API Settings](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
       + [Connect BrightTALK to Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
