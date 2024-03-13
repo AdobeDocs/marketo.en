@@ -71,10 +71,6 @@ Set the objective of the ContentAI optimization algorithm to drive more views, c
 
 ## Integration and APIs {#integration-and-apis}
 
-[Facebook Workplace Integration](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
-
-Send system notifications and interesting moments to Facebook Workplace.
-
 [Static List APIs](https://developers.marketo.com/rest-api/assets/static-lists/)
 
 Manage lists between Marketo and other systems more easily with new bi-directional APIs for creating, reading, updating, and deleting static lists remotely without taking any action in the Marketo UI.
