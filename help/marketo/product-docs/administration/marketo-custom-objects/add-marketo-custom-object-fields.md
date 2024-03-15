@@ -23,7 +23,7 @@ Fields define the specific information used by a custom object. Link fields have
 
    ![](assets/add-marketo-custom-object-fields-3.png)
 
-1. Ckick the **[!UICONTROL Fields]** tab, then **[!UICONTROL New Field]**.
+1. Click the **[!UICONTROL Fields]** tab, then **[!UICONTROL New Field]**.
 
    ![](assets/add-marketo-custom-object-fields-4.png)
 
