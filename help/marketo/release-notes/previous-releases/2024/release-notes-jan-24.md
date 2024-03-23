@@ -2,6 +2,7 @@
 description: Release Notes - January 2024 - Marketo Docs - Product Documentation
 title: Release Notes - January 2024
 feature: Release Information
+exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
 ---
 # Release Notes: January 2024 {#release-notes-jan-24}
 

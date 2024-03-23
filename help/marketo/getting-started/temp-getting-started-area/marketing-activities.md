@@ -4,6 +4,7 @@ title: NEW AREA MARKETING ACTIVITIES
 hide: yes
 hidefromtoc: yes
 feature: Getting Started
+exl-id: c9bde944-1724-4521-a57a-e8cef4adb5c8
 ---
 # NEW AREA: Marketing Activities Checklist {#new-area-marketing-activities-checklist}
 

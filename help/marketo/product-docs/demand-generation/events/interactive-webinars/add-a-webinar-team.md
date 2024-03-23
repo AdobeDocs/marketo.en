@@ -2,6 +2,7 @@
 description: Add a Webinar Team - Marketo Docs - Product Documentation
 title: Add a Webinar Team
 feature: Interactive Webinars
+exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
 ---
 # Add a Webinar Team {#add-a-webinar-team}
 

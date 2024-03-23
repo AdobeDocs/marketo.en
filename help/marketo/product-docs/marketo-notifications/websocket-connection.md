@@ -3,6 +3,7 @@ description: Notification - Websocket Connection - Marketo Docs - Product Docume
 title: Notification - Websocket Connection
 hide: yes
 hidefromtoc: yes
+exl-id: 00c754f8-3850-4209-803d-5cdb108dc6dc
 ---
 # Notification: Websocket Connection {#notification-websocket-connection}
 

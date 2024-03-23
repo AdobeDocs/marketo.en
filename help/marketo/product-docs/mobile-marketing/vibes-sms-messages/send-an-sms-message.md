@@ -2,6 +2,7 @@
 description: Send an SMS Message - Marketo Docs - Product Documentation
 title: Send an SMS Message
 feature: Mobile Marketing
+exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
 ---
 # Send an SMS Message {#send-a-vibes-sms-message}
 

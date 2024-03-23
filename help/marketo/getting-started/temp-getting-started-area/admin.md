@@ -4,6 +4,7 @@ title: NEW AREA
 hide: yes
 hidefromtoc: yes
 feature: Getting Started
+exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
 ---
 # NEW AREA: Admin Checklist {#new-area-admin-checklist}
 

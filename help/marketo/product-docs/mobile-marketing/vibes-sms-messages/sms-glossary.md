@@ -2,6 +2,7 @@
 description: SMS Glossary - Marketo Docs - Product Documentation
 title: SMS Glossary
 feature: Mobile Marketing
+exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
 ---
 # SMS Glossary {#sms-glossary}
 
