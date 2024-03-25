@@ -8,7 +8,9 @@ feature: Marketo with Adobe Identity
 
 Adobe is enhancing how you manage your Adobe Marketo Engage subscriptions and users, bringing increased productivity to you and your organization. As part of this change, Adobe is migrating your Marketo Engage subscriptions and users to the Adobe Admin Console. This is a necessary migration and will not affect any marketing workflow, content, integrations, or assets.
 
-Learn how you can use the Adobe Admin Console to manage your Adobe entitlements across your entire organization with the [Enterprise and Teams Admin Guide](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}. 
+>[!TIP]
+>
+>Learn how you can use the Adobe Admin Console to manage your Adobe entitlements across your entire organization with the [Enterprise and Teams Admin Guide](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}. 
 
 ## What is Changing? {#what-is-changing}
 
@@ -20,11 +22,15 @@ As part of the migration, your subscription and user management will move from w
 
 * **Users will sign in with Adobe Identity**. Adobe will migrate existing users to the Adobe Admin Console. Users will sign in to their Marketo subscriptions using their new Adobe Identity - either an Adobe ID or Adobe Federated ID (SSO).
 
+## What is Not Changing? {#what-is-not-changing}
+
 * **There is no change to how you manage all other functionality** within the Marketo Engage application itself, including management of features, user roles, workspaces, functionality, and behavior.
 
 ## Migration Journey Timeline {#migration-journey-timeline}
 
 Adobe will migrate your Marketo Engage subscription(s) to the Adobe Admin Console first, then migrate all existing users with verified email addresses. If you're a System Admin or Marketo Product Admin, you'll receive emails guiding you through the migration journey. Here's a timeline of what you can expect:
+
+![](assets/understanding-marketo-subscription-and-user-migration-1.png)
 
 ### Subscription Migration Complete {#subscription-migration-complete}
 
