@@ -4,6 +4,7 @@ title: NEW AREA DATABASE
 hide: yes
 hidefromtoc: yes
 feature: Getting Started
+exl-id: 1966bc6f-9384-4c51-b3aa-57d5e52781f1
 ---
 # NEW AREA: Database Checklist {#new-area-database-checklist}
 
