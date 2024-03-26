@@ -37,9 +37,9 @@ Want to try out a different From Address with no fuss? Here's how.
    >
    >**Example**
    >
-   >In the distribution shown above, 15% of the total audience specified in the smart list gets one of the emails with a challenger From Address and 85% receive the email with the champion From Address. Emails for multiple challenger From Addresses share the 15% equally. When the test is over, you can declare a winner manually. From then on, all future people receive the better performing content.
+   >In the distribution shown above, 15% of the total audience specified in the Smart List gets one of the emails with a challenger From Address and 85% receive the email with the champion From Address. Emails for multiple challenger From Addresses share the 15% equally. When the test is over, you can declare a winner manually. From then on, all future people receive the better performing content. In Trigger Campaigns, the realized percentage may differ from the percentage you select, as the distribution may not align precisely with the chosen percentages. This can happen when one variant processes a significant number of unsubscribed persons, or when one variant is an operational email while the others are not.
 
-   To gain statistical confidence, be sure you choose a percentage that includes enough people that your test is valid. Don't be fooled by inconclusive results. [More information than you ever wanted about statistical confidence](https://en.wikipedia.org/wiki/Confidence_interval).
+   To gain statistical confidence, be sure you choose a percentage that includes enough people that your test is valid. Don't be fooled by inconclusive results.
 
 1. Click **Next**.
 

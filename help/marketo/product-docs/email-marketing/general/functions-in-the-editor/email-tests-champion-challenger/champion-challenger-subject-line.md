@@ -37,9 +37,9 @@ You can easily test multiple subject lines. When the test is over, send out emai
    >
    >**Example**
    >
-   >In the distribution shown above, 10% of the total audience specified in the smart list gets one of the emails with the challenger subject line and 90% receive emails with the champion subject line. Emails with multiple challenger subject lines share the 10% equally. When the test is over, you can declare a winner manually. From then on, all future people receive the better performing content.
+   >In the distribution shown above, 10% of the total audience specified in the Smart List gets one of the emails with the challenger subject line and 90% receive emails with the champion subject line. Emails with multiple challenger subject lines share the 10% equally. When the test is over, you can declare a winner manually. From then on, all future people receive the better performing content. In Trigger Campaigns, the realized percentage may differ from the percentage you select, as the distribution may not align precisely with the chosen percentages. This can happen when one variant processes a significant number of unsubscribed persons, or when one variant is an operational email while the others are not.
 
-   To gain statistical confidence, make sure the percentage you choose includes enough people, so that your test is valid. Don't be fooled by inconclusive results. [More information than you ever wanted about statistical confidence](https://en.wikipedia.org/wiki/Confidence_interval).
+   To gain statistical confidence, make sure the percentage you choose includes enough people, so that your test is valid. Don't be fooled by inconclusive results.
 
 1. Click **Next**.
 
