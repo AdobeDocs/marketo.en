@@ -63,3 +63,70 @@ The following features fall under the standard release cycle and will start to b
  </tbody> 
 </table>
 <br/>
+
+## Announcements {#announcements}
+
+* **Activities API Update**: On April 26, we're adding several new attributes to web-based and email-based activities that are returned when you retrieve activities using the [Marketo REST API](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activities/getAllActivityTypesUsingGET){target="_blank"} endpoint to review attribute details for each activity.
+
+**Web-based Activities**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">Activity</th> 
+   <th style="width:70%">Newly Added Attributes</th>
+   </tr>
+  <tr> 
+   <td>Visit Webpage</td> 
+   <td>Browser, Platform, Device</td>
+  </tr>
+   <tr> 
+   <td>Fill Out Form</td> 
+   <td>Browser, Platform, Device</td>
+  </tr>
+  <tr> 
+   <td>Click Link</td> 
+   <td>Browser, Platform, Device</td>
+  </tr>
+ </tbody> 
+</table>
+
+**Email-based Activities**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">Activity</th> 
+   <th style="width:70%">Newly Added Attributes</th>
+  </tr>
+   <tr> 
+   <td>Send Email</td> 
+   <td>Browser, Platform, Device, User Agent</td>
+  </tr>
+   </tr>
+  <tr> 
+   <td>Email Delivered</td> 
+   <td>Browser, Platform, Device, User Agent</td>
+  </tr>
+   <tr> 
+   <td>Email Bounced</td> 
+   <td>Browser, Platform, Device, User Agent</td>
+  </tr>
+  <tr> 
+   <td>Unsubscribe Email</td> 
+   <td>Browser, Platform, Device</td>
+  </tr>
+  <tr> 
+   <td>Open Email</td> 
+   <td>Browser</td>
+  </tr>
+   <tr> 
+   <td>Click Email</td> 
+   <td>Browser</td>
+  </tr>
+  <tr> 
+   <td>Email Bounced Soft</td> 
+   <td>Browser, Platform, Device, User Agent</td>
+  </tr>
+ </tbody> 
+</table>

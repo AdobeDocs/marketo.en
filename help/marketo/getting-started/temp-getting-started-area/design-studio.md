@@ -135,7 +135,7 @@ TABLE
 <tbody>
   <tr>
     <td>Folder Structure</td>
-    <td><li>Create subfolders for each type of asset and <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">organize global assets</a>(i.e. email templates, emails, forms, images and files, landing page, and landing page templates) appropriately and easy to search through.</li></td>
+    <td><li>Create subfolders for each type of asset and <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">organize global assets</a> (i.e. email templates, emails, forms, images and files, landing page, and landing page templates) appropriately and easy to search through.</li></td>
     <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">Organize Your Images and Files Using Folders</a></td>
   </tr>
 </tbody>
