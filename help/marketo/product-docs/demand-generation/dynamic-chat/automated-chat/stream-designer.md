@@ -44,7 +44,8 @@ The Stream Designer contains multiple cards you can add to shape the chat conver
  </tr>
  <tr>
   <td style="width:25%"><strong>Action</strong></td>
-  <td>Similar to hidden fields in a form, with the action card you can populate any lead or company attribute (that has a <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">string data type</a>) with implicit values that you'd like to capture against a lead record. You can add the action card at any point in the conversation and update respective attributes with a value or native tokens that automatically populate the respective value.</td>
+  <td>Similar to hidden fields in a form, with the action card you can populate any lead or company attribute (that has a <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">string data type</a>) with implicit values that you'd like to capture against a lead record. You can add the action card at any point in the conversation and update respective attributes with a value or native tokens that automatically populate the respective value.
+  <p><i>The Action card requires Dynamic Chat Prime. Please contact the Adobe Account Team (your Account Manager) for details.</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Live Chat</strong></td>
