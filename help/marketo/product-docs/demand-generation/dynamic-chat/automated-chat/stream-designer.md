@@ -150,7 +150,7 @@ You can create streams for Dialogues or [Conversational Forms](/help/marketo/pro
 
    ![](assets/stream-designer-17.png)
 
-1. Enter a chatbot message and placeholder. Make sure the attribute is mapped to the appropriate field in Marketo and click **[!UICONTROL Save]**.
+1. Enter a chatbot message and placeholder. Make sure the attribute is mapped to the appropriate field in Marketo Engage and click **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -169,7 +169,7 @@ You can create streams for Dialogues or [Conversational Forms](/help/marketo/pro
     </tr>
     <tr>
      <td style="width:30%"><strong>Map Response to Attribute</strong></td>
-     <td>Allows you to sync the vistor's response to the corresponding field in their Person record in your Marketo subscription.</td>
+     <td>Allows you to sync the vistor's response to the corresponding field in their Person record in your Marketo Engage subscription.</td>
     </tr>
    </table>
 
