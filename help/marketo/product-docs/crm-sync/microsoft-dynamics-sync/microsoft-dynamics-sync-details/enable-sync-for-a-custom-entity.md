@@ -34,11 +34,11 @@ If you need custom entity data from Dynamics to be available in Marketo Engage, 
    >
    >You must disable the global sync temporarily in order to enable or disable a custom entity.
 
-1. Under Database Management, click the **[!UICONTROL Dynamics Entities Sync]** link.
+1. Under Database Management, click **[!UICONTROL Dynamics Entities Sync]**.
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 
-1. Click the **[!UICONTROL Sync schema]** link.
+1. Click **[!UICONTROL Sync schema]**.
 
    ![](assets/enable-sync-for-a-custom-entity-4.png)
 
@@ -46,7 +46,7 @@ If you need custom entity data from Dynamics to be available in Marketo Engage, 
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. Select the fields you want to sync or use as [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} and/or triggers in smart lists. When done, click **[!UICONTROL Enable Sync]**.
+1. Select the fields you want to sync or use as [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) and/or triggers (for records added, _not_ updated) in Smart Lists. When done, click **[!UICONTROL Enable Sync]**.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
@@ -54,7 +54,7 @@ If you need custom entity data from Dynamics to be available in Marketo Engage, 
    >
    >During the sync process, you may notice that the "[!UICONTROL Dynamic Entities Sync]" item disappears from the navigational tree. This is expected behavior, and it will reappear after the sync is complete.
 
-1. The entity now has a green checkmark on it.
+1. The entity now has a green checkmark.
 
    ![](assets/enable-sync-for-a-custom-entity-7.png)
 
