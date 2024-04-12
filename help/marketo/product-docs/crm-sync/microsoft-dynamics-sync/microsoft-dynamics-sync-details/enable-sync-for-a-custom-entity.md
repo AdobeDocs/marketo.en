@@ -32,7 +32,7 @@ If you need custom entity data from Dynamics to be available in Marketo Engage, 
 
    >[!NOTE]
    >
-   >You must disable the global sync temporarily in order to enable or disable a custom entity.
+   >You must disable the global sync temporarily to enable or disable a custom entity.
 
 1. Under Database Management, click **[!UICONTROL Dynamics Entities Sync]**.
 
