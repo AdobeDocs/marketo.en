@@ -1948,6 +1948,7 @@ feature-set: Marketo Engage
 + Release Notes {#release-notes}
   + [Release Schedule](release-notes/release-schedule.md)
   + [Current Release](release-notes/current.md)
+  + [Dynamic Chat Release](release-notes/dynamic-chat.md)
   + Previous Releases {#previous-releases}
     + 2024 {#2024}
       + [Release Notes: January '24](release-notes/previous-releases/2024/release-notes-jan-24.md)
