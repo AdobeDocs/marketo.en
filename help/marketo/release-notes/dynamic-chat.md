@@ -4,6 +4,7 @@ title: Dynamic Chat Release Notes
 hide: yes
 hidefromtoc: yes
 feature: Release Information, Dynamic Chat
+exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
 ---
 # Dynamic Chat Release Notes {#dynamic-chat-release}
 
