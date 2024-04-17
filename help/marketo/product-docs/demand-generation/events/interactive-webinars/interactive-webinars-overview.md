@@ -42,6 +42,10 @@ Yes, you can control which Marketo users get permission to create and deliver In
 
 No, Interactive Webinar Event Programs make the association for you.
 
+**Why do some of my leads have a "Registration Error" status instead of "Registered?"**
+
+If the lead's "first name" field is empty, they cannot register for the webinar. You can resolve this by entering a valid first name.
+
 **Are my Interactive Webinars recorded automatically?**
 
 They are not. After your webinar begins, click the drop-down next to the name of the webinar and select **Record Session**.
