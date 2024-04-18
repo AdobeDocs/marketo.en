@@ -6,7 +6,7 @@ feature: Marketo with Adobe Identity
 ---
 # Adobe Identity Management Overview {#adobe-identity-management-overview}
 
-All new Adobe Marketo Engage subscriptions (July 31, 2023 or later) come integrated with the Adobe Identity Management System. Existing Marketo subscriptions are currently being migrated to the Adobe Identity Management System upon renewal and/or recontracting events. Migrations outside a renewal or recontracting event are not supported at this time.
+All new Adobe Marketo Engage subscriptions (July 31, 2023 or later) come integrated with the Adobe Identity Management System. Existing Marketo Engage subscriptions are currently being migrated to the Adobe Identity Management System upon any sales event, which includes renewals, recontracting events, and/or addendums. Migrations outside of a sales event are not supported at this time.
 
 >[!NOTE]
 >

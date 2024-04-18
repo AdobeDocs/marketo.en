@@ -67,7 +67,7 @@ Structuring templates and creating global forms, Snippets, and images & files wi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">Area</th> 
+   <th style="width:20%">Area</th>
    <th>Review Focus</th>
   </tr> 
   <tr> 

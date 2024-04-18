@@ -10,7 +10,7 @@ Live chat allows website visitors to engage in real-time chat conversations with
 
 >[!NOTE]
 >
->Conversational Flows and Live Chat are shared trial features that have a combined lifetime limit of 100 engagements for those on the Dynamic Chat Select package. When this limit is reached, all published Conversational Flows will stop triggering and visitors who request to chat with a live agent will receive the global fallback message. To increase this limit, please contact your Account Representative to discuss package upgrade options.
+>For those on the Dynamic Chat Select package, live chat is a trial feature with a lifetime limit of 100 engagements. When this limit is reached, any visitors who request to chat with a live agent will not be connected and will instead receive the global fallback message. To increase the limit, please contact your Adobe Account Representative to discuss package upgrade options.
 
 ## Add Live Chat Agents {#add-live-chat-agents}
 

@@ -16,11 +16,11 @@ The standard Release Notes page for Marketo Engage [can be found here](/help/mar
 
 **Release date: April 16, 2024**
 
-### Conversational Flows now available for users on Select package {#conversational-flows-select-package}
+### Conversational Flows now available for all users {#conversational-flows-available-to-all-users}
 
-When we released Conversational Flows last year, those on the Dynamic Chat Select package could only take advantage of the capability as a trial of 100 lifetime engagements. Now, Conversational Flows are fully available to everyone on the Select package. 
+Make your forms and Landing Pages more conversational and shorten the sales funnel by allowing qualified leads to book a meeting or chat with Sales immediately after a form submission with Conversational Forms, now fully available&#42; for all Dynamic Chat users.
 
-Conversational Flow engagements will count toward the monthly limit of 250 engaged conversations for users on the Select package. 
+_&#42;Previously available as a trial feature with 100 lifetime engagements. Conversational Flow engagements will now count toward the monthly limit of 250 engaged conversations for users on the Select package._
 
 ### Callback functions {#callback-functions}
 
