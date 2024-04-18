@@ -129,7 +129,7 @@ Marketing Activities houses all the assets and content that make up your automat
   <tr>
     <td>Privacy &amp; Compliance</td>
     <td><li>Create programs to ensure you're compliant with data privacy and spam laws such as <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html">GDPR, CASL, CAN-SPAM, CCPA, etc.</a></li>
-    <br>Note: Always remember to consult your legal team on these issues. Ask your team about previous initiatives to maintain compliance before making any changes. </td>
+    <br>Note: Always remember to consult your legal team on these issues. Ask your team about previous initiatives to maintain compliance before making any changes.</td>
   </tr>
   <tr>
     <td>Lifecycle</td>

@@ -14,7 +14,7 @@ The standard Release Notes page for Marketo Engage [can be found here](/help/mar
 
 ## April 2024 Release {#april-release}
 
-**Release date: April 16, 2024**
+**Release date: April 22, 2024**
 
 ### Conversational Flows now available for all users {#conversational-flows-available-to-all-users}
 

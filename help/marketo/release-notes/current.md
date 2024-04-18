@@ -23,17 +23,6 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:10%">Status</th>
    <th style="width:25%">Documention</th>
   </tr>
-   <tr> 
-   <td><strong>Templates for Interactive Webinars</strong>: Save time by creating custom templates for room layouts branded with specifications that fit your organization.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-   <tr> 
-   <td>&nbsp;</td> 
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-   </tr>
      <tr> 
    <td><strong>Interactive Webinars Enhancements</strong>: You can now provide hosts and presenters with the ability to add a webinar title, rename a room, and manually sync engagement data after the event delivery.</td> 
    <td><i>Coming Soon</i></td>
