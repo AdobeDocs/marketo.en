@@ -11,7 +11,7 @@ Smart Lists are the mechanism throughout Marketo Engage to define "who" (which p
 
 >[!CAUTION]
 >
->Making Smart List or Flow Step edits to an active campaign can potentially break its functionality. If you choose to do so, proceed with caution.
+>Making Smart List or Flow Step edits to an active campaign can potentially break its functionality. If you choose to do so, proceed with caution. 
 
 1. Choose a Smart Campaign, then click **[!UICONTROL Smart List]**.
 
