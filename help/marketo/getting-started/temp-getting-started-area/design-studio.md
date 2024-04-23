@@ -14,8 +14,8 @@ Text...
 <table>
 <thead>
   <tr>
-    <th>Area</th>
-    <th>Action Items</th>
+    <th style="width:20%">Area</th>
+    <th style="width:80%">Action Items</th>
   </tr>
 </thead>
 <tbody>
@@ -41,8 +41,8 @@ Text...
 <table>
 <thead>
   <tr>
-    <th>Area</th>
-    <th>Action Items</th>
+    <th style="width:20%">Area</th>
+    <th style="width:80%">Action Items</th>
   </tr>
 </thead>
 <tbody>
@@ -66,8 +66,8 @@ Text...
 <table>
 <thead>
   <tr>
-    <th>Area</th>
-    <th>Action Item</th>
+    <th style="width:20%">Area</th>
+    <th style="width:80%">Action Items</th>
   </tr>
 </thead>
 <tbody>
@@ -92,8 +92,8 @@ Text...
 <table>
 <thead>
   <tr>
-    <th>Area</th>
-    <th>Action Item</th>
+    <th style="width:20%">Area</th>
+    <th style="width:80%">Action Items</th>
   </tr>
 </thead>
 <tbody>
@@ -109,8 +109,8 @@ Text...
 <table>
 <thead>
   <tr>
-    <th>Area</th>
-    <th>Action Items</th>
+    <th style="width:20%">Area</th>
+    <th style="width:80%">Action Items</th>
   </tr>
 </thead>
 <tbody>
@@ -129,8 +129,8 @@ Text...
 <table>
 <thead>
   <tr>
-    <th>Area</th>
-    <th>Action Items</th>
+    <th style="width:20%">Area</th>
+    <th style="width:80%">Action Items</th>
   </tr>
 </thead>
 <tbody>

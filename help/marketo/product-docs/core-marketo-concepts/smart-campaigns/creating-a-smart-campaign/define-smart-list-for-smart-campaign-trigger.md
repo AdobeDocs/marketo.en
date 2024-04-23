@@ -9,6 +9,10 @@ feature: Smart Campaigns
 
 Make a Smart Campaign run on one person at a time based on live events by adding triggers.
 
+>[!CAUTION]
+>
+>Making Smart List or Flow Step edits to an active campaign can potentially break its functionality. If you choose to do so, proceed with caution.
+
 1. In your Smart Campaign, click the **[!UICONTROL Smart List]** tab.
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)

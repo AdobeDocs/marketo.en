@@ -9,6 +9,10 @@ feature: Smart Campaigns
 
 Smart Lists are the mechanism throughout Marketo Engage to define "who" (which people) to include, whether it's a report, a list, or a Smart Campaign. Here's how to define a Smart List for a batch campaign.
 
+>[!CAUTION]
+>
+>Making Smart List or Flow Step edits to an active campaign can potentially break its functionality. If you choose to do so, proceed with caution.
+
 1. Choose a Smart Campaign, then click **[!UICONTROL Smart List]**.
 
    ![](assets/define-smart-list-for-smart-campaign-batch-1.png)
