@@ -1,8 +1,6 @@
 ---
 description: Dynamic Chat Release Notes - Marketo Docs - Product Documentation
 title: Dynamic Chat Release Notes
-hide: yes
-hidefromtoc: yes
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
 ---
@@ -14,7 +12,7 @@ The standard Release Notes page for Marketo Engage [can be found here](/help/mar
 
 ## April 2024 Release {#april-release}
 
-**Release date: April 22, 2024**
+**Release date: April 23, 2024**
 
 ### Conversational Flows now available for all users {#conversational-flows-available-to-all-users}
 

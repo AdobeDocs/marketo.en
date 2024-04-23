@@ -22,16 +22,15 @@ Text...
   <tr>
     <td>Global Landing Pages</td>
     <td><li>Create global Landing Pages (free-form/guided).</li>
-    <li>Create a test page to A/B test the winning Landing Page template (if applicable).</li>
-    <li>Set up your subscription center Landing Page within Marketo Engage(if applicable).</li></td>
+    <li>Create a test page to A/B test the winning Landing Page template (if applicable).</li></td>
   </tr>
   <tr>
     <td>Templates</td>
-    <td><li>Create design for global Landing Pages.</li></td>
+    <td><li>Create a design for global Landing Pages.</li></td>
   </tr>
   <tr>
     <td>Privacy &amp; Compliance</td>
-    <td><li>Include appropriate footer using <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Snippets</a> or Tokens in the landing pages for privacy compliance.</li></td>
+    <td><li>Create a footer using <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Snippets</a> or Tokens in your Landing Pages for privacy compliance.</li></td>
   </tr>
 </tbody>
 </table>
@@ -48,7 +47,7 @@ Text...
 <tbody>
   <tr>
     <td>Global Forms</td>
-    <td><li>Set up <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank" rel="noopener noreferrer">global forms</a> for use cases such as subscription preferences, gated content download, demo request, webinar registration, etc.</li></td>
+    <td><li>Set up <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">global forms</a> for use cases such as subscription preferences, gated content downloads, demo requests, webinar registrations, etc.</li></td>
   </tr>
   <tr>
     <td>Privacy &amp; Compliance</td>
@@ -56,7 +55,7 @@ Text...
   </tr>
   <tr>
     <td>Data Standardization</td>
-    <td><li>Consider applying picklists to the <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank" rel="noopener noreferrer">form fields</a> instead of open text fields to prevent messy data.</li></td>
+    <td><li>Consider applying picklists to the <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">form fields</a> instead of open text fields to prevent messy data.</li></td>
   </tr>
 </tbody>
 </table>
@@ -77,12 +76,12 @@ Text...
   </tr>
   <tr>
     <td>Templates</td>
-    <td><li>Design a module-based <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank" rel="noopener noreferrer">email template</a> with a designer / developer or insert your own HTML.</li>
-    <li>Create a tested email template to A/B test the winning email template (if applicable).</li></td>
+    <td><li>Design a module-based <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">email template</a> with a designer/developer, or use your own HTML.</li>
+    <li>Create a tested email template to A/B test the winning template (if applicable).</li></td>
   </tr>
   <tr>
     <td>Privacy &amp; Compliance</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank" rel="noopener noreferrer">Add Snippets</a> your email templates to control reusable blocks such as copyright year, global location, and compliance-specific language. Add Tokens to personalize content based on the target audience.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">Add Snippets</a> to your email templates to control reusable blocks such as copyright year, global location, and compliance-specific language. Add Tokens to personalize content based on the target audience.</li></td>
   </tr>
 </tbody>
 </table>
@@ -99,7 +98,7 @@ Text...
 <tbody>
   <tr>
     <td>Snippets</td>
-    <td><li>Create <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank" rel="noopener noreferrer">Snippets</a> to create reusable content blocks that can be used for multiple use cases such as contact information, social media links, brand information as well as privacy and compliance notes in your emails and landing pages.</li></td>
+    <td><li>Create <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">Snippets</a> to have reusable content blocks that can be used for multiple use cases, such as contact information, social media links, brand information, and privacy and compliance notes in your emails and Landing Pages.</li></td>
   </tr>
 </tbody>
 </table>
@@ -136,7 +135,7 @@ Text...
 <tbody>
   <tr>
     <td>Folder Structure </td>
-    <td><li>Create sub-folders for each type of asset and <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">organize global assets</a> (e.g., conversational flows, email templates, emails, forms, images and files, Landing Pages, Landing Page templates, snippets) appropriately and easy to search through.</li></td>
+    <td><li>Create subfolders for each type of asset and <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">organize global assets</a> (e.g., conversational flows, email templates, emails, forms, images and files, Landing Pages, Landing Page templates, snippets, etc.) appropriately.</li></td>
   </tr>
 </tbody>
 </table>
