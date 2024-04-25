@@ -48,7 +48,7 @@ If the lead's "first name" field is empty, they cannot register for the webinar.
 
 **I'm experiencing audio/video issues while presenting a webinar while accessing my organization's VPN. What do I do?**
 
-Adobe Connect, the Interactive Webinars' delivery platform, uses WebRTC for audio/video/screen-sharing. It's likely your organization's network firewall is blocking the IP addresses/ports we use for WebRTC-based communication. Your IT team needs to allow these ports for WebRTC to work. [Learn more](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html).
+Adobe Connect, the Interactive Webinars' delivery platform, uses WebRTC for audio/video/screen-sharing. It's likely your organization's network firewall is blocking the IP addresses/ports we use for WebRTC-based communication. Your IT team needs to allow these ports for WebRTC to work. [Learn more](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
 
 **Are my Interactive Webinars recorded automatically?**
 
