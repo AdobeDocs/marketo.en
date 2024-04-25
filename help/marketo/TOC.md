@@ -39,10 +39,6 @@ feature-set: Marketo Engage
     + [Inherited Instance: Design Studio Checklist](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
     + [Inherited Instance: Document Your Setup](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
     + [Reviewing Core Skills](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
-  + TEMP Getting Started Area {#temp-getting-started-area}
-    + [Admin](getting-started/temp-getting-started-area/admin.md)
-    + [Database](getting-started/temp-getting-started-area/database.md)
-    + [Marketing Activities](getting-started/temp-getting-started-area/marketing-activities.md)
 + Product Docs {#product-docs}
   + Additional Apps {#additional-apps}
     + SEO {#seo}

@@ -18,7 +18,7 @@ As part of the migration, your subscription and user management will move from w
 
 * **System Admins will manage subscriptions on Adobe Admin Console**. See all your Adobe products in one console.  
 
-* **Product Admins will manage users and their access on Adobe Admin Console**. Add and remove users for all your Adobe subscriptions.
+* **Product Admins will manage users and their access on Adobe Admin Console**. Add and remove users for all your Adobe subscriptions. The Adobe Admin Console does not support user-based access expiration. Users who have Marketo Engage access that's scheduled to expire post-migration will still be migrated and granted non-expiring access. After migration, they must be manually removed on (or before) the desired expiration date.
 
 * **Users will sign in with Adobe Identity**. Adobe will migrate existing users to the Adobe Admin Console. Users will sign in to their Marketo subscriptions using their new Adobe Identity - either an Adobe ID or Adobe Federated ID (SSO).
 

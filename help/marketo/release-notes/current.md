@@ -8,6 +8,8 @@ feature: Release Information
 
 Below you'll find all the features included in the April '24 release. Check your Adobe Marketo Engage edition for feature availability.
 
+The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+
 >[!AVAILABILITY]
 >
 >Features denoted by a star (![star](assets/yellow-star.png)) are paid add-ons. Please contact your Marketo Engage representative to learn more.
