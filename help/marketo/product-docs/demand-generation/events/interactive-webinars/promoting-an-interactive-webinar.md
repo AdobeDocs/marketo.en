@@ -29,3 +29,5 @@ You can use tokens to include the Webinar URL to individual members in an email 
 Links are available on the right side of the Overview tab in your Event Program to create a Landing Page as well as an email campaign. The rest of the promotions related to an event remain the same as partner webinars using the Launchpoint integration.
 
 ![](assets/promoting-an-interactive-webinar-2.png)
+
+Interactive Webinars allows you to solicit registration before, during, or after a webinar. In all cases, you would simply need to share the Webinar URL with the lead. Clicking the link before the webinar begins sends them to a pre-webinar Landing Page. Clicking it during the webinar takes them to the webinar in progress. Clicking it after the webinar takes them to a recording of the webinar.

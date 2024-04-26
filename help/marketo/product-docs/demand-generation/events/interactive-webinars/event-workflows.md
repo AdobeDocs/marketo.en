@@ -14,6 +14,10 @@ After your webinar is completed, go to the Dashboard tab to see the aggregated p
 >
 >If the webinar has not been completed or the data has not been received for any reason, the Dashboard tab will not yet be available.
 
+## Manual Sync {#manual-sync}
+
+Interactive Webinars allows you to obtain your webinar's engagement data from Adobe Connect if you haven't automatically received it within two hours of the webinar's completion. A "Sync Now" button appears in the Overview page. Clicking **Sync Now** triggers a pull from Adobe Connect to populate the data in Marketo Engage. After the sync has taken place, the button disappears and the Dashboard tab becomes populated.
+
 ## Dashboard Widgets {#dashboard-widgets}
 
 The Dashboard consists of four widgets.
