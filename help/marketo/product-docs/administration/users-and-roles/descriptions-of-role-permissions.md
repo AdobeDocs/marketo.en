@@ -61,7 +61,7 @@ View and make changes to settings in the My Account section of Admin.
 * Access Webhooks - Gives users to Webhooks in Admin, for setting details and Response Mappings
 * Access Workspaces and Partitions - Gives users access to create, edit, and delete Workspaces and Partitions in Admin
 
-_&#42;This permission is being introduced in passive mode and is not accessible at this time, to avoid disruption for existing users. We will communicate how to implement it when it becomes active in mid-2024._
+_&#42;To avoid disruption for existing users, this permission is being introduced in passive mode and is visible but not accessible at this time. We will communicate how to implement it when it becomes active in mid-2024._
 
 ## Access API  {#access-api}
 
@@ -99,7 +99,7 @@ Gives users access to the Analytics tabs, Email Insights, reports, and the three
 * Delete Report - Unchecking removes user's ability to delete reports
 * Export Analytics Data - Unchecking removes user's ability to export Analytics data
 
-_&#42;This permission is being introduced in passive mode and is not accessible at this time, to avoid disruption for existing users. We will communicate how to implement it when it becomes active in mid-2024._
+_&#42;To avoid disruption for existing users, this permission is being introduced in passive mode and is visible but not accessible at this time. We will communicate how to implement it when it becomes active in mid-2024._
 
 ## Access Calendar Presentations {#access-calendar-presentations}
 
@@ -184,7 +184,7 @@ View the database as well as view and edit smart/static lists.
 
 * View Opportunity Data - Hides the opportunity info on the person detail page
 
-_&#42;This permission is being introduced in passive mode and is not accessible at this time, to avoid disruption for existing users. We will communicate how to implement it when it becomes active in mid-2024._
+_&#42;To avoid disruption for existing users, this permission is being introduced in passive mode and is visible but not accessible at this time. We will communicate how to implement it when it becomes active in mid-2024._
 
 ## Access Marketing Activities {#access-marketing-activities}
 
@@ -219,7 +219,7 @@ Access SEO
 * Administer SEO
 * Standard SEO
 
-_&#42;This permission is being introduced in passive mode and is not accessible at this time, to avoid disruption for existing users. We will communicate how to implement it when it becomes active in mid-2024._
+_&#42;To avoid disruption for existing users, this permission is being introduced in passive mode and is visible but not accessible at this time. We will communicate how to implement it when it becomes active in mid-2024._
 
 ## Targeting and Personalization {#targeting-and-personalization}
 
