@@ -27,8 +27,9 @@ The following features fall under the standard release cycle and will start to b
   </tr>
      <tr> 
    <td><strong>Interactive Webinars Enhancements</strong>: You can now provide hosts and presenters with the ability to add a webinar title, rename a room, and manually sync engagement data after the event delivery.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">Create an Interactive Webinar</a></li>
+   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">Manual Sync</a></li></td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
@@ -47,9 +48,9 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
     <tr> 
-   <td><strong>New Users & Roles Permissions</strong>: New permissions are available, providing users with more granular access to Marketo Engage. Control parts of Admin not previously gated such as New Experience and Predictive Audiences, split permissions to grant access to Asset Audit Trail and Admin Audit Trail separately, and utilize new create and move permissions for assets and folders to prevent read-only users from making changes.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td><strong>New Users & Roles Permissions</strong>: New permissions are available, providing users with more granular access to Marketo Engage. Control parts of Admin not previously gated such as New Experience and Predictive Audiences, split permissions to grant access to Asset Audit Trail and Admin Audit Trail separately, and utilize new create and move permissions for assets and folders to prevent read-only users from making changes. While the new permissions will appear in your Marketo Engage instance as of April 26, they are passive for now and will become accessible later this quarter.</td> 
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Descriptions of Role Permissions</a></td>
   </tr>
  </tbody> 
 </table>
