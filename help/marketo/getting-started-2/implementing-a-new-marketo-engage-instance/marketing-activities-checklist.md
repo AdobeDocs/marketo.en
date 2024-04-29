@@ -1,11 +1,11 @@
 ---
 description: Set up the Marketing Activities section for your new Marketo Engage instance.
-title: New Instance - Marketing Activities Checklist
+title: New Instance Best Practices - Marketing Activities Checklist
 hide: yes
 hidefromtoc: yes
 feature: Getting Started
 ---
-# New Instance: Marketing Activities Checklist {#new-instance-marketing-activities-checklist}
+# New Instance Best Practices: Marketing Activities Checklist {#new-instance-best-practices-marketing-activities-checklist}
 
 Marketing Activities houses all the assets and content that make up your automated marketing programs. As you set up a new Marketo Engage instance, a clean and clear organization ensures all users can easily find and manage various programs.
 

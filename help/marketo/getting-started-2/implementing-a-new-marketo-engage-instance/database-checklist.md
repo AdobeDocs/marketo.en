@@ -1,11 +1,11 @@
 ---
 description: Set up the Database section for your new Marketo Engage instance.
-title: New Instance - Database Checklist
+title: New Instance Best Practices - Database Checklist
 hide: yes
 hidefromtoc: yes
 feature: Getting Started
 ---
-# New Instance: Database Checklist {#new-instance-database-checklist}
+# New Instance Best Practices: Database Checklist {#new-instance-best-practices-database-checklist}
 
 The Database section provides you with a snapshot of the key attributes about the people in your instance. Learn more about the necessary steps to navigate through different lists and segmentations in your Database, as well as managing people records. 
 

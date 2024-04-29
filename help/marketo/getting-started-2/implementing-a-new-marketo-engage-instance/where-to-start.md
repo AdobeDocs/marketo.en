@@ -9,7 +9,7 @@ feature: Getting Started
 
 Welcome to your new Adobe Marketo Engage instance! Get ready to streamline, automate, and measure marketing tasks and workflows with powerful marketing automation capabilities.
 
-In this "Implementing a New Marketo Engage Instance" guide, learn how to seamlessly implement your instance to ensure long-term hygiene and operational efficiency. Each checklist provides valuable steps for you to keep track of your configuration progress. Use the downloadable checklists to document your work along the way for future instance audits and onboarding.
+In this "Implementing a New Marketo Engage Instance" guide, learn the best practices for seamlessly implementing your instance to ensure long-term hygiene and operational efficiency. Each checklist provides valuable steps for you to keep track of your configuration progress. Use the downloadable checklists to document your work along the way for future instance audits and onboarding.
 
 ## Best Practice Checklists For Your New Marketo Engage Instance {#best-practice-checklists-new-instance}
 

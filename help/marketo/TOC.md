@@ -47,11 +47,11 @@ feature-set: Marketo Engage
     + [User Setup](getting-started-2/initial-setup/user-setup.md)
   + Implementing a New Marketo Engage Instance {#implementing-a-new-marketo-engage-instance}
     + [Where to Start](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
-    + [New Instance: Admin Section Checklist](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-    + [New Instance: Database Checklist](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
-    + [New Instance: Marketing Activities Checklist](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
-    + [New Instance: Design Studio Checklist](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
-    + [New Instance: Document Your Setup](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+    + [New Instance Best Practices: Admin Section Checklist](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+    + [New Instance Best Practices: Database Checklist](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
+    + [New Instance Best Practices: Marketing Activities Checklist](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+    + [New Instance Best Practices: Design Studio Checklist](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+    + [New Instance Best Practices: Document Your Setup](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
   + Things to Know {#things-to-know}
     + [Marketo Engage Glossary](getting-started-2/things-to-know/marketo-engage-glossary.md)
     + [Icon Glossary](getting-started-2/things-to-know/icon-glossary.md)

@@ -1,11 +1,11 @@
 ---
 description: Document the setup of your new Marketo Engage instance.
-title: New Instance - Document Your Setup
+title: New Instance Best Practices - Document Your Setup
 hide: yes
 hidefromtoc: yes
 feature: Getting Started
 ---
-# New Instance: Document Your Setup {#new-instancei-document-your-setup}
+# New Instance Best Practices: Document Your Setup {#new-instance-best-practices-document-your-setup}
 
 Now that you've learned the key product areas to set up for a new Marketo Engage instance, the next step is to create documentation for your instance configuration and tech stack. Whether creating it via spreadsheet or a project management application, your documentation will be a great resource to track progress and record details, as well as keep your instance structured and sustainable for future marketers within your organization.
 

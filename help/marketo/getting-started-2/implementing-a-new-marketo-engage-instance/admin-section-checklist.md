@@ -1,11 +1,11 @@
 ---
 description: Set up the Admin section for your new Marketo Engage instance.
-title: New Instance - Admin Section Checklist
+title: New Instance Best Practices - Admin Section Checklist
 hide: yes
 hidefromtoc: yes
 feature: Getting Started
 ---
-# New Instance: Admin Section Checklist {#new-instance-admin-section-checklist}
+# New Instance Best Practices: Admin Section Checklist {#new-instance-best-practices-admin-section-checklist}
 
 As a new admin navigating a fresh Marketo Engage instance, apply the checklist below to help guide you through the implementation process. As with all of these guides, you can download the checklists [LINK] and track your progress.
 

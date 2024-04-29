@@ -1,11 +1,11 @@
 ---
 description: Set up the Design Studio section for your new Marketo Engage instance.
-title: New Instance - Design Studio Checklist
+title: New Instance Best Practices - Design Studio Checklist
 hide: yes
 hidefromtoc: yes
 feature: Getting Started
 ---
-# New Instance: Design Studio Checklist {#new-instance-design-studio-checklist}
+# New Instance Best Practices: Design Studio Checklist {#new-instance-best-practices-design-studio-checklist}
 
 The Design Studio section is where the reusable 'global assets' should reside. Create the global assets that your organization plans to use in programs, use a consistent naming convention, and organize them in the subfolders for easy searches. 
 
