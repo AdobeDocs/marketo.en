@@ -50,15 +50,15 @@ Some steps require help from your IT team.
 
    To retrieve the Munchkin ID that you'll be replacing with your landing page CNAME, go to the Admin area.
 
-   ![](assets/setup-steps-9.png)
+SCREENSHOT: setup-steps-9.png
 
    Click **My Account**.
 
-   ![](assets/setup-steps-10.png)
+SCREENSHOT: setup-steps-10.png
 
    Copy the [!UICONTROL Account String] from landing page settings.
 
-   ![](assets/setup-steps-11.png)
+SCREENSHOT: setup-steps-11.png
 
    This is the `[Munchkin ID]`. Save it. You'll need to give it to IT in Step 5.
 
@@ -94,17 +94,17 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
    To find your Marketo tracking link, go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/setup-steps-12.png)
+SCREENSHOT: setup-steps-12.png
 
    Click **[!UICONTROL Email]**.
 
-   ![](assets/setup-steps-13.png)
+SCREENSHOT: setup-steps-13.png
 
    Copy the [!UICONTROL Tracking Link] from your email settings.  
   
    The [!UICONTROL Tracking Link] is in the form: `mkto-[a-z][4 digits].com`.
 
-   ![](assets/setup-steps-14.png)
+ SCREENSHOT: setup-steps-14.png
 
    This is your `[MktoTrackingLink]`. Save it. You'll need to give it to IT in Step 5.
 
@@ -209,35 +209,35 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
    Go to the **[!UICONTROL Admin]** area to Add Your Landing Page CNAME
 
-   ![](assets/setup-steps-15.png)
+SCREENSHOT: setup-steps-15.png
 
    Select Landing Pages and click **[!UICONTROL Edit]** in the [!UICONTROL Settings] area.
 
-   ![](assets/setup-steps-16.png)
+SCREENSHOT: setup-steps-16.png
 
    Enter your new domain name in the field **[!UICONTROL Domain Name for Landing Pages]**. This should be in the form:
 
    `[LandingPageCNAME].[CompanyDomain].com`
 
-   ![](assets/setup-steps-17.png)
+SCREENSHOT: setup-steps-17.png
 
    In the **[!UICONTROL Fallback]** page field, enter the URL you want people to go to if a landing page is unavailable. You can use your company home page if you do not have a fallback page. In the **[!UICONTROL Homepage]** field, enter your company website.
 
-   ![](assets/setup-steps-18.png)
+SCREENSHOT: setup-steps-18.png
 
    In the [!UICONTROL Admin] area, select **[!UICONTROL Email]** to Add your Email CNAME
 
-   ![](assets/setup-steps-19.png)
+SCREENSHOT: setup-steps-19.png
 
    Scroll down to [!UICONTROL Branding Domains]. Select your domain and click **[!UICONTROL Edit]**.
 
-   ![](assets/setup-steps-20.png)
+SCREENSHOT: setup-steps-20.png
 
    In the Domain field, enter your email tracking domain. This should be in the form:
 
    `[EmailTrackingCNAME].[CompanyDomain].com`. Click **[!UICONTROL Save]**.
 
-   ![](assets/setup-steps-21.png)
+SCREENSHOT: setup-steps-21.png
 
 ## Integrate Your CRM {#integrate-your-crm}
 

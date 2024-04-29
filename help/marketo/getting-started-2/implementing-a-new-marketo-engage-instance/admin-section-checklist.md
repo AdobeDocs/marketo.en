@@ -4,7 +4,6 @@ title: New Instance - Admin Section Checklist
 hide: yes
 hidefromtoc: yes
 feature: Getting Started
-exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
 ---
 # New Instance: Admin Section Checklist {#new-instance-admin-section-checklist}
 

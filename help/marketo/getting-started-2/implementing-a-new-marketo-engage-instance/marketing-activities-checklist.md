@@ -4,7 +4,6 @@ title: New Instance - Marketing Activities Checklist
 hide: yes
 hidefromtoc: yes
 feature: Getting Started
-exl-id: c9bde944-1724-4521-a57a-e8cef4adb5c8
 ---
 # New Instance: Marketing Activities Checklist {#new-instance-marketing-activities-checklist}
 
