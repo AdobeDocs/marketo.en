@@ -39,6 +39,24 @@ feature-set: Marketo Engage
     + [Inherited Instance: Design Studio Checklist](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
     + [Inherited Instance: Document Your Setup](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
     + [Reviewing Core Skills](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
++ Getting Started with Marketo 2 {#getting-started-with-marketo-2}
+  + [What is Adobe Marketo Engage?](getting-started-2/what-is-adobe-marketo-engage.md)
+  + Initial Setup {#initial-setup}
+    + [Initial Setup Tasks](getting-started-2/initial-setup/initial-setup-tasks.md)
+    + [Setup Steps](getting-started-2/initial-setup/setup-steps.md)
+    + [User Setup](getting-started-2/initial-setup/user-setup.md)
+  + Implementing a New Marketo Engage Instance {#implementing-a-new-marketo-engage-instance}
+    + [Where to Start](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
+    + [New Instance: Admin Section Checklist](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+    + [New Instance: Database Checklist](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
+    + [New Instance: Marketing Activities Checklist](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+    + [New Instance: Design Studio Checklist](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+    + [New Instance: Document Your Setup](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+  + Things to Know {#things-to-know}
+    + [Marketo Engage Glossary](getting-started-2/things-to-know/marketo-engage-glossary.md)
+    + [Icon Glossary](getting-started-2/things-to-know/icon-glossary.md)
+    + [Classic Icon Glossary](getting-started-2/things-to-know/classic-icon-glossary.md)
+    + [Help Center](getting-started-2/things-to-know/help-center.md)  
 + Product Docs {#product-docs}
   + Additional Apps {#additional-apps}
     + SEO {#seo}
