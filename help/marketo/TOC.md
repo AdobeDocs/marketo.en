@@ -684,6 +684,7 @@ feature-set: Marketo Engage
         + [Agent Management](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
         + [Security Settings](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
         + [Routing](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
+        + [Callback Functions](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
     + Events {#events}
       + Understanding Events {#understanding-events}
         + [Adding Members to an Event Program](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
