@@ -4,6 +4,7 @@ title: Configure Protocols for Marketo
 hide: yes
 hidefromtoc: yes
 feature: Getting Started
+exl-id: 2a156373-1279-4f00-b154-71c956434fab
 ---
 # Initial Setup Tasks for Marketo Engage{#initial-setup-tasks-for-marketo-engage}
 

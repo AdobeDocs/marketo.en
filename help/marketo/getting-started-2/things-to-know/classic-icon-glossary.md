@@ -4,6 +4,7 @@ title: Classic Icon Glossary
 hide: yes
 hidefromtoc: yes
 feature: Getting Started
+exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
 ---
 # Classic Icon Glossary {#classic-icon-glossary}
 

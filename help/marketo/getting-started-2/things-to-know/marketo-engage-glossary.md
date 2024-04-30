@@ -4,6 +4,7 @@ title: Marketo Engage Glossary
 hide: yes
 hidefromtoc: yes
 feature: Getting Started
+exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
 ---
 # Marketo Engage Glossary {#marketo-engage-glossary}
 

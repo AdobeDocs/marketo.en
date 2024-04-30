@@ -4,6 +4,7 @@ title: New Instance Best Practices - Marketing Activities Checklist
 hide: yes
 hidefromtoc: yes
 feature: Getting Started
+exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
 ---
 # New Instance Best Practices: Marketing Activities Checklist {#new-instance-best-practices-marketing-activities-checklist}
 

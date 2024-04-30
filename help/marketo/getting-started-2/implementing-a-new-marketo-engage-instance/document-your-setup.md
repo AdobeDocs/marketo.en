@@ -4,6 +4,7 @@ title: New Instance Best Practices - Document Your Setup
 hide: yes
 hidefromtoc: yes
 feature: Getting Started
+exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
 ---
 # New Instance Best Practices: Document Your Setup {#new-instance-best-practices-document-your-setup}
 

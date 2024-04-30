@@ -4,6 +4,7 @@ title: New Instance Best Practices - Admin Section Checklist
 hide: yes
 hidefromtoc: yes
 feature: Getting Started
+exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
 ---
 # New Instance Best Practices: Admin Section Checklist {#new-instance-best-practices-admin-section-checklist}
 

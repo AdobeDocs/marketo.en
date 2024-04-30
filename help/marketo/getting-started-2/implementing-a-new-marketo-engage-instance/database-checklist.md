@@ -4,6 +4,7 @@ title: New Instance Best Practices - Database Checklist
 hide: yes
 hidefromtoc: yes
 feature: Getting Started
+exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
 ---
 # New Instance Best Practices: Database Checklist {#new-instance-best-practices-database-checklist}
 

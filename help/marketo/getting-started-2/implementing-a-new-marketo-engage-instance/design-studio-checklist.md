@@ -4,6 +4,7 @@ title: New Instance Best Practices - Design Studio Checklist
 hide: yes
 hidefromtoc: yes
 feature: Getting Started
+exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
 ---
 # New Instance Best Practices: Design Studio Checklist {#new-instance-best-practices-design-studio-checklist}
 

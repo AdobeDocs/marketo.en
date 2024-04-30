@@ -4,6 +4,7 @@ title: Icon Glossary
 hide: yes
 hidefromtoc: yes
 feature: Getting Started
+exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 ---
 # Marketo Engage Icon Glossary {#icon-glossary}
 
