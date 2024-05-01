@@ -8,7 +8,7 @@ exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
 ---
 # New Instance Best Practices: Database Checklist {#new-instance-best-practices-database-checklist}
 
-The Database section provides you with a snapshot of the key attributes about the people in your instance. Learn more about the necessary steps to navigate through different lists and segmentations in your Database, as well as managing people records. 
+The Database section is where you'll find the key attributes of the people in your instance. Learn more about the necessary steps to navigate through different lists and segmentations in your Database, as well as managing people records. 
 
 Remember to download the checklists [LINK] and track your progress.
 
@@ -33,7 +33,7 @@ Remember to download the checklists [LINK] and track your progress.
   </tr>
   <tr>
     <td>Marketing Suspended</td>
-    <td><li>Define <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html#marketing-suspended" target="_blank">Marketing Suspended</a> criteria.</li></td>
+    <td><li>Define <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">Marketing Suspended</a> criteria.</li></td>
   </tr>
   <tr>
     <td>Bounced Email Addresses </td>
@@ -44,7 +44,7 @@ Remember to download the checklists [LINK] and track your progress.
     <td>Possible Duplicates</td>
     <td><li>Review People in the Possible Duplicates list.</li> 
     <li>Define your duplicate management strategy to determine if you want to <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank">merge people manually</a>.</li>  
-    <li>If you have a CRM integration, define a process and account for <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html#effect-in-salesforce" target="_blank">the effect of merging leads in your CRM</a>.</li></td>
+    <li>If you have a CRM integration, define a process and account for <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">the effect of merging leads in your CRM</a>.</li></td>
   </tr>
   <tr>
     <td>No Acquisition Program</td>

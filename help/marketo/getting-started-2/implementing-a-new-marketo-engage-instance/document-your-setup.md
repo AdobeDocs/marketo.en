@@ -50,7 +50,7 @@ Now that you've learned the key product areas to set up for a new Marketo Engage
     <br>ID Type
     <br>Product Profile(s)
     <p>
-    <li>As a Marketo Engage Product Admin, develop an internal process to audit and update the Marketo Engage user list at a regular cadency. To make changes to the list of users in Adobe Admin Console, consider <a href="https://helpx.adobe.com/enterprise/using/users.html" target="_blank">uploading the .csv</a> in bulk.</li></td>
+    <li>As a Marketo Engage Product Admin, develop an internal process to audit and update the Marketo Engage user list at a regular cadency. To make changes to the list of users in Adobe Admin Console, consider <a href="https://helpx.adobe.com/enterprise/using/users.html" target="_blank">bulk actions</a>, such as uploading a .CSV, using the User Management REST API, etc.</li></td>
   </tr>
   <tr>
     <td>Organization</td>

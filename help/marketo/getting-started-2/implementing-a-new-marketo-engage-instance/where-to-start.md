@@ -10,7 +10,7 @@ exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
 
 Welcome to your new Adobe Marketo Engage instance! Get ready to streamline, automate, and measure marketing tasks and workflows with powerful marketing automation capabilities.
 
-In this "Implementing a New Marketo Engage Instance" guide, learn the best practices for seamlessly implementing your instance to ensure long-term hygiene and operational efficiency. Each checklist provides valuable steps for you to keep track of your configuration progress. Use the downloadable checklists to document your work along the way for future instance audits and onboarding.
+In this "Implementing a New Marketo Engage Instance" guide, learn the best practices for seamlessly implementing your instance to ensure long-term hygiene and operational efficiency. Each checklist provides valuable steps for you to keep track of your configuration progress. Use the downloadable checklists to document your work along the way for future instance audits and user onboarding.
 
 ## Best Practice Checklists For Your New Marketo Engage Instance {#best-practice-checklists-new-instance}
 
@@ -28,4 +28,10 @@ Download the Marketo Engage Instance New Implementation Admin Checklists[INSERT 
 
 ## Connect with Your Peers {#connect-with-your-peers}
 
-Visit the [Marketing Nation Community](https://nation.marketo.com/){target="_blank"} and create your community profile to learn and ask your peers how they implement and manage their Marketo Engage instance.
+Visit the [Marketing Nation Community](https://nation.marketo.com/){target="_blank"} to learn more about your Marketo Engage Instance from Marketo Engage employees as well as fellow users. 
+
+Get started in Marketing Nation Community: 
+
+1. Click **Continue with Adobe ID** and select your primary subscription on the login page.
+1. Upon signing in, complete your community profile.
+1. After you submit the information, you will land on the community homepage and be good to go!

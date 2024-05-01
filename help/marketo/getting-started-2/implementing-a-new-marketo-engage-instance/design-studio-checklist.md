@@ -24,16 +24,16 @@ Remember to download the checklists [LINK] and track your progress.
 <tbody>
   <tr>
     <td>Global Landing Pages</td>
-    <td><li>Create global Landing Pages (free-form/guided).</li>
-    <li>Create a test page to A/B test the winning Landing Page template (if applicable).</li></td>
+    <td><li>Create <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">global Landing Pages (free-form/guided)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">Create a test page</a> to A/B test the winning Landing Page template (if applicable).</li></td>
   </tr>
   <tr>
     <td>Templates</td>
     <td><li>Create a design for global Landing Pages.</li></td>
   </tr>
   <tr>
-    <td>Privacy &amp; Compliance</td>
-    <td><li>Create a footer using <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Snippets</a> or Tokens in your Landing Pages for privacy compliance.</li></td>
+    <td>Privacy & Compliance</td>
+    <td><li>Create a footer using <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Snippets</a> or <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">Tokens</a> in your Landing Pages for privacy compliance.</li></td>
   </tr>
 </tbody>
 </table>
@@ -53,7 +53,7 @@ Remember to download the checklists [LINK] and track your progress.
     <td><li>Set up <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">global forms</a> for use cases such as subscription preferences, gated content downloads, demo requests, webinar registrations, etc.</li></td>
   </tr>
   <tr>
-    <td>Privacy &amp; Compliance</td>
+    <td>Privacy & Compliance</td>
     <td><li>Keep your forms GDPR compliant.</li></td>
   </tr>
   <tr>
@@ -120,8 +120,8 @@ Remember to download the checklists [LINK] and track your progress.
     <td>Naming Conventions</td>
     <td><li>Use consistent naming conventions for images and files.</li>  
     <br>Examples:  
-    <br>File Naming Convention: Asset Type-Asset Name (Ex: White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board) 
-    <p>Image Naming Convention: Image Type-Asset Type-Asset Name (Ex: Thumbnail-White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board)</td>
+    <br><ul><li>File Naming Convention: Asset Type-Asset Name (Ex: White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board)</li>
+    <p><li>Image Naming Convention: Image Type-Asset Type-Asset Name (Ex: Thumbnail-White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board)</li></td>
   </tr>
 </tbody>
 </table>
