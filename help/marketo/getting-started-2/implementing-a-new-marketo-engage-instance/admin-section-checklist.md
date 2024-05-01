@@ -208,7 +208,7 @@ As a new admin navigating a fresh Marketo Engage instance, apply the checklist b
   </tr>
   <tr>
     <td>Adobe Dynamic Chat (if applicable)</td>
-    <td><li>Assign users to <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">'Access Dynamic Chat' roles</a> in Marketo Engage > Admin > Users & Roles.</li</td>
+    <td><li>Assign users to <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">'Access Dynamic Chat' roles</a> in Marketo Engage > Admin > Users & Roles.</li></td>
   </tr>
   <tr>
     <td>Sales Insight (if applicable)</td>
