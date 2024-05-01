@@ -278,7 +278,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ### Live Chat Timeout {#live-chat-timeout}
 
-This event is triggered when a live chat conversation times out because the visitor stops responding, or dropped. 
+This event is triggered when a live chat conversation times out because the visitor stops responding, or they dropped. 
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
