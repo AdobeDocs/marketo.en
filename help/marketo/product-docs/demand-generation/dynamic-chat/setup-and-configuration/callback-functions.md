@@ -1,8 +1,6 @@
 ---
 description: Callback Functions - Marketo Docs - Product Documentation
 title: Callback Functions
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 ---
 # Callback Functions {#callback-functions}
@@ -72,7 +70,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-'event' argument in the event is an object with metadata related to conversation. You can access the metadata by event.data 
+The `event` parameter is an object with metadata related to the conversation. You can access this metadata by accessing `event.data`.
 
 Below are some key metadata values you can access: 
 
@@ -135,7 +133,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-'event' argument in the event is an object with metadata related to conversation. You can access the metadata by event.data 
+The `event` parameter is an object with metadata related to the conversation. You can access this metadata by accessing `event.data`.
 
 Below are some key metadata values you can access.
 
@@ -188,7 +186,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-'event' argument in the event is an object with metadata related to conversation. You can access the metadata by event.data 
+The `event` parameter is an object with metadata related to the conversation. You can access this metadata by accessing `event.data`.
 
 Below are some key metadata values you can access.
 
@@ -289,7 +287,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-'event' argument in the event is an object with metadata related to conversation. You can access the metadata by event.data 
+The `event` parameter is an object with metadata related to the conversation. You can access this metadata by accessing `event.data`.
 
 Below are some key metadata values you can access. 
 
@@ -332,7 +330,7 @@ Below are some key metadata values you can access.
 </tbody>
 </table>
 
-If you wanted to send any of these events to a third-party platform like Adobe Analytics or Google Analytics, you would need to add their respective tracking call inside these Dynamic Chat events. It would look something like the example below.
+If you wanted to send any of these events to an analytics platform like Adobe Analytics or Google Analytics, you would need to add their respective tracking call inside these Dynamic Chat events. It would look something like the example below.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 

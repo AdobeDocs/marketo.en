@@ -22,7 +22,7 @@ _&#42;Previously available as a trial feature with 100 lifetime engagements. Con
 
 ### Callback functions {#callback-functions}
 
-Callback functions allow you to collect Dynamic Chat analytics events in external systems, like Adobe Analytics or Google Analytics, as visitors engage with Dynamic Chat conversations. You enable Dynamic Chat analytics events by registering a callback with the API to listen to the events. This allows you to have a more holistic view of your Dynamic Chat engagement as it relates to other key data, such as web traffic. 
+[Callback functions](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} allow you to collect Dynamic Chat analytics events in external systems, like Adobe Analytics or Google Analytics, as visitors engage with Dynamic Chat conversations. You enable Dynamic Chat analytics events by registering a callback with the API to listen to the events. This allows you to have a more holistic view of your Dynamic Chat engagement as it relates to other key data, such as web traffic. 
 
 ### Live agent availability conditions added to conditional branching {#live-agent-availability-conditional-branching}
 
