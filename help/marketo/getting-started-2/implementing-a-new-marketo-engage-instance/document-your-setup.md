@@ -47,8 +47,13 @@ Now that you've learned the key product areas to set up for a new Marketo Engage
     <td><li>Document the <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">current users</a> in your instance for safety reasons. The following details should be included at a minimum (and are all visible by going to Adobe Admin Console > Users):</li>
     <br>Name
     <br>Email
-    <br>ID Type
-    <br>Product Profile(s)
+    <br>Login
+    <br>Role
+    <br>Access Expiration Date
+    <br>User Created Date
+    <br>Most Recent Log In Date
+
+NOTE: Customers could also expand on this to include documentation around roles/permissions.
     <p>
     <li>As a Marketo Engage Product Admin, develop an internal process to audit and update the Marketo Engage user list at a regular cadency. To make changes to the list of users in Adobe Admin Console, consider <a href="https://helpx.adobe.com/enterprise/using/users.html" target="_blank">bulk actions</a>, such as uploading a .CSV, using the User Management REST API, etc.</li></td>
   </tr>

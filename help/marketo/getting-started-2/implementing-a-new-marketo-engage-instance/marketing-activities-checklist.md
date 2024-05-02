@@ -48,9 +48,9 @@ Remember to download the checklists [LINK] and track your progress.
 
 ## Assets {#assets}
 
->[!TIP]
+>[!NOTE]
 >
->To store marketing assets like programs, Landing Pages, and emails in separate areas, please reference the 'Admin section' checklist [LINK] to learn how to set up Workspaces. 
+>To store marketing assets like programs, Landing Pages, and emails in separate areas, please reference the [Admin section checklist](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) to learn how to set up Workspaces. 
 
 <table>
 <thead>
@@ -134,7 +134,7 @@ Remember to download the checklists [LINK] and track your progress.
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management">Import a Deliverability Management program</a> from the Marketo Program Library to start.</li></td>
   </tr>
   <tr>
-    <td>Privacy &amp; Compliance</td>
+    <td>Privacy & Compliance</td>
     <td><li>Create programs to ensure you're compliant with data privacy and spam laws such as <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html">GDPR, CASL, CAN-SPAM, CCPA, etc.</a></li>
     <br>Note: Always remember to consult your legal team on these issues. Ask your team about previous initiatives to maintain compliance before making any changes.</td>
   </tr>

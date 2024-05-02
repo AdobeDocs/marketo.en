@@ -12,6 +12,10 @@ Welcome to your new Adobe Marketo Engage instance! Get ready to streamline, auto
 
 In this "Implementing a New Marketo Engage Instance" guide, learn the best practices for seamlessly implementing your instance to ensure long-term hygiene and operational efficiency. Each checklist provides valuable steps for you to keep track of your configuration progress. Use the downloadable checklists to document your work along the way for future instance audits and user onboarding.
 
+## Required Steps 
+
+WORD THIS SECTION AND RENAME
+
 ## Best Practice Checklists For Your New Marketo Engage Instance {#best-practice-checklists-new-instance}
 
 Download the Marketo Engage Instance New Implementation Admin Checklists[INSERT LINK], or go through the online guides below.
