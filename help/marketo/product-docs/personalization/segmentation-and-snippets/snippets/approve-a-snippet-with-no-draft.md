@@ -11,20 +11,24 @@ feature: Snippets
 
 No-Draft is triggered each time a snippet is approved. This includes a snippet that is shared or referenced by assets in other workspaces.
 
-1. Go to **Design Studio**.
+1. Go to the **Design Studio**.
 
-   ![](assets/go-to-design-studio.png)
+   ![](assets/approve-the-snippet-1.png)
 
-1. Select a snippet and in the **Snippet Actions** drop-down, choose **Approve**.
+1. Find and select the desired snippet.
 
-   ![](assets/approve-snippet.png)
+   ![](assets/approve-the-snippet-2.png)
 
-1. Select an option in the Approve Snippet dialog box and click **Approve**:
+1. In the **Snippet actions** drop-down, choose **Approve draft**.
+
+   ![](assets/approve-the-snippet-3.png)
+
+1. Select an option in the Approve snippet dialog box and click **Approve**:
 
     * **Update all**: This option will not create drafts of the approved assets using the snippet. All assets get the updates and maintain their prior statuses. A progress module appears on the top right side of the screen; it can be closed at any time. To restore it, right-click the snippet name and select Show Approval Status.
     * **Create drafts**: This option will create drafts of the approved assets using the snippet. Select this option if snippet changes need to be reviewed first. All drafts must be approved manually.
 
-   ![](assets/snippet-dialog-box.png)
+   ![](assets/approve-the-snippet-4.png)
 
    >[!NOTE]
    >
@@ -32,8 +36,8 @@ No-Draft is triggered each time a snippet is approved. This includes a snippet t
 
 >[!CAUTION]
 >
->This feature is designed to save time with the snippet approval workflow. However, there are a few limitations to be aware of. Please see [this document](https://nation.marketo.com/docs/DOC-4415) for details. The document also contains error handling and troubleshooting information.
+>This feature is designed to save time with the snippet approval workflow. However, there are a few limitations to be aware of. Please see [this article](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} for details.
 
 >[!MORELIKETHIS]
 >
->[Enable No-Draft for Snippets](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
+>[Enable No-Draft for Snippets](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md){target="_blank"}
