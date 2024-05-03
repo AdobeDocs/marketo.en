@@ -47,6 +47,12 @@ Your new Marketo Engage subscriptions are onboarded to [Adobe Identity Managemen
     <li>Create one API user for each API use case.</li></td>
   </tr>
   <tr>
+    <td>User Management API (if applicable)</td>
+    <td><li>Use the <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html">Adobe User Management API</a> to invite, update, and delete users.</li>
+    <li>Use the <a href="https://developer.adobe.com/umapi/">Adobe User Management API</a> to add or remove roles (e.g., Administrators, Support Admins, Developers).</li>
+    </td>
+  </tr>
+  <tr>
     <td>Product Support Administrator </td>
     <td><li>To <a href="https://experienceleague.adobe.com/docs/customer-one/using/home.html#create-a-support-ticket-with-admin-console">submit a support ticket in the Adobe Admin Console</a>, you need to have the 'Product Support Administrator' role assigned by a System Administrator to the subscriptions you manage. Only a System Administrator in your organization can <a href="https://experienceleague.adobe.com/docs/customer-one/using/home.html#assign-the-support-admin-role">assign you to this role</a>.</li>
     <li>You might have received an email from the System Administrator stating that you are the Support Administrator for your Marketo Engage subscription. If so, click <a href="https://experienceleague.adobe.com/en/docs/customer-one/using/home#assign-the-support-admin-role">'Get Started'</a> in the email to join the organization.</li>

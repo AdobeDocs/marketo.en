@@ -35,7 +35,7 @@ As a new admin navigating a fresh Marketo Engage instance, apply the checklist b
   </tr>
   <tr>
     <td>Sandbox (if applicable)</td>
-    <td><li>Review the categories above for your <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md">sandbox</a>.</li></td>
+    <td><li>Review the categories above for your <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -166,12 +166,12 @@ As a new admin navigating a fresh Marketo Engage instance, apply the checklist b
   </tr>
   <tr>
     <td>Custom Activities</td>
-    <td><li>Define <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-activities/understanding-custom-activities.html">Custom Activities</a> that are specific to your business.</li></td>
+    <td><li>Define <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-activities/understanding-custom-activities.html" target="_blank">Custom Activities</a> that are specific to your business.</li></td>
   </tr>
   <tr>
     <td>Custom Objects</td>
-    <td><li>Review how many <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html">Custom Objects</a> you need.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.html">Sync those Custom Objects to your CRM</a>.</li></td>
+    <td><li>Review how many <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html" target="_blank">Custom Objects</a> you need.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.html" target="_blank">Sync those Custom Objects to your CRM</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -188,43 +188,43 @@ As a new admin navigating a fresh Marketo Engage instance, apply the checklist b
 <tbody>
   <tr>
     <td>CRM </td>
-    <td><li>Initiate CRM Sync. Choose from the following, depending on the CRM your company uses: <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html">Salesforce</a> | <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html">Microsoft Dynamics</a>.</li>
+    <td><li>Initiate CRM Sync. Choose from the following, depending on the CRM your company uses: <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html" target="_blank">Salesforce</a> | <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html" target="_blank">Microsoft Dynamics</a>.</li>
     <li>Identify the type of access you need to access your CRM.</li>
     <li>Identify your CRM admin for troubleshooting.</li></td>
   </tr>
   <tr>
     <td>Web Services</td>
-    <td><li>Determine the users/apps that can make <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html">API calls</a> in your instance.</li>
+    <td><li>Determine the users/apps that can make <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html" target="_blank">API calls</a> in your instance.</li>
     <li>Review all the apps that will make API calls and determine if an increase or decrease in API calls is needed.</li></td>
   </tr>
   <tr>
     <td>LaunchPoint</td>
-    <td><li>Set up <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html">LaunchPoint</a> services for your business. Each LaunchPoint should be paired with a unique API user to aid with troubleshooting.</li></td>
+    <td><li>Set up <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html" target="_blank">LaunchPoint</a> services for your business. Each LaunchPoint should be paired with a unique API user to aid with troubleshooting.</li></td>
   </tr>
   <tr>
     <td>Interactive Webinars (if applicable)</td>
     <td>NOTE: Interactive Webinars is only provisioned to Production instances.
-    <li>For creating Interactive Webinars, the built-in webinar feature, <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management">add users to the 'User' section</a> on the Interactive Webinar tab.</li></td>
+    <li>For creating Interactive Webinars, the built-in webinar feature, <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management" target="_blank">add users to the 'User' section</a> on the Interactive Webinar tab.</li></td>
   </tr>
   <tr>
     <td>Adobe Dynamic Chat (if applicable)</td>
-    <td><li>Assign users to <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">'Access Dynamic Chat' roles</a> in Marketo Engage > Admin > Users & Roles.</li></td>
+    <td><li>Assign users to <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role" target="_blank">'Access Dynamic Chat' roles</a> in Marketo Engage > Admin > Users & Roles.</li></td>
   </tr>
   <tr>
     <td>Sales Insight (if applicable)</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account">Set up Sales Insight Action</a> in Sales Insight > Actions Config.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions">Issue seats to appropriate users</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html">Configure the API</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html">Customize the lead scores</a>.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account" target="_blank">Set up Sales Insight Action</a> in Sales Insight > Actions Config.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions" target="_blank">Issue seats to appropriate users</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html" target="_blank">Configure the API</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html" target="_blank">Customize the lead scores</a>.</li></td>
   </tr>
   <tr>
     <td>Sales Connect (if applicable)</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance">Invite the appropriate Marketo Engage admins to the Sales Connect instance</a>.</li>
-    <li>Complete the <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins">additional Sales Connect admin setup</a> in Sales Connect and Salesforce.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance" target="_blank">Invite the appropriate Marketo Engage admins to the Sales Connect instance</a>.</li>
+    <li>Complete the <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins" target="_blank">additional Sales Connect admin setup</a> in Sales Connect and Salesforce.</li></td>
   </tr>
   <tr>
     <td>Webhooks (if applicable)</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html">Create any required Webhooks</a> for your business.</li>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html" target="_blank">Create any required Webhooks</a> for your business.</li>
     </td>
   </tr>
 </tbody>
@@ -242,12 +242,12 @@ As a new admin navigating a fresh Marketo Engage instance, apply the checklist b
 <tbody>
   <tr>
     <td>Treasure Chest </td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/enable-or-disable-treasure-chest-features.html">Enable Treasure Chest</a> to experiment with piloting features.</li>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/enable-or-disable-treasure-chest-features.html" target="_blank">Enable Treasure Chest</a> to experiment with piloting features.</li>
     <li>Determine the features that you want to turn on or off.</li></td>
   </tr>
   <tr>
     <td>Campaign Inspector </td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/campaign-inspector.html">Turn on Campaign Inspector</a> to view all your Smart Campaigns at once.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/campaign-inspector.html" target="_blank">Turn on Campaign Inspector</a> to view all your Smart Campaigns at once.</li></td>
   </tr>
 </tbody>
 </table>

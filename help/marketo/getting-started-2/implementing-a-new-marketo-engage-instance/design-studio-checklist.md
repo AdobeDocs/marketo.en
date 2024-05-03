@@ -24,8 +24,8 @@ Remember to download the checklists [LINK] and track your progress.
 <tbody>
   <tr>
     <td>Global Landing Pages</td>
-    <td><li>Create <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">global Landing Pages (free-form/guided)</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">Create a test page</a> to A/B test the winning Landing Page template (if applicable).</li></td>
+    <td><li>Create <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">global Landing Pages (free-form/guided)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">Create a test page</a> to A/B test the winning Landing Page template (if applicable).</li></td>
   </tr>
   <tr>
     <td>Templates</td>
@@ -33,7 +33,7 @@ Remember to download the checklists [LINK] and track your progress.
   </tr>
   <tr>
     <td>Privacy & Compliance</td>
-    <td><li>Create a footer using <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Snippets</a> or <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">Tokens</a> in your Landing Pages for privacy compliance.</li></td>
+    <td><li>Create a footer using <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">Snippets</a> or <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">Tokens</a> in your Landing Pages for privacy compliance.</li></td>
   </tr>
 </tbody>
 </table>
@@ -138,7 +138,7 @@ Remember to download the checklists [LINK] and track your progress.
 <tbody>
   <tr>
     <td>Folder Structure </td>
-    <td><li>Create subfolders for each type of asset and <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">organize global assets</a> (e.g., conversational flows, email templates, emails, forms, images and files, Landing Pages, Landing Page templates, snippets, etc.) appropriately.</li></td>
+    <td><li>Create subfolders for each type of asset and <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">organize global assets</a> (e.g., conversational flows, email templates, emails, forms, images and files, Landing Pages, Landing Page templates, snippets, etc.) appropriately.</li></td>
   </tr>
 </tbody>
 </table>

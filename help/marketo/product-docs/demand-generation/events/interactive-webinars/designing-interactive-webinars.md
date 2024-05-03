@@ -21,6 +21,8 @@ Learn how to design your webinar to suit your needs.
    >* A room is an online space that's used to conduct meetings.
    >
    >* If you choose an existing Webinar Room and need to rename it, simply click the **Rename Webinar Room** button to the right.
+   >
+   >* The drop-down only shows existing rooms that you previously created, not other hosts'.
 
 1. Choose a template.
 
