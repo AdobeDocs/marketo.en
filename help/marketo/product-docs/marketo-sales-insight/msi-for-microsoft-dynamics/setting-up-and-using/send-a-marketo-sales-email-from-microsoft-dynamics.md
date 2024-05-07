@@ -33,7 +33,13 @@ Your sales team can send emails and have them tracked for opens and clicks direc
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
-   You can click **Send Test Email** first and the email will be sent to you (primary email address in Microsoft Dynamics) before sending the actual email.
+   >[!TIP]
+   >
+   >You can click **Send Test Email** first and the email will be sent to you (primary email address in Microsoft Dynamics) before sending the actual email.
+
+   >[!NOTE]
+   >
+   >You can send up to 2000 Marketo emails at a time.
 
 Nicely done! Now you know how to send Marketo tracked emails directly from within Microsoft Dynamics.
 
