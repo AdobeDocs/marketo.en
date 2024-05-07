@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720433
-description: Configure Protocols for Marketo - Marketo Docs - Product Documentation
-title: Configure Protocols for Marketo
+description: Configure Protocols for Marketo Engage - Marketo Engage Docs - Product Documentation
+title: Configure Protocols for Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
 ---
-# Configure Protocols for Marketo {#configure-protocols-for-marketo}
+# Configure Protocols for Marketo Engage{#configure-protocols-for-marketo-engage}
 
 If you or your organization use restrictive firewall or proxy server settings, you or your network administrator may need to allowlist certain domains and IP address ranges to ensure Adobe Marketo Engage works as expected.
 
-For help implementing the protocols below, please share this article with your IT department. If they restrict web access using an allowlist, make sure they add the following domains (including the asterisk) to allow all Marketo resources and websockets:
+For help implementing the protocols below, please share this article with your IT department. If they restrict web access using an allowlist, make sure they add the following domains (including the asterisk) to allow all Marketo Engage resources and websockets:
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
@@ -21,11 +21,11 @@ For help implementing the protocols below, please share this article with your I
 
 **Tracking Link CNAMEs**
 
-Your marketing team should have sent you two requests for new CNAME records. The first is for landing page URLs, so that the landing pages appear in URLs that reflect your domain and not Marketo (the actual host). The second is for the tracking links that are included in the emails they send from Marketo.
+Your marketing team should have sent you two requests for new CNAME records. The first is for landing page URLs, so that the landing pages appear in URLs that reflect your domain and not Marketo Engage (the actual host). The second is for the tracking links that are included in the emails they send from Marketo Engage.
 
 `1` **Add CNAME for Landing Pages**
 
-Add the landing page CNAME they sent you to your DNS record, so that `[YourLandingPageCNAME]` points to the unique Account String that is assigned to your Marketo landing pages. Log in to your domain registrar's site and enter the landing page CNAME and Account String. Typically, this involves three fields:
+Add the landing page CNAME they sent you to your DNS record, so that `[YourLandingPageCNAME]` points to the unique Account String that is assigned to your Marketo Engage Landing Pages. Log in to your domain registrar's site and enter the landing page CNAME and Account String. Typically, this involves three fields:
 
 * Alias: Enter `[YourLandingPageCNAME]` (provided by marketing)
 * Type: CNAME  
@@ -33,7 +33,7 @@ Add the landing page CNAME they sent you to your DNS record, so that `[YourLandi
 
 `2` **Add CNAME for Email Tracking Links**
 
-Add the email CNAME marketing sent you, so that `[YourEmailCNAME]` points to [MktoTrackingLink], the default tracking link that Marketo assigned, in the format:  
+Add the email CNAME marketing sent you, so that `[YourEmailCNAME]` points to [MktoTrackingLink], the default tracking link that Marketo Engage assigned, in the format:  
 `[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`
 
 For example:  
@@ -52,9 +52,9 @@ Notify your marketing team when you've completed this process.
 
 This process can take up to 3 business days to complete.
 
-## Step 2: Allowlist Marketo IPs {#step-allowlist-marketo-ips}
+## Step 2: Allowlist Marketo Engage IPs {#step-allowlist-marketo-ips}
 
-When your Marketing group uses Marketo to send test emails (a best practice before sending out email blasts), the test emails are sometimes blocked by anti-spam systems that rely on sender IP addresses to verify that the email is valid. To ensure that those test emails arrive, add Marketo to your allowlist.
+When your Marketing group uses Marketo Engage to send test emails (a best practice before sending out email blasts), the test emails are sometimes blocked by anti-spam systems that rely on sender IP addresses to verify that the email is valid. To ensure that those test emails arrive, add Marketo Engage to your allowlist.
 
 Add these IP addresses to your corporate allowlist:
 
@@ -76,7 +76,7 @@ Add these IP addresses to your corporate allowlist:
 
 199.15.212.0/22
 
-Some anti-spam systems use the email Return-Path field instead of the IP address for allowisting. In those cases, the best approach is to allowlist '&#42;.mktomail.com', as Marketo uses several mailbox subdomains. Other anti-spam systems allowlist based on the From address. In these situations, be sure to include all the sending ('From') domains that your Marketing group uses to communicate with people/leads.
+Some anti-spam systems use the email Return-Path field instead of the IP address for allowisting. In those cases, the best approach is to allowlist '&#42;.mktomail.com', as Marketo Engage uses several mailbox subdomains. Other anti-spam systems allowlist based on the From address. In these situations, be sure to include all the sending ('From') domains that your Marketing group uses to communicate with people/leads.
 
 >[!NOTE]
 >
@@ -94,7 +94,7 @@ Your marketing team should have also sent you DKIM (Domain Keys Identified Mail)
    If we already have an existing SPF record in our DNS entry, simply add the following to it:  
    include: mktomail.com
 
-   Replace CompanyDomain with the main domain of your website (ex: "`(company.com/)`") and CorpIP with the IP address of your corporate email server (ex. "255.255.255.255"). If you are going to be sending email from multiple domains through Marketo, you should have your IT staff add this line for each domain (on one line).
+   Replace CompanyDomain with the main domain of your website (ex: "`(company.com/)`") and CorpIP with the IP address of your corporate email server (ex. "255.255.255.255"). If you are going to be sending email from multiple domains through Marketo Engage, you should have your IT staff add this line for each domain (on one line).
 
 1. For DKIM, create DNS Resource Records for each domain we'd like to set up. Below are the Host Records and TXT Values for each domain we'll be signing for:
 
@@ -247,7 +247,7 @@ There are two types of alignment for DMARC&mdash;DKIM alignment and SPF alignmen
 
 >[!NOTE]
 >
->It's recommended to do DMARC alignment on DKIM vs SPF for Marketo.
+>It's recommended to do DMARC alignment on DKIM vs SPF for Marketo Engage.
 
 * DKIM-aligned DMARC&mdash;To set up DKIM aligned DMARC you must:
    
@@ -262,15 +262,15 @@ There are two types of alignment for DMARC&mdash;DKIM alignment and SPF alignmen
 
    * Configure DMARC for the Branded Return-Path Domain
 
-* If you're sending mail from Marketo through a dedicated IP and have not already implemented branded return-path, or aren't sure if you have, please open a ticket with [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* If you're sending mail from Marketo Engage through a dedicated IP and have not already implemented branded return-path, or aren't sure if you have, please open a ticket with [Adobe Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-* If you're sending mail from Marketo through a shared pool of IPs, you can see if you qualify for Trusted IPs by [applying here](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. Branded return-path is offered for free to those sending from Marketo's Trusted IPs. If approved for this program, reach out to Marketo Support to set up branded return-path.
+* If you're sending mail from Marketo Engage through a shared pool of IPs, you can see if you qualify for Trusted IPs by [applying here](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. Branded return-path is offered for free to those sending from Marketo Engage Trusted IPs. If approved for this program, reach out to Adobe Support to set up branded return-path.
 
    * Trusted IPs: A shared pool of IPs reserved for lower volume users sending <75K/month who do not qualify for a dedicated IP. These users must also meet best practice requirements as well.
 
-* If you're sending mail from Marketo through shared IPs and you do not qualify for Trusted IPs and send more than 100,000 messages per month, you'll need to contact the Adobe Account Team (your account manager) to purchase a dedicated IP.
+* If you're sending mail from Marketo Engage through shared IPs and you do not qualify for Trusted IPs and send more than 100,000 messages per month, you'll need to contact the Adobe Account Team (your account manager) to purchase a dedicated IP.
 
-* Strict SPF alignment is not supported nor recommended within Marketo.
+* Strict SPF alignment is not supported nor recommended within Marketo Engage.
 
 ## Step 5: Set up MX Records for Your Domain {#step-set-up-mx-records-for-your-domain}
 
