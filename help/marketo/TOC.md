@@ -643,6 +643,7 @@ feature-set: Marketo Engage
       + [Add Google Customer Match as a LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
       + [Add LinkedIn Matched Audiences as a LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
       + [Send a List to an Ad Network](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
+      + [Send a List to Google](product-docs/demand-generation/ad-network-integrations/send-a-list-to-google.md)
     + Dynamic Chat {#dynamic-chat}
       + [Dynamic Chat Overview](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
       + [Chatbot Behavior](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
