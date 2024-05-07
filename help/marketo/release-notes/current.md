@@ -48,7 +48,18 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
     <tr> 
-   <td><strong>New Users & Roles Permissions</strong>: New permissions are available, providing users with more granular access to Marketo Engage. Control parts of Admin not previously gated such as New Experience and Predictive Audiences, split permissions to grant access to Asset Audit Trail and Admin Audit Trail separately, and utilize new create and move permissions for assets and folders to prevent read-only users from making changes. While the new permissions will appear in your Marketo Engage instance as of April 26, they are passive for now and will become accessible later this quarter.</td> 
+   <td><strong>New Users & Roles Permissions</strong>: New permissions are available, providing users with more granular access to Marketo Engage. Control parts of Admin not previously gated such as New Experience and Predictive Audiences, split permissions to grant access to Asset Audit Trail and Admin Audit Trail separately, and utilize new create and move permissions for assets and folders to prevent read-only users from making changes. 
+   <p>While the new permissions will appear in your Marketo Engage instance as of April 26, they are passive for now and will become accessible later this quarter.
+   <li>Access Adobe Experience Manager</li>
+   <li>Access Adobe Organization Mapping</li>
+   <li>Access Admin Audit Trail</li>
+   <li>Access Asset Audit Trail</li>
+   <li>Access New Experience</li>
+   <li>Access Predictive Audiences</li>
+   <li>Create Report</li>
+   <li>Create List</li>
+   <li>Export Campaign Activity</li>
+   </td> 
    <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Descriptions of Role Permissions</a></td>
   </tr>
