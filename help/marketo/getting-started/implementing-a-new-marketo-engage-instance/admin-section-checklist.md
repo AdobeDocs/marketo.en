@@ -6,7 +6,7 @@ exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
 ---
 # New Instance Best Practices: Admin Section Checklist {#new-instance-best-practices-admin-section-checklist}
 
-As a new admin navigating a fresh Marketo Engage instance, apply the checklist below to help guide you through the implementation process. As with all of these guides, you can also [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) and track your progress.
+As a new admin navigating a fresh Marketo Engage instance, apply the checklist below to help guide you through the implementation process. As with all of these guides, you can also [download the checklists](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) and track your progress.
 
 ## Roles {#roles}
 

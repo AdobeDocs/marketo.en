@@ -8,7 +8,7 @@ exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
 
 The Database section is where you'll find the key attributes of the people in your instance. Learn more about the necessary steps to navigate through different lists and segmentations in your Database, as well as managing people records. 
 
-Remember to [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) and track your progress.
+Remember to [download the checklists](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) and track your progress.
 
 ## System Smart Lists {#system-smart-lists}
 

@@ -8,7 +8,7 @@ exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
 
 The Design Studio section is where the reusable 'global assets' should reside. Create the global assets that your organization plans to use in programs, use a consistent naming convention, and organize them in the subfolders for easy searches. 
 
-Remember to [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) and track your progress.
+Remember to [download the checklists](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) and track your progress.
 
 ## Landing Pages {#landing-pages}
 

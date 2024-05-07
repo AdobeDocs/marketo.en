@@ -8,7 +8,7 @@ exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
 
 Welcome to your new Adobe Marketo Engage instance! Get ready to streamline, automate, and measure marketing tasks and workflows with powerful marketing automation capabilities.
 
-In this "Implementing a New Marketo Engage Instance" guide, learn the best practices for seamlessly implementing your instance to ensure long-term hygiene and operational efficiency. Each checklist provides valuable steps for you to keep track of your configuration progress. Use the [downloadable checklists](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} to document your work along the way for future instance audits and user onboarding.
+In this "Implementing a New Marketo Engage Instance" guide, learn the best practices for seamlessly implementing your instance to ensure long-term hygiene and operational efficiency. Each checklist provides valuable steps for you to keep track of your configuration progress. Use the [downloadable checklists](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} to document your work along the way for future instance audits and user onboarding.
 
 ## Initial Setup {#initial-setup}
 
@@ -22,7 +22,7 @@ Before diving into the Best Practice Checklists below, make sure you've followed
 
 ## Best Practice Checklists For Your New Marketo Engage Instance {#best-practice-checklists-new-instance}
 
-Download the Marketo Engage Instance [New Implementation Admin Checklists](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}, or go through the online guides below.
+Download the Marketo Engage Instance [New Implementation Admin Checklists](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}, or go through the online guides below.
 
 * [Admin section](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 

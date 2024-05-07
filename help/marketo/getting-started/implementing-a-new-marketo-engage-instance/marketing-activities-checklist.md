@@ -8,7 +8,7 @@ exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
 
 Marketing Activities houses all the assets and content that make up your automated marketing programs. As you set up a new Marketo Engage instance, a clean and clear organization ensures all users can easily find and manage various programs.
 
-Remember to [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) and track your progress.
+Remember to [download the checklists](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) and track your progress.
 
 ## Organization {#organization}
 

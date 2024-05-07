@@ -10,7 +10,7 @@ Now that you've completed all of the [initial setup steps](/help/marketo/getting
 
 >[!NOTE]
 >
->You can also download this checklist, [along with a list of best practices](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) for your new instance, and check off the steps as you go. 
+>You can also download this checklist, [along with a list of best practices](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) for your new instance, and check off the steps as you go. 
 
 ## Marketo Engage on Adobe Identity Management {#marketo-engage-on-adobe-identity-management}
 
