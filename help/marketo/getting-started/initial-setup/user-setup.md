@@ -28,7 +28,7 @@ Your new Marketo Engage subscriptions are onboarded to [Adobe Identity Managemen
     <td>Subscription & Marketo Engage Product Admin</td>
     <td><li>Confirm you've been granted an Adobe Product Admin role by your Adobe Org System Admin.</li>  
     <ul>
-    <li>Contact the Adobe Account team (your Account Manager) or send an email to <code>customercare@marketo.com</code> or send an email to customercare@marketo.comto find out who at your organization has <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console System Admin</a> privileges.</li></ul>
+    <li>Contact the Adobe Account team (your Account Manager) or send an email to <code>customercare@marketo.com</code> to find out who at your organization has <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console System Admin</a> privileges.</li></ul>
     <li>Accept the 'Marketo Engage Product Admin' invite to activate your Adobe ID. The <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">welcome email</a> is sent when the role is assigned in the Adobe Admin Console.</li></td>
   </tr>
   <tr>
