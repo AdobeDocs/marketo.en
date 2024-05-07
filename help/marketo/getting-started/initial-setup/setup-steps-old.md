@@ -200,7 +200,7 @@ The first part is the email tracking CNAME, `[EmailTrackingCNAME]`. You will nee
 
    Once you have collected all the necessary information, you're ready to send a request to IT. You can use the text below as a template, replacing the bold text with your own information.
 
-   [Include a link to this article](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
+   [Include a link to this article](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md).
 
    Paste this text into the email, and replace the bolded placeholders:
 

@@ -14,9 +14,9 @@ In this "Implementing a New Marketo Engage Instance" guide, learn the best pract
 
 Before diving into the Best Practice Checklists below, make sure you've followed the steps in the Initial Setup area.
 
-* [Setup Steps](/help/marketo/getting-started/initial-setup/initial-setup-tasks.md){target="_blank"}
+* [Setup Steps](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
-* [Configure Protocols](/help/marketo/getting-started/initial-setup/initial-setup-tasks.md){target="_blank"}
+* [Configure Protocols](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}
 
 * [User Setup Checklist](/help/marketo/getting-started/initial-setup/user-setup.md){target="_blank"}
 
