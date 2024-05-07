@@ -1,8 +1,6 @@
 ---
 description: Set up the Design Studio section for your new Marketo Engage instance.
 title: New Instance Best Practices - Design Studio Checklist
-hide: yes
-hidefromtoc: yes
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
 ---
@@ -10,7 +8,7 @@ exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
 
 The Design Studio section is where the reusable 'global assets' should reside. Create the global assets that your organization plans to use in programs, use a consistent naming convention, and organize them in the subfolders for easy searches. 
 
-Remember to download the checklists [LINK] and track your progress.
+Remember to [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) and track your progress.
 
 ## Landing Pages {#landing-pages}
 
@@ -54,7 +52,7 @@ Remember to download the checklists [LINK] and track your progress.
   </tr>
   <tr>
     <td>Privacy & Compliance</td>
-    <td><li>Keep your forms GDPR compliant.</li></td>
+    <td><li>Keep your forms <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">General Data Protection Regulation (GDPR)</a> compliant.</li></td>
   </tr>
   <tr>
     <td>Data Standardization</td>
@@ -83,8 +81,9 @@ Remember to download the checklists [LINK] and track your progress.
     <li>Create a tested email template to A/B test the winning template (if applicable).</li></td>
   </tr>
   <tr>
-    <td>Privacy &amp; Compliance</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">Add Snippets</a> to your email templates to control reusable blocks such as copyright year, global location, and compliance-specific language. Add Tokens to personalize content based on the target audience.</li></td>
+    <td>Privacy & Compliance</td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">Add Snippets</a> to your email templates to control reusable blocks such as copyright year, global location, and compliance-specific language.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email" target="_blank">Add Tokens</a> to personalize content based on the target audience.</li></td>
   </tr>
 </tbody>
 </table>

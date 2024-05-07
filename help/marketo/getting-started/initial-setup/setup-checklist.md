@@ -2,12 +2,14 @@
 unique-page-id: 2949471
 description: Setup Checklist - Marketo Docs - Product Documentation
 title: Setup Checklist
+hide: yes
+hidefromtoc: yes
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 feature: Getting Started
 ---
 # Setup Checklist {#setup-checklist}
 
-Welcome to Marketo! Feel free to use the following checklist as a visual to-do list to get things started. Details can be found in [Setup Steps](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}.
+Welcome to Marketo! Feel free to use the following checklist as a visual to-do list to get things started. Details can be found in [Setup Steps](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
 
 ## Log-in to Marketo and Create Additional Users {#log-in-to-marketo-and-create-additional-users}
 
@@ -45,4 +47,4 @@ Welcome to Marketo! Feel free to use the following checklist as a visual to-do l
 
 >[!MORELIKETHIS]
 >
->[Setup Steps](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
+>[Setup Steps](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}

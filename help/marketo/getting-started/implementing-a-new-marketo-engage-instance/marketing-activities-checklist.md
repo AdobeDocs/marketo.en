@@ -1,8 +1,6 @@
 ---
 description: Set up the Marketing Activities section for your new Marketo Engage instance.
 title: New Instance Best Practices - Marketing Activities Checklist
-hide: yes
-hidefromtoc: yes
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
 ---
@@ -10,7 +8,7 @@ exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
 
 Marketing Activities houses all the assets and content that make up your automated marketing programs. As you set up a new Marketo Engage instance, a clean and clear organization ensures all users can easily find and manage various programs.
 
-Remember to download the checklists [LINK] and track your progress.
+Remember to [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) and track your progress.
 
 ## Organization {#organization}
 
@@ -24,7 +22,7 @@ Remember to download the checklists [LINK] and track your progress.
 <tbody>
   <tr>
     <td>Naming Conventions</td>
-    <td><li>Define a <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes" target="_blank">consistent naming convention</a> for your subscription prior to building out folder structure.</li></td>
+    <td><li>Define a <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes" target="_blank">consistent naming convention</a> for your subscription prior to building out a folder structure.</li></td>
   </tr>
   <tr>
     <td>Folder Structure</td>
@@ -32,12 +30,13 @@ Remember to download the checklists [LINK] and track your progress.
   </tr>
   <tr>
     <td>Programs</td>
-    <td><li>Create program templates for <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel" target="_blank">each channel</a> you have created in your admin section. You can start by <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program" target="_blank">importing programs</a> from the Program Library. See specifics in the "Assets" table below.</li>
+    <td><li>Create program templates for <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel" target="_blank">each channel</a> you've created in your admin section. You can start by <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program" target="_blank">importing programs</a> from the Program Library. See specifics in the "Assets" table below.</li>
     <li>Determine which <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign" target="_blank">flow steps of the Smart Campaigns</a> can be in a global program vs. a local program.</li> <li>Include acquisition, membership, and success tracking as part of your program template to standardize the process.</li></td>
   </tr>
   <tr>
     <td>Archive</td>
-    <td><li>Determine a policy on when to <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#archive-a-folder" target="_blank">archive programs and assets</a>. Note that once archived, it removes items from select lists as well as reporting.</li></td>
+    <td><li>Determine a policy on when to <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#archive-a-folder" target="_blank">archive programs and assets</a>. 
+    <p><img src="assets/note-icon.png" alt="note icon"> NOTE: After an item is archived, it's removed from select lists as well as reporting.</li></td>
   </tr>
   <tr>
     <td>Notifications</td>
@@ -50,7 +49,7 @@ Remember to download the checklists [LINK] and track your progress.
 
 >[!NOTE]
 >
->To store marketing assets like programs, Landing Pages, and emails in separate areas, please reference the [Admin section checklist](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) to learn how to set up Workspaces. 
+>To store marketing assets like programs, Landing Pages, and emails in separate areas, please reference the [Admin section checklist](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) to learn how to set up Workspaces. 
 
 <table>
 <thead>
@@ -62,10 +61,9 @@ Remember to download the checklists [LINK] and track your progress.
 <tbody>
   <tr>
     <td>Program types</td>
-    <td><li>Understand the <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs" target="_blank">Four program types</a>.</li>
+    <td><li>Understand the <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs" target="_blank">four program types</a>.</li>
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program" target="_blank">Import program templates</a> from the <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview" target="_blank">Program Library</a> to start.</li>
-    <li>Email program: Under the 'Setup' tab, <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits" target="_blank">enable Communication Limits</a> (recommended).</li>
-    <li>Create an <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar" target="_blank">Interactive Webinar</a>, the built-in webinar platform, using an Event Program and <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars">associate a room with the Interactive Webinar</a> program (recommended).</li>
+    <li>Create an <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar" target="_blank">Interactive Webinar</a>, the built-in webinar platform, using an Event Program and <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars">associate a room with the Interactive Webinar</a> program.</li>
     <li>Set up <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html" target="_blank">scoring programs</a> to watch for buying signals on your website and with your content.</li></td>
   </tr>
   <tr>
@@ -85,7 +83,7 @@ Remember to download the checklists [LINK] and track your progress.
   </tr>
   <tr>
     <td>Landing Pages</td>
-    <td><li>Create a <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template" target="_blank">free-form landing page template</a> or <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page" target="_blank">a guided landing page template</a> for program use.</li></td>
+    <td><li>Create a <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template" target="_blank">free-form Landing Page template</a> or <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page" target="_blank">a guided Landing Page template</a> for program use.</li></td>
   </tr>
   <tr>
     <td>Local Forms</td>
@@ -94,11 +92,11 @@ Remember to download the checklists [LINK] and track your progress.
   </tr>
   <tr>
     <td>Smart List Subscriptions</td>
-    <td><li>Set up <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.html" target="_blank">Smart List Subscriptions</a> in Marketing Activities or Database for reports you'd like to receive daily, weekly or monthly such as like email performance and person performance, etc.</li></td>
+    <td><li>Set up <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.html" target="_blank">Smart List subscriptions</a> in Marketing Activities or the Database for reports you'd like to receive daily, weekly, or monthly (e.g., email performance, person performance, etc.).</li></td>
   </tr>
   <tr>
     <td>Manage Report Subscriptions</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html" target="_blank">Set up report subscriptions</a> in Marketing Activities or Analytics to <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html" target="_blank">basic reports</a> or <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.html" target="_blank">Revenue Cycle Explorer reports</a>, etc.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html" target="_blank">Set up report subscriptions</a> in Marketing Activities or Analytics to <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html" target="_blank">basic reports</a> or <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.html" target="_blank">Revenue Cycle Explorer reports</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -136,7 +134,7 @@ Remember to download the checklists [LINK] and track your progress.
   <tr>
     <td>Privacy & Compliance</td>
     <td><li>Create programs to ensure you're compliant with data privacy and spam laws such as <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR, CASL, CAN-SPAM, CCPA, etc.</a></li>
-    <br>Note: Always remember to consult your legal team on these issues. Ask your team about previous initiatives to maintain compliance before making any changes.</td>
+    <p><img src="assets/note-icon.png" alt="note icon"> NOTE: Always remember to consult your legal team on these issues. Ask your team about previous initiatives to maintain compliance before making any changes.</td>
   </tr>
   <tr>
     <td>Lifecycle</td>

@@ -2,14 +2,16 @@
 unique-page-id: 2949469
 description: Setup Steps - Marketo Docs - Product Documentation
 title: Setup Steps
+hide: yes
+hidefromtoc: yes
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
 ---
 # Setup Steps {#setup-steps}
 
-**Welcome to Marketo Engage!**
+**Welcome to Adobe Marketo Engage!**
 
-Before you dive into using Marketo, there a few steps you need to complete.
+Before you dive into using Marketo, there are a few steps you need to complete.
 
 These steps include:
 
@@ -26,7 +28,7 @@ Some steps require help from your IT team.
 
 >[!TIP]
 >
->If you [print out this checklist](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}, you can check items off as you complete them.
+>If you [print out this checklist](/help/marketo/getting-started/initial-setup/setup-checklist.md){target="_blank"}, you can check items off as you complete them.
 
 ## Log in and create additional Marketo Users {#log-in-and-create-additional-marketo-users}
 

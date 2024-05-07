@@ -22,7 +22,7 @@ There's a lot of new functionality in the Modern UX, all of which is designed to
 
 **Icons**
 
-The new interface features improved and expanded iconography. Learn about them here: [Icon Glossary](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
+The new interface features improved and expanded iconography. Learn about them here: [Icon Glossary](/help/marketo/product-docs/getting-started/things-to-know/icon-glossary.md).
 
 ![](assets/overview-2.png)
 

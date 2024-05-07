@@ -10,7 +10,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
 
 >[!TIP]
 >
->If you're a new(er) Marketo Engage user and are not familiar with many of the terms, please check out the [Marketo Engage Glossary](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
+>If you're a new(er) Marketo Engage user and are not familiar with many of the terms, please check out the [Marketo Engage Glossary](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}.
 
 ## Adobe Identity Management {#adobe-identity-management}
 
@@ -77,7 +77,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
   </tr>
   <tr> 
    <td>Support Users</td> 
-   <td><li>Have you set up the appropriate <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">authorized contacts</a> in the Support Portal?</li></td>
+   <td><li>Have you set up the appropriate <a href="/help/marketo/getting-started/initial-setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">authorized contacts</a> in the Support Portal?</li></td>
   </tr>
   <tr> 
    <td>Internal Documentation</td> 

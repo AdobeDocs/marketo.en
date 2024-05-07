@@ -48,7 +48,7 @@ For example:
 
 Notify your marketing team when you've completed this process.
 
-`4` **Contact [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} to start the process of provisioning an SSL Certificate.**
+`4` **Contact [Adobe Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} to start the process of provisioning an SSL Certificate.**
 
 This process can take up to 3 business days to complete.
 

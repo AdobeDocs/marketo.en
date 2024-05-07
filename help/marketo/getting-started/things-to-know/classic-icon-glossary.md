@@ -1,14 +1,12 @@
 ---
 description: Classic Icon Glossary - Marketo Docs - Product Documentation
 title: Classic Icon Glossary
-hide: yes
-hidefromtoc: yes
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
 ---
 # Classic Icon Glossary {#classic-icon-glossary}
 
-Below are the old icons from the Marketo Classic interface. The current icon glossary can be [found here](/help/marketo/getting-started-2/things-to-know/icon-glossary.md){target="_blank"}.
+Below are the old icons from the Marketo Classic interface. The current icon glossary can be [found here](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}.
 
 **General Icons**
 

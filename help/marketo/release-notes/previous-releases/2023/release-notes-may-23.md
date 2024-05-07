@@ -42,7 +42,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr> 
    <td>Shipped</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/help-center.html">Help Center</a></td>
+   <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">Help Center</a></td>
   </tr>
   </tbody>
 </table>

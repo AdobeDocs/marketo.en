@@ -1,14 +1,12 @@
 ---
 description: Icon Glossary - Marketo Engage Docs - Product Documentation
 title: Icon Glossary
-hide: yes
-hidefromtoc: yes
 feature: Getting Started
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 ---
 # Marketo Engage Icon Glossary {#icon-glossary}
 
-Below are the icons for the current Adobe Marketo Engage interface. If you need to reference the Marketo Classic icons, they can be [found here](/help/marketo/getting-started-2/things-to-know/classic-icon-glossary.md).
+Below are the icons for the current Adobe Marketo Engage interface. If you need to reference the Marketo Classic icons, they can be [found here](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
 
 ## General Icons {#general-icons}
 

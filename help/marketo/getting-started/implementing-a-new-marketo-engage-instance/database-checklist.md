@@ -1,8 +1,6 @@
 ---
 description: Set up the Database section for your new Marketo Engage instance.
 title: New Instance Best Practices - Database Checklist
-hide: yes
-hidefromtoc: yes
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
 ---
@@ -10,7 +8,7 @@ exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
 
 The Database section is where you'll find the key attributes of the people in your instance. Learn more about the necessary steps to navigate through different lists and segmentations in your Database, as well as managing people records. 
 
-Remember to download the checklists [LINK] and track your progress.
+Remember to [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) and track your progress.
 
 ## System Smart Lists {#system-smart-lists}
 
@@ -29,7 +27,7 @@ Remember to download the checklists [LINK] and track your progress.
   </tr>
   <tr>
     <td>Blocklist</td>
-    <td><li>Define blocklist criteria. Consider adding competitor's domains to the <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html" target="_blank">blocklist</a> to prevent them from receiving any of your emails.</li></td>
+    <td><li>Define blocklist criteria. Consider adding competitor's domains to your <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html" target="_blank">blocklist</a> to prevent them from receiving any of your emails.</li></td>
   </tr>
   <tr>
     <td>Marketing Suspended</td>
@@ -38,7 +36,7 @@ Remember to download the checklists [LINK] and track your progress.
   <tr>
     <td>Bounced Email Addresses </td>
     <td><li>Define your criteria for bounced email addresses.</li>
-    <li>Review the people in Email Invalid category and if their emails need be <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html" target="_blank">manually reset</a>.</li></td>
+    <li>Review the people in the 'Email Invalid' category and determine if their emails need be <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html" target="_blank">manually reset</a>.</li></td>
   </tr>
   <tr>
     <td>Possible Duplicates</td>

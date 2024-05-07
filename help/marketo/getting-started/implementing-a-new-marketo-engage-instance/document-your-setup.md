@@ -1,8 +1,6 @@
 ---
 description: Document the setup of your new Marketo Engage instance.
 title: New Instance Best Practices - Document Your Setup
-hide: yes
-hidefromtoc: yes
 feature: Getting Started
 exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
 ---
@@ -22,8 +20,8 @@ Now that you've learned the key product areas to set up for a new Marketo Engage
 <tbody>
   <tr>
     <td>List Import</td>
-    <td><li>Gather a list of data sources that records will be pulled from to <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people" target="_blank">import into Marketo Engage</a>.</li>
-    <li>If you are importing from multiple data sources, consider using Master Lists or <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">creating a Custom Field</a> on the person record to denote the data source.</li></td>
+    <td><li>Gather a list of data sources that records will be pulled from to <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">import into Marketo Engage</a>.</li>
+    <li>If you are importing from multiple data sources, consider using Master Lists or <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">creating a custom field</a> on the person record to denote the data source.</li></td>
   </tr>
   <tr>
     <td>Database Integration</td>
@@ -44,7 +42,7 @@ Now that you've learned the key product areas to set up for a new Marketo Engage
 <tbody>
   <tr>
     <td>Users</td>
-    <td><li>Document the <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">current users</a> in your instance for safety reasons. The following details should be included at a minimum (and are all visible by going to Adobe Admin Console > Users):</li>
+    <td><li>Document the <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">current users</a> in your instance for safety reasons. The following details should be included at a minimum (and are all visible by going to Admin > Users & Roles):</li>
     <ul>
     <li>Name</li>
     <li>Email</li>
@@ -59,7 +57,7 @@ Now that you've learned the key product areas to set up for a new Marketo Engage
   </tr>
   <tr>
     <td>Organization</td>
-    <td><li>Document the agreed folder structure, standard naming conventions for programs, assets, etc, and the why behind the decisions made. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Learn more about the best practices here.</a></li></td>
+    <td><li>Document the agreed folder structure, standard naming conventions for programs, assets, etc., and the why behind the decisions made. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Learn more about the best practices here.</a></li></td>
   </tr>
   <tr>
     <td>Changelog</td>
@@ -71,8 +69,14 @@ Now that you've learned the key product areas to set up for a new Marketo Engage
   </tr>
   <tr>
     <td>Conversations with internal teams</td>
-    <td><li>Start to align the internal marketing team's expectations of Marketo Engage with Marketo Engage's capabilities.</li>
+    <td><li>Align the internal marketing team's expectations of Marketo Engage with Marketo Engage's capabilities.</li>
     <li>Identify the teams that will be your stakeholders in the Marketo Engage instance and document their goals to achieve using Marketo Engage as a technology.</li></td>
+  </tr>
+  <tr>
+    <td>Workspaces & Partitions (if applicable)</td>
+    <td><li>Document how workspaces are defined, and how that relates to database partitions (e.g., a Global workspace that shows everyone vs. business sectors).</li>
+    <li>Import new records to the appropriate partition.</li>
+    <li>Define the value in your CRM that places users in the appropriate partition.</li></td>
   </tr>
 </tbody>
 </table>

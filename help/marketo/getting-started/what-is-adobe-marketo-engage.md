@@ -7,7 +7,7 @@ feature: Getting Started
 ---
 # What is Adobe Marketo Engage? {#what-is-adobe-marketo-engage}
 
-Adobe Marketo Engage (sometimes referred to as Marketo Engage, or even just Marketo), is marketing automation software. Marketing automation enables you to streamline, automate, and measure marketing tasks and workflows so you can increase operational efficiency and grow revenue faster.
+Adobe Marketo Engage is marketing automation software. Marketing automation enables you to streamline, automate, and measure marketing tasks and workflows so you can increase operational efficiency and grow revenue faster.
 
 ## What can I do in Marketo Engage? {#what-can-i-do-in-marketo-engage}
 
@@ -20,7 +20,9 @@ Marketo Engage has a ton of great features to help you achieve your marketing go
 * Mail blast tools
 * Segmentation
 * Predictive Content
-* Webinar Integration
+* Dynamic Chat
+* Native Interactive Webinars
+* Third-party webinar Integration
 * Mobile Marketing
 * Sync with your CRM (Salesforce or Dynamics)
 * Website Integration
@@ -34,11 +36,11 @@ Marketo Engage has a ton of great features to help you achieve your marketing go
 
 ## Do I need to learn all of that? {#do-i-need-to-learn-all-of-that}
 
-You do not! It's easy to get started in Marketo Engage, and it will evolve with you. You can learn everything if you'd like, or just use the pieces that suit your needs.
+You do not. It's easy to get started in Marketo Engage, and it will evolve with you. You can learn everything if you'd like, or just use the pieces that suit your needs.
 
 ## Do I need to do any setup? {#do-i-need-to-do-any-setup}
 
-Yes, we made a [checklist of stuff to do](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}.  
+Yes, there are a handful of steps you must (or we strongly recommend you) do, and [they can be found here](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.  
 
 ## Do I have to wait until setup is finished to learn? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
@@ -50,8 +52,8 @@ There is. Static limits (and other parameters) are outlined [in this article](ht
 
 ## How long does Marketo hold on to my data? {#data-retention-policy}
 
-Please review [this Nation post](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-under-the-hood/ta-p/251191){target="_blank"} for details.
+Please review [this Marketing Nation blog post](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-overview-amp-faq/ta-p/250750){target="_blank"} for details.
 
 <br>
 
-Welcome to Marketo Engage! We're happy you're here.
+Welcome to Marketo Engage!
