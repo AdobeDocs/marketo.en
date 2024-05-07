@@ -12,7 +12,11 @@ Promoting an Interactive Webinar is similar to promoting a partner webinar via L
 
 After the members have been added or imported into the program, you can create an email campaign inside the Interactive Webinar Event Program to send an invitation to all the program members, and change their status as "invited" once the email has been delivered.
 
-The email can contain specific details of the program, as well as include a landing page URL that would redirect the recipient to a specific page where more information regarding the webinar (e.g., content, presenter info, etc.) can be added. This landing page can be created as a local asset in the Interactive Webinars Event Program.
+>[!NOTE]
+>
+>If you want to add a co-host or presenter as an audience member to the Interactive Webinar Event Program, you must use a different email ID for them, otherwise they'll receive a "this email is already registered" error.
+
+The email can contain specific details of the program, as well as include a Landing Page URL that would redirect the recipient to a specific page where more information regarding the webinar (e.g., content, presenter info, etc.) can be added. This Landing Page can be created as a local asset in the Interactive Webinars Event Program.
 
 You can solicit registration for this webinar by enabling a form on the Landing Page and linking the form clicks to enabled registration in the Interactive Webinar Event Program. A campaign can then be created that uses form submissions as a trigger and changes the Program Status from "invited" to "registered."
 
