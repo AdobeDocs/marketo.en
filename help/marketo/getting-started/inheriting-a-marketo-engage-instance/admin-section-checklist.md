@@ -35,7 +35,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
    <td>Product Profile</td> 
    <td><li>Are all appropriate users assigned to Marketo Engage's product profile in Adobe Admin Console?
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If not, make sure to <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">add and/or remove users</a> from Marketo Engage product profiles in the Adobe Admin Console. You cannot assign users' roles in Marketo Engage > Admin > Users & Roles if they're added to a Product Profile.</li>
-<p><img src="assets/note-icon.png" alt="note icon"> NOTE: If an undesirable user is added to multiple product profiles, you must remove the user from all product profiles. Otherwise, they'll still have access to Marketo Engage.</td>
+<p><img src="assets/note-icon.png" alt="note icon"> NOTE: If an undesired user is added to multiple product profiles, you must remove the user from all product profiles. Otherwise, they'll still have access to Marketo Engage.</td>
   </tr>
   <tr> 
    <td>User Management API</td> 

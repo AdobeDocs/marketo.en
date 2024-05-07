@@ -6,7 +6,7 @@ exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
 ---
 # User Setup Checklist {#user-setup-checklist}
 
-Now that you've completed all of the [initial setup steps](/help/marketo/getting-started/initial-setup/setup-steps.md), it's time to establish some foundational elements to ensure smooth ongoing usage. This will lay the groundwork for your journey with Marketo Engage and help you make the most of its features. Let's get started! 
+Now that you've completed all of the [initial setup steps](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}, it's time to establish some foundational elements to ensure smooth ongoing usage. This will lay the groundwork for your journey with Marketo Engage and help you make the most of its features. Let's get started! 
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ Your new Marketo Engage subscriptions are onboarded to [Adobe Identity Managemen
     <td>Subscription & Marketo Engage Product Admin</td>
     <td><li>Confirm you've been granted an Adobe Product Admin role by your Adobe Org System Admin.</li>  
     <ul>
-    <li>Contact <a href="https://helpx.adobe.com/contact.html">Adobe Customer Care</a> to find out who at your organization has <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console System Admin</a> privileges.</li></ul>
+    <li>Contact the Adobe Account team (your Account Manager) or send an email to <code>customercare@marketo.com</code> or send an email to customercare@marketo.comto find out who at your organization has <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console System Admin</a> privileges.</li></ul>
     <li>Accept the 'Marketo Engage Product Admin' invite to activate your Adobe ID. The <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">welcome email</a> is sent when the role is assigned in the Adobe Admin Console.</li></td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ Your new Marketo Engage subscriptions are onboarded to [Adobe Identity Managemen
 
 ## Dynamic Chat on Adobe Identity Management Setup {#dynamic-chat-on-adobe-identity-management}
 
-To use [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html), the native conversation automation channel in Marketo Engage, proceed with the user permission setup following the steps below in the [Adobe Admin Console](https://adminconsole.adobe.com/). 
+To use [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html), the native conversation automation channel in Marketo Engage, proceed with the user permission setup following the steps below in the [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}. 
 
 <table>
 <thead>
@@ -73,14 +73,15 @@ To use [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/prod
 <tbody>
   <tr>
     <td>Subscription & Dynamic Chat Product Admin (if applicable)</td>
-    <td><li>Confirm you've been granted an Adobe Product Admin role by your Adobe Org System Admin. Contact <a href="https://helpx.adobe.com/contact.html">Adobe Customer Care</a> to find out who at your organization has admin privileges in the console.</li>
+    <td><li>Confirm you've been granted an Adobe Product Admin role by your Adobe Org System Admin.</li> 
+    <ul><li>Contact the Adobe Account team (your Account Manager) or send an email to <code>customercare@marketo.com</code> to find out who at your organization has <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console System Admin</a> privileges.</li></ul>
     <li>Accept the <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">'Dynamic Chat Product Admin'</a> invite. The <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">welcome email</a> is sent when Dynamic Chat is enabled in your Marketo Engage instance and you are designated as a System Admin.</li></td>
   </tr>
   <tr>
     <td>Product Profiles</td>
     <td><li>Assign all desired users to Dynamic Chat's Product Profile in Adobe Admin Console.</li> 
     <ul>
-    <li>If an undesirable user is added to multiple Product Profiles, you must delete the user from all product profiles. Otherwise, they will still have access to Dynamic Chat.</li>
+    <li>If an undesired user is added to multiple Product Profiles, you must delete the user from all product profiles. Otherwise, they will still have access to Dynamic Chat.</li>
     <li>You can <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">edit Product Profiles in Dynamic Chat</a> and create a custom profile with a custom set of <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions">permissions available within your subscription</a>.</li></td>
   </tr>
   <tr>
@@ -115,4 +116,4 @@ To use [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/prod
 
 <p>
 
-Now that your Marketo Engage account is ready to go, please review our [Best Practices for a New Marketo Engage Instance](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md) section to get the most out of your investment and set yourself up for long term success.
+Now that your Marketo Engage account is ready to go, please review our [Best Practices for a New Marketo Engage Instance](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"} section to get the most out of your investment and set yourself up for long term success.
