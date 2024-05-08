@@ -4,9 +4,9 @@ title: Current Release Notes
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 ---
-# Release Notes: April 2024 {#release-notes-apr-24}
+# Release Notes: June 2024 {#release-notes-june-24}
 
-Below you'll find all the features included in the April '24 release. Check your Adobe Marketo Engage edition for feature availability.
+Below you'll find all the features included in the June '24 release. Check your Adobe Marketo Engage edition for feature availability.
 
 The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -16,7 +16,7 @@ The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/
 
 ## Standard Release Cycle Features {#standard-release-cycle-features}
 
-The following features fall under the standard release cycle and will start to be released on **April 26, 2024**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
+The following features fall under the standard release cycle and will start to be released on **June 7, 2024**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -26,42 +26,9 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documention</th>
   </tr>
      <tr> 
-   <td><strong>Interactive Webinars Enhancements</strong>: You can now provide hosts and presenters with the ability to add a webinar title, rename a room, and manually sync engagement data after the event delivery.</td> 
-   <td>Shipped</td>
-   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">Create an Interactive Webinar</a></li>
-   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">Manual Sync</a></li></td>
-  </tr>
-  <tr> 
-   <td>&nbsp;</td> 
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-    <tr> 
-   <td><strong>Audit Trail Enhancements</strong>: 
-   New types of actions can now be captured in Audit Trail for changes made in Field Management, changes made to Users and Roles, and the count of people exported from lists and Smart Lists.</td> 
+   <td><strong>Inferred Fields in Forms</strong>: The data source used to populate inferred fields when a person is created via form-fill with no prior web activity has been updated to use the same data source as other person-collection methods. Inferred field data is now consistent across all collection points.</td> 
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
-  </tr>
-  <tr> 
-   <td>&nbsp;</td> 
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-    <tr> 
-   <td><strong>New Users & Roles Permissions</strong>: New permissions are available, providing users with more granular access to Marketo Engage. Control parts of Admin not previously gated such as New Experience and Predictive Audiences, split permissions to grant access to Asset Audit Trail and Admin Audit Trail separately, and utilize new create and move permissions for assets and folders to prevent read-only users from making changes. 
-   <p>While the new permissions will appear in your Marketo Engage instance as of April 26, they are passive for now and will become accessible later this quarter.
-   <li>Access Adobe Experience Manager</li>
-   <li>Access Adobe Organization Mapping</li>
-   <li>Access Admin Audit Trail</li>
-   <li>Access Asset Audit Trail</li>
-   <li>Access New Experience</li>
-   <li>Access Predictive Audiences</li>
-   <li>Create Report</li>
-   <li>Create List</li>
-   <li>Export Campaign Activity</li>
-   </td> 
-   <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Descriptions of Role Permissions</a></td>
   </tr>
  </tbody> 
 </table>
@@ -69,67 +36,4 @@ The following features fall under the standard release cycle and will start to b
 
 ## Announcements {#announcements}
 
-* **Activities API Update**: On April 26, we're adding several new attributes to web-based and email-based activities that are returned when you retrieve activities using the [Marketo REST API](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activities/getAllActivityTypesUsingGET){target="_blank"} endpoint to review attribute details for each activity.
-
-**Web-based Activities**
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:30%">Activity</th> 
-   <th style="width:70%">Newly Added Attributes</th>
-   </tr>
-  <tr> 
-   <td>Visit Webpage</td> 
-   <td>Browser, Platform, Device</td>
-  </tr>
-   <tr> 
-   <td>Fill Out Form</td> 
-   <td>Browser, Platform, Device</td>
-  </tr>
-  <tr> 
-   <td>Click Link</td> 
-   <td>Browser, Platform, Device</td>
-  </tr>
- </tbody> 
-</table>
-
-**Email-based Activities**
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:30%">Activity</th> 
-   <th style="width:70%">Newly Added Attributes</th>
-  </tr>
-   <tr> 
-   <td>Send Email</td> 
-   <td>Browser, Platform, Device, User Agent</td>
-  </tr>
-   </tr>
-  <tr> 
-   <td>Email Delivered</td> 
-   <td>Browser, Platform, Device, User Agent</td>
-  </tr>
-   <tr> 
-   <td>Email Bounced</td> 
-   <td>Browser, Platform, Device, User Agent</td>
-  </tr>
-  <tr> 
-   <td>Unsubscribe Email</td> 
-   <td>Browser, Platform, Device</td>
-  </tr>
-  <tr> 
-   <td>Open Email</td> 
-   <td>Browser</td>
-  </tr>
-   <tr> 
-   <td>Click Email</td> 
-   <td>Browser</td>
-  </tr>
-  <tr> 
-   <td>Email Bounced Soft</td> 
-   <td>Browser, Platform, Device, User Agent</td>
-  </tr>
- </tbody> 
-</table>
+* **LinkedIn Re-authentication Required**: LinkedIn is upgrading their Marketing APIs used by Marketo Engage LinkedIn integrations. These changes will require re-authentication of all LinkedIn LaunchPoint services in your **Admin** > **LaunchPoint** menu between June 7 and December 15, 2024, to avoid service interruption. You can find instructions on how to accomplish this [here for Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} and [here for Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Lead Gen Form service has a type of "LinkedIn Lead Gen" and Matched Audience service has type of "LinkedIn Matched Audiences." For more information, please see the [Migration FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.

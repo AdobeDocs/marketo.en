@@ -9,6 +9,10 @@ feature: Social
 
 Use LinkedIn Lead Gen Forms to run ad campaigns in LinkedIn and generate leads for Marketo.
 
+>[!IMPORTANT]
+>
+>LinkedIn is upgrading their Marketing APIs used by Marketo Engage LinkedIn integrations. These changes will require re-authentication of all LinkedIn LaunchPoint services in your **Admin** > **LaunchPoint** menu between June 7 and December 15, 2024, to avoid service interruption. For more information, please see the [Migration FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+
 >[!NOTE]
 >
 >**Admin Permissions Required**
