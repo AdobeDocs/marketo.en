@@ -7,7 +7,7 @@ feature: Deliverability
 ---
 # Durable Unsubscribe {#durable-unsubscribe}
 
-Marketo has enhanced the behavior of the unsubscribe functionality to make it “durable." We've added a master email status, which is separate from the unsubscribe flag visible on the person detail record.
+Marketo has enhanced the behavior of the unsubscribe functionality to make it "durable." We've added a master email status, which is separate from the unsubscribe flag visible on the person detail record.
 
 If the unsubscribe flag is set from false to true, the master email status is updated, and the change is propagated to other people with the same email address. If a person is removed and recreated, or if a new record is created with the same email address, the unsubscribe flag will **not** be overwritten.
 
@@ -46,10 +46,6 @@ If you change an unsubscribed email address to one that is subscribed, that pers
 ## Re-subscribing {#re-subscribing}
 
 Just as an unsubscribe would cause all people with the same email address to become unsubscribed, a resubscribe would in fact resubscribe every person with the same email address.
-
-## Activity Log {#activity-log}
-
-Data Value Change definitions for _updateLeadEmailStatus_ and _resetLeadEmailStatus_ can be found in [this Community article](https://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
 
 >[!MORELIKETHIS]
 >
