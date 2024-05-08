@@ -7,7 +7,7 @@ feature: Reporting
 ---
 # Report Email, Campaign Performance Across Workspaces {#report-email-campaign-performance-across-workspaces}
 
-Turn on Global Reporting to include data from all your Marketo [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in your [Email Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Email Link performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md), and [Campaign Activity](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) reports.
+Turn on Global Reporting to include data from all your Marketo [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in your [Email Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) and [Email Link performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) reports.
 
 1. Go to **Analytics** (or **Marketing Activities**) area.
 

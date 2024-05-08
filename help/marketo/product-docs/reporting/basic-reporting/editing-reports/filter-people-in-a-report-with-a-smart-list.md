@@ -17,7 +17,6 @@ You can use smart lists with these report types:
 * [Email Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [Email Link Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [Engagement Stream Performance](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
-* [Campaign Activity](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
 * [Campaign Email Performance](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
 * [Company Web Activity](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Web Page Activity](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)

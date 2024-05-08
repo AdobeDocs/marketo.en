@@ -123,11 +123,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   <tr> 
    <td colspan="1"><strong>Campaign</strong></td> 
    <td colspan="1">"Campaign" could mean a few things in Marketo. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">campaign</a> is a shorter term for smart campaign. In <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">campaigns</a> are a series of multi-channel correspondence steps. In <strong>Web Personalization</strong>, web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">campaigns</a> are customized reactions associated with a specific segment.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md" rel="nofollow">Campaign Activity Report</a></strong></td> 
-   <td colspan="1">Report type that shows how <strong>smart campaigns</strong> are performing.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">Campaign Email Performance Report</a></strong></td> 
    <td colspan="1">Report type that shows email performance metrics grouped by <strong>smart campaign</strong>.</td> 

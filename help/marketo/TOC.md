@@ -1730,6 +1730,7 @@ feature-set: Marketo Engage
         + [Subscribe to a Basic Report](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
         + [Subscribe to a Smart List](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
       + Report Types {#report-types}
+        + [Campaign Activity Report](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
         + [Campaign Email Performance Report](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
         + [Company Web Activity Report](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
         + [People by Status Report](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
