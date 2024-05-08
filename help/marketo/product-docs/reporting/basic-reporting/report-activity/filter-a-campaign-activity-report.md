@@ -15,15 +15,15 @@ Focus your [Campaign Activity Report](/help/marketo/product-docs/reporting/basic
 
 1. Go to **Marketing Activities** (or **Analytics**) and select your campaign activity report.
 
-   ![](assets/image2014-9-16-16-3a13-3a56.png)
+   ![](assets/filter-a-campaign-activity-report-1.png)
 
 1. Click the **Setup** tab and double-click **Campaigns**.
 
-   ![](assets/image2014-9-16-16-3a14-3a1.png)
+   ![](assets/filter-a-campaign-activity-report-2.png)
 
 1. Choose the folders and specific smart campaigns to include in your report. Click **Apply**.
 
-   ![](assets/image2014-9-16-16-3a14-3a11.png)
+   ![](assets/filter-a-campaign-activity-report-3.png)
 
    >[!TIP]
    >
@@ -31,7 +31,7 @@ Focus your [Campaign Activity Report](/help/marketo/product-docs/reporting/basic
 
 1. You're done! Click the **Report** tab to see _just_ the selected smart campaigns in your report.
 
-   ![](assets/image2014-9-16-16-3a14-3a32.png)
+   ![](assets/filter-a-campaign-activity-report-4.png)
 
 >[!MORELIKETHIS]
 >
