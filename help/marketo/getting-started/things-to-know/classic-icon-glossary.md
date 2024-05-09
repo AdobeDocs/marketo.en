@@ -2,6 +2,8 @@
 description: Classic Icon Glossary - Marketo Docs - Product Documentation
 title: Classic Icon Glossary
 feature: Getting Started
+hide: yes
+hidefromtoc: yes
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
 ---
 # Classic Icon Glossary {#classic-icon-glossary}

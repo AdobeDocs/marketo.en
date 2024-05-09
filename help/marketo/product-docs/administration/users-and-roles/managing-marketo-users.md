@@ -7,6 +7,10 @@ feature: Users and Roles
 ---
 # Managing Marketo Users {#managing-marketo-users}
 
+>[!IMPORTANT]
+>
+>This article is only for those who do _not_ use [Marketo with Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If you do, please follow the steps in [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} instead.
+
 ## Create Users {#create-users}
 
 1. Go to the **[!UICONTROL Admin]** area.
@@ -65,7 +69,7 @@ The new user is now listed in the Users tab and will receive an email with instr
 
 >[!NOTE]
 >
->If the user you want to delete is also a Dynamic Chat user, you must [remove them from Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user) in the Admin Console before you can delete them in Marketo Engage.
+>If the user you want to delete is also a Dynamic Chat user, you must [remove them from Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"} in the Admin Console before you can delete them in Marketo Engage.
 
 1. Go to the **[!UICONTROL Admin]** area.
 
