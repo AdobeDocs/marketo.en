@@ -4,6 +4,7 @@ title: Question Generation
 hide: yes
 hidefromtoc: yes
 feature: Dynamic Chat
+exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
 ---
 # Question Generation {#question-generation}
 
