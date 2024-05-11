@@ -11,24 +11,24 @@ Generative AI in Adobe Dynamic Chat allows you to speed up campaign creation for
 
 ## Question generation {#question-generation}
 
-Elevate inbound experiences with AI-assisted conversations for visitors using an interface trained with sales, marketing, and product knowledge.
+[Elevate inbound experiences](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) with AI-assisted conversations for visitors using an interface trained with sales, marketing, and product knowledge.
 
-SCREENSHOT
+   ![](assets/generative-ai-overview-1.png)
 
 ## Response library {#response-library}
 
-Produce a customized collection of questions and answers, all pre-approved by you, for use inside Generative AI chat campaigns.
+[Produce a customized collection](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) of questions and answers, all pre-approved by you, for use inside Generative AI chat campaigns.
 
-SCREENSHOT
+   ![](assets/generative-ai-overview-2.png)
 
 ## Activity log {#activity-log}
 
-See a list of all tasks and their accompanying details, including name, owner, type, and who edited them and when.
+[See a list of all tasks](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) and their accompanying details, including name, owner, type, and who edited them and when.
 
-SCREENSHOT
+   ![](assets/generative-ai-overview-3.png)
 
 ## Unanswered questions {#unanswered-questions}
 
-Create additional pre-approved responses for your response library using AI based on a repository of unanswered questions from previous conversations.
+[Create additional pre-approved responses](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) for your response library using AI based on a repository of unanswered questions from previous conversations.
 
-SCREENSHOT
+   ![](assets/generative-ai-overview-4.png)
