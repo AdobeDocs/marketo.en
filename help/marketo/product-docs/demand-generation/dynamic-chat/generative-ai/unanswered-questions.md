@@ -7,7 +7,7 @@ feature: Dynamic Chat
 ---
 # Unanswered Questions {#unanswered-questions}
 
-See all questions the chatbot couldn't answer or the ones visitors marked as "not helpful" and use this valuable information to create additional pre-approved responses.
+See all questions the chatbot couldn't answer and/or the ones visitors marked as "not helpful" and use this valuable information to create additional pre-approved responses.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ See all questions the chatbot couldn't answer or the ones visitors marked as "no
 
    ![](assets/unanswered-questions-2.png)
 
-1. Select the unanswered question you want to generate a response for.
+1. Select the unanswered question you want to create a response for.
 
    ![](assets/unanswered-questions-3.png)
 
@@ -29,6 +29,6 @@ See all questions the chatbot couldn't answer or the ones visitors marked as "no
 
    ![](assets/unanswered-questions-4.png)
 
-1. The unanswered question is now answered and is automattically added to your Response library.
+1. The unanswered question is now answered and is automatically added to your Response library.
 
    ![](assets/unanswered-questions-5.png)

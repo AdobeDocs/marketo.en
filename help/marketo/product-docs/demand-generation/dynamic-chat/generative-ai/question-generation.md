@@ -7,7 +7,7 @@ feature: Dynamic Chat
 ---
 # Question Generation {#question-generation}
 
-See all of your tasks and their pertient details, such as when they were generated, the total number of questions, approval status, and more.
+See all of your tasks and their pertinent details, such as when they were generated, the total number of questions, approval status, and more.
 
 ## Generate Questions {#generate-questions}
 
@@ -31,9 +31,9 @@ See all of your tasks and their pertient details, such as when they were generat
 
    ![](assets/question-generation-4.png)
 
->[!TIP]
->
->The status on the page does not update in real time. Hit refresh to see when it goes from "Processing" to "Complete."
+   >[!TIP]
+   >
+   >The status on the page does not update in real time. Hit refresh to see when it goes from "Processing" to "Complete."
 
    ![](assets/question-generation-5.png)
 
@@ -47,7 +47,7 @@ See all of your tasks and their pertient details, such as when they were generat
 
    ![](assets/question-generation-6.png)
 
-1. Locate the downloads folder in your browser and select the file. This may look different depending on your browser.
+1. Locate the downloads folder in your browser and select the file. This may look different depending on the browser you use.
 
    ![](assets/question-generation-7.png)
 
