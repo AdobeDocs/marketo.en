@@ -8,7 +8,7 @@ exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
 ---
 # Send a List to Google {#send-a-list-to-google}
 
-Follow the steps below to send a static list to your Google account.
+For those who use Google Customer Match, follow the steps below to send a Marketo Engage static list to your Google account.
 
 1. In Marketo Engage, find and select the desired list.
 
@@ -34,7 +34,7 @@ Follow the steps below to send a static list to your Google account.
    >
    >* Selecting **Keep audience membership in sync** keeps the list up-to-date as it changes in your instance. We add/remove people from the audience when they're added to/removed from the static list.
    >
-   >* Selecting the checkbox at the bottom sends the consent status as GRANTED for user data sent to Google Ads for advertising and ad personalization purposes. Leaving it unchecked sends the consent status as UNSPECIFIED.
+   >* Selecting the checkbox at the bottom sends the consent status as GRANTED for user data sent to Google Ads for advertising and ad personalization purposes. Leaving it unchecked sends the consent status as UNSPECIFIED. For those who plan to upload data for users in the European Economic Area (EEA), Google has put together a list of [FAQs](https://support.google.com/google-ads/answer/14310715), as well as additional details outlining the [EU user consent policy](https://www.google.com/about/company/user-consent-policy/).
 
 1. Click **Update**.
 
