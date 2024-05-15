@@ -10,11 +10,11 @@ exl-id: cddeccc3-3093-48b4-9b8a-13269b5b51e5
 
 See a list of all tasks and their accompanying details, including name, owner, type, and who edited them and when.
 
-1. Under Generative AI, click **Assisted responses**.
+1. Under Generative AI, click **[!UICONTROL Assisted responses]**.
 
    ![](assets/activity-log-1.png)
 
-1. Click the **Activity log** tab.
+1. Click the **[!UICONTROL Activity log]** tab.
 
    ![](assets/activity-log-2.png)
 

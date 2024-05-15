@@ -12,13 +12,13 @@ See all questions the chatbot couldn't answer and/or the ones visitors marked as
 
 >[!NOTE]
 >
->The list of unanswered questions automatically refreshes every 24 hours.
+>The list of unanswered questions automatically refreshes every 24 hours, at midnight PST.
 
-1. Under Generative AI, click **Assisted responses**.
+1. Under Generative AI, click **[!UICONTROL Assisted responses]**.
 
    ![](assets/unanswered-questions-1.png)
 
-1. Click the **Unanswered questions** tab.
+1. Click the **[!UICONTROL Unanswered questions]** tab.
 
    ![](assets/unanswered-questions-2.png)
 
@@ -26,7 +26,7 @@ See all questions the chatbot couldn't answer and/or the ones visitors marked as
 
    ![](assets/unanswered-questions-3.png)
 
-1. Input your response. Assign a topic and add an optional URL that users can share with visitors. Click **Save** when done.
+1. Input your response. Assign a topic and add an optional URL that users can share with visitors. Click **[!UICONTROL Save]** when done.
 
    ![](assets/unanswered-questions-4.png)
 

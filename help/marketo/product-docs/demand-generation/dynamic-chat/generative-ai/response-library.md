@@ -12,27 +12,27 @@ In one place, view all your questions, their approval status, and the task name/
 
 ## Manually Add a Question {#manually-add-a-question}
 
-1. Under Generative AI, click **Assisted responses**.
+1. Under Generative AI, click **[!UICONTROL Assisted responses]**.
 
    ![](assets/response-library-1.png)
 
-1. Click the **Response library** tab.
+1. Click the **[!UICONTROL Response library]** tab.
 
    ![](assets/response-library-2.png)
 
-1. Click **Add question**.
+1. Click **[!UICONTROL Add question]**.
 
    ![](assets/response-library-3.png)
 
-1. Input your question and response. Assign a topic and add an optional URL that users can share with visitors. Click **Save** when done.
+1. Input your question and response. Assign a topic and add an optional URL that users can share with visitors. Click **[!UICONTROL Save]** when done.
 
    ![](assets/response-library-4.png)
 
-1. Click refresh and your new question appears at the top with the status of "Processing." 
+1. Click refresh and your new question appears at the top with the status of "[!UICONTROL Processing]." 
 
    ![](assets/response-library-5.png)
 
-1. After a few minutes click again and the status changes to "Approved."
+1. After a few minutes, refresh again and the status changes to "Approved."
 
    ![](assets/response-library-6.png)
 
@@ -40,13 +40,13 @@ In one place, view all your questions, their approval status, and the task name/
 
 >[!NOTE]
 >
->All generated questions and responses are assigned the "need review" status by default. Only "approved" questions and responses are made available to chat visitors.
+>All generated questions and responses are assigned the "[!UICONTROL need review]" status by default. Only "[!UICONTROL approved]" questions and responses are made available to chat visitors.
 
-1. In the **Response library**, click the desired question.
+1. In the **[!UICONTROL Response library]**, click the desired question.
 
    ![](assets/response-library-7.png)
 
-1. Make your desired edits and click **Save**.
+1. Make your edits and click **[!UICONTROL Save]**.
 
    ![](assets/response-library-8.png)
 
@@ -72,7 +72,7 @@ Instructions on how to make bulk edits in the downloaded Excel file are below. T
   </tr>
   <tr>
     <td>Add a new question</td>
-    <td>Enter the new question in column "editedQuestion" (column H) and leave questionResponseld blank. You must also enter an appropriate topic in column "topics"(column C) and a source URL in column "sourceUr!"</td>
+    <td>Enter the new question in column "editedQuestion" (column H) and leave questionResponseld blank. You must also enter an appropriate topic in column "topics" (column C) and a source URL in column "sourceUr!"</td>
   </tr>
   <tr>
     <td>Add a question and answer</td>
@@ -81,11 +81,11 @@ Instructions on how to make bulk edits in the downloaded Excel file are below. T
 </tbody>
 </table>
 
-1. After you're done making the edits in your file, go back to the Response library tab and click Upload responses.
+1. After you're done making the edits in your file, go back to the **[!UICONTROL Response library]** tab and click **[!UICONTROL Upload responses]**.
 
    ![](assets/response-library-9.png)
 
-1. Enter the applicable task name. Drag and drop your file, or browse for it on your device and select it. Click **Save** when done.
+1. Enter the applicable task name. Drag and drop your file, or browse for it on your device and select it. Click **[!UICONTROL Save]** when done.
 
    ![](assets/response-library-10.png)
 

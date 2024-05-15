@@ -669,12 +669,14 @@ feature-set: Marketo Engage
         + [Create a Dialogue](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md)
         + [Audience Criteria](product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md)
         + [Stream Designer](product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md)
+        + [Stream Designer Temp](product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer-temp.md)
       + Integrations {#integrations}
         + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md)
         + [Adobe PDF Embed API](product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md)
       + Live Chat {#live-chat}
         + [Live Chat Overview](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
         + [Agent Inbox](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
+        + [Agent Inbox Temp](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox-temp.md)
         + [Notifications](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
       + Generative AI {#generative-ai}
         + [Generative AI Overview](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)
