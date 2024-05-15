@@ -4,6 +4,7 @@ title: Stream Designer
 hide: yes
 hidefromtoc: yes
 feature: Dynamic Chat
+exl-id: 77e8c05f-d5c6-494b-b175-70003c5f99e1
 ---
 # Stream Designer {#stream-designer}
 

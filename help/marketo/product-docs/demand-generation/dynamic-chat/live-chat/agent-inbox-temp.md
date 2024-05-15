@@ -4,6 +4,7 @@ title: Agent Inbox
 hide: yes
 hidefromtoc: yes
 feature: Dynamic Chat
+exl-id: bfea2d33-357d-4c85-9521-d8f60c8abfd0
 ---
 # Agent Inbox {#agent-inbox}
 
