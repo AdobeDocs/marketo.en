@@ -10,41 +10,47 @@ exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
 
 Generative AI in Adobe Dynamic Chat processes intent signals, user preferences, and past behavior in real time to generate relevant, personalized messages for chat visitors.
 
+## Permissions {#permissions}
+
+In order to use generative AI, be sure to grant the desired users the appropriate [permissions](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md).
+
+   ![](assets/generative-ai-overview-1.png)
+
 ## Generation Response Card {#generation-response-card}
 
 Create a message for the visitor for when they reach a certain point in the conversation. Set a number of questions they can ask in one go to achieve your desired key performance indicator. Add up to 5 follow-up questions and include a fallback message when there is no response available to a visitor's question.
 
-   ![](assets/generative-ai-overview-1.png
+   ![](assets/generative-ai-overview-2.png)
 
 ## Conversation Summary {#conversation-summary}
 
 Typically to get the full context of a visitor conversation, you must scroll through the entire chat transcript. Conversation Summary generates a summary for you in real-time, and even includes topics the visitor expressed interest in. This is particularly useful to chat agents who need quick context of a conversation when they're switching between chats with multiple visitors.
 
-   ![](assets/generative-ai-overview-2.png
+   ![](assets/generative-ai-overview-3.png)
 
 ## Question generation {#question-generation}
 
 [Elevate inbound experiences](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) with AI-assisted conversations for visitors using an interface trained with sales, marketing, and product knowledge.
 
-   ![](assets/generative-ai-overview-1.png)
+   ![](assets/generative-ai-overview-4.png)
 
 ## Response library {#response-library}
 
 [Produce a customized collection](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) of questions and answers, all pre-approved by you, for use inside Generative AI chat campaigns.
 
-   ![](assets/generative-ai-overview-2.png)
+   ![](assets/generative-ai-overview-5.png)
 
 ## Activity log {#activity-log}
 
 [See a list of all tasks](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) and their accompanying details, including name, owner, type, and who edited them and when.
 
-   ![](assets/generative-ai-overview-3.png)
+   ![](assets/generative-ai-overview-6.png)
 
 ## Unanswered questions {#unanswered-questions}
 
 [Create additional pre-approved responses](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) for your response library using AI based on a repository USE DIFFERENT WORD of unanswered questions from previous conversations.
 
-   ![](assets/generative-ai-overview-4.png)
+   ![](assets/generative-ai-overview-7.png)
 
 >[!IMPORTANT]
 >
@@ -63,12 +69,3 @@ Yes. There is a lifetime limit of 1000 at this time.
 **What languages are available in generative AI?**
 
 Currently, only English is supported in generative AI.
-
-
-
-FOR KG BELOW...
-
-VIDEO - 13:09 - SHORTCUTS
-
-
-
