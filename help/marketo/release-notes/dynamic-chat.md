@@ -10,6 +10,44 @@ Adobe Dynamic Chat releases operate on a continuous delivery model which allows 
 
 The standard Release Notes page for Marketo Engage [can be found here](/help/marketo/release-notes/current.md){target="_blank"}.
 
+## May 2024 Release {#may-release}
+
+**Release date: May 15, 2024**
+
+### Pre-approved Response Library {#pre-approved-response-library}
+
+[Create a marketing-approved library](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} of AI-generated question and answers to help set up generative AI chat in minutes.
+
+![](assets/dynamic-chat-may-2024-release-1.png)
+
+## Unanswered questions {#unanswered-questions}
+
+[Use a repository of unanswered questions](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} from previous conversations to generate new pre-approved responses maintaining a response library with the latest information.
+
+![](assets/dynamic-chat-may-2024-release-2.png)
+
+### Conversation Summaries {#conversation-summaries}
+
+[Give sales agents summarized conversations](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"} including insights on key discussion topics ahead of meetings to cut down prep time and better arm sales agents with the latest information.
+
+![](assets/dynamic-chat-may-2024-release-3.png)
+
+### GenAI Sales Shortcuts {#genai-sales-shortcuts}
+
+[Provide live chat agents with quicker ways](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} to access AI-generated responses, edit existing generated responses and search for additional content to send to buyers during conversation.
+
+![](assets/dynamic-chat-may-2024-release-4.png)
+
+### Conversation Assist {#conversation-assist}
+
+Help sales agents respond accurately during live conversations using responses pre-approved by your marketing team.
+
+### Conversation nudges {#conversation-nudges}
+
+Nudge web visitors with a call-to-action to drive conversations to conclusion.
+
+<p>
+
 ## April 2024 Release {#april-release}
 
 **Release date: April 23, 2024**
