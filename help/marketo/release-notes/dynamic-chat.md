@@ -20,7 +20,7 @@ The standard Release Notes page for Marketo Engage [can be found here](/help/mar
 
 ![](assets/dynamic-chat-may-2024-release-1.png)
 
-## Unanswered questions {#unanswered-questions}
+### Unanswered questions {#unanswered-questions}
 
 [Use a repository of unanswered questions](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} from previous conversations to generate new pre-approved responses maintaining a response library with the latest information.
 
