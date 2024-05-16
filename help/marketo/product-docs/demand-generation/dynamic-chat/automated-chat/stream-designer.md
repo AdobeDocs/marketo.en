@@ -31,11 +31,11 @@ The Stream Designer contains multiple cards you can add to shape the chat conver
   <td>Allows you to embed PDF documents in Dialogues and track document engagement activity of visitors (how many pages were viewed, if the document was downloaded, and/or any search terms that were used).</td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>Information Capture</strong></td>
+  <td style="width:25%"><strong>Information capture</strong></td>
   <td>Use when you want to collect information (e.g., name, email address, job title, etc.). After you choose which field to attribute their response to, you can choose from letting the visitor type in their response, or select options from a picklist that you determine (tip: the latter can help with database cleanliness). You can also choose to overwrite whatever data you currently have listed for them with their response, or, skip the question entirely if you already have a value for them.</td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>Meeting Booking</strong></td>
+  <td style="width:25%"><strong>Meeting booking</strong></td>
   <td>Provides the visitor with a calendar of available dates to schedule a meeting. Choose the calendar availability via round robin, a specific agent, or using custom rules. Click <b>Add Attribute</b> if you want to capture the agent's name or email address and assign it to the chat visitor's person record for future querying (tip: create a <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">custom field</a> to map the agent's info to as to not overwrite a standard Marketo Engage field).</td>
  </tr>
  <tr>
@@ -45,13 +45,22 @@ The Stream Designer contains multiple cards you can add to shape the chat conver
  <tr>
   <td style="width:25%"><strong>Action&#42;</strong></td>
   <td>Similar to hidden fields in a form, with the action card you can populate any lead or company attribute (that has a <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">string data type</a>) with implicit values that you'd like to capture against a lead record. You can add the action card at any point in the conversation and update respective attributes with a value or native tokens that automatically populate the respective value.
-  <p><i>&#42; The Action card requires Dynamic Chat Prime. Please contact the Adobe Account Team (your Account Manager) for details.</i></td>
+  <p><i>&#42; This card requires Dynamic Chat Prime. Please contact the Adobe Account Team (your Account Manager) for details.</i></td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>Live Chat</strong></td>
+  <td style="width:25%"><strong>Live chat</strong></td>
   <td>Use the live chat card when you want visitors to chat with a live agent.
   <li>The live chat card must be the last card in the branch.</li>
   <li>Visitors will be routed to an agent as soon as they reach this card in the stream, so it's recommended to precede this card with a question card asking visitors if they'd like to chat with a live agent.</li></td>
+ </tr>
+ <tr>
+  <td style="width:25%"><strong>Generated responses&#42;</strong></td>
+  <td>Create a message for the visitor for when they reach a certain point in the conversation. Set a number of questions they can ask in one go to achieve your desired key performance indicator.
+  <p><i>&#42; This card requires Dynamic Chat Prime. Please contact the Adobe Account Team (your Account Manager) for details.</i></td>
+ </tr>
+ <tr>
+  <td style="width:25%"><strong>Conditional branching</strong></td>
+  <td>Create branches in your Dialogue flows based on different conditions. Present different content to different people in the same Dialogue based off of lead and company attributes in Marketo Engage.</td>
  </tr>
 </table>
 

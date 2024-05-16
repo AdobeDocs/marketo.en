@@ -4,7 +4,6 @@ title: Agent Inbox
 hide: yes
 hidefromtoc: yes
 feature: Dynamic Chat
-exl-id: bfea2d33-357d-4c85-9521-d8f60c8abfd0
 ---
 # Agent Inbox {#agent-inbox}
 
@@ -77,9 +76,4 @@ At the bottom of the live chat window is an icon that allows you to share your o
 1. The chat visitor will be able to book a meeting.
 
    ![](assets/agent-inbox-10.png)
-
-## Conversation Summary {#conversation-summary}
-
-Conversation Summary generates a quick summary for you in real-time, including topics the visitor has expressed interest in. It is available in the bottom-right of every chat screen.
-
-   ![](assets/agent-inbox-11.png)
+   

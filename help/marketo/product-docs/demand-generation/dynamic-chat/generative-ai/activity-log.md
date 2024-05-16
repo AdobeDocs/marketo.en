@@ -1,8 +1,6 @@
 ---
 description: Activity Log - Marketo Docs - Product Documentation
 title: Activity Log
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 exl-id: cddeccc3-3093-48b4-9b8a-13269b5b51e5
 ---

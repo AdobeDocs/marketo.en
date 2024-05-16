@@ -1,8 +1,6 @@
 ---
 description: Response Library - Marketo Docs - Product Documentation
 title: Response Library
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
 ---

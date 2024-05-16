@@ -1,8 +1,6 @@
 ---
 description: Question Generation - Marketo Docs - Product Documentation
 title: Question Generation
-hide: yes
-hidefromtoc: yes
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
 ---
@@ -66,16 +64,51 @@ See all of your tasks and their pertinent details, such as when they were genera
 
 ## IP Addresses to Allowlist {#ip-addresses-to-allowlist}
 
-In order to enable extraction of content from your web URLs during the generation of questions and responses, please make sure all the IP addresses below have been allowlisted by your web team.
+In order to enable extraction of content from your web URLs during the generation of questions and responses, please locate your region below and make sure all the IP addresses associated with it are allowlisted by your web team.
 
-<table width=150>
+<table width=450>
+<thead>
   <tr>
-    <td>20.167.0.149</td>
+    <th>North America</th>
+    <th>Europe</th>
+    <th>APAC</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>20.10.235.188</td>
+    <td>20.76.246.248</td>
+    <td>20.167.0.195</td>
   </tr>
   <tr>
-    <td>20.248.129.111</td>
+    <td>20.10.235.189</td>
+    <td>20.76.247.92</td>
+    <td>20.248.128.31</td>
   </tr>
   <tr>
-    <td>20.167.0.146</td>
+    <td>20.10.235.246</td>
+    <td>20.76.247.134</td>
+    <td>20.167.1.48</td>
   </tr>
+  <tr>
+    <td>20.10.235.248</td>
+    <td>20.76.247.244</td>
+    <td>20.167.1.63</td>
+  </tr>
+  <tr>
+    <td>20.10.235.255</td>
+    <td>20.93.168.10</td>
+    <td>20.167.1.92</td>
+  </tr>
+  <tr>
+    <td>20.10.236.96</td>
+    <td>20.93.168.44</td>
+    <td>20.167.1.155</td>
+  </tr>
+  <tr>
+    <td>20.119.144.14</td>
+    <td>20.105.224.16</td>
+    <td>20.211.64.11</td>
+  </tr>
+</tbody>
 </table>
