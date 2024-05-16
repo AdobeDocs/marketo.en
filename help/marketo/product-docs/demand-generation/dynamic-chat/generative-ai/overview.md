@@ -52,7 +52,7 @@ Typically to get the full context of a visitor conversation, you must scroll thr
 
 ## Unanswered questions {#unanswered-questions}
 
-[Create additional pre-approved responses](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) for your response library using AI based on a repository USE DIFFERENT WORD of unanswered questions from previous conversations.
+[Create additional pre-approved responses](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) for your response library using AI based on a repository of unanswered questions from previous conversations.
 
    ![](assets/generative-ai-overview-8.png)
 
