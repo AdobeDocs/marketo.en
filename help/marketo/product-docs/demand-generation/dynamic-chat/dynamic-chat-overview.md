@@ -50,9 +50,13 @@ Offer your qualified web visitors to connect with your sales representatives via
 
 [Design a conversation](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} that can be triggered by a visitor based on an action you designate (e.g., filling out a form, clicking a link, etc.).
 
+## Generative AI {#generative-ai}
+
+[Generative AI](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} in Adobe Dynamic Chat processes intent signals, user preferences, and past behavior in real time to generate relevant, personalized messages for chat visitors.
+
 ## Changing the Language {#changing-the-language}
 
-Follow these steps to change your Dynamic Chat language.
+Follow the steps below to change your Dynamic Chat language.
 
 >[!IMPORTANT]
 >
