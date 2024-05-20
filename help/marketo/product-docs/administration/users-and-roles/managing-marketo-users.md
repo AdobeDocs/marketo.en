@@ -9,7 +9,7 @@ feature: Users and Roles
 
 >[!IMPORTANT]
 >
->This article is only for those who do _not_ use [Marketo with Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If you do, please follow the steps in [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} instead.
+>This article is only for those who do _not_ use [Marketo with Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If you do, please follow the steps in [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
 
 ## Create Users {#create-users}
 

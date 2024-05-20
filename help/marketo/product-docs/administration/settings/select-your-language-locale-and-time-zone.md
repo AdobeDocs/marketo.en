@@ -7,7 +7,11 @@ feature: Administration
 ---
 # Select Your Language, Locale and Time Zone {#select-your-language-locale-and-time-zone}
 
-English isn't your first language? Don't worry, we have you covered. Here's how to change your own language, locale, and time zone.
+English not your first language? Don't worry, we have you covered. Here's how to change your Marketo Engage instance's language, locale, and time zone.
+
+>[!IMPORTANT]
+>
+>This article is only for those who do _not_ use [Marketo with Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). If you do, the settings outlined below can be accessed in your [Adobe account profile](https://account.adobe.com/profile).
 
 ## Supported Languages {#supported-languages}
 
