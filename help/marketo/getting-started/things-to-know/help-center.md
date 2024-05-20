@@ -12,29 +12,29 @@ The Help Center in Adobe Marketo Engage serves as a centralized location for get
 
 After you log in to Marketo Engage, click the Help icon.
 
-SCREENSHOT
+   ![](assets/help-center-1.png)
 
 ### Guides {#guides}
 
 Guides serve as quick walkthroughs for popular features.
 
-SCREENSHOT
+   ![](assets/help-center-2.png)
 
 1. Click the desired guide to view it.
 
-SCREENSHOT
+   ![](assets/help-center-3.png)
 
 1. Click **Get Started**.
 
-SCREENSHOT
+   ![](assets/help-center-4.png)
 
 1. Click **Next** to continue.
 
-SCREENSHOT
+   ![](assets/help-center-5.png)
 
 1. Click **Done** to exit the walkthrough.
 
-SCREENSHOT
+   ![](assets/help-center-6.png)
 
    >[!TIP]
    >
@@ -44,7 +44,7 @@ SCREENSHOT
 
 The What's New tab contains the full details of Marketo Engage's latest release.
 
-SCREENSHOT
+   ![](assets/help-center-7.png)
 
    >[!TIP]
    >
@@ -54,4 +54,4 @@ SCREENSHOT
 
 The Resources tab gives you quick and direct access to various ways you can get additional help with your Marketo Engage instance.
 
-SCREENSHOT
+   ![](assets/help-center-8.png)

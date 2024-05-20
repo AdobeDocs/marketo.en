@@ -15,13 +15,14 @@ Marketo Engage has a ton of great features to help you achieve your marketing go
 
 * Form Editor
 * Landing Page Editor
+* Smart Campaigns
+* Dynamic Chat
+* Native Interactive Webinars
 * Guided Landing Page Templates
 * Email Editor
 * Mail blast tools
 * Segmentation
 * Predictive Content
-* Dynamic Chat
-* Native Interactive Webinars
 * Third-party webinar Integration
 * Mobile Marketing
 * Sync with your CRM (Salesforce or Dynamics)
