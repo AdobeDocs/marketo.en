@@ -26,11 +26,6 @@ _Release dates/features are subject to change_
    <th width="250px">Release Date</th>
    <th width="250px">Status</th>
   </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-oct-23.md">October '23</a></td>
-   <td>October 6, 2023</td>
-   <td>Shipped</td>
-  </tr>
   <tr> 
    <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-jan-24.md">January '24</a></td>
    <td>January 12, 2024</td>
@@ -52,8 +47,8 @@ _Release dates/features are subject to change_
    <td>On Schedule</td>
   </tr>
   <tr> 
-   <td>August '24</td>
-   <td>August 9, 2024</td>
+   <td>July '24</td>
+   <td>July 26, 2024</td>
    <td>On Schedule</td>
   </tr>
   <tr> 
