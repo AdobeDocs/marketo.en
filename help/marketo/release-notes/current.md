@@ -26,6 +26,17 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documention</th>
   </tr>
      <tr> 
+   <td><strong>Templates for Interactive Webinars</strong>: Marketers now have the ability to create custom templates for room layouts in Interactive Webinars.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  </tr>
+     <tr> 
    <td><strong>Inferred Fields in Forms</strong>: The data source used to populate inferred fields when a person is created via form-fill with no prior web activity has been updated to use the same data source as other person-collection methods. Inferred field data is now consistent across all collection points.</td> 
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
