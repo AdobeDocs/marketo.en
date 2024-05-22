@@ -17,7 +17,7 @@ SCREENSHOT
 
 ## Set up your profile {#set-up-your-profile}
 
-When logged in to the Marketing Nation, click your default avatar icon and select My settings to update your preferences, change your avatar photo, control tagging, and more.
+When logged in to the Marketing Nation, click your default avatar icon and select **[!UICONTROL My settings]** to update your preferences, change your avatar photo, control tagging, and more.
 
 SCREENSHOT
 
@@ -39,7 +39,7 @@ SCREENSHOT
 
 ## Read blog posts {#read-blog-posts}
 
-This section is full of helpful information from both Marketo Engage Users (including several Champions) and Marketo employees. Leave comments at the bottom when you need additional information.
+This section is full of helpful information from both Marketo Engage users (including several Champions) and Marketo employees. Leave comments at the bottom when you need additional information.
 
 SCREENSHOT
 
@@ -51,7 +51,7 @@ SCREENSHOT
 
 ## Marketo User Groups {#marketo-user-groups}
 
-Marketo User Groups (MUGs) are meetups that occur in different areas around the world. They provide you with the opportunity to network, discuss latest trends, learn about new features, and more. Check to see if there's one in your area. If there isn't, join a virtual user group!
+Marketo User Groups (MUGs) are meetups that occur in different areas around the world. They provide you with the opportunity to network, discuss latest trends, learn about new features, and more. Check to see if there's one in your area. If there isn't, you can join a virtual user group!
 
 SCREENSHOT
 
@@ -79,6 +79,6 @@ In your request, please specify the following details:
 
 Our Community team will merge your Community profiles in 4-6 business days. Once it's completed, you'll see your engagement history in the main Community profile upon login. If you don't, please log out of your account and log back in again to confirm.
 
-<p>
+<br>
 
 Welcome to Marketo Engage, and enjoy the Marketing Nation!
