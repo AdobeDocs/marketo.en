@@ -30,15 +30,19 @@ Learn about the following A/B tests:
 
 ## Dashboards {#dashboards}
 
->[!TIP]
+>[!CAUTION]
 >
->Some prefer using email programs over sending an email via a smart campaign because of the program's detailed reporting dashboard.
+>For the sake of accurate reporting, please avoid reusing an email previously used in an email program via a Smart Campaign, or by moving the asset from the launched email program to a new one. Doing so will add to the reporting numbers in the original email program dashboard. If you need to reuse the same email, [clone it](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} instead.
 
 Enjoy the fruits of your labor. Dashboards show you email program and A/B test performance at a glance.
 
 ![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
+
+>[!TIP]
+>
+>Some prefer using email programs over sending an email via a Smart Campaign because of the program's detailed reporting dashboard.
 
 ## Nesting {#nesting}
 

@@ -9,6 +9,10 @@ feature: Email Programs
 
 Check out how your email program (with or without an A/B test) is performing with this dashboard.
 
+>[!CAUTION]
+>
+>For the sake of accurate reporting, please avoid reusing an email previously used in an email program via a Smart Campaign, or by moving the asset from the launched email program to a new one. Doing so will add to the reporting numbers in the original email program dashboard. If you need to reuse the same email, [clone it](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} instead.
+
 ## Select your Email Program {#select-your-email-program}
 
 1. Go to **Marketing Activities**.
