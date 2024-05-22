@@ -7,33 +7,59 @@ feature: Getting Started
 ---
 # Marketo Engage Community {#marketo-engage-community}
 
-The [Marketing Nation Community](https://nation.marketo.com/){target="_blank"} is the place to learn more about your Marketo Engage instance from Marketo Engage employees as well as fellow users. 
+The [Marketing Nation Community](https://nation.marketo.com/){target="_blank"} is the place to learn more about your Marketo Engage instance from fellow users as well as Marketo employees. Before you jump in, take a moment to get familiar with the [Community Guidelines](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+
+## Register your username {#register-your-username}
+
+-registering a username
+
+SCREENSHOT
 
 ## Set up your profile {#set-up-your-profile}
 
--registering a username
--adding a photo
+When logged in to the Marketing Nation, click your default avatar icon and select My settings to update your preferences, change your avatar photo, control tagging, and more.
 
-## Submit a question {#submit-a-question}
-
-Text
-
-## Read blog posts {#read-blog-posts}
-
--champions
--marketo PMs
-
-## Submit an idea {#submit-an-idea}
-
-text
+SCREENSHOT
 
 ## Using the search {#using-the-search}
 
--filtering
+Before you submit a question, use the robust search feature to see if the question has already been asked/answered. Use the filtering options to narrow the search results.
+
+SCREENSHOT
+
+>[!TIP]
+>
+>For broader results, use a focused keyword search as opposed to long-tail (e.g., search "Dynamic Chat" instead of "How do I add an agent in Dynamic Chat")
+
+## Submit a question {#submit-a-question}
+
+This is where you'll typically go for help. Start a discussion thread (or search for an existing one) when you're looking for feedback on a particular issue, or jump into someone else's thread to assist them with an issue you're knowledgeable about.
+
+SCREENSHOT
+
+## Read blog posts {#read-blog-posts}
+
+This section is full of helpful information from both Marketo Engage Users (including several Champions) and Marketo employees. Leave comments at the bottom when you need additional information.
+
+SCREENSHOT
+
+## Submit an idea {#submit-an-idea}
+
+If you ever come up with an idea that you think would improve Marketo Engage, submit it in this section. You can also vote on existing ideas.
+
+SCREENSHOT
+
+## Marketo User Groups {#marketo-user-groups}
+
+Marketo User Groups (MUGs) are meetups that occur in different areas around the world. They provide you with the opportunity to network, discuss latest trends, learn about new features, and more. Check to see if there's one in your area. If there isn't, join a virtual user group!
+
+SCREENSHOT
 
 ## Subscribe to the weekly digest {#subscribe-to-the-weekly-digest}
 
 Text
+
+SCREENSHOT
 
 ## Merging Marketo Engage subscriptions {#merging-marketo-engage-subscriptions}
 
@@ -53,28 +79,6 @@ In your request, please specify the following details:
 
 Our Community team will merge your Community profiles in 4-6 business days. Once it's completed, you'll see your engagement history in the main Community profile upon login. If you don't, please log out of your account and log back in again to confirm.
 
+<p>
 
-
-Jonathan post:
-
-Welcome to the Marketing Nation Community! 
-
-If you're new around here, please don't forget to view our Guidelines to ensure that you're getting the most out of our Community.
-
-New to using Marketo? Ask a question in our Product Discussions page, or visit our Support page to talk to our Support team. You can also visit our Marketo Engage documentation or Marketo Measure documentation pages to get started, and don't forget to use our search bar to see if others had a similar question before!
-
-Our Marketo User Groups (MUGs) are local meetups organized by passionate MUG leaders to provide an opportunity for anyone to network, discuss latest trends, learn about new features, post local opportunities, and more. Check out the 70+ Marketo User Groups chapters available and see if there is a MUG meetup in your area!
-
-Have a burning idea that might improve our Product? Submit your idea in our Ideas page; you can also browse and vote on ideas submitted by your peers. 
-
-Lastly, Marketo offers a wide variety of trainings and certifications to increase your expertise with our product. You can visit the Marketo Engage Experience League page for more details.
-
-
-
--Setting up a profile/registering a username
--adding a photo
--submitting a question (discussion threads)
--reading champion blogs
--submitting an idea
--using the search (filtering)
--subscribing to the weekly digest (have to be logged in)
+Welcome to Marketo Engage, and enjoy the Marketing Nation!

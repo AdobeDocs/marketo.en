@@ -20,12 +20,14 @@ feature-set: Marketo Engage
     + [New Instance Best Practices: Database Checklist](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
     + [New Instance Best Practices: Marketing Activities Checklist](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
     + [New Instance Best Practices: Design Studio Checklist](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+    + [New Instance Best Practices: Analytics Checklist](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
     + [New Instance Best Practices: Document Your Setup](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
   + Things to Know {#things-to-know}
     + [Marketo Engage Glossary](getting-started/things-to-know/marketo-engage-glossary.md)
     + [Icon Glossary](getting-started/things-to-know/icon-glossary.md)
     + [Classic Icon Glossary](getting-started/things-to-know/classic-icon-glossary.md)
     + [Help Center](getting-started/things-to-know/help-center.md)
+    + [Marketing Nation Community](getting-started/things-to-know/community.md)
   + Quick Wins {#quick-wins}
     + [Get Set up and Add a Person](getting-started/quick-wins/get-set-up-and-add-a-person.md)
     + [Send an Email](getting-started/quick-wins/send-an-email.md)
