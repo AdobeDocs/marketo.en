@@ -14,7 +14,7 @@ feature: Email Programs
 
 >[!CAUTION]
 >
->For the sake of accurate reporting, please avoid reusing an email previously used in an email program via a Smart Campaign, or by moving the asset from the launched email program to a new one. Doing so will add to the reporting numbers in the original email program dashboard. If you need to reuse the same email, [clone it](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} instead.
+>For accurate reporting, avoid _reusing_ an email from an email program, either by referencing it in a Smart Campaign or by moving the asset from the launched email program to a new one. Doing so will aggregate all of the data in every reporting dashboard attached to that email. If you need to reuse an email, please [clone it](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} instead, as that copies the email but creates a new one with a new email ID.
 
 Once you've [created an email program](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) and defined your audience, you will want to decide what email you're sending. You can [create an email for an email program](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) from scratch or pick one that already exists. Here's how to pick one that already exists.
 

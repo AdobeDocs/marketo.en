@@ -110,5 +110,10 @@ In order to enable extraction of content from your web URLs during the generatio
     <td>20.105.224.16</td>
     <td>20.211.64.11</td>
   </tr>
+  <tr>
+    <td>13.68.17.252</td>
+    <td>20.105.150.224</td>
+    <td>20.213.91.77</td>
+  </tr>
 </tbody>
 </table>
