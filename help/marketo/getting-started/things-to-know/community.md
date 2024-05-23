@@ -5,9 +5,9 @@ hide: yes
 hidefromtoc: yes
 feature: Getting Started
 ---
-# Marketo Engage Community {#marketo-engage-community}
+# Adobe Marketo Engage Community {#marketo-engage-community}
 
-The [Marketing Nation Community](https://nation.marketo.com/){target="_blank"} is the place to learn more about your Marketo Engage instance from fellow users as well as Marketo employees. Before you jump in, take a moment to get familiar with the [Community Guidelines](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+The [Adobe Marketo Engage Community](https://nation.marketo.com/) (also known as the Marketing Nation) is the place to learn more about your Marketo Engage instance from fellow users as well as Marketo employees. Before you jump in, take a moment to get familiar with the [Community Guidelines](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
 
 ## Register your username {#register-your-username}
 
