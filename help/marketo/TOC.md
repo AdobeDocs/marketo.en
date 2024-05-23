@@ -1724,6 +1724,7 @@ feature-set: Marketo Engage
         + [Display People or Anonymous Visitors in Web Reports](product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
         + [Drill Down in a People Performance Report](product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
         + [Export a Report to Excel](product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)
+        + [Filter a Campaign Activity Report](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
         + [Filter Assets in a Campaign Email Reports](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
         + [Filter Assets in an Email Report](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
         + [Group Person Reports by Attribute](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
@@ -1737,6 +1738,7 @@ feature-set: Marketo Engage
         + [Subscribe to a Basic Report](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
         + [Subscribe to a Smart List](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
       + Report Types {#report-types}
+        + [Campaign Activity Report](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
         + [Campaign Email Performance Report](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
         + [Company Web Activity Report](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
         + [People by Status Report](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
