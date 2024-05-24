@@ -106,7 +106,8 @@ As a new admin navigating a fresh Marketo Engage instance, apply the checklist b
     <td><li>Define how to use <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html" target="_blank">tags</a>.</li></td>
   </tr>
   <tr>
-    <td>Calendar (if applicable)</td>
+    <td>Calendar<br> 
+    (if applicable)</td>
     <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html" target="_blank">Issue Marketing Calendar seats</a> to those who need access.</li>
     <li>Set up the <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html" target="_blank">Calendar</a>.</li></td>
   </tr>

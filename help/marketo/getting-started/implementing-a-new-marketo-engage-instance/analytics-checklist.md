@@ -25,9 +25,7 @@ Remember to [download the checklists](/help/marketo/getting-started/implementing
   <tr>
     <td>Organization: Naming, folders, and archiving</td>
     <td><li>Use a report naming convention to differentiate reports in the Global Reports tab.</li>
-    <ul>
-    <li>An example of good naming convention practice is [Report Type] [Global vs. BU-Specific Tag] [Report Description] such as [Email Performance]-[Global]-[180 Days Email Engagement].</li>
-    </ul> 
+    <ul><li>An example of good naming convention practice is [Report Type] [Global vs. BU-Specific Tag] [Report Description] such as [Email Performance]-[Global]-[180 Days Email Engagement].</li></ul><br>
     <li>Identify reports that should be shared with different user groups within your organization (e.g., sales team, marketing leadership) and organize the reports by folder inside the Group Reports folder in Analytics for Global Reports.</li> 
     <li>Archiving should be limited to the Global Reports folder, as these are always-on reports.   <ul>
     <li>Limit archiving to organizational changes such as reducing or adding relevant business units if you are reporting based on a business unit structure.</li>
@@ -98,7 +96,7 @@ Identify reports that should be shared with different user groups within your or
     <td>People Performance Report</td>
     <td><img src="assets/note-icon.png" alt="note icon"> NOTE: It's recommended to have a proper <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">channel and tag strategy</a> for every Marketo Engage implementation before you can track the people acquired and the ROI of your marketing investments by channel.
     <p>
-    <li>Determine the criteria you will use to measure the performance of your lead acquisition programs and create your time-based (current year, last rolling 12 months view, or 180 days) standard reports based on these metrics:</li> <ul><li>Acquisition Program: Marketo Engage program that is credited for acquiring the person.
+    <li>Determine the criteria you will use to measure the performance of your lead acquisition programs and create your time-based (current year, last rolling 12 months view, or 180 days) standard reports based on these metrics:</li> <ul><li>Acquisition Program: Marketo Engage program that is credited for acquiring the person.</li>
     <li>Person Source: The source category for how the record came to be known to your database (based on the source list of values in your CRM)
     </li></ul>
     <li>Measure people created by week or month. This report will provide you with a measure of your Database growth rate and whether you are approaching your Database size limit.</li>

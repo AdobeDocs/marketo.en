@@ -78,8 +78,8 @@ Remember to [download the checklists](/help/marketo/getting-started/implementing
 <table>
 <thead>
   <tr>
-    <th style="width:20%">Area</th>
-    <th style="width:80%">Action Items</th>
+    <th style="width:21%">Area</th>
+    <th style="width:79%">Action Items</th>
   </tr>
 </thead>
 <tbody>
