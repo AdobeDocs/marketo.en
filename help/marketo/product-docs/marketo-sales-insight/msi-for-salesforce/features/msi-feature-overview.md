@@ -9,6 +9,10 @@ feature: Marketo Sales Insights
 
 MSI has the following features available in Salesforce Lightning and Classic.
 
+>[!NOTE]
+>
+>In order to see all available data, please make sure your browser zoom is set to no more than 125% when using Windows and 150% on Mac OS.
+
 ## Visualforce Panel {#visualforce-panel}
 
 MSI Visualforce Panel includes the following functionalities:
@@ -33,8 +37,8 @@ MSI Visualforce Panel includes the following functionalities:
 
 Visualforce pages:
 
-* Lead - Includes the option to click on hyper “Go to Full List”, you will be sent to a new tab in Salesforce where the MSI panel will be visible in a full page layout
-* Lead Full List - Does not include “Go to Full List” option
+* Lead - Includes the option to click on hyper "Go to Full List", you will be sent to a new tab in Salesforce where the MSI panel will be visible in a full page layout
+* Lead Full List - Does not include "Go to Full List" option
 * Lead Mobile - Visible in Salesforce mobile application
 * Lead Contact Bridge - Displays MSI panel of the contact you have added in the MSI Contact ID field
 
@@ -52,14 +56,14 @@ Fields:
 * Urgency
 * Urgency Value
 * View in Marketo - Click on this field to open a non-editable view of the lead in Marketo. Includes: Lead Info, Company Info, SFDC Lead Info, SFDC Custom Fields, Activity Log
-* MSI Contact Id - Add a Salesforce contact to this field and include “Lead Contact Bridge” panel in the lead layout to see the MSI panel of the contact
+* MSI Contact Id - Add a Salesforce contact to this field and include "Lead Contact Bridge" panel in the lead layout to see the MSI panel of the contact
 
 ## Contact Layout {#contact-layout}
 
 Visualforce pages:
 
-* Contact - Includes option to click on hyper “Go to Full List,” you will be sent to a new tab in Salesforce where the MSI panel will be visible in a full page layout
-* Contact Full List - Does not include “Go to Full List” option
+* Contact - Includes option to click on hyper "Go to Full List," you will be sent to a new tab in Salesforce where the MSI panel will be visible in a full page layout
+* Contact Full List - Does not include "Go to Full List" option
 * Contact Mobile - Visible in Salesforce mobile application
 * Add to Marketo Campaign ContactPage - Add to Marketo Campaign feature is available within this panel
 
@@ -83,8 +87,8 @@ Fields:
 
 Visualforce pages:
 
-* Account - Includes option to click on hyper “Go to Full List”, you will be sent to a new tab in Salesforce where the MSI panel will be visible in a full page layout
-* Account Full List - Does not include “Go to Full List” option
+* Account - Includes option to click on hyper "Go to Full List", you will be sent to a new tab in Salesforce where the MSI panel will be visible in a full page layout
+* Account Full List - Does not include "Go to Full List" option
 * Account Mobile - Visible in Salesforce mobile application
 
 Fields:
@@ -105,8 +109,8 @@ The following features are **not available** in the Account Layout page:
 
 Visualforce pages:
 
-* Opportunity - Includes option to click on hyper “Go to Full List,” you will be sent to a new tab in Salesforce where the MSI panel will be visible in a full page layout
-* Opportunity Full List - Does not include “Go to Full List” option
+* Opportunity - Includes option to click on hyper "Go to Full List," you will be sent to a new tab in Salesforce where the MSI panel will be visible in a full page layout
+* Opportunity Full List - Does not include "Go to Full List" option
 * Opportunity Mobile - Visible in Salesforce mobile application
 
 Fields:
@@ -134,7 +138,7 @@ Salesforce Classic: Add to Watchlist, Add to Marketo Campaign, and Send Marketo 
 
 * Best Bets
 
-    * Includes ability to create and edit views. Ability to Hide Best Bets depending on configuration of “Default Hide” option in Marketo Configuration page
+    * Includes ability to create and edit views. Ability to Hide Best Bets depending on configuration of "Default Hide" option in Marketo Configuration page
     * Columns - Name, Account, Last Interesting Moment, Status Header, Engagement (Stars & Flames), Hide
 
 * My Watch List
