@@ -11,7 +11,17 @@ The [Adobe Marketo Engage Community](https://nation.marketo.com/) (also known as
 
 ## Register your username {#register-your-username}
 
--registering a username
+1. Log in to your Marketo Engage instance.
+
+1. In My Marketo, click the Community tile.
+
+1. If this is your first time logging in, you will be instructed to registered a Community username.
+
+   >[!NOTE]
+   >
+   >Your username can be changed at any time, but must be registered at this point.
+
+1. After registering your username, you will be navigated to the Community homepage and will be able to interact and post within the Community.
 
 SCREENSHOT
 
@@ -81,4 +91,4 @@ Our Community team will merge your Community profiles in 4-6 business days. Once
 
 <br>
 
-Welcome to Marketo Engage, and enjoy the Marketing Nation!
+Welcome to Marketo Engage, and have fun exploring the Marketing Nation!

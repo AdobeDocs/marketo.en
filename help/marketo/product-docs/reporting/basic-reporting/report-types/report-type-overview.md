@@ -58,11 +58,7 @@ When you [create a report in a program](/help/marketo/product-docs/reporting/bas
   <tr> 
    <td><strong><a href="web-page-activity-report.md">Web Page Activity</a></strong></td> 
    <td>Report on web activity to your landing pages and public website.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Social Influence</strong></td> 
-   <td>Review the social activity you're generating, and see how often your people tell their friends about you.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Engagement Stream Performance Report</a> </strong></td> 
    <td>See how well your <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">engagement program</a> is working.</td> 

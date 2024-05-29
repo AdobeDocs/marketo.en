@@ -64,7 +64,7 @@ See all of your tasks and their pertinent details, such as when they were genera
 
 ## IP Addresses to Allowlist {#ip-addresses-to-allowlist}
 
-In order to enable extraction of content from your web URLs during the generation of questions and responses, please locate your region below and make sure all the IP addresses associated with it are allowlisted by your web team.
+In order to enable extraction of content from your web URLs during the generation of questions and responses, please locate your region below and make sure the IP address associated with it is allowlisted by your web team.
 
 <table width=450>
 <thead>
@@ -75,41 +75,6 @@ In order to enable extraction of content from your web URLs during the generatio
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td>20.10.235.188</td>
-    <td>20.76.246.248</td>
-    <td>20.167.0.195</td>
-  </tr>
-  <tr>
-    <td>20.10.235.189</td>
-    <td>20.76.247.92</td>
-    <td>20.248.128.31</td>
-  </tr>
-  <tr>
-    <td>20.10.235.246</td>
-    <td>20.76.247.134</td>
-    <td>20.167.1.48</td>
-  </tr>
-  <tr>
-    <td>20.10.235.248</td>
-    <td>20.76.247.244</td>
-    <td>20.167.1.63</td>
-  </tr>
-  <tr>
-    <td>20.10.235.255</td>
-    <td>20.93.168.10</td>
-    <td>20.167.1.92</td>
-  </tr>
-  <tr>
-    <td>20.10.236.96</td>
-    <td>20.93.168.44</td>
-    <td>20.167.1.155</td>
-  </tr>
-  <tr>
-    <td>20.119.144.14</td>
-    <td>20.105.224.16</td>
-    <td>20.211.64.11</td>
-  </tr>
   <tr>
     <td>13.68.17.252</td>
     <td>20.105.150.224</td>
