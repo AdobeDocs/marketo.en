@@ -18,8 +18,8 @@ feature-set: Marketo Engage
     + [Where to Start](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
     + [New Instance Best Practices: Admin Section Checklist](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
     + [New Instance Best Practices: Database Checklist](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
-    + [New Instance Best Practices: Marketing Activities Checklist](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
     + [New Instance Best Practices: Design Studio Checklist](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+    + [New Instance Best Practices: Marketing Activities Checklist](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
     + [New Instance Best Practices: Analytics Checklist](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
     + [New Instance Best Practices: Document Your Setup](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
   + Things to Know {#things-to-know}
@@ -45,8 +45,8 @@ feature-set: Marketo Engage
     + [Where to Start](getting-started/inheriting-a-marketo-engage-instance/where-to-start.md)
     + [Inherited Instance: Admin Section Checklist](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
     + [Inherited Instance: Database Checklist](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
-    + [Inherited Instance: Marketing Activities Checklist](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
     + [Inherited Instance: Design Studio Checklist](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+    + [Inherited Instance: Marketing Activities Checklist](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
     + [Inherited Instance: Document Your Setup](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
     + [Reviewing Core Skills](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Product Docs {#product-docs}

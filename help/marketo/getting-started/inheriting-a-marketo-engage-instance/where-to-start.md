@@ -40,15 +40,15 @@ Adobe, with input from Marketo Champions, has put together several Marketo Engag
 
 You can also [download the checklists](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) in spreadsheet form.
 
-* [Admin section](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
+* [Admin section](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
-* [Database](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
+* [Database](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [Marketing Activities](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
+* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+* [Marketing Activities](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Document your inherited instance setup](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
+* [Document your inherited instance setup](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
  
 ## Ways to Get Help {#ways-to-get-help}
 
@@ -56,7 +56,7 @@ Need more help? Connect with us or fellow Marketo Engage users via the links bel
 
 * For technical assistance with something that's not working properly, contact **[Marketo Engage Customer Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
 
-* Connect with and learn from fellow Marketo Engage users in the **[Marketing Nation](https://nation.marketo.com/){target="_blank"}**.
+* Connect with and learn from fellow Marketo Engage users in the **[Adobe Marketo Engage Community](https://nation.marketo.com/){target="_blank"}**.
 
 * For hands-on assistance with getting the most out of your Marketo Engage instance, reach out to **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 

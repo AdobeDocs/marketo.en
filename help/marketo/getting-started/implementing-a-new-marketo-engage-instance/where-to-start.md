@@ -28,17 +28,19 @@ Download the Marketo Engage Instance [New Implementation Admin Checklists](/help
 
 * [Database](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
 
+* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+
 * [Marketing Activities](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+* [Analytics](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md){target="_blank"}
 
 * [Document your new instance setup](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Connect with Your Peers {#connect-with-your-peers}
 
-Visit the [Marketing Nation Community](https://nation.marketo.com/){target="_blank"} to learn more about your Marketo Engage Instance from Marketo Engage employees as well as fellow users. 
+Visit the [Adobe Marketo Engage Community](https://nation.marketo.com/){target="_blank"} (also known as the Marketing Nation) to learn more about your Marketo Engage Instance from Marketo Engage employees as well as fellow users. 
 
-Get started in Marketing Nation Community: 
+Get started in the Community: 
 
 1. Click **Continue with Adobe ID** and select your primary subscription on the login page.
 1. Upon signing in, complete your community profile.

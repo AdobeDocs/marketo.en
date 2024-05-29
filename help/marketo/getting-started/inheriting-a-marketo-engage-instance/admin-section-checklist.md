@@ -375,7 +375,3 @@ Once you finish auditing the Users & Roles settings, log in to Dynamic Chat to c
   </tr>
  </tbody> 
 </table>
-
-<br>&nbsp;
-
-[Audit an Inherited Instance: Database ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)

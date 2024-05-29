@@ -65,5 +65,3 @@ Now that you've learned the key product areas to audit when inheriting an establ
   </tr>
  </tbody> 
 </table>
-
-[◄ Audit an Inherited Instance: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

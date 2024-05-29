@@ -160,9 +160,3 @@ Structuring templates and creating global forms, Snippets, and images & files wi
   </tr>
  </tbody> 
 </table>
-
-<br>&nbsp;
-
-[◄ Audit an Inherited Instance: Marketing Activities](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
-
-[Audit an Inherited Instance: Document Your Inherited Instance Setup ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)

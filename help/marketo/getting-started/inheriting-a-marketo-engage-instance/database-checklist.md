@@ -109,9 +109,3 @@ Understand the total number of people, marketable people, and top person-acquiri
   </tr>
  </tbody> 
 </table>
-
-<br>&nbsp;
-
-[◄ Audit an Inherited Instance: Admin](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
-
-[Audit an Inherited Instance: Marketing Activities ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
