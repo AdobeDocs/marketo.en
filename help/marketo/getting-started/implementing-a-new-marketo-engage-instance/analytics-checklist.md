@@ -111,7 +111,8 @@ Identify reports that should be shared with different user groups within your or
     <li>Manage program membership (using Smart Campaigns to update acquisition program, status, success statuses) according to best practices within Marketing Activities.</li>
     <li>Measure based on costs for the current year and rolling 12 months.
     <ul><li>Remember that maintaining <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Period Costs</a> is critical to leveraging the Program Performance Report.</li></ul>
-    <p><img src="assets/tip-icon.png" alt="note icon"> TIP: To aggregate and view any <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">imported lists</a> in the Program Performance Reports, ensure your teams select the appropriate Acquisition Program for tagging. Consider <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">creating a default program</a> to be selected as the Acquisition program when the lists imported don't apply to any channel. This ensures any person imported has a valid acquisition program related to source, business unit, channel, etc., instead of a blank value.</td>
+    <br>
+    <br><img src="assets/tip-icon.png" alt="note icon"> TIP: To aggregate and view any <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">imported lists</a> in the Program Performance Reports, ensure your teams select the appropriate Acquisition Program for tagging. Consider <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">creating a default program</a> to be selected as the Acquisition program when the lists imported don't apply to any channel. This ensures any person imported has a valid acquisition program related to source, business unit, channel, etc., instead of a blank value.</td>
   </tr>
   <tr>
     <td>Landing Page Performance Report</td>
@@ -146,7 +147,7 @@ Some Marketo Engage reports are best deployed as local assets within specific pr
   <tr>
     <td>Campaign Activity Report</td>
     <td><li>Create the <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">Campaign Activity Report</a> and choose a period within your operational folder in Marketing Activities.</li>
-    <li>Set up reports to monitor the triggers for each use case and <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">apply campaign filters</a> (e.g., Behavior Scoring triggers, Lifecycle qualification triggers, Interesting Moments triggers).</li></td>
+    <li>Set up reports to monitor the triggers for each use case and <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report" target="_blank">apply campaign filters</a> (e.g., Behavior Scoring triggers, Lifecycle qualification triggers, Interesting Moments triggers).</li></td>
   </tr>
   <tr>
     <td>Engagement Stream Performance Report (if applicable)</td>
@@ -154,4 +155,41 @@ Some Marketo Engage reports are best deployed as local assets within specific pr
     <li>Consider using the <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations" target="_blank">"Segmentation" filter in the report's Setup tab</a> and grouping the reporting data by the <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation" target="_blank">segment</a> (e.g., person source, industry) used in your Engagement Program. This will help get deeper insights into each segment's engagement patterns, guiding you to make strategic changes to improve your Engagement program (content, stream, stream cadence, etc.).</li></td>
   </tr>
 </tbody>
+</table>
+
+TABLE WITH WORKING BULLETS
+
+<table>
+<tbody>
+<tr>
+    <td>Group Reports</td>
+    <td><img src="assets/note-icon.png" alt="note icon"> NOTE: TEXT.
+    <p>
+    <li>TEXT.</li>
+    <li>TEXT.
+    <ul><li>TEXT</li>
+    <li>TEXT</li></ul>
+    <li>TEXT.</li>
+    <li>TEXT.</li>
+    <p><img src="assets/tip-icon.png" alt="note icon"> TIP: TEXT.</td>
+  </tr>
+  </tbody>
+</table>
+
+TEST FIX 1
+
+<table>
+<tbody>
+<tr>
+    <td>People Performance Report</td>
+    <td><img src="assets/note-icon.png" alt="note icon"> NOTE: It's recommended to have a proper <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">channel and tag strategy</a> for every Marketo Engage implementation before you can track the people acquired and the ROI of your marketing investments by channel.
+    <p>
+    <li>Determine the criteria you will use to measure the performance of your lead acquisition programs and create your time-based (current year, last rolling 12 months view, or 180 days) standard reports based on these metrics:</li>
+    <ul><li>Acquisition Program: Marketo Engage program that is credited for acquiring the person</li>
+    <li>Person Source: The source category for how the record came to be known to your database (based on the source list of values in your CRM)</li></ul>
+    <li>Measure people created by week or month. This report will provide you with a measure of your Database growth rate and whether you are approaching your Database size limit.</li>
+    <li>Filter the metrics in People Performance Reports by <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report">using your Smart Lists as custom columns.</a></li>
+    <p><img src="assets/tip-icon.png" alt="note icon"> TIP: Create Smart Lists for the custom columns you want to add to the People Performance Report in the Database instead of Marketing Activities so you can see the Smart List name properly and clearly when it's selected in the report.</td>
+  </tr>
+  </tbody>
 </table>
