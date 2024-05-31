@@ -16,6 +16,10 @@ This tab lists all of the agents in your Dynamic Chat instance, and includes suc
 
    ![](assets/agent-management-2.png)
 
+   >[!NOTE]
+   >
+   >Don't see an agent you _just_ added? It could take up to two hours for them to appear here after adding them in the Adobe Admin console.
+
 ## Teams {#teams}
 
 Admins can create teams of agents to facilitate ease of routing to specific groups of sales agents.

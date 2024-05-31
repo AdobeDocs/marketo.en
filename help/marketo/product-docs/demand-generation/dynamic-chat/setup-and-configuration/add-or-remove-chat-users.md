@@ -42,6 +42,10 @@ Follow the steps below to add or remove chat users.
 
    ![](assets/add-or-remove-chat-users-7.png)
 
+   >[!NOTE]
+   >
+   >After you add a user in the Adobe Admin console, it could take up to two hours for them to appear in the Dynamic Chat Agent Management page.
+
 ## Add Dynamic Chat Access to Marketo Role {#add-dynamic-chat-access-to-marketo-role}
 
 If the newly added Chat user's Marketo role doesn't already have Dynamic Chat permission, here's how to add it.
