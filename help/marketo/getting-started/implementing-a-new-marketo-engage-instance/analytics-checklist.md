@@ -2,6 +2,7 @@
 description: Set up the Analytics section for your new Marketo Engage instance.
 title: New Instance Best Practices - Analytics Checklist
 feature: Getting Started
+exl-id: ddbb9bc7-d06a-4a2e-a560-9d308630ae3f
 ---
 # New Instance Best Practices: Analytics Checklist {#new-instance-best-practices-analytics-checklist}
 
