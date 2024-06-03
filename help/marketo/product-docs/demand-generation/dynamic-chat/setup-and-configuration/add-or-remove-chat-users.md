@@ -8,6 +8,10 @@ exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
 
 Follow the steps below to add or remove chat users.
 
+>[!NOTE]
+>
+>By default, all Marketo Engage Admins are granted Admin rights in Dynamic Chat.
+
 ## Add a Chat User {#add-a-chat-user}
 
 1. Log in to the [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.

@@ -8,9 +8,13 @@ exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
 
 See below for answers to some frequently asked questions about Dynamic Chat.
 
-**Can I install Dynamic Chat anywhere on my company website or does it only work on Marketo landing pages?**
+**I don't seem to have access to Dynamic Chat. How can I get it?**
 
-The Dynamic Chat JavaScript snippet can be installed on any website as well as Marketo landing pages.
+Please reach out to your Marketo Engage Admin and make sure they've [added you as a user](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} in the Adobe Admin Console.
+
+**Can I install Dynamic Chat anywhere on my company website or does it only work on Marketo Landing Pages?**
+
+The Dynamic Chat JavaScript snippet can be installed on any website as well as Marketo Landing Pages.
 
 **How long is data stored for reporting?**
 
