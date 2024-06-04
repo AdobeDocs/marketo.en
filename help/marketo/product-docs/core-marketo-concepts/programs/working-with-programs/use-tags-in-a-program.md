@@ -13,50 +13,50 @@ Tags are attributes that describe your programs and are used to group program ty
 
 1. Select your program. Click **Setup**.
 
-   ![](assets/use-tags-in-a-program-1.png)
+   ![](assets/image2014-9-23-15-3a45-3a0.png)
 
 1. Drag and drop a tag onto the canvas.
 
-   ![](assets/use-tags-in-a-program-2.png)
+   ![](assets/image2014-9-23-15-3a45-3a13.png)
 
 1. Select a value from the drop-down.
 
-   ![](assets/use-tags-in-a-program-3.png)
+   ![](assets/image2014-9-23-15-3a45-3a30.png)
 
 1. Click **Save**.
 
-   ![](assets/use-tags-in-a-program-4.png)
+   ![](assets/image2014-9-23-15-3a45-3a36.png)
 
 1. Right on. You'll see the new tag in the canvas.
 
-   ![](assets/use-tags-in-a-program-5.png)
+   ![](assets/image2014-9-23-15-3a45-3a47.png)
 
 ## Edit a Tag {#edit-a-tag}
 
 1. Go to the **Setup** tab. Right-click the tag. Select **Edit**.
 
-   ![](assets/use-tags-in-a-program-6.png)
+   ![](assets/image2014-9-23-15-3a45-3a53.png)
 
 1. Click the drop-down. Select a new value.
 
-   ![](assets/use-tags-in-a-program-7.png)
+   ![](assets/image2014-9-23-15-3a46-3a12.png)
 
 1. Click **Save**.
 
-   ![](assets/use-tags-in-a-program-8.png)
+   ![](assets/image2014-9-23-15-3a46-3a25.png)
 
 1. Great! You should see the edits reflected in the canvas.
 
-   ![](assets/use-tags-in-a-program-9.png)
+   ![](assets/image2014-9-23-15-3a46-3a35.png)
 
 ## Delete a Tag  {#delete-a-tag}
 
 1. Go to the **Setup** tab. Right-click the tag and select **Delete**.
 
-   ![](assets/use-tags-in-a-program-10.png)
+   ![](assets/image2014-9-23-15-3a46-3a55.png)
 
 1. Click **Delete** to confirm.
 
-   ![](assets/use-tags-in-a-program-11.png)
+   ![](assets/image2014-9-23-15-3a47-3a8.png)
 
-Nice work! Programs with consistent tags make things much easier when you run your reports.
+High five! It's gone. Programs with consistent tags make things much easier when you run your reports.

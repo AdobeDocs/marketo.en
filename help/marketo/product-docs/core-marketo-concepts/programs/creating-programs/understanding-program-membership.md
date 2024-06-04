@@ -58,5 +58,5 @@ When a new name enters the system as a program member, Marketo automatically set
 
 >[!MORELIKETHIS]
 >
->* [Use Tags in a Program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md){target="_blank"}
+>* [Use Tags in a Program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}
 >* [Create a Program Performance Report](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

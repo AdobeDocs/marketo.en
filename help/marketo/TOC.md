@@ -404,7 +404,7 @@ feature-set: Marketo Engage
         + [Sync an SFDC Campaign with a Program](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
         + [Understanding Period Costs](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
         + [Understanding Tags](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
-        + [Use Tags in a Program](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)
+        + [Use Tags in a Program](product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md)
         + [Using Period Costs in a Program](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
       + Program Library {#program-library}
         + [Program Import Library Overview](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
