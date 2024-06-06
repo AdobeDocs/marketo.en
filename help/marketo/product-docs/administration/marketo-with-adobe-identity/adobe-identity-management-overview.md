@@ -40,8 +40,8 @@ Adobe Marketo Engage subscriptions onboarded to the Adobe Identity Management Sy
 </td>
  </tr>
  <tr>
-  <td><strong>Marketo Engage Product Admin</strong></td>
-  <td>A person who has been given access to Marketo Engage with Administrative privileges. Granted role in Marketo Engage, not Adobe Admin Console.</td>
+  <td><strong>Marketo Engage Admin</strong></td>
+  <td>A person who has been given access to Marketo Engage with Administrative privileges. Granted role in Marketo Engage, not Adobe Admin Console (appears as just "Admin" in the <b>Edit User</b> modal).</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage User</strong></td>
