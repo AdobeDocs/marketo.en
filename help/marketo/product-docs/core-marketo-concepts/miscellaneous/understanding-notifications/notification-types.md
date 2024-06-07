@@ -54,4 +54,4 @@ You will be notified when you reach your daily quota. The quota resets each nigh
 
 >[!NOTE]
 >
->Some of the error codes you may receive are outlined in our [Developer Documentation](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
+>Some of the error codes you may receive are outlined in our [Developer Documentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

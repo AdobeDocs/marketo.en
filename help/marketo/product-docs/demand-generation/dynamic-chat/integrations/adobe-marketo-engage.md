@@ -12,7 +12,7 @@ After you've completed the [initial setup](/help/marketo/product-docs/demand-gen
 
 >[!NOTE]
 >
->Dynamic Chat supports syncing [Marketo native](https://developers.marketo.com/rest-api/lead-database/fields/list-of-standard-fields/){target="_blank"} and custom person fields and company fields.
+>Dynamic Chat supports syncing [Marketo native](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} and custom person fields and company fields.
 
 1. In My Marketo, click the **[!UICONTROL Dynamic Chat]** tile.
 

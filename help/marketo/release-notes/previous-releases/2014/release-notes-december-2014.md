@@ -47,7 +47,7 @@ Links within email scripts will now be tracked and available within the Email Li
 
 ## Token Encoding Setting {#token-encoding-setting}
 
-We’ve rolled out a new security feature to automatically HTML encode tokens, which will be enabled by default in March 2015. Until then, toggle this functionality in Field Management to test the behavior ahead of time. All lead and company tokens will be encoded when inserted into emails or landing pages. Options will also be available for individual fields.
+We've rolled out a new security feature to automatically HTML encode tokens, which will be enabled by default in March 2015. Until then, toggle this functionality in Field Management to test the behavior ahead of time. All lead and company tokens will be encoded when inserted into emails or landing pages. Options will also be available for individual fields.
 
 ## New ReST API Calls {#new-rest-api-calls}
 
@@ -59,11 +59,11 @@ Three new calls for the Lead & Activity ReST API:
 
 · Merge Lead
 
-Full details will be available after the release at [developers.marketo.com](https://developers.marketo.com/)
+Full details will be available after the release at [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 ## Munchkin Javascript Compatibility Enhancements {#munchkin-javascript-compatibility-enhancements}
 
-We’ve made several minor enhancements to Munchkin to ensure it continues to load quickly and function as desired in cases with other JavaScript on the page.
+We've made several minor enhancements to Munchkin to ensure it continues to load quickly and function as desired in cases with other JavaScript on the page.
 
 Rollout will be staged starting in mid-December and continuing for the next several months.
 
@@ -77,7 +77,7 @@ Rollout will be staged starting in mid-December and continuing for the next seve
 
 ## RTP: Named Account List Module {#rtp-named-account-list-module}
 
-Manage and monitor your key high-yield accounts in the new Named Accounts page. Upload new lists of named accounts to identify and target these organizations. We’ve automated the process providing you more control and flexibility to implement your account-based marketing plans and target your key accounts across different channels (web and advertising).
+Manage and monitor your key high-yield accounts in the new Named Accounts page. Upload new lists of named accounts to identify and target these organizations. We've automated the process providing you more control and flexibility to implement your account-based marketing plans and target your key accounts across different channels (web and advertising).
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 
@@ -85,6 +85,6 @@ Manage and monitor your key high-yield accounts in the new Named Accounts page. 
 
 ## RTP: Sliding Effect for In Zone Campaigns {#rtp-sliding-effect-for-in-zone-campaigns}
 
-We’ve added a new Sliding effect for In Zone campaigns to allow for your personalized content to slide into place upon page load.
+We've added a new Sliding effect for In Zone campaigns to allow for your personalized content to slide into place upon page load.
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)

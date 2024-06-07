@@ -7,7 +7,7 @@ feature: Users and Roles
 ---
 # Create an API Only User {#create-an-api-only-user}
 
-If you want to integrate with Marketo via the [REST API](https://developers.marketo.com/documentation/rest/){target="_blank"}, you'll need to create an API only user. Here's how.
+If you want to integrate with Marketo via the [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}, you'll need to create an API only user. Here's how.
 
 >[!IMPORTANT]
 >

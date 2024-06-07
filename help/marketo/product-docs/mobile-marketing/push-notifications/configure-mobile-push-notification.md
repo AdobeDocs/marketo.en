@@ -81,13 +81,13 @@ Congratulations! Now the push notification is ready to be sent.
 
 ## Deep Link URIs {#deep-link-uris}
 
-When subscribers click on a button in a push message, it can take them either to your app’s home page or directly to a specific page within the app. A deep link is a unique reference to a specific page in your app, and looks a lot like a website link.
+When subscribers click on a button in a push message, it can take them either to your app's home page or directly to a specific page within the app. A deep link is a unique reference to a specific page in your app, and looks a lot like a website link.
 
-A deep link URI is made up of three parts: scheme name, path, and identifier. In the example below, “myappname” is the scheme. “products” is the path, and “purple-shirt” is the identifier. When the customer taps, they are taken specifically to the purple shirt item within your app’s product pages.
+A deep link URI is made up of three parts: scheme name, path, and identifier. In the example below, "myappname" is the scheme. "products" is the path, and "purple-shirt" is the identifier. When the customer taps, they are taken specifically to the purple shirt item within your app's product pages.
 
 ![](assets/image2016-7-29-12-3a49-3a1.png)
 
-That said, your app’s deep link structure may be different from the above example. Your developer has many options in defining deep link URI’s, so ask your developer to send you the URIs (links) for the pages you are interested in using. This will ensure that the URIs you enter in push messages point to the right places. Your developer can [find more information here](https://developers.marketo.com/mobile/enabling-deep-links-in-your-app/).
+That said, your app's deep link structure may be different from the above example. Your developer has many options in defining deep link URI's, so ask your developer to send you the URIs (links) for the pages you are interested in using. This will ensure that the URIs you enter in push messages point to the right places. Your developer can [find more information here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >

@@ -29,6 +29,6 @@ Custom activities function just like standard activities. Setting them up howeve
 
 Step 1: [Create a custom activity](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) in your Marketo account
 
-Step 2: The employee in your organization who works with our API can then begin the implementation. More information can be found here: [Custom Activity API](https://developers.marketo.com/documentation/rest/add-custom-activities/)
+Step 2: The employee in your organization who works with our API can then begin the implementation. More information can be found here: [Custom Activity API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
 
 Have fun!

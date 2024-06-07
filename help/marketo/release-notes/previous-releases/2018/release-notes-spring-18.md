@@ -71,12 +71,12 @@ Set the objective of the ContentAI optimization algorithm to drive more views, c
 
 ## Integration and APIs {#integration-and-apis}
 
-[Static List APIs](https://developers.marketo.com/rest-api/assets/static-lists/)
+[Static List APIs](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
 
 Manage lists between Marketo and other systems more easily with new bi-directional APIs for creating, reading, updating, and deleting static lists remotely without taking any action in the Marketo UI.
 
 ## Privacy Enhancements {#privacy-enhancements}
 
-[Web Tracking Privacy](https://developers.marketo.com/javascript-api/lead-tracking/)
+[Web Tracking Privacy](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
 
 Enhanced Munchkin tracking complies with local and international privacy regulations by anonymizing the IP addresses of web visitors and allowing them to permanently opt-out of web tracking.

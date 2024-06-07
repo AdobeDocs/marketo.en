@@ -21,7 +21,7 @@ If you want to integrate with Marketo via the ReST API, you'll want to create a 
 
 >[!TIP]
 >
->Check out our developers documentation for details on the [ReST API](https://developers.marketo.com/documentation/rest/). We also have the [SOAP API](https://developers.marketo.com/documentation/soap/) if that's what you need.
+>Check out our developers documentation for details on the [REST API](https://developer.adobe.com/marketo-apis/). We also have the [SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) if that's what you need.
 
 ## Create Custom Service {#create-custom-service}
 

@@ -69,7 +69,7 @@ The following features fall under the standard release cycle and will start to b
 
 ## Announcements {#announcements}
 
-* **Activities API Update**: On April 26, we're adding several new attributes to web-based and email-based activities that are returned when you retrieve activities using the [Marketo REST API](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activities/getAllActivityTypesUsingGET){target="_blank"} endpoint to review attribute details for each activity.
+* **Activities API Update**: On April 26, we're adding several new attributes to web-based and email-based activities that are returned when you retrieve activities using the [Marketo REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} endpoint to review attribute details for each activity.
 
 **Web-based Activities**
 

@@ -61,7 +61,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
    <td>A web visitor who never filled out a form or left their details on the website.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="https://developers.marketo.com/" rel="nofollow">Application Programming Interface</a> (API)</strong></td> 
+   <td colspan="1"><strong><a href="https://developer.adobe.com/marketo-apis/" rel="nofollow">Application Programming Interface</a> (API)</strong></td> 
    <td colspan="1">A set of predefined protocols used to perform single or mass functions in an operating system or application (in this case, Marketo).</td> 
   </tr> 
   <tr> 
@@ -254,7 +254,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   </tr> 
   <tr> 
    <td colspan="1"><strong>Docs</strong></td> 
-   <td colspan="1">Short for documents, docs are help articles for customers to better understand the product. Marketo has several different types of docs: Product docs (the site you're currently on), <a href="https://developers.marketo.com/" rel="nofollow">Developer</a> docs, and <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Support</a> docs.</td> 
+   <td colspan="1">Short for documents, docs are help articles for customers to better understand the product. Marketo has several different types of docs: Product docs (the site you're currently on), <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">Developer</a> docs, and <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Support</a> docs.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Domain-based Message Authentication, Reporting &amp; Conformance (DMARC)</strong></td> 
@@ -437,7 +437,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Known Person</strong></a></td> 
-   <td><p>Any person data in the Marketo <strong>database</strong> is considered known person data. There are a variety of ways for someone to enter your database, including: CRM sync, filling out a form, list import/manual entry, programmatic (rest API/partner integrations), and more. Web visitors are initially <strong>cookied</strong> (and are anonymous) via Marketo's <strong>Munchkin</strong> web-tracking and are then subsequently mapped to the corresponding known person record when identifiable action occurs (e.g., clicked a tracked link in a Marketo email, filled out a form with their email address, or are mapped manually through the Marketo associate lead APIs in both <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> and <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a></p></td> 
+   <td><p>Any person data in the Marketo <strong>database</strong> is considered known person data. There are a variety of ways for someone to enter your database, including: CRM sync, filling out a form, list import/manual entry, programmatic (rest API/partner integrations), and more. Web visitors are initially <strong>cookied</strong> (and are anonymous) via Marketo's <strong>Munchkin</strong> web-tracking and are then subsequently mapped to the corresponding known person record when identifiable action occurs (e.g., clicked a tracked link in a Marketo email, filled out a form with their email address, or are mapped manually through the Marketo associate lead APIs in both <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a> and <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest API</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -528,7 +528,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
    <td>Also known as MSD. One of the two CRMs Marketo has a native integration with (see <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">Munchkin</a></strong></td> 
    <td>Marketo's custom JavaScript tracking code. It tracks all individuals who visit your website. This includes anonymous visitors (along with their IP addresses and other information). </td> 
   </tr> 
   <tr> 

@@ -19,7 +19,7 @@ Webhooks let you interact with third party services. Send/receive information by
 
 >[!NOTE]
 >
->Learn about the many fascinating things that [Webhooks](https://developers.marketo.com/documentation/webhooks/){target="_blank"} can do for you.
+>Learn about the many fascinating things that [Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} can do for you.
 
 ## Usage {#usage}
 

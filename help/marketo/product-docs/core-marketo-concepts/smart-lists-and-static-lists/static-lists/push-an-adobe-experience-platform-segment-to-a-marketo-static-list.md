@@ -94,7 +94,7 @@ This feature allows you to push segments located in your Adobe Experience Platfo
 
    >[!NOTE]
    >
-   >You can map attributes from Experience Platform to any of the attributes that your organization has access to in Marketo Engage. Use the [Describe API request](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target="_blank"} to retrieve attribute fields that your organization has access to.
+   >You can map attributes from Experience Platform to any of the attributes that your organization has access to in Marketo Engage. Use the [Describe API request](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} to retrieve attribute fields that your organization has access to.
 
 1. Map the Last Name and Company Name by clicking **[!UICONTROL Add New Mapping]** again and repeating Step 15 twice, choosing **[!UICONTROL lastName]** and then **[!UICONTROL companyName]**.
 

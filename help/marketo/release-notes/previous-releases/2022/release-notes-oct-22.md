@@ -110,7 +110,7 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr> 
    <td>Shipped</td>
-   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">Bulk Lead Import</a></td>
+   <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">Bulk Lead Import</a></td>
   </tr>
   </tbody>
 </table>

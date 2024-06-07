@@ -79,4 +79,4 @@ To add CSS code to the script:
 >
 >* [Edit the CSS of a Form Theme](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Show Thank You Message Without a Follow-Up Landing Page](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

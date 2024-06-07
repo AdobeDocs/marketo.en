@@ -43,13 +43,13 @@ To use this feature, the email program must be scheduled at least 12 hours in ad
 
 ## [Mobile Marketing Enhancements](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap Support:** We now offer PhoneGap support for your mobile app. [Learn more](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**PhoneGap Support:** We now offer PhoneGap support for your mobile app. [Learn more](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
 
 **Support for Sandbox Apps**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [Program API](https://developers.marketo.com/documentation/programs/) {#program-api}
+## [Program API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
 
 Create, update, and clone programs via the REST API. This does not include the creation or updating of smart lists and smart campaigns within a program.
 

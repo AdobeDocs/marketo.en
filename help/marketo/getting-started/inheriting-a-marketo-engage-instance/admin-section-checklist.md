@@ -275,7 +275,7 @@ The checklists below (subsequent checklists linked to at the bottom of each arti
    <td>Munchkin</td> 
    <td><li>Is your <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin tracking code</a> on your website (not a Marketo Engage Landing Page)?</li>
 <li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Do Not Track</a> Browser Request enabled?</li>
-<li>Is your <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> configured? 
+<li>Is your <a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/javascriptapi/lead-tracking.html" target="_blank">Munchkin API</a> configured? 
 <p><img src="assets/tip-icon.png" alt="tip icon">TIP: If you're missing documentation on where the munchkin code is on your website, you can view all URLs by creating a <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Web Page Activity Report</a>.</li></td>
   </tr>
   <tr> 
