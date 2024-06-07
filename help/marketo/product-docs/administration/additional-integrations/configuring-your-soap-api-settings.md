@@ -9,7 +9,7 @@ feature: Administration
 
 >[!NOTE]
 >
->We suggest using the REST API. Learn more on [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+>We suggest using the REST API. Learn more on [developer.adobe.com](https://developer.adobe.com/marketo-apis/).
 
 >[!NOTE]
 >
@@ -33,4 +33,4 @@ feature: Administration
 
 >[!MORELIKETHIS]
 >
->[SOAP API Documentation](https://developers.marketo.com/documentation/soap/)
+>[SOAP API Documentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)

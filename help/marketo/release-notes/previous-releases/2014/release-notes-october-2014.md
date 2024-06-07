@@ -24,7 +24,7 @@ Use the API to pull new activities or changes to leads:
 * Get Activity Types
 * Get Paging Token
 
-Full details will be available after the release at [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+Full details will be available after the release at [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## MSI - Send Marketo Email for Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -64,4 +64,4 @@ Use a new call that tracks visitor's past visit history. Personalize campaigns b
 * Products interested in
 * What RTP campaigns they have seen
 
-Visit [developers.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/) for full details.
+Visit [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) for full details.

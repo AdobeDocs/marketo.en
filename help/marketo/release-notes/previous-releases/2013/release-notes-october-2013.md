@@ -15,7 +15,7 @@ The following features are included in the October 2013 release.
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.com](https://developers.marketo.com) is for developers who want to build integrations into Marketo. You can reference different integration options, including Munchkin JavaScript APIs, SOAP API code examples, Webhooks and email scripting. A Java SDK is also available on [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) is for developers who want to build integrations into Marketo. You can reference different integration options, including Munchkin JavaScript APIs, SOAP API code examples, Webhooks and email scripting. A Java SDK is also available on [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## Updated BrightTALK Event Adapter {#updated-brighttalk-event-adapter}
 

@@ -53,7 +53,7 @@ Marketo's custom JavaScript tracking code, called [!DNL Munchkin], tracks all in
 
    >[!TIP]
    >
-   >For sites that see a high volume of traffic (i.e., hundreds of thousands of visits per month), we recommend you opt not to track anonymous people. [Learn more](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"}.
+   >For sites that see a high volume of traffic (i.e., hundreds of thousands of visits per month), we recommend you opt not to track anonymous people. [Learn more](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking/){target="_blank"}.
 
 ## Add Tracking Code When Using Multiple Workspaces {#add-tracking-code-when-using-multiple-workspaces}
 

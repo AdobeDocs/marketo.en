@@ -11,7 +11,7 @@ feature: Web Personalization
 
 ![](assets/image2014-11-11-20-3a24-3a5.png)
 
-The Segments tab displays all of the custom defined segments that you set up based on various attributes.  **A segment is a collection of visitors that meet the specified criteria defined in the ‘Set a Segment’ page.**  A segment can be visitors from a specific industry, location or based on the visitor's onsite activity.
+The Segments tab displays all of the custom defined segments that you set up based on various attributes.  **A segment is a collection of visitors that meet the specified criteria defined in the 'Set a Segment' page.**  A segment can be visitors from a specific industry, location or based on the visitor's onsite activity.
 
 In Web Personalization, a visitor can match more than one segment. For example, if there is a segment for USA visitors and a segment for finance companies, a web visitor from Bank of America would match **both** the segment for USA visitor and the segment for finance companies.
 
@@ -143,7 +143,7 @@ Once the country is added, you can specify the state, city and zip code of the s
 
 >[!TIP]
 >
->**What segment conditions do I choose? ‘AND’ or ‘OR’?** OR functions as an additional option within each field. Prospects need only fulfill one criteria of the multiple criteria selected within each field in order to qualify for the segment. (For example, prospects can either be from the U,S. *or* from the Defense industry). AND functions as an additional mandatory parameter which must be met for this segment. (For example, prospects must both be from the U.S. and from the Defense industry). Within each segmentation profile, each separate field can function as both, either an “AND” or “OR” depending on the Segment Condition selected.
+>**What segment conditions do I choose? 'AND' or 'OR'?** OR functions as an additional option within each field. Prospects need only fulfill one criteria of the multiple criteria selected within each field in order to qualify for the segment. (For example, prospects can either be from the U,S. *or* from the Defense industry). AND functions as an additional mandatory parameter which must be met for this segment. (For example, prospects must both be from the U.S. and from the Defense industry). Within each segmentation profile, each separate field can function as both, either an "AND" or "OR" depending on the Segment Condition selected.
 
 **Industries** Under the **Profile Segmentation** section, check the box next to **Industry**.
 
@@ -181,7 +181,7 @@ Select from a [Named Account List](/help/marketo/product-docs/web-personalizatio
 
 >[!NOTE]
 >
->The number in the brackets next to the Named Account List name is used as an index reference for the list for Web Personalization [Read API](https://developers.marketo.com/documentation/websites/rtp-js-api/).
+>The number in the brackets next to the Named Account List name is used as an index reference for the list for Web Personalization [Read API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Exclude ISP**
 
@@ -211,7 +211,7 @@ You can add or remove person data fields from Account Settings > Database
 
 **Status**
 
-Define your segment according to a prospect’s status: known or anonymous.
+Define your segment according to a prospect's status: known or anonymous.
 
 * Known - Select this option from the drop-down box for known visitors. A visitor is known when they submit a form on your website and appear in the Web Personalization People page.
 * Anonymous - Select this option from the drop-down box for anonymous visitors.
@@ -230,7 +230,7 @@ Define your segment according to a prospect’s status: known or anonymous.
 
     * In the text box to the right, enter the visitor number you wish to track. The unique Web Personalization visitor identification number can be found when clicking on a visitor (in the visitors page) and the Set Campaign on the right side panel. The Visitor ID is located in the Advanced Settings section. The visitor ID can also be found in the URL (e.g. VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
-**Search Terms** - Define a segment according to a prospect’s search terms.
+**Search Terms** - Define a segment according to a prospect's search terms.
 
 * The visitor searched for - From the drop-down list, select the terms you want to track from your visitors search, or add your own search terms. (There is no need for the &#42; wildcard on search terms as it is set as default to include phrases that contain the search term).
 
@@ -280,11 +280,11 @@ Add the Event value you want to target. E.g. from third party data sources.
 
 **User Context API**
 
-Web Personalization API call  [read more about it here.](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Web Personalization API call  [read more about it here.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
->**Using Wildcards -** When you would like to include any search term or URL that contains something within it i.e. “[google.com](https://google.com)” or “search term product”, we call this a wildcard and it should be inputted with an asterisk - this little guy&#42; - on each end. So anything coming from [google.com](https://google.com) should be inputted as &#42; [google.com](https://google.com)&#42;
+>**Using Wildcards -** When you would like to include any search term or URL that contains something within it i.e. "[google.com](https://google.com)" or "search term product", we call this a wildcard and it should be inputted with an asterisk - this little guy&#42; - on each end. So anything coming from [google.com](https://google.com) should be inputted as &#42; [google.com](https://google.com)&#42;
 
 ## Edit Segments {#edit-segments}
 

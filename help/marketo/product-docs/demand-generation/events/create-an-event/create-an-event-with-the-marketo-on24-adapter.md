@@ -16,7 +16,7 @@ You should be familiar with the building blocks and the recommended sequence for
 
 >[!NOTE]
 >
->Please refer to the [Marketo API documentation](https://developers.marketo.com/documentation/rest/){target="_blank"} for more information on Marketo APIs.
+>Please refer to the [Marketo API documentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} for more information on Marketo APIs.
 
 ## Prerequisites {#prerequisites}
 

@@ -11,7 +11,7 @@ The following features are included in the March 2015 release. Please check your
 
 ## Calendar HD {#calendar-hd}
 
-Display your team’s marketing actives with the calendar’s new presentation mode. These are great for TVs or giant monitors around the office! Set and displays goals based on a smart list or custom metrics.
+Display your team's marketing actives with the calendar's new presentation mode. These are great for TVs or giant monitors around the office! Set and displays goals based on a smart list or custom metrics.
 
 >[!NOTE]
 >
@@ -31,9 +31,9 @@ Revenue Explorer has a brand new look and feel, as well as the new Sunburst char
 
 ## New Asset REST APIs {#new-asset-rest-apis}
 
-[New Asset REST APIs](https://developers.marketo.com/)
+[New Asset REST APIs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-We now have support for creating and editing emails, templates, my tokens, files, and snippets [via the API](https://developers.marketo.com/documentation/asset-api)!
+We now have support for creating and editing emails, templates, my tokens, files, and snippets [via the API](https://developer.adobe.com/marketo-apis/api/asset/)!
 
 ## Microsoft Dynamics 2015 On Premise {#microsoft-dynamics-on-premise}
 
@@ -47,4 +47,4 @@ Leverage the [lead data fields](/help/marketo/product-docs/web-personalization/u
 
 ## RTP - Personalize Web Content by Email or Program Campaign Name {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-Continue the conversation with your lead across channels from email to web. [Personalize inbound content based on email campaign or program](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) name used in Marketo’s Marketing Activities.
+Continue the conversation with your lead across channels from email to web. [Personalize inbound content based on email campaign or program](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) name used in Marketo's Marketing Activities.

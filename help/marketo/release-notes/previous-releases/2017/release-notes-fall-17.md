@@ -31,7 +31,7 @@ With this new feature, you can now hold and deliver email according to local tim
 
 >[!NOTE]
 >
->If you can't enable Recipient Time Zone on your email and engagement programs yet, don’t panic! We’re gradually enabling this feature to all customers.
+>If you can't enable Recipient Time Zone on your email and engagement programs yet, don't panic! We're gradually enabling this feature to all customers.
 
 ## [Review Sample Emails by Segment](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
@@ -80,10 +80,10 @@ Save time by re-using creative assets and images across multiple channels within
 
 ## Integration  {#integration}
 
-**[Email Preview API](https://developers.marketo.com/rest-api/assets/emails/)**
+**[Email Preview API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 You can now remotely preview email outside of Marketo, simplifying the process of email content localization and reducing errors.
 
-**[Replace HTML API](https://developers.marketo.com/rest-api/assets/emails/)**
+**[Replace HTML API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Developers can update HTML content of email assets remotely, allowing them to work within a single system to maintain assets.

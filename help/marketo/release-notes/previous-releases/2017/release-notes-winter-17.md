@@ -21,7 +21,7 @@ Basic Matching uses email addresses only, but new Advanced Matching uses an addi
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [Custom Object Import API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [Custom Object Import API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Custom-Objects) {#custom-object-import-api}
 
 This API provides a faster interface to synchronize custom objects into Marketo. You can import CSV, TSV, or SSV spreadsheet files into Marketo as custom objects.
 
@@ -75,7 +75,7 @@ There's an improved editing experience and layout that splits content preparatio
 
 Image URL and metadata are now used in the content auto-discovery process.
 
-## [SDK Enhancements](https://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [SDK Enhancements](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 Developers now have additional control over the delivery of Push Notifications with the addition of a new SDK API call that allows developers to remove push tokens.
 

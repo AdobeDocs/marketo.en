@@ -63,6 +63,6 @@ And that's it! Now when people fill out this form and select United States for C
 
 >[!IMPORTANT]
 >
->Form field behavior will work seamlessly when field values are set/updated through custom script using [API functions](https://developers.marketo.com/javascript-api/forms/){target="_blank"} in Forms 2.0.
+>Form field behavior will work seamlessly when field values are set/updated through custom script using [API functions](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0.
 >
 >Conditional fields may not work as expected if field values are modified by external scripts other than the Forms 2.0 JavaScript API.

@@ -54,7 +54,7 @@ Person information is categorized into the following tabs:
 
 >[!NOTE]
 >
->You can also see Opportunity info [inserted via API](https://developers.marketo.com/rest-api/lead-database/opportunities/) for instances that are not synced with a CRM.
+>You can also see Opportunity info [inserted via API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) for instances that are not synced with a CRM.
 
 ## Editing a Field {#editing-a-field}
 

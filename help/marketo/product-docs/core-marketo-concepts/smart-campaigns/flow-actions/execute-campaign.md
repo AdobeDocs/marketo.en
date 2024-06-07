@@ -54,7 +54,7 @@ When set to true, the following token contexts will be sent into the child campa
 
 **API Interaction**
 
-When using Schedule or Request Campaign [in the API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch), both let you pass values for My Tokens, which overrides the values set for those tokens in the campaign you're calling. If that Campaign then executes another campaign and sets "Use Parent Context to True," it will use the values passed through the API, rather than the values which are set in the application.
+When using Schedule or Request Campaign [in the API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), both let you pass values for My Tokens, which overrides the values set for those tokens in the campaign you're calling. If that Campaign then executes another campaign and sets "Use Parent Context to True," it will use the values passed through the API, rather than the values which are set in the application.
 
 ## Things to Note {#things-to-note}
 

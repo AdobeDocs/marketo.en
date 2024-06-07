@@ -20,7 +20,7 @@ It's quick and easy to send samples of an email. To send a dynamic content email
 
    >[!NOTE]
    >
-   >My Tokens resolves to the value appropriate to the email’s program.
+   >My Tokens resolves to the value appropriate to the email's program.
 
 1. Enter one or multiple email addresses for delivery. For multiple email addresses, use commas to separate them. Click **Send** when done.
 
@@ -50,7 +50,7 @@ It's quick and easy to send samples of an email. To send a dynamic content email
 
    >[!NOTE]
    >
-   >The trigger field is only applicable for those utilizing [email scripting](https://developers.marketo.com/documentation/velocity-script/).
+   >The trigger field is only applicable for those utilizing [email scripting](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Send a Sample Email Based on a Segment {#send-a-sample-email-based-on-a-segment}
 

@@ -97,7 +97,7 @@ Mobile App Is/Was Opened
 
 Has/Had Mobile App Activity
 
-These provide a powerful way to track custom mobile activity. You'll need to work with your developer to set up tracking [for Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android){target="_blank"} and [for iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios){target="_blank"}.
+These provide a powerful way to track custom mobile activity. You'll need to work with your developer to set up tracking [for Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} and [for iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Has Mobile App Activity - trigger
 

@@ -49,4 +49,4 @@ Use [!DNL Webhooks] to take advantage of third-party web services to send text m
 
 >[!NOTE]
 >
->Learn more in the [[!DNL Webhooks]](https://developers.marketo.com/documentation/webhooks/){target="_blank"} deep dive.
+>Learn more in the [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} deep dive.

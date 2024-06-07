@@ -57,7 +57,7 @@ This example shows a Car custom object, for use in a one-to-many structure. Late
 
    >[!NOTE]
    >
-   >You can only populate Marketo Custom Objects via a list import, or the [API](https://developers.marketo.com/documentation/rest/).
+   >You can only populate Marketo Custom Objects via a list import, or the [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Create a Custom Object for a Many-to-Many Structure {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -97,7 +97,7 @@ This example shows a course custom object, which you'll use for creating a many-
 
    >[!NOTE]
    >
-   >You can only populate Marketo Custom Objects via a list import, or the [API](https://developers.marketo.com/documentation/rest/).
+   >You can only populate Marketo Custom Objects via a list import, or the [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 The next step is for you create your intermediary object (see below). But before that, you need to create a field to link to with it.
 

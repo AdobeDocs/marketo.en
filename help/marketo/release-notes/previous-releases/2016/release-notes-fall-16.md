@@ -47,7 +47,7 @@ Now, you can assign account teams to named accounts in Account Based Marketing (
 
 **REST API**
 
-This release also enables you to manage named account attributes and accounts scores in ABM using the Marketo REST API. For more details on the API operations, please visit the [Marketo Developers website](https://developers.marketo.com/rest-api/lead-database/named-accounts).
+This release also enables you to manage named account attributes and accounts scores in ABM using the Marketo REST API. For more details on the API operations, please visit the [Marketo Developers website](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
 
 ## [Audit Trail Enhancements](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -78,11 +78,11 @@ Give your iOS Push Notification added richness by enabling sound. This new featu
 
 Market Sales Insight is now compatible with Salesforce Shield Encryption. All Sales Insight customers should upgrade to this latest managed package (version 1.4359.2), which is [available on the Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [Named Accounts APIs](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## [Named Accounts APIs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 
 With this release, Marketo ABM users can manage named accounts via the Named Accounts API. Users can create, update, and delete named accounts, as well as read and update ABM named account scores.
 
-## [Email Editor v2.0 API Support](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## [Email Editor v2.0 API Support](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
 
 Manage variables and modules for emails in v2.0 format using the Marketo REST API.
 
