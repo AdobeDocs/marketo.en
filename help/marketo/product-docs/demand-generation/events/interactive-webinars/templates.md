@@ -19,7 +19,7 @@ SCREENSHOT
 
 SCREENSHOT
 
-1. Click [!UICONTROL Manage Templates].
+1. Click **[!UICONTROL Manage Templates]**.
 
 SCREENSHOT
 
