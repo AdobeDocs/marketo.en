@@ -7,7 +7,7 @@ feature: Interactive Webinars
 ---
 # Templates for Interactive Webinars {#templates-for-interactive-webinars}
 
-Text
+Create easy-to-use templates in Interactive Webinars to produce content faster and/or stay in line with brand guidelines when working on a team.
 
 ## Create a Template {#create-a-template}
 
