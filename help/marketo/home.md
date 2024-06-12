@@ -10,8 +10,8 @@ exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
 ## Getting Started
 
 * [Setup Steps](/help/marketo/getting-started/initial-setup/setup-steps.md)
-* [Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 * [Configure Protocols for Marketo Engage](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md)
+* [Get Set Up and Add a Person](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 * [Marketo Engage Glossary](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md)
 
 ## Popular Articles
@@ -22,8 +22,10 @@ exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
 
 * [Understanding Smart Campaigns](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 
-* [Adobe Marketo Engage Next Gen UX Experience Overview](/help/marketo/product-docs/marketo-engage-modern-ux/overview.md)
+* [Adobe Dynamic Chat Overview](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
 
 ## Release Notes
 
 * [Current Release](/help/marketo/release-notes/current.md)
+
+* [Dynamic Chat Release Notes](/help/marketo/release-notes/dynamic-chat.md)
