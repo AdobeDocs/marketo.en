@@ -13,6 +13,12 @@ Interesting moments are the key to communicating with your sales team through Ma
 >
 >These are available to [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) and Marketo Sales Connect customers only.
 
+>[!PREREQUISITES]
+>
+>* You must have a [connection to the Salesforce CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}
+>* You must be the lead or contact owner in Salesforce
+>* You must have access to [grant access to the Marketo Engage connection](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}
+
 ## What is an interesting moment? {#what-is-an-interesting-moment}
 
 That's up to you! You decide what information is relevant to your sales team. Your sales team might want to know when a lead:
