@@ -663,6 +663,7 @@ feature-set: Marketo Engage
         + [Security Settings](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
         + [Routing](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
         + [Callback Functions](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
+        + [Usage Limits](product-docs/demand-generation/dynamic-chat/setup-and-configuration/usage-limits.md)
       + Automated Chat {#automated-chat}
         + [Conversational Flow Overview](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
         + [Create a Conversational Flow](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)
