@@ -62,6 +62,10 @@ The Stream Designer contains multiple cards you can add to shape the chat conver
   <td style="width:25%"><strong>Conditional branching</strong></td>
   <td>Create branches in your Dialogue flows based on different conditions. Present different content to different people in the same Dialogue based off of lead and company attributes in Marketo Engage.</td>
  </tr>
+ <tr>
+  <td style="width:25%"><strong>Conversational Flow</strong></td>
+  <td>Streamline multiple steps in a flow within your Dialogues by using the Conversational Flow card.</td>
+ </tr>
 </table>
 
 ## Stream Designer Icons {#stream-designer-icons}

@@ -10,6 +10,26 @@ Adobe Dynamic Chat releases operate on a continuous delivery model which allows 
 
 The standard Release Notes page for Marketo Engage [can be found here](/help/marketo/release-notes/current.md){target="_blank"}.
 
+## June 2024 Release {#june-release}
+
+**Release date: June 6, 2024**
+
+### Conversational Flow Card {#conversational-flow-card}
+
+Streamline multiple steps in a flow within your Dialogues by leveraging the Conversational Flow card.
+
+Example: If your goal is to drive registrations for your webinar via multiple Dialogues, you'd have to recreate the same flow across all the Dialogues that have that goal. And if you have to update any detail, you'd have to edit each individual Dialogue one at a time. That is no longer the case, thanks to the Conversational Flow card.
+
+In addition to repurposing flows across multiple Dialogues, you can also use the same transition flow to trigger through other channels, like forms and Landing Pages.
+
+![](assets/dynamic-chat-june-2024-release-1.png)
+
+### Usage Limits {#usage-limits}
+
+The Usage limits page shows you important information, such as package details and your usage limit status.
+
+![](assets/dynamic-chat-june-2024-release-2.png)
+
 ## May 2024 Release {#may-release}
 
 **Release date: May 15, 2024**
