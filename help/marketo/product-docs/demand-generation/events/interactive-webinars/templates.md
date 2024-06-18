@@ -2,6 +2,7 @@
 description: Learn how to create and implement templates in Interactive Webinars.
 title: Templates for Interactive Webinars
 feature: Interactive Webinars
+exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
 ---
 # Templates for Interactive Webinars {#templates-for-interactive-webinars}
 
