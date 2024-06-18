@@ -1,8 +1,8 @@
 ---
-unique-page-id: 7515616
 description: Guided Landing Page Template List - Marketo Docs - Product Documentation
 title: Guided Landing Page Template List
-exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
+hide: yes
+hidefromtoc: yes
 feature: Landing Pages, Guided Landing Page Templates
 ---
 # Guided Landing Page Template List {#guided-landing-page-template-list}
@@ -194,6 +194,7 @@ To import a template into Marketo:
 <td><img src="assets/10e.jpg"></td>
 </tr>
 </table>
+
 <table>
 <tr>
 <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10f.md">Template 10F</a></td>
