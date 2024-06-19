@@ -15,7 +15,7 @@ The Revenue Explorer report allows you to track the ROI on your marketing initia
 
 >[!IMPORTANT]
 >
->The Trash folder in Revenue Cycle Explorer has been temporarily hidden due to a bug. We are currently working on a fix, and your files are safe. Please contact [Adobe Support](https://nation.marketo.com/t5/support/ct-p/Support) if there are any files you need restored.
+>The Trash folder in Revenue Cycle Explorer has been temporarily hidden due to a technical issue. We are currently working on a fix, and your files are safe. Please contact [Adobe Support](https://nation.marketo.com/t5/support/ct-p/Support) if there are any files you need restored.
 
 1. Go to the **Revenue Explorer** area.
 
