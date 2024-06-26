@@ -9,6 +9,10 @@ feature: Mobile Marketing
 
 Click the text area to work on your text style and content.
 
+>[!CAUTION]
+>
+>We recommend not using emojis in your text as they are not fully supported at this time.
+
 1. Click the Main Text to edit inline.
 
    ![](assets/image2016-5-6-9-3a56-3a56.png)

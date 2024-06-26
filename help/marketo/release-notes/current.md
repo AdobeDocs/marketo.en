@@ -4,7 +4,7 @@ title: Current Release Notes
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 ---
-# Release Notes: June 2024 {#release-notes-june-24}
+# Release Notes: July 2024 {#release-notes-july-24}
 
 Below you'll find all the features included in the June '24 release. Check your Adobe Marketo Engage edition for feature availability.
 
@@ -16,7 +16,7 @@ The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/
 
 ## Standard Release Cycle Features {#standard-release-cycle-features}
 
-The following features fall under the standard release cycle and will start to be released on **June 7, 2024**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
+The following features fall under the standard release cycle and will start to be released on **July 26, 2024**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -26,25 +26,18 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documention</th>
   </tr>
      <tr> 
-   <td><strong>Templates for Interactive Webinars</strong>: Marketers now have the ability to create custom templates for room layouts in Interactive Webinars.</td> 
-   <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">Templates</a></td>
-  </tr>
-  <tr> 
-   <td>&nbsp;</td> 
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  </tr>
-     <tr> 
-   <td><strong>Inferred Fields in Forms</strong>: The data source used to populate inferred fields when a person is created via form-fill with no prior web activity has been updated to use the same data source as other person-collection methods. Inferred field data is now consistent across all collection points.</td> 
-   <td>Shipped</td>
-   <td>n/a</td>
+   <td><strong>Marketo REST API Change</strong>: We are introducing a minor change to the <a href="https://developers.marketo.com/rest-api/user-management/">User Management API</a>. Both the <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Browse Users</a> and <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Delete User</a> endpoints now support <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Target Account Management</a> users.</td> 
+   <td><i>coming soon</i></td>
+   <td><i>coming soon</i></td>
   </tr>
  </tbody> 
 </table>
 <br/>
 
 ## Announcements {#announcements}
+
+* **New Developer Documentation Site**: As part of our continued effort to enhance the Marketo Engage user experience, we will be migrating all developer documentation to the Adobe Experience League and the Adobe Developer website in July 2024. [Learn more](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
+
+* **Access Token in Query Parameter Deprecation**: Support for authentication using access tokens in a query parameter of a Marketo Engage REST API call will be removed in a future release (specific date TBD). Existing integrations should migrate to usage of the Authorization header [described here](https://developers.marketo.com/rest-api/authentication/){target="_blank"}. New development should only use the Authorization header for authentication with Marketo Engage.
 
 * **LinkedIn Re-authentication Required**: LinkedIn is upgrading their Marketing APIs used by Marketo Engage LinkedIn integrations. These changes will require re-authentication of all LinkedIn LaunchPoint services in your **Admin** > **LaunchPoint** menu between July 26 and December 15, 2024, to avoid service interruption. You can find instructions on how to accomplish this [here for Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} and [here for Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Lead Gen Form service has a type of "LinkedIn Lead Gen" and Matched Audience service has type of "LinkedIn Matched Audiences." For more information, please see the [Migration FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
