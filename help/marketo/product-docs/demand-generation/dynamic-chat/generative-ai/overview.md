@@ -70,7 +70,7 @@ Discussed Topics is available in Smart List triggers and filters as a constraint
 
 **Is generative AI available to all Dynamic Chat users?**
 
-Generative AI is only available to Dynamic Chat Prime subscribers.
+Generative AI is only available to Dynamic Chat Prime subscribers. Please contact the Adobe Account Team (your Account Manager) for details.
 
 **Is there a limit to the amount of questions & answers I can have generated?**
 

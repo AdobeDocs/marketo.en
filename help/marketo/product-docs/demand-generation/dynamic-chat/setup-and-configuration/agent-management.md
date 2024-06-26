@@ -24,6 +24,10 @@ This tab lists all of the agents in your Dynamic Chat instance, and includes suc
 
 Admins can create teams of agents to facilitate ease of routing to specific groups of sales agents.
 
+>[!AVAILABILITY]
+>
+>Access to Teams requires a Dynamic Chat Prime subscription. Please contact the Adobe Account Team (your Account Manager) for details.
+
    ![](assets/agent-management-3.png)
 
 ### Create a Team {#create-a-team}
