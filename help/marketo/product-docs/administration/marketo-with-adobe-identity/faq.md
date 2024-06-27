@@ -20,6 +20,16 @@ Adobe Identity Management System consists of three components.
 
 Existing Marketo subscriptions will be migrated to the Adobe Identity Management System later this year. Marketo Support will not be able to provide any updates regarding Adobe IMS migration. The Adobe Account Team will reach out with the estimated timeline in the coming months.
 
+**After migration, will Marketo Engage URLs remain the same?**
+
+No. URLs will look different after migration. The ID numbers of your assets remain the same, however. And previously saved bookmarks should still take you to the correct location.
+
+**Is there anything we need to do to prepare for the URL change?**
+
+Yes. Talk to your IT team and make sure they add the domain below (including the asterisk) to allow all Marketo Engage resources and websockets:
+
+_*.experience.adobe.com_
+
 **What's the difference between an Adobe Product Admin and a Marketo Engage Admin?**
 
 * Adobe Product Admin is a new role in the Marketo platform.

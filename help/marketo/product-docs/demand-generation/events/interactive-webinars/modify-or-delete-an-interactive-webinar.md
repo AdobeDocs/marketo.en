@@ -6,7 +6,7 @@ feature: Interactive Webinars
 ---
 # Modify or Delete an Interactive Webinar {#modify-or-delete-an-interactive-webinar}
 
-Laern how to make changes to your Interactive Webinar.
+Learn how to make changes to your Interactive Webinar.
 
 ## Modify an Interactive Webinar {#modify-an-interactive-webinar}
 
