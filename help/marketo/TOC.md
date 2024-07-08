@@ -189,7 +189,7 @@ feature-set: Marketo Engage
       + Subscription and User Migration {#subscription-and-user-migration}
         + [Migrating to Adobe Identity](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
         + [Understanding Marketo Subscription and User Migration to the Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
-        + [Marketo Engage Support Migration](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/marketo-engage-support-migration.md)
+        + [Marketo Engage Support Migration](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
     + Settings {#settings}
       + [Bulk Export API Information](product-docs/administration/settings/bulk-export-api-information.md)
       + [Campaign Inspector](product-docs/administration/settings/campaign-inspector.md)
