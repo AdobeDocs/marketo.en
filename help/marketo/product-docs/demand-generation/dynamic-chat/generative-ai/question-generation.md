@@ -26,6 +26,10 @@ See all of your tasks and their pertinent details, such as when they were genera
    >
    >To ensure Marketo Engage can scrape content from the provided URLs, you must first allowlist several IP addresses. [See below for details](#ip-addresses-to-allowlist).
 
+   >[!NOTE]
+   >
+   >Sites/pages must be public (i.e., not hidden behind a login) in order for their information to be scraped.
+
 1. Based on your content, the question and response generation can take up to 30 minutes. Click **[!UICONTROL OK]**.
 
    ![](assets/question-generation-4.png)
