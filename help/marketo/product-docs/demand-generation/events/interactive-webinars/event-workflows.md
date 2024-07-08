@@ -6,7 +6,7 @@ feature: Interactive Webinars
 ---
 # Event Workflows {#event-workflows}
 
-After your webinar is completed, go to the Dashboard tab to see the aggregated performance. 
+After your webinar is completed, go to the Dashboard tab to see the aggregated performance.
 
    ![](assets/event-workflows-1.png)
 
@@ -39,6 +39,7 @@ Go to the Overview tab to view the recorded webinar, get the link to share it, e
 >[!NOTE]
 >
 >* Interactive Webinars are not recorded automatically. After your webinar begins, click the drop-down next to the name of the webinar and select **Record Session**.
+>* If the session is recorded, the host needs to manually end the recording or select "End session for all" to stop recording. Otherwise, the recording will automatically stop within 10 minutes of the last attendee leaving the room.
 >* The recording is downloaded in MP4 format.
 >* When sharing the recording it will be viewable by anyone who has the link, so make sure it's shared with the intended audience.
 
