@@ -6,7 +6,7 @@ feature: Release Information
 ---
 # Release Notes: July 2024 {#release-notes-july-24}
 
-Below you'll find all the features included in the June '24 release. Check your Adobe Marketo Engage edition for feature availability.
+Below you'll find all the features included in the July '24 release. Check your Adobe Marketo Engage edition for feature availability.
 
 The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
