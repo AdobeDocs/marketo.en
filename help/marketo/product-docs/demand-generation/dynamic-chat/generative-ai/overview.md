@@ -6,7 +6,7 @@ exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
 ---
 # Generative AI Overview {#generative-ai-overview}
 
-Generative AI in Adobe Dynamic Chat processes intent signals, user preferences, and past behavior in real time to generate relevant, personalized messages for chat visitors.
+Generative AI powered capabilities in Adobe Dynamic Chat allow you to optimize productivity for your sales agents, get insights into your website visitor intent, and respond to visitor questions in a safe manner.
 
 ## Permissions {#permissions}
 
