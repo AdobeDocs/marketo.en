@@ -1,5 +1,6 @@
 ---
 description: Before you dive into your new Marketo Engage instance, you'll need to complete a few foundational steps for ongoing use. These steps include user account setup, support admin setup, and subscribing to ongoing system updates.
+short-description: After completing the initial setup steps, learn how to establish foundational elements to ensure smooth ongoing usage.
 title: User Setup Checklist
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e

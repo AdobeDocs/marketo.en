@@ -1,5 +1,6 @@
 ---
 description: Setup Steps - Marketo Docs - Product Documentation
+short-description: Just getting started with Adobe Marketo Engage? Learn what steps you need to complete before diving in.
 title: Setup Steps
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
