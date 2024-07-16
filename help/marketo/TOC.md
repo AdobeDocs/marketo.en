@@ -286,7 +286,7 @@ feature-set: Marketo Engage
         + [Append Data to a Field](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
         + [Call Webhook](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)
         + [Change Data Value](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
-        + [Clear Field Values](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md)
+        + [Clear Field Values](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/clear-field-values.md)
         + [Change Person Partition](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-person-partition.md)
         + [Change Revenue Stage](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-revenue-stage.md)
         + [Change Score](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.md)

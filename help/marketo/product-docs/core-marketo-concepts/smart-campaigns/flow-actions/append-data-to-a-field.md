@@ -19,18 +19,18 @@ There's an easy way to append data to a field. Here's how.
 
 1. Under the **[!UICONTROL Flow]** tab, drag in the **[!UICONTROL Change Data Value]** flow step.
 
-   ![](assets/image2014-9-22-16-3a5-3a1.png)
+   ![](assets/append-data-to-a-field-1.png)
 
 1. Find and select the field you want to append data to.
 
-   ![](assets/image2014-9-22-16-3a5-3a5.png)
+   ![](assets/append-data-to-a-field-2.png)
 
 1. Find and select the token for the same field you want to append data to.
 
-   ![](assets/image2014-9-22-16-3a5-3a9.png)
+   ![](assets/append-data-to-a-field-3.png)
 
 1. Now add the value you want to append to what already exists in the field.
 
-   ![](assets/image2014-9-22-16-3a5-3a12.png)
+   ![](assets/append-data-to-a-field-4.png)
 
 That's it! You can get creative and add multiple tokens in there.

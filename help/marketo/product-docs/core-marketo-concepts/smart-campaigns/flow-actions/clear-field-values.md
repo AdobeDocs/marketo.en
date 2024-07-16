@@ -11,11 +11,11 @@ feature: Smart Campaigns
 
 1. In the flow step, choose the field you would like to clear and type in **NULL** (all caps) as the **New Value**.
 
-   ![](assets/image2015-3-19-10-3a6-3a14.png)
+   ![](assets/clear-field-values-1.png)
 
 1. Boom! I bet you didn't know that! After the flow step finishes, the value of the field you chose is cleared.
 
-   ![](assets/image2015-3-19-10-3a11-3a9.png)
+   ![](assets/clear-field-values-2.png)
 
    >[!CAUTION]
    >

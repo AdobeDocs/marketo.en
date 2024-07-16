@@ -15,7 +15,7 @@ feature: Smart Campaigns
 
 Webhooks let you interact with third party services. Send/receive information by calling a webhook in a smart campaign flow.
 
-![](assets/image2014-9-22-15-3a4-3a7.png)
+![](assets/call-webhook-1.png)
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Webhooks let you interact with third party services. Send/receive information by
 
 Select a Webhook from the drop-down.
 
-![](assets/image2014-9-22-15-3a4-3a25.png)
+![](assets/call-webhook-2.png)
 
 That's all! Your webhook will now be invoked whenever people enter the smart campaign flow.
 
