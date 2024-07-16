@@ -21,16 +21,16 @@ To use a [webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/
 
 1. Go to the **[!UICONTROL Flow]** tab and drag in the **[!UICONTROL Call Webhook]** flow action.
 
-   ![](assets/image2014-9-22-15-3a8-3a2.png)
+   ![](assets/use-a-webhook-in-a-smart-campaign-1.png)
 
 1. Select the Webhook.
 
-   ![](assets/image2014-9-22-15-3a8-3a5.png)
+   ![](assets/use-a-webhook-in-a-smart-campaign-2.png)
 
 1. You can also use Webhooks in a Smart List.
 
-   ![](assets/2017-05-02-10-54-38.png)
+   ![](assets/use-a-webhook-in-a-smart-campaign-3.png)
 
 1. Finally, you can use Webhooks in **[!UICONTROL Add Choice]** in a flow step.
 
-   ![](assets/image2014-9-22-15-3a8-3a13.png)
+   ![](assets/use-a-webhook-in-a-smart-campaign-4.png)

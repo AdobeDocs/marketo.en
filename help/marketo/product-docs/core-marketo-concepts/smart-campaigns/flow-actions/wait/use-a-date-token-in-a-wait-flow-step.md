@@ -15,15 +15,15 @@ You can use the Wait flow step to pause a person's journey through a Smart Campa
 
 1. In your Smart Campaign **[!UICONTROL Flow]** tab, drag over the **[!UICONTROL Wait]** flow step.
 
-   ![](assets/image2014-9-22-14-3a8-3a22.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-1.png)
 
 1. Click the gear icon.
 
-   ![](assets/image2014-9-22-14-3a8-3a37.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-2.png)
 
 1. From the **[!UICONTROL Type]** drop-down, select **[!UICONTROL Date Token]**.
 
-   ![](assets/image2014-9-22-14-3a8-3a41.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-3.png)
 
 1. Choose a Date token to specify when the Wait step should end:
 
@@ -32,11 +32,11 @@ You can use the Wait flow step to pause a person's journey through a Smart Campa
     * `{{company.______}}`
     * `{{system._______}}`
 
-   ![](assets/image2014-9-22-14-3a9-3a33.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-4.png)
 
 1. To wait until the next anniversary of the date occurring in the current or next calendar year, check the box.
 
-   ![](assets/image2014-9-22-14-3a9-3a37.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-5.png)
 
    >[!TIP]
    >
@@ -44,7 +44,7 @@ You can use the Wait flow step to pause a person's journey through a Smart Campa
 
 1. Optionally, you can modify the end date by a specified number of days.
 
-   ![](assets/image2014-9-22-14-3a9-3a57.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-6.png)
 
    >[!NOTE]
    >
@@ -52,7 +52,7 @@ You can use the Wait flow step to pause a person's journey through a Smart Campa
 
 1. Click **[!UICONTROL Save]**.
 
-   ![](assets/image2014-9-22-14-3a11-3a3.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-7.png)
 
    >[!MORELIKETHIS]
    >

@@ -7,19 +7,15 @@ feature: Smart Campaigns
 ---
 # Send Email {#send-email}
 
-## Overview {#overview}
-
 The "[!UICONTROL Send Email]" flow step can be used as part of campaigns or as a single flow step to send emails to your people.
 
-![](assets/image2014-9-22-10-3a8-3a11.png)
-
-## Usage {#usage}
+![](assets/send-email-1.png)
 
 You can preview the selected email right from the flow step.
 
 1. Find and select the email you want to send.
 
-   ![](assets/image2014-9-22-10-3a8-3a15.png)
+   ![](assets/send-email-2.png)
 
    >[!NOTE]
    >
@@ -27,6 +23,6 @@ You can preview the selected email right from the flow step.
 
 1. Click on the preview icon to see the currently selected email.
 
-   ![](assets/image2014-9-22-10-3a8-3a22.png)
+   ![](assets/send-email-3.png)
 
-A new tab/window will open where you can see the email.
+A new tab/window opens where you can see the email.

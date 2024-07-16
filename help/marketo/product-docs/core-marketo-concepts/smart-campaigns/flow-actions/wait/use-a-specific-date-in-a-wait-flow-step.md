@@ -11,23 +11,23 @@ You can use the "[!UICONTROL Wait]" flow step to pause a person's journey throug
 
 1. In your Smart Campaign **[!UICONTROL Flow]** tab, drag over the **[!UICONTROL Wait]** flow step.
 
-   ![](assets/image2014-9-22-11-3a50-3a55.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-1.png)
 
 1. Click the gear icon.
 
-   ![](assets/image2014-9-22-11-3a50-3a59.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-2.png)
 
 1. From the **[!UICONTROL Type]** drop-down, select **[!UICONTROL Date]**.
 
-   ![](assets/image2014-9-22-11-3a51-3a27.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-3.png)
 
 1. Select the specific date when you want to resume.
 
-   ![](assets/image2014-9-22-11-3a51-3a20.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-4.png)
 
 1. Specify the time (optional) and click **[!UICONTROL Save]**.
 
-   ![](assets/image2014-9-22-11-3a51-3a13.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-5.png)
 
 >[!MORELIKETHIS]
 >

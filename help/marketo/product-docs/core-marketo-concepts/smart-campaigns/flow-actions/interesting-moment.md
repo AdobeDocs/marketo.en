@@ -7,21 +7,17 @@ feature: Smart Campaigns
 ---
 # Interesting Moment {#interesting-moment}
 
-## Overview {#overview}
-
 If you have Marketo Sales Insight, you can use the **Interesting Moment** flow step to give your sales team visibility into the cool things your people are doing.
 
-![](assets/image2016-1-27-11-3a0-3a21.png)
-
-## Usage {#usage}
+![](assets/interesting-moment-1.png)
 
 1. Select the interesting moment **[!UICONTROL type]** you want to use.
 
-   ![](assets/image2014-9-22-10-3a49-3a51.png)
+   ![](assets/interesting-moment-2.png)
 
 1. Create a **[!UICONTROL description]** that explains the interesting moment to your sales team.
 
-   ![](assets/image2014-9-22-10-3a49-3a55.png)
+   ![](assets/interesting-moment-3.png)
 
    >[!TIP]
    >

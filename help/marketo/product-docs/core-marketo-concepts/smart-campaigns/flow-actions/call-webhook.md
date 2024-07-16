@@ -11,8 +11,6 @@ feature: Smart Campaigns
 >
 >[Create a Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}
 
-## Overview {#overview}
-
 Webhooks let you interact with third party services. Send/receive information by calling a webhook in a smart campaign flow.
 
 ![](assets/call-webhook-1.png)
@@ -21,9 +19,7 @@ Webhooks let you interact with third party services. Send/receive information by
 >
 >Learn about the many fascinating things that [Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} can do for you.
 
-## Usage {#usage}
-
-Select a Webhook from the drop-down.
+1. Select a Webhook from the drop-down.
 
 ![](assets/call-webhook-2.png)
 

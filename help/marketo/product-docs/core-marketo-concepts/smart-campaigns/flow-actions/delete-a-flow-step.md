@@ -15,13 +15,11 @@ First let's cover the basics. Here's how to remove an unwanted flow step from a 
 
 1. In the Smart Campaign **[!UICONTROL Flow]**, click the **X** icon to delete any flow step.
 
-![](assets/image2014-9-22-13-3a52-3a20.png)
+   ![](assets/delete-a-flow-step-1.png)
 
 1. Click **[!UICONTROL Delete]**.
 
-   ![](assets/image2014-9-22-13-3a55-3a25.png)
-
-   Simple and easy, right? Well, most of the time...
+   ![](assets/delete-a-flow-step-2.png)
 
    >[!CAUTION]
    >

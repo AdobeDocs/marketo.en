@@ -13,7 +13,7 @@ feature: Smart Campaigns
 
    ![](assets/clear-field-values-1.png)
 
-1. Boom! I bet you didn't know that! After the flow step finishes, the value of the field you chose is cleared.
+1. After the flow step finishes, the value of the field you chose is cleared.
 
    ![](assets/clear-field-values-2.png)
 

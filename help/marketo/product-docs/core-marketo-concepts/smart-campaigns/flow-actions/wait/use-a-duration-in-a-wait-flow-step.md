@@ -11,23 +11,23 @@ You can use the Wait flow step to pause a person's journey through a Smart Campa
 
 1. In your Smart Campaign **[!UICONTROL Flow]** tab, drag over the **[!UICONTROL Wait]** flow step.
 
-   ![](assets/image2014-9-22-11-3a53-3a57.png)
+   ![](assets/use-a-duration-in-a-wait-flow-step-1.png)
 
 1. Enter how long you want to pause.
 
-   ![](assets/image2014-9-22-11-3a54-3a0.png)
+   ![](assets/use-a-duration-in-a-wait-flow-step-2.png)
 
 1. That's it! The flow will pause for your specified duration. For advanced options, click the gear icon to the right.
 
-   ![](assets/image2014-9-22-11-3a54-3a7.png)
+   ![](assets/use-a-duration-in-a-wait-flow-step-3.png)
 
 1. Specify the day of the week when the wait step should end.
 
-   ![](assets/image2014-9-22-11-3a54-3a10.png)
+   ![](assets/use-a-duration-in-a-wait-flow-step-4.png)
 
 1. Optionally, specify the time. Click **[!UICONTROL Save]**.
 
-   ![](assets/image2014-9-22-11-3a54-3a35.png)
+   ![](assets/use-a-duration-in-a-wait-flow-step-5.png)
 
    >[!NOTE]
    >

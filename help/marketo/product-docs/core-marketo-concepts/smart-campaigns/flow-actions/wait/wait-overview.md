@@ -5,13 +5,11 @@ title: Wait
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns
 ---
-# Wait {#wait}
+# Wait Overview {#wait-overview}
 
-## Overview {#overview}
+Pause a person in a Smart Campaign flow with the handy **wait step**.
 
-Pause a person in a smart campaign flow with the handy **wait step**.
-
-![](assets/wait-overview.png)
+![](assets/wait-overview-1.png)
 
 Notice how you can type in natural language like "4 hours." Do **not**, however, abbreviate the words (i.e., 4 hrs). The smart campaign would still run, but the wait step would be ignored.
 
@@ -22,8 +20,6 @@ Notice how you can type in natural language like "4 hours." Do **not**, however,
 >[!TIP]
 >
 >If you have someone already in a wait step and you don't want them to advance after the wait period ends, insert [remove from flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) right after the wait step. Specify who you want removed by using the [add choice](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) option.
-
-## Usage {#usage}
 
 There are three main ways to use a wait flow step:
 

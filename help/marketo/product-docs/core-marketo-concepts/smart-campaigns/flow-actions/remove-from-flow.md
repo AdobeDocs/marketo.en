@@ -9,21 +9,15 @@ feature: Smart Campaigns
 
 Imagine you have a Smart Campaign flow that uses "Send Alert" to remind a sales rep to call a hot prospect. It sends one message every day until the rep makes the call. You could use "Remove from Flow" in a trigger campaign once the prospect has been contacted to stop further alerts. It's like a Smart Campaign ejector seat for a person.
 
+![](assets/remove-from-flow-1.png)
+
 >[!NOTE]
 >
 >This would normally affect people that are sitting in a campaign flow's wait step.
 
-## Overview {#overview}
+1. Find and select the Smart Campaign you want to remove people from.
 
-You can remove people from a campaign's flow by using the "[!UICONTROL Remove from Flow]" flow step.
-
-![](assets/image2014-9-22-17-3a10-3a21.png)
-
-## Usage {#usage}
-
-Find and select the Smart Campaign you want to remove people from.
-
-![](assets/image2014-9-22-17-3a10-3a28.png)
+   ![](assets/remove-from-flow-2.png)
 
 >[!NOTE]
 >

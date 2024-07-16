@@ -22,7 +22,7 @@ A token is a variable. You use it in emails, Landing Pages, and Smart Campaigns 
 
 1. In the flow step, start typing `{{` to get token categories.
 
-   ![](assets/image2014-9-22-14-3a3-3a17.png)
+   ![](assets/use-tokens-in-flow-steps-1.png)
 
    >[!NOTE]
    >
@@ -30,7 +30,7 @@ A token is a variable. You use it in emails, Landing Pages, and Smart Campaigns 
 
 1. Keep typing until you find the token you want and click to select.
 
-   ![](assets/image2014-9-22-14-3a3-3a48.png)
+   ![](assets/use-tokens-in-flow-steps-2.png)
 
    >[!TIP]
    >

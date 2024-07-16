@@ -15,19 +15,19 @@ feature: Smart Campaigns
 
 1. Under the **[!UICONTROL Flow]** tab of the Smart Campaign, add any flow step and then click on **[!UICONTROL Add Choice]**.
 
-   ![](assets/image2014-9-22-11-3a58-3a20.png)
+   ![](assets/use-add-choice-in-a-flow-step-1.png)
 
 1. Select the choice condition.
 
-   ![](assets/image2014-9-22-11-3a58-3a50.png)
+   ![](assets/use-add-choice-in-a-flow-step-2.png)
 
 1. Choose the choice operator and enter a choice value. This sets your criteria or choice.
 
-   ![](assets/image2014-9-22-11-3a58-3a54.png)
+   ![](assets/use-add-choice-in-a-flow-step-3.png)
 
 1. Enter a flow step value for the choice.
 
-   ![](assets/image2014-9-22-11-3a58-3a57.png)
+   ![](assets/use-add-choice-in-a-flow-step-4.png)
 
    >[!CAUTION]
    >
@@ -35,7 +35,7 @@ feature: Smart Campaigns
 
 1. Repeat the above steps to add multiple choices, and then add/adjust the default value.
 
-   ![](assets/image2014-9-22-11-3a58-3a59.png)
+   ![](assets/use-add-choice-in-a-flow-step-5.png)
 
    >[!TIP]
    >

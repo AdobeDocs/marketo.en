@@ -7,8 +7,6 @@ feature: Smart Campaigns
 ---
 # Change Data Value {#change-data-value}
 
-## Overview {#overview}
-
 You can use Marketo to update the value of a field. For this, you will use the **[!UICONTROL Change Data Value]** flow action.
 
 ![](assets/change-data-value-1.png)
@@ -16,8 +14,6 @@ You can use Marketo to update the value of a field. For this, you will use the *
 >[!NOTE]
 >
 >You can also block a field from being updated. See [Block Updates to a Field](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md){target="_blank"} for details.
-
-## Usage {#usage}
 
 1. Find and select the field you want to change the value of.
 
