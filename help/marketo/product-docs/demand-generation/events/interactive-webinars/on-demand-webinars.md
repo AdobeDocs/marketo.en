@@ -23,4 +23,8 @@ Marketo Engage provides the watch statistics for On-Demand Webinars on the Dashb
   
 ![](assets/on-demand-webinars-1.png)
 
+>[!NOTE]
+>
+>Views are only counted when the watch duration exceeds one minute.
+
 The filters and triggers for Interactive Webinars have been modified to cater to On-Demand Webinars. The trigger "Attends Event" and filter "Has attended event" is added with an additional constraint ("Event Mode"), where a marketer can choose whether the target is Live audience or On-Demand audience. If the "Event Mode" constraint is not selected, both the Live and On-Demand audiences would be targeted. Other constraints, such as "Watch Date" and "Watch Duration," could be used with the "On-Demand" event mode. The Inactivity Filter "Has not attended an event" can also be used for On-Demand webinars with "On-Demand" event mode.

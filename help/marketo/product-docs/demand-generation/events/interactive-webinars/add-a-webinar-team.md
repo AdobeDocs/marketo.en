@@ -10,7 +10,7 @@ A Webinar Team in Interactive Webinars consists of all the roles that contribute
 
 >[!NOTE]
 >
->Presenters and co-hosts in Marketo map exactly to the roles of presenter and host during the webinar delivery in Adobe Connect.
+>Presenters and co-hosts in Marketo Engage map exactly to the roles of presenter and host during the webinar delivery in Adobe Connect. Co-hosts can modify the layouts and pods, whereas presenters can not.
 
 The presenter is an external role that participates in delivering the webinar experience, whereas co-hosts can act as a presenter as well as handle administrative aspects of webinar delivery. Co-hosts can be both internal and external. External co-hosts will not have access to the Interactive Webinar Event Programs in Marketo, but have host permissions during delivery in Adobe Connect. Internal co-hosts will have access to both the Interactive Webinar Event Program in Marketo as well as host permissions during delivery. This helps ensure that the internal co-hosts can take the reins of the Interactive Webinar Event Program when the original creator of the Interactive Webinar program is either no longer part of Interactive Webinars' user set, or not even a Marketo user.
 
