@@ -13,13 +13,13 @@ If you have existing people that are already assigned to an owner, you can use t
 >
 >This flow step will _only work when used with triggers_, not filters, in your Smart Campaign.
 
-![](assets/one-1.png)
+![](assets/change-owner-in-microsoft-1.png)
 
 **Usage**
 
 1. Simply pick the owner you want to change to and go!
 
-   ![](assets/two-1.png)
+   ![](assets/change-owner-in-microsoft-2.png)
 
    >[!NOTE]
    >

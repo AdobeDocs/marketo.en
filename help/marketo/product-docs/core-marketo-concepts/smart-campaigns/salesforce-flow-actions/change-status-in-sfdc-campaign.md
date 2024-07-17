@@ -15,14 +15,12 @@ This flow step allows you to change the Salesforce campaign member status of lea
 
 If a lead does not exist in Salesforce or is not a member of the campaign yet, it will automatically be synced and added to the Salesforce campaign with the appropriate status.
 
-![](assets/image2014-9-22-15-3a13-3a54.png)
-
-## Usage {#usage}
+![](assets/change-status-in-sfdc-campaign-1.png)
 
 1. First find and select the Salesforce **[!UICONTROL Campaign]** the record is in.
 
-   ![](assets/image2014-9-22-15-3a13-3a58.png)
+   ![](assets/change-status-in-sfdc-campaign-2.png)
 
 1. Then select the **[!UICONTROL New Status]** you want to set, and you're done!
 
-   ![](assets/image2014-9-22-15-3a14-3a0.png)
+   ![](assets/change-status-in-sfdc-campaign-3.png)

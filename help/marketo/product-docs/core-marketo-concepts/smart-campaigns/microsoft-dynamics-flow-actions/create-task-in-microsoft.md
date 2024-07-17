@@ -17,7 +17,7 @@ Create Task in Microsoft creates a task under Activities related with the Person
 
 By default, the flow step will look like this:
 
-![](assets/msd1.png)
+![](assets/create-task-in-microsoft-1.png)
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ By default, the flow step will look like this:
 
 Customize all fields to create the task the way you want it.
 
-![](assets/msd2.png)
+![](assets/create-task-in-microsoft-2.png)
 
 >[!NOTE]
 >

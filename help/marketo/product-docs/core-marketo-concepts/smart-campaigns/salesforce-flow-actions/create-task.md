@@ -9,7 +9,7 @@ feature: Smart Campaigns, Salesforce Integration
 
 As a marketer, you have information that can assist sales in closing deals. You can create tasks to let them know what they should do and when they should do it.
 
-![](assets/image2014-9-22-14-3a54-3a46.png)
+![](assets/create-task-1.png)
 
 >[!NOTE]
 >
@@ -17,11 +17,11 @@ As a marketer, you have information that can assist sales in closing deals. You 
 
 By default, the flow step will look like this:
 
-![](assets/image2014-9-22-14-3a54-3a49.png)
+![](assets/create-task-2.png)
 
 Customize all fields to create the task the way you want it.
 
-![](assets/image2014-9-22-14-3a54-3a52.png)
+![](assets/create-task-3.png)
 
 >[!TIP]
 >

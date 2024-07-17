@@ -13,13 +13,13 @@ This feature is only for those who integrate Marketo Engage with [!DNL Microsoft
 
 This flow step will insert Marketo-created people into your Dynamics CRM.
 
-![](assets/one.png)
+![](assets/sync-person-to-microsoft-1.png)
 
 ## Usage {#usage}
 
 You can set a Dynamics user as the person owner.
 
-![](assets/two.png)
+![](assets/sync-person-to-microsoft-2.png)
 
 >[!NOTE]
 >

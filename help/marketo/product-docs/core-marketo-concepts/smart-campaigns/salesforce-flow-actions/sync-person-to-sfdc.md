@@ -9,15 +9,13 @@ feature: Smart Campaigns, Salesforce Integration
 
 This flow step will insert Marketo-created people as leads into your Salesforce CRM.
 
-![](assets/sync-person-to-sfdc.png)
-
 >[!NOTE]
 >
 >Only available when integrated with Salesforce.
 
 1. By default, this flow step will assign to lead owners based on the Salesforce auto-assignment rules.
 
-   ![](assets/sync-person-to-sfdc.png)
+   ![](assets/sync-person-to-sfdc-1.png)
 
    >[!TIP]
    >

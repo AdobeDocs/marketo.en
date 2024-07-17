@@ -15,15 +15,15 @@ If you need to remove a specific set of leads from Salesforce but leave them as 
 
 1. In the Database, click the person you want to remove from Salesforce. Then click **[!UICONTROL Person Actions]** and select **[!DNL Salesforce]**.
 
-   ![](assets/person-actions-salesforce.png)
+   ![](assets/delete-person-from-sfdc-1.png)
 
 1. Select **[!UICONTROL Delete Person from SFDC]**.
 
-   ![](assets/delete-person-from-sfdc.png)
+   ![](assets/delete-person-from-sfdc-2.png)
 
 1. Be sure the **[!UICONTROL Delete in Marketo]** setting is **[!UICONTROL false]**, then click **[!UICONTROL Run Now]**.
 
-   ![](assets/run-action-delete-lead-from-sfdc.png)
+   ![](assets/delete-person-from-sfdc-3.png)
 
    After the flow step runs, your person will no longer be a lead in Salesforce but will remain in Marketo.
 

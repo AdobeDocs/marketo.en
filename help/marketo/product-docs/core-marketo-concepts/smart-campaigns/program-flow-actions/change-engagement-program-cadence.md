@@ -9,20 +9,18 @@ feature: Smart Campaigns
 
 Once a person is being nurtured by an engagement program, you can temporarily pause nurturing for them by using this flow step.
 
-   ![](assets/image2014-9-22-14-3a48-3a53.png)
+   ![](assets/change-engagement-program-cadence-1.png)
 
    >[!NOTE]
    >
    >If a person is not a member of the program and runs through this flow step, they will automatically be added as a member and into your first stream.
 
-## Usage {#usage}
-
 1. Select the engagement program.
 
-   ![](assets/image2014-9-22-14-3a49-3a27.png)
+   ![](assets/change-engagement-program-cadence-2.png)
 
 1. Select **[!UICONTROL Paused]** as the **[!UICONTROL New Value]** to stop the person from receiving content.
 
-   ![](assets/image2014-9-22-14-3a49-3a31.png)
+   ![](assets/change-engagement-program-cadence-3.png)
 
   You can set the person back to **[!UICONTROL Normal]** if you want them to begin receiving content again.

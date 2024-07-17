@@ -9,7 +9,7 @@ feature: Smart Campaigns, Salesforce Integration
 
 Just like how you can [Add to SFDC Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md){target="_blank"} and [Change Status in SFDC Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}, you can also remove people or leads from a Salesforce campaign.
 
-![](assets/image2014-9-22-15-3a54-3a34.png)
+![](assets/remove-from-sfdc-campaign-1.png)
 
 >[!NOTE]
 >
@@ -17,7 +17,7 @@ Just like how you can [Add to SFDC Campaign](/help/marketo/product-docs/core-mar
 
 1. Once you drag in the flow step, find and select the Salesforce campaign you want to remove the person or lead from.
 
-   ![](assets/image2014-9-22-15-3a54-3a39.png)
+   ![](assets/remove-from-sfdc-campaign-2.png)
 
    >[!TIP]
    >

@@ -7,21 +7,19 @@ feature: Smart Campaigns, Salesforce Integration
 ---
 # Add to SFDC Campaign {#add-to-sfdc-campaign}
 
+This flow step can be used in Marketo Engage campaigns or as a single flow step to add people as leads in a Salesforce campaign. If the lead does not yet exist in Salesforce, it will automatically be synced over and added to the campaign with the specified status.
+
 >[!NOTE]
 >
 >Only available when integrated with Salesforce.
 
-## Overview {#overview}
-
-This flow step can be used in Marketo campaigns or as a single flow step to add people as leads in a Salesforce campaign. If the lead does not yet exist in Salesforce, it will automatically be synced over and added to the campaign with the specified status.
-
-![](assets/image2014-9-22-15-3a43-3a36.png)
+![](assets/add-to-sfdc-campaign-1.png)
 
 ## Usage {#usage}
 
 1. Find and select the Salesforce campaign you want to add your leads to.
 
-   ![](assets/image2014-9-22-15-3a43-3a45.png)
+   ![](assets/add-to-sfdc-campaign-2.png)
 
    >[!TIP]
    >
@@ -36,7 +34,7 @@ This flow step can be used in Marketo campaigns or as a single flow step to add 
 
 1. Select the Salesforce campaign member status you want to assign to leads when they're added.
 
-   ![](assets/image2014-9-22-15-3a45-3a2.png)
+   ![](assets/add-to-sfdc-campaign-3.png)
 
    >[!CAUTION]
    >
