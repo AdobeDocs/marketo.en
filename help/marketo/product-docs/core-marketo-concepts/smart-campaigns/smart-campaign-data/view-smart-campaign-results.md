@@ -9,13 +9,13 @@ feature: Smart Campaigns
 
 Want to see a breakdown of everything that happened in a Smart Campaign? Here's how.
 
-1. In your Smart Campaign, click **[!UICONTROL Results]**.
-
    >[!TIP]
    >
    >You can see the list of people who were processed by the Smart Campaign by clicking [View Campaign Members](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}.
 
-   ![](assets/image2014-9-22-11-38-10.jpg)
+1. In your Smart Campaign, click **[!UICONTROL Results]**.
+
+   ![](assets/view-smart-campaign-results-1.png)
 
    >[!TIP]
    >
@@ -23,7 +23,7 @@ Want to see a breakdown of everything that happened in a Smart Campaign? Here's 
 
 1. Click an **[!UICONTROL ID]** to view more detail about that particular activity.
 
-   ![](assets/image2014-9-22-11-39-22.jpg)
+   ![](assets/view-smart-campaign-results-2.png)
 
    >[!TIP]
    >

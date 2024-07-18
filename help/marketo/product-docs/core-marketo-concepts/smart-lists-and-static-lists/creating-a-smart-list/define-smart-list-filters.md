@@ -18,15 +18,15 @@ Continuing our example, let's define these filters to find all people in Califor
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/define-smart-list-filters-1.png)
 
-1. Select the Smart List and click on the **[!UICONTROL Smart List]** tab.
+1. Select the desired Smart List and click the **[!UICONTROL Smart List]** tab.
 
-   ![](assets/smarlist-choosefilters.png)
+   ![](assets/define-smart-list-filters-2.png)
 
 1. Find and select "CA" for the **[!UICONTROL State]** filter.
 
-   ![](assets/smartlistdefinefilters.png)
+   ![](assets/define-smart-list-filters-3.png)
 
    >[!NOTE]
    >
@@ -34,10 +34,10 @@ Continuing our example, let's define these filters to find all people in Califor
 
 1. Pick the **[!UICONTROL greater than]** operator and enter "50."
 
-   ![](assets/smartlistfilter-personscore.png)
+   ![](assets/define-smart-list-filters-4.png)
 
 >[!TIP]
 >
 >If you think you may have some records in your database that contain incomplete email addresses (e.g., just "@adobe.com"), use two Email Address filters when you're using the "contains" operator. One filter with "contains @adobe.com," and a separate filter with "contains adobe.com" (leaving out the @ symbol).
 
-You now know how to create a Smart List and add/define filters.
+Now you know how to create a Smart List and add/define filters.

@@ -11,23 +11,23 @@ Smart Lists allow you to find specific groups of people using simple filters. He
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/create-a-smart-list-1.png)
 
 1. Select the program you want to create the Smart List in.
 
-   ![](assets/image2014-8-11-10-3a17-3a8.png)
+   ![](assets/create-a-smart-list-2.png)
 
 1. Under **[!UICONTROL New]**, click **[!UICONTROL New Local Asset]**.
 
-   ![](assets/image2014-9-9-16-3a26-3a28.png)
+   ![](assets/create-a-smart-list-3.png)
 
 1. Select **[!UICONTROL Smart List]**.
 
-   ![](assets/image2014-9-9-16-3a27-3a18.png)
+   ![](assets/create-a-smart-list-4.png)
 
 1. Enter a **[!UICONTROL Name]** and click **[!UICONTROL Create]**.
 
-   ![](assets/image2014-9-9-16-3a27-3a39.png)
+   ![](assets/create-a-smart-list-5.png)
 
    Ta-da, great job! Now let's add and define some filters.
 

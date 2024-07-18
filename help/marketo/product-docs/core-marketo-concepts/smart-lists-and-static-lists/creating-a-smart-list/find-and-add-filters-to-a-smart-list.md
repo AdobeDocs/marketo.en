@@ -17,19 +17,19 @@ In this example, let's find all people in California with a score over 50.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/ma.png)
+   ![](assets/find-and-add-filters-to-a-smart-list-1.png)
 
 1. Select the Smart List you want to add filters to and click the **[!UICONTROL Smart List]** tab.
 
-   ![](assets/two.png)
+   ![](assets/find-and-add-filters-to-a-smart-list-2.png)
 
 1. Find and drag the **[!UICONTROL State]** filter onto the canvas.
 
-   ![](assets/three.png)
+   ![](assets/find-and-add-filters-to-a-smart-list-3.png)
 
 1. Also find and drag the **[!UICONTROL Score]** filter over.
 
-   ![](assets/four.png)
+   ![](assets/find-and-add-filters-to-a-smart-list-4.png)
 
 Perfect! Let's go ahead and define these filters.
 

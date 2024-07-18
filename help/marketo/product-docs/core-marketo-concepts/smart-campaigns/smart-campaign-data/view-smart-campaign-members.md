@@ -7,23 +7,23 @@ feature: Smart Campaigns
 ---
 # View Smart Campaign Members {#view-smart-campaign-members}
 
-View people who have already run through the Smart Campaign flow; i.e., Smart Campaign members.
+View people who have already run through the Smart Campaign flow.
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
-![](assets/login-marketing-activities.png)
+   ![](assets/view-smart-campaign-members-1.png)
 
 1. In your Smart Campaign, click **[!UICONTROL View Campaign Members]**.
 
-   ![](assets/changescore-hands.png)
+   ![](assets/view-smart-campaign-members-2.png)
 
->[!TIP]
->
->You can view campaign members from anywhere within a Smart Campaign.
+   >[!TIP]
+   >
+   >You can view campaign members from anywhere within a Smart Campaign.
 
 1. The **[!UICONTROL Campaign Members]** tab shows people that have already run through the Smart Campaign flow.
 
-   ![](assets/smartcampaignheader-complete.jpg)
+   ![](assets/view-smart-campaign-members-3.jpg)
 
    >[!NOTE]
    >

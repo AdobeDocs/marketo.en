@@ -11,7 +11,7 @@ Blocked people in the Marketo Engage database are marked blocklisted, unsubscrib
 
 1. In your Smart Campaign, click **[!UICONTROL Schedule]**. Under **[!UICONTROL Smart List Status]**, click the second link.
 
-   ![](assets/image2014-9-22-16-3a47-3a38.png)
+   ![](assets/view-blocked-people-in-a-smart-campaign-1.png)
 
    >[!NOTE]
    >
@@ -19,7 +19,7 @@ Blocked people in the Marketo Engage database are marked blocklisted, unsubscrib
 
    The Blocked People tab shows people who might not receive mailings.
 
-   ![](assets/image2014-9-22-16-3a48-3a11.png)
+   ![](assets/view-blocked-people-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
@@ -31,5 +31,3 @@ Blocked people in the Marketo Engage database are marked blocklisted, unsubscrib
    >* [Enable Communication Limits](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}
    >* [View Smart Campaign Members](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}
    >* [View Qualified People in a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md){target="_blank"}
-
-There you go! Now you can be aware of who might not be receiving the mailings.
