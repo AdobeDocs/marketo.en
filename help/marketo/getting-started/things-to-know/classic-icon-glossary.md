@@ -2,8 +2,6 @@
 description: Classic Icon Glossary - Marketo Docs - Product Documentation
 title: Classic Icon Glossary
 feature: Getting Started
-hide: yes
-hidefromtoc: yes
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
 ---
 # Classic Icon Glossary {#classic-icon-glossary}
@@ -15,8 +13,8 @@ Below are the old icons from the Marketo Classic interface. The current icon glo
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Icon</th>
-   <th style="width:90%">Name</th>
+   <th style="width:15%">Icon</th>
+   <th style="width:85%">Name</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2016-2-24-11-3a16-3a17.png"></td> 
@@ -105,8 +103,8 @@ Below are the old icons from the Marketo Classic interface. The current icon glo
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Icon</th>
-   <th style="width:90%">Name</th>
+   <th style="width:15%">Icon</th>
+   <th style="width:85%">Name</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-8-15-3a58-3a8.png"> 
@@ -231,8 +229,8 @@ Below are the old icons from the Marketo Classic interface. The current icon glo
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Icon</th>
-   <th style="width:90%">Name</th> 
+   <th style="width:15%">Icon</th>
+   <th style="width:85%">Name</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2014-12-18-16-3a45-3a45.png"> 
@@ -497,8 +495,8 @@ Below are the old icons from the Marketo Classic interface. The current icon glo
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Icon</th>
-   <th style="width:90%">Name</th> 
+   <th style="width:15%">Icon</th>
+   <th style="width:85%">Name</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-12-3a31-3a47.png"> 
@@ -633,8 +631,8 @@ Below are the old icons from the Marketo Classic interface. The current icon glo
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Icon</th>
-   <th style="width:90%">Name</th>
+   <th style="width:15%">Icon</th>
+   <th style="width:85%">Name</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-9-3a50-3a24.png"> 
@@ -714,8 +712,8 @@ Below are the old icons from the Marketo Classic interface. The current icon glo
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Icon</th>
-   <th style="width:90%">Name</th> 
+   <th style="width:15%">Icon</th>
+   <th style="width:85%">Name</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-13-3a53-3a27.png"> 
@@ -765,8 +763,8 @@ Below are the old icons from the Marketo Classic interface. The current icon glo
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Icon</th>
-   <th style="width:90%">Name</th>
+   <th style="width:15%">Icon</th>
+   <th style="width:85%">Name</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-15-3a18-3a8.png"> 
@@ -821,8 +819,8 @@ Below are the old icons from the Marketo Classic interface. The current icon glo
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Icon</th>
-   <th style="width:90%">Name</th> 
+   <th style="width:15%">Icon</th>
+   <th style="width:85%">Name</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-16-3a26-3a11.png"> 

@@ -2,8 +2,6 @@
 description: Icon Glossary - Marketo Engage Docs - Product Documentation
 title: Icon Glossary
 feature: Getting Started
-hide: yes
-hidefromtoc: yes
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 ---
 # Marketo Engage Icon Glossary {#icon-glossary}
@@ -15,9 +13,9 @@ Below are the icons for the current Adobe Marketo Engage interface. If you need 
 <table> 
  <tbody>
   <tr>
-   <th>Old Icon</th> 
-   <th> New Icon</th> 
-   <th>Description</th> 
+   <th style="width:25%">Old Icon</th>
+   <th style="width:25%">New Icon</th> 
+   <th style="width:50%">Description</th> 
   </tr>
   <tr>
    <td><strong>n/a</strong></td> 
@@ -237,9 +235,9 @@ Below are the icons for the current Adobe Marketo Engage interface. If you need 
 <table> 
  <tbody>
   <tr>
-   <th>Old Icon</th> 
-   <th> New Icon</th> 
-   <th>Description</th> 
+   <th style="width:25%">Old Icon</th> 
+   <th style="width:25%"> New Icon</th> 
+   <th style="width:50%">Description</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td> 
@@ -284,9 +282,9 @@ Below are the icons for the current Adobe Marketo Engage interface. If you need 
 <table> 
  <tbody>
   <tr>
-   <th>Old Icon</th> 
-   <th> New Icon</th> 
-   <th>Description</th> 
+   <th style="width:25%">Old Icon</th> 
+   <th style="width:25%"> New Icon</th> 
+   <th style="width:50%">Description</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-trigger.png"></td> 
@@ -316,9 +314,9 @@ Below are the icons for the current Adobe Marketo Engage interface. If you need 
 <table> 
  <tbody>
   <tr>
-   <th>Old Icon</th> 
-   <th> New Icon</th> 
-   <th>Description</th> 
+   <th style="width:25%">Old Icon</th> 
+   <th style="width:25%"> New Icon</th> 
+   <th style="width:50%">Description</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-aborted.png"></td> 
@@ -348,9 +346,9 @@ Below are the icons for the current Adobe Marketo Engage interface. If you need 
 <table> 
  <tbody>
   <tr>
-   <th>Old Icon</th> 
-   <th> New Icon</th> 
-   <th>Description</th> 
+   <th style="width:25%">Old Icon</th> 
+   <th style="width:25%"> New Icon</th> 
+   <th style="width:50%">Description</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-engagement-program-off.png"></td> 
@@ -370,9 +368,9 @@ Below are the icons for the current Adobe Marketo Engage interface. If you need 
 <table> 
  <tbody>
   <tr>
-   <th>Old Icon</th> 
-   <th> New Icon</th> 
-   <th>Description</th> 
+   <th style="width:25%">Old Icon</th> 
+   <th style="width:25%"> New Icon</th> 
+   <th style="width:50%">Description</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-approved.png"></td> 
@@ -407,9 +405,9 @@ Below are the icons for the current Adobe Marketo Engage interface. If you need 
 <table> 
  <tbody>
   <tr>
-   <th>Old Icon</th> 
-   <th> New Icon</th> 
-   <th>Description</th> 
+   <th style="width:25%">Old Icon</th> 
+   <th style="width:25%"> New Icon</th> 
+   <th style="width:50%">Description</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-approved.png"></td> 
@@ -434,9 +432,9 @@ Below are the icons for the current Adobe Marketo Engage interface. If you need 
 <table> 
  <tbody>
   <tr>
-   <th>Old Icon</th> 
-   <th> New Icon</th> 
-   <th>Description</th> 
+   <th style="width:25%">Old Icon</th> 
+   <th style="width:25%"> New Icon</th> 
+   <th style="width:50%">Description</th> 
   </tr>
   <tr>
    <td><strong>n/a</strong></td> 
