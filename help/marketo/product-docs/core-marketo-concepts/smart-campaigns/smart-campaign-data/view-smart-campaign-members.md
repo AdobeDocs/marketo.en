@@ -23,7 +23,7 @@ View people who have already run through the Smart Campaign flow.
 
 1. The **[!UICONTROL Campaign Members]** tab shows people that have already run through the Smart Campaign flow.
 
-   ![](assets/view-smart-campaign-members-3.jpg)
+   ![](assets/view-smart-campaign-members-3.png)
 
    >[!NOTE]
    >
