@@ -7,7 +7,7 @@ feature: Smart Lists
 ---
 # Inferred Filters {#inferred-filters}
 
-When someone visits your website, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} cookies them and puts them into the system. We look up their IP in a special database and infer all kinds of good info.
+When someone visits your website, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} cookies them and puts them into the system. We look up their IP in a special database and infer all kinds of info.
 
 >[!NOTE]
 >
@@ -15,17 +15,17 @@ When someone visits your website, [Munchkin](/help/marketo/product-docs/administ
 >
 >Database updates can occur during a [Marketo Engage product release](/help/marketo/release-notes/release-schedule.md){target="_blank"}. When an update does occur, the [Marketo Engage release notes](/help/marketo/release-notes/current.md){target="_blank"} will contain an explanation of any changes to inferred field values.
 
-![](assets/image2015-4-27-13-3a25-3a46.png)
+![](assets/inferred-filters-1.png)
 
-![](assets/image2015-4-27-16-3a58-3a53.png)
+![](assets/inferred-filters-2.png)
 
-![](assets/image2015-4-27-16-3a59-3a35.png)
+![](assets/inferred-filters-3.png)
 
-![](assets/image2015-4-27-17-3a0-3a12.png)
+![](assets/inferred-filters-4.png)
 
-![](assets/image2015-4-27-13-3a36-3a9.png)
+![](assets/inferred-filters-5.png)
 
-![](assets/image2015-4-27-13-3a30-3a48.png)
+![](assets/inferred-filters-6.png)
 
 When you use any of these filters in a Smart List, the results will yield people with this inferred information.
 

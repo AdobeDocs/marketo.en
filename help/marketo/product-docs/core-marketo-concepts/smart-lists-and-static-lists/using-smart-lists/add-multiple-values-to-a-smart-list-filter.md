@@ -16,19 +16,19 @@ Let's say you want to find everyone in California, but you might be storing both
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/login-marketing-activities-2.png)
+   ![](assets/add-multiple-values-to-a-smart-list-filter-1.png)
 
 1. Find and select a Smart List and click the **[!UICONTROL Smart List]** tab.
 
-   ![](assets/smarlist-choosefilters.png)
+   ![](assets/add-multiple-values-to-a-smart-list-filter-2.png)
 
 1. Click the **+** on the filter.
 
-   ![](assets/smartlist-plussignhand-.png)
+   ![](assets/add-multiple-values-to-a-smart-list-filter-3.png)
 
 1. You can choose values from the left or just type them on the right then click **[!UICONTROL OK]**.
 
-   ![](assets/image2014-9-11-17-3a51-3a39.png)
+   ![](assets/add-multiple-values-to-a-smart-list-filter-4.png)
 
 Quick work!
 

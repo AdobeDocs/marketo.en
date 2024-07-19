@@ -11,18 +11,14 @@ Instead of creating a Smart List from scratch, save some time by cloning a simil
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/clone-a-list-or-smart-list-1.png)
 
-1. Select the Smart List you want to clone.
+1. Select the Smart List you want to clone. Under **[!UICONTROL List Actions]**, click **[!UICONTROL Clone Smart List]**.
 
-   ![](assets/smartlist-find.png)
-
-1. Under **[!UICONTROL List Actions]**, click **[!UICONTROL Clone Smart List]**.
-
-   ![](assets/clonesmartlist-hands.png)
+   ![](assets/clone-a-list-or-smart-list-2.png)
 
 1. Enter a **[!UICONTROL Name]** and click **[!UICONTROL Clone]**.
 
-   ![](assets/supersmartlist-clonewindow.png)
+   ![](assets/clone-a-list-or-smart-list-3.png)
 
 Nice job! You can also clone regular lists in the same manner.

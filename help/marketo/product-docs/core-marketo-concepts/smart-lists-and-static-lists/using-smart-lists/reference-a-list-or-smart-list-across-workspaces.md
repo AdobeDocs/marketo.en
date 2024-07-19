@@ -17,27 +17,31 @@ Lists and Smart Lists can be shared and referenced across workspaces for easy re
 
 1. Go to the **[!UICONTROL Database]**.
 
-   ![](assets/db-1.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
 1. Right-click a campaign folder. Select **New Folder**.
+
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
 
    >[!NOTE]
    >
    >Assets can only be shared across workspaces if they are nested in a folder.
 
-   ![](assets/two-4.png)
+1. Name your folder and click **[!UICONTROL Create]**.
+
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 
 1. Drag and drop a list or Smart List you want to share into the new folder.
 
-   ![](assets/three-4.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-4.png)
 
-1. Right-click **[!UICONTROL New Folder]** and select **[!UICONTROL Share Folder]**.
+1. Right-click your new folder and select **[!UICONTROL Share folder]**.
 
-   ![](assets/four-3.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-5.png)
 
-1. Choose a **[!UICONTROL Workspace]** to share with. Select **[!UICONTROL Save]**.
+1. Choose a **[!UICONTROL Workspace]** to share with and click **[!UICONTROL Save]**.
 
-   ![](assets/image2014-12-9-15-3a37-3a25.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-6.png)
 
    Awesome! This list will now be available in both workspaces.
 

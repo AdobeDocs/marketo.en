@@ -7,7 +7,7 @@ feature: Smart Lists
 ---
 # Add a Constraint to a Smart List Filter {#add-a-constraint-to-a-smart-list-filter}
 
-When creating Smart List, some filters have advanced options called "constraints." These are extra conditions that you can add to filters and triggers to help narrow your search even further.
+When creating a Smart List, some filters have advanced options called "constraints." These are extra conditions that you can add to filters and triggers to help narrow your search even further.
 
 In this example, let's add some constraints to a **[Data Value Changed](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}** filter to find people that had a Status change from MQL to SQL.
 
@@ -18,26 +18,26 @@ In this example, let's add some constraints to a **[Data Value Changed](/help/ma
 
 1. Go to **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/ma-1.png)
+   ![](assets/add-a-constraint-to-a-smart-list-filter-1.png)
 
 1. Select the Smart List with a filter you'll be adding a constraint to and click the **[!UICONTROL Smart List]** tab.
 
-   ![](assets/two-3.png)
+   ![](assets/add-a-constraint-to-a-smart-list-filter-2.png)
 
 1. Under **[!UICONTROL Add Constraint]**, select **[!UICONTROL Previous Value]**.
 
-   ![](assets/three-3.png)
+   ![](assets/add-a-constraint-to-a-smart-list-filter-3.png)
 
 1. Enter the **[!UICONTROL Previous Value]**. In this example, we're using MQL.
 
-   ![](assets/four-2.png)
+   ![](assets/add-a-constraint-to-a-smart-list-filter-4.png)
 
 1. Under **[!UICONTROL Add Constraint]**, select **[!UICONTROL New Value]**.
 
-   ![](assets/five.png)
+   ![](assets/add-a-constraint-to-a-smart-list-filter-5.png)
 
 1. Enter the new value. In this example, we're using SQL.
 
-   ![](assets/six.png)
+   ![](assets/add-a-constraint-to-a-smart-list-filter-6.png)
 
 1. Nicely done! Click the **[!UICONTROL People]** tab to see all people who had a Status change from "MQL" to "SQL" in the past 30 days.

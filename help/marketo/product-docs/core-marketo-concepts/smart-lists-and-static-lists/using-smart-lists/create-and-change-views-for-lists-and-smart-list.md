@@ -13,15 +13,15 @@ A Smart List displays a default set of columns. Did you know you could edit thos
 
 1. Go to a list or Smart List, click the **[!UICONTROL People]** tab, and click **[!UICONTROL Create View]** under the **[!UICONTROL View]** drop-down.
 
-   ![](assets/smartlist-createview.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-1.png)
 
 1. Name the view and find the column you want to add or remove.
 
-   ![](assets/image2014-9-12-11-3a23-3a53.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-2.png)
 
 1. Add/Remove your desired columns, then click **[!UICONTROL Create]**.
 
-   ![](assets/image2014-9-12-11-3a24-3a7.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-3.png)
 
 >[!TIP]
 >
@@ -31,7 +31,7 @@ A Smart List displays a default set of columns. Did you know you could edit thos
 
 1. Click the **[!UICONTROL View]** drop-down, then select the view you want. Switch back and forth between views as needed.
 
-   ![](assets/smartlist-customviewchoose.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-4.png)
 
 >[!NOTE]
 >
@@ -41,25 +41,25 @@ A Smart List displays a default set of columns. Did you know you could edit thos
 
 1. Make sure that the view you want to edit is selected in the **[!UICONTROL View]** drop-down.
 
-   ![](assets/smartlist-customviewchoose.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-5.png)
 
 1. Click the **[!UICONTROL Edit]** option.
 
-   ![](assets/smartlist-editcustomview.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-6.png)
 
 1. Make the changes you want and click **[!UICONTROL Save]**.
 
-   ![](assets/image2014-9-12-11-3a27-3a19.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-7.png)
 
 ## Delete a View {#delete-a-view}
 
 1. Select the **[!UICONTROL Edit]** option for the view you want to delete from the **[!UICONTROL View]** drop-down.
 
-   ![](assets/smartlist-editcustomview.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-8.png)
 
 1. Click **[!UICONTROL Delete]**.
 
-   ![](assets/image2014-9-12-11-3a27-3a39.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-9.png)
 
 Only you can see the custom views you create in the View drop-down, so tell your friends they need to create their own!
 
