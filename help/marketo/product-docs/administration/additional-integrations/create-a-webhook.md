@@ -9,10 +9,6 @@ feature: Administration, Webhooks
 
 Use [!DNL Webhooks] to take advantage of third-party web services to send text messages, expand person data, and more.
 
->[!AVAILABILITY]
->
->Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
-
 1. Go to the **[!UICONTROL Admin]** area.
 
    ![](assets/create-a-webhook-1.png)
