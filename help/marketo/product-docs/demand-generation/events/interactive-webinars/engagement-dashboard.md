@@ -12,9 +12,9 @@ Interactive Webinars powered by Adobe Connect uses various pods to engage partic
 
 See a consolidated view of participant activities, interactions, and engagement during an event. As a host, you can view the performance of live and on-demand events and download various reports after the session. Additionally, post-webinar reports generated from the dashboard are used to evaluate the session's effectiveness, inform future content, and improve the overall webinar strategy.
 
-The dashboard tracks various metrics, including poll responses, chat activity, and video interactions, offering valuable insights into participants' preferences and behaviors. It provides a comprehensive overview of participants' activity and engagement levels, allowing hosts to monitor real-time attendance, participation, and interactions.
+The dashboard tracks various metrics, including poll responses, chat activity, and video interactions, offering valuable insights into participants' preferences and behaviors. It provides a comprehensive overview of participant activity and engagement levels, allowing hosts to monitor real-time attendance, participation, and interactions.
 
-View the engagement for the following types of sessions in an interactive webinar.
+View engagement for the following types of sessions in an interactive webinar.
 
 * **Live session**: A real-time online session where participants can actively engage with one another. 
 * **On-demand session**: The recording of the live event is made available as an event of its own. New invitees can register and watch the recording. After registration, they'll receive an event joining link, which takes them to the recording of the event after it ends. Participants registered for the live event can also view the recording using the same joining link.
@@ -97,15 +97,15 @@ SCREENSHOT
 
 ### Engagement {#engagement}
 
-This interface provides an overview of the live session's performance of an event. The overview includes key metrics, engagement over time, and participant interactions. It helps organizers evaluate the event's success and identify areas for improvement.
+Provides an overview of the live session's performance of an event. The overview includes key metrics, engagement over time, and participant interactions. It helps organizers evaluate the event's success and identify areas for improvement.
 
-From the left panel, select Engagement to view the live session's performance. Select Engagement summary (PDF) to download the performance summary of the live session. The overview is classified into different sections.
+From the left panel, select **[!UICONTROL Engagement]** to view the live session's performance. **[!UICONTROL Click Engagement summary (PDF)]** to download the performance summary of the live session. The overview provides data in different sections.
 
 SCREENSHOT
  
 **Key metrics**
 
-View the number of registrations, attendees, and engagement in the live session from Key metrics.
+View the number of registrations, attendees, and engagement in the live session.
  
 SCREENSHOT
 
@@ -129,14 +129,14 @@ SCREENSHOT
   </tr>
   <tr>
     <td><b>Average watch duration in minutes</td>
-    <td>Displays the average watch duration in minutes of live session.</td>
+    <td>Displays the average watch duration in minutes of the live session.</td>
   </tr>
 </tbody>
 </table>
 
 **Engagement over time**
 
-Learn about average engagement over time during the live session from the engagement graphs. Hosts can monitor how engagement levels fluctuate, allowing them to identify critical moments of high or low interaction. Check how much of the average engagement score was gained by the engaged participants in different layouts.
+Learn about average engagement over time during the live session from the engagement graphs. Hosts can monitor how engagement levels fluctuate, allowing them to identify critical moments of high or low interaction. See how much of the average engagement score was gained by the engaged participants in different layouts.
  
 SCREENSHOT
 
@@ -146,7 +146,7 @@ By hovering over the graph, view the following information:
 * Average engagement score at that moment.
 * Number of attendees engaged at that time.
 * Layout of the engagement at that time.
-* Select View instant in recording to view the instant in the recording where engagement was high or low.
+* Select **[!UICONTROL View instant in recording]** to view the instant in the recording where engagement was high or low.
 * Average engagement score (%) over time in the session
 * Attendance over time during the session
 * Engagement in different Webinar layouts is shown when different layouts were used inside the room during the event. It helps correlate the rise and fall of engagement in different layouts.
@@ -157,28 +157,28 @@ You can view the attendees' interactions from different pods. It provides inform
  
 SCREENSHOT
 
-Select Go to interactions to view responses from polls, metrics of QnA and attendees' reactions during the session. View how attendees are engaged across pods from Interactions and download interaction reports from the section below.
+Select **[!UICONTROL Go to interactions]** to view responses from polls, metrics of QnA, and attendees' reactions during the session. View how attendees are engaged across pods from Interactions and download interaction reports from the section below.
 
 ### Interactions {#interactions}
 
-View how attendees interact and engage in the session from Interactions. Track responses to polls, QnA metrics, reactions from attendees, and dropped links and files from respective pods. Hosts can also download interaction reports of these pods for better analysis. By analyzing these interactions, identify trends and adjust their strategies to encourage a more interactive and engaging environment.
+View how attendees interact and engage in the session from Interactions. Track responses to polls, QnA metrics, reactions from attendees, and dropped links and files from respective pods. Hosts can also download interaction reports of these pods for better analysis. By analyzing these interactions, you can identify trends and adjust their strategies to encourage a more interactive and engaging environment.
 
-From the left panel, select Interactions to view how attendees are engaged across pods.
+From the left panel, select **[!UICONTROL Interactions]** to view how attendees are engaged across pods.
  
 SCREENSHOT
 
-Select the Polls tab from the menu bar to view questions and responses added to the poll. This tab shows the following information:
+Select the **[!UICONTROL Polls]** tab from the menu bar to view questions and responses added to the poll. This tab shows the following information:
 
-* Select Poll report (CSV) to download the report for interactions in the poll pod.
+* Select **[!UICONTROL Poll report (CSV)]** to download the report for interactions in the poll pod.
 * Poll question and its type.
 * Number of responses and the period during which the poll pod was open and engaged. 
-* Select View all `<number>` responses to view them in a dialog window.
+* Select **View all `<number>` responses** to view them in a dialog window.
 
-Select the Other interactions tab from the menu bar to view engagement in other pods and download their reports.
+Select the **[!UICONTROL Other interactions]** tab from the menu bar to view engagement in other pods and download their reports.
  
 SCREENSHOT
 
-Select Download interaction reports from the top-right dropdown to download reports of different pods. Download the QnA report, Links & files report, and Reactions report from here for better tracking.
+Select **[!UICONTROL Download interaction reports]** from the drop-down to download reports of different pods. Download the QnA report, Links & files report, and Reactions report from here for better tracking.
 
 The engagement information across pods is available in different sections.
 
@@ -214,7 +214,7 @@ View links added to the weblinks pod during the session and the number of clicks
  
 SCREENSHOT
 
-From the graph, View the following details:
+From the graph, view the following details:
 
 * Links that are added to the weblinks pod.
 * Number of attendees who clicked at least one link.
@@ -227,30 +227,30 @@ View the files added to the files pod during the session and the number of uniqu
  
 SCREENSHOT
 
-From the graph, View the following details:
+From the graph, view the following details:
 
-* Name of files that are added to the files pod.
+* Name of the files that are added to the files pod.
 * Number of attendees that downloaded at least one file.
 * Trend of unique downloads on each file added to the weblinks pod.
 
 ### On-demand activity {#on-demand-activity}
 
-From the left panel, select On-demand activity to view the summary of recordings. You can also download a report for on-demand activity.
+From the left panel, select **[!UICONTROL On-demand activity]** to view the summary of recordings. You can also download a report for on-demand activity.
  
 SCREENSHOT
 
 In on-demand activity, view the following metrics:
 
-* Select On-demand report (CSV) to download the on-demand metrics.
+* Click **[!UICONTROL On-demand report (CSV)]** to download the on-demand metrics.
 * Number of unique viewers until the dashboard was last refreshed.
 * Number of viewers who viewed the recording but couldn't attend the webinar.
 * Number of viewers who attended the webinar and viewed the recording. They are likely to be top prospects.
-* Number of viewers that registered for on-demand session.
+* Number of viewers that registered for the on-demand session.
 * Average watch duration of recording in minutes.
 
 ### Participant activity {#participant-activity}
 
-From the left panel, select Participant activity to view consolidated information about each attendee's engagement level. View how this engagement is classified in levels from Participant engagement level. Select User activity report (CSV) to download the report for better tracking.
+From the left panel, select **[!UICONTROL Participant activity]** to view consolidated information about each attendee's engagement level. View how this engagement is classified in levels from Participant engagement level. Click **[!UICONTROL User activity report (CSV)]** to download the report for better tracking.
  
 SCREENSHOT
 
@@ -267,23 +267,26 @@ View the following details from the table:
 
 Download reports for different activities and pods from a centralized hub as a host.
 
-1. From the left panel, select Download reports.
-1. Select Download all (.zip) to download reports for all activities and pods all at once.
+1. From the left panel, select **[!UICONTROL Download reports]**.
+
+1. Select **[!UICONTROL Download all (.zip)]** to download reports for all activities and pods all at once.
  
 SCREENSHOT
 
-Select  icon next to each report to download them individually.
+>[!NOTE]
+>
+>Click the download icon next to each report to download them individually.
 
 ## Participant engagement level {#participant-engagement-level}
 
-Organizations use Adobe Connect to deliver highly customized, branded, and engagement-led webinars. Interactive tools like polls, chat, Q&A, and reactions help engage attendees and collect more than just registration and attendance data. After attendees engage with these interactive features, the engagement data is used to classify attendees into three engagement levels: high, medium, and low. Marketers can use the engagement level to update audience segments, update lead scores, and alert sales.
+Organizations use Adobe Connect to deliver highly customized, branded, and engagement-led webinars. Interactive tools like polls, chat, Q&A, and reactions help engage attendees and collect more than just registration and attendance data. After attendees engage with these interactive features, the engagement data is used to classify attendees into three engagement levels: high, medium, and low. You can use the engagement level to update audience segments, update person scores, and alert sales.
 
-Understand the criterion for classifying the engagement level for each participant:
+Understand the criteria for classifying the engagement level for each participant:
 
 <table><thead>
   <tr>
     <th>Engagement level</th>
-    <th>Classification criterion</th>
+    <th>Classification criteria</th>
   </tr></thead>
 <tbody>
   <tr>

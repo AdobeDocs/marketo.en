@@ -8,25 +8,37 @@ exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
 ---
 # Room Management {#room-management}
 
-Interactive webinar rooms powered by Adobe Connect are designed to facilitate engaging and collaborative online events. These webinars store a quantity of content and recordings in webinar rooms created by authorized organization members. As a member with the right to create a room, you can access and manage them from a centralized place.
-
-Use the following steps to manage and access the rooms or recordings you created.
-
-1. Select the Design Studio tab from the top menu bar. 
-1. From the left navigation panel, select Interactive Webinars Templates > Manage Rooms.
-1. Access and manage Rooms or Recordings from the top menu bar.
+Interactive Webinar rooms powered by Adobe Connect are designed to facilitate engaging and collaborative online events. These webinars store a quantity of content and recordings in webinar rooms created by authorized organization members. As a member with the right to create a room, you can access and manage them from a centralized place.
 
 ## Manage and access Rooms {#manage-and-access-rooms}
+
+1. Select the Design Studio tab from the top menu bar.
+
+1. From the left navigation panel, select Interactive Webinars > Manage Rooms.
+
+1. Access and manage Rooms or Recordings from the top menu bar.
+
+NEW HEADER
 
 An interactive webinar room is a virtual space designed to host live, engaging online events where participants can actively interact with the presenter and other participants. In these rooms, you can find the uploaded content and recordings from webinars.
 
 To view the list of all your rooms, select Rooms from the top menu bar. You can find all the rooms you created along with uploaded content (link this where how to upload content is explained) and recordings (link this where recordings are explained) in these rooms. You can also view the number of recordings, in-room file size, and last accessed date for respective rooms.
 
-TABLE
-
-* Recordings: View the number of recordings available in a room.
-* In-room file size: View the combined file size of content and recordings available in a room.
-* Last accessed on: Shows the date when this room was last accessed. You can sort the information based on the timeline.
+<table><tbody>
+  <tr>
+    <td><b>Recordings</td>
+    <td>View the number of recordings available in a room.</td>
+  </tr>
+  <tr>
+    <td><b>In-room file size</td>
+    <td>View the combined file size of content and recordings available in a room.</td>
+  </tr>
+  <tr>
+    <td><b>Last accessed on</td>
+    <td>Shows the date when the room was last accessed. You can sort the information based on the timeline.</td>
+  </tr>
+</tbody>
+</table>
 
 SCREENSHOT
 
@@ -89,7 +101,7 @@ You can perform the following actions from this centralized hub:
 
 Recordings are invaluable resources, capturing the essence of live discussions, presentations, and Q&A sessions. They allow participants to revisit key insights, missed details, or complex concepts at their own pace.
 
-Once you select Recordings from the top bar, you'll be navigated to My recordings, where you can view a list of all the recordings you have uploaded.
+Click the Recordings tab to see a list of all the recordings you've uploaded.
 
 Under My recording, you can find all the recordings available in the room you created. You can also view their respective size, date and time, and duration of recordings. 
 

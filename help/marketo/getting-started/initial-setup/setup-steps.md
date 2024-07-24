@@ -181,13 +181,13 @@ Configure your domain settings so landing pages use your company's domain instea
 
    `b.` For DKIM, please create DNS Resource Records for each domain we'd like to setup. Below are the Host Records and TXT Values for each domain we'll be signing for:
 
-   **`[DKIMDomain1]`**: Host Record is **`[HostRecord1]`** and the TXT Value is **[TXTValue1]**.
+   **`[DKIMDomain1]`**: Host Record is **`[HostRecord1]`** and the TXT Value is **`[TXTValue1]`**.
 
    **`[DKIMDomain2]`**: Host Record is **`[HostRecord2]`** and the TXT Value is **`[TXTValue2]`**.
 
    `[`Copy the **HostRecord** and **TXTValue** for each **DKIMDomain** you've setup after following the [instructions here](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Don't forget to verify each domain in **Admin > Email > DKIM** after your IT staff has completed this step.`]`
   
-   `5)` We need to ensure there is a valid MX record for our FROM domains **[FromDomain1]**, **[FromDomain2]**, etc. Can you confirm? If not, please configure to map to our corporate domain MX record. This will ensure we can process replies/autoresponders to our Marketo mailings.
+   `5)` We need to ensure there is a valid MX record for our FROM domains **`[FromDomain1]`**, **`[FromDomain2]`**, etc. Can you confirm? If not, please configure to map to our corporate domain MX record. This will ensure we can process replies/autoresponders to our Marketo mailings.
 
    Let me know when you have completed these steps, so that I can complete the setup process with Marketo.
 
