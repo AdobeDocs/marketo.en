@@ -21,11 +21,17 @@ You can customize the following options:
 
 ## Customize interactive webinar screens {#customize-interactive-webinar-screens}
 
-1. Click **Design Studio**.
+1. Go to the **Design Studio**.
+
+   ![](assets/interactive-webinars-customization-1.png)
 
 1. Click **Interactive Webinars** and select **Customize Webinars**.
 
-1. Customize the Room interface, Immediate screens, or Virtual video backgrounds from the menu bar.
+   ![](assets/interactive-webinars-customization-2.png)
+
+1. You can customize the Room interface, Immediate screens, or Virtual video backgrounds.
+
+   ![](assets/interactive-webinars-customization-3.png)
 
 ### Customize the room interface {#customize-the-room-interface}
 
@@ -35,27 +41,25 @@ To customize the appearance of a room, select the Room interface tab from the me
 
 1. From the right panel, customize the following preferences:
  
-SCREENSHOT
+   ![](assets/interactive-webinars-customization-4.png)
 
-**Custom logo**: Select Upload logo and browse the image from your device. The image size must not exceed 50 x 31 pixels and can be in different file formats: .svg, .gif, .jpg, and .png. You can change or delete your logo.
+   **Custom logo**: Select Upload logo and browse the image from your device. The image size must not exceed 50 x 31 pixels and can be in different file formats: .svg, .gif, .jpg, and .png. You can change or delete your logo.
 
-**Redirection link**: Add a URL to redirect your attendees after they click the logo.
+   **Redirection link**: Add a URL to redirect your attendees after they click the logo.
 
-**Alternate text**: Add an alternate text for attendees using accessibility features.
+   **Alternate text**: Add an alternate text for attendees using accessibility features.
 
-**Colors**: Select colors for Room bar, Room icons, Room background, Pod bar, and Pod tiles/icons to change the color of different sections.
+   **Colors**: Select colors for Room bar, Room icons, Room background, Pod bar, and Pod tiles/icons to change the color of different sections.
 
-You can also enter the HEX color code using the HEX option.
+   You can also enter the HEX color code using the HEX option.
 
-Select **[!UICONTROL View templates]** to change the theme of the room.
+   Select **[!UICONTROL View templates]** to change the theme of the room.
 
-After making the changes, you can check the logo and colors in Preview.
+   After making the changes, you can check the logo and colors in Preview.
 
-1. Select **[!UICONTROL Apply]** to save the changes.
+1. Select **[!UICONTROL Apply]** to save the changes. To reset to the default settings, click **[!UICONTROL Reset to default]**.
 
->[!NOTE]
->
->To reset to the default settings, click **[!UICONTROL Reset to default]**.
+   ![](assets/interactive-webinars-customization-5.png)
 
 ### Customize intermediate screens {#customize-intermediate-screens}
 
@@ -64,20 +68,14 @@ Change the background image to change the look and feel of the entry, exit, and 
 To customize the appearance of a room, select the Intermediate screens tab from the menu bar.
 
 1. From the right panel, customize the Background image by selecting **Upload image** and browse an image for a logo. The image size must not exceed 1920 x 1080 pixels and can be in different file formats: .svg, .gif, .jpg, and .png. You can change or delete the logo if desired.
-
-After making the changes, view the background in Preview.
  
-SCREENSHOT
+   ![](assets/interactive-webinars-customization-6.png)
 
->[!NOTE]
->
->The uploaded image is applied across the Entry, Exit, and Waiting screens.
+   >[!NOTE]
+   >
+   >The uploaded image is applied across the Entry, Exit, and Waiting screens.
 
-1. Select **[!UICONTROL Apply]** to save the changes.
-
->[!NOTE]
->
->To reset to the default settings, click **[!UICONTROL Reset to default]**.
+1. Select **[!UICONTROL Apply]** to save the changes. To reset to the default settings, click **[!UICONTROL Reset to default]**.
 
 ### Customize virtual video backgrounds {#Customize-virtual-video-backgrounds}
 
@@ -85,11 +83,11 @@ Use organization defined backgrounds during your events to display your organiza
 
 **Custom backgrounds**
 
-Use the toggle switch to allow custom backgrounds in your events and rooms.
+1. Click the toggle switch to allow custom backgrounds in your events and rooms.
+
+   ![](assets/interactive-webinars-customization-7.png)
 
 1. Select **Upload background** to upload a custom background. The image size must not exceed 1920 x 1080 pixels and can be in different file formats: .svg, .gif, .jpg, and .png.
- 
-SCREENSHOT
 
 Hover over the custom background image to delete it from Video backgrounds.
 
@@ -97,11 +95,7 @@ After making the changes, view the background in Preview.
 
 You can use the slider in the Preview screen to zoom in or out to test how the virtual background would look if the user was close to or far from the camera. If there is any text in the background, this would help to ensure it would remain visible.
 
-1. Select **Apply** to save the changes.
-
->[!NOTE]
->
->To reset to the default settings, click **[!UICONTROL Reset to default]**.
+1. Select **[!UICONTROL Apply]** to save the changes. To reset to the default settings, click **[!UICONTROL Reset to default]**.
 
 **Adobe Connect backgrounds**
 
@@ -109,6 +103,6 @@ Adobe Connect provides nine default backgrounds that are ready to use. You can s
 
 Use the toggle switch to control the availability of these default backgrounds in your events and rooms.
 
-SCREENSHOT
+   ![](assets/interactive-webinars-customization-8.png)
 
-Select **Apply** to save the changes or select **Reset to default** to reset the default settings.
+Select **Apply** to save the changes or **Reset to default** to reset to the default settings.
