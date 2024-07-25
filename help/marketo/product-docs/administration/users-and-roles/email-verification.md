@@ -18,7 +18,7 @@ When an Admin invites a user, that user is automatically verified once they clic
 
 >[!IMPORTANT]
 >
->The exception to the above is, _in an SSO-only subscription_, Admins will receive a new user invitation, but non-Admin users will not. Users who are not Admins must still go through the email verification process to ensure migration of their records. Users can send themselves the email verification link by clicking their Profile icon and going to **My Account** > **Account Settings** and clicking **Resend Verification**.
+>The exception to the above is, _in an SSO-only subscription_, Admins will receive a new user invitation, but non-Admin users will not. Users who are not Admins must still go through the email verification process to ensure migration of their records. Users can send themselves the email verification link by clicking their "My Profile" icon and navigating to **My Account** > **Account Settings** > **Resend Verification**.
 
    ![](assets/email-verification-1.png)
 
