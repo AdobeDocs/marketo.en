@@ -25,7 +25,7 @@ View engagement for the following types of sessions in an interactive webinar.
 
    ![](assets/engagement-dashboard-1.png)
 
-1. Select the desired event.
+1. Select the desired completed event.
 
    ![](assets/engagement-dashboard-2.png)
 
