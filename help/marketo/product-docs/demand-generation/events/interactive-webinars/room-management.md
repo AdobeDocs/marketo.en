@@ -42,7 +42,7 @@ To view the list of all your rooms, select **[!UICONTROL Rooms]** from the top m
 </tbody>
 </table>
 
-SCREENSHOT
+   ![](assets/room-management-3.png)
 
 You can perform the following actions from this centralized interface:
 
@@ -76,7 +76,7 @@ The Content tab lets you view the uploaded files, their type, size, last accesse
 </tbody>
 </table>
  
-SCREENSHOT
+   ![](assets/room-management-4.png)
 
 You can perform the following actions in the Content tab:
 
@@ -90,14 +90,14 @@ You can perform the following actions in the Content tab:
 
 The Recordings tab allows you to view all recordings available in this room. Each recording is displayed with details such as its size, date and time of recording, and duration.
 
-SCREENSHOT
+   ![](assets/room-management-5.png)
 
 You can perform the following actions from this centralized hub:
 
 * Click the **[!UICONTROL Launch room]** button to launch and enter the room.
 * Use the search bar to find the recording you're looking for.
 * Click the Download file icon to download a file on your device. Select two or more files to download in bulk.
-* Click the Copy recording icon to copy the recording URL.
+* Click the Copy recording link icon to copy the recording URL.
 * Click the Edit Recording icon to make changes to your recording.
 * Click the Delete icon to remove the recording. When a recording is deleted, it cannot be retrieved.
 * Select a recording to play it on the device.
@@ -106,18 +106,17 @@ You can perform the following actions from this centralized hub:
 
 Recordings are invaluable resources, capturing the essence of live discussions, presentations, and Q&A sessions. They allow participants to revisit key insights, missed details, or complex concepts at their own pace.
 
-Click the **Recordings** tab to see a list of all the recordings you've uploaded.
+Click the **[!UICONTROL Recordings]** tab to see a list of all the recordings you've uploaded.
 
-Under My recording, you can find all the recordings available in the room you created. You can also view their respective size, date and time, and duration of recordings. 
+Under **[!UICONTROL My recordings]**, you can find all the recordings available in the room you created. You can also view their respective size, date and time, and duration of recordings. 
 
-SCREENSHOT
+   ![](assets/room-management-6.png)
 
 You can perform the following actions from this centralized hub:
 
 * Use the search bar to find the recording you're looking for. You can also search within a timeline by selecting a Date range.
-* Select Copy recoding link   to copy the recording URL.
-* Edit the recording. (add a link to edit the recording on "edit" word)
-* Select Edit Recording  to make changes to your recording. (add a link to edit the recording on "edit" word)
-* Select Show linked page   to view the information about the room where the selected recording is available.
-* Use Delete room  to remove the recording. Once a recording is deleted, it cannot be retrieved.
+* Click the Copy recording link icon to copy the recording URL.
+* Click the Edit Recording icon to make changes to your recording.
+* Click the Show linked page icon to view the information about the room where the selected recording is available.
+* Click the Delete icon to remove the recording. When a recording is deleted, it cannot be retrieved.
 * Select a recording to play it on the device.
