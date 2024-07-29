@@ -11,53 +11,183 @@ You might have noticed that the [person detail page](/help/marketo/product-docs/
 
 ## Field Types {#field-types}
 
-| **Field Name** |**Definition** |
-|---|---|
-| Original Source Type |The location a person or website visitor was first discovered (Example: List Import, Web Page Visit) |
-| Original Source Info |Specifics about that location (Example: Name of the list, URL of the web page) |
-| Original Search Engine |If applicable, the search engine that referred the person to the original entry source |
-| Original Search Phrase |If applicable, the search term used that referred the person to the original entry source |
-| Original Referrer |URL that hosted the original entry source |
-| Registration Source Type |The location an activity first became a person (Example: List Import, Web Page Visit) |
-| Registration Source Info |Specifics about that location (Example: Name of the list, URL of the web page) |
-| Anonymous IP |Indicates the IP address of a person |
-| Inferred Company |Marketo's best guess (based on IP) of the person's company |
-| Inferred City |Marketo's best guess (based on IP) of the person's city |
-| Inferred State Region |Marketo's best guess (based on IP) of the person's state or region |
-| Inferred Postal Code |Marketo's best guess (based on IP) of the person's postal code |
-| Inferred Country |Marketo's best guess (based on IP) of the person's country |
-| Inferred Metropolitan Area |Marketo's best guess (based on IP) of the person's metropolitan area |
-| Inferred Phone Area Code |Marketo's best guess (based on IP) of the person's area code |
+<table><thead>
+  <tr>
+    <th>Field Name</th>
+    <th>Definition</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Original Source Type</td>
+    <td>The location a person or website visitor was first discovered (Example: List Import, Web Page Visit)</td>
+  </tr>
+  <tr>
+    <td>Original Source Info</td>
+    <td>Specifics about that location (Example: Name of the list, URL of the web page)</td>
+  </tr>
+  <tr>
+    <td>Original Search Engine</td>
+    <td>If applicable, the search engine that referred the person to the original entry source</td>
+  </tr>
+  <tr>
+    <td>Original Search Phrase</td>
+    <td>If applicable, the search term used that referred the person to the original entry source</td>
+  </tr>
+  <tr>
+    <td>Original Referrer</td>
+    <td>URL that hosted the original entry source</td>
+  </tr>
+  <tr>
+    <td>Registration Source Type</td>
+    <td>The location an activity first became a person (Example: List Import, Web Page Visit)</td>
+  </tr>
+  <tr>
+    <td>Registration Source Info</td>
+    <td>Specifics about that location (Example: Name of the list, URL of the web page)</td>
+  </tr>
+  <tr>
+    <td>Anonymous IP</td>
+    <td>Indicates the IP address of a person</td>
+  </tr>
+  <tr>
+    <td>Inferred Company</td>
+    <td>Marketo's best guess (based on IP) of the person's company</td>
+  </tr>
+  <tr>
+    <td>Inferred City</td>
+    <td>Marketo's best guess (based on IP) of the person's city</td>
+  </tr>
+  <tr>
+    <td>Inferred State Region</td>
+    <td>Marketo's best guess (based on IP) of the person's state or region</td>
+  </tr>
+  <tr>
+    <td>Inferred Postal Code</td>
+    <td>Marketo's best guess (based on IP) of the person's postal code</td>
+  </tr>
+  <tr>
+    <td>Inferred Country</td>
+    <td>Marketo's best guess (based on IP) of the person's country</td>
+  </tr>
+  <tr>
+    <td>Inferred Metropolitan Area</td>
+    <td>Marketo's best guess (based on IP) of the person's metropolitan area</td>
+  </tr>
+  <tr>
+    <td>Inferred Phone Area Code</td>
+    <td>Marketo's best guess (based on IP) of the person's area code</td>
+  </tr>
+</tbody></table>
 
 ## Possible Values for Original and Registration Source Type {#possible-values-for-original-and-registration-source-type}
 
 Below are some possible values and what they mean. 
 
-| **Original Source Type** |**Definition** |
-|---|---|
-| Salesforce.com |Person was discovered from a [!DNL Webhook] sync |
-| Web Page Visits |Person was discovered from a web page |
-| Web Form Fillout |Person was discovered after filling out a form |
-| List Import |Person was discovered from a list import |
-| New Person |Person was manually entered into the database |
-| Web Link Click |Person was discovered after clicking on a link |
-| Sales Email |Person was sent an email via [!DNL Sales Insight] Email Add-In |
-| Person |Person was synced over from [!DNL Salesforce] as a person |
-| Contact |Person was synced over from [!DNL Webhook] as a contact |
-| [!DNL Munchkin] API |Person was discovered by the Marketo Engage [!DNL Munchkin] API |
-| Social App |Person was discovered by a social widget |
-| Web Service API |Person was discovered by a web service API |
-| Event Partner |Person was discovered through a synced webinar service |
-| Associate Lead |Person that was merged via Associate Lead API call |
+<table><thead>
+  <tr>
+    <th>Original Source Type</th>
+    <th>Definition</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Salesforce.com</td>
+    <td>Person was discovered from the Salesforce sync</td>
+  </tr>
+  <tr>
+    <td>Web Page Visits</td>
+    <td>Person was discovered from a web page</td>
+  </tr>
+  <tr>
+    <td>Web Form Fillout</td>
+    <td>Person was discovered after filling out a form</td>
+  </tr>
+  <tr>
+    <td>List Import</td>
+    <td>Person was discovered from a list import</td>
+  </tr>
+  <tr>
+    <td>New Person</td>
+    <td>Person was manually entered into the database</td>
+  </tr>
+  <tr>
+    <td>Web Link Click</td>
+    <td>Person was discovered after clicking on a link</td>
+  </tr>
+  <tr>
+    <td>Sales Email</td>
+    <td>Person was sent an email via Sales Insight Email Add-In</td>
+  </tr>
+  <tr>
+    <td>Person</td>
+    <td>Person was synced over from Salesforce as a person</td>
+  </tr>
+  <tr>
+    <td>Contact</td>
+    <td>Person was synced over from Webhook as a contact</td>
+  </tr>
+  <tr>
+    <td>Munchkin API</td>
+    <td>Person was discovered by the Marketo Engage Munchkin API</td>
+  </tr>
+  <tr>
+    <td>Social App</td>
+    <td>Person was discovered by a social widget</td>
+  </tr>
+  <tr>
+    <td>Web Service API</td>
+    <td>Person was discovered by a web service API</td>
+  </tr>
+  <tr>
+    <td>Event Partner</td>
+    <td>Person was discovered through a synced webinar service</td>
+  </tr>
+  <tr>
+    <td>Associate Lead</td>
+    <td>Person that was merged via Associate Lead API call</td>
+  </tr>
+</tbody></table>
 
-| **Registration Source Type** |**Definition** |
-|---|---|
-| List Import |Became a person through a list import |
-| Salesforce.com |Became a person through a [!DNL Webhook] sync |
-| Web Form Fillout |Became a person after filling out a form |
-| Sales Email |Person was sent an email via [!DNL Webhook] Email Add-In |
-| Web Service API |Person was created via SOAP/REST API |
-| New Person |Person was manually entered into the database |
-| [!DNL Munchkin] API |Became a person through Marketo's [!DNL Munchkin] API |
-| Social App |Became a person through a social widget |
-| Event Partner |Became a person through a linked webinar service |
+<table><thead>
+  <tr>
+    <th>Registration Source Type</th>
+    <th>Definition</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>List Import</td>
+    <td>Became a person through a list import</td>
+  </tr>
+  <tr>
+    <td>Salesforce.com</td>
+    <td>Became a person through Salesforce sync</td>
+  </tr>
+  <tr>
+    <td>Web Form Fillout</td>
+    <td>Became a person after filling out a form</td>
+  </tr>
+  <tr>
+    <td>Sales Email</td>
+    <td>Person was sent an email via Sales Insight Email Add-In</td>
+  </tr>
+  <tr>
+    <td>Web Service API</td>
+    <td>Person was created via SOAP/REST API</td>
+  </tr>
+  <tr>
+    <td>New Person</td>
+    <td>Person was manually entered into the database</td>
+  </tr>
+  <tr>
+    <td>Munchkin API</td>
+    <td>Became a person through Marketo's Munchkin API</td>
+  </tr>
+  <tr>
+    <td>Social App</td>
+    <td>Became a person through a social widget</td>
+  </tr>
+  <tr>
+    <td>Event Partner</td>
+    <td>Became a person through a linked webinar service</td>
+  </tr>
+</tbody>
+</table>
