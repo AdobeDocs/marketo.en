@@ -19,19 +19,43 @@ You can customize the following options:
 * Logo
 * Virtual video backgrounds
 
+## Grant permissions {#grant-permissions}
+
+Before any users in your organization have the ability to customize your Interactive Webinars, a Marketo Engage admin must first add access to the desired role(s).
+
+1. In Marketo Engage, click **[!UICONTROL Admin]**.
+
+   ![](assets/interactive-webinars-customization-1.png)
+
+1. Click **[!UICONTROL Users & Roles]**, then the **[!UICONTROL Roles]** tab.
+
+   ![](assets/interactive-webinars-customization-2.png)
+
+1. Double-click the role you'd like to add the permissions to.
+
+   ![](assets/interactive-webinars-customization-3.png)
+
+1. Click to open **[!UICONTROL Access Design Studio]**.
+
+   ![](assets/interactive-webinars-customization-4.png)
+
+1. Select the **[!UICONTROL Access Interactive Webinars Customization]** checkbox.
+
+   ![](assets/interactive-webinars-customization-5.png)
+
 ## Customize interactive webinar screens {#customize-interactive-webinar-screens}
 
 1. Go to the **Design Studio**.
 
-   ![](assets/interactive-webinars-customization-1.png)
+   ![](assets/interactive-webinars-customization-6.png)
 
 1. Click **Interactive Webinars** and select **Customize Webinars**.
 
-   ![](assets/interactive-webinars-customization-2.png)
+   ![](assets/interactive-webinars-customization-7.png)
 
 1. You can customize the Room interface, Immediate screens, or Virtual video backgrounds.
 
-   ![](assets/interactive-webinars-customization-3.png)
+   ![](assets/interactive-webinars-customization-8.png)
 
 ### Customize the room interface {#customize-the-room-interface}
 
@@ -41,7 +65,7 @@ To customize the appearance of a room, select the Room interface tab from the me
 
 1. From the right panel, customize the following preferences:
  
-   ![](assets/interactive-webinars-customization-4.png)
+   ![](assets/interactive-webinars-customization-9.png)
 
    **Custom logo**: Select Upload logo and browse the image from your device. The image size must not exceed 50 x 31 pixels and can be in different file formats: .svg, .gif, .jpg, and .png. You can change or delete your logo.
 
@@ -59,7 +83,7 @@ To customize the appearance of a room, select the Room interface tab from the me
 
 1. Select **[!UICONTROL Apply]** to save the changes. To reset to the default settings, click **[!UICONTROL Reset to default]**.
 
-   ![](assets/interactive-webinars-customization-5.png)
+   ![](assets/interactive-webinars-customization-10.png)
 
 ### Customize intermediate screens {#customize-intermediate-screens}
 
@@ -69,7 +93,7 @@ To customize the appearance of a room, select the Intermediate screens tab from 
 
 1. From the right panel, customize the Background image by selecting **Upload image** and browse an image for a logo. The image size must not exceed 1920 x 1080 pixels and can be in different file formats: .svg, .gif, .jpg, and .png. You can change or delete the logo if desired.
  
-   ![](assets/interactive-webinars-customization-6.png)
+   ![](assets/interactive-webinars-customization-11.png)
 
    >[!NOTE]
    >
@@ -85,7 +109,7 @@ Use organization defined backgrounds during your events to display your organiza
 
 1. Click the toggle switch to allow custom backgrounds in your events and rooms.
 
-   ![](assets/interactive-webinars-customization-7.png)
+   ![](assets/interactive-webinars-customization-12.png)
 
 1. Select **Upload background** to upload a custom background. The image size must not exceed 1920 x 1080 pixels and can be in different file formats: .svg, .gif, .jpg, and .png.
 
@@ -103,6 +127,6 @@ Adobe Connect provides nine default backgrounds that are ready to use. You can s
 
 Use the toggle switch to control the availability of these default backgrounds in your events and rooms.
 
-   ![](assets/interactive-webinars-customization-8.png)
+   ![](assets/interactive-webinars-customization-13.png)
 
 Select **Apply** to save the changes or **Reset to default** to reset to the default settings.

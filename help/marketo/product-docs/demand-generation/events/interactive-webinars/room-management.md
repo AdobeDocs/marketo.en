@@ -8,7 +8,11 @@ exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
 ---
 # Room Management {#room-management}
 
-Interactive Webinar rooms powered by Adobe Connect are designed to facilitate engaging and collaborative online events. These webinars store a quantity of content and recordings in webinar rooms created by authorized organization members. As a member with the right to create a room, you can access and manage them from a centralized place.
+Interactive Webinar rooms powered by Adobe Connect are designed to facilitate engaging and collaborative online events. These webinars store content and recordings created and used during the webinar. As a member with the right to create a room, you can access and manage them from a central location.
+
+>[!NOTE]
+>
+>You can only access the rooms you created for a webinar and not rooms of other members in your organization.
 
 ## Manage and access Rooms and Recordings {#manage-and-access-rooms-and-recordings}
 
