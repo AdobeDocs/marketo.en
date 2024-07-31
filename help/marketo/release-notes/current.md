@@ -71,6 +71,16 @@ The following features fall under the standard release cycle and will start to b
 
 * **New Developer Documentation Site**: As part of our continued effort to enhance the Marketo Engage user experience, we will be migrating all developer documentation to the Adobe Experience League and the Adobe Developer website in July 2024. [Learn more](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
 
+* **Social Features Deprecation**: On Wednesday, July 31, 2024, Marketo Engage will begin the deprecation of the following Social features within the product:
+
+  * Polls
+  * Social Button
+  * Referral Offer
+  * Video Share
+  * Sweepstakes
+
+Users will no longer be able to create, clone, or embed any of these Social features in Marketo Engage. Existing Social assets will continue to work through January 31, 2025. [Learn more](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
 * **Access Token in Query Parameter Deprecation**: Support for authentication using access tokens in a query parameter of a Marketo Engage REST API call will be removed in a future release (specific date TBD). Existing integrations should migrate to usage of the Authorization header [described here](https://developers.marketo.com/rest-api/authentication/){target="_blank"}. New development should only use the Authorization header for authentication with Marketo Engage.
 
 * **LinkedIn Re-authentication Required**: LinkedIn is upgrading their Marketing APIs used by Marketo Engage LinkedIn integrations. These changes will require re-authentication of all LinkedIn LaunchPoint services in your **Admin** > **LaunchPoint** menu between July 26 and December 15, 2024, to avoid service interruption. You can find instructions on how to accomplish this [here for Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} and [here for Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Lead Gen Form service has a type of "LinkedIn Lead Gen" and Matched Audience service has type of "LinkedIn Matched Audiences." For more information, please see the [Migration FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
