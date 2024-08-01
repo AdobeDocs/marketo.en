@@ -47,8 +47,8 @@ The following features fall under the standard release cycle and will start to b
     <tr> 
    <td><strong>API Activity Metadata</strong>: 
    Metadata such as User Agent, Platform, and Device are now included in web and email activities, helping to provide consistent insights into these activities via the Marketo REST API.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
  </tbody> 
 </table>

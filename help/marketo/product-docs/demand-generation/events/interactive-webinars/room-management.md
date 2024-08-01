@@ -1,8 +1,6 @@
 ---
 description: Room Management - Marketo Docs - Product Documentation
 title: Room Management
-hide: yes
-hidefromtoc: yes
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
 ---

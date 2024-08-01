@@ -27,8 +27,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
      <tr> 
    <td><strong>Engagement Dashboard for Interactive Webinars</strong>: Obtain an aggregate webinar performance view as well as a comprehensive view of engagement for each attendee during the webinar so you can decide which leads to target through Marketo Engage orchestration tools.</td> 
-    <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+    <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">Engagement Dashboard</a></td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
@@ -38,8 +38,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
      <tr> 
    <td><strong>Room Management for Interactive Webinars</strong>: Access individual rooms created (and make modifications if needed) as well as access the content and recording (and clear them if needed to optimize storage).</td> 
-    <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+    <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">Room Management</a></td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
@@ -49,8 +49,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
      <tr> 
    <td><strong>Webinar Customization for Interactive Webinars</strong>: Provide a uniform organization-approved branded experience through the use of a common room interface, intermediary screens (such as attendee entry screen backgrounds), as well as custom video backgrounds, so that webinar strategy can more easily align with brand strategy.</td> 
-    <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+    <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">Interactive Webinars Customization</a></td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
