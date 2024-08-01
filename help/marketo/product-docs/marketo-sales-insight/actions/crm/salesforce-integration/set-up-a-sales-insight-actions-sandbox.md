@@ -7,7 +7,7 @@ exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions is a web-based application that integrates with the Salesforce user interface via the [Marketo Sales Insight package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. It is sometimes referred to as "Marketo Sales," or simply "Actions."
+>Marketo Sales Insight Actions is a web-based application that integrates exclusively with the Salesforce CRM via the [Marketo Sales Insight package](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. It is sometimes referred to as "Marketo Sales," or simply "Actions."
 
 If you have a Marketo Sandbox, you can enable an Actions instance to be used with your sandbox for testing purposes.
 
