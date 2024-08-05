@@ -11,7 +11,7 @@ Referral offers give people an incentive to refer their friends. Create goals an
 
 >[!IMPORTANT]
 >
->On July 31, 2024, we began the process of deprecating this feature. You won't be able to create new assets. Existing assets will continue to work through January 31, 2025. [Learn more](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>On July 31, 2024, we began the process of deprecating this feature. New assets can no longer be created. Existing assets will continue to work through January 31, 2025. [Learn more](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
