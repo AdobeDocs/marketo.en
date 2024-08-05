@@ -7,7 +7,11 @@ feature: Social
 ---
 # Add Your Privacy Policy to a Social App {#add-your-privacy-policy-to-a-social-app}
 
-When you create a social app, you can add a link to your company’s privacy policy.
+When you create a social app, you can add a link to your company's privacy policy.
+
+>[!IMPORTANT]
+>
+>On July 31, 2024, we began the process of deprecating this feature. You won't be able to create new assets. Existing assets will continue to work through January 31, 2025. [Learn more](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Go to **Marketing Activities**.
 

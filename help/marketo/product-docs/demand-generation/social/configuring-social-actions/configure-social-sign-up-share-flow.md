@@ -9,6 +9,10 @@ feature: Social
 
 When you create a social app, you can configure the social network choices and prompts that a user encounters as they sign up.
 
+>[!IMPORTANT]
+>
+>On July 31, 2024, we began the process of deprecating this feature. You won't be able to create new assets. Existing assets will continue to work through January 31, 2025. [Learn more](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
 ## Select Networks for Sharing {#select-networks-for-sharing}
 
 1. Go to **Marketing Activities**.
@@ -41,7 +45,7 @@ When you create a social app, you can configure the social network choices and p
    >
    >In a video share, the thumbnail is generated automatically.
 
-   If you choose **Add Dynamic content**, the values of the page’s **OpenGraph** tags (og:title, og:caption, and og:description) and the thumbnail are automatically added to Facebook posts. See the next step.
+   If you choose **Add Dynamic content**, the values of the page's **OpenGraph** tags (og:title, og:caption, and og:description) and the thumbnail are automatically added to Facebook posts. See the next step.
 
    If you choose **Add Static content**, enter the title, caption, description, and upload an image. See the next two steps.
 
@@ -69,7 +73,7 @@ When you create a social app, you can configure the social network choices and p
 
 1. Click **Next**.
 
-If you choose the values of the page’s tags (og:title, og:caption, and og:description) and the thumbnail are automatically added to Facebook posts. See the next step.
+If you choose the values of the page's tags (og:title, og:caption, and og:description) and the thumbnail are automatically added to Facebook posts. See the next step.
 
 ## Configure the Twitter Message {#configure-the-twitter-message}
 

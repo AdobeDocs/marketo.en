@@ -9,6 +9,10 @@ feature: Social
 
 Referral offers give people an incentive to refer their friends. Create goals and rewards for successful referrals. You can drop it on landing pages, your website, and even Facebook.
 
+>[!IMPORTANT]
+>
+>On July 31, 2024, we began the process of deprecating this feature. You won't be able to create new assets. Existing assets will continue to work through January 31, 2025. [Learn more](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
 >[!AVAILABILITY]
 >
 >Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
@@ -29,7 +33,7 @@ Referral offers give people an incentive to refer their friends. Create goals an
    >
    >To save time, you can use the **Clone From** option to copy all settings from an existing referral offer.
 
-   The referral offer editor opens in a new window. The default settings are all good, but you need to add a link to your offer’s rules (terms and conditions). The link will appear in the bottom of share message screens. We’ll show you how in the next step.
+   The referral offer editor opens in a new window. The default settings are all good, but you need to add a link to your offer's rules (terms and conditions). The link will appear in the bottom of share message screens. We'll show you how in the next step.
 
 1. Click **Advanced Options**.
 

@@ -9,6 +9,10 @@ feature: Social
 
 When someone interacts with a Marketo [social app](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md), or authorizes their social network to prefill a Marketo form with [social form fill](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), Marketo captures all the data available from their social profile. You can view this information on the [Person Details page](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md), or add it as a column in a [custom view of a smart list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
+>[!IMPORTANT]
+>
+>On July 31, 2024, we began the process of deprecating this feature. You won't be able to create new assets. Existing assets will continue to work through January 31, 2025. [Learn more](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
 Social form fill and social apps capture slightly different sets of fields; see the section for each below.
 
 >[!AVAILABILITY]

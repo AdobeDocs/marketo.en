@@ -9,6 +9,10 @@ feature: Social
 
 When you create a [referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) or a [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), you can invite participants to share your offer with more friends as part of the sign-up process, as well as provide default text for the share email.
 
+>[!IMPORTANT]
+>
+>On July 31, 2024, we began the process of deprecating this feature. You won't be able to create new assets. Existing assets will continue to work through January 31, 2025. [Learn more](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
 >[!NOTE]
 >
 >In a referral offer, you can also [make sharing the offer a requirement](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) to sign up.

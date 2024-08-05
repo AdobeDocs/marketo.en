@@ -8,6 +8,10 @@ exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
 
 When you [create a sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), you can customize how it looks on your landing page.
 
+>[!IMPORTANT]
+>
+>On July 31, 2024, we began the process of deprecating this feature. You won't be able to create new assets. Existing assets will continue to work through January 31, 2025. [Learn more](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
 >[!AVAILABILITY]
 >
 >Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.

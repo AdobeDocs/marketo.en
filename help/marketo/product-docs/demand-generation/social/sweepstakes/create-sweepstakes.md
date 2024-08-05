@@ -8,6 +8,10 @@ exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
 
 A sweepstakes gives people a chance to win a prize in return for telling their friends about you. You can drop it on landing pages, your website, and even Facebook.
 
+>[!IMPORTANT]
+>
+>On July 31, 2024, we began the process of deprecating this feature. You won't be able to create new assets. Existing assets will continue to work through January 31, 2025. [Learn more](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
 >[!AVAILABILITY]
 >
 >Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
@@ -28,7 +32,7 @@ A sweepstakes gives people a chance to win a prize in return for telling their f
    >
    >To save time, you can use the **Clone From** option to copy all settings from an existing sweepstakes.
 
-   The sweepstakes editor opens in a new window. The default settings are all good, but you still need to configure a few details. We’ll show you how in the next steps.
+   The sweepstakes editor opens in a new window. The default settings are all good, but you still need to configure a few details. We'll show you how in the next steps.
 
 1. Click **Sweepstakes Details**.
 

@@ -9,9 +9,13 @@ feature: Social
 
 Embed social apps on your non-Marketo pages.
 
+>[!IMPORTANT]
+>
+>On July 31, 2024, we began the process of deprecating this feature. You won't be able to create new assets. Existing assets will continue to work through January 31, 2025. [Learn more](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
 >[!AVAILABILITY]
 >
->Contact your sales rep for more details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 You can deploy social apps on your own website to engage your audience and bring everyone into the larger conversation on social networks. As people share your promotions and content with their friends on social networks, you generate more traffic on your site.
 

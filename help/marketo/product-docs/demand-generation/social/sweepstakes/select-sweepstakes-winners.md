@@ -8,6 +8,10 @@ exl-id: 4f6d0b39-86c6-468f-97ad-d65ef3f13b9c
 
 When you [publish a sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), you need to select winners for each drawing. When you do, your [fulfillment email](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) is automatically sent to them.
 
+>[!IMPORTANT]
+>
+>On July 31, 2024, we began the process of deprecating this feature. You won't be able to create new assets. Existing assets will continue to work through January 31, 2025. [Learn more](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
 >[!AVAILABILITY]
 >
 >Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.

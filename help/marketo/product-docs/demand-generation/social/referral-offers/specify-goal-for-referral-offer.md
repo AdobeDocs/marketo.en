@@ -9,7 +9,11 @@ feature: Social
 
 When you [create a referral offer](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), you need to define the fulfillment goal. The goal can be defined by person activity on the web page, such as page visits or sign-ups. You can even use a [custom JavaScript event](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md).
 
-Alternatively, you can use a smart list trigger in Marketo to wait for any milestone, such as an opportunity being created for the referred person.
+>[!IMPORTANT]
+>
+>On July 31, 2024, we began the process of deprecating this feature. You won't be able to create new assets. Existing assets will continue to work through January 31, 2025. [Learn more](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
+Alternatively, you can use a smart list trigger in Marketo Engage to wait for any milestone, such as an opportunity being created for the referred person.
 
 Example goals:
 

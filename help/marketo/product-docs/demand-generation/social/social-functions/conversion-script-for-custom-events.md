@@ -9,6 +9,10 @@ feature: Social
 
 You define the fulfillment goal when creating a referral offer. If the action that counts towards the goal is a specific event on your own web page, you can use a conversion script to call our JavaScript API.
 
+>[!IMPORTANT]
+>
+>On July 31, 2024, we began the process of deprecating this feature. You won't be able to create new assets. Existing assets will continue to work through January 31, 2025. [Learn more](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
 ## Retrieve the Conversion Script {#retrieve-the-conversion-script}
 
 1. Within the referral offer editor, click **Offer Details** and then select **Customer JavaScript Event** from the fulfillment goal drop-down.
