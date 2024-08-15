@@ -22,6 +22,10 @@ As part of the migration, your subscription and user management will move from w
 
 * **Users will sign in with Adobe Identity**. Adobe will migrate existing users to the Adobe Admin Console. Users will sign in to their Marketo subscriptions using their new Adobe Identity - either an Adobe ID or Adobe Federated ID (SSO).
 
+* **URLs will look different after migration**. The ID numbers of your assets remain the same, however. And previously saved bookmarks should still take you to the correct location. Talk to your IT team and make sure they add the domain below (including the asterisk) to allow all Marketo Engage resources and websockets:
+
+_*.experience.adobe.com_
+
 ## What is Not Changing? {#what-is-not-changing}
 
 * **There is no change to how you manage all other functionality** within the Marketo Engage application itself, including management of features, user roles, workspaces, functionality, and behavior.
@@ -110,6 +114,7 @@ For additional support regarding your subscription or user migration, email `mar
 
 >[!MORELIKETHIS]
 >
->* [Migrating to Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
+>* [Migrating to Adobe Identity Overview](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
 >* [User Sign-in with Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} 
 >* [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
+>* [Migrating to Adobe Identity Management Tutorial](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}
