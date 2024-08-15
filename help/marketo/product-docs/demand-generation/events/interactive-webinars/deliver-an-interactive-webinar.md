@@ -17,15 +17,13 @@ Your Interactive Webinar is ready to go. Learn everything you need to know about
 
 1. If you're a co-host or a presenter, click the personalized link in the email you received for the webinar.
 
-   ![](assets/deliver-an-interactive-webinar-2.png)
-
 1. Select your audio/video preferences and click **Enter Room**.
 
-   ![](assets/deliver-an-interactive-webinar-3.png)
+   ![](assets/deliver-an-interactive-webinar-2.png)
 
 1. Select the layout to be shown to early joiners.
 
-   ![](assets/deliver-an-interactive-webinar-4.png)
+   ![](assets/deliver-an-interactive-webinar-3.png)
 
    >[!NOTE]
    >
@@ -37,17 +35,17 @@ Your Interactive Webinar is ready to go. Learn everything you need to know about
 
 1. You can record the session if needed. Select **Record session** from the room menu. Recording can be stopped later from the same menu.
 
-   ![](assets/deliver-an-interactive-webinar-5.png)
+   ![](assets/deliver-an-interactive-webinar-4.png)
 
 1. Your session begins at the designated time.
 
 1. Click the room name. In the drop-down, select **Host & Presenter area** to chat or share notes with the presentation team backstage. The host & presenter area opens on the right side of the screen. Only hosts/co-hosts and presenters are able to see this portion of the screen.
 
-   ![](assets/deliver-an-interactive-webinar-6.png)
+   ![](assets/deliver-an-interactive-webinar-5.png)
 
 1. When the session is complete, click the red arrow icon and select **End session for all**.
 
-   ![](assets/deliver-an-interactive-webinar-7.png)
+   ![](assets/deliver-an-interactive-webinar-6.png)
 
    >[!CAUTION]
    >
@@ -63,11 +61,11 @@ Participants can join the webinar by clicking the personalized link received aft
 
 1. Participants who launch the event link more than 15 minutes before the scheduled start will see a landing page informing them to wait for the event to start.
 
-   ![](assets/deliver-an-interactive-webinar-8.png)
+   ![](assets/deliver-an-interactive-webinar-7.png)
 
 1. Participants need to select their audio preferences and then click Enter room. Participants joining an Adobe Connect room for the first time will also see a browser popup for microphone permission. Adobe Connect needs this access for participants to be able to use their microphone later within the room.
 
-   ![](assets/deliver-an-interactive-webinar-9.png)
+   ![](assets/deliver-an-interactive-webinar-8.png)
 
    >[!NOTE]
    >
@@ -97,7 +95,7 @@ Discussions within the Chat pods are always recorded. So, if the chat discussion
 
 Discussion within Chat Panel are not recorded. The Chat Panel also frees up the real estate which would have been occupied by chat pod within the layout. So, if the chat discussions are not going to add value to recording viewers, use the Chat Panel instead of chat pods when designing the room.
 
-   ![](assets/deliver-an-interactive-webinar-10.png)
+   ![](assets/deliver-an-interactive-webinar-9.png)
 
 Learn more about [the Chat Panel](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
@@ -109,7 +107,7 @@ To use Prepare Mode:
 
 1. Click the wrench icon at the bottom of Layouts Panel.
 
-   ![](assets/deliver-an-interactive-webinar-.png)
+   ![](assets/deliver-an-interactive-webinar-10.png)
 
 1. From the Layouts Panel, choose the layout you want to adjust. Move, hide, or show pods as needed. You can also update the content in pods like upload a new version of presentation in a share pod.
 
