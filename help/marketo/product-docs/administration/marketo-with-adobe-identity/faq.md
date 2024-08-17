@@ -22,13 +22,13 @@ Existing Marketo subscriptions will be migrated to the Adobe Identity Management
 
 **After migration, will Marketo Engage URLs remain the same?**
 
-No. URLs will look different after migration. The ID numbers of your assets remain the same, however. And previously saved bookmarks should still take you to the correct location.
+No. URLs will look different after migration.
 
 **Is there anything we need to do to prepare for the URL change?**
 
-Yes. Talk to your IT team and make sure they add the domain below (including the asterisk) to allow all Marketo Engage resources and websockets:
+Yes. After migration, Marketo Engage will go from being served from experience.adobe.com to Adobe Experience Cloud. You'll need to work with your IT team to allowlist all Adobe domains listed [at the top of this article](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} to prevent disruption to Marketo Engage access. 
 
-_*.experience.adobe.com_
+Previous links and bookmarks to Marketo Engage assets on the engage-xx.marketo.com domain _will_ continue to function. However, you must first log in to the Marketo Engage instance for the URL you are navigating to. For example, to navigate to a bookmark for a Smart Campaign in instance with Munchkin ID 123-ABC-456, you need to first log in to the Marketo Engage instance with Munchkin ID 123-ABC-456. 
 
 **What's the difference between an Adobe Product Admin and a Marketo Engage Admin?**
 

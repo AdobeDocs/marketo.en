@@ -22,9 +22,9 @@ As part of the migration, your subscription and user management will move from w
 
 * **Users will sign in with Adobe Identity**. Adobe will migrate existing users to the Adobe Admin Console. Users will sign in to their Marketo subscriptions using their new Adobe Identity - either an Adobe ID or Adobe Federated ID (SSO).
 
-* **URLs will look different after migration**. The ID numbers of your assets remain the same, however. And previously saved bookmarks should still take you to the correct location. Talk to your IT team and make sure they add the domain below (including the asterisk) to allow all Marketo Engage resources and websockets:
+* **URLs will look different after migration**. After migration, Marketo Engage will go from being served from experience.adobe.com to Adobe Experience Cloud. You'll need to work with your IT team to allowlist all Adobe domains listed [at the top of this article](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} to prevent disruption to Marketo Engage access. 
 
-_*.experience.adobe.com_
+The ID numbers of your assets remain the same. And previous links and bookmarks to Marketo Engage assets on the engage-xx.marketo.com domain _will_ continue to function. However, you must first log in to the Marketo Engage instance for the URL you are navigating to. For example, to navigate to a bookmark for a Smart Campaign in instance with Munchkin ID 123-ABC-456, you need to first log in to the Marketo Engage instance with Munchkin ID 123-ABC-456.
 
 ## What is Not Changing? {#what-is-not-changing}
 
