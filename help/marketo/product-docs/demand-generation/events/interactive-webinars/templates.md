@@ -10,7 +10,7 @@ Create easy-to-use templates in Interactive Webinars to produce content faster a
 
 ## Grant permissions {#grant-permissions}
 
-Before any users in your organization have the ability to customize your Interactive Webinars, a Marketo Engage admin must first add access to the desired role(s).
+Before any users in your organization have the ability to access templates your Interactive Webinars, a Marketo Engage admin must first add access to the desired role(s).
 
 1. In Marketo Engage, click **[!UICONTROL Admin]**.
 
