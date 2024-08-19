@@ -9,6 +9,8 @@ feature: Interactive Webinars
 
 So, you've read the [Interactive Webinars Overview](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} and are ready to dive in. Follow the steps below to get started.
 
+<p>
+
 **Step One**: [Add Users](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#add-a-user){target="_blank"} &mdash; Learn how to add (and later remove, if desired) users for Interactive Webinars access.
 
 **Step Two**: [Create an Interactive Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}{target="_blank"} &mdash; Learn how to create an Event Program and set initial parameters for your webinar.
@@ -20,6 +22,8 @@ So, you've read the [Interactive Webinars Overview](/help/marketo/product-docs/d
 **Step Five**: [Promote Your Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md){target="_blank"} &mdash; Learn valuable tips on how to promote your upcoming event.
 
 **Step Six**: [Deliver Your Interactive Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} &mdash; Everything you need to know about presenting your webinar.
+
+<p>
 
 That's it! After your webinar is over, see how it performed using the helpful [Engagement Dashboard](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}.
 
