@@ -9,6 +9,10 @@ feature: Forms
 
 Learn how to change the language of your form.
 
+>[!IMPORTANT]
+>
+>Following the steps in this article will change the language of Marketo standard fields, as well as the wording used in the Submit Button label. It will not translate [custom fields](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}.
+
 1. Go to **Marketing Activities**.
 
    ![](assets/change-the-language-of-a-form-1.png)
@@ -39,11 +43,11 @@ Learn how to change the language of your form.
 
    >[!NOTE]
    >
-   >The form must be approved to be used on landing pages.
+   >The form must be approved to be used on Landing Pages.
 
    >[!TIP]
    >
-   >Remember to [approve the landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) draft created by the form changes.
+   >Remember to [approve the Landing Page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) draft created by the form changes.
 
 Your form will now reflect the language you selected.
 
