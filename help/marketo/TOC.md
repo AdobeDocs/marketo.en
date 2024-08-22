@@ -1205,8 +1205,8 @@ feature-set: Marketo Engage
         + [Sales Connect Customizations for CRM](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
         + [Using Bulk Actions in Salesforce Classic](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
         + [Using Bulk Actions in Salesforce Lightning](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
-        + [Uninstall Marketo Sales Connect from Salesforce Classic]((product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-classic.md)
-        + [Uninstall Marketo Sales Connect from Salesforce Lightning]((product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
+        + [Uninstall Marketo Sales Connect from Salesforce Classic](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-classic.md)
+        + [Uninstall Marketo Sales Connect from Salesforce Lightning](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
       + Salesforce Integration {#salesforce-integration}
         + [Configure Salesforce Activity Detail Customization](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
         + [Connect Your Sales Connect Account to Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
