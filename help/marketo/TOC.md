@@ -1205,6 +1205,8 @@ feature-set: Marketo Engage
         + [Sales Connect Customizations for CRM](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
         + [Using Bulk Actions in Salesforce Classic](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
         + [Using Bulk Actions in Salesforce Lightning](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
+        + [Uninstall Marketo Sales Connect from Salesforce Classic]((product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-classic.md)
+        + [Uninstall Marketo Sales Connect from Salesforce Lightning]((product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
       + Salesforce Integration {#salesforce-integration}
         + [Configure Salesforce Activity Detail Customization](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
         + [Connect Your Sales Connect Account to Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
@@ -1408,8 +1410,6 @@ feature-set: Marketo Engage
         + Salesforce Package Configuration {#salesforce-package-configuration}
           + [Sales Insight Actions Configuration in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
           + [Logging Sales Activity Attributes to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
-          + [Uninstall Marketo Sales Connect from Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
-          + [Uninstall Marketo Sales Connect from Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
           + [Add Action Buttons to Salesforce List View](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
           + [Update Activity Type Field When Logging Activities to Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
         + Actions in Salesforce {#actions-in-salesforce}
