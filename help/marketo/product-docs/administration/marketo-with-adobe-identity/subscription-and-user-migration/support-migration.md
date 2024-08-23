@@ -2,13 +2,11 @@
 description: Marketo Engage Support Migration - Marketo Docs - Product Documentation
 title: Marketo Engage Support Migration
 feature: Marketo with Adobe Identity
-hide: yes
-hidefromtoc: yes
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
 ---
 # Marketo Engage Support Migration {#marketo-engage-support-migration}
 
-Learn more about the upcoming changes to your Adobe Marketo Engage Support experience. The changes are designed to enhance your user experience and streamline your administrative tasks.
+Learn more about the upcoming changes to your Adobe Marketo Engage Support process. The updates are designed to streamline your administrative tasks and enhance your overall experience.
 
 ## Marketo Engage Admin Console {#marketo-engage-admin-console}
 
@@ -32,7 +30,7 @@ The second update will significantly improve the way you submit Support tickets.
 
 ## How will I know when the Support Migration has been completed? {#support-migration-has-been-completed}
 
-The Support migration will occur after your User migration is completed for all subscriptions. If you've been added as a PSA as part of the Support Migration, you will receive an email after User migration is complete, indicating you have been added as a Support Admin to contact Support for those specific subscriptions. This will trigger an automatic redirect from the Marketing Nation to Adobe Experience League for all case submissions. Please continue to submit Support cases through the Marketing Nation until the automatic redirect is activated.
+The Support migration will occur after your User migration is completed for all subscriptions. If you've been added as a PSA as part of the Support Migration, you will receive an email after User migration is complete, indicating you have been added as a Support Admin to contact Adobe Support for those specific subscriptions. This will trigger an automatic redirect from the Marketing Nation to Adobe Experience League for all case submissions. Please continue to submit Support cases through the Marketing Nation until the automatic redirect is activated.
 
 ## Additional Resources {#additional-resources}
 
