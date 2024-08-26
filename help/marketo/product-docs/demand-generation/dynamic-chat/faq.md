@@ -62,7 +62,7 @@ This most likely indicates that you haven't been added as a Dynamic Chat user in
 
 **How do I access the transcript for an engaged conversation?** 
 
-Dynamic Chat transcripts can be accessed for any known lead that has engaged with a Dynamic Chat Dialogue via the "Engaged with Dialogue" activity in Marketo Engage.
+Dynamic Chat transcripts can be accessed for any known lead that has engaged with a Dynamic Chat Dialogue via the "Engaged with Dialogue" activity in Marketo Engage, and whose Conversation Status is either "Completed" or "Dropped."
 
 **Once a visitor engages in a Dialogue, can they restart the conversation or go back to a previous question?**
 
