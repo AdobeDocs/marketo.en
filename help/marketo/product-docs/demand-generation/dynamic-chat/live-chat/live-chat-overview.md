@@ -99,6 +99,12 @@ When a live chat is routed to an agent, they'll see a blue banner across the top
 >* Enable browser notifications in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&co=GENIE.Platform%3DDesktop){target="_blank"}
 >* Enable browser notifications in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
+### Failed Action Notifications {#failed-action-notifications}
+
+When an action such as a meeting booking or a live chat fails, users are notified via email.
+
+   ![](assets/live-chat-overview-6.png)
+
 ### Things to Note {#things-to-note}
 
 * Agents have 45 seconds to respond before the "Accept chat" message times out. After that, visitors will receive the [fallback message](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. For Dynamic Chat Prime subscribers who have the routing option set to **Team**, one more agent will be tried before the fallback message appears.

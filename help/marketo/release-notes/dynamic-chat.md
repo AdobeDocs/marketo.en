@@ -10,6 +10,68 @@ Adobe Dynamic Chat releases operate on a continuous delivery model which allows 
 
 The standard Release Notes page for Marketo Engage [can be found here](/help/marketo/release-notes/current.md){target="_blank"}.
 
+## August 2024 Release {#august-release}
+
+**Release date: August 23, 2024**
+
+### Custom format your conversation messages {#custom-format-conversation-messages}
+
+Stream designers now support [inserting HTML](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} to customize the look and feel of your conversations. 
+
+![](assets/dynamic-chat-aug-2024-release-1.png) 
+
+### Chatbot scroll to the bottom {#chatbot-scroll-to-bottom}
+
+An icon has been added in the chatbot for web visitors to jump straight to the last message. This helps visitors scrolling through the text to get back to the conversation quickly. 
+
+![](assets/dynamic-chat-aug-2024-release-2.png)
+
+### Core pulse notifications {#core-pulse-notifications}
+
+Users now get an [email notification](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#failed-action-notifications){target="_blank"} when a meeting booking or live chat fails.
+
+![](assets/dynamic-chat-aug-2024-release-3.png)
+
+### Support for multiple conversations {#support-for-multiple-conversations}
+
+The chatbot now supports multiple conversations. Website visitors can engage in different conversations on different pages at the same time, with the ability to switch between them. 
+
+![](assets/dynamic-chat-aug-2024-release-4.png)
+
+### Default sorting for content {#default-sorting-for-content}
+ 
+By default, your conversation logs, unanswered questions, and question generation tables are sorted by created date (from most recent to oldest).
+
+### Real-time lead resolution {#real-time-lead-resolution}
+
+During a conversation with an anonymous lead and an email ID is provided, we resolve if a known lead record exists with that email ID, and use that record for personalization in real time. If we find multiple records, we merge them in real-time. This behavior is implemented for both Dialogues and Conversational Flows.
+
+### Syncing leads without cookies from Marketo Engage {#syncing-leads-without-cookies}
+
+Previously, when the Marketo Engage sync was activated, Dynamic Chat only synced known leads with one or more cookie IDs from Marketo Engage. Now, all known leads (cookie ID present or not) will be synced into Dynamic Chat and can be used for the personalization of conversations. 
+
+### Pass additional visitor data to Conversational Flows {#pass-additional-visitor-data} 
+
+If you're capturing visitor information through other channels like forms or login, you can now pass this information directly to Dynamic Chat.
+
+![](assets/dynamic-chat-aug-2024-release-5.png)
+
+### Refreshed inferred data {#refreshed-inferred-data}
+
+The majority of conversations on a website are with anonymous visitors. You can still target them through inferred data, which relies on visitors IPs. We've updated our database of IPs and respective inferred data which now supports four times more IPs.
+
+### Sound added to agent browser notification {#sound-added-to-agent-browser-notification}
+
+When a live chat is assigned to an agent, they get a browser notification. But occasionally they don't see them. We've added a notification sound to help prevent missed notifications going forward. 
+
+![](assets/dynamic-chat-aug-2024-release-6.png)
+
+### Ability to update lead profile during live chat {#update-lead-profile-during-live-chat}
+
+During a live chat, agents want to capture information about the visitor and update the respective profile. There is now an option to update attribute values of lead and company objects. 
+
+![](assets/dynamic-chat-aug-2024-release-7.png)
+
 ## June 2024 Release {#june-release}
 
 **Release date: June 6, 2024**

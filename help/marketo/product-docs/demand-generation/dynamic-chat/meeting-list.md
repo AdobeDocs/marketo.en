@@ -13,3 +13,10 @@ This is where you'll see all of the appointments that have been scheduled by web
 >[!NOTE]
 >
 >When a meeting is booked on an agent's calendar, the agent will receive an email notification about the booking, including detailed information about the visitor's Dynamic Chat engagement.
+
+## Failed Action Notifications {#failed-action-notifications}
+
+When an action such as a meeting booking or a live chat fails, users are notified via email.
+
+   ![](assets/meeting-list-2.png)
+   

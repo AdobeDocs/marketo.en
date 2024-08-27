@@ -113,7 +113,11 @@ You can create streams for Dialogues or [Conversational Forms](/help/marketo/pro
 
    >[!TIP]
    >
-   >You can personalize the experience for known chat visitors by using tokens (ex: Hello `{{lead.leadFirstName:""}}`). Simply click the curly bracket icon on the right and make your selection. Add a default value between the quotes if you want anonymous visitors to see something generic (ex: Hello `{{lead.leadFirstName:"there"}}`).
+   >You can customize the experience for chat visitors!
+   >
+   >* Click the "insert HTML" icon `</>` to insert your own HTML for the desired look and feel of the conversation.
+   >
+   >* Use tokens for known chat visitors to personalize their experience (ex: Hello `{{lead.leadFirstName:""}}`). Click the curly bracket icon `{}` and make your selection. Add a default value between the quotes if you want anonymous visitors to see something generic (ex: Hello `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >
