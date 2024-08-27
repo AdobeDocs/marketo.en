@@ -14,6 +14,10 @@ To help with that, we've compiled a list of best practices that can aid in plann
 
 ### Creating an Event {#creating-an-event}
 
+>[!TIP]
+>
+>The Interactive Webinars mobile web experience is not responsive, therefore we recommend using the Adobe Connect App for a seamless webinar experience on your mobile device. Please note, the Adobe Connect App is not currently available in App stores in China.
+
 * Create a sample Interactive Webinar (IW) and clone it every time, to avoid starting from scratch.
 
 * Reuse Adobe Connect rooms if delivering the same content again later. Navigate to **Clear content from pods** from the Pods menu to clear chat history, and poll/quiz results from the last session. This just clears the content of the room. All the data from previous sessions will continue to be available in Marketo Engage.

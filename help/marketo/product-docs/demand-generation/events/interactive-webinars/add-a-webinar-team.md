@@ -30,7 +30,7 @@ The presenter is an external role that participates in delivering the webinar ex
 
    >[!NOTE]
    >
-   >If you select **Internal Interactive Webinar user**, you'll simply have to click the **Available hosts** drop-down and choose from the list of people who've been added as Interactive Webinars users in Marketo Engage.
+   >If you select **Internal Interactive Webinar user**, you'll simply have to click the **Available hosts** drop-down and choose from the list of people who've been added as Interactive Webinars users in Marketo Engage. Existing hosts will not see themselves in this drop-down, as they are already hosts.
 
 1. Enter the desired co-host's first name, last name, and email address. Click **Add**.
 
