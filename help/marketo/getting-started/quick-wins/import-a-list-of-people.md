@@ -35,7 +35,9 @@ In this tutorial, you'll learn how to import people from a spreadsheet file into
 
    >[!CAUTION]
    >
-   >Marketo does **not** support email addresses that contain emojis.
+   >* Make sure email addresses contain ASCII characters only.
+   >
+   >* Marketo does **not** support email addresses that contain emojis.
 
 ## Step 2: Create a Program {#step-create-a-program}
 

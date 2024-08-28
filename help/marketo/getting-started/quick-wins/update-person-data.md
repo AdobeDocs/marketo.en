@@ -44,6 +44,12 @@ Let's imagine that at your recent tradeshow, a person gave you some additional c
 
 ![](assets/update-person-data-4.png)
 
+>[!CAUTION]
+>
+>* Make sure email addresses contain ASCII characters only.
+>
+>* Marketo does **not** support email addresses that contain emojis.
+
 >[!NOTE]
 >
 >Once you change the data, Smart Lists and Smart Campaigns will recognize the new information immediately.
