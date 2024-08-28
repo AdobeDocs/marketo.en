@@ -400,3 +400,7 @@ The following are different possible scenarios outling the Chatbot's expected be
     </tr>
   </tbody>
 </table>
+
+## Real-time lead resolution {#real-time-lead-resolution}
+
+During a conversation with an anonymous lead and an email ID is provided, we resolve if a known lead record exists with that email ID, and use that record for personalization in real time. If we find multiple records, we merge them in real-time. This behavior is implemented for both Dialogues and Conversational Flows.

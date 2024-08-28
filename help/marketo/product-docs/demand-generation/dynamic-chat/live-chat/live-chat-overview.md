@@ -88,7 +88,7 @@ If agents do not get browser notifications even after allowing in the browser, t
 
 ### When a Live Chat is Routed to an Agent {#when-a-live-chat-is-routed-to-an-agent}
 
-When a live chat is routed to an agent, they'll see a blue banner across the top of the screen asking them to accept.
+When a live chat is routed to an agent, they'll see a blue banner across the top of the screen asking them to accept, as well as a notification sound to help prevent missed notifications.
 
    ![](assets/live-chat-overview-3.png)
 

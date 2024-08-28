@@ -62,7 +62,7 @@ The majority of conversations on a website are with anonymous visitors. You can 
 
 ### Sound added to agent browser notification {#sound-added-to-agent-browser-notification}
 
-When a live chat is assigned to an agent, they get a browser notification. But occasionally they don't see them. We've added a notification sound to help prevent missed notifications going forward. 
+When a live chat is assigned to an agent, they get a browser notification. But occasionally they don't see them. We've added a [notification sound](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#when-a-live-chat-is-routed-to-an-agent){target="_blank"} to help prevent missed notifications going forward. 
 
 ![](assets/dynamic-chat-aug-2024-release-6.png)
 
