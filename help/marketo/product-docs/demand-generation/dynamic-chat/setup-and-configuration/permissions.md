@@ -26,7 +26,7 @@ There are five default profiles with predefined permissions you can edit in Dyna
 
    ![](assets/permissions-4.png)
 
-1. Available permission items are listed on the left. You can choose to add permissions one by one, or all at once. In this example there's only one available, so we're adding that one. Click the **+** sign.
+1. Available permission items are listed on the left. You can choose to add permissions one by one, or all at once. Click the **+** sign.
 
    ![](assets/permissions-5.png)
 
