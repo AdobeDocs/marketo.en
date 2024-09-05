@@ -43,7 +43,9 @@ With a Universal ID for multiple subscriptions, only you can change the password
 
 ## Switching Between Subscriptions {#switching-between-subscriptions}
 
-Using a Universal ID, you can see the subscription you're logged into, and select other subscriptions to which you have login access. In most cases, you can switch between them without having to log out and back in.
+Using a Universal ID, you can see the subscription you are logged into, and select other subscriptions to which you have login access. In most cases, you can switch between them without having to log out and back in.
+
+If both [Single Sign On](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) and Universal ID are enabled, you must have the "Bypass Single Signed On" permission set to toggle between subscriptions.
 
 ![](assets/using-a-universal-id-for-subscription-login-2.png)
 
