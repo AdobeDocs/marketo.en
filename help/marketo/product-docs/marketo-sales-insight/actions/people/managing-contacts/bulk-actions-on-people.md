@@ -39,9 +39,3 @@ In compliance with [GDPR](https://eugdpr.org/), use authorization to indicate ho
 Perform a bulk unsubscribe on contacts who no longer wish to receive correspondence from you.
 
 ![](assets/bulk-actions-on-people-5.png)
-
-## Delete {#delete}
-
-Delete contacts in bulk. Full steps can be found [here](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md).
-
-![](assets/bulk-actions-on-people-6.png)

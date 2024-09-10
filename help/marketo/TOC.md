@@ -1454,7 +1454,6 @@ feature-set: Marketo Engage
         + [How Do I Fix "We Were Unable to Authenticate Your Request" When Connecting to Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
         + [How Do I Prevent Self Views?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
         + [How Does Location Tracking Work?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
-        + [How Does Sales Insight Actions Handle Email De-Duping?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
         + [I Got Locked out of My Account. What Do I Do?](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
         + [Is Sales Insight Actions Compatible with Salesforce Lightning?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
         + [Which Browsers Does Sales Insight Actions Support?](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
@@ -1481,8 +1480,6 @@ feature-set: Marketo Engage
         + [Sales Insight Actions and GDPR Compliance](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
         + Managing Contacts {#managing-contacts}
           + [Bulk Actions on People](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
-          + [Creating and Deleting Contacts](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
-          + [Import Contacts via CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
           + [Manage Groups](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
           + [People Page Columns](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
       + Phone {#phone}

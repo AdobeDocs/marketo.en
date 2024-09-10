@@ -61,10 +61,6 @@ Learn how to manage your groups in Sales Insight Actions.
 
    ![](assets/manage-groups-4.png)
 
-   >[!NOTE]
-   >
-   >This will add one contact at a time. To add multiple contacts at the same time, follow [these steps](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
-
 1. Fill out the contact's information and click **Create** (or **Create and Add New** to add another).
 
    ![](assets/manage-groups-5.png)
