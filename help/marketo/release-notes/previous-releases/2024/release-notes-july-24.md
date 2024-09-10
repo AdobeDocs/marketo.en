@@ -2,7 +2,6 @@
 description: Release Notes - July 2024 - Marketo Docs - Product Documentation
 title: Release Notes - July 2024
 feature: Release Information
-exl-id: 66e34e3f-86f3-4d68-a637-98e342e0d26c
 ---
 # Release Notes: July 2024 {#release-notes-july-24}
 
