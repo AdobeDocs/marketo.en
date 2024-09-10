@@ -1482,6 +1482,7 @@ feature-set: Marketo Engage
         + Managing Contacts {#managing-contacts}
           + [Bulk Actions on People](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
           + [Creating and Deleting Contacts](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
+          + [Import Contacts via CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
           + [Manage Groups](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
           + [People Page Columns](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
       + Phone {#phone}
@@ -1968,6 +1969,7 @@ feature-set: Marketo Engage
       + [Release Notes: March '24](release-notes/previous-releases/2024/release-notes-mar-24.md)
       + [Release Notes: April '24](release-notes/previous-releases/2024/release-notes-apr-24.md)
       + [Release Notes: June '24](release-notes/previous-releases/2024/release-notes-june-24.md)
+      + [Release Notes: July '24](release-notes/previous-releases/2024/release-notes-july-24.md)
     + 2023 {#2023}
       + [Release Notes: January '23](release-notes/previous-releases/2023/release-notes-jan-23.md)
       + [Release Notes: March '23](release-notes/previous-releases/2023/release-notes-mar-23.md)
