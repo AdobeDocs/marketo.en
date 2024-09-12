@@ -1,7 +1,7 @@
 ---
 description: Release Notes - July 2024 - Marketo Docs - Product Documentation
 title: Release Notes - July 2024
-feature: Release Informationfx
+feature: Release Information
 ---
 # Release Notes: July 2024 {#release-notes-july-24}
 
