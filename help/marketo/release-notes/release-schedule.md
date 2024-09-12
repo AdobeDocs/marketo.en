@@ -41,20 +41,5 @@ _Release dates/features are subject to change_
    <td>January 17, 2025</td>
    <td>On Schedule</td>
   </tr>
-  <tr> 
-   <td>March '25</td>
-   <td>March 7, 2025</td>
-   <td>On Schedule</td>
-  </tr>
-  <tr> 
-   <td>April '25</td>
-   <td>April 25, 2025</td>
-   <td>On Schedule</td>
-  </tr>
-  <tr> 
-   <td>June '25</td>
-   <td>June 6, 2025</td>
-   <td>On Schedule</td>
-  </tr>
  </tbody>
 </table>
