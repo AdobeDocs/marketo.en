@@ -59,8 +59,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
      <tr> 
    <td><strong>Marketo REST API Change</strong>: We are introducing a minor change to the <a href="https://developers.marketo.com/rest-api/user-management/">User Management API</a>. Both the <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Browse Users</a> and <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Delete User</a> endpoints now support <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Target Account Management</a> users.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
  </tbody> 
 </table>
