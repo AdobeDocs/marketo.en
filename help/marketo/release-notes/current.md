@@ -64,4 +64,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
  </tbody> 
 </table>
-<br/>
+<br/> 
+
+## Announcements {#announcements}
+
+On September 17, 2024, [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 will begin rolling out to Marketo Engage instances that have the "Munchkin Beta" setting enabled in **Admin** > **Treasure Chest**. It's scheduled to begin rollout to all other instances on October 29. This version updates Munchkin cookie creation. There are no changes in functionality.
