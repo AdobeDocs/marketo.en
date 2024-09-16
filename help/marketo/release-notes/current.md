@@ -68,4 +68,6 @@ The following features fall under the standard release cycle and will start to b
 
 ## Announcements {#announcements}
 
-On September 17, 2024, [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 will begin rolling out to Marketo Engage instances that have the "Munchkin Beta" setting enabled in **Admin** > **Treasure Chest**. It's scheduled to begin rollout to all other instances on October 29. This version updates Munchkin cookie creation. There are no changes in functionality.
+* **New Munchkin Version**: On September 17, 2024, [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 will begin rolling out to Marketo Engage instances that have the "Munchkin Beta" setting enabled in **Admin** > **Treasure Chest**. It's scheduled to begin rollout to all other instances on October 29. This version updates Munchkin cookie creation. There are no changes in functionality.
+
+* **QR Code Deprecation**: On October 4, 2024, the QR code feature used in push notifications and in-app messaging assets will be deprecated. This includes using QR codes for a new test device, as well as creating new assets with QR codes. Deprecating features with lower usage allows us to reallocate their resources to the overall maintenance of Marketo Engage.
