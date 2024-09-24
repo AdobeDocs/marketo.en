@@ -1742,6 +1742,7 @@ feature-set: Marketo Engage
         + [People by Status Report](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
         + [People Performance Report](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
         + [Report Type Overview](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
+        + [Salesforce Sync Observability Metrics Dashboard](product-docs/reporting/basic-reporting/report-types/salesforce-sync-observability-metrics-dashboard.md)
         + [Web Page Activity Report](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
         + [Web Pages Viewed, Web Page Activity Report](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
     + Email Insights {#email-insights}
