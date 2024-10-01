@@ -5,7 +5,7 @@ hide: yes
 hidefromtoc: yes
 feature: Reporting
 ---
-# Salesforce Sync Observability Metrics Dashboard {#salesforce-sync-observability-metrics-dashboard}
+# Salesforce Sync Backlog Metrics  {#salesforce-sync-backlog-metrics}
 
 Review your sync performance throughputs and sync backlogs with this dashboard.
 

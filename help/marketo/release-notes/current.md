@@ -26,7 +26,7 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documention</th>
   </tr>
     <tr> 
-   <td><strong>Enhanced Registration Data in Engagement Dashboard for Interactive Webinars</strong>: TeYou can now see which companies have had the most attendance and get the company, title, and industry updated at a lead-level in reports available in the Engagement Dashboard.</td> 
+   <td><strong>Enhanced Registration Data in Engagement Dashboard for Interactive Webinars</strong>: You can now see which companies have had the most attendance and get the company, title, and industry updated at a lead-level in reports available in the Engagement Dashboard.</td> 
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
