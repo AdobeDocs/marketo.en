@@ -22,4 +22,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 20E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
+[Template 20E.html](assets/template-20E.html)
