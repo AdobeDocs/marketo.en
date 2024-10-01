@@ -621,6 +621,7 @@ feature-set: Marketo Engage
       + [Enable/Disable the Salesforce Sync](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
       + [Implied Salesforce Actions](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
       + [Log in Using OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+      + [Salesforce Sync Backlog Metrics](product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md)
       + [Salesforce Sync Errors](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
       + [Salesforce Sync Status](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
       + [Using Person Accounts](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
@@ -1742,7 +1743,6 @@ feature-set: Marketo Engage
         + [People by Status Report](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
         + [People Performance Report](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
         + [Report Type Overview](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
-        + [Salesforce Sync Observability Metrics Dashboard](product-docs/reporting/basic-reporting/report-types/salesforce-sync-observability-metrics-dashboard.md)
         + [Web Page Activity Report](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
         + [Web Pages Viewed, Web Page Activity Report](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
     + Email Insights {#email-insights}
