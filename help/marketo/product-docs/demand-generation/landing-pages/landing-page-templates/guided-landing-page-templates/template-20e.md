@@ -22,4 +22,4 @@ This template includes the following content:
 
 **Right-click below to download this template:**
 
-[Template 20E.html](assets/template-20E.html)
+[Template 20E.html](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/assets/template-20E.html)
