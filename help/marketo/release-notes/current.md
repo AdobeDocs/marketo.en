@@ -67,18 +67,6 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
    <td>&nbsp;</td>
   </tr>
-  </tr>
-   <tr> 
-   <td><strong>Salesforce Sync Backlog Metrics</strong>: You can now monitor sync throughput and backlog trends to plan and schedule CRM updates for an optimum sync experience.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-  <tr> 
-   <td>&nbsp;</td> 
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  </tr>
    <tr> 
    <td><strong>Email Performance Report Enhancements</strong>: Multiple improvements have been made to email reporting metrics and activity tracking, offering additional insights and improving accuracy.
    <ul>
