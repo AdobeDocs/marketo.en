@@ -1093,6 +1093,11 @@ feature-set: Marketo Engage
       + Understanding the Email Editor {#understanding-the-email-editor}
         + [Understanding Email Event Logging](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
         + [Using the Rich Text Editor](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
+      + Beta New Email Editor {#beta-new-email-editor}
+        + [Create an Email](product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md)
+        + [Create an Email Template](product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md)
+        + [How to Access an Email](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md)
+        + [How to Access an Email Template](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md)  
       + Creating an Email {#creating-an-email}
         + [Approve an Email](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
         + [Create a Text Only Email](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
@@ -1225,7 +1230,7 @@ feature-set: Marketo Engage
         + [Email Connection for Gmail Users](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
         + [Gmail Not Pulling In Sales Connect Signature](product-docs/marketo-sales-connect/email-plugins/gmail/gmail-not-pulling-in-sales-connect-signature.md)
         + [How to Add a Template](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-add-a-template.md)
-        + [How to Install the ToutApp Browser Extension](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-install-the-toutapp-browser-extension.md)
+        + [Install the Sales Connect Email Plugin for Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/install-the-sales-connect-email-plugin-for-gmail.md)
         + [How to Send an Email From Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-send-an-email-from-gmail.md)
         + [How to Uninstall Sales Connect from Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-uninstall-sales-connect-from-gmail.md)
         + [Preventing Secondary Gmail Address from Integrating with Sales Connect](product-docs/marketo-sales-connect/email-plugins/gmail/preventing-secondary-gmail-address-from-integrating-with-sales-connect.md)
@@ -1240,7 +1245,7 @@ feature-set: Marketo Engage
           + [How to Uninstall Sales Connect from Outlook](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
         + Office 365 Add-in {#office-365-add-in}
           + [Add Email to Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
-          + [Installing Sales Connect for Office365 Mac OS, Windows, and Online](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
+          + [Install the Sales Connect Email Plugin for Outlook (Online, Mac, and Windows)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/install-the-sales-connect-email-plugin-for-outlook.md)
     + Email {#email}
       + Command Center {#command-center}
         + [Command Center Overview](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)

@@ -87,7 +87,7 @@ Whether the update is made on the Marketo Engage side or the CRM side, it will t
 
 When a large amount of updates are made (like from a field value changing), many records are altered, causing new SysModStamps. A large number of person record updates then need to be resynced between Marketo Engage and your CRM, sometimes creating a momentary backlog. 
 
-## Best practices for managing sync backlogs {#best-practices-for-managing-sync-backlogs}
+## Best practices for managing sync backlogs {#best-practices}
 
 **Fields under sync**: Ensure the fields under sync are only those that need to be synced. Changes to fields increase the sync backlog and lower priority fields may be stopping or slowing more important fields under sync. Reach out to [Marketo Engage Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} to remove fields under sync.
 
@@ -99,4 +99,4 @@ When a large amount of updates are made (like from a field value changing), many
 
 **Schedule bulk updates during non-critical hours**: Review your data sync patterns to identify non-critical periods. See if bulk updates can be scheduled during these non-critical periods. 
 
-If you're following all of the best practices above and you're still experiencing significant backlogs, contact [Marketo Engage Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+If you're following all of the above best practices and are still experiencing significant backlogs, contact [Marketo Engage Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
