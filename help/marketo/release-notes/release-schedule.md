@@ -27,14 +27,14 @@ _Release dates/features are subject to change_
    <th width="250px">Status</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">July '24</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-july-24.md">July '24</a></td>
    <td>July 26, 2024</td>
-   <td>In Progress</td>
+   <td>Shipped</td>
   </tr>
   <tr> 
-   <td>October '24</td>
+   <td><a href="/help/marketo/release-notes/current.md">October '24</td>
    <td>October 4, 2024</td>
-   <td>On Schedule</td>
+   <td>In Progress</td>
   </tr>
   <tr> 
    <td>January '25</td>
