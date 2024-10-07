@@ -13,11 +13,7 @@ Intro text here.
 >
 >This article is for members of the New Marketo Engage Email Editor closed beta only. Please do not disseminate.
 
-1. Log in to the [Adobe Experience Cloud](https://experiencecloud.adobe.com/).
-
-   SCREENSHOT???
-
-   LIST EVERY STEP UNTIL YOU GET TO MARKETO???
+1. Log in to Marketo Engage via the [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. In My Marketo, select **Design Studio**.
 

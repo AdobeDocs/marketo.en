@@ -13,11 +13,7 @@ Intro text here.
 >
 >This article is for members of the New Marketo Engage Email Editor closed beta only. Please do not disseminate.
 
-1. Log in to the [Adobe Experience Cloud](https://experiencecloud.adobe.com/).
-
-   SCREENSHOT
-
-LIST EVERY STEP UNTIL YOU GET TO MARKETO?
+1. Log in to Marketo Engage via the [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. In My Marketo, select **Design Studio**.
 
@@ -39,13 +35,9 @@ LIST EVERY STEP UNTIL YOU GET TO MARKETO?
 
 In the Design your template page, you can choose from a few options. Design from scratch, import your own HTML, or select an existing template (one of our samples or one you already saved).
 
->[!BEGINTABS]
-
->[!TAB Design from scratch]
+### Design from scratch {#design-from-scratch}
 
 Define your content by adding and moving structural elements with simple drag-and-drop actions.
-
-## Design from scratch {#design-from-scratch}
 
 1. In the Design your template page, select **Design from scratch**.
 
@@ -71,7 +63,7 @@ You can import existing HTML content to design your email templates. The content
 >
 >There are no constraints on the .zip file structure. However, references must be relative and fit with the tree structure of the .zip folder.
 
-## Import your HTML {#import-your-html}
+### Import your HTML {#import-your-html}
 
 1. In the Design your template page, select **Import HTML**.
 
@@ -93,9 +85,19 @@ Once the HTML content is uploaded, your content will be in Compatibility mode.
 In this mode, you can only personalize your text, add links, or include assets to your content.
 ```
 
-IN TEST ACCOUNT: SETTINGS/STYLES/HTML CONVERTER
+### Choose a template {#choose-a-template}
+
+There are two types of templates to choose from.
+
+* Sample templates: Marketo Engage offers four out-of-the-box email templates.
+
+* Saved templates: These are templates you created from scratch using the Templates menu, or an email you created and chose to save as a template.
+
+>[!BEGINTABS]
 
 >[!TAB Sample templates]
+
+Choose one of four out-of-the-box templates for a head start on your email template design.
 
 1. Select Sample templates.
 
