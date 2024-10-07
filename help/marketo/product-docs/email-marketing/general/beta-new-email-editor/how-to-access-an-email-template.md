@@ -9,11 +9,15 @@ feature: Email Editor
 
 Intro text here.
 
+>[!IMPORTANT]
+>
+>This article is for members of the New Marketo Engage Email Editor closed beta only. Please do not disseminate.
+
 1. Log in to the [Adobe Experience Cloud](https://experiencecloud.adobe.com/).
 
    SCREENSHOT
 
-LIST EVERY STEP UNTIL YOU GET TO MARKETO?
+   LIST EVERY STEP UNTIL YOU GET TO MARKETO?
 
 1. In My Marketo, select Design Studio.
 
@@ -34,3 +38,7 @@ LIST EVERY STEP UNTIL YOU GET TO MARKETO?
 1. Text
 
    SCREENSHOT
+
+>[!MORELIKETHIS]
+>
+>[Create an email template](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"}

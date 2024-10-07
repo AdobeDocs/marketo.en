@@ -33,6 +33,7 @@ Insert personalization fields to customize your content from profiles attributes
 Click Enable condition content to add dynamic content and adapt the content to the targeted profiles based on conditional rules.
 Click the Links tab from the left pane to display all the URLs of your content that will be tracked. You can modify their Tracking Type or Label and add Tags if needed. 
 If needed, you can further personalize your email by clicking Switch to code editor from the advanced menu. This allows you to edit the email source code, for example to add tracking or custom HTML tags.
+
 CAUTION
 You cannot revert back to the visual designer for this email after switching to the code editor.
 

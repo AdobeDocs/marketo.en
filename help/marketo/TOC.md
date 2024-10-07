@@ -1731,6 +1731,7 @@ feature-set: Marketo Engage
         + [Filter a Campaign Activity Report](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
         + [Filter Assets in a Campaign Email Reports](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
         + [Filter Assets in an Email Report](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+        + [Filter Deleted/Merged records in an Email Performance Report](product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-in-an-email-performance-report.md)
         + [Group Person Reports by Attribute](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
         + [Report Email, Campaign Performance Across Workspaces](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
         + [Share a Model Across Workspaces](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)

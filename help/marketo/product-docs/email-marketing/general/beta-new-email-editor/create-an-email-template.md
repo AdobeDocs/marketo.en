@@ -9,6 +9,10 @@ feature: Email Editor
 
 Intro text here.
 
+>[!IMPORTANT]
+>
+>This article is for members of the New Marketo Engage Email Editor closed beta only. Please do not disseminate.
+
 1. Log in to the [Adobe Experience Cloud](https://experiencecloud.adobe.com/).
 
    SCREENSHOT
@@ -112,3 +116,7 @@ IN TEST ACCOUNT: SETTINGS/STYLES/HTML CONVERTER
    SCREENSHOT
 
 >[!ENDTABS]
+
+>[!MORELIKETHIS]
+>
+>[How to access an email template](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}

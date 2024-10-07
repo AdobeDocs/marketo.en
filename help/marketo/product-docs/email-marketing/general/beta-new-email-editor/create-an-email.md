@@ -9,6 +9,10 @@ feature: Email Editor
 
 Intro text here.
 
+>[!IMPORTANT]
+>
+>This article is for members of the New Marketo Engage Email Editor closed beta only. Please do not disseminate.
+
 1. Log in to the [Adobe Experience Cloud](https://experiencecloud.adobe.com/).
 
    SCREENSHOT???
@@ -30,6 +34,8 @@ Intro text here.
 1. Enter an email name and a subject line. Click **Create**.
 
    ![](assets/create-an-email-4.png)
+
+That's it. Now it's time to design your email.
 
 ## Design your email {#design-your-email}
 
@@ -132,3 +138,7 @@ Choose one of your previously created templates.
    SCREENSHOT
 
 >[!ENDTABS]
+
+>[!MORELIKETHIS]
+>
+>[How to access an email](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}
