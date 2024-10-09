@@ -18,7 +18,7 @@ Adobe Identity Management System consists of three components.
 
 **When will existing Marketo Engage subscriptions be integrated with IMS?**
 
-Existing Marketo subscriptions will be migrated to the Adobe Identity Management System later this year. Marketo Support will not be able to provide any updates regarding Adobe IMS migration. The Adobe Account Team will reach out with the estimated timeline in the coming months.
+Existing Marketo Engage subscriptions are currently being migrated to the Adobe IMS upon any sales event, which includes renewals, re-contracting events, and/or addendums. Migrations outside of a sales event are now supported as of October 2024.
 
 **After migration, will Marketo Engage URLs remain the same?**
 
@@ -44,7 +44,13 @@ Yes. Those who've been onboarded to Adobe IMS cannot utilize all the existing Ma
 
 **Who do we contact for support if we are integrated with IMS?**
 
-You would follow the standard procedure for contacting [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* Pre-user Migration: file support cases in the [Marketing Nation Community](https://nation.marketo.com/t5/support/ct-p/Support) or email `customercare@marketo.com`.
+
+* Post-user Migration: file support cases in the [Marketing Nation Community](https://nation.marketo.com/t5/support/ct-p/Support) or email `customercare@marketo.com`.
+
+* Post-Support Migration Completion: Product Support Administrators can file cases via the Experience League Support portal.
+
+If you have Ultimate Success, you have access to Admin Console Migration White Glove Service. Please reach out to the Adobe Account team (your Account Manager) for assistance.
 
 **If I use an Adobe Identity to access other Adobe applications, can I use that to access Marketo?**
 
@@ -100,13 +106,13 @@ The supported product cards are: Marketo Engage, Marketo Measure, Marketo Dynami
 
 **What if my user login doesn't match my email when I get migrated to an Adobe Identity?**
 
-Current Marketo users with logins different from their email address will no longer log in with that credential once migrated to an Adobe Identity. Adobe Identities always authenticate with a user's email address. 
+Current Marketo Engage users with logins different from their email address will no longer log in with that credential once migrated to an Adobe Identity. Adobe Identities always authenticate with a user's email address. You can update an Adobe identity email address at [account.adobe.com](https://account.adobe.com){target="_blank"}.
  
 **What happens after the Adobe Identity migration if my subscription uses IP restriction settings?**
 
 When subscriptions are onboarded to Adobe Identity, IP restriction settings do not get migrated to the Adobe Admin Console. Marketo's IP restriction settings include allowing only access from specific IP addresses, and blocking specific IP addresses from access. At this time, Adobe Identity Management System does not support IP restriction features.  
 
-Coming in 2024, Adobe Identity Management System will release a feature to support allowing only specific IP addresses, supporting a transition for Marketo users currently utilizing this feature. Those who currently use this feature will not undergo user migration until the feature is released. Once the feature is delivered, users will be notified of their migration being scheduled. More information about the feature will be provided when available. 
+Coming in early 2025, Adobe Identity Management System will release a feature to support allowing only specific IP addresses, supporting a transition for Marketo users currently utilizing this feature. Those who currently use this feature will not undergo user migration until the feature is released. Once the feature is delivered, users will be notified of their migration being scheduled. More information about the feature will be provided when available. 
 
 Users who currently use the IP restriction, blocking specific addresses from access, will no longer be able to use this feature after being migrated to Adobe Identity, as it is not supported by Adobe Identity Management System. 
 
@@ -117,3 +123,9 @@ When subscriptions are onboarded to Adobe Identity, Single Sign On (SSO) is set 
 **I have more than one subscription, but not all have Single Sign On enabled. What happens after Adobe Identity migration?**
 
 When subscriptions are onboarded to Adobe Identity, Single Sign On (SSO) is set up at the Adobe Organization level. This means SSO applies to all product instances in the Adobe Org. When SSO is set up, it will apply to all Marketo instances in that Adobe Org. Previously, Marketo supported this setting at an instance level. That is not supported by Adobe Identity Management System.
+
+**I now have to navigate into Experience Cloud to access Marketo Engage. Is there a way to streamline this flow?**
+
+Yes. You can create a browser bookmark of the link that launches after clicking the **Launch** button on the Marketo Engage instance entrance page to bypass that page going forward.
+
+   ![](assets/faq-1.png)

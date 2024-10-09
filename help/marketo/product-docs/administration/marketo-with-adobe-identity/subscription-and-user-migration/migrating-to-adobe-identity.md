@@ -49,7 +49,13 @@ Adobe will automatically migrate all Marketo Admins with verified emails first. 
 The Marketo Self-Service User Migration Console tool consists of two tabs.
 
 * **Migration Status tab**
-* **User Migration tab**  
+* **User Migration tab**
+
+There are 3 main steps required to complete a self service migration.
+
+1. Migrate all desired eligible email address-verified users (User Migration Tab)
+1. Skip all ineligible users and any undesired eligible users (User Migration Tab)
+1. After step 1 and 2 are done, complete the migration confirmation (Migration Status Tab)
 
 ### Migration Status Tab {#migration-status-tab}
 
