@@ -75,8 +75,8 @@ The following features fall under the standard release cycle and will start to b
    <li>Account email opens at the campaign level</li>
    <li>Improved email activity tracking through refinement of the tracking pixel location</li>
    </td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Email Performance Report</a></td>
   </tr>
  </tbody> 
 </table>

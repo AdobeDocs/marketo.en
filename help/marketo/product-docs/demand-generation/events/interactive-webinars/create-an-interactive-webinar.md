@@ -58,6 +58,10 @@ Create an Interactive Webinar in a few easy steps.
 
 Now, it's time to [design your webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
 
+>[!IMPORTANT]
+>
+>It is highly recommended that you design your webinar _before_ adding presenters or co-hosts.
+
 >[!MORELIKETHIS]
 >
 >[Learn how to add presenters and/or co-hosts](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}

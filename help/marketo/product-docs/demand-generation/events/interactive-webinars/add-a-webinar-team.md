@@ -8,6 +8,10 @@ exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
 
 A Webinar Team in Interactive Webinars consists of all the roles that contribute to the successful delivery of the webinar in Adobe Connect. This includes both presenters and co-hosts.
 
+>[!IMPORTANT]
+>
+>It is highly recommended that you [design your webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _before_ adding presenters or co-hosts.
+
 >[!NOTE]
 >
 >Presenters and co-hosts in Marketo Engage map exactly to the roles of presenter and host during the webinar delivery in Adobe Connect. Co-hosts can modify the layouts and pods, whereas presenters can not.
@@ -16,7 +20,9 @@ The presenter is an external role that participates in delivering the webinar ex
 
 >[!PREREQUISITES]
 >
->[Create an Interactive Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>* [Create an Interactive Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
+>
+>* [Design your Interactive Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
 
 ## Add a Co-host {#add-a-co-host}
 
@@ -64,4 +70,4 @@ The presenter is an external role that participates in delivering the webinar ex
 
 >[!MORELIKETHIS]
 >
->[Create an Interactive Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>[Create an Interactive Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}

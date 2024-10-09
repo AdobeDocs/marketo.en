@@ -12,7 +12,7 @@ Learn how to design your webinar to suit your needs.
 
    ![](assets/designing-interactive-webinars-1.png)
 
-1. You can choose an existing Webinar Room or create a new one. In this example we're creating a new one, so click the **Select Room** drop-down and choose **New Interactive Webinar Room**. 
+1. You can choose an existing Webinar Room or create a new one. In this example we're creating a new one, so click the **Select Room** drop-down and choose **New Interactive Webinar Room**.
 
    ![](assets/designing-interactive-webinars-2.png)
 

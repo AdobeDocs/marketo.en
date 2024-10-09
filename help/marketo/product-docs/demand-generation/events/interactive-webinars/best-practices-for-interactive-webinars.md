@@ -24,7 +24,7 @@ To help with that, we've compiled a list of best practices that can aid in plann
 
 * Avoid scheduling back-to-back sessions. Ensure you have at least 30 minutes of prep time before the start of your webinar. This will allow you to upload any last-minute presentation changes, adjust your microphone and camera, and get any new presenters comfortable with the interface.
 
-* Assign roles to your team members. Add them as Co-hosts and Presenters. Hosts and Presenters can enter the room before participants.
+* Assign roles to your team members. Add them as Co-hosts and Presenters. Hosts and Presenters can enter the room before participants. But be sure to [design your Interactive Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _before_ adding Co-hosts and Presenters.
 
 ### Promoting Your Event {#promoting-your-event}
 
