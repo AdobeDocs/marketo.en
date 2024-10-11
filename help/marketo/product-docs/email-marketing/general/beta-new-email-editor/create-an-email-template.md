@@ -13,6 +13,10 @@ Intro text here.
 >
 >This article is for members of the New Marketo Engage Email Editor closed beta only. Please do not disseminate.
 
+>[!NOTE]
+>
+>Email templates in the new email editor can only be used to create emails in the new email editor. They cannot be referenced in the old email editor.
+
 1. Log in to Marketo Engage via the [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. In My Marketo, select **Design Studio**.
@@ -73,17 +77,19 @@ You can import existing HTML content to design your email templates. The content
 
    SCREENSHOT
 
+   >[!NOTE]
+   >
+   >When the HTML content is uploaded, your content will be in Compatibility mode. In this mode, you can only personalize your text, add links, or include assets to your content.
+
+1. To be able to leverage the Email Designer content components, access the HTML converter tab and click Convert.
+
+   SCREENSHOT
+
    >[!CAUTION]
    >
    >Using a `<table>` tag as the first layer in an HTML file can cause style loss, including background and width settings in the top layer tag.
 
-```
-THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
-
-Once the HTML content is uploaded, your content will be in Compatibility mode.
-
-In this mode, you can only personalize your text, add links, or include assets to your content.
-```
+You can now personalize your imported file as needed with the visual email editor. 
 
 ### Choose a template {#choose-a-template}
 
@@ -118,7 +124,3 @@ Choose one of four out-of-the-box templates for a head start on your email templ
    SCREENSHOT
 
 >[!ENDTABS]
-
->[!MORELIKETHIS]
->
->[How to access an email template](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}

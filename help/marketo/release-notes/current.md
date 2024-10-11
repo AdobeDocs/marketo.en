@@ -48,8 +48,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
    <tr> 
    <td><strong>Smart List "Set to Affect" Count</strong>: See how many people will be affected when editing the qualification rules of a Smart Campaign.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
@@ -59,8 +59,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
    <tr> 
    <td><strong>My Account button in navigation rail</strong>: For those who have migrated to Adobe Identity Management System, a new "My Account" button in the left navigation rail allows configuring your time zone and accessing subscription details.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 

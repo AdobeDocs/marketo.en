@@ -19,8 +19,6 @@ Intro text here.
 
 * [How to access an email](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}: Learn how to access your new editor emails from Marketo Engage.
 
+^^^ ADDING TO MAIN DOC MIGHT BE BETTER
+
 * [Create an email template](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"}: Learn how to create and design an email template in the new editor.
-
-* [How to access an email template](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}: Learn how to access your new editor emails from Marketo Engage.
-
-^^^ IS THIS LAST DOC NECESSARY?
