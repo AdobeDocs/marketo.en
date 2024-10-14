@@ -72,7 +72,7 @@ The following features fall under the standard release cycle and will start to b
    <ul>
    <li>Filter deleted and merged people from email performance metrics</li>
    <li>Emails now classified as <i>aborted</i> after waiting three days for response activity</li>
-   <li>Account email opens at the campaign level</li>
+   <li>Email opens count as unique open separately for each Smart Campaign</li>
    <li>Improved email activity tracking through refinement of the tracking pixel location</li>
    </td> 
    <td>Shipped</td>

@@ -216,7 +216,7 @@ SCREENSHOT
 
 ## Reference an email {#reference-an-email}
 
-After you've created an email in the new editor, you can reference it in Smart Campaigns or Smart Lists like you would with any other email.
+After you've created an email in the new editor, you can reference it in Smart Campaigns and/or Smart Lists like you would with any other email.
 
 * Reference it in a Smart List by [following the usual steps](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 
