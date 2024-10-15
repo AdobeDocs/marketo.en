@@ -309,7 +309,7 @@ THE SECOND ONE DOESN'T WORK IN MKTO?? JUST LISTS DUPE AND DELETE
 
 This action takes you to the _Design your template_ page or the visual content editor page based on the last saved status of the email template. From here, you can edit your email template content as needed. See Create email templates for information about the editing options.
 
-## Duplicate email templates {#Duplicate email templates}
+## Duplicate email templates {#duplicate-email-templates}
 
 There are two ways to duplicate an email template:
 
