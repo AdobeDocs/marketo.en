@@ -1,0 +1,347 @@
+---
+description: Email templates - Marketo Docs - Product Documentation
+title: Email templates
+hide: yes
+hidefromtoc: yes
+feature: Email Editor
+---
+# Email templates {#email-templates}
+
+Intro text here.
+
+>[!IMPORTANT]
+>
+>This article is only for members of the New Marketo Engage Email Editor beta. Please do not disseminate.
+
+>[!NOTE]
+>
+>Email templates in the new email editor can only be used to create emails in the new email editor. They cannot be referenced in the old email editor.
+
+## Create an email template {#create-an-email-template}
+
+1. Log in to Marketo Engage via the [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+
+1. In My Marketo, select **Design Studio**.
+
+   ![](assets/create-an-email-template-1.png)
+
+1. In the tree, select **Email Templates (New Editor)**.
+
+   ![](assets/create-an-email-template-2.png)
+
+1. Click the **Create template** button.
+
+   ![](assets/create-an-email-template-3.png)
+
+1. Enter a template name and an optional description. Click **Create**.
+
+   ![](assets/create-an-email-template-4.png)
+
+## Design your template {#design-your-template}
+
+In the _Design your template_ page, you can choose from a few options. [Design from scratch](#design-from-scratch), [import your own HTML](#import-html), or [select an existing template](#choose-a-template) (one of our samples or one you already saved).
+
+### Design from scratch {#design-from-scratch}
+
+Define your content by adding and moving structural elements with simple drag-and-drop actions.
+
+1. In the _Design your template_ page, select **Design from scratch**.
+
+   SCREENSHOT
+
+1. Add [structure and content](#add-structure-and-content).
+
+### Import your HTML {#import-your-html}
+
+You can import existing HTML content to design your email templates. The content can be:
+
+* An HTML file with an incorporated style sheet
+
+* A .zip file that includes an HTML file, the style sheet (.css) and images
+
+>[!NOTE]
+>
+>There are no constraints on the .zip file structure. However, references must be relative and fit with the tree structure of the .zip folder.
+
+1. In the _Design your template_ page, select **Import HTML**.
+
+   SCREENSHOT
+
+1. Drag and drop the desired HTML or .zip file and click **Import**.
+
+   SCREENSHOT
+
+   >[!NOTE]
+   >
+   >When the HTML content is uploaded, your content will be in Compatibility mode. In this mode, you can only personalize your text, add links, or add assets to your content.
+
+1. To be able to leverage the Email Designer content components, click the **HTML converter** tab and click **Convert**.
+
+   SCREENSHOT
+
+   >[!CAUTION]
+   >
+   >Using a `<table>` tag as the first layer in an HTML file can cause style loss, including background and width settings in the top layer tag.
+
+You can now personalize your imported file as needed with the visual email editor. 
+
+### Choose a template {#choose-a-template}
+
+There are two types of templates to choose from.
+
+* Sample templates: Marketo Engage offers four out-of-the-box email templates.
+
+* Saved templates: These are templates you created from scratch using the Templates menu, or an email you created and chose to save as a template.
+
+>[!BEGINTABS]
+
+>[!TAB Sample templates]
+
+Choose one of four out-of-the-box templates for a head start on your email template design.
+
+1. Select Sample templates.
+
+   SCREENSHOT
+
+1. Text.
+
+   SCREENSHOT
+
+>[!TAB Saved templates]
+
+1. Select Saved templates.
+
+   SCREENSHOT
+
+1. Text.
+
+   SCREENSHOT
+
+>[!ENDTABS]
+
+## Add structure and content {#add-structure-and-content}
+
+1. To start creating or modifying content, drag and drop an item from Structures onto the canvas. Edit its settings in the pane on the right.
+
+   >[!TIP]
+   >
+   >Select the n:n column component to define the number of columns of your choice (between three and 10). You can also define the width of each column by moving the arrows below the column.
+
+   SCREENSHOT
+
+   >[!NOTE]
+   >
+   >Each column size cannot be less than 10% of the total width of the structure component. Only empty columns can be removed.
+
+1. From the Contents section, drag over desired items and drop them into one or more structure components.
+
+   SCREENSHOT
+
+1. Each component can be customized via the Settings or Style tabs. Change the font, text style, margin, and more.
+
+SCREENSHOT
+
+### Add Assets {#add-assets}
+
+```
+ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
+```
+```
+Access assets stored in the Assets library. IMAGES AND FILES ONLY?
+```
+
+1. To access your images, click the Asset selector icon.
+
+   SCREENSHOT
+
+1. Drag and drop the desired image into a structure component.
+
+   SCREENSHOT
+
+   >[!NOTE]
+   >
+   >To replace an existing image, select it, then click **Select an asset** in the Settings tab on the right.
+
+Click Enable condition content to add dynamic content and adapt the content to the targeted profiles based on conditional rules.
+
+
+
+If needed, you can further personalize your email by clicking Switch to code editor from the advanced menu. This allows you to edit the email source code, for example to add tracking or custom HTML tags.
+
+CAUTION
+You cannot revert back to the visual designer for this email after switching to the code editor.
+
+Once your content is ready, click the Simulate content button to check rendering. You can choose the desktop or mobile view.
+
+When ready, click Save
+
+### Layers, settings, and styles {#layers-settings-styles}
+
+```
+ARE THEY CALLED LAYERS OR COMPONENTS
+```
+
+Open the navigation tree to access specific structures and their columns/components for more granular editing.
+
+1. To access, click the Navigation tree icon.
+
+SCREENSHOT
+
+
+
+
+### Personalize content {#personalize-content}
+
+Tokens work in the new editor the same way they work in the old, but the icon looks different.
+
+1. Select the text component and click the **Add personalization** icon.
+
+   SCREENSHOT
+
+1. Click the desired [token type](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+
+   SCREENSHOT
+
+1. Click + or … to add a token to the blank space.
+
+   SCREENSHOT
+
+   >[!NOTE]
+   >
+   >"Fallback text" is the new editor term for default value. Example: ``{{lead.First Name:default=Friend}}``
+
+1. Click **Save** when done.
+
+### Edit URL tracking {#edit-url-tracking}
+
+Sometimes you don't want to enable the Marketo Tracking URL on a link in an email. This is useful when the destination page does not support URL parameters and may result in a broken link.
+
+1. Click the Links icon to display all URLs in your email.
+
+   SCREENSHOT
+
+1. Click the pencil icon to edit tracking for any desired links.
+
+   SCREENSHOT
+
+   ```
+   LABEL?
+
+   TAGS?
+   ```
+
+   <table><tbody>
+     <tr>
+       <td><b>Track without mkt_tok</b></td>
+       <td>definition</td>
+     </tr>
+     <tr>
+       <td><b>Track with mkt_tok</b></td>
+       <td>definition</td>
+     </tr>
+     <tr>
+       <td><b>Do not track</b></td>
+       <td>definition</td>
+     </tr>
+   </tbody>
+   </table>
+
+1. Click **Save** when done.
+
+### View options {#view-options}
+
+Leverage the view and content validation options that are available in the visual email editor.
+
+* Zoom in/out on the content using preset zoom options.
+
+* View the content across Desktop, Mobile, or Text-only/Plain-text.
+
+  * Click the live view (eye) icon for content preview across devices.
+
+  * Select one of the out-of-the-box devices or enter custom dimensions to preview your content.
+
+### More options {#more-options}
+
+From the **More** options in the content editor, you can take the following actions:
+
+SCREENSHOT
+
+* **Reset template**: Select this to clear the visual email designer canvas to a blank slate and restart building content.
+
+* **Change your design**: Return to the _Design your template_ page. From here, you can take any course of action as outlined in the [Design your template](#design-your-template) section.
+
+* **Export HTML**: Download the content in the visual canvas to your local system in HTML format packaged as a zip file.
+
+## View template details {#view-template-details}
+
+In the _Email templates_ listing page, click the name of an email template to view its details.
+
+SCREENSHOT
+
+Basic details like name and description can be edited. Click outside of the field you edited to save your changes.
+
+Click **More** to quickly delete or duplicate your template.
+
+If there are any active alerts (errors/warnings for the email template), click Alerts to view the information.
+
+>[!NOTE]
+>
+>While these alerts do not prohibit use of the email template for email creation, the information provides visibility about what might not work and the updates required before the email can be used for delivery.
+
+## View email template used-by references {#email-template-used-by-references}
+
+In the email template summary, click the **Used By** tab to view details of where this email template has been used within Marketo Engage.
+
+SCREENSHOT
+
+## Edit email templates {#edit-email-templates}
+
+This action can be taken from:
+
+* The details tab - Click **Edit email template**.
+
+* The _Email templates_ listing page - Click the More actions icon (three dots) of the desired email template and choose Edit.
+
+```
+THE SECOND ONE DOESN'T WORK IN MKTO?? JUST LISTS DUPE AND DELETE
+```
+
+This action takes you to the _Design your template_ page or the visual content editor page based on the last saved status of the email template. From here, you can edit your email template content as needed. See Create email templates for information about the editing options.
+
+## Duplicate email templates {#Duplicate email templates}
+
+There are two ways to duplicate an email template:
+
+* From the email template details on the right, click **More** and select **Duplicate**.
+
+SCREENSHOT
+
+* In the _Email templates_ listing page, click the More actions icon (three dots) of the desired email template and choose **Duplicate**.
+
+In the dialog, enter a unique name and optional description. Click **Duplicate** when done.
+
+The duplicated email template then appears in the _Email templates_ listing page.
+
+## Delete email templates {#delete-email-templates}
+
+There are two ways to delete an email template.
+
+>[!CAUTION]
+>
+>Deleting an email template cannot be undone. 
+
+* From the email template details on the right, click **More** and select **Delete**.
+
+SCREENSHOT
+
+* In the _Email templates_ listing page, click the More actions icon (three dots) of the desired email template and choose **Delete**.
+
+## Bulk actions {#bulk-actions}
+
+From the _Email templates_ listing page, select multiple templates by selecting the checkboxes to the left. A banner appears at the bottom.
+
+**Delete**: You can delete a maximum of 20 templates at one time. A confirmation dialog allows you to abort the action or confirm the deletion.
+
+>[!MORELIKETHIS]
+>
+>[Email authoring](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/email-authoring.md){target="_blank"}: Learn how to create, design, and reference an email in the new editor.

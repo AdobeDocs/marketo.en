@@ -1,17 +1,19 @@
 ---
-description: Create an Email - Marketo Docs - Product Documentation
-title: Create an Email
+description: Email authoring - Marketo Docs - Product Documentation
+title: Email authoring
 hide: yes
 hidefromtoc: yes
 feature: Email Editor
 ---
-# Create an Email {#create-an-email}
+# Email authoring {#email-authoring}
 
 Intro text here.
 
 >[!IMPORTANT]
 >
->This article is for members of the New Marketo Engage Email Editor closed beta only. Please do not disseminate.
+>This article is only for members of the New Marketo Engage Email Editor beta. Please do not disseminate.
+
+## Create an email {#create-an-email}
 
 1. Log in to Marketo Engage via the [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
@@ -39,9 +41,9 @@ That's it. Now it's time to design your email.
 
    SCREENSHOT
 
-1. The 'Create your email' page loads. You can choose from a few options:
+1. The _Create your email_ page loads. You can choose from a few options:
 
-* [Design from scratch](#design-from-scratch) using the Email Editor
+* [Design from scratch](#design-from-scratch) using the visual email editor
 
 * [Import your own HTML](#import-html) via an HTML or zip file
 
@@ -51,19 +53,19 @@ That's it. Now it's time to design your email.
 
 When starting from scratch in the email editor, use the options below to define your content.
 
-1. In the Design your template homepage, select **Design from scratch**.
+1. In the _Create your email_ page, select **Design from scratch**.
 
-Add structure and content to your email.
+1. Add [structure and content](#add-structure-and-content) to your email.
 
-Add images.
+1. Add [images](#add-assets).
 
-Personalize your content.
+1. [Personalize](#personalize-content) your content.
 
-Review and update links.
+1. Review links and [edit tracking](#edit-url-tracking).
 
 ### Import HTML {#import-html}
 
-You can import existing HTML content to design your email templates. The content can be:
+You can import existing HTML content to design your email. The content can be:
 
 * An HTML file with an incorporated style sheet
 
@@ -83,9 +85,9 @@ You can import existing HTML content to design your email templates. The content
 
 >[!NOTE]
 >
->When the HTML content is uploaded, your content will be in Compatibility mode. In this mode, you can only personalize your text, add links, or include assets to your content.
+>When the HTML content is uploaded, your content will be in Compatibility mode. In this mode, you can only personalize your text, add links, or add assets to your content.
 
-You can make desired changes to the imported content using the [email editor tools](#add-structure-and-content).
+You can make desired changes to the imported content using the [visual email editor tools](#add-structure-and-content).
 
 ### Choose a template {#choose-a-template}
 
@@ -117,7 +119,7 @@ Choose one of our out-of-the-box templates for a head start on your email design
 
 Choose one of your previously created templates.
 
-1. In the Create your email page, select Saved templates.
+1. In the Create your email page, select **Saved templates**.
 
    SCREENSHOT
 
@@ -155,13 +157,28 @@ SCREENSHOT
 
 ### Add Assets {#add-assets}
 
-From the Asset picker, you can directly select assets stored in the Assets library. Double-click the folder which contains your assets. Drag and drop them into a structure component.
+```
+ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
+```
+```
+Access assets stored in the Assets library. IMAGES AND FILES ONLY?
+```
 
-Insert personalization fields to customize your content from profiles attributes, audience memberships, Contextual attributes, and more. 
+1. To access your images, click the Asset selector icon.
+
+   SCREENSHOT
+
+1. Drag and drop the desired image into a structure component.
+
+   SCREENSHOT
+
+   >[!NOTE]
+   >
+   >To replace an existing image, select it, then click **Select an asset** in the Settings tab on the right.
 
 Click Enable condition content to add dynamic content and adapt the content to the targeted profiles based on conditional rules.
 
-Click the Links tab from the left pane to display all the URLs of your content that will be tracked. You can modify their Tracking Type or Label and add Tags if needed. 
+
 
 If needed, you can further personalize your email by clicking Switch to code editor from the advanced menu. This allows you to edit the email source code, for example to add tracking or custom HTML tags.
 
@@ -172,13 +189,82 @@ Once your content is ready, click the Simulate content button to check rendering
 
 When ready, click Save
 
+### Layers, settings, and styles {#layers-settings-styles}
+
+```
+ARE THEY CALLED LAYERS OR COMPONENTS
+```
+
+Open the navigation tree to access specific structures and their columns/components for more granular editing.
+
+1. To access, click the Navigation tree icon.
+
+SCREENSHOT
 
 
 
+
+### Personalize content {#personalize-content}
+
+Tokens work in the new editor the same way they work in the old, but the icon looks different.
+
+1. Select the text component and click the **Add personalization** icon.
+
+   SCREENSHOT
+
+1. Click the desired [token type](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+
+   SCREENSHOT
+
+1. Click + or … to add a token to the blank space.
+
+   SCREENSHOT
+
+   >[!NOTE]
+   >
+   >"Fallback text" is the new editor term for default value. Example: ``{{lead.First Name:default=Friend}}``
+
+1. Click **Save** when done.
+
+### Edit URL tracking {#edit-url-tracking}
+
+Sometimes you don't want to enable the Marketo Tracking URL on a link in an email. This is useful when the destination page does not support URL parameters and may result in a broken link.
+
+1. Click the Links icon to display all URLs in your email.
+
+   SCREENSHOT
+
+1. Click the pencil icon to edit tracking for any desired links.
+
+   SCREENSHOT
+
+   ```
+   LABEL?
+
+   TAGS?
+   ```
+
+   <table><tbody>
+     <tr>
+       <td><b>Track without mkt_tok</b></td>
+       <td>definition</td>
+     </tr>
+     <tr>
+       <td><b>Track with mkt_tok</b></td>
+       <td>definition</td>
+     </tr>
+     <tr>
+       <td><b>Do not track</b></td>
+       <td>definition</td>
+     </tr>
+   </tbody>
+   </table>
+
+1. Click **Save** when done.
 
 ## Check Alerts {#check-alerts}
 
-As you design your content, alerts are displayed in the interface (top-right of the screen) when key settings are missing.
+As you design your content, alerts are displayed on the top-right of the screen when key settings are missing.
 
 There are two types of alerts:
 
@@ -225,3 +311,7 @@ After you've created an email in the new editor, you can reference it in Smart C
 >[!NOTE]
 >
 >Only saved emails can be referenced. There is no "approved" status in the new email editor.
+
+>[!MORELIKETHIS]
+>
+>[Email templates](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/email-templates.md){target="_blank"}: Learn how to create, design, and access an email template in the new editor.

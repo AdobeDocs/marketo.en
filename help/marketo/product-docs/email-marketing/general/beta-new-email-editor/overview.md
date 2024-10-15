@@ -7,18 +7,18 @@ feature: Email Editor
 ---
 # Overview {#overview}
 
-Intro text here.
+Intro text.
 
 >[!IMPORTANT]
 >
->This article is for members of the New Marketo Engage Email Editor closed beta only. Please do not disseminate.
+>This article is only for members of the New Marketo Engage Email Editor beta. Please do not disseminate.
+
+```
+DO WE WANT TO ADD A DESCRIPTIVE INTRO HERE?
+```
 
 **Available articles**
 
-* [Create an email](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md){target="_blank"}: Learn how to create and design an email in the new editor.
+* [Email authoring](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/email-authoring.md){target="_blank"}: Learn how to create, design, and reference an email in the new editor.
 
-* [How to access an email](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}: Learn how to access your new editor emails from Marketo Engage.
-
-^^^ ADDING TO MAIN DOC MIGHT BE BETTER
-
-* [Create an email template](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"}: Learn how to create and design an email template in the new editor.
+* [Email templates](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/email-templates.md){target="_blank"}: Learn how to create, design, and access an email template in the new editor.
