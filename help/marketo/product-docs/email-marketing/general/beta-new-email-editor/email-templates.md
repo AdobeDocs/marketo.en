@@ -146,6 +146,7 @@ SCREENSHOT
 ```
 ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
 ```
+
 ```
 Access assets stored in the Assets library. IMAGES AND FILES ONLY?
 ```
