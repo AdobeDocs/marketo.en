@@ -7,7 +7,7 @@ feature: Email Editor
 ---
 # Email authoring {#email-authoring}
 
-Intro text here.
+Learn how to create, personalize, and preview emails in the new Marketo Engage Email Designer.
 
 >[!IMPORTANT]
 >
@@ -291,7 +291,7 @@ Errors prevent you from sending or testing the email until they are resolved:
 
 * **Email version of the message is empty**: This error occurs when the email content has not been configured.
 
-## Test your email
+## Test your email {#test-your-email}
 
 When your message content is defined, you can use test profiles to preview it, send proofs, and control how it renders in popular desktop, mobile, and web-based clients. If you inserted personalized content, you can check how it's displayed in the message using test profile data.
 
