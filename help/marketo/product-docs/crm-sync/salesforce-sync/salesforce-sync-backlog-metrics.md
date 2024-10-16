@@ -7,21 +7,17 @@ feature: Reporting
 ---
 # Salesforce Sync Backlog Metrics  {#salesforce-sync-backlog-metrics}
 
-The sync backlog represents the records pending sync from Salesforce to Marketo Engage, and vice versa. Ensuring the backlog remains under control will lead to smooth and timely syncs.
-
->[!NOTE]
->
->The backlog covers the numbers pending sync post-updates on either side, and not those that are undertaken by sync flow steps like the [Sync Person to SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} or [Sync Person to Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"} flow steps.
+The sync backlog is the name used for the records pending sync. It accounts for records pending sync from Salesforce to Marketo Engage, and vice versa. Ensuring the backlog remains under control will lead to smooth and time syncs. The backlog covers the numbers pending sync post updates on either side, and not those that are undertaken by sync flow steps like the Sync Lead to SFDC flow steps.
 
 ## How to access {#how-to-access}
 
 1. In Marketo Engage, go to the **Admin** area.
 
-   SCREENSHOT
+   ![](assets/salesforce-sync-backlog-metrics-1.png)
 
 1. Select **Salesforce**.
 
-   SCREENSHOT
+   ![](assets/salesforce-sync-backlog-metrics-2.png)
 
 ## Sync Backlog Trend {#sync-backlog-trend}
 
@@ -29,7 +25,7 @@ The backlog trend reflects changes in the backlogs recorded over the last 5 days
 
 Backlog is observed at a particular 4-hour time interval on the x-axis. This value is for all the objects under sync. This is the total of the backlog in Salesforce and Marketo Engage waiting to sync over.
 
-   SCREENSHOT
+   ![](assets/salesforce-sync-backlog-metrics-3.png)
 
 ## Sync Throughput and Backlog {#sync-throughput-and-backlog}
 
@@ -39,7 +35,7 @@ The statistics reflect the throughput and backlog status for every object type u
    >
    >Statistics are updated on a rolling basis, not by calendar day.
 
-   SCREENSHOT
+   ![](assets/salesforce-sync-backlog-metrics-4.png)
 
 <table><thead>
   <tr>
@@ -89,14 +85,18 @@ When a large amount of updates are made (like from a field value changing), many
 
 ## Best practices for managing sync backlogs {#best-practices}
 
-**Fields under sync**: Ensure the fields under sync are only those that need to be synced. Changes to fields increase the sync backlog and lower priority fields may be stopping or slowing more important fields under sync. Reach out to [Marketo Engage Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} to remove fields under sync.
+**Fields visible to Sync User**: Ensure that the fields visible to sync are only those that need to be synced and have value to marketing efforts. Any update to a record in Salesforce that updates the last modified timestamp will queue a record to the sync backlog, and unnecessary fields syncing may slow more important fields under sync. If the unnecessary fields are hidden from the sync user, updates to those fields will result in a skip which is much quicker than an update. Work with your Salesforce Admin to review best practices here and update which fields are visible to the Marketo Sync User.
 
-**Sensitive fields**: Some fields are prone to frequent updates (e.g., currency fields that are subject to currency changes). Review if these need to be synced, or if the fields need to be designed differently.  
+**Hide or filter unnecessary records**: If a record is not marketable, it may be wasting sync resources. If the sync user cannot see it, then it won't waste resources trying to sync it. [Marketo Engage Support](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} can assist setting up a sync filter to inhibit records from syncing based on additional criteria. More information about setting up a Custom Sync Filter [can be found here](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}. It is strongly recommended to use index fields within Salesforce (contact salesforce for further information).
 
-**Custom objects**: Periodically review custom objects under sync and remove any that no longer need to be synced.
+**Schedule bulk updates during non-critical hours**: Review your data sync patterns to identify non-critical periods. Review if bulk updates can be scheduled in these non-critical periods if possible.
 
-**Activities**: Check if there are any activities under sync that can be removed from the sync.
+**Frequently Updated fields**: Some fields are prone to frequent updates. For example, currency fields that are subject to currency changes. Review if these need to be synced, or if the fields should be designed differently. If you have other fields that are updated frequently and are not needed, hide them from the sync user. Be sure to discuss with your SFDC admin integrations that might be updating fields.
 
-**Schedule bulk updates during non-critical hours**: Review your data sync patterns to identify non-critical periods. See if bulk updates can be scheduled during these non-critical periods. 
+**Custom objects**: Periodically review [custom objects](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} enabled to sync and disable those that no longer need to be synced.
 
-If you're following all of the above best practices and are still experiencing significant backlogs, contact [Marketo Engage Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+**Activities**: [Review if any activities](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} enabled sync that may be removed from sync.  These activities only sync once per day per lead. 
+
+**Review Sync errors**: Exception handling may slow down the sync. Reviewing user notifications and resolving errors can improve sync health.
+
+**Contact Support**: If you're following all of the above best practices and are still experiencing significant backlogs, contact [Marketo Engage Support](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}.
