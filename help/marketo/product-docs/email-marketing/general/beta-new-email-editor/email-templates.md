@@ -7,7 +7,7 @@ feature: Email Editor
 ---
 # Email templates {#email-templates}
 
-Intro text here.
+For an accelerated and improved design process, you can create standalone email templates to easily reuse custom content.
 
 >[!IMPORTANT]
 >
@@ -41,13 +41,13 @@ Intro text here.
 
 In the _Design your template_ page, you can choose from a few options. [Design from scratch](#design-from-scratch), [import your own HTML](#import-html), or [select an existing template](#choose-a-template) (one of our samples or one you already saved).
 
+   ![](assets/design-your-template-1.png)
+
 ### Design from scratch {#design-from-scratch}
 
 Define your content by adding and moving structural elements with simple drag-and-drop actions.
 
 1. In the _Design your template_ page, select **Design from scratch**.
-
-   SCREENSHOT
 
 1. Add [structure and content](#add-structure-and-content).
 
@@ -65,11 +65,9 @@ You can import existing HTML content to design your email templates. The content
 
 1. In the _Design your template_ page, select **Import HTML**.
 
-   SCREENSHOT
+1. Drag and drop the desired HTML or .zip file (or select a file from your computer) and click **Import**.
 
-1. Drag and drop the desired HTML or .zip file and click **Import**.
-
-   SCREENSHOT
+   ![](assets/import-your-html-1.png)
 
    >[!NOTE]
    >
@@ -97,25 +95,31 @@ There are two types of templates to choose from.
 
 >[!TAB Sample templates]
 
-Choose one of four out-of-the-box templates for a head start on your email template design.
+Choose one of the out-of-the-box templates for a head start on your email template design.
 
-1. Select Sample templates.
+1. The Sample templates tab is open by default.
 
-   SCREENSHOT
+1. Select the template you want to use.
 
-1. Text.
+   ![](assets/sample-templates-1.png)
 
-   SCREENSHOT
+1. Click **Use this template**.
+
+   ![](assets/sample-templates-2.png)
+
+1. Edit the content as desired using the visual content designer.
 
 >[!TAB Saved templates]
 
-1. Select Saved templates.
+1. Click the **Saved templates** tab and select the desired template.
 
-   SCREENSHOT
+   ![](assets/saved-templates-1.png)
 
-1. Text.
+1. Click **Use this template**.
 
-   SCREENSHOT
+   ![](assets/saved-templates-2.png)
+
+1. Edit the content as desired using the visual content designer.
 
 >[!ENDTABS]
 
@@ -127,7 +131,7 @@ Choose one of four out-of-the-box templates for a head start on your email templ
    >
    >Select the n:n column component to define the number of columns of your choice (between three and 10). You can also define the width of each column by moving the arrows below the column.
 
-   SCREENSHOT
+   ![](assets/add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -135,7 +139,7 @@ Choose one of four out-of-the-box templates for a head start on your email templ
 
 1. From the Contents section, drag over desired items and drop them into one or more structure components.
 
-   SCREENSHOT
+   ![](assets/add-structure-and-content-2.png)
 
 1. Each component can be customized via the Settings or Style tabs. Change the font, text style, margin, and more.
 
@@ -188,6 +192,30 @@ Open the navigation tree to access specific structures and their columns/compone
 
 SCREENSHOT
 
+
+The example below outlines how to adjust padding and vertical alignment inside a structure component composed of three columns.
+
+Select the structure component directly in the email or using the Navigation tree available in the left-hand menu.
+
+From the toolbar, click Select a column and choose the one that you want to edit. You can also select it from the structure tree.
+
+The editable parameters for that column are displayed in the Styles tab.
+
+
+
+Under Alignment, select Top, Middle or Bottom.
+
+
+
+Under Padding, define the padding for all side.
+
+Select Different padding for each side if you want to fine tune the padding. Click the lock icon to break synchronization.
+
+
+
+Proceed similarly to adjust the other columns' alignment and padding.
+
+Save your changes.
 
 
 

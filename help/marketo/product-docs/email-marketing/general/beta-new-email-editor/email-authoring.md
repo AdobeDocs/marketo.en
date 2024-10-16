@@ -37,9 +37,9 @@ That's it. Now it's time to design your email.
 
 ## Choose your content type {#choose-your-content-type}
 
-1. In the email you just created, click **+ Add email content**.
+1. In the email you just created, click **Add email content**.
 
-   SCREENSHOT
+   ![](assets/choose-your-content-type-1.png)
 
 1. The _Create your email_ page loads. You can choose from a few options:
 
@@ -77,11 +77,9 @@ You can import existing HTML content to design your email. The content can be:
 
 1. In the Design your template page, select **Import HTML**.
 
-   SCREENSHOT
+1. Drag and drop the desired HTML or .zip file (or select a file from your computer) and click **Import**.
 
-1. Drag and drop the desired HTML or .zip file and click **Import**.
-
-   SCREENSHOT
+   ![](assets/authoring-import-your-html-1.png)
 
 >[!NOTE]
 >
@@ -101,35 +99,31 @@ There are two types of templates to choose from.
 
 >[!TAB Sample templates]
 
-Choose one of our out-of-the-box templates for a head start on your email design.
+Choose one of the out-of-the-box templates for a head start on your email template design.
 
-1. In the Create your email page, select **Sample templates**.
+1. The Sample templates tab is open by default.
 
-   SCREENSHOT
+1. Select the template you want to use.
 
-1. Select the desired template.
+   ![](assets/authoring-sample-templates-1.png)
 
-   SCREENSHOT
+1. Click **Use this template**.
 
-1. A preview appears. To confirm your selection, click **Use this template**.
+   ![](assets/authoring-sample-templates-2.png)
 
-   SCREENSHOT
+1. Edit the content as desired using the visual content designer.
 
 >[!TAB Saved templates]
 
-Choose one of your previously created templates.
+1. Click the **Saved templates** tab and select the desired template.
 
-1. In the Create your email page, select **Saved templates**.
+   ![](assets/authoring-saved-templates-1.png)
 
-   SCREENSHOT
+1. Click **Use this template**.
 
-1. Select the desired template.
+   ![](assets/authoring-saved-templates-2.png)
 
-   SCREENSHOT
-
-1. A preview appears. To confirm your selection, click **Use this template**.
-
-   SCREENSHOT
+1. Edit the content as desired using the visual content designer.
 
 >[!ENDTABS]
 
@@ -207,25 +201,29 @@ SCREENSHOT
 
 ### Personalize content {#personalize-content}
 
-Tokens work in the new editor the same way they work in the old, but the icon looks different.
+Tokens work in the new editor the same way they work in the old, but the icon looks different. The example below outlines adding a first name token with fallback text.
 
-1. Select the text component and click the **Add personalization** icon.
+1. Select the text component. Place the cursor where you want the token to appear and click the **Add personalization** icon.
 
-   SCREENSHOT
+   ![](assets/authoring-personalize-content-1.png)
 
 1. Click the desired [token type](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
-   SCREENSHOT
+   ![](assets/authoring-personalize-content-2.png)
 
-1. Click + or … to add a token to the blank space.
+1. Find the desired token and click the **...** icon (clicking the + icon instead adds a token with no fallback text).
 
-   SCREENSHOT
+   ![](assets/authoring-personalize-content-3.png)
 
    >[!NOTE]
    >
-   >"Fallback text" is the new editor term for default value. Example: ``{{lead.First Name:default=Friend}}``
+   >"Fallback text" is the new editor term for default value. Example: ``{{lead.First Name:default=Friend}}``. It is recommended in case there is no value for the person in the field you choose.
 
-1. Click **Save** when done.
+1. Set your fallback text and click **Add**.
+
+   ![](assets/authoring-personalize-content-4.png)
+
+1. Click **Save**.
 
 ### Edit URL tracking {#edit-url-tracking}
 

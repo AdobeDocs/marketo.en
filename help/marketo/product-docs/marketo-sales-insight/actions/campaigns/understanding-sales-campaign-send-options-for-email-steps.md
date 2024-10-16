@@ -40,6 +40,10 @@ For any subsequent days/steps in your Sales Campaign, you will have the followin
 * This option will send the email at the same time as the email directly before it.
 * It will still send on the day it is associated with.
 
+>[!IMPORTANT]
+>
+>Sending an email at the same time as the previous email is not supported for emails sent on the same day. Instead, the email will be sent out at the time of the email sent from the previous day. If this option is selected for an email on the first day of the campaign (not recommended), that email will be sent out immediately at the start of the campaign.
+
 ### Send this email at the following time {#subsequent-send-at-following-time}
 
 * When you kick off your Sales Campaign by adding people to it, we will schedule the email for this time.
