@@ -57,3 +57,4 @@ For any subsequent days/steps in your Campaign, you will have the following opti
 **Thread this email to the previous email**
 
 * This send option will be a 'follow up' to your previous email and will append the previous email body to the bottom of this email.
+ 

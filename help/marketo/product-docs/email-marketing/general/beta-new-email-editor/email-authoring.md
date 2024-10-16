@@ -190,14 +190,38 @@ When ready, click Save
 ARE THEY CALLED LAYERS OR COMPONENTS
 ```
 
-Open the navigation tree to access specific structures and their columns/components for more granular editing.
+Open the navigation tree to access specific structures and their columns/components for more granular editing. To access, click the Navigation tree icon.
 
-1. To access, click the Navigation tree icon.
+   ![](assets/authoring-layers-settings-styles-1.png)
 
-SCREENSHOT
+The example below outlines steps to adjust padding and vertical alignment inside a structure component composed of columns.
 
+1. Select the column in the structure component directly in the canvas or using the _Navigation tree_ displayed at the left.
 
+1. From the column toolbar, click the _[!UICONTROL Select a column]_ tool and choose the one that you want to edit.
 
+   You can also select it from the structure tree. The editable parameters for that column are displayed in the _[!UICONTROL Settings]_ and _[!UICONTROL Styles]_ tabs on the right.
+
+   ![](assets/authoring-layers-settings-styles-2.png)
+
+1. To edit the column properties, click the _[!UICONTROL Styles]_ tab on the right and change them according to your needs:
+
+   * For **[!UICONTROL Background]**, change the background color as needed.
+
+      Clear the check box for a transparent background. Enable the **[!UICONTROL Background image]** setting to use an image as the background instead of a solid color.
+
+   * For **[!UICONTROL Alignment]**, select the _Top_, _Middle_, or _Bottom_ icon.
+   * For **[!UICONTROL Padding]**, define the padding for all sides.
+
+      Select **[!UICONTROL Different padding for each side]** if you want to adjust the padding. Click the _Lock_ icon to break synchronization.
+
+   * Expand the **[!UICONTROL Advanced]** section to define inline styles for the column.
+
+   ![](assets/authoring-layers-settings-styles-3.png)
+
+1. Repeat these steps as needed to adjust the alignment and padding for the other columns in the component.
+
+1. Save your changes.
 
 ### Personalize content {#personalize-content}
 
