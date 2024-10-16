@@ -135,7 +135,7 @@ Choose one of the out-of-the-box templates for a head start on your email templa
    >
    >Select the n:n column component to define the number of columns of your choice (between three and 10). You can also define the width of each column by moving the arrows below the column.
 
-   SCREENSHOT
+   ![](assets/authoring-add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -143,11 +143,9 @@ Choose one of the out-of-the-box templates for a head start on your email templa
 
 1. From the Contents section, drag over desired items and drop them into one or more structure components.
 
-   SCREENSHOT
+   ![](assets/authoring-add-structure-and-content-2.png)
 
 1. Each component can be customized via the Settings or Style tabs. Change the font, text style, margin, and more.
-
-SCREENSHOT
 
 ### Add Assets {#add-assets}
 
@@ -255,11 +253,13 @@ Sometimes you don't want to enable the Marketo Tracking URL on a link in an emai
 
 1. Click the Links icon to display all URLs in your email.
 
-   SCREENSHOT
+   ![](assets/authoring-edit-url-tracking-1.png)
 
 1. Click the pencil icon to edit tracking for any desired links.
 
-   SCREENSHOT
+1. Click the **Tracking Type** drop-down and make your selection.
+
+   ![](assets/authoring-edit-url-tracking-2.png)
 
    ```
    LABEL?
@@ -321,7 +321,7 @@ When your message content is defined, you can use test profiles to preview it, s
 
 To preview your email content, click **Simulate content**, then add a test profile to check your message using the test profile data.
 
-SCREENSHOT
+   ![](assets/test-your-email-1.png)
 
 ## Reference an email {#reference-an-email}
 

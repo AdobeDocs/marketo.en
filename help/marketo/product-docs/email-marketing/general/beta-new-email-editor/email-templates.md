@@ -143,8 +143,6 @@ Choose one of the out-of-the-box templates for a head start on your email templa
 
 1. Each component can be customized via the Settings or Style tabs. Change the font, text style, margin, and more.
 
-SCREENSHOT
-
 ### Add Assets {#add-assets}
 
 ```
@@ -221,25 +219,29 @@ The example below outlines steps to adjust padding and vertical alignment inside
 
 ### Personalize content {#personalize-content}
 
-Tokens work in the new editor the same way they work in the old, but the icon looks different.
+Tokens work in the new editor the same way they work in the old, but the icon looks different. The example below outlines adding a first name token with fallback text.
 
-1. Select the text component and click the **Add personalization** icon.
+1. Select the text component. Place the cursor where you want the token to appear and click the **Add personalization** icon.
 
-   SCREENSHOT
+   ![](assets/personalize-content-1.png)
 
 1. Click the desired [token type](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
-   SCREENSHOT
+   ![](assets/personalize-content-2.png)
 
-1. Click + or … to add a token to the blank space.
+1. Find the desired token and click the **...** icon (clicking the + icon instead adds a token with no fallback text).
 
-   SCREENSHOT
+   ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
-   >"Fallback text" is the new editor term for default value. Example: ``{{lead.First Name:default=Friend}}``
+   >"Fallback text" is the new editor term for default value. Example: ``{{lead.First Name:default=Friend}}``. It is recommended in case there is no value for the person in the field you choose.
 
-1. Click **Save** when done.
+1. Set your fallback text and click **Add**.
+
+   ![](assets/personalize-content-4.png)
+
+1. Click **Save**.
 
 ### Edit URL tracking {#edit-url-tracking}
 
@@ -247,11 +249,13 @@ Sometimes you don't want to enable the Marketo Tracking URL on a link in an emai
 
 1. Click the Links icon to display all URLs in your email.
 
-   SCREENSHOT
+   ![](assets/edit-url-tracking-1.png)
 
 1. Click the pencil icon to edit tracking for any desired links.
 
-   SCREENSHOT
+1. Click the **Tracking Type** drop-down and make your selection.
+
+   ![](assets/edit-url-tracking-2.png)
 
    ```
    LABEL?
