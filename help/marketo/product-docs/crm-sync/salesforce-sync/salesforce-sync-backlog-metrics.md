@@ -81,7 +81,7 @@ The statistics reflect the throughput and backlog status for every object type u
 
 Whether the update is made on the Marketo Engage side or the CRM side, it will trigger the record to be resynced to update the information on the other end through the regular Marketo Engage to CRM sync cycle. Whenever an update is made to a record on Salesforce, it generates a System Modification Time Stamp, referred to as 'SysModStamp.' This queues a change to sync.
 
-When a large amount of updates are made (like from a field value changing), many records are altered, causing new SysModStamps. A large number of person record updates then need to be resynced between Marketo Engage and your CRM, sometimes creating a momentary backlog. 
+When a large amount of updates are made (like from a field value changing), many records are altered, causing new SysModStamps. A large number of person record updates then need to be resynced between Marketo Engage and your CRM, sometimes creating a momentary backlog.
 
 ## Best practices for managing sync backlogs {#best-practices}
 
