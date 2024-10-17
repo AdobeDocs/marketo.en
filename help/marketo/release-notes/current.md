@@ -78,6 +78,17 @@ The following features fall under the standard release cycle and will start to b
    <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Email Performance Report</a></td>
   </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+   <tr> 
+   <td><strong>Salesforce Sync Backlog Metrics</strong>: Monitor sync throughput and backlog trends in order to plan and schedule CRM updates for an optimum sync experience.
+   </td> 
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Salesforce Sync Backlog Metrics</a></td>
+  </tr>
  </tbody> 
 </table>
 <br/> 
