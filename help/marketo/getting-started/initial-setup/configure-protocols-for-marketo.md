@@ -58,8 +58,6 @@ When your Marketing group uses Marketo Engage to send test emails (a best practi
 
 Add these IP addresses to your corporate allowlist:
 
-94.236.119.0/26
-
 103.237.104.0/22
 
 130.248.172.0/24
