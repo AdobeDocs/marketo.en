@@ -91,9 +91,9 @@ You can make desired changes to the imported content using the [visual email edi
 
 There are two types of templates to choose from.
 
-* Sample templates: Marketo Engage offers four out-of-the-box email templates.
+* **Sample templates**: Marketo Engage offers four out-of-the-box email templates.
 
-* Saved templates: These are templates you created from scratch using the Templates menu, or an email you created and chose to save as a template.
+* **Saved templates**: These are templates you created from scratch using the Templates menu, or an email you created and chose to save as a template.
 
 >[!BEGINTABS]
 

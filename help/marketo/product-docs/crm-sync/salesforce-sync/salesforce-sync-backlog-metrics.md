@@ -1,8 +1,6 @@
 ---
 description: Salesforce Sync Backlog Metrics - Marketo Docs - Product Documentation
 title: Salesforce Sync Backlog Metrics
-hide: yes
-hidefromtoc: yes
 feature: Reporting
 ---
 # Salesforce Sync Backlog Metrics  {#salesforce-sync-backlog-metrics}
