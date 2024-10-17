@@ -47,6 +47,8 @@ Create an Interactive Webinar in a few easy steps.
    >* You cannot reuse a webinar title. Each one must be unique in your Marketo instance.
    >
    >* You can change the webinar title at a later stage, if desired.
+   >
+   >* If you create a test webinar, it needs to be deleted before its start time to ensure that the license for that webinar does not get utilized.
 
 1. Schedule the date/time of your webinar and click **Create**.
 

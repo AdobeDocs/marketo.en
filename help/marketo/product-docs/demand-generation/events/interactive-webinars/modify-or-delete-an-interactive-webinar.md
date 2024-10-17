@@ -76,6 +76,10 @@ Learn how to make changes to your Interactive Webinar.
 
 ## Delete an Interactive Webinar {#delete-an-interactive-webinar}
 
+>[!NOTE]
+>
+>If you create a test webinar, it needs to be deleted before its start time to ensure that the license for that webinar does not get utilized.
+
 1. Select the desired Event Program.
 
    ![](assets/modify-or-delete-an-interactive-webinar-13.png)
