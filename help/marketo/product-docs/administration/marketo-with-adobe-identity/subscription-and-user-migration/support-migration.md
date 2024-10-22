@@ -42,4 +42,4 @@ The Support migration will occur after your User migration is completed for all 
 
 ## Still have questions? {#still-have-questions}
 
-If you still have questions regarding your subscription and/or support migration, contact us at `marketocares@adobe.com`.
+If you still have questions regarding your subscription and/or support migration, contact us at `customercare@marketo.com`.

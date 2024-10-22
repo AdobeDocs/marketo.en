@@ -75,7 +75,9 @@ Custom Objects created in your Salesforce instance can be part of Marketo Engage
 
    >[!NOTE]
    >
-   >Marketo only supports custom entities that are linked to standard entities one or two levels deep.
+   >* Marketo only supports custom entities that are linked to standard entities one or two levels deep.
+   >
+   >* The custom object tree may show the same object more than once, because of its direct connections with one of the main objects (e.g., leads, contacts, or accounts or indirect connections through an intermediary objects). In such cases, choose the object that is nearest to the main object and choose only one. Choosing the same object multiple times may hamper the sync of that custom object.
 
 ### What's Next: {#whats-next}
 
