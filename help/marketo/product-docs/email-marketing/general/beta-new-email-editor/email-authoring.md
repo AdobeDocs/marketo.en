@@ -154,7 +154,7 @@ ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
 ```
 
 ```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY?
+Access assets stored in the Assets library. IMAGES AND FILES ONLY? - For now, only from Marketo Images and Files section!!!
 ```
 
 1. To access your images, click the Asset selector icon.
@@ -185,7 +185,7 @@ When ready, click Save
 ### Layers, settings, and styles {#layers-settings-styles}
 
 ```
-ARE THEY CALLED LAYERS OR COMPONENTS
+ARE THEY CALLED LAYERS OR COMPONENTS - NILESH WILL CHECK
 ```
 
 Open the navigation tree to access specific structures and their columns/components for more granular editing. To access, click the Navigation tree icon.
@@ -262,9 +262,9 @@ Sometimes you don't want to enable the Marketo Tracking URL on a link in an emai
    ![](assets/authoring-edit-url-tracking-2.png)
 
    ```
-   LABEL?
+   LABEL? - just what URL shows as (ex: my site)
 
-   TAGS?
+   TAGS? - NILESH WILL CHECK ON HOW THEY WORK
    ```
 
    <table><tbody>

@@ -150,7 +150,7 @@ ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD??
 ```
 
 ```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY?
+Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL AUTHORING FOR ANSWERS - KG
 ```
 
 1. To access your images, click the Asset selector icon.
@@ -181,7 +181,7 @@ When ready, click Save
 ### Layers, settings, and styles {#layers-settings-styles}
 
 ```
-ARE THEY CALLED LAYERS OR COMPONENTS
+ARE THEY CALLED LAYERS OR COMPONENTS - NILESH IS CHECKING
 ```
 
 Open the navigation tree to access specific structures and their columns/components for more granular editing. To access, click the Navigation tree icon.
@@ -260,7 +260,7 @@ Sometimes you don't want to enable the Marketo Tracking URL on a link in an emai
    ```
    LABEL?
 
-   TAGS?
+   TAGS? - NILESH IS LOOKING INTO IT
    ```
 
    <table><tbody>
@@ -336,7 +336,7 @@ This action can be taken from:
 * The _Email templates_ listing page - Click the More actions icon (three dots) of the desired email template and choose Edit.
 
 ```
-THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE
+THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE - CONFIRMED WITH NILESH - KG
 ```
 
 This action takes you to the _Design your template_ page or the visual content editor page based on the last saved status of the email template. From here, you can edit your email template content as needed. See Create email templates for information about the editing options.
