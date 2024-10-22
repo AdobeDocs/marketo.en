@@ -7,11 +7,11 @@ feature: Microsoft Dynamics
 ---
 # Enable Sync for a Custom Entity {#enable-sync-for-a-custom-entity}
 
-If you need custom entity data from Dynamics to be available in Marketo Engage, here's how to enable the sync for it.
+If you need custom entity data from Dynamics to be available in Marketo Engage, here's how to enable the sync for it. **Admin permissions are required**.
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**Admin Permissions Required**
+>To use a custom object, it must be associated to a [lead](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md){target="_blank"}, [contact](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md){target="_blank"}, or [account](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md){target="_blank"} object in Microsoft Dynamics.
 
 >[!NOTE]
 >
@@ -46,7 +46,7 @@ If you need custom entity data from Dynamics to be available in Marketo Engage, 
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. Select the fields you want to sync or use as [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) and/or triggers (for records added, _not_ updated) in Smart Lists. When done, click **[!UICONTROL Enable Sync]**.
+1. Select the fields you want to sync or use as [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} and/or triggers (for records added, _not_ updated) in Smart Lists. When done, click **[!UICONTROL Enable Sync]**.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
