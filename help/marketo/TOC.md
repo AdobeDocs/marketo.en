@@ -1093,10 +1093,10 @@ feature-set: Marketo Engage
       + Understanding the Email Editor {#understanding-the-email-editor}
         + [Understanding Email Event Logging](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
         + [Using the Rich Text Editor](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
-      + Beta New Email Editor {#beta-new-email-editor}
-        + [New email editor overview (beta)](product-docs/email-marketing/general/beta-new-email-editor/overview.md)
-        + [Email authoring](product-docs/email-marketing/general/beta-new-email-editor/email-authoring.md)
-        + [Email templates](product-docs/email-marketing/general/beta-new-email-editor/email-templates.md)
+      + Beta New Email Designer {#beta-new-email-designer}
+        + [New email designer overview (beta)](product-docs/email-marketing/general/beta-new-email-designer/overview.md)
+        + [Email authoring](product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md)
+        + [Email templates](product-docs/email-marketing/general/beta-new-email-designer/email-templates.md)
       + Creating an Email {#creating-an-email}
         + [Approve an Email](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
         + [Create a Text Only Email](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)

@@ -11,11 +11,11 @@ For an accelerated and improved design process, you can create standalone email 
 
 >[!IMPORTANT]
 >
->This article is only for members of the New Marketo Engage Email Editor beta. Please do not disseminate.
+>This article is only for members of the New Marketo Engage Email Designer beta. Please do not disseminate.
 
 >[!NOTE]
 >
->Email templates in the new email editor can only be used to create emails in the new email editor. They cannot be referenced in the old email editor.
+>Email templates in the new email designer can only be used to create emails in the new email designer. They cannot be referenced in the old email editor.
 
 ## Create an email template {#create-an-email-template}
 
@@ -180,10 +180,6 @@ When ready, click Save
 
 ### Layers, settings, and styles {#layers-settings-styles}
 
-```
-ARE THEY CALLED LAYERS OR COMPONENTS - NILESH IS CHECKING
-```
-
 Open the navigation tree to access specific structures and their columns/components for more granular editing. To access, click the Navigation tree icon.
 
    ![](assets/layers-settings-styles-1.png)
@@ -257,27 +253,23 @@ Sometimes you don't want to enable the Marketo Tracking URL on a link in an emai
 
    ![](assets/edit-url-tracking-2.png)
 
-   ```
-   LABEL?
-
-   TAGS? - NILESH IS LOOKING INTO IT
-   ```
-
    <table><tbody>
      <tr>
        <td><b>Track without mkt_tok</b></td>
-       <td>definition</td>
+       <td>Activates tracking on the URL without use of the mkt_tok query string parameter in the destination URL</td>
      </tr>
      <tr>
        <td><b>Track with mkt_tok</b></td>
-       <td>definition</td>
+       <td>Activates tracking on the URL with use of the mkt_tok query string parameter in the destination URL</td>
      </tr>
      <tr>
        <td><b>Do not track</b></td>
-       <td>definition</td>
+       <td>Disables tracking of the URL</td>
      </tr>
    </tbody>
    </table>
+
+1. Optionally, you can give the URL a label or add Tags.
 
 1. Click **Save** when done.
 
@@ -377,4 +369,4 @@ From the _Email templates_ listing page, select multiple templates by selecting 
 
 >[!MORELIKETHIS]
 >
->[Email authoring](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/email-authoring.md){target="_blank"}: Learn how to create, design, and reference an email in the new editor.
+>[Email authoring](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}: Learn how to create, design, and reference an email in the new designer.
