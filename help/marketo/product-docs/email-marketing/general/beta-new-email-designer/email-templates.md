@@ -325,12 +325,6 @@ This action can be taken from:
 
 * The details tab - Click **Edit email template**.
 
-* The _Email templates_ listing page - Click the More actions icon (three dots) of the desired email template and choose Edit.
-
-```
-THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE - CONFIRMED WITH NILESH - KG
-```
-
 This action takes you to the _Design your template_ page or the visual content editor page based on the last saved status of the email template. From here, you can edit your email template content as needed. See Create email templates for information about the editing options.
 
 ## Duplicate email templates {#duplicate-email-templates}

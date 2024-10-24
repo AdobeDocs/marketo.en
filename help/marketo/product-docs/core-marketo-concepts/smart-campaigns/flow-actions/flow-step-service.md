@@ -26,6 +26,10 @@ To access the service being installed, Marketo must have valid API credentials. 
 
 When you save your credentials, Marketo will attempt to call the status endpoint of the service to verify that they are valid. If the credentials provided are invalid, you'll see an error indicating this.
 
+>[!CAUTION]
+>
+>If a Service Provider is created and deleted, you won't be able to reuse its Service Provider, API, Trigger, or Filter name going forward.
+
 ## Onboarding Guide (Optional) {#onboarding-guide}
 
 Some service providers will including an optional Onboarding Guide step. This step will include any additional instructions to complete service onboarding which are specific to that service.
