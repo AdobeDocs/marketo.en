@@ -124,6 +124,10 @@ When subscriptions are onboarded to Adobe Identity, Single Sign On (SSO) is set 
 
 When subscriptions are onboarded to Adobe Identity, Single Sign On (SSO) is set up at the Adobe Organization level. This means SSO applies to all product instances in the Adobe Org. When SSO is set up, it will apply to all Marketo instances in that Adobe Org. Previously, Marketo supported this setting at an instance level. That is not supported by Adobe Identity Management System.
 
+**Are any changes needed to CNAMEs, SPF, or DKIM we currently use for Marketo Engage after the Adobe Identity migration?**
+
+No, there are no impacts to these configurations.
+
 **I now have to navigate into Experience Cloud to access Marketo Engage. Is there a way to streamline this flow?**
 
 Yes. You can create a browser bookmark of the link that launches after clicking the **Launch** button on the Marketo Engage instance entrance page to bypass that page going forward.
