@@ -11,7 +11,7 @@ Learn how to create, personalize, and preview emails in the new Marketo Engage E
 
 >[!IMPORTANT]
 >
->This article is only for members of the New Marketo Engage Email Designer beta. Please do not disseminate.
+>This article is only for members of the new Marketo Engage Email Designer beta. Please do not disseminate.
 
 ## Create an email {#create-an-email}
 

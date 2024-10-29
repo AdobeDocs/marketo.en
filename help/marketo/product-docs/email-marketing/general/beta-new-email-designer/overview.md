@@ -11,7 +11,7 @@ Welcome to the new Adobe Marketo Engage Email Designer.
 
 >[!IMPORTANT]
 >
->This article is only for members of the New Marketo Engage Email Designer beta. Please do not disseminate.
+>This article is only for members of the new Marketo Engage Email Designer beta. Please do not disseminate.
 
 The new Email Designer is the latest innovation in Marketo Engage intended to provide a revamped email and email template creation experience to improve productivity and efficiency by providing a visual drag-and-drop editor along with standard out-of-the-box templates. Easily create customized email templates without having to spend money on vendors. 
 

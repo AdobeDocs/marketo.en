@@ -11,7 +11,7 @@ For an accelerated and improved design process, you can create standalone email 
 
 >[!IMPORTANT]
 >
->This article is only for members of the New Marketo Engage Email Designer beta. Please do not disseminate.
+>This article is only for members of the new Marketo Engage Email Designer beta. Please do not disseminate.
 
 >[!NOTE]
 >
