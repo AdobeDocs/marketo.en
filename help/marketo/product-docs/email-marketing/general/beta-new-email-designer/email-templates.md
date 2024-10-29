@@ -346,4 +346,4 @@ From the _Email templates_ listing page, select multiple templates by selecting 
 
 >[!MORELIKETHIS]
 >
->[Email authoring](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}: Learn how to create, design, and reference an email in the new designer.
+>[Email authoring](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}: Learn how to create, design, and reference an email in the new designer. 

@@ -21,4 +21,4 @@ Emails created in the new designer can be used in Smart Lists and Smart Campaign
 
 * [Email authoring](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}: Learn how to create, design, and reference an email in the new editor.
 
-* [Email templates](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}: Learn how to create, design, and access an email template in the new editor.
+* [Email templates](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}: Learn how to create, design, and access an email template in the new editor. 

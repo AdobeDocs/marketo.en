@@ -314,4 +314,4 @@ After you've created an email in the new editor, you can reference it in Smart C
 
 >[!MORELIKETHIS]
 >
->[Email templates](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}: Learn how to create, design, and access an email template in the new designer.
+>[Email templates](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}: Learn how to create, design, and access an email template in the new designer. 
