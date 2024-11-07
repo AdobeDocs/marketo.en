@@ -16,6 +16,10 @@ Create an Interactive Webinar in a few easy steps.
 
    ![](assets/create-an-interactive-webinar-2.png)
 
+   >[!CAUTION]
+   >
+   >[Mobile Push Notification](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"} assets are **not** supported in Interactive Webinars.
+
 1. Name the program. Under Program Type, select **Event**.
 
    ![](assets/create-an-interactive-webinar-3.png)
@@ -31,10 +35,6 @@ Create an Interactive Webinar in a few easy steps.
 1. Choose **Interactive Webinars** and click **Next**.
 
    ![](assets/create-an-interactive-webinar-5.png)
-
-   >[!NOTE]
-   >
-   >Information on partner webinars can be found here.
 
 1. Give your webinar a title. Set its maximum audience size and how long it will last.
 
