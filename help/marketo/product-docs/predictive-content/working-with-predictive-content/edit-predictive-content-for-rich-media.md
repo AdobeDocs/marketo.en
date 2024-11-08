@@ -25,6 +25,10 @@ Here's how to set up your predictive content for Rich Media.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
+   >[!NOTE]
+   >
+   >JPEG images with the color model CMYK are not supported for rich media. JPEGs must be converted to sRGB using a color profile. Be sure to choose this setting when exporting from your image editor.
+
 1. Type in a **Description**.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)

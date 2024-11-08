@@ -64,7 +64,7 @@ Before you can utilize this feature, you must enable its permssion per desired r
 
 >[!NOTE]
 >
->Marketo Engage has a defined blocklist of free consumer email domains that are blocked when using our pre-loaded "Consumer Email Domain Blocklist" rule. [View that list here](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
+>Marketo Engage has a defined blocklist of free consumer email domains that are blocked when using our pre-loaded "Consumer Email Domain Blocklist" rule. [View that list here](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (to download, make sure your browser is up-to-date and can accept downloads).
 
 ## How to Disable Access Per Form{#how-to-disable-access-per-form}
 
