@@ -4,6 +4,7 @@ title: Email templates
 hide: yes
 hidefromtoc: yes
 feature: Email Editor
+exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
 ---
 # Email templates {#email-templates}
 
@@ -346,4 +347,4 @@ From the _Email templates_ listing page, select multiple templates by selecting 
 
 >[!MORELIKETHIS]
 >
->[Email authoring](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}: Learn how to create, design, and reference an email in the new designer. 
+>[Email authoring](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}: Learn how to create, design, and reference an email in the new designer.

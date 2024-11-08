@@ -4,6 +4,7 @@ title: Email authoring
 hide: yes
 hidefromtoc: yes
 feature: Email Editor
+exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
 ---
 # Email authoring {#email-authoring}
 
@@ -314,4 +315,4 @@ After you've created an email in the new editor, you can reference it in Smart C
 
 >[!MORELIKETHIS]
 >
->[Email templates](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}: Learn how to create, design, and access an email template in the new designer. 
+>[Email templates](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}: Learn how to create, design, and access an email template in the new designer.

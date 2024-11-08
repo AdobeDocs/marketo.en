@@ -2,6 +2,7 @@
 description: Salesforce Sync Backlog Metrics - Marketo Docs - Product Documentation
 title: Salesforce Sync Backlog Metrics
 feature: Reporting
+exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
 ---
 # Salesforce Sync Backlog Metrics  {#salesforce-sync-backlog-metrics}
 
