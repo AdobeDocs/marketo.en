@@ -4,6 +4,7 @@ title: Email Open Tracking at Campaign Level
 hide: yes
 hidefromtoc: yes
 feature: Email Setup
+exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
 ---
 # Email Open Tracking at Campaign Level {#email-open-tracking-at-campaign-level}
 
