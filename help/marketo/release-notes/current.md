@@ -73,7 +73,6 @@ The following features fall under the standard release cycle and will start to b
    <li>Filter deleted and merged people from email performance metrics</li>
    <li>Emails now classified as <i>aborted</i> after waiting three days for response activity</li>
    <li>Email opens count as unique open separately for each Smart Campaign</li>
-   <li>Improved email activity tracking through refinement of the tracking pixel location</li>
    </td> 
    <td>Shipped</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Email Performance Report</a></td>

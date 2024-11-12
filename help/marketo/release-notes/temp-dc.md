@@ -9,7 +9,7 @@ hidefromtoc: yes
 
 ## September/October 2024 Release {#august-release}
 
-### Enhanced Live Chat Analytics {#enhanced-live-chat-analytics}
+### Enhanced live chat analytics {#enhanced-live-chat-analytics}
 
 Several enhancements have been made to the Analytics Dashboard, including: 
 
@@ -27,7 +27,7 @@ Several enhancements have been made to the Analytics Dashboard, including:
 
 SCREENSHOT
 
-### Conversation Scoring 
+### Conversation scoring {#conversation-scoring}
 
 Quantify your leads based on the quality of their chat interaction and use that metric as a Trigger/Filter in Marketo Engage Smart Campaigns. Use the new attribute _conversation score_ on the following activities: 
 
@@ -53,7 +53,7 @@ SCREENSHOT
 
 SCREENSHOT
 
-### New Lead Creation Logic {#new-lead-creation-logic}
+### New lead creation logic {#new-lead-creation-logic}
  
 If a lead fills out a form with the email `abc@test.com` and is cookied as xyz, then later fills out the same form with the email `def@test.com`, a new lead gets created, but cookie xyz becomes associated with new the lead and removed from lead `abc@test.com`. 
 
@@ -62,3 +62,21 @@ From then on, `abc@test.com` will be a lead with no cookie. ANON LEAD??
 So, when a visitor with cookie abc lands on a page and provides an email ID as `abc@p.com`: 
 
 TABLE
+
+### Optimized conversation flow load time {#optimized-conversation-flow-load-time}
+ 
+To improve the user experience, a shimmer loader is now displayed instead of a blank space while the conversation flow loads. CONVERSATION OR CONVERSATIONAL???
+
+**Before**
+
+GIF
+
+**After**
+
+GIF
+
+### Option to inherit font {#option-to-inherit-font}
+ 
+As a user I would want to enable my chatbot to directly inherit the font from the web page where is it being loaded rather than managing my brand font in Dynamic Chat 
+
+Note: Once you enable this option, Chatbot will take the font that is defined on body tag of the page
