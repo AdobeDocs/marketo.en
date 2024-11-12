@@ -36,7 +36,7 @@ This feature allows you to control tracking email opens, either once for each op
   </tr>
   <tr>
     <td><b>Disabled</b></td>
-    <td>Email opens are tracked...</td>
+    <td>Email opens are counted based only on unique person opens.</td>
   </tr>
 </tbody>
 </table>
