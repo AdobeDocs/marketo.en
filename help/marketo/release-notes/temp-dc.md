@@ -13,15 +13,15 @@ hidefromtoc: yes
 
 Several enhancements have been made to the Analytics Dashboard, including: 
 
-* Total Requested Live Chat Count: number of visitors requested for a "Chat with Agent" 
+* Total Requested Live Chat Count: number of visitors requested for a "chat with agent" 
 
-* Total Connected Live Chat: number of visitors connected vs. total requested for a "Chat with Agent" 
+* Total Connected Live Chat: number of visitors connected vs. total requested for a "chat with agent" 
 
-* Total Missed Live Chat Requests: number of visitors unattended vs. total requested for a "Chat with Agent" 
+* Total Missed Live Chat Requests: number of visitors unattended vs. total requested for a "chat with agent" 
 
 * Average Chat Length in Minutes: analyze "average chat length" between visitors and your agents 
 
-* Average Agent Response time in Seconds: analyze "average time taken" by agents to respond their live chat Q&A 
+* Average Agent Response Time in Seconds: analyze "average time taken" by agents to respond their live chat Q&A 
 
 * Daily Dashboard: live chat requests connected successfully, live chat requests missed, sort and filter recent live chat activities
 
@@ -39,7 +39,7 @@ Quantify your leads based on the quality of their chat interaction and use that 
 
 * The score value will be from 0, 1, 2, 3 (default value is null)
 
-* Once the conversation is completed or dropped, in the activity save the scoring value and post that it cannot be edited???????????????????????????????? (what does this mean)
+* Once the conversation is completed or dropped, in the activity save the scoring value and post that it cannot be edited????? (what does this sentence mean)
 
 * Setting a score:
 
@@ -57,7 +57,7 @@ SCREENSHOT
  
 If a lead fills out a form with the email `abc@test.com` and is cookied as xyz, then later fills out the same form with the email `def@test.com`, a new lead gets created, but cookie xyz becomes associated with new the lead and removed from lead `abc@test.com`. 
 
-From then on, `abc@test.com` will be a lead with no cookie. ANON LEAD??  
+From then on, `abc@test.com` will be a lead with no cookie. ANONYMOUS LEAD??  
 
 So, when a visitor with cookie abc lands on a page and provides an email ID as `abc@p.com`: 
 
@@ -77,6 +77,12 @@ GIF
 
 ### Option to inherit font {#option-to-inherit-font}
  
-As a user I would want to enable my chatbot to directly inherit the font from the web page where is it being loaded rather than managing my brand font in Dynamic Chat 
+You can now enable the chatbot to directly inherit the font from the web page where it's being hosted rather than managing the brand font in Dynamic Chat. When you enable this option, the chatbot will take the font that is defined on `<body>` tag of the page.
 
-Note: Once you enable this option, Chatbot will take the font that is defined on body tag of the page
+SCREENSHOT
+
+### Demandbase integration with Dynamic Chat {#demandbase-integration-with-dynamic-chat}
+ 
+Demandbase users are able to bring their own license of Demandbase and activate the integration. Use Demandbase person attributes for dialogue targeting, conditional branding, and custom routing.
+
+Resolution of these attribute values against a lead would be done in realtime and are stored in the respective lead profile.
