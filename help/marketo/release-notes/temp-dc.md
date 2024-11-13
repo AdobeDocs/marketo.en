@@ -4,6 +4,7 @@ title: Dynamic Chat Release Notes
 feature: Release Information, Dynamic Chat
 hide: yes
 hidefromtoc: yes
+exl-id: 12130dee-2dbf-4e71-b542-30d4732b1067
 ---
 # TEMP Dynamic Chat Release Notes {#dynamic-chat-release}
 
