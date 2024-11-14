@@ -40,7 +40,7 @@ Quantify your leads based on the quality of their chat interaction and use that 
 
 * The score value will be from 0, 1, 2, 3 (default value is null)
 
-* Once the conversation is completed or dropped, in the activity save the scoring value and post that it cannot be edited????? (what does this sentence mean)
+* Once the conversation is completed or dropped, in the activity save the scoring value and post that it cannot be edited   ????? (what does this sentence mean)
 
 * Setting a score:
 
