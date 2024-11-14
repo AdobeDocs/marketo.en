@@ -35,3 +35,22 @@ Links are available on the right side of the Overview tab in your Event Program 
 ![](assets/promoting-an-interactive-webinar-2.png)
 
 Interactive Webinars allows you to solicit registration before, during, or after a webinar. In all cases, you would simply need to share the Webinar URL with the lead. Clicking the link before the webinar begins sends them to a pre-webinar Landing Page. Clicking it during the webinar takes them to the webinar in progress. Clicking it after the webinar takes them to a recording of the webinar.
+
+## Interactive Webinars Tokens {#interactive-webinars-tokens}
+
+Use tokens to promote Interactive Webinars in emails and Landing Pages without having to manually add the webinar details. This improves overall efficiency as any changes made to the webinar metadata (such as webinar title, start date, etc.) will automatically reflect in your assets.
+
+![](assets/promoting-an-interactive-webinar-3.png)
+
+**List of tokens**
+
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle

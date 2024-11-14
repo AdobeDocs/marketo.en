@@ -26,19 +26,9 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documention</th>
   </tr>
     <tr> 
-   <td><strong>Enhanced Registration Data in Engagement Dashboard for Interactive Webinars</strong>: You can now see which companies have had the most attendance and get the company, title, and industry updated at a lead-level in reports available in the Engagement Dashboard.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
-   <td>&nbsp;</td> 
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  </tr>
-    <tr> 
    <td><strong>Tokenization for Interactive Webinars</strong>: You're now able to use tokens to promote Interactive Webinars in emails and Landing Pages without having to manually add the webinar details.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">Promoting an Interactive Webinar</a></td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
