@@ -60,7 +60,7 @@ If a lead fills out a form with the email `abc@test.com` and is cookied as xyz, 
 
 From then on, `abc@test.com` will be a lead with no cookie. ANONYMOUS LEAD??  
 
-So, when a visitor with cookie abc lands on a page and provides an email ID as `abc@p.com`: 
+So, when a visitor with cookie abc lands on a page and provides an email ID as `abc@test.com`: 
 
 TABLE
 
