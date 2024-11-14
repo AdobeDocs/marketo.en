@@ -11,7 +11,7 @@ The final step in setting up your email test to approve it. Here's how.
 
 >[!PREREQUISITES]
 >
->[Configure report alerts](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md#configure-report-alerts)
+>[Configure report alerts](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)
 
 1. Go to **Marketing Activities**.
 
