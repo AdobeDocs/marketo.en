@@ -10,6 +10,134 @@ Adobe Dynamic Chat releases operate on a continuous delivery model which allows 
 
 The standard Release Notes page for Marketo Engage [can be found here](/help/marketo/release-notes/current.md){target="_blank"}.
 
+## September/October 2024 Release {#sep-oct-release}
+
+### Enhanced live chat analytics {#enhanced-live-chat-analytics}
+
+Several enhancements have been made to the Analytics Dashboard, including: 
+
+* Total Requested Live Chat Count: number of visitors requested for a "chat with agent" 
+
+* Total Connected Live Chat: number of visitors connected vs. total requested for a "chat with agent" 
+
+* Total Missed Live Chat Requests: number of visitors unattended vs. total requested for a "chat with agent" 
+
+* Average Chat Length in Minutes: analyze "average chat length" between visitors and your agents 
+
+* Average Agent Response Time in Seconds: analyze "average time taken" by agents to respond their live chat Q&A 
+
+* Daily Dashboard: live chat requests connected successfully, live chat requests missed, sort and filter recent live chat activities
+
+![](assets/dynamic-chat-sep-oct-2024-release-1.png)
+
+### Conversation scoring {#conversation-scoring}
+
+Quantify your leads based on the quality of their chat interaction and use that metric as a Trigger/Filter in Marketo Engage Smart Campaigns. Use the new attribute _conversation score_ on the following activities: 
+
+* Engaged with a dialogue  
+* Engaged with a conversation flow 
+* Engaged with an agent
+
+**Things to note:**
+
+* The score value will be from 0, 1, 2, 3 (default value is null)
+
+* When the conversation is completed or dropped, the scoring value cannot be edited
+
+* Setting a score:
+
+  * In the agent inbox - during a live chat, the agent is able to update or set a score for the conversation, which is stored in the conversation activity 
+
+  * In the stream designer - in the goal card, the user is able to update or set a score for the conversation  
+
+![](assets/dynamic-chat-sep-oct-2024-release-2.png)
+
+![](assets/dynamic-chat-sep-oct-2024-release-3.png)
+
+![](assets/dynamic-chat-sep-oct-2024-release-4.png)
+
+### New lead creation logic {#new-lead-creation-logic}
+ 
+If a lead fills out a form with the email `abc@test.com` and is cookied as xyz, then later fills out the same form with the email `def@test.com`, a new person record gets created, but cookie xyz becomes associated with new the person and removed from person `abc@test.com`. 
+
+So, when a visitor with cookie abc lands on a page and provides an email ID as `abc@test.com`: 
+
+<table><thead>
+  <tr>
+    <th>Visitor</th>
+    <th>Cookie</th>
+    <th>Email provided</th>
+    <th>Expected behavior</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Anonymous</td>
+    <td>abc</td>
+    <td>Does not exists in Database</td>
+    <td>Create a new person</td>
+  </tr>
+  <tr>
+    <td>Anonymous</td>
+    <td>abc</td>
+    <td>Exists in Database</td>
+    <td>Merge person</td>
+  </tr>
+  <tr>
+    <td>Anonymous</td>
+    <td>xyz</td>
+    <td>Exists in Database</td>
+    <td>Merge person</td>
+  </tr>
+  <tr>
+    <td>Known person</td>
+    <td>abc</td>
+    <td>Same as existing person</td>
+    <td>Update person</td>
+  </tr>
+  <tr>
+    <td>Known person</td>
+    <td>abc</td>
+    <td>Different from existing person</td>
+    <td>If already a known person exists then transfer the cookie and resolve that profile. If no person exists with this email, create a new person record and transfer the cookie</td>
+  </tr>
+  <tr>
+    <td>Known person</td>
+    <td>xyz</td>
+    <td>Same as existing person</td>
+    <td>Add new cookie to the same person</td>
+  </tr>
+  <tr>
+    <td>Known person</td>
+    <td>xyz</td>
+    <td>Different from existing person</td>
+    <td>this scenario not possible as if it's a new cookie by   default considered as new anonymous profile</td>
+  </tr>
+</tbody></table>
+
+### Optimized conversation flow load time {#optimized-conversation-flow-load-time}
+ 
+To improve the user experience, a shimmer loader is now displayed instead of a blank space while the Conversational Flow loads.
+
+**Before**
+
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
+
+**After**
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
+
+### Option to inherit font {#option-to-inherit-font}
+ 
+You can now enable the chatbot to directly inherit the font from the web page where it's being hosted rather than managing the brand font in Dynamic Chat. When you enable this option, the chatbot will take the font that is defined on `<body>` tag of the page.
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+
+### Demandbase integration with Dynamic Chat {#demandbase-integration-with-dynamic-chat}
+ 
+Demandbase users are able to bring their own license of Demandbase and activate the integration. Use Demandbase person attributes for dialogue targeting, conditional branding, and custom routing.
+
+Resolution of these attribute values against a person would be done in realtime and are stored in the respective person profile.
+
 ## August 2024 Release {#august-release}
 
 **Release date: August 23, 2024**

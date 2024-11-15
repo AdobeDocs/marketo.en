@@ -76,6 +76,8 @@ As a Marketo Product Admin, you're encouraged to ensure all users are prepared f
 
 * Check [email verification](/help/marketo/product-docs/administration/users-and-roles/email-verification.md){target="_blank"} status for all users in the Marketo Admin area. Encourage users who have not verified their email address to do so, and help users resolve any challenges in completing the verification process.
 
+* Search your email inbox for "locked out" user notifications. Advise users who have been locked out to reset their password to reestablish access to Marketo Engage prior to migration day.
+
 * Prepare all users for the upcoming migration to Adobe Identity.
 
 >[!NOTE]
@@ -84,7 +86,7 @@ As a Marketo Product Admin, you're encouraged to ensure all users are prepared f
 
 >[!IMPORTANT]
 >
->If a Marketo Engage user does not verify their email address, they won't be migrated to an Adobe ID and will lose access to the Marketo subscription after the migration for the subscription is complete. To regain access, a Marketo product admin would need to add them as a new user.
+>If a Marketo Engage user does not verify their email address, or is locked out at the time of user migration, they won't be migrated to an Adobe ID and will lose access to the Marketo subscription after the migration for the subscription is complete. To regain access, a Marketo product admin would need to add them as a new user.
 
 ### What to Expect on Migration Day {#what-to-expect-on-migration-day}
 
