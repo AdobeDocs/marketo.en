@@ -14,15 +14,15 @@ The standard Release Notes page for Marketo Engage [can be found here](/help/mar
 
 ### Enhanced live chat analytics {#enhanced-live-chat-analytics}
 
-Several enhancements have been made to the Analytics Dashboard, including: 
+Several enhancements have been made to the Analytics Dashboard, including:
 
-* Total Requested Live Chat Count: number of visitors requested for a "chat with agent" 
+* Total Requested Live Chat Count: number of visitors requested for a "chat with agent"
 
-* Total Connected Live Chat: number of visitors connected vs. total requested for a "chat with agent" 
+* Total Connected Live Chat: number of visitors connected vs. total requested for a "chat with agent"
 
-* Total Missed Live Chat Requests: number of visitors unattended vs. total requested for a "chat with agent" 
+* Total Missed Live Chat Requests: number of visitors unattended vs. total requested for a "chat with agent"
 
-* Average Chat Length in Minutes: analyze "average chat length" between visitors and your agents 
+* Average Chat Length in Minutes: analyze "average chat length" between visitors and your agents
 
 * Average Agent Response Time in Seconds: analyze "average time taken" by agents to respond their live chat Q&A 
 
@@ -32,10 +32,10 @@ Several enhancements have been made to the Analytics Dashboard, including:
 
 ### Conversation scoring {#conversation-scoring}
 
-Quantify your leads based on the quality of their chat interaction and use that metric as a Trigger/Filter in Marketo Engage Smart Campaigns. Use the new attribute _conversation score_ on the following activities: 
+Quantify your leads based on the quality of their chat interaction and use that metric as a Trigger/Filter in Marketo Engage Smart Campaigns. Use the new attribute _conversation score_ on the following activities:
 
-* Engaged with a dialogue  
-* Engaged with a conversation flow 
+* Engaged with a dialogue
+* Engaged with a conversation flow
 * Engaged with an agent
 
 **Things to note:**
@@ -46,9 +46,9 @@ Quantify your leads based on the quality of their chat interaction and use that 
 
 * Setting a score:
 
-  * In the agent inbox - during a live chat, the agent is able to update or set a score for the conversation, which is stored in the conversation activity 
+  * In the agent inbox - during a live chat, the agent is able to update or set a score for the conversation, which is stored in the conversation activity
 
-  * In the stream designer - in the goal card, the user is able to update or set a score for the conversation  
+  * In the stream designer - in the goal card, the user is able to update or set a score for the conversation
 
 ![](assets/dynamic-chat-sep-oct-2024-release-2.png)
 
@@ -58,9 +58,9 @@ Quantify your leads based on the quality of their chat interaction and use that 
 
 ### New lead creation logic {#new-lead-creation-logic}
  
-If a lead fills out a form with the email `abc@test.com` and is cookied as xyz, then later fills out the same form with the email `def@test.com`, a new person record gets created, but cookie xyz becomes associated with new the person and removed from person `abc@test.com`. 
+If a lead fills out a form with the email `abc@test.com` and is cookied as xyz, then later fills out the same form with the email `def@test.com`, a new person record gets created, but cookie xyz becomes associated with new the person and removed from person `abc@test.com`.
 
-So, when a visitor with cookie abc lands on a page and provides an email ID as `abc@test.com`: 
+So, when a visitor with cookie abc lands on a page and provides an email ID as `abc@test.com`:
 
 <table><thead>
   <tr>
