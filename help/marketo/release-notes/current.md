@@ -84,6 +84,8 @@ The following features fall under the standard release cycle and will start to b
 
 ## Announcements {#announcements}
 
+* **Bulk Extract API Update**: We fixed an issue in the Bulk Extract API involving the columnHeaderNames option, which lets you specify custom column header names in the exported file. Previously, column header names containing non-ASCII characters could become corrupted.
+
 * **Rest API access_token Parameter Deprecation**: The 'access_token' query parameter used to authenticate Marketo REST API calls is being deprecated and will not be available after June 30, 2025. All new and existing integrations should authenticate REST API calls using the 'Authorization' header [as described here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 
