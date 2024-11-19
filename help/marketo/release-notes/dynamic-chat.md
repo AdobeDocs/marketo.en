@@ -114,29 +114,29 @@ So, when a visitor with cookie abc lands on a page and provides an email ID as `
   </tr>
 </tbody></table>
 
-### Optimized conversation flow load time {#optimized-conversation-flow-load-time}
- 
-To improve the user experience, a shimmer loader is now displayed instead of a blank space while the Conversational Flow loads.
-
-**Before**
-
-![](assets/dynamic-chat-sep-oct-2024-release-5.png)
-
-**After**
-
-![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
-
 ### Option to inherit font {#option-to-inherit-font}
  
 You can now enable the chatbot to directly inherit the font from the web page where it's being hosted rather than managing the brand font in Dynamic Chat. When you enable this option, the chatbot will take the font that is defined on `<body>` tag of the page.
 
-![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
 ### Demandbase integration with Dynamic Chat {#demandbase-integration-with-dynamic-chat}
  
 Demandbase users are able to bring their own license of Demandbase and activate the integration. Use Demandbase person attributes for dialogue targeting, conditional branding, and custom routing.
 
 Resolution of these attribute values against a person would be done in realtime and are stored in the respective person profile.
+
+### Optimized conversation flow load time {#optimized-conversation-flow-load-time}
+ 
+To improve the user experience, a shimmer loader is now displayed instead of a blank space while the Conversational Flow loads.
+
+**Before**
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.png)
+
+**After**
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.gif)
 
 ## August 2024 Release {#august-release}
 
