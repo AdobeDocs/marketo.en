@@ -13,11 +13,11 @@ If you've run a Smart List and a few minutes have passed, the results could be d
 
 1. To update data in the **[!UICONTROL People]** tab of a Smart List, click the refresh icon.
 
-   ![](assets/refreshbutton.png)
+   ![](assets/refresh-a-list-or-smart-list-1.png)
 
 1. The Smart List reruns and show you a more up-to-date result set.
 
-   ![](assets/loadingrefresh.png)
+   ![](assets/refresh-a-list-or-smart-list-2.png)
 
 >[!TIP]
 >
