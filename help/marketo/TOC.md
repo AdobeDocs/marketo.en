@@ -723,6 +723,7 @@ feature-set: Marketo Engage
         + [Create an Interactive Webinar](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
         + [Add a Webinar Team](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
         + [Designing Interactive Webinars](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+        + [Testing an Interactive Webinar](product-docs/demand-generation/events/interactive-webinars/testing-an-interactive-webinar.md)
         + [Deliver an Interactive Webinar](product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md)
         + [Templates](product-docs/demand-generation/events/interactive-webinars/templates.md)
         + [Customization](product-docs/demand-generation/events/interactive-webinars/customization.md)

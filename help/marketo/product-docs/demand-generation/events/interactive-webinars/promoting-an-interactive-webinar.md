@@ -6,11 +6,11 @@ exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
 ---
 # Promoting an Interactive Webinar {#promoting-an-interactive-webinar}
 
-Promoting an Interactive Webinar is similar to promoting a partner webinar via Launchpoint. When creating an Interactive Webinar event program you can add members to a program either by running a campaign or importing members to the program. To check the members that have been added to the Interactive Webinars Event Program, click on the Members tab.
+Promoting an Interactive Webinar is similar to promoting a partner webinar via Launchpoint. When creating an Interactive Webinar event program, you can add members either by running a campaign or importing members to the program. To check the members that have been added to the Interactive Webinars Event Program, click the **Members** tab.
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
-After the members have been added or imported into the program, you can create an email campaign inside the Interactive Webinar Event Program to send an invitation to all the program members, and change their status as "invited" once the email has been delivered.
+After the members have been added or imported, you can create an email campaign inside the Interactive Webinar Event Program to send an invitation to all the program members, and change their status to "invited" once the email has been delivered.
 
 >[!NOTE]
 >
