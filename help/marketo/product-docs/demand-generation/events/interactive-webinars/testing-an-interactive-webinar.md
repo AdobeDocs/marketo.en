@@ -4,6 +4,7 @@ title: Testing an Interactive Webinar
 hide: yes
 hidefromtoc: yes
 feature: Interactive Webinars
+exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
 ---
 # Testing an Interactive Webinar {#testing-an-interactive-webinar}
 
