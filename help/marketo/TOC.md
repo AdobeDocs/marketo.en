@@ -678,6 +678,7 @@ feature-set: Marketo Engage
       + Integrations {#integrations}
         + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md)
         + [Adobe PDF Embed API](product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md)
+        + [Demandbase](product-docs/demand-generation/dynamic-chat/integrations/demandbase.md)
       + Live Chat {#live-chat}
         + [Live Chat Overview](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
         + [Agent Inbox](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
