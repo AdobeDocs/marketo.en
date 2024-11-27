@@ -26,7 +26,7 @@ In this example, let's say you want to find people in California _and_ with a sc
 
 1. Select **[!UICONTROL Use Advanced filters]** from the drop-down.
 
-   ![](assets/one.png)
+   ![](assets/using-advanced-smart-list-rule-logic-1.png)
 
    >[!NOTE]
    >
@@ -34,11 +34,11 @@ In this example, let's say you want to find people in California _and_ with a sc
 
 1. The **[!UICONTROL Advanced filters]** text box will display "and" as the default value between all your filters.
 
-   ![](assets/two-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-2.png)
 
 1. Type a pair of parentheses around "2 and 3."
 
-   ![](assets/three-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-3.png)
 
    >[!CAUTION]
    >
@@ -46,19 +46,19 @@ In this example, let's say you want to find people in California _and_ with a sc
 
 1. Change the "and" between "2 and 3" to "or."
 
-   ![](assets/four-1.png)
+   ![](assets/using-advanced-smart-list-rule-logic-4.png)
 
 ## Use Parentheses When Mixing "And" and "Or {#use-parentheses-when-mixing-and-and-or}
 
 Mixing "and" and "or" logic requires parentheses to make your intention clear.
 
-![](assets/advancedfilters-parent.png)
+![](assets/using-advanced-smart-list-rule-logic-5.png)
 
 ## Use Nested Parentheses for Four or More Filters if Needed {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 Depending on your intention, you may need to add nested parentheses when using four or more filters.
 
-![](assets/advancedfilters-nested.png)
+![](assets/using-advanced-smart-list-rule-logic-6.png)
 
 >[!TIP]
 >

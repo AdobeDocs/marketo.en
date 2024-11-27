@@ -15,14 +15,12 @@ There are many ways to get a person into Marketo Engage. If you need to create o
 
 1. Go to the **[!UICONTROL Database]**.
 
-   ![](assets/db-1.png)
+   ![](assets/create-a-person-manually-1.png)
 
 1. Under **[!UICONTROL New]**, click **[!UICONTROL New Person]**.
 
-   ![](assets/two-2.png)
+   ![](assets/create-a-person-manually-2.png)
 
 1. Enter the person's information, then click **[!UICONTROL Create]**.
 
-   ![](assets/three-2.png)
-
-This is a quick and easy way to add a single person in Marketo!
+   ![](assets/create-a-person-manually-3.png)

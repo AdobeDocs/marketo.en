@@ -11,15 +11,15 @@ Marketo Engage has some very useful built-in Smart Lists. Let's check them out!
 
 1. Go to the **[!UICONTROL Database]**.
 
-   ![](assets/db.png)
+   ![](assets/use-built-in-system-smart-lists-1.png)
 
 1. Open the **[!UICONTROL System Smart Lists]** folder to reveal the collection.
 
-   ![](assets/two.png)
+   ![](assets/use-built-in-system-smart-lists-2.png)
 
 1. To see one example: Select **[!UICONTROL All People]**, then click the **[!UICONTROL People]** tab.
 
-   ![](assets/three.png)
+   ![](assets/use-built-in-system-smart-lists-3.png)
 
    >[!NOTE]
    >
@@ -27,14 +27,38 @@ Marketo Engage has some very useful built-in Smart Lists. Let's check them out!
 
 Here's a summary of what the built-in Smart Lists do:
 
-   | List Name |Description |
-   |---|---|
-   | All People |All people in your Marketo database |
-   | Unsubscribed People |These people can only be sent operational emails; this is usually controlled by the person themselves. |
-   | Marketing Suspended |These people can only be sent operational emails; this is usually controlled by you, the marketer. |
-   | Blocklist |These people will not receive any email at all. |
-   | Bounced Email Addresses |People with an undeliverable email address or that reject your email. |
-   | Possible Duplicates |People that might be duplicated in the Marketo database. |
+<table><thead>
+  <tr>
+    <th>List Name</th>
+    <th>Description</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>All People</td>
+    <td>All people in your Marketo database</td>
+  </tr>
+  <tr>
+    <td>Unsubscribed People</td>
+    <td>These people can only be sent operational emails; this is usually controlled by the person themselves.</td>
+  </tr>
+  <tr>
+    <td>Marketing Suspended</td>
+    <td>These people can only be sent operational emails; this is usually controlled by you, the marketer.</td>
+  </tr>
+  <tr>
+    <td>Blocklist</td>
+    <td>These people will not receive any email at all.</td>
+  </tr>
+  <tr>
+    <td>Bounced Email Addresses</td>
+    <td>People with an undeliverable email address or that reject your email.</td>
+  </tr>
+  <tr>
+    <td>Possible Duplicates</td>
+    <td>People that might be duplicated in the Marketo database.</td>
+  </tr>
+</tbody>
+</table>
 
 >[!NOTE]
 >
