@@ -42,6 +42,7 @@ Your new Marketo Engage subscriptions are onboarded to [Adobe Identity Managemen
   <tr>
     <td>Users</td>
     <td><li>Create a policy on when to <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">create a user</a>.</li> <li>Create a policy on when to remove users.</li>
+    <p><img src="assets/note-icon.png" alt="note icon"> NOTE: You must be a System Admin to remove users.
     <li>Determine who should have <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe System Admin and Marketo Engage Product Admin permissions.</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">Add users</a> to the desired Product Profile.</li>
     <li>Create one API user for each API use case.</li></td>
   </tr>

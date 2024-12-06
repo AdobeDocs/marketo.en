@@ -52,6 +52,10 @@ The user will then receive an email to sign in to Marketo Engage.
 
 ## Remove a User {#remove-a-user}
 
+>[!NOTE]
+>
+>You must be a System Admin to remove a user.
+
 1. Log in to the [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-user-9.png)
