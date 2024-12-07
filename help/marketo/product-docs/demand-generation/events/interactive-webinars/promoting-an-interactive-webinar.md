@@ -38,7 +38,7 @@ Interactive Webinars allows you to solicit registration before, during, or after
 
 ## Interactive Webinars Tokens {#interactive-webinars-tokens}
 
-Use tokens to promote Interactive Webinars in emails and Landing Pages without having to manually add the webinar details. This improves overall efficiency as any changes made to the webinar metadata (such as webinar title, start date, etc.) will automatically reflect in your assets.
+Use tokens to promote Interactive Webinars in emails and Landing Pages without having to manually add webinar details. This improves overall efficiency as any changes made to the webinar metadata (such as webinar title, start date, etc.) will automatically reflect in your assets.
 
 ![](assets/promoting-an-interactive-webinar-3.png)
 
