@@ -50,11 +50,11 @@ If you ever need to revert to default system "[!UICONTROL View as Web Page]", co
 
 **[!UICONTROL View as Web Page HTML]**:
 
-`<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>`
+`<div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div>`
 
 **[!UICONTROL View as Web Page Text]**:
 
 To view this email as a web page, go to the following address:
-`<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>`
+`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
 
 That's it!
