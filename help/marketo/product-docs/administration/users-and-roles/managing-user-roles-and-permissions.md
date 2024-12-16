@@ -97,7 +97,7 @@ If you need to change the permissions that are associated with an existing role,
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. Change the **[!UICONTROL Role Name]** and **[!UICONTROL Description]** if necessary, and then change the selection of associated **[!UICONTROL Permissions]**.
+1. Change the **[!UICONTROL Role Name]** and **[!UICONTROL Description]** if necessary, change the selection of associated **[!UICONTROL Permissions]**, and click **[!UICONTROL Save]** when done.
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 

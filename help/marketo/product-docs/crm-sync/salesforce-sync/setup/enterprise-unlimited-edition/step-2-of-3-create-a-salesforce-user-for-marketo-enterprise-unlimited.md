@@ -118,20 +118,20 @@ In this article, you will set up user permissions in Salesforce profile, and cre
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1" rowspan="1"><p>Object</p></th> 
-   <th colspan="1" rowspan="1"><p>Fields</p></th> 
+   <th>Object</th> 
+   <th>Fields</th> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Account</p></td> 
-   <td colspan="1" rowspan="1"><p>Type field</p></td> 
+   <td>Account</td> 
+   <td>Type field</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Event</p></td> 
-   <td colspan="1" rowspan="1"><p>All fields</p></td> 
+   <td>Event</td> 
+   <td>All fields</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Task</p></td> 
-   <td colspan="1" rowspan="1"><p>All fields</p></td> 
+   <td>Task</td> 
+   <td>All fields</td> 
   </tr> 
  </tbody> 
 </table>
