@@ -11,7 +11,9 @@ The Database Dashboard serves as a snapshot to help you quickly determine key at
 
 >[!NOTE]
 >
->Each workspace has its own Database Dashboard.
+>* The Database Dashboard is automatically updated every 24-32 hours. You can perform a manual update at any time by clicking the "last updated" text on the right side of the screen.
+>
+>* Each workspace has its own Database Dashboard.
 
 To get there, select **[!UICONTROL Database]** from your My Marketo.
 
