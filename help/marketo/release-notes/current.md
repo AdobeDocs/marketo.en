@@ -35,23 +35,21 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
    <td>&nbsp;</td>
   </tr>
-  </tr>
   <tr> 
    <td><strong>Unregister Registrants from an Event in Interactive Webinars</strong>: Now if you don't want a registrant in your webinar for any reason, you can unregister them. The workflow removes the registrant from both the Marketo Event Program as well as Adobe Connect.</td> 
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
   <tr> 
-  <tr> 
    <td>&nbsp;</td> 
    <td>&nbsp;</td>
    <td>&nbsp;</td>
+  </tr>
   <tr> 
    <td><strong>Disable Campaigns on Archive</strong>: Disable active trigger campaigns and cancel any scheduled batch runs of campaigns in a folder when it's archived. Since there is an additional permissions check for archiving folders that contain active campaigns (Activate Trigger Campaign and Schedule Batch Campaign), this feature becomes disabled by default with this release and can be enabled by navigating to <b>Admin</b> > <b>Treasure Chest</b> in your Marketo Engage subscription.</td> 
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
-  <tr> 
  </tbody> 
 </table>
 <br/> 
