@@ -4,9 +4,9 @@ title: Current Release Notes
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 ---
-# Release Notes: October 2024 {#release-notes-oct-24}
+# Release Notes: January 2025 {#release-notes-jan-25}
 
-Below you'll find all the features included in the October '24 release. Check your Adobe Marketo Engage edition for feature availability.
+Below you'll find all the features included in the January '25 release. Check your Adobe Marketo Engage edition for feature availability.
 
 The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -16,7 +16,7 @@ The Release Notes specifically for Adobe Dynamic Chat [can be found here](/help/
 
 ## Standard Release Cycle Features {#standard-release-cycle-features}
 
-The following features fall under the standard release cycle and will start to be released on **October 4, 2024**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
+The following features fall under the standard release cycle and will start to be released on **January 17, 2025**, with a phased rollout of remaining features over the subsequent weeks. Release features and dates are subject to change. Please check next to each feature for its status.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -26,9 +26,9 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documention</th>
   </tr>
     <tr> 
-   <td><strong>Tokenization for Interactive Webinars</strong>: You're now able to use tokens to promote Interactive Webinars in emails and Landing Pages without having to manually add the webinar details.</td> 
-   <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">Promoting an Interactive Webinar</a></td>
+   <td><strong>New Email Designer</strong>: Create modern and efficient emails using the new native Email Designer in Marketo Engage. Access one of the pre-designed out-of-the-box email templates, or easily create your own. Use dynamic content and access images from Adobe Experience Manager cloud services.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
@@ -36,63 +36,30 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   </tr>
-   <tr> 
-   <td><strong>Smart List "Set to Affect" Count</strong>: See how many people will be affected when editing the qualification rules of a Smart Campaign.</td> 
-   <td>Shipped</td>
-   <td>n/a</td>
+  <tr> 
+   <td><strong>Unregister Registrants from an Event in Interactive Webinars</strong>: Now if you don't want a registrant in your webinar for any reason, you can unregister them. The workflow removes the registrant from both the Marketo Event Program as well as Adobe Connect.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
   </tr>
+  <tr> 
   <tr> 
    <td>&nbsp;</td> 
    <td>&nbsp;</td>
    <td>&nbsp;</td>
-  </tr>
-  </tr>
-   <tr> 
-   <td><strong>My Account button in navigation rail</strong>: For those who have migrated to Adobe Identity Management System, a new "My Account" button in the left navigation rail allows configuring your time zone and accessing subscription details.</td> 
-   <td>Shipped</td>
-   <td>n/a</td>
+  <tr> 
+   <td><strong>Disable Campaigns on Archive</strong>: Disable active trigger campaigns and cancel any scheduled batch runs of campaigns in a folder when it's archived. Since there is an additional permissions check for archiving folders that contain active campaigns (Activate Trigger Campaign and Schedule Batch Campaign), this feature becomes disabled by default with this release and can be enabled by navigating to <b>Admin</b> > <b>Treasure Chest</b> in your Marketo Engage subscription.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
   </tr>
   <tr> 
-   <td>&nbsp;</td> 
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-   <tr> 
-   <td><strong>Email Performance Report Enhancements</strong>: Multiple improvements have been made to email reporting metrics and activity tracking, offering additional insights and improving accuracy.
-   <ul>
-   <li>Filter deleted and merged people from email performance metrics</li>
-   <li>Emails now classified as <i>aborted</i> after waiting three days for response activity</li>
-   <li>Email opens count as unique open separately for each Smart Campaign</li>
-   </td> 
-   <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Email Performance Report</a></td>
-  </tr>
-  <tr> 
-   <td>&nbsp;</td> 
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-   <tr> 
-   <td><strong>Salesforce Sync Backlog Metrics</strong>: Monitor sync throughput and backlog trends in order to plan and schedule CRM updates for an optimum sync experience.
-   </td> 
-   <td>Shipped</td>
-   <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Salesforce Sync Backlog Metrics</a></td>
-  </tr>
  </tbody> 
 </table>
 <br/> 
 
 ## Announcements {#announcements}
 
-* **Bulk Extract API Update**: We fixed an issue in the Bulk Extract API involving the columnHeaderNames option, which lets you specify custom column header names in the exported file. Previously, column header names containing non-ASCII characters could become corrupted.
+* **Get Program Members API Update**: We have enhanced the [Get Program Members](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} API to support the ability to retrieve program members' identifier. This is done by adding id to the list of fields specified in the fields parameter of the API request.
 
-* **Rest API access_token Parameter Deprecation**: The 'access_token' query parameter used to authenticate Marketo REST API calls is being deprecated and will not be available after June 30, 2025. All new and existing integrations should authenticate REST API calls using the 'Authorization' header [as described here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+* **Rest API 'access_token' Parameter Deprecation**: The `access_token` query parameter used to authenticate Marketo REST API calls is being deprecated and will not be available after June 30, 2025. All new and existing integrations should authenticate REST API calls using the 'Authorization' header, [as described here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-
-* **QR Code Deprecation**: On October 4, 2024, the QR code feature used in push notifications and in-app messaging assets will be deprecated. This includes using QR codes for a new test device, as well as creating new assets with QR codes. Deprecating features with lower usage allows us to reallocate their resources to the overall maintenance of Marketo Engage.
-
-* **Munchkin Changes**
-
-  * **New Version**: On September 17, 2024, [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 will begin rolling out to Marketo Engage instances that have the "Munchkin Beta" setting enabled in **Admin** > **Treasure Chest**. It's scheduled to begin rollout to all other instances on October 29. This version updates Munchkin cookie creation. There are no changes in functionality.
-
-  * **Characters from URL Removed**: 'Visits Web Page' and 'Clicks Link' activities created by Munchkin JS will now remove non-URL encoded control characters from all URL fields. This change is designed to prevent errors related to propagation of those types of characters into systems that don't support them, and don't have a valid use within Marketo Engage.
+* **SOAP API Deprecation**: Support for the Marketo SOAP API will end on Oct 31, 2025. Services which use SOAP API capabilities should be migrated to the [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
