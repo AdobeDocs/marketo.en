@@ -9,7 +9,7 @@ feature: Salesforce Integration
 
 >[!PREREQUISITES]
 >
->You must have access to Salesforce API's to sync between Marketo Engage and Salesforce.
+>You must have access to Salesforce APIs to sync between Marketo Engage and Salesforce.
 
 Marketo uses a set of fields to capture certain kinds of marketing related information. If you would like this data in Salesforce, please follow the instructions below.
 

@@ -130,7 +130,7 @@ No, there are no impacts to these configurations.
 
 **How can I prevent sessions from timing out?**
  
-In [Advanced Settings](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings), you can customize the desired maximum session life (System Admin permissions required). It's recommended to establish this setting after product migration, but before user migration. 
+In [Advanced Settings](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, you can customize the desired maximum session life (System Admin permissions required). It's recommended to establish this setting after product migration, but before user migration. 
 
 **I now have to navigate into Experience Cloud to access Marketo Engage. Is there a way to streamline this flow?**
 

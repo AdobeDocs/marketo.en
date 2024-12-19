@@ -152,7 +152,7 @@ In this article, you will set up user permissions in Salesforce profile, and cre
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 
-Step 2 of 2 is completed.
+Step 2 of 3 is completed.
 
 >[!NOTE]
 >
