@@ -128,6 +128,10 @@ When subscriptions are onboarded to Adobe Identity, Single Sign On (SSO) is set 
 
 No, there are no impacts to these configurations.
 
+**How can I prevent sessions from timing out?**
+ 
+In [Advanced Settings](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings), you can customize the desired maximum session life (System Admin permissions required). It's recommended to establish this setting after product migration, but before user migration. 
+
 **I now have to navigate into Experience Cloud to access Marketo Engage. Is there a way to streamline this flow?**
 
 Yes. You can create a browser bookmark of the link that launches after clicking the **Launch** button on the Marketo Engage instance entrance page to bypass that page going forward.
