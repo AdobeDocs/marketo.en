@@ -37,7 +37,8 @@ View and make changes to settings in the My Account section of Admin.
 * Access CRM - Gives users access to the CRM, such as [!DNL Salesforce] or [!DNL Microsoft Dynamics], in Admin
 * Access [[!DNL Data.com]](https://data.com) - Gives users access to the Data.com flow action
 * Access Email Admin - Gives users access to Email Admin, to change default settings, such as unsubscribe and branding domains
-* Access Event Partners - Gives users access to LaunchPoint in Admin 
+* Access Event Partners - Gives users access to LaunchPoint in Admin
+* Access Experience Cloud Audience Sharing - Gives users access to sync an audience From Adobe Experience Cloud to Marketo Engage
 * Access Field Management - Gives users access to Field Management in Admin
 * Access File Upload - Gives users the ability to upload images and files to the Design Studio  
 * Access Landing Pages - Gives users access to Landing Pages in Admin  
