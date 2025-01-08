@@ -2,10 +2,11 @@
 description: Promoting an Interactive Webinar - Marketo Docs - Product Documentation
 title: Promoting an Interactive Webinar
 feature: Interactive Webinars
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
 ---
 # Promoting an Interactive Webinar {#promoting-an-interactive-webinar}
 
-Promoting an Interactive Webinar is similar to promoting a partner webinar via Launchpoint. When creating an Interactive Webinar event program, you can add members either by running a campaign or importing members to the program. To check the members that have been added to the Interactive Webinars Event Program, click the **[!UICONTROL Members]** tab.
+Promoting an Interactive Webinar is similar to promoting a partner webinar via Launchpoint. When creating an Interactive Webinar event program, you can add members either by running a campaign or importing members to the program. To check the members that have been added to the Interactive Webinars Event Program, click the **Members** tab.
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
@@ -43,50 +44,13 @@ Use tokens to promote Interactive Webinars in emails and Landing Pages without h
 
 **List of tokens**
 
-<table><thead>
-  <tr>
-    <th>Token</th>
-    <th>Definition</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>program.webinarCapacity</td>
-    <td>The maximum number of attendees that can participate in the Interactive Webinar.</td>
-  </tr>
-  <tr>
-    <td>program.webinarDuration</td>
-    <td>The duration for which the Interactive Webinar is scheduled.</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndDate</td>
-    <td>The end date for the scheduled Interactive Webinar.</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndTime</td>
-    <td>The scheduled end time of the Interactive Webinar.</td>
-  </tr>
-  <tr>
-    <td>program.webinarGenericURL</td>
-    <td>The generic recording URL that can be shared with the audience post-webinar. This URL is not for attending the webinar live and does not track the activity of the audience.</td>
-  </tr>
-  <tr>
-    <td>program.webinarLanguage</td>
-    <td>The language in which the webinar is to be conducted.</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartDate</td>
-    <td>The start date of the scheduled Interactive Webinar.</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartTime</td>
-    <td>The scheduled start time of the Interactive Webinar.</td>
-  </tr>
-  <tr>
-    <td>program.webinarTimezone</td>
-    <td>The time zone in which the Interactive Webinar is scheduled.</td>
-  </tr>
-  <tr>
-    <td>program.webinarTitle</td>
-    <td>The title of the Interactive Webinar that is visible to the audience on the Webinar Entry Screens.</td>
-  </tr>
-</tbody></table>
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle
