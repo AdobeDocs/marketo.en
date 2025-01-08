@@ -9,6 +9,8 @@ Promoting an Interactive Webinar is similar to promoting a partner webinar via L
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
+## Overview {#overview}
+
 After the members have been added or imported, you can create an email campaign inside the Interactive Webinar event program to send an invitation to all the program members, and change their status to "invited" once the email has been delivered.
 
 >[!NOTE]
