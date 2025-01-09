@@ -23,7 +23,7 @@ The following features fall under the standard release cycle and will start to b
   <tr> 
    <th style="width:65%">Feature</th> 
    <th style="width:10%">Status</th>
-   <th style="width:25%">Documention</th>
+   <th style="width:25%">Documentation</th>
   </tr>
     <tr> 
    <td><strong>New Email Designer</strong>: Create modern and efficient emails using the new native Email Designer in Marketo Engage. Access one of the pre-designed out-of-the-box email templates, or easily create your own. Use dynamic content and access images from Adobe Experience Manager cloud services.</td> 
