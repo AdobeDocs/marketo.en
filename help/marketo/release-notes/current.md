@@ -23,7 +23,7 @@ The following features fall under the standard release cycle and will start to b
   <tr> 
    <th style="width:65%">Feature</th> 
    <th style="width:10%">Status</th>
-   <th style="width:25%">Documention</th>
+   <th style="width:25%">Documentation</th>
   </tr>
     <tr> 
    <td><strong>New Email Designer</strong>: Create modern and efficient emails using the new native Email Designer in Marketo Engage. Access one of the pre-designed out-of-the-box email templates, or easily create your own. Use dynamic content and access images from Adobe Experience Manager cloud services.</td> 
@@ -55,6 +55,16 @@ The following features fall under the standard release cycle and will start to b
 <br/> 
 
 ## Announcements {#announcements}
+
+* **Social Features Deprecation**: On Wednesday, July 31, 2024, Marketo Engage began the deprecation of the following Social features within the product:
+
+  * Polls
+  * Social Button
+  * Referral Offer
+  * Video Share
+  * Sweepstakes
+
+As of then, users have been unable to create, clone, or embed any of those Social features in Marketo Engage. Existing Social assets continue to work through January 31, 2025. On February 1, 2025, Social assets will cease to function. Social features embedded in Landing Pages will need to be removed. [Learn more](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **Get Program Members API Update**: We have enhanced the [Get Program Members](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} API to support the ability to retrieve program members' identifier. This is done by adding id to the list of fields specified in the fields parameter of the API request.
 
