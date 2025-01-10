@@ -43,13 +43,13 @@ feature: Mobile Marketing
    >
    >There are three types of Tap Actions:
    >
-   >**Launch App** - **This App** opens the home page of your app when the notification is tapped. **Custom** uses a deep link to open other areas of your app or any other app to which you have the link (see [Deep Link URIs](#Deeplink) below for details).
+   >**Launch App** - **This App** opens the home page of your app when the notification is tapped. **Custom** uses a deep link to open other areas of your app or any other app to which you have the link (see [Deep Link URIs](#deep-link-uris) below for details).
    >
    >**Landing Page** - takes you to a specified Marketo landing page.
    >
    >**External URL** - takes you to a non-Marketo landing page.
 
-1. To insert a deep link for a custom tap action, click Custom and enter the [deep link URI](#Deeplink) in the field.
+1. To insert a deep link for a custom tap action, click Custom and enter the [deep link URI](#deep-link-uris) in the field.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
