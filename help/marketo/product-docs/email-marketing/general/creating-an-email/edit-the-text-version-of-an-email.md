@@ -33,4 +33,6 @@ When you create an email, you may want its text version to be worded differently
 
    ![](assets/five-3.png)
 
-Now you know!
+>[!CAUTION]
+>
+>Selecting **Copy from HTML**, or reselecting **Automatically copy from HTML** in emails that contain dynamic content will set the Reviewed flag to _true_ for all segments in both the HTML and Text versions of the email.
