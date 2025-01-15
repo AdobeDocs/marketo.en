@@ -19,7 +19,7 @@ Once SSO is enabled, the IdP can validate a user's credentials. When a user wish
 
 >[!IMPORTANT]
 >
->This does not apply to subscriptions onboarded to Adobe Identity. For subscriptions onboarded to Adobe Identity, Single Sign On is set up at the Adobe Org level in Adobe Admin Console. [Learn more here](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+>This does not apply to subscriptions onboarded to Adobe Identity. For subscriptions onboarded to Adobe Identity, Single Sign On is set up at the Adobe Org level in Adobe Admin Console. Adobe Admin Console only supports SP-initiated at this time. [Learn more here](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Once SSO is enabled, the IdP can validate a user's credentials. When a user wish
 
 >[!NOTE]
 >
->Marketo only supports Identity Provider-initiated (also known as IdP-initiated), in which the user first launches the Idp login page, authenticates, then navigates to My Marketo.
+>Marketo only supports Identity Provider-initiated (also known as IdP-initiated), in which the user first launches the IdP login page, authenticates, then navigates to My Marketo. If your Marketo subscription has been moved to admin console, Adobe Admin Console only supports Service Provider-initiated (also known as SP-initiated) at this time. There may be changes made in your SSO experience. 
 
 ## Additional Notes {#additional-notes}
 

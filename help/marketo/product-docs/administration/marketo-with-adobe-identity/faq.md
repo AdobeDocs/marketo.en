@@ -18,7 +18,7 @@ Adobe Identity Management System consists of three components.
 
 **When will existing Marketo Engage subscriptions be integrated with IMS?**
 
-Existing Marketo Engage subscriptions are currently being migrated to the Adobe IMS upon any sales event, which includes renewals, re-contracting events, and/or addendums. Migrations outside of a sales event are now supported as of October 2024.
+Existing Marketo Engage subscriptions are currently being migrated to the Adobe IMS upon any sales event, which includes renewals, re-contracting events, and/or addendums. Migrations outside of a sales event are supported as of October 2024.
 
 **After migration, will Marketo Engage URLs remain the same?**
 
@@ -28,7 +28,11 @@ No. URLs will look different after migration.
 
 Yes. After migration, Marketo Engage will go from being served from experience.adobe.com to Adobe Experience Cloud. You'll need to work with your IT team to allowlist all Adobe domains listed [at the top of this article](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} to prevent disruption to Marketo Engage access.
 
-Previous links and bookmarks to Marketo Engage assets on the engage-xx.marketo.com domain _will_ continue to function. However, you must first log in to the Marketo Engage instance for the URL you are navigating to. For example, to navigate to a bookmark for a Smart Campaign in instance with Munchkin ID 123-ABC-456, you need to first log in to the Marketo Engage instance with Munchkin ID 123-ABC-456. 
+Previous links and bookmarks to Marketo Engage assets on the engage-xx.marketo.com domain _will_ continue to function. However, you must first log in to the Marketo Engage instance for the URL you are navigating to. For example, to navigate to a bookmark for a Smart Campaign in instance with Munchkin ID 123-ABC-456, you need to first log in to the Marketo Engage instance with Munchkin ID 123-ABC-456.
+
+**Does this work with SSO?**
+
+Yes. The integration with Adobe IMS supports Universal ID users and SSO. SSO is now driven by Adobe IMS and is set up at the organization level in the Adobe Admin Console. However, there are differences in the Marketo Engage IdP-initiated support compared to Adobe's SP-initiated support ([learn more here](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}). If you need help regarding SSO differences after being migrated to Admin Console, please contact [Adobe Customer Care](https://helpx.adobe.com/contact.html){target="_blank"}.
 
 **What's the difference between an Adobe Product Admin and a Marketo Engage Admin?**
 
@@ -130,7 +134,7 @@ No, there are no impacts to these configurations.
 
 **How can I prevent sessions from timing out?**
  
-In [Advanced Settings](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, you can customize the desired maximum session life (System Admin permissions required). It's recommended to establish this setting after product migration, but before user migration. 
+In [Advanced Settings](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, you can customize the desired maximum session life (System Admin permissions required). It's recommended to establish this setting after product migration, but before user migration.
 
 **I now have to navigate into Experience Cloud to access Marketo Engage. Is there a way to streamline this flow?**
 
