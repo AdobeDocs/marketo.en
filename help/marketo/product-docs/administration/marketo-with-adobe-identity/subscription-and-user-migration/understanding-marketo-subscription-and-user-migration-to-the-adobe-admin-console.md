@@ -80,10 +80,6 @@ As a Marketo Product Admin, you're encouraged to ensure all users are prepared f
 
 * Prepare all users for the upcoming migration to Adobe Identity.
 
->[!NOTE]
->
->As users migrate, they will receive an email from Adobe notifying them of the change to the way they log in to Marketo. Users will be invited to accept an invitation to sign in using Adobe Identity for the first time, either by signing in with an existing Adobe ID or by setting up a new one using the same email address.
-
 >[!IMPORTANT]
 >
 >If a Marketo Engage user does not verify their email address, or is locked out at the time of user migration, they won't be migrated to an Adobe ID and will lose access to the Marketo subscription after the migration for the subscription is complete. To regain access, a Marketo product admin would need to add them as a new user.
@@ -102,7 +98,7 @@ All Marketo subscriptions with a U.S. timezone will be migrated starting at midn
 >
 >There will be no loss of access to the product during user migration. If a user is logged in during the time their user is being migrated, the user will be logged out and be prompted to log back in within minutes using Adobe Identity after the migration is complete. The user must accept the invitation by clicking the link in the entitlement email sent at the end of a successful user migration.
 
-As users are migrated, they will receive an email from Adobe notifying them of the change to the way they sign in to Marketo. Users **must** accept an invitation to sign in using Adobe Identity for the first time, either by signing in with an existing Adobe ID or by setting up a new Adobe ID using the same email address
+As users are migrated, they will receive an email from Adobe notifying them of the change to the way they sign in to Marketo. Users **must** accept an invitation to sign in using Adobe Identity for the first time, either by signing in with an existing Adobe ID or by setting up a new Adobe ID using the same email address.
 
 More information can be found in [Migrating to Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}, [User Sign-in with Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}, and [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
