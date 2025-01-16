@@ -14,6 +14,10 @@ For an accelerated and improved design process, you can create standalone email 
 >
 >This article is only for members of the new Marketo Engage Email Designer beta. Please do not disseminate.
 
+>[!PREREQUISITES]
+>
+>In order to access the new email designer, your Marketo Engage subscription must be migrated to the [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). If yours hasn't been yet and you'd like to request it be expedited, please contact the Adobe Account Team (your account manager), or [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+
 >[!NOTE]
 >
 >Email templates in the new email designer can only be used to create emails in the new email designer. They cannot be referenced in the old email editor.

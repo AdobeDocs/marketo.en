@@ -26,7 +26,8 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documentation</th>
   </tr>
     <tr> 
-   <td><strong>New Email Designer</strong>: Create modern and efficient emails using the new native Email Designer in Marketo Engage. Access one of the pre-designed out-of-the-box email templates, or easily create your own. Use dynamic content and access images from Adobe Experience Manager cloud services.</td> 
+   <td><strong>New Email Designer</strong>: Create modern and efficient emails using the new native Email Designer in Marketo Engage. Access one of the pre-designed out-of-the-box email templates, or easily create your own. Use dynamic content and access images from Adobe Experience Manager cloud services.
+   <p><img src="assets/note-icon.png" alt="note icon"> NOTE: In order to access the new email designer, your Marketo Engage subscription must be migrated to the <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe Identity Management System (IMS)</a>. If yours hasn't been yet and you'd like to request it be expedited, please contact the Adobe Account Team (your account manager), or <a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo Support</a>.</td> 
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>

@@ -14,6 +14,10 @@ Welcome to the new Adobe Marketo Engage Email Designer.
 >
 >This article is only for members of the new Marketo Engage Email Designer beta. Please do not disseminate.
 
+>[!PREREQUISITES]
+>
+>In order to access the new email designer, your Marketo Engage subscription must be migrated to the [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). If yours hasn't been yet and you'd like to request it be expedited, please contact the Adobe Account Team (your account manager), or [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+
 The new Email Designer is the latest innovation in Marketo Engage intended to provide a revamped email and email template creation experience to improve productivity and efficiency by providing a visual drag-and-drop editor along with standard out-of-the-box templates. Easily create customized email templates without having to spend money on vendors. 
 
 Emails created in the new designer can be used in Smart Lists and Smart Campaigns. There are many more enhancements planned for the future to make the new designer even better.
