@@ -796,6 +796,7 @@ feature-set: Marketo Engage
     + Images and Files {#images-and-files}
       + [New Add Images Doc](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
       + [Add Images and Files to Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+      + [Edit Assets with Adobe Express](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
       + [Delete an Uploaded Image or File](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
       + [Find the URL of an Uploaded Image or File](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
       + [Grab the Images from a Web Page](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
