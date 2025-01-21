@@ -42,7 +42,7 @@ The Analytics table provides the following details:
    <td colspan="1" rowspan="1">Name of the digital content asset. Click <strong>Title</strong> to open the Content URL in a new tab.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Recommendation </strong><strong>Icon</strong></p><p><strong><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Recommendation </strong><strong>Icon</strong></p><p><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
    <td colspan="1">Denotes if the the content piece has been added for <a href="#">Content Recommendations</a>.</td> 
   </tr> 
   <tr> 
@@ -54,7 +54,7 @@ The Analytics table provides the following details:
    <td colspan="1" rowspan="1">Web visitors who viewed the content and filled out a form in the same visit</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Analytics Icon</strong></p><p><strong><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Analytics Icon</strong></p><p><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
    <td colspan="1">See more analytics on the content piece</td> 
   </tr> 
   <tr> 

@@ -34,7 +34,7 @@ The following features will be released on **January 17, 2020**.
 
 ![(star)](assets/yellow-star.png)
 
-* **[New Account Discovery (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(star)](assets/yellow-star.png)**: Use Account Profiling to discover net-new target accounts for your ABM strategy based on your AI-powered ideal customer profile model. View, select, and import recommended new accounts, along with their AI-based fit and intent data indicators, that do not already exist inside your Marketo Engage lead and account database for ABM targeting. Immediately available for qualifying Account Profiling customers.
+* [New Account Discovery (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(star)](assets/yellow-star.png): Use Account Profiling to discover net-new target accounts for your ABM strategy based on your AI-powered ideal customer profile model. View, select, and import recommended new accounts, along with their AI-based fit and intent data indicators, that do not already exist inside your Marketo Engage lead and account database for ABM targeting. Immediately available for qualifying Account Profiling customers.
 
 <br>&nbsp;
 
