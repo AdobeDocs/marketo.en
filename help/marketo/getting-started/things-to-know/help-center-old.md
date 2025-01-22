@@ -11,17 +11,11 @@ The Help Center in Adobe Marketo Engage serves as a centralized location for get
 
 ## How to Access {#how-to-access}
 
-There are two different experiences, depending on if your subscription has been migrated to Adobe Identity Management System (IMS) yet.
-
-### Pre-Adobe IMS Migration {#pre-adobe-ims-integration}
-
-These steps are for Marketo Engage users who have _not_ been migrated to [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) yet.
-
-[Log in](http://login.marketo.com/) to Marketo Engage and click the Help icon.
+After you log in to Marketo Engage, click the Help icon.
 
    ![](assets/help-center-1.png)
 
-#### Guides {#guides}
+### Guides {#guides}
 
 Guides serve as quick walkthroughs for popular features.
 
@@ -47,7 +41,7 @@ Guides serve as quick walkthroughs for popular features.
    >
    >Exit the guide at any time by clicking **Dismiss**.
 
-#### What's New {#whats-new}
+### What's New {#whats-new}
 
 The What's New tab contains the full details of Marketo Engage's latest release.
 
@@ -57,20 +51,8 @@ The What's New tab contains the full details of Marketo Engage's latest release.
    >
    >Click the arrow icon at the bottom to view the page in Experience League.
 
-#### Resources {#resources}
+### Resources {#resources}
 
 The Resources tab gives you quick and direct access to various ways you can get additional help with your Marketo Engage instance.
 
    ![](assets/help-center-8.png)
-
-### Post-Adobe IMS Migration {#post-adobe-ims-integration}
-
-These steps are for Marketo Engage users who have already been migrated to [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
-
-[Log in](https://experience.adobe.com/) to Marketo Engage and click the Help icon.
-
-   ![](assets/help-center-9.png)
-
-text
-
-   ![](assets/help-center-10.png)
