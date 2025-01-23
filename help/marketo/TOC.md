@@ -1480,7 +1480,7 @@ feature-set: Marketo Engage
       + Marketo {#marketo}
         + [Grant Marketo Access to Users](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
         + [Interesting Moments in Sales Insight Actions](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
-        + [Make a Campaign Visible to Sales Connect Users](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+        + [Make a Campaign Visible to Sales Connect Users](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
         + [Sales Activity Triggers and Filters](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
         + [Sales Insight Actions Activity Glossary](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
         + [Set up Your Marketo Connection](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)

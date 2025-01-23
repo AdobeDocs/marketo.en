@@ -1,10 +1,10 @@
 ---
-description: Make a Marketing Campaign Visible in the Sales Insight Actions UI - Marketo Docs - Product Documentation
-title: Make a Marketing Campaign Visible in the Sales Insight Actions UI
+description: Make a Marketing Campaign Visible in Sales Insight Actions - Marketo Docs - Product Documentation
+title: Make a Marketing Campaign Visible in Sales Insight Actions
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
 ---
-# Make a Marketing Campaign Visible in the Sales Insight Actions UI {#make-a-marketing-campaign-visible-in-the-sales-insight-actions-ui}
+# Make a Marketing Campaign Visible in Sales Insight Actions {#make-a-marketing-campaign-visible-in-sales-insight-actions}
 
 Campaigns can only be shared if they're made visible.
 
@@ -18,7 +18,7 @@ With Sales Insight Actions, users will have access to a new sales app called tou
 
    ![](assets/make-a-marketing-campaign-visible-sia-2.png)
 
-1. Add the Campaign is Requested trigger.
+1. Add the _Campaign is Requested_ trigger.
 
    ![](assets/make-a-marketing-campaign-visible-sia-3.png)
 
@@ -34,7 +34,7 @@ With Sales Insight Actions, users will have access to a new sales app called tou
 
    ![](assets/make-a-marketing-campaign-visible-sia-5.png)
 
-1. Add the Interesting Moment flow action.
+1. Add the _Interesting Moment_ flow action.
 
    ![](assets/make-a-marketing-campaign-visible-sia-6.png)
 
@@ -42,7 +42,7 @@ With Sales Insight Actions, users will have access to a new sales app called tou
 
    ![](assets/make-a-marketing-campaign-visible-sia-7.png)
 
-1. In the Description box, write a message to your sales team. In this example we're using tokens to specify the form that was filled out.
+1. In the _Description_ box, write a message to your sales team. In this example we're using tokens to specify the form that was filled out.
 
    ![](assets/make-a-marketing-campaign-visible-sia-8.png)
 
