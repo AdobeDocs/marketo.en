@@ -28,7 +28,7 @@ With Sales Insight Actions, users will have access to a new sales app called tou
 
    >[!NOTE]
    >
-   >If you want to show the marketing campaign to users who are utilizing _Add to Marketing Campaign_ from the toutapp.com web app (this also includes if you have the web app embedded into the CRM via the Marketo Sales Outbox object), set it to "Web Service API." If you want the marketing campaign to show up when a user uses the actions on the MSI panel in Salesforce on the lead, contact, account page, or the bulk action buttons on the lead and contact list views, update it to "Sales Insight"
+   >If you want to show the marketing campaign to users who are utilizing _Add to Marketing Campaign_ from the toutapp.com web app (this also includes if you have the web app embedded into the CRM via the Marketo Sales Outbox object), set the Campaign requested source to "Web Service API." If you want the marketing campaign to show up when a user uses the actions on the MSI panel in Salesforce on the lead, contact, account page, or the bulk action buttons on the lead and contact list views, update the Campaign requested source to "Sales Insight"
 
 1. Click the **Flow** tab.
 
