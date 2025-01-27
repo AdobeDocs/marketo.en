@@ -1,13 +1,11 @@
 ---
-description: MSI for IW title goes here - Marketo Docs - Product Documentation
-title: MSI for IW title goes here
+description: Interactive Webinars in Marketo Sales Insight - Marketo Docs - Product Documentation
+title: Interactive Webinars in Marketo Sales Insight
 feature: Interactive Webinars
-hide: yes
-hidefromtoc: yes
 ---
-# msi {#msi}
+# Interactive Webinars in Marketo Sales Insight {#interactive-webinars-in-marketo-sales-insight}
 
-The CRM Sync functionality of Interactive Webinars makes your webinars' activities available in the Marketo Sales Insight (MSI) plugin in Salesforce.
+Interactive Webinars in Marketo Sales Insight makes your webinars' activities available in the Marketo Sales Insight (MSI) plugin in Salesforce.
 
 >[!PREREQUISITES]
 >
