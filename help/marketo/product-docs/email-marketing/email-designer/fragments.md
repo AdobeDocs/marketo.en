@@ -230,7 +230,7 @@ SCREENSHOT
 
 1. If you want to update the content, click **[!UICONTROL Create draft version]** at the top right.
 
-   Click **[!UICONTROL OK]** in the dialog to open the draft version in the visual designer. You can change the [image source](./assets-overview.md#choose-an-asset-source) if needed. 
+   Click **[!UICONTROL OK]** in the dialog to open the draft version in the visual designer. You can change the `image source` KG - LINK HERE if needed. 
 
 SCREENSHOT
 
