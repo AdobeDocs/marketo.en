@@ -1055,6 +1055,12 @@ feature-set: Marketo Engage
         + [Edit Availability of Stream Content](product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
         + [Prioritize Stream Content](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
         + [Remove Stream Content](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
+    + Email Designer {#email-designer}
+        + [Overview](product-docs/email-marketing/email-designer/overview.md)
+        + [Email Authoring](product-docs/email-marketing/email-designer/email-authoring.md)
+        + [Email Templates](product-docs/email-marketing/email-designer/email-templates.md)
+        + [Working with AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
+        + [Fragments](product-docs/email-marketing/email-designer/fragments.md)
     + Email Programs {#email-programs}
       + Creating an Email Program {#creating-an-email-program}
         + [Create an Email Program](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
