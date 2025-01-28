@@ -3,6 +3,7 @@ title: Work with Experience Manager Assets
 description: Learn how to use image assets from a connected AEM Assets repository when authoring content in Adobe Marketo Engage.
 hide: yes
 hidefromtoc: yes
+exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
 ---
 # Work with Experience Manager assets {#work-with-experience-manager-assets}
 

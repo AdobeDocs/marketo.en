@@ -4,6 +4,7 @@ title: Email templates
 hide: yes
 hidefromtoc: yes
 feature: Email Editor
+exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
 ---
 # Email templates {#email-templates}
 
