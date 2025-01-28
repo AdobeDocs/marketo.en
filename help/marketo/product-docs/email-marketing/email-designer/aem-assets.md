@@ -54,18 +54,18 @@ There are multiple methods for adding an image asset to the visual canvas:
 
 ![use tool in the Select Assets dialog to find and select an image asset](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
    
-   * Change the **[!UICONTROL Repository]** at the top right.
+* Change the **[!UICONTROL Repository]** at the top right.
 
-   * Click **[!UICONTROL Manage assets]** at the top right to open the Assets repository in another browser tab and use AEM Assets management tools.
+* Click **[!UICONTROL Manage assets]** at the top right to open the Assets repository in another browser tab and use AEM Assets management tools.
 
-   * Click the _View type_ selector at the top right to change the display to **[!UICONTROL List View]**, **[!UICONTROL Grid View]**, **[!UICONTROL Gallery View]**, or **[!UICONTROL Waterfall View]**.
+* Click the _View type_ selector at the top right to change the display to **[!UICONTROL List View]**, **[!UICONTROL Grid View]**, **[!UICONTROL Gallery View]**, or **[!UICONTROL Waterfall View]**.
 
-   * Click the _Sort order_ icon to change the sort order between ascending and descending.
+* Click the _Sort order_ icon to change the sort order between ascending and descending.
 
-   * Click the **[!UICONTROL Sort by]** menu arrow to change the sort criteria to **[!UICONTROL Name]**, **[!UICONTROL Size]**, or **[!UICONTROL Modified]**.
+* Click the **[!UICONTROL Sort by]** menu arrow to change the sort criteria to **[!UICONTROL Name]**, **[!UICONTROL Size]**, or **[!UICONTROL Modified]**.
 
-   * Click the _Filter_ icon on the top left to filter the displayed items according to your criteria.
+* Click the _Filter_ icon on the top left to filter the displayed items according to your criteria.
 
-   * Enter text in the Search field to filter the displayed items for a match of the asset name.
+* Enter text in the Search field to filter the displayed items for a match of the asset name.
 
 ![Use the filters and search field to locate the asset](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}

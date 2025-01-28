@@ -70,13 +70,13 @@ SCREENSHOT
 
 ### Filter the fragments list {#filter-the-fragments-list}
 
-Use the search bar to find a fragment by name. Click the _Filter_ icon ( ![Show or hide filters icon](../assets/do-not-localize/icon-filter.svg) ) to show the available filter options and choose the desired settings.
+Use the search bar to find a fragment by name. Click the _Filter_ icon ( ![Show or hide filters icon](assets/icon-filter.svg) ) to show the available filter options and choose the desired settings.
 
 SCREENSHOT
 
 ### Customize the column display {#customize-the-column-display}
 
-Customize the columns you want to display in the table by clicking the _Customize table_ icon ( ![Customize table icon](../assets/do-not-localize/icon-column-settings.svg) ) at the top right. 
+Customize the columns you want to display in the table by clicking the _Customize table_ icon ( ![Customize table icon](assets/icon-column-settings.svg) ) at the top right.
 
 In the dialog, select the desired columns and click **[!UICONTROL Apply]**.
 
