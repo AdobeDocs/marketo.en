@@ -20,13 +20,13 @@ Visual fragments are predefined visual blocks built using the visual content edi
 
 ## Access and manage fragments {#access-and-manage-fragments}
 
-To access visual fragments, go to the left navigation and click **[!UICONTROL Content Management]** > **[!UICONTROL Fragments]**. This action opens a listing page with all the fragments created in the instance listed in a table.
+To access visual fragments, go to the Design Studio. In the tree on the left, click **[!UICONTROL Fragments (New)]**.
 
 SCREENSHOT
 
-The table is sorted by the _[!UICONTROL Modified]_ column, with the most recently updated fragments at the top by default. Click the column title to change between ascending and descending.
+By default, the table is sorted by the _[!UICONTROL Modified]_ column, with the most recently updated fragments at the top. Click other column titles to change the sorting. Click again to switch between ascending and descending.
 
-### Fragment status and lifecycle
+### Fragment status {#fragment-status}
 
 The fragment status determines its availability for use in an email or email template, and the changes that you can make to it. 
 
@@ -116,17 +116,7 @@ SCREENSHOT
 
 ### Add structure and content {#add-structure-and-content}
 
->[!CONTEXTUALHELP]
->id="ajo-b2b_structure_components_fragment"
->title="Add Structure components"
->abstract="Structure components define the layout of the fragment. Drag and drop a **Structure** component into the canvas to start designing the content of your fragment."
-
->[!CONTEXTUALHELP]
->id="ajo-b2b_content_components_fragment"
->title="About Content components"
->abstract="Content components are empty content placeholders that you can use to create the layout of a fragment."
-
-{{$include /help/_includes/content-design-components.md}}
+{{$include /help/marketo/_includes/content-design-components.md}}
 
 ### Add assets
 
@@ -322,7 +312,7 @@ Fragments are designed for reuse and you can add up to 30 in an email or email t
 
 1. Navigate to **[!UICONTROL Account Journeys]** and open an existing journey or create a new journey. <--- DOUBLE-CHECK THIS
 
-----------STOPPED EDITING HERE---------
+---------STOPPED EDITING HERE---------
 
 1. Create a [_[!UICONTROL Send Email]_ node](./email-authoring.md#add-an-email-action-in-an-account-journey).
 

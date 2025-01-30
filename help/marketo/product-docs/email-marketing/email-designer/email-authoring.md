@@ -16,6 +16,12 @@ Learn how to create, personalize, and preview emails in the new Marketo Engage E
 
 ## Create an email {#create-an-email}
 
+Emails from the Email Designer can only be created in the Design Studio and referenced in Smart Campaigns/Lists, or created/used directly in Email Programs at this time.
+
+>[!BEGINTABS]
+
+>[!TAB Design Studio]
+
 1. Log in to Marketo Engage via the [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. In My Marketo, select **Design Studio**.
@@ -33,6 +39,28 @@ Learn how to create, personalize, and preview emails in the new Marketo Engage E
 1. Enter an email name and a subject line. Click **Create**.
 
    ![](assets/create-an-email-4.png)
+
+>[!TAB Email Program]
+
+1. Log in to Marketo Engage via the [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+
+1. Find and select (or create) your Email Program.
+
+   ![](assets/create-an-email-5.png)
+
+1. You have two options to create a new email. Right-click on the name of your Email Program and select **New local asset**, or click the **+New Email** button in the Email box on the dashboard. In this example, we'll do the former.
+
+   ![](assets/create-an-email-6.png)
+
+1. Select **Email (New Editor)**.
+
+   ![](assets/create-an-email-7.png)
+
+1. Enter an email name and a subject line. Click **Create**.
+
+   ![](assets/create-an-email-8.png)
+
+>[!ENDTABS]
 
 That's it. Now it's time to design your email.
 
@@ -303,7 +331,7 @@ To preview your email content, click **Simulate content**, then add a test profi
 
 ## Reference an email {#reference-an-email}
 
-After you've created an email in the new editor, you can reference it in Smart Campaigns and/or Smart Lists like you would with any other email.
+If you created your email inside an Email Program, it can only be used in that program. If you created your email in the Design Studio, it can be referenced from Smart Campaigns and/or Smart Lists like you would with any other email.
 
 * Reference it in a Smart List by [following the usual steps](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 
@@ -315,4 +343,4 @@ After you've created an email in the new editor, you can reference it in Smart C
 
 >[!MORELIKETHIS]
 >
->[Email templates](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}: Learn how to create, design, and access an email template in the new designer.
+>[Email templates](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: Learn how to create, design, and access an email template in the new designer.
