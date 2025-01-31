@@ -1,8 +1,6 @@
 ---
 description: Email authoring - Marketo Docs - Product Documentation
 title: Email authoring
-hide: yes
-hidefromtoc: yes
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
 ---
@@ -16,7 +14,7 @@ Learn how to create, personalize, and preview emails in the new Marketo Engage E
 
 ## Create an email {#create-an-email}
 
-Emails from the Email Designer can only be created in the Design Studio and referenced in Smart Campaigns/Lists, or created/used directly in Email Programs at this time.
+Emails from the email designer can only be created in the Design Studio and referenced in Smart Campaigns/Lists, or created/used directly in Email Programs at this time.
 
 >[!BEGINTABS]
 

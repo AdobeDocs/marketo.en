@@ -1,8 +1,6 @@
 ---
 description: Overview - Marketo Docs - Product Documentation
 title: Overview
-hide: yes
-hidefromtoc: yes
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
 ---
@@ -14,7 +12,7 @@ Welcome to the new Adobe Marketo Engage Email Designer.
 >
 >In order to access the new email designer, your Marketo Engage subscription must be migrated to the [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). If yours hasn't been yet and you'd like to request it be expedited, please contact the Adobe Account Team (your account manager), or [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
-The new Email Designer is the latest innovation in Marketo Engage intended to provide a revamped email and email template creation experience to improve productivity and efficiency by providing a visual drag-and-drop editor along with standard out-of-the-box templates. Easily create customized email templates without having to spend money on vendors. 
+The new email designer is the latest innovation in Marketo Engage intended to provide a revamped email and email template creation experience to improve productivity and efficiency by providing a visual drag-and-drop editor along with standard out-of-the-box templates. Easily create customized email templates without having to spend money on vendors. 
 
 Emails created in the new designer can be used in Email Programs as well as Smart Lists/Campaigns. Powerful new enhancements to the designer are coming soon.
 
@@ -49,7 +47,7 @@ templates in the designer, reducing the need for external web developers. Howeve
 
 **Does the new email designer support AMP language?**
 
-The base version does not have support for AMP at this time.
+It does not have support for AMP at this time.
 
 **The dynamic content by attribute is great, but does the dynamic content by segment still work?**
 
