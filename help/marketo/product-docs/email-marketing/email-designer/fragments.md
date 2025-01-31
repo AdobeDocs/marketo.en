@@ -22,7 +22,7 @@ Visual fragments are predefined visual blocks built (using the visual content ed
 
 To access visual fragments, go to the Design Studio. In the tree on the left, click **[!UICONTROL Fragments (New)]**.
 
-SCREENSHOT
+![Access fragments](assets/fragments-1.png){width="600" zoomable="yes"}
 
 By default, the table is sorted by the _[!UICONTROL Modified]_ column. Click other column titles to change what the table gets sorted by. Click again to switch between ascending and descending.
 
