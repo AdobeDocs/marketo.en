@@ -22,7 +22,7 @@ Emails created in the new designer can be used in Email Programs as well as Smar
 
 * [Email authoring](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Learn how to create, design, and reference an email in the new editor.
 
-* [Email templates](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: Learn how to create, design, and access an email template in the new editor.
+* [Email templates](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Learn how to create, design, and access an email template in the new editor.
 
 ## FAQ {#faq}
 
@@ -57,4 +57,4 @@ Currently, the new designer only supports attributes, but we are working on gett
 
 **How can I tell if our Marketo Engage subscription has been migrated to IMS (the Adobe Admin Console)?**
 
-If you log in to Marketo Engage via [experience.adobe.com](experience.adobe.com), your subscription has been migrated.
+If you log in to Marketo Engage via the [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}, your subscription has been migrated.
