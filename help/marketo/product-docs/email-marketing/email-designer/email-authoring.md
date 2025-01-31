@@ -359,4 +359,4 @@ If you created your email inside an Email Program, it can only be used in that p
 
 >[!MORELIKETHIS]
 >
->[Email templates](/help/marketo/product-docs/email-marketing/email-designer/email-template.md){target="_blank"}: Learn how to create, design, and access an email template in the new designer.
+>[Email templates](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Learn how to create, design, and access an email template in the new designer.
