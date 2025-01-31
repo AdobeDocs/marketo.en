@@ -32,7 +32,7 @@ Yes, the old (classic) email editor will co-exist with the new email designer. E
 
 No, email templates from the classic editor cannot be referenced in the new designer. You'll need to create new templates in the new designer. However, you _can_ import template HTML into the new designer, then make necessary tweaks. We are also working on a way to easily migrate templates from the classic editor to the new designer.
 
-**Is there a way to enforce branding (fonts, logo, and colors)?**
+**Is there a way to enforce branding (fonts, logos, and colors)?**
 
 Locking content sections are part of the new designer, and locking styling, colors, etc., will be coming a later this year.
 
