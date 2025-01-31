@@ -142,6 +142,22 @@ Choose one of the out-of-the-box templates for a head start on your email templa
 
 1. Each component can be customized via the Settings or Style tabs. Change the font, text style, margin, and more.
 
+### Add fragments {#add-fragments}
+
+1. To access your fragments, select the _Fragments_ icon ( ![Fragments icon](assets/icon-fragments.svg) ) in the left navigation.
+
+   ![Select a fragment](assets/add-fragments-1.png){width="700" zoomable="yes"}
+
+1. Drag and drop any of the fragments into the structural component placeholder.
+
+The editor renders the fragment within the section/element of the email structure. The content of the fragment is dynamically updated within the structure to show how the content appears in the email.
+
+>[!TIP]
+>
+>If you want the fragment to occupy the entire horizontal layout within the email, add a 1:1 column structure and then drag and drop the fragment into it.
+
+After the email is saved, it appears in the _[!UICONTROL Used By]_ tab of the fragment details page. Fragments added to an email template are not editable within the template; the source fragment defines the content.
+
 ### Add Assets {#add-assets}
 
 Add images that are stored in the [Images and Files](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} section of your Marketo Engage instance.

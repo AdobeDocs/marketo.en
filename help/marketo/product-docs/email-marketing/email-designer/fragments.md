@@ -7,16 +7,16 @@ exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
 ---
 # Fragments
 
-A fragment is a reusable component that can be referenced in one or more emails and email templates. It is usually a block of content (text, image, or both) that can be created and quickly inserted into your project. With this functionality, you can prebuild multiple custom content blocks for use by your marketing team members to assemble email content for an improved design process. Common use cases include header/footer content blocks for email, event invite banners, seasonal messages, and more.
+A fragment is a reusable component that can be referenced in one or more emails and email templates. It is usually a block of content (text, image, or both) that can be created and quickly inserted into your project. With this functionality, you can prebuild multiple custom content blocks to assemble email content for an improved design process. Common use cases include header/footer content blocks for email, event invite banners, seasonal messages, and more.
 
 To make the best use of fragments in your workflows:
 
-* _Create your own fragments_ - Create visual fragments, either from scratch or by saving content as a fragment from the visual content editor.
+* _Create fragments_ - Create visual fragments, either from scratch or by saving content as a fragment from the visual content editor.
 * _Reuse fragments_ - Use them as many times as needed in your content.
 
 ## Visual fragments {#visual-fragments}
 
-Visual fragments are predefined visual blocks built using the visual content editor that you can reuse across multiple emails or email templates.
+Visual fragments are predefined visual blocks built (using the visual content editor) that you can reuse across multiple emails or email templates.
 
 ## Access and manage fragments {#access-and-manage-fragments}
 
@@ -24,11 +24,11 @@ To access visual fragments, go to the Design Studio. In the tree on the left, cl
 
 SCREENSHOT
 
-By default, the table is sorted by the _[!UICONTROL Modified]_ column, with the most recently updated fragments at the top. Click other column titles to change the sorting. Click again to switch between ascending and descending.
+By default, the table is sorted by the _[!UICONTROL Modified]_ column. Click other column titles to change what the table gets sorted by. Click again to switch between ascending and descending.
 
 ### Fragment status {#fragment-status}
 
-The fragment status determines its availability for use in an email or email template, and the changes that you can make to it. 
+The fragment status determines its availability for use in an email or email template and the changes you can make to it. 
 
 <table>
 <tbody>
@@ -67,13 +67,11 @@ The fragment status determines its availability for use in an email or email tem
   </tr>
 </tbody></table>
 
-SCREENSHOT
-
 ### Filter the fragments list {#filter-the-fragments-list}
 
 Use the search bar to find a fragment by name. Click the _Filter_ icon ( ![Show or hide filters icon](assets/icon-filter.svg) ) to show the available filter options and choose the desired settings.
 
-SCREENSHOT
+![Filter the displayed fragments](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
 
 ### Customize the column display {#customize-the-column-display}
 
@@ -142,7 +140,7 @@ Click the name of any fragment in the list page to open the fragment details pag
 >
 >If a published fragment is in use by an email or email template, you cannot change its name or edit the content. You can create a draft version if you want to make changes to the fragment.
 
-SCREENSHOT
+![View details for a published fragment](assets/fragment-details-published.png){width="600" zoomable="yes"}
 
 Click **[!UICONTROL Edit fragment]** to open the fragment in the visual content editor.
 
@@ -158,7 +156,7 @@ In the fragment details page, click the **[!UICONTROL Used By]** tab to view det
 
 References are displayed according to category: _Email_ or _Email template_. Emails in Journey Optimizer B2B Edition are embedded and authored within account journeys, so the parent journey of the email that uses the fragment is displayed in references. <--- WHAT ABOUT THIS PART, NILESH
 
-SCREENSHOT
+![Used by references for the fragment](assets/fragment-used-by-published.png){width="600" zoomable="yes"}
 
 Click the link to open the corresponding email or email template where the fragment is used.
 
@@ -173,9 +171,9 @@ You can delete a fragment using either of the following methods:
 
 This action opens a confirmation dialog. You can abort the process by clicking **[!UICONTROL Cancel]**, or click **[!UICONTROL Delete]** to confirm deletion.
 
-SCREENSHOT
+![Delete fragment dialog](assets/fragment-delete-dialog.png){width="400"}
 
-## Edit fragments
+## Edit fragments {#edit-fragments}
 
 Edits to a fragment depend on its current status:
 
@@ -193,7 +191,7 @@ Edits to a fragment depend on its current status:
 
 1. Make the desired edits.
 
-SCREENSHOT
+   ![Details for frament with Draft status](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
 1. To make changes to the content in the visual designer, click **[!UICONTROL Edit fragment]**.
 
@@ -223,7 +221,7 @@ SCREENSHOT
 
    Click **[!UICONTROL OK]** in the dialog to open the draft version in the visual designer. You can change the `image source` KG - LINK HERE if needed. 
 
-SCREENSHOT
+   ![Create draft version dialog](assets/fragments-create-draft-version.png){width="300"}
 
    Use the visual designer tools as needed:
 
@@ -245,7 +243,7 @@ There are two ways to open the draft version for editing from the _[!UICONTROL F
 
 * Click the _More_ icon (**...**) next to the fragment name and choose **[!UICONTROL Open draft version]**.
 
-SCREENSHOT
+   ![Open draft version](assets/fragments-create-draft-version.png){width="300"}
 
 * Click the fragment name to open it. Then, click **[!UICONTROL Open draft version]** at the top right.
 
@@ -276,11 +274,11 @@ You can duplicate a fragment using either of the following methods:
 * From the _[!UICONTROL Fragments]_ listing page, click the _More_ icon (**...**) next to the fragment name and choose **[!UICONTROL Duplicate]**.
 * At the top right of the fragment details page, click **[!UICONTROL ... More]** and choose **[!UICONTROL Duplicate]**.
 
-SCREENSHOT
+![Duplicate the fragment](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
 In the dialog, enter a unique name and optional description. Click **[!UICONTROL Duplicate]** to complete the action.
 
-SCREENSHOT
+![Enter a name and description for the duplicated fragment](assets/fragment-duplicate-dialog.png){width="400"}
 
 The duplicated fragment then appears in the _Fragments_ listing.
 
@@ -388,4 +386,4 @@ When a fragment is added to an email or email template, the fragment content can
 
 When you select the fragment on the editor page, these actions are available from the context toolbar and the properties panel on the right.
 
-SCREENSHOT
+![Apply actions to the selected fragment](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"}
