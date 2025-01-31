@@ -4,7 +4,7 @@ title: Email templates
 feature: Email Editor
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
 ---
-# Email templates {#email-templates}
+# Email template Authoring {#email-template-authoring}
 
 For an accelerated and improved design process, you can create standalone email templates to easily reuse custom content.
 
