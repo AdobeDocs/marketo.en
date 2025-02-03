@@ -9,7 +9,7 @@ feature: Email Editor
 
 Email CC allows specified emails being sent through Marketo to include CC recipients.
 
-This feature is available on all Marketo email assets, regardless of how the email is sent (batch or trigger campaign). The CC recipient will receive an exact copy of the email sent to the chosen Marketo person. As such, any engagement activity (opens, clicks, etc.) will be logged to the activity log of the Marketo Person in the "To" line of the email. However, delivery activity (sent, delivered, hard bounce, etc.) _other than “soft bounce”_ will **not** register, as Marketo is not able to distinguish delivery events for the Marketo Person from the CC recipients'. Marketo will only CC up to 100k People at a time. If your smart list exceeds 100k and it's imperative every person on it gets CC'd, we recommend breaking your list up.
+This feature is available on all Marketo email assets, regardless of how the email is sent (batch or trigger campaign). The CC recipient will receive an exact copy of the email sent to the chosen Marketo person. As such, any engagement activity (opens, clicks, etc.) will be logged to the activity log of the Marketo Person in the "To" line of the email. However, delivery activity (sent, delivered, hard bounce, etc.) _other than "soft bounce"_ will **not** register, as Marketo is not able to distinguish delivery events for the Marketo Person from the CC recipients'. Marketo will only CC up to 100k People at a time. If your smart list exceeds 100k and it's imperative every person on it gets CC'd, we recommend breaking your list up.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ This feature is available on all Marketo email assets, regardless of how the ema
 
    ![](assets/three.png)
 
-1. Select up to 25 Marketo Lead or Company fields (of type “Email”) to make available for use as CC addresses within emails. Click **Save** when done.
+1. Select up to 25 Marketo Lead or Company fields (of type "Email") to make available for use as CC addresses within emails. Click **Save** when done.
 
    ![](assets/four.png)
 
@@ -43,7 +43,7 @@ This feature is available on all Marketo email assets, regardless of how the ema
 
    ![](assets/six.png)
 
-1. Select up to five fields you want used to CC people. In this example, we only want the Lead Owner CC'd. Click **Save** when done.
+1. Select the fields you want used to CC people. _There is a limit of five per email_. In this example, we only want the Lead Owner CC'd. Click **Save** when done.
 
    ![](assets/seven.png)
 
@@ -67,7 +67,7 @@ This feature is available on all Marketo email assets, regardless of how the ema
 
 ## After the Send {#after-the-send}
 
-* If a CC recipient clicks a tracked link in the email, click activity (like all other engagement activity) will be associated with the email's main recipient. Additionally, they may click through to a page with Marketo’s web tracking code (munchkin.js), causing them to be cookied as the main recipient.
+* If a CC recipient clicks a tracked link in the email, click activity (like all other engagement activity) will be associated with the email's main recipient. Additionally, they may click through to a page with Marketo's web tracking code (munchkin.js), causing them to be cookied as the main recipient.
 
 >[!TIP]
 >
