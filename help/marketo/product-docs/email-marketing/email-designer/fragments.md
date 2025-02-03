@@ -308,7 +308,7 @@ Fragments are designed for reuse and you can add up to 30 in an email or email t
 
 >[!TAB Add fragments to an email]
 
-1. Navigate to **[!UICONTROL Account Journeys]** and open an existing journey or create a new journey. <--- DOUBLE-CHECK THIS
+1. Navigate to **[!UICONTROL Account Journeys]** and open an existing journey or create a new journey. <--- ONLY IF INSIDE THE EMAIL OR EMAIL TEMPLATE
 
 ---------STOPPED EDITING HERE---------
 

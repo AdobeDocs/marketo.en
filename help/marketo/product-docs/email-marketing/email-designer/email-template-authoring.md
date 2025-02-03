@@ -2,9 +2,11 @@
 description: Email templates - Marketo Docs - Product Documentation
 title: Email templates
 feature: Email Editor
+hide: yes
+hidefromtoc: yes
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
 ---
-# Email template Authoring {#email-template-authoring}
+# Email template authoring {#email-template-authoring}
 
 For an accelerated and improved design process, you can create standalone email templates to easily reuse custom content.
 
@@ -156,7 +158,7 @@ The editor renders the fragment within the section/element of the email structur
 
 After the email is saved, it appears in the _[!UICONTROL Used By]_ tab of the fragment details page. Fragments added to an email template are not editable within the template; the source fragment defines the content.
 
-### Add Assets {#add-assets}
+### Add assets {#add-assets}
 
 Add images that are stored in the [Images and Files](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} section of your Marketo Engage instance.
 

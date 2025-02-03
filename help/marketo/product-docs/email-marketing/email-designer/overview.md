@@ -2,6 +2,8 @@
 description: Overview - Marketo Docs - Product Documentation
 title: Overview
 feature: Email Editor
+hide: yes
+hidefromtoc: yes
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
 ---
 # Overview {#overview}
@@ -20,7 +22,7 @@ Emails created in the new designer can be used in Email Programs as well as Smar
 
 * [Email authoring](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Learn how to create, design, and reference an email in the new editor.
 
-* [Email templates](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Learn how to create, design, and access an email template in the new editor.
+* [Email template authoring](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Learn how to create, design, and access an email template in the new editor.
 
 ## FAQ {#faq}
 
