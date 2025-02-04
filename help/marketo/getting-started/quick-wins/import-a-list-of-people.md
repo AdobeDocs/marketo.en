@@ -38,6 +38,8 @@ In this tutorial, you'll learn how to import people from a spreadsheet file into
    >* Make sure email addresses contain ASCII characters only.
    >
    >* Marketo does **not** support email addresses that contain emojis.
+   >
+   >* Importing `NULL` values via CSV could generate a "Change Data Value" for numeric fields in a person's [activity log](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}, _even if the fields are already blank_. If you have any [Smart Campaigns](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} using the "Data Value Changed" filter or "Data Value Changes" trigger, be sure to use [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} to ensure they are not triggered unnecessarily when performing imports.
 
 ## Step 2: Create a Program {#step-create-a-program}
 

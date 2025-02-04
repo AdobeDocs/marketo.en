@@ -7,39 +7,47 @@ exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
 ---
 # Work with Experience Manager assets {#work-with-experience-manager-assets}
 
-When _Adobe Experience Manager Assets as a Cloud Service_ is integrated with Adobe Marketo Engage, you can easily access digital assets for use in your marketing content. As you author your content, the assets are accessible from the _[!UICONTROL Assets]_ item in the left navigation, and when authoring email content. You can also upload assets to the connected _AEM Assets as a Cloud Service_ repository directly from Marketo Engage. <------- NILESH WILL CHECK
+When _Adobe Experience Manager Assets as a Cloud Service_ is integrated with Adobe Marketo Engage, you can easily access digital assets for use in your marketing content. As you author your content, the assets are accessible from the _[!UICONTROL Experience Manager Assets]_ item in the left navigation.
+
+>[!PREREQUISITES]
+>
+>Connect MKTO/AEM doc.
 
 >[!NOTE]
 >
->Currently, only image assets from _Adobe Experience Manager Assets_ are supported in Marketo Engage. <---- NILESH WILL CHECK --- Changes to the assets must be done from the Adobe Experience Manager Assets central repository. [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
+>Currently, only image assets from _Adobe Experience Manager Assets_ are supported in Marketo Engage. Changes to the assets must be done from the Adobe Experience Manager Assets central repository. [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
 
 When you use these digital assets, the latest changes in _Assets as a Cloud Service_ automatically propagate to live email campaigns through linked references. If images are deleted in _Adobe Experience Manager Assets as a Cloud Service_, the images appear with a broken reference in the emails. When assets that are currently being used in Marketo Engage are modified or deleted, the email authors are notified about the image changes. All changes to the assets must be done in the Adobe Experience Manager Assets central repository.
 
 ## Use AEM Assets as the image source {#use-aem-assets-as-the-image-source}
 
-If your environment has one or more Assets repository connections, you can designate AEM Assets as the source for assets when you create or view details for an email, email template, or visual fragment.
+If your environment has one or more assets repository connections, you can designate AEM Assets as the source for assets when you create or view details for an email, email template, or visual fragment.
 
 * When creating new content, choose `AEM Assets` as the **[!UICONTROL Image Source]** item in the dialog.
 
 ![Select AEM Assets as the image source in the create dialog](assets/work-with-experience-manager-assets-1.png){width="400"}
 
-* When opening an existing content resource, choose `AEM Assets` in the _[!UICONTROL Body]_ panel on the right.
+* When opening an existing content resource, choose `AEM Assets` in the _[!UICONTROL Body]_ section on the right.
 
 ![Select AEM Assets as the image source in the properties](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
-## Access assets for authoring
+## Access assets for authoring {#access-assets-for-authoring}
 
 >[!IMPORTANT]
 >
 >An administrator must add users who need access to assets to the Assets Consumer Users and/or Assets Users Product profiles. [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
-In the visual content editor, click the _Asset selector_ icon in the left sidebar. This changes the tools panel to a list of available assets in the selected repository.
+In the visual content editor, click the _Experience Manager Asset selector_ icon in the left sidebar. This changes the tools panel to a list of available assets in the selected repository.
 
 ![Click the Assets selector icon to access the image assets](assets/work-with-experience-manager-assets-3.png){width="700" zoomable="yes"}
 
-If you have more than one connected AEM repository, click the menu arrow for **[!UICONTROL Repository]** to choose the repository you want to use.
+If you have more than one connected AEM repository, click the **[!UICONTROL Manage as]** button to choose the repository you want to use.
 
 ![Choose an AEM Assets repository to access the image assets](assets/work-with-experience-manager-assets-4.png){width="700" zoomable="yes"}
+
+Choose the desired repository.
+
+![Choose an AEM Assets repository to access the image assets](assets/work-with-experience-manager-assets-five.png)
 
 There are multiple methods for adding an image asset to the visual canvas:
 
