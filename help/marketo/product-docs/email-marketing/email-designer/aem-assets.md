@@ -47,13 +47,13 @@ If you have more than one connected AEM repository, click the **[!UICONTROL Mana
 
 Choose the desired repository.
 
-![Choose an AEM Assets repository to access the image assets](assets/work-with-experience-manager-assets-five.png)
+![Choose an AEM Assets repository to access the image assets](assets/work-with-experience-manager-assets-5.png)
 
 There are multiple methods for adding an image asset to the visual canvas:
 
 * Drag and drop an image thumbnail from the left navigation.
 
-![Choose an AEM Assets repository to access the image assets](assets/work-with-experience-manager-assets-5.png){width="700" zoomable="yes"}
+![Choose an AEM Assets repository to access the image assets](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
 * Add an image component to the canvas and click **[!UICONTROL Browse]** to open the _[!UICONTROL Select Assets]_ dialog. 
 
@@ -61,7 +61,7 @@ There are multiple methods for adding an image asset to the visual canvas:
    
    There are multiple tools available to help you locate the asset that you need.
 
-![use tool in the Select Assets dialog to find and select an image asset](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
+![use tool in the Select Assets dialog to find and select an image asset](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
    
 * Change the **[!UICONTROL Repository]** at the top right.
 
@@ -77,4 +77,4 @@ There are multiple methods for adding an image asset to the visual canvas:
 
 * Enter text in the Search field to filter the displayed items for a match of the asset name.
 
-![Use the filters and search field to locate the asset](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
+![Use the filters and search field to locate the asset](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"}
