@@ -28,8 +28,8 @@ The following features fall under the standard release cycle and will start to b
     <tr> 
    <td><strong>New Email Designer</strong>: Create modern and efficient emails using the new native Email Designer in Marketo Engage. Access one of the pre-designed out-of-the-box email templates, or easily create your own. Use dynamic content and access images from Adobe Experience Manager cloud services. Use the Content Accelerator Gen-AI functionality to create innovative and performant emails at scale.
    <p><img src="assets/note-icon.png" alt="note icon"> NOTE: In order to access the new email designer, your Marketo Engage subscription must be migrated to the <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe Identity Management System (IMS)</a>. If yours hasn't been yet and you'd like to request it be expedited, please contact the Adobe Account Team (your account manager), or <a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo Support</a>. To get access the Content Accelerator Gen-AI functionality, please contact the Adobe Account Team.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">Email Designer Overview</a></td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 
