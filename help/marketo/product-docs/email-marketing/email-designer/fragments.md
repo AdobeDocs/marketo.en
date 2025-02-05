@@ -7,7 +7,7 @@ exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
 ---
 # Fragments
 
-A fragment is a reusable component that can be referenced in one or more emails and email templates. It is usually a block of content (text, image, or both) that can be created and quickly inserted into your project. With this functionality, you can prebuild multiple custom content blocks to assemble email content for an improved design process. Common use cases include header/footer content blocks for email, event invite banners, seasonal messages, and more.
+A fragment is a reusable component that can be referenced in one or more emails and email templates. It is usually a block of content (text, image, or both) that can be quickly inserted into your project. With this functionality, you can prebuild multiple custom content blocks to assemble email content for an improved design process. Common use cases include header/footer content blocks for email, event invite banners, seasonal messages, and more.
 
 To make the best use of fragments in your workflows:
 
@@ -20,11 +20,11 @@ Visual fragments are predefined visual blocks built (using the visual content ed
 
 ## Access and manage fragments {#access-and-manage-fragments}
 
-To access visual fragments, go to the Design Studio. In the tree on the left, click **[!UICONTROL Fragments (New)]**.
+To access visual fragments, go to the **Design Studio**. In the tree on the left, click **[!UICONTROL Fragments (New)]**.
 
 ![Access fragments](assets/fragments-1.png){width="600" zoomable="yes"}
 
-By default, the table is sorted by the _[!UICONTROL Modified]_ column. Click other column titles to change what the table gets sorted by. Click again to switch between ascending and descending.
+By default, the table is sorted by the _[!UICONTROL Modified]_ column. Click other column titles to change what the table gets sorted by. Click the same title again to switch between ascending and descending.
 
 ### Fragment status {#fragment-status}
 
@@ -69,7 +69,7 @@ The fragment status determines its availability for use in an email or email tem
 
 ### Filter the fragments list {#filter-the-fragments-list}
 
-Use the search bar to find a fragment by name. Click the _Filter_ icon ( ![Show or hide filters icon](assets/icon-filter.svg) ) to show the available filter options and choose the desired settings.
+Use the search bar to find a fragment by name. Click the _Filter_ icon ( ![Filter icon](assets/icon-filter.svg) ) to show the available filter options and choose the desired settings.
 
 ![Filter the displayed fragments](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
 
@@ -134,13 +134,13 @@ SCREENSHOT
 
 ## View fragment details {#view-fragment-details}
 
-Click the name of any fragment in the list page to open the fragment details page. You can choose to edit the fragment, rename the fragment, or update the fragment description. Make updates and click outside of the name or description field to auto-save changes.
+Click the name of any fragment in the list page to open the fragment details page. You can choose to edit the fragment, rename it, or update its description. Make updates and click outside of the name or description field to save your changes.
 
 >[!NOTE]
 >
 >If a published fragment is in use by an email or email template, you cannot change its name or edit the content. You can create a draft version if you want to make changes to the fragment.
 
-![View details for a published fragment](assets/fragment-details-published.png){width="600" zoomable="yes"}
+![View details for a published fragment](assets/view-fragment-details-1.png){width="600" zoomable="yes"}
 
 Click **[!UICONTROL Edit fragment]** to open the fragment in the visual content editor.
 
@@ -154,9 +154,7 @@ In the fragment details page, click the **[!UICONTROL Used By]** tab to view det
 >
 >A fragment that is currently in use by an email or email template cannot be deleted.
 
-References are displayed according to category: _Email_ or _Email template_. Emails in Journey Optimizer B2B Edition are embedded and authored within account journeys, so the parent journey of the email that uses the fragment is displayed in references. <--- WHAT ABOUT THIS PART, NILESH
-
-![Used by references for the fragment](assets/fragment-used-by-published.png){width="600" zoomable="yes"}
+![Used by references for the fragment](assets/view-fragment-used-by-1.png){width="600" zoomable="yes"}
 
 Click the link to open the corresponding email or email template where the fragment is used.
 
@@ -284,7 +282,7 @@ The duplicated fragment then appears in the _Fragments_ listing.
 
 ## Save a new fragment from email or template content {#save-a-new-fragment-from-email-or-template-content}
 
-When you are creating/editing an email or email template in the visual content editor, you can choose to save all or parts of the content as a fragment so that it is available for reuse.
+When you are creating/editing an email or email template in the visual content editor, you can save all or part of the content as a fragment so that it is available for reuse.
 
 1. To save content as a fragment, click **[!UICONTROL More]** and choose **[!UICONTROL Save as Fragment]**.
 
@@ -296,41 +294,17 @@ When you are creating/editing an email or email template in the visual content e
 
 1. With the content selected, click **[!UICONTROL Create]** at the top right.
 
-1. In the dialog, enter a name and optional description for the fragment. Then click **[!UICONTROL Create]**.
+1. In the dialog, enter a name and optional description for the fragment and click **[!UICONTROL Create]**.
 
    The fragment is then displayed in the _Fragments_ listing page and is also available for use within emails and email templates.
 
 ## Add visual fragments to your email or template content {#add-visual-fragments-to-your-email-or-template-content}
 
-Fragments are designed for reuse and you can add up to 30 in an email or email template. Fragments can be nested up to one level only.
+Fragments are designed for reuse. You can add up to 30 in an email or email template, and they can be nested up to one level only.
 
->[!BEGINTABS]
+* [Add a fragment to an email](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-fragments)
 
->[!TAB Add fragments to an email]
-
-1. Navigate to **[!UICONTROL Account Journeys]** and open an existing journey or create a new journey. <--- ONLY IF INSIDE THE EMAIL OR EMAIL TEMPLATE
-
----------STOPPED EDITING HERE---------
-
-1. Create a [_[!UICONTROL Send Email]_ node](./email-authoring.md#add-an-email-action-in-an-account-journey).
-
-1. Create or edit [email content for the node](./email-authoring.md#create-the-email-content).
-
-1. Drag and drop an item from the **[!UICONTROL Components]** menu to provide a _structure_ for the fragment.
-
-1. To open the listing of published fragments, click the _Fragments_ icon.
-
-   You can:
-   * Sort the listing.
-   * Browse, search, and filter the listing.
-   * Switch between card (thumbnail) and list views.
-   * Refresh the list to reflect any of the recently created fragments.
-
-SCREENSHOT
-
-1. Drag and drop any of the fragments into the structure component placeholder.
-
-   The editor renders the fragment within the section/element of the email structure.
+* [Add a fragment to an email template](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#add-fragments)
 
 The content of the fragment is dynamically updated within the structure to render a visual of how the content appears in the email.
 
@@ -338,51 +312,17 @@ The content of the fragment is dynamically updated within the structure to rende
 >
 >If you want the fragment to occupy the entire horizontal layout within the email, add a [!UICONTROL 1:1 column] structure and then drag and drop the fragment into it.
 
-After the email is saved, it appears in the fragment details page when the _[!UICONTROL Used By]_ tab is selected. Fragments added to an email are not editable within the email or template -- the published source fragment defines the content.
+After the email/email template is saved, it appears in the fragment details page when the _[!UICONTROL Used By]_ tab is selected. Added fragments are not editable within the email or template&mdash;the published source fragment defines the content.
 
->[!TAB Add fragments to an email template]
+## Fragment actions during email and template authoring {#fragment-actions-during-email-and-template-authoring}
 
-1. From the left navigation, click **[!UICONTROL Content Management]** > **[!UICONTROL Templates]**.
+When a fragment is added to an email or email template, its content cannot be edited within the email or template. However, you can apply the following actions:
 
-1. Create a new template, or open an existing email template and click **[!UICONTROL Edit Email Template]**.
-
-1. Drag and drop an item from the **[!UICONTROL Components]** menu to provide a _structure_ for the fragment.
-
-1. To open the fragments listing, click the _Fragments_ icon.
-
-   You can:
-   * Sort the listing.
-   * Browse, search, and filter the listing.
-   * Switch between card (thumbnail) and list views.
-   * Refresh the list to reflect any of the recently created fragments.
-
-SCREENSHOT
-
-1. Drag and drop any of the fragments into the structure component placeholder.
-
-   The editor renders the fragment within the section/element of the email template structure.
-
-1. Drag and drop any of the fragments into the structure component placeholder.
-
-   The editor renders the fragment within the section/element of the email template structure.
-
->[!TIP]
->
->If you want the fragment to occupy the entire horizontal layout within the email template, add a _[!UICONTROL 1:1 column]_ structure and then drag and drop the fragment into it.
-
-After the email template is saved, it appears in the fragment details page when the _[!UICONTROL Used By]_ tab is selected. Fragments added to an email template are not editable within the template -- the published source fragment defines the content.
-
->[!ENDTABS]
-
-## Fragment actions during email and template authoring
-
-When a fragment is added to an email or email template, the fragment content cannot be edited within the email or template. However, you can apply the following actions:
-
-* **[!UICONTROL Delete]** - This action removes the fragment from the current email or email template content (the fragment source is unaffected).
-* **[!UICONTROL Refresh]** - This action refreshes the content of the fragment in the current email or email template. Refreshing is useful when you want to reflect any recent edits to the fragment after the addition to the email or email template.
-* **[!UICONTROL Duplicate]** - This action duplicates the fragment within the same email or email template within the editor, with the same dimensions and added just below it.
-* **[!UICONTROL Open Fragment]** - This action opens a new browser tab with the fragment editor page and details.
-* **[!UICONTROL Break inheritance]** - This action breaks the inheritance of the fragment (and its changes) from the source. Use this action to make the fragment content available as independent and editable content within the email or email template. This action also removes the email or email template from the _Used By_ reference for the original fragment.
+* **[!UICONTROL Delete]** - This removes the fragment from the current email or email template content (the fragment source is unaffected).
+* **[!UICONTROL Refresh]** - This refreshes the content of the fragment in the current email or email template. Refreshing is useful when you want to reflect any recent edits to the fragment after the addition to the email or email template.
+* **[!UICONTROL Duplicate]** - This duplicates the fragment in the same email or email template within the editor. The duplicated fragment is added just below the original.
+* **[!UICONTROL Open Fragment]** - This opens a new browser tab with the fragment editor page and details.
+* **[!UICONTROL Break inheritance]** - This breaks the inheritance of the fragment (and its changes) from the source. Use this action to make the fragment content available as independent and editable content within the email or email template. This action also removes the email or email template from the _Used By_ reference for the original fragment.
 
 When you select the fragment on the editor page, these actions are available from the context toolbar and the properties panel on the right.
 

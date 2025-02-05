@@ -7,7 +7,7 @@ exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
 ---
 # Work with Experience Manager assets {#work-with-experience-manager-assets}
 
-When _Adobe Experience Manager Assets as a Cloud Service_ is integrated with Adobe Marketo Engage, you can easily access digital assets for use in your marketing content. As you author your content, the assets are accessible from the _[!UICONTROL Experience Manager Assets]_ item in the left navigation.
+When _Adobe Experience Manager Assets as a Cloud Service_ is integrated with Adobe Marketo Engage, you can easily access digital assets for use in your marketing content.
 
 >[!PREREQUISITES]
 >
