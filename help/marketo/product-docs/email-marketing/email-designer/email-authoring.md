@@ -2,8 +2,6 @@
 description: Email authoring - Marketo Docs - Product Documentation
 title: Email authoring
 feature: Email Editor
-hide: yes
-hidefromtoc: yes
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
 ---
 # Email authoring {#email-authoring}

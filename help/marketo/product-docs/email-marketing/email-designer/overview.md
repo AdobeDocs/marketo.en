@@ -2,8 +2,6 @@
 description: Overview - Marketo Docs - Product Documentation
 title: Overview
 feature: Email Editor
-hide: yes
-hidefromtoc: yes
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
 ---
 # Overview {#overview}

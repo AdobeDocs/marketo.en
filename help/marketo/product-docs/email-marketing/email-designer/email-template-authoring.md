@@ -2,8 +2,6 @@
 description: Email templates - Marketo Docs - Product Documentation
 title: Email templates
 feature: Email Editor
-hide: yes
-hidefromtoc: yes
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
 ---
 # Email template authoring {#email-template-authoring}
