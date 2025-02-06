@@ -5,19 +5,59 @@ exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
 ---
 # Work with Experience Manager assets {#work-with-experience-manager-assets}
 
-When _Adobe Experience Manager Assets as a Cloud Service_ is integrated with Adobe Marketo Engage, you can easily access digital assets for use in your marketing content.
-
->[!PREREQUISITES]
->
->[Connect your Adobe Experience Manager Cloud Services to your Adobe Marketo Engage instance](/help/marketo/product-docs/email-marketing/email-designer/aem-cloud-services.md){target="_blank"}
+Connect your _Adobe Experience Manager Assets as a Cloud Service_ account to your Adobe Marketo Engage instance so you can leverage your AEM Asset repository in the Marketo Engage Email Designer.
 
 >[!NOTE]
 >
 >Currently, only image assets from _Adobe Experience Manager Assets_ are supported in Marketo Engage. Changes to the assets must be done from the Adobe Experience Manager Assets central repository. [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
+## Access the AI Assistant Content Accelerator {#access-the-ai-assistant-content-accelerator}
+
+Before you can use this capability, you must first link AEM Cloud Services with Adobe Marketo Engage.
+
++++Link AEM Cloud Services and Marketo Engage
+
+>[!NOTE]
+>
+>**Admin Permissions Required**
+
+1. In Marketo Engage, go to the **Admin** area and select **Adobe Experience Manager** in the left navigation tree.
+
+   ![Select Adobe Experience Manager in the Admin section](assets/access-the-ai-assistant-content-accelerator-1.png){width="800"}
+
+1. Click **Edit** next to _Adobe Experience Manager Cloud Services_.
+
+   ![Click EDIT](assets/access-the-ai-assistant-content-accelerator-2.png){width="400"}
+
+1. Select one or more repositories.
+
+   ![Select a repository](assets/access-the-ai-assistant-content-accelerator-3.png){width="800"}
+
+   >[!NOTE]
+   >
+   >Only repositories that have been associated in the same IMS org as your Marketo Engage subscription are listed.
+
+1. You must add a [service credential certificate](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) to configure the repository. Click the **+ Add certificate** button.
+
+   ![Add a certificate](assets/access-the-ai-assistant-content-accelerator-4.png){width="800"}           
+
+1. Drag and drop your certificate (JSON file only), or select it from your computer. Click **Add** when done.
+
+   ![Locate the certificate on your machine](assets/access-the-ai-assistant-content-accelerator-5.png){width="600"}
+
+1. The configured repository is displayed below along with status and expiration. Click the ellipsis button (**...**) to view the certificate. Otherwise, you're done. 
+
+   ![The certificate has been added](assets/access-the-ai-assistant-content-accelerator-6.png){width="600"}
+
+Now all the images from the digital asset management library in that repository can be accessed from the Marketo Engage Email Designer.
+
++++
+
+## Working with AEM assets {#working-with-aem-assets}
+
 When you use these digital assets, the latest changes in _Assets as a Cloud Service_ automatically propagate to live email campaigns through linked references. If images are deleted in _Adobe Experience Manager Assets as a Cloud Service_, the images appear with a broken reference in your emails. When assets that are currently being used in Marketo Engage are modified or deleted, the email authors are notified about the image changes. All changes to the assets must be done in the Adobe Experience Manager Assets central repository.
 
-## Use AEM Assets as the image source {#use-aem-assets-as-the-image-source}
+### Use AEM Assets as the image source {#use-aem-assets-as-the-image-source}
 
 If your environment has one or more assets repository connections, you can designate AEM Assets as the source for assets when you create or view details for an email, email template, or visual fragment.
 
@@ -29,7 +69,7 @@ If your environment has one or more assets repository connections, you can desig
 
 ![Select AEM Assets as the image source in the properties](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
-## Access assets for authoring {#access-assets-for-authoring}
+### Access assets for authoring {#access-assets-for-authoring}
 
 >[!IMPORTANT]
 >

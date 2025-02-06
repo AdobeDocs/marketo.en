@@ -4,9 +4,7 @@ description: Learn how to...
 hide: yes
 hidefromtoc: yes
 ---
-# Content Accelerator doc {#connect-experience-manager-doc}
-
-Content Accelerator (with Gen-AI capabilities)
+# Use the AI Assistant Content Accelerator {#use-the-ai-assistant-content-accelerator}
 
 Content Accelerator or AI Assistant is a functionality inside the New Email Designer that assists marketers with creating contemporary, performant and intuitive emails in a productive fashion. This is achieved through Adobe's generative AI technology and prompt library along with Firefly for image generation that helps marketers to create suitable content for a particular persona/buying group, marketing journey stage, communication strategy, tone and so on. Specific brand assets can be also used to create content with inputs from these brand assets.
 
