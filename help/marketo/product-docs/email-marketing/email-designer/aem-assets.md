@@ -1,8 +1,6 @@
 ---
 title: Work with Experience Manager Assets
 description: Learn how to use image assets from a connected AEM Assets repository when authoring content in Adobe Marketo Engage.
-hide: yes
-hidefromtoc: yes
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
 ---
 # Work with Experience Manager assets {#work-with-experience-manager-assets}
@@ -11,13 +9,13 @@ When _Adobe Experience Manager Assets as a Cloud Service_ is integrated with Ado
 
 >[!PREREQUISITES]
 >
->Connect MKTO/AEM doc.
+>[Connect your Adobe Experience Manager Cloud Services to your Adobe Marketo Engage instance](/help/marketo/product-docs/email-marketing/email-designer/aem-cloud-services.md){target="_blank"}
 
 >[!NOTE]
 >
->Currently, only image assets from _Adobe Experience Manager Assets_ are supported in Marketo Engage. Changes to the assets must be done from the Adobe Experience Manager Assets central repository. [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
+>Currently, only image assets from _Adobe Experience Manager Assets_ are supported in Marketo Engage. Changes to the assets must be done from the Adobe Experience Manager Assets central repository. [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
-When you use these digital assets, the latest changes in _Assets as a Cloud Service_ automatically propagate to live email campaigns through linked references. If images are deleted in _Adobe Experience Manager Assets as a Cloud Service_, the images appear with a broken reference in the emails. When assets that are currently being used in Marketo Engage are modified or deleted, the email authors are notified about the image changes. All changes to the assets must be done in the Adobe Experience Manager Assets central repository.
+When you use these digital assets, the latest changes in _Assets as a Cloud Service_ automatically propagate to live email campaigns through linked references. If images are deleted in _Adobe Experience Manager Assets as a Cloud Service_, the images appear with a broken reference in your emails. When assets that are currently being used in Marketo Engage are modified or deleted, the email authors are notified about the image changes. All changes to the assets must be done in the Adobe Experience Manager Assets central repository.
 
 ## Use AEM Assets as the image source {#use-aem-assets-as-the-image-source}
 
@@ -61,7 +59,7 @@ There are multiple methods for adding an image asset to the visual canvas:
    
    There are multiple tools available to help you locate the asset that you need.
 
-![use tool in the Select Assets dialog to find and select an image asset](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
+![Use tool in the Select Assets dialog to find and select an image asset](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
    
 * Change the **[!UICONTROL Repository]** at the top right.
 

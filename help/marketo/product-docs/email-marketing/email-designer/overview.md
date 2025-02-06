@@ -22,6 +22,8 @@ Emails created in the new designer can be used in Email Programs as well as Smar
 
 * [Email template authoring](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Learn how to create, design, and access an email template in the new editor.
 
+* [Work with AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Learn how to easily access your AEM digital assets for use in Marketo Engage.
+
 ## FAQ {#faq}
 
 **Will the old email editor continue to function? If so, for how long?**

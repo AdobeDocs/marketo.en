@@ -20,11 +20,25 @@ Visual fragments are predefined visual blocks built (using the visual content ed
 
 ## Access and manage fragments {#access-and-manage-fragments}
 
-To access visual fragments, go to the **Design Studio**. In the tree on the left, click **[!UICONTROL Fragments (New)]**.
+To access visual fragments, go to the **Design Studio** in Marketo Engage. In the tree on the left, click **[!UICONTROL Fragments (New)]**.
 
-![Access fragments](assets/fragments-1.png){width="600" zoomable="yes"}
+![Access fragments](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
 By default, the table is sorted by the _[!UICONTROL Modified]_ column. Click other column titles to change what the table gets sorted by. Click the same title again to switch between ascending and descending.
+
+### Find and filter
+
+Use the search bar to find a fragment by name. Click the _Filter_ icon ( ![Filter icon](assets/icon-filter.svg) ) to show the available filter options and choose the desired settings.
+
+![Filter the displayed fragments](assets/access-and-manage-fragments-2.png){width="700" zoomable="yes"}
+
+### Customize the columns {#customize-the-column-display}
+
+Customize the columns you want to display in the table by clicking the _Customize table_ icon ( ![Customize table icon](assets/icon-column-settings.svg) ) at the top right.
+
+Select the columns you want and click **[!UICONTROL Apply]**.
+
+![Customize table modal](assets/access-and-manage-fragments-3.png){width="400" zoomable="yes"}
 
 ### Fragment status {#fragment-status}
 
@@ -67,36 +81,30 @@ The fragment status determines its availability for use in an email or email tem
   </tr>
 </tbody></table>
 
-### Filter the fragments list {#filter-the-fragments-list}
-
-Use the search bar to find a fragment by name. Click the _Filter_ icon ( ![Filter icon](assets/icon-filter.svg) ) to show the available filter options and choose the desired settings.
-
-![Filter the displayed fragments](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
-
-### Customize the column display {#customize-the-column-display}
-
-Customize the columns you want to display in the table by clicking the _Customize table_ icon ( ![Customize table icon](assets/icon-column-settings.svg) ) at the top right.
-
-In the dialog, select the desired columns and click **[!UICONTROL Apply]**.
-
-SCREENSHOT
-
 ## Create fragments {#create-fragments}
 
-Create a new visual fragment by clicking **[!UICONTROL Create fragment]** at the top right.
+1. To create a new visual fragment, click **[!UICONTROL Create fragment]** at the top right of the fragments list page.
 
-1. In the _[!UICONTROL Create fragment]_ dialog, enter a **[!UICONTROL Name]** and an optional **[!UICONTROL Description]**.
+   ![Create fragment button](assets/create-fragments-1.png){width="700" zoomable="yes"}
 
-   Fragment requirements:
+1. Give your fragment a **[!UICONTROL Name]** and an optional **[!UICONTROL Description]**.
 
-   * Name - 100 characters max, must be unique, case-insensitive
-   * Description - 300 characters max
-   * Alpha, numeric, and special characters are okay
+   _Fragment requirements_
+
+   * Name: 100 characters max, must be unique, not case sensitive
+   * Description: 300 characters max
+   * Characters: alpha, numeric, and special characters are okay
    * Reserved characters are **_not allowed_**: `\ / : * ? " < > |`
 
-SCREENSHOT
+   ![Create fragment modal](assets/create-fragments-2.png){width="400" zoomable="yes"}
 
 1. Click **[!UICONTROL Create]**.
+
+   ![Create fragment modal](assets/create-fragments-3.png){width="400" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >A fragment's **Type** cannot be modified at this time.
 
    The visual designer opens with an empty canvas.
 
