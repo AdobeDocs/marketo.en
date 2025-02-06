@@ -1059,7 +1059,6 @@ feature-set: Marketo Engage
         + [Overview](product-docs/email-marketing/email-designer/overview.md)
         + [Email Authoring](product-docs/email-marketing/email-designer/email-authoring.md)
         + [Email Template Authoring](product-docs/email-marketing/email-designer/email-template-authoring.md)
-        + [Connect Adobe Experience Manager Cloud Services](product-docs/email-marketing/email-designer/aem-cloud-services.md)
         + [Work with AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
         + [Fragments](product-docs/email-marketing/email-designer/fragments.md)
     + Email Programs {#email-programs}
