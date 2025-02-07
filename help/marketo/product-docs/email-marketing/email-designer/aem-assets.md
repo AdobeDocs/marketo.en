@@ -23,15 +23,15 @@ Before you can use this capability, you must first link AEM Cloud Services with 
 
 1. In Marketo Engage, go to the **Admin** area and select **Adobe Experience Manager** in the left navigation tree.
 
-   ![Select Adobe Experience Manager in the Admin section](assets/access-the-ai-assistant-content-accelerator-1.png){width="800"}
+   ![Select Adobe Experience Manager in the Admin section](assets/access-the-ai-assistant-content-accelerator-1.png){width="800" zoomable="yes"}
 
 1. Click **Edit** next to _Adobe Experience Manager Cloud Services_.
 
-   ![Click EDIT](assets/access-the-ai-assistant-content-accelerator-2.png){width="400"}
+   ![Click EDIT](assets/access-the-ai-assistant-content-accelerator-2.png){width="400" zoomable="yes"}
 
 1. Select one or more repositories.
 
-   ![Select a repository](assets/access-the-ai-assistant-content-accelerator-3.png){width="800"}
+   ![Select a repository](assets/access-the-ai-assistant-content-accelerator-3.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -39,15 +39,15 @@ Before you can use this capability, you must first link AEM Cloud Services with 
 
 1. You must add a [service credential certificate](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) to configure the repository. Click the **+ Add certificate** button.
 
-   ![Add a certificate](assets/access-the-ai-assistant-content-accelerator-4.png){width="800"}           
+   ![Add a certificate](assets/access-the-ai-assistant-content-accelerator-4.png){width="800" zoomable="yes"}           
 
 1. Drag and drop your certificate (JSON file only), or select it from your computer. Click **Add** when done.
 
-   ![Locate the certificate on your machine](assets/access-the-ai-assistant-content-accelerator-5.png){width="600"}
+   ![Locate the certificate on your machine](assets/access-the-ai-assistant-content-accelerator-5.png){width="600" zoomable="yes"}
 
 1. The configured repository is displayed below along with status and expiration. Click the ellipsis button (**...**) to view the certificate. Otherwise, you're done. 
 
-   ![The certificate has been added](assets/access-the-ai-assistant-content-accelerator-6.png){width="600"}
+   ![The certificate has been added](assets/access-the-ai-assistant-content-accelerator-6.png){width="700" zoomable="yes"}
 
 Now all the images from the digital asset management library in that repository can be accessed from the Marketo Engage Email Designer.
 
@@ -63,7 +63,7 @@ If your environment has one or more assets repository connections, you can desig
 
 * When creating new content, choose `AEM Assets` as the **[!UICONTROL Image Source]** item in the dialog.
 
-![Select AEM Assets as the image source in the create dialog](assets/work-with-experience-manager-assets-1.png){width="400"}
+![Select AEM Assets as the image source in the create dialog](assets/work-with-experience-manager-assets-1.png){width="400" zoomable="yes"}
 
 * When opening an existing content resource, choose `AEM Assets` in the _[!UICONTROL Body]_ section on the right.
 
@@ -85,7 +85,7 @@ If you have more than one connected AEM repository, click the **[!UICONTROL Mana
 
 Choose the desired repository.
 
-![Choose an AEM Assets repository to access the image assets](assets/work-with-experience-manager-assets-5.png)
+![Choose an AEM Assets repository to access the image assets](assets/work-with-experience-manager-assets-5.png){width="500" zoomable="yes"}
 
 There are multiple methods for adding an image asset to the visual canvas:
 
