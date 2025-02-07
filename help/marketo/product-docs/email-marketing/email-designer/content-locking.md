@@ -6,6 +6,7 @@ description: Learn how to lock content in your email templates.
 hide: yes
 hidefromtoc: yes
 level: Beginner, Intermediate
+exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
 ---
 # Lock content in email templates {#lock-content-email-templates}
 

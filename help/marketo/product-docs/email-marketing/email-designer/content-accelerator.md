@@ -3,6 +3,7 @@ title: Content Accelerator doc
 description: Learn how to...
 hide: yes
 hidefromtoc: yes
+exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
 ---
 # Use the AI Assistant Content Accelerator {#use-the-ai-assistant-content-accelerator}
 
