@@ -1,4 +1,6 @@
 ---
+solution: Marketo Engage
+product: marketo engage
 description: Overview - Marketo Docs - Product Documentation
 title: Overview
 feature: Email Editor
@@ -12,7 +14,7 @@ Welcome to the new Adobe Marketo Engage Email Designer.
 >
 >In order to access the new email designer, your Marketo Engage subscription must be migrated to the [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). If yours hasn't been yet and you'd like to request it be expedited, please contact the Adobe Account Team (your account manager), or [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
-The new email designer is the latest innovation in Marketo Engage intended to provide a revamped email and email template creation experience to improve productivity and efficiency by providing a visual drag-and-drop editor along with standard out-of-the-box templates. Easily create customized email templates without having to spend money on vendors. 
+The email designer is the latest innovation in Marketo Engage intended to provide a revamped email and email template creation experience to improve productivity and efficiency by providing a visual drag-and-drop editor along with standard out-of-the-box templates. Easily create customized email templates without having to spend money on vendors. 
 
 Emails created in the new designer can be used in Email Programs as well as Smart Lists/Campaigns. Powerful new enhancements to the designer are coming soon.
 
@@ -22,7 +24,11 @@ Emails created in the new designer can be used in Email Programs as well as Smar
 
 * [Email template authoring](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Learn how to create, design, and access an email template in the new editor.
 
-* [Work with AEM Assets](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Learn how to easily access your AEM digital assets for use in Marketo Engage.
+* [Work with AEM assets](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Learn how to easily access your AEM digital assets for use in Marketo Engage.
+
+* [Use the AI Assistant Content Accelerator](/help/marketo/product-docs/email-marketing/email-designer/content-accelerator.md){target="_blank"}: Leverage Adobe's generative AI technology to add helpful text and/or images to your emails.
+
+* [Lock content in email templates](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: Learn how to lock content in email templates, helping to prevent unintentional edits or deletions.
 
 ## FAQ {#faq}
 

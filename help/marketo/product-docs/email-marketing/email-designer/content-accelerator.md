@@ -2,7 +2,7 @@
 solution: Marketo Engage
 product: marketo engage
 title: Use the AI Assistant Content Accelerator
-description: Leverage Adobe's generative AI technology to add helpful text or stunning images to your emails.
+description: Leverage Adobe's generative AI technology to add helpful text and/or images to your emails.
 feature: Email Editor
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
 ---
@@ -40,27 +40,27 @@ The text settings include:
 
 <table><tbody>
   <tr>
-    <td><b>Buying Group</b></td>
+    <td style="width:25%"><b>Buying Group</b></td>
     <td>Specific buying group you are targeting (e.g., Practitioner, Influencer, Decision maker).</td>
   </tr>
   <tr>
-    <td><b>Marketing Journey Stage</b></td>
+    <td style="width:25%"><b>Marketing Journey Stage</b></td>
     <td>Recipients in a particular marketing journey stage (e.g., Discover, Evaluate, Commit).</td>
   </tr>
   <tr>
-    <td><b>Communication Strategy</b></td>
+    <td style="width:25%"><b>Communication Strategy</b></td>
     <td>The objective of the communication (e.g., Urgent, Social Proof, Informative).</td>
   </tr>
   <tr>
-    <td><b>Language</b></td>
+    <td style="width:25%"><b>Language</b></td>
     <td>Language in which you want the subject line to be generated.</td>
   </tr>
   <tr>
-    <td><b>Tone</b></td>
+    <td style="width:25%"><b>Tone</b></td>
     <td>Tone in which you want the content to be generated (e.g., Inspirational, Exciting, Humorous).</td>
   </tr>
   <tr>
-    <td><b>Emojis</b></td>
+    <td style="width:25%"><b>Emojis</b></td>
     <td>Allows for emojis to be included in the generated content.</td>
   </tr>
 </tbody>
