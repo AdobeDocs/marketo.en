@@ -10,13 +10,31 @@ exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
 
 Welcome to the new Adobe Marketo Engage Email Designer.
 
->[!PREREQUISITES]
->
->In order to access the new email designer, your Marketo Engage subscription must be migrated to the [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). If yours hasn't been yet and you'd like to request it be expedited, please contact the Adobe Account Team (your account manager), or [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
-
 The email designer is the latest innovation in Marketo Engage intended to provide a revamped email and email template creation experience to improve productivity and efficiency by providing a visual drag-and-drop editor along with standard out-of-the-box templates. Easily create customized email templates without having to spend money on vendors. 
 
 Emails created in the new designer can be used in Email Programs as well as Smart Lists/Campaigns. Powerful new enhancements to the designer are coming soon.
+
+## How to access {#how-to-access}
+
++++Learn how to access the email designer
+
+In order to access the new email designer, your Marketo Engage subscription must be migrated to the [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). If yours hasn't been yet and you'd like to request it be expedited, please contact the Adobe Account Team (your account manager), or [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+
+### Add users {#add-users}
+
+1. In Marketo Engage, go to the **[!UICONTROL Admin]** area and select **[!UICONTROL New Email Designer]**.
+
+   ![Selecting New Email Designer in the left nav of Admin](assets/overview-1.png){width="600" zoomable="yes"}
+
+1. Click **[!UICONTROL Add Users]**.
+
+   ![Add Users button](assets/overview-2.png){width="600" zoomable="yes"}
+
+1. In the **[!UICONTROL Add New Values]** drop-down, select the desired users. Click **[!UICONTROL OK]** when done.
+
+   ![Choosing users from list](assets/overview-3.png){width="600" zoomable="yes"}
+
++++
 
 ## Available articles {#available-articles}
 
