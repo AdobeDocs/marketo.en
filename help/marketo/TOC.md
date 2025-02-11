@@ -1063,7 +1063,7 @@ feature-set: Marketo Engage
         + [Edit images with Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
         + [Fragments](product-docs/email-marketing/email-designer/fragments.md)
         + [Content Locking](product-docs/email-marketing/email-designer/content-locking.md)
-        + [Content Accelerator](product-docs/email-marketing/email-designer/content-accelerator.md)
+        + [AI Assistant](product-docs/email-marketing/email-designer/ai-assistant.md)
     + Email Programs {#email-programs}
       + Creating an Email Program {#creating-an-email-program}
         + [Create an Email Program](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)

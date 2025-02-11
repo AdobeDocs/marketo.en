@@ -44,7 +44,7 @@ In order to access the new email designer, your Marketo Engage subscription must
 
 * [Work with AEM assets](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Learn how to easily access your AEM digital assets for use in Marketo Engage.
 
-* [Use the AI Assistant Content Accelerator](/help/marketo/product-docs/email-marketing/email-designer/content-accelerator.md){target="_blank"}: Leverage Adobe's generative AI technology to add helpful text and/or images to your emails.
+* [Use the AI Assistant](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: Leverage Adobe's generative AI technology to add helpful text and/or images to your emails.
 
 * [Lock content in email templates](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: Learn how to lock content in email templates, helping to prevent unintentional edits or deletions.
 

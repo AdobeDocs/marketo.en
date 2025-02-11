@@ -76,11 +76,11 @@ There are two ways to access the Adobe Express editor.
 
 ## Users with an Enterprise License {#users-with-an-enterprise-license}
 
-If you have an Enterprise license for Adobe Express, you have access to the Express editor. You can adjust settings like an image's color, brightness, sharpness, contrast, size, and more. The AI Magic option allows you to remove backgrounds, insert and remove objects, and erase parts of the image.
+If you have an Enterprise license for Adobe Express, you have access to the full Express editor. You can adjust image settings like color, brightness, sharpness, contrast, size, and more. The AI Magic option allows you to remove backgrounds, insert and remove objects, and erase parts of an image.
 
 >[!IMPORTANT]
 >
->The license purchased must be under the same IMS Org as your Marketo Engage subscription to access all the Adobe Express editing capabilities. Also, each individual user must have a license in Adobe Express. Users [without a license](#users-without-an-enterprise-license) may only access the quick actions in Adobe Express.
+>The license purchased must be under the same IMS Org as your Marketo Engage subscription to access all Adobe Express editing capabilities. Also, each individual user must have a license in Adobe Express. Users [without a license](#users-without-an-enterprise-license) can only access the quick actions in Adobe Express.
 
 Click on Edit with Adobe Express to open the image. 
 
