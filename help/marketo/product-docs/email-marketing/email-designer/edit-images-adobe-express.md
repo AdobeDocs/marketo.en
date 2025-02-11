@@ -30,11 +30,11 @@ There are two ways to access the Adobe Express editor.
 
 1. In Marketo Engage, go to the **[!UICONTROL Design Studio]** and select **[!UICONTROL Images and Files]**.
 
-   ![Selecting Images and Files in the left nav of Design Studio](assets/edit-images-with-adobe-express-1.png){width="600" zoomable="yes"}
+   ![Selecting Images and Files in the left nav of Design Studio](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
 1. Select the image you want to edit (or create a new one).
 
-   SCREENSHOT
+   SCREENSHOT 2a
 
    >[!NOTE]
    >
@@ -44,7 +44,7 @@ There are two ways to access the Adobe Express editor.
 
 1. In the image _Details_ tab, click **Edit in Adobe Express**.
 
-   SCREENSHOT
+   SCREENSHOT 3a
 
    >[!CAUTION]
    >
@@ -54,7 +54,7 @@ There are two ways to access the Adobe Express editor.
 
 1. In Marketo Engage, go to the **[!UICONTROL Design Studio]** and select **[!UICONTROL Images and Files]**.
 
-   ![Selecting Images and Files in the left nav of Design Studio](assets/edit-images-with-adobe-express-1.png){width="600" zoomable="yes"}
+   ![Selecting Images and Files in the left nav of Design Studio](assets/edit-images-with-adobe-express-1b.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ There are two ways to access the Adobe Express editor.
 
 1. Select the checkbox next to the image you want to edit.
 
-   SCREENSHOT
+   SCREENSHOT 2b
 
 1. In the **[!UICONTROL Image and file actions]** drop-down, select **[!UICONTROL Edit in Adobe Express]**.
 
@@ -74,7 +74,9 @@ There are two ways to access the Adobe Express editor.
 
 >[!ENDTABS]
 
-## Users with an Enterprise License {#users-with-an-enterprise-license}
+## Adobe Express Enterprise license {#adobe-express-enterprise-license}
+
+### Users with an Enterprise License {#users-with-an-enterprise-license}
 
 If you have an Enterprise license for Adobe Express, you have access to the full Express editor. You can adjust image settings like color, brightness, sharpness, contrast, size, and more. The AI Magic option allows you to remove backgrounds, insert and remove objects, and erase parts of an image.
 
@@ -82,25 +84,56 @@ If you have an Enterprise license for Adobe Express, you have access to the full
 >
 >The license purchased must be under the same IMS Org as your Marketo Engage subscription to access all Adobe Express editing capabilities. Also, each individual user must have a license in Adobe Express. Users [without a license](#users-without-an-enterprise-license) can only access the quick actions in Adobe Express.
 
-Click on Edit with Adobe Express to open the image. 
-
-SCREENSHOT
-
-Perform the required changes and save the file.
-
-SCREENSHOT
-
-Click Save to complete the action.
-
 ## Users without an Enterprise License {#users-without-an-enterprise-license}
 
 For those without an Enterprise license, you still have access to several quick action editing features. Those features are:
 
-* Resize image
-* Remove background
-* Crop image
-* Convert to PNG
-* Convert to JPEG
+* [Resize image](#resize-image)
+* [Remove background](#remove-background)
+* [Crop image](#crop-image)
+* [Convert to PNG/JPEG](#convert-to-png-jpeg)
+
+The features are accessible in the top-left side of the image page.
+
+SCREENSHOT
+
+### Resize image {#resize-image}
+
+Make your desired changes and click **Apply** when done.
+
+SCREENSHOT
+
+<table><tbody>
+  <tr>
+    <td><b>Aspect ratio</b></td>
+    <td>In the <b>Aspect ratio</b> drop-down, choose <b>Standard</b> to BLANK, or <b>Custom</b> to set your own width/height.</td>
+  </tr>
+  <tr>
+    <td><b>Width and Height</b></td>
+    <td>By default, the aspect ratio is locked, keeping the image proportions the same when you adjust its size. If desired, you can select the lock button to unlock the aspect ratio.</td>
+  </tr>
+  <tr>
+    <td><b>Reset</b></td>
+    <td>Click <b>Reset</b> to remove any edits done to the image and return it to its original state.</td>
+  </tr>
+  <tr>
+    <td><b>Zoom and Crop</b></td>
+    <td>Click Zoom and Crop to zoom in on specific areas of the image.</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+### Remove background {#remove-background}
+
+text
+
+### Crop image {#crop-image}
+
+Text
+
+### Convert to PNG/JPEG {#convert-to-png-jpeg}
 
 Click on Crop image on the page.
 
