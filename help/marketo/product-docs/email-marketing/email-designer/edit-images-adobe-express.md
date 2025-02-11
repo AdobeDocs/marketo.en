@@ -38,11 +38,11 @@ There are two ways to access the Adobe Express editor.
 
    >[!NOTE]
    >
-   >* To view the assets by workspace and folder, open the structure by clicking the **Show Folders** icon at the top left.
+   >* To view the assets by workspace and folder, open the structure by clicking the **[!UICONTROL Show Folders]** icon at the top left.
    >
    >* To sort the table by any of the columns, click the column title. The arrow in the title row indicates the current sort column and order.
 
-1. In the image _Details_ tab, click **Edit in Adobe Express**.
+1. In the image _Details_ tab, click **[!UICONTROL Edit in Adobe Express]**.
 
    SCREENSHOT 3a
 
@@ -58,7 +58,7 @@ There are two ways to access the Adobe Express editor.
 
    >[!NOTE]
    >
-   >* To view the assets by workspace and folder, open the structure by clicking the **Show Folders** icon at the top left.
+   >* To view the assets by workspace and folder, open the structure by clicking the **[!UICONTROL Show Folders]** icon at the top left.
    >
    >* To sort the table by any of the columns, click the column title. The arrow in the title row indicates the current sort column and order.
 
@@ -84,7 +84,7 @@ If you have an Enterprise license for Adobe Express, you have access to the full
 >
 >The license purchased must be under the same IMS Org as your Marketo Engage subscription to access all Adobe Express editing capabilities. Also, each individual user must have a license in Adobe Express. Users [without a license](#users-without-an-enterprise-license) can only access the quick actions in Adobe Express.
 
-## Users without an Enterprise License {#users-without-an-enterprise-license}
+### Users without an Enterprise License {#users-without-an-enterprise-license}
 
 For those without an Enterprise license, you still have access to several quick action editing features. Those features are:
 
@@ -97,9 +97,11 @@ The features are accessible in the top-left side of the image page.
 
 SCREENSHOT
 
-### Resize image {#resize-image}
+#### Resize image {#resize-image}
 
-Make your desired changes and click **Apply** when done.
+1. Click **Resize Image**.
+
+1. Make your desired changes and click **Apply** when done.
 
 SCREENSHOT
 
@@ -118,22 +120,42 @@ SCREENSHOT
   </tr>
   <tr>
     <td><b>Zoom and Crop</b></td>
-    <td>Click Zoom and Crop to zoom in on specific areas of the image.</td>
+    <td>Click <b>Zoom and Crop</b> to zoom in on specific areas of the image.</td>
   </tr>
 </tbody>
 </table>
 
+#### Remove background {#remove-background}
 
+1. Click **Remove Background**. 
 
-### Remove background {#remove-background}
+1. Adobe Express displays the image with no background. Click **Apply**.
 
-text
+PIC
 
-### Crop image {#crop-image}
+>[!TIP]
+>
+>To restore the background, select the image and select **Remove Background** again.
 
-Text
+#### Crop image {#crop-image}
 
-### Convert to PNG/JPEG {#convert-to-png-jpeg}
+1. Click Crop Image.
+
+1. Drag the corners of the image to create your desired crop.
+
+SCREENSHOT
+
+1. Click **Apply** when done.
+
+#### Convert to PNG/JPEG {#convert-to-png-jpeg}
+
+Convert a PNG to a JPEG, or a JPEG to a PNG.
+
+1. Click **Convert to PNG/JPEG**.
+
+1. Click **Apply**.
+
+CROP STUFF BELOW
 
 Click on Crop image on the page.
 
@@ -145,21 +167,10 @@ You can perform further update using another option on the left hand panel, clic
 
 Click on Save to complete the action.
 
-Accessing the Editor from the Image and files Listing Page 
-On the listing page, select the image you want to edit, and click on the chevron on Image and files action button on the page. 
+## Save your work {#save-your-work}
 
-Click on Edit with Adobe Express
+When you're done with all your edits, click Save to save your work.
 
-Accessing the Editor within the Email Designer
+SCREENSHOT
 
-From within the new Email Designer, select an image that you want to edit. 
-
-An option to Edit with Adobe Express will appear. Click on the button to proceed. 
-
-Note: This action is available for images originally sourced from Marketo Design Studio repository.
-
-If the image is in use, an alert dialog appears to inform you that any changes you make will affect that content. Click Continue to proceed to the Adobe Express editor.
-
-Complete your editing on the Adobe Express 
-
-Click on Save to complete the action.  The edited image will be saved in the same folder as the original image and also updated on the email editing canvas.
+The edited image is saved in the same folder as the original image.
