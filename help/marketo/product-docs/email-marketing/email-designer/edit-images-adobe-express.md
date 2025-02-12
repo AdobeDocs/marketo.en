@@ -32,9 +32,9 @@ There are two ways to access the Adobe Express editor.
 
    ![Selecting Images and Files in the left nav of Design Studio](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
-1. Select the image you want to edit (or create a new one).
+1. Select the image you want to edit.
 
-   SCREENSHOT 2a
+   ![Clicking on the name of the image](assets/edit-images-with-adobe-express-2a.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -44,7 +44,7 @@ There are two ways to access the Adobe Express editor.
 
 1. In the image _Details_ tab, click **[!UICONTROL Edit in Adobe Express]**.
 
-   SCREENSHOT 3a
+   ![Clicking the Edit in Adobe Express button](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -62,11 +62,9 @@ There are two ways to access the Adobe Express editor.
    >
    >* To sort the table by any of the columns, click the column title. The arrow in the title row indicates the current sort column and order.
 
-1. Select the checkbox next to the image you want to edit.
+1. Select the checkbox next to the image you want to edit. In the **[!UICONTROL Image and file actions]** drop-down, select **[!UICONTROL Edit in Adobe Express]**.
 
-   SCREENSHOT 2b
-
-1. In the **[!UICONTROL Image and file actions]** drop-down, select **[!UICONTROL Edit in Adobe Express]**.
+   ![Selecting the checkbox next to the image name and using the Images and file actions drop-down](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -93,9 +91,9 @@ For those without an Enterprise license, you still have access to several quick 
 * [Crop image](#crop-image)
 * [Convert to PNG/JPEG](#convert-to-png-jpeg)
 
-The features are accessible in the top-left side of the image page.
+The features are accessible on the left side of the image page.
 
-SCREENSHOT
+![Image page showing Adobe Express editing options](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
 
 #### Resize image {#resize-image}
 
@@ -103,24 +101,24 @@ SCREENSHOT
 
 1. Make your desired changes and click **Apply** when done.
 
-SCREENSHOT
+![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
-    <td><b>Aspect ratio</b></td>
+    <td style="width:25%"><b>Aspect ratio</b></td>
     <td>In the <b>Aspect ratio</b> drop-down, choose <b>Standard</b> to BLANK, or <b>Custom</b> to set your own width/height.</td>
   </tr>
   <tr>
-    <td><b>Width and Height</b></td>
+    <td style="width:25%"><b>Width and Height</b></td>
     <td>By default, the aspect ratio is locked, keeping the image proportions the same when you adjust its size. If desired, you can select the lock button to unlock the aspect ratio.</td>
   </tr>
   <tr>
-    <td><b>Reset</b></td>
+    <td style="width:25%"><b>Reset</b></td>
     <td>Click <b>Reset</b> to remove any edits done to the image and return it to its original state.</td>
   </tr>
   <tr>
-    <td><b>Zoom and Crop</b></td>
-    <td>Click <b>Zoom and Crop</b> to zoom in on specific areas of the image.</td>
+    <td style="width:25%"><b>Zoom and Crop</b></td>
+    <td>Click <b>Zoom and Crop</b> to zoom in on specific areas of the image. Clicking <b>Apply</b> after zooming crops the image to what is currently displayed.</td>
   </tr>
 </tbody>
 </table>
@@ -129,9 +127,9 @@ SCREENSHOT
 
 1. Click **Remove Background**. 
 
-1. Adobe Express displays the image with no background. Click **Apply**.
+1. Adobe Express displays the image with no background. If it meets your needs, click **Apply**.
 
-PIC
+![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
@@ -139,21 +137,23 @@ PIC
 
 #### Crop image {#crop-image}
 
-1. Click Crop Image.
+1. Click **[!UICONTROL Crop Image]**.
 
 1. Drag the corners of the image to create your desired crop.
 
-SCREENSHOT
+![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
-1. Click **Apply** when done.
+1. Click **[!UICONTROL Apply]** when done.
 
 #### Convert to PNG/JPEG {#convert-to-png-jpeg}
 
-Convert a PNG to a JPEG, or a JPEG to a PNG.
+Convert a PNG file to a JPEG file, or a JPEG file to a PNG file.
 
-1. Click **Convert to PNG/JPEG**.
+1. Click **[!UICONTROL Convert to PNG/JPEG]**.
 
-1. Click **Apply**.
+![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+
+1. Click **[!UICONTROL Apply]**.
 
 ---CROP STUFF BELOW---
 
