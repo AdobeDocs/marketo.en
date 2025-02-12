@@ -26,8 +26,8 @@ All relevant attributes of these activities are also made available for the sale
 
 In the Insights section, the Lead Timeline chart contains another swimlane for webinars that highlight the activities synced for the past 90 days for every week. When selecting a particular week, the activities are displayed per day in a separate section. You can expand individual activities to see their details.
 
-![](assets/msi-iw-1.png){width="800" zoomable="yes"}
+![](assets/interactive-webinars-in-marketo-sales-insight-1.png){width="800" zoomable="yes"}
 
 In the separate Webinar tab, all the activities (and their dates) are also listed in a tabular format.
 
-![](assets/msi-iw-2.png){width="800" zoomable="yes"}
+![](assets/interactive-webinars-in-marketo-sales-insight-2.png){width="800" zoomable="yes"}
