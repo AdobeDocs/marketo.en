@@ -47,7 +47,7 @@ The fragment status determines its availability for use in an email or email tem
 <table>
 <tbody>
   <tr>
-    <td><b>Draft</b></td>
+    <td style="width:25%"><b>Draft</b></td>
     <td>When you create a fragment, it is in draft status. It remains a draft until you publish it for use in an email or email template.
     <p>Available actions:
     <li>Edit all details</li>
@@ -57,7 +57,7 @@ The fragment status determines its availability for use in an email or email tem
     <li>Delete</li>
   </td>
   <tr>
-    <td><b>Published</b></td>
+    <td style="width:25%"><b>Published</b></td>
     <td>When you publish a fragment, it becomes available for use in an email or email template. Published fragment content cannot be modified in the visual designer.
     <p>Available actions:
     <li>Edit description</li>
@@ -68,7 +68,7 @@ The fragment status determines its availability for use in an email or email tem
     </td>
   </tr>
   <tr>
-    <td><b>Published with draft</b></td>
+    <td style="width:25%"><b>Published with draft</b></td>
     <td>When you create a draft from a published fragment, the published version remains available for use in an email or email template, and the draft content can be modified in the visual designer. If you publish the draft version, it replaces the current published version and the content is updated in <i>all</i> the emails and email templates where it is in use. 
     <p>Available actions:
     <li>Edit description</li>

@@ -22,7 +22,10 @@ Adobe Marketo Engage integrates natively with Adobe Express, giving you access t
 
 ## Access the Adobe Express editor {#access-the-adobe-express-editor}
 
-There are two ways to access the Adobe Express editor.
+There are two ways to access the Adobe Express editor:
+
+* Click on the image name
+* _Image and files actions_ drop-down menu
 
 >[!BEGINTABS]
 
@@ -74,15 +77,15 @@ There are two ways to access the Adobe Express editor.
 
 ## Adobe Express Enterprise license {#adobe-express-enterprise-license}
 
-### Users with an Enterprise License {#users-with-an-enterprise-license}
+### Users with an Enterprise license {#users-with-an-enterprise-license}
 
-If you have an Enterprise license for Adobe Express, you have access to the full Express editor. You can adjust image settings like color, brightness, sharpness, contrast, size, and more. The AI Magic option allows you to remove backgrounds, insert and remove objects, and erase parts of an image.
+If you have an Enterprise license for Adobe Express, you have access to the full Express editor. You can adjust image settings like color, brightness, sharpness, contrast, size, and more. The AI Magic option allows you to remove backgrounds, insert and remove objects, and erase parts of an image. Visit the [Adobe Express User Guide](https://helpx.adobe.com/express/user-guide.html){target="_blank"} to learn about each setting.
 
 >[!IMPORTANT]
 >
 >The license purchased must be under the same IMS Org as your Marketo Engage subscription to access all Adobe Express editing capabilities. Also, each individual user must have a license in Adobe Express. Users [without a license](#users-without-an-enterprise-license) can only access the quick actions in Adobe Express.
 
-### Users without an Enterprise License {#users-without-an-enterprise-license}
+### Users without an Enterprise license {#users-without-an-enterprise-license}
 
 For those without an Enterprise license, you still have access to several quick action editing features. Those features are:
 
@@ -101,12 +104,12 @@ The features are accessible on the left side of the image page.
 
 1. Make your desired changes and click **Apply** when done.
 
-![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
+![Resize image window shhowing all available options](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
     <td style="width:25%"><b>Aspect ratio</b></td>
-    <td>In the <b>Aspect ratio</b> drop-down, choose <b>Standard</b> to BLANK, or <b>Custom</b> to set your own width/height.</td>
+    <td>In the <b>Aspect ratio</b> drop-down, choose <b>Standard</b> to choose from pre-calculated common photo sizes, or <b>Custom</b> to set your own width/height. You can also choose a specific social media platform's standard size (Pinterest, Snapchat, etc.).</td>
   </tr>
   <tr>
     <td style="width:25%"><b>Width and Height</b></td>
@@ -129,11 +132,11 @@ The features are accessible on the left side of the image page.
 
 1. Adobe Express displays the image with no background. If it meets your needs, click **Apply**.
 
-![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
+![Image of just dog with background removed](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
->To restore the background, select the image and select **Remove Background** again.
+>If you're not satisfied with the result, simply click the **X** to close the window.
 
 #### Crop image {#crop-image}
 
@@ -141,7 +144,7 @@ The features are accessible on the left side of the image page.
 
 1. Drag the corners of the image to create your desired crop.
 
-![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
+![Dragging photo corners to crop the image](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
 1. Click **[!UICONTROL Apply]** when done.
 
@@ -151,26 +154,14 @@ Convert a PNG file to a JPEG file, or a JPEG file to a PNG file.
 
 1. Click **[!UICONTROL Convert to PNG/JPEG]**.
 
-![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+![Convert to PNG/JPEG window](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
 
 1. Click **[!UICONTROL Apply]**.
 
----CROP STUFF BELOW---
-
-Click on Crop image on the page.
-
-On the Adobe Express editor, perform cropping on the image and click Save. 
-
-Note: This action will not overwrite the image, but presents you the image for further edits.
-
-You can perform further update using another option on the left hand panel, click on Save to overwrite the existing image, or Save as New Asset to save as a new image. 
-
-Click on Save to complete the action.
-
 ## Save your work {#save-your-work}
 
-When you're done with all your edits, click Save to save your work.
+When you're done with all your edits, click **Save** to save your work.
 
-SCREENSHOT
+![Save button](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
 
 The edited image is saved in the same folder as the original image.
