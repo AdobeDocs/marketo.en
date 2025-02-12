@@ -155,7 +155,7 @@ Convert a PNG to a JPEG, or a JPEG to a PNG.
 
 1. Click **Apply**.
 
-CROP STUFF BELOW
+---CROP STUFF BELOW---
 
 Click on Crop image on the page.
 
