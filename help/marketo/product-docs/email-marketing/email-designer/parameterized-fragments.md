@@ -17,10 +17,6 @@ By leveraging parameterized fragments, you can efficiently manage and personaliz
 
 Both visual and expression fragments can be marked as customizable. For detailed instructions on how to proceed with each type of fragment, refer to the sections below.
 
-SCREENSHOT - GIF?
-
----STOPPED EDITING HERE---
-
 ## Add editable fields in visual fragments {#visual}
 
 To make portions of a visual fragment editable, follow these steps:
@@ -33,7 +29,7 @@ To make portions of a visual fragment editable, follow these steps:
 
 1. Select the component in your fragment where you want to configure editable fields.
 
-1. The component properties pane opens on the right hand-side. Select the **Editable fields** tab then toggle the **Enable edition** option.
+1. The component properties pane opens on the right hand-side. Select the **[!UICONTROL Editable fields]** tab then toggle the **[!UICONTROL Enable edition]** option.
 
 1. All the fields that can be edited for the selected component are listed in the pane. The available fields for editing depend on the selected component type.
 
@@ -41,21 +37,21 @@ To make portions of a visual fragment editable, follow these steps:
 
     ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
-1. Click the **Overview** to check all the editable fields and their default values.
+1. Click **[!UICONTROL Overview]** to check all the editable fields and their default values.
 
     In this example, the button URL field displays with the default value defined in the component. This value will be customizable by users after they have added the fragment to their content.
 
     ![](assets/fragment-param-preview.png){width="800" zoomable="yes"}
 
-1. When ready, save your changes to update the fragment.
+1. Save your changes when done.
 
-1. After adding the fragment into an email, users will be able to customize all the editable fields configured in the fragment.
+After adding the fragment into an email, users will be able to customize all the editable fields configured in the fragment.
 
 ## Add editable fields in HTML components and expression fragments {#expression}
 
-To make portions of an HTML component or an expression fragment editable, you must use a specific syntax in the expression editor. This involves declaring a **variable** with a default value that users can override after adding the fragment to their content.
+To make portions of an HTML component or an expression fragment editable, you must use a specific syntax in the expression editor. This involves declaring a _variable_ with a default value that users can override after adding the fragment to their content.
 
-For example, suppose you want to create a fragment to add to your emails, and allow users to customize a specific color used in different locations, such as frames or buttons' background colors. When creating your fragment, you need to declare a variable with a **unique ID**, for example "color", and call it at the desired locations in the fragment content where you want to apply this color. When adding the fragment to their content, users will be able to customize the color used wherever the variable is referenced.
+For example, suppose you want to create a fragment to add to your emails, and allow users to customize a specific color used in different locations, such as frames or buttons' background colors. When creating your fragment, you need to declare a variable with a _unique ID_ (e.g., "color"), and call it at the desired locations in the fragment content where you want to apply this color. When adding the fragment to their content, users will be able to customize the color used wherever the variable is referenced.
 
 For HTML components, only specific elements can become editable fields. Expand the section below for more information.
 
@@ -72,3 +68,7 @@ For example, in the code below, each element highlighted in red can become a pro
 ![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
+
+>[!MORELIKETHIS]
+>
+>[Fragments](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}
