@@ -1062,6 +1062,7 @@ feature-set: Marketo Engage
         + [Work with AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
         + [Edit images with Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
         + [Fragments](product-docs/email-marketing/email-designer/fragments.md)
+        + [Parameterized Fragments](product-docs/email-marketing/email-designer/parameterized-fragments.md)
         + [Content Locking](product-docs/email-marketing/email-designer/content-locking.md)
         + [AI Assistant](product-docs/email-marketing/email-designer/ai-assistant.md)
     + Email Programs {#email-programs}

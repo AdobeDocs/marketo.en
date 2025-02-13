@@ -1,7 +1,7 @@
 ---
 solution: Marketo Engage
 product: marketo engage
-description: Overview - Marketo Docs - Product Documentation
+description: Welcome to the new Adobe Marketo Engage Email Designer.
 title: Overview
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
