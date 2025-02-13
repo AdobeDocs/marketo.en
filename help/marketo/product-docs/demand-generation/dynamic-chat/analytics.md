@@ -48,14 +48,22 @@ View Dialogues, Conversational Flows, or all. Select a preset or custom date ran
 <thead>
 <tbody>
   <tr>
-    <td style="width:25%"><b>Completed</b></td>
+    <td style="width:30%"><b>Completed</b></td>
     <td>A completed event occurs when a visitor reaches the last prompt in a conversation <i>or</i> when a visitor exhausts all the content in a conversation.
     <br>One completed event per visitor, per session.</td>
   </tr>
   <tr>
-    <td style="width:25%"><b>People Acquired</b></td>
+    <td style="width:30%"><b>People Acquired</b></td>
     <td>Happens when a visitor submits their email address.
     <br>One acquisition per visitor, per session.</td>
+  </tr>
+  <tr>
+    <td style="width:30%"><b>Engagement Rate</b></td>
+    <td>Number of users responded (first input by user)/number of triggers (chatbot displayed).</td>
+  </tr>
+  <tr>
+    <td style="width:30%"><b>Conversion Rate</b></td>
+    <td>User acquired (new emails captured)/user engaged.</td>
   </tr>
 </tbody>
 </table>
