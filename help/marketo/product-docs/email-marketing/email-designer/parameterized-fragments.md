@@ -8,6 +8,7 @@ role: User
 level: Beginner, Intermediate
 hide: yes
 hidefromtoc: yes
+exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
 ---
 # Parameterized fragments {#parameterized-fragments}
 
