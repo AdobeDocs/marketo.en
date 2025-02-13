@@ -108,37 +108,11 @@ The fragment status determines its availability for use in an email or email tem
 
    The visual designer opens with an empty canvas.
 
-1. Use the content design tools to create the visual fragment content:
-
-   * [Add structure and content](#add-structure-and-content)
-   * [Add Assets](#add-assets)
-   * [Navigate the layers, settings, and styles](#navigate-the-layers-settings-and-styles)
-   * [Personalize content](#personalize-content)
-   * [Edit linked URL tracking](#edit-linked-url-tracking)
+1. Use the [content design tools](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} to create the visual fragment content.
 
 1. Click **[!UICONTROL Save]** at any time to save the draft fragment.
 
 1. When you are ready to make the fragment available for use in an email or email template, click **[!UICONTROL Publish]**.
-
-### Add structure and content {#add-structure-and-content}
-
-{{$include /help/marketo/_includes/content-design-components.md}}
-
-### Add assets
-
-{{$include /help/_includes/content-design-assets.md}}
-
-### Navigate the layers, settings, and styles
-
-{{$include /help/_includes/content-design-navigation.md}}
-
-### Personalize content
-
-{{$include /help/_includes/content-design-personalization.md}}
-
-### Edit linked URL tracking
-
-{{$include /help/_includes/content-design-links.md}}
 
 ## View fragment details {#view-fragment-details}
 
@@ -199,19 +173,11 @@ Edits to a fragment depend on its current status:
 
    ![Details for frament with Draft status](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
-1. To make changes to the content in the visual designer, click **[!UICONTROL Edit fragment]**.
+1. To make changes to the content in the visual designer, click **[!UICONTROL Edit fragment]**. Click **Save** when done.
 
-   Use the visual designer tools as needed:
+1. Click **[!UICONTROL Save]**, or **[!UICONTROL Save & close]** to return to the fragment details.
 
-   * [Add structure and content](#add-structure-and-content)
-   * [Add Assets](#add-assets)
-   * [Navigate the layers, settings, and styles](#navigate-the-layers-settings-and-styles)
-   * [Personalize content](#personalize-content)
-   * [Edit linked URL tracking](#edit-linked-url-tracking)
-
-   Click **[!UICONTROL Save]**, or **[!UICONTROL Save & close]** to return to the fragment details.
-
-1. When the fragment meets your criteria and you want to make it available for use in an email or email template, click **[!UICONTROL Publish]**.
+1. When you want to make the fragment available for use in an email or email template, click **[!UICONTROL Publish]**.
 
 >[!TAB Published]
 
@@ -229,19 +195,13 @@ Edits to a fragment depend on its current status:
 
    ![Create draft version dialog](assets/fragments-create-draft-version.png){width="300"}
 
-   Use the visual designer tools as needed:
+1. Click **[!UICONTROL Save]**, or **[!UICONTROL Save & close]** to return to the fragment details.
 
-   * [Add structure and content](#add-structure-and-content)
-   * [Add Assets](#add-assets)
-   * [Navigate the layers, settings, and styles](#navigate-the-layers-settings-and-styles)
-   * [Personalize content](#personalize-content)
-   * [Edit linked URL tracking](#edit-linked-url-tracking)
+1. When you want to make the fragment available for use in an email or email template, click **[!UICONTROL Publish]**.
 
-   Click **[!UICONTROL Save]**, or **[!UICONTROL Save & close]** to return to the fragment details.
-
-1. When the draft fragment meets your criteria and you want to make the changes available for use in an email or email template, click **[!UICONTROL Publish]**.
-
-   When you publish the draft version, it replaces the current published version and the content is updated in the emails and email templates where it is already in use.
+>[!NOTE]
+>
+>When you publish the draft version, it replaces the current published version and the content is updated in the emails and email templates where it is already in use.
 
 >[!TAB Published with draft]
 
@@ -253,23 +213,19 @@ There are two ways to open the draft version for editing from the _[!UICONTROL F
 
 * Click the fragment name to open it. Then, click **[!UICONTROL Open draft version]** at the top right.
 
-   A preview of the visual content for the draft version is displayed, with the fragment details on the right.
+A preview of the visual content for the draft version is displayed, with the fragment details on the right.
 
 To update the content:
 
-1. Click **[!UICONTROL Edit fragment]** at the top right. Use the visual designer tools as needed:
+1. Click **[!UICONTROL Edit fragment]** at the top right. Click **Save** when done.
 
-   * [Add structure and content](#add-structure-and-content)
-   * [Add Assets](#add-assets)
-   * [Navigate the layers, settings, and styles](#navigate-the-layers-settings-and-styles)
-   * [Personalize content](#personalize-content)
-   * [Edit linked URL tracking](#edit-linked-url-tracking)
+1. Click **[!UICONTROL Save]**, or **[!UICONTROL Save & close]** to return to the fragment details.
 
-   Click **[!UICONTROL Save]**, or **[!UICONTROL Save & close]** to return to the fragment details.
+1. When you want to make the fragment available for use in an email or email template, click **[!UICONTROL Publish]**.
 
-1. When the draft fragment meets your criteria and you want to make the changes available for use in an email or email template, click **[!UICONTROL Publish]**.
-
-   When you publish the draft version, it replaces the current published version and the content is updated in the emails and email templates where it is already in use.
+>[!NOTE]
+>
+>When you publish the draft version, it replaces the current published version and the content is updated in the emails and email templates where it is already in use.
 
 >[!ENDTABS]
 
@@ -282,7 +238,7 @@ You can duplicate a fragment using either of the following methods:
 
 ![Duplicate the fragment](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
-In the dialog, enter a unique name and optional description. Click **[!UICONTROL Duplicate]** to complete the action.
+In the dialog, enter a unique name and optional description. Click **[!UICONTROL Duplicate]**.
 
 ![Enter a name and description for the duplicated fragment](assets/fragment-duplicate-dialog.png){width="400"}
 
@@ -290,7 +246,7 @@ The duplicated fragment then appears in the _Fragments_ listing.
 
 ## Save a new fragment from email or template content {#save-a-new-fragment-from-email-or-template-content}
 
-When you are creating/editing an email or email template in the visual content editor, you can save all or part of the content as a fragment so that it is available for reuse.
+When you are creating/editing an email or email template in the visual content editor, you can save all or part of the content as a fragment for reuse.
 
 1. To save content as a fragment, click **[!UICONTROL More]** and choose **[!UICONTROL Save as Fragment]**.
 
@@ -298,13 +254,13 @@ When you are creating/editing an email or email template in the visual content e
 
    Select multiple structures by holding the Shift or Control button.
 
-   You can only select structures that are adjacent to each other and the interface does not allow you to select non-adjacent elements.
+   You can only select structures that are adjacent to each other.
 
 1. With the content selected, click **[!UICONTROL Create]** at the top right.
 
 1. In the dialog, enter a name and optional description for the fragment and click **[!UICONTROL Create]**.
 
-   The fragment is then displayed in the _Fragments_ listing page and is also available for use within emails and email templates.
+The fragment is then displayed in the _Fragments_ listing page and is available for use within emails and email templates.
 
 ## Add visual fragments to your email or template content {#add-visual-fragments-to-your-email-or-template-content}
 

@@ -4,8 +4,6 @@ product: marketo engage
 title: Edit images with Adobe Express
 description: Learn how to edit images in the Adobe Marketo Engage Email Editor using Adobe Express.
 level: Beginner, Intermediate
-hide: yes
-hidefromtoc: yes
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
 ---
 # Edit images with Adobe Express {#edit-images-with-adobe-express}
