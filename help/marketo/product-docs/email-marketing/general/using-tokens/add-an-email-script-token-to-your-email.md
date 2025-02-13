@@ -37,10 +37,6 @@ After you've [created your email script](/help/marketo/product-docs/email-market
 
    ![](assets/five-1.png)
 
-   >[!TIP]
-   >
-   >Add a default value if you like.
-
 1. Click **Save**.
 
    ![](assets/six.png)
