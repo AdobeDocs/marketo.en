@@ -1,8 +1,9 @@
 ---
+solution: Marketo Engage
+product: marketo engage
 title: Fragments
-description: Learn how to create/use visual content fragments as reusable components for emails and email templates.
-hide: yes
-hidefromtoc: yes
+description: Learn how to create and use visual content fragments as reusable components for emails and email templates.
+level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
 ---
 # Fragments
@@ -48,7 +49,7 @@ The fragment status determines its availability for use in an email or email tem
 <tbody>
   <tr>
     <td width="25%"><b>Draft</b></td>
-    <td width="70%">When you create a fragment, it is in draft status. It remains a draft until you publish it for use in an email or email template.
+    <td width="75%">When you create a fragment, it is in draft status. It remains a draft until you publish it for use in an email or email template.
     <p>Available actions:
     <li>Edit all details</li>
     <li>Edit in visual designer</li>
@@ -68,8 +69,8 @@ The fragment status determines its availability for use in an email or email tem
     </td>
   </tr>
   <tr>
-    <td><b>Published with draft</b></td>
-    <td>When you create a draft from a published fragment, the published version remains available for use in an email or email template, and the draft content can be modified in the visual designer. If you publish the draft version, it replaces the current published version and the content is updated in <i>all</i> the emails and email templates where it is in use. 
+    <td style="width:25%"><b>Published with draft</b></td>
+    <td style="width:75%">When you create a draft from a published fragment, the published version remains available for use in an email or email template, and the draft content can be modified in the visual designer. If you publish the draft version, it replaces the current published version and the content is updated in <i>all</i> the emails and email templates where it is in use. 
     <p>Available actions:
     <li>Edit description</li>
     <li>Add to an email or template</li>
@@ -79,7 +80,8 @@ The fragment status determines its availability for use in an email or email tem
     <li>Delete (if not in-use)</li>
     </td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 ## Create fragments {#create-fragments}
 
