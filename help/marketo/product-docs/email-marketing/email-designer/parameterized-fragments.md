@@ -1,6 +1,6 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: Parameterized fragments
 description: Learn how to customize fragments by making some of their fields editable.
 feature: Email Editor
@@ -17,7 +17,7 @@ By leveraging parameterized fragments, you can efficiently manage and personaliz
 
 Both visual and expression fragments can be marked as customizable. For detailed instructions on how to proceed with each type of fragment, refer to the sections below.
 
-SCREENSHOT
+SCREENSHOT - GIF?
 
 ---STOPPED EDITING HERE---
 
@@ -39,17 +39,17 @@ To make portions of a visual fragment editable, follow these steps:
 
     In the example below, we allow the editing of the "Click here" button URL.
 
-SCREENSHOT
+    ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
 1. Click the **Overview** to check all the editable fields and their default values.
 
     In this example, the button URL field displays with the default value defined in the component. This value will be customizable by users after they have added the fragment to their content.
 
-SCREENSHOT
+    ![](assets/fragment-param-preview.png){width="800" zoomable="yes"}
 
 1. When ready, save your changes to update the fragment.
 
-1. After adding the fragment into an email, users will be able to customize all the editable fields configured in the fragment. [Learn how to customize editable fields in a visual fragment](../email/use-visual-fragments.md#customize-fields)
+1. After adding the fragment into an email, users will be able to customize all the editable fields configured in the fragment.
 
 ## Add editable fields in HTML components and expression fragments {#expression}
 
@@ -69,6 +69,6 @@ The elements below can become editable fields in an HTML component:
 
 For example, in the code below, each element highlighted in red can become a property:
 
-![](assets/fragment-html.png){width="70%"}
+![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++

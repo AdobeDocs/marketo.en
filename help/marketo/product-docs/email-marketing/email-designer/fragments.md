@@ -1,6 +1,6 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: Fragments
 description: Learn how to create and use visual content fragments as reusable components for emails and email templates.
 level: Beginner, Intermediate

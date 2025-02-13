@@ -1,6 +1,6 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 description: Welcome to the new Adobe Marketo Engage Email Designer.
 title: Overview
 feature: Email Editor

@@ -1,6 +1,6 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: Lock content in email templates
 description: Learn how to lock content in your email templates.
 level: Beginner, Intermediate
