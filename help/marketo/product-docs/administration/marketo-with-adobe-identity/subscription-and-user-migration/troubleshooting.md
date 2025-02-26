@@ -18,8 +18,6 @@ During the IMS user migration process, an Adobe user is created for each Marketo
 * <a href="#create-failure">Create Failure</a>
 * <a href="#type2e-user-failure">Type2e User Failure</a>
 
-
-
 <table>
 <thead>
   <tr>
