@@ -26,7 +26,7 @@ Post-migration - The user must be added to the Active Directory with proper perm
 
 ### Gmail Invalid Character {#gmail-invalid-character}
 
-_Root cause_: Per Adobe security policy, the characters `.` and `+` are not allowed in a Gmail email address. Both characters are allowed in non-Gmail email addresses only.
+_Root cause_: Per the Adobe security policy, the characters `.` and `+` are not allowed in a Gmail email address. Both characters are allowed in non-Gmail email addresses.
 
 _Resolutions_:
 

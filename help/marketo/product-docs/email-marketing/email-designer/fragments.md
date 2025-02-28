@@ -293,3 +293,7 @@ When a fragment is added to an email or email template, its content cannot be ed
 When you select the fragment on the editor page, these actions are available from the context toolbar and the properties panel on the right.
 
 ![Apply actions to the selected fragment](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"}
+
+>[!MORELIKETHIS]
+>
+>[Customizable fragments](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md)

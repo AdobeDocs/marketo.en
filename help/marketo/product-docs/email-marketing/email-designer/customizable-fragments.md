@@ -1,20 +1,18 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Parameterized fragments
+title: Customizable fragments
 description: Learn how to customize fragments by making some of their fields editable.
 feature: Email Editor
 role: User
 level: Beginner, Intermediate
-hide: yes
-hidefromtoc: yes
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
 ---
-# Parameterized fragments {#parameterized-fragments}
+# Customizable fragments {#customizable-fragments}
 
 When fragments are used in an email or email template, they are locked by default due to inheritance. This means any changes made to a fragment are automatically propagated to all assets where the fragment is used. With customizable fragments, specific fields within a fragment can be defined as editable when the fragment is added to an email or email template. For example, suppose you have a fragment with a banner, some text, and a button. You can designate certain fields, such as the image or button target URL, as editable. This allows users to modify these elements when they incorporate the fragment into their email/email template, providing a tailored experience without affecting the original fragment.
 
-By leveraging parameterized fragments, you can efficiently manage and personalize your content without creating entirely new content blocks or disrupting the inheritance from the original fragment. This ensures changes made at the fragment level are still propagated, while allowing for necessary customization at the email/email template level.
+By leveraging customizable fragments, you can efficiently manage and personalize your content without creating entirely new content blocks or disrupting the inheritance from the original fragment. This ensures changes made at the fragment level are still propagated, while allowing for necessary customization at the email/email template level.
 
 Both visual and expression fragments can be marked as customizable. For detailed instructions on how to proceed with each type of fragment, refer to the sections below.
 
