@@ -1983,6 +1983,8 @@ feature-set: Marketo Engage
   + [Current Release](release-notes/current.md)
   + [Dynamic Chat Release](release-notes/dynamic-chat.md)
   + Previous Releases {#previous-releases}
+    + 2025 {#2025}
+      + [Release Notes: January '25](release-notes/previous-releases/2025/release-notes-jan-25.md)
     + 2024 {#2024}
       + [Release Notes: January '24](release-notes/previous-releases/2024/release-notes-jan-24.md)
       + [Release Notes: March '24](release-notes/previous-releases/2024/release-notes-mar-24.md)
