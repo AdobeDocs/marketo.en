@@ -81,6 +81,10 @@ templates in the designer, reducing the need for external web developers. Howeve
 
 It does not have support for AMP at this time.
 
+**Can assets be edited via API in the new email designer?**
+
+Assets being edited via API is not supported in the new email designer at this time.
+
 **The dynamic content by attribute is great, but does the dynamic content by segment still work?**
 
 Currently, the new designer only supports attributes, but we are working on getting segments added in a future release.
