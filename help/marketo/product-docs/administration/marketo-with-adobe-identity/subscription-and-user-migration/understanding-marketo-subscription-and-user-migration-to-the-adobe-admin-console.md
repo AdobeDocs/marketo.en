@@ -34,7 +34,7 @@ The ID numbers of your assets remain the same. And previous links and bookmarks 
 
 Adobe will migrate your Marketo Engage subscription(s) to the Adobe Admin Console first, then migrate all existing users with verified email addresses. If you're a System Admin or Marketo Product Admin, you'll receive emails guiding you through the migration journey. Here's a timeline of what you can expect:
 
-![](assets/understanding-marketo-subscription-and-user-migration-1.png)
+![](assets/understanding-marketo-subscription-and-user-migration-1.png){width="800" zoomable="yes"}
 
 ### Subscription Migration Complete {#subscription-migration-complete}
 
