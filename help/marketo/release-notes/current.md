@@ -36,6 +36,16 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr> 
+   <td><strong>GenAI Features in Interactive Webinars</strong>: You can now generate chapters as well as a summary for On demand webinars. Edit and export an HTML file of your data.</td>
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
    <td><strong>Global and Workspace My Tokens</strong>: Configure my tokens both at the workspace and global level to enable enhanced productivity and control over brand and marketing collateral across Marketo Engage workspaces and even entire instances.</td> 
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
@@ -64,7 +74,7 @@ The following features fall under the standard release cycle and will start to b
   * Video Share
   * Sweepstakes
 
-As of then, users have been unable to create, clone, or embed any of those Social features in Marketo Engage. Existing Social assets continue to work through January 31, 2025. On February 1, 2025, Social assets will cease to function. Social features embedded in Landing Pages will need to be removed. [Learn more](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+As of then, users have been unable to create, clone, or embed any of those Social features in Marketo Engage. Existing Social assets continue to work through January 31, 2025. On February 1, 2025, Social assets ceased to function. Any social features embedded in Landing Pages will need to be removed. [Learn more](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **Rest API 'access_token' Parameter Deprecation**: The `access_token` query parameter used to authenticate Marketo REST API calls is being deprecated and will not be available after June 30, 2025. All new and existing integrations should authenticate REST API calls using the 'Authorization' header, [as described here](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
