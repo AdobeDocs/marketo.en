@@ -131,7 +131,7 @@ Audit Trail offers a great deal of insight into who's doing what in your Marketo
   </tr> 
   <tr> 
    <td>Edit</td> 
-   <td>Edit module <code>"<module name>" <attribute></code> to "value"</td> 
+   <td>Edit module <code>"&lt;module name&gt;" &lt;attribute&gt;</code> to "value"</td> 
   </tr> 
   <tr> 
    <td>Delete</td> 
