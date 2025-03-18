@@ -84,4 +84,4 @@ After you copy the content you want to use, paste it in the editor of your choic
 
 * Deleting the webinar also deletes the GenAI content.
 
-* For further clarification or a data deletion request, contact the Adobe Account Team (your Account Manager), or send an email to: `marketo-webinar-genai-alerts@adobe.com`.
+* If you want to delete the GenAI content without deleting the webinar, reach out to the Adobe Account Team (your Account Manager), or send a data deletion request to: `marketo-webinar-genai-alerts@adobe.com`.
