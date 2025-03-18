@@ -4,6 +4,7 @@ title: GenAI features
 feature: Interactive Webinars
 hide: yes
 hidefromtoc: yes
+exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
 ---
 # GenAI features {#gen-ai-features} 
 
