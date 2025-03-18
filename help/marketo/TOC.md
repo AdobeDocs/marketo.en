@@ -733,6 +733,7 @@ feature-set: Marketo Engage
         + [Promoting an Interactive Webinar](product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md)
         + [Modify or Delete an Interactive Webinar](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
         + [On-Demand Webinars](product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md)
+        + [GenAI Features](product-docs/demand-generation/events/interactive-webinars/gen-ai.md)
         + [Event Workflows](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
         + [Engagement Dashboard](product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md)
         + [Interactive Webinars in Marketo Sales Insight](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-in-marketo-sales-insight.md)
