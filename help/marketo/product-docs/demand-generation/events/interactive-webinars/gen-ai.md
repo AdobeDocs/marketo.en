@@ -25,7 +25,7 @@ Automatically generate chapters and summaries for your recorded webinars, making
 
 1. Click **Generate**.
 
-   ![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+   ![](assets/gen-ai-features-1.png){width="750" zoomable="yes"}
 
 1. A new tab opens, displaying AI-generated chapters and a text summary.
 
@@ -35,7 +35,7 @@ Automatically generate chapters and summaries for your recorded webinars, making
 
 1. If changes are needed, click the **Edit** button.
 
-   To make modifications:
+   Making modifications:
 
    * Edit text in the summary and/or the chapter titles.
 
@@ -49,14 +49,14 @@ Automatically generate chapters and summaries for your recorded webinars, making
 
      * To merge multiple chapters, you must do two at a time
 
-      ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+      ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
 
    >[!NOTE]
    >
    >If desired, you can rate the quality of the generated chapters/summary with the _thumbs-up_ ![Thumbs up icon](assets/icon-thumbs-up.png) or _thumbs-down_ ![Thumbs down icon](assets/icon-thumbs-down.png) icons. You can also flag any problematic content by clicking the flag icon ![Flag icon](assets/icon-flag.png).
 
-1. Save your changes by clicking the **Save** button in the top-left of the screen.
+1. Save your changes by clicking the **Save** button in the top-right of the screen.
 
 ## Use generated content {#use-generated-content}
 
@@ -82,4 +82,4 @@ After you copy the content you want to use, paste it in the editor of your choic
 
 * Deleting the webinar also deletes the GenAI content.
 
-* For further clarification or a data deletion request, contact the Adobe Account Team (your Account Manager), or email us here: `marketo-webinar-genai-alerts@adobe.com`.
+* For further clarification or a data deletion request, contact the Adobe Account Team (your Account Manager), or send an email to: `marketo-webinar-genai-alerts@adobe.com`.
