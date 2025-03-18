@@ -33,7 +33,7 @@ Automatically generate chapters and summaries for your recorded webinars, making
 
 1. Review the generated chapters and summary.
 
-2. If changes are needed, click the **Edit** button.
+1. If changes are needed, click the **Edit** button.
 
    To make modifications:
 
