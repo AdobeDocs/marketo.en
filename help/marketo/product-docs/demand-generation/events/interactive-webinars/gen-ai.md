@@ -51,10 +51,11 @@ Automatically generate chapters and summaries for your recorded webinars, making
 
       ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
-
    >[!NOTE]
    >
-   >If desired, you can rate the quality of the generated chapters/summary with the _thumbs-up_ ![Thumbs up icon](assets/icon-thumbs-up.png) or _thumbs-down_ ![Thumbs down icon](assets/icon-thumbs-down.png) icons. You can also flag any problematic content by clicking the flag icon ![Flag icon](assets/icon-flag.png).
+   >* If desired, you can rate the quality of the generated chapters/summary with the _thumbs-up_ ![Thumbs up icon](assets/icon-thumbs-up.png) or _thumbs-down_ ![Thumbs down icon](assets/icon-thumbs-down.png) icons. You can also flag any problematic content by clicking the flag icon ![Flag icon](assets/icon-flag.png).
+   >
+   >* If you are not satisfied with the initial summary, you can click the **Regenerate summary** button and another version will be generated.
 
 1. Save your changes by clicking the **Save** button in the top-right of the screen.
 
