@@ -26,7 +26,7 @@ Automatically generate chapters and summaries for your recorded webinars, making
 
 1. Click **Generate**.
 
-   ![](assets/gen-ai-features-1.png){width="750" zoomable="yes"}
+   ![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
 
 1. A new tab opens, displaying AI-generated chapters and a text summary.
 
@@ -50,7 +50,7 @@ Automatically generate chapters and summaries for your recorded webinars, making
 
      * To merge multiple chapters, you must do two at a time
 
-      ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
+      ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
