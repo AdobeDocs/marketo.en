@@ -81,6 +81,10 @@ After you've created the custom object structure, when you upload the specific c
 
    ![](assets/understanding-marketo-custom-objects-8.png)
 
+   >[!NOTE]
+   >
+   >In a person record, the Custom Object tab can display a maximum of 100 records, sorted by ID in descending order.
+
 ## Using Custom Objects with Companies {#using-custom-objects-with-companies}
 
    A custom object that's linked to the company works best if you sync down companies from the CRM or if you explicitly create companies using the API. We also recommend that you use the Company ID as the link field.
