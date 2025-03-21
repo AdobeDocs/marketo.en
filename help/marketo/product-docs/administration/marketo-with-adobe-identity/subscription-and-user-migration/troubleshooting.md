@@ -14,7 +14,7 @@ This article, for users who perform self migrations, lists each error message yo
 
 >[!NOTE]
 >
->The directory/domain-related errors can be triggered by another org/Admin Console where a directory trust is set up or the domain has been claimed.  
+>The directory/domain-related errors can be triggered by another org/Admin Console where a directory trust is set up, or the domain has been claimed.  
 
 ## Error Messages {#error-messages}
 
@@ -60,11 +60,9 @@ _If the user does **not** need to be migrated_ - Marketo Engage admin to skip th
 
 _If the user needs to be migrated_ (and the domain enforcement is enabled in the migrating org) - The email address must be updated in Marketo Engage to comply with the Domain Enforcement (DE) policy. Alternatively, the System Admin can either [move the domain](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} to another Domain Enforcement (DE) disabled directory, or [create a new directory](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"} that isn't under DE policy. Marketo Engage admin to then rerun the user migration for this user from the Migration Console.
 
-_If the user needs to be migrated_ (and the domain enforcement is enabled in another org)- a system administrator of the org where the domain has been claimed needs to add the user's email address to the exception list. Marketo Engage admin to then rerun the user migration for this user from the Migration Console. 
+_If the user needs to be migrated_ (and the domain enforcement is enabled in another org) - a system administrator of the org where the domain has been claimed needs to add the user's email address to the exception list. Marketo Engage admin to then rerun the user migration for this user from the Migration Console. 
 
 _If the user does **not** need to be migrated_ - Marketo Engage admin to skip the user in the Migration Console. The "Migration Complete" button appears when all users are accounted for by migrating or skipping. Click the button to conclude the user migration process.
-
-**The following error messages all have the same root cause/resolution...**
 
 ### User Creation Failed {#user-creation-failed}
 
