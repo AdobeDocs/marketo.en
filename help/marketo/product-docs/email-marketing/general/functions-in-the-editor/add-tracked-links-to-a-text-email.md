@@ -12,7 +12,9 @@ feature: Email Editor
 >* [Create a Text Only Email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
 >* [Edit Elements in an Email](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
 
-Text email links can be tracked in Marketo. Let's see how it works. 1. Select your email and click Edit Draft.
+Text email links can be tracked in Marketo. Let's see how it works.
+
+1. Select your email and click **Edit Draft**.
 
 ![](assets/one-9.png)
 
@@ -24,6 +26,10 @@ Text email links can be tracked in Marketo. Let's see how it works. 1. Select yo
 
    ![](assets/three-8.png)
 
+   >[!CAUTION]
+   >
+   >If an email was sent over 365 days ago **and** no one has clicked on any of its links in the last 180 days, Marketo Engage prunes the route to the URL from our database, which will cause the link to break. If you need the link to be permanent, do not use tracking. 
+
 1. Close out of the editor, and don't forget to approve the draft.
 
    ![](assets/four-6.png)
@@ -31,9 +37,3 @@ Text email links can be tracked in Marketo. Let's see how it works. 1. Select yo
 >[!NOTE]
 >
 >The mktNoTok class functionality does not work with trackable links in text emails. Only for HTML emails.
-
->[!TIP]
->
->Test it out to double-check. Make sure you entered the brackets correctly.
-
-Nice work!

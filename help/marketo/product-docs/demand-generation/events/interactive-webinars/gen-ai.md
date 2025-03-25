@@ -76,7 +76,7 @@ After you copy the content you want to use, paste it in the editor of your choic
 
 ## Things to note {#things-to-note}
 
-* Deleting or merging chapters only affects the chapter stack, not the video content itself. These actions are irreversible
+* Deleting or merging chapters only affects the chapter stack, not the video content itself. These actions are permanent.
 
 * The GenAI features are flexible and can be used with various web page editors, not just the ones in Marketo Engage.
 

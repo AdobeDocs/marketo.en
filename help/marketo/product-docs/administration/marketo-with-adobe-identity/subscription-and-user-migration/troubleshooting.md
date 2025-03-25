@@ -1,8 +1,6 @@
 ---
 description: Adobe IMS User Migration Troubleshooting Guide - Marketo Docs - Product Documentation
 title: Adobe IMS User Migration Troubleshooting Guide
-hide: yes
-hidefromtoc: yes
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
 ---
