@@ -41,6 +41,7 @@ Yes. The integration with Adobe IMS supports Universal ID users and SSO. SSO is 
 * Adobe Product Admin is a read-only role and can't be edited or deleted from Marketo Engage.  
 * Adobe Product Admin has the same rights and privileges as a standard Marketo Admin.
 * Marketo Engage Admin's role is still an Admin and is granted to a user in Marketo Engage.
+* Only users with the Marketo default Admin role are assigned as a Marketo Product Admin in the Admin Console.
 
 **Is there any change in User Management API client support?**
 
