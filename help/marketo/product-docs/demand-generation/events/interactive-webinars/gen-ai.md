@@ -10,6 +10,10 @@ exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
 
 Automatically generate chapters and summaries for your recorded webinars, making them more accessible and easier to navigate for your audience.
 
+>[!PREREQUISITES]
+>
+>Before using these features, you must first accept the Adobe GenAI terms and conditions. If you have yet to do so, please reach out to the Adobe Account Team (your Account Manager) for details.
+
 * **Automatic Chapter Generation**: AI-powered technology creates chapters for your webinar content.
 
 * **AI-generated Summary**: Get an automated text summary of your webinar.

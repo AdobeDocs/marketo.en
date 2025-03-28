@@ -41,8 +41,6 @@ When a new person is created, Marketo checks it against the master email status 
 
 If you change the email address of a person to an unsubscribed email address, that person will be unsubscribed. This change can occur in either Marketo or Salesforce.
 
-If you change an unsubscribed email address to one that is subscribed, that person will become subscribed.
-
 ## Re-subscribing {#re-subscribing}
 
 Just as an unsubscribe would cause all people with the same email address to become unsubscribed, a resubscribe would in fact resubscribe every person with the same email address.
