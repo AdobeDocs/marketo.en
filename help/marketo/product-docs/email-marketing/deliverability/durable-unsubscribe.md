@@ -21,15 +21,15 @@ There are several ways a person can be re-subscribed.
 
 In Salesforce, **clear** the Email Opt Out field on the lead/contact's record. This will sync to Marketo.
 
-![](assets/one.png)
+![Salesforce screen](assets/durable-unsubscribe-1.png)
 
 In Marketo, **clear** the unsubscribed box in the Info tab of the person's record.
 
-![](assets/two.png)
+![Clearing the unsubscribe box in a person record](assets/durable-unsubscribe-2.png)
 
 Run a **Change Data Value** flow step as shown below on one or many people.
 
-![](assets/three.png)
+![Change data value flow step](assets/durable-unsubscribe-3.png)
 
 Update an existing person via SOAP API.
 
