@@ -19,15 +19,15 @@ If the unsubscribe flag is set from false to true, the master email status is up
 
 There are several ways a person can be re-subscribed.
 
-In Salesforce, **clear** the Email Opt Out field on the lead/contact's record. This will sync to Marketo.
+In Salesforce, clear the Email Opt Out field on the lead/contact's record. This will sync to Marketo.
 
 ![Salesforce screen](assets/durable-unsubscribe-1.png)
 
-In Marketo, **clear** the unsubscribed box in the Info tab of the person's record.
+In Marketo, clear the unsubscribed box in the Info tab of the person's record.
 
 ![Clearing the unsubscribe box in a person record](assets/durable-unsubscribe-2.png)
 
-Run a **Change Data Value** flow step as shown below on one or many people.
+Run a _Change Data Value_ flow step as shown below on one or many people.
 
 ![Change data value flow step](assets/durable-unsubscribe-3.png)
 
