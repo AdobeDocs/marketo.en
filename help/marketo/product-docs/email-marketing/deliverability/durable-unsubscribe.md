@@ -31,8 +31,6 @@ Run a _Change Data Value_ flow step as shown below on one or many people.
 
 ![Change data value flow step](assets/durable-unsubscribe-3.png)
 
-Update an existing person via SOAP API.
-
 ## Creating a New Person {#creating-a-new-person}
 
 When a new person is created, Marketo checks it against the master email status table. If the person was previously unsubscribed, we'll update the record to be unsubscribed.
