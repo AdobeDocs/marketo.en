@@ -27,8 +27,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
     <tr> 
    <td><strong>Email Designer Available in All Programs</strong>: The New Email Designer emails are now accessible across Engagement, Default, and Event Programs (with the lone exception of Interactive Webinar Programs). Previously they were only available in Email Programs. With this update, cloning becomes available as well.</td>
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td>&nbsp;</td> 

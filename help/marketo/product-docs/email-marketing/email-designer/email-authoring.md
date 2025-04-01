@@ -345,7 +345,7 @@ To preview your email content, click **Simulate content**, then add a test profi
 
 ## Reference an email {#reference-an-email}
 
-If you created your email inside an Email Program, it can only be used in that program. If you created your email in the Design Studio, it can be referenced from Smart Campaigns and/or Smart Lists like you would with any other email.
+Email Designer emails are accessible across Email, Engagement, Default, and Event Programs (with the lone exception of Interactive Webinar Programs). If you created your email in the Design Studio, it can be referenced from Smart Campaigns and/or Smart Lists like you would with any other email.
 
 * Reference it in a Smart List by [following the usual steps](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 

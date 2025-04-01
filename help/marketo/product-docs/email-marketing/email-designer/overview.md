@@ -10,9 +10,7 @@ exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
 
 Welcome to the new Adobe Marketo Engage Email Designer.
 
-The email designer is the latest innovation in Marketo Engage intended to provide a revamped email and email template creation experience to improve productivity and efficiency by providing a visual drag-and-drop editor along with standard out-of-the-box templates. Easily create customized email templates without having to spend money on vendors. 
-
-Emails created in the new designer can be used in Email Programs as well as Smart Lists/Campaigns. Powerful new enhancements to the designer are coming soon.
+The email designer is the latest innovation in Marketo Engage intended to provide a revamped email and email template creation experience to improve productivity and efficiency by providing a visual drag-and-drop editor along with standard out-of-the-box templates. Easily create customized email templates without having to spend money on vendors.
 
 ## How to access {#how-to-access}
 
@@ -59,6 +57,10 @@ In order to access the new email designer, your Marketo Engage subscription must
 **Will the old email editor continue to function? If so, for how long?**
 
 Yes, the old (classic) email editor will co-exist with the new email designer. Emails created in the classic editor will remain. There is no date as to when the classic editor will be deprecated at this time, but it will continue to function throughout 2025.
+
+**Which programs can I use the New Email Designer emails in?**
+
+New Email Designer emails are accessible across all programs (with the lone exception of Interactive Webinar Programs). Cloning is available as well.
 
 **Will our existing email templates work in the new designer? If not, do we need to create templates using the new designer so all the sections/modules correspond to how we want our content to look?**
 

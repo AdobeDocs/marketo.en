@@ -299,7 +299,7 @@ From the **More** options in the content editor, you can take the following acti
 
 In the _Email templates_ listing page, click the name of an email template to view its details.
 
-   ![](assets/view-template-details-1.png
+   ![](assets/view-template-details-1.png)
 
 Basic details like name and description can be edited. Click outside of the field you edited to save your changes.
 
