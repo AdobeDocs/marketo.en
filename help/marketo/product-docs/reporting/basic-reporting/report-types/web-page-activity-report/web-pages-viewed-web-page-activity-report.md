@@ -13,13 +13,13 @@ From a [Web Page Activity report](/help/marketo/product-docs/reporting/basic-rep
 >
 >To capture activity from your web site in Marketo, you first need to  [set up Munchkin on your site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. In your [Web Page Activity report](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), click the number in the Page Views column.
+1. In your [Web Page Activity report](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), click the name of the person.
 
-   ![](assets/image2014-9-16-14-3a54-3a8.png)
+   ![](assets/web-pages-viewed-web-page-activity-report-1.png)
 
-1. You're there! A new window opens, showing the list of pages on your site that the person visited, and when.
+1. A new tab opens, showing the list of pages on your site that the person visited, and when.
 
-   ![](assets/image2014-9-16-14-3a54-3a12.png)
+   ![](assets/web-pages-viewed-web-page-activity-report-2.png)
 
    >[!MORELIKETHIS]
    >

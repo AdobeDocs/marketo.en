@@ -22,7 +22,7 @@ You can choose to display known people or anonymous people, but not both kinds o
 
 1. You've got it! Review your report to see who is visiting your site.
 
-   ![](assets/image2017-3-29-9-3a21-3a36.png)
+   ![](assets/web-page-activity-report-1.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -45,7 +45,7 @@ You can choose to display known people or anonymous people, but not both kinds o
  <tbody> 
   <tr> 
    <td>Person</td> 
-   <td>The visitor's name, title, and company.<br><strong>Click</strong> to view person details and activity history.</td> 
+   <td>The visitor's name, title, and company.<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">Click</a></strong> to view pages visited.</td>
   </tr> 
   <tr> 
    <td>First/Last Visit (Time zone)</td> 
@@ -53,7 +53,7 @@ You can choose to display known people or anonymous people, but not both kinds o
   </tr> 
   <tr> 
    <td>Page Views</td> 
-   <td>Number of pages loaded by this visitor.<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">Click</a></strong> to view which pages were visited.</td> 
+   <td>Number of pages loaded by this visitor.</td>
   </tr> 
   <tr> 
    <td>HTTP Referer</td> 
