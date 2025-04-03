@@ -1059,6 +1059,7 @@ feature-set: Marketo Engage
         + [Remove Stream Content](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
     + Email Designer {#email-designer}
         + [Overview](product-docs/email-marketing/email-designer/overview.md)
+        + [Feature Comparison](product-docs/email-marketing/email-designer/feature-comparison.md)
         + [Email Authoring](product-docs/email-marketing/email-designer/email-authoring.md)
         + [Email Template Authoring](product-docs/email-marketing/email-designer/email-template-authoring.md)
         + [Work with AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)

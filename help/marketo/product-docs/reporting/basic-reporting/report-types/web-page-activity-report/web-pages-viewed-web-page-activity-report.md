@@ -23,4 +23,4 @@ From a [Web Page Activity report](/help/marketo/product-docs/reporting/basic-rep
 
    >[!MORELIKETHIS]
    >
-   >Create a  [Company Web Activity report](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) to see which companies are visiting your site.
+   >Create a [Company Web Activity report](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) to see which companies are visiting your site.
