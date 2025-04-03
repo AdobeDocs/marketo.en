@@ -8,6 +8,7 @@ role: User
 level: Beginner, Intermediate
 hide: yes
 hidefromtoc: yes
+exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
 ---
 # Email Designer/Email Editor Feature Comparison {#feature-comparison}
 
