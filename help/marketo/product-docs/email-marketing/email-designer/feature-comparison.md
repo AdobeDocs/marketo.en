@@ -85,7 +85,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
   </tr>
   <tr>
     <td>Email Settings</td>
-    <td>Ability to configure email settings such as DKIM, Spam settings, Branding Domain, and more.</td>
+    <td>Ability to configure email settings such as DKIM, Spam settings, and more.</td>
     <td>Available</td>
     <td>Available</td>
   </tr>
@@ -134,7 +134,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
   <tr>
     <td>Save Content as Fragment</td>
     <td>Ability to save a portion of the content as a fragment.</td>
-    <td>Available</td>
+    <td>Not Available</td>
     <td>Available</td>
   </tr>
   <tr>
