@@ -6,8 +6,6 @@ description: Use this table to compare the availability of features in our previ
 feature: Email Editor
 role: User
 level: Beginner, Intermediate
-hide: yes
-hidefromtoc: yes
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
 ---
 # Email Designer/Email Editor Feature Comparison {#feature-comparison}
@@ -26,7 +24,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
 <tbody>
   <tr>
     <td>OOTB Starter Email Templates</td>
-    <td>Ability to use OOTB templates provided by the Email Designer.</td>
+    <td>Ability to use out-of-the-box templates provided by the Email Designer.</td>
     <td>Available</td>
     <td>Available</td>
   </tr>
@@ -92,7 +90,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
   </tr>
   <tr>
     <td>AI Assistant</td>
-    <td>Ability to generate subject line, portion of content, or entire email through Generative AI Models.</td>
+    <td>Ability to generate subject line, portion of content, or entire email through <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md">Generative AI</a> models.</td>
     <td>Not Available</td>
     <td>Available</td>
   </tr>
@@ -104,7 +102,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
   </tr>
   <tr>
     <td>Content Locking</td>
-    <td>Ability to lock content in an email template so it cannot be modified when creating emails.</td>
+    <td>Ability to <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md">lock content</a> in an email template so it cannot be modified when creating emails.</td>
     <td>Not Available</td>
     <td>Available</td>
   </tr>
@@ -158,7 +156,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
   </tr>
   <tr>
     <td>Integration with Adobe Express</td>
-    <td>Ability to create/modify images using Adobe Express.</td>
+    <td>Ability to create/modify images using <a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md">Adobe Express</a>.</td>
     <td>Not Available</td>
     <td>Available</td>
   </tr>
@@ -172,7 +170,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Modules</td>
     <td>Ability to pre-create specific structure and content presets to be reused across emails.</td>
     <td>Available</td>
-    <td>Available as Customizable Fragment</td>
+    <td>Available as <a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md">Customizable Fragment</a></td>
   </tr>
   <tr>
     <td>AEM Assets Cloud Service Integration</td>
@@ -235,6 +233,18 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Coming soon</td>
   </tr>
   <tr>
+    <td>Velocity Scripting</td>
+    <td>Ability to use Velocity scripting in emails.</td>
+    <td>Available</td>
+    <td>Not Needed</td>
+  </tr>
+   <tr>
+    <td>Handlebar Scripting</td>
+    <td>Ability to use Handlebar scripting in emails.</td>
+    <td>Not Available</td>
+    <td>Planned for Q3 '25</td>
+  </tr>
+  <tr>
     <td>Litmus Integration</td>
     <td>Ability to integrate with Litmus to see how your emails will render in different email clients.</td>
     <td>Not Available</td>
@@ -249,12 +259,6 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
   <tr>
     <td>Spam Assassin Integration</td>
     <td>Ability to detect potential of emails getting marked as Spam before delivery.</td>
-    <td>Not Available</td>
-    <td>Planned for Q3 '25</td>
-  </tr>
-  <tr>
-    <td>Handlebar Scripting</td>
-    <td>Ability to use Handlebar scripting in emails.</td>
     <td>Not Available</td>
     <td>Planned for Q3 '25</td>
   </tr>
@@ -294,10 +298,5 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Available</td>
     <td>Not Available</td>
   </tr>
-  <tr>
-    <td>Velocity Scripting</td>
-    <td>Ability to use Velocity scripting in emails.</td>
-    <td>Available</td>
-    <td>Not Needed</td>
-  </tr>
 </tbody></table>
+ 
