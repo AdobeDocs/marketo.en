@@ -4,6 +4,7 @@ title: Add SSL to Your Landing Pages
 hide: yes
 hidefromtoc: yes
 feature: Landing Pages
+exl-id: 00ec2d91-3d4f-4671-af9d-9750c1642d40
 ---
 # Add SSL to Your Landing Pages {#add-ssl-to-your-landing-pages}
 
@@ -39,4 +40,4 @@ SCREENSHOT
 >
 >* The SSL Certificate column in the listing shows certificate status for all the domain alias created after this feature is released (DATE). If you had the SSL enabled for a domain through Marketo Support, the certificate will continue to exist, but won't show in the table. This table only reflects SSL certificates for domains added using the steps in this article. 
 >
->* It can take up to three minutes for the SSL to be in READY state. You must refresh the page for the changes to appear. 
+>* It can take up to three minutes for the SSL to be in READY state. You must refresh the page for the changes to appear.
