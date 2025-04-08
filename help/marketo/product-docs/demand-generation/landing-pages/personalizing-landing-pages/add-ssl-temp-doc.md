@@ -35,8 +35,8 @@ This automatically adds an SSL certificate for this domain.
 
 SCREENSHOT
 
-Note: 
-
-SSL Certificate column in the listing will show SSL certificate status for all the domain alias created after this feature is released. If you have got the SSL enabled for a domain through support then respective SSL certificate will continue to exist but this table only reflects SSL certificates for domain added using this feature 
-
-It can take upto 3 mins for SSL to be in READY state, and one needs to refresh the page for changes to propagate on UI. 
+>[!NOTE]
+>
+>* The SSL Certificate column in the listing shows certificate status for all the domain alias created after this feature is released (DATE). If you had the SSL enabled for a domain through Marketo Support, the certificate will continue to exist, but won't show in the table. This table only reflects SSL certificates for domains added using the steps in this article. 
+>
+>* It can take up to three minutes for the SSL to be in READY state. You must refresh the page for the changes to appear. 

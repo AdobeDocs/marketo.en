@@ -52,6 +52,8 @@ In order to access the new email designer, your Marketo Engage subscription must
 
 * [Lock content in email templates](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: Learn how to lock content in email templates, helping to prevent unintentional edits or deletions.
 
+* [Feature comparison](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: Compare the availability of features in the previous email editor (Email Editor 2.0) and the new Email Designer.
+
 ## FAQ {#faq}
 
 **Will the old email editor continue to function? If so, for how long?**
