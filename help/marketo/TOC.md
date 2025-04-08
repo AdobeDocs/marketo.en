@@ -1862,6 +1862,9 @@ feature-set: Marketo Engage
         + Field Organizers {#field-organizers}
           + [Using Field Organizers](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
           + [Create Custom Field Groups Using the Field Organizer](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
+      + Advanced BI Analytics {#advanced-bi-analytics}
+        + [Advanced BI Analytics Overview](product-docs/reporting/advanced-bi-analytics/overview.md)
+        + [Metrics and Dimensions](product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
   + Target Account Management {#target-account-management}
     + Setup {#setup}
       + [Target Account Management Overview](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
