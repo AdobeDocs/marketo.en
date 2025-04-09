@@ -64,7 +64,7 @@ Watch the following video to see an example of a multi-page, drill-through repor
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
-## Standard Reports in Advanced BI Analytics {#standard-reports}
+## Standard reports in Advanced BI Analytics {#standard-reports}
 
 The following standard reports are included as examples for your custom reports.
 
