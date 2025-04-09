@@ -7,29 +7,29 @@ feature: Reporting
 ---
 # Advanced BI Analytics Overview {#advanced-bi-analytics-overview}
 
-Advanced BI Analytics (formerly known as Revenue Explorer and Advanced Report Builder) offers a flexible reporting and visualization interface on Marketo Engage data, providing granular details about progression, performance, and more. It features richer interactivity and visualization, faster performance, and more seamless and intuitive user experience.
+Advanced BI Analytics (formerly known as Revenue Explorer and Advanced Report Builder) offers a flexible reporting and visualization interface on Marketo Engage data, providing granular details about progression, performance, and more. It features richer interactivity and visualization, faster performance, and a more seamless and intuitive user experience.
 
 These enhancements help you save time, discover more valuable insights, drive optimization, and share more compelling data stories with colleagues and stakeholders.
 
 >[!PREREQUISITES]
 >
->To access this feature you must have purchased the Advanced BI Analytics add-on. Please contact the Adobe Account Team (your Account Manager) for details.
+>To access this feature, you must have purchased the Advanced BI Analytics add-on. Please contact the Adobe Account Team (your Account Manager) for details.
 
 ## Key features and benefits {#key-features-and-benefits}
 
-* **High-performance Query Engine**: Delivers 5x faster performance on large datasets, enabling quicker data processing, faster report loading, and a smoother analysis experience.
+* **High-performance Query Engine**: Delivers 5x faster performance on large datasets, enabling quicker data processing, faster report loading, and a smoother analytic experience.
 
-* **Rich and Engaging Visualization**: Vast, expanded collection of built-in visualization options, including charts, maps, and KPI indicators that make dashboards more insightful and impactful and dramatically enhance data storytelling.
+* **Rich and Engaging Visualization**: Vast, expanded collection of built-in visualization options, including charts, maps, and KPI indicators, that make dashboards more insightful and impactful and significantly enhance data storytelling.
 
 * **Advanced Interactivity and Dynamic Filtering**: Apply dynamic slicers, cross-filtering, and interdependent filters across visuals. Multi-page reports support advanced drill-down, drill-up, and drill-through, ensuring effortless data exploration.
 
-* **Intuitive Report Authoring Interface**: A point-and-click experience simplifies report creation, including multi-page drill-through reports. The interface allows business users to design complex, interactive reports without requiring deep technical expertise.
+* **Intuitive Report Authoring Interface**: A point-and-click experience simplifies report creation, including multi-page drill-through reports. The interface allows users to design complex, interactive reports without requiring deep technical expertise.
 
 * **Easy Sharing, Including PowerPoint Export**: Built-in sharing functionality makes sharing insights effortless. Among other destinations, users can easily generate presentation-ready PowerPoint slides.
 
 ## Create a report {#create-a-report}
 
-1. In your My Marketo page, click the **Advanced BI Analytics (Beta)** tile.
+1. In your My Marketo, click the **Advanced BI Analytics (Beta)** tile.
 
    SCREENSHOT
 
@@ -168,7 +168,7 @@ The following standard reports are included as examples for your custom reports.
 
 ## Things to note {#note}
 
-The public beta will last until June 1, 2025, upon which time the classic experience through "Revenue Explorer" will be permanently deprecated.
+The public beta will run through June 1, 2025, upon which time the classic experience via "Revenue Explorer" will be permanently deprecated.
 
 _During the public beta:_
 
@@ -177,30 +177,31 @@ _During the public beta:_
 
    >[!IMPORTANT]
    >
-   >Important - Replication of custom reports will be carried out in cohorts. Once your custom reports are replicated to the new experience, to ensure consistency between the two experiences, any changes made in the classic experiences will also need to be manually applied to the corresponding reports in the new experience. An information note on the above will light up in the classic experience upon the replication of your customer reports.
+   >Replication of custom reports will be carried out in cohorts. Once your custom reports are replicated to the new experience, to ensure consistency between the two experiences, any changes made in the classic experience will also need to be manually applied to the corresponding reports in the new experience. An information note on the above will light up in the classic experience upon the replication of your customer reports.
 
-   * Dashboards in the classic experience are not transferable and will require recreation within the new experience. They should be recreated as reports in the new experience and the filters in the new experience automatically pulls possible values rather than require you to manually enter all possible values individually in the classic experience.
+   * Dashboards in the classic experience are not transferable and will require recreation in the new experience. They should be recreated as reports in the new experience and the filters in the new experience automatically pulls possible values rather than requiring you to manually enter all possible values individually in the classic experience.
       
       >[!NOTE]
       >
-      >The dashboard in the new experience is nothing other than a collection of reports on a single page. The primary value of dashboard in the new experience is to allow you to present analytical insights across different reporting areas.
+      >The dashboard in the new experience is simply a collection of reports on a single page. The primary value of dashboard in the new experience is to allow you to present analytical insights across different reporting areas.
 
-* Your email subscriptions in the classic experience will be replicated to the new experience. The email subscriptions in the classic experience will continue functioning until the deprecation of the classic experience.
-* Your current Revenue Explorer users will automatically have access to the new Advanced BI Analytics (Beta) experience.
+* Your email subscriptions in the classic experience will be replicated to the new experience. The email subscriptions in the classic experience will continue functioning until the deprecation of the classic experience on June 1, 2025.
+
+* Existing Revenue Explorer users automatically have access to the new Advanced BI Analytics (Beta) experience.
 
 ## Learning the new experience {#learning-the-new-experience} 
 
 The new visualization experience is delivered via embedded Power BI service.
 
-For a quick tutorial on the visualization experience, visit Microsoft's [Use visuals in Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"}.
+For a quick tutorial on the visualization experience, visit Microsoft's [Use visuals in Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} documentation.
 
 ### Notable experience changes {#notable-experience-changes}
 
-The following are changes in the new experience (Advanced BI Analytics) from the old experience (Revenrue Explorer/Advanced Report Builder).
+The following are changes in the new experience (Advanced BI Analytics) from the classic experience (Revenue Explorer/Advanced Report Builder).
 
 * The date-type filter functions equivalently; however, the syntax for specifying values changed. In your existing custom reports, all date-type filter values&mdash;except for "Day of the Week"&mdash;are automatically converted to their corresponding equivalents in the new experience. Support for "Day of the Week" values has been discontinued.
 
-* The string-type filters are now case sensitive.
+* The string-type filters are now case-sensitive.
 
 * Runtime formula field in the classic experience is no longer supported.
 
@@ -208,10 +209,9 @@ The following are changes in the new experience (Advanced BI Analytics) from the
 
 * Deep link of report is not supported at this time.
 
-* Report folder experience is not available at this time and was temporarily replaced by a flat list with type-ahead search. The name of the replicated report will carry the folder path, e.g. /folder1/folder2/report.
+* Report folder experience is not available at this time and was temporarily replaced by a flat list with type-ahead search. The name of the replicated report will carry the folder path, e.g., `/folder1/folder2/report`.
 
 * PDF export is synchronous in the new experience, compared to being asynchronous in the classic experience.
-Notable issues
 
 >[!NOTE]
 >
