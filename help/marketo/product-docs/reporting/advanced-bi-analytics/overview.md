@@ -4,6 +4,7 @@ title: Advanced BI Analytics Overview
 hide: yes
 hidefromtoc: yes
 feature: Reporting
+exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
 ---
 # Advanced BI Analytics Overview {#advanced-bi-analytics-overview}
 
