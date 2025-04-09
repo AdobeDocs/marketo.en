@@ -50,7 +50,7 @@ These enhancements help you save time, discover more valuable insights, drive op
 
    SCREENSHOT
 
-1. Add filters by drag-and-droping a dimension attribute.
+1. Add filters by drag-and-dropping a dimension attribute.
 
    SCREENSHOT
 
