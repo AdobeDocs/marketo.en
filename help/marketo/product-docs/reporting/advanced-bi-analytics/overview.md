@@ -16,6 +16,10 @@ These enhancements help you save time, discover more valuable insights, drive op
 >
 >To access this feature, you must have purchased the Advanced BI Analytics add-on. Please contact the Adobe Account Team (your Account Manager) for details.
 
+>[!NOTE]
+>
+>If you have any questions about this feature while it's in beta (through June 1, 2025), please send an email to: `adobe-marketo-advanced-bi-analytics-public-beta@adobe.com`.
+
 ## Key features and benefits {#key-features-and-benefits}
 
 * **High-performance Query Engine**: Delivers 5x faster performance on large datasets, enabling quicker data processing, faster report loading, and a smoother analytic experience.
@@ -30,29 +34,29 @@ These enhancements help you save time, discover more valuable insights, drive op
 
 ## Create a report {#create-a-report}
 
-1. In your My Marketo, click the **Advanced BI Analytics (Beta)** tile.
+1. In your My Marketo, click the **[!UICONTROL Advanced BI Analytics (Beta)]** tile.
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
-1. In the **Reports** tab, click **Create Report**.
+1. In the **[!UICONTROL Reports]** tab, click **[!UICONTROL Create Report]**.
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-2.png){width="800" zoomable="yes"}
 
 1. Select the desired measures.
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-3.png){width="800" zoomable="yes"}
 
 1. Select the desired dimensions.
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-4.png){width="800" zoomable="yes"}
 
 1. Choose your preferred visualization.
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-5.png){width="800" zoomable="yes"}
 
 1. Add filters by drag-and-dropping a dimension attribute.
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}
 
 ## Video demo {#video}
 
@@ -178,7 +182,7 @@ _During the public beta:_
 
    >[!IMPORTANT]
    >
-   >Replication of custom reports will be carried out in cohorts. Once your custom reports are replicated to the new experience, to ensure consistency between the two experiences, any changes made in the classic experience will also need to be manually applied to the corresponding reports in the new experience. An information note on the above will light up in the classic experience upon the replication of your customer reports.
+   >Replication of custom reports will be carried out in groups. Once your custom reports are replicated to the new experience, to ensure consistency between the two experiences, any changes made in the classic experience will also need to be manually applied to the corresponding reports in the new experience. An information note on the above will light up in the classic experience upon the replication of your customer reports.
 
    * Dashboards in the classic experience are not transferable and will require recreation in the new experience. They should be recreated as reports in the new experience and the filters in the new experience automatically pulls possible values rather than requiring you to manually enter all possible values individually in the classic experience.
       
@@ -194,7 +198,7 @@ _During the public beta:_
 
 The new visualization experience is delivered via embedded Power BI service.
 
-For a quick tutorial on the visualization experience, visit Microsoft's [Use visuals in Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} documentation.
+For a quick tutorial on the visualization experience, visit Microsoft's [Use visuals in Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} documentation. Please note that you may not see all of those features in Marketo Engage.
 
 ### Notable experience changes {#notable-experience-changes}
 
@@ -217,8 +221,3 @@ The following are changes in the new experience (Advanced BI Analytics) from the
 >[!NOTE]
 >
 >You cannot include more than one Custom Field Group field in a visual for Model Performance Analysis (Leads) reporting area.
-
->[!MORELIKETHIS]
->
->[Metrics and Dimensions](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
- 
