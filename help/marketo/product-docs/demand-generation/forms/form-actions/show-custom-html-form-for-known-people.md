@@ -7,7 +7,7 @@ feature: Forms
 ---
 # Show Custom HTML Form for Known People {#show-custom-html-form-for-known-people}
 
-If a visitor is cookied (known person who provided an email address in the past), then why bother with the form? Just give them the download button. Here's how.
+If a visitor has provided their full name and email address in the past, and you don't want them to get the whole form, learn how to show them some custom HTML (e.g., just a download button).
 
 1. Go to **Marketing Activities**.
 
