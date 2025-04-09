@@ -1,14 +1,16 @@
 ---
 description: Metrics and Dimensions - Marketo Docs - Product Documentation
 title: Metrics and Dimensions
-hide: yes
-hidefromtoc: yes
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
 ---
 # Metrics and Dimensions {#metrics-and-dimensions}
 
 Below you'll find all the metrics and dimensions available for the revenue cycle explorer analysis report.
+
+>[!TIP]
+>
+>If any of the tables appear to be too scrunched, you can expand the view by clicking the left (![](assets/icon-left-arrow.png)) and right (![](assets/icon-right-arrow.png)) arrows towards the top of this page, collapsing the left and right sidebars.
 
 ## Dimensions and Measures {#dimensions-and-measures}
 

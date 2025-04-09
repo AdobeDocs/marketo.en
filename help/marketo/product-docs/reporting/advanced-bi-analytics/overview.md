@@ -1,8 +1,6 @@
 ---
 description: Advanced BI Analytics Overview - Marketo Docs - Product Documentation
 title: Advanced BI Analytics Overview
-hide: yes
-hidefromtoc: yes
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
 ---
@@ -221,3 +219,7 @@ The following are changes in the new experience (Advanced BI Analytics) from the
 >[!NOTE]
 >
 >You cannot include more than one Custom Field Group field in a visual for Model Performance Analysis (Leads) reporting area.
+
+>[!MORELIKETHIS]
+>
+>[Metrics and Dimensions](help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}
