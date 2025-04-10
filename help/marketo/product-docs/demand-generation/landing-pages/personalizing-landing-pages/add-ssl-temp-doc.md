@@ -14,31 +14,39 @@ When you fill out a web form or visit a Landing Page that's hosted by Marketo En
 
 Marketo Engage tracks "Visited Web Page" and "Click Link on Web Page" by default over non-secure HTTP protocol. If you want to have your tracking links secured with their own certificate, you need to have Marketo build a separate non-shared server to enable it. To secure all aspects of a contact's interaction with you typically means securing both Landing Pages and tracking links.
 
-SCREENSHOT
-
 ## Enable SSL certification {#enable-ssl-certification}
 
 Automatically add SSL for all the domain aliases you create as part of the Landing Page rules.
 
 1. Go to the **Admin** area.
 
-   SCREENSHOT
+   ![](assets/add-ssl-to-your-landing-pages-1.png)
 
 1. Select **Landing Pages** from the tree. In the **Rules** tab, click the **New** drop-down and select **New Domain Alias**.
 
-   SCREENSHOT
+   ![](assets/add-ssl-to-your-landing-pages-2.png)
 
-1. Select the **Generate SSL Certificate** checkbox.  
+1. Enter your _Domain Alias_ and _Default Page_. Select the **Generate SSL Certificate** checkbox. Click **Create** when done.
 
-   SCREENSHOT
+   ![](assets/add-ssl-to-your-landing-pages-3.png)
 
-This automatically adds an SSL certificate for this domain. 
-
-   SCREENSHOT
+This automatically adds an SSL certificate for this domain.
 
 ## Enable SSL for your default domain {#enable-ssl-default-domain}
 
-SCREENSHOT
+Follow the steps below to enable SSL for your default domain.
+
+1. Still in the **Admin** section, select **Landing Pages**. Click the orange **Edit** button next to _Settings_.
+
+   ![](assets/add-ssl-to-your-landing-pages-4.png){width="800" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >If desired, you can also modify the domain name here (valid domain required).
+
+1. Select the "Generate SSL Certificate" checkbox and click Save.
+
+   ![](assets/add-ssl-to-your-landing-pages-5.png)
 
 >[!NOTE]
 >
