@@ -13,11 +13,11 @@ Marketo Engage provides fine-grain control over the Salesforce custom object syn
 >
 >**Admin Permissions Required**
 
-1. Click **[!UICONTROL Admin]**.
+1. Got to the **[!UICONTROL Admin]** area.
 
-   ![](assets/image2014-12-10-13-3a9-3a47.png)
+   ![](assets/add-remove-custom-object-field-1.png)
 
-1. Click **[!UICONTROL Admin]** and then **[!UICONTROL Salesforce Objects Sync]**.
+1. Click **[!UICONTROL Salesforce Objects Sync]**.
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 

@@ -15,17 +15,17 @@ Custom Objects created in your Salesforce instance can be part of Marketo Engage
 >
 >**Admin permissions required**
 
-1. Click **[!UICONTROL Admin]**.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/one.png)
+   ![](assets/enable-disable-custom-object-sync-1.png)
 
 1. In the Database Management menu, click **[!UICONTROL Salesforce Objects Sync]**.
 
-   ![](assets/two-2.png)
+   ![](assets/enable-disable-custom-object-sync-2.png)
 
 1. If this is your first Custom Object, click **[!UICONTROL Sync schema]**. Otherwise click **[!UICONTROL Refresh Schema]** to ensure you have the latest.
 
-   ![](assets/image2014-12-10-10-3a14-3a44.png)
+   ![](assets/enable-disable-custom-object-sync-3.png)
 
 1. If your global sync is running you will have to disable it by clicking **[!UICONTROL Disable Global Sync]**.
 

@@ -9,9 +9,13 @@ feature: Salesforce Integration
 
 If you don't use Marketo Sales Insight, Marketo Engage can create Salesforce Activity History Records for certain events. Here's how to enable them.
 
+>[!NOTE]
+>
+>The Salesforce/Marketo Engage sync will not push any activities to Salesforce that occurred prior to the person getting pushed to Salesforce.
+
 1. Go to **[!UICONTROL Admin]**.
 
-   ![](assets/admin.png)
+   ![](assets/customize-activities-sync-1.png)
 
 1. Click **[!DNL Salesforce]**, then click **[!UICONTROL Edit Sync Options]**.
 
