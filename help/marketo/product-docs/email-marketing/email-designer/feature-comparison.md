@@ -24,7 +24,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
 <tbody>
   <tr>
     <td>OOTB Starter Email Templates</td>
-    <td>Ability to use out-of-the-box templates provided by the Email Designer.</td>
+    <td>Ability to use <a href="/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#choose-a-template" target="_blank">out-of-the-box templates</a> provided by the Email Designer.</td>
     <td>Available</td>
     <td>Available</td>
   </tr>
@@ -66,7 +66,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
   </tr>
   <tr>
     <td>Upload Image/File</td>
-    <td>Ability to upload an image from your local system.</td>
+    <td>Ability to <a href="/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-assets" target="_blank">upload an image</a> from your local system.</td>
     <td>Available</td>
     <td>Available</td>
   </tr>
@@ -90,7 +90,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
   </tr>
   <tr>
     <td>AI Assistant</td>
-    <td>Ability to generate subject line, portion of content, or entire email through <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md">Generative AI</a> models.</td>
+    <td>Ability to generate subject line, portion of content, or entire email through <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md" target="_blank">Generative AI</a> models.</td>
     <td>Not Available</td>
     <td>Available</td>
   </tr>
@@ -102,7 +102,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
   </tr>
   <tr>
     <td>Content Locking</td>
-    <td>Ability to <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md">lock content</a> in an email template so it cannot be modified when creating emails.</td>
+    <td>Ability to <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md" target="_blank">lock content</a> in an email template so it cannot be modified when creating emails.</td>
     <td>Not Available</td>
     <td>Available</td>
   </tr>
@@ -132,7 +132,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
   </tr>
   <tr>
     <td>Save Content as Fragment</td>
-    <td>Ability to save a portion of the content as a fragment.</td>
+    <td>Ability to save a portion of the <a href="/help/marketo/product-docs/email-marketing/email-designer/fragments.md#save-a-new-fragment-from-email-or-template-content" target="_blank">content as a fragment</a>.</td>
     <td>Not Available</td>
     <td>Available</td>
   </tr>
@@ -156,7 +156,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
   </tr>
   <tr>
     <td>Integration with Adobe Express</td>
-    <td>Ability to create/modify images using <a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md">Adobe Express</a>.</td>
+    <td>Ability to create/modify images using <a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md" target="_blank">Adobe Express</a>.</td>
     <td>Not Available</td>
     <td>Available</td>
   </tr>
@@ -170,7 +170,7 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Modules</td>
     <td>Ability to pre-create specific structure and content presets to be reused across emails.</td>
     <td>Available</td>
-    <td>Available as <a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md">Customizable Fragment</a></td>
+    <td>Available as <a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md" target="_blank">Customizable Fragment</a></td>
   </tr>
   <tr>
     <td>AEM Assets Cloud Service Integration</td>

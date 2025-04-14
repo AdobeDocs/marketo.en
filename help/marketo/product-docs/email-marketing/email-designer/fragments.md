@@ -8,7 +8,11 @@ exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
 ---
 # Fragments
 
-A fragment is a reusable component that can be referenced in one or more emails and email templates. It is usually a block of content (text, image, or both) that can be quickly inserted into your project. With this functionality, you can prebuild multiple custom content blocks to assemble email content for an improved design process. Common use cases include header/footer content blocks for email, event invite banners, seasonal messages, and more.
+A fragment is a reusable component that can be referenced in one or more emails and email templates. It is usually a block of content (text, image, or both) that can be quickly inserted into your project. With this functionality, you can prebuild multiple custom content blocks to assemble email content for an improved design process. Common use cases include header/footer content blocks for email, event invite banners, seasonal messages, and more. 
+
+>[!NOTE]
+>
+>Fragments are the equivalent of [Snippets](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md){target="_blank"} in the old Email Editor.
 
 To make the best use of fragments in your workflows:
 
