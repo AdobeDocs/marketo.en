@@ -50,17 +50,7 @@ The following features fall under the standard release cycle and will start to b
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
-  <tr> 
-   <td>&nbsp;</td> 
-   <td>&nbsp;</td>
-   <td>&nbsp;</td>
-  </tr>
-  <tr> 
-   <td><strong>Tokens for any Trigger Attribute</strong>: Expands the list of available trigger tokens from just the list in <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments" target="_blank">this document</a> to support using data from any triggering activity attribute in campaign flow fields. Print data from an activity attribute into an Interesting Moment, or set a lead's Latest Transaction ID from a custom activity into a lead field.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
-  </tr>
- </tbody> 
+  </tbody> 
 </table>
 <br/> 
 
