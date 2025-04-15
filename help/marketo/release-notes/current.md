@@ -47,8 +47,8 @@ The following features fall under the standard release cycle and will start to b
   </tr>
   <tr> 
    <td><strong>Global and Workspace My Tokens</strong>: Configure my tokens both at the workspace and global level to enable enhanced productivity and control over brand and marketing collateral across Marketo Engage workspaces and even entire instances.</td> 
-   <td><i>Coming Soon</i></td>
-   <td><i>Coming Soon</i></td>
+   <td>Shipped</td>
+   <td>n/a</td>
   </tr>
   </tbody> 
 </table>
