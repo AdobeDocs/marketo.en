@@ -143,6 +143,12 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
     <td>Available</td>
   </tr>
   <tr>
+    <td>Email Reporting</td>
+    <td>Ability to view emails in Marketo Engage Analytics.</td>
+    <td>Available</td>
+    <td>Available</td>
+  </tr>
+  <tr>
     <td>Usage of Emails in Campaigns and Programs</td>
     <td>Ability to use the New Designer Emails in Campaigns and Programs.</td>
     <td>Available</td>
@@ -271,12 +277,6 @@ Please check this page (as well as the [current release notes](/help/marketo/rel
   <tr>
     <td>Experimentation (A/B Testing)</td>
     <td>Ability to test emails before sending them out to your audience.</td>
-    <td>Available</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>Email Reporting</td>
-    <td>Ability to view emails in Marketo Engage Analytics.</td>
     <td>Available</td>
     <td>TBD</td>
   </tr>
