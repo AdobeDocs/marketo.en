@@ -82,6 +82,22 @@ After you copy the content you want to use, paste it in the editor of your choic
 
 **Copy HTML** - Click the **[!UICONTROL Copy HTML]** button to get all of the recording and its chapters formatted inside of a video player.
 
+## Target your audience
+
+Leverage Smart Campaign/List filters and/or triggers to see what each viewer watched, how many times, etc., allowing for personalized follow-ups.
+
+![](assets/gen-ai-features-4.png){width="800" zoomable="yes"}
+
+* **Triggers**: _Clicks Link on Web Page_, _Visits Web Page_
+
+* **Filters**: _Clicked Link on Web Page_, _Visited Web Page_
+
+The "link" is the name of the chapter, and the "web page" is the page that hosts your On Demand webinar.
+
+>[!TIP]
+>
+>Use [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} to further refine your target audience.
+
 ## Things to note {#things-to-note}
 
 * Deleting or merging chapters only affects the chapter stack, not the video content itself. These actions are permanent.
