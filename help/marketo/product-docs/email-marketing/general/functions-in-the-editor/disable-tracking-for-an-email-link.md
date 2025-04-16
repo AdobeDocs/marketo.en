@@ -39,10 +39,6 @@ Also, if an email was sent over 365 days ago **and** no one has clicked on any o
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 
-   >[!TIP]
+   >[!CAUTION]
    >
-   >Want to disable click-tracking for a link in an email **template**? Use this format:
-   >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`  
-   >If you need help implementing this, please consult your web developer.
-
-Nice! You have now disabled tracking for a link.
+   >If you want to disable click-tracking for a link in an Email Template, or the [text version](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md){target="_blank"} of an email, add the `mktNoTrack` at the *beginning* of the string, not the end, like in this example: `<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`. Otherwise, it could cause the link to disappear. If you need help implementing the above code, please consult your web developer.
