@@ -15,8 +15,8 @@ When you've enabled LinkedIn Lead Gen Forms, you can use them as filters and tri
 
 1. Use the **Fills Out LinkedIn Lead Gen Form** trigger to take action immediately or the **Filled Out LinkedIn Lead Gen Form** filter for scheduled batch campaigns or standard smart list filtering.
 
-   ![](assets/screen-shot-2017-03-29-at-2.38.03-pm.png)
+   ![](assets/use-linkedin-lead-gen-form-filters-and-triggers-1.png)
 
 1. Add constraints to further confine your results.
 
-   ![](assets/lead-gen-constraints.png)
+   ![](assets/use-linkedin-lead-gen-form-filters-and-triggers-2.png)

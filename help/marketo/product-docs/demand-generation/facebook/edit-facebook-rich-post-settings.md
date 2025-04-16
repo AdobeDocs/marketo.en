@@ -3,6 +3,8 @@ unique-page-id: 2950555
 description: Edit Facebook Rich Post Settings - Marketo Docs - Product Documentation
 title: Edit Facebook Rich Post Settings
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
+hide: yes
+hidefromtoc: yes
 feature: Integrations
 ---
 # Edit Facebook Rich Post Settings {#edit-facebook-rich-post-settings}
@@ -13,7 +15,7 @@ Customize posts when people share you on Facebook.
 >
 >Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
-Marketo [social apps](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) allow your leads to share your landing pages with their connections on social networks such as Facebook, Twitter, etc. Facebook OpenGraph tags (OG tags) allow you to specify which information from your landing page is included in Facebook posts.
+Marketo _social apps_ allow your leads to share your landing pages with their connections on social networks such as Facebook, Twitter, etc. Facebook OpenGraph tags (OG tags) allow you to specify which information from your landing page is included in Facebook posts.
 
 ## Select Rich Post Options {#select-rich-post-options}
 

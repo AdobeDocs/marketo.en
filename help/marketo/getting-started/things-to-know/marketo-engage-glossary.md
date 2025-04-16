@@ -627,11 +627,7 @@ Below are definitions for many of the terms you may encounter when using Marketo
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
    <td colspan="1">In Marketo's <strong>Target Account Management</strong>, personas are a subset of an audience, allowing for more specific targeting.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>Poll</strong></a></td> 
-   <td colspan="1">A poll in Marketo is just like a regular poll. Create a topic for people to vote on and share it on your Marketo <strong>landing pages</strong>, your website, and/or social media.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td> 
     <div> 
