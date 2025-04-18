@@ -2,6 +2,7 @@
 description: Release Notes - March 2025 - Marketo Docs - Product Documentation
 title: Release Notes - March 2025
 feature: Release Information
+exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
 ---
 # Release Notes: March 2025 {#release-notes-mar-25}
 
@@ -71,4 +72,4 @@ As of then, users have been unable to create, clone, or embed any of those Socia
 
 * **New Analytics Feature - Public Beta**: [Advanced BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (formerly known as Revenue Explorer and Advanced Report Builder) begins rolling out to all current Revenue Cycle Explorer users in mid-April. This new tool offers a flexible reporting and visualization interface on Marketo Engage data, providing granular details about progression, performance, and more. It features richer interactivity and visualization, faster performance, and a more seamless and intuitive user experience.
 
-To access this feature, you must have purchased the Advanced BI Analytics add-on. Please contact the Adobe Account Team (your Account Manager) for details. 
+To access this feature, you must have purchased the Advanced BI Analytics add-on. Please contact the Adobe Account Team (your Account Manager) for details.
