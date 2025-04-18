@@ -47,7 +47,7 @@ The following features fall under the standard release cycle and will start to b
   <tr> 
    <td><strong>Global and Workspace My Tokens</strong>: Configure my tokens both at the workspace and global level to enable enhanced productivity and control over brand and marketing collateral across Marketo Engage workspaces and even entire instances.</td> 
    <td>Shipped</td>
-   <td>n/a</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md#create-a-my-token">Create a global My Token</a></td>
   </tr>
   </tbody> 
 </table>
