@@ -32,7 +32,7 @@ After you've accepted the Adobe GenAI terms and conditions, the next step is to 
 
 1. After conducting your on-demand webinar, wait 30 to 60 minutes for the AI to process your recording. The Generate button will become clickable when it's available.
 
-1. Click **[!UICONTROL Generate]**.
+1. Click **[!UICONTROL View GenAI Content]**.
 
    ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
 

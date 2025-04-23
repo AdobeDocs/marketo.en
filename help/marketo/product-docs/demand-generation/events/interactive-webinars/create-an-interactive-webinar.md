@@ -36,13 +36,13 @@ Create an Interactive Webinar in a few easy steps.
 
    ![](assets/create-an-interactive-webinar-5.png)
 
-1. Give your webinar a title. Set its maximum audience size and how long it will last.
+1. Give your webinar a title and decide how long it will last.
 
    ![](assets/create-an-interactive-webinar-6.png)
 
    >[!NOTE]
    >
-   >* The webinar's title is visible to participants when they join. It is important that the title is different from the name of the Interactive Webinars Event Program in your Marketo Engage instance, as well as the name of the webinar room.
+   >* The webinar's title **is** visible to participants when they join. It's important that the title is different from the name of the Interactive Webinars Event Program in your Marketo Engage instance, as well as the name of the webinar room.
    >
    >* You cannot reuse a webinar title. Each one must be unique in your Marketo instance.
    >
@@ -50,7 +50,7 @@ Create an Interactive Webinar in a few easy steps.
    >
    >* If you create a test webinar, it needs to be deleted before its start time to ensure that the license for that webinar does not get utilized.
 
-1. Schedule the date/time of your webinar and click **Create**.
+1. Schedule the date/time of your webinar, change the time zone (if desired), and set the maximum audience size. Click **Create** when done.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
