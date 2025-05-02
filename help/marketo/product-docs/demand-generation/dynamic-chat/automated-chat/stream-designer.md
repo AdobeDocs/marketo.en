@@ -19,7 +19,7 @@ The Stream Designer contains multiple cards you can add to shape the chat conver
 <table>
  <tr>
   <td style="width:25%"><strong>Message</strong></td>
-  <td>Use when you want to make a statement with no response necessary (ex: "Hi! All items are 25% off today with code SAVE25").
+  <td style="width:75%">Use when you want to make a statement with no response necessary (ex: "Hi! All items are 25% off today with code SAVE25").
 </td>
  </tr>
  <tr>
@@ -103,7 +103,7 @@ You can create streams for Dialogues or [Conversational Forms](/help/marketo/pro
 
    ![](assets/stream-designer-6.png)
 
-1. Drag and drop the [!UICONTROL Question] card.
+1. Drag and drop the _[!UICONTROL Question]_ card.
 
    ![](assets/stream-designer-7.png)
 
@@ -131,7 +131,7 @@ You can create streams for Dialogues or [Conversational Forms](/help/marketo/pro
    >
    >**[!UICONTROL Edit Stored Values]** is an optional step for those who'd like to store a different value in the database than what's being displayed to visitors in the chatbot for mapped attributes in the Question card (ex: visitor sees "Search Engine Optimization," you store that value as "SEO.").
 
-1. For "Yes" we want to schedule an appointment, so below that option drag over the Appointment Scheduler card.
+1. For "Yes" we want to book a meeting, so below that option, drag over the _Meeting booking_ card.
 
    ![](assets/stream-designer-10.png)
 
