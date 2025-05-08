@@ -12,6 +12,10 @@ Welcome to the new Adobe Marketo Engage Email Designer.
 
 The email designer is the latest innovation in Marketo Engage intended to provide a revamped email and email template creation experience to improve productivity and efficiency by providing a visual drag-and-drop editor along with standard out-of-the-box templates. Easily create customized email templates without having to spend money on vendors.
 
+>[!NOTE]
+>
+>While the Email Designer can be accessed in all major browsers, full functionality in Firefox is not supported at this time.
+
 ## How to access {#how-to-access}
 
 +++Learn how to access the email designer
@@ -96,3 +100,7 @@ Currently, the new designer only supports attributes, but we are working on gett
 **How can I tell if our Marketo Engage subscription has been migrated to IMS (the Adobe Admin Console)?**
 
 If you log in to Marketo Engage via the [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}, your subscription has been migrated.
+
+**Which browsers can I use with the new Email Designer?**
+
+It is recommended to use Google Chrome, Apple Safari, or Microsoft Edge. Full support for Mozilla Firefox will be available at a later date.
