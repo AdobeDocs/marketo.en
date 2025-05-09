@@ -135,15 +135,15 @@ You can create streams for Dialogues or [Conversational Forms](/help/marketo/pro
 
    ![](assets/stream-designer-10.png)
 
-1. In the column on the right, click **[!UICONTROL Save]**.
+1. Choose your routing option and click **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-11.png)
 
-1. Since that's a goal, drag the [!UICONTROL Goal] card below the Appointment Scheduler.
+1. Since that's a goal, drag the _[!UICONTROL Goal]_ card below the Meeting booking.
 
    ![](assets/stream-designer-12.png)
 
-1. Name your goal (or choose an existing one) and click **[!UICONTROL Save]**.
+1. Name your goal (or choose an existing one) and click **[!UICONTROL Save]**. Assigning a conversation score is optional.
 
    ![](assets/stream-designer-13.png)
 
@@ -159,38 +159,19 @@ You can create streams for Dialogues or [Conversational Forms](/help/marketo/pro
    >
    >You can add more responses by clicking **[!UICONTROL Add Response]**.
 
-1. Below the "Yes" response, drag over the Info Capture card so you can collect the visitor's email.
+1. Below the "Yes" response, drag over the _Info Capture_ card so you can collect the visitor's email.
 
    ![](assets/stream-designer-16.png)
 
-1. Click the **[!UICONTROL Type]** drop-down and select **[!UICONTROL Email]**.
+1. Click the drop-down and select **[!UICONTROL Email Address]**.
 
    ![](assets/stream-designer-17.png)
 
-1. Enter a chatbot message and placeholder. Make sure the attribute is mapped to the appropriate field in Marketo Engage and click **[!UICONTROL Save]**.
+1. Enter a chatbot message and placeholder. If there's already a value for this attribute in your database, choose whether you want to skip, or have this data overwrite it. Click **[!UICONTROL Save]** when done.
 
    ![](assets/stream-designer-18.png)
 
-   <table>
-    <tr>
-     <td style="width:30%"><strong>Type</strong></td>
-     <td>The type of info you want to capture: Phone, Text, Email.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Chatbot Message</strong></td>
-     <td>The message the visitor sees prompting them to provide the info.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Placeholder</strong></td>
-     <td>Sample text helping the visitor see what to enter.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Map Response to Attribute</strong></td>
-     <td>Allows you to sync the vistor's response to the corresponding field in their Person record in your Marketo Engage subscription.</td>
-    </tr>
-   </table>
-
-1. Since collecting their email is a goal, drag the [!UICONTROL Goal] card below Info Capture.
+1. Since collecting their email is a goal, drag the _[!UICONTROL Goal]_ card below Info Capture.
 
    ![](assets/stream-designer-19.png)
 
@@ -206,13 +187,9 @@ You can create streams for Dialogues or [Conversational Forms](/help/marketo/pro
 
    ![](assets/stream-designer-22.png)
 
-1. Select the **[!UICONTROL Preview]** toggle to preview your Dialogue.
-
-   ![](assets/stream-designer-23.png)
-
 1. When you're ready to activate your Dialogue, click **[!UICONTROL Publish]**.
 
-   ![](assets/stream-designer-24.png)
+   ![](assets/stream-designer-23.png)
 
 >[!NOTE]
 >
