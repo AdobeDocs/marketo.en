@@ -39,7 +39,7 @@ Your sales team can send emails and have them tracked for opens and clicks direc
 
    >[!NOTE]
    >
-   >You can send up to 2000 Marketo emails at a time.
+   >You can send up to 300 Marketo emails at a time.
 
 Nicely done! Now you know how to send Marketo tracked emails directly from within Microsoft Dynamics.
 
