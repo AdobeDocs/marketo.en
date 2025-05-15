@@ -22,13 +22,15 @@ As part of the migration, your subscription and user management will move from w
 
 * **Users will sign in with Adobe Identity**. Adobe will migrate existing users to the Adobe Admin Console. Users will sign in to their Marketo subscriptions using their new Adobe Identity - either an Adobe ID or Adobe Federated ID (SSO).
 
-* **URLs will look different after migration**. After migration, Marketo Engage will go from being served from experience.adobe.com to Adobe Experience Cloud. You'll need to work with your IT team to allowlist all Adobe domains listed [at the top of this article](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} to prevent disruption to Marketo Engage access. 
+* **URLs will look different after migration**. Marketo Engage will go from being served from experience.adobe.com to Adobe Experience Cloud, and the URLs will be in the following format: `https://experience.adobe.com/#/@tenantID/so:XXX-XXX-XXX/marketo-engage/classic/` (the XXXs represent the Munchkin ID, and @tenantID is from your Adobe org). You'll need to work with your IT team to allowlist all Adobe domains listed [at the top of this article](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} to prevent disruption to Marketo Engage access.
 
 The ID numbers of your assets remain the same. And previous links and bookmarks to Marketo Engage assets on the engage-xx.marketo.com domain _will_ continue to function. However, you must first log in to the Marketo Engage instance for the URL you are navigating to. For example, to navigate to a bookmark for a Smart Campaign in instance with Munchkin ID 123-ABC-456, you need to first log in to the Marketo Engage instance with Munchkin ID 123-ABC-456.
 
+While not planned, future development work can break this redirect function. To avoid unexpected interruptions, it is recommended to update bookmarks at your earliest convenience.
+
 ## What is Not Changing? {#what-is-not-changing}
 
-* **There is no change to how you manage all other functionality** within the Marketo Engage application itself, including management of features, user roles, workspaces, functionality, and behavior.
+* **There is no change to how you manage all other functionality** within the Marketo Engage application itself, including management of features, user roles, workspaces, functionality, and behavior. Local (API-only) user management remains in the _Users and Roles_ tab in the Marketo Admin area.
 
 ## Migration Journey Timeline {#migration-journey-timeline}
 
@@ -88,11 +90,11 @@ As a Marketo Product Admin, you're encouraged to ensure all users are prepared f
 
 All Marketo subscriptions with a U.S. timezone will be migrated starting at midnight, Pacific Standard Time, of the migration start date. User migration for all other subscriptions will begin at midnight of the subscription's specified timezone.
 
-**Adobe will automatically migrate Marketo Admins first**. When Marketo Admins are migrated to Adobe Identity, they will be assigned the Adobe Product Admin role within the Marketo application along with any other roles they previously had.
+**Adobe will automatically migrate Marketo Admins (with a standard Admin role) first**. When Marketo Admins are migrated to Adobe Identity with an Admin Console Product Administrator role, they will be assigned the Adobe Product Admin role within the Marketo application along with any other roles they previously had.
 
-**If your Marketo subscription has less than 75 users and does not have SSO in Marketo and/or your Adobe Org**, Adobe will automatically migrate the rest of your users. This workflow aims to deliver the highest level of automation to minimize overhead for Adobe Marketo users. No action on your part is required to execute the migration.
+**If your Marketo subscription does not have SSO in Marketo and/or your Adobe Org**, Adobe will automatically migrate the rest of your users. This workflow aims to deliver the highest level of automation to minimize overhead for Adobe Marketo users. No action on your part is required to execute the migration.
 
-**If your Marketo subscription has over 75 users or has SSO in Marketo and/or your Adobe Org**, Marketo Product Admins will gain access to the Self-Service User Migration area of the Marketo Migration Console, located in the Marketo Admin Area. For those who need greater control during the user migration process, Marketo Product Admins will be able to begin selecting users to migrate in batches or all at one time. Once users are selected, Admins have the option to "Migrate Now" or "Schedule Migration" for a later date, giving Admins ultimate flexibility and control over which users are migrated when.
+**If your Marketo subscription has SSO in Marketo and/or your Adobe Org**, Marketo Admins will gain access to the Self-Service User Migration area of the Marketo Migration Console, located in the Marketo Admin Area. For those who need greater control during the user migration process, Marketo Admins will be able to begin selecting users to migrate in batches or all at one time. Once users are selected, Admins have the option to "Migrate Now" or "Schedule Migration" for a later date, giving Admins ultimate flexibility and control over which users are migrated when.
 
 >[!NOTE]
 >

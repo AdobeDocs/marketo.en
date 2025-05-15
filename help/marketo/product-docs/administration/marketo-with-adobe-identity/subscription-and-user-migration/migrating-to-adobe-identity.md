@@ -28,7 +28,7 @@ The administrator can choose a date between 8 and 30 days in the future. When a 
 
 All Marketo subscriptions with a U.S. time zone will be migrated starting at midnight, Pacific Standard Time, of the user migration start date. User migration for all other subscriptions will begin at midnight of the subscription's specified time zone. When a subscription's user migration begins, user management will no longer be available in the Marketo Admin area, and will only be achieved in the Adobe Admin Console. Role management remains in the Users and Roles tab in the Marketo Admin area, as well as local (API-only) user management.
 
-Adobe will automatically migrate all Marketo Admins with verified emails first. When Marketo Admins are migrated to Adobe Identity, they will be added to the subscription's Adobe Admin Console as a Product Administrator for the Marketo subscription and be assigned the Adobe Product Admin role within the Marketo application (along with any other roles they previously had) and have their Adobe ID entitled to the subscription. The administrators will receive two emails. One indicating being assigned as an Adobe Product Administrator, and the other indicating their Adobe ID being entitled to the Marketo product.
+Adobe will automatically migrate all Marketo Admins (with a standard Admin role) with verified emails first. When Marketo Admins are migrated to Adobe Identity, they will be added to the subscription's Adobe Admin Console as a Product Administrator for the Marketo subscription and be assigned the Adobe Product Admin role within the Marketo application (along with any other roles they previously had) and have their Adobe ID entitled to the subscription. The administrators will receive two emails. One indicating being assigned as an Admin Console Product Administrator, and the other indicating their Adobe ID being entitled to the Marketo product.
 
 >[!IMPORTANT]
 >
@@ -42,9 +42,9 @@ Adobe will automatically migrate all Marketo Admins with verified emails first. 
 
 ![](assets/migrating-to-adobe-identity-5.png)
 
-**If your Marketo subscription has less than 75 users and does not have SSO in Marketo and/or your Adobe Org**, Adobe will automatically migrate the rest of your users. This workflow aims to deliver the highest level of automation, and no action is required to execute the migration. Upon migration completion, the Marketo Migration Console will no longer appear in the Marketo Admin navigation area and all users will access Marketo using an Adobe ID.
+**If your Marketo subscription does not have SSO in Marketo and/or your Adobe Org**, Adobe will automatically migrate the rest of your users. This workflow aims to deliver the highest level of automation, and no action is required to execute the migration. Upon migration completion, the Marketo Migration Console will no longer appear in the Marketo Admin navigation area and all users will access Marketo using an Adobe ID.
 
-**If your Marketo subscription has 75 or more users or has SSO in Marketo and/or your Adobe Org**, Marketo Product Admins will gain access to the Self-Service User Migration tool of the Migration Console upon user migration beginning and be alerted via banner upon login on the My Marketo page. The administrator will be responsible for completing the user migration using the Self-Service User Migration tool. 
+**If your Marketo subscription has SSO in Marketo and/or your Adobe Org**, Marketo Admins will gain access to the Self-Service User Migration tool of the Migration Console upon user migration beginning and be alerted via banner upon login on the My Marketo page. The administrator will be responsible for completing the user migration using the Self-Service User Migration tool. 
 
 ![](assets/migrating-to-adobe-identity-6.png)
 
@@ -205,7 +205,7 @@ An administrator can select one or more users to schedule migration on a later d
 
 >[!NOTE]
 >
->The 'Schedule Migration' button will only be active if all selected users have a Verification Status of "Verified."  
+>The 'Scheduled Migration' button will only be active if all users have a verification Status of "Verified" and Migration Status of "Not Started" or "Adobe ID Created."
 
 Upon clicking the **Schedule Migration** button, the administrator will be prompted to select the desired migration date of the selected user(s). The administrator can only select dates before the subscription's migration expiration date. When the administrator confirms, the user migration(s) will be scheduled to begin processing on the selected date.
 

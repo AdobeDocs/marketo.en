@@ -22,13 +22,15 @@ Existing Marketo Engage subscriptions are currently being migrated to the Adobe 
 
 **After migration, will Marketo Engage URLs remain the same?**
 
-No. URLs will look different after migration.
+No. URLs will appear in the following format after migration: `https://experience.adobe.com/#/@tenantID/so:XXX-XXX-XXX/marketo-engage/classic/` (the XXXs represent the Munchkin ID, and @tenantID is from your Adobe org).
 
 **Is there anything we need to do to prepare for the URL change?**
 
 Yes. After migration, Marketo Engage will go from being served from experience.adobe.com to Adobe Experience Cloud. You'll need to work with your IT team to allowlist all Adobe domains listed [at the top of this article](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} to prevent disruption to Marketo Engage access.
 
 Previous links and bookmarks to Marketo Engage assets on the engage-xx.marketo.com domain _will_ continue to function. However, you must first log in to the Marketo Engage instance for the URL you are navigating to. For example, to navigate to a bookmark for a Smart Campaign in instance with Munchkin ID 123-ABC-456, you need to first log in to the Marketo Engage instance with Munchkin ID 123-ABC-456.
+
+While not planned, future development work can break this redirect function. To avoid unexpected interruptions, it is recommended to update bookmarks at your earliest convenience.
 
 **Does this work with SSO?**
 
@@ -117,13 +119,13 @@ Current Marketo Engage users with logins different from their email address will
 
 When subscriptions are onboarded to Adobe Identity, IP restriction settings do not get migrated to the Adobe Admin Console. Marketo's IP restriction settings include allowing only access from specific IP addresses, and blocking specific IP addresses from access. At this time, Adobe Identity Management System does not support IP restriction features.  
 
-Coming in early 2025, Adobe Identity Management System will release a feature to support allowing only specific IP addresses, supporting a transition for Marketo users currently utilizing this feature. Those who currently use this feature will not undergo user migration until the feature is released. Once the feature is delivered, users will be notified of their migration being scheduled. More information about the feature will be provided when available. 
+Coming in mid-2025, Adobe Identity Management System will release a feature allowing only specific IP addresses, supporting a transition for Marketo users currently utilizing this feature. Those who currently use this feature will not undergo user migration until the feature is released. Once the feature is delivered, users will be notified of their migration being scheduled. More information about the feature will be provided when available. 
 
 Users who currently use the IP restriction, blocking specific addresses from access, will no longer be able to use this feature after being migrated to Adobe Identity, as it is not supported by Adobe Identity Management System. 
 
 **What happens after Adobe Identity migration if I have users with a role that has the option to 'Bypass Single Sign On'?**
 
-When subscriptions are onboarded to Adobe Identity, Single Sign On (SSO) is set up at the Adobe Organization level for all users. When SSO is set up, it will be enforced for all Marketo users/all Marketo instances in that Adobe Org. Previously, Marketo supported allowing a user role to be set up to have the option to 'Bypass Single Sign On.' This is not supported by Adobe Identity Management System. 
+Adobe Admin Console comes with a default Business ID directory. Users outside of the domains claimed in Federated ID directories in an Adobe Org will be assigned to this directory with an Adobe ID identity type. These users will be able to access Marketo Engage without going through Single Sign On (SSO) and the license ownership remains with the company, not the individuals. 
 
 **I have more than one subscription, but not all have Single Sign On enabled. What happens after Adobe Identity migration?**
 
