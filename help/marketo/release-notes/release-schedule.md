@@ -39,7 +39,7 @@ _Release dates/features are subject to change_
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">April '25</a></td>
    <td>April '25</td>
-   <td>On Schedule</td>
+   <td>In Progress</td>
   </tr>
   <tr> 
    <td>May '25</td>
@@ -54,6 +54,21 @@ _Release dates/features are subject to change_
   <tr> 
    <td>July '25</td>
    <td>July 25, 2025</td>
+   <td>On Schedule</td>
+  </tr>
+  <tr> 
+   <td>August '25</td>
+   <td>August 22, 2025</td>
+   <td>On Schedule</td>
+  </tr>
+  <tr> 
+   <td>September '25</td>
+   <td>September 19, 2025</td>
+   <td>On Schedule</td>
+  </tr>
+  <tr> 
+   <td>October '25</td>
+   <td>October 17, 2025</td>
    <td>On Schedule</td>
   </tr>
  </tbody>
