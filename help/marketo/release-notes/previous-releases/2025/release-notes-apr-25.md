@@ -2,6 +2,7 @@
 description: Current Release Notes - Marketo Docs - Product Documentation
 title: Current Release Notes
 feature: Release Information
+exl-id: 94010780-41aa-4212-a1d4-1b78806bd728
 ---
 # Release Notes: April 2025 {#release-notes-apr-25}
 
