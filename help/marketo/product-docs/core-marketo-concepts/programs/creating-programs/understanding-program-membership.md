@@ -9,21 +9,17 @@ feature: Programs
 
 >[!NOTE]
 >
->Marketo is now standardizing language across all subscriptions, so you may see lead/leads in your subscription and person/people in our docs. These terms mean the same thing; it does not affect article instructions. There are some other changes, too. [Learn more](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md){target="_blank"}.
-
->[!NOTE]
->
 >**Definition:** A member is a person that has a status in a program.
 
 ## How People Become Members of a Program {#how-people-become-members-of-a-program}
 
 1. A person fills out a [form on a landing page](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} in the program.
 
-    1. Person will automatically have the first status in the progression.
+   * Person will automatically have the first status in the progression.
 
 1. You [import members into the program](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"} from a CSV file.
 
-    1. Person will automatically have the first status in the progression.
+   * Person will automatically have the first status in the progression.
 
 1. You use the [change program status](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"} flow step.
 1. A person registers or attends a [webinar synced with an event program](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"}.

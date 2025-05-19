@@ -26,6 +26,16 @@ The following features fall under the standard release cycle and will start to b
    <th style="width:25%">Documentation</th>
   </tr>
   <tr> 
+   <td><strong>Template Compatibility for Email Designer</strong>: Email templates from the classic email editor are now compatible with the new <a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">Email Designer</a>.</td>
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
    <td><strong>Trigger tokens for any attribute</strong>: Expanded list of trigger tokens to support using data from any activity attribute in Smart Campaign fields.</td> 
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
