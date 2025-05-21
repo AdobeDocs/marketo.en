@@ -11,7 +11,7 @@ Connect your _Adobe Experience Manager Assets as a Cloud Service_ account to you
 >
 >Currently, only image assets from _Adobe Experience Manager Assets_ are supported in Marketo Engage. Changes to the assets must be done from the Adobe Experience Manager Assets central repository. [Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
-## Access the AI Assistant Content Accelerator {#access-the-ai-assistant-content-accelerator}
+## Link to Your AEM Cloud Services {#link-to-your-aem-cloud-services}
 
 Before you can use this capability, you must first link AEM Cloud Services with Adobe Marketo Engage.
 

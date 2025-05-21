@@ -10,6 +10,24 @@ Adobe Dynamic Chat releases operate on a continuous delivery model which allows 
 
 The standard Release Notes page for Marketo Engage [can be found here](/help/marketo/release-notes/current.md){target="_blank"}.
 
+## April/May 2025 Release {#apr-may-25-release}
+
+### Message Notification Sound {#message-notification-sound}
+
+You now have the option to enable a sound for the visitor every time the chatbot is triggered in a session. There are multiple sounds to choose from.
+
+### Enable Poke Messages on Mobile {#enable-poke-messages-on-mobile}
+
+"Poke," which displays the opening question next to the chat icon without the visitor having to click on it to see it, is now an option to be enabled for visitors using a mobile device.
+
+### Default Fallback Update {#default-fallback-update}
+
+For any custom rules/Teams as a Live Chat card&mdash;if no agents are available (or the chat can't connect), it will fall back to Round Robin for available agents (all who are available at that time regardless which routing logic/rule was put in the stream).
+
+### Demandbase Integration {#demandbase-integration}
+
+Demandbase users can use Demandbase person attributes for dialogue targeting, conditional branding, and custom routing in Dynamic Chat.
+
 ## September/October 2024 Release {#sep-oct-release}
 
 ### Enhanced live chat analytics {#enhanced-live-chat-analytics}

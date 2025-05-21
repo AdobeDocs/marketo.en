@@ -36,7 +36,47 @@ The following features fall under the standard release cycle and will start to b
    <td>&nbsp;</td>
   </tr>
   <tr> 
-   <td><strong>Trigger tokens for any attribute</strong>: Expanded list of trigger tokens to support using data from any activity attribute in Smart Campaign fields.</td> 
+   <td><strong>Trigger Tokens for Any Attribute</strong>: Expanded list of trigger tokens to support using data from any activity attribute in Smart Campaign fields.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>Email Content Personalization</strong>: Marketo Engage now follows the same camel case syntax as the other AEP application tokens so a consistent experience is provided across Adobe DX products. All standard tokens as well as Marketo Engage specific tokens such as Member, Program, and My Tokens are made available in the new Email Designer.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>Role-based Access Control for Email Designer Assets</strong>: A new enhancement to the role-based access control (RBAC) system provides more granular permissions and improved user management for assets powered by the new Email Designer.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>Cloning Emails Created in the Email Designer</strong>: You now have the ability to clone an existing email created using the new Email Designer.</td> 
+   <td><i>Coming Soon</i></td>
+   <td><i>Coming Soon</i></td>
+  </tr>
+  <tr> 
+   <td>&nbsp;</td> 
+   <td>&nbsp;</td>
+   <td>&nbsp;</td>
+  </tr>
+  <tr> 
+   <td><strong>GenStudio Integration</strong>: Integrate GenStudio for performance marketing from within emails to enhance marketing efficiency and to maintain brand consistency.</td> 
    <td><i>Coming Soon</i></td>
    <td><i>Coming Soon</i></td>
   </tr>
