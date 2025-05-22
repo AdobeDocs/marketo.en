@@ -520,7 +520,6 @@ feature-set: Marketo Engage
       + [Getting Started with Predictive Audiences](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
       + [Models and Insights](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
       + [Predictive Filters](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
-      + [Understanding Goal Tracking and Projected Registrations](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
   + CRM Sync {#crm-sync}
     + Microsoft Dynamics Sync {#microsoft-dynamics}
       + [Understanding the Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
