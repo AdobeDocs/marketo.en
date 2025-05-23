@@ -37,14 +37,14 @@ _Release dates/features are subject to change_
    <td>Shipped</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">April '25</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-apr-25.md">April '25</a></td>
    <td>April '25</td>
-   <td>In Progress</td>
+   <td>Shipped</td>
   </tr>
   <tr> 
-   <td>May '25</td>
+   <td><a href="/help/marketo/release-notes/current.md">May '25</a></td>
    <td>May 23, 2025</td>
-   <td>On Schedule</td>
+   <td>In Progress</td>
   </tr>
   <tr> 
    <td>June '25</td>
