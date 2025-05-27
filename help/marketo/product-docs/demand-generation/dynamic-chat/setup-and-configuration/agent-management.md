@@ -14,7 +14,7 @@ In Agent Management, view a list of agents in your Dynamic Chat instance, manage
 
 This tab lists all of the agents in your Dynamic Chat instance, and includes such information as their name, email address, live chat status, and more.
 
-   ![](assets/agent-management-2.png)
+   ![](assets/agent-management-2.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -64,7 +64,9 @@ Select a standard (system) message or write a custom one for visitors to see whe
 
 >[!NOTE]
 >
->Selecting the **Include Meeting Booking Option** checkbox will give the chat visitor the option to book a meeting when no agents are available to live chat.
+>* Selecting the _Include Meeting Booking Option_ checkbox will give the chat visitor the option to book a meeting when no agents are available to live chat.
+>
+>* **For any custom rules/Teams as a Live Chat card**: While checking for agents, if they are not available or could not connect, it will fall back to Round Robin to try for "Available Agents" (all who are available at that time regardless of which routing logic/rule was placed in the stream).
 
 >[!TIP]
 >

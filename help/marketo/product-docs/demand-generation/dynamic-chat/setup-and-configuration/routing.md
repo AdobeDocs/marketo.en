@@ -24,7 +24,7 @@ In this example we're sending all meetings from the inferred states of CA, OR, a
 
    ![](assets/routing-1.png)
 
-1. Click the **Custom Rules** tab.
+1. The **Custom Rules** tab opens by default.
 
    ![](assets/routing-2.png)
 
