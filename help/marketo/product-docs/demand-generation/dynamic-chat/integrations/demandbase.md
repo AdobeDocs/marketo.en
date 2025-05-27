@@ -12,7 +12,9 @@ Demandbase users can use Demandbase person attributes for dialogue targeting, co
 
 The steps below are to be done _in your Demandbase account_.
 
-1. In Demandbase, click the _Settings_ icon. 
+1. In Demandbase, click the _Settings_ icon.
+
+   ![](assets/demandbase-1.png)
 
 1. Under _Integrations_, select **Account Connector**.
 
@@ -36,12 +38,12 @@ The steps below are to be done _in your Demandbase account_.
 
 Target your audience based on Demandbase attributes in addition to native and custom attributes, while creating a dialogue or a conversational flow.
 
-   ![](assets/demandbase-1.png)
+   ![](assets/demandbase-2.png)
 
 Use Demandbase Attributes as a condition in your conditional branching, a dialogue, or a conversational flow.
 
-   ![](assets/demandbase-2.png)
+   ![](assets/demandbase-3.png)
 
 Use Demandbase Attributes while defining any custom routing logic.
 
-   ![](assets/demandbase-3.png)
+   ![](assets/demandbase-4.png)
