@@ -9,6 +9,10 @@ feature: Target Account Management
 
 Account Profiling identifies your Ideal Customer Profile (ICP), ranks companies in your database based on the ICP, and adds ICP Indicator data to accounts promoted as Named Accounts.
 
+>[!IMPORTANT]
+>
+>As of 2025, Account Profiling is no longer available for new users. It will continue to work for existing users.
+
 ## Model Results {#model-results}
 
 The results show you all of your known accounts broken down by grade. A is the highest grade, D is the lowest.

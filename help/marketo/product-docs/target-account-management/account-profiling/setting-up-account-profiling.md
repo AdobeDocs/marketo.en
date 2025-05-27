@@ -9,6 +9,10 @@ feature: Target Account Management
 
 Follow these steps to start using Account Profiling.
 
+>[!IMPORTANT]
+>
+>As of 2025, Account Profiling is no longer available for new users. It will continue to work for existing users.
+
 >[!CAUTION]
 >
 >The following fields must **not** be hidden in order for Account Profiling to function properly.

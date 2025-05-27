@@ -9,6 +9,10 @@ feature: Target Account Management
 
 New Account Discovery can help you find new accounts to target by using AI-powered recommendations from your ideal customer profile.
 
+>[!IMPORTANT]
+>
+>As of 2025, Account Profiling is no longer available for new users. It will continue to work for existing users.
+
 >[!PREREQUISITES]
 >
 >[Set up Account Profiling](/help/marketo/product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
