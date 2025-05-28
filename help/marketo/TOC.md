@@ -1022,6 +1022,7 @@ feature-set: Marketo Engage
         + [Feature Comparison](product-docs/email-marketing/email-designer/feature-comparison.md)
         + [Email Authoring](product-docs/email-marketing/email-designer/email-authoring.md)
         + [Email Template Authoring](product-docs/email-marketing/email-designer/email-template-authoring.md)
+        + [Personalization Tokens](product-docs/email-marketing/email-designer/personalization-tokens.md)
         + [Work with AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
         + [Edit images with Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
         + [Fragments](product-docs/email-marketing/email-designer/fragments.md)
