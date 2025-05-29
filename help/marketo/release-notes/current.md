@@ -86,6 +86,8 @@ The following features fall under the standard release cycle and will start to b
 
 ## Announcements {#announcements}
 
+* **Facebook Offline Conversion Integration Update**: On May 29, 2025, the [Facebook Offline Conversion](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} integration for Marketo Engage will be migrated to the new Meta [Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}, due to Meta's deprecation of the [Offline Conversions API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} in line with Graph API versioning. For more information, please view Meta's guide to [sending offline events via Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI for Offline).
+
 * **New Analytics Feature - Public Beta**: [Advanced BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (formerly known as Revenue Explorer and Advanced Report Builder) began rolling out to all current Revenue Cycle Explorer users in mid-April. This new tool offers a flexible reporting and visualization interface on Marketo Engage data, providing granular details about progression, performance, and more. It features richer interactivity and visualization, faster performance, and a more seamless and intuitive user experience.
 
 To access this feature, you must have purchased the Advanced BI Analytics add-on. Please contact the Adobe Account Team (your Account Manager) for details.
