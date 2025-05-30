@@ -109,6 +109,10 @@ When an action such as a meeting booking or a live chat fails, users are notifie
 
 * Agents have 100 seconds to respond before the "Accept chat" message times out. After that, visitors will receive the [fallback message](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. For Dynamic Chat Prime subscribers who have the routing option set to **Team**, one more agent will be tried before the fallback message appears.
 * There is a limit of 10 live chats per agent at this time.
+* Agent Inbox is just for Live Chat conversations. If the chat is not accepted by an agent, it will not appear in the Agent Inbox, as it doesn't qualify as a Live Chat.
+* The Conversation tab displays all the conversation, both Live and Automated chat. So if a conversation is not accepted by the agent, that will be listed in the Conversation Tab. There is up to a 24-hour delay in the Conversation tab, as it's not realtime. Agent Inbox, however, is realtime.
+* If there is no chat activity after 10 minutes (by either the agent or the visitor), the chat will timeout.
+* If an agent changes their profile image (in account.adobe.com) _during_ a Live Chat, the visitor will still see the old image until the chat ends. The visitor will see the new image the next time they chat in and get that agent.
 
 >[!MORELIKETHIS]
 >

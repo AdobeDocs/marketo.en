@@ -89,3 +89,11 @@ If you're logged in to the app, you'll receive an in-app notification of an inco
 >[!TIP]
 >
 >You can select multiple blocks of time on the same day (e.g., Friday from 8a-12p _and_ 1p-5p) by clicking the **+** sign on the right.
+
+## Agent Profile Photo
+
+While an agent has the ability to upload their own profile photo, that action is not performed in Dynamic Chat. They would need to navigate to `account.adobe.com/profile`. Learn more here: [Update your account profile](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html).
+
+>[!NOTE]
+>
+>The profile image shown in `experience.adobe.com` is **not** supported.

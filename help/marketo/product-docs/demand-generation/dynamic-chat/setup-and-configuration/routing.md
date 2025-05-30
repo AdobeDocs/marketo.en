@@ -58,13 +58,47 @@ Identify and upload your target account and respective sales owners and route vi
 
    ![](assets/routing-9.png)
 
+   >[!PREREQUISITES]
+   >
+   >Before _Account Routing_ is visible in Dynamic Chat, permissions must be enabled in the Admin Console. See [Enable Permissions](#enable-permissions) below.
+
+### Enable Permissions {#enable-permissions}
+
++++ Enable Account Routing Permissions
+
+1. Log in to [https://adminconsole.adobe.com/](https://adminconsole.adobe.com/){target="_blank"}.
+
+1. Under _Products_, select **Dynamic Chat**.
+
+   ![](assets/routing-10.png)
+
+1. Under _Product profiles_, select the desired profile.
+
+   ![](assets/routing-11.png)
+
+1. Click the **Permissions** tab.
+
+   ![](assets/routing-12.png)
+
+1. Click the edit icon (![Edit icon](assets/icon-routing-edit.png)) next to _Configuration_.
+
+   ![](assets/routing-13.png)
+
+1. Click the **+** sign next to _View account routing_.
+
+   ![](assets/routing-14.png){width="600" zoomable="yes"}
+
+1. Click **Save** when done.
+
++++
+
 ### Add an Account {#add-an-account}
 
 In this example, we'll route all employees from Lego directly to agent Steven.
 
 1. In the Account Routing tab, click **+ Add Account**.
 
-   ![](assets/routing-10.png)
+   ![](assets/routing-15.png)
 
    >[!TIP]
    >
@@ -72,4 +106,4 @@ In this example, we'll route all employees from Lego directly to agent Steven.
 
 1. Enter the company's name, domain, and select the desired agent.
 
-   ![](assets/routing-11.png)
+   ![](assets/routing-16.png)

@@ -6,7 +6,11 @@ exl-id: 8130a970-4cf1-4bf6-9403-998460269843
 ---
 # Analytics {#analytics}
 
-While reporting is available at dialogue level, check overall engagement using the three dashboards below. 
+While reporting is available at dialogue level, check overall engagement using the three dashboards below.
+
+>[!NOTE]
+>
+>Data from Dynamic Chat can take up to 24 hours to reflect in your Marketo Engage instance.
 
 Access each dashboard under **Analytics** in the left nav.
 
