@@ -209,6 +209,7 @@ feature-set: Marketo Engage
       + [Enable Personalized URLs for Your Account](product-docs/administration/settings/enable-personalized-urls-for-your-account.md)
       + [Global Form Validation Rules](product-docs/administration/settings/global-form-validation-rules.md)
       + [Landing Page Headers](product-docs/administration/settings/landing-page-headers.md)
+      + [Product Usage Dashboards](product-docs/administration/settings/product-usage-dashboards.md)
       + [Restrict Marketo Logins Based on IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
       + [Select Your Language, Locale and Time Zone](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
       + [Set a Fallback Page](product-docs/administration/settings/set-a-fallback-page.md)
