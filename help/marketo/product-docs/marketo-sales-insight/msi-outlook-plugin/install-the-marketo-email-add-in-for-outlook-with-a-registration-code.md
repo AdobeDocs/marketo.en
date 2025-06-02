@@ -29,7 +29,7 @@ If you haven't received an invite email, ask your Marketo administrator to invit
 
 1. In the table below, click the link to download the appropriate .ZIP file for your version of Microsoft Outlook.
 
-1. Unzip the file to access the necessary .MSI file.  
+1. Unzip the file to access the necessary .MSI file and proceed with the install.  
 
    >[!NOTE]
    >
