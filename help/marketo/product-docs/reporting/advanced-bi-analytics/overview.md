@@ -14,10 +14,6 @@ These enhancements help you save time, discover more valuable insights, drive op
 >
 >To access this feature, you must have purchased the Advanced BI Analytics add-on. Please contact the Adobe Account Team (your Account Manager) for details.
 
->[!NOTE]
->
->If you have any questions about this feature while it's in beta (through June 1, 2025), please send an email to: `adobe-marketo-advanced-bi-analytics-public-beta@adobe.com`.
-
 ## Key features and benefits {#key-features-and-benefits}
 
 * **High-performance Query Engine**: Delivers 5x faster performance on large datasets, enabling quicker data processing, faster report loading, and a smoother analytic experience.
@@ -32,7 +28,7 @@ These enhancements help you save time, discover more valuable insights, drive op
 
 ## Create a report {#create-a-report}
 
-1. In your My Marketo, click the **[!UICONTROL Advanced BI Analytics (Beta)]** tile.
+1. In your My Marketo, click the **[!UICONTROL Advanced BI Analytics]** tile.
 
    ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
@@ -171,11 +167,8 @@ The following standard reports are included as examples for your custom reports.
 
 ## Things to note {#note}
 
-The public beta will run through June 1, 2025, upon which time the classic experience via "Revenue Explorer" will be permanently deprecated.
+* The classic "Revenue Explorer" experience will be permanently deprecated on June 10, 2025. In the meantime, you can access, create, update, and delete reports in both experiences.
 
-_During the public beta:_
-
-* You can access, create, update, and delete reports in both experiences.
 * Your custom reports will be replicated from the classic experience to the new experience with the notable behavior changes mentioned in the [Learning the New Experience](#learning-the-new-experience) section below.
 
    >[!IMPORTANT]
@@ -188,9 +181,13 @@ _During the public beta:_
       >
       >The dashboard in the new experience is simply a collection of reports on a single page. The primary value of dashboard in the new experience is to allow you to present analytical insights across different reporting areas.
 
-* Your email subscriptions in the classic experience will be replicated to the new experience. The email subscriptions in the classic experience will continue functioning until the deprecation of the classic experience on June 1, 2025.
+* Your email subscriptions in the classic experience will be replicated to the new experience. The email subscriptions in the classic experience will continue functioning until the deprecation of the classic experience on June 10, 2025.
 
-* Existing Revenue Explorer users automatically have access to the new Advanced BI Analytics (Beta) experience.
+* Existing Revenue Explorer users automatically have access to the new Advanced BI Analytics experience.
+
+* You can create up to 700 reports in Advanced BI Analytics.
+
+* There is a limitation of 1 million rows per query on any given visualization. If your query exceeds that, you will receieve the following error: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. To fix this, reduce your date range, and/or adjust the filters in your report to reduce the number of rows in your query result.
 
 ## Learning the new experience {#learning-the-new-experience} 
 
@@ -211,8 +208,6 @@ The following are changes in the new experience (Advanced BI Analytics) from the
 * Email subscription includes the PDF export rather than the HTML of the report. The new email subscription will not include the report definition.
 
 * Deep link of report is not supported at this time.
-
-* Report folder experience is not available at this time and was temporarily replaced by a flat list with type-ahead search. The name of the replicated report will carry the folder path, e.g., `/folder1/folder2/report`.
 
 * PDF export is synchronous in the new experience, compared to being asynchronous in the classic experience.
 
