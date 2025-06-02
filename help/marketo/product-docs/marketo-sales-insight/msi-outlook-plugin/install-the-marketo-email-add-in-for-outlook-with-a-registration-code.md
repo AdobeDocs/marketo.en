@@ -25,26 +25,74 @@ If you haven't received an invite email, ask your Marketo administrator to invit
 
 ## Download Installer {#download-installer}
 
-1. Identify your [Microsoft Outlook version](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
+1. Identify your [Microsoft Outlook version](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}.
 
-1. Click the link to download the installer appropriate for your version of Microsoft Outlook.
+1. In the table below, click the link to download the appropriate .ZIP file for your version of Microsoft Outlook.
+
+1. Unzip the file to access the necessary .MSI file.  
 
    >[!NOTE]
    >
    >At this time, the links below are only working in Microsoft Edge, or by right-clicking in Chrome. Sorry for any inconvenience.
 
-   | Outlook Version |32-bit Outlook |64-bit Outlook |
-   |---|---|---|
-   | Outlook 2000 |Not Supported |N/A |
-   | Outlook 2003 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) |N/A |
-   | Outlook 2007 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) |N/A |
-   | Outlook 2010 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2013 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2016 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2019 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook for Mac |Not Supported |Not Supported |
-   | Outlook Web App |Not Supported |Not Supported |
-   | Office 365* | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+<table><thead>
+  <tr>
+    <th>Outlook Version</th>
+    <th>32-bit Outlook</th>
+    <th>64-bit Outlook</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Outlook 2000</td>
+    <td>Not Supported</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>Outlook 2003</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Download</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>Outlook 2007</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Download</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>Outlook 2010</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Download</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Download</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2013</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Download</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Download</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2016</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Download</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Download</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2019</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Download</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Download</a></td>
+  </tr>
+  <tr>
+    <td>Outlook for Mac</td>
+    <td>Not Supported</td>
+    <td>Not Supported</td>
+  </tr>
+  <tr>
+    <td>Outlook Web App</td>
+    <td>Not Supported</td>
+    <td>Not Supported</td>
+  </tr>
+  <tr>
+    <td>Office 365*</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Download</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Download</a></td>
+  </tr>
+</tbody></table>
 
    *Office 365 version: Windows client only (on Windows 10, Enterprise or Pro).
 
