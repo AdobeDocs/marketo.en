@@ -99,8 +99,6 @@ Below you'll find error messages you may receive along with their definitions.
 
 * **First-time tracking domain**: First-time creation of email tracking link domains will need manual intervention by [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Subsequent subdomain creation under the same domain is allowed in the UI.
 
-* **Marketo On-Prem only**: Currently, this feature is only available for On-Prem. Marketo Engage on Cloud Services will need to set up SSL by reaching out to [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
-
 * **Adding certs to existing domains**: Adding certs to existing domains is not supported at this time. For pre-existing domains, or for cases where you missed checking the SSL certificate box, you must reach out to [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} to get the certificate added.
 
 * **Deletion of domains**: Deleting a domain does not automatically delete the SSL certificate at this time. This will be addressed in a future release.
