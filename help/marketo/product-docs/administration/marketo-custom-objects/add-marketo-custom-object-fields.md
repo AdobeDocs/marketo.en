@@ -3,6 +3,7 @@ unique-page-id: 10093688
 description: Add Marketo Custom Object Fields - Marketo Docs - Product Documentation
 title: Add Marketo Custom Object Fields
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
+feature: Custom Objects
 ---
 # Add Marketo Custom Object Fields {#add-marketo-custom-object-fields}
 
@@ -10,37 +11,41 @@ After you've created a custom object, you need to add fields to it to meet your 
 
 Fields define the specific information used by a custom object. Link fields have a special job, to connect custom objects, and are covered in a [separate article](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Click **Admin**, and in **Database Management**, select **Marketo Custom Objects**.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/image2016-1-18-9-3a2-3a6.png)
+   ![](assets/add-marketo-custom-object-fields-1.png)
+
+1. Click **[!UICONTROL Marketo Custom Objects]**.
+
+   ![](assets/add-marketo-custom-object-fields-2.png)
 
 1. Select the object you want to add the field to on the right.
 
-   ![](assets/image2016-1-18-9-3a5-3a3.png)
+   ![](assets/add-marketo-custom-object-fields-3.png)
 
-1. In the **Fields** tab, click **New Field**.
+1. Click the **[!UICONTROL Fields]** tab, then **[!UICONTROL New Field]**.
 
-   ![](assets/image2015-9-15-16-3a53-3a40.png)
+   ![](assets/add-marketo-custom-object-fields-4.png)
 
    >[!NOTE]
    >
    >The three fields shown above are created automatically by Marketo when you create a custom object. Marketo manages these fields automatically and you can't edit or delete them.
 
-1. Enter a display name and description.
+1. Enter a [!UICONTROL Display Name] and (optional) [!UICONTROL Description].
 
-   ![](assets/image2015-10-5-11-3a35-3a48.png)
+   ![](assets/add-marketo-custom-object-fields-5.png)
 
    >[!NOTE]
    >
    >The API name can be edited only until it's approved.
 
-1. Now, choose an appropriate data type from the list.
+1. Now, choose an appropriate [!UICONTROL Data Type] from the list.
 
-   ![](assets/image2015-10-5-11-3a37-3a24.png)
+   ![](assets/add-marketo-custom-object-fields-6.png)
 
-1. Pull the Dedupe slider over if you want to use the new field as a unique identifier. Click **Save** to finish.
+1. Pull the [!UICONTROL Dedupe] slider over if you want to use the new field as a unique identifier. Click **[!UICONTROL Save]** to finish.
 
-   ![](assets/image2015-10-5-11-3a40-3a12.png)
+   ![](assets/add-marketo-custom-object-fields-7.png)
 
    >[!TIP]
    >

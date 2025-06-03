@@ -3,6 +3,7 @@ unique-page-id: 14352402
 description: Invite Users - Marketo Docs - Product Documentation
 title: Invite Users
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
+feature: Marketo Sales Connect
 ---
 # Invite Users {#invite-users}
 

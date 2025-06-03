@@ -3,14 +3,19 @@ unique-page-id: 2360407
 description: Build an Email Analysis Report that Lists Leads - Marketo Docs - Product Documentation
 title: Build an Email Analysis Report that Lists Leads
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
+feature: Reporting, Revenue Cycle Analytics
 ---
 # Build an Email Analysis Report that Lists Leads {#build-an-email-analysis-report-that-lists-leads}
 
+Follow these steps to create an Email Analysis report that will show you every lead that was sent a specific Email, this report will also include Click and Open stats.
+
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not everyone has purchased this feature. Please contact the Adobe Account Team (your Account Manager) for details.
 
-Follow these steps to create an Email Analysis report that will show you every lead that was sent a specific Email, this report will also include Click and Open stats.
+>[!NOTE]
+>
+>The data engine backing Email Analysis RCA ignores greater than 12 clicks per person if they came from same email and campaign. Please take this into account when comparing Email Analysis reports to standard Marketo Analytics reporting.
 
 1. Launch **Revenue Explorer**.
 

@@ -3,6 +3,7 @@ unique-page-id: 37355534
 description: Release Notes - Jan 2020 - Marketo Docs - Product Documentation
 title: Release Notes - Jan 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
+feature: Release Information
 ---
 # Release Notes: Jan 2020 {#release-notes-jan}
 
@@ -18,7 +19,7 @@ The following features will be released on **January 17, 2020**.
 
 ## Core Marketo Engage Adobe Application {#core-marketo-engage-adobe-application}
 
-* [Adobe Experience Manager Asset Selector](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md): Quickly access assets that align with your brand with AEM assets available directly in Marketo Engage. Note: While this feature is available in both our Marketo Sky and classic experiences, the administrative capabilities can be found in our Classic experience. You must be a customer of AEM Assets and have version 6.5 or higher.
+* [Adobe Experience Manager Asset Selector](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md): Quickly access assets that align with your brand with AEM assets available directly in Marketo Engage. Note: While this feature is available in both our Marketo Sky and classic experiences, the administrative capabilities can be found in our Classic experience. You must be a customer of AEM Assets and have version 6.5 or higher.
 
 >[!NOTE]
 >
@@ -33,7 +34,7 @@ The following features will be released on **January 17, 2020**.
 
 ![(star)](assets/yellow-star.png)
 
-* **[New Account Discovery (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(star)](assets/yellow-star.png)**: Use Account Profiling to discover net-new target accounts for your ABM strategy based on your AI-powered ideal customer profile model. View, select, and import recommended new accounts, along with their AI-based fit and intent data indicators, that do not already exist inside your Marketo Engage lead and account database for ABM targeting. Immediately available for qualifying Account Profiling customers.
+* [New Account Discovery (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(star)](assets/yellow-star.png): Use Account Profiling to discover net-new target accounts for your ABM strategy based on your AI-powered ideal customer profile model. View, select, and import recommended new accounts, along with their AI-based fit and intent data indicators, that do not already exist inside your Marketo Engage lead and account database for ABM targeting. Immediately available for qualifying Account Profiling customers.
 
 <br>&nbsp;
 
@@ -50,7 +51,7 @@ The following features are on a non-quarterly cycle and will be released through
 
 ## Marketo Sky {#marketo-sky}
 
-* [Image Editing](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Access Adobe’s editing capabilities without having to leave Marketo Engage. This new functionality allows you to easily do things like enhance, crop, and add text to images directly in Design Studio.
+* [Image Editing](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Access Adobe's editing capabilities without having to leave Marketo Engage. This new functionality allows you to easily do things like enhance, crop, and add text to images directly in Design Studio.
 
 ## Sales Insight {#sales-insight}
 

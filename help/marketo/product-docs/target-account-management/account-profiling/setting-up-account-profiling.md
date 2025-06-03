@@ -3,10 +3,15 @@ unique-page-id: 17432598
 description: Setting up Account Profiling - Marketo Docs - Product Documentation
 title: Setting up Account Profiling
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
+feature: Target Account Management
 ---
 # Setting up Account Profiling {#setting-up-account-profiling}
 
 Follow these steps to start using Account Profiling.
+
+>[!IMPORTANT]
+>
+>As of 2025, Account Profiling is no longer available for new users. It will continue to work for existing users.
 
 >[!CAUTION]
 >
@@ -31,9 +36,9 @@ Follow these steps to start using Account Profiling.
 
    ![](assets/three.png)
 
-1. Give your model a name, choose who will be included in the results, and who will serve as the basis for the Ideal Customer Profile (ICP). Click **Create Model** when done.
+1. Give your model a name and choose the list type/list of people who will serve as the basis for the Ideal Customer Profile (ICP). Click **Create Model** when done.
 
-   ![](assets/four.png)
+   ![](assets/setting-up-account-profiling-4.png)
 
 1. Your model will begin its build. It may take a while, but don't worry, you'll be notified when it's done.
 

@@ -3,6 +3,7 @@ unique-page-id: 2359478
 description: Email Link Performance Report - Marketo Docs - Product Documentation
 title: Email Link Performance Report
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
+feature: Email Programs
 ---
 # Email Link Performance Report {#email-link-performance-report}
 
@@ -64,6 +65,10 @@ Create an Email Link Performance report to see how well the links in your emails
   </tr> 
  </tbody> 
 </table>
+
+>[!NOTE]
+>
+>This report will show "malformed link" when invalid/empty links are added to an email. If you see this message, [check the HTML source](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md) in the email editor for empty links or tokens that do not populate a full link.
 
 >[!TIP]
 >

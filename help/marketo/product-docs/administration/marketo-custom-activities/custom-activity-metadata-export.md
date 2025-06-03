@@ -2,16 +2,17 @@
 description: Custom Activity Metadata Export - Marketo Docs - Product Documentation
 title: Custom Activity Metadata Export
 exl-id: 7dba5cf0-6394-4bb7-b9e1-5db156e6d888
+feature: Custom Activities
 ---
 # Custom Activity Metadata Export {#custom-activity-metadata-export}
 
 Follow the steps below to export your Custom Activity Metadata Schema.
 
-1. In My Marketo, click **Admin**.
+1. In My Marketo, click **[!UICONTROL Admin]**.
 
    ![](assets/custom-activity-metadata-export-1.png)
 
-1. Click **Marketo Custom Activities**.
+1. Click **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/custom-activity-metadata-export-2.png)
 
@@ -19,7 +20,7 @@ Follow the steps below to export your Custom Activity Metadata Schema.
 
    ![](assets/custom-activity-metadata-export-3.png)
 
-1. Click the **Custom Activity Actions** drop-down and select **Export Activity**.
+1. Click the **[!UICONTROL Custom Activity Actions]** drop-down and select **[!UICONTROL Export Activity]**.
 
    ![](assets/custom-activity-metadata-export-4.png)
 

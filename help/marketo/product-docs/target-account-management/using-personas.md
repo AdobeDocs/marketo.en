@@ -3,6 +3,7 @@ unique-page-id: 17727818
 description: Using Personas - Marketo Docs - Product Documentation
 title: Using Personas
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
+feature: Target Account Management
 ---
 # Using Personas {#using-personas}
 

@@ -3,6 +3,7 @@ unique-page-id: 30081230
 description: Bulk Actions on People - Marketo Docs - Product Documentation
 title: Bulk Actions on People
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
+feature: Marketo Sales Connect
 ---
 # Bulk Actions on People {#bulk-actions-on-people}
 

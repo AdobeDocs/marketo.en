@@ -3,6 +3,7 @@ unique-page-id: 10096677
 description: Test Your ON24 Event Integration - Marketo Docs - Product Documentation
 title: Test Your ON24 Event Integration
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
+feature: Events
 ---
 # Test Your ON24 Event Integration {#test-your-on-event-integration}
 
@@ -28,5 +29,5 @@ Here’s how data is updated after the event takes place:
 
 >[!MORELIKETHIS]
 >
->* [Example ON24 Event Integration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
->* [Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>* [Example ON24 Event Integration](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
+>* [Understanding Marketo ON24 Adapter Events](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

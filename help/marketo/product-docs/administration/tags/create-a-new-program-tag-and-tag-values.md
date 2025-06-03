@@ -3,6 +3,7 @@ unique-page-id: 2360272
 description: Create a New Program Tag and Tag Values - Marketo Docs - Product Documentation
 title: Create a New Program Tag and Tag Values
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
+feature: Tags
 ---
 # Create a New Program Tag and Tag Values {#create-a-new-program-tag-and-tag-values}
 
@@ -20,34 +21,38 @@ You can create custom [tags](/help/marketo/product-docs/core-marketo-concepts/pr
 >
 >Program Tag Value: SMB, Enterprise, Mid-Market
 
-1. Under **Admin**, click **Tags**.
+1. Go to the **[!UICONTROL Admin]** area.
 
-   ![](assets/image2014-9-24-12-3a10-3a32.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 
-1. Click **New** and select **New Tag Type**.
+1. Click **[!UICONTROL Tags]**.
 
-   ![](assets/image2014-9-24-12-3a12-3a43.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
-1. Enter the **Tag Type** and a tag **Value**. Then click **Add Another**.
+1. Click **[!UICONTROL New]** and select **[!UICONTROL New Tag Type]**.
 
-   ![](assets/image2014-9-24-12-3a16-3a55.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-3.png)
+
+1. Enter the **[!UICONTROL Tag Type]** and a tag **[!UICONTROL Value]**. Then click **[!UICONTROL Add Another]**.
+
+   ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
 1. Enter as many Values as you need. Select which program types you want this tag to apply to.
 
-   ![](assets/image2014-9-24-12-3a17-3a29.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-5.png)
 
    >[!TIP]
    >
    >You can select multiple program types. When a new program is made, this tag type will be available.
 
-1. Check **Required** and click **Create**.
+1. Check **[!UICONTROL Required]** and click **[!UICONTROL Create]**.
 
-   ![](assets/image2014-9-24-12-3a18-3a33.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 
    >[!NOTE]
    >
-   >If the tag type is **Required**, users will be required to enter a value for the tag when creating a new program.
+   >If the tag type is **[!UICONTROL Required]**, users will be required to enter a value for the tag when creating a new program.
 
-   ![](assets/image2014-9-24-12-3a19-3a17.png)
+   ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 
 Now when your users create a program, they will have to set the custom value for the tag created.

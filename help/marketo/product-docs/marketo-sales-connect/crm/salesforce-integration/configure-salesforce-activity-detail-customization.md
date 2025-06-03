@@ -1,9 +1,8 @@
 ---
 description: Configure Salesforce Activity Detail Customization - Marketo Docs - Product Documentation
 title: Configure Salesforce Activity Detail Customization
-hide: yes
-hidefromtoc: yes
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
+feature: Marketo Sales Connect
 ---
 # Configure Salesforce Activity Detail Customization {#configure-salesforce-activity-detail-customization}
 
@@ -13,6 +12,11 @@ exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 >* Logging email activity via API [must be enabled](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
 Activity Detail Customization allows Admins to configure the information that will log to the Salesforce Task - Subject Field, when a Sales Connect activity/reminder task is synced to Salesforce.
+
+>[!NOTE]
+>
+>* Updates made to the subject field in Sales Connect of a reminder task will be reflected in the corresponding Salesforce task's subject field, if you're using the `{{activity_subject}}` dynamic field in your Activity Detail Customization.
+>* Line breaks are not supported when logging information to the Salesforce subject field. Any line breaks in the Activity Detail Customization editor will be removed when a sales task subject is updated.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -36,9 +40,13 @@ Activity Detail Customization allows Admins to configure the information that wi
 The feature can be used to unlock the following benefits:
 
 * By customizing what information is visible on the subject field, activity details are easily scannable for sales in Salesforce.
-* Admins can tag the subject field with a unique identifier such as “Mkto_sales” so activities from Sales Connect can be easily identified and differentiated from other email activities, call activities, and tasks.
+* Admins can tag the subject field with a unique identifier such as "Mkto_sales" so activities from Sales Connect can be easily identified and differentiated from other email activities, call activities, and tasks.
 * Reduce the need for custom activity fields. Salesforce enforces limits on the number of custom activity fields, which can restrict what data is available to be used in reports. By using activity dynamic fields to add key data to the subject line you can reduce the number of custom activity fields you need created in your Salesforce instance.  
-* The subject field of activities and tasks will follow a consistent pattern defined by the Sales Connect Admin.  
+* The subject field of activities and tasks will follow a consistent pattern defined by the Sales Connect Admin.
+
+>[!NOTE]
+>
+>If you're logging email replies as activities to Salesforce, they will not use the Salesforce Activity Detail Customization settings. Instead they, will log as "Reply: Email Subject."
 
 ## Activity Dynamic Fields Supported {#activity-dynamic-fields-supported}
 
@@ -95,25 +103,39 @@ When configuring your activity details, consider what data would be most relevan
 
 1. Click the gear icon and select **Settings**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
 1. Click **Salesforce**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
 1. Click **Sync Settings**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. In the Activity Details Customization editor add any free text you want, this will remain unchanged for the subject field of all tasks synced to Salesforce.
+1. In the Activity Details Customization editor add any free text you want. Text you add is non-dynamic and will remain unchanged for the subject field of all tasks synced to Salesforce.
 
-1. Add any dynamic fields you would like to add by clicking the dynamic field button and selecting the dynamic fields you want to use from the list.  
+   ![](assets/configure-salesforce-activity-detail-customization-6.png)
+
+   >[!TIP]
+   >
+   >Although not required, wrapping added text in straight brackets can make it easier for some people to discern between the data when it's populated to a subject field in Salesforce. Example: `[Sales Connect] - {{Activity_type}}`
+
+1. Add any additional dynamic fields you'd like by clicking the **Add Dynamic Field** button.
+
+   ![](assets/configure-salesforce-activity-detail-customization-7.png)
+
+1. Select the desired dynamic field(s).
+
+   ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
 1. Click **Save**.
 
+   ![](assets/configure-salesforce-activity-detail-customization-9.png)
+
 >[!NOTE]
 >
->Salesforce enforces a 255 character limit. If your activity detail exceeds that, it will be truncated to ensure the information can be stored on the Salesforce subject field.  
+>Salesforce enforces a 255 character limit. If your activity detail exceeds that, it will be truncated to ensure the information gets stored on the Salesforce subject field.  
 
 >[!MORELIKETHIS]
 >

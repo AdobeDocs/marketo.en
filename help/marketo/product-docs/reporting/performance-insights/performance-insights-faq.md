@@ -3,6 +3,7 @@ unique-page-id: 12979858
 description: Performance Insights FAQ - Marketo Docs - Product Documentation
 title: Performance Insights FAQ
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
+feature: Reporting
 ---
 # Performance Insights FAQ {#performance-insights-faq}
 

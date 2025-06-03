@@ -3,6 +3,7 @@ unique-page-id: 12978938
 description: Archive a Web Campaign - Marketo Docs - Product Documentation
 title: Archive a Web Campaign
 exl-id: de1ed9a6-bc3f-4cd8-b6c4-f84480cd9116
+feature: Web Personalization
 ---
 # Archive a Web Campaign {#archive-a-web-campaign}
 

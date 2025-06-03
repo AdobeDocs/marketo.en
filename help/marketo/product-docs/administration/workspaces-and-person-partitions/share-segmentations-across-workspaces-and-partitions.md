@@ -3,6 +3,7 @@ unique-page-id: 7515767
 description: Share Segmentations Across Workspaces and Partitions - Marketo Docs - Product Documentation
 title: Share Segmentations Across Workspaces and Partitions
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
+feature: Partitions, Workspaces
 ---
 # Share Segmentations Across Workspaces and Partitions {#share-segmentations-across-workspaces-and-partitions}
 
@@ -34,7 +35,7 @@ Once you have these personas set up (_and_ you use workspaces), you will want to
     * The shared version cannot be edited. You can only edit the original Segmentation where it was created.
 
   * When you click on a Segment (e.g. Healthcare) within a shared Segmentation, the people you see will only be people in the partition associated with the workspace you are viewing.
-    * If you create a Segmentation in Workspace 1 (WS1) and share it with WS2 and WS1 doesn’t have access to the partition for WS2, it WILL NOT recalculate the Segmentation.
+    * If you create a Segmentation in Workspace 1 (WS1) and share it with WS2 and WS1 doesn't have access to the partition for WS2, it WILL NOT recalculate the Segmentation.
     * If you create a Segmentation in a workspace that has limited partitions, and then share it with another workspace, that workspace that received the shared Segmentation will only see people if they have overlap.
 
 >[!NOTE]
@@ -43,35 +44,35 @@ Once you have these personas set up (_and_ you use workspaces), you will want to
 
 ## Example Scenarios {#example-scenarios}
 
-![](assets/image2015-5-27-16-3a26-3a25.png)
+![](assets/share-segmentations-across-workspaces-and-partitions-1.png)
 
-![](assets/image2015-5-27-16-3a26-3a48.png)
+![](assets/share-segmentations-across-workspaces-and-partitions-2.png)
 
 ## Share a Segmentation {#share-a-segmentation}
 
-1. Go to the **Database**.
+1. Go to the **[!UICONTROL Database]**.
 
-   ![](assets/image2017-3-29-8-3a15-3a40.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. Right-click **Segmentations** and select **New Folders**.
+1. Right-click **[!UICONTROL Segmentations]** and select **[!UICONTROL New Folder]**.
 
-   ![](assets/image2017-3-29-8-3a40-3a31.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Name the folder you are going to share across workspaces (example: Share Segmentations).
+1. Name the folder you're going to share across workspaces (example: Share Segmentations) and click **[!UICONTROL Create]**.
 
-   ![](assets/image2017-3-29-8-3a40-3a45.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
 1. Move the Segmentation(s) you want to share into the folder.
 
-   ![](assets/image2017-3-29-8-3a41-3a3.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. Right-click the folder and select **Share Folder**.
+1. Right-click the folder and select **[!UICONTROL Share Folder]**.
 
-   ![](assets/image2017-3-29-8-3a41-3a19.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
-1. Select the workspace(s) you want to share the folder with. Click **Save**.
+1. Select the workspace(s) you want to share the folder with. Click **[!UICONTROL Save]**.
 
-   ![](assets/image2015-5-27-11-3a6-3a40.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 
    >[!NOTE]
    >

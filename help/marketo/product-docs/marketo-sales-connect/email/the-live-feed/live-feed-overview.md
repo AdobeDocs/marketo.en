@@ -3,6 +3,7 @@ unique-page-id: 13796471
 description: Live Feed Overview - Marketo Docs - Product Documentation
 title: Live Feed Overview
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
+feature: Marketo Sales Connect
 ---
 # Live Feed Overview {#live-feed-overview}
 

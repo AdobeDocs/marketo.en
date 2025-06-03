@@ -3,6 +3,7 @@ unique-page-id: 7512105
 description: Clone a Report to Group Reports - Marketo Docs - Product Documentation
 title: Clone a Report to Group Reports
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
+feature: Reporting
 ---
 # Clone a Report to Group Reports {#clone-a-report-to-group-reports}
 

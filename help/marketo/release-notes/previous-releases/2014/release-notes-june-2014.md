@@ -3,6 +3,7 @@ unique-page-id: 2951042
 description: Release Notes -June 2014 - Marketo Docs - Product Documentation
 title: Release Notes -June 2014
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
+feature: Release Information
 ---
 # Release Notes: June 2014 {#release-notes-june}
 
@@ -28,7 +29,7 @@ When you send a test email from Sales Insight, currently tokens in the email do 
 
 ## Lead ReST API {#lead-rest-api}
 
-Create, read, and update leads programmatically through our new ReST API. To get started with ReST you need to [create a custom service](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo. Then head over to the [developers site](https://developers.marketo.com/documentation/rest/) for details on using this API.
+Create, read, and update leads programmatically through our new ReST API. To get started with ReST you need to [create a custom service](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo. Then head over to the [developers site](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/) for details on using this API.
 
 ## Marketo Real-Time Personalization (RTP) Campaigns Page Update {#marketo-real-time-personalization-rtp-campaigns-page-update}
 

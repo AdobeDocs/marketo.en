@@ -3,6 +3,7 @@ unique-page-id: 4720758
 description: Release Notes -January 2015 - Marketo Docs - Product Documentation
 title: Release Notes -January 2015
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
+feature: Release Information
 ---
 # Release Notes: January 2015 {#release-notes-january}
 
@@ -24,7 +25,7 @@ Three new calls for the Lead & Activity ReST API:
 * Get Leads by Program ID
 * Get Deleted Leads
 
-Also, there is a new option for Sync Lead, to write the lead change asynchronously for a faster API call. Full details will be available after the release at [developers.marketo.com](https://developers.marketo.com)
+Also, there is a new option for Sync Lead, to write the lead change asynchronously for a faster API call. Full details will be available after the release at [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 **Email Scripting Custom Object Support**
 
@@ -40,7 +41,7 @@ Remarketing shows ads to people who have visited your website. You can now perso
 
 Enhancements to the Named Accounts module will improve the match rates and validations for users. Additions include:
 
-* Matching organizations from your Named Account list using Lead’s email address (also for RTP-only customers)
+* Matching organizations from your Named Account list using Lead's email address (also for RTP-only customers)
 * Support for up to 100K records per account
 * CSV file template to view and download
 
@@ -55,6 +56,6 @@ RTP Tag options under Account Settings have been updated to include:
 1. Asynchronous tag without CDN
 1. Synchronous tag without CDN
 
-For best performance, it is recommended to place the tag at the top of the header in your web page after `<head>`. All tags allow for use of the [RTP API](https://developers.marketo.com/documentation/websites/rtp-js-api/). For information on how to deploy the RTP Tag see [here](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+For best performance, it is recommended to place the tag at the top of the header in your web page after `<head>`. All tags allow for use of the [RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). For information on how to deploy the RTP Tag see [here](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

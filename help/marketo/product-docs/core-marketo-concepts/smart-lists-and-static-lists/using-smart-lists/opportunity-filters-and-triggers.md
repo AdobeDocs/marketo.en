@@ -3,6 +3,7 @@ unique-page-id: 8159286
 description: Opportunity Filters and Triggers - Marketo Docs - Product Documentation
 title: Opportunity Filters and Triggers
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
+feature: Smart Lists
 ---
 # Opportunity Filters and Triggers {#opportunity-filters-and-triggers}
 
@@ -10,7 +11,7 @@ Opportunity filters and triggers let you track opportunity events from Salesforc
 
 ## Opportunity Filters {#opportunity-filters}
 
-Opportunity filters let you drill into your Salesforce leads who have opportunities. You can find them in the Opportunities folder of the Palette when editing a smart list. They come in a few flavors.
+Opportunity filters let you drill into your Salesforce leads who have opportunities. You can find them in the Opportunities folder of the Palette when editing a Smart List. They come in a few flavors.
 
 * Number of Optys
 * Total Opty Amount
@@ -26,7 +27,7 @@ If you're looking for your Opportunity fields (custom or standard), use the **Ha
 
 With these filters, you can find leads based on the total number, amount, or expected revenue of all their opportunities.
 
-![](assets/image2015-6-11-12-3a29-3a34.png)
+![](assets/opportunity-filters-and-triggers-1.png)
 
 **Has Opportunity, Was Added to Opportunity, Was Removed from Opportunity**
 
@@ -38,13 +39,13 @@ If you're looking for leads who have opportunities based on a combination of cri
 
 Add the search criteria as **Constraints** on the filter. The constraints include your opportunity standard and custom fields:
 
-![](assets/image2015-6-11-12-3a31-3a0.png)
+![](assets/opportunity-filters-and-triggers-2.png)
 
-![](assets/image2015-6-11-12-3a31-3a46.png)
+![](assets/opportunity-filters-and-triggers-3.png)
 
 For example, say you want to find leads who have open opportunities of at least $5,000. Drag in the **Has Opportunity** filter and use the **Is Closed** and **Amount** constraints:
 
-![](assets/image2015-6-11-12-3a32-3a0.png)
+![](assets/opportunity-filters-and-triggers-4.png)
 
 >[!NOTE]
 >
@@ -56,7 +57,7 @@ The **Opportunity was Updated** filter looks for any opportunity when a specific
 
 For example, this filter will show you all leads who had their close date change within the last 30 days:
 
-![](assets/image2015-6-11-12-3a33-3a7.png)
+![](assets/opportunity-filters-and-triggers-5.png)
 
 ## Opportunity Triggers {#opportunity-triggers}
 
@@ -68,8 +69,8 @@ The following opportunity triggers are available. They work just like their corr
 
 For example, you could use this Smart List to trigger when any lead is added to any opportunity. In the flow, you might add them to the Marketing Suspended list or send them a targeted email.
 
-![](assets/image2015-6-11-12-3a33-3a48.png)
+![](assets/opportunity-filters-and-triggers-6.png)
 
 To trigger off your opportunity custom fields, use the **Opportunity is Updated** trigger and pick the field in the pulldown:
 
-![](assets/image2015-6-11-12-3a33-3a34.png)
+![](assets/opportunity-filters-and-triggers-7.png)

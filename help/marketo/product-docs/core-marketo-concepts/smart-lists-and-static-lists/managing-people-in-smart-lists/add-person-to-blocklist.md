@@ -3,67 +3,76 @@ unique-page-id: 9438139
 description: Add Person to Blocklist - Marketo Docs - Product Documentation
 title: Add Person to Blocklist
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
+feature: Smart Lists
 ---
 # Add Person to Blocklist {#add-person-to-blocklist}
 
 Adding people to your Blocklist prevents them from receiving your correspondence.
 
->[!NOTE]
->
->Marketo is in the process of changing terms such as Blacklist and Whitelist to Blocklist and Allowlist in our product. During this update, you may see the old terms in our UI and documentation screenshots, and the new terms in our documentation text. We apologize for any confusion.
+1. Create a new [default program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} and name it "Add to Blocklist."
 
-1. [Create a new default program](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) and name it **Add to Blocklist**.
+1. Click **[!UICONTROL New]** and select **[!UICONTROL New Local Asset]**.
 
-1. Click **New** and select **New Local Asset**.
+   ![](assets/add-person-to-blocklist-1.png)
 
-   ![](assets/image2015-8-14-11-3a0-3a46.png)
+1. Select **[!UICONTROL Smart List]**.
 
-1. Name your list and click **Create**.
+   ![](assets/add-person-to-blocklist-2.png)
 
-   ![](assets/image2015-8-14-11-3a2-3a26.png)
+1. Name your list and click **[!UICONTROL Create]**.
 
-1. Add all the people to your **Smart List** you want added to your Blocklist.
+   ![](assets/add-person-to-blocklist-3.png)
+
+1. Add all the people to your Smart List you want added to your Blocklist.
+
+   ![](assets/add-person-to-blocklist-4.png)
 
    >[!NOTE]
    >
    >People on your Blocklist will not receive operational emails.
 
-   ![](assets/three-6.png)
+1. Go back to your program.
 
-1. Click **New** and select **New Smart Campaign**.
+   ![](assets/add-person-to-blocklist-5.png)
 
-   ![](assets/image2015-8-14-11-3a12-3a35.png)
+1. Click **[!UICONTROL New]** and select **[!UICONTROL New Smart Campaign]**.
 
-1. Name the **New Smart Campaign**. Click **Create**.
+   ![](assets/add-person-to-blocklist-6.png)
 
-   ![](assets/image2015-8-14-11-3a13-3a36.png)
+1. Name the new Smart Campaign. Click **[!UICONTROL Create]**.
 
-1. Drag and drop **Member of Smart List**.
+   ![](assets/add-person-to-blocklist-7.png)
 
-   ![](assets/image2015-8-14-11-3a16-3a34.png)
+1. Drag and drop **[!UICONTROL Member of Smart List]**.
 
-1. Select the smart list you just created.
+   ![](assets/add-person-to-blocklist-8.png)
 
-   ![](assets/image2015-8-14-11-3a17-3a5.png)
+1. Select the Smart List you just created.
 
-1. Drag and drop **Change Data Value**.
+   ![](assets/add-person-to-blocklist-9.png)
 
-   ![](assets/image2015-8-14-11-3a18-3a41.png)
+1. Click the **[!UICONTROL Flow]** tab. Drag and drop the **[!UICONTROL Change Data Value]** Flow Action.
 
-1. For the **Flow**, enter **Block Listed** for the **Attribute** and set **New Value** to **true**.
+   ![](assets/add-person-to-blocklist-10.png)
 
-   ![](assets/image2015-8-14-11-3a21-3a1.png)
+1. In the **[!UICONTROL Attribute]** drop-down select **[!UICONTROL Block Listed]** and set **[!UICONTROL New Value]** to **[!UICONTROL true]**.
 
-1. On the **Schedule** tab, select **Run Once**.
+   ![](assets/add-person-to-blocklist-11.png)
 
-   ![](assets/ten.png)
+1. Click the **[!UICONTROL Schedule]** tab and select **[!UICONTROL Run Once]**.
 
-1. Select **Run now** and click **Run**.
+   ![](assets/add-person-to-blocklist-12.png)
 
-   ![](assets/image2015-8-14-11-3a24-3a50.png)
+1. Select **[!UICONTROL Run Now]** and click **[!UICONTROL Run]**.
 
-   YAY! These people will no longer receive emails.
+   ![](assets/add-person-to-blocklist-13.png)
+
+1. Click **[!UICONTROL Run]** again.
+   
+   ![](assets/add-person-to-blocklist-14.png)
+   
+These people will no longer receive emails.
 
    >[!TIP]
    >
-   >Create a [trigger smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) using **Change Data Value** with **Block Listed is true** for all people in the future that have blocklist-able attributes.
+   >Create a [Trigger Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} using **Change Data Value** with **Block Listed is true** for all people in the future that have blocklist-able attributes.

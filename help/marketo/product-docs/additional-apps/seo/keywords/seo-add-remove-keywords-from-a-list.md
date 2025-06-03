@@ -3,6 +3,7 @@ unique-page-id: 2949678
 description: SEO - Add/Remove Keywords from a List - Marketo Docs - Product Documentation
 title: SEO - Add/Remove Keywords from a List
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
+feature: SEO
 ---
 # SEO - Add/Remove Keywords from a List {#seo-add-remove-keywords-from-a-list}
 
@@ -10,11 +11,11 @@ You can keep all your keywords nice and organized by using lists. This will make
 
 ## Add to a List {#add-to-a-list}
 
-1. Go to the **Keywords** section.
+1. Go to the **[!UICONTROL Keywords]** section.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Hover over the keyword you want to add to a list. Click **Add/Remove from list**.
+1. Hover over the keyword you want to add to a list. Click **[!UICONTROL Add/Remove from list]**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -24,7 +25,7 @@ You can keep all your keywords nice and organized by using lists. This will make
 
    >[!TIP]
    >
-   >You can also make a new list for your keywords. Just type the name in Create a new list.
+   >You can also make a new list for your keywords. Just type the name in **[!UICONTROL Create a new list]**.
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
@@ -34,11 +35,11 @@ Woo hoo! Select your list to see the new keywords.
 
 You can also remove keywords from a list.
 
-1. Go to the **Keywords** section.
+1. Go to the **[!UICONTROL Keywords]** section.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Hover over the keyword you want to remove from a list. Click **Add/Remove from list**.
+1. Hover over the keyword you want to remove from a list. Click **[!UICONTROL Add/Remove from list]**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 

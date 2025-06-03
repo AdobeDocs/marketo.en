@@ -3,16 +3,17 @@ unique-page-id: 1147114
 description: Understanding My Tokens in a Program - Marketo Docs - Product Documentation
 title: Understanding My Tokens in a Program
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
+feature: Tokens
 ---
 # Understanding My Tokens in a Program {#understanding-my-tokens-in-a-program}
 
-A token is a variable that you can use in emails, landing pages, and smart campaigns to make your life easier.
+A token is a variable that you can use in emails, Landing Pages, and Smart Campaigns to make your life easier.
 
-In addition to My Tokens, you can also use any of the built-in tokens in your programs. Check out the [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
+In addition to My Tokens, you can also use any of the built-in tokens in your programs. Check out the [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## My Tokens  {#my-tokens}
 
-My Tokens are custom variables that anyone can create. They are [created](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) in either campaign folders or programs.
+My Tokens are custom variables that anyone can create. Locally, they are [created](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} in either campaign folders or programs.
 
 My Tokens are displayed like this: `{{my.Name Of Token}}`
 
@@ -39,7 +40,7 @@ Examples:
   </tr> 
   <tr> 
    <td>Email Script <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Use this token to execute a Velocity script in your emails. Learn more <a href="https://developers.marketo.com/documentation/email-scripting/" title="Follow link" rel="nofollow">here</a>. </td> 
+   <td>Use this token to execute a Velocity script in your emails. Learn more <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Follow link" rel="nofollow">here</a>. </td> 
   </tr> 
   <tr> 
    <td>Number<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -86,5 +87,5 @@ Moving programs and folders affects tokens too. Always check to make sure that r
 
 >[!MORELIKETHIS]
 >
->* [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
->* [Managing My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
+>* [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
+>* [Managing My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}

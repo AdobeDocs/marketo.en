@@ -3,6 +3,7 @@ unique-page-id: 2360199
 description: Group Person Reports by Attribute - Marketo Docs - Product Documentation
 title: Group Person Reports by Attribute
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
+feature: Reporting
 ---
 # Group Person Reports by Attribute {#group-person-reports-by-attribute}
 

@@ -3,12 +3,13 @@ unique-page-id: 7515133
 description: SFDC Sync - Merging a Lead/Contact/Person - Marketo Docs - Product Documentation
 title: SFDC Sync - Merging a Lead/Contact/Person
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
+feature: Salesforce Integration
 ---
 # SFDC Sync: Merging a Lead/Contact/Person {#sfdc-sync-merging-a-lead-contact-person}
 
 Sometimes it's best to just list the rules. Here we go:
 
-* When you merge two leads in **Salesforce**, the normal sync tells Marketo and the leads are merged automatically as people in Marketo.
+* When you merge two leads in **Salesforce**, the normal sync tells Marketo Engage and the leads are merged automatically as people in Marketo.
 * Merging two people in **Marketo** actually invokes the same process as merging them as leads in Salesforce. It still works automatically.
 * Merging a **lead (person) into a contact** works the same way. You end up with a single contact on both sides.
 * When merging, the default score is summed.
@@ -23,4 +24,4 @@ Sometimes it's best to just list the rules. Here we go:
 
 >[!NOTE]
 >
->Deep dive for more information about [merging people in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
+>Deep dive for more information about [merging people in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.

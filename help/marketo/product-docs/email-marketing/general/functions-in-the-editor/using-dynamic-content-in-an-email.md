@@ -3,6 +3,7 @@ unique-page-id: 2950617
 description: Using Dynamic Content in an Email - Marketo Docs - Product Documentation
 title: Using Dynamic Content in an Email
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
+feature: Email Editor
 ---
 # Using Dynamic Content in an Email {#using-dynamic-content-in-an-email}
 
@@ -12,13 +13,17 @@ exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 
 Use Dynamic Content in Emails to send your leads targeted information.
 
+>[!NOTE]
+>
+>The use of variables within dynamic content in an email is only supported when using Trigger Campaigns. It is **not** supported when using Batch Campaigns.
+
 ## Add Segmentation {#add-segmentation}
 
-1. Go to Marketing Activities.
+1. Go to **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Select your Email and then click Edit Draft.
+1. Select your email and click **Edit Draft**.
 
    ![](assets/1.2.png)
 

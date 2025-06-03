@@ -3,6 +3,7 @@ unique-page-id: 2359584
 description: Champion/Challenger -Declare a Champion - Marketo Docs - Product Documentation
 title: Champion/Challenger -Declare a Champion
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
+feature: Email Editor
 ---
 # Champion/Challenger: Declare a Champion {#champion-challenger-declare-a-champion}
 

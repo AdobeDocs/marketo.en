@@ -1,8 +1,6 @@
 ---
 description: Manage Your Profile - Marketo Docs - Product Documentation
 title: Manage Your Profile
-hide: yes
-hidefromtoc: yes
 ---
 # Manage Your Profile {#manage-your-profile}
 

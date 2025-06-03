@@ -3,6 +3,7 @@ unique-page-id: 4719308
 description: Add an Existing Salesforce Field to the Marketo Sync - Marketo Docs - Product Documentation
 title: Add an Existing Salesforce Field to the Marketo Sync
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
+feature: Salesforce Integration
 ---
 # Add an Existing Salesforce Field to the Marketo Sync {#add-an-existing-salesforce-field-to-the-marketo-sync}
 
@@ -10,33 +11,33 @@ exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 >
 >**Admin Permissions Required**
 
-Usually, new custom fields in Salesforce sync over to Marketo automatically. If not, the fields may not be visible to the Marketo Sync user. Here's how you can fix this.
+Usually, new custom fields in Salesforce sync over to Marketo Engage automatically. If not, the fields may not be visible to the Marketo Sync user. Here's how you can fix this.
 
-1. Click your name and then select **Setup**.
+1. Click your name and then select **[!UICONTROL Setup]**.
 
-   ![](assets/image2015-6-30-14-3a20-3a6.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-1.png)
 
-1. Enter **profile** in the left search bar and click **Profiles** under **Manage Users**.
+1. Enter "profile" in the left search bar and click **[!UICONTROL Profiles]** under **[!UICONTROL Manage Users]**.
 
-   ![](assets/image2015-6-30-14-3a20-3a52.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-2.png)
 
 1. Click the sync user's profile.
 
-   ![](assets/image2015-6-30-14-3a23-3a41.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-3.png)
 
-1. Under the **Field-Level Security** section, click **View** next to the object that contains the field.
+1. Under the **[!UICONTROL Field-Level Security]** section, click **[!UICONTROL View]** next to the object that contains the field.
 
-   ![](assets/image2015-6-30-14-3a23-3a59.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-4.png)
 
-1. Click **Edit**.
+1. Click **[!UICONTROL Edit]**.
 
-   ![](assets/image2015-6-30-14-3a24-3a28.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-5.png)
 
-1. Check the **Visible** checkbox for the field you want to add to the sync and click **Save**.
+1. Check the **[!UICONTROL Visible]** checkbox for the field you want to add to the sync and click **[!UICONTROL Save]**.
 
-   ![](assets/image2015-6-30-14-3a24-3a49.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-6.png)
 
-   Sweet! On the next sync cycle, Marketo will see the field and start the magic.
+   On the next sync cycle, Marketo will see the field and start the magic.
 
    >[!NOTE]
    >

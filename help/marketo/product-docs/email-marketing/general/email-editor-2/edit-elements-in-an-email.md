@@ -3,6 +3,7 @@ unique-page-id: 1900558
 description: Edit Elements in an Email - Marketo Docs - Product Documentation
 title: Edit Elements in an Email
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
+feature: Email Editor
 ---
 # Edit Elements in an Email {#edit-elements-in-an-email}
 

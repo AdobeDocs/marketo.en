@@ -3,6 +3,7 @@ unique-page-id: 8784014
 description: Template 10F - Marketo Docs - Product Documentation
 title: Template 10F
 exl-id: 9f983388-725b-4ac0-bf39-5af56035b200
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 10F {#template-10f}
 

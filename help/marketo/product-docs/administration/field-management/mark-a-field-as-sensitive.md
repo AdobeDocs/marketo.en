@@ -2,6 +2,7 @@
 description: Mark a Field as Sensitive - Marketo Docs - Product Documentation
 title: Mark a Field as Sensitive
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
+feature: Field Management
 ---
 # Mark a Field as Sensitive {#mark-a-field-as-sensitive}
 
@@ -11,11 +12,11 @@ As a Marketo Admin, you can mark a specific field as "sensitive" so its values n
 >
 >This feature will be enabled for all Marketo instances on the evening of Tuesday, May 11.
 
-1. Click **Admin**.
+1. Click **[!UICONTROL Admin]**.
 
    ![](assets/mark-a-field-as-sensitive-1.png)
 
-1. Click **Field Management**.
+1. Click **[!UICONTROL Field Management]**.
 
    ![](assets/mark-a-field-as-sensitive-2.png)
 
@@ -23,7 +24,7 @@ As a Marketo Admin, you can mark a specific field as "sensitive" so its values n
 
    ![](assets/mark-a-field-as-sensitive-3.png)
 
-1. Select the **Mark Field as Sensitive** checkbox.
+1. Select the **[!UICONTROL Mark Field as Sensitive]** checkbox.
 
    ![](assets/mark-a-field-as-sensitive-4.png)
 

@@ -3,6 +3,7 @@ unique-page-id: 2949281
 description: Issue a Marketo Email Add-in License - Marketo Docs - Product Documentation
 title: Issue a Marketo Email Add-in License
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
+feature: Marketo Sales Insights
 ---
 # Issue a Marketo Email Add-in License {#issue-a-marketo-email-add-in-license}
 
@@ -13,7 +14,7 @@ Anyone who wants to use the Marketo Email Outlook Add-in must first be issued a 
 
 >[!AVAILABILITY]
 >
->Not all customers have purchased this functionality. Contact your sales rep for details.
+>Not all Marketo Engage users have purchased this functionality. Contact the Adobe Account Team (your Account Manager) for details.
 
 >[!NOTE]
 >

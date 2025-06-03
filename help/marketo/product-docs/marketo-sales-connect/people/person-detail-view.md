@@ -3,6 +3,7 @@ unique-page-id: 13796475
 description: Person Detail View - Marketo Docs - Product Documentation
 title: Person Detail View
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
+feature: Marketo Sales Connect
 ---
 # Person Detail View {#person-detail-view}
 
@@ -12,11 +13,11 @@ Person detail view provides a detailed profile of each person in your MSC accoun
 
 1. To access the person detail view, click the **People** tab.
 
-   ![](assets/people-tab.png)
+   ![](assets/person-detail-view-1.png)
 
 1. Click on the desired person.
 
-   ![](assets/select-contact.png)
+   ![](assets/person-detail-view-2.png)
 
    >[!TIP]
    >
@@ -26,7 +27,7 @@ Person detail view provides a detailed profile of each person in your MSC accoun
 
 Includes all of the person's contact information.
 
-![](assets/about.jpg)
+![](assets/person-detail-view-3.png)
 
 **Contact Card**
 
@@ -53,7 +54,7 @@ Includes all of the person's contact information.
 
 See how this person is engaging with your outreach.
 
-![](assets/engagement.jpg)
+![](assets/person-detail-view-4.png)
 
 **Sales Connect Activity**
 
@@ -67,7 +68,7 @@ See how this person is engaging with your outreach.
 
 Shows your outreach history. Includes emails, campaigns, and calls.
 
-![](assets/history.jpg)
+![](assets/person-detail-view-5.png)
 
 **Sales Campaigns**
 
@@ -89,7 +90,7 @@ Shows your outreach history. Includes emails, campaigns, and calls.
 
 Manage tasks associated with this person.
 
-![](assets/tasks.jpg)
+![](assets/person-detail-view-6.png)
 
 Actions you can perform:
 
@@ -97,17 +98,3 @@ Actions you can perform:
 * See the due date
 * Click on the Type to launch the Sales Phone if Call, Email Compose if Email, Linkedin if Inmail, and Custom Note if Custom.
 * Mark a task as complete
-
-## Sales Navigator Tab {#sales-navigator-tab}
-
-View LinkedIn profile data with LinkedIn's Sales Navigator.
-
->[!NOTE]
->
->Sales Navigator is a paid add-on through LinkedIn, please contact them to obtain this feature.
-
-![](assets/linkedin.jpg)
-
-Mention icebreakers to build rapport.
-
-Save contacts as leads in Sales Navigator.

@@ -3,6 +3,7 @@ unique-page-id: 2951640
 description: Using Interesting Moments - Marketo Docs - Product Documentation
 title: Using Interesting Moments
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
+feature: Marketo Sales Insights
 ---
 # Using Interesting Moments {#using-interesting-moments}
 
@@ -79,5 +80,9 @@ You can subscribe to an Interesting Moment by clicking the Subscribe button eith
 1. Choose which email address(es) you'd like to send the alerts to (yourself/team members)
 
 1. Click **Subscribe**.
+
+>[!NOTE]
+>
+>When subscribing to Interesting Moment Types or Descriptions, the user will receive email notifications for people (leads/contacts) that they own when they trigger an Interesting Moment matching that Type or Description.
 
 ![](assets/using-interesting-moments-8.png)

@@ -3,6 +3,7 @@ unique-page-id: 10912178
 description: Set Up the Dismiss Button and Approve the Message - Marketo Docs - Product Documentation
 title: Set Up the Dismiss Button and Approve the Message
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
+feature: Mobile Marketing
 ---
 # Set Up the Dismiss Button and Approve the Message {#set-up-the-dismiss-button-and-approve-the-message}
 

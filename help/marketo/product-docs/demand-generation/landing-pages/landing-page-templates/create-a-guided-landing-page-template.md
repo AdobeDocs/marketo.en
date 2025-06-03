@@ -3,6 +3,7 @@ unique-page-id: 7515401
 description: Create a Guided Landing Page Template - Marketo Docs - Product Documentation
 title: Create a Guided Landing Page Template
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
+feature: Landing Pages
 ---
 # Create a Guided Landing Page Template {#create-a-guided-landing-page-template}
 

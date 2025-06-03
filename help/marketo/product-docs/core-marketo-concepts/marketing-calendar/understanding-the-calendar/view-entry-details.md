@@ -3,6 +3,7 @@ unique-page-id: 2953325
 description: View Entry Details - Marketo Docs - Product Documentation
 title: View Entry Details
 exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
+feature: Marketing Calendar
 ---
 # View Entry Details {#view-entry-details}
 

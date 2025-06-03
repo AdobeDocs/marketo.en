@@ -1,11 +1,12 @@
 ---
 description: Syncing Unsubscribes with Salesforce - Marketo Docs - Product Documentation
 title: Syncing Unsubscribes with Salesforce
-hide: yes
-hidefromtoc: yes
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
+feature: Sales Insight Actions
 ---
 # Syncing Unsubscribes with Salesforce {#syncing-unsubscribes-with-salesforce}
+
+If you want to sync unsubscribes with an opt out field in Salesforce, you can use the Salesforce unsubscribe sync.
 
 ## Requirements for Unsubscribes to Sync to Salesforce {#requirements-for-unsubscribes-to-sync-to-salesforce}
 
@@ -19,7 +20,11 @@ When an unsubscribe is collected in Marketo Sales, we push it to Salesforce in r
 
 **Unsubscribe Sync**
 
-When you've enabled the unsubscribe sync (Step 3 below) you'll be turning on the nightly sync. The sync occurs once a day around 8:00 pm PST. It will bidirectionally sync all unsubscribes in MSE/ToutApp with the Opt Out field in Salesforce.
+When you've enabled the unsubscribe sync (Step 3 below), you'll be turning on the nightly sync. The sync occurs once a day around 8:00 pm PST. It will bidirectionally sync all unsubscribes in Marketo Sales with the Opt Out field in Salesforce.
+
+>[!NOTE]
+>
+>The unsubscribe sync with Salesforce will sync unsubscribes, but it will not sync re-subscribes. If you'd like to remove an unsubscribe from Marketo Sales and Salesforce, uncheck the unsubscribe in Salesforce and remove the unsubscribe in Marketo Sales.
 
 ## Configure Unsubscribe Sync to Salesforce {#configure-unsubscribe-sync-to-salesforce}
 
@@ -86,6 +91,6 @@ Email Opt Out is a standard field in Salesforce that's available to install from
 
 ## Marketo Sales Opt Out {#marketo-sales-opt-out}
 
-The Marketo Sales Opt Out field is a custom field that is available to users that have installed the Marketo Sales Customizations.
+The Marketo Sales Opt Out field is a custom field that's available to users that have installed the Marketo Sales Insight package [from the AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
-Once you have successfully installed the the Marketo Sales Customizations into Salesforce you will see the Marketo Sales Opt Out field available to you.
+Once you have successfully installed the the Marketo Sales Insight package from the AppExchange into Salesforce, you will see the Marketo Sales Opt Out field available to you.

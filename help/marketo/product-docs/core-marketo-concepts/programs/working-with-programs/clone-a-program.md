@@ -3,16 +3,13 @@ unique-page-id: 1147110
 description: Clone a Program - Marketo Docs - Product Documentation
 title: Clone a Program
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
+feature: Programs
 ---
 # Clone a Program {#clone-a-program}
 
 Quickly and easily clone an entire program and all its assets instead of manually rebuilding everything.
 
->[!PREREQUISITES]
->
->Before diving in, learn about [best practices for avoiding corruption in cloned assets](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729).
-
-1. Find and select the program you want to clone, then under **Program Actions** click **Clone**.
+1. Find and select the program you want to clone. In the **[!UICONTROL Program Actions]** drop-down, click **[!UICONTROL Clone]**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -28,7 +25,7 @@ Quickly and easily clone an entire program and all its assets instead of manuall
    >
    >See that NOTE in the screenshot above? It means if you clone a program with 1000 or more people in a list, the list itself will get cloned, but it will be empty. If you clone a program with a list that contains 999 people or less, that list, along with all of its members, will show up in the cloned program.
 
-1. Enter a Name.
+1. Enter a [!UICONTROL Name].
 
    ![](assets/cloneprogramname.png)
 
@@ -36,7 +33,7 @@ Quickly and easily clone an entire program and all its assets instead of manuall
 
    ![](assets/choosefolderclone.png)
 
-1. Add an optional description, then click **Create**. Look how quickly you were able to create a new program with all its assets ready to go!
+1. Add an optional description, then click **[!UICONTROL Create]**. Look how quickly you were able to create a new program with all its assets ready to go!
 
    ![](assets/createclone.png)
 

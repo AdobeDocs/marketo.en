@@ -3,6 +3,7 @@ unique-page-id: 7516475
 description: Template 2C - Marketo Docs - Product Documentation
 title: Template 2C
 exl-id: aabbc957-5eed-4db6-b107-0a8226371820
+feature: Landing Pages, Guided Landing Page Templates
 ---
 # Template 2C {#template-2c}
 

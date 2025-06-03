@@ -8,7 +8,7 @@ exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
 
 Are you a keyboard shortcuts person? We've got you covered!
 
-## Area Navigation: {#area-navigation}
+## Area Navigation {#area-navigation}
 
 | Keyboard Shortcut |Area |
 |---|---|
@@ -20,9 +20,8 @@ Are you a keyboard shortcuts person? We've got you covered!
 | Alt/Opt + M |Marketing Activities |
 | Opt + N |Admin |
 | Opt + O |My Marketo |
-| Alt/Opt + S |Drop-down Superball menu |
 
-## Calendar/Schedule View Navigation:  {#calendar-schedule-view-navigation}
+## Calendar/Schedule View Navigation  {#calendar-schedule-view-navigation}
 
 | Keyboard Shortcut |Action |
 |---|---|
@@ -30,7 +29,7 @@ Are you a keyboard shortcuts person? We've got you covered!
 | Alt/Opt + Down Arrow |Move forward in time |
 | Alt/Opt + T |Go to 'Today' |
 
-## Miscellaneous: {#miscellaneous}
+## Miscellaneous {#miscellaneous}
 
 | Keyboard Shortcut |Action |
 |---|---|

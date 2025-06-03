@@ -3,6 +3,7 @@ unique-page-id: 2953415
 description: Using the Person Detail Page - Marketo Docs - Product Documentation
 title: Using the Person Detail Page
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
+feature: Smart Lists
 ---
 # Using the Person Detail Page {#using-the-person-detail-page}
 
@@ -13,7 +14,7 @@ The person detail page contains all the information Marketo knows about a person
 There are lots of ways to open specific people. Some examples are:
 
 * From the **Database**, you can search in the Quick Find
-* Any smart **list** or list
+* Any **Smart List** or list
 * **Members** tab of a program
 * **View Campaign Members** in a Smart Campaign
 * Some **reports**
@@ -53,7 +54,7 @@ Person information is categorized into the following tabs:
 
 >[!NOTE]
 >
->You can also see Opportunity info [inserted via API](http://developers.marketo.com/rest-api/lead-database/opportunities/) for instances that are not synced with a CRM.
+>You can also see Opportunity info [inserted via API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) for instances that are not synced with a CRM.
 
 ## Editing a Field {#editing-a-field}
 
@@ -93,8 +94,8 @@ Many fields are editable. To update a person's information, type in a new value 
 >* Opportunities for SFDC Contacts
 >* Certain Marketo-specific fields, such as Created Date and Original Source Type.
 >
->Learn more about [System Managed Fields](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
+>Learn more about [System Managed Fields](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Creating a Custom Tab for the Person Detail Page](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+>[Creating a Custom Tab for the Person Detail Page](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

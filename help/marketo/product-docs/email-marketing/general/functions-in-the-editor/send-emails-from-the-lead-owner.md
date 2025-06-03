@@ -3,6 +3,7 @@ unique-page-id: 1147340
 description: Send Emails from the Lead Owner - Marketo Docs - Product Documentation
 title: Send Emails from the Lead Owner
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
+feature: Email Editor
 ---
 # Send Emails from the Lead Owner {#send-emails-from-the-lead-owner}
 

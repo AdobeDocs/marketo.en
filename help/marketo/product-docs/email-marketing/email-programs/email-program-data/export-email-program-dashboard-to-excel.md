@@ -3,6 +3,7 @@ unique-page-id: 2359598
 description: Export Email Program Dashboard to Excel - Marketo Docs - Product Documentation
 title: Export Email Program Dashboard to Excel
 exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
+feature: Email Programs
 ---
 # Export Email Program Dashboard to Excel {#export-email-program-dashboard-to-excel}
 

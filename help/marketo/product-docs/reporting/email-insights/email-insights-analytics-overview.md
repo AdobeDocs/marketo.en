@@ -3,6 +3,7 @@ unique-page-id: 10099411
 description: Email Insights Analytics Overview - Marketo Docs - Product Documentation
 title: Email Insights Analytics Overview
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
+feature: Reporting
 ---
 # Email Insights Analytics Overview {#email-insights-analytics-overview}
 

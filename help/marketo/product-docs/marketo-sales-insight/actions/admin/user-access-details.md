@@ -1,9 +1,8 @@
 ---
 description: User Access Details - Marketo Docs - Product Documentation
 title: User Access Details
-hide: yes
-hidefromtoc: yes
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
+feature: Sales Insight Actions
 ---
 # User Access Details {#user-access-details}
 
@@ -11,7 +10,7 @@ What do Admins and non-Admins have access to?
 
 ## Admin User Permissions {#admin-user-permissions}
 
-Admins can [view all templates](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
+Admins can [view all templates](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
 
 ![](assets/user-access-details-1.png)
 
@@ -37,24 +36,24 @@ Admins can stop campaigns on behalf of users.
 
 * Analytics:
 
-    * Users can see team analytics
-    * Users can drill into just the teams they belong to
-    * Users can look at their own analytics
+  * Users can see team analytics
+  * Users can drill into just the teams they belong to
+  * Users can look at their own analytics
 
 * People Page:
 
-    * Users can share groups with everyone
-    * Users can share groups with just the teams they belong to
-    * Users will have visibility to all people in your Actions database
-    * When a user is deleted, their shared contacts transfer ownership to the Master Admin who deleted the user
+  * Users can share groups with everyone
+  * Users can share groups with just the teams they belong to
+  * Users will have visibility to all people in your Actions database
+  * When a user is deleted, their shared contacts transfer ownership to the Master Admin who deleted the user
 
 * Team Management Page:
 
-    * Cannot view
+  * Cannot view
 
 * Templates Page:
 
-    * Users can share templates with everyone
-    * Users can share templates in categories their Admins allow them to
-    * When a user is removed from a team, their templates are unshared with that team
-    * When a user is deleted from a team their templates transfer ownership to the Master Admin who deleted the user
+  * Users can share templates with everyone
+  * Users can share templates in categories their Admins allow them to
+  * When a user is removed from a team, their templates are unshared with that team
+  * When a user is deleted from a team their templates transfer ownership to the Master Admin who deleted the user

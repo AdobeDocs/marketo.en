@@ -3,6 +3,7 @@ unique-page-id: 11382535
 description: Using URLs in My Tokens - Marketo Docs - Product Documentation
 title: Using URLs in My Tokens
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
+feature: Tokens
 ---
 # Using URLs in My Tokens {#using-urls-in-my-tokens}
 
@@ -22,7 +23,11 @@ Follow the steps below to use My Tokens to insert URLs into your emails.
 
    >[!CAUTION]
    >
-   >To make sure clicks are tracked in your email, do **not** enter https:// inside the token's value.
+   >**Using http/https...**
+   >
+   >* To make sure clicks are tracked in your email, do **not** enter https:// _inside_ the token's value. Use it outside of the token, as shown in Step 7.
+   >
+   >* We highly recommend not leaving out the http/https. Doing so could cause the [web version](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} of your email to render incorrectly.
 
 1. Select the email in your program.
 
@@ -36,13 +41,13 @@ Follow the steps below to use My Tokens to insert URLs into your emails.
 
    ![](assets/six-1.png)
 
-1. Anywhere in your email, type "https://" (without leaving a space after) and click the Insert Token icon.
+1. Anywhere in your email, type `https://` (without leaving a space after) and click the Insert Token icon.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >You of course also have the option of entering "https" if your site uses it.
+   >You of course also have the option of entering `http://` if your site doesn't use https.
 
 1. Locate your My Token, select it, and click **Insert**.
 

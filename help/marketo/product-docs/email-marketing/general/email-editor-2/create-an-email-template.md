@@ -3,6 +3,7 @@ unique-page-id: 10096400
 description: Create an Email Template - Marketo Docs - Product Documentation
 title: Create an Email Template
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
+feature: Email Editor
 ---
 # Create an Email Template {#create-an-email-template}
 
@@ -11,6 +12,10 @@ Follow these steps to create a new email template.
 >[!NOTE]
 >
 >Marketo Support is not set up to assist with troubleshooting custom HTML. For HTML assistance, please consult a web developer.
+
+>[!CAUTION]
+>
+>The editor we use converts the values of color and background-color CSS properties to lowercase, so please avoid using camel case and use lowercase names or hyphens instead.
 
 ## Create a New Email Template {#create-a-new-email-template}
 

@@ -3,6 +3,7 @@ unique-page-id: 14746690
 description: Campaign Step Types - Marketo Docs - Product Documentation
 title: Campaign Step Types
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
+feature: Marketo Sales Connect
 ---
 # Campaign Step Types {#campaign-step-types}
 

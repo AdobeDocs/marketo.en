@@ -1,19 +1,18 @@
 ---
 description: Grant Marketo Access to Users - Marketo Docs - Product Documentation
 title: Grant Marketo Access to Users
-hide: yes
-hidefromtoc: yes
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
+feature: Sales Insight Actions
 ---
 # Grant Marketo Access to Users {#grant-marketo-access-to-users}
 
-Follow the steps in this article to grant your Marketo Sales users access to the Marketo connection. This will unlock features such as Interesting Moments in the Live Feed and access to Marketing Campaigns.
+Follow the steps in this article to grant your Sales Insight Actions users access to the Marketo connection. This will unlock features such as Interesting Moments in the Live Feed and access to Marketing Campaigns.
 
-You'll need to [Marketo Sales](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) before they're visible in the Marketo > Team Access page (in Marketo Sales), where access to the Marketo connection is granted.
+You'll need to invite users to [Sales Insight Actions](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) before they're visible in the Marketo > Team Access page (in Sales Insight Actions), where access to the Marketo connection is granted.
 
 >[!CAUTION]
 >
->Please wait ten minutes after connecting Marketo Sales with Marketo before performing these steps.
+>Please wait ten minutes after connecting Sales Insight Actions with Marketo before performing these steps.
 
 1. Click the gear icon and select **Settings**.
 
@@ -43,4 +42,4 @@ You'll need to [Marketo Sales](/help/marketo/product-docs/marketo-sales-insight/
 
    ![](assets/grant-marketo-access-to-users-6.png)
 
-You can additional users from the Team Management page and follow the steps above to get them connected.
+You can add additional users from the Team Management page and follow the steps above to get them connected.

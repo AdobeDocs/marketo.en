@@ -8,23 +8,23 @@ exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
 
 Campaign folders help you keep a tidy workspace. Follow these simple steps and you're on your way to automation magic.
 
-1. Go to **Marketing Activities**.
+1. Go to **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Select **New**.
+1. Select **[!UICONTROL New]**.
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
-1. Select **New Campaign Folder**.
+1. Select **[!UICONTROL New Campaign Folder]**.
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. Enter a **Name** for the campaign folder.
+1. Enter a **[!UICONTROL Name]** for the campaign folder.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Optional: Enter a **Description** and click **Create**.
+1. Optional: Enter a **[!UICONTROL Description]** and click **[!UICONTROL Create]**.
 
    >[!TIP]
    >

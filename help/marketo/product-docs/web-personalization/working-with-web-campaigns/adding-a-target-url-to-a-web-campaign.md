@@ -3,6 +3,7 @@ unique-page-id: 6094879
 description: Adding a Target URL to a Web Campaign - Marketo Docs - Product Documentation
 title: Adding a Target URL to a Web Campaign
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
+feature: Web Personalization
 ---
 # Adding a Target URL to a Web Campaign {#adding-a-target-url-to-a-web-campaign}
 
@@ -50,7 +51,7 @@ Clicking on the plus icon (![--](assets/image2015-2-18-8-3a40-3a59.png)) will op
 >[!NOTE]
 >
 >* Dialog and Widget web campaigns can use Any Page and Wildcard (&#42;) options.
->* In advanced use cases, In Zone web campaigns can use Wildcards at end of URL path. Example: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
+>* In advanced use cases, In Zone web campaigns can use Wildcards at end of URL path. Example: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 >* URL is case sensitive
 
 ## Adding a Target URL for In Zone Web Campaigns {#adding-a-target-url-for-in-zone-web-campaigns}
@@ -67,7 +68,7 @@ Clicking on the plus icon (![--](assets/image2015-2-18-8-3a40-3a59.png)) will op
 
    >[!NOTE]
    >
-   >Target URL with In Zones must define a specific URL or URLs. In advanced use cases, In Zone web campaigns can use Wildcards at end of URL path. Example: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
+   >Target URL with In Zones must define a specific URL or URLs. In advanced use cases, In Zone web campaigns can use Wildcards at end of URL path. Example: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 

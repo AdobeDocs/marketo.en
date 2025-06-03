@@ -3,6 +3,7 @@ unique-page-id: 14352509
 description: Dynamic Fields Glossary - Marketo Docs - Product Documentation
 title: Dynamic Fields Glossary
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
+feature: Marketo Sales Connect
 ---
 # Dynamic Fields Glossary {#dynamic-fields-glossary}
 
@@ -12,20 +13,23 @@ This tool is used to `auto-personalize your email` and save you tons of time by 
 
 | Dynamic Field | Example of what appears in your email |
 |---|---|
-| `{{company}}` | Marketo |
-| `{{company_friendly}}` | Marketo |
+| `{{company}}` | Adobe |
+| `{{company_friendly}}` | Adobe |
 | `{{first_name}}` | Keith |
-| `{{friendly_unsubscribe}}` | If you don't want to hear from me again, please let me know here |
-| `{{my_name}}` | Alan Bradley |
+| `{{team_unsubscribe}}` | If you no longer wish to receive emails from us, click here |
+| `{{friendly_unsubscribe}}` | Tired of all the emails? Please let me know here |
+| `{{my_name}}` | Keith Flynn |
+| `{{my_signature}}` | Keith Flynn, Senior Technical Writer - Adobe |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | Senior Technical Writer |
-| `{{work_website}}` | https://www.marketo.com |
+| `{{work_website}}` | https://www.adobe.com |
 
 **Things to note**:
 
 * If a contact's information is entered incorrectly or is missing from the People page, it will not pull over correctly into your template.
 * The difference between `{{company}}` and `{{company_friendly}}` is that `{{company_friendly}}` will remove any formal title, such as Inc., LLC., etc., from the name of your contact's company.
 * When using `{{company_friendly}}`, make sure you separate Inc. or Co. with a comma in the contact details. This is how Sales Connect knows what to remove when pulling in the value.
+* The system automatically appends the user's signature to each email sent. If the user is using a template with the `{{my_signature}}` dynamic field, the system will populate the signature where the `{{my_signature}}` dynamic field has been placed. It's only added there as to avoid duplication. The system will handle `{{team_unsubscribe}}` the same way when the global append unsubscribe setting is enabled.
 
 >[!TIP]
 >

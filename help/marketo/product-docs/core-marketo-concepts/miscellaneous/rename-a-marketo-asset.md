@@ -12,7 +12,7 @@ Folders, programs, and local assets can all be easily renamed.
 
    ![](assets/image2015-4-10-17-19-48.png)
 
-1. Type a new name within the text field. Click **Save**.
+1. Type a new name within the text field. Click **[!UICONTROL Save]**.
 
    ![](assets/image2015-4-10-17-3a19-3a33.png)
 

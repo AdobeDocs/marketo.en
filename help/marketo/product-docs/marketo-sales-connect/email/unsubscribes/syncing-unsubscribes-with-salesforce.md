@@ -3,6 +3,7 @@ unique-page-id: 14746188
 description: Syncing Unsubscribes with Salesforce - Marketo Docs - Product Documentation
 title: Syncing Unsubscribes with Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
+feature: Marketo Sales Connect
 ---
 # Syncing Unsubscribes with Salesforce {#syncing-unsubscribes-with-salesforce}
 
@@ -18,7 +19,7 @@ When an unsubscribe is collected in Sales Connect, we push it to Salesforce in r
 
 **Unsubscribe Sync**
 
-When you've enabled the unsubscribe sync (Step 3 below) you will be turning on the nightly sync. The sync occurs once a day around 8:00 pm PST. It will bidirectionally sync all unsubscribes in MSE/ToutApp with the Opt Out field in Salesforce.
+When you've enabled the unsubscribe sync (Step 3 below) you will be turning on the nightly sync. The sync occurs once a day around 8:00 pm PST. It will bidirectionally sync all unsubscribes in Marketo Sales with the Opt Out field in Salesforce.
 
 ## Configure Unsubscribe Sync to Salesforce {#configure-unsubscribe-sync-to-salesforce}
 

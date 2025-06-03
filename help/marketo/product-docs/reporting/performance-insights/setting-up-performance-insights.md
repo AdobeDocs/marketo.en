@@ -3,6 +3,7 @@ unique-page-id: 12981145
 description: Setting Up Performance Insights - Marketo Docs - Product Documentation
 title: Setting Up Performance Insights
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
+feature: Reporting
 ---
 # Setting Up Performance Insights {#setting-up-performance-insights}
 

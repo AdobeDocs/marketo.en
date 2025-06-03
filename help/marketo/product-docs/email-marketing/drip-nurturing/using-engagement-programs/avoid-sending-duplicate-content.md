@@ -3,6 +3,7 @@ unique-page-id: 10096409
 description: Avoid Sending Duplicate Content - Marketo Docs - Product Documentation
 title: Avoid Sending Duplicate Content
 exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
+feature: Engagement Programs
 ---
 # Avoid Sending Duplicate Content {#avoid-sending-duplicate-content}
 
@@ -11,8 +12,6 @@ Have you ever received the same email twice? Annoying, isn't it?
 Here are seven possible scenarios and results to be aware of to prevent sending someone the same message twice with engagement programs.
 
 ## Scenarios {#scenarios}
-
-A person receives an email that is sent from the Customer Engagement Engine.
 
 | The email is sent from |The person is |Person gets email |
 |---|---|---|

@@ -3,6 +3,7 @@ unique-page-id: 2359915
 description: Remove Stream Content - Marketo Docs - Product Documentation
 title: Remove Stream Content
 exl-id: caab3510-4f91-4832-9817-0d154475db31
+feature: Engagement Programs
 ---
 # Remove Stream Content {#remove-stream-content}
 

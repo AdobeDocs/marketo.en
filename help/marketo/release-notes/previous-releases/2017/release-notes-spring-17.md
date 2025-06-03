@@ -3,6 +3,7 @@ unique-page-id: 12977439
 description: Release Notes -Spring '17 - Marketo Docs - Product Documentation
 title: Release Notes -Spring '17
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
+feature: Release Information
 ---
 # Release Notes: Spring '17 {#release-notes-spring}
 
@@ -12,7 +13,7 @@ Please click the title links to view detailed articles for each feature. **Note*
 
 ## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) are a more direct way for a business to run lead generation campaigns on LinkedIn. People can fill out forms to express interest in a product or service, enabling the business to capture the person’s details and sync them to Marketo, where automated follow-up processes and lead routing activities can occur.
+[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) are a more direct way for a business to run lead generation campaigns on LinkedIn. People can fill out forms to express interest in a product or service, enabling the business to capture the person's details and sync them to Marketo, where automated follow-up processes and lead routing activities can occur.
 
 The Marketo integration with LinkedIn Lead Gen Forms automatically captures the information a lead provides within the Lead Gen form. Follow-up actions and notifications can then be automated using the new **Fills Out LinkedIn Lead Gen Form** trigger and filter.
 
@@ -28,7 +29,7 @@ Gone are the days of cleaning up outdated templates in Sales Insight. Set an exp
 
 ![](assets/four-281-29.png)
 
-## [Bulk Extract APIs for People and Activities](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
+## [Bulk Extract APIs for People and Activities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 Easily transfer large amounts of person and activity data from Marketo to your external systems.
 
@@ -42,7 +43,7 @@ Marketo ABM now allows you to create up to 10 custom fields on your Named Accoun
 
 Named Account scores can vary greatly. Marketo ABM now automatically calculates a percentile for each of your scores, so you can see at a glance where each Named Account ranks among your other Named Accounts.
 
-**[ABM Account List APIs](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+**[ABM Account List APIs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 Take advantage of rich and robust ABM partner integrations with enhanced API support for Named Account Lists.
 
@@ -60,7 +61,7 @@ New Web Campaign effects provide your web visitors with a more personalized expe
 
 **[Web Campaign Upon Exit Intent](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
-Capture your visitor’s attention before they close your page. Set your personalized Web Campaigns to display only when a mouse gesture indicates the visitor is leaving the page.
+Capture your visitor's attention before they close your page. Set your personalized Web Campaigns to display only when a mouse gesture indicates the visitor is leaving the page.
 
 **[Animation Effects for Web Campaigns](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 

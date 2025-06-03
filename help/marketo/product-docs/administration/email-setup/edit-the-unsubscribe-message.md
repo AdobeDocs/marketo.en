@@ -3,6 +3,7 @@ unique-page-id: 2360251
 description: Edit the Unsubscribe Message - Marketo Docs - Product Documentation
 title: Edit the Unsubscribe Message
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
+feature: Email Setup
 ---
 # Edit the Unsubscribe Message {#edit-the-unsubscribe-message}
 
@@ -12,11 +13,15 @@ exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 
 When you send marketing emails (non-[operational](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), unsubscribe text and links are appended to the bottom. You can change the defaults. Here's how.
 
-## Edit the Unsubscribe Message {#edit-the-unsubscribe-message-1}
+## Where to Make the Edit {#where-to-make-the-edit}
 
-1. Under **Admin**, click **Email**.
+1. Go to the **[!UICONTROL Admin]** section.
 
-   ![](assets/image2014-9-18-16-3a52-3a1.png)
+   ![](assets/edit-the-unsubscribe-message-1.png)
+
+1. Click **[!UICONTROL Email]**.
+
+   ![](assets/edit-the-unsubscribe-message-2.png)
 
    >[!CAUTION]
    >
@@ -25,9 +30,9 @@ When you send marketing emails (non-[operational](/help/marketo/product-docs/ema
    >* `%mkt_opt_out_prefix%`
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
-1. Edit the **Unsubscribe HTML** and **Unsubscribe Text** versions to your liking and click **Save Changes**.
+1. Edit the **[!UICONTROL Unsubscribe HTML]** and **[!UICONTROL Unsubscribe Text]** versions to your liking and click **[!UICONTROL Save Changes]**.
 
-   ![](assets/image2016-8-26-13-3a40-3a55.png)
+   ![](assets/edit-the-unsubscribe-message-3.png)
 
    There you have it. _Make sure to test!_ You don't want your marketing emails to have broken unsubscribe links.
 
@@ -39,9 +44,9 @@ When you send marketing emails (non-[operational](/help/marketo/product-docs/ema
 
 If you ever need to revert to default system unsubscribe, copy/paste the following:
 
-Unsubscribe HTML:
-`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` Unsubscribe Text:
-`<pre data-theme="Confluence">%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##</pre>`
+[!UICONTROL Unsubscribe HTML]:
+`<p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p>` [!UICONTROL Unsubscribe Text]:
+`%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
 >[!MORELIKETHIS]
 >

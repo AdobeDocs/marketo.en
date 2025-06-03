@@ -3,6 +3,7 @@ unique-page-id: 2360317
 description: Assign Person Partitions to Workspaces - Marketo Docs - Product Documentation
 title: Assign Person Partitions to Workspaces
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
+feature: Workspaces
 ---
 # Assign Person Partitions to Workspaces {#assign-person-partitions-to-workspaces}
 
@@ -14,40 +15,44 @@ Here's how to edit the person partition / workspace assignments:
 
 >[!PREREQUISITES]
 >
->[Create a New Workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+>[Create a New Workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
 
 >[!CAUTION]
 >
->Workspaces and Person Partitions can be complex. Please contact  [Marketo support](https://nation.marketo.com/t5/Support/ct-p/Support) for help in setting them up.
+>Workspaces and Person Partitions can be complex. Please contact  [Marketo support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} for help in setting them up.
 
-1. Under Admin, click on **Workspaces & Partitions**.
+1. Go to the **[!UICONTROL Admin]** area. 
 
-![](assets/image2014-9-17-11-3a13-3a24.png)
+   ![](assets/assign-person-partitions-to-workspaces-1.png)
 
-1. Select your workspace and click **Edit Workspace**.
+1. Click **[!UICONTROL Workspaces & Partitions]**.
 
-   ![](assets/two-3.png)
+   ![](assets/assign-person-partitions-to-workspaces-2.png)
+
+1. Select your workspace and click **[!UICONTROL Edit Workspace]**.
+
+   ![](assets/assign-person-partitions-to-workspaces-3.png)
 
 1. Edit the person partition information you want to change.
 
+   ![](assets/assign-person-partitions-to-workspaces-4.png)
+
    >[!NOTE]
    >
-   >The All Person Partitions checkbox indicates that this workspace has access to all person partitions in the system.
+   >* The "[!UICONTROL All Person Partitions]" checkbox indicates that this workspace has access to all person partitions in the system.
+   >
+   >* Primary person partitions are the default where all peoples will be entered. Use [flow steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) or [assignment rules](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} to move people around.
 
-   ![](assets/three-3.png)
+1. Click **[!UICONTROL Save]**.
 
-   Primary person partitions are the default where all peoples will be entered. Use [flow steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) or [assignment rules](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) to move people around.
+   ![](assets/assign-person-partitions-to-workspaces-5.png)
 
-1. Click **Save**.
+After saving, you should see the changes.
 
-   ![](assets/four-3.png)
+   ![](assets/assign-person-partitions-to-workspaces-6.png)
 
-   After saving, you should see the changes!
-
-   ![](assets/image2014-9-17-11-3a14-3a53.png)
-
-Congratulations! You have successfully edited your workspace!
+You have successfully edited your workspace!
 
 >[!MORELIKETHIS]
 >
->[Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>[Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.

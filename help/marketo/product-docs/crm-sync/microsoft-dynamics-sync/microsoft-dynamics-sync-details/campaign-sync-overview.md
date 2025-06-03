@@ -2,6 +2,7 @@
 description: Campaign Sync Overview - Marketo Docs - Product Documentation
 title: Campaign Sync Overview
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
+feature: Microsoft Dynamics
 ---
 # Campaign Sync Overview {#campaign-sync-overview}
 
@@ -9,23 +10,23 @@ As part of Campaign Sync, users can set up automation to operate on membership o
 
 >[!PREREQUISITES]
 >
->Update to the latest version of the Dynamics plug-in for Marketo.
+>Update to the latest version of the Dynamics plug-in for Marketo Engage.
 
 The following flow actions are available:
 
-* Add to Microsoft Campaign
-* Remove from Microsoft Campaign
+* [!UICONTROL Add to Microsoft Campaign]
+* [!UICONTROL Remove from Microsoft Campaign]
 
 >[!NOTE]
 >
->**Remove from Microsoft Campaign** will only remove people that were added using flow actions in Marketo.
+>**[!UICONTROL Remove from Microsoft Campaign]** will only remove people that were added using flow actions in Marketo.
 
 There are also two triggers:
 
-* Added to Microsoft Campaign
-* Removed from Microsoft Campaign
+* [!UICONTROL Added to Microsoft Campaign]
+* [!UICONTROL Removed from Microsoft Campaign]
 
-The triggers will execute based on actions from the Marketo Flow Action “Add to Microsoft Campaign” and “Removed from Microsoft Campaign”.  
+The triggers will execute based on actions from the Marketo Flow Action "[!UICONTROL Add to Microsoft Campaign]" and "[!UICONTROL Removed from Microsoft Campaign]."
 
 >[!NOTE]
 >
@@ -33,5 +34,5 @@ The triggers will execute based on actions from the Marketo Flow Action “Add t
 
 >[!MORELIKETHIS]
 >
->* [Enable Campaign Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
->* [Add or Remove People from your Dynamics Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
+>* [Enable Campaign Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md){target="_blank"}
+>* [Add or Remove People from your Dynamics Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}

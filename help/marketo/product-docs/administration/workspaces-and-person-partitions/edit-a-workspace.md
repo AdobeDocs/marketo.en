@@ -3,6 +3,7 @@ unique-page-id: 11380986
 description: Edit a Workspace - Marketo Docs - Product Documentation
 title: Edit a Workspace
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
+feature: Workspaces
 ---
 # Edit a Workspace {#edit-a-workspace}
 
@@ -14,35 +15,39 @@ Sometimes you need to make changes in a Workspace. It's easy.
 
 >[!NOTE]
 >
->Brush up on workspaces with [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Brush up on workspaces with [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
-1. Under **Admin**, click on **Workspaces & Partitions**.
+1. Go to the **[!UICONTROL Admin]** area. 
 
-   ![](assets/image2014-9-17-11-3a59-3a11-1.png)
+   ![](assets/edit-a-workspace-1.png)
 
-1. Select the workspace you want to edit and click **Edit Workspace**.
+1. Click **[!UICONTROL Workspaces & Partitions]**.
 
-   ![](assets/two-7.png)
+   ![](assets/edit-a-workspace-2.png)
+
+1. Select the workspace you want to edit and click **[!UICONTROL Edit Workspace]**.
+
+   ![](assets/edit-a-workspace-3.png)
 
 1. You can select a different lead partition and choose a different primary person partition from the drop-down.
 
    >[!NOTE]
    >
-   >You can [create more person partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) if you need them.
+   >You can [create more person partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} if you need them.
 
-   ![](assets/three-7.png)
-
-   >[!NOTE]
-   >
-   >The **All Person Partitions** checkbox means that this workspace can use all lead partitions in the system.
+   ![](assets/edit-a-workspace-4.png)
 
    >[!NOTE]
    >
-   >The **primary person partition** acts as the default and is where all people will be assigned.
+   >The **[!UICONTROL All Person Partitions]** checkbox means that this workspace can use all lead partitions in the system.
 
-   If you enabled multiple branded domains, you can change to a different primary branded domain. Click **Save**.
+   >[!NOTE]
+   >
+   >The **[!UICONTROL Primary Person Partition]** acts as the default and is where all people will be assigned.
 
-   ![](assets/four-6.png)
+   If you enabled multiple branded domains, you can change to a different primary branded domain. Click **[!UICONTROL Save]**.
+
+   ![](assets/edit-a-workspace-5.png)
 
    >[!NOTE]
    >
@@ -50,5 +55,5 @@ Sometimes you need to make changes in a Workspace. It's easy.
 
 >[!MORELIKETHIS]
 >
->* [Create a New Workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
->* [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
+>* [Create a New Workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
+>* [Understanding Workspaces and Person Partitions](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}

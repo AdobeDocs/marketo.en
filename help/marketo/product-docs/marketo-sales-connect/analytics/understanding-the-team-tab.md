@@ -3,6 +3,7 @@ unique-page-id: 14352414
 description: Understanding the Team Tab - Marketo Docs - Product Documentation
 title: Understanding the Team Tab
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
+feature: Marketo Sales Connect
 ---
 # Understanding the Team Tab {#understanding-the-team-tab}
 

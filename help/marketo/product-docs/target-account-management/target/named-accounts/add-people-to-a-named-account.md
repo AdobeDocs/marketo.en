@@ -3,6 +3,7 @@ unique-page-id: 11378816
 description: Add People to a Named Account - Marketo Docs - Product Documentation
 title: Add People to a Named Account
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
+feature: Target Account Management
 ---
 # Add People to a Named Account {#add-people-to-a-named-account}
 

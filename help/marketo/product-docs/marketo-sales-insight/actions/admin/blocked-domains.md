@@ -1,9 +1,8 @@
 ---
 description: Blocked Domains - Marketo Docs - Product Documentation
 title: Blocked Domains
-hide: yes
-hidefromtoc: yes
 exl-id: 004ba212-485e-4412-be75-7de13505d9b0
+feature: Sales Insight Actions
 ---
 # Blocked Domains {#blocked-domains}
 

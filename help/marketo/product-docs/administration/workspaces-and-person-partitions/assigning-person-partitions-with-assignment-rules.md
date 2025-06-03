@@ -3,6 +3,7 @@ unique-page-id: 2360327
 description: Assigning Person Partitions with Assignment Rules - Marketo Docs - Product Documentation
 title: Assigning Person Partitions with Assignment Rules
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
+feature: Partitions
 ---
 # Assigning Person Partitions with Assignment Rules {#assigning-person-partitions-with-assignment-rules}
 
@@ -20,37 +21,41 @@ When using person partitions, set up assignment rules to route people created fr
 >
 >Only people created in Marketo from your CRM and via the SOAP API will have assignment rules applied to them.
 
-1. Under Admin, click Workspaces & Partitions.
+1. Go to the **[!UICONTROL Admin]** area. 
 
-   ![](assets/image2014-9-17-10-3a32-3a55.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. Under the **People Partitions** tab, click on **Assignment Rules**.
+1. Click **[!UICONTROL Workspaces & Partitions]**.
 
-   ![](assets/two-6.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. Click **Add Choice** to add conditions for routing people into person partitions.
+1. Under the **[!UICONTROL Person Partitions]** tab, click **[!UICONTROL Assignment Rules]**.
 
-   ![](assets/three-6.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
+
+1. Click **[!UICONTROL Add Choice]** to add conditions for routing people into person partitions.
+
+   ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 
 1. Select the field the condition should be built on.  
 
-   ![](assets/four-5.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-5.png)
 
 1. Choose the choice operator and enter a value.
 
-   ![](assets/five-1.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-6.png)
 
 1. Select the People Partition you want the people that meet the conditions to fall into.
 
-   ![](assets/six-1.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-7.png)
 
    >[!NOTE]
    >
    >You can add as many choices as you like.
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
-   ![](assets/seven.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 
 And there you have it! You have assigned rules for filling your person partitions with people!
 

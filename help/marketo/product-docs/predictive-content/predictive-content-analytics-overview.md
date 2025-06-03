@@ -3,6 +3,7 @@ unique-page-id: 12981204
 description: Predictive Content Analytics Overview - Marketo Docs - Product Documentation
 title: Predictive Content Analytics Overview
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
+feature: Predictive Content
 ---
 # Predictive Content Analytics Overview {#predictive-content-analytics-overview}
 

@@ -3,6 +3,7 @@ unique-page-id: 14352623
 description: User Access Details - Marketo Docs - Product Documentation
 title: User Access Details
 exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
+feature: Marketo Sales Connect
 ---
 # User Access Details {#user-access-details}
 
@@ -10,7 +11,7 @@ What do Admins and non-Admins have access to?
 
 ## Admin User Permissions {#admin-user-permissions}
 
-Admins can [view all templates](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
+Admins can [view all templates](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
 
 ![](assets/templates.jpg)
 

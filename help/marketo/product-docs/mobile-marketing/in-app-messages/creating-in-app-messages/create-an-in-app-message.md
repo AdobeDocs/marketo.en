@@ -2,6 +2,7 @@
 description: Create an In-App Message - Marketo Docs - Product Documentation
 title: Create an In-App Message
 exl-id: 4efcdfe6-c1c3-4082-8eab-3e83c5cefa00
+feature: Mobile Marketing
 ---
 # Create an In-App Message {#create-an-in-app-message}
 

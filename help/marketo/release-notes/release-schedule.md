@@ -3,27 +3,23 @@ unique-page-id: 5472490
 description: Release Schedule - Marketo Docs - Product Documentation
 title: Release Schedule
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
+feature: Release Information
 ---
 # Release Schedule {#release-schedule}
 
 **Release**: The month/year of each release. Once available, the release notes will be linked in the table below.
 
-**Release Date**: Rollout typically begins on Tuesday of release week, with the bulk of the upgrade happening Friday evening. An email is sent out with specific dates and release details. The date listed is for the Friday update.
+**Release Date**: Rollout typically begins on Tuesday of release week, with more of the upgrade happening Friday evening. The date listed is for the Friday update.
 
 **Status**:
 
-* On Schedule - We're planning to release the quarterly features and enhancements on the indicated date
-* In Progress - We're developing and documenting the content now for release on the indicated date
+* On Schedule - We're planning to release the features and enhancements on the indicated date
+* In Progress - We're in the process of rolling out the features of the release
 * Shipped - The release is complete
 
-_Release dates are subject to change_
+_Release dates/features are subject to change_
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup>
+<table>
  <tbody> 
   <tr> 
    <th width="250px">Release</th>
@@ -31,33 +27,43 @@ _Release dates are subject to change_
    <th width="250px">Status</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">January '22</a></td>
-   <td>January 21, 2022</td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-jan-25.md">January '25</a></td>
+   <td>January 17, 2025</td>
+   <td>Shipped</td>
+  </tr>
+   <tr> 
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-mar-25.md">March '25</a></td>
+   <td>March 28, 2025</td>
+   <td>Shipped</td>
+  </tr>
+  <tr> 
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-apr-25.md">April '25</a></td>
+   <td>April '25</td>
+   <td>Shipped</td>
+  </tr>
+  <tr> 
+   <td><a href="/help/marketo/release-notes/current.md">May '25</a></td>
+   <td>May 23, 2025</td>
    <td>In Progress</td>
   </tr>
   <tr> 
-   <td>March '22</td>
-   <td>March 11, 2022</td>
+   <td>July '25</td>
+   <td>July 11, 2025</td>
    <td>On Schedule</td>
   </tr>
   <tr> 
-   <td>May '22</td>
-   <td>May 6, 2022</td>
+   <td>August '25</td>
+   <td>August 22, 2025</td>
    <td>On Schedule</td>
   </tr>
   <tr> 
-   <td>June '22</td>
-   <td>June 24, 2022</td>
+   <td>September '25</td>
+   <td>September 19, 2025</td>
    <td>On Schedule</td>
   </tr>
   <tr> 
-   <td>August '22</td>
-   <td>August 19, 2022</td>
-   <td>On Schedule</td>
-  </tr>
-  <tr>
-   <td>October '22</td>
-   <td>October 14, 2022</td>
+   <td>October '25</td>
+   <td>October 17, 2025</td>
    <td>On Schedule</td>
   </tr>
  </tbody>

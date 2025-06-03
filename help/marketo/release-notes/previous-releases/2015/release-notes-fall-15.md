@@ -3,6 +3,7 @@ unique-page-id: 10094114
 description: Release Notes - Fall 2015 - Marketo Docs - Product Documentation
 title: Release Notes - Fall 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
+feature: Release Information
 ---
 # Release Notes: Fall 2015 {#release-notes-fall}
 
@@ -38,7 +39,7 @@ Easily create custom objects from the admin UI. We currently support the ability
 
 [Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-We’re excited to announce the release of an update to our Google Mail Sales Insight extension! View it in the  [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+We’re excited to announce the release of an update to our Google Mail Sales Insight extension! View it in the  [Chrome Store](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 This update includes many new features and functionality:
 

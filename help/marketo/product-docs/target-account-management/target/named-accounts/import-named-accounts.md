@@ -3,6 +3,7 @@ unique-page-id: 12615800
 description: Import Named Accounts - Marketo Docs - Product Documentation
 title: Import Named Accounts
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
+feature: Target Account Management
 ---
 # Import Named Accounts {#import-named-accounts}
 

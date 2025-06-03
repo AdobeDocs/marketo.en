@@ -3,6 +3,7 @@ unique-page-id: 2359618
 description: Add Rich Text to a Form - Marketo Docs - Product Documentation
 title: Add Rich Text to a Form
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
+feature: Forms
 ---
 # Add Rich Text to a Form {#add-rich-text-to-a-form}
 

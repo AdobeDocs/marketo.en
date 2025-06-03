@@ -3,6 +3,7 @@ unique-page-id: 42762794
 description: Using Bulk Actions in Salesforce Classic - Marketo Docs - Product Documentation
 title: Using Bulk Actions in Salesforce Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
+feature: Marketo Sales Connect
 ---
 # Using Bulk Actions in Salesforce Classic {#using-bulk-actions-in-salesforce-classic}
 

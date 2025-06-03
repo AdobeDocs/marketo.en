@@ -3,20 +3,25 @@ unique-page-id: 4719294
 description: Customize Activities Sync - Marketo Docs - Product Documentation
 title: Customize Activities Sync
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
+feature: Salesforce Integration
 ---
 # Customize Activities Sync {#customize-activities-sync}
 
-If you don't use Marketo Sales Insight, Marketo can create Salesforce Activity History Records for certain events. Here's how to enable them.
+If you don't use Marketo Sales Insight, Marketo Engage can create Salesforce Activity History Records for certain events. Here's how to enable them.
 
-1. Go to **Admin**.
+>[!NOTE]
+>
+>The Salesforce/Marketo Engage sync will not push any activities to Salesforce that occurred prior to the person getting pushed to Salesforce.
 
-   ![](assets/admin.png)
+1. Go to **[!UICONTROL Admin]**.
 
-1. Click **Salesforce**, then click **Edit Sync Options**.
+   ![](assets/customize-activities-sync-1.png)
+
+1. Click **[!DNL Salesforce]**, then click **[!UICONTROL Edit Sync Options]**.
 
    ![](assets/two-1.png)
 
-1. Check the boxes next to activities you want Marketo to push to Salesforce, and click **Save**.
+1. Check the boxes next to activities you want Marketo to push to Salesforce, and click **[!UICONTROL Save]**.
 
    ![](assets/three-1.png)
 
@@ -89,8 +94,8 @@ If you don't use Marketo Sales Insight, Marketo can create Salesforce Activity H
 
    >[!NOTE]
    >
-   >"Sales email received" does **not** mean delivered. Delivered status is not captured for emails sent via Sales Insight.
+   >"Sales email received" does _not_ mean delivered. Delivered status is not captured for emails sent via Sales Insight.
 
    >[!TIP]
    >
-   >If you're interested in getting more Marketo information into Salesforce, check out our [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) product.
+   >If you're interested in getting more Marketo information into Salesforce, check out our [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} product.

@@ -3,6 +3,7 @@ unique-page-id: 10099798
 description: Filtering in Email Insights - Marketo Docs - Product Documentation
 title: Filtering in Email Insights
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
+feature: Reporting
 ---
 # Filtering in Email Insights {#filtering-in-email-insights}
 

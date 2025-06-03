@@ -3,6 +3,7 @@ unique-page-id: 27656223
 description: Install Salesforce Customization for Professional Edition Customers - Marketo Docs - Product Documentation
 title: Install Salesforce Customization for Professional Edition Customers
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
+feature: Marketo Sales Connect
 ---
 # Install Salesforce Customization for Professional Edition Customers {#install-salesforce-customization-for-professional-edition-customers}
 

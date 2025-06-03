@@ -3,6 +3,7 @@ unique-page-id: 7511877
 description: Interesting Moments in Salesforce1 - Marketo Docs - Product Documentation
 title: Interesting Moments in Salesforce1
 exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
+feature: Marketo Sales Insights
 ---
 # Interesting Moments in Salesforce1 {#interesting-moments-in-salesforce}
 

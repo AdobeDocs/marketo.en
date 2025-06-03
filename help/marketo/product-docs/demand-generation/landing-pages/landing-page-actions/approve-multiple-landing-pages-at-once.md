@@ -3,32 +3,33 @@ unique-page-id: 2359724
 description: Approve Multiple Landing Pages at Once - Marketo Docs - Product Documentation
 title: Approve Multiple Landing Pages at Once
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
+feature: Landing Pages
 ---
 # Approve Multiple Landing Pages at Once {#approve-multiple-landing-pages-at-once}
 
 1. Go to **Design Studio**.
 
-   ![](assets/image2014-9-17-11-3a35-3a5.png)
+   ![](assets/approve-multiple-landing-pages-at-once-1.png)
 
 1. Click **Landing Pages**.
 
-   ![](assets/image2014-9-17-11-3a35-3a11.png)
+   ![](assets/approve-multiple-landing-pages-at-once-2.png)
 
-1. Hold Ctrl (Windows) or Command (Mac) and click to select multiple landing pages.
+1. Select the desired Landing Pages.
 
-   ![](assets/image2014-9-17-11-3a35-3a19.png)
+   ![](assets/approve-multiple-landing-pages-at-once-3.png)
 
    >[!TIP]
    >
-   >Do not click the actual landing page name, those are links and will take you to the page itself.
+   >Do not click the actual Landing Page name, those are links and will take you to the page itself.
 
-1. With your landing pages selected, go to **Landing Page Actions** and click on **Approve**.
+1. With your Landing Pages selected, click the **Landing Page Actions** drop-down and select **Approve**.
 
-   ![](assets/image2014-9-17-11-3a35-3a27.png)
+   ![](assets/approve-multiple-landing-pages-at-once-4.png)
 
-   There you go! You can now quickly and easily approve multiple landing pages.
+1. Click **Approve**.
 
-   ![](assets/image2014-9-17-11-3a35-3a36.png)
+   ![](assets/approve-multiple-landing-pages-at-once-5.png)
 
    >[!TIP]
    >

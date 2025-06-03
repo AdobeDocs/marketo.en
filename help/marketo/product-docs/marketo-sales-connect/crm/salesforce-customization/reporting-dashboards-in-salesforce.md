@@ -3,6 +3,7 @@ unique-page-id: 14352464
 description: Reporting Dashboards in Salesforce - Marketo Docs - Product Documentation
 title: Reporting Dashboards in Salesforce
 exl-id: f27ba3e1-210b-46df-81b5-e794826d36c7
+feature: Marketo Sales Connect
 ---
 # Reporting Dashboards in Salesforce {#reporting-dashboards-in-salesforce}
 

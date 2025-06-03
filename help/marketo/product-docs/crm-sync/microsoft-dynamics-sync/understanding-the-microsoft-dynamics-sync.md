@@ -3,10 +3,11 @@ unique-page-id: 10098625
 description: Understanding the Microsoft Dynamics Sync - Marketo Docs - Product Documentation
 title: Understanding the Microsoft Dynamics Sync
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
+feature: Microsoft Dynamics
 ---
 # Understanding the Microsoft Dynamics Sync {#understanding-the-microsoft-dynamics-sync}
 
-Marketo and Microsoft Dynamics go together. We keep your sales and marketing data in sync.
+Marketo Engage and Microsoft Dynamics go together. We keep your sales and marketing data in sync.
 
 >[!NOTE]
 >
@@ -14,7 +15,7 @@ Marketo and Microsoft Dynamics go together. We keep your sales and marketing dat
 
 >[!CAUTION]
 >
->We do not currently support sandbox refresh for Marketo Dynamics Sync. If you need to refresh your Dynamics CRM sandbox, a new Marketo sandbox will be required. Please contact your Customer Success Manager for additional details.
+>We do not currently support sandbox refresh for Marketo Dynamics Sync. If you need to refresh your Dynamics CRM sandbox, a new Marketo sandbox will be required. Please contact the Adobe Account Team (your Account Manager) for additional details.
 
 ## How Sync Works {#how-sync-works}
 

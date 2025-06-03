@@ -3,6 +3,7 @@ unique-page-id: 11385940
 description: Edit Predictive Content for Rich Media - Marketo Docs - Product Documentation
 title: Edit Predictive Content for Rich Media
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
+feature: Predictive Content
 ---
 # Edit Predictive Content for Rich Media {#edit-predictive-content-for-rich-media}
 
@@ -23,6 +24,10 @@ Here's how to set up your predictive content for Rich Media.
 1. You'll notice you can have separate images for Email and Rich Media. To add/change the image, paste the image URL into its text box.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
+
+   >[!NOTE]
+   >
+   >JPEG images with the color model CMYK are not supported for rich media. JPEGs must be converted to sRGB using a color profile. Be sure to choose this setting when exporting from your image editor.
 
 1. Type in a **Description**.
 

@@ -3,6 +3,7 @@ unique-page-id: 7511512
 description: Install and Configure Marketo Sales Insight in Salesforce1 - Marketo Docs - Product Documentation
 title: Install and Configure Marketo Sales Insight in Salesforce1
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
+feature: Marketo Sales Insights
 ---
 # Install and Configure Marketo Sales Insight in Salesforce1 {#install-and-configure-marketo-sales-insight-in-salesforce}
 

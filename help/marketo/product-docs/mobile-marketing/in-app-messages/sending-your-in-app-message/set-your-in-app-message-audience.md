@@ -3,6 +3,7 @@ unique-page-id: 10617431
 description: Set Your In-App Message Audience - Marketo Docs - Product Documentation
 title: Set Your In-App Message Audience
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
+feature: Mobile Marketing
 ---
 # Set Your In-App Message Audience {#set-your-in-app-message-audience}
 

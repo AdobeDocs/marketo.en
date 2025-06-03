@@ -3,6 +3,7 @@ unique-page-id: 6094890
 description: Release Notes -February 2015 - Marketo Docs - Product Documentation
 title: Release Notes -February 2015
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
+feature: Release Information
 ---
 # Release Notes: February 2015 {#release-notes-february}
 
@@ -22,7 +23,7 @@ To protect confidentiality and integrity of customer data and SaaS services, Mar
 
 and will replace currently used security protocols (SHA-1 and SSL) with more secure versions (SHA-2 (a.k.a. SHA-256) and TLS) for the following domains:
 
-* [marketo.net](https://marketo.net) (encrypted Munchkin traffic)
+* marketo.net (encrypted Munchkin traffic)
 
 * [marketo.com](https://marketo.com) (main SaaS applications)
 

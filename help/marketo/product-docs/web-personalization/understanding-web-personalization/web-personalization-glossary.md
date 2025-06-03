@@ -3,6 +3,7 @@ unique-page-id: 3571927
 description: Web Personalization Glossary - Marketo Docs - Product Documentation
 title: Web Personalization Glossary
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
+feature: Web Personalization
 ---
 # Web Personalization Glossary {#web-personalization-glossary}
 
@@ -24,14 +25,14 @@ Some insights into the world and language of Marketo Web Personalization.
 
 Here are three ways you can use a wildcard in Web Personalization.
 
-Match all visitors on page URLs that end with pricing (for example, [www.marketo.com/pricing):](https://www.marketo.com/pricing):)
+Match all visitors on page URLs that end with pricing (for example, `www.marketo.com/pricing`
 
 ![](assets/wildcard-example-1.png)
 
-Match all visitors on page URLs that start with https:// (for example, [https://www.marketo.com):](https://www.marketo.com))
+Match all visitors on page URLs that start with https:// (for example, `https://www.marketo.com`
 
 ![](assets/wildcard-example-2.png)
 
-Match all visitors on page URLs that include the word backup (for example, [https://www.marketo.com/backup/pricing.html):](https://www.marketo.com/backup/pricing.html):)
+Match all visitors on page URLs that include the word backup (for example, `https://www.marketo.com/backup/pricing.html`
 
 ![](assets/wildcard-example-3.png)
