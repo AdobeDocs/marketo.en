@@ -47,13 +47,8 @@ _Release dates/features are subject to change_
    <td>In Progress</td>
   </tr>
   <tr> 
-   <td>June '25</td>
-   <td>June 27, 2025</td>
-   <td>On Schedule</td>
-  </tr>
-  <tr> 
    <td>July '25</td>
-   <td>July 25, 2025</td>
+   <td>July 11, 2025</td>
    <td>On Schedule</td>
   </tr>
   <tr> 
