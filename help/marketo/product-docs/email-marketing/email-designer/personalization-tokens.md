@@ -26,13 +26,13 @@ A look at the token experience, both old and new.
 
 In the classic email editor, you could add tokens with spaces, such as `lead.Anonymous IP`, or `member.registration code`. The format for default text was: `{{lead.City:default=fallback}}`
 
-   ![](assets/personalization-tokens-1.png){width="500" zoomable="yes"}
+   ![](assets/personalization-tokens-1.png){width="800" zoomable="yes"}
 
 ### New Format {#new-format} 
 
 In the email designer, you must use [camel case](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) or underscores for tokens (e.g., `lead.anonymousIP` or `member.registration_code`). The format for default text also changes to `{%=lead.city ?: "fallback" %}`. 
 
-   ![](assets/personalization-tokens-2.png){width="600" zoomable="yes"}
+   ![](assets/personalization-tokens-2.png){width="800" zoomable="yes"}
 
 ## Things to Note {#things-to-note}
 

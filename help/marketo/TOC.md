@@ -1028,6 +1028,7 @@ feature-set: Marketo Engage
         + [Edit images with Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
         + [Fragments](product-docs/email-marketing/email-designer/fragments.md)
         + [Customizable Fragments](product-docs/email-marketing/email-designer/customizable-fragments.md)
+        + [GenStudio Integration for Marketo Engage](product-docs/email-marketing/email-designer/genstudio.md)
         + [Content Locking](product-docs/email-marketing/email-designer/content-locking.md)
         + [AI Assistant](product-docs/email-marketing/email-designer/ai-assistant.md)
     + Email Programs {#email-programs}

@@ -3,10 +3,13 @@ title: GenStudio Integration for Marketo Engage
 description: Learn how to use GenStudio in Marketo Engage.
 hide: yes
 hidefromtoc: yes
+feature: Email Editor
+solution: Marketo Engage
+product: marketo
 ---
-# GenStudio Integration for Marketo Engage {#work-with-experience-manager-assets}
+# GenStudio Integration for Marketo Engage {#genstudio-integration-for-marketo-engage}
 
-Adobe GenStudio for Performance Marketing is a generative AI-first application that lets you create your own ads and emails to drive impactful, personalized marketing campaigns that adhere to your brand standards and comply with your enterprise policies. It offers a host of tools that simplify the complexities of content creation.
+Adobe GenStudio for Performance Marketing is a generative AI-first application that lets you create your own ads and emails to drive impactful, personalized marketing campaigns that meet your brand standards and comply with your enterprise policies. It offers a host of tools that simplify the complexities of content creation.
 
 >[!INFO]
 >
@@ -24,41 +27,39 @@ Easily export a template including your brand's guidelines to GenStudio for Perf
 
 1. In the Email Designer, click the **More** button and select **Export HTML**.
 
-   SCREENSHOT
+   ![Exporting your HTML](assets/genstudio-integration-1.png)
 
 1. [Upload the HTML](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} exported template into GenStudio for Performance Marketing.
 
-1. In GenStudio, use this template to create several email variations with AI prompts and save them.
-
->[!NOTE]
->
->Learn how to create email experiences in the [GenStudio dedicated section](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}.
+1. In GenStudio, use this template to [create several email variations](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} with AI prompts and save them.
 
 ## Leverage GenStudio Experiences in Marketo Engage {#leverage-genstudio-experiences}
 
 To leverage the GenStudio email variations you created by importing them into Marketo Engage, follow the steps below.
 
-1. In Marketo Engage, create an email.
+1. In Marketo Engage, [create an email](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#create-an-email).
 
-1. In the Email detail page, click **Edit email body** to open the Email Designer.
+1. In the Email detail page, click **Edit email content**.
 
-1. Select **Import HTML** and click the **Adobe GenStudio for Performance Marketing** button.
+   ![Edit email content button](assets/genstudio-integration-2.png)
 
-   SCREENSHOT
+1. Select **Import HTML**.
+
+   ![Import HTML button](assets/genstudio-integration-3.png)
+
+1. Click the **Adobe GenStudio for Performance Marketing** button.
+
+   ![Adobe GenStudio for Performance Marketing button](assets/genstudio-integration-4.png)
 
 1. Browse the GenStudio experiences to start building your content. You can filter the experiences on such criteria as products, personas, brands, or even colors.
 
 1. Select an experience and click **Use**.
 
-SCREENSHOT
+   ![Select the desired experience](assets/genstudio-integration-5.png){width="800" zoomable="yes"}
 
-1. Select the folder where you want to import the GenStudio experience.
+1. The selected content displays in the Email Designer.
 
-SCREENSHOT
-
-The selected content displays in the Email Designer.
-
-SCREENSHOT
+   ![Email Designer](assets/genstudio-integration-6.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
